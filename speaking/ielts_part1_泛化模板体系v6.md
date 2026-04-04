@@ -221,7 +221,7 @@
    → Q119（博物馆T-Rex）Q23（画画送礼）Q60（人生阶段）
 
 ② He's usually quiet, but when it comes to [dinosaurs/drawing/LEGO], he comes alive.
-   → Q116（博物馆）Q48（童年活动对比）Q87（拥挤-LEGO橱窗）
+   → Q119（博物馆-恐龙前站住不走）Q48（童年活动-画画停不下来）Q87（拥挤-LEGO橱窗入迷）
 
 ③ He stops every two minutes to look at [ants/flowers/puddles].
    → Q35（散步）Q31（散步观察力）Q174（小区散步）
