@@ -218,22 +218,22 @@
 **高频实战句式**：
 ```
 ① My five-year-old [does X], which is [funny/touching/remarkable for a shy kid].
-   → 万能开头，后面填任何孩子的行为都行
+   → Q119（博物馆T-Rex）Q23（画画送礼）Q60（人生阶段）
 
 ② He's usually quiet, but when it comes to [dinosaurs/drawing/LEGO], he comes alive.
-   → 用"反转"制造趣味：害羞的孩子突然有活力
+   → Q116（博物馆）Q48（童年活动对比）Q87（拥挤-LEGO橱窗）
 
 ③ He stops every two minutes to look at [ants/flowers/puddles].
-   → 散步/户外/观察力话题万能句
+   → Q35（散步）Q31（散步观察力）Q174（小区散步）
 
 ④ With a young kid, finding time for [activity] is a luxury.
-   → 时间/爱好/休闲话题万能句
+   → Q6（养宠物精力）Q30（阅读时间）Q69（见朋友时间）Q135（空闲时间）
 
 ⑤ He keeps asking for [something], but I keep saying maybe when he's older.
-   → 动物/礼物/愿望话题
+   → Q7（想养狗）Q145（带他去京都）Q163（想要更大的房间）
 
 ⑥ Every [drawing/new character he writes] gets an enthusiastic reaction from me.
-   → 鼓励/教育/分享话题
+   → Q82（做得好-鼓励）Q23（收到画作礼物）Q127（分享-儿子作品）
 ```
 
 **适用话题**：日常习惯、散步、休闲、教育、礼物、分享、鼓励、时间管理、人生阶段、博物馆、做饭、购物……几乎所有话题。
@@ -257,22 +257,22 @@
 **高频实战句式**：
 ```
 ① Growing up in Yibin with my grandparents, [童年经验].
-   → 童年/活动/户外话题万能开头
+   → Q1（食物）Q7（宠物）Q14（童年爱好）Q32（散步）Q49（童年活动）
 
 ② My grandfather [in Yibin] taught me [skill/value] through [everyday activity].
-   → 学习/老人/智慧话题
+   → Q14（散步认植物）Q56（人生阶段）Q92/Q94（老人智慧）Q100（种菜）Q169（家乡传统）
 
 ③ Back in Yibin, everything was [slow/quiet/simple]. Very different from Chengdu now.
-   → 城市对比/变化话题万能句
+   → Q19（早起对比）Q32（散步对比）Q51（童年活动对比）Q95（老人对比）Q111（广告对比）
 
 ④ He has an incredible organic garden — my son thought tomatoes came from the supermarket.
-   → 植物/种菜/自然/教育话题
+   → Q62/Q63（植物）Q96/Q98/Q100（种菜）Q95（老人）Q124（分享）Q174（小区）
 
 ⑤ He remembers everything without technology, which impresses me.
-   → 记忆/科技/老人话题
+   → Q141（记忆-外公不用手机）Q94（老人-视频通话）
 
 ⑥ We made our own fun — no screens, no phones, just [climbing trees/catching fish/exploring].
-   → 童年/娱乐/科技变化话题
+   → Q14（童年爱好）Q49（童年活动）Q51（童年对比现在）
 ```
 
 **适用话题**：童年、户外活动、散步、食物、植物、老人、规则、家乡、人生阶段、自然、记忆。
@@ -298,22 +298,22 @@
 **高频实战句式**：
 ```
 ① My wife is much better at [skill] than I am.
-   → 任何技能/能力话题的自嘲式展开
+   → Q24（挑礼物）Q64（养植物）Q110（借还-她处理得好）Q176（城市生活能力）
 
 ② My wife says [observation/criticism], and she's probably right.
-   → 万能转折+幽默收尾
+   → Q13（需要运动爱好）Q76（穿衣品味）Q120（午休习惯）Q136（该少看手机）Q142（记忆-觉得好笑）
 
 ③ We have very different [preferences] — she's into [X], I'm more [Y].
-   → 偏好/习惯/爱好对比
+   → Q16（爱好-烘焙vs科幻）Q76（鞋子-时尚vs舒服）Q147（开心-尝鲜vs习惯）Q181（休息日安排）
 
 ④ My wife handles [responsibility] — I honestly don't know how she does it.
-   → 家务/时间管理/能力话题
+   → Q4（做饭）Q20（早起-带娃分工）Q62（植物-浇水）Q157（工作-家庭后勤）
 
 ⑤ She's into baking and Korean dramas. I read sci-fi. We leave each other alone.
-   → 休闲/爱好/生活方式话题
+   → Q16（爱好对比）Q136（空闲时间各自安排）
 
 ⑥ My wife [action], which changed how I [think about / approach] [topic].
-   → 改变/影响/学习话题
+   → Q43/Q55（风景-她说我异常安静）Q4（做饭-营养意识）Q160（住所-选房决策）
 ```
 
 **适用话题**：做饭、购物、礼物、家务、偏好对比、休闲、风景（"my wife said I went unusually quiet"）、记忆、广告。
@@ -339,22 +339,22 @@
 **高频实战句式**：
 ```
 ① I'm not really a [sporty/fashionable/plant/morning] person.
-   → 任何"你喜欢X吗"类问题的万能否定开头
+   → Q9（运动）Q17（早起）Q62（植物）Q76（时尚）Q79（鞋子）Q125（分享-不爱社交）Q132（拍照）Q188（梦-不记得）
 
 ② Mixed feelings about [topic]. [正面]... but [现实].
-   → 态度模糊时的万能框架
+   → Q47（建筑-高楼优缺点）Q187（梦境-有趣但记不住）
 
 ③ I'd be terrible at [activity] — I'd [forget to water it / lose track / fall asleep].
-   → 用夸张后果制造幽默
+   → Q64（植物-浇死了）Q96（种菜-番茄养死了）Q98（种菜-没耐心）
 
 ④ Not my strong suit — my [wife/friend] is much better at that.
-   → 自嘲后转向他人，制造对比
+   → Q24（挑礼物-妻子更好）Q64（养花-妻子负责）Q110（处事-妻子更周到）Q176（城市生活-妻子更擅长）
 
 ⑤ I understand the appeal, but it's just not for me.
-   → 礼貌拒绝型回答
+   → Q76（时尚）Q86（拥挤-年轻人喜欢热闹）Q113/Q115（广告-理解商业逻辑）Q187（梦境解读）
 
 ⑥ I've been permanently [fired from watering duty / banned from the kitchen].
-   → 用"被开除"的幽默收尾
+   → Q64（植物-被开除浇水职务）Q4（做饭-厨房助手）
 ```
 
 **适用话题**：运动、时尚、植物、做饭、礼物、记忆、社交、早起……任何你不擅长的领域。
@@ -378,10 +378,19 @@
 **高频实战句式**：
 ```
 ① After 14 years in tech, [habit/observation] is second nature.
+   → Q15（爱好延续）Q36/Q38（打字）Q46（建筑-Apple Park）Q72（规则）Q80（做得好）Q149（工作）Q156（工作技能）
+
 ② As someone who codes for a living, [logic-based insight].
+   → Q73（规则-代码即规则）Q112（广告-算法理解）Q139（记忆-文档习惯）
+
 ③ Working in the internet industry, I understand [topic] from a business angle.
+   → Q113/Q115（广告-行业视角）Q149（工作介绍）Q153（工作-行业趋势）
+
 ④ Classic programmer habit: if it's not documented, it doesn't exist.
+   → Q139（记忆-记录一切）Q142（记忆-妻子觉得好笑）Q153（工作-系统化思维）
+
 ⑤ After staring at code all day, I need [opposite activity] to recharge.
+   → Q40（风景-屏幕vs自然）Q121（午休-看摄影教程换脑子）Q136（空闲-科幻解压）
 ```
 
 **适用话题**：工作、打字、规则、记忆、广告（算法）、科技变化、习惯。
@@ -398,10 +407,19 @@
 **高频实战句式**：
 ```
 ① I have a growing interest in photography — my gallery is 90% my son.
+   → Q13（爱好介绍）Q42（风景-拍照尝试）Q52（风景照）Q131（拍照-记录儿子）
+
 ② I've been watching tutorials on Bilibili to actually improve.
+   → Q42（风景照-学构图）Q52（风景照-系统学习）Q121（午休-看教程）Q131/Q134（拍照-提升技术）
+
 ③ The photos never match what my eyes see — depth and atmosphere always get lost.
+   → Q42（风景-眼见vs照片）Q53（风景照-无法还原）Q55（风景照-记忆vs照片）
+
 ④ Photography is my version of craftsmanship — I'm learning to see, not just look.
+   → Q130（拍照-从随手拍到认真拍）Q134（拍照-工匠精神）Q138（空闲-摄影作为成长）
+
 ⑤ I want to capture his childhood with some skill, not just random snapshots.
+   → Q131（拍照-记录成长）Q52（风景照-不想只是快照）Q184（休息日-带儿子出去拍）
 ```
 
 **适用话题**：爱好、拍照、风景、分享、技能学习。
@@ -417,10 +435,19 @@
 **高频实战句式**：
 ```
 ① Science fiction is my escape — I'm currently revisiting Asimov's Foundation.
+   → Q136（空闲-科幻解压）Q13（爱好-三体和基地）Q27（阅读-睡前科幻）
+
 ② Before bed, I'll read a chapter of whatever sci-fi I'm into.
+   → Q27（阅读习惯）Q48（童年-睡前习惯对比）Q123（午休-阅读充电）
+
 ③ Screens for work reading, paper for sci-fi novels.
+   → Q28（阅读-屏幕vs纸质）
+
 ④ Reading the Three-Body Problem completely changed how I think about scale.
+   → Q13（爱好-提到三体）Q27（阅读-科幻影响思维）
+
 ⑤ My real "me time" doesn't start until about 9pm when my son sleeps.
+   → Q135（空闲-9pm自由时间）Q137（空闲-独处时间珍贵）Q30（阅读-挤时间）
 ```
 
 **适用话题**：阅读、爱好、休闲、想象力、睡前习惯。
@@ -437,10 +464,19 @@
 **高频实战句式**：
 ```
 ① My closest friend and I have known each other since university.
+   → Q101/Q102（聊天-朋友背景）Q152（工作-大学同学现在做AI）
+
 ② A close friend recently made a career switch to AI — it inspired me.
+   → Q58（梦想-朋友转行启发）Q153/Q155（工作-AI行业趋势）Q145（开心-朋友的成功）
+
 ③ One-on-one conversation with a close friend goes much deeper than group chats.
+   → Q103（聊天-深度对话vs群聊）
+
 ④ He lives in another city now, so most communication is through WeChat.
+   → Q104（聊天-异地友谊维护）Q129（分享-远程分享方式）
+
 ⑤ We can talk for hours about everything from AI to parenting.
+   → Q101（聊天-话题广泛）Q102（聊天-科技到育儿）
 ```
 
 **适用话题**：友谊、聊天、分享、职业启发、借还。
@@ -457,10 +493,19 @@
 **高频实战句式**：
 ```
 ① I've been to Kyoto three times, and it has a beauty completely unlike anything else.
+   → Q41（风景-京都印象）Q54（风景照-京都照片）Q175/Q180（城市-京都对比）
+
 ② The bamboo grove — light filtering through thousands of stalks.
+   → Q43（风景-竹林细节）Q55（风景照-竹林描述）
+
 ③ Mount Emei last autumn — the valley blanketed in mist at sunrise.
+   → Q34（散步-峨眉山徒步）Q41/Q43（风景-峨眉山雾景）Q53-Q55（风景照-峨眉山照片）
+
 ④ Both times my wife said I went unusually quiet — apparently that means I'm genuinely moved.
+   → Q43（风景-妻子观察）Q55（风景照-同一句）
+
 ⑤ I'd love to take my son to Kyoto when he's older.
+   → Q145（开心-未来旅行愿望）Q54（风景照-想带儿子重访）
 ```
 
 **适用话题**：风景、旅行、城市、安静的地方、美的事物。
@@ -504,8 +549,13 @@
 **最常用3句**：
 ```
 ① That said, [转折].
+   → Q47（建筑-但也有缺点）Q80（做得好-但也有压力）Q151（工作-但也有疲惫）Q176（城市-但也想念安静）
+
 ② My wife [says / does] [不同]. She's [probably right].
+   → Q13（爱好）Q69（社交）Q76（鞋子）Q111（广告）Q125（分享）Q142（记忆）Q147（开心）
+
 ③ Very different from [宜宾/我外公/我小时候].
+   → Q19（早起对比）Q32（散步对比）Q49/Q51（童年对比）Q95（老人对比）Q166（家乡对比）
 ```
 
 ---
@@ -528,8 +578,13 @@
 **最常用3句**：
 ```
 ① Those [little moments / lazy mornings] are [the most X part of my week].
+   → Q21（早起-周末赖床）Q35（散步-小片刻）Q143（开心-小幸福）Q182（休息日-家庭时光）
+
 ② [He's / She's / They're] probably right.
+   → Q13（妻子说需要运动）Q43/Q55（妻子说我异常安静）Q76（妻子说穿衣品味差）Q96（妻子说别碰植物）
+
 ③ Maybe once my son starts primary school, things will [open up / shift].
+   → Q7（养宠物-等他大点）Q138（空闲-等他上学后）Q145（旅行-等他大点）Q163（住所-换大房子）
 ```
 
 ---
@@ -628,18 +683,18 @@
 > 以下素材在 Part 1-3 中共用，但**表达长度不同**。
 > Part 1 = 1-2句提及 | Part 2 = 完整故事（80词段落）| Part 3 = 3-4句论述
 
-| 素材 | Part 1 怎么用（简短） | Part 2&3 怎么用（展开） |
-|------|-------------------|---------------------|
-| 张伟 | "A close friend [says/does]..." | P2正式引入全名+背景（AI创业/吉他/年度规划） |
-| 儿子画画 | "My son gave me a drawing — stick figures, me tallest" | 才艺展示完整故事（P2）/ 教育讨论（P3） |
-| 外公菜园 | "My grandfather has an organic garden in Yibin" | 爱护自然完整描述（P2）/ 教育/传统讨论（P3） |
-| 峨眉山 | "Mount Emei last autumn — fog peeling away" | 自然之地完整体验（P2）/ 旅行讨论（P3） |
-| 京都 | "I've been to Kyoto three times" | 去过的城市完整描述（P2）/ 城市对比讨论（P3） |
-| Apple Park | "I visited Apple Park in 2019 — stunning" | 有趣的建筑完整描述（P2） |
-| CSAPP | "Reading CSAPP transformed how I understand computers" | 有用的书完整描述（P2） |
-| 盗梦空间 | "Inception explored dreams beautifully" | 近期电影完整描述（P2） |
-| 宜宾童年 | "Growing up in Yibin with my grandparents..." | 多个事件/经历的背景设定 |
-| 对儿子期望 | "Healthy, happy, safe — everything else follows" | P3教育讨论的万能收尾 |
+| 素材 | Part 1 出处 | Part 1 怎么用（简短） | Part 2&3 怎么用（展开） |
+|------|------------|-------------------|---------------------|
+| 张伟 | Q58, Q101-Q104, Q152, Q155 | "A close friend [says/does]..." | P2正式引入全名+背景（AI创业/吉他/年度规划） |
+| 儿子画画 | Q23, Q26, Q82, Q127, Q143 | "My son gave me a drawing — stick figures, me tallest" | 才艺展示完整故事（P2）/ 教育讨论（P3） |
+| 外公菜园 | Q62-Q63, Q96-Q100, Q124, Q174 | "My grandfather has an organic garden in Yibin" | 爱护自然完整描述（P2）/ 教育/传统讨论（P3） |
+| 峨眉山 | Q34, Q41, Q43, Q53-Q55 | "Mount Emei last autumn — fog peeling away" | 自然之地完整体验（P2）/ 旅行讨论（P3） |
+| 京都 | Q41, Q43, Q54-Q55, Q175, Q180 | "I've been to Kyoto three times" | 去过的城市完整描述（P2）/ 城市对比讨论（P3） |
+| Apple Park | Q45-Q46 | "I visited Apple Park in 2019 — stunning" | 有趣的建筑完整描述（P2） |
+| CSAPP | Q150, Q156 | "Reading CSAPP transformed how I understand computers" | 有用的书完整描述（P2） |
+| 盗梦空间 | Q187 | "Inception explored dreams beautifully" | 近期电影完整描述（P2） |
+| 宜宾童年 | Q1, Q7, Q14, Q32, Q49, Q51, Q56 | "Growing up in Yibin with my grandparents..." | 多个事件/经历的背景设定 |
+| 对儿子期望 | Q57, Q71, Q154 | "Healthy, happy, safe — everything else follows" | P3教育讨论的万能收尾 |
 
 **注意**：张伟在 P1 中用"a close friend / my university roommate"泛称即可，不要在 P1 里介绍全名和详细背景（不自然，P1 的回答只有20秒）。P2 才正式引入 "Zhang Wei" + 完整人物描述。
 
