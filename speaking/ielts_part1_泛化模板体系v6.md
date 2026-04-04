@@ -238,6 +238,8 @@
 
 **适用话题**：日常习惯、散步、休闲、教育、礼物、分享、鼓励、时间管理、人生阶段、博物馆、做饭、购物……几乎所有话题。
 
+**使用Q号**（64题）：Q5-Q8, Q13, Q16, Q18, Q22-Q23, Q26, Q31, Q35, Q40, Q42-Q43, Q48, Q51-Q52, Q55, Q57, Q60-Q61, Q66, Q68, Q71, Q75, Q79, Q82, Q84-Q85, Q87-Q88, Q94-Q95, Q100-Q102, Q116, Q118-Q119, Q127, Q129-Q131, Q133-Q134, Q143-Q145, Q148, Q154, Q159, Q161-Q163, Q172, Q174, Q176, Q181-Q186
+
 ---
 
 ### 弹药2：外公 + 宜宾童年（47题使用·覆盖率25%）
@@ -274,6 +276,8 @@
 ```
 
 **适用话题**：童年、户外活动、散步、食物、植物、老人、规则、家乡、人生阶段、自然、记忆。
+
+**使用Q号**（43题）：Q1-Q3, Q9, Q14-Q15, Q19, Q32-Q33, Q41, Q44, Q49, Q51, Q56, Q61-Q65, Q92-Q95, Q97-Q100, Q111, Q124, Q128-Q129, Q144, Q146, Q157, Q164-Q169, Q174, Q181, Q188
 
 **常见组合**：外公+儿子（代际传承，12题）、外公+宜宾对比成都（18题）
 
@@ -314,6 +318,8 @@
 
 **适用话题**：做饭、购物、礼物、家务、偏好对比、休闲、风景（"my wife said I went unusually quiet"）、记忆、广告。
 
+**使用Q号**（48题）：Q1, Q4, Q13, Q16-Q17, Q20-Q21, Q24-Q26, Q43, Q47, Q52, Q55, Q57, Q62, Q64, Q69, Q76-Q79, Q82, Q84-Q85, Q113, Q121-Q122, Q125, Q127-Q129, Q136-Q137, Q141-Q142, Q147-Q148, Q154, Q160-Q163, Q173, Q176, Q182-Q183, Q186
+
 **常见组合**：妻子+儿子（家庭场景，16题）、妻子+自嘲（8题）
 
 ---
@@ -353,6 +359,8 @@
 
 **适用话题**：运动、时尚、植物、做饭、礼物、记忆、社交、早起……任何你不擅长的领域。
 
+**使用Q号**（34题）：Q5-Q6, Q12, Q25, Q31-Q33, Q36-Q37, Q39, Q42, Q52, Q62, Q64, Q72, Q76-Q77, Q82, Q85, Q91, Q96, Q98-Q99, Q107, Q109, Q113, Q132, Q135-Q136, Q139, Q147, Q151, Q153, Q155, Q176
+
 **核心价值**：当你对一个话题真的没什么可说时，自嘲是最安全、最自然的展开方式。比硬凑一个答案好得多。
 
 ---
@@ -379,6 +387,8 @@
 **适用话题**：工作、打字、规则、记忆、广告（算法）、科技变化、习惯。
 **不要硬用在**：食物、动物、植物、运动等非职业话题。
 
+**使用Q号**（43题）：Q5, Q12, Q15, Q24-Q25, Q36-Q39, Q42, Q52, Q67, Q72-Q74, Q80-Q81, Q83, Q89-Q91, Q108, Q112-Q115, Q121-Q122, Q125-Q126, Q139-Q142, Q149-Q157, Q187
+
 ---
 
 ### 弹药6：摄影（18题使用·覆盖率10%）
@@ -396,6 +406,8 @@
 
 **适用话题**：爱好、拍照、风景、分享、技能学习。
 
+**使用Q号**（23题）：Q13, Q31, Q40, Q42-Q43, Q45-Q46, Q52, Q55, Q59, Q67, Q121, Q130-Q134, Q137-Q138, Q142, Q152-Q153, Q184
+
 ---
 
 ### 弹药7：科幻/读书（18题使用·覆盖率10%）
@@ -412,6 +424,8 @@
 ```
 
 **适用话题**：阅读、爱好、休闲、想象力、睡前习惯。
+
+**使用Q号**（17题）：Q13, Q27-Q30, Q48, Q53, Q55, Q79, Q101-Q102, Q121, Q136, Q143, Q145, Q152, Q187
 
 ---
 
@@ -432,6 +446,8 @@
 **适用话题**：友谊、聊天、分享、职业启发、借还。
 **P1 vs P2 区别**：P1 说 "a close friend"；P2 才引入 "Zhang Wei" 全名和完整背景（AI创业、吉他、年度规划等）。
 
+**使用Q号**（6题）：Q58, Q101-Q102, Q149, Q155, Q157
+
 ---
 
 ### 弹药9：京都/旅行（11题使用·覆盖率6%）
@@ -448,6 +464,8 @@
 ```
 
 **适用话题**：风景、旅行、城市、安静的地方、美的事物。
+
+**使用Q号**（7题）：Q41, Q43, Q53-Q55, Q175, Q180
 
 ---
 
@@ -474,14 +492,14 @@
 
 > 可选。加一句让回答不"一边倒"。从188题中提取的高频转折模式。
 
-| 模式 | 实战句式 | 频率 |
-|------|---------|------|
-| 承认对立面 | That said, [转折]. / Mind you, [补充]. | 15次 |
-| 分场景 | On weekdays [A]. Weekends are [the opposite / a different story]. | 8次 |
-| 独自vs带娃 | When I'm alone, I [A]. With my son, [B]. | 6次 |
-| 怀念过去 | I do miss [过去的事]. / I wouldn't mind having [年轻的X]. | 5次 |
-| 他人对比 | My wife [says / does / thinks] [不同的事]. | 12次 |
-| 但也理解 | I understand why [others think differently]. | 4次 |
+| 模式 | 实战句式 | 频率 | 出处 |
+|------|---------|------|------|
+| 承认对立面 | That said, [转折]. / Mind you, [补充]. | 15次 | Q12, Q30, Q47, Q60, Q85, Q101, Q118, Q151 等 |
+| 分场景 | On weekdays [A]. Weekends are [the opposite / a different story]. | 8次 | Q18, Q21, Q48, Q53, Q83, Q120, Q135, Q181 |
+| 独自vs带娃 | When I'm alone, I [A]. With my son, [B]. | 6次 | Q31, Q40, Q84, Q88, Q116, Q174 |
+| 怀念过去 | I do miss [过去的事]. / I wouldn't mind having [年轻的X]. | 5次 | Q15, Q43, Q51, Q152, Q166 |
+| 他人对比 | My wife [says / does / thinks] [不同的事]. | 12次 | Q13, Q16, Q69, Q76, Q79, Q111, Q125, Q141, Q142, Q147, Q160, Q176 |
+| 但也理解 | I understand why [others think differently]. | 4次 | Q71, Q86, Q114, Q148 |
 
 **最常用3句**：
 ```
@@ -496,16 +514,16 @@
 
 > 可选。自然收住，不要硬收。从188题中提取的高频收尾模式。
 
-| 模式 | 实战句式 |
-|------|---------|
-| 习惯总结 | You get used to it, though. |
-| 阶段感慨 | Just the stage of life I'm in. |
-| 未来期望 | Hopefully someday. / Maybe once he starts primary school. |
-| 普适道理 | That's [city life / the deal / standard for Chengdu]. |
-| 幽默收尾 | She's probably right. / Apparently. / Never again. |
-| 简洁肯定 | It works. / Good times. / Worth it. |
-| 珍贵感受 | Those little moments are [the most relaxing / the highlight of my week]. |
-| 遗憾/希望 | I wish I'd paid more attention. / I'd love to go back. |
+| 模式 | 实战句式 | 出处 |
+|------|---------|------|
+| 习惯总结 | You get used to it, though. | Q47, Q83, Q159 |
+| 阶段感慨 | Just the stage of life I'm in. | Q57, Q135, Q154 |
+| 未来期望 | Hopefully someday. / Maybe once he starts primary school. | Q7, Q43, Q65, Q138, Q145, Q163 |
+| 普适道理 | That's [city life / the deal / standard for Chengdu]. | Q83, Q87, Q173, Q175, Q180 |
+| 幽默收尾 | She's probably right. / Apparently. / Never again. | Q13, Q69, Q76, Q87, Q96, Q107, Q140 |
+| 简洁肯定 | It works. / Good times. / Worth it. | Q9, Q53, Q141, Q146, Q174 |
+| 珍贵感受 | Those little moments are [the most relaxing / the highlight of my week]. | Q26, Q35, Q95, Q143, Q151, Q182 |
+| 遗憾/希望 | I wish I'd paid more attention. / I'd love to go back. | Q34, Q55, Q138, Q145, Q148, Q163, Q175 |
 
 **最常用3句**：
 ```
@@ -524,84 +542,84 @@
 
 ## 特化1：日常习惯（10话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 早起 | alarm / kindergarten run / drag myself out | I've never been a morning person. |
-| 休息日 | sleep in / no alarm / no rush | Those lazy weekend mornings are the highlight of my week. |
-| 空闲 | 9pm when he sleeps / scroll phone / sci-fi | My real "me time" doesn't start until about 9pm. |
-| 午休 | power nap / head on desk / mental reset | Even fifteen minutes makes a huge difference. |
-| 散步 | riverside path / stops to look at ants | A 30-minute walk became an hour-long adventure. |
-| 出门 | mobile payment / forgot phone once | No phone means no wallet in China. |
-| 阅读 | sci-fi / Three-Body / technical documentation / skim | Screens for work, paper for sci-fi novels. |
-| 打字 | 14 years of coding / muscle memory / touch-typing | My fingers know where every key is. |
-| 拍照 | 90% son / photography tutorials / Bilibili | I want to capture his childhood with some skill. |
-| 耳机 | earbuds / metro / own little bubble | 30 minutes of peace on my commute. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 早起 | Q17-Q21 | alarm / kindergarten run / drag myself out | I've never been a morning person. |
+| 休息日 | Q181-Q184 | sleep in / no alarm / no rush | Those lazy weekend mornings are the highlight of my week. |
+| 空闲 | Q135-Q138 | 9pm when he sleeps / scroll phone / sci-fi | My real "me time" doesn't start until about 9pm. |
+| 午休 | Q120-Q123 | power nap / head on desk / mental reset | Even fifteen minutes makes a huge difference. |
+| 散步 | Q31-Q35 | riverside path / stops to look at ants | A 30-minute walk became an hour-long adventure. |
+| 出门 | Q88-Q91 | mobile payment / forgot phone once | No phone means no wallet in China. |
+| 阅读 | Q27-Q30 | sci-fi / Three-Body / technical documentation / skim | Screens for work, paper for sci-fi novels. |
+| 打字 | Q36-Q39 | 14 years of coding / muscle memory / touch-typing | My fingers know where every key is. |
+| 拍照 | Q130-Q134 | 90% son / photography tutorials / Bilibili | I want to capture his childhood with some skill. |
+| 耳机 | Q66-Q69 | earbuds / metro / own little bubble | 30 minutes of peace on my commute. |
 
 ---
 
 ## 特化2：兴趣娱乐（10话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 爱好 | sci-fi / photography / learning new craft | I read, I take photos, I explore Chengdu with my son. |
-| 童年活动 | climb trees / cousins / catch fish / grandfather's walks | We made our own fun — no screens, no phones. |
-| 运动 | not sporty / goalkeeper wrist sprain / flexibility | I'm not a very sporty person in general. |
-| 动物 | cats = programmers / son loves dogs / no pets ever | Quiet, independent, keep to themselves — like programmers. |
-| 食物 | Sichuan spicy / hotpot / ranmian / instant noodles | Growing up in Yibin, everything was spicy by default. |
-| 鞋子 | comfort / practical / casual industry | Fashion is the last thing on my mind. |
-| 开心 | AI dinosaur drawing / popsicle childhood / debugging high | Dad turned my dinosaur into a REAL dinosaur! |
-| 博物馆 | natural history / T-Rex skeleton / 20 minutes still | Remarkable for a shy kid who can't normally sit still. |
-| 睡梦 | fade within seconds / son tells vivid dreams | His imagination is something I genuinely envy. |
-| 梦想 | independent researcher / present for my son | Not a grand ambition, but deeply personal. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 爱好 | Q13-Q16 | sci-fi / photography / learning new craft | I read, I take photos, I explore Chengdu with my son. |
+| 童年活动 | Q48-Q51 | climb trees / cousins / catch fish / grandfather's walks | We made our own fun — no screens, no phones. |
+| 运动 | Q9-Q12 | not sporty / goalkeeper wrist sprain / flexibility | I'm not a very sporty person in general. |
+| 动物 | Q5-Q8 | cats = programmers / son loves dogs / no pets ever | Quiet, independent, keep to themselves — like programmers. |
+| 食物 | Q1-Q4 | Sichuan spicy / hotpot / ranmian / instant noodles | Growing up in Yibin, everything was spicy by default. |
+| 鞋子 | Q76-Q79 | comfort / practical / casual industry | Fashion is the last thing on my mind. |
+| 开心 | Q143-Q148 | AI dinosaur drawing / popsicle childhood / debugging high | Dad turned my dinosaur into a REAL dinosaur! |
+| 博物馆 | Q116-Q119 | natural history / T-Rex skeleton / 20 minutes still | Remarkable for a shy kid who can't normally sit still. |
+| 睡梦 | Q185-Q188 | fade within seconds / son tells vivid dreams | His imagination is something I genuinely envy. |
+| 梦想 | Q56-Q61 | independent researcher / present for my son | Not a grand ambition, but deeply personal. |
 
 ---
 
 ## 特化3：人际社交（6话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 聊天 | close friend / since university / WeChat / AI and parenting | We can talk for hours about everything from AI to parenting. |
-| 分享 | tech→close friend, family→grandparents, grandmother worries | She'll insist on sending herbal medicine from Yibin. |
-| 做得好 | "nice solution" at work / standing ovation for son | Kids thrive on encouragement. |
-| 老人 | grandfather raised me / garden / video calls | A kind of wisdom you can't find online. |
-| 借还 | fifty yuan / forgot phone / sensitive topic | Money between friends is sensitive in China. |
-| 礼物 | son's drawings on fridge / red envelope | The handwriting is everywhere, but it's priceless. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 聊天 | Q101-Q105 | close friend / since university / WeChat / AI and parenting | We can talk for hours about everything from AI to parenting. |
+| 分享 | Q124-Q129 | tech→close friend, family→grandparents, grandmother worries | She'll insist on sending herbal medicine from Yibin. |
+| 做得好 | Q80-Q82 | "nice solution" at work / standing ovation for son | Kids thrive on encouragement. |
+| 老人 | Q92-Q95 | grandfather raised me / garden / video calls | A kind of wisdom you can't find online. |
+| 借还 | Q106-Q110 | fifty yuan / forgot phone / sensitive topic | Money between friends is sensitive in China. |
+| 礼物 | Q22-Q26 | son's drawings on fridge / red envelope | The handwriting is everywhere, but it's priceless. |
 
 ---
 
 ## 特化4：居住环境（6话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 住所 | 20th floor / kindergarten proximity / school district | We chose this apartment for the kindergarten. |
-| 小区 | park ten minutes away / golden retriever neighbour | Rare neighbourly connection in a big city. |
-| 家乡 | Yibin / Wuliangye / two rivers / ranmian | I didn't appreciate Yibin until I left. |
-| 城市 | Chengdu / relaxed / hotpot / rapid development | Come prepared and enjoy the hotpot. |
-| 建筑 | Apple Park 2019 / lift waiting / moving nightmare | It felt like visiting a temple. |
-| 拥挤 | Chunxi Road / packed food court / LEGO window | The crowds are part of the deal. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 住所 | Q158-Q163 | 20th floor / kindergarten proximity / school district | We chose this apartment for the kindergarten. |
+| 小区 | Q170-Q174 | park ten minutes away / golden retriever neighbour | Rare neighbourly connection in a big city. |
+| 家乡 | Q164-Q169 | Yibin / Wuliangye / two rivers / ranmian | I didn't appreciate Yibin until I left. |
+| 城市 | Q175-Q180 | Chengdu / relaxed / hotpot / rapid development | Come prepared and enjoy the hotpot. |
+| 建筑 | Q44-Q47 | Apple Park 2019 / lift waiting / moving nightmare | It felt like visiting a temple. |
+| 拥挤 | Q83-Q87 | Chunxi Road / packed food court / LEGO window | The crowds are part of the deal. |
 
 ---
 
 ## 特化5：自然审美（4话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 风景 | Mount Emei / fog peeling away / Kyoto bamboo grove | My wife said I went unusually quiet. |
-| 风景照 | photography tutorials / doesn't do justice | My photos are more memory triggers than works of art. |
-| 植物 | wife's balcony dozen / killed jasmine / grandfather's garden | I've been permanently fired from watering duty. |
-| 种菜 | grandfather organic / son thought tomatoes from supermarket | He was amazed when grandfather showed him real growing soil. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 风景 | Q40-Q43 | Mount Emei / fog peeling away / Kyoto bamboo grove | My wife said I went unusually quiet. |
+| 风景照 | Q52-Q55 | photography tutorials / doesn't do justice | My photos are more memory triggers than works of art. |
+| 植物 | Q62-Q65 | wife's balcony dozen / killed jasmine / grandfather's garden | I've been permanently fired from watering duty. |
+| 种菜 | Q96-Q100 | grandfather organic / son thought tomatoes from supermarket | He was amazed when grandfather showed him real growing soil. |
 
 ---
 
 ## 特化6：个人成长（5话题）
 
-| 话题 | 必背词块 | 必背场景句 |
-|------|---------|----------|
-| 人生阶段 | healthy happy safe / being a dad / shy boy coming out of shell | My only expectation: healthy, happy, safe. |
-| 工作 | 14 years / CSAPP / close friend's AI switch / independent researcher | The dream is eventually becoming an independent researcher. |
-| 记忆 | programmer habit / document everything / "buy milk" task list | My wife finds it funny. But it works. |
-| 规则 | code = rules / first boss strict / son tests boundaries | Without structure, everything breaks. |
-| 广告 | algorithm / balance bike creepy / catchy jingle in Yibin | She said the phone was listening; I said algorithmic inference. |
+| 话题 | Q号 | 必背词块 | 必背场景句 |
+|------|-----|---------|----------|
+| 人生阶段 | Q56-Q61 | healthy happy safe / being a dad / shy boy coming out of shell | My only expectation: healthy, happy, safe. |
+| 工作 | Q149-Q157 | 14 years / CSAPP / close friend's AI switch / independent researcher | The dream is eventually becoming an independent researcher. |
+| 记忆 | Q139-Q142 | programmer habit / document everything / "buy milk" task list | My wife finds it funny. But it works. |
+| 规则 | Q70-Q75 | code = rules / first boss strict / son tests boundaries | Without structure, everything breaks. |
+| 广告 | Q111-Q115 | algorithm / balance bike creepy / catchy jingle in Yibin | She said the phone was listening; I said algorithmic inference. |
 
 ---
 
@@ -666,14 +684,14 @@ Q: Did you play outdoors as a child?
 
 > 188题中最常见的弹药组合，直接记住这些"套餐"比单个弹药更高效。
 
-| 组合 | 频率 | 效果 | 典型话题 |
-|------|------|------|---------|
-| 外公+宜宾对比成都 | 18题 | 过去vs现在，乡村vs城市 | 童年、食物、自然、家乡 |
-| 儿子+妻子 | 16题 | 完整家庭场景 | 做饭、购物、休闲、早起 |
-| 外公+儿子 | 12题 | 代际传承，外公教孙子 | 植物、散步、教育、老人 |
-| 自嘲+妻子 | 8题 | "我不行，她行" | 礼物、做饭、方向感、记忆 |
-| 摄影+儿子 | 8题 | 记录孩子成长 | 拍照、爱好、风景 |
-| 自嘲+外公 | 5题 | "我做不到，但外公行" | 植物、记忆、耐心 |
+| 组合 | 频率 | 效果 | 典型话题 | 出处 |
+|------|------|------|---------|------|
+| 外公+宜宾对比成都 | 18题 | 过去vs现在，乡村vs城市 | 童年、食物、自然、家乡 | Q1-Q3, Q14, Q49, Q51, Q56, Q97, Q100, Q164-Q169, Q174, Q181 |
+| 儿子+妻子 | 16题 | 完整家庭场景 | 做饭、购物、休闲、早起 | Q18, Q20, Q26, Q43, Q55, Q57, Q82, Q84-Q85, Q127, Q129, Q148, Q161-Q163, Q176 |
+| 外公+儿子 | 12题 | 代际传承，外公教孙子 | 植物、散步、教育、老人 | Q61-Q62, Q94-Q95, Q100, Q116, Q119, Q144, Q146, Q174, Q181, Q188 |
+| 自嘲+妻子 | 8题 | "我不行，她行" | 礼物、做饭、方向感、记忆 | Q25, Q64, Q76-Q77, Q82, Q85, Q141-Q142 |
+| 摄影+儿子 | 8题 | 记录孩子成长 | 拍照、爱好、风景 | Q40, Q42-Q43, Q52, Q55, Q130-Q131, Q134 |
+| 自嘲+外公 | 5题 | "我做不到，但外公行" | 植物、记忆、耐心 | Q62, Q64, Q98-Q99, Q139 |
 
 ---
 
