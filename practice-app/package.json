@@ -1,0 +1,9 @@
+{
+  "name": "ielts-practice",
+  "version": "1.0.0",
+  "description": "IELTS vocabulary practice tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

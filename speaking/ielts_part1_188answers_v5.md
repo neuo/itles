@@ -5,7 +5,7 @@
 > - CS本科，互联网行业14年，现居成都
 > - 老家宜宾（四川，白酒之乡），小时候外公外婆带大，有两个表哥
 > - 大学室友+最好的朋友：张伟（Zhang Wei），现在是AI创业公司技术总监
-> - 爱好：科幻小说（三体、基地系列）、摄影（业余）、不太爱运动
+> - 爱好：科幻小说（三体、基地系列）、给儿子随手拍照（不研究技术）、不太爱运动
 > - 理想：成为独立研究工作者
 > - 喜欢的城市：京都（去过3次）| 书：CSAPP | 电影：盗梦空间
 > - 外公：退休工人，有机菜园，教孙子认识自然，70多岁学会用智能手机
@@ -66,7 +66,7 @@ The biggest difference is the social element. Team sports need coordination and 
 ## 4. Hobby (Q13–Q16)
 
 **Q13. Do you have any hobbies?**
-A few, actually. I read a lot of science fiction — I've been through the Three-Body Problem trilogy and Asimov's Foundation series. I also have a casual interest in photography, mainly taking pictures of my son. On weekends, it's mostly taking him out — parks, the zoo, exploring Chengdu. My wife says I need more hobbies that get me moving, and she's probably right.
+A few, actually. I read a lot of science fiction — I've been through the Three-Body Problem trilogy and Asimov's Foundation series. I also like taking photos of my son, just casual snapshots on my phone. On weekends, it's mostly taking him out — parks, the zoo, exploring Chengdu. My wife says I need more hobbies that get me moving, and she's probably right.
 
 **Q14. Did you have any hobbies when you were a child?**
 Playing outdoors, mainly. Growing up in Yibin with my grandparents, I spent all my free time climbing trees, kicking footballs, catching fish with my cousins by the river. No smartphones or video games — just kids making their own fun. My grandfather used to take me on long walks and teach me about plants and insects. That was its own kind of hobby.
@@ -88,7 +88,7 @@ Not at all — I've never been a morning person. My wife is up at six, full of e
 On weekdays, it's getting my son ready — dressed, fed, off to kindergarten. He's shy and takes a while to warm up in the mornings, so I need extra patience. After drop-off I head to work. It's tightly scheduled with no room for leisurely starts. Weekends are the opposite — slow, lazy, no pressure.
 
 **Q19. What did you do in the morning when you were little?**
-Completely different. In Yibin, I'd wake up late, have congee or steamed buns my grandmother made, then run off to school with my cousins. No rush, no schedule. My grandfather was always up first, tending his garden. Sometimes I'd help him water the plants before breakfast. Much simpler times.
+When I was little, I'd wake up quite late and have congee or steamed buns my grandmother made, then run off to school with my cousins. No rush, no schedule. My grandfather was always up first, tending his garden — sometimes I'd help him water the plants before breakfast. It was a pretty relaxed routine.
 
 **Q20. Are there any differences between what you do in the morning now and what you did in the past?**
 Huge differences. Before having my son, mornings in Chengdu were relaxed — sleep in, grab coffee, check news. Now every minute is accounted for because a five-year-old needs to be dressed, fed, and out the door. It's more tiring, but there's something nice about that routine — even if he fights me on brushing his teeth every morning.
@@ -101,7 +101,7 @@ Not at all. Weekday mornings are pure routine — alarm, rush, kindergarten drop
 ## 6. Gifts (Q22–Q26)
 
 **Q22. Have you ever sent handmade gifts to others?**
-Not personally — I work with code, not paper and glue. My five-year-old, though, makes cards at kindergarten constantly. He's a shy kid but his drawings are incredibly expressive. He made a Mother's Day card for my wife with "love" written backwards. She loved it. That kind of gift has more heart than anything you can buy.
+Once, actually. Last year for my wife's birthday I made a small photo album by hand — printed pictures of our family trips, stuck them in a notebook, and wrote little captions underneath. It took me a whole evening and the result was pretty rough, honestly. But she said it was better than anything I could've bought. I'm not a crafty person at all, so that was probably my first and last attempt.
 
 **Q23. Have you ever received a great gift?**
 Just recently, actually. My son gave me a drawing — three stick figures, me as the tallest one, which he said means I'm "the most important." He's quite shy, so presenting it to me was a big deal for him. The proportions were hilarious and the colouring chaotic, but it's the most precious gift I've received in years. It's on our fridge right now.
@@ -177,7 +177,7 @@ Fairly often. After staring at a screen all day, it's nice to look at something 
 Mountains, because I grew up surrounded by them in Sichuan. Last autumn we visited Mount Emei and the morning scenery was breathtaking — layers of misty peaks stretching into the distance. There's a deep peacefulness about mountains that the sea doesn't quite give me. I've also been to Kyoto three times, which is surrounded by hills — that probably reinforced my preference.
 
 **Q42. Do you like to take scenery pictures?**
-I take them, but I'm not great. I have a casual interest in photography — mainly my son, but scenery too. The photos never match what my eyes see though — depth and atmosphere always get lost. I've started watching some photography tutorials on Bilibili to improve. For now, my photos are more memory triggers than works of art.
+I take them, but I'm not great. I mainly just snap photos of my son, but scenery too when it catches my eye. The photos never match what my eyes see though — depth and atmosphere always get lost. I don't really study techniques or anything, so my photos are more memory triggers than works of art.
 
 **Q43. What are the most beautiful sights you have seen while traveling?**
 Two come to mind. Mount Emei last autumn — the valley blanketed in mist, fog peeling away as the sun rose, colours shifting from grey to green to gold. I stood watching for twenty minutes. And Kyoto's bamboo grove — the light filtering through thousands of stalks. Both times my wife said I went unusually quiet, which apparently means I'm genuinely moved.
@@ -190,7 +190,7 @@ Two come to mind. Mount Emei last autumn — the valley blanketed in mist, fog p
 I live in one — our apartment is around the 20th floor. Whole area in Chengdu is high-rises; standard for big Chinese cities. Very different from the low-rise streets in Yibin where I grew up at my grandparents' place. Looking out from our balcony, all you see is more towers in every direction.
 
 **Q45. Do you take photos of buildings?**
-Hardly ever. I have a casual photography interest, but it's focused on my son and scenery, not architecture. The one exception was Apple Park in California, which I visited in 2019. That circular glass building genuinely blew me away — I took quite a few photos of it. Nothing else has impressed me as much since.
+Hardly ever. I mostly just take photos of my son and scenery, not architecture. The one exception was Apple Park in California, which I visited in 2019. That circular glass building genuinely blew me away — I took quite a few photos of it. Nothing else has impressed me as much since.
 
 **Q46. Is there a building that you would like to visit?**
 I actually visited one I'd always been curious about — Apple Park in 2019. Stunning design — a massive circular glass building sitting in parkland. As someone who's worked in tech for 14 years, it felt like visiting a temple. I'd love to go back and see how the campus has evolved since then.
@@ -203,7 +203,7 @@ Mixed feelings. Our apartment in Chengdu is on the 20th floor — nice view, lot
 ## 12. Childhood activities (Q48–Q51)
 
 **Q48. What are your favourite activities?**
-Two very different versions. Weekdays: quiet stuff — reading sci-fi, watching a short video before bed, maybe browsing photography tutorials. Weekends: all about my son — parks, playgrounds, sometimes building LEGO together at home. The weekday me and the weekend me are basically different people.
+Two very different versions. Weekdays: quiet stuff — reading sci-fi, watching a short video before bed, maybe scrolling through tech articles. Weekends: all about my son — parks, playgrounds, sometimes building LEGO together at home. The weekday me and the weekend me are basically different people.
 
 **Q49. What were your favourite activities when you were a child?**
 Anything outdoors. In Yibin, my cousins and I spent every spare moment climbing trees, kicking footballs, catching fish by the river. My grandfather would take me on nature walks and teach me about plants. No screens — we made our own entertainment. I'd come home covered in mud and my grandmother would shake her head.
@@ -219,7 +219,7 @@ Completely different. I went from a wild outdoor kid in Yibin to someone at a de
 ## 13. Views (Q52–Q55)
 
 **Q52. Do you like taking pictures of different views?**
-Yeah — I have a growing interest in photography. I'm not good yet, but I've been watching tutorials and practising on weekends. I photographed the sunset from our balcony recently and it didn't do justice to the real thing, but I'm learning. My main subjects are my son and landscapes, in that order.
+Yeah, I like snapping photos when something catches my eye. I photographed the sunset from our balcony recently and it didn't do justice to the real thing, but it's still nice to have. My main subjects are my son and landscapes, in that order. Nothing professional — just phone snapshots to keep memories.
 
 **Q53. Do you prefer views in urban areas or rural areas?**
 Rural, definitely. Urban scenery is what I see daily in Chengdu. After a full week of that, mountains or countryside feel like a mental reset. I grew up surrounded by Sichuan's natural beauty, and visiting places like Kyoto and Mount Emei always reminds me how much I need green space in my life.
@@ -228,7 +228,7 @@ Rural, definitely. Urban scenery is what I see daily in Chengdu. After a full we
 Both have their charm. China has stunning scenery — Mount Emei, Jiuzhaigou, the countryside around Yibin. But I've also been to Kyoto three times, and it has a beauty that's completely different — delicate, quiet, human-scale. I'd love to see more of the world, but I'm certainly not short on options at home.
 
 **Q55. Have you seen an unforgettable and beautiful view or scenery?**
-Two stand out. Mount Emei last autumn — the valley wrapped in fog at sunrise, everything gradually revealing itself. And a bamboo grove in Kyoto — light filtering through thousands of stalks, the only sound was wind. My wife said both times I went unusually quiet and forgot my phone. That's apparently how she knows I'm genuinely moved by something.
+Definitely the canals in Kyoto during cherry blossom season. Pink petals floating on the water, old wooden bridges, barely any tourists because we went early morning. I just stood there for ages, not even taking photos. My wife had to drag me away eventually. It felt like stepping into a painting — the kind of view that makes you stop thinking about work completely.
 
 ---
 
@@ -292,13 +292,13 @@ Looking back at school in Yibin, plenty — uniforms, homework deadlines, no run
 Depends on age. Younger kids need clear boundaries — my son is learning to queue and share at kindergarten. For teenagers, too many rules can backfire. The key is balance between structure and freedom, which is easier said than done. My only expectation for my son is healthy, happy, safe — not more rules.
 
 **Q72. Have you ever had a really dedicated teacher?**
-More of a dedicated boss, actually. My first leader in tech was strict but deeply committed to his team's growth. He'd make me rewrite code until it was clean. At the time, exhausting. Looking back, that's when I grew fastest. I still use his standards 14 years later.
+Yes — my primary school teacher in Yibin. She stayed after school twice a week to help students who were struggling, completely unpaid. She noticed I was good with numbers and pushed me toward maths competitions. That early encouragement shaped my entire career path. Looking back, she probably saw something I didn't see in myself yet.
 
 **Q73. Do you prefer to have more or fewer rules at school?**
 Balance. Too few means chaos; too many means no space for thinking. As a programmer, I value structure — code is essentially rules. Schools should have enough for focus while leaving room for creativity. My grandfather's philosophy was simpler: "Respect others and work hard" — basically two rules that covered everything.
 
 **Q74. Have you ever had a really strict teacher?**
-Yeah — my first boss in tech. He'd reject my code three or four times until it met his standards. Frustrating at the time, but it forced disciplined habits early. Now I mentor younger engineers and sometimes catch myself being just as demanding. I finally understand why he pushed so hard.
+Yeah, my high school math teacher was really strict — homework had to be perfect or he'd make you redo it. I didn't enjoy it then, but honestly, it built good habits. I actually see the same pattern now at work, where attention to detail matters just as much.
 
 **Q75. Would you like to work as a teacher in a rule-free school?**
 Not at all. My career is built on structure and logic — code is one big rulebook. I think kids need rules too. My son tests boundaries constantly, and clear rules at kindergarten have been crucial for him — especially since he's shy and needs predictable environments to feel safe. A rule-free school sounds like chaos.
@@ -330,7 +330,7 @@ Recently at work, I led a project with a tight deadline and we delivered on time
 In university, I wrote code for a class project that my professor singled out as an example. He showed it to the whole class. That moment confirmed I'd chosen the right field. It gave me confidence that carried into my career.
 
 **Q82. Do you often tell your friends when they do something well?**
-Occasionally — with colleagues, I keep it direct: "nice solution." I'm not the type for big productions. With my five-year-old, completely different. He's shy, so encouragement matters enormously. Every drawing, every new character he writes, gets an enthusiastic reaction. I want him to feel confident trying new things, even when he's nervous.
+Not as often as I should, honestly. I tend to think it but forget to say it. Like, a close friend of mine switched careers last year — I was really impressed but didn't actually tell him until months later. I'm trying to get better at that, you know, just saying "hey, that was great" when I notice something.
 
 ---
 
@@ -356,7 +356,7 @@ Last weekend — the local mall. Couldn't find a seat in the food court. My son 
 ## 21. Going out (Q88–Q91)
 
 **Q88. Do you bring food or snacks with you when going out?**
-Almost always, for my son. He gets hungry at unpredictable times, so we keep fruit or biscuits ready. If we forget, meltdown within twenty minutes. For myself, I rarely bring anything. Having kids' snacks on hand is basically survival training for parents.
+Almost always — but it's for my son, not me. He gets hungry at unpredictable times, so we keep fruit or biscuits in a bag. If we forget, there's a meltdown within twenty minutes. For myself, I never bother. But once you're a parent, packing snacks becomes automatic — it's basically survival training.
 
 **Q89. Do you always take your mobile phone with you when going out?**
 Every time. In China, your phone is wallet, ID, map, everything. Can't pay, scan codes, or navigate without it. It happened to me once — forgot it — incredibly stressful. I couldn't buy anything or get anywhere. Never again.
@@ -372,7 +372,7 @@ Almost never. Mobile payment has replaced cash for everything in Chengdu — gro
 ## 22. Staying with old people (Q92–Q95)
 
 **Q92. Have you ever worked with old people?**
-Not traditionally — tech skews young. But my first boss was significantly older and his calm, long-term perspective was invaluable. Outside work, my relationship with my grandfather has taught me more about patience and quiet dedication than any professional mentor. He raised me, and his influence on my character runs deep.
+Yeah, at my first company there was a senior engineer in his late fifties. Most of the team was under thirty, but he was the calmest person in every meeting. When deadlines got tight, he'd just say "we've seen worse" and somehow that settled everyone down. I learned a lot from his patience — he never rushed decisions. It made me realise experience really does bring a different kind of value to a team.
 
 **Q93. Are you happy to work with people who are older than you?**
 Definitely. Older colleagues bring calmer perspective. My first boss was much older, and his experience helped me grow faster than I could have alone. I think every team benefits from mixed ages. My grandfather always says "young people have speed, old people have direction" — I think there's truth in that.
@@ -483,13 +483,13 @@ A couple of months ago — natural history museum in Chengdu with my son. He sto
 Depends on workload. Normally a lunch break and an afternoon stretch. My job needs deep concentration, so breaks matter. On busy days, I get absorbed and forget to stop. My wife says I should set alarms.
 
 **Q121. What do you usually do when resting?**
-Something easy — scrolling through my phone, reading a few tech articles, or browsing photography tutorials on Bilibili. After complex code all morning, my brain needs zero-effort content. Sometimes I read a chapter of whatever sci-fi I'm into. The whole point is giving my brain a break from intense concentration.
+Something easy — scrolling through my phone, reading a few tech articles, or watching short videos on Bilibili. After complex code all morning, my brain needs zero-effort content. Sometimes I read a chapter of whatever sci-fi I'm into. The whole point is giving my brain a break from intense concentration.
 
 **Q122. Do you take a nap when resting?**
 Occasionally — head down on my desk for ten to fifteen minutes after lunch. More power nap than real nap. In China, lunchtime napping at the office is common and accepted, which is nice. I think it's one of our smarter workplace habits.
 
 **Q123. How do you feel after taking a nap?**
-Noticeably better. Even a short fifteen-minute nap leaves me sharper, more focused, and significantly more productive in the afternoon. It's like pressing a mental reset button — the difference between an afternoon with and without a nap is dramatic. The trick is keeping it short, though. If I accidentally sleep for an hour, I wake up groggy, which is actually worse than not napping at all.
+Noticeably better. Even fifteen minutes feels like pressing a mental reset button — I'm sharper and more focused for the rest of the afternoon. The key is keeping it short, though. Once I accidentally slept for an hour at my desk and woke up completely groggy, which was actually worse than not napping at all.
 
 ---
 
@@ -518,32 +518,32 @@ Depends. Tech stuff goes to friends who understand that world. Family milestones
 ## 30. Taking photos (Q130–Q134)
 
 **Q130. Print photos or keep them on your phone?**
-Almost all digital. Cloud storage makes printing unnecessary. I have thousands of my son's photos accessible from anywhere. I've been trying to improve my photography skills, so I'm more selective now about what I shoot. My grandfather in Yibin still prints photos, though — he has framed ones of my son on his shelf.
+Almost all digital. Cloud storage makes printing unnecessary. I have thousands of my son's photos on my phone, accessible from anywhere. Most of them are just casual snapshots — nothing fancy, but they capture the moment. My grandfather in Yibin still prints photos, though — he has framed ones of my son on his shelf.
 
 **Q131. Do you like taking photos?**
-Yeah — I have a growing interest in photography. My gallery is mainly my son, but I'm learning about composition and lighting through Bilibili tutorials. I want to capture his childhood with some skill, not just point-and-shoot snapshots. He's growing up fast, and these photos are how we'll remember this stage.
+Yeah — my gallery is basically ninety percent my son. I just grab my phone whenever he does something funny or cute. I don't study techniques or anything — it's all point-and-shoot. But looking back through those photos always makes me smile. He's growing up fast, and these snapshots are how we'll remember this stage.
 
 **Q132. Do you like taking selfies?**
-Not at all. I'm a behind-the-camera person. My photography interest is about capturing moments of my son and landscapes, not my own face. My wife takes selfies sometimes. But I'm a quiet, low-key person — posing feels unnatural.
+Not at all. I'm a behind-the-camera person. I'd rather snap a photo of my son or some nice scenery than my own face. My wife takes selfies sometimes, but I'm a quiet, low-key person — posing feels unnatural.
 
 **Q133. What is your favourite family photo?**
-One from last Spring Festival in Yibin. Whole family around my grandparents' dinner table — grandfather, grandmother, my wife, my son grinning with food on his face. Chaotic, imperfect, slightly blurry. But it captures the warmth of three generations together better than any professional photo could. I'm trying to learn to take better photos like this.
+One from last Spring Festival in Yibin. Whole family around my grandparents' dinner table — grandfather, grandmother, my wife, my son grinning with food on his face. Chaotic, imperfect, slightly blurry. But it captures the warmth of three generations together better than any professional photo could.
 
 **Q134. Do you want to improve your photography skills?**
-Definitely — I've already started. Watching systematic tutorials on Bilibili about natural light portraiture and candid family photography. I practise on weekends, experimenting with angles and lighting. I've even joined a local photography group that meets monthly. My grandfather was brilliant with his hands — I'd like to think photography is my version of craftsmanship.
+A little bit, yeah. Right now I just point and shoot — my phone does most of the work. But sometimes I look at the photos afterwards and think the lighting's off, or I cut someone's head out of the frame. I'd love to learn basic composition at least, so the family photos look decent. Nothing professional, just good enough that my son doesn't look like a blurry blob in every picture.
 ## 31. Spare time (Q135–Q138)
 
 **Q135. Do you often have free time?**
-Hardly ever. Between work and my son, the schedule is packed. Real "me time" starts after he sleeps around 9pm, and by then I'm usually exhausted. I typically read a chapter of sci-fi or browse photography tutorials. Weekends are slightly better but still mostly family activities. True free time is genuinely rare.
+Hardly ever. Between work and my son, the schedule is packed. Real "me time" starts after he sleeps around 9pm, and by then I'm usually exhausted. I typically read a chapter of sci-fi or scroll through tech articles. Weekends are slightly better but still mostly family activities. True free time is rare.
 
 **Q136. What do you do in your spare time?**
-Read, mainly. Science fiction is my escape — currently revisiting Asimov's Foundation series. I also browse photography tutorials on Bilibili. After coding all day, I need something that engages a different part of my brain. My wife says I should exercise more. She's right.
+Read, mainly. Science fiction is my escape — currently revisiting Asimov's Foundation series. I also watch short videos on Bilibili or scroll through tech articles. After coding all day, I need something that engages a different part of my brain. My wife says I should exercise more. She's right.
 
 **Q137. Which day do you have more free time, Saturday or Sunday?**
-Sunday. Saturday is our activity day — outings, errands, groceries. Sunday tends to be relaxed — my son draws LEGO designs at the table while we have coffee. The golden window is when he naps — those quiet one or two hours are the most peaceful time in my entire week. That's when I read or practise photography.
+Sunday. Saturday is our activity day — outings, errands, groceries. Sunday tends to be relaxed — my son draws LEGO designs at the table while we have coffee. The golden window is when he naps — those quiet one or two hours are the most peaceful time in my entire week. That's when I read or just sit quietly.
 
 **Q138. Would you like more free time in the future?**
-Absolutely. I'd love to take photography more seriously, read more sci-fi, maybe eventually work towards becoming an independent researcher. Right now my son shapes everything, which I don't regret. Maybe once he starts primary school and becomes more independent, things will open up.
+Absolutely. I'd love to read more sci-fi, maybe eventually work towards becoming an independent researcher. Right now my son shapes everything, which I don't regret. Maybe once he starts primary school and becomes more independent, things will open up.
 
 ---
 
@@ -600,10 +600,10 @@ Overall, yes — intellectually stimulating and constantly evolving. I enjoy the
 Sometimes. Simpler life — fewer responsibilities, more freedom, long library afternoons. My university roommate and I sometimes reminisce — staying up coding, arguing about algorithms, late-night guitar sessions. But I wouldn't go back. There's a depth and purpose to my current life that student years didn't have. Nostalgia filters out the boring parts.
 
 **Q153. Plans for the next five years?**
-I'd like to move towards more independent, research-oriented work — maybe AI-related, inspired by a friend's recent career switch. My son starts primary school soon, shifting logistics. The dream is eventually becoming an independent researcher, though that's long-term. More immediately: better work-life balance, more family time, improving my photography.
+Honestly, I hope things stay relatively stable. My son starts primary school soon, so I want to be around more for that transition. Career-wise, I'd like to gradually take on more research-type projects at work rather than pure product development. Nothing dramatic — just slow, steady shifts. Big changes stress me out, so I prefer to evolve rather than jump.
 
 **Q154. What's most important right now?**
-Balance between career and family. My son is five; these years pass quickly. My only expectation for him is healthy, happy, safe — everything else follows from that. Career matters, but being present matters more. It's something I think about constantly, especially watching how patiently my grandfather raised me.
+Preparing for my son's transition to primary school, actually. He's starting next year and he's quite shy, so I want to help him get comfortable with the idea. We've been visiting the school campus together on weekends, talking about what it'll be like. For me personally, it's about making sure he feels supported during a big change.
 
 **Q155. Want to change jobs?**
 Not immediately — stability matters with a mortgage and a child in Chengdu. But I'm not closed to it. A friend's successful switch to AI showed me that well-planned career transitions are possible. When the timing is right, I'd love to explore more research-oriented opportunities. For now, staying put is sensible.
@@ -666,7 +666,7 @@ Some — school covered the rivers, the baijiu industry, festival traditions. Bu
 Overall, yes — convenient. Shops, restaurants, kindergarten all within walking distance. For a young family, hard to beat. The downside is noise — commercial street nearby. But convenience outweighs noise at this stage. Nothing like the quiet of my grandparents' neighbourhood in Yibin, but practical for our needs.
 
 **Q171. Where do you like to go in that area?**
-A park about ten minutes away — our go-to weekend spot. My son plays on the equipment while I sit and read or practise photography. There's also a good supermarket and a few restaurants we rotate through. Nothing fancy, but it covers essentials for a family with a young kid.
+A park about ten minutes away — our go-to weekend spot. My son plays on the equipment while I sit on a bench and read. There's also a good supermarket and a few restaurants we rotate through. Nothing fancy, but it covers essentials for a family with a young kid.
 
 **Q172. Do you know any neighbours?**
 A few, mostly through my son. There's a retired gentleman who walks his golden retriever every evening — my son adores that dog and runs to pet it. Through that daily interaction, we've gotten to know him. In Chengdu, that kind of neighbourly connection is rare. It reminds me of Yibin, where everyone knew everyone.
@@ -675,7 +675,7 @@ A few, mostly through my son. There's a retired gentleman who walks his golden r
 Generally, yes — though most keep to themselves, which is normal for a big city. The retired gentleman with the dog is the exception — genuinely warm, chats with us, gives my son candy. I appreciate the kindness. It's a much more anonymous environment than where I grew up in Yibin, but that's city life.
 
 **Q174. Noisy or quiet area?**
-Both, depending on time. Daytime: noisy commercial street, traffic, scooters. Evenings quiet down. Weekdays I'm at work so noise doesn't affect me. Weekends at home, you feel the difference. Very different from Yibin's quiet, where the loudest thing is birds in my grandfather's garden.
+On the noisy side, I'd say. There's a commercial street nearby — traffic, scooters, people. You get used to it, but weekends at home you really feel it. Very different from where I grew up in Yibin, where the loudest thing was birds in my grandfather's garden.
 
 ---
 
@@ -707,13 +707,13 @@ Yes, with an honest caveat. Great for tech careers, and the lifestyle is more re
 Spring Festival — we went to Yibin to visit my grandparents. My son explored the vegetable garden with my grandfather, fascinated by the wood-burning stove. He watched my grandmother cook, asked a hundred questions. Going back always feels like stepping into a slower, simpler world. Exactly what a holiday should be.
 
 **Q182. What do you usually do on days off?**
-Family activities — parks, the zoo, or wandering new parts of Chengdu with my son. Bad weather means a mall. Sometimes my wife and I take turns so the other gets solo hours. I might use that time for photography practice or reading. But the default is family-centred. Old friends sometimes join us if they're visiting Chengdu.
+Family activities — parks, the zoo, or wandering new parts of Chengdu with my son. Bad weather means a mall. Sometimes my wife and I take turns so the other gets solo hours. I might use that time for reading or just walking around by myself. But the default is family-centred. Old friends sometimes join us if they're visiting Chengdu.
 
 **Q183. Days off with parents or friends?**
 Almost always with my wife and son. My grandparents are in Yibin — visiting requires a proper trip. We manage occasional group outings, but most days off are us three. When my grandfather visits Chengdu, those are special occasions — my son is always overjoyed.
 
 **Q184. What would you do if you had a day off tomorrow?**
-Sleep in first — no alarm, no kindergarten run. Then take my son to explore somewhere new in Chengdu — maybe a park we keep meaning to visit. Bring my camera and practise photography while he explores. A day with no plan, no rush. That's my ideal — and surprisingly rare in my current life.
+Sleep in first — no alarm, no kindergarten run. Then take my son to explore somewhere new in Chengdu — maybe a park we keep meaning to visit. Just wander around, snap a few photos of him on my phone, grab street food. A day with no plan, no rush. That's my ideal — and surprisingly rare in my current life.
 
 ---
 

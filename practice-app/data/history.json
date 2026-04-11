@@ -1,0 +1,1108 @@
+{
+  "spelling": {
+    "sessions": [
+      {
+        "date": "2026-04-04T09:54:52.496Z",
+        "category": "今日错词",
+        "total": 6,
+        "correct": 6,
+        "wrongWords": [
+          "September",
+          "September",
+          "September"
+        ]
+      },
+      {
+        "date": "2026-04-04T10:14:07.048Z",
+        "category": "娱乐",
+        "total": 11,
+        "correct": 10,
+        "wrongWords": [
+          "ballet",
+          "comedian",
+          "opera",
+          "orchestra",
+          "theatre",
+          "symphony"
+        ]
+      },
+      {
+        "date": "2026-04-04T12:56:49.643Z",
+        "category": "错词重练",
+        "total": 13,
+        "correct": 5,
+        "wrongWords": [
+          "colleague",
+          "comedian",
+          "theatre"
+        ]
+      },
+      {
+        "date": "2026-04-04T15:45:07.265Z",
+        "category": "精听卡点词",
+        "total": 14,
+        "correct": 14,
+        "wrongWords": [
+          "statutory",
+          "probationary",
+          "eligible",
+          "permitted"
+        ]
+      },
+      {
+        "date": "2026-04-05T02:29:32.107Z",
+        "category": "昨日错词",
+        "total": 18,
+        "correct": 18,
+        "wrongWords": [
+          "symphony",
+          "symphony",
+          "colleague",
+          "February",
+          "permitted",
+          "opera"
+        ]
+      },
+      {
+        "date": "2026-04-05T02:35:27.778Z",
+        "category": "昨日错词",
+        "total": 12,
+        "correct": 12,
+        "wrongWords": [
+          "theatre"
+        ]
+      },
+      {
+        "date": "2026-04-08T12:49:56.084Z",
+        "category": "精听卡点词:日期",
+        "total": 3,
+        "correct": 3,
+        "wrongWords": [
+          "provisional"
+        ]
+      },
+      {
+        "date": "2026-04-08T12:53:32.100Z",
+        "category": "精听卡点词:日期",
+        "total": 17,
+        "correct": 17,
+        "wrongWords": [
+          "apprentice",
+          "subsidised",
+          "make the most of",
+          "take it up",
+          "run through",
+          "scheme"
+        ]
+      },
+      {
+        "date": "2026-04-09T01:48:04.106Z",
+        "category": "昨日错词",
+        "total": 16,
+        "correct": 16,
+        "wrongWords": [
+          "bicycle",
+          "karate",
+          "carbohydrates",
+          "carbohydrates",
+          "maternity ward",
+          "plagiarism",
+          "current address"
+        ]
+      },
+      {
+        "date": "2026-04-09T02:00:51.087Z",
+        "category": "时间/日期",
+        "total": 26,
+        "correct": 26,
+        "wrongWords": [
+          "Thursday",
+          "November",
+          "December",
+          "century",
+          "calendar",
+          "anniversary",
+          "January"
+        ]
+      },
+      {
+        "date": "2026-04-10T00:49:34.389Z",
+        "category": "精听卡点词:日期",
+        "total": 2,
+        "correct": 2,
+        "wrongWords": []
+      },
+      {
+        "date": "2026-04-10T01:00:22.308Z",
+        "category": "时间/日期",
+        "total": 47,
+        "correct": 47,
+        "wrongWords": [
+          "Wednesday",
+          "Thursday",
+          "June",
+          "November",
+          "December",
+          "on weekdays",
+          "at nine o'clock",
+          "annual"
+        ]
+      },
+      {
+        "date": "2026-04-10T14:03:15.029Z",
+        "category": "时间/日期:错词",
+        "total": 14,
+        "correct": 14,
+        "wrongWords": [
+          "February",
+          "at nine o'clock",
+          "Wednesday"
+        ]
+      },
+      {
+        "date": "2026-04-10T14:14:38.712Z",
+        "category": "住宿/租房",
+        "total": 46,
+        "correct": 46,
+        "wrongWords": [
+          "spa",
+          "ladder",
+          "mirror",
+          "vacuum",
+          "corridor",
+          "refrigerator",
+          "towel",
+          "harbour",
+          "cupboard",
+          "laundry",
+          "kitchen",
+          "handles",
+          "neighbourhood",
+          "tenant"
+        ]
+      }
+    ],
+    "wordStats": {
+      "furniture": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "September": {
+        "attempts": 9,
+        "correct": 6,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-04"
+      },
+      "October": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "actually": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "quite": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "favourite": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "challenging": {
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "withdraw": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "February": {
+        "attempts": 10,
+        "correct": 5,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "librarian": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "colleague": {
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-05"
+      },
+      "refrigerator": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "accountant": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "vacancy": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "ballet": {
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "comedian": {
+        "attempts": 6,
+        "correct": 4,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "concert": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "documentary": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "opera": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-05"
+      },
+      "orchestra": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "theatre": {
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-05"
+      },
+      "thriller": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "violin": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "symphony": {
+        "attempts": 5,
+        "correct": 2,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-05"
+      },
+      "driving licence": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "intersection": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "pedestrian": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-05",
+        "lastWrong": "2026-04-04"
+      },
+      "candles": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-04",
+        "lastWrong": null
+      },
+      "statutory": {
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-08",
+        "lastWrong": "2026-04-04"
+      },
+      "probationary": {
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-08",
+        "lastWrong": "2026-04-04"
+      },
+      "eligible": {
+        "attempts": 7,
+        "correct": 6,
+        "lastSeen": "2026-04-08",
+        "lastWrong": "2026-04-04"
+      },
+      "permitted": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-08",
+        "lastWrong": "2026-04-05"
+      },
+      "circumstances": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "commitments": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "subsidised": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "unhygienic": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "apprentice": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "apprenticeship": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "scheme": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "packed lunch": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "unavailable": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "resources": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "accommodation": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "provisional": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-08"
+      },
+      "cruise": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "make the most of": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "take it up": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "run through": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "cable car": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "origin": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "fortnight": {
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "bicycle": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "moderate": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-08",
+        "lastWrong": null
+      },
+      "karate": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "seminar": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "spine": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "maternity ward": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "plagiarism": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "current address": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "carbohydrates": {
+        "attempts": 5,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-09"
+      },
+      "diagnosis": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-09",
+        "lastWrong": "2026-04-08"
+      },
+      "Adelaide": {
+        "attempts": 1,
+        "correct": 0,
+        "lastSeen": "2026-04-08",
+        "lastWrong": "2026-04-08"
+      },
+      "Thursday": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "Saturday": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "November": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "December": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "annual": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "century": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-09"
+      },
+      "quarter": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "permanent": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "temporary": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "calendar": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-09"
+      },
+      "duration": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "anniversary": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-09"
+      },
+      "Spring": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Summer": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Autumn": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Winter": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "January": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-09"
+      },
+      "March": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "April": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "May": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "June": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "July": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "August": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "weekday": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "weekend": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Monday": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Tuesday": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Wednesday": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "Friday": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "Sunday": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "on Monday": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "on the fifteenth": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "on weekdays": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "in January": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "in 2026": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "in the morning": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "in summer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "at nine o'clock": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "at noon": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "at the weekend": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "deadline": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "semester": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "timetable": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "basement": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "bathroom": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "spa": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "garage": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "vegetarian": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "ladder": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "mirror": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "landlord": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "microwave": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "utilities": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "blanket": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "vacuum": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "napkin": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "suburb": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "fireplace": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "corridor": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "occupancy": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "curtain": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "fountain": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "stove": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "bedroom": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "carpet": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "apartment": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "dormitory": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "towel": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "storage": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "container": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "balcony": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "harbour": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "pillow": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "cupboard": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "laundry": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "cottage": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "elevator": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "deposit": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "kitchen": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "sink": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "handles": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "entrance": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "neighbourhood": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "mat": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "locker": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      },
+      "tenant": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": "2026-04-10"
+      },
+      "furnished": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-10",
+        "lastWrong": null
+      }
+    },
+    "starredWords": {}
+  },
+  "synonym": {
+    "sessions": [],
+    "groupRatings": {
+      "cost": {
+        "rating": "认识",
+        "lastSeen": "2026-04-04"
+      },
+      "book": {
+        "rating": "认识",
+        "lastSeen": "2026-04-04"
+      },
+      "cancel": {
+        "rating": "模糊",
+        "lastSeen": "2026-04-04"
+      },
+      "not_expensive": {
+        "rating": "不认识",
+        "lastSeen": "2026-04-04"
+      },
+      "not_difficult": {
+        "rating": "不认识",
+        "lastSeen": "2026-04-04"
+      }
+    }
+  }
+}

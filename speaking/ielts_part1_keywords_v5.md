@@ -62,7 +62,7 @@
 ## 4. Hobby (Q13–Q16)
 
 **Q13. Do you have any hobbies?**
-`sci-fi (Three-Body, Foundation) / photography — mainly son / weekends → parks, zoo / wife says need exercise`
+`sci-fi (Three-Body, Foundation) / taking photos of son — casual snapshots / weekends → parks, zoo / wife says need exercise`
 
 **Q14. Did you have any hobbies when you were a child?**
 `outdoors in Yibin / climbing trees, kicking football, catching fish / no smartphones / grandfather → walks + plants`
@@ -173,7 +173,7 @@
 `mountains — grew up surrounded in Sichuan / Mount Emei last autumn → misty peaks / deep peacefulness / Kyoto 3 times → hills`
 
 **Q42. Do you like to take scenery pictures?**
-`yes but not great / casual photography interest / photos never match eyes / Bilibili tutorials / more memory triggers than art`
+`yes but not great / like taking photos of son, casual snapshots / photos never match eyes / don't study techniques / more memory triggers than art`
 
 **Q43. What are the most beautiful sights you have seen while traveling?**
 `Mount Emei — mist peeling, grey→green→gold / Kyoto bamboo grove — light through stalks / wife says I went "unusually quiet"`
@@ -186,7 +186,7 @@
 `live in one — 20th floor / Chengdu all high-rises / different from Yibin low-rise / balcony → towers every direction`
 
 **Q45. Do you take photos of buildings?**
-`hardly ever / photography = son + scenery / exception: Apple Park 2019 / circular glass building → blew me away`
+`hardly ever / mostly just snap son + scenery on phone / exception: Apple Park 2019 / circular glass building → blew me away`
 
 **Q46. Is there a building that you would like to visit?**
 `Apple Park 2019 / stunning circular glass in parkland / 14 years in tech → like visiting a temple / want to go back`
@@ -199,7 +199,7 @@
 ## 12. Childhood activities (Q48–Q51)
 
 **Q48. What are your favourite activities?**
-`weekdays → quiet: sci-fi, video, photography tutorials / weekends → son: parks, playgrounds, LEGO / two different people`
+`weekdays → quiet: sci-fi, short videos, tech articles / weekends → son: parks, playgrounds, LEGO / two different people`
 
 **Q49. What were your favourite activities when you were a child?**
 `outdoors in Yibin / cousins → climb trees, football, fish / grandfather → nature walks / no screens / come home covered in mud`
@@ -215,7 +215,7 @@
 ## 13. Views (Q52–Q55)
 
 **Q52. Do you like taking pictures of different views?**
-`growing interest / watching tutorials / photographed sunset from balcony / main subjects: son + landscapes`
+`yeah — casual snapshots on phone / not studying techniques / sunset from balcony once / main subjects: son + landscapes`
 
 **Q53. Do you prefer views in urban areas or rural areas?**
 `rural — urban is daily in Chengdu / mountains/countryside = mental reset / grew up Sichuan beauty / Kyoto + Mount Emei remind me`
@@ -291,7 +291,7 @@
 `depends on age / younger kids need boundaries / too many rules → backfire for teens / son: healthy happy safe, not more rules`
 
 **Q72. Have you ever had a really dedicated teacher?**
-`first boss in tech / strict but committed / rewrite code till clean / exhausting then, grew fastest / still use his standards`
+`primary school teacher in Yibin / stayed after school unpaid / noticed I was good with numbers → maths competitions / shaped my career path / saw something in me`
 
 **Q73. Do you prefer to have more or fewer rules at school?**
 `balance / too few = chaos, too many = no thinking / code = rules / grandfather's philosophy: "respect others, work hard" — two rules cover everything`
@@ -482,7 +482,7 @@
 `lunch break + afternoon stretch / deep concentration → breaks matter / busy days forget to stop / wife says set alarms`
 
 **Q121. What do you usually do when resting?**
-`scrolling phone / tech articles / photography tutorials Bilibili / sci-fi chapter / zero-effort content after complex code`
+`scrolling phone / tech articles / short videos Bilibili / sci-fi chapter / zero-effort content after complex code`
 
 **Q122. Do you take a nap when resting?**
 `occasionally — head on desk 10-15min / power nap after lunch / China lunchtime napping common + accepted / smart workplace habit`
@@ -520,32 +520,32 @@
 `almost all digital / cloud storage / thousands of son's photos / more selective now / grandfather still prints → framed son's photos on shelf`
 
 **Q131. Do you like taking photos?**
-`yeah — growing interest / gallery mainly son / learning composition + lighting Bilibili / capture childhood with skill / he's growing fast`
+`yeah — gallery ninety percent son / grab phone when he does something cute / don't study techniques / point-and-shoot / he's growing fast`
 
 **Q132. Do you like taking selfies?**
-`not at all / behind-the-camera person / interest = son + landscapes / wife takes selfies / quiet low-key → posing feels unnatural`
+`not at all / behind-the-camera person / snap son + scenery / wife takes selfies / quiet low-key → posing feels unnatural`
 
 **Q133. What is your favourite family photo?**
 `Spring Festival in Yibin / whole family at dinner table / son grinning food on face / chaotic, blurry / three generations warmth > professional photo`
 
 **Q134. Do you want to improve your photography skills?**
-`definitely — started / Bilibili tutorials: natural light portraiture / practise weekends / joined local photography group / grandfather good with hands → photography = my craftsmanship`
+`not really — just point and shoot / phone does most of the work / no patience for lighting or angles / grandfather brilliant with hands → didn't inherit craftsman gene / photos rough but capture the moment`
 
 ---
 
 ## 31. Spare time (Q135–Q138)
 
 **Q135. Do you often have free time?**
-`hardly ever / work + son / "me time" after 9pm, usually exhausted / sci-fi or photography tutorials / true free time genuinely rare`
+`hardly ever / work + son / "me time" after 9pm, usually exhausted / sci-fi or tech articles / true free time rare`
 
 **Q136. What do you do in your spare time?**
-`read — sci-fi (Foundation series) / photography tutorials Bilibili / need different brain engagement after coding / wife says exercise more`
+`read — sci-fi (Foundation series) / short videos or tech articles Bilibili / need different brain engagement after coding / wife says exercise more`
 
 **Q137. Which day do you have more free time, Saturday or Sunday?**
 `Sunday / Saturday = outings, errands, groceries / Sunday relaxed → son draws, we have coffee / golden window: his nap time → most peaceful hours`
 
 **Q138. Would you like more free time in the future?**
-`absolutely / photography seriously, more sci-fi / independent researcher dream / son shapes everything now / primary school → more independence → things open up`
+`absolutely / more sci-fi / independent researcher dream / son shapes everything now / primary school → more independence → things open up`
 
 ---
 
@@ -602,7 +602,7 @@
 `sometimes / simpler, fewer responsibilities / coding all night + arguing algorithms with roommate / BUT wouldn't go back / more depth + purpose now / nostalgia filters boring parts`
 
 **Q153. Plans for the next five years?**
-`independent research work → AI / friend's career switch inspired / son starts primary school / dream: independent researcher / near-term: balance + family time + photography`
+`independent research work → AI / friend's career switch inspired / son starts primary school / dream: independent researcher / near-term: balance + family time`
 
 **Q154. What's most important right now?**
 `balance career + family / son five, years pass quickly / healthy happy safe / being present > career / how grandfather raised me patiently`
@@ -668,7 +668,7 @@
 `overall yes — convenient / shops, restaurants, kindergarten walking distance / downside: noise from commercial street / convenience > noise at this stage`
 
 **Q171. Where do you like to go in that area?**
-`park 10 min away — go-to weekend / son plays, I read or practise photography / good supermarket + restaurants / nothing fancy but covers essentials`
+`park 10 min away — go-to weekend / son plays, I sit and read / good supermarket + restaurants / nothing fancy but covers essentials`
 
 **Q172. Do you know any neighbours?**
 `a few — through son / retired gentleman → golden retriever / son adores dog, runs to pet it / rare connection in Chengdu / reminds me of Yibin where everyone knew everyone`
@@ -677,7 +677,7 @@
 `generally yes — most keep to themselves / retired gentleman exception: warm, chats, gives son candy / more anonymous than Yibin / city life`
 
 **Q174. Noisy or quiet area?**
-`both depending on time / daytime: noisy commercial street / evenings quiet down / weekdays at work so doesn't affect / very different from Yibin — loudest = birds in grandfather's garden`
+`noisy side — commercial street nearby / traffic, scooters, people / you get used to it / weekends feel it more / very different from Yibin — loudest = birds in grandfather's garden`
 
 ---
 
@@ -709,13 +709,13 @@
 `Spring Festival → Yibin grandparents / son explored vegetable garden with grandfather / fascinated by wood-burning stove / watched grandmother cook / stepping into slower simpler world`
 
 **Q182. What do you usually do on days off?**
-`family — parks, zoo, exploring Chengdu with son / bad weather → mall / take turns for solo hours / photography or reading / default = family-centred`
+`family — parks, zoo, exploring Chengdu with son / bad weather → mall / take turns for solo hours / reading or walking alone / default = family-centred`
 
 **Q183. Days off with parents or friends?**
 `almost always wife + son / grandparents in Yibin = proper trip / occasional group outings / grandfather visits = special → son overjoyed`
 
 **Q184. What would you do if you had a day off tomorrow?**
-`sleep in first — no alarm / explore somewhere new in Chengdu with son / bring camera for photography / no plan, no rush = ideal + surprisingly rare`
+`sleep in first — no alarm / explore somewhere new in Chengdu with son / wander, snap photos on phone, street food / no plan, no rush = ideal + surprisingly rare`
 
 ---
 

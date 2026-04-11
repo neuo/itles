@@ -1,0 +1,2571 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>雅思词汇练习工具</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+      background-color: #f5f5f7;
+      color: #1d1d1f;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #e5e5e7;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: #86868b;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .nav-tabs button {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 8px;
+      background: white;
+      color: #007aff;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s;
+      border: 1px solid #e5e5e7;
+    }
+
+    .nav-tabs button.active {
+      background: #007aff;
+      color: white;
+      border-color: #007aff;
+    }
+
+    .nav-tabs button:hover {
+      background: #f5f5f7;
+    }
+
+    .nav-tabs button.active:hover {
+      background: #0051d5;
+    }
+
+    .section {
+      display: none;
+    }
+
+    .section.active {
+      display: block;
+    }
+
+    .card {
+      background: white;
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 16px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .category-btn {
+      padding: 12px 16px;
+      border: 1px solid #e5e5e7;
+      border-radius: 12px;
+      background: white;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 500;
+      transition: all 0.2s;
+      text-align: center;
+      word-wrap: break-word;
+    }
+
+    .category-btn:hover {
+      border-color: #007aff;
+      color: #007aff;
+      background: #f5f5f7;
+    }
+
+    .category-btn.smart-random {
+      background: linear-gradient(135deg, #007aff, #0051d5);
+      color: white;
+      border-color: transparent;
+    }
+
+    .category-btn.error-words {
+      background: linear-gradient(135deg, #ff3b30, #ff6b47);
+      color: white;
+      border-color: transparent;
+    }
+
+    .category-btn.dictation-words {
+      background: linear-gradient(135deg, #ff9500, #ff6f00);
+      color: white;
+      border-color: transparent;
+    }
+
+    .date-filter-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+
+    .date-filter-panel {
+      background: white;
+      border-radius: 16px;
+      padding: 24px;
+      min-width: 280px;
+      max-width: 360px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    }
+
+    .date-filter-panel h3 {
+      margin: 0 0 16px;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    .date-filter-btn {
+      display: block;
+      width: 100%;
+      padding: 10px 16px;
+      margin-bottom: 8px;
+      border: 1px solid #e5e5e7;
+      border-radius: 10px;
+      background: white;
+      cursor: pointer;
+      font-size: 14px;
+      text-align: left;
+      transition: all 0.15s;
+    }
+
+    .date-filter-btn:hover {
+      border-color: #ff9500;
+      background: #fff8f0;
+    }
+
+    .date-filter-btn .date-count {
+      float: right;
+      color: #86868b;
+      font-size: 12px;
+    }
+
+    .date-filter-btn.all-btn {
+      background: linear-gradient(135deg, #ff9500, #ff6f00);
+      color: white;
+      border-color: transparent;
+      font-weight: 600;
+      text-align: center;
+    }
+
+    .date-filter-btn.all-btn .date-count {
+      color: rgba(255,255,255,0.8);
+    }
+
+    .date-filter-btn.all-btn:hover {
+      opacity: 0.9;
+      background: linear-gradient(135deg, #ff9500, #ff6f00);
+    }
+
+    .date-filter-cancel {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 4px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-size: 13px;
+      color: #86868b;
+    }
+
+    .question-area {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .question-label {
+      font-size: 14px;
+      color: #86868b;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .word-display {
+      font-size: 36px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      min-height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .hidden {
+      color: #d1d1d6;
+    }
+
+    .input-group {
+      margin-bottom: 16px;
+    }
+
+    input[type="text"],
+    textarea {
+      width: 100%;
+      padding: 12px 16px;
+      border: 1px solid #e5e5e7;
+      border-radius: 12px;
+      font-size: 16px;
+      font-family: inherit;
+      transition: all 0.2s;
+    }
+
+    input[type="text"]:focus,
+    textarea:focus {
+      outline: none;
+      border-color: #007aff;
+      box-shadow: 0 0 0 3px rgba(0, 122, 255, 0.1);
+    }
+
+    textarea {
+      min-height: 80px;
+      resize: vertical;
+    }
+
+    .hint-text {
+      color: #ff9500;
+      font-size: 13px;
+      margin-top: 8px;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: #007aff;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #0051d5;
+    }
+
+    .btn-primary:active {
+      transform: scale(0.98);
+    }
+
+    .btn-secondary {
+      background: #f5f5f7;
+      color: #1d1d1f;
+      border: 1px solid #e5e5e7;
+    }
+
+    .btn-secondary:hover {
+      background: #e8e8ed;
+    }
+
+    .btn-success {
+      background: #34c759;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #2ba948;
+    }
+
+    .btn-danger {
+      background: #ff3b30;
+      color: white;
+    }
+
+    .btn-danger:hover {
+      background: #d62317;
+    }
+
+    .btn-warning {
+      background: #ffcc00;
+      color: #1d1d1f;
+    }
+
+    .btn-warning:hover {
+      background: #e6b800;
+    }
+
+    .result-summary {
+      background: #f5f5f7;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .result-score {
+      font-size: 32px;
+      font-weight: 600;
+      color: #007aff;
+      margin-bottom: 8px;
+    }
+
+    .result-text {
+      font-size: 14px;
+      color: #86868b;
+    }
+
+    .wrong-words-list {
+      background: #fff3cd;
+      border-left: 4px solid #ffcc00;
+      border-radius: 8px;
+      padding: 12px;
+      margin: 16px 0;
+    }
+
+    .wrong-words-list h3 {
+      font-size: 13px;
+      color: #856404;
+      margin-bottom: 8px;
+    }
+
+    .wrong-words-list p {
+      font-size: 12px;
+      color: #856404;
+      line-height: 1.6;
+    }
+
+    .flip-card {
+      background: white;
+      border: 1px solid #e5e5e7;
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s;
+      min-height: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+    }
+
+    .flip-card:hover {
+      border-color: #007aff;
+      box-shadow: 0 4px 12px rgba(0, 122, 255, 0.15);
+    }
+
+    .flip-card.flipped {
+      background: #f5f5f7;
+    }
+
+    .flip-card-word {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+
+    .flip-card-synonyms {
+      font-size: 14px;
+      line-height: 1.8;
+      color: #555;
+    }
+
+    .flip-card-buttons {
+      margin-top: 16px;
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .rating-btn {
+      padding: 8px 16px;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .match-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    .match-column {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .match-item {
+      padding: 12px;
+      border: 1px solid #e5e5e7;
+      border-radius: 10px;
+      background: white;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+      font-size: 13px;
+    }
+
+    .match-item:hover {
+      border-color: #007aff;
+      background: #f5f5f7;
+    }
+
+    .match-item.selected {
+      background: #007aff;
+      color: white;
+      border-color: #007aff;
+    }
+
+    .match-item.matched {
+      background: #34c759;
+      color: white;
+      border-color: #34c759;
+      opacity: 0.5;
+    }
+
+    .timer {
+      font-size: 32px;
+      font-weight: 600;
+      color: #007aff;
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .timer.warning {
+      color: #ff9500;
+    }
+
+    .timer.danger {
+      color: #ff3b30;
+    }
+
+    .brainstorm-list {
+      background: #f5f5f7;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+
+    .brainstorm-item {
+      background: white;
+      padding: 8px 12px;
+      border-radius: 8px;
+      margin-bottom: 8px;
+      font-size: 13px;
+      display: inline-block;
+      margin-right: 8px;
+      border: 1px solid #e5e5e7;
+    }
+
+    .brainstorm-item.correct {
+      background: #34c759;
+      color: white;
+      border-color: #34c759;
+    }
+
+    .brainstorm-item.shake {
+      animation: shake 0.4s;
+    }
+
+    .brainstorm-item.hint {
+      background: #fff3cd;
+      color: #856404;
+      border-color: #ffc107;
+    }
+
+    .brainstorm-missed {
+      margin-top: 12px;
+      padding: 12px;
+      background: #fff3cd;
+      border-radius: 10px;
+      font-size: 13px;
+      color: #856404;
+      line-height: 1.6;
+    }
+
+    .synonym-category-filter {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .synonym-category-pill {
+      padding: 5px 12px;
+      border-radius: 16px;
+      border: 1px solid #e5e5e7;
+      background: white;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.2s;
+      color: #555;
+    }
+
+    .synonym-category-pill:hover {
+      border-color: #007aff;
+      color: #007aff;
+    }
+
+    .synonym-category-pill.active {
+      background: #007aff;
+      color: white;
+      border-color: #007aff;
+    }
+
+    .flip-progress {
+      text-align: center;
+      font-size: 13px;
+      color: #86868b;
+      margin-bottom: 12px;
+    }
+
+    .match-item.wrong {
+      background: #ff3b30;
+      color: white;
+      border-color: #ff3b30;
+      animation: shake 0.4s;
+    }
+
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-8px); }
+      75% { transform: translateX(8px); }
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .stat-card {
+      background: white;
+      border-radius: 12px;
+      padding: 16px;
+      text-align: center;
+      border: 1px solid #e5e5e7;
+    }
+
+    .stat-value {
+      font-size: 28px;
+      font-weight: 600;
+      color: #007aff;
+      margin-bottom: 4px;
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: #86868b;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .missed-words-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+
+    .missed-words-table th {
+      background: #f5f5f7;
+      padding: 12px;
+      text-align: left;
+      font-size: 12px;
+      font-weight: 600;
+      border-bottom: 1px solid #e5e5e7;
+      color: #86868b;
+    }
+
+    .missed-words-table td {
+      padding: 12px;
+      border-bottom: 1px solid #e5e5e7;
+      font-size: 13px;
+    }
+
+    .missed-words-table tr:hover {
+      background: #f5f5f7;
+    }
+
+    .accuracy-bar {
+      display: inline-block;
+      height: 6px;
+      background: #e5e5e7;
+      border-radius: 3px;
+      width: 100%;
+      max-width: 100px;
+      overflow: hidden;
+    }
+
+    .accuracy-bar-fill {
+      height: 100%;
+      background: #34c759;
+      border-radius: 3px;
+    }
+
+    .accuracy-bar.low .accuracy-bar-fill {
+      background: #ff3b30;
+    }
+
+    .accuracy-bar.medium .accuracy-bar-fill {
+      background: #ffcc00;
+    }
+
+    .heatmap {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 4px;
+      margin-bottom: 20px;
+      max-width: 280px;
+    }
+
+    .heatmap-day {
+      width: 100%;
+      aspect-ratio: 1;
+      border-radius: 4px;
+      background: #e5e5e7;
+      font-size: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .heatmap-day.practiced {
+      background: #007aff;
+    }
+
+    .success-flash {
+      animation: successFlash 0.8s ease-out;
+    }
+
+    @keyframes successFlash {
+      0% { background: #34c759; }
+      100% { background: white; }
+    }
+
+    .controls {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+
+    .speed-control {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .speed-btn {
+      padding: 6px 12px;
+      font-size: 12px;
+    }
+
+    .speed-btn.active {
+      background: #007aff;
+      color: white;
+    }
+
+    .clear-fix::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 40px 20px;
+      color: #86868b;
+    }
+
+    .error-message {
+      background: #ff3b30;
+      color: white;
+      padding: 12px;
+      border-radius: 10px;
+      margin-bottom: 16px;
+      font-size: 13px;
+    }
+
+    .success-message {
+      background: #34c759;
+      color: white;
+      padding: 12px;
+      border-radius: 10px;
+      margin-bottom: 16px;
+      font-size: 13px;
+    }
+
+    .hidden-input {
+      display: none;
+    }
+
+    .category-popup-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+
+    .category-popup-panel {
+      background: white;
+      border-radius: 16px;
+      padding: 24px;
+      min-width: 280px;
+      max-width: 360px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    }
+
+    .category-popup-panel h3 {
+      margin: 0 0 16px;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    .category-popup-btn {
+      display: block;
+      width: 100%;
+      padding: 12px 16px;
+      margin-bottom: 10px;
+      border: 1px solid #e5e5e7;
+      border-radius: 10px;
+      background: white;
+      cursor: pointer;
+      font-size: 14px;
+      text-align: left;
+      transition: all 0.15s;
+    }
+
+    .category-popup-btn:hover:not(:disabled) {
+      border-color: #007aff;
+      background: #f5f5f7;
+    }
+
+    .category-popup-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      color: #86868b;
+    }
+
+    .category-popup-btn .option-count {
+      float: right;
+      color: #86868b;
+      font-size: 13px;
+    }
+
+    .category-popup-cancel {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 4px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-size: 13px;
+      color: #86868b;
+    }
+
+    .star-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #e5e5e7;
+      border-radius: 10px;
+      background: white;
+      cursor: pointer;
+      transition: all 0.2s;
+      margin-left: 8px;
+      color: #d1d1d6;
+      padding: 0;
+    }
+
+    .star-btn:hover {
+      border-color: #ffcc00;
+      background: #fffbf0;
+      color: #ffcc00;
+    }
+
+    .star-btn.starred {
+      border-color: #ffcc00;
+      background: #fff8e1;
+      color: #f5a623;
+    }
+
+    .star-btn svg {
+      width: 22px;
+      height: 22px;
+      fill: currentColor;
+      stroke: currentColor;
+      stroke-width: 1;
+    }
+
+    .word-area {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>雅思词汇练习</h1>
+      <p class="subtitle">拼写听写 | 同义词联想 | 统计分析</p>
+    </header>
+
+    <div class="nav-tabs">
+      <button class="nav-tab-btn active" data-tab="spelling">拼写听写</button>
+      <button class="nav-tab-btn" data-tab="synonym">同义词联想</button>
+      <button class="nav-tab-btn" data-tab="stats">统计</button>
+    </div>
+
+    <!-- SPELLING SECTION -->
+    <div id="spelling" class="section active">
+      <div id="spelling-categories" class="card">
+        <h2>选择分类</h2>
+        <div class="category-grid" id="categoryGrid"></div>
+      </div>
+
+      <div id="spelling-practice" class="card" style="display: none;">
+        <div class="controls">
+          <button id="playAudioBtn" class="btn-secondary">🔊 播放发音</button>
+          <div class="speed-control">
+            <span style="font-size: 12px; color: #86868b;">速度:</span>
+            <button class="speed-btn active" data-speed="1">1x</button>
+            <button class="speed-btn" data-speed="0.75">0.75x</button>
+            <button class="speed-btn" data-speed="0.5">0.5x</button>
+          </div>
+        </div>
+
+        <div class="question-area">
+          <div id="spellingProgress" style="text-align: center; font-size: 13px; color: #86868b; margin-bottom: 6px;"></div>
+          <div class="question-label">听单词，打拼写</div>
+          <div class="word-area">
+            <div class="word-display" id="wordDisplay">
+              <span class="hidden">●●●●●●●●</span>
+            </div>
+            <button id="starBtn" class="star-btn" title="标记为重点词" style="display: none;">
+              <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="input-group">
+            <input type="text" id="spellingInput" placeholder="输入拼写..." autocomplete="off">
+          </div>
+          <div class="hint-text" id="hintText"></div>
+        </div>
+
+        <div id="feedbackArea"></div>
+
+        <div class="button-group">
+          <button id="submitBtn" class="btn-primary">提交 (Enter)</button>
+          <button id="skipBtn" class="btn-secondary">跳过</button>
+          <button id="backCategoryBtn" class="btn-secondary">返回分类</button>
+        </div>
+      </div>
+
+      <div id="spelling-result" class="card" style="display: none;">
+        <h2>本轮结果</h2>
+        <div class="result-summary">
+          <div class="result-score" id="resultScore">0/0</div>
+          <div class="result-text">准确率</div>
+        </div>
+        <div id="wrongWordsList"></div>
+        <div class="button-group">
+          <button id="retryErrorsBtn" class="btn-primary">再练错词</button>
+          <button id="newRoundBtn" class="btn-secondary">新一轮</button>
+          <button id="backCategory2Btn" class="btn-secondary">返回分类</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- SYNONYM SECTION -->
+    <div id="synonym" class="section">
+      <div class="card">
+        <h2>同义词联想</h2>
+        <div class="nav-tabs">
+          <button class="synonym-mode-btn active" data-mode="flip">翻卡模式</button>
+          <button class="synonym-mode-btn" data-mode="match">配对模式</button>
+          <button class="synonym-mode-btn" data-mode="brainstorm">联想模式</button>
+        </div>
+        <div class="synonym-category-filter" id="synonymCategoryFilter"></div>
+      </div>
+
+      <!-- Flip Mode -->
+      <div id="flip-mode" class="synonym-mode active">
+        <div class="card">
+          <div class="button-group" style="margin-bottom: 12px;">
+            <button id="reviewWeakBtn" class="btn-secondary">重点复习</button>
+            <button id="allGroupsBtn" class="btn-secondary" style="display: none;">全部分组</button>
+          </div>
+          <div class="flip-progress" id="flipProgress"></div>
+          <div id="flipContainer"></div>
+          <div class="button-group">
+            <button id="resetFlipBtn" class="btn-secondary">重新开始</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Match Mode -->
+      <div id="match-mode" class="synonym-mode" style="display: none;">
+        <div class="card">
+          <div class="timer" id="matchTimer">60</div>
+          <div id="matchRound" style="text-align: center; font-size: 13px; color: #86868b; margin-bottom: 12px;"></div>
+          <div class="match-grid">
+            <div class="match-column" id="matchWordsColumn"></div>
+            <div class="match-column" id="matchSynonymsColumn"></div>
+          </div>
+          <div class="result-summary" id="matchResult" style="display: none;">
+            <div class="result-score" id="matchScore">0/5</div>
+            <div class="result-text">配对成功</div>
+          </div>
+          <div class="button-group">
+            <button id="startMatchBtn" class="btn-primary">开始 (60秒)</button>
+            <button id="nextMatchBtn" class="btn-primary" style="display: none;">下一组</button>
+            <button id="resetMatchBtn" class="btn-secondary" style="display: none;">重新开始</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Brainstorm Mode -->
+      <div id="brainstorm-mode" class="synonym-mode" style="display: none;">
+        <div class="card">
+          <div id="brainstormQuestion"></div>
+          <div class="timer" id="brainstormTimer">30</div>
+          <div class="brainstorm-list" id="brainstormList"></div>
+          <div class="input-group">
+            <input type="text" id="brainstormInput" placeholder="每次输入一个同义词，按回车确认，再输下一个..." autocomplete="off">
+          </div>
+          <div id="brainstormHint" style="display: none; text-align: center; font-size: 13px; color: #ff9500; margin-top: 8px;"></div>
+          <div class="result-summary" id="brainstormResult" style="display: none;">
+            <div class="result-score" id="brainstormScore">0/0</div>
+            <div class="result-text">答对 / 总数</div>
+            <div class="brainstorm-missed" id="brainstormMissed" style="display: none;"></div>
+          </div>
+          <div class="button-group">
+            <button id="startBrainstormBtn" class="btn-primary">开始 (30秒)</button>
+            <button id="completeBrainstormBtn" class="btn-primary" style="display: none;">完成</button>
+            <button id="resetBrainstormBtn" class="btn-secondary" style="display: none;">重新开始</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STATS SECTION -->
+    <div id="stats" class="section">
+      <div class="card">
+        <h2>学习统计</h2>
+        <div class="stats-grid" id="statsGrid"></div>
+      </div>
+
+      <div class="card">
+        <h3>最易错词 (前15)</h3>
+        <table class="missed-words-table" id="missedWordsTable">
+          <thead>
+            <tr>
+              <th>词汇</th>
+              <th>尝试</th>
+              <th>正确率</th>
+            </tr>
+          </thead>
+          <tbody id="missedWordsBody"></tbody>
+        </table>
+      </div>
+
+      <div class="card">
+        <h3>薄弱同义词分组</h3>
+        <div id="weakGroupsList"></div>
+      </div>
+
+      <div class="card">
+        <div class="button-group">
+          <button id="exportBtn" class="btn-primary">导出记录 (Markdown)</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // App state
+    const app = {
+      words: {},
+      synonyms: { groups: [] },
+      history: {
+        spelling: { sessions: [], wordStats: {}, starredWords: {} },
+        synonym: { sessions: [], groupRatings: {} }
+      },
+      stats: {},
+      currentMode: 'spelling',
+      spellingState: {
+        category: null,
+        words: [],
+        currentIndex: 0,
+        correct: 0,
+        wrongWords: [],
+        answers: {}
+      },
+      synonymCategories: [],
+      synonymState: {
+        selectedCategory: null,
+        mode: 'flip',
+        weakOnly: false,
+        currentGroups: [],
+        currentIndex: 0,
+        matchTimer: null,
+        brainstormTimer: null,
+        selectedWord: null,
+        selectedSynonym: null,
+        matchScore: 0,
+        matchPairs: [],
+        brainstormAnswers: [],
+        brainstormStartTime: null,
+        brainstormWrongCount: 0,
+        brainstormCurrentGroup: null,
+        matchRound: 0,
+        matchTotalScore: 0,
+        matchUsedGroups: [],
+        flipCurrentIdx: 0
+      }
+    };
+
+    // Initialize
+    async function init() {
+      try {
+        app.words = await fetch('/api/words').then(r => r.json());
+        // 精听卡点词去重：同一个 word 出现多次时合并 sources
+        if (app.words['精听卡点词']) {
+          const seen = new Map();
+          for (const entry of app.words['精听卡点词']) {
+            const key = entry.word.toLowerCase();
+            if (seen.has(key)) {
+              const existing = seen.get(key);
+              if (entry.sources) {
+                existing.sources = (existing.sources || []).concat(entry.sources);
+              }
+              // 保留更详细的 hint
+              if (entry.hint && entry.hint.length > (existing.hint || '').length) {
+                existing.hint = entry.hint;
+              }
+            } else {
+              seen.set(key, { ...entry, sources: entry.sources || [] });
+            }
+          }
+          app.words['精听卡点词'] = Array.from(seen.values());
+        }
+        app.synonyms = await fetch('/api/synonyms').then(r => r.json());
+        app.synonymCategories = app.synonyms.categories || [];
+        renderSynonymCategoryFilter();
+        app.history = await fetch('/api/history').then(r => r.json());
+        // Initialize starredWords if missing
+        if (!app.history.spelling) app.history.spelling = {};
+        if (!app.history.spelling.starredWords) app.history.spelling.starredWords = {};
+        app.stats = await fetch('/api/stats').then(r => r.json());
+
+        setupNavigation();
+        renderSpellingCategories();
+        renderStats();
+        setupEventListeners();
+      } catch (e) {
+        console.error('Failed to load data:', e);
+      }
+    }
+
+    // Navigation
+    function setupNavigation() {
+      document.querySelectorAll('.nav-tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const tab = btn.dataset.tab;
+          switchTab(tab);
+        });
+      });
+    }
+
+    function switchTab(tab) {
+      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
+
+      document.getElementById(tab).classList.add('active');
+      document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
+
+      app.currentMode = tab;
+
+      if (tab === 'stats') {
+        reloadStats();
+      }
+    }
+
+    // SPELLING MODE
+    function renderSpellingCategories() {
+      const grid = document.getElementById('categoryGrid');
+      grid.innerHTML = '';
+
+      // Smart random button - opens popup
+      const smartBtn = document.createElement('button');
+      smartBtn.className = 'category-btn smart-random';
+      smartBtn.textContent = '智能随机';
+      smartBtn.addEventListener('click', () => showCategoryPopup('智能随机'));
+      grid.appendChild(smartBtn);
+
+      // Yesterday's wrong words button
+      const yesterdayWords = getYesterdayWrongWords();
+      if (yesterdayWords.length > 0) {
+        const yesterdayBtn = document.createElement('button');
+        yesterdayBtn.className = 'category-btn error-words';
+        yesterdayBtn.textContent = `昨日错词 (${yesterdayWords.length})`;
+        yesterdayBtn.addEventListener('click', () => startSpellingRound('昨日错词'));
+        grid.appendChild(yesterdayBtn);
+      }
+
+      // Starred words button (global)
+      const starredWords = getStarredWords();
+      if (starredWords.length > 0) {
+        const starBtn = document.createElement('button');
+        starBtn.className = 'category-btn';
+        starBtn.style.background = 'linear-gradient(135deg, #a855f7, #ec4899)';
+        starBtn.style.color = 'white';
+        starBtn.style.borderColor = 'transparent';
+        starBtn.textContent = `⭐ 重点词练习 (${starredWords.length})`;
+        starBtn.addEventListener('click', () => startSpellingRound('⭐重点词'));
+        grid.appendChild(starBtn);
+      }
+
+      // Error words button
+      const errorBtn = document.createElement('button');
+      errorBtn.className = 'category-btn error-words';
+      errorBtn.textContent = '错词重练';
+      errorBtn.addEventListener('click', () => showCategoryPopup('错词重练'));
+      grid.appendChild(errorBtn);
+
+      // Category buttons
+      for (const category in app.words) {
+        const btn = document.createElement('button');
+        if (category === '精听卡点词') {
+          btn.className = 'category-btn dictation-words';
+          const count = (app.words[category] || []).length;
+          btn.textContent = `精听卡点词 (${count})`;
+          btn.addEventListener('click', () => showDictationDateFilter());
+        } else {
+          btn.className = 'category-btn';
+          btn.textContent = category;
+          btn.addEventListener('click', () => showCategoryPopup(category));
+        }
+        grid.appendChild(btn);
+      }
+    }
+
+    function showCategoryPopup(category) {
+      const overlay = document.createElement('div');
+      overlay.className = 'category-popup-overlay';
+      overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.remove(); });
+
+      const panel = document.createElement('div');
+      panel.className = 'category-popup-panel';
+      panel.innerHTML = `<h3>${category}</h3>`;
+
+      // Get counts for each option
+      const allCount = getWeightedWordsCount(category);
+      const errorCount = getErrorWordsCount(category);
+      const starCount = getStarredWordsCount(category);
+
+      // Option 1: All words
+      const allBtn = document.createElement('button');
+      allBtn.className = 'category-popup-btn';
+      allBtn.innerHTML = `全部 <span class="option-count">${allCount} 词</span>`;
+      allBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound(category);
+      });
+      panel.appendChild(allBtn);
+
+      // Option 2: Error words
+      const errorBtn = document.createElement('button');
+      errorBtn.className = 'category-popup-btn';
+      if (errorCount === 0) {
+        errorBtn.disabled = true;
+      }
+      errorBtn.innerHTML = `错词 <span class="option-count">${errorCount} 词</span>`;
+      errorBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound(category + ':错词');
+      });
+      panel.appendChild(errorBtn);
+
+      // Option 3: Starred words
+      const starBtn = document.createElement('button');
+      starBtn.className = 'category-popup-btn';
+      if (starCount === 0) {
+        starBtn.disabled = true;
+      }
+      starBtn.innerHTML = `重点词 <span class="option-count">${starCount} 词</span>`;
+      starBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound(category + ':重点词');
+      });
+      panel.appendChild(starBtn);
+
+      // Cancel button
+      const cancelBtn = document.createElement('button');
+      cancelBtn.className = 'category-popup-cancel';
+      cancelBtn.textContent = '取消';
+      cancelBtn.addEventListener('click', () => overlay.remove());
+      panel.appendChild(cancelBtn);
+
+      overlay.appendChild(panel);
+      document.body.appendChild(overlay);
+    }
+
+    function getStarredWords() {
+      const allWords = [];
+      for (const cat in app.words) {
+        for (const wordObj of app.words[cat]) {
+          if (app.history.spelling.starredWords[wordObj.word]) {
+            allWords.push(wordObj);
+          }
+        }
+      }
+      return allWords;
+    }
+
+    function getWeightedWordsCount(category) {
+      let words;
+      if (category === '智能随机') {
+        const allWords = [];
+        for (const cat in app.words) {
+          allWords.push(...app.words[cat]);
+        }
+        return allWords.length;
+      } else if (category === '错词重练') {
+        return getErrorWordsCount('all');
+      } else {
+        words = app.words[category] || [];
+        return words.length;
+      }
+    }
+
+    function getErrorWordsCount(category) {
+      const allErrorWords = Object.keys(app.history.spelling.wordStats).filter(w => {
+        const stat = app.history.spelling.wordStats[w];
+        return stat.attempts > stat.correct;
+      });
+      if (category === 'all') return allErrorWords.length;
+
+      // Count in specific category
+      const categoryWords = app.words[category] || [];
+      return categoryWords.filter(w => allErrorWords.includes(w.word)).length;
+    }
+
+    function getStarredWordsCount(category) {
+      const categoryWords = app.words[category] || [];
+      return categoryWords.filter(w => app.history.spelling.starredWords[w.word]).length;
+    }
+
+    function getYesterdayWrongWords() {
+      const yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      const yesterdayStr = yesterday.toISOString().split('T')[0];
+
+      const wrongWords = Object.keys(app.history.spelling.wordStats)
+        .filter(word => {
+          const stat = app.history.spelling.wordStats[word];
+          return stat.lastWrong === yesterdayStr;
+        });
+
+      // Find word objects
+      const words = [];
+      for (const cat in app.words) {
+        for (const wordObj of app.words[cat]) {
+          if (wrongWords.includes(wordObj.word)) {
+            words.push(wordObj);
+          }
+        }
+      }
+      return words;
+    }
+
+    function showDictationDateFilter() {
+      const words = app.words['精听卡点词'] || [];
+      // 按 date 分组统计
+      const dateMap = {};
+      for (const w of words) {
+        const d = w.date || '未知';
+        if (!dateMap[d]) dateMap[d] = [];
+        dateMap[d].push(w);
+      }
+      const dates = Object.keys(dateMap).sort().reverse(); // 最新日期在前
+
+      // Get error and starred word counts for this category
+      const allErrorWords = Object.keys(app.history.spelling.wordStats).filter(w => {
+        const stat = app.history.spelling.wordStats[w];
+        return stat.attempts > stat.correct;
+      });
+      const errorCount = words.filter(w => allErrorWords.includes(w.word)).length;
+      const starCount = words.filter(w => app.history.spelling.starredWords[w.word]).length;
+
+      // 创建弹层
+      const overlay = document.createElement('div');
+      overlay.className = 'date-filter-overlay';
+      overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.remove(); });
+
+      const panel = document.createElement('div');
+      panel.className = 'date-filter-panel';
+      panel.innerHTML = '<h3>选择选项</h3>';
+
+      // Error words option
+      const errorBtn = document.createElement('button');
+      errorBtn.className = 'date-filter-btn';
+      if (errorCount === 0) {
+        errorBtn.disabled = true;
+        errorBtn.style.opacity = '0.5';
+        errorBtn.style.cursor = 'not-allowed';
+      }
+      errorBtn.innerHTML = `错词 <span class="date-count">${errorCount} 词</span>`;
+      errorBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound('精听卡点词:错词');
+      });
+      panel.appendChild(errorBtn);
+
+      // Starred words option
+      const starBtn = document.createElement('button');
+      starBtn.className = 'date-filter-btn';
+      if (starCount === 0) {
+        starBtn.disabled = true;
+        starBtn.style.opacity = '0.5';
+        starBtn.style.cursor = 'not-allowed';
+      }
+      starBtn.innerHTML = `重点词 <span class="date-count">${starCount} 词</span>`;
+      starBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound('精听卡点词:重点词');
+      });
+      panel.appendChild(starBtn);
+
+      // Divider
+      const divider = document.createElement('div');
+      divider.style.height = '1px';
+      divider.style.background = '#e5e5e7';
+      divider.style.margin = '12px 0';
+      panel.appendChild(divider);
+
+      // 全部按钮
+      const allBtn = document.createElement('button');
+      allBtn.className = 'date-filter-btn all-btn';
+      allBtn.innerHTML = `全部 <span class="date-count">${words.length} 词</span>`;
+      allBtn.addEventListener('click', () => {
+        overlay.remove();
+        startSpellingRound('精听卡点词');
+      });
+      panel.appendChild(allBtn);
+
+      // 每个日期一个按钮
+      for (const d of dates) {
+        const btn = document.createElement('button');
+        btn.className = 'date-filter-btn';
+        const label = d === '未知' ? '未知日期' : d;
+        btn.innerHTML = `${label} <span class="date-count">${dateMap[d].length} 词</span>`;
+        btn.addEventListener('click', () => {
+          overlay.remove();
+          app._dictationDateFilter = d;
+          startSpellingRound('精听卡点词:日期');
+        });
+        panel.appendChild(btn);
+      }
+
+      // 取消按钮
+      const cancelBtn = document.createElement('button');
+      cancelBtn.className = 'date-filter-cancel';
+      cancelBtn.textContent = '取消';
+      cancelBtn.addEventListener('click', () => overlay.remove());
+      panel.appendChild(cancelBtn);
+
+      overlay.appendChild(panel);
+      document.body.appendChild(overlay);
+    }
+
+    function getWeightedWords(category) {
+      let words;
+      let mode = 'normal'; // normal, errorOnly, starOnly
+      let actualCategory = category;
+
+      // Parse mode from category string
+      if (category.includes(':')) {
+        const parts = category.split(':');
+        actualCategory = parts[0];
+        if (parts[1] === '错词') mode = 'errorOnly';
+        else if (parts[1] === '重点词') mode = 'starOnly';
+        else if (parts[1] === '日期') {
+          actualCategory = parts[0] + ':日期';
+          mode = 'dateFilter';
+        }
+      } else if (category === '⭐重点词') {
+        mode = 'allStarred';
+        actualCategory = '⭐重点词';
+      }
+
+      if (actualCategory === '智能随机') {
+        // 收集所有词
+        const allWords = [];
+        for (const cat in app.words) {
+          allWords.push(...app.words[cat]);
+        }
+
+        const today = new Date().toISOString().split('T')[0];
+        const todayMs = new Date(today).getTime();
+
+        // 为每个词计算优先级分数（越高越优先被选中）
+        // 规则：从未练过的词 > 最久没练的词 > 练习次数最少的词 > 错误率高的词
+        let scored = allWords.map(w => {
+          const stats = app.history.spelling.wordStats[w.word];
+          let score = 0;
+
+          if (!stats || stats.attempts === 0) {
+            // 从未练过：最高优先级
+            score = 10000 + Math.random() * 100;
+          } else {
+            // 距上次练习的天数（越远越优先）
+            const lastSeenMs = new Date(stats.lastSeen).getTime();
+            const daysSince = Math.max(0, (todayMs - lastSeenMs) / 86400000);
+            score += daysSince * 100;
+
+            // 练习次数越少越优先（反向）
+            score += Math.max(0, 20 - stats.attempts) * 10;
+
+            // 错误率加分
+            const errorRate = (stats.attempts - stats.correct) / stats.attempts;
+            score += errorRate * 50;
+
+            // 少量随机避免完全固定
+            score += Math.random() * 5;
+          }
+
+          return { word: w, score };
+        });
+
+        // 按分数降序，取前40个，然后打乱顺序
+        scored.sort((a, b) => b.score - a.score);
+        const selected = scored.slice(0, 40).map(s => s.word);
+        words = selected.sort(() => Math.random() - 0.5);
+      } else if (category === '昨日错词') {
+        words = getYesterdayWrongWords();
+        if (words.length === 0) {
+          alert('昨天没有错词记录');
+          return null;
+        }
+        words = words.sort(() => Math.random() - 0.5);
+      } else if (category === '错词重练') {
+        const errorWords = Object.keys(app.history.spelling.wordStats)
+          .filter(word => {
+            const stat = app.history.spelling.wordStats[word];
+            return stat.attempts > 0 && stat.correct < stat.attempts;
+          });
+
+        // Find these words in the full list
+        words = [];
+        for (const cat in app.words) {
+          for (const wordObj of app.words[cat]) {
+            if (errorWords.includes(wordObj.word)) {
+              words.push(wordObj);
+            }
+          }
+        }
+
+        if (words.length === 0) {
+          alert('暂无错词记录');
+          return null;
+        }
+      } else if (actualCategory === '精听卡点词') {
+        // 处理精听卡点词的特殊情况
+        let allDictationWords = app.words['精听卡点词'] || [];
+
+        if (mode === 'dateFilter') {
+          // 按日期筛选
+          const filterDate = app._dictationDateFilter;
+          allDictationWords = allDictationWords.filter(w => (w.date || '未知') === filterDate);
+          if (allDictationWords.length === 0) {
+            alert('该日期没有卡点词');
+            return null;
+          }
+        } else if (mode === 'errorOnly') {
+          // 只显示有错误的词
+          const errorWords = Object.keys(app.history.spelling.wordStats)
+            .filter(word => {
+              const stat = app.history.spelling.wordStats[word];
+              return stat.attempts > 0 && stat.correct < stat.attempts;
+            });
+          allDictationWords = allDictationWords.filter(w => errorWords.includes(w.word));
+          if (allDictationWords.length === 0) {
+            alert('该分类没有错词');
+            return null;
+          }
+          // Sort by lastSeen ascending
+          words = allDictationWords.sort((a, b) => {
+            const aLastSeen = app.history.spelling.wordStats[a.word]?.lastSeen;
+            const bLastSeen = app.history.spelling.wordStats[b.word]?.lastSeen;
+            if (!aLastSeen) return -1;
+            if (!bLastSeen) return 1;
+            return new Date(aLastSeen) - new Date(bLastSeen);
+          });
+          return words;
+        } else if (mode === 'starOnly') {
+          // 只显示标记的词
+          allDictationWords = allDictationWords.filter(w => app.history.spelling.starredWords[w.word]);
+          if (allDictationWords.length === 0) {
+            alert('该分类没有重点词');
+            return null;
+          }
+          // Sort by lastSeen ascending
+          words = allDictationWords.sort((a, b) => {
+            const aLastSeen = app.history.spelling.wordStats[a.word]?.lastSeen;
+            const bLastSeen = app.history.spelling.wordStats[b.word]?.lastSeen;
+            if (!aLastSeen) return -1;
+            if (!bLastSeen) return 1;
+            return new Date(aLastSeen) - new Date(bLastSeen);
+          });
+          return words;
+        }
+
+        words = allDictationWords;
+        words = words.sort(() => Math.random() - 0.5);
+      } else if (mode === 'errorOnly') {
+        // Regular category error words
+        const errorWords = Object.keys(app.history.spelling.wordStats)
+          .filter(word => {
+            const stat = app.history.spelling.wordStats[word];
+            return stat.attempts > 0 && stat.correct < stat.attempts;
+          });
+
+        let categoryWords = app.words[actualCategory] || [];
+        words = categoryWords.filter(w => errorWords.includes(w.word));
+        if (words.length === 0) {
+          alert('该分类没有错词');
+          return null;
+        }
+        // Sort by lastSeen ascending
+        words = words.sort((a, b) => {
+          const aLastSeen = app.history.spelling.wordStats[a.word]?.lastSeen;
+          const bLastSeen = app.history.spelling.wordStats[b.word]?.lastSeen;
+          if (!aLastSeen) return -1;
+          if (!bLastSeen) return 1;
+          return new Date(aLastSeen) - new Date(bLastSeen);
+        });
+        return words;
+      } else if (mode === 'starOnly') {
+        // Regular category starred words
+        let categoryWords = app.words[actualCategory] || [];
+        words = categoryWords.filter(w => app.history.spelling.starredWords[w.word]);
+        if (words.length === 0) {
+          alert('该分类没有重点词');
+          return null;
+        }
+        // Sort by lastSeen ascending
+        words = words.sort((a, b) => {
+          const aLastSeen = app.history.spelling.wordStats[a.word]?.lastSeen;
+          const bLastSeen = app.history.spelling.wordStats[b.word]?.lastSeen;
+          if (!aLastSeen) return -1;
+          if (!bLastSeen) return 1;
+          return new Date(aLastSeen) - new Date(bLastSeen);
+        });
+        return words;
+      } else if (mode === 'allStarred') {
+        // All starred words across all categories
+        words = [];
+        for (const cat in app.words) {
+          const categoryWords = app.words[cat];
+          words.push(...categoryWords.filter(w => app.history.spelling.starredWords[w.word]));
+        }
+        if (words.length === 0) {
+          alert('没有重点词');
+          return null;
+        }
+        // Sort by lastSeen ascending
+        words = words.sort((a, b) => {
+          const aLastSeen = app.history.spelling.wordStats[a.word]?.lastSeen;
+          const bLastSeen = app.history.spelling.wordStats[b.word]?.lastSeen;
+          if (!aLastSeen) return -1;
+          if (!bLastSeen) return 1;
+          return new Date(aLastSeen) - new Date(bLastSeen);
+        });
+        return words;
+      } else {
+        // Regular category - randomize
+        words = app.words[actualCategory] || [];
+        words = words.sort(() => Math.random() - 0.5);
+      }
+
+      return words;
+    }
+
+    function startSpellingRound(category) {
+      const words = getWeightedWords(category);
+      if (!words || words.length === 0) return;
+
+      app.spellingState.category = category;
+      app.spellingState.words = words;
+      app.spellingState.currentIndex = 0;
+      app.spellingState.correct = 0;
+      app.spellingState.wrongWords = [];
+      app.spellingState.answers = {};
+
+      showSpellingPractice();
+      showNextSpellingQuestion();
+    }
+
+    function showSpellingPractice() {
+      document.getElementById('spelling-categories').style.display = 'none';
+      document.getElementById('spelling-practice').style.display = 'block';
+      document.getElementById('spelling-result').style.display = 'none';
+    }
+
+    function showNextSpellingQuestion() {
+      const state = app.spellingState;
+      if (state.currentIndex >= state.words.length) {
+        showSpellingResult();
+        return;
+      }
+
+      const word = state.words[state.currentIndex];
+      document.getElementById('spellingProgress').textContent = `${state.currentIndex + 1} / ${state.words.length}`;
+      document.getElementById('wordDisplay').innerHTML = '<span class="hidden">●●●●●●●●</span>';
+      document.getElementById('spellingInput').value = '';
+      document.getElementById('spellingInput').focus();
+      document.getElementById('feedbackArea').innerHTML = '';
+      document.getElementById('hintText').innerHTML = '';
+
+      // Update star button
+      const starBtn = document.getElementById('starBtn');
+      starBtn.style.display = 'inline-flex';
+      const isStarred = app.history.spelling.starredWords[word.word];
+      if (isStarred) {
+        starBtn.classList.add('starred');
+      } else {
+        starBtn.classList.remove('starred');
+      }
+      starBtn.onclick = (e) => {
+        e.preventDefault();
+        toggleStarWord(word.word);
+      };
+
+      playAudio(word.word);
+    }
+
+    function toggleStarWord(word) {
+      if (app.history.spelling.starredWords[word]) {
+        delete app.history.spelling.starredWords[word];
+      } else {
+        app.history.spelling.starredWords[word] = true;
+      }
+      saveHistory();
+
+      // Update button appearance
+      const starBtn = document.getElementById('starBtn');
+      if (app.history.spelling.starredWords[word]) {
+        starBtn.classList.add('starred');
+      } else {
+        starBtn.classList.remove('starred');
+      }
+    }
+
+    // 语音优选：缓存最佳英音 voice
+    let _bestVoice = null;
+    let _voicesLoaded = false;
+
+    function pickBestVoice() {
+      if (_bestVoice) return _bestVoice;
+      const voices = speechSynthesis.getVoices();
+      if (!voices.length) return null;
+
+      // 优先级从高到低：macOS 高质量 → Chrome Google 英音 → 任意 en-GB → 任意 en
+      const prefs = [
+        v => v.lang === 'en-GB' && /Daniel|Kate|Serena|Malcolm/i.test(v.name),   // macOS 高质量英音
+        v => v.lang === 'en-GB' && /Google UK English/i.test(v.name),             // Chrome 高质量英音
+        v => v.lang === 'en-GB' && /Natural|Premium|Enhanced/i.test(v.name),      // 其他系统高质量标记
+        v => v.lang === 'en-GB',                                                   // 任意英音
+        v => v.lang.startsWith('en'),                                              // 兜底：任意英语
+      ];
+      for (const test of prefs) {
+        const found = voices.find(test);
+        if (found) { _bestVoice = found; return found; }
+      }
+      return null;
+    }
+
+    // 浏览器语音列表异步加载，监听 ready 事件
+    if ('speechSynthesis' in window) {
+      speechSynthesis.onvoiceschanged = () => {
+        _bestVoice = null;
+        _voicesLoaded = true;
+        pickBestVoice();
+      };
+      // 有些浏览器同步返回
+      if (speechSynthesis.getVoices().length) {
+        _voicesLoaded = true;
+        pickBestVoice();
+      }
+    }
+
+    function playAudio(text) {
+      if (!('speechSynthesis' in window)) return;
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      const voice = pickBestVoice();
+      if (voice) {
+        utterance.voice = voice;
+        utterance.lang = voice.lang;
+      } else {
+        utterance.lang = 'en-GB';
+      }
+      utterance.rate = getAudioSpeed();
+
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function getAudioSpeed() {
+      const activeSpeedBtn = document.querySelector('.speed-btn.active');
+      return parseFloat(activeSpeedBtn.dataset.speed) || 1;
+    }
+
+    function submitSpellingAnswer() {
+      const state = app.spellingState;
+      const word = state.words[state.currentIndex];
+      const input = document.getElementById('spellingInput');
+      const userAnswer = input.value.trim().toLowerCase();
+
+      // 空输入不提交，避免误判
+      if (!userAnswer) return;
+
+      const correctAnswer = word.word.toLowerCase();
+      // 主答案 + alt（可接受的替代拼写）都算对
+      const alts = (word.alt || []).map(a => a.toLowerCase());
+      const isCorrect = userAnswer === correctAnswer || alts.includes(userAnswer);
+
+      // Update history
+      if (!app.history.spelling.wordStats[word.word]) {
+        app.history.spelling.wordStats[word.word] = {
+          attempts: 0,
+          correct: 0,
+          lastSeen: new Date().toISOString().split('T')[0],
+          lastWrong: null
+        };
+      }
+
+      const wordStat = app.history.spelling.wordStats[word.word];
+      wordStat.attempts++;
+      wordStat.lastSeen = new Date().toISOString().split('T')[0];
+      if (!isCorrect) {
+        wordStat.lastWrong = new Date().toISOString().split('T')[0];
+      } else {
+        wordStat.correct++;
+      }
+
+      // Persist immediately
+      saveHistory();
+
+      if (isCorrect) {
+        state.correct++;
+        const display = document.getElementById('wordDisplay');
+        display.classList.add('success-flash');
+        setTimeout(() => {
+          display.classList.remove('success-flash');
+          state.currentIndex++;
+          setTimeout(() => showNextSpellingQuestion(), 800);
+        }, 800);
+      } else {
+        state.wrongWords.push(word.word);
+        const feedback = document.getElementById('feedbackArea');
+        feedback.innerHTML = `
+          <div style="margin-bottom: 16px; padding: 16px; background: #fff3cd; border-radius: 10px;">
+            <div style="color: #856404; font-size: 14px; margin-bottom: 8px;">
+              <strong>正确答案:</strong> ${word.word}
+            </div>
+            <div style="color: #856404; font-size: 13px; margin-bottom: 8px;">
+              <strong>你的答案:</strong> <s>${userAnswer}</s>
+            </div>
+            ${word.hint ? `<div style="color: #ff9500; font-size: 13px;"><strong>提示:</strong> ${word.hint}</div>` : ''}
+          </div>
+        `;
+        document.getElementById('spellingInput').value = '';
+        document.getElementById('spellingInput').focus();
+      }
+    }
+
+    // SYNONYM MODE
+
+    function renderSynonymCategoryFilter() {
+      const container = document.getElementById('synonymCategoryFilter');
+      const cats = app.synonymCategories;
+      container.innerHTML = `<div class="synonym-category-pill active" data-cat="all">全部 (${app.synonyms.groups.length})</div>` +
+        cats.map(c => {
+          const count = app.synonyms.groups.filter(g => g.category === c).length;
+          return `<div class="synonym-category-pill" data-cat="${c}">${c} (${count})</div>`;
+        }).join('');
+
+      container.querySelectorAll('.synonym-category-pill').forEach(pill => {
+        pill.addEventListener('click', () => {
+          container.querySelectorAll('.synonym-category-pill').forEach(p => p.classList.remove('active'));
+          pill.classList.add('active');
+          const cat = pill.dataset.cat;
+          app.synonymState.selectedCategory = cat === 'all' ? null : cat;
+          switchSynonymMode(app.synonymState.mode);
+        });
+      });
+    }
+
+    function getFilteredSynonymGroups() {
+      let groups = app.synonyms.groups;
+      if (app.synonymState.selectedCategory) {
+        groups = groups.filter(g => g.category === app.synonymState.selectedCategory);
+      }
+      if (app.synonymState.weakOnly) {
+        groups = groups.filter(g => {
+          const rating = app.history.synonym.groupRatings[g.key];
+          return rating && (rating.rating === '模糊' || rating.rating === '不认识');
+        });
+      }
+      return groups;
+    }
+
+    function synonymSmartSort(groups) {
+      const today = new Date();
+      return groups.map(g => {
+        const rating = app.history.synonym.groupRatings[g.key];
+        let score = 0;
+        if (!rating) {
+          score = 10000 + Math.random() * 100;
+        } else {
+          const lastSeen = rating.lastSeen ? new Date(rating.lastSeen) : new Date(0);
+          const daysSince = Math.floor((today - lastSeen) / (1000 * 60 * 60 * 24));
+          score += daysSince * 100;
+          if (rating.rating === '不认识') score += 500;
+          else if (rating.rating === '模糊') score += 200;
+          else score += 0;
+          score += Math.random() * 50;
+        }
+        return { group: g, score };
+      }).sort((a, b) => b.score - a.score);
+    }
+
+    function setupSynonymMode() {
+      document.querySelectorAll('.synonym-mode-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const mode = btn.dataset.mode;
+          switchSynonymMode(mode);
+        });
+      });
+    }
+
+    function switchSynonymMode(mode) {
+      document.querySelectorAll('.synonym-mode').forEach(s => s.style.display = 'none');
+      document.querySelectorAll('.synonym-mode-btn').forEach(b => b.classList.remove('active'));
+
+      document.getElementById(mode + '-mode').style.display = 'block';
+      document.querySelector(`[data-mode="${mode}"]`).classList.add('active');
+
+      app.synonymState.mode = mode;
+
+      if (mode === 'flip') {
+        initFlipMode();
+      } else if (mode === 'match') {
+        resetMatchUI();
+        initMatchMode();
+      } else if (mode === 'brainstorm') {
+        initBrainstormMode();
+      }
+    }
+
+    // === FLIP MODE (smart random, one card at a time) ===
+    function initFlipMode() {
+      const groups = getFilteredSynonymGroups();
+      const sorted = synonymSmartSort(groups);
+      const selected = sorted.slice(0, 20).map(s => s.group);
+      // Shuffle the selected 20
+      for (let i = selected.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [selected[i], selected[j]] = [selected[j], selected[i]];
+      }
+      app.synonymState.currentGroups = selected;
+      app.synonymState.flipCurrentIdx = 0;
+      renderCurrentFlipCard();
+    }
+
+    function renderCurrentFlipCard() {
+      const container = document.getElementById('flipContainer');
+      const groups = app.synonymState.currentGroups;
+      const idx = app.synonymState.flipCurrentIdx;
+
+      document.getElementById('flipProgress').textContent =
+        groups.length > 0 ? `${idx + 1} / ${groups.length}` : '没有匹配的分组';
+
+      container.innerHTML = '';
+      if (idx >= groups.length) {
+        container.innerHTML = '<div style="text-align: center; padding: 40px; color: #86868b;">本轮完成！点击"重新开始"再来一轮</div>';
+        return;
+      }
+
+      const group = groups[idx];
+      const card = document.createElement('div');
+      card.className = 'flip-card';
+      const catLabel = group.category ? `<div style="font-size: 11px; color: #86868b; margin-bottom: 8px;">${group.category}</div>` : '';
+      card.innerHTML = `
+        ${catLabel}
+        <div class="flip-card-word">${group.word}</div>
+        <div style="font-size: 12px; color: #86868b; margin-top: 8px;">点击翻卡</div>
+      `;
+
+      let flipped = false;
+      card.addEventListener('click', () => {
+        if (!flipped) {
+          card.classList.add('flipped');
+          const examples = group.examples || {};
+          const allWords = [group.word, ...group.synonyms];
+          const exampleHtml = allWords.map(w => {
+            const ex = examples[w];
+            return ex ? `<div style="font-size: 12px; color: #555; margin: 4px 0; line-height: 1.4;"><strong style="color: #007aff;">${w}</strong>: ${ex}</div>` : '';
+          }).join('');
+          card.innerHTML = `
+            ${catLabel}
+            <div class="flip-card-synonyms">
+              ${group.synonyms.join('<br>')}
+            </div>
+            <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid #e5e5e5;">
+              ${exampleHtml}
+            </div>
+            <div class="flip-card-buttons">
+              <button class="rating-btn btn-success" onclick="rateGroupAndNext('${group.key}', '认识')">认识</button>
+              <button class="rating-btn btn-warning" onclick="rateGroupAndNext('${group.key}', '模糊')">模糊</button>
+              <button class="rating-btn btn-danger" onclick="rateGroupAndNext('${group.key}', '不认识')">不认识</button>
+            </div>
+          `;
+          flipped = true;
+        }
+      });
+
+      container.appendChild(card);
+    }
+
+    function rateGroupAndNext(key, rating) {
+      if (!app.history.synonym.groupRatings[key]) {
+        app.history.synonym.groupRatings[key] = {};
+      }
+      app.history.synonym.groupRatings[key].rating = rating;
+      app.history.synonym.groupRatings[key].lastSeen = new Date().toISOString().split('T')[0];
+      saveHistory();
+
+      app.synonymState.flipCurrentIdx++;
+      renderCurrentFlipCard();
+    }
+
+    // Keep old rateGroup for compatibility
+    function rateGroup(key, rating) {
+      rateGroupAndNext(key, rating);
+    }
+
+    // === MATCH MODE (random 5 groups per round, multiple rounds) ===
+    function resetMatchUI() {
+      clearInterval(app.synonymState.matchTimer);
+      document.getElementById('matchResult').style.display = 'none';
+      document.getElementById('matchTimer').style.display = 'block';
+      document.getElementById('matchTimer').textContent = '60';
+      document.getElementById('startMatchBtn').style.display = 'inline-block';
+      document.getElementById('nextMatchBtn').style.display = 'none';
+      document.getElementById('resetMatchBtn').style.display = 'none';
+      document.getElementById('matchRound').textContent = '';
+      app.synonymState.matchRound = 0;
+      app.synonymState.matchTotalScore = 0;
+      app.synonymState.matchUsedGroups = [];
+    }
+
+    function initMatchMode() {
+      const filtered = getFilteredSynonymGroups();
+      if (filtered.length < 5) {
+        document.getElementById('matchWordsColumn').innerHTML = '<div style="text-align:center;color:#86868b;padding:20px;">该分类至少需要5组才能配对</div>';
+        document.getElementById('matchSynonymsColumn').innerHTML = '';
+        return;
+      }
+
+      // Pick 5 random groups not yet used this session
+      const available = filtered.filter(g => !app.synonymState.matchUsedGroups.includes(g.key));
+      const pool = available.length >= 5 ? available : filtered;
+      const shuffled = [...pool].sort(() => Math.random() - 0.5);
+      const groups = shuffled.slice(0, 5);
+      groups.forEach(g => app.synonymState.matchUsedGroups.push(g.key));
+
+      app.synonymState.matchRound++;
+      document.getElementById('matchRound').textContent = `第 ${app.synonymState.matchRound} 轮`;
+
+      const words = groups.map(g => g.word);
+      // Pick a random synonym for each group
+      const synonyms = groups.map(g => g.synonyms[Math.floor(Math.random() * g.synonyms.length)]);
+      const shuffledSynonyms = [...synonyms].sort(() => Math.random() - 0.5);
+
+      const wordsColumn = document.getElementById('matchWordsColumn');
+      const synonymsColumn = document.getElementById('matchSynonymsColumn');
+
+      wordsColumn.innerHTML = words.map((w, i) => `
+        <div class="match-item" data-word="${w}" data-index="${i}">${w}</div>
+      `).join('');
+
+      synonymsColumn.innerHTML = shuffledSynonyms.map((s, i) => `
+        <div class="match-item" data-synonym="${s}" data-index="${i}">${s}</div>
+      `).join('');
+
+      // Store the correct mapping for validation
+      app.synonymState.matchPairs = groups.map(g => ({
+        word: g.word,
+        synonyms: g.synonyms
+      }));
+
+      document.querySelectorAll('.match-item').forEach(item => {
+        item.addEventListener('click', handleMatchClick);
+      });
+    }
+
+    function handleMatchClick(e) {
+      const item = e.target;
+      if (item.classList.contains('matched')) return;
+
+      const isWord = item.dataset.word;
+      const isSynonym = item.dataset.synonym;
+
+      if (isWord) {
+        document.querySelectorAll('.match-item[data-word]').forEach(i => i.classList.remove('selected'));
+        item.classList.add('selected');
+        app.synonymState.selectedWord = item.dataset.word;
+      } else if (isSynonym) {
+        if (!app.synonymState.selectedWord) return;
+
+        const pair = app.synonymState.matchPairs.find(p => p.word === app.synonymState.selectedWord);
+        if (pair && pair.synonyms.includes(item.dataset.synonym)) {
+          item.classList.add('matched');
+          document.querySelector(`[data-word="${app.synonymState.selectedWord}"]`).classList.add('matched');
+          app.synonymState.matchScore++;
+          app.synonymState.matchTotalScore++;
+
+          if (app.synonymState.matchScore === 5) {
+            endMatchRound();
+          }
+        } else {
+          // Wrong match — flash red
+          item.classList.add('wrong');
+          setTimeout(() => item.classList.remove('wrong'), 500);
+        }
+
+        app.synonymState.selectedWord = null;
+        document.querySelectorAll('.match-item[data-word]').forEach(i => i.classList.remove('selected'));
+      }
+    }
+
+    function endMatchRound() {
+      clearInterval(app.synonymState.matchTimer);
+      document.getElementById('matchTimer').style.display = 'none';
+      document.getElementById('matchResult').style.display = 'block';
+      document.getElementById('matchScore').textContent = `${app.synonymState.matchTotalScore}/${app.synonymState.matchRound * 5}`;
+      document.getElementById('startMatchBtn').style.display = 'none';
+      document.getElementById('resetMatchBtn').style.display = 'inline-block';
+
+      // Check if more groups available
+      const filtered = getFilteredSynonymGroups();
+      const remaining = filtered.filter(g => !app.synonymState.matchUsedGroups.includes(g.key));
+      if (remaining.length >= 5 || filtered.length >= 5) {
+        document.getElementById('nextMatchBtn').style.display = 'inline-block';
+      }
+    }
+
+    function endMatchMode() {
+      endMatchRound();
+    }
+
+    // === BRAINSTORM MODE (with hints) ===
+    function initBrainstormMode() {
+      const filtered = getFilteredSynonymGroups();
+      if (filtered.length === 0) {
+        document.getElementById('brainstormQuestion').innerHTML = '<div style="text-align:center;color:#86868b;padding:20px;">没有匹配的分组</div>';
+        return;
+      }
+      const group = filtered[Math.floor(Math.random() * filtered.length)];
+      app.synonymState.brainstormAnswers = [];
+      app.synonymState.brainstormWrongCount = 0;
+      app.synonymState.brainstormCurrentGroup = group;
+
+      const catLabel = group.category ? `<span style="font-size: 12px; color: #86868b;">[${group.category}]</span> ` : '';
+      const question = document.getElementById('brainstormQuestion');
+      question.innerHTML = `<div style="font-size: 18px; font-weight: 600; text-align: center; margin-bottom: 20px;">
+        ${catLabel}请给出 <span style="color: #007aff;">${group.word}</span> 的同义词
+        <div style="font-size: 13px; color: #86868b; font-weight: 400; margin-top: 4px;">共 ${group.synonyms.length} 个</div>
+      </div>`;
+      question.dataset.word = group.word;
+      question.dataset.synonyms = JSON.stringify(group.synonyms);
+
+      document.getElementById('brainstormList').innerHTML = '';
+      document.getElementById('brainstormInput').value = '';
+      document.getElementById('brainstormInput').style.display = 'block';
+      document.getElementById('brainstormResult').style.display = 'none';
+      document.getElementById('brainstormMissed').style.display = 'none';
+      document.getElementById('brainstormHint').style.display = 'none';
+      document.getElementById('startBrainstormBtn').style.display = 'inline-block';
+      document.getElementById('completeBrainstormBtn').style.display = 'none';
+      document.getElementById('resetBrainstormBtn').style.display = 'none';
+    }
+
+    // Event listeners
+    function setupEventListeners() {
+      // Spelling
+      document.getElementById('playAudioBtn').addEventListener('click', () => {
+        const word = app.spellingState.words[app.spellingState.currentIndex];
+        if (word) playAudio(word.word);
+      });
+
+      document.getElementById('submitBtn').addEventListener('click', submitSpellingAnswer);
+      document.getElementById('spellingInput').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') submitSpellingAnswer();
+      });
+
+      document.getElementById('skipBtn').addEventListener('click', () => {
+        app.spellingState.currentIndex++;
+        showNextSpellingQuestion();
+      });
+
+      document.getElementById('backCategoryBtn').addEventListener('click', () => {
+        document.getElementById('spelling-categories').style.display = 'block';
+        document.getElementById('spelling-practice').style.display = 'none';
+      });
+
+      document.getElementById('retryErrorsBtn').addEventListener('click', () => {
+        const errorWords = app.spellingState.wrongWords;
+        const filteredWords = app.spellingState.words.filter(w => errorWords.includes(w.word));
+        app.spellingState.words = filteredWords;
+        app.spellingState.currentIndex = 0;
+        app.spellingState.correct = 0;
+        app.spellingState.wrongWords = [];
+        showNextSpellingQuestion();
+      });
+
+      document.getElementById('newRoundBtn').addEventListener('click', () => {
+        startSpellingRound(app.spellingState.category);
+      });
+
+      document.getElementById('backCategory2Btn').addEventListener('click', () => {
+        document.getElementById('spelling-categories').style.display = 'block';
+        document.getElementById('spelling-result').style.display = 'none';
+      });
+
+      document.querySelectorAll('.speed-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+        });
+      });
+
+      // Synonym
+      setupSynonymMode();
+
+      document.getElementById('reviewWeakBtn').addEventListener('click', () => {
+        app.synonymState.weakOnly = true;
+        document.getElementById('reviewWeakBtn').style.display = 'none';
+        document.getElementById('allGroupsBtn').style.display = 'inline-block';
+        initFlipMode();
+      });
+
+      document.getElementById('allGroupsBtn').addEventListener('click', () => {
+        app.synonymState.weakOnly = false;
+        document.getElementById('reviewWeakBtn').style.display = 'inline-block';
+        document.getElementById('allGroupsBtn').style.display = 'none';
+        initFlipMode();
+      });
+
+      document.getElementById('resetFlipBtn').addEventListener('click', initFlipMode);
+
+      document.getElementById('startMatchBtn').addEventListener('click', () => {
+        document.getElementById('startMatchBtn').style.display = 'none';
+        document.getElementById('resetMatchBtn').style.display = 'inline-block';
+        app.synonymState.matchScore = 0;
+        initMatchMode();
+
+        let timeLeft = 60;
+        app.synonymState.matchTimer = setInterval(() => {
+          timeLeft--;
+          document.getElementById('matchTimer').textContent = timeLeft;
+          if (timeLeft <= 10) document.getElementById('matchTimer').classList.add('warning');
+          if (timeLeft <= 0) {
+            endMatchMode();
+          }
+        }, 1000);
+      });
+
+      document.getElementById('nextMatchBtn').addEventListener('click', () => {
+        document.getElementById('matchResult').style.display = 'none';
+        document.getElementById('matchTimer').style.display = 'block';
+        document.getElementById('matchTimer').textContent = '60';
+        document.getElementById('matchTimer').classList.remove('warning');
+        document.getElementById('nextMatchBtn').style.display = 'none';
+        document.getElementById('resetMatchBtn').style.display = 'inline-block';
+        app.synonymState.matchScore = 0;
+        initMatchMode();
+
+        let timeLeft = 60;
+        app.synonymState.matchTimer = setInterval(() => {
+          timeLeft--;
+          document.getElementById('matchTimer').textContent = timeLeft;
+          if (timeLeft <= 10) document.getElementById('matchTimer').classList.add('warning');
+          if (timeLeft <= 0) {
+            endMatchMode();
+          }
+        }, 1000);
+      });
+
+      document.getElementById('resetMatchBtn').addEventListener('click', () => {
+        resetMatchUI();
+        initMatchMode();
+      });
+
+      document.getElementById('startBrainstormBtn').addEventListener('click', () => {
+        document.getElementById('startBrainstormBtn').style.display = 'none';
+        document.getElementById('completeBrainstormBtn').style.display = 'inline-block';
+        document.getElementById('brainstormInput').focus();
+        document.getElementById('brainstormHint').style.display = 'none';
+
+        let timeLeft = 30;
+        app.synonymState.brainstormStartTime = Date.now();
+
+        app.synonymState.brainstormTimer = setInterval(() => {
+          timeLeft--;
+          const timer = document.getElementById('brainstormTimer');
+          timer.textContent = timeLeft;
+
+          if (timeLeft <= 10) timer.classList.add('warning');
+          if (timeLeft <= 0) {
+            clearInterval(app.synonymState.brainstormTimer);
+            endBrainstormMode();
+          }
+        }, 1000);
+      });
+
+      document.getElementById('brainstormInput').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+          const input = e.target;
+          const answer = input.value.trim().toLowerCase();
+          if (!answer) return;
+          const groupData = JSON.parse(document.getElementById('brainstormQuestion').dataset.synonyms);
+
+          // Check if already answered
+          if (app.synonymState.brainstormAnswers.some(a => a.toLowerCase() === answer)) {
+            input.value = '';
+            return;
+          }
+
+          const matchedSyn = groupData.find(syn =>
+            syn.toLowerCase() === answer || syn.toLowerCase().includes(answer) || answer.includes(syn.toLowerCase())
+          );
+          const isCorrect = !!matchedSyn;
+
+          const list = document.getElementById('brainstormList');
+          const item = document.createElement('div');
+          item.className = 'brainstorm-item' + (isCorrect ? ' correct' : ' shake');
+          item.textContent = isCorrect ? (matchedSyn || answer) : answer;
+
+          if (isCorrect) {
+            app.synonymState.brainstormAnswers.push(matchedSyn || answer);
+            document.getElementById('brainstormHint').style.display = 'none';
+            list.appendChild(item);
+
+            // Check if all found
+            if (app.synonymState.brainstormAnswers.length >= groupData.length) {
+              clearInterval(app.synonymState.brainstormTimer);
+              endBrainstormMode();
+            }
+          } else {
+            app.synonymState.brainstormWrongCount++;
+            list.appendChild(item);
+            setTimeout(() => item.remove(), 500);
+
+            // Give hint after 2 wrong attempts
+            if (app.synonymState.brainstormWrongCount >= 2 && app.synonymState.brainstormWrongCount % 2 === 0) {
+              const answered = app.synonymState.brainstormAnswers.map(a => a.toLowerCase());
+              const remaining = groupData.filter(s => !answered.includes(s.toLowerCase()));
+              if (remaining.length > 0) {
+                const hintWord = remaining[Math.floor(Math.random() * remaining.length)];
+                const masked = hintWord.charAt(0) + '_'.repeat(Math.max(1, hintWord.length - 2)) + (hintWord.length > 1 ? hintWord.charAt(hintWord.length - 1) : '');
+                document.getElementById('brainstormHint').textContent = `提示: ${masked} (${hintWord.length}个字母)`;
+                document.getElementById('brainstormHint').style.display = 'block';
+              }
+            }
+          }
+
+          input.value = '';
+          input.focus();
+        }
+      });
+
+      document.getElementById('completeBrainstormBtn').addEventListener('click', endBrainstormMode);
+
+      document.getElementById('resetBrainstormBtn').addEventListener('click', () => {
+        clearInterval(app.synonymState.brainstormTimer);
+        document.getElementById('brainstormResult').style.display = 'none';
+        document.getElementById('brainstormTimer').textContent = '30';
+        document.getElementById('brainstormTimer').classList.remove('warning');
+        document.getElementById('brainstormInput').style.display = 'block';
+        document.getElementById('brainstormHint').style.display = 'none';
+        document.getElementById('resetBrainstormBtn').style.display = 'none';
+        initBrainstormMode();
+      });
+
+      // Stats
+      document.getElementById('exportBtn').addEventListener('click', exportStats);
+    }
+
+    function endBrainstormMode() {
+      clearInterval(app.synonymState.brainstormTimer);
+      const group = app.synonymState.brainstormCurrentGroup;
+      const allSynonyms = group ? group.synonyms : JSON.parse(document.getElementById('brainstormQuestion').dataset.synonyms);
+      const answered = app.synonymState.brainstormAnswers.map(a => a.toLowerCase());
+      const missed = allSynonyms.filter(s => !answered.some(a => s.toLowerCase().includes(a) || a.includes(s.toLowerCase())));
+
+      document.getElementById('brainstormResult').style.display = 'block';
+      document.getElementById('brainstormScore').textContent = `${app.synonymState.brainstormAnswers.length}/${allSynonyms.length}`;
+      document.getElementById('completeBrainstormBtn').style.display = 'none';
+      document.getElementById('resetBrainstormBtn').style.display = 'inline-block';
+      document.getElementById('brainstormInput').style.display = 'none';
+      document.getElementById('brainstormHint').style.display = 'none';
+
+      // Show missed synonyms
+      const missedEl = document.getElementById('brainstormMissed');
+      if (missed.length > 0) {
+        missedEl.innerHTML = `<strong>未答出的同义词:</strong><br>${missed.map(m => {
+          const ex = group && group.examples ? group.examples[m] : '';
+          return `<span style="color: #d63384; font-weight: 500;">${m}</span>${ex ? ` — <span style="font-style: italic;">${ex}</span>` : ''}`;
+        }).join('<br>')}`;
+        missedEl.style.display = 'block';
+      } else {
+        missedEl.innerHTML = '<strong style="color: #34c759;">全部答对！太棒了！</strong>';
+        missedEl.style.display = 'block';
+      }
+
+      // Save rating based on performance
+      if (group) {
+        const ratio = app.synonymState.brainstormAnswers.length / allSynonyms.length;
+        let rating = '不认识';
+        if (ratio >= 0.8) rating = '认识';
+        else if (ratio >= 0.4) rating = '模糊';
+        if (!app.history.synonym.groupRatings[group.key]) {
+          app.history.synonym.groupRatings[group.key] = {};
+        }
+        app.history.synonym.groupRatings[group.key].rating = rating;
+        app.history.synonym.groupRatings[group.key].lastSeen = new Date().toISOString().split('T')[0];
+        saveHistory();
+      }
+    }
+
+    function showSpellingResult() {
+      document.getElementById('spelling-practice').style.display = 'none';
+      document.getElementById('spelling-result').style.display = 'block';
+
+      const totalWords = app.spellingState.words.length;
+      const accuracy = Math.round((app.spellingState.correct / totalWords) * 100);
+
+      document.getElementById('resultScore').textContent = `${app.spellingState.correct}/${totalWords}`;
+      document.querySelector('.result-summary .result-text').innerHTML =
+        `<strong>${accuracy}%</strong> 准确率`;
+
+      // Save session
+      const session = {
+        date: new Date().toISOString(),
+        category: app.spellingState.category,
+        total: totalWords,
+        correct: app.spellingState.correct,
+        wrongWords: app.spellingState.wrongWords
+      };
+      app.history.spelling.sessions.push(session);
+      saveHistory();
+
+      // Wrong words list
+      const wrongList = document.getElementById('wrongWordsList');
+      if (app.spellingState.wrongWords.length > 0) {
+        // 去重并统计每个错词出现次数
+        const wordCounts = {};
+        app.spellingState.wrongWords.forEach(w => { wordCounts[w] = (wordCounts[w] || 0) + 1; });
+        const uniqueWords = Object.keys(wordCounts);
+        const displayWords = uniqueWords.map(w => wordCounts[w] > 1 ? `${w} (×${wordCounts[w]})` : w);
+        wrongList.innerHTML = `
+          <div class="wrong-words-list">
+            <h3>本轮错词 (${uniqueWords.length}词，共${app.spellingState.wrongWords.length}次)</h3>
+            <p>${displayWords.join('、')}</p>
+          </div>
+        `;
+      } else {
+        wrongList.innerHTML = '<div class="success-message">完美！全部正确！</div>';
+      }
+    }
+
+    function renderStats() {
+      const stats = app.stats;
+
+      // Stats grid
+      const statsGrid = document.getElementById('statsGrid');
+      statsGrid.innerHTML = `
+        <div class="stat-card">
+          <div class="stat-value">${stats.spelling.totalWords}</div>
+          <div class="stat-label">已练单词</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${stats.spelling.totalAttempts}</div>
+          <div class="stat-label">总尝试数</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${stats.spelling.accuracy}%</div>
+          <div class="stat-label">整体正确率</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${stats.synonym.totalGroups}</div>
+          <div class="stat-label">同义词分组</div>
+        </div>
+      `;
+
+      // Missed words table
+      const tbody = document.getElementById('missedWordsBody');
+      tbody.innerHTML = stats.spelling.mostMissedWords
+        .map(w => `
+          <tr>
+            <td>${w.word}</td>
+            <td>${w.attempts}</td>
+            <td>
+              <div class="accuracy-bar ${w.accuracy < 50 ? 'low' : w.accuracy < 80 ? 'medium' : ''}">
+                <div class="accuracy-bar-fill" style="width: ${w.accuracy}%"></div>
+              </div>
+              ${w.accuracy}%
+            </td>
+          </tr>
+        `)
+        .join('');
+
+      // Weak groups
+      const weakList = document.getElementById('weakGroupsList');
+      if (stats.synonym.weakestGroups.length > 0) {
+        weakList.innerHTML = stats.synonym.weakestGroups
+          .slice(0, 10)
+          .map(g => `<div style="padding: 8px; margin-bottom: 8px; background: #f5f5f7; border-radius: 8px;">
+            <strong>${g.group}</strong> - 状态: <span style="color: ${g.rating === '不认识' ? '#ff3b30' : '#ffcc00'}">${g.rating}</span>
+          </div>`)
+          .join('');
+      } else {
+        weakList.innerHTML = '<p style="color: #86868b;">暂无薄弱分组</p>';
+      }
+    }
+
+    function reloadStats() {
+      fetch('/api/stats')
+        .then(r => r.json())
+        .then(stats => {
+          app.stats = stats;
+          renderStats();
+        });
+    }
+
+    function saveHistory() {
+      fetch('/api/history', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(app.history)
+      });
+    }
+
+    function exportStats() {
+      const date = new Date().toISOString().split('T')[0];
+      let md = `# 雅思词汇练习统计 - ${date}\n\n`;
+
+      md += `## 拼写听写统计\n`;
+      md += `- 已练单词: ${app.stats.spelling.totalWords}\n`;
+      md += `- 总尝试数: ${app.stats.spelling.totalAttempts}\n`;
+      md += `- 整体正确率: ${app.stats.spelling.accuracy}%\n\n`;
+
+      md += `## 最易错词 (前15)\n`;
+      md += `| 词汇 | 尝试 | 正确率 |\n`;
+      md += `|------|------|--------|\n`;
+      app.stats.spelling.mostMissedWords.forEach(w => {
+        md += `| ${w.word} | ${w.attempts} | ${w.accuracy}% |\n`;
+      });
+
+      md += `\n## 薄弱同义词分组\n`;
+      if (app.stats.synonym.weakestGroups.length > 0) {
+        app.stats.synonym.weakestGroups.slice(0, 10).forEach(g => {
+          md += `- ${g.group}: ${g.rating}\n`;
+        });
+      } else {
+        md += `- 暂无薄弱分组\n`;
+      }
+
+      const blob = new Blob([md], { type: 'text/markdown' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `ielts-stats-${date}.md`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    // Start app
+    init();
+  </script>
+</body>
+</html>

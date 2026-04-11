@@ -1,0 +1,3565 @@
+{
+  "今日错词": [
+    {
+      "word": "furniture",
+      "hint": "强调ur: fur-ni-ture",
+      "sentence": "I come over to buy old furniture."
+    },
+    {
+      "word": "September",
+      "hint": "有pt: Sep-tem-ber",
+      "sentence": "So that was September the tenth."
+    },
+    {
+      "word": "October",
+      "hint": "有o: Oc-to-ber",
+      "sentence": "We're planning a trip in October."
+    },
+    {
+      "word": "actually",
+      "hint": "双l: ac-tu-al-ly",
+      "sentence": "I'm actually Canadian."
+    },
+    {
+      "word": "quite",
+      "hint": "结尾有e, quit是辞职",
+      "sentence": "Yeah, quite a lot actually."
+    },
+    {
+      "word": "favourite",
+      "hint": "有our: fa-vour-ite",
+      "sentence": "I'd say my favourite would be stir-fries.",
+      "alt": [
+        "favorite"
+      ]
+    }
+  ],
+  "住宿/租房": [
+    {
+      "word": "accommodation",
+      "hint": "双c双m",
+      "sentence": "The accommodation is fully furnished."
+    },
+    {
+      "word": "apartment",
+      "hint": "",
+      "sentence": "I've got a place at Park Apartments."
+    },
+    {
+      "word": "balcony",
+      "hint": "",
+      "sentence": "The room has a small balcony."
+    },
+    {
+      "word": "basement",
+      "hint": "",
+      "sentence": "The storage room is in the basement."
+    },
+    {
+      "word": "bathroom",
+      "hint": "",
+      "sentence": "The bathroom is down the corridor."
+    },
+    {
+      "word": "bedroom",
+      "hint": "",
+      "sentence": "It's a three-bedroom house."
+    },
+    {
+      "word": "blanket",
+      "hint": "",
+      "sentence": "You'll need an extra blanket in winter."
+    },
+    {
+      "word": "carpet",
+      "hint": "",
+      "sentence": "The carpet needs cleaning."
+    },
+    {
+      "word": "corridor",
+      "hint": "",
+      "sentence": "Walk along the corridor to the end."
+    },
+    {
+      "word": "cottage",
+      "hint": "",
+      "sentence": "They rented a cottage in the countryside."
+    },
+    {
+      "word": "cupboard",
+      "hint": "p不发音",
+      "sentence": "The cups are in the cupboard."
+    },
+    {
+      "word": "curtain",
+      "hint": "",
+      "sentence": "Please close the curtain."
+    },
+    {
+      "word": "deposit",
+      "hint": "",
+      "sentence": "You need to pay a deposit of 500 pounds."
+    },
+    {
+      "word": "dormitory",
+      "hint": "",
+      "sentence": "The dormitory is near campus."
+    },
+    {
+      "word": "elevator",
+      "hint": "=lift(英式)",
+      "sentence": "Take the elevator to the third floor."
+    },
+    {
+      "word": "entrance",
+      "hint": "",
+      "sentence": "The main entrance is on Park Street."
+    },
+    {
+      "word": "fountain",
+      "hint": "",
+      "sentence": "There's a beautiful fountain in the square."
+    },
+    {
+      "word": "furnished",
+      "hint": "",
+      "sentence": "The flat is fully furnished."
+    },
+    {
+      "word": "garage",
+      "hint": "",
+      "sentence": "You can park in the garage."
+    },
+    {
+      "word": "harbour",
+      "hint": "英式有u",
+      "sentence": "The boats are moored in the harbour.",
+      "alt": [
+        "harbor"
+      ]
+    },
+    {
+      "word": "kitchen",
+      "hint": "",
+      "sentence": "It has a shared kitchen."
+    },
+    {
+      "word": "landlord",
+      "hint": "",
+      "sentence": "The landlord lives upstairs."
+    },
+    {
+      "word": "laundry",
+      "hint": "",
+      "sentence": "The laundry room is in the basement."
+    },
+    {
+      "word": "microwave",
+      "hint": "",
+      "sentence": "Heat it in the microwave."
+    },
+    {
+      "word": "neighbourhood",
+      "hint": "英式有u",
+      "sentence": "It's a quiet neighbourhood.",
+      "alt": [
+        "neighborhood"
+      ]
+    },
+    {
+      "word": "pillow",
+      "hint": "",
+      "sentence": "I need an extra pillow."
+    },
+    {
+      "word": "refrigerator",
+      "hint": "",
+      "sentence": "Put the milk in the refrigerator."
+    },
+    {
+      "word": "suburb",
+      "hint": "",
+      "sentence": "They live in the suburbs."
+    },
+    {
+      "word": "tenant",
+      "hint": "",
+      "sentence": "The previous tenant left last month."
+    },
+    {
+      "word": "towel",
+      "hint": "",
+      "sentence": "Towels are provided."
+    },
+    {
+      "word": "utilities",
+      "hint": "",
+      "sentence": "Bills include all utilities."
+    },
+    {
+      "word": "vacuum",
+      "hint": "双u",
+      "sentence": "I need to vacuum the carpet."
+    },
+    {
+      "word": "vegetarian",
+      "hint": "",
+      "sentence": "Do you have vegetarian options?"
+    },
+    {
+      "word": "fireplace",
+      "hint": "",
+      "sentence": "The cottage has a lovely fireplace."
+    },
+    {
+      "word": "locker",
+      "hint": "",
+      "sentence": "Put your things in the locker."
+    },
+    {
+      "word": "occupancy",
+      "hint": "有ancy",
+      "sentence": "Maximum occupancy is four people."
+    },
+    {
+      "word": "stove",
+      "hint": "",
+      "sentence": "There's an electric stove in the kitchen."
+    },
+    {
+      "word": "napkin",
+      "hint": "",
+      "sentence": "Could I have an extra napkin please?"
+    },
+    {
+      "word": "storage",
+      "hint": "",
+      "sentence": "There's plenty of storage space."
+    },
+    {
+      "word": "mat",
+      "hint": "a不是e",
+      "sentence": "Please wipe your feet on the mat."
+    },
+    {
+      "word": "sink",
+      "hint": "",
+      "sentence": "The sink in the bathroom is blocked."
+    },
+    {
+      "word": "ladder",
+      "hint": "双d",
+      "sentence": "You'll need a ladder to reach the top shelf."
+    },
+    {
+      "word": "handles",
+      "hint": "",
+      "sentence": "The handles on the door are broken."
+    },
+    {
+      "word": "container",
+      "hint": "",
+      "sentence": "Put the food in a plastic container."
+    },
+    {
+      "word": "mirror",
+      "hint": "双r",
+      "sentence": "There's a large mirror in the hallway."
+    },
+    {
+      "word": "spa",
+      "hint": "",
+      "sentence": "The hotel has a spa and wellness centre."
+    }
+  ],
+  "旅行/交通": [
+    {
+      "word": "itinerary",
+      "hint": "",
+      "sentence": "Here's the itinerary for the trip."
+    },
+    {
+      "word": "expedition",
+      "hint": "",
+      "sentence": "They went on an expedition to the Arctic."
+    },
+    {
+      "word": "excursion",
+      "hint": "",
+      "sentence": "We booked a day excursion."
+    },
+    {
+      "word": "brochure",
+      "hint": "",
+      "sentence": "Pick up a brochure at reception."
+    },
+    {
+      "word": "reservation",
+      "hint": "",
+      "sentence": "I have a reservation under Taylor."
+    },
+    {
+      "word": "schedule",
+      "hint": "英式/ʃedjuːl/",
+      "sentence": "Check the bus schedule."
+    },
+    {
+      "word": "destination",
+      "hint": "",
+      "sentence": "Our final destination is Edinburgh."
+    },
+    {
+      "word": "departure",
+      "hint": "",
+      "sentence": "The departure time is 9 am."
+    },
+    {
+      "word": "luggage",
+      "hint": "",
+      "sentence": "Please collect your luggage."
+    },
+    {
+      "word": "passenger",
+      "hint": "",
+      "sentence": "Each passenger must show ID."
+    },
+    {
+      "word": "passport",
+      "hint": "",
+      "sentence": "Don't forget your passport."
+    },
+    {
+      "word": "platform",
+      "hint": "",
+      "sentence": "The train leaves from platform three."
+    },
+    {
+      "word": "souvenir",
+      "hint": "",
+      "sentence": "I bought a souvenir for my son."
+    },
+    {
+      "word": "cathedral",
+      "hint": "",
+      "sentence": "The cathedral dates back centuries."
+    },
+    {
+      "word": "castle",
+      "hint": "t不发音",
+      "sentence": "We visited a medieval castle."
+    },
+    {
+      "word": "temple",
+      "hint": "",
+      "sentence": "The temple is on the hilltop."
+    },
+    {
+      "word": "aquarium",
+      "hint": "",
+      "sentence": "The aquarium has a shark tunnel."
+    },
+    {
+      "word": "exhibition",
+      "hint": "",
+      "sentence": "There's a photography exhibition."
+    },
+    {
+      "word": "sculpture",
+      "hint": "",
+      "sentence": "The sculpture is made of bronze."
+    },
+    {
+      "word": "compass",
+      "hint": "",
+      "sentence": "Bring a compass for the hike."
+    },
+    {
+      "word": "parachuting",
+      "hint": "",
+      "sentence": "Have you tried parachuting?"
+    },
+    {
+      "word": "snorkelling",
+      "hint": "双l(英式)",
+      "sentence": "We went snorkelling in the reef.",
+      "alt": [
+        "snorkeling"
+      ]
+    },
+    {
+      "word": "shuttle",
+      "hint": "",
+      "sentence": "Take the airport shuttle bus."
+    },
+    {
+      "word": "ferry",
+      "hint": "",
+      "sentence": "The ferry crosses in 30 minutes."
+    },
+    {
+      "word": "customs",
+      "hint": "",
+      "sentence": "Go through customs after landing."
+    },
+    {
+      "word": "hostel",
+      "hint": "",
+      "sentence": "We stayed at a youth hostel."
+    },
+    {
+      "word": "backpack",
+      "hint": "",
+      "sentence": "I had my backpack on."
+    },
+    {
+      "word": "bicycle",
+      "hint": "",
+      "sentence": "She rides her bicycle to work."
+    },
+    {
+      "word": "vehicle",
+      "hint": "",
+      "sentence": "No vehicles beyond this point."
+    },
+    {
+      "word": "caravan",
+      "hint": "",
+      "sentence": "They travelled around Australia in a caravan."
+    },
+    {
+      "word": "navigation",
+      "hint": "",
+      "sentence": "The navigation system showed the wrong route."
+    },
+    {
+      "word": "transit",
+      "hint": "",
+      "sentence": "We're in transit to London."
+    },
+    {
+      "word": "campsite",
+      "hint": "",
+      "sentence": "The campsite is near the lake."
+    },
+    {
+      "word": "waterfall",
+      "hint": "",
+      "sentence": "We hiked to see the waterfall."
+    },
+    {
+      "word": "monument",
+      "hint": "",
+      "sentence": "The monument was built in the 19th century."
+    },
+    {
+      "word": "helicopter",
+      "hint": "",
+      "sentence": "You can take a helicopter tour."
+    },
+    {
+      "word": "cable car",
+      "hint": "两个词",
+      "sentence": "We took the cable car to the mountain top."
+    },
+    {
+      "word": "sailing",
+      "hint": "",
+      "sentence": "We went sailing on Saturday afternoon."
+    },
+    {
+      "word": "coach",
+      "hint": "长途巴士/教练",
+      "sentence": "We took a coach from London to Edinburgh."
+    },
+    {
+      "word": "lorry",
+      "hint": "英式=truck",
+      "sentence": "A lorry was blocking the road ahead."
+    },
+    {
+      "word": "canoe",
+      "hint": "",
+      "sentence": "We paddled the canoe across the lake."
+    },
+    {
+      "word": "map",
+      "hint": "",
+      "sentence": "I need a map of the local area."
+    },
+    {
+      "word": "package",
+      "hint": "套餐/包裹",
+      "sentence": "The travel package includes flights and hotel."
+    },
+    {
+      "word": "petrol station",
+      "hint": "英式=gas station",
+      "sentence": "There's a petrol station near the highway."
+    },
+    {
+      "word": "camping",
+      "hint": "",
+      "sentence": "We are camping in the mountains."
+    }
+  ],
+  "银行/金融": [
+    {
+      "word": "currency",
+      "hint": "",
+      "sentence": "You can exchange currency here."
+    },
+    {
+      "word": "cheque",
+      "hint": "英式拼写",
+      "sentence": "I'll pay by cheque.",
+      "alt": [
+        "check"
+      ]
+    },
+    {
+      "word": "mortgage",
+      "hint": "t不发音",
+      "sentence": "They applied for a mortgage."
+    },
+    {
+      "word": "overdraft",
+      "hint": "",
+      "sentence": "I'm in my overdraft this month."
+    },
+    {
+      "word": "withdraw",
+      "hint": "",
+      "sentence": "I withdrew 300 pounds yesterday."
+    },
+    {
+      "word": "documentation",
+      "hint": "",
+      "sentence": "Bring the relevant documentation."
+    },
+    {
+      "word": "commission",
+      "hint": "双m单s",
+      "sentence": "They charge a small commission."
+    },
+    {
+      "word": "insurance",
+      "hint": "",
+      "sentence": "You'll need travel insurance."
+    },
+    {
+      "word": "guarantee",
+      "hint": "",
+      "sentence": "There's a two-year guarantee."
+    },
+    {
+      "word": "budget",
+      "hint": "",
+      "sentence": "We're on a tight budget."
+    },
+    {
+      "word": "interest",
+      "hint": "",
+      "sentence": "The interest rate is quite low."
+    },
+    {
+      "word": "transfer",
+      "hint": "",
+      "sentence": "I need to transfer some money."
+    },
+    {
+      "word": "receipt",
+      "hint": "p不发音",
+      "sentence": "Keep your receipt for returns."
+    },
+    {
+      "word": "expenditure",
+      "hint": "",
+      "sentence": "Government expenditure has increased."
+    },
+    {
+      "word": "voucher",
+      "hint": "",
+      "sentence": "You can use this voucher for your next visit."
+    },
+    {
+      "word": "bills",
+      "hint": "注意和bill区分",
+      "sentence": "The bills are due at the end of the month."
+    },
+    {
+      "word": "postage",
+      "hint": "",
+      "sentence": "Postage costs three pounds fifty."
+    },
+    {
+      "word": "bank statement",
+      "hint": "两个词",
+      "sentence": "I need a bank statement for the visa application."
+    },
+    {
+      "word": "bank transfer",
+      "hint": "两个词",
+      "sentence": "You can pay by bank transfer."
+    },
+    {
+      "word": "money",
+      "hint": "",
+      "sentence": "Do you have enough money?"
+    },
+    {
+      "word": "loan",
+      "hint": "",
+      "sentence": "I need a loan for the house."
+    },
+    {
+      "word": "fund",
+      "hint": "",
+      "sentence": "The fund supports education."
+    },
+    {
+      "word": "investment",
+      "hint": "",
+      "sentence": "Investment can bring returns."
+    },
+    {
+      "word": "capital",
+      "hint": "",
+      "sentence": "Capital is needed to start a business."
+    },
+    {
+      "word": "debt",
+      "hint": "",
+      "sentence": "The debt must be repaid."
+    },
+    {
+      "word": "bankruptcy",
+      "hint": "",
+      "sentence": "The company filed for bankruptcy."
+    }
+  ],
+  "学术/课程": [
+    {
+      "word": "assessment",
+      "hint": "双s",
+      "sentence": "The assessment is due next week."
+    },
+    {
+      "word": "assignment",
+      "hint": "双s",
+      "sentence": "Please hand in your assignment."
+    },
+    {
+      "word": "certificate",
+      "hint": "",
+      "sentence": "You'll receive a certificate."
+    },
+    {
+      "word": "curriculum",
+      "hint": "",
+      "sentence": "The curriculum has been updated."
+    },
+    {
+      "word": "diploma",
+      "hint": "",
+      "sentence": "She earned a diploma in marketing."
+    },
+    {
+      "word": "laboratory",
+      "hint": "",
+      "sentence": "The experiment was done in the laboratory."
+    },
+    {
+      "word": "lecture",
+      "hint": "",
+      "sentence": "The lecture starts at ten."
+    },
+    {
+      "word": "professor",
+      "hint": "一f双s",
+      "sentence": "Professor Smith leads the research."
+    },
+    {
+      "word": "research",
+      "hint": "",
+      "sentence": "The research findings were published."
+    },
+    {
+      "word": "semester",
+      "hint": "",
+      "sentence": "This is the second semester."
+    },
+    {
+      "word": "seminar",
+      "hint": "",
+      "sentence": "There's a seminar on Tuesday."
+    },
+    {
+      "word": "scholarship",
+      "hint": "",
+      "sentence": "She applied for a scholarship."
+    },
+    {
+      "word": "supervisor",
+      "hint": "",
+      "sentence": "Your supervisor will guide you."
+    },
+    {
+      "word": "tutorial",
+      "hint": "",
+      "sentence": "The tutorial is in room twelve."
+    },
+    {
+      "word": "undergraduate",
+      "hint": "",
+      "sentence": "He's an undergraduate student."
+    },
+    {
+      "word": "volunteer",
+      "hint": "",
+      "sentence": "We need a volunteer for this."
+    },
+    {
+      "word": "encyclopedia",
+      "hint": "",
+      "sentence": "Look it up in the encyclopedia."
+    },
+    {
+      "word": "biography",
+      "hint": "",
+      "sentence": "I'm reading a biography of Einstein."
+    },
+    {
+      "word": "qualification",
+      "hint": "",
+      "sentence": "What qualifications do you have?"
+    },
+    {
+      "word": "plagiarism",
+      "hint": "",
+      "sentence": "Plagiarism is a serious offence."
+    },
+    {
+      "word": "dissertation",
+      "hint": "双s",
+      "sentence": "He's writing his dissertation."
+    },
+    {
+      "word": "librarian",
+      "hint": "",
+      "sentence": "Ask the librarian for help."
+    },
+    {
+      "word": "periodical",
+      "hint": "",
+      "sentence": "The journal is a monthly periodical."
+    },
+    {
+      "word": "coursework",
+      "hint": "",
+      "sentence": "Coursework accounts for forty percent of the grade."
+    },
+    {
+      "word": "intermediate",
+      "hint": "",
+      "sentence": "She's at intermediate level."
+    },
+    {
+      "word": "concentration",
+      "hint": "",
+      "sentence": "It requires a high level of concentration."
+    },
+    {
+      "word": "researcher",
+      "hint": "",
+      "sentence": "The researcher published her findings."
+    },
+    {
+      "word": "spreadsheet",
+      "hint": "双e",
+      "sentence": "Enter the data into the spreadsheet."
+    },
+    {
+      "word": "orientation",
+      "hint": "",
+      "sentence": "The orientation is on the first day of term."
+    },
+    {
+      "word": "instructor",
+      "hint": "",
+      "sentence": "The instructor demonstrated the technique."
+    },
+    {
+      "word": "origin",
+      "hint": "",
+      "sentence": "The origin of the word is uncertain."
+    },
+    {
+      "word": "rock art",
+      "hint": "",
+      "sentence": "Rock art shows ancient culture."
+    }
+  ],
+  "职业/工作": [
+    {
+      "word": "accountant",
+      "hint": "",
+      "sentence": "She works as an accountant."
+    },
+    {
+      "word": "applicant",
+      "hint": "",
+      "sentence": "Each applicant must submit a CV."
+    },
+    {
+      "word": "assistant",
+      "hint": "",
+      "sentence": "She's my personal assistant."
+    },
+    {
+      "word": "challenging",
+      "hint": "",
+      "sentence": "The first week may be quite challenging."
+    },
+    {
+      "word": "clerk",
+      "hint": "",
+      "sentence": "The clerk at the front desk helped me."
+    },
+    {
+      "word": "colleague",
+      "hint": "双l",
+      "sentence": "My colleague recommended this course."
+    },
+    {
+      "word": "engineer",
+      "hint": "",
+      "sentence": "He's a software engineer."
+    },
+    {
+      "word": "interview",
+      "hint": "",
+      "sentence": "The interview is on Friday."
+    },
+    {
+      "word": "occupation",
+      "hint": "双c",
+      "sentence": "What is your occupation?"
+    },
+    {
+      "word": "personnel",
+      "hint": "双n",
+      "sentence": "Contact the personnel department."
+    },
+    {
+      "word": "professional",
+      "hint": "一f双s",
+      "sentence": "She's a professional designer."
+    },
+    {
+      "word": "promotion",
+      "hint": "",
+      "sentence": "He got a promotion last month."
+    },
+    {
+      "word": "receptionist",
+      "hint": "",
+      "sentence": "Ask the receptionist."
+    },
+    {
+      "word": "referee",
+      "hint": "双e",
+      "sentence": "The referee blew the whistle."
+    },
+    {
+      "word": "salary",
+      "hint": "",
+      "sentence": "The salary is negotiable."
+    },
+    {
+      "word": "vacancy",
+      "hint": "",
+      "sentence": "There's a vacancy in marketing."
+    },
+    {
+      "word": "pension",
+      "hint": "",
+      "sentence": "She retired with a good pension."
+    },
+    {
+      "word": "commission",
+      "hint": "双m",
+      "sentence": "He earns a commission on each sale."
+    },
+    {
+      "word": "administrative",
+      "hint": "",
+      "sentence": "She handles all the administrative tasks."
+    },
+    {
+      "word": "waitress",
+      "hint": "",
+      "sentence": "The waitress brought us the menu."
+    },
+    {
+      "word": "carpenter",
+      "hint": "",
+      "sentence": "The carpenter built a bookshelf."
+    },
+    {
+      "word": "lifeguard",
+      "hint": "",
+      "sentence": "The lifeguard watched the swimmers carefully."
+    },
+    {
+      "word": "composer",
+      "hint": "",
+      "sentence": "Mozart was a famous composer."
+    },
+    {
+      "word": "amateur",
+      "hint": "发音特殊",
+      "sentence": "He's an amateur photographer."
+    },
+    {
+      "word": "signature",
+      "hint": "",
+      "sentence": "Please put your signature here."
+    },
+    {
+      "word": "farmer",
+      "hint": "",
+      "sentence": "The farmer grows wheat."
+    },
+    {
+      "word": "craftsmen",
+      "hint": "",
+      "sentence": "Craftsmen make things by hand."
+    },
+    {
+      "word": "fisherman",
+      "hint": "",
+      "sentence": "The fisherman caught many fish."
+    },
+    {
+      "word": "hunter",
+      "hint": "",
+      "sentence": "The hunter tracked the animal."
+    },
+    {
+      "word": "worker",
+      "hint": "",
+      "sentence": "The worker started at nine o'clock."
+    },
+    {
+      "word": "merchant",
+      "hint": "",
+      "sentence": "The merchant sold silk."
+    },
+    {
+      "word": "agriculture",
+      "hint": "",
+      "sentence": "Agriculture is an important industry."
+    },
+    {
+      "word": "industry",
+      "hint": "",
+      "sentence": "The industry is growing rapidly."
+    },
+    {
+      "word": "forestry",
+      "hint": "",
+      "sentence": "Forestry provides many jobs."
+    },
+    {
+      "word": "fishing",
+      "hint": "",
+      "sentence": "Fishing is a traditional occupation."
+    },
+    {
+      "word": "tourism",
+      "hint": "",
+      "sentence": "Tourism brings money to the region."
+    },
+    {
+      "word": "mining",
+      "hint": "",
+      "sentence": "Mining extracts minerals from the earth."
+    },
+    {
+      "word": "corporation",
+      "hint": "",
+      "sentence": "The corporation has many branches."
+    },
+    {
+      "word": "firm",
+      "hint": "",
+      "sentence": "She works for a law firm."
+    },
+    {
+      "word": "business organization",
+      "hint": "",
+      "sentence": "The business organization is expanding."
+    },
+    {
+      "word": "enterprise",
+      "hint": "",
+      "sentence": "This is a family enterprise."
+    },
+    {
+      "word": "advertising",
+      "hint": "",
+      "sentence": "Advertising is important for sales."
+    },
+    {
+      "word": "administration",
+      "hint": "",
+      "sentence": "The administration office is closed."
+    },
+    {
+      "word": "manager",
+      "hint": "",
+      "sentence": "The manager called a meeting."
+    },
+    {
+      "word": "executives",
+      "hint": "",
+      "sentence": "The executives made the decision."
+    },
+    {
+      "word": "board",
+      "hint": "",
+      "sentence": "The board approves the budget."
+    },
+    {
+      "word": "employers",
+      "hint": "",
+      "sentence": "Employers provide benefits."
+    },
+    {
+      "word": "employees",
+      "hint": "",
+      "sentence": "The employees work hard."
+    },
+    {
+      "word": "senior managers",
+      "hint": "",
+      "sentence": "Senior managers lead the company."
+    }
+  ],
+  "运动/健身": [
+    {
+      "word": "badminton",
+      "hint": "",
+      "sentence": "Do you play badminton?"
+    },
+    {
+      "word": "aerobics",
+      "hint": "",
+      "sentence": "She does aerobics every morning."
+    },
+    {
+      "word": "athletics",
+      "hint": "",
+      "sentence": "He's good at athletics."
+    },
+    {
+      "word": "canoeing",
+      "hint": "",
+      "sentence": "We went canoeing on the river."
+    },
+    {
+      "word": "gymnasium",
+      "hint": "",
+      "sentence": "The gymnasium is open until 10 pm."
+    },
+    {
+      "word": "hockey",
+      "hint": "",
+      "sentence": "She plays hockey for the school."
+    },
+    {
+      "word": "jogging",
+      "hint": "双g",
+      "sentence": "I go jogging every morning."
+    },
+    {
+      "word": "karate",
+      "hint": "",
+      "sentence": "My son is learning karate."
+    },
+    {
+      "word": "rugby",
+      "hint": "",
+      "sentence": "Rugby is popular in New Zealand."
+    },
+    {
+      "word": "skiing",
+      "hint": "",
+      "sentence": "We went skiing in the Alps."
+    },
+    {
+      "word": "stadium",
+      "hint": "",
+      "sentence": "The stadium holds fifty thousand."
+    },
+    {
+      "word": "tournament",
+      "hint": "",
+      "sentence": "She won the tennis tournament."
+    },
+    {
+      "word": "treadmill",
+      "hint": "",
+      "sentence": "I ran on the treadmill for 30 minutes."
+    },
+    {
+      "word": "wrestling",
+      "hint": "",
+      "sentence": "Wrestling is an ancient sport."
+    },
+    {
+      "word": "yoga",
+      "hint": "",
+      "sentence": "She practises yoga daily."
+    },
+    {
+      "word": "membership",
+      "hint": "",
+      "sentence": "Gym membership costs 50 pounds a month."
+    },
+    {
+      "word": "racket",
+      "hint": "",
+      "sentence": "I need a new tennis racket."
+    },
+    {
+      "word": "helmet",
+      "hint": "",
+      "sentence": "You must wear a helmet when cycling."
+    },
+    {
+      "word": "sauna",
+      "hint": "",
+      "sentence": "The hotel has a sauna and a pool."
+    },
+    {
+      "word": "snowboarding",
+      "hint": "",
+      "sentence": "She tried snowboarding for the first time."
+    },
+    {
+      "word": "rollercoaster",
+      "hint": "",
+      "sentence": "The rollercoaster was the most popular ride."
+    },
+    {
+      "word": "judo",
+      "hint": "",
+      "sentence": "He's been practising judo since he was ten."
+    },
+    {
+      "word": "coach",
+      "hint": "此处=教练",
+      "sentence": "The swimming coach trains us every morning."
+    },
+    {
+      "word": "gym",
+      "hint": "",
+      "sentence": "I go to the gym three times a week."
+    },
+    {
+      "word": "water-ride",
+      "hint": "有连字符",
+      "sentence": "The water-ride is the most popular attraction."
+    }
+  ],
+  "餐饮": [
+    {
+      "word": "appetizer",
+      "hint": "",
+      "sentence": "We'll start with an appetizer."
+    },
+    {
+      "word": "barbecue",
+      "hint": "",
+      "sentence": "We had a barbecue in the garden."
+    },
+    {
+      "word": "beverage",
+      "hint": "",
+      "sentence": "What beverage would you like?"
+    },
+    {
+      "word": "chilli",
+      "hint": "双l",
+      "sentence": "Add some chilli for flavour."
+    },
+    {
+      "word": "dessert",
+      "hint": "双s(desert是沙漠)",
+      "sentence": "Would you like some dessert?"
+    },
+    {
+      "word": "sandwich",
+      "hint": "",
+      "sentence": "I'll have a cheese sandwich."
+    },
+    {
+      "word": "steak",
+      "hint": "",
+      "sentence": "How would you like your steak?"
+    },
+    {
+      "word": "seafood",
+      "hint": "",
+      "sentence": "This restaurant is famous for seafood."
+    },
+    {
+      "word": "recipe",
+      "hint": "",
+      "sentence": "Can you share the recipe?"
+    },
+    {
+      "word": "ingredient",
+      "hint": "",
+      "sentence": "What are the main ingredients?"
+    },
+    {
+      "word": "nutrition",
+      "hint": "",
+      "sentence": "Good nutrition is essential."
+    },
+    {
+      "word": "buffet",
+      "hint": "t不发音",
+      "sentence": "The breakfast buffet is included."
+    },
+    {
+      "word": "canteen",
+      "hint": "",
+      "sentence": "We usually eat in the canteen."
+    },
+    {
+      "word": "grocery",
+      "hint": "",
+      "sentence": "I need to pick up some groceries."
+    },
+    {
+      "word": "lemon",
+      "hint": "",
+      "sentence": "Would you like lemon with your tea?"
+    },
+    {
+      "word": "biscuit",
+      "hint": "有ui: bis-cu-it",
+      "sentence": "Would you like a biscuit with your coffee?"
+    },
+    {
+      "word": "eggplant",
+      "hint": "",
+      "sentence": "The eggplant dish is quite popular here."
+    },
+    {
+      "word": "knife",
+      "hint": "k不发音",
+      "sentence": "You'll need a sharp knife for chopping."
+    },
+    {
+      "word": "double-grill",
+      "hint": "有连字符",
+      "sentence": "The kitchen comes with a double-grill oven."
+    },
+    {
+      "word": "shellfish",
+      "hint": "",
+      "sentence": "She's allergic to shellfish."
+    },
+    {
+      "word": "barley",
+      "hint": "",
+      "sentence": "Barley is used to make beer."
+    },
+    {
+      "word": "oat",
+      "hint": "",
+      "sentence": "Oatmeal is a healthy breakfast option."
+    },
+    {
+      "word": "maize",
+      "hint": "",
+      "sentence": "Maize is also called corn."
+    }
+  ],
+  "娱乐": [
+    {
+      "word": "acrobatics",
+      "hint": "",
+      "sentence": "The acrobatics show was amazing."
+    },
+    {
+      "word": "ballet",
+      "hint": "t不发音",
+      "sentence": "We went to see a ballet."
+    },
+    {
+      "word": "comedian",
+      "hint": "",
+      "sentence": "The comedian was hilarious."
+    },
+    {
+      "word": "concert",
+      "hint": "",
+      "sentence": "The concert starts at eight."
+    },
+    {
+      "word": "documentary",
+      "hint": "",
+      "sentence": "I watched a documentary about oceans."
+    },
+    {
+      "word": "opera",
+      "hint": "",
+      "sentence": "Have you ever been to an opera?"
+    },
+    {
+      "word": "orchestra",
+      "hint": "ch发/k/",
+      "sentence": "The orchestra performed beautifully."
+    },
+    {
+      "word": "theatre",
+      "hint": "英式拼写",
+      "sentence": "We're going to the theatre tonight.",
+      "alt": [
+        "theater"
+      ]
+    },
+    {
+      "word": "thriller",
+      "hint": "",
+      "sentence": "She loves reading thrillers."
+    },
+    {
+      "word": "violin",
+      "hint": "",
+      "sentence": "She plays the violin."
+    },
+    {
+      "word": "symphony",
+      "hint": "",
+      "sentence": "They played Beethoven's fifth symphony."
+    },
+    {
+      "word": "portrait",
+      "hint": "",
+      "sentence": "The gallery has a famous portrait collection."
+    },
+    {
+      "word": "landscape",
+      "hint": "",
+      "sentence": "The landscape painting was stunning."
+    },
+    {
+      "word": "birdwatching",
+      "hint": "",
+      "sentence": "Birdwatching is popular in this area."
+    },
+    {
+      "word": "photography",
+      "hint": "",
+      "sentence": "She took a photography course last summer."
+    },
+    {
+      "word": "pottery",
+      "hint": "",
+      "sentence": "She took a pottery class on weekends."
+    },
+    {
+      "word": "posters",
+      "hint": "",
+      "sentence": "There are posters advertising the event."
+    },
+    {
+      "word": "keyboard",
+      "hint": "",
+      "sentence": "He plays keyboard in a band."
+    }
+  ],
+  "地图题方位词": [
+    {
+      "word": "intersection",
+      "hint": "",
+      "sentence": "Turn left at the intersection."
+    },
+    {
+      "word": "pedestrian",
+      "hint": "",
+      "sentence": "Use the pedestrian crossing."
+    },
+    {
+      "word": "pavement",
+      "hint": "英式=sidewalk",
+      "sentence": "Stay on the pavement."
+    },
+    {
+      "word": "opposite",
+      "hint": "",
+      "sentence": "The bank is opposite the station."
+    },
+    {
+      "word": "parallel",
+      "hint": "双l",
+      "sentence": "The road runs parallel to the river."
+    },
+    {
+      "word": "adjacent",
+      "hint": "",
+      "sentence": "The car park is adjacent to the building."
+    },
+    {
+      "word": "beneath",
+      "hint": "",
+      "sentence": "The shop is beneath the office."
+    },
+    {
+      "word": "junction",
+      "hint": "",
+      "sentence": "Turn right at the T-junction."
+    },
+    {
+      "word": "overpass",
+      "hint": "",
+      "sentence": "Cross using the overpass."
+    },
+    {
+      "word": "underpass",
+      "hint": "",
+      "sentence": "Go through the underpass."
+    },
+    {
+      "word": "bypass",
+      "hint": "",
+      "sentence": "Take the bypass to avoid traffic."
+    },
+    {
+      "word": "landmark",
+      "hint": "",
+      "sentence": "The tower is a famous landmark."
+    },
+    {
+      "word": "signpost",
+      "hint": "",
+      "sentence": "Follow the signpost to the museum."
+    },
+    {
+      "word": "detour",
+      "hint": "",
+      "sentence": "We had to make a detour."
+    },
+    {
+      "word": "circular",
+      "hint": "",
+      "sentence": "Follow the circular path around the lake."
+    },
+    {
+      "word": "boundary",
+      "hint": "",
+      "sentence": "The fence marks the boundary of the park."
+    },
+    {
+      "word": "ramp",
+      "hint": "",
+      "sentence": "Use the ramp for wheelchair access."
+    },
+    {
+      "word": "bend",
+      "hint": "",
+      "sentence": "There's a sharp bend in the road ahead."
+    },
+    {
+      "word": "stream",
+      "hint": "",
+      "sentence": "Follow the path along the stream."
+    },
+    {
+      "word": "hedges",
+      "hint": "",
+      "sentence": "The garden is surrounded by hedges."
+    },
+    {
+      "word": "maze",
+      "hint": "",
+      "sentence": "The children enjoyed the garden maze."
+    },
+    {
+      "word": "on the left/right",
+      "hint": "",
+      "sentence": "The shop is on the right side."
+    },
+    {
+      "word": "turn (to the) left/right",
+      "hint": "",
+      "sentence": "Turn left at the traffic light."
+    },
+    {
+      "word": "be in front of",
+      "hint": "",
+      "sentence": "The bank is in front of the church."
+    },
+    {
+      "word": "be behind",
+      "hint": "",
+      "sentence": "The parking lot is behind the building."
+    },
+    {
+      "word": "be beside",
+      "hint": "",
+      "sentence": "The cafe is beside the bookstore."
+    },
+    {
+      "word": "be on the corner of",
+      "hint": "",
+      "sentence": "The post office is on the corner."
+    },
+    {
+      "word": "be parallel to",
+      "hint": "",
+      "sentence": "The road is parallel to the river."
+    },
+    {
+      "word": "cross",
+      "hint": "",
+      "sentence": "Cross the street carefully."
+    },
+    {
+      "word": "path",
+      "hint": "",
+      "sentence": "Follow the path to the lake."
+    },
+    {
+      "word": "passage",
+      "hint": "",
+      "sentence": "The passage connects two buildings."
+    },
+    {
+      "word": "arrow",
+      "hint": "",
+      "sentence": "The arrow points to the exit."
+    },
+    {
+      "word": "elevator/lift",
+      "hint": "",
+      "sentence": "Take the elevator to floor five."
+    },
+    {
+      "word": "escalator",
+      "hint": "",
+      "sentence": "Use the escalator to go up."
+    },
+    {
+      "word": "pedestrian crossing/zebra crossing",
+      "hint": "",
+      "sentence": "Use the zebra crossing to cross."
+    },
+    {
+      "word": "pelican crossing",
+      "hint": "",
+      "sentence": "The pelican crossing has traffic lights."
+    },
+    {
+      "word": "pavement/sidewalk",
+      "hint": "",
+      "sentence": "Walk on the pavement, not the road."
+    },
+    {
+      "word": "clover-leaf",
+      "hint": "",
+      "sentence": "The clover-leaf junction is complex."
+    },
+    {
+      "word": "street",
+      "hint": "",
+      "sentence": "My house is on Main Street."
+    },
+    {
+      "word": "lane",
+      "hint": "",
+      "sentence": "Park in the disabled access lane."
+    },
+    {
+      "word": "boulevard",
+      "hint": "",
+      "sentence": "The boulevard is tree-lined."
+    },
+    {
+      "word": "be far from",
+      "hint": "",
+      "sentence": "The office is far from the station."
+    },
+    {
+      "word": "be nearby",
+      "hint": "",
+      "sentence": "Is there a hospital nearby?"
+    },
+    {
+      "word": "go straight across/to/through",
+      "hint": "",
+      "sentence": "Go straight across the square."
+    },
+    {
+      "word": "be next to",
+      "hint": "",
+      "sentence": "The library is next to the museum."
+    },
+    {
+      "word": "go up/down",
+      "hint": "",
+      "sentence": "Go down the stairs to exit."
+    },
+    {
+      "word": "go back",
+      "hint": "",
+      "sentence": "Go back to the entrance if lost."
+    },
+    {
+      "word": "be the first from the left",
+      "hint": "",
+      "sentence": "The first door on the left."
+    },
+    {
+      "word": "opposite/across from",
+      "hint": "",
+      "sentence": "The school is opposite the church."
+    },
+    {
+      "word": "be located behind",
+      "hint": "",
+      "sentence": "The garden is located behind the house."
+    },
+    {
+      "word": "be in the corner of",
+      "hint": "",
+      "sentence": "The desk is in the corner."
+    },
+    {
+      "word": "step",
+      "hint": "",
+      "sentence": "There is a high step up."
+    },
+    {
+      "word": "wheel chair access",
+      "hint": "",
+      "sentence": "Check wheel chair access here."
+    },
+    {
+      "word": "aisle",
+      "hint": "",
+      "sentence": "The aisle is blocked."
+    },
+    {
+      "word": "intersection/crossroad",
+      "hint": "",
+      "sentence": "There is an intersection ahead."
+    },
+    {
+      "word": "fork on the road",
+      "hint": "",
+      "sentence": "At the fork choose the right path."
+    },
+    {
+      "word": "T road",
+      "hint": "",
+      "sentence": "This is a T road junction."
+    },
+    {
+      "word": "road",
+      "hint": "",
+      "sentence": "The road is under construction."
+    }
+  ],
+  "医疗/健康": [
+    {
+      "word": "prescription",
+      "hint": "",
+      "sentence": "The doctor gave me a prescription."
+    },
+    {
+      "word": "symptom",
+      "hint": "",
+      "sentence": "What are your symptoms?"
+    },
+    {
+      "word": "diagnosis",
+      "hint": "",
+      "sentence": "The diagnosis was unexpected."
+    },
+    {
+      "word": "allergic",
+      "hint": "双l",
+      "sentence": "I'm allergic to peanuts."
+    },
+    {
+      "word": "antibiotic",
+      "hint": "",
+      "sentence": "The doctor prescribed antibiotics."
+    },
+    {
+      "word": "bandage",
+      "hint": "",
+      "sentence": "She wrapped a bandage around it."
+    },
+    {
+      "word": "surgery",
+      "hint": "",
+      "sentence": "He had surgery on his knee."
+    },
+    {
+      "word": "consultant",
+      "hint": "",
+      "sentence": "She saw a consultant at the hospital."
+    },
+    {
+      "word": "pharmacy",
+      "hint": "",
+      "sentence": "Pick up the medicine at the pharmacy."
+    },
+    {
+      "word": "therapy",
+      "hint": "",
+      "sentence": "She's having physical therapy."
+    },
+    {
+      "word": "infection",
+      "hint": "",
+      "sentence": "The wound has an infection."
+    },
+    {
+      "word": "vaccination",
+      "hint": "",
+      "sentence": "Get your vaccination before travelling."
+    },
+    {
+      "word": "appetite",
+      "hint": "",
+      "sentence": "I've lost my appetite."
+    },
+    {
+      "word": "insomnia",
+      "hint": "",
+      "sentence": "She suffers from insomnia."
+    },
+    {
+      "word": "physician",
+      "hint": "",
+      "sentence": "Consult your physician."
+    },
+    {
+      "word": "painkillers",
+      "hint": "",
+      "sentence": "Take two painkillers after meals."
+    },
+    {
+      "word": "disability",
+      "hint": "",
+      "sentence": "The building has good disability access."
+    },
+    {
+      "word": "digestive",
+      "hint": "",
+      "sentence": "She has digestive problems."
+    },
+    {
+      "word": "spine",
+      "hint": "",
+      "sentence": "She injured her spine in the accident."
+    },
+    {
+      "word": "mask",
+      "hint": "",
+      "sentence": "Please wear a mask in the hospital."
+    },
+    {
+      "word": "vest",
+      "hint": "马甲/背心",
+      "sentence": "You must wear a safety vest on site."
+    },
+    {
+      "word": "protein",
+      "hint": "",
+      "sentence": "Meat is a good source of protein."
+    },
+    {
+      "word": "vitamins",
+      "hint": "",
+      "sentence": "Oranges are rich in vitamins."
+    },
+    {
+      "word": "fat",
+      "hint": "",
+      "sentence": "Don't eat too much fat."
+    },
+    {
+      "word": "carbohydrates",
+      "hint": "",
+      "sentence": "Bread contains many carbohydrates."
+    },
+    {
+      "word": "calcium",
+      "hint": "",
+      "sentence": "Milk provides calcium for strong bones."
+    },
+    {
+      "word": "cholesterol",
+      "hint": "",
+      "sentence": "High cholesterol can cause heart disease."
+    },
+    {
+      "word": "minerals",
+      "hint": "",
+      "sentence": "Minerals are essential for health."
+    },
+    {
+      "word": "calorie",
+      "hint": "",
+      "sentence": "One apple contains about eighty calories."
+    },
+    {
+      "word": "kilocalorie",
+      "hint": "",
+      "sentence": "The meal contains two hundred kilocalories."
+    },
+    {
+      "word": "low nutrition",
+      "hint": "",
+      "sentence": "Low nutrition can affect growth."
+    },
+    {
+      "word": "malnutrition",
+      "hint": "",
+      "sentence": "Malnutrition is a serious health problem."
+    },
+    {
+      "word": "overweight",
+      "hint": "",
+      "sentence": "Being overweight increases health risks."
+    },
+    {
+      "word": "obese",
+      "hint": "",
+      "sentence": "Obese individuals need medical supervision."
+    },
+    {
+      "word": "underweight",
+      "hint": "",
+      "sentence": "Being underweight can indicate poor health."
+    },
+    {
+      "word": "eyesight",
+      "hint": "",
+      "sentence": "Good eyesight requires healthy eyes."
+    },
+    {
+      "word": "brain",
+      "hint": "",
+      "sentence": "The brain controls all body functions."
+    },
+    {
+      "word": "learning difficulty",
+      "hint": "",
+      "sentence": "Some students face learning difficulties."
+    },
+    {
+      "word": "digestion",
+      "hint": "",
+      "sentence": "Digestion takes several hours."
+    },
+    {
+      "word": "congestion",
+      "hint": "",
+      "sentence": "Nasal congestion makes breathing difficult."
+    },
+    {
+      "word": "surgeon",
+      "hint": "",
+      "sentence": "The surgeon performed the operation."
+    },
+    {
+      "word": "dentist",
+      "hint": "",
+      "sentence": "Visit the dentist twice yearly."
+    },
+    {
+      "word": "veterinarian",
+      "hint": "",
+      "sentence": "The veterinarian treats animals."
+    },
+    {
+      "word": "pediatrician",
+      "hint": "",
+      "sentence": "The pediatrician specializes in children."
+    },
+    {
+      "word": "therapist",
+      "hint": "",
+      "sentence": "A therapist can help mental health."
+    },
+    {
+      "word": "general practitioner",
+      "hint": "",
+      "sentence": "See your general practitioner first."
+    },
+    {
+      "word": "cure",
+      "hint": "",
+      "sentence": "There is no cure for the common cold."
+    },
+    {
+      "word": "remedy",
+      "hint": "",
+      "sentence": "Honey is a natural remedy for cough."
+    },
+    {
+      "word": "acupuncture",
+      "hint": "",
+      "sentence": "Acupuncture is used in Chinese medicine."
+    },
+    {
+      "word": "headache",
+      "hint": "",
+      "sentence": "I have a severe headache today."
+    },
+    {
+      "word": "toothache",
+      "hint": "",
+      "sentence": "The toothache keeps me awake."
+    },
+    {
+      "word": "backache",
+      "hint": "",
+      "sentence": "My backache improved with rest."
+    },
+    {
+      "word": "stomachache",
+      "hint": "",
+      "sentence": "The stomachache lasted two hours."
+    },
+    {
+      "word": "pneumonia",
+      "hint": "",
+      "sentence": "Pneumonia is a serious lung infection."
+    },
+    {
+      "word": "diabetes",
+      "hint": "",
+      "sentence": "Diabetes requires careful management."
+    },
+    {
+      "word": "asthma",
+      "hint": "",
+      "sentence": "Asthma makes breathing difficult."
+    },
+    {
+      "word": "sprain",
+      "hint": "",
+      "sentence": "I got a sprain playing football."
+    },
+    {
+      "word": "medicine",
+      "hint": "",
+      "sentence": "Take the medicine three times daily."
+    },
+    {
+      "word": "antibiotics",
+      "hint": "",
+      "sentence": "Antibiotics kill bacteria."
+    },
+    {
+      "word": "penicillin",
+      "hint": "",
+      "sentence": "Penicillin is an important antibiotic."
+    },
+    {
+      "word": "aspirin",
+      "hint": "",
+      "sentence": "Take an aspirin for the pain."
+    },
+    {
+      "word": "sleeping pills",
+      "hint": "",
+      "sentence": "She takes sleeping pills sometimes."
+    },
+    {
+      "word": "dose",
+      "hint": "",
+      "sentence": "Take one dose of the medicine."
+    },
+    {
+      "word": "overdose",
+      "hint": "",
+      "sentence": "An overdose can be dangerous."
+    },
+    {
+      "word": "walking sticks",
+      "hint": "",
+      "sentence": "She uses walking sticks to help move."
+    },
+    {
+      "word": "hospital",
+      "hint": "",
+      "sentence": "He was admitted to the hospital."
+    },
+    {
+      "word": "clinic",
+      "hint": "",
+      "sentence": "The clinic opens at nine in the morning."
+    },
+    {
+      "word": "ward",
+      "hint": "",
+      "sentence": "The patient is in ward six."
+    },
+    {
+      "word": "maternity ward",
+      "hint": "",
+      "sentence": "She gave birth in maternity ward."
+    },
+    {
+      "word": "emergency",
+      "hint": "",
+      "sentence": "Go to emergency if it's urgent."
+    }
+  ],
+  "环境/自然": [
+    {
+      "word": "atmosphere",
+      "hint": "",
+      "sentence": "The atmosphere was very relaxed."
+    },
+    {
+      "word": "catastrophe",
+      "hint": "",
+      "sentence": "It was an environmental catastrophe."
+    },
+    {
+      "word": "conservation",
+      "hint": "",
+      "sentence": "Wildlife conservation is important."
+    },
+    {
+      "word": "contamination",
+      "hint": "",
+      "sentence": "Water contamination is a concern."
+    },
+    {
+      "word": "deforestation",
+      "hint": "",
+      "sentence": "Deforestation is destroying habitats."
+    },
+    {
+      "word": "drought",
+      "hint": "",
+      "sentence": "The drought lasted three months."
+    },
+    {
+      "word": "ecosystem",
+      "hint": "",
+      "sentence": "The coral reef is a fragile ecosystem."
+    },
+    {
+      "word": "endangered",
+      "hint": "",
+      "sentence": "The tiger is an endangered species."
+    },
+    {
+      "word": "pollution",
+      "hint": "",
+      "sentence": "Air pollution is getting worse."
+    },
+    {
+      "word": "sustainable",
+      "hint": "",
+      "sentence": "We need sustainable energy."
+    },
+    {
+      "word": "wilderness",
+      "hint": "",
+      "sentence": "They explored the wilderness."
+    },
+    {
+      "word": "biodiversity",
+      "hint": "",
+      "sentence": "The rainforest has incredible biodiversity."
+    },
+    {
+      "word": "vegetation",
+      "hint": "",
+      "sentence": "The vegetation in this area is quite diverse."
+    },
+    {
+      "word": "flooding",
+      "hint": "",
+      "sentence": "Heavy rain caused serious flooding."
+    },
+    {
+      "word": "habitat",
+      "hint": "",
+      "sentence": "The forest is a natural habitat for birds."
+    },
+    {
+      "word": "fertiliser",
+      "hint": "英式-iser/美式-izer",
+      "sentence": "Farmers use fertiliser to grow crops.",
+      "alt": [
+        "fertilizer"
+      ]
+    },
+    {
+      "word": "mud",
+      "hint": "",
+      "sentence": "The path was covered in mud after the rain."
+    },
+    {
+      "word": "dirt",
+      "hint": "",
+      "sentence": "The children were covered in dirt."
+    },
+    {
+      "word": "pest",
+      "hint": "",
+      "sentence": "Farmers use chemicals to control pests."
+    },
+    {
+      "word": "meadow",
+      "hint": "",
+      "sentence": "The sheep were grazing in the meadow."
+    },
+    {
+      "word": "trail",
+      "hint": "小径/步道",
+      "sentence": "We followed the nature trail through the forest."
+    },
+    {
+      "word": "wildlife",
+      "hint": "",
+      "sentence": "The reserve is home to a variety of wildlife."
+    },
+    {
+      "word": "outskirt",
+      "hint": "",
+      "sentence": "They live on the outskirts of the city."
+    },
+    {
+      "word": "rural area",
+      "hint": "",
+      "sentence": "The rural area has many farms."
+    },
+    {
+      "word": "mammals",
+      "hint": "",
+      "sentence": "Mammals are warm-blooded animals."
+    },
+    {
+      "word": "amphibian",
+      "hint": "",
+      "sentence": "A frog is an amphibian."
+    },
+    {
+      "word": "birds",
+      "hint": "",
+      "sentence": "Birds can fly in the sky."
+    },
+    {
+      "word": "beast",
+      "hint": "",
+      "sentence": "The beast was dangerous."
+    },
+    {
+      "word": "predator",
+      "hint": "",
+      "sentence": "The lion is a predator."
+    },
+    {
+      "word": "poultry",
+      "hint": "",
+      "sentence": "Poultry includes chickens and ducks."
+    },
+    {
+      "word": "chickens",
+      "hint": "",
+      "sentence": "The chickens lay eggs."
+    },
+    {
+      "word": "donkey",
+      "hint": "",
+      "sentence": "A donkey is a stubborn animal."
+    },
+    {
+      "word": "horse",
+      "hint": "",
+      "sentence": "She rode a horse in the field."
+    },
+    {
+      "word": "pony",
+      "hint": "",
+      "sentence": "The child rode a pony."
+    },
+    {
+      "word": "coast",
+      "hint": "",
+      "sentence": "We walked along the coast."
+    },
+    {
+      "word": "trees",
+      "hint": "",
+      "sentence": "The trees provide shade."
+    },
+    {
+      "word": "aboriginal",
+      "hint": "",
+      "sentence": "Aboriginal peoples lived here first."
+    },
+    {
+      "word": "aborigines",
+      "hint": "",
+      "sentence": "The aborigines have a rich culture."
+    },
+    {
+      "word": "altitude",
+      "hint": "",
+      "sentence": "The altitude is very high."
+    },
+    {
+      "word": "soil",
+      "hint": "",
+      "sentence": "The soil is very fertile."
+    },
+    {
+      "word": "peak",
+      "hint": "",
+      "sentence": "We reached the mountain peak."
+    },
+    {
+      "word": "rain forest",
+      "hint": "",
+      "sentence": "The rain forest has many species."
+    },
+    {
+      "word": "mountain",
+      "hint": "",
+      "sentence": "The mountain is very tall."
+    },
+    {
+      "word": "desert",
+      "hint": "",
+      "sentence": "The desert is hot and dry."
+    },
+    {
+      "word": "natural reserve",
+      "hint": "",
+      "sentence": "The natural reserve protects wildlife."
+    },
+    {
+      "word": "sanctuary",
+      "hint": "",
+      "sentence": "The sanctuary provides safe habitat."
+    },
+    {
+      "word": "fort",
+      "hint": "",
+      "sentence": "The old fort stands on the hill."
+    },
+    {
+      "word": "canal",
+      "hint": "",
+      "sentence": "The canal connects two cities."
+    }
+  ],
+  "时间/日期": [
+    {
+      "word": "Monday",
+      "hint": "",
+      "sentence": "The class starts on Monday."
+    },
+    {
+      "word": "Tuesday",
+      "hint": "",
+      "sentence": "Tuesday is my busiest day."
+    },
+    {
+      "word": "Wednesday",
+      "hint": "拼写陷阱：Wed-nes-day",
+      "sentence": "The meeting is on Wednesday."
+    },
+    {
+      "word": "Thursday",
+      "hint": "",
+      "sentence": "The deadline is Thursday."
+    },
+    {
+      "word": "Friday",
+      "hint": "",
+      "sentence": "We finish early on Friday."
+    },
+    {
+      "word": "Saturday",
+      "hint": "",
+      "sentence": "We're meeting on Saturday."
+    },
+    {
+      "word": "Sunday",
+      "hint": "",
+      "sentence": "The museum is closed on Sunday."
+    },
+    {
+      "word": "January",
+      "hint": "",
+      "sentence": "January is the first month."
+    },
+    {
+      "word": "February",
+      "hint": "拼写陷阱：Feb-ru-ary（不是 Febuary）",
+      "sentence": "February is the shortest month."
+    },
+    {
+      "word": "March",
+      "hint": "",
+      "sentence": "March brings spring weather."
+    },
+    {
+      "word": "April",
+      "hint": "",
+      "sentence": "April showers bring May flowers."
+    },
+    {
+      "word": "May",
+      "hint": "",
+      "sentence": "May is a pleasant month."
+    },
+    {
+      "word": "June",
+      "hint": "",
+      "sentence": "June is the start of summer."
+    },
+    {
+      "word": "July",
+      "hint": "",
+      "sentence": "July is usually very hot."
+    },
+    {
+      "word": "August",
+      "hint": "",
+      "sentence": "August is the last summer month."
+    },
+    {
+      "word": "September",
+      "hint": "拼写注意：Sep-tem-ber",
+      "sentence": "The new term begins in September."
+    },
+    {
+      "word": "October",
+      "hint": "",
+      "sentence": "October is my favourite month."
+    },
+    {
+      "word": "November",
+      "hint": "",
+      "sentence": "The conference is in November."
+    },
+    {
+      "word": "December",
+      "hint": "",
+      "sentence": "Her birthday is December fourteenth."
+    },
+    {
+      "word": "Spring",
+      "hint": "",
+      "sentence": "Spring is when flowers bloom."
+    },
+    {
+      "word": "Summer",
+      "hint": "",
+      "sentence": "Summer is the warmest season."
+    },
+    {
+      "word": "Autumn",
+      "hint": "",
+      "alt": [
+        "Fall"
+      ],
+      "sentence": "Autumn is when leaves change colour."
+    },
+    {
+      "word": "Winter",
+      "hint": "",
+      "sentence": "Winter is cold and dark."
+    },
+    {
+      "word": "on Monday",
+      "hint": "星期用 on",
+      "sentence": "The lecture is on Monday afternoon."
+    },
+    {
+      "word": "on the fifteenth",
+      "hint": "具体日期用 on",
+      "sentence": "The exam is on the fifteenth of June."
+    },
+    {
+      "word": "on weekdays",
+      "hint": "星期/具体日用 on",
+      "sentence": "The library opens on weekdays only."
+    },
+    {
+      "word": "in January",
+      "hint": "月份用 in",
+      "sentence": "The course starts in January."
+    },
+    {
+      "word": "in 2026",
+      "hint": "年份用 in",
+      "sentence": "She graduated in 2026."
+    },
+    {
+      "word": "in the morning",
+      "hint": "上午/下午/晚上用 in",
+      "sentence": "The class is in the morning."
+    },
+    {
+      "word": "in summer",
+      "hint": "季节用 in",
+      "sentence": "We usually travel in summer."
+    },
+    {
+      "word": "at nine o'clock",
+      "hint": "具体时刻用 at",
+      "sentence": "The meeting starts at nine o'clock."
+    },
+    {
+      "word": "at noon",
+      "hint": "noon/midnight/night 用 at",
+      "sentence": "The cafeteria closes at noon."
+    },
+    {
+      "word": "at the weekend",
+      "hint": "英式用 at the weekend",
+      "alt": [
+        "on the weekend"
+      ],
+      "sentence": "I usually rest at the weekend."
+    },
+    {
+      "word": "weekday",
+      "hint": "",
+      "sentence": "Weekday traffic is heavy."
+    },
+    {
+      "word": "weekend",
+      "hint": "",
+      "sentence": "I relax on the weekend."
+    },
+    {
+      "word": "fortnight",
+      "hint": "= 两周（英式常用）",
+      "sentence": "The course lasts a fortnight."
+    },
+    {
+      "word": "annual",
+      "hint": "",
+      "sentence": "This is an annual event."
+    },
+    {
+      "word": "century",
+      "hint": "",
+      "sentence": "It was built in the nineteenth century."
+    },
+    {
+      "word": "quarter",
+      "hint": "",
+      "sentence": "A quarter of the students are international."
+    },
+    {
+      "word": "permanent",
+      "hint": "",
+      "sentence": "Is this a permanent position?"
+    },
+    {
+      "word": "temporary",
+      "hint": "",
+      "sentence": "It's only a temporary arrangement."
+    },
+    {
+      "word": "calendar",
+      "hint": "",
+      "sentence": "Check the calendar for the next meeting."
+    },
+    {
+      "word": "duration",
+      "hint": "",
+      "sentence": "The duration of the course is six weeks."
+    },
+    {
+      "word": "anniversary",
+      "hint": "",
+      "sentence": "It's their tenth wedding anniversary."
+    },
+    {
+      "word": "deadline",
+      "hint": "",
+      "sentence": "The deadline is next Friday."
+    },
+    {
+      "word": "semester",
+      "hint": "",
+      "sentence": "The first semester ends in January."
+    },
+    {
+      "word": "timetable",
+      "hint": "英式：timetable / 美式：schedule",
+      "alt": [
+        "schedule"
+      ],
+      "sentence": "Check the timetable for class times."
+    }
+  ],
+  "易错重灾区": [
+    {
+      "word": "accommodation",
+      "hint": "双c双m: ac-com-mo-da-tion",
+      "sentence": "The accommodation includes breakfast."
+    },
+    {
+      "word": "definitely",
+      "hint": "无a: def-i-nite-ly",
+      "sentence": "This is definitely the right place."
+    },
+    {
+      "word": "environment",
+      "hint": "有n: en-vi-ron-ment",
+      "sentence": "The environment is very peaceful."
+    },
+    {
+      "word": "government",
+      "hint": "有n: gov-ern-ment",
+      "sentence": "The local government approved the plan."
+    },
+    {
+      "word": "library",
+      "hint": "有r: lib-ra-ry",
+      "sentence": "I borrowed it from the library."
+    },
+    {
+      "word": "necessary",
+      "hint": "一c双s: ne-ces-sa-ry",
+      "sentence": "A passport is necessary."
+    },
+    {
+      "word": "restaurant",
+      "hint": "有au: rest-au-rant",
+      "sentence": "The restaurant is fully booked."
+    },
+    {
+      "word": "receive",
+      "hint": "ei不是ie",
+      "sentence": "You will receive a confirmation."
+    },
+    {
+      "word": "occasion",
+      "hint": "双c单s: oc-ca-sion",
+      "sentence": "It was a special occasion."
+    },
+    {
+      "word": "independent",
+      "hint": "ent不是ant",
+      "sentence": "She's very independent."
+    },
+    {
+      "word": "separate",
+      "hint": "a不是e: sep-a-rate",
+      "sentence": "We need separate rooms."
+    },
+    {
+      "word": "occurrence",
+      "hint": "双c双r: oc-cur-rence",
+      "sentence": "This is a common occurrence."
+    },
+    {
+      "word": "immediately",
+      "hint": "双m: im-me-di-ate-ly",
+      "sentence": "Please reply immediately."
+    },
+    {
+      "word": "exaggerate",
+      "hint": "双g: ex-ag-ger-ate",
+      "sentence": "Don't exaggerate the problem."
+    },
+    {
+      "word": "committee",
+      "hint": "双m双t双e: com-mit-tee",
+      "sentence": "The committee meets monthly."
+    },
+    {
+      "word": "embarrass",
+      "hint": "双r双s: em-bar-rass",
+      "sentence": "I didn't mean to embarrass you."
+    },
+    {
+      "word": "recommend",
+      "hint": "一c双m: rec-om-mend",
+      "sentence": "I would recommend this hotel."
+    },
+    {
+      "word": "questionnaire",
+      "hint": "双n: ques-tion-naire",
+      "sentence": "Please fill in the questionnaire."
+    },
+    {
+      "word": "conscience",
+      "hint": "sci: con-sci-ence",
+      "sentence": "He has a guilty conscience."
+    },
+    {
+      "word": "maintenance",
+      "hint": "ten不是tain: main-te-nance",
+      "sentence": "The building needs maintenance."
+    },
+    {
+      "word": "pronunciation",
+      "hint": "nun不是noun: pro-nun-ci-a-tion",
+      "sentence": "Your pronunciation is improving."
+    },
+    {
+      "word": "privilege",
+      "hint": "no d: priv-i-lege",
+      "sentence": "It's a privilege to be here."
+    },
+    {
+      "word": "rhythm",
+      "hint": "无常规元音: rhy-thm",
+      "sentence": "She's got a good sense of rhythm."
+    },
+    {
+      "word": "congratulations",
+      "hint": "有tu: con-gra-tu-la-tions",
+      "sentence": "Congratulations on your new job!"
+    },
+    {
+      "word": "identification",
+      "hint": "长词注意拆分",
+      "sentence": "Please bring some form of identification."
+    },
+    {
+      "word": "acknowledgement",
+      "hint": "有dge: ac-know-ledge-ment",
+      "sentence": "We received an acknowledgement of our application.",
+      "alt": [
+        "acknowledgment"
+      ]
+    },
+    {
+      "word": "manufacturing",
+      "hint": "",
+      "sentence": "The manufacturing industry has declined."
+    }
+  ],
+  "S1高频短语": [
+    {
+      "word": "driving licence",
+      "hint": "英式licence/美式license",
+      "sentence": "You'll need a valid driving licence.",
+      "alt": [
+        "driving license"
+      ]
+    },
+    {
+      "word": "date of birth",
+      "hint": "三个词",
+      "sentence": "Please confirm your date of birth."
+    },
+    {
+      "word": "type of insurance",
+      "hint": "三个词",
+      "sentence": "What type of insurance do you need?"
+    },
+    {
+      "word": "current address",
+      "hint": "两个词",
+      "sentence": "What is your current address?"
+    },
+    {
+      "word": "contact number",
+      "hint": "两个词",
+      "sentence": "Can I have your contact number?"
+    },
+    {
+      "word": "reference number",
+      "hint": "两个词",
+      "sentence": "Please quote your reference number."
+    },
+    {
+      "word": "starting date",
+      "hint": "两个词",
+      "sentence": "The starting date is the first of May."
+    },
+    {
+      "word": "monthly rent",
+      "hint": "两个词",
+      "sentence": "The monthly rent is eight hundred pounds."
+    },
+    {
+      "word": "sports equipment",
+      "hint": "两个词",
+      "sentence": "You can hire sports equipment at reception."
+    },
+    {
+      "word": "membership number",
+      "hint": "两个词",
+      "sentence": "Enter your membership number to log in."
+    },
+    {
+      "word": "total deposit",
+      "hint": "两个词",
+      "sentence": "The total deposit is two hundred and fifty pounds."
+    },
+    {
+      "word": "return tickets",
+      "hint": "两个词",
+      "sentence": "Two return tickets to Manchester please."
+    },
+    {
+      "word": "group discount",
+      "hint": "两个词",
+      "sentence": "There's a group discount for ten or more."
+    },
+    {
+      "word": "free parking",
+      "hint": "两个词",
+      "sentence": "The hotel offers free parking."
+    },
+    {
+      "word": "health check",
+      "hint": "两个词",
+      "sentence": "You need a health check before the course."
+    },
+    {
+      "word": "booking form",
+      "hint": "两个词",
+      "sentence": "Please fill in the booking form."
+    },
+    {
+      "word": "side entrance",
+      "hint": "两个词",
+      "sentence": "Use the side entrance after six o'clock."
+    },
+    {
+      "word": "waiting room",
+      "hint": "两个词",
+      "sentence": "Please take a seat in the waiting room."
+    },
+    {
+      "word": "part-time job",
+      "hint": "注意连字符",
+      "sentence": "She's looking for a part-time job."
+    },
+    {
+      "word": "sleeping bag",
+      "hint": "两个词",
+      "sentence": "Don't forget to bring a sleeping bag."
+    },
+    {
+      "word": "washing machine",
+      "hint": "两个词",
+      "sentence": "The washing machine is in the utility room."
+    },
+    {
+      "word": "ice pack",
+      "hint": "两个词",
+      "sentence": "Apply an ice pack to reduce the swelling."
+    },
+    {
+      "word": "car number",
+      "hint": "=车牌号",
+      "sentence": "Can I take your car number please?"
+    },
+    {
+      "word": "name cards",
+      "hint": "=名片",
+      "sentence": "She handed out her name cards at the event."
+    },
+    {
+      "word": "family photo",
+      "hint": "两个词",
+      "sentence": "She keeps a family photo on her desk."
+    },
+    {
+      "word": "walking boots",
+      "hint": "两个词",
+      "sentence": "You'll need walking boots for the hike."
+    },
+    {
+      "word": "warm clothing",
+      "hint": "两个词",
+      "sentence": "Bring warm clothing for the evening."
+    },
+    {
+      "word": "fish tank",
+      "hint": "两个词",
+      "sentence": "The office has a large fish tank."
+    },
+    {
+      "word": "internet café",
+      "hint": "注意é",
+      "sentence": "There's an internet café near the station."
+    },
+    {
+      "word": "make fire",
+      "hint": "",
+      "sentence": "Never make fire in the forest."
+    },
+    {
+      "word": "at a distance",
+      "hint": "",
+      "sentence": "Observe the animals at a distance."
+    }
+  ],
+  "S2高频短语": [
+    {
+      "word": "leisure centre",
+      "hint": "英式centre",
+      "sentence": "The leisure centre has a swimming pool.",
+      "alt": [
+        "leisure center"
+      ]
+    },
+    {
+      "word": "training course",
+      "hint": "两个词",
+      "sentence": "Staff must complete a training course."
+    },
+    {
+      "word": "safety regulations",
+      "hint": "两个词",
+      "sentence": "Please follow all safety regulations."
+    },
+    {
+      "word": "fire drill",
+      "hint": "两个词",
+      "sentence": "There will be a fire drill on Wednesday."
+    },
+    {
+      "word": "guided tour",
+      "hint": "两个词",
+      "sentence": "The guided tour starts at two o'clock."
+    },
+    {
+      "word": "opening hours",
+      "hint": "两个词",
+      "sentence": "The opening hours are nine to five."
+    },
+    {
+      "word": "coffee machine",
+      "hint": "两个词",
+      "sentence": "The coffee machine is in the break room."
+    },
+    {
+      "word": "front desk",
+      "hint": "两个词",
+      "sentence": "Collect your key from the front desk."
+    },
+    {
+      "word": "visitor centre",
+      "hint": "英式centre",
+      "sentence": "Start your visit at the visitor centre.",
+      "alt": [
+        "visitor center"
+      ]
+    },
+    {
+      "word": "special feature",
+      "hint": "两个词",
+      "sentence": "A special feature of the park is the lake."
+    },
+    {
+      "word": "accommodation type",
+      "hint": "两个词",
+      "sentence": "Which accommodation type would you prefer?"
+    },
+    {
+      "word": "weather forecast",
+      "hint": "两个词",
+      "sentence": "Check the weather forecast before you go."
+    },
+    {
+      "word": "emergency button",
+      "hint": "两个词",
+      "sentence": "Press the emergency button if you need help."
+    },
+    {
+      "word": "smoke alarm",
+      "hint": "两个词",
+      "sentence": "Every room must have a smoke alarm."
+    },
+    {
+      "word": "minimum age",
+      "hint": "两个词",
+      "sentence": "The minimum age for the activity is twelve."
+    },
+    {
+      "word": "shuttle bus",
+      "hint": "两个词",
+      "sentence": "A free shuttle bus runs every fifteen minutes."
+    },
+    {
+      "word": "registration process",
+      "hint": "两个词",
+      "sentence": "The registration process takes about ten minutes."
+    },
+    {
+      "word": "dance classes",
+      "hint": "两个词",
+      "sentence": "The dance classes are on Tuesday evenings."
+    },
+    {
+      "word": "drama workshop",
+      "hint": "两个词",
+      "sentence": "Sign up for the drama workshop this weekend."
+    },
+    {
+      "word": "outdoor swimming pool",
+      "hint": "三个词",
+      "sentence": "The outdoor swimming pool is open in summer."
+    },
+    {
+      "word": "horse riding",
+      "hint": "两个词",
+      "sentence": "Horse riding lessons are available on weekends."
+    },
+    {
+      "word": "advanced lessons",
+      "hint": "两个词",
+      "sentence": "The advanced lessons start next month."
+    },
+    {
+      "word": "free entry",
+      "hint": "两个词",
+      "sentence": "Children under five get free entry."
+    },
+    {
+      "word": "joining fee",
+      "hint": "=入会费",
+      "sentence": "There's a joining fee of thirty pounds."
+    },
+    {
+      "word": "round tables",
+      "hint": "两个词",
+      "sentence": "The venue is set up with round tables."
+    },
+    {
+      "word": "special items",
+      "hint": "两个词",
+      "sentence": "Special items are displayed in the main hall."
+    },
+    {
+      "word": "delivery fee",
+      "hint": "两个词",
+      "sentence": "The delivery fee is five pounds."
+    },
+    {
+      "word": "comment card",
+      "hint": "=意见卡",
+      "sentence": "Please fill in a comment card before you leave."
+    }
+  ],
+  "日常生活/杂项": [
+    {
+      "word": "candles",
+      "hint": "",
+      "sentence": "We lit some candles for the dinner party."
+    },
+    {
+      "word": "donations",
+      "hint": "",
+      "sentence": "The charity relies on public donations."
+    },
+    {
+      "word": "warehouse",
+      "hint": "",
+      "sentence": "The goods are stored in a warehouse."
+    },
+    {
+      "word": "website",
+      "hint": "",
+      "sentence": "Check the website for more information."
+    },
+    {
+      "word": "access",
+      "hint": "双c",
+      "sentence": "The building has wheelchair access."
+    },
+    {
+      "word": "automatic",
+      "hint": "",
+      "sentence": "The doors are automatic."
+    },
+    {
+      "word": "laptop",
+      "hint": "",
+      "sentence": "I left my laptop on the train."
+    },
+    {
+      "word": "nylon",
+      "hint": "",
+      "sentence": "The bag is made of nylon material."
+    },
+    {
+      "word": "waterproof",
+      "hint": "",
+      "sentence": "Make sure your jacket is waterproof."
+    },
+    {
+      "word": "catalogue",
+      "hint": "英式-gue",
+      "sentence": "You can order from the catalogue.",
+      "alt": [
+        "catalog"
+      ]
+    },
+    {
+      "word": "plastic",
+      "hint": "",
+      "sentence": "We should reduce the use of plastic bags."
+    },
+    {
+      "word": "glue",
+      "hint": "",
+      "sentence": "Use glue to stick the pieces together."
+    },
+    {
+      "word": "font",
+      "hint": "",
+      "sentence": "Change the font size to fourteen."
+    },
+    {
+      "word": "pump",
+      "hint": "",
+      "sentence": "The bicycle pump is in the garage."
+    },
+    {
+      "word": "torch",
+      "hint": "英式=flashlight",
+      "sentence": "Bring a torch for the night walk."
+    },
+    {
+      "word": "scaffold",
+      "hint": "",
+      "sentence": "Workers put up scaffold around the building."
+    },
+    {
+      "word": "pegs",
+      "hint": "晾衣夹/钉子",
+      "sentence": "Use pegs to hang the washing on the line."
+    },
+    {
+      "word": "lens",
+      "hint": "",
+      "sentence": "The camera lens is cracked."
+    },
+    {
+      "word": "neck",
+      "hint": "",
+      "sentence": "She wore a scarf around her neck."
+    },
+    {
+      "word": "zoom",
+      "hint": "",
+      "sentence": "Use the zoom to see the details more clearly."
+    },
+    {
+      "word": "studio",
+      "hint": "",
+      "sentence": "The art studio is on the second floor."
+    },
+    {
+      "word": "reliable",
+      "hint": "",
+      "sentence": "The bus service is usually quite reliable."
+    },
+    {
+      "word": "moderate",
+      "hint": "温和的/中等的",
+      "sentence": "The weather will be moderate this week."
+    },
+    {
+      "word": "enjoyable",
+      "hint": "",
+      "sentence": "The trip was really enjoyable."
+    },
+    {
+      "word": "frustrating",
+      "hint": "",
+      "sentence": "Learning to drive can be frustrating at first."
+    },
+    {
+      "word": "shade",
+      "hint": "阴凉处",
+      "sentence": "Let's sit in the shade of that tree."
+    },
+    {
+      "word": "variable",
+      "hint": "多变的",
+      "sentence": "The weather here is quite variable."
+    },
+    {
+      "word": "length",
+      "hint": "",
+      "sentence": "The length of the bridge is two kilometres."
+    },
+    {
+      "word": "width",
+      "hint": "",
+      "sentence": "What's the width of the corridor?"
+    },
+    {
+      "word": "depth",
+      "hint": "",
+      "sentence": "The depth of the swimming pool is two metres."
+    },
+    {
+      "word": "height",
+      "hint": "",
+      "sentence": "The height of the building is sixty metres."
+    },
+    {
+      "word": "millimetre",
+      "hint": "",
+      "sentence": "Each millimetre is marked on the ruler.",
+      "alt": [
+        "millimeter"
+      ]
+    },
+    {
+      "word": "centimetre",
+      "hint": "",
+      "sentence": "The room is five metres by four centimetres.",
+      "alt": [
+        "centimeter"
+      ]
+    },
+    {
+      "word": "metre",
+      "hint": "",
+      "sentence": "The distance is approximately one metre.",
+      "alt": [
+        "meter"
+      ]
+    },
+    {
+      "word": "kilometre",
+      "hint": "",
+      "sentence": "The town is ten kilometres away.",
+      "alt": [
+        "kilometer"
+      ]
+    },
+    {
+      "word": "mile",
+      "hint": "",
+      "sentence": "It's about five miles from here."
+    },
+    {
+      "word": "triangle",
+      "hint": "",
+      "sentence": "Draw a triangle with three equal sides."
+    },
+    {
+      "word": "rectangle",
+      "hint": "",
+      "sentence": "This room has a rectangular shape."
+    },
+    {
+      "word": "square",
+      "hint": "",
+      "sentence": "The plaza is a perfect square."
+    },
+    {
+      "word": "diamond",
+      "hint": "",
+      "sentence": "The design features a diamond pattern."
+    },
+    {
+      "word": "circle",
+      "hint": "",
+      "sentence": "Draw a circle with a compass."
+    },
+    {
+      "word": "line",
+      "hint": "",
+      "sentence": "Draw a straight line across the page."
+    },
+    {
+      "word": "dotted line",
+      "hint": "",
+      "sentence": "Follow the dotted line to cut here."
+    },
+    {
+      "word": "broken line",
+      "hint": "",
+      "sentence": "The broken line shows a path."
+    },
+    {
+      "word": "inverted",
+      "hint": "",
+      "sentence": "The inverted image appears upside down."
+    },
+    {
+      "word": "cone",
+      "hint": "",
+      "sentence": "A cone has a circular base and a point."
+    },
+    {
+      "word": "cylinder",
+      "hint": "",
+      "sentence": "A cylinder is a three-dimensional shape."
+    },
+    {
+      "word": "conical",
+      "hint": "",
+      "sentence": "The roof has a conical shape."
+    },
+    {
+      "word": "cylindrical",
+      "hint": "",
+      "sentence": "The tower has a cylindrical structure."
+    },
+    {
+      "word": "native",
+      "hint": "",
+      "sentence": "She is a native of England."
+    },
+    {
+      "word": "square metre",
+      "hint": "",
+      "sentence": "The room is twenty square metres."
+    },
+    {
+      "word": "hectare",
+      "hint": "",
+      "sentence": "The farm covers ten hectares."
+    },
+    {
+      "word": "acre",
+      "hint": "",
+      "sentence": "The land is five acres."
+    },
+    {
+      "word": "touch",
+      "hint": "",
+      "sentence": "Don't touch the wet paint."
+    },
+    {
+      "word": "intact",
+      "hint": "",
+      "sentence": "Keep the specimen intact."
+    },
+    {
+      "word": "take shots",
+      "hint": "",
+      "sentence": "Take shots of the beautiful view."
+    },
+    {
+      "word": "products",
+      "hint": "",
+      "sentence": "Our products are high quality."
+    },
+    {
+      "word": "online shopping",
+      "hint": "",
+      "sentence": "Online shopping is convenient."
+    },
+    {
+      "word": "discount",
+      "hint": "",
+      "sentence": "We offer a twenty percent discount."
+    },
+    {
+      "word": "on sales",
+      "hint": "",
+      "sentence": "The items are on sales this week."
+    },
+    {
+      "word": "normal price",
+      "hint": "",
+      "sentence": "The normal price is fifty dollars."
+    },
+    {
+      "word": "ground floor",
+      "hint": "",
+      "sentence": "The shop is on the ground floor."
+    },
+    {
+      "word": "wing",
+      "hint": "",
+      "sentence": "The hospital's east wing is new."
+    },
+    {
+      "word": "annex",
+      "hint": "",
+      "sentence": "The annex building was recently added."
+    },
+    {
+      "word": "twin building",
+      "hint": "",
+      "sentence": "The twin buildings look identical."
+    }
+  ],
+  "精听卡点词": [
+    {
+      "word": "statutory",
+      "hint": "sta-tu-to-ry，法定的",
+      "sentence": "Apart from any statutory public holidays...",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Apart from any statutory public holidays...",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "probationary",
+      "hint": "pro-ba-tion-ary，试用期的",
+      "sentence": "After your probationary three-month period...",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "After your probationary three-month period...",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "eligible",
+      "hint": "e-li-gi-ble，有资格的（≠illegible难辨认的）",
+      "sentence": "Some of you will be eligible for this.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Some of you will be eligible for this.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "permitted",
+      "hint": "per-mit-ted，被允许的",
+      "sentence": "Don't assume you'll automatically be permitted to do this.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Don't assume you'll automatically be permitted to do this.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "circumstances",
+      "hint": "cir-cum-stan-ces，情况/状况",
+      "sentence": "It will depend on what your personal circumstances are.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "It will depend on what your personal circumstances are.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "commitments",
+      "hint": "com-mit-ments，承诺/事务",
+      "sentence": "People do have commitments outside work.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "People do have commitments outside work.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "subsidised",
+      "hint": "sub-si-dised，补贴的（英式-ised）",
+      "sentence": "There's a heavily subsidised canteen on site.",
+      "alt": [
+        "subsidized"
+      ],
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "There's a heavily subsidised canteen on site.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "unhygienic",
+      "hint": "un-hy-gi-en-ic，不卫生的",
+      "sentence": "Eating at their workstation is unhygienic.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Eating at their workstation is unhygienic.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "apprentice",
+      "hint": "ap-pren-tice，学徒（人）≠apprenticeship（学徒期）",
+      "sentence": "Some general advice about being an apprentice.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Some general advice about being an apprentice.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "apprenticeship",
+      "hint": "ap-pren-tice-ship，学徒期/实习期",
+      "sentence": "Welcome to your new apprenticeship.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Welcome to your new apprenticeship.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "scheme",
+      "hint": "注意sch发/sk/音，方案/计划",
+      "sentence": "A few company policies for our apprenticeship scheme.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "A few company policies for our apprenticeship scheme.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "packed lunch",
+      "hint": "两个词，自带午餐/盒饭",
+      "sentence": "We've decided to introduce a no packed lunch policy.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "We've decided to introduce a no packed lunch policy.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "unavailable",
+      "hint": "un-前缀！= 不可用的（≠available）",
+      "sentence": "Don't worry if there are times when you are unavailable.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Don't worry if there are times when you are unavailable.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "resources",
+      "hint": "re-sour-ces，资源（human resources=人力资源）",
+      "sentence": "I'm the human resources manager.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "I'm the human resources manager.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "take it up",
+      "hint": "短语动词，接受（机会）",
+      "sentence": "You should take it up if possible.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "You should take it up if possible.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "run through",
+      "hint": "短语动词，过一遍/快速讲解",
+      "sentence": "I'd like to run through a few company policies.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "I'd like to run through a few company policies.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "make the most of",
+      "hint": "固定搭配，充分利用",
+      "sentence": "Make the most of that opportunity.",
+      "date": "2026-04-03",
+      "sources": [
+        {
+          "date": "2026-04-03",
+          "sentence": "Make the most of that opportunity.",
+          "material": "C14T1S2"
+        }
+      ]
+    },
+    {
+      "word": "provisional",
+      "hint": "pro-vi-sion-al，临时的/暂定的",
+      "sentence": "I'll make a provisional booking, shall I?",
+      "date": "2026-04-07",
+      "sources": [
+        {
+          "date": "2026-04-07",
+          "sentence": "I'll make a provisional booking, shall I?",
+          "material": "C4T1S1"
+        }
+      ]
+    },
+    {
+      "word": "cruise",
+      "hint": "cr-uise，邮轮/巡游（≠includes）",
+      "sentence": "If you don't want to do the whale watch cruise.",
+      "date": "2026-04-07",
+      "sources": [
+        {
+          "date": "2026-04-07",
+          "sentence": "If you don't want to do the whale watch cruise.",
+          "material": "C4T1S1"
+        }
+      ]
+    }
+  ]
+}

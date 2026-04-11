@@ -1,0 +1,1807 @@
+{
+  "categories": [
+    "S1场景",
+    "S2场景",
+    "学术讨论",
+    "动作动词",
+    "程度数量",
+    "时间频率",
+    "因果逻辑",
+    "观点评价",
+    "变化趋势",
+    "形容词",
+    "人与社会",
+    "否定转换"
+  ],
+  "groups": [
+    {
+      "key": "cost",
+      "word": "cost",
+      "category": "S1场景",
+      "synonyms": ["price", "fee", "charge", "rate", "expense"],
+      "examples": {
+        "cost": "The cost of living in London is quite high.",
+        "price": "The price of the ticket includes lunch.",
+        "fee": "There is a small fee for using the gym.",
+        "charge": "Is there an extra charge for delivery?",
+        "rate": "The hourly rate for the tutor is twenty pounds.",
+        "expense": "Travel is the biggest expense for most students."
+      }
+    },
+    {
+      "key": "book",
+      "word": "book",
+      "category": "S1场景",
+      "synonyms": ["reserve", "make a reservation", "arrange"],
+      "examples": {
+        "book": "I need to book a hotel room for my trip.",
+        "reserve": "Can I reserve a table for four at eight o'clock?",
+        "make a reservation": "She decided to make a reservation online.",
+        "arrange": "He will arrange transportation for the conference."
+      }
+    },
+    {
+      "key": "cancel",
+      "word": "cancel",
+      "category": "S1场景",
+      "synonyms": ["call off", "not go ahead with", "scrap"],
+      "examples": {
+        "cancel": "They had to cancel the event due to bad weather.",
+        "call off": "The meeting was called off because the director was ill.",
+        "not go ahead with": "We decided not to go ahead with the plan.",
+        "scrap": "The company decided to scrap the old project entirely."
+      }
+    },
+    {
+      "key": "near",
+      "word": "near",
+      "category": "S1场景",
+      "synonyms": ["close to", "next to", "a short walk from", "within walking distance", "adjacent to"],
+      "examples": {
+        "near": "The library is very near my apartment.",
+        "close to": "The station is close to the city center.",
+        "next to": "The restaurant is next to the cinema.",
+        "a short walk from": "The beach is a short walk from the hotel.",
+        "within walking distance": "The supermarket is within walking distance.",
+        "adjacent to": "The park is adjacent to the university campus."
+      }
+    },
+    {
+      "key": "improve",
+      "word": "improve",
+      "category": "动作动词",
+      "synonyms": ["enhance", "boost", "get better", "promote", "strengthen", "optimize"],
+      "examples": {
+        "improve": "Regular exercise helps improve your physical health.",
+        "enhance": "The new software will enhance productivity at work.",
+        "boost": "Getting enough sleep can boost your immune system.",
+        "get better": "His English has gotten better since he started studying.",
+        "promote": "The government wants to promote renewable energy use.",
+        "strengthen": "Daily practice will strengthen your listening skills.",
+        "optimize": "We need to optimize the website for mobile devices."
+      }
+    },
+    {
+      "key": "buy",
+      "word": "buy",
+      "category": "动作动词",
+      "synonyms": ["purchase", "get", "pick up", "pay for", "acquire"],
+      "examples": {
+        "buy": "I want to buy a new laptop before university starts.",
+        "purchase": "The company will purchase new equipment next month.",
+        "get": "She went to get some books from the library.",
+        "pick up": "Can you pick up some milk on your way home?",
+        "pay for": "My parents agreed to pay for my driving lessons.",
+        "acquire": "The museum acquired a valuable painting recently."
+      }
+    },
+    {
+      "key": "stop",
+      "word": "stop",
+      "category": "动作动词",
+      "synonyms": ["cease", "halt", "discontinue", "give up", "put an end to"],
+      "examples": {
+        "stop": "The bus will stop at the main station in the city.",
+        "cease": "The factory will cease production next year.",
+        "halt": "The project came to a halt due to funding issues.",
+        "discontinue": "The airline decided to discontinue this flight route.",
+        "give up": "He gave up smoking five years ago.",
+        "put an end to": "We need to put an end to this wasteful spending."
+      }
+    },
+    {
+      "key": "start",
+      "word": "start",
+      "category": "动作动词",
+      "synonyms": ["begin", "commence", "launch", "initiate", "kick off"],
+      "examples": {
+        "start": "The new semester starts in September.",
+        "begin": "The concert will begin at eight o'clock.",
+        "commence": "Construction will commence next month.",
+        "launch": "The company plans to launch a new product line.",
+        "initiate": "She decided to initiate a community project.",
+        "kick off": "The festival will kick off with a special performance."
+      }
+    },
+    {
+      "key": "choose",
+      "word": "choose",
+      "category": "动作动词",
+      "synonyms": ["select", "opt for", "go for", "pick", "decide on"],
+      "examples": {
+        "choose": "Students must choose their major by the end of this year.",
+        "select": "Please select three elective courses from the list.",
+        "opt for": "Most people opt for the cheaper option.",
+        "go for": "She decided to go for the blue dress instead.",
+        "pick": "You can pick any two items from the menu.",
+        "decide on": "They finally decided on the wedding date."
+      }
+    },
+    {
+      "key": "help",
+      "word": "help",
+      "category": "动作动词",
+      "synonyms": ["assist", "support", "give a hand", "aid", "lend support"],
+      "examples": {
+        "help": "Can you help me move this heavy box?",
+        "assist": "The volunteers will assist elderly patients at the clinic.",
+        "support": "We must support local businesses in our community.",
+        "give a hand": "Could you give a hand with the cooking?",
+        "aid": "The charity organization provides aid to poor families.",
+        "lend support": "Her friends lent support during the difficult time."
+      }
+    },
+    {
+      "key": "many",
+      "word": "many",
+      "category": "程度数量",
+      "synonyms": ["a large number of", "numerous", "quite a few", "plenty of", "a host of"],
+      "examples": {
+        "many": "Many students find the listening section challenging.",
+        "a large number of": "A large number of people attended the conference.",
+        "numerous": "The museum has numerous paintings from the Renaissance.",
+        "quite a few": "There are quite a few restaurants near the station.",
+        "plenty of": "There is plenty of time before the examination.",
+        "a host of": "The benefits include a host of other advantages."
+      }
+    },
+    {
+      "key": "few",
+      "word": "few",
+      "category": "程度数量",
+      "synonyms": ["a small number of", "hardly any", "limited", "a handful of", "scarce"],
+      "examples": {
+        "few": "There are few parking spaces available today.",
+        "a small number of": "A small number of applicants were accepted.",
+        "hardly any": "There is hardly any snow in this region.",
+        "limited": "The offer is available for a limited time only.",
+        "a handful of": "Only a handful of people knew the secret.",
+        "scarce": "Fresh water is scarce in desert areas."
+      }
+    },
+    {
+      "key": "approximately",
+      "word": "approximately",
+      "category": "程度数量",
+      "synonyms": ["about", "around", "roughly", "in the region of", "nearly"],
+      "examples": {
+        "approximately": "The event will last approximately two hours.",
+        "about": "The course costs about two hundred pounds.",
+        "around": "Around fifty people attended the presentation.",
+        "roughly": "Roughly half of the students passed the exam.",
+        "in the region of": "The cost is in the region of five thousand dollars.",
+        "nearly": "She has nearly finished her university degree."
+      }
+    },
+    {
+      "key": "immediately",
+      "word": "immediately",
+      "category": "时间频率",
+      "synonyms": ["right away", "straight away", "at once", "without delay", "instantly"],
+      "examples": {
+        "immediately": "Please submit your report immediately after the meeting.",
+        "right away": "The doctor can see you right away.",
+        "straight away": "He went straight away to the police station.",
+        "at once": "Everyone must stop talking at once.",
+        "without delay": "The payment should be made without delay.",
+        "instantly": "The lights turned off instantly when the storm hit."
+      }
+    },
+    {
+      "key": "because",
+      "word": "because",
+      "category": "因果逻辑",
+      "synonyms": ["due to", "owing to", "as a result of", "on account of", "since"],
+      "examples": {
+        "because": "I cannot attend because I have another commitment.",
+        "due to": "The roads are closed due to heavy flooding.",
+        "owing to": "The event was postponed owing to bad weather.",
+        "as a result of": "He lost his job as a result of the economic crisis.",
+        "on account of": "She was dismissed on account of her poor performance.",
+        "since": "I have been studying since early morning."
+      }
+    },
+    {
+      "key": "although",
+      "word": "although",
+      "category": "因果逻辑",
+      "synonyms": ["despite", "in spite of", "even though", "regardless of", "however"],
+      "examples": {
+        "although": "Although it was raining, we went hiking.",
+        "despite": "Despite the high price, the product sells well.",
+        "in spite of": "In spite of his illness, he attended the meeting.",
+        "even though": "Even though she was tired, she continued working.",
+        "regardless of": "We will proceed regardless of the opposition.",
+        "however": "The weather was terrible; however, we enjoyed the trip."
+      }
+    },
+    {
+      "key": "advantage",
+      "word": "advantage",
+      "category": "观点评价",
+      "synonyms": ["benefit", "positive aspect", "strength", "upside", "merit", "virtue"],
+      "examples": {
+        "advantage": "An advantage of online learning is flexibility.",
+        "benefit": "The benefits of exercise include better sleep.",
+        "positive aspect": "A positive aspect of the project is cost-effectiveness.",
+        "strength": "Her main strength is her strong communication skills.",
+        "upside": "The upside of the new policy is increased safety.",
+        "merit": "The proposal has merit and deserves consideration.",
+        "virtue": "Patience is a virtue that brings many rewards."
+      }
+    },
+    {
+      "key": "disadvantage",
+      "word": "disadvantage",
+      "category": "观点评价",
+      "synonyms": ["drawback", "downside", "weakness", "limitation", "demerit", "shortcoming"],
+      "examples": {
+        "disadvantage": "A disadvantage of car ownership is high maintenance cost.",
+        "drawback": "The main drawback is the lack of customer support.",
+        "downside": "The downside of the plan is its high initial investment.",
+        "weakness": "One weakness of the current system is poor security.",
+        "limitation": "A major limitation is that it only works offline.",
+        "demerit": "The proposal has several demerits we should discuss.",
+        "shortcoming": "The program has some shortcomings that need fixing."
+      }
+    },
+    {
+      "key": "increase",
+      "word": "increase",
+      "category": "变化趋势",
+      "synonyms": ["rise", "grow", "go up", "climb", "surge", "expand", "ascend", "jump", "shoot up"],
+      "examples": {
+        "increase": "The number of students will increase next year.",
+        "rise": "Temperatures are expected to rise this summer.",
+        "grow": "The company will grow significantly in the future.",
+        "go up": "Prices have gone up considerably recently.",
+        "climb": "The stock market continued to climb steadily.",
+        "surge": "Demand for the product will surge next month.",
+        "expand": "We plan to expand our business operations abroad.",
+        "ascend": "The balloon began to ascend into the sky.",
+        "jump": "Sales jumped by fifty percent last quarter."
+      }
+    },
+    {
+      "key": "decrease",
+      "word": "decrease",
+      "category": "变化趋势",
+      "synonyms": ["fall", "drop", "decline", "go down", "shrink", "reduce", "slump", "dip"],
+      "examples": {
+        "decrease": "The decrease in pollution levels is encouraging.",
+        "fall": "Temperatures fall dramatically during winter months.",
+        "drop": "Student enrollment will drop next semester.",
+        "decline": "The quality of service has declined significantly.",
+        "go down": "Internet speeds often go down during peak hours.",
+        "shrink": "The economy will shrink due to this crisis.",
+        "reduce": "We need to reduce our carbon emissions significantly.",
+        "slump": "Housing prices experienced a slump recently.",
+        "dip": "There was a dip in sales during summer months."
+      }
+    },
+    {
+      "key": "suggest",
+      "word": "suggest",
+      "category": "学术讨论",
+      "synonyms": ["indicate", "imply", "point to", "show", "recommend", "propose"],
+      "examples": {
+        "suggest": "I suggest studying in small groups regularly.",
+        "indicate": "The data indicates a clear upward trend.",
+        "imply": "His silence implies disagreement with the decision.",
+        "point to": "The evidence points to human error as the cause.",
+        "show": "The results show significant improvement overall.",
+        "recommend": "I recommend visiting the museum first.",
+        "propose": "She proposed a new schedule for meetings."
+      }
+    },
+    {
+      "key": "significant",
+      "word": "significant",
+      "category": "学术讨论",
+      "synonyms": ["important", "major", "considerable", "noteworthy", "crucial", "vital", "key", "substantial"],
+      "examples": {
+        "significant": "There has been significant progress in recent months.",
+        "important": "Exercise is important for maintaining good health.",
+        "major": "The company faced a major financial challenge.",
+        "considerable": "We have considerable expertise in this field.",
+        "noteworthy": "The student made a noteworthy contribution.",
+        "crucial": "Communication is crucial for team success.",
+        "vital": "Fresh water is vital for human survival.",
+        "key": "A key factor in success is hard work.",
+        "substantial": "We received substantial funding for the project."
+      }
+    },
+    {
+      "key": "cause",
+      "word": "cause",
+      "category": "因果逻辑",
+      "synonyms": ["lead to", "result in", "bring about", "trigger", "give rise to", "generate", "produce"],
+      "examples": {
+        "cause": "Smoking can cause serious health problems.",
+        "lead to": "Poor planning often leads to project failure.",
+        "result in": "The accident resulted in three injuries.",
+        "bring about": "These reforms will bring about positive change.",
+        "trigger": "The event triggered a series of protests.",
+        "give rise to": "This situation gave rise to new concerns.",
+        "generate": "The project will generate significant employment."
+      }
+    },
+    {
+      "key": "research",
+      "word": "research",
+      "category": "学术讨论",
+      "synonyms": ["study", "investigation", "look into", "examine", "analyse"],
+      "examples": {
+        "research": "She is conducting research on climate change.",
+        "study": "The study examined the effects of diet.",
+        "investigation": "An official investigation was launched yesterday.",
+        "look into": "Please look into this complaint immediately.",
+        "examine": "We will examine the evidence carefully.",
+        "analyse": "Experts will analyse the data thoroughly."
+      }
+    },
+    {
+      "key": "opinion",
+      "word": "opinion",
+      "category": "学术讨论",
+      "synonyms": ["view", "perspective", "stance", "position", "take on"],
+      "examples": {
+        "opinion": "In my opinion, this proposal is excellent.",
+        "view": "His view on education is quite progressive.",
+        "perspective": "From a different perspective, the issue seems complex.",
+        "stance": "The government took a firm stance on this matter.",
+        "position": "Her position on climate action is clear.",
+        "take on": "What is your take on this controversial issue?"
+      }
+    },
+    {
+      "key": "solve",
+      "word": "solve",
+      "category": "动作动词",
+      "synonyms": ["deal with", "cope with", "handle", "resolve", "address", "tackle"],
+      "examples": {
+        "solve": "Scientists hope to solve this mystery soon.",
+        "deal with": "We must deal with this problem immediately.",
+        "cope with": "She learned to cope with the challenges effectively.",
+        "handle": "Can you handle this situation professionally?",
+        "resolve": "Let us resolve this conflict together peacefully.",
+        "address": "The government must address rising unemployment.",
+        "tackle": "The team will tackle this issue systematically."
+      }
+    },
+    {
+      "key": "damage",
+      "word": "damage",
+      "category": "动作动词",
+      "synonyms": ["hurt", "injure", "harm", "impair", "undermine", "jeopardize"],
+      "examples": {
+        "damage": "The storm caused significant damage to property.",
+        "hurt": "Negative comments hurt her feelings deeply.",
+        "injure": "The accident injured three people seriously.",
+        "harm": "Chemical waste can harm the environment.",
+        "impair": "Lack of sleep will impair your cognitive performance.",
+        "undermine": "These actions undermine the company's reputation.",
+        "jeopardize": "Missing this deadline could jeopardize our contract."
+      }
+    },
+    {
+      "key": "protect",
+      "word": "protect",
+      "category": "动作动词",
+      "synonyms": ["conserve", "preserve", "safeguard", "defend", "shield"],
+      "examples": {
+        "protect": "We must protect our natural forests.",
+        "conserve": "The organization works to conserve endangered species.",
+        "preserve": "The museum preserves historical artifacts carefully.",
+        "safeguard": "Strong passwords safeguard your online accounts.",
+        "defend": "The team will defend their championship title.",
+        "shield": "The roof shields us from the heavy rain."
+      }
+    },
+    {
+      "key": "develop",
+      "word": "develop",
+      "category": "动作动词",
+      "synonyms": ["cultivate", "foster", "nurture", "advance", "progress"],
+      "examples": {
+        "develop": "Children develop language skills naturally.",
+        "cultivate": "We should cultivate good habits early.",
+        "foster": "Schools foster critical thinking in students.",
+        "nurture": "Parents nurture their children's talents.",
+        "advance": "New technology helps advance medical science.",
+        "progress": "She progressed rapidly in her career."
+      }
+    },
+    {
+      "key": "encourage",
+      "word": "encourage",
+      "category": "动作动词",
+      "synonyms": ["motivate", "stimulate", "spur", "inspire", "promote"],
+      "examples": {
+        "encourage": "Teachers should encourage student participation.",
+        "motivate": "Good grades motivate students to study harder.",
+        "stimulate": "Interesting projects stimulate creative thinking.",
+        "spur": "Success spurred him to aim higher.",
+        "inspire": "Her achievements inspire young people everywhere.",
+        "promote": "The campaign promotes healthy eating habits."
+      }
+    },
+    {
+      "key": "influence",
+      "word": "influence",
+      "category": "变化趋势",
+      "synonyms": ["impact", "effect", "consequence", "bearing"],
+      "examples": {
+        "influence": "Social media greatly influences young people.",
+        "impact": "Climate change will impact agriculture significantly.",
+        "effect": "The medicine had a positive effect quickly.",
+        "consequence": "The consequence of our decision was serious.",
+        "bearing": "This information has bearing on the investigation."
+      }
+    },
+    {
+      "key": "obvious",
+      "word": "obvious",
+      "category": "形容词",
+      "synonyms": ["apparent", "evident", "manifest", "clear", "crystal-clear", "self-evident"],
+      "examples": {
+        "obvious": "The answer to the question is obvious.",
+        "apparent": "It became apparent that he was lying.",
+        "evident": "Her talent was evident from the beginning.",
+        "manifest": "The problems became manifest during testing.",
+        "clear": "It is clear that more funding is needed.",
+        "crystal-clear": "The instructions are crystal-clear for everyone.",
+        "self-evident": "The benefits of exercise are self-evident."
+      }
+    },
+    {
+      "key": "wealthy",
+      "word": "wealthy",
+      "category": "形容词",
+      "synonyms": ["rich", "affluent", "well-to-do", "well-off", "prosperous"],
+      "examples": {
+        "wealthy": "Some wealthy families donated to the charity.",
+        "rich": "The rich neighborhoods have better infrastructure.",
+        "affluent": "Affluent communities often have better schools.",
+        "well-to-do": "The well-to-do business owner retired early.",
+        "well-off": "They were financially well-off but humble.",
+        "prosperous": "The prosperous nation invested in education."
+      }
+    },
+    {
+      "key": "poor",
+      "word": "poor",
+      "category": "形容词",
+      "synonyms": ["needy", "impoverished", "poverty-stricken", "deprived"],
+      "examples": {
+        "poor": "Poor families struggle to afford housing.",
+        "needy": "Charities help needy people in our community.",
+        "impoverished": "Many impoverished regions lack clean water.",
+        "poverty-stricken": "The poverty-stricken areas need more support.",
+        "deprived": "Deprived children deserve better opportunities."
+      }
+    },
+    {
+      "key": "old_people",
+      "word": "old people",
+      "category": "人与社会",
+      "synonyms": ["the elderly", "the aged", "senior citizens", "older adults"],
+      "examples": {
+        "old people": "Old people have valuable wisdom to share.",
+        "the elderly": "Many services support the elderly community.",
+        "the aged": "Respect for the aged is important culturally.",
+        "senior citizens": "Senior citizens receive special discounts here.",
+        "older adults": "Older adults benefit from regular exercise."
+      }
+    },
+    {
+      "key": "children",
+      "word": "children",
+      "category": "人与社会",
+      "synonyms": ["offspring", "youngsters", "youths", "adolescents", "kids"],
+      "examples": {
+        "children": "Children need proper nutrition to grow.",
+        "offspring": "The bird protects its offspring carefully.",
+        "youngsters": "Youngsters enjoy outdoor activities very much.",
+        "youths": "Youths participated in the community project.",
+        "adolescents": "Adolescents experience many emotional changes."
+      }
+    },
+    {
+      "key": "happy",
+      "word": "happy",
+      "category": "形容词",
+      "synonyms": ["cheerful", "delighted", "pleased", "content", "joyful"],
+      "examples": {
+        "happy": "I am happy to help you today.",
+        "cheerful": "The cheerful music improved everyone's mood.",
+        "delighted": "She was delighted to receive the award.",
+        "pleased": "The customer seemed pleased with the service.",
+        "content": "He felt content with his simple life.",
+        "joyful": "The joyful celebration lasted all evening."
+      }
+    },
+    {
+      "key": "located",
+      "word": "located",
+      "category": "S2场景",
+      "synonyms": ["situated", "found", "positioned", "you'll find it", "placed"],
+      "examples": {
+        "located": "The office is located near the main station.",
+        "situated": "The village is situated on a hillside.",
+        "found": "You will find it near the entrance.",
+        "positioned": "The table was positioned in the corner.",
+        "you'll find it": "You'll find it in the reference section.",
+        "placed": "The new sculpture is placed in the square."
+      }
+    },
+    {
+      "key": "free_of_charge",
+      "word": "free of charge",
+      "category": "S2场景",
+      "synonyms": ["no cost", "complimentary", "you don't need to pay", "gratis"],
+      "examples": {
+        "free of charge": "The consultation is free of charge today.",
+        "no cost": "Public libraries offer services at no cost.",
+        "complimentary": "The hotel provides complimentary breakfast.",
+        "you don't need to pay": "Parking is available if you don't need to pay.",
+        "gratis": "The workshop is available gratis for members."
+      }
+    },
+    {
+      "key": "suitable",
+      "word": "suitable for",
+      "category": "S2场景",
+      "synonyms": ["good for", "appropriate for", "designed for", "aimed at", "ideal for"],
+      "examples": {
+        "suitable for": "This course is suitable for beginners.",
+        "good for": "Exercise is good for physical health.",
+        "appropriate for": "Formal clothes are appropriate for interviews.",
+        "designed for": "The program is designed for busy professionals.",
+        "aimed at": "The campaign is aimed at young adults.",
+        "ideal for": "This location is ideal for a restaurant."
+      }
+    },
+    {
+      "key": "participate",
+      "word": "participate",
+      "category": "S2场景",
+      "synonyms": ["take part", "join in", "get involved", "engage in"],
+      "examples": {
+        "participate": "Everyone should participate in the discussion.",
+        "take part": "Will you take part in the competition?",
+        "join in": "We invited him to join in the game.",
+        "get involved": "She wanted to get involved in the project.",
+        "engage in": "Students will engage in group activities."
+      }
+    },
+    {
+      "key": "destroy",
+      "word": "destroy",
+      "category": "动作动词",
+      "synonyms": ["tear down", "knock down", "eradicate", "demolish", "wipe out"],
+      "examples": {
+        "destroy": "The fire will destroy the building completely.",
+        "tear down": "They plan to tear down the old structure.",
+        "knock down": "Heavy winds knocked down several trees.",
+        "eradicate": "Vaccination campaigns eradicate certain diseases.",
+        "demolish": "The construction crew will demolish the building.",
+        "wipe out": "The flood wiped out the entire harvest."
+      }
+    },
+    {
+      "key": "keep",
+      "word": "keep",
+      "category": "动作动词",
+      "synonyms": ["preserve", "retain", "hold", "maintain", "conserve"],
+      "examples": {
+        "keep": "Please keep your documents safe always.",
+        "preserve": "Museums preserve artifacts for future generations.",
+        "retain": "Good companies retain their talented employees.",
+        "hold": "She held the trophy proudly high.",
+        "maintain": "You must maintain the equipment regularly.",
+        "conserve": "We should conserve water during droughts."
+      }
+    },
+    {
+      "key": "complete",
+      "word": "complete",
+      "category": "动作动词",
+      "synonyms": ["fulfill", "accomplish", "achieve", "finish", "wrap up"],
+      "examples": {
+        "complete": "Students must complete the assignment by Friday.",
+        "fulfill": "The company fulfilled all customer requirements.",
+        "accomplish": "She accomplished her goals through hard work.",
+        "achieve": "They achieved excellent results this year.",
+        "finish": "When will you finish your homework?",
+        "wrap up": "Let us wrap up this meeting now."
+      }
+    },
+    {
+      "key": "rent",
+      "word": "rent",
+      "category": "S1场景",
+      "synonyms": ["charge per week", "monthly payment", "lease"],
+      "examples": {
+        "rent": "The rent for the apartment is five hundred pounds per month.",
+        "charge per week": "The accommodation charge is fifty pounds per week.",
+        "monthly payment": "The monthly payment for the flat is quite reasonable.",
+        "lease": "They decided to lease the property for two years."
+      }
+    },
+    {
+      "key": "furniture",
+      "word": "furniture",
+      "category": "S1场景",
+      "synonyms": ["tables and chairs", "fully furnished", "fixtures"],
+      "examples": {
+        "furniture": "The apartment includes basic furniture.",
+        "tables and chairs": "The room has tables and chairs for studying.",
+        "fully furnished": "The flat is fully furnished with modern appliances.",
+        "fixtures": "The property includes all necessary fixtures."
+      }
+    },
+    {
+      "key": "quiet_area",
+      "word": "quiet area",
+      "category": "S1场景",
+      "synonyms": ["peaceful", "not much traffic", "residential"],
+      "examples": {
+        "quiet area": "The apartment is in a quiet area away from the main road.",
+        "peaceful": "The neighborhood is peaceful and pleasant.",
+        "not much traffic": "The area has not much traffic which is ideal.",
+        "residential": "The residential neighborhood is perfect for families."
+      }
+    },
+    {
+      "key": "available",
+      "word": "available",
+      "category": "S1场景",
+      "synonyms": ["free", "vacant", "ready to move in"],
+      "examples": {
+        "available": "The flat is available from the first of next month.",
+        "free": "Is the double room free during summer?",
+        "vacant": "The apartment is vacant and ready for occupancy.",
+        "ready to move in": "The new house is ready to move in immediately."
+      }
+    },
+    {
+      "key": "bills_included",
+      "word": "bills included",
+      "category": "S1场景",
+      "synonyms": ["including utilities", "covers electricity", "all-inclusive"],
+      "examples": {
+        "bills included": "The rent is five hundred with bills included.",
+        "including utilities": "The monthly fee is including utilities and internet.",
+        "covers electricity": "The price covers electricity and water.",
+        "all-inclusive": "The accommodation is all-inclusive of utilities."
+      }
+    },
+    {
+      "key": "deposit",
+      "word": "deposit",
+      "category": "S1场景",
+      "synonyms": ["bond", "security payment", "upfront fee"],
+      "examples": {
+        "deposit": "A deposit of one month's rent is required.",
+        "bond": "The bond is refundable at the end of the lease.",
+        "security payment": "The security payment ensures the property is well cared for.",
+        "upfront fee": "An upfront fee of two hundred pounds is needed."
+      }
+    },
+    {
+      "key": "landlord",
+      "word": "landlord",
+      "category": "S1场景",
+      "synonyms": ["owner", "property manager", "lessor"],
+      "examples": {
+        "landlord": "The landlord is very helpful with maintenance issues.",
+        "owner": "The owner of the property is located nearby.",
+        "property manager": "The property manager handles all tenant inquiries.",
+        "lessor": "The lessor will conduct a final inspection."
+      }
+    },
+    {
+      "key": "shared_room",
+      "word": "shared room",
+      "category": "S1场景",
+      "synonyms": ["twin room", "double occupancy", "shared accommodation"],
+      "examples": {
+        "shared room": "The shared room costs half the price of a single.",
+        "twin room": "The twin room is suitable for two people.",
+        "double occupancy": "Double occupancy is available at a discounted rate.",
+        "shared accommodation": "Shared accommodation helps reduce costs."
+      }
+    },
+    {
+      "key": "return_ticket",
+      "word": "return ticket",
+      "category": "S1场景",
+      "synonyms": ["round trip", "come back the same way", "return journey"],
+      "examples": {
+        "return ticket": "A return ticket is cheaper than two one-way tickets.",
+        "round trip": "The round trip flight includes accommodation.",
+        "come back the same way": "You can come back the same way next week.",
+        "return journey": "The return journey is scheduled for Friday."
+      }
+    },
+    {
+      "key": "departure",
+      "word": "departure",
+      "category": "S1场景",
+      "synonyms": ["leave", "set off", "take off"],
+      "examples": {
+        "departure": "The departure time is at nine o'clock in the morning.",
+        "leave": "We leave from platform three.",
+        "set off": "The group will set off early in the morning.",
+        "take off": "The flight takes off at ten-thirty."
+      }
+    },
+    {
+      "key": "arrival",
+      "word": "arrival",
+      "category": "S1场景",
+      "synonyms": ["get there", "reach", "land"],
+      "examples": {
+        "arrival": "Our arrival in Paris is at three o'clock.",
+        "get there": "We will get there by evening.",
+        "reach": "The train will reach London by midnight.",
+        "land": "The plane lands at Terminal Two."
+      }
+    },
+    {
+      "key": "direct_flight",
+      "word": "direct flight",
+      "category": "S1场景",
+      "synonyms": ["non-stop", "no transfers", "straight flight"],
+      "examples": {
+        "direct flight": "A direct flight to New York takes eight hours.",
+        "non-stop": "The non-stop flight is more expensive.",
+        "no transfers": "No transfers means the journey is quicker.",
+        "straight flight": "A straight flight is preferred by most passengers."
+      }
+    },
+    {
+      "key": "luggage",
+      "word": "luggage",
+      "category": "S1场景",
+      "synonyms": ["baggage", "bags", "suitcase"],
+      "examples": {
+        "luggage": "You are allowed one piece of luggage per person.",
+        "baggage": "Excess baggage will cost an additional fee.",
+        "bags": "Please keep your bags with you at all times.",
+        "suitcase": "The suitcase is too large for the overhead compartment."
+      }
+    },
+    {
+      "key": "discount",
+      "word": "discount",
+      "category": "S1场景",
+      "synonyms": ["reduction", "special offer", "money off"],
+      "examples": {
+        "discount": "Students receive a twenty percent discount.",
+        "reduction": "There is a reduction on group bookings.",
+        "special offer": "The special offer is available this week only.",
+        "money off": "You get money off when you book in advance."
+      }
+    },
+    {
+      "key": "pick_up",
+      "word": "pick up",
+      "category": "S1场景",
+      "synonyms": ["collect", "meet at the airport", "retrieve"],
+      "examples": {
+        "pick up": "I can pick up your luggage from the station.",
+        "collect": "Please collect your documents from the office.",
+        "meet at the airport": "I will meet at the airport to pick up the group.",
+        "retrieve": "You can retrieve your documents tomorrow."
+      }
+    },
+    {
+      "key": "peak_season",
+      "word": "peak season",
+      "category": "S1场景",
+      "synonyms": ["busy period", "high season", "rush time"],
+      "examples": {
+        "peak season": "Prices are higher during the peak season.",
+        "busy period": "The busy period is from July to August.",
+        "high season": "The high season attracts many tourists.",
+        "rush time": "Rush time is around the summer holidays."
+      }
+    },
+    {
+      "key": "course",
+      "word": "course",
+      "category": "S1场景",
+      "synonyms": ["programme", "class", "module"],
+      "examples": {
+        "course": "The course lasts for ten weeks.",
+        "programme": "The programme includes both theory and practice.",
+        "class": "The class meets twice a week.",
+        "module": "Each module covers different topics."
+      }
+    },
+    {
+      "key": "register",
+      "word": "register",
+      "category": "S1场景",
+      "synonyms": ["sign up", "enrol", "put your name down"],
+      "examples": {
+        "register": "Students must register by the end of week one.",
+        "sign up": "Please sign up for the course online.",
+        "enrol": "You can enrol directly at the office.",
+        "put your name down": "Put your name down on the list now."
+      }
+    },
+    {
+      "key": "beginner",
+      "word": "beginner",
+      "category": "S1场景",
+      "synonyms": ["new to", "no experience", "starter"],
+      "examples": {
+        "beginner": "The beginner class is every Monday evening.",
+        "new to": "Students new to English should start with level one.",
+        "no experience": "You need no experience to join this course.",
+        "starter": "The starter level covers basic grammar."
+      }
+    },
+    {
+      "key": "tutor",
+      "word": "tutor",
+      "category": "S1场景",
+      "synonyms": ["teacher", "instructor", "lecturer"],
+      "examples": {
+        "tutor": "Your tutor will provide feedback on your work.",
+        "teacher": "The teacher has ten years of experience.",
+        "instructor": "The instructor will guide you through the course.",
+        "lecturer": "The lecturer is from the university."
+      }
+    },
+    {
+      "key": "assignment",
+      "word": "assignment",
+      "category": "S1场景",
+      "synonyms": ["essay", "task", "piece of work", "project"],
+      "examples": {
+        "assignment": "The assignment is due next Friday.",
+        "essay": "The essay should be at least two thousand words.",
+        "task": "Your task is to research five sources.",
+        "piece of work": "Each piece of work will be assessed.",
+        "project": "The project allows you to work in groups."
+      }
+    },
+    {
+      "key": "deadline",
+      "word": "deadline",
+      "category": "S1场景",
+      "synonyms": ["due date", "hand in by", "submission date"],
+      "examples": {
+        "deadline": "The deadline for submissions is midnight.",
+        "due date": "What is the due date for the essay?",
+        "hand in by": "You must hand in the assignment by Friday.",
+        "submission date": "The submission date has been extended by one week."
+      }
+    },
+    {
+      "key": "scholarship",
+      "word": "scholarship",
+      "category": "S1场景",
+      "synonyms": ["financial support", "funding", "bursary"],
+      "examples": {
+        "scholarship": "She received a scholarship for her studies.",
+        "financial support": "The university offers financial support to students.",
+        "funding": "We provide funding for international students.",
+        "bursary": "A bursary is available for those with financial need."
+      }
+    },
+    {
+      "key": "full_time",
+      "word": "full-time",
+      "category": "S1场景",
+      "synonyms": ["every day", "five days a week", "all week"],
+      "examples": {
+        "full-time": "The full-time program runs from Monday to Friday.",
+        "every day": "Classes are held every day from nine to five.",
+        "five days a week": "The course meets five days a week.",
+        "all week": "You must attend classes all week."
+      }
+    },
+    {
+      "key": "certificate",
+      "word": "certificate",
+      "category": "S1场景",
+      "synonyms": ["qualification", "diploma", "credential"],
+      "examples": {
+        "certificate": "You will receive a certificate upon completion.",
+        "qualification": "The qualification is recognized internationally.",
+        "diploma": "The diploma will be sent to your address.",
+        "credential": "Your credential will enhance your job prospects."
+      }
+    },
+    {
+      "key": "appointment",
+      "word": "appointment",
+      "category": "S1场景",
+      "synonyms": ["booking", "scheduled visit", "come in at"],
+      "examples": {
+        "appointment": "Please make an appointment with the receptionist.",
+        "booking": "The booking is confirmed for next Tuesday.",
+        "scheduled visit": "Your scheduled visit is at two o'clock.",
+        "come in at": "You can come in at any time this afternoon."
+      }
+    },
+    {
+      "key": "borrow",
+      "word": "borrow",
+      "category": "动作动词",
+      "synonyms": ["take out", "check out", "loan"],
+      "examples": {
+        "borrow": "Can I borrow this book from the library?",
+        "take out": "You can take out up to five books at once.",
+        "check out": "Please check out your books at the desk.",
+        "loan": "The library will loan you the reference materials."
+      }
+    },
+    {
+      "key": "renew",
+      "word": "renew",
+      "category": "动作动词",
+      "synonyms": ["extend", "keep for longer", "refresh"],
+      "examples": {
+        "renew": "You can renew your membership for another year.",
+        "extend": "The deadline has been extended by two weeks.",
+        "keep for longer": "May I keep the books for longer?",
+        "refresh": "Let us refresh the membership details."
+      }
+    },
+    {
+      "key": "fine",
+      "word": "fine",
+      "category": "S1场景",
+      "synonyms": ["late fee", "charge for overdue", "penalty"],
+      "examples": {
+        "fine": "A fine is charged for late returns.",
+        "late fee": "The late fee is fifty pence per day.",
+        "charge for overdue": "A charge for overdue items is applied.",
+        "penalty": "The penalty for losing the book is ten pounds."
+      }
+    },
+    {
+      "key": "opening_hours",
+      "word": "opening hours",
+      "category": "S1场景",
+      "synonyms": ["when we're open", "available from...to", "business hours"],
+      "examples": {
+        "opening hours": "The opening hours are nine to six.",
+        "when we're open": "We are open Monday to Friday.",
+        "available from...to": "The service is available from eight to eight.",
+        "business hours": "Please call during business hours."
+      }
+    },
+    {
+      "key": "membership",
+      "word": "membership",
+      "category": "S1场景",
+      "synonyms": ["joining", "becoming a member", "membership fee"],
+      "examples": {
+        "membership": "Annual membership costs one hundred pounds.",
+        "joining": "The joining fee is waived this month.",
+        "becoming a member": "Becoming a member gives you many benefits.",
+        "membership fee": "The membership fee includes gym access."
+      }
+    },
+    {
+      "key": "entrance",
+      "word": "entrance",
+      "category": "S2场景",
+      "synonyms": ["way in", "front door", "where you come in"],
+      "examples": {
+        "entrance": "The main entrance is on High Street.",
+        "way in": "The way in to the museum is through the left side.",
+        "front door": "Please use the front door for entrance.",
+        "where you come in": "The building's where you come in is on the east side."
+      }
+    },
+    {
+      "key": "exit",
+      "word": "exit",
+      "category": "S2场景",
+      "synonyms": ["way out", "where you leave", "exit door"],
+      "examples": {
+        "exit": "In case of emergency, please use the exit.",
+        "way out": "The way out of the building is through the back.",
+        "where you leave": "The where you leave is located downstairs.",
+        "exit door": "The exit door is marked clearly."
+      }
+    },
+    {
+      "key": "car_park",
+      "word": "car park",
+      "category": "S2场景",
+      "synonyms": ["parking area", "where you leave your car", "parking lot"],
+      "examples": {
+        "car park": "The car park is available for guests.",
+        "parking area": "The parking area is free for members.",
+        "where you leave your car": "The where you leave your car is underground.",
+        "parking lot": "The parking lot has capacity for two hundred cars."
+      }
+    },
+    {
+      "key": "reception",
+      "word": "reception",
+      "category": "S2场景",
+      "synonyms": ["front desk", "welcome area", "reception desk"],
+      "examples": {
+        "reception": "Please check in at reception when you arrive.",
+        "front desk": "The front desk can help with any inquiries.",
+        "welcome area": "The welcome area is bright and spacious.",
+        "reception desk": "The reception desk is open until six."
+      }
+    },
+    {
+      "key": "refreshments",
+      "word": "refreshments",
+      "category": "S2场景",
+      "synonyms": ["food and drinks", "café", "snacks"],
+      "examples": {
+        "refreshments": "Refreshments are available in the hall.",
+        "food and drinks": "Food and drinks are served during the break.",
+        "café": "The café offers various beverages and snacks.",
+        "snacks": "Snacks and hot drinks are provided free of charge."
+      }
+    },
+    {
+      "key": "renovated",
+      "word": "renovated",
+      "category": "S2场景",
+      "synonyms": ["refurbished", "updated", "done up", "modernised"],
+      "examples": {
+        "renovated": "The renovated museum has modern facilities.",
+        "refurbished": "The refurbished rooms are more comfortable now.",
+        "updated": "The updated technology improves visitor experience.",
+        "done up": "The done up interior looks completely new.",
+        "modernised": "The modernised building meets current standards."
+      }
+    },
+    {
+      "key": "admission",
+      "word": "admission",
+      "category": "S2场景",
+      "synonyms": ["entry fee", "ticket price", "how much to get in"],
+      "examples": {
+        "admission": "Admission to the museum costs fifteen pounds.",
+        "entry fee": "The entry fee includes a guided tour.",
+        "ticket price": "The ticket price varies by season.",
+        "how much to get in": "How much to get in for a group?"
+      }
+    },
+    {
+      "key": "guided_tour",
+      "word": "guided tour",
+      "category": "S2场景",
+      "synonyms": ["someone shows you around", "led by a guide", "escorted tour"],
+      "examples": {
+        "guided tour": "A guided tour is available every hour.",
+        "someone shows you around": "Someone shows you around the entire facility.",
+        "led by a guide": "The event is led by a guide with expertise.",
+        "escorted tour": "The escorted tour lasts two hours."
+      }
+    },
+    {
+      "key": "volunteer",
+      "word": "volunteer",
+      "category": "S2场景",
+      "synonyms": ["help out", "give your time", "unpaid work"],
+      "examples": {
+        "volunteer": "Would you like to volunteer at the event?",
+        "help out": "Many people help out during summer.",
+        "give your time": "We need people to give your time for the project.",
+        "unpaid work": "Volunteers provide unpaid work for the cause."
+      }
+    },
+    {
+      "key": "organiser",
+      "word": "organiser",
+      "category": "S2场景",
+      "synonyms": ["person in charge", "coordinator", "event planner"],
+      "examples": {
+        "organiser": "The organiser will send updates by email.",
+        "person in charge": "The person in charge is available for questions.",
+        "coordinator": "The coordinator handles all logistics.",
+        "event planner": "The event planner has arranged everything."
+      }
+    },
+    {
+      "key": "limited_places",
+      "word": "limited places",
+      "category": "S2场景",
+      "synonyms": ["only a few spots", "fills up fast", "limited availability"],
+      "examples": {
+        "limited places": "Limited places are available for the workshop.",
+        "only a few spots": "Only a few spots remain in the course.",
+        "fills up fast": "The event fills up fast so book early.",
+        "limited availability": "Limited availability means you should register now."
+      }
+    },
+    {
+      "key": "no_experience_needed",
+      "word": "no experience needed",
+      "category": "S2场景",
+      "synonyms": ["beginners welcome", "don't need to know", "open to all"],
+      "examples": {
+        "no experience needed": "No experience needed for this activity.",
+        "beginners welcome": "Beginners welcome to join the class.",
+        "don't need to know": "You don't need to know anything beforehand.",
+        "open to all": "The event is open to all skill levels."
+      }
+    },
+    {
+      "key": "findings",
+      "word": "findings",
+      "category": "学术讨论",
+      "synonyms": ["results", "what they discovered", "outcomes", "conclusions"],
+      "examples": {
+        "findings": "The research findings were published in a journal.",
+        "results": "The results showed significant improvement.",
+        "what they discovered": "The study revealed what they discovered.",
+        "outcomes": "The outcomes exceeded our expectations.",
+        "conclusions": "The conclusions support the hypothesis."
+      }
+    },
+    {
+      "key": "method",
+      "word": "method",
+      "category": "学术讨论",
+      "synonyms": ["approach", "way of doing", "technique", "procedure"],
+      "examples": {
+        "method": "The research method involved interviews.",
+        "approach": "The approach used statistical analysis.",
+        "way of doing": "Their way of doing research was innovative.",
+        "technique": "The technique proved very effective.",
+        "procedure": "The procedure followed international standards."
+      }
+    },
+    {
+      "key": "data",
+      "word": "data",
+      "category": "学术讨论",
+      "synonyms": ["information", "figures", "statistics", "evidence"],
+      "examples": {
+        "data": "The data was collected from multiple sources.",
+        "information": "The information provided was comprehensive.",
+        "figures": "The figures showed a clear trend.",
+        "statistics": "The statistics revealed important patterns.",
+        "evidence": "The evidence supported their claims."
+      }
+    },
+    {
+      "key": "argue",
+      "word": "argue",
+      "category": "学术讨论",
+      "synonyms": ["claim", "maintain", "contend", "assert"],
+      "examples": {
+        "argue": "The author argues that climate change is urgent.",
+        "claim": "The study claims a positive correlation.",
+        "maintain": "They maintain that the data is accurate.",
+        "contend": "Critics contend that the method is flawed.",
+        "assert": "The researcher asserts this is a breakthrough."
+      }
+    },
+    {
+      "key": "criticise",
+      "word": "criticise",
+      "category": "学术讨论",
+      "synonyms": ["challenge", "question", "take issue with", "dispute"],
+      "examples": {
+        "criticise": "Experts criticise the new policy.",
+        "challenge": "Some researchers challenge these findings.",
+        "question": "Critics question the validity of the study.",
+        "take issue with": "They take issue with the interpretation.",
+        "dispute": "Others dispute the conclusions entirely."
+      }
+    },
+    {
+      "key": "support_evidence",
+      "word": "support (evidence)",
+      "category": "学术讨论",
+      "synonyms": ["back up", "confirm", "reinforce", "provide evidence"],
+      "examples": {
+        "support (evidence)": "The data supports the initial hypothesis.",
+        "back up": "The findings back up the theory.",
+        "confirm": "The results confirm previous research.",
+        "reinforce": "This evidence reinforces the argument.",
+        "provide evidence": "The study provides evidence for causation."
+      }
+    },
+    {
+      "key": "previous",
+      "word": "previous",
+      "category": "学术讨论",
+      "synonyms": ["earlier", "former", "prior", "past"],
+      "examples": {
+        "previous": "Previous research supported this view.",
+        "earlier": "Earlier studies had different conclusions.",
+        "former": "Former investigations reached opposite conclusions.",
+        "prior": "Prior research on this topic was limited.",
+        "past": "Past studies showed mixed results."
+      }
+    },
+    {
+      "key": "agree",
+      "word": "agree",
+      "category": "学术讨论",
+      "synonyms": ["share the view", "go along with", "see eye to eye"],
+      "examples": {
+        "agree": "Most experts agree with this conclusion.",
+        "share the view": "Researchers share the view about its importance.",
+        "go along with": "Many scientists go along with the theory.",
+        "see eye to eye": "Both groups see eye to eye on this issue."
+      }
+    },
+    {
+      "key": "disagree",
+      "word": "disagree",
+      "category": "学术讨论",
+      "synonyms": ["differ", "not convinced", "take a different view"],
+      "examples": {
+        "disagree": "Some scholars disagree with this assessment.",
+        "differ": "Experts differ on the interpretation.",
+        "not convinced": "Critics are not convinced by the evidence.",
+        "take a different view": "They take a different view of the data."
+      }
+    },
+    {
+      "key": "problem",
+      "word": "problem",
+      "category": "观点评价",
+      "synonyms": ["issue", "concern", "challenge", "obstacle"],
+      "examples": {
+        "problem": "The main problem is lack of funding.",
+        "issue": "This issue requires immediate attention.",
+        "concern": "Environmental concerns are growing.",
+        "challenge": "The biggest challenge is implementation.",
+        "obstacle": "Cost is the main obstacle to progress."
+      }
+    },
+    {
+      "key": "solution",
+      "word": "solution",
+      "category": "观点评价",
+      "synonyms": ["answer", "fix", "remedy", "way to deal with"],
+      "examples": {
+        "solution": "The solution involves better planning.",
+        "answer": "The answer lies in education.",
+        "fix": "A quick fix is not possible here.",
+        "remedy": "The remedy requires policy changes.",
+        "way to deal with": "One way to deal with it is training."
+      }
+    },
+    {
+      "key": "recommend",
+      "word": "recommend",
+      "category": "学术讨论",
+      "synonyms": ["suggest", "advise", "propose", "put forward"],
+      "examples": {
+        "recommend": "Experts recommend early intervention.",
+        "suggest": "I suggest a different approach.",
+        "advise": "The consultant advises caution.",
+        "propose": "They propose a new framework.",
+        "put forward": "The committee puts forward these recommendations."
+      }
+    },
+    {
+      "key": "change",
+      "word": "change",
+      "category": "变化趋势",
+      "synonyms": ["alter", "modify", "adjust", "switch", "transform"],
+      "examples": {
+        "change": "Climate change affects all regions.",
+        "alter": "The new policy will alter the landscape.",
+        "modify": "We will modify the approach as needed.",
+        "adjust": "Students must adjust to new schedules.",
+        "switch": "The company will switch to renewable energy.",
+        "transform": "Technology has transformed society."
+      }
+    },
+    {
+      "key": "effect",
+      "word": "effect",
+      "category": "变化趋势",
+      "synonyms": ["impact", "consequence", "outcome", "result"],
+      "examples": {
+        "effect": "The effect of the new law is positive.",
+        "impact": "The impact on education is significant.",
+        "consequence": "The consequence of this decision is lasting.",
+        "outcome": "The outcome exceeded expectations.",
+        "result": "The result was more positive than expected."
+      }
+    },
+    {
+      "key": "give",
+      "word": "give",
+      "category": "动作动词",
+      "synonyms": ["offer", "render", "provide", "supply", "afford"],
+      "examples": {
+        "give": "She gave her time to the project.",
+        "offer": "The company offers excellent benefits.",
+        "render": "The team rendered important assistance.",
+        "provide": "The service provides valuable support.",
+        "supply": "The vendor supplies quality materials.",
+        "afford": "This opportunity affords great potential."
+      }
+    },
+    {
+      "key": "puzzle",
+      "word": "puzzle",
+      "category": "动作动词",
+      "synonyms": ["bewilder", "perplex", "baffle", "confuse"],
+      "examples": {
+        "puzzle": "The strange behavior puzzled everyone.",
+        "bewilder": "The complex instructions bewilder students.",
+        "perplex": "The unexpected result perplexed researchers.",
+        "baffle": "The phenomenon baffles scientists.",
+        "confuse": "The confusing rules confuse newcomers."
+      }
+    },
+    {
+      "key": "ensure",
+      "word": "ensure",
+      "category": "动作动词",
+      "synonyms": ["assure", "guarantee", "pledge", "make certain"],
+      "examples": {
+        "ensure": "We ensure quality in every product.",
+        "assure": "I assure you of our commitment.",
+        "guarantee": "We guarantee satisfaction or your money back.",
+        "pledge": "The company pledges to reduce emissions.",
+        "make certain": "Safety measures make certain no accidents occur."
+      }
+    },
+    {
+      "key": "harmful",
+      "word": "harmful",
+      "category": "形容词",
+      "synonyms": ["detrimental", "baneful", "evil", "damaging", "injurious"],
+      "examples": {
+        "harmful": "Smoking is harmful to your health.",
+        "detrimental": "The detrimental effects are well documented.",
+        "baneful": "The baneful influence corrupted the group.",
+        "evil": "Evil consequences followed the decision.",
+        "damaging": "The damaging impact lasted for years.",
+        "injurious": "The injurious substances must be removed."
+      }
+    },
+    {
+      "key": "require",
+      "word": "require",
+      "category": "动作动词",
+      "synonyms": ["request", "demand", "need", "necessitate"],
+      "examples": {
+        "require": "The course requires prior experience.",
+        "request": "We request your presence at the meeting.",
+        "demand": "The task demands careful attention.",
+        "need": "This project needs more funding.",
+        "necessitate": "The changes necessitate staff training."
+      }
+    },
+    {
+      "key": "eliminate",
+      "word": "eliminate",
+      "category": "动作动词",
+      "synonyms": ["clear", "remove", "take away", "erase", "abolish"],
+      "examples": {
+        "eliminate": "We must eliminate waste from the system.",
+        "clear": "Please clear the area immediately.",
+        "remove": "The team will remove all obstacles.",
+        "take away": "They took away the problematic items.",
+        "erase": "The scandal will erase his reputation.",
+        "abolish": "The government abolished the outdated law."
+      }
+    },
+    {
+      "key": "stable",
+      "word": "stable",
+      "category": "形容词",
+      "synonyms": ["remain steady", "level out", "remain unchanged", "constant"],
+      "examples": {
+        "stable": "The economy remains stable.",
+        "remain steady": "Prices remain steady throughout the year.",
+        "level out": "Growth levels out at about five percent.",
+        "remain unchanged": "The policies remain unchanged for now.",
+        "constant": "The constant temperature maintains quality."
+      }
+    },
+    {
+      "key": "declare",
+      "word": "declare",
+      "category": "动作动词",
+      "synonyms": ["allege", "assert", "claim", "state", "announce"],
+      "examples": {
+        "declare": "The government declared a state of emergency.",
+        "allege": "Reports allege misconduct by officials.",
+        "assert": "He asserts his innocence firmly.",
+        "claim": "The company claims to be the market leader.",
+        "state": "The document states the requirements clearly.",
+        "announce": "The university announced the new policy."
+      }
+    },
+    {
+      "key": "happen",
+      "word": "happen",
+      "category": "动作动词",
+      "synonyms": ["occur", "take place", "transpire", "come about"],
+      "examples": {
+        "happen": "What happened at the meeting?",
+        "occur": "The incident occurred late at night.",
+        "take place": "The event takes place next month.",
+        "transpire": "Details transpired over several weeks.",
+        "come about": "The change came about gradually."
+      }
+    },
+    {
+      "key": "useful",
+      "word": "useful",
+      "category": "形容词",
+      "synonyms": ["helpful", "beneficial", "valuable", "advantageous", "rewarding"],
+      "examples": {
+        "useful": "The dictionary is useful for learning.",
+        "helpful": "These suggestions are quite helpful.",
+        "beneficial": "Exercise is beneficial for health.",
+        "valuable": "The advice was valuable and practical.",
+        "advantageous": "The arrangement is advantageous for both.",
+        "rewarding": "Volunteering is rewarding and fulfilling."
+      }
+    },
+    {
+      "key": "show",
+      "word": "show",
+      "category": "动作动词",
+      "synonyms": ["reveal", "illustrate", "demonstrate", "depict", "present"],
+      "examples": {
+        "show": "The data shows a clear trend.",
+        "reveal": "The study reveals important insights.",
+        "illustrate": "These examples illustrate the concept.",
+        "demonstrate": "The experiment demonstrates the principle.",
+        "depict": "The painting depicts rural life.",
+        "present": "The report presents all findings clearly."
+      }
+    },
+    {
+      "key": "fluctuate",
+      "word": "fluctuate",
+      "category": "变化趋势",
+      "synonyms": ["go up and down", "vary", "oscillate", "waver"],
+      "examples": {
+        "fluctuate": "Prices fluctuate with market conditions.",
+        "go up and down": "Temperatures go up and down seasonally.",
+        "vary": "Income varies throughout the year.",
+        "oscillate": "The market oscillates between peaks and troughs.",
+        "waver": "Support for the policy wavers."
+      }
+    },
+    {
+      "key": "want",
+      "word": "want",
+      "category": "动作动词",
+      "synonyms": ["desire", "wish for", "seek"],
+      "examples": {
+        "want": "What do you want to study?",
+        "desire": "They desire a better life.",
+        "wish for": "She wishes for peace and stability.",
+        "seek": "The company seeks new opportunities."
+      }
+    },
+    {
+      "key": "responsibility",
+      "word": "responsibility",
+      "category": "人与社会",
+      "synonyms": ["obligation", "duty", "liability", "accountability"],
+      "examples": {
+        "responsibility": "Each person has a responsibility to contribute.",
+        "obligation": "The obligation falls on the government.",
+        "duty": "It is our duty to help others.",
+        "liability": "The liability rests with the manufacturer.",
+        "accountability": "Full accountability is required here."
+      }
+    },
+    {
+      "key": "ability",
+      "word": "ability",
+      "category": "人与社会",
+      "synonyms": ["capacity", "power", "skill", "capability"],
+      "examples": {
+        "ability": "She has the ability to lead teams.",
+        "capacity": "The capacity to learn varies by individual.",
+        "power": "Knowledge gives people power.",
+        "skill": "Technical skill is required for this role.",
+        "capability": "The company's capability is impressive."
+      }
+    },
+    {
+      "key": "job",
+      "word": "job",
+      "category": "人与社会",
+      "synonyms": ["career", "employment", "profession", "occupation"],
+      "examples": {
+        "job": "Finding a good job is challenging.",
+        "career": "She built a successful career.",
+        "employment": "Employment rates have improved.",
+        "profession": "The medical profession is rewarding.",
+        "occupation": "What is your current occupation?"
+      }
+    },
+    {
+      "key": "entertainment",
+      "word": "entertainment",
+      "category": "人与社会",
+      "synonyms": ["recreation", "pastimes", "enjoyment", "amusement"],
+      "examples": {
+        "entertainment": "Movies provide entertainment for millions.",
+        "recreation": "Recreation activities promote wellness.",
+        "pastimes": "Reading is one of his favorite pastimes.",
+        "enjoyment": "The show was pure enjoyment.",
+        "amusement": "Amusement parks attract many visitors."
+      }
+    },
+    {
+      "key": "ease",
+      "word": "ease",
+      "category": "动作动词",
+      "synonyms": ["alleviate", "relieve", "lighten", "reduce"],
+      "examples": {
+        "ease": "The medication will ease your pain.",
+        "alleviate": "These measures alleviate poverty.",
+        "relieve": "The system relieves pressure effectively.",
+        "lighten": "The help lightens the workload.",
+        "reduce": "We reduced expenses significantly."
+      }
+    },
+    {
+      "key": "danger",
+      "word": "danger",
+      "category": "形容词",
+      "synonyms": ["peril", "hazard", "risk", "threat"],
+      "examples": {
+        "danger": "The danger of flooding is high.",
+        "peril": "Sailors face constant peril.",
+        "hazard": "The hazard is clearly marked.",
+        "risk": "The risk of infection is low.",
+        "threat": "The threat has been neutralized."
+      }
+    },
+    {
+      "key": "pollution",
+      "word": "pollution",
+      "category": "形容词",
+      "synonyms": ["contamination", "fouling", "corruption"],
+      "examples": {
+        "pollution": "Air pollution affects millions.",
+        "contamination": "Water contamination is a serious issue.",
+        "fouling": "The fouling of the environment continues.",
+        "corruption": "Environmental corruption threatens ecosystems."
+      }
+    },
+    {
+      "key": "popular",
+      "word": "popular",
+      "category": "形容词",
+      "synonyms": ["prevailing", "prevalent", "pervasive", "widespread"],
+      "examples": {
+        "popular": "This style is very popular now.",
+        "prevailing": "The prevailing opinion supports change.",
+        "prevalent": "The prevalent attitude is negative.",
+        "pervasive": "Corruption is pervasive throughout.",
+        "widespread": "Widespread support ensures success."
+      }
+    },
+    {
+      "key": "healthy",
+      "word": "healthy",
+      "category": "形容词",
+      "synonyms": ["robust", "sound", "wholesome", "vigorous"],
+      "examples": {
+        "healthy": "A healthy lifestyle prevents disease.",
+        "robust": "The robust economy creates jobs.",
+        "sound": "The argument is sound and logical.",
+        "wholesome": "Wholesome food nourishes the body.",
+        "vigorous": "Regular vigorous exercise builds strength."
+      }
+    },
+    {
+      "key": "surprising",
+      "word": "surprising",
+      "category": "形容词",
+      "synonyms": ["amazing", "extraordinary", "remarkable", "astonishing"],
+      "examples": {
+        "surprising": "The surprising result exceeded expectations.",
+        "amazing": "The amazing performance impressed everyone.",
+        "extraordinary": "Her extraordinary talent was recognized.",
+        "remarkable": "The remarkable growth continued steadily.",
+        "astonishing": "The astonishing discovery shocked researchers."
+      }
+    },
+    {
+      "key": "energetic",
+      "word": "energetic",
+      "category": "形容词",
+      "synonyms": ["dynamic", "vigorous", "animated", "lively"],
+      "examples": {
+        "energetic": "The energetic team completed the project.",
+        "dynamic": "The dynamic leader inspired the group.",
+        "vigorous": "Vigorous debate ensued.",
+        "animated": "The animated discussion lasted hours.",
+        "lively": "The lively performance delighted audiences."
+      }
+    },
+    {
+      "key": "excellent",
+      "word": "excellent",
+      "category": "形容词",
+      "synonyms": ["eminent", "outstanding", "superior", "exceptional"],
+      "examples": {
+        "excellent": "The service was excellent throughout.",
+        "eminent": "The eminent scholar gave a lecture.",
+        "outstanding": "The outstanding performance earned praise.",
+        "superior": "The superior quality justifies the price.",
+        "exceptional": "His exceptional talent was undeniable."
+      }
+    },
+    {
+      "key": "most",
+      "word": "most",
+      "category": "程度数量",
+      "synonyms": ["the majority of", "nearly all", "predominantly"],
+      "examples": {
+        "most": "Most students prefer online learning.",
+        "the majority of": "The majority of people agreed.",
+        "nearly all": "Nearly all participants completed the survey.",
+        "predominantly": "The group was predominantly young."
+      }
+    },
+    {
+      "key": "exactly",
+      "word": "exactly",
+      "category": "时间频率",
+      "synonyms": ["precisely", "on the dot", "to be exact"],
+      "examples": {
+        "exactly": "The meeting starts at exactly two o'clock.",
+        "precisely": "Precisely one hundred people attended.",
+        "on the dot": "The bus arrived on the dot.",
+        "to be exact": "Three years, to be exact."
+      }
+    },
+    {
+      "key": "soon",
+      "word": "soon",
+      "category": "时间频率",
+      "synonyms": ["shortly", "before long", "in a little while"],
+      "examples": {
+        "soon": "The results will be available soon.",
+        "shortly": "She will return shortly.",
+        "before long": "We will meet before long.",
+        "in a little while": "In a little while, we can leave."
+      }
+    },
+    {
+      "key": "regularly",
+      "word": "regularly",
+      "category": "时间频率",
+      "synonyms": ["on a regular basis", "routinely", "frequently"],
+      "examples": {
+        "regularly": "She exercises regularly every day.",
+        "on a regular basis": "We meet on a regular basis.",
+        "routinely": "These tasks are completed routinely.",
+        "frequently": "He frequently visits the museum."
+      }
+    },
+    {
+      "key": "occasionally",
+      "word": "occasionally",
+      "category": "时间频率",
+      "synonyms": ["from time to time", "now and then", "sometimes"],
+      "examples": {
+        "occasionally": "He occasionally attends the meetings.",
+        "from time to time": "We chat from time to time.",
+        "now and then": "Now and then, he takes breaks.",
+        "sometimes": "Sometimes I forget my password."
+      }
+    },
+    {
+      "key": "rarely",
+      "word": "rarely",
+      "category": "时间频率",
+      "synonyms": ["hardly ever", "seldom", "almost never"],
+      "examples": {
+        "rarely": "She rarely misses a class.",
+        "hardly ever": "He hardly ever complains.",
+        "seldom": "We seldom see snow here.",
+        "almost never": "Trains are almost never late."
+      }
+    },
+    {
+      "key": "therefore",
+      "word": "therefore",
+      "category": "因果逻辑",
+      "synonyms": ["consequently", "that's why", "for this reason", "thus"],
+      "examples": {
+        "therefore": "The evidence is clear; therefore, we must act.",
+        "consequently": "Resources are limited; consequently, we prioritize.",
+        "that's why": "He studied hard; that's why he succeeded.",
+        "for this reason": "Demand is high; for this reason, prices rose.",
+        "thus": "The supply decreased, thus prices increased."
+      }
+    },
+    {
+      "key": "make",
+      "word": "make",
+      "category": "动作动词",
+      "synonyms": ["produce", "create", "manufacture", "build", "construct"],
+      "examples": {
+        "make": "They make high-quality products.",
+        "produce": "The factory produces cars.",
+        "create": "The artist created a masterpiece.",
+        "manufacture": "We manufacture electronics here.",
+        "build": "They will build a new hospital.",
+        "construct": "Workers constructed the bridge."
+      }
+    },
+    {
+      "key": "not_expensive",
+      "word": "not expensive",
+      "category": "否定转换",
+      "synonyms": ["affordable", "cheap", "economical", "budget-friendly"],
+      "examples": {
+        "not expensive": "The hostel is not expensive per night.",
+        "affordable": "The affordable housing program helps families.",
+        "cheap": "The cheap option costs less.",
+        "economical": "An economical car saves fuel.",
+        "budget-friendly": "The budget-friendly package suits students."
+      }
+    },
+    {
+      "key": "isnt_far",
+      "word": "isn't far",
+      "category": "否定转换",
+      "synonyms": ["close", "nearby", "close by", "at hand"],
+      "examples": {
+        "isn't far": "The airport isn't far from the city.",
+        "close": "The store is close to here.",
+        "nearby": "There are nearby restaurants.",
+        "close by": "The library is close by.",
+        "at hand": "The solution is at hand."
+      }
+    },
+    {
+      "key": "not_difficult",
+      "word": "not difficult",
+      "category": "否定转换",
+      "synonyms": ["easy", "straightforward", "simple", "uncomplicated"],
+      "examples": {
+        "not difficult": "The process is not difficult to follow.",
+        "easy": "The task is easy to complete.",
+        "straightforward": "The straightforward method works best.",
+        "simple": "The simple solution was most effective.",
+        "uncomplicated": "The uncomplicated instructions are clear."
+      }
+    }
+  ]
+}
