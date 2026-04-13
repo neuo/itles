@@ -1667,6 +1667,7 @@
       app.spellingState.correct = 0;
       app.spellingState.wrongWords = [];
       app.spellingState.answers = {};
+      app.spellingState.roundId = (app.spellingState.roundId || 0) + 1;
 
       showSpellingPractice();
       showNextSpellingQuestion();
@@ -1827,10 +1828,15 @@
         state.correct++;
         const display = document.getElementById('wordDisplay');
         display.classList.add('success-flash');
+        const roundId = state.roundId;
         setTimeout(() => {
+          if (state.roundId !== roundId) return; // round changed, abort
           display.classList.remove('success-flash');
           state.currentIndex++;
-          setTimeout(() => showNextSpellingQuestion(), 800);
+          setTimeout(() => {
+            if (state.roundId !== roundId) return; // round changed, abort
+            showNextSpellingQuestion();
+          }, 800);
         }, 800);
       } else {
         state.wrongWords.push(word.word);
@@ -2195,10 +2201,14 @@
       document.getElementById('retryErrorsBtn').addEventListener('click', () => {
         const errorWords = app.spellingState.wrongWords;
         const filteredWords = app.spellingState.words.filter(w => errorWords.includes(w.word));
+        if (filteredWords.length === 0) return;
+        app.spellingState.roundId = (app.spellingState.roundId || 0) + 1;
         app.spellingState.words = filteredWords;
         app.spellingState.currentIndex = 0;
         app.spellingState.correct = 0;
         app.spellingState.wrongWords = [];
+        app.spellingState.answers = {};
+        showSpellingPractice();
         showNextSpellingQuestion();
       });
 

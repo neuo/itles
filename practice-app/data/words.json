@@ -270,6 +270,210 @@
       "word": "spa",
       "hint": "",
       "sentence": "The hotel has a spa and wellness centre."
+    },
+    {
+      "word": "homestay",
+      "cn": "家庭寄宿",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "surroundings",
+      "cn": "环境",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "community",
+      "cn": "社区",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "rural",
+      "cn": "农村",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "downtown",
+      "cn": "市区",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "flat",
+      "cn": "公寓",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "living",
+      "cn": "起居室",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dining",
+      "cn": "餐厅",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "study",
+      "cn": "书房",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "blackout",
+      "cn": "停电",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lift",
+      "cn": "升降梯",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "heater",
+      "cn": "热水器",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "maker",
+      "cn": "咖啡机",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "fridge",
+      "cn": "冰箱",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sofa",
+      "cn": "沙发",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "kettle",
+      "cn": "水壶",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "toilet",
+      "cn": "马桶",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "oven",
+      "cn": "烤箱",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dishwasher",
+      "cn": "洗碗机",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "telephone",
+      "cn": "电话",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "washing",
+      "cn": "洗衣机",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "conditioner",
+      "cn": "空调",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "radiator",
+      "cn": "暖气",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tenancy",
+      "cn": "租期",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "noisy",
+      "cn": "吵闹的",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "humid",
+      "cn": "潮湿的",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sheet",
+      "cn": "被单",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "armchair",
+      "cn": "扶手椅",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "decorate",
+      "cn": "装饰",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "garden",
+      "cn": "花园",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bath",
+      "cn": "浴缸",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pet",
+      "cn": "宠物",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tap",
+      "cn": "水龙头",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bed",
+      "cn": "床",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "旅行/交通": [
@@ -500,6 +704,222 @@
       "word": "camping",
       "hint": "",
       "sentence": "We are camping in the mountains."
+    },
+    {
+      "word": "backpacker",
+      "cn": "背包客",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "valley",
+      "cn": "峡谷",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "rainforest",
+      "cn": "雨林",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hotspring",
+      "cn": "温泉",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sleeping",
+      "cn": "睡袋",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "flashlight",
+      "cn": "手电筒",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "insect",
+      "cn": "昆虫",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "boots",
+      "cn": "登山靴",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "jumping",
+      "cn": "蹦极",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "climbing",
+      "cn": "攀岩",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hiking",
+      "cn": "徒步",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "surfing",
+      "cn": "冲浪",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "resort",
+      "cn": "度假地",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "voyage",
+      "cn": "航行",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "driving",
+      "cn": "越野",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tram",
+      "cn": "有轨电车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "truck",
+      "cn": "卡车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "underground",
+      "cn": "地铁",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "subway",
+      "cn": "地铁",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cruiser",
+      "cn": "游轮",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "wheel",
+      "cn": "轮子",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "steering",
+      "cn": "方向盘",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "brake",
+      "cn": "刹车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "motel",
+      "cn": "汽车旅馆",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "license",
+      "cn": "驾照",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "attendant",
+      "cn": "空乘",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "steward",
+      "cn": "空乘",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "arrival",
+      "cn": "到达",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "snack",
+      "cn": "零食",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "refreshment",
+      "cn": "茶点",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hotel",
+      "cn": "宾馆",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "beach",
+      "cn": "海滩",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "taxi",
+      "cn": "出租车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cab",
+      "cn": "出租车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "inn",
+      "cn": "客栈",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bus",
+      "cn": "公交车",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "银行/金融": [
@@ -635,6 +1055,66 @@
       "word": "bankruptcy",
       "hint": "",
       "sentence": "The company filed for bankruptcy."
+    },
+    {
+      "word": "note",
+      "cn": "纸币",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "coin",
+      "cn": "硬币",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "chequebook",
+      "cn": "支票簿",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "card",
+      "cn": "卡",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "account",
+      "cn": "账户",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "activate",
+      "cn": "激活",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "statement",
+      "cn": "银行对帐单",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "rate",
+      "cn": "利率",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "PIN",
+      "cn": "密码",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "ATM",
+      "cn": "自动取款机",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "学术/课程": [
@@ -797,6 +1277,690 @@
       "word": "rock art",
       "hint": "",
       "sentence": "Rock art shows ancient culture."
+    },
+    {
+      "word": "attendance",
+      "cn": "出勤",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "report",
+      "cn": "报告",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "reference",
+      "cn": "参考书目",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cheat",
+      "cn": "作弊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "distinction",
+      "cn": "良好",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "credit",
+      "cn": "合格",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pass",
+      "cn": "及格",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "fail",
+      "cn": "不及格",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "examination",
+      "cn": "期末考核",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "quiz",
+      "cn": "小测验",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dropout",
+      "cn": "辍学",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "enrollment",
+      "cn": "注册",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "register",
+      "cn": "注册",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "enroll",
+      "cn": "报到",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "ceremony",
+      "cn": "开学典礼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "form",
+      "cn": "申请表",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "recommendation",
+      "cn": "推荐信",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "mark",
+      "cn": "分数",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "score",
+      "cn": "分数",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "grade",
+      "cn": "成绩",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "handout",
+      "cn": "印刷品",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "presentation",
+      "cn": "专题发言",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "project",
+      "cn": "课外课题",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "thesis",
+      "cn": "毕业论文",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "essay",
+      "cn": "短论文",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "draft",
+      "cn": "草稿",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "defense",
+      "cn": "答辩",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "extension",
+      "cn": "延期",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "participation",
+      "cn": "课堂参与",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "education",
+      "cn": "教育",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "freshman",
+      "cn": "大一学生",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sophomore",
+      "cn": "大二学生",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "auditorium",
+      "cn": "大礼堂",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "kindergarten",
+      "cn": "幼儿园",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "nursery",
+      "cn": "托儿所",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "postgraduate",
+      "cn": "研究生",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "appraisal",
+      "cn": "毕业评估",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "commencement",
+      "cn": "毕业典礼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "faculty",
+      "cn": "教职员工",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dean",
+      "cn": "系主任",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "principal",
+      "cn": "校长",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "president",
+      "cn": "校长",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "coordinator",
+      "cn": "班主任",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lecturer",
+      "cn": "讲师",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "counselor",
+      "cn": "校辅导员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "advisor",
+      "cn": "职业指导官",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "adviser",
+      "cn": "导师",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "mentor",
+      "cn": "导师",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "chancellor",
+      "cn": "名誉校长",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "term",
+      "cn": "学期",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "year",
+      "cn": "学年",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "facilities",
+      "cn": "教学设施",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "refectory",
+      "cn": "食堂",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "building",
+      "cn": "教学楼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "centre",
+      "cn": "娱乐中心",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sponsor",
+      "cn": "赞助人",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "proficiency",
+      "cn": "英语流利度",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "textbook",
+      "cn": "课本",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "methodology",
+      "cn": "教学法",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "debate",
+      "cn": "辩论",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "conference",
+      "cn": "会议厅",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "venue",
+      "cn": "场地",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "grant",
+      "cn": "助学金",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tuition",
+      "cn": "学费",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "fellowship",
+      "cn": "研究生奖学金",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "union",
+      "cn": "学生会",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "arrangement",
+      "cn": "课程安排",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "syllabus",
+      "cn": "教学大纲",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "extracurricular",
+      "cn": "课外课程",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "title",
+      "cn": "标题",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "subtitle",
+      "cn": "副标题",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "abstract",
+      "cn": "摘要",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "introduction",
+      "cn": "引言",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "section",
+      "cn": "章节",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "conclusion",
+      "cn": "结论",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bibliography",
+      "cn": "参考书目",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "index",
+      "cn": "索引",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "appendix",
+      "cn": "附录",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "limit",
+      "cn": "词数限制",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "quotation",
+      "cn": "引用",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "example",
+      "cn": "例子",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "analysis",
+      "cn": "数据分析",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bold",
+      "cn": "黑体",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "italics",
+      "cn": "斜体",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "underline",
+      "cn": "下划线",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "highlight",
+      "cn": "加亮",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "outline",
+      "cn": "大纲",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "number",
+      "cn": "页码",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "format",
+      "cn": "格式",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "collection",
+      "cn": "数据收集",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "submit",
+      "cn": "上交",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "proofreading",
+      "cn": "校对",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "print",
+      "cn": "打印",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sickness",
+      "cn": "疾病",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "illness",
+      "cn": "疾病",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "feedback",
+      "cn": "反馈",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "poll",
+      "cn": "民意调查",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "survey",
+      "cn": "调查",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "case",
+      "cn": "案例调查",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "observation",
+      "cn": "观察法",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hypothesis",
+      "cn": "假设",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "statistics",
+      "cn": "统计",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "valid",
+      "cn": "有效的",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "invalid",
+      "cn": "无效的",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "investigation",
+      "cn": "调查",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "respondent",
+      "cn": "被调查者",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "results",
+      "cn": "结果",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "interpretation",
+      "cn": "解释",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "opinion",
+      "cn": "观点",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "due",
+      "cn": "到期的",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "law",
+      "cn": "法学",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "art",
+      "cn": "艺术",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "data",
+      "cn": "数据",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lab",
+      "cn": "实验室",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "职业/工作": [
@@ -1044,6 +2208,108 @@
       "word": "senior managers",
       "hint": "",
       "sentence": "Senior managers lead the company."
+    },
+    {
+      "word": "position",
+      "cn": "空缺职位",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "resume",
+      "cn": "简历",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "background",
+      "cn": "学术背景",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "experience",
+      "cn": "经验",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "skill",
+      "cn": "技能",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "personality",
+      "cn": "性格",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "interviewer",
+      "cn": "面试官",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "interviewee",
+      "cn": "面试者",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "salesman",
+      "cn": "推销员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "waiter",
+      "cn": "服务员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cleaner",
+      "cn": "清洁工",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "designer",
+      "cn": "设计师",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "actor",
+      "cn": "演员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "actress",
+      "cn": "演员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "shift",
+      "cn": "倒班",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "vacation",
+      "cn": "假期",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tax",
+      "cn": "税",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "运动/健身": [
@@ -1171,6 +2437,108 @@
       "word": "water-ride",
       "hint": "有连字符",
       "sentence": "The water-ride is the most popular attraction."
+    },
+    {
+      "word": "center",
+      "cn": "健身中心",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cycling",
+      "cn": "骑自行车",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "training",
+      "cn": "力量训练",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "golf",
+      "cn": "高尔夫球",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bowling",
+      "cn": "保龄球",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "snooker",
+      "cn": "斯诺克",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "skating",
+      "cn": "滑冰",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "blade",
+      "cn": "单排轮滑",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "baseball",
+      "cn": "棒球",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "softball",
+      "cn": "垒球",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "volleyball",
+      "cn": "沙滩排球",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "martial",
+      "cn": "武术",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "boxing",
+      "cn": "拳击",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "field",
+      "cn": "田径",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "athlete",
+      "cn": "运动员",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "leader",
+      "cn": "啦啦队",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pool",
+      "cn": "台球/游泳池",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "餐饮": [
@@ -1288,6 +2656,72 @@
       "word": "maize",
       "hint": "",
       "sentence": "Maize is also called corn."
+    },
+    {
+      "word": "hall",
+      "cn": "餐厅",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "salad",
+      "cn": "沙拉吧",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "spicy",
+      "cn": "辣",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sweet",
+      "cn": "甜",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sour",
+      "cn": "酸",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bitter",
+      "cn": "苦",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "salty",
+      "cn": "咸",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "chips",
+      "cn": "炸鱼派和土豆条",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pork",
+      "cn": "猪肉",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "course",
+      "cn": "主菜",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hot",
+      "cn": "辣",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "娱乐": [
@@ -1383,6 +2817,138 @@
       "word": "keyboard",
       "hint": "",
       "sentence": "He plays keyboard in a band."
+    },
+    {
+      "word": "circus",
+      "cn": "马戏",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "magic",
+      "cn": "魔术",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "trick",
+      "cn": "魔术",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "house",
+      "cn": "歌剧院",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "mime",
+      "cn": "哑剧",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "guitarist",
+      "cn": "吉他",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pianist",
+      "cn": "钢琴家",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "singer",
+      "cn": "歌手",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "puppet",
+      "cn": "木偶",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "release",
+      "cn": "发行",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "blockbuster",
+      "cn": "大片",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "comedy",
+      "cn": "喜剧",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "drama",
+      "cn": "戏剧",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sci-fi",
+      "cn": "科幻片",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cartoon",
+      "cn": "动画片",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "music",
+      "cn": "乡村音乐",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "classic",
+      "cn": "古典音乐",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pop",
+      "cn": "流行音乐",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "rock",
+      "cn": "摇滚乐",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "jazz",
+      "cn": "爵士乐",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "piano",
+      "cn": "钢琴",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "guitar",
+      "cn": "吉他",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "地图题方位词": [
@@ -2272,6 +3838,456 @@
       "word": "canal",
       "hint": "",
       "sentence": "The canal connects two cities."
+    },
+    {
+      "word": "terrain",
+      "cn": "地形",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "plain",
+      "cn": "平原",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "plateau",
+      "cn": "高原",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "wetland",
+      "cn": "湿地",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "marshes",
+      "cn": "沼泽",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pasture",
+      "cn": "牧场",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "shelf",
+      "cn": "冰架",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "floods",
+      "cn": "洪水",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "typhoon",
+      "cn": "台风",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "hurricane",
+      "cn": "飓风",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tornado",
+      "cn": "龙卷风",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "storm",
+      "cn": "暴风雪",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "thunderstorm",
+      "cn": "雷暴雨",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dust",
+      "cn": "沙尘暴",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "subterranean",
+      "cn": "地下水",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "reservoir",
+      "cn": "水库",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pond",
+      "cn": "池塘水",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "evaporation",
+      "cn": "蒸发",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "petroleum",
+      "cn": "石油",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "barren",
+      "cn": "贫瘠的矿井",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "kangaroo",
+      "cn": "袋鼠",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "koala",
+      "cn": "考拉",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "wombat",
+      "cn": "袋熊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lion",
+      "cn": "狮子",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "sheep",
+      "cn": "绵羊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "elephant",
+      "cn": "大象",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cattle",
+      "cn": "牛",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "goat",
+      "cn": "山羊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bear",
+      "cn": "北极熊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "wolf",
+      "cn": "狼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tiger",
+      "cn": "老虎",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "puppy",
+      "cn": "小狗",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "calf",
+      "cn": "小牛犊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lamb",
+      "cn": "羔羊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "ostrich",
+      "cn": "鸵鸟",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "kiwi",
+      "cn": "几维鸟",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "falcon",
+      "cn": "猎鹰",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "chicks",
+      "cn": "小鸡",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "insects",
+      "cn": "昆虫",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "butterfly",
+      "cn": "蝴蝶",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dragonfly",
+      "cn": "蜻蜓",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "firefly",
+      "cn": "萤火虫",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "worms",
+      "cn": "蠕虫",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "whale",
+      "cn": "鲸鱼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dolphin",
+      "cn": "海豚",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "shark",
+      "cn": "鲨鱼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "crocodile",
+      "cn": "鳄鱼",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tortoise",
+      "cn": "乌龟",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "branch",
+      "cn": "枝",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "petal",
+      "cn": "花瓣",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "pine",
+      "cn": "松树",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "fruit",
+      "cn": "果树",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "strawberry",
+      "cn": "草莓",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "mulberry",
+      "cn": "桑树",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "coco",
+      "cn": "椰树",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "banana",
+      "cn": "香蕉",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "greenhouse",
+      "cn": "温室",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "transplant",
+      "cn": "移植",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "dam",
+      "cn": "坝/水坝",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "gas",
+      "cn": "汽油/天然气",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "coal",
+      "cn": "煤",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "gold",
+      "cn": "金",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "fox",
+      "cn": "狐狸",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bee",
+      "cn": "蜜蜂",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "cub",
+      "cn": "幼兽",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "bud",
+      "cn": "芽/蓓蕾",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "stem",
+      "cn": "干/茎",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "root",
+      "cn": "根",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "leaf",
+      "cn": "叶子",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "lake",
+      "cn": "湖泊",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "river",
+      "cn": "河流",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "grass",
+      "cn": "草",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "flower",
+      "cn": "花",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "plant",
+      "cn": "植物",
+      "hint": "",
+      "sentence": ""
+    },
+    {
+      "word": "tree",
+      "cn": "树",
+      "hint": "",
+      "sentence": ""
     }
   ],
   "时间/日期": [

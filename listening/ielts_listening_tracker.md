@@ -13,6 +13,8 @@
 | 4/7 | 1 | 剑4 T1 | S1 | 6 | 10 | 0 | 0 | 2 | 0 | 2 | 0 | 用审题预判。数字混淆×2 + tennis/table tennis混淆 + 编号漏字母 + 格式不完整 |
 | 4/9 | 1 | 剑6 T2 | S1 | 4 | 10 | 0 | 1 | 3 | 0 | 2 | 0 | 否定陷阱(green/red) + 答案不完整×3(bottle tops/Undersea Worlds/silver paper) + 数字听错 |
 | 4/9 | 1 | 剑6 T1 | S2 | 7 | 10 | 0 | 3 | 0 | 0 | 0 | 0 | 匹配题同义替换精度不够(fewer=reduced/twice as many=doubled/two large=increased in size) |
+| 4/12 | 2 | 剑5 T2 | S1 | 6 | 10 | 0 | 0 | 3 | 0 | 1 | 0 | 数字没听懂×2(125→145, 1.50→1) + 多数字混淆(48→14) + 信息过载漏听(local papers) |
+| 4/12 | 2 | 剑5 T3 | S1 | 5 | 10 | 1 | 0 | 4 | 0 | 0 | 0 | 数字没听懂(1.4→2.6) + 完全没听到×3(automatic/Alton/Lion) + 审题没看懂arrange→credit写成credit card |
 
 ---
 
@@ -20,7 +22,7 @@
 
 | 周次 | 日期范围 | S1平均 | S2平均 | S3平均 | S4平均 | 套题总分 | 目标分 | 达标 | 同义替换积累 | 精听段数 | 本周主要错因 | 下周重点 |
 |------|----------|--------|--------|--------|--------|----------|--------|------|-------------|----------|-------------|----------|
-| 1 | 4/6-4/12 | | | | | | 5 | | 15 | | | |
+| 1 | 4/6-4/12 | 5.7 | 6.5 | — | — | ~12/20 | 5 | ⚠️ | 15+ | 4段 | 同义替换35%+语速漏听40% | S1答案完整性+否定词 |
 | 2 | 4/13-4/19 | | | | | | 5.5 | | 40 | | | |
 | 3 | 4/20-4/26 | | | | | | 5.5 | | 70 | | | |
 | 4 | 4/27-5/3 | | | | | | 6 | | 100 | | | |
@@ -37,7 +39,7 @@
 
 | 周次 | 审题未划到 | 同义替换 | 语速漏听 | 拼写错误 | 审题失误 | 走神 | 总错题数 | 最主要错因 |
 |------|-----------|----------|----------|----------|----------|------|----------|-----------|
-| 1 | | | | | | | | |
+| 1 | 0 | 7 | 8 | 1 | 4 | 0 | 20 | 同义替换+语速漏听（75%） |
 | 2 | | | | | | | | |
 | 3 | | | | | | | | |
 | 4 | | | | | | | | |
@@ -140,6 +142,26 @@
 | more or less the same | that costs more or less the same | 没听出来，"差不多一样（的价格）" | | | | 待复习 |
 | have to pay by the hour | you have to pay for those by the hour | have to 和 hour 都没抓到，收费信号丢失 | | | | 待复习 |
 
+### 剑5 T2 S1（4/12发现）
+
+| 卡点词/短语 | 所在句子 | 卡住原因 | D+1 | D+7 | D+30 | 状态 |
+|------------|----------|----------|-----|-----|------|------|
+| £125 (one hundred and twenty-five) | it's £125 per year | 百位数连读没听懂，听成 145 | | | | 待复习 |
+| £1.50 (one fifty) | The minimum fine is £1.50 | 小数金额 point fifty 没听到，只听到 one | | | | 待复习 |
+| 48 (forty-eight) | the earliest you can book is forty-eight hours | 和 twenty-four / six 混淆，听成 14 | | | | 待复习 |
+| local papers | We've also got all the local papers | 前面一串报纸名过载后漏听 | | | | 待复习 |
+| 5p a sheet | 5p a sheet for both A4 and A3 | A4 and A3 连读 + black and 连读，整句崩溃 | | | | 待复习 |
+
+### 剑5 T3 S1（4/12发现）
+
+| 卡点词/短语 | 所在句子 | 卡住原因 | D+1 | D+7 | D+30 | 状态 |
+|------------|----------|----------|-----|-----|------|------|
+| 1.4 (one point four) | a 1.4 should do | 连续 1.2/1.4/1.6 三个小数没听清 | | | | 待复习 |
+| automatic | I'd want automatic | 完全没听到，可能被前面 manual 卡住 | | | | 待复习 |
+| arrange | Customer wishes to arrange | 审题词汇不认识，导致听到答案不敢写 | | | | 待复习 |
+| Alton | A-L-T-O-N | 地名+拼写纠正都没抓到 | | | | 待复习 |
+| Lion | it's called a Lion - like the animal | 完全没听到 | | | | 待复习 |
+
 ---
 
 ## 五、审题教训（每次做题后积累）
@@ -156,3 +178,6 @@
 | 4/9 | S1 Q3 | **先说正确答案再说 don't + 干扰项是经典陷阱**。green button（答案）→ don't press red（干扰）。听到颜色/数字后注意后面有没有否定词 | 否定陷阱 |
 | 4/9 | S1 Q8-10 | **答案写完前多等半秒，确认修饰词是否完整**。bottle tops 不是 bottle，silver paper 不是 paper，Undersea Worlds 不是 undersea | 填空题 |
 | 4/9 | S2 Q13-14 | **匹配题：听到题目关键词后，抓紧跟的动作词配对**。fewer seats = reduced / twice as many = doubled / two large rooms = increased in size | 匹配题 |
+| 4/12 | S1 Q4(C5T3) | **审题词汇要认识**：arrange = 安排/办理。"Customer wishes to arrange ___" 问的是付款方式，答案是 credit/cash/loan 这类词 | 填空题 |
+| 4/12 | S1 Q4(C5T3) | **第一次听到的答案别改**，除非有纠正信号（sorry/I mean/actually）。听到 credit 就写，后面出现 credit card 是另一个语境 | 填空题 |
+| 4/12 | S1 Q6(C5T2) | **"up to / the earliest / maximum" 对应最大值**，不要被中间的数字带走。24/6/48 三个数字，up to 对应 48 | 数字题 |

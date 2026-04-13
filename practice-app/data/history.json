@@ -180,6 +180,192 @@
           "neighbourhood",
           "tenant"
         ]
+      },
+      {
+        "date": "2026-04-12T15:11:13.579Z",
+        "category": "旅行/交通",
+        "total": 45,
+        "correct": 45,
+        "wrongWords": [
+          "bicycle",
+          "compass",
+          "souvenir",
+          "coach",
+          "caravan",
+          "itinerary",
+          "waterfall",
+          "canoe",
+          "hostel",
+          "helicopter",
+          "monument",
+          "monument",
+          "petrol station",
+          "snorkelling",
+          "vehicle",
+          "brochure",
+          "schedule",
+          "cathedral",
+          "sailing",
+          "parachuting",
+          "customs",
+          "aquarium",
+          "package"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:18:22.206Z",
+        "category": "旅行/交通:错词",
+        "total": 22,
+        "correct": 22,
+        "wrongWords": [
+          "souvenir",
+          "caravan",
+          "itinerary",
+          "hostel",
+          "snorkelling",
+          "cathedral",
+          "aquarium"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:18:27.768Z",
+        "category": "旅行/交通:错词",
+        "total": 0,
+        "correct": 0,
+        "wrongWords": []
+      },
+      {
+        "date": "2026-04-12T15:28:44.809Z",
+        "category": "银行/金融",
+        "total": 26,
+        "correct": 26,
+        "wrongWords": [
+          "postage",
+          "fund",
+          "budget",
+          "guarantee",
+          "bills",
+          "receipt",
+          "bankruptcy",
+          "commission",
+          "mortgage",
+          "cheque",
+          "expenditure"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:30:19.194Z",
+        "category": "银行/金融",
+        "total": 0,
+        "correct": 0,
+        "wrongWords": []
+      },
+      {
+        "date": "2026-04-12T15:38:17.621Z",
+        "category": "银行/金融:错词",
+        "total": 11,
+        "correct": 11,
+        "wrongWords": [
+          "guarantee",
+          "expenditure"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:38:40.306Z",
+        "category": "银行/金融:错词",
+        "total": 2,
+        "correct": 2,
+        "wrongWords": [
+          "guarantee"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:38:56.635Z",
+        "category": "银行/金融:错词",
+        "total": 1,
+        "correct": 1,
+        "wrongWords": [
+          "guarantee"
+        ]
+      },
+      {
+        "date": "2026-04-12T15:39:02.587Z",
+        "category": "银行/金融:错词",
+        "total": 1,
+        "correct": 1,
+        "wrongWords": []
+      },
+      {
+        "date": "2026-04-12T15:56:23.799Z",
+        "category": "职业/工作",
+        "total": 66,
+        "correct": 66,
+        "wrongWords": [
+          "enterprise",
+          "tax",
+          "background",
+          "merchant",
+          "receptionist",
+          "cleaner",
+          "assistant",
+          "personality",
+          "clerk",
+          "worker",
+          "senior managers",
+          "amateur",
+          "vacancy",
+          "board",
+          "craftsmen",
+          "commission",
+          "tourism",
+          "business organization",
+          "applicant",
+          "composer",
+          "corporation",
+          "corporation",
+          "fisherman",
+          "agriculture",
+          "vacation",
+          "actor",
+          "executives",
+          "personnel",
+          "signature",
+          "designer",
+          "salesman",
+          "carpenter",
+          "hunter",
+          "employers"
+        ]
+      },
+      {
+        "date": "2026-04-12T16:18:19.421Z",
+        "category": "职业/工作",
+        "total": 33,
+        "correct": 33,
+        "wrongWords": [
+          "merchant",
+          "receptionist",
+          "clerk",
+          "senior managers",
+          "senior managers",
+          "amateur",
+          "board",
+          "craftsmen",
+          "applicant",
+          "corporation",
+          "fisherman",
+          "executives",
+          "salesman",
+          "carpenter",
+          "employers"
+        ]
+      },
+      {
+        "date": "2026-04-12T16:20:15.284Z",
+        "category": "职业/工作",
+        "total": 14,
+        "correct": 14,
+        "wrongWords": []
       }
     ],
     "wordStats": {
@@ -220,15 +406,15 @@
         "lastWrong": null
       },
       "challenging": {
-        "attempts": 5,
-        "correct": 4,
-        "lastSeen": "2026-04-05",
+        "attempts": 6,
+        "correct": 5,
+        "lastSeen": "2026-04-12",
         "lastWrong": "2026-04-04"
       },
       "withdraw": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-04",
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
         "lastWrong": null
       },
       "February": {
@@ -244,9 +430,9 @@
         "lastWrong": null
       },
       "colleague": {
-        "attempts": 6,
-        "correct": 3,
-        "lastSeen": "2026-04-05",
+        "attempts": 7,
+        "correct": 4,
+        "lastSeen": "2026-04-12",
         "lastWrong": "2026-04-05"
       },
       "refrigerator": {
@@ -256,16 +442,16 @@
         "lastWrong": "2026-04-10"
       },
       "accountant": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-04",
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
         "lastWrong": null
       },
       "vacancy": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-04",
-        "lastWrong": null
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
       },
       "ballet": {
         "attempts": 5,
@@ -472,9 +658,9 @@
         "lastWrong": "2026-04-08"
       },
       "cable car": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-08",
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
         "lastWrong": null
       },
       "origin": {
@@ -490,10 +676,10 @@
         "lastWrong": null
       },
       "bicycle": {
-        "attempts": 4,
-        "correct": 2,
-        "lastSeen": "2026-04-09",
-        "lastWrong": "2026-04-09"
+        "attempts": 7,
+        "correct": 4,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
       },
       "moderate": {
         "attempts": 1,
@@ -1076,6 +1262,774 @@
         "correct": 1,
         "lastSeen": "2026-04-10",
         "lastWrong": null
+      },
+      "compass": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "destination": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "navigation": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "ferry": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "castle": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "souvenir": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "coach": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "caravan": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "camping": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "reservation": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "itinerary": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "waterfall": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "canoe": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "sculpture": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "backpack": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "expedition": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "hostel": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "excursion": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "helicopter": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "monument": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "lorry": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "petrol station": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "snorkelling": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "vehicle": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "brochure": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "schedule": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "campsite": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "exhibition": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "passenger": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "transit": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "platform": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "departure": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "cathedral": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "shuttle": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "temple": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "sailing": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "passport": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "parachuting": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "customs": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "luggage": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "aquarium": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "package": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "map": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "bank statement": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "documentation": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "postage": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "fund": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "money": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "budget": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "insurance": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "guarantee": {
+        "attempts": 9,
+        "correct": 5,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "currency": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "bills": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "bank transfer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "receipt": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "debt": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "voucher": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "bankruptcy": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "interest": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "commission": {
+        "attempts": 6,
+        "correct": 4,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "mortgage": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "cheque": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "overdraft": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "capital": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "transfer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "loan": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "expenditure": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "administration": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "enterprise": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "tax": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "background": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "mining": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "forestry": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "merchant": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "resume": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "receptionist": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "firm": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "cleaner": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "industry": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "administrative": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "assistant": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "promotion": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "lifeguard": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "personality": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "clerk": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "waiter": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "manager": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "worker": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "senior managers": {
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "amateur": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "experience": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "referee": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "board": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "waitress": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "salary": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "craftsmen": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "engineer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "shift": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "interview": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "fishing": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "tourism": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "employees": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "advertising": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "business organization": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "applicant": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "actress": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "composer": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "corporation": {
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "position": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "fisherman": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "agriculture": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "vacation": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "pension": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "actor": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "executives": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "personnel": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "occupation": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "signature": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "designer": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "farmer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "salesman": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "interviewer": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "interviewee": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "skill": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "professional": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-12",
+        "lastWrong": null
+      },
+      "carpenter": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "hunter": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
+      },
+      "employers": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-12",
+        "lastWrong": "2026-04-12"
       }
     },
     "starredWords": {}
