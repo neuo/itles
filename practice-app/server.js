@@ -40,9 +40,18 @@ function getHistory() {
       synonym: {
         sessions: [],
         groupRatings: {}
+      },
+      number: {
+        sessions: [],
+        sentenceStats: {}
       }
     };
     writeJSON(historyPath, history);
+  }
+
+  // Backfill number section for older history.json
+  if (!history.number) {
+    history.number = { sessions: [], sentenceStats: {} };
   }
 
   return history;
@@ -84,6 +93,19 @@ function mergeHistory(incomingData) {
       history.synonym.groupRatings = {
         ...history.synonym.groupRatings,
         ...incomingData.synonym.groupRatings
+      };
+    }
+  }
+
+  if (incomingData.number) {
+    if (!history.number) history.number = { sessions: [], sentenceStats: {} };
+    if (incomingData.number.sessions) {
+      history.number.sessions = incomingData.number.sessions;
+    }
+    if (incomingData.number.sentenceStats) {
+      history.number.sentenceStats = {
+        ...history.number.sentenceStats,
+        ...incomingData.number.sentenceStats
       };
     }
   }
@@ -196,6 +218,15 @@ const server = http.createServer((req, res) => {
     const synonyms = readJSON(synonymsPath);
     res.writeHead(200, { 'Content-Type': 'application/json' });
     res.end(JSON.stringify(synonyms || { groups: [] }));
+    return;
+  }
+
+  // API: GET /api/numbers
+  if (pathname === '/api/numbers' && method === 'GET') {
+    const numbersPath = path.join(DATA_DIR, 'numbers.json');
+    const numbers = readJSON(numbersPath);
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(numbers || { sentences: [] }));
     return;
   }
 

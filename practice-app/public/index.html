@@ -871,12 +871,13 @@
   <div class="container">
     <header>
       <h1>雅思词汇练习</h1>
-      <p class="subtitle">拼写听写 | 同义词联想 | 统计分析</p>
+      <p class="subtitle">拼写听写 | 同义词联想 | 数字听写 | 统计分析</p>
     </header>
 
     <div class="nav-tabs">
       <button class="nav-tab-btn active" data-tab="spelling">拼写听写</button>
       <button class="nav-tab-btn" data-tab="synonym">同义词联想</button>
+      <button class="nav-tab-btn" data-tab="number">数字听写</button>
       <button class="nav-tab-btn" data-tab="stats">统计</button>
     </div>
 
@@ -1013,6 +1014,67 @@
       </div>
     </div>
 
+    <!-- NUMBER DICTATION SECTION -->
+    <div id="number" class="section">
+      <div id="number-picker" class="card">
+        <h2>数字听写（短时记忆训练）</h2>
+        <p style="font-size: 13px; color: #86868b; margin: 6px 0 14px;">
+          流程：点击「播放句子」听 2 遍 → 输入你听到的数字/年份/价格 → 提交判分。<br>
+          每轮 5 句，随机抽取。右下方会显示本轮到期配比建议。
+        </p>
+        <div class="category-grid" id="numberLevelGrid"></div>
+        <div style="margin-top: 12px; font-size: 12px; color: #86868b;">
+          <strong>配比建议</strong>（按 number_drill.md Day 数）：<br>
+          Day 1-3: L1×3 + L2×1 + L3×1　|　Day 4-7: L1×2 + L2×2 + L3×1　|　Day 8-11: L1×1 + L2×2 + L3×2　|　Day 12-14: L1×1 + L2×1 + L3×3
+        </div>
+      </div>
+
+      <div id="number-practice" class="card" style="display: none;">
+        <div class="controls">
+          <button id="numPlayBtn" class="btn-secondary">🔊 播放句子</button>
+          <div class="speed-control">
+            <span style="font-size: 12px; color: #86868b;">速度:</span>
+            <button class="num-speed-btn speed-btn active" data-speed="1">1x</button>
+            <button class="num-speed-btn speed-btn" data-speed="0.9">0.9x</button>
+            <button class="num-speed-btn speed-btn" data-speed="0.8">0.8x</button>
+          </div>
+        </div>
+
+        <div class="question-area">
+          <div id="numberProgress" style="text-align: center; font-size: 13px; color: #86868b; margin-bottom: 6px;"></div>
+          <div class="question-label">听句子，写下数字</div>
+          <div id="numberLevelTag" style="text-align: center; font-size: 12px; color: #007aff; margin-bottom: 8px;"></div>
+          <div class="input-group">
+            <input type="text" id="numberInput" placeholder="多个数字用空格分隔（如 60 80 100）..." autocomplete="off">
+          </div>
+          <div id="numberRevealArea" style="display: none; margin-top: 14px; padding: 12px; background: #f5f5f7; border-radius: 10px; font-size: 14px;"></div>
+        </div>
+
+        <div id="numberFeedbackArea"></div>
+
+        <div class="button-group">
+          <button id="numSubmitBtn" class="btn-primary">提交 (Enter)</button>
+          <button id="numRevealBtn" class="btn-secondary">显示原文</button>
+          <button id="numSkipBtn" class="btn-secondary">跳过</button>
+          <button id="numBackBtn" class="btn-secondary">返回</button>
+        </div>
+      </div>
+
+      <div id="number-result" class="card" style="display: none;">
+        <h2>本轮结果</h2>
+        <div class="result-summary">
+          <div class="result-score" id="numberResultScore">0/0</div>
+          <div class="result-text">数字准确率</div>
+        </div>
+        <div id="numberWrongList"></div>
+        <div class="button-group">
+          <button id="numRetryBtn" class="btn-primary">再练错句</button>
+          <button id="numNewRoundBtn" class="btn-secondary">新一轮</button>
+          <button id="numBackBtn2" class="btn-secondary">返回</button>
+        </div>
+      </div>
+    </div>
+
     <!-- STATS SECTION -->
     <div id="stats" class="section">
       <div class="card">
@@ -1066,6 +1128,16 @@
         wrongWords: [],
         answers: {}
       },
+      numbers: { sentences: [] },
+      numberState: {
+        levelSelected: null,
+        queue: [],
+        currentIndex: 0,
+        correct: 0,
+        wrongSentences: [],
+        revealed: false,
+        submitted: false
+      },
       synonymCategories: [],
       synonymState: {
         selectedCategory: null,
@@ -1117,16 +1189,23 @@
         app.synonyms = await fetch('/api/synonyms').then(r => r.json());
         app.synonymCategories = app.synonyms.categories || [];
         renderSynonymCategoryFilter();
+        try {
+          app.numbers = await fetch('/api/numbers').then(r => r.json());
+        } catch (e) { app.numbers = { sentences: [] }; }
         app.history = await fetch('/api/history').then(r => r.json());
         // Initialize starredWords if missing
         if (!app.history.spelling) app.history.spelling = {};
         if (!app.history.spelling.starredWords) app.history.spelling.starredWords = {};
+        if (!app.history.number) app.history.number = { sessions: [], sentenceStats: {} };
+        if (!app.history.number.sentenceStats) app.history.number.sentenceStats = {};
         app.stats = await fetch('/api/stats').then(r => r.json());
 
         setupNavigation();
         renderSpellingCategories();
+        renderNumberLevels();
         renderStats();
         setupEventListeners();
+        setupNumberListeners();
       } catch (e) {
         console.error('Failed to load data:', e);
       }
@@ -2572,6 +2651,434 @@
       a.download = `ielts-stats-${date}.md`;
       a.click();
       URL.revokeObjectURL(url);
+    }
+
+    // ============================================
+    // NUMBER DICTATION MODULE
+    // ============================================
+
+    function getNumberDayConfig() {
+      // Day 数从 number_drill.md 的起始日 4/17 算起（Day 1）
+      const start = new Date('2026-04-17T00:00:00');
+      const today = new Date();
+      const days = Math.max(1, Math.floor((today - start) / 86400000) + 1);
+      let config;
+      if (days <= 3) config = { L1: 3, L2: 1, L3: 1, label: `Day ${days}（L1×3 + L2×1 + L3×1）` };
+      else if (days <= 7) config = { L1: 2, L2: 2, L3: 1, label: `Day ${days}（L1×2 + L2×2 + L3×1）` };
+      else if (days <= 11) config = { L1: 1, L2: 2, L3: 2, label: `Day ${days}（L1×1 + L2×2 + L3×2）` };
+      else config = { L1: 1, L2: 1, L3: 3, label: `Day ${days}（L1×1 + L2×1 + L3×3）` };
+      return config;
+    }
+
+    function renderNumberLevels() {
+      const grid = document.getElementById('numberLevelGrid');
+      if (!grid) return;
+      grid.innerHTML = '';
+
+      const cfg = getNumberDayConfig();
+
+      // 按 Day 配比
+      const dayBtn = document.createElement('button');
+      dayBtn.className = 'category-btn smart-random';
+      dayBtn.innerHTML = `📅 按今日配比（5句）<br><span style="font-size:11px;opacity:.85">${cfg.label}</span>`;
+      dayBtn.addEventListener('click', () => startNumberRound('day'));
+      grid.appendChild(dayBtn);
+
+      // 单级别按钮
+      ['L1', 'L2', 'L3'].forEach(level => {
+        const count = (app.numbers.sentences || []).filter(s => s.level === level).length;
+        const btn = document.createElement('button');
+        btn.className = 'category-btn';
+        const desc = level === 'L1' ? '4位年份/编号' : level === 'L2' ? '7位电话号码' : '价格/时间/多数字';
+        btn.innerHTML = `${level} ${desc}<br><span style="font-size:11px;opacity:.7">共 ${count} 句</span>`;
+        btn.addEventListener('click', () => startNumberRound(level));
+        grid.appendChild(btn);
+      });
+
+      // 混合
+      const mixBtn = document.createElement('button');
+      mixBtn.className = 'category-btn';
+      mixBtn.textContent = '🎲 全部随机（5句）';
+      mixBtn.addEventListener('click', () => startNumberRound('mix'));
+      grid.appendChild(mixBtn);
+
+      // 错句重练
+      const wrongBtn = document.createElement('button');
+      wrongBtn.className = 'category-btn error-words';
+      const wrongIds = getNumberWrongIds();
+      wrongBtn.textContent = `错句重练 (${wrongIds.length})`;
+      wrongBtn.addEventListener('click', () => {
+        if (!wrongIds.length) { alert('暂无错句记录'); return; }
+        startNumberRound('wrong');
+      });
+      grid.appendChild(wrongBtn);
+    }
+
+    function getNumberWrongIds() {
+      const stats = (app.history.number && app.history.number.sentenceStats) || {};
+      return Object.keys(stats).filter(id => {
+        const s = stats[id];
+        const acc = s.attempts > 0 ? s.correct / s.attempts : 1;
+        return acc < 0.5 && s.attempts > 0;
+      });
+    }
+
+    function pickNumberSentences(mode) {
+      const all = app.numbers.sentences || [];
+      if (!all.length) return [];
+
+      if (mode === 'wrong') {
+        const wrongIds = getNumberWrongIds();
+        return all.filter(s => wrongIds.includes(s.id));
+      }
+
+      if (['L1', 'L2', 'L3'].includes(mode)) {
+        const pool = all.filter(s => s.level === mode);
+        return shuffle(pool).slice(0, Math.min(5, pool.length));
+      }
+
+      if (mode === 'mix') {
+        return shuffle([...all]).slice(0, 5);
+      }
+
+      // day mode - 按配比
+      const cfg = getNumberDayConfig();
+      const out = [];
+      ['L1', 'L2', 'L3'].forEach(lv => {
+        const pool = all.filter(s => s.level === lv);
+        out.push(...shuffle(pool).slice(0, cfg[lv]));
+      });
+      return shuffle(out);
+    }
+
+    function shuffle(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function startNumberRound(mode) {
+      const queue = pickNumberSentences(mode);
+      if (!queue.length) { alert('没有可用的题目'); return; }
+      app.numberState = {
+        levelSelected: mode,
+        queue,
+        currentIndex: 0,
+        correct: 0,
+        wrongSentences: [],
+        revealed: false,
+        submitted: false
+      };
+      document.getElementById('number-picker').style.display = 'none';
+      document.getElementById('number-result').style.display = 'none';
+      document.getElementById('number-practice').style.display = 'block';
+      renderNumberQuestion();
+    }
+
+    function renderNumberQuestion() {
+      const st = app.numberState;
+      const q = st.queue[st.currentIndex];
+      if (!q) { finishNumberRound(); return; }
+
+      document.getElementById('numberProgress').textContent =
+        `第 ${st.currentIndex + 1} / ${st.queue.length} 句 · 正确 ${st.correct}`;
+      document.getElementById('numberLevelTag').textContent =
+        `${q.level} · ${q.source || ''}`;
+
+      const input = document.getElementById('numberInput');
+      input.value = '';
+      input.disabled = false;
+      input.focus();
+
+      document.getElementById('numberFeedbackArea').innerHTML = '';
+      const reveal = document.getElementById('numberRevealArea');
+      reveal.style.display = 'none';
+      reveal.innerHTML = '';
+
+      document.getElementById('numSubmitBtn').disabled = false;
+      document.getElementById('numSubmitBtn').textContent = '提交 (Enter)';
+      st.revealed = false;
+      st.submitted = false;
+
+      // 自动播放一次
+      setTimeout(() => playNumberAudio(q.sentence), 200);
+    }
+
+    function getNumberSpeed() {
+      const active = document.querySelector('.num-speed-btn.active');
+      return parseFloat((active && active.dataset.speed) || '1');
+    }
+
+    function playNumberAudio(text) {
+      if (!('speechSynthesis' in window)) return;
+      const utter = new SpeechSynthesisUtterance(text);
+      const voice = pickBestVoice();
+      if (voice) { utter.voice = voice; utter.lang = voice.lang; }
+      else utter.lang = 'en-GB';
+      utter.rate = getNumberSpeed();
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(utter);
+    }
+
+    // 规范化答案：去除 £/，/点周围空格，转小写，去掉标点
+    // 序数词 → 基数数字
+    const ORDINAL_WORDS = {
+      first: '1', second: '2', third: '3', fourth: '4', fifth: '5',
+      sixth: '6', seventh: '7', eighth: '8', ninth: '9', tenth: '10',
+      eleventh: '11', twelfth: '12', thirteenth: '13', fourteenth: '14',
+      fifteenth: '15', sixteenth: '16', seventeenth: '17', eighteenth: '18',
+      nineteenth: '19', twentieth: '20', thirtieth: '30'
+    };
+    // 基数词 → 数字
+    const CARDINAL_WORDS = {
+      one: '1', two: '2', three: '3', four: '4', five: '5',
+      six: '6', seven: '7', eight: '8', nine: '9', ten: '10',
+      eleven: '11', twelve: '12', thirteen: '13', fourteen: '14',
+      fifteen: '15', sixteen: '16', seventeen: '17', eighteen: '18',
+      nineteen: '19', twenty: '20', thirty: '30', forty: '40', fourty: '40',
+      fifty: '50', sixty: '60', seventy: '70', eighty: '80',
+      ninety: '90', hundred: '100', thousand: '1000'
+    };
+    // 月份（匹配时当作可选上下文，不影响核心数字判断）
+    const MONTH_WORDS = new Set([
+      'january', 'jan', 'february', 'feb', 'march', 'mar', 'april', 'apr',
+      'may', 'june', 'jun', 'july', 'jul', 'august', 'aug',
+      'september', 'sep', 'sept', 'october', 'oct', 'november', 'nov',
+      'december', 'dec'
+    ]);
+    // 填充词（可略）。注意：不包含 half/past/quarter（时间语义需要保留），不包含 teen/ty 类（数字词已走专门 map）
+    const FILLER_WORDS = new Set([
+      'the', 'of', 'a', 'an', 'and', 'or', 'to', 'in', 'on', 'at',
+      'for', 'about', 'is', 'was', 'were', 'are', 'that', 'this',
+      'between', 'from', 'pounds', 'pound', 'dollar', 'dollars',
+      'years', 'year', 'months', 'month', 'weeks', 'week', 'days', 'day',
+      'hours', 'hour', 'minutes', 'minute', 'sheet', 'sheets',
+      'p', 'times', 'per'
+    ]);
+
+    function normalizeToken(t) {
+      if (!t) return '';
+      const lower = t.toLowerCase();
+      // 带序数后缀的数字：10th / 1st / 2nd / 3rd
+      const ordMatch = lower.match(/^(\d+)(st|nd|rd|th)$/);
+      if (ordMatch) return ordMatch[1];
+      // 序数词/基数词
+      if (ORDINAL_WORDS[lower]) return ORDINAL_WORDS[lower];
+      if (CARDINAL_WORDS[lower]) return CARDINAL_WORDS[lower];
+      return lower;
+    }
+
+    function tokenize(s, keepContext = false) {
+      const raw = String(s || '').toLowerCase()
+        .replace(/£|\$/g, '')
+        .replace(/[:;,\/\-–—]/g, ' ')       // 标点当分隔符
+        .replace(/\s+/g, ' ').trim();
+      const tokens = raw.split(/\s+/).map(normalizeToken).filter(Boolean);
+      if (keepContext) return tokens;
+      // 去掉月份名和填充词，只保留核心数字/字母编号
+      return tokens.filter(t => !MONTH_WORDS.has(t) && !FILLER_WORDS.has(t));
+    }
+
+    // 判分策略：
+    // - 去掉月份/填充词后，比较核心 token 数组（不排序：保留顺序敏感性，避免 "9:30 9" 和 "9 9:30" 都通过）
+    // - 但为容错，也允许排序后匹配（因为用户可能写 "September 10" 或 "10 September"，经月份过滤后都是 "10"）
+    function checkNumberAnswer(userInput, answers) {
+      const userTokens = tokenize(userInput);
+      const userSorted = userTokens.slice().sort().join('|');
+      return answers.some(a => {
+        const aTokens = tokenize(a);
+        const aSorted = aTokens.slice().sort().join('|');
+        return aSorted === userSorted;
+      });
+    }
+
+    function submitNumberAnswer() {
+      const st = app.numberState;
+      if (st.submitted) return;
+      const q = st.queue[st.currentIndex];
+      const input = document.getElementById('numberInput');
+      const user = input.value.trim();
+      if (!user) { alert('请输入答案'); return; }
+
+      const correct = checkNumberAnswer(user, q.answers);
+      st.submitted = true;
+      input.disabled = true;
+
+      // 更新统计
+      const stats = app.history.number.sentenceStats;
+      if (!stats[q.id]) stats[q.id] = { attempts: 0, correct: 0 };
+      stats[q.id].attempts += 1;
+      if (correct) stats[q.id].correct += 1;
+      stats[q.id].lastSeen = new Date().toISOString();
+
+      // 显示结果
+      const feedback = document.getElementById('numberFeedbackArea');
+      if (correct) {
+        st.correct += 1;
+        feedback.innerHTML = `<div style="padding:10px 14px; background:#d1f5d3; color:#1a7f37; border-radius:10px; margin-top:10px;">✅ 正确：${q.answers[0]}</div>`;
+      } else {
+        st.wrongSentences.push({ ...q, userAnswer: user });
+        feedback.innerHTML = `<div style="padding:10px 14px; background:#fde2e2; color:#b42318; border-radius:10px; margin-top:10px;">
+          ❌ 你写：${user}<br>正确：${q.answers[0]}
+          ${q.hint ? `<div style="margin-top:6px; font-size:12px; color:#86868b;">💡 ${q.hint}</div>` : ''}
+        </div>`;
+      }
+
+      // 显示原文
+      const reveal = document.getElementById('numberRevealArea');
+      reveal.style.display = 'block';
+      reveal.innerHTML = `<strong>原句：</strong>${q.sentence}`;
+
+      // 按钮切换
+      document.getElementById('numSubmitBtn').textContent = st.currentIndex === st.queue.length - 1 ? '查看结果' : '下一句 (Enter)';
+      document.getElementById('numSubmitBtn').disabled = false;
+
+      persistNumberHistory();
+    }
+
+    function nextNumberQuestion() {
+      const st = app.numberState;
+      if (st.currentIndex === st.queue.length - 1) {
+        finishNumberRound();
+      } else {
+        st.currentIndex += 1;
+        renderNumberQuestion();
+      }
+    }
+
+    function skipNumberQuestion() {
+      const st = app.numberState;
+      if (!st.submitted) {
+        const q = st.queue[st.currentIndex];
+        st.wrongSentences.push({ ...q, userAnswer: '（跳过）' });
+      }
+      nextNumberQuestion();
+    }
+
+    function finishNumberRound() {
+      const st = app.numberState;
+      document.getElementById('number-practice').style.display = 'none';
+      document.getElementById('number-result').style.display = 'block';
+
+      document.getElementById('numberResultScore').textContent = `${st.correct}/${st.queue.length}`;
+
+      const list = document.getElementById('numberWrongList');
+      if (!st.wrongSentences.length) {
+        list.innerHTML = '<p style="text-align:center;color:#1a7f37;">全对！👏</p>';
+      } else {
+        list.innerHTML = '<h3 style="margin-top:16px;">错句回顾</h3>' +
+          st.wrongSentences.map(w => `
+            <div style="padding:12px; background:#f5f5f7; border-radius:10px; margin-top:8px;">
+              <div style="font-size:12px; color:#007aff; margin-bottom:4px;">${w.level} · ${w.source || ''}</div>
+              <div style="margin-bottom:6px;">${w.sentence}</div>
+              <div style="font-size:13px;">你写：<span style="color:#b42318;">${w.userAnswer}</span> ｜ 正确：<span style="color:#1a7f37;">${w.answers[0]}</span></div>
+              ${w.hint ? `<div style="margin-top:6px; font-size:12px; color:#86868b;">💡 ${w.hint}</div>` : ''}
+            </div>
+          `).join('');
+      }
+
+      // 存 session
+      if (!app.history.number.sessions) app.history.number.sessions = [];
+      app.history.number.sessions.push({
+        date: new Date().toISOString(),
+        mode: st.levelSelected,
+        total: st.queue.length,
+        correct: st.correct
+      });
+      persistNumberHistory();
+    }
+
+    function persistNumberHistory() {
+      fetch('/api/history', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ number: app.history.number })
+      }).catch(e => console.error('save number history failed', e));
+    }
+
+    function setupNumberListeners() {
+      // Speed buttons
+      document.querySelectorAll('.num-speed-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.num-speed-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+        });
+      });
+
+      const playBtn = document.getElementById('numPlayBtn');
+      if (playBtn) playBtn.addEventListener('click', () => {
+        const q = app.numberState.queue[app.numberState.currentIndex];
+        if (q) playNumberAudio(q.sentence);
+      });
+
+      const submitBtn = document.getElementById('numSubmitBtn');
+      if (submitBtn) submitBtn.addEventListener('click', () => {
+        if (!app.numberState.submitted) submitNumberAnswer();
+        else nextNumberQuestion();
+      });
+
+      const input = document.getElementById('numberInput');
+      if (input) input.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          if (!app.numberState.submitted) submitNumberAnswer();
+          else nextNumberQuestion();
+        }
+      });
+
+      const revealBtn = document.getElementById('numRevealBtn');
+      if (revealBtn) revealBtn.addEventListener('click', () => {
+        const q = app.numberState.queue[app.numberState.currentIndex];
+        if (!q) return;
+        const reveal = document.getElementById('numberRevealArea');
+        reveal.style.display = 'block';
+        reveal.innerHTML = `<strong>原句：</strong>${q.sentence}`;
+        app.numberState.revealed = true;
+      });
+
+      const skipBtn = document.getElementById('numSkipBtn');
+      if (skipBtn) skipBtn.addEventListener('click', skipNumberQuestion);
+
+      const backBtn = document.getElementById('numBackBtn');
+      if (backBtn) backBtn.addEventListener('click', () => {
+        document.getElementById('number-practice').style.display = 'none';
+        document.getElementById('number-picker').style.display = 'block';
+        renderNumberLevels();
+      });
+
+      const back2 = document.getElementById('numBackBtn2');
+      if (back2) back2.addEventListener('click', () => {
+        document.getElementById('number-result').style.display = 'none';
+        document.getElementById('number-picker').style.display = 'block';
+        renderNumberLevels();
+      });
+
+      const retryBtn = document.getElementById('numRetryBtn');
+      if (retryBtn) retryBtn.addEventListener('click', () => {
+        const wrongs = app.numberState.wrongSentences;
+        if (!wrongs.length) { alert('本轮全对，无需再练'); return; }
+        app.numberState = {
+          levelSelected: 'retry',
+          queue: wrongs.map(w => ({ ...w, userAnswer: undefined })),
+          currentIndex: 0,
+          correct: 0,
+          wrongSentences: [],
+          revealed: false,
+          submitted: false
+        };
+        document.getElementById('number-result').style.display = 'none';
+        document.getElementById('number-practice').style.display = 'block';
+        renderNumberQuestion();
+      });
+
+      const newBtn = document.getElementById('numNewRoundBtn');
+      if (newBtn) newBtn.addEventListener('click', () => {
+        document.getElementById('number-result').style.display = 'none';
+        document.getElementById('number-picker').style.display = 'block';
+        renderNumberLevels();
+      });
     }
 
     // Start app

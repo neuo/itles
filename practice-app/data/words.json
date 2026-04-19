@@ -5576,6 +5576,175 @@
           "material": "C4T1S1"
         }
       ]
+    },
+    {
+      "word": "arrow",
+      "hint": "/ˈærəʊ/ 箭 — 固定搭配 a bow and arrow（弓箭）。对比 narrow（狭窄的）",
+      "sentence": "archers displaying their skill with a bow and arrow",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "archers displaying their skill with a bow and arrow",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "past",
+      "hint": "/pɑːst/ 介词 = 经过。地图题看到 \"follow the path ___ the bridge\" 必是 past，不是 pass",
+      "sentence": "follow the path past the bridge",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "follow the path past the bridge, then you'll see it in front of you at the end",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "luxurious",
+      "hint": "/lʌɡˈʒʊəriəs/ 豪华的。luxury + ious",
+      "sentence": "She stayed there for four nights and apparently it was very luxurious.",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "apparently it was very luxurious",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "run-down",
+      "hint": "短语形容词 = 破败、年久失修。a bit run-down",
+      "sentence": "It was beginning to look a bit run-down.",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "it was beginning to look a bit run down",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "hint": "/θruː/ 穿过 — 注意 thr- 连读。\"instead of going through it\"",
+      "sentence": "turn right before you get there instead of going through it",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "turn right before you get there instead of going through it",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "traditional",
+      "hint": "tra-di-tion-al 形容词 = 传统的（修饰 dancing）。对比 tradition（名词）",
+      "sentence": "a short performance of traditional dancing",
+      "date": "2026-04-17",
+      "sources": [
+        {
+          "date": "2026-04-17",
+          "sentence": "a short performance of traditional dancing on the outdoor stage",
+          "material": "C14T2S2"
+        }
+      ]
+    },
+    {
+      "word": "altogether",
+      "hint": "一个词 = 副词 = 完全地。对比 all together（两个词，短语 = 一起）",
+      "sentence": "who had almost stopped walking altogether",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "people with similar difficulties, who had almost stopped walking altogether",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "hardly",
+      "hint": "hard + ly（去不掉的 ly）= 几乎不。没有 hardy 这个拼法（hardy 是耐寒的）",
+      "sentence": "so he hardly ever saw anyone",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "can't leave his home on his own, so he hardly ever saw anyone",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "themselves",
+      "hint": "复数反身代词，词尾 -selves（不是 themself）。they/them → themselves",
+      "sentence": "they can do something themselves to improve their situation",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "they aren't helpless and they can do something themselves",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "teenage",
+      "hint": "teen-age 形容词 = 青少年的。对比 teenager（名词）",
+      "sentence": "she volunteers with a teenage girl with learning difficulties",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "She volunteers with a teenage girl with learning difficulties",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "hint": "en-cour-age /ɪnˈkʌrɪdʒ/ = 鼓励。encourage sb to do sth",
+      "sentence": "Consuela encourages them to walk more and more",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "By using herself as an example, Consuela encourages them to walk more and more",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "calmly",
+      "hint": "calm + ly 副词 = 冷静地。注意 l 不发音 /ˈkɑːmli/",
+      "sentence": "By calmly talking over possible solutions with family members",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "By calmly talking over possible solutions with family members",
+          "material": "C14T3S2"
+        }
+      ]
+    },
+    {
+      "word": "difficulties",
+      "hint": "learning difficulties 固定搭配 = 学习障碍，永远用复数",
+      "sentence": "a teenage girl with learning difficulties",
+      "date": "2026-04-18",
+      "sources": [
+        {
+          "date": "2026-04-18",
+          "sentence": "a teenage girl with learning difficulties, who wasn't very good at talking to other people",
+          "material": "C14T3S2"
+        }
+      ]
     }
   ]
 }

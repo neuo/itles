@@ -2058,5 +2058,52 @@
         "lastSeen": "2026-04-04"
       }
     }
+  },
+  "number": {
+    "sessions": [
+      {
+        "date": "2026-04-18T00:50:55.797Z",
+        "mode": "mix",
+        "total": 5,
+        "correct": 3
+      }
+    ],
+    "sentenceStats": {
+      "c5t2s1-125": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-18T00:51:24.981Z"
+      },
+      "c14t2s1-1991": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-18T00:51:10.934Z"
+      },
+      "c5t2s1-5p-a4a3": {
+        "attempts": 1,
+        "correct": 0,
+        "lastSeen": "2026-04-18T00:50:18.674Z"
+      },
+      "c5t4s1-60-80": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-18T00:50:33.945Z"
+      },
+      "c5t4s1-930": {
+        "attempts": 1,
+        "correct": 0,
+        "lastSeen": "2026-04-18T00:50:46.575Z"
+      },
+      "c5t3s1-1.4": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-18T00:51:17.884Z"
+      },
+      "c14t1s1-10": {
+        "attempts": 1,
+        "correct": 0,
+        "lastSeen": "2026-04-18T00:51:44.062Z"
+      }
+    }
   }
 }

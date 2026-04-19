@@ -1,0 +1,132 @@
+{
+  "sentences": [
+    {
+      "id": "c14t1s1-1992",
+      "level": "L1",
+      "sentence": "So that was September the tenth, 1992.",
+      "answers": ["1992", "10 1992", "tenth 1992", "September 10 1992", "September 10th 1992", "10 September 1992", "10th September 1992", "the tenth of September 1992"],
+      "source": "C14T1S1",
+      "hint": "4位年份：fifteen/nineteen + 两位数。可只写年份也可写完整日期"
+    },
+    {
+      "id": "c14t2s1-1991",
+      "level": "L1",
+      "sentence": "Oh, I actually have 1991. I'll just correct that now.",
+      "answers": ["1991"],
+      "source": "C14T2S1",
+      "hint": "注意 correct 后面才是正确答案"
+    },
+    {
+      "id": "c5t2s1-125",
+      "level": "L1",
+      "sentence": "It's one hundred and twenty-five pounds per year.",
+      "answers": ["125"],
+      "source": "C5T2S1",
+      "hint": "one hundred and twenty-five = 125（百位数连读）"
+    },
+    {
+      "id": "c5t3s1-1.4",
+      "level": "L1",
+      "sentence": "I think a one point four should do.",
+      "answers": ["1.4"],
+      "source": "C5T3S1",
+      "hint": "小数 point 读法：1.4 = one point four"
+    },
+    {
+      "id": "c5t4s1-100",
+      "level": "L1",
+      "sentence": "I'd go up to a hundred.",
+      "answers": ["100"],
+      "source": "C5T4S1",
+      "hint": "a hundred = 100；'d = would"
+    },
+    {
+      "id": "c14t1s1-10",
+      "level": "L1",
+      "sentence": "So that was September the tenth.",
+      "answers": ["10", "10th", "tenth", "September 10", "September 10th", "10 September", "10th September", "the tenth of September", "September the tenth"],
+      "source": "C14T1S1",
+      "hint": "序数词 tenth = 10th。可写 10 / 10th / tenth / September 10th 等"
+    },
+    {
+      "id": "c14t2s1-phone",
+      "level": "L2",
+      "sentence": "It's two one nine, four four two, nine seven eight five.",
+      "answers": ["2194429785", "219 442 9785", "219-442-9785"],
+      "source": "C14T2S1 句10",
+      "hint": "7位电话，拆成 3-3-4 chunk 来记（你上次 7→6 错过）"
+    },
+    {
+      "id": "c5t2s1-48hrs",
+      "level": "L3",
+      "sentence": "The earliest you can book is forty-eight hours in advance.",
+      "answers": ["48"],
+      "source": "C5T2S1",
+      "hint": "forty-eight vs fourteen：重音在前=ty，重音在后=teen"
+    },
+    {
+      "id": "c5t2s1-fine",
+      "level": "L3",
+      "sentence": "The minimum fine is one pound fifty.",
+      "answers": ["1.50", "1.5", "£1.50"],
+      "source": "C5T2S1",
+      "hint": "one pound fifty = £1.50（pound 后直接跟便士数）"
+    },
+    {
+      "id": "c5t4s1-year",
+      "level": "L3",
+      "sentence": "I'm planning on staying a year.",
+      "answers": ["1", "1 year", "a year", "one year"],
+      "source": "C5T4S1 句21",
+      "hint": "a year = 1 year（不是半年也不是两年）"
+    },
+    {
+      "id": "c5t4s1-60-80",
+      "level": "L3",
+      "sentence": "Between sixty and eighty pounds a week, but I'd go up to a hundred.",
+      "answers": ["60 80 100", "60-80 100", "100"],
+      "source": "C5T4S1 句46",
+      "hint": "多数字陷阱：范围 60-80 是预算，100 才是最大值（up to = 最大）"
+    },
+    {
+      "id": "c5t4s1-930",
+      "level": "L3",
+      "sentence": "Between nine and half past.",
+      "answers": ["9 9:30", "9-9:30", "9:00 9:30", "9:00-9:30"],
+      "source": "C5T4S1",
+      "hint": "half past (nine) = 9:30。英式时间表达"
+    },
+    {
+      "id": "c14t2s1-3weeks",
+      "level": "L3",
+      "sentence": "It's three weeks since I first noticed it.",
+      "answers": ["3", "3 weeks", "three weeks"],
+      "source": "C14T2S1 句25",
+      "hint": "three 不要和 two/four 混"
+    },
+    {
+      "id": "c5t2s1-5p-a4a3",
+      "level": "L3",
+      "sentence": "Five p a sheet for both A four and A three.",
+      "answers": ["5 A4 A3", "5p A4 A3"],
+      "source": "C5T2S1",
+      "hint": "5p = 5 pence；A4/A3 = 纸张规格（A+数字连读）"
+    },
+    {
+      "id": "c5t3s1-decimals",
+      "level": "L3",
+      "sentence": "Depending whether you want a one point two, one point four, or one point six.",
+      "answers": ["1.2 1.4 1.6", "1.2, 1.4, 1.6"],
+      "source": "C5T3S1",
+      "hint": "连续小数，相邻值要听清 point 后面那个数字"
+    },
+    {
+      "id": "c14t2s1-3or4",
+      "level": "L3",
+      "sentence": "I go running a few times a week, maybe three or four times.",
+      "answers": ["3 4", "3 or 4", "three four"],
+      "source": "C14T2S1 句37",
+      "hint": "range 类表达，3 和 4 都要写"
+    }
+  ]
+}
