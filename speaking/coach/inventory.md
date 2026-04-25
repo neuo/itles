@@ -13,29 +13,36 @@
 | ~~just~~ | ~~轻描淡写，降低分量~~ | 3 ✓✓✓ | 4/18 "I'm just stuck behind a desk" — **已毕业** |
 | actually (functional) | 引入与预期相反的信息 | 3 ✓✓✓ | 4/16 "I'm actually not really a plant person" — **已毕业** |
 | get to | 有机会/能够做某事 | 0 | "Young people get to pursue what they enjoy" |
-| that kind of thing | 列举后收尾 | 2 ✓✓ | 4/18 "mortgage, career development, that kind of thing"（这次无 s ✓） |
+| ~~that kind of thing~~ | ~~列举后收尾~~ | 3 ✓✓✓ | 4/19 Q1 morning 自然使用，无 s ✓ — **已毕业** |
+| ~~though (句尾/中段)~~ | ~~不过/但是（口语转折）~~ | 3 ✓✓✓ | 4/22 Q2 "After lunch, though, I guard my nap time like it's sacred" — **已毕业** |
 | eat out | 去餐馆吃（≠eat outside） | 0 | "On weekdays I just eat out" |
-| though (句尾) | 不过/但是（口语转折） | 2 ✓✓ | 4/18 "Good time, though"（漏 s 但 though 位置对）|
-| be used to doing | 习惯做某事 | 0 | "I'm used to sitting at a desk all day" |
+| ~~though (句尾)~~ | ~~不过/但是（口语转折）~~ | 3 ✓✓✓ | 4/22 "After lunch, though, I guard my nap time like it's sacred" — **已毕业** |
+| be used to doing | 习惯做某事 | 1 ✓ | 4/19 Q2 food "were used to eating noodles" — 首次冷启动产出 |
 | unwind | 放松解压 | 0 | "Reading helps me unwind" |
 | you name it | 列举收尾 | 0 | "Code, docs, messages, you name it" |
 | blanketed in | 被...覆盖（画面感） | 0 | "Valleys blanketed in mist" |
 | quite a few | 相当多（不是很少） | 0 | "Quite a few people showed up" |
-| Good times, though. | 回忆过去收尾 | 0 — 4/18 结构找对但漏了复数 s | 4/18 "Good time, though" ← 差一个 s |
+| Good times, though. | 回忆过去收尾 | 2 ✓✓ | 4/19 Q1 "good times, though" ✅ / 4/22 though 已毕业大类，此短语继续自然产出中 |
 | fall into place | 事情自然就顺了 | 1 ✓ | 4/16 drilled "once you understand the question, the rest will fall into place" — 第一次漏 into |
 | haven't been allowed to... since | 从那以后再没被允许 | 0 | 4/16 drilled but mixed with "for months" — since 已含"至今"不需要 for |
 | without cutting corners | 没偷工减料 | 0 | "delivered on time without cutting corners" |
 | hardly ever | 几乎从不 | 1 ✓ | 4/16 自然冒出 |
-| stuck behind a desk | 困在办公桌后（替代 working at a desk） | 0 | 4/18 新增 |
+| stuck behind a desk | 困在办公桌后（替代 working at a desk） | 1 ✓ | 4/24 复产成功，注意是 behind 不是 in/at |
 | fall through | 计划泡汤 | 0 | 4/18 drill 2/2，待自然产出 |
 | back out (of sth) | 退出交易/承诺 | 0 | 4/18 新增 |
 | stay healthy and happy | 健康快乐（替代 "live together with safety, health and happiness"） | 0 | 4/18 取代 L1 直译 |
 | know X way better than I did in [past] | Band 7 比较框架 | 1 ✓ | 4/18 drill 经一次纠正后内化 |
+| drag oneself out of bed | 挣扎着起床 | 0 | 4/19 新增 |
+| not get tired of it | 吃不腻/不厌倦 | 0 | 4/19 新增 |
+| it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
+| I wouldn't trade it | 虽然忙/难，但值得（收尾） | 2 ✓✓ | 4/24 Q1 Walking — 复产成功 |
 
 ## Graduated (internalized, no longer needs drilling)
 
 - **actually (functional)** — 4/16 第 3 次成功（plants "I'm actually not really a plant person"）
 - **just** — 4/18 第 3 次成功（sports "I'm just stuck behind a desk"）
+- **that kind of thing** — 4/19 第 3 次成功（morning "the kindergarten run, going to work, that kind of thing"）
+- **though（句尾/中段对比）** — 4/22 第 3 次成功（Q2 nap "After lunch, though, I guard my nap time like it's sacred"）
 
 ## Notes
 - `back down` and `unresolved` were the two slip-ups in the first reformulation attempt — prioritize these

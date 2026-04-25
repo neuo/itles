@@ -847,6 +847,472 @@ S2 独白弱读密度远超 S1 对话。核心问题：代词、系动词、have
 
 ---
 
+## W3 Day 5（4/22 周三）
+
+### 今日任务完成情况
+
+- [x] **口语 P1×3**（Museum Q119 / Nap Q123 / Sharing Q127）✅ 顺延终于补回
+- [x] **C15T2S2 精听 3 段**（[3-4] unlike结构 / [10] considered / [19] southwest corner）✅ 跟读完成
+- [x] **听力套题：C15T3 S1+S2**（6/10 + 3/10）
+- [x] **写作：精读 Pie Chart+Table 范文**（Task 1 Guide）✅
+- [ ] 数字训练 app 5min — 待完成
+
+### 口语：P1×3
+
+**毕业** 🎓：`though`（句尾/中段对比用法）
+- 触发句：Q2 "After lunch, though, I guard my nap time like it's sacred"
+- 自然、正确、有对比功能
+
+**新增冷启动 ✓**：`it's the thought that counts`（count 0→1，Q3 Drawing 结尾自然产出）
+
+**P9/P13 双零**：三题均无书面语和 L1 直译触发，是 W2 以来最干净的一次
+
+**主谓一致新警报**：复数主语连错两题
+- Q1 "barely sit" → sits（三人称 -s，和听力同源）
+- Q3 "there was three figures" → were（复数主语）
+
+**Q 未回答提醒**：Q2 问 nap 后的感受，但答了 nap 习惯。内容走偏需注意。
+
+---
+
+### 听力：C15T2S2 精听
+
+3 段全部完成。跟读完成。
+
+**核心发现：**
+- [3-4] `unlike X, Y` 对比结构漏——关系从句 `that started in` 是 Q11 答案信号的逻辑枢纽，全丢了
+- [10] **最重要**：`considered taking it over` → 听成 `took over`，意义完全反转。`considered` = 想了但没做，Q13 错因根源。与 `isn't so much` / `unlike` 是**同根问题**：连接逻辑的小词（considered/unlike/isn't）没抓到，语义整体反转
+- [19] 只漏 `for` 一个介词，`southwest corner` + `right-angle bend` 全抓到 ✅
+
+---
+
+### 听力：C15T3 S1+S2 套题
+
+**S1 6/10**：Q1（公司名vs产品），Q2/Q6（-s漏写），Q8（感受句里的team被warehouse覆盖）
+
+**S2 3/10**：Q12✅ Q14✅ Q16✅，其余全错
+- Q11：同段两数字（2 years 筹备 vs 3 years 运行），抓了错的那个
+- Q13：police 被轻描淡写否定，真答案是 wardens
+- Q15：未作答，语速死机
+- Q17：A 被原文明确否定（"not doing anything particularly energetic"）
+- Q18：extended family → community（paraphrase 没识别）
+- Q19：hadn't expected/amazed = surprised 信号词没抓到，选了预期内的 C（air quality）
+- Q20：how much quieter → less noise pollution（paraphrase 没识别）
+
+**S2 核心错因**：否定信号 + predicted vs surprised 区分 + paraphrase，三重叠加
+
+---
+
+### 明日计划（W3 Day 6 | 4/23 周四）
+
+- [ ] D+1 跟读 C15T2S2（2 句）：① considered句 ② unlike句
+- [ ] 听力 S1+S2 套题限时（C15T3 S3+S4 或 新套）
+- [ ] C15T3 S2 精听：[16]+[17]（Q17-18，否定+paraphrase双陷阱）
+- [ ] 数字训练 app 5min
+- [ ] 口语 P1×3（`it's the thought that counts` 冲 count 2/3）
+- [ ] D+7 检查：C14T4S2（4/16做）
+
+---
+
+## W3 Day 6（4/23 周四）
+
+### 今日任务完成情况
+
+- [x] **口语 P1×3**（Happy Q143 / Memory Q139 / Free time Q135 ×2）✅
+- [x] **D+1 跟读** C15T2S2（considered句 + unlike句）✅
+- [x] **D+7 验收** C14T4S2 卡点句 1.1x ✅（能听到；D+30 时1.25x再验证）
+- [ ] **听力套题**：C15T3 S3+S4 限时 — 顺延至明天
+- [x] **C15T3 S2 精听**：[16]+[17] ✅ 跟读完成
+- [ ] 数字训练 — 跳过（今日做了字母听写）
+
+### 口语：P1×3
+
+**新增冷启动 ✓**：`I wouldn't trade it`（count 0→1，Q3 Free time 复产成功）
+
+**近失**：
+- `without cutting corners`（"cutting corner cases"——编程术语污染固定搭配）
+- `unwind`（"unwind my mind"——不及物动词误加宾语）
+
+**P9/P13 连续双零**：第二场无书面语和 L1 直译，压制趋势稳定
+
+**Pattern 5 回潮**：Q3 第二次 "Not really, actually, no"——句子开头最易触发 filler actually
+
+**Pattern 8 再次**："Classics programmer habit" → Classic（名词→形容词词形漏，第3次）
+
+**第三人称 -s 系统性警报**：三场连续——barely sit / there was / moment feel——非单一句型，是自动化缺口
+
+### 明日计划（W3 Day 7 | 4/24 周五）
+
+- [ ] D+1 跟读 C15T2S2（2 句）：① considered句 ② unlike句（顺延）
+- [ ] D+7 检查：C14T4S2 卡点句 1.1x（4/16做，今日到期）
+- [ ] 听力套题：C15T3 S3+S4 限时
+- [ ] C15T3 S2 精听：[16]+[17]（顺延）
+- [ ] 数字训练 app 5min
+- [ ] 口语：`it's the thought that counts` 冲 count 2/3 + 注意 actually 开头陷阱
+- [ ] D+1 跟读 C15T3S2（2句）：① "not doing anything particularly energetic" ② "confidence in themselves"
+- [ ] 听力套题：C15T3 S3+S4 限时（顺延）
+
+---
+
+## W3 Day 7（4/24 周五）
+
+### 今日任务完成情况
+
+- [x] D+1 跟读 C15T3S2（2句）✅
+- [x] 数字训练 app 5min ✅
+- [x] 口语 P1×4（Walking Q31 / Hobbies Q14 / Gifts Q24 / Kyoto Q34）✅
+- [ ] 听力套题：C15T3 S3+S4 + 周测 S3 基线（顺延）
+- [ ] 写作：闭书总结 T1 七项技巧（顺延）
+
+### 口语：P1×4
+
+| 表达 | 今日 | 累计 |
+|------|------|------|
+| `I wouldn't trade it` | ✓ | **2/3** |
+| `stuck behind a desk` | ✓ | **1/3** |
+| `it's the thought that counts` | ✓ | **2/3** |
+| `when it comes to X` | 首次冷产出 ✓ | — |
+
+**高频错误：**
+- Pattern 1 双重否定复发："without no destination"（without 已含否定）
+- Pattern 12 介词："have been Kyoto" → have been **to** Kyoto
+- 固定搭配：stuck **behind** a desk（不是 in/at）
+- 第三人称 -s 今日零触发 ✅（上周重点，今日压住）
+
+### 听力周测：C15T4 S1+S2+S3
+
+| Section | 得分 | 备注 |
+|---------|------|------|
+| S1 (Sophie Bird) | **8/10** 🎯 | Q3拼写(Staunfirth) + Q5数字(£23.70→25) |
+| S2 (Croft Valley Park) | **6/10** ✅ | 地图3/6 + 多选3/4 |
+| S3 (Refrigeration) | **9/10** | Q23负向paraphrase陷阱，Q25-30全对 |
+
+**第3周 Checkpoint 通过 ✅**：S2 ≥ 6/10、T1知识输入验收通过
+
+**核心发现：**
+- S1 8分是W3以来最高，审题预判稳定
+- S2 地图三错同根因：多步定位描述只抓第一个关键词，没等完整描述
+- Q20 陷阱："open Mon-Thu" = 周末关闭（选A），"hoped to extend to weekends soon" ≠ 已开（选E是陷阱）
+- S3 Q23："hardly ever break down" = 否定 C 选项，正确答案 B 在 sentence 13（dump in countryside）
+- S3 对话分任务结构 6/6 全对，S3 对话类是强项
+
+### 写作验收
+
+- T1 七项技巧闭书总结 ✅（Skill 1-7 全部覆盖，Skill 3 按图表类型的区分尤其准确）
+
+### 明日计划（W4 Day 1 | 4/25 周六）
+
+- [ ] **听力**：S2 做题法 1 套 + 加速 1.25x 已熟材料
+- [ ] **写作**：仿写 Line Chart 范文（限时练启动）
+- [ ] **口语**：默答 3 道 P1 + P2×1（`I wouldn't trade it` / `it's the thought that counts` 各冲最后 1 次）
+- [ ] D+1 跟读：C14T4S2 Croft Valley（Q12/Q13/Q15 三句定位描述）
+- [ ] 数字训练 5min
+
+---
+
+## W3 Day 4（4/21 周二）
+
+### 今日任务完成情况
+
+- [x] D+1 跟读 C15T1S2 精听段（5 个致命形近词：electric / horse-drawn / cafe / claimed / surviving）
+- [x] 听力做题：**C15T2S2 — 4/10**（多选 2/4 + 地图 4/6）
+- [x] 写作输入：T1 Guide Skill 5-7（时态 + 数据筛选 + 约数）— ⚠️ 当时背了但现在忘了（需要明天 D+1 回顾）
+- [ ] **C15T2S2 精听 3 段（Q11 [3-4] + Q13 [10] + Q19 [19]）**—— 顺延到明天
+- [ ] 口语 P1×3（`though` 句尾冲毕业）—— **连续顺延 3 天** ⚠️
+- [x] 数字训练 app 5min
+
+### 听力：C15T2S2 做题（4/10）
+
+**错题分布**：
+
+| Q | 我 → 正确 | 错因 |
+|---|---|---|
+| Q11 | B → C | **对比结构漏**：`unlike many public parks that started in private ownership` 听成"it started at private ownership"，意思反转。幻听"rich people living nearby"强化错误理解 |
+| Q13 | A → B | **决策链漏**：`army considered... got as far as contacting... then decided too small` 听成"army took over"，可能动作听成已发生动作 |
+| Q18 | I（原 A ✅）| **策略错**：Q19 也误选 A 反推 → 改掉本来对的 Q18。应该让 Q19 空着 |
+| Q19 | A → G | 方位复合词 `southwest corner` 漏听 + 信号词 `still in`（没变）未抓 |
+
+### 🎯 核心发现：Q11 & Q13 同源错因 — 逻辑链漏失
+
+两题都是**逻辑连接小词丢失 → 语义反转**：
+- Q11: `unlike X that started in Y... Minster was Z`（Z 和 Y 相反）→ 听成 "Minster 就是 Y"
+- Q13: `considered... then decided too small`（没做成）→ 听成"做成了"
+
+**关键词都抓到了**（private ownership / troop exercises / army / park），**连接逻辑的小词**没抓到，答案方向就跑反。
+
+**和 4/20 C15T1S1 Q3 `isn't so much` 同根**。连续两天暴露同一类问题：**对比/让步/否定结构中的小词**是下阶段跟读的重点——这类小词轻重音低、语速快，但承载语义反转。
+
+### Q18 策略教训
+
+做地图连续题时**不要"推理反推"改之前的答案**。"不可能两个都选 A → 改 Q18" 是错误决策：每题独立看证据强度，Q19 没把握 → Q19 留空，不要破坏 Q18 已听懂的判断。
+
+### 写作输入的"背了就忘"问题
+
+T1 Skill 3-4（昨天）+ 5-7（今天）输入完后都记不住。**范文输入法纯看不够**——需要：
+- D+1 必须回顾（明天先复习 3-4，再做 5-7 的 active recall）
+- 看完立刻**闭书复述**关键点（Overview 3-Step / 5 大功能句式 / 时态规则）
+- 后续写作启动时用 active use 而非 passive recall
+
+### 明日计划（W3 Day 5 | 4/22 周三）
+
+**顺延补回（优先级 ↑）**：
+- 🔴 **C15T2S2 精听 3 段**（句 3-4 / 10 / 19）— 重点做 paraphrase 步骤（不看原文自造抽象概括）
+- 🔴 **口语 P1×3**（连续顺延 3 天，明天必须做，不然 `though` 句尾会凉）
+  - 🔄 开口前先看 `speaking/coach/sessions/2026-04-19.md`（3 天前了，素材快凉）—— 尤其 `drag oneself out of bed` / `not get tired of it` / `it's the thought that counts` 三个教的表达，今天必须冷启动产出 1 个
+  - 扫 P9 书面→口语（owing to / residents / final work）+ P12 介词
+
+**新任务（calendar W3D5）**：
+- 听力：S1+S2 套题限时→S2 错题精听
+- 写作：精读 Pie Chart+Table 范文 —— **先闭书复述昨天+前天的 Skill 3-7**（否则又白看）
+
+**复习到期**：
+- D+1 跟读：**C15T2S2 精听段**（明天精听完后做）
+- D+7：4/15 前后的材料（C5T2S1）
+- D+30 暂无
+
+**新增跟读重点（跨天）**：**对比/让步/否定的连接小词**
+- `unlike X that... Y` · `considered V-ing... then decided` · `isn't so much X as Y`
+- 这类结构需要刻肌肉记忆到"听到 unlike 就竖起耳朵找 Y"
+
+---
+
+## W3 Day 2（4/20 周一）
+
+### 今日任务完成情况
+
+- [x] D+1 跟读 — C14T4S2 精听卡点句 ×5（抽象词连说 3 遍：full / swim / newbie / no knives-forks）
+- [x] **听力主练：C15T1 S1+S2 套题限时 40min**（S1 **7/10 🎯 突破 Week 2 目标！** + S2 5/10）
+- [x] **听力精听：C15T1S2 sentence 14-26 段**（Q15-Q19 密集区，约 2 分钟）
+- [x] 跟读 C15T1S2 精听段（看原文+不看原文各 1 遍，刻意念对致命词）
+- [x] 数字训练 app 5min
+- [x] **工具维护**：
+  - practice-app 精听卡点词日期筛选 bug 修复（`actualCategory` 多余赋值导致字符串不匹配，4/19 修的是 return 但这条漏了）
+  - 数字库扩充 16 → 40 句（suzy 反馈"一下就没了"）：L1×14 + L2×7 + L3×19，重点加 teens/tens 陷阱（90/25/70k）+ 多数字陷阱（700m/20km）+ 年份分半读（1576）
+- [x] 写作输入：T1 Guide Skill 3-4（Overview 3-Step 方法 + 5 大功能句式库）
+- [ ] 口语 P1 × 3 —— **顺延到明天**（听力耗时超出预期）
+
+### 听力：C15T1 S1 做题（7/10 🎯 突破）
+
+**错题**（4 类，全是熟面孔陷阱，无新问题）：
+
+| Q | 我的答案 | 正确 | 陷阱类型 |
+|---|---|---|---|
+| Q3 | business | communication | **否定转折**："isn't so much having business skills. It's communication..." 听到 business 就写，忽略 isn't so much 信号 |
+| Q4 | month | week | **主客观混淆**：Amber 愿望 "could get a month" ≠ William 事实 "offered a week"。题干 "jobs are usually" = 客观 |
+| Q6 | smart | suit | **审题语法失误**：空前 "a" 锁定可数名词单数，smart 形容词不合语法。同义替换 dress smartly → a suit |
+| Q10 | 未作答 | time | **S1 末尾走神漏听**（同 C14T2S1 Q10 vitamins）|
+
+**突破意义**：
+- S1 从近期平均 5.25 → 7，首次达 Week 2 Checkpoint 目标
+- 错题都是已识别的陷阱模式，说明 S1 基础理解力在改善
+- 审题规则（ONE WORD AND/OR 等）已内化
+- 剩下的 gap 是 production-side 的（否定信号识别 + 审题语法预判）
+
+### 听力：C15T1 S2 做题（5/10）+ 精听（里程碑）
+
+**做题错题分布**：
+- Q11-14 多选 3/4（Q12 Liverpool→Heysham 错：第一信息陷阱——"tour manager meet" 定位 Heysham，后面 "some people / another option" 是干扰）
+- **Q15-19 表格填空 5/5 全错 + Q20 capital 对**
+
+**suzy 自诊断**（一针见血）："**没有建立起我要听什么的概念**" —— 审题预判能力严重不足。
+
+### 🎯 今日最重要发现：审题预判 + 5 步精听组合拳验证
+
+**诊断训练**：让 suzy 不看原文、不听录音，只凭题干结构给 Q15-19 每题预判 3-5 个候选词。
+
+| 题 | 预判 | 评估 | 精听抓到 | 正确 |
+|---|---|---|---|---|
+| Q15 has view of the ___ | gate / ocean / mountain | 🟡 方向对 2/3，river 没 pop 出 | ✅ river | river |
+| Q16 founded in ___ not 979 | 975-977 | ❌ **"not X" 信号误读**（以为±小调整） | ✅ 1422 | 1422 |
+| Q17 train to the ___ of Snaefell | top / left / right | ✅ top 命中 | ✅ top | top |
+| Q18 provides a ___ for transport | 想不出 | 🚨 **概念词群不活跃** | ✅ pass | pass |
+| Q19 Take the ___ railway | electronic / high / steam(查) | 🟡 electronic ≠ electric | ✅ steam | steam |
+
+**核心发现（颠覆性）**：
+1. 裸测 Q15-19 5/5 全错 → 精听一遍后 5/5 答案词 + 979 + 1422 + parliament **全部抓到**
+2. **不是听不到，是没预设靶子**——有了预判 + 允许暂停，日常词都能捞出来
+3. 这验证了 4/19 的 paraphrase 诊断结论：**底层理解能力在线，是语音处理 CPU 占用 + 靶子缺失导致的 production 失败**
+
+### 审题预判能力暴露 3 个新 gap
+
+1. **"not X" 是强反驳信号**：考题写 "founded in ___ not 979"，答案与 X 必有**显著差异**（跨度几百年），不是 ±2-5 的小调整。suzy 以为要填 975-977 是对信号的误读。
+2. **概念词群不活跃**（Q18 最典型）：能想到"票券"概念，但 pass/ticket/card/voucher/permit 没批量 pop 出。**这和口语 register gap 同源**——被动识别 ✅，主动召回 ❌。production gap 在输入端的镜像。
+3. **形近词混淆**：electric (电力) vs electronic (电子)，suzy 预判阶段 + 精听阶段两次同错。horse-drawn vs house-driven 同类。
+
+### 精听新增卡点：6 组致命形近词 + 4 个专名 + 2 个生词
+
+**致命形近词（跟读刻肌肉记忆）**：
+- electric ≠ electronic（电力 vs 电子产品；train 必是 electric）
+- horse-drawn ≠ house-driven（马拉车；horse/house 最小对 + drawn/driven 过去分词形）
+- cafe /ˈkæfeɪ/ ≠ coffee /ˈkɒfi/（咖啡馆 vs 咖啡，/eɪ/ 音是关键）
+- claimed ≠ clear（It's claimed = 据称 vs It is clear = 很清楚，整句语气反转）
+- surviving ≠ survival（现在分词 vs 名词）
+- ride ≠ way（an X km ride vs an X km way，语义完全不同）
+
+**老问题反复（W3 Day 2 和 W1-W2 同源）**：
+- 第三人称 -s ×4（look/looks, are/there's + dining rooms/room, activities/activity）
+- 介词漏 ×4（look out [at], ride [on], is [from], or [for]）
+- 冠词误配 ×3
+
+**suzy 自诊断 working memory 爆仓**："听到了但写时忘了"。对策：
+- 每段切更短（8s → 5-6s）
+- 用简写（TM 代 tour manager, IoM 代 Isle of Man）
+- 跟读让发音自动化（熟悉的发音不占 working memory）
+
+### 写作：T1 Guide Skill 3-4 输入
+
+**Skill 3 Overview 写法（核心）**：
+- 3-Step Method：找最大特征（5s）→ 找第二个不同特征（5s）→ Overall 开头写 2 句不带数字
+- ⚠️ **missing overview = 最高只能 Band 5**
+- 建议背下前 4 个万能模板（趋势分化 / 明显主导 / 全涨全跌 / 对立趋势）
+
+**Skill 4 句式库**：按功能分 5 类（Opening / Data / Compare / Process-Map / Closing），每类挑 2-3 个背诵。
+
+### 工具变更（practice-app）
+
+| 修复/改动 | 说明 |
+|----------|------|
+| 精听卡点词日期筛选 bug | `index.html:1537-1540` 删除冗余的 `actualCategory = parts[0] + ':日期'` 赋值（破坏下游字符串匹配），保留 mode 标记即可 |
+| 数字库扩充 | 16 句 → 40 句（L1×14 L2×7 L3×19），覆盖 teens/tens 陷阱、多数字陷阱、年份分半读 |
+| 精听卡点词 +12 | C15T1 新增：electric / horse-drawn / cafe / claimed / surviving / leisurely / promenade / parliament / heritage / communication / personality / Jamieson |
+
+### 今日核心判断
+
+1. **S1 基础理解力在改善**（7/10 达标），S1 瓶颈从"整段跟不上"转向"陷阱识别精度"——这是质变。
+2. **S2 听力理解力比想象中强**（裸测→精听 0→5 转化），瓶颈主要在**审题预判 + 概念词群广度**，不是听不懂。
+3. **production gap 是输入和输出的共同问题**：口语写不出 = 听力审题预判不出 = 主动检索词汇弱。训练方向一致：**扩大活跃词群 + 批量词汇召回练习**。
+4. **致命形近词识别能力**是下阶段重点：electric/electronic、horse/house、claim/clear 这类需要跟读刻肌肉记忆。
+
+### 明日计划（W3 Day 3 | 4/21 周二）
+
+**听力**：
+- D+1 跟读 C15T1S2 精听段（**刻意念对**：electric / horse-drawn / cafe / claimed / surviving，各 3 遍）
+- D+1 跟读 C14T4S2 已完成（今天 ✅）
+- 做 1 套新 S2（calendar W3D4 任务提前）→ 精听错题
+- 数字训练 app 5min（Day 4 配比 L1×2 L2×2 L3×1）
+
+**口语**（**今天顺延的 P1 × 3 补上**）：
+- 刻意用 `though 句尾`（差 1 次毕业）
+- 开口前扫 P9（书面→口语：owing to / residents）+ P12（介词）
+- 目标：though 毕业
+
+**写作**：
+- T1 Guide Skill 5-7 输入（时态 + 数据筛选 + 约数表达）
+
+**复习到期**：
+- D+1 跟读：C15T1S2 精听段（重点 5 个致命词）
+- D+7 跟读：4/14 周做的材料如有（主要是 C5T1S2，已练过）
+- D+30 暂无到期
+
+---
+
+## W3 Day 1（4/19 周日）
+
+### 今日任务完成情况
+
+- [x] 口语 P1 × 3（morning / food / gifts，详见 speaking/coach/sessions/2026-04-19.md）
+- [x] D+1 跟读 — C14T3S2 精听卡点句 × 7（4/18精听发现的致命级卡点）
+- [x] 数字训练 app 5min
+- [x] practice-app bug 修复：精听卡点词日期筛选点击无反应（dateFilter 分支缺 return）
+- [x] 听力主练：C14T4S2 做题法（6/10，4 错全 paraphrase）
+- [x] 听力精听：C14T4S2 Q11-16 段 3 遍听写
+- [x] **🎯 Paraphrase 通路诊断测试：文字版 3/3 全对**（full / swim / newbie）→ 确认瓶颈不在归纳能力
+- [x] T1 Guide Skill 1-2（4/18 已提前完成）
+- [x] CLAUDE.md 更新：精听法从 4 步升级到 5 步（新增"造 paraphrase"步骤）
+
+### 口语
+
+**Cold production drill — P1 × 3**（详见 `speaking/coach/sessions/2026-04-19.md`）
+
+**毕业：** 🎓 "that kind of thing"（第 3 次自然正确使用）— 累计毕业 3 个表达（actually / just / that kind of thing）
+
+**进步：**
+- "Good times, though." 复数 s 首次落地（count 0→1）
+- "be used to doing" 首次冷启动产出（Q2 "were used to eating"）
+- 动词多样性提升：Q3 四个精准动词连用（made/printed/stuck/wrote），Pattern 2 未触发
+- 叙事结构三题均达 Band 7 水平
+
+**仍需注意：**
+- Pattern 9 书面→口语三题都出现（owing to / The residents living in / the final work）— 最顽固的问题
+- Pattern 12 介词：as breakfast → for breakfast
+- Pattern 8 词形：embarrassedly → embarrassingly
+
+### 听力：C14T4S2 做题（6/10）
+
+**题型分布**：Q11-16 搭配题（3/6）+ Q17-18 多选（2/2 ✅）+ Q19-20 多选（1/2）
+
+**所有 4 错全是 paraphrase（具体→抽象）**：
+
+| 题 | 选错 | 正确 | Paraphrase |
+|---|---|---|---|
+| Q11 | C only in good weather | G fully booked today | places left → fully booked |
+| Q15 | B suitable for beginners | F swimming possible | have a dip → swim |
+| Q16 | H transport not included | B suitable for beginners | never been on X → beginners |
+| Q20 | E horse races | D knives and forks not used | using hands instead of cutlery；E 是陷阱：jousting（骑士比武）≠ horse races |
+
+**核心发现**：连续两天 S2（4/17 C14T3S2 + 4/19 C14T4S2）错题集中在 paraphrase 转译。这是稳定的系统性弱点，不是偶发。多选题稳定全对（C14T3S2 Q11-14 + C14T4S2 Q17-18）说明听力本身听懂，瓶颈在"听到具体表达 → 立即想到抽象选项"的即时转译。
+
+**应对**：精听时强制加"先猜选项"环节——听到信号句暂停，先自己造 paraphrase，再对照选项。
+
+**卡点词已录入**：transcript 存 listening/transcripts/C14T4S2.md；tracker 新增 12 条；practice-app 精听卡点词 +7（cutlery / medieval / equestrian / canter / observatory / courtyard / difficulties 已存）。
+
+### 听力：C14T4S2 精听（3 遍听写）
+
+**suzy 自评**："听不懂是一，**记不下来**是二"——working memory 爆仓
+
+**致命错误汇总**：
+- 🚨 **Q11 答案句语义反转**：plenty seat（多位子）← any places left（没位子），方向完全反
+- 🚨 **Q15 数字 teens vs tens 致命**：19 ← 90（ninety 听成 nineteen）
+- 🔴 **致命词混淆 5 个**：guarded↔guided / heel↔hills / by bike↔to bike back / way↔waves / fan↔fun
+- 🔁 **老问题再犯**：第三人称 -s 漏 ×2（takes/costs→take/cost）+ 单复数 ×4 + 冠词 ×3 + 介词错 ×2
+
+**卡点词已录入**：dictation 存 listening/dictation_C14T4S2.md；tracker 新增 16 条；practice-app 精听卡点词 +8（guided / inclusive / inexperienced / waterproof / energetic / astronomy / ninety 等）。
+
+### 🎯 今日最重要发现：Paraphrase 通路诊断测试
+
+**背景**：精听后让 suzy 对 3 个答案信号句造 paraphrase，她回复 "这 3 句就是没懂，心里在想着这啥玩意和题目没关系"——说明字面意思懂但没抽象归纳。
+
+**诊断测试**：让 suzy 看**文字版**（消除听力占用），给 3 句各写一个类别词：
+
+| 文字原句 | suzy 答案 | 标准答案 | 判定 |
+|---|---|---|---|
+| there aren't any places left | full | fully booked | ✅ |
+| have a dip in the ocean | swim | swimming | ✅ |
+| never been on a horse before | newbie | beginner | ✅（拼写 newbee 不精准但概念完全对）|
+
+**结论（核心突破）**：
+
+1. **归纳能力完全正常**（看文字 3/3 全对，秒出）
+2. **真正瓶颈**：听力处理占用 95% CPU → 剩 5% 做归纳 → 无力抽象
+3. **训练方向调整**：
+   - ❌ 不用练阅读归纳 / 抽象思维（底层能力在线）
+   - ✅ 继续练"听音自动化"：number_drill 扩 working memory + 精听跟读刻发音记忆 + D+1/D+7/D+30 反复听同段
+   - ✅ 精听时强制做 paraphrase（视觉已解放，练"听到→归纳"这条通路的自动化）
+
+**这个诊断改变了训练策略的侧重点**：之前以为是认知层面的抽象困难，实际上是语音处理层面的 CPU 占用问题。这意味着大量精听+跟读+重复听的效果会比想象中更显著。
+
+---
+
+### 明日计划（W3 Day 2 | 4/20 周一）
+
+**听力（主）**：
+- D+1 跟读 C14T4S2 精听段 5 句（60 秒，看原文+不看原文各 1 遍）——**重点跟读时把抽象词连说 3 遍**（full / swim / newbie）
+- S1+S2 套题限时一套（calendar W3D3 任务，提前做）→ 精听错题
+- 数字训练 app 5min
+
+**口语**：
+- 默答 3 道 P1
+- 刻意用 though 句尾 + that kind of thing（that kind of thing 已毕业，维持使用）
+- 规避 Pattern 9 书面→口语（开口前自检）+ Pattern 12 介词
+
+**写作**：
+- T1 Guide Skill 3-4（Overview 段 + 句式库）——纯输入不限时
+
+**复习到期**：
+- D+1 跟读：C14T4S2 精听卡点句 ×5
+- D+7 跟读：4/13 周做的材料（如有）
+- D+30 暂无到期（最早 5/4）
+
 ## W2 Day 7（4/18 周六）
 
 ### 今日任务完成情况

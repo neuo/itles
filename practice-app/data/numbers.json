@@ -127,6 +127,317 @@
       "answers": ["3 4", "3 or 4", "three four"],
       "source": "C14T2S1 句37",
       "hint": "range 类表达，3 和 4 都要写"
-    }
+    },
+    {
+      "id": "c14t2s1-dob",
+      "level": "L1",
+      "sentence": "My date of birth is October tenth, 1992.",
+      "answers": ["1992", "10 1992", "October 10 1992", "October 10th 1992", "10 October 1992", "10/10/1992"],
+      "source": "C14T2S1 句12",
+      "hint": "四位年份 nineteen ninety-two；序数 tenth = 10th"
+    },
+    {
+      "id": "c14t2s2-1100",
+      "level": "L1",
+      "sentence": "There's been a castle on this site for over eleven hundred years.",
+      "answers": ["1100", "1,100", "eleven hundred"],
+      "source": "C14T2S2",
+      "hint": "eleven hundred = 1100（英语用 hundreds 计数到 19 世纪末常见）"
+    },
+    {
+      "id": "c14t2s2-400yrs",
+      "level": "L1",
+      "sentence": "It stayed in the de Vere family for over four hundred years.",
+      "answers": ["400", "four hundred"],
+      "source": "C14T2S2",
+      "hint": "four hundred = 400"
+    },
+    {
+      "id": "c14t2s2-4nights",
+      "level": "L1",
+      "sentence": "She stayed there for four nights.",
+      "answers": ["4", "4 nights", "four nights"],
+      "source": "C14T2S2",
+      "hint": "four 和 for 同音，主干动词是 stayed"
+    },
+    {
+      "id": "c14t2s2-18c",
+      "level": "L1",
+      "sentence": "It was extended and redesigned in the eighteenth century.",
+      "answers": ["18", "18th", "eighteenth", "18th century", "eighteenth century"],
+      "source": "C14T2S2",
+      "hint": "序数 eighteenth = 18th。注意 teen 重音在后"
+    },
+    {
+      "id": "c14t2s2-19c",
+      "level": "L1",
+      "sentence": "In the nineteenth century the owners had a little zoo.",
+      "answers": ["19", "19th", "nineteenth", "19th century", "nineteenth century"],
+      "source": "C14T2S2",
+      "hint": "序数 nineteenth = 19th"
+    },
+    {
+      "id": "c5t4s1-4months",
+      "level": "L1",
+      "sentence": "I'm definitely here for four months only.",
+      "answers": ["4", "4 months", "four months"],
+      "source": "C5T4S1 句21",
+      "hint": "four 不要和 a 混；注意后面 only 是限定词"
+    },
+    {
+      "id": "c5t4s1-2weeks",
+      "level": "L1",
+      "sentence": "I'd like to move in approximately two weeks.",
+      "answers": ["2", "2 weeks", "two weeks"],
+      "source": "C5T4S1 句50",
+      "hint": "two 不要和 to / too 混"
+    },
+    {
+      "id": "c14t2s1-114th",
+      "level": "L2",
+      "sentence": "They're down on 114th Street.",
+      "answers": ["114", "114th", "114 Street", "114th Street"],
+      "source": "C14T2S1 句15",
+      "hint": "one hundred and fourteenth = 114th（序数+街名）"
+    },
+    {
+      "id": "c5t3s1-7500",
+      "level": "L2",
+      "sentence": "The cash price is going to be somewhere in the region of seven and a half thousand.",
+      "answers": ["7500", "7,500", "£7500", "£7,500", "7.5 thousand"],
+      "source": "C5T3S1 句29",
+      "hint": "seven and a half thousand = 7500（半千 = 500，不是 7.5 也不是 750）"
+    },
+    {
+      "id": "c5t3s1-70k",
+      "level": "L2",
+      "sentence": "I know it's less than seventy thousand.",
+      "answers": ["70000", "70,000", "less than 70000", "seventy thousand"],
+      "source": "C5T3S1 句68",
+      "hint": "seventy thousand = 70000；注意 seventy（前重）vs seventeen（后重）"
+    },
+    {
+      "id": "c5t3s1-1.2",
+      "level": "L2",
+      "sentence": "The one I've got at the moment is a 1.2 litre engine.",
+      "answers": ["1.2", "1.2 litre", "one point two"],
+      "source": "C5T3S1 句8",
+      "hint": "小数 point：one point two = 1.2"
+    },
+    {
+      "id": "c5t2s1-24hrs",
+      "level": "L2",
+      "sentence": "Most people tend to book twenty-four hours in advance.",
+      "answers": ["24", "24 hours", "twenty-four hours"],
+      "source": "C5T2S1 句40",
+      "hint": "twenty-four = 24（tens+digit，连字符连读）"
+    },
+    {
+      "id": "c5t2s1-12items",
+      "level": "L2",
+      "sentence": "We allow twelve items borrowed at any one time if you're a student.",
+      "answers": ["12", "12 items", "twelve items"],
+      "source": "C5T2S1 句27",
+      "hint": "twelve = 12（特殊读法，不是 teens 模式）"
+    },
+    {
+      "id": "c14t4s2-25euros",
+      "level": "L3",
+      "sentence": "It's just 25 euros all inclusive, and it's every Wednesday.",
+      "answers": ["25", "25 euros", "€25", "twenty-five euros"],
+      "source": "C14T4S2 句8",
+      "hint": "twenty-five = 25。⚠️你之前错成 15，注意 tens vs teens"
+    },
+    {
+      "id": "c14t4s2-90euros",
+      "level": "L3",
+      "sentence": "They cost 90 euros per person.",
+      "answers": ["90", "90 euros", "€90", "ninety euros"],
+      "source": "C14T4S2 Q15",
+      "hint": "🚨 ninety /ˈnaɪnti/（前重）vs nineteen /ˌnaɪnˈtiːn/（后重）。你之前错成 19！"
+    },
+    {
+      "id": "c14t4s2-7km",
+      "level": "L3",
+      "sentence": "It's a guided walk of about seven kilometres.",
+      "answers": ["7", "7 km", "7 kilometres", "seven kilometres"],
+      "source": "C14T4S2 句6",
+      "hint": "seven /ˈsɛvən/ 两个音节。注意复数 -s"
+    },
+    {
+      "id": "c14t4s2-700m-20km",
+      "level": "L3",
+      "sentence": "It's a 700-metre drop in just 20 kilometres.",
+      "answers": ["700 20", "700m 20km", "700 metres 20 kilometres", "700-metre 20"],
+      "source": "C14T4S2 Q13",
+      "hint": "多数字：700（seven hundred）落差 + 20（twenty）公里距离"
+    },
+    {
+      "id": "c14t4s2-6pm",
+      "level": "L3",
+      "sentence": "You'll return by 6 pm.",
+      "answers": ["6", "6pm", "6 pm", "6 p.m.", "six pm"],
+      "source": "C14T4S2",
+      "hint": "by（……之前）≠ at（正好）"
+    },
+    {
+      "id": "c14t4s2-35euros",
+      "level": "L3",
+      "sentence": "It costs 35 euros.",
+      "answers": ["35", "35 euros", "€35", "thirty-five euros"],
+      "source": "C14T4S2",
+      "hint": "thirty-five = 35。注意第三人称 -s（costs）"
+    },
+    {
+      "id": "c14t2s2-1576",
+      "level": "L3",
+      "sentence": "Queen Elizabeth the First announced that she was going to visit the castle in 1576.",
+      "answers": ["1576"],
+      "source": "C14T2S2 句5",
+      "hint": "年份分两半读：fifteen seventy-six = 15 76"
+    },
+    {
+      "id": "c14t2s2-10min",
+      "level": "L3",
+      "sentence": "It's about ten minutes' walk or so.",
+      "answers": ["10", "10 minutes", "ten minutes"],
+      "source": "C14T2S2 句28",
+      "hint": "ten minutes' walk = 10 分钟的步行距离（所有格 's 表示时长）"
+    },
+    {
+      "id": "c14t3s2-2or3",
+      "level": "L3",
+      "sentence": "Most volunteers devote two or three hours to this every week, while a few do much more.",
+      "answers": ["2 3", "2 or 3", "two or three hours"],
+      "source": "C14T3S2 句3",
+      "hint": "range 范围：2-3 小时。注意 devote 后面跟时长"
+    },
+    {
+      "id": "c5t2s1-6hrs",
+      "level": "L3",
+      "sentence": "Sometimes you can get one with only six hours' notice.",
+      "answers": ["6", "6 hours", "six hours"],
+      "source": "C5T2S1 句40",
+      "hint": "six /sɪks/ 短促。和前句的 24 hours 对比不要混"
+    },
+
+    {"id":"drill-30","level":"L1","sentence":"There are thirty seats available in the hall.","answers":["30","thirty"],"source":"drill","hint":"thirty /ˈθɜːti/（前重）vs thirteen /ˌθɜːˈtiːn/（后重）——听第二音节重音判断"},
+    {"id":"drill-13","level":"L1","sentence":"The session lasts thirteen minutes.","answers":["13","thirteen"],"source":"drill","hint":"thirteen /ˌθɜːˈtiːn/（后重 teen）vs thirty /ˈθɜːti/（前重 ty）"},
+    {"id":"drill-14","level":"L1","sentence":"Only fourteen people have registered so far.","answers":["14","fourteen"],"source":"drill","hint":"fourteen（后重）vs forty（前重）——teen 结尾重音在 teen"},
+    {"id":"drill-40","level":"L1","sentence":"The membership costs forty pounds a year.","answers":["40","forty","£40"],"source":"drill","hint":"forty /ˈfɔːti/（前重）vs fourteen /ˌfɔːˈtiːn/（后重）"},
+    {"id":"drill-15","level":"L1","sentence":"We still have fifteen places left on the course.","answers":["15","fifteen"],"source":"drill","hint":"fifteen（后重）vs fifty（前重）"},
+    {"id":"drill-50","level":"L1","sentence":"The hall can seat up to fifty people.","answers":["50","fifty"],"source":"drill","hint":"fifty /ˈfɪfti/（前重）vs fifteen /ˌfɪfˈtiːn/（后重）"},
+    {"id":"drill-16","level":"L1","sentence":"We need at least sixteen volunteers this weekend.","answers":["16","sixteen"],"source":"drill","hint":"sixteen（后重）vs sixty（前重）"},
+    {"id":"drill-60","level":"L1","sentence":"The membership fee is sixty pounds per year.","answers":["60","sixty","£60"],"source":"drill","hint":"sixty /ˈsɪksti/（前重）vs sixteen /ˌsɪkˈstiːn/（后重）"},
+    {"id":"drill-17","level":"L1","sentence":"The journey takes seventeen minutes by train.","answers":["17","seventeen"],"source":"drill","hint":"seventeen（后重）vs seventy（前重）"},
+    {"id":"drill-70","level":"L1","sentence":"About seventy volunteers turned up on the day.","answers":["70","seventy"],"source":"drill","hint":"seventy /ˈsɛvənti/（前重）vs seventeen /ˌsɛvənˈtiːn/（后重）"},
+
+    {"id":"drill-dec-6.5","level":"L1","sentence":"The average score is six point five.","answers":["6.5"],"source":"drill","hint":"X point Y：point 后直接读小数位"},
+    {"id":"drill-dec-0.8","level":"L1","sentence":"The item weighs zero point eight kilograms.","answers":["0.8","0.8 kg"],"source":"drill","hint":"zero point eight = 0.8（零点几的读法）"},
+    {"id":"drill-dec-3.75","level":"L2","sentence":"The price fell to three point seven five per unit.","answers":["3.75"],"source":"drill","hint":"两位小数：point 后连读两个数字 seven five"},
+    {"id":"drill-dec-23.8","level":"L2","sentence":"Temperatures reached twenty-three point eight degrees.","answers":["23.8"],"source":"drill","hint":"整数+小数组合：先听整数 twenty-three，再听 point eight"},
+    {"id":"drill-dec-12.50","level":"L2","sentence":"The subscription is twelve pounds fifty a month.","answers":["12.50","12.5","£12.50","£12.5"],"source":"drill","hint":"twelve fifty = £12.50（pounds 省略，直接跟便士数）"},
+
+    {"id":"drill-250","level":"L1","sentence":"The course fee is two hundred and fifty pounds.","answers":["250","£250"],"source":"drill","hint":"two hundred AND fifty——英式在百位后加 and"},
+    {"id":"drill-360","level":"L1","sentence":"We received over three hundred and sixty applications.","answers":["360"],"source":"drill","hint":"three sixty 快读时 hundred and 会弱化，抓 three…sixty"},
+    {"id":"drill-480","level":"L1","sentence":"The building is four hundred and eighty years old.","answers":["480"],"source":"drill","hint":"four hundred eighty：听到 four hundred 先写，再补十位"},
+    {"id":"drill-620","level":"L2","sentence":"Membership currently stands at six hundred and twenty.","answers":["620"],"source":"drill","hint":"注意 six hundred 和 sixty 区别：hundred = 整百位"},
+    {"id":"drill-975","level":"L2","sentence":"The stadium has a capacity of nine hundred and seventy-five.","answers":["975"],"source":"drill","hint":"三位数：nine seventy-five 快读，hundred and 常被吃掉"},
+
+    {"id":"drill-2500","level":"L2","sentence":"The grant covers up to two thousand five hundred pounds.","answers":["2500","2,500","£2500","£2,500"],"source":"drill","hint":"two thousand five hundred = 2,500（不是 twenty-five hundred，虽然都对）"},
+    {"id":"drill-3800","level":"L2","sentence":"Around three thousand eight hundred visitors came last year.","answers":["3800","3,800"],"source":"drill","hint":"三千+八百：thousand 后直接跟百位，无 and"},
+    {"id":"drill-6300","level":"L2","sentence":"The project has a budget of six thousand three hundred dollars.","answers":["6300","6,300"],"source":"drill","hint":"six three hundred 快读时 thousand 会弱化"},
+    {"id":"drill-8900","level":"L2","sentence":"Over eight thousand nine hundred people took part.","answers":["8900","8,900"],"source":"drill","hint":"eight thousand nine hundred——注意不是 89 hundred"},
+
+    {"id":"drill-15000","level":"L2","sentence":"The charity raised fifteen thousand pounds in total.","answers":["15000","15,000","£15000","£15,000"],"source":"drill","hint":"fifteen thousand——teens+thousand，注意不是 fifty thousand"},
+    {"id":"drill-25000","level":"L2","sentence":"A total of twenty-five thousand students applied this year.","answers":["25000","25,000"],"source":"drill","hint":"twenty-five thousand = 25,000（两万五）"},
+    {"id":"drill-45000","level":"L3","sentence":"The company currently employs over forty-five thousand people.","answers":["45000","45,000"],"source":"drill","hint":"forty-five（前重）vs fifteen（后重）——先判断是 ty 还是 teen"},
+    {"id":"drill-120000","level":"L3","sentence":"The new library cost one hundred and twenty thousand pounds to build.","answers":["120000","120,000","£120000","£120,000"],"source":"drill","hint":"one hundred twenty thousand = 120,000——百位+thousand 组合"},
+    {"id":"drill-250000","level":"L3","sentence":"More than two hundred and fifty thousand visitors come each year.","answers":["250000","250,000"],"source":"drill","hint":"two fifty thousand 快读——hundred and 常被吃掉，听到 two…fifty thousand 先写 250,000"},
+
+    {"id":"drill-mixed-1","level":"L3","sentence":"The subscription is twelve pounds fifty a month, or one hundred and thirty-five pounds a year.","answers":["12.50 135","12.5 135","£12.50 £135"],"source":"drill","hint":"两个数字：月费 12.50 + 年费 135，or 后面是比较值"},
+    {"id":"drill-mixed-2","level":"L3","sentence":"Temperatures dropped from thirty-eight degrees to just sixteen overnight.","answers":["38 16","thirty-eight sixteen"],"source":"drill","hint":"teens/tens 双陷阱：thirty-eight（ty）vs sixteen（teen）"},
+
+    {"id":"drill-11","level":"L1","sentence":"There are eleven students in the advanced group.","answers":["11","eleven"],"source":"drill","hint":"eleven 两音节 /ɪˈlɛvən/，不是 teen 也不是 ty，独立记忆"},
+    {"id":"drill-12","level":"L1","sentence":"You are allowed to borrow twelve books at a time.","answers":["12","twelve"],"source":"drill","hint":"twelve /twɛlv/ 单音节，不规则。不是 twelvteen，直接记"},
+    {"id":"drill-18","level":"L1","sentence":"The exhibition runs for eighteen days.","answers":["18","eighteen"],"source":"drill","hint":"eighteen（后重 teen）vs eighty（前重 ty）——teen 结尾长音"},
+    {"id":"drill-80","level":"L1","sentence":"Over eighty people attended the meeting.","answers":["80","eighty"],"source":"drill","hint":"eighty /ˈeɪti/（前重）vs eighteen /ˌeɪˈtiːn/（后重）"},
+    {"id":"drill-19","level":"L1","sentence":"The library has nineteen computers available.","answers":["19","nineteen"],"source":"drill","hint":"nineteen（后重）vs ninety（前重）——nin-e-TEEN vs NIN-e-ty"},
+    {"id":"drill-21","level":"L1","sentence":"The registration closes in twenty-one days.","answers":["21","twenty-one"],"source":"drill","hint":"twenty-one：tens+ones，连字符连读"},
+    {"id":"drill-23","level":"L1","sentence":"She arrived at twenty-three minutes past nine.","answers":["23","twenty-three"],"source":"drill","hint":"twenty-three——three 尾辅音清晰，不要写 23rd"},
+    {"id":"drill-27","level":"L1","sentence":"The bus departs every twenty-seven minutes.","answers":["27","twenty-seven"],"source":"drill","hint":"twenty-seven：seven 两音节，不要漏成 twenty-even"},
+    {"id":"drill-32","level":"L1","sentence":"There are thirty-two steps to the top floor.","answers":["32","thirty-two"],"source":"drill","hint":"thirty（前重 ty）先听清是 ty 不是 teen，再听 two"},
+    {"id":"drill-36","level":"L1","sentence":"The form must be submitted within thirty-six hours.","answers":["36","thirty-six"],"source":"drill","hint":"thirty-six：six 短促，注意不要只写 30"},
+    {"id":"drill-41","level":"L1","sentence":"The conference room is on the forty-first floor.","answers":["41","forty-one","41st"],"source":"drill","hint":"forty（前重）vs fourteen（后重）——fort-EEN vs FORT-y"},
+    {"id":"drill-46","level":"L1","sentence":"The package weighs forty-six kilograms.","answers":["46","forty-six"],"source":"drill","hint":"forty-six：先确认 forty（ty，前重），再听 six"},
+    {"id":"drill-53","level":"L1","sentence":"We have fifty-three entries so far.","answers":["53","fifty-three"],"source":"drill","hint":"fifty（前重 ty）——FIFT-y，不是 fifteen（后重）"},
+    {"id":"drill-58","level":"L1","sentence":"The walk takes about fifty-eight minutes.","answers":["58","fifty-eight"],"source":"drill","hint":"fifty-eight：eight 无声辅音结尾，不要漏"},
+    {"id":"drill-62","level":"L1","sentence":"Sixty-two volunteers signed up this week.","answers":["62","sixty-two"],"source":"drill","hint":"sixty（前重 ty）+ two——SIXT-y，不是sixteen"},
+    {"id":"drill-67","level":"L1","sentence":"The project will take sixty-seven working days.","answers":["67","sixty-seven"],"source":"drill","hint":"sixty-seven：seven 两音节，确认是 sixty 再写个位"},
+    {"id":"drill-74","level":"L1","sentence":"The survey had seventy-four respondents.","answers":["74","seventy-four"],"source":"drill","hint":"seventy（前重）+ four——注意 four /fɔː/ 长音"},
+    {"id":"drill-79","level":"L1","sentence":"The building is seventy-nine years old.","answers":["79","seventy-nine"],"source":"drill","hint":"seventy-nine：nine 长元音 /naɪn/，不要漏"},
+    {"id":"drill-83","level":"L1","sentence":"Eighty-three percent of students passed.","answers":["83","eighty-three","83%"],"source":"drill","hint":"eighty（前重 ty）vs eighteen（后重 teen）——EIG H-ty"},
+    {"id":"drill-87","level":"L1","sentence":"The new road is eighty-seven kilometres long.","answers":["87","eighty-seven"],"source":"drill","hint":"eighty-seven：seven 两音节跟在后面，不要漏成 eighty"},
+    {"id":"drill-91","level":"L1","sentence":"There are ninety-one days left until the exam.","answers":["91","ninety-one"],"source":"drill","hint":"ninety（前重 ty）vs nineteen（后重 teen）——NIN-e-ty"},
+    {"id":"drill-96","level":"L1","sentence":"The final score was ninety-six to forty-three.","answers":["96 43","ninety-six forty-three"],"source":"drill","hint":"双数字：ninety-six（ty）+ forty-three（ty），两个都是 tens，不要改成 teen"},
+    {"id":"drill-55","level":"L1","sentence":"The speed limit here is fifty-five kilometres per hour.","answers":["55","fifty-five"],"source":"drill","hint":"fifty-five：同一个 ty 数字重复——fifty FIFT-y，five FIYVE"},
+    {"id":"drill-44","level":"L1","sentence":"Forty-four students are enrolled in the programme.","answers":["44","forty-four"],"source":"drill","hint":"forty-four 重复型：两个 four，注意前面是 FORT-y 不是 fourteen"},
+    {"id":"drill-22","level":"L1","sentence":"The course runs for twenty-two weeks.","answers":["22","twenty-two"],"source":"drill","hint":"twenty-two：两个 two，连读 twen-ty-TOO"},
+    {"id":"drill-99","level":"L1","sentence":"Up to ninety-nine guests can be accommodated.","answers":["99","ninety-nine"],"source":"drill","hint":"ninety（前重 ty）vs nineteen（后重 teen）——最容易和 19 混的一个"},
+
+    {"id":"drill-dec-1.8","level":"L1","sentence":"The package weighs one point eight kilograms.","answers":["1.8"],"source":"drill","hint":"【小数】one point eight——point 后只有一位时直接读那个数字"},
+    {"id":"drill-dec-4.7","level":"L1","sentence":"The average rating was four point seven out of five.","answers":["4.7"],"source":"drill","hint":"【小数】four point seven——不是 4.70，只有一位小数"},
+    {"id":"drill-dec-0.4","level":"L1","sentence":"Rainfall this month was just zero point four centimetres.","answers":["0.4"],"source":"drill","hint":"【小数】zero point four——零点几：先写 0，point，再数字"},
+    {"id":"drill-dec-3.5","level":"L1","sentence":"We need exactly three point five metres of fabric.","answers":["3.5"],"source":"drill","hint":"【小数】three point five = 3.5（trailing zero 不读）"},
+    {"id":"drill-dec-5.3","level":"L1","sentence":"Unemployment fell to five point three percent.","answers":["5.3","5.3%"],"source":"drill","hint":"【小数】five point three——percent 在后，数字本身 5.3"},
+    {"id":"drill-dec-0.2","level":"L1","sentence":"The reaction time was zero point two seconds.","answers":["0.2"],"source":"drill","hint":"【小数】zero point two——two 短促，别听成 twenty"},
+    {"id":"drill-dec-8.99","level":"L2","sentence":"The item costs eight pounds ninety-nine.","answers":["8.99","£8.99"],"source":"drill","hint":"【小数】eight ninety-nine = £8.99——英式价格：pounds 后直接跟便士数"},
+    {"id":"drill-dec-2.75","level":"L2","sentence":"The interest rate is two point seven five percent.","answers":["2.75","2.75%"],"source":"drill","hint":"【小数】两位小数：point seven five——seven five 连读，别只写 2.7"},
+    {"id":"drill-dec-7.25","level":"L2","sentence":"The exchange rate is seven point two five to the pound.","answers":["7.25"],"source":"drill","hint":"【小数】point two five——two five 连读"},
+    {"id":"drill-dec-67.5","level":"L2","sentence":"The pass rate was sixty-seven point five percent.","answers":["67.5","67.5%"],"source":"drill","hint":"【小数】整数+小数组合：先听清 sixty-seven，再听 point five"},
+    {"id":"drill-dec-neg2.5","level":"L2","sentence":"Temperatures dropped to minus two point five overnight.","answers":["-2.5","minus 2.5"],"source":"drill","hint":"【小数】minus two point five = -2.5——minus 是关键修饰词"},
+
+    {"id":"drill-h-150","level":"L1","sentence":"The hall has a maximum capacity of one hundred and fifty.","answers":["150"],"source":"drill","hint":"【上百】one hundred AND fifty——英式百位后加 and"},
+    {"id":"drill-h-175","level":"L1","sentence":"The registration fee is one hundred and seventy-five pounds.","answers":["175","£175"],"source":"drill","hint":"【上百】one seventy-five——hundred and 快读常被吃掉"},
+    {"id":"drill-h-200","level":"L1","sentence":"There are two hundred members currently enrolled.","answers":["200"],"source":"drill","hint":"【上百】two hundred——整百无 and"},
+    {"id":"drill-h-300","level":"L1","sentence":"We need three hundred copies printed by tomorrow.","answers":["300"],"source":"drill","hint":"【上百】three hundred——不是 thirty hundred"},
+    {"id":"drill-h-425","level":"L1","sentence":"The antique chair sold for four hundred and twenty-five pounds.","answers":["425","£425"],"source":"drill","hint":"【上百】four hundred AND twenty-five——and 后跟十位/个位"},
+    {"id":"drill-h-530","level":"L2","sentence":"The route covers five hundred and thirty kilometres.","answers":["530"],"source":"drill","hint":"【上百】five hundred thirty——and 弱化，抓 five…thirty"},
+    {"id":"drill-h-660","level":"L2","sentence":"Six hundred and sixty tickets have already been sold.","answers":["660"],"source":"drill","hint":"【上百】six sixty——sixty（前重 ty），不是 sixteen"},
+    {"id":"drill-h-710","level":"L2","sentence":"The replacement parts cost seven hundred and ten pounds.","answers":["710","£710"],"source":"drill","hint":"【上百】seven hundred and ten——十位是 ten，不是 twelve/twenty"},
+    {"id":"drill-h-825","level":"L2","sentence":"Each portion weighs eight hundred and twenty-five grams.","answers":["825"],"source":"drill","hint":"【上百】eight twenty-five——eight 不是 eighty"},
+    {"id":"drill-h-940","level":"L2","sentence":"There were nine hundred and forty applications received.","answers":["940"],"source":"drill","hint":"【上百】nine forty——forty（前重 ty），不是 fourteen"},
+    {"id":"drill-h-500","level":"L1","sentence":"The library holds over five hundred books on this topic.","answers":["500"],"source":"drill","hint":"【上百】five hundred——over 是修饰词，数字是 500"},
+
+    {"id":"drill-k-1000","level":"L1","sentence":"The entry fee is one thousand pounds per person.","answers":["1000","1,000","£1000","£1,000"],"source":"drill","hint":"【上千】one thousand——不读成 ten hundred"},
+    {"id":"drill-k-1500","level":"L1","sentence":"About one thousand five hundred people live in the village.","answers":["1500","1,500"],"source":"drill","hint":"【上千】one thousand five hundred = 1,500（也可说 fifteen hundred）"},
+    {"id":"drill-k-2000","level":"L1","sentence":"The renovation work cost two thousand pounds.","answers":["2000","2,000","£2000","£2,000"],"source":"drill","hint":"【上千】two thousand——整千，无 hundred"},
+    {"id":"drill-k-2800","level":"L2","sentence":"The monthly turnover reached two thousand eight hundred.","answers":["2800","2,800"],"source":"drill","hint":"【上千】two thousand eight hundred——thousand 后跟 hundred 数"},
+    {"id":"drill-k-4000","level":"L1","sentence":"The professional course costs four thousand dollars.","answers":["4000","4,000"],"source":"drill","hint":"【上千】four thousand——four（长音）不是 for"},
+    {"id":"drill-k-4500","level":"L1","sentence":"The prize money is four thousand five hundred pounds.","answers":["4500","4,500","£4500","£4,500"],"source":"drill","hint":"【上千】four thousand five hundred = 4,500"},
+    {"id":"drill-k-5000","level":"L1","sentence":"The population of the town is around five thousand.","answers":["5000","5,000"],"source":"drill","hint":"【上千】five thousand——around 是修饰词"},
+    {"id":"drill-k-5600","level":"L2","sentence":"We currently have five thousand six hundred active members.","answers":["5600","5,600"],"source":"drill","hint":"【上千】five thousand six hundred——thousand 后直接跟 six hundred"},
+    {"id":"drill-k-6000","level":"L1","sentence":"The annual contract is worth six thousand pounds.","answers":["6000","6,000","£6000","£6,000"],"source":"drill","hint":"【上千】six thousand——six /sɪks/ 短促"},
+    {"id":"drill-k-7000","level":"L1","sentence":"Seven thousand passengers use this station each day.","answers":["7000","7,000"],"source":"drill","hint":"【上千】seven thousand——seven 两音节，不要漏成 seventy"},
+    {"id":"drill-k-7200","level":"L2","sentence":"The new equipment cost seven thousand two hundred to install.","answers":["7200","7,200"],"source":"drill","hint":"【上千】seven thousand two hundred——thousand 后无 and"},
+    {"id":"drill-k-8000","level":"L1","sentence":"The venue attracts eight thousand visitors per month.","answers":["8000","8,000"],"source":"drill","hint":"【上千】eight thousand——eight /eɪt/ 不要和 eighty 混"},
+    {"id":"drill-k-8500","level":"L2","sentence":"The research grant is worth eight thousand five hundred pounds.","answers":["8500","8,500","£8500","£8,500"],"source":"drill","hint":"【上千】eight thousand five hundred = 8,500"},
+    {"id":"drill-k-9000","level":"L1","sentence":"Nine thousand copies were printed in the first edition.","answers":["9000","9,000"],"source":"drill","hint":"【上千】nine thousand——nine 不要和 nineteen/ninety 混"},
+    {"id":"drill-k-9500","level":"L2","sentence":"The reserve fund currently stands at nine thousand five hundred.","answers":["9500","9,500"],"source":"drill","hint":"【上千】nine thousand five hundred = 9,500"},
+
+    {"id":"drill-10k-10000","level":"L2","sentence":"The stadium has a capacity of ten thousand people.","answers":["10000","10,000"],"source":"drill","hint":"【上万】ten thousand = 10,000——ten 不是 teen 也不是 ty"},
+    {"id":"drill-10k-12500","level":"L2","sentence":"Twelve thousand five hundred tickets were sold in advance.","answers":["12500","12,500"],"source":"drill","hint":"【上万】twelve thousand five hundred——twelve（不规则）+ thousand"},
+    {"id":"drill-10k-18000","level":"L2","sentence":"The charity raised eighteen thousand pounds this year.","answers":["18000","18,000","£18000","£18,000"],"source":"drill","hint":"【上万】eighteen thousand——eighteen（后重 teen）vs eighty thousand（前重 ty）"},
+    {"id":"drill-10k-20000","level":"L2","sentence":"Around twenty thousand people attended the outdoor festival.","answers":["20000","20,000"],"source":"drill","hint":"【上万】twenty thousand = 20,000——twenty（前重 ty）不是 twelve"},
+    {"id":"drill-10k-30000","level":"L2","sentence":"Thirty thousand applications were received last year.","answers":["30000","30,000"],"source":"drill","hint":"【上万】thirty thousand——thirty（前重 ty）不是 thirteen"},
+    {"id":"drill-10k-35000","level":"L2","sentence":"The company now employs thirty-five thousand people.","answers":["35000","35,000"],"source":"drill","hint":"【上万】thirty-five thousand——确认 ty 后写万位"},
+    {"id":"drill-10k-50000","level":"L2","sentence":"Over fifty thousand visitors came during the summer.","answers":["50000","50,000"],"source":"drill","hint":"【上万】fifty thousand——fifty（前重 ty）vs fifteen（后重 teen）"},
+    {"id":"drill-10k-75000","level":"L3","sentence":"The top prize is worth seventy-five thousand dollars.","answers":["75000","75,000"],"source":"drill","hint":"【上万】seventy-five thousand——seventy（前重 ty）+ five + thousand"},
+    {"id":"drill-10k-100000","level":"L2","sentence":"The project has a total budget of one hundred thousand pounds.","answers":["100000","100,000","£100000","£100,000"],"source":"drill","hint":"【上万】one hundred thousand = 100,000（十万）——hundred 后跟 thousand"},
+    {"id":"drill-10k-150000","level":"L3","sentence":"One hundred and fifty thousand people took part in the survey.","answers":["150000","150,000"],"source":"drill","hint":"【上万】one hundred and fifty thousand = 150,000"},
+    {"id":"drill-10k-200000","level":"L3","sentence":"The annual turnover is approximately two hundred thousand pounds.","answers":["200000","200,000","£200000","£200,000"],"source":"drill","hint":"【上万】two hundred thousand = 200,000（二十万）"},
+    {"id":"drill-10k-500000","level":"L3","sentence":"The city has a population of around five hundred thousand.","answers":["500000","500,000"],"source":"drill","hint":"【上万】five hundred thousand = 500,000（五十万）"},
+    {"id":"drill-10k-1m","level":"L3","sentence":"Over one million people watched the live broadcast.","answers":["1000000","1,000,000","1 million"],"source":"drill","hint":"【上万】one million = 1,000,000——听到 million 直接写 1,000,000"},
+    {"id":"drill-10k-2.5m","level":"L3","sentence":"The company is currently valued at two point five million pounds.","answers":["2500000","2,500,000","£2.5 million","2.5 million"],"source":"drill","hint":"【上万】two point five million = 2,500,000——小数+million 组合"}
   ]
 }

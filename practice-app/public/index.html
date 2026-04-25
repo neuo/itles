@@ -1534,10 +1534,7 @@
         actualCategory = parts[0];
         if (parts[1] === '错词') mode = 'errorOnly';
         else if (parts[1] === '重点词') mode = 'starOnly';
-        else if (parts[1] === '日期') {
-          actualCategory = parts[0] + ':日期';
-          mode = 'dateFilter';
-        }
+        else if (parts[1] === '日期') mode = 'dateFilter';
       } else if (category === '⭐重点词') {
         mode = 'allStarred';
         actualCategory = '⭐重点词';
@@ -1626,6 +1623,8 @@
             alert('该日期没有卡点词');
             return null;
           }
+          words = allDictationWords.sort(() => Math.random() - 0.5);
+          return words;
         } else if (mode === 'errorOnly') {
           // 只显示有错误的词
           const errorWords = Object.keys(app.history.spelling.wordStats)
@@ -2698,7 +2697,7 @@
       // 混合
       const mixBtn = document.createElement('button');
       mixBtn.className = 'category-btn';
-      mixBtn.textContent = '🎲 全部随机（5句）';
+      mixBtn.textContent = '🎲 全部随机（15句）';
       mixBtn.addEventListener('click', () => startNumberRound('mix'));
       grid.appendChild(mixBtn);
 
@@ -2734,11 +2733,11 @@
 
       if (['L1', 'L2', 'L3'].includes(mode)) {
         const pool = all.filter(s => s.level === mode);
-        return shuffle(pool).slice(0, Math.min(5, pool.length));
+        return shuffle(pool).slice(0, Math.min(15, pool.length));
       }
 
       if (mode === 'mix') {
-        return shuffle([...all]).slice(0, 5);
+        return shuffle([...all]).slice(0, 15);
       }
 
       // day mode - 按配比

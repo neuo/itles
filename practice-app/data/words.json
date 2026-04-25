@@ -5745,6 +5745,331 @@
           "material": "C14T3S2"
         }
       ]
+    },
+    {
+      "word": "cutlery",
+      "hint": "cut-ler-y，刀叉餐具（不可数）。using hands instead of cutlery = no knives/forks",
+      "sentence": "using your hands instead of cutlery",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "you eat in the medieval way, using your hands instead of cutlery",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "medieval",
+      "hint": "me-di-e-val，中世纪的。注意 e-v-al 不要拼成 medival",
+      "sentence": "you eat in the medieval way",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "It's held in a twelfth-century castle... you eat in the medieval way",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "equestrian",
+      "hint": "eq-ues-tri-an，马术的。equestrian centre = 马术中心",
+      "sentence": "organised by the Equestrian Centre",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "This is organised by the Equestrian Centre over near Playa Cortino",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "canter",
+      "hint": "can-ter，马慢跑（比 trot 快，比 gallop 慢）",
+      "sentence": "you can canter along the sand",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "They take you down to the beach, and you can canter along the sand and through the waves",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "observatory",
+      "hint": "ob-ser-va-tor-y，天文台。observe + -atory",
+      "sentence": "trips to the observatory on Friday",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "We can offer trips to the observatory on Friday",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "courtyard",
+      "hint": "court+yard，庭院。城堡场景高频",
+      "sentence": "you eat in the great courtyard",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "you eat in the great courtyard, with ladies in long gowns serving your food",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "guided",
+      "hint": "guide 过去分词=有导游的。⚠️ 别和 guarded（被守卫的）混：guide→guided vs guard→guarded",
+      "sentence": "It's a guided walk of about seven kilometres",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "It's a guided walk of about seven kilometres",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "inclusive",
+      "hint": "in-clu-sive，包含所有的。all inclusive = 全包",
+      "sentence": "It's just 25 euros all inclusive",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "It's just 25 euros all inclusive, and it's every Wednesday",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "inexperienced",
+      "hint": "in+experienced=没经验的。cycle trip 考点词",
+      "sentence": "this isn't really for inexperienced cyclists",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "it's a 700-metre drop in just 20 kilometres so this isn't really for inexperienced cyclists",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "waterproof",
+      "hint": "water+proof=防水的（也可作名词：防水外套）",
+      "sentence": "bring a waterproof in case it rains",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "with good shoes, and bring a waterproof in case it rains",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "energetic",
+      "hint": "en-er-get-ic，精力充沛的。If you're energetic... = forest walk 的开头信号",
+      "sentence": "If you're energetic, I'd recommend our forest walk",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "If you're energetic, I'd recommend our forest walk",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "astronomy",
+      "hint": "as-tron-o-my，天文学。observatory 场景开头词",
+      "sentence": "If you're interested in astronomy",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "If you're interested in astronomy you may already know that the island's one of the best places",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "ninety",
+      "hint": "90，重音在前 /ˈnaɪnti/。⚠️ 和 nineteen /ˌnaɪnˈtiːn/（19，重音在后）区分——teens vs tens 致命陷阱",
+      "sentence": "They cost 90 euros per person",
+      "date": "2026-04-19",
+      "sources": [
+        {
+          "date": "2026-04-19",
+          "sentence": "They cost 90 euros per person and you'll be shown the huge telescopes",
+          "material": "C14T4S2"
+        }
+      ]
+    },
+    {
+      "word": "electric",
+      "hint": "🚨 /ɪˈlɛktrɪk/ 电力的（electric train/car/vehicle）。⚠️ ≠ electronic /ɪˌlɛkˈtrɒnɪk/ 电子的（electronic device）。火车必是 electric",
+      "sentence": "Then you board an electric train which takes you to the fishing village of Laxey",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "Then you board an electric train which takes you to the fishing village of Laxey",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "horse-drawn",
+      "hint": "🚨 /hɔːs drɔːn/ 马拉的（tram/carriage/cart）。⚠️ horse ≠ house（/hɔːs/ vs /haʊs/）+ drawn（过去分词：牵引）≠ driven。合起来写作 horse-drawn（连字符）",
+      "sentence": "a leisurely ride along the promenade in a horse-drawn tram",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "This begins with a leisurely ride along the promenade in Douglass in a horse-drawn tram",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "cafe",
+      "hint": "🚨 /ˈkæfeɪ/ 咖啡馆（重音在前，末尾 /eɪ/）。⚠️ ≠ coffee /ˈkɒfi/ 咖啡。法语借词，可写 cafe / café 都对",
+      "sentence": "Lunch will be in the cafe, giving you spectacular views of the island",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "Lunch will be in the cafe, giving you spectacular views of the island",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "claimed",
+      "hint": "🚨 It's claimed that... = 据称（暗示『可能不实』）。⚠️ ≠ clear 清楚。claim /kleɪm/ 动词=声称。考题中 It's claimed...However... 是经典反驳结构",
+      "sentence": "It's claimed that this is the world's oldest parliament",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "It's claimed that this is the world's oldest parliament that's still functioning, and that it dates back to 979",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "surviving",
+      "hint": "sur-vi-ving /sərˈvaɪvɪŋ/ 现存的（现在分词作定语）。⚠️ ≠ survival（名词：生存）。the earliest surviving X = 现存最早的 X",
+      "sentence": "the earliest surviving reference to it is from 1422",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "However, the earliest surviving reference to it is from 1422",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "leisurely",
+      "hint": "lei-sure-ly /ˈliːʒərli/（英）/ˈliːʒərli/（美）悠闲地。形容词/副词同形（a leisurely ride = 悠闲的一程）。注意拼写 lei-（不是 lea-）",
+      "sentence": "a leisurely ride along the promenade",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "This begins with a leisurely ride along the promenade in Douglass",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "promenade",
+      "hint": "pro-me-nade /ˌprɒməˈnɑːd/ 海滨步道（法语借词，重音在末）。注意拼写 prom-e-n-a-d-e",
+      "sentence": "a leisurely ride along the promenade in Douglass",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "This begins with a leisurely ride along the promenade in Douglass",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "parliament",
+      "hint": "par-lia-ment /ˈpɑːrləmənt/ 议会。⚠️ 拼写：parl-**ia**-ment（ia 不是 ai 也不是 i）。字母 a 不发音",
+      "sentence": "it has its own parliament, called Tynwald",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "The Isle of Man isn't part of the United Kingdom, and it has its own parliament, called Tynwald",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "heritage",
+      "hint": "he-ri-tage /ˈhɛrɪtɪdʒ/ 遗产（文化/历史遗产）。heritage site = 文化遗产景点。地道表达 cultural heritage",
+      "sentence": "for entrance to the island's heritage sites",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "so you won't have to pay for travel on local transport, or for entrance to the island's heritage sites",
+          "material": "C15T1S2"
+        }
+      ]
+    },
+    {
+      "word": "communication",
+      "hint": "com-mu-ni-ca-tion /kəˌmjuːnɪˈkeɪʃn/ 沟通。⚠️ 拼写：com-m-u（双 m 一 u）。否定转折陷阱答案：isn't so much business skills, it's communication that matters",
+      "sentence": "It's communication that really matters",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "what's important isn't so much having business skills. It's communication that really matters",
+          "material": "C15T1S1"
+        }
+      ]
+    },
+    {
+      "word": "personality",
+      "hint": "per-son-al-i-ty /ˌpɜːrsəˈnælɪti/ 性格、个性。⚠️ 拼写：per-son-**a**-l-i-ty（a 不要漏）",
+      "sentence": "questions about personality that they always ask candidates",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "there are questions about personality that they always ask candidates",
+          "material": "C15T1S1"
+        }
+      ]
+    },
+    {
+      "word": "Jamieson",
+      "hint": "J-A-M-I-E-S-O-N 人名拼写。注意 -ie- 顺序（不是 -ei-）",
+      "sentence": "The agent I always deal with is called Becky Jamieson",
+      "date": "2026-04-20",
+      "sources": [
+        {
+          "date": "2026-04-20",
+          "sentence": "The agent I always deal with is called Becky Jamieson",
+          "material": "C15T1S1"
+        }
+      ]
     }
   ]
 }

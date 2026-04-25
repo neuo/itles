@@ -7,11 +7,13 @@
 ---
 
 ## Pattern 1: Double negation
-**Example:** "they didn't make no contribution"
+**Example:** "they didn't make no contribution" / "without no destination"
 **Surface:** Two negatives cancel each other out in English.
 **Deep:** Direct structural mapping from Chinese — "没有做任何贡献" has two negative elements, and the learner transferred both. The underlying issue is translating word-by-word instead of re-encoding the meaning in English from scratch.
-**Fix:** "they didn't make any contribution" / "they made no contribution"
-**Status:** Explained once. Watch for recurrence.
+**Fix:** "they didn't make any contribution" / "they made no contribution" / "with no particular destination"
+**Key trigger:** `without` already contains negation — never follow with no/never/nothing.
+**Status:** 4/24 复发 ("without no destination"). Watch for without/unless/never combinations.
+**Occurrences:** 2
 
 ---
 
@@ -47,8 +49,8 @@
 **Surface:** Two "actually"s in one sentence, used as emphasis/filler.
 **Deep:** Direct mapping from Chinese "其实" — a discourse particle that signals the speaker's perspective. In English, "actually" has a specific function (signaling contrast or correction) and can't be used as a general emphasis particle.
 **Fix:** "Actually" in English signals contrast. If it doesn't do that, remove it.
-**Status:** Recurring. 4/18 复发: "It's actually a working dad lifestyle" — 无对比信息，纯"其实"意。注意：functional "actually" 已毕业（inventory），但 filler "actually" 作为独立错误模式仍在回潮。
-**Occurrences:** 2
+**Status:** Recurring. 4/18 复发: "It's actually a working dad lifestyle"。4/23 复发: "Not really, actually, no" 句首无对比。句子开头压力最大时最易触发。
+**Occurrences:** 3
 
 ---
 
@@ -74,8 +76,9 @@
 **Example:** "the most trouble thing" (should be "the most troublesome thing" or "the hardest part")
 **Surface:** Wrong word class — noun used where adjective is needed.
 **Deep:** In Chinese, nouns can directly modify nouns (麻烦的事 → 麻烦 functions flexibly). In English, the adjective form is required. The learner reaches for the most familiar form of the word without checking its grammatical role.
-**Fix:** When modifying a noun, ask: is this word actually an adjective? Common pairs to watch: trouble/troublesome, challenge/challenging, stress/stressful.
-**Status:** First occurrence. Monitor.
+**Fix:** When modifying a noun, ask: is this word actually an adjective? Common pairs to watch: trouble/troublesome, challenge/challenging, stress/stressful, embarrassed/embarrassing(ly).
+**Status:** Recurring. 4/19 复发："embarrassedly bad" → embarrassingly bad。4/23 复发："Classics programmer habit" → Classic（名词复数误用为形容词）。
+**Occurrences:** 3
 
 ---
 
@@ -95,8 +98,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Word choice is correct but too formal for spoken English.
 **Deep:** Learner's vocabulary was built through reading, not listening. The formal register word is more automated because it was encountered more often in text. The spoken equivalent exists in passive vocab but loses the retrieval race.
 **Fix:** Flag every instance. Give the spoken equivalent immediately. Build a running list: prioritize→I'd rather, attend→take/do, regrettable→I'd hate to, significantly→way more.
-**Status:** Recurring. 4/18 双重复发（"expectation" → hope / "Although" 句首 / "abandoned" → fell through）。
-**Occurrences:** 5+
+**Status:** Recurring. 4/18 双重复发（"expectation" → hope / "Although" 句首 / "abandoned" → fell through）。4/19 三题均触发："owing to" → because of, "The residents living in" → people there, "the final work" → the whole thing, "I was no exception" → same for me。最顽固的 pattern。
+**Occurrences:** 8+
 
 ---
 
@@ -124,9 +127,9 @@ Add new patterns here when they appear more than once, or when a single instance
 **Examples:** "In my age" → "At my age", "banned by overwatering" → "banned for overwatering", "in high quality" → "to a high standard"
 **Surface:** Wrong preposition choice.
 **Deep:** Chinese prepositions don't map 1-to-1 to English. 在我这个年龄 defaults to "in" because 在 = in is the first-learned mapping. 因为 defaults to "by" (方式) instead of "for" (原因). English prepositions are highly idiomatic and need to be learned collocationally, not compositionally.
-**Fix:** Learn preposition as part of the phrase: **at** this age / **at** 40 / **for** doing sth (原因) / **by** doing sth (方式/工具) / **to** a high standard.
-**Status:** Recurring. 4/18 复发："at nearly 40 ages" — 数字本身已含 age，不加 ages/years old age。
-**Occurrences:** 4
+**Fix:** Learn preposition as part of the phrase: **at** this age / **at** 40 / **for** doing sth (原因) / **by** doing sth (方式/工具) / **to** a high standard / **for** breakfast/lunch/dinner.
+**Status:** Recurring. 4/18 复发："at nearly 40 ages"。4/19 复发："as breakfast" → for breakfast。4/24 复发："I have been Kyoto" → been **to** Kyoto（固定搭配 have been to 漏介词）。
+**Occurrences:** 6
 
 ---
 
