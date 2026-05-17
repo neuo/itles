@@ -229,14 +229,46 @@ A4 一页，6/19 写完，6/20 考场进去前最后翻 5 min：
 
 ---
 
-## 5 min 微复习（每天，独立于 90 min）
+## 🌟 Daily Paraphrase Drill（每天，独立于 90 min）— 5 min
 
-- 翻 `04_toolkit.md` §4.1 衔接词表 — 1 min
-- 翻 §4.2 八个句式 — 1 min
-- 翻 §4.4 升级词 — 1 min
-- 翻当周范文的 collocation（每个范文有 2-3 个新 collocation）— 2 min
+> **2026-05-18 修订**：原"5-min 微复习"（passive 翻 toolkit）**已替换**——passive 看不解决 suzy 的核心瓶颈"主动语言重组能力（Active Reformulation Flexibility）"。改为 active drill 直接练那块肌肉。
+>
+> Passive review 仍然可以发生——但在写作时通过 cheat sheet（04_toolkit.md keep open）organic 发生，不需要单独 5 min。
 
-不背，只是**反复 expose**。用 Anki 也行，但保持 5 min 上限。
+### 5-min Drill 流程
+
+```
+Step 1 (1 min)  选 1 句话
+                来源：今天范文 / 你刚写的句 / 新闻一句 / 微博一句 任选
+                
+Step 2 (1 min)  中文写 3 个版本
+                （如果中文都难想 → 先在中文层面 unlock 才能进英文）
+                
+Step 3 (2 min)  英文写 3 个版本
+                用不同的 frame（Object / META / Conditional / ...）
+                用不同的 WHO / ACTION / WHAT 词
+                
+Step 4 (1 min)  标"哪个最 Band 7" + 抄进 log/active_phrases.md
+                每周末翻一遍清单复习
+```
+
+### 为什么这个比"背词"更重要
+
+| 你的瓶颈 | Passive vocab review | Active paraphrase drill |
+|---------|---------------------|------------------------|
+| 词汇量不够 | ⚠️ 部分有帮助 | ✅ 反复 expose 等效 |
+| Frame 选择空间窄 | ❌ 没帮助 | ✅ 直接练 |
+| "想得到说不出" | ❌ 没帮助 | ✅ 直接练 |
+| 中文 paraphrase 也卡 | ❌ 完全无关 | ✅ 中文层先 unlock |
+
+### 4 周积累目标
+
+- 每天 5 min × 30 天 = **30 句 × 6 版本（中+英）= 180 个 paraphrase 样本**
+- 到 6/20 考前，**任何 paraphrase 不卡** —— frame 空间从 1 种扩大到 4-5 种
+
+### Drill 记录
+
+每次结果存 `log/active_phrases.md`。每周末翻一遍找规律（你常卡哪类句、常 unlock 哪种 frame）。
 
 ---
 

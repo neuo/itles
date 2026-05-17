@@ -31,6 +31,27 @@
 
 **核心问题**：**input >> output**。能看懂复杂文章不等于能写出 Band 7 文章。
 
+**底层瓶颈精确命名（5/18 W1 Day 2 仿写中发现）**：**主动语言重组能力（Active Reformulation Flexibility）**——把**同一个意思**用**多种新方式**表达的能力。不是查同义词，是**从概念层重新建构语言**。
+
+**症状表（5/18 仿写 Intro 时全部触发）**：
+1. 中文 paraphrase 也卡（不只是英语问题）
+2. Frame 混用（META frame 当 Object frame 用 → "it's debated that what..." 模式冲突）
+3. 抽骨架不完整（漏 WHY → View A 的 WHAT 接到 View B 的 WHY 上）
+4. 表达只想得到 1 种说法（"3-版本测试"立刻暴露）
+5. "想得到说不出"——这是同一根的不同表现
+
+**为什么你（理工科逻辑强）特别卡这里**：
+- 科学思维 = **精确**（一个意思一种说法）↔ 语言灵活性 = **多样性**（一个意思多种说法）
+- 工程师习惯 = **复用熟悉模式** ↔ 写作灵活性 = **离开舒适区主动重组**
+- 30 年阅读 << 几百小时主动写作 → flexibility 没机会练
+
+**解决路径（详见 [`05_path.md`](05_path.md) "Daily Paraphrase Drill"）**：
+- Level 1（立刻）：「抽 → 重组」framework + Object vs META frame 区分 + DBV 防混 checklist
+- Level 2（每天 5 min）：Paraphrase Drill（1 句 × 中英各 3 版本）
+- Level 3（长期）：Phrase capture 习惯 + active reading
+
+→ 不是 magic，是**复利**。30 天 × 5 min = 180 个 paraphrase 样本 → frame 空间从 1 种扩到 4-5 种。
+
 **具体表现**（5/17 自己确认）：
 - 看 Band 7 范文 → "嗯，这写得不错，能看懂"
 - 让你写 → **"除了几个常用句型，一出新场景就死机"**——意思是你已有少量自动化句型可调用（比如 "I think X is important because Y"），但一遇到新的语法/逻辑组合就卡死
