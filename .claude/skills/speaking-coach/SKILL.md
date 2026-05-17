@@ -19,6 +19,8 @@ suzy reads English well (7-7.5) but speaks at ~5. The gap is NOT vocabulary or g
 
 The fix: **cold production first, analysis second**. Never let her prepare before producing. The rough output IS the diagnostic material. After she produces, THEN show the better version and drill the pattern.
 
+**Exception — P2 only**: 2026-05-16 suzy confirmed P2 specifically causes shutdown ("一输出就死机")——the 2-minute monologue requires too many simultaneous decisions in the 60s prep window. P3 cold production remains OK (questions provide a trigger). **For P2, default to scaffolded modes (P2-A Shadow & Tweak → P2-B 骨架填充 → P2-C Cold) per `speaking/p2_my_path.md`**. Only run P2 cold production after she has cleared P2-A and P2-B graduation criteria. P1 and P3 keep the cold-first principle unchanged.
+
 ---
 
 ## Before Every Session
@@ -43,19 +45,28 @@ This is the core training loop. Repeat 3-5 rounds per session.
 
 **Step 1 — Give a prompt cold.**
 
-**必须从题库文件中读取真题，禁止自己编题。** 每次出题前先用 Read 工具打开对应文件，随机选题。
+**必须从题库文件中读取真题，禁止自己编题。** 选题流程如下：
 
-题库来源（为节省 token，只读题目/关键词文件，不读完整范文）：
+**P1 选题流程（每次出题必须严格执行）：**
+1. 用 Bash 工具生成 1-188 之间的随机整数：`bash -c 'echo $((RANDOM % 188 + 1))'`
+2. 用 Read 工具打开 `speaking/ielts_part1_keywords_v5.md`，定位到该编号的题目
+3. 检查该题是否已在近期 session 中出现过（对照 `speaking/coach/sessions/` 历史记录中的题号）
+4. 若已做过，重新生成随机数直到找到未做过的题
+5. 找到后，只出题目本身，不透露关键词
+
+**P2/P3 选题：**
+- 打开 `speaking/ielts_p2p3_questions.md`，用同样的随机方式选 topic
+
+题库来源：
 - **P1**: `speaking/ielts_part1_keywords_v5.md`（188 questions，只含题目和关键词）
 - **P2/P3**: `speaking/ielts_p2p3_questions.md`（56 topics，只含题目和 cue cards）
 
 出题规则：
 - 每次 session 跨不同 topic 出题，避免连续练同一类话题
-- 优先出尚未练过的题（对照 `speaking/coach/sessions/` 历史记录）
 - P1 一次给 1 题，不要一次性甩 3 题
 
 For P1: just give the question. No prep time. She types or pastes her spoken answer.
-For P2: give the cue card, allow 1 minute of thinking (she can jot keywords but NOT write full sentences), then she speaks/types for 1-2 minutes.
+For P2: **DO NOT default to cold cue card**. P2 shutdown is the reason `speaking/p2_my_path.md` exists. Ask which P2 mode she wants — P2-A Shadow & Tweak (default for first 5 sessions of any topic), P2-B 骨架填充, or P2-C Cold. See "P2 Three-Stage Training" section below.
 For P3: give the question cold, she responds immediately.
 
 **Important**: Do NOT show the reference answer before she produces. The whole point is unprepared retrieval.
@@ -333,3 +344,62 @@ Do NOT ask to reproduce the original sentence. Ask to use the **same structure**
 
 ### speaking/coach/sessions/ (directory)
 Create with the uploaded session file as the first entry.
+
+---
+
+## P2 Three-Stage Training (added 2026-05-16)
+
+**Why this exists**: P2 cold production causes shutdown. The 2-minute monologue requires 4 simultaneous decisions in the 60s prep window (题材/起手/展开/收尾), overloading cognition. Solution: pre-decide most of these by training in scaffolded stages. **All P2 training MUST go through these stages — do not default to cold.** Authoritative reference: `speaking/p2_my_path.md`.
+
+P3 keeps the cold-first principle (questions provide a trigger, no shutdown reported).
+
+### Mode P2-A: Shadow & Tweak (default for first 5 sessions per topic, ~15 min/题)
+
+**Goal**: Build "P2 sounds like this" muscle memory without forcing active output.
+
+1. Pick a topic from `ielts_p2p3_questions.md`. Find the matching題 in `ielts_p2p3_备考手册v7.md`.
+2. Give suzy the cue card + the v7 model answer.
+3. She reads the model answer aloud once, shadows once (mimicking intonation).
+4. She closes the model, looks at the cue card only, and **speaks it her own way** — slow and stumbling is fine, the win is "I got through it without freezing".
+5. **No diagnosis, no reformulation in this mode.** This is a confidence-building stage. Just confirm she finished.
+6. Log in session file: which 题 done, did she complete step 4 (Y/N).
+
+**Graduation to P2-B**: 5 consecutive 题 with step 4 completed (no full shutdown).
+
+### Mode P2-B: 骨架填充 (~20 min/题)
+
+**Goal**: Remove the model answer, keep the structural scaffold.
+
+1. Pick an **unfamiliar** 题 (no v7 model shown).
+2. Identify the cue card type (人/事/地/物/抽象). Give her the matching 4-段骨架 from `ielts_p2p3_泛化模板体系v6.md`.
+3. Remind her to use the §2-§5 toolkit in `p2_my_path.md` (5 万能存货 / 5 起手句 / 延伸三连 / 5 收尾句).
+4. She gets 1 min prep — only to decide **which 存货 + 1 个具体细节**, not to write sentences.
+5. She speaks 1-2 min.
+6. Feedback dimensions (P2-specific, not the full 8-dimension diagnosis):
+   - 起手: used a §3 phrase? Y/N
+   - 中段: used 延伸三连 when stuck? Y/N
+   - 收尾: used a §5 phrase? Y/N
+   - cue card 4 bullets: how many touched (0/1/2/3/4)
+   - 时长: <60s / 60-90s / 90-120s
+7. Log in session file with the 5 dimensions above.
+
+**Graduation to P2-C**: 3 consecutive 题 with 时长 ≥90s + 4/4 bullets touched + all 3 toolkit phrases used.
+
+### Mode P2-C: Cold Production (~10 min/题)
+
+Same as the original cold production mode in Mode 1, but P2 specifically. Only enter after P2-B graduation. Full 8-dimension diagnosis applies here.
+
+**Graduation to exam-ready**: 3 cold P2, 2 of them ≥100s with no >3s blank pause.
+
+### P2 Session Logging Format
+
+In `speaking/coach/sessions/YYYY-MM-DD.md`, mark P2 entries with the mode used:
+
+```
+## P2 (Mode: P2-A / P2-B / P2-C)
+- 题号 / 题目
+- [P2-A] 完成第 4 步: Y/N
+- [P2-B] 起手 ✓ / 延伸 ✗ / 收尾 ✓ / bullets 3/4 / 时长 75s
+- [P2-C] 完整诊断 (8-dim)
+- 下次进入哪个阶段
+```

@@ -37,6 +37,14 @@
 ## 互动方式
 
 ### 做题后流程
+
+**轻量记录模式（默认）**：
+suzy 只报材料名 + 分数（不带具体答案和原文）→ 我来：
+1. 在 `listening/ielts_listening_tracker.md` 做题记录行填写（日期/材料/Section/得分）
+2. 根据分数和历史错因推断当前阶段状态
+3. 提醒下次复习时间（D+1 跟读若有精听材料、D+7 加速等）
+
+**完整分析模式（suzy 明确要求精听时）**：
 suzy 发做题结果（错题+正确答案）和 transcript → 我来：
 1. 挑选需要精听的段落（错题集中区）
 2. 标出重点关注的句子
@@ -225,7 +233,33 @@ Part 1/2/3 的回答框架、泛化模板、关键词速查、188题参考回答
 
 ### `writing/` — 写作备考
 
-Task 1（小作文）和 Task 2（大作文）的写作指南。第3周开始阅读输入，第4周开始限时练习。当前尚未启动。
+Task 1（小作文）和 Task 2（大作文）的写作指南。T1 已启动（Bar/Line/Pie 多次仿写至 Band 7）。T2 于 2026-05-17 重新规划。
+
+**T2（大作文）— 一切以 `writing/t2-band7/` 为准**：
+- `writing/t2-band7/README.md` — 入口 + 导航
+- `writing/t2-band7/01_my_situation.md` — 现状诊断
+- `writing/t2-band7/02_band7_target.md` — Band 7 评分细则拆解 + 自查清单
+- `writing/t2-band7/03_question_types.md` — 5 题型骨架
+- `writing/t2-band7/04_toolkit.md` — 限量工具集（25 衔接 + 8 句式 + 5 opener + 20 升级词 + 复杂句）
+- `writing/t2-band7/05_path.md` — 5 周训练路径（5/17 → 6 月考）
+- `writing/t2-band7/examples/01_education_dbv.md` — Band 7 标杆范文（gold standard）
+- `writing/t2-band7/examples/02-05_*.md` — 其他 4 个题型的范文
+- `writing/t2-band7/log/sessions/`、`log/errors.md` — 训练记录 + 错误追踪
+
+**T1（小作文）— 继续用**：
+- `ielts_writing_methods.md` — T1 部分有效（T2 部分已废弃）
+- `ielts_task1_guide.docx` — T1 通用范文库（6 种图表类型）
+- `coach/error_log.md`（T1 段）、`coach/sessions/`、`coach/chart_bank.md`
+
+**已废弃（仅历史归档）**：
+- ~~`task2_my_path.md`~~ — 被 `t2-band7/` 取代
+- ~~`task2_band7_examples.md`~~ — 被 `t2-band7/examples/` 取代
+- ~~`ielts_task2_guide.docx`~~ — 冲满分写的（Band 8.5-9），水平错配
+
+**独立工具**：
+- `english_check_prompt.md` — 通用英文 grammar/expression 检查 prompt（给 Gemini/ChatGPT 用），不属于 T2 训练 pipeline
+
+**对应 Skill**：`.claude/skills/writing-coach/` — 触发 T1 走限时仿写流程；触发 T2 按 `t2-band7/05_path.md` 当前周阶段执行。
 
 ---
 

@@ -1,7 +1,16 @@
 # 雅思写作训练方法手册
 
+> **⚠️ T2 部分已被 `writing/t2-band7/` 完全取代（2026-05-17 起）**。
+> 本文档**只保留 T1 部分有效**——T1 的方法论（范文输入法 / 限时仿写法 / 模考法）继续用。
+> T2 一切以 `writing/t2-band7/` 为准，不要再看本文档的 T2 内容。
+>
+> ---
+>
 > 配套文档：`ielts_task1_guide.docx`（Task 1 完整指南 — 图表描述7项技巧+6种图表类型范文）
-> 配套文档：`ielts_task2_guide.docx`（Task 2 完整指南 — 3种题型+10大话题+评分标准）
+> ~~配套文档：`ielts_task2_guide.docx`~~（已废弃，不用看）
+> ~~配套文档：`task2_band7_examples.md`~~（已被 `t2-band7/examples/` 取代）
+> ~~配套文档：`task2_my_path.md`~~（已被 `t2-band7/` 取代）
+> **T2 权威路径：`writing/t2-band7/README.md`**
 > 第三方参考：`third/雅思小作文万能句式、词汇总结.pdf`
 > 第三方参考：`third/雅思精简版写作高频词汇-edited.pdf`
 > 第三方参考：`third/雅思大作文十大话题及相关词汇-edited.pdf`
@@ -70,34 +79,17 @@ Day 4：Task 1 范文精读（60min）
     - 同样逐句分析+标记好句
   同时参考：third/雅思小作文万能句式、词汇总结.pdf
 
-Day 5：Task 1 特殊图型 + Task 2 入门（60min）
-  Step 1 · 读 Process Diagram 和 Map 范文（20min）
+Day 5：Task 1 特殊图型（60min）
+  Step 1 · 读 Process Diagram 和 Map 范文（30min）
     - 注意：Process用被动语态，Map用方位词
-  Step 2 · 读 Task 2 Guide — Skill 1-3（40min）
-    - Skill 1：审题（判断题型A/B/C + 划关键词）
-    - Skill 2：列提纲（4段结构：开头→Body 1→Body 2→结尾）
-    - Skill 3：段落公式（主题句+理由+例子+小结）
+  Step 2 · 标记好句 + 自己复述结构（30min）
 
-Day 6：Task 2 结构深化（60min）
-  Step 1 · 读 Task 2 Guide — Skill 4-6（30min）
-    - Skill 4：开头段写法（改写题目+表明立场，≤50词）
-    - Skill 5：结尾段写法（重申立场，≤30词，不加新观点）
-    - Skill 6：衔接词使用（段间+段内）
-  Step 2 · 读 Task 2 Guide — Skill 7-8 + Type A范文（30min）
-    - Skill 7：语法要点（复杂句比例、常见错误）
-    - Skill 8：常见评分陷阱
-    - 逐句分析1篇Type A范文
-  同时参考：third/雅思精简版写作高频词汇-edited.pdf
-
-Day 7：Task 2 范文 + 总结（60min）
-  Step 1 · 读 Type B + Type C 范文（30min）
-    - Type A（双边讨论）：两边都写，最后表态
-    - Type B（同意/不同意）：明确立场+两段论证
-    - Type C（问题+原因+方案）：分析原因+给出建议
-  Step 2 · 用自己的话写1页总结笔记（30min）
-    - Task 1 的四段结构 + 5个核心数据表达
-    - Task 2 的三种题型 + 段落公式
-  同时参考：third/雅思大作文十大话题及相关词汇-edited.pdf
+Day 6-7：Task 2 入门 → **不在这里**
+  T2 的输入流程见 `task2_my_path.md` §8（必读的 docx Skill 1/3/4/5 + Skill 8 前 6 + 选一篇 task2_band7_examples.md 的范文拆结构）
+  本文档原本的"读 docx Skill 1-8 + Type A/B/C 范文"流程已废弃，因为：
+  • Skill 7 my_path 标为永远跳过（Band 7+ 语法会写残扣分）
+  • 题型是 5 种（A/D, DBV, P/S, C/E, 2-Pt），不是 Type A/B/C
+  • Day 6-7 改为按 my_path §8 节奏自由分配
 ```
 
 #### 范文输入法的内部验收
@@ -106,8 +98,8 @@ Day 7：Task 2 范文 + 总结（60min）
 |---|---|
 | Task 1 结构 | 说出四段各自的功能和大约词数 |
 | Task 1 句式 | 背出上升/下降/波动/稳定/约数各1个表达 |
-| Task 2 题型 | 说出三种题型的名称和结构差异 |
-| Task 2 段落公式 | 说出段落公式：主题句+理由+例子+小结 |
+| Task 2 题型 | 详见 `task2_my_path.md` §3（5 种题型骨架，30 秒能复述） |
+| Task 2 段落公式 | TEEL（Topic→Explain→Example→Link），详见 my_path §3 末尾 |
 | 范文分析 | 能指出一篇范文中每段的功能 |
 
 **验收通过 → 进入训练二：限时仿写法**
@@ -149,38 +141,11 @@ Step 4 · 自评（13min）
   - 标记最大的1-2个问题，下一篇重点改进
 ```
 
-#### Task 2 限时仿写流程（55min/篇 含复盘）
+#### Task 2 流程 → **不在这里**
 
-```
-Step 1 · 审题（2min）
-  - 判断题型：Type A / Type B / Type C
-  - 划出题目关键词，确保不跑题
+**T2 不沿用 T1 的"限时仿写"流程**——你的瓶颈是"主动输出弱"，需要从高脚手架→无脚手架渐进（仿写 → 骨架填充 → cold production），不能一上来就限时 cold production。
 
-Step 2 · 列提纲（3min）
-  - 开头段：改写题目+表明立场（1句）
-  - Body 1：主要论点+理由+例子
-  - Body 2：次要论点/对立面+理由+例子
-  - 结尾段：重申立场（1句）
-
-Step 3 · 写作（35min）
-  - 开头段：3句，≤50词
-  - Body 1：5-6句，≤100词
-  - Body 2：5-6句，≤100词
-  - 结尾段：2句，≤30词
-  - 目标：≥ 250词
-
-Step 4 · 检查（2min）
-  - 论点是否回应了题目？每段有没有跑题？
-  - 语法快查：时态、主谓一致、there is/are
-
-Step 5 · 自评（13min）
-  - 对照评分标准逐项打分：
-    □ Task Response：正面回答了问题吗？立场清晰吗？
-    □ Coherence：段落逻辑？衔接词？
-    □ Lexical Resource：话题词汇够吗？有没有重复用词？
-    □ Grammar：复杂句比例？错误密度？
-  - 标记最大1-2个问题
-```
+**详细流程见 `writing/task2_my_path.md` §4 三阶训练法**。本节只保留 T1 的限时仿写流程。
 
 #### 仿写训练节奏
 
@@ -194,15 +159,25 @@ Step 5 · 自评（13min）
   Day 6：限时20min写1篇 Task 1（Process/Map）→ 自评
   Day 7：自评本周3篇限时作文 → 总结个人常犯错误
 
-第6周（Task 2 框架+仿写）：
-  Day 1-3：读Guide + 分析范文（每天1种题型）
-  Day 4-6：每天限时40min写1篇（Type A→B→C各1篇）
-  Day 7：三篇横向对比 → 总结个人弱点
+第6周（Task 2 阶段1-2：仿写 + 骨架填充）：
+  **重要：T2 不沿用 T1 的"限时仿写"流程。改用 `task2_my_path.md` §4 的三阶训练法**
+  （理由：你的瓶颈是"主动输出弱"，需要从高脚手架→无脚手架渐进，不能直接限时 cold production）
 
-第7周（Task 2 话题+限时练）：
-  每天选1个话题 → 积累话题词汇 → 限时40min写1篇
-  覆盖：Education / Technology / Environment / Government&Health / Crime&Globalisation
-  第7天：限时60min连写 T1(20min) + T2(40min)
+  Day 1：读 task2_my_path.md（一次性读完）+ docx Skill 1-5
+  Day 2：读 task2_band7_examples.md §1.1 Education DBV + 自己画结构（仿写阶段 step 2）
+  Day 3：仿写 1 (Education DBV — task2_band7_examples.md §1.1)
+  Day 4：仿写 2 (Technology A/D §2.1 或 Environment §8.1)
+  Day 5：仿写 3 (Crime C/E §6.1 或 Globalisation DBV §3.1)
+  Day 6-7：进入阶段 2 骨架填充（我给骨架模板，你填 TEEL）×2 篇
+  毕业标准：见 task2_my_path.md §4（连续 2 篇仿写结构+TEEL 都 ✅）
+
+第7周（Task 2 阶段3：Cold Production）：
+  Day 1-5：每天 cold production 1 篇（40 min 严格限时）+ 自评 + 反馈
+  题型轮换：A/D → DBV → P/S → C/E → 2-Pt
+  话题：从你最熟的几个开始（Education / Technology / Environment）
+  Day 6：弱点话题加练 1 篇
+  Day 7：限时60min连写 T1(20min) + T2(40min)
+  毕业标准：3 次 cold production，2 次拿到 Band 6.5 反馈
 ```
 
 #### 限时仿写法的内部验收
@@ -310,29 +285,11 @@ Step 4 · 针对性补练（15min）
 
 ---
 
-## Task 2 三种题型速查
+## Task 2 题型 / 话题词汇 → **不在这里**
 
-| 题型 | 关键词 | 结构 | 注意事项 |
-|------|--------|------|---------|
-| Type A 双边讨论 | Discuss both views and give your opinion | 开头→View A→View B→结尾（你的立场） | 两边都要写，不能只写一边 |
-| Type B 同意/不同意 | To what extent do you agree or disagree | 开头（立场）→理由1→理由2→结尾 | 立场要贯穿始终，不能两头摇摆 |
-| Type C 问题分析 | What are the causes/problems? What solutions? | 开头→原因/问题→解决方案→结尾 | 原因和方案要对应 |
+T2 所有内容（**5 题型**骨架、话题词汇取舍、三阶训练法、限量工具箱）全部在 **`writing/task2_my_path.md`** 里。本文档只保留 T1 的速查表。
 
----
-
-## Task 2 十大话题词汇速查
-
-> 详细词汇见 third/雅思大作文十大话题及相关词汇-edited.pdf，这里只列每个话题最核心的5个表达。
-
-| 话题 | 5个核心表达 |
-|------|-----------|
-| Education | critical thinking / rote learning / well-rounded development / academic pressure / lifelong learning |
-| Technology | digital literacy / privacy concerns / artificial intelligence / screen time / technological advancement |
-| Environment | carbon footprint / renewable energy / biodiversity loss / sustainable development / climate change |
-| Health | mental well-being / sedentary lifestyle / preventive medicine / public health / balanced diet |
-| Government | public spending / tax revenue / social welfare / policy implementation / civic responsibility |
-| Crime | rehabilitation / deterrent effect / juvenile delinquency / recidivism / law enforcement |
-| Globalisation | cultural identity / economic integration / brain drain / trade barriers / cultural exchange |
-| Media | misinformation / media literacy / freedom of press / social media influence / public opinion |
-| Work | remote working / work-life balance / job satisfaction / automation / career progression |
-| Society | income inequality / social mobility / aging population / urbanisation / community cohesion |
+**不要在这份 methods.md 重复列 T2 题型** —— 因为：
+1. T2 是 **5 种题型**（A/D, DBV, P/S, C/E, 2-Pt），不是早期版本写的 3 种（Type A/B/C）
+2. 5.5→6.5 阶段**不优先背话题词汇表**（详见 `task2_my_path.md` §1 + §7）
+3. 单点源原则：T2 一切以 my_path 为准，重复列表会出现版本漂移

@@ -82,6 +82,16 @@
 
 ---
 
+## Pattern 15: `literally` as intensifier/filler
+**Example:** "I'm not literally a morning person" — `literally` modifying a figurative expression
+**Surface:** `literally` used to add emphasis, but the phrase it modifies is a metaphor ("morning person"), making the sentence semantically contradictory.
+**Deep:** Same family as Pattern 5 (`actually`) — a Chinese intensifier/stance particle (真的/真的是) mapped onto an English word. `literally` in English must be reserved for things that are factually, non-figuratively true. Using it on metaphors/idioms is a native-speaker error even in informal speech.
+**Fix:** `literally` = only when the thing could ALSO be interpreted as figurative, and you're clarifying it's real. Test: "I literally ran 10km" ✅. "I'm literally not a morning person" ❌ (morning person is always figurative).
+**Status:** First occurrence 4/25. Monitor alongside Pattern 5.
+**Occurrences:** 1
+
+---
+
 ## How to use this log in sessions
 
 After every cold production output, don't just correct — ask:
@@ -128,8 +138,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Wrong preposition choice.
 **Deep:** Chinese prepositions don't map 1-to-1 to English. 在我这个年龄 defaults to "in" because 在 = in is the first-learned mapping. 因为 defaults to "by" (方式) instead of "for" (原因). English prepositions are highly idiomatic and need to be learned collocationally, not compositionally.
 **Fix:** Learn preposition as part of the phrase: **at** this age / **at** 40 / **for** doing sth (原因) / **by** doing sth (方式/工具) / **to** a high standard / **for** breakfast/lunch/dinner.
-**Status:** Recurring. 4/18 复发："at nearly 40 ages"。4/19 复发："as breakfast" → for breakfast。4/24 复发："I have been Kyoto" → been **to** Kyoto（固定搭配 have been to 漏介词）。
-**Occurrences:** 6
+**Status:** Recurring — 当前最高频 pattern，每次 session 都触发。4/18 复发："at nearly 40 ages"。4/19 复发："as breakfast" → for breakfast。4/24 复发："I have been Kyoto" → been **to** Kyoto。4/25 复发："after 14 years **of** a programmer" → **as** a programmer。4/26 三次：stuck **at** → behind / "**where** there are plenty" → with（连接词扩展）/ "listening **music**" → listening **to** music。
+**Occurrences:** 10+
 
 ---
 
@@ -140,6 +150,16 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** Every time you say "family/wife/son/parents" in reference to yourself, check: is `my` there?
 **Status:** First occurrence 4/18. Monitor — likely to recur given how frequent family references are in P1/P2.
 **Occurrences:** 1
+
+---
+
+## Pattern 16: Near-homophone vocabulary confusion
+**Examples:** "scrawled to the meeting room" (scrawl=潦草书写) → "scrambled" (慌乱赶去); "fairly ever" → "hardly ever"（方向完全反转）
+**Surface:** Wrong word chosen — similar sound/spelling but completely different meaning.
+**Deep:** Retrieval under pressure pulls up a phonetically similar word. scrawl/scramble share initial sounds; fairly/hardly are both 2-syllable -ly adverbs. The correct word exists in passive vocabulary but loses the retrieval race to the more recently-encountered lookalike. Especially dangerous when the substitution reverses the meaning (fairly=quite vs hardly=almost not).
+**Fix:** Pair confusables: scrawl (writing) vs scramble (rush); fairly (quite/moderately) vs hardly (almost not). For frequency: hardly ever / barely ever / scarcely ever — all negative direction.
+**Status:** 4/27 scrawl→scramble; 4/29 fairly→hardly（意义反转，最危险的一类）
+**Occurrences:** 2
 
 ---
 

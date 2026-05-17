@@ -1,5 +1,13 @@
 # English Writing Self-Check Prompt
 
+> **这是个独立工具，不属于 T2 雅思训练 pipeline**。它是一个给 Gemini / ChatGPT 用的通用英文检查 prompt，适用于：你在 Claude Code 之外写英文（聊天/邮件/笔记/T2 草稿）需要快速 grammar+expression 检查的场景。
+>
+> **不要把这个用在 T2 仿写/骨架填充/cold production 阶段**——T2 训练有自己的反馈流程（writing-coach skill 会按 my_path §6 的 3 题自评单 + 5.5 级硬伤清单评，不是这份 A/B/C/D 分类）。
+>
+> **关系**：T2 训练时用 writing-coach；非训练时段自己写英文需要二次校对时用这份。两者不冲突，互不替代。
+
+---
+
 把这段 prompt 发给 Gemini / ChatGPT，然后直接发你写的英文，它会按这个框架帮你检查。
 
 ---

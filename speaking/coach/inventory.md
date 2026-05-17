@@ -18,24 +18,26 @@
 | eat out | 去餐馆吃（≠eat outside） | 0 | "On weekdays I just eat out" |
 | ~~though (句尾)~~ | ~~不过/但是（口语转折）~~ | 3 ✓✓✓ | 4/22 "After lunch, though, I guard my nap time like it's sacred" — **已毕业** |
 | be used to doing | 习惯做某事 | 1 ✓ | 4/19 Q2 food "were used to eating noodles" — 首次冷启动产出 |
-| unwind | 放松解压 | 0 | "Reading helps me unwind" |
-| you name it | 列举收尾 | 0 | "Code, docs, messages, you name it" |
-| blanketed in | 被...覆盖（画面感） | 0 | "Valleys blanketed in mist" |
+| unwind | 放松解压 | 1 ✓ | 4/27 Q1 Emei scenery "I could completely unwind" — 首次冷启动 |
+| ~~you name it~~ | ~~列举收尾~~ | 3 ✓✓✓ | 4/27 Q2 drill + Q3 自然产出 — **已毕业** |
+| blanketed in | 被...覆盖（画面感） | 1 ✓ | 4/27 drill "a winter morning blanketed in the mist" |
+| be after sth | 想要的是...，追求的是... | 1 ✓ | 4/29 drill "wealth is not what I'm after" |
+| can't hold onto | 抓不住，留不住（记忆/感觉） | 1 ✓ | 4/29 drill "I can't hold onto the memories of my dreams" |
 | quite a few | 相当多（不是很少） | 0 | "Quite a few people showed up" |
-| Good times, though. | 回忆过去收尾 | 2 ✓✓ | 4/19 Q1 "good times, though" ✅ / 4/22 though 已毕业大类，此短语继续自然产出中 |
+| ~~Good times, though.~~ | ~~回忆过去收尾~~ | 3 ✓✓✓ | 4/25 Q2 morning — **已毕业** |
 | fall into place | 事情自然就顺了 | 1 ✓ | 4/16 drilled "once you understand the question, the rest will fall into place" — 第一次漏 into |
 | haven't been allowed to... since | 从那以后再没被允许 | 0 | 4/16 drilled but mixed with "for months" — since 已含"至今"不需要 for |
 | without cutting corners | 没偷工减料 | 0 | "delivered on time without cutting corners" |
-| hardly ever | 几乎从不 | 1 ✓ | 4/16 自然冒出 |
+| hardly ever | 几乎从不 | 1 ✓ | 4/16 自然冒出；4/29 形近词替换成 "fairly ever"（意义反转），需巩固 |
 | stuck behind a desk | 困在办公桌后（替代 working at a desk） | 1 ✓ | 4/24 复产成功，注意是 behind 不是 in/at |
 | fall through | 计划泡汤 | 0 | 4/18 drill 2/2，待自然产出 |
 | back out (of sth) | 退出交易/承诺 | 0 | 4/18 新增 |
 | stay healthy and happy | 健康快乐（替代 "live together with safety, health and happiness"） | 0 | 4/18 取代 L1 直译 |
-| know X way better than I did in [past] | Band 7 比较框架 | 1 ✓ | 4/18 drill 经一次纠正后内化 |
+| know X way better than I did in [past] | Band 7 比较框架 | 2 ✓✓ | 4/26 Q2 Age 自然产出 |
 | drag oneself out of bed | 挣扎着起床 | 0 | 4/19 新增 |
 | not get tired of it | 吃不腻/不厌倦 | 0 | 4/19 新增 |
 | it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
-| I wouldn't trade it | 虽然忙/难，但值得（收尾） | 2 ✓✓ | 4/24 Q1 Walking — 复产成功 |
+| ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
 
 ## Graduated (internalized, no longer needs drilling)
 
@@ -43,6 +45,9 @@
 - **just** — 4/18 第 3 次成功（sports "I'm just stuck behind a desk"）
 - **that kind of thing** — 4/19 第 3 次成功（morning "the kindergarten run, going to work, that kind of thing"）
 - **though（句尾/中段对比）** — 4/22 第 3 次成功（Q2 nap "After lunch, though, I guard my nap time like it's sacred"）
+- **Good times, though** — 4/25 第 3 次成功（Q2 morning "Good times, though" 自然产出）
+- **I wouldn't trade it** — 4/26 第 3 次成功（Q1 sports "Good times, though — I wouldn't trade it"）
+- **you name it** — 4/27 第 3 次成功（Q2 drill "drawing, playing dinosaur, watching cartoons, you name it"）
 
 ## Notes
 - `back down` and `unresolved` were the two slip-ups in the first reformulation attempt — prioritize these

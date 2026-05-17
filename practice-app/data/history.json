@@ -443,6 +443,22 @@
         "total": 3,
         "correct": 3,
         "wrongWords": []
+      },
+      {
+        "date": "2026-04-29T00:47:25.522Z",
+        "category": "精听卡点词:日期",
+        "total": 12,
+        "correct": 12,
+        "wrongWords": [
+          "promenade"
+        ]
+      },
+      {
+        "date": "2026-04-29T00:47:30.739Z",
+        "category": "精听卡点词:日期",
+        "total": 1,
+        "correct": 1,
+        "wrongWords": []
       }
     ],
     "wordStats": {
@@ -1839,9 +1855,9 @@
         "lastWrong": null
       },
       "personality": {
-        "attempts": 5,
-        "correct": 4,
-        "lastSeen": "2026-04-23",
+        "attempts": 6,
+        "correct": 5,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-12"
       },
       "clerk": {
@@ -2187,69 +2203,69 @@
         "lastWrong": "2026-04-20"
       },
       "surviving": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-23",
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29",
         "lastWrong": null
       },
       "heritage": {
-        "attempts": 4,
-        "correct": 3,
-        "lastSeen": "2026-04-23",
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-21"
       },
       "promenade": {
-        "attempts": 5,
-        "correct": 3,
-        "lastSeen": "2026-04-23",
-        "lastWrong": "2026-04-21"
+        "attempts": 8,
+        "correct": 5,
+        "lastSeen": "2026-04-29",
+        "lastWrong": "2026-04-29"
       },
       "communication": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-23",
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29",
         "lastWrong": null
       },
       "electric": {
-        "attempts": 4,
-        "correct": 3,
-        "lastSeen": "2026-04-23",
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-23"
       },
       "Jamieson": {
-        "attempts": 6,
-        "correct": 4,
-        "lastSeen": "2026-04-23",
+        "attempts": 7,
+        "correct": 5,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-23"
       },
       "horse-drawn": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-23",
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29",
         "lastWrong": null
       },
       "claimed": {
-        "attempts": 4,
-        "correct": 3,
-        "lastSeen": "2026-04-23",
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-21"
       },
       "cafe": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-23",
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29",
         "lastWrong": null
       },
       "leisurely": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-23",
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29",
         "lastWrong": null
       },
       "parliament": {
-        "attempts": 5,
-        "correct": 3,
-        "lastSeen": "2026-04-23",
+        "attempts": 6,
+        "correct": 4,
+        "lastSeen": "2026-04-29",
         "lastWrong": "2026-04-23"
       }
     },
@@ -2485,6 +2501,240 @@
         "mode": "retry",
         "total": 2,
         "correct": 2
+      },
+      {
+        "date": "2026-04-26T14:52:45.283Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 12
+      },
+      {
+        "date": "2026-04-26T14:53:22.474Z",
+        "mode": "retry",
+        "total": 3,
+        "correct": 3
+      },
+      {
+        "date": "2026-04-26T15:02:43.043Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 8
+      },
+      {
+        "date": "2026-04-26T15:04:04.575Z",
+        "mode": "retry",
+        "total": 7,
+        "correct": 2
+      },
+      {
+        "date": "2026-04-26T15:04:51.729Z",
+        "mode": "retry",
+        "total": 5,
+        "correct": 5
+      },
+      {
+        "date": "2026-04-26T15:16:04.362Z",
+        "mode": "L2",
+        "total": 15,
+        "correct": 5
+      },
+      {
+        "date": "2026-04-26T15:21:33.033Z",
+        "mode": "retry",
+        "total": 10,
+        "correct": 5
+      },
+      {
+        "date": "2026-04-26T15:22:38.515Z",
+        "mode": "retry",
+        "total": 5,
+        "correct": 2
+      },
+      {
+        "date": "2026-04-26T15:23:24.313Z",
+        "mode": "retry",
+        "total": 3,
+        "correct": 2
+      },
+      {
+        "date": "2026-04-26T15:29:16.656Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-26T15:31:30.858Z",
+        "mode": "wrong",
+        "total": 10,
+        "correct": 6
+      },
+      {
+        "date": "2026-04-26T15:32:14.643Z",
+        "mode": "retry",
+        "total": 4,
+        "correct": 3
+      },
+      {
+        "date": "2026-04-26T15:32:24.652Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 0
+      },
+      {
+        "date": "2026-04-27T15:47:47.414Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 10
+      },
+      {
+        "date": "2026-04-27T15:48:28.587Z",
+        "mode": "retry",
+        "total": 5,
+        "correct": 4
+      },
+      {
+        "date": "2026-04-27T15:48:36.267Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-27T15:52:46.758Z",
+        "mode": "L2",
+        "total": 15,
+        "correct": 9
+      },
+      {
+        "date": "2026-04-27T15:53:42.297Z",
+        "mode": "retry",
+        "total": 6,
+        "correct": 6
+      },
+      {
+        "date": "2026-04-28T13:53:36.655Z",
+        "mode": "wrong",
+        "total": 8,
+        "correct": 5
+      },
+      {
+        "date": "2026-04-28T13:54:11.371Z",
+        "mode": "retry",
+        "total": 3,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T13:54:41.946Z",
+        "mode": "retry",
+        "total": 2,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T14:34:35.758Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T14:36:15.260Z",
+        "mode": "day",
+        "total": 5,
+        "correct": 3
+      },
+      {
+        "date": "2026-04-28T14:36:58.010Z",
+        "mode": "retry",
+        "total": 2,
+        "correct": 2
+      },
+      {
+        "date": "2026-04-28T14:40:51.077Z",
+        "mode": "L2",
+        "total": 15,
+        "correct": 10
+      },
+      {
+        "date": "2026-04-28T14:41:51.287Z",
+        "mode": "retry",
+        "total": 5,
+        "correct": 4
+      },
+      {
+        "date": "2026-04-28T14:42:04.422Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T14:45:56.899Z",
+        "mode": "L3",
+        "total": 15,
+        "correct": 7
+      },
+      {
+        "date": "2026-04-28T14:47:26.853Z",
+        "mode": "retry",
+        "total": 8,
+        "correct": 6
+      },
+      {
+        "date": "2026-04-28T14:47:53.388Z",
+        "mode": "retry",
+        "total": 2,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T14:48:04.420Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-28T14:50:28.722Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 12
+      },
+      {
+        "date": "2026-04-28T14:51:10.701Z",
+        "mode": "retry",
+        "total": 3,
+        "correct": 3
+      },
+      {
+        "date": "2026-04-29T00:50:50.598Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 8
+      },
+      {
+        "date": "2026-04-29T00:51:53.910Z",
+        "mode": "retry",
+        "total": 7,
+        "correct": 5
+      },
+      {
+        "date": "2026-04-29T00:52:21.240Z",
+        "mode": "retry",
+        "total": 2,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-29T00:52:30.806Z",
+        "mode": "retry",
+        "total": 1,
+        "correct": 1
+      },
+      {
+        "date": "2026-04-29T00:59:17.716Z",
+        "mode": "L1",
+        "total": 15,
+        "correct": 11
+      },
+      {
+        "date": "2026-04-29T00:59:44.260Z",
+        "mode": "retry",
+        "total": 4,
+        "correct": 4
       }
     ],
     "sentenceStats": {
@@ -2499,34 +2749,34 @@
         "lastSeen": "2026-04-19T10:05:35.733Z"
       },
       "c5t2s1-5p-a4a3": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-19T10:05:23.440Z"
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:46:19.574Z"
       },
       "c5t4s1-60-80": {
-        "attempts": 3,
-        "correct": 2,
-        "lastSeen": "2026-04-20T15:06:09.833Z"
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:47:14.861Z"
       },
       "c5t4s1-930": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-19T10:04:53.537Z"
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:35:43.879Z"
       },
       "c5t3s1-1.4": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-19T10:05:58.500Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-28T14:48:20.429Z"
       },
       "c14t1s1-10": {
-        "attempts": 4,
-        "correct": 3,
-        "lastSeen": "2026-04-25T03:44:11.169Z"
+        "attempts": 5,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:59:01.515Z"
       },
       "c5t4s1-100": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-20T15:07:17.283Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:48:14.712Z"
       },
       "c14t1s1-1992": {
         "attempts": 3,
@@ -2544,24 +2794,24 @@
         "lastSeen": "2026-04-20T15:04:05.155Z"
       },
       "c5t3s1-decimals": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-19T10:07:34.611Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:44:10.751Z"
       },
       "c14t2s2-1100": {
-        "attempts": 4,
-        "correct": 3,
-        "lastSeen": "2026-04-25T04:41:50.974Z"
+        "attempts": 6,
+        "correct": 5,
+        "lastSeen": "2026-04-28T14:48:27.408Z"
       },
       "c14t2s1-3weeks": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-20T15:03:51.467Z"
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:46:27.729Z"
       },
       "c14t2s1-114th": {
-        "attempts": 5,
-        "correct": 2,
-        "lastSeen": "2026-04-21T13:34:42.403Z"
+        "attempts": 11,
+        "correct": 6,
+        "lastSeen": "2026-04-28T14:40:20.782Z"
       },
       "c14t2s2-18c": {
         "attempts": 5,
@@ -2569,14 +2819,14 @@
         "lastSeen": "2026-04-25T04:37:14.142Z"
       },
       "c14t2s2-10min": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-20T15:04:57.089Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:45:55.405Z"
       },
       "c5t2s1-6hrs": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-20T15:05:44.819Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:42:14.032Z"
       },
       "c14t4s2-700m-20km": {
         "attempts": 2,
@@ -2589,19 +2839,19 @@
         "lastSeen": "2026-04-25T05:29:54.471Z"
       },
       "c14t2s2-19c": {
-        "attempts": 3,
-        "correct": 3,
-        "lastSeen": "2026-04-25T04:41:30.110Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:57:14.781Z"
       },
       "c14t2s2-4nights": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-20T15:07:53.257Z"
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:59:29.299Z"
       },
       "c14t2s2-400yrs": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-25T05:35:39.031Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:49:30.915Z"
       },
       "c5t4s1-4months": {
         "attempts": 1,
@@ -2609,9 +2859,9 @@
         "lastSeen": "2026-04-21T13:32:58.537Z"
       },
       "c14t2s1-dob": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-21T13:33:15.590Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:50:11.946Z"
       },
       "c5t2s1-24hrs": {
         "attempts": 1,
@@ -2619,9 +2869,9 @@
         "lastSeen": "2026-04-21T13:33:35.581Z"
       },
       "c5t3s1-1.2": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-21T13:34:03.370Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:37:42.270Z"
       },
       "c5t3s1-70k": {
         "attempts": 1,
@@ -2629,9 +2879,9 @@
         "lastSeen": "2026-04-21T13:34:16.138Z"
       },
       "c14t2s1-phone": {
-        "attempts": 3,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:01:49.088Z"
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:42:03.063Z"
       },
       "drill-55": {
         "attempts": 5,
@@ -2639,34 +2889,34 @@
         "lastSeen": "2026-04-25T04:37:04.713Z"
       },
       "drill-k-9000": {
-        "attempts": 3,
-        "correct": 3,
-        "lastSeen": "2026-04-25T03:55:53.243Z"
-      },
-      "drill-62": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:41:37.069Z"
-      },
-      "drill-dec-3.5": {
         "attempts": 4,
         "correct": 4,
-        "lastSeen": "2026-04-25T05:35:23.908Z"
+        "lastSeen": "2026-04-29T00:56:50.875Z"
+      },
+      "drill-62": {
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-28T14:49:14.160Z"
+      },
+      "drill-dec-3.5": {
+        "attempts": 7,
+        "correct": 5,
+        "lastSeen": "2026-04-26T15:04:50.153Z"
       },
       "drill-h-200": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T03:39:54.315Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29T00:57:06.570Z"
       },
       "drill-dec-4.7": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T03:40:13.215Z"
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:51:20.458Z"
       },
       "drill-dec-0.4": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:41:24.097Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29T00:48:13.764Z"
       },
       "drill-23": {
         "attempts": 2,
@@ -2674,84 +2924,84 @@
         "lastSeen": "2026-04-25T04:18:37.457Z"
       },
       "drill-h-175": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T03:45:04.603Z"
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:49:24.769Z"
       },
       "drill-14": {
-        "attempts": 6,
-        "correct": 4,
-        "lastSeen": "2026-04-25T05:08:48.721Z"
+        "attempts": 7,
+        "correct": 5,
+        "lastSeen": "2026-04-26T14:52:25.820Z"
       },
       "drill-19": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:17:28.380Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:58:53.881Z"
       },
       "drill-k-8000": {
-        "attempts": 5,
-        "correct": 2,
-        "lastSeen": "2026-04-25T05:38:08.083Z"
+        "attempts": 8,
+        "correct": 4,
+        "lastSeen": "2026-04-28T14:51:05.160Z"
       },
       "drill-60": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T03:54:04.092Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:35:24.065Z"
       },
       "drill-16": {
-        "attempts": 3,
-        "correct": 2,
-        "lastSeen": "2026-04-25T05:37:45.809Z"
+        "attempts": 6,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:51:51.138Z"
       },
       "drill-70": {
-        "attempts": 4,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:44:01.349Z"
+        "attempts": 9,
+        "correct": 5,
+        "lastSeen": "2026-04-28T14:50:39.072Z"
       },
       "drill-dec-0.8": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T03:54:56.405Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-26T14:46:03.598Z"
       },
       "drill-46": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:00:56.028Z"
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:58:45.620Z"
       },
       "drill-480": {
-        "attempts": 5,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:44:52.231Z"
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-26T14:46:21.183Z"
       },
       "drill-99": {
-        "attempts": 2,
-        "correct": 2,
-        "lastSeen": "2026-04-25T04:17:13.401Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:48:48.544Z"
       },
       "drill-53": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:00:43.172Z"
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:52:01.034Z"
       },
       "drill-10k-50000": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:01:23.174Z"
+        "attempts": 10,
+        "correct": 5,
+        "lastSeen": "2026-04-28T14:38:30.581Z"
       },
       "drill-dec-neg2.5": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:02:03.414Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-28T14:39:31.565Z"
       },
       "drill-h-825": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:08:33.272Z"
+        "attempts": 8,
+        "correct": 4,
+        "lastSeen": "2026-04-28T13:52:49.854Z"
       },
       "drill-h-530": {
-        "attempts": 1,
-        "correct": 0,
-        "lastSeen": "2026-04-25T04:05:33.888Z"
+        "attempts": 6,
+        "correct": 2,
+        "lastSeen": "2026-04-28T13:52:33.948Z"
       },
       "drill-2500": {
         "attempts": 1,
@@ -2759,29 +3009,29 @@
         "lastSeen": "2026-04-25T04:06:05.112Z"
       },
       "drill-k-2800": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:08:13.104Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-27T15:49:30.853Z"
       },
       "drill-15000": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:08:50.633Z"
-      },
-      "drill-dec-7.25": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:09:15.184Z"
-      },
-      "drill-74": {
-        "attempts": 3,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:17:54.722Z"
-      },
-      "drill-13": {
         "attempts": 3,
         "correct": 2,
-        "lastSeen": "2026-04-25T05:38:01.003Z"
+        "lastSeen": "2026-04-28T14:41:19.560Z"
+      },
+      "drill-dec-7.25": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-26T15:21:42.413Z"
+      },
+      "drill-74": {
+        "attempts": 9,
+        "correct": 3,
+        "lastSeen": "2026-04-28T13:54:53.687Z"
+      },
+      "drill-13": {
+        "attempts": 4,
+        "correct": 3,
+        "lastSeen": "2026-04-26T15:02:41.026Z"
       },
       "drill-k-1000": {
         "attempts": 1,
@@ -2789,14 +3039,14 @@
         "lastSeen": "2026-04-25T04:18:47.827Z"
       },
       "drill-k-7000": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:35:35.117Z"
+        "attempts": 11,
+        "correct": 6,
+        "lastSeen": "2026-04-29T00:56:58.533Z"
       },
       "drill-27": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:42:16.201Z"
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:49:41.791Z"
       },
       "drill-k-5000": {
         "attempts": 3,
@@ -2804,9 +3054,9 @@
         "lastSeen": "2026-04-25T05:08:37.949Z"
       },
       "drill-15": {
-        "attempts": 3,
-        "correct": 1,
-        "lastSeen": "2026-04-25T04:44:44.879Z"
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-29T00:56:42.850Z"
       },
       "drill-dec-1.8": {
         "attempts": 1,
@@ -2814,34 +3064,309 @@
         "lastSeen": "2026-04-25T04:43:36.567Z"
       },
       "drill-k-4500": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T05:08:31.466Z"
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-29T00:49:02.922Z"
       },
       "drill-67": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-25T05:37:14.955Z"
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-26T14:51:49.784Z"
       },
       "drill-80": {
-        "attempts": 3,
-        "correct": 1,
-        "lastSeen": "2026-04-25T05:38:15.937Z"
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-27T15:47:54.385Z"
       },
       "drill-96": {
-        "attempts": 2,
-        "correct": 1,
-        "lastSeen": "2026-04-25T05:37:53.866Z"
+        "attempts": 6,
+        "correct": 3,
+        "lastSeen": "2026-04-26T15:30:45.550Z"
       },
       "drill-44": {
-        "attempts": 1,
-        "correct": 1,
-        "lastSeen": "2026-04-25T05:36:39.088Z"
+        "attempts": 4,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:50:15.738Z"
       },
       "drill-dec-5.3": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-26T14:54:06.818Z"
+      },
+      "drill-83": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-27T15:48:27.068Z"
+      },
+      "drill-250": {
         "attempts": 1,
         "correct": 1,
-        "lastSeen": "2026-04-25T05:36:50.872Z"
+        "lastSeen": "2026-04-26T14:45:24.677Z"
+      },
+      "drill-dec-6.5": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-27T15:48:10.373Z"
+      },
+      "drill-h-300": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:59:14.587Z"
+      },
+      "drill-k-6000": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-26T14:52:05.294Z"
+      },
+      "drill-18": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-26T14:55:11.702Z"
+      },
+      "drill-17": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-26T15:29:46.406Z"
+      },
+      "drill-58": {
+        "attempts": 8,
+        "correct": 5,
+        "lastSeen": "2026-04-29T00:58:26.766Z"
+      },
+      "drill-h-150": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:50:21.856Z"
+      },
+      "drill-87": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:48:55.950Z"
+      },
+      "drill-10k-10000": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-27T15:52:44.045Z"
+      },
+      "drill-h-710": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:37:18.126Z"
+      },
+      "drill-10k-12500": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-27T15:53:04.413Z"
+      },
+      "drill-dec-8.99": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-26T15:16:45.130Z"
+      },
+      "drill-3800": {
+        "attempts": 10,
+        "correct": 4,
+        "lastSeen": "2026-04-28T13:54:19.219Z"
+      },
+      "drill-dec-12.50": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-26T15:20:11.301Z"
+      },
+      "drill-975": {
+        "attempts": 3,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:38:44.149Z"
+      },
+      "drill-dec-2.75": {
+        "attempts": 3,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:37:31.654Z"
+      },
+      "drill-k-8500": {
+        "attempts": 5,
+        "correct": 3,
+        "lastSeen": "2026-04-28T14:39:04.793Z"
+      },
+      "drill-h-500": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:45:27.428Z"
+      },
+      "drill-30": {
+        "attempts": 7,
+        "correct": 4,
+        "lastSeen": "2026-04-29T00:59:43.004Z"
+      },
+      "drill-k-1500": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:47:12.233Z"
+      },
+      "drill-dec-0.2": {
+        "attempts": 2,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:49:38.797Z"
+      },
+      "drill-360": {
+        "attempts": 6,
+        "correct": 2,
+        "lastSeen": "2026-04-29T00:52:29.522Z"
+      },
+      "drill-40": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:47:46.624Z"
+      },
+      "drill-8900": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:52:55.764Z"
+      },
+      "drill-k-5600": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:50:04.420Z"
+      },
+      "drill-620": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:50:15.813Z"
+      },
+      "drill-6300": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:50:43.292Z"
+      },
+      "drill-h-660": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:41:50.112Z"
+      },
+      "drill-dec-67.5": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:53:25.235Z"
+      },
+      "drill-10k-35000": {
+        "attempts": 4,
+        "correct": 2,
+        "lastSeen": "2026-04-28T14:41:31.799Z"
+      },
+      "drill-10k-30000": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:52:09.852Z"
+      },
+      "drill-25000": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-27T15:53:40.134Z"
+      },
+      "drill-10k-1m": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:35:59.110Z"
+      },
+      "c14t3s2-2or3": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:36:51.089Z"
+      },
+      "drill-k-9500": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:37:54.726Z"
+      },
+      "drill-dec-3.75": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:41:43.943Z"
+      },
+      "drill-10k-20000": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:40:30.793Z"
+      },
+      "drill-mixed-2": {
+        "attempts": 3,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:47:35.576Z"
+      },
+      "c14t4s2-35euros": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:42:40.615Z"
+      },
+      "drill-10k-2.5m": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:43:45.087Z"
+      },
+      "c14t4s2-90euros": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:43:59.271Z"
+      },
+      "drill-mixed-1": {
+        "attempts": 4,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:48:02.488Z"
+      },
+      "drill-120000": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:46:49.296Z"
+      },
+      "drill-10k-150000": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:47:00.135Z"
+      },
+      "c5t4s1-year": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:45:07.844Z"
+      },
+      "c14t2s2-1576": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:47:25.766Z"
+      },
+      "drill-k-2000": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-28T14:49:05.046Z"
+      },
+      "drill-50": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:48:01.998Z"
+      },
+      "drill-11": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:48:49.291Z"
+      },
+      "drill-91": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:51:28.640Z"
+      },
+      "drill-41": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:59:24.083Z"
+      },
+      "drill-k-4000": {
+        "attempts": 1,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:58:04.184Z"
+      },
+      "drill-36": {
+        "attempts": 2,
+        "correct": 1,
+        "lastSeen": "2026-04-29T00:59:36.963Z"
       }
     }
   }

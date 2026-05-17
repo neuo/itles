@@ -1004,8 +1004,209 @@ S2 独白弱读密度远超 S1 对话。核心问题：代词、系动词、have
 
 - [ ] **听力**：S2 做题法 1 套 + 加速 1.25x 已熟材料
 - [ ] **写作**：仿写 Line Chart 范文（限时练启动）
-- [ ] **口语**：默答 3 道 P1 + P2×1（`I wouldn't trade it` / `it's the thought that counts` 各冲最后 1 次）
+- [x] **口语**：P1×3（Typing Q36 / Morning Q17 / Mornings when little Q19）✅
 - [ ] D+1 跟读：C14T4S2 Croft Valley（Q12/Q13/Q15 三句定位描述）
+- [ ] 数字训练 5min
+
+## W4 Day 5（4/29 周三）
+
+### 今日任务完成情况
+
+- [x] D+7 跟读：C15T3 S1+S2（5min）✅
+- [x] 数字训练 5min ✅
+- [x] **口语**：P1×3 冷产出（Q154 / Q52 / Q185）✅
+- [ ] **写作**：限时 T1（Pie/Table）
+- [ ] **听力**：被动
+
+### 口语：P1×3
+
+| Pattern | Q154 | Q52 | Q185 |
+|---------|------|-----|------|
+| P13 L1直译 | "living happily as a family" | — | — |
+| P16 近音混淆 | — | — | fairly→**hardly**（意义反转） |
+| 量词叠加 | "much plenty" | — | — |
+| 时态 | — | — | remembered→remembers |
+| than/that | "more...that" | — | — |
+
+**亮点：** Q52 最干净（几乎无大错）；"his imagination is what I genuinely envy" 裂式句自然产出
+
+**新增表达：**
+- `be after sth` — 1/3
+- `can't hold onto` — 1/3
+
+**新计划确认：** W5-W9 重组完成（写作+口语主线，听力被动），calendar.md 已更新
+
+### 明日计划（W4 Day 6 | 4/30 周四）
+
+- [ ] D+7 跟读：C15T3 S2 精听段（4/23，明日到期）
+- [ ] **写作**：限时 35min 写1篇（Pie Chart 或 Table）→ 4 项自评
+- [ ] **口语**：P1×3 冷产出
+- [ ] 数字训练 5min
+- [ ] **听力**：被动（做了报分）
+
+---
+
+## W4 Day 4（4/28 周二）
+
+### 今日任务完成情况
+
+- [x] D+7 跟读：C15T2S2（unlike X, Y / considered...then decided / southwest corner）✅
+- [x] **听力**：C14T1 S4 4/10（S4 首次基线，轻量记录）
+- [x] **写作**：限时 35min Bar Chart（五国互联网普及率）✅ — 4 项自评完成，范文对照
+- [x] 数字训练 5min ✅
+- [ ] **口语**：P1×3（未做）
+
+### 写作：T1 限时练 #1（Bar Chart）
+
+**4 项自评：**
+| 项目 | 结果 |
+|------|------|
+| Overview | ✅ 存在，方向正确 |
+| 结构 | ⚠️ 框架完整，**2005 数据整列缺失** |
+| 比较句 | ⚠️ 有 steepest/consistent lead，无 gap/narrowed/widened |
+| 语法 | ❌ 4 处错误 |
+
+**语法错误：**
+- `a dramatically growth` → `dramatic growth`（W1 adverb修饰名词 + W3 不可数）
+- `lower rate` → `lower rates`（W5 复数）
+- `most largest` → `largest`（W2 双重最高级）
+- `By 2020` → `By 2010`（W4 年份笔误）
+
+**核心教训：** body 按时间点分段（2000/2005/2010 各一段），三列全覆盖。
+
+**写作 Coach 初始化：**
+- `.claude/skills/writing-coach/SKILL.md` 创建完成
+- `writing/coach/error_log.md` + `chart_bank.md` + `sessions/2026-04-28.md` 创建完成
+
+### 今日核心发现
+
+- **S4 首次基线 4/10**：正常，S4 是学术讲座，题型和 S1-S3 不同，第5-6周再专项
+- **W4 口语调整**：P2×1 从每天/隔天降为**每周六 1 次**，维持周 P1 效率更高；W5 再集中攻 P2
+
+### 明日计划（W4 Day 5 | 4/29 周三）
+
+- [ ] **听力（60min）**：完整套题限时 → 精听 S2 + 粗听 S3
+- [ ] **写作（60min）**：限时 35min 写第 2 篇（Line Chart）→ 4 项自评
+- [ ] **口语**：P1×3 冷产出
+- [ ] 数字训练 5min
+
+---
+
+## W4 Day 3（4/27 周一）
+
+### 今日任务完成情况
+
+- [x] D+7 跟读：C15T1S2 精听段（5 个致命形近词，1.1x 加速）✅
+- [x] **口语**：P1×3 冷产出练习 ✅（Q55 Scenery / Q140 Forgotten / Q16 Family hobbies）
+- [x] **听力**：C14T4 S1 7/10 + C14T1 S3 7/10（轻量记录）
+- [ ] **写作**：限时 35min 写 1 篇（Line/Bar）→ 4 项自评（顺延至明天，明天高优先）
+- [x] 数字训练 5min ✅
+
+### 口语：P1×3
+
+| 表达 | 今日 | 累计 |
+|------|------|------|
+| `unwind` | ✓ count 0→1 | **1** |
+| `blanketed in` | ✓ count 0→1（drill）| **1** |
+| `you name it` | ✓ count 2→3 | **毕业 🎓** |
+
+**高频错误：**
+- "frog peeling away" → "fog lifting"（词汇混淆：frog/fog）
+- "scrawled" → "scrambled"（词汇混淆：新 Pattern 16）
+- "most impacted" → "the worst one was"（Pattern 9 商务书面语）
+- "happy life as a family" → "have a great time together"（Pattern 13 L1直译结尾）
+
+**核心发现：**
+- `unwind` 和 `blanketed in` 同日首次冷启动，均在 Q1（Emei 景色）自然激活
+- Q3（Family hobbies）整体结构接近 Band 7，L1直译结尾是最后瓶颈
+
+### 听力
+
+- C14T4 S1：7/10（S1 稳定在 7-8 区间）
+- C14T1 S3：7/10（S3 第二次基线；首次 C15T4S3=9 可能偏高，7 更具代表性）
+
+---
+
+## W4 Day 2（4/26 周日）
+
+### 今日任务完成情况
+
+- [ ] **听力**：完整套题限时 40min → 精听 S2 错题（顺延）
+- [x] **口语**：P1×3 冷产出练习 ✅
+- [ ] **写作**：仿写 Bar Chart 范文（顺延）
+- [x] 数字训练 5min ✅
+
+### 口语：P1×3（Q9 Sports / Q60 Age / Q67 Headphones）
+
+| 表达 | 今日 | 累计 |
+|------|------|------|
+| `I wouldn't trade it` | ✓ count 2→3 | **毕业 🎓** |
+| `know X way better than I did` | ✓ count 1→2 | 2 ✓✓ |
+| `unwind` | 未触发（完美机会在 Q67） | 仍 0 |
+| `you name it` | 未触发 | 仍 2/3 |
+
+**高频错误：**
+- "**There** days" → "**These** days"（第 3 次，固定短语未锁定）
+- Pattern 12 今日 3 次：stuck **at** → behind / "**where** → with（连接词）/ listening **music** → to
+- "I **was** 36" → "I'**m** 36"（Pattern 4，现在时）
+- "bubble of **peaceful feeling**" → "bubble of **calm**"（Pattern 9）
+
+**核心发现：**
+- `I wouldn't trade it` 毕业 ✅，回忆/反思类结尾已自动化
+- Q2（Age）最强表现：though / actually / way better than I did 三个表达自然串联，接近 Band 7
+- Pattern 12（介词）连续多 session 高频，是下阶段重点
+
+---
+
+## W4 Day 1（4/25 周六）
+
+### 今日任务完成情况
+
+- [~~S2 做题法~~] 取消，不顺延（W3 已积累足够 S2 量）
+- [x] **写作**：Line Chart 仿写 ✅（第一次限时练）
+- [x] **口语**：P1×3 冷产出练习 ✅
+- [x] D+1 跟读：C15T4S2 Croft Valley（看原文版完成，不看原文版跳过）
+- [x] 数字训练 5min ✅
+
+### 口语：P1×3
+
+| 表达 | 今日 | 累计 |
+|------|------|------|
+| `you name it` | ✓✓ | **2/3** |
+| `Good times, though` | ✓ | **3/3 🎓 毕业** |
+| `drag oneself out of bed` | 方向对，用 "me" 而非 "myself" | 0（需重练） |
+| `I wouldn't trade it` | 连续两题未产出 | 仍 2/3 |
+
+**高频错误：**
+- Pattern 12 介词："after 14 years **of** a programmer" → **as** a programmer
+- 反身代词漏："drag **me**" → drag **myself**（inventory 表达方向对，反身载体没切换）
+- `literally` 误用（新 Pattern 15）："not literally a morning person"——`literally` 不能修饰比喻性描述
+- "not rush" → "no rush"（名词短语用 no，不是 not）
+- "wound be" → "would be"（wound 是 wind 的过去式）
+
+**核心发现：**
+- `Good times, though` 毕业 ✅，说明回忆类结尾已自动化
+- `I wouldn't trade it` 连续两题有完美场合（dad life / relaxed childhood）均未产出——需要下次练习时主动意识触发
+- 反身代词（myself/yourself/themselves）是盲区，L1 无对应形态，production 时被 me/him 替代
+
+### 写作：Line Chart 仿写（第一次限时练）
+
+**结构：** 框架跑通 ✅ — intro + overview + body 三段完整，第一次正常水平
+
+**必修 3 个错误：**
+- remained **stably** → remained **stable**（系动词后接形容词）
+- "approximately 90" → "approximately **90%**"（漏 %）
+- "penetration of **computer**" → "of **computers**"（可数名词复数）
+
+**短板：** 字数约 120 词，低于 150 最低线；Germany 段缺比较维度（gap 变化）
+
+**下次重点：** 每段加一个数据比较句，gap/narrowed/widened 角度练起来
+
+### 明日计划（W4 Day 2 | 4/26 周日）
+
+- [ ] **听力**：完整套题限时 40min → 精听 S2 错题
+- [ ] **写作**：仿写 Bar Chart 范文（半开卷，七项技巧清单可看）
+- [ ] **口语**：P1×3，主动在回忆/反思类结尾触发 `I wouldn't trade it`（冲毕业）
 - [ ] 数字训练 5min
 
 ---
