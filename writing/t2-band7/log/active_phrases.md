@@ -39,6 +39,17 @@
 
 ## 清单
 
+### 2026-05-18 Daily Drill #2
+
+#### Phrase 5: `develop the ability to adapt to X`
+- 原句 context：drill 源句"学生应该具备适应未来变化的能力"
+- 我的 V3 修：`Students should develop the ability to adapt to future changes.`
+- 为什么 Band 7：地道 collocation；替换中式直译 "have ability to fill in" / "adapt the future"；可迁移到任何"培养做某事的能力"
+- 反面教材：v1 直接写 `fill in the changes`（致命中式）；v3 写 `adapt the future`（adapt 漏 to）
+- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+
+---
+
 ### 2026-05-18 Daily Drill #1（启动日）
 
 #### Phrase 4: `The aim of X is not only to Y but also to Z`
@@ -46,7 +57,7 @@
 - 我的 V2 句：`The aim of schools is not only to prepare students for jobs but also to develop their creativity.`
 - 为什么 Band 7：`not only X but also Y` 平行结构 = 经典 Band 7 句式；范文 Body 2 [T] 同款 frame
 - 可迁移：任何"X 不只为 Y 还为 Z"的场景
-- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 2 [T]（"not only about preparing students for jobs but also about fostering them..."）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
 
 ---
 
@@ -55,17 +66,31 @@
 #### Phrase 1: `may struggle to find stable work`
 - 原句 context：替"hard to get a stable job"（L1 直译）
 - 为什么 Band 7：`X may struggle to do Y` 是表"X 难做 Y"的 Band 7 标准句型，避免中式 `X is difficult to do Y`
-- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 1 E（"may struggle to find stable jobs" — work→jobs 变体）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
 
 #### Phrase 2: `become increasingly competitive`
 - 原句 context：替"more and more competitive"
 - 为什么 Band 7：`become increasingly + adj` 是中级 collocation，比 `more and more` 紧致
-- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 1 E（"becomes increasingly competitive today"）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
 
 #### Phrase 3: `focus particularly on`
 - 原句 context：替"specially focus on"（specially 词义错）
 - 为什么 Band 7：`focus particularly on X` 中 particularly 是 mid-level intensifier，比 specifically 自然
-- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/18) ⚠️ 半通过**——v2 Body 1 Ex 写成 "particularly focus on"（词序倒了）/ 需 D+2 重练（5/19 Drill 时刻意用对）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+
+---
+
+## D+1 复检小结（5/18 today）
+
+| Phrase | D+1 状态 |
+|--------|---------|
+| 1 may struggle to find | ✅ 全通过 |
+| 2 become increasingly competitive | ✅ 全通过 |
+| 3 focus particularly on | ⚠️ 词序错，明天重练 |
+| 4 not only X but also Y | ✅ 全通过 |
+| 5 develop the ability to adapt to X | — 今日新捞，明天 D+1 |
+
+**D+1 通过率：3/4 = 75%** — Phrase capture 系统启动有效 ✅
 
 ---
 

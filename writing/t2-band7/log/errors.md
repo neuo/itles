@@ -122,6 +122,40 @@
 **状态**：警示（不是必修，但提醒疲劳期勿写）
 **修法**：注意力差时**不要写**，休息 30 min 或第二天再写
 
+### W2-9 — Collocation + 介词错（Band 6→6.5 plateau 战场）🆕🚨 重点
+**首次出现**：2026-05-18（Example 01 v2 + Drill #2 同日浮现）
+**出现次数**：8（v2 5 处 + Drill #2 3 处）
+**示例错句**：
+- `get on to well-paid jobs` → `**go on to** well-paid jobs`（get on to = 登上；go on to = 进入）
+- `I lean towards **that** a broader curriculum is more beneficial` → `I lean towards **the view that** ___`（lean towards 接 noun，不接 that-clause）
+- `**fostering** them as whole people` → `**developing** them as whole people`（foster 配 abilities/growth，不直接配 people）
+- `tend to show more **imaginative**` → `tend to **be more imaginative**`（adj 接 be，不接 show；show 接 noun）
+- `adapt **the** future` → `adapt **to** the future`（adapt 必须接 to）
+- `**fill in** the changes` → `**adapt to** the changes` 或 `**deal with**`（fill in = 填表，不是"适应"——中式直译又一例）
+- `**particularly focus on**` → `**focus particularly on**`（词序倒了）
+- `the supporters` → `supporters`（generic 不加 the）
+
+**类别**：LR（collocation awareness）+ GRA（preposition）
+**状态**：🚨 重点（新瓶颈层，Band 6→6.5 关键战场）
+**修法**：
+1. **每篇仿写后 captured 2-3 个 collocation** 进 `active_phrases.md`（D+1/3/7/14/30 复检）
+2. **Daily Drill 重点针对 collocation**：选包含 verb + preposition / verb + noun 搭配的源句
+3. 写作时拿不准的搭配**查 cheat sheet** 或用最常见简单版（不要凭直觉冒险）
+**修复进展**：0 / 3（新捕，待 D+1 验证）
+
+---
+
+## 错误模式 5/18 阶段性总结
+
+| 类 | 模式 | 5/17 v1 | 5/18 v2 | 趋势 |
+|---|------|--------|--------|------|
+| 机械错（拼写 + 单复数 + that）| W2-1, W2-2, W2-7 | 15 处 | 4-5 处 | **-70% ✅** |
+| 语言习惯（L1 直译 + reduced relative）| W2-3, W2-4 | 4 处 | 1 处（fill in 新型）| **-75% ✅** |
+| Meta 注意力（逻辑反 + 抄错）| W2-5, W2-8 | 5 处 | 0 处 | **-100% ✅✅** |
+| **🆕 Collocation 层**（v2 浮现新瓶颈）| **W2-9** | 0 处 | **8 处** | 新出现 |
+
+**结论**：旧 4 类全面下降，W2-9 collocation 层浮现 = 进入 Band 6→6.5 plateau 战场。这正是 suzy 反馈的"知道不好但不知道怎么好"。攻克手段：active_phrases 持续 capture + Daily Drill 转向 collocation 题材。
+
 ---
 
 ## 错误聚类分析
