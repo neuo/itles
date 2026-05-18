@@ -39,7 +39,18 @@
 
 ## 清单
 
-### 2026-05-18 仿写 Example 01 Body 1（首次捕获）
+### 2026-05-18 Daily Drill #1（启动日）
+
+#### Phrase 4: `The aim of X is not only to Y but also to Z`
+- 原句 context：drill 源句"现代教育应该兼顾学生的就业能力和创造力"
+- 我的 V2 句：`The aim of schools is not only to prepare students for jobs but also to develop their creativity.`
+- 为什么 Band 7：`not only X but also Y` 平行结构 = 经典 Band 7 句式；范文 Body 2 [T] 同款 frame
+- 可迁移：任何"X 不只为 Y 还为 Z"的场景
+- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+
+---
+
+### 2026-05-17 仿写 Example 01 Body 1（首次捕获）
 
 #### Phrase 1: `may struggle to find stable work`
 - 原句 context：替"hard to get a stable job"（L1 直译）

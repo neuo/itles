@@ -32,7 +32,111 @@
 
 ## 活跃错误（按出现频率排序）
 
-（第一次训练后开始填）
+### W2-1 — 拼写错误密度过高 🚨🚨 必修
+**首次出现**：2026-05-17（Example 01 v1 Body 1 + Body 2 + Conclusion）
+**出现次数**：9（broder / variaty / ablities / developmenet / marjority / specially / ther / import / mean→漏 would）
+**示例错句**：
+- "a broder curriculum" → "a broader curriculum"
+- "a variaty subjects" → "a variety of subjects"
+- "These ablities" → "These abilities"
+- "career developmenet" → "career development"
+- "the marjority of students" → "the majority of students"
+- "in ther wider lives" → "in their wider lives"
+- "for work is import" → "for work is important"
+**类别**：GRA（直接拉 0.5 档）
+**状态**：🚨 必修
+**修法**：v2 写完**强制**用 Grammarly / Word / VS Code 拼写检查跑一遍
+**修复进展**：0 / 3
+
+### W2-2 — 单复数错 🚨 必修
+**首次出现**：2026-05-17（Example 01 v1）
+**出现次数**：5（"teach student" / "express feeling" / "find a good job" 泛指应复数 / "the creative industry" 泛指应复数 / "academic fields" 模糊）
+**示例错句**：
+- "teach student how to" → "teach students how to"
+- "express feeling" → "express their feelings"
+- "find a good job"（泛指）→ "find good jobs"
+- "the creative industry" → "creative industries"
+**类别**：GRA
+**状态**：🚨 必修
+**修法**：v2 写完**每个名词指一下** "这是 singular concrete 还是 plural generic"
+**修复进展**：0 / 3
+
+### W2-3 — Reduced relative L1 transfer 🚨 必修
+**首次出现**：2026-05-17（Body 1 + Body 2 都出现 = systemic）
+**出现次数**：2
+**示例错句**：
+- "students learning music" → "students **who learn** music"
+- "those learning art" → "those **who study** art"
+**类别**：GRA + LR（Band 8 marker 的反向使用——你用 reduced relative 但写错了，反而踩 5.5 雷）
+**状态**：🚨 必修
+**修法**：写每个 "...ing" 接名词的结构时，问自己"这是不是 reduced relative，应该展开成全 relative 吗"
+**修复进展**：0 / 3
+
+### W2-4 — L1 中式直译 🚨 必修
+**首次出现**：2026-05-17（Body 1 E + Body 2 Ex）
+**出现次数**：2
+**示例错句**：
+- "students... are difficult to get a stable job"（中文"学生很难找工作"直译）→ "students may struggle to find stable jobs"
+- "it is common that students learning music are better at"（中文"通常学习音乐的学生..."直译）→ "students who learn music tend to have"
+**类别**：LR + GRA
+**状态**：🚨 必修
+**修法**：记 2 个模板替换中式 — `X may struggle to do Y` / `X tend to do Y`
+**修复进展**：0 / 3
+
+### W2-5 — 写完不回读 → 逻辑写反 + 词写错 🚨🚨 致命
+**首次出现**：2026-05-17（Body 1 + Body 2）
+**出现次数**：2
+**示例错句**：
+- Body 1 E：写 "students **with** practical skills are difficult to get jobs"（想说的是 **without**）→ **逻辑反转**
+- Body 2 L：写 "美术和**英语**在提升学生想象力"（题目是 arts and **music**，不是 English）→ **词写错**
+**类别**：TR（致命——内容错直接拉 TR 0.5-1 档）
+**状态**：🚨🚨 致命
+**修法**：**每写完一句立刻回读，问"我想说的就是这个吗"**——这一条价值最高
+**修复进展**：0 / 3
+
+### W2-6 — 词义错（用了表面相似的词）
+**首次出现**：2026-05-17
+**出现次数**：2
+**示例错句**：
+- "specially focus on" → specially 意思是"特殊用途"，应用 "**particularly** focus on" 或 "**specifically** focus on"
+- "work market" → 正确搭配是 "**job** market"
+**类别**：LR
+**状态**：活跃
+**修法**：拿不准的固定搭配查 cheat sheet（04_toolkit.md）
+**修复进展**：0 / 3
+
+### W2-7 — argue/believe + 漏 that
+**首次出现**：2026-05-17（Intro S3）
+**出现次数**：1
+**示例错句**：
+- "Others argue educators should also offer" → "Others argue **that** educators should also offer"
+**类别**：GRA
+**状态**：活跃
+**修法**：用 argue / believe / think / claim / suggest 这类引述动词时，自动接 that
+**修复进展**：0 / 3
+
+### W2-8 — 抄写都抄错（注意力涣散）⚠️
+**首次出现**：2026-05-17（Conclusion 抄范文时漏 3 处）
+**出现次数**：3（import / mean / ther）
+**类别**：注意力（meta），非语言能力
+**状态**：警示（不是必修，但提醒疲劳期勿写）
+**修法**：注意力差时**不要写**，休息 30 min 或第二天再写
+
+---
+
+## 错误聚类分析
+
+8 个错误模式分成 3 类：
+
+| 类 | 错误 | 占比 |
+|---|------|-----|
+| **拼写 + 单复数 + that 漏**（机械错）| W2-1, W2-2, W2-7 | 15 处 / 占 75% |
+| **L1 直译 + reduced relative**（语言习惯）| W2-3, W2-4 | 4 处 |
+| **逻辑写反 + 注意力涣散**（meta）| W2-5, W2-8 | 5 处 |
+
+→ **优先级**：第 3 类（致命）> 第 1 类（量大）> 第 2 类（深层但少量）
+
+→ **修法**：v2 写完**两遍 check**——第 1 遍读逻辑（防 W2-5），第 2 遍跑拼写工具（防 W2-1）+ 扫名词单复数（防 W2-2）
 
 ---
 

@@ -197,7 +197,16 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 
 **Step 5 — "记住这一句"**（从 `t2-band7/04_toolkit.md` §2 的 8 个核心句式中挑 1 个她这次没用的，提示下次刻意用）
 
-**Step 6 — 录入 `t2-band7/log/errors.md` + `log/sessions/YYYY-MM-DD.md`**
+**Step 6 — 录入 3 个文件（5/18 修订工作流）**
+
+1. **`t2-band7/log/error_trace.md`**：仿写**进行中**实时 append 每个错（不归类，原始流水）。格式：1 行 1 错，`原句片段 → 修后 [W2-X 编号]`。
+2. **`t2-band7/log/errors.md`**：session **结束后**总结新错入 W2-X 模式（合并相似错，标"必修"/"重点"/"活跃"）。
+3. **`t2-band7/log/sessions/YYYY-MM-DD-exN-vN.md`**：每次仿写**完整记录**——题目 / suzy 原版 / 修复版 / 14 项打勾 / 3 gap / 教过的 framework / 进 active_phrases 的 phrase / 进 errors 的 W2-X 模式 / takeaway。她随时可回头复习。
+
+**命名约定**：
+- meta 类（路径调整、整日总结）：`YYYY-MM-DD-meta.md` 或 `YYYY-MM-DD.md`
+- 仿写 practice：`YYYY-MM-DD-ex{N}-v{N}.md`（例如 `2026-05-17-ex01-v1.md`、`2026-05-18-ex01-v2.md`）
+- Daily Drill：append 到当天的 ex 文件 OR 单独 `YYYY-MM-DD-drill.md`
 
 ### T2 反馈原则
 
