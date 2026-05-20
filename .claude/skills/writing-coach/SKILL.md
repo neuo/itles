@@ -173,6 +173,17 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 
 ### T2 反馈流程
 
+**Step 0 — 自检前置（5/20 加）**
+
+suzy 提交 essay **前应已自己做过 3 遍自检**（`t2-band7/proofreading_routine.md`）。提交时她会说"我自检了，标了 X 处怀疑"。
+
+- **不要**建议她用 Grammarly / 工具——CDI 机考无工具，纯自检才是考试技能
+- 反馈时**区分**：哪些错她**自检抓到了**（self-caught）、哪些她**漏了我才抓**（Claude-caught）
+- 每篇在 session 文件记 **自检率 = self-caught / (self-caught + Claude-caught)**
+- 目标：自检率从 ~30%（5/21 起步）→ ~70%（6 月初）→ ~85%（考前）
+- 遍 1-2 类错（W2-5 逻辑 / W2-1 拼写 / W2-2 单复数 / W2-11 run-on）她**应该**能自检到——漏了要提醒"这是你自检该抓的"
+- 遍 3 类错（W2-9 collocation）她标记怀疑即可，Claude 兜底确认
+
 **Step 1 — 14 项自评**（从 `t2-band7/02_band7_target.md` §3 的清单）
 
 按 TR 5 项 / CC 3 项 / LR 3 项 / GRA 3 项逐项打勾。统计共多少项 ✅。
@@ -197,15 +208,18 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 
 **Step 5 — "记住这一句"**（从 `t2-band7/04_toolkit.md` §2 的 8 个核心句式中挑 1 个她这次没用的，提示下次刻意用）
 
-**Step 6 — 录入 3 个文件（5/18 修订工作流）**
+**Step 6 — 录入 3 个文件（5/18 修订工作流；5/19 加严：实时 logging）**
 
-1. **`t2-band7/log/error_trace.md`**：仿写**进行中**实时 append 每个错（不归类，原始流水）。格式：1 行 1 错，`原句片段 → 修后 [W2-X 编号]`。
+1. **`t2-band7/log/error_trace.md`**：仿写**进行中**实时 append 每个错。
+   - 🌟 **每段反馈结束立刻 append**（不是等 session 末，suzy 5/19 明确要求）
+   - 格式：1 行 1 错，`原句片段 → 修后 [W2-X 编号]`
+   - 反馈完一段，我回 chat 给 suzy 的同时**必须**也写入 error_trace.md
 2. **`t2-band7/log/errors.md`**：session **结束后**总结新错入 W2-X 模式（合并相似错，标"必修"/"重点"/"活跃"）。
 3. **`t2-band7/log/sessions/YYYY-MM-DD-exN-vN.md`**：每次仿写**完整记录**——题目 / suzy 原版 / 修复版 / 14 项打勾 / 3 gap / 教过的 framework / 进 active_phrases 的 phrase / 进 errors 的 W2-X 模式 / takeaway。她随时可回头复习。
 
 **命名约定**：
 - meta 类（路径调整、整日总结）：`YYYY-MM-DD-meta.md` 或 `YYYY-MM-DD.md`
-- 仿写 practice：`YYYY-MM-DD-ex{N}-v{N}.md`（例如 `2026-05-17-ex01-v1.md`、`2026-05-18-ex01-v2.md`）
+- 仿写 practice：`YYYY-MM-DD-ex{N}-v{N}.md`（例如 `2026-05-17-ex01-v1.md`、`2026-05-18-ex01-v2.md`、`2026-05-19-ex02-v1.md`）
 - Daily Drill：append 到当天的 ex 文件 OR 单独 `YYYY-MM-DD-drill.md`
 
 ### T2 反馈原则

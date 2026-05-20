@@ -157,6 +157,9 @@ Step 3 (20-30 min)  v2 对比范文 + 对比 v1
 
 **目标**：去脚手架裸写。40 min 严格限时（模拟考场）。
 
+> **40 min 内部分配**：5 min 规划 + 30 min 写 + **5 min 自检**（按 `proofreading_routine.md` 的 3 遍扫）。
+> 自检是纯人工，**无工具**——CDI 机考没有 Grammarly。从 W4 起每篇都练 5 min 自检。
+
 | 日期 | 任务 | 时长 | 验收 |
 |------|------|------|------|
 | **6/8 周一** | **Cold production 1**（DBV，话题随机）| 40 min 限时 + 30 min 复盘 | 250+ 词，结构完整 |
@@ -201,11 +204,12 @@ Step 3 (20-30 min)  v2 对比范文 + 对比 v1
 A4 一页，6/19 写完，6/20 考场进去前最后翻 5 min：
 
 1. **审题 10 秒判题型**（A/D / DBV / P/S / C/E / 2-Pt）
-2. **5 min 规划**：题型骨架 + 立场 + 2 个 Body 段的 T 句先写下来
+2. **时间分配**：5 min 规划 + 30 min 写 + **5 min 自检**
 3. **Intro 第 3 句必表立场**（不用 "This essay will... present my stance"）
 4. **每个 Body 段写完问自己"L 呢"**
-5. **40 min 必须停笔**（哪怕没写完）
-6. **看 §4.1 衔接表 + §4.2 八句式 一眼**（避免临场记不起来）
+5. **写完留 5 min 做 3 遍自检**（`proofreading_routine.md`）：遍 1 逻辑 / 遍 2 拼写+单复数（手指点读）/ 遍 3 collocation 怀疑
+6. **高频错词卡**：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
+7. **看 §4.1 衔接表 + §4.2 八句式 一眼**（避免临场记不起来）
 
 ---
 

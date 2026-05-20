@@ -45,7 +45,9 @@
 - "for work is import" → "for work is important"
 **类别**：GRA（直接拉 0.5 档）
 **状态**：🚨 必修
-**修法**：v2 写完**强制**用 Grammarly / Word / VS Code 拼写检查跑一遍
+**修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
+- 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
+- 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
 **修复进展**：0 / 3
 
 ### W2-2 — 单复数错 🚨 必修
@@ -122,6 +124,40 @@
 **状态**：警示（不是必修，但提醒疲劳期勿写）
 **修法**：注意力差时**不要写**，休息 30 min 或第二天再写
 
+### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
+**首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
+**出现次数**：1
+**示例错句**：
+- `Modern society doesn't just rely on technology**, **it depends even more on genuine human connections`（两个完整句用 comma 粘）
+**正确做法**：两个独立 clause 之间用 4 种连接方式之一：
+1. **分号**（;）：`...technology**;** it depends...`
+2. **破折号**（—）：`...technology** —** it depends...`
+3. **加连词**（but / and / so / yet）：`...technology**, but** it depends...`
+4. **拆成两句**（句号 + 大写）：`...technology**. **It depends...`
+**类别**：GRA（5.5 级硬伤——直接拉 GRA 0.5 档）
+**状态**：🚨 重点（高优先级监控列首次触发）
+**修法**：
+1. 写每个 comma 前问自己："comma 后面是不是又一个完整句（有主语+动词）？"
+2. 是 → 改成分号 / 破折号 / 加连词 / 拆句
+3. 不是 → comma 可以用
+**修复进展**：0 / 3（新捕，待 Day 5 v2 验证）
+
+### W2-10 — 让步段策略错（过度承认对方观点）🆕🚨 战略
+**首次出现**：2026-05-19（Day 4 v1 Example 02 让步段 Body 1 T）
+**出现次数**：1
+**示例错句**：
+- `Admittedly, **heavy reliance on digital tools is hurting our ability to socialize**`（**承认了题目的全部主张** → Body 2 无路反驳）
+**正确做法**：
+- 让步段 T 必须 **narrow**——加限定词 `excessive` / `certain` / `in some cases` / `under certain conditions`
+- 修复版：`Admittedly, **excessive** screen time can weaken **certain** face-to-face habits`（限定 cause + 限定 effect 范围）
+**类别**：TR（strategic）+ 让步段技巧
+**状态**：🚨 战略——新题型适应错
+**修法**：
+1. 让步段 T 写之前问自己："我承认的是 narrow 的一个点还是 broad 的整个 view？"
+2. 必须包含至少 1 个限定词：`excessive / certain / in some cases / under certain conditions / when X is taken to extremes`
+3. 让步段 L 必须有"限定 concession"句（"but only when ___"）—— bridge to Body 2
+**修复进展**：0 / 3（新捕，待 Day 5 v2 验证）
+
 ### W2-9 — Collocation + 介词错（Band 6→6.5 plateau 战场）🆕🚨 重点
 **首次出现**：2026-05-18（Example 01 v2 + Drill #2 同日浮现）
 **出现次数**：8（v2 5 处 + Drill #2 3 处）
@@ -145,16 +181,27 @@
 
 ---
 
-## 错误模式 5/18 阶段性总结
+## 错误模式 5/19 阶段性总结（含 Day 4）
 
-| 类 | 模式 | 5/17 v1 | 5/18 v2 | 趋势 |
-|---|------|--------|--------|------|
-| 机械错（拼写 + 单复数 + that）| W2-1, W2-2, W2-7 | 15 处 | 4-5 处 | **-70% ✅** |
-| 语言习惯（L1 直译 + reduced relative）| W2-3, W2-4 | 4 处 | 1 处（fill in 新型）| **-75% ✅** |
-| Meta 注意力（逻辑反 + 抄错）| W2-5, W2-8 | 5 处 | 0 处 | **-100% ✅✅** |
-| **🆕 Collocation 层**（v2 浮现新瓶颈）| **W2-9** | 0 处 | **8 处** | 新出现 |
+| 类 | 模式 | 5/17 v1 | 5/18 v2 | **5/19 Day 4 v1** | 趋势 |
+|---|------|--------|--------|-------------------|------|
+| 机械错（拼写 + 单复数 + that）| W2-1, W2-2, W2-7 | 15 处 | 4-5 处 | **5 处**（ofter / descreases / Digit / examples / relay）| **稳在 4-5 处**——W2-1 拼写**复犯**严重 |
+| 语言习惯（L1 直译 + reduced relative）| W2-3, W2-4 | 4 处 | 1 处 | **0 处** ✅ | **-100%** ✅✅ |
+| Meta 注意力（逻辑反 + 抄错）| W2-5, W2-8 | 5 处 | 0 处 | **0 处** | **-100%** ✅✅ 保持 |
+| Collocation 层 | **W2-9** | 0 处 | 8 处 | **4 处** | **-50%**——好转但仍是战场 |
+| **🆕 让步段策略** | **W2-10** | — | — | **1 处**（Body 1 T 过度承认）| 🆕 新题型适应错 |
+| **🆕 Run-on / Comma splice** | **W2-11** | — | — | **1 处**（Drill #3 V2）| 🆕 高优先级监控终于触发 |
 
-**结论**：旧 4 类全面下降，W2-9 collocation 层浮现 = 进入 Band 6→6.5 plateau 战场。这正是 suzy 反馈的"知道不好但不知道怎么好"。攻克手段：active_phrases 持续 capture + Daily Drill 转向 collocation 题材。
+**结论**：
+- ✅ **语言习惯 + Meta 注意力** 持续 0 错（修干净）
+- ⚠️ **机械错**（W2-1 / W2-2）每天复犯 4-5 处——**拼写 check 工具还没养成习惯**
+- 🚨 **Collocation 层** -50% 但仍是 Band 6→6.5 plateau 战场
+- 🆕 **新题型 / 复杂句结构带来 2 个新错**（W2-10 让步段过度承认 / W2-11 comma splice）
+
+→ Day 5+ 优先级：
+1. W2-10 修法（让步段 T 加限定词）
+2. W2-1 纯自检（`proofreading_routine.md` 遍 2 逐词点读——**不用工具，CDI 考试没有**）
+3. W2-11 防（每个 comma 前问"两个完整句吗"）
 
 ---
 

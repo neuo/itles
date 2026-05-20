@@ -122,4 +122,108 @@
 
 ---
 
-（后续每次 session 在此 append。每周末 / 每个 session 结束做 summary 进 `errors.md` 的 W2-X 模式。）
+---
+
+## 2026-05-19 Day 4 Example 02 v1 — Technology A/D
+
+### Intro
+- `**ofter**` → `**often**` [W2-1 拼写复犯——第二次踩同一个错]
+- `the view` → `this view`（具体 pronoun 指代）[GRA 小]
+
+### Body 1（让步段）
+- 🚨 **T 让步过头**：`heavy reliance ... is hurting our ability to socialize` → `**excessive** screen time can weaken **certain** face-to-face habits`（需要限定词 excessive/certain）[**W2-10 让步段策略错** 🆕]
+- `put their majority of attention in digital world` → `put most of their attention on screens`（attention on，不是 in）[W2-9 collocation + 词序]
+- `the time they allocate in real life` → `the time they spend on real-life interaction`（allocate to / spend on）[W2-9 介词]
+- `**descreases**` → `**decreases**` [W2-1 拼写]
+- `have few chances to develop` → `have few opportunities to develop` [W2-9 collocation 偏好]
+- `some of the generation of teenagers in **china**` → `**many teenagers in China**`（china 大写 + 词序简化）[W2-2 + LR]
+- `could express` → `can express`（present 不是 past）[GRA 时态]
+- `express **themself**` → `express **themselves**`（reflexive 单复数）[W2-2]
+- `chat in group fluently online` → `chat fluently in online group chats` [LR 词序]
+- `**act not awkward**` → `appear comfortable / act naturally / feel at ease`（act 不能直接 negate adj）[W2-9 broken negation 🆕]
+- `a proper guide for young people **who to use** digital tools is absent` → `young people lack proper guidance on **how to use** these tools` [W2-9 broken syntax]
+
+### Body 2（主反驳）
+- ✅ `online communication is essentially a form of socialization`（reframe move 学到了）
+- `strengthened` → `has strengthened`（present perfect 表持续影响）[GRA 时态]
+- `youth's ability` → `young people's ability`（essay register）[LR 词选]
+- `**Digit tools**` → `**Digital tools**`（缺 al）[W2-1 拼写]
+- `it lowers the threshold`（主语单数）→ `they lower the threshold`（主语 Digital tools 复数）[W2-2]
+- `strangers who do not know each other` → `strangers` / `people who have never met in person`（strangers 本就互不相识，redundant）[LR 冗余]
+- `**These example**` → `**These examples**`（W2-2 单复数复犯，全文第 9 次了）[W2-2]
+- `online chatting` → `online communication`（chatting 太具体）[LR 词选]
+
+### Conclusion
+- ✅ **几乎 0 错**——today 最 clean 一段
+- 🌟 `should be seen as X rather than Y`（antithesis 结构）Band 7 标志
+- 🌟 `break geographical limits and lower social barriers`（2 个 Band 7 collocation）
+
+### Active Phrase D+1 复检（5/18 捞的 phrase 4-5）
+- ❌ Phrase 4 `not only X but also Y` 原版**未使用**（修复版才加 → D+1 FAIL）
+- ❌ Phrase 5 `develop the ability to adapt to X` 原版未使用（主题不自然，excusable）
+
+### Active Phrase D+3 复检（5/17 捞的 phrase 1-3 — 明天 5/20 是 D+3）
+- 今天 (5/19) 是 D+2，不需要 check
+
+### 🆕 Day 4 捞的新 Band 7 phrase（候选进 active_phrases.md）
+- `break physical/geographical barriers / limits`
+- `lower the threshold/barriers for X`
+- `are not mutually exclusive`
+- `vital component of modern X`
+
+---
+
+---
+
+## 2026-05-20 Day 5 Example 02 v2 — Technology A/D（同题二刷）
+
+### Intro
+- `the concern behind **the** view` → `**this** view`（Day 4 已提醒过，复犯，minor）[GRA]
+- ✅ `often` 拼写正确（Day 4 是 ofter，**W2-1 这个词修好了**）
+
+### Body 1（让步段）
+- ✅✅ **W2-10 修复成功**：`Admittedly, excessive screen time may, to some extent, weaken certain face-to-face skills`（3 个限定词 excessive/to some extent/certain，Pattern A 完美）
+- 🚨 `to some **extend**` → `to some **extent**`（extend 动词 / extent 名词）[W2-1 拼写]
+- ✅ `put the majority of their attention **on** screens`（Day 4 是 in，**W2-9 修好**）
+- ✅ `the time spent **on** real-life interaction naturally **decreases**`（Day 4 是 descreases，**W2-1 修好**）
+- 🚨 `show noticeably social awkward` → `appear noticeably awkward` 或 `show noticeable social awkwardness`（adj/noun 混——同 Day 3 "show more imaginative"）[W2-9]
+- 🚨 `**The** shows that` → `**This** shows that`（The → This）[W2-1/typo]
+- ✅ `many adolescents in **China**`（Day 4 是 china，**W2-2 修好**）
+
+### Body 2（主反驳）
+- ✅✅ **Pattern C + Phrase 4**：`not only a part of socialization, but also something that has strengthened...`
+- `young people's **abilities** to connect` → `**ability** to connect`（单一能力，单数）[W2-2 minor]
+- ✅ `Digital devices`（Day 4 是 Digit，**W2-1 修好**）
+- ✅ `they lower the threshold`（Day 4 是 it lowers，**W2-2 修好**）
+- ✅ `These examples`（Day 4 是 These example，**W2-2 修好**）
+- ✅ 分号用对：`...not mutually exclusive**;** rather, ...`（**W2-11 comma splice 避开**）
+- ✅ Phrase 6/7/8/9 全用上（break barriers / lower threshold / not mutually exclusive / vital component）
+
+### Conclusion
+- ✅ 几乎 0 错——Pattern D antithesis 用对（"should be seen as X rather than Y"）
+- `an extension` → 原 Day 4 修复版是 `a helpful extension`（掉了 helpful，minor）
+
+### D+3 Phrase 复检（5/17 captured Phrase 1-3）
+- ❌ Phrase 1/2/3 全未使用——**topic mismatch**（Education/jobs 类 phrase 用在 Technology 题不自然）
+- → 改进：Phrase 1-3 等下一篇 Education/Jobs 话题再复检，不强求
+
+### Phrase 使用小结
+- ✅ 用了 5 个（4 / 6 / 7 / 8 / 9）——所有 topic-relevant 的 phrase 全用上
+- 未用 5 个（1/2/3/5/10）——topic mismatch
+
+### 量化：v2 硬伤 3 处（Day 4 v1 是 9 处，-67%）；W2-10 + W2-11 清零
+
+---
+
+## 2026-05-20 Daily Drill #4 — "虽然快餐方便又便宜，但它正在损害人们的健康"
+
+- ✅✅ Frame C 攻克：V1 用 `Although X, Y`，V3 用 `While X, Y`（Drill #3 卡住的 frame）
+- ✅ 3 个真正不同 frame（Although 从句 / 关系从句嵌入 / While 从句）
+- 🚨 `Fastfood`（一个词）×2 → `fast food`（名词两词）/ `fast-food`（形容词连字符）[W2-1 词形]
+- 🚨 `eating **as** fastfood restaurants` → `eating **at** fast-food restaurants`（as → at）[W2-9 介词]
+- 🚨 `harmful **for**` → `harmful **to**`（固定搭配）[W2-9 collocation]
+- 句末漏 period ×2 [GRA]
+
+---
+
+（后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）

@@ -39,6 +39,48 @@
 
 ## 清单
 
+### 2026-05-20 Daily Drill #4
+
+#### Phrase 11: `harmful to X` / `harmful to one's health`
+- 原句 context：Drill #4，suzy 写成 `harmful for`（介词错）
+- 正确：`harmful **to** X`（harmful 接 to，不接 for）
+- 为什么进清单：固定搭配，suzy 刚踩；高频（health / environment / society 话题都用）
+- 复检：D+1 (5/21) [ ] / D+3 (5/23) [ ] / D+7 (5/27) [ ] / D+14 (6/3) [ ] / D+30 (6/19) [ ] 🎓
+
+---
+
+### 2026-05-19 Day 4 Example 02 仿写（Body 2 + Conclusion 捞货）
+
+#### Phrase 6: `break physical/geographical barriers / limits`
+- 原句 context：Body 2 E 和 Conclusion 同时出现 → 你已经自然用 2 次了
+- 我的句：`Digital tools allow people to break physical barriers, enabling them to exchange information anytime and anywhere.`
+- 为什么 Band 7：`break + barriers/limits` 是地道 collocation，比 "remove obstacles" 更自然
+- 可迁移：任何"打破 X 限制"的场景（geographical / cultural / social / time）
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+
+#### Phrase 7: `lower the threshold/barriers for X`
+- 原句 context：Body 2 E
+- 我的句：`they lower the threshold for getting to know others`
+- 为什么 Band 7：`lower threshold for + gerund` 是中级商业/教育领域 collocation
+- 可迁移：任何"降低进入门槛"的场景
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+
+#### Phrase 8: `are not mutually exclusive`
+- 原句 context：Body 2 L
+- 我的句：`online interaction and traditional socialization are not mutually exclusive`
+- 为什么 Band 7：`mutually exclusive` 是学术高频但安全的 collocation（不到 Band 8 高阶）；reframe 利器
+- 可迁移：DBV / A/D 题反驳"X 和 Y 不是对立的"
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+
+#### Phrase 9: `a vital component of modern X`
+- 原句 context：Body 2 L
+- 我的句：`online communication itself is a vital component of modern social life`
+- 为什么 Band 7：`vital component of` Band 7 collocation；`modern + 抽象名词`（social life / society / education）= 现代化收尾
+- 可迁移：任何"X 是 modern Y 的重要组成"
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+
+---
+
 ### 2026-05-18 Daily Drill #2
 
 #### Phrase 5: `develop the ability to adapt to X`
@@ -46,7 +88,7 @@
 - 我的 V3 修：`Students should develop the ability to adapt to future changes.`
 - 为什么 Band 7：地道 collocation；替换中式直译 "have ability to fill in" / "adapt the future"；可迁移到任何"培养做某事的能力"
 - 反面教材：v1 直接写 `fill in the changes`（致命中式）；v3 写 `adapt the future`（adapt 漏 to）
-- 复检：D+1 (5/19) [ ] / D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/19) ❌ FAIL**（Day 4 v1 主题不自然没用，原版未尝试）/ D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
 
 ---
 
@@ -57,7 +99,7 @@
 - 我的 V2 句：`The aim of schools is not only to prepare students for jobs but also to develop their creativity.`
 - 为什么 Band 7：`not only X but also Y` 平行结构 = 经典 Band 7 句式；范文 Body 2 [T] 同款 frame
 - 可迁移：任何"X 不只为 Y 还为 Z"的场景
-- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 2 [T]（"not only about preparing students for jobs but also about fostering them..."）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 已用进 5/18 v2 Body 2 [T]（"not only about preparing students for jobs but also about fostering them..."）/ **D+2 (5/19) ⚠️ 部分**（Day 4 v1 Body 2 T 原版未用，修复版加进去了——D+3 复检前重练）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
 
 ---
 
@@ -80,17 +122,30 @@
 
 ---
 
-## D+1 复检小结（5/18 today）
+## 复检小结（截至 5/20）
 
-| Phrase | D+1 状态 |
-|--------|---------|
-| 1 may struggle to find | ✅ 全通过 |
-| 2 become increasingly competitive | ✅ 全通过 |
-| 3 focus particularly on | ⚠️ 词序错，明天重练 |
-| 4 not only X but also Y | ✅ 全通过 |
-| 5 develop the ability to adapt to X | — 今日新捞，明天 D+1 |
+| Phrase | 捞日 | D+1 | D+3 | 备注 |
+|--------|------|-----|-----|------|
+| 1 may struggle to find | 5/17 | ✅ (5/18) | ❌ (5/20) | D+3 topic mismatch（Tech 题用不上 jobs phrase）|
+| 2 become increasingly competitive | 5/17 | ✅ (5/18) | ❌ (5/20) | 同上 |
+| 3 focus particularly on | 5/17 | ⚠️ (5/18) | ❌ (5/20) | 同上 |
+| 4 not only X but also Y | 5/18 | ⚠️ (5/19) | ✅ (5/20) | D+3 v2 Body 2 T 用对 ✅ |
+| 5 develop the ability to adapt to X | 5/18 | ❌ (5/19) | — (D+3=5/21) | topic mismatch |
+| 6 break barriers / limits | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
+| 7 lower the threshold for X | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
+| 8 are not mutually exclusive | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
+| 9 vital component of modern X | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
+| 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
+| 11 harmful to X | 5/20 | — (D+1=5/21) | — | 今天 Drill #4 新捞 |
 
-**D+1 通过率：3/4 = 75%** — Phrase capture 系统启动有效 ✅
+**关键发现**：
+- **同题二刷（v2）的 phrase D+复检率高**——Phrase 4/6/7/8/9 都在 Day 5 v2 用上（因为同题 Example 02，phrase 都是从这篇捞的）
+- **跨题 phrase 复检率低**——Phrase 1/2/3（Education 题捞）在 Technology 题 D+3 全 miss
+- **结论**：phrase 的 D+复检要**等同话题的仿写**才自然。下次 Education/Jobs 话题题（如果有）再复检 Phrase 1-3。**不强求跨题复检**。
+
+→ 关键发现：**Daily Drill 捞的 phrase（4-5）比仿写捞的 phrase（1-3）D+1 通过率低**——因为 Drill phrase 不是直接从仿写场景来的，可能和下一篇仿写题目不匹配。
+
+→ 改进策略：Drill phrase 选**和当前仿写题目相关**的源句，提高复检自然度。
 
 ---
 
