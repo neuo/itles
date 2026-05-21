@@ -124,6 +124,21 @@
 **状态**：警示（不是必修，但提醒疲劳期勿写）
 **修法**：注意力差时**不要写**，休息 30 min 或第二天再写
 
+### W2-12 — Dangling modifier（悬垂修饰）🆕🚨 重点
+**首次出现**：2026-05-21（Day 6 v1 Example 03 Conclusion S2）
+**出现次数**：1
+**示例错句**：
+- `**Combining** sensible policies with better education..., **the next generation** will witness less obesity rate`（"combining" 的逻辑主语应是主句主语，但主句主语 "the next generation" 不会 combine policies）
+**正确做法**：分词短语（X-ing / Done）开头时，逻辑主语**必须 = 主句主语**，且那个主语**能做这个动作**：
+1. 让主句主语能做：`By combining..., **societies** can give the next generation a lower rate.`（societies 能 combine）
+2. 改成完整从句：`**If** sensible policies **are combined** with..., obesity rates could fall.`
+3. with-absolute：`**With governments** combining..., rates can fall.`（with + 名词明确主语）
+**类别**：GRA（complex structure 用错——Band 5.5-6 硬伤）
+**状态**：🚨 重点
+**修法**：写"X-ing, 主句"或"Done, 主句"结构时，问："X-ing 这个动作，是主句主语在做吗？且它做得了吗？"
+- ✅ Drill #5（5/21）专项练习：3/3 全避开悬垂——1 次 drill 掌握
+**修复进展**：1 / 3（Drill #5 已验证 1 次，待仿写中再验 2 次）
+
 ### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
 **首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
 **出现次数**：1

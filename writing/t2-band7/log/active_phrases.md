@@ -39,6 +39,16 @@
 
 ## 清单
 
+### 2026-05-21 Daily Drill #5
+
+#### Phrase 12: `impose a tax on X`
+- 原句 context：Drill #5 V3，suzy 自己写对了 `with governments imposing a tax on junk food`
+- 为什么 Band 7：`impose a tax on` 比 "put a tax on" 正式；government / health / environment 话题高频
+- 可迁移：任何"对 X 征税/施加限制"——impose a tax/ban/limit/restriction on X
+- 复检：D+1 (5/22) [ ] / D+3 (5/24) [ ] / D+7 (5/28) [ ] / D+14 (6/4) [ ] / D+30 (6/20) [ ] 🎓
+
+---
+
 ### 2026-05-20 Daily Drill #4
 
 #### Phrase 11: `harmful to X` / `harmful to one's health`

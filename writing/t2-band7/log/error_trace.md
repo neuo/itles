@@ -215,6 +215,62 @@
 
 ---
 
+## 2026-05-21 Day 6 Example 03 v1 — Health C/S（新题型）
+
+### Intro
+- 🚨 `promble` → `problem`（W2-1 拼写，**漏检**——遍 2 没倒着读）
+- 🚨 `sugguesting` → `suggesting`（W2-1 拼写，漏检）
+- ✅ `these day` → `these days`（自检抓到）
+- `has been` → `has become`（"growing problem" 用 become 更准，minor）
+
+### Body 1（causes 段）
+- ✅ `childhook` → `childhood`（自检抓到）
+- 🚨 `mordern` → `modern`（W2-1，漏）
+- 🚨 `Unite Kingdom` → `United Kingdom`（W2-1，漏）
+- 🚨 `fator` → `factor`（W2-1，漏）
+- 🚨 `activty` → `activity`（W2-1，漏）
+- ⚠️ `speend` 自检改成 `speed`（但 speed 也错，应 `spend`）—— 抓到misspelling 但改错方向
+- `the main cause` 句首 → `The`（大写）
+- `the main cause **for**` → `cause **of**`（collocation）[W2-9]
+- `leading children **ingesting**` → `leading children **to ingest**`（lead sb to do）[W2-9]
+- `unhealth nutrition` → `unhealthy food`（unhealth→unhealthy + nutrition 搭配不当）[W2-1+W2-9]
+- `which largely **cut**` → `which greatly **reduces**`（largely→greatly + 单数）[W2-9+W2-2]
+- `A case in point is` → `For example, in ___`（"A case in point" Band 7.5，工具集已降级）
+- 自检率 Body 1 ≈ 20%（倒着读没做，漏 4 个拼写）
+
+### Body 2（solutions 段）
+- ✅ `goverment` → `government`（自检抓到）
+- ✅ `exmaples` → `examples`（自检抓到）
+- ✅ `teach kids on` —— 遍 3 **标记了**介词怀疑（设计动作）→ 答案 `teach children sth`（无介词）
+- `demands all foods **must display**` → `requires all packaged food **to display**`（两个结构混用）[W2-9]
+- `kids` → `children`（口语化 register）[LR]
+- `both **food environment**` → `both **the** food environment`（漏冠词）[W2-2]
+- L 太泛：`the habits they form` → `encouraging more active lifestyles`（明确回扣运动 cause）[TR]
+- 自检率 Body 2 ≈ 50%（倒着读做了，2 拼写全抓 + 遍 3 标介词）
+
+### Conclusion
+- 🚨 **Dangling modifier**（首次）：`Combining sensible policies..., the next generation will witness...`（"combining" 逻辑主语 ≠ 主句主语 the next generation）→ `By combining..., societies can give...` [**W2-12 新**]
+- `witness less obesity rate` → `witness` 不配 rate；`less` 配不可数 → `a lower obesity rate` [W2-9]
+- `action on both sides` → `on both fronts`（both sides 含对立义）[W2-9]
+- ✅ 遍 3 标记 2 处冠词怀疑（diet +s? / action +s?）—— 都标对了
+
+### 自检率轨迹（Day 6）
+Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着读生效。
+
+### Active Phrase
+- Phrase 11 `harmful to` 未自然用上（topic 其实可用，下次注意）
+
+---
+
+## 2026-05-21 Daily Drill #5 — "通过对垃圾食品征税，肥胖率可以下降"（专治 dangling modifier）
+
+- ✅✅ 3/3 全部避开悬垂修饰（By-ing / If 从句 / With-absolute）—— 目标 drill 一次命中
+- ✅ 0 拼写错
+- ✅ `impose a tax on`（V3）—— 地道 collocation，进 Phrase 12
+- ⚠️ `by` / `if` / `with` 句首没大写 ×3 [GRA]
+
+---
+
 ## 2026-05-20 Daily Drill #4 — "虽然快餐方便又便宜，但它正在损害人们的健康"
 
 - ✅✅ Frame C 攻克：V1 用 `Although X, Y`，V3 用 `While X, Y`（Drill #3 卡住的 frame）
