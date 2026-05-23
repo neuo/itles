@@ -44,11 +44,11 @@
 - "in ther wider lives" → "in their wider lives"
 - "for work is import" → "for work is important"
 **类别**：GRA（直接拉 0.5 档）
-**状态**：🚨 必修
+**状态**：🚨 必修 → **降级"重点"（5/23 大幅改善）**
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：0 / 3
+**修复进展**：1 / 3（5/23 Day 7 v2：**0 拼写错** ✅ —— 倒着读 + 高频错词卡完全起效；待再 2 次验证毕业）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -137,7 +137,8 @@
 **状态**：🚨 重点
 **修法**：写"X-ing, 主句"或"Done, 主句"结构时，问："X-ing 这个动作，是主句主语在做吗？且它做得了吗？"
 - ✅ Drill #5（5/21）专项练习：3/3 全避开悬垂——1 次 drill 掌握
-**修复进展**：1 / 3（Drill #5 已验证 1 次，待仿写中再验 2 次）
+- ✅ 5/23 Day 7 v2 Conclusion "By combining... societies can give" —— logical subject 正确 ✅
+**修复进展**：2 / 3（Drill #5 + Day 7 v2 已验证 2 次，再 1 次仿写无错可毕业 🎓）
 
 ### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
 **首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
@@ -193,6 +194,82 @@
 2. **Daily Drill 重点针对 collocation**：选包含 verb + preposition / verb + noun 搭配的源句
 3. 写作时拿不准的搭配**查 cheat sheet** 或用最常见简单版（不要凭直觉冒险）
 **修复进展**：0 / 3（新捕，待 D+1 验证）
+
+---
+
+### W2-13 — `lead sb to do` 误为 `lead sb to doing` 🆕
+**首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 E1）
+**出现次数**：1
+**示例错句**：
+- `leading children **to having** too much unhealthy nutrition` → `leading children **to consume** too much unhealthy food`
+**类别**：GRA
+**状态**：活跃
+**修法**：lead / encourage / cause / allow / enable + sb + **to do**（不定式），不接 doing
+**修复进展**：0 / 3
+
+### W2-14 — 不可数名词加 -s 🆕🚨 重点
+**首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 Ex）
+**出现次数**：1
+**示例错句**：
+- `**researches** show that...` → `**studies** show` 或 `research **shows**`
+**类别**：GRA + LR（与 W2-2 单复数错同源但反向——这次是不可数当可数）
+**状态**：🚨 重点
+**修法**：
+1. 写完每个 -s 名词问自己："这个词可数吗？"（research / advice / information / equipment / news / progress / knowledge / furniture / luggage 都是不可数）
+2. 想表达"研究"复数概念 → 用 `studies`（research 的可数对等词）
+**修复进展**：0 / 3
+
+### W2-15 — not...but 平行少 by 🆕
+**首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 L）
+**出现次数**：1
+**示例错句**：
+- `not caused by only one factor, **but poor diet combined with...**` → `not caused by only one factor **but by** poor diet combined with...`
+**类别**：GRA（平行结构）
+**状态**：活跃
+**修法**：not X but Y 的平行——X 和 Y 必须语法等价。`not caused by A` 和 `caused by B` 平行，所以 not...but 后面要重复 by。规则：A 和 B 必须能各自接 not...but 框架前的同一动词
+**修复进展**：0 / 3
+
+### W2-16 — 复数名词前加 a/an 🆕
+**首次出现**：2026-05-23（Day 7 v2 Example 03 Body 2 E1）
+**出现次数**：1
+**示例错句**：
+- `require **a** clearer nutrition labels` → `require clearer nutrition labels`
+**类别**：GRA（基础冠词错——通常归类 5.0-5.5 雷）
+**状态**：活跃（低层错，理论应避免）
+**修法**：写完每个 a/an 问"后面是单数 countable 吗"——是 → 保留；否 → 删
+**修复进展**：0 / 3
+
+### W2-17 — 主语单/复数与代词不一致 🆕🚨 重点
+**首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 + Body 2 共 2 处）
+**出现次数**：2
+**示例错句**：
+- Body 1：`processed food is high...prefer **them**` → 主语单数 food 但用了复数 them → 改 `processed **foods are** high...prefer **them**` 或 `food is...prefer **it**`
+- Body 2：`all food to clearly display **their** sugar and fat content` → food 单数应用 its → `display **its** sugar and fat content`
+**类别**：GRA（agreement）+ LR（与 W2-2 单复数错 + W2-14 不可数同源）
+**状态**：🚨 重点（systematic——首次仿写就 2 处，且都是 food 这种 uncountable 抽象词）
+**修法**：
+1. 写完每个 it/them/its/their 问："它指代哪个名词？那个名词单数还是复数？"
+2. 不可数名词（food / research / advice / information）= **单数** → it / its
+3. 想用复数 → 把主语改成可数（foods / studies）
+**修复进展**：0 / 3
+
+---
+
+## 🆕 W2 错误层叠演化记录（5/23 加）
+
+| 阶段 | 主导错误层 | 典型错 | 修复方法 |
+|------|----------|--------|---------|
+| **W1 初期**（5/17-18）| 拼写 + 单复数 + 让步段策略 | W2-1, W2-2, W2-10 | 倒着读 + 名词扫一遍 + 让步加限定词 |
+| **W1 中期**（5/19-20）| Collocation + comma splice + reduced relative | W2-9, W2-11, W2-3 | 查 cheat sheet + 每 comma 问 |
+| **W2 初期**（5/21-23）| Dangling + 不可数 + 主谓代一致 + lead to do | W2-12, W2-13~17 | logical subject 检查 + 不可数清单 + 代词指代追踪 |
+
+**核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
+
+→ Day 8+ 优先：
+1. **W2-13~17** 一组（Day 7 v2 集中暴露）——主要是 GRA 一致性 / 不可数 / 平行
+2. **W2-17 主谓代不一致** —— systematic，重点防
+3. **W2-12 dangling** —— 再 1 次无错可毕业 🎓
+4. **W2-1 拼写** —— 再 2 次无错可毕业 🎓
 
 ---
 

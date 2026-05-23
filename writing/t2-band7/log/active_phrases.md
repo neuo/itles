@@ -39,13 +39,25 @@
 
 ## 清单
 
+### 2026-05-23 Daily Drill #6（Active 捞 ⭐）
+
+#### Phrase 13: `pick up (bad/unhealthy/good) X habits`
+- 原句 context：Drill #6 V2，suzy 自己写出 `cause them to **pick up** some unhealthy eating habits`
+- 为什么 Band 7：`pick up + habits/accent/skills/phrases` 是地道 phrasal verb collocation，比 "form/develop habits" 更生活化也更地道
+- 可迁移：pick up habits / pick up an accent / pick up new skills / pick up bad habits from peers
+- **Active 捞**——suzy V2 自己写出来，无需纠错。预测 D+复检通过率高
+- 复检：D+1 (5/24) [ ] / D+3 (5/26) [ ] / D+7 (5/30) [ ] / D+14 (6/6) [ ] / D+30 (6/22) [ ] 🎓
+
+---
+
 ### 2026-05-21 Daily Drill #5
 
 #### Phrase 12: `impose a tax on X`
 - 原句 context：Drill #5 V3，suzy 自己写对了 `with governments imposing a tax on junk food`
 - 为什么 Band 7：`impose a tax on` 比 "put a tax on" 正式；government / health / environment 话题高频
 - 可迁移：任何"对 X 征税/施加限制"——impose a tax/ban/limit/restriction on X
-- 复检：D+1 (5/22) [ ] / D+3 (5/24) [ ] / D+7 (5/28) [ ] / D+14 (6/4) [ ] / D+30 (6/20) [ ] 🎓
+- 复检：D+1 (5/22) [—] / **D+2 (5/23) ✅ 提前通过** / D+3 (5/24) [ ] / D+7 (5/28) [ ] / D+14 (6/4) [ ] / D+30 (6/20) [ ] 🎓
+- **D+2 (5/23) 实战通过 ✅**——Day 7 v2 Body 2 自然写出 `impose extra taxes on sugary drinks`，搭配 + 介词全对。Drill 后 2 天即在 essay 自然调用，记忆建立速度优秀
 
 ---
 
@@ -55,7 +67,11 @@
 - 原句 context：Drill #4，suzy 写成 `harmful for`（介词错）
 - 正确：`harmful **to** X`（harmful 接 to，不接 for）
 - 为什么进清单：固定搭配，suzy 刚踩；高频（health / environment / society 话题都用）
-- 复检：D+1 (5/21) [ ] / D+3 (5/23) [ ] / D+7 (5/27) [ ] / D+14 (6/3) [ ] / D+30 (6/19) [ ] 🎓
+- 复检：D+1 (5/21) [ ] / **D+3 (5/23) ❌ FAIL** / **D+3.5 (5/23 晚) ✅✅✅ Drill #6 救回** / D+7 (5/27) [ ] / D+14 (6/3) [ ] / D+30 (6/19) [ ] 🎓
+- **D+3 (5/23 上午) Day 7 v2 fail ❌**——health 话题完美匹配但漏用
+- **D+3.5 (5/23 晚) Drill #6 V1/V2/V3 全部用对 ✅✅✅**——3 次 active production 强化，从 passive 捞转 active 池
+- **关键教训**：Passive 捞的 phrase（被纠错的）单靠 Pre-retrieval 不够，必须 active drill 3 次才能从声明性记忆 → 程序性记忆。Phrase 12（Active 捞）只需 D+2 自然通过；Phrase 11（Passive 捞）需要 D+3.5 强制 drill 才救回
+- **下次 health 话题 essay 仍要点名**——3 次 drill 不等于真上线，要在真实 essay 中 D+7/D+14 再验证
 
 ---
 
@@ -146,7 +162,9 @@
 | 8 are not mutually exclusive | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
 | 9 vital component of modern X | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
 | 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
-| 11 harmful to X | 5/20 | — (D+1=5/21) | — | 今天 Drill #4 新捞 |
+| 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
+| 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
+| 13 pick up X habits | 5/23 | — (D+1=5/24) | — (D+3=5/26) | Drill #6 V2 active 捞 |
 
 **关键发现**：
 - **同题二刷（v2）的 phrase D+复检率高**——Phrase 4/6/7/8/9 都在 Day 5 v2 用上（因为同题 Example 02，phrase 都是从这篇捞的）
@@ -156,6 +174,25 @@
 → 关键发现：**Daily Drill 捞的 phrase（4-5）比仿写捞的 phrase（1-3）D+1 通过率低**——因为 Drill phrase 不是直接从仿写场景来的，可能和下一篇仿写题目不匹配。
 
 → 改进策略：Drill phrase 选**和当前仿写题目相关**的源句，提高复检自然度。
+
+---
+
+## 5/23 新发现：Active 捞 vs Passive 捞（Phrase 11 vs 12 对照实验）
+
+Day 7 v2 是天然的对照实验：Phrase 11 和 Phrase 12 都是 health 话题、都到 D+2/3 复检窗口，结果一通过一失败。
+
+| 维度 | Phrase 11 `harmful to` | Phrase 12 `impose a tax on` |
+|------|----------------------|----------------------------|
+| 捞的方式 | **Passive**（Drill #4 suzy 写错 `harmful for`，被纠正后录入）| **Active**（Drill #5 V3 suzy 自己写出 `imposing a tax on junk food`）|
+| 心理 trace | 纠错记忆——"哦原来 to 不是 for"（声明性记忆）| 生产记忆——"我能用这个搭配"（程序性记忆）|
+| Pre-retrieval | 列在清单了 | 列在清单了 |
+| Day 7 v2 实战 | ❌ 漏用 | ✅ 自然用上 |
+
+**结论**：
+1. **Active 捞 > Passive 捞**——自己写对的 phrase 比被纠正的 phrase，D+复检通过率高很多
+2. **Passive 捞的 phrase 需要额外 active 训练才能上线**——光列清单不够，还要再写 1-2 句 Drill 把它从声明性 → 程序性
+3. **下次开工 Pre-retrieval 时**：标记每个 phrase 是 Active 捞还是 Passive 捞，对 Passive 捞的 phrase 写在草稿白板上"今天必用 X"
+4. **Drill phrase 选择**：尽量选 suzy V3 自己写出来的句（active）作为录入候选，而不是只录她写错的
 
 ---
 

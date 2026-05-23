@@ -282,4 +282,24 @@ Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着�
 
 ---
 
+## 2026-05-23 Daily Drill #6 — "长期食用加工食品对孩子的健康十分有害，并会导致他们养成不健康的饮食习惯"（专治 Phrase 11 + W2-13）
+
+- ✅✅✅ Phrase 11 `harmful to` 3 次全用对（V1/V2/V3）—— D+3 fail 后 active 救回成功 🎉
+- ✅✅ W2-13 双结构掌握：
+    - V1 `lead them to have` = `lead sb **to do**` ✅
+    - V3 `leads to them developing` = `lead **to** sb doing` ✅
+    - V2 `cause them to pick up` = 同 lead sb to do 系列 ✅
+- ✅ Phrase 4 `not only X but also Y` 跨题复用（V3）—— Phrase 4 D+3 通过
+- ✅ 3 个真正不同 frame（V1 基础 SVO / V2 关系从句嵌入 / V3 gerund 做主语）
+- ⭐ 🆕 V2 active 写出 `pick up (unhealthy) eating habits` —— 地道 collocation，进 Phrase 13
+- 🚨 `unhealth` → `unhealthy` [W2-1 拼写]
+- 🚨 `harmfull` → `harmful` [W2-1 拼写——双 l 错，注意]
+- ⚠️ `a unhealthy` → `an unhealthy`（元音前用 an）[GRA 基础冠词]
+- ⚠️ `constantly eat` → `frequently/regularly eat`（constantly 词义偏强且偏负面）[W2-6 词义错]
+- ⚠️ `dietary habit`（单数）→ `eating habits`（复数 + 更地道）[W2-2 单复数]
+- ⚠️ `leads to them developing` → `leads to **their** developing`（formal writing 偏好 possessive + gerund）[GRA 微调，非硬伤]
+- 最佳：V3（frame 最升级 + 0 拼写错 + 整合 3 个 phrase）
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）
