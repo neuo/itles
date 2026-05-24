@@ -121,12 +121,13 @@
 
 ### 2026-05-18 Daily Drill #1（启动日）
 
-#### Phrase 4: `The aim of X is not only to Y but also to Z`
+#### Phrase 4: `The aim of X is not only to Y but also to Z` / `not only X but also Y`
 - 原句 context：drill 源句"现代教育应该兼顾学生的就业能力和创造力"
 - 我的 V2 句：`The aim of schools is not only to prepare students for jobs but also to develop their creativity.`
 - 为什么 Band 7：`not only X but also Y` 平行结构 = 经典 Band 7 句式；范文 Body 2 [T] 同款 frame
 - 可迁移：任何"X 不只为 Y 还为 Z"的场景
-- 复检：**D+1 (5/18) ✅** 已用进 5/18 v2 Body 2 [T]（"not only about preparing students for jobs but also about fostering them..."）/ **D+2 (5/19) ⚠️ 部分**（Day 4 v1 Body 2 T 原版未用，修复版加进去了——D+3 复检前重练）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 5/18 v2 Body 2 / **D+2 (5/19) ⚠️ 部分** / D+3 (5/20) [ ] / **D+6 (5/24) ✅⭐⭐⭐ Day 9 v2 Body 2 L 跨题完美上线** "not only threatens the survival of physical shops, but also drives the remaining ones to reinvent themselves" / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+- **跨越式上线意义**：Drill #1 启动日（5/18）捞 → Day 9 v2（5/24，D+6）才正式自然纳入 essay。**Drill phrase 需要更长 incubation 时间但跨题适用**——推翻 5/20 那次"Drill phrase D+1 通过率低 = 不通过"的判断，改为"通过但慢"
 
 ---
 
@@ -166,9 +167,10 @@
 | 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
-| 13 pick up X habits | 5/23 | ✅ (5/24) | — (5/26) | **Day 8 v1 Conclusion D+1 完美上线 🎉** |
-| 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) ✅✅** Day 8 v1 跨题用 2 次（Education→Retail 通过）|
-| 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) ✅** Day 8 v1 Body 1 E1（Tech→Retail）|
+| 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | **Day 8 v1 D+1 上线 + Day 9 v2 D+2 巩固 🎉** |
+| 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) Day 8 v1 ✅✅** + **D+8 (5/24) Day 9 v2 ✅✅ 沿用 2 次**——跨题完全稳定 |
+| 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) Day 8 v1 ✅** + **D+6 (5/24) Day 9 v2 ✅ 沿用**——跨题稳定 |
+| 4 not only X but also Y (re-check) | 5/18 | ⚠️ (5/19) | — | **D+6 (5/24) ✅⭐⭐⭐ Day 9 v2 跨越式上线**——Drill 启动日捞，需 incubation 才上线 |
 
 **关键发现**：
 - **同题二刷（v2）的 phrase D+复检率高**——Phrase 4/6/7/8/9 都在 Day 5 v2 用上（因为同题 Example 02，phrase 都是从这篇捞的）

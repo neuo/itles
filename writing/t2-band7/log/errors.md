@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：1 / 3（5/23 Day 7 v2：**0 拼写错** ✅ —— 倒着读 + 高频错词卡完全起效；待再 2 次验证毕业）
+**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️（browser/immerse），表明 v1 一刷自检不严密；5/24 Day 9 v2：**0 拼写错** ✅ —— 倒着读 + 高频错词卡完全起效；待再 1 次无错可毕业）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -124,22 +124,9 @@
 **状态**：警示（不是必修，但提醒疲劳期勿写）
 **修法**：注意力差时**不要写**，休息 30 min 或第二天再写
 
-### W2-12 — Dangling modifier（悬垂修饰）🆕🚨 重点
-**首次出现**：2026-05-21（Day 6 v1 Example 03 Conclusion S2）
-**出现次数**：1
-**示例错句**：
-- `**Combining** sensible policies with better education..., **the next generation** will witness less obesity rate`（"combining" 的逻辑主语应是主句主语，但主句主语 "the next generation" 不会 combine policies）
-**正确做法**：分词短语（X-ing / Done）开头时，逻辑主语**必须 = 主句主语**，且那个主语**能做这个动作**：
-1. 让主句主语能做：`By combining..., **societies** can give the next generation a lower rate.`（societies 能 combine）
-2. 改成完整从句：`**If** sensible policies **are combined** with..., obesity rates could fall.`
-3. with-absolute：`**With governments** combining..., rates can fall.`（with + 名词明确主语）
-**类别**：GRA（complex structure 用错——Band 5.5-6 硬伤）
-**状态**：🚨 重点
-**修法**：写"X-ing, 主句"或"Done, 主句"结构时，问："X-ing 这个动作，是主句主语在做吗？且它做得了吗？"
-- ✅ Drill #5（5/21）专项练习：3/3 全避开悬垂——1 次 drill 掌握
-- ✅ 5/23 Day 7 v2 Conclusion "By combining... societies can give" —— logical subject 正确 ✅
-- ✅ 5/24 Day 8 v1 全篇 0 次踩 ✅✅✅
-**修复进展**：**3 / 3 🎓 可毕业**（Drill #5 + Day 7 v2 + Day 8 v1 累计 3 次无错；Day 9 v2 若再 0 次正式标 🎓 进毕业区）
+### W2-12 — Dangling modifier（悬垂修饰）🎓 **已毕业 — 见底部已毕业区**
+
+**简记**：2026-05-21 Day 6 v1 首次出现 → Drill #5 (5/21) + Day 7 v2 (5/23) + Day 8 v1 (5/24) + Day 9 v2 (5/24) 连续 4 次无错 → 🎓 毕业。完整记录移到本文件底部"已毕业错误"区。
 
 ### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
 **首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
@@ -253,7 +240,7 @@
 2. 不可数名词（food / research / advice / information）= **单数** → it / its
 3. 想用复数 → 把主语改成可数（foods / studies）
 4. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its，不用 they / have / their
-**修复进展**：0 / 3（5/24 Day 8 v1 又踩 "Amazon, which **have** built" → 单数公司用 has）
+**修复进展**：1 / 3（5/24 Day 9 v2：**0 次踩** ✅ —— "Amazon, which **has** built" + "more **consumers**" + "**cafes**" 全部修对；待再 2 次验证毕业）
 
 ### W2-18 — 平行结构错（and 两边动词形态不一致）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Conclusion）
@@ -265,7 +252,7 @@
 **修法**：每个 `and` 两边问 "动词形态一致吗"
 - has X and has Y（完成时平行）→ has put and **has** caused（or 省略后 has X and Y，Y = past participle）
 - X and Y（一般时平行）→ puts pressure and **causes** closures
-**修复进展**：0 / 3
+**修复进展**：1 / 3（5/24 Day 9 v2：**0 次踩** ✅ —— "has put... and **caused** some of them to close down" 完美修对；待再 2 次验证毕业）
 
 ### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
@@ -282,7 +269,7 @@
    - 多种 / 一些 → many / several / some
    - 各自的 → their / its
 3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
-**修复进展**：0 / 3
+**修复进展**：1 / 3（5/24 Day 9 v2：**3 处全修对** ✅ —— "the convenient delivery service" → "their"；"the in-store services" → "their"；"the shopping malls" → "many"；待再 2 次验证毕业）
 
 ---
 
@@ -293,7 +280,8 @@
 | **W1 初期**（5/17-18）| 拼写 + 单复数 + 让步段策略 | W2-1, W2-2, W2-10 | 倒着读 + 名词扫一遍 + 让步加限定词 |
 | **W1 中期**（5/19-20）| Collocation + comma splice + reduced relative | W2-9, W2-11, W2-3 | 查 cheat sheet + 每 comma 问 |
 | **W2 初期**（5/21-23）| Dangling + 不可数 + 主谓代一致 + lead to do | W2-12, W2-13~17 | logical subject 检查 + 不可数清单 + 代词指代追踪 |
-| **W2 中期**（5/24）| 平行结构 + 冠词 + 主谓代再次踩 | W2-18, W2-19, W2-17 再踩 | and 两边动词一致 + the 特指/泛指判断 + 公司名单数 |
+| **W2 中期**（5/24 v1）| 平行结构 + 冠词 + 主谓代再次踩 | W2-18, W2-19, W2-17 再踩 | and 两边动词一致 + the 特指/泛指判断 + 公司名单数 |
+| **W2 末期**（5/24 v2）| ✨ **全清零** | v2 = 14/14 Band 7.0；W2-12 🎓 毕业 | 三大新错（W2-17/18/19）一次 v2 全修对——layer-by-layer 推进的"对照修复"机制完全起效 |
 
 **核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
 
@@ -308,6 +296,14 @@
 2. **W2-18 🆕 平行 + W2-19 🆕 冠词** —— 新瓶颈层
 3. **W2-12 dangling** —— **修复进展 3/3 🎓 可毕业**（Day 9 v2 若再 0 次正式毕业）
 4. **W2-1 拼写** —— Day 7 v2 归零后 Day 8 v1 又踩 2 处（browser/immerse）—— v1 一刷自检不严密，v2 必倒读
+
+→ Day 10+ 优先（5/24 Day 9 v2 后更新）：
+1. **W2-17 主谓代** 修复进展 1/3，继续防（公司名单数 / 列举一致 / uncountable）
+2. **W2-18 并列谓语** 修复进展 1/3，继续防（每个 and 两边动词形态）
+3. **W2-19 冠词 the** 修复进展 1/3，继续防（特指/泛指 3 步判断）
+4. **W2-1 拼写** 修复进展 2/3，再 1 次无错可毕业
+5. **W2-12 dangling 🎓 已毕业**，不再强制提醒
+6. **新瓶颈层探测**：v2 = 14/14 后，下一篇 v1（Example 05 2-Pt）会暴露什么层？预测：2-Pt 题型独有的"两个问题平衡"或"立场表态" TR 层错误
 
 ---
 
@@ -353,7 +349,34 @@
 
 ## 已毕业错误 🎓
 
-（暂无）
+### W2-12 — Dangling modifier（悬垂修饰）🎓 毕业于 2026-05-24
+
+**首次出现**：2026-05-21（Day 6 v1 Example 03 Conclusion S2）
+**出现次数**：1（首次踩后立即专项修复）
+**首次错句**：
+- `**Combining** sensible policies with better education..., **the next generation** will witness less obesity rate`（"combining" 的逻辑主语应是主句主语，但主句主语 "the next generation" 不会 combine policies）
+
+**正确做法**（3 种修法）：
+1. 让主句主语能做：`By combining..., **societies** can give the next generation a lower rate.`（societies 能 combine）
+2. 改成完整从句：`**If** sensible policies **are combined** with..., obesity rates could fall.`
+3. with-absolute：`**With governments** combining..., rates can fall.`（with + 名词明确主语）
+
+**类别**：GRA（complex structure 用错——Band 5.5-6 硬伤）
+**修法**：写 "X-ing, 主句" 或 "Done, 主句" 结构时，问 "X-ing 这个动作，是主句主语在做吗？且它做得了吗？"
+
+**毕业 path**（5 天 4 次无错）：
+| 日期 | 事件 | 状态 |
+|------|------|------|
+| 5/21 | Day 6 v1 Conclusion 首次踩 | ❌ 1 次 |
+| 5/21 | Drill #5（专项练习 3 句）| ✅ 3/3 全避开 |
+| 5/23 | Day 7 v2 Conclusion "By combining... societies can give" | ✅ 0 次 |
+| 5/24 | Day 8 v1 全篇 | ✅ 0 次 |
+| 5/24 | Day 9 v2 全篇 | ✅ 0 次 |
+
+**毕业意义**：T2 仿写以来**第 1 个毕业的错误模式**——证明：
+1. errors.md 的"修复进展计数"机制有效
+2. "Drill 专项 + 仿写中验证" 的修法 path 走通
+3. 给后续 W2-13~19 各错误提供毕业范式
 
 ---
 

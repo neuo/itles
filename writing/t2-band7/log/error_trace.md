@@ -347,4 +347,53 @@ Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着�
 
 ---
 
+## 2026-05-24 Day 9 v2 — Example 04 网购 C/E 同题二刷（🎉 14/14 Band 7.0 历史最佳）
+
+### 流程亮点
+- ⭐⭐⭐ **14/14 = Band 7.0** 首次达到目标（v1 是 10-11/14 ≈ Band 6.0 高位）
+- ⭐⭐⭐ **W2-12 dangling modifier 🎓 正式毕业**（连续 4 次无错：Drill #5 + Day 7 v2 + Day 8 v1 + Day 9 v2）
+- ⭐⭐⭐ **9/9 硬伤全部修复**（W2-1 拼写 / W2-2 单复数 / W2-17 主谓代 / W2-18 并列谓语 / W2-19 冠词 + 标点 + GRA most...negative）
+- ⭐⭐⭐ **4/4 Phrase 全部 deploy**（沿用 6/1/13 + 新加 4 not only X but also Y）
+
+### v1 → v2 修复对照（9/9 全修）
+- "In terms of **convenient**" → "Regarding **convenience**"（LR 词性 + frame 变化升级）
+- "**browser**" → "**browse**"（W2-1 拼写）
+- "Amazon, which **have** built" → "Amazon, which **has** built"（W2-17 公司名单数）
+- "most **is** negative" → "most **of which are** negative"（GRA）
+- "more **consumer**" → "more **consumers**"（W2-2 单复数）
+- EX1 句末漏 period → "...the last decade**.**"
+- "**cafe**" → "**cafes**"（W2-2 列举一致）
+- "**immerse** pressure" → "**immense** pressure"（W2-1 拼写词义混淆）
+- "has put... **and cause**" → "has put... **and caused** some of them to close down"（**W2-18 并列谓语** 完美修对）
+
+### 额外冠词 W2-19 修复（3 处）
+- "**the** convenient delivery service" → "**their** convenient delivery service"
+- "**the** in-store services" → "**their** in-store services"
+- "**the** shopping malls in China" → "**many** shopping malls in China"
+
+### Phrase 表现
+- ✅ Phrase 6 break geographic barriers（Body 1 E1 沿用 v1）
+- ✅⭐⭐ Phrase 1 struggle to / find hard to（Body 1 L variant + Body 2 E1 原型，用 2 次）
+- ✅⭐⭐⭐ Phrase 13 pick up new habits（Conclusion D+2 巩固）
+- ✅⭐⭐⭐ **Phrase 4 not only X but also Y** Body 2 L 新用上——Drill #1 (5/18) 启动日捞，**D+6 跨越式上线**
+
+### v2 主动升级（超出 gap 修复范围）
+- "These examples demonstrate that" 替换 "This shows that"
+- "cannot be replicated online" 替换 "can't be copied by websites"（formal + Band 7 verb）
+- "experience-led formats" 替换 "patterns"（地道）
+- "such as" 替换介词"with"（举例衔接）
+- "have had to close down" 替换被动 "have been forced to close"（主动简洁）
+- "caused some of them to close" 加 "some of them" 防 overgeneralization
+- "Regarding... As for..." 替换重复"In terms of x2"
+
+### 仅剩的 ⚠️ 微小升级（非硬伤）
+- "consumer bases" → "customer bases"（minor）
+- "through saving on rent" → "through savings on rent"（noun 略自然）
+- Conclusion 缺 punch line（范文 "high street will... very different form" 类似收尾）
+
+### W2-12 dangling 正式毕业 🎓
+全篇 0 次踩 → 累计 4 次无错（Drill #5 + Day 7 v2 + Day 8 v1 + Day 9 v2）→ T2 仿写以来第 1 个毕业错误模式
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）
