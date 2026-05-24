@@ -39,6 +39,41 @@
 
 ## 清单
 
+### 2026-05-24 Daily Drill #8（Active 捞 ⭐）
+
+#### Phrase 15: `serve as the cornerstone of X` / `X is the cornerstone of Y`
+- 原句 context：Drill #8 V2，suzy 自己 active 写出 `which serves as the cornerstone of social development`
+- 为什么 Band 7+：`cornerstone` 比 "foundation" 略升 1 档；`serve as the cornerstone of X` 是学术 register 高频地道搭配
+- 双结构掌握：
+    - `X **serves as** the cornerstone of Y`（verb 主动）
+    - `X **is** the cornerstone of Y`（系动词）
+- 可迁移（跨话题广）：
+    - Society: cornerstone of **a healthy society** / **modern civilization**
+    - Politics: cornerstone of **democracy** / **the rule of law**
+    - Economy: cornerstone of **economic growth** / **prosperity**
+    - Education: cornerstone of **personal development** / **academic success**
+    - Family/Values: cornerstone of **family life** / **traditional values**
+- **Active 捞** ⭐⭐⭐——suzy V2 自己 active 写出来。同 Phrase 12/13/14 Active 捞模式，预测 D+复检通过率高
+- 复检：D+1 (5/25) [ ] / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+
+---
+
+### 2026-05-24 Daily Drill #7（Active 捞 ⭐）
+
+#### Phrase 14: `exacerbate / intensify / deepen + (the sense of) X`
+- 原句 context：Drill #7 V1，suzy 自己 active 写出 `Modern social media has deepened interpersonal connections and also **exacerbated the sense of isolation** among certain groups`
+- 为什么 Band 7：`exacerbate / intensify / deepen + abstract noun` 是高频地道搭配，比 "make X worse" 升 1 档；学术 register 友好但不到 Band 8
+- 可迁移（跨话题广）：
+    - Health: exacerbate **health problems** / intensify **the spread of disease**
+    - Society: deepen **divisions** / intensify **inequality** / exacerbate **the gap between rich and poor**
+    - Politics: aggravate **tensions** / deepen **distrust**
+    - Economy: intensify **competition** / exacerbate **unemployment**
+    - Environment: aggravate **climate change** / intensify **resource scarcity**
+- **Active 捞** ⭐⭐⭐——suzy V1 自己写出来，无需纠错。参考 Phrase 12 / 13 Active 捞模式（D+2 / D+1 自然上线），预测 D+复检通过率高
+- 复检：D+1 (5/25) [ ] / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+
+---
+
 ### 2026-05-23 Daily Drill #6（Active 捞 ⭐）
 
 #### Phrase 13: `pick up (bad/unhealthy/good/new) X habits`
@@ -168,6 +203,8 @@
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
 | 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | **Day 8 v1 D+1 上线 + Day 9 v2 D+2 巩固 🎉** |
+| 14 exacerbate the sense of X | 5/24 | — (D+1=5/25) | — (D+3=5/27) | Drill #7 V1 Active 捞 ⭐⭐⭐——跨话题广（health/society/politics/economy/environment）|
+| 15 serve as the cornerstone of X | 5/24 | — (D+1=5/25) | — (D+3=5/27) | Drill #8 V2 Active 捞 ⭐⭐⭐——跨话题广（democracy/economy/education/society/family）|
 | 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) Day 8 v1 ✅✅** + **D+8 (5/24) Day 9 v2 ✅✅ 沿用 2 次**——跨题完全稳定 |
 | 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) Day 8 v1 ✅** + **D+6 (5/24) Day 9 v2 ✅ 沿用**——跨题稳定 |
 | 4 not only X but also Y (re-check) | 5/18 | ⚠️ (5/19) | — | **D+6 (5/24) ✅⭐⭐⭐ Day 9 v2 跨越式上线**——Drill 启动日捞，需 incubation 才上线 |

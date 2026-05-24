@@ -396,4 +396,41 @@ Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着�
 
 ---
 
+## 2026-05-24 Daily Drill #7 — "现代社交媒体既加深了人与人之间的联系，也加剧了某些群体的孤立感"（专治 W2-18 并列谓语）
+
+- ✅✅✅ W2-18 并列谓语 2/2 命中（V1 has deepened+exacerbated / V2 has not only strengthened+but also deepened）—— 修复进展 1/3 → 2/3
+- ⭐⭐⭐ Phrase 4 not only X but also Y D+7 跨题复用，嵌入 V2 relative clause（难度升级 frame）
+- ⭐⭐⭐ V1 Active 捞 Phrase 14 `exacerbate the sense of X` 进入 active 池
+- ✅ V1 0 硬伤（Band 7+ collocations 拉满：exacerbated / interpersonal connections）
+- ❌ V2 句首小写 `people` → `People`（meta 注意力错，类似 W2-8）
+- ❌ V2 `**the** alienation` → `alienation`（**W2-19 冠词 the 误用**——抽象不可数泛指不加 the）
+- ❌ V3 句首小写 `while` → `While`（meta）
+- 🚨 V3 `modern society **try**` → `tries`（**W2-17 主谓不一致**——society 是单数集合名词；今天 drill 顺带训练目标踩雷，3 选 1）
+- ⚠️ V2 "heavily depend on" → "rely heavily on" / "heavily rely on"（depend on 略弱）
+- ⚠️ V1 "and **also** exacerbated" → "and exacerbated"（also 略 redundant，删了更紧）
+
+**最佳**：V1（0 硬伤 + Band 7+ collocation 拉满）；V2 frame 最难但 2 错；V3 punchy 但 W2-17 错
+
+**W2-18 训练判定**：与 W2-12 dangling Drill #5 同模式（专项 drill 一次命中）→ 启动毕业加速通道
+
+---
+
+## 2026-05-24 Daily Drill #8 — "政府应当大力投资教育，因为它是社会进步的基础"（专治 W2-17 + W2-19）
+
+- ✅✅✅ **W2-17 主谓代 3/3 全命中**（V1 Governments+should invest+it / V2 The government+should increase+which / V3 the government+will）→ 修复进展 1/3 → 2/3
+- ✅✅✅ **W2-19 冠词 the 6/6 全命中**（in education 不加 the × 3 + the foundation/cornerstone 特指 × 2 + social development 不加 the × 1）→ 修复进展 1/3 → 2/3
+- ✅ 句首大写 3/3 修复（Drill #7 复发 meta 错没再现）
+- ⭐⭐⭐ V2 Active 捞 Phrase 15 `serve as the cornerstone of X` 进入 active 池
+- ⭐⭐ V2 升级 collocation: "substantially increase investment in X" / "which serves as the cornerstone of Y"
+- ⭐ V1 反馈应用: 取了 Drill #7 反馈，把 "heavily depend on" 改为 "invest heavily in" 用法
+- ⭐ V1→V2 self-correction: V1 写错"society development"，V2 自己改为"social development"
+- ❌ V1 `society development` → `social development`（adjective+noun 自然搭配，中式直译陷阱）[W2-9 collocation]
+- 🚨 V3 `**the government** will experience a slowdown in social development` → 主语错位（**W2-5 致命错近亲**）——government 是缺乏 invest 的主体，不是经历减缓的主体；应该是 `a country / society` 经历减缓
+- ❌ V3 句末漏 period
+- **最佳**：V2（0 硬伤 + Band 7+ collocation 双重 + 关系从句 frame）
+
+**W2-17 + W2-19 双毕业候选**：再 1 次 essay 验证可正式毕业 🎓（与 W2-18 同 path）
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）

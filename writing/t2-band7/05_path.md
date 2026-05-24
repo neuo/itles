@@ -294,22 +294,29 @@ A4 一页，6/19 写完，6/20 考场进去前最后翻 5 min：
 >
 > Passive review 仍然可以发生——但在写作时通过 cheat sheet（04_toolkit.md keep open）organic 发生，不需要单独 5 min。
 
-### 5-min Drill 流程
+### 5-min Drill 流程（5/24 简化）
 
 ```
-Step 1 (1 min)  选 1 句话
+Step 1 (1 min)  AI 给 source 中文（1 句）+ trap 提示
                 来源：今天范文 / 你刚写的句 / 新闻一句 / 微博一句 任选
                 
-Step 2 (1 min)  中文写 3 个版本
-                （如果中文都难想 → 先在中文层面 unlock 才能进英文）
+Step 2 (跳过 / 内部处理)  中文版本变化 suzy 自行内部处理
+                  ⚠️ 5/24 简化：原 Step 2"中文 3 个版本"已合并到内部处理
+                  AI 不再单独 ask；suzy 自行在心里完成中文 frame variation
+                  理由：suzy 已能直接从中文 source 跳到英文 frame，中文 3 版本属冗余
                 
-Step 3 (2 min)  英文写 3 个版本
-                用不同的 frame（Object / META / Conditional / ...）
+Step 3 (3 min)  英文写 3 个版本（直接从 source 中文出发）
+                用不同的 frame（Object / META / Conditional / 关系从句 / While...）
                 用不同的 WHO / ACTION / WHAT 词
                 
 Step 4 (1 min)  标"哪个最 Band 7" + 抄进 log/active_phrases.md
                 每周末翻一遍清单复习
 ```
+
+**简化前 vs 简化后**：
+- 原版（5/18-5/23）：source → 中文 3 版本（1 min）→ 英文 3 版本（2 min）→ 标 best
+- 新版（5/24+）：source → 英文 3 版本（3 min）→ 标 best
+- **如果 suzy 觉得中文 unlock 仍有价值**，可以随时回到原版（不强制简化）
 
 ### 为什么这个比"背词"更重要
 

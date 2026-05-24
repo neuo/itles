@@ -240,7 +240,7 @@
 2. 不可数名词（food / research / advice / information）= **单数** → it / its
 3. 想用复数 → 把主语改成可数（foods / studies）
 4. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its，不用 they / have / their
-**修复进展**：1 / 3（5/24 Day 9 v2：**0 次踩** ✅ —— "Amazon, which **has** built" + "more **consumers**" + "**cafes**" 全部修对；待再 2 次验证毕业）
+**修复进展**：2 / 3（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #8：**3/3 命中** ✅✅✅ —— Governments/the government 单复数 + it 回指明确；待再 1 次 essay 验证可毕业）
 
 ### W2-18 — 平行结构错（and 两边动词形态不一致）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Conclusion）
@@ -252,7 +252,7 @@
 **修法**：每个 `and` 两边问 "动词形态一致吗"
 - has X and has Y（完成时平行）→ has put and **has** caused（or 省略后 has X and Y，Y = past participle）
 - X and Y（一般时平行）→ puts pressure and **causes** closures
-**修复进展**：1 / 3（5/24 Day 9 v2：**0 次踩** ✅ —— "has put... and **caused** some of them to close down" 完美修对；待再 2 次验证毕业）
+**修复进展**：2 / 3（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #7：**2/2 命中** ✅✅✅ —— V1 完成时平行 + V2 not only X but also Y 嵌入完美；待再 1 次 essay 验证可毕业）
 
 ### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
@@ -269,7 +269,7 @@
    - 多种 / 一些 → many / several / some
    - 各自的 → their / its
 3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
-**修复进展**：1 / 3（5/24 Day 9 v2：**3 处全修对** ✅ —— "the convenient delivery service" → "their"；"the in-store services" → "their"；"the shopping malls" → "many"；待再 2 次验证毕业）
+**修复进展**：2 / 3（5/24 Day 9 v2：**3 处全修对** ✅；5/24 Drill #8：**6/6 命中** ✅✅✅ —— in education (no the) + the foundation/cornerstone (specific) + social development (no the) 全部正确；待再 1 次 essay 验证可毕业）
 
 ---
 
