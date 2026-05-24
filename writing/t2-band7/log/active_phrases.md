@@ -41,12 +41,13 @@
 
 ### 2026-05-23 Daily Drill #6（Active 捞 ⭐）
 
-#### Phrase 13: `pick up (bad/unhealthy/good) X habits`
+#### Phrase 13: `pick up (bad/unhealthy/good/new) X habits`
 - 原句 context：Drill #6 V2，suzy 自己写出 `cause them to **pick up** some unhealthy eating habits`
 - 为什么 Band 7：`pick up + habits/accent/skills/phrases` 是地道 phrasal verb collocation，比 "form/develop habits" 更生活化也更地道
 - 可迁移：pick up habits / pick up an accent / pick up new skills / pick up bad habits from peers
 - **Active 捞**——suzy V2 自己写出来，无需纠错。预测 D+复检通过率高
-- 复检：D+1 (5/24) [ ] / D+3 (5/26) [ ] / D+7 (5/30) [ ] / D+14 (6/6) [ ] / D+30 (6/22) [ ] 🎓
+- 复检：**D+1 (5/24) ✅✅✅** 用进 Day 8 v1 Conclusion "modern consumers have **picked up** new shopping habits" —— D+1 完美 active 上线 🎉 / D+3 (5/26) [ ] / D+7 (5/30) [ ] / D+14 (6/6) [ ] / D+30 (6/22) [ ] 🎓
+- **验证 Active 捞假设**：Active 捞 Phrase 13 D+1 直接在 essay 自然冒出，对比 Passive 捞 Phrase 11 D+3 漏用后才救回——再次证明 **Active 捞 > Passive 捞**
 
 ---
 
@@ -82,7 +83,7 @@
 - 我的句：`Digital tools allow people to break physical barriers, enabling them to exchange information anytime and anywhere.`
 - 为什么 Band 7：`break + barriers/limits` 是地道 collocation，比 "remove obstacles" 更自然
 - 可迁移：任何"打破 X 限制"的场景（geographical / cultural / social / time）
-- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / **D+5 (5/24) ✅** 用进 Day 8 v1 Body 1 E1（跨题 Tech→Retail）/ D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
 
 #### Phrase 7: `lower the threshold/barriers for X`
 - 原句 context：Body 2 E
@@ -131,10 +132,11 @@
 
 ### 2026-05-17 仿写 Example 01 Body 1（首次捕获）
 
-#### Phrase 1: `may struggle to find stable work`
+#### Phrase 1: `may struggle to find stable work` / `struggle to do X` / `find X hard to do`
 - 原句 context：替"hard to get a stable job"（L1 直译）
 - 为什么 Band 7：`X may struggle to do Y` 是表"X 难做 Y"的 Band 7 标准句型，避免中式 `X is difficult to do Y`
-- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 1 E（"may struggle to find stable jobs" — work→jobs 变体）/ D+3 (5/20) [ ] / D+7 (5/24) [ ] / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+- 复检：**D+1 (5/18) ✅** 已用进 v2 Body 1 E（"may struggle to find stable jobs"）/ D+3 (5/20) [ ] / **D+7 (5/24) ✅✅ 用 2 次**：Body 1 L "physical shops find hard to match" (variant) + Body 2 E1 "physical shops struggle to cover their fixed costs" / D+14 (5/31) [ ] / D+30 (6/16) [ ] 🎓
+- **跨题成功验证 🎉**：从 Education/Jobs 题（5/17）→ Retail 题（5/24）跨过去——语义簇接近（jobs / business / shops）跨题可行。推翻 5/20 那次"跨题率低"判断的范围（仅"Tech 题"跨远了，"商业语义簇内"OK）
 
 #### Phrase 2: `become increasingly competitive`
 - 原句 context：替"more and more competitive"
@@ -164,7 +166,9 @@
 | 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
-| 13 pick up X habits | 5/23 | — (D+1=5/24) | — (D+3=5/26) | Drill #6 V2 active 捞 |
+| 13 pick up X habits | 5/23 | ✅ (5/24) | — (5/26) | **Day 8 v1 Conclusion D+1 完美上线 🎉** |
+| 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) ✅✅** Day 8 v1 跨题用 2 次（Education→Retail 通过）|
+| 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) ✅** Day 8 v1 Body 1 E1（Tech→Retail）|
 
 **关键发现**：
 - **同题二刷（v2）的 phrase D+复检率高**——Phrase 4/6/7/8/9 都在 Day 5 v2 用上（因为同题 Example 02，phrase 都是从这篇捞的）

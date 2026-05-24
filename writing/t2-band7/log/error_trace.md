@@ -302,4 +302,49 @@ Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着�
 
 ---
 
+## 2026-05-24 Day 8 v1 — Example 04 网购 C/E（Step 1.5 中文骨架首次执行）
+
+### 流程亮点
+- ⭐⭐⭐ Step 1.5 中文骨架首次执行 → C/E vs P/S 认知混淆防住（Active Recall 暴露的漏洞 force 想清楚）
+- ⭐⭐⭐ Body 2 mixed effects（E1 negative + E2 positive 转型）= 范文标杆做法
+- ⭐⭐⭐ 3 个 forced phrase 全用上（6 / 1 / 13），Phrase 13 D+1 active 上线 🎉
+- ⭐⭐ Phrase 1 跨题成功（Jobs→Retail 语义簇接近）
+- ⭐ 9+ Band 7 collocation（transforming the way / competitive pricing / lower running costs / irresistible / dramatic decline / threatens the survival / reinvent themselves / evolve / pick up habits）
+
+### Body 1
+- `In terms of **convenient**` → `convenience`（介词后接名词，W2-6 词义/词性错）
+- `**browser** thousands` → `browse`（noun vs verb，W2-1 拼写）
+- `Amazon, which **have** built` → `has built`（**公司名单数**，W2-17 主谓代一致）
+- `cheap goods` → `low-priced goods` / `affordable goods`（升级，cheap 略口语 LR）
+
+### Body 2
+- `most **is** negative` → `most **of which are** negative` 或 `mostly negative`（GRA 独立错）
+- `more **consumer** prefer` → `consumers`（W2-2 单复数：more + 复数）
+- EX1 句末漏 period（GRA 标点）
+- `shopping **on screens**` → `shopping online`（collocation 偏）
+- `the in-store services` → `**their** in-store services`（**W2-19 🆕 冠词 the 误用**：泛指）
+- `**cafe**` → `cafés` / `cafes`（W2-2 列举复数一致）
+- `**the** shopping malls in China` → `**many** shopping malls`（**W2-19 🆕 冠词 the 误用**：泛指）
+- `experience-led **patterns**` → `formats` / `models`（范文用 formats）
+
+### Conclusion
+- `**immerse** pressure` → `**immense** pressure`（W2-1 拼写 + 词义混淆 immerse=沉浸/immense=巨大）
+- `has put... **and cause** them to close` → `**and caused**`（**W2-18 🆕 平行结构错**：has put + has caused 平行，cause 没变形）
+
+### Phrase 表现
+- ✅⭐ Phrase 6 break geographic barriers — Body 1 E1 完美
+- ✅⭐⭐ Phrase 1 struggle to — 跨题 + 用 2 次（Body 1 L variant + Body 2 E1 原型）
+- ✅⭐⭐⭐ Phrase 13 pick up X habits — Conclusion D+1 active 上线
+- ❌ Phrase 7 lower the threshold — 没用（与 6 略 redundant，省略合理）
+
+### W2-12 dangling progress
+- 全篇 0 次踩 ✅ —— 修复进展 3/3 🎓 接近毕业
+
+### v2 重点（3 个 gap）
+1. W2-17 主谓代 + W2-2 单复数（3 处）
+2. W2-18 🆕 平行结构（and 两边一致）
+3. W2-19 🆕 冠词 the（特指/泛指）
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）

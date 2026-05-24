@@ -33,6 +33,11 @@
 
 **每天投入**：90 min（额外 5 min 微复习 §4.4 升级词，不算 90 内）。
 
+**关于限时**（5/23 修订）：
+- **W1-W3**（5/18-6/7）= **建议预算不强制**——日历表里的"70 min / 80 min"是 budget，不卡时停笔。重质量、防新错、巩固骨架是优先级
+- **W4+**（6/8 起）cold production = **真正严格 40 min 限时**——模拟考场，到点必须停笔（无论写完没写完）
+- 中间过渡：W3 周（6/1-6/7）做骨架填充时可以"软计时"（心里目标，不停笔），为 W4 做准备
+
 ---
 
 ## 🌟 每日开工固定流程（5/21 固化——写任何 essay 之前必走）
@@ -71,7 +76,7 @@ Step 0.3 — 题型骨架确认（2 min）
 
 每个范文都按这个 2 天循环走（**前置**：先走上面的"每日开工固定流程"）：
 
-### Day A — v1（第 1 次仿写，60-75 min）
+### Day A — v1（第 1 次仿写，~65-80 min 建议预算，不强制限时）
 
 ```
 Step 1 (10 min)  打开 examples/0N_*.md
@@ -80,10 +85,23 @@ Step 1 (10 min)  打开 examples/0N_*.md
                  目标：拿到 4 段骨架 + 看到 [T][E][Ex][L] 位置
                  ❌ 不要背范文文字
 
-Step 2 (30 min)  自己写同题（限时）
+Step 1.5 🆕 (5 min)  **中文骨架拆解**（仅"新题型 v1"或 Active Recall 暴露
+                     题型混淆时用——5/23 Day 8 因 C/E vs P/S 混淆而引入）
+                 写 4 段中文骨架（每段 1-2 行）：
+                   Intro:      改写题目 + preview 题型双线
+                   Body 1:     point 1 + point 2（如 reason 1 + 2）
+                   Body 2:     point 1 + point 2（如 effect 1 + 2）
+                   Conclusion: 重述 + 整体判断
+                 ❌ 只骨架不展开细节（防 v1 session 5/17 takeaway
+                    "Ex 中文详细 ≠ 英文好"）
+                 ✅ 一旦题型骨架熟练（v2 之后），Step 1.5 自动跳过
+
+Step 2 (~25-30 min 建议预算，不强制停笔)  自己写同题
+                 对照 Step 1.5 中文骨架
                  工具集 04_toolkit.md keep open 当 cheat sheet
                  写 250+ 词
                  写完不要回看范文先
+                 ⚠️ W1-W3 不强制限时——重质量；W4+ cold production 才严格 40 min
 
 Step 3 (20-30 min)  对比 + 找 3 个最大 gap
                     对照范文的 "4 维度评分检查" 14 项清单
@@ -92,7 +110,12 @@ Step 3 (20-30 min)  对比 + 找 3 个最大 gap
                     例如：gap = "Body 2 没 L" / "立场摇摆" / "用了 a lot of"
 ```
 
-### Day B — v2（针对 3 个 gap 重写同题，70-80 min）
+**Step 1.5 触发条件**（不是每次 v1 都做）：
+1. **新题型首次仿写**（DBV / A/D / P/S / C/S / C/E / 2-Pt 各做 1 次足够）
+2. **Active Recall 暴露题型混淆**（如 5/23 Day 8 把 C/E 当成 P/S）
+3. 一旦该题型 v2 已写过，回归 Step 1 → Step 2 常态流程
+
+### Day B — v2（针对 3 个 gap 重写同题，~70-80 min 建议预算，不强制限时）
 
 ```
 Step 1 (15-20 min)  针对 3 个 gap 翻 04_toolkit.md 对应章节
@@ -101,7 +124,7 @@ Step 1 (15-20 min)  针对 3 个 gap 翻 04_toolkit.md 对应章节
                     Gap "用了 a lot of" → 翻 04_toolkit.md §4 升级词
                     ❌ 不要全读，只读对应 gap
 
-Step 2 (30 min)  同题再写一遍（v2）
+Step 2 (~30 min 建议预算)  同题再写一遍（v2）
                  刻意修 3 个 gap
                  工具集仍 keep open
                  写 250-285 词

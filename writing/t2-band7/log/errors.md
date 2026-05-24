@@ -138,7 +138,8 @@
 **修法**：写"X-ing, 主句"或"Done, 主句"结构时，问："X-ing 这个动作，是主句主语在做吗？且它做得了吗？"
 - ✅ Drill #5（5/21）专项练习：3/3 全避开悬垂——1 次 drill 掌握
 - ✅ 5/23 Day 7 v2 Conclusion "By combining... societies can give" —— logical subject 正确 ✅
-**修复进展**：2 / 3（Drill #5 + Day 7 v2 已验证 2 次，再 1 次仿写无错可毕业 🎓）
+- ✅ 5/24 Day 8 v1 全篇 0 次踩 ✅✅✅
+**修复进展**：**3 / 3 🎓 可毕业**（Drill #5 + Day 7 v2 + Day 8 v1 累计 3 次无错；Day 9 v2 若再 0 次正式标 🎓 进毕业区）
 
 ### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
 **首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
@@ -251,6 +252,36 @@
 1. 写完每个 it/them/its/their 问："它指代哪个名词？那个名词单数还是复数？"
 2. 不可数名词（food / research / advice / information）= **单数** → it / its
 3. 想用复数 → 把主语改成可数（foods / studies）
+4. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its，不用 they / have / their
+**修复进展**：0 / 3（5/24 Day 8 v1 又踩 "Amazon, which **have** built" → 单数公司用 has）
+
+### W2-18 — 平行结构错（and 两边动词形态不一致）🆕
+**首次出现**：2026-05-24（Day 8 v1 Example 04 Conclusion）
+**出现次数**：1
+**示例错句**：
+- `this has undoubtedly **put** ... **and cause** them to close` → `... has put ... and **caused** them to close`（has put + has caused 要平行，cause 没变形）
+**类别**：GRA（平行结构）
+**状态**：🚨 重点（与 W2-15 not...but 平行少 by 同源——**平行结构是新瓶颈层**）
+**修法**：每个 `and` 两边问 "动词形态一致吗"
+- has X and has Y（完成时平行）→ has put and **has** caused（or 省略后 has X and Y，Y = past participle）
+- X and Y（一般时平行）→ puts pressure and **causes** closures
+**修复进展**：0 / 3
+
+### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
+**首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
+**出现次数**：2
+**示例错句**：
+- `upgrading **the** in-store services`（泛指各家店的服务，不是特指唯一）→ `upgrading **their** in-store services`
+- `**the** shopping malls in China have moved...`（the 暗示特指中国所有商场）→ `**many** shopping malls in China have moved...`
+**类别**：GRA（基础冠词——属 Band 5.5-6 层错）
+**状态**：🚨 重点（新错误模式，5/24 Day 8 v1 集中暴露）
+**修法**：写 "the + 名词" 时问 "**特指还是泛指**"
+1. **特指 → 用 the**：前文出现过 / 双方共知 / 世界唯一（the sun, the Internet）/ 序数词 superlatif（the first, the best）/ 定语从句限定唯一（the man who...）
+2. **泛指 → 不加 the / 改其他限定词**：
+   - 一般概念 → 不加 the（"online shopping is..."）
+   - 多种 / 一些 → many / several / some
+   - 各自的 → their / its
+3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
 **修复进展**：0 / 3
 
 ---
@@ -262,6 +293,7 @@
 | **W1 初期**（5/17-18）| 拼写 + 单复数 + 让步段策略 | W2-1, W2-2, W2-10 | 倒着读 + 名词扫一遍 + 让步加限定词 |
 | **W1 中期**（5/19-20）| Collocation + comma splice + reduced relative | W2-9, W2-11, W2-3 | 查 cheat sheet + 每 comma 问 |
 | **W2 初期**（5/21-23）| Dangling + 不可数 + 主谓代一致 + lead to do | W2-12, W2-13~17 | logical subject 检查 + 不可数清单 + 代词指代追踪 |
+| **W2 中期**（5/24）| 平行结构 + 冠词 + 主谓代再次踩 | W2-18, W2-19, W2-17 再踩 | and 两边动词一致 + the 特指/泛指判断 + 公司名单数 |
 
 **核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
 
@@ -270,6 +302,12 @@
 2. **W2-17 主谓代不一致** —— systematic，重点防
 3. **W2-12 dangling** —— 再 1 次无错可毕业 🎓
 4. **W2-1 拼写** —— 再 2 次无错可毕业 🎓
+
+→ Day 9+ 优先（5/24 Day 8 v1 后更新）：
+1. **W2-17 主谓代一致 + W2-2 单复数** 一组（Day 8 v1 再踩 3 处）—— 仍是 systematic
+2. **W2-18 🆕 平行 + W2-19 🆕 冠词** —— 新瓶颈层
+3. **W2-12 dangling** —— **修复进展 3/3 🎓 可毕业**（Day 9 v2 若再 0 次正式毕业）
+4. **W2-1 拼写** —— Day 7 v2 归零后 Day 8 v1 又踩 2 处（browser/immerse）—— v1 一刷自检不严密，v2 必倒读
 
 ---
 
