@@ -64,13 +64,14 @@
 - 原句 context：Drill #7 V1，suzy 自己 active 写出 `Modern social media has deepened interpersonal connections and also **exacerbated the sense of isolation** among certain groups`
 - 为什么 Band 7：`exacerbate / intensify / deepen + abstract noun` 是高频地道搭配，比 "make X worse" 升 1 档；学术 register 友好但不到 Band 8
 - 可迁移（跨话题广）：
-    - Health: exacerbate **health problems** / intensify **the spread of disease**
+    - Health: exacerbate **health problems** / intensify **the spread of disease** / exacerbate **anxiety**
     - Society: deepen **divisions** / intensify **inequality** / exacerbate **the gap between rich and poor**
     - Politics: aggravate **tensions** / deepen **distrust**
     - Economy: intensify **competition** / exacerbate **unemployment**
     - Environment: aggravate **climate change** / intensify **resource scarcity**
 - **Active 捞** ⭐⭐⭐——suzy V1 自己写出来，无需纠错。参考 Phrase 12 / 13 Active 捞模式（D+2 / D+1 自然上线），预测 D+复检通过率高
-- 复检：D+1 (5/25) [ ] / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+- 复检：**D+0 (5/24) ✅⭐⭐⭐⭐ Drill #9 V1 同日上线** "can exacerbate anxiety among young people"——史上最快 / D+1 (5/25) [ ] / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+- **D+0 上线意义**：推翻"Drill phrase 需要 incubation 时间"的判断——Active 捞 phrase 同日可上线，特别当话题语义簇接近时（Drill #7 isolation → Drill #9 anxiety = 同 mental health 簇）
 
 ---
 
@@ -203,7 +204,7 @@
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
 | 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | **Day 8 v1 D+1 上线 + Day 9 v2 D+2 巩固 🎉** |
-| 14 exacerbate the sense of X | 5/24 | — (D+1=5/25) | — (D+3=5/27) | Drill #7 V1 Active 捞 ⭐⭐⭐——跨话题广（health/society/politics/economy/environment）|
+| 14 exacerbate the sense of X | 5/24 | — (D+1=5/25) | — (D+3=5/27) | Drill #7 V1 Active 捞 + **Drill #9 V1 D+0 同日上线 ⭐⭐⭐⭐** "can exacerbate anxiety among young people"——史上最快上线 |
 | 15 serve as the cornerstone of X | 5/24 | — (D+1=5/25) | — (D+3=5/27) | Drill #8 V2 Active 捞 ⭐⭐⭐——跨话题广（democracy/economy/education/society/family）|
 | 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) Day 8 v1 ✅✅** + **D+8 (5/24) Day 9 v2 ✅✅ 沿用 2 次**——跨题完全稳定 |
 | 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) Day 8 v1 ✅** + **D+6 (5/24) Day 9 v2 ✅ 沿用**——跨题稳定 |

@@ -433,4 +433,28 @@ Intro 33% → Body 1 20% → Body 2 50% → Conclusion ~40%。Body 2 起倒着�
 
 ---
 
+## 2026-05-24 Daily Drill #9 — "研究表明，过度使用社交媒体会导致年轻人产生焦虑情绪"（专治 W2-14 不可数 + W2-13 lead/cause sb to do）
+
+- ⭐⭐⭐⭐ **Phrase 14 D+0 同日 active 上线**！V1 自然写出 `can exacerbate anxiety among young people` —— **推翻 "Drill phrase 需要 incubation" 的判断**，话题语义簇接近时（health/anxiety）Active 捞 phrase **同日即可上线**
+- ✅✅✅ **W2-14 不可数 -s 3/3 命中**：V1/V2/V3 都正确使用 research / studies / anxiety / social media（uncountable + 适当的复数 alternative）→ 修复进展 0/3 → 1/3
+- ✅⭐⭐ **W2-13 lead to sb doing 命中**：V2 `lead to teenagers having feelings of anxiety`（gerund 结构）—— 与 Drill #6 V1 `cause them to pick up` 共同覆盖 W2-13 **双结构**（lead sb to do + lead to sb doing）→ 修复进展 0/3 → 1/3
+- ⭐ V3 with-absolute frame `With young people overusing social media, feelings of anxiety are becoming more common` —— 沿用 W2-12 修法 #3
+- 关于 V1 "the heavy use" 疑问：**不加 the 更地道**（"heavy use of X" 泛指现象不加 the，类比 "smoking is harmful"）；加 the 不算错但偏弱
+- ❌🚨 V2 `**teenages**` → `**teenagers**`（**W2-1 拼写复发** —— teen+age+**r** 漏 r）
+- ❌🚨 V3 `**oversuing**` → `**overusing**`（**W2-1 拼写复发** —— overuse+ing = overusing）
+- **W2-1 拼写警告**：Drill #9 同日复发 2 处，与 Day 8 v1 (browser/immerse) 相同。Drill 阶段没倒读，注意力 meta 错。Day 10 essay 必须倒读。
+
+**最佳**：V1（Phrase 14 D+0 上线 + 0 硬伤，the 可选）
+
+**Phrase 14 同日上线意义**：
+| Phrase | 捞日 → 上线日 | 间隔 |
+|--------|------------|------|
+| 12 impose a tax on | 5/21 → 5/23 | D+2 |
+| 13 pick up X habits | 5/23 → 5/24 | D+1 |
+| **14 exacerbate the sense of X** | **5/24 → 5/24** | **D+0 ⭐⭐⭐⭐** |
+
+Active 捞 phrase 上线速度持续加快——可能因为话题相关性 + active production trace 更深。
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）

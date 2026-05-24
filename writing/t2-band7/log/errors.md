@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️（browser/immerse），表明 v1 一刷自检不严密；5/24 Day 9 v2：**0 拼写错** ✅ —— 倒着读 + 高频错词卡完全起效；待再 1 次无错可毕业）
+**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️（browser/immerse）；5/24 Day 9 v2：**0 拼写错** ✅；5/24 Drill #9：**复发 2 处** ⚠️（teenages/oversuing）—— Drill 阶段没倒读，注意力 meta 错。当 essay 自检流程在位时 0 错，drill 阶段没自检步骤时复发。**下次 essay 必须倒读**）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -193,7 +193,11 @@
 **类别**：GRA
 **状态**：活跃
 **修法**：lead / encourage / cause / allow / enable + sb + **to do**（不定式），不接 doing
-**修复进展**：0 / 3
+**双结构掌握**：
+- `lead sb **to do** sth` (lead 及物) → "lead them to have habits"
+- `lead **to** sb doing sth` (lead 不及物 + to + gerund) → "lead to them having habits"
+- ❌ 混搭 `lead sb to doing` / `lead them to having`
+**修复进展**：1 / 3（5/24 Drill #9 V2：`lead to teenagers **having** feelings of anxiety` 完美用对 gerund 结构 ✅；Drill #6 V1 已用对 `cause them **to pick up**` 主动结构；待再 2 次 essay 验证毕业）
 
 ### W2-14 — 不可数名词加 -s 🆕🚨 重点
 **首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 Ex）
@@ -205,7 +209,7 @@
 **修法**：
 1. 写完每个 -s 名词问自己："这个词可数吗？"（research / advice / information / equipment / news / progress / knowledge / furniture / luggage 都是不可数）
 2. 想表达"研究"复数概念 → 用 `studies`（research 的可数对等词）
-**修复进展**：0 / 3
+**修复进展**：1 / 3（5/24 Drill #9：**3/3 命中** ✅✅✅ —— V1 `Research shows`（单数）+ V2 `Studies have shown`（复数 alternative）+ V3 `social media`/`anxiety` 不加 -s；研究 / 焦虑 / 媒体三类不可数全部正确处理；待再 2 次 essay 验证毕业）
 
 ### W2-15 — not...but 平行少 by 🆕
 **首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 L）
