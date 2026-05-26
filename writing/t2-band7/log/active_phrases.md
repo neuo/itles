@@ -54,8 +54,8 @@
     - Education: cornerstone of **personal development** / **academic success**
     - Family/Values: cornerstone of **family life** / **traditional values**
 - **Active 捞** ⭐⭐⭐——suzy V2 自己 active 写出来。同 Phrase 12/13/14 Active 捞模式，预测 D+复检通过率高
-- 复检：D+1 (5/25) [ ] / **D+2 (5/26) ❌ Day 10 v1 适配位漏用** —— Body 2 E2 "family bonds, which serve as the cornerstone of community / a healthy society" 完美适配但 retrieval 失败 / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
-- **D+2 漏用教训**：与 Phrase 11 D+3 漏用类似——Active 捞 phrase 不一定 D+ 立即上线，需要 v2 强制点名 + Pre-retrieval 标记 + 草稿白板必用
+- 复检：D+1 (5/25) [ ] / **D+2 (5/26) ❌→✅ Day 10 v1 漏用 → Day 11 v2 强制点名成功** "which serve as the cornerstone of communities" ⭐⭐⭐ / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+- **D+2 漏用→修复教训**：与 Phrase 11 D+3 救回模式类似——Active 捞 phrase D+ 漏用时**强制点名 + Pre-retrieval 标记**机制有效。证明 Active phrase 复检失败可通过下一篇 essay v2 救回
 
 ---
 
@@ -71,7 +71,7 @@
     - Economy: intensify **competition** / exacerbate **unemployment**
     - Environment: aggravate **climate change** / intensify **resource scarcity**
 - **Active 捞** ⭐⭐⭐——suzy V1 自己写出来，无需纠错。参考 Phrase 12 / 13 Active 捞模式（D+2 / D+1 自然上线），预测 D+复检通过率高
-- 复检：**D+0 (5/24) ✅⭐⭐⭐⭐ Drill #9 V1 同日上线** "can exacerbate anxiety among young people"——史上最快 / **D+1 (5/25) ✅⭐⭐⭐ Drill stage** / **D+2 (5/26) ✅⭐⭐⭐ Day 10 v1 essay 用上** "exacerbates social isolation"——drill→essay 通路打通 / D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
+- 复检：**D+0 (5/24) ✅⭐⭐⭐⭐ Drill #9 V1 同日上线** "can exacerbate anxiety among young people"——史上最快 / **D+1 (5/25) ✅⭐⭐⭐ Drill stage** / **D+2 (5/26) ✅⭐⭐⭐ Day 10 v1 essay 用上** "exacerbates social isolation"——drill→essay 通路打通 / **D+2 (5/26) ✅⭐⭐⭐ Day 11 v2 frame variation** "exacerbating social isolation"（V-ing 状语 frame 升级）/ D+3 (5/27) [ ] / D+7 (5/31) [ ] / D+14 (6/7) [ ] / D+30 (6/23) [ ] 🎓
 - **D+0 上线意义**：推翻"Drill phrase 需要 incubation 时间"的判断——Active 捞 phrase 同日可上线，特别当话题语义簇接近时（Drill #7 isolation → Drill #9 anxiety = 同 mental health 簇）
 - **D+2 essay 上线意义**：从 drill 跨到 essay 也通过——Active 捞 phrase 上线速度可与 Phrase 13 (D+1 上线) 持平
 
@@ -205,9 +205,9 @@
 | 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
-| 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | **Day 8 v1 D+1 上线 + Day 9 v2 D+2 巩固 🎉** |
-| 14 exacerbate the sense of X | 5/24 | ✅ (5/25) | — (5/27) | Drill #7 V1 Active 捞 + Drill #9 D+0 同日上线 + **Day 10 v1 D+2 essay 用上** "exacerbates social isolation" 🎉 跨场景：drill→essay 通路打通 |
-| 15 serve as the cornerstone of X | 5/24 | — (5/25) | — (5/27) | Drill #8 V2 Active 捞——Day 10 v1 适配位（family bonds → cornerstone of community）但**漏用** ❌；v2 必强制点名 |
+| 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | Day 8 v1 D+1 + Day 9 v2 D+2 + **Day 11 v2 D+3 跨题 Conclusion 上线** "have picked up new living habits" 🎉 |
+| 14 exacerbate the sense of X | 5/24 | ✅ (5/25) | ✅ (5/26) | Drill #7 + Drill #9 + Day 10 v1 + **Day 11 v2 D+2 frame variation** "exacerbating social isolation"（V-ing 状语，frame 升级）⭐⭐⭐ |
+| 15 serve as the cornerstone of X | 5/24 | — (5/25) | ✅ (5/26) | Drill #8 V2 Active 捞——Day 10 v1 D+2 漏用 ❌ → **Day 11 v2 D+2 强制点名成功** ✅ "serve as the cornerstone of communities" 🎉 |
 | 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) Day 8 v1 ✅✅** + **D+8 (5/24) Day 9 v2 ✅✅ 沿用 2 次**——跨题完全稳定 |
 | 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) Day 8 v1 ✅** + **D+6 (5/24) Day 9 v2 ✅ 沿用**——跨题稳定 |
 | 4 not only X but also Y (re-check) | 5/18 | ⚠️ (5/19) | — | **D+6 (5/24) ✅⭐⭐⭐ Day 9 v2 跨越式上线**——Drill 启动日捞，需 incubation 才上线 |

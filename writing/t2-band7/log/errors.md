@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️；5/24 Day 9 v2：**0 拼写错** ✅；5/24 Drill #9：**复发 2 处** ⚠️（teenages/oversuing）；5/26 Day 10 v1：**踩 1 处** ⚠️（most → mostly 词义混淆 — 与 Drill #7 "most is" 同源）—— v2 倒读 + 双词拼写专项扫 most/mostly its/it's their/they're）
+**修复进展**：1 / 3（5/23 Day 7 v2：0 拼写错 ✅；5/24 Day 8 v1：踩 2 处 ⚠️；5/24 Day 9 v2：0 拼写错 ✅；5/24 Drill #9：复发 2 处（teenages/oversuing）；5/26 Day 10 v1：踩 1 处（most→mostly）；5/26 Day 11 v2：**复发 5 处** 🚨（model/almost/capital/founded/househoulds）—— 见 W2-20 词义混淆类新错。**修复进展回退**——拼写自检与修 gap 是独立注意力通道，必须每篇都做倒读）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -209,7 +209,7 @@
 **修法**：
 1. 写完每个 -s 名词问自己："这个词可数吗？"（research / advice / information / equipment / news / progress / knowledge / furniture / luggage 都是不可数）
 2. 想表达"研究"复数概念 → 用 `studies`（research 的可数对等词）
-**修复进展**：2 / 3（5/24 Drill #9：**3/3 命中** ✅✅✅；5/26 Day 10 v1：**0 次踩** ✅ —— "health research ... has found"（research uncountable + has 单数）—— Drill #9 transfer 到 essay 成功；待再 1 次 essay 验证可毕业）
+**修复进展**：🎓 **毕业** —— 见底部已毕业区（3 次无错：Drill #9 + Day 10 v1 + Day 11 v2；不可数 research / anxiety / social media / education / progress 等全部正确处理）
 
 ### W2-15 — not...but 平行少 by 🆕
 **首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 L）
@@ -244,7 +244,7 @@
 2. 不可数名词（food / research / advice / information）= **单数** → it / its
 3. 想用复数 → 把主语改成可数（foods / studies）
 4. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its，不用 they / have / their
-**修复进展**：**3 / 3 🎓 候选毕业**（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #8：**3/3 命中** ✅✅✅；5/26 Day 10 v1：**0 次踩** ✅—— "research has found"（research uncountable + has 单数）+ "Japan ... have produced" 注：Japan 后面应该是 has 但作为城市集合 have 也能接受；W2-17 essay 连续 2 次无错 + drill 1 次完美 = 进入毕业边界）
+**修复进展**：🎓 **毕业** —— 见底部已毕业区（4 次无错：Day 9 v2 + Drill #8 + Day 10 v1 + Day 11 v2）
 
 ### W2-18 — 平行结构错（and 两边动词形态不一致）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Conclusion）
@@ -256,7 +256,7 @@
 **修法**：每个 `and` 两边问 "动词形态一致吗"
 - has X and has Y（完成时平行）→ has put and **has** caused（or 省略后 has X and Y，Y = past participle）
 - X and Y（一般时平行）→ puts pressure and **causes** closures
-**修复进展**：**3 / 3 🎓 候选毕业**（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #7：**2/2 命中** ✅✅✅；5/26 Day 10 v1：**2 处完美** ✅✅ —— "allow people **to move** and **establish**"（不定式平行）+ "**leads to** ... **and exacerbates**"（一般时单数平行）；W2-18 essay 连续 2 次无错 = 候选毕业，与 W2-12 同 path）
+**修复进展**：🎓 **毕业** —— 见底部已毕业区（4 次无错：Day 9 v2 + Drill #7 + Day 10 v1 + Day 11 v2；Day 11 v2 "are pursuing and remain" stative verb 例外不算严格踩）
 
 ### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
@@ -273,7 +273,35 @@
    - 多种 / 一些 → many / several / some
    - 各自的 → their / its
 3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
-**修复进展**：2 / 3（5/24 Day 9 v2：**3 处全修对** ✅；5/24 Drill #8：**6/6 命中** ✅✅✅；5/26 Day 10 v1：**踩 2 处 ⚠️** —— "Regarding **economy**" → "the economy" + "puts extra pressure on **environment**" → "the environment"。**两处都是抽象不可数作具体概念时 the 漏**——还没全 internalized。v2 必须再验证 1 次 0 错才能毕业）
+**修复进展**：2 / 3（5/24 Day 9 v2：3 处全修对 ✅；5/24 Drill #8：6/6 命中 ✅；5/26 Day 10 v1：踩 2 处 ⚠️；5/26 Day 11 v2：**Day 10 v1 的 2 处全修对** ✅（economy + environment）+ 1 处 mild "with traditional extended family" 60/40。Day 11 v2 已大幅修复但有 1 处 mild 漏，待再 1 次完美 essay 即可毕业）
+
+### W2-20 — 词形相近词辨义混淆（W2-1 的进化形态）🆕🚨 重点
+**首次浮现**：2026-05-26（Day 11 v2 共 5 处密集）
+**出现次数**：5
+**示例错句**：
+- `**model** careers` → `**modern** careers`（model = 模型 / modern = 现代的）
+- `are **almost** negative` → `are **mostly** negative`（almost = 几乎 / mostly = 大部分）
+- `per **capital**` → `per **capita**`（capital = 资本/首都 / capita = 人均）
+- `**househoulds**` → `**households**`（漏 o，纯拼写）
+- `has **founded**` → `has **found**`（found = 创立过去式 / find→found 找到的过去分词）
+
+**类别**：W2-1 拼写的进化形态（从"漏字母"升级为"词形相近词辨义"）+ W2-6 词义错的近亲
+**状态**：🚨 重点（新瓶颈层，5/26 v2 集中暴露）
+**修法**：
+1. 写复杂词时**慢一拍**自问"这是 modern 还是 model"（同源高频混淆对）
+2. 倒读时**双词专项扫**：mostly/most/almost / find/found / capita/capital / modern/model
+3. 高频混淆词对清单（持续累加）：
+    - mostly / most / almost
+    - find / found（动词 find 还是动词 found）
+    - capita / capital
+    - modern / model
+    - their / there / they're
+    - its / it's
+    - then / than
+    - affect / effect
+4. **拼写自检与修 gap 不能合并** —— 每篇都必须做倒读
+5. **核心洞察**：v1→v2 高度专注修 3 gap 时，拼写检查通道关闭，新拼写错涌现——这两个通道独立，不能用"修 gap"代替"自检"
+**修复进展**：0 / 3
 
 ---
 
@@ -287,6 +315,7 @@
 | **W2 中期**（5/24 v1）| 平行结构 + 冠词 + 主谓代再次踩 | W2-18, W2-19, W2-17 再踩 | and 两边动词一致 + the 特指/泛指判断 + 公司名单数 |
 | **W2 末期**（5/24 v2）| ✨ **全清零** | v2 = 14/14 Band 7.0；W2-12 🎓 毕业 | 三大新错（W2-17/18/19）一次 v2 全修对——layer-by-layer 推进的"对照修复"机制完全起效 |
 | **W3 初期**（5/26 v1）| **LR collocation 瓶颈层显形** | Day 10 v1 ≈ Band 6.5；W2-17/18 候选毕业 + W2-14 推进 2/3 | 新题型暴露：rising of / in pursuit of / produced cities / makes have / 中式直译 + frame mismatch —— **这是从 Band 6.5 → 7.0 的关键战场** |
+| **W3 中期**（5/26 v2）| **🎓 三大错误模式毕业 + W2-20 词形相近词辨义混淆新瓶颈** | Day 11 v2 ≈ Band 6.5-7.0；W2-17 + W2-18 + W2-14 🎓 毕业；累计 4 个 🎓；3/3 Phrase 全上线 | **LR collocation 完全修对 ⭐⭐⭐ 但 W2-1 升级为 W2-20**（model/almost/capital/founded/househoulds 5 处密集）—— 揭示**"修 3 gap"与"拼写自检"是独立注意力通道**，"修复清单"和"自检清单"不能合并执行 |
 
 **核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
 
@@ -318,6 +347,16 @@
 5. **🆕 W2-7 漏 that 复发** —— Day 10 v1 "These demonstrate ... come" 漏 that
 6. **W2-14 不可数 -s** —— Day 10 v1 完美（research has found），推进 1/3 → 2/3
 7. **2-Pt 题型独有 TR 要点** —— Q1/Q2 分离 + Q2 表态 + Conclusion 重申 = Day 10 v1 完美命中 ⭐⭐⭐
+
+→ Day 12+ 优先（5/26 Day 11 v2 = 5 题型 v1+v2 双闭环完成 后更新）：
+1. **🎓 一日 3 个毕业**：W2-17 + W2-18 + W2-14 全部毕业 → 累计 4 个 🎓（含 W2-12）
+2. **🚨 W2-20 🆕 词形相近词辨义混淆**（W2-1 进化形态）—— Day 11 v2 集中暴露 5 处：model/almost/capital/founded/househoulds —— **新瓶颈层**，需要"双词专项扫"建立机制
+3. **W2-1 拼写** 修复进展回退（1/3）—— v1→v2 高度专注修 gap 时拼写自检完全跳过，必须每篇都做倒读
+4. **W2-19 冠词** 修复进展 2/3 —— Day 11 v2 修对 Day 10 v1 的 2 处，但 "with traditional extended family" mild 漏，待再 1 次完美可毕业
+5. **W2-16 复数前加 a 复发** —— Day 11 v2 "a weaker family bonds"
+6. **LR collocation 瓶颈层胜利** —— Day 11 v2 修对了 Day 10 v1 的 5+ 处 LR 错 ⭐⭐⭐
+7. **Phrase 13/14/15 全部 active 上线** —— 历史新高 3/3
+8. **新阶段建议**：5/27 休息 → 5/28 起进入"错误集中复习周"（错误巩固 + drill + 倒读训练），6/3 起 cold production 阶段
 
 ---
 
@@ -362,6 +401,72 @@
 ---
 
 ## 已毕业错误 🎓
+
+### W2-17 — 主谓代一致 🎓 毕业于 2026-05-26
+
+**首次出现**：2026-05-21（Day 6 v1 隐含）→ 系统性识别 2026-05-24（Day 8 v1 集中暴露）
+**出现次数**：3 处（Day 8 v1: Amazon which have / more consumer / cafe = 3 处）
+
+**正确做法**：
+1. 写完每个 it/them/its/their 问 "它指代哪个名词？那个名词单数还是复数？"
+2. 不可数名词 = **单数** → it / its
+3. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its
+4. 集合名词 = **单数**（society, family, team, company, government）→ tries / wants / has
+
+**毕业 path**（5 天 4 次无错）：
+| 日期 | 事件 | 状态 |
+|------|------|------|
+| 5/24 | Day 8 v1 集中暴露 3 处 | ❌ |
+| 5/24 | Day 9 v2 v1→v2 全修对 | ✅ 0 次 |
+| 5/24 | Drill #8 专项练习 | ✅ 3/3 命中 |
+| 5/26 | Day 10 v1 | ✅ 0 次（research has found + Japan 单数）|
+| 5/26 | Day 11 v2 | ✅ 0 次 |
+
+---
+
+### W2-18 — 并列谓语一致性 🎓 毕业于 2026-05-26
+
+**首次出现**：2026-05-24（Day 8 v1 Conclusion `has put... and cause`）
+**出现次数**：1
+
+**正确做法**：每个 `and` 两边问 "动词形态一致吗"
+- has X and has Y（完成时平行）→ has put and **has** caused
+- X and Y（一般时平行）→ puts pressure and **causes** closures
+- to do X and to do Y（不定式平行）→ to move out and **to** establish
+- doing X and doing Y（V-ing 平行）→ delaying marriage and remaining single
+
+**例外**：stative verb（remain / seem / be 等状态动词）不用进行时，与进行时动作动词混搭可接受。
+
+**毕业 path**（5 天 4 次无错）：
+| 日期 | 事件 | 状态 |
+|------|------|------|
+| 5/24 | Day 8 v1 Conclusion 首次踩 | ❌ |
+| 5/24 | Day 9 v2 修对 | ✅ 0 次 |
+| 5/24 | Drill #7 专项练习 | ✅ 2/2 命中 |
+| 5/26 | Day 10 v1 | ✅ 2 处完美（to move+establish / leads to+exacerbates）|
+| 5/26 | Day 11 v2 | ✅（"are pursuing and remain" stative verb 例外不算严格踩）|
+
+---
+
+### W2-14 — 不可数名词加 -s 🎓 毕业于 2026-05-26
+
+**首次出现**：2026-05-23（Day 7 v2 `researches show`）
+**出现次数**：1
+
+**正确做法**：
+1. 写完每个 -s 名词问自己 "这个词可数吗？"
+2. 不可数清单：research / advice / information / equipment / news / progress / knowledge / furniture / luggage / anxiety / social media / education
+3. 想表达"研究"复数概念 → 用 `studies`（research 的可数对等词）
+
+**毕业 path**（3 天 3 次无错）：
+| 日期 | 事件 | 状态 |
+|------|------|------|
+| 5/23 | Day 7 v2 首次踩 researches | ❌ |
+| 5/24 | Drill #9 专项练习 | ✅ 3/3 命中 |
+| 5/26 | Day 10 v1 | ✅ 0 次（research has found）|
+| 5/26 | Day 11 v2 | ✅ 0 次（research has founded ← 词义错而非不可数错；不可数全对）|
+
+---
 
 ### W2-12 — Dangling modifier（悬垂修饰）🎓 毕业于 2026-05-24
 

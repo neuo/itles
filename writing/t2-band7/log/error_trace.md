@@ -524,4 +524,53 @@ W2-18 essay 连续 2 次无错（Day 9 v2 + Day 10 v1）+ Drill #7 2/2 = 3 次�
 
 ---
 
+## 2026-05-26 Day 11 v2 — Example 05 同题二刷（🎉 5 题型 v1+v2 双闭环 + 🎓🎓🎓 一日 3 个毕业）
+
+### 历史里程碑
+- 🎉 **5 题型 v1+v2 双闭环全部完成**（DBV/A/D/P/S/C/E/2-Pt 5 种）—— 9 天完成 path 设定的 5 周训练任务
+- 🎓🎓🎓 **一日 3 个错误模式毕业**：W2-17 主谓代 + W2-18 并列谓语 + W2-14 不可数 -s
+- ⭐⭐⭐ **累计 4 个毕业错误模式**（含 W2-12 dangling 5/24）
+- ⭐⭐⭐ **3/3 Phrase 全 active 上线**（Phrase 13 D+3 + 14 frame variation + 15 强制点名）
+
+### v1 → v2 修复对照（13/13 修对 + 16 个改进点中 13 完美 / 2 误改 / 1 部分）
+- LR collocation 5+ 处 **全部修对** ⭐⭐⭐：rising of→rise of / in pursuit of→pursuing / produced cities→led to cities / makes have→gives / more and more→an increasing number of / late marriage and remaining single→delaying marriage and remaining single
+- W2-19 冠词：Regarding economy→In terms of the economy + on environment→on the environment ✅
+- W2-2 单复数：The main cause is changes→The main causes are changes + community bond→family bonds + higher rate→higher rates + memory issues→memory problems + single-person family→single-person households ✅
+- W2-7 漏 that：These demonstrate ... come→These examples demonstrate **that** ... come ✅⭐⭐⭐
+- W2-13 使役：makes individuals have→gives individuals greater personal freedom ✅⭐⭐⭐
+- TR 内容对齐：pursuit of privacy→pursuit of individual freedom ✅
+
+### 🚨 v2 新引入的 5 处硬伤（W2-1 升级为 W2-20 词形相近词辨义混淆）
+- `**model** careers` → modern（model = 模型 / modern = 现代的）
+- `are **almost** negative` → mostly（almost = 几乎 / mostly = 大部分）
+- `per **capital**` → capita（拉丁词）
+- `**househoulds**` → households（漏 o）
+- `has **founded**` → found（found = 创立 / find→found = 找到）
+
+→ **W2-20 新瓶颈层**：W2-1 拼写的进化形态。揭示**"修 3 gap"与"拼写自检"是独立注意力通道**
+
+### v2 其他错（3 处）
+- "with traditional extended family" → "with a traditional extended family" (W2-19 mild 60/40)
+- "a weaker family bonds" → "weaker family bonds" (**W2-16 复数前加 a 复发**)
+- "reduce daily conflict" → "conflicts" (W2-2 mild)
+- "resources use" → "resource use" (W2-2 mild)
+
+### Phrase 战果
+- ⭐⭐⭐ Phrase 13 D+3 Conclusion 上线 "have picked up new living habits"
+- ⭐⭐⭐ Phrase 14 D+2 frame variation "exacerbating" (V-ing 状语，比 v1 "exacerbates" 升级)
+- ⭐⭐⭐ Phrase 15 D+2 强制点名成功 "serve as the cornerstone of communities" (修复 Day 10 v1 漏用)
+
+### 14 项打勾
+v1 11/14 → v2 ~12/14 ≈ Band 6.5-7.0（略升，但未达 Day 9 v2 14/14）
+
+### 核心洞察 🧠
+**修 3 gap 与拼写自检是独立注意力通道**：v2 修对 13/13 gap，但同时引入 5 处新拼写错。这两个通道不能合并执行。W4 cold production 阶段，5 min 自检（含倒读）必须每篇都做。
+
+### 阶段建议
+- 5/27 周三 **完整休息**
+- 5/28-6/2 **错误集中复习周**：W2-1+W2-20 双词混淆扫盲 + W2-19/W2-2 维护性 drill + Phrase 1-15 D+复检 + 倒读训练
+- 6/3 起进入骨架填充或 cold production 阶段
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）
