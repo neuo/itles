@@ -457,4 +457,71 @@ Active 捞 phrase 上线速度持续加快——可能因为话题相关性 + ac
 
 ---
 
+## 2026-05-26 Day 10 v1 — Example 05 Society 2-Pt 独居（🎉 5 题型 v1 全部完成 + Band 6.5 起步）
+
+### 流程亮点
+- 🎉 **5 题型 v1 全部完成**：DBV/A/D/P/S/C/E/2-Pt 闭环
+- ⭐⭐⭐ **2-Pt 题型 3 个独有 TR 要点完美**：Q1 only Why / Q2 only P-N + 表态 / Conclusion 重申立场
+- ⭐⭐⭐ **Step 1.5 中文骨架价值再验证**（新题型 v1 防内容错位）
+- ⭐⭐⭐ **2-Pt opener "There are two questions to consider about X: A and B"** 工具集 §3.2 推荐版完美用上
+- ⭐⭐⭐ **Phrase 14 D+2 essay 上线**（Drill→Drill→essay 通路打通）
+
+### 0 次踩的活跃错（保持记录）
+- ✅ W2-12 dangling: 0 次（毕业后维持）
+- ✅✅ W2-14 不可数 -s: 0 次（"research has found"——Drill #9 transfer 成功）→ 推进 1/3 → 2/3
+- ✅ W2-17 主谓代: 0 次（"research has found" + Japan 单数）→ **推进 2/3 → 3/3 候选毕业**
+- ✅✅ W2-18 并列谓语: **2 处完美**（to move + to establish 不定式平行；leads to + and exacerbates 一般时平行）→ **推进 2/3 → 3/3 候选毕业 🎓**（与 W2-12 同 path）
+
+### Body 1 errors
+- "the **rising** of solo living" → "the **rise** of"（noun vs verb-ing 误用）[W2-9 LR]
+- "Regarding **economy**" → "Regarding **the economy**"（economy 作具体概念加 the）[**W2-19 冠词 复发**]
+- "**more and more** people" → "an increasing number of people"（极简词 W2-9 警告过）
+- "are **in pursuit of** independence" → "**pursue** independence"（紧凑度升级，名词化偏冗长）[LR upgrade]
+- "**late marriage and remaining single**" frame mismatch → "delaying marriage and remaining single"（两 gerund 平行）[LR + W2-18 类近亲]
+- "**have produced cities**" → "have led to cities" / "have created communities"（produce + cities 语义偏弱）[LR]
+- "half **of the households**" → "half **of households**"（the 不需要泛指）[W2-19 60/40]
+- ⚠️ TR 微问题：L "pursuit of **privacy**" 但 E1/E2 没提 privacy（应改 "pursuit of independence" 对齐 E2）
+
+### Body 2 errors + 亮点
+- ⭐⭐⭐ "**leads to** weaker community bond **and exacerbates** social isolation" — W2-18 完美 + Phrase 14 用上 🎉
+- ⭐⭐⭐ "health **research** ... **has found**" — W2-14 + W2-17 完美
+- "puts extra pressure on **environment**" → "**the environment**"（**W2-19 冠词 复发**）
+- "single-person **family**" → "single-person **households**"（统计单位更地道）[LR upgrade]
+- "a weaker community **bond**" → "weaker community **bonds**"（复数泛指）[**W2-2 单复数**]
+- "higher **rate** of depression" → "higher **rates** of"（rate 可数 + of-phrase 时复数）[**W2-2 单复数**]
+- "memory **issues**" → "memory **problems**" / "**cognitive decline**"（issues 偏口语）[LR upgrade]
+- "These demonstrate ... **come**" → "demonstrate **that** ... come"（**W2-7 漏 that 复发**——早期错误模式）
+
+### Conclusion errors
+- ⭐ "fueled by the combination of..." — Band 7+ collocation
+- "**makes individuals have**" → "gives individuals more freedom" / "allows individuals to enjoy"（make sb have 不地道；W2-13 类近亲使役结构）
+- "are **most** negative" → "are **mostly** negative"（**W2-1 拼写词义混淆 复发**——与 Drill #7 V1 "most is" 同源）
+
+### W2 错误模式归类（Day 10 v1 5 处硬伤）
+| 模式 | 数 | 备注 |
+|------|---|------|
+| LR collocation | 5+ | rising of / in pursuit of / produced cities / makes have / more and more / single-person family / memory issues / late marriage and... |
+| W2-19 冠词 the | 2 | Regarding economy / on environment（抽象具体化加 the） |
+| W2-2 单复数 | 2 | community bond → bonds / higher rate → rates |
+| W2-1 拼写 | 1 | most → mostly |
+| W2-7 漏 that | 1 | These demonstrate **that** ... |
+| W2-13 使役 | 1 | makes have → allows to / gives |
+
+### Phrase 战果
+- ⭐⭐⭐ Phrase 14 exacerbate the sense of X: Body 2 E2 用上"exacerbates social isolation"——drill→essay 通路打通
+- ❌ Phrase 15 serve as the cornerstone of X: 适配位漏用（family bonds 应该 cornerstone of community 完美适配）
+- ❌ Phrase 13 pick up X habits: 话题不匹配（OK）
+
+### Day 10 v1 = ~11/14 = Band 6.5 起步（5 个 v1 中最强）
+
+### 3 个最大 Gap（v2 重点）
+1. 🚨 **LR Collocation 瓶颈层显形**（新瓶颈）—— 这是 Band 6.5 → 7.0 关键战场
+2. 🚨 W2-19 冠词 + W2-1 拼写 + W2-7 漏 that 三类一次扫描
+3. ⚠️ W2-2 单复数 + TR L 与 E 内容对齐
+
+### W2-18 候选毕业里程碑
+W2-18 essay 连续 2 次无错（Day 9 v2 + Day 10 v1）+ Drill #7 2/2 = 3 次无错 → 候选毕业（同 W2-12 path）。Day 11 v2 若再 0 次 = 正式毕业 🎓（第 2 个毕业错误模式）。
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）

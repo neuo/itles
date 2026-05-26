@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️（browser/immerse）；5/24 Day 9 v2：**0 拼写错** ✅；5/24 Drill #9：**复发 2 处** ⚠️（teenages/oversuing）—— Drill 阶段没倒读，注意力 meta 错。当 essay 自检流程在位时 0 错，drill 阶段没自检步骤时复发。**下次 essay 必须倒读**）
+**修复进展**：2 / 3（5/23 Day 7 v2：**0 拼写错** ✅；5/24 Day 8 v1：踩 2 处 ⚠️；5/24 Day 9 v2：**0 拼写错** ✅；5/24 Drill #9：**复发 2 处** ⚠️（teenages/oversuing）；5/26 Day 10 v1：**踩 1 处** ⚠️（most → mostly 词义混淆 — 与 Drill #7 "most is" 同源）—— v2 倒读 + 双词拼写专项扫 most/mostly its/it's their/they're）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -209,7 +209,7 @@
 **修法**：
 1. 写完每个 -s 名词问自己："这个词可数吗？"（research / advice / information / equipment / news / progress / knowledge / furniture / luggage 都是不可数）
 2. 想表达"研究"复数概念 → 用 `studies`（research 的可数对等词）
-**修复进展**：1 / 3（5/24 Drill #9：**3/3 命中** ✅✅✅ —— V1 `Research shows`（单数）+ V2 `Studies have shown`（复数 alternative）+ V3 `social media`/`anxiety` 不加 -s；研究 / 焦虑 / 媒体三类不可数全部正确处理；待再 2 次 essay 验证毕业）
+**修复进展**：2 / 3（5/24 Drill #9：**3/3 命中** ✅✅✅；5/26 Day 10 v1：**0 次踩** ✅ —— "health research ... has found"（research uncountable + has 单数）—— Drill #9 transfer 到 essay 成功；待再 1 次 essay 验证可毕业）
 
 ### W2-15 — not...but 平行少 by 🆕
 **首次出现**：2026-05-23（Day 7 v2 Example 03 Body 1 L）
@@ -244,7 +244,7 @@
 2. 不可数名词（food / research / advice / information）= **单数** → it / its
 3. 想用复数 → 把主语改成可数（foods / studies）
 4. **公司/品牌名 = 单数**（Amazon, Google, the EU）→ 用 it / has / its，不用 they / have / their
-**修复进展**：2 / 3（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #8：**3/3 命中** ✅✅✅ —— Governments/the government 单复数 + it 回指明确；待再 1 次 essay 验证可毕业）
+**修复进展**：**3 / 3 🎓 候选毕业**（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #8：**3/3 命中** ✅✅✅；5/26 Day 10 v1：**0 次踩** ✅—— "research has found"（research uncountable + has 单数）+ "Japan ... have produced" 注：Japan 后面应该是 has 但作为城市集合 have 也能接受；W2-17 essay 连续 2 次无错 + drill 1 次完美 = 进入毕业边界）
 
 ### W2-18 — 平行结构错（and 两边动词形态不一致）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Conclusion）
@@ -256,7 +256,7 @@
 **修法**：每个 `and` 两边问 "动词形态一致吗"
 - has X and has Y（完成时平行）→ has put and **has** caused（or 省略后 has X and Y，Y = past participle）
 - X and Y（一般时平行）→ puts pressure and **causes** closures
-**修复进展**：2 / 3（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #7：**2/2 命中** ✅✅✅ —— V1 完成时平行 + V2 not only X but also Y 嵌入完美；待再 1 次 essay 验证可毕业）
+**修复进展**：**3 / 3 🎓 候选毕业**（5/24 Day 9 v2：**0 次踩** ✅；5/24 Drill #7：**2/2 命中** ✅✅✅；5/26 Day 10 v1：**2 处完美** ✅✅ —— "allow people **to move** and **establish**"（不定式平行）+ "**leads to** ... **and exacerbates**"（一般时单数平行）；W2-18 essay 连续 2 次无错 = 候选毕业，与 W2-12 同 path）
 
 ### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
@@ -273,7 +273,7 @@
    - 多种 / 一些 → many / several / some
    - 各自的 → their / its
 3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
-**修复进展**：2 / 3（5/24 Day 9 v2：**3 处全修对** ✅；5/24 Drill #8：**6/6 命中** ✅✅✅ —— in education (no the) + the foundation/cornerstone (specific) + social development (no the) 全部正确；待再 1 次 essay 验证可毕业）
+**修复进展**：2 / 3（5/24 Day 9 v2：**3 处全修对** ✅；5/24 Drill #8：**6/6 命中** ✅✅✅；5/26 Day 10 v1：**踩 2 处 ⚠️** —— "Regarding **economy**" → "the economy" + "puts extra pressure on **environment**" → "the environment"。**两处都是抽象不可数作具体概念时 the 漏**——还没全 internalized。v2 必须再验证 1 次 0 错才能毕业）
 
 ---
 
@@ -286,6 +286,7 @@
 | **W2 初期**（5/21-23）| Dangling + 不可数 + 主谓代一致 + lead to do | W2-12, W2-13~17 | logical subject 检查 + 不可数清单 + 代词指代追踪 |
 | **W2 中期**（5/24 v1）| 平行结构 + 冠词 + 主谓代再次踩 | W2-18, W2-19, W2-17 再踩 | and 两边动词一致 + the 特指/泛指判断 + 公司名单数 |
 | **W2 末期**（5/24 v2）| ✨ **全清零** | v2 = 14/14 Band 7.0；W2-12 🎓 毕业 | 三大新错（W2-17/18/19）一次 v2 全修对——layer-by-layer 推进的"对照修复"机制完全起效 |
+| **W3 初期**（5/26 v1）| **LR collocation 瓶颈层显形** | Day 10 v1 ≈ Band 6.5；W2-17/18 候选毕业 + W2-14 推进 2/3 | 新题型暴露：rising of / in pursuit of / produced cities / makes have / 中式直译 + frame mismatch —— **这是从 Band 6.5 → 7.0 的关键战场** |
 
 **核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
 
@@ -308,6 +309,15 @@
 4. **W2-1 拼写** 修复进展 2/3，再 1 次无错可毕业
 5. **W2-12 dangling 🎓 已毕业**，不再强制提醒
 6. **新瓶颈层探测**：v2 = 14/14 后，下一篇 v1（Example 05 2-Pt）会暴露什么层？预测：2-Pt 题型独有的"两个问题平衡"或"立场表态" TR 层错误
+
+→ Day 11+ 优先（5/26 Day 10 v1 后更新）：
+1. **🎓 W2-12 dangling**（5/24 毕业）+ **🎓 W2-17 主谓代候选毕业** + **🎓 W2-18 并列谓语候选毕业** —— W2-18 v2 若再 0 次正式毕业（第 2 个 🎓）
+2. **🚨 LR Collocation 瓶颈层显形** —— Day 10 v1 暴露 5+ 处（rising of / in pursuit of / produced cities / makes have / more and more）—— **这是从 Band 6.5 → 7.0 的关键战场**
+3. **W2-19 冠词** 修复进展仍 2/3 —— Day 10 v1 又踩 2 处（Regarding economy / on environment），抽象不可数作具体概念时 the 漏，没完全 internalized
+4. **W2-1 拼写** 修复进展仍 2/3 —— Day 10 v1 又踩 1 处（most → mostly 词义混淆）
+5. **🆕 W2-7 漏 that 复发** —— Day 10 v1 "These demonstrate ... come" 漏 that
+6. **W2-14 不可数 -s** —— Day 10 v1 完美（research has found），推进 1/3 → 2/3
+7. **2-Pt 题型独有 TR 要点** —— Q1/Q2 分离 + Q2 表态 + Conclusion 重申 = Day 10 v1 完美命中 ⭐⭐⭐
 
 ---
 
