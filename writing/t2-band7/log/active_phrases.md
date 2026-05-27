@@ -39,6 +39,26 @@
 
 ## 清单
 
+### 2026-05-27 Daily Drill #10（Active 元认知捞 ⭐）
+
+#### Phrase 16: `pose a (severe / serious / significant) threat to X`
+- 原句 context：Drill #10 中，suzy 写了 "be harmful to public health"（Phrase 11），但**元认知主动提出**"想改成 pose a severe threat to"
+- 为什么 Band 7+：`pose a threat to X` 是 Band 7+ collocation，比 `harmful to X`（Band 6.5）升 0.5-1 档
+- 平行 family：与 Phrase 11 `harmful to` 形成"基础 → 升级"对：
+    - Band 6.5 基础：`X is harmful to Y` 
+    - Band 7+ 升级：`X **poses a threat to** Y`
+    - Band 7.5 增强：`X poses **a severe threat to** Y` / `X poses **a significant threat to** Y`
+- 可迁移（跨话题广）：
+    - Health: `smoking poses a serious threat to public health`
+    - Environment: `pollution poses a severe threat to biodiversity`
+    - Society: `inequality poses a threat to social cohesion`
+    - Tech/Security: `cyberattacks pose a significant threat to national security`
+    - Culture: `globalization poses a threat to cultural identity`
+- **Active 元认知捞** ⭐⭐⭐⭐——suzy 在 Drill 中主动追求 LR upgrade（不只满足"用对 phrase"，主动想更高 level 表达）。这是 Band 7→7.5 的关键 mindset
+- 复检：D+1 (5/28) [ ] / D+3 (5/30) [ ] / D+7 (6/3) [ ] / D+14 (6/10) [ ] / D+30 (6/26) [ ] 🎓
+
+---
+
 ### 2026-05-24 Daily Drill #8（Active 捞 ⭐）
 
 #### Phrase 15: `serve as the cornerstone of X` / `X is the cornerstone of Y`
@@ -135,14 +155,14 @@
 - 我的句：`online interaction and traditional socialization are not mutually exclusive`
 - 为什么 Band 7：`mutually exclusive` 是学术高频但安全的 collocation（不到 Band 8 高阶）；reframe 利器
 - 可迁移：DBV / A/D 题反驳"X 和 Y 不是对立的"
-- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / **D+8 (5/27) ✅⭐⭐⭐ C-4 mini-drill 激活** "online communication and physical interaction are not mutually exclusive" / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
 
 #### Phrase 9: `a vital component of modern X`
 - 原句 context：Body 2 L
 - 我的句：`online communication itself is a vital component of modern social life`
 - 为什么 Band 7：`vital component of` Band 7 collocation；`modern + 抽象名词`（social life / society / education）= 现代化收尾
 - 可迁移：任何"X 是 modern Y 的重要组成"
-- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
+- 复检：**D+1 (5/20) ✅** 用进 5/20 Day 5 v2 Body 2 / D+3 (5/22) [ ] / D+7 (5/26) [ ] / **D+8 (5/27) ✅⭐⭐⭐ C-4 mini-drill 激活** "digital tools have become a vital component of modern life" / D+14 (6/2) [ ] / D+30 (6/18) [ ] 🎓
 
 ---
 
@@ -153,7 +173,7 @@
 - 我的 V3 修：`Students should develop the ability to adapt to future changes.`
 - 为什么 Band 7：地道 collocation；替换中式直译 "have ability to fill in" / "adapt the future"；可迁移到任何"培养做某事的能力"
 - 反面教材：v1 直接写 `fill in the changes`（致命中式）；v3 写 `adapt the future`（adapt 漏 to）
-- 复检：**D+1 (5/19) ❌ FAIL**（Day 4 v1 主题不自然没用，原版未尝试）/ D+3 (5/21) [ ] / D+7 (5/25) [ ] / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
+- 复检：**D+1 (5/19) ❌ FAIL** / D+3 (5/21) [ ] / D+7 (5/25) [ ] / **D+9 (5/27) ✅⭐⭐⭐ C-4 mini-drill 激活** "young people must develop the ability to adapt to new challenges"——9 天后通过 source 引导激活，证明老 phrase 不死 / D+14 (6/1) [ ] / D+30 (6/17) [ ] 🎓
 
 ---
 
@@ -202,12 +222,15 @@
 | 7 lower the threshold for X | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
 | 8 are not mutually exclusive | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
 | 9 vital component of modern X | 5/19 | ✅ (5/20) | — (D+3=5/22) | v2 用上 |
-| 10 genuine human connections | 5/19 | — | — | 未用（Drill #3 捞）|
+| 10 genuine human connections | 5/19 | — | — | **D+8 (5/27) ✅⭐⭐⭐ C-4 首次激活** "the cornerstone of genuine human connections"——8 天后通过 source 引导激活 |
 | 11 harmful to X | 5/20 | — (5/21) | ❌→✅ (5/23) | Day 7 v2 漏用，当日 Drill #6 3 次救回 |
 | 12 impose a tax on X | 5/21 | — (5/22) | ✅ (5/23) | Day 7 v2 自然用上（D+2 提前通过）|
-| 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | Day 8 v1 D+1 + Day 9 v2 D+2 + **Day 11 v2 D+3 跨题 Conclusion 上线** "have picked up new living habits" 🎉 |
-| 14 exacerbate the sense of X | 5/24 | ✅ (5/25) | ✅ (5/26) | Drill #7 + Drill #9 + Day 10 v1 + **Day 11 v2 D+2 frame variation** "exacerbating social isolation"（V-ing 状语，frame 升级）⭐⭐⭐ |
-| 15 serve as the cornerstone of X | 5/24 | — (5/25) | ✅ (5/26) | Drill #8 V2 Active 捞——Day 10 v1 D+2 漏用 ❌ → **Day 11 v2 D+2 强制点名成功** ✅ "serve as the cornerstone of communities" 🎉 |
+| 13 pick up X habits | 5/23 | ✅ (5/24) | ✅ (5/24) | Day 8 v1 D+1 + Day 9 v2 D+2 + Day 11 v2 D+3 + **Drill #10 D+4 复检上线** "pick up greener habits" 🎉 |
+| 14 exacerbate the sense of X | 5/24 | ✅ (5/25) | ✅ (5/26) | Drill #7 + #9 + Day 10 v1 + Day 11 v2 + **Drill #10 D+3 复检上线** "exacerbate ecological degradation" ⭐⭐⭐ |
+| 15 serve as the cornerstone of X | 5/24 | — (5/25) | ✅ (5/26) | Drill #8 + Day 11 v2 强制点名 + **Drill #10 D+3 复检上线** "serves as the cornerstone of..." (verb frame 升级) 🎉 |
+| 11 harmful to X (re-check D+7) | 5/20 | — | — | **D+7 (5/27) ✅⭐⭐⭐⭐ Drill #10 真正自然上线** "be harmful to public health"——Passive 捞→Active drill 救回→D+7 上线 path 完整验证 |
+| 12 impose a tax on X (re-check D+6) | 5/21 | — | — | **D+6 (5/27) ✅⭐⭐⭐ Drill #10 复数变体上线** "impose higher taxes on polluting companies" |
+| 16 pose a threat to X | 5/27 | ✅ (5/27) | — (D+3=5/30) | Drill #10 元认知捞 + **Drill #11 当日 D+1 active 上线** "poses a serious threat to biodiversity" ⭐⭐⭐ + LR 周边升级（the diversity of species → biodiversity）|
 | 1 struggle to (re-check) | 5/17 | — | — | **D+7 (5/24) Day 8 v1 ✅✅** + **D+8 (5/24) Day 9 v2 ✅✅ 沿用 2 次**——跨题完全稳定 |
 | 6 break geographic barriers (re-check) | 5/19 | — | — | **D+5 (5/24) Day 8 v1 ✅** + **D+6 (5/24) Day 9 v2 ✅ 沿用**——跨题稳定 |
 | 4 not only X but also Y (re-check) | 5/18 | ⚠️ (5/19) | — | **D+6 (5/24) ✅⭐⭐⭐ Day 9 v2 跨越式上线**——Drill 启动日捞，需 incubation 才上线 |
@@ -220,6 +243,22 @@
 → 关键发现：**Daily Drill 捞的 phrase（4-5）比仿写捞的 phrase（1-3）D+1 通过率低**——因为 Drill phrase 不是直接从仿写场景来的，可能和下一篇仿写题目不匹配。
 
 → 改进策略：Drill phrase 选**和当前仿写题目相关**的源句，提高复检自然度。
+
+---
+
+## 5/27 重大发现：老 phrase 通过 source 引导激活（推翻 D+复检率低判断）
+
+**Phrase 5 (D+9) + Phrase 10 (D+8) 同日 C-4 mini-drill 首次激活**——5/18-5/19 捞的"沉睡 phrase"，今天通过 source 引导全部激活。
+
+| Phrase | 捞日 | 激活日 | 间隔 | 之前评估 | 修正评估 |
+|--------|------|--------|------|---------|---------|
+| 5 develop the ability | 5/18 | 5/27 | **9 天** | "Drill phrase 跨题率低" | "需要 source 引导 + 长 incubation" |
+| 10 genuine human connections | 5/19 | 5/27 | **8 天** | 未用 | "需要 source 引导 + 长 incubation" |
+
+**核心修正**：之前认为"跨题 phrase 复检率低 → Drill phrase 不通过"，实际是 **phrase 需要合适的 source 激活**。
+
+→ **每周 1 次"长 D+ phrase mini-drill"**：把睡了一周以上的老 phrase 通过 1 个 source 段落系统激活，性价比极高。
+→ 老 phrase 不死，是等待激活
 
 ---
 

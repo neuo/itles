@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：1 / 3（5/23 Day 7 v2：0 拼写错 ✅；5/24 Day 8 v1：踩 2 处 ⚠️；5/24 Day 9 v2：0 拼写错 ✅；5/24 Drill #9：复发 2 处（teenages/oversuing）；5/26 Day 10 v1：踩 1 处（most→mostly）；5/26 Day 11 v2：**复发 5 处** 🚨（model/almost/capital/founded/househoulds）—— 见 W2-20 词义混淆类新错。**修复进展回退**——拼写自检与修 gap 是独立注意力通道，必须每篇都做倒读）
+**修复进展**：1 / 3（5/23 Day 7 v2 ✅；5/24 Day 9 v2 ✅；5/24 Drill #9 复发 2 处；5/26 Day 10 v1 踩 1 处；5/26 Day 11 v2 复发 5 处 🚨；**5/27 C-3 drill 复发 3 处** 🚨（connerstone/pullution/fuled）—— **drill 时没倒读 → 拼写通道关闭 → typo 涌现**。这正是 C-2 "倒读能力地图"的发现：词形错只能通过倒读抓。修复进展保持 1/3，等待 essay 中倒读流程实战验证）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -273,7 +273,22 @@
    - 多种 / 一些 → many / several / some
    - 各自的 → their / its
 3. 中文"这些 / 那些"在英语里**不一定**用 the——常是泛指 + many / these（指代有限）
-**修复进展**：2 / 3（5/24 Day 9 v2：3 处全修对 ✅；5/24 Drill #8：6/6 命中 ✅；5/26 Day 10 v1：踩 2 处 ⚠️；5/26 Day 11 v2：**Day 10 v1 的 2 处全修对** ✅（economy + environment）+ 1 处 mild "with traditional extended family" 60/40。Day 11 v2 已大幅修复但有 1 处 mild 漏，待再 1 次完美 essay 即可毕业）
+**修复进展**：**3 / 3 🎓 候选毕业**（5/24 Day 9 v2：3 处全修对 ✅；5/24 Drill #8：6/6 命中 ✅；5/26 Day 10 v1：踩 2 处 ⚠️；5/26 Day 11 v2：Day 10 v1 的 2 处全修对 ✅；**5/27 C-3 drill：13/14 ✅ + C-4 mini-drill：9/9 ✅** —— 22/23 决策对（仅 1 处 mild "by effort from"）。下次完整 essay 0 错可正式毕业 🎓）
+
+### W2-21 — Drill 阶段句首小写（注意力 meta 错）🆕
+**首次系统识别**：2026-05-27（Drill #11 V1+V2 复发）
+**累计出现**：4 处（Drill #7 V2 "people" + V3 "while"；Drill #11 V1+V2 "climate" × 2）
+**示例错句**：
+- `**c**limate change is harmful to...` → `Climate change...`
+- `**p**eople heavily depend on social media...` → `People...`
+- `**w**hile modern society...` → `While...`
+
+**类别**：GRA 基础 + 注意力 meta（不算严格语言能力错，属于 drill 短句 mode 的注意力涣散）
+**状态**：⚠️ 累计触发——essay 阶段大写都对（正常 flow 不忘），只在 drill 短句 mode 时复发
+**修法**：
+1. Drill 写完最后 5 秒**扫每句第一个字母**——指字 typo 层应用（C-2 倒读能力地图的第 3 层）
+2. 把"句首大写检查"加入 drill 收尾 checklist
+**修复进展**：0 / 3
 
 ### W2-20 — 词形相近词辨义混淆（W2-1 的进化形态）🆕🚨 重点
 **首次浮现**：2026-05-26（Day 11 v2 共 5 处密集）
@@ -301,7 +316,7 @@
     - affect / effect
 4. **拼写自检与修 gap 不能合并** —— 每篇都必须做倒读
 5. **核心洞察**：v1→v2 高度专注修 3 gap 时，拼写检查通道关闭，新拼写错涌现——这两个通道独立，不能用"修 gap"代替"自检"
-**修复进展**：0 / 3
+**修复进展**：1 / 3（5/27 C-1 W2-20 双词混淆 fill-in：**10/10 全对** ✅⭐⭐⭐——含元认知质疑 there is/are；5/27 C-2 倒读自检：**3/5 命中 ✅** 达标（model/capital/founded 抓到；almost/househoulds 漏）—— W2-20 修复机制建立："填空认知 + 倒读视觉" 双通道）
 
 ---
 

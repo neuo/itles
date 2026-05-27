@@ -573,4 +573,102 @@ v1 11/14 → v2 ~12/14 ≈ Band 6.5-7.0（略升，但未达 Day 9 v2 14/14）
 
 ---
 
+## 2026-05-27 Daily Drill #10 — 5 Phrase D+ 复检 Mini-Drill（5/5 全通过 🎉）
+
+### 5/5 Phrase D+ 复检全部通过
+- ⭐⭐⭐ Phrase 15 D+3: "serves as the cornerstone of the sustainable society"（verb frame 升级 vs is 系动词）
+- ⭐⭐⭐ Phrase 12 D+6: "impose higher taxes on polluting companies"（复数变体）
+- ⭐⭐⭐ Phrase 14 D+3: "exacerbate ecological degradation"（直接接 noun，更地道）
+- ⭐⭐⭐⭐ **Phrase 11 D+7 真正自然上线**: "be harmful to public health" —— Passive 捞→Active drill 救回→D+7 上线 path 完整验证 🎉
+- ⭐⭐⭐ Phrase 13 D+4: "pick up greener habits"（greener + 复数完美）
+
+### 🆕 Phrase 16 元认知捞: `pose a (severe) threat to X`
+- suzy 在 drill 中主动追求 LR upgrade（"想改成 pose a severe threat to"）
+- Band 7→7.5 关键 mindset：不只满足"用对 phrase"，主动想更高 level 表达
+- 与 Phrase 11 形成 "基础→升级" 平行 family
+
+### 0 硬伤 + 1 处 mild W2-19
+- "the cornerstone of **the** sustainable society" → "**a** sustainable society"（泛指——一种可持续社会）
+- 其他全对：W2-17 / W2-18（would exacerbate and be harmful 平行）/ W2-1/W2-20 拼写 0 错 / W2-12 dangling 0
+
+### 历史里程碑：Passive 捞 phrase 完整 path 验证
+Phrase 11 path:
+```
+5/20 Drill #4 Passive 捞（被纠错 harmful for → harmful to）
+5/23 D+3 Day 7 v2 health 题完美适配但漏用 ❌
+5/23 D+3.5 当日 Drill #6 V1/V2/V3 全用对（3 次 active drill 救回）
+5/27 D+7 Drill #10 自然冒出 ⭐⭐⭐⭐
+```
+→ **Passive 捞 phrase → Active drill 救回 → D+7 真正上线** 修复 path 完整验证
+
+---
+
+## 2026-05-27 错误集中复习周 Day 1 (A + C 全 4 模块) — 中复习日
+
+### A: Drill #10 — 5 Phrase D+ 复检（5/5 ✅）
+（见上方 Drill #10 entry）
+
+### C-1: W2-20 双词混淆扫盲（15 min）
+- 10/10 全对：affect/effect, mostly/almost, find/found, founded, there/they're/its/it's
+- ⭐ 元认知质疑：suzy 主动问 "不应该是 there are？" / "there is ?" —— **there + be 单复数取决于后面名词**记忆口诀公布
+
+### C-2: 倒读自检训练 Day 11 v2 原文（15 min）
+- 找到 4 个错（5/5 W2-20 中 3 处命中达标）：model→modern / capital→capita / founded→found / a weaker bonds (W2-16)
+- ❌ 漏：almost→mostly（W2-20 核心，语义场依赖错）+ househoulds typo（视觉错）
+- ⚠️ Over-correction：serve as → serves as（实际应删 a，suzy 修复方向反了）
+- 🧠 **倒读能力地图建立**：词形错 ✅ / 语义场依赖错 ⚠️ / typo ✅
+- → **完整自检 = 倒读（词形）+ 正读（逻辑）+ 指字（typo）三层**
+
+### C-3: W2-19 冠词维护 mini-drill（15 min）
+- 13/14 冠词决策对（Education/the cornerstone/social development/The government/renewable resources/Environmental pollution/public health/Modern society/an increasing emphasis/personal freedom/the government/companies/citizens 全对）
+- ⚠️ 1 处 mild: "by effort from" → "by efforts from" / "by joint efforts of"（effort 单数零冠词偏弱）
+- 🚨 W2-1 拼写复发 3 处（**印证 C-2 倒读价值**）：
+    - connerstone → cornerstone（corner+stone）
+    - pullution → pollution（pol-lu-tion）
+    - fuled → fueled（fuel+ed 漏 e）
+- ⭐ Phrase 11 D+7 复用 ✅ + Phrase 15 D+3 复用 ✅
+- ⭐ 升级搭配：is placing an increasing emphasis on / is fueled by
+
+### C-4: 老 Phrase 1-9 D+ 复检（15 min）⭐⭐⭐⭐⭐ 史上最高 phrase 密度
+- 1 段 ~70 词整合 **5 phrase**（Phrase 5+8+9+10 + bonus 15）：
+    - Phrase 5 develop the ability to adapt to X — D+9 首次激活
+    - Phrase 8 are not mutually exclusive — D+8 重复用对
+    - Phrase 9 a vital component of modern X — D+8 重复用对
+    - Phrase 10 genuine human connections — D+8 首次激活
+    - Phrase 15 cornerstone of (bonus) — D+3 巩固
+- ⭐⭐⭐⭐ Phrase 桥接：`serves as the cornerstone of genuine human connections` 一句话嵌 Phrase 15+10
+- 0 硬伤！0 拼写错 + 9/9 冠词决策对 + 完美主谓代
+- 🆕 Phrase 16 元认知捞: pose a (severe) threat to X（Drill #10）—— Band 7→7.5 mindset
+
+### 🏆 Day 1 历史里程碑
+- Phrase 11 D+7 真正自然上线（Passive 捞 path 完整验证）
+- Phrase 5/10 长 incubation 激活（8-9 天后通过 source 引导）
+- 5 个 phrase 一段话整合（史上最高密度）
+- W2-19 冠词推进毕业候选（22/23 决策对）
+- 倒读能力地图建立（词形 ✅ / 语义场 ⚠️ / typo ✅）
+- W2-1 拼写仍是脆弱点（drill 阶段 3 处复发）—— 倒读机制必要性确认
+
+### 重要洞察修正
+之前认为"Drill phrase 跨题率低 → 不通过"——实际是 **phrase 需要合适的 source 激活**。老 phrase 不死，**等待 source 引导**。每周 1 次"长 D+ phrase mini-drill"系统激活整个池子，性价比极高。
+
+---
+
+## 2026-05-27 Daily Drill #11 — Phrase 16 D+1 mini-drill（顺手 Day 2）
+
+### Phrase 16 D+1 完美 active 上线
+- V1 基础 (Phrase 11): "climate change is harmful to the diversity of species"
+- V2 升级 (Phrase 16): "climate change poses a serious threat to biodiversity" ⭐⭐⭐
+- ⭐⭐ LR 周边自动升级: "the diversity of species" → "biodiversity"（你 V2 隐含升级）
+
+### 🚨 W2-21 🆕 新错误模式入档
+- 2 处句首小写复发（climate × 2）
+- 累计 4 处（Drill #7 V2/V3 + Drill #11 V1/V2）
+- Drill 阶段注意力 meta 错 systematic pattern
+- 修法：drill 写完最后 5 秒扫每句第一个字母
+
+### 0 其他硬伤
+- W2-17 / W2-19 / W2-1 全对
+
+---
+
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）
