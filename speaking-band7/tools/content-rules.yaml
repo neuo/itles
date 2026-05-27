@@ -1,0 +1,205 @@
+# Content Rules — Speaking Band 7 answer 生成质量约束（declarative）
+#
+# 用途：被 check-static.py / check-llm.md 读取，转译为可执行检查。
+# 设计来源：参考 skylark2 harness rules 模式（脚本化 + LLM 联合）。
+#
+# Schema：
+#   rules:
+#     - id: rule-id (kebab-case)
+#       layer: static | llm
+#       applies-to: p2 | p3 | both
+#       severity: hard | soft        # hard = 必须通过；soft = warning
+#       description: 一句话规则描述
+#       check: |
+#         脚本伪代码 / LLM prompt 片段（让 reader 知道怎么校验）
+
+rules:
+  # ============================================================
+  # Layer 1: STATIC RULES（脚本化校验，秒级）
+  # ============================================================
+
+  - id: word-count-p2
+    layer: static
+    applies-to: p2
+    severity: hard
+    description: P2 答案字数必须在 155-170 词
+    check: |
+      count_words(answer) ∈ [155, 170]
+      tokenize by whitespace; ignore [T] [E] [Ex] [L] markers; ignore parenthetical stage notes
+
+  - id: word-count-p3
+    layer: static
+    applies-to: p3
+    severity: hard
+    description: P3 单题答案字数必须在 45-65 词
+    check: |
+      count_words(answer) ∈ [45, 65]
+
+  - id: zhangwei-frequency
+    layer: static
+    applies-to: both
+    severity: hard
+    description: zhangwei 自指（"I" 第 1 人称 + 自传细节如 CS / 14 年 / 程序员）每题 ≤ 1 次
+    check: |
+      count of self-bio markers in body ≤ 1
+      self-bio markers regex:
+        - "(?i)\b(CS|computer science|programmer|programming|coding|developer|software|SDE|14 years?|fourteen years?)\b"
+        - "(?i)\b(my (career|profession|job).{0,30}(tech|IT|software|computer))\b"
+        - "(?i)\b(independent researcher|CSAPP|算法)\b"
+      Note: "I" 单独使用 OK（first-person narrative），只看自传 marker
+
+  - id: wife-frequency
+    layer: static
+    applies-to: both
+    severity: soft
+    description: wife 出现频次 ≥ 1（鼓励，非强制——某些题如旅行/物品可不出现）
+    check: |
+      count of "(?i)\\bwife\\b" in body ≥ 1
+      soft: warn only, do not fail
+
+  - id: forbidden-essay-words
+    layer: static
+    applies-to: both
+    severity: hard
+    description: 禁用 essay register 词（oral 用替代版）
+    check: |
+      forbidden: ["furthermore", "moreover", "nevertheless", "however", "significant", "consequently", "thus", "hence", "in conclusion", "to summarise", "to conclude"]
+      essay-to-oral mapping (see 04_toolkit.md §1):
+        furthermore → on top of that / plus
+        however → but / having said that
+        significant → big / important / really key
+        nevertheless → still / even so
+
+  - id: contractions-required
+    layer: static
+    applies-to: both
+    severity: hard
+    description: 必须使用缩写（oral register）
+    check: |
+      uncontracted forms ≤ 1 per p2 / 0 per p3:
+        ["I would", "I will", "I have", "I am", "it is", "do not", "does not", "cannot", "that is", "there is", "we are", "they are", "she is", "he is"]
+      acceptable contractions: I'd, I'll, I've, I'm, it's, don't, doesn't, can't, that's, there's, we're, they're, she's, he's
+      Note: "I am" in 1-2 stress positions OK (强调用)；超过则 fail
+
+  - id: placeholder-noun-cap
+    layer: static
+    applies-to: both
+    severity: hard
+    description: 占位 noun 上限（thing / stuff / people 等）
+    check: |
+      per p2: count("thing(s)?") + count("stuff") ≤ 2
+      per p3: count("thing(s)?") + count("stuff") ≤ 1
+
+  - id: connectives-coverage
+    layer: static
+    applies-to: p2
+    severity: soft
+    description: P2 至少覆盖 4 种衔接功能
+    check: |
+      functions hit ≥ 4 of: [start_buffer, add_point, contrast, example, restate, conclude]
+      see 04_toolkit.md §1 for keyword lists per function
+
+  - id: four-paragraph-structure
+    layer: static
+    applies-to: p2
+    severity: hard
+    description: P2 必须 4 段结构（setup / description / example / impression）
+    check: |
+      detect 4 paragraph breaks (double newline or [T]/[E]/[Ex]/[L] markers)
+      OR detect 4 logical sections by leading sentence patterns
+
+  - id: opener-required
+    layer: static
+    applies-to: p2
+    severity: hard
+    description: P2 必须用 04_toolkit.md §2 推荐 opener 之一
+    check: |
+      first sentence matches one of:
+        - "(?i)^\\s*(So,?|Well,?)?\\s*(the .* I'?d like to talk about is|the first .* (that |who )?came to mind is)"
+        - "(?i)^\\s*(So,?|Well,?)?\\s*(I'?d like to (share|talk about))"
+        - "(?i)^\\s*(So,?|Well,?)?\\s*(when I saw this card|there'?s (a|this) .* I'?ve been wanting)"
+
+  - id: closer-required
+    layer: static
+    applies-to: p2
+    severity: soft
+    description: P2 推荐用 04_toolkit.md §4 推荐 closer 之一
+    check: |
+      last sentence matches one of:
+        - "(?i)\\b(So yeah|all in all|at the end of the day|so that'?s pretty much it|that'?s the .* I wanted to talk about)\\b"
+
+  - id: pro-pronunciation-traps
+    layer: static
+    applies-to: both
+    severity: soft
+    description: 标记常见误读词（生成时不能修，但提示朗读时注意）
+    check: |
+      flag words: ["comfortable", "vegetable", "chocolate", "interesting", "specifically", "particularly", "regularly"]
+      output: warning list with pronunciation guide
+
+  # ============================================================
+  # Layer 2: LLM RULES（语义判断，subagent）
+  # ============================================================
+
+  - id: band-7-not-8
+    layer: llm
+    applies-to: both
+    severity: hard
+    description: 词汇 / 句式应为 Band 7 而非 Band 8.5+
+    check: |
+      LLM prompt: "判断以下答案的 Band level。Band 7 标准 = mid-level collocation + 偶尔 idiomatic + 自然 oral register。Band 8+ 标准 = academic vocabulary + complex syntax + frequent idiomatic + perfect grammar。如果答案 ≥ Band 8 → fail（太过冲分，与考生水平不符）。"
+
+  - id: independent-context
+    layer: llm
+    applies-to: both
+    severity: hard
+    description: 答案应独立 self-contained，不依赖其他题答案的人物/事件 setup
+    check: |
+      LLM prompt: "判断答案是否引用了 cue card 范围外的人物 / 事件 / 信息（如 '正如我之前提到的 wife' / '上次我说的那个 Kyoto trip'）。如果答案预设 reader 知道某些 cross-context info → fail。"
+
+  - id: persona-balance
+    layer: llm
+    applies-to: both
+    severity: hard
+    description: persona 分布合理（wife / Muye 主角，zhangwei 极少）
+    check: |
+      LLM prompt: "判断主角是 wife / Muye / 还是 zhangwei。如果是 wife 或 Muye → ✅。如果主角是 zhangwei（讲自己的工作 / 决定 / 经历）→ check 题目是否必须本人作答（如 'a decision YOU made'）。如果是必须本人 → soft warn；如果是其他题用 zhangwei 自我中心 → fail。"
+
+  - id: band-7-textual-proxy
+    layer: llm
+    applies-to: p2
+    severity: soft
+    description: 4 维度 textual proxy 评分（FC / LR / GRA / PRO 估算）
+    check: |
+      LLM prompt: "按 02_band7_target.md 14 项清单评分。输出每项 ✅/⚠️/❌，统计总数。≥ 11 项 = Band 7；8-10 = Band 6.5；< 8 = Band 6.0。"
+
+  - id: emergency-mechanism-used
+    layer: llm
+    applies-to: p2
+    severity: soft
+    description: 应使用 04_toolkit.md 的死机急救机制（起手句 / 中段过渡 / 收尾句）
+    check: |
+      LLM prompt: "判断答案是否用了 04_toolkit.md §2-§4 的固定起手 / 过渡 / 收尾模式。如果没用任何 → soft warn（不符合死机急救设计）。"
+
+  - id: no-cross-cue-card-leakage
+    layer: llm
+    applies-to: p3
+    severity: hard
+    description: P3 follow-up 答案不应大段重复 P2 内容（应该 discussion 化）
+    check: |
+      LLM prompt: "比对 P3 答案与对应 P2 答案。如果 P3 重复 ≥ 50% P2 sentences → fail。P3 应该是 discussion / opinion / 一般化思考，不是 P2 故事的复述。"
+
+# ============================================================
+# Orchestrator workflow
+# ============================================================
+workflow:
+  - step: generate
+    description: LLM 生成初版答案（按 prompt 模板 + persona library + 题目）
+  - step: static-check
+    description: 跑所有 layer=static rules；hard fail → 返修
+  - step: llm-check
+    description: 跑所有 layer=llm rules（subagent）；hard fail → 返修
+  - step: human-review
+    description: suzy 审 sample 几篇，confirm 标准锁定
+  - step: batch-generate
+    description: 标准锁定后批量生成；每篇过 static + llm；通过才入 examples/
