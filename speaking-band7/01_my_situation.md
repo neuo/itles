@@ -40,7 +40,7 @@
 |------|------|------|
 | `ielts_p2p3_备考手册v7.md`（56 题完整范文）| ✅ 水平 OK（针对 6.5-7 + 口语化）| **保留为参考库**，不重写所有，但**部分迁移作 examples**（通过 orchestrator 验证后）|
 | `ielts_p2p3_泛化模板体系v6.md`（5 类骨架）| ⚠️ 思路 OK 但散乱 | **归档**，骨架理念融入 03_question_types.md |
-| `p2_my_path.md`（死机急救三阶训练）| ⚠️ 思路 OK 但 S 存货过时（zhangwei 中心）| **归档**，理念融入 05_path.md；S 存货 → personas.md 全替换 |
+| `p2_my_path.md`（死机急救三阶训练）| ⚠️ 思路 OK 但 S 存货过时（speaker 自传中心；当时把 speaker 自己当 zhangwei 误用）| **归档**，理念融入 05_path.md；S 存货 → personas.md 全替换（wife/Muye 主角 + zhangwei 朋友 + 其他）|
 | `ielts_part1_*` 系列（188 题 P1）| ✅ 量大但缺质量验证 | **保留为参考库**，新 P1 答案重写 |
 | `coach/error_log.md` + `inventory.md` | ⚠️ schema 与 T2 不一致 | **迁移**到 log/errors.md + active_phrases.md（统一 schema）|
 | `coach/sessions/`（4/27 + 4/29）| ✅ 历史保留 | **不动**（参考用）|

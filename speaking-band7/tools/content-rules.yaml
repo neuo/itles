@@ -35,18 +35,24 @@ rules:
     check: |
       count_words(answer) ∈ [45, 65]
 
-  - id: zhangwei-frequency
+  - id: speaker-self-bio-frequency
     layer: static
     applies-to: both
     severity: hard
-    description: zhangwei 自指（"I" 第 1 人称 + 自传细节如 CS / 14 年 / 程序员）每题 ≤ 1 次
+    description: speaker 自传素材（CS / 14 年职业 / CSAPP / 独立研究者梦 / 程序员）每题 ≤ 1 次
     check: |
-      count of self-bio markers in body ≤ 1
-      self-bio markers regex:
-        - "(?i)\b(CS|computer science|programmer|programming|coding|developer|software|SDE|14 years?|fourteen years?)\b"
-        - "(?i)\b(my (career|profession|job).{0,30}(tech|IT|software|computer))\b"
-        - "(?i)\b(independent researcher|CSAPP|算法)\b"
-      Note: "I" 单独使用 OK（first-person narrative），只看自传 marker
+      count of speaker self-bio markers in body ≤ 1
+      self-bio markers regex（speaker 自指描述自己的 IT 背景）:
+        - "(?i)\b(my (career|profession|job).{0,30}(tech|IT|software|computer|coding|programming))\b"
+        - "(?i)\bI\s+(?:have\s+been\s+|am\s+)?(?:a\s+|an\s+)?(?:software\s+)?(?:engineer|developer|programmer|coder)\b"
+        - "(?i)\b(I'?ve\s+been\s+in\s+IT|I'?ve\s+been\s+a\s+programmer)\b"
+        - "(?i)\b(?:I\s+(?:read|love)\s+)?CSAPP\b"
+        - "(?i)\bI\s+(?:want\s+to\s+be|dream\s+of\s+being)\s+an\s+independent\s+researcher\b"
+        - "(?i)\bmy\s+14\s+years?\s+in\s+tech\b"
+      Note:
+        - "I" 单独使用 OK（first-person narrative）；只查 speaker 自指的"我是程序员/我做 IT/CSAPP/独立研究者梦" markers
+        - zhangwei 现在是 friend persona，不属于 speaker 自指 → zhangwei 名字本身不算 self-bio marker
+        - 描述 zhangwei 在 IT 行业写 code 不计入此规则
 
   - id: wife-frequency
     layer: static
@@ -161,9 +167,14 @@ rules:
     layer: llm
     applies-to: both
     severity: hard
-    description: persona 分布合理（wife / Muye 主角，zhangwei 极少）
+    description: persona 分布合理（wife / Muye / zhangwei 主角候选，speaker 自指极少）
     check: |
-      LLM prompt: "判断主角是 wife / Muye / 还是 zhangwei。如果是 wife 或 Muye → ✅。如果主角是 zhangwei（讲自己的工作 / 决定 / 经历）→ check 题目是否必须本人作答（如 'a decision YOU made'）。如果是必须本人 → soft warn；如果是其他题用 zhangwei 自我中心 → fail。"
+      LLM prompt: "判断主角是 wife / Muye / zhangwei / speaker（讲自己经历）/ other。
+      - wife / Muye / zhangwei 作为主角 → ✅ pass
+      - speaker 自指（讲自己 CS 14 年 / CSAPP / 独立研究者梦）作为主角 → check 题目是否必须本人作答（如 'a decision YOU made' / 'an experience YOU had'）：
+          - 必须本人 → soft warn（提醒 downplay CS 自传素材）
+          - 题目允许其他主角但用了 speaker 自指 → ❌ fail
+      - zhangwei 现在是 friend persona，描述他在 IT 行业 OK，不算 speaker 自指"
 
   - id: band-7-textual-proxy
     layer: llm

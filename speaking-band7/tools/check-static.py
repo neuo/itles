@@ -53,13 +53,18 @@ UNCONTRACTED_FORMS = [
     r"\bshe is\b", r"\bhe is\b",
 ]
 
-ZHANGWEI_SELF_BIO = [
-    r"(?i)\b(CS|computer science|programmer|programming|coding|developer|software engineer|software developer|SDE)\b",
-    r"(?i)\b(\d+\s+years?\s+(in|of)\s+(tech|IT|software|computer))\b",
-    r"(?i)\bfourteen\s+years?\b",
-    r"(?i)\b(independent\s+researcher|CSAPP)\b",
-    r"(?i)\bmy\s+(career|profession|job)\b.{0,40}(tech|IT|software|programmer|coding)",
+SPEAKER_SELF_BIO = [
+    # speaker 自指 IT 背景（"I am/work as a programmer" 等）
+    r"(?i)\bI\s+(?:am|'m|work\s+as)\s+(?:a|an)\s+(?:software\s+)?(?:engineer|developer|programmer|coder)\b",
+    r"(?i)\bI'?ve\s+been\s+(?:in\s+IT|a\s+programmer|coding)\b",
+    r"(?i)\bmy\s+(?:career|profession|job)\b.{0,40}(?:tech|IT|software|programmer|coding|computer)",
+    r"(?i)\bmy\s+\d+\s+years?\s+(?:in\s+|of\s+)?(?:tech|IT|software)\b",
+    # 自传专属 markers
+    r"(?i)\bCSAPP\b",
+    r"(?i)\b(?:I\s+(?:want\s+to\s+be|dream\s+of\s+being)\s+an\s+)?independent\s+researcher\b",
 ]
+# Note: zhangwei 现在是 friend persona, 单独"zhangwei" 不算 speaker self-bio
+# 描述 zhangwei 在 IT 行业 / 写 code OK, 不计入此规则
 
 PLACEHOLDER_NOUNS = [r"\bthings?\b", r"\bstuff\b"]
 
@@ -138,13 +143,15 @@ def check_word_count(text: str, answer_type: str) -> list[dict]:
     return []
 
 
-def check_zhangwei_frequency(text: str) -> list[dict]:
+def check_speaker_self_bio_frequency(text: str) -> list[dict]:
+    """speaker 自传素材（CS/14年/CSAPP/独立研究者）每题 ≤ 1 次。
+    zhangwei 现在是 friend persona, 不属此规则约束。"""
     hits = []
-    for pattern in ZHANGWEI_SELF_BIO:
+    for pattern in SPEAKER_SELF_BIO:
         hits.extend(re.findall(pattern, text))
     if len(hits) > 1:
-        return [violation("zhangwei-frequency", "hard",
-                          f"self-bio markers found {len(hits)} times (max 1): {hits[:3]}")]
+        return [violation("speaker-self-bio-frequency", "hard",
+                          f"speaker self-bio markers found {len(hits)} times (max 1): {hits[:3]}")]
     return []
 
 
@@ -261,7 +268,7 @@ def check_all(text: str, answer_type: str) -> dict:
     violations: list[dict] = []
 
     violations.extend(check_word_count(text, answer_type))
-    violations.extend(check_zhangwei_frequency(text))
+    violations.extend(check_speaker_self_bio_frequency(text))
     violations.extend(check_wife_frequency(text))
     violations.extend(check_forbidden_essay_words(text))
     violations.extend(check_contractions(text, answer_type))
