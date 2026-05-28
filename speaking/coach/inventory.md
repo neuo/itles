@@ -37,6 +37,7 @@
 | drag oneself out of bed | 挣扎着起床 | 0 | 4/19 新增 |
 | not get tired of it | 吃不腻/不厌倦 | 0 | 4/19 新增 |
 | it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
+| `…, like ___`（展开反射） | 陈述后立刻补具体例子，把"一句话没了"救活 | 1 — 5/28 教+2 drill（drill2 结构对但内容错位 code reviews→儿子话题）| 核心训练点；下例子前自查"是 THIS 的例子吗" |
 | ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
 
 ## Graduated (internalized, no longer needs drilling)

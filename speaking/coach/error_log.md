@@ -39,8 +39,9 @@
 **Example:** "I'v recently worked" (should be "I've recently been working")
 **Surface:** Present perfect simple used where present perfect continuous is needed.
 **Deep:** Under production pressure, the learner simplifies tense to the most basic form. The ongoing/continuous aspect gets dropped.
-**Fix:** Recently + ongoing action = present perfect continuous ("have been doing")
-**Status:** Appeared in first writing sample. Monitor.
+**Fix:** Recently + ongoing action = present perfect continuous ("have been doing"). 习惯性动作用一般现在时（draws, not drew）。
+**Status:** Recurring under pressure. 4/29 "remembered his dreams" → remembers（习惯用现在时）。5/28 "drew almost every day" → draws（习惯用现在时）。
+**Occurrences:** 3
 
 ---
 
@@ -67,8 +68,8 @@
 **Example:** "My responsibility is writing code implementing the ideas from the PM"
 **Surface:** Correct grammar but no texture — reads like a form, not speech.
 **Deep:** When constructing a sentence under pressure, the learner builds the minimum viable structure: subject + verb + object. There's no bandwidth left for compression, subordination, or precise word choice. This is an automaticity problem — the basic structure isn't automatic enough to leave cognitive resources for texture.
-**Fix:** Reformulate with precise verbs and natural compression: "I handle the implementation — taking what the PM designs and building it out"
-**Status:** Core recurring issue. Flag in every session.
+**Fix:** Reformulate with precise verbs and natural compression: "I handle the implementation — taking what the PM designs and building it out"。**句子展开反射 `…, like ___`**：陈述后立刻补一个具体例子，把"一句话没了"救活（见 inventory）。
+**Status:** Core recurring issue. Flag in every session. 5/28 suzy 自己点出"经常一句话就没了"——确认 P2 最大 gap 是句子展开，开始用 `…, like ___` 反射主攻。
 
 ---
 
@@ -174,3 +175,13 @@ Add new patterns here when they appear more than once, or when a single instance
 - 承担任务 → take on / handle / work on
 **Status:** Reinforced Pattern 9 (formal register) but adds new dimension: not just register mismatch, but fundamentally Chinese-framed expressions with no English equivalent. 4/18 复发："live together with safety, health and happiness" = 过上安全健康快乐的生活 完全直译 frame，英语中不存在。
 **Occurrences:** 5
+
+---
+
+## Pattern 17: 抓"结构吻合但意义错位"的现成 chunk
+**Example:** 5/28 展开 "He [=儿子 Muye] keeps me pretty busy — like code reviews, meetings with clients, you name it"（code reviews/客户会议是她自己的工作，对不上"儿子让我忙"）
+**Surface:** 例子/补充内容和它要支撑的陈述对不上。
+**Deep:** 压力下句子的**节奏/结构**先被激活（"like A, B, you name it"），大脑顺手抓了一个最熟的现成 chunk 填进去，没检查它在意义上是否真的是这个陈述的例子。是 retrieval failure 的一种——结构先于语义。
+**Fix:** 补例子前 1 秒自查："like what —— 这是 THIS（刚说的那句）的例子吗？" 例子必须是陈述本身的实例。
+**Status:** First occurrence 5/28（句子展开训练中暴露）。Monitor——展开训练时高发。
+**Occurrences:** 1

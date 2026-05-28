@@ -2026,3 +2026,25 @@ statutory, probationary, eligible, permitted, circumstances, commitments, subsid
 1. **D+1 跟读复习**（10分钟）：打开 C14T1S2 音频，从 "Now I just want to run through..." 开始，放一句暂停，看原文跟读一遍 → 不看原文跟一遍。只做卡点句（6-8句）
 2. **精听卡点词拼写**（5分钟）：app → 精听卡点词 → 练5-6个最陌生的
 3. 口语 + 听力按 Day 1 计划正常推进
+
+---
+
+# 5/28（周四）— P2 三阶训练启动 + 建库收尾
+
+### 完成
+- [x] **speaking-band7 题库 build 完成**：P2 54/54 + P3 324 条，全部 Band 7 oral 校验通过
+- [x] 重构 `p2_my_path.md` §2 → 7-persona 体系（对齐新库），范文源改为 `speaking-band7/examples/`
+- [x] 新增 `plan/study_hub.md`：writing+speaking 总入口
+- [x] **口语 P2 第一次 session**（阶段1 起步）：详见 `speaking/coach/sessions/2026-05-28.md`
+
+### 口语核心发现
+- suzy 自己点出：阶段1"用自己话说"变成了**背诵**——且准确认识到背诵痕迹考场会被识别、扣分。✅ 判断正确。
+- 降单元到「骨架+自产内容」后，她**产出了全部自己的内容**（cars/blank paper/a year ago，非范文 dinosaurs）→ 证明有脚手架就能 generate，不是只能背。
+- **确认 P2 最大 gap = 句子展开（"一句话没了"）**，框架/连接其实脚手架已解决。
+- 今天教反射 `…, like ___`（陈述+具体例子）。drill2 暴露新 pattern 17：压力下抓"结构吻合但意义错位"的现成 chunk。
+- 时态：drew→draws（习惯用现在时，P4 复发）。
+
+### 明天（5/29）继续
+1. 巩固 `…, like ___`：先做 Chengdu 巩固题（例子要对得上陈述）
+2. P2 阶段1→2：用 1-2 个熟 persona 走「骨架+自产+每句 like 展开」全流程，目标 90s+ / 4 bullets
+3. 新 session 开场：打开 `plan/study_hub.md` → 说"继续学习"
