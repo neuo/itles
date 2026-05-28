@@ -33,8 +33,8 @@
 | 21 | 别人帮助解决问题 | zhangwei 帮修网络 (复用) | ✅ | p2_new_21_helped_solve_problem.md |
 | 22 | 保护环境的法律 | wife 垃圾分类法 (复用) | ✅ | p2_new_22_environmental_law.md |
 | 23 | 很久没收到回复的信息 | Liang 重联系 (复用) | ✅ | p2_new_23_no_reply_message.md |
-| 24 | 长久目标/抱负 | Object/decision（speaker）| ⬜ | — |
-| 25 | 遇到困难终成功的人 | Person（zhangwei/wife）| ⬜ | — |
+| 24 | 长久目标/抱负 | speaker 独立研究梦 | ✅ | p2_new_24_long_term_goal.md |
+| 25 | 遇到困难终成功的人 | zhangwei 自学 ML (S9a 复用) | ✅ | p2_new_25_overcame_difficulty.md |
 | 26 | 改变重要想法 | Event/decision（speaker）| ⬜ | — |
 | 27 | 想要颁布的环保法律 | Object/hypo（wife）| ⬜ | — |
 
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：25 / 54
-- **P2 待生成**：29
+- **P2 完成**：27 / 54
+- **P2 待生成**：27
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
