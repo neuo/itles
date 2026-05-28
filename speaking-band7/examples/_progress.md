@@ -62,7 +62,7 @@
 | 18 | 发挥想象力 | Muye 乐高 (S5, speaker 想象力) | ✅ | p2_old_18_used_imagination.md |
 | 19 | 乐于助人的人 | wife 帮邻居老人 (Person) | ✅ | p2_old_19_helpful_person.md |
 | 20 | 花费超过预期的物品 | Muye 的自行车(配件加价) | ✅ | p2_old_20_overspent_item.md |
-| 21 | 鼓励别人做不愿做的事 | Event（wife→speaker S8）| ⬜ | — |
+| 21 | 鼓励别人做不愿做的事 | 鼓励 wife 跑首场 10K (S1) | ✅ | p2_old_21_encouraged_someone.md |
 | 22 | 想从事的短期海外工作 | Object/hypo（speaker）| ⬜ | — |
 | 23 | 爱护自然之人 | Person | ⬜ | — |
 | 24 | 商店 | Place | ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：47 / 54（新题 27/27 + 老题 1-20）
-- **P2 待生成**：7（老题 21-27）
+- **P2 完成**：48 / 54（新题 27/27 + 老题 1-21）
+- **P2 待生成**：6（老题 22-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
