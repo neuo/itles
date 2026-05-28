@@ -16,7 +16,7 @@
 | 4 | 早起经历 | wife 晨跑 (S1/S8) | ✅ | p2_new_04_got_up_early.md |
 | 5 | 喜欢在家/花园种菜的人 | 外公 种菜 (新配角) | ✅ | p2_new_05_plant_grower.md |
 | 6 | 想颁布的新法律 | speaker 提议+wife 灵感 | ✅ | p2_new_06_new_law.md |
-| 7 | 发小 | Person（zhangwei）| ⬜ | — |
+| 7 | 发小 | 童年邻居 Liang (新配角) | ✅ | p2_new_07_childhood_friend.md |
 | 8 | 想从事医疗行业的人 | Person | ⬜ | — |
 | 9 | 拥有成功商业的人 | Person（zhangwei?）| ⬜ | — |
 | 10 | 近期改变的计划 | Event/decision（speaker）| ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：9 / 54
-- **P2 待生成**：45
+- **P2 完成**：10 / 54
+- **P2 待生成**：44
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
