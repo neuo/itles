@@ -57,7 +57,7 @@
 | **13** | **机智解决问题的人** | **zhangwei** | ✅ | p2_old_13_smart_problem_solver.md |
 | 14 | 朋友自学 | zhangwei 自学 ML (S9a) | ✅ | p2_old_14_self_taught_friend.md |
 | 15 | 不享受的音乐活动 | 太吵的现场演出 (Event) | ✅ | p2_old_15_disliked_music_event.md |
-| 16 | 近期看过且享受的电影 | Object | ⬜ | — |
+| 16 | 近期看过且享受的电影 | 科幻片 (speaker+wife) | ✅ | p2_old_16_recent_movie.md |
 | 17 | 有趣的建筑 | Place | ⬜ | — |
 | 18 | 发挥想象力 | Event（Muye 乐高）| ⬜ | — |
 | 19 | 乐于助人的人 | Person（wife）| ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：42 / 54（新题 27/27 + 老题 1-15）
-- **P2 待生成**：12（老题 16-27）
+- **P2 完成**：43 / 54（新题 27/27 + 老题 1-16）
+- **P2 待生成**：11（老题 17-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
