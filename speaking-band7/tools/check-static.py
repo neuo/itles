@@ -56,24 +56,26 @@ UNCONTRACTED_FORMS = [
 SPEAKER_SELF_BIO = [
     # speaker 自指 IT 背景（"I am/work as a programmer" 等）
     r"(?i)\bI\s+(?:am|'m|work\s+as)\s+(?:a|an)\s+(?:software\s+)?(?:engineer|developer|programmer|coder)\b",
-    r"(?i)\bI'?ve\s+been\s+(?:in\s+IT|a\s+programmer|coding)\b",
+    r"(?i)\bI'?ve\s+been\s+(?:in\s+IT|in\s+tech|a\s+programmer|coding|working\s+in\s+tech)\b",
+    r"(?i)\bworking\s+in\s+tech\b",
     r"(?i)\bmy\s+(?:career|profession|job)\b.{0,40}(?:tech|IT|software|programmer|coding|computer)",
-    r"(?i)\bmy\s+\d+\s+years?\s+(?:in\s+|of\s+)?(?:tech|IT|software)\b",
+    r"(?i)\bmy\s+(?:\d+|over\s+a\s+decade|more\s+than\s+a\s+decade)\s+years?\s+(?:in\s+|of\s+)?(?:tech|IT|software)\b",
     # 自传专属 markers
     r"(?i)\bCSAPP\b",
     r"(?i)\b(?:I\s+(?:want\s+to\s+be|dream\s+of\s+being)\s+an\s+)?independent\s+researcher\b",
 ]
-# Note: zhangwei 现在是 friend persona, 单独"zhangwei" 不算 speaker self-bio
-# 描述 zhangwei 在 IT 行业 / 写 code OK, 不计入此规则
+# Note (5/28 放开): zhangwei 是 friend persona 不算 speaker self-bio.
+# severity = soft, 限 ≤2 (放开后); decision/planning/career 题允许用 CS 背景。
 
 PLACEHOLDER_NOUNS = [r"\bthings?\b", r"\bstuff\b"]
 
 P2_OPENER_PATTERNS = [
-    r"(?i)^\s*(?:So,?\s+|Well,?\s+|OK,?\s+)?(?:the\s+(?:person|place|thing|event|experience|story|day|memory)\s+I'?d\s+like\s+to\s+talk\s+about\s+is)",
-    r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:the\s+first\s+\w+\s+(?:that\s+|who\s+|which\s+)?came\s+to\s+mind\s+is)",
+    # "the [any noun] I'd like to talk about is" (child / friend / decision / person / place ...)
+    r"(?i)^\s*(?:So,?\s+|Well,?\s+|OK,?\s+)?(?:the\s+[\w-]+\s+I'?d\s+like\s+to\s+talk\s+about\s+is)",
+    r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:the\s+first\s+[\w-]+\s+(?:that\s+|who\s+|which\s+)?came\s+to\s+mind\s+is)",
     r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:I'?d\s+like\s+to\s+(?:share|talk\s+about|describe))",
     r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:when\s+I\s+saw\s+this\s+card)",
-    r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:there'?s\s+(?:a|this)\s+\w+.{0,40}(?:I'?ve\s+been\s+wanting|I'?d\s+love))",
+    r"(?i)^\s*(?:So,?\s+|Well,?\s+)?(?:there'?s\s+(?:a|this)\s+[\w-]+.{0,40}(?:I'?ve\s+been\s+wanting|I'?d\s+love))",
 ]
 
 P2_CLOSER_PATTERNS = [
@@ -144,14 +146,15 @@ def check_word_count(text: str, answer_type: str) -> list[dict]:
 
 
 def check_speaker_self_bio_frequency(text: str) -> list[dict]:
-    """speaker 自传素材（CS/14年/CSAPP/独立研究者）每题 ≤ 1 次。
-    zhangwei 现在是 friend persona, 不属此规则约束。"""
+    """speaker 自传素材每题 ≤ 2 次（5/28 放开 + soft）。
+    decision/planning/career 题允许用 CS 背景；只在过度滥用（≥3）才 warn。
+    zhangwei（friend persona）不属此规则。"""
     hits = []
     for pattern in SPEAKER_SELF_BIO:
         hits.extend(re.findall(pattern, text))
-    if len(hits) > 1:
-        return [violation("speaker-self-bio-frequency", "hard",
-                          f"speaker self-bio markers found {len(hits)} times (max 1): {hits[:3]}")]
+    if len(hits) > 2:
+        return [violation("speaker-self-bio-frequency", "soft",
+                          f"speaker self-bio markers found {len(hits)} times (soft warn, target ≤ 2): {hits[:3]}")]
     return []
 
 

@@ -38,21 +38,22 @@ rules:
   - id: speaker-self-bio-frequency
     layer: static
     applies-to: both
-    severity: hard
-    description: speaker 自传素材（CS / 14 年职业 / CSAPP / 独立研究者梦 / 程序员）每题 ≤ 1 次
+    severity: soft   # 5/28 放开：hard → soft（decision/planning/career 题允许用 CS 背景）
+    description: speaker 自传素材每题 ≤ 2 次（5/28 从 ≤1 放开到 ≤2）；超过仅 warning
     check: |
-      count of speaker self-bio markers in body ≤ 1
+      count of speaker self-bio markers in body ≤ 2
       self-bio markers regex（speaker 自指描述自己的 IT 背景）:
         - "(?i)\b(my (career|profession|job).{0,30}(tech|IT|software|computer|coding|programming))\b"
         - "(?i)\bI\s+(?:have\s+been\s+|am\s+)?(?:a\s+|an\s+)?(?:software\s+)?(?:engineer|developer|programmer|coder)\b"
-        - "(?i)\b(I'?ve\s+been\s+in\s+IT|I'?ve\s+been\s+a\s+programmer)\b"
+        - "(?i)\b(I'?ve\s+been\s+in\s+(?:IT|tech)|I'?ve\s+been\s+a\s+programmer|working\s+in\s+tech)\b"
         - "(?i)\b(?:I\s+(?:read|love)\s+)?CSAPP\b"
         - "(?i)\bI\s+(?:want\s+to\s+be|dream\s+of\s+being)\s+an\s+independent\s+researcher\b"
-        - "(?i)\bmy\s+14\s+years?\s+in\s+tech\b"
-      Note:
-        - "I" 单独使用 OK（first-person narrative）；只查 speaker 自指的"我是程序员/我做 IT/CSAPP/独立研究者梦" markers
-        - zhangwei 现在是 friend persona，不属于 speaker 自指 → zhangwei 名字本身不算 self-bio marker
-        - 描述 zhangwei 在 IT 行业写 code 不计入此规则
+        - "(?i)\bmy\s+(?:14|fourteen|over\s+a\s+decade|more\s+than\s+a\s+decade)\s+years?\s+in\s+(?:tech|IT)\b"
+      Note（5/28 更新）:
+        - 放开理由：suzy 反馈 CS 自传约束可放松；decision/planning/career 题用自己更真实，可提职业背景
+        - severity = soft（warning，不 fail）；只在过度滥用（≥3）才提醒
+        - "I" 单独使用 OK；zhangwei（friend）不算 speaker 自指
+        - 配合 LLM persona-balance rule + personas.md 题型路由：decision/planning 题 → speaker self（CS OK）；person 题 → wife/Muye/zhangwei
 
   - id: wife-frequency
     layer: static

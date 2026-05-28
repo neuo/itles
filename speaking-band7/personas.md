@@ -1,17 +1,34 @@
 # Personas — 9 个 S 存货 + 角色 background
 
-> **核心原则**（5/27 修订 + 28 凌晨 zhangwei 修正）：
+> **核心原则**（5/27 → 5/28 多轮修订）：
 > 1. **wife + Muye 是主角**（多数 P2 题应能套）
-> 2. **speaker（你，第一人称 "I"）极少作为主角**（CS 14 年自传素材慎用——P2 多数题应描述他人）
-> 3. **zhangwei = 大学同学（IT 行业），朋友 persona**——可用于 friend / colleague-related 题
-> 4. **每个题独立 context**——不引用其他题答案的人物/事件（防 cross-题污染）
+> 2. **speaker（你，"I"）—— 描述他人为主，但 decision/planning 类题用自己**（见下"题型 → persona 路由"）
+> 3. **CS 自传可适度用**（5/28 放开）——不是禁用，而是"不滥用"；decision/planning/career 题可自然提职业背景
+> 4. **zhangwei = 大学同学（developer），朋友 persona**——friend / colleague-related 题
+> 5. **每个题独立 context**——不引用其他题答案的人物/事件（防 cross-题污染）
+
+---
+
+## 🌟 题型 → persona 路由（5/28 加）
+
+| 题型方向 | 首选 persona | 理由 |
+|---------|------------|------|
+| **决定 / 规划类**（重要决定 / 擅长做计划 / 改变计划 / 长久目标）| **speaker 自己**（CS 背景可用）| 5 岁 Muye 不做重要决定/规划；speaker 自己更真实 |
+| **孩子 / 创意类**（画画 / 想象力 / 创造活动）| **Muye** | 画画 / 乐高强主场 |
+| **朋友 / 同事类**（发小 / 自学 / 解决问题 / 成功事业）| **zhangwei** | developer + 执行力 |
+| **工作 / 政策类**（完美工作 / 团队 / 法律 / 环保）| **wife**（公务员）| 城市管理接触政策 |
+| **运动 / 健康 / 一起做事**（健身 / 鼓励 / 改变的人）| **wife / 一起健身** | S1/S8 |
+| **地方 / 旅行 / 城市** | **京都 / 成都** | S6/S7 |
+| **食物 / 烘焙 / 特别场合** | **wife 烘焙** | S2 |
+
+⚠️ **规划/决定题不要用 Muye**——5 岁孩子做"重要决定"不真实。这类题 speaker 自己作 subject（且可提 career/CS 背景）。
 
 ---
 
 ## 角色 background
 
 ### Speaker（你 / 第一人称 "I"，无名字暴露）
-- **职业**：CS 本科 / 互联网 14 年（**只在题目明确问 work / your career 时简略提及**）
+- **职业**：CS 本科 / 互联网 14 年 developer（**decision/planning/career 题可自然提及**；其他题 downplay）
 - **家庭**：男，已婚，5 岁儿子 Muye
 - **居住**：成都
 - **去过**：京都 3 次
@@ -19,7 +36,10 @@
 - **物品标签**：书 CSAPP / 电影盗梦空间
 - **理想**：独立研究者
 - **童年**：小城市长大（非农村），外公外婆带大，两个表哥
-- ⚠️ **使用纪律**：P2 多数题**主角应是 wife / Muye / zhangwei / 其他**——你作为 narrator "I" 讲他们的故事；只在题目专门问"你的经历 / 你的决定 / 你的爱好"时才以 "I" 为 subject
+- ⚠️ **使用纪律**（5/28 放开）：
+    - **decision / planning / career / 爱好 题** → speaker "I" 作 subject ✅（CS 背景可用）
+    - **person / 描述他人 题** → 主角 wife / Muye / zhangwei（speaker 作 narrator）
+    - **不滥用 CS 自传**：每篇 ≤ 2 处自传 marker（放开后从 ≤1 → ≤2），且优先讲事不讲 title
 
 ### wife（主角候选 ⭐⭐⭐）
 - **职业**：公务员，**城市管理科**
@@ -33,22 +53,25 @@
 - **兴趣**：画画 + 乐高
 - **可套话题**：喜欢画画的孩子 / 为家人骄傲 / 发挥想象力 / 重要的东西 / 创意活动 / 教别人 / 影响你的人 / 包含动物的故事
 
-### zhangwei（朋友，主角候选 ⭐⭐）
-- **关系**：大学同学
-- **职业**：IT 行业（具体职位待 suzy 补充——developer? 创业者? 资深工程师?）
-- **可能特点**（待 suzy 补充确认）：
-    - 自学能力强（IT 行业常见）
-    - 解决问题方式独特
-    - 可能是创业者 / engineer / 等
+### zhangwei（朋友，主角候选 ⭐⭐）— finalized 5/28
+- **关系**：大学同学（认识近 20 年）
+- **职业**：**developer**（IT 行业；v7 手册写过 "technical director at AI startup"，但**降级用 developer 更 relatable，不要 brag**）
+- **核心特质**：**执行力强**——
+    - 做计划且 follow through（用 Notion 做年/季/月计划 + 每周日 review）
+    - **自学能力强**（公司转 AI 时，他没 ML 背景，自学 6 个月转型成功）
+    - **解决问题方式独特**（一次系统故障，别人都在 dig codebase，他退一步看 network logs，30 分钟找到 CDN 节点问题）
+- **side detail（可选 color）**：玩民谣吉他（大学乐队主吉他手，现在偶尔在小酒吧表演）
 - **可套话题**：
-    - "发小"（虽然是大学同学，可 paraphrase 为 close friend from college）
-    - "拥有成功商业的人"（如果 zhangwei 是 entrepreneur）
-    - "朋友自学"（IT 自学）
-    - "机智解决问题的人"（IT debug 角度）
+    - "发小"（close friend from college，认识近 20 年）
+    - "朋友自学"（self-taught ML）⭐ 强主场
+    - "机智解决问题的人"（CDN 故障 step-back 思维）⭐ 强主场
+    - "擅长做计划的人"（Notion 计划体系）⭐ 强主场
+    - "拥有成功商业的人"（⚠️ developer 不 own business；如果 startup 早期成员可 paraphrase 为 "doing well in his career"，或改用其他 persona）
+    - "擅长音乐的朋友"（吉他）
     - "鼓励别人做不愿做的事" / "影响你的人"
-    - "短期海外工作"（如果 zhangwei 出国过）
+    - "短期海外工作"（v7 没明确，谨慎用）
 
-⚠️ **zhangwei 细节待补充**——目前是骨架；suzy 早上补 zhangwei 的具体职位 / personality 后 finalize。
+**用语纪律**：描述 zhangwei 写 code OK，但保持 oral——"he figures out problems" / "he writes code" 比 "he performs debugging" 自然。
 
 ### 配角（视情况调用）
 - **外公外婆**：童年带大（可用于 childhood / family 话题）
@@ -146,24 +169,28 @@
 
 ⚠️ **自嘲点很重要**——"I'm not great at it" 比"I exercise regularly" 更地道更有 personality，且更 Band 7（用 informal contraction）。
 
-### S9 — zhangwei IT 朋友（⭐ 新增，待 suzy 补充细节）
+### S9 — zhangwei developer 朋友（⭐ finalized 5/28）
 
-**核心场景**（骨架，待 finalize）：
-- zhangwei 是 college classmate，IT 行业
-- [细节待补]：具体职位 / 是否创业 / 自学 path / 特别经历
+**核心场景**（3 个可选 specifics，按题选 1 个）：
+- **S9a 自学 ML**：公司转 AI，zhangwei 没 ML 背景，自学 6 个月转型成功
+- **S9b CDN 解决问题**：系统故障，别人 dig codebase，他看 network logs，30 分钟找到 CDN 节点问题
+- **S9c Notion 计划体系**：年/季/月计划 + 每周日 review，执行力极强
 
 **可套 P2**：
-- "发小"（college close friend）
-- "拥有成功商业的人"（如果 zhangwei 是 entrepreneur）
-- "朋友自学"（IT 自学新技术）
-- "机智解决问题的人"（debug / 解决技术问题）
-- "鼓励别人做不愿做的事"
-- "影响你的人"
-- "想从事的工作类型"（如果 speaker 偶尔说 admire zhangwei 的工作方式）
+- "发小"（close friend，认识近 20 年）→ 用 S9 概述 + 选 1 个 specific
+- "朋友自学" → **S9a** ⭐
+- "机智解决问题的人" → **S9b** ⭐
+- "擅长做计划的人" → **S9c** ⭐
+- "鼓励别人做不愿做的事" / "影响你的人" → S9a（他鼓励我学新东西）
+- "擅长音乐的朋友" → 吉他 side detail
 
-**示例 hook**（待 suzy confirm 细节后 finalize）：
-- "There's this friend of mine from college — zhangwei — he's been in IT for years..."
-- "We've known each other since university; he works in tech, and..."
+**示例 hook**：
+- "The person I'd like to talk about is an old friend from university — zhangwei. We've known each other for almost twenty years now, and he works as a developer."
+- "There's this friend of mine, zhangwei — he's a developer, and honestly one of the most driven people I know."
+
+**核心 trait 句（执行力）**：
+- "What really stands out about him is how he gets things done — he doesn't just talk about plans, he actually follows through."
+- "He's the kind of guy who, once he decides on something, just makes it happen."
 
 ---
 
@@ -222,10 +249,13 @@
 
 ---
 
-## ⏳ 待补充
+## ✅ Persona 库 finalized（5/28）
 
-- [ ] zhangwei 的具体 IT 职位（developer / 创业者 / engineer / data scientist?）
-- [ ] zhangwei 是否有创业 / 出国 / 等特殊经历
-- [ ] zhangwei 的 personality（话多/话少？兴趣？）
+所有主角 + 9 个 S 存货已 finalize：
+- Speaker（"I"，CS 14 年少用）
+- wife（健身 S1 / 烘焙 S2 / 公务员 S3）
+- Muye（画画 S4 / 乐高 S5）
+- 京都 S6 / 成都 S7 / 一起健身 S8
+- zhangwei developer 朋友 S9（自学 ML / CDN 解决问题 / Notion 计划）
 
-suzy 早上补充后，S9 hook 句和适配题列表 finalize。
+→ 可以开始 build examples。

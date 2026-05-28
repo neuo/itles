@@ -71,10 +71,16 @@
 | **speaker 自指**（讲自己 CS 14 年 / CSAPP / 独立研究者梦）| 检查题目：cue card 是否必须本人作答（如 "a decision YOU made" / "an experience YOU had"） |
 | **speaker 自指 + 题目允许其他主角** | ❌ fail（应改 wife / Muye / zhangwei 中心）|
 
-**特殊情形**：
-- 即使题目必须本人作答（如 "your important decision"）→ 仍应 ⚠️ 检查是否避免 CS 14 年 / CSAPP / 独立研究者梦等 speaker 过度自我中心素材
-- "a person who influenced YOU" → 主角应是 wife / Muye / zhangwei（影响你的人），不是 speaker 自己
-- "a friend who..." → zhangwei 是 ideal candidate（大学同学）
+**题型 → persona 路由（5/28 加，见 personas.md）**：
+- **decision / planning / career 题**（重要决定 / 擅长做计划 / 改变计划 / 长久目标）→ **speaker 自己作 subject = ✅ pass**（CS 背景可适度用；5 岁 Muye 不做重要决定，**用 Muye 反而 fail**）
+- **person / 描述他人 题** → wife / Muye / zhangwei 主角 = ✅；speaker 自指 = ❌
+- "a person who influenced YOU" → wife / Muye / zhangwei（影响你的人）
+- "a friend who..." → zhangwei ideal
+
+**CS 自传纪律（5/28 放开）**：
+- decision/planning/career 题用 CS 背景 = ✅（不再 fail）
+- 但 ≥ 3 处自传 marker 堆叠 = soft warn（不滥用）
+- 优先讲事不讲 title（"I turned down a job" > "as a senior engineer I..."）
 
 **zhangwei 描述纪律**：
 - 描述 zhangwei 在 IT 行业 OK（"he works in tech" / "he writes code"）
