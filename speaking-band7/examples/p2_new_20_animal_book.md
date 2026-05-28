@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a story/book with animals in it
 > You should say: What animals are in it / What the story/book is about / Why you read the story/book / And explain what you think of this story/book
-> **Persona**: Muye 动物绘本 (复用) | **题型**: Object | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: Muye 动物绘本 (复用) | **题型**: Object | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What I love is the way it slips in a little lesson without being preachy — it 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Should schools teach children about animals?
-- Some people think pets should not be kept in cities. What do you think?
-- Many people regard pets as members of their family. What do you think?
-- Do many people keep pets in your country?
-- What are the advantages of keeping a pet?
-- Why do people always tell children stories with animals?
+**Q1. Should schools teach children about animals?**
+Definitely. I'd say animals are a brilliant way to spark a child's curiosity about the wider world. Learning where creatures live and what they eat builds empathy, since kids start caring about something beyond themselves. For instance, a quick lesson on bees can teach a whole class why nature matters. It's also just genuinely fun.
+
+**Q2. Some people think pets should not be kept in cities. What do you think?**
+Honestly, it depends on the animal. I'd say big dogs in tiny flats isn't fair, since they need space to run around. But a cat or a goldfish does perfectly fine in a city. So rather than banning pets outright, I reckon people just need to pick something that suits a smaller home sensibly.
+
+**Q3. Many people regard pets as members of their family. What do you think?**
+Absolutely, and I think that's lovely. A pet shares your daily routine, greets you at the door, and picks up on your moods, so it naturally feels like one of the family. For instance, people often grieve a dog just as deeply as a relative. To me, that bond is completely real and worth respecting.
+
+**Q4. Do many people keep pets in your country?**
+Yeah, loads of people do these days, far more than a generation ago. Cats and dogs are easily the most popular, though smaller flats mean rabbits and fish are catching on too. I'd say it's partly because city life can feel lonely, so a pet's company really helps. They've basically become little companions.
+
+**Q5. What are the advantages of keeping a pet?**
+There are loads, honestly. The biggest one's companionship — a pet's always happy to see you, which really lifts your mood after a rough day. Plus, dogs especially get you outdoors and moving, so you stay active. For kids, looking after an animal teaches responsibility too. All round, they bring a lot of warmth into a home.
+
+**Q6. Why do people always tell children stories with animals?**
+Well, I'd say animals just grab a child's imagination instantly — they're colourful, funny, and easy to picture. Plus, talking creatures let writers slip in a moral gently, without lecturing the kid directly. For instance, a sly fox can teach honesty far better than a plain rule. So it's really a softer, friendlier way to get lessons across.
 
 ---
 

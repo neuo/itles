@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a law on environmental protection
 > You should say: What it is / How you first learned about it / Who benefits from it / And explain how you feel about this law
-> **Persona**: wife (S3 城市管理，作信息来源) | **题型**: Object/Existing-law | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7
+> **Persona**: wife (S3 城市管理，作信息来源) | **题型**: Object/Existing-law | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ Honestly, I'm a big fan of it now. It was a bit of a pain to get used to, but at
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What kinds of rules do schools in China have?
-- Do you think school rules are important?
-- Are children unhappy with the school rules?
-- How can parents and teachers help children understand and follow rules?
-- What are the rules people should obey at work?
-- What is the purpose of punishment?
+**Q1. What kinds of rules do schools in China have?**
+Well, schools here have loads of rules, honestly. There's a strict dress code, so you've got to wear a uniform every day. Then there are rules about turning up on time, no phones in class, and keeping quiet during lessons. They're pretty firm on homework deadlines too, and most schools expect students to respect teachers without question.
+
+**Q2. Do you think school rules are important?**
+Definitely. I'd say school rules give kids a sense of order, and they learn early that actions have consequences. Without them, classrooms would just descend into chaos and nobody'd learn a thing. For instance, a simple no-phones rule keeps everyone focused. Plus, following rules at school gets them ready for the workplace later on.
+
+**Q3. Are children unhappy with the school rules?**
+Sometimes, yeah. I reckon kids grumble about rules that feel too strict or pointless, like banning certain hairstyles. To be fair, at that age they crave a bit of freedom, so any limit feels unfair. But honestly, most of them come round once they understand the reasoning behind it, even if they won't admit it.
+
+**Q4. How can parents and teachers help children understand and follow rules?**
+I'd say the key is explaining the why, not just barking orders. When adults take time to chat about the reasons, kids buy in far more easily. For example, instead of just saying "no phones", you explain how it wrecks concentration. Plus, parents and teachers should set a good example themselves, since kids copy what they see.
+
+**Q5. What are the rules people should obey at work?**
+Well, every workplace has its own, but some are pretty universal. You're expected to show up on time, meet deadlines, and treat colleagues with respect. There's usually a dress code too, depending on the job. Plus, most companies are strict about confidentiality, so you can't go leaking sensitive information to outsiders. Safety rules matter loads as well.
+
+**Q6. What is the purpose of punishment?**
+Honestly, I think it's mainly to deter people from repeating the same mistake. When there's a real consequence, folk think twice before breaking the rules again. But it shouldn't just be about revenge — ideally punishment teaches a lesson and helps someone improve. For instance, community service can make wrongdoers reflect rather than just feel resentful.
 
 ---
 
