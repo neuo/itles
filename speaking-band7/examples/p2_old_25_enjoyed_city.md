@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a city you enjoyed visiting
 > You should say: Where it is / When you visited it / How long you stayed there / What you did there / And explain why you enjoyed visiting it
-> **Persona**: 重庆（家庭旅行）| **题型**: Place | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7
+> **Persona**: 重庆（家庭旅行）| **题型**: Place | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ But what I really loved was the wild, vertical layout. I mean, the roads and bui
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What kinds of facilities do big cities have?
-- Do you think modern cities are suitable for young people or old people?
-- Before you travel to a city, what factors would you consider?
-- What are the disadvantages of living in a very famous city?
-- Do you prefer to visit well-developed cities or cities with a long history?
-- For those who live in cities, is it because they want to or have to?
+**Q1. What kinds of facilities do big cities have?**
+Well, I'd say big cities tend to have pretty much everything you'd need. You've got proper hospitals, good public transport like metros and buses, plus loads of shopping malls and parks. On top of that, they usually have universities and entertainment spots like cinemas. Basically, it's all packed into one place, which is really handy.
+
+**Q2. Do you think modern cities are suitable for young people or old people?**
+Honestly, I reckon they suit young people more. The pace is fast and there're tons of job chances, which younger folk usually love. Older people might find it too noisy and crowded, and the cost of living's a real headache. Having said that, cities do offer better hospitals, so it's not totally one-sided.
+
+**Q3. Before you travel to a city, what factors would you consider?**
+For me, the first thing's the cost — accommodation and food can really add up. Then I'd look at the weather and how safe the place is. Transport matters too, since you don't want to waste hours stuck in traffic. Plus I always check what there's to see, like landmarks or local food worth trying.
+
+**Q4. What are the disadvantages of living in a very famous city?**
+Quite a few, actually. Famous cities get swamped with tourists, so they're crowded and prices shoot up. Rent's often sky-high too, which makes daily life a struggle. Plus the pollution and noise can wear you down over time. So while it sounds glamorous to live somewhere well-known, the reality's often a bit exhausting.
+
+**Q5. Do you prefer to visit well-developed cities or cities with a long history?**
+I'd lean towards cities with a long history, to be fair. There's something special about old streets and ancient buildings that tells you a real story. Well-developed cities can feel a bit samey, with the same malls everywhere. But a historic place has its own character, so it sticks in your memory far longer.
+
+**Q6. For those who live in cities, is it because they want to or have to?**
+I'd say it's a mix of both, really. Some people genuinely love the buzz and the convenience, so they choose it happily. But plenty of others move in just to chase jobs or better schools for their kids. So for them it's more of a have-to than a want-to, sadly.
 
 ---
 

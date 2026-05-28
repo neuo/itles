@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a shop/store you enjoy visiting
 > You should say: What the shop's name is / Where it is / How often you visit it / And explain why you like to visit it
-> **Persona**: 成都 MUJI（无印良品）| **题型**: Place | **Generated**: 2026-05-28 | static ✅ 161w | llm ✅ Band 7
+> **Persona**: 成都 MUJI（无印良品）| **题型**: Place | **Generated**: 2026-05-28 | static ✅ 161w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ But honestly, for me it's less about shopping and more about unwinding. So yeah,
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do people in your country go to the shopping mall frequently?
-- How have people's shopping habits changed in recent decades?
-- Do you think shops and shopping malls will disappear in the future?
-- What are the differences between shopping in street markets and big shopping malls?
-- What are the differences in the shopping habits of different age groups?
-- What are the differences between shopping online and in-store?
+**Q1. Do people in your country go to the shopping mall frequently?**
+Yeah, quite a lot, honestly. I'd say malls have become more of a social hub than just a place to shop. People head there to grab a meal, catch a film, or just stroll around with friends. Since the weather can be rough, it's a handy spot that's all under one roof, so families end up going almost every weekend.
+
+**Q2. How have people's shopping habits changed in recent decades?**
+Massively, I reckon. The biggest shift's online shopping — people now buy almost everything on their phones, from groceries to clothes. They also care more about reviews and quick delivery than before. Having said that, folk still enjoy a physical trip for bigger buys, since you can't really judge quality from a screen alone. So it's a mix now.
+
+**Q3. Do you think shops and shopping malls will disappear in the future?**
+I doubt they'll vanish completely. Sure, online shopping keeps growing, but malls offer something a screen can't — the chance to touch products and hang out with mates. I'd say they'll just evolve into more of an experience, with restaurants and entertainment. So instead of disappearing, they'll probably reinvent themselves to stay relevant, which makes sense to me.
+
+**Q4. What are the differences between shopping in street markets and big shopping malls?**
+Quite a few, actually. Street markets feel livelier and you can haggle, plus prices tend to be lower, but the quality's a bit hit-or-miss. Malls, on the other hand, are cleaner and better organised, with fixed prices and air conditioning. I'd say markets have more character, while malls win on convenience, so it really depends what you're after.
+
+**Q5. What are the differences in the shopping habits of different age groups?**
+Definitely. Younger people lean towards online shopping and chase trends, so they buy on impulse a fair bit. Older folk, though, usually prefer browsing in person and sticking to brands they trust. They're also more careful with money, I reckon. For instance, a teenager might order clothes weekly, while a grandparent shops once a month for essentials.
+
+**Q6. What are the differences between shopping online and in-store?**
+There's a big gap, honestly. Online's all about convenience — you can compare prices and shop at midnight in your pyjamas. In-store, though, you get to inspect products and take them home straightaway, with no waiting. I'd say online suits routine buys, while in-store's better when you want to be sure before spending, especially on pricier items.
 
 ---
 
