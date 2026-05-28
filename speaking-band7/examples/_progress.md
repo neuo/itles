@@ -13,8 +13,8 @@
 | 1 | 喜欢或不喜欢的高建筑 | 成都 IFS (S7) | ✅ | p2_new_01_tall_building.md |
 | 2 | 有趣视频 | speaker 太空纪录片 | ✅ | p2_new_02_interesting_video.md |
 | 3 | 去过的无聊地方 | wife 无聊小镇 | ✅ | p2_new_03_boring_place.md |
-| 4 | 早起经历 | Event（wife 健身）| ⬜ | — |
-| 5 | 喜欢在家/花园种菜的人 | Person | ⬜ | — |
+| 4 | 早起经历 | wife 晨跑 (S1/S8) | ✅ | p2_new_04_got_up_early.md |
+| 5 | 喜欢在家/花园种菜的人 | 外公 种菜 (新配角) | ✅ | p2_new_05_plant_grower.md |
 | 6 | 想颁布的新法律 | Object/hypo（wife 公务员）| ⬜ | — |
 | 7 | 发小 | Person（zhangwei）| ⬜ | — |
 | 8 | 想从事医疗行业的人 | Person | ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：6 / 54
-- **P2 待生成**：48
+- **P2 完成**：8 / 54
+- **P2 待生成**：46
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
