@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an event you attended in which you didn't enjoy the music played
 > You should say: What it was / Who you went with / Why you decided to go there / And explain why you didn't enjoy it
-> **Persona**: 太吵的现场演出（朋友拉去）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 162w | llm ✅ Band 7
+> **Persona**: 太吵的现场演出（朋友拉去）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 162w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ Looking back, I just had to grin and bear it. I mean, I'm probably getting old, 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What kind of music events do people like today?
-- Do you think children should receive some musical education?
-- What are the differences between old and young people's music preferences?
-- What kind of music events are there in your country?
-- Why do many people like listening to music while doing sports?
-- What are the differences between listening to music at home and at a live concert?
+**Q1. What kind of music events do people like today?**
+Well, these days I'd say festivals are massively popular — big outdoor ones where loads of bands play across a weekend. People love the buzz of being in a crowd, all singing along together. Streaming's huge too, but it can't really match that live energy. To be fair, smaller acoustic gigs in cafes are making a comeback as well.
+
+**Q2. Do you think children should receive some musical education?**
+Definitely. I reckon learning an instrument teaches kids patience and discipline, since you can't get good without daily practice. It also gives them a creative outlet away from screens. For instance, a child who plays piano learns to read music and concentrate. Plus, it's a lovely skill that'll stay with them for life.
+
+**Q3. What are the differences between old and young people's music preferences?**
+Honestly, they're quite different. Younger folk tend to chase whatever's trending — pop, rap, the latest hits everyone's streaming. Older people usually stick with the classics they grew up with, like rock or folk. That said, there's a lot of crossover now, since older tunes keep getting sampled and rediscovered by the young.
+
+**Q4. What kind of music events are there in your country?**
+Quite a few, actually. In bigger cities there're concerts, music festivals, and plenty of small live-house gigs for indie bands. Traditional opera shows still draw older crowds too. To be fair, the scene's grown a lot lately, since more young people are keen to see acts perform live rather than just streaming them.
+
+**Q5. Why do many people like listening to music while doing sports?**
+Well, I'd say music keeps you motivated when you're working out. A strong beat sort of pushes you to move faster and pumps up your energy. It also distracts you from feeling tired, so a tough run feels easier. For instance, plenty of runners swear they can't last without a good upbeat playlist going.
+
+**Q6. What are the differences between listening to music at home and at a live concert?**
+They're worlds apart, honestly. At home it's relaxed and private — you control the volume and can replay your favourite track. A live concert's all about the atmosphere, the crowd, and that raw energy you simply can't recreate indoors. Having said that, home listening's far cheaper and you don't have to fight through massive crowds.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a bicycle/motorcycle/car trip you would like to go on
 > You should say: Who you would like to go with / Where you would like to go / When you would like to go / And explain why you would like to go by bicycle/motorcycle/car
-> **Persona**: 川西自驾（wife+Muye）| **题型**: Event/Place | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7
+> **Persona**: 川西自驾（wife+Muye）| **题型**: Event/Place | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What really appeals to me is doing it at our own pace and making memories togeth
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Which form of vehicle is more popular in your country, bikes, cars or motorcycles?
-- Do you think air pollution comes mostly from mobile vehicles?
-- Do you think people need to change the way of transportation drastically to protect the environment?
-- How are the transportation systems in urban areas and rural areas different?
-- Why do more people own and drive private vehicles now?
-- What do you think of the future of electric cars?
+**Q1. Which form of vehicle is more popular in your country, bikes, cars or motorcycles?**
+Well, I'd say cars are by far the most popular here, especially in cities, since they're seen as a sign of doing well in life. Bikes are still around for short trips, but motorcycles have fallen out of fashion. To be fair, electric scooters are everywhere now because they're cheap and dodge the traffic.
+
+**Q2. Do you think air pollution comes mostly from mobile vehicles?**
+Honestly, I think vehicles are a big part of it, but they're not the whole story. In a lot of cities, factories and coal-fired plants pump out just as much, if not more. So while cars and lorries definitely add to the smog, blaming them alone is a bit of a stretch, really.
+
+**Q3. Do you think people need to change the way of transportation drastically to protect the environment?**
+I'd say a drastic change is probably necessary, yeah. Just tweaking habits won't cut it if everyone's still driving petrol cars everywhere. We'd need proper investment in public transport and cycling lanes so people actually have a real alternative. For instance, cities with good metro systems see way fewer cars on the road.
+
+**Q4. How are the transportation systems in urban areas and rural areas different?**
+They're worlds apart, really. In cities you've got metros, buses and ride-hailing apps running round the clock, so getting about is dead easy. Out in the countryside, though, options are pretty thin — maybe one bus a day — so most folk rely on their own car or motorbike just to get anywhere at all.
+
+**Q5. Why do more people own and drive private vehicles now?**
+Mainly because cars have got far more affordable, plus living standards have shot up over the past decade. A private car also gives you real freedom — you're not stuck waiting for a bus in the rain. On top of that, owning one carries a bit of status, so people see it as proof they've made it.
+
+**Q6. What do you think of the future of electric cars?**
+I'm pretty optimistic, honestly. They're getting cheaper every year and the charging network keeps growing, so range anxiety's slowly fading. I reckon within a decade they'll be the default choice for most buyers. Having said that, the batteries still raise environmental questions, so they're not a perfect fix just yet.
 
 ---
 

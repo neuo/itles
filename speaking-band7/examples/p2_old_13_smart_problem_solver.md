@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a person who solved a problem in a smart way
 > You should say: Who this person is / What the problem was / How he/she solved it / And explain why you think he/she did it in a smart way
-> **Persona**: S9b zhangwei CDN | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 162w | llm ✅ Band 7
+> **Persona**: S9b zhangwei CDN | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 162w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What made it smart wasn't just his technical skill — it was his instinct to st
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think children are born smart or they learn to become smart?
-- How do children become smart at school?
-- Why are some people well-rounded and others only good at one thing?
-- Why does modern society need talents of all kinds?
-- Do you think smart children are happier than other children?
-- Is it important for schools to identify and develop each student's talents?
+**Q1. Do you think children are born smart or they learn to become smart?**
+Honestly, I'd say it's a bit of both. Some kids do seem naturally quick, but I reckon most of it comes down to how they're raised and what they're exposed to. If a child grows up around curious people who ask questions, they'll pick up that habit. So nature gives a start, but learning shapes the rest.
+
+**Q2. How do children become smart at school?**
+Well, I think it's less about memorising facts and more about how they're taught. A good school pushes kids to ask why, work in groups, and solve real problems. For instance, a science class where you actually run experiments beats one where you just copy notes. That's how curiosity and thinking skills really develop.
+
+**Q3. Why are some people well-rounded and others only good at one thing?**
+I'd say it mostly comes down to interests and choices. Some people stay curious about loads of areas, so they spread their energy wide. Others find one passion early and pour everything into it. Neither's wrong, really — it's just personality. Plus, some careers reward deep specialists, while others need people who can juggle many roles.
+
+**Q4. Why does modern society need talents of all kinds?**
+Because no single skill keeps everything running, really. A city needs doctors, builders, teachers, artists — you name it. If everyone chased the same job, whole areas would just collapse. For instance, brilliant engineers still need farmers to feed them. So a healthy society honestly depends on a wide mix of talents all working together.
+
+**Q5. Do you think smart children are happier than other children?**
+Not necessarily, I'd say. Being smart can actually pile on pressure, because parents and teachers expect more from them. Some bright kids feel a bit lonely too, since they don't always click with classmates. To be fair, happiness depends way more on friendships and feeling supported than on how clever someone happens to be.
+
+**Q6. Is it important for schools to identify and develop each student's talents?**
+Definitely, I reckon it's one of their key jobs. Every kid's good at something different, and if schools only chase exam marks, loads of talent slips through the cracks. For instance, a child who struggles with maths might be brilliant at music or sport. Spotting that early gives them confidence and a real direction.
 
 ---
 
