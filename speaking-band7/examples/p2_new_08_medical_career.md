@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)
 > You should say: When you knew him/her / When he/she started to think about that / What he/she would like to do / And explain why he/she would like to choose this career
-> **Persona**: 表妹 Lin（younger cousin，high-schooler，inspired by caring for sick grandmother）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7
+> **Persona**: 表妹 Lin（younger cousin，high-schooler，inspired by caring for sick grandmother）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,12 +18,25 @@ I think the main reason she chose this path is that caring for our grandmother r
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think being a doctor is easy or difficult?
-- Do you think learning biology is interesting for children?
-- Why do some children want to become doctors?
-- Do you think governments should put a large amount of money into medical research?
+**Q1. Do you think being a doctor is easy or difficult?**
+Honestly, it's pretty difficult. Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. Plus, the hours are long and the pressure never really lets up. To be fair, though, it's also rewarding, since you're genuinely helping folk get better. So it's tough, but worthwhile.
+
+**Q2. Do you think learning biology is interesting for children?**
+I'd say it depends on the kid, but generally it can be fascinating. Biology's all around them, so learning how their own body works or why plants grow feels relevant. For instance, a child who loves animals will probably find it gripping. But if it's taught as dry facts to memorise, they'll quickly switch off.
+
+**Q3. Why do some children want to become doctors?**
+Well, I reckon a lot of it comes from wanting to help people, since kids often see doctors as heroes who fix you when you're hurt. Plus, the job carries real respect, so it feels meaningful. For some, a family member falling ill is the spark that pushes them towards medicine.
+
+**Q4. Do you think governments should put a large amount of money into medical research?**
+Definitely, I think they should. Medical research saves lives in the long run, since today's funding becomes tomorrow's cures and vaccines. We saw that clearly during the pandemic. Having said that, governments shouldn't pour everything into it and neglect schools or housing, so it's really about striking a sensible balance.
+
+**Q5. Should doctors be paid more than other professionals?**
+I'd say they deserve decent pay, since they train for years and the job's incredibly demanding. But I'm not sure they should always earn more than everyone else, because teachers and engineers matter hugely too. So I'd rather pay reflected the responsibility and effort, not just the job title itself.
+
+**Q6. How can technology help doctors in the future?**
+Loads of ways, honestly. AI can already scan images and spot problems doctors might miss, so it makes diagnosis faster and safer. Plus, robots can assist in tricky operations with real precision. But I don't think machines will replace doctors, since patients still need that human touch and reassurance.
 
 ---
 

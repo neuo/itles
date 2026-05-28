@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a person you know who has a successful business
 > You should say: Who this person is / How you got to know him/her / Why and how he/she started the business / What business he/she does / And explain why you think the business is successful
-> **Persona**: Chen（minor persona：former tech colleague who left to open a specialty café）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7
+> **Persona**: Chen（minor persona：former tech colleague who left to open a specialty café）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ I reckon it's successful because he genuinely cares about every cup, and word's 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Why do some people start their own business?
-- Should governments provide financial support to start-ups?
-- Do most people prefer shopping at big stores or small stores?
-- What makes a business successful?
-- What makes a business fail?
-- Is it easy to set up a new business in your country?
+**Q1. Why do some people start their own business?**
+Well, I'd say it's mostly about freedom — a lot of people are sick of answering to a boss and want to be their own master. Plus, if you've got a passion or a clever idea, running your own thing lets you build something that's truly yours. For some, it's also about earning more than a fixed salary ever could.
+
+**Q2. Should governments provide financial support to start-ups?**
+Honestly, I think they should, at least a bit. Start-ups create jobs and fresh ideas, but they often can't get loans early on because banks see them as too risky. A small grant or a tax break can really tip the balance. That said, the money's got to be watched carefully, or it just gets wasted.
+
+**Q3. Do most people prefer shopping at big stores or small stores?**
+I reckon it depends on what they're after. Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. So it's really horses for courses.
+
+**Q4. What makes a business successful?**
+Well, I'd say it boils down to genuinely solving a problem people care about. If your product's good and you treat customers right, word spreads on its own. On top of that, you've got to manage the money sensibly. A business that overspends won't last, no matter how brilliant its core idea might be.
+
+**Q5. What makes a business fail?**
+To be fair, plenty of reasons, but cash flow is the big one — firms run out of money before they ever turn a profit. Another killer is ignoring what customers actually want and stubbornly sticking to a flawed plan. Poor timing hurts too; a great idea launched too early simply won't catch on.
+
+**Q6. Is it easy to set up a new business in your country?**
+Honestly, it's a mixed bag where I'm from. Registering a company is fairly quick and cheap these days, so getting started isn't the hard part. The real struggle is the fierce competition and the rent in big cities, which is brutal. So while it's easy to begin, surviving the first year's the tricky bit.
 
 ---
 

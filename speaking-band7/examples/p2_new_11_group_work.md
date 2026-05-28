@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a time when you worked in a group
 > You should say: What you did / Who you worked with / What problems you faced / And explain why you worked in the group
-> **Persona**: speaker（work/team 题）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: speaker（work/team 题）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ The reason I worked in a group, rather than going it alone, is that the task was
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Why do some people prefer to work by themselves?
-- What should a leader do to make team members want to follow him or her?
-- Should students learn to do group work?
-- What group tasks are there in schools?
-- What advantages are there for students experiencing teamwork at school?
-- How can you tell if a person is a good leader?
+**Q1. Why do some people prefer to work by themselves?**
+Well, I'd say some folk just work better on their own because they can set their own pace and aren't held up by anyone else. For instance, a writer often needs total quiet to focus. Plus, when you're solo, you don't have to chase people for updates or smooth over clashes, so it's honestly less hassle.
+
+**Q2. What should a leader do to make team members want to follow him or her?**
+A good leader has to lead by example, I reckon, because people won't follow someone who just barks orders from a desk. They should listen properly and give credit where it's due, so the team feels valued. For instance, a boss who rolls up their sleeves during a crunch earns way more loyalty than one who just delegates everything.
+
+**Q3. Should students learn to do group work?**
+Absolutely, I think it's essential. Group work teaches kids to share ideas and handle disagreements without falling out, which they'll need their whole lives. For instance, a class project forces quieter students to speak up and pull their weight. Plus, it shows them early on that two heads are genuinely better than one when a task gets tricky.
+
+**Q4. What group tasks are there in schools?**
+Well, there's quite a range, honestly. Science classes often have lab experiments where pairs record results together. Then you've got group presentations, where everyone takes a slice of the topic. Drama and music lessons need teamwork too, since a play or a band only works if people sync up. So schools cover it pretty broadly, I'd say.
+
+**Q5. What advantages are there for students experiencing teamwork at school?**
+The biggest one's probably learning to communicate, since you can't get far in a team without explaining your ideas clearly. It also builds patience, because you're bound to hit people who disagree. For instance, sorting out who does what teaches kids to compromise. So really, it's preparing them for the workplace, where almost nobody works in total isolation.
+
+**Q6. How can you tell if a person is a good leader?**
+Well, I'd say you can tell by how the team around them behaves. If people seem motivated and trust their boss, that's a strong sign. A good leader stays calm under pressure and takes the blame when things go wrong, rather than passing the buck. To be fair, the real test is whether folk would happily follow them again.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a live sports event you watched and liked
 > You should say: What it was / When and where you watched it / Who you watched it with / And explain why you liked it
-> **Persona**: speaker (narrator, 不爱运动) + zhangwei (companion, friend) | **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: speaker (narrator, 不爱运动) + zhangwei (companion, friend) | **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What I loved wasn't really the game itself — it was the buzz in the crowd. Tho
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Why do some people like to watch sports events?
-- Where do people normally watch sports events?
-- What are the advantages of watching sports events online?
-- What sports matches are suitable for children to attend?
-- Why do some people spend a lot going to other countries to watch sports events?
-- What sports games are popular in your country?
+**Q1. Why do some people like to watch sports events?**
+Well, I'd say it's mostly about the thrill — there's this rush of excitement when your team scores that you just can't get anywhere else. Plus, it gives people a real sense of belonging, since you're all rooting for the same side. For a lot of folk, it's a great way to switch off and forget their worries.
+
+**Q2. Where do people normally watch sports events?**
+These days, most people just watch from home on the telly, since it's cheap and you don't have to fight the crowds. Others head to a pub or a bar, because cheering with strangers is half the fun. And then there's the die-hard fans who'll always pay for a ticket and turn up at the stadium itself.
+
+**Q3. What are the advantages of watching sports events online?**
+Honestly, the biggest plus is convenience — you can stream a match on your phone wherever you are, even on the bus. It's usually cheaper too, and you're not stuck with one broadcaster. Plus, you can pause, rewind, or check the stats whenever you fancy, which you simply can't do at a packed stadium.
+
+**Q4. What sports matches are suitable for children to attend?**
+I reckon slower, family-friendly ones work best, like swimming or a local football match. They're not too long, so kids won't get restless, and there's no real worry about rough crowds. To be fair, anything too rowdy, like a boxing night, isn't ideal — it can be loud and a bit overwhelming for little ones.
+
+**Q5. Why do some people spend a lot going to other countries to watch sports events?**
+Well, for hardcore fans it's almost a pilgrimage — watching a World Cup final live is a once-in-a-lifetime buzz you'd happily empty your wallet for. Plus, they get to soak up a new culture at the same time, so it's two trips in one. To be fair, I think the bragging rights matter just as much.
+
+**Q6. What sports games are popular in your country?**
+In China, I'd say basketball and football top the list, especially with younger crowds glued to the NBA. Table tennis and badminton are massive too, since we've always done well at them internationally. And honestly, you can't ignore how big online gaming tournaments have become — they pull in huge audiences these days.
 
 ---
 

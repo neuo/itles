@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an important decision that you made
 > You should say: What the decision was / How you made your decision / What the results of the decision were / And explain why it was important
-> **Persona**: speaker 自己（decision 题路由）| **题型**: Event/Decision | **Generated**: 2026-05-28 | static ✅ 165w | llm ✅ Band 7
+> **Persona**: speaker 自己（decision 题路由）| **题型**: Event/Decision | **Generated**: 2026-05-28 | static ✅ 165w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ I think it was important because it forced me to figure out what I actually valu
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think children sometimes have to make important decisions?
-- What important decisions do teenagers need to make after graduation?
-- Who can children turn to for help when making a decision?
-- Do you think advertisements can influence our decisions when shopping?
-- Do you think the influence of advertising is good?
-- How do people usually make important decisions?
+**Q1. Do you think children sometimes have to make important decisions?**
+Definitely, though usually small ones. I'd say kids face little choices every day, like which friends to trust or how to spend their pocket money. Honestly, those decisions matter because they're how children learn to weigh things up. For instance, a kid choosing a hobby is quietly learning what they actually enjoy, and that's a skill they'll use forever.
+
+**Q2. What important decisions do teenagers need to make after graduation?**
+Quite a few, actually. The biggest one's probably whether to go to university or jump straight into work, since that really shapes the next few years. They've also got to pick a field they're genuinely keen on, not just one their parents prefer. To be fair, it's a lot of pressure at such a young age.
+
+**Q3. Who can children turn to for help when making a decision?**
+Mostly their parents, I'd say, because mum and dad usually know them best and want what's right for them. Teachers help too, especially with school or career choices. Honestly, older siblings can be brilliant as well, since they've recently been through the same stage and won't lecture you the way adults sometimes do.
+
+**Q4. Do you think advertisements can influence our decisions when shopping?**
+Absolutely, and more than people admit. I reckon ads plant ideas in your head, so you suddenly want a brand you'd never even heard of. They're clever at making things look essential when they're really not. For example, a catchy slogan can stick with you, and you'll grab that product without thinking twice.
+
+**Q5. Do you think the influence of advertising is good?**
+It's a bit of a mixed bag, honestly. On one hand, ads keep us informed about new products and they fund loads of free services we enjoy. But on the other, they can push us to buy stuff we don't need. So I'd say it's helpful as long as you stay a bit sceptical.
+
+**Q6. How do people usually make important decisions?**
+Well, most folk weigh up the pros and cons, I'd say, jotting down what they'd gain against what they'd lose. They'll also ask people they trust for a second opinion, since it's hard to stay objective alone. To be fair, plenty just go with their gut in the end and hope for the best.
 
 ---
 
