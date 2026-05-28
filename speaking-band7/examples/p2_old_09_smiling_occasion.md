@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an occasion when many people were smiling
 > You should say: When it happened / Who you were with / What happened / And explain why most people were smiling
-> **Persona**: Muye 幼儿园表演 + wife | **题型**: Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7
+> **Persona**: Muye 幼儿园表演 + wife | **题型**: Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ The reason everyone was smiling, I think, is that the kids were so innocent and 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think people who like to smile are more friendly?
-- Why do most people smile in photographs?
-- Do women smile more than men? Why?
-- Do people smile more when they are younger or older?
-- Is smiling important in your culture?
-- Are there any occasions when people need to pretend to smile?
+**Q1. Do you think people who like to smile are more friendly?**
+Generally, yes. I'd say people who smile a lot come across as warmer and more approachable, so strangers feel relaxed around them. A simple smile basically signals you're open and friendly, even before you speak. Having said that, it isn't always true — some folk smile out of politeness while staying quite reserved underneath.
+
+**Q2. Why do most people smile in photographs?**
+Well, mostly because a smile makes a photo look livelier and friendlier. Nobody wants to look grumpy in a picture they'll keep for years. Plus, photographers usually tell you to smile, so it's almost a habit now. To be fair, a genuine smile also captures the happy mood of the moment really nicely.
+
+**Q3. Do women smile more than men? Why?**
+Honestly, I think they do, at least a bit. Women are often raised to be more expressive and to put others at ease, so smiling comes more naturally. Men sometimes feel they should look tough or serious instead. But it really varies — plenty of cheerful blokes smile just as much as anyone.
+
+**Q4. Do people smile more when they are younger or older?**
+I'd say younger people smile more freely, simply because they've fewer worries weighing them down. Kids laugh at almost anything, while adults get caught up in stress and bills. But older folk who've made peace with life can be surprisingly cheerful too. So it's less about age and more about your mindset, really.
+
+**Q5. Is smiling important in your culture?**
+Definitely. Where I'm from, a warm smile is seen as polite and welcoming, especially when you meet someone new or greet guests. It smooths over awkward moments too. That said, we're a bit more reserved than some cultures, so people don't grin at total strangers on the street as readily.
+
+**Q6. Are there any occasions when people need to pretend to smile?**
+Oh, absolutely. In customer service, staff basically have to smile all day even when they're exhausted or dealing with rude clients. The same goes for posing at formal events or family gatherings you'd rather skip. It's a social mask, really — you fake it to keep things pleasant and avoid offending anyone around you.
 
 ---
 

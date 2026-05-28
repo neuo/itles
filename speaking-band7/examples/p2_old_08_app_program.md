@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a program or app on your computer or phone
 > You should say: What it is / How often you use it / When/how you use it / When/how you found it / And explain how you feel about it
-> **Persona**: speaker 阅读 app（科幻）| **题型**: Object | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7
+> **Persona**: speaker 阅读 app（科幻）| **题型**: Object | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ Honestly, it's rekindled my love of reading after years of barely touching a boo
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What are the differences between old and young people when using apps?
-- Why do some people not like using apps?
-- What apps are popular in your country? Why?
-- Should parents limit their children's use of computer programs and computer games? Why and how?
-- Do you think young people are more and more reliant on these programs?
-- What do you think about some countries banning children from using social media?
+**Q1. What are the differences between old and young people when using apps?**
+Honestly, there's a real gap. Younger folk tend to figure out new apps almost instantly because they've grown up swiping and tapping, so it's second nature. Older people are usually more cautious — they'll read every prompt and worry about pressing the wrong button. That said, once they get the hang of it, they often stick with one app loyally.
+
+**Q2. Why do some people not like using apps?**
+Well, I'd say it comes down to trust and habit. Some people worry apps are constantly harvesting their data, so they'd rather not bother. Others just find the layouts confusing and prefer doing things the old way, like ringing a shop instead of ordering online. For them, an app feels like extra hassle, not a shortcut.
+
+**Q3. What apps are popular in your country? Why?**
+In my country, super-apps for messaging and payment are massive — basically everyone uses them daily. I reckon it's because they bundle everything into one place, so you can chat, pay bills and book a taxi without switching apps. Short-video apps are huge too, mostly because they're addictive and give you a quick laugh during dead time.
+
+**Q4. Should parents limit their children's use of computer programs and computer games? Why and how?**
+Definitely, but with a light touch rather than an outright ban. I'd say setting a daily time limit works best, since kids need some screen time to relax and even learn. The key is balance — pairing games with outdoor play or reading. If you're too strict, they'll just sneak around behind your back anyway.
+
+**Q5. Do you think young people are more and more reliant on these programs?**
+Yeah, I think they're getting more dependent by the year. Loads of young people can't navigate a new city without a maps app, or even do basic sums without a calculator. It's handy, sure, but I'd say it's chipping away at some everyday skills. Having said that, you could argue it just frees their brains up for other tasks.
+
+**Q6. What do you think about some countries banning children from using social media?**
+I can see the logic behind it, to be fair. Social media can really mess with a teenager's confidence and sleep, so shielding them for a few years isn't a bad shout. But honestly, the enforcing part gets tricky — kids easily fake their age. I'd rather see better education on safe use than a blanket ban.
 
 ---
 

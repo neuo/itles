@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a person who makes plans a lot and is good at planning
 > You should say: Who he/she is / How you knew him/her / What plans he/she makes / And explain how you feel about this person
-> **Persona**: S9c zhangwei Notion 计划体系 | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7
+> **Persona**: S9c zhangwei Notion 计划体系 | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 167w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ I feel a mix of admiration and a bit of envy, to be honest. Hanging out with him
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think it's important to plan ahead?
-- What activities do we need to plan ahead?
-- Do you think children should plan their future careers?
-- Should children ask their teachers or parents for advice when making plans?
-- Is making study plans popular among young people?
-- Do you think choosing a college major is closely related to a person's future career?
+**Q1. Do you think it's important to plan ahead?**
+Definitely. I reckon planning ahead saves you a lot of stress, since you're not scrambling at the last minute. For example, if you map out a trip beforehand, you avoid those silly mistakes like double-booking. Having said that, I wouldn't plan every tiny detail — leaving a bit of room for spontaneity keeps life fun.
+
+**Q2. What activities do we need to plan ahead?**
+Honestly, the big ones. I'd say major trips, weddings, or anything involving money really needs planning, because the costs add up fast and mistakes are pricey. Daily errands, though, you can just wing it. So basically, the higher the stakes, the more careful you've got to be about mapping everything out beforehand.
+
+**Q3. Do you think children should plan their future careers?**
+To some extent, yeah, but I wouldn't push it too hard. I reckon having a rough direction helps kids stay motivated at school. But at that age, interests shift constantly, so locking into one career feels risky. For instance, plenty of people end up doing jobs they'd never even heard of as children.
+
+**Q4. Should children ask their teachers or parents for advice when making plans?**
+Both, ideally. I'd say parents know the kid's personality best, while teachers see how they perform academically. So getting input from each gives a fuller picture. That said, kids shouldn't just follow advice blindly — the final call should be theirs, because they're the ones who'll actually live with the decision.
+
+**Q5. Is making study plans popular among young people?**
+More than it used to be, I reckon. With all these planner apps and study trackers around, young people love mapping out their revision now. For instance, lots of students share their colour-coded schedules online. But to be fair, sticking to the plan is the tricky part — drawing it up is honestly the easy bit.
+
+**Q6. Do you think choosing a college major is closely related to a person's future career?**
+Often, yeah, but it's not set in stone. I'd say your major opens certain doors, like an engineering degree leading into tech roles. But loads of people drift into totally unrelated fields too. So I reckon it shapes your starting point more than it fixes where you'll actually end up.
 
 ---
 
