@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a short-term job you want to have in a foreign country
 > You should say: Where it is / How you know of it / What the job is / And explain why you want to do it
-> **Persona**: speaker 日本小书店（hypothetical）| **题型**: Object/hypo | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7
+> **Persona**: speaker 日本小书店（hypothetical）| **题型**: Object/hypo | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What appeals to me most is the change of pace. I mean, it'd be a complete break 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What short-term jobs do young people do in other countries?
-- What challenges do young people face when working abroad?
-- What are the benefits of working for an international company?
-- What personal skills are required to work in an international company?
-- What kind of work can young people do in foreign countries?
-- Why are some people unwilling to work in other countries?
+**Q1. What short-term jobs do young people do in other countries?**
+Quite a few, actually. A lot of young folk teach their own language abroad, work seasonal jobs at ski resorts, or do bar and café shifts. Fruit-picking on farms is hugely popular too, since it's easy to land and pays alright. Honestly, these gigs let them fund their travels while soaking up a new culture firsthand.
+
+**Q2. What challenges do young people face when working abroad?**
+The biggest one's the language barrier, I'd say. If you can't chat properly with locals, even ordering food turns into a struggle. On top of that, there's homesickness, since you're cut off from family and old friends. Cultural differences can throw people too — what's polite back home might come across as rude somewhere else entirely.
+
+**Q3. What are the benefits of working for an international company?**
+Loads of perks, honestly. You're exposed to people from all walks of life, so you pick up different ways of thinking and working. It also looks brilliant on a CV, since employers love a global mindset. Plus, there's often a real chance to travel or get posted overseas, which most folk find pretty exciting.
+
+**Q4. What personal skills are required to work in an international company?**
+Communication skills come top, for sure. You've got to get your point across clearly to people who don't share your first language. Being adaptable matters loads too, since work styles vary wildly across cultures. I'd also throw in patience and an open mind — you can't just expect everyone to do things exactly your way.
+
+**Q5. What kind of work can young people do in foreign countries?**
+Mostly hospitality work, I reckon — waiting tables, bartending, or staffing hostels. Tutoring their native tongue is another big one, especially teaching English. Some go for hands-on stuff like farm labour or au pairing for families. These jobs don't usually demand fancy qualifications, so they're realistic for someone young who's just keen to live abroad for a bit.
+
+**Q6. Why are some people unwilling to work in other countries?**
+A fair few feel daunted by leaving their comfort zone, I'd say. They'd rather stay near family and friends than start from scratch somewhere strange. The language hurdle puts people off too, and so does the hassle of visas and paperwork. To be fair, some are simply settled and happy with the life they've already built.
 
 ---
 

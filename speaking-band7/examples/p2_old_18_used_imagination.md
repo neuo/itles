@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a time you needed to use your imagination
 > You should say: When it was / Why you needed to use imagination / How difficult or easy it was / And explain how you felt about it
-> **Persona**: S5 Muye 乐高（speaker 想象力）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7
+> **Persona**: S5 Muye 乐高（speaker 想象力）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ What I mean is, it felt really freeing and genuinely fun. It reminded me how rar
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you think adults can have lots of imagination?
-- Do you think imagination is essential for scientists?
-- What kinds of jobs need imagination?
-- What subjects are helpful for children's imagination?
-- What games help develop children's imagination?
-- How important is imagination to children?
+**Q1. Do you think adults can have lots of imagination?**
+Definitely, though I'd say a lot of adults let it fade. We get so caught up in routines and deadlines that we stop daydreaming. But the imagination's still there — you see it whenever someone tells a good story or solves a tricky problem in a clever way. Honestly, it just needs a bit of dusting off now and then.
+
+**Q2. Do you think imagination is essential for scientists?**
+Absolutely, I reckon it's at the heart of what they do. Before you can test a theory, you've got to imagine it first — picture how the world might work. Take Einstein, who supposedly dreamed up whole experiments in his head. Without that spark, science would just be copying old results, and nothing genuinely new would ever come out of it.
+
+**Q3. What kinds of jobs need imagination?**
+Loads of creative ones, I'd say. Designers, writers and architects clearly live on imagination — they're building something from nothing every day. But it's not just the obvious jobs. Even a good teacher needs it to explain a hard idea in a fresh way. Honestly, any role where you solve problems creatively leans on it a fair bit.
+
+**Q4. What subjects are helpful for children's imagination?**
+I'd point to art and creative writing first, since they basically reward kids for inventing freely. But to be fair, even subjects like science help, because they push children to ask "what if" and picture possibilities. Drama's brilliant too — pretending to be someone else really stretches the mind. So it's less about one subject and more about how it's taught.
+
+**Q5. What games help develop children's imagination?**
+Open-ended ones work best, I'd say — building blocks, role-play, or just a cardboard box that becomes a spaceship. Since there's no fixed rule, kids have to fill the gaps themselves. Honestly, the simpler the toy, the harder their minds work. That's why I'm a bit wary of fancy gadgets that do all the imagining for them.
+
+**Q6. How important is imagination to children?**
+Hugely important, honestly. For kids, imagination isn't just play — it's how they make sense of a world they don't fully grasp yet. Pretending builds empathy, since they're stepping into other roles, and it sparks problem-solving too. To be fair, a childhood without it would feel pretty grey, and they'd struggle to think creatively later on.
 
 ---
 

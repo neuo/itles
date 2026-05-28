@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a time when you encouraged someone to do something that he/she didn't want to do
 > You should say: Who he or she is / What you encouraged him/her to do / How he/she reacted / And explain why you encouraged him/her to do it
-> **Persona**: S1 wife 健身（鼓励她跑首场 10K）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7
+> **Persona**: S1 wife 健身（鼓励她跑首场 10K）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 166w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ The reason I pushed her is that I could tell she really wanted it but was held b
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- How can leaders encourage their employees?
-- When should parents encourage their children?
-- What kind of encouragement should parents give?
-- Do you think some people are better than others at persuading?
-- Should children do everything their parents ask them to do?
-- How can employers encourage their staff?
+**Q1. How can leaders encourage their employees?**
+Well, I'd say the best leaders lead by example and actually praise good work out loud. People feel valued when their effort gets noticed, so they push harder. Throwing money at staff helps, but honestly recognition matters more day to day. A simple "great job" can lift someone's whole week, to be fair.
+
+**Q2. When should parents encourage their children?**
+I reckon parents should step in mostly when a kid's about to give up too soon. That's when a little push really counts, because children often doubt themselves before they've even tried. For instance, if a child quits piano after one tough lesson, gentle encouragement keeps them going. But you can't force it, obviously.
+
+**Q3. What kind of encouragement should parents give?**
+Honestly, I'd say the best kind praises effort rather than results. If you only cheer when a kid wins, they'll dread failing, so they'll stop taking risks. But if you say "I'm proud you tried", they learn it's fine to struggle. That builds real confidence, which lasts way longer than empty flattery does.
+
+**Q4. Do you think some people are better than others at persuading?**
+Definitely. Some folk are just naturally persuasive because they read people well and know which buttons to press. They stay calm, listen first, then frame things in a way that clicks with you. To be fair, a lot of it's practice too — salespeople get sharper over years. But raw charm certainly gives some people a head start.
+
+**Q5. Should children do everything their parents ask them to do?**
+Not always, no. I reckon kids should listen to most reasonable requests, since parents usually know best. But blind obedience isn't healthy, because children need to learn to question and think for themselves. For instance, if a parent's clearly wrong, a kid speaking up is actually a good sign. It's about balance, really.
+
+**Q6. How can employers encourage their staff?**
+Well, beyond a decent salary, I'd say employers should offer real chances to grow. People stay motivated when they're learning and moving up, so training and clear goals help loads. Flexible hours matter too these days. But honestly, just being treated like a human rather than a number keeps most staff happy.
 
 ---
 
