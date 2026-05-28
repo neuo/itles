@@ -53,7 +53,7 @@
 | 9 | 微笑的场合 | Muye 幼儿园表演 + wife | ✅ | p2_old_09_smiling_occasion.md |
 | 10 | 为家人骄傲 | Muye 公园善举 (Person) | ✅ | p2_old_10_proud_of_family.md |
 | 11 | 对家庭重要的东西 | 外公的手表 (Object) | ✅ | p2_old_11_family_heirloom.md |
-| 12 | 自行车/摩托车/汽车旅行 | Event/Place | ⬜ | — |
+| 12 | 自行车/摩托车/汽车旅行 | 川西自驾 (wife+Muye) | ✅ | p2_old_12_dream_road_trip.md |
 | **13** | **机智解决问题的人** | **zhangwei** | ✅ | p2_old_13_smart_problem_solver.md |
 | 14 | 朋友自学 | Person（zhangwei S9a）| ⬜ | — |
 | 15 | 不享受的音乐活动 | Event | ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：39 / 54（新题 27/27 + 老题 1-11,13）
-- **P2 待生成**：15（老题 12, 14-27）
+- **P2 完成**：40 / 54（新题 27/27 + 老题 1-13）
+- **P2 待生成**：14（老题 14-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
