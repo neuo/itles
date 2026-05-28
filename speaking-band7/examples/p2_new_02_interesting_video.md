@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an interesting video
 > You should say: When and where you watched it / What it is about / Why you watched it / And explain how you feel about it
-> **Persona**: speaker 自己（Event 题，sci-fi 兴趣作 hobby marker）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7
+> **Persona**: speaker 自己（Event 题，sci-fi 兴趣作 hobby marker）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ As for how I feel about it, well, it genuinely blew me away. It's the kind of vi
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What kind of videos do people in your country like to watch?
-- Which is more helpful, watching videos or reading books?
-- What skills can people learn from watching videos?
-- Are there any differences between the videos that young people and old people like to watch?
-- Are there any differences between the videos that young men and young women like to watch?
-- What makes a video go viral online?
+**Q1. What kind of videos do people in your country like to watch?**
+Well, I'd say short clips are huge here — funny skits, cooking videos, that kind of quick content you scroll past on your phone. People are pretty busy, so they don't really sit through long stuff anymore. Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online.
+
+**Q2. Which is more helpful, watching videos or reading books?**
+Honestly, it depends what you're after. Videos are great for showing you how something's done, like fixing a tap, because you actually see it happen. But for going deep on a topic, books still win — they make you slow down and really think. So I'd say they're helpful in totally different ways, and it's not fair to pick one.
+
+**Q3. What skills can people learn from watching videos?**
+Loads, actually. You can pick up really practical skills, like cooking a new dish or playing a few chords on guitar, just by following along step by step. What's more, language is a big one — people improve their listening massively by watching shows with subtitles. So I reckon videos are brilliant for hands-on, visual learners who struggle with plain text.
+
+**Q4. Are there any differences between the videos that young people and old people like to watch?**
+Definitely. Young people are glued to fast, snappy content — short clips, gaming, memes that change every week. Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. I reckon it comes down to attention spans and what each generation grew up watching, really.
+
+**Q5. Are there any differences between the videos that young men and young women like to watch?**
+To be fair, there's a bit of overlap, but you do spot patterns. Young women often lean towards beauty tutorials, fashion and lifestyle vlogs, while young men go more for gaming, sports and tech reviews. That said, it's loosening up a lot these days — plenty of girls game, and loads of guys follow cooking channels. So it's not black and white.
+
+**Q6. What makes a video go viral online?**
+Well, I reckon it's usually something that hits people emotionally — it either makes them laugh out loud or genuinely surprises them. If a clip's relatable, folk instantly share it with their mates. Timing matters too; jumping on a trend early helps massively. But honestly, a lot of it's just luck — you can't really plan for it.
 
 ---
 

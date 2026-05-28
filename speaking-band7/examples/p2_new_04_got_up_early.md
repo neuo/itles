@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a time when you got up early
 > You should say: When it was / What you did / Why you got up early / And how you felt about it
-> **Persona**: S1 wife 健身（speaker 作 experiencer，一起跑步）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: S1 wife 健身（speaker 作 experiencer，一起跑步）| **题型**: Event | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ To be honest, the first ten minutes were brutal, but once the sun came up, I fel
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you know anyone who likes to get up early?
-- Why do people get up early?
-- What kinds of occasions need people to arrive early?
-- Why do some people like to stay up late?
-- Is it good to arrive early in any situation?
-- What kind of people like getting up early?
+**Q1. Do you know anyone who likes to get up early?**
+Sure, quite a few actually. My wife's a classic early bird — she's up before six most days to squeeze in a workout. I reckon it's partly habit and partly that she just loves having the morning to herself before the chaos kicks in. For her, those quiet hours feel calm and productive, which honestly sets the whole day off right.
+
+**Q2. Why do people get up early?**
+Loads of reasons, really. Some folk get up early because work or school forces them to, but plenty do it by choice. I'd say the early morning's peaceful — there's no noise, no messages, so you can actually focus. Plus, exercising or planning your day before everyone wakes up gives you a real head start and a sense of control.
+
+**Q3. What kinds of occasions need people to arrive early?**
+Plenty of them. Job interviews and flights are the obvious ones — you can't risk being late when so much is at stake. Exams too, since you usually need to settle in beforehand. Honestly, anything formal or high-pressure tends to demand it. Even big events like weddings expect guests early, so nobody's scrambling at the last minute.
+
+**Q4. Why do some people like to stay up late?**
+Well, for some people the night just feels freer. Once the day's pressures fade, they can finally relax, watch films or get creative without interruptions. I'd say night owls often think more clearly after dark. Plus, younger folk especially love that late-night buzz with friends, so going to bed early feels like missing out on the fun.
+
+**Q5. Is it good to arrive early in any situation?**
+Mostly, yes, though not always. Arriving early shows you're reliable and gives you time to calm your nerves, which matters for interviews or exams. Having said that, turning up too early to a casual dinner can put the host on the spot. So I'd say it depends — punctual is great, but reading the situation matters just as much.
+
+**Q6. What kind of people like getting up early?**
+I reckon it's usually disciplined, goal-driven people. They treat the morning as sacred time to exercise, read or get ahead before distractions pile up. Parents fall into this too, since kids force an early routine on them. Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep.
 
 ---
 

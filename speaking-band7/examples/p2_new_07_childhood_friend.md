@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a friend from your childhood
 > You should say: Who he/she is / Where and how you met each other / What you often did together / And explain what made you like him/her
-> **Persona**: 童年邻居 Liang（小城市发小，外公外婆带大背景）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: 童年邻居 Liang（小城市发小，外公外婆带大背景）| **题型**: Person | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ I think what made me like him so much was how easygoing he was. He never got moo
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Do you still keep in touch with your friends from childhood? Why or why not?
-- How important is childhood friendship to children?
-- What do you think of communicating via social media?
-- Do you think online communication through social media will replace face-to-face communication?
-- What's the difference between having younger friends and older friends?
-- Has technology changed people's friendships? How?
+**Q1. Do you still keep in touch with your friends from childhood? Why or why not?**
+Honestly, only a couple of them. Most people drift apart once they move away for university or work, and that's pretty natural. The ones I've stayed close to are the kind you can pick straight back up with after months of silence. But with the rest, we'll just like a post now and then, and that's about it really.
+
+**Q2. How important is childhood friendship to children?**
+I'd say it's hugely important. Childhood friends are often where kids first learn to share, argue, and make up again. Since their parents aren't always around, those friendships teach them how to handle people on their own. For instance, sorting out a squabble over a toy is a tiny lesson in compromise that sticks with them.
+
+**Q3. What do you think of communicating via social media?**
+I'm pretty mixed on it, to be fair. On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. But on the other, people scroll endlessly and compare their lives to everyone else's highlight reel. So I reckon it's a great tool as long as you don't let it swallow your whole day.
+
+**Q4. Do you think online communication through social media will replace face-to-face communication?**
+I really don't think so. Social media's handy for quick chats, but it can't match sitting down with someone over coffee. You miss all the body language and little jokes that make a real bond. Honestly, after a long week online, most people still crave actually meeting up. So I'd say it'll complement face-to-face, not replace it.
+
+**Q5. What's the difference between having younger friends and older friends?**
+They're quite different, I reckon. With younger friends, you tend to feel a bit like a mentor, and their energy keeps you on your toes. Older friends, on the other hand, bring experience and calmer advice when you're stuck. To be fair, the best part is you learn something genuinely useful from both sides.
+
+**Q6. Has technology changed people's friendships? How?**
+Massively, yeah. We used to wait days for a letter, but now you can message a mate halfway across the world in seconds. That's brilliant for keeping bonds alive over distance. Having said that, it's also made friendships feel a bit shallower, since liking a photo somehow counts as staying in touch these days.
 
 ---
 

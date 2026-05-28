@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a new law you would like to introduce in your country
 > You should say: What law it is / What changes this law brings / Whether this new law will be popular / How you came up with the new law / And explain how you feel about this new law
-> **Persona**: speaker 提出法律 + wife (S3 公务员-城市管理) 作灵感来源 | **题型**: Hypothetical/Object | **Generated**: 2026-05-28 | static ✅ 163w | llm ✅ Band 7
+> **Persona**: speaker 提出法律 + wife (S3 公务员-城市管理) 作灵感来源 | **题型**: Hypothetical/Object | **Generated**: 2026-05-28 | static ✅ 163w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ So yeah, at the end of the day, I feel pretty strongly about it. Green spaces ar
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What rules should students follow at school?
-- Do people in your country usually obey the law?
-- What kinds of behavior are considered as good behavior?
-- Do you think children can learn about the law outside of school?
-- What are the benefits for people to obey rules?
-- How can parents teach children to obey rules?
+**Q1. What rules should students follow at school?**
+Well, I'd say the basics matter most — showing up on time, respecting teachers, and not disrupting the class for everyone else. Honestly, those rules aren't about control; they're about teaching kids to share a space fairly. For instance, putting your hand up before speaking just keeps things orderly so everybody gets a turn.
+
+**Q2. Do people in your country usually obey the law?**
+For the most part, yeah, I reckon they do. Most folk follow the everyday rules without even thinking — queuing properly, paying for things, stopping at red lights. I'd say it's partly habit and partly because nobody wants the hassle of getting caught. Having said that, you'll always find a few who cut corners when they think it's safe.
+
+**Q3. What kinds of behavior are considered as good behavior?**
+Honestly, I'd say it's mostly about how you treat other people — being polite, patient, and helping out when someone's stuck. It doesn't have to be dramatic. Even small gestures like holding a door or saying thanks count. To be fair, what's seen as good behaviour shifts a bit between cultures, but kindness is pretty universal.
+
+**Q4. Do you think children can learn about the law outside of school?**
+Definitely. I reckon a lot of it just sinks in from everyday life — watching parents pay taxes, seeing news about court cases, or noticing road signs. Kids pick up on those cues without realising it. Plus, families chat about what's fair and what's not, so the basic idea of rules forms pretty naturally at home.
+
+**Q5. What are the benefits for people to obey rules?**
+Well, the biggest one's predictability, I'd say. When everybody sticks to the same rules, life just runs smoother — you know roughly how others will act, so there's less friction. For instance, traffic only works because we all agree to stop and go. Plus, fair rules protect the weaker side from being pushed around.
+
+**Q6. How can parents teach children to obey rules?**
+I'd say the most powerful way is just modelling it themselves. Kids copy what they see, so if parents queue patiently and keep their word, that sinks in fast. Beyond that, explaining the why behind a rule helps a lot — when a child gets the reason, they're far more likely to follow it willingly.
 
 ---
 

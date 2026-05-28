@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a person who loves to grow plants (vegetables, flowers) at home or in the garden
 > You should say: Who this person is / What plants he/she grows / How he/she grows the plants / And explain why he/she loves growing plants
-> **Persona**: grandfather (外公，配角；童年带大) | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: grandfather (外公，配角；童年带大) | **题型**: Person | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ I reckon the reason he loves it so much is that it keeps him active and gives hi
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What are the advantages of growing vegetables or flowers at home?
-- Do many people grow vegetables or flowers at home in your country?
-- Is it easy to grow plants at home?
-- Why do some people like to grow plants?
-- Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?
-- Do you think students should learn to grow plants?
+**Q1. What are the advantages of growing vegetables or flowers at home?**
+Well, there's quite a few. The obvious one is you get fresh produce right outside your door, so it's cheaper and tastes better than shop-bought stuff. Plus, gardening's a lovely way to unwind after work — it's relaxing and keeps you moving. For me, growing your own food just feels more rewarding than grabbing it off a shelf.
+
+**Q2. Do many people grow vegetables or flowers at home in your country?**
+Honestly, more than you'd think, especially older folk. A lot of retired people in my country keep little pots of herbs or veggies on their balconies since they've got the time for it. Younger people are less into it, though, because flats are tiny and everyone's always busy. But it's definitely a popular hobby among the older generation.
+
+**Q3. Is it easy to grow plants at home?**
+It depends, really. Easy plants like spring onions or mint pretty much grow themselves, so beginners can manage fine. But anything fussier, like tomatoes, needs proper sunlight and regular watering, and it's easy to kill them off. I'd say the trick is starting small — once you've got the hang of it, the rest comes naturally.
+
+**Q4. Why do some people like to grow plants?**
+I reckon it's mostly about the sense of achievement. Watching a tiny seed turn into something you can actually eat is weirdly satisfying. It also gives people a calming little hobby that gets them off their screens. For older folk especially, it's a nice way to stay active and feel like they've got a real purpose each day.
+
+**Q5. Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?**
+Mainly trust, I'd say. When you grow your own, you know exactly what's gone into it — no dodgy pesticides or chemicals. It also tastes far fresher since you pick it the same day. And to be fair, there's a real pride in serving food you've grown yourself, which you just don't get from a supermarket.
+
+**Q6. Do you think students should learn to grow plants?**
+Definitely. I think it teaches kids patience, because plants don't grow overnight and you can't rush them. It also helps them understand where food actually comes from, instead of assuming it just appears in shops. For instance, a simple school garden could show them how much effort goes into one tomato. It's a proper life lesson.
 
 ---
 
