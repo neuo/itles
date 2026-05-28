@@ -47,7 +47,7 @@
 | 3 | 禁用手机的场合 | 京都寺庙 (S6 复用) | ✅ | p2_old_03_phone_not_allowed.md |
 | 4 | 给别人建议 | wife 工作压力 (S3) | ✅ | p2_old_04_gave_advice.md |
 | 5 | 想拥有的科技产品 | 相机拍 Muye (speaker 爱好) | ✅ | p2_old_05_tech_to_own.md |
-| 6 | 擅长做计划的人 | Person（zhangwei S9c）| ⬜ | — |
+| 6 | 擅长做计划的人 | zhangwei Notion (S9c) | ✅ | p2_old_06_good_planner.md |
 | **7** | **喜欢画画的孩子** | **Muye** | ✅ | p2_old_07_child_drawing.md |
 | 8 | App/程序 | Object | ⬜ | — |
 | 9 | 微笑的场合 | Event（wife/Muye）| ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：34 / 54（新题 27/27 + 老题 1,2,3,4,5,7,13）
-- **P2 待生成**：20（老题 6, 8-12, 14-27）
+- **P2 完成**：35 / 54（新题 27/27 + 老题 1,2,3,4,5,6,7,13）
+- **P2 待生成**：19（老题 8-12, 14-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
