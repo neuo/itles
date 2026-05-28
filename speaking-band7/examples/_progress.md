@@ -49,7 +49,7 @@
 | 5 | 想拥有的科技产品 | 相机拍 Muye (speaker 爱好) | ✅ | p2_old_05_tech_to_own.md |
 | 6 | 擅长做计划的人 | zhangwei Notion (S9c) | ✅ | p2_old_06_good_planner.md |
 | **7** | **喜欢画画的孩子** | **Muye** | ✅ | p2_old_07_child_drawing.md |
-| 8 | App/程序 | Object | ⬜ | — |
+| 8 | App/程序 | 阅读 app 看科幻 (speaker 爱好) | ✅ | p2_old_08_app_program.md |
 | 9 | 微笑的场合 | Event（wife/Muye）| ⬜ | — |
 | 10 | 为家人骄傲 | Person（wife/Muye）| ⬜ | — |
 | 11 | 对家庭重要的东西 | Object | ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：35 / 54（新题 27/27 + 老题 1,2,3,4,5,6,7,13）
-- **P2 待生成**：19（老题 8-12, 14-27）
+- **P2 完成**：36 / 54（新题 27/27 + 老题 1-8,13）
+- **P2 待生成**：18（老题 9-12, 14-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
