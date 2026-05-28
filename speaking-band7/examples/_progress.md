@@ -22,8 +22,8 @@
 | 10 | 近期改变的计划 | speaker 京都行取消 | ✅ | p2_new_10_changed_plan.md |
 | 11 | 在团队中工作 | speaker 工作团队 | ✅ | p2_new_11_group_work.md |
 | **12** | **重要决定** | **speaker** | ✅ | p2_new_12_important_decision.md |
-| 13 | 喜欢的现场体育赛事 | Event | ⬜ | — |
-| 14 | 特别场合的食物 | Event（wife 烘焙）| ⬜ | — |
+| 13 | 喜欢的现场体育赛事 | zhangwei CBA 球赛 | ✅ | p2_new_13_sports_event.md |
+| 14 | 特别场合的食物 | wife 生日蛋糕 (S2) | ✅ | p2_new_14_special_food.md |
 | 15 | 擅长学习和说语言的人 | Person | ⬜ | — |
 | 16 | 遇到的科技问题 | Event | ⬜ | — |
 | 17 | 名人出演的广告 | Event/Object | ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：14 / 54
-- **P2 待生成**：40
+- **P2 完成**：16 / 54
+- **P2 待生成**：38
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
