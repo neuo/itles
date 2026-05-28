@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an advertisement with a famous person in it
 > You should say: Who the person is / Where you can see it / What the advertisement is about / And explain how you feel about the advertisement
-> **Persona**: speaker（观众）| **题型**: Object/Event | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7
+> **Persona**: speaker（观众）| **题型**: Object/Event | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ Honestly, I quite like it. What I find appealing is that it doesn't just sell sh
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What are the advantages and disadvantages of advertisements?
-- Why are many advertisements endorsed by celebrities? How useful are they?
-- What is the most important factor in an advertisement?
-- Why are some advertisements boring?
-- Is advertising important for a company? Why?
-- Which is more effective, online advertising or offline advertising?
+**Q1. What are the advantages and disadvantages of advertisements?**
+Well, the big plus is that adverts keep us informed — they tell us what's out there and often flag good deals we'd otherwise miss. On the downside, though, they can be pushy and a bit manipulative, nudging people to buy stuff they don't really need. So honestly it's a mixed bag — handy when they're honest, annoying when they're not.
+
+**Q2. Why are many advertisements endorsed by celebrities? How useful are they?**
+I'd say it's because celebrities instantly grab your attention and lend a brand some trust. If someone you admire backs a product, you sort of assume it's decent. As for how useful, it really depends — they work well for image and awareness, but if the star has nothing to do with the product, people see through it and it falls flat.
+
+**Q3. What is the most important factor in an advertisement?**
+For me, it's how memorable an advert is. You can have a clever idea, but if nobody recalls it afterwards, it's basically wasted money. A catchy line or a striking image makes a brand stick in your head. To be fair, relevance matters too — it should actually speak to the people who'd buy the product.
+
+**Q4. Why are some advertisements boring?**
+Honestly, a lot of them are dull because they're so predictable — same script, same smiling faces, nothing fresh. When a brand plays it too safe, it just blends into the background and you tune it out. The boring ones usually push the product without telling any story, so there's nothing to make you stop and actually pay attention.
+
+**Q5. Is advertising important for a company? Why?**
+Absolutely, it's pretty essential. Even with a brilliant product, you won't get far if nobody's heard of you, so advertising builds awareness and pulls customers in. It also lets a company shape how people see them. Without it, you're basically relying on word of mouth, which is far too slow for any business hoping to grow.
+
+**Q6. Which is more effective, online advertising or offline advertising?**
+I reckon online's more effective these days, mainly because it's cheaper and you can target the exact people you want. Plus you get instant feedback on what's working. Having said that, offline ads like billboards still reach folk who aren't glued to screens, so the smartest brands tend to mix both rather than betting on one.
 
 ---
 

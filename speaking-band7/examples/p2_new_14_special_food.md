@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a food that people eat on special occasions/events
 > You should say: What it is / What the special event/occasion is / How it is cooked/made / And explain why people eat it on that special occasion/event
-> **Persona**: S2 wife 烘焙（生日蛋糕）| **题型**: Object/Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7
+> **Persona**: S2 wife 烘焙（生日蛋糕）| **题型**: Object/Event | **Generated**: 2026-05-28 | static ✅ 168w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,12 +18,25 @@ I reckon people make cakes like this because it turns an ordinary day into somet
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- Why are there special foods on special occasions or events?
-- What are the differences between everyday food and festival food?
-- Are there any differences between the food people eat today and the food people ate in the past?
-- Do people today prefer eating at home or in a restaurant?
+**Q1. Why are there special foods on special occasions or events?**
+Well, I'd say it's mostly about meaning. Special foods aren't really about the taste — they carry memories and a sense of tradition, so they make an occasion feel different from an ordinary day. For instance, a birthday cake instantly signals celebration. Plus, sharing a special dish is a lovely way to bring everyone together.
+
+**Q2. What are the differences between everyday food and festival food?**
+Quite a few, honestly. Everyday food is mostly about being quick and filling, so people don't fuss over it much. Festival food, though, tends to be richer and more elaborate, and it's often tied to a recipe that's been passed down. We'll happily spend hours cooking it, whereas a weekday dinner is just thrown together in minutes.
+
+**Q3. Are there any differences between the food people eat today and the food people ate in the past?**
+Definitely. In the past, people mostly ate what was local and in season, since they couldn't really get much else. Now, though, we've got food from all over the world on our doorstep, so diets are far more varied. Having said that, a lot of folk reckon modern food is more processed and less wholesome than before.
+
+**Q4. Do people today prefer eating at home or in a restaurant?**
+It really depends on the person, but I'd say eating out has become a lot more popular lately. After a long day, people are often too worn out to cook, so a restaurant feels like a treat. That said, plenty still prefer home cooking because it's cheaper and they know exactly what goes into the meal.
+
+**Q5. Do you think traditional festival foods will disappear in the future?**
+I doubt they'll vanish completely, but they might fade a bit. Younger folk are busier and often can't be bothered with long, fiddly recipes, so some traditional dishes could get forgotten. Still, festivals carry strong emotional weight, so families tend to keep the key foods alive even if they simplify them or just buy them ready-made.
+
+**Q6. Why do many young people prefer fast food over traditional dishes?**
+Mostly convenience, I reckon. Young people lead hectic lives, so fast food is appealing — it's cheap, quick, and there's no washing up afterwards. Traditional dishes, by contrast, take ages to prepare. Plus, fast food is heavily marketed and tastes pretty addictive, so it's an easy habit to slip into when you're rushed.
 
 ---
 
