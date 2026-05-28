@@ -19,8 +19,8 @@
 | 7 | 发小 | 童年邻居 Liang (新配角) | ✅ | p2_new_07_childhood_friend.md |
 | 8 | 想从事医疗行业的人 | 表妹 Lin (新配角) | ✅ | p2_new_08_medical_career.md |
 | 9 | 拥有成功商业的人 | 前同事 Chen 咖啡馆 (新配角) | ✅ | p2_new_09_successful_business.md |
-| 10 | 近期改变的计划 | Event/decision（speaker）| ⬜ | — |
-| 11 | 在团队中工作 | Event（wife 团队）| ⬜ | — |
+| 10 | 近期改变的计划 | speaker 京都行取消 | ✅ | p2_new_10_changed_plan.md |
+| 11 | 在团队中工作 | speaker 工作团队 | ✅ | p2_new_11_group_work.md |
 | **12** | **重要决定** | **speaker** | ✅ | p2_new_12_important_decision.md |
 | 13 | 喜欢的现场体育赛事 | Event | ⬜ | — |
 | 14 | 特别场合的食物 | Event（wife 烘焙）| ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：12 / 54
-- **P2 待生成**：42
+- **P2 完成**：14 / 54
+- **P2 待生成**：40
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
