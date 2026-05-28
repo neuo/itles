@@ -17,8 +17,8 @@
 | 5 | 喜欢在家/花园种菜的人 | 外公 种菜 (新配角) | ✅ | p2_new_05_plant_grower.md |
 | 6 | 想颁布的新法律 | speaker 提议+wife 灵感 | ✅ | p2_new_06_new_law.md |
 | 7 | 发小 | 童年邻居 Liang (新配角) | ✅ | p2_new_07_childhood_friend.md |
-| 8 | 想从事医疗行业的人 | Person | ⬜ | — |
-| 9 | 拥有成功商业的人 | Person（zhangwei?）| ⬜ | — |
+| 8 | 想从事医疗行业的人 | 表妹 Lin (新配角) | ✅ | p2_new_08_medical_career.md |
+| 9 | 拥有成功商业的人 | 前同事 Chen 咖啡馆 (新配角) | ✅ | p2_new_09_successful_business.md |
 | 10 | 近期改变的计划 | Event/decision（speaker）| ⬜ | — |
 | 11 | 在团队中工作 | Event（wife 团队）| ⬜ | — |
 | **12** | **重要决定** | **speaker** | ✅ | p2_new_12_important_decision.md |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：10 / 54
-- **P2 待生成**：44
+- **P2 完成**：12 / 54
+- **P2 待生成**：42
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
