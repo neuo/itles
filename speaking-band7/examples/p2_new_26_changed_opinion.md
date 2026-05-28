@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a time when you changed an important opinion of yours
 > You should say: When you changed your opinion / What the original opinion was / Why you changed it / And explain how you felt about the experience
-> **Persona**: speaker + Muye（育儿观念转变）| **题型**: Event/Opinion | **Generated**: 2026-05-28 | static ✅ 163w | llm ✅ Band 7
+> **Persona**: speaker + Muye（育儿观念转变）| **题型**: Event/Opinion | **Generated**: 2026-05-28 | static ✅ 163w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,12 +18,25 @@ To be honest, I felt a bit foolish for being so rigid before, but mostly relieve
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- When do most children begin to have their own opinions?
-- Whose opinions are more important to children, their parents' or teachers'?
-- Do children communicate more with teachers or with parents?
-- Who do young people like to share opinions with?
+**Q1. When do most children begin to have their own opinions?**
+I'd say it kicks in surprisingly early, maybe around three or four. That's when kids start saying no and picking their own clothes or snacks. Before that, they mostly copy whatever adults do. But once they hit school and mix with others, their views get sharper and they're far keener to argue their corner.
+
+**Q2. Whose opinions are more important to children, their parents' or teachers'?**
+Honestly, it shifts with age. When they're little, parents' opinions matter most, since kids basically see them as their whole world. But once they're teenagers, teachers often carry more weight, especially on study or career choices. I reckon the smart move is for both sides to stay roughly on the same page, so the kid isn't pulled apart.
+
+**Q3. Do children communicate more with teachers or with parents?**
+It really depends on the kid, but I'd lean towards parents for most. They're there every single day, so children naturally open up to them about little worries. Teachers tend to get the school-related stuff. That said, some shy kids actually find a teacher easier to talk to, especially if home feels a bit tense or strict.
+
+**Q4. Who do young people like to share opinions with?**
+Mostly their close friends, I'd say. Young people feel judged by adults, so they'd rather vent to mates who just get it. Social media plays a huge part too, since they can post a quick view and get instant reactions. But for the really big stuff, a lot of them still quietly turn back to family.
+
+**Q5. Why do people sometimes change their important opinions?**
+Usually because real life proves them wrong, I reckon. You can cling to a belief for years, then one experience just flips it overnight. Meeting different people does it too, since you suddenly see a side you'd never considered. Honestly, the ones who never budge a bit tend to come across as pretty stubborn and closed-minded.
+
+**Q6. Is it easy for people to change their minds once they're adults?**
+Not really, it gets harder as you age. By then you've built solid habits and you're pretty attached to your views, so admitting you're wrong feels almost embarrassing. Kids change their minds in a heartbeat, but grown-ups dig in. Having said that, a genuine shock, like losing a job, can still shake even the most fixed person loose.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe a perfect job you would like to have in the future
 > You should say: What it is / How you knew it / What you need to learn to get this job / And explain why you think it is a perfect job for you
-> **Persona**: speaker（career 题路由）| **题型**: Object/Job | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7
+> **Persona**: speaker（career 题路由）| **题型**: Object/Job | **Generated**: 2026-05-28 | static ✅ 170w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,14 +18,25 @@ The reason it'd be perfect comes down to who I am. I'm curious by nature, and I 
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- What kind of job can be called a 'dream job'?
-- What jobs do children want to do when they grow up?
-- Do people's ideal jobs change as they grow up?
-- What should people consider when choosing jobs?
-- Is salary the main reason why people choose a certain job?
-- What kind of jobs are the most popular in your country?
+**Q1. What kind of job can be called a 'dream job'?**
+Honestly, I'd say a dream job isn't about money or status — it's work you'd happily do even on a rough day. For me, it's something meaningful that gives you freedom to make your own calls. If you wake up curious rather than dreading the office, that's a pretty solid sign you've actually found it.
+
+**Q2. What jobs do children want to do when they grow up?**
+Mostly the glamorous, visible ones, I reckon. Loads of kids want to be astronauts, doctors, or footballers because that's what they see on telly and in films. They're drawn to the excitement rather than the daily grind. It makes sense — at that age you don't really grasp what a job involves, so you pick whatever looks coolest.
+
+**Q3. Do people's ideal jobs change as they grow up?**
+Absolutely, they shift quite a lot. As a kid you chase whatever sounds exciting, but once you're older you start weighing money, stability, and how a job fits your lifestyle. Experience changes you too — you figure out what you're actually good at. So it'd be odd if your ideal job stayed exactly the same forever.
+
+**Q4. What should people consider when choosing jobs?**
+A few key things, I'd say. Pay matters, obviously, but you should also weigh whether the work suits your personality and leaves room for a life outside it. Job security counts too. Honestly, the smartest move is picking something you won't burn out on, because a fat salary means little if you dread every Monday morning.
+
+**Q5. Is salary the main reason why people choose a certain job?**
+For a lot of people, sure, it's a big factor — bills don't pay themselves, after all. But I wouldn't call it the main one. Plenty of folk happily take a pay cut for shorter hours or a job they genuinely enjoy. Honestly, once you earn enough to live on, things like respect and freedom often matter more.
+
+**Q6. What kind of jobs are the most popular in your country?**
+In China, government and civil-service posts are hugely sought after, mainly because they're stable and come with solid benefits. Tech roles are popular too, since they pay well, though the hours can be brutal. Honestly, a lot of it comes down to security — after the pandemic, people really started craving a steady, reliable paycheque.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Cue card**: Describe an environmental law you would like your country to introduce
 > You should say: What law it should be / Why people should follow the law / Whether the law will be popular / And explain how you feel about this law
-> **Persona**: speaker 提出法律 + wife (S3 公务员-城市管理) 作 light context（单次性塑料禁令——区别于新题6绿地/新题22垃圾分类）| **题型**: Hypothetical | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7
+> **Persona**: speaker 提出法律 + wife (S3 公务员-城市管理) 作 light context（单次性塑料禁令——区别于新题6绿地/新题22垃圾分类）| **题型**: Hypothetical | **Generated**: 2026-05-28 | static ✅ 169w | llm ✅ Band 7 | P3 ✅ 6/6
 
 ---
 
@@ -18,12 +18,25 @@ So yeah, at the end of the day, I feel strongly about this one. It's a small cha
 
 ---
 
-## P3 follow-ups（待 P2 全部完成后批量生成）
+## P3 follow-ups（答案）
 
-- How does technology affect the law?
-- What kinds of rules do schools in China have?
-- Will there be a law that is universally accepted?
-- What environmental laws does your country already have?
+**Q1. How does technology affect the law?**
+I'd say technology helps a lot, honestly. With cameras and sensors everywhere now, it's far easier to catch people breaking rules, like dumping rubbish or speeding. So enforcement gets cheaper and fairer. Plus, apps let ordinary folk report problems straight away. To be fair, though, it also raises tricky questions about privacy that lawmakers haven't sorted out yet.
+
+**Q2. What kinds of rules do schools in China have?**
+Well, Chinese schools tend to be pretty strict, I reckon. There's usually a dress code, fixed seating, and rules about phones being banned in class. Students also have set times for cleaning their own classrooms. Honestly, some of it feels a bit rigid, but I'd say it does teach discipline and keeps everyone on the same page.
+
+**Q3. Will there be a law that is universally accepted?**
+Honestly, I doubt it. People come from such different cultures and beliefs that you'll always find someone who disagrees, even with basic things like the death penalty. What's more, what feels fair in one country might seem harsh somewhere else. To be fair, though, certain rules, like banning slavery, do come pretty close to being accepted everywhere.
+
+**Q4. What environmental laws does your country already have?**
+Quite a few, actually. China's got fairly tough air-quality laws now, so factories face limits on emissions, and a lot of cities run waste-sorting schemes where you separate your rubbish. There's also a push on protecting rivers and forests. I'd say enforcement varies from place to place, but overall the rules have definitely tightened up over recent years.
+
+**Q5. Whose responsibility is it to protect the environment — governments or individuals?**
+Honestly, I'd say it's both. Governments have to set the big rules and fund clean energy, since individuals can't fix something this huge alone. But everyday choices matter too, like recycling or cutting back on driving. If we just leave it all to politicians, nothing really shifts. So I reckon real progress needs everyone pulling in the same direction.
+
+**Q6. Do you think people are willing to pay more for eco-friendly products?**
+It depends, really. Some people happily pay extra for eco-friendly products because it lines up with their values, especially younger shoppers. But for a lot of families on a tight budget, price wins every time, and that's totally understandable. So I'd say willingness is growing, but it won't take off properly until green options become genuinely affordable for everyone.
 
 ---
 
