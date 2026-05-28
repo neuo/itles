@@ -127,6 +127,24 @@ def load_answer(path: str | None) -> str:
     return sys.stdin.read()
 
 
+def extract_answer_section(text: str) -> str:
+    """If text is a full example file, extract only the answer body.
+
+    Looks for '## P2 答案' or '## P3 答案' header and returns content until
+    the next '---' divider or '## ' header. If no such header, returns text as-is
+    (assumes raw answer input, e.g. from stdin or temp file).
+    """
+    m = re.search(r"^##\s*P[23]\s*答案\s*$", text, flags=re.MULTILINE)
+    if not m:
+        return text  # raw answer, no wrapper
+    start = m.end()
+    rest = text[start:]
+    # cut at next '---' on its own line OR next '## ' header
+    cut = re.search(r"^\s*---\s*$|^##\s", rest, flags=re.MULTILINE)
+    body = rest[:cut.start()] if cut else rest
+    return body.strip()
+
+
 # ============================================================
 # 各规则 check 函数
 # ============================================================
@@ -268,6 +286,8 @@ def check_pro_traps(text: str) -> list[dict]:
 # ============================================================
 
 def check_all(text: str, answer_type: str) -> dict:
+    # If given a full example file, check only the answer body (not metadata/cue card/P3/验证记录)
+    text = extract_answer_section(text)
     violations: list[dict] = []
 
     violations.extend(check_word_count(text, answer_type))
