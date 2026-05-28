@@ -24,8 +24,8 @@
 | **12** | **重要决定** | **speaker** | ✅ | p2_new_12_important_decision.md |
 | 13 | 喜欢的现场体育赛事 | zhangwei CBA 球赛 | ✅ | p2_new_13_sports_event.md |
 | 14 | 特别场合的食物 | wife 生日蛋糕 (S2) | ✅ | p2_new_14_special_food.md |
-| 15 | 擅长学习和说语言的人 | Person | ⬜ | — |
-| 16 | 遇到的科技问题 | Event | ⬜ | — |
+| 15 | 擅长学习和说语言的人 | **wife 语言（复用，原 Lena 弃）** | ✅ | p2_new_15_language_learner.md |
+| 16 | 遇到的科技问题 | speaker 笔记本崩溃 | ✅ | p2_new_16_tech_problem.md |
 | 17 | 名人出演的广告 | Event/Object | ⬜ | — |
 | 18 | 推荐旅行过的地方 | Place（京都）| ⬜ | — |
 | 19 | 喜欢拜访但不想住的家 | Place（京都）| ⬜ | — |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：16 / 54
-- **P2 待生成**：38
+- **P2 完成**：18 / 54
+- **P2 待生成**：36
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
