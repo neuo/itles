@@ -51,7 +51,7 @@
 | **7** | **喜欢画画的孩子** | **Muye** | ✅ | p2_old_07_child_drawing.md |
 | 8 | App/程序 | 阅读 app 看科幻 (speaker 爱好) | ✅ | p2_old_08_app_program.md |
 | 9 | 微笑的场合 | Muye 幼儿园表演 + wife | ✅ | p2_old_09_smiling_occasion.md |
-| 10 | 为家人骄傲 | Person（wife/Muye）| ⬜ | — |
+| 10 | 为家人骄傲 | Muye 公园善举 (Person) | ✅ | p2_old_10_proud_of_family.md |
 | 11 | 对家庭重要的东西 | Object | ⬜ | — |
 | 12 | 自行车/摩托车/汽车旅行 | Event/Place | ⬜ | — |
 | **13** | **机智解决问题的人** | **zhangwei** | ✅ | p2_old_13_smart_problem_solver.md |
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：37 / 54（新题 27/27 + 老题 1-9,13）
-- **P2 待生成**：17（老题 10-12, 14-27）
+- **P2 完成**：38 / 54（新题 27/27 + 老题 1-10,13）
+- **P2 待生成**：16（老题 11-12, 14-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
