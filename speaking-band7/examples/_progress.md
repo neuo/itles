@@ -35,8 +35,8 @@
 | 23 | 很久没收到回复的信息 | Liang 重联系 (复用) | ✅ | p2_new_23_no_reply_message.md |
 | 24 | 长久目标/抱负 | speaker 独立研究梦 | ✅ | p2_new_24_long_term_goal.md |
 | 25 | 遇到困难终成功的人 | zhangwei 自学 ML (S9a 复用) | ✅ | p2_new_25_overcame_difficulty.md |
-| 26 | 改变重要想法 | Event/decision（speaker）| ⬜ | — |
-| 27 | 想要颁布的环保法律 | Object/hypo（wife）| ⬜ | — |
+| 26 | 改变重要想法 | speaker 育儿观+Muye (复用) | ✅ | p2_new_26_changed_opinion.md |
+| 27 | 想要颁布的环保法律 | speaker+wife 限塑令 (复用) | ✅ | p2_new_27_env_law_introduce.md |
 
 ## P2 老题（27 道）
 
@@ -74,8 +74,8 @@
 
 ## 进度统计
 
-- **P2 完成**：27 / 54
-- **P2 待生成**：27
+- **P2 完成**：29 / 54（🎉 新题 27/27 全部完成 + 老题 7,13）
+- **P2 待生成**：25（老题 1-6, 8-12, 14-27）
 - **P3 待生成**：54 题 × ~6 questions ≈ 324（P2 全部完成后）
 
 ---
