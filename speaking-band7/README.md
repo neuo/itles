@@ -54,10 +54,9 @@ tools/           ← orchestrator（静态检查 + LLM 检查 联合）
 
 ## 关联文件
 
-- [[t2-band7/]] — 写作 Band 7 系统（已成熟）
-- [[CLAUDE.md]] — 项目主旨
-- 旧材料（仅参考）：
-    - `speaking/ielts_p2p3_备考手册v7.md`（56 题完整范文，**水平 OK 但结构散乱**）
-    - `speaking/ielts_p2p3_泛化模板体系v6.md`（5 种题型骨架）
-    - `speaking/p2_my_path.md`（死机急救——核心思路融入 05_path）
-    - `speaking/coach/`（旧 error_log + inventory + sessions——4/27 + 4/29 历史保留）
+- [[../writing/t2-band7/]] — 写作 Band 7 系统（已成熟）
+- [[../plan/study_hub.md]] — 总入口（refresh session 第一站）
+- [[../plan/CLAUDE.md]] — 项目主旨
+- `speaking/coach/` — **当前状态文件**（error_log / inventory / sessions——active）
+- `speaking/_archive/` — 旧材料（v5/v6/v7 系列 + p2_my_path.md，2026-05-30 归档，仅参考）
+- `speaking-band7/_archive/` — 旧 log mirror（未启用版）

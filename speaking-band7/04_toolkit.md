@@ -27,20 +27,20 @@
 
 ---
 
-## 2. 万能起手句（P2 死机急救 — 继承 p2_my_path.md §3）
+## 2. 万能起手句（P2 死机急救 B2 解药）
 
 > 任何 P2 题都能套一个。**背到不假思索**。
 
 ```
 1. So, the [person / place / thing / event] I'd like to talk about is ___.
 
-2. The first [person / place / thing] that came to mind is ___.
+2. The one that immediately springs to mind is ___.
 
-3. Well, when I saw this card, I immediately thought of ___.
+3. I'd actually like to describe ___, because ___.
 
-4. I'd like to share a story about ___.
+4. Hmm, let me think... I'll go with ___, because it's ___.   ← 买时间款
 
-5. There's a [person / place / thing] I've been wanting to talk about — ___.
+5. There are a few I could pick, but I'll talk about ___.       ← 买时间款
 ```
 
 ### 用法纪律
@@ -48,12 +48,30 @@
 - 60 秒思考时 **不要 brainstorm 起手句**——直接套 1-5 之一
 - 这 5 句**背熟到秒出**
 - 起手后立刻接 "and..." 或 "she/he/it is..."，**不要再停顿**
+- **4 / 5 是合法的 P2 拖延语**（"Hmm, let me think" / "There are a few I could pick"）—— 考官不扣分（甚至是 fluency 加分项，证明你在自然思考）。死机时强行用，给自己 5 秒缓冲。
 
 ---
 
 ## 3. 中段过渡（B3 解药 — 卡顿时撑过 5 秒）
 
-> 第一段说完没话时，套以下"延伸三连"撑过空白。
+### 3a. 延伸三连（核心武器，按顺序连用撑 30-40 秒）
+
+> 第一段说完没话时，按顺序套这 3 句就能过去：
+
+```
+1. So basically, ___.        ← 概括前面，准备展开
+2. And the thing is, ___.    ← 引入一个原因/感受
+3. Honestly, ___.            ← 给个人评价
+```
+
+**例**（儿子画画说完第一段没话了）：
+> "So basically, he's really into drawing these days.
+> And the thing is, I never push him — he just picks up a pencil whenever he feels like it.
+> Honestly, that's what I love about it — it's completely his own thing."
+
+3 句话就过去了，可以接下一段。**不需要说得多深**，按顺序套就行。
+
+### 3b. 4 阶段梯度过渡（句间衔接）
 
 | 阶段 | 过渡句 |
 |------|--------|
@@ -64,23 +82,24 @@
 
 ### 用法纪律
 
-- 这些**不是必须用**——但 30% 概率会用到
-- **不要连续用 2 个**（"hmm, what else... oh and another thing..." 太啰嗦）
+- **延伸三连**是死机优先武器，比 3b 梯度更"无脑可调用"
+- 3b 不是必须——但 30% 概率会用到
+- **不要连续用 2 个 3b**（"hmm, what else... oh and another thing..." 太啰嗦）
 
 ---
 
 ## 4. 收尾句（B4 解药 — 时间快到 / 已说够）
 
 ```
-1. So yeah, that's the [person / place / event] I wanted to talk about.
+1. So yeah, that's [the person / the place / it] I wanted to talk about.
 
-2. So all in all, [Muye / Kyoto / ...] is really [important / memorable / amazing] to me.
+2. I guess that's why ___ really sticks with me.
 
-3. At the end of the day, this [experience / decision / place] taught me [...].
+3. Looking back, ___ was just a really [memorable / meaningful] [experience / person].
 
-4. So that's pretty much it — [...] is just one of those [things / people] I'll remember.
+4. So that's pretty much why I picked ___.
 
-5. And I'd love to [revisit / do it again / share more with...] sometime.
+5. And I think that's all I really wanted to say about ___.
 ```
 
 ### 用法纪律
@@ -88,6 +107,7 @@
 - 时间剩 10 秒 → 套一个
 - 时间剩 20 秒 → 不要收，继续展开
 - 不要用 "thank you" 收尾（不需要）
+- 听到考官说 "Thank you" 之前**不要主动结束**——但有这 5 句储备，时间快到时随时能切
 
 ---
 
@@ -237,8 +257,90 @@
 
 ---
 
+## 11. P2 实战协议 — 三阶训练 + 死机 3 秒清单
+
+> 这一节是**练 P2 的训练协议** + **考场死机自救流程**。所有 P2 训练必须走这个协议，不直接 cold production。
+
+### 11a. P2 死机的 4 个具体瓶颈
+
+| 瓶颈 | 表现 | 解药 |
+|------|------|------|
+| **B1 选题材** | cue card 念完一遍，脑子空白，不知道选什么例子 | [[personas.md]] 7 个万能 persona —— 预先选好 7 个能套大多数题的素材 |
+| **B2 起手句** | 知道要说什么但第一句崩，越想越说不出 | §2 的 5 个起手句 —— 任何题套一句进去就开机 |
+| **B3 中段空** | 第一段说完没话了，对着 cue card 第 2 个 bullet 干瞪 | §3a 的延伸三连 —— 3 句话撑 30-40 秒 |
+| **B4 收尾尬** | 时间没到不知道怎么继续，时间到了又突然停 | §4 的 5 个收尾句 —— 时间快到时随时能切 |
+
+**关键认知**：B1-B4 全都是**决策疲劳**问题，不是英语水平问题。把这些决策预先做完，认知带宽就够说英语本身了。
+
+### 11b. 三阶训练法（脚手架递减）
+
+类比写作 T2 的三阶法，逻辑同源。
+
+#### 阶段 A — Shadow & Tweak（脚手架最高）
+
+**目的**：把范文"咽下去"，建立"P2 是怎么说的"的肌肉记忆。**不强迫主动产出**。
+
+**流程**（每题 15 min）：
+1. 选 [[examples/]] 一题（按当周话题或 persona），朗读范文 1 遍
+2. 跟读 1 遍（看着原文模仿语调）
+3. 合上原文，**看着 cue card 自己说一遍**——允许慢、允许打磕巴、允许停顿
+4. 不要对比、不要纠错——这阶段就是为了**建立"我刚才说出来了"的成功体验**
+
+**进入阶段 B 的标准**：连续 **5 题**能完成第 3 步（不管说得怎么样，能撑到尾），不再空白死机。
+
+#### 阶段 B — 骨架填充（脚手架中等）
+
+**目的**：拿掉范文这个拐杖，但保留 §2/§3a/§4 toolkit + 题型骨架。
+
+**流程**（每题 20 min）：
+1. 教练给一道**没听过的题** + cue card
+2. 按 [[personas.md]] 选 persona（30 秒），按 §2 起手，按 [[03_question_types.md]] 对应题型的 4 段骨架展开
+3. 1 min prep（只想"哪个 persona + 1 个具体细节"，不要写句子）
+4. 开口说 1-2 分钟
+5. 反馈：起手是否用了 §2 / 中段是否用了 §3a 延伸三连 / 收尾是否用了 §4 / 4 bullet 触达数 / 时长
+
+**进入阶段 C 的标准**：连续 **3 题** ≥ 90 秒 + 4/4 bullets 触及 + 起手/延伸/收尾 3 个工具全用上。
+
+#### 阶段 C — Cold Production（无脚手架，模考态）
+
+**目的**：完全模拟考试。
+
+**流程**：speaking-coach 的 cold production 模式（Mode 1），但 P2 specific。完整 8 维诊断。
+
+**进入考试的标准**：3 次 cold，2 次能撑 ≥ 100 秒 + 无死机停顿（> 3 秒空白）。
+
+### 11c. P2 死机现场的 3 秒清单（考场上唯一需要的东西）
+
+cue card 念完那一刻，**按顺序问自己**：
+
+```
+1. 7 个 persona 哪个能套？ → 选一个
+2. 用哪个具体细节？        → 选一个细节（哪一年/哪一次/哪个场景）
+3. 哪句起手？              → 从 §2 选一句
+→ 开始说（剩下的 50 秒 prep 时间放松、深呼吸，不要再想内容）
+```
+
+中段没话时：用 §3a 延伸三连。
+时间快到时：用 §4 收尾句。
+
+**其他全部预先记到不假思索**。
+
+### 11d. 与 examples 的对照
+
+| 资料 | 在三阶训练中的角色 |
+|------|------------------|
+| [[examples/]] 54 道 P2 范文 | **阶段 A 的范文源**。按当周话题或 persona 挑 |
+| [[03_question_types.md]] | **阶段 B 的骨架源**。按题型（人/地/事/物）查 4 段骨架 |
+| [[question-bank-raw.md]] | **阶段 B-C 的题库源**。选没准备过的题 |
+| [[personas.md]] | 7 个 persona 的 9 个 S 存货详细库 |
+| `speaking/coach/` | error_log / inventory / sessions —— 三阶训练的反馈记录在这里 |
+
+---
+
 ## 关联
 
 - [[02_band7_target.md]] — 14 项自查清单
 - [[03_question_types.md]] — P2 4 类 + P3 5 类骨架
+- [[05_path.md]] — 3 周训练路径
+- [[personas.md]] — 7 个 persona 详细库
 - [[log/active_phrases.md]] — Phrase 池

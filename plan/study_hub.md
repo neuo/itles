@@ -1,44 +1,63 @@
 # 学习总入口（Writing + Speaking 协调）
 
 > 用途：每天打开这里 → 看"现在练什么" → 跳到对应训练文档 / 触发对应教练。
-> **"今天第几天 / 今日具体任务"** 看 `plan/daily_log.md`（权威，按实际进度顺延）+ `plan/calendar.md`（周计划参考）。
+> **新 session 进场只需说一句："继续学习"**。
+
+---
+
+## 🚦 当前进度（教练每次 session 后更新）
+
+```
+今天 = 2026-05-30 (Sat)
+口语：浸泡日 D1/2 — 读 01/02 + 04 §1-§5（speaking-band7/05_path.md "浸泡日"）
+写作：T2 W2 Day 6 — 周复盘 + Example 01/02 错误段重写（writing/t2-band7/05_path.md）
+听力：维持（做题报分 + 数字 5min）
+
+下一步：
+- 口语 5/31 浸泡 D2：04 §6-§11 + personas + 03_question_types
+- 6/1 起 Speaking W1 阶段 A 开始抽 examples 朗读
+- 写作 5/31 = T2 W3 准备（Example 05 起步）
+```
 
 ---
 
 ## 🚀 新 session 快速开始
 
-**开场只需说一句："继续学习"**（或"今天学什么"）。
-我会自动：① 读 `plan/daily_log.md` 尾部找到上次停在哪 → ② 读本文件确认练什么类别 → ③ 给你今日行动清单 + 直接开练。
+**开场只需说一句："继续学习"**。
+我会：① 读上面"当前进度" → ② 给今日行动清单 → ③ 直接开练（或继续浸泡）。
 
-**▶ 下次继续（停在 2026-05-28）**：
-- 口语 P2 阶段1→2：先做巩固题 `Chengdu's a great place to live — like ___`（练 `…, like ___` 展开反射，例子要对得上陈述）→ 再用 1-2 个熟 persona（wife / 京都）走「骨架 + 自产内容 + 每句 like 展开」全流程，目标 90s+ / 4 bullets。
-- 写作：按 `writing/t2-band7/05_path.md` 当前周推进（如本日历轮到写作块）。
-
----
-
-## 当前阶段（更新 2026-05-28）
-
-- 距首考（6 月）约 **4 周**，处于 calendar 的 **Week 8–10 输出冲刺期**。
-- 重点：**输出 = 写作 T2 + 口语 P2/P3**；听力转为维持（做题报分 + 到期跟读 D+1/D+7）。
-- 口语 P2 当前模式：**阶段1 Shadow & Tweak → 阶段2 骨架填充**（见 `speaking/p2_my_path.md`），2026-05-28 起步。
-- 核心原则：所有输出训练从**高脚手架渐进**，不直接 cold production（P3 除外）。
+**进场防跑偏的 3 个动作**：
+1. 看本文件"当前进度"块 —— 5 行内知道在哪一步
+2. 不直接抽题 —— 先确认是浸泡日还是练习日
+3. 练习日按各 path 的 "今天" 行执行，不自由发挥
 
 ---
 
-## SPEAKING
+## SPEAKING（一切以 `speaking-band7/` 为准）
 
 | 练什么 | 用哪个文档 | 怎么开始 |
 |--------|-----------|---------|
-| **P2**（死机急救 + 三阶） | `speaking/p2_my_path.md`（方法）+ `speaking-band7/examples/p2_*`（54 篇范文，按题号查） | 说"练 P2" → speaking-coach |
-| **P3**（讨论） | `speaking-band7/examples/` 每篇底部的 6 问答案（共 324 条） | "练 P3" → speaking-coach（cold） |
-| **P1** | `speaking/ielts_part1_keywords_v5.md`（188 题） | "练口语 / 来一题" → speaking-coach |
-| 状态追踪 | `speaking/coach/`（error_log / inventory / sessions） | 教练自动维护 |
+| **总入口** | [`speaking-band7/README.md`](../speaking-band7/README.md) | 先读 |
+| **现状 + 目标** | `speaking-band7/01_my_situation.md` + `02_band7_target.md` | 浸泡日 D1 |
+| **工具集**（衔接词/起手/延伸/收尾/Phrase/复杂句/**P2 实战协议**）| `speaking-band7/04_toolkit.md` | 浸泡日 D1-D2 必读 |
+| **题型骨架**（P2 4 类 / P3 5 类）| `speaking-band7/03_question_types.md` | 浸泡日 D2 |
+| **personas**（7 个，54 P2 都从这里取材）| `speaking-band7/personas.md` | 浸泡日 D2 必读 |
+| **3 周训练 path**（5/30 → 6/19）| `speaking-band7/05_path.md` | 每日 task 速查 |
+| **P1 题库**（188 题） | `speaking-band7/p1_question_bank.md` | random 抽题 |
+| **P2/P3 范文**（54 P2 + 324 P3）| `speaking-band7/examples/` | 阶段 A 朗读 / B 用作题源 |
+| **状态文件**（error_log / inventory / sessions）| `speaking/coach/` | 教练自动维护 |
 
-- **7 个 persona**（54 道 P2 都从这里取材）：wife / Muye / zhangwei / 外公 / Liang / 京都 / 成都（+ speaker 自己，仅决定/规划/职业题）。细节见 `speaking-band7/personas.md`。
+**触发教练**：
+- "练 P1" / "练口语" / "来一题" → speaking-coach（P1 cold drill）
+- "练 P2" → speaking-coach（按 05_path 当前阶段，A / B / C）
+- "练 P3" → speaking-coach（P3 cold drill）
+- "串模考" → speaking-coach（W3 mock mode）
+
+> **7 persona**（54 P2 取材来源）：wife（公务员 ⭐主角）/ Muye（5 岁儿子）/ zhangwei（同学）/ 外公 / Liang（发小）/ 京都（旅行）/ 成都（现居）+ speaker 自己（仅决定/规划/职业题）。
 
 ---
 
-## WRITING
+## WRITING（一切以 `writing/t2-band7/` 为准）
 
 | 练什么 | 用哪个文档 | 怎么开始 |
 |--------|-----------|---------|
@@ -50,9 +69,29 @@
 
 ---
 
-## 每天怎么配（4 周冲刺建议）
+## LISTENING（维持模式）
 
-1. **输出为主**：口语 1 块（推进 P2 三阶 / 或 P1+P3）+ 写作 1 块（T2 当周题型 / 或 T1 维持）。
-2. **听力维持**：S1/S2 做题报分 + 到期跟读复习（D+1 跟读 / D+7 加速）。
-3. **数字训练**：5 min/天（独立，见 `listening/number_drill.md`）。
-4. 具体顺序与"今天是第几天"以 `daily_log.md` 顺延为准——这里只协调"练什么类别"，不替代日历。
+- 做题报分 → 我写入 `listening/ielts_listening_tracker.md`（轻量记录模式）
+- 数字训练 5 min/天（独立，见 `listening/number_drill.md`）
+- D+1 跟读 / D+7 加速 复习按 tracker 提醒
+
+---
+
+## 每天怎么配（3 周冲刺，5/30 → 6/20）
+
+```
+口语 1 块（30-60 min，按 speaking-band7/05_path.md 当周）
++ 写作 1 块（按 writing/t2-band7/05_path.md 当周）
++ 听力 10-15 min（做题报分 + 数字 5min）
+```
+
+**优先级**：输出（口语 + 写作）> 听力维持。如果时间紧张，砍听力不砍输出。
+
+---
+
+## 已归档（参考保留，不再作为训练指引）
+
+- `speaking/_archive/` —— 旧 P1/P2/P3 范文、骨架、方法论 PDF/md（v5/v6/v7 系列 + p2_my_path.md）
+- `speaking-band7/_archive/` —— 旧 log mirror（errors.md / error_trace.md 未启用版）
+
+如需查考历史，去 `_archive/` 找；**当前训练不引用这些文件**。
