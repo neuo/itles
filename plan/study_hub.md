@@ -11,7 +11,7 @@
 今天 = 2026-05-30 (Sat)
 口语：浸泡日 D1/2 — 读 01/02 + 04 §1-§5（speaking-band7/05_path.md "浸泡日"）
 写作：T2 W2 Day 6 — 周复盘 + Example 01/02 错误段重写（writing/t2-band7/05_path.md）
-听力：维持（做题报分 + 数字 5min）
+听力：suzy 自己负责（不在教练 scope 内）
 
 下一步：
 - 口语 5/31 浸泡 D2：04 §6-§11 + personas + 03_question_types
@@ -69,23 +69,27 @@
 
 ---
 
-## LISTENING（维持模式）
+## LISTENING
 
-- 做题报分 → 我写入 `listening/ielts_listening_tracker.md`（轻量记录模式）
-- 数字训练 5 min/天（独立，见 `listening/number_drill.md`）
-- D+1 跟读 / D+7 加速 复习按 tracker 提醒
+suzy 自己负责（不在教练 scope 内）。如果需要写听力报分进 tracker，suzy 主动 ping。
 
 ---
 
 ## 每天怎么配（3 周冲刺，5/30 → 6/20）
 
+**W1 + W2（5/30 - 6/14）口语为主**：
 ```
-口语 1 块（30-60 min，按 speaking-band7/05_path.md 当周）
-+ 写作 1 块（按 writing/t2-band7/05_path.md 当周）
-+ 听力 10-15 min（做题报分 + 数字 5min）
+口语 60-75 min（按 speaking-band7/05_path.md 当周）
++ 写作 45-60 min（按 writing/t2-band7/05_path.md 当周）
 ```
+口语刚启动（浸泡 → 阶段 A → B → C），需要密集时间建反射。
 
-**优先级**：输出（口语 + 写作）> 听力维持。如果时间紧张，砍听力不砍输出。
+**W3（6/15 - 6/19）模考周，1:1**：
+```
+口语 60 min（串模考）
++ 写作 60 min（模考）
+```
+两科都进模考模式，时长等同。
 
 ---
 
