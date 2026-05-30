@@ -48,7 +48,7 @@
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：1 / 3（5/23 Day 7 v2 ✅；5/24 Day 9 v2 ✅；5/24 Drill #9 复发 2 处；5/26 Day 10 v1 踩 1 处；5/26 Day 11 v2 复发 5 处 🚨；**5/27 C-3 drill 复发 3 处** 🚨（connerstone/pullution/fuled）—— **drill 时没倒读 → 拼写通道关闭 → typo 涌现**。这正是 C-2 "倒读能力地图"的发现：词形错只能通过倒读抓。修复进展保持 1/3，等待 essay 中倒读流程实战验证）
+**修复进展**：**2 / 3**（5/23 Day 7 v2 ✅；5/24 Day 9 v2 ✅；5/24 Drill #9 复发 2 处；5/26 Day 10 v1 踩 1 处；5/26 Day 11 v2 复发 5 处 🚨；5/27 C-3 drill 复发 3 处 🚨（connerstone/pullution/fuled）—— drill 时没倒读 → 拼写通道关闭；**5/30 ex01-v3 Conclusion 错误段重写 ✅ 0 拼写错**（success→succeed + wilder→wider 双修对）—— 修复进展进 2/3。下次完整 essay 0 拼写错可正式毕业 🎓）
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -61,7 +61,7 @@
 **类别**：GRA
 **状态**：🚨 必修
 **修法**：v2 写完**每个名词指一下** "这是 singular concrete 还是 plural generic"
-**修复进展**：0 / 3
+**修复进展**：**1 / 3**（**5/30 ex01-v3 Conclusion 错误段重写 ✅**：`a job-related subject` → `career-related subjects` 修对——首次主动用复数表达 generic 概念，且 bonus：用 career 替代 job 避免段内重复。下次完整 essay 0 单复数错继续推进）
 
 ### W2-3 — Reduced relative L1 transfer 🚨 必修
 **首次出现**：2026-05-17（Body 1 + Body 2 都出现 = systemic）

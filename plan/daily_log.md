@@ -2076,6 +2076,32 @@ statutory, probationary, eligible, permitted, circumstances, commitments, subsid
   - §3a 延伸三连完整 → `So basically / And the thing is / Honestly`
   - §4 收尾 → `So that's pretty much why I picked ___`
 
+#### 中场 — 教练侧错误诊断（suzy 主动指出）
+- [x] **错误 1**：浸泡 D1 验收后教练主动说"5/30 收尾"——违反 CLAUDE.md "不主动建议收工" 规则
+- [x] **错误 2**：从 daily_log 5/28 partial 记录推断 "T2 也 OK"——没核查 t2-band7/log/sessions/
+- [x] **错误 3**：初次给 T2 verdict 时说"5/27-30 4 天空窗 + W2 验收未做"——实际 5/27 有 C-1/C-2/C-3 drill 活动（写在 errors.md 不在 sessions/），W2 验收已在 5/24+5/26 完成（9 错误毕业，超额 800%）
+- [x] **改正机制（写入 memory，强制约束）**：
+  - `feedback_no_premature_signoff.md`：3 条规则（不主动收工 / 进度按 sessions 文件核查 / path 验收清单是 hard check）
+  - `feedback_listening_out_of_scope.md`：suzy 自管听力，主动询问/规划 = 越权
+  - 更新 `project_p2_my_path.md` 反映 5/30 重构（旧 p2_my_path.md 已归档）
+
+#### 下下半场 — T2 W2 Day 6 错误段重写（path 5/30 任务）
+- [x] 教练扫 ex01-v2 + ex02-v2 + errors.md，挑出"未毕业错误密度最高的段落" = ex01-v2 Conclusion（60 词命中 4 处 W2-1/W2-2/冠词错）
+- [x] **suzy v3 重写**：4/4 全修对 + LR 升级（important → crucial）+ 0 新错
+  - W2-1 拼写：success/wilder 双修对 → 修复进展 1/3 → **2/3**（下次完整 essay 0 拼写错可毕业 🎓）
+  - W2-2 单复数：a job-related subject → career-related subjects → 修复进展 0/3 → **1/3**（首次主动用复数 generic）
+  - 冠词：A → An 修对（单点）
+- [x] errors.md W2-1 + W2-2 修复进展更新
+
+### W2 验收实状（教练修正后）
+
+| 项 | 要求 | 实际 |
+|----|------|------|
+| Example 03+04 v1+v2 | 4 篇 | ✅ 5/19-5/24 + 5/26 超前到 ex05 |
+| 14 项清单 v2 ≥13 | ≥13 | ✅ 5/24 ex04-v2 + 5/26 ex05-v2 双闭环 |
+| 至少 1 错误毕业 | ≥1 | ✅✅✅ 累计 9 个毕业 |
+| 5/30 错误段重写 | 选 1 段 | ✅ ex01-v3 Conclusion 4/4 修对 |
+
 ### 核心发现 / 反思
 
 **体系问题**：suzy 自己点出"一上来就让我练东京 / 跟写作 t2-band7 比起来缺入口浸泡步骤" —— 触发了今天的全盘重构。**判断完全正确**。新 path 的"浸泡 2 天 → 阶段 A/B/C"是抄写作 t2-band7 已验证的递减脚手架模式，不是另起炉灶。
@@ -2085,7 +2111,7 @@ statutory, probationary, eligible, permitted, circumstances, commitments, subsid
 **节奏**：suzy 自己说 W1+W2 口语多给时间，W3 1:1。已落地到 path + study_hub。
 
 ### 明天（5/31 Sun）继续
-1. **浸泡 D2**：读 `04_toolkit.md` §6-§11（升级词 / 复杂句 / Phrase / **§11 P2 实战协议**）+ `personas.md`（7 个 persona 9 个 S 存货）+ `03_question_types.md`（P2 4 类 + P3 5 类骨架）
+1. **口语浸泡 D2**：读 `04_toolkit.md` §6-§11（升级词 / 复杂句 / Phrase / **§11 P2 实战协议**）+ `personas.md`（7 个 persona 9 个 S 存货）+ `03_question_types.md`（P2 4 类 + P3 5 类骨架）
 2. **D2 验收**：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
-3. **写作**：T2 W3 准备（Example 05 起步，见 `writing/t2-band7/05_path.md`）
+3. **写作**：T2 path 5/31 = 休息日（5/26 已超前到 ex05，6/1 起 W3 骨架填充）
 4. 新 session 开场：打开 `plan/study_hub.md` → 说"继续学习"

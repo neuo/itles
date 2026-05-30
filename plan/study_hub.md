@@ -10,14 +10,17 @@
 ```
 今天 = 2026-05-30 (Sat)
 口语：✅ 浸泡 D1 通过（5 起手 / 延伸三连 / 5 收尾 验收 3/3）
-写作：T2 W2 Day 6（待 suzy 推进 — 周复盘 + Example 01/02 错误段重写）
+写作：✅ T2 W2 Day 6 完成（ex01-v3 Conclusion 重写 4/4 修对 + LR 升级 important→crucial）
+       W2 验收全部满足（03+04 v1+v2 ✓ / 14 项 ≥13 ✓ / 9 错误已毕业 ✓）
+       W2-1 拼写 修复进展 1/3 → 2/3（再 1 次即毕业 🎓）
+       W2-2 单复数 修复进展 0/3 → 1/3
 
 下一步（5/31 Sun）：
 - 口语浸泡 D2：读 04 §6-§11（升级词 / 复杂句 / Phrase / §11 P2 实战协议）
                 + personas.md（7 个 persona 9 个 S 存货）
                 + 03_question_types.md（P2 4 类 + P3 5 类骨架）
                 验收：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
-- 写作：T2 W3 准备（Example 05 起步，见 t2-band7/05_path.md）
+- 写作：T2 path 5/31 = 休息日（5/26 已超前到 ex05，W3 6/1 起骨架填充）
 
 W1 阶段 A 起点：6/1 Mon — example p2_old_07_child_drawing（Muye）
 ```
