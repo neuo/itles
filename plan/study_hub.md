@@ -9,14 +9,17 @@
 
 ```
 今天 = 2026-05-30 (Sat)
-口语：浸泡日 D1/2 — 读 01/02 + 04 §1-§5（speaking-band7/05_path.md "浸泡日"）
-写作：T2 W2 Day 6 — 周复盘 + Example 01/02 错误段重写（writing/t2-band7/05_path.md）
-听力：suzy 自己负责（不在教练 scope 内）
+口语：✅ 浸泡 D1 通过（5 起手 / 延伸三连 / 5 收尾 验收 3/3）
+写作：T2 W2 Day 6（待 suzy 推进 — 周复盘 + Example 01/02 错误段重写）
 
-下一步：
-- 口语 5/31 浸泡 D2：04 §6-§11 + personas + 03_question_types
-- 6/1 起 Speaking W1 阶段 A 开始抽 examples 朗读
-- 写作 5/31 = T2 W3 准备（Example 05 起步）
+下一步（5/31 Sun）：
+- 口语浸泡 D2：读 04 §6-§11（升级词 / 复杂句 / Phrase / §11 P2 实战协议）
+                + personas.md（7 个 persona 9 个 S 存货）
+                + 03_question_types.md（P2 4 类 + P3 5 类骨架）
+                验收：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
+- 写作：T2 W3 准备（Example 05 起步，见 t2-band7/05_path.md）
+
+W1 阶段 A 起点：6/1 Mon — example p2_old_07_child_drawing（Muye）
 ```
 
 ---

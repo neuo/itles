@@ -2048,3 +2048,44 @@ statutory, probationary, eligible, permitted, circumstances, commitments, subsid
 1. 巩固 `…, like ___`：先做 Chengdu 巩固题（例子要对得上陈述）
 2. P2 阶段1→2：用 1-2 个熟 persona 走「骨架+自产+每句 like 展开」全流程，目标 90s+ / 4 bullets
 3. 新 session 开场：打开 `plan/study_hub.md` → 说"继续学习"
+
+---
+
+# 5/30（周六）— Speaking 体系重构 + 浸泡 D1
+
+### 完成
+
+#### 上半场 — 体系收拢（重构日）
+- [x] **诊断老 speaking 系统的噪音**：新 `speaking-band7/`（5/28 build）与老 `speaking/`（v5/v6/v7 系列）并行，多个目录重复管理 toolkit / path / 状态，新 session 进场容易跑偏到旧资料
+- [x] **归档**：7 个老资料挪到 `speaking/_archive/`（v5 P1 范文/骨架、v6 P2 模板、v7 P2 手册、ielts_speaking_methods、p2_my_path）
+- [x] **迁移**：p2_my_path 的三阶训练 + 7 persona 自救 + 5 起手 + 延伸三连 + 5 收尾 → `speaking-band7/04_toolkit.md`（§2/§3a/§4 合并 + 新增 §11 P2 实战协议）
+- [x] **P1 题库归位**：`speaking/ielts_part1_keywords_v5.md` → `speaking-band7/p1_question_bank.md`（新目录覆盖 P1+P2+P3 完整入口）
+- [x] **状态文件唯一化**：保留 `speaking/coach/`（14 sessions 历史），归档 `speaking-band7/log/` 空 mirror，留 active_phrases 作 T2 共享池
+- [x] **重写 `speaking-band7/05_path.md`**：3 周整合 path（5/30 浸泡 → 6/1 W1 阶段 A → 6/8 W2 B/C → 6/15 W3 串模考），与 T2 W3/W4/W5 周对齐
+- [x] **重写 `plan/study_hub.md`**：顶部加"当前进度"块（refresh session 5 行内定位），移除听力 scope，时长配比 W1+W2 口语 60-75 min / W3 1:1
+- [x] **更新 `.claude/skills/speaking-coach/SKILL.md`**：全部硬引用迁移到新路径 + 加前置规则"先读 study_hub 当前进度"
+- [x] **加 ielts_master_plan_v3.md deprecation banner**：指向 study_hub 作为当前权威 path
+- [x] **子 agent 测试** fresh session 进场 + "开始今天任务"：3/3 检查项通过（读 study_hub / 识别浸泡 D1 / 不抽题 / 不引用归档），结构 anti-跑偏机制有效
+
+#### 下半场 — 浸泡 D1（输入日，纪律=不产出）
+- [x] 读 `speaking-band7/01_my_situation.md`（现状诊断）
+- [x] 读 `speaking-band7/02_band7_target.md`（Band 7 评分细则 + 14 项自查清单）
+- [x] 读 `speaking-band7/04_toolkit.md` §1-§5（衔接词 / 起手 / 延伸三连 / 收尾 / 题型 opener）
+- [x] **口头复述验收 3/3 ✅**：
+  - §2 起手"买时间款" → `Hmm, let me think... I'll go with ___, because it's ___`
+  - §3a 延伸三连完整 → `So basically / And the thing is / Honestly`
+  - §4 收尾 → `So that's pretty much why I picked ___`
+
+### 核心发现 / 反思
+
+**体系问题**：suzy 自己点出"一上来就让我练东京 / 跟写作 t2-band7 比起来缺入口浸泡步骤" —— 触发了今天的全盘重构。**判断完全正确**。新 path 的"浸泡 2 天 → 阶段 A/B/C"是抄写作 t2-band7 已验证的递减脚手架模式，不是另起炉灶。
+
+**测试驱动**：子 agent fresh-session 测试是这次重构能"放心走"的关键。agent 明确指出"study_hub 顶部'当前进度'块是这次没跑偏的唯一关键，删掉那 11 行就翻车" —— 这条机制必须每次 session 结束后教练手动维护。
+
+**节奏**：suzy 自己说 W1+W2 口语多给时间，W3 1:1。已落地到 path + study_hub。
+
+### 明天（5/31 Sun）继续
+1. **浸泡 D2**：读 `04_toolkit.md` §6-§11（升级词 / 复杂句 / Phrase / **§11 P2 实战协议**）+ `personas.md`（7 个 persona 9 个 S 存货）+ `03_question_types.md`（P2 4 类 + P3 5 类骨架）
+2. **D2 验收**：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
+3. **写作**：T2 W3 准备（Example 05 起步，见 `writing/t2-band7/05_path.md`）
+4. 新 session 开场：打开 `plan/study_hub.md` → 说"继续学习"
