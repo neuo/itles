@@ -44,11 +44,11 @@
 - "in ther wider lives" → "in their wider lives"
 - "for work is import" → "for work is important"
 **类别**：GRA（直接拉 0.5 档）
-**状态**：🚨 必修 → **降级"重点"（5/23 大幅改善）**
+**状态**：🎓 **毕业于 2026-05-30** —— 见底部已毕业区
 **修法**（5/20 改：撤销 Grammarly，改纯自检——CDI 考试无工具）：
 - 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词读**，强迫眼睛看每个词，不让大脑脑补
 - 脑里过"高频错词卡"：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
-**修复进展**：**2 / 3**（5/23 Day 7 v2 ✅；5/24 Day 9 v2 ✅；5/24 Drill #9 复发 2 处；5/26 Day 10 v1 踩 1 处；5/26 Day 11 v2 复发 5 处 🚨；5/27 C-3 drill 复发 3 处 🚨（connerstone/pullution/fuled）—— drill 时没倒读 → 拼写通道关闭；**5/30 ex01-v3 Conclusion 错误段重写 ✅ 0 拼写错**（success→succeed + wilder→wider 双修对）—— 修复进展进 2/3。下次完整 essay 0 拼写错可正式毕业 🎓）
+**修复进展**：🎓 **毕业**（5/30 连续 3 段 0 拼写错：ex01-v3 Conclusion + ex02-v3 Body 1 + ex02-v3 Body 2）—— 从 9 错/篇 的重灾区一路修到 0，T2 仿写以来第 5 个毕业的硬伤模式。**保留倒读自检习惯防回潮**。
 
 ### W2-2 — 单复数错 🚨 必修
 **首次出现**：2026-05-17（Example 01 v1）
@@ -61,7 +61,7 @@
 **类别**：GRA
 **状态**：🚨 必修
 **修法**：v2 写完**每个名词指一下** "这是 singular concrete 还是 plural generic"
-**修复进展**：**1 / 3**（**5/30 ex01-v3 Conclusion 错误段重写 ✅**：`a job-related subject` → `career-related subjects` 修对——首次主动用复数表达 generic 概念，且 bonus：用 career 替代 job 避免段内重复。下次完整 essay 0 单复数错继续推进）
+**修复进展**：**0 / 3（5/30 复发归零）**（5/30 ex01-v3 Conclusion ✅ `career-related subjects` 修对，进 1/3；但同日 ex02-v3 Body 2 cold 重写**复发 2 处**：`cats' preference` 应 preferences、`share daily lives` 漏 their → 归 0。**模式**：对照修复时能做对（注意力在单复数上），但 cold production 时该检查点掉出工作记忆。和 W2-1 拼写同源——独立注意力通道，cold 时需要专门的"名词扫描"步骤）
 
 ### W2-3 — Reduced relative L1 transfer 🚨 必修
 **首次出现**：2026-05-17（Body 1 + Body 2 都出现 = systemic）
@@ -318,6 +318,23 @@
 5. **核心洞察**：v1→v2 高度专注修 3 gap 时，拼写检查通道关闭，新拼写错涌现——这两个通道独立，不能用"修 gap"代替"自检"
 **修复进展**：1 / 3（5/27 C-1 W2-20 双词混淆 fill-in：**10/10 全对** ✅⭐⭐⭐——含元认知质疑 there is/are；5/27 C-2 倒读自检：**3/5 命中 ✅** 达标（model/capital/founded 抓到；almost/househoulds 漏）—— W2-20 修复机制建立："填空认知 + 倒读视觉" 双通道）
 
+### W2-22 — 副词/texture 系统性省略（cold production"骨架句"）🆕🚨 重点
+**首次系统识别**：2026-05-30（ex02-v3 Body 2 cold 重写，suzy 自标 4 处缺口）
+**出现次数**：4 处自标（漏 easily / comfortably / clearly 三个副词 + 不会加 `making X accessible` 补充分句）
+**示例错句**：
+- `friends can share daily lives` → `friends can **easily** share their daily lives`（漏副词）
+- `people can talk about...` → `people can **comfortably** talk about...`（漏副词）
+- `These examples demonstrate...` → `These examples **clearly** demonstrate...`（漏副词）
+- `lower the threshold for meeting people`（句子到此为止）→ `..., **making socialising far more accessible**`（不会加分词补充展开）
+**类别**：LR + FC（texture 缺失 = 干巴巴，Band 6→7 的质感分）
+**深层诊断**：cold production 时认知带宽只够搭 minimum viable sentence，没余量加 texture。**这是写作版的"一句话没了"** —— 与口语 P2 的句子展开 gap（`…, like ___` 反射）**同源**。Round 1 (Conclusion) 不踩这个、Round 2-3 cold 才踩 → 证明是**压力下检索失败**，不是不会（suzy 自己标注全部到位 = 知道好坏，只是没在压力下调出来）。
+**状态**：🚨 重点（新瓶颈层，cold production 才暴露）
+**修法**：
+1. **动词后扫副词位**：写完每句扫动词，问"这里要不要 easily / comfortably / clearly / actually"
+2. **bare claim 后加分词补充**：`making / allowing / enabling + ...` 是最便宜的展开器（suzy 已会 `enabling them to`，把它当默认工具）
+3. **跨技能联动**：和口语 `…, like [例子]` 是同一个动作 —— 说完/写完 bare claim 立刻问"能不能再加一层"
+**修复进展**：0 / 3（5/30 首次命名，等待后续 cold essay 中验证）
+
 ---
 
 ## 🆕 W2 错误层叠演化记录（5/23 加）
@@ -331,6 +348,7 @@
 | **W2 末期**（5/24 v2）| ✨ **全清零** | v2 = 14/14 Band 7.0；W2-12 🎓 毕业 | 三大新错（W2-17/18/19）一次 v2 全修对——layer-by-layer 推进的"对照修复"机制完全起效 |
 | **W3 初期**（5/26 v1）| **LR collocation 瓶颈层显形** | Day 10 v1 ≈ Band 6.5；W2-17/18 候选毕业 + W2-14 推进 2/3 | 新题型暴露：rising of / in pursuit of / produced cities / makes have / 中式直译 + frame mismatch —— **这是从 Band 6.5 → 7.0 的关键战场** |
 | **W3 中期**（5/26 v2）| **🎓 三大错误模式毕业 + W2-20 词形相近词辨义混淆新瓶颈** | Day 11 v2 ≈ Band 6.5-7.0；W2-17 + W2-18 + W2-14 🎓 毕业；累计 4 个 🎓；3/3 Phrase 全上线 | **LR collocation 完全修对 ⭐⭐⭐ 但 W2-1 升级为 W2-20**（model/almost/capital/founded/househoulds 5 处密集）—— 揭示**"修 3 gap"与"拼写自检"是独立注意力通道**，"修复清单"和"自检清单"不能合并执行 |
+| **W2 补练**（5/30 三段重写）| **🎓 W2-1 拼写毕业 + W2-22 texture 省略新瓶颈** | ex01-v3 Conclusion 4/4 修对 + ex02-v3 Body1/Body2 cold；W2-1 🎓（累计 5 个）；W2-2 cold 复发归 0 | **cold production 暴露 W2-22**（副词/texture 系统性省略 = 写作版"一句话没了"，与口语 P2 句子展开同源）+ 确认核心 gap = retrieval-under-pressure 非 knowledge（suzy cold 写完自标 gap 全到位）。L1 直译 idiom（put attention/voice tones）单点测试能产出、cold 时调出直翻版 |
 
 **核心规律**：上一层错修了，下一层错才显形——这是 layer-by-layer 推进的正常路径，不是退步。
 
@@ -416,6 +434,30 @@
 ---
 
 ## 已毕业错误 🎓
+
+### W2-1 — 拼写错误密度过高 🎓 毕业于 2026-05-30
+
+**首次出现**：2026-05-17（Example 01 v1，9 处：broder / variaty / ablities / developmenet / marjority / specially / ther / import / mean→漏 would）
+**出现次数峰值**：9 处/篇（重灾区，直接拉 0.5 档）
+
+**正确做法**：
+1. 写完做 `proofreading_routine.md` **遍 2**：手指点着**逐词倒读**，强迫眼睛看每个词，不让大脑脑补
+2. 高频错词卡：often / extent / decrease / digital / examples / rely / succeed / wider / This / fast food
+3. **倒读是唯一可靠抓手**——词形错只能靠倒读（顺读时大脑脑补正确拼写）
+
+**毕业 path**（5/30 连续 3 段 0 拼写错）：
+| 日期 | 事件 | 状态 |
+|------|------|------|
+| 5/23 | Day 7 v2 | ✅ |
+| 5/24 | Day 9 v2 | ✅ |
+| 5/26-27 | Day 11 v2 + C-3 drill | ❌ 复发（没倒读 → 通道关闭）|
+| 5/30 | ex01-v3 Conclusion 重写 | ✅ 0 错（success/wilder）|
+| 5/30 | ex02-v3 Body 1 重写 | ✅ 0 错（extent）|
+| 5/30 | ex02-v3 Body 2 cold | ✅ 0 错（geographic/threshold/component/demonstrate 全对）|
+
+**毕业意义**：从 9 错/篇 一路修到连续 3 段 0 错。**关键转折 = 倒读自检习惯固化**。注意 W2-20（词形相近词辨义）是 W2-1 的进化形态，仍活跃——拼写"漏字母"层毕业，但"近形词辨义"层继续盯。保留倒读习惯防回潮。
+
+---
 
 ### W2-17 — 主谓代一致 🎓 毕业于 2026-05-26
 

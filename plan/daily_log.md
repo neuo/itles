@@ -2102,6 +2102,33 @@ statutory, probationary, eligible, permitted, circumstances, commitments, subsid
 | 至少 1 错误毕业 | ≥1 | ✅✅✅ 累计 9 个毕业 |
 | 5/30 错误段重写 | 选 1 段 | ✅ ex01-v3 Conclusion 4/4 修对 |
 
+#### 加练 — T2 三段重写（suzy 主动 push"writing 练得不够 + Conclusion 让我重写我还是写不出来"）
+
+suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还是写不出来" —— 准确点出 **rewrite（改错）≠ cold production（从头写出）** 是两种能力。触发加练。
+
+- **Round 1 — ex01-v3 Conclusion**（对照修复）：4/4 修对（已记上方）
+- **Round 2 — ex02-v3 Body 1**（半对照，我标错她修）：5 处修对（to some extent / This shows / appear），但暴露 L1 直译习语 gap（put attention on / social awkward / voice tones）；后做单点 idiom drill 1-5 全对 → **修正诊断：不是习语库存不够，是 cold 时调出直翻版，单点低压能产出正确版** = retrieval-under-pressure
+- **Round 3 — ex02-v3 Body 2**（**cold 重写，30min，写完自标 gap**）⭐ 最高价值：
+  - 🎓 **W2-1 拼写毕业**（连续 3 段 0 拼写错，累计第 5 个毕业模式）
+  - 唯一硬伤：comma splice（教分号用法——suzy 自标"不会用分号"）
+  - 🆕 **W2-22 texture 系统性省略**：suzy 自标漏 easily/comfortably/clearly 三副词 + 不会加 `making X accessible` 补充分句 = **写作版"一句话没了"，与口语 P2 句子展开 gap 同源**
+  - W2-2 单复数 cold 复发归 0（cats' preference / share daily lives 漏 their）—— 对照修复能做对，cold 时检查点掉出工作记忆
+  - 两个 active phrase 都用上（break geographic barriers ✓ / are not mutually exclusive ✓）
+
+#### 🌟 今日最大发现（跨技能）
+
+**suzy 的核心 gap = retrieval-under-pressure，不是 knowledge gap。** 证据链：
+1. cold 写完能自标几乎所有 gap（知道好坏）
+2. 单点低压 idiom drill 1-5 全对（会产出正确版）
+3. 但 cold 整段时调出的是骨架句 + 直翻版（压力下检索失败）
+
+→ **修法不是"背更多"，是增加正确版本在压力下的检索成功率 = 多写 cold + 段落语境复用。** 这跟口语 P2 死机同源。
+
+**texture gap 跨技能同构**：
+- 口语："一句话没了" → `…, like [例子]`（句子展开反射）
+- 写作："干巴巴 + 没副词自觉" → `…, making [展开]` + 主动加副词
+- **同一根源**：cold production 认知带宽只够搭骨架。解药同构：bare claim 后立刻问"能不能再加一层"
+
 ### 核心发现 / 反思
 
 **体系问题**：suzy 自己点出"一上来就让我练东京 / 跟写作 t2-band7 比起来缺入口浸泡步骤" —— 触发了今天的全盘重构。**判断完全正确**。新 path 的"浸泡 2 天 → 阶段 A/B/C"是抄写作 t2-band7 已验证的递减脚手架模式，不是另起炉灶。

@@ -10,10 +10,13 @@
 ```
 今天 = 2026-05-30 (Sat)
 口语：✅ 浸泡 D1 通过（5 起手 / 延伸三连 / 5 收尾 验收 3/3）
-写作：✅ T2 W2 Day 6 完成（ex01-v3 Conclusion 重写 4/4 修对 + LR 升级 important→crucial）
-       W2 验收全部满足（03+04 v1+v2 ✓ / 14 项 ≥13 ✓ / 9 错误已毕业 ✓）
-       W2-1 拼写 修复进展 1/3 → 2/3（再 1 次即毕业 🎓）
-       W2-2 单复数 修复进展 0/3 → 1/3
+写作：✅ T2 大练一场（3 天空窗后补练，suzy 主动 push）—— 3 段重写
+       ① ex01-v3 Conclusion（对照修复）4/4 修对 + LR 升级 important→crucial
+       ② ex02-v3 Body 1（半对照）5 处修对
+       ③ ex02-v3 Body 2（cold 重写 30min + 自标 gap）—— 最高价值
+       🎓 W2-1 拼写毕业（连续 3 段 0 拼写错，累计第 5 个毕业模式）
+       🆕 W2-22 texture 省略（= 写作版"一句话没了"，与口语 P2 同源）
+       W2-2 单复数 cold 复发归 0；核心确认 = retrieval-under-pressure 非 knowledge gap
 
 下一步（5/31 Sun）：
 - 口语浸泡 D2：读 04 §6-§11（升级词 / 复杂句 / Phrase / §11 P2 实战协议）
