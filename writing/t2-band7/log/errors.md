@@ -333,7 +333,7 @@
 1. **动词后扫副词位**：写完每句扫动词，问"这里要不要 easily / comfortably / clearly / actually"
 2. **bare claim 后加分词补充**：`making / allowing / enabling + ...` 是最便宜的展开器（suzy 已会 `enabling them to`，把它当默认工具）
 3. **跨技能联动**：和口语 `…, like [例子]` 是同一个动作 —— 说完/写完 bare claim 立刻问"能不能再加一层"
-**修复进展**：0 / 3（5/30 首次命名，等待后续 cold essay 中验证）
+**修复进展**：0 / 3（5/30 首次命名 + 同日 texture drill：**机制已建立**——`making/enabling/helping + 分词补充` 5/5 能产出结构。但暴露**进阶逻辑层** 3 问题：① 方向反（原因用了结果式 making，应 `by doing`）② 同义重复（"cuts costs, saving expenditure" 白加）③ 跑题硬加。**进阶规则**：texture 必须 a) 加新信息不复述 b) 逻辑方向对——结果用 making/enabling，原因用 by doing，顺承不了就用 though 转折。下次 cold essay 验证逻辑层）
 
 ---
 

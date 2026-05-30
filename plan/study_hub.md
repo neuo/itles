@@ -24,8 +24,13 @@
                 + 03_question_types.md（P2 4 类 + P3 5 类骨架）
                 验收：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
 - 写作：T2 path 5/31 = 休息日（5/26 已超前到 ex05，W3 6/1 起骨架填充）
+  ⚠️ 若 suzy 想练写作：Round 5 候选 = ex02 Conclusion cold 重写（串今天所有点：
+     idiom + texture 逻辑方向 + 副词 + 分号 + 单复数扫描）。今天卡在 W2-22 逻辑层。
 
 W1 阶段 A 起点：6/1 Mon — example p2_old_07_child_drawing（Muye）
+
+📌 W2-22 texture 进阶规则（明天写作必盯）：texture 要 ① 加新信息不复述 ② 逻辑方向对
+   （结果→ making/enabling，原因→ by doing，顺承不了→ though 转折）
 ```
 
 ---

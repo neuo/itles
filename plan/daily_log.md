@@ -2114,6 +2114,10 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
   - 🆕 **W2-22 texture 系统性省略**：suzy 自标漏 easily/comfortably/clearly 三副词 + 不会加 `making X accessible` 补充分句 = **写作版"一句话没了"，与口语 P2 句子展开 gap 同源**
   - W2-2 单复数 cold 复发归 0（cats' preference / share daily lives 漏 their）—— 对照修复能做对，cold 时检查点掉出工作记忆
   - 两个 active phrase 都用上（break geographic barriers ✓ / are not mutually exclusive ✓）
+- **Round 4 — idiom 盲区清理 + texture drill**：
+  - Part A（#6-8 idiom）：🎉 #7 `waste time doing` + #8 `lack the ability` 一次就对（#7 与口语 spend a day teaching 同源，跨技能迁移成功）；剩 `more likely to be influenced` 漏 to be + `control self`→themselves
+  - Part B（texture drill 5 句）：**机制建立**（making/enabling/helping 分词补充 5/5 能产出）；但暴露 **W2-22 进阶逻辑层** 3 问题：方向反（原因用结果式）/ 同义重复（白加）/ 跑题硬加
+  - 进阶规则：texture 必须 ① 加新信息不复述 ② 逻辑方向对（结果 making / 原因 by doing / 顺承不了用 though）
 
 #### 🌟 今日最大发现（跨技能）
 
@@ -2140,5 +2144,9 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 ### 明天（5/31 Sun）继续
 1. **口语浸泡 D2**：读 `04_toolkit.md` §6-§11（升级词 / 复杂句 / Phrase / **§11 P2 实战协议**）+ `personas.md`（7 个 persona 9 个 S 存货）+ `03_question_types.md`（P2 4 类 + P3 5 类骨架）
 2. **D2 验收**：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
-3. **写作**：T2 path 5/31 = 休息日（5/26 已超前到 ex05，6/1 起 W3 骨架填充）
+3. **写作**：T2 path 5/31 = 休息日（5/26 已超前到 ex05，6/1 起 W3 骨架填充）。若想练 → Round 5 ex02 Conclusion cold 重写（串今天所有点 + 盯 W2-22 逻辑层）
 4. 新 session 开场：打开 `plan/study_hub.md` → 说"继续学习"
+
+---
+
+> **5/30 一句话总结**：体系重构（speaking 收拢 + 3 周 path 对齐）+ 浸泡 D1 通过 + T2 大练（W2-1 拼写毕业 🎓 + 发现 W2-22 texture gap 与口语 P2 同源）+ 教练侧 3 个错误纠正入 memory。**今日核心洞察：suzy 的 gap 是 retrieval-under-pressure，不是 knowledge——cold 多写是解药。**
