@@ -8,28 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-今天 = 2026-05-30 (Sat)
-口语：✅ 浸泡 D1 通过（5 起手 / 延伸三连 / 5 收尾 验收 3/3）
-写作：✅ T2 大练一场（3 天空窗后补练，suzy 主动 push）—— 3 段重写
-       ① ex01-v3 Conclusion（对照修复）4/4 修对 + LR 升级 important→crucial
-       ② ex02-v3 Body 1（半对照）5 处修对
-       ③ ex02-v3 Body 2（cold 重写 30min + 自标 gap）—— 最高价值
-       🎓 W2-1 拼写毕业（连续 3 段 0 拼写错，累计第 5 个毕业模式）
-       🆕 W2-22 texture 省略（= 写作版"一句话没了"，与口语 P2 同源）
-       W2-2 单复数 cold 复发归 0；核心确认 = retrieval-under-pressure 非 knowledge gap
+今天 = 2026-05-31 (Sun)
+口语：✅ 浸泡 D2 通过（persona 存货 ✓ / 人物题骨架 ✓ / 3 秒清单纠 1 处：prep 想"细节"非"延伸三连"）
+       —— 浸泡完成，6/1 起进 W1 阶段 A
+写作：进行中 — Round 5 ex02 Conclusion cold 重写（串 idiom + texture 逻辑 + 副词 + 分号 + 单复数）
 
-下一步（5/31 Sun）：
-- 口语浸泡 D2：读 04 §6-§11（升级词 / 复杂句 / Phrase / §11 P2 实战协议）
-                + personas.md（7 个 persona 9 个 S 存货）
-                + 03_question_types.md（P2 4 类 + P3 5 类骨架）
-                验收：能说出每个 persona 的 3 个核心 S + 4 类 P2 骨架对齐
-- 写作：T2 path 5/31 = 休息日（5/26 已超前到 ex05，W3 6/1 起骨架填充）
-  ⚠️ 若 suzy 想练写作：Round 5 候选 = ex02 Conclusion cold 重写（串今天所有点：
-     idiom + texture 逻辑方向 + 副词 + 分号 + 单复数扫描）。今天卡在 W2-22 逻辑层。
+下一步（6/1 Mon）：
+- 口语 W1 阶段 A 起步：example p2_old_07_child_drawing（Muye 画画）
+  流程：朗读范文 1 遍 → 跟读 1 遍 → 合上看 cue card 自产 → 不诊断只确认完成
+- 写作 T2 W3 起步：Example 05 (2-Pt) v1（见 t2-band7/05_path.md）
 
-W1 阶段 A 起点：6/1 Mon — example p2_old_07_child_drawing（Muye）
-
-📌 W2-22 texture 进阶规则（明天写作必盯）：texture 要 ① 加新信息不复述 ② 逻辑方向对
+📌 W2-22 texture 进阶规则（写作必盯）：texture 要 ① 加新信息不复述 ② 逻辑方向对
    （结果→ making/enabling，原因→ by doing，顺承不了→ though 转折）
 ```
 
