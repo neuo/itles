@@ -39,6 +39,33 @@
 
 ---
 
+## 🧭 方法论锚点（5/31 对齐,每次进场看一眼）
+
+**目标**:Band 6.5–7 @ 6/20。**不需要好词** —— 需要:不冻、能展开、简单词用准、少量自然表达。
+
+**两个 gap,打法不同**:
+- **① 内容(生成+展开)= 主战场(80% 精力)**。冻住=内容卡,直接崩 Fluency。是**方法**问题,3 周可练成反射。
+- **② 语言(主动表达)= 次要(20%)**。范围积累慢且不需要 —— 锁少量高频表达 + 敢用简单词顶上。
+
+**核心机制:把"考场生成"搬到"考前预载"**。考场只做 检索→组装→微调,不做生成。
+→ 所以**要背,但背素材不背成稿**:
+- ✅ 背:工具集骨架(起手/延伸三连/收尾)+ **自己的 persona 内容珠子**(见 [[coach/content_bank.md]])+ inventory 表达
+- ❌ 不背:整篇范文逐字 / 别人的故事 / 串好的完整答案
+
+**三层**:
+1. **素材层(背)**:content_bank 珠子 + 工具集 + inventory
+2. **方法层(练成反射)**:
+   - 生内容 = cue card 每个 bullet 当"关于我生活的小问题",答真实事实(不想发言)
+   - 展开 = 每句追问 `like what?` / `then what?` / `why?` → 1 句变 3 句
+3. **自动化层** = 阶段 A→B→C
+
+**三条执行约定(5/31 加)**:
+- **覆盖优先**:刻意跨题型选 persona(人/地/事/物/抽象),目标考前每个 persona exam-ready,来什么题都能套
+- **P2 + P3 配对练**:做完 P2 立刻接它底部的 6 个 P3(cold);贴合考场流程
+- **复习内置**:开场扫 content_bank 当天 persona 珠子(pre-retrieval)+ inventory 挑 1-2 个;~70% 复习已练 persona + 30% 新;drill 冒出的好珠子当场回填 content_bank
+
+---
+
 ## 设计原则（继承 T2）
 
 | 原则 | 含义 |
@@ -68,19 +95,25 @@
 
 **目标**：P2 阶段 A 毕业（5 题不死机 = 第 3 步看 cue card 自产完）。P1 graduate 2-3 个 inventory 表达。P3 每日 1 题 cold 接话。
 
-**每日时长**：口语 60-75 min（P2-A 一题 ~15 min + P1 random ×2 ~15 min + P3 cold ~15 min + 复盘/inventory 复检 ~15 min）。
+**每日时长**：口语 60-75 min。**每题 P2 + 配它的 6 个 P3(cold)** + P1 random ×2 + 复习开场。**覆盖优先:跨题型选 persona。**
 
-| 日期 | 口语任务（60-75 min）| P2 阶段 | 验收 |
-|------|---------------------|--------|------|
-| **6/1 Mon** | P2-A：example p2_old_07_child_drawing（Muye 画画）+ P1 random ×2 | A.1/5 | 第 3 步完成 Y/N |
-| **6/2 Tue** | P2-A：example p2_new_01_tall_building 或 p2_old_17（zhangwei/外公）+ P3 ×1 cold | A.2/5 | 第 3 步完成 Y/N |
-| **6/3 Wed** | P2-A：example p2_old_25_enjoyed_city（京都/重庆）+ P1 random ×2 | A.3/5 | 第 3 步完成 Y/N |
-| **6/4 Thu** | P2-A：example p2_old_19_helpful_person（wife）+ P3 ×1 cold | A.4/5 | 第 3 步完成 Y/N |
-| **6/5 Fri** | P2-A：example p2_old_01_perfect_job（wife/speaker）+ P1 random ×2 | A.5/5 | 第 3 步完成 Y/N |
-| **6/6 Sat** | **A 毕业检验** + 周复盘：扫 5 题 session，确认无死机 | → B | 全部 5 题第 3 步 Y → 进 B |
+| 日期 | P2 阶段 A（example）+ 紧接 6 P3 cold | 题型/persona | 验收 |
+|------|---------------------------------------|------------|------|
+| **6/1 Mon** | p2_old_07_child_drawing + 6 P3 | 人/创意 · Muye | A.1/5 + P3 接话 |
+| **6/2 Tue** | p2_old_25_enjoyed_city + 6 P3 | 地方 · 京都 | A.2/5 |
+| **6/3 Wed** | 决定/规划题（speaker 自己）+ 6 P3 | 抽象/决定 · speaker | A.3/5 |
+| **6/4 Thu** | p2_old_19_helpful_person 或 zhangwei 题 + 6 P3 | 人/朋友 · wife/zhangwei | A.4/5 |
+| **6/5 Fri** | 物品题（乐高/CSAPP）+ 6 P3 | 物 · Muye/speaker | A.5/5 |
+| **6/6 Sat** | **A 毕业检验** + 周复盘：扫 5 题 session 无死机 + content_bank 珠子盘点 | → B | 5 题第 3 步全 Y → 进 B |
 | **6/7 Sun** | 休息 / 弹性补练 | — | — |
 
-**阶段 A 流程**（每题 15 min）：朗读范文 1 遍 → 跟读 1 遍 → 合上原文看 cue card 自产 → 不诊断，只确认完成。
+> 5 天刻意覆盖 人/地/事/物/抽象 五类,每类一个 persona exam-ready。
+
+**每日流程**（~60-75 min）：
+1. **复习开场**(5 min)：扫 content_bank 当天 persona 珠子 + inventory 挑 1-2 个刻意用
+2. **P2 阶段 A**(15 min)：朗读范文 1 遍 → 跟读 1 遍(标"它怎么展开") → 合上看 cue card,用**小问题法**自产 → 不诊断只确认撑完 → **捕获新珠子回填 content_bank**
+3. **接 6 个 P3**(20 min)：直接答该 P2 题底部的 6 问,cold,练即时反应
+4. **P1 random ×2**(15 min)：cold,P1 = 连环小问题
 
 **W1 验收**：
 - ✅ A 阶段 5 题全部完成第 3 步（不管多卡）
