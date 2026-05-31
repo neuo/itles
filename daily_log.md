@@ -2150,3 +2150,34 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 ---
 
 > **5/30 一句话总结**：体系重构（speaking 收拢 + 3 周 path 对齐）+ 浸泡 D1 通过 + T2 大练（W2-1 拼写毕业 🎓 + 发现 W2-22 texture gap 与口语 P2 同源）+ 教练侧 3 个错误纠正入 memory。**今日核心洞察：suzy 的 gap 是 retrieval-under-pressure，不是 knowledge——cold 多写是解药。**
+
+---
+
+# 5/31（周日）— 浸泡 D2 通过 + 目录彻底收拢为两个
+
+### 完成
+
+#### 口语 — 浸泡 D2（输入日）
+- [x] 读 `speaking-band7/04_toolkit.md` §6-§11 + `personas.md` + `03_question_types.md`
+- [x] **D2 验收 2.5/3**：persona 存货 ✅ / 人物题骨架 ✅ / 3 秒清单 🟡 纠 1 处（prep 想"细节",延伸三连+收尾是开口后的现场工具,不在 prep 清单）
+- [x] 详见 `speaking-band7/coach/sessions/2026-05-31.md`
+- **浸泡完成,6/1 进 W1 阶段 A**
+
+#### 系统 — 彻底收拢为两个目录（suzy 要求"抛弃分散负载"）
+- [x] `writing/t2-band7/` → `writing-band7/`（上移）；T1 材料 → `writing-band7/t1/`；废弃 → `_archive/`
+- [x] `speaking/coach/` → `speaking-band7/coach/`；`speaking/_archive` 并入；`speaking/`+`writing/` 目录消解
+- [x] `study_hub.md` + `daily_log.md` 上移到仓库根级（跨学科协调）；旧 10 周计划 → `plan/_archive/`
+- [x] **CLAUDE.md 全量重写**：剔除听力 + 老材料 + practice-app 细节,只留两目录 + workflow + 教练纪律,防污染后续 session
+- [x] 全量更新引用：2 个 SKILL + study_hub + band7 docs 交叉链接 + 共享 phrase 池 + T1 文档 + memory 5 文件
+- [x] **补记 5/30 漏写的 speaking + writing session 文件**（suzy 连问两次"昨天练习记哪了"发现）
+- [x] memory 加固：no-premature-signoff 规则 4（流程被打断也当场补 session）+ 路径全更新
+- [x] fresh-session 子 agent 测试：结构干净（study_hub 一站定位 + 零失效路径 + 目录正确）；子 agent 报"CLAUDE.md 旧版"是缓存注入假警报,磁盘已是新版
+
+### 核心发现
+- suzy 主动驱动两次收拢（5/30 speaking 收一半 → 5/31 要求"就两个目录"）。**判断对**:之前 speaking/coach 留在旧目录、writing 还叫 t2-band7、plan/ 混旧计划,都是 fresh session 跑偏的污染源。
+- **最终结构**:根级 `CLAUDE.md` + `study_hub.md`（入口路由）+ `daily_log.md`（跨学科）；两个 subject 目录 `speaking-band7/`（含 coach/）+ `writing-band7/`（含 log/ + t1/）。listening 等 suzy 自管目录不动。
+
+### 明天（6/1 Mon）继续
+1. **口语 W1 阶段 A 起步**：example p2_old_07_child_drawing（Muye 画画）—— 朗读 → 跟读 → 合上 cue card 自产 → 不诊断只确认完成 + P1 random ×2
+2. **写作 T2 W3 起步**：Example 05 (2-Pt) v1（见 `writing-band7/05_path.md`）
+3. 新 session 开场:打开 `study_hub.md` → 说"继续学习"

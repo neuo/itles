@@ -11,7 +11,8 @@
 今天 = 2026-05-31 (Sun)
 口语：✅ 浸泡 D2 通过（persona 存货 ✓ / 人物题骨架 ✓ / 3 秒清单纠 1 处：prep 想"细节"非"延伸三连"）
        —— 浸泡完成，6/1 起进 W1 阶段 A
-写作：进行中 — Round 5 ex02 Conclusion cold 重写（串 idiom + texture 逻辑 + 副词 + 分号 + 单复数）
+写作：T2 休息日（path 5/31 = rest；Round 5 候选未做，转去做了目录重构）
+系统：✅ 彻底收拢为两个目录 speaking-band7 + writing-band7 + CLAUDE.md 全量重写防污染
 
 下一步（6/1 Mon）：
 - 口语 W1 阶段 A 起步：example p2_old_07_child_drawing（Muye 画画）
