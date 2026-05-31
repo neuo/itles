@@ -39,6 +39,9 @@
 | it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
 | `…, like ___`（展开反射） | 陈述后立刻补具体例子，把"一句话没了"救活 | 2 ✓✓ — 5/28 教+2 drill；5/30 Chengdu 巩固（hotpot on every corner ✓ 对得上"好住"）+ 外公种花单展开（spent a day teaching ✓）| 核心训练点；列举式 like A,B 已会，单展开式（1 例讲细）在练；再 1 次自然 cold 产出即毕业 |
 | ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
+| `there are a couple of reasons for this` | 所有"为什么"P3 题开头（reason **for** this，不是 of that）| 0 — 5/31 教 | P3 万能开头，**每次"为什么"题点名要她用** |
+| `as I mentioned earlier` | 回指前文（earlier = 她想要的"之前/已经"副词）| 0 — 5/31 教（原 "as I has mentioned" I has→I have）| |
+| `get caught up with X` | 忙于某事（替代 have plenty of things to do）| 0 — 5/31 教 | |
 
 ## Graduated (internalized, no longer needs drilling)
 
@@ -59,3 +62,10 @@
 Do NOT ask the learner to reproduce the original sentence from memory — that trains memorization, not pattern internalization.
 Instead: after showing the native version, ask the learner to use the **same structure** with **completely different content**.
 Example: "the hardest part is just getting started" → drill target is "the hardest part is just ___ing ___", not this specific sentence.
+
+## 🔁 教练主动复习机制（5/31 suzy 要求 —— 人造语言环境）
+suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不让她一个人对着清单干背。每次 session 必做:
+1. **开场抽查**:扫本表 cold-count 低的 chunk,随机点 1-2 个让她造句(active recall)
+2. **答题前点名**:出题时明确"这题用上 X chunk"(如"为什么"题 → 点名 `there are a couple of reasons for this`)
+3. **复盘查用没用**:答完核对她有没有用上点名的 chunk,用了 +1 cold count,没用下次再点
+4. 这是 spaced repetition,教练驱动 ≠ 被动等她想起。她背、我喂。

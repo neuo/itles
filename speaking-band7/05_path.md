@@ -64,6 +64,8 @@
 - **P2 + P3 配对练**:做完 P2 立刻接它底部的 6 个 P3(cold);贴合考场流程
 - **复习内置**:开场扫 content_bank 当天 persona 珠子(pre-retrieval)+ inventory 挑 1-2 个;~70% 复习已练 persona + 30% 新;drill 冒出的好珠子当场回填 content_bank
 
+**🔁 教练主动复习(5/31 suzy 要求,人造语言环境)**:背是 suzy 的事,但**主动反复提醒待背 chunk 是教练的事**——不让她对着清单干背。每次 session:① 开场抽查 inventory 低分 chunk 造句 ② 出题时点名"这题用上 X" ③ 复盘查用没用、计数。机制详见 [[coach/inventory.md#-教练主动复习机制]]。**她背、我喂。**
+
 ---
 
 ## 设计原则（继承 T2）
