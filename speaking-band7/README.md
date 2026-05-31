@@ -1,6 +1,6 @@
 # Speaking Band 7 — 入口 + 导航
 
-> **2026-05-27 重起炉灶**——参考 [[writing/t2-band7/]] 同款架构，把 P2/P3 训练系统化（错误追踪 + Phrase 积累 + sessions + 毕业 path）。
+> **2026-05-27 重起炉灶**——参考 [[../writing-band7/]] 同款架构，把 P2/P3 训练系统化（错误追踪 + Phrase 积累 + sessions + 毕业 path）。
 >
 > 旧材料（v7 手册 / v6 模板 / p2_my_path.md）**降级为参考库**，不再作为训练主线。
 
@@ -54,9 +54,9 @@ tools/           ← orchestrator（静态检查 + LLM 检查 联合）
 
 ## 关联文件
 
-- [[../writing/t2-band7/]] — 写作 Band 7 系统（已成熟）
-- [[../plan/study_hub.md]] — 总入口（refresh session 第一站）
-- [[../plan/CLAUDE.md]] — 项目主旨
-- `speaking/coach/` — **当前状态文件**（error_log / inventory / sessions——active）
-- `speaking/_archive/` — 旧材料（v5/v6/v7 系列 + p2_my_path.md，2026-05-30 归档，仅参考）
+- [[../writing-band7/]] — 写作 Band 7 系统（已成熟）
+- [[../study_hub.md]] — 总入口（refresh session 第一站）
+- [[../CLAUDE.md]] — 项目主旨
+- `speaking-band7/coach/` — **当前状态文件**（error_log / inventory / sessions——active）
+- `speaking-band7/_archive/` — 旧材料（v5/v6/v7 系列 + p2_my_path.md，2026-05-30 归档，仅参考）
 - `speaking-band7/_archive/` — 旧 log mirror（未启用版）

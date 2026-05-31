@@ -107,17 +107,17 @@ log/
 
 | 旧材料 | 新地位 |
 |--------|--------|
-| `writing/task2_my_path.md` | **被本目录取代**（不再是 T2 权威）|
-| `writing/task2_band7_examples.md` | **被 examples/ 取代**（旧范文降级有 bug，不再用）|
-| `writing/ielts_task2_guide.docx` | **完全跳过**（冲满分写的，水平错配）|
-| `writing/ielts_writing_methods.md` | **T1 部分继续用**（T1 的方法论部分有效）；**T2 部分忽略**（已被本目录取代）|
-| `writing/coach/` | **继续用**（T2 错误日志 + sessions 移到 `t2-band7/log/`）|
+| `writing-band7/_archive/task2_my_path.md` | **被本目录取代**（不再是 T2 权威）|
+| `writing-band7/_archive/task2_band7_examples.md` | **被 examples/ 取代**（旧范文降级有 bug，不再用）|
+| `writing-band7/_archive/ielts_task2_guide.docx` | **完全跳过**（冲满分写的，水平错配）|
+| `writing-band7/t1/ielts_writing_methods.md` | **T1 部分继续用**（T1 的方法论部分有效）；**T2 部分忽略**（已被本目录取代）|
+| `writing-band7/t1/coach/` | **继续用**（T2 错误日志 + sessions 移到 `writing-band7/log/`）|
 | `writing/english_check_prompt.md` | **继续用**（独立工具，非 T2 训练 pipeline，保留）|
 
 ---
 
 ## 给未来的 Claude 看
 
-如果在新对话里被问到 T2 怎么练——**直接看本目录**，不要回去翻 `writing/task2_*.md` 旧文件。它们已经被取代，留着只是历史归档（怕意外丢失上下文）。
+如果在新对话里被问到 T2 怎么练——**直接看本目录**，不要回去翻 `writing-band7/_archive/task2_*.md` 旧文件。它们已经被取代，留着只是历史归档（怕意外丢失上下文）。
 
 CLAUDE.md 和 writing-coach skill 都会指向本目录。

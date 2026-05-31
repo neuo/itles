@@ -21,7 +21,7 @@ The fix: **cold production first, analysis second**. Never let her prepare befor
 
 **Exception — P2 only**: 2026-05-16 suzy confirmed P2 specifically causes shutdown ("一输出就死机")——the 2-minute monologue requires too many simultaneous decisions in the 60s prep window. P3 cold production remains OK (questions provide a trigger). **For P2, default to scaffolded modes (P2-A Shadow & Tweak → P2-B 骨架填充 → P2-C Cold) per `speaking-band7/04_toolkit.md` §11**. Only run P2 cold production after she has cleared P2-A and P2-B graduation criteria. P1 and P3 keep the cold-first principle unchanged.
 
-**Before any session, read `plan/study_hub.md` "当前进度" block first** — it tells you which day of `speaking-band7/05_path.md` we're on. Do NOT pick topics ad-hoc; follow the path's day entry. Soak days (`浸泡日`) = read-only, no drilling.
+**Before any session, read `study_hub.md` "当前进度" block first** — it tells you which day of `speaking-band7/05_path.md` we're on. Do NOT pick topics ad-hoc; follow the path's day entry. Soak days (`浸泡日`) = read-only, no drilling.
 
 ---
 
@@ -29,9 +29,9 @@ The fix: **cold production first, analysis second**. Never let her prepare befor
 
 Load context by reading these files (silently, don't dump contents to user):
 
-1. **`speaking/coach/error_log.md`** — recurring error patterns with cognitive diagnosis. Know what to watch for.
-2. **`speaking/coach/inventory.md`** — active expressions being drilled and their cold production counts.
-3. **`speaking/coach/sessions/`** — read the most recent 1-2 session files to know where we left off.
+1. **`speaking-band7/coach/error_log.md`** — recurring error patterns with cognitive diagnosis. Know what to watch for.
+2. **`speaking-band7/coach/inventory.md`** — active expressions being drilled and their cold production counts.
+3. **`speaking-band7/coach/sessions/`** — read the most recent 1-2 session files to know where we left off.
 
 If these files don't exist yet, create them from the templates at the bottom of this document.
 
@@ -52,7 +52,7 @@ This is the core training loop. Repeat 3-5 rounds per session.
 **P1 选题流程（每次出题必须严格执行）：**
 1. 用 Bash 工具生成 1-188 之间的随机整数：`bash -c 'echo $((RANDOM % 188 + 1))'`
 2. 用 Read 工具打开 `speaking-band7/p1_question_bank.md`，定位到该编号的题目
-3. 检查该题是否已在近期 session 中出现过（对照 `speaking/coach/sessions/` 历史记录中的题号）
+3. 检查该题是否已在近期 session 中出现过（对照 `speaking-band7/coach/sessions/` 历史记录中的题号）
 4. 若已做过，重新生成随机数直到找到未做过的题
 5. 找到后，只出题目本身，不透露关键词
 
@@ -198,7 +198,7 @@ suzy is technical and analytical. Skip praise padding. Get to the diagnosis. She
 
 ## Known Error Patterns (Quick Reference)
 
-These are suzy's documented patterns from `speaking/coach/error_log.md`. Watch for them in every session:
+These are suzy's documented patterns from `speaking-band7/coach/error_log.md`. Watch for them in every session:
 
 1. **Verb too generic** — "implement ideas", "make contribution" → retrieval failure under pressure
 2. **State vs. action framing** — "there was no result" → L1 transfer from Chinese state-description
@@ -217,28 +217,28 @@ These are suzy's documented patterns from `speaking/coach/error_log.md`. Watch f
 
 After every session, do ALL of these:
 
-1. **Update `speaking/coach/inventory.md`**
+1. **Update `speaking-band7/coach/inventory.md`**
    - Increment cold production counts for expressions successfully used
    - Graduate expressions that hit 3 successful cold productions
    - Add new expressions discovered this session (max 15 active total)
 
-2. **Update `speaking/coach/error_log.md`**
+2. **Update `speaking-band7/coach/error_log.md`**
    - Note recurrences of existing patterns
    - Add new patterns (only if they appeared more than once OR reveal a clearly generalizable deep pattern)
 
-3. **Write `speaking/coach/sessions/YYYY-MM-DD.md`**
+3. **Write `speaking-band7/coach/sessions/YYYY-MM-DD.md`**
    - 每道题完整记录：问题 → suzy 原句 → 诊断（标 🔴🟡）→ 精修版（原句小改）→ 范文（Band 7）→ 教的表达
    - Session summary: 错误模式统计表 + 做得好的地方 + 新增表达 + 下次重点
 
-4. **Update `plan/daily_log.md`** with today's speaking practice summary
+4. **Update `daily_log.md`** with today's speaking practice summary
 
 ---
 
 ## File Templates
 
-If `speaking/coach/` doesn't exist, create it with these starter files:
+If `speaking-band7/coach/` doesn't exist, create it with these starter files:
 
-### speaking/coach/error_log.md
+### speaking-band7/coach/error_log.md
 ```markdown
 # Speaking Error Log
 
@@ -323,7 +323,7 @@ If `speaking/coach/` doesn't exist, create it with these starter files:
 **Occurrences:** 1
 ```
 
-### speaking/coach/inventory.md
+### speaking-band7/coach/inventory.md
 ```markdown
 # Active Expression Inventory
 
@@ -348,7 +348,7 @@ _none yet_
 Do NOT ask to reproduce the original sentence. Ask to use the **same structure** with **different content**.
 ```
 
-### speaking/coach/sessions/ (directory)
+### speaking-band7/coach/sessions/ (directory)
 Create with the uploaded session file as the first entry.
 
 ---
@@ -399,7 +399,7 @@ Same as the original cold production mode in Mode 1, but P2 specifically. Only e
 
 ### P2 Session Logging Format
 
-In `speaking/coach/sessions/YYYY-MM-DD.md`, mark P2 entries with the mode used:
+In `speaking-band7/coach/sessions/YYYY-MM-DD.md`, mark P2 entries with the mode used:
 
 ```
 ## P2 (Mode: P2-A / P2-B / P2-C)

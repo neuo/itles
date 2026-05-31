@@ -1,7 +1,7 @@
 # Writing Coach — Error Log
 
 > 记录每次写作练习中出现的语法/内容/结构问题，追踪频率和修复状态。
-> 格式参考 speaking/coach/error_log.md。
+> 格式参考 speaking-band7/coach/error_log.md。
 > **T1 和 T2 分开列**——错误类型完全不同（T1 偏数据/比较句/语法细节；T2 偏结构/立场/TEEL 缺失）。
 
 ---

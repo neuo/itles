@@ -28,7 +28,7 @@
 
 ## T2 共享池快查（Phrase 1-16+）
 
-> Speaking 直接复用 T2 池里的 phrase。详细 context 见 [[../../writing/t2-band7/log/active_phrases.md]]。
+> Speaking 直接复用 T2 池里的 phrase。详细 context 见 [[../../writing-band7/log/active_phrases.md]]。
 
 | # | Phrase | Speaking 适配场景 |
 |---|--------|------------------|
@@ -76,6 +76,6 @@
 
 ## 关联
 
-- [[../../writing/t2-band7/log/active_phrases.md]] — T2 主池
+- [[../../writing-band7/log/active_phrases.md]] — T2 主池
 - [[errors.md]] — 错误模式 S2-X
 - [[../04_toolkit.md]] — Speaking 工具集 §9

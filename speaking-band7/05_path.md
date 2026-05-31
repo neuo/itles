@@ -1,6 +1,6 @@
 # 05. Speaking 3 周训练路径（5/30 → 6/20 首考）
 
-> **2026-05-30 重写**——整合 P1 / P2 / P3 全 part，对齐 [[writing/t2-band7/05_path.md]] 同期写作进度。
+> **2026-05-30 重写**——整合 P1 / P2 / P3 全 part，对齐 [[../writing-band7/05_path.md]] 同期写作进度。
 >
 > **每天投入**（口语为主，听力 suzy 自管）：
 > - **W1 + W2**（5/30 - 6/14）：口语 60-75 min + 写作 45-60 min（口语刚启动需密集时间）
@@ -13,7 +13,7 @@
 ```
 今天 = 2026-05-30 (Sat)
 口语：浸泡日 D1 — 读 01/02 + 04 §1-§5（≈60 min）
-写作：T2 W2 Day 6 — 周复盘 + Example 01/02 错误段重写（见 t2-band7/05_path.md）
+写作：T2 W2 Day 6 — 周复盘 + Example 01/02 错误段重写（见 ../writing-band7/05_path.md）
 听力：suzy 自管（不在教练 scope）
 ```
 
@@ -31,7 +31,7 @@
 7 月                    二考
 ```
 
-写作时间表见 [[writing/t2-band7/05_path.md]]。两表配合：
+写作时间表见 [[../writing-band7/05_path.md]]。两表配合：
 - T2 W2 (5/25-5/31) = Speaking 浸泡日
 - T2 W3 (6/1-6/7) 骨架填充 = Speaking W1 阶段 A
 - T2 W4 (6/8-6/14) Cold production = Speaking W2 阶段 B → C
@@ -46,7 +46,7 @@
 | **Output gap-aware** | 不直接 cold production；P2 必从高脚手架（阶段 A）起步。P1/P3 cold 因有明确触发器 OK |
 | **入口必经** | W1 开始前先浸泡 2 天读入口（01/02/04 + personas）—— 不会再"一上来就抽题" |
 | **Phrase active 优先** | 每天 1-2 个 phrase 强制 active 使用，D+ 复检（与 T2 共享 [[log/active_phrases.md]]）|
-| **错误模式追踪** | 记录在 `speaking/coach/error_log.md` |
+| **错误模式追踪** | 记录在 `speaking-band7/coach/error_log.md` |
 | **三阶骨架内化** | P2 走 [[04_toolkit.md#11-p2-实战协议]] 的 A → B → C，不直接 cold |
 
 ---
@@ -60,7 +60,7 @@
 | **5/30 Sat** | 读 [[01_my_situation.md]] + [[02_band7_target.md]]（重点：14 项自查清单）+ [[04_toolkit.md]] §1-§5（衔接词 / 起手 / 中段延伸三连 / 收尾 / 题型 opener）| 60 min | 能复述：5 个起手句 / 延伸三连 3 句 / 5 个收尾句 |
 | **5/31 Sun** | 读 [[04_toolkit.md]] §6-§11（升级词 / 复杂句 / Phrase 池 / P2 实战协议）+ [[personas.md]] 7 个 persona + [[03_question_types.md]] | 60 min | 能说出每个 persona 的核心存货（3 个 S）+ P2 4 类题型骨架对齐 |
 
-**完成后**：在 [[plan/study_hub.md]] 顶部"当前进度"行更新为"W1 Day 1 准备开始"。
+**完成后**：在 [[../study_hub.md]] 顶部"当前进度"行更新为"W1 Day 1 准备开始"。
 
 ---
 
@@ -159,6 +159,6 @@ P3: 接话用延伸三连，逐题给 abstract framework + 1 具体例子
 - [[personas.md]] — 7 个 persona 详细库
 - [[examples/]] — 54 P2 + 324 P3 范文
 - [[p1_question_bank.md]] — P1 188 题题库
-- [[../writing/t2-band7/05_path.md]] — 同期写作 path
-- [[../plan/study_hub.md]] — 总入口（refresh session 第一站）
-- `speaking/coach/` — 状态文件（error_log / inventory / sessions）
+- [[../writing-band7/05_path.md]] — 同期写作 path
+- [[../study_hub.md]] — 总入口（refresh session 第一站）
+- `speaking-band7/coach/` — 状态文件（error_log / inventory / sessions）

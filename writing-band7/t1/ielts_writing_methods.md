@@ -1,8 +1,8 @@
 # 雅思写作训练方法手册
 
-> **⚠️ T2 部分已被 `writing/t2-band7/` 完全取代（2026-05-17 起）**。
+> **⚠️ T2 部分已被 `writing-band7/` 完全取代（2026-05-17 起）**。
 > 本文档**只保留 T1 部分有效**——T1 的方法论（范文输入法 / 限时仿写法 / 模考法）继续用。
-> T2 一切以 `writing/t2-band7/` 为准，不要再看本文档的 T2 内容。
+> T2 一切以 `writing-band7/` 为准，不要再看本文档的 T2 内容。
 >
 > ---
 >
@@ -10,7 +10,7 @@
 > ~~配套文档：`ielts_task2_guide.docx`~~（已废弃，不用看）
 > ~~配套文档：`task2_band7_examples.md`~~（已被 `t2-band7/examples/` 取代）
 > ~~配套文档：`task2_my_path.md`~~（已被 `t2-band7/` 取代）
-> **T2 权威路径：`writing/t2-band7/README.md`**
+> **T2 权威路径：`writing-band7/README.md`**
 > 第三方参考：`third/雅思小作文万能句式、词汇总结.pdf`
 > 第三方参考：`third/雅思精简版写作高频词汇-edited.pdf`
 > 第三方参考：`third/雅思大作文十大话题及相关词汇-edited.pdf`
@@ -145,7 +145,7 @@ Step 4 · 自评（13min）
 
 **T2 不沿用 T1 的"限时仿写"流程**——你的瓶颈是"主动输出弱"，需要从高脚手架→无脚手架渐进（仿写 → 骨架填充 → cold production），不能一上来就限时 cold production。
 
-**详细流程见 `writing/task2_my_path.md` §4 三阶训练法**。本节只保留 T1 的限时仿写流程。
+**详细流程见 `writing-band7/_archive/task2_my_path.md` §4 三阶训练法**。本节只保留 T1 的限时仿写流程。
 
 #### 仿写训练节奏
 
@@ -287,7 +287,7 @@ Step 4 · 针对性补练（15min）
 
 ## Task 2 题型 / 话题词汇 → **不在这里**
 
-T2 所有内容（**5 题型**骨架、话题词汇取舍、三阶训练法、限量工具箱）全部在 **`writing/task2_my_path.md`** 里。本文档只保留 T1 的速查表。
+T2 所有内容（**5 题型**骨架、话题词汇取舍、三阶训练法、限量工具箱）全部在 **`writing-band7/_archive/task2_my_path.md`** 里。本文档只保留 T1 的速查表。
 
 **不要在这份 methods.md 重复列 T2 题型** —— 因为：
 1. T2 是 **5 种题型**（A/D, DBV, P/S, C/E, 2-Pt），不是早期版本写的 3 种（Type A/B/C）

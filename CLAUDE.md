@@ -1,280 +1,104 @@
-# IELTS 备考项目
+# IELTS 备考项目（口语 + 写作）
+
+> **范围**：本项目只 cover **口语（P1/P2/P3）和写作（T2 为主，T1 维护）**。
+> **听力 suzy 自管**——不在教练 scope，不主动询问 / 规划听力（她主动 ping 才介入）。
 
 ## 考生情况
 
-- 考试时间：2026年6月 + 7月（两次机考 CDI）
-- 目标分数：6.5-7
-- 当前听力：4.5（S1 关键词能抓到但句意串不起来，S2 语速快整段跟不上）
-- 计划起始：2026年4月4日（周六），共10周
-- 学习风格：理科强，逻辑分析能力好，语言需要靠重复量积累
-- 特点：听英语时需要翻译成中文才能记住内容（正常的过渡阶段）
-- **核心瓶颈 1：听力理解本身不够**——关键词能抓到但句子意思串不起来，语速快就丢，"词→句→段"的实时整合能力未建立
-- **核心瓶颈 2：输出能力弱（production gap）**——主动输出困难，说不出、组不起来
+- 考试：2026 年 6 月（首考 6/20）+ 7 月（二考），机考 CDI
+- 目标：6.5–7
+- 学习风格：理科强，逻辑分析好，语言靠重复量积累
+- **核心瓶颈 = 输出能力（production gap）**：阅读 7–7.5 / 听懂 > 说出来。被动理解 OK 但主动输出困难——"一输出就死机"
 
-### 输出能力问题详解（2026-04-18 确认）
+### 输出 gap 的本质（贯穿所有训练）
 
-**问题本质**：主动输出困难。读懂的能力 > 听懂的能力 > 说出来的能力。听力理解本身也有缺口（关键词能抓到但句意串不起来），不只是输出端的问题。
+**不是 knowledge gap，是 retrieval-under-pressure gap。** 她知道表达、懂语法，但压力下检索不出来。证据：cold 写/说完能自标几乎所有 gap（知道好坏）+ 单点低压能产出正确版 + cold 整段时调出骨架句/直翻版。
 
 **三个层面**：
-1. **单句组装困难**：cold production 时频繁出现时态/体态错误，句子结构不完整
-2. **多句衔接不会**：句与句之间缺乏逻辑连接词和过渡，信息堆砌而非流畅表达
-3. **整体结构没有框架感**：回答缺乏组织层次（开头-展开-收尾），尤其 P2/P3 明显
+1. **单句组装**：cold production 时态/体态错、结构断裂
+2. **多句衔接**：缺连接词和过渡，信息堆砌
+3. **整体框架**：缺开头-展开-收尾层次（P2/P3 明显）
 
-**证据**：
-- 听力精听时能听懂内容但复述不出来
-- 口语 cold production 中多次出现 tense/aspect 错误和结构断裂
+**修法核心**：不是"背更多"，是**增加正确版本在压力下的检索成功率** = 多 cold 产出 + 段落/语境复用 + 高脚手架渐进（不直接 cold，P3 除外）。
 
-**训练要求（贯穿所有后续练习）**：
-- 口语练习中加入**复述环节**（听完/读完一段后用自己的话说出来）
-- 听力精听后加**复述检测**（不看原文，用英文概括刚听的内容）
-- 所有反馈中**特别关注输出能力维度**：不只纠错，还要评估"能不能说出来"
-- 口语反馈增加**结构评价**：是否有框架、衔接是否自然
-
-## 项目主旨
-
-帮 suzy 用高效、个性化的方式备考雅思。核心策略：前4周集中攻听力S1+S2（性价比最高），口语用1-5-9集中周节奏，写作延后到第3-4周。所有听力训练围绕两个方法：做题法（审题→做题→复盘）和精听法（听写→**造 paraphrase**→对照→跟读→加速→间隔复习）。
-
-## 互动方式
-
-### 做题后流程
-
-**轻量记录模式（默认）**：
-suzy 只报材料名 + 分数（不带具体答案和原文）→ 我来：
-1. 在 `listening/ielts_listening_tracker.md` 做题记录行填写（日期/材料/Section/得分）
-2. 根据分数和历史错因推断当前阶段状态
-3. 提醒下次复习时间（D+1 跟读若有精听材料、D+7 加速等）
-
-**完整分析模式（suzy 明确要求精听时）**：
-suzy 发做题结果（错题+正确答案）和 transcript → 我来：
-1. 挑选需要精听的段落（错题集中区）
-2. 标出重点关注的句子
-3. **将 transcript 原文存入 `listening/transcripts/[材料名].md`**（用于后续跟读复习和精听对照）
-
-### 精听流程（suzy 操作）
-
-**5 步精听法**（针对 S2 paraphrase 瓶颈，2026-04-19 从 4 步升级）：
-
-1. **听写**（不看原文，放一句暂停写一句）
-2. **🆕 造 paraphrase**（不看原文）——针对 S2 匹配题/多选题的答案信号句：听完后先自问"这句在选项里会被说成什么"，写下中英任一种的抽象概括
-   - 例：听完 "there aren't any places left" → paraphrase "fully booked"
-   - 只对**答案信号句**做（AI 标红🔴的句子），不是每句都做
-   - 想不出来正是训练点——说明"具体→抽象"通路没打通
-3. **对照原文**：先验证听写准不准，再验证 paraphrase 对不对（对比选项的真实措辞）
-4. **跟读**：看原文跟一遍 + 不看原文跟一遍
-5. **加速 + 间隔复习**：D+1 / D+7（1.1x）/ D+30（1.25x）
-
-**为什么 paraphrase 夹在听写和对照之间**：这时候 suzy 只"听到"原文还没"看到"选项措辞，最接近考试现场的认知状态。精听之后再做就晚了（已看过原文会直接从记忆调用）。
-
-### 精听后流程（AI 操作）
-suzy 发精听听写结果 + paraphrase 尝试 + 原文 → 我来：
-1. 逐句对照分析（🔴没听到 / 🟡听到但错 / 致命错误标注）
-2. **Paraphrase 对照**：评估 suzy 造的 paraphrase 是否抓到考点信号（是/偏/没抓到）
-3. 卡点词录入 `listening/ielts_listening_tracker.md`
-4. 拼写类卡点词加入练习 app「精听卡点词」分类
-5. Paraphrase 类卡点录入同义替换本（S2 配对题/多选题专区）
-6. 精听记录存入 `listening/dictation_[材料名].md`
-
-### 每日收尾流程
-当天学习全部结束后 → 我来：
-- 更新 `plan/daily_log.md`（今日完成情况、核心发现、明天计划）
-
-### 复习提醒
-- D+1 跟读复习：不是被动重听，是跟读卡点句（看原文跟一遍+不看原文跟一遍）
-- D+7 加速验证：1.1x 听同一段
-- D+30 毕业测试：1.25x 过一遍
-- 每周六下午2点有自动验收任务（scheduled task: ielts-weekly-review）
-
-### 口语练习流程
-suzy 用英文回答 P1/P2/P3 题目 → 我来：
-1. **语法纠错**：逐条列出语法错误（第三人称s、单复数、介词、时态等）
-2. **表达升级**：在 suzy 原句基础上小改，不重写——保留她的内容和逻辑，只升级表达方式
-3. **教一个句式**：每题最多教一个新句式（如 having X means Y），给 2-3 个例句让她记住
-4. **记录到 daily_log**：反复出现的语法问题汇总成表，方便复习
-
-原则：
-- **两个输出都必须给**：先给精修版（suzy 原句小改），再给范文（完整 Band 7 参考）——让她既能看到自己的进步空间，也能看到一个流畅版本
-- 书面表达指出来并给口语替代（regrettable → I'd hate to）
-- 语法问题按频率排序，最高频的优先修
-
-**对应 Skill**: `.claude/skills/speaking-coach/` — 输入"练口语"/"来一题"/"speaking practice"触发。包含完整的 8 维度诊断体系（语法层/词汇层/表达层）、4 种训练模式、session 记录格式。
-
-**状态文件**：
-- `speaking/coach/error_log.md` — 错误模式追踪（含认知诊断：L1迁移/检索失败/自动化缺口）
-- `speaking/coach/inventory.md` — 活跃表达库（最多15个，冷启动生产3次毕业）
-- `speaking/coach/sessions/YYYY-MM-DD.md` — 每次练习的详细记录（问题→原句→诊断→范文→教的表达）
-
-### 重要原则
-- 精听不需要全文，只精听错题所在段落（2-3分钟音频，15-20分钟精听）
-- 精听后当天不用反复重听，大脑需要时间消化
-- 分析结果不要输出给 suzy 看长文档，给简短行动指令就好
-- 卡点词管理全部由我负责，suzy 只需要去 app 练拼写 + 做跟读复习
-- **不要主动建议收工**。结束练习只看两个因素：① suzy 有进步（不是做了多少，而是做到了什么）；② suzy 确实没时间（她会自己说）。除此之外继续出题、继续练
-- **练习节奏控制**：轮次到达一定程度、新知识累计较多时，后续轮次要倾向复习（~70%复习 + 30%新题），巩固学习成果，不要一直出新题。错过的词反复练到毕业再换新的
-
-## 日历跟踪流程
-
-### 判断"今天是哪天"
-
-1. 以 **美东时间（ET）中午 12:00** 为日期分界线，不是午夜 0 点
-   - 例：ET 周五上午 = 当前 Day 尾声；ET 周五中午后 = 下一个 Day 开始
-2. **`daily_log.md` 是权威来源**：读最近几天的 log，看上一次完成的是哪个 Day 的任务 → 今天做下一个 Day
-   - 因为有时会休息一天或顺延，日历日期和实际 Day 可能不对应
-3. `calendar.md` 是参考：确定当前 Day 后，去 calendar 查对应 Day 的具体任务内容
-4. `ielts_master_plan_v3.md` 提供方法论细节和 Checkpoint 标准
-
-### suzy 问"今天任务是什么"时
-
-1. 读 `plan/daily_log.md` 尾部 → 找到上次完成的 Day → 确定今天是第几周 Day 几
-2. 读 `plan/calendar.md` 对应 Day 行 → 列出今日任务
-3. 读 `plan/daily_log.md` 尾部 → 检查是否有遗留/未完成项需要顺延
-4. 读 `listening/ielts_listening_tracker.md` → 检查到期的卡点句跟读（D+1/D+7/D+30）
-5. 扫 `plan/daily_log.md` 近几天记录，提取今日可复习的点：
-   - 口语：高频语法问题（介词/第三人称s/单复数等）是否反复出现，提醒今天练习时注意
-   - 口语：最近教的句式（如 having X means Y），建议今天口语练习时刻意用 1-2 个
-   - 听力：近期做题暴露的错因模式（答案不完整、否定陷阱、同义替换等），提醒今天做题时重点关注
-   - 听力：同义替换本近期新增的高频替换，提一两组让 suzy 快速回忆
-6. 给 suzy 简短的今日行动清单（新任务 + 复习提醒）
-
-### 每日收尾更新
-
-当天学习全部结束后，在 `plan/daily_log.md` 对应 Day 下补充：
-- 任务完成打勾
-- 错因分析、核心发现
-- 明天计划（含到期的跟读复习）
-
-## 版本管理
-
-本项目使用 git 管理。每次结构性变更（新增文件、重构、方法论调整）应提交 commit。
+**跨技能同源发现**：口语"一句话没了"（`…, like [例子]`）= 写作"干巴巴没副词"（`…, making [展开]`）—— 同一根源，cold 时认知带宽只够搭骨架。解药同构：bare claim 后立刻问"能不能再加一层"。
 
 ---
 
-## 目录结构
+## 目录结构（就两个 subject 目录）
 
 ```
 ielts/
-├── plan/              总计划与进度管理
-├── listening/         听力训练
-├── speaking/          口语备考
-├── writing/           写作备考
-├── practice-app/      词汇练习工具（Node.js，端口3456）
-├── third/             第三方参考材料（只读）
-├── 单词听力/           单词听写记录（只读）
-└── CLAUDE.md          本文件
+├── CLAUDE.md            本文件
+├── study_hub.md         ⭐ 总入口路由（refresh session 第一站，顶部"当前进度"块）
+├── daily_log.md         跨学科每日复盘日志
+│
+├── speaking-band7/      所有口语
+│   ├── 01_my_situation / 02_band7_target / 03_question_types
+│   ├── 04_toolkit       工具集（含 §11 P2 实战协议=三阶训练+死机3秒清单）
+│   ├── 05_path          3 周训练 path（5/30→6/20）
+│   ├── personas.md      7 个 persona（54 P2 取材来源）
+│   ├── p1_question_bank.md   P1 188 题
+│   ├── examples/        54 P2 + 324 P3 范文
+│   ├── coach/           状态文件：error_log / inventory / sessions/
+│   └── _archive/        旧资料（v5/v6/v7 + p2_my_path，仅参考）
+│
+├── writing-band7/       所有写作
+│   ├── 01-05 + 04_toolkit + _examiner_protocol + proofreading_routine
+│   ├── examples/        Band 7 标杆范文（5 题型）
+│   ├── log/             状态：sessions/ + errors.md + active_phrases.md（与口语共享 phrase 池）
+│   ├── t1/              T1 维护材料（coach/ + methods + guide）
+│   └── _archive/        废弃（task2_my_path / docx 等，仅参考）
+│
+├── plan/_archive/       旧 10 周计划（calendar / master_plan_v3，过时）
+├── listening/ practice-app/ third/ 单词听力/   ← suzy 自管，不动
 ```
 
-### `plan/` — 总计划与进度管理
+---
 
-- `calendar.md` — 10周日历（每天具体任务速查表，参考用；实际进度以 daily_log.md 为准）
-- `ielts_master_plan_v3.md` — 10周总计划（时间分配、每日任务、Checkpoint、方法论详解）
-- `daily_log.md` — 每日复盘日志（练习记录、错误分析、发现和反思）
+## 判断"今天做什么"
+
+1. **读 `study_hub.md` 顶部"当前进度"块**——5 行内定位今天在哪（这是 anti-跑偏的核心机制，每次 session 结束必须更新）
+2. 不直接抽题——先确认是浸泡日 / 练习日，按 `speaking-band7/05_path.md` + `writing-band7/05_path.md` 的当日 entry 执行
+3. 日期分界：以**美东时间中午 12:00** 为界
+4. 进度核查**按 sessions 文件**，不能从 daily_log 推断（daily_log 是 partial 记录）
 
 ---
 
-### `listening/` — 听力训练
+## 互动方式
 
-当前阶段（第1-4周）的核心训练区。
+### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题"→ speaking-coach skill）
 
-- `ielts_listening_methods.md` — 方法论（做题法+精听法完整步骤）
-- `ielts_listening_section_guide.md` — Section专项+题型技巧
-- `ielts_listening_tracker.md` — 做题记录、周汇总、卡点词追踪（D+1/D+7/D+30）
-- `ielts_synonym_bank.xlsx` — 同义替换本（按S1/S2/S3-S4/通用分类）
-- `dictation_*.md` — 精听逐句对照记录（每次精听后生成）
-- `number_drill.md` — **数字串听写专项训练**（5min/天 × 14天，3 级难度共 21 句材料库，针对 4-5 位数字串短时记忆容量不够的稳定弱点）
+P2 走三阶（A Shadow → B 骨架填充 → C Cold），P1/P3 cold-first。详见 `speaking-band7/04_toolkit.md` §11。
 
-- `transcripts/[材料名].md` — 做题原文存档（suzy 发答案时一并提供，用于后续跟读复习和精听对照）
+每题：① 语法纠错（第三人称 s / 单复数 / 介词 / 时态）② 表达升级（原句小改，不重写）③ 教一个句式（每题最多一个）。
+**两个输出都给**：先精修版（原句小改）再范文（Band 7）。书面词给口语替代。
 
-**数据流**：suzy 发做题/精听结果+原文 → 我做错因分析 → 原文存入 transcripts/ → 写入 tracker + app → 标精听段落 → 卡点词按 D+1/D+7/D+30 复习
+### 写作练习流程（触发"练 T2/T1"→ writing-coach skill）
 
-**数字训练独立流程**：每天 5min（独立于其他听力任务），suzy 在 `number_drill.md` 训练日志记录得分和错位类型；我每周看一次趋势，第 7 天和第 14 天评估是否毕业或升级到 phase 2
+T2 按 `writing-band7/05_path.md` 当周阶段。错误沉淀进 `writing-band7/log/errors.md`，cold 产出是核心训练。
 
----
+### 每次练习结束（**强制,流程被打断也要补**）
 
-### `practice-app/` — 词汇练习工具
-
-Node.js 纯 HTTP 服务器，端口 3456。启动命令：`cd practice-app && node server.js`
-
-**拼写听写**（677词，18个分类）：
-- 智能随机选40词（最久未练+最低频+最高错误率优先）
-- 支持英式/美式双拼写（alt字段）
-- 「精听卡点词」分类：每次精听后的生词自动加入此分类
-
-**同义词联想**（137组，12个分类）：
-- 翻卡模式：智能排序（未练→不认识→模糊优先），单卡逐张翻，带例句
-- 配对模式：每轮随机5组，支持多轮，错误闪红提示
-- 联想模式：限时输入同义词，连错2次给首尾字母提示，结束后显示未答出的词+例句
-- 全部模式支持分类筛选（S1场景/S2场景/学术讨论/动作动词...）
-
-**数字听写**（16 句材料库，来自 `listening/number_drill.md`）：
-- Web Speech API 朗读句子（英式音优先 Daniel/Kate/Google UK）
-- L1 4位数字 / L2 7位电话 / L3 价格时间多数字
-- 「按今日配比」按钮：根据 number_drill.md 起始日 4/17 自动算 Day N 配比（L1×3+L2×1+L3×1 起始）
-- 判分容错：£/,/空格/连字符自动规范化，多答案支持
-
-**数据文件**：
-- `data/words.json` — 拼写词库
-- `data/synonyms.json` — 同义词库（含 categories 字段）
-- `data/numbers.json` — 数字听写句库
-- `data/history.json` — 练习记录（自动持久化）
+1. 写 session 文件：口语 `speaking-band7/coach/sessions/YYYY-MM-DD.md` / 写作 `writing-band7/log/sessions/YYYY-MM-DD-*.md`——**加练也要写**，errors.md + daily_log 不能替代
+2. 更新对应 error_log / inventory / errors（毕业进度、新模式）
+3. 更新 `daily_log.md`（当日复盘）
+4. 更新 `study_hub.md` 顶部"当前进度"块（下次进场定位）
 
 ---
 
-### `speaking/` — 口语备考
+## 教练纪律（硬规则）
 
-Part 1/2/3 的回答框架、泛化模板、关键词速查、188题参考回答。按1-5-9集中周节奏推进。
-
-**speaking/coach/** — 口语诊断教练状态文件：
-- `error_log.md` — 错误模式追踪（含认知诊断：L1迁移/检索失败/自动化缺口）
-- `inventory.md` — 活跃表达库（最多15个，冷启动生产3次毕业）
-- `sessions/YYYY-MM-DD.md` — 每次练习的详细记录
-
-**对应 Skill**: `.claude/skills/speaking-coach/` — 输入"练口语"/"来一题"/"speaking practice"触发
-
----
-
-### `writing/` — 写作备考
-
-Task 1（小作文）和 Task 2（大作文）的写作指南。T1 已启动（Bar/Line/Pie 多次仿写至 Band 7）。T2 于 2026-05-17 重新规划。
-
-**T2（大作文）— 一切以 `writing/t2-band7/` 为准**：
-- `writing/t2-band7/README.md` — 入口 + 导航
-- `writing/t2-band7/01_my_situation.md` — 现状诊断
-- `writing/t2-band7/02_band7_target.md` — Band 7 评分细则拆解 + 自查清单
-- `writing/t2-band7/03_question_types.md` — 5 题型骨架
-- `writing/t2-band7/04_toolkit.md` — 限量工具集（25 衔接 + 8 句式 + 5 opener + 20 升级词 + 复杂句）
-- `writing/t2-band7/05_path.md` — 5 周训练路径（5/17 → 6 月考）
-- `writing/t2-band7/examples/01_education_dbv.md` — Band 7 标杆范文（gold standard）
-- `writing/t2-band7/examples/02-05_*.md` — 其他 4 个题型的范文
-- `writing/t2-band7/log/sessions/`、`log/errors.md` — 训练记录 + 错误追踪
-
-**T1（小作文）— 继续用**：
-- `ielts_writing_methods.md` — T1 部分有效（T2 部分已废弃）
-- `ielts_task1_guide.docx` — T1 通用范文库（6 种图表类型）
-- `coach/error_log.md`（T1 段）、`coach/sessions/`、`coach/chart_bank.md`
-
-**已废弃（仅历史归档）**：
-- ~~`task2_my_path.md`~~ — 被 `t2-band7/` 取代
-- ~~`task2_band7_examples.md`~~ — 被 `t2-band7/examples/` 取代
-- ~~`ielts_task2_guide.docx`~~ — 冲满分写的（Band 8.5-9），水平错配
-
-**独立工具**：
-- `english_check_prompt.md` — 通用英文 grammar/expression 检查 prompt（给 Gemini/ChatGPT 用），不属于 T2 训练 pipeline
-
-**对应 Skill**：`.claude/skills/writing-coach/` — 触发 T1 走限时仿写流程；触发 T2 按 `t2-band7/05_path.md` 当前周阶段执行。
+1. **不主动建议收工**——只在 suzy 说累/没时间时停；工作量大≠该停。继续出题/练
+2. **进度按 sessions 文件核查**，不从 daily_log 推断
+3. **path 验收清单是 hard check**——每周末逐条核对，没达标明确指出不顺延
+4. **session 文件必写**（见上，流程被打断也补）
+5. **练习节奏**：知识累计多时倾向复习（~70% 复习 + 30% 新），错的反复练到毕业再换
+6. 分析不输出长文档给 suzy 看，给简短行动指令
+7. 反馈用英文写（阅读本身是练习），概念难才用中文
 
 ---
 
-### `third/` — 第三方参考材料（只读）
+## 版本管理
 
-- `2026年1-4月最新雅思口语题库-0324.pdf` — 当季口语题库
-- `IELTS_口语万能组装引擎_4.0.md` — 第三方口语模板
-- `word_list_09231210003.pdf` — 雅思词汇表（已合并入 practice-app）
-- `雅思听力同义替换汇总-edited.pdf` — 同义替换（已合并入 practice-app）
-- `雅思听力高频词汇 合并版-edited.pdf` — 高频词汇（已合并入 practice-app）
-- `雅思听力地图题常用重点词汇-edited.pdf` — 地图题词汇
-- 写作相关PDF若干 + `历年雅思大作文真题/`
-
----
-
-### `单词听力/` — 单词听写练习记录（只读）
-
-suzy 自己做的单词听写练习，Apple Numbers 格式（.numbers），无法直接读取。按册-单元编号，共25个文件。
+git 管理。每次结构性变更或练习收尾应 commit。

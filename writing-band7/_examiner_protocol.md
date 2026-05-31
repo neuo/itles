@@ -196,8 +196,8 @@ X.X
 
 以下情境**必须**调用 examiner agent：
 
-1. 写 `t2-band7/examples/*.md` 范文
-2. 写 `t2-band7/04_toolkit.md` § 2 句式模板 + § 3 openers
+1. 写 `writing-band7/examples/*.md` 范文
+2. 写 `writing-band7/04_toolkit.md` § 2 句式模板 + § 3 openers
 3. suzy 提交 essay 后，Claude 写"参考 Band 7 版本"作为反馈
 4. 任何"我给你写一段示范"的请求
 

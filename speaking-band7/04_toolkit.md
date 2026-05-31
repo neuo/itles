@@ -333,7 +333,7 @@ cue card 念完那一刻，**按顺序问自己**：
 | [[03_question_types.md]] | **阶段 B 的骨架源**。按题型（人/地/事/物）查 4 段骨架 |
 | [[question-bank-raw.md]] | **阶段 B-C 的题库源**。选没准备过的题 |
 | [[personas.md]] | 7 个 persona 的 9 个 S 存货详细库 |
-| `speaking/coach/` | error_log / inventory / sessions —— 三阶训练的反馈记录在这里 |
+| `speaking-band7/coach/` | error_log / inventory / sessions —— 三阶训练的反馈记录在这里 |
 
 ---
 
