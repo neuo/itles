@@ -2195,3 +2195,32 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. **口语 W1 阶段 A**（今天已提前起步）：换 persona 跨题型继续 A（京都/wife/zhangwei）+ 配对 P3 + P1 random ×2。盯:答完扫介词 / 简单句别搂从句 / content_bank 攒珠子
 2. **写作 T2 W3 起步**：Example 05 (2-Pt) v1（见 `writing-band7/05_path.md`）
 3. 新 session 开场:打开 `study_hub.md` → 说"继续学习"
+
+---
+
+# 6/1（周一）— W1 Day 1：系统大整顿 + P2 wife 达 6.5 + 第三人称 -s 专项
+
+### 系统整顿（suzy 连续驱动,把"单一真源"贯彻到底）
+- [x] **方法论校正"三件事"**：旧"内容80%/语言20%次要"是错的(把准确性误降级)→ 内容(主)+ **语言准确性(主,Band7 硬指标+她的弱点)** + 语言范围好词(才是可放的20%)。"不需要好词≠不需要准确"
+- [x] **阶段 A 加 scorecard**：废"撑完即过"(suzy 指出是漏洞)→ 每篇 P2 必给 Band 估 + 长度(vs 180-220词/2min)+ 1 改进点;短了当场展开加长
+- [x] **删 speaking-coach skill**：独有内容(8维诊断/drill流程/模式/End-of-Session)并入 `05_path.md`「🎓 教练执行手册」→ **05_path 为口语唯一真源**;触发路由移到 CLAUDE.md
+- [x] **建 question_bank.md 真题库**：子 agent 解析 0525 PDF(49页)→ 46 P1 topic + 62 P2 + 配对 P3 + persona 标注。选题唯一真源,禁自编(教练之前自编"good at their job"被 suzy 抓)
+- [x] **log 详细度修因**:根因=CLAUDE"简短"串味(本意只对聊天)+ skill 太肥埋了规范 → 已区分"聊天简短/session 详细"
+- [x] fresh-agent 测试通过(进场定位/口语写作流程/记录/方法论全绿)
+
+### 口语 W1 Day 1（P2 wife + drill + -s 专项）
+- [x] 开场抽查 chunk 全过(reasons for this/a few things/where's money/介词 to-to-in)
+- [x] **P2 阶段 A wife（真题 look after natural world）**:小问题法生成内容 → v1(110词/Band6)→ **scorecard → 展开 v2(190词/Band6.5,长度翻倍,讨论结构全 deploy)**
+- [x] 结构 drill 全对:`What X does is Y` ✓ + `X means doing Y` ✓（passive→active）
+- [x] **第三人称 -s 限时专项 9/10**:规则完全懂(低压 9/9,该不加没乱加),P2 里 `she have` 是**自动化漏非知识缺口**;唯一缺口=集合名词单数(company→tries),立 Pattern 18
+- [x] 详见 `speaking-band7/coach/sessions/2026-06-01.md`(逐题详细)
+
+### 核心进展
+- P2 wife **6→6.5**,长度翻倍达 2 分钟,4 个高迁移结构进背诵库
+- **第三人称 -s 重新定性**:自动化缺口(非知识)→ 修法=多 cold + 产出后 1 秒自查,不是重学
+- 系统:口语彻底单一真源(05_path),真题库就位,方法论自洽(三件事 + scorecard)
+
+### 接下来
+1. 口语:wife 已 6.5 → 下个 persona 跨题型(地点/事件/物)走阶段 A + scorecard;P3 配对继续;每次产出扫 -s
+2. 写作:T2 W3 Example 05 (2-Pt) — **本次 session 接着练**
+3. 进场:打开 `study_hub.md` 说"继续学习"

@@ -39,7 +39,12 @@
 | it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
 | ~~`…, like ___`（展开反射）~~ | ~~陈述后立刻补具体例子~~ | 3 ✓✓✓ — 5/31 P3 "Like, when we describe music as peaceful..." cold 自然产出 — **🎓 毕业** | 核心反射已内化（5/28 教→5/30×2→5/31 cold）|
 | ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
-| 「为什么」开头**变体组**（轮换,防重复）| There are a couple of reasons for this ✓ / I'd say there are two main reasons / Well, a few things come to mind ✓ / Honestly, there's more than one reason | 2 ✓✓ — 5/31 用了变体 1 + 3 | **轮流点名,不总点同一个**;diversity = FC/LR 分 |
+| 「为什么」开头**变体组**（轮换,防重复）| There are a couple of reasons for this ✓ / I'd say there are two main reasons / Well, a few things come to mind ✓ / Honestly, there's more than one reason | 3 ✓✓✓ — 6/1 开场抽查又用 1+3 | **轮流点名**;diversity = FC/LR 分 |
+| `What X does is Y` / `What makes X stand out is...`（强调句式）| 高迁移,任何描述题 | 1 ✓ — 6/1 drill "what he does is divide..." ✓ | 6/1 教,P2 wife 也用上 |
+| `A big part of it is...`（引出主要部分）| 描述工作/活动 | 1 ✓ — 6/1 P2 wife | |
+| `X means doing Y`（引出含义/后果）| + 练 -s(means)| 1 ✓ — 6/1 drill "Her job means interacting..." ✓ | |
+| `was the one who...`（强调是某人）| 强调主语 | 1 ✓ — 6/1 P2 wife "she was the one who caught it" | |
+| idiom 组（认识/可用）| knows X inside out / that level of detail / beyond work / committed to / looking after | 1 — 6/1 P2 wife 都用上 | 低优先,简单词可替代 |
 | `get across`（传达,替代直译 pass through）| 表达/沟通/艺术题 | 0 — 5/31 教 | |
 | `play a key role in doing`（role **in** doing）| 强调重要性 + 介词练 | 0 — 5/31 "role to help"→in helping | 又一处介词错,重点 |
 | `I'd say` / `Honestly`（表态开头）| yes/no 观点题起手表态 | 1 ✓ — 5/31 "I'd say no" | |

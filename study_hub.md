@@ -8,19 +8,18 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-05-31 (Sun) — 大重构 + 方法论 v1 + 口语提前起步
-口语：✅ 浸泡完成；方法论 v1 对齐（内容主战场/背素材不背成稿/她背我喂）；
-       P2 阶段 A(Muye)+ 4 P3 cold；🎓 `…, like` 展开反射毕业
-写作：T2 休息日（Round 5 候选未做）
-系统：✅ 收拢为两个目录 speaking-band7 + writing-band7 + CLAUDE.md 全量重写
+上次 = 2026-06-01 (Mon) W1 Day 1 — 系统大整顿 + P2 wife 达 6.5
+口语：P2 阶段 A wife(真题 look after nature)6→6.5,长度翻倍达 2min;
+       结构 drill What X does is Y ✓ / X means doing Y ✓;第三人称 -s 专项 9/10(规则懂、缺自动化)
+系统：方法论校正"三件事"(内容+准确性 并重)+ 阶段 A 加 scorecard + 删 speaking-coach skill(05_path 唯一真源)+ 建 question_bank.md 真题库
+写作：6/1 session 接着要练 T2 W3 Example 05(尚未开始)
 
-下一步（6/1 Mon — W1 正式 Day 1）：
-- 口语 W1 阶段 A：换 persona 跨题型（京都/wife/zhangwei）走 A + 配对 P3 + P1 ×2
-  🔁 教练点名 chunk（开场抽查 inventory 低分项 + 答题前点名 + 复盘查用没用）
-  盯：答完扫介词（accessible/unfair to、role in）/ 简单句别搂从句 / content_bank 攒珠子
-- 写作 T2 W3 起步：Example 05 (2-Pt) v1（见 writing-band7/05_path.md）
+下一步：
+- 写作 T2 W3：Example 05 (2-Pt) v1（见 writing-band7/05_path.md）← 当前
+- 口语:wife 已 6.5 → 下个 persona 跨题型(地点/事件/物)走阶段 A + scorecard;P3 配对;每次产出扫 -s
 
-📌 方法论锚点见 speaking-band7/05_path.md 顶部「🧭 方法论锚点」
+📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md（口语唯一真源,无 skill）
+📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫
 📌 W2-22 texture（写作必盯）：① 加新信息不复述 ② 逻辑方向对（结果→making，原因→by doing）
 ```
 

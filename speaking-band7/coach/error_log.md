@@ -185,3 +185,15 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** 补例子前 1 秒自查："like what —— 这是 THIS（刚说的那句）的例子吗？" 例子必须是陈述本身的实例。
 **Status:** First occurrence 5/28（句子展开训练中暴露）。Monitor——展开训练时高发。
 **Occurrences:** 1
+
+---
+
+## Pattern 18: 第三人称 -s 自动化缺口（#1 高频,听/说同源）
+**Examples:** "she really enjoy it"→enjoys / "she have to stay calm"→has（6/1 P2 wife）；与听力 -s 漏听同源。
+**Surface:** 第三人称单数主语,动词漏 -s（含 has/does/goes 不规则 + company/team/this kind of X 集合名词当单数）。
+**Deep:** **不是知识缺口,是自动化缺口** —— 6/1 限时专项 9/9 全对(该不加的也没乱加),证明规则完全懂;但 P2 整段产出时(带宽不够)又掉 → retrieval/automaticity 失败,不是 don't-know。
+**Fix:**
+1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"
+2. **集合名词当单数**(6/1 缺口):company/team/family/government/a kind of X = 单数 → tries/wins/makes(try→tries y→ies)。写作也踩过(creative industry 类)。
+**Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。
+**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识）
