@@ -48,7 +48,8 @@
 | **题型骨架**（P2 4 类 / P3 5 类）| `speaking-band7/03_question_types.md` | 浸泡日 D2 |
 | **personas**（7 个，54 P2 都从这里取材）| `speaking-band7/personas.md` | 浸泡日 D2 必读 |
 | **3 周训练 path**（5/30 → 6/19）| `speaking-band7/05_path.md` | 每日 task 速查 |
-| **P1 题库**（188 题） | `speaking-band7/p1_question_bank.md` | random 抽题 |
+| **题库⭐唯一真源**（2026 5-8 月当季,62 P2 + 配对 P3 + 46 P1 topic + persona 标注）| `speaking-band7/question_bank.md` | 选代表性真题,禁自编 |
+| **P1 备用题库**（旧 188 题） | `speaking-band7/p1_question_bank.md` | question_bank 不够时补充 |
 | **P2/P3 范文**（54 P2 + 324 P3）| `speaking-band7/examples/` | 阶段 A 朗读 / B 用作题源 |
 | **状态文件**（error_log / inventory / sessions）| `speaking-band7/coach/` | 教练自动维护 |
 

@@ -38,10 +38,12 @@ suzy 阅读 7-7.5、口语 ~5。差距**不是知识,是 retrieval-under-pressur
 按 `study_hub` / `05_path` 当日定。
 
 ### Mode 1：Cold Production Drill（默认,P1/P3）
-**出题（禁止自己编,从题库读真题）**：
-- P1：`bash -c 'echo $((RANDOM % 188 + 1))'` → `speaking-band7/p1_question_bank.md` 定位该号 → 对照 `coach/sessions/` 查重 → 只给题干不透关键词
-- P2/P3：按 `05_path` 当日 example（`speaking-band7/examples/p2_*.md`）；**P2+P3 配对**——做完 P2 接它底部 6 个 P3 cold
-- 跨 topic 出题；P1 一次 1 题
+**出题（🚨 禁止自己编题,从题库读真题 —— 唯一真源 `speaking-band7/question_bank.md`,2026 5-8 月当季真题 62 P2 + 配对 P3 + 46 P1 topic,带 persona 标注）**：
+- **选有代表性的题**（高频/覆盖广/能套熟 persona）,跨题型轮,对照 `coach/sessions/` 查重不重复
+- P1：从 question_bank P1 区按 topic 选；一次 1 题,只给题干
+- P2/P3：从 question_bank 选 P2（看它的 persona 标注挑熟的）；**P2+P3 配对**——做完 P2 接它**在 question_bank 里配对的 P3** cold
+- 若该题在 `examples/p2_*.md` 有 Band 7 范文 → 阶段 A 用作范文源；没有 → 用小问题法现场生成
+- 备用：`p1_question_bank.md`（旧 188 题库,question_bank 不够用时补充）
 
 **流程**：① cold 给题不给范文 → ② 诊断(下方 8 维,挑 top 3,但**准确性错该列全**——见 logging) → ③ 精修版(原句小改) + 范文(Band 7 自然版,非 8-9) → ④ pattern drill(换 context 用同结构,不复述原句)
 

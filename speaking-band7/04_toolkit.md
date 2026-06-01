@@ -331,7 +331,7 @@ cue card 念完那一刻，**按顺序问自己**：
 |------|------------------|
 | [[examples/]] 54 道 P2 范文 | **阶段 A 的范文源**。按当周话题或 persona 挑 |
 | [[03_question_types.md]] | **阶段 B 的骨架源**。按题型（人/地/事/物）查 4 段骨架 |
-| [[question-bank-raw.md]] | **阶段 B-C 的题库源**。选没准备过的题 |
+| [[question_bank.md]] | **题库唯一真源**（62 P2 + P1/P3,带 persona 标注）。阶段 B-C 选没练过的真题 |
 | [[personas.md]] | 7 个 persona 的 9 个 S 存货详细库 |
 | `speaking-band7/coach/` | error_log / inventory / sessions —— 三阶训练的反馈记录在这里 |
 
