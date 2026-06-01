@@ -215,7 +215,8 @@ suzy 提交 essay **前应已自己做过 3 遍自检**（`writing-band7/proofre
    - 格式：1 行 1 错，`原句片段 → 修后 [W2-X 编号]`
    - 反馈完一段，我回 chat 给 suzy 的同时**必须**也写入 error_trace.md
 2. **`writing-band7/log/errors.md`**：session **结束后**总结新错入 W2-X 模式（合并相似错，标"必修"/"重点"/"活跃"）。
-3. **`writing-band7/log/sessions/YYYY-MM-DD-exN-vN.md`**：每次仿写**完整记录**——题目 / suzy 原版 / 修复版 / 14 项打勾 / 3 gap / 教过的 framework / 进 active_phrases 的 phrase / 进 errors 的 W2-X 模式 / takeaway。她随时可回头复习。
+3. **`writing-band7/log/sessions/YYYY-MM-DD-exN-vN.md`**：每次仿写**完整记录**——题目 / suzy 原版 / 逐条诊断 / **📄 整篇修复版(clean 全文,可朗读对照,不只是改动句)** / 14 项打勾 / 3 gap / 教过的 framework / 进 active_phrases 的 phrase / 进 errors 的 W2-X 模式 / takeaway。她随时可回头复习。
+   - **点(逐条)+ 面(整篇 clean 全文)都要给**(6/1 suzy 要求)。
    - ⚠️ **session 详细 ≠ 聊天简短**：给 suzy 的聊天可短,但 session 文件必须全(可复习)。加练/drill 也要写,不能只汇总。
 
 **命名约定**：

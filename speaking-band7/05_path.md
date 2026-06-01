@@ -97,7 +97,8 @@
 - **Mode 1 Cold Drill**(默认 P1/P3)/ **Mode 2 弱点专项**(按 error_log 最高频 pattern 设计,如介词成串 10 句限时)/ **Mode 3 Mock**(P1×5+P2+P3×6,后 4 维 Band 估)/ **Mode 4 Inventory Review**(低 cold-count 换 context 用,3 次毕业,补新≤15)
 
 ### End of Session（全做,流程被打断也补）
-1. **写 `coach/sessions/YYYY-MM-DD.md` —— 详细到可复习(≠聊天简短)**:每题 题目→suzy 逐字原句→诊断(🔴🟡 逐条)→精修版→教的表达。加练/drill 也写。
+1. **写 `coach/sessions/YYYY-MM-DD.md` —— 详细到可复习(≠聊天简短)**:每题 题目→suzy 逐字原句→诊断(🔴🟡 逐条)→精修版→**📄 整篇修复版(clean,可朗读/shadow,不只是改动句)**→教的表达。加练/drill 也写。
+   - **点(逐条纠错)+ 面(整篇 clean 版)都要给** —— 逐条看"错在哪",整篇看"对的全貌长啥样"(6/1 suzy 要求)。
 2. 更新 `coach/inventory.md`(cold 计数/毕业/新≤15)+ `coach/content_bank.md`(真实珠子回填 persona)+ `coach/error_log.md`(复发/新 pattern)
 3. 更新 [[../daily_log.md]] + [[../study_hub.md]] 顶部"当前进度"块
 
