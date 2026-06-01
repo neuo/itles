@@ -2177,7 +2177,21 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - suzy 主动驱动两次收拢（5/30 speaking 收一半 → 5/31 要求"就两个目录"）。**判断对**:之前 speaking/coach 留在旧目录、writing 还叫 t2-band7、plan/ 混旧计划,都是 fresh session 跑偏的污染源。
 - **最终结构**:根级 `CLAUDE.md` + `study_hub.md`（入口路由）+ `daily_log.md`（跨学科）；两个 subject 目录 `speaking-band7/`（含 coach/）+ `writing-band7/`（含 log/ + t1/）。listening 等 suzy 自管目录不动。
 
+#### 口语 — 方法论 v1 对齐 + P2 阶段 A 提前起步 + P3 配对（suzy 主动要练）
+- [x] **方法论 v1 对齐**（写入 05_path 锚点 + 建 content_bank）:
+  - 两 gap 打法不同:**内容=主战场(方法,可练,80%)** / 语言=次要(范围,锁少量,20%);**Band 7 不需要好词**
+  - 核心机制:考场生成→**考前预载**;**背素材(珠子/骨架/表达)不背成稿**
+  - 三条执行约定(suzy 加):覆盖优先选题 / P2+P3 配对 / 复习内置
+  - **教练主动复习机制(suzy 要求)**:她背、我喂 —— 开场抽查 + 答题前点名 chunk + 复盘查用没用 + **diversity 变体轮换**
+- [x] 建 `speaking-band7/coach/content_bank.md`（7 persona 真实珠子库,drill 捕获回填）
+- [x] **P2 阶段 A（Muye）**:卡在"不知道说什么" → **核心 gap 重新定性 = 内容 ideation 非语言**（小问题法验证:答 6 个生活小问题 → 整段内容零卡顿,#5"画上写名字"⭐捕获）
+- [x] **P3 配对 4 题 cold**（Muye 话题）:
+  - 🎓 **`…, like` 展开反射毕业**（第 3 次 cold 自然产出）
+  - chunk 入库:reasons for this / Having said that / I'd say / where's the money going to come from / Some people would argue / get across / play a role **in** doing
+  - 🚨 **介词成串弱点**（accessible/unfair **to** / role **in** / immerse **in**）—— 2 次提醒仍漏,定为重点
+  - 论证能力强（museums free 题预判反方再反驳）;复杂从句搂太多反而缠住 → 简单句更干净
+
 ### 明天（6/1 Mon）继续
-1. **口语 W1 阶段 A 起步**：example p2_old_07_child_drawing（Muye 画画）—— 朗读 → 跟读 → 合上 cue card 自产 → 不诊断只确认完成 + P1 random ×2
+1. **口语 W1 阶段 A**（今天已提前起步）：换 persona 跨题型继续 A（京都/wife/zhangwei）+ 配对 P3 + P1 random ×2。盯:答完扫介词 / 简单句别搂从句 / content_bank 攒珠子
 2. **写作 T2 W3 起步**：Example 05 (2-Pt) v1（见 `writing-band7/05_path.md`）
 3. 新 session 开场:打开 `study_hub.md` → 说"继续学习"

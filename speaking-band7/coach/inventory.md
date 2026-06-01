@@ -37,9 +37,19 @@
 | drag oneself out of bed | 挣扎着起床 | 0 | 4/19 新增 |
 | not get tired of it | 吃不腻/不厌倦 | 0 | 4/19 新增 |
 | it's the thought that counts | 心意最重要 | 2 ✓✓ | 4/24 Q3 Gifts "It's the thought that counts, though, right?" — 自然收尾 |
-| `…, like ___`（展开反射） | 陈述后立刻补具体例子，把"一句话没了"救活 | 2 ✓✓ — 5/28 教+2 drill；5/30 Chengdu 巩固（hotpot on every corner ✓ 对得上"好住"）+ 外公种花单展开（spent a day teaching ✓）| 核心训练点；列举式 like A,B 已会，单展开式（1 例讲细）在练；再 1 次自然 cold 产出即毕业 |
+| ~~`…, like ___`（展开反射）~~ | ~~陈述后立刻补具体例子~~ | 3 ✓✓✓ — 5/31 P3 "Like, when we describe music as peaceful..." cold 自然产出 — **🎓 毕业** | 核心反射已内化（5/28 教→5/30×2→5/31 cold）|
 | ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
-| `there are a couple of reasons for this` | 所有"为什么"P3 题开头（reason **for** this，不是 of that）| 0 — 5/31 教 | P3 万能开头，**每次"为什么"题点名要她用** |
+| 「为什么」开头**变体组**（轮换,防重复）| There are a couple of reasons for this ✓ / I'd say there are two main reasons / Well, a few things come to mind ✓ / Honestly, there's more than one reason | 2 ✓✓ — 5/31 用了变体 1 + 3 | **轮流点名,不总点同一个**;diversity = FC/LR 分 |
+| `get across`（传达,替代直译 pass through）| 表达/沟通/艺术题 | 0 — 5/31 教 | |
+| `play a key role in doing`（role **in** doing）| 强调重要性 + 介词练 | 0 — 5/31 "role to help"→in helping | 又一处介词错,重点 |
+| `I'd say` / `Honestly`（表态开头）| yes/no 观点题起手表态 | 1 ✓ — 5/31 "I'd say no" | |
+| `Having said that` | 让步转折（替代 but）| 1 ✓ — 5/31 P3 自然用上 | |
+| `where's the money going to come from?` | P3 反问神器（政策/钱类题）| 0 — 5/31 教 | 显得在思考,高分 |
+| `Some people would argue..., but...` | 预判反方再反驳（观点题加分结构）| 0 — 5/31 教 | |
+| 🚨 介词重点复习 | accessible **to** / unfair **to** / immerse **in** / depend **on** | 0 — 5/31 成串错 | **稳定弱点,每次答题后扫介词** |
+| `immerse yourself in X` | 沉浸在…（in 不是 into;the real world）| 0 — 5/31 教（原 immerse youself into）| 好短语,值得留 |
+| `pick up details (like X)` | （现场）注意到/捕捉细节（替代 fetch information）| 0 — 5/31 教 | |
+| 加论点连接**变体组**（替代 essay 词 Furthermore）| On top of that / Plus / Another reason is / And then there's | 0 — 5/31 教 | Furthermore/Moreover 是 essay 黑名单;轮换 |
 | `as I mentioned earlier` | 回指前文（earlier = 她想要的"之前/已经"副词）| 0 — 5/31 教（原 "as I has mentioned" I has→I have）| |
 | `get caught up with X` | 忙于某事（替代 have plenty of things to do）| 0 — 5/31 教 | |
 
@@ -69,3 +79,4 @@ suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不�
 2. **答题前点名**:出题时明确"这题用上 X chunk"(如"为什么"题 → 点名 `there are a couple of reasons for this`)
 3. **复盘查用没用**:答完核对她有没有用上点名的 chunk,用了 +1 cold count,没用下次再点
 4. 这是 spaced repetition,教练驱动 ≠ 被动等她想起。她背、我喂。
+5. **diversity（5/31 suzy 要求）**:同一功能(如"为什么"开头)给 **2-3 个变体轮换**,不让她只背一个 → 否则每题重复、扣 FC/LR。点名时**轮着点不同变体**,变体组也要反复提醒。

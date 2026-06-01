@@ -8,19 +8,20 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-今天 = 2026-05-31 (Sun)
-口语：✅ 浸泡 D2 通过（persona 存货 ✓ / 人物题骨架 ✓ / 3 秒清单纠 1 处：prep 想"细节"非"延伸三连"）
-       —— 浸泡完成，6/1 起进 W1 阶段 A
-写作：T2 休息日（path 5/31 = rest；Round 5 候选未做，转去做了目录重构）
-系统：✅ 彻底收拢为两个目录 speaking-band7 + writing-band7 + CLAUDE.md 全量重写防污染
+上次 = 2026-05-31 (Sun) — 大重构 + 方法论 v1 + 口语提前起步
+口语：✅ 浸泡完成；方法论 v1 对齐（内容主战场/背素材不背成稿/她背我喂）；
+       P2 阶段 A(Muye)+ 4 P3 cold；🎓 `…, like` 展开反射毕业
+写作：T2 休息日（Round 5 候选未做）
+系统：✅ 收拢为两个目录 speaking-band7 + writing-band7 + CLAUDE.md 全量重写
 
-下一步（6/1 Mon）：
-- 口语 W1 阶段 A 起步：example p2_old_07_child_drawing（Muye 画画）
-  流程：朗读范文 1 遍 → 跟读 1 遍 → 合上看 cue card 自产 → 不诊断只确认完成
+下一步（6/1 Mon — W1 正式 Day 1）：
+- 口语 W1 阶段 A：换 persona 跨题型（京都/wife/zhangwei）走 A + 配对 P3 + P1 ×2
+  🔁 教练点名 chunk（开场抽查 inventory 低分项 + 答题前点名 + 复盘查用没用）
+  盯：答完扫介词（accessible/unfair to、role in）/ 简单句别搂从句 / content_bank 攒珠子
 - 写作 T2 W3 起步：Example 05 (2-Pt) v1（见 writing-band7/05_path.md）
 
-📌 W2-22 texture 进阶规则（写作必盯）：texture 要 ① 加新信息不复述 ② 逻辑方向对
-   （结果→ making/enabling，原因→ by doing，顺承不了→ though 转折）
+📌 方法论锚点见 speaking-band7/05_path.md 顶部「🧭 方法论锚点」
+📌 W2-22 texture（写作必盯）：① 加新信息不复述 ② 逻辑方向对（结果→making，原因→by doing）
 ```
 
 ---
