@@ -53,11 +53,7 @@
 | **P2/P3 范文**（54 P2 + 324 P3）| `speaking-band7/examples/` | 阶段 A 朗读 / B 用作题源 |
 | **状态文件**（error_log / inventory / sessions）| `speaking-band7/coach/` | 教练自动维护 |
 
-**触发教练**：
-- "练 P1" / "练口语" / "来一题" → speaking-coach（P1 cold drill）
-- "练 P2" → speaking-coach（按 05_path 当前阶段，A / B / C）
-- "练 P3" → speaking-coach（P3 cold drill）
-- "串模考" → speaking-coach（W3 mock mode）
+**怎么练（无 skill,path 是唯一真源）**：触发"练 P1/P2/P3/来一题/串模考" → 按 `speaking-band7/05_path.md` 的「🎓 教练执行手册」跑(选题/drill/8维诊断/scorecard/End-of-Session 全在那)。选题从 `question_bank.md` 真题库。
 
 > **7 persona**（54 P2 取材来源）：wife（公务员 ⭐主角）/ Muye（5 岁儿子）/ zhangwei（同学）/ 外公 / Liang（发小）/ 京都（旅行）/ 成都（现居）+ speaker 自己（仅决定/规划/职业题）。
 

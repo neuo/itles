@@ -69,6 +69,42 @@
 
 ---
 
+## 🎓 教练执行手册（原 speaking-coach skill 并入,6/1 —— path 是唯一真源,无 skill）
+
+> 触发"练口语/练 P1/P2/P3/来一题/串模考" → 按本手册跑。**进场先读 [[../study_hub.md]] 当前进度 + 本文件当日 entry**。
+
+### 每次 session 前读
+`coach/error_log.md`(盯复发)/ `coach/inventory.md`(待背 chunk + cold 计数)/ `coach/sessions/` 最近 1-2 篇 / `coach/content_bank.md`(persona 珠子)。
+
+### 选题（🚨 禁自编,唯一真源 [[question_bank.md]]）
+当季真题 62 P2 + 配对 P3 + 46 P1 topic + persona 标注。**选代表性题**(高频/覆盖广/熟 persona),跨题型轮,对照 sessions 查重。P2+P3 用 question_bank 里**配对的** P3。该题在 [[examples/]] 有范文 → 阶段 A 用作范文源;没有 → 小问题法生成。P1 一次 1 题。
+
+### Drill 流程（P1/P3 cold;P2 走三阶 A→B→C 见 [[04_toolkit.md]] §11）
+① cold 给题不给范文 → ② 8 维诊断 → ③ 精修版(原句小改) + 范文(Band 7 自然版,非 8-9) → ④ pattern drill(换 context 用同结构,不复述原句)。**P2 必给 scorecard(见上 📊)。**
+
+### 8 维诊断（每次过一遍,挑 top 3 报;但准确性硬错列全）
+**A 语法**：① 基础(第三人称 s/单复数/**介词**/时态/可数) ② 词形混用(名词当形容词)
+**B 词汇**：③ 书面→口语替换 ④ 动词太泛(do/make/have→精确词) ⑤ **L1 直译**(pass through→get across)
+**C 表达**：⑥ 功能词缺失(just/though/actually) ⑦ 骨架句(无质感) ⑧ 句式单一
+每条给 **Surface(错什么)+ Deep(认知根因:L1迁移/检索失败/自动化缺口)**。
+
+### 诊断纪律
+- 内容/表达挑 top 3 不淹没;**准确性硬错(介词/主谓/时态/搭配/直译)列全**(Band 7 硬指标 + 她的弱点)
+- 永远给完整 reformulation(留她的内容,只升表达)；对照 error_log 标复发
+- 反馈用英文(阅读即练习),概念难才中文;Be direct,不铺垫夸奖
+
+### 模式
+- **Mode 1 Cold Drill**(默认 P1/P3)/ **Mode 2 弱点专项**(按 error_log 最高频 pattern 设计,如介词成串 10 句限时)/ **Mode 3 Mock**(P1×5+P2+P3×6,后 4 维 Band 估)/ **Mode 4 Inventory Review**(低 cold-count 换 context 用,3 次毕业,补新≤15)
+
+### End of Session（全做,流程被打断也补）
+1. **写 `coach/sessions/YYYY-MM-DD.md` —— 详细到可复习(≠聊天简短)**:每题 题目→suzy 逐字原句→诊断(🔴🟡 逐条)→精修版→教的表达。加练/drill 也写。
+2. 更新 `coach/inventory.md`(cold 计数/毕业/新≤15)+ `coach/content_bank.md`(真实珠子回填 persona)+ `coach/error_log.md`(复发/新 pattern)
+3. 更新 [[../daily_log.md]] + [[../study_hub.md]] 顶部"当前进度"块
+
+### 🔁 教练主动复习见上「教练主动复习」+ [[coach/inventory.md]] 机制。
+
+---
+
 ## 设计原则（继承 T2）
 
 | 原则 | 含义 |

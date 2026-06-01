@@ -305,7 +305,7 @@
 
 **目的**：完全模拟考试。
 
-**流程**：speaking-coach 的 cold production 模式（Mode 1），但 P2 specific。完整 8 维诊断。
+**流程**：[[05_path.md]] 教练执行手册的 cold production 模式（Mode 1），但 P2 specific。完整 8 维诊断。
 
 **进入考试的标准**：3 次 cold，2 次能撑 ≥ 100 秒 + 无死机停顿（> 3 秒空白）。
 

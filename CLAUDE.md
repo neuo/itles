@@ -67,9 +67,9 @@ ielts/
 
 ## 互动方式
 
-### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题"→ speaking-coach skill）
+### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题/串模考"）
 
-P2 走三阶（A Shadow → B 骨架填充 → C Cold），P1/P3 cold-first。详见 `speaking-band7/04_toolkit.md` §11。
+**无 skill —— path 是唯一真源**：按 `speaking-band7/05_path.md` 的「🎓 教练执行手册」跑（选题/drill 流程/8 维诊断/scorecard/End-of-Session 全在那）。P2 走三阶（A→B→C，详见 `04_toolkit.md` §11），P1/P3 cold-first。选题从 `speaking-band7/question_bank.md` 真题库,禁自编。
 
 每题：① 语法纠错（第三人称 s / 单复数 / 介词 / 时态）② 表达升级（原句小改，不重写）③ 教一个句式（每题最多一个）。
 **两个输出都给**：先精修版（原句小改）再范文（Band 7）。书面词给口语替代。
