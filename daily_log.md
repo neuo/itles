@@ -2231,6 +2231,50 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 ### 跨技能确认
 **准确性是口语 + 写作共同的 6.5→7 唯一卡点**。口语 wife 6.5 / 写作骨架 6.5,两边 TR/range 都够 7,都卡在 accuracy(主谓-s / 冠词 / 搭配 / comma splice)。→ 准确性主战场地位再次印证。
 
+### 📋 今日纠错卡（6/1 全部错误的修复,可复习/drill）
+
+> 口语(P2 wife)+ 写作(骨架1 环境)全部错,按类型归组。复习时遮住 ✅ 自测。
+
+**① 第三人称 -s / 主谓一致（#1 弱点,口语写作都踩）**
+- ❌ she really **enjoy** it → ✅ **enjoys** ｜ ❌ she **have** to → ✅ **has** to
+- ❌ the power of ... contributors **are** → ✅ **is**（主语 head=power 单数,别被中间复数名词带偏）
+- ❌ the process ... **required** → ✅ **requires**（一般真理现在 + 单数 -s）
+- 📌 记法:产出后找"真正的主语 head",单数 → 动词 +s;company/team/this kind = 单数
+
+**② 冠词 the（特指/全球唯一要 the）**
+- ❌ the **nature** → ✅ nature（泛指不加）｜ ❌ protecting **environment** → ✅ protecting **the** environment（环境特指,要 the）
+- 📌 记法:environment/government/Internet 这类要 the
+
+**③ comma splice（稳定复发,W2-11）**
+- ❌ not entirely unfounded**,** the power is... → ✅ ...unfounded**;** the power...（两完整句:分号/句号/加连词,不用逗号）
+
+**④ 时态一致**
+- ❌ she **is** the one who caught（过去案例）→ ✅ **was** the one who caught
+
+**⑤ 搭配 collocation（W2-9,Band 6→7 主战场）**
+- ❌ effort **on** protecting → ✅ effort**s to** protect
+- ❌ companies **achieve** the capacity → ✅ **have** the capacity
+- ❌ **looks like** negligible → ✅ **looks** negligible（look+形容词不加 like）
+- ❌ contributions **to protect** → ✅ contributions **to protecting**（contribute to doing）
+- ❌ play a role **to help** → ✅ play a role **in helping**（role in doing）
+
+**⑥ idiom 直译 / 生造词**
+- ❌ put herself **in** keeping → ✅ **committed to** keeping
+- ❌ exerted a **publishment** → ✅ issued a **penalty**
+- ❌ **pushed the land returned** → ✅ **got the land returned** / pushed for it to be returned
+- ❌ pass through（传达）→ ✅ get across
+
+**⑦ 同音 / 拼写**
+- ❌ **weather** ×2 → ✅ **whether**（是否)｜ ❌ bulit/quitely/stripe/clam → ✅ built/quietly/strip/**calm**｜ ❌ polices → ✅ policies｜ literately → literally
+
+**⑧ 语序**
+- ❌ she **even can** point out → ✅ she **can even** point out（even 在情态动词后）
+
+**⑨ LR 词汇**
+- ❌ huge ×4（一篇重复）→ ✅ 轮换 significant/substantial｜ ❌ both ... **respectively**（误用)→ ✅ 删
+
+**贯穿主线**:9 类里 ①③④⑤ 都是**准确性** —— 口语写作 6.5→7 的唯一卡点。每次产出后扫:主谓 -s / 冠词 the / comma splice / 搭配介词。
+
 ### 接下来
 1. 写作:骨架填充 2(换题型,W3)+ 盯主谓 attraction/冠词 the/comma splice/搭配;时间往 40 min 压
 2. 口语:wife 已 6.5 → 下个 persona 跨题型走阶段 A + scorecard;P3 配对;每次产出扫 -s
