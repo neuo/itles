@@ -672,3 +672,16 @@ Phrase 11 path:
 ---
 
 （后续每次 session 在此 append。每段反馈结束**立刻** append——不等到 session 结束。每周末做 summary 进 `errors.md` 的 W2-X 模式。）
+
+### 2026-06-01 骨架填充1（环境 A&D）
+- the power...are huge → is [W2-17 主谓一致 attraction 复发]
+- the process...required → requires [时态/-s,口语 Pattern18 同源]
+- protecting environment ×2 → the environment [W2-19 冠词复发]
+- not entirely unfounded, the power → ; [W2-11 comma splice 复发]
+- effort on protecting → efforts to protect [W2-9]
+- companies achieve the capacity → have [W2-9]
+- looks like negligible → looks negligible [W2-9 搭配]
+- contributions to protect → to protecting [W2-13 类]
+- polices → policies [拼写]
+- huge ×4 → 轮换 [LR 重复]
+- both...respectively → 删 [词义误用]

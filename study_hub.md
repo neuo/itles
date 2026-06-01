@@ -12,11 +12,12 @@
 口语：P2 阶段 A wife(真题 look after nature)6→6.5,长度翻倍达 2min;
        结构 drill What X does is Y ✓ / X means doing Y ✓;第三人称 -s 专项 9/10(规则懂、缺自动化)
 系统：方法论校正"三件事"(内容+准确性 并重)+ 阶段 A 加 scorecard + 删 speaking-coach skill(05_path 唯一真源)+ 建 question_bank.md 真题库
-写作：6/1 session 接着要练 T2 W3 Example 05(尚未开始)
+写作：✅ W3 骨架填充1(环境 A&D,280词)scorecard ~6.5 逼近 7;卡点=准确性(主谓 attraction/冠词 the/comma splice/搭配)。ex05 已 5/26 做完
 
 下一步：
-- 写作 T2 W3：Example 05 (2-Pt) v1（见 writing-band7/05_path.md）← 当前
+- 写作 T2 W3：骨架填充 2(换题型)+ 盯主谓 attraction/冠词 the/comma splice/搭配,时间压向 40min
 - 口语:wife 已 6.5 → 下个 persona 跨题型(地点/事件/物)走阶段 A + scorecard;P3 配对;每次产出扫 -s
+- 📌 跨技能:准确性 = 口语+写作共同的 6.5→7 唯一卡点(两边 TR/range 都够 7)
 
 📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md（口语唯一真源,无 skill）
 📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫

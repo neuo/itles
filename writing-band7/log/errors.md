@@ -130,7 +130,7 @@
 
 ### W2-11 — Run-on / Comma splice（高优先级监控终于触发）🆕🚨 重点
 **首次出现**：2026-05-19（Daily Drill #3 V2 — Phrase 4 救回练习时）
-**出现次数**：1
+**出现次数**：3（5/30 ex02 Body2 cold + **6/1 骨架填充1**：`not entirely unfounded**,** the power...` → ;）—— **稳定复发,重点**
 **示例错句**：
 - `Modern society doesn't just rely on technology**, **it depends even more on genuine human connections`（两个完整句用 comma 粘）
 **正确做法**：两个独立 clause 之间用 4 种连接方式之一：
@@ -164,7 +164,7 @@
 
 ### W2-9 — Collocation + 介词错（Band 6→6.5 plateau 战场）🆕🚨 重点
 **首次出现**：2026-05-18（Example 01 v2 + Drill #2 同日浮现）
-**出现次数**：8（v2 5 处 + Drill #2 3 处）
+**出现次数**：11（+**6/1 骨架填充1 3 处**:effort **on**→to / companies **achieve** capacity→have / **looks like** negligible→looks）—— Band 6→7 主战场,持续复发
 **示例错句**：
 - `get on to well-paid jobs` → `**go on to** well-paid jobs`（get on to = 登上；go on to = 进入）
 - `I lean towards **that** a broader curriculum is more beneficial` → `I lean towards **the view that** ___`（lean towards 接 noun，不接 that-clause）
@@ -258,9 +258,9 @@
 - X and Y（一般时平行）→ puts pressure and **causes** closures
 **修复进展**：🎓 **毕业** —— 见底部已毕业区（4 次无错：Day 9 v2 + Drill #7 + Day 10 v1 + Day 11 v2；Day 11 v2 "are pursuing and remain" stative verb 例外不算严格踩）
 
-### W2-19 — 冠词 the 误用（特指/泛指混淆）🆕
+### W2-19 — 冠词 the 误用（特指/泛指混淆 + **漏 the**）🆕
 **首次出现**：2026-05-24（Day 8 v1 Example 04 Body 2，共 2 处）
-**出现次数**：2
+**出现次数**：4（+**6/1 骨架填充1**:`protecting **environment**` ×2 漏 the → the environment;特指环境/全球唯一概念要 the）
 **示例错句**：
 - `upgrading **the** in-store services`（泛指各家店的服务，不是特指唯一）→ `upgrading **their** in-store services`
 - `**the** shopping malls in China have moved...`（the 暗示特指中国所有商场）→ `**many** shopping malls in China have moved...`
@@ -459,7 +459,9 @@
 
 ---
 
-### W2-17 — 主谓代一致 🎓 毕业于 2026-05-26
+### W2-17 — 主谓代一致 🎓 毕业于 2026-05-26（⚠️ 6/1 attraction 变体回潮）
+
+> ⚠️ **6/1 复发(新变体 — 主谓 attraction)**:`the power of a significant number of individual contributors **are**` → **is**(主语 head=power 单数,被中间复数名词 contributors 吸引带偏)。毕业的是"直接主谓",但**长主语 attraction** 是新触发点 → 写完找"真正的主语 head"再定单复数。同源=口语 Pattern 18 第三人称 -s。
 
 **首次出现**：2026-05-21（Day 6 v1 隐含）→ 系统性识别 2026-05-24（Day 8 v1 集中暴露）
 **出现次数**：3 处（Day 8 v1: Amazon which have / more consumer / cafe = 3 处）

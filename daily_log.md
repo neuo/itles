@@ -2220,7 +2220,18 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **第三人称 -s 重新定性**:自动化缺口(非知识)→ 修法=多 cold + 产出后 1 秒自查,不是重学
 - 系统:口语彻底单一真源(05_path),真题库就位,方法论自洽(三件事 + scorecard)
 
+### 写作 W3 骨架填充 1（环境 A&D,本 session 后半完成）
+- [x] ex05 已 5/26 做完(超前)→ W3 直接进骨架填充;环境=第 6 个新题域
+- [x] 教练第一次出 solo-living 被 suzy 抓(=ex05 已做)→ 换环境题(选题查重教训又一次)
+- [x] **骨架填充 1（环境,~280 词,80 min）**:scorecard **~6.5 逼近 7**(TR=7 / GRA 准确性卡 6.5)
+  - 亮点:nuanced 立场 + Tokyo 句很高级 + 分号用对 + active phrase(vital components/mutually exclusive)
+  - 错(全是准确性):主谓 attraction(power **are**→is,W2-17 变体回潮)/ 冠词漏 the environment(W2-19 复发)/ comma splice(W2-11 复发)/ 搭配 effort to·have capacity·to doing(W2-9 复发)/ huge ×4 重复
+- [x] 详见 `writing-band7/log/sessions/2026-06-01-skeleton1.md`
+
+### 跨技能确认
+**准确性是口语 + 写作共同的 6.5→7 唯一卡点**。口语 wife 6.5 / 写作骨架 6.5,两边 TR/range 都够 7,都卡在 accuracy(主谓-s / 冠词 / 搭配 / comma splice)。→ 准确性主战场地位再次印证。
+
 ### 接下来
-1. 口语:wife 已 6.5 → 下个 persona 跨题型(地点/事件/物)走阶段 A + scorecard;P3 配对继续;每次产出扫 -s
-2. 写作:T2 W3 Example 05 (2-Pt) — **本次 session 接着练**
+1. 写作:骨架填充 2(换题型,W3)+ 盯主谓 attraction/冠词 the/comma splice/搭配;时间往 40 min 压
+2. 口语:wife 已 6.5 → 下个 persona 跨题型走阶段 A + scorecard;P3 配对;每次产出扫 -s
 3. 进场:打开 `study_hub.md` 说"继续学习"
