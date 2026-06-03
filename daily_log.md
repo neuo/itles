@@ -2279,3 +2279,37 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. 写作:骨架填充 2(换题型,W3)+ 盯主谓 attraction/冠词 the/comma splice/搭配;时间往 40 min 压
 2. 口语:wife 已 6.5 → 下个 persona 跨题型走阶段 A + scorecard;P3 配对;每次产出扫 -s
 3. 进场:打开 `study_hub.md` 说"继续学习"
+
+---
+
+## Day（6/2 周二）— 口语 W1 Day 2:P2 京都达 6.5 + 🌟串句突破
+
+> 详细 session 见 `speaking-band7/coach/sessions/2026-06-02.md`。
+> ⚠️ 时间不够,**未做**:P1 random ×2 + 写作骨架填充 2 → 顺延 6/3。
+
+### 口语 P2 阶段 A — 去过且喜欢的城市(京都,A.2/5)
+- 净 ~6.5,长度达标 ~2min。小问题法解冻,捕获京都珠子(含杀手锏"那次关西地震→机场关→空城")。
+- 🌟 **今日核心赢 = suzy 主动把碎句用 `but / that / —` 串起来**(她长期最卡的"多句衔接 gap"当场突破)。她原本会写 3 个互不相连的简单句。教的招:`…three times, but the one (that)… was the first —` + 破折号挂细节 + `famous spots, but what I enjoyed more was…`。
+- P3-1/2 cold,结构都对(P3-2 让步+对比平衡漂亮);P3-3~6 给范文供学习。
+
+### 准确性新错(6.5→7 唯一卡点,跨技能同源)
+| 错 | 对 | Pattern |
+|----|----|---------|
+| I'd been there | I've been（现在完成时=人生经历）| 时态 |
+| what I enjoyed **were** | **was**（attraction,被 temples 带偏)| #20 主谓 attraction(=写作 the power are 同根)|
+| so seamless | so seamless**ly** | #19 副词 -ly 漏 |
+| 场景状语 `with…around` 常 miss | 每答加 1 个 | #19 副词太少 |
+| belonged to **ourselves** | **us** / felt like **that**→felt like | 反身误用 |
+| what **make** Chengdu(抽查) | **makes** | #18 -s 低压也漏=实锤 |
+| spring **in** mind / put **away** people / own industries | to mind / put **off** / **have** | #12 介词 + 搭配 |
+
+### 教练新增机制(产出后 1 秒自查,扩到)
+主语单数加 -s? + **时态 I've/I'd** + **副词 -ly** + **反身 us≠ourselves**。
+
+### 跨技能发现(再次印证)
+口语"碎句不连" = 写作"comma splice/堆砌";口语"副词总掉" = 写作 W2-22 干巴巴;口语"what…were" = 写作"the power…are"(attraction)。**同根同解**。
+
+### 接下来(6/3)
+1. 补:P1 random ×2 + 写作骨架填充 2(换题型)
+2. 口语 P2 A.3/5:决定/规划题(speaker 自己);P3 用因果串(别散句)
+3. 串句招 + 场景状语 反复用

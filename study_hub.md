@@ -8,19 +8,23 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-01 (Mon) W1 Day 1 — 系统大整顿 + P2 wife 达 6.5
-口语：P2 阶段 A wife(真题 look after nature)6→6.5,长度翻倍达 2min;
-       结构 drill What X does is Y ✓ / X means doing Y ✓;第三人称 -s 专项 9/10(规则懂、缺自动化)
-系统：方法论校正"三件事"(内容+准确性 并重)+ 阶段 A 加 scorecard + 删 speaking-coach skill(05_path 唯一真源)+ 建 question_bank.md 真题库
-写作：✅ W3 骨架填充1(环境 A&D,280词)scorecard ~6.5 逼近 7;卡点=准确性(主谓 attraction/冠词 the/comma splice/搭配)。ex05 已 5/26 做完
+上次 = 2026-06-02 (Tue) W1 Day 2 — P2 京都达 6.5 + 🌟串句突破
+口语：P2 阶段 A 京都(去过且喜欢的城市)A.2/5,~6.5,长度达标 2min;
+       🌟核心赢=suzy 主动把碎句用 but/that/— 串起来(她长期最卡的"多句衔接 gap"当场突破)
+       P3-1/2 cold(结构对);珠子捕获含杀手锏"地震→关西机场关→空城"
+准确性新错:I'd been→I've been(时态)/ what…were→was(attraction)/ seamless→seamlessly(副词)/ belonged to ourselves→us(反身)
+⚠️ 时间不够,未做:P1 random ×2 + 写作骨架填充2 → 顺延 6/3
+写作：(6/2 未练) 上次=6/1 W3 骨架填充1(环境 A&D)~6.5;卡点=准确性
 
-下一步：
-- 写作 T2 W3：骨架填充 2(换题型)+ 盯主谓 attraction/冠词 the/comma splice/搭配,时间压向 40min
-- 口语:wife 已 6.5 → 下个 persona 跨题型(地点/事件/物)走阶段 A + scorecard;P3 配对;每次产出扫 -s
+下一步（6/3 补做）：
+- 写作 T2 W3：骨架填充 2(换题型)+ 盯主谓 attraction/冠词 the/comma splice/搭配,软计时 40min
+- 口语:补 P1 random ×2;P2 继续 A.3/5 决定/规划题(speaker 自己)走阶段 A;P3 也用因果串(别散句)
 - 📌 跨技能:准确性 = 口语+写作共同的 6.5→7 唯一卡点(两边 TR/range 都够 7)
 
 📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md（口语唯一真源,无 skill）
-📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫
+📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫;6/2 低压抽查也漏=实锤
+📌 产出后 1 秒自查(6/2 扩):主语单数加-s? + 时态 I've/I'd + 副词-ly + 反身 us≠ourselves
+📌 串句招(6/2 点亮)+ 场景状语 at dawn,with…around(治副词少)— 反复用
 📌 W2-22 texture（写作必盯）：① 加新信息不复述 ② 逻辑方向对（结果→making，原因→by doing）
 ```
 

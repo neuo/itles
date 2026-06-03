@@ -40,15 +40,18 @@
 | ~~`…, like ___`（展开反射）~~ | ~~陈述后立刻补具体例子~~ | 3 ✓✓✓ — 5/31 P3 "Like, when we describe music as peaceful..." cold 自然产出 — **🎓 毕业** | 核心反射已内化（5/28 教→5/30×2→5/31 cold）|
 | ~~I wouldn't trade it~~ | ~~虽然忙/难，但值得（收尾）~~ | 3 ✓✓✓ | 4/26 Q1 Sports — **已毕业** |
 | 「为什么」开头**变体组**（轮换,防重复）| There are a couple of reasons for this ✓ / I'd say there are two main reasons / Well, a few things come to mind ✓ / Honestly, there's more than one reason | 3 ✓✓✓ — 6/1 开场抽查又用 1+3 | **轮流点名**;diversity = FC/LR 分 |
-| `What X does is Y` / `What makes X stand out is...`（强调句式）| 高迁移,任何描述题 | 1 ✓ — 6/1 drill "what he does is divide..." ✓ | 6/1 教,P2 wife 也用上 |
+| `What X does is Y` / `What makes X stand out is...`（强调句式）| 高迁移,任何描述题 | 2 ✓✓ — 6/2 P2 京都 "What makes Kyoto stand out is how it blends..." ✓（但抽查时 "what **make**"漏 -s,P2 里对）| 6/1 教;6/2 again |
 | `A big part of it is...`（引出主要部分）| 描述工作/活动 | 1 ✓ — 6/1 P2 wife | |
 | `X means doing Y`（引出含义/后果）| + 练 -s(means)| 1 ✓ — 6/1 drill "Her job means interacting..." ✓ | |
 | `was the one who...`（强调是某人）| 强调主语 | 1 ✓ — 6/1 P2 wife "she was the one who caught it" | |
 | idiom 组（认识/可用）| knows X inside out / that level of detail / beyond work / committed to / looking after | 1 — 6/1 P2 wife 都用上 | 低优先,简单词可替代 |
 | `get across`（传达,替代直译 pass through）| 表达/沟通/艺术题 | 0 — 5/31 教 | |
 | `play a key role in doing`（role **in** doing）| 强调重要性 + 介词练 | 0 — 5/31 "role to help"→in helping | 又一处介词错,重点 |
-| `I'd say` / `Honestly`（表态开头）| yes/no 观点题起手表态 | 1 ✓ — 5/31 "I'd say no" | |
-| `Having said that` | 让步转折（替代 but）| 1 ✓ — 5/31 P3 自然用上 | |
+| `I'd say` / `Honestly`（表态开头）| yes/no 观点题起手表态 | 2 ✓✓ — 6/2 P3 "I'd say it depends" | |
+| `Having said that` | 让步转折（替代 but）| 1 ✓ — 6/2 P3 用了但写成 **"Have said that"**(-ing 掉),形式未稳,不计第2次 | ⚠️ 永远 **Having**,固定分词 |
+| `immerse yourself in X` | 沉浸在…（**in** 不是 into）| 1 ✓ — 6/2 抽查+P2 京都鸭川都用对 in | 6/2 介词稳了 |
+| `at dawn, with + 名词 + 状态`（场景状语,治"副词太少"）| 给答案加画面 | 0 — 6/2 教(她说"这类描述常 miss") | 🆕 每答强制加 1 个 |
+| `what I enjoyed was + V-ing`（享受一个动作）| 描述题 | 0 — 6/2 教(她"想不到 enjoy 一个动作") | 🆕 |
 | `where's the money going to come from?` | P3 反问神器（政策/钱类题）| 0 — 5/31 教 | 显得在思考,高分 |
 | `Some people would argue..., but...` | 预判反方再反驳（观点题加分结构）| 0 — 5/31 教 | |
 | 🚨 介词重点复习 | accessible **to** / unfair **to** / immerse **in** / depend **on** | 0 — 5/31 成串错 | **稳定弱点,每次答题后扫介词** |
@@ -72,6 +75,8 @@
 - `back down` and `unresolved` were the two slip-ups in the first reformulation attempt — prioritize these
 - `just` and `actually` are not being avoided consciously — they simply don't surface during spontaneous production yet. Need to be drilled in, not avoided.
 - `itself` / `themselves` / `yourself` — emphatic pronouns, invisible to this learner during input, never surface in output. Add to watch list.
+- 6/2 反身误用:"belonged to **ourselves**" → belonged to **us**（反身代词只在主宾同指时用;"X 属于我们" 主语是 city,宾语是 we → us）。但 idiom "have it to **ourselves**" 里 ourselves 是对的（have sth to oneself）。两者别混。
+- 6/2 "felt like **that** the city..." → "felt **like** the city..." / "felt **as if** the city..."（feel like 后直接接从句,不要 that;feel that 才配 that）。
 
 ## Drill method
 Do NOT ask the learner to reproduce the original sentence from memory — that trains memorization, not pattern internalization.

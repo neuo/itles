@@ -139,7 +139,7 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Wrong preposition choice.
 **Deep:** Chinese prepositions don't map 1-to-1 to English. 在我这个年龄 defaults to "in" because 在 = in is the first-learned mapping. 因为 defaults to "by" (方式) instead of "for" (原因). English prepositions are highly idiomatic and need to be learned collocationally, not compositionally.
 **Fix:** Learn preposition as part of the phrase: **at** this age / **at** 40 / **for** doing sth (原因) / **by** doing sth (方式/工具) / **to** a high standard / **for** breakfast/lunch/dinner.
-**Status:** Recurring — 当前最高频 pattern，每次 session 都触发。4/18 复发："at nearly 40 ages"。4/19 复发："as breakfast" → for breakfast。4/24 复发："I have been Kyoto" → been **to** Kyoto。4/25 复发："after 14 years **of** a programmer" → **as** a programmer。4/26 三次：stuck **at** → behind / "**where** there are plenty" → with（连接词扩展）/ "listening **music**" → listening **to** music。
+**Status:** Recurring — 当前最高频 pattern，每次 session 都触发。4/18 复发："at nearly 40 ages"。4/19 复发："as breakfast" → for breakfast。4/24 复发："I have been Kyoto" → been **to** Kyoto。4/25 复发："after 14 years **of** a programmer" → **as** a programmer。4/26 三次：stuck **at** → behind / "**where** there are plenty" → with（连接词扩展）/ "listening **music**" → listening **to** music。6/2 "spring **in** my mind" → spring **to** mind。
 **Occurrences:** 10+
 
 ---
@@ -196,4 +196,26 @@ Add new patterns here when they appear more than once, or when a single instance
 1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"
 2. **集合名词当单数**(6/1 缺口):company/team/family/government/a kind of X = 单数 → tries/wins/makes(try→tries y→ies)。写作也踩过(creative industry 类)。
 **Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。
-**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识）
+**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉,**低压也漏**=自动化缺口实锤,what/it/this 单数主语优先扫）
+
+---
+
+## Pattern 19: 副词缺失 / -ly 漏（跨技能,与写作"干巴巴没副词"同源）
+**Examples:** 6/2 "so **seamless**" → so **seamlessly**；场景状语 `at dawn, with hardly anyone around` 这类**整段 miss**（suzy 自述"这类描述我会经常 miss"）。
+**Surface:** ① 形容词当副词用(漏 -ly) ② 句子完全没有副词/状语,只剩 SVO 骨架。
+**Deep:** 中文副词不变形(无缝→无缝地 都是"无缝"),-ly 是额外一步,压力下省;且**副词不携带主干意义**,认知带宽只够搭骨架时第一个被砍 → 与 Pattern 7(骨架句)、写作 W2-22 texture 同根。
+**Fix:**
+1. 副词形式:程度/方式词后自查 -ly（seamless→seamlessly / incredible→incredibly / massive→massively）。
+2. **每个答案强制加 ≥1 个场景状语**:`at dawn, with + 名词 + 状态`(with hardly anyone around / with the sun coming up / with no one in sight)。这是 6.5→7 的 texture move。
+**Status:** First captured 6/2（口语）;写作侧 W2-22 已在盯。**展开训练+产出后都扫**。
+**Occurrences:** 1
+
+---
+
+## Pattern 20: 主谓 attraction（主语被中间/后面名词带偏）— 跨技能(=写作 W2-17)
+**Examples:** 6/2 口语 "what I enjoyed more **were** the temples" → **was**(主语 what=单数,被复数补语 temples 带偏)；写作 "the power of [contributors] **are**" → is(被介词宾语带偏)。
+**Surface:** 动词跟了错误的名词,没跟真正的主语 head。
+**Deep:** 压力下大脑就近取数,跟离动词最近/最显眼的名词配,而不是句子真正的主语。**口语写作同一根因** → 一起练。
+**Fix:** 谓语前 0.5 秒锁定**真正的主语 head**:`what …` = 单数 / `the power of X` = power / `the trees in the park` = trees。head 是谁,动词跟谁。
+**Status:** 跨技能复发(写作 W2-17 已毕业又回潮;6/2 口语首现)。Monitor 两边。
+**Occurrences:** 2（含写作）
