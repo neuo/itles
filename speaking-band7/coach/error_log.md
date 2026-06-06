@@ -159,8 +159,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Wrong word chosen — similar sound/spelling but completely different meaning.
 **Deep:** Retrieval under pressure pulls up a phonetically similar word. scrawl/scramble share initial sounds; fairly/hardly are both 2-syllable -ly adverbs. The correct word exists in passive vocabulary but loses the retrieval race to the more recently-encountered lookalike. Especially dangerous when the substitution reverses the meaning (fairly=quite vs hardly=almost not).
 **Fix:** Pair confusables: scrawl (writing) vs scramble (rush); fairly (quite/moderately) vs hardly (almost not). For frequency: hardly ever / barely ever / scarcely ever — all negative direction.
-**Status:** 4/27 scrawl→scramble; 4/29 fairly→hardly（意义反转，最危险的一类）
-**Occurrences:** 2
+**Status:** 4/27 scrawl→scramble; 4/29 fairly→hardly（意义反转，最危险的一类）；6/4 抽查 "At **dust**"→**dusk**（黄昏≠灰尘，意义全错——加配对 dusk/dust 到清单）
+**Occurrences:** 3
 
 ---
 
@@ -195,8 +195,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:**
 1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"
 2. **集合名词当单数**(6/1 缺口):company/team/family/government/a kind of X = 单数 → tries/wins/makes(try→tries y→ies)。写作也踩过(creative industry 类)。
-**Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。
-**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉,**低压也漏**=自动化缺口实锤,what/it/this 单数主语优先扫）
+**Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。**6/5 安排限时 -s 专项 10 句确认自动化。**
+**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉；**6/4 开场抽查 "my career basiclly tie me"→ties 又掉 —— 连续两次低压抽查都掉(make/tie),自动化缺口实锤。单数主语 what/it/this/my career/my X 优先扫**）
 
 ---
 

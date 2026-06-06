@@ -8,18 +8,20 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-02 (Tue) W1 Day 2 — P2 京都达 6.5 + 🌟串句突破
-口语：P2 阶段 A 京都(去过且喜欢的城市)A.2/5,~6.5,长度达标 2min;
-       🌟核心赢=suzy 主动把碎句用 but/that/— 串起来(她长期最卡的"多句衔接 gap"当场突破)
-       P3-1/2 cold(结构对);珠子捕获含杀手锏"地震→关西机场关→空城"
-准确性新错:I'd been→I've been(时态)/ what…were→was(attraction)/ seamless→seamlessly(副词)/ belonged to ourselves→us(反身)
-⚠️ 时间不够,未做:P1 random ×2 + 写作骨架填充2 → 顺延 6/3
-写作：(6/2 未练) 上次=6/1 W3 骨架填充1(环境 A&D)~6.5;卡点=准确性
+上次 = 2026-06-04 (Thu) W1 Day 3(补 6/3) — P2 A.3/5 speaker自己 + 写作
+⚠️ 6/3 整天没练(已核查 sessions),6/4 补做。
+口语：P2 阶段 A.3/5=改变计划题(speaker 自己),珠子已填(大理→桂林 Club Med + 机场送别画面);
+       suzy 已在别处自练 → 本次只 cold 抽查 2 句,P2/P3=教练用真实素材生成的 shadow model;P1 ×2 顺延
+       wins:`Having said that` 形式修对(-ing 保住,2✓✓)+ `immerse in` 稳(2✓✓)+ 跨session调 `tie sb to the city`
+准确性新错(全来自抽查):tie→ties(#18 -s 连续第2次低压掉,实锤)/ and immerse→immersing(平行)/ dust→dusk(近形词)/ the nature→nature(冠词)
+写作：6/4 W3 骨架填充2(P/S 工作时长)。study model 7.0 + suzy 大量精准点评范文(连抓 2 个 L-drift)+ 🎉**cold 自写 intro+Body2 TS**:
+       上轮刚教的"结果用 -ing(反 by contrast)"/"require sb to do" cold 全守住 + #1 缺口 -s(requires)在简单结构对 = 教→下次 cold 守住 path 走通。
+       唯一漏洞=**题型串台**(P/S 预告成 reasons/C/E,=5/23 C/E vs P/S 混淆复发,在 TR 层非 4 语言盯防点)。已覆盖 2 题型骨架(A/D + P/S)
 
-下一步（6/3 补做）：
-- 写作 T2 W3：骨架填充 2(换题型)+ 盯主谓 attraction/冠词 the/comma splice/搭配,软计时 40min
-- 口语:补 P1 random ×2;P2 继续 A.3/5 决定/规划题(speaker 自己)走阶段 A;P3 也用因果串(别散句)
-- 📌 跨技能:准确性 = 口语+写作共同的 6.5→7 唯一卡点(两边 TR/range 都够 7)
+下一步（6/5）：
+- 口语:**开场限时 -s 专项 10 句**(连续两次抽查 make/tie 都掉 → 必须专项,单数主语优先);P2 A.5/5 物品题 + 补 P1 ×2;A.4 zhangwei 待补(6/6 A 毕业检验前补齐)
+- 写作 T2 W3：骨架填充 3(最弱题型 DBV/C/E/2-Pt 选 1)——继续 cold 填;**必走 Step 1.5 中文骨架先锁题型**(堵 P/S↔C/E 串台),写前默念"problems 还是 reasons";4 语言盯防点已 cold 守住,这次盯 TR 题型识别
+- 📌 跨技能:准确性 = 口语+写作共同的 6.5→7 唯一卡点(两边 TR/range 都够 7)；今日口语平行/冠词错 = 写作 W2-18/W2-19 同根
 
 📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md（口语唯一真源,无 skill）
 📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫;6/2 低压抽查也漏=实锤

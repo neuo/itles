@@ -2313,3 +2313,34 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. 补:P1 random ×2 + 写作骨架填充 2(换题型)
 2. 口语 P2 A.3/5:决定/规划题(speaker 自己);P3 用因果串(别散句)
 3. 串句招 + 场景状语 反复用
+
+---
+
+## Day（6/4 周四）— 补 6/3 · 口语 P2 A.3/5 + 写作
+
+### 口语（P2 阶段 A.3/5 = 决定/规划题，persona=speaker 自己）
+- ⚠️ suzy 已在别处自练口语，本次只 cold 产出**开场抽查 2 句**；P2/P3 应她要求由教练用她真实素材生成 model（供 shadow）。P1 random ×2 顺延。
+- P2-新10「Describe a plan you had to change」：真实素材=本想全家去大理骑行→公司紧急项目去不了→妻子单独带娃去桂林 Club Med→失望/遗憾→机场送别不舍。珠子已回填 content_bank（含标杆画面"机场送别+场景状语"）。
+- 开场抽查 wins：`Having said that` **形式修对**(-ing 保住，清掉 6/2 的 "Have said that") + `immerse in` 稳 + 跨 session 调出 `tie sb to the city`(6/2 P3 范文 chunk)。
+
+### 准确性新错（全来自开场抽查 cold）
+| 错 | 对 | Pattern |
+|----|----|---------|
+| my career basiclly **tie** me | **ties**（单数）| #18 -s — **连续第 2 次低压抽查掉**(6/2 make→makes, 6/4 tie→ties)，自动化缺口实锤 |
+| like sitting and **immerse** | and **immersing** | 平行(=写作 W2-18 同根)|
+| At **dust** | At **dusk**（黄昏≠灰尘）| #16 近形词，意义全错 |
+| with barely **people** | barely **anyone** | 否定极性词配 anyone |
+| how peaceful **the nature** | **nature**（泛指不加 the）| 冠词(=写作 W2-19)|
+
+### 写作（T2 W3 骨架填充 2 = P/S 工作时长，换题型）
+- suzy 要"简单练" + "你写下吧我学习下" → 给填好的 Band 7 对照范文(study model，未 cold 填)。examiner 校准 = **7.0 全维 PASS**，无漂移。
+- 4 个复发错的正确示范都点出来了：attraction(the problems it causes)/ 泛指不加 the(under pressure/productivity)/ 破折号防 comma splice / by-doing texture。
+- 已覆盖 2 题型骨架(6/1 A/D + 6/4 P/S)。下次同题型应让她**自己 cold 填**验证盯防点。
+
+### 跨技能再印证
+口语平行错(and immerse→immersing)=写作 W2-18；口语冠词(the nature)=写作 W2-19。同根。今日写作范文正好示范了这两点的正确做法。
+
+### 下一步（6/5）
+1. 开场做**限时 -s 专项 10 句**（单数主语 what/it/my X 优先）确认自动化——连续两次抽查掉 = 必须专项
+2. P2 A.5/5 物品题（乐高/CSAPP）+ 补 P1 random ×2
+3. 阶段 A 还差 A.4（zhangwei 人/朋友）→ 6/6 A 毕业检验前补齐

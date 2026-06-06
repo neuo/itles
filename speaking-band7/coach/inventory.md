@@ -48,9 +48,10 @@
 | `get across`（传达,替代直译 pass through）| 表达/沟通/艺术题 | 0 — 5/31 教 | |
 | `play a key role in doing`（role **in** doing）| 强调重要性 + 介词练 | 0 — 5/31 "role to help"→in helping | 又一处介词错,重点 |
 | `I'd say` / `Honestly`（表态开头）| yes/no 观点题起手表态 | 2 ✓✓ — 6/2 P3 "I'd say it depends" | |
-| `Having said that` | 让步转折（替代 but）| 1 ✓ — 6/2 P3 用了但写成 **"Have said that"**(-ing 掉),形式未稳,不计第2次 | ⚠️ 永远 **Having**,固定分词 |
-| `immerse yourself in X` | 沉浸在…（**in** 不是 into）| 1 ✓ — 6/2 抽查+P2 京都鸭川都用对 in | 6/2 介词稳了 |
-| `at dawn, with + 名词 + 状态`（场景状语,治"副词太少"）| 给答案加画面 | 0 — 6/2 教(她说"这类描述常 miss") | 🆕 每答强制加 1 个 |
+| `Having said that` | 让步转折（替代 but）| 2 ✓✓ — 6/4 抽查**形式修对**(-ing 保住),6/2 "Have said that" 已清 | ⚠️ 永远 **Having**;再 1 次 clean 毕业 |
+| `immerse yourself in X` | 沉浸在…（**in** 不是 into）| 2 ✓✓ — 6/2 京都鸭川 / 6/4 抽查 都用对 in | 介词稳;再 1 次毕业 |
+| `at dawn, with + 名词 + 状态`（场景状语,治"副词太少"）| 给答案加画面 | 1(带注) — 6/4 "At dust, with barely people around" 结构 cold 出但 dust→dusk / people→anyone 表面错,未算 clean | 🆕 每答加 1 个;盯 dusk 拼写 + barely 配 anyone |
+| `tie sb to (the city)` | 被…束缚（工作把人拴在城里）| 1 ✓ — 6/4 抽查跨 session 调出(但 career **tie**→ties,-s 掉) | 6/2 P3-6 范文 chunk,内化中 |
 | `what I enjoyed was + V-ing`（享受一个动作）| 描述题 | 0 — 6/2 教(她"想不到 enjoy 一个动作") | 🆕 |
 | `where's the money going to come from?` | P3 反问神器（政策/钱类题）| 0 — 5/31 教 | 显得在思考,高分 |
 | `Some people would argue..., but...` | 预判反方再反驳（观点题加分结构）| 0 — 5/31 教 | |
