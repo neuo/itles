@@ -19,7 +19,7 @@
 | 题型 | 主 persona | 覆盖状态 |
 |------|-----------|---------|
 | 人(创意/孩子) | Muye | 🟡 起步(5/31 阶段A) |
-| 人(朋友/自学/解决问题) | zhangwei | ⬜ 未练 |
+| 人(朋友/自学/解决问题) | zhangwei | 🟡 6/6 阶段 A(乐于助人题,CDN 救火 + "答疑深化理解"珠子已填) |
 | 人(工作/政策/鼓励) | wife | 🟢 6/1 阶段 A 达 6.5(园林绿化角度,珠子已填) |
 | 地方/旅行/城市 | 京都 / 成都 | 🟢 京都 6/2 阶段 A 达 6.5(第一次行程,珠子已填+杀手锏地震细节) |
 | 决定/规划/职业 | speaker 自己 | 🟡 6/4 阶段 A(改变计划题,大理→桂林珠子已填+机场送别画面) |
@@ -66,6 +66,9 @@
 - 执行力强:Notion 做年/季/月计划 + 每周日 review
 - 自学强:公司转 AI,没 ML 背景,自学 6 个月转型
 - 解决问题独特:系统故障别人翻代码,他看 network logs,30 分钟找到 CDN 节点问题
+- ⭐ 6/6 锚定(乐于助人题):**"救火队长",everyone turns to him when stuck,从不让你觉得蠢**(no matter what you ask, he responds patiently)
+- ⭐ 6/6 **杀手锏现场**:系统崩,别人 frantically reviewing code/error logs,他 calmly traces network traffic → 半小时定位 faulty CDN node(saved the day while the rest panicked)
+- ⭐ 6/6 **为啥乐于助人(高分点)**:他说"answering others' questions actually deepens his own understanding" → helping isn't a chore, it's a way of learning
 - side:玩民谣吉他(大学乐队主吉他)
 
 **可套题**:发小 / 朋友自学 / 机智解决问题 / 擅长计划 / 成功事业 / 影响你的人 / 擅长音乐
