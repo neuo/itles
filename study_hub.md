@@ -34,8 +34,8 @@
 
 ## 🚀 新 session 快速开始
 
-**开场只需说一句："继续学习"**。
-我会：① 读上面"当前进度" → ② 给今日行动清单 → ③ 直接开练（或继续浸泡）。
+**开场只需说一句："继续学习"**（触发 `study-coach` skill = 整合编排入口）。
+我会：① 读上面"当前进度"（两科一起）→ ② 报本周**共同弱点焦点** + 给今日**双科清单**（配对话题域）→ ③ 分别调 speaking-coach / writing-coach 开练 → ④ 跨科综合 + 两科收尾。
 
 **进场防跑偏的 3 个动作**：
 1. 看本文件"当前进度"块 —— 5 行内知道在哪一步
@@ -59,7 +59,7 @@
 | **P2/P3 范文**（54 P2 + 324 P3）| `speaking-band7/examples/` | 阶段 A 朗读 / B 用作题源 |
 | **状态文件**（error_log / inventory / sessions）| `speaking-band7/coach/` | 教练自动维护 |
 
-**怎么练（无 skill,path 是唯一真源）**：触发"练 P1/P2/P3/来一题/串模考" → 按 `speaking-band7/05_path.md` 的「🎓 教练执行手册」跑(选题/drill/8维诊断/scorecard/End-of-Session 全在那)。选题从 `question_bank.md` 真题库。
+**怎么练（speaking-coach skill 薄壳,05_path 仍唯一真源）**：触发"练 P1/P2/P3/来一题/串模考" → speaking-coach skill 加载并执行 `speaking-band7/05_path.md` 的「🎓 教练执行手册」(选题/drill/8维诊断/scorecard/End-of-Session 全在那)。选题从 `question_bank.md` 真题库。由 study-coach 编排时作为口语臂被调用。
 
 > **7 persona**（54 P2 取材来源）：wife（公务员 ⭐主角）/ Muye（5 岁儿子）/ zhangwei（同学）/ 外公 / Liang（发小）/ 京都（旅行）/ 成都（现居）+ speaker 自己（仅决定/规划/职业题）。
 

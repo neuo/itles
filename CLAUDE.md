@@ -67,9 +67,11 @@ ielts/
 
 ## 互动方式
 
-### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题/串模考"）
+> **学习入口 = `study-coach` skill**（触发"继续学习/今天练什么"）：整合编排——一次 session 同时驱动口语+写作,先报当周**共同准确性焦点**(两科同一个根:-s/attraction/冠词/介词/搭配/副词/衔接) + 配对话题域,再分别调用下面两个子 coach,最后做跨科综合 + 确保两科收尾文件都写。单练一科可直接进对应子 coach。详见 `.claude/skills/study-coach/SKILL.md`。
 
-**无 skill —— path 是唯一真源**：按 `speaking-band7/05_path.md` 的「🎓 教练执行手册」跑（选题/drill 流程/8 维诊断/scorecard/End-of-Session 全在那）。P2 走三阶（A→B→C，详见 `04_toolkit.md` §11），P1/P3 cold-first。选题从 `speaking-band7/question_bank.md` 真题库,禁自编。
+### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题/串模考" → speaking-coach skill）
+
+**speaking-coach skill = 薄壳执行器,方法论唯一真源仍是 `speaking-band7/05_path.md`「🎓 教练执行手册」**（选题/三阶/8 维诊断/scorecard/End-of-Session 全在那;skill 只 load+enforce,不重复内容——5/31 删旧 skill 后的干净重建,单一真源不破）。P2 走三阶（A→B→C，详见 `04_toolkit.md` §11），P1/P3 cold-first。选题从 `speaking-band7/question_bank.md` 真题库,禁自编。
 
 每题：① 语法纠错（第三人称 s / 单复数 / 介词 / 时态）② 表达升级（原句小改，不重写）③ 教一个句式（每题最多一个）。
 **两个输出都给**：先精修版（原句小改）再范文（Band 7）。书面词给口语替代。
