@@ -57,6 +57,20 @@
 - **Active 元认知捞** ⭐⭐⭐⭐——suzy 在 Drill 中主动追求 LR upgrade（不只满足"用对 phrase"，主动想更高 level 表达）。这是 Band 7→7.5 的关键 mindset
 - 复检：D+1 (5/28) [ ] / D+3 (5/30) [ ] / D+7 (6/3) [ ] / D+14 (6/10) [ ] / D+30 (6/26) [ ] 🎓
 
+### 2026-06-02 DBV 额外练习（工作题）
+
+#### Phrase 17: `While [View A] is understandable, I believe ___`（教,DBV/AD 结论 closer）
+- 原句 context：DBV 结论模板,先让步对方再亮立场（suzy 这次结论没用,下次刻意用）
+- 为什么 Band 7：让步+表态一句完成,position throughout（TR 7 marker）+ 复杂句（状语从句）
+- 可迁移：任何 A/D、DBV 结论。`While the appeal of a quick pay rise is understandable, building a career over time is more valuable.`
+- 复检：D+1 (6/3) [ ] / D+3 (6/5) [ ] / D+7 (6/9) [ ] / D+14 (6/16) [ ] / D+30 (7/2) [ ] 🎓
+
+#### Phrase 18: `yields higher returns` / `come with too many unknowns`（Active 捞 ⭐ suzy 自产）
+- 原句 context：suzy 自己在 Body 2 写出 "staying...yields higher returns" + "A new job comes with too many unknowns" —— cold 产出的 Band 7 collocation
+- 为什么 Band 7：yield returns（金融/抽象搭配,比 get benefits 高）/ come with unknowns（地道,比 has many uncertainties 自然）
+- ⭐ Active 捞:她自产的,优先固化（比教的留存率高）
+- 复检：D+1 (6/3) [ ] / D+3 (6/5) [ ] / D+7 (6/9) [ ] / D+14 (6/16) [ ] / D+30 (7/2) [ ] 🎓
+
 ---
 
 ### 2026-05-24 Daily Drill #8（Active 捞 ⭐）

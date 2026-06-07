@@ -685,3 +685,16 @@ Phrase 11 path:
 - polices → policies [拼写]
 - huge ×4 → 轮换 [LR 重复]
 - both...respectively → 删 [词义误用]
+
+### 2026-06-02 DBV 额外练习（工作题,非官方骨架填充2=6/4 P/S）
+- others argues that → others argue [W2-17 反向:-s 过度标注,复数主语误加 -s]
+- is effective way → is an effective way [W2-19 漏 a/an]
+- new company would provide → a new company would offer [W2-19 漏 a/an]
+- much stronger sense → a much stronger sense [W2-19 漏 a/an]
+- one of my friends, he got → a friend of mine, who got [W2-11 comma splice 复发]
+- firing old bosses → leaving their current employer [词义反转:firing=炒老板,意思反了;同口语近义反转]
+- seek for long-term development → seek/pursue [W2-9 搭配:seek 不加 for]
+- holding the development of the business → holding back the company's growth [W2-9 搭配]
+- for the long run → in the long run [W2-9 介词]
+- attract talents → attract talent [W2-2 类:talent 指人才不可数]
+- his new leader → his new manager/boss [L1 直译:领导≠leader]

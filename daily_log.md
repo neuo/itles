@@ -2282,10 +2282,10 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 
 ---
 
-## Day（6/2 周二）— 口语 W1 Day 2:P2 京都达 6.5 + 🌟串句突破
+## Day（6/2 周二）— 口语 W1 Day 2(P2 京都达 6.5 + 🌟串句突破) + 写作 DBV 额外练习(7.0)
 
-> 详细 session 见 `speaking-band7/coach/sessions/2026-06-02.md`。
-> ⚠️ 时间不够,**未做**:P1 random ×2 + 写作骨架填充 2 → 顺延 6/3。
+> 详细 session:口语 `speaking-band7/coach/sessions/2026-06-02.md` / 写作 `writing-band7/log/sessions/2026-06-02-skeleton-dbv-extra.md`。
+> ⚠️ 写作这篇是**额外 DBV 练习**,官方 W3 骨架填充2 = 6/4 的 P/S(见 6/4 entry)。仍**未做**:P1 random ×2。
 
 ### 口语 P2 阶段 A — 去过且喜欢的城市(京都,A.2/5)
 - 净 ~6.5,长度达标 ~2min。小问题法解冻,捕获京都珠子(含杀手锏"那次关西地震→机场关→空城")。
@@ -2309,10 +2309,17 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 ### 跨技能发现(再次印证)
 口语"碎句不连" = 写作"comma splice/堆砌";口语"副词总掉" = 写作 W2-22 干巴巴;口语"what…were" = 写作"the power…are"(attraction)。**同根同解**。
 
+### 写作 DBV 额外练习(工作题)〔官方 W3 骨架填充2 = 6/4 P/S〕
+- 净 ~6.5(TR/CC 到 7 级,GRA 拖到 6);整篇修复版**考官 gate 7.0 PASS**。
+- ✅ **DBV 结构本能已对**:Body1=不认同(换工作)、Body2=认同(留下)、立场全程一致、分号主动用上(6/1 教的)。说明题型骨架进脑。
+- 🔴 准确性主战场这次=**冠词 a/an 漏 ×3**(上次是 the,同家族) + comma splice 复发(W2-11) + collocation(seek for/hold/in the long run)。
+- ⭐ 跨技能铁证:写作 `others **argues**`(多加-s) = 口语同日 `what **make**`(少加-s) —— -s 自动化没建立,一枚硬币两面,**谓语前锁主语 head 单复数**一起练。`firing old bosses`(意思反)= 口语 fairly/hardly 反转同类。
+
 ### 接下来(6/3)
-1. 补:P1 random ×2 + 写作骨架填充 2(换题型)
+1. 补:P1 random ×2
 2. 口语 P2 A.3/5:决定/规划题(speaker 自己);P3 用因果串(别散句)
-3. 串句招 + 场景状语 反复用
+3. 写作 W3 骨架填充 2(官方,换题型);自检专加"每个单数可数名词 a/an 了吗"
+4. 串句招 + 场景状语 反复用
 
 ---
 
