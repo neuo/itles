@@ -190,7 +190,7 @@ Add new patterns here when they appear more than once, or when a single instance
 
 ## Pattern 18: 第三人称 -s 自动化缺口（#1 高频,听/说同源）
 **Examples:** "she really enjoy it"→enjoys / "she have to stay calm"→has（6/1 P2 wife）；与听力 -s 漏听同源。
-**Surface:** 第三人称单数主语,动词漏 -s（含 has/does/goes 不规则 + company/team/this kind of X 集合名词当单数）。
+**Surface:** 第三人称单数主语,动词漏 -s（含 has/does/goes 不规则 + company/team/this kind of X 集合名词当单数）。⚠️ **6/11 揭示双向**:不只"漏 -s",还**乱加 -s** —— `others **argues**`(复数主语误加)/ `make it **stands**`(make sb do 后该原形,误加)。压力下"乱撒 -s"=自动化没建立的另一面。自查升级为"**该不该加? 主语单数才加,复数/情态后/make-do 都不加**"。
 **Deep:** **不是知识缺口,是自动化缺口** —— 6/1 限时专项 9/9 全对(该不加的也没乱加),证明规则完全懂;但 P2 整段产出时(带宽不够)又掉 → retrieval/automaticity 失败,不是 don't-know。
 **Fix:**
 1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"

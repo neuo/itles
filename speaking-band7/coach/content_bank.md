@@ -134,6 +134,8 @@
 - 爱好:科幻小说 + 给儿子拍照
 - 物品:CSAPP / 电影盗梦空间
 - ⭐ 6/11 物品·科技:**3D 打印机**(已有入门款 ~¥4000、想升级更好的;同事发烧友自组机器;给儿子打玩具魔方/玩偶 + 培养工程兴趣;"大号玩具"丰富亲子生活)
+- ⭐ 6/11 物品·科技:**专业相机**(不算摄影迷,但想记录儿子成长;同事摄影爱好者带入坑;拍儿子高质量照当 memory triggers:生日/哭笑瞬间;旅行拍风景)
+  - ⭐⭐ **收尾珠子(高分,suzy 自己生成)**:相机让我更想旅游 → 但旅游不是重点,是一家人在一起 → 照片不只是未来回忆,更是专注当下美好。框架 `What makes it stand out is that it ___`;高迁移 chunk `the X isn't the point — it's really about Y`
 - 理想:独立研究者
 - ⭐ 6/4 捕获(改变计划题):**本想全家去大理沿洱海骑车 → 公司紧急项目我去不了 → 妻子单独带娃去桂林 Club Med(可托管小孩的度假村) → 一开始失望/至今有点遗憾**(a project landed on my desk / no way I could get away / run off her feet)
 - ⭐ 6/4 **标杆画面珠子**:去机场送他们,`standing there at the gate, with the two of them waving back at me, I didn't want to let them go`(送别+场景状语,情感+texture 双到位)
