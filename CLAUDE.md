@@ -78,7 +78,7 @@ ielts/
 
 ### 写作练习流程（触发"练 T2/T1"→ writing-coach skill）
 
-T2 按 `writing-band7/05_path.md` 当周阶段。错误沉淀进 `writing-band7/log/errors.md`，cold 产出是核心训练。
+T2 按 `writing-band7/05_path.md` 当周阶段。选题从 `writing-band7/question_bank.md`（A 区剑 16-20 真题 / B 区机经）,禁自编。错误沉淀进 `writing-band7/log/errors.md`，cold 产出是核心训练。
 
 ### 每次练习结束（**强制,流程被打断也要补**）
 

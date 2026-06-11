@@ -78,7 +78,7 @@ suzy 6.5→7 的卡点**两科是同一个**:准确性 / 压力下检索失败(r
 2. **不主动建议收工**——只在 suzy 说累/没时间时停。
 3. **进度按 sessions 文件核查**,不从 daily_log 推断。
 4. **不从零 cold production**(高脚手架渐进,见记忆 feedback_output_gap):P2 三阶 / T2 仿写→骨架→cold;任何写作范文过考官 gate(`writing-band7/_examiner_protocol.md`)。
-5. **选题禁自编**:口语 `speaking-band7/question_bank.md`,写作按 writing-band7 题源。
+5. **选题禁自编**:口语 `speaking-band7/question_bank.md`,写作 `writing-band7/question_bank.md`(A 区剑 16-20 真题优先,B 区机经做变化)。
 
 ---
 

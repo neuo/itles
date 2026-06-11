@@ -124,6 +124,7 @@ description: IELTS Writing coach — T1 (timed drills + diagnosis) and T2 (3-sta
 - `writing-band7/03_question_types.md` — 5 题型骨架（A/D, DBV, P/S, C/E, 2-Pt）
 - `writing-band7/04_toolkit.md` — 限量工具集（25 衔接 + 8 句式 + 5 opener + 20 升级词 + 3 种复杂句）
 - `writing-band7/05_path.md` — 5 周训练路径
+- `writing-band7/question_bank.md` — **T2 选题唯一来源**（A 区剑 16-20 逐字真题 / B 区网上机经），禁自编题
 - `writing-band7/examples/01-05_*.md` — 5 个题型各 1 篇 Band 7 范文（从零写的）
 - `writing-band7/log/sessions/YYYY-MM-DD.md` — 每次练习详细记录
 - `writing-band7/log/errors.md` — T2 错误模式追踪
@@ -142,6 +143,15 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 4. 如果是 W4+，进入 cold production。
 5. 按阶段执行对应模式（见下）。
 
+### 📚 T2 选题来源（禁自编 — 2026-06-11 加）
+
+任何"给一道新 T2 题"的场景（W3 骨架填充 / W4+ cold / 加练 / drill）**必须从 `writing-band7/question_bank.md` 选**，**禁止自编题**。
+
+- **优先 A 区**（剑 16-20 逐字真题，权威）；要变化 / 押近期题时用 **B 区机经**（已标"非逐字"，措辞别当官方）。
+- 选题逻辑：① 匹配 `05_path.md` 当周题型（题库每题有题型标签 DBV/AD/AgD/PN/2PT/PS）② 若由 study-coach 编排，挑**与口语配对话题域同域**的题（内容 prep 跨科复用）③ **避开已练过的**（查 `log/sessions/` 记录，别重复出同题）。
+- **例外**：仿写（W1-W2）题目仍用 `examples/` 对应范文的原题（题目与范文绑定，不从题库另选）。
+- 题库不够时可扩（剑 11-15 老题 / 新机经），扩完仍只从题库出题。
+
 ### 模式 T2-A：仿写（W1-W2）
 
 1. 从 **`writing-band7/examples/`** 选当周对应的范文（按 `05_path.md` 的周次安排：W1 = 01_education_dbv；W2 = 02_technology_ad + 03_health_ps）。这些范文是从零写的 Band 7 标杆，每篇含完整 [T][E][Ex][L] 标注 + 4 维度评分检查 + 工具集对应
@@ -151,7 +161,7 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 
 ### 模式 T2-B：骨架填充（W3）
 
-1. 选一个题型和话题，给她 4 段的"句子 stem"骨架，stem 全部来自 `writing-band7/04_toolkit.md` §2 的 8 个核心句式。例如：
+1. 从 `question_bank.md` 选当周题型的一道题（见上「选题来源」），给她 4 段的"句子 stem"骨架，stem 全部来自 `writing-band7/04_toolkit.md` §2 的 8 个核心句式。例如：
    ```
    Intro:  It is often argued that ___. While I understand ___, I largely disagree because ___ and ___.
    Body 1: The primary reason for my position is that ___.
@@ -167,7 +177,7 @@ suzy 说 "练 T2 / task 2 / 大作文 / 出道 T2 题"：
 
 ### 模式 T2-C：Cold Production（W4+）
 
-1. 给题目 + 题型（不给骨架、不给提示）
+1. 从 `question_bank.md` 选一道题（见上「选题来源」，可与口语话题域配对）+ 标题型（不给骨架、不给提示）
 2. 40 min 严格限时
 3. 反馈 + 让她按 `02_band7_target.md` 的 14 项清单逐项自评
 
