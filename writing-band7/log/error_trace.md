@@ -698,3 +698,14 @@ Phrase 11 path:
 - for the long run → in the long run [W2-9 介词]
 - attract talents → attract talent [W2-2 类:talent 指人才不可数]
 - his new leader → his new manager/boss [L1 直译:领导≠leader]
+
+### 2026-06-11 C/E 科技依赖 cold 自填（study-coach 整合·写作）
+- technology largely extends → greatly extends [词选]
+- a washing machine cleans out clothes → cleans our clothes [词义/typo]
+- allow people work → allow people to work [GRA: allow sb to do]
+- without leaving room → without leaving home [词义]
+- saving a great deal to time → a great deal of time [W2-9 介词]
+- put more attention on their screens → pay attention to / spend time on [W2-9 搭配]
+- each member is glued to their own phones → their own phone [each=单数,数]
+- eassy → essay / eaiser → easier [W2-1 拼写,未倒读]
+- ✅ -s 全对(focus 见效) + C/E 没串 P/S

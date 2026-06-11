@@ -2371,10 +2371,11 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 
 ### 写作（T2 W3 骨架填充3 = C/E 科技依赖，study model）
 - 🎉 **Step 1.5 中文骨架 cold 锁题型成功**:Body1 全 causes / Body2 全 effects,**主动避开 P/S↔C/E 串台**(6/4 当时的 TR 漏洞,这次机制守住)。
-- 英文 TEEL 要范文(未 cold 填);study model 考官 **7.0 全维 PASS**;冠词 a/an 全篇示范(上篇 DBV 最大拖累)。
+- 英文 TEEL 先要范文;study model 考官 **7.0 全维 PASS**;冠词 a/an 全篇示范(上篇 DBV 最大拖累)。
+- 🔥 **同 session 末转 cold 自填整篇**:✅ **-s 全对(今日 focus 见效)** + C/E 没串 + `enabling` 合句漂亮;新滑 allow to / room→home / 介词 of / put attention→pay attention to / each→phone + 拼写 eassy/eaiser(未倒读)。净 ~6.5 逼近 7。
 
 ### ⚠️ 进度警示（hard check）
-6/11 距首考 6/20 **仅 9 天**,口语仍在阶段 A、写作仍在骨架填充,**明显落后日历**(W2/W4 该 cold 了)。**根因:近几次都 model-study、没 cold 产出**。下次起必须:口语 cold 自产冲阶段 A 毕业 / 写作自己 cold 填 → 转 W4 cold production。
+6/11 距首考 6/20 **仅 9 天**,口语仍在阶段 A、写作仍在骨架填充,**落后日历**(W2/W4 该 cold 了)。**本次后半已转 cold**(P2 相机 + C/E 都自产,-s 全对)——好兆头;但前半 model-study 偏多。下次起**保持 cold 节奏 + 提速**:口语 cold 冲阶段 A 毕业 / 写作转 W4 40min cold。
 
 ### 下一步（下次）
 1. 口语转 cold:P2 物品自说+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 → 阶段 A 毕业;补 P1×2

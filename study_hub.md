@@ -13,7 +13,7 @@
        P2 阶段 A 物品·**3D 打印机**(speaker,珠子已填)= model-study(要范文未 cold);P3×6 给 model + 教 **"抓手三步"**(锚定具体不从抽象/世纪起)+ **"from X to Y"换皮总结**
 写作：W3 骨架填充3 = **C/E 科技依赖**;🎉 **Step 1.5 中文骨架 cold 锁题型成功(没串 P/S)**;英文 TEEL 要范文(study model 考官 7.0)
 系统：建 **study-coach**(整合入口"继续学习")+ **speaking-coach**(薄壳→05_path 真源)skill;CLAUDE.md/study_hub 引用已同步(去掉"无skill"过时表述)
-⚠️ **本次 model-study 为主**(P2/P3/T2 都给范文、未 cold);**6/11 距首考 6/20 仅 9 天**,口语还在阶段A、写作还在骨架填充 → **明显偏慢**,下次起必须转 cold + 提速
+🔥 **后半转 cold 成功**:P2 相机 + C/E 都 cold 自产,**-s 全对**(focus 见效);前半 model-study。⚠️ **6/11 距首考 6/20 仅 9 天**,仍在阶段A/骨架填充 → 偏慢,保持 cold + 提速
 
 下一步：
 - 口语:**转 cold 产出**(别再要范文):P2 物品自己说一遍+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 cold → 冲阶段 A 毕业;补 P1×2(持续顺延)
