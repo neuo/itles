@@ -8,26 +8,24 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-04 (Thu) W1 Day 3(补 6/3) — P2 A.3/5 speaker自己 + 写作
-⚠️ 6/3 整天没练(已核查 sessions),6/4 补做。
-口语：P2 阶段 A.3/5=改变计划题(speaker 自己),珠子已填(大理→桂林 Club Med + 机场送别画面);
-       suzy 已在别处自练 → 本次只 cold 抽查 2 句,P2/P3=教练用真实素材生成的 shadow model;P1 ×2 顺延
-       wins:`Having said that` 形式修对(-ing 保住,2✓✓)+ `immerse in` 稳(2✓✓)+ 跨session调 `tie sb to the city`
-准确性新错(全来自抽查):tie→ties(#18 -s 连续第2次低压掉,实锤)/ and immerse→immersing(平行)/ dust→dusk(近形词)/ the nature→nature(冠词)
-写作：6/4 W3 骨架填充2(P/S 工作时长)。study model 7.0 + suzy 大量精准点评范文(连抓 2 个 L-drift)+ 🎉**cold 自写 intro+Body2 TS**:
-       上轮刚教的"结果用 -ing(反 by contrast)"/"require sb to do" cold 全守住 + #1 缺口 -s(requires)在简单结构对 = 教→下次 cold 守住 path 走通。
-       唯一漏洞=**题型串台**(P/S 预告成 reasons/C/E,=5/23 C/E vs P/S 混淆复发,在 TR 层非 4 语言盯防点)。已覆盖 2 题型骨架(A/D + P/S)
+上次 = 2026-06-11 (Wed) — ⭐ study-coach 整合 skill 首跑(口语+写作同 session,同焦点同话题域 technology)
+口语：开场 -s 限时专项 **8/8 全对**(含全部陷阱 others/this kind/team/each/the number)=懂规则、缺 production 自动化(实锤);
+       P2 阶段 A 物品·**3D 打印机**(speaker,珠子已填)= model-study(要范文未 cold);P3×6 给 model + 教 **"抓手三步"**(锚定具体不从抽象/世纪起)+ **"from X to Y"换皮总结**
+写作：W3 骨架填充3 = **C/E 科技依赖**;🎉 **Step 1.5 中文骨架 cold 锁题型成功(没串 P/S)**;英文 TEEL 要范文(study model 考官 7.0)
+系统：建 **study-coach**(整合入口"继续学习")+ **speaking-coach**(薄壳→05_path 真源)skill;CLAUDE.md/study_hub 引用已同步(去掉"无skill"过时表述)
+⚠️ **本次 model-study 为主**(P2/P3/T2 都给范文、未 cold);**6/11 距首考 6/20 仅 9 天**,口语还在阶段A、写作还在骨架填充 → **明显偏慢**,下次起必须转 cold + 提速
 
-下一步（6/5）：
-- 口语:**开场限时 -s 专项 10 句**(连续两次抽查 make/tie 都掉 → 必须专项,单数主语优先);P2 A.5/5 物品题 + 补 P1 ×2;A.4 zhangwei 待补(6/6 A 毕业检验前补齐)
-- 写作 T2 W3：骨架填充 3(最弱题型 DBV/C/E/2-Pt 选 1)——继续 cold 填;**必走 Step 1.5 中文骨架先锁题型**(堵 P/S↔C/E 串台),写前默念"problems 还是 reasons";4 语言盯防点已 cold 守住,这次盯 TR 题型识别
-- 📌 跨技能:准确性 = 口语+写作共同的 6.5→7 唯一卡点(两边 TR/range 都够 7)；今日口语平行/冠词错 = 写作 W2-18/W2-19 同根
+下一步：
+- 口语:**转 cold 产出**(别再要范文):P2 物品自己说一遍+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 cold → 冲阶段 A 毕业;补 P1×2(持续顺延)
+- 写作:骨架填充3 **自己 cold 填英文 TEEL**(别要范文)验证盯防点;再骨架填充4 + 准备转 W4 cold 40min
+- 📌 共同焦点 -s:每次 cold 产出后 1 秒自查"主语单数?+s?";冠词 a/an(写作上篇 DBV 最大拖累,单数可数第一次提到必加)
+- 📌 提速:9 天内 口语 cold 毕业阶段A + 写作进 cold production
 
-📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md（口语唯一真源,无 skill）
-📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫;6/2 低压抽查也漏=实锤
-📌 产出后 1 秒自查(6/2 扩):主语单数加-s? + 时态 I've/I'd + 副词-ly + 反身 us≠ourselves
-📌 串句招(6/2 点亮)+ 场景状语 at dawn,with…around(治副词少)— 反复用
-📌 W2-22 texture（写作必盯）：① 加新信息不复述 ② 逻辑方向对（结果→making，原因→by doing）
+📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md(口语唯一真源);执行走 **speaking-coach skill(薄壳)** / 整合走 **study-coach skill**
+📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫;6/2·6/11 低压抽查全对=production 才掉,实锤
+📌 产出后 1 秒自查:主语单数加-s? + 时态(I've/I'd · was/is) + 冠词 a/an + 副词-ly + 反身 us≠ourselves
+📌 抓手三步(P3"差异/变化"题):锚定具体日常→then/now→例子;`from X to Y`换皮总结(跨口语写作)
+📌 串句招 + 场景状语 at dawn,with…around / W2-22 texture(写作):加新信息不复述 + 逻辑方向对(结果→-ing,原因→by doing)
 ```
 
 ---

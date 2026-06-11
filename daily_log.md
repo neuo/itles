@@ -2351,3 +2351,32 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. 开场做**限时 -s 专项 10 句**（单数主语 what/it/my X 优先）确认自动化——连续两次抽查掉 = 必须专项
 2. P2 A.5/5 物品题（乐高/CSAPP）+ 补 P1 random ×2
 3. 阶段 A 还差 A.4（zhangwei 人/朋友）→ 6/6 A 毕业检验前补齐
+
+---
+
+## Day（6/11 周三）— ⭐ study-coach 整合 skill 首跑（口语 + 写作同 session）
+
+> 详细:口语 `speaking-band7/coach/sessions/2026-06-11.md` / 写作 `writing-band7/log/sessions/2026-06-11-skeleton3.md`。
+> 本次 **model-study 为主**(P2/P3/T2 都给范文学习,未 cold)。共同焦点=-s,配对话题域=technology。
+
+### 系统（按 suzy 反馈做的整合）
+- 建 **study-coach**(整合编排入口"继续学习":设共同弱点焦点 + 配对话题域 + 分别调 speaking-coach/writing-coach + 跨科综合 + 两科收尾) + **speaking-coach**(薄壳→05_path 唯一真源,5/31 删后干净重建)skill。
+- CLAUDE.md / study_hub 引用同步(去"无 skill"过时表述);记忆 `feedback_integrate_both_skills`。
+- 清掉 6/2 replay 的 DBV/skeleton2 命名冲突(改名 dbv-extra,不占官方骨架填充2=6/4 P/S)。
+
+### 口语（P2 物品·3D 打印机 + P3×6，model-study）
+- 开场 **-s 专项 8/8 全对**(含全部陷阱)→ #18 实锤:懂规则、缺 production 自动化。`others argue` 正是写作 `others argues` 的孪生。
+- P2 物品 3D 打印机珠子捕获(speaker 物品槽)。P3 教 **抓手三步**(锚定具体不从抽象/世纪起——P3-1 她卡在"semiconductors+20世纪前")+ **`from X to Y` 换皮总结**。
+- P3-1 准备版错:is→**was**(过去时)/ otherwise→**by contrast**。
+
+### 写作（T2 W3 骨架填充3 = C/E 科技依赖，study model）
+- 🎉 **Step 1.5 中文骨架 cold 锁题型成功**:Body1 全 causes / Body2 全 effects,**主动避开 P/S↔C/E 串台**(6/4 当时的 TR 漏洞,这次机制守住)。
+- 英文 TEEL 要范文(未 cold 填);study model 考官 **7.0 全维 PASS**;冠词 a/an 全篇示范(上篇 DBV 最大拖累)。
+
+### ⚠️ 进度警示（hard check）
+6/11 距首考 6/20 **仅 9 天**,口语仍在阶段 A、写作仍在骨架填充,**明显落后日历**(W2/W4 该 cold 了)。**根因:近几次都 model-study、没 cold 产出**。下次起必须:口语 cold 自产冲阶段 A 毕业 / 写作自己 cold 填 → 转 W4 cold production。
+
+### 下一步（下次）
+1. 口语转 cold:P2 物品自说+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 → 阶段 A 毕业;补 P1×2
+2. 写作:骨架填充3 自己 cold 填英文 TEEL(别要范文);骨架填充4 + 转 W4 cold 40min
+3. 共同焦点持续:-s 自查 + 冠词 a/an
