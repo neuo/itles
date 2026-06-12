@@ -196,7 +196,7 @@ Add new patterns here when they appear more than once, or when a single instance
 1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"
 2. **集合名词当单数**(6/1 缺口):company/team/family/government/a kind of X = 单数 → tries/wins/makes(try→tries y→ies)。写作也踩过(creative industry 类)。
 **Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。**6/5 安排限时 -s 专项 10 句确认自动化。**
-**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉；**6/4 开场抽查 "my career basiclly tie me"→ties 又掉 —— 连续两次低压抽查都掉(make/tie),自动化缺口实锤。单数主语 what/it/this/my career/my X 优先扫**；6/11 开场 -s 专项 **8/8 全对**(含陷阱 others/this kind/team/each/the number)→ 低压零失误,**production 才掉**,实锤再确认。修法=cold 产出后 1 秒自查,非重学）
+**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉；**6/4 开场抽查 "my career basiclly tie me"→ties 又掉 —— 连续两次低压抽查都掉(make/tie),自动化缺口实锤。单数主语 what/it/this/my career/my X 优先扫**；6/11 开场 -s 专项 **8/8 全对**(含陷阱 others/this kind/team/each/the number)→ 低压零失误,**production 才掉**,实锤再确认；6/12 cold P2 zhangwei:**短句全对(he helps/deepens/needs)、长句掉(he respond/everyone were)** —— 句子一长一满 -s 就掉(带宽占满),长句说完回扫主语;`everyone/somebody/each = 单数`。修法=cold 产出后 1 秒自查,非重学）
 
 ---
 

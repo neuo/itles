@@ -2381,3 +2381,20 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. 口语转 cold:P2 物品自说+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 → 阶段 A 毕业;补 P1×2
 2. 写作:骨架填充3 自己 cold 填英文 TEEL(别要范文);骨架填充4 + 转 W4 cold 40min
 3. 共同焦点持续:-s 自查 + 冠词 a/an
+
+---
+
+## Day（6/12 周四）— ⭐ cold 里程碑:P2 zhangwei 真 cold（目前最好）
+
+> 详细 `speaking-band7/coach/sessions/2026-06-12.md`。6/11 夜 suzy 要"先开始明天的、睡前想" → 直接 **真 cold 自产 P2 zhangwei**(无范文无脚手架)。
+
+### 口语 P2 阶段 A.4 — 乐于助人(zhangwei)· 真 cold = 目前最好 cold P2
+- 净 **~6.5-7**(FC7/LR7/GRA6.5)。结构清(who→解决问题+CDN救火一幕→为啥帮人+深层珠子→admire 收尾),**收尾珠子自己落地**(helping isn't a chore, it's a way of learning)。chunk:easily the most helpful / the kind of guy everyone turns to / saved the day / root cause。
+- 🎯 **-s 最有启发**:短句全对(he helps/deepens/needs/solves)、**长/满句掉**(he respond→responds / don't→doesn't / everyone were→was)。→ **句子一长 -s 掉=带宽问题,非知识**;长句说完 1 秒回扫主语。everyone/each=单数。
+- 其它:漏系动词(talk about [is] an old friend) / comma splice(error logs, Zhangwei→while/句号) / made→makes。
+- ✅ **cold 转换成功标杆**:珠子预载 + 框架 + 自生成收尾全做到。阶段 A:A.1 wife/A.2 京都/A.3 speaker/A.4 zhangwei(cold)/A.5 物品相机(cold) → **可进 A 毕业检验 → 阶段 B**。
+
+### 下一步
+1. 口语:A 毕业检验 → 阶段 B(陌生题 + 4 段骨架);补 P1×2;-s 长句回扫
+2. 写作:转 W4 cold 40min 限时(骨架填充已够)
+3. 距首考 6/20 仅 8 天,口语提速进 B/C、写作进 cold + 模考

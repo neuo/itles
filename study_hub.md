@@ -8,7 +8,8 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-11 (Wed) — ⭐ study-coach 整合 skill 首跑(口语+写作同 session,同焦点同话题域 technology)
+上次 = 2026-06-12 (Thu) — ⭐ **cold 里程碑:P2 zhangwei 真 cold(目前最好 ~6.5-7)** + 6/11 study-coach 整合首跑
+🏅 6/12:P2 zhangwei 乐于助人**无脚手架自产**,收尾珠子自己落地 = 阶段 A.4 cold 达成;-s **短句对/长句掉**(带宽,长句回扫)
 口语：开场 -s 限时专项 **8/8 全对**(含全部陷阱 others/this kind/team/each/the number)=懂规则、缺 production 自动化(实锤);
        P2 阶段 A 物品·**3D 打印机**(speaker,珠子已填)= model-study(要范文未 cold);P3×6 给 model + 教 **"抓手三步"**(锚定具体不从抽象/世纪起)+ **"from X to Y"换皮总结**
 写作：W3 骨架填充3 = **C/E 科技依赖**;🎉 **Step 1.5 中文骨架 cold 锁题型成功(没串 P/S)**;英文 TEEL 要范文(study model 考官 7.0)
@@ -16,7 +17,7 @@
 🔥 **后半转 cold 成功**:P2 相机 + C/E 都 cold 自产,**-s 全对**(focus 见效);前半 model-study。⚠️ **6/11 距首考 6/20 仅 9 天**,仍在阶段A/骨架填充 → 偏慢,保持 cold + 提速
 
 下一步：
-- 口语:**转 cold 产出**(别再要范文):P2 物品自己说一遍+扫-s / P3 cold 用抓手三步;补 A.4 zhangwei session + A.5 cold → 冲阶段 A 毕业;补 P1×2(持续顺延)
+- 口语:A.4 zhangwei ✅cold + A.5 物品(相机)已 cold → **可进 A 毕业检验 → 阶段 B(陌生题+骨架)**;补 P1×2(持续顺延);-s 长句回扫
 - 写作:骨架填充3 **自己 cold 填英文 TEEL**(别要范文)验证盯防点;再骨架填充4 + 准备转 W4 cold 40min
 - 📌 共同焦点 -s:每次 cold 产出后 1 秒自查"主语单数?+s?";冠词 a/an(写作上篇 DBV 最大拖累,单数可数第一次提到必加)
 - 📌 提速:9 天内 口语 cold 毕业阶段A + 写作进 cold production
