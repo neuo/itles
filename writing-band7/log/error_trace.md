@@ -709,3 +709,9 @@ Phrase 11 path:
 - each member is glued to their own phones → their own phone [each=单数,数]
 - eassy → essay / eaiser → easier [W2-1 拼写,未倒读]
 - ✅ -s 全对(focus 见效) + C/E 没串 P/S
+
+### 2026-06-14 DBV 竞争vs合作 cold 整篇（untimed,真实 level v2）
+- natural driver for progress → driver of progress [W2-9 搭配]
+- bring bigger progress → lead to greater progress [W2-9 搭配]
+- get sustainable success → achieve sustainable success [W2-9 搭配]
+- ✅✅ untimed 下 -s/attraction(The power of…is)/冠词/comma splice 全守住 = 准确性够 6.5-7;真问题=时间压力(待 40min 限时测)

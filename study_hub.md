@@ -8,8 +8,9 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-12 (Thu) — ⭐ **cold 里程碑:P2 zhangwei 真 cold(目前最好 ~6.5-7)** + 6/11 study-coach 整合首跑
+上次 = 2026-06-14 (Sun) — ⭐ **写作 cold 整篇 DBV(untimed,准确性够 ~7)** + 6/12 口语 P2 zhangwei 真 cold
 🏅 6/12:P2 zhangwei 乐于助人**无脚手架自产**,收尾珠子自己落地 = 阶段 A.4 cold 达成;-s **短句对/长句掉**(带宽,长句回扫)
+🏅 6/14 写作:**自己 cold 写整篇 DBV(剑19 竞争vs合作)** untimed → -s/attraction/冠词/splice **全守住**,净 ~7。🎯**关键诊断:不限时准确性就够 6.5-7,真问题=40min 时间压力下守不守得住**(=W4 唯一变量)
 口语：开场 -s 限时专项 **8/8 全对**(含全部陷阱 others/this kind/team/each/the number)=懂规则、缺 production 自动化(实锤);
        P2 阶段 A 物品·**3D 打印机**(speaker,珠子已填)= model-study(要范文未 cold);P3×6 给 model + 教 **"抓手三步"**(锚定具体不从抽象/世纪起)+ **"from X to Y"换皮总结**
 写作：W3 骨架填充3 = **C/E 科技依赖**;🎉 **Step 1.5 中文骨架 cold 锁题型成功(没串 P/S)**;英文 TEEL 要范文(study model 考官 7.0)
@@ -18,7 +19,7 @@
 
 下一步：
 - 口语:A.4 zhangwei ✅cold + A.5 物品(相机)已 cold → **可进 A 毕业检验 → 阶段 B(陌生题+骨架)**;补 P1×2(持续顺延);-s 长句回扫
-- 写作:骨架填充3 **自己 cold 填英文 TEEL**(别要范文)验证盯防点;再骨架填充4 + 准备转 W4 cold 40min
+- 写作:已 cold 写整篇 DBV(untimed 够~7)→ **W4 严格 40min 限时新题**(测时间压力下 -s/冠词/splice 守不守得住);题源 `writing-band7/question_bank.md`(A 区剑16-20)
 - 📌 共同焦点 -s:每次 cold 产出后 1 秒自查"主语单数?+s?";冠词 a/an(写作上篇 DBV 最大拖累,单数可数第一次提到必加)
 - 📌 提速:9 天内 口语 cold 毕业阶段A + 写作进 cold production
 
