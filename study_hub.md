@@ -15,9 +15,9 @@
 🎯 **核心诊断**:不赶时间时两科都到 7;唯一未验证 = **40min 限时**(考试推迟后不急,后补一次即可)
 系统:study-coach(整合入口)+ speaking-coach(薄壳→05_path)skill 已建并对齐
 
-下一步（广覆盖策略）：
-- 写作:🏁 **题型+9题材全覆盖完成**(养育=最后,6篇 untimed 连续 ~7-7.5)→ **只剩 40min 限时**(suzy 要求最后做);可选:连接(cohesion)继续精修
-- 口语:阶段 B 续(Liang 发小 / 成都 / 事件类题)+ P3 跨域(非 tech)+ 补 P1×2;熟 content_bank 各 persona 珠子
+下一步：
+- 🔜 **下次主练 = 口语**(6/15 suzy 定,明天 clear session 后继续):阶段 B 续(**Liang 发小 / 成都 / 事件类**陌生 persona)或起 C;**补 P1×2**(长期欠);P3 跨域(非 tech)。熟 content_bank 各 persona 珠子。
+- 写作:🏁 题型+9题材全覆盖完成(6篇 untimed ~7-7.5)→ **suzy 自复盘今日 6 篇**(她要求);**40min 限时**待她约(写作唯一剩项);连接 cohesion 可选精修。
 - 熟素材/模板:04_toolkit(§2 八句式/起手/延伸三连/收尾) + 03 题型骨架 过一遍
 - 老三样自查保持:-s 长句回扫 / 冠词 a/an / comma splice
 - 📌 限时关:untimed 已稳 7,考前补 1 次 40min 模拟即可(不急)
