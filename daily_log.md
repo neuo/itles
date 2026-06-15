@@ -2464,3 +2464,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 首次真写 AD-outweigh。⭐ **连接(suzy 优先项)最好**:用逻辑桥分层"安全"两面(extreme cases 风险 vs everyday 更安全),不矛盾(教练点接缝→她当场焊好);this+名词 归纳指代。-s attraction 抗扰(the accident rate of…is / ability…makes),冠词/splice 全守。仅 1 tiny(they are a technology 数不一致)。详见 `2026-06-15-ad-driverless.md`。
 - **交通题材 ✓**。题材已过 8 域,剩**养育/儿童**(最后)+ 40min 限时。
 
+### 写作题材广度④:儿童手机(剑17T2,养育)~7-7.5 → 🏁 广覆盖完成
+- 2-part(why+pos/neg)。suzy **修对上篇"结论漏裁决"**(本篇结论两问都收含 negative);⭐ 连接好:因果链 `Because…As a result` + Physically/Mentally 分面。**动名词主语 -s 对**(looking…hurts / sitting…means)。仅 1 tiny(physical bodies→physical health)。详见 `2026-06-15-children-phones.md`。
+- 🏁 **里程碑:T2 广覆盖完成** —— 题型(6型/3结构)+ 题材(科技·工作·环境·健康·食物·社会政府·文化·交通·养育=9域)全过;untimed 连续 6 篇 ~7-7.5,accuracy 老三样稳、连接渐强。
+- **唯一剩:40min 限时**(suzy 要求最后)。可选:cohesion 继续精修 / 口语阶段 B 续 + P1。
+

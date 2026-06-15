@@ -735,3 +735,7 @@ Phrase 11 path:
 - they are a great technology → 数不一致:it is a remarkable technology / they represent… [GRA 小]
 - (可选)choose who is responsible → determine / hacker attack → cyberattack [LR,不强推]
 - ✅✅✅ **连接标杆**:逻辑桥分层"安全"两面(extreme cases vs everyday) + this+名词 归纳指代;-s attraction 抗扰(the accident rate of…is / ability…makes);冠词/splice 全守。untimed 第6篇 ~7.5
+
+### 2026-06-15 儿童手机 cold 整篇（untimed,养育题材=最后1域）
+- damages both their physical bodies and their mental focus → physical health(平行,body 冗余) [LR 小]
+- ✅✅ 结论修对(两问都收含 negative 裁决);因果链 Because…As a result;**动名词主语 -s 对**(looking…hurts / sitting…means);冠词/splice 全守。🏁 untimed 第7篇 = T2 题型+9题材全覆盖完成
