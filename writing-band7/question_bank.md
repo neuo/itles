@@ -6,7 +6,25 @@
 
 ---
 
-## A. 剑桥真题 16–20（Academic，逐字）
+## A. 剑桥真题 13–20（Academic，逐字）
+
+### 剑 13
+- **T1 · AgD** — Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems. To what extent do you agree or disagree with this statement? 〔题材:语言/社会〕
+- **T2 · AgD** — Some people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement? 〔题材:消费/生活方式〕
+- **T3 · DBV** — Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History. Discuss both these views and give your own opinion. 〔题材:教育〕
+- **T4 · PS(reasons+solutions)** — In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem? 〔题材:全球发展/粮食〕
+
+### 剑 14
+- **T1 · DBV** — Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or a shortage of money. Others argue that it is better to try to improve such situations. Discuss both these views and give your own opinion. 〔题材:价值观/心理〕
+- **T2 · DBV** — Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion. 〔题材:环境〕
+- **T3 · AgD** — Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion? 〔题材:文化/艺术〕
+- **T4 · 2PT** — Nowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed? 〔题材:工作/职业〕
+
+### 剑 15
+- **T1 · 2PT/PN** — In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? 〔题材:住房/社会〕
+- **T2 · AgD** — In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement? 〔题材:科技/媒体〕
+- **T3 · DBV** — Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising has become so common that we no longer pay attention to it. Discuss both these views and give your own opinion. 〔题材:媒体/消费〕
+- **T4 · AD** — In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? 〔题材:教育/养育〕
 
 ### 剑 16
 - **T1 · 2PT** — In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?
@@ -55,4 +73,26 @@
 
 ---
 
-*来源：剑桥真题题干经 ieltsessaybank / ieltsanswers / engnovate 等核对；机经经 ielts.preptical / ieltsupdatesandrecentexams / writing9 等汇总。剑 20 = 最新一本（2024 出版）。*
+## C. 题材覆盖速查（按域挑题，专补未练域）
+
+> 题型 × **题材** 双维覆盖。下表按题材域归类 A 区真题,选"未练域"补。
+
+| 题材域 | 代表真题（A 区） | suzy 练过? |
+|--------|----------------|-----------|
+| 教育/学习 | 剑13T3 历史vs科学 / 剑18T2 辅修 / 剑15T4 "努力就能成功" / 剑19T1 竞争vs合作 | ✅ 竞争(6/14 DBV) |
+| 环境 | 剑14T2 物种消失 / 剑20T3 少坐飞机 / 机经 历史遗址 | ✅ 环保(6/1 A/D) |
+| 科技/媒体 | 剑15T2 纸质vs线上 / 剑15T3·剑16T2 广告 / 剑17T2 儿童手机 | ✅ 科技依赖(6/11 C/E) |
+| 工作/职业 | 剑14T4 自雇 / 剑17T1 冒险 / 剑19T2 短工作周 | ✅ 工作时长(6/4 P/S) |
+| 健康 | 剑16T3 糖税 / 剑17T4 替代医疗 | ✅ (ex03 P/S) |
+| 社会/政府 | 剑18T3 农村→城市 / 剑18T4 老龄化 / 剑20T1 免费水 / 剑13T2 选择过多 | ⬜ 未练 |
+| 全球化/食物 | 剑19T4 各国食物 / 剑13T4 饥饿 | ✅ 食物(6/15 PN) |
+| 文化/价值观 | 剑14T3 音乐 / 剑14T1 接受vs改善 / 剑20T4 全球时尚 | ⬜ 未练 |
+| 交通 | 剑16T4 无人驾驶 / 剑20T3 飞行 | ⬜ 未练 |
+| 养育/儿童 | 剑15T4 努力就能成功 / 机经 溺爱孩子 / 剑17T2 儿童手机 | ⬜ 未练 |
+
+→ **未练题材域(优先补)**:社会/政府、文化/价值观、交通、养育/儿童。
+→ **未 cold 题型**:2PT(剑14T4·剑15T1) / AD-outweigh(剑15T4·剑16T4·剑17T1·剑20T3)。
+
+---
+
+*来源：剑桥真题题干经 ieltsessaybank / ieltsanswers / engnovate 核对（剑13–20）；机经经 ielts.preptical / ieltsupdatesandrecentexams / writing9 汇总。剑 20 = 最新一本（2024 出版）。*
