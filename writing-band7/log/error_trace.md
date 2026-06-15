@@ -730,3 +730,8 @@ Phrase 11 path:
 - delay the retirement age → raise/postpone 更标准 [LR 小]
 - much greater challenges → far greater [LR 小]
 - ✅✅✅ 目前最干净。**-s 最难判别全对**:the elderly **possess**(复数不加)/ the number of…**grows**(单数加,vs a number) + poses/allows/helps/falls/creates vs face/have/outweigh;冠词全对;0 splice。untimed 第5篇 ~7.5
+
+### 2026-06-15 AD 无人驾驶 cold 整篇（untimed,交通题材）
+- they are a great technology → 数不一致:it is a remarkable technology / they represent… [GRA 小]
+- (可选)choose who is responsible → determine / hacker attack → cyberattack [LR,不强推]
+- ✅✅✅ **连接标杆**:逻辑桥分层"安全"两面(extreme cases vs everyday) + this+名词 归纳指代;-s attraction 抗扰(the accident rate of…is / ability…makes);冠词/splice 全守。untimed 第6篇 ~7.5

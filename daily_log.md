@@ -2460,3 +2460,7 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - ⭐ **优先级校正(存 memory)**:教练指 LR 朴素可升,suzy 明确 **"大白话能接受,现阶段最缺结构+连接,词汇最后;不会就是不会"**。→ 校正:LR Band7=够用+搭配对(非难词,她已达),**词汇是真知识缺口别框成 retrieval/别硬塞**;反馈优先级 = 结构→连接(cohesion)→词汇(可选);plain accurate 不压分。连接=口语"碎句不连"同根,跨科盯。
 - **文化题材 ✓**。剩:交通/养育 + 40min 限时(最后)。
 
+### 写作题材广度③:AD 无人驾驶(剑16T4,交通,untimed)~7.5 = 连接标杆
+- 首次真写 AD-outweigh。⭐ **连接(suzy 优先项)最好**:用逻辑桥分层"安全"两面(extreme cases 风险 vs everyday 更安全),不矛盾(教练点接缝→她当场焊好);this+名词 归纳指代。-s attraction 抗扰(the accident rate of…is / ability…makes),冠词/splice 全守。仅 1 tiny(they are a technology 数不一致)。详见 `2026-06-15-ad-driverless.md`。
+- **交通题材 ✓**。题材已过 8 域,剩**养育/儿童**(最后)+ 40min 限时。
+
