@@ -10,13 +10,13 @@
 ```
 上次 = 2026-06-15 (Mon) — 🔄 **考试推迟 → 转「广覆盖题型 + 熟素材/模板」**(限时冲刺暂缓,后续补一次)
 近期里程碑(均 **untimed**,accuracy 老三样 -s/冠词/comma splice 全守住):
-  🏅 写作 cold:DBV(6/14 ~7) + PN(6/15 ~7.5) —— untimed **连续 Band 7**(用上 outweighed by/分号/not only…but also)
+  🏅 写作 cold:DBV(6/14)+ PN + 2PT(6/15)均 untimed ~7-7.5 → 🏁 **T2 三结构全覆盖**(表态+让步/描述XY/答两问);AD-outweigh = PN 同结构已会
   🏅 口语 cold:zhangwei(6/12 A.4)+ 外公(6/15 阶段 B ~7,**-s 长句不掉**) —— persona 库渐厚,多个 exam-ready
 🎯 **核心诊断**:不赶时间时两科都到 7;唯一未验证 = **40min 限时**(考试推迟后不急,后补一次即可)
 系统:study-coach(整合入口)+ speaking-coach(薄壳→05_path)skill 已建并对齐
 
 下一步（广覆盖策略）：
-- 写作题型补缺:**2PT + AD(advantages outweigh)** 两型未 cold(A/D·DBV·P/S·C/E·PN 已过)→ 各 untimed 过一遍 + 熟 03 骨架
+- 写作:**题型/结构全覆盖✅** → 转**题材广度**:社会政府 / 文化价值观 / 交通 / 养育儿童(未练域,见 question_bank C 区)各 untimed 过一遍;**40min 限时最后补**(suzy 要求)
 - 口语:阶段 B 续(Liang 发小 / 成都 / 事件类题)+ P3 跨域(非 tech)+ 补 P1×2;熟 content_bank 各 persona 珠子
 - 熟素材/模板:04_toolkit(§2 八句式/起手/延伸三连/收尾) + 03 题型骨架 过一遍
 - 老三样自查保持:-s 长句回扫 / 冠词 a/an / comma splice

@@ -720,3 +720,8 @@ Phrase 11 path:
 - food imports produced all over the world → 冗余:food produced… / imports from… [LR]
 - create pressure for local producers → put pressure on [W2-9 搭配]
 - ✅✅ -s 全对(offers/encourages/improves)+ 冠词全对 + 分号用对 + not only…but also 平行对。untimed 第3篇 Band 7 印证
+
+### 2026-06-15 2PT 自雇 cold 整篇（untimed）
+- becoming self-employed has become a popular trend → 重复:self-employment has become… [LR]
+- unpredictable incomes → income [可数/LR]
+- ✅✅ -s 全对含复合主语(the lack… and the absence… are)+ it offers/allows + a baker does/gets;冠词全对;0 splice。**2PT 一次拿下 = T2 三结构全覆盖**;untimed 第4篇 Band 7
