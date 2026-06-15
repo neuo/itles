@@ -16,7 +16,7 @@
 系统:study-coach(整合入口)+ speaking-coach(薄壳→05_path)skill 已建并对齐
 
 下一步（广覆盖策略）：
-- 写作:**题型/结构全覆盖✅**;题材广度:社会政府✅(6/15 老龄化)→ 剩 **文化价值观 / 交通 / 养育儿童**(见 question_bank C 区)各 untimed 过;**40min 限时最后补**(suzy 要求)
+- 写作:题型/结构全覆盖✅;题材:社会政府✅ + 文化✅(6/15 老龄化/音乐)→ 剩 **交通 / 养育儿童**;**40min 限时最后补**(suzy 要求)
 - 口语:阶段 B 续(Liang 发小 / 成都 / 事件类题)+ P3 跨域(非 tech)+ 补 P1×2;熟 content_bank 各 persona 珠子
 - 熟素材/模板:04_toolkit(§2 八句式/起手/延伸三连/收尾) + 03 题型骨架 过一遍
 - 老三样自查保持:-s 长句回扫 / 冠词 a/an / comma splice
@@ -27,6 +27,7 @@
 📌 产出后 1 秒自查:主语单数加-s? + 时态(I've/I'd · was/is) + 冠词 a/an + 副词-ly + 反身 us≠ourselves
 📌 抓手三步(P3"差异/变化"题):锚定具体日常→then/now→例子;`from X to Y`换皮总结(跨口语写作)
 📌 串句招 + 场景状语 at dawn,with…around / W2-22 texture(写作):加新信息不复述 + 逻辑方向对(结果→-ing,原因→by doing)
+📌 **优先级(6/15 校正)**:结构 → 连接(cohesion) → 词汇(可选)。大白话 plain+准确**够 Band 7**;词汇真不会就不硬塞(memory feedback_priority_structure_over_vocab)。accuracy(老三样)untimed 已稳。
 ```
 
 ---
