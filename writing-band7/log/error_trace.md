@@ -725,3 +725,8 @@ Phrase 11 path:
 - becoming self-employed has become a popular trend → 重复:self-employment has become… [LR]
 - unpredictable incomes → income [可数/LR]
 - ✅✅ -s 全对含复合主语(the lack… and the absence… are)+ it offers/allows + a baker does/gets;冠词全对;0 splice。**2PT 一次拿下 = T2 三结构全覆盖**;untimed 第4篇 Band 7
+
+### 2026-06-15 DBV 老龄化 cold 整篇（untimed,社会/政府题材）
+- delay the retirement age → raise/postpone 更标准 [LR 小]
+- much greater challenges → far greater [LR 小]
+- ✅✅✅ 目前最干净。**-s 最难判别全对**:the elderly **possess**(复数不加)/ the number of…**grows**(单数加,vs a number) + poses/allows/helps/falls/creates vs face/have/outweigh;冠词全对;0 splice。untimed 第5篇 ~7.5

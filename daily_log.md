@@ -2450,3 +2450,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🏁 **里程碑:T2 三结构全覆盖**(①表态+让步 ②描述XY ③答两问),untimed 全 ~7-7.5。
 - 下一步:写作转**题材广度**(未练 4 域)+ 最后补 40min 限时;口语续。
 
+### 写作题材广度①:DBV 老龄化(剑18T4,社会/政府,untimed)~7.5 = 目前最干净
+- 结构用熟的 DBV,专注换题材。**基本零错**;⭐ **-s 最难判别全对**:the elderly **possess**(复数不加)/ the number of…**grows**(单数加,vs a number)+ poses/allows/falls/creates vs face/have/outweigh。冠词/splice 全守。用上 grandparents 角度 + outweighed by。
+- 社会/政府题材的料高级(人口结构失衡/更少养更多/延迟退休/不可持续)。详见 `2026-06-15-dbv-ageing.md`。
+- **社会/政府题材 ✓**(题材广度第1域)。-s untimed 已稳(含硬判别)。剩题材:文化价值观/交通/养育儿童 + 40min 限时(最后)。
+
