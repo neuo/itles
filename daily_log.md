@@ -2419,3 +2419,24 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 1. 写作:**换新题 + 严格 40min(5规划+30写+5自检) + 一遍过 + 无工具** → 测时间压力下 -s/冠词/splice 是否回潮。守住=稳 6.5-7。
 2. 口语:A 毕业检验 → 阶段 B(陌生题+骨架);补 P1×2。
 3. 距首考 6/20 仅 6 天,两科都进"限时模拟"。
+
+---
+
+## Day（6/15 周一）— 口语 P2 外公 阶段 B cold = Band 7 标杆（-s长句+冠词全守住）
+
+> 详细 `speaking-band7/coach/sessions/2026-06-15.md`。study-coach 编排口语臂。untimed。
+
+### 口语 P2 阶段 B — 爱种菜的人(外公)· cold
+- 净 **~7**。陌生 persona、只给骨架、无范文热身(阶段 B),自己搭完整篇。叙事有画面(教我种花一幕:我没耐心、他 guided me gently、handle roots with care)。
+- 🎉 **两个老大难全守住**:① **-s 长句不掉**(`as soon as the sun comes up, he goes out` —— zhangwei 那篇掉的位置,这次对)+ grows/takes/makes/loves/treats/gives 全对 ② **冠词全对**(a mini garden/a small plot/a flower/a family member 零漏)③ 0 comma splice。
+- 仅 2 小 polish:悬垂(After retiring→After he retired,=写作 W2-12) / 时态(turned…and manages 统一)。
+- ✅ 外公 exam-ready。阶段 A 五类 + 阶段 B 外公,persona 库渐厚。
+
+### 整合印证
+同日 写作 DBV(untimed)+ 口语 阶段 B,准确性都够 7,-s/冠词都守住 → **不赶时间时两科都到 7**。唯一未测 = **写作 40min 限时**(suzy 要求"先都不限时",暂缓)。
+
+### 下一步
+1. 写作:untimed 续练新题型(PN/AD 变化)→ 最终上 40min 限时
+2. 口语:阶段 B 其它 persona(Liang/成都)或起 C;补 P1×2
+3. 距首考 5 天,保持 cold,适时上限时
+

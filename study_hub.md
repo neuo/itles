@@ -8,7 +8,8 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-14 (Sun) — ⭐ **写作 cold 整篇 DBV(untimed,准确性够 ~7)** + 6/12 口语 P2 zhangwei 真 cold
+上次 = 2026-06-15 (Mon) — ⭐ **口语 P2 外公 阶段 B cold ~7(-s 长句+冠词全守住)** + 6/14 写作 DBV cold untimed
+🏅 6/15:P2 外公(种菜)阶段 B cold ~7 —— **-s 长句不掉**(as soon as the sun comes up, he goes out ✓)+ **冠词全对** → 外公 exam-ready;两科 untimed 都守住老三样
 🏅 6/12:P2 zhangwei 乐于助人**无脚手架自产**,收尾珠子自己落地 = 阶段 A.4 cold 达成;-s **短句对/长句掉**(带宽,长句回扫)
 🏅 6/14 写作:**自己 cold 写整篇 DBV(剑19 竞争vs合作)** untimed → -s/attraction/冠词/splice **全守住**,净 ~7。🎯**关键诊断:不限时准确性就够 6.5-7,真问题=40min 时间压力下守不守得住**(=W4 唯一变量)
 口语：开场 -s 限时专项 **8/8 全对**(含全部陷阱 others/this kind/team/each/the number)=懂规则、缺 production 自动化(实锤);
@@ -18,7 +19,7 @@
 🔥 **后半转 cold 成功**:P2 相机 + C/E 都 cold 自产,**-s 全对**(focus 见效);前半 model-study。⚠️ **6/11 距首考 6/20 仅 9 天**,仍在阶段A/骨架填充 → 偏慢,保持 cold + 提速
 
 下一步：
-- 口语:A.4 zhangwei ✅cold + A.5 物品(相机)已 cold → **可进 A 毕业检验 → 阶段 B(陌生题+骨架)**;补 P1×2(持续顺延);-s 长句回扫
+- 口语:阶段 B 外公 ✅(~7,-s长句/冠词守住)→ 继续 B 其它陌生 persona(Liang/成都)或起 C;补 P1×2(持续顺延)
 - 写作:已 cold 写整篇 DBV(untimed 够~7)→ **W4 严格 40min 限时新题**(测时间压力下 -s/冠词/splice 守不守得住);题源 `writing-band7/question_bank.md`(A 区剑16-20)
 - 📌 共同焦点 -s:每次 cold 产出后 1 秒自查"主语单数?+s?";冠词 a/an(写作上篇 DBV 最大拖累,单数可数第一次提到必加)
 - 📌 提速:9 天内 口语 cold 毕业阶段A + 写作进 cold production
