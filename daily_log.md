@@ -2435,8 +2435,11 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 ### 整合印证
 同日 写作 DBV(untimed)+ 口语 阶段 B,准确性都够 7,-s/冠词都守住 → **不赶时间时两科都到 7**。唯一未测 = **写作 40min 限时**(suzy 要求"先都不限时",暂缓)。
 
-### 下一步
-1. 写作:untimed 续练新题型(PN/AD 变化)→ 最终上 40min 限时
-2. 口语:阶段 B 其它 persona(Liang/成都)或起 C;补 P1×2
-3. 距首考 5 天,保持 cold,适时上限时
+### 写作加练 PN（食物全球化）cold·untimed ~7.5
+- 新题型 PN 首练即标杆(详见 `2026-06-15-pn-cold.md`)。-s/冠词/分号/not only…but also **全对**,用上预载 pivot `outweighed by`。仅 2 tiny(food imports 冗余 / create pressure→put pressure on)。
+- **untimed 连续 3 篇 Band 7**(DBV/PN/口语外公)= accuracy 稳。
+
+### 🔄 策略转向（考试推迟）
+- suzy 告知**考试推迟** → 不急限时冲刺,转 **广覆盖题型 + 熟素材/模板**(新日期待定)。
+- 新下一步:① 写作补 **2PT + AD-outweigh** 两型未 cold(其余 5 型已过)② 口语 Liang/成都/事件类 + P3 跨域 + 补 P1×2 ③ 过 04 模板 / 03 骨架 ④ 限时关 untimed 已稳,考前补 1 次即可。
 

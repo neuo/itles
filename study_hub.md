@@ -8,21 +8,19 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-15 (Mon) — ⭐ **口语 P2 外公 阶段 B cold ~7(-s 长句+冠词全守住)** + 6/14 写作 DBV cold untimed
-🏅 6/15:P2 外公(种菜)阶段 B cold ~7 —— **-s 长句不掉**(as soon as the sun comes up, he goes out ✓)+ **冠词全对** → 外公 exam-ready;两科 untimed 都守住老三样
-🏅 6/12:P2 zhangwei 乐于助人**无脚手架自产**,收尾珠子自己落地 = 阶段 A.4 cold 达成;-s **短句对/长句掉**(带宽,长句回扫)
-🏅 6/14 写作:**自己 cold 写整篇 DBV(剑19 竞争vs合作)** untimed → -s/attraction/冠词/splice **全守住**,净 ~7。🎯**关键诊断:不限时准确性就够 6.5-7,真问题=40min 时间压力下守不守得住**(=W4 唯一变量)
-口语：开场 -s 限时专项 **8/8 全对**(含全部陷阱 others/this kind/team/each/the number)=懂规则、缺 production 自动化(实锤);
-       P2 阶段 A 物品·**3D 打印机**(speaker,珠子已填)= model-study(要范文未 cold);P3×6 给 model + 教 **"抓手三步"**(锚定具体不从抽象/世纪起)+ **"from X to Y"换皮总结**
-写作：W3 骨架填充3 = **C/E 科技依赖**;🎉 **Step 1.5 中文骨架 cold 锁题型成功(没串 P/S)**;英文 TEEL 要范文(study model 考官 7.0)
-系统：建 **study-coach**(整合入口"继续学习")+ **speaking-coach**(薄壳→05_path 真源)skill;CLAUDE.md/study_hub 引用已同步(去掉"无skill"过时表述)
-🔥 **后半转 cold 成功**:P2 相机 + C/E 都 cold 自产,**-s 全对**(focus 见效);前半 model-study。⚠️ **6/11 距首考 6/20 仅 9 天**,仍在阶段A/骨架填充 → 偏慢,保持 cold + 提速
+上次 = 2026-06-15 (Mon) — 🔄 **考试推迟 → 转「广覆盖题型 + 熟素材/模板」**(限时冲刺暂缓,后续补一次)
+近期里程碑(均 **untimed**,accuracy 老三样 -s/冠词/comma splice 全守住):
+  🏅 写作 cold:DBV(6/14 ~7) + PN(6/15 ~7.5) —— untimed **连续 Band 7**(用上 outweighed by/分号/not only…but also)
+  🏅 口语 cold:zhangwei(6/12 A.4)+ 外公(6/15 阶段 B ~7,**-s 长句不掉**) —— persona 库渐厚,多个 exam-ready
+🎯 **核心诊断**:不赶时间时两科都到 7;唯一未验证 = **40min 限时**(考试推迟后不急,后补一次即可)
+系统:study-coach(整合入口)+ speaking-coach(薄壳→05_path)skill 已建并对齐
 
-下一步：
-- 口语:阶段 B 外公 ✅(~7,-s长句/冠词守住)→ 继续 B 其它陌生 persona(Liang/成都)或起 C;补 P1×2(持续顺延)
-- 写作:已 cold 写整篇 DBV(untimed 够~7)→ **W4 严格 40min 限时新题**(测时间压力下 -s/冠词/splice 守不守得住);题源 `writing-band7/question_bank.md`(A 区剑16-20)
-- 📌 共同焦点 -s:每次 cold 产出后 1 秒自查"主语单数?+s?";冠词 a/an(写作上篇 DBV 最大拖累,单数可数第一次提到必加)
-- 📌 提速:9 天内 口语 cold 毕业阶段A + 写作进 cold production
+下一步（广覆盖策略）：
+- 写作题型补缺:**2PT + AD(advantages outweigh)** 两型未 cold(A/D·DBV·P/S·C/E·PN 已过)→ 各 untimed 过一遍 + 熟 03 骨架
+- 口语:阶段 B 续(Liang 发小 / 成都 / 事件类题)+ P3 跨域(非 tech)+ 补 P1×2;熟 content_bank 各 persona 珠子
+- 熟素材/模板:04_toolkit(§2 八句式/起手/延伸三连/收尾) + 03 题型骨架 过一遍
+- 老三样自查保持:-s 长句回扫 / 冠词 a/an / comma splice
+- 📌 限时关:untimed 已稳 7,考前补 1 次 40min 模拟即可(不急)
 
 📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md(口语唯一真源);执行走 **speaking-coach skill(薄壳)** / 整合走 **study-coach skill**
 📌 第三人称 -s = #1 弱点(Pattern 18,自动化非知识),每次产出后扫;6/2·6/11 低压抽查全对=production 才掉,实锤

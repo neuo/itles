@@ -715,3 +715,8 @@ Phrase 11 path:
 - bring bigger progress → lead to greater progress [W2-9 搭配]
 - get sustainable success → achieve sustainable success [W2-9 搭配]
 - ✅✅ untimed 下 -s/attraction(The power of…is)/冠词/comma splice 全守住 = 准确性够 6.5-7;真问题=时间压力(待 40min 限时测)
+
+### 2026-06-15 PN 食物全球化 cold 整篇（untimed）
+- food imports produced all over the world → 冗余:food produced… / imports from… [LR]
+- create pressure for local producers → put pressure on [W2-9 搭配]
+- ✅✅ -s 全对(offers/encourages/improves)+ 冠词全对 + 分号用对 + not only…but also 平行对。untimed 第3篇 Band 7 印证
