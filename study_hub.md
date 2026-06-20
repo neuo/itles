@@ -8,22 +8,19 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-18 — ⭐⭐ **口语方法论突破 + 方向调整：口语转主攻(老大难),写作 suzy 自管 on-demand**
-⭐⭐ **突破(6/18)**:发现 suzy 口语 cold 卡死真因 = **瞄准「书面英语」目标**(essay 词说不出)。解药 = **降级到大白话 + 倒 4 颗珠子现场组装 + 允许碎/自我纠正**(口语 Band7 ≠ 写作 Band7)。验证:连续 3 题(younger/older·childhood friendship·tourism)cold 全产出 ~7 → 存 memory feedback_speaking_spoken_downgrade。
-🔀 **方向(6/18 suzy 定)**:**口语主攻**;**写作她自己练、遇问题再找教练**(T2 已 🏁 题型+9题材全覆盖 untimed ~7-7.5,剩 40min 限时她自约)。
-🎯 **campaign 2 轮制**(`coach/full_pass.md` 追踪):**Round 1 = P2 全部过(教练给降级范文,suzy 学词组)→ 🏁 6/18-19 完成大陆 54/54**(27 新 + 27 老;47 篇降级范文 + 外公/Zhangwei 2 篇 cold + 5 篇 cross-ref;非大陆 8 题 suzy 定跳过)。**Round 2 = P2+P3 一起,suzy cold 比例拉高**(未开始)。
-系统:study-coach + speaking-coach skill 已对齐。
-
-⭐⭐⭐ **6/20 重大诊断（suzy 自己发现起点）**:她说"范文信息量低,说一大堆意思就那几个"——量化证实她对(范文~22词/个意思,压回去=她自己想到的3点)。但**低信息密度正是 P2 在考的**(FC/LR/GRA/PRO 无"信息量"项)。根因=**工程师大脑过度压缩 vs 任务要展开**;死机部分是"职业洁癖拒绝说自认没价值的话"。解药 reframe=**展开是「解压」非「注水」**(她的版本是有损摘要,丢了真细节;展开=还原压掉的真相,不是编废话)。→ **5 动作解压引擎**(ZOOM/ME 纯函数 + SCENE/MOMENT/TURN 珠子预填,创造在 offline 执行在考场)。见 `speaking-band7/expansion_engine.md` + memory feedback_speaking_decompress_not_pad。这条覆盖了之前的练法重点。
-⭐ **6/20 续:模版化(suzy 要求 propose→score→modify 验证,非断言)**——pilot 产出 P2 1 骨架(6模块) + P3 4块脊+按型查表,方法论核心=**P2 叙事解压(降感官) vs P3 分析解压(搭because链,震荡)**;confuse 两者=她 younger-vs-older 死机真因。见 `speaking-band7/templates_pilot.md`。**4 ruling 锁定**:①P2=6模块(+PROBLEM体+PICTURE复述形) ②**-s/冠词 答后扫不实时**(覆盖 CLAUDE"产出后1秒自查"→整段后扫;她零错cold都没扫,实时=双任务死机) ③P2固定/P3建变化库(P2一题答一次无tell,P3连答需变) ④过关线=2min不死机+落地。模版🏁定稿(**LEARNING-DRIVEN**,suzy 否决前3版后从"怎么学"倒推)→`speaking-band7/templates.md`。**共性=1固定壳 HOOK→CORE→BODY→LAND,只BODY变;划分轴=BODY的「生成反射」(点说完用什么动作造更多),只3种:NARRATE(然后呢,25张默认)/DESCRIBE(停住放大,12张)/EXPLAIN(because→so落到健康/钱/时间,9张)。** 每部分学法:HOOK/LAND=背到自动,CORE=预载珠子,BODY=练反射,-s/冠词答后扫不实时。指导性=每反射有具体生成循环(怎么撑满2min:NARRATE=时钟替你决定不找新点)。题→模式=2步查表(某次真发生?→NARRATE;有实物看?→DESCRIBE;否则EXPLAIN;默认NARRATE)。P3=自己的ARGUE模式(上下震荡,共享because引擎)。课程序:HOOK→LAND→NARRATE→DESCRIBE→EXPLAIN→P3并行→整合。
-⭐ **6/20 续(当前 P2 模型)**:反套检验证明"一卡一模式"错=真答案混合→修正=**从 cue 入手:每 bullet 各调一模式,P2=模式组合,cue 本身即结构**(见 `speaking-band7/cue_driven_p2.md`+`narrate_reflex_check.md`)。模式仍3+2微动作(FACT-DROP/WEIGH)。suzy 两约束:用词更简单(EXPAND DON'T UPGRADE+降级词表)+答案~250词别太短也别冲过头。
-🏁 **6/20 已推广全 54 张 + 每 5 题 fresh-agent QC**:`p2_frames_and_swaps.md`(9骨架+WISH-BEAT+418降级词,总背~24个东西)+`p2_card_specs.md`(全54张 cue→glue→珠子 v2修复版,每卡含⚠️陷阱+📌预存because)。QC 抓修6 gap(加#9 PLOT骨架/WISH-BEAT/CORE固定/cue印刷序/降级补全/persona对齐)。学法验证:cold 试新18 京都骨架跑得动。**下一步=用 p2_card_specs cold 练,过关线2min不死机+落地。**⚠️全部纸面未cold跑,下一步=templates.md §八 先验最险(HOOK闪卡/NARRATE煮咖啡90秒/各模式1张 cold/P3一组),每险点出 verdict。
+上次 = 2026-06-20 — 🏁 **口语 cue-driven 系统定稿（推广全 54 张 + QC）**；口语主攻，写作 suzy 自管 on-demand。
+⭐ **6/18 突破**:口语 cold 卡死真因 = 瞄准书面英语目标 → 解药 = 降级大白话 + 倒珠子(口语 Band7 ≠ 写作)。**6/20 续**:她发现范文"信息量低"→ reframe **展开=解压非注水**(工程师过度压缩,真细节被压没了)。
+🏆 **当前系统(真源,都在 speaking-band7/)**:
+  · `cue_driven_p2.md` = 方法(从 cue 入手:每 bullet 调一个模式=组合,cue 本身即结构,处理混合卡)
+  · `p2_frames_and_swaps.md` = **9 个填空骨架(背一次填珠子,总背~24个东西)+ 418 条降级词表**(目标 6-6.5,EXPAND DON'T UPGRADE)
+  · `p2_card_specs.md` = **全 54 张 cue→glue→珠子 spec**(按印刷 cue 顺序,每卡含 ⚠️陷阱口诀 + 📌预存 because)
+  · `ielts_p2_speaking_bank.md` = 54 范文(珠子源)
+  · 推演过程(templates/templates_pilot/expansion_engine/narrate_reflex_check)已移 `_deprecated/`。
+🔑 锁定:① -s/冠词 **答后扫不实时**(覆盖 CLAUDE 的产出后1秒自查→整段后扫;实时=双任务死机) ② P2 固定/P3 建变化库 ③ 过关线=**2min 不死机+干净落地**(scorecard 抽查,不每篇追分)。
+学法验证:cold 试 新18 京都骨架=嘴上跑得动。
 
 下一步：
-- 🔜 **先内化解压引擎**(expansion_engine.md):珠子格式升级=每题存 6 槽(核心3点+ZOOM+SCENE+MOMENT+TURN+ME);从 full_pass.md 47 篇范文抽 6 槽做珠子卡;一次只练一个动作(ZOOM×10题→SCENE…)。
-- 🔜 **Round 2**:P2 + 配对 P3 一起 cold,**用解压引擎跑**(不再"想内容",是执行 5 函数)。从熟 persona 起。每题 scorecard + 焦点回扫(-s/冠词)。
-- 练习单位 = **cold 说出口的次数**(非 input 小时;2 年打偏=全砸已强的 input 层)。
-- 焦点回扫:**-s 长句** + **冠词 a/an**(6/18 三态全见:零漏×2/多加 the tourism×1 → 懂规则没自动化,每次产出后扫)。
+- 🔜 **用 `p2_card_specs.md` cold 练**:挑卡→看 spec 填珠子 cold 说→过关线 2min 不死机+落地→答后扫 -s/冠词。最险先验(媒体 PLOT 卡 / EXPLAIN 卡 / 新26·老04 bespoke / 老14 WEIGH 收尾)。
 - 写作:suzy 自管,不主动驱动;她 ping 才介入(40min 限时 / cohesion 精修待她约)。
 
 📌 方法论锚点 + 教练执行手册见 speaking-band7/05_path.md(口语唯一真源);执行走 **speaking-coach skill(薄壳)** / 整合走 **study-coach skill**
