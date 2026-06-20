@@ -91,3 +91,25 @@ suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不�
 3. **复盘查用没用**:答完核对她有没有用上点名的 chunk,用了 +1 cold count,没用下次再点
 4. 这是 spaced repetition,教练驱动 ≠ 被动等她想起。她背、我喂。
 5. **diversity（5/31 suzy 要求）**:同一功能(如"为什么"开头)给 **2-3 个变体轮换**,不让她只背一个 → 否则每题重复、扣 FC/LR。点名时**轮着点不同变体**,变体组也要反复提醒。
+
+---
+
+## 6/18 更新（campaign 起点 · cold 计数 + 新增）
+
+**cold count +1（今日成功产出）**：
+- `On top of that`（论点连接变体组）— 6/18 P3 多次主动用 ✓ → 不再是 0
+- `The primary reason is` / `One reason is`（变体组）— 6/18 P3-Q1 主动用 ✓
+- `accessible to` / `depends on`（介词串）— 6/18 暖身造句全对 ✓（稳定弱点这次稳）
+- `that kind of thing`（已毕业）— 6/18 P3-Q1 又自然冒出
+
+**新增（≤15 守住，优先这几个）**：
+| Expression | Meaning | Cold count | 来源 |
+|------------|---------|-----------|------|
+| `we'd + 动词`（过去常做的事）| 补薄 bullet 的质感招（would 表过去习惯）| 0 — 6/18 教 | P2-新07 "we'd mess around building little programs" |
+| `make sure (that) 主语+动词` | 确保某事（后必跟完整小句，不跟名词）| 0 — 6/18 教 | P1 Tidiness Q3 错 |
+| `the general public` | 大众（形容词在前，固定语序）| 0 — 6/18 教 | 暖身① "the public general" 错 |
+| `stuck with / on sth` | 卡在某事（career decision / something at work）| 0 — 6/18 教 | P3 "stuck in career problems" 错 |
+| `make an impression on sb` | 给某人留下印象（on，非 leave sb impression）| 0 — 6/18 教 | tourism P3 错 |
+| 抽象/不可数**零冠词** | tourism/money/advice/information/research（不加 a/the）| 0 — 6/18 教 | "the tourism" 多加 |
+
+**🔑 方法 chunk（非词，是习惯）**：**降级 + 倒珠子**（见 error_log Pattern 21 / full_pass.md）。每次 cold 前提醒：别造书面句，倒 4 颗珠子用大白话串。

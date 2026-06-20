@@ -2469,3 +2469,30 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🏁 **里程碑:T2 广覆盖完成** —— 题型(6型/3结构)+ 题材(科技·工作·环境·健康·食物·社会政府·文化·交通·养育=9域)全过;untimed 连续 6 篇 ~7-7.5,accuracy 老三样稳、连接渐强。
 - **唯一剩:40min 限时**(suzy 要求最后)。可选:cohesion 继续精修 / 口语阶段 B 续 + P1。
 
+
+---
+
+## 6/18（口语突破日 + 方向调整）
+
+### ⭐⭐ 口语方法论突破：降级 + 倒珠子
+- suzy 写作能写出漂亮的 "younger vs older friends"，但坦白**口语根本说不出来**（也没法预想、没法回头改）。→ **核心 output gap 在口语侧现形**。
+- **真因**：她**拿写作目标量口语**（lies in / valuable advice / fresh perspectives = essay 词，没人这么说话）。口语 Band7 ≠ 写作 Band7。
+- **解药（=口语训练核心法）**：① **降级**到大白话（good/stuff/get）+ 短碎句 + marker；② **倒珠子不造句**（脑里 3-4 颗关键词，现场串，允许 `...I mean...` 纠正，不求 error-free）。
+- **当场验证**：降级后连续 3 题 cold（younger/older、childhood friendship、tourism）全产出 ~7。存 memory feedback_speaking_spoken_downgrade，error_log Pattern 21。
+
+### 今日练（详见 speaking sessions/2026-06-18.md）
+- 暖身介词串 + 连接变体组（全对/落地）→ P1 Tidiness（make sure+从句 错）→ P2-新07 发小(Zhangwei 改造，cold ~7，唯一 helps other→others)→ P3 友谊×2（Q2 是突破）→ P3 tourism（the tourism 多冠词 + spend on）。
+- 冠词三态全见：P2 零漏 / P3-Q1 零漏 / tourism 多加 the → 懂规则没自动化（error_log Pattern 22，=写作 W2-19 孪生）。-s 全程守住。
+
+### 🔀 方向调整（suzy 定）
+- **口语转主攻（老大难）**；**写作 suzy 自己练、遇问题再找教练**（T2 已 🏁 全覆盖，剩 40min 限时她自约）。
+- 开 **full_pass campaign**：P2/P3 全覆盖一遍，≥30% cold，其余 cold 水平简单范文，全记录（speaking-band7/coach/full_pass.md）。下次从 P2-新01 起系统过。
+
+## 6/19（口语 full_pass Round 1 完成）
+- 🏁 **Round 1 = P2 全部过 27/27**（教练给降级 spoken-register 范文 25 篇 + 外公/Zhangwei 2 篇 cold）。suzy 此轮重点 = 用范文**攒词组 + 攒珠子**（每篇标了加粗词组），cold 放 Round 2。
+- 范文全部降级到她 cold 水平（大白话 + marker + 倒珠子结构，非 essay），用她真实 persona（wife/speaker/zhangwei/Muye/外公/京都/Chen/表妹Lin）。三个 law 题 + 三个 zhangwei 题已差异化（06绿地/22限塑/27排放；07童年/21工作难题/25转AI）。
+- 全记录在 `speaking-band7/coach/full_pass.md`。
+- **下一步 Round 2**：P2+P3 一起 cold，比例拉高，从熟 persona 题起。
+
+- 续：老题也补完 → 🏁 **Round 1 大陆 P2 全覆盖 = 54/54**（27 新 + 27 老）。老题里 5 题（机智解决/朋友自学/有趣建筑/乐于助人/爱护自然）↔套已有新题范文，不重写；其余 14 篇新写。非大陆 8 题 suzy 定跳过。全部在 `full_pass.md`。
+- 新写老题范文新增 persona 料：外公老手表(传家)、Nolan/星际穿越(sci-fi)、VR、Bilibili、方所书店、成都(城市/安静/火锅)、鼓励 Muye 游泳、川西自驾、高配电脑、BBC 纪录片陪 Muye。

@@ -219,3 +219,26 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** 谓语前 0.5 秒锁定**真正的主语 head**:`what …` = 单数 / `the power of X` = power / `the trees in the park` = trees。head 是谁,动词跟谁。
 **Status:** 跨技能复发(写作 W2-17 已毕业又回潮;6/2 口语首现)。Monitor 两边。
 **Occurrences:** 2（含写作）
+
+---
+
+## Pattern 21: ⭐ 瞄准「书面英语」目标 → 口语 cold 说不出（=核心 output gap 的口语形）
+**Example:** 6/18 "younger vs older friends" —— suzy **写作**写出漂亮一版（the main difference lies in / valuable advice / fresh perspectives / stay open-minded and connected to the younger generation）但坦白「口语根本说不出来」。
+**Surface:** 句子是 essay register，从句多、词书面，cold 时检索不出 + 没法预先规划 + 没法回头改 → 卡死。
+**Deep:** **她拿写作的尺子量口语**。口语 Band 7 ≠ 写作 Band 7：口语要短/碎/大白话/允许自我纠正。瞄准说不出口的目标 = 不可能任务，于是"一输出就死机"。**这是她 output gap 在口语侧的根本形态。**
+**Fix（=口语训练核心方法）：**
+1. **降级**：good 不用 valuable，stuff 不用 perspectives，get 不用 obtain；短句少从句；口语 marker（I guess / kind of / honestly / or whatever）。
+2. **倒珠子，不造句**：脑里只存 3-4 颗关键词珠子，现场用最简单词串。`...I mean...` 接着说，不追求 error-free。
+3. 教练给范文一律**降级到她 cold 能说的水平**（见 `full_pass.md` 范文铁律）。
+**Status:** 6/18 发现 + 当场验证（降级后连续 3 题 cold 产出 ~7）。**所有口语产出默认走这套。** 存 memory feedback_speaking_spoken_downgrade。
+**Occurrences:** 1（方法论级，非单点错）
+
+---
+
+## Pattern 22: 冠词「多加」（不可数/抽象名词前误加 the/a）— 与写作"多加 the"孪生
+**Example:** 6/18 "**the** tourism is a good way…" → tourism（抽象/不可数零冠词）。
+**Surface:** 不可数/抽象名词前不该加冠词时加了。
+**Deep:** 冠词系统**懂规则但没自动化**。口语平时多**漏** a/an（Pattern 系列），这次反过来**多加** —— 同一根：不是知识缺口，是 pressure 下不自动判别。**=写作 W2-19「多加 the」孪生**（protecting environment→the environment）。
+**Fix:** 抽象/不可数零冠词清单背熟：tourism / money / advice / information / research / traffic / pollution / knowledge（除非特指）。**每次产出后扫一遍冠词**（俩科通用硬动作）。
+**Status:** 6/18 首现（多加侧）。冠词同日三态全见：P2 零漏 / P3-Q1 零漏 / tourism 多加 → 盯自动化。
+**Occurrences:** 1
