@@ -10,6 +10,27 @@
 `HOOK → CORE(一个角度) → 按 bullet 顺序走，每个 bullet 跑它的模式 → 最后一个 bullet = EXPLAIN(=LAND)`
 **你不挑一个全局模式，是每个 bullet 切一次 —— 但切哪个由 bullet 决定（offline 预定），考场零活决策。** 这天然处理混合卡。
 
+## 一·五、bullet 的自然语义（理解这层，模式不用背 = 听出来）
+> P2 的 bullet 其实就是**任何人聊一个东西时自然会问的顺序：「是什么 → 什么样/咋回事 → 你怎么看」**。考官只是把它拆成几行。听出 bullet 在问哪一类，模式自动跟上。
+
+**先塌成 3 个语义大类（记这个就够）—— SHOW / TELL / JUDGE：**
+
+| 自然语义 | 大类 | 模式 | 你的动作 |
+|---|---|---|---|
+| **"给我看看它"**(静态:是什么/什么样/平时咋样) | **SHOW** 给我看 | DESCRIBE | 画一幅画(不动) |
+| **"讲讲发生了啥"**(动态:一段经过) | **TELL** 讲给我听 | NARRATE | 讲个故事(推时间) |
+| **"你怎么看"**(主观:为什么/感受/意义) | **JUDGE** 你怎么看 | EXPLAIN | 给个说法(讲道理) |
+
+每个 bullet 都是这三个之一（外加两个一拍小的：**数数**=FACT-DROP、**掂量**=WEIGH）。
+
+**每种 bullet 真正在问啥（疑问词就暴露语义）：**
+- SHOW：`what/who/where it is`=指认哪个东西(点名) · `what it's like/looks like`=让我看见它(平移) · `what you do there/how he does it`=那个反复的画面(习惯)
+- TELL：`what you did/happened/how solved`=按顺序走一遍(NARRATE) · `how you met/knew it`=它怎么进入你生活的(NARRATE-lite,一拍)
+- JUDGE：`and explain why/how you feel`=你自己怎么想(EXPLAIN=LAND,永远最后)
+- 一拍：`how much/often/long`=给个数(FACT-DROP) · `whether popular`=是/否/两面(WEIGH)
+
+> ⚠️ **唯一陷阱：字面像 TELL，语义是 SHOW。** 最典型 `What you did there`(地方卡)——字面"做了啥"像故事,但**地方没时间线**("然后呢"返回空),真问的是"那地方平时啥样"=SHOW(平移/习惯),别讲成故事(=新03 的坑)。
+
 ## 二、bullet → 模式 速查（看 bullet 措辞就知道跑哪个）
 | bullet 长这样 | 模式 | 怎么跑 |
 |---|---|---|
