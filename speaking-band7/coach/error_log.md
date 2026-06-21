@@ -242,3 +242,13 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** 抽象/不可数零冠词清单背熟：tourism / money / advice / information / research / traffic / pollution / knowledge（除非特指）。**每次产出后扫一遍冠词**（俩科通用硬动作）。
 **Status:** 6/18 首现（多加侧）。冠词同日三态全见：P2 零漏 / P3-Q1 零漏 / tourism 多加 → 盯自动化。
 **Occurrences:** 1
+
+---
+
+## Pattern 23: cleft 句 "What I do is + V" 误加 -ing（说成 is doing）
+**Example:** 6/21 老26 "What I usually do there is just **sitting** by the water" → is just **sit**.
+**Surface:** 强调句 `What + 主语 + do + is` 后面接**动词原形**，不是 -ing（也不是 to do）。
+**Deep:** 受"is + -ing 进行时"惯性带偏；cleft 里 is 是系动词不是助动词，补语该是裸 V（呼应前面的 do）。
+**Fix:** `What I usually do is **sit** / **take** / **walk**`（原形，和 do 对齐）。drill：What I do is + 原形 ×几个。
+**Status:** 6/21 首现（老26）。她常用 "What I usually do there is…" 收 SHOW-习惯块 → 高频句式，下次盯。
+**Occurrences:** 1

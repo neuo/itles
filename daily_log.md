@@ -2496,3 +2496,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 
 - 续：老题也补完 → 🏁 **Round 1 大陆 P2 全覆盖 = 54/54**（27 新 + 27 老）。老题里 5 题（机智解决/朋友自学/有趣建筑/乐于助人/爱护自然）↔套已有新题范文，不重写；其余 14 篇新写。非大陆 8 题 suzy 定跳过。全部在 `full_pass.md`。
 - 新写老题范文新增 persona 料：外公老手表(传家)、Nolan/星际穿越(sci-fi)、VR、Bilibili、方所书店、成都(城市/安静/火锅)、鼓励 Muye 游泳、川西自驾、高配电脑、BBC 纪录片陪 Muye。
+
+## 6/21（口语 cold 实战：破死机 + 加长 + 降级校准）
+- **新09 创业**（cue-driven 系统首次 cold）：净 ~6.5，-s 零漏，so/because+appositive 用上；自诊缺 DESCRIBE-习惯块（漏 SHOW=没describe+偏短）；PLOT 标签误用纠正（仅媒体卡）。
+- **老26 安静地方** ⭐⭐：进场**死机**（吐两句没了）→ 教练**一拍一拍接龙**（每次填一拍/一珠）→ 从死机 cold 出完整篇 → 加长 +50%（~75s→115s，靠加拍不升词）。两条关键技能当场验证：① 死机解药=一次只想一拍 ② 卡住自救=够不着就降到能说的画面（星光→barely anyone left），别硬憋。自发用满地板词（take it all in / a little escape / clear my head / wind down / by chance）= 降级校准方向对。🔴 新错 Pattern 23：`What I do is + 原形`（非 -ing）。
+- 系统侧（6/21 全天）：tagged.md 单卡精修 v2 → frames/cue 从 tagged 重导 → 降级校准 v3（地板规则，还原 227 处）→ 补充技巧 + 自然语义 SHOW/TELL/JUDGE。口语 P2 体系自洽闭环 + 首批 cold 落地。
