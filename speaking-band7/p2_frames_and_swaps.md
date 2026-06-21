@@ -1,196 +1,503 @@
-# P2 填空骨架 + 复用 + 降级词表（6/20 · 目标 6-6.5）
+# P2 填空骨架 + 复用 + 降级词表（v2 · 从 tagged 重 derive · 6/21）
 
-> 解决你两点：① 每个模式压成**填空骨架**(背一次 + 填珠子,不背 prose) ② **逐题提炼的降级词表**(418 条)。以"在 54 题真落地"为准,不行的地方诚实标。
-
----
-
-## 🎯 总账：你只背 ~24 个东西，不是 54 段
-
-YOU MEMORIZE ~24 SMALL THINGS, NOT 54 PARAGRAPHS.
-
-(A) 9 GLUE-STRINGS (+1 micro-frame) — memorize verbatim, reuse on all 54 (这是你唯一要背的固定词；#9 + WISH-BEAT 是 6/20 QC 后补的):
-  ⊕ #9 PLOT-rail（媒体"讲什么"专用）: "It's basically about ___. It starts with ___, then ___. And the cool part is ___."（3 拍剧情封顶,新02/17/20/老16）
-  ⊕ WISH-BEAT（偏好/"要学啥/想怎么见/怎么实现"专用）: "I'd [need to / love to] ___, so I could ___."（一拍,接 why；老01/02/未来卡）
-  1. HOOK (5 tiny one-liners, pick one in 1 sec): "The [X] I'd like to talk about is ___" / "One time that comes to mind is when I ___" / "A [job/trip/tech] I'd love to ___ is ___" / "One important [decision/goal] I [made/have] is ___" / "If I could introduce a law, it'd be one that ___"
-  2. CORE one-liner (pick by type): person→"What really stands out about [him/her] is ___" · thing/place→"The thing I love about it is ___" · idea/law→"For me it comes down to ___"
-  3. DESCRIBE-点名: "It's [WHAT], over in [WHERE]. It's known for [ONE ANCHOR]." (rotate the opener so it's not identical every card)
-  4. DESCRIBE-平移: "When you walk around, there's just so much to see. You've got [X], like [Y]. And [Z]."
-  5. DESCRIBE-习惯: "What I usually do there is [V], [V], and [V]. There's no rush — you can just [W]." (he/she version for people)
-  6. NARRATE rail: "So [setup]. And then [what happened]. So I [what I did]. In the end, [how it wrapped up]." + embedded scene "I remember one time ___, and [he/she] just ___."
-  7. EXPLAIN=LAND (the ONE ending for all 54): "The reason is ___, because ___. So ___. So for me, ___."
-  8. WEIGH (law cards + 老14 only): "Most people would ___, although some ___ probably wouldn't, because ___. But for me, ___."
-
-(B) 4 PERSONA BEAD-SETS — cover ~26 cards:
-  · Zhangwei = calm-under-pressure dev, self-taught, organized (Notion) → ~7 cards + the SAME crash-fixing scene reused
-  · Wife = works for the city + self-taught Japanese + bakes → ~7 cards (law cards reuse the EXACT "she works for the city, so she deals with this kind of policy")
-  · Muye (son, 5, dinosaurs, bedtime books) → ~9 cards
-  · 外公 (raised me, retired, balcony garden, old watch) → ~3 cards
-
-(C) 3 PLACE/SELF BEADS — cover ~11 cards:
-  · Kyoto (temples + old streets + tatami house) → 3 cards · Chengdu (hotpot + pandas + laid-back + bookstore + IFS) → ~4 cards · "me = sci-fi/space + freedom-over-money developer" → ~7 cards
-
-(D) ~9 LOOSE EVENT BEAD-SETS — the self-narrated cards with no persona (新04 sunrise, 新23 no-reply, 老03 no-phone, 老15 music festival, 新17 ad, etc.). Each = 4-6 past-verb beads, NOT reusable across cards (different things happened).
-
-(E) PLUS, the irreducible cold-retrieval (be honest with yourself here):
-  · 9 EXPLAIN cards each need ONE pre-written "because ___" mechanism clause (the frame routes the rest, but not the first reason)
-  · 2 bespoke frames: 新26 "used to think X → saw ___ → now think Y" + 老04 "he wanted to ___ → I told him ___ → he thanked me"
-  · 1 reminder: on 老14 close with WEIGH, not feeling.
-
-BOTTOM LINE: 8 glue-strings (memorize once, reuse everywhere) + 7 bead-sets (personas/places/self covering ~37 cards) + ~9 loose event beads + a handful of pre-stored EXPLAIN reasons. The body of ANY card = pour 3-6 bead-words into a glue-string you already know cold. The Kyoto prose you refused to memorize = just glue #4 + glue #5 + 6 beads.
+> 这版从 `p2_answers_tagged.md`（v2 单卡精修后的 54 张成品）**逐句重 derive**——以前的 frames 是写出来的"应该长这样"，这版是从真落地的句子里**反推**出来的真 glue。哪里旧 doc 写错了/漂了，下面直接标 ⚠️ DRIFT。
+> 原则不变：**背 glue，填珠子（beads），别背 prose**。一个 clause 最多一个补充招（护 -s）。6-6.5 大白话即可，答完再扫 -s/冠词。
 
 ---
 
-## 📐 Kyoto 那段（你说太长不想背）= 2 个骨架 + 6 个珠子
+## 🎯 总账：你只背 ~25 个东西，不是 54 段
 
-HER OWN 'TOO LONG TO MEMORIZE' PARAGRAPH, REDUCED:
+YOU MEMORIZE ~25 SMALL THINGS, NOT 54 PARAGRAPHS.
 
-The Kyoto block ("When you walk around, there's just so much to see. You've got these beautiful old temples — like the Golden Pavilion, which sits right next to a pond. The streets are full of small shops selling snacks and tea... What I usually do there is just wander around slowly, try the street food, and take loads of photos. There's no rush at all...") is NOT a paragraph to memorize. It is just TWO skeletons (DESCRIBE-平移 + DESCRIBE-习惯) glued together, and she only fills ~6 beads.
+把 54 张全拆开数了一遍，真正要背的固定东西就这么多：
 
-She memorizes ONCE (these are the only fixed words):
-  平移 glue:  "When you walk around, there's just so much to see. You've got [X], like [Y]. And [Z]."
-  习惯 glue:  "What I usually do there is [V], [V], and [V]. There's no rush — you can just [W]."
+**(A) 13 条骨架 glue（13 SKELETONS）** —— 背一次，54 张反复用。按真用频率排（括号是覆盖卡数）：
+1. **EXPLAIN=LAND**（53 张，几乎每张的结尾）—— 你最该背到自动的一条
+2. **HOOK**（54 张，每张第一句，5 个开头 stem 选一）
+3. **CORE**（36 张，一句"角度"，3 个 glue 选一）
+4. **FACT-DROP**（31 张，一拍干事实，门不是房间）
+5. **NARRATE**（14 张，事件链：So…And then…So…In the end）
+6. **WISH-BEAT**（16 张，想要/将来/为什么做：…, so I could ___）
+7. **NARRATE-lite**（15 张，怎么认识/怎么得到：…, so that's how I ___）
+8. **习惯**（14 张，平常都干啥：What [X] usually does is V, V, and V）
+9. **点名**（14 张，一句报身份/地点：It's basically ___, over in ___）
+10. **平移**（10 张，镜头扫："so much to see. You've got X, like Y. And Z."）
+11. **PLOT**（5 张，媒体讲什么 3 拍："basically about… / It starts… / the cool part is…"）
+12. **ONE-MOMENT**（5 张，嵌一个具体瞬间："I remember one time…, and he just…"）
+13. **WEIGH**（4 张，两面一拍再 land 我这边）
 
-For Kyoto she drops in 6 beads (and ONLY these are Kyoto-specific):
-  X = old temples
-  Y = the Golden Pavilion (by a pond)
-  Z = the streets are full of little shops
-  V,V,V = wander slowly / try street food / take photos
-  W = sit by a temple for ages
+**(B) 7 套 persona/place/self 珠子（BEAD-SETS）** —— 覆盖 ~37 张，最大的省事来源：
+- **Zhangwei**＝冷静不慌的开发者、自学、爱用 Notion → ~7 张（同一个"崩了他坐下来一步步修"的场景反复用：新07/新21/新25/老06/老13/老14/老19）
+- **老婆**＝在市政府上班 + 自学日语 + 烤蛋糕 → ~7 张（环保法卡直接复用"她在市政府，管这类政策"：新06/新14/新15/新22/老10）
+- **Muye（儿子，5 岁，恐龙，睡前书）** → ~7 张（新09 birthday/新10/新20/老07/老09/老21/老27）
+- **外公**＝把我带大、退休、阳台菜园、老怀表 → ~4 张（新05/老11/老23 + 借用）
+- **Kyoto**（寺庙 + 老街 + 榻榻米房）→ 3 张（新18/新19 + 借景）
+- **Chengdu**（火锅 + 熊猫 + 慢生活 + Fangsuo 书店 + IFS）→ ~4 张（新01/老17/老24/老25）
+- **"我"＝科幻/太空迷 + 自由大于钱的开发者** → ~7 张（新02/新12/新16/新24/老01/老05/老22）
 
-That's it — 2 memorized glue-strings + 6 content beads = the whole "long" paragraph. She is NOT memorizing prose; she's filling 6 slots into 2 reused frames.
+**(C) ~9 套散装事件珠子（LOOSE EVENT BEADS）** —— self-narrated、没 persona 的卡（新04 看日出 / 新23 没回信 / 老03 不能用手机 / 老15 音乐节 / 新17 广告 / 老04 给建议 / 老18 乐高 / 新10 改行程 / 新11 团队）。每套 = 4-6 个过去式动词珠子，**跨卡不通用**（每件事不一样）。
 
-PROOF IT REUSES: for 老25 Chengdu she keeps the IDENTICAL glue and swaps only the beads → X=the food and the pandas, Y=amazing hotpot, Z=people sit in parks drinking tea, V,V,V=eat hotpot/visit the panda base/sit in a park, W=play cards with the locals. For 老26 park → X=a quiet corner by the lake, V,V,V=walk round the lake/sit on a bench/just read, W=sit and watch the water. SAME two skeletons, ~6 new beads each. So across all 9 place/home/shop cards she memorizes these two glue-strings exactly once and only ever swaps beads — never a new paragraph.
+**(D) 一小撮硬背（IRREDUCIBLE COLD-RETRIEVAL，对自己诚实）：**
+- ~9 张 EXPLAIN 重卡，每张要预存**一句** "because ___" 机理句（骨架能引路，但第一个真原因生不出来：新06/12/24/27 / 老01/02/05/12/22）
+- **2 张 bespoke**：新26"以前觉得 X → 后来看到 ___ → 现在觉得 Y" + 老04"他想 ___ → 我跟他说 ___ → 他留下并道谢"（标 `[BESPOKE-before]/[BESPOKE-after]`，别硬套 NARRATE，会造假时间线）
+- **1 条提醒**：老14 结尾用 WEIGH（比较），不是 feeling。
 
----
-
-## 🧱 每个模式的填空骨架（背骨架，填珠子）
-
-### DESCRIBE-点名 (thin name-it) — opens almost every card　(~12s)
-**骨架(背一次)**：It's [WHAT IT IS], [WHERE / WHO]. It's kind of famous for [ONE ANCHOR]. (then hand off — do NOT ask 'and then?')
-
-**空填什么**：WHAT IT IS = one plain noun-phrase: 'an old city', 'a tall shopping mall', 'a small park near my home', 'my younger cousin', 'an old watch' / WHERE/WHO = '...in Japan' / '...right in the city center' / '...she's a few years younger than me' / ONE ANCHOR = the single thing people know it for: 'its old temples', 'the giant panda on the wall', 'the food and the pandas'
-
-**填好示范**：It's an old city, over in Japan. It's kind of famous for its old temples and these quiet little streets.
-
-**复用到**：EVERY card's first body line — all 9 place/home/shop cards (新18,01,19, 老24,25,26,27), all person cards' opening (新05,07,08,15,21,25, 老06,07), things (老11), media (老08,27). It is the universal 'name it' bullet. This one skeleton handles every 'What it is / Where it is / Who it is' bullet.
-
-### DESCRIBE-平移 (zoom / camera-pan) — the MAIN block for place/home/shop　(~25s)
-**骨架(背一次)**：When you [walk around / look at it], there's [just so much to see / a lot going on]. You've got [BIG FEATURE], like [ONE REAL EXAMPLE]. And [SECOND FEATURE], [one detail]. (camera moves, never time)
-
-**空填什么**：BIG FEATURE = a category noun from the bead: 'beautiful old temples' / 'loads of shops and restaurants' / 'a quiet corner by the lake' / ONE REAL EXAMPLE after 'like' = the named bead: 'like the Golden Pavilion' / 'like the panda sculpture climbing the wall' / SECOND FEATURE = pan to the next part: 'And the streets are full of little shops' / 'And up top you get a great view'
-
-**填好示范**：When you walk around, there's just so much to see. You've got these beautiful old temples, like the Golden Pavilion, right next to a pond. And the streets are full of little shops selling snacks and tea.
-
-**复用到**：The 'what it's like / what you saw / what it looks like' bullet of EVERY place/home/shop card: 新18 Kyoto, 新01 IFS, 新19 Kyoto house, 老24 bookstore, 老25 Chengdu, 老26 park, 老27 documentary scenery. Swap only the 2-3 feature beads — the glue ('there's just so much to see / You've got... like... / And...') is memorized once.
-
-### DESCRIBE-习惯 (habit-walk) — the always-available second half for places AND the 'what they do' of person cards　(~22s)
-**骨架(背一次)**：What I usually do there is [VERB], [VERB], and [VERB]. There's no rush — you can just [LOW-KEY THING]. ⟶ (for a person:) What [he/she] usually does is [VERB], [VERB], and [VERB]. [He/She] just [keeps at it / does a bit every day].
-
-**空填什么**：3 VERBS in present tense, from beads: 'wander around slowly, try the street food, and take loads of photos' / 'walk round the lake, sit on a bench, and just read' / (person) 'watches dramas, uses an app, and picks up words bit by bit' / LOW-KEY THING = 'sit by a temple for ages' / 'grab a coffee and browse for hours' / 'sit and watch the water' / (person) closing tic = 'she just sticks to it' / 'he just keeps at it every day'
-
-**填好示范**：What I usually do there is just wander around slowly, try the street food, and take loads of photos. There's no rush — you can sit by a temple for ages and just take it all in.
-
-**复用到**：TWO big jobs from ONE skeleton: (1) the 'I' version = the second half of every place/home/shop card AND the rescue move for thin cards (老26 park, 老24 shop) — buys ~25s honestly. (2) the 'he/she' version = the 'what they do / how they do it' bullet of EVERY person card: 新05 grandfather, 新15 wife, 老06 Notion, 老07 drawing, 新08 cousin. Memorize the 'What [X] usually does is V, V, and V' frame once; fill 3 verb-beads per card.
-
-### NARRATE-event (then-track) — the engine for events & experiences　(~35s)
-**骨架(背一次)**：[ANCHOR: when/where it started]. And then [WHAT HAPPENED]. So [WHAT I DID]. [And then one more beat]. In the end, [HOW IT WRAPPED UP].
-
-**空填什么**：ANCHOR = one past clause with a time/place: 'One night our service went down' / 'We'd planned a trip for the holiday' / 'It was his birthday party last year' / WHAT HAPPENED = the turn: 'but then my son came down with a fever' / 'users couldn't log in at all' / WHAT I DID (always present — you're in the scene): 'So I stayed calm and went through the logs' / 'So instead we just stayed local' / HOW IT WRAPPED UP = 'In the end we got it back to normal' / 'and Muye got better quickly'
-
-**填好示范**：So one night our service just went down, and users couldn't log in at all. And then it got worse, so I sat down and went through the logs step by step. In the end, after about an hour, I found it was one small config mistake — and once I fixed that, everything came back to normal.
-
-**复用到**：Every event/experience card: 新04 sunrise, 新10 plan-change, 新11 group, 新16 bug, 新23 no-reply, 老09 birthday, 老18 Lego, 老21 swimming, 老04 advice. Only the past-verb beads change; the 'And then... So... In the end...' rail is memorized once. This is the 'first…then…in the end' litmus made into glue.
-
-### NARRATE-lite (one-beat origin / how-I-met / how-I-got-it)　(~10s)
-**骨架(背一次)**：[I got to know him / I first found it / I got it] [ONE CHANNEL OR MOMENT]. ⟶ (then immediately hand to the next bullet — do NOT then-pump)
-
-**空填什么**：ONE CHANNEL/MOMENT = a single source, no story: 'We met back in primary school' / 'I first found it by chance, out on a walk' / 'A friend recommended it years ago' / 'He passed it down to me'
-
-**填好示范**：I first found it by chance, actually — I was out for a walk one evening and just came across it.
-
-**复用到**：The 'how you met / how you knew / how you started / how you got it' bullet of person cards (新07,08,21,25, 老06), things (老11 watch, 老20 computer), apps/media (老08 Bilibili recommended), places (老26 found by chance). One beat, then off — its whole job is to NOT turn into a story.
-
-### NARRATE-lite ONE MOMENT (the single embedded mini-scene inside a person card)　(~25s)
-**骨架(背一次)**：I remember one time [SETUP]. [WHAT HAPPENED]. [HE/SHE just did THIS]. (one scene, then back to admire)
-
-**空填什么**：SETUP = where/when: 'we were on a group project and the program crashed right before the presentation' / WHAT HAPPENED = 'while everyone was panicking' / HE/SHE DID = 'he just sat down, checked the code line by line, and fixed it in twenty minutes'
-
-**填好示范**：I remember one time we were on a group project and the program just crashed right before we had to present it. While everyone else was panicking, he just sat down, went through the code line by line, and fixed it in about twenty minutes.
-
-**复用到**：The ONE embedded scene every person card uses to earn 'I admire him': 新07 Zhangwei save-the-day, 新21 walked-me-through, 新05 grandfather teaching me to plant, 老07 Muye asking us to sign drawings. Exactly one moment per card — fill 3 beads (setup / what happened / what they did), then route straight into EXPLAIN=LAND.
-
-### EXPLAIN=LAND — the universal closer (every card ends here)　(~22s)
-**骨架(背一次)**：The reason is [CORE ANGLE — one phrase], because [WHY, mechanism not 'because good']. So [DOWNSTREAM — what that gets you / how that feels]. So for me, [PLAIN ONE-LINE that points back at the CORE angle].
-
-**空填什么**：[CORE ANGLE]: the one take you pre-loaded for this card (it's so calm and full of history / he stays so calm under pressure / it's not about the watch, it's what it represents) / [WHY]: a plain mechanism, NOT 'because it's good' — say HOW it works (it's not loud and busy like a big city / he checks the code line by line instead of panicking / he's the one who raised me) / [DOWNSTREAM]: route to one of health / money-freedom / time, OR for people-cards route to the trait you admire — what it actually does (it kind of makes you slow down / he basically saved the day / every time I look at it, it reminds me of him) / [PLAIN ONE-LINE]: a flat sentence that re-touches the CORE angle to close (if someone likes quiet places, Kyoto's the first place I'd send them / honestly, everyone needs a friend like that / I think I'll keep it for the rest of my life)
-
-**填好示范**：The reason I'd recommend it is that it's so calm and full of history. It's not loud and rushed like a big city, so being there kind of makes you slow down. So for me, if someone likes quiet places and old culture, Kyoto's the first place I'd send them.
-
-**复用到**：ALL 54 cards — this is the single closer she points at any card's pre-loaded CORE angle. The three real final-bullet shapes are just which word fills the first slot: 'why I'd recommend/like it is...' (places, shops, programs, ads, films), 'how I feel about it is... / honestly I really admire ___ for...' (every person card + proud/decision), 'why it's important / why it means a lot is...' (objects, goals, family things, occasions).
-
-### FACT-DROP — one-beat fact (it's a door, not a room)　(~14s)
-**骨架(背一次)**：[ONE-SENTENCE FACT, plain]. What I usually do there is [V], [V], and [V].
-
-**空填什么**：[FACT]: answer the how-much/how-often/how-long/who-with bullet in ONE flat sentence — no padding (I don't go super often, maybe once or twice a month / it cost a few thousand yuan / there were about four or five of us / I went with a few friends and my family) / [V][V][V]: three small everyday verbs of what you do/did next — this is the 'fat receiver' that catches the handoff so the fact isn't left hanging (grab a coffee, browse for hours, and just chill out / handle the backend, go to short daily meetings, and stay on the same page)
-
-**填好示范**：I don't go super often, maybe once or twice a month, usually on a weekend. What I usually do there is grab a coffee, browse for ages, and just chill out away from the noise.
-
-**复用到**：Any card with a how-much / how-often / how-long / how-big / who-with bullet: 老24 shop (how often), 老20 computer (how much), 老05 VR (how much), 新11 group (how many people), 新13 sports (who with), 新14 food, 老27 program. RULE: answer in one beat then immediately hand off to the 'what I usually do' walk — never try to fill the fact itself, it's a door not a room.
-
-### WEIGH — one-beat two sides, then land your side　(~16s)
-**骨架(背一次)**：Most [GROUP] would [REACTION], although some [OTHER GROUP] probably wouldn't, because [PLAIN REASON]. Personally, I feel pretty strongly that [YOUR SIDE], so [WRAP].
-
-**空填什么**：[GROUP] / [REACTION]: the majority side in one beat (most ordinary people would love it / most people would support it) / [OTHER GROUP] / [PLAIN REASON]: the other side in one beat with a plain why (some developers probably wouldn't, because it limits what they can build / some factory owners wouldn't be happy, because cleaning up costs money) / [YOUR SIDE]: which way you land (green spaces are good for everyone's health / we can't keep putting the economy ahead of people's health) / [WRAP]: a short flat close (so they're worth protecting / so a law like this is worth it)
-
-**填好示范**：As for whether it'd be popular, most ordinary people would love it, although some developers probably wouldn't, because it limits what they can build on. Personally, I feel pretty strongly that green spaces are good for everyone's health, so they're worth protecting.
-
-**复用到**：Law cards where a middle bullet asks 'would it be popular' (新06 green-space law, 新22 plastics, 新27 factory emissions), and as a CLOSER for the rare card whose last bullet is a comparison not a feeling (老14 'whether it's easier to learn from a teacher' — two sides one beat, then land your side, do NOT switch to the admire/feeling template). Same skeleton, just used mid-card vs. as the close.
-
+**BOTTOM LINE**：13 条 glue（背一次，处处用）+ 7 套珠子（~37 张）+ ~9 套散装事件珠子 + 一小撮预存 because/bespoke。任何一张的正文 = 把 3-6 个珠子倒进一个你已背熟的 glue。Kyoto 那段你不想背的 prose = 不过是 **平移 glue + 习惯 glue + ~6 个珠子**。
 
 ---
 
-## 🔁 诚实地图：哪些卡干净落地 / 哪些仍要自己的内容
+## 📐 Kyoto 那段（你说太长不想背）= 2 个骨架 + ~6 个珠子
 
-WHERE REUSE + FRAMES GENUINELY WORK (the ~46 cards that LAND clean):
+HER OWN 'TOO LONG TO MEMORIZE' PARAGRAPH, REDUCED —— 用 v2 真落地的 glue（新18）：
 
-1. ALL 9 place/home/shop/scenery cards (新01,18,19 / 老17,24,25,26 + Planet Earth scenery 老27) — DESCRIBE-点名 + DESCRIBE-平移 + DESCRIBE-习惯 + EXPLAIN=LAND, swap ~6 beads. This is the cleanest family. The Kyoto reduction is real and replicable.
+Kyoto 那块不是一段 prose，是**两个骨架拼起来 + 只填 ~6 个珠子**。你背的固定词只有这两条：
 
-2. ALL ~18 person cards (新05,07,08,15,21,25 / 老06,07,10,19 + clones 老13,14) — DESCRIBE-点名 (who) + NARRATE-lite (how met) + DESCRIBE-习惯-he/she (what they do) + embedded ONE-MOMENT scene + EXPLAIN=LAND (admire trait). The persona reuse (Zhangwei covers ~7 cards, wife ~7, Muye ~9, 外公 ~3) is the single biggest content saving — she carries 4 persona bead-sets and they cover ~26 cards. This LANDS.
+```
+平移 glue：When you walk around, there's so much to see. You've got [X], like [Y]. And [Z].
+习惯 glue：What I did there was [V], [V], and [V].
+```
 
-3. The ~9 event/experience cards (新04,10,11,16,23 / 老03,09,18,21) — NARRATE-event rail. Rail reuses; beads don't (honest caveat above). Still a clear win because the rail kills her actual freeze point.
+Kyoto 倒进去（**只有这 6 个是 Kyoto 专属**）：
+- X = old temples
+- Y = the Golden Pavilion
+- Z =（这张省了第三拍，点名已铺好场，可不填）
+- V, V, V = walk around the old neighbourhoods / try lots of local street food / just take it all in
 
-4. EXPLAIN=LAND closer on ALL 54 — the universal ending works everywhere.
+真落地（新18，逐字）：
+> "And when you walk around, there's so much to see. You've got beautiful old temples, like the Golden Pavilion. … What I did there was walk around the old neighbourhoods, try lots of local street food, and just take it all in."
 
-WHERE A CARD STILL NEEDS ITS OWN CONTENT (honest, per her 50+ criterion):
+**证明它复用**：老25 Chengdu 同 glue 换珠子 → "There's so much to do — you've got the food and the pandas, like that amazing hotpot. … What I usually do is eat hotpot, go to see the pandas, and sit in a park"。老26 park → V,V,V = walk round the lake / sit on a bench / just read。**同两条 glue，每张换 ~6 个珠子，绝不背新段。**
 
-A. NARRATE event beads are NOT cross-card reusable. The skeleton is; the 4-6 past-verb beads per event are bespoke. ~9 cards each need their own little bead-set. This is unavoidable — different things happened.
-
-B. EXPLAIN's first "because Y" clause is real cold-retrieval on the 9 EXPLAIN-heavy cards (新06,12,24,27 / 老01,02,05,12,22). The skeleton routes the SO-chain to health/money/time, but the FIRST mechanism ("because it limits what developers can build" / "because Earth is dying") must be pre-stored per card. The frame cannot generate it. This is the one place "fill a slot" is actually "retrieve a pre-written sentence."
-
-C. TWO cards genuinely break every frame and need their own 2-beat mini-shape:
-   - 新26 changed-opinion = before/after contrast ("I used to think X → then I saw ___ → now I think Y"). NOT a then→then story; forcing NARRATE-event produces a fake timeline. Confirmed against the cue ("what the original opinion was / why you changed it").
-   - 老04 gave-advice = quote-the-advice + outcome ("he wanted to ___ → I told him ___ → he stayed and thanked me"). The middle COLLAPSES; then-pumping it invents filler. Confirmed against cue ("what the advice was / why you gave it").
-   These 2 are real exceptions — say so, give them their own tiny frame, don't pretend the rail covers them.
-
-D. ONE last-bullet exception: 老14's final bullet is "whether it'd be easier to learn from a teacher" = a COMPARISON, not a feeling. She must close with WEIGH (two sides, one beat, land her side), NOT the admire/feeling LAND. If she runs the person-card LAND here she answers the wrong question. The frame set handles this (WEIGH-as-closer) but she must KNOW to switch — it's the one card where the last bullet doesn't map to EXPLAIN=LAND.
-
-So: ~46 of 54 land clean on frames+personas+beads. ~9 events reuse the rail but need own story-beads. 9 EXPLAIN cards need 1 pre-stored "because" clause each. 2 cards (新26, 老04) need a bespoke 2-beat frame. 1 card (老14) needs a closer-swap she must remember. That is the honest map.
+⚠️ DRIFT（旧 doc）：旧 doc 的 Kyoto 示范写成长复合句（"temples, like the Golden Pavilion, which sits right next to a pond. The streets are full of little shops…"）。v2 真落地**短得多、平得多**（就两个 clause），符合"≤1 补充/clause"的降级。旧 doc 还写 "there's **just** so much to see"——corpus 里 6 处 place 用法有 5 处**丢了 just**，真句是 "there's so much to see"。背时去掉 just。
 
 ---
 
-## 🎭 不显刻意（6-6.5，防机械）
+## 🧱 每个骨架的填空骨架（背骨架，填珠子）
 
-Mostly yes — these read like a plain, fluent engineer talking, which is exactly 6-6.5. The glue ("When you walk around, there's just so much to see / You've got X, like Y / There's no rush / The reason is... because..." / "I remember one time...") is natural spoken English, not exam-ese. Good.
+> 每个骨架三件套：**canonicalGlue**（背这条）/ **real variants + 2 个真例**（确认它真长这样）/ **【背什么 / 怎么背 / 用时怎么用】**（最重要，落到操作）。
 
-THREE robotic risks to fix:
+---
 
-1. DESCRIBE-点名's instruction "It's kind of famous for [X]" used on EVERY single card's first line WILL sound templated by the 4th card if she always opens identically. Fix: give her 2-3 interchangeable openers for the "name it" bullet so it doesn't always run "It's [X], famous for [Y]" — alternates: "It's basically [X]" / "So it's [X], over in [place]" / "It's known for [Y]". Same job, rotated — this is the same anti-tell rotation principle the P3 system already uses.
+### 1. HOOK — 每张第一句（54/54，无例外）　(~6s)
 
-2. WEIGH's "Most [GROUP] would [REACTION], although some [OTHER GROUP] probably wouldn't, because..." is the most formula-shaped frame in the set — "although some X probably wouldn't" is a giveaway construction if delivered word-for-word. It's fine ONCE per test (it only appears on law cards 新06/22/27 + 老14), so she'll rarely use it twice in one exam. Acceptable as-is, but flag: keep it to one beat, don't let it bloom, and "Personally, I feel pretty strongly that..." is slightly strong/written — a 6-6.5 swap is "Honestly I think..." or "But for me...".
+**canonicalGlue（背 5 个 stem，1 秒选一）**：
+```
+1. NOUN-pick:   [OK so / So] the [X] I'd like to talk about is [TOPIC].
+2. TIME-event:  [OK so] one time that comes to mind is when I [DID THING].
+3. WANT-future: A [job/trip/tech] I'd love to [have/take/own] is [TOPIC].
+4. DECISION/GOAL: [So] one important [decision I made / goal I have] is/was [TOPIC].
+5. LAW (hypo):  [So] if I could introduce [a/one] [new] law, it'd be one that [DOES THING].
+```
+填的就一个 [TOPIC]（珠子）。可选第 2 行 HOOK 加**一个**事实：time anchor / rel-who（介绍人）/ stakes（时长·感受）。
 
-3. "What I usually do there is [V], [V], and [V]. There's no rush" is reused across ~10 cards — the "There's no rush" tag is lovely but is a tell if it lands on a card where there IS a rush (an event). It belongs only on place/calm cards. Minor scoping fix, not a rewrite.
+**real variants（真用到）**：
+- NOUN-pick（最常，~30 张）：`"OK so the building I'd like to talk about is IFS in Chengdu."`（新01）/ `"So the person I'd like to talk about is my grandfather."`（新05）
+- TIME-event（~9 张）：`"One time that comes to mind is when I worked in a group on a software project at work."`（新11）
+- WANT-future（3 个动词 have/take/own）：`"A job I'd love to have is working as a software developer in Japan for a few months."`（老22）/ `"A trip I'd love to take is a long drive with my family."`（老12）/ `"So a piece of tech I'd really love to own is a good VR headset."`（老05）
+- DECISION/GOAL：`"One important decision I made was choosing to go into the tech field."`（新12）/ `"So one important goal I have is becoming a kind of independent researcher."`（新24）
+- LAW（两个形：one **to** ___ / one **that** ___）：`"OK so if I could introduce a new law, it'd be one to better protect the city's parks and green spaces."`（新06）/ `"So if I could introduce one law, it'd be one that puts much tougher rules on what factories are allowed to pollute."`（新27）
+- 暖场词三选一轮换：`OK so`（~20 张）/ `So`（~18 张）/ 裸开头不带暖场（~16 张，如老11/老12）
+- 第 2 行 HOOK 加 1 事实：time anchor 新04 `"It was on a trip a few years ago, and I had to get up around 4:30…"`；duration 新24 `"It's a long-term thing, and I've had it for several years now."`；hedge 新12 `"It might not sound like a huge deal, but it really shaped my job."`
 
-Everything else (NARRATE rail, EXPLAIN closer, the embedded ONE-MOMENT scene, the feeling line "I was a bit ___ at first, but then it turned out fine") sounds genuinely human at 6-6.5. The filledExamples are all good — none cross into Band 8 vocabulary, none sound scripted.
+**2 个真例**：
+- 新01：`"OK so the building I'd like to talk about is IFS in Chengdu."`
+- 新08：`"OK so the person I'd like to talk about is my younger cousin, Lin."`（HOOK · appositive）
+
+**【背什么】** 5 个 stem + 3 个暖场词（OK so / So / 裸）。其余全是珠子。
+**【怎么背】** 把 5 个 stem 各配一张代表卡念熟（building→新01 / one time→新11 / job→老22 / goal→新24 / law→新06）。它 ROI 最高——freeze 风险最大的开口处，背熟能买 5-7 秒思考时间。
+**【用时怎么用】** 看 cue 第一条 bullet（headline 名词/事件）→ 1 秒选 stem → 倒 TOPIC → 嘴张开。**只覆盖第一条 bullet**（"是什么/谁/哪次"），描述/为什么那些 bullet 交给后面的骨架。需要时第 2 行加 ONE 事实（且最多一个补充：appositive 或 rel-who 或 which-tag，**不叠**）。
+
+⚠️ DRIFT：旧 doc 5 个 stem 列对了，但漏了三个 corpus 真相——(a) want 是 3 个动词 have/take/own，不是 1 个；(b) law 有两个形 `it'd be one to ___` / `it'd be one that ___`；(c) 暖场 OK so / So / 裸是真三轮换。8 张跑第二行 HOOK（新04/05/06/08/12/20/23/24），HOOK 可以是 1 行或 2 行。
+
+---
+
+### 2. CORE — 一句"角度"（36/54，第二高频）　(~8s)
+
+**canonicalGlue（按卡型背 3 条 glue，填一个 [ANGLE]）**：
+```
+人卡          → What really stands out about [him/her] is [ANGLE].
+物/地/影/剧/物件 → The thing I love about it is [ANGLE].   （过去事件 → The thing I loved about it was ___）
+观点/法/目标/抽象 → For me it really comes down to [ANGLE].
+```
+
+**real variants（真用到）**：
+- `What really stands out about him is ___`（人卡主力：新05/07/09/17/25 / 老02/06/13/19/23）
+- `What really stands out about her is ___`（新15 / 老10）
+- `The thing I love about it is ___`（物/地主力：新01/02/14 / 老05/08/16/20/27）
+- 负向/无聊卡软化变体：`The thing about it is ___`（新03 无聊小镇，丢掉 I love）/ `The thing I'll say about it is ___`（老15 不喜欢的音乐，hedge）
+- `For me it really comes down to ___`（观点/法/目标主力：新06/16/22/24/26/27 / 老03/18/22）
+- 接在前半句尾（更口语）：`"He's five years old, and what really stands out about him is ___"`（老07）/ `"It was outdoors and pretty big, and the thing I'll say about it is ___"`（老15）
+
+**2 个真例**：
+- 新05：`"What really stands out about him is he loves every plant like family."`
+- 新24：`"For me it really comes down to being someone who does research on their own."`
+
+**【背什么】** 就这 3 条 glue 串 + 一个 [ANGLE] 珠子。
+**【怎么背】** 把卡型→glue 的映射背成反射：见到"人"嘴里自动 "What really stands out about…"；见到"地/物"自动 "The thing I love about it is…"；见到"法/目标/观点"自动 "For me it really comes down to…"。
+**【用时怎么用】** HOOK 之后第 2 拍直接打 CORE（有时融在 HOOK 尾巴上）。它是"双夸"的前半——CORE 先说角度，后面 EXPLAIN=LAND 给为什么。**CORE 尽量裸说**（~30/41 不带补充），它是承重句，要说干净护 -s。
+
+⚠️ DRIFT：旧 doc 写 `For me it comes down to ___`——v2 已全线变成 **`For me it really comes down to ___`**（really 焊死了，新06/16/22/24/26/27/老03/18/22 全是）。背带 really 的版本。另两个负向变体（新03 `The thing about it is` / 老15 `The thing I'll say about it is`）旧 doc 没列，记一下。
+
+---
+
+### 3. 点名 (DESCRIBE-点名 · 一句报身份/地点)　(~10s)
+
+**canonicalGlue（两个真形）**：
+```
+(a) 全形：It's basically [WHAT], over in [WHERE]. It's known for [ANCHOR].
+(b) 薄尾：It's [WHAT], [WHERE/WHO], [小人味尾巴: nothing special / and it's one I really like].
+```
+ANCHOR 是**可选的**（16 处只 ~4 处有）。开头主力词是 **`It's basically`**（16 处占 7）。报完直接交棒，别问 "and then?"。
+
+**real variants（真用到）**：
+- `It's basically [X]`——新01/03 / 老11/17/24
+- `It's [X], over in [WHERE]. It's known for [Z].`——新18 Kyoto（a city over in Japan / its old temples）/ 老17 IFS（over in Chengdu / the giant panda climbing up the wall）
+- 薄尾人味收尾：`"nothing special at all"`（新03）/ `"and it's one I really like"`（老26）/ `"But it felt just like a real home."`（新19）/ `"nothing fancy"`（老03）
+- 人卡只用短 relative-clue：`"So it's basically my grandfather's watch — and he's the one who raised me."`（老11）/ `"He's a friend from school, who's a programmer just like me."`（老19）
+
+**2 个真例**：
+- 老17：`"It's basically a tall shopping mall, over in Chengdu. And it's known for the giant panda climbing up the wall."`
+- 老26：`"So it's a quiet spot, right over by the lake, and it's one I really like."`
+
+**【背什么】** `It's basically [WHAT], over in [WHERE].`（+ 可选 `It's known for [ANCHOR].`）。
+**【怎么背】** 把 `It's basically` 当默认开头反射；ANCHOR 当"有就加，没有就收个人味尾巴"。
+**【用时怎么用】** 永远是 HOOK 后**第一条正文**，最轻的块，**没有时间线**。覆盖"是什么/在哪/谁"那条 bullet。地→WHAT+WHERE；物→WHAT(+谁的)；人（少用）→短 relative-clue。补充不叠（≤1/clause）。
+
+⚠️ DRIFT：旧 doc 的 `It's kind of famous for [ANCHOR]` 在 corpus **出现 0 次**——真说法统一是 `It's known for [Z]`，且 ANCHOR 可选。旧 doc 说"点名开所有人卡"也错——人卡身份多是塞进 HOOK/CORE/NARRATE-lite，点名-on-人 只剩老11/19/21 的短从句。薄尾人味收尾（nothing special / one I really like）旧 doc 漏了，是真招。
+
+---
+
+### 4. 平移 (DESCRIBE-平移 / 镜头扫)　(~20s)
+
+**canonicalGlue（3 个 glue piece，扫镜头不报时间）**：
+```
+opener:    When you [walk around / look at it / look around], there's so much to see.
+You've got: You've got [BIG FEATURE], like [ONE REAL EXAMPLE].   ← like 补充挂这一行
+And:       And [SECOND FEATURE].
+```
+背这 3 块，每张只换 2-3 个 feature 珠子。
+
+**real variants（真用到）**：
+- opener（地卡，近逐字）：`"When you walk around, there's so much to see."`（新18/老17）/ `"When you look at it, there's so much to see."`（新05 外公菜园）/ `"And when you look around, there's so much to see."`（新19）
+- 人做事变体：`"When you look at what he does, there's a lot going on."`（老23 外公）
+- 干事变体：`"There's so much to do — you've got the food and the pandas, like…"`（老25，so much **to do**）
+- 负向翻转：`"And honestly, when you walk around, there's not much to see. You've got the basics, like one main road…"`（新03，翻成 NOT much to see）
+- "You've got X, like Y"（like 寄主行）：`"You've got beautiful old temples, like the Golden Pavilion."`（新18）/ `"You've got vegetables we eat every day, like tomatoes, hot peppers and spring onions."`（新05）
+- "And [下一拍]"：`"And if you go up top, you can see the whole city."`（新01）/ `"And inside it's all shiny shops and glass, really tall."`（老17）
+
+**2 个真例**：
+- 老17：`"When you walk around, there's so much to see. You've got the panda sculpture, like this huge bear hanging off the outside wall. And inside it's all shiny shops and glass, really tall."`
+- 新05：`"When you look at it, there's so much to see. You've got vegetables we eat every day, like tomatoes, hot peppers and spring onions. And a few pots of flowers."`
+
+**【背什么】** opener + `You've got X, like Y` + `And…`，三块。
+**【怎么背】** 把它当"摄像机平移"，不是钟表——脑子里画面从一处扫到下一处，每扫一处一拍 `And…`。like 那拍专门挂一个**真例子珠子**。
+**【用时怎么用】** 卡的视觉中段，点名/HOOK 之后、习惯或 EXPLAIN=LAND 之前。覆盖"什么样/看到啥/长啥样"bullet。地卡主力，也能扫人卡里的菜园（新05/老23）。补充就一个 like 骑 "You've got" 那行。
+
+⚠️ DRIFT：旧 doc 写 "just so much to see"——corpus 一致**丢 just**（"there's so much to see"）。旧 doc 示范太长（temples+pond+streets 一长串），v2 短得多（就两 clause）。旧 doc 说平移只在 9 张地卡——corpus 还扫了 2 张人卡菜园（新05/老23）+ 2 张非地隐喻（老01 "kind of job" / 新22 "when you go shopping"，这俩是 tag-drift 无真平移，最松用法，知道即可）。老27 Planet Earth 旧 doc 算 place 用平移，但 corpus 走的是 PLOT。
+
+---
+
+### 5. 习惯 (DESCRIBE-习惯 / 平常都干啥)　(~18s)
+
+**canonicalGlue（两段，背一次，填 3 个动词珠子）**：
+```
+LEAD（固定）：What [he/she/I] usually do(es) [there] is [VERB], [VERB], and [VERB].
+TAIL（挑一个收尾 tic）：
+   人  → He/She just keeps at it [every day / a bit every day].（可 + very patiently / really careful with…）
+   地  → There's [really] no rush — you can just [LOW-KEY THING].
+```
+珠子＝3 个现在式动词 + 1 个收尾 tic。其余不动。
+
+**real variants（真用到）**：
+- LEAD 人卡，逗号重启（口语，老卡常见）：`"What he usually does is, he grabs his pens, sits down on the floor, and just starts drawing."`（老07）
+- LEAD 自己/地，干净：`"What I usually do there is get a coffee, look at books for hours, and just relax."`（老24）
+- LEAD 过去式变体（cue 问"你在那做了啥"）：`"What I did there was walk around the old neighbourhoods, try lots of local street food, and just take it all in."`（新18）/ `"What we usually did was hang out in the school computer club and make little programs."`（新07）
+- TAIL 人 tic：`"He just keeps at it every day, very patiently."`（新05）/ `"He just keeps at it, a bit every day, and he's really careful with the roots."`（老23）
+- TAIL 地 tic：`"There's really no rush — you can just take your time."`（老24）/ `"There's no rush — sometimes I do nothing at all, you can just sit and look at the water."`（老26）
+
+**2 个真例**：
+- 新05：`"What he usually does is go out first thing in the morning to water them, make his own plant food from leftover fruit skins, and check on every pot."` + `"He just keeps at it every day, very patiently."`
+- 老26：`"What I usually do there is walk round the lake, sit on a bench, and just read."` + `"There's no rush — sometimes I do nothing at all, you can just sit and look at the water."`
+
+**【背什么】** LEAD 框 `What [X] usually does is V, V, and V` + 两个 TAIL tic（人＝keeps at it / 地＝no rush）。
+**【怎么背】** 记死 TAIL 是**分模式的**：地用 "There's no rush"，人用 "just keeps at it / does a bit every day"。3 个动词数死＝3 个，别超。
+**【用时怎么用】** 答 SHOW bullet——"重复/典型动作"，不是一次性故事。地卡：你平常在那干啥；人卡：他/她平常怎么做/怎么学。它是地卡稳定的下半场、人卡的核心。**陷阱**：地卡"你在那做了啥"是 SHOW-习惯（扫典型），不是 NARRATE，别变 then-then。
+
+⚠️ DRIFT：旧 doc 两个 TAIL 都列了，但 corpus 把分裂做得更死——地＝no rush（老24/26），人几乎只用 keeps at it（新05/15/老19/23）。逗号重启 `"…is, he grabs his pens…"` 是真口语 pattern（老06/07/08），别改。过去式 `What I did there was`（新18/新07）是同骨架，跟着 cue 走。老06 把 LEAD 塞了 4 个 clause（略长，唯一注水），其余守 ≤3。
+
+---
+
+### 6. NARRATE (事件链)　(~30s)
+
+**canonicalGlue（不是一句，是连接链！背 4 个连接词槽，一拍一拍穿）**：
+```
+So [SETUP — 何时/何地/谁]
+→ And then [DEVELOPMENT — 复杂化：kept changing / got tight / he just sat down]
+→ So [TURN/REACTION — 我做了啥 / 接着发生啥]
+→ In the end [RESOLUTION — 怎么收场]
+```
+整条 so-脊：几乎每拍 `So` 开（setup/turn）、`And/And then`（development）、`In the end / So in the end`（收）。可选情绪弧 `At first… But after a while/then…`。一拍一短 clause，加到讲完，交给 EXPLAIN=LAND。
+
+**real variants（真用到）**：
+- Setup：`"So I went with a couple of friends."`（新04）/ `"So a while back I was stuck on a really hard problem at work."`（新21）
+- Development `And then…`：`"And then the deadline got really tight, and on top of that what they wanted kept changing."`（新11）/ `"And then his little face went all happy"`（老09）
+- Turn `So…`：`"So we had to call it off."`（新10）/ `"So at first he just cried and held onto me, so I almost gave up."`（老21）
+- Resolution `In the end…`：`"In the end we just sat there, really cold and sleepy, waiting."`（新04）/ `"So in the end we solved it together."`（老13）
+- 情绪弧 `At first… But…`：`"At first it felt really weird without it … But after a while it was actually kind of nice"`（老03）
+- 3-动词动作拍：`"We visited a few parks, ate at some nice restaurants, and let him rest to get better."`（新10）
+
+**2 个真例（整条链）**：
+- 新23（没回信）：`"So I sent it off, and then... nothing. / A few days went by, then it turned into weeks. / So I started to think maybe I'd said something wrong. / In the end he did reply, about a month later. / It turned out he'd just been really busy, so it wasn't about me at all."`
+- 老21（鼓励 Muye 游泳）：`"So at first he just cried and held onto me, so I almost gave up. / And then I kept gently trying with him, and little by little he started to relax. / In the end he even started to enjoy it and smiled in the water."`
+
+**【背什么】** 就 4 个连接词：**So / And then / So / In the end**。其余全是真事件珠子（这正合你"背 glue 填珠子"）。
+**【怎么背】** 不要当模板句背！当成"接龙连接词"——每讲一个真细节就用下一个连接词起头，讲到该收了就 `In the end`。两个常用子招：情绪弧（At first 负面…But 后来好了，自带小张力）和 3-动词拍（压一口气说"我们做了 A、B、C"）。
+**【用时怎么用】** 任何要你**讲一个顺序**的卡（a time you… / 改的计划 / 解决的问题）。人卡里盖"他某次做了 X"那拍。永远在中段（HOOK/CORE 之后、EXPLAIN=LAND 之前），不开头不收尾。全程过去式——答完扫 turn 动词的时态和 -s。
+
+⚠️ DRIFT：NARRATE **不是固定模板句**，是连接链——这是最重要的更正。别和 **NARRATE-lite 混**：NARRATE = 有转折有结尾的序列；NARRATE-lite = 一两句平的背景/origin。
+
+---
+
+### 7. NARRATE-lite (一拍 origin / 怎么认识·得到·听说·找到的)　(~10s)
+
+**canonicalGlue（主力 = origin 拍，签名尾巴是 `so that's how I ___`）**：
+```
+[We met [WHEN], so that's how I [met him / got to know him]]
+[A friend told me about it [WHEN], so that's how I heard about it]
+[I [found/got] it [HOW]]
+```
+那条 `…, so that's how I ___` 自标尾巴就是签名 glue。填**一个** channel/moment 就交棒，**绝不 then-pump 成故事**。
+
+**real variants（真用到）**：
+- `"We've known each other since university, so that's how I got to know him."`（老06）
+- `"A friend told me about it years ago, and I've loved it ever since, so that's how I heard about it."`（老08）
+- `"We used to work at the same company, so that's how I met him"`（新09）
+- `"We met years ago and got married, so she was the first person I thought of."`（新15）
+- `"I first got to know him through his movies, like Inception and Interstellar…"`（老02）
+- `"I actually found it by accident — I was out for a walk one evening and just came across it."`（老26）
+- 溢出用法（非 origin，一句平过去拍）：`"Later on he gave it to me, which meant a lot…"`（老11 传下来）/ `"I slowly figured this out over the years…"`（老01 一个领悟的来由）
+
+**2 个真例**：
+- 老06：`"We've known each other since university, so that's how I got to know him."`
+- 老26：`"I actually found it by accident — I was out for a walk one evening and just came across it."`
+
+**【背什么】** 那一条 `…, so that's how I [met him / heard about it / got to know him].`
+**【怎么背】** 背成"怎么搭上的"专用钩子；溢出用法（背景/payoff 单拍）不用背 glue，就是"一句平过去，然后走开"。
+**【用时怎么用】** 盖"怎么认识/怎么听说/怎么找到/怎么得到"那条 bullet。人卡＝met/knew；物/家传＝怎么得到（老11 怀表）；app/媒体＝怎么听说（老08/老05/老02）；地＝怎么发现（老26）。一拍就走，**别 then-pump**。
+
+⚠️ DRIFT：旧 doc 的卡单子过时——它说盖 新07/08/21/25/老06+老11/20+老08+老26，但 corpus 里 新07 用 [N]、新21/25/老13/19 的 met/rescue 拍走的是**整条 NARRATE**、老20 根本没有。真 NARRATE-lite 是 15 张：新02/08/09/15 / 老01/02/05/06/07/08/10/11/19/22/26。另外这 tag 悄悄从"origin"扩成了"一句平过去"通用标——纯 origin 9 张，其余 6 张是溢出用法（背景/payoff/领悟来由），知道即可。
+
+---
+
+### 8. ONE-MOMENT (嵌入式具体瞬间) — 卡谱里短标 [OM]　(~12s)
+
+**canonicalGlue（两个固定钉子：opener + pivot）**：
+```
+I remember one time [SETUP — 当时啥情况], and [he/she] just [DID THIS ONE VIVID THING].
+```
+背一次，填珠子（setup + 那一个动作）。降落一个小场景到人卡/事件卡里，然后回去夸/解释。多行扩写（新07/老19）＝同 opener + 加一拍对比（"While everyone else was freaking out, he just…"）+ payoff（"So in about twenty minutes he fixed it — he basically saved us."）。
+
+**real variants（真用到）**：
+- 默认：`"I remember one time [SETUP], and [he/she] just [ACTION]."`（新05）
+- 3 行扩写：`"I remember one time on a group project, the program broke just before we had to show it. / While everyone else was freaking out, he just sat down and went through it slowly, part by part. / So in about twenty minutes he fixed it - he basically saved us."`（新07）
+- 压缩（丢 "one time"，留 "I remember … just"）：`"And I remember he just sat down with me and walked me through it, one step at a time."`（新21）
+- "the moment"换 "one time"（瞬间事件）：`"I remember the moment he made a wish, and he just blew out the candles with this big grin."`（老09）
+
+**2 个真例**：
+- 新05：`"I remember one time he spent a whole afternoon teaching me how to plant a flower, and he just showed me slowly how to be careful with the roots."`
+- 老09：`"I remember the moment he made a wish, and he just blew out the candles with this big grin."`
+
+**【背什么】** 两个钉子：`I remember one time …` + `and [he/she] just …`。
+**【怎么背】** 记死这是**全 corpus 唯一裸跑（不挂任何补充招）**的骨架——场景内的小招（对比拍 / payoff 破折号 / "with this big grin"尾巴）都焊进 glue 本身了。所以它天然护 -s（没第二个 clause 可叠）。
+**【用时怎么用】** 当人/事件卡要**一个具体证据瞬间**而非整条 NARRATE 时用。人卡里放在习惯（平常做啥）之后；事件卡里放在 NARRATE setup 之后（老09）。"show don't tell"那颗珠子——夸完一句立刻甩一个画面，然后接 CORE/EXPLAIN=LAND。
+
+⚠️ DRIFT：旧 doc 把它归在 "NARRATE-lite ONE MOMENT" 名下，且 pivot 写成新句子——corpus 真 pivot 一致是 `and [he/she] just …`（用 and 连，不另起句）。旧 doc 示范用 "panicking / line by line"，v2 降级成 **"freaking out / part by part"**（更白）。两个 opener swap 旧 doc 没列：`I remember the moment …`（老09）和裸 `I remember he just …`（新21）。
+
+---
+
+### 9. PLOT (媒体——讲电影/视频/广告/书/剧)　(~18s)
+
+**canonicalGlue（3 拍，依序说，背 3 个 glue-stub 填 3 珠子）**：
+```
+Beat 1 (前提):  (So) it's basically about [SUBJECT].
+Beat 2 (弧线):  It starts with/off [START], then / and then [PROGRESSION].
+Beat 3 (亮点):  And the cool part is [PAYOFF].
+```
+4/5 张 glue 完全不变。只有 Beat 2 会弹：有弧（故事/片/广告）用 "It starts…"；无弧（自然纪录片）换 "You get to see [SCOPE]"。Beat 1 和 Beat 3 **永不变**。
+
+**real variants（真用到）**：
+- Beat 1（都＝同 stub）：`"It is basically about…"`（新02）/ `"So the ad is basically about…"`（新17）/ `"So it's basically about a group of…"`（老16）
+- Beat 2 有弧：`"It starts with the launch, and then…"`（新02）/ `"It starts off small, then it eats…"`（新20）/ `"It starts with Earth dying, then they fly off…"`（老16）
+- Beat 2 无弧 swap：`"You get to see amazing animals from all over the world, from the bottom of the sea to the top of the mountains."`（老27，自然纪录片没剧情可"start"）
+- Beat 3（逐字常量）：`"And the cool part is people actually call it the chopsticks."`（新02）/ `"And the cool part is it becomes a beautiful butterfly…"`（新20）/ `"And the cool part is, underneath all the science, it's really a story about a dad and his daughter."`（老16）
+
+**2 个真例**：
+- 新02（SpaceX）：`"It is basically about the biggest, most powerful rocket ever built. / It starts with the launch, and then, instead of landing on the ground, two giant arms catch it in the air. / And the cool part is people actually call it the chopsticks."`
+- 老16（Interstellar）：`"So it's basically about a group of astronauts who travel through space to find a new home for people. / It starts with Earth dying, then they fly off to look for somewhere else to live. / And the cool part is, underneath all the science, it's really a story about a dad and his daughter."`
+
+**【背什么】** 3 个 stub：`basically about` / `It starts…`(或 `You get to see…`) / `And the cool part is`。
+**【怎么背】** `And the cool part is` 是这里最值钱的一句——逼你给一个 payoff/反转，永不变，最适合 freezer 背。Beat 2 是唯一要现场决定的：有弧→"It starts…"，无弧→"You get to see…"。
+**【用时怎么用】** 盖媒体卡的"讲了啥/什么故事/里面发生啥"bullet——媒体卡的 SHOW 块（相当于地卡的平移）。不盖"为什么喜欢"（那是 CORE+EXPLAIN=LAND）和"何时怎么看的"（FACT-DROP/WISH-BEAT）。
+
+⚠️ DRIFT：它其实不全是真"剧情"——新17（广告）和老27（纪录片）没叙事也照用这 3-stub 框，所以 PLOT 实际是"3 拍概括内容"引擎，不严格是故事弧。Beat 1+2 永远裸（护 -s），唯一 -s 风险是 Beat 3 的第三人称动词（becomes/succeeds/looks）——这块的扫描目标就是它。
+
+---
+
+### 10. FACT-DROP (一拍干事实——它是门，不是房间)　(~12s)
+
+**canonicalGlue（就一句平事实，然后立刻交棒）**：
+```
+[I went / I use / I'd planned / it was at / I go there] [the fact], [a couple of years ago / once or twice a month / a few thousand yuan / with my family].
+```
+答完那条 bullet 一拍，马上交给一个 **fat receiver**（习惯/平移/NARRATE），别赖在事实上。
+
+**real variants（真用到）**：
+- 裸事实无开头（主力 ~28/37）：`"I went there with my family during the Spring Festival, a couple of years ago."` / `"I use it pretty much every day, usually in the evening when I want to relax."`
+- `"As for how it turned out, it went really well — …"`（新12，结果 bullet）
+- `"Function-wise, it's mainly a shopping mall, with…"`（老17，功能 bullet）
+- `"So far she speaks Chinese and English, and quite a bit of Japanese now."`（新15，会啥语言）
+- `"The reason was partly … and partly because …"`（老03，为什么 bullet）
+- 短背景拍：`"A friend had some extra tickets, so I just went along."`（新13）/ `"It was their idea, not mine."`（老15）
+
+**2 个真例**：
+- 老24：`"I don't go super often — maybe once or twice a month, usually on a weekend when I'm free."`（紧接 习惯 `"What I usually do there is get a coffee…"`——肥 receiver）
+- 老20：`"I'd planned to spend around six or seven thousand yuan, but in the end it came to over ten thousand."`（一拍，对比内置，接 WISH-BEAT/EXPLAIN）
+
+**【背什么】** 没啥可背——就"一句平事实"。记几个 framing 开头：`As for how it turned out…` / `Function-wise…` / `So far…`。
+**【怎么背】** 记口诀"**门不是房间**"：一拍答完立刻甩给下一块，绝不展开事实本身。
+**【用时怎么用】** 那些低分值"数据"bullet：跟谁/何时/何地/多久一次/多少钱/多大/多少人。在 5-bullet 卡上是第 4/5 条的标准处理。**陷阱**：薄卡上 receiver 必须"肥"（一段习惯 walk），否则门后是空的——corpus 都把 FACT-DROP 直接接进 习惯（老24/26/08/07）或 平移（新03/老25）。
+
+⚠️ DRIFT：旧 doc 把 receiver `What I usually do there is V,V,V` **焊进了 FACT-DROP glue**——corpus 里 习惯/平移 receiver 是**单独一行 tag**，FACT-DROP 本身就是纯一拍门。旧 doc 说复用 ~7 张，实际 **31 张**。-s 风险：第三人称事实（she speaks / he draws / he gets really happy）——答后扫。
+
+---
+
+### 11. WEIGH (两面一拍，再 land 我这边)　(~16s)
+
+**canonicalGlue（两个真形，别背一条串，背"两面一拍再落我这边"这个动作）**：
+```
+SHAPE A — 民意两面（法卡 新06/22/27 + 老14）：
+[As for whether it'd be popular,] most [normal] people would [like it / be for it / back it], although some [GROUP] wouldn't[, because [cost reason]]. But honestly, for me it's still worth it[, because [one reason]].
+
+SHAPE B — 来访 vs 居住 / 偏好收尾（新19，没有 "most people"）：
+But honestly, I wouldn't want to actually live there. [The pace is just too slow for me], so [daily life would be a hassle]. So for me, it's [good] for [X], but [bad] for [Y].
+```
+两形都落在同一个词：**`But honestly, for me …` / `So for me, …`**——这条 "for me" 尾巴是 11 行里唯一不变的。
+
+**real variants（真用到）**：
+- A 带 cue 回声：`"As for whether it'd be popular, most normal people would really like it, although some … wouldn't …"`（新06）
+- A 裸：`"Most people would back a law like this, although some shops wouldn't be as keen…"`（新22）
+- A 用在非法卡：`"Now, on whether it'd be easier with a teacher, most people would say yes, a teacher makes it a lot easier."`（老14）
+- A 让步拆成单拍：`"Although some people do say that teaching yourself sticks better in your head."`（老14）
+- 我方 landing：`"But honestly, for me it's still worth it."` / `"But honestly, for me it's a small thing that really helps."`
+- Shape B opener：`"But honestly, I wouldn't want to actually live there."`（新19）/ landing：`"So for me, it's lovely for a short visit, but I'd get bored living there."`（新19）
+
+**2 个真例**：
+- 新27（A 拆两行）：`"As for whether it'd be popular, most normal people would be for it, although some factory owners wouldn't, because cleaning up costs them money."` + `"But honestly, for me it's still worth it, because everyone wants cleaner air."`
+- 新19（B，3 行 visit-vs-live）：`"But honestly, I wouldn't want to actually live there."` + `"The pace is just too slow for me, and it's a bit far from everything, so daily life would be a hassle."` + `"And those old houses get really cold in winter, so for me, it's lovely for a short visit, but I'd get bored living there."`
+
+**【背什么】** 一个动作 + 一条尾巴：A 形开头 `most [people] would …, although some … wouldn't, because …`；尾巴永远 `But honestly, for me …`。
+**【怎么背】** 把 because 焊进框里（…wouldn't, **because** it costs them），别当单独补充叠——这样 -s 压力低。落地词记死用 `But honestly, for me`（别用书面的 "Personally, I feel pretty strongly that"）。
+**【用时怎么用】** 收尾或近收尾 bullet：法卡"会不会受欢迎"（A）、比较/二选一末 bullet（老14"有老师会不会更容易"用 A 当收尾；新19"为什么不想住"用 B）。**触发信号**＝任何让你比较两面/判断民意/权衡的 bullet——陷阱是误跑成 EXPLAIN=LAND 的 feeling 模板。常常 2-3 短拍，不是一个塞满的长句。
+
+⚠️ DRIFT：旧 doc 只给一条串（"Most people would…, although some… But for me…"），只忠于法卡+老14，**不是新19 做的事**（B 形无民意投票，是个人偏好对比）。旧 doc 把 WEIGH scope 成"法卡+老14"——corpus 还满 新19 用了 3 行。卡数＝4，不是"法卡+老14"。旧 doc 担心的 "Personally, I feel pretty strongly that…" 太书面——v2 已全换成 `But honestly, for me`，该顾虑已解决。
+
+---
+
+### 12. WISH-BEAT (想要/将来/为什么做/要怎么实现)　(~12s)
+
+**canonicalGlue**：
+```
+[WISH-OPENER] [DESIRE/PLAN], so I could [PAYOFF].
+```
+WISH-OPENER 固定一组里挑：`I'd love to …`（最常）/ `I'd always liked …` / `I'd really wanted to …` / `To get there, I'd need to …`。脊接词几乎都是 **`so I could [PAYOFF]`**（软目的句）。第三人称换代词：`He'd always loved … so he wanted …` / `she'd love to …, so she could …`。
+
+**real variants（真用到）**：
+- `I'd love to [VERB]…, so I could [PAYOFF]`（老02/05/12×2/22，核心最常）
+- `I'd always liked / He'd always loved [X], so [WANT]`（新12/09，过去习惯喂进决定）
+- `I'd really wanted to [VERB]…, because…, so I [ACTION]`（新04，更强的过去愿望）
+- `To get there, I'd need to [STEP], so I could [PAYOFF]`（新24/老01，目标卡变体：要付出啥）
+- `I just wanted him to [VERB], so he could [PAYOFF]`（老21，第三人称 "wanted X to"）
+- `she'd love to be [ROLE], so she could [PAYOFF]`（新08，第三人称愿望）
+- 退化"为什么做"（无 so I could，用 because）：`"I read it mainly because Muye asks for it almost every night…"`（新20）
+- 弱 hedge 版：`"They invited me, so I figured I'd give it a go."`（老15）
+
+**2 个真例**：
+- 老05：`"I'd love to own one so I could play games that feel real, and look around places that aren't even real."`
+- 老01：`"To get there I'd need to keep getting better at my tech skills, and learn to push myself when there's no boss, so I could actually run my own time."`
+
+**【背什么】** WISH-OPENER 那一组 + 脊 `so I could [PAYOFF]`。
+**【怎么背】** 记死它**不是语法重的 if…would 条件句**，就是"想要 + payoff"一拍。`I'd` 多半是 I **would**（I'd love to），偶尔 I **had**（I'd always liked / I'd really wanted）——答后扫这一处时态。
+**【用时怎么用】** 盖 WANT/将来愿望/为什么做/要怎么实现的 bullet：want/future/goal 卡的"为什么想/你会做啥/怎么实现"，过去事件卡的动机拍（"为什么读/看的"）。目标卡上放在 EXPLAIN=LAND 前当"我要怎么走到"的桥。一行最多一个补充。
+
+⚠️ DRIFT：脊在 corpus 里压倒性是 `so I could [PAYOFF]`（软目的），不是字面 if…would。两个退化形：because 动机版（新02/20）和 hedge "I figured I'd give it a go"（老15），都仍读作同一愿望/意图拍。
+
+---
+
+### 13. EXPLAIN=LAND (万能收尾——几乎每张落在这)　(~22s)
+
+**canonicalGlue（不是一句！是 2-4 行的 LANDING 块，3 个动作分散在连续 bullet 上）**：
+```
+(1) REASON 行: The reason [I'd recommend it / I like it / I'm proud / it works] is [CORE ANGLE — 一句白话], because [MECHANISM — 它怎么起作用, 不是 "because it's good"].
+(2) (可选) SO-tag 下游行: So [DOWNSTREAM — 那带来啥 / 啥感觉]   ← so-tag 补充挂这行
+(3) LAND 一句 (几乎每张): So for me, [一句平的, 回触 CORE 角度].
+```
+第一槽按卡型换词：地/影/广告/店/节目→`The reason I'd recommend/like/love it is…`；人/proud/decision→`How I feel is I really look up to him / Honestly I really admire…`；物/目标/法/场合→`The reason it's important / The reason I set this goal is…`。**`so for me` 尾巴是常量**（49 行带 for me/for us/for him）。
+
+**real variants（真用到）**：
+- `"The reason I'd recommend it is that it's really peaceful and full of history, because…"`（新18，28 行以 The reason 起）
+- `"The main reason it works is he really cares about it, because…"`（新09）
+- 人卡：`"How I feel is I really look up to him, because he stays calm when things go wrong."`（老19/老23）
+- `"Honestly I really care about this, because green spaces are good for everyone's health."`（新06）
+- 独立 MECHANISM 行（reason 拆到单独 bullet）：`"Because Chengdu is an old city with a lot of history, so…"`（新01）/ `"because the silence kind of makes you doubt yourself"`（新23）
+- LAND 尾（主力 26 行以 So for me 起）：`"So for me, whenever friends come to visit, it's one of the first places I take them."`（新01）；也有 `So for us…`（新14）、`so for him…`（老14）
+
+**2 个真例（完整块）**：
+- 新18（最干净的 3 动作块）：`"So the reason I'd recommend it is that it's really peaceful and full of history, because it's not a loud, busy city. / There's no rush, so you can go slow and just enjoy it. / So for me, if someone likes culture and quiet places, I'd tell them to go."`
+- 老19（人卡 "How I feel is" + 夸特质，4 行）：`"How I feel is I really look up to him, because he stays calm when things go wrong. / And helping isn't a chore to him, so people just trust him. / It even helps him learn things himself. / So for me, honestly, everyone needs a friend like Zhangwei."`
+
+**【背什么】** 3 个动作：REASON+because / (可选) So 下游 / `So for me, …`。第一槽换词按卡型。
+**【怎么背】** 记死 because 后面要给**机理（HOW）**，不是 "because it's good"——说它怎么起作用（"because it's not a loud, busy city" / "because he checks things step by step"）。`So for me` 当固定收尾反射。
+**【用时怎么用】** 几乎每张的**最后一条 bullet**——"为什么/感觉如何"的所有变体（为什么推荐/喜欢/重要/为什么这么做/感觉怎样）。它是万能 closer，不是正文 bullet。人卡末 bullet＝夸特质 land；目标/法卡＝为什么重要/该遵守。
+
+⚠️ DRIFT：旧 doc 把它当**一句** ~22s closer（"The reason is X, because Y. So Z. So for me, W."）。corpus 真相是**多行 landing 块**（53 张 130 行，平均 ~2.5 行/张），4 个动作拆在不同 bullet 上——尤其 MECHANISM 常自成一行裸 `Because…`（新01/02/04/23），LAND 总是自己一行 `So for me`。旧 doc 说"全 54 张落这"——corpus ＝**53 张**，唯一例外老03 落在 [CORE] 行（"For me it really comes down to realising how much I rely on it…"，仍用 for me 措辞，只是标 CORE）。so-tag 结构性焊进这骨架（全 corpus ~36 个 so-tag 有 32 个落在 EL 行）——把下游 `So…` 拍当 EXPLAIN=LAND glue 的一部分，不是可选添头。
+
+---
+
+## 🔁 复用：哪些 persona/骨架盖最多卡 + 诚实地图
+
+WHERE REUSE GENUINELY LANDS（~46 张干净落地）：
+
+1. **全 9 张 地/家/店/景卡**（新01/18/19 / 老17/24/25/26 + 老27 景）—— 点名 + 平移 + 习惯 + EXPLAIN=LAND，换 ~6 珠子。最干净的一族，Kyoto reduction 真实可复制。
+2. **~18 张 人卡**（新05/07/08/09/15/21/25 / 老02/06/07/10/13/14/19/23）—— HOOK/CORE（谁+角度）+ NARRATE-lite（怎么认识）+ 习惯-he/she（平常做啥）+ 嵌 ONE-MOMENT + EXPLAIN=LAND（夸特质）。**persona 复用是最大省事**：Zhangwei ~7 张、老婆 ~7 张、Muye ~7 张、外公 ~4 张，4 套珠子盖 ~26 张。这一族最稳。
+3. **~9 张 事件卡**（新04/10/11/16/23 / 老03/09/18/21）—— NARRATE 链。链复用，珠子不复用（见下）。但仍是明确赢面，因为链正好杀你的真 freeze 点。
+4. **EXPLAIN=LAND closer 盖 53 张** —— 万能结尾处处通。
+
+**骨架覆盖排行（真数）**：EXPLAIN=LAND 53 > HOOK 54（每张）> CORE 36 > FACT-DROP 31 > NARRATE / 习惯 / NARRATE-lite 各 ~14-15 > 点名 / 平移 ~10-14 > WISH-BEAT 16 > PLOT / ONE-MOMENT 5 > WEIGH 4。**背熟前 4 个（EXPLAIN=LAND / HOOK / CORE / FACT-DROP）就盖了绝大多数 bullet。**
+
+WHERE A CARD STILL NEEDS ITS OWN CONTENT（诚实）：
+
+- **A. NARRATE 事件珠子跨卡不通用。** 骨架通用，每件事的 4-6 个过去式珠子是 bespoke。~9 张各要自己一小套。不可避免——发生的事不一样。
+- **B. EXPLAIN 第一句 "because Y" 是真 cold-retrieval**，在 9 张 EXPLAIN 重卡上（新06/12/24/27 / 老01/02/05/12/22）。骨架能引 so-链到 health/money/time，但**第一个机理句**（"because cleaning up costs them money" / "because Earth is dying"）得每卡预存。框生不出来。
+- **C. 2 张 bespoke**：新26 改观点＝before/after 对比（标 `[BESPOKE-before]/[BESPOKE-after]`，别套 NARRATE 造假时间线）；老04 给建议＝引用建议+结果（"他想 ___ → 我说 ___ → 他留下道谢"，中段一 then-pump 就注水）。给它俩自己的 2 拍小框。
+- **D. 1 张 closer-swap**：老14 末 bullet "有老师会不会更容易" ＝ 比较，不是 feeling。必须用 **WEIGH** 收尾，不是人卡 feeling LAND。否则答错问题。
+
+**诚实总结**：~46/54 靠 骨架+persona+珠子 干净落地；~9 张事件复用链但要自己的故事珠子；9 张 EXPLAIN 各需 1 句预存 because；2 张（新26/老04）需 bespoke 2 拍框；1 张（老14）需记得换 closer。
+
+---
+
+## 🎭 防机械（6-6.5，不显刻意）
+
+整体读起来就是一个平实流利的工程师在说话——正是 6-6.5。glue（"there's so much to see / You've got X, like Y / The reason is… because… / I remember one time…"）是自然口语，不是考试腔。保持。要守的几条：
+
+1. **轮换开头**：HOOK 的暖场词 `OK so / So / 裸` 三轮换（corpus 真比例 ~20/18/16），别每张都 "OK so"。点名别每张都同一句开——`It's basically …` 是主力，但偶尔换 `It's [X], over in [WHERE]` 或直接报名+人味尾巴。同一个 anti-tell 轮换原则 P3 系统已在用。
+2. **一个 clause 最多一个补充招（护 -s）**。corpus 全 54 张守住了：没有任何 clause 叠两个补充 tag。CORE/PLOT Beat1+2/ONE-MOMENT 尽量**裸说**（它们承重，说干净）。
+3. **so / because 是唯一必做的连接招**（corpus 里 so-tag 63 个，超过其余 9 招总和）。结果方向用 so，原因方向用 because。WEIGH/EXPLAIN 的 because 焊进框里，别当独立补充叠。
+4. **`There's no rush` 只放慢/静卡**（地、店、安静角落），别落到有节奏的事件卡上——那会是 tell。
+5. **媒体卡 `And the cool part is` 一张只用一次**，逼出 payoff，但别连着两个媒体卡都用同样的拍子收。
+6. **删掉一个旧招**：旧 doc 的"展开档 like"（`— like, one time…` 当长度引擎）—— corpus **0 次**。场景展开是 ONE-MOMENT（`I remember one time…`）这个 PRIMARY 骨架干的，不是 like 补充。like 就是廉价枚举 `like a, b, c`，别拿来撑长度。**长靠加拍（多一个 So/And then），不靠升词。**
+7. **landing 词用白话**：`But honestly, for me…` / `Honestly I think…`，别用书面的 "Personally, I feel pretty strongly that…"。
+
+其余（NARRATE 链、EXPLAIN closer、嵌 ONE-MOMENT、情绪弧 "At first I was a bit ___… But in the end it was okay"）都真·人话 6-6.5，照说。
 
 ---
 

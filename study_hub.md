@@ -12,7 +12,7 @@
 ⭐ **6/18 突破**:口语 cold 卡死真因 = 瞄准书面英语目标 → 解药 = 降级大白话 + 倒珠子(口语 Band7 ≠ 写作)。**6/20 续**:她发现范文"信息量低"→ reframe **展开=解压非注水**(工程师过度压缩,真细节被压没了)。
 🏆 **当前系统(真源,都在 speaking-band7/)**:
   · `cue_driven_p2.md` = 方法(从 cue 入手:每 bullet 调一个模式=组合,cue 本身即结构,处理混合卡)
-  · `p2_frames_and_swaps.md` = **9 个填空骨架(背一次填珠子,总背~24个东西)+ 418 条降级词表**(目标 6-6.5,EXPAND DON'T UPGRADE)
+  · `p2_frames_and_swaps.md` = (v2 从 tagged 重导) **填空骨架(背一次填珠子,总背~24个东西)+ 418 条降级词表**(目标 6-6.5,EXPAND DON'T UPGRADE)
   · `p2_card_specs.md` = **全 54 张 cue→glue→珠子 spec**(按印刷 cue 顺序,每卡含 ⚠️陷阱口诀 + 📌预存 because)
   · `p2_supplement_techniques.md` = **信息量补充技巧**(骨架之外:珠子→长出更多;9安全招逐句挖自语料+你练习,每招配 背什么/怎么背/怎么用;总规则=先连(so/because必做)再润,一句一补充,补完回扫-s;not-just/场景状语降级为预存收尾)
   · `p2_answers_tagged.md` = **全 54 张组装成品(逐句打标签 [骨架·补充招], shadow/对照用)**;specs 给零件结构,这个给成品
