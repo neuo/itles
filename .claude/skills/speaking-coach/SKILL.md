@@ -1,13 +1,12 @@
 ---
 trigger: "练口语|练 P1|练 P2|练 P3|练p1|练p2|练p3|来一题|来道口语|串模考|口语coach|speaking coach|口语练习"
-description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器，方法论唯一真源是 speaking-band7/05_path.md「教练执行手册」。P2 走三阶 A→B→C，P3 cold，每篇 P2 给 scorecard，选题禁自编(question_bank)，收尾写详细 session。
+description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driven + 一拍接龙协议(她先 cold,卡住一拍接龙;6/21 最新,取代旧三阶);P1/P3 cold-first 仍按 05_path。每篇 P2 给 scorecard,选题禁自编(question_bank),收尾写详细 session。
 ---
 
 # IELTS Speaking Coach（P1/P2/P3）— 执行薄壳
 
-> ⚠️ **本 skill 不重复方法论**。口语训练的全部规则(选题/三阶/8 维诊断/scorecard/End-of-Session)**唯一真源 = `speaking-band7/05_path.md` 的「🎓 教练执行手册」**。本 skill 只负责:**加载那份手册 + 强制按它跑 + 确保状态文件读写**。
-> 这是 5/31 删掉旧 speaking-coach skill(防与 05_path 重复)后的**重建薄壳**——只做 launcher/enforcer,不抄内容,单一真源不破。
-> 通常由 `study-coach` 编排时作为"口语臂"被调用;也可单独触发(suzy 说"练 P2"等)。
+> ⚠️ **方法论分工**：P1/P3 = `speaking-band7/05_path.md`「🎓 教练执行手册」(选题/8维诊断/scorecard/End-of-Session)。**P2 = 下面的「🎯 P2 实战协议」(cue-driven + 一拍接龙,6/21 最新,取代 05_path/04_toolkit §11 的旧三阶 A→B→C)** —— P2 内容真源是 speaking-band7 的 cue_driven_p2 / p2_frames_and_swaps / p2_card_specs / p2_answers_tagged / p2_supplement_techniques 五件套。
+> skill 只做 launcher/enforcer + 确保状态文件读写。通常由 `study-coach` 编排为"口语臂"被调用;也可单独触发(suzy 说"练 P2"等)。
 
 ## 进场必读（每次)
 1. `study_hub.md` 顶部"当前进度"块 + `speaking-band7/05_path.md` 当日 entry(今天第几周 Day 几、该练什么)
@@ -17,10 +16,35 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器，方法论唯一
 ## 选题（🚨 禁自编)
 唯一真源 `speaking-band7/question_bank.md`(当季真题)。选代表性题、跨题型轮、对照 sessions 查重。**P2+P3 用配对的 P3。**
 
-## 执行（按 05_path 手册)
-- **P2 走三阶 A→B→C**(详见 `04_toolkit.md` §11):阶段 A = 朗读/跟读范文 → 小问题法自产 → **scorecard(Band 估 + 长度 vs 180-220词/2min + 1 改进点)** → 短了/硬错当场展开重练 → 捕获珠子回填 content_bank。
+## 🎯 P2 实战协议：cue-driven + 一拍接龙（6/21 最新，取代旧三阶）
+> P2 不再"朗读范文→三阶 A/B/C"。新打法 = **她先 cold，卡住就一拍接龙**。内容真源 = speaking-band7 五件套(cue_driven_p2 方法 / p2_frames_and_swaps 9骨架+降级词 / p2_card_specs 54张spec / p2_answers_tagged 成品 / p2_supplement_techniques 补充招)。
+
+**每题流程：**
+1. **出题**(question_bank,禁自编),给 cue 4 个 bullet。**不替她拆模式** —— 她自己用 **SHOW/TELL/JUDGE** 听 bullet→模式(她已学会:给我看=DESCRIBE / 讲给我听=NARRATE / 你怎么看=EXPLAIN)。
+2. **点名 2-3 个要用的 chunk**(她背我喂):① **so/because 链**(必) ② 1 个**补充招**(which-tag/appositive/rel-where,别叠) ③ 1 个**地板好词**(她自产过的,见 inventory 毕业区/content_bank)。
+3. **纪律**:大白话、碎 ok、`I mean` 随便、**不实时扫语法**(整段说完才扫)。
+4. 她 **cold ~2min**。
+
+**分叉：**
+- **A. 顺下来了** → **scorecard**(长度/FC/LR/GRA) → 若短,**加长**(每拍后加一拍:平移+画面 / 习惯+SCENE / EXPLAIN+对比;+40-60%,**靠加拍不升词**) → **答后扫**(-s/冠词/`What I do is +原形`=Pattern 23)。
+- **B. 死机/卡住** → 立刻转 **一拍接龙**:
+  - 一次只接**一拍**。每轮:给下一个 bullet 的**骨架 glue**,让她**只填一个珠子** —— "只说这一句。"
+  - 拍序 = bullet **印刷顺序**,每拍套它的模式(HOOK→bullet2模式→…→**EXPLAIN=LAND**)。
+  - 每拍后:最多修 **1 个词** + 点一个地板词 + 进下一拍。**别让她停在死机里。**
+  - 她某拍**够太高卡住** → **"卡住=你够高了→降到能说的画面"**(stuck-self-rescue),别硬憋。
+  - 全篇接出来后,短则加长(同上)。
+
+**4 条铁律(6/21 当场验证)：**
+- **死机解药 = 一次只想一拍**(考场答案本就一拍一拍出,没人整段成型)。
+- **降级有地板**:不压她已掌握的好词(slow down / take it all in / a little escape / wind down…)。
+- **加长靠加拍不升词**(EXPAND DON'T UPGRADE)。
+- **卡住 = 降到能说的画面**,别硬憋(硬憋=死机来源)。
+
+**▶ 进行中 campaign**：用本协议**快速过全 54 P2**(每张 cold-first,卡住一拍接龙,捕获地板词+新错,写 session)。追踪 `coach/full_pass.md`。
+
+## P1/P3 执行（按 05_path 手册)
 - **P1/P3 cold-first**,但 P3 给框架(表态→because→like→对比)。
-- 每题:① 语法纠错(第三人称 -s / 单复数 / 介词 / 时态) ② 表达升级(原句小改) ③ 教一个句式(每题≤1)。**两个输出都给**:精修版(原句小改) + 范文(Band 7 自然版,非 8-9)。
+- 每题:① 语法纠错(第三人称 -s / 单复数 / 介词 / 时态) ② 表达升级(原句小改) ③ 教一个句式(每题≤1)。**精修版 + 范文(Band 7 自然版,非 8-9)** 都给。
 - **8 维诊断**:挑 top 3 报,**准确性硬错(介词/主谓/时态/搭配/直译)列全**。
 - **开场抽查 + 答题点名 chunk + 复盘查用没用**(她背我喂,见 inventory「教练主动复习机制」)。
 
@@ -31,6 +55,7 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器，方法论唯一
 4. **被 study-coach 编排时**:产出后扫当天的"共同准确性焦点"(study-coach 设),并把口语弱点连到写作孪生(见 study-coach 弱点谱)。
 
 ## 关联
-- 唯一真源:`speaking-band7/05_path.md`「教练执行手册」+ `04_toolkit.md`(§11 P2 协议) + `03_question_types.md` + `personas.md` + `question_bank.md`
+- **P2 真源(五件套)**:`speaking-band7/cue_driven_p2.md`(方法+SHOW/TELL/JUDGE) / `p2_frames_and_swaps.md`(9骨架+降级词+地板) / `p2_card_specs.md`(54张spec) / `p2_answers_tagged.md`(逐句标签成品) / `p2_supplement_techniques.md`(补充招)。
+- **P1/P3 真源**:`speaking-band7/05_path.md`「教练执行手册」+ `03_question_types.md` + `personas.md`。选题:`question_bank.md`。(04_toolkit §11 旧三阶已被 P2 协议取代。)
 - 编排入口:[[../study-coach/SKILL.md]] / 写作臂:[[../writing-coach/SKILL.md]]
-- 记忆:feedback_output_gap / feedback_coach_drives_recall / feedback_speaking_self_paced / project_p2_my_path
+- 记忆:project_speaking_templates(P2系统) / feedback_speaking_spoken_downgrade(降级+地板) / feedback_speaking_decompress_not_pad / feedback_output_gap / feedback_coach_drives_recall / feedback_speaking_self_paced
