@@ -1,7 +1,8 @@
 # P2 全 54 张 · cue→骨架→珠子 spec（v2，QC 修复版 6/20）
 
 > 用法：考场看 cue → 每个 bullet 按表查它用哪个 glue（9 个骨架你已背）→ 倒珠子说。⚠️ = 该卡的 in-room 陷阱口诀。📌 = 预存的 because/bespoke 框。
-> 9 个 glue + 降级词表见 `p2_frames_and_swaps.md`；方法见 `cue_driven_p2.md`。v1 QC + v2 scan 结论：cue 顺序全对、6 修复落地、老26 漏词已修。
+> 9 个 glue + 降级词表见 `p2_frames_and_swaps.md`；补充技巧见 `p2_supplement_techniques.md`；方法见 `cue_driven_p2.md`。v1 QC + v2 scan 结论：cue 顺序全对、6 修复落地、老26 漏词已修。
+> 🎯 **每张的组装成品（逐句标签，shadow 用）见 [[p2_answers_tagged.md]]** —— 这张表给"零件/结构"，那个文件给"成品/对照"。
 
 ---
 

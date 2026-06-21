@@ -2,7 +2,7 @@
 
 > 反套发现"一卡一模式"是错的 —— 真答案是**混合**。真因：**cue 的每个 bullet 各调一个模式，一道 P2 = 模式的组合。** cue card 本身就是结构，不用背 per-card 模版。
 > 模式仍是 3 个（NARRATE/DESCRIBE/EXPLAIN，验证确认不加第 4 个）+ 2 个一拍微动作（FACT-DROP / WEIGH）。
-> 配套：填空骨架+降级词 [[p2_frames_and_swaps.md]] / 全54张 spec [[p2_card_specs.md]] / 范文珠子 [[ielts_p2_speaking_bank.md]]。（推演过程 templates.md / narrate_reflex_check.md 已移 `_deprecated/`）
+> 配套：填空骨架+降级词 [[p2_frames_and_swaps.md]] / 全54张 spec [[p2_card_specs.md]] / **信息量补充技巧 [[p2_supplement_techniques.md]]**（骨架之外把珠子长出更多）/ 范文珠子 [[ielts_p2_speaking_bank.md]]。（推演过程 templates.md / narrate_reflex_check.md 已移 `_deprecated/`）
 
 ---
 

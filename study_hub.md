@@ -14,6 +14,8 @@
   · `cue_driven_p2.md` = 方法(从 cue 入手:每 bullet 调一个模式=组合,cue 本身即结构,处理混合卡)
   · `p2_frames_and_swaps.md` = **9 个填空骨架(背一次填珠子,总背~24个东西)+ 418 条降级词表**(目标 6-6.5,EXPAND DON'T UPGRADE)
   · `p2_card_specs.md` = **全 54 张 cue→glue→珠子 spec**(按印刷 cue 顺序,每卡含 ⚠️陷阱口诀 + 📌预存 because)
+  · `p2_supplement_techniques.md` = **信息量补充技巧**(骨架之外:珠子→长出更多;9安全招逐句挖自语料+你练习,每招配 背什么/怎么背/怎么用;总规则=先连(so/because必做)再润,一句一补充,补完回扫-s;not-just/场景状语降级为预存收尾)
+  · `p2_answers_tagged.md` = **全 54 张组装成品(逐句打标签 [骨架·补充招], shadow/对照用)**;specs 给零件结构,这个给成品
   · `ielts_p2_speaking_bank.md` = 54 范文(珠子源)
   · 推演过程(templates/templates_pilot/expansion_engine/narrate_reflex_check)已移 `_deprecated/`。
 🔑 锁定:① -s/冠词 **答后扫不实时**(覆盖 CLAUDE 的产出后1秒自查→整段后扫;实时=双任务死机) ② P2 固定/P3 建变化库 ③ 过关线=**2min 不死机+干净落地**(scorecard 抽查,不每篇追分)。
