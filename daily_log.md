@@ -2501,3 +2501,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **新09 创业**（cue-driven 系统首次 cold）：净 ~6.5，-s 零漏，so/because+appositive 用上；自诊缺 DESCRIBE-习惯块（漏 SHOW=没describe+偏短）；PLOT 标签误用纠正（仅媒体卡）。
 - **老26 安静地方** ⭐⭐：进场**死机**（吐两句没了）→ 教练**一拍一拍接龙**（每次填一拍/一珠）→ 从死机 cold 出完整篇 → 加长 +50%（~75s→115s，靠加拍不升词）。两条关键技能当场验证：① 死机解药=一次只想一拍 ② 卡住自救=够不着就降到能说的画面（星光→barely anyone left），别硬憋。自发用满地板词（take it all in / a little escape / clear my head / wind down / by chance）= 降级校准方向对。🔴 新错 Pattern 23：`What I do is + 原形`（非 -ing）。
 - 系统侧（6/21 全天）：tagged.md 单卡精修 v2 → frames/cue 从 tagged 重导 → 降级校准 v3（地板规则，还原 227 处）→ 补充技巧 + 自然语义 SHOW/TELL/JUDGE。口语 P2 体系自洽闭环 + 首批 cold 落地。
+
+## 6/21 续（口语 cold 第3张 + 三阶段铁序确立）
+- **老18 用想象力（陪 Muye 拼乐高）** NARRATE 事件卡：一拍接龙 cold 出完整篇(~95s)→**阶段2润色加长**到~120s(补 why-bullet/加过程画面/加感受对比,靠加拍不升词)。时间轨四标记(And then/At first/but once/In the end)跑顺;两次卡(塞太多/enthusiast够高)自救成功。🔴 Pattern 24: bought≠brought / no idea(单数)。
+- ⭐ **P2 三阶段铁序确立(suzy 定,写入 speaking-coach SKILL.md)**：先产出完整篇→再润色加长(加长=润色,出完整篇才做)→再扫错。三件分开,不在第一遍同时求长求对(否则爆带宽→死机)。
+- 今日 cold ×3(新09/老26/老18)全走 cue-driven+一拍接龙,协议成型可复用。

@@ -252,3 +252,13 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** `What I usually do is **sit** / **take** / **walk**`（原形，和 do 对齐）。drill：What I do is + 原形 ×几个。
 **Status:** 6/21 首现（老26）。她常用 "What I usually do there is…" 收 SHOW-习惯块 → 高频句式，下次盯。
 **Occurrences:** 1
+
+---
+
+## Pattern 24: bought≠brought + have no idea(单数) — 高频形近/搭配
+**Example:** 6/21 老18 "I **brought** a new Lego set"(应 bought) / "I had **no ideas**"(应 no idea).
+**Surface:** ① buy 过去式=bought(买);brought=bring 过去式(带来),两词形近义不同,常混。② 固定搭配 have **no idea**(单数,不可数)。
+**Deep:** 形近词检索取了高频但错的那个;搭配未自动化。
+**Fix:** 买=bought(b-ou-ght);"完全不知道"=have no idea(单数)/ no clue。
+**Status:** 6/21 首现(老18)。答后扫加这两个。
+**Occurrences:** 1

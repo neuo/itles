@@ -19,20 +19,24 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 ## 🎯 P2 实战协议：cue-driven + 一拍接龙（6/21 最新，取代旧三阶）
 > P2 不再"朗读范文→三阶 A/B/C"。新打法 = **她先 cold，卡住就一拍接龙**。内容真源 = speaking-band7 五件套(cue_driven_p2 方法 / p2_frames_and_swaps 9骨架+降级词 / p2_card_specs 54张spec / p2_answers_tagged 成品 / p2_supplement_techniques 补充招)。
 
-**每题流程：**
-1. **出题**(question_bank,禁自编),给 cue 4 个 bullet。**不替她拆模式** —— 她自己用 **SHOW/TELL/JUDGE** 听 bullet→模式(她已学会:给我看=DESCRIBE / 讲给我听=NARRATE / 你怎么看=EXPLAIN)。
-2. **点名 2-3 个要用的 chunk**(她背我喂):① **so/because 链**(必) ② 1 个**补充招**(which-tag/appositive/rel-where,别叠) ③ 1 个**地板好词**(她自产过的,见 inventory 毕业区/content_bank)。
-3. **纪律**:大白话、碎 ok、`I mean` 随便、**不实时扫语法**(整段说完才扫)。
-4. 她 **cold ~2min**。
+**🔑 三阶段铁序(6/21 suzy 定)：先产出完整篇 → 再润色加长 → 再扫错。三件事分开做,绝不在第一遍里同时求长/求对(那样必爆带宽→死机)。**
 
-**分叉：**
-- **A. 顺下来了** → **scorecard**(长度/FC/LR/GRA) → 若短,**加长**(每拍后加一拍:平移+画面 / 习惯+SCENE / EXPLAIN+对比;+40-60%,**靠加拍不升词**) → **答后扫**(-s/冠词/`What I do is +原形`=Pattern 23)。
-- **B. 死机/卡住** → 立刻转 **一拍接龙**:
-  - 一次只接**一拍**。每轮:给下一个 bullet 的**骨架 glue**,让她**只填一个珠子** —— "只说这一句。"
-  - 拍序 = bullet **印刷顺序**,每拍套它的模式(HOOK→bullet2模式→…→**EXPLAIN=LAND**)。
-  - 每拍后:最多修 **1 个词** + 点一个地板词 + 进下一拍。**别让她停在死机里。**
-  - 她某拍**够太高卡住** → **"卡住=你够高了→降到能说的画面"**(stuck-self-rescue),别硬憋。
-  - 全篇接出来后,短则加长(同上)。
+**阶段 0 · 出题 + 点名（setup）**
+1. **出题**(question_bank,禁自编),给 cue 4 个 bullet。**不替她拆模式** —— 她自己用 **SHOW/TELL/JUDGE** 听 bullet→模式(给我看=DESCRIBE / 讲给我听=NARRATE / 你怎么看=EXPLAIN)。
+2. **点名 2-3 个要用的 chunk**(她背我喂):① **so/because 链**(必) ② 1 个**补充招**(which-tag/appositive/rel-where,别叠) ③ 1 个**地板好词**(她自产过的,见 inventory 毕业区/content_bank)。
+3. **纪律**:大白话、碎 ok、`I mean` 随便、**不实时扫语法**、**第一遍不追长度**(目标=把一篇完整说完,短没关系)。
+
+**阶段 1 · 产出完整一篇（cold,目标=完整不求长）**
+- 她 **cold ~2min**。**顺下来了** → 进阶段 2。
+- **死机/卡住** → 立刻转 **一拍接龙**:一次只接**一拍**;每轮给下一个 bullet 的**骨架 glue**,让她**只填一个珠子**——"只说这一句";拍序=bullet **印刷顺序**(HOOK→bullet2模式→…→**EXPLAIN=LAND**);每拍后最多修 **1 个词**+点一个地板词+进下一拍,**别让她停在死机里**;某拍**够太高卡住**→**"卡住=你够高了→降到能说的画面"**别硬憋;**一拍塞太多→拆成两拍**。接到 EXPLAIN=LAND = 完整篇成,进阶段 2。
+
+**阶段 2 · 润色加长（出完整篇后才做 —— 加长本质是润色,不是产出）**
+- 通常第一遍偏短(~80-95s)。**加长到 ~110-130s**,方法 = **每拍后加一拍**(平移+画面 / 习惯+SCENE / NARRATE+多一个"然后" / EXPLAIN+对比),**靠加拍不升词**(EXPAND DON'T UPGRADE)。
+- **也一拍一拍来**:教练指哪拍加哪拍,她只补那一处,别让她重想整段。
+
+**阶段 3 · 扫错 + 收尾**
+- **答后扫**(整段说完才扫):-s / 冠词 / `What I do is +原形`(Pattern 23) / bought≠brought / no idea(单数)。
+- **scorecard**(长度/FC/LR/GRA)+ 捕获她自产的地板词(→inventory cold+1)+ 新错(→error_log)+ 写 session。
 
 **4 条铁律(6/21 当场验证)：**
 - **死机解药 = 一次只想一拍**(考场答案本就一拍一拍出,没人整段成型)。
