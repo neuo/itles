@@ -504,6 +504,7 @@ WHERE A CARD STILL NEEDS ITS OWN CONTENT（诚实）：
 ## 🔽 降级词表（418 条，逐题 one-by-one 提炼）
 
 > 用法：展开时 2 秒想不出"高级说法"→ 直接用右栏。**长靠加拍,不靠升词。**
+> ⚠️ **降级有「地板」(6/21 suzy 校准)**：只降到**你已掌握的水平**为止，**不再往下**。你自产/练过的好词（slow down · take everything in · a true sense of peace and purpose · saved the day · laid-back lifestyle · a little escape · immerse myself in · stuck with me · on top of that · a sense of belonging …）**不许压成大白话** —— 它们不是 freeze 风险，压了是白丢质量。这表只用来**砍真生词**（kimonos→traditional clothes / booster→big bottom piece），不是把你会的词也铲平。地板清单见 inventory.md 毕业区 + content_bank。
 
 | 别追(会卡) | 改说(6-6.5,能 cold 说) |
 |---|---|

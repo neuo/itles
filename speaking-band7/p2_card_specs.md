@@ -218,7 +218,7 @@
 ### 新19 · A home you like to visit but do not want to live in
 **persona**：京都 S6 (Kyoto old wooden house / guesthouse) — reuses place bead-set　|　**组合**：DESCRIBE-点名(3) → DESCRIBE-平移(4) → DESCRIBE-习惯/EXPLAIN(5/7) → WEIGH(8) for the visit-vs-live close　|　~135s
 **⚠️ Final bullet = the contrast IS the point. Use WEIGH and LAND a side: 'great to visit, but I'd get bored living there.' Don't trail off into 'it depends'.**
-📌 *NONE (place card; not in EXPLAIN-9). Swaps applied: 'with tatami floors'→'with straw-mat floors'; 'a little escape from city life'→'a nice break from the city'; 'it's a bit out of the way'→'it's a bit far from everything'; 'get really cold' kept (plain).*
+📌 *NONE (place card; not in EXPLAIN-9). Swaps applied: 'with tatami floors'→'with straw-mat floors' (KEPT — fancy freeze-noun). RESTORED to floor: 'a nice break from the city'→'a little escape from city life' (owned content-bank pearl); 'it's a bit far from everything'→'it's a bit out of the way' (owned idiom, in her original bank). 'get really cold' kept (plain).*
 
 | cue bullet（印刷顺序）| glue | 填什么珠子 |
 |---|---|---|
