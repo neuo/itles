@@ -2506,3 +2506,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **老18 用想象力（陪 Muye 拼乐高）** NARRATE 事件卡：一拍接龙 cold 出完整篇(~95s)→**阶段2润色加长**到~120s(补 why-bullet/加过程画面/加感受对比,靠加拍不升词)。时间轨四标记(And then/At first/but once/In the end)跑顺;两次卡(塞太多/enthusiast够高)自救成功。🔴 Pattern 24: bought≠brought / no idea(单数)。
 - ⭐ **P2 三阶段铁序确立(suzy 定,写入 speaking-coach SKILL.md)**：先产出完整篇→再润色加长(加长=润色,出完整篇才做)→再扫错。三件分开,不在第一遍同时求长求对(否则爆带宽→死机)。
 - 今日 cold ×3(新09/老26/老18)全走 cue-driven+一拍接龙,协议成型可复用。
+
+## 6/21 续2（cold 第4张 EXPLAIN + 加长无复读原则）
+- **新06 想立的法（保护城市绿地）** EXPLAIN 法律卡 = 散句弱点专项：进场死机→一拍接龙→完整(~95s)→阶段2加长~120s。**because→so 三条链全搭对 + WEIGH 教科书级(两面+落边,零修)**,散句弱点当场打通。加长两处全是新信息(起因老婆视角/具体画面),零复读。🔴 be the one→be one(泛指不加 the);-s 守住(mean)。
+- ⭐ **新原则：加长加新信息、不复读(suzy 定,入 SKILL.md)**——要重复就加连接词框成刻意强调(what I mean is/on top of that),别干说第二遍。
+- 🏁 **今日 cold ×4 覆盖四引擎**(人物/地方/事件/法律)。P2 协议(cue-driven+一拍接龙+三阶段铁序+加长无复读)成型,四引擎全验证可复用。

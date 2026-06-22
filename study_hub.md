@@ -12,7 +12,9 @@
 ⭐⭐ **6/21 cold ×3（新09/老26/老18）确立 P2 执行协议 = cue-driven + 一拍接龙 + 三阶段铁序**（已写入 speaking-coach SKILL.md）：
   · **三阶段铁序**：先产出完整篇(cold,卡住一拍接龙) → 再**润色加长**(出完整篇才做,每拍后加一拍 +40-60% 不升词) → 再**答后扫错**。三件分开,绝不第一遍同时求长求对(否则爆带宽→死机)。
   · **死机解药=一次只想一拍**(老26进场死机→接龙→零死机);**卡住自救=够不着降到能说的画面别硬憋**(星光→barely anyone left);**一拍塞太多就拆**(老18 买+倒出+决定→拆两拍即顺)。
-  · 她**自发用满地板词**(take it all in/a little escape/from scratch/got going/give it a go…)=降级校准对。🔴 新错 Pattern 23 `What I do is+原形`、Pattern 24 bought≠brought / no idea(单数)。
+  · **加长加新信息、不复读**(suzy 6/22 定,入 SKILL.md):要重复就加连接词框成刻意强调(what I mean is/on top of that),别干说第二遍。
+  · 她**自发用满地板词**(take it all in/a little escape/from scratch/got going/give it a go…)=降级校准对。🔴 新错 Pattern 23 `What I do is+原形`、Pattern 24 bought≠brought / no idea(单数)、be the one→be one(泛指不加the)。
+🏁 **今日 cold ×4 覆盖四引擎**：新09人物 / 老26地方(破死机) / 老18事件(NARRATE) / 新06法律(EXPLAIN=散句弱点专项,because→so 三链打通)。协议四引擎全验证可复用。**下一步=继续快过 54(剩~50张)或换 P3 练分析。**
 ⭐ **6/18 突破**:口语 cold 卡死真因 = 瞄准书面英语目标 → 解药 = 降级大白话 + 倒珠子(口语 Band7 ≠ 写作)。**6/20 续**:她发现范文"信息量低"→ reframe **展开=解压非注水**(工程师过度压缩,真细节被压没了)。
 🏆 **当前系统(真源,都在 speaking-band7/)**:
   · `cue_driven_p2.md` = 方法(从 cue 入手:每 bullet 调一个模式=组合,cue 本身即结构,处理混合卡)
