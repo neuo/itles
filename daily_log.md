@@ -2511,3 +2511,8 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **新06 想立的法（保护城市绿地）** EXPLAIN 法律卡 = 散句弱点专项：进场死机→一拍接龙→完整(~95s)→阶段2加长~120s。**because→so 三条链全搭对 + WEIGH 教科书级(两面+落边,零修)**,散句弱点当场打通。加长两处全是新信息(起因老婆视角/具体画面),零复读。🔴 be the one→be one(泛指不加 the);-s 守住(mean)。
 - ⭐ **新原则：加长加新信息、不复读(suzy 定,入 SKILL.md)**——要重复就加连接词框成刻意强调(what I mean is/on top of that),别干说第二遍。
 - 🏁 **今日 cold ×4 覆盖四引擎**(人物/地方/事件/法律)。P2 协议(cue-driven+一拍接龙+三阶段铁序+加长无复读)成型,四引擎全验证可复用。
+
+## 6/22（口语 P2 快过 · ⭐里程碑首次独立全 cold）
+- **老05 想要的科技品（高配 3D 打印机）**：⭐⭐ 系统建成以来**第一次独立全程 cold**——零接龙、零死机、全新内容(无现成珠子)自organize 完整 ~150s，五模式齐 + FACT-DROP报价一句就走 + 情感升华(a giant toy for both of us → bring us closer)。净 ~6.5-7。
+- 🔴 **主错区转移**：-s 基本守住(turns/builds/makes 对，只 cost→costs 掉1)→ 现主错=**搭配/固定短语**(got on it→got into it / As I know→As far as I know / worth→worth it)，入 error_log Pattern 25。另 2 碎句(my son sitting / We together design = 长句缺动词/语序)。
+- 进度：cold 累计 6 张(5引擎+老05独立)，协议稳定运行，她过了"必须接龙"阶段。原始+修复版记入 sessions/2026-06-22。

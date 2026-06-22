@@ -262,3 +262,13 @@ Add new patterns here when they appear more than once, or when a single instance
 **Fix:** 买=bought(b-ou-ght);"完全不知道"=have no idea(单数)/ no clue。
 **Status:** 6/21 首现(老18)。答后扫加这两个。
 **Occurrences:** 1
+
+---
+
+## Pattern 25: 固定短语/搭配错（"主错区"已从 -s 转到这里）— 6/22
+**Examples:** 6/22 老05 "I **got on it**"(应 got into it/heard about it) / "**As I know**"(应 As far as I know) / "worth"(应 **worth it**) ；6/21 新02 "reach **out** the stars"(应 reach **for**) / "gives me a shock"(应 chills) / "catch a rocket"说成 recycle。
+**Surface:** 固定短语/动词搭配取了错的介词或近义词。
+**Deep:** 这类是**记忆型**(不是规则型),靠见过/用过的次数;-s 基本守住后,这成了 6→6.5 的主要扣分点。她 cold 流畅度上来了,错从语法转到搭配。
+**Fix:** 高频固定短语清单背熟+答后专扫这类:get into sth(喜欢上) / as far as I know / worth it / reach for the stars / give sb chills / land a rocket / caught my eye / have no idea。
+**Status:** 6/22 标记为当前主错区。每次 cold 答后单独扫"固定短语"一遍。
+**Occurrences:** 5+(跨 6/21-22)
