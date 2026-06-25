@@ -8,7 +8,27 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-21 — 🎙️ **首批 cold 实战（新09 + 老26）+ 系统全天迭代收口**；口语主攻，写作 suzy 自管 on-demand。
+上次 = 2026-06-25 — 🎙️ **首次 P2+P3 合练（老08 App）⭐ fast&rough 模式破"10 分钟规划 freeze"**；口语主攻，写作 suzy 自管 on-demand。
+🆕 **6/25 合练突破**：① 她指出"P3 考场只 40s 我却想 10min"→ 切 **fast&rough**（8 秒必开口/第一个想到就说/教练不喂/求不卡不求好）→ Q3-Q6 全秒开口、无长空白。**诊断=她的卡常是"优化器找最优解"非死机,fast 逼她关掉规划模式=P3 核心训练,已入 skill 默认。** ② **内容自驱抬头**（Q1 没想法要喂→Q5/Q6 自己生成 WeChat/Meituan+两机制）。③ 两种卡分清:没想法(喂内容)/组装跑偏(给 frame 纪律)/优化器(fast 逼开口)。④ 🔴 a/an 元音前本周 3 次(a old/a internet/a interesting)→专记死规则;固定搭配 stuck-in→hooked/pay attention to/be used to+ing。
+（6/24 = 建 P3 系统 + 首战 ×6；6/23 = P2 cold ×2 新25/新12 结构层自我把关。）
+🆕 **6/23 进展**：cold 累计 **12 张**。
+  · ⭐⭐ **结构层自我把关连续两张**（新25 自抓加长偏差 + 新12 自抓漏拍"先说决定再说干啥"）→ 元认知稳定成型，不是偶发。6/22 新14 是长度层喊停 → 今天升到连贯/结构层。
+  · ⭐⭐ **发现"散句不垮、垮的是词"**（新12 说理卡 + 老11 情感卡）：because/so/by+ing 连接全对、逻辑顺，**散句结构没问题**；漏的全是抽象词理科腔降级（individual interest→my own interests / deciding freely→rushing into it）。规律=题型生词密度↑→主错区(固定短语/降级)压力↑。**训练转向：说理/情感卡练抽象词口语降级反射，不是练连接（连接已会）。**
+  · ⭐ **加长铁律**：顺"她讲的那条线"长，别另起不相干优点（Pattern 17 放大版）。
+  · ⭐ **几乎全程独立自驱**：连续多张只接龙 HOOK（说理卡 EXPLAIN 更弱、接龙拍多但零死机）→ 接龙依赖基本退场。
+  · 🔴 入清单：choose to do / go into a field / ask sb about / rush into / a→an 元音前(今日2次) / if I'd gone(过去虚拟)。
+🆕🆕 **6/23 建成 P3 系统（mirror P2 五件套，从 324 答案 corpus re-derived）**：`function_driven_p3.md`(方法:听 stem→STAND/SPLIT/SORT→8 function frame→STANCE 脊) / `p3_frames_and_swaps.md`(8 frame 骨架+降级词) / `p3_answers_tagged.md`(逐句标签 GROUND TRUTH) / `p3_training_plan.md`(两轨:standalone + combined P2+P3)。skill 已接(P3 实战协议块,micro-scorecard 5 钩子含长度检查)。核心 = STANCE buys time(=P2 的 HOOK) + "散句不垮垮的是词"(不重教连接词,只 ship opener glue + floor 抽象名词) + P3 不加长(3-5 句下车)。
+🎙️ **6/24 P3 系统首次实战 ×6 题（standalone 轨一,混 function）**：⭐⭐ **系统跑通**——6 题脊全站得住(STANCE→because→e.g./对比→land),frame 在她嘴里跑得动。⭐⭐ **"散句不垮垮的是词"反复实证**(Q3/Q5/Q6 最清:结构+连接 cold 全 own,漏几乎 100% 在中段抽象词;喂 floor 词→立刻产出甚至自我升级)。🔴 **STAND/SPLIT/SORT 两个 fuzzy 边界判错**(FREQUENCY 判成 STAND / CHANGE 判成 SORT)→ 下次专 drill。ENUMERATE 最难(内容也卡)。error zone 续确认(搭配/介词 > 冠词 > 形近词 lumber→number)。
+💬 **6/24 状态对话**：suzy 灰心("投入巨量时间,主动输出仍想不起来",疑"天赋失衡"=高中几周自学完大学物理/微积分,英语却难)。教练 reframe（存 memory `feedback_morale_automaticity_reframe`）:不是天赋失衡,是 **ONE 认知风格**(抓底层生成规则、跳重复)=物理超能力但语言产出无"生成器"可抓、靠重复堆自动 → 同手砍不动;gap=automaticity 非天赋(认得出≠拼得出,阅读 7-7.5=强接收端,输入>>输出是分析型学习者指纹)。灰心时拿一周进步曲线对照(接龙依赖"每拍"→"只剩开头一句")。
+📌 **计划锁定（suzy 6/24 定）：明天 6/25 起 = 轨二 combined P2+P3**（一张 P2 → 接它 6 个 P3,同域升抽象 + 点"桥";贴 full_pass Round 2;standalone 暂缓）。drill 重点:FREQ/CHANGE 两个 bucket 边界 + ENUMERATE 减负 + 续喂 floor 抽象名词。
+————（以下为 6/22 P2 快过记录，保留）————
+🗓️ **6/22 进展**：cold 累计 **10 张**（5引擎 + 老05独立 + 新23/新14/老12/老11）。
+  · ⭐ **独立度续稳**：老05 全独立 → 连续两张（老12/老11）**仅接龙 HOOK 1 拍**，余全自产。接龙依赖在退。
+  · ⭐⭐ **错"换防"实锤（6/22 核心发现）**：固定短语当 focus（老12）→ 零翻车；没当 focus（老11）→ 回升 4 处（married with / looks like / keep time / worthy）。同时上张回流的基础三件（-s/碎句/名词作形容词）当回扫 focus 就守住 → **全是 automaticity 缺口，focus 到哪守哪。固定短语要持续主扫不撤防。**
+  · 🔴 **词数硬地板 ≥160**（suzy 6/22 定，入 SKILL.md）；**155 干净 > 165 注水**（她两次主动喊停防注水，判断对；但限时要留"能补 1 拍"能力）。
+  · 🚫 **只出大陆题**（大陆新27 + 老27），非大陆8题跳过（suzy 6/22 定，入 SKILL.md + full_pass）。
+  · **下一步**：继续快过大陆 P2（**固定短语持续主扫** + 回扫 -s/碎句/名词作形容词/冠词）或择日上 P3。
+————（以下为 6/21 系统建成记录，保留）————
 ⭐⭐ **6/21 cold ×3（新09/老26/老18）确立 P2 执行协议 = cue-driven + 一拍接龙 + 三阶段铁序**（已写入 speaking-coach SKILL.md）：
   · **三阶段铁序**：先产出完整篇(cold,卡住一拍接龙) → 再**润色加长**(出完整篇才做,每拍后加一拍 +40-60% 不升词) → 再**答后扫错**。三件分开,绝不第一遍同时求长求对(否则爆带宽→死机)。
   · **死机解药=一次只想一拍**(老26进场死机→接龙→零死机);**卡住自救=够不着降到能说的画面别硬憋**(星光→barely anyone left);**一拍塞太多就拆**(老18 买+倒出+决定→拆两拍即顺)。

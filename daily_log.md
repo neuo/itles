@@ -2516,3 +2516,40 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **老05 想要的科技品（高配 3D 打印机）**：⭐⭐ 系统建成以来**第一次独立全程 cold**——零接龙、零死机、全新内容(无现成珠子)自organize 完整 ~150s，五模式齐 + FACT-DROP报价一句就走 + 情感升华(a giant toy for both of us → bring us closer)。净 ~6.5-7。
 - 🔴 **主错区转移**：-s 基本守住(turns/builds/makes 对，只 cost→costs 掉1)→ 现主错=**搭配/固定短语**(got on it→got into it / As I know→As far as I know / worth→worth it)，入 error_log Pattern 25。另 2 碎句(my son sitting / We together design = 长句缺动词/语序)。
 - 进度：cold 累计 6 张(5引擎+老05独立)，协议稳定运行，她过了"必须接龙"阶段。原始+修复版记入 sessions/2026-06-22。
+
+## 6/22 续（口语 P2 快过 cold ×4：新23/新14/老12 + 主错区零翻车）
+- **新23 久未回复消息（邮件老同学）** NARRATE"等"轨：接龙 6 拍 5 零错 → 加 3 拍到 ~175 词。确立**词数硬地板 ≥160**（入 SKILL.md）。唯一错 take it easy→take it personally（固定短语）。
+- **新14 特别场合食物（生日蛋糕）** 食物类别卡：定义开头做对 → ~155 词。⭐⭐ 今日最干净（近零错，-s 全守 bakes/covers/shapes/decorates，固定短语没翻车，碎句 0）+ **她主动喊停防复读**（加长原则内化）→ 校正 155 干净>165 注水。唯一错 during→on / make→made。
+- **老12 想去的汽车旅行（川西自驾带家人）** ⭐ 真 cold（无珠子）+ 换引擎（带家人出行向往类）：进场"卡了"→ **只接龙 HOOK 1 拍**，余 3 拍 + 加长全自产 → ~165 词。⭐ **固定短语主错区首次"零翻车"**（not stuck to a schedule / take our time / look forward to 点名 chunk 全用对）。🔴 错转回基础三件：-s（grow→grows，until 后单数）/ 碎句（they the root cause→they're the main reason）/ 名词当形容词（snow mountains→snow-capped，Pattern 8 复发）。
+- 🚫 **选题改规**：只出大陆题（大陆新27+老27），非大陆8题跳过（suzy 定，入 speaking-coach SKILL.md + full_pass）。
+- 进度：今日 cold ×4，全 session cold 累计 9 张。独立度续涨（接龙依赖在退）；主错区从固定短语攻坚见效 → 错回流基础三件，下次回扫 -s/碎句/名词作形容词。
+- **老11 家里留久的东西（外公老手表）** ⭐ 换引擎=DESCRIBE物品+情感/记忆弧（前面没碰过）：真 cold，仅接龙 HOOK 1 拍，余全自产 → 她主动喊停 ~138 词（不注水）。⭐⭐ **错"换防"实锤**：上张回流的基础三件（-s/碎句/名词作形容词）这张当回扫 focus 全守住（-s 零漏、碎句0、名词作形容词0），但**主错区固定短语没当 focus → 回升 4 处**（married with→marry sb / looks like→looks+形容词 / show time→keep time / worthy→worth a lot）。→ 全是 automaticity 缺口，focus 到哪守哪，固定短语要持续主扫不撤防。物品/情感题生词多→固定短语高发。
+- 进度：今日 cold ×5（老05/新23/新14/老12/老11），全 session cold 累计 10 张。新搭配入清单：marry sb / keep time / looks+形容词 / worth a lot / because of+名词。
+
+## 6/23（口语 P2 cold 新25 · ⭐⭐ 自我把关升到结构/连贯层）
+- **新25 遇困难终成功的人（同学 Zhangwei · 高压现场救火）** 人物+克服困难弧：真 cold，进场"卡了"→ 接龙 HOOK 1 拍后**她自己 pivot 出整个故事**（计算机社团→高压解决问题→演示前程序崩→沉住气 line by line 救火），覆盖教练 glue = 几乎全自驱。persona 自主从范文"自学转AI"改成"高压沉得住气"。
+- ⭐⭐ **里程碑：自我把关升到结构/连贯层**：教练加长时嫁接了一个"自学毅力 from scratch/stuck with it"拍，**她自己抓出**"和例子有偏差，需要重新整合"——能感知嫁接的优点和讲的故事不是一条线（Pattern 17 放大版：结构能接、意义对不上）。6/22 新14 是长度层喊停，今天升到连贯层。
+- ⭐ **新加长铁律**：加长必须顺"她讲的那条线"长，别另起不相干的优点；教练推加长拍前先自查"这拍是不是她那故事的延伸"（入 error_log Pattern 17）。
+- 答后扫：固定短语主扫干净（went through/line by line/saved the day/turns to 全对）+ Pattern 23 cleft 原形守住（what we usually did was hang）+ 冠词全对 + 碎句0。错只剩 2-3 小搭配且多数自纠（admire about him / could→can / stuck to）。净 ~6.5-7 接近 7。
+- 进度：全 session cold 累计 11 张。独立度续升（接龙依赖基本退场）。下一步：继续大陆 P2（固定短语持续主扫 + 加长顺线自查）或上 P3。
+- **新12 重要决定（毕业选 field=进技术行业）** EXPLAIN/说理卡（她**主动点 A 专练散句**）：进场"卡了"→ 接龙（说理卡脚手架拍数 > NARRATE）→ ~135 词。⭐⭐ 中途**第 2 次结构自抓**："是不是先说决定是什么，再说干了啥"——发现漏了"具体选择+行动"拍。
+- ⭐⭐ **关键发现："散句不垮、垮的是词"**：说理卡上 because/so/by+ing 连接全对、逻辑顺、能结构自抓——**散句结构站得住**；漏的全是抽象词理科腔降级（individual interest→my own interests / industry prospect→the job prospects / deciding freely→rushing into it）。与老11 情感题"生词多→固定短语高发"同根=题型生词密度↑→主错区(固定短语/降级)压力↑。→ 训练转向：说理/情感卡练**抽象词口语降级反射**，不是练连接（连接已会）。呼应 priority 记忆（结构已稳，词是真缺口部分别硬塞）。
+- ⭐⭐ 结构层自我把关**连续两张**（新25+新12）=元认知稳定成型。守住：had no idea 单数（老18 错没复发）/ -s / so-链 / by+ing。🔴 入清单：choose to do / go into a field / ask sb about / rush into / a→an / if I'd gone。
+- 进度：6/23 cold ×2（新25/新12），全 session cold 累计 12 张。下一步：继续大陆 P2（说理/情感卡练抽象词降级 + 固定短语持续主扫）或上 P3。
+
+## 6/24（建成 P3 系统 + 首次实战 ×6）
+- 🛠️ **建成 P3 function-frame 系统**（mirror P2 五件套，从 324 答案 corpus re-derived，工作流 12 agent 产出 + 对抗验证 + 我落地）：`function_driven_p3.md`（方法:听 stem→STAND/SPLIT/SORT→8 function frame→STANCE 脊）/ `p3_frames_and_swaps.md`（8 frame 骨架+降级词）/ `p3_answers_tagged.md`（逐句标签 GROUND TRUTH）/ `p3_training_plan.md`（两轨:standalone + combined P2+P3）。skill 已接 P3 实战协议块；旧 03_question_types 5-frame 标为已取代。
+- 🎙️ **P3 系统首次实战 ×6 题**（standalone 轨一，混 function：FREQ/OPINION×2/ENUM/REASON/CHANGE）：⭐⭐ **系统跑通**——6 题脊全站得住（STANCE→because→e.g./对比→land）。⭐⭐ **"散句不垮垮的是词"反复实证**（Q3/Q5/Q6 最清：结构+连接 cold 全 own，漏几乎 100% 在中段抽象词 geographical limit/主动性/hygiene 一够就飘书面；喂 floor 词→立刻产出，Q3 甚至自我升级 ease loneliness/at the end of the day/outweigh the downsides）。
+- 🔴 **STAND/SPLIT/SORT 两个 fuzzy 边界判错**：FREQUENCY 判成 STAND（"are there many"像 yes/no→其实数量=SORT）/ CHANGE 判成 SORT（过去vs现在=劈两半=SPLIT）→ 下次专 drill 这俩。ENUMERATE 最难（内容也卡，不只词）→ frame 减负（命名1+1意外别凑5）。
+- 🛠️ **中途按她要求给 skill 加长度检查**：micro-scorecard 4→5 钩子（+📏长度 ~3-5句/~40-65词），太短加一拍展开/land 不加列举项（同 P2 EXPAND DON'T UPGRADE）。
+- 🔴 新错入 error_log：lumber→number（Pattern 16 形近）/ meet a problem→come across（搭配中式）/ manager→manage（名词当动词）/ prepare for（介词）。error zone 续=搭配/介词 > 冠词 > 形近词，-s 守住。
+- 进度：P3 系统建成且首战可用。下一步：再练 P3（drill FREQ/CHANGE 边界 + ENUMERATE 减负 + 续喂 floor 抽象名词）或上轨二 combined P2+P3（贴 full_pass Round 2）。
+
+## 6/25（首次 P2+P3 合练 老08 App · ⭐ fast&rough 破 10 分钟 freeze）
+- 轨二 combined 首练：P2 老08 App（她选 Rednote，cold，来历故事 NARRATE-lite 真实；漏 EXPLAIN=LAND 补；净 ~6-6.5）→ 接 6 个配套 P3。桥点到：P2 bare land "useful tool" = 没机制 → P3 第二拍 because-mechanism 同一块肌肉。
+- ⭐⭐ **fast&rough 模式破"10 分钟规划 freeze"**：她中途指出"P3 考场只 40s，我却想了 10 分钟"→ 切模式（8 秒必开口/内容第一个想到就说/教练不喂/词错句糙不管/标准=不卡）→ Q3-Q6 全 8 秒内开口、无长空白。诊断关键=她的卡常不是死机，是"物理优化器在找最优解"，fast 逼她关掉规划模式。**已写入 skill（P3 默认带 fast&rough + 两种卡区分）。**
+- ⭐ **内容自驱抬头**：Q1 COMPARE 没想法（喂内容）→ Q5/Q6 自己生成例子（WeChat/Meituan、两个机制）。fast 模式逼出自驱。Q6"该不该禁孩子用社媒"全脊最好（concede→but→两机制→so）。
+- **两种"卡"分清**：Q1 没想法（content-generation，喂内容解）/ Q2 有想法组装跑偏（REASON 中途拐去辩另一面，给 frame 纪律）/ 后半 优化器规划（fast 逼开口）。
+- 🔴 error zone：固定搭配（stuck in→hooked[喂了还掉] / search for / pay attention to / be used to+ing）> 冠词（**a/an 元音前本周 3 次** a old/a internet/a interesting→专记死规则）> -s（多加 older peoples / content is）。leak 仍集中"够抽象词那一下"（cheap→shallow / recognize→handle）。
+- **STAND/SPLIT/SORT 没再判错**（昨日糊涂边界改善）。
+- 进度：合练轨二跑通 + fast 模式是大突破。下次合练换张 P2+P3 继续；P3 默认 fast。

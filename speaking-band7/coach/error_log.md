@@ -78,8 +78,8 @@
 **Surface:** Wrong word class — noun used where adjective is needed.
 **Deep:** In Chinese, nouns can directly modify nouns (麻烦的事 → 麻烦 functions flexibly). In English, the adjective form is required. The learner reaches for the most familiar form of the word without checking its grammatical role.
 **Fix:** When modifying a noun, ask: is this word actually an adjective? Common pairs to watch: trouble/troublesome, challenge/challenging, stress/stressful, embarrassed/embarrassing(ly).
-**Status:** Recurring. 4/19 复发："embarrassedly bad" → embarrassingly bad。4/23 复发："Classics programmer habit" → Classic（名词复数误用为形容词）。
-**Occurrences:** 3
+**Status:** Recurring. 4/19 复发："embarrassedly bad" → embarrassingly bad。4/23 复发："Classics programmer habit" → Classic（名词复数误用为形容词）。6/22 复发：「snow mountains」→ **snow-capped / snowy mountains**（snow 名词直接修饰名词，应用形容词形式）。
+**Occurrences:** 4
 
 ---
 
@@ -109,8 +109,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Word choice is correct but too formal for spoken English.
 **Deep:** Learner's vocabulary was built through reading, not listening. The formal register word is more automated because it was encountered more often in text. The spoken equivalent exists in passive vocab but loses the retrieval race.
 **Fix:** Flag every instance. Give the spoken equivalent immediately. Build a running list: prioritize→I'd rather, attend→take/do, regrettable→I'd hate to, significantly→way more.
-**Status:** Recurring. 4/18 双重复发（"expectation" → hope / "Although" 句首 / "abandoned" → fell through）。4/19 三题均触发："owing to" → because of, "The residents living in" → people there, "the final work" → the whole thing, "I was no exception" → same for me。最顽固的 pattern。
-**Occurrences:** 8+
+**Status:** Recurring. 4/18 双重复发（"expectation" → hope / "Although" 句首 / "abandoned" → fell through）。4/19 三题均触发："owing to" → because of, "The residents living in" → people there, "the final work" → the whole thing, "I was no exception" → same for me。最顽固的 pattern。**6/23 关键发现（说理/情感卡）**：新12 决定卡 + 老11 情感卡上，**散句结构没垮**（because/so/by+ing 连接全对、逻辑顺、能结构自抓），**垮的是词** —— 抽象词理科腔降级跟不上：individual interest→**my own interests** / industry prospect→**the job prospects** / deciding freely→**rushing into it**。规律=**题型生词密度↑（说理/情感）→ 主错区(固定短语/降级)压力↑**，不是散句结构问题。→ 训练转向：这类卡重点练**抽象词的口语降级反射**（不是练连接，连接已会）。呼应 feedback_priority_structure_over_vocab（结构已稳，词是真缺口的部分别硬塞）。
+**Occurrences:** 10+
 
 ---
 
@@ -159,8 +159,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** Wrong word chosen — similar sound/spelling but completely different meaning.
 **Deep:** Retrieval under pressure pulls up a phonetically similar word. scrawl/scramble share initial sounds; fairly/hardly are both 2-syllable -ly adverbs. The correct word exists in passive vocabulary but loses the retrieval race to the more recently-encountered lookalike. Especially dangerous when the substitution reverses the meaning (fairly=quite vs hardly=almost not).
 **Fix:** Pair confusables: scrawl (writing) vs scramble (rush); fairly (quite/moderately) vs hardly (almost not). For frequency: hardly ever / barely ever / scarcely ever — all negative direction.
-**Status:** 4/27 scrawl→scramble; 4/29 fairly→hardly（意义反转，最危险的一类）；6/4 抽查 "At **dust**"→**dusk**（黄昏≠灰尘，意义全错——加配对 dusk/dust 到清单）
-**Occurrences:** 3
+**Status:** 4/27 scrawl→scramble; 4/29 fairly→hardly（意义反转，最危险的一类）；6/4 抽查 "At **dust**"→**dusk**（黄昏≠灰尘，意义全错——加配对 dusk/dust 到清单）；6/24 P3 "the **lumber** is growing"→**number**（木材≠数量，配对 lumber/number 加清单）
+**Occurrences:** 4
 
 ---
 
@@ -183,8 +183,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** 例子/补充内容和它要支撑的陈述对不上。
 **Deep:** 压力下句子的**节奏/结构**先被激活（"like A, B, you name it"），大脑顺手抓了一个最熟的现成 chunk 填进去，没检查它在意义上是否真的是这个陈述的例子。是 retrieval failure 的一种——结构先于语义。
 **Fix:** 补例子前 1 秒自查："like what —— 这是 THIS（刚说的那句）的例子吗？" 例子必须是陈述本身的实例。
-**Status:** First occurrence 5/28（句子展开训练中暴露）。Monitor——展开训练时高发。
-**Occurrences:** 1
+**Status:** First occurrence 5/28（句子展开训练中暴露）。Monitor——展开训练时高发。**6/23 放大版（结构层）**：P2 加长时教练嫁接了一个"自学毅力 from scratch/stuck with it"拍，但她讲的故事是"高压沉得住气"——**加长拍能在结构上接上，但和故事的优点对不上**=同一根（结构先于语义）。⭐ suzy **自己抓出**("和例子有偏差,需要重新整合")=自我把关升到连贯层。**加长铁律新增**：加长必须顺"她讲的那条线"长,别另起不相干的优点;教练推加长拍前自查"这拍是不是她那个故事的延伸"。
+**Occurrences:** 2（句子层 + 结构层各1）
 
 ---
 
@@ -196,7 +196,7 @@ Add new patterns here when they appear more than once, or when a single instance
 1. 不用重学规则,练**自动化**:多 cold 反复 + 产出后**1 秒自查**"主语单数?动词加 s 了吗"
 2. **集合名词当单数**(6/1 缺口):company/team/family/government/a kind of X = 单数 → tries/wins/makes(try→tries y→ies)。写作也踩过(creative industry 类)。
 **Status:** 🚨 #1 重点。每次 P2/P3 产出后教练带她扫 -s,直到 cold 不漏。**6/5 安排限时 -s 专项 10 句确认自动化。**
-**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉；**6/4 开场抽查 "my career basiclly tie me"→ties 又掉 —— 连续两次低压抽查都掉(make/tie),自动化缺口实锤。单数主语 what/it/this/my career/my X 优先扫**；6/11 开场 -s 专项 **8/8 全对**(含陷阱 others/this kind/team/each/the number)→ 低压零失误,**production 才掉**,实锤再确认；6/12 cold P2 zhangwei:**短句全对(he helps/deepens/needs)、长句掉(he respond/everyone were)** —— 句子一长一满 -s 就掉(带宽占满),长句说完回扫主语;`everyone/somebody/each = 单数`。修法=cold 产出后 1 秒自查,非重学；**6/15 P2 外公:长句 -s 守住了**(as soon as the sun comes up, he goes out ✓)+ 冠词全对 → 不赶时间能守住,长句回扫习惯见效,进步明显）
+**Occurrences:** 高频持续（4/18 起多次；6/1 限时专项确认=自动化非知识；6/2 开场抽查 "what **make** Chengdu"→makes 又掉；**6/4 开场抽查 "my career basiclly tie me"→ties 又掉 —— 连续两次低压抽查都掉(make/tie),自动化缺口实锤。单数主语 what/it/this/my career/my X 优先扫**；6/11 开场 -s 专项 **8/8 全对**(含陷阱 others/this kind/team/each/the number)→ 低压零失误,**production 才掉**,实锤再确认；6/12 cold P2 zhangwei:**短句全对(he helps/deepens/needs)、长句掉(he respond/everyone were)** —— 句子一长一满 -s 就掉(带宽占满),长句说完回扫主语;`everyone/somebody/each = 单数`。修法=cold 产出后 1 秒自查,非重学；**6/15 P2 外公:长句 -s 守住了**(as soon as the sun comes up, he goes out ✓)+ 冠词全对 → 不赶时间能守住,长句回扫习惯见效,进步明显；**6/22 老12 加长句 "until my son grow"→grows 又掉**(until 后单数主语,长句一满又漏。短句守住,长/加长句仍是漏点)）
 
 ---
 
@@ -240,8 +240,8 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** 不可数/抽象名词前不该加冠词时加了。
 **Deep:** 冠词系统**懂规则但没自动化**。口语平时多**漏** a/an（Pattern 系列），这次反过来**多加** —— 同一根：不是知识缺口，是 pressure 下不自动判别。**=写作 W2-19「多加 the」孪生**（protecting environment→the environment）。
 **Fix:** 抽象/不可数零冠词清单背熟：tourism / money / advice / information / research / traffic / pollution / knowledge（除非特指）。**每次产出后扫一遍冠词**（俩科通用硬动作）。
-**Status:** 6/18 首现（多加侧）。冠词同日三态全见：P2 零漏 / P3-Q1 零漏 / tourism 多加 → 盯自动化。
-**Occurrences:** 1
+**Status:** 6/18 首现（多加侧）。冠词同日三态全见：P2 零漏 / P3-Q1 零漏 / tourism 多加 → 盯自动化。**6/22-25 浮现高频子模式 = `a/an` 元音前漏判**：6/22 老11 `a old watch`→an / 6/23 新12 `a internet company`→an / 6/25 老08 `a interesting story`→an（**一周 3 次**）。→ 专记一条死规则：**`a/an` 看下一个词的音,元音音(a/e/i/o/u 起头多数)前用 an**,答后扫每次扫一遍。
+**Occurrences:** 4（含 a/an 元音前 ×3）
 
 ---
 
@@ -270,5 +270,5 @@ Add new patterns here when they appear more than once, or when a single instance
 **Surface:** 固定短语/动词搭配取了错的介词或近义词。
 **Deep:** 这类是**记忆型**(不是规则型),靠见过/用过的次数;-s 基本守住后,这成了 6→6.5 的主要扣分点。她 cold 流畅度上来了,错从语法转到搭配。
 **Fix:** 高频固定短语清单背熟+答后专扫这类:get into sth(喜欢上) / as far as I know / worth it / reach for the stars / give sb chills / land a rocket / caught my eye / have no idea。
-**Status:** 6/22 标记为当前主错区。每次 cold 答后单独扫"固定短语"一遍。
-**Occurrences:** 5+(跨 6/21-22)
+**Status:** 6/22 标记为当前主错区。每次 cold 答后单独扫"固定短语"一遍。**6/22 老12 首次"零翻车"**(not stuck to a schedule / take our time / look forward to / go by car rather than fly 全点名用对)→ 喂的 chunk 进了 production,攻坚见效;但同张错转回基础三件(-s grows / 碎句 they-the-root-cause / Pattern 8 snow mountains)。**6/22 老11(物品/情感题)回升 4 处**:married **with**→marry sb / looks **like** a bit→looks+形容词 / show perfect time→**keep time**(表走时) / worthy→**worth a lot**(值钱≠worthy)。⭐ **关键规律=错"换防"**:固定短语没当回扫 focus 就回升,而上张回流的基础三件(-s/碎句/名词作形容词)这张当 focus 全守住 → automaticity 缺口,focus 到哪守哪,**固定短语要持续主扫不能撤防**。情感/物品题生词多→固定短语高发。**6/24 P3 ×6**:`prepare interviews`→**prepare for** / `meet a problem`→**come across/run into/face a problem**(中式 meet) / `manager things well`→**manage**(名词当动词) / `change job`→**change jobs**。新搭配入清单:marry sb / keep (good/perfect) time / looks+形容词(去 like) / worth a lot / because **of** + 名词 / prepare for / come across a problem / manage(v)≠manager(n)。**6/25 P2+P3 老08**:`stuck in it`→**hooked**(喂了还掉=没自动) / `search something`→**search for** / `pay attention **to**`(非 put attention on) / `be **used to** + V-ing`(习惯于,非 used to do) / `relax`(非 relax themselves)。
+**Occurrences:** 18+(跨 6/21-25)

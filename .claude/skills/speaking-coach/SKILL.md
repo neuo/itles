@@ -1,6 +1,6 @@
 ---
 trigger: "练口语|练 P1|练 P2|练 P3|练p1|练p2|练p3|来一题|来道口语|串模考|口语coach|speaking coach|口语练习"
-description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driven + 一拍接龙协议(她先 cold,卡住一拍接龙;6/21 最新,取代旧三阶);P1/P3 cold-first 仍按 05_path。每篇 P2 给 scorecard,选题禁自编(question_bank),收尾写详细 session。
+description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driven + 一拍接龙(她先 cold,卡住接龙);P3 走 function-frame + cold-first(听 stem→STAND/SPLIT/SORT→8 function frame→STANCE 脊,6/23 建系统,真源 function_driven_p3 四件套);P1 cold-first 按 05_path。每篇给 scorecard,选题禁自编(question_bank,只大陆题),收尾写详细 session。
 ---
 
 # IELTS Speaking Coach（P1/P2/P3）— 执行薄壳
@@ -15,6 +15,7 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 
 ## 选题（🚨 禁自编)
 唯一真源 `speaking-band7/question_bank.md`(当季真题)。选代表性题、跨题型轮、对照 sessions 查重。**P2+P3 用配对的 P3。**
+🚫 **只出大陆题**(大陆新题 27 + 大陆老题沿用 27)，**不出非大陆题**(非01–非08)——suzy 6/22 定，考的是大陆机经，非大陆题不在题池。full_pass.md「非大陆新题 8 P2」整块跳过。
 
 ## 🎯 P2 实战协议：cue-driven + 一拍接龙（6/21 最新，取代旧三阶）
 > P2 不再"朗读范文→三阶 A/B/C"。新打法 = **她先 cold，卡住就一拍接龙**。内容真源 = speaking-band7 五件套(cue_driven_p2 方法 / p2_frames_and_swaps 9骨架+降级词 / p2_card_specs 54张spec / p2_answers_tagged 成品 / p2_supplement_techniques 补充招)。
@@ -48,11 +49,27 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 
 **▶ 进行中 campaign**：用本协议**快速过全 54 P2**(每张 cold-first,卡住一拍接龙,捕获地板词+新错,写 session)。追踪 `coach/full_pass.md`。
 
-## P1/P3 执行（按 05_path 手册)
-- **P1/P3 cold-first**,但 P3 给框架(表态→because→like→对比)。
-- 每题:① 语法纠错(第三人称 -s / 单复数 / 介词 / 时态) ② 表达升级(原句小改) ③ 教一个句式(每题≤1)。**精修版 + 范文(Band 7 自然版,非 8-9)** 都给。
+## P1 执行（按 05_path 手册)
+- **P1 cold-first**。每题:① 语法纠错(第三人称 -s / 单复数 / 介词 / 时态) ② 表达升级(原句小改) ③ 教一个句式(每题≤1)。**精修版 + 范文(Band 7 自然版,非 8-9)** 都给。
 - **8 维诊断**:挑 top 3 报,**准确性硬错(介词/主谓/时态/搭配/直译)列全**。
 - **开场抽查 + 答题点名 chunk + 复盘查用没用**(她背我喂,见 inventory「教练主动复习机制」)。
+
+## 🎯 P3 实战协议：function-frame + cold-first（6/23 建系统，取代旧"给框架 表态→because→like→对比"）
+> P3 不再只给一句泛框架。新打法 = **听 stem → 1 秒 STAND/SPLIT/SORT 分类 → 调 8 function 之一的 frame → STANCE 开口买时间 → 跑脊(STANCE→because→e.g.→land) → 答后扫**。内容真源 = `function_driven_p3.md`(方法+8 function+STAND/SPLIT/SORT) / `p3_frames_and_swaps.md`(8 frame 骨架+降级词) / `p3_answers_tagged.md`(逐句标签 GROUND TRUTH)。**训练编排真源 = `p3_training_plan.md`(两轨:standalone + combined P2+P3)**。
+
+**P3 = cold-first WITH framework**(她结构自监控强,框架兜底直接 cold,**别读范文复述**——那是 P2 Round 1 打法,P3 不用):
+1. **出题**(question_bank,禁自编,只大陆题;单题或一组同域)。她听 stem **自己**跑 STAND/SPLIT/SORT 分类(教练不替她分=这是她要练的反应)。
+2. **点名 2 样**(背我喂,封顶2):① 该 function 的 **OPENER glue**(买时间防 freeze=P3 的 HOOK) ② 1 个该题真 leak 的 **floor 名词**(预降大白话)。
+3. 她 **cold 答 ~3-5 句/~30-50s**:STANCE→because(**机制非"because good"**)→for instance→land。**死机→一拍接龙**(拍序=脊 4 拍,给下拍 glue 她只填一颗)。够太高卡住→降到能说的画面。
+4. **答后扫**(说完才扫,按她 error zone 排序):🔴 **固定搭配/介词**(6/22-23 主 error zone,含 `because OF+noun` vs `because+clause`) > 🟡 冠词 a/an > ⚪ -s(mostly held)。**不扫连接词**(她已 cold own,"散句不垮垮的是词")。
+5. **per-answer micro-scorecard 5 钩子**(stance committed? / mechanism 非 because good? / 例子 or 第二点? / floor vocab? / **长度 ~3-5 句·~40-65 词·30-50s?**) + 捕获地板词(→inventory) + 新错(→error_log) + 写 session。
+- **⚠️ fast&rough 模式(6/25 发现,P3 默认带)**:她有时卡不是死机,是**"优化器在找最优解"**(理科脑规划完美答案再开口→10 分钟)。考场 P3 只 ~40s。**逼她:① ~8 秒必开口甩 STANCE(哪怕烂/短) ② 内容第一个想到就说(说得通即可,不挑不等完美;P3 内容不用真不用妙) ③ 教练不喂内容,除非真卡死>10s ④ 词错句糙全不管,标准=「8 秒开口+无长空白」**。**糙的 40s 答案 >> 完美的 10 分钟答案**。这是把她从"规划模式"逼出来=P3 核心训练。(注:untimed+喂内容仍可用于"建 chunk"早期;一旦能产出就切 fast,别让 untimed 变虚假舒适区。)
+- **⚠️ 两种"卡"要分清**:① **没想法(content-generation,COMPARE/ENUMERATE 高发)**→ 喂 1-2 个内容点(想法,非词),她跑框架;② **有想法但组装跑偏**(如 REASON 中途拐去辩另一面)→ 点出跑偏+给该 frame 纪律;③ **优化器规划**→ fast&rough 逼开口。三种解法不同,先判哪种。
+- **⚠️ 长度检查(在 3-5 句 band 内,不是越长越好,每题必扫)**:目标 ~3-5 句 / ~40-65 词 / 30-50s。
+  - **太短**(≤3 句 / <~35 词 / "啪一下就完了") → **加一拍**:给某个点**加一层展开**(`— you've got to picture a solution that isn't there yet`) 或一句 **land**(`So honestly… / To be fair…`)。**绝不加第 5 个列举项、绝不换大词**(同 P2 EXPAND DON'T UPGRADE / bare claim 后"再加一层")。
+  - **太长 / 铺成两段** → 提醒**跑完脊就下车**(别注水、别铺两个对比、别列 5 点)。**P3≠P2 三阶段加长。**
+- **🔗 桥(配对 P2+P3 时必点名)**:P2 末 bullet 的 EXPLAIN=LAND 给机制 = P3 第二拍 because-mechanism = **同一块肌肉**,搬过来,不是新东西。
+- **combined 轨**:做完一张 P2(cue-driven)立刻接它底部 6 个 P3,同域升抽象(personal→general);贴 `coach/full_pass.md` Round 2。详见 `p3_training_plan.md`。
 
 ## End-of-Session（强制,流程被打断也补)
 1. 写 `speaking-band7/coach/sessions/YYYY-MM-DD.md` —— **详细到可复习**:每题 题目→suzy 逐字原句→诊断(🔴🟡 逐条)→精修版→**整篇修复版(clean,可 shadow)**→教的表达。点+面都给。
@@ -62,6 +79,7 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 
 ## 关联
 - **P2 真源(五件套)**:`speaking-band7/cue_driven_p2.md`(方法+SHOW/TELL/JUDGE) / `p2_frames_and_swaps.md`(9骨架+降级词+地板) / `p2_card_specs.md`(54张spec) / `p2_answers_tagged.md`(逐句标签成品) / `p2_supplement_techniques.md`(补充招)。
-- **P1/P3 真源**:`speaking-band7/05_path.md`「教练执行手册」+ `03_question_types.md` + `personas.md`。选题:`question_bank.md`。(04_toolkit §11 旧三阶已被 P2 协议取代。)
+- **P3 真源(四件套,6/23 建)**:`speaking-band7/function_driven_p3.md`(方法+8 function+STAND/SPLIT/SORT+universal spine) / `p3_frames_and_swaps.md`(8 frame 填空骨架+降级词) / `p3_answers_tagged.md`(逐句标签 GROUND TRUTH,所有 glue re-derived FROM 324 答案 corpus) / `p3_training_plan.md`(两轨训练编排:standalone + combined P2+P3)。**旧 `03_question_types.md` §P3 五框架已被本 8-function 系统取代,退到参考。**
+- **P1 真源**:`speaking-band7/05_path.md`「教练执行手册」+ `03_question_types.md`(P1 部分) + `personas.md`。选题:`question_bank.md`(只大陆题)。(04_toolkit §11 旧三阶已被 P2 协议取代。)
 - 编排入口:[[../study-coach/SKILL.md]] / 写作臂:[[../writing-coach/SKILL.md]]
 - 记忆:project_speaking_templates(P2系统) / feedback_speaking_spoken_downgrade(降级+地板) / feedback_speaking_decompress_not_pad / feedback_output_gap / feedback_coach_drives_recall / feedback_speaking_self_paced

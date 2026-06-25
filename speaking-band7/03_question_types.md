@@ -140,6 +140,8 @@
 
 ## P3 — 5 大讨论 frame
 
+> ⚠️ **已被取代（6/23）**：本节 5-frame（Compare / Cause-Effect / Agree-Disagree / Hypothetical / Prediction）漏了 corpus 实证最高频的 ENUMERATE（77 张）、TWO-SIDED、FREQUENCY；Hypothetical/Should 实为 OPINION。**P3 现行系统 = [[function_driven_p3.md]] 的 8-function frame（STAND/SPLIT/SORT）+ [[p3_frames_and_swaps.md]] + [[p3_answers_tagged.md]] + [[p3_training_plan.md]]**，全部 re-derived FROM 324 答案 corpus。本节退到参考。
+>
 > P3 = follow-up discussion，30-45 秒/题
 > 5 大 frame 覆盖几乎所有 P3 题。听到问题先 frame 分类。
 
