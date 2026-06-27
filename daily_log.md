@@ -2563,3 +2563,11 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🔴 error zone：固定搭配/介词（four times 不加 for / on the internet / what...is like 嵌入语序）> 名词当形容词（**Pattern 8 复发 sand→sandy**，同 snow→snow-capped）> -s（it blend）。a/an 本张守住。STAND/SPLIT/SORT 判类没再错。
 - 下一步：**给她做一份"抽象/经济话题 floor 词速查"背**（income/jobs/economy/culture/timing 这类一来就卡的）——这是她现在最该攒的一块。继续合练 + 让她自查。
 - 🛠️ **建 `p3_abstract_floor_vocab.md`（抽象/经济话题 floor 词速查表）**：工作流从 324 corpus + 6/24-26 真卡词挖 → 我审收口（修 10 处 floor 违规如 at-your-fingertips/hard-graft/pivot 降级、软化 provenance 不夸大 verbatim、拆多句格、砍臃肿到 ⭐15+4 spine 域+thin 附录、去重）。治"意思有、词出不来"。含 ⭐ 真卡词块 + ECONOMY/EDU/TECH/WORK 降级表 + 万能壳 + 答后必扫。接进 skill（第④种卡=抽象语言卡→喂词真源）+ P3 五件套 cross-link。**她现阶段最该背这一张**（结构连接已会，缺的就是抽象词 floor 版）。
+
+## 6/27（复习抽查 + P2+P3 合练 老20 全经济 P3 + 两个 reframe）
+- 开场全貌复习 6/25+6/26 → 主动抽查 6 题（4 稳:into it/be used to doing/an old watch/come across；2 弱:**driven 跳过 + REASON 壳只碎片**→当场补全 `Mainly X,I'd say→Plus→So overall`）。
+- P2 老20 花费超预期（3D 打印机，cold ~165 词，强）：🔴 **3 个错从 6/22 老05 原样复发**（got on it→got into it / my son sitting→my son sits 碎句 / a thing→something）=chunk 没自动化,当固定块单独滚;a/an 第 4 次（a entry-level→an，但 an advanced 又对=检索不稳）;spend **on** sth。
+- 6 个 P3 **全是经济题**（年轻人花钱/存钱/买不需要/富人捐款/愿为啥花高价）：经济 floor 词全实战进 production = 词表 ECONOMY 栏（eats up a chunk of salary / gadgets don't come cheap / a cushion when something goes wrong / saving's a tool not the goal / driven by emotion / making wants feel like needs / encourage it don't force it / money well spent / can't put a price on it / splash out）。REASON 壳 + LAND 壳（encourage not force）实战。规律续:具体题自驱、抽象经济题语言卡（给中文→floor 表+范文）。
+- ⭐⭐ **两个 reframe**：① **用词多样性**——她"卡有时是不想重复用词，但太 low 也影响分"。→ **LR 三档**（太low封顶6 / ⭐Band7甜区=地道短语块大白话组合 / 太高essay卡死）；**从 low 升 7 靠地道 chunk 不靠难词**；在场上别为不重复卡死（=优化器），地道块靠提前背自动出。呼应 feedback_priority_structure_over_vocab。② **占位 it = 中英差异**——她自己赞 `make it their duty` 的 it"很难想到"（中文没虚词占位）→ 教 make it+X / it's+adj+to do / find it+adj，已加进 literal_translation_floor_frames 新⑮ DUMMY-IT。
+- 元认知续好（Q5 自说"land 没想法"、Q6"想扩充没思路"=知道缺哪拍）。
+- 进度：经济域 floor 词进 production；两 reframe 落地接系统。下一步：6/22 那 3 个复发 chunk 当固定块单独滚 + 轮其他域（教育/科技/社会）练 floor 词 + 继续 fast&rough+每答给范文。session 已含 7 篇范文全文（新规范）。

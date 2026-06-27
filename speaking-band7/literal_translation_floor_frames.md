@@ -23,9 +23,9 @@
 
 ---
 
-# 📍 按频次排序的 14 类（高频在前）
+# 📍 按频次排序的 15 类（高频在前）
 
-> ⭐ **背诵 vs 参考**：真正要**背成反射**的 = 上面的 **⭐5 陷阱 + 下面 3 个总反射 + ①-⑥ 这 6 张**（占你直译错的绝大多数）。**⑦-⑭ 是查询参考，别硬背**——犯到了来查、对一下框架即可。
+> ⭐ **背诵 vs 参考**：真正要**背成反射**的 = 上面的 **⭐5 陷阱 + 下面 3 个总反射 + ①-⑥ 这 6 张**（占你直译错的绝大多数）。**⑦-⑮ 是查询参考，别硬背**——犯到了来查、对一下框架即可。（⑮ DUMMY-IT 是例外：它是你缺的结构，值得主动背 `make it + X`。）
 
 ## ① VERB-PREP 动词配错介词（你最大的直译雷区）
 
@@ -304,6 +304,24 @@
 | 通过网络 | **through internet** | **on the** internet |
 
 > 🔑 **自查规则**：**次数 = 光秃数字（four times，无 for）；某天用 on，一段用 during；年龄不翻"岁"字（at 40）。**
+
+---
+
+## ⑮ DUMMY-IT 占位虚词 it（中文没有 → 你想不到，但超高频）⭐ 6/27 suzy 自己抓到
+
+> **中文习惯**：中文不用虚词占位（"让买东西变容易""让某事成为他们的义务"直接说）。英文大量用 **it 占位**——你因为中文没这个槽，cold 时根本想不到去用 → 句子搭得别扭或卡住。**这不是改错，是装一个你缺的结构。**
+
+| 中文这么想 | ❌ 想不到 / 会搭成 | ✅ floor 英文框架（背这个） |
+|---|---|---|
+| 让某事成为他们的义务 | （想不到用 it） | **make it their duty** |
+| 让买东西变得太容易 | makes buying too easy | **makes it way too easy to buy stuff** |
+| 让人难以专注 | makes people hard to focus | **makes it hard to focus** |
+| 很值得 | （漏 it）worth | it's **worth it** |
+| 提前计划很重要 | plan ahead is important | **it's important to plan ahead** |
+| 我觉得很难做某事 | I feel difficult to… | **I find it hard to…** |
+| 我推荐给任何想…的人 | recommend to anyone… | I'd recommend **it** to anyone who… |
+
+> 🔑 **自查规则**：**中文"让…变得 X""…很重要/值得"——英文先甩一个占位 it**：`make it + 形容词/名词` / `it's + 形容词 + to do` / `find it + 形容词`。背熟 `make it + X` 这个壳主动调（你已会用 makes it too easy / it's worth it / recommend it to anyone，只是没意识到是同一个可复用壳）。
 
 ---
 
