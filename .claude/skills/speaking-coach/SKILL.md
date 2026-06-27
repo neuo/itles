@@ -64,7 +64,8 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 4. **答后扫**(说完才扫,按她 error zone 排序):🔴 **固定搭配/介词**(6/22-23 主 error zone,含 `because OF+noun` vs `because+clause`) > 🟡 冠词 a/an > ⚪ -s(mostly held)。**不扫连接词**(她已 cold own,"散句不垮垮的是词")。
 5. **per-answer micro-scorecard 5 钩子**(stance committed? / mechanism 非 because good? / 例子 or 第二点? / floor vocab? / **长度 ~3-5 句·~40-65 词·30-50s?**) + 捕获地板词(→inventory) + 新错(→error_log) + 写 session。
 - **⚠️ fast&rough 模式(6/25 发现,P3 默认带)**:她有时卡不是死机,是**"优化器在找最优解"**(理科脑规划完美答案再开口→10 分钟)。考场 P3 只 ~40s。**逼她:① ~8 秒必开口甩 STANCE(哪怕烂/短) ② 内容第一个想到就说(说得通即可,不挑不等完美;P3 内容不用真不用妙) ③ 教练不喂内容,除非真卡死>10s ④ 词错句糙全不管,标准=「8 秒开口+无长空白」**。**糙的 40s 答案 >> 完美的 10 分钟答案**。这是把她从"规划模式"逼出来=P3 核心训练。(注:untimed+喂内容仍可用于"建 chunk"早期;一旦能产出就切 fast,别让 untimed 变虚假舒适区。)
-- **⚠️ 两种"卡"要分清**:① **没想法(content-generation,COMPARE/ENUMERATE 高发)**→ 喂 1-2 个内容点(想法,非词),她跑框架;② **有想法但组装跑偏**(如 REASON 中途拐去辩另一面)→ 点出跑偏+给该 frame 纪律;③ **优化器规划**→ fast&rough 逼开口。三种解法不同,先判哪种。
+- **⚠️ 几种"卡"要分清(先判哪种,解法不同)**:① **没想法(content-generation,COMPARE/ENUMERATE 高发)**→ 喂 1-2 个内容点(想法,非词),她跑框架;② **有想法但组装跑偏**(如 REASON 中途拐去辩另一面)→ 点出跑偏+给该 frame 纪律;③ **优化器规划(找最优解)**→ fast&rough 逼开口;④ **抽象/经济题语言卡(意思有、词出不来,她常给完整中文)**→ **喂 floor 词,真源 = `speaking-band7/p3_abstract_floor_vocab.md`**(她真卡词+per域降级表+万能壳);给中文→floor 降级表的形式喂(见 6/26 session),让她看降级反射。
+- **⭐ 每答收尾必给「润色范文」(suzy 6/26 定,P2/P3 通用,硬规则)**:无论 fast 多糙,**每题/每篇答完都给一版降级到她水平的 clean 范文**供她学(对齐 CLAUDE.md「精修版+范文都给」)。**尤其她当场没产出/没想到的部分(如缺的 LAND、没搭出的机制)必须在范文里补全示范**——她原话"我一时想不到好的,你给我一个能学的"。⚠️ 和 fast 不冲突:她的回合求快不打断(糙就糙),**答后那版 clean 范文照给**(产出求快、收尾给范本,两件事)。
 - **⚠️ 长度检查(在 3-5 句 band 内,不是越长越好,每题必扫)**:目标 ~3-5 句 / ~40-65 词 / 30-50s。
   - **太短**(≤3 句 / <~35 词 / "啪一下就完了") → **加一拍**:给某个点**加一层展开**(`— you've got to picture a solution that isn't there yet`) 或一句 **land**(`So honestly… / To be fair…`)。**绝不加第 5 个列举项、绝不换大词**(同 P2 EXPAND DON'T UPGRADE / bare claim 后"再加一层")。
   - **太长 / 铺成两段** → 提醒**跑完脊就下车**(别注水、别铺两个对比、别列 5 点)。**P3≠P2 三阶段加长。**
@@ -72,14 +73,15 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 - **combined 轨**:做完一张 P2(cue-driven)立刻接它底部 6 个 P3,同域升抽象(personal→general);贴 `coach/full_pass.md` Round 2。详见 `p3_training_plan.md`。
 
 ## End-of-Session（强制,流程被打断也补)
-1. 写 `speaking-band7/coach/sessions/YYYY-MM-DD.md` —— **详细到可复习**:每题 题目→suzy 逐字原句→诊断(🔴🟡 逐条)→精修版→**整篇修复版(clean,可 shadow)**→教的表达。点+面都给。
+1. 写 `speaking-band7/coach/sessions/YYYY-MM-DD.md` —— **详细到可复习；每题"三样全文"必录(suzy 6/27 硬要求,缺一不可)**:① **suzy 逐字原句**(她真说的;语言卡给中文时记她的中文意图) ② **精修版**(原句小改纠错) ③ **润色范文全文**(降级 Band7 clean,可 shadow)。**⚠️ 严禁"见对话"/缩写/省略范文全文**——session 文件 = 她唯一复习材料,缩写=她没法复习,流程被打断也要把三样补全。另加诊断(🔴🟡 逐条)+ 教的表达。点+面都给。
 2. 更新 `coach/inventory.md`(cold 计数/毕业/新≤15) + `coach/content_bank.md`(真实珠子回填 persona) + `coach/error_log.md`(复发/新 pattern)。
 3. 更新 `daily_log.md` + `study_hub.md` 顶部"当前进度"块。
 4. **被 study-coach 编排时**:产出后扫当天的"共同准确性焦点"(study-coach 设),并把口语弱点连到写作孪生(见 study-coach 弱点谱)。
 
 ## 关联
 - **P2 真源(五件套)**:`speaking-band7/cue_driven_p2.md`(方法+SHOW/TELL/JUDGE) / `p2_frames_and_swaps.md`(9骨架+降级词+地板) / `p2_card_specs.md`(54张spec) / `p2_answers_tagged.md`(逐句标签成品) / `p2_supplement_techniques.md`(补充招)。
-- **P3 真源(四件套,6/23 建)**:`speaking-band7/function_driven_p3.md`(方法+8 function+STAND/SPLIT/SORT+universal spine) / `p3_frames_and_swaps.md`(8 frame 填空骨架+降级词) / `p3_answers_tagged.md`(逐句标签 GROUND TRUTH,所有 glue re-derived FROM 324 答案 corpus) / `p3_training_plan.md`(两轨训练编排:standalone + combined P2+P3)。**旧 `03_question_types.md` §P3 五框架已被本 8-function 系统取代,退到参考。**
+- **P3 真源(五件套,6/23-26 建)**:`speaking-band7/function_driven_p3.md`(方法+8 function+STAND/SPLIT/SORT+universal spine) / `p3_frames_and_swaps.md`(8 frame 填空骨架+降级词) / `p3_answers_tagged.md`(逐句标签 GROUND TRUTH) / `p3_training_plan.md`(两轨训练编排) / **`p3_abstract_floor_vocab.md`(6/26 建·抽象/经济话题 floor 词速查表:她真卡词+ECONOMY/EDU/TECH/WORK 域降级表+万能壳·治"意思有词出不来")**。**旧 `03_question_types.md` §P3 五框架已被取代,退到参考。**
 - **P1 真源**:`speaking-band7/05_path.md`「教练执行手册」+ `03_question_types.md`(P1 部分) + `personas.md`。选题:`question_bank.md`(只大陆题)。(04_toolkit §11 旧三阶已被 P2 协议取代。)
+- **跨技能随身工具(6/26 建,speaking+writing 通用)**:`speaking-band7/p3_abstract_floor_vocab.md`(概念→floor 词,治"够不到词")+ `speaking-band7/literal_translation_floor_frames.md`(中英差异→floor 框架 14 类,治直译反射;挖自她真实直译错)。答后扫 + 喂词时引用这两张。
 - 编排入口:[[../study-coach/SKILL.md]] / 写作臂:[[../writing-coach/SKILL.md]]
 - 记忆:project_speaking_templates(P2系统) / feedback_speaking_spoken_downgrade(降级+地板) / feedback_speaking_decompress_not_pad / feedback_output_gap / feedback_coach_drives_recall / feedback_speaking_self_paced

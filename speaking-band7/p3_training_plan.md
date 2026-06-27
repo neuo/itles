@@ -224,7 +224,7 @@ P2 末 bullet 的 **EXPLAIN=LAND**（`The reason I like it is [角度], because 
 
 ## 真源声明 / cross-links
 
-- **本文件 = 训练 SCHEME（怎么练）**；frame 内容真源在 [[function_driven_p3.md]]（METHOD）/ [[p3_frames_and_swaps.md]]（骨架+降级词）/ [[p3_answers_tagged.md]]（GROUND TRUTH，所有 opener glue / land tic 从 corpus 324 答案 re-derived）。
+- **本文件 = 训练 SCHEME（怎么练）**；frame 内容真源在 [[function_driven_p3.md]]（METHOD）/ [[p3_frames_and_swaps.md]]（骨架+降级词）/ [[p3_answers_tagged.md]]（GROUND TRUTH）/ **[[p3_abstract_floor_vocab.md]]（抽象/经济话题 floor 词速查·"语言卡"时的喂词真源）**。
 - **voice 对齐** [[../.claude/skills/speaking-coach/SKILL.md]]「🎯 P2 实战协议」块（P2 无独立 plan 文件，协议活在 skill 里；本 P3 plan 是它的 P3 镜像）+ P2 五件套 [[cue_driven_p2.md]] / [[p2_frames_and_swaps.md]] / [[p2_answers_tagged.md]] 的"背 glue 填珠子"哲学。
 - **轨二挂载点** = [[coach/full_pass.md]] Round 2（"P2 + P3 一起"）。
 - 旧 [[03_question_types.md]] §P3 的 5-frame 已被 8-function 系统取代（5-frame 漏了 ENUMERATE=最高频、TWO-SIDED、FREQUENCY；Hypothetical/Should 并入 OPINION）——旧 5-frame 退到参考，**以本系统 + corpus 为准**。

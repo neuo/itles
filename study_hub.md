@@ -8,7 +8,11 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-上次 = 2026-06-25 — 🎙️ **首次 P2+P3 合练（老08 App）⭐ fast&rough 模式破"10 分钟规划 freeze"**；口语主攻，写作 suzy 自管 on-demand。
+上次 = 2026-06-26 — 🎙️ **P2+P3 合练 ×2（新18 京都）⭐ 规律:具体题自驱/抽象题语言卡 + 元认知抬头**；口语主攻，写作 suzy 自管 on-demand。
+🆕 **6/26 合练2 最清规律**：① **具体题（去哪/怎么查）fast 自驱、内容自己出；抽象/经济推理题（理想时长/为啥吸引游客/怎么定时间）一律"语言卡"→ 给完整中文+留空 land**。每次卡她意思全有，缺的就是 floor 英文 → **"散句不垮垮的是词"精确定位到"抽象/经济类话题词"= 她下一步最该攒的（不是结构、不是连接，就是这类话题的 floor chunk）。** ② **元认知抬头**：P2 自查缺 land / Q3 自问要不要 land / Q5 自查长度 / Q6 自留 land 槽 = 脊在脑里成型、主动 audit 自己结构。③ **过程升级（入 skill）**：每答收尾给降级润色范文，她没产出的部分（land/机制）范文补全。④ 攒了一批**万能壳**（LAND `So I'd recommend it to anyone who wants ___` / `So really, it's a mix of ___ and ___` / 列项 `+where they can ___` / REASON `Mainly X, I'd say→Plus→So overall`）。🔴 Pattern 8 复发 sand→sandy。
+🆕 **6/26 建 `p3_abstract_floor_vocab.md`（抽象/经济话题 floor 词速查表）**：从 324 corpus + 6/24-26 真卡词挖，治"意思有、词出不来"。⭐15 真卡词块 + ECONOMY/EDU/TECH/WORK 4 域降级表 + 万能壳（REASON/LAND/列项/concede 壳）+ 答后必扫。已接进 skill（第④种"卡"=抽象语言卡→喂词真源）+ P3 五件套。**她该背的就这张**（结构/连接已会，缺的就是这些抽象词的 floor 版）。
+🆕 **6/26 再建 `literal_translation_floor_frames.md`（中英差异→floor 框架·治直译反射）**：挖自她 29 speaking+23 writing sessions+2 error 目录的真实直译错，按 14 类系统性中英差异归类（VERB-PREP/AGREEMENT-TENSE/ARTICLE-COUNT/ABSTRACT-LITERAL/NEAR-WORD/SET-PHRASE 为大头）。**跨技能工具**（speaking+writing 通用）。⭐5 陷阱 + 3 总反射 + ①-⑥ 重点背（⑦-⑭ 查询参考）。**两张随身表配套**：词表=概念→词（够不到词），直译表=结构→框架（搭法被中文带歪）。已接 skill + 接 p3 floor vocab。
+（6/25 = 首次合练 老08 + fast&rough 模式破 freeze。）
 🆕 **6/25 合练突破**：① 她指出"P3 考场只 40s 我却想 10min"→ 切 **fast&rough**（8 秒必开口/第一个想到就说/教练不喂/求不卡不求好）→ Q3-Q6 全秒开口、无长空白。**诊断=她的卡常是"优化器找最优解"非死机,fast 逼她关掉规划模式=P3 核心训练,已入 skill 默认。** ② **内容自驱抬头**（Q1 没想法要喂→Q5/Q6 自己生成 WeChat/Meituan+两机制）。③ 两种卡分清:没想法(喂内容)/组装跑偏(给 frame 纪律)/优化器(fast 逼开口)。④ 🔴 a/an 元音前本周 3 次(a old/a internet/a interesting)→专记死规则;固定搭配 stuck-in→hooked/pay attention to/be used to+ing。
 （6/24 = 建 P3 系统 + 首战 ×6；6/23 = P2 cold ×2 新25/新12 结构层自我把关。）
 🆕 **6/23 进展**：cold 累计 **12 张**。

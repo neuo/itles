@@ -78,8 +78,8 @@
 **Surface:** Wrong word class — noun used where adjective is needed.
 **Deep:** In Chinese, nouns can directly modify nouns (麻烦的事 → 麻烦 functions flexibly). In English, the adjective form is required. The learner reaches for the most familiar form of the word without checking its grammatical role.
 **Fix:** When modifying a noun, ask: is this word actually an adjective? Common pairs to watch: trouble/troublesome, challenge/challenging, stress/stressful, embarrassed/embarrassing(ly).
-**Status:** Recurring. 4/19 复发："embarrassedly bad" → embarrassingly bad。4/23 复发："Classics programmer habit" → Classic（名词复数误用为形容词）。6/22 复发：「snow mountains」→ **snow-capped / snowy mountains**（snow 名词直接修饰名词，应用形容词形式）。
-**Occurrences:** 4
+**Status:** Recurring. 4/19 复发："embarrassedly bad" → embarrassingly bad。4/23 复发："Classics programmer habit" → Classic（名词复数误用为形容词）。6/22 复发：「snow mountains」→ **snow-capped / snowy mountains**（snow 名词直接修饰名词，应用形容词形式）；6/26 复发：「sand beachs」→ **sandy beaches**（sand→sandy 同根，且 beachs→beaches 拼写）。**规律:名词修饰名词时先想形容词形式(snow→snowy/snow-capped, sand→sandy)**。
+**Occurrences:** 5
 
 ---
 

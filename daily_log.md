@@ -2553,3 +2553,13 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🔴 error zone：固定搭配（stuck in→hooked[喂了还掉] / search for / pay attention to / be used to+ing）> 冠词（**a/an 元音前本周 3 次** a old/a internet/a interesting→专记死规则）> -s（多加 older peoples / content is）。leak 仍集中"够抽象词那一下"（cheap→shallow / recognize→handle）。
 - **STAND/SPLIT/SORT 没再判错**（昨日糊涂边界改善）。
 - 进度：合练轨二跑通 + fast 模式是大突破。下次合练换张 P2+P3 继续；P3 默认 fast。
+
+## 6/26（P2+P3 合练 ×2 新18 京都 · ⭐ 具体题自驱/抽象题语言卡）
+- 轨二 combined 第二练：P2 新18 京都（cold，强——ONE-MOMENT 河边+情绪弧+old/new 对比画面；漏 LAND 当场想不到→教 land 壳；净 ~6.5）→ 6 个配套 P3（travel/holiday 域，全程 fast&rough）。
+- ⭐⭐ **最清规律 = 具体题自驱 / 抽象题语言卡**：Q1 去哪、Q3 怎么查（具体可指认）→ fast 自驱、内容自己出；Q2 时长/Q4 计划价值/Q5 经济/Q6 时间决策（抽象/经济推理词）→ **一律语言卡，给完整中文+留空 land**。每次卡她意思全有（中文完整、甚至自留 land 槽），缺的就是 floor 英文 → "散句不垮垮的是词"**精确定位到"抽象/经济类话题词"= 精确缺口**。
+- ⭐ **元认知抬头**：P2 自查缺 land / Q3 自问要不要 land / Q5 自查长度（实测 42 词在 band）/ Q6 自留 land 槽 → 脊（STANCE→because→eg→land）在脑里成型，主动 audit 自己结构 = 从"会说"到"会判断"。
+- 🔑 攒万能壳（她要复用）：LAND `So I'd recommend it to anyone who wants ___` / `So really, it's a mix of ___ and ___` / 列项 `+ where they can ___` / REASON `Mainly X, I'd say → Plus → So overall` / 长度自判 4 句~45-55 词。
+- 🛠️ **过程升级（她 6/26 定，入 skill）**：每答收尾必给降级润色范文，她当场没产出的部分（land/机制）在范文里补全示范。
+- 🔴 error zone：固定搭配/介词（four times 不加 for / on the internet / what...is like 嵌入语序）> 名词当形容词（**Pattern 8 复发 sand→sandy**，同 snow→snow-capped）> -s（it blend）。a/an 本张守住。STAND/SPLIT/SORT 判类没再错。
+- 下一步：**给她做一份"抽象/经济话题 floor 词速查"背**（income/jobs/economy/culture/timing 这类一来就卡的）——这是她现在最该攒的一块。继续合练 + 让她自查。
+- 🛠️ **建 `p3_abstract_floor_vocab.md`（抽象/经济话题 floor 词速查表）**：工作流从 324 corpus + 6/24-26 真卡词挖 → 我审收口（修 10 处 floor 违规如 at-your-fingertips/hard-graft/pivot 降级、软化 provenance 不夸大 verbatim、拆多句格、砍臃肿到 ⭐15+4 spine 域+thin 附录、去重）。治"意思有、词出不来"。含 ⭐ 真卡词块 + ECONOMY/EDU/TECH/WORK 降级表 + 万能壳 + 答后必扫。接进 skill（第④种卡=抽象语言卡→喂词真源）+ P3 五件套 cross-link。**她现阶段最该背这一张**（结构连接已会，缺的就是抽象词 floor 版）。

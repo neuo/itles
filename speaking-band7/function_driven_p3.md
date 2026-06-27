@@ -454,4 +454,4 @@ That's brilliant for [好处]. Having said that, [一个 downside].
 - 对齐 P2 五件套（[[cue_driven_p2.md]] / [[p2_frames_and_swaps.md]] / [[p2_card_specs.md]] / [[p2_answers_tagged.md]] / [[p2_supplement_techniques.md]]）的结构、voice、「背 glue 填珠子」哲学。
 - 关键 ruling（6/23）「散句不垮、垮的是词」：P3 frame **不重教连接词**（她已 cold own），只 ship per-function opener glue + floor-level abstract-noun 预载 swap。
 
-**配套文件**：填空骨架 + 降级词 [[p3_frames_and_swaps.md]] · 逐句标签成品语料（真源） [[p3_answers_tagged.md]] · 训练计划 [[p3_training_plan.md]]。
+**配套文件**：填空骨架 + 降级词 [[p3_frames_and_swaps.md]] · 逐句标签成品语料（真源） [[p3_answers_tagged.md]] · 训练计划 [[p3_training_plan.md]] · **抽象/经济话题 floor 词速查 [[p3_abstract_floor_vocab.md]]（治"意思有词出不来"）**。
