@@ -23,9 +23,9 @@
 
 ---
 
-# 📍 按频次排序的 15 类（高频在前）
+# 📍 按频次排序的 16 类（高频在前）
 
-> ⭐ **背诵 vs 参考**：真正要**背成反射**的 = 上面的 **⭐5 陷阱 + 下面 3 个总反射 + ①-⑥ 这 6 张**（占你直译错的绝大多数）。**⑦-⑮ 是查询参考，别硬背**——犯到了来查、对一下框架即可。（⑮ DUMMY-IT 是例外：它是你缺的结构，值得主动背 `make it + X`。）
+> ⭐ **背诵 vs 参考**：真正要**背成反射**的 = 上面的 **⭐5 陷阱 + 下面 3 个总反射 + ①-⑥ 这 6 张**（占你直译错的绝大多数）。**⑦-⑮ 是查询参考，别硬背**——犯到了来查、对一下框架即可。（⑮ DUMMY-IT + ⑯ DUMMY-THERE 是例外：两个虚位主语是你缺的结构，值得主动背 —— `make it + X`（让/使）+ `There's / There are`（有/存在）。）
 
 ## ① VERB-PREP 动词配错介词（你最大的直译雷区）
 
@@ -322,6 +322,24 @@
 | 我推荐给任何想…的人 | recommend to anyone… | I'd recommend **it** to anyone who… |
 
 > 🔑 **自查规则**：**中文"让…变得 X""…很重要/值得"——英文先甩一个占位 it**：`make it + 形容词/名词` / `it's + 形容词 + to do` / `find it + 形容词`。背熟 `make it + X` 这个壳主动调（你已会用 makes it too easy / it's worth it / recommend it to anyone，只是没意识到是同一个可复用壳）。
+
+---
+
+## ⑯ DUMMY-THERE 占位主语 there（中文"有/存在"没有 → 你退回 they are / 被动）⭐ 6/28 suzy 自己发现
+
+> **中文习惯**：中文"（某处）有 X / 存在 X"不用占位主语（直接"有很多工作"）。英文要 **There + be + X**——there 是虚位主语，中文没这个槽 → cold 时你想不到，会退回 `they are`（They↔There 音近误用）/ 主语+have / 被动 `X are provided`。**和 ⑮ DUMMY-IT 同一根：英文两个虚位主语 there/it，中文都没有。**
+
+| 中文这么想 | ❌ 你真犯过（6/28） | ✅ floor 英文框架（背这个） |
+|---|---|---|
+| 有很多工作 | **They are** loads of jobs | **There are** loads of jobs（They=他们/There=有，音近别混） |
+| 城市里有更多工作 | many jobs **are provided** in cities（被动绕） | **There are** way more jobs in cities |
+| 大城市有很多设施 | big cities **have got** facilities（想说"有"时） | **There are** loads of facilities in big cities |
+| 有两个原因 | （想不到 there）two reasons… | **There are** two reasons |
+| 没必要做某事 | it's no need to… | **There's no point (in)** doing |
+| 它有种平静感（接 ⑦） | it gives a peaceful feeling | **There's something** peaceful **about it** |
+
+> 🔑 **自查规则**：想说**"有 / 存在 X" → 先甩 `There's`(单/不可数) / `There are`(复)**，be 跟后面名词变数；过去 `There was/were`、将来 `There'll be`。别用 they are、别用被动。**`There are loads of ___` 是 SORT 列举起手神器，背到自动。**
+> 🔑 **there + it 配对记**："**有** X" 用 **there**；"**让/使**某事 X" 用 **it**（make it + X）。两个虚位主语一起装。
 
 ---
 
