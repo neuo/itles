@@ -2571,3 +2571,11 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - ⭐⭐ **两个 reframe**：① **用词多样性**——她"卡有时是不想重复用词，但太 low 也影响分"。→ **LR 三档**（太low封顶6 / ⭐Band7甜区=地道短语块大白话组合 / 太高essay卡死）；**从 low 升 7 靠地道 chunk 不靠难词**；在场上别为不重复卡死（=优化器），地道块靠提前背自动出。呼应 feedback_priority_structure_over_vocab。② **占位 it = 中英差异**——她自己赞 `make it their duty` 的 it"很难想到"（中文没虚词占位）→ 教 make it+X / it's+adj+to do / find it+adj，已加进 literal_translation_floor_frames 新⑮ DUMMY-IT。
 - 元认知续好（Q5 自说"land 没想法"、Q6"想扩充没思路"=知道缺哪拍）。
 - 进度：经济域 floor 词进 production；两 reframe 落地接系统。下一步：6/22 那 3 个复发 chunk 当固定块单独滚 + 轮其他域（教育/科技/社会）练 floor 词 + 继续 fast&rough+每答给范文。session 已含 7 篇范文全文（新规范）。
+
+## 6/28（复习抽查 6 题 + P2+P3 合练 新15 语言学习 · ⭐ 换域 EDU）
+- 开场全貌复习 6/25-27 → 主动抽查 6 题，**她答得很强基本全过**：chunk 3 个全对（got into it / with my son sitting / something）、占位 it 两个全对、直译 ⭐5 陷阱 **5/5 全对**（连 grow up→going up 一起修）。🟡 弱点 2 个：**REASON 壳仍漏 Plus**（6/27+6/28 连续两次）+ 经济链 `good AT`→**good FOR** / `a huge of income`→**a lot of money**。
+- P2 新15 语言学习（老婆 persona，cold ~190 词，**强**）：结构全、补充招 `who's really good at`(relative) 用上、好 chunk 一堆（right up until / chips away / plenty on her plate）。🔴 错落头号区 **介词/搭配**：been **to** Japan / admire her **for** / a talent **for** / The way she learns（非 method）/ have **been married**（非 got married for）+ -s（watches/stops）+ 可数（languages/work）。净 ~6.5。
+- 6 个 P3（**教育/语言域，首次换 EDU 域**，全程 fast&rough）：⭐ **自驱度高**——6 题 4 题机制自驱（Q1 把"重读轻说听"自己点出=三通路诊断本人 / Q4 REASON 壳开对 / Q5 漂亮 SORT 3 项 / Q6 stance+机制+land）；只 Q2 下半（没想法→喂例子）+ Q2 让步/Q6 补充（语言卡→喂 floor）+ Q3 用喂内容。EDU floor 进 production（soak it up like a sponge / not afraid of mistakes / come in handy / now and then / walk you through it / from A to B to C / stuck in their ways / the trap most of us fall into）。
+- 🔴 error zone 续 = **介词/搭配头号（本场 6 处）** > 名词作形容词（**foreigner→foreign**，今日盯点命中，Pattern 8 第 6 次）> -s/可数 > 形近词（staff→stuff / greet→great / course→subject，Pattern 16 三连）。✅ **a/an 全场零失误**——连续盯 5 天后首次 clean，自动化在建。
+- ⭐ 元认知续强：Q5 后自己回去补例子、Q6 自己要加"别做啥+land"=主动 audit 结构。
+- 进度：换域成功（经济×2/tech×1/travel×1 后补 EDU）。下一步：REASON 壳 Plus 槽当固定块滚（下次开场必抽）+ 介词当固定块滚（been to/graduate from/admire for/talent for/rather than）+ 继续轮域（社会/科技/健康）。session 已含 P2+6 P3 三样全文（原句/精修/范文，新规范）。

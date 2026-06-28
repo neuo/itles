@@ -113,3 +113,25 @@ suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不�
 | 抽象/不可数**零冠词** | tourism/money/advice/information/research（不加 a/the）| 0 — 6/18 教 | "the tourism" 多加 |
 
 **🔑 方法 chunk（非词，是习惯）**：**降级 + 倒珠子**（见 error_log Pattern 21 / full_pass.md）。每次 cold 前提醒：别造书面句，倒 4 颗珠子用大白话串。
+
+---
+
+## 6/28 更新（合练 新15 语言学习 · EDU 域）
+
+**cold count +1（今日成功产出）**：
+- `quite a few` — 6/28 Q1 "quite a few, I'd say" cold ✓ → 不再是 0（1 ✓）
+- `On top of that`（论点连接变体组）— 6/28 Q5 又用 ✓
+- `right up until` / `chips away at it` / `that kind of thing`(已毕业) / `plenty on her plate` — P2 cold 自然产出 ✓
+
+**新增（EDU/语言域捕获 · 高价值降级 chunk · 待背滚）**：
+| Expression | Meaning | Cold count | 来源 |
+|------------|---------|-----------|------|
+| `come in handy (now and then)` | 派上用场（偶尔）| 0 — 6/28 喂 | Q2 让步 floor |
+| `walk you through it` | 手把手教 | 0 — 6/28 喂 | Q5 补例子 |
+| `from A, to B, to C` | 列项挂细节壳（=`where they can ___` 一类反射）| 0 — 6/28 喂 | Q5 "from university courses, to someone walking you through it, to how-to demos" |
+| `soak it up like a sponge` / `not afraid of making mistakes` / `dive in` | 孩子学得快（EDU floor）| 0 — 6/28 喂 | Q4 范文 |
+| `stuck in their ways` | 固守旧习（替代直译 stay here）| 0 — 6/28 喂 | Q4 |
+| `the trap most of us fall into` | 大多数人踩的坑 | 0 — 6/28 喂 | Q6 land |
+| 🔴 **REASON 满壳含 `Plus`** | Mainly X → because 机制 → **Plus** 第二因 → So overall | 抽查连续 2 次漏 Plus（6/27+6/28）| **下次开场必抽,当固定块滚** |
+
+**🔴 介词当固定块滚（6→6.5 主扣分,本场 6 处）**：been **to** Japan / graduate **from** university / admire sb **for** / a talent **for** / rather **than** / be used **to** + 名词/-ing。
