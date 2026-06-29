@@ -159,3 +159,22 @@ suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不�
 | 🆕 **给 it 起名反射** | 一句两个东西别都用 it，给一个起名 | — 6/28 教（她自己发现歧义）| Q4 |
 
 **🔴 新主扫点（本场主漏）= 可数/单复数**：每个名词问"该单还是复? 该不该加 a?"（primary school 单 / classmates 复 / different lives 不加 a）。**讲过去故事 = 全程过去式**（中段易滑回现在）。
+
+---
+
+## 6/29 更新（合练③ 新16 AI · 科技域）
+
+**⭐ 自查能力上线（cold 中自纠，最强信号）**：`AI help→helps`（-s 自纠）、`Not always→loads of ways`（判类自纠）= 从答后被纠升到产出中自纠。占位 it `It is so convenient for...to` 再用对。过去故事时态 P2 全程守住。
+
+**新增（AI/科技域捕获 · 待滚）**：
+| Expression | Meaning | Cold count | 来源 |
+|------------|---------|-----------|------|
+| `a real mixed bag` | 利弊参半（TWO-SIDED 开口）| 1 ✓ — 6/29 Q1 | AI adv/disadv |
+| `takes the chores off your plate` | 帮你干杂活 | 1 ✓ — 6/29 Q1 | |
+| `keep up with the times` / `get to grips with` | 跟上时代 / 上手掌握 | 1 ✓ — 6/29 Q2 | |
+| `resist the temptation` | 抵抗诱惑 | 1 ✓ — 6/29 Q5 | |
+| `chip away at` | 逐渐侵蚀（技能）| 0 — 6/29 喂 | Q1 |
+| `a tool, not a crutch` | 当工具不当拐杖 | 0 — 6/29 喂 | Q5 |
+| `track it down` | 查出根源 | 1 ✓ — 6/29 P2 | |
+
+**🔴🔴 第一主扫点（已超介词）= 可数/单复数/冠词**：本场几乎每题漏（requests/logs/cluster/plans/students/work/a good idea/teachers/**a→an answer**）。答后扫每名词问"泛指该复数吗? 加 a/an 吗?"。a/an 元音前继续盯（检索不稳）。

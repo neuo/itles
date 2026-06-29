@@ -2588,3 +2588,11 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🔴 error zone：**可数/单复数升为新主扫点**（本场主漏 4 处）> 过去故事时态（中段滑回现在）> 搭配（get out with→get on with/look after→keep up with/can't get online 漏动词）。
 - 🔁 复发微缺口：**"land 需要新内容"误解**（卡 big cities/Q3 两次）→ 教"land=recap"后 Q4/Q6 自己应用成功。
 - 进度：复习→落地链条跑通，印证 suzy"复习是唯一机制"。下一步：下次开场必抽 REASON Plus + **FREQUENCY 记者/评委判类（最顽固 3 次）** + there/it + "land=recap"；可数/单复数当新主扫。
+
+## 6/29（合练③ 新16 科技问题/AI 域 · ⭐ 自查能力上线 + 可数成头号漏点）
+- 复习抽查③（进套题前）：**FREQUENCY 判类第一次自己判对**（"Do people use cash much"→SORT，3 次错后翻篇）+ 可数 3/3 + there/it 全对 = 软点在变硬。
+- P2 新16 系统宕机 debug（speaker/CS，cold 强 ~230）：⭐ **过去故事时态全程守住**（上一场 flag 的"中段滑回现在"修复）+ 换新故事没复用 + went down/root cause/stop the bleed/buzzing with alerts 地道。🔴 respond **to** requests（词类+介词+可数）+ 可数（logs/cluster）。
+- 6 个 AI P3（fast&rough）：⭐⭐ **自查能力上线（最大进步）**——cold 产出中**自己改对** `AI help→helps`（-s）、`Not always→loads of ways`（判类），从"答后被纠"升到"产出中自纠"。占位 it 反复用对（makes it easier / It is so convenient for...to）。判类全对。
+- 🔴🔴 **本场铁打头号漏点 = 可数/单复数/冠词**（几乎每题）：requests/logs/cluster/plans/students/work/a good idea/teachers/**a answer→an answer**（a/an 又冒头=检索不稳）→ **已超过介词成第一主扫点**。
+- 地道 chunk：mixed bag/takes chores off your plate/resist the temptation/keep up with the times/get to grips with/chip away at/copy and paste without thinking。
+- 进度：自查能力上一层（产出中自纠 -s/判类）。下一步：把自纠引导到可数/单复数；下次抽 FREQUENCY 再确认毕业 + 可数当第一主扫。
