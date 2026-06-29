@@ -178,6 +178,12 @@ It cuts both ways, honestly.  →  On the plus side, [好处].  →  But the dow
 **⑥ 长度自判**：4 句 ~45-55 词 = 在 band 内不算短。太短就**加一拍展开/land**，别硬加列举项（冷扫死机）。
 
 > 🔑 **区分测试**（先判这题在干嘛，再选壳）：答完你在**捍卫立场**[STAND→壳④⑤] 还是**列例子**[SORT→壳①③] 还是**对比两个东西**[SPLIT→壳②]？
+>
+> ⚠️ **"记者 vs 评委" tell（治你连续 3 次把 FREQUENCY 判成 STAND · 6/24+6/28×2）**：
+> - **STAND = 当评委**：给**你的判断**（好不好/该不该/你信哪个）。tell = 问 **"Do you think…?" / "Should…?" / 带 good·important**。opener 蹦**判断词**（Definitely / Not really）。
+> - **SORT = 当记者**：**报道现状**（实际多少人/哪些人/什么趋势）。tell = 问 **"Do people…? / Are there many…? / Where do people…?"**（问大家实际怎样，不是问你看法）。opener 蹦**数量词**（Quite a few do / Not as many as before / Mostly young people）。
+> - 破陷阱：`Do…` 开头 + yes/no 长相会**伪装成 STAND**——**只看主语**：问 **people/they/大家**=现状=SORT；问 **you/should/important**=判断=STAND。
+> - 🧷 **问"大家咋样"=记者=SORT；问"你咋看"=评委=STAND。**
 
 ---
 

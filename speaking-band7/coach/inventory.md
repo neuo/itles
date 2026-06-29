@@ -135,3 +135,27 @@ suzy 认同"背躲不掉",但要求**教练主动反复提醒待背 chunk**,不�
 | 🔴 **REASON 满壳含 `Plus`** | Mainly X → because 机制 → **Plus** 第二因 → So overall | 抽查连续 2 次漏 Plus（6/27+6/28）| **下次开场必抽,当固定块滚** |
 
 **🔴 介词当固定块滚（6→6.5 主扣分,本场 6 处）**：been **to** Japan / graduate **from** university / admire sb **for** / a talent **for** / rather **than** / be used **to** + 名词/-ing。
+
+---
+
+## 6/28 更新②（合练 新07 发小 · 社会/友情域 · 同一连续 session）
+
+**⭐ 当天学的当场落地（cold count +1，最强信号）**：
+- `admire sb **for**` — 早上 P2 纠 → 同场 P2 又用对 ✓（即时纠正即时用易留）
+- `there is / there are` — 上午教 → P3 多次主动用对 ✓（Q1 两次等）
+- `make it + adj`（占位 it）— Q3/Q4/Q6 反复用对 ✓
+- `Plus`（REASON/列点第二槽）— Q2/Q4 用上 ✓
+- "land = recap 不是新内容" — 卡两次后教 → Q4/Q6 **自己收 land 成功** ✓
+
+**新增（友情/社媒域捕获 · 待滚）**：
+| Expression | Meaning | Cold count | 来源 |
+|------------|---------|-----------|------|
+| `drift apart` | 渐行渐远 | 0 — 6/28 喂 | Q1 |
+| `get on with others` | 与人相处（on 不是 out/with）| 0 — 6/28 纠 | Q2 |
+| `nothing beats meeting in person` | 面对面无可替代 | 0 — 6/28 喂 | Q3 land |
+| `on the same wavelength` | 合拍 / 聊得来 | 0 — 6/28 喂 | Q5 |
+| `it comes down to whether you click` | 关键在合不合拍 | 0 — 6/28 喂 | Q5 land |
+| `saved the day` / `line by line` | 力挽狂澜 / 逐行 | 1 ✓ — 6/28 P2 cold 自产 | P2 |
+| 🆕 **给 it 起名反射** | 一句两个东西别都用 it，给一个起名 | — 6/28 教（她自己发现歧义）| Q4 |
+
+**🔴 新主扫点（本场主漏）= 可数/单复数**：每个名词问"该单还是复? 该不该加 a?"（primary school 单 / classmates 复 / different lives 不加 a）。**讲过去故事 = 全程过去式**（中段易滑回现在）。

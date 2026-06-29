@@ -2579,3 +2579,12 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🔴 error zone 续 = **介词/搭配头号（本场 6 处）** > 名词作形容词（**foreigner→foreign**，今日盯点命中，Pattern 8 第 6 次）> -s/可数 > 形近词（staff→stuff / greet→great / course→subject，Pattern 16 三连）。✅ **a/an 全场零失误**——连续盯 5 天后首次 clean，自动化在建。
 - ⭐ 元认知续强：Q5 后自己回去补例子、Q6 自己要加"别做啥+land"=主动 audit 结构。
 - 进度：换域成功（经济×2/tech×1/travel×1 后补 EDU）。下一步：REASON 壳 Plus 槽当固定块滚（下次开场必抽）+ 介词当固定块滚（been to/graduate from/admire for/talent for/rather than）+ 继续轮域（社会/科技/健康）。session 已含 P2+6 P3 三样全文（原句/精修/范文，新规范）。
+- **加练（她点的 Drill A+B + there's 教学）**：介词 6/6、REASON 壳 **Plus 槽 2/2 锁定**（抽查连漏 2 次今天补上）、学到"So overall=recap 不是新内容"；判类 7/8（⭐ 拿下 CHANGE→SPLIT；🔴 唯一漏 FREQUENCY"Are there many"判成 STAND=6/24 同边界又踩）。**she 自己发现"there's 不会用"** → 教 **There+be=虚位主语**（中文没有→退回 they are/被动），和占位 it 配对（有X用there/让某事X用it），已接进直译表 ⑯ DUMMY-THERE。
+
+## 6/28→29（同一连续 session · 复习抽查② + 合练② 新07 发小 · ⭐ 当天学当场落地）
+- **复习抽查②（进新练习前抽今天软点，suzy 要求复习也写 log）**：REASON 壳 pet 题=语言卡（给 floor 范文）；FREQUENCY 判类**第三次踩同坑**（"Do people read a lot"判成 STAND）→ 教 **"记者 vs 评委"底层逻辑**（STAND=当评委给判断 / SORT=当记者报道现状；"Do you think"=评委 / "Do people·Are there many"=记者）+ 验证 2 题全对，已接进 p3_abstract_floor_vocab 区分测试；there/it 两个虚位主语全对。
+- **合练② P2 新07 发小**（Zhangwei，NARRATE crash 故事，强 ~190）：🔴 可数/单复数（primary schools/classmate/a project results）+ 过去故事时态（need→needed）+ 搭配（did programs→built/learn the ability→learn from him）；✅ **`admire him for`（早上才纠，同场保住）** + appositive + saved the day/line by line/stand out。
+- **6 个 P3（友情/社媒域，fast&rough）**：⭐⭐ **当天学的当场全落地**（最强信号）——`admire sb for`（早上纠→保住）/ `there is·are`（上午教→多次用对）/ 占位 it（Q3/Q4/Q6）/ "land=recap"（卡两次后教→Q4/Q6 自己收）/ 记者-评委判类（6 题全对，FREQUENCY 阴影散）。⭐ 元认知爆发：自己抓出 Q4"两个 it 谁是谁"歧义（→教"给 it 起名"）+ Q5 把"我觉得没区别"反转成 land。
+- 🔴 error zone：**可数/单复数升为新主扫点**（本场主漏 4 处）> 过去故事时态（中段滑回现在）> 搭配（get out with→get on with/look after→keep up with/can't get online 漏动词）。
+- 🔁 复发微缺口：**"land 需要新内容"误解**（卡 big cities/Q3 两次）→ 教"land=recap"后 Q4/Q6 自己应用成功。
+- 进度：复习→落地链条跑通，印证 suzy"复习是唯一机制"。下一步：下次开场必抽 REASON Plus + **FREQUENCY 记者/评委判类（最顽固 3 次）** + there/it + "land=recap"；可数/单复数当新主扫。
