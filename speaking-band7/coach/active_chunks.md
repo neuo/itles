@@ -41,6 +41,22 @@
 | 🔴 `pay attention to` / `be used to + V-ing` | 高频错搭配 → 当 reflex 滚 |
 | 🔴 `what the local culture's like`（嵌入句陈述语序） | 间接问句别用疑问语序 |
 
+### ⭐ Tier 2b · 题型结构壳（判完类直接接的开口/骨架 · 6/28-29 diff 补 · 高价值）
+> 你已练"记者/评委"判类——判完用这些壳接住，整篇就走对轨。
+
+| 题型 | 结构壳 | ⚠️ 你 cold 说成 |
+|---|---|---|
+| **STAND**（评委·首选） | `it's got to be ___` / `I doubt it` / `to some extent, yes` | — |
+| **TWO-SIDED**（利弊） | `On the plus side, … On the other hand, …` | "On the positive side"（可升级） |
+| **SPLIT**（对比） | `Whereas X are …`（一句合并对比，别同主语说两遍） | "While children are… kids…"（重复） |
+| **CHANGE**（变化·SPLIT） | `We used to …, but now …` | 产出了但断成两句漏 but |
+| **让步开口** | `Admittedly, … But …` / `But to be fair, …` | — |
+| **反面建议** | `What you shouldn't do is just ___` | 卡住 |
+| **land 变体** | `at the end of the day, …` / `that's the trap most of us fall into` | 没产出 |
+| **比较收尾** | `the sooner you ___, the better` | 没产出 |
+| **列举第一点** | `For one, …` / `Some people prefer X over Y` | "Someone prefer…rather than"（错） |
+| **个性化** | `for your own situation` / `come in handy now and then` | "based on your personal condition"（错） |
+
 ## Tier 3 · 话题甜区库（按域 · 参考挑用 · 不强背 · 卡了来抓）
 
 > 这些是 reuse=medium/low 的话题块。**不进 Tier 1 强背**，但答到对应域卡了就来抓（= 你两张 floor 表的口语成品版）。
