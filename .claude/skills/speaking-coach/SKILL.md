@@ -10,8 +10,9 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 
 ## 进场必读（每次)
 1. `study_hub.md` 顶部"当前进度"块 + `speaking-band7/05_path.md` 当日 entry(今天第几周 Day 几、该练什么)
-2. `speaking-band7/coach/error_log.md`(盯复发,尤其 Pattern 18 -s) + `coach/inventory.md`(待背 chunk + cold 计数)
+2. `speaking-band7/coach/error_log.md`(盯复发,尤其 Pattern 18 -s) + `coach/inventory.md`(待背 chunk + cold 计数) + **`coach/active_chunks.md`(本周活跃 chunk 集=范文−cold diff,suzy 6/29 定)**
 3. `coach/sessions/` 最近 1-2 篇 + `coach/content_bank.md`(当天 persona 珠子,pre-retrieval)
+> 🔁 **开场复习铁律(suzy 6/29:"复习是学习生效的唯一机制")**:每 session **先抽查再上新**——抽 `active_chunks.md` Tier 1 几个 + 上次软点(当前:**FREQUENCY 记者/评委判类 + 可数/单复数 + land=recap**),她先答我再对;答题前点名让她用活跃 chunk;复盘查用没用。**复习/抽查内容也要写进 session log。**
 
 ## 选题（🚨 禁自编)
 唯一真源 `speaking-band7/question_bank.md`(当季真题)。选代表性题、跨题型轮、对照 sessions 查重。**P2+P3 用配对的 P3。**
@@ -74,7 +75,7 @@ description: IELTS 口语 coach (P1/P2/P3) — 薄壳执行器。P2 走 cue-driv
 
 ## End-of-Session（强制,流程被打断也补)
 1. 写 `speaking-band7/coach/sessions/YYYY-MM-DD.md` —— **详细到可复习；每题"三样全文"必录(suzy 6/27 硬要求,缺一不可)**:① **suzy 逐字原句**(她真说的;语言卡给中文时记她的中文意图) ② **精修版**(原句小改纠错) ③ **润色范文全文**(降级 Band7 clean,可 shadow)。**⚠️ 严禁"见对话"/缩写/省略范文全文**——session 文件 = 她唯一复习材料,缩写=她没法复习,流程被打断也要把三样补全。另加诊断(🔴🟡 逐条)+ 教的表达。点+面都给。
-2. 更新 `coach/inventory.md`(cold 计数/毕业/新≤15) + `coach/content_bank.md`(真实珠子回填 persona) + `coach/error_log.md`(复发/新 pattern)。
+2. 更新 `coach/inventory.md`(cold 计数/毕业/新≤15) + `coach/content_bank.md`(真实珠子回填 persona) + `coach/error_log.md`(复发/新 pattern) + **`coach/active_chunks.md`(把本张「范文−cold diff」高复用块追加进对应 Tier;cold 自冒 3 次的划掉)**。
 3. 更新 `daily_log.md` + `study_hub.md` 顶部"当前进度"块。
 4. **被 study-coach 编排时**:产出后扫当天的"共同准确性焦点"(study-coach 设),并把口语弱点连到写作孪生(见 study-coach 弱点谱)。
 
