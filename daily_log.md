@@ -2596,3 +2596,55 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - 🔴🔴 **本场铁打头号漏点 = 可数/单复数/冠词**（几乎每题）：requests/logs/cluster/plans/students/work/a good idea/teachers/**a answer→an answer**（a/an 又冒头=检索不稳）→ **已超过介词成第一主扫点**。
 - 地道 chunk：mixed bag/takes chores off your plate/resist the temptation/keep up with the times/get to grips with/chip away at/copy and paste without thinking。
 - 进度：自查能力上一层（产出中自纠 -s/判类）。下一步：把自纠引导到可数/单复数；下次抽 FREQUENCY 再确认毕业 + 可数当第一主扫。
+
+---
+
+## 2026-07-06（周日）
+
+### 📚 P1 口语答案库建成
+- 从 Gemini 中译英大盘(179 turn)用 workflow 逐条清洗 → `speaking-band7/p1_answers_bank.md`（154 干净答案/36 话题,英文 verbatim,过滤 16 条 Gemini 误解污染并登记）+ `p1_facts_and_frames.md`（人设事实卡+跨话题骨架+13 类句型 drill 索引）。已 commit。
+- 用途：降 P1 cold 启动,配她的循环"想素材→对着中文找不会翻的→不看英文盲录→听录音复录到流利"。
+- 待办（suzy）：重译 2 条无干净版的(通勤开头"基建"/知乎优秀答主);考前定死楼层(18/19)+工龄统一 14。
+
+### ✍️ T1 新练法首练（框架先行·教练成稿）
+- 题：两饼图 英国某大学学生额外语言 2000 vs 2010。模式：她给题+框架(不写英文)→我按框架出 Band 7 成稿(170 词,大白话,重连接+逻辑)→过 examiner 门(✅7.0,数据6项全对)→复盘她框架。
+- **诊断（她的问题=逻辑/选择）**：① ⚠️ overview 两点是同一事实正反面(更多人会别的语言=只会英语的下降)、**漏了最大特征 Spanish(两年最大且涨)** → 记 W11。② ✅ 分组逻辑好(涨/跌+持平,6类全覆盖)。③ 比较意识(W6)仍需主动,框架多为"列数字"。④ 措辞:"Another/Two other languages"是类别非语言。
+- 口诀给她：选 overview 特征先问"哪个最大?+哪个变化最猛?"=两根不同柱。
+- 详见 `writing-band7/t1/coach/sessions/2026-07-06.md`。
+
+---
+
+## 2026-07-07（周一）
+
+### ✍️ T1 第三题：折线图 cold 自写（关店 vs 开店 2011-2018）≈6.5
+- **想=7 手压分**格局确认：overview 两根真不同柱(W11 clean)+抓转折点不逐年 ✅;但 🔴 **零跨线对比**(W6 第3次——两线图必写一句"6/8 年关店>开店")+ G2 "stable"抹掉 2013 关店峰 7,200。
+- 错误:W15 碎片连续第2天(Regarding the closures.)/W13 拼写×2(specifical/fluctated)/W1 approximate 回归(4/28 最老模式)/新 **W16 幅度词与数据不符**(slight 用在 600→5,200 九倍回升)/both of→both。
+- **自校协议没跑**(直接交)→ 下篇必须:先默读标 拼写/主谓/碎片/复数 再交,算 self-catch 率。
+- 入池 4 条(7/7,折线图逼出):plummeted / recovered to / levelled off / a peak of·peaked at。
+- 详见 `writing-band7/t1/coach/sessions/2026-07-07.md`。
+
+---
+
+## 2026-07-10（周五）
+
+### ✍️ T2 起步 = 建池 → 全语料反向审计 → 12 篇收敛
+
+**1. 建 T2 复用池**（`writing-band7/t2_reuse_kit.md`）：通用第一段两引擎 + 一功能一句 + floor 词 + AD-outweigh 补丁（过 examiner 门 ✅ Band 7）。
+
+**2. 🔴 反向审计（suzy 要求：子 agent 串行 · 逐句 · 不许遗漏）**——5 个子 agent、23 个 session、22 篇作文 sentence-by-sentence：
+- **判决：v1 卡片是"范文的皮"，不是她的 floor。**`This shows that` cold **0/7**（教练 06-04 逐字喂进 TEEL 的 L 空格，她 Body1 收下、Body2 立刻换回自己的）· DBV 列两边 cold 0/2（她一律**折叠**进立场句）· `look at…and then` 0/10（连教练 stem 都写 examine）· **AD `Supporters point to…` = Claude 凭空造，0 印证**。
+- **最狠证据**：ex04 二刷她**亲手把抄来的范文 `This shows that` 删掉，换回自己的 `These examples demonstrate that`** —— 范文的皮连一次同题二刷都黏不住。
+- **她的真 floor**：`While/Although [让步], I believe that [立场]`(折叠式,cold 4/7) · `On the one hand/On the other hand` · `these [X] are outweighed by [Y]`(跨题型) · **`Therefore, [重述]`** + `These examples demonstrate that` · `For example/For instance` · `In conclusion, while/although…`
+- **缺口**：**PN 是第 7 题型**（她 6/15 cold 过，v1 完全没有）；P/S 问题段/方案段 T 句、C/E 原因/影响 T 句（教练真教过、v1 全漏）。
+- **超纲**：5 轮共 **1 处硬命中**（06-02 教练凭空加的 `have merit`，已就地标注降档，未删原文）。**所有 register 漂移都落在没过 examiner 门的篇**（06-01 把她的 `huge` 升成 `considerable`）→ **缺门=漂移入口**。
+
+**3. 卡片 v2 按她 cold 实产重建** + 修 4 个 bug（W2-1 标签张冠李戴 / passive-reporting 自相矛盾 / 双面壳 4-5→3-5 且是并列题型专用 / calibration log 乱列 Band 8）。
+
+**4. 12 篇收敛**（7 cold + 5 仿写 ex01-05，非破坏性：原文一字未动，末尾追加「统一复用版」）：
+- 仿写换掉 **31 处范文皮**（ex01:7 · ex02:4 · ex03:5 · ex04:6 · ex05:9）
+- cold 仅 **14 处**，其中 **7 处只是补 L 句**；**DBV 老龄化 0 改动 = 收敛模板**
+- 汇总文件 `log/2026-07-10-ex-harmonised.md`（复习只读③统一复用版）
+
+**🔴 三个实战发现**：① **cold 时第一个丢的是 L 句**（仿写 12 段零漏 / cold 5/7 篇漏，共 7 处）→ 每段末永远写 `Therefore, [重述].` ② **一边倒题别硬折立场句**（AgD 音乐零让步 → `I completely agree with this opinion.`）③ **肉太密会超字数**（ex04 复用版 335 词）→ 考场同段两例只留一。
+
+**教练教训（存 memory）**：材料必须从她 **cold 实产**提炼，不能从范文/工具集推导；**examiner 门只验档位，不验"是不是她的"**；做完必须反向逐句审计。**她 6/15 那 7 篇 cold 判分 7~7.5——floor 本来就够 Band 7，方向不该是"向范文靠拢"。**

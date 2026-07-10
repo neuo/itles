@@ -47,3 +47,39 @@
 
 ## errors（进 error_trace）
 仅 1 tiny(physical bodies→physical health),无硬伤。正面:动名词主语 -s 对、因果链衔接、结论两问都收。
+
+---
+
+## 📌 统一复用版（2026-07-10 · 只换壳不换肉，句式全部取自复用池 v2）
+
+> 目的：所有 cold 文章收敛到同一批句式，**减少背诵**。论点/例子/数据一字未动。
+> **原文在上方，未作任何改动。**
+
+> Nowadays, many children spend several hours every day using smartphones. In this essay, I will discuss the main reasons for this trend and explain why I believe this is a negative development.
+>
+> There are two main reasons why children spend so much time on phones. First, many parents allow it because they are too busy. When children look at screens, they naturally become quiet, which makes parents feel relaxed after work. Second, smartphone apps are designed to be addictive. Short videos and mobile games are full of colorful pictures and quick rewards, and children lack the self-control to resist them. For example, even many adults spend three to four hours a day on TikTok or YouTube, so it is much harder for young children to stop watching. **Therefore, both busy parents and addictive apps explain why children spend so long on their phones.**
+>
+> I strongly believe that this is a negative development because it harms children's physical and mental health. Physically, looking at screens for too long hurts children's eyesight. Also, sitting for hours with a phone means they lack physical exercise, which can cause weight problems. Mentally, too many short videos can damage their ability to focus. Because these videos are only a few seconds long, children get used to fast entertainment. As a result, they may find it difficult to concentrate on reading books or listening to teachers in school. **Therefore, spending hours on phones harms both children's bodies and their minds.**
+>
+> In conclusion, children spend hours on smartphones due to parental neglect and the addictive nature of apps. This trend is dangerous because it damages both their physical bodies and their mental focus, which requires urgent attention from parents.
+
+**复用了哪几条规范句**（✓=原文已是）：
+- opener `Nowadays, [趋势事实].` ✓（本篇即规范句来源）
+- 预告句 `In this essay, I will discuss ___ and explain why ___.` ✓
+- 枚举两理由 `First, ___. → Second, ___.` ✓
+- Ex 句 `For example, ___.` ✓
+- 一边倒表态 `I strongly believe that [立场].` ✓
+- 分面 `Physically, ___. → Mentally, ___.` ✓（本篇即规范句来源，别动）
+- E 句 `As a result, ___.` ✓
+- L 句 `Therefore, [重述].` ✅✅（**新加两处**，补 每段有 L）
+- Conclusion 起手 `In conclusion, ___` ✓
+
+**改了哪几句**（原句 → 改后句）：
+- Body1 末尾加 L：（无）→ `Therefore, both busy parents and addictive apps explain why children spend so long on their phones.`
+- Body2 末尾加 L：（无）→ `Therefore, spending hours on phones harms both children's bodies and their minds.`
+- 其余 **0 改动**（opener/预告/表态/分面/Ex/As a result/Conclusion 全部原文照搬，肉一字未动）。
+
+**没能复用的地方 + 原因**：
+- Body1 topic `There are two main reasons why...` 保留 —— 本题是 2-part（Q1 原因 / Q2 表态），`On the one hand / On the other hand` 主开关是**双方论证**用的，此处不适用；这是她自己合规的 Q1 topic。
+- Conclusion 用 **2-part 总结式**（Q1 原因 + Q2 裁决），非 `In conclusion, while/although` opinion 式 —— 2-part 题就该两问都收，收敛不动。
+- tiny `physical bodies`（教练已标 → physical health）**未动** —— 属词汇纠错，不在"换壳"scope，保留她原词。

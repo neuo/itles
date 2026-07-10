@@ -55,7 +55,7 @@
 
 ## 📄 整篇修复版（Band 7,内容一字没动,只修准确性+升表达）— ✅ 考官 gate 7.0 PASS
 
-> **[Intro]** There is an ongoing debate about whether people should spend their whole career in one job or change jobs from time to time. Some believe that switching jobs regularly brings greater financial rewards, while others argue that staying with a single employer offers better long-term development. While both views have merit, I find the latter more convincing.
+> **[Intro]** There is an ongoing debate about whether people should spend their whole career in one job or change jobs from time to time. Some believe that switching jobs regularly brings greater financial rewards, while others argue that staying with a single employer offers better long-term development. While both views have merit **⚠️超纲(Band 7.5+)→降档: `While both views are understandable`** (审计注: `have merit` 被 t2_reuse_kit Calibration log 明列为 Band 8 marker, 属教练新引入的高阶 collocation, 虽过了 examiner gate 仍应降档), I find the latter more convincing.
 >
 > **[Body 1]** Those who support changing jobs frequently argue that it is **an** effective way to secure a pay rise. This is mainly because companies often offer higher salaries to attract experienced people from outside, especially when an unfilled position is **holding back** their growth. For instance, AI researchers today can sometimes double their income simply by **moving to a competitor**. This view therefore reflects a real concern that staying loyal does not always pay off.
 >
