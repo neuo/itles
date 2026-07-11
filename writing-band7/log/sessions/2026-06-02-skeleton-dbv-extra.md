@@ -92,3 +92,52 @@
 ---
 **Calibration log**
 - 2026-06-02: examiner verdict = TR 7.0 / CC 7.0 / LR 7.0 / GRA 7.0 (overall 7.0) ✅ PASS
+
+---
+
+## 📌 统一复用版（2026-07-11 · 逐句只换壳不换肉，句式取自 [[../../t2_reuse_kit.md]] v2）
+
+> **改写对象＝上方「## 📄 整篇修复版」**（语法+意思已修正的 Band 7 版），再把壳统一到 v2 卡片。**论点/例子一字未动**；准确性全用修复版（`an effective way` / `moving to a competitor` / `has barely risen since` / `a far stronger sense of stability`）。原文与修复版均未改动。
+> ⚠️ **7/11 更正**：先前误建在"保留错误的原版"上（`is effective way` / `seek for` / `firing old bosses` 等原样留着）——统一复用版是给 suzy **背诵**用的，必须**干净**，已重做在修复版上。去掉了 `have merit`（Band 8）。
+
+### 逐句对照（修复版句 → 换壳后）
+| # | 修复版句（已干净）| 功能 | 换壳后 | 换了什么 |
+|---|---|---|---|---|
+| 1 | There is an ongoing debate about whether people should spend their whole career in one job or change jobs from time to time. | opener | People have different opinions about whether people should change jobs from time to time or stay with one employer. | `There is an ongoing debate about whether…` → DBV opener `People have different opinions about whether [X].` |
+| 2+3 | Some believe that switching jobs regularly brings greater financial rewards, while others argue that staying with a single employer offers better long-term development. ／ While both views have merit, I find the latter more convincing. | 折叠立场句 | While some believe that switching jobs regularly brings greater financial rewards, I believe that staying with a single employer offers better long-term development. | 列两边句＋独立立场句 折叠进 `While [对方], I believe that [立场].`；**删掉 `have merit`（Band 8）** |
+| 4 | Those who support changing jobs frequently argue that it is an effective way to secure a pay rise. | BodyT-对方 | On the one hand, changing jobs frequently is an effective way to secure a pay rise. | `Those who support…argue that ___` → `On the one hand, ___` |
+| 5 | This is mainly because companies often offer higher salaries to attract experienced people from outside, especially when an unfilled position is holding back their growth. | E-因果 | （保留）This is mainly because… | 已是规范 E 句 `This is because ___` |
+| 6 | For instance, AI researchers today can sometimes double their income simply by moving to a competitor. | Ex-举例 | （保留）For instance… | 已是规范 Ex 句（意思用修复版 `moving to a competitor`）|
+| 7 | This view therefore reflects a real concern that staying loyal does not always pay off. | L-回扣 | Therefore, changing jobs can be an effective way to gain financial benefits. | 换成 L 句 `Therefore, [重述本段中心=换工作＝加薪途径]` |
+| 8 | However, I find the case for staying with one company more convincing. | BodyT-自己 | On the other hand, career success should not be reduced to a single pay rise. | `However, I find the case for [B] more convincing` → `On the other hand, ___`（并入下句主论）|
+| 9 | The main reason is that career success should not be reduced to a single pay rise; it depends on long-term growth, which includes steady salary increases as well. | E-展开 | ；it depends on long-term growth, which includes steady salary increases as well. | 并入上句 |
+| 10 | A new job also comes with too many unknowns, such as how new colleagues and managers will see you. | E-展开 | （一字不动）| 纯肉 |
+| 11 | A friend of mine, for example, took a much higher salary at a new firm five years ago, but his income has barely risen since, because his manager simply does not value him. | Ex-举例 | For example, a friend of mine took a much higher salary at a new firm five years ago, but his income has barely risen since, because his manager simply does not value him. | 语序归一到 `For example, ___`（意思/内容全用修复版）|
+| 12 | This shows that staying put often yields higher returns, as it offers a far stronger sense of stability. | L-回扣 | These examples demonstrate that staying with one company often yields higher returns, as it offers a far stronger sense of stability. | `This shows that ___` → L 句 `These examples demonstrate that ___` |
+| 13 | In conclusion, while the appeal of a quick pay rise is understandable, building a career over time is more valuable. Remaining with one employer, in my view, leads to steadier progress in terms of both career and income. | Conclusion | （保留）In conclusion, while… | 已是规范 Conclusion 壳（去掉 `in my view` 冗余）|
+
+### 成文（干净，建在修复版上）
+
+**[Intro]** People have different opinions about whether people should change jobs from time to time or stay with one employer. While some believe that switching jobs regularly brings greater financial rewards, I believe that staying with a single employer offers better long-term development.
+
+**[Body 1]** On the one hand, changing jobs frequently is an effective way to secure a pay rise. This is mainly because companies often offer higher salaries to attract experienced people from outside, especially when an unfilled position is holding back their growth. For instance, AI researchers today can sometimes double their income simply by moving to a competitor. Therefore, changing jobs can be an effective way to gain financial benefits.
+
+**[Body 2]** On the other hand, career success should not be reduced to a single pay rise; it depends on long-term growth, which includes steady salary increases as well. A new job also comes with too many unknowns, such as how new colleagues and managers will see you. For example, a friend of mine took a much higher salary at a new firm five years ago, but his income has barely risen since, because his manager simply does not value him. These examples demonstrate that staying with one company often yields higher returns, as it offers a far stronger sense of stability.
+
+**[Conclusion]** In conclusion, while the appeal of a quick pay rise is understandable, building a career over time is more valuable. Remaining with one employer leads to steadier progress in terms of both career and income.
+
+**复用了哪几条核心壳**：
+- ✅ opener（DBV）`People have different opinions about whether [X].`
+- ✅ 折叠式立场句 `While [对方], I believe that [立场].`（吸收列两边，删 `have merit`）
+- ✅ Body 主开关 `On the one hand, ___` → `On the other hand, ___`
+- ✅ E 句 `This is (mainly) because ___`
+- ✅ Ex 句 `For instance, ___` / `For example, ___`
+- ✅ L 句（两个 body 末句都有）`Therefore, [重述]` / `These examples demonstrate that ___`
+- ✅ Conclusion `In conclusion, while [让步], [重申].`
+- ⬜ 让步 `Admittedly` / 枚举（未用，见下）
+
+**塞不进的 + 原因**：
+- **让步 `Admittedly, ___`**：正文无独立让步句（唯一让步在 Conclusion 的 `while [让步]`），另起会加肉。
+- **枚举 `The first major factor is ___`**：Body1 是单链因果（付更多 → 超均值 package → AI 例），非并列理由，套枚举须重排＝改肉。
+
+**合格核对**：4 段 ✅ ｜ 语法干净（建在修复版上）✅ ｜ ~250 词（折叠列两边后比修复版更紧）✅ ｜ 两个 body 末句都是 L 句 ✅
