@@ -52,7 +52,8 @@ S2  【预告句】This essay will discuss ___ and ___.
 | 题型 | 她 cold 实产（背这个）| v1 的皮（已删）|
 |---|---|---|
 | **通用 / PN / 2-Pt** | `Nowadays, [趋势事实].` | ~~There are two questions to consider about…~~ |
-| **AD-outweigh** | `In the future, it is expected that [趋势].` | ~~[Trend] is likely to become common…~~ |
+| **AD-outweigh · 未来趋势型**（无人驾驶那种）| `In the future, it is expected that [趋势].` | ~~[Trend] is likely to become common…~~ |
+| **AD-outweigh · "该不该做 X"型**（冒险/该不该…）7/11 加 | `Many people believe that [X].` / `It is often argued that [X].` | —（`In the future…` 不适合非趋势题，实战 7/11 taking-risks 范文验证）|
 | **DBV** | `People have different opinions about whether [X].` | ~~[名词从句] is often debated.~~ |
 | **DBV（变体）** | `In many parts of the world, [趋势事实].` | — |
 | **AgD** | `Many people think that [X].` | ~~It is often argued that…~~（她仿写抄，cold 不用）|
