@@ -111,7 +111,17 @@ Notes: The main cause of coastal erosion is ______            预判: [n]
 - **A–H 选项会被改写** → 听到锚项后抓"哪个选项的**意思**被描述了"
 - 选项一般用一次 → 用过的划掉，缩小范围
 
-**③ P3 选择题（最吃理解，技巧只减损不消除，维持 ~6）— 四个必知陷阱**
+**③ P3 选择题（最吃理解，技巧只减损不消除，维持 ~6）**
+
+**总开关 · 每题读 stem 先贴标签,一类配一把武器（不然技巧乱用）：**
+
+| stem 长相 | 题型 | 用哪招 |
+|---|---|---|
+| How does X feel about…? / What does X think of…? | **态度题** | 语调 + 惊讶标记(听时动作 8) |
+| What do they agree/decide? What will they do? | **决定题** | 别在第一声下笔 + settle 标记(听时动作 5) + 谁拍板 |
+| Why did…? What caused…? Which…? | **事实题** | 圈 stem 关键词 + 只听 because 后(读题2/听时6) + 绝对词校准 |
+
+**四个必知陷阱：**
 
 | 陷阱 | 长相 | 破法 |
 |---|---|---|
@@ -120,9 +130,21 @@ Notes: The main cause of coastal erosion is ______            预判: [n]
 | **原词陷阱** | 选项的词在音频响了 | 响 = 警报八成坑 |
 | **张冠李戴** | "What does **Emma** think?" 实为对方观点 | 开头 10 秒**声音绑人名**，全程记谁说的 |
 
-- 放音前：读题干 + **划出选项间的差异**（只考差异不考共同部分）；**排掉 1–2 个明显不可能的**，只在剩两个里决定（省带宽=治死机）
-- **别抢答**：答案很少是先说的那个，是**说话人说完后还站得住的那个意思** → 等这一点说完再选
-- 听到 **but / however / actually / on second thought** = 前面作废，答案在后
+**读题垃圾时间 · 手上动作（不用听懂就能做）：**
+1. **划差异**：选项 80% 词一样,圈出每个选项**唯一不同的那个词**,只听那一处(省带宽=治死机)
+2. **圈 stem 关键词**(人名/模块名/地名)=答案窗口开关;音频说到它(或改写)=答案马上来。**别听选项里的词——那是陷阱**
+3. **圈绝对词当嫌疑**(every/all/must/only/always/never)——⚠️校准:**不是"绝对=错",是"夸大陷阱"**。规则=选项语气强度要和说话人对上(说 most 你选 all=错;但说话人真说 never,那个绝对选项就对,IELTS 专坑盲划叉的人)。**降权不打叉,靠耳朵确认强度**
+
+**放音时 · 手上动作：**
+4. **笔尖跟音频不落后**:听到下一题 stem 关键词,笔立刻下移(同 P4 守锚)
+5. **别在第一个声音上下笔**(P3 核心):讨论=提议→反对→反提→**拍板**,答案是拍板句;等 `right / ok let's go with / that makes sense / fair enough / exactly` 再写。第一个想法几乎都是干扰项
+6. **原因题只听 because / that's why / the thing is / the reason was 后面**:前面陈述是事实(幌子),后面才是答案
+7. **重复/强调=考点**:听到 `the main thing / what really matters / above all / the key point / most importantly`,耳朵立起来
+8. **态度题听惊讶/反转标记**:`actually / to be honest / surprisingly / I didn't expect / what struck me was`→真态度在后(配语调:叹气/下沉=负面,上扬/加重=正面)。**⚠️只对态度/评价 stem 用**
+
+**⚠️ "教授说的=答案"校准**:只在 stem 问 "what does the tutor suggest/recommend" 时成立;问 "what do the students decide" 时追学生结论——**先看 stem 问谁,只追那个人的最终立场**,别一律信教授。
+
+> **老实账**:以上都不是让你听懂,是卡在两个选项间时往天平加砝码。单条=概率优势,一题叠 3-4 条才明显偏向。P2→7,P3 少流血稳 6,不会跳到 8。
 
 ---
 
