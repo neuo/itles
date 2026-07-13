@@ -4794,6 +4794,8 @@
 
 > **Cue**: 是谁 / 什么问题 / 怎么解决 / 为何机智 · 题型 Person
 
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。直接用。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -4899,6 +4901,8 @@
 
 > **Cue**: 是谁 / 学了什么 / 为何学 / 有老师会不会更容易 · 题型 Person
 
+> ✅ **下面 examples 范文：P2 + 6 P3 基本达标**；仅 P2 一处 `built real grit → built real determination`（见下）。（顶部另有「你的实产版」= 你练过的张伟自学 ML 版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -4911,12 +4915,12 @@
 | [how·细] | 他 花 大约 六个月 在 它上面，做 在线 课程、读 论文、还 建 副项目、下班后。 | He spent roughly six months at it, working through online courses, reading papers and building side projects after work. |
 | [结果] | 有 一大堆 死胡同，但 他 慢慢 弄懂 它，而 它 真的 有回报。 | There were loads of dead ends, but he slowly got his head around it, and it really paid off. |
 | [评价·提问] | 一个 老师 会 让 它 更容易 吗？说实话，大概 会——一个 老师 把 你 指 向 那 正确的 方向、还 救 你 脱离 死胡同。 | Would a teacher have made it easier? Honestly, probably yes — a teacher points you in the right direction and saves you from dead ends. |
-| [评价·反面] | 但 用 那 艰难 的方式 自学 逼 他 [去]深深 理解 它，而 它 建 了 真正的 韧性。 | But teaching himself the hard way forced him to understand it deeply, and it built real grit. |
+| [评价·反面] | 但 用 那 艰难 的方式 自学 逼 他 [去]深深 理解 它，而 它 建 了 真正的 韧性。 | But teaching himself the hard way forced him to understand it deeply, and it built real determination.〔原范文：real grit〕 |
 | [closer] | 所以，对，我会说 两者 都 有 它们的 价值。 | So yeah, I'd say both have their value. |
 
 ### ②P2 整段（shadow）
 
-> The friend I'd like to talk about is an old mate from university, zhangwei. We've known each other for almost twenty years, and he works as a developer. What he taught himself was machine learning, basically the whole AI side of things. His company suddenly decided to pivot towards AI, and the problem was, he had zero background in it. Instead of waiting around for a training course, he just threw himself into it and learned from scratch. He spent roughly six months at it, working through online courses, reading papers and building side projects after work. There were loads of dead ends, but he slowly got his head around it, and it really paid off. Would a teacher have made it easier? Honestly, probably yes — a teacher points you in the right direction and saves you from dead ends. But teaching himself the hard way forced him to understand it deeply, and it built real grit. So yeah, I'd say both have their value.
+> The friend I'd like to talk about is an old mate from university, zhangwei. We've known each other for almost twenty years, and he works as a developer. What he taught himself was machine learning, basically the whole AI side of things. His company suddenly decided to pivot towards AI, and the problem was, he had zero background in it. Instead of waiting around for a training course, he just threw himself into it and learned from scratch. He spent roughly six months at it, working through online courses, reading papers and building side projects after work. There were loads of dead ends, but he slowly got his head around it, and it really paid off. Would a teacher have made it easier? Honestly, probably yes — a teacher points you in the right direction and saves you from dead ends. But teaching himself the hard way forced him to understand it deeply, and it built real determination. So yeah, I'd say both have their value.
 
 ### 句型/模板（可搬走）
 
