@@ -2049,6 +2049,8 @@
 
 > **Cue**: 是谁 / 哪里能看到 / 广告讲什么 / 你的感受 · 题型 Object/Event
 
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。常见习语（household name / hard to miss / mixed bag / falls flat / word of mouth / glued to screens），直接用。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2241,6 +2243,8 @@
 
 ---
 
+> ✅ **下面 examples 范文：P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q1** 一处（`crave a real break → want a real break`，见下）。（顶部另有「你的实产版」= 你练过的京都版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2277,9 +2281,9 @@
 |---|---|---|
 | 1 | 嗯，我会说 这儿 大多数人 去 海边 或 山里，当 他们 有假的时候。 | Well, I'd say most people here head to the coast or the mountains when they get time off. |
 | 2 | 海滨小镇 在夏天 特别火，因为 人们 就 想 放松、凉快一下。 | Beach towns are hugely popular in summer because folk just want to relax and cool down. |
-| 3 | 但 也有 一群 在增长的人、（那些 更喜欢 乡下 更安静的地方的），因为 城市生活 可能 变得 挺累人，而 他们 渴望 一个 真正的 休息。 | But there's also a growing crowd who prefer quieter spots in the countryside, since city life can get pretty exhausting and they crave a real break. |
+| 3 | 但 也有 一群 在增长的人、（那些 更喜欢 乡下 更安静的地方的），因为 城市生活 可能 变得 挺累人，而 他们 渴望 一个 真正的 休息。 | But there's also a growing crowd who prefer quieter spots in the countryside, since city life can get pretty exhausting and they want a real break.〔原范文：they crave a real break〕 |
 
-> Well, I'd say most people here head to the coast or the mountains when they get time off. Beach towns are hugely popular in summer because folk just want to relax and cool down. But there's also a growing crowd who prefer quieter spots in the countryside, since city life can get pretty exhausting and they crave a real break.
+> Well, I'd say most people here head to the coast or the mountains when they get time off. Beach towns are hugely popular in summer because folk just want to relax and cool down. But there's also a growing crowd who prefer quieter spots in the countryside, since city life can get pretty exhausting and they want a real break.
 
 **Q2. What is the ideal length for a holiday?**
 
@@ -2336,7 +2340,7 @@
 
 > I'd say it usually comes down to the weather and time off work. Most folk wait for public holidays or the summer break, simply because that's when they can actually get away. Cost matters too, since prices drop in the off-season. So a lot of people time their trips around cheaper flights and better deals.
 
-**P3 句型/模板**：`a growing crowd who prefer quieter spots`（who后置）· `crave a real break` · `the sweet spot` · `enough time to properly explore a place without rushing` · `how spontaneous you are`（embedded）· `Planning ahead means you lock in cheaper flights`（动名词主语）· `the stress of everything being booked out` · `which supports local businesses`（which后置）· `spread the word` · `to keep the crowds coming back` · `that's when they can actually get away`。
+**P3 句型/模板**：`a growing crowd who prefer quieter spots`（who后置）· `want a real break`（降档自 crave）· `the sweet spot` · `enough time to properly explore a place without rushing` · `how spontaneous you are`（embedded）· `Planning ahead means you lock in cheaper flights`（动名词主语）· `the stress of everything being booked out` · `which supports local businesses`（which后置）· `spread the word` · `to keep the crowds coming back` · `that's when they can actually get away`。
 
 ---
 
