@@ -3030,6 +3030,8 @@
 
 ---
 
+> ✅ **下面 examples 范文：P2 + 5 个 P3 基本达标（降档=原范文）**；两处 `grit → determination`（P2 收尾 + Q2）。（顶部另有「你的实产版」= 你练过的张伟高压救火版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3042,12 +3044,12 @@
 | [overcame·细] | 他 花了 大概 六个月 下班后 学习，慢慢地 把 东西 拼凑 起来，从 网课 和 副业项目。 | He spent about six months studying after work, slowly piecing things together from online courses and side projects. |
 | [overcame·细] | 有些时候 他 想 认输，但 他 就是 一直坚持。 | There were times he wanted to throw in the towel, but he just kept at it. |
 | [overcame·收] | 到最后，他 完成了 那个 转变、还 拿下了 一个 扎实的职位、在 那个新团队。 | In the end, he pulled off the switch and landed a solid role on the new team. |
-| [feel/EL] | 说实话，我 非常 仰望他。他 向我 展示了 只要 有 足够的 韧劲，你 就能 重塑 你自己。 | Honestly, I look up to him a great deal. He showed me that with enough grit, you can reinvent yourself. |
+| [feel/EL] | 说实话，我 非常 仰望他。他 向我 展示了 只要 有 足够的 韧劲，你 就能 重塑 你自己。 | Honestly, I look up to him a great deal. He showed me that with enough determination, you can reinvent yourself.〔原范文：enough grit〕 |
 | [closer] | 所以，对，那就是我想聊的那个朋友。 | So yeah, that's the friend I wanted to talk about. |
 
 ### ②P2 整段（shadow）
 
-> So, the person I'd like to talk about is an old friend from university, zhangwei. We've known each other for almost twenty years, and he works as a developer. A few years back, his company decided to pivot towards AI, and that put him in a really tough spot. He had no background in machine learning at all, so he was basically facing a choice — either teach himself this whole new field, or risk being left behind. What I admired was how he tackled it head-on. He spent about six months studying after work, slowly piecing things together from online courses and side projects. There were times he wanted to throw in the towel, but he just kept at it. In the end, he pulled off the switch and landed a solid role on the new team. Honestly, I look up to him a great deal. He showed me that with enough grit, you can reinvent yourself. So yeah, that's the friend I wanted to talk about.
+> So, the person I'd like to talk about is an old friend from university, zhangwei. We've known each other for almost twenty years, and he works as a developer. A few years back, his company decided to pivot towards AI, and that put him in a really tough spot. He had no background in machine learning at all, so he was basically facing a choice — either teach himself this whole new field, or risk being left behind. What I admired was how he tackled it head-on. He spent about six months studying after work, slowly piecing things together from online courses and side projects. There were times he wanted to throw in the towel, but he just kept at it. In the end, he pulled off the switch and landed a solid role on the new team. Honestly, I look up to him a great deal. He showed me that with enough determination, you can reinvent yourself. So yeah, that's the friend I wanted to talk about.
 
 ### 句型/模板（可搬走）
 
@@ -3080,9 +3082,9 @@
 | 1 | 绝对。 | Definitely. |
 | 2 | 我觉得 面对 挫折 就是 真正 塑造 一个人 的东西，因为 任何人 都能 做得好、当 一切 顺利的时候。 | I reckon facing setbacks is what really shapes a person, because anyone can do well when everything's smooth. |
 | 3 | 是 那些 艰难的时期 考验 你。 | It's the rough patches that test you. |
-| 4 | 比如，一个人、（那种 失败过 几次的），通常 应付 压力 好得多、以后。所以，对，艰难 不 愉快，但 它 建起 那种 韧劲、（那种 你 装不出来的）。 | For instance, someone who's failed a few times usually handles pressure far better later on. So yeah, hardship isn't pleasant, but it builds the kind of grit you can't fake. |
+| 4 | 比如，一个人、（那种 失败过 几次的），通常 应付 压力 好得多、以后。所以，对，艰难 不 愉快，但 它 建起 那种 韧劲、（那种 你 装不出来的）。 | For instance, someone who's failed a few times usually handles pressure far better later on. So yeah, hardship isn't pleasant, but it builds the kind of determination you can't fake.〔原范文：the kind of grit〕 |
 
-> Definitely. I reckon facing setbacks is what really shapes a person, because anyone can do well when everything's smooth. It's the rough patches that test you. For instance, someone who's failed a few times usually handles pressure far better later on. So yeah, hardship isn't pleasant, but it builds the kind of grit you can't fake.
+> Definitely. I reckon facing setbacks is what really shapes a person, because anyone can do well when everything's smooth. It's the rough patches that test you. For instance, someone who's failed a few times usually handles pressure far better later on. So yeah, hardship isn't pleasant, but it builds the kind of determination you can't fake.
 
 **Q3. What qualities help people overcome difficulties and succeed?**
 
@@ -3128,7 +3130,7 @@
 
 > I'd say schools focus way too much on grades and not enough on resilience. Kids learn to fear failure instead of seeing it as normal. So when they finally hit a real obstacle, they crumble. Honestly, letting children struggle a little and figure things out themselves would prepare them far better for the working world.
 
-**P3 句型/模板**：`there's loads of openings` · `facing setbacks is what really shapes a person`（动名词主语+what表语）· `It's the rough patches that test you`（强调句）· `the kind of grit you can't fake`（relative后置）· `give up the moment things get tricky` · `The ones who actually make it just refuse to quit`（who后置）· `doesn't stretch far` · `which feels unthinkable today`（which后置）· `bounce back from failure` · `letting children struggle a little … would prepare them far better`（动名词主语）。
+**P3 句型/模板**：`there's loads of openings` · `facing setbacks is what really shapes a person`（动名词主语+what表语）· `It's the rough patches that test you`（强调句）· `the kind of determination you can't fake`（relative后置；降档自 grit）· `give up the moment things get tricky` · `The ones who actually make it just refuse to quit`（who后置）· `doesn't stretch far` · `which feels unthinkable today`（which后置）· `bounce back from failure` · `letting children struggle a little … would prepare them far better`（动名词主语）。
 
 ---
 
