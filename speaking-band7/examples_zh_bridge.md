@@ -461,6 +461,8 @@
 
 > **Cue**: Describe a person who loves growing plants（是谁 / 种什么 / 怎么种 / 为何爱）· 题型 Person
 
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，无 Band7+ 炫词，降档 = 原范文（无需改）**。直接用下面的英文即可。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -568,6 +570,8 @@
 ## P2-新06 · A new law you'd introduce — 保护城市绿地（speaker + wife S3 灵感）
 
 > **Cue**: Describe a new law you'd introduce（什么法 / 带来什么变化 / 是否受欢迎 / 怎么想到的 / 感受）· 题型 Hypothetical/Object
+
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，无 Band7+ 炫词，降档 = 原范文（无需改）**。直接用下面的英文即可。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -764,23 +768,23 @@
 
 ---
 
-### ①P2 拆解（英式中文珠子 → 范文英文）
+### ①P2 拆解（英式中文珠子 → 降档英文 → 原范文）
 
-| 句/功能 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| [opener] | 那么，我想聊的那个朋友 是 一个男孩、叫 Liang，（那个 就住在离我外公外婆家 隔壁没几户的），在我老家那会儿。 | So, the friend I'd like to talk about is a boy called Liang, who lived just a couple of doors down from my grandparents' place back in my hometown. |
-| [how met] | 我 在一个小城市长大，大部分是 外公外婆 带大的，而 Liang 和我 最后 分到了 同一个班、在小学。 | I grew up in a small city, raised mostly by my grandparents, and Liang and I ended up in the same class in primary school. |
-| [how met·细] | 我们 第一次 搭上话 是 在一个下午 走路回家的路上，然后 那之后 我们 好几年 基本上 形影不离。 | We first got chatting on the walk home one afternoon, and after that we were pretty much inseparable for years. |
-| [did together] | 我们一起做的事 没什么花哨的——我们会 放学后 骑车四处逛、在附近一条小溪里 抓蝌蚪、还有 换漫画书 换上好几个小时。 | What we did together was nothing fancy — we'd cycle around after school, catch tadpoles in a little stream nearby, and swap comic books for hours. |
-| [did·细] | 下雨天，我们就 窝在他家 打牌、直到天黑。 | On rainy days, we'd just hole up at his place playing cards until dark. |
-| [why/EL] | 我觉得 让我这么喜欢他的东西 是 他有多随和。 | I think what made me like him so much was how easygoing he was. |
-| [why·细] | 他 从不 闹脾气、也不 争强好胜，即使 他输了一局。 | He never got moody or competitive, even when he lost a game. |
-| [why·细] | 除此之外，他 总是 罩着我，每当 我 惹上麻烦的时候。 | On top of that, he always had my back whenever I got into trouble. |
-| [closer] | 所以，对，那就是 Liang——他是那种人之一、（我 会永远 带着微笑 回想起的）。 | So yeah, that's Liang — he's one of those people I'll always look back on with a smile. |
+| 句/功能 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| [opener] | 那么，我想聊的那个朋友 是 一个男孩、叫 Liang，（那个 就住在离我外公外婆家 隔壁没几户的），在我老家那会儿。 | So, the friend I'd like to talk about is a boy called Liang, who lived just a couple of doors down from my grandparents' place back in my hometown. | So, the friend I'd like to talk about is a boy called Liang, who lived just a couple of doors down from my grandparents' place back in my hometown. |
+| [how met] | 我 在一个小城市长大，大部分是 外公外婆 带大的，而 Liang 和我 最后 分到了 同一个班、在小学。 | I grew up in a small city, raised mostly by my grandparents, and Liang and I ended up in the same class in primary school. | I grew up in a small city, raised mostly by my grandparents, and Liang and I ended up in the same class in primary school. |
+| [how met·细] | 我们 第一次 搭上话 是 在一个下午 走路回家的路上，然后 那之后 我们 好几年 基本上 形影不离。 | We first got chatting on the walk home one afternoon, and after that we were pretty much inseparable for years. | We first got chatting on the walk home one afternoon, and after that we were pretty much inseparable for years. |
+| [did together] | 我们一起做的事 没什么花哨的——我们会 放学后 骑车四处逛、在附近一条小溪里 抓蝌蚪、还有 换漫画书 换上好几个小时。 | What we did together was nothing fancy — we'd cycle around after school, catch tadpoles in a little stream nearby, and swap comic books for hours. | What we did together was nothing fancy — we'd cycle around after school, catch tadpoles in a little stream nearby, and swap comic books for hours. |
+| [did·细] | 下雨天，我们就 窝在他家 打牌、直到天黑。 | On rainy days, we'd just stay in at his place playing cards until dark. | On rainy days, we'd just hole up at his place playing cards until dark. |
+| [why/EL] | 我觉得 让我这么喜欢他的东西 是 他有多随和。 | I think what made me like him so much was how easygoing he was. | I think what made me like him so much was how easygoing he was. |
+| [why·细] | 他 从不 闹脾气、也不 争强好胜，即使 他输了一局。 | He never got moody or competitive, even when he lost a game. | He never got moody or competitive, even when he lost a game. |
+| [why·细] | 除此之外，他 总是 罩着我，每当 我 惹上麻烦的时候。 | On top of that, he always had my back whenever I got into trouble. | On top of that, he always had my back whenever I got into trouble. |
+| [closer] | 所以，对，那就是 Liang——他是那种人之一、（我 会永远 带着微笑 回想起的）。 | So yeah, that's Liang — he's one of those people I'll always look back on with a smile. | So yeah, that's Liang — he's one of those people I'll always look back on with a smile. |
 
 ### ②P2 整段（shadow）
 
-> So, the friend I'd like to talk about is a boy called Liang, who lived just a couple of doors down from my grandparents' place back in my hometown. I grew up in a small city, raised mostly by my grandparents, and Liang and I ended up in the same class in primary school. We first got chatting on the walk home one afternoon, and after that we were pretty much inseparable for years. What we did together was nothing fancy — we'd cycle around after school, catch tadpoles in a little stream nearby, and swap comic books for hours. On rainy days, we'd just hole up at his place playing cards until dark. I think what made me like him so much was how easygoing he was. He never got moody or competitive, even when he lost a game. On top of that, he always had my back whenever I got into trouble. So yeah, that's Liang — he's one of those people I'll always look back on with a smile.
+> So, the friend I'd like to talk about is a boy called Liang, who lived just a couple of doors down from my grandparents' place back in my hometown. I grew up in a small city, raised mostly by my grandparents, and Liang and I ended up in the same class in primary school. We first got chatting on the walk home one afternoon, and after that we were pretty much inseparable for years. What we did together was nothing fancy — we'd cycle around after school, catch tadpoles in a little stream nearby, and swap comic books for hours. On rainy days, we'd just stay in at his place playing cards until dark. I think what made me like him so much was how easygoing he was. He never got moody or competitive, even when he lost a game. On top of that, he always had my back whenever I got into trouble. So yeah, that's Liang — he's one of those people I'll always look back on with a smile.
 
 ### 句型/模板（可搬走）
 
@@ -797,72 +801,72 @@
 
 **Q1. Do you still keep in touch with your friends from childhood? Why or why not?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，只有那么一两个。 | Honestly, only a couple of them. |
-| 2 | 大多数人 慢慢就疏远了，一旦他们 为了大学或工作 搬走，而那 挺自然的。 | Most people drift apart once they move away for university or work, and that's pretty natural. |
-| 3 | 那些我一直保持亲近的 是那种、（你能 直接 接着 上的、在几个月的沉默之后）。 | The ones I've stayed close to are the kind you can pick straight back up with after months of silence. |
-| 4 | 但对剩下的那些，我们 就 偶尔 给个帖子点个赞，然后 也就那样了。 | But with the rest, we'll just like a post now and then, and that's about it really. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，只有那么一两个。 | Honestly, only a couple of them. | Honestly, only a couple of them. |
+| 2 | 大多数人 慢慢就疏远了，一旦他们 为了大学或工作 搬走，而那 挺自然的。 | Most people drift apart once they move away for university or work, and that's pretty natural. | Most people drift apart once they move away for university or work, and that's pretty natural. |
+| 3 | 那些我一直保持亲近的 是那种、（你能 直接 接着 上的、在几个月的沉默之后）。 | The ones I've stayed close to are the kind you can pick straight back up with after months of silence. | The ones I've stayed close to are the kind you can pick straight back up with after months of silence. |
+| 4 | 但对剩下的那些，我们 就 偶尔 给个帖子点个赞，然后 也就那样了。 | But with the rest, we'll just like a post now and then, and that's about it really. | But with the rest, we'll just like a post now and then, and that's about it really. |
 
 > Honestly, only a couple of them. Most people drift apart once they move away for university or work, and that's pretty natural. The ones I've stayed close to are the kind you can pick straight back up with after months of silence. But with the rest, we'll just like a post now and then, and that's about it really.
 
 **Q2. How important is childhood friendship to children?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我会说 它 极其重要。 | I'd say it's hugely important. |
-| 2 | 童年朋友 常常 是 孩子第一次 学会 分享、争吵、然后 再和好 的地方。 | Childhood friends are often where kids first learn to share, argue, and make up again. |
-| 3 | 因为 他们的父母 不总是 在旁边，那些友谊 教会 他们 怎么 自己 应对人。 | Since their parents aren't always around, those friendships teach them how to handle people on their own. |
-| 4 | 比如，摆平 一场 关于一个玩具的 小争执 是 一堂 关于妥协的 小课、（那种会伴随他们的）。 | For instance, sorting out a squabble over a toy is a tiny lesson in compromise that sticks with them. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我会说 它 极其重要。 | I'd say it's hugely important. | I'd say it's hugely important. |
+| 2 | 童年朋友 常常 是 孩子第一次 学会 分享、争吵、然后 再和好 的地方。 | Childhood friends are often where kids first learn to share, argue, and make up again. | Childhood friends are often where kids first learn to share, argue, and make up again. |
+| 3 | 因为 他们的父母 不总是 在旁边，那些友谊 教会 他们 怎么 自己 应对人。 | Since their parents aren't always around, those friendships teach them how to handle people on their own. | Since their parents aren't always around, those friendships teach them how to handle people on their own. |
+| 4 | 比如，摆平 一场 关于一个玩具的 小争执 是 一堂 关于妥协的 小课、（那种会伴随他们的）。 | For instance, sorting out a little argument over a toy is a tiny lesson in compromise that sticks with them. | For instance, sorting out a squabble over a toy is a tiny lesson in compromise that sticks with them. |
 
-> I'd say it's hugely important. Childhood friends are often where kids first learn to share, argue, and make up again. Since their parents aren't always around, those friendships teach them how to handle people on their own. For instance, sorting out a squabble over a toy is a tiny lesson in compromise that sticks with them.
+> I'd say it's hugely important. Childhood friends are often where kids first learn to share, argue, and make up again. Since their parents aren't always around, those friendships teach them how to handle people on their own. For instance, sorting out a little argument over a toy is a tiny lesson in compromise that sticks with them.
 
 **Q3. What do you think of communicating via social media?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说句公道话，我 对它 挺矛盾的。 | I'm pretty mixed on it, to be fair. |
-| 2 | 一方面，它 特别棒、[用来]跟人 保持联系、（那些你本来会失去的），尤其是 国外的朋友。 | On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. |
-| 3 | 但另一方面，人们 无止境地 刷，把自己的生活 跟 别人的高光集锦 比。 | But on the other, people scroll endlessly and compare their lives to everyone else's highlight reel. |
-| 4 | 所以我觉得 它是个好工具，只要 你 别让它 吞掉 你一整天。 | So I reckon it's a great tool as long as you don't let it swallow your whole day. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说句公道话，我 对它 挺矛盾的。 | I'm pretty mixed on it, to be fair. | I'm pretty mixed on it, to be fair. |
+| 2 | 一方面，它 特别棒、[用来]跟人 保持联系、（那些你本来会失去的），尤其是 国外的朋友。 | On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. | On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. |
+| 3 | 但另一方面，人们 无止境地 刷，把自己的生活 跟 别人的高光集锦 比。 | But on the other, people scroll endlessly and compare their lives to everyone else's best moments. | But on the other, people scroll endlessly and compare their lives to everyone else's highlight reel. |
+| 4 | 所以我觉得 它是个好工具，只要 你 别让它 吞掉 你一整天。 | So I reckon it's a great tool as long as you don't let it eat up your whole day. | So I reckon it's a great tool as long as you don't let it swallow your whole day. |
 
-> I'm pretty mixed on it, to be fair. On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. But on the other, people scroll endlessly and compare their lives to everyone else's highlight reel. So I reckon it's a great tool as long as you don't let it swallow your whole day.
+> I'm pretty mixed on it, to be fair. On one hand, it's brilliant for staying in touch with folk you'd otherwise lose, especially friends abroad. But on the other, people scroll endlessly and compare their lives to everyone else's best moments. So I reckon it's a great tool as long as you don't let it eat up your whole day.
 
 **Q4. Do you think online communication through social media will replace face-to-face communication?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我真的 不这么觉得。 | I really don't think so. |
-| 2 | 社交媒体 对快速的聊天 很方便，但它 比不上 坐下来 和某人 一起喝杯咖啡。 | Social media's handy for quick chats, but it can't match sitting down with someone over coffee. |
-| 3 | 你 会错过 所有的肢体语言 和那些小玩笑、（那些 构成 一段真正联结的）。 | You miss all the body language and little jokes that make a real bond. |
-| 4 | 说实话，在网上 忙了长长的一周 之后，大多数人 还是 渴望 真正地 见面。 | Honestly, after a long week online, most people still crave actually meeting up. |
-| 5 | 所以我会说，它 会 补充 面对面，而不是 取代它。 | So I'd say it'll complement face-to-face, not replace it. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我真的 不这么觉得。 | I really don't think so. | I really don't think so. |
+| 2 | 社交媒体 对快速的聊天 很方便，但它 比不上 坐下来 和某人 一起喝杯咖啡。 | Social media's handy for quick chats, but it can't match sitting down with someone over coffee. | Social media's handy for quick chats, but it can't match sitting down with someone over coffee. |
+| 3 | 你 会错过 所有的肢体语言 和那些小玩笑、（那些 构成 一段真正联结的）。 | You miss all the body language and little jokes that make a real bond. | You miss all the body language and little jokes that make a real bond. |
+| 4 | 说实话，在网上 忙了长长的一周 之后，大多数人 还是 渴望 真正地 见面。 | Honestly, after a long week online, most people still really want to meet up in person. | Honestly, after a long week online, most people still crave actually meeting up. |
+| 5 | 所以我会说，它 会 补充 面对面，而不是 取代它。 | So I'd say it'll add to face-to-face, not replace it. | So I'd say it'll complement face-to-face, not replace it. |
 
-> I really don't think so. Social media's handy for quick chats, but it can't match sitting down with someone over coffee. You miss all the body language and little jokes that make a real bond. Honestly, after a long week online, most people still crave actually meeting up. So I'd say it'll complement face-to-face, not replace it.
+> I really don't think so. Social media's handy for quick chats, but it can't match sitting down with someone over coffee. You miss all the body language and little jokes that make a real bond. Honestly, after a long week online, most people still really want to meet up in person. So I'd say it'll add to face-to-face, not replace it.
 
 **Q5. What's the difference between having younger friends and older friends?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 它们 挺不一样的，我觉得。 | They're quite different, I reckon. |
-| 2 | 跟 小一点的朋友，你 往往 感觉 有点像 一个导师，而 他们的能量 让你 保持警觉。 | With younger friends, you tend to feel a bit like a mentor, and their energy keeps you on your toes. |
-| 3 | 大一点的朋友，另一方面，带来 经验 和 更冷静的建议，当你 卡住的时候。 | Older friends, on the other hand, bring experience and calmer advice when you're stuck. |
-| 4 | 说句公道话，最好的部分 是 你 从两边 都 学到 一些 真正有用的东西。 | To be fair, the best part is you learn something genuinely useful from both sides. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 它们 挺不一样的，我觉得。 | They're quite different, I reckon. | They're quite different, I reckon. |
+| 2 | 跟 小一点的朋友，你 往往 感觉 有点像 一个导师，而 他们的能量 让你 保持警觉。 | With younger friends, you tend to feel a bit like a mentor, and their energy keeps you on your toes. | With younger friends, you tend to feel a bit like a mentor, and their energy keeps you on your toes. |
+| 3 | 大一点的朋友，另一方面，带来 经验 和 更冷静的建议，当你 卡住的时候。 | Older friends, on the other hand, bring experience and calmer advice when you're stuck. | Older friends, on the other hand, bring experience and calmer advice when you're stuck. |
+| 4 | 说句公道话，最好的部分 是 你 从两边 都 学到 一些 真正有用的东西。 | To be fair, the best part is you learn something genuinely useful from both sides. | To be fair, the best part is you learn something genuinely useful from both sides. |
 
 > They're quite different, I reckon. With younger friends, you tend to feel a bit like a mentor, and their energy keeps you on your toes. Older friends, on the other hand, bring experience and calmer advice when you're stuck. To be fair, the best part is you learn something genuinely useful from both sides.
 
 **Q6. Has technology changed people's friendships? How?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 变化巨大，是的。 | Massively, yeah. |
-| 2 | 我们 以前 得 等 好几天 才等来 一封信，但现在 你 能 给一个哥们儿发消息、（在半个地球之外），几秒钟就到。 | We used to wait days for a letter, but now you can message a mate halfway across the world in seconds. |
-| 3 | 那 特别棒、[用来]让 联结 跨越距离 活着。 | That's brilliant for keeping bonds alive over distance. |
-| 4 | 话虽如此，它 也 让 友谊 感觉 浅了一点，因为 给一张照片点个赞 如今 不知怎么 就算 保持联系了。 | Having said that, it's also made friendships feel a bit shallower, since liking a photo somehow counts as staying in touch these days. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 变化巨大，是的。 | Massively, yeah. | Massively, yeah. |
+| 2 | 我们 以前 得 等 好几天 才等来 一封信，但现在 你 能 给一个哥们儿发消息、（在半个地球之外），几秒钟就到。 | We used to wait days for a letter, but now you can message a mate halfway across the world in seconds. | We used to wait days for a letter, but now you can message a mate halfway across the world in seconds. |
+| 3 | 那 特别棒、[用来]让 联结 跨越距离 活着。 | That's brilliant for keeping bonds alive over distance. | That's brilliant for keeping bonds alive over distance. |
+| 4 | 话虽如此，它 也 让 友谊 感觉 浅了一点，因为 给一张照片点个赞 如今 不知怎么 就算 保持联系了。 | Having said that, it's also made friendships feel a bit shallower, since liking a photo somehow counts as staying in touch these days. | Having said that, it's also made friendships feel a bit shallower, since liking a photo somehow counts as staying in touch these days. |
 
 > Massively, yeah. We used to wait days for a letter, but now you can message a mate halfway across the world in seconds. That's brilliant for keeping bonds alive over distance. Having said that, it's also made friendships feel a bit shallower, since liking a photo somehow counts as staying in touch these days.
 
-**P3 句型/模板**：`drift apart once they move away` · `the ones I've stayed close to are the kind you can pick straight back up with`（relative层叠）· `I'm pretty mixed on it`（骑墙）· `folk you'd otherwise lose`（relative后置）· `it can't match sitting down with someone over coffee` · `jokes that make a real bond`（that后置）· `complement …, not replace it`（PREDICT 收）· `keeps you on your toes` · `liking a photo counts as staying in touch`（动名词主语）。
+**P3 句型/模板**：`drift apart once they move away` · `the ones I've stayed close to are the kind you can pick straight back up with`（relative层叠）· `I'm pretty mixed on it`（骑墙）· `folk you'd otherwise lose`（relative后置）· `it can't match sitting down with someone over coffee` · `jokes that make a real bond`（that后置）· `add to …, not replace it`（PREDICT 收）· `keeps you on your toes` · `liking a photo counts as staying in touch`（动名词主语）。
 
 ---
 
