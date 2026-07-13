@@ -147,22 +147,22 @@
 
 > **Cue**: Describe an interesting video（何时何地看的 / 关于什么 / 为何看 / 感受）· 题型 Event
 
-### ①P2 拆解（英式中文珠子 → 范文英文）
+### ①P2 拆解（英式中文珠子 → 降档英文 → 原范文）
 
-| 句/功能 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| [opener] | 那么，我想聊的那个视频 是 一个短的太空纪录片、（我几周前一个深夜偶然刷到的），当时躺在床上、用手机刷着 YouTube。 | So, the video I'd like to talk about is a short space documentary I came across late one night a few weeks ago, lying in bed scrolling through YouTube on my phone. |
-| [what·内容] | 它基本上是关于宇宙那纯粹的尺度——它从我们自己的星球开始，然后慢慢地往外拉远，越过太阳系、再是银河系，直到地球变成这么一个小小的斑点、（你几乎认不出的）。 | It's basically about the sheer scale of the universe — it starts from our own planet and slowly zooms out, past the solar system, then the galaxy, until Earth becomes this tiny speck you can barely spot. |
-| [what·时长] | 整个片子 大概跑十分钟，配着这么一段特别平静的旁白。 | The whole thing runs for about ten minutes, with this really calm narration. |
-| [why/reason] | 我看它的原因 是 我一直是个科幻的大粉丝，所以任何关于太空的东西 往往都会抓住我的眼球。 | The reason I watched it is that I've always been a big fan of sci-fi, so anything about space tends to catch my eye. |
-| [why·展开] | 那个标题 在我的信息流里冒了出来，而说实话，我一分钟之内 就被勾住了。 | The title popped up in my feed, and honestly, I was hooked within a minute. |
-| [feel opener] | 至于我对它的感受，嗯，它真的把我震撼到了。 | As for how I feel about it, well, it genuinely blew me away. |
-| [feel·EL] | 它是那种视频、（会让你觉得自己无比渺小的），但是以一种好的方式——它把你日常的烦恼 放进了一个更大的视角里。 | It's the kind of video that makes you feel incredibly small, but in a good way — it puts your daily worries into perspective. |
-| [closer] | 所以，对，那是一个视频、（我之后又重看过好几次的）。 | So yeah, that's a video I've rewatched a couple of times since. |
+| 句/功能 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| [opener] | 那么，我想聊的那个视频 是 一个短的太空纪录片、（我几周前一个深夜偶然刷到的），当时躺在床上、用手机刷着 YouTube。 | So, the video I'd like to talk about is a short space documentary I came across late one night a few weeks ago, lying in bed scrolling through YouTube on my phone. | So, the video I'd like to talk about is a short space documentary I came across late one night a few weeks ago, lying in bed scrolling through YouTube on my phone. |
+| [what·内容] | 它基本上是关于宇宙那纯粹的尺度——它从我们自己的星球开始，然后慢慢地往外拉远，越过太阳系、再是银河系，直到地球变成这么一个小小的斑点、（你几乎认不出的）。 | It's basically about just how huge the universe is — it starts from our own planet and slowly zooms out, past the solar system, then the galaxy, until Earth becomes this tiny speck you can barely spot. | It's basically about the sheer scale of the universe — it starts from our own planet and slowly zooms out, past the solar system, then the galaxy, until Earth becomes this tiny speck you can barely spot. |
+| [what·时长] | 整个片子 大概跑十分钟，配着这么一段特别平静的旁白。 | The whole thing runs for about ten minutes, with this really calm narration. | The whole thing runs for about ten minutes, with this really calm narration. |
+| [why/reason] | 我看它的原因 是 我一直是个科幻的大粉丝，所以任何关于太空的东西 往往都会抓住我的眼球。 | The reason I watched it is that I've always been a big fan of sci-fi, so anything about space tends to catch my eye. | The reason I watched it is that I've always been a big fan of sci-fi, so anything about space tends to catch my eye. |
+| [why·展开] | 那个标题 在我的信息流里冒了出来，而说实话，我一分钟之内 就被勾住了。 | The title popped up in my feed, and honestly, I was hooked within a minute. | The title popped up in my feed, and honestly, I was hooked within a minute. |
+| [feel opener] | 至于我对它的感受，嗯，它真的把我震撼到了。 | As for how I feel about it, well, it genuinely blew me away. | As for how I feel about it, well, it genuinely blew me away. |
+| [feel·EL] | 它是那种视频、（会让你觉得自己无比渺小的），但是以一种好的方式——它把你日常的烦恼 放进了一个更大的视角里。 | It's the kind of video that makes you feel incredibly small, but in a good way — it makes your daily worries seem less important. | It's the kind of video that makes you feel incredibly small, but in a good way — it puts your daily worries into perspective. |
+| [closer] | 所以，对，那是一个视频、（我之后又重看过好几次的）。 | So yeah, that's a video I've rewatched a couple of times since. | So yeah, that's a video I've rewatched a couple of times since. |
 
-### ②P2 整段（shadow）
+### ②P2 整段（shadow · 降档版）
 
-> So, the video I'd like to talk about is a short space documentary I came across late one night a few weeks ago, lying in bed scrolling through YouTube on my phone. It's basically about the sheer scale of the universe — it starts from our own planet and slowly zooms out, past the solar system, then the galaxy, until Earth becomes this tiny speck you can barely spot. The whole thing runs for about ten minutes, with this really calm narration. The reason I watched it is that I've always been a big fan of sci-fi, so anything about space tends to catch my eye. The title popped up in my feed, and honestly, I was hooked within a minute. As for how I feel about it, well, it genuinely blew me away. It's the kind of video that makes you feel incredibly small, but in a good way — it puts your daily worries into perspective. So yeah, that's a video I've rewatched a couple of times since.
+> So, the video I'd like to talk about is a short space documentary I came across late one night a few weeks ago, lying in bed scrolling through YouTube on my phone. It's basically about just how huge the universe is — it starts from our own planet and slowly zooms out, past the solar system, then the galaxy, until Earth becomes this tiny speck you can barely spot. The whole thing runs for about ten minutes, with this really calm narration. The reason I watched it is that I've always been a big fan of sci-fi, so anything about space tends to catch my eye. The title popped up in my feed, and honestly, I was hooked within a minute. As for how I feel about it, well, it genuinely blew me away. It's the kind of video that makes you feel incredibly small, but in a good way — it makes your daily worries seem less important. So yeah, that's a video I've rewatched a couple of times since.
 
 ### 句型/模板（可搬走）
 
@@ -170,7 +170,7 @@
 - **拉远序列**：从…开始，慢慢往外拉，越过…，直到… → `starts from …, slowly zooms out, past …, until …`
 - **感受 bullet 起手**：至于我对它的感受，… → `As for how I feel about it, …`
 - **兴趣钩子**：任何关于[X]的东西 往往抓住我的眼球 → `anything about [X] tends to catch my eye`
-- **EL 收尾**：它是那种[X]、（会让你…的），但以一种好的方式 → `the kind of [X] that makes you …, but in a good way` + `puts your worries into perspective`
+- **EL 收尾**：它是那种[X]、（会让你…的），但以一种好的方式 → `the kind of [X] that makes you …, but in a good way` + `makes your daily worries seem less important`
 - **地道块**：`came across` 偶然遇到 / `popped up in my feed` 冒进信息流 / `was hooked` 被勾住 / `blew me away` 震撼到我
 
 ---
@@ -179,66 +179,66 @@
 
 **Q1. What kind of videos do people in your country like to watch?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，我会说 短视频在这儿火得不行——搞笑短剧、做饭视频、那种你在手机上刷过去的快内容。 | Well, I'd say short clips are huge here — funny skits, cooking videos, that kind of quick content you scroll past on your phone. |
-| 2 | 人们挺忙的，所以他们 不太会再 坐下来看长的东西了。 | People are pretty busy, so they don't really sit through long stuff anymore. |
-| 3 | 话虽如此，游戏直播和旅行 vlog 仍然能吸引巨大的人群，尤其在年轻人里、（那些在网上长大的）。 | Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，我会说 短视频在这儿火得不行——搞笑短剧、做饭视频、那种你在手机上刷过去的快内容。 | Well, I'd say short clips are huge here — funny videos, cooking videos, that kind of quick content you scroll past on your phone. | Well, I'd say short clips are huge here — funny skits, cooking videos, that kind of quick content you scroll past on your phone. |
+| 2 | 人们挺忙的，所以他们 不太会再 坐下来看长的东西了。 | People are pretty busy, so they don't really sit through long stuff anymore. | People are pretty busy, so they don't really sit through long stuff anymore. |
+| 3 | 话虽如此，游戏直播和旅行 vlog 仍然能吸引巨大的人群，尤其在年轻人里、（那些在网上长大的）。 | Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online. | Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online. |
 
-> Well, I'd say short clips are huge here — funny skits, cooking videos, that kind of quick content you scroll past on your phone. People are pretty busy, so they don't really sit through long stuff anymore. Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online.
+> Well, I'd say short clips are huge here — funny videos, cooking videos, that kind of quick content you scroll past on your phone. People are pretty busy, so they don't really sit through long stuff anymore. Having said that, gaming streams and travel vlogs still pull in massive crowds, especially among younger folk who've grown up online.
 
 **Q2. Which is more helpful, watching videos or reading books?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，这取决于你想要什么。 | Honestly, it depends what you're after. |
-| 2 | 视频很擅长 给你演示 一件事是怎么做的，比如修一个水龙头，因为你真的看着它发生。 | Videos are great for showing you how something's done, like fixing a tap, because you actually see it happen. |
-| 3 | 但要在一个话题上钻深，书还是赢——它们让你慢下来、真正地思考。 | But for going deep on a topic, books still win — they make you slow down and really think. |
-| 4 | 所以我会说，它们是有帮助的、以完全不同的方式，而挑一个出来 是不公平的。 | So I'd say they're helpful in totally different ways, and it's not fair to pick one. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，这取决于你想要什么。 | Honestly, it depends what you're after. | Honestly, it depends what you're after. |
+| 2 | 视频很擅长 给你演示 一件事是怎么做的，比如修一个水龙头，因为你真的看着它发生。 | Videos are great for showing you how something's done, like fixing a tap, because you actually see it happen. | Videos are great for showing you how something's done, like fixing a tap, because you actually see it happen. |
+| 3 | 但要在一个话题上钻深，书还是赢——它们让你慢下来、真正地思考。 | But for going deep on a topic, books still win — they make you slow down and really think. | But for going deep on a topic, books still win — they make you slow down and really think. |
+| 4 | 所以我会说，它们是有帮助的、以完全不同的方式，而挑一个出来 是不公平的。 | So I'd say they're helpful in totally different ways, and it's not fair to pick one. | So I'd say they're helpful in totally different ways, and it's not fair to pick one. |
 
 > Honestly, it depends what you're after. Videos are great for showing you how something's done, like fixing a tap, because you actually see it happen. But for going deep on a topic, books still win — they make you slow down and really think. So I'd say they're helpful in totally different ways, and it's not fair to pick one.
 
 **Q3. What skills can people learn from watching videos?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 其实一大堆。 | Loads, actually. |
-| 2 | 你能学到 真的很实用的技能，比如做一道新菜、或者在吉他上弹几个和弦，就靠一步一步地跟着做。 | You can pick up really practical skills, like cooking a new dish or playing a few chords on guitar, just by following along step by step. |
-| 3 | 更重要的是，语言是很大的一块——人们 大幅提升 他们的听力，靠看 带字幕的节目。 | What's more, language is a big one — people improve their listening massively by watching shows with subtitles. |
-| 4 | 所以我觉得，视频对动手型、视觉型的学习者 特别棒，（那些对着纯文字就头疼的）。 | So I reckon videos are brilliant for hands-on, visual learners who struggle with plain text. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 其实一大堆。 | Loads, actually. | Loads, actually. |
+| 2 | 你能学到 真的很实用的技能，比如做一道新菜、或者在吉他上弹几个和弦，就靠一步一步地跟着做。 | You can pick up really practical skills, like cooking a new dish or playing a few chords on guitar, just by following along step by step. | You can pick up really practical skills, like cooking a new dish or playing a few chords on guitar, just by following along step by step. |
+| 3 | 更重要的是，语言是很大的一块——人们 大幅提升 他们的听力，靠看 带字幕的节目。 | What's more, language is a big one — people improve their listening massively by watching shows with subtitles. | What's more, language is a big one — people improve their listening massively by watching shows with subtitles. |
+| 4 | 所以我觉得，视频对动手型、视觉型的学习者 特别棒，（那些对着纯文字就头疼的）。 | So I reckon videos are brilliant for hands-on, visual learners who struggle with plain text. | So I reckon videos are brilliant for hands-on, visual learners who struggle with plain text. |
 
 > Loads, actually. You can pick up really practical skills, like cooking a new dish or playing a few chords on guitar, just by following along step by step. What's more, language is a big one — people improve their listening massively by watching shows with subtitles. So I reckon videos are brilliant for hands-on, visual learners who struggle with plain text.
 
 **Q4. Are there any differences between the videos that young people and old people like to watch?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 绝对有。 | Definitely. |
-| 2 | 年轻人 死盯着 又快又利落的内容——短视频、游戏、还有每周都在变的梗。 | Young people are glued to fast, snappy content — short clips, gaming, memes that change every week. |
-| 3 | 老一点的人 往往 选更慢的东西，比如新闻、纪录片、或者做饭节目，因为它更容易跟上。 | Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. |
-| 4 | 我觉得这归结到 注意力时长、还有 每一代人 是看着什么长大的，真的。 | I reckon it comes down to attention spans and what each generation grew up watching, really. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 绝对有。 | Definitely. | Definitely. |
+| 2 | 年轻人 死盯着 又快又利落的内容——短视频、游戏、还有每周都在变的梗。 | Young people are glued to fast, fun content — short clips, gaming, memes that change every week. | Young people are glued to fast, snappy content — short clips, gaming, memes that change every week. |
+| 3 | 老一点的人 往往 选更慢的东西，比如新闻、纪录片、或者做饭节目，因为它更容易跟上。 | Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. | Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. |
+| 4 | 我觉得这归结到 注意力时长、还有 每一代人 是看着什么长大的，真的。 | I reckon it comes down to attention spans and what each generation grew up watching, really. | I reckon it comes down to attention spans and what each generation grew up watching, really. |
 
-> Definitely. Young people are glued to fast, snappy content — short clips, gaming, memes that change every week. Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. I reckon it comes down to attention spans and what each generation grew up watching, really.
+> Definitely. Young people are glued to fast, fun content — short clips, gaming, memes that change every week. Older folk tend to go for slower stuff, like news, documentaries or cooking shows, because it's easier to follow. I reckon it comes down to attention spans and what each generation grew up watching, really.
 
 **Q5. Are there any differences between the videos that young men and young women like to watch?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说句公道话，有一点重叠，但你确实能看出一些规律。 | To be fair, there's a bit of overlap, but you do spot patterns. |
-| 2 | 年轻女性 常常 偏向美妆教程、时尚和生活方式 vlog，而年轻男性 更多去看 游戏、体育和数码测评。 | Young women often lean towards beauty tutorials, fashion and lifestyle vlogs, while young men go more for gaming, sports and tech reviews. |
-| 3 | 话虽如此，这些年 它松动了很多——很多女生打游戏，也一大堆男生 关注做饭频道。 | That said, it's loosening up a lot these days — plenty of girls game, and loads of guys follow cooking channels. |
-| 4 | 所以它不是非黑即白的。 | So it's not black and white. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说句公道话，有一点重叠，但你确实能看出一些规律。 | To be fair, there's a bit of overlap, but you do spot patterns. | To be fair, there's a bit of overlap, but you do spot patterns. |
+| 2 | 年轻女性 常常 偏向美妆教程、时尚和生活方式 vlog，而年轻男性 更多去看 游戏、体育和数码测评。 | Young women often lean towards beauty tutorials, fashion and lifestyle vlogs, while young men go more for gaming, sports and tech reviews. | Young women often lean towards beauty tutorials, fashion and lifestyle vlogs, while young men go more for gaming, sports and tech reviews. |
+| 3 | 话虽如此，这些年 它松动了很多——很多女生打游戏，也一大堆男生 关注做饭频道。 | That said, it's loosening up a lot these days — plenty of girls game, and loads of guys follow cooking channels. | That said, it's loosening up a lot these days — plenty of girls game, and loads of guys follow cooking channels. |
+| 4 | 所以它不是非黑即白的。 | So it's not black and white. | So it's not black and white. |
 
 > To be fair, there's a bit of overlap, but you do spot patterns. Young women often lean towards beauty tutorials, fashion and lifestyle vlogs, while young men go more for gaming, sports and tech reviews. That said, it's loosening up a lot these days — plenty of girls game, and loads of guys follow cooking channels. So it's not black and white.
 
 **Q6. What makes a video go viral online?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，我觉得通常是某种 在情感上击中人的东西——它要么让他们哈哈大笑，要么真的让他们惊讶。 | Well, I reckon it's usually something that hits people emotionally — it either makes them laugh out loud or genuinely surprises them. |
-| 2 | 如果一个片子 让人有共鸣，人们 立刻 就把它 分享给 他们的朋友。 | If a clip's relatable, folk instantly share it with their mates. |
-| 3 | 时机也重要；早早地 跟上一个潮流 帮助巨大。 | Timing matters too; jumping on a trend early helps massively. |
-| 4 | 但说实话，很多 就是运气——你没法 真的 为它做计划。 | But honestly, a lot of it's just luck — you can't really plan for it. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，我觉得通常是某种 在情感上击中人的东西——它要么让他们哈哈大笑，要么真的让他们惊讶。 | Well, I reckon it's usually something that hits people emotionally — it either makes them laugh out loud or genuinely surprises them. | Well, I reckon it's usually something that hits people emotionally — it either makes them laugh out loud or genuinely surprises them. |
+| 2 | 如果一个片子 让人有共鸣，人们 立刻 就把它 分享给 他们的朋友。 | If a clip's relatable, folk instantly share it with their mates. | If a clip's relatable, folk instantly share it with their mates. |
+| 3 | 时机也重要；早早地 跟上一个潮流 帮助巨大。 | Timing matters too; jumping on a trend early helps massively. | Timing matters too; jumping on a trend early helps massively. |
+| 4 | 但说实话，很多 就是运气——你没法 真的 为它做计划。 | But honestly, a lot of it's just luck — you can't really plan for it. | But honestly, a lot of it's just luck — you can't really plan for it. |
 
 > Well, I reckon it's usually something that hits people emotionally — it either makes them laugh out loud or genuinely surprises them. If a clip's relatable, folk instantly share it with their mates. Timing matters too; jumping on a trend early helps massively. But honestly, a lot of it's just luck — you can't really plan for it.
 
@@ -250,22 +250,22 @@
 
 > **Cue**: Describe a boring place（在哪 / 跟谁去 / 做了啥 / 为何无聊）· 题型 Place
 
-### ①P2 拆解（英式中文珠子 → 范文英文）
+### ①P2 拆解（英式中文珠子 → 降档英文 → 原范文）
 
-| 句/功能 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| [opener] | 那么，我想聊的那个地方 是 一座小镇、（离我们住的地方几个小时车程），我和我老婆去年春天 一时兴起 去了那儿。 | So, the place I'd like to talk about is a small town a couple of hours from where we live, which my wife and I visited last spring on a whim. |
-| [why went] | 我们去那儿 主要是因为 她读到 它有一座不错的老庙和一条河边步道，所以我们觉得 它会是 一个放松的周末小假、对我们俩来说。 | We'd gone there mostly because she'd read it had a nice old temple and a riverside walk, so we figured it'd be a relaxing weekend break for the two of us. |
-| [did there] | 说实话，我们一到那儿，就很快 没事可做了。 | To be honest, once we got there, we ran out of things to do pretty quickly. |
-| [did·细] | 我们看了庙、沿着河散了步、随便吃了午饭——然后基本上就这样了。 | We saw the temple, strolled along the river, grabbed lunch — and that was basically it. |
-| [did·收] | 到下午早些时候，我们就只是 在同一条主街上 一遍又一遍地 晃悠，有气无力地 往关着门的店里 瞅。 | By early afternoon we were just wandering the same main street over and over, half-heartedly looking in shut shops. |
-| [why boring] | 我会说它无聊的原因 是 那儿什么都没在发生。 | The reason I'd call it boring is that there was nothing going on. |
-| [why·展开] | 整个地方 好像 五点就关门歇业了，而 一家咖啡馆、或者一个地方 都没有、（那种你能就坐着看看人的）。 | The whole place seemed to shut down by five, and there wasn't a single café or spot where you could just sit and people-watch. |
-| [closer] | 所以，对，那是最沉闷的小镇、（我去过的）。 | So yeah, that's the dullest little town I've ever been to. |
+| 句/功能 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| [opener] | 那么，我想聊的那个地方 是 一座小镇、（离我们住的地方几个小时车程），我和我老婆去年春天 一时兴起 去了那儿。 | So, the place I'd like to talk about is a small town a couple of hours from where we live, which my wife and I visited last spring on a whim. | So, the place I'd like to talk about is a small town a couple of hours from where we live, which my wife and I visited last spring on a whim. |
+| [why went] | 我们去那儿 主要是因为 她读到 它有一座不错的老庙和一条河边步道，所以我们觉得 它会是 一个放松的周末小假、对我们俩来说。 | We'd gone there mostly because she'd read it had a nice old temple and a riverside walk, so we figured it'd be a relaxing weekend break for the two of us. | We'd gone there mostly because she'd read it had a nice old temple and a riverside walk, so we figured it'd be a relaxing weekend break for the two of us. |
+| [did there] | 说实话，我们一到那儿，就很快 没事可做了。 | To be honest, once we got there, we ran out of things to do pretty quickly. | To be honest, once we got there, we ran out of things to do pretty quickly. |
+| [did·细] | 我们看了庙、沿着河散了步、随便吃了午饭——然后基本上就这样了。 | We saw the temple, strolled along the river, grabbed lunch — and that was basically it. | We saw the temple, strolled along the river, grabbed lunch — and that was basically it. |
+| [did·收] | 到下午早些时候，我们就只是 在同一条主街上 一遍又一遍地 晃悠，有气无力地 往关着门的店里 瞅。 | By early afternoon we were just wandering the same main street over and over, glancing into closed shops. | By early afternoon we were just wandering the same main street over and over, half-heartedly looking in shut shops. |
+| [why boring] | 我会说它无聊的原因 是 那儿什么都没在发生。 | The reason I'd call it boring is that there was nothing going on. | The reason I'd call it boring is that there was nothing going on. |
+| [why·展开] | 整个地方 好像 五点就关门歇业了，而 一家咖啡馆、或者一个地方 都没有、（那种你能就坐着看看人的）。 | The whole place seemed to shut down by five, and there wasn't a single café or spot where you could just sit and people-watch. | The whole place seemed to shut down by five, and there wasn't a single café or spot where you could just sit and people-watch. |
+| [closer] | 所以，对，那是最沉闷的小镇、（我去过的）。 | So yeah, that's the dullest little town I've ever been to. | So yeah, that's the dullest little town I've ever been to. |
 
-### ②P2 整段（shadow）
+### ②P2 整段（shadow · 降档版）
 
-> So, the place I'd like to talk about is a small town a couple of hours from where we live, which my wife and I visited last spring on a whim. We'd gone there mostly because she'd read it had a nice old temple and a riverside walk, so we figured it'd be a relaxing weekend break for the two of us. To be honest, once we got there, we ran out of things to do pretty quickly. We saw the temple, strolled along the river, grabbed lunch — and that was basically it. By early afternoon we were just wandering the same main street over and over, half-heartedly looking in shut shops. The reason I'd call it boring is that there was nothing going on. The whole place seemed to shut down by five, and there wasn't a single café or spot where you could just sit and people-watch. So yeah, that's the dullest little town I've ever been to.
+> So, the place I'd like to talk about is a small town a couple of hours from where we live, which my wife and I visited last spring on a whim. We'd gone there mostly because she'd read it had a nice old temple and a riverside walk, so we figured it'd be a relaxing weekend break for the two of us. To be honest, once we got there, we ran out of things to do pretty quickly. We saw the temple, strolled along the river, grabbed lunch — and that was basically it. By early afternoon we were just wandering the same main street over and over, glancing into closed shops. The reason I'd call it boring is that there was nothing going on. The whole place seemed to shut down by five, and there wasn't a single café or spot where you could just sit and people-watch. So yeah, that's the dullest little town I've ever been to.
 
 ### 句型/模板（可搬走）
 
@@ -283,71 +283,71 @@
 
 **Q1. Why do most children think education is boring?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，我会说 这是因为 很多学校教育 感觉跟他们真实的生活 脱节。 | Honestly, I'd say it's because a lot of schooling feels disconnected from their real lives. |
-| 2 | 孩子们 坐在那儿 死记 那些他们没法产生共鸣的事实，所以自然 它就拖沓。 | Kids sit there memorising facts they can't relate to, so naturally it drags. |
-| 3 | 比如，死背 那些日期、背后没有故事的，很枯燥。 | For instance, learning dates by heart with no story behind them is dull. |
-| 4 | 如果课能更动手一点，我觉得他们会发现它 有趣得多。 | If lessons were more hands-on, I reckon they'd find it far more engaging. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，我会说 这是因为 很多学校教育 感觉跟他们真实的生活 脱节。 | Honestly, I'd say it's because a lot of schooling feels disconnected from their real lives. | Honestly, I'd say it's because a lot of schooling feels disconnected from their real lives. |
+| 2 | 孩子们 坐在那儿 死记 那些他们没法产生共鸣的事实，所以自然 它就拖沓。 | Kids sit there memorising facts they can't relate to, so naturally it drags. | Kids sit there memorising facts they can't relate to, so naturally it drags. |
+| 3 | 比如，死背 那些日期、背后没有故事的，很枯燥。 | For instance, learning dates by heart with no story behind them is dull. | For instance, learning dates by heart with no story behind them is dull. |
+| 4 | 如果课能更动手一点，我觉得他们会发现它 有趣得多。 | If lessons were more hands-on, I reckon they'd find it far more engaging. | If lessons were more hands-on, I reckon they'd find it far more engaging. |
 
 > Honestly, I'd say it's because a lot of schooling feels disconnected from their real lives. Kids sit there memorising facts they can't relate to, so naturally it drags. For instance, learning dates by heart with no story behind them is dull. If lessons were more hands-on, I reckon they'd find it far more engaging.
 
 **Q2. Why aren't young people willing to listen to the experiences of older people?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，我觉得这大多是一种代沟。 | Well, I think it's mostly a generation gap. |
-| 2 | 年轻人 觉得 老一辈 生活在一个完全不同的世界，所以那些建议 显得过时。 | Young people feel older folk lived in a totally different world, so the advice seems out of date. |
-| 3 | 此外，在那个年纪 你宁愿 从自己的错误里学，而不是 被说教。 | Plus, at that age you'd rather learn from your own mistakes than be lectured. |
-| 4 | 不过说句公道话，他们 常常 后悔 把那份智慧 甩开，一旦他们 年纪大一点。 | To be fair, though, they often regret brushing off that wisdom once they're a bit older. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，我觉得这大多是一种代沟。 | Well, I think it's mostly a generation gap. | Well, I think it's mostly a generation gap. |
+| 2 | 年轻人 觉得 老一辈 生活在一个完全不同的世界，所以那些建议 显得过时。 | Young people feel older folk lived in a totally different world, so the advice seems out of date. | Young people feel older folk lived in a totally different world, so the advice seems out of date. |
+| 3 | 此外，在那个年纪 你宁愿 从自己的错误里学，而不是 被说教。 | Plus, at that age you'd rather learn from your own mistakes than be lectured. | Plus, at that age you'd rather learn from your own mistakes than be lectured. |
+| 4 | 不过说句公道话，他们 常常 后悔 把那份智慧 甩开，一旦他们 年纪大一点。 | To be fair, though, they often regret brushing off that wisdom once they're a bit older. | To be fair, though, they often regret brushing off that wisdom once they're a bit older. |
 
 > Well, I think it's mostly a generation gap. Young people feel older folk lived in a totally different world, so the advice seems out of date. Plus, at that age you'd rather learn from your own mistakes than be lectured. To be fair, though, they often regret brushing off that wisdom once they're a bit older.
 
 **Q3. What can people do when they feel bored?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 他们能做的 有一大堆，真的。 | There's loads they can do, really. |
-| 2 | 最快的解法 是 换一换日常——去散个步、给朋友打个电话、或者 重新捡起一个爱好、（那种他们一直忽略的）。 | The quickest fix is to switch up the routine — go for a walk, ring a friend, or pick up a hobby they've neglected. |
-| 3 | 我觉得 无聊 常常是一个提示、（提示你需要点新鲜的东西）。 | I reckon boredom's often a nudge that you need something fresh. |
-| 4 | 比如，在网上学一个新技能 能把一个沉闷的下午 彻底扭转过来。 | For instance, learning a new skill online can turn a dull afternoon around completely. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 他们能做的 有一大堆，真的。 | There's loads they can do, really. | There's loads they can do, really. |
+| 2 | 最快的解法 是 换一换日常——去散个步、给朋友打个电话、或者 重新捡起一个爱好、（那种他们一直忽略的）。 | The quickest fix is to switch up the routine — go for a walk, ring a friend, or pick up a hobby they've neglected. | The quickest fix is to switch up the routine — go for a walk, ring a friend, or pick up a hobby they've neglected. |
+| 3 | 我觉得 无聊 常常是一个提示、（提示你需要点新鲜的东西）。 | I reckon boredom's often a sign that you need something fresh. | I reckon boredom's often a nudge that you need something fresh. |
+| 4 | 比如，在网上学一个新技能 能把一个沉闷的下午 彻底扭转过来。 | For instance, learning a new skill online can turn a dull afternoon around completely. | For instance, learning a new skill online can turn a dull afternoon around completely. |
 
-> There's loads they can do, really. The quickest fix is to switch up the routine — go for a walk, ring a friend, or pick up a hobby they've neglected. I reckon boredom's often a nudge that you need something fresh. For instance, learning a new skill online can turn a dull afternoon around completely.
+> There's loads they can do, really. The quickest fix is to switch up the routine — go for a walk, ring a friend, or pick up a hobby they've neglected. I reckon boredom's often a sign that you need something fresh. For instance, learning a new skill online can turn a dull afternoon around completely.
 
 **Q4. Why are some teachers' classes boring? Are there any solutions?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 主要是因为 有些老师 就是没完没了地讲，照着幻灯片 干念，一点能量都没有。 | Mainly because some teachers just drone on, reading straight off slides without any energy. |
-| 2 | 如果没有互动，学生 很快就走神。 | If there's no interaction, students switch off fast. |
-| 3 | 不过 那个解法 并不复杂——扔进一些讨论、真实世界的例子、或者一个快速的小测验。 | The fix isn't complicated, though — chuck in some discussion, real-world examples, or a quick quiz. |
-| 4 | 说实话，哪怕一点点幽默 都能 大有帮助、[去]让一屋子人 保持清醒、投入。 | Honestly, even a bit of humour goes a long way towards keeping a room awake and engaged. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 主要是因为 有些老师 就是没完没了地讲，照着幻灯片 干念，一点能量都没有。 | Mainly because some teachers just go on and on, reading straight off slides without any energy. | Mainly because some teachers just drone on, reading straight off slides without any energy. |
+| 2 | 如果没有互动，学生 很快就走神。 | If there's no interaction, students switch off fast. | If there's no interaction, students switch off fast. |
+| 3 | 不过 那个解法 并不复杂——扔进一些讨论、真实世界的例子、或者一个快速的小测验。 | The fix isn't complicated, though — throw in some discussion, real-world examples, or a quick quiz. | The fix isn't complicated, though — chuck in some discussion, real-world examples, or a quick quiz. |
+| 4 | 说实话，哪怕一点点幽默 都能 大有帮助、[去]让一屋子人 保持清醒、投入。 | Honestly, even a bit of humour goes a long way towards keeping a room awake and engaged. | Honestly, even a bit of humour goes a long way towards keeping a room awake and engaged. |
 
-> Mainly because some teachers just drone on, reading straight off slides without any energy. If there's no interaction, students switch off fast. The fix isn't complicated, though — chuck in some discussion, real-world examples, or a quick quiz. Honestly, even a bit of humour goes a long way towards keeping a room awake and engaged.
+> Mainly because some teachers just go on and on, reading straight off slides without any energy. If there's no interaction, students switch off fast. The fix isn't complicated, though — throw in some discussion, real-world examples, or a quick quiz. Honestly, even a bit of humour goes a long way towards keeping a room awake and engaged.
 
 **Q5. Why do some young people feel bored when talking with old people?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我会说 他们的兴趣 就是 没太多重叠。 | I'd say their interests just don't overlap much. |
-| 2 | 年轻人 喜欢 潮流、音乐和科技，而老年人 常常 沉湎于过去，所以聊天 就冷掉了。 | Young folk are into trends, music and tech, while older people often dwell on the past, so the chat fizzles out. |
-| 3 | 此外，他们有时候 重复同样的故事，（这）就变得让人厌烦。 | Plus, they sometimes repeat the same stories, which gets tiresome. |
-| 4 | 话虽如此，只要有一点耐心，那些对话 其实 能挺有收获的。 | That said, with a bit of patience those conversations can actually be quite rewarding. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我会说 他们的兴趣 就是 没太多重叠。 | I'd say their interests just don't overlap much. | I'd say their interests just don't overlap much. |
+| 2 | 年轻人 喜欢 潮流、音乐和科技，而老年人 常常 沉湎于过去，所以聊天 就冷掉了。 | Young folk are into trends, music and tech, while older people often talk about the past, so the chat dies down. | Young folk are into trends, music and tech, while older people often dwell on the past, so the chat fizzles out. |
+| 3 | 此外，他们有时候 重复同样的故事，（这）就变得让人厌烦。 | Plus, they sometimes repeat the same stories, which gets boring. | Plus, they sometimes repeat the same stories, which gets tiresome. |
+| 4 | 话虽如此，只要有一点耐心，那些对话 其实 能挺有收获的。 | That said, with a bit of patience those conversations can actually be quite rewarding. | That said, with a bit of patience those conversations can actually be quite rewarding. |
 
-> I'd say their interests just don't overlap much. Young folk are into trends, music and tech, while older people often dwell on the past, so the chat fizzles out. Plus, they sometimes repeat the same stories, which gets tiresome. That said, with a bit of patience those conversations can actually be quite rewarding.
+> I'd say their interests just don't overlap much. Young folk are into trends, music and tech, while older people often talk about the past, so the chat dies down. Plus, they sometimes repeat the same stories, which gets boring. That said, with a bit of patience those conversations can actually be quite rewarding.
 
 **Q6. Do most people think news about celebrities is boring?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 这真的 很分裂人，我会说。 | It really splits people, I'd say. |
-| 2 | 很多人 觉得它无聊，因为它 只是 关于陌生人 感情生活的 八卦，里面 没有 任何有用的东西。 | Plenty find it dull because it's just gossip about strangers' love lives, with nothing useful in it. |
-| 3 | 但一大堆别的人 是真的 爱得不行——它是一种无害的逃离、从他们自己的烦恼里。 | But loads of others genuinely lap it up — it's a harmless escape from their own worries. |
-| 4 | 所以说实话，它无不无聊 完全取决于 你问的是谁。 | So honestly, whether it's boring depends entirely on who you ask. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 这真的 很分裂人，我会说。 | It really splits people, I'd say. | It really splits people, I'd say. |
+| 2 | 很多人 觉得它无聊，因为它 只是 关于陌生人 感情生活的 八卦，里面 没有 任何有用的东西。 | Plenty find it dull because it's just gossip about strangers' love lives, with nothing useful in it. | Plenty find it dull because it's just gossip about strangers' love lives, with nothing useful in it. |
+| 3 | 但一大堆别的人 是真的 爱得不行——它是一种无害的逃离、从他们自己的烦恼里。 | But loads of others genuinely love it — it's a harmless escape from their own worries. | But loads of others genuinely lap it up — it's a harmless escape from their own worries. |
+| 4 | 所以说实话，它无不无聊 完全取决于 你问的是谁。 | So honestly, whether it's boring depends entirely on who you ask. | So honestly, whether it's boring depends entirely on who you ask. |
 
-> It really splits people, I'd say. Plenty find it dull because it's just gossip about strangers' love lives, with nothing useful in it. But loads of others genuinely lap it up — it's a harmless escape from their own worries. So honestly, whether it's boring depends entirely on who you ask.
+> It really splits people, I'd say. Plenty find it dull because it's just gossip about strangers' love lives, with nothing useful in it. But loads of others genuinely love it — it's a harmless escape from their own worries. So honestly, whether it's boring depends entirely on who you ask.
 
-**P3 句型/模板**：`it's because [X] feels disconnected from …`（归因）· `facts they can't relate to`（relative后置）· `you'd rather A than B` · `regret … -ing`（后悔做）· `a nudge that you need something fresh`（同位从句）· `goes a long way towards … -ing`（大有帮助）· `it really splits people`（意见两极）· `whether it's X depends entirely on who you ask`。
+**P3 句型/模板**：`it's because [X] feels disconnected from …`（归因）· `facts they can't relate to`（relative后置）· `you'd rather A than B` · `regret … -ing`（后悔做）· `a sign that you need something fresh`（同位从句）· `goes a long way towards … -ing`（大有帮助）· `it really splits people`（意见两极）· `whether it's X depends entirely on who you ask`。
 
 ---
 
@@ -355,18 +355,20 @@
 
 > **Cue**: Describe a time when you got up early（何时 / 做了啥 / 为何早起 / 感受）· 题型 Event
 
-### ①P2 拆解（英式中文珠子 → 范文英文）
+### ①P2 拆解（英式中文珠子 → 降档英文 → 原范文）
 
-| 句/功能 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| [opener] | 那么，我想聊的那个早晨 是 去年冬天的某一天，当时我 硬把自己 从床上拖起来、大概五点半，[去]跟我老婆一起跑步。 | So, the morning I'd like to talk about is one day last winter, when I dragged myself out of bed at around half past five to go running with my wife. |
-| [背景] | 她 非常热衷健身——她一周锻炼三四次——而且她 想拉我一起 已经想了很久了。 | She's really into fitness — she works out three or four times a week — and she'd been trying to get me to join her for ages. |
-| [did] | 那天早上，我 竟然 答应了，所以我们 穿上装备、朝附近的一个公园 出发了，那会儿外面 还是 漆黑一片。 | That morning, I actually said yes, so we put on our gear and headed to a park nearby while it was still pitch dark outside. |
-| [why] | 我起这么早的原因 说实话 就只是 [为了]陪她。 | The reason I got up so early was honestly just to keep her company. |
-| [why·展开] | 她 跟我说过 清晨的空气 感觉更清新，还说 用运动 开启一天 会让你状态很好。 | She'd told me the early air feels fresher, and that starting the day with exercise sets you up nicely. |
-| [did·自嘲] | 我跑步不太行，所以我 大多是 慢跑着、喘着气 跟在她后面。 | I'm not great at running, so I mostly jogged and gasped behind her. |
-| [feel] | 说实话，头十分钟 很难熬，但太阳一升起来，我就 意外地 感觉头脑清醒、还为自己 骄傲。 | To be honest, the first ten minutes were brutal, but once the sun came up, I felt surprisingly clear-headed and proud of myself. |
-| [closer] | 所以，对，那就是我想聊的那个清晨——那种小小的胜利之一、（我到现在还记得的）。 | So yeah, that's the early morning I wanted to talk about — one of those small wins I still remember. |
+> 这张 P2 原范文已经在 6-6.5 词汇档，降档列 = 原范文（无需改）。
+
+| 句/功能 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| [opener] | 那么，我想聊的那个早晨 是 去年冬天的某一天，当时我 硬把自己 从床上拖起来、大概五点半，[去]跟我老婆一起跑步。 | So, the morning I'd like to talk about is one day last winter, when I dragged myself out of bed at around half past five to go running with my wife. | So, the morning I'd like to talk about is one day last winter, when I dragged myself out of bed at around half past five to go running with my wife. |
+| [背景] | 她 非常热衷健身——她一周锻炼三四次——而且她 想拉我一起 已经想了很久了。 | She's really into fitness — she works out three or four times a week — and she'd been trying to get me to join her for ages. | She's really into fitness — she works out three or four times a week — and she'd been trying to get me to join her for ages. |
+| [did] | 那天早上，我 竟然 答应了，所以我们 穿上装备、朝附近的一个公园 出发了，那会儿外面 还是 漆黑一片。 | That morning, I actually said yes, so we put on our gear and headed to a park nearby while it was still pitch dark outside. | That morning, I actually said yes, so we put on our gear and headed to a park nearby while it was still pitch dark outside. |
+| [why] | 我起这么早的原因 说实话 就只是 [为了]陪她。 | The reason I got up so early was honestly just to keep her company. | The reason I got up so early was honestly just to keep her company. |
+| [why·展开] | 她 跟我说过 清晨的空气 感觉更清新，还说 用运动 开启一天 会让你状态很好。 | She'd told me the early air feels fresher, and that starting the day with exercise sets you up nicely. | She'd told me the early air feels fresher, and that starting the day with exercise sets you up nicely. |
+| [did·自嘲] | 我跑步不太行，所以我 大多是 慢跑着、喘着气 跟在她后面。 | I'm not great at running, so I mostly jogged and gasped behind her. | I'm not great at running, so I mostly jogged and gasped behind her. |
+| [feel] | 说实话，头十分钟 很难熬，但太阳一升起来，我就 意外地 感觉头脑清醒、还为自己 骄傲。 | To be honest, the first ten minutes were brutal, but once the sun came up, I felt surprisingly clear-headed and proud of myself. | To be honest, the first ten minutes were brutal, but once the sun came up, I felt surprisingly clear-headed and proud of myself. |
+| [closer] | 所以，对，那就是我想聊的那个清晨——那种小小的胜利之一、（我到现在还记得的）。 | So yeah, that's the early morning I wanted to talk about — one of those small wins I still remember. | So yeah, that's the early morning I wanted to talk about — one of those small wins I still remember. |
 
 ### ②P2 整段（shadow）
 
@@ -386,70 +388,70 @@
 
 **Q1. Do you know anyone who likes to get up early?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 当然，其实不少呢。 | Sure, quite a few actually. |
-| 2 | 我老婆 是个典型的早起鸟——她大多数日子 六点前 就起了，[去]挤出时间锻炼。 | My wife's a classic early bird — she's up before six most days to squeeze in a workout. |
-| 3 | 我觉得 一部分是习惯，一部分是 她就是 喜欢 拥有一段属于自己的早晨、在混乱开始之前。 | I reckon it's partly habit and partly that she just loves having the morning to herself before the chaos kicks in. |
-| 4 | 对她来说，那些安静的时段 感觉平静又高效，（这）说实话 让一整天 都有个好开头。 | For her, those quiet hours feel calm and productive, which honestly sets the whole day off right. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 当然，其实不少呢。 | Sure, quite a few actually. | Sure, quite a few actually. |
+| 2 | 我老婆 是个典型的早起鸟——她大多数日子 六点前 就起了，[去]挤出时间锻炼。 | My wife's a classic early bird — she's up before six most days to squeeze in a workout. | My wife's a classic early bird — she's up before six most days to squeeze in a workout. |
+| 3 | 我觉得 一部分是习惯，一部分是 她就是 喜欢 拥有一段属于自己的早晨、在混乱开始之前。 | I reckon it's partly habit and partly that she just loves having the morning to herself before the chaos kicks in. | I reckon it's partly habit and partly that she just loves having the morning to herself before the chaos kicks in. |
+| 4 | 对她来说，那些安静的时段 感觉平静又高效，（这）说实话 让一整天 都有个好开头。 | For her, those quiet hours feel calm and productive, which honestly sets the whole day off right. | For her, those quiet hours feel calm and productive, which honestly sets the whole day off right. |
 
 > Sure, quite a few actually. My wife's a classic early bird — she's up before six most days to squeeze in a workout. I reckon it's partly habit and partly that she just loves having the morning to herself before the chaos kicks in. For her, those quiet hours feel calm and productive, which honestly sets the whole day off right.
 
 **Q2. Why do people get up early?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 真的有一大堆原因。 | Loads of reasons, really. |
-| 2 | 有些人 早起 是因为 工作或学校 逼着他们，但很多人 是 主动这么做的。 | Some folk get up early because work or school forces them to, but plenty do it by choice. |
-| 3 | 我会说 清晨很平静——没有噪音、没有消息，所以你 真的能专注。 | I'd say the early morning's peaceful — there's no noise, no messages, so you can actually focus. |
-| 4 | 此外，锻炼、或者规划你的一天，在所有人醒来之前，给你 一个真正的领先、还有一种掌控感。 | Plus, exercising or planning your day before everyone wakes up gives you a real head start and a sense of control. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 真的有一大堆原因。 | Loads of reasons, really. | Loads of reasons, really. |
+| 2 | 有些人 早起 是因为 工作或学校 逼着他们，但很多人 是 主动这么做的。 | Some folk get up early because work or school forces them to, but plenty do it by choice. | Some folk get up early because work or school forces them to, but plenty do it by choice. |
+| 3 | 我会说 清晨很平静——没有噪音、没有消息，所以你 真的能专注。 | I'd say the early morning's peaceful — there's no noise, no messages, so you can actually focus. | I'd say the early morning's peaceful — there's no noise, no messages, so you can actually focus. |
+| 4 | 此外，锻炼、或者规划你的一天，在所有人醒来之前，给你 一个真正的领先、还有一种掌控感。 | Plus, exercising or planning your day before everyone wakes up gives you a real head start and a sense of control. | Plus, exercising or planning your day before everyone wakes up gives you a real head start and a sense of control. |
 
 > Loads of reasons, really. Some folk get up early because work or school forces them to, but plenty do it by choice. I'd say the early morning's peaceful — there's no noise, no messages, so you can actually focus. Plus, exercising or planning your day before everyone wakes up gives you a real head start and a sense of control.
 
 **Q3. What kinds of occasions need people to arrive early?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 挺多的。 | Plenty of them. |
-| 2 | 工作面试和航班 是那些明显的——你 不能冒险迟到，当 有那么多东西 悬在那儿的时候。 | Job interviews and flights are the obvious ones — you can't risk being late when so much is at stake. |
-| 3 | 考试也是，因为你 通常 需要 提前 安顿下来。 | Exams too, since you usually need to settle in beforehand. |
-| 4 | 说实话，任何正式的、或者高压的场合 往往 都要求它。 | Honestly, anything formal or high-pressure tends to demand it. |
-| 5 | 甚至像婚礼这样的大活动 也期待 客人 早到，这样 就没人 在最后一刻 手忙脚乱。 | Even big events like weddings expect guests early, so nobody's scrambling at the last minute. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 挺多的。 | Plenty of them. | Plenty of them. |
+| 2 | 工作面试和航班 是那些明显的——你 不能冒险迟到，当 有那么多东西 悬在那儿的时候。 | Job interviews and flights are the obvious ones — you can't risk being late when so much is at stake. | Job interviews and flights are the obvious ones — you can't risk being late when so much is at stake. |
+| 3 | 考试也是，因为你 通常 需要 提前 安顿下来。 | Exams too, since you usually need to settle in beforehand. | Exams too, since you usually need to settle in beforehand. |
+| 4 | 说实话，任何正式的、或者高压的场合 往往 都要求它。 | Honestly, anything formal or high-pressure tends to demand it. | Honestly, anything formal or high-pressure tends to demand it. |
+| 5 | 甚至像婚礼这样的大活动 也期待 客人 早到，这样 就没人 在最后一刻 手忙脚乱。 | Even big events like weddings expect guests early, so nobody's scrambling at the last minute. | Even big events like weddings expect guests early, so nobody's scrambling at the last minute. |
 
 > Plenty of them. Job interviews and flights are the obvious ones — you can't risk being late when so much is at stake. Exams too, since you usually need to settle in beforehand. Honestly, anything formal or high-pressure tends to demand it. Even big events like weddings expect guests early, so nobody's scrambling at the last minute.
 
 **Q4. Why do some people like to stay up late?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，对有些人来说 夜晚 就是 感觉更自由。 | Well, for some people the night just feels freer. |
-| 2 | 一旦白天的压力 消退，他们 终于能 放松、看看电影、或者 有创造力地做点事，没有打扰。 | Once the day's pressures fade, they can finally relax, watch films or get creative without interruptions. |
-| 3 | 我会说 夜猫子 常常 在天黑之后 思路更清晰。 | I'd say night owls often think more clearly after dark. |
-| 4 | 此外，年轻人 尤其 喜欢那种深夜和朋友的热闹劲儿，所以 早睡 感觉像是 错过了乐子。 | Plus, younger folk especially love that late-night buzz with friends, so going to bed early feels like missing out on the fun. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，对有些人来说 夜晚 就是 感觉更自由。 | Well, for some people the night just feels freer. | Well, for some people the night just feels freer. |
+| 2 | 一旦白天的压力 消退，他们 终于能 放松、看看电影、或者 有创造力地做点事，没有打扰。 | Once the day's pressures fade, they can finally relax, watch films or get creative without interruptions. | Once the day's pressures fade, they can finally relax, watch films or get creative without interruptions. |
+| 3 | 我会说 夜猫子 常常 在天黑之后 思路更清晰。 | I'd say night owls often think more clearly after dark. | I'd say night owls often think more clearly after dark. |
+| 4 | 此外，年轻人 尤其 喜欢那种深夜和朋友的热闹劲儿，所以 早睡 感觉像是 错过了乐子。 | Plus, younger folk especially love that late-night buzz with friends, so going to bed early feels like missing out on the fun. | Plus, younger folk especially love that late-night buzz with friends, so going to bed early feels like missing out on the fun. |
 
 > Well, for some people the night just feels freer. Once the day's pressures fade, they can finally relax, watch films or get creative without interruptions. I'd say night owls often think more clearly after dark. Plus, younger folk especially love that late-night buzz with friends, so going to bed early feels like missing out on the fun.
 
 **Q5. Is it good to arrive early in any situation?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 大体上，是的，虽然并不总是。 | Mostly, yes, though not always. |
-| 2 | 早到 显示 你可靠，也给你时间 [去]平复紧张，（这）对面试或考试 很重要。 | Arriving early shows you're reliable and gives you time to calm your nerves, which matters for interviews or exams. |
-| 3 | 话虽如此，太早 到一个随意的晚饭 可能 让主人 下不来台。 | Having said that, turning up too early to a casual dinner can put the host on the spot. |
-| 4 | 所以我会说 看情况——准时 很好，但 读懂场合 同样重要。 | So I'd say it depends — punctual is great, but reading the situation matters just as much. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 大体上，是的，虽然并不总是。 | Mostly, yes, though not always. | Mostly, yes, though not always. |
+| 2 | 早到 显示 你可靠，也给你时间 [去]平复紧张，（这）对面试或考试 很重要。 | Arriving early shows you're reliable and gives you time to calm your nerves, which matters for interviews or exams. | Arriving early shows you're reliable and gives you time to calm your nerves, which matters for interviews or exams. |
+| 3 | 话虽如此，太早 到一个随意的晚饭 可能 让主人 下不来台。 | Having said that, turning up too early to a casual dinner can put the host on the spot. | Having said that, turning up too early to a casual dinner can put the host on the spot. |
+| 4 | 所以我会说 看情况——准时 很好，但 读懂场合 同样重要。 | So I'd say it depends — punctual is great, but reading the situation matters just as much. | So I'd say it depends — punctual is great, but reading the situation matters just as much. |
 
 > Mostly, yes, though not always. Arriving early shows you're reliable and gives you time to calm your nerves, which matters for interviews or exams. Having said that, turning up too early to a casual dinner can put the host on the spot. So I'd say it depends — punctual is great, but reading the situation matters just as much.
 
 **Q6. What kind of people like getting up early?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我觉得 通常是 自律的、有目标驱动的人。 | I reckon it's usually disciplined, goal-driven people. |
-| 2 | 他们 把早晨 当成 神圣的时间、[去]锻炼、读书、或者 抢先一步，在各种分心 堆积起来之前。 | They treat the morning as sacred time to exercise, read or get ahead before distractions pile up. |
-| 3 | 父母 也 归到这一类，因为 孩子 逼着 他们 有一个 早起的作息。 | Parents fall into this too, since kids force an early routine on them. |
-| 4 | 说实话，常常是那些人、（看重条理的）——他们 宁愿 自然醒、慢慢进入状态，也不愿 半睡半醒地 瞎忙。 | Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我觉得 通常是 自律的、有目标驱动的人。 | I reckon it's usually disciplined, goal-driven people. | I reckon it's usually disciplined, goal-driven people. |
+| 2 | 他们 把早晨 当成 神圣的时间、[去]锻炼、读书、或者 抢先一步，在各种分心 堆积起来之前。 | They treat the morning as special time to exercise, read or get ahead before distractions pile up. | They treat the morning as sacred time to exercise, read or get ahead before distractions pile up. |
+| 3 | 父母 也 归到这一类，因为 孩子 逼着 他们 有一个 早起的作息。 | Parents fall into this too, since kids force an early routine on them. | Parents fall into this too, since kids force an early routine on them. |
+| 4 | 说实话，常常是那些人、（看重条理的）——他们 宁愿 自然醒、慢慢进入状态，也不愿 半睡半醒地 瞎忙。 | Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep. | Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep. |
 
-> I reckon it's usually disciplined, goal-driven people. They treat the morning as sacred time to exercise, read or get ahead before distractions pile up. Parents fall into this too, since kids force an early routine on them. Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep.
+> I reckon it's usually disciplined, goal-driven people. They treat the morning as special time to exercise, read or get ahead before distractions pile up. Parents fall into this too, since kids force an early routine on them. Honestly, it's often folk who value structure — they'd rather wake naturally and ease in than rush around half-asleep.
 
 **P3 句型/模板**：`a classic early bird` · `squeeze in a workout` · `having the morning to herself before the chaos kicks in` · `which sets the whole day off right`（which后置）· `plenty do it by choice` · `when so much is at stake` · `feels like missing out on the fun`（动名词主语）· `folk who value structure`（who后置）· `they'd rather A than B`。
 
