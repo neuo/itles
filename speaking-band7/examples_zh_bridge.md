@@ -874,6 +874,8 @@
 
 > **Cue**: 认识她多久 / 何时开始想 / 想做什么 / 为何选这行 · 题型 Person
 
+> ✅ **P2 已在 6-6.5 目标档，降档 = 原范文（无需改）**。P3 仅两处降档（见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -907,26 +909,26 @@
 
 **Q1. Do you think being a doctor is easy or difficult?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，它 挺难的。 | Honestly, it's pretty difficult. |
-| 2 | 医生 肩负 巨大的责任，因为 他们 打交道的是 人的性命，所以 一个小小的错误 可能 真的 很要紧。 | Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. |
-| 3 | 此外，工时 很长，而 压力 从没 真正 松过。 | Plus, the hours are long and the pressure never really lets up. |
-| 4 | 不过说句公道话，它 也 有回报，因为 你 是 真正地 帮人们 好起来。 | To be fair, though, it's also rewarding, since you're genuinely helping folk get better. |
-| 5 | 所以它 辛苦，但值得。 | So it's tough, but worthwhile. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，它 挺难的。 | Honestly, it's pretty difficult. | Honestly, it's pretty difficult. |
+| 2 | 医生 肩负 巨大的责任，因为 他们 打交道的是 人的性命，所以 一个小小的错误 可能 真的 很要紧。 | Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. | Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. |
+| 3 | 此外，工时 很长，而 压力 从没 真正 松过。 | Plus, the hours are long and the pressure never really stops. | Plus, the hours are long and the pressure never really lets up. |
+| 4 | 不过说句公道话，它 也 有回报，因为 你 是 真正地 帮人们 好起来。 | To be fair, though, it's also rewarding, since you're genuinely helping folk get better. | To be fair, though, it's also rewarding, since you're genuinely helping folk get better. |
+| 5 | 所以它 辛苦，但值得。 | So it's tough, but worthwhile. | So it's tough, but worthwhile. |
 
-> Honestly, it's pretty difficult. Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. Plus, the hours are long and the pressure never really lets up. To be fair, though, it's also rewarding, since you're genuinely helping folk get better. So it's tough, but worthwhile.
+> Honestly, it's pretty difficult. Doctors carry a huge responsibility because they're dealing with people's lives, so one small mistake can really matter. Plus, the hours are long and the pressure never really stops. To be fair, though, it's also rewarding, since you're genuinely helping folk get better. So it's tough, but worthwhile.
 
 **Q2. Do you think learning biology is interesting for children?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我会说 这取决于那个孩子，但 一般来说 它 可以很迷人。 | I'd say it depends on the kid, but generally it can be fascinating. |
-| 2 | 生物 就在他们周围，所以 学 他们自己的身体 怎么运作、或者 植物 为什么长，感觉 很相关。 | Biology's all around them, so learning how their own body works or why plants grow feels relevant. |
-| 3 | 比如，一个爱动物的孩子 很可能 会觉得它 引人入胜。 | For instance, a child who loves animals will probably find it gripping. |
-| 4 | 但如果 它 被当作 一堆要背的干巴事实 来教，他们 很快 就会走神。 | But if it's taught as dry facts to memorise, they'll quickly switch off. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我会说 这取决于那个孩子，但 一般来说 它 可以很迷人。 | I'd say it depends on the kid, but generally it can be fascinating. | I'd say it depends on the kid, but generally it can be fascinating. |
+| 2 | 生物 就在他们周围，所以 学 他们自己的身体 怎么运作、或者 植物 为什么长，感觉 很相关。 | Biology's all around them, so learning how their own body works or why plants grow feels relevant. | Biology's all around them, so learning how their own body works or why plants grow feels relevant. |
+| 3 | 比如，一个爱动物的孩子 很可能 会觉得它 引人入胜。 | For instance, a child who loves animals will probably find it really interesting. | For instance, a child who loves animals will probably find it gripping. |
+| 4 | 但如果 它 被当作 一堆要背的干巴事实 来教，他们 很快 就会走神。 | But if it's taught as dry facts to memorise, they'll quickly switch off. | But if it's taught as dry facts to memorise, they'll quickly switch off. |
 
-> I'd say it depends on the kid, but generally it can be fascinating. Biology's all around them, so learning how their own body works or why plants grow feels relevant. For instance, a child who loves animals will probably find it gripping. But if it's taught as dry facts to memorise, they'll quickly switch off.
+> I'd say it depends on the kid, but generally it can be fascinating. Biology's all around them, so learning how their own body works or why plants grow feels relevant. For instance, a child who loves animals will probably find it really interesting. But if it's taught as dry facts to memorise, they'll quickly switch off.
 
 **Q3. Why do some children want to become doctors?**
 
@@ -970,13 +972,15 @@
 
 > Loads of ways, honestly. AI can already scan images and spot problems doctors might miss, so it makes diagnosis faster and safer. Plus, robots can assist in tricky operations with real precision. But I don't think machines will replace doctors, since patients still need that human touch and reassurance.
 
-**P3 句型/模板**：`carry a huge responsibility` · `the pressure never really lets up` · `so it's tough, but worthwhile`（OPINION 二面收）· `learning how their body works … feels relevant`（动名词主语+embedded）· `heroes who fix you when you're hurt`（who后置）· `the spark that pushes them towards [X]`（that后置）· `striking a sensible balance` · `I'd rather pay reflected …`（虚拟）· `machines will replace …, since patients still need that human touch`（PREDICT）。
+**P3 句型/模板**：`carry a huge responsibility` · `the pressure never really stops`（降档自 lets up）· `so it's tough, but worthwhile`（OPINION 二面收）· `learning how their body works … feels relevant`（动名词主语+embedded）· `heroes who fix you when you're hurt`（who后置）· `the spark that pushes them towards [X]`（that后置）· `striking a sensible balance` · `I'd rather pay reflected …`（虚拟）· `machines will replace …, since patients still need that human touch`（PREDICT）。
 
 ---
 
 ## P2-新09 · A person with a successful business — Chen 咖啡馆（Person）
 
 > **Cue**: 是谁 / 怎么认识 / 为何+怎么开始 / 什么生意 / 为何成功 · 题型 Person
+
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q3** 一处降档（`horses for courses` 太英式习语 → 大白话，见下）。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -1032,14 +1036,14 @@
 
 **Q3. Do most people prefer shopping at big stores or small stores?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 我觉得 这取决于 他们想要什么。 | I reckon it depends on what they're after. |
-| 2 | 大多数人 去 大商店 买杂货，因为 它们 更便宜、而且 你 能 一趟 就把 所有东西 都拿齐。 | Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. |
-| 3 | 但 要买 一份不错的礼物 或者 一杯咖啡，人们 偏向 小店，因为 那服务 感觉 更温暖、更有人情味。 | But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. |
-| 4 | 所以 这 真的是 各取所需。 | So it's really horses for courses. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 我觉得 这取决于 他们想要什么。 | I reckon it depends on what they're after. | I reckon it depends on what they're after. |
+| 2 | 大多数人 去 大商店 买杂货，因为 它们 更便宜、而且 你 能 一趟 就把 所有东西 都拿齐。 | Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. | Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. |
+| 3 | 但 要买 一份不错的礼物 或者 一杯咖啡，人们 偏向 小店，因为 那服务 感觉 更温暖、更有人情味。 | But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. | But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. |
+| 4 | 所以 这 真的是 各取所需。 | So it really depends what you need. | So it's really horses for courses. |
 
-> I reckon it depends on what they're after. Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. So it's really horses for courses.
+> I reckon it depends on what they're after. Most folk head to big stores for groceries since they're cheaper and you can grab everything in one trip. But for a nice gift or a coffee, people lean towards small shops because the service feels warmer and more personal. So it really depends what you need.
 
 **Q4. What makes a business successful?**
 
@@ -1073,13 +1077,15 @@
 
 > Honestly, it's a mixed bag where I'm from. Registering a company is fairly quick and cheap these days, so getting started isn't the hard part. The real struggle is the fierce competition and the rent in big cities, which is brutal. So while it's easy to begin, surviving the first year's the tricky bit.
 
-**P3 句型/模板**：`sick of answering to a boss` · `running your own thing lets you build something that's truly yours`（动名词主语+that后置）· `it depends on what they're after`（embedded）· `horses for courses`（各取所需）· `it boils down to solving a problem people care about` · `A business that overspends won't last, no matter how … might be`（that后置+让步）· `run out of money before they ever turn a profit` · `a great idea launched too early won't catch on`（分词后置）· `surviving the first year's the tricky bit`（动名词主语）。
+**P3 句型/模板**：`sick of answering to a boss` · `running your own thing lets you build something that's truly yours`（动名词主语+that后置）· `it depends on what they're after`（embedded）· `it really depends what you need`（降档自 horses for courses）· `it boils down to solving a problem people care about` · `A business that overspends won't last, no matter how … might be`（that后置+让步）· `run out of money before they ever turn a profit` · `a great idea launched too early won't catch on`（分词后置）· `surviving the first year's the tricky bit`（动名词主语）。
 
 ---
 
 ## P2-新10 · A plan you had to change recently — 京都行取消（speaker）
 
 > **Cue**: 何时 / 什么让你改 / 新计划是什么 / 感受 · 题型 Event/Planning
+
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q5** 一处降档（`ticking over` 太英式 → `keep us going`，见下）。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -1165,9 +1171,9 @@
 | 1 | 挺杂的，真的。 | Quite a mix, really. |
 | 2 | 大多数人 做 短期的——比如 安排 他们的周末、一次假期、或者 跟朋友 吃顿饭。 | Most people make short-term ones — like sorting out their weekend, a holiday or a dinner with mates. |
 | 3 | 但 也有 那些 人生大事，比如 为一套房子 存钱、或者 规划出 一份事业。 | But there's also the big life stuff, such as saving for a house or mapping out a career. |
-| 4 | 我会说 那些日常计划 让我们 维持运转，而 那些长期目标 给我们 一个 可以 瞄准的东西。 | I'd say the daily plans keep us ticking over, while the long-term goals give us something to aim for. |
+| 4 | 我会说 那些日常计划 让我们 维持运转，而 那些长期目标 给我们 一个 可以 瞄准的东西。 | I'd say the daily plans keep us going, while the long-term goals give us something to aim for.〔原范文：keep us ticking over〕 |
 
-> Quite a mix, really. Most people make short-term ones — like sorting out their weekend, a holiday or a dinner with mates. But there's also the big life stuff, such as saving for a house or mapping out a career. I'd say the daily plans keep us ticking over, while the long-term goals give us something to aim for.
+> Quite a mix, really. Most people make short-term ones — like sorting out their weekend, a holiday or a dinner with mates. But there's also the big life stuff, such as saving for a house or mapping out a career. I'd say the daily plans keep us going, while the long-term goals give us something to aim for.
 
 **Q6. Do you think people like the process of making plans more, or the moment of carrying them out?**
 
