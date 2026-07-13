@@ -6071,13 +6071,15 @@
 
 > **Cue**: 店名 / 在哪 / 多常去 / 为何喜欢 · 题型 Place
 
+> ✅ **本卡基本达标**（P2 + 全部 6 P3 = 原范文，直接用）；**仅 P2** `uncluttered feel`→`tidy feel`（clutter 家族高档词，同 新01 标准降）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | [opener] | 那么，我想聊的那家 商店 是 MUJI，那个 日本 生活方式 品牌、（那种 卖 简单的 家居用品 和 文具的）。 | So, the shop I'd like to talk about is MUJI, the Japanese lifestyle brand that sells simple homeware and stationery. |
 | [where/how often] | 它 藏 在 大 购物中心 之一 里面、就 在 成都 这儿、（我 住的地方），而 我 一个月 一两次 顺道 去，通常 为 一次 放松的 周末 逛、跟 我妻子。 | It's tucked inside one of the big shopping malls here in Chengdu where I live, and I drop by once or twice a month, usually for a relaxed weekend browse with my wife. |
-| [why] | 我 最爱的 是 它 那 平静的、不杂乱的 感觉。 | What I love most is the calm, uncluttered feel of it. |
+| [why] | 我 最爱的 是 它 那 平静的、不杂乱的 感觉。 | What I love most is the calm, tidy feel of it. 〔原范文：calm, uncluttered feel〕 |
 | [why·细] | 我是说，它 是 一个 这么 好的 逃离、从 一个 繁忙商场 的 喧闹。 | I mean, it's such a nice escape from the noise of a busy mall. |
 | [why·细2] | 那些 产品 真的 简单、还 顺眼，而 我 能 愉快地 浏览 那 文具 和 储物盒 好久。 | The products are really simple and easy on the eye, and I could happily browse the stationery and storage boxes for ages. |
 | [why·细3] | 此外，那 员工 一点 都 不 咄咄逼人，所以 我 能 慢慢来、四处 逛。 | Plus, the staff aren't pushy at all, so I can take my time and wander around. |
@@ -6087,7 +6089,7 @@
 
 ### ②P2 整段（shadow）
 
-> So, the shop I'd like to talk about is MUJI, the Japanese lifestyle brand that sells simple homeware and stationery. It's tucked inside one of the big shopping malls here in Chengdu where I live, and I drop by once or twice a month, usually for a relaxed weekend browse with my wife. What I love most is the calm, uncluttered feel of it. I mean, it's such a nice escape from the noise of a busy mall. The products are really simple and easy on the eye, and I could happily browse the stationery and storage boxes for ages. Plus, the staff aren't pushy at all, so I can take my time and wander around. More often than not, I walk out with a little notebook or some boxes I didn't really plan on buying. But honestly, for me it's less about shopping and more about unwinding. So yeah, it's basically my way of pressing pause on a hectic weekend.
+> So, the shop I'd like to talk about is MUJI, the Japanese lifestyle brand that sells simple homeware and stationery. It's tucked inside one of the big shopping malls here in Chengdu where I live, and I drop by once or twice a month, usually for a relaxed weekend browse with my wife. What I love most is the calm, tidy feel of it. I mean, it's such a nice escape from the noise of a busy mall. The products are really simple and easy on the eye, and I could happily browse the stationery and storage boxes for ages. Plus, the staff aren't pushy at all, so I can take my time and wander around. More often than not, I walk out with a little notebook or some boxes I didn't really plan on buying. But honestly, for me it's less about shopping and more about unwinding. So yeah, it's basically my way of pressing pause on a hectic weekend.
 
 ### 句型/模板（可搬走）
 
@@ -6178,6 +6180,8 @@
 
 > **Cue**: 在哪 / 何时去 / 待多久 / 做了什么 / 为何享受 · 题型 Place
 
+> ✅ **本卡基本达标**（P2 + 全部 6 P3 = 原范文，直接用）；**仅 P2 金句** `a feast for the eyes`→`stunning`（前者偏文学高档，按标准降）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -6190,12 +6194,12 @@
 | [what·细2] | 除此之外，晚上 我们 看 那 河边 老城 全 点亮，像 某种 出自 一部 动画 的东西。 | On top of that, at night we saw the riverside old town all lit up, like something out of an animation. |
 | [why/EL] | 但 我 真正 爱的 是 那 狂野的、垂直的 布局。 | But what I really loved was the wild, vertical layout. |
 | [why·细] | 我是说，那些 路 和 建筑 一个 摞 在 另一个 上面，所以 你 失去 所有 感觉、关于 你 在 哪一层。 | I mean, the roads and buildings are stacked on top of each other, so you lose all sense of which floor you're on. |
-| [why·细2] | 此外 那 夜景 是 一场 眼睛 的 盛宴。 | Plus the night views were a feast for the eyes. |
+| [why·细2] | 此外 那 夜景 是 一场 眼睛 的 盛宴。 | Plus the night views were stunning. 〔原范文：a feast for the eyes〕 |
 | [closer] | 所以，对，它 很 值 这趟。 | So yeah, it was well worth the trip. |
 
 ### ②P2 整段（shadow）
 
-> So, the city I'd like to talk about is Chongqing, a huge, hilly place in southwest China, not too far from Chengdu where I live. I went there a couple of years ago, over a long weekend, and we stayed for about three or four days. It was a family trip, so I went with my wife and our son Muye, who was five at the time. We did loads there. We ate the famous fiery hotpot, which nearly blew my head off, and rode the light-rail train that slices straight through a residential building. On top of that, at night we saw the riverside old town all lit up, like something out of an animation. But what I really loved was the wild, vertical layout. I mean, the roads and buildings are stacked on top of each other, so you lose all sense of which floor you're on. Plus the night views were a feast for the eyes. So yeah, it was well worth the trip.
+> So, the city I'd like to talk about is Chongqing, a huge, hilly place in southwest China, not too far from Chengdu where I live. I went there a couple of years ago, over a long weekend, and we stayed for about three or four days. It was a family trip, so I went with my wife and our son Muye, who was five at the time. We did loads there. We ate the famous fiery hotpot, which nearly blew my head off, and rode the light-rail train that slices straight through a residential building. On top of that, at night we saw the riverside old town all lit up, like something out of an animation. But what I really loved was the wild, vertical layout. I mean, the roads and buildings are stacked on top of each other, so you lose all sense of which floor you're on. Plus the night views were stunning. So yeah, it was well worth the trip.
 
 ### 句型/模板（可搬走）
 
@@ -6205,7 +6209,7 @@
 - **全点亮**：老城全点亮，像出自动画的东西 → `all lit up, like something out of an animation`
 - **what 主语**：我真正爱的是那狂野垂直的布局 → `what I really loved was the wild, vertical layout`
 - **摞在一起 + embedded**：路和建筑摞在一起，你失去在哪一层的感觉 → `stacked on top of each other, so you lose all sense of which floor you're on`
-- **金句**：一场眼睛的盛宴 / 很值这趟 → `a feast for the eyes` / `well worth the trip`
+- **金句**：夜景很惊艳 / 很值这趟 → `the night views were stunning`（降档自 a feast for the eyes）/ `well worth the trip`
 
 ---
 
