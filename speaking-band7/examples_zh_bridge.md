@@ -11,7 +11,34 @@
 >
 > **英式中文 3 动作**：① 修饰甩后面（那种…的 / [去]… / 后置的保持后置）② 让"事"做主语（(这件事)）③ dummy-there/make（有…=there's / 让…=make）。语序不重排。
 >
-> **进度**：✅ **全 54 张完成（新01–新27 + 老01–老27）**。手工逐卡推进（不用脚本、不批处理），英文逐字取自 `examples/` 对应题。
+> **进度**：✅ 全 54 张拆解完成。🎤 **13 张已加"你的实产版"块**（session 06-22→06-29 你真练过的：P2+P3 整套 6 —— 新16/老08/新18/老20/新15/新07；只练 P2 的 7 —— 新25/新12/老05/新23/新14/老12/老11）。⏳ **降档中**：新01 已按 6-6.5 标准降完，续 新02→老27。
+
+---
+
+## 🎯 你的实产 floor 词库 + 降档校准标准（从你 13 张真练过的答案提炼）
+
+> **这是降档的尺子**。目标 = **词汇 6-6.5、结构句型 7**。下面这些 chunk 是**你已经会用、用对的**（从你 session 实产提炼）——**降档时一律保留，绝不往下砍**。降档只砍你**不用的** Band 7+ 炫词/文学习语（sleek/perk/sprawl/dated/vibe/boast/lucrative/jaw-dropping/flock/spectacle/a feast for the eyes/hone…）。
+
+**① Opener / 立场（你的起手，全保留）**
+- P2：`The X I'd like to talk about is…` · `One important decision I made was…` · `One time that comes to mind is when…` · `The X I'd like to recommend is…`
+- P3 stance：`It's a real mixed bag` · `Quite a few, I'd say` · `Loads of ways, really` · `Mainly X, I'd say` · `Definitely, yeah` · `I doubt it` · `Hugely important, I'd say` · `Not really, to be honest` · `They're quite different` · `Massively, yeah` · `It depends on the job` · `Absolutely, I think it's really key`
+
+**② 连接 / 结构（你会的，全保留 = 结构分靠这个撑到 7）**
+`so` · `because` · `Plus` · `On top of that` · `To be fair` · `That said` · `whereas` · `while` · `In the end` · `As it turned out` · `So overall` · `at the end of the day` · `Admittedly` · `On the plus side / On the other hand` · `Whereas kids…` · `used to X, now Y` · `not because X, but because Y`
+
+**③ 机制 / 话题 chunk（你实产里用对的，全保留）**
+- 万能：`it comes down to how we use it` · `comes down to whether you click` · `it's a mix of X and Y`
+- 科技/AI：`keep up with the times` · `fall behind` · `get to grips with` · `chip away at our skills` · `takes chores off our plate` · `resist the temptation` · `copy and paste without thinking` · `think for themselves` · `tracked down the cause` · `went down` · `step by step`
+- 学习：`like sponges` · `soak up new things` · `not afraid of making mistakes` · `dive in` · `walk you through it` · `step-by-step` · `stuck in their ways` · `a talent for` · `chips away at it every day` · `pick up (a language)` · `core subject` · `come in handy now and then`
+- 钱/经济：`eats up a big chunk of` · `don't come cheap` · `a cushion when something goes wrong` · `a tool, not the goal` · `driven by emotion` · `a strong urge to buy` · `making wants feel like needs` · `money well spent` · `splash out` · `you can't put a price on it` · `worth it` · `worth a lot`
+- 友情/社会：`saved the day` · `line by line` · `keeps his cool` · `stand out` · `drifted apart` · `get on with others` · `nothing beats meeting in person` · `on the same wavelength` · `laid-back` · `there's a warmth` · `adds to it, not replace it` · `nothing to talk about`
+- 旅行/物品/情感：`the sweet spot` · `take in` · `slow down` · `stuck to a schedule` · `take our time` · `look forward to` · `stop anywhere that looks nice` · `out of the blue` · `didn't hear back` · `it turned out` · `take it personally` · `overthinking` · `pass it down` · `keep me company` · `brings back memories` · `a big deal` · `over the moon` · `make a wish` · `bring everyone together` · `hooked` · `got into it` · `as far as I know`
+- 决定/思考：`weigh a few things` · `make up my mind` · `worked out` · `shaped my career` · `rush into it` · `had no idea`
+
+**④ 降档判定（每句只问两条）**
+1. 这个词/习语在**上面你的库里**、或是**常见中频词**（skyscraper/downtown/comes down to/consider/income/whereas/purpose…）？→ **留**。
+2. 是你**不用的** Band 7+ 炫词/文学习语（sleek/perk/sprawl/dated/vibe/catches the light/puts a smile on faces/a playful touch…）？→ **换成大白话**，但**结构从句一律不动**。
+> 其余照旧：缩写 OK、语气自然、意思忠实、长度差不多。降完仍是**完整连贯的口语**，不是碎句。
 
 ---
 
@@ -19,33 +46,33 @@
 
 > **Cue**: Describe a tall building you like or dislike（用途 / 在哪 / 长什么样 / 为何喜欢）· 题型 Place
 
-### ①P2 拆解（英式中文珠子 → 范文英文）
+### ①P2 拆解（英式中文珠子 → 降档英文 → 原范文）
 
-| 句/功能 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| [opener] | 那么，我想聊的那栋楼 是 成都的 IFS 大厦，一座摩天楼、在这座城市里（那座我住了很多年的）。 | So, the building I'd like to talk about is the IFS tower in Chengdu, a skyscraper in the city where I've lived for years. |
-| [点名·what/where] | 它基本上是一个巨大的购物商场，顶上还压着办公楼，就在市中心的正中央。 | It's basically a huge shopping mall topped with offices, right in the heart of downtown. |
-| [where] | 它坐落在最繁忙的街道之一上，所以你真的没法错过它。 | It sits on one of the busiest streets, so you really can't miss it. |
-| [平移·looks] | 整栋楼是这么一个光滑的玻璃建筑、（那种会反光的），而说实话，让它出名的东西 是 那座巨大的熊猫雕塑、（正）爬着一侧，屁股还从屋顶上探出来。 | The whole thing is this sleek glass structure that catches the light, and honestly what makes it famous is the giant panda sculpture climbing up one side, with its bum poking out over the roof. |
-| [细节] | 一个我很爱的具体细节 是 那只爬着的熊猫。 | A specific detail I love is that climbing panda. |
-| [细节·展开] | 游客们总是挤在天台上、[去]跟它拍照，而我儿子 Muye 特别喜欢找它、每当我们开车经过的时候。 | Tourists are always crowding the rooftop to snap photos with it, and my son Muye loves spotting it whenever we drive past. |
-| [细节·收] | 它已经变成了有点像一个本地地标，那种东西、（会让人们脸上露出笑容的）。 | It's become a bit of a local symbol, the kind of thing that puts a smile on people's faces. |
-| [reason/EL] | 我是它大粉丝的原因 是 它把某种现代的东西和一点俏皮 混在一起，（这）感觉很成都。 | The reason I'm a big fan of it is that it mixes something modern with a playful touch, which feels very Chengdu. |
-| [closer] | 所以，对，那就是我想聊的那栋楼。 | So yeah, that's the building I wanted to talk about. |
+| 句/功能 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| [opener] | 那么，我想聊的那栋楼 是 成都的 IFS 大厦，一座摩天楼、在这座城市里（那座我住了很多年的）。 | So, the building I'd like to talk about is the IFS tower in Chengdu, a skyscraper in the city where I've lived for years. | So, the building I'd like to talk about is the IFS tower in Chengdu, a skyscraper in the city where I've lived for years. |
+| [点名·what/where] | 它基本上是一个巨大的购物商场，顶上还压着办公楼，就在市中心的正中央。 | It's basically a huge shopping mall with offices on top, right in the heart of downtown. | It's basically a huge shopping mall topped with offices, right in the heart of downtown. |
+| [where] | 它坐落在最繁忙的街道之一上，所以你真的没法错过它。 | It sits on one of the busiest streets, so you really can't miss it. | It sits on one of the busiest streets, so you really can't miss it. |
+| [平移·looks] | 整栋楼是这么一个光滑的玻璃建筑、（那种会反光的），而说实话，让它出名的东西 是 那座巨大的熊猫雕塑、（正）爬着一侧，屁股还从屋顶上探出来。 | The whole thing is this smooth glass structure that shines in the light, and honestly what makes it famous is the giant panda sculpture climbing up one side, with its bum poking out over the roof. | The whole thing is this sleek glass structure that catches the light, and honestly what makes it famous is the giant panda sculpture climbing up one side, with its bum poking out over the roof. |
+| [细节] | 一个我很爱的具体细节 是 那只爬着的熊猫。 | A specific detail I love is that climbing panda. | A specific detail I love is that climbing panda. |
+| [细节·展开] | 游客们总是挤在天台上、[去]跟它拍照，而我儿子 Muye 特别喜欢找它、每当我们开车经过的时候。 | Tourists are always crowding the rooftop to snap photos with it, and my son Muye loves spotting it whenever we drive past. | Tourists are always crowding the rooftop to snap photos with it, and my son Muye loves spotting it whenever we drive past. |
+| [细节·收] | 它已经变成了有点像一个本地地标，那种东西、（会让人们脸上露出笑容的）。 | It's become a bit of a local symbol, the kind of thing that makes people smile. | It's become a bit of a local symbol, the kind of thing that puts a smile on people's faces. |
+| [reason/EL] | 我是它大粉丝的原因 是 它把某种现代的东西和一点俏皮 混在一起，（这）感觉很成都。 | The reason I'm a big fan of it is that it mixes something modern with something fun, which feels very Chengdu. | The reason I'm a big fan of it is that it mixes something modern with a playful touch, which feels very Chengdu. |
+| [closer] | 所以，对，那就是我想聊的那栋楼。 | So yeah, that's the building I wanted to talk about. | So yeah, that's the building I wanted to talk about. |
 
-### ②P2 整段（shadow）
+### ②P2 整段（shadow · 降档版）
 
-> So, the building I'd like to talk about is the IFS tower in Chengdu, a skyscraper in the city where I've lived for years. It's basically a huge shopping mall topped with offices, right in the heart of downtown. It sits on one of the busiest streets, so you really can't miss it. The whole thing is this sleek glass structure that catches the light, and honestly what makes it famous is the giant panda sculpture climbing up one side, with its bum poking out over the roof. A specific detail I love is that climbing panda. Tourists are always crowding the rooftop to snap photos with it, and my son Muye loves spotting it whenever we drive past. It's become a bit of a local symbol, the kind of thing that puts a smile on people's faces. The reason I'm a big fan of it is that it mixes something modern with a playful touch, which feels very Chengdu. So yeah, that's the building I wanted to talk about.
+> So, the building I'd like to talk about is the IFS tower in Chengdu, a skyscraper in the city where I've lived for years. It's basically a huge shopping mall with offices on top, right in the heart of downtown. It sits on one of the busiest streets, so you really can't miss it. The whole thing is this smooth glass structure that shines in the light, and honestly what makes it famous is the giant panda sculpture climbing up one side, with its bum poking out over the roof. A specific detail I love is that climbing panda. Tourists are always crowding the rooftop to snap photos with it, and my son Muye loves spotting it whenever we drive past. It's become a bit of a local symbol, the kind of thing that makes people smile. The reason I'm a big fan of it is that it mixes something modern with something fun, which feels very Chengdu. So yeah, that's the building I wanted to talk about.
 
 ### 句型/模板（可搬走）
 
 - **opener**：我想聊的那栋[X]是… → `the [X] I'd like to talk about is …`
 - **what-裂句（让它出名的是…）**：让它出名的东西是[Y] → `what makes it famous is [Y]`
 - **具体细节引入**：一个我爱的具体细节是[X] → `A specific detail I love is [X]`
-- **地标收尾**：那种会[做Y]的东西 → `the kind of thing that [does Y]`（+ `puts a smile on people's faces`）
+- **地标收尾**：那种会[做Y]的东西 → `the kind of thing that [does Y]`（+ `makes people smile`）
 - **给原因**：我[X]的原因是[Y] → `The reason I [X] is that [Y]`
 - **which-补评价**：（这）感觉很[X] → `, which feels very [X]`
-- **修饰后置样板**：`a skyscraper in the city where I've lived`（where后置）/ `topped with offices`（分词后置）/ `climbing up one side, with its bum poking out`（分词 + with-绝对结构）
+- **修饰后置样板**：`a skyscraper in the city where I've lived`（where后置）/ `with offices on top`（后置）/ `climbing up one side, with its bum poking out`（分词 + with-结构）
 
 ---
 
@@ -53,66 +80,66 @@
 
 **Q1. Are there many tall buildings in your country?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 哦，一大堆呢。 | Oh, tons of them. |
-| 2 | 在大城市、比如成都或上海，新的摩天楼在不断地拔起，大多是办公楼和公寓楼。 | In big cities like Chengdu or Shanghai, new skyscrapers are going up constantly, mostly offices and apartment blocks. |
-| 3 | 我会说，这主要是因为那庞大的人口，所以往上盖 真的是唯一明智的办法、[去]把每个人都装下，而不让这座城市无止境地往乡下摊开。 | I'd say it's mainly because of the huge population, so building upwards is really the only sensible way to fit everyone in without the city sprawling out endlessly into the countryside. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 哦，一大堆呢。 | Oh, tons of them. | Oh, tons of them. |
+| 2 | 在大城市、比如成都或上海，新的摩天楼在不断地拔起，大多是办公楼和公寓楼。 | In big cities like Chengdu or Shanghai, new skyscrapers are going up constantly, mostly offices and apartment blocks. | In big cities like Chengdu or Shanghai, new skyscrapers are going up constantly, mostly offices and apartment blocks. |
+| 3 | 我会说，这主要是因为那庞大的人口，所以往上盖 真的是唯一明智的办法、[去]把每个人都装下，而不让这座城市无止境地往乡下摊开。 | I'd say it's mainly because of the huge population, so building upwards is really the only sensible way to fit everyone in without the city spreading out endlessly into the countryside. | I'd say it's mainly because of the huge population, so building upwards is really the only sensible way to fit everyone in without the city sprawling out endlessly into the countryside. |
 
-> Oh, tons of them. In big cities like Chengdu or Shanghai, new skyscrapers are going up constantly, mostly offices and apartment blocks. I'd say it's mainly because of the huge population, so building upwards is really the only sensible way to fit everyone in without the city sprawling out endlessly into the countryside.
+> Oh, tons of them. In big cities like Chengdu or Shanghai, new skyscrapers are going up constantly, mostly offices and apartment blocks. I'd say it's mainly because of the huge population, so building upwards is really the only sensible way to fit everyone in without the city spreading out endlessly into the countryside.
 
 **Q2. What are the differences between those tall buildings in your country?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 挺多的，说实话。 | Quite a lot, honestly. |
-| 2 | 有些是光滑的玻璃办公塔楼、在金融区，而另一些是普通的住宅楼、（那种）普通家庭住的。 | Some are sleek glass office towers in the financial district, while others are plain residential blocks where ordinary families live. |
-| 3 | 新一点的那些 往往 看起来更花哨、也有智能的设施，而老一点的楼 感觉有点过时。 | The newer ones tend to look fancier and have smart facilities, whereas older buildings feel a bit dated. |
-| 4 | 所以这真的就是关于用途、还有它们到底是什么时候建的。 | So it's really about purpose and when they were actually built. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 挺多的，说实话。 | Quite a lot, honestly. | Quite a lot, honestly. |
+| 2 | 有些是光滑的玻璃办公塔楼、在金融区，而另一些是普通的住宅楼、（那种）普通家庭住的。 | Some are smooth glass office towers in the financial district, while others are plain residential blocks where ordinary families live. | Some are sleek glass office towers in the financial district, while others are plain residential blocks where ordinary families live. |
+| 3 | 新一点的那些 往往 看起来更花哨、也有智能的设施，而老一点的楼 感觉有点过时。 | The newer ones tend to look fancier and have smart facilities, whereas older buildings feel a bit old-fashioned. | The newer ones tend to look fancier and have smart facilities, whereas older buildings feel a bit dated. |
+| 4 | 所以这真的就是关于用途、还有它们到底是什么时候建的。 | So it's really about purpose and when they were actually built. | So it's really about purpose and when they were actually built. |
 
-> Quite a lot, honestly. Some are sleek glass office towers in the financial district, while others are plain residential blocks where ordinary families live. The newer ones tend to look fancier and have smart facilities, whereas older buildings feel a bit dated. So it's really about purpose and when they were actually built.
+> Quite a lot, honestly. Some are smooth glass office towers in the financial district, while others are plain residential blocks where ordinary families live. The newer ones tend to look fancier and have smart facilities, whereas older buildings feel a bit old-fashioned. So it's really about purpose and when they were actually built.
 
 **Q3. Why are different places laid out and designed differently?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，我会说，这大多归结到功能。 | Well, I'd say it mostly comes down to function. |
-| 2 | 一个商业区需要开阔的空间和好的交通连接，而一个安静的住宅区 是围绕着绿化和安全 来设计的。 | A shopping district needs wide open spaces and good transport links, whereas a quiet residential area's designed around greenery and safety. |
-| 3 | 此外，规划者得考虑当地的气候和文化，所以一个布局、（那种在一个城市管用的），在别处可能感觉完全不对。 | Plus, planners have to consider the local climate and culture, so a layout that works in one city might feel totally wrong elsewhere. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，我会说，这大多归结到功能。 | Well, I'd say it mostly comes down to function. | Well, I'd say it mostly comes down to function. |
+| 2 | 一个商业区需要开阔的空间和好的交通连接，而一个安静的住宅区 是围绕着绿化和安全 来设计的。 | A shopping district needs wide open spaces and good transport links, whereas a quiet residential area's designed around green space and safety. | A shopping district needs wide open spaces and good transport links, whereas a quiet residential area's designed around greenery and safety. |
+| 3 | 此外，规划者得考虑当地的气候和文化，所以一个布局、（那种在一个城市管用的），在别处可能感觉完全不对。 | Plus, planners have to consider the local climate and culture, so a layout that works in one city might feel totally wrong elsewhere. | Plus, planners have to consider the local climate and culture, so a layout that works in one city might feel totally wrong elsewhere. |
 
-> Well, I'd say it mostly comes down to function. A shopping district needs wide open spaces and good transport links, whereas a quiet residential area's designed around greenery and safety. Plus, planners have to consider the local climate and culture, so a layout that works in one city might feel totally wrong elsewhere.
+> Well, I'd say it mostly comes down to function. A shopping district needs wide open spaces and good transport links, whereas a quiet residential area's designed around green space and safety. Plus, planners have to consider the local climate and culture, so a layout that works in one city might feel totally wrong elsewhere.
 
 **Q4. What are the advantages of living in tall buildings?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 嗯，最大的好处 是那个视野——你在高处，远离街道的噪音，而且它通常感觉亮堂、通透得多。 | Well, the biggest perk's the view — you're up high, away from the street noise, and it usually feels a lot brighter and airier. |
-| 2 | 此外，新一点的塔楼 常常自带健身房和像样的安保，所以它们真的很方便。 | Plus, newer towers often come with gyms and proper security, so they're really convenient. |
-| 3 | 话虽如此，有时候你确实会觉得有点跟地面脱节。 | Having said that, you do feel a bit cut off from the ground sometimes. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 嗯，最大的好处 是那个视野——你在高处，远离街道的噪音，而且它通常感觉亮堂、通透得多。 | Well, the biggest advantage is the view — you're up high, away from the street noise, and it usually feels a lot brighter and more open. | Well, the biggest perk's the view — you're up high, away from the street noise, and it usually feels a lot brighter and airier. |
+| 2 | 此外，新一点的塔楼 常常自带健身房和像样的安保，所以它们真的很方便。 | Plus, newer towers often come with gyms and proper security, so they're really convenient. | Plus, newer towers often come with gyms and proper security, so they're really convenient. |
+| 3 | 话虽如此，有时候你确实会觉得有点跟地面脱节。 | Having said that, you do feel a bit cut off from the ground sometimes. | Having said that, you do feel a bit cut off from the ground sometimes. |
 
-> Well, the biggest perk's the view — you're up high, away from the street noise, and it usually feels a lot brighter and airier. Plus, newer towers often come with gyms and proper security, so they're really convenient. Having said that, you do feel a bit cut off from the ground sometimes.
+> Well, the biggest advantage is the view — you're up high, away from the street noise, and it usually feels a lot brighter and more open. Plus, newer towers often come with gyms and proper security, so they're really convenient. Having said that, you do feel a bit cut off from the ground sometimes.
 
 **Q5. Why do some people like to remodel and decorate their homes themselves?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，我觉得一部分是关于省钱，因为请设计师会变得挺贵的。 | Honestly, I think it's partly about saving money, since hiring designers can get pretty pricey. |
-| 2 | 但它也真的很有成就感——当你自己装饰一个地方，它最后 会反映出你自己的品味，而不是别人的。 | But it's also really satisfying — when you decorate a place yourself, it ends up reflecting your own taste rather than someone else's. |
-| 3 | 此外，很多人 就是 享受那种亲手做的创造力，比如挑颜色、摆家具。 | Plus, a lot of people just enjoy the hands-on creativity, like picking colours and arranging furniture. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，我觉得一部分是关于省钱，因为请设计师会变得挺贵的。 | Honestly, I think it's partly about saving money, since hiring designers can get pretty pricey. | Honestly, I think it's partly about saving money, since hiring designers can get pretty pricey. |
+| 2 | 但它也真的很有成就感——当你自己装饰一个地方，它最后 会反映出你自己的品味，而不是别人的。 | But it's also really satisfying — when you decorate a place yourself, it ends up reflecting your own taste rather than someone else's. | But it's also really satisfying — when you decorate a place yourself, it ends up reflecting your own taste rather than someone else's. |
+| 3 | 此外，很多人 就是 享受那种亲手做的创造力，比如挑颜色、摆家具。 | Plus, a lot of people just enjoy the hands-on creativity, like picking colours and arranging furniture. | Plus, a lot of people just enjoy the hands-on creativity, like picking colours and arranging furniture. |
 
 > Honestly, I think it's partly about saving money, since hiring designers can get pretty pricey. But it's also really satisfying — when you decorate a place yourself, it ends up reflecting your own taste rather than someone else's. Plus, a lot of people just enjoy the hands-on creativity, like picking colours and arranging furniture.
 
 **Q6. What kind of interior design style do most people like?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 现在，我会说大多数人 选一种极简的风格——干净的线条、中性的颜色、还有不太多的杂物。 | These days, I'd say most people go for a minimalist look — clean lines, neutral colours, and not too much clutter. |
-| 2 | 它感觉平静又温馨，而且更容易保持整洁。 | It feels calm and cosy, and it's easier to keep tidy. |
-| 3 | 年轻人尤其爱那种简单的北欧感觉，虽然有些人 仍然更喜欢一种更温暖、更传统的风格、带着木质家具的。 | Younger folk especially love that simple Scandinavian vibe, though some still prefer a warmer, more traditional style with wooden furniture. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 现在，我会说大多数人 选一种极简的风格——干净的线条、中性的颜色、还有不太多的杂物。 | These days, I'd say most people go for a minimalist look — clean lines, neutral colours, and not too much mess. | These days, I'd say most people go for a minimalist look — clean lines, neutral colours, and not too much clutter. |
+| 2 | 它感觉平静又温馨，而且更容易保持整洁。 | It feels calm and cosy, and it's easier to keep tidy. | It feels calm and cosy, and it's easier to keep tidy. |
+| 3 | 年轻人尤其爱那种简单的北欧感觉，虽然有些人 仍然更喜欢一种更温暖、更传统的风格、带着木质家具的。 | Younger folk especially love that simple Scandinavian feel, though some still prefer a warmer, more traditional style with wooden furniture. | Younger folk especially love that simple Scandinavian vibe, though some still prefer a warmer, more traditional style with wooden furniture. |
 
-> These days, I'd say most people go for a minimalist look — clean lines, neutral colours, and not too much clutter. It feels calm and cosy, and it's easier to keep tidy. Younger folk especially love that simple Scandinavian vibe, though some still prefer a warmer, more traditional style with wooden furniture.
+> These days, I'd say most people go for a minimalist look — clean lines, neutral colours, and not too much mess. It feels calm and cosy, and it's easier to keep tidy. Younger folk especially love that simple Scandinavian feel, though some still prefer a warmer, more traditional style with wooden furniture.
 
-**P3 句型/模板**：数量 opener `Oh, tons of them.` / `Quite a lot, honestly.` · 归因 `it mostly comes down to [X]` · 对比轴 `Some are A, while/whereas others B` · `The newer ones tend to…, whereas older ones…` · 好处 `the biggest perk's [X]` · 让步收尾 `Having said that, …` · `it ends up reflecting [X]`（end up + -ing）· `a way to [do] without [X]-ing`。
+**P3 句型/模板**：数量 opener `Oh, tons of them.` / `Quite a lot, honestly.` · 归因 `it mostly comes down to [X]` · 对比轴 `Some are A, while/whereas others B` · `The newer ones tend to…, whereas older ones…` · 好处 `the biggest advantage is [X]` · 让步收尾 `Having said that, …` · `it ends up reflecting [X]`（end up + -ing）· `a way to [do] without [X]-ing`。
 
 ---
 
@@ -642,6 +669,99 @@
 
 > **Cue**: Describe a friend from your childhood（是谁 / 何时何地怎么认识 / 常一起做啥 / 为何喜欢）· 题型 Person
 
+### 🎤 你的实产版（6/28 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 发小张伟（沉着救火，你的真实版）；P3 = 你当天练的 6 题（友情/社媒域）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 发小张伟）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 老同学，张伟。 | The person I'd like to talk about is one of my old classmates, Zhangwei. |
+| 2 | 我们 在 小学 认识，那时 我们 大约 十一二岁，而 我们 最后 做 了 好几年 同学，一直 到 我们 读完 高中。 | We met in primary school when we were about eleven or twelve, and we ended up being classmates for years, right up until we finished high school. |
+| 3 | 那时候，我们 都 在 那 电脑 社团，而 我们 会 经常 一起 写 一些 小 程序。 | Back then, we were both in the computer club, and we'd often build little programs together. |
+| 4 | 真正 让 他 出众的 是 他 怎么 在 压力下 解决 问题。 | What really makes him stand out is how he solves problems under pressure. |
+| 5 | 我 记得 有一次 我们 需要 展示 我们的 项目 结果，而 就 在 那 展示 之前，那 程序 崩了。 | I remember one time we needed to present our project results, and right before the presentation, the program crashed. |
+| 6 | 当 我们 其他人 都 在 慌，张伟 就 保持 冷静、坐下、然后 开始 一行一行 过 那 代码 和 日志。 | While the rest of us were panicking, Zhangwei just kept calm, sat down, and started going through the code and logs line by line. |
+| 7 | 在 二十分钟 之内，他 已经 找到 那 根本原因、修好 了 它——他 说实话 救 了 场。 | Within twenty minutes, he'd found the root cause and fixed it — he honestly saved the day. |
+| 8 | 我 真的 佩服 他、为 他 在 压力下 保持 冷静 的 那个 样子。 | I really admire him for the way he stays calm under pressure. |
+| 9 | 他 现在 工作 做 得 很 好，而 我 觉得 那 主要 归结到 他 怎么 处理 问题。 | He's doing really well in his job now, and I think it mainly comes down to how he handles problems. |
+| 10 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+
+> The person I'd like to talk about is one of my old classmates, Zhangwei. We met in primary school when we were about eleven or twelve, and we ended up being classmates for years, right up until we finished high school. Back then, we were both in the computer club, and we'd often build little programs together. What really makes him stand out is how he solves problems under pressure. I remember one time we needed to present our project results, and right before the presentation, the program crashed. While the rest of us were panicking, Zhangwei just kept calm, sat down, and started going through the code and logs line by line. Within twenty minutes, he'd found the root cause and fixed it — he honestly saved the day. I really admire him for the way he stays calm under pressure. He's doing really well in his job now, and I think it mainly comes down to how he handles problems. To be honest, that's something I'd love to learn from him.
+
+**P3（你练的 6 题 · 友情/社媒）**
+
+**你Q1. Do you still keep in touch with childhood friends?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 说实话，不太。 | Honestly, not really. |
+| 2 | 上次 我 试着 重新 联系 一个 童年的 好朋友，那 对话 就是 特别 无聊——全都是 "怎么样？还行"，那种 东西。 | Last time I tried to reconnect with a close friend from childhood, the conversation was just really dull — it was all "How's it going? Not bad," that kind of thing. |
+| 3 | 我 觉得 那 主要 原因 是 我们 渐渐 疏远 了——我们 现在 过 完全 不同的 生活、每天 看到 不同的 东西，所以 没 剩 多少 连接。 | I think the main reason is we've drifted apart — we live totally different lives now and see different things every day, so there's not much of a connection left. |
+| 4 | 就是 再也 没 什么 好 聊的 了。 | There's just nothing much to talk about anymore. |
+
+> Honestly, not really. Last time I tried to reconnect with a close friend from childhood, the conversation was just really dull — it was all "How's it going? Not bad," that kind of thing. I think the main reason is we've drifted apart — we live totally different lives now and see different things every day, so there's not much of a connection left. There's just nothing much to talk about anymore.
+
+**你Q2. How important is childhood friendship to children?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 极其 重要，我会说。 | Hugely important, I'd say. |
+| 2 | 童年的 友谊 教 孩子 一大堆 东西——怎么 处理 冲突、怎么 跟 别人 相处，这一切。 | Childhood friendships teach kids loads of things — how to deal with conflict, how to get on with others, all of it. |
+| 3 | 此外，有 朋友 让 孩子 感觉 没那么 孤独，（这）对 他们的 心理 健康 真的 很好。 | Plus, having friends makes kids feel less lonely, which is really good for their mental health. |
+| 4 | 所以 那些 早期的 友谊 真的 塑造 他们 成为 什么 样的人。 | So those early friendships really shape who they become. |
+
+> Hugely important, I'd say. Childhood friendships teach kids loads of things — how to deal with conflict, how to get on with others, all of it. Plus, having friends makes kids feel less lonely, which is really good for their mental health. So those early friendships really shape who they become.
+
+**你Q3. What do you think of communicating via social media?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 好的一面，社交媒体 让 人们 更 容易 保持 联系。 | On the plus side, social media makes it easier for people to stay in touch. |
+| 3 | 另一方面，网上 聊天 有点 更 肤浅，而 你 那样 建立 的 纽带 挺 脆弱。 | On the other hand, chatting online is a bit shallower, and the bonds you build that way are pretty fragile. |
+| 4 | 所以 总的来说，它 对 保持 联系 很 方便，但 没 什么 比得过 面对面 见面。 | So overall, it's handy for keeping in touch, but nothing beats meeting in person. |
+
+> It's a bit of a mixed bag, honestly. On the plus side, social media makes it easier for people to stay in touch. On the other hand, chatting online is a bit shallower, and the bonds you build that way are pretty fragile. So overall, it's handy for keeping in touch, but nothing beats meeting in person.
+
+**你Q4. Will online communication replace face-to-face?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 怀疑。 | I doubt it. |
+| 2 | 诚然，网上 交流 已经 大大 改变 了 我们 怎么 说话——有 数字 工具，人们 能 从 任何地方、在 任何时候 聊天。 | Admittedly, online communication has massively changed how we talk — with digital tools, people can chat from anywhere, at any time. |
+| 3 | 但 它 没法 完全 取代 面对面 见面。 | But it can't completely take over meeting in person. |
+| 4 | 有 一种 温暖、（那种 你 就是 在 网上 得不到的）。 | There's a warmth you just can't get online. |
+| 5 | 此外，好的 交流 涉及 肢体 语言 和 语气。 | Plus, good communication involves body language and tone of voice. |
+| 6 | 所以 总的来说，网上 交流 只是 给 它 添彩，它 不 取代 它。 | So overall, online communication just adds to it, it doesn't replace it. |
+
+> I doubt it. Admittedly, online communication has massively changed how we talk — with digital tools, people can chat from anywhere, at any time. But it can't completely take over meeting in person. There's a warmth you just can't get online. Plus, good communication involves body language and tone of voice. So overall, online communication just adds to it, it doesn't replace it.
+
+**你Q5. What's the difference between younger friends and older friends?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它们 挺 不同，我 觉得。 | They're quite different, I reckon. |
+| 2 | 一个 更 年轻的 朋友 有点 让 你 保持 年轻——你们 在 像 科技 和 潮流 这样的 新 东西 上 合拍，而 一切 都 挺 轻松。 | A younger friend kind of keeps you young — you're on the same wavelength about new stuff like tech and trends, and it's all pretty laid-back. |
+| 3 | 一个 年长的 朋友，另一方面，给 你 靠谱的 建议 和 一点 人生 经验——他们 以前 经历过。 | An older friend, on the other hand, gives you solid advice and a bit of life experience — they've been there before. |
+| 4 | 但 说实话，对 我 来说 它 归结到 你们 合不合拍，不是 他们 多大。 | But honestly, for me it comes down to whether you click, not how old they are. |
+
+> They're quite different, I reckon. A younger friend kind of keeps you young — you're on the same wavelength about new stuff like tech and trends, and it's all pretty laid-back. An older friend, on the other hand, gives you solid advice and a bit of life experience — they've been there before. But honestly, for me it comes down to whether you click, not how old they are.
+
+**你Q6. Has technology changed people's friendships?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 大大地，是的。 | Massively, yeah. |
+| 2 | 我们 以前 面对面 见面，但 现在 大多 是 发短信 和 点赞。 | We used to meet up in person, but now it's mostly texting and likes. |
+| 3 | 虽然 科技 让 保持 联系 容易 得多，网上的 友谊 可能 感觉 有点 肤浅。 | While technology makes it much easier to stay in touch, friendships online can feel a bit shallow. |
+| 4 | 所以 我会说 它 归结到 我们 怎么 用 它。 | So I'd say it comes down to how we use it. |
+
+> Massively, yeah. We used to meet up in person, but now it's mostly texting and likes. While technology makes it much easier to stay in touch, friendships online can feel a bit shallow. So I'd say it comes down to how we use it.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1165,6 +1285,27 @@
 
 > **Cue**: 什么决定 / 怎么做的 / 结果 / 为何重要 · 题型 Event/Decision
 
+### 🎤 你的实产版（6/23 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（毕业选行业，你的真实版；这条你只练了 P2，没练 P3）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 毕业选进技术行业）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 做 的 一个 重要 决定 是 选 进 哪个 行业，就 在 我 毕业 之后。 | One important decision I made was choosing which field to go into, just after I graduated. |
+| 2 | 那时候，我 完全 不知道 我 能 做 什么，所以 它 感觉 像 一个 大 决定。 | At the time, I had no idea what I could do, so it felt like a big decision. |
+| 3 | 最后，我 选择 成为 一个 软件 工程师，然后 在 一家 互联网 公司 工作。 | In the end, I chose to become a software engineer, and worked at an internet company. |
+| 4 | 在 我 下定 决心 之前，我 权衡 了 几样 东西——我 自己的 兴趣 和 那 工作 前景——而 我 也 问 了 一些 在 这行 工作的人 关于 他们的 经验。 | Before I made up my mind, I weighed a few things — my own interests and the job prospects — and I also asked some people working in the field about their experience. |
+| 5 | 结果 呢，它 进展 得 不错，而 我 找到 一份 稳定的 工作。 | As it turned out, it worked out well, and I found a stable job. |
+| 6 | 它 重要 是 因为 那 决定 完全 塑造 了 我的 职业。 | It was important because the decision completely shaped my career. |
+| 7 | 有时候 我 想象，如果 我 当初 进 了 另一个 行业，我的 生活 会 完全 不同。 | Sometimes I imagine, if I'd gone into another field, my life would be totally different. |
+| 8 | 回头看，我 真的 庆幸 我 花 时间 想 了 它，而不是 脑子 一热 就 冲 进去。 | Looking back, I'm really glad I spent time thinking about it, instead of rushing into it. |
+
+> One important decision I made was choosing which field to go into, just after I graduated. At the time, I had no idea what I could do, so it felt like a big decision. In the end, I chose to become a software engineer, and worked at an internet company. Before I made up my mind, I weighed a few things — my own interests and the job prospects — and I also asked some people working in the field about their experience. As it turned out, it worked out well, and I found a stable job. It was important because the decision completely shaped my career. Sometimes I imagine, if I'd gone into another field, my life would be totally different. Looking back, I'm really glad I spent time thinking about it, instead of rushing into it.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1368,6 +1509,26 @@
 
 > **Cue**: 是什么 / 什么场合 / 怎么做 / 为何那时吃 · 题型 Object/Event
 
+### 🎤 你的实产版（6/22 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（生日蛋糕 · 今日最干净一张，你的真实版；这条只练了 P2）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 生日蛋糕）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 食物 是 生日 蛋糕。正如 它 名字 暗示的，人们 在 他们 生日 那天 吃 它。 | The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. |
+| 2 | 在 我 家，生日 总是 一件 大事，因为 我 老婆 爱 烘焙、通常 自己 做。 | In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. |
+| 3 | 她 通常 先 烤 一个 海绵 底，然后 给 它 抹 上 奶油，最后 塑形、装饰——在 上面 加 一些 水果 或 糖果。 | She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. |
+| 4 | 一个 我 真的 记得的 是 她 给 我们 儿子 做 的 那个 恐龙 蛋糕——他 高兴 坏了。 | One I really remember is the dinosaur cake she made for our son — he was over the moon. |
+| 5 | 人们 吃 它 是 因为 它 是 一个 庆祝 的 方式——你 在 它 上面 插 蜡烛、许 一个 愿、然后 大家 唱歌。 | People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. |
+| 6 | 我 最 喜欢 的 部分 是 当 我们 关 灯、把 蛋糕 端 出来，然后 大家 开始 唱。 | My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. |
+| 7 | 所以 对 我 来说，那 蛋糕 其实 不 关于 食物，它 关于 把 大家 聚 到 一起。 | So for me, the cake isn't really about the food, it's about bringing everyone together. |
+
+> The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. One I really remember is the dinosaur cake she made for our son — he was over the moon. People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. So for me, the cake isn't really about the food, it's about bringing everyone together.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1470,6 +1631,97 @@
 ## P2-新15 · A person good at learning languages — wife（Person）
 
 > **Cue**: 怎么认识 / 怎么学 / 会哪些语言 / 你的感受 · 题型 Person
+
+### 🎤 你的实产版（6/28 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 老婆学语言（你的真实版）；P3 = 你当天练的 6 题（教育/学习域）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 老婆学语言）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 老婆，（她 真的 很 擅长 学 语言）。 | The person I'd like to talk about is my wife, who's really good at learning languages. |
+| 2 | 我们 当年 在 高中 认识，做 了 好几年 同学，一直 到 我们 读完 大学——而 我们 现在 已经 结婚 十多年 了。 | We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. |
+| 3 | 去年，她 开始 学 日语。 | Last year, she started learning Japanese. |
+| 4 | 我们 去过 日本 几次，而 她 每一次 都 很 爱，所以 我 觉得 她 想 说 流利 的 主要 原因 是 她 下次 旅行 能 更 投入。 | We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. |
+| 5 | 她 学 的 方式 是 靠 啃 教材，而 有时候 她 也 看 卡通 和 动漫。 | The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. |
+| 6 | 她 真的 坚持——她 每一天 都 啃 掉 一点点。 | She really sticks at it — she chips away at it a little every single day. |
+| 7 | 她 就是 有 一个 真正的 语言 天赋。 | She's just got a real talent for languages. |
+| 8 | 她 会 说 中文、英语、和 几种 方言，而 现在 她 正 把 日语 加 到 那 单子 上。 | She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. |
+| 9 | 我 真正 佩服 她 的 是 她的 毅力。 | What I really admire about her is her perseverance. |
+| 10 | 她 从不 停止 学习，即使 当 她 手头 一 大堆 事——工作、带 孩子、那种 东西。 | She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. |
+| 11 | 说实话，她 为 我 和 我 儿子 都 树立 了 一个 很好的 榜样。 | Honestly, she sets a great example for both me and my son. |
+
+> The person I'd like to talk about is my wife, who's really good at learning languages. We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. Last year, she started learning Japanese. We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. She really sticks at it — she chips away at it a little every single day. She's just got a real talent for languages. She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. What I really admire about her is her perseverance. She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. Honestly, she sets a great example for both me and my son.
+
+**P3（你练的 6 题 · 教育/学习）**
+
+**你Q1. Are there many people who can speak foreign languages in your country?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，挺 多，我会说。 | Yeah, quite a few, I'd say. |
+| 2 | 在 中国，我们 从 小学 开始 学 英语，而 它 一直 延续 到 大学。 | In China, we start learning English in primary school, and it carries on all the way through university. |
+| 3 | 但 说句公道话，我们 大多数 人 还是 说 得 没那么 流利——我们 大多 专注 阅读 而不是 说 和 听，所以 我们 读 得 好好的，但 一 要 说话 就 卡住。 | But to be fair, most of us still can't speak it that fluently — we mostly focus on reading rather than speaking and listening, so we can read it fine but freeze up when we have to talk. |
+
+> Yeah, quite a few, I'd say. In China, we start learning English in primary school, and it carries on all the way through university. But to be fair, most of us still can't speak it that fluently — we mostly focus on reading rather than speaking and listening, so we can read it fine but freeze up when we have to talk.
+
+**你Q2. Does speaking other languages help at work?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 取决于 那 工作，真的。 | It depends on the job, really. |
+| 2 | 对 那些 跟 外国 客户 打交道 的 行业，你 显然 需要 会 说 那 语言。 | For industries that deal with foreign customers, you obviously need to speak the language. |
+| 3 | 但 有 一大堆 工作 只 处理 国内的 事——比如 一个 本地 店主 或 一个 出租车 司机——（那里 你 永远 不 真的 需要 它）。 | But there are loads of jobs that only deal with domestic stuff — like a local shop owner or a taxi driver — where you'd never really need it. |
+| 4 | 话虽如此，如果 他们 确实 碰巧 会 说 一门，它 仍然 能 偶尔 派上 用场，比如 帮 一个 外国 游客。 | That said, if they do happen to speak one, it can still come in handy now and then, like helping out a foreign tourist. |
+
+> It depends on the job, really. For industries that deal with foreign customers, you obviously need to speak the language. But there are loads of jobs that only deal with domestic stuff — like a local shop owner or a taxi driver — where you'd never really need it. That said, if they do happen to speak one, it can still come in handy now and then, like helping out a foreign tourist.
+
+**你Q3. Do people learn languages other than English?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，绝对。 | Yeah, definitely. |
+| 2 | 诚然，英语 是 最 通用的 语言，而 它 在 这里 从 小学 起 就是 一门 主科。 | Admittedly, English is the most universal language, and it's a core subject right from primary school here. |
+| 3 | 但 有些人 更喜欢 学 别的 语言——比如 日语 或 韩语——胜过 英语，主要 因为 他们 真的 很 迷 动漫 或 韩剧。 | But some people prefer picking up other languages — Japanese or Korean, say — over English, mainly because they're really into anime or K-dramas. |
+| 4 | 所以 它 常常 归结到 他们 个人 迷 什么。 | So it often comes down to what they're personally into. |
+
+> Yeah, definitely. Admittedly, English is the most universal language, and it's a core subject right from primary school here. But some people prefer picking up other languages — Japanese or Korean, say — over English, mainly because they're really into anime or K-dramas. So it often comes down to what they're personally into.
+
+**你Q4. Why is it easier for children to learn new things than adults?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 习惯，我会说。 | Mainly habit, I'd say. |
+| 2 | 大人 已经 见过、做过 这么 多，以至于 他们 习惯了 这 世界 本来的 样子，所以 他们 倾向于 固守 老一套、不再 逼 自己。 | Adults have already seen and done so much that they're used to the way the world is, so they tend to stay stuck in their ways and stop pushing themselves. |
+| 3 | 而 小孩 灵活 得 多——他们 像 海绵，总是 在 提问、吸收 新 东西。 | Whereas kids are far more flexible — they're like sponges, always questioning and soaking up new things. |
+| 4 | 此外，他们 不 怕 犯错，所以 他们 就 一头 扎 进去。 | Plus, they're not afraid of making mistakes, so they just dive in. |
+
+> Mainly habit, I'd say. Adults have already seen and done so much that they're used to the way the world is, so they tend to stay stuck in their ways and stop pushing themselves. Whereas kids are far more flexible — they're like sponges, always questioning and soaking up new things. Plus, they're not afraid of making mistakes, so they just dive in.
+
+**你Q5. How do people learn new things?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 在 网上 看 教程 大概 是 最 容易、最 便宜的 一个——几乎 任何 东西 都 有 一个 视频，从 正经的 大学 课程，到 一个 有经验的人 手把手 带 你，到 一步步 的 how-to 演示。 | Watching tutorials online is probably the easiest and cheapest one — there's a video out there for pretty much anything, from proper university courses, to someone experienced just walking you through it, to step-by-step how-to demos. |
+| 3 | 除此之外，面对面 问 朋友 或 一个 有经验的人 也 很棒，因为 你 得到 实用的 提示、（那种 契合 你 自己 情况的）。 | On top of that, asking friends or someone experienced face-to-face is great too, since you get practical tips that fit your own situation. |
+| 4 | 此外，老老实实 啃 一本 教材 总是 值得 一试。 | Plus, good old working through a textbook is always worth a try. |
+
+> Loads of ways, really. Watching tutorials online is probably the easiest and cheapest one — there's a video out there for pretty much anything, from proper university courses, to someone experienced just walking you through it, to step-by-step how-to demos. On top of that, asking friends or someone experienced face-to-face is great too, since you get practical tips that fit your own situation. Plus, good old working through a textbook is always worth a try.
+
+**你Q6. What's the most important thing for learning a language well?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 对 我 来说，那 一定 是 真正 用 它 去 交流——那 就是 我们 一开始 学 一门 语言 的 全部 原因。 | For me, it's got to be actually using it to communicate — that's the whole reason we learn a language in the first place. |
+| 2 | 通过 跟 真实的人 说话，你 学会 怎么 表达 自己、理解 别人。 | By talking to real people, you learn how to express yourself and understand others. |
+| 3 | 你 不该 做的 是 只 埋 在 语法书 和 单词表 里——说实话，那 就是 我们 大多数 人 掉 进 的 陷阱。 | What you shouldn't do is just bury yourself in grammar books and word lists — honestly, that's the trap most of us fall into. |
+| 4 | 所以 到头来，一门 语言 是 一个 用来 跟 人 说话 的 工具；你 只有 靠 用 它 才 真正 学会 它。 | So at the end of the day, a language is a tool for talking to people; you only really learn it by using it. |
+
+> For me, it's got to be actually using it to communicate — that's the whole reason we learn a language in the first place. By talking to real people, you learn how to express yourself and understand others. What you shouldn't do is just bury yourself in grammar books and word lists — honestly, that's the trap most of us fall into. So at the end of the day, a language is a tool for talking to people; you only really learn it by using it.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -1574,6 +1826,99 @@
 ## P2-新16 · A challenging tech problem — 笔记本死机（speaker）
 
 > **Cue**: 什么问题 / 何时何地 / 多难 / 怎么解决 · 题型 Event
+
+### 🎤 你的实产版（6/29 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 系统宕机 debug（你的例子，和上面卡的"笔记本死机"同 cue、不同故事）；P3 = 你当天练的 **6 个 AI 域** follow-up（和下面 examples 的 P3 题目不同，都是你的真实产出）。这套**不降档**——你练过、你觉得好的词/结构原样保留，只加英式中文珠子。
+
+**P2（你的版 · 系统宕机）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个问题 是 有一次、（当 我们整个 业务系统 宕机的时候）。 | The problem I'd like to talk about is one time when our whole business system went down. |
+| 2 | 我 是 一个 软件工程师，而 那时候 我 负责 那些 后端 服务。 | I'm a software engineer, and back then I was in charge of the back-end services. |
+| 3 | 那问题 是 我们的一个服务 停止 响应 请求，所以 用户 根本 没法 登录 或 下单——而 对 我们的业务，那 意味着 我们 每一秒 都在 亏钱。 | The problem was that one of our services stopped responding to requests, so users couldn't log in or place orders at all — and for our business, that meant we were losing money every second. |
+| 4 | 那 大约 是 一年前。 | It was about a year ago. |
+| 5 | 一个 深夜，我 在家，当 我的手机 开始 嗡嗡 响着 警报。 | Late one night, I was at home when my phone started buzzing with alerts. |
+| 6 | 让 它 这么 难的 是 那 根本原因 不 明显——那系统 已经 好几个月 运行 正常。 | What made it so hard was that the root cause wasn't obvious — the system had been running fine for months. |
+| 7 | 首先，我 试着 止血、靠 回滚 那 最新的 部署，但 那 没用，所以 我 只能 一步一步 排查。 | First, I tried to stop the bleeding by rolling back the latest deployment, but that didn't work, so I had to work through it step by step. |
+| 8 | 我 查 那些 警告 和 错误 日志、什么 也 没找到，然后 我 看 那 网络流量。 | I checked the warning and error logs and found nothing, then I looked at the network traffic. |
+| 9 | 在 大约 三十分钟 之内，我 追查到 那 原因：一个 节点 在 重负载下 挂了，但 我们的网关 没 察觉 到，所以 它们 一直 把 流量 路由 给 它。 | Within about thirty minutes, I tracked down the cause: one of the nodes had failed under heavy load, but our gateways didn't pick that up, so they kept routing traffic to it. |
+| 10 | 我 修好 它、靠 把 那 节点 从 集群里 拔出来，而 一切 立刻 恢复了。 | I fixed it by pulling that node out of the cluster, and everything came back up right away. |
+| 11 | 所以，对，差不多 就是 这样。 | So yeah, that's pretty much it. |
+
+> The problem I'd like to talk about is one time when our whole business system went down. I'm a software engineer, and back then I was in charge of the back-end services. The problem was that one of our services stopped responding to requests, so users couldn't log in or place orders at all — and for our business, that meant we were losing money every second. It was about a year ago. Late one night, I was at home when my phone started buzzing with alerts. What made it so hard was that the root cause wasn't obvious — the system had been running fine for months. First, I tried to stop the bleeding by rolling back the latest deployment, but that didn't work, so I had to work through it step by step. I checked the warning and error logs and found nothing, then I looked at the network traffic. Within about thirty minutes, I tracked down the cause: one of the nodes had failed under heavy load, but our gateways didn't pick that up, so they kept routing traffic to it. I fixed it by pulling that node out of the cluster, and everything came back up right away. So yeah, that's pretty much it.
+
+**P3（你练的 6 题 · AI 域）**
+
+**你Q1. Advantages and disadvantages of AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 真的 是 好坏参半，说实话。 | It's a real mixed bag, honestly. |
+| 2 | 好的一面，AI 帮 人们 做 一些 事、（那种 超出 我们 能力的）——比如 处理 大量 数据 或 当场 翻译 语言。 | On the plus side, AI helps people do things that are beyond us — like crunching huge amounts of data or translating languages on the spot. |
+| 3 | 它 也 把 那些 无聊的 杂活 从 我们 肩上 拿走，（这）省 一大堆 时间。 | It also takes the boring chores off our plate, which saves loads of time. |
+| 4 | 说句公道话，不过，太 依赖 它 会 一点点 削掉 我们 自己的 技能，不管 是 学习 还是 工作。 | To be fair, though, relying on it too much can chip away at our own skills, whether at study or work. |
+| 5 | 所以 总的来说，它 归结到 我们 怎么 用 它。 | So overall, it comes down to how we use it. |
+
+> It's a real mixed bag, honestly. On the plus side, AI helps people do things that are beyond us — like crunching huge amounts of data or translating languages on the spot. It also takes the boring chores off our plate, which saves loads of time. To be fair, though, relying on it too much can chip away at our own skills, whether at study or work. So overall, it comes down to how we use it.
+
+**你Q2. Should people today learn about AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Definitely, yeah. |
+| 2 | AI 是 现在 最 强大的 工具 之一，所以 我们 应该 跟上 时代，不然 我们 会 落后。 | AI's one of the most powerful tools out there now, so we should keep up with the times, or we'll fall behind. |
+| 3 | 你 不 需要 成为 一个 专家——只要 那些 基础 就 够了。 | You don't need to be an expert — just the basics will do. |
+| 4 | 说实话，AI 会 重塑 我们 怎么 工作 和 学习，所以 我们 越早 掌握 它，越 好。 | Honestly, AI's going to reshape how we work and study, so the sooner we get to grips with it, the better. |
+
+> Definitely, yeah. AI's one of the most powerful tools out there now, so we should keep up with the times, or we'll fall behind. You don't need to be an expert — just the basics will do. Honestly, AI's going to reshape how we work and study, so the sooner we get to grips with it, the better.
+
+**你Q3. Should children learn to use AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，在 某种程度上。 | Yeah, to some extent. |
+| 2 | AI 其实 是 一个 强大 又 有耐心的 老师——你 可以 问 它 绝对 任何 东西、还 能 得到 一个 挺 靠谱的 答案。 | AI's actually a powerful and patient teacher — you can ask it absolutely anything and still get a pretty solid answer. |
+| 3 | 但 孩子 不该 太 早 依赖 它，因为 AI 确实 会 犯 错。 | But kids shouldn't lean on it too early, because AI does make mistakes. |
+| 4 | 所以 学会 独立 思考 得 排 在 第一——AI 应该 辅助 那个，而不是 取代 它。 | So learning to think for themselves has to come first — AI should back that up, not replace it. |
+
+> Yeah, to some extent. AI's actually a powerful and patient teacher — you can ask it absolutely anything and still get a pretty solid answer. But kids shouldn't lean on it too early, because AI does make mistakes. So learning to think for themselves has to come first — AI should back that up, not replace it.
+
+**你Q4. How can AI help in our lives?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | AI 打理 那些 日常 杂活——比如 规划 旅行，或 自动 收拢 我 感兴趣的 新闻，那种 东西。 | AI takes care of everyday chores — like planning trips, or automatically rounding up the news I'm into, that kind of thing. |
+| 3 | 它 也 能 教 我 怎么 学 一个 新 东西，（这）我 觉得 比 只是 递给 我 一个 答案 更 重要。 | It can also show me how to learn something new, which I think matters more than just handing me an answer. |
+| 4 | 有时候，说实话，它 让 我 感觉 有点 没用，因为 AI 总是 做 得 比 我 好。 | Sometimes, to be honest, it makes me feel a bit useless, because AI always does it better than me. |
+
+> Loads of ways, really. AI takes care of everyday chores — like planning trips, or automatically rounding up the news I'm into, that kind of thing. It can also show me how to learn something new, which I think matters more than just handing me an answer. Sometimes, to be honest, it makes me feel a bit useless, because AI always does it better than me.
+
+**你Q5. Are students overly reliant on AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 有点，说实话。 | A bit, to be honest. |
+| 2 | 对 学生 来说 用 AI 做 作业 太 方便 了——他们 做的 全部 就是 复制粘贴、不 动脑子。 | It's just so convenient for students to do their homework with AI — all they do is copy and paste without thinking. |
+| 3 | 但 我 不 觉得 这 真的 是 他们的 错；说实话，没人 能 抵抗 那个 诱惑。 | But I don't think it's really their fault; honestly, nobody can resist the temptation. |
+| 4 | 所以 我们 需要 做的 是 教 学生 怎么 正确 用 它，也许 再 设 一些 限制。 | So what we need to do is show students how to use it properly, and maybe put a few limits in place. |
+
+> A bit, to be honest. It's just so convenient for students to do their homework with AI — all they do is copy and paste without thinking. But I don't think it's really their fault; honestly, nobody can resist the temptation. So what we need to do is show students how to use it properly, and maybe put a few limits in place.
+
+**你Q6. What can teachers do to stop over-reliance on AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 一来，老师 可以 布置 AI 做不了的 作业——动手的 任务，那种 东西。 | For one, teachers can set homework AI can't do — hands-on tasks, that kind of thing. |
+| 3 | 除此之外，让 学生 在 课上 做 作业、在 监督下，也 是 一个 好 主意。 | On top of that, getting students to do the work in class, under supervision, is a good idea too. |
+| 4 | 除此之外，老师 可以 反过来 用 AI——去 检查 学生 是否 真的 自己 做了 作业。 | Besides that, teachers can use AI the other way round — to check whether students actually did the work themselves. |
+
+> A few things, really. For one, teachers can set homework AI can't do — hands-on tasks, that kind of thing. On top of that, getting students to do the work in class, under supervision, is a good idea too. Besides that, teachers can use AI the other way round — to check whether students actually did the work themselves.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -1782,6 +2127,95 @@
 ## P2-新18 · A place you'd recommend — 京都（Place）
 
 > **Cue**: 是什么 / 在哪 / 看到做了啥 / 为何推荐 · 题型 Place
+
+### 🎤 你的实产版（6/26 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 京都（你的真实版）；P3 = 你当天练的 6 题（travel/holiday 域）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 京都）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想推荐的那个 地方 是 京都，在 日本 的 西部。 | The place I'd like to recommend is Kyoto, over in the west of Japan. |
+| 2 | 我 现在 已经 去过 那儿 四次，而 我 每一次 都 享受。 | I've been there four times now, and I've enjoyed it every single time. |
+| 3 | 我 在 那儿 通常 做的 是 逛 那些 老 寺庙、在 街区 里 闲逛、还 吃 当地 街头 小吃。 | What I usually do there is visit the old temples, wander around the neighbourhoods, and eat local street food. |
+| 4 | 一个 真的 留 在 我 心里的 时刻 是 我 沿着 那儿 一条 河 的 一次 散步——我 说实话 念 不 出 它的 名字。 | One moment that really stuck with me was a stroll I took along a river there — I honestly can't pronounce its name. |
+| 5 | 一开始，我 不 明白 为什么 这么 小 一条 河 有名，但 过 一会儿，我 完全 沉浸 在 它 那 宁静的 氛围 里。 | At first, I couldn't get why such a small river was famous, but after a while, I was completely immersed in its peaceful atmosphere. |
+| 6 | 真正 让 京都 出众的 是 它 怎么 融合 那 传统 和 那 现代。 | What really makes Kyoto stand out is how it blends the traditional and the modern. |
+| 7 | 你 会 看到 一大堆 人 穿着 传统 衣服 走来走去，而 你 却 能 买 那 最新的 iPhone、然后 撞见 一座 几百年 的 寺庙、就 在 街 那头。 | You'll see loads of people walking around in traditional clothes, and yet you can buy the latest iPhone and then come across a centuries-old temple just down the street. |
+| 8 | 所以 总的来说，我 会 把 它 推荐 给 任何人、（那种 想要 一个 让 你 慢下来 的 地方的）——它 是 一个 我 会 永远 记得的 地方。 | So all in all, I'd recommend it to anyone who wants a place that slows you down — it's somewhere I'll always remember. |
+
+> The place I'd like to recommend is Kyoto, over in the west of Japan. I've been there four times now, and I've enjoyed it every single time. What I usually do there is visit the old temples, wander around the neighbourhoods, and eat local street food. One moment that really stuck with me was a stroll I took along a river there — I honestly can't pronounce its name. At first, I couldn't get why such a small river was famous, but after a while, I was completely immersed in its peaceful atmosphere. What really makes Kyoto stand out is how it blends the traditional and the modern. You'll see loads of people walking around in traditional clothes, and yet you can buy the latest iPhone and then come across a centuries-old temple just down the street. So all in all, I'd recommend it to anyone who wants a place that slows you down — it's somewhere I'll always remember.
+
+**P3（你练的 6 题 · travel/holiday）**
+
+**你Q1. Where do people go for holidays?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆，说实话——中国 是 一个 大 国家，所以 有 很多 选择。 | Loads, honestly — China's a big country, so there are tons of options. |
+| 2 | 一大堆 人 去 海边，比如 上海 或 海南，（那里 他们 能 享受 那 沙滩 和 海景）。 | A lot of people head to the seaside, like Shanghai or Hainan, where they can enjoy the sandy beaches and ocean views. |
+| 3 | 另一些 更喜欢 山，比如 黄山，（那里 他们 能 躲开 那 夏天 的热、还 呼吸 一些 新鲜 空气）。 | Others prefer the mountains, like Huangshan, where they can escape the summer heat and breathe some fresh air. |
+| 4 | 所以 它 真的 取决于 你 追求 什么。 | So it really depends on what you're after. |
+
+> Loads, honestly — China's a big country, so there are tons of options. A lot of people head to the seaside, like Shanghai or Hainan, where they can enjoy the sandy beaches and ocean views. Others prefer the mountains, like Huangshan, where they can escape the summer heat and breathe some fresh air. So it really depends on what you're after.
+
+**你Q2. What's the ideal length for a holiday?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一到 两周 是 理想的，我会说。 | One to two weeks is ideal, I'd say. |
+| 2 | 如果 你 只 有 几天，那 旅行 感觉 太 匆忙——你 几乎 来不及 体会 那 当地 文化 或 那 风景，它 就 结束了。 | If you only have a few days, the trip feels too rushed — you barely get to take in the local culture or the scenery before it's over. |
+| 3 | 一周 左右 是 那个 最佳点：你 有 足够 时间 慢下来、真正 享受 它，不管 是 那 自然 风景 还是 那 历史 古迹。 | A week or so is the sweet spot: you've got enough time to slow down and really enjoy it, whether it's the natural scenery or the historical sights. |
+
+> One to two weeks is ideal, I'd say. If you only have a few days, the trip feels too rushed — you barely get to take in the local culture or the scenery before it's over. A week or so is the sweet spot: you've got enough time to slow down and really enjoy it, whether it's the natural scenery or the historical sights.
+
+**你Q3. How do people plan holidays?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 这些天，大多 在 网上，我会说。 | These days, mostly online, I'd say. |
+| 2 | 你 能 在 网上 找到 所有 答案——怎么 去 那儿、哪些 餐厅 好、那 当地 文化 是 什么 样的，全部。 | You can find all the answers on the internet — how to get there, which restaurants are good, what the local culture's like, all of it. |
+| 3 | 此外，问 朋友 也 是 一个 好 方式——你 得到 更 真实的 信息、而不是 只 广告。 | Plus, asking friends is a good way too — you get more honest info instead of just ads. |
+| 4 | 所以 真的，大多数 人 两样 都 做 一点。 | So really, most people do a bit of both. |
+
+> These days, mostly online, I'd say. You can find all the answers on the internet — how to get there, which restaurants are good, what the local culture's like, all of it. Plus, asking friends is a good way too — you get more honest info instead of just ads. So really, most people do a bit of both.
+
+**你Q4. Is it important to plan ahead?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的——至少 那些 基础。 | Definitely, yes — at least the basics. |
+| 2 | 即使 是 一个 轻松的 假期，值得 有 一个 大致的 计划，尤其 为 交通 和 你 住 哪儿。 | Even for a chilled-out holiday, it's worth having a rough plan, especially for transport and where you're staying. |
+| 3 | 否则 你 可能 最后 被 困住——比如 在 一个 陌生 地方 晚上 转来转去、无处 可去。 | Otherwise you can end up stuck — like wandering around a strange place at night with nowhere to go. |
+| 4 | 所以 我 会 总是 提前 搞定 那些 大事，即使 我 让 其余 保持 灵活。 | So I'd always sort out the big stuff in advance, even if I keep the rest flexible. |
+
+> Definitely, yes — at least the basics. Even for a chilled-out holiday, it's worth having a rough plan, especially for transport and where you're staying. Otherwise you can end up stuck — like wandering around a strange place at night with nowhere to go. So I'd always sort out the big stuff in advance, even if I keep the rest flexible.
+
+**你Q5. Why do countries attract tourists?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 钱，我会说。 | Mainly money, I'd say. |
+| 2 | 旅游业 带 进 一 大笔 收入——游客 花钱 在 交通、酒店、和 食物 上，所以 它 全 加起来。 | Tourism brings in a huge amount of income — visitors spend on transport, hotels and food, so it all adds up. |
+| 3 | 此外，它 创造 一大堆 工作 给 普通 人。 | Plus, it creates loads of jobs for ordinary people. |
+| 4 | 而 它 对 那 国家 的 形象 也 很好——游客 回家 然后 到处 说。 | And it's great for the country's image too — visitors go home and spread the word. |
+| 5 | 所以 总的来说，外国 游客 对 那 经济 真的 很 好。 | So overall, foreign tourists are really good for the economy. |
+
+> Mainly money, I'd say. Tourism brings in a huge amount of income — visitors spend on transport, hotels and food, so it all adds up. Plus, it creates loads of jobs for ordinary people. And it's great for the country's image too — visitors go home and spread the word. So overall, foreign tourists are really good for the economy.
+
+**你Q6. How do people decide when to travel?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 大多 归结到 时机，我会说。 | It mostly comes down to timing, I'd say. |
+| 2 | 对 小孩，是 学校 假期；对 大人，是 无论 什么时候 他们 能 请 到 假，或 当 事情 稍微 清闲 一点。 | For kids, it's the school holidays; for adults, it's whenever they can get time off work, or when things are a bit quieter. |
+| 3 | 人们 也 会 考虑 那 目的地——哪个 季节 最好，或 什么时候 人 更 少。 | People also think about the destination — which season's best, or when it's less crowded. |
+| 4 | 所以 真的，它 是 你 什么时候 有空 和 什么时候 是 去 的 最佳时机 的 一个 混合。 | So really, it's a mix of when you're free and when's the best time to go. |
+
+> It mostly comes down to timing, I'd say. For kids, it's the school holidays; for adults, it's whenever they can get time off work, or when things are a bit quieter. People also think about the destination — which season's best, or when it's less crowded. So really, it's a mix of when you're free and when's the best time to go.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -2307,6 +2741,29 @@
 
 > **Cue**: 发给谁 / 内容 / 是否终收到回复 / 感受 · 题型 Event
 
+### 🎤 你的实产版（6/22 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（给老同学发邮件求建议、久等回复，你的真实版；这条只练了 P2）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 发邮件求建议久等回复）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 到 的 一次 是 当 我 给 一个 老同学 发 邮件 求 一些 建议。 | One time that comes to mind is when I emailed an old classmate to ask for some advice. |
+| 2 | 那时候，我 在 考虑 转 进 他 那个 行业，所以 我 想 他 会 是 那个 该 问 的 合适 人选。 | At the time, I was thinking about moving into his industry, so I thought he'd be the right person to ask. |
+| 3 | 我 想 问 他 一些 行业 消息，因为 他 在 一个 我 感兴趣的 领域 工作。 | I wanted to ask him about some industry news, because he works in a field I'm interested in. |
+| 4 | 我们 好些年 没 说过话 了，所以 突然 给 他 发消息 感觉 有点 尴尬，而 我 花 了 老半天 斟酌 措辞。 | We hadn't talked in years, so it felt a bit awkward to message him out of the blue, and I spent ages wording it. |
+| 5 | 但 在 我 发 出去 之后，我 很久 都 没 收到 回复。 | But after I sent it, I didn't hear back for a long time. |
+| 6 | 一天天 过去，然后 好几周，而 我 开始 琢磨 我 是不是 说 错 了 什么。 | Days went by, then a couple of weeks, and I started to wonder if I'd said something wrong. |
+| 7 | 我 一天 查 手机 好几次，我 甚至 回去 看 他 是不是 读 了。 | I checked my phone a few times a day, and I even went back to see if he'd read it. |
+| 8 | 最后，他 确实 回 了——大约 一个月 后——而 结果 是 他 只是 一直 很 忙。 | In the end, he did reply — about a month later — and it turned out he'd just been really busy. |
+| 9 | 说实话，那 等待 的 部分 有点 让人 焦虑，因为 我 一直 想 太多。 | Honestly, the waiting part was a bit stressful, because I kept overthinking it. |
+| 10 | 所以 现在 当 人们 回 得 慢，我 尽量 不 往 心里 去。 | So now I try not to take it personally when people are slow to reply. |
+
+> One time that comes to mind is when I emailed an old classmate to ask for some advice. At the time, I was thinking about moving into his industry, so I thought he'd be the right person to ask. I wanted to ask him about some industry news, because he works in a field I'm interested in. We hadn't talked in years, so it felt a bit awkward to message him out of the blue, and I spent ages wording it. But after I sent it, I didn't hear back for a long time. Days went by, then a couple of weeks, and I started to wonder if I'd said something wrong. I checked my phone a few times a day, and I even went back to see if he'd read it. In the end, he did reply — about a month later — and it turned out he'd just been really busy. Honestly, the waiting part was a bit stressful, because I kept overthinking it. So now I try not to take it personally when people are slow to reply.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2509,6 +2966,29 @@
 ## P2-新25 · A person who met difficulties but succeeded — zhangwei 自学 ML（Person）
 
 > **Cue**: 是谁 / 遇到什么困难 / 怎么克服 / 你的感受 · 题型 Person
+
+### 🎤 你的实产版（6/23 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（张伟高压救火，你的真实版；这条你只练了 P2，没练 P3）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 张伟高压救火）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 大学 同学，张伟。 | The person I'd like to talk about is one of my classmates at university, Zhangwei. |
+| 2 | 我们 认识 彼此 十多年 了。 | We've known each other for over ten years. |
+| 3 | 那时候，我们 通常 做的 是 泡 在 学校 电脑 社团 里，而 我们 会 瞎 鼓捣、写 一些 小 程序。 | Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. |
+| 4 | 让 他 出众的 是 他 怎么 在 压力下 解决 问题。 | What makes him stand out is how he solves problems under pressure. |
+| 5 | 我 记得 有一次，在 一个 小组 项目 上，那 程序 就 在 展示 之前 崩了。 | I remember one time, on a group project, the program crashed right before the presentation. |
+| 6 | 当 我们 其他人 都 在 慌，他 就 保持 冷静、坐下、然后 一行一行 过 那 代码 和 日志。 | While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. |
+| 7 | 大约 二十分钟 里，他 修好 了 它——他 基本上 救 了 场。 | In about twenty minutes, he fixed it — he basically saved the day. |
+| 8 | 而 不 只是 那 一次——无论 什么时候 有 东西 坏了，他 就是 那种 人、（大家 都 会 求助的），因为 他 稳得住、还 总是 乐意 帮忙。 | And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. |
+| 9 | 这些天 他 做 得 很好——他 是 一个 出色的 开发者，而 我 觉得 那 是 因为 他 总能 在 压力下 保持 冷静。 | These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. |
+| 10 | 那 是 一个 我 真的 佩服 他 的 地方。 | That's something I really admire about him. |
+
+> The person I'd like to talk about is one of my classmates at university, Zhangwei. We've known each other for over ten years. Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. What makes him stand out is how he solves problems under pressure. I remember one time, on a group project, the program crashed right before the presentation. While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. In about twenty minutes, he fixed it — he basically saved the day. And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. That's something I really admire about him.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -3242,6 +3722,30 @@
 
 > **Cue**: 是什么 / 多少钱 / 怎么知道 / 为何想要 · 题型 Object
 
+### 🎤 你的实产版（6/22 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（高端 3D 打印机，你的真实版 · 首次独立全 cold 里程碑；这条只练了 P2）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 高端 3D 打印机）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 拥有 的 一件 科技产品 是 一台 高端的 3D 打印机。 | One piece of technology I'd like to own is a high-end 3D printer. |
+| 2 | 我 入 这个 坑 是 通过 我 一个 同事，（他 真的 很 迷 3D 打印）——他 甚至 用 零件 造 了 他 自己的 机器。 | I got into it through a colleague of mine, who's really into 3D printing — he even built his own machine from spare parts. |
+| 3 | 他 给 我 看 他 那台 能 做 什么，而 我 立刻 就 上瘾了。 | He showed me what his one could do, and I was hooked straight away. |
+| 4 | 据 我 所知，一台 入门级 的 大约 花 四千 块。 | As far as I know, an entry-level one costs around four thousand yuan. |
+| 5 | 它 挺 贵，但 我 觉得 它 会 完全 值得。 | It's pretty expensive, but I think it'd be completely worth it. |
+| 6 | 有 几个 原因 我 想 拥有 一台。 | There are a couple of reasons why I'd like to own one. |
+| 7 | 首先，它 能 打印 各种 玩具，比如 五彩的 恐龙、乐高 积木、那种 东西。 | First, it can print all sorts of toys, like colourful dinosaurs, Lego blocks, that kind of thing. |
+| 8 | 除此之外，它 是 一个 偷偷的 方式、[去]让 我 儿子 对 工程 感兴趣——他 能 看到 屏幕上 的 一个 东西 怎么 变成 一个 真的 物体。 | On top of that, it's a sneaky way to get my son interested in engineering — he could see how something on the screen turns into a real object. |
+| 9 | 让 它 出众的 是 一台 3D 打印机 其实 是 我们 俩 的 一个 巨大的 玩具。 | What makes it stand out is that a 3D printer is really a giant toy for both of us. |
+| 10 | 周末，我 儿子 坐 在 我 旁边，我们 一起 设计 一个 模型，然后 那 打印机 一层一层 把 它 造 出来。 | On weekends, my son sits right next to me, we design a model together, and the printer builds it layer by layer. |
+| 11 | 所以 它 会 让 我们 亲近 得 多。 | So it'd bring us much closer. |
+
+> One piece of technology I'd like to own is a high-end 3D printer. I got into it through a colleague of mine, who's really into 3D printing — he even built his own machine from spare parts. He showed me what his one could do, and I was hooked straight away. As far as I know, an entry-level one costs around four thousand yuan. It's pretty expensive, but I think it'd be completely worth it. There are a couple of reasons why I'd like to own one. First, it can print all sorts of toys, like colourful dinosaurs, Lego blocks, that kind of thing. On top of that, it's a sneaky way to get my son interested in engineering — he could see how something on the screen turns into a real object. What makes it stand out is that a 3D printer is really a giant toy for both of us. On weekends, my son sits right next to me, we design a model together, and the printer builds it layer by layer. So it'd bring us much closer.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3565,6 +4069,94 @@
 
 > **Cue**: 是什么 / 多久用 / 何时怎么用 / 怎么发现 / 感受 · 题型 Object
 
+### 🎤 你的实产版（6/25 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 小红书 Rednote（你的例子，同 cue、不同 app）；P3 = 你当天练的 6 题（和下面 examples 的 P3 题目不同，都是你的真实产出）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · Rednote）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 app 是 小红书。 | The app I'd like to talk about is Rednote. |
+| 2 | 我 用 它 挺 频繁——我 花 一两个 小时 在 它 上面。 | I use it quite often — I spend an hour or two on it. |
+| 3 | 我 真的 上瘾，因为 它 给 我 这么 多 信息、（那种 我 感兴趣的），比如 短的 旅行 视频。 | I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. |
+| 4 | 有时候 我 也 在 它 上面 搜 东西——比如，如果 我 在 出差，我 会 用 小红书 [去]找 一家 好的 餐厅 吃 晚饭。 | Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. |
+| 5 | 至于 我 怎么 发现 它的，这 是 一个 有意思的 故事：小红书 本来 是 为 女性 设计的，而 我 老婆 很爱 它。 | As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. |
+| 6 | 几年前，那 公司 想 扩大 它的 市场，所以 他们 重新 设计 它、也 加 了 给 男性的 内容——而 那 就是 我 老婆 推荐 它 给 我 的时候。 | A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. |
+| 7 | 所以 说实话，它 是 一个 真的 很 有用的 工具。 | So honestly, it's a really useful tool. |
+
+> The app I'd like to talk about is Rednote. I use it quite often — I spend an hour or two on it. I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. So honestly, it's a really useful tool.
+
+**P3（你练的 6 题）**
+
+**你Q1. Differences between old and young people using apps?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它们 挺 不同。 | They're quite different. |
+| 2 | 年轻人 瞬间 就 上手 新 app，而 老年人 有点 更 谨慎、还 坚持 他们 认识的 那些。 | Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. |
+| 3 | 所以 它 真的 归结到 他们 是 伴随 什么 长大的。 | So it really comes down to what they grew up with. |
+
+> They're quite different. Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. So it really comes down to what they grew up with.
+
+**你Q2. Why do some people not like using apps?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 信任 和 习惯，我会说。 | Mainly trust and habit, I'd say. |
+| 2 | 有些人 担心 那些 app 公司 知道 关于 他们的 一切——他们 喜欢 什么、他们 吃 什么——（这）感觉 有点 瘆人。 | Some people worry the app companies know everything about them — what they like, what they eat — which feels a bit creepy. |
+| 3 | 另一些 就 更喜欢 老 方式；我 父母 还 用 现金 付钱，因为 那 就是 他们 习惯的。 | Others just prefer the old way; my parents still pay with cash because that's what they're used to. |
+| 4 | 说句公道话，对 他们 一个 app 感觉 像 麻烦 多过 帮助。 | To be fair, for them an app feels like more hassle than help. |
+
+> Mainly trust and habit, I'd say. Some people worry the app companies know everything about them — what they like, what they eat — which feels a bit creepy. Others just prefer the old way; my parents still pay with cash because that's what they're used to. To be fair, for them an app feels like more hassle than help.
+
+**你Q3. What apps are popular in your country, and why?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 哦，一大堆。 | Oh, loads. |
+| 2 | 那 最大的 是 通讯 和 支付 app、比如 微信——基本上 每个人 每天 用 它们，因为 你 能 在 一个 地方 做 一切：聊天、付钱、甚至 订 一辆 出租车。 | The biggest ones are messaging and payment apps like WeChat — basically everyone uses them every day, because you can do everything in one place: chat, pay, even book a taxi. |
+| 3 | 短视频 app 也 巨大，主要 因为 它们 令人上瘾、还 给 你 一个 快 笑、当 你 无聊 的时候。 | Short-video apps are huge too, mainly because they're addictive and give you a quick laugh when you're bored. |
+| 4 | 所以 真的，它 归结到 便捷 和 打发 时间。 | So really, it comes down to convenience and killing time. |
+
+> Oh, loads. The biggest ones are messaging and payment apps like WeChat — basically everyone uses them every day, because you can do everything in one place: chat, pay, even book a taxi. Short-video apps are huge too, mainly because they're addictive and give you a quick laugh when you're bored. So really, it comes down to convenience and killing time.
+
+**你Q4. Should parents limit children's use of apps and games?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的——但 用 一个 轻手，不是 一个 彻底的 禁令。 | Definitely, yes — but with a light touch, not a total ban. |
+| 2 | 当然，有些 app 帮 孩子 学习、游戏 让 他们 放松，但 它们 也 能 真的 令人上瘾。 | Sure, some apps help kids learn and games let them relax, but they can also be really addictive. |
+| 3 | 所以 我 会 设 一个 每日 时间 限制，还 把 屏幕 时间 配 上 户外 玩 或 阅读。 | So I'd set a daily time limit, and pair screen time with outdoor play or reading. |
+| 4 | 如果 你 太 严，他们 反正 会 就 偷偷 绕过。 | If you're too strict, they'll just sneak around anyway. |
+
+> Definitely, yes — but with a light touch, not a total ban. Sure, some apps help kids learn and games let them relax, but they can also be really addictive. So I'd set a daily time limit, and pair screen time with outdoor play or reading. If you're too strict, they'll just sneak around anyway.
+
+**你Q5. Are young people more reliant on these apps?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，我 会 这么 说。 | Yes, I'd say so. |
+| 2 | 我 花 很多 时间 在 各种 app 上——比如，微信 用来 跟 朋友 保持 联系，美团 用来 点 外卖。 | I spend a lot of time on various apps — for example, WeChat for staying in touch with friends, Meituan for ordering takeout. |
+| 3 | 说实话，我 没法 想象 那 世界 会 是 什么 样，如果 这些 app 消失了。 | Honestly, I can't imagine what the world would be like if these apps disappeared. |
+| 4 | 说句公道话，有时候 我 觉得 我 对 它们 太 关注、还 忽略了 那 真实 世界。 | To be fair, sometimes I think I pay too much attention to them and ignore the real world. |
+
+> Yes, I'd say so. I spend a lot of time on various apps — for example, WeChat for staying in touch with friends, Meituan for ordering takeout. Honestly, I can't imagine what the world would be like if these apps disappeared. To be fair, sometimes I think I pay too much attention to them and ignore the real world.
+
+**你Q6. What about countries banning children from social media?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 大体上 同意。 | I largely agree. |
+| 2 | 当然，社交媒体 帮 人们 连接，但 对 孩子 那些 坏处 真的 压过 那些 好处。 | Sure, social media helps people connect, but for children the drawbacks really outweigh the benefits. |
+| 3 | 网上 聊天 是 肤浅的，而 它 会 伤害 孩子 面对面 交流 的 能力。 | Chatting online is shallow, and it can hurt kids' ability to communicate in person. |
+| 4 | 此外，外面 有 一大堆 负面 内容、（那种 孩子 真的 应付不了的）。 | Plus, there's loads of negative content out there that kids can't really handle. |
+| 5 | 所以 我会说 它 是 必要的，至少 到 某个 年龄 之前。 | So I'd say it's necessary, at least up to a certain age. |
+
+> I largely agree. Sure, social media helps people connect, but for children the drawbacks really outweigh the benefits. Chatting online is shallow, and it can hurt kids' ability to communicate in person. Plus, there's loads of negative content out there that kids can't really handle. So I'd say it's necessary, at least up to a certain age.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3883,6 +4475,27 @@
 
 > **Cue**: 是什么 / 何时拥有 / 怎么得到 / 为何重要 · 题型 Object
 
+### 🎤 你的实产版（6/22 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（外公的旧机械表，你的真实版；这条只练了 P2）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 外公的旧机械表）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 东西 是 一块 旧 手表。 | The thing I'd like to talk about is an old watch. |
+| 2 | 它 是 一块 机械 表，（它 看起来 有点 磨损、甚至 已经 走 不 准 了）。 | It's a mechanical watch, which looks a bit worn and doesn't even keep perfect time anymore. |
+| 3 | 它 属于 我 外公，（他 在 娶 我 外婆 的时候 买 了 它）。 | It belonged to my grandfather, who bought it when he married my grandmother. |
+| 4 | 我 外公 几乎 每天 戴 它，而 他 在 我 童年 期间 把 我 带大。 | My grandfather wore it almost every day, and he raised me during my childhood. |
+| 5 | 它 在 我们 家 五十多年 了，而 后来 他 把 它 传 给 了 我。 | It's been in our family for over fifty years, and later he passed it down to me. |
+| 6 | 它 重要 不 是 因为 它 值 很多 钱，而 是 因为 它 代表 的 东西——看着 它 总是 勾起 我 小时候 的 回忆。 | It's important not because it's worth a lot, but because of what it represents — looking at it always brings back memories of when I was a kid. |
+| 7 | 说实话，每次 我 看 它，我 就 想起 那些 时候、（他 会 坐 在 我 旁边 陪 我、当 我 做 作业 的时候）。 | Honestly, every time I look at it, I remember the times when he would sit right next to me and keep me company while I did my homework. |
+| 8 | 所以 有一天，我 想 把 它 传 给 我 儿子。 | So one day, I'd like to pass it down to my son. |
+
+> The thing I'd like to talk about is an old watch. It's a mechanical watch, which looks a bit worn and doesn't even keep perfect time anymore. It belonged to my grandfather, who bought it when he married my grandmother. My grandfather wore it almost every day, and he raised me during my childhood. It's been in our family for over fifty years, and later he passed it down to me. It's important not because it's worth a lot, but because of what it represents — looking at it always brings back memories of when I was a kid. Honestly, every time I look at it, I remember the times when he would sit right next to me and keep me company while I did my homework. So one day, I'd like to pass it down to my son.
+
+---
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3988,6 +4601,27 @@
 ## P2-老12 · A car/bike/motorcycle trip you'd like to go on — 川西自驾（Event/Place）
 
 > **Cue**: 和谁 / 去哪 / 何时 / 为何选这种交通 · 题型 Event/Place
+
+### 🎤 你的实产版（6/22 session 练过 · 你的词/结构，未降未改 · 只练了 P2）
+
+> 你自己练过的 P2（川西自驾带家人，你的真实版 · 固定短语零翻车；这条只练了 P2）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 川西自驾带家人）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 去 的 那趟 公路旅行 是 川西 的 某个 地方。 | The road trip I'd like to take is somewhere in western Sichuan. |
+| 2 | 我 大概 会 等 到 我 儿子 长 大 一点，也许 一两年 内，然后 在 暑假 期间 去。 | I'd probably wait until my son grows a bit older, maybe in a year or two, and go during the summer holiday. |
+| 3 | 它 是 那种 地方、（那里 有 很多 雪盖的 山）。 | It's the kind of place where there are plenty of snow-capped mountains. |
+| 4 | 我 会 跟 我 家人 一起 去——我 老婆 和 我们 儿子，因为 他们 是 我 盼着 旅行 的 主要 原因。 | I'd go with my family — my wife and our son, because they're the main reason I look forward to traveling. |
+| 5 | 当 我们 到 那儿，我们 会 沿着 那些 山路 开，然后 在 任何 看起来 不错的 地方 停。 | When we get there, we'd drive along the mountain roads and stop anywhere that looks nice. |
+| 6 | 我们 也 会 找 一家 不错的 餐厅、尝 一些 当地 食物。 | We'd also find a nice restaurant and try some local food. |
+| 7 | 我 开车 而不是 坐飞机 的 原因 是 那 自由——因为 当 你 开车，你 不 被 一个 日程 拴住，你 可以 只要 看到 一个 好 景 就 停、拍照、让 我们 儿子 到处 跑。 | The reason I'd go by car rather than fly is the freedom — because when you drive you're not stuck to a schedule, you can stop whenever you see a nice view, take photos and let our son run around. |
+| 8 | 说实话，那 最好的 部分 是 我们 不必 赶——通常 我们 总是 匆匆忙忙，但 这次 我们 就 慢慢来。 | Honestly, the best part is we don't have to rush — usually we're always in a hurry, but this time we'd just take our time. |
+
+> The road trip I'd like to take is somewhere in western Sichuan. I'd probably wait until my son grows a bit older, maybe in a year or two, and go during the summer holiday. It's the kind of place where there are plenty of snow-capped mountains. I'd go with my family — my wife and our son, because they're the main reason I look forward to traveling. When we get there, we'd drive along the mountain roads and stop anywhere that looks nice. We'd also find a nice restaurant and try some local food. The reason I'd go by car rather than fly is the freedom — because when you drive you're not stuck to a schedule, you can stop whenever you see a nice view, take photos and let our son run around. Honestly, the best part is we don't have to rush — usually we're always in a hurry, but this time we'd just take our time.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -4826,6 +5460,101 @@
 ## P2-老20 · An item you spent more than expected on — Muye 的自行车（Object）
 
 > **Cue**: 是什么 / 花了多少 / 为何买 / 为何超支 · 题型 Object
+
+### 🎤 你的实产版（6/27 session 练过 · 你的词/结构，未降未改）
+
+> 你自己练过的一整套：P2 = 3D 打印机（你的真实版，同 cue、不同物）；P3 = 你当天练的 6 题（钱/经济域）。**不降档**，只加英式中文珠子。
+
+**P2（你的版 · 3D 打印机）**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 花 得 比 预期 多的 那件 东西 是 一台 3D 打印机。 | The item I spent more than expected on is a 3D printer. |
+| 2 | 一开始，我 只 想 买 一台 入门级 的，但 最后 我 买 了 一台 高级 的。 | At first, I only wanted to buy an entry-level one, but in the end I bought an advanced one. |
+| 3 | 它 花 了 超过 4000 块，（这）几乎 是 我 预算 的 两倍。 | It cost more than 4,000 yuan, which was almost double my budget. |
+| 4 | 我 入 这个 坑 是 通过 我 一个 同事，（他 是 一个 真正的 发烧友）——他 甚至 用 零件 造 了 他 自己的 机器。 | I got into it through one of my colleagues, who's a real enthusiast — he even built his own machine from spare parts. |
+| 5 | 他 给 我 看 他的 能 做 什么，而 我 立刻 就 上瘾了。 | He showed me what his could do, and I was hooked straight away. |
+| 6 | 有 几个 原因 我 买 它。 | There are a couple of reasons I bought it. |
+| 7 | 首先，它 能 打印 各种 玩具——五彩的 恐龙、乐高 积木、那种 东西。 | First, it can print all sorts of toys — colourful dinosaurs, Lego blocks, that kind of thing. |
+| 8 | 除此之外，它 是 一个 偷偷的 方式、[去]让 我 儿子 对 工程 感兴趣——他 能 看到 屏幕上 的 一个 东西 怎么 变成 一个 真的 物体。 | On top of that, it's a sneaky way to get my son interested in engineering — he can see how something on the screen turns into a real object. |
+| 9 | 至于 为什么 我 花 得 比 预期 多，那 主要 是 因为 那些 配件——尤其 一个 叫 AMS 的 部件，（它 让 它 能 打印 多种 颜色）。 | As for why I spent more than I expected, it was mainly because of the add-ons — especially a part called AMS, which lets it print in multiple colours. |
+| 10 | 但 说实话，整 件 事 是 值得的。 | But honestly, the whole thing was worth it. |
+| 11 | 周末，我 儿子 坐 在 我 旁边，我们 一起 设计 某个 东西，然后 看 那 打印机 一层一层 把 它 造 出来。 | On weekends, my son sits right next to me, we design something together, and watch the printer build it layer by layer. |
+
+> The item I spent more than expected on is a 3D printer. At first, I only wanted to buy an entry-level one, but in the end I bought an advanced one. It cost more than 4,000 yuan, which was almost double my budget. I got into it through one of my colleagues, who's a real enthusiast — he even built his own machine from spare parts. He showed me what his could do, and I was hooked straight away. There are a couple of reasons I bought it. First, it can print all sorts of toys — colourful dinosaurs, Lego blocks, that kind of thing. On top of that, it's a sneaky way to get my son interested in engineering — he can see how something on the screen turns into a real object. As for why I spent more than I expected, it was mainly because of the add-ons — especially a part called AMS, which lets it print in multiple colours. But honestly, the whole thing was worth it. On weekends, my son sits right next to me, we design something together, and watch the printer build it layer by layer.
+
+**P3（你练的 6 题 · 钱/经济）**
+
+**你Q1. Do you often buy more than you expected?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 不太，说实话——我 自己 几乎 不 买 任何 东西，网上 或 店里。 | Not really, to be honest — I barely buy anything myself, online or in shops. |
+| 2 | 我 老婆 打理 那 一切，不管 是 家用的 东西 还是 个人的 东西。 | My wife takes care of all of it, whether it's household stuff or personal things. |
+| 3 | 说句公道话，当 我 确实 买 某个 东西，我 通常 超 预算，因为 我 总是 想要 那 最好的。 | To be fair, when I do buy something, I usually go over budget, because I always want the best one. |
+
+> Not really, to be honest — I barely buy anything myself, online or in shops. My wife takes care of all of it, whether it's household stuff or personal things. To be fair, when I do buy something, I usually go over budget, because I always want the best one.
+
+**你Q2. What do young people spend their money on?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 房租，我会说。 | Mainly rent, I'd say. |
+| 2 | 这些天 房租 一直 在 涨，尤其 在 大 城市，所以 它 吃 掉 他们 工资 的 一 大块。 | These days rent keeps going up, especially in big cities, so it eats up a big chunk of their salary. |
+| 3 | 除此之外，还有 那些 最新的 电子产品——手机、笔记本、那种 东西——（那 也 不 便宜）。 | On top of that, there's the latest gadgets — phones, laptops, that kind of thing — which don't come cheap either. |
+| 4 | 所以 总的来说，它 大多 是 住房 和 他们 每天 用的 东西。 | So overall, it's mostly housing and the stuff they use every day. |
+
+> Mainly rent, I'd say. These days rent keeps going up, especially in big cities, so it eats up a big chunk of their salary. On top of that, there's the latest gadgets — phones, laptops, that kind of thing — which don't come cheap either. So overall, it's mostly housing and the stuff they use every day.
+
+**你Q3. Is it important to save money?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 它 真的 关键——哪怕 只 一点点。 | Absolutely, I think it's really key — even just a little. |
+| 2 | 这些天 有 一大堆 东西 需要 钱——房租、医疗、这一切。 | These days there are loads of things that need money — rent, healthcare, all of it. |
+| 3 | 存 一点 起来 并不 真的 拘束 你的 生活；要说的话，它 给 你 一个 缓冲、当 某个 东西 出 问题 的时候。 | Putting a bit aside doesn't really cramp your life; if anything, it gives you a cushion when something goes wrong. |
+| 4 | 话虽如此，你 不该 过头——存钱 是 一个 工具，不是 那 目标。 | That said, you shouldn't overdo it — saving's a tool, not the goal. |
+| 5 | 钱 在 那儿 是 用来 花的，不是 只 攥 着。 | Money's there to be used, not just sat on. |
+
+> Absolutely, I think it's really key — even just a little. These days there are loads of things that need money — rent, healthcare, all of it. Putting a bit aside doesn't really cramp your life; if anything, it gives you a cushion when something goes wrong. That said, you shouldn't overdo it — saving's a tool, not the goal. Money's there to be used, not just sat on.
+
+**你Q4. Do people buy things they don't need?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一直，我 觉得。 | Always, I think. |
+| 2 | 那 主要 原因 是 冲动——很多 购买 是 被 情绪 驱动，不是 真 需要。 | The main reason is impulse — a lot of buying is driven by emotion, not real need. |
+| 3 | 这些天 广告 到处 都是，而 当 人们 看到 一个，尤其 有 打折 的时候，他们 生出 一股 强烈的 购买 冲动，即使 他们 并不 真的 需要 它。 | These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy, even if they don't really need it. |
+| 4 | 在 今天 这个 快节奏的 世界，人们 甚至 不 慢下来 问 一下 他们 是否 真的 需要 某个 东西。 | In today's fast-paced world, folk don't even slow down to ask if they actually need something. |
+| 5 | 所以 广告 真的 很 擅长 让 想要 感觉 像 需要。 | So advertising's really good at making wants feel like needs. |
+
+> Always, I think. The main reason is impulse — a lot of buying is driven by emotion, not real need. These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy, even if they don't really need it. In today's fast-paced world, folk don't even slow down to ask if they actually need something. So advertising's really good at making wants feel like needs.
+
+**你Q5. Is it the rich people's responsibility to donate money?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 不 这么 觉得——至少 不 作为 一个 义务。 | I don't think so — at least not as a duty. |
+| 2 | 帮 有需要的 人 真的 是 那 政府 的 活，不 归 富有的 个人。 | Helping people in need is really the government's job, not down to wealthy individuals. |
+| 3 | 能够 帮忙 并不 让 它 成为 他们的 义务。 | Being able to help doesn't make it their duty. |
+| 4 | 当然，如果 富人 回馈 更多 会 很好，但 那 应该 通过 像 税 这样的 东西 来，而不是 靠 强加 在 他们 身上。 | Of course, it'd be great if the rich gave more back, but that should come through things like taxes, not by forcing it on them. |
+| 5 | 所以 我会说 鼓励 它，别 强迫 它——慷慨 该 发自 内心，不是 出于 压力。 | So I'd say encourage it, don't force it — generosity should come from the heart, not from pressure. |
+
+> I don't think so — at least not as a duty. Helping people in need is really the government's job, not down to wealthy individuals. Being able to help doesn't make it their duty. Of course, it'd be great if the rich gave more back, but that should come through things like taxes, not by forcing it on them. So I'd say encourage it, don't force it — generosity should come from the heart, not from pressure.
+
+**你Q6. What kind of things do people pay a high price for?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 他们的 爱好 和 健康，我会说。 | Mainly their hobbies and health, I'd say. |
+| 2 | 人们 倾向于 付 多得多、为 他们 真正 热爱的——对 一个 吃货，那 是 一顿 花哨的 饭；对 一个 游戏玩家，一台 顶配的 电脑。 | People tend to pay much more for what they really love — for a foodie, that's a fancy meal; for a gamer, a top-end PC. |
+| 3 | 他们 把 它 看作 花得 值的 钱，不是 一个 浪费。 | They see it as money well spent, not a waste. |
+| 4 | 至于 健康，你 真的 没法 给 它 定 一个 价——没有 它，别的 一切 都 无所谓。 | As for health, you can't really put a price on it — without it, nothing else matters. |
+| 5 | 所以 人们 会 乐意 大手花钱 在 一辆 可靠的 车、一张 健身房 会员、或 好的 食物 上。 | So people will happily splash out on a reliable car, a gym membership, or good food. |
+
+> Mainly their hobbies and health, I'd say. People tend to pay much more for what they really love — for a foodie, that's a fancy meal; for a gamer, a top-end PC. They see it as money well spent, not a waste. As for health, you can't really put a price on it — without it, nothing else matters. So people will happily splash out on a reliable car, a gym membership, or good food.
+
+---
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
