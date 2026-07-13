@@ -4562,6 +4562,8 @@
 
 ---
 
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**。（顶部另有「你的实产版」= 你练过的外公旧表版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -4688,6 +4690,8 @@
 > The road trip I'd like to take is somewhere in western Sichuan. I'd probably wait until my son grows a bit older, maybe in a year or two, and go during the summer holiday. It's the kind of place where there are plenty of snow-capped mountains. I'd go with my family — my wife and our son, because they're the main reason I look forward to traveling. When we get there, we'd drive along the mountain roads and stop anywhere that looks nice. We'd also find a nice restaurant and try some local food. The reason I'd go by car rather than fly is the freedom — because when you drive you're not stuck to a schedule, you can stop whenever you see a nice view, take photos and let our son run around. Honestly, the best part is we don't have to rush — usually we're always in a hurry, but this time we'd just take our time.
 
 ---
+
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**。（顶部另有「你的实产版」= 你练过的川西自驾版。）
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
