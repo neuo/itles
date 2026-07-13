@@ -3800,6 +3800,8 @@
 
 ---
 
+> ✅ **下面 examples 范文：P2 + 3 个 P3 达标**；三处降档（`sleek → modern`（Q1）· `gravitate towards → lean towards`（Q2）· `finding your tribe → finding people like you`（Q6），见下）。（顶部另有「你的实产版」= 你练过的 3D 打印机版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3839,21 +3841,21 @@
 |---|---|---|
 | 1 | 嗯，我会说 那 最大的 差距 是 速度 和 便捷。 | Well, I'd say the biggest gap is speed and ease. |
 | 2 | 更老的 小设备 又 笨重 又 慢，而 你 经常 等 老半天、让 它们 做 任何事。 | Older gadgets were bulky and slow, and you'd often wait ages for them to do anything. |
-| 3 | 今天的 科技 又 光滑、又 即时、还 塞满 功能。 | Today's tech is sleek, instant, and packed with features. |
+| 3 | 今天的 科技 又 光滑、又 即时、还 塞满 功能。 | Today's tech is modern, instant, and packed with features.〔原范文：sleek〕 |
 | 4 | 拿 相机 来说——胶片的 意味着 猜测 和 等待，但 现在 你 看见 你的照片、就 在 你 拍它 的那一秒。 | Take cameras — film ones meant guesswork and waiting, but now you see your shot the second you take it. |
 
-> Well, I'd say the biggest gap is speed and ease. Older gadgets were bulky and slow, and you'd often wait ages for them to do anything. Today's tech is sleek, instant, and packed with features. Take cameras — film ones meant guesswork and waiting, but now you see your shot the second you take it.
+> Well, I'd say the biggest gap is speed and ease. Older gadgets were bulky and slow, and you'd often wait ages for them to do anything. Today's tech is modern, instant, and packed with features. Take cameras — film ones meant guesswork and waiting, but now you see your shot the second you take it.
 
 **Q2. What technology do young people like to use?**
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
-| 1 | 说实话，年轻人 倾向 任何 社交的、视觉的 东西。 | Honestly, young people gravitate towards anything social and visual. |
+| 1 | 说实话，年轻人 倾向 任何 社交的、视觉的 东西。 | Honestly, young people lean towards anything social and visual.〔原范文：gravitate towards〕 |
 | 2 | 他们 粘 在 短视频 app、流媒体 平台、和 游戏装备上，因为 那些 感觉 又 快 又 好玩。 | They're glued to short-video apps, streaming platforms, and gaming gear, since those feel fast and fun. |
 | 3 | 我觉得 它 大多是 关于 保持 连接 和 被 娱乐。 | I reckon it's mostly about staying connected and entertained. |
 | 4 | 比如，一个 青少年 会 挑 一个 智能手表 或 耳机、胜过 一台 老台式机、任何时候，因为 便携性 对 他们 真的 要紧。 | For instance, a teenager would pick a smartwatch or earbuds over an old desktop any day, because portability really matters to them. |
 
-> Honestly, young people gravitate towards anything social and visual. They're glued to short-video apps, streaming platforms, and gaming gear, since those feel fast and fun. I reckon it's mostly about staying connected and entertained. For instance, a teenager would pick a smartwatch or earbuds over an old desktop any day, because portability really matters to them.
+> Honestly, young people lean towards anything social and visual. They're glued to short-video apps, streaming platforms, and gaming gear, since those feel fast and fun. I reckon it's mostly about staying connected and entertained. For instance, a teenager would pick a smartwatch or earbuds over an old desktop any day, because portability really matters to them.
 
 **Q3. What are the differences between online and face-to-face communication?**
 
@@ -3893,13 +3895,13 @@
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | 1 | 我会说 现实的 友谊 慢慢 建立、通过 共享的 时刻，所以 它们 倾向于 感觉 更 结实、更 扎实。 | I'd say real-life friendships build slowly through shared moments, so they tend to feel sturdier and more grounded. |
-| 2 | 网上的 很快 形成、围绕 共同的 兴趣，（那 对于 找到 你的 同类 很棒）。 | Online ones form fast around common interests, which is brilliant for finding your tribe. |
+| 2 | 网上的 很快 形成、围绕 共同的 兴趣，（那 对于 找到 你的 同类 很棒）。 | Online ones form fast around common interests, which is brilliant for finding people like you.〔原范文：finding your tribe〕 |
 | 3 | 但 它们 可能 有点 脆弱，因为 你 从不 完全 知道 谁 在 那屏幕 后面。 | But they can be a bit fragile, since you never fully know who's behind the screen. |
 | 4 | 两者 都 有 它们的 位置，说实话。 | Both have their place, honestly. |
 
-> I'd say real-life friendships build slowly through shared moments, so they tend to feel sturdier and more grounded. Online ones form fast around common interests, which is brilliant for finding your tribe. But they can be a bit fragile, since you never fully know who's behind the screen. Both have their place, honestly.
+> I'd say real-life friendships build slowly through shared moments, so they tend to feel sturdier and more grounded. Online ones form fast around common interests, which is brilliant for finding people like you. But they can be a bit fragile, since you never fully know who's behind the screen. Both have their place, honestly.
 
-**P3 句型/模板**：`bulky and slow` / `wait ages for them to do anything` · `sleek, instant, and packed with features` · `you see your shot the second you take it` · `gravitate towards anything social and visual` · `glued to short-video apps` · `staying connected and entertained` · `pick … over … any day` · `you pick up tone, body language, and little pauses` · `flat and easy to misread` · `a text joke might land badly when nobody hears your voice behind it` · `reachable round the clock` · `which would've been unthinkable before`（which后置）· `we connect more often but maybe less deeply than we used to` · `physically together but mentally elsewhere` · `chips away at real closeness` · `breeds a bit of envy` · `who's behind the screen`（embedded）· `Both have their place`。
+**P3 句型/模板**：`bulky and slow` / `wait ages for them to do anything` · `modern, instant, and packed with features`（降档自 sleek）· `you see your shot the second you take it` · `lean towards anything social and visual`（降档自 gravitate towards）· `glued to short-video apps` · `staying connected and entertained` · `pick … over … any day` · `you pick up tone, body language, and little pauses` · `flat and easy to misread` · `a text joke might land badly when nobody hears your voice behind it` · `reachable round the clock` · `which would've been unthinkable before`（which后置）· `we connect more often but maybe less deeply than we used to` · `physically together but mentally elsewhere` · `chips away at real closeness` · `breeds a bit of envy` · `who's behind the screen`（embedded）· `Both have their place`。
 
 ---
 
