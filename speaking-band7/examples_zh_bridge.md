@@ -5854,6 +5854,8 @@
 
 > **Cue**: 在哪 / 怎么知道 / 是什么工作 / 为何想做 · 题型 Object/hypo
 
+> ✅ **本卡基本达标**（P2 + Q1/Q2/Q4/Q5/Q6 = 原范文，直接用）；**仅 Q3 开头** `Loads of perks`→`Loads of benefits`（perk 属高档词，按标准降）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -5913,12 +5915,12 @@
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
-| 1 | 一大堆 好处，说实话。 | Loads of perks, honestly. |
+| 1 | 一大堆 好处，说实话。 | Loads of benefits, honestly. 〔原范文：Loads of perks〕 |
 | 2 | 你 被 暴露于 来自 各行各业 的人，所以 你 学到 不同的 思考 和 工作 方式。 | You're exposed to people from all walks of life, so you pick up different ways of thinking and working. |
 | 3 | 它 也 在 简历上 看起来 很棒，因为 雇主 爱 一个 全球化的 心态。 | It also looks brilliant on a CV, since employers love a global mindset. |
 | 4 | 此外，常常 有 一个 真正的 机会 [去]旅行 或 被 派 海外，（那 大多数人 觉得 挺 令人兴奋）。 | Plus, there's often a real chance to travel or get posted overseas, which most folk find pretty exciting. |
 
-> Loads of perks, honestly. You're exposed to people from all walks of life, so you pick up different ways of thinking and working. It also looks brilliant on a CV, since employers love a global mindset. Plus, there's often a real chance to travel or get posted overseas, which most folk find pretty exciting.
+> Loads of benefits, honestly. You're exposed to people from all walks of life, so you pick up different ways of thinking and working. It also looks brilliant on a CV, since employers love a global mindset. Plus, there's often a real chance to travel or get posted overseas, which most folk find pretty exciting.
 
 **Q4. What personal skills are required to work in an international company?**
 
@@ -5960,6 +5962,8 @@
 ## P2-老23 · A person who likes to look after the natural world — 环保志愿者好友（Person）
 
 > **Cue**: 是谁 / 做什么 / 怎么做 / 多常做 / 你的感受 · 题型 Person
+
+> ✅ **本卡基本达标**（P2 + Q1/Q2/Q3/Q5/Q6 = 原范文，直接用）；**仅 Q4** `proper greenery`→`proper green space`（greenery 属高档词，同 新01 标准降）。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -6031,11 +6035,11 @@
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | 1 | 不太，说实话。 | Not really, to be honest. |
-| 2 | 城市 孩子 被 混凝土 包围，所以 除非 附近 有 一个 像样的 公园，他们 很少 日常 看到 正经的 绿意。 | City kids are surrounded by concrete, so unless there's a decent park nearby, they rarely see proper greenery day to day. |
+| 2 | 城市 孩子 被 混凝土 包围，所以 除非 附近 有 一个 像样的 公园，他们 很少 日常 看到 正经的 绿意。 | City kids are surrounded by concrete, so unless there's a decent park nearby, they rarely see proper green space day to day. 〔原范文：proper greenery〕 |
 | 3 | 他们的 父母 忙，而 周末 常常 被 各种 课 吃掉。 | Their parents are busy, and weekends often get eaten up by classes. |
 | 4 | 话虽如此，一趟 快速的 乡下 或 植物园 之行 仍然 能 给 他们 一个 真正的 自然 味道。 | Having said that, a quick trip to the countryside or a botanical garden can still give them a real taste of nature. |
 
-> Not really, to be honest. City kids are surrounded by concrete, so unless there's a decent park nearby, they rarely see proper greenery day to day. Their parents are busy, and weekends often get eaten up by classes. Having said that, a quick trip to the countryside or a botanical garden can still give them a real taste of nature.
+> Not really, to be honest. City kids are surrounded by concrete, so unless there's a decent park nearby, they rarely see proper green space day to day. Their parents are busy, and weekends often get eaten up by classes. Having said that, a quick trip to the countryside or a botanical garden can still give them a real taste of nature.
 
 **Q5. What can people do to protect the natural world?**
 
