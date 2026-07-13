@@ -2563,6 +2563,8 @@
 
 > **Cue**: 是谁 / 什么问题 / 怎么帮 / 你的感受 · 题型 Event
 
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q5** 一处（`keep grafting` 英式俚语 → `keep working hard`，见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2645,9 +2647,9 @@
 |---|---|---|
 | 1 | 我会说 它 是 两者 都有点，真的。 | I'd say it's a bit of both, really. |
 | 2 | 有些人 显然 生来 机敏，但 大多数的聪明 来自 努力——广泛地 读、问问题、永不放弃。 | Some folk are clearly born quick-witted, but most cleverness comes from effort — reading widely, asking questions, never giving up. |
-| 3 | 说句公道话，我 佩服的人 不是 那些 天生有天赋的；他们 是 那些人、（那些 就 一直 苦干、慢慢 随时间 变得 更敏锐的）。 | To be fair, the people I admire aren't the naturally gifted ones; they're the ones who just keep grafting and slowly get sharper over time. |
+| 3 | 说句公道话，我 佩服的人 不是 那些 天生有天赋的；他们 是 那些人、（那些 就 一直 苦干、慢慢 随时间 变得 更敏锐的）。 | To be fair, the people I admire aren't the naturally gifted ones; they're the ones who just keep working hard and slowly get sharper over time.〔原范文：keep grafting〕 |
 
-> I'd say it's a bit of both, really. Some folk are clearly born quick-witted, but most cleverness comes from effort — reading widely, asking questions, never giving up. To be fair, the people I admire aren't the naturally gifted ones; they're the ones who just keep grafting and slowly get sharper over time.
+> I'd say it's a bit of both, really. Some folk are clearly born quick-witted, but most cleverness comes from effort — reading widely, asking questions, never giving up. To be fair, the people I admire aren't the naturally gifted ones; they're the ones who just keep working hard and slowly get sharper over time.
 
 **Q6. How does helping each other affect relationships between people?**
 
@@ -2660,13 +2662,15 @@
 
 > Massively, I reckon. When a colleague bails you out of a tight spot, you tend to trust them far more and you'll happily return the favour later. It builds a sort of quiet loyalty. To be fair, the opposite's true too — if someone ignores your call for help, that bond cools off pretty fast.
 
-**P3 句型/模板**：`stuffing facts into kids' heads`（动名词）· `nudge a child towards working it out` · `sticks for life` · `asking for help makes them look weak`（动名词主语）· `sort your own mess out` · `saves you loads of hassle down the line` · `fix what used to take ages`（embedded）· `Doing it for someone is quicker`（动名词主语）· `stand on their own feet` · `the ones who just keep grafting`（who后置）· `bails you out of a tight spot` / `return the favour`。
+**P3 句型/模板**：`stuffing facts into kids' heads`（动名词）· `nudge a child towards working it out` · `sticks for life` · `asking for help makes them look weak`（动名词主语）· `sort your own mess out` · `saves you loads of hassle down the line` · `fix what used to take ages`（embedded）· `Doing it for someone is quicker`（动名词主语）· `stand on their own feet` · `the ones who just keep working hard`（who后置；降档自 keep grafting）· `bails you out of a tight spot` / `return the favour`。
 
 ---
 
 ## P2-新22 · An environmental protection law — 垃圾分类（wife S3 信息来源）
 
 > **Cue**: 是什么 / 怎么最先了解 / 谁受益 / 感受 · 题型 Object/现行法
+
+> ✅ **P2 + 4 个 P3 已达标（降档=原范文）**；P3 两处降档（`descend into chaos → turn into chaos`（Q2）· `crave → really want`（Q3），见下）。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -2715,11 +2719,11 @@
 |---|---|---|
 | 1 | 绝对。 | Definitely. |
 | 2 | 我会说 校规 给 孩子 一种 秩序感，而且 他们 早早 就学到 行为 有后果。 | I'd say school rules give kids a sense of order, and they learn early that actions have consequences. |
-| 3 | 没有它们，教室 就 会 陷入 混乱、而 没人 会学到 任何东西。 | Without them, classrooms would just descend into chaos and nobody'd learn a thing. |
+| 3 | 没有它们，教室 就 会 陷入 混乱、而 没人 会学到 任何东西。 | Without them, classrooms would just turn into chaos and nobody'd learn a thing.〔原范文：descend into chaos〕 |
 | 4 | 比如，一条 简单的 无手机规则 让 每个人 专注。 | For instance, a simple no-phones rule keeps everyone focused. |
 | 5 | 此外，在学校 遵守规则 让 他们 为 以后的职场 做好准备。 | Plus, following rules at school gets them ready for the workplace later on. |
 
-> Definitely. I'd say school rules give kids a sense of order, and they learn early that actions have consequences. Without them, classrooms would just descend into chaos and nobody'd learn a thing. For instance, a simple no-phones rule keeps everyone focused. Plus, following rules at school gets them ready for the workplace later on.
+> Definitely. I'd say school rules give kids a sense of order, and they learn early that actions have consequences. Without them, classrooms would just turn into chaos and nobody'd learn a thing. For instance, a simple no-phones rule keeps everyone focused. Plus, following rules at school gets them ready for the workplace later on.
 
 **Q3. Are children unhappy with the school rules?**
 
@@ -2727,10 +2731,10 @@
 |---|---|---|
 | 1 | 有时候，是的。 | Sometimes, yeah. |
 | 2 | 我觉得 孩子 抱怨 那些规则、（那些 感觉 太严 或 没意义的），比如 禁 某些发型。 | I reckon kids grumble about rules that feel too strict or pointless, like banning certain hairstyles. |
-| 3 | 说句公道话，在那个年纪 他们 渴望 一点自由，所以 任何 限制 都感觉 不公平。 | To be fair, at that age they crave a bit of freedom, so any limit feels unfair. |
+| 3 | 说句公道话，在那个年纪 他们 渴望 一点自由，所以 任何 限制 都感觉 不公平。 | To be fair, at that age they really want a bit of freedom, so any limit feels unfair.〔原范文：they crave〕 |
 | 4 | 但 说实话，他们 大多数 会 想通，一旦 他们 理解 它背后的 道理，即使 他们 不肯 承认。 | But honestly, most of them come round once they understand the reasoning behind it, even if they won't admit it. |
 
-> Sometimes, yeah. I reckon kids grumble about rules that feel too strict or pointless, like banning certain hairstyles. To be fair, at that age they crave a bit of freedom, so any limit feels unfair. But honestly, most of them come round once they understand the reasoning behind it, even if they won't admit it.
+> Sometimes, yeah. I reckon kids grumble about rules that feel too strict or pointless, like banning certain hairstyles. To be fair, at that age they really want a bit of freedom, so any limit feels unfair. But honestly, most of them come round once they understand the reasoning behind it, even if they won't admit it.
 
 **Q4. How can parents and teachers help children understand and follow rules?**
 
@@ -2765,7 +2769,7 @@
 
 > Honestly, I think it's mainly to deter people from repeating the same mistake. When there's a real consequence, folk think twice before breaking the rules again. But it shouldn't just be about revenge — ideally punishment teaches a lesson and helps someone improve. For instance, community service can make wrongdoers reflect rather than just feel resentful.
 
-**P3 句型/模板**：`a strict dress code` · `respect teachers without question` · `descend into chaos` · `following rules … gets them ready for the workplace`（动名词主语）· `rules that feel too strict or pointless`（that后置）· `come round once they understand the reasoning` · `explaining the why, not just barking orders`（动名词主语）· `how it wrecks concentration`（embedded）· `deter people from repeating the same mistake` · `make wrongdoers reflect rather than just feel resentful`。
+**P3 句型/模板**：`a strict dress code` · `respect teachers without question` · `turn into chaos`（降档自 descend into chaos）· `following rules … gets them ready for the workplace`（动名词主语）· `rules that feel too strict or pointless`（that后置）· `come round once they understand the reasoning` · `explaining the why, not just barking orders`（动名词主语）· `how it wrecks concentration`（embedded）· `deter people from repeating the same mistake` · `make wrongdoers reflect rather than just feel resentful`。
 
 ---
 
