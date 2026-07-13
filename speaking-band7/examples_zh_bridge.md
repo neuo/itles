@@ -3138,6 +3138,8 @@
 
 > **Cue**: 何时改的 / 原来的想法 / 为何改 / 感受 · 题型 Event/Opinion
 
+> ✅ **P2 + 5 个 P3 基本达标**；两处降档（`flourished → did really well`（P2）· `argue their corner → stand up for their own views`（Q1），见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3147,14 +3149,14 @@
 | [original·细] | 我 觉得 越多 课外班 和 识字卡，越好，还觉得 让 一个孩子 就 整天 瞎玩 基本上 是 在 浪费 宝贵的时间。 | I thought the more extra classes and flashcards, the better, and that letting a kid just mess around all day was basically wasting precious time. |
 | [original·细] | 我 身边 很多 父母 都 这么想。 | A lot of parents around me felt the same way. |
 | [why changed] | 改变 我想法的东西 是 看着 Muye 他自己。 | What changed my mind was watching Muye himself. |
-| [why·细] | 我们 推掉了 所有那些课、让 他 自由地 画画和玩，而 让我惊讶的是 他 绝对 蓬勃发展。 | We held off on all those classes and let him draw and play freely, and to my surprise he absolutely flourished. |
+| [why·细] | 我们 推掉了 所有那些课、让 他 自由地 画画和玩，而 让我惊讶的是 他 绝对 蓬勃发展。 | We held off on all those classes and let him draw and play freely, and to my surprise he absolutely did really well.〔原范文：he absolutely flourished〕 |
 | [why·细] | 他 变得 好奇、专注、又 充满 想象力——远远 超过 那些 孩子、（那些 被 不停地 灌训的）。 | He became curious, focused, and full of imagination — far more than the kids who were drilled non-stop. |
 | [feel] | 说实话，我 为 之前 那么死板 感觉 有点 傻，但 大多是 松了口气。 | To be honest, I felt a bit foolish for being so rigid before, but mostly relieved. |
 | [closer] | 说到底，那个 转变 让我 成了 一个 冷静得多的 爸爸。 | At the end of the day, that shift made me a much calmer dad. |
 
 ### ②P2 整段（shadow）
 
-> So, the opinion I'd like to talk about is one I completely turned around about three years ago, when my son Muye was just a toddler — it was all about how to raise young kids. Back then, I honestly believed children needed to be pushed hard from a really early age. I thought the more extra classes and flashcards, the better, and that letting a kid just mess around all day was basically wasting precious time. A lot of parents around me felt the same way. What changed my mind was watching Muye himself. We held off on all those classes and let him draw and play freely, and to my surprise he absolutely flourished. He became curious, focused, and full of imagination — far more than the kids who were drilled non-stop. To be honest, I felt a bit foolish for being so rigid before, but mostly relieved. At the end of the day, that shift made me a much calmer dad.
+> So, the opinion I'd like to talk about is one I completely turned around about three years ago, when my son Muye was just a toddler — it was all about how to raise young kids. Back then, I honestly believed children needed to be pushed hard from a really early age. I thought the more extra classes and flashcards, the better, and that letting a kid just mess around all day was basically wasting precious time. A lot of parents around me felt the same way. What changed my mind was watching Muye himself. We held off on all those classes and let him draw and play freely, and to my surprise he absolutely did really well. He became curious, focused, and full of imagination — far more than the kids who were drilled non-stop. To be honest, I felt a bit foolish for being so rigid before, but mostly relieved. At the end of the day, that shift made me a much calmer dad.
 
 ### 句型/模板（可搬走）
 
@@ -3175,9 +3177,9 @@
 | 1 | 我会说 它 出人意料地 早 就开始，也许 三四岁 左右。 | I'd say it kicks in surprisingly early, maybe around three or four. |
 | 2 | 那 就是 孩子 开始 说不、挑 他们自己的 衣服 或 零食 的时候。 | That's when kids start saying no and picking their own clothes or snacks. |
 | 3 | 在那之前，他们 大多 模仿 大人 做的 任何东西。 | Before that, they mostly copy whatever adults do. |
-| 4 | 但 一旦 他们 上学、跟 别人 混在一起，他们的看法 变得 更鲜明，而且 他们 更热衷于 为 自己的立场 争辩。 | But once they hit school and mix with others, their views get sharper and they're far keener to argue their corner. |
+| 4 | 但 一旦 他们 上学、跟 别人 混在一起，他们的看法 变得 更鲜明，而且 他们 更热衷于 为 自己的立场 争辩。 | But once they hit school and mix with others, their views get sharper and they're far keener to stand up for their own views.〔原范文：argue their corner〕 |
 
-> I'd say it kicks in surprisingly early, maybe around three or four. That's when kids start saying no and picking their own clothes or snacks. Before that, they mostly copy whatever adults do. But once they hit school and mix with others, their views get sharper and they're far keener to argue their corner.
+> I'd say it kicks in surprisingly early, maybe around three or four. That's when kids start saying no and picking their own clothes or snacks. Before that, they mostly copy whatever adults do. But once they hit school and mix with others, their views get sharper and they're far keener to stand up for their own views.
 
 **Q2. Whose opinions are more important to children, their parents' or teachers'?**
 
@@ -3234,13 +3236,15 @@
 
 > Not really, it gets harder as you age. By then you've built solid habits and you're pretty attached to your views, so admitting you're wrong feels almost embarrassing. Kids change their minds in a heartbeat, but grown-ups dig in. Having said that, a genuine shock, like losing a job, can still shake even the most fixed person loose.
 
-**P3 句型/模板**：`it kicks in surprisingly early` · `That's when kids start …` · `copy whatever adults do` · `argue their corner` · `carry more weight` · `for both sides to stay roughly on the same page` · `open up to them about little worries` · `mates who just get it`（who后置）· `a side you'd never considered`（relative后置）· `admitting you're wrong feels almost embarrassing`（动名词主语）· `shake even the most fixed person loose`。
+**P3 句型/模板**：`it kicks in surprisingly early` · `That's when kids start …` · `copy whatever adults do` · `stand up for their own views`（降档自 argue their corner）· `carry more weight` · `for both sides to stay roughly on the same page` · `open up to them about little worries` · `mates who just get it`（who后置）· `a side you'd never considered`（relative后置）· `admitting you're wrong feels almost embarrassing`（动名词主语）· `shake even the most fixed person loose`。
 
 ---
 
 ## P2-新27 · An environmental law you'd introduce — 一次性塑料禁令（speaker + wife light context）
 
 > **Cue**: 什么法 / 为何要守 / 是否受欢迎 / 感受 · 题型 Hypothetical
+
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。直接用。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
