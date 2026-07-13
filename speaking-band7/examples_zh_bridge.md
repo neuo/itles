@@ -11,7 +11,7 @@
 >
 > **英式中文 3 动作**：① 修饰甩后面（那种…的 / [去]… / 后置的保持后置）② 让"事"做主语（(这件事)）③ dummy-there/make（有…=there's / 让…=make）。语序不重排。
 >
-> **进度**：✅ 全 54 张拆解完成。🎤 **13 张已加"你的实产版"块**（session 06-22→06-29 你真练过的：P2+P3 整套 6 —— 新16/老08/新18/老20/新15/新07；只练 P2 的 7 —— 新25/新12/老05/新23/新14/老12/老11）。⏳ **降档中**：新01 已按 6-6.5 标准降完，续 新02→老27。
+> **进度**：✅ 全 54 张拆解完成。🎤 **13 张已加"你的实产版"块**（session 06-22→06-29 你真练过的：P2+P3 整套 6 —— 新16/老08/新18/老20/新15/新07；只练 P2 的 7 —— 新25/新12/老05/新23/新14/老12/老11）。✅ **全 54 张降档完成**（词汇 6-6.5、结构句型 7）：绝大多数原范文本就达标（顶部有 ✅ 标注 = 直接用）；少数句超标的按判定清单单点降，**降档后英文旁标 〔原范文：X〕**，只砍你不用的 Band 7+ 炫词（sleek/perk/greenery/uncluttered/crave/a feast for the eyes…），你的 floor chunk 与全部从句结构一律保留。
 
 ---
 
@@ -6289,6 +6289,8 @@
 
 > **Cue**: 在哪 / 怎么知道 / 多常去 / 做什么 / 你的感受 · 题型 Place
 
+> ✅ **本卡基本达标**（P2 + Q1/Q2/Q3/Q4/Q6 = 原范文，直接用）；**仅 Q5** `crave`→`just want`（crave 属高档词，在降档判定清单里）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -6371,11 +6373,11 @@
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | 1 | 嗯，我 觉得 它 大多 关于 内心的 安宁。 | Well, I think it's mostly about peace of mind. |
-| 2 | 在 几十年 的 喧嚣 之后，老年人 渴望 某个 平静的地方、（那里 他们 能 彻底 慢下来）。 | After decades of hustle and bustle, older people crave somewhere calm where they can slow right down. |
+| 2 | 在 几十年 的 喧嚣 之后，老年人 渴望 某个 平静的地方、（那里 他们 能 彻底 慢下来）。 | After decades of hustle and bustle, older people just want somewhere calm where they can slow right down. 〔原范文：crave〕 |
 | 3 | 安静的 地方 对 他们 也 更 温柔——更少 噪音、更少 压力、更 干净的 空气。 | Quiet places are gentler on them too — less noise, less stress, cleaner air. |
 | 4 | 此外，他们 常常 想要 一个 更 安静的 节奏 [去]享受 爱好、比如 园艺 或 就 坐 着 一杯茶。 | Plus, they often want a quieter pace to enjoy hobbies like gardening or simply sitting with a cup of tea. |
 
-> Well, I think it's mostly about peace of mind. After decades of hustle and bustle, older people crave somewhere calm where they can slow right down. Quiet places are gentler on them too — less noise, less stress, cleaner air. Plus, they often want a quieter pace to enjoy hobbies like gardening or simply sitting with a cup of tea.
+> Well, I think it's mostly about peace of mind. After decades of hustle and bustle, older people just want somewhere calm where they can slow right down. Quiet places are gentler on them too — less noise, less stress, cleaner air. Plus, they often want a quieter pace to enjoy hobbies like gardening or simply sitting with a cup of tea.
 
 **Q6. Why are there more noises made at home now than in the past?**
 
@@ -6388,13 +6390,15 @@
 
 > Mainly because of all the gadgets we own now. Homes are packed with TVs, speakers, washing machines, and kids glued to noisy games. In the past, places were simpler and quieter, with far fewer appliances humming away. Plus, walls in modern flats are often thinner, so you end up hearing your neighbours far more than before.
 
-**P3 句型/模板**：`it's getting harder` · `there's traffic and crowds almost everywhere` · `if you know where to look`（embedded）/ `little pockets` · `not as easy to stumble on as they used to be` · `meet up with mates for hotpot` · `tai chi in the park or playing cards` · `eating out is a big one`（动名词主语）/ `how we relax and socialise here`（embedded）· `fill almost every spare minute with their phones` · `made us a bit lazier and more glued to screens` · `binge a series at home than go out for a walk like they once did` · `a bit of a myth` · `everyone needs downtime to recharge` · `carve out evenings or weekends to unwind` · `squeeze in leisure wherever they can` · `peace of mind` · `crave somewhere calm where they can slow right down`（where后置）· `gentler on them` · `a quieter pace to enjoy hobbies` · `all the gadgets we own now`（relative后置）· `kids glued to noisy games`（分词后置）· `with far fewer appliances humming away`（with-absolute）· `walls in modern flats are often thinner`。
+**P3 句型/模板**：`it's getting harder` · `there's traffic and crowds almost everywhere` · `if you know where to look`（embedded）/ `little pockets` · `not as easy to stumble on as they used to be` · `meet up with mates for hotpot` · `tai chi in the park or playing cards` · `eating out is a big one`（动名词主语）/ `how we relax and socialise here`（embedded）· `fill almost every spare minute with their phones` · `made us a bit lazier and more glued to screens` · `binge a series at home than go out for a walk like they once did` · `a bit of a myth` · `everyone needs downtime to recharge` · `carve out evenings or weekends to unwind` · `squeeze in leisure wherever they can` · `peace of mind` · `just want somewhere calm where they can slow right down`（where后置；降档自 crave）· `gentler on them` · `a quieter pace to enjoy hobbies` · `all the gadgets we own now`（relative后置）· `kids glued to noisy games`（分词后置）· `with far fewer appliances humming away`（with-absolute）· `walls in modern flats are often thinner`。
 
 ---
 
 ## P2-老27 · A TV or online program you like to watch — 烘焙比赛节目（Object）
 
 > **Cue**: 是什么 / 讲什么 / 和谁看 / 为何喜欢 · 题型 Object
+
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**（cosy/wholesome 属常用词，保留）。直接用。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
