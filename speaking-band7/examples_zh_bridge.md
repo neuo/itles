@@ -3351,6 +3351,8 @@
 
 > **Cue**: 是什么 / 怎么知道 / 需学什么 / 为何完美 · 题型 Object/Job
 
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q6** 两处（`sought after → in demand` · `craving → wanting`，见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -3439,19 +3441,21 @@
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
-| 1 | 在中国，政府 和 公务员 岗位 极其 抢手，主要是因为 它们 稳定、也 带着 扎实的福利。 | In China, government and civil-service posts are hugely sought after, mainly because they're stable and come with solid benefits. |
+| 1 | 在中国，政府 和 公务员 岗位 极其 抢手，主要是因为 它们 稳定、也 带着 扎实的福利。 | In China, government and civil-service posts are hugely in demand, mainly because they're stable and come with solid benefits.〔原范文：hugely sought after〕 |
 | 2 | 科技岗 也 受欢迎，因为 它们 薪水好，虽然 工时 可能 残酷。 | Tech roles are popular too, since they pay well, though the hours can be brutal. |
-| 3 | 说实话，很多 归结到 安全感——在 疫情之后，人们 真的 开始 渴望 一份 稳定、可靠的 薪水。 | Honestly, a lot of it comes down to security — after the pandemic, people really started craving a steady, reliable paycheque. |
+| 3 | 说实话，很多 归结到 安全感——在 疫情之后，人们 真的 开始 渴望 一份 稳定、可靠的 薪水。 | Honestly, a lot of it comes down to security — after the pandemic, people really started wanting a steady, reliable paycheque.〔原范文：craving〕 |
 
-> In China, government and civil-service posts are hugely sought after, mainly because they're stable and come with solid benefits. Tech roles are popular too, since they pay well, though the hours can be brutal. Honestly, a lot of it comes down to security — after the pandemic, people really started craving a steady, reliable paycheque.
+> In China, government and civil-service posts are hugely in demand, mainly because they're stable and come with solid benefits. Tech roles are popular too, since they pay well, though the hours can be brutal. Honestly, a lot of it comes down to security — after the pandemic, people really started wanting a steady, reliable paycheque.
 
-**P3 句型/模板**：`work you'd happily do even on a rough day`（relative后置）· `something meaningful that gives you freedom to make your own calls`（that后置）· `that's what they see on telly`（what表语）· `the daily grind` · `what a job involves` / `whatever looks coolest`（embedded）· `how a job fits your lifestyle`（embedded）· `picking something you won't burn out on`（动名词主语+relative）· `take a pay cut for … a job they genuinely enjoy` · `hugely sought after` / `come with solid benefits` · `craving a steady, reliable paycheque`。
+**P3 句型/模板**：`work you'd happily do even on a rough day`（relative后置）· `something meaningful that gives you freedom to make your own calls`（that后置）· `that's what they see on telly`（what表语）· `the daily grind` · `what a job involves` / `whatever looks coolest`（embedded）· `how a job fits your lifestyle`（embedded）· `picking something you won't burn out on`（动名词主语+relative）· `take a pay cut for … a job they genuinely enjoy` · `hugely in demand`（降档自 sought after）/ `come with solid benefits` · `wanting a steady, reliable paycheque`（降档自 craving）。
 
 ---
 
 ## P2-老02 · A famous person you'd like to meet — Christopher Nolan（Person）
 
 > **Cue**: 是谁 / 怎么知道 / 想在哪见 / 为何想见 · 题型 Person
+
+> ✅ **P2 + 4 个 P3 已达标（降档=原范文）**；两处（`the perks → the benefits`（Q1）· `hard graft → hard work`（Q4），见下）。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
@@ -3491,9 +3495,9 @@
 | 1 | 说实话，它 是 一个 真正的 好坏参半。 | Honestly, it's a real mixed bag. |
 | 2 | 好的一面，一个 出名的孩子 拿到 惊人的 机会 和 钱、挺早地，（那 大多数孩子 只能 梦想）。 | On the plus side, a famous kid gets amazing opportunities and money pretty early, which most children can only dream of. |
 | 3 | 但 那坏处 巨大——他们 失去 任何 正常的童年，媒体 不停地 追逐 他们，而 他们 在 零隐私 中 长大。 | But the downside's huge — they lose any normal childhood, the press hounds them non-stop, and they grow up with zero privacy. |
-| 4 | 我会说 那压力 常常 压过 那些好处。 | I'd say the pressure often outweighs the perks. |
+| 4 | 我会说 那压力 常常 压过 那些好处。 | I'd say the pressure often outweighs the benefits.〔原范文：the perks〕 |
 
-> Honestly, it's a real mixed bag. On the plus side, a famous kid gets amazing opportunities and money pretty early, which most children can only dream of. But the downside's huge — they lose any normal childhood, the press hounds them non-stop, and they grow up with zero privacy. I'd say the pressure often outweighs the perks.
+> Honestly, it's a real mixed bag. On the plus side, a famous kid gets amazing opportunities and money pretty early, which most children can only dream of. But the downside's huge — they lose any normal childhood, the press hounds them non-stop, and they grow up with zero privacy. I'd say the pressure often outweighs the benefits.
 
 **Q2. What can today's children do to become famous?**
 
@@ -3524,9 +3528,9 @@
 | 1 | 不总是，说句公道话。 | Not always, to be fair. |
 | 2 | 天赋 肯定 有帮助，但 一大堆 出名的人 并不 特别 有天赋——他们 只是 擅长 营销 自己、或者 他们 在 时机上 走了运。 | Talent definitely helps, but plenty of famous people aren't especially gifted — they're just good at marketing themselves or they got lucky with timing. |
 | 3 | 想想 那些 真人秀明星、（那种 纯粹 因为 在屏幕上 而 出名的）。 | Think of reality TV stars who're famous purely for being on screen. |
-| 4 | 所以我会说 它是 天赋、苦干、人脉、还有 说实话 相当一点 运气 的 一种混合。 | So I'd say it's a mix of talent, hard graft, connections, and honestly a fair bit of luck. |
+| 4 | 所以我会说 它是 天赋、苦干、人脉、还有 说实话 相当一点 运气 的 一种混合。 | So I'd say it's a mix of talent, hard work, connections, and honestly a fair bit of luck.〔原范文：hard graft〕 |
 
-> Not always, to be fair. Talent definitely helps, but plenty of famous people aren't especially gifted — they're just good at marketing themselves or they got lucky with timing. Think of reality TV stars who're famous purely for being on screen. So I'd say it's a mix of talent, hard graft, connections, and honestly a fair bit of luck.
+> Not always, to be fair. Talent definitely helps, but plenty of famous people aren't especially gifted — they're just good at marketing themselves or they got lucky with timing. Think of reality TV stars who're famous purely for being on screen. So I'd say it's a mix of talent, hard work, connections, and honestly a fair bit of luck.
 
 **Q5. Is it easy to become famous in your country?**
 
@@ -3550,7 +3554,7 @@
 
 > Honestly, not really. I like my privacy too much, and fame seems exhausting — being recognised everywhere, having your every move judged online. I'd rather be quietly successful in my own field than chased by cameras. Maybe a little recognition for doing something genuinely useful would be nice, but full-blown celebrity? No thanks, that's not for me.
 
-**P3 句型/模板**：`which most children can only dream of`（which后置）· `the press hounds them non-stop` · `the pressure often outweighs the perks` · `build a following` / `go viral overnight` · `being brilliant at … gets you noticed`（动名词主语）· `posting once won't cut it` · `causes that matter`（that后置）· `reality TV stars who're famous purely for being on screen`（who后置）· `not just a flash in the pan` · `a real hook to stand out` · `I'd rather be quietly successful … than chased by cameras`。
+**P3 句型/模板**：`which most children can only dream of`（which后置）· `the press hounds them non-stop` · `the pressure often outweighs the benefits`（降档自 the perks）· `build a following` / `go viral overnight` · `being brilliant at … gets you noticed`（动名词主语）· `posting once won't cut it` · `causes that matter`（that后置）· `reality TV stars who're famous purely for being on screen`（who后置）· `not just a flash in the pan` · `a real hook to stand out` · `I'd rather be quietly successful … than chased by cameras`。
 
 ---
 
