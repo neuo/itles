@@ -5225,6 +5225,8 @@
 
 > **Cue**: 在哪 / 长什么样 / 什么功能 / 为何有趣 · 题型 Place
 
+> ✅ **P2 两处降档（`the sheer scale → the huge size` · `surreal → crazy`）；6 P3 全达标**。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -5232,23 +5234,23 @@
 | [opener] | 那么，我想聊的那座 建筑 是 新世纪 环球中心，就 在 成都 这儿、（我 住的地方）。 | So, the building I'd like to talk about is the New Century Global Center, right here in Chengdu where I live. |
 | [背景] | 据说 它 是 地球上 最大的 建筑 之一、按 建筑面积。 | It's said to be one of the biggest buildings on earth by floor area. |
 | [look] | 从 外面 它 是 这个 巨大的、波浪形的 结构，全 玻璃 和 钢，而 说实话 你 没法 一次 把 它 全 收 进眼里。 | From the outside it's this vast, wave-shaped structure, all glass and steel, and honestly you can't take it all in at once. |
-| [look·细] | 它 那么 巨大、你 永远 塞 不 进 一张照片，而 它 那 纯粹的 规模 令人 惊掉下巴。 | It's so enormous you'd never fit it into one photo, and the sheer scale of it is jaw-dropping. |
+| [look·细] | 它 那么 巨大、你 永远 塞 不 进 一张照片，而 它 那 纯粹的 规模 令人 惊掉下巴。 | It's so enormous you'd never fit it into one photo, and the huge size of it is jaw-dropping.〔原范文：the sheer scale of it〕 |
 | [function] | 它 是 一个 混合用途的 地方，所以 里面 什么都有，比如 商场、办公室、和 酒店。 | It's a mixed-use place, so there's everything inside, like malls, offices and hotels. |
 | [function·细] | 但 那 真正的 亮点，藏 在 中间，是 一个 巨大的 室内 水上乐园、带 一个 假 海滩、一个 巨型 LED 天空、和 人造 阳光。 | But the real draw, tucked away in the middle, is a huge indoor water park with a fake beach, a giant LED sky and artificial sunshine. |
 | [细] | 我妻子 和 我 带 我们的 小男孩 Muye 去 那儿 一次，而 他 绝对 爱 扑腾 玩水。 | My wife and I took our little boy Muye there once and he absolutely loved splashing about. |
-| [why/EL] | 让 它 这么 有趣的 是 那个 超现实的 想法、（一个 阳光的 海滩、在 室内，不管 晴雨，在 一座城市 中间）。 | What makes it so interesting is the surreal idea of a sunny beach indoors, rain or shine, in the middle of a city. |
+| [why/EL] | 让 它 这么 有趣的 是 那个 超现实的 想法、（一个 阳光的 海滩、在 室内，不管 晴雨，在 一座城市 中间）。 | What makes it so interesting is the crazy idea of a sunny beach indoors, rain or shine, in the middle of a city.〔原范文：the surreal idea〕 |
 | [closer] | 总的来说，它 是 一个 自成一体的 世界。 | All in all, it's a world of its own. |
 
 ### ②P2 整段（shadow）
 
-> So, the building I'd like to talk about is the New Century Global Center, right here in Chengdu where I live. It's said to be one of the biggest buildings on earth by floor area. From the outside it's this vast, wave-shaped structure, all glass and steel, and honestly you can't take it all in at once. It's so enormous you'd never fit it into one photo, and the sheer scale of it is jaw-dropping. It's a mixed-use place, so there's everything inside, like malls, offices and hotels. But the real draw, tucked away in the middle, is a huge indoor water park with a fake beach, a giant LED sky and artificial sunshine. My wife and I took our little boy Muye there once and he absolutely loved splashing about. What makes it so interesting is the surreal idea of a sunny beach indoors, rain or shine, in the middle of a city. All in all, it's a world of its own.
+> So, the building I'd like to talk about is the New Century Global Center, right here in Chengdu where I live. It's said to be one of the biggest buildings on earth by floor area. From the outside it's this vast, wave-shaped structure, all glass and steel, and honestly you can't take it all in at once. It's so enormous you'd never fit it into one photo, and the huge size of it is jaw-dropping. It's a mixed-use place, so there's everything inside, like malls, offices and hotels. But the real draw, tucked away in the middle, is a huge indoor water park with a fake beach, a giant LED sky and artificial sunshine. My wife and I took our little boy Muye there once and he absolutely loved splashing about. What makes it so interesting is the crazy idea of a sunny beach indoors, rain or shine, in the middle of a city. All in all, it's a world of its own.
 
 ### 句型/模板（可搬走）
 
 - **building opener + where 后置**：就在成都这儿，我住的地方 → `right here in Chengdu where I live`
 - **据说是…之一**：据说它是地球上最大的建筑之一，按建筑面积 → `It's said to be one of the biggest buildings on earth by floor area`
 - **一次收进眼里**：你没法一次把它全收进眼里 → `you can't take it all in at once`
-- **so…（that省略）+ sheer scale**：那么巨大你塞不进一张照片；纯粹的规模令人惊掉下巴 → `so enormous you'd never fit it into one photo` / `the sheer scale of it is jaw-dropping`
+- **so…（that省略）+ 规模**：那么巨大你塞不进一张照片；那么大令人惊掉下巴 → `so enormous you'd never fit it into one photo` / `the huge size of it is jaw-dropping`（降档自 the sheer scale）
 - **分词后置插入**：那真正的亮点，藏在中间，是… → `the real draw, tucked away in the middle, is …`
 - **What 主语 + rain or shine**：让它有趣的是室内阳光海滩、不管晴雨 → `What makes it so interesting is … a sunny beach indoors, rain or shine`
 - **收尾**：一个自成一体的世界 → `a world of its own`
