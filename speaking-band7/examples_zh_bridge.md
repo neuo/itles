@@ -4217,6 +4217,8 @@
 
 ---
 
+> ✅ **下面 examples 范文：P2 + 5 个 P3 基本达标**；三处降档（`rekindled → brought back`（P2）· `isn't a bad shout → isn't a bad idea` · `a blanket ban → a total ban`（Q6），见下）。（顶部另有「你的实产版」= 你练过的小红书版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -4229,12 +4231,12 @@
 | [found·细] | 一个 亲密的朋友 分享 一个 书链接 给 我、一个下午，我 点 它、出于 纯 好奇，而 那 单独一本书 让 我 彻底 上瘾。 | A close friend shared a book link with me one afternoon, I tapped it out of pure curiosity, and that single book got me completely hooked. |
 | [细] | 而且，它 同步 跨 我所有的 设备，所以 我 能 接着 就 从 我 停下的地方，而 它 甚至 朗读 给 我、当 我的眼睛 累了。 | What's more, it syncs across all my devices, so I can pick up right where I left off, and it even reads aloud to me when my eyes are tired. |
 | [细2] | 我的妻子 也 用 它，说来 好笑。 | My wife uses it too, funnily enough. |
-| [EL] | 说实话，它 重新 点燃 我 对 阅读 的爱、在 好些年 几乎 没 碰 一本书 之后。 | Honestly, it's rekindled my love of reading after years of barely touching a book. |
+| [EL] | 说实话，它 重新 点燃 我 对 阅读 的爱、在 好些年 几乎 没 碰 一本书 之后。 | Honestly, it's brought back my love of reading after years of barely touching a book.〔原范文：rekindled〕 |
 | [closer] | 所以，对，它 一直 是 一个 真正的 救星、对 一个 像 我 这样的 忙碌爸爸。 | So yeah, it's been a real lifesaver for a busy dad like me. |
 
 ### ②P2 整段（shadow）
 
-> So, the app I'd like to talk about is a reading app on my phone — basically a digital library where I read sci-fi novels. I'm on it pretty much every single day. I usually open it on my commute, and then again at night to wind down before bed. I love sci-fi, so it's where I squeeze in a few pages whenever I get a spare moment. I actually found it completely by accident. A close friend shared a book link with me one afternoon, I tapped it out of pure curiosity, and that single book got me completely hooked. What's more, it syncs across all my devices, so I can pick up right where I left off, and it even reads aloud to me when my eyes are tired. My wife uses it too, funnily enough. Honestly, it's rekindled my love of reading after years of barely touching a book. So yeah, it's been a real lifesaver for a busy dad like me.
+> So, the app I'd like to talk about is a reading app on my phone — basically a digital library where I read sci-fi novels. I'm on it pretty much every single day. I usually open it on my commute, and then again at night to wind down before bed. I love sci-fi, so it's where I squeeze in a few pages whenever I get a spare moment. I actually found it completely by accident. A close friend shared a book link with me one afternoon, I tapped it out of pure curiosity, and that single book got me completely hooked. What's more, it syncs across all my devices, so I can pick up right where I left off, and it even reads aloud to me when my eyes are tired. My wife uses it too, funnily enough. Honestly, it's brought back my love of reading after years of barely touching a book. So yeah, it's been a real lifesaver for a busy dad like me.
 
 ### 句型/模板（可搬走）
 
@@ -4244,7 +4246,7 @@
 - **偶然发现**：我完全偶然地找到它 → `found it completely by accident`
 - **三段叙事链**：朋友分享链接，我出于好奇点了，那本书让我上瘾 → `A friend shared … I tapped it … and that book got me completely hooked`
 - **从停下处接着读**：我能接着从我停下的地方 → `pick up right where I left off`
-- **EL/closer**：重新点燃我对阅读的爱；对像我这样的忙碌爸爸是真救星 → `rekindled my love of reading` / `a real lifesaver for a busy dad like me`
+- **EL/closer**：重新点燃我对阅读的爱；对像我这样的忙碌爸爸是真救星 → `brought back my love of reading`（降档自 rekindled）/ `a real lifesaver for a busy dad like me`
 
 ---
 
@@ -4309,13 +4311,13 @@
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | 1 | 我 能 看到 它 背后的 逻辑，说句公道话。 | I can see the logic behind it, to be fair. |
-| 2 | 社交媒体 能 真的 搞乱 一个 青少年的 自信 和 睡眠，所以 保护 他们 几年 不是 一个 坏主意。 | Social media can really mess with a teenager's confidence and sleep, so shielding them for a few years isn't a bad shout. |
+| 2 | 社交媒体 能 真的 搞乱 一个 青少年的 自信 和 睡眠，所以 保护 他们 几年 不是 一个 坏主意。 | Social media can really mess with a teenager's confidence and sleep, so shielding them for a few years isn't a bad idea.〔原范文：a bad shout〕 |
 | 3 | 但 说实话，那 执行 的部分 变得 棘手——孩子 轻易 伪造 他们的年龄。 | But honestly, the enforcing part gets tricky — kids easily fake their age. |
-| 4 | 我 宁愿 看到 更好的 教育、关于 安全 使用，而不是 一个 一刀切的 禁令。 | I'd rather see better education on safe use than a blanket ban. |
+| 4 | 我 宁愿 看到 更好的 教育、关于 安全 使用，而不是 一个 一刀切的 禁令。 | I'd rather see better education on safe use than a total ban.〔原范文：a blanket ban〕 |
 
-> I can see the logic behind it, to be fair. Social media can really mess with a teenager's confidence and sleep, so shielding them for a few years isn't a bad shout. But honestly, the enforcing part gets tricky — kids easily fake their age. I'd rather see better education on safe use than a blanket ban.
+> I can see the logic behind it, to be fair. Social media can really mess with a teenager's confidence and sleep, so shielding them for a few years isn't a bad idea. But honestly, the enforcing part gets tricky — kids easily fake their age. I'd rather see better education on safe use than a total ban.
 
-**P3 句型/模板**：`there's a real gap`（dummy-there）· `grown up swiping and tapping` / `second nature` · `worry about pressing the wrong button` · `get the hang of it` / `stick with one app loyally` · `it comes down to trust and habit` · `harvesting their data` / `they'd rather not bother` · `find the layouts confusing` · `ringing a shop instead of ordering online` · `extra hassle, not a shortcut` · `super-apps … are massive` · `bundle everything into one place` / `without switching apps` · `give you a quick laugh during dead time` · `with a light touch rather than an outright ban` · `setting a daily time limit works best`（动名词主语）· `pairing games with outdoor play or reading` · `sneak around behind your back` · `getting more dependent by the year` · `chipping away at some everyday skills` · `frees their brains up for other tasks` · `the logic behind it`（behind后置）· `shielding them for a few years isn't a bad shout`（动名词主语）· `the enforcing part gets tricky` / `fake their age` · `better education on safe use than a blanket ban`。
+**P3 句型/模板**：`there's a real gap`（dummy-there）· `grown up swiping and tapping` / `second nature` · `worry about pressing the wrong button` · `get the hang of it` / `stick with one app loyally` · `it comes down to trust and habit` · `harvesting their data` / `they'd rather not bother` · `find the layouts confusing` · `ringing a shop instead of ordering online` · `extra hassle, not a shortcut` · `super-apps … are massive` · `bundle everything into one place` / `without switching apps` · `give you a quick laugh during dead time` · `with a light touch rather than an outright ban` · `setting a daily time limit works best`（动名词主语）· `pairing games with outdoor play or reading` · `sneak around behind your back` · `getting more dependent by the year` · `chipping away at some everyday skills` · `frees their brains up for other tasks` · `the logic behind it`（behind后置）· `shielding them for a few years isn't a bad idea`（动名词主语；降档自 a bad shout）· `the enforcing part gets tricky` / `fake their age` · `better education on safe use than a total ban`（降档自 blanket ban）。
 
 ---
 
