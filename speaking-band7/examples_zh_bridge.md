@@ -5009,6 +5009,8 @@
 
 > **Cue**: 是什么 / 和谁去 / 为何去 / 为何不享受 · 题型 Event
 
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。直接用。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -5116,6 +5118,8 @@
 
 > **Cue**: 何时何地看 / 和谁看 / 讲什么 / 为何看 · 题型 Object
 
+> ✅ **P2 + Q2/Q5/Q6 达标**；降档：Q1（`gripping → exciting`）· **Q3（就是你最初给的校准样例：flock/spectacle/come on hugely… 全降，见下）** · Q4（`secure → get` · `outshone → did far better than`）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -5154,9 +5158,9 @@
 | 1 | 我会说 喜剧 和 大 动作 大片 倾向于 在这里 表现 很好，主要 因为 人们 想要 一个 逃离、在 漫长的 一天 之后。 | I'd say comedies and big action blockbusters tend to do really well here, mainly because people want an escape after a long day. |
 | 2 | 它们 容易 享受、不 对 你 要求 太多。 | They're easy to enjoy and don't ask too much of you. |
 | 3 | 比如，一部 好笑的 假日 上映 能 挤爆 影院。 | For example, a funny holiday release can pack out cinemas. |
-| 4 | 话虽如此，扣人心弦的 历史 剧 也 能 真的 火。 | That said, gripping historical dramas can really take off too. |
+| 4 | 话虽如此，扣人心弦的 历史 剧 也 能 真的 火。 | That said, exciting historical dramas can really take off too.〔原范文：gripping〕 |
 
-> I'd say comedies and big action blockbusters tend to do really well here, mainly because people want an escape after a long day. They're easy to enjoy and don't ask too much of you. For example, a funny holiday release can pack out cinemas. That said, gripping historical dramas can really take off too.
+> I'd say comedies and big action blockbusters tend to do really well here, mainly because people want an escape after a long day. They're easy to enjoy and don't ask too much of you. For example, a funny holiday release can pack out cinemas. That said, exciting historical dramas can really take off too.
 
 **Q2. What are the factors that make a successful movie?**
 
@@ -5171,25 +5175,25 @@
 
 **Q3. Do Chinese people prefer to watch domestic movies or foreign movies?**
 
-| 句 | 英式中文珠子 | 范文英文 |
-|---|---|---|
-| 1 | 说实话，这些天 它 是 一个 真正的 混合。 | Honestly, it's a real mix these days. |
-| 2 | 一大堆 年轻人 仍然 蜂拥 去 好莱坞 大片、为 那 视觉 奇观，但 国产 电影 已经 大大 进步。 | A lot of younger folk still flock to Hollywood blockbusters for the spectacle, but domestic films have come on hugely. |
-| 3 | 它们 讲 故事、（那种 击 得 更贴近 家的），所以 观众 更 有共鸣。 | They tell stories that hit closer to home, so audiences relate more. |
-| 4 | 比如，本土 喜剧 和 节日 上映 现在 打破 票房 纪录，（那 以前 并不 真的 是 那样）。 | For example, local comedies and festival releases now smash box-office records, which wasn't really the case before. |
+| 句 | 英式中文珠子 | 降档后英文 | 原范文 |
+|---|---|---|---|
+| 1 | 说实话，这些天 它 是 一个 真正的 混合。 | To be honest, it is really mixed these days. | Honestly, it's a real mix these days. |
+| 2 | 一大堆 年轻人 仍然 蜂拥 去 好莱坞 大片、为 那 视觉 奇观，但 国产 电影 已经 大大 进步。 | A lot of young people still go to see big Hollywood movies for the cool effects, but Chinese movies have gotten much better. | A lot of younger folk still flock to Hollywood blockbusters for the spectacle, but domestic films have come on hugely. |
+| 3 | 它们 讲 故事、（那种 击 得 更贴近 家的），所以 观众 更 有共鸣。 | They tell stories about real life, so people understand them better. | They tell stories that hit closer to home, so audiences relate more. |
+| 4 | 比如，本土 喜剧 和 节日 上映 现在 打破 票房 纪录，（那 以前 并不 真的 是 那样）。 | For example, local comedies and holiday movies now break box-office records, which didn't really happen before. | For example, local comedies and festival releases now smash box-office records, which wasn't really the case before. |
 
-> Honestly, it's a real mix these days. A lot of younger folk still flock to Hollywood blockbusters for the spectacle, but domestic films have come on hugely. They tell stories that hit closer to home, so audiences relate more. For example, local comedies and festival releases now smash box-office records, which wasn't really the case before.
+> To be honest, it is really mixed these days. A lot of young people still go to see big Hollywood movies for the cool effects, but Chinese movies have gotten much better. They tell stories about real life, so people understand them better. For example, local comedies and holiday movies now break box-office records, which didn't really happen before.
 
 **Q4. Do you think only well-known directors can create the best movies?**
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
 | 1 | 一点也不，说实话。 | Not at all, honestly. |
-| 2 | 一个 有名的 名字 帮 吸引 一群人、还 拿到 资金，但 才华 不 系于 名气。 | A famous name helps draw a crowd and secure funding, but talent isn't tied to fame. |
-| 3 | 一大堆 新人 已经 做出 惊艳的 处女作、（那种 完全 盖过 那些 大导演的）。 | Plenty of newcomers have made stunning debuts that completely outshone the big directors. |
+| 2 | 一个 有名的 名字 帮 吸引 一群人、还 拿到 资金，但 才华 不 系于 名气。 | A famous name helps draw a crowd and get funding, but talent isn't tied to fame.〔原范文：secure funding〕 |
+| 3 | 一大堆 新人 已经 做出 惊艳的 处女作、（那种 完全 盖过 那些 大导演的）。 | Plenty of newcomers have made stunning debuts that did far better than the big directors.〔原范文：completely outshone〕 |
 | 4 | 比如，一个 新鲜的 视角 常常 感觉 更 大胆、更 原创。所以我会说 热情 和 一个 清晰的 愿景 要紧 得 远远 多过 一个 名声。 | For instance, a fresh perspective often feels bolder and more original. So I'd say passion and a clear vision matter far more than a reputation. |
 
-> Not at all, honestly. A famous name helps draw a crowd and secure funding, but talent isn't tied to fame. Plenty of newcomers have made stunning debuts that completely outshone the big directors. For instance, a fresh perspective often feels bolder and more original. So I'd say passion and a clear vision matter far more than a reputation.
+> Not at all, honestly. A famous name helps draw a crowd and get funding, but talent isn't tied to fame. Plenty of newcomers have made stunning debuts that did far better than the big directors. For instance, a fresh perspective often feels bolder and more original. So I'd say passion and a clear vision matter far more than a reputation.
 
 **Q5. Do you think successful movies should have well-known actors or actresses in leading roles?**
 
@@ -5213,7 +5217,7 @@
 
 > Well, it's all about the experience for me. The huge screen, booming sound and dark room pull you right into the story in a way your living room never could. Plus, there's something special about laughing or gasping alongside a whole crowd. For instance, a horror film feels twice as scary surrounded by strangers.
 
-**P3 句型/模板**：`do really well here` / `want an escape after a long day` · `don't ask too much of you` · `pack out cinemas` · `gripping historical dramas can really take off` · `if the plot grips you and the characters feel real` · `a film that drags loses people fast`（that后置）· `shine with sharp writing` / `can't save a dull script` · `flock to Hollywood blockbusters for the spectacle` / `come on hugely` · `stories that hit closer to home`（that后置）· `smash box-office records, which wasn't really the case before`（which后置）· `draw a crowd and secure funding` / `talent isn't tied to fame` · `stunning debuts that completely outshone the big directors`（that后置）· `passion and a clear vision matter far more than a reputation` · `pulls people in and reassures investors` · `can't rescue a weak script` / `you don't picture their other roles` · `count for much more than star power` · `pull you right into the story in a way your living room never could`（relative后置）· `there's something special about laughing or gasping alongside a whole crowd` · `feels twice as scary surrounded by strangers`。
+**P3 句型/模板**：`do really well here` / `want an escape after a long day` · `don't ask too much of you` · `pack out cinemas` · `exciting historical dramas can really take off`（降档自 gripping）· `if the plot grips you and the characters feel real` · `a film that drags loses people fast`（that后置）· `shine with sharp writing` / `can't save a dull script` · `go to see big Hollywood movies for the cool effects` / `have gotten much better`（降档自 flock…for the spectacle / come on hugely）· `stories about real life`（降档自 hit closer to home）· `break box-office records, which didn't really happen before`（降档自 smash…wasn't the case）· `draw a crowd and get funding`（降档自 secure）/ `talent isn't tied to fame` · `stunning debuts that did far better than the big directors`（降档自 outshone）· `passion and a clear vision matter far more than a reputation` · `pulls people in and reassures investors` · `can't rescue a weak script` / `you don't picture their other roles` · `count for much more than star power` · `pull you right into the story in a way your living room never could`（relative后置）· `there's something special about laughing or gasping alongside a whole crowd` · `feels twice as scary surrounded by strangers`。
 
 ---
 
