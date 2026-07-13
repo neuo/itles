@@ -5640,6 +5640,8 @@
 
 ---
 
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**——经济域，全是你已经会的 chunk（safety net / splash out / money well spent / driven by emotion / making wants feel like needs）。（顶部另有「你的实产版」= 你 6/27 练的 3D 打印机 + 经济六题。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -5742,6 +5744,8 @@
 ## P2-老21 · A time you encouraged someone to do something they didn't want to — 鼓励妻子跑首场 10K（Event）
 
 > **Cue**: 是谁 / 鼓励做什么 / 反应如何 / 为何鼓励 · 题型 Event
+
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。直接用。
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
