@@ -2800,6 +2800,8 @@
 
 ---
 
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**。（顶部另有「你的实产版」= 你练过的发邮件求建议版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2901,6 +2903,8 @@
 
 > **Cue**: 有多久 / 是什么 / 怎么实现 / 为何设它 · 题型 Object/Goal
 
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q5** 一处（`blanket ambition → everyone being ambitious`，见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -2980,9 +2984,9 @@
 | 1 | 不是 对每个人，不。 | Not for everyone, no. |
 | 2 | 一个团队 也 需要 稳的球员，一些人、（那种 就 做 扎实的活儿、不 追 那束聚光灯的）。 | A team needs steady players too, people who just do solid work without chasing the spotlight. |
 | 3 | 如果 每个人 都 极其 有野心，你 会 得到 冲突的 自我 和 不断的 摩擦。 | If everybody's fiercely ambitious, you'd get clashing egos and constant friction. |
-| 4 | 所以我会说 一两个 有干劲的成员 有帮助，但 其余的 就 能 可靠、又 合作。平衡 比 一刀切的野心 更要紧。 | So I'd say one or two driven members help, but the rest can simply be reliable and cooperative. Balance matters more than blanket ambition. |
+| 4 | 所以我会说 一两个 有干劲的成员 有帮助，但 其余的 就 能 可靠、又 合作。平衡 比 一刀切的野心 更要紧。 | So I'd say one or two driven members help, but the rest can simply be reliable and cooperative. Balance matters more than everyone being ambitious.〔原范文：blanket ambition〕 |
 
-> Not for everyone, no. A team needs steady players too, people who just do solid work without chasing the spotlight. If everybody's fiercely ambitious, you'd get clashing egos and constant friction. So I'd say one or two driven members help, but the rest can simply be reliable and cooperative. Balance matters more than blanket ambition.
+> Not for everyone, no. A team needs steady players too, people who just do solid work without chasing the spotlight. If everybody's fiercely ambitious, you'd get clashing egos and constant friction. So I'd say one or two driven members help, but the rest can simply be reliable and cooperative. Balance matters more than everyone being ambitious.
 
 **Q6. Should parents support their children in pursuing their ambitions?**
 
