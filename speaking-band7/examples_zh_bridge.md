@@ -1194,6 +1194,8 @@
 
 > **Cue**: 做了啥 / 跟谁 / 遇到什么问题 / 为何在团队里做 · 题型 Event
 
+> ✅ **本卡（P2 + 6 P3）原范文已在 6-6.5 目标档，降档 = 原范文（无需改）**。用到的都是常见习语（middle ground / on the same page / going it alone / pull their weight / passing the buck 等），直接用。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1318,6 +1320,8 @@
 
 ---
 
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**。（顶部另有「你的实产版」= 你练过的选行业版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1422,6 +1426,8 @@
 
 > **Cue**: 是什么 / 何时何地看 / 跟谁看 / 为何喜欢 · 题型 Event
 
+> ✅ **P2 + 5 个 P3 已达标（降档=原范文）**；仅 **P3-Q5** 一处降档（`pilgrimage` 太文学 → `a really special trip`，见下）。
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1497,11 +1503,11 @@
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
-| 1 | 嗯，对铁杆粉丝来说 它 几乎 是 一次朝圣——现场看 一场世界杯决赛 是 一种 一生一次的 激动、（那种 你 会 心甘情愿地 掏空 你钱包的）。 | Well, for hardcore fans it's almost a pilgrimage — watching a World Cup final live is a once-in-a-lifetime buzz you'd happily empty your wallet for. |
+| 1 | 嗯，对铁杆粉丝来说 它 几乎 是 一次朝圣——现场看 一场世界杯决赛 是 一种 一生一次的 激动、（那种 你 会 心甘情愿地 掏空 你钱包的）。 | Well, for hardcore fans it's almost a really special trip — watching a World Cup final live is a once-in-a-lifetime buzz you'd happily empty your wallet for.〔原范文：almost a pilgrimage〕 |
 | 2 | 此外，他们 能 同时 吸收 一种 新文化，所以 它是 两趟旅行 合成一趟。 | Plus, they get to soak up a new culture at the same time, so it's two trips in one. |
 | 3 | 说句公道话，我觉得 那种 吹嘘的资本 同样重要。 | To be fair, I think the bragging rights matter just as much. |
 
-> Well, for hardcore fans it's almost a pilgrimage — watching a World Cup final live is a once-in-a-lifetime buzz you'd happily empty your wallet for. Plus, they get to soak up a new culture at the same time, so it's two trips in one. To be fair, I think the bragging rights matter just as much.
+> Well, for hardcore fans it's almost a really special trip — watching a World Cup final live is a once-in-a-lifetime buzz you'd happily empty your wallet for. Plus, they get to soak up a new culture at the same time, so it's two trips in one. To be fair, I think the bragging rights matter just as much.
 
 **Q6. What sports games are popular in your country?**
 
@@ -1540,6 +1546,8 @@
 > The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. One I really remember is the dinosaur cake she made for our son — he was over the moon. People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. So for me, the cake isn't really about the food, it's about bringing everyone together.
 
 ---
+
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**。（顶部另有「你的实产版」= 你练过的生日蛋糕版。）
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
