@@ -1743,6 +1743,8 @@
 
 ---
 
+> ✅ **下面 examples 范文：P2 达标（降档=原范文）**；P3 三处降档（`in their tongue → in their language` / `wiring themselves up → still developing` / `the common thread → the key thing`，见下）。（顶部另有「你的实产版」= 你练过的老婆学语言版。）
+
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
 | 句/功能 | 英式中文珠子 | 范文英文 |
@@ -1793,9 +1795,9 @@
 | 1 | 帮助巨大，我会说。 | Massively, I'd say. |
 | 2 | 在 很多行业 你 打交道的是 国外的客户或伙伴，所以 能 切换语言 打开 一些门、（那些 本来 会 关着的）。 | In a lot of industries you're dealing with clients or partners abroad, so being able to switch languages opens doors that'd otherwise stay shut. |
 | 3 | 比如，一个 会日语的人 可能 拿到 一个职位、（别人 甚至 都 申请不了的）。 | For instance, someone who speaks Japanese might land a role others can't even apply for. |
-| 4 | 此外，它 建立 信任——人们 对你 热络得 更快，当 你 用 他们的语言 下功夫 的时候。 | Plus it builds trust — people warm to you faster when you make the effort in their tongue. |
+| 4 | 此外，它 建立 信任——人们 对你 热络得 更快，当 你 用 他们的语言 下功夫 的时候。 | Plus it builds trust — people warm to you faster when you make the effort in their language.〔原范文：in their tongue〕 |
 
-> Massively, I'd say. In a lot of industries you're dealing with clients or partners abroad, so being able to switch languages opens doors that'd otherwise stay shut. For instance, someone who speaks Japanese might land a role others can't even apply for. Plus it builds trust — people warm to you faster when you make the effort in their tongue.
+> Massively, I'd say. In a lot of industries you're dealing with clients or partners abroad, so being able to switch languages opens doors that'd otherwise stay shut. For instance, someone who speaks Japanese might land a role others can't even apply for. Plus it builds trust — people warm to you faster when you make the effort in their language.
 
 **Q3. Do people learn any languages other than English?**
 
@@ -1812,11 +1814,11 @@
 
 | 句 | 英式中文珠子 | 范文英文 |
 |---|---|---|
-| 1 | 我觉得 主要是因为 孩子的大脑 还在 自己 搭线，所以 他们 吸收 新的模式、不 想太多。 | I reckon it's mainly because kids' brains are still wiring themselves up, so they soak up new patterns without overthinking. |
+| 1 | 我觉得 主要是因为 孩子的大脑 还在 自己 搭线，所以 他们 吸收 新的模式、不 想太多。 | I reckon it's mainly because kids' brains are still developing, so they soak up new patterns without overthinking.〔原范文：still wiring themselves up〕 |
 | 2 | 大人 往往 分析 每件事、也 担心 显得傻，（那 拖慢 他们）。 | Adults tend to analyse everything and worry about looking silly, which slows them down. |
 | 3 | 比如，一个孩子 会 就 脱口而出 一个外语词、也不 在乎 它 对不对，而 大人 犹豫 太多了。 | For instance, a child will just blurt out a foreign word and not care if it's wrong, whereas grown-ups hesitate far too much. |
 
-> I reckon it's mainly because kids' brains are still wiring themselves up, so they soak up new patterns without overthinking. Adults tend to analyse everything and worry about looking silly, which slows them down. For instance, a child will just blurt out a foreign word and not care if it's wrong, whereas grown-ups hesitate far too much.
+> I reckon it's mainly because kids' brains are still developing, so they soak up new patterns without overthinking. Adults tend to analyse everything and worry about looking silly, which slows them down. For instance, a child will just blurt out a foreign word and not care if it's wrong, whereas grown-ups hesitate far too much.
 
 **Q5. How do people learn new things?**
 
@@ -1824,10 +1826,10 @@
 |---|---|---|
 | 1 | 嗯，人们 学 用 一大堆 不同的方式。 | Well, people learn in loads of different ways. |
 | 2 | 有些人 动手型、只有 靠做 才真的懂，而 另一些人 需要 先 读一读、理解 理论。 | Some are hands-on and only really get it by doing, while others need to read up first and understand the theory. |
-| 3 | 我会说 重复 是 那个 共同的线索，不过——你 很少 一次 就 搞定 任何东西。 | I'd say repetition's the common thread, though — you rarely nail anything on the first go. |
+| 3 | 我会说 重复 是 那个 共同的线索，不过——你 很少 一次 就 搞定 任何东西。 | I'd say repetition's the key thing, though — you rarely nail anything on the first go.〔原范文：the common thread〕 |
 | 4 | 说实话，犯错、然后 改正它们 大概 就是 我们大多数人 进步 的方式。 | Honestly, making mistakes and fixing them is probably how most of us improve. |
 
-> Well, people learn in loads of different ways. Some are hands-on and only really get it by doing, while others need to read up first and understand the theory. I'd say repetition's the common thread, though — you rarely nail anything on the first go. Honestly, making mistakes and fixing them is probably how most of us improve.
+> Well, people learn in loads of different ways. Some are hands-on and only really get it by doing, while others need to read up first and understand the theory. I'd say repetition's the key thing, though — you rarely nail anything on the first go. Honestly, making mistakes and fixing them is probably how most of us improve.
 
 **Q6. What is the most important thing for learning a language well?**
 
@@ -1839,7 +1841,7 @@
 
 > For me, it's consistency — chipping away at it a little every day beats cramming for hours once a week. But if I'm picking one thing, I'd say you've got to actually use the language, not just study it. Chatting with real people, even badly, builds confidence fast and stops the words slipping away the moment you stop revising.
 
-**P3 句型/模板**：`freeze up when they've actually got to speak` · `the numbers look good on paper, though … lags behind` · `being able to switch languages opens doors that'd otherwise stay shut`（动名词主语+that后置）· `someone who speaks Japanese might land a role others can't apply for`（who后置）· `kids' brains are still wiring themselves up` · `which slows them down`（which后置）· `chipping away at it … beats cramming …`（动名词主语比较）· `making mistakes and fixing them is how most of us improve`（动名词主语+embedded）。
+**P3 句型/模板**：`freeze up when they've actually got to speak` · `the numbers look good on paper, though … lags behind` · `being able to switch languages opens doors that'd otherwise stay shut`（动名词主语+that后置）· `someone who speaks Japanese might land a role others can't apply for`（who后置）· `kids' brains are still developing`（降档自 wiring themselves up）· `which slows them down`（which后置）· `chipping away at it … beats cramming …`（动名词主语比较）· `making mistakes and fixing them is how most of us improve`（动名词主语+embedded）。
 
 ---
 
@@ -1939,6 +1941,8 @@
 > A few things, really. For one, teachers can set homework AI can't do — hands-on tasks, that kind of thing. On top of that, getting students to do the work in class, under supervision, is a good idea too. Besides that, teachers can use AI the other way round — to check whether students actually did the work themselves.
 
 ---
+
+> ✅ **下面这套 examples 范文（P2 + 6 P3）已在 6-6.5 目标档，降档 = 原范文（无需改）**——AI/科技域，全是你已经会的 chunk（leaning on it / think for themselves / fall behind / takes chores off our plate / frees up time / a helper not a crutch）。（顶部另有「你的实产版」= 你 6/29 练的系统宕机 + AI 六题。）
 
 ### ①P2 拆解（英式中文珠子 → 范文英文）
 
