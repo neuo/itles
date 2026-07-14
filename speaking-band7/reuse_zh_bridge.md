@@ -3849,3 +3849,218 @@
 **P3 句型/模板（复用池）**：`Definitely, yes — at least the …` · `worth having a rough plan` / `end up stuck` / `sort out the big stuff in advance, keep the rest flexible`（新18-Q4）· `weighed a few things … whether it was worth it`（新12/老20）· `To some extent, yes` / `shaped my career`（新12）· `been there before` / `solid advice`（新07-Q5）· `think for themselves` / `a helper not a crutch`（新16）· `chips away at it a little every single day`（新15）· `a head start` / `comes down to you`。
 
 ---
+
+## P2-老07 · A child who loves drawing — Muye 画恐龙（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 怎么/何时知道 / 多久画一次 / 为何爱画 · 题型 Person
+>
+> 🔁 **整卡复用自**：son/Muye + 新14(dinosaur) + 老11(sit right next to me/brings back memories) + 新05(who absolutely loves) + 新16(off screens) + 新14(not really about X, it's about Y)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 孩子 是 我 儿子，Muye，（他 绝对 热爱 画画）。 | The child I'd like to talk about is my son, Muye, who absolutely loves drawing. |
+| 2 | 他 现在 五岁，而 他 从 大约 三岁 起 就 迷上 画画。 | He's five now, and he's been into drawing since he was about three. |
+| 3 | 他 大多 画 恐龙——他 对 它们 着魔。 | He draws dinosaurs mostly — he's obsessed with them. |
+| 4 | 我 最先 注意到 是 当 他 会 用 小 恐龙 填 满 整 本 笔记本。 | I first noticed it when he'd fill whole notebooks with little dinosaurs. |
+| 5 | 他 几乎 每天 都 画，通常 在 晚饭 后。 | He draws pretty much every day, usually after dinner. |
+| 6 | 真正 让 它 特别的 是 他 变 得 多么 专注——他 会 坐 在 那儿 老半天。 | What really makes it special is how focused he gets — he'll sit there for ages. |
+| 7 | 他 会 坐 在 我 旁边、给 我 解释 每 一幅 画。 | He'll sit right next to me and explain each drawing. |
+| 8 | 说实话，它 勾起 我 小时候 画画 的 回忆。 | Honestly, it brings back memories of me drawing as a kid. |
+| 9 | 我 爱 它 是 他 自己的 小 世界，远离 屏幕。 | I love that it's his own little world, away from screens. |
+| 10 | 所以 对我，它 不 真的 关于 那些 画——它 关于 看 他 享受 一个 东西。 | So for me, it's not really about the drawings — it's about watching him enjoy something. |
+
+### ②P2 整段（shadow）
+
+> The child I'd like to talk about is my son, Muye, who absolutely loves drawing. He's five now, and he's been into drawing since he was about three. He draws dinosaurs mostly — he's obsessed with them. I first noticed it when he'd fill whole notebooks with little dinosaurs. He draws pretty much every day, usually after dinner. What really makes it special is how focused he gets — he'll sit there for ages. He'll sit right next to me and explain each drawing. Honestly, it brings back memories of me drawing as a kid. I love that it's his own little world, away from screens. So for me, it's not really about the drawings — it's about watching him enjoy something.
+
+> 🔁 **复用**：句1 `who absolutely loves`(新05)；句3 dinosaur(新14)；句6 `What really makes it special is`+`for ages`(新23)；句7 `sit right next to me`(老11)；句8 `brings back memories`(老11)；句9 `away from screens`(新16)；句10 `not really about X — it's about Y`(新14)。
+
+### 句型/模板（复用池）
+
+- `The child I'd like to talk about is my son, Muye, who absolutely loves drawing` · `he's been into drawing since he was about three` · `What really makes it special is how focused he gets` · `He'll sit right next to me and explain each drawing` · `it's not really about the drawings — it's about watching him enjoy something`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What is the right age for a child to learn drawing?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 挺 小，我会说。 | Pretty young, I'd say. |
+| 2 | 孩子 从 大约 两三岁 就 自然 涂鸦，所以 越 早 越 好。 | Kids naturally scribble from about two or three, so the earlier the better. |
+| 3 | 而 太 早 强迫 上课 会 让 他们 反感。 | Whereas forcing lessons too early can put them off. |
+| 4 | 所以 它 归结到 让 他们 享受 它。 | So it comes down to letting them enjoy it. |
+
+> Pretty young, I'd say. Kids naturally scribble from about two or three, so the earlier the better. Whereas forcing lessons too early can put them off. So it comes down to letting them enjoy it.
+
+> 🔁 **复用**：`Pretty young, I'd say`(新26-Q1)+`whereas`+`put them off`+`comes down to`。
+
+**Q2. Why do most children draw more often than adults do?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 不 怕 画 错，我会说。 | Mainly because they're not afraid of getting it wrong, I'd say. |
+| 2 | 孩子 像 海绵——他们 就 一头 扎 进去、还 玩 得 开心。 | Kids are like sponges — they just dive in and have fun. |
+| 3 | 而 大人 变 得 拘谨、还 忙。 | Whereas adults get self-conscious and busy. |
+| 4 | 所以 它 归结到 长大 过程中 失去 那份 自由。 | So it comes down to losing that freedom as you grow up. |
+
+> Mainly because they're not afraid of getting it wrong, I'd say. Kids are like sponges — they just dive in and have fun. Whereas adults get self-conscious and busy. So it comes down to losing that freedom as you grow up.
+
+> 🔁 **复用**：`Mainly … I'd say`+`not afraid of … / like sponges / dive in`(新15-Q4)+`whereas`+`comes down to`。
+
+**Q3. Why do some people visit galleries or museums instead of viewing artworks online?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 亲身 看 一幅 画 有 一种 温暖、（那种 你 就是 在 网上 得不到 的）。 | Seeing a painting in person has a warmth you just can't get online. |
+| 3 | 而 一个 屏幕 把 一切 压 平。 | Whereas a screen flattens everything. |
+| 4 | 所以 说实话，没 什么 比得过 看 真 东西。 | So honestly, nothing beats seeing the real thing. |
+
+> A few reasons, really. Seeing a painting in person has a warmth you just can't get online. Whereas a screen flattens everything. So honestly, nothing beats seeing the real thing.
+
+> 🔁 **复用**：`A few reasons, really`+`a warmth you just can't get online`(新07-Q4)+`whereas`+`nothing beats`(新07-Q3)。
+
+**Q4. Do you think galleries and museums should be free of charge?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 给 每个人 学习 的 机会，不 只是 那些 负担 得起 的。 | It gives everyone the chance to learn, not just those who can afford it. |
+| 3 | 除此之外，它 让 家庭 和 孩子 对 艺术 感兴趣。 | On top of that, it gets families and kids interested in art. |
+| 4 | 所以 它 是 政府 花得 值的 钱。 | So it's money well spent by the government. |
+
+> Absolutely, I think so. It gives everyone the chance to learn, not just those who can afford it. On top of that, it gets families and kids interested in art. So it's money well spent by the government.
+
+> 🔁 **复用**：`Absolutely, I think so`+`On top of that`+`money well spent`(老20)+government。
+
+**Q5. How do artworks inspire people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 一件 好 作品 能 让 你 感受 到 什么 或 换 个 角度 看 世界。 | A good piece can make you feel something or see the world differently. |
+| 3 | 它 有点 像 一部 真的 留 在 我 心里 的 电影。 | It's a bit like a film that really stuck with me. |
+| 4 | 所以 它 归结到 打中 人们 的 情绪。 | So it comes down to hitting people's emotions. |
+
+> Loads of ways, really. A good piece can make you feel something or see the world differently. It's a bit like a film that really stuck with me. So it comes down to hitting people's emotions.
+
+> 🔁 **复用**：`Loads of ways, really`+`see … differently`(新26-Q5)+`stuck with me`(新18/新02)+`hitting people's feelings`(新02-Q6)。
+
+**Q6. What are the differences between reading a book and visiting a museum?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 一本 书 让 你 慢下来、想象，而 一个 博物馆 是 动手、视觉的。 | A book lets you slow down and imagine, whereas a museum is hands-on and visual. |
+| 3 | 我 儿子 从 真的 看到 东西 学 得 多 太多。 | My son learns way more from actually seeing things. |
+| 4 | 所以 它 归结到 哪个 更 适合 你。 | So it comes down to which suits you better. |
+
+> Quite a few, actually. A book lets you slow down and imagine, whereas a museum is hands-on and visual. My son learns way more from actually seeing things. So it comes down to which suits you better.
+
+> 🔁 **复用**：`Quite a few, actually`+`slow down`(新18)+`whereas`+`hands-on`(新16)+son+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Pretty young, I'd say` / `put them off` · `Mainly … I'd say` / `like sponges` / `dive in` · `A few reasons, really` / `a warmth you just can't get online` / `nothing beats` · `Absolutely, I think so` / `money well spent` · `Loads of ways, really` / `stuck with me` · `Quite a few, actually` / `slow down` / `hands-on`。
+
+---
+
+## P2-老08 · A program or app on your phone — 小红书 Rednote（Object）  〔你的版 · 未改〕
+
+> **Cue**: 是什么 / 多久用 / 何时怎么用 / 怎么发现 / 感受 · 题型 Object
+>
+> 🎤 **你的版（6/25 练过 · 未降未改）**：P2 = 小红书 + 你练的 6 题 P3（app 域）。这是小红书 / app 域源头。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 app 是 小红书。 | The app I'd like to talk about is Rednote. |
+| 2 | 我 用 它 挺 频繁——我 花 一两个 小时 在 它 上面。 | I use it quite often — I spend an hour or two on it. |
+| 3 | 我 真的 上瘾，因为 它 给 我 这么 多 信息、（那种 我 感兴趣的），比如 短的 旅行 视频。 | I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. |
+| 4 | 有时候 我 也 在 它 上面 搜 东西——比如，如果 我 在 出差，我 会 用 小红书 [去]找 一家 好的 餐厅 吃 晚饭。 | Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. |
+| 5 | 至于 我 怎么 发现 它的，这 是 一个 有意思的 故事：小红书 本来 是 为 女性 设计的，而 我 老婆 很爱 它。 | As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. |
+| 6 | 几年前，那 公司 想 扩大 它的 市场，所以 他们 重新 设计 它、也 加 了 给 男性的 内容——而 那 就是 我 老婆 推荐 它 给 我 的时候。 | A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. |
+| 7 | 所以 说实话，它 是 一个 真的 很 有用的 工具。 | So honestly, it's a really useful tool. |
+
+### ②P2 整段（shadow）
+
+> The app I'd like to talk about is Rednote. I use it quite often — I spend an hour or two on it. I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. So honestly, it's a really useful tool.
+
+### 句型/模板（你自己的）
+
+- `The app I'd like to talk about is …` · `I'm really hooked, because it gives me so much information I'm interested in` · `if I'm on a business trip, I'll use … to find a nice restaurant` · `As for how I found it, it's an interesting story` · `that's when my wife recommended it to me`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · app）
+
+**Q1. What are the differences between old and young people when using apps?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它们 挺 不同。 | They're quite different. |
+| 2 | 年轻人 瞬间 就 上手 新 app，而 老年人 有点 更 谨慎、还 坚持 他们 认识的 那些。 | Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. |
+| 3 | 所以 它 真的 归结到 他们 是 伴随 什么 长大的。 | So it really comes down to what they grew up with. |
+
+> They're quite different. Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. So it really comes down to what they grew up with.
+
+**Q2. Why do some people not like using apps?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 信任 和 习惯，我会说。 | Mainly trust and habit, I'd say. |
+| 2 | 有些人 担心 那些 app 公司 知道 关于 他们的 一切——他们 喜欢 什么、他们 吃 什么——（这）感觉 有点 瘆人。 | Some people worry the app companies know everything about them — what they like, what they eat — which feels a bit creepy. |
+| 3 | 另一些 就 更喜欢 老 方式；我 父母 还 用 现金 付钱，因为 那 就是 他们 习惯的。 | Others just prefer the old way; my parents still pay with cash because that's what they're used to. |
+| 4 | 说句公道话，对 他们 一个 app 感觉 像 麻烦 多过 帮助。 | To be fair, for them an app feels like more hassle than help. |
+
+> Mainly trust and habit, I'd say. Some people worry the app companies know everything about them — what they like, what they eat — which feels a bit creepy. Others just prefer the old way; my parents still pay with cash because that's what they're used to. To be fair, for them an app feels like more hassle than help.
+
+**Q3. What apps are popular in your country? Why?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 哦，一大堆。 | Oh, loads. |
+| 2 | 那 最大的 是 通讯 和 支付 app、比如 微信——基本上 每个人 每天 用 它们，因为 你 能 在 一个 地方 做 一切：聊天、付钱、甚至 订 一辆 出租车。 | The biggest ones are messaging and payment apps like WeChat — basically everyone uses them every day, because you can do everything in one place: chat, pay, even book a taxi. |
+| 3 | 短视频 app 也 巨大，主要 因为 它们 令人上瘾、还 给 你 一个 快 笑、当 你 无聊 的时候。 | Short-video apps are huge too, mainly because they're addictive and give you a quick laugh when you're bored. |
+| 4 | 所以 真的，它 归结到 便捷 和 打发 时间。 | So really, it comes down to convenience and killing time. |
+
+> Oh, loads. The biggest ones are messaging and payment apps like WeChat — basically everyone uses them every day, because you can do everything in one place: chat, pay, even book a taxi. Short-video apps are huge too, mainly because they're addictive and give you a quick laugh when you're bored. So really, it comes down to convenience and killing time.
+
+**Q4. Should parents limit their children's use of computer programs and computer games?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的——但 用 一个 轻手，不是 一个 彻底的 禁令。 | Definitely, yes — but with a light touch, not a total ban. |
+| 2 | 当然，有些 app 帮 孩子 学习、游戏 让 他们 放松，但 它们 也 能 真的 令人上瘾。 | Sure, some apps help kids learn and games let them relax, but they can also be really addictive. |
+| 3 | 所以 我 会 设 一个 每日 时间 限制，还 把 屏幕 时间 配 上 户外 玩 或 阅读。 | So I'd set a daily time limit, and pair screen time with outdoor play or reading. |
+| 4 | 如果 你 太 严，他们 反正 会 就 偷偷 绕过。 | If you're too strict, they'll just sneak around anyway. |
+
+> Definitely, yes — but with a light touch, not a total ban. Sure, some apps help kids learn and games let them relax, but they can also be really addictive. So I'd set a daily time limit, and pair screen time with outdoor play or reading. If you're too strict, they'll just sneak around anyway.
+
+**Q5. Do you think young people are more and more reliant on these programs?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，我 会 这么 说。 | Yes, I'd say so. |
+| 2 | 我 花 很多 时间 在 各种 app 上——比如，微信 用来 跟 朋友 保持 联系，美团 用来 点 外卖。 | I spend a lot of time on various apps — for example, WeChat for staying in touch with friends, Meituan for ordering takeout. |
+| 3 | 说实话，我 没法 想象 那 世界 会 是 什么 样，如果 这些 app 消失了。 | Honestly, I can't imagine what the world would be like if these apps disappeared. |
+| 4 | 说句公道话，有时候 我 觉得 我 对 它们 太 关注、还 忽略了 那 真实 世界。 | To be fair, sometimes I think I pay too much attention to them and ignore the real world. |
+
+> Yes, I'd say so. I spend a lot of time on various apps — for example, WeChat for staying in touch with friends, Meituan for ordering takeout. Honestly, I can't imagine what the world would be like if these apps disappeared. To be fair, sometimes I think I pay too much attention to them and ignore the real world.
+
+**Q6. What do you think about some countries banning children from using social media?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 大体上 同意。 | I largely agree. |
+| 2 | 当然，社交媒体 帮 人们 连接，但 对 孩子 那些 坏处 真的 压过 那些 好处。 | Sure, social media helps people connect, but for children the drawbacks really outweigh the benefits. |
+| 3 | 网上 聊天 是 肤浅的，而 它 会 伤害 孩子 面对面 交流 的 能力。 | Chatting online is shallow, and it can hurt kids' ability to communicate in person. |
+| 4 | 此外，外面 有 一大堆 负面 内容、（那种 孩子 真的 应付不了的）。 | Plus, there's loads of negative content out there that kids can't really handle. |
+| 5 | 所以 我会说 它 是 必要的，至少 到 某个 年龄 之前。 | So I'd say it's necessary, at least up to a certain age. |
+
+> I largely agree. Sure, social media helps people connect, but for children the drawbacks really outweigh the benefits. Chatting online is shallow, and it can hurt kids' ability to communicate in person. Plus, there's loads of negative content out there that kids can't really handle. So I'd say it's necessary, at least up to a certain age.
+
+---
