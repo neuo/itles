@@ -2357,11 +2357,13 @@
 | 8 | 他 换 掉 它，而 一切 立刻 恢复了。 | He swapped it out, and everything came back up right away. |
 | 9 | 他 说实话 救 了 场，就 像 他 总是 做的。 | He honestly saved the day, like he always does. |
 | 10 | 我 真正 佩服 他 的 是 他 怎么 在 压力下 保持 冷静。 | What I really admire about him is how he stays calm under pressure. |
-| 11 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+| 11 | 从 那 之后，无论 什么时候 工作上 有 东西 坏了，他 就是 我 第一个 打 的人。 | Ever since, whenever something breaks at work, he's the first person I call. |
+| 12 | 他 让 它 看起来 容易，即使 我 知道 它 不 是。 | He makes it look easy, even though I know it isn't. |
+| 13 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when my old classmate Zhangwei helped me fix a network problem. I'm a software engineer, and one day our office network kept dropping out. Nobody could connect, so no one could get any work done. What made it so hard was that the cause wasn't obvious — everything looked fine. I was starting to panic, so I gave Zhangwei a call. He came over, stayed calm, sat down, and went through the logs line by line. Within about twenty minutes, he tracked down the cause — a faulty router. He swapped it out, and everything came back up right away. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. To be honest, that's something I'd love to learn from him.
+> The time I'd like to talk about is when my old classmate Zhangwei helped me fix a network problem. I'm a software engineer, and one day our office network kept dropping out. Nobody could connect, so no one could get any work done. What made it so hard was that the cause wasn't obvious — everything looked fine. I was starting to panic, so I gave Zhangwei a call. He came over, stayed calm, sat down, and went through the logs line by line. Within about twenty minutes, he tracked down the cause — a faulty router. He swapped it out, and everything came back up right away. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. Ever since, whenever something breaks at work, he's the first person I call. He makes it look easy, even though I know it isn't. To be honest, that's something I'd love to learn from him.
 
 > 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `What made it so hard`(新16)；句5 `panic`(张伟)；句6 `stayed calm, sat down … line by line`(张伟/新07 逐字)；句7 `tracked down the cause`(新16)；句8 `came back up right away`(新16)；句9 `saved the day`(新07)；句10 `What I really admire … stays calm under pressure`(新07 逐字)；句11 `something I'd love to learn from him`(新07 逐字)。
 
@@ -2474,11 +2476,13 @@
 | 7 | 我 喜欢 它 的地方 是 它 让 人们 停下、想想 那 废物。 | What I like about it is that it makes people stop and think about waste. |
 | 8 | 我 儿子 在 学校 也 学 了 它，所以 他 提醒 我们 好好 分类。 | My son learned it at school too, so he reminds us to sort things properly. |
 | 9 | 说句公道话，不 是 每个人 都 遵守，但 大多数人 尽 他们 那份 力。 | To be fair, not everyone follows it, but most people do their bit. |
-| 10 | 所以 总的来说，我 觉得 它 是 一条 真的 管用 的 简单 法律。 | So overall, I reckon it's a simple law that really works. |
+| 10 | 一开始 我 老是 分 错 桶，而 我 老婆 会 笑 着 帮 我 改。 | At first I got the bins wrong all the time, and my wife would laugh and fix it. |
+| 11 | 现在 连 我 儿子 都 来 检查 我。 | Now even my son checks up on me. |
+| 12 | 所以 总的来说，我 觉得 它 是 一条 真的 管用 的 简单 法律。 | So overall, I reckon it's a simple law that really works. |
 
 ### ②P2 整段（shadow）
 
-> The law I'd like to talk about is the rubbish-sorting rule in big cities here. Basically, you have to separate your waste — food, recycling, and general rubbish. I first heard about it from my wife, who keeps up with this kind of thing. At first, honestly, it felt like a hassle — nobody knew which bin was which. But after a while, you just get used to it. The people who benefit most are everyone, really — it keeps the city cleaner. What I like about it is that it makes people stop and think about waste. My son learned it at school too, so he reminds us to sort things properly. To be fair, not everyone follows it, but most people do their bit. So overall, I reckon it's a simple law that really works.
+> The law I'd like to talk about is the rubbish-sorting rule in big cities here. Basically, you have to separate your waste — food, recycling, and general rubbish. I first heard about it from my wife, who keeps up with this kind of thing. At first, honestly, it felt like a hassle — nobody knew which bin was which. But after a while, you just get used to it. The people who benefit most are everyone, really — it keeps the city cleaner. What I like about it is that it makes people stop and think about waste. My son learned it at school too, so he reminds us to sort things properly. To be fair, not everyone follows it, but most people do their bit. At first I got the bins wrong all the time, and my wife would laugh and fix it. Now even my son checks up on me. So overall, I reckon it's a simple law that really works.
 
 > 🔁 **复用**：句3 wife 信息来源(新06)；句4 `hassle`(老20-Q2)；句7 `makes people stop and think`(新06风)；句9 `To be fair`+`do their bit`；句10 `So overall`+`I reckon`。
 
@@ -3176,11 +3180,13 @@
 | 7 | 它 吸引 我 的 原因 是 那 自由 和 做 我 热爱 的 事 的 混合。 | The reason it appeals to me is the mix of freedom and doing something I love. |
 | 8 | 说实话，钱 不 是 那 主要 的——它 关于 平衡。 | Honestly, money isn't the main thing — it's about balance. |
 | 9 | 我 一直 想 有一天 建 一个 我 自己的 东西。 | I've always wanted to build something of my own one day. |
-| 10 | 所以 对我，那种 角色 会 是 那个 梦想。 | So for me, that kind of role would be the dream. |
+| 10 | 我 已经 在 业余时间 做 一点 这个。 | I already do a bit of this in my spare time. |
+| 11 | 如果 我 能 让 它 成 我的 全职 工作，我 会 高兴 坏了。 | If I could make it my full-time work, I'd be over the moon. |
+| 12 | 所以 对我，那种 角色 会 是 那个 梦想。 | So for me, that kind of role would be the dream. |
 
 ### ②P2 整段（shadow）
 
-> The perfect job I'd like is a flexible, independent role in tech. I'm a software engineer already, so it wouldn't be a huge change — just more freedom. Basically, I'd love to work on my own projects, at my own pace, from anywhere. What makes it perfect is that I wouldn't be stuck to a fixed schedule. I could spend more time with my wife and son, instead of being in an office all day. To get there, I know I'd have to keep learning and chip away at new skills. The reason it appeals to me is the mix of freedom and doing something I love. Honestly, money isn't the main thing — it's about balance. I've always wanted to build something of my own one day. So for me, that kind of role would be the dream.
+> The perfect job I'd like is a flexible, independent role in tech. I'm a software engineer already, so it wouldn't be a huge change — just more freedom. Basically, I'd love to work on my own projects, at my own pace, from anywhere. What makes it perfect is that I wouldn't be stuck to a fixed schedule. I could spend more time with my wife and son, instead of being in an office all day. To get there, I know I'd have to keep learning and chip away at new skills. The reason it appeals to me is the mix of freedom and doing something I love. Honestly, money isn't the main thing — it's about balance. I've always wanted to build something of my own one day. I already do a bit of this in my spare time. If I could make it my full-time work, I'd be over the moon. So for me, that kind of role would be the dream.
 
 > 🔁 **复用**：句2 `I'm a software engineer`(新16)+`freedom`(老12)；句4 `stuck to a … schedule`(老12)；句6 `keep learning`+`chip away`(新15)；句7 `the freedom`+`doing something I love`(新09)；句8 `money isn't the main thing`(老20)+`it's about`(新14)；句9 `build something of my own`(新24)。
 
@@ -3412,11 +3418,13 @@
 | 7 | 让 它 特别的 是 我 真的 注意到 了 那些 细节，而不是 一个 屏幕。 | What made it special was that I actually noticed the details, instead of a screen. |
 | 8 | 它 让 我 意识到 我 多么 依赖 我的 手机。 | It made me realise how much I rely on my phone. |
 | 9 | 说实话，那个 安静的 时刻 留 在 我 心里 比 任何 照片 都 深。 | Honestly, that quiet moment stuck with me more than any photo would have. |
-| 10 | 所以 现在 我 尽量 更 常 把 手机 收 起来。 | So now I try to put my phone away more often. |
+| 10 | 我 甚至 坐 在 那儿 足足 十分钟、就 听 那 安静。 | I sat there for a good ten minutes, just listening to the quiet. |
+| 11 | 回头看，它 是 整趟 旅行 最 平静的 时刻 之一。 | Looking back, it was one of the calmest moments of the trip. |
+| 12 | 所以 现在 我 尽量 更 常 把 手机 收 起来。 | So now I try to put my phone away more often. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I couldn't use my phone inside a temple in Kyoto. I've been to Kyoto a few times, and I love visiting the old temples. In one of the main halls, there was a sign saying no phones or photos. At first, honestly, I felt a bit lost — I'm so used to reaching for my phone. I couldn't take pictures or check anything, so I just had to stand there. But after a while, I was completely immersed in the peaceful atmosphere. What made it special was that I actually noticed the details, instead of a screen. It made me realise how much I rely on my phone. Honestly, that quiet moment stuck with me more than any photo would have. So now I try to put my phone away more often.
+> The time I'd like to talk about is when I couldn't use my phone inside a temple in Kyoto. I've been to Kyoto a few times, and I love visiting the old temples. In one of the main halls, there was a sign saying no phones or photos. At first, honestly, I felt a bit lost — I'm so used to reaching for my phone. I couldn't take pictures or check anything, so I just had to stand there. But after a while, I was completely immersed in the peaceful atmosphere. What made it special was that I actually noticed the details, instead of a screen. It made me realise how much I rely on my phone. Honestly, that quiet moment stuck with me more than any photo would have. I sat there for a good ten minutes, just listening to the quiet. Looking back, it was one of the calmest moments of the trip. So now I try to put my phone away more often.
 
 > 🔁 **复用**：句2 `been to Kyoto … love visiting the old temples`(新18)；句6 `completely immersed in the peaceful atmosphere`(新18 逐字)；句8 `rely on`(新16)；句9 `stuck with me`(新18)+`quiet`(老26)；句10 `put my phone away`(新22风)。
 
@@ -3529,11 +3537,13 @@
 | 7 | 她 一开始 有点 不情愿——她 讨厌 让 人 失望。 | She was a bit reluctant at first — she hates letting people down. |
 | 8 | 但 过 一会儿，她 开始 分担 那 担子，而 她 看起来 更 开心。 | But after a while, she started sharing the load, and she seemed happier. |
 | 9 | 说实话，我 只是 庆幸 她 听 了。 | Honestly, I was just glad she listened. |
-| 10 | 所以 对我，它 是 一个 我 真的 庆幸 我 说 出来 的 时刻。 | So for me, it's a time I'm really glad I spoke up. |
+| 10 | 这些天 她 好 多了、在 她 手头 太多 的时候 会 说 不。 | These days she's much better at saying no when she's got too much on. |
+| 11 | 说实话，她 甚至 谢 我 那 晚上 站 出来。 | Honestly, she even thanks me for stepping in that evening. |
+| 12 | 所以 对我，它 是 一个 我 真的 庆幸 我 说 出来 的 时刻。 | So for me, it's a time I'm really glad I spoke up. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I gave my wife some advice about work. She's really hardworking, and a while back she had a lot on her plate. She was taking on too much — work, our son, everything — and getting worn out. One evening, I sat down with her and gently said she should slow down. I told her she didn't have to do it all herself, and could ask for help. The reason I said it is that I could see she was pushing herself too hard. She was a bit reluctant at first — she hates letting people down. But after a while, she started sharing the load, and she seemed happier. Honestly, I was just glad she listened. So for me, it's a time I'm really glad I spoke up.
+> The time I'd like to talk about is when I gave my wife some advice about work. She's really hardworking, and a while back she had a lot on her plate. She was taking on too much — work, our son, everything — and getting worn out. One evening, I sat down with her and gently said she should slow down. I told her she didn't have to do it all herself, and could ask for help. The reason I said it is that I could see she was pushing herself too hard. She was a bit reluctant at first — she hates letting people down. But after a while, she started sharing the load, and she seemed happier. Honestly, I was just glad she listened. These days she's much better at saying no when she's got too much on. Honestly, she even thanks me for stepping in that evening. So for me, it's a time I'm really glad I spoke up.
 
 > 🔁 **复用**：句2 `a lot on her plate`(新15)；句4 `sat down`(张伟)+`slow down`(新18)；句5 `ask for help`(新21)；句6 `The reason … is`+`pushing herself`(新15)；句8 `sharing the load`(新11-Q5)；句10 `glad I`(新12)+`spoke up`(新11)。
 
@@ -4215,11 +4225,13 @@
 | 8 | 说实话，它 让 我 看到 他 正 长 成 一个 善良的人。 | Honestly, it showed me he's growing up kind. |
 | 9 | 我 老婆 总是 帮 我们 年长的 邻居，所以 我 觉得 他 从 她 那儿 学 的。 | My wife's always helping our elderly neighbours, so I think he learned it from her. |
 | 10 | 它 勾起 我 外公 教 我 同样的 东西 的 回忆。 | It brings back memories of my grandfather teaching me the same thing. |
-| 11 | 所以 对我，它 不 是 一件 大事——但 它 让 我 一整周 都 开心。 | So for me, it wasn't a big deal — but it made my whole week. |
+| 11 | 回家 路上，我们 好好 聊 了 一场 关于 帮 别人。 | On the way home, we had a proper chat about helping others. |
+| 12 | 像 那样 的 时刻 让 我 骄傲 做 他 爸爸。 | Moments like that make me proud to be his dad. |
+| 13 | 所以 对我，它 不 是 一件 大事——但 它 让 我 一整周 都 开心。 | So for me, it wasn't a big deal — but it made my whole week. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I felt really proud of my son, Muye. We were at that quiet little park near our home one afternoon. There was an older man who'd dropped his shopping, and stuff had rolled everywhere. Muye's only five, but he ran straight over and started picking it up. He didn't even think about it — he just wanted to help. What made me proud was that nobody told him to do it. The old man was over the moon and kept thanking him. Honestly, it showed me he's growing up kind. My wife's always helping our elderly neighbours, so I think he learned it from her. It brings back memories of my grandfather teaching me the same thing. So for me, it wasn't a big deal — but it made my whole week.
+> The time I'd like to talk about is when I felt really proud of my son, Muye. We were at that quiet little park near our home one afternoon. There was an older man who'd dropped his shopping, and stuff had rolled everywhere. Muye's only five, but he ran straight over and started picking it up. He didn't even think about it — he just wanted to help. What made me proud was that nobody told him to do it. The old man was over the moon and kept thanking him. Honestly, it showed me he's growing up kind. My wife's always helping our elderly neighbours, so I think he learned it from her. It brings back memories of my grandfather teaching me the same thing. On the way home, we had a proper chat about helping others. Moments like that make me proud to be his dad. So for me, it wasn't a big deal — but it made my whole week.
 
 > 🔁 **复用**：句2 `quiet little park near our home`(老26)；句4 `ran straight over`(老12 run around)；句6 `What made me proud was`；句7 `over the moon`(新14)；句9 `wife … helping our elderly neighbours`(老19)；句10 `brings back memories`+grandfather(老11)。
 
