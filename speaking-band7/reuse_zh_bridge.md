@@ -3051,11 +3051,13 @@
 | 7 | 我 觉得 大多数人 会 支持 它，说句公道话，一旦 他们 习惯 了。 | I think most people would support it, to be fair, once they got used to it. |
 | 8 | 当然，有些 商店 会 反对，因为 它 归结到 成本。 | Of course, some shops would push back, since it comes down to cost. |
 | 9 | 但 说实话，一个 像 这样 的 小 改变 真的 加 起来、跨 整个 城市。 | But honestly, a small change like this really adds up across a whole city. |
-| 10 | 所以 对我，它 是 一条 会 带来 真正 改变 的 简单 法律。 | So for me, it's a simple law that would make a real difference. |
+| 10 | 我 儿子 在 学校 学 了 回收，所以 他 已经 唠叨 我们 好好 分类 垃圾。 | My son learned about recycling at school, so he already nags us to sort our rubbish properly. |
+| 11 | 如果 连 孩子 都 这么 上心，一个 正经的 禁令 只会 把 每个人 推 向 对 的 方向。 | If even kids are this keen, a proper ban would just push everyone the right way. |
+| 12 | 所以 对我，它 是 一条 会 带来 真正 改变 的 简单 法律。 | So for me, it's a simple law that would make a real difference. |
 
 ### ②P2 整段（shadow）
 
-> The law I'd like to introduce is a ban on single-use plastic. Basically, it would stop shops handing out plastic bags, straws, and cups. The idea came to me because I see so much plastic waste everywhere. Even at that quiet little park near our home, there's litter in the lake. What worries me is the mess we're leaving for our kids. My wife's really careful about this — she's got me using cloth bags now. I think most people would support it, to be fair, once they got used to it. Of course, some shops would push back, since it comes down to cost. But honestly, a small change like this really adds up across a whole city. So for me, it's a simple law that would make a real difference.
+> The law I'd like to introduce is a ban on single-use plastic. Basically, it would stop shops handing out plastic bags, straws, and cups. The idea came to me because I see so much plastic waste everywhere. Even at that quiet little park near our home, there's litter in the lake. What worries me is the mess we're leaving for our kids. My wife's really careful about this — she's got me using cloth bags now. I think most people would support it, to be fair, once they got used to it. Of course, some shops would push back, since it comes down to cost. But honestly, a small change like this really adds up across a whole city. My son learned about recycling at school, so he already nags us to sort our rubbish properly. If even kids are this keen, a proper ban would just push everyone the right way. So for me, it's a simple law that would make a real difference.
 
 > 🔁 **复用**：句1 `The law I'd like to introduce is`(新06)；句4 `quiet little park near our home`(老26)；句5 `What worries me is`(新06)；句6 wife；句7 `to be fair`+`got used to it`(新22)；句8 `push back, since it comes down to`(新06)；句10 `a simple law that …`(新22)。
 
@@ -3285,11 +3287,13 @@
 | 7 | 我 是 一个 工程师，所以 我 好奇 他 怎么 规划 这么 精细 的 东西。 | I'm an engineer, so I'm curious about how he plans something so detailed. |
 | 8 | 说实话，我 大概 会 紧张 到 说 不出 什么。 | Honestly, I'd probably be too nervous to say much. |
 | 9 | 但 它 会 是 一个 梦想 成真，哪怕 只是 打 个 招呼。 | But it'd be a dream come true, even just to say hello. |
-| 10 | 所以 对我，他 是 那 一个 我 真心 想 见 的 名人。 | So for me, he's the one famous person I'd genuinely want to meet. |
+| 10 | 我 有些 他的 电影 看 了 三四 遍，而 我 每一次 仍然 发现 新 细节。 | I've watched some of his films three or four times, and I still spot new details each time. |
+| 11 | 我 老婆 笑 我 有点 着魔。 | My wife teases me for being a bit obsessed. |
+| 12 | 所以 对我，他 是 那 一个 我 真心 想 见 的 名人。 | So for me, he's the one famous person I'd genuinely want to meet. |
 
 ### ②P2 整段（shadow）
 
-> The famous person I'd like to meet is Christopher Nolan, the film director. I'm really into sci-fi, and he's made some of my favourite films, like Interstellar. I first got into his work years ago, when a friend recommended one to me. What I admire about him is how he turns really complex ideas into something you feel. His films really stuck with me — I was completely immersed each time. If I met him, I'd love to ask how he comes up with his ideas. I'm an engineer, so I'm curious about how he plans something so detailed. Honestly, I'd probably be too nervous to say much. But it'd be a dream come true, even just to say hello. So for me, he's the one famous person I'd genuinely want to meet.
+> The famous person I'd like to meet is Christopher Nolan, the film director. I'm really into sci-fi, and he's made some of my favourite films, like Interstellar. I first got into his work years ago, when a friend recommended one to me. What I admire about him is how he turns really complex ideas into something you feel. His films really stuck with me — I was completely immersed each time. If I met him, I'd love to ask how he comes up with his ideas. I'm an engineer, so I'm curious about how he plans something so detailed. Honestly, I'd probably be too nervous to say much. But it'd be a dream come true, even just to say hello. I've watched some of his films three or four times, and I still spot new details each time. My wife teases me for being a bit obsessed. So for me, he's the one famous person I'd genuinely want to meet.
 
 > 🔁 **复用**：句2 `really into sci-fi`(新02)；句3 `got into … recommended`(老05/老08)；句4 `What I admire about him is how`(新09)+`complex … into something`(新02)；句5 `stuck with me`+`immersed`(新18)；句7 `how he plans`(老06)；句9 `a dream come true`(新13-Q5)。
 
@@ -4667,11 +4671,12 @@
 | 8 | 至于 一个 老师 会不会 让 它 更 容易——说实话，大概 会。 | As for whether a teacher would make it easier — honestly, probably. |
 | 9 | 一个 老师 能 一步步 带 你 过 那些 棘手的 部分。 | A teacher could walk you through the tricky bits step by step. |
 | 10 | 但 她 自己 做 得 很 出色，说句公道话。 | But she's doing brilliantly on her own, to be fair. |
-| 11 | 所以 对我，她 树立 了 一个 很好的 榜样。 | So for me, she sets a great example. |
+| 11 | 她 甚至 把 她的 手机 改成 日语、逼 自己 用 它，（我 觉得 这 真的 很 聪明）。 | She even changes her phone to Japanese to force herself to use it, which I think is really clever. |
+| 12 | 所以 对我，她 树立 了 一个 很好的 榜样。 | So for me, she sets a great example. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my wife, who's learning Japanese at the moment. We've been married for over ten years, and she's always picking up something new. She started last year, mostly because we love travelling to Japan. The way she learns is by working through textbooks, and she watches anime too. She really sticks at it — she chips away at it a little every single day. What I really admire about her is her perseverance. She never stops, even when she's got a lot on her plate — work, our son, everything. As for whether a teacher would make it easier — honestly, probably. A teacher could walk you through the tricky bits step by step. But she's doing brilliantly on her own, to be fair. So for me, she sets a great example.
+> The person I'd like to talk about is my wife, who's learning Japanese at the moment. We've been married for over ten years, and she's always picking up something new. She started last year, mostly because we love travelling to Japan. The way she learns is by working through textbooks, and she watches anime too. She really sticks at it — she chips away at it a little every single day. What I really admire about her is her perseverance. She never stops, even when she's got a lot on her plate — work, our son, everything. As for whether a teacher would make it easier — honestly, probably. A teacher could walk you through the tricky bits step by step. But she's doing brilliantly on her own, to be fair. She even changes her phone to Japanese to force herself to use it, which I think is really clever. So for me, she sets a great example.
 
 > 🔁 **复用**：句2 `picking up`(新15-Q3)；句4 `working through textbooks`(新15)；句5 `sticks at it / chips away … every single day`(新15 逐字)；句6 `What I really admire … perseverance`(新15 逐字)；句7 `a lot on her plate`(新15)；句9 `walk you through … step by step`(新15-Q5)；句11 `sets a great example`(新15)。
 
@@ -4784,11 +4789,13 @@
 | 7 | 我 的 耳朵 事后 嗡嗡 响 了 老半天。 | My ears were ringing for ages afterwards. |
 | 8 | 说实话，我 会 更 喜欢 某个 更 平静、更 安静 的 东西。 | Honestly, I'd have preferred something calmer and quieter. |
 | 9 | 不过 我 哥们儿 很爱 它，所以 它 归结到 口味。 | My mates loved it, though, so it comes down to taste. |
-| 10 | 所以 对我，它 不 真的 关于 那 乐队——它 就 不 是 我 那 类型 的 夜晚。 | So for me, it wasn't really about the band — it just wasn't my kind of night. |
+| 10 | 我 最后 中途 走 出去、就 为了 让 我的 耳朵 歇一歇。 | I ended up stepping outside halfway through just to give my ears a break. |
+| 11 | 我 哥们儿 待 到 最后、还 特别 兴奋，所以 至少 有人 玩 得 很 开心。 | My mates stayed till the end, buzzing, so at least someone had a great time. |
+| 12 | 所以 对我，它 不 真的 关于 那 乐队——它 就 不 是 我 那 类型 的 夜晚。 | So for me, it wasn't really about the band — it just wasn't my kind of night. |
 
 ### ②P2 整段（shadow）
 
-> The event I'd like to talk about is a live concert I went to that was just too loud. I went with a couple of mates, mostly because they were really into the band. It was at a big indoor venue here in Chengdu, on a weekend. To be fair, I don't follow that kind of music, so I wasn't sure about it. The problem was that the sound was so loud I couldn't hear myself think. What really put me off was that everything just blurred into noise. My ears were ringing for ages afterwards. Honestly, I'd have preferred something calmer and quieter. My mates loved it, though, so it comes down to taste. So for me, it wasn't really about the band — it just wasn't my kind of night.
+> The event I'd like to talk about is a live concert I went to that was just too loud. I went with a couple of mates, mostly because they were really into the band. It was at a big indoor venue here in Chengdu, on a weekend. To be fair, I don't follow that kind of music, so I wasn't sure about it. The problem was that the sound was so loud I couldn't hear myself think. What really put me off was that everything just blurred into noise. My ears were ringing for ages afterwards. Honestly, I'd have preferred something calmer and quieter. My mates loved it, though, so it comes down to taste. I ended up stepping outside halfway through just to give my ears a break. My mates stayed till the end, buzzing, so at least someone had a great time. So for me, it wasn't really about the band — it just wasn't my kind of night.
 
 > 🔁 **复用**：句2 `mates`+`really into`(新13)；句3 `big … venue here in Chengdu, on a weekend`(新13)；句4 `To be fair`+`don't follow`(新13)；句6 `What really put me off`；句7 `for ages`(新23)；句8 `calmer and quieter`(老26)；句10 `not really about X`(新14)+`my kind of`(新03)。
 
@@ -5020,11 +5027,13 @@
 | 7 | 除此之外，它 全 在 一个 屋顶 下——商店、食物、一个 影院、一切。 | On top of that, it's all under one roof — shops, food, a cinema, everything. |
 | 8 | 说实话，它 是 一个 很棒的 逃离，尤其 当 天气 糟糕。 | Honestly, it's a great escape, especially when the weather's bad. |
 | 9 | 它 不 是 那 最 好看 的 楼，但 里面 特别 好玩。 | It's not the prettiest building, but it's brilliant fun inside. |
-| 10 | 所以 对我，它 更少 关于 那 楼 本身、更多 关于 那 一天 出游。 | So for me, it's less about the building itself and more about the day out. |
+| 10 | 上次，我 儿子 在 那 假 海滩上 玩 了 好几个 小时、还 不 想 走。 | Last time, my son spent hours on the fake beach and didn't want to leave. |
+| 11 | 我 老婆 和 我 就 坐 着 喝 咖啡、看 他 玩 得 开心。 | My wife and I just sat with a coffee and watched him have fun. |
+| 12 | 所以 对我，它 更少 关于 那 楼 本身、更多 关于 那 一天 出游。 | So for me, it's less about the building itself and more about the day out. |
 
 ### ②P2 整段（shadow）
 
-> The building I'd like to talk about is the Global Center here in Chengdu, where I live. It's a huge building — one of the biggest in the world, apparently. What really makes it stand out is that it's got an indoor beach inside. There's a giant water park with fake sand, a pool, and even an artificial sun. I go there sometimes with my wife and son on a weekend. My son absolutely loves it — he can run around and splash about. On top of that, it's all under one roof — shops, food, a cinema, everything. Honestly, it's a great escape, especially when the weather's bad. It's not the prettiest building, but it's brilliant fun inside. So for me, it's less about the building itself and more about the day out.
+> The building I'd like to talk about is the Global Center here in Chengdu, where I live. It's a huge building — one of the biggest in the world, apparently. What really makes it stand out is that it's got an indoor beach inside. There's a giant water park with fake sand, a pool, and even an artificial sun. I go there sometimes with my wife and son on a weekend. My son absolutely loves it — he can run around and splash about. On top of that, it's all under one roof — shops, food, a cinema, everything. Honestly, it's a great escape, especially when the weather's bad. It's not the prettiest building, but it's brilliant fun inside. Last time, my son spent hours on the fake beach and didn't want to leave. My wife and I just sat with a coffee and watched him have fun. So for me, it's less about the building itself and more about the day out.
 
 > 🔁 **复用**：句1 `here in Chengdu, where I live`(新01)；句3 `What really makes it stand out is`；句5 `weekend with my wife and son`(新01)；句6 `run around`(老12)；句7 `all under one roof`(老24)；句8 `escape`(老24/老26)；句10 `less about X and more about Y`(老24)。
 
@@ -5948,11 +5957,13 @@
 | 7 | 那些 路 和 楼 一个 摞 在 另一个 上面，所以 你 搞不清 你 在 哪一层。 | The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. |
 | 8 | 说实话，我 完全 沉浸 在 整个 地方 里。 | Honestly, I was completely immersed in the whole place. |
 | 9 | 我 儿子 到处 跑、每一分钟 都 很爱。 | My son ran around loving every minute of it. |
-| 10 | 所以 对我，它 是 一座 真的 留 在 我 心里 的 城市。 | So for me, it's a city that really stuck with me. |
+| 10 | 我们 吃 火锅 吃 到 冒汗，而 我 儿子 一直 笑 它 有 多 辣。 | We ate hotpot till we were sweating, and my son couldn't stop laughing at how spicy it was. |
+| 11 | 说实话，那趟 旅行 是 我 最爱的 家庭 回忆 之一。 | Honestly, that trip is one of my favourite family memories. |
+| 12 | 所以 对我，它 是 一座 真的 留 在 我 心里 的 城市。 | So for me, it's a city that really stuck with me. |
 
 ### ②P2 整段（shadow）
 
-> The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. I went there a couple of years ago on a family trip, with my wife and son. We stayed for about three or four days. We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. At night we saw the riverside old town all lit up — it was stunning. What I really loved was the wild, layered layout. The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. Honestly, I was completely immersed in the whole place. My son ran around loving every minute of it. So for me, it's a city that really stuck with me.
+> The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. I went there a couple of years ago on a family trip, with my wife and son. We stayed for about three or four days. We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. At night we saw the riverside old town all lit up — it was stunning. What I really loved was the wild, layered layout. The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. Honestly, I was completely immersed in the whole place. My son ran around loving every minute of it. We ate hotpot till we were sweating, and my son couldn't stop laughing at how spicy it was. Honestly, that trip is one of my favourite family memories. So for me, it's a city that really stuck with me.
 
 > 🔁 **复用**：句1 `not far from Chengdu, where I live`(新18/新01)；句2 `family trip`(老05)；句5 `stunning`(老25降档)；句8 `completely immersed`(新18)；句9 `ran around`(老12)；句10 `stuck with me`(新18)。
 
