@@ -6,7 +6,8 @@
 |------|------|--------|--------|----|----------------------|
 | 7/12 | Hand knitting (S4) | 4/10 | 10/10* | 8/10 | — |
 | 7/12 | Dodo extinction (S4) | **6/10(新题!)** | — | — | — |
-| 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | — | — | — |
+| 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | 9/10 | — | — |
+> 二遍9/10(4→9)。唯一漏=37 fire,知道答案也没听到=**回溯型(等heated但fire在其前"a fire is built...heated")+弱读**(重音在built,fire连读is)。纯听→认gap,技术补不满=耳朵时间;一section漏1个这种不影响6.5,别追。部分解:锚在"by means of"别等heated/"a fire is built"当连读块跟读。
 > 🟡 **G1 未达标**: 需新P4一遍≥6连两次;dodo=6→maple=4,streak断。**非全面倒退=问题搬家**(开头修好31/32/33全对,尾巴34-40塌)。material更难(Process,技术词密diameter/evaporator)。
 > *二遍看过答案,含记忆成分,不证明技能;真验证=新 P4
 > P1 = Junior Cycle camp,8/10,两错全是结构性(见下),零"写"错(199/190/拼写全对)
