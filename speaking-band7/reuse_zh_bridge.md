@@ -4996,3 +4996,237 @@
 **P3 句型/模板（复用池）**：`All sorts, really` / `whereas` / `a good escape` · `A few things, really` / `make you feel something` / `pulling the audience in` · `a bit of a mixed bag, honestly` · `Not really, no` / `the talent, not the fame` · `To some extent, yeah` / `fit the role` · `A few reasons, really` / `completely immersed` / `nothing beats the cinema experience`。
 
 ---
+
+## P2-老17 · An interesting building — 成都环球中心（室内海滩）（Place）  〔复用生成〕
+
+> **Cue**: 在哪 / 长什么样 / 什么功能 / 为何有趣 · 题型 Place
+>
+> 🔁 **整卡复用自**：新01 IFS(here in Chengdu, where I live/weekend with wife and son/less about X more about Y) + 老24(all under one roof/escape) + 老12(son run around)。环球中心/室内海滩=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那栋 楼 是 成都 这儿 的 环球中心，（我 住的地方）。 | The building I'd like to talk about is the Global Center here in Chengdu, where I live. |
+| 2 | 它 是 一栋 巨大的 楼——据说 世界上 最大的 之一。 | It's a huge building — one of the biggest in the world, apparently. |
+| 3 | 真正 让 它 出众的 是 它 里面 有 一个 室内 海滩。 | What really makes it stand out is that it's got an indoor beach inside. |
+| 4 | 有 一个 巨大的 水上乐园，带 假 沙、一个 池子、甚至 一个 人造 太阳。 | There's a giant water park with fake sand, a pool, and even an artificial sun. |
+| 5 | 我 有时 周末 跟 我 老婆 和 儿子 去 那儿。 | I go there sometimes with my wife and son on a weekend. |
+| 6 | 我 儿子 绝对 爱 它——他 能 到处 跑、还 玩 水。 | My son absolutely loves it — he can run around and splash about. |
+| 7 | 除此之外，它 全 在 一个 屋顶 下——商店、食物、一个 影院、一切。 | On top of that, it's all under one roof — shops, food, a cinema, everything. |
+| 8 | 说实话，它 是 一个 很棒的 逃离，尤其 当 天气 糟糕。 | Honestly, it's a great escape, especially when the weather's bad. |
+| 9 | 它 不 是 那 最 好看 的 楼，但 里面 特别 好玩。 | It's not the prettiest building, but it's brilliant fun inside. |
+| 10 | 所以 对我，它 更少 关于 那 楼 本身、更多 关于 那 一天 出游。 | So for me, it's less about the building itself and more about the day out. |
+
+### ②P2 整段（shadow）
+
+> The building I'd like to talk about is the Global Center here in Chengdu, where I live. It's a huge building — one of the biggest in the world, apparently. What really makes it stand out is that it's got an indoor beach inside. There's a giant water park with fake sand, a pool, and even an artificial sun. I go there sometimes with my wife and son on a weekend. My son absolutely loves it — he can run around and splash about. On top of that, it's all under one roof — shops, food, a cinema, everything. Honestly, it's a great escape, especially when the weather's bad. It's not the prettiest building, but it's brilliant fun inside. So for me, it's less about the building itself and more about the day out.
+
+> 🔁 **复用**：句1 `here in Chengdu, where I live`(新01)；句3 `What really makes it stand out is`；句5 `weekend with my wife and son`(新01)；句6 `run around`(老12)；句7 `all under one roof`(老24)；句8 `escape`(老24/老26)；句10 `less about X and more about Y`(老24)。
+
+### 句型/模板（复用池）
+
+- `The building I'd like to talk about is …, here in Chengdu, where I live` · `What really makes it stand out is that …` · `it's all under one roof — shops, food, a cinema, everything` · `it's a great escape, especially when the weather's bad` · `it's less about the building itself and more about the day out`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What types of buildings are popular in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 高 现代的，我会说。 | Mostly tall modern ones, I'd say. |
+| 2 | 在 大 城市，一切 都 是 玻璃 塔 和 购物中心。 | In big cities, everything's glass towers and shopping malls. |
+| 3 | 而 在 乡下，房子 更 简单、更 矮。 | Whereas in the countryside, houses are simpler and lower. |
+| 4 | 所以 它 归结到 那 空间 和 那 钱。 | So it comes down to the space and the money. |
+
+> Mostly tall modern ones, I'd say. In big cities, everything's glass towers and shopping malls. Whereas in the countryside, houses are simpler and lower. So it comes down to the space and the money.
+
+> 🔁 **复用**：`Mostly … I'd say`+`glass`(新01-Q2)+`whereas`+countryside(新19)+`comes down to`。
+
+**Q2. Is it worth spending a lot of money on the exterior appearance of a building?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一栋 好看的 楼 能 变成 一个 人们 爱 的 地标。 | A good-looking building can become a landmark people love. |
+| 3 | 而 只 在 外观 上 花 太多 有点 浪费。 | Whereas spending too much on looks alone is a bit of a waste. |
+| 4 | 所以 它 归结到 一个 明智的 平衡。 | So it comes down to a sensible balance. |
+
+> To some extent, yeah. A good-looking building can become a landmark people love. Whereas spending too much on looks alone is a bit of a waste. So it comes down to a sensible balance.
+
+> 🔁 **复用**：`To some extent, yeah`+landmark(新01)+`whereas`+`a waste`(老20)+`comes down to`。
+
+**Q3. Is it more important for a building to look good on the outside or on the inside?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 里面，我会说。 | Inside, I'd say. |
+| 2 | 你 在 里面 待 时间，所以 舒适 最 要紧。 | You spend your time inside, so comfort matters most. |
+| 3 | 而 那 外面 真的 只是 第一 印象。 | Whereas the outside is really just the first impression. |
+| 4 | 所以 它 归结到 它 实际 上 对 人 怎么 好用。 | So it comes down to how it actually works for people. |
+
+> Inside, I'd say. You spend your time inside, so comfort matters most. Whereas the outside is really just the first impression. So it comes down to how it actually works for people.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`comes down to`。
+
+**Q4. Why do people like to visit historical sites?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 老 建筑 讲 一个 故事、还 把 你 跟 过去 连 起来。 | Old buildings tell a story and connect you with the past. |
+| 3 | 亲身 看 它们 有 一种 温暖、（那种 你 在 网上 得不到 的）。 | Seeing them in person has a warmth you can't get online. |
+| 4 | 所以 说实话，没 什么 比得过 真 东西。 | So honestly, nothing beats the real thing. |
+
+> A few reasons, really. Old buildings tell a story and connect you with the past. Seeing them in person has a warmth you can't get online. So honestly, nothing beats the real thing.
+
+> 🔁 **复用**：`A few reasons, really`+`connect … with the past`(老11-Q6)+`a warmth you can't get online`(新07-Q4)+`nothing beats`(新07)。
+
+**Q5. Do you think it's reasonable to charge an entry fee for visiting interesting buildings?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 那 钱 帮 让 那 地方 保持 维护，（那 公平）。 | The money helps keep the place maintained, which is fair. |
+| 3 | 而 真的 重要的 遗址 该 对 每个人 免费。 | Whereas really important sites should be free for everyone. |
+| 4 | 所以 它 归结到 一个 平衡。 | So it comes down to a balance. |
+
+> To some extent, yeah. The money helps keep the place maintained, which is fair. Whereas really important sites should be free for everyone. So it comes down to a balance.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`free … everyone`(老07-Q4)+`comes down to a balance`。
+
+**Q6. Is it better to live in a new building or an old one?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 新 楼 舒服、还 什么 都 在 一个 屋顶 下，而 老 的 更 有 个性。 | New buildings are comfortable and have everything under one roof, whereas old ones have more character. |
+| 3 | 对 我 来说，我 会 选 一个 新的，为 那 便捷。 | For me, I'd go for a new one, for the convenience. |
+| 4 | 所以 它 归结到 你 看重 什么。 | So it comes down to what you value. |
+
+> It's a bit of a mixed bag, honestly. New buildings are comfortable and have everything under one roof, whereas old ones have more character. For me, I'd go for a new one, for the convenience. So it comes down to what you value.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`all under one roof`(老24)+`character`(老25-Q5)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Mostly tall modern ones, I'd say` / `whereas` · `To some extent, yeah` / `a bit of a waste` / `a sensible balance` · `Inside, I'd say` / `the first impression` · `A few reasons, really` / `connect you with the past` / `nothing beats the real thing` · `To some extent, yeah` / `free for everyone` · `a bit of a mixed bag, honestly` / `more character`。
+
+---
+
+## P2-老18 · A time you needed to use your imagination — 陪 Muye 搭乐高（Event）  〔复用生成〕
+
+> **Cue**: 何时 / 为何需要想象力 / 难还是易 / 感受 · 题型 Event
+>
+> 🔁 **整卡复用自**：son/Muye + 老05(on weekends/design a model together) + 老07/新14(dinosaur/obsessed) + 老11/老05(sit right next to each other) + 新16(What made it… was) + 新14(over the moon / not really about X, it's about Y)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 儿子 Muye 和 我 用 乐高 搭 一个 东西。 | The time I'd like to talk about is when my son Muye and I built something with Lego. |
+| 2 | 他 五岁，而 他 绝对 爱 搭 东西。 | He's five, and he absolutely loves building things. |
+| 3 | 一个 周末，我们 没 照 说明书——我们 决定 发明 我们 自己的 模型。 | One weekend, we didn't follow the instructions — we decided to invent our own model. |
+| 4 | 让 它 棘手的 是 我们 没有 计划，就 一 盒 乱七八糟的 积木。 | What made it tricky was that we had no plan, just a box of random bricks. |
+| 5 | 所以 我们 得 真的 用 我们的 想象力、还 边 做 边 想 出来。 | So we had to really use our imagination and figure it out as we went. |
+| 6 | Muye 想 搭 一只 恐龙，当然——他 对 它们 着魔。 | Muye wanted to build a dinosaur, of course — he's obsessed with them. |
+| 7 | 我们 坐 在 彼此 旁边、试 了 不同的 想法。 | We sat right next to each other and tried out different ideas. |
+| 8 | 说实话，它 比 照 步骤 更 难，但 好玩 太多。 | Honestly, it was harder than following the steps, but way more fun. |
+| 9 | 最后，我们的 恐龙 看起来 有点 怪，但 他 高兴 坏了。 | In the end, our dinosaur looked a bit odd, but he was over the moon. |
+| 10 | 所以 对我，它 不 关于 那 乐高——它 关于 一起 创造 一个 东西。 | So for me, it wasn't about the Lego — it was about creating something together. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when my son Muye and I built something with Lego. He's five, and he absolutely loves building things. One weekend, we didn't follow the instructions — we decided to invent our own model. What made it tricky was that we had no plan, just a box of random bricks. So we had to really use our imagination and figure it out as we went. Muye wanted to build a dinosaur, of course — he's obsessed with them. We sat right next to each other and tried out different ideas. Honestly, it was harder than following the steps, but way more fun. In the end, our dinosaur looked a bit odd, but he was over the moon. So for me, it wasn't about the Lego — it was about creating something together.
+
+> 🔁 **复用**：句2 `absolutely loves`(新05/老07)；句3 `One weekend … model`(老05)；句4 `What made it tricky was`(新16)；句6 `dinosaur … obsessed`(老07/新14)；句7 `sat right next to each other`(老11/老05)；句9 `over the moon`(新14)；句10 `not really about X — it's about Y`+`together`(老05)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when my son Muye and I built something with Lego` · `What made it tricky was that we had no plan` · `we had to really use our imagination and figure it out as we went` · `We sat right next to each other and tried out different ideas` · `it wasn't about the Lego — it was about creating something together`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you think adults can have lots of imagination?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 大人 一直 在 想象——在 工作上、规划、解决 问题。 | Adults imagine all the time — at work, planning, solving problems. |
+| 3 | 而 他们 表现 得 更 少，因为 生活 变 忙。 | Whereas they show it less, because life gets busy. |
+| 4 | 所以 它 归结到 他们 还 有没有 给 它 留 时间。 | So it comes down to whether they still make time for it. |
+
+> Absolutely, I think so. Adults imagine all the time — at work, planning, solving problems. Whereas they show it less, because life gets busy. So it comes down to whether they still make time for it.
+
+> 🔁 **复用**：`Absolutely, I think so`+`planning, solving problems`(新16)+`whereas`+`life gets busy`(新10-Q1)+`comes down to`。
+
+**Q2. Do you think imagination is essential for scientists?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Absolutely, yeah. |
+| 2 | 每 一个 大 发现 都 从 某人 想象 一个 新 东西 开始。 | Every big discovery starts with someone imagining something new. |
+| 3 | 我 是 一个 工程师，所以 我 知道 你 需要 想象力 [去]解决 棘手的 问题。 | I'm an engineer, so I know you need imagination to solve tricky problems. |
+| 4 | 所以 它 归结到 在 你 建 之前 先 想象。 | So it comes down to imagining before you build. |
+
+> Absolutely, yeah. Every big discovery starts with someone imagining something new. I'm an engineer, so I know you need imagination to solve tricky problems. So it comes down to imagining before you build.
+
+> 🔁 **复用**：`Absolutely, yeah`+`I'm an engineer`(新16)+`solve tricky problems`(新16/新21)+`comes down to`。
+
+**Q3. What kinds of jobs need imagination?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，真的。 | Loads, really. |
+| 2 | 显然 艺术家 和 设计师，但 工程师 和 老师 也 是。 | Obviously artists and designers, but engineers and teachers too. |
+| 3 | 而 甚至 一个 普通 工作 也 需要 它 [去]解决 日常 问题。 | Whereas even a normal job needs it to solve everyday problems. |
+| 4 | 所以 它 归结到 比 你 想的 更 多 工作。 | So it comes down to more jobs than you'd think. |
+
+> Loads, really. Obviously artists and designers, but engineers and teachers too. Whereas even a normal job needs it to solve everyday problems. So it comes down to more jobs than you'd think.
+
+> 🔁 **复用**：`Loads, really`+`whereas`+`comes down to`。
+
+**Q4. What subjects are helpful for children's imagination?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 显然 艺术 和 写作，但 科学 也 是——它 让 你 好奇 东西 怎么 运作。 | Art and writing obviously, but science too — it makes you wonder how things work. |
+| 3 | 而 太多 死记 硬背 扼杀 它。 | Whereas too much rote learning kills it. |
+| 4 | 所以 它 归结到 让 孩子 探索。 | So it comes down to letting kids explore. |
+
+> A few, really. Art and writing obviously, but science too — it makes you wonder how things work. Whereas too much rote learning kills it. So it comes down to letting kids explore.
+
+> 🔁 **复用**：`A few, really`+`how things work`(新16)+`whereas`+`comes down to`。
+
+**Q5. What games help develop children's imagination?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 搭建 游戏、像 乐高 很棒——我 儿子 发明 他 自己的 模型。 | Building games like Lego are brilliant — my son invents his own models. |
+| 3 | 而 开放式 的 玩、像 假装，也 管用。 | Whereas open-ended play, like pretending, works too. |
+| 4 | 所以 它 归结到 没有 固定 规则 的 游戏。 | So it comes down to games with no fixed rules. |
+
+> Loads, honestly. Building games like Lego are brilliant — my son invents his own models. Whereas open-ended play, like pretending, works too. So it comes down to games with no fixed rules.
+
+> 🔁 **复用**：`Loads, honestly`+son/Lego+`whereas`+`comes down to`。
+
+**Q6. How important is imagination to children?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 极其 重要，我会说。 | Hugely important, I'd say. |
+| 2 | 它 是 他们 怎么 学习、玩、还 理解 这 世界 的 方式。 | It's how they learn, play, and make sense of the world. |
+| 3 | 而 没有 它，一切 都 只是 死记。 | Whereas without it, everything's just memorising. |
+| 4 | 所以 它 归结到 让 他们 保持 好奇。 | So it comes down to letting them stay curious. |
+
+> Hugely important, I'd say. It's how they learn, play, and make sense of the world. Whereas without it, everything's just memorising. So it comes down to letting them stay curious.
+
+> 🔁 **复用**：`Hugely important, I'd say`(新07-Q2)+`whereas`+`stay curious`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `planning, solving problems` / `life gets busy` · `Absolutely, yeah` / `I'm an engineer` / `solve tricky problems` · `Loads, really` / `whereas` · `A few, really` / `how things work` · `Loads, honestly` / `Lego` · `Hugely important, I'd say` / `stay curious`。
+
+---
