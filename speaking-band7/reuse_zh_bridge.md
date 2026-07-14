@@ -4762,3 +4762,237 @@
 **P3 句型/模板（复用池）**：`Absolutely, I think so` / `keep up or you fall behind` / `stuck in their ways` · `hands-on` / `talks at you / switch off` · `To some extent, yeah` / `a lot on their plate` · `a bit of a mixed bag, honestly` / `a mix of both` · `money well spent` / `investing in your people` · `Absolutely, yeah` / `my parents … apps` / `never being too old to learn`。
 
 ---
+
+## P2-老15 · An event where you didn't enjoy the music — 太吵的现场演出（Event）  〔复用生成〕
+
+> **Cue**: 是什么 / 和谁去 / 为何去 / 为何不享受 · 题型 Event
+>
+> 🔁 **整卡复用自**：新13(mates/big arena Chengdu/don't follow closely) + 老26(quiet/hustle) + 新23(for ages) + 新14(not really about X) + 新03(not really my thing)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 活动 是 一场 我 去 的 现场 演唱会，（它 就是 太 吵）。 | The event I'd like to talk about is a live concert I went to that was just too loud. |
+| 2 | 我 跟 几个 哥们儿 去，大多 因为 他们 真的 很 迷 那个 乐队。 | I went with a couple of mates, mostly because they were really into the band. |
+| 3 | 它 在 成都 这儿 一个 大 室内 场馆，一个 周末。 | It was at a big indoor venue here in Chengdu, on a weekend. |
+| 4 | 说句公道话，我 不 追 那种 音乐，所以 我 对 它 没底。 | To be fair, I don't follow that kind of music, so I wasn't sure about it. |
+| 5 | 那 问题 是 那 声音 太 吵，我 连 自己 想 什么 都 听不见。 | The problem was that the sound was so loud I couldn't hear myself think. |
+| 6 | 真正 让 我 反感 的 是 一切 都 糊 成 一片 噪音。 | What really put me off was that everything just blurred into noise. |
+| 7 | 我 的 耳朵 事后 嗡嗡 响 了 老半天。 | My ears were ringing for ages afterwards. |
+| 8 | 说实话，我 会 更 喜欢 某个 更 平静、更 安静 的 东西。 | Honestly, I'd have preferred something calmer and quieter. |
+| 9 | 不过 我 哥们儿 很爱 它，所以 它 归结到 口味。 | My mates loved it, though, so it comes down to taste. |
+| 10 | 所以 对我，它 不 真的 关于 那 乐队——它 就 不 是 我 那 类型 的 夜晚。 | So for me, it wasn't really about the band — it just wasn't my kind of night. |
+
+### ②P2 整段（shadow）
+
+> The event I'd like to talk about is a live concert I went to that was just too loud. I went with a couple of mates, mostly because they were really into the band. It was at a big indoor venue here in Chengdu, on a weekend. To be fair, I don't follow that kind of music, so I wasn't sure about it. The problem was that the sound was so loud I couldn't hear myself think. What really put me off was that everything just blurred into noise. My ears were ringing for ages afterwards. Honestly, I'd have preferred something calmer and quieter. My mates loved it, though, so it comes down to taste. So for me, it wasn't really about the band — it just wasn't my kind of night.
+
+> 🔁 **复用**：句2 `mates`+`really into`(新13)；句3 `big … venue here in Chengdu, on a weekend`(新13)；句4 `To be fair`+`don't follow`(新13)；句6 `What really put me off`；句7 `for ages`(新23)；句8 `calmer and quieter`(老26)；句10 `not really about X`(新14)+`my kind of`(新03)。
+
+### 句型/模板（复用池）
+
+- `The event I'd like to talk about is a live concert … that was just too loud` · `I don't follow that kind of music, so I wasn't sure about it` · `What really put me off was that everything just blurred into noise` · `it comes down to taste` · `it wasn't really about the band — it just wasn't my kind of night`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What kind of music events do people like today?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 大 现场 演唱会 巨大，尤其 对 年轻人。 | Big live concerts are huge, especially for young people. |
+| 3 | 而 老年人 更喜欢 更 安静的 东西，比如 一个 小 演出。 | Whereas older folk prefer quieter things, like a small show. |
+| 4 | 所以 它 归结到 那 人群 和 那 氛围。 | So it comes down to the crowd and the vibe. |
+
+> All sorts, really. Big live concerts are huge, especially for young people. Whereas older folk prefer quieter things, like a small show. So it comes down to the crowd and the vibe.
+
+> 🔁 **复用**：`All sorts, really`+`whereas older folk`+`comes down to`。
+
+**Q2. Do you think children should receive some musical education?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 教 他们 耐心、还 给 他们 一个 创造性 的 出口。 | It teaches them patience and gives them a creative outlet. |
+| 3 | 此外，学 一个 乐器 对 大脑 真的 很 好。 | Plus, learning an instrument is really good for the brain. |
+| 4 | 所以 它 是 一个 真的 很 有用的 东西 [去]早早 学。 | So it's a really useful thing to pick up early. |
+
+> Absolutely, I think so. It teaches them patience and gives them a creative outlet. Plus, learning an instrument is really good for the brain. So it's a really useful thing to pick up early.
+
+> 🔁 **复用**：`Absolutely, I think so`+`patience`(新05)+`Plus`+`good for the …`(新05-Q1)+`pick up early`(新11-Q3)。
+
+**Q3. What are the differences between old and young people's music preferences?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 年轻人 去 听 快、吵 的 流行 乐，而 老年人 更喜欢 更 慢、经典的 东西。 | Young people go for fast, loud pop, whereas older folk prefer slower, classic stuff. |
+| 3 | 它 归结到 他们 是 伴随 什么 长大的。 | It comes down to what they grew up with. |
+| 4 | 但 每个人 都 享受 一首 好 曲子，说句公道话。 | But everyone enjoys a good tune, to be fair. |
+
+> Quite a few, actually. Young people go for fast, loud pop, whereas older folk prefer slower, classic stuff. It comes down to what they grew up with. But everyone enjoys a good tune, to be fair.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas older folk`+`comes down to what they grew up with`(老08-Q1)+`to be fair`。
+
+**Q4. What kind of music events are there in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，真的。 | Loads, really. |
+| 2 | 有 大 流行 演唱会、传统 演出、和 音乐节。 | There are big pop concerts, traditional shows, and festivals. |
+| 3 | 除此之外，酒吧 里 的 小 现场 演出 也 受欢迎。 | On top of that, small live gigs in bars are popular too. |
+| 4 | 所以 有 适合 每个人 的 东西。 | So there's something for everyone. |
+
+> Loads, really. There are big pop concerts, traditional shows, and festivals. On top of that, small live gigs in bars are popular too. So there's something for everyone.
+
+> 🔁 **复用**：`Loads, really`+`gigs`(新18-Q1)+`On top of that`+`something for everyone`(新13-Q6)。
+
+**Q5. Why do many people like listening to music while doing sports?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 它 让 他们 坚持 下去，我会说。 | Mainly because it keeps them going, I'd say. |
+| 2 | 一个 好 节拍 给 你 能量、还 让 你的 脑子 从 累 上 挪开。 | A good beat gives you energy and takes your mind off being tired. |
+| 3 | 而 没有 它，一次 锻炼 会 感觉 沉闷。 | Whereas without it, a workout can feel dull. |
+| 4 | 所以 它 归结到 保持 有动力。 | So it comes down to staying motivated. |
+
+> Mainly because it keeps them going, I'd say. A good beat gives you energy and takes your mind off being tired. Whereas without it, a workout can feel dull. So it comes down to staying motivated.
+
+> 🔁 **复用**：`Mainly … I'd say`+`takes your mind off`(新05-Q4)+`whereas`+`dull`(新07-Q1)+`comes down to`。
+
+**Q6. What are the differences between listening to music at home and at a live concert?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一个 大 的，真的。 | A big one, really. |
+| 2 | 在家 它 放松、你 掌控 一切，而 一场 演唱会 有 真正的 能量。 | At home it's relaxed and you control everything, whereas a concert has real energy. |
+| 3 | 但 没 什么 比得过 亲身 在 那儿 的 氛围。 | But nothing beats the atmosphere of being there in person. |
+| 4 | 所以 它 归结到 你 追求 什么。 | So it comes down to what you're after. |
+
+> A big one, really. At home it's relaxed and you control everything, whereas a concert has real energy. But nothing beats the atmosphere of being there in person. So it comes down to what you're after.
+
+> 🔁 **复用**：`A big one, really`(新21-Q4)+`whereas`+`energy`(新13)+`nothing beats … in person`(新07/新13)+`what you're after`(新18-Q1)。
+
+**P3 句型/模板（复用池）**：`All sorts, really` / `whereas older folk` / `the crowd and the vibe` · `Absolutely, I think so` / `pick up early` · `Quite a few, actually` / `comes down to what they grew up with` · `Loads, really` / `gigs` / `something for everyone` · `Mainly … I'd say` / `takes your mind off` / `dull` · `A big one, really` / `nothing beats … in person` / `what you're after`。
+
+---
+
+## P2-老16 · A movie you watched and enjoyed recently — 科幻片（Object）  〔复用生成〕
+
+> **Cue**: 何时何地看 / 和谁看 / 讲什么 / 为何看 · 题型 Object
+>
+> 🔁 **整卡复用自**：新02(really into sci-fi/catches my eye/complex into something you feel/hooked in one go/stuck with me) + 新16(I'm a software engineer) + wife/son + 新23(for ages)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那部 电影 是 一部 科幻 片、（我 最近 在家 看的）。 | The film I'd like to talk about is a sci-fi movie I watched recently at home. |
+| 2 | 我 真的 很 迷 科幻，所以 任何 关于 太空 的 东西 抓住 我的 眼球。 | I'm really into sci-fi, so anything about space catches my eye. |
+| 3 | 我 一个 晚上 跟 我 老婆 看 它，在 我们 儿子 睡 了 之后。 | I watched it one evening with my wife, after our son went to bed. |
+| 4 | 它 关于 一群 宇航员 试图 拯救 地球。 | It was about a group of astronauts trying to save Earth. |
+| 5 | 真正 让 它 出众的 是 它 怎么 把 复杂的 科学 变成 一个 你 能 感受到 的 东西。 | What really makes it stand out is how it turns complex science into something you feel. |
+| 6 | 我 是 一个 软件 工程师，所以 我 爱 他们 怎么 想 透 了 每 一个 细节。 | I'm a software engineer, so I love how they thought through every detail. |
+| 7 | 我 完全 上瘾——我们 一口气 看 完 了 整个。 | I was completely hooked — we watched the whole thing in one go. |
+| 8 | 说实话，它 事后 真的 留 在 我 心里。 | Honestly, it really stuck with me afterwards. |
+| 9 | 我 老婆 也 很爱 它，而 我们 聊 它 聊 了 老半天。 | My wife loved it too, and we talked about it for ages. |
+| 10 | 所以 对我，它 是 那种 好玩 但 也 让 你 思考 的 电影 之一。 | So for me, it's one of those films that's fun but also makes you think. |
+
+### ②P2 整段（shadow）
+
+> The film I'd like to talk about is a sci-fi movie I watched recently at home. I'm really into sci-fi, so anything about space catches my eye. I watched it one evening with my wife, after our son went to bed. It was about a group of astronauts trying to save Earth. What really makes it stand out is how it turns complex science into something you feel. I'm a software engineer, so I love how they thought through every detail. I was completely hooked — we watched the whole thing in one go. Honestly, it really stuck with me afterwards. My wife loved it too, and we talked about it for ages. So for me, it's one of those films that's fun but also makes you think.
+
+> 🔁 **复用**：句2 `really into sci-fi … catches my eye`(新02 逐字)；句5 `turns complex science into something you feel`(新02)；句6 `I'm a software engineer`(新16)；句7 `hooked … in one go`(新02)；句8 `stuck with me`(新18/新02)；句9 `for ages`(新23)。
+
+### 句型/模板（复用池）
+
+- `The film I'd like to talk about is a sci-fi movie I watched recently at home` · `anything about space catches my eye` · `What really makes it stand out is how it turns complex science into something you feel` · `I was completely hooked — we watched the whole thing in one go` · `one of those films that's fun but also makes you think`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What kinds of movies do you think are successful in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 大 动作 和 科幻 片 表现 很好，而 喜剧 也 一直 受欢迎。 | Big action and sci-fi films do really well, whereas comedies are always popular too. |
+| 3 | 它 归结到 无论 什么 给 人们 一个 好 逃离。 | It comes down to whatever gives people a good escape. |
+| 4 | 所以 有 一点 各种，说句公道话。 | So there's a bit of everything, to be fair. |
+
+> All sorts, really. Big action and sci-fi films do really well, whereas comedies are always popular too. It comes down to whatever gives people a good escape. So there's a bit of everything, to be fair.
+
+> 🔁 **复用**：`All sorts, really`+`whereas`+`escape`(老24)+`to be fair`。
+
+**Q2. What are the factors that make a successful movie?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 一个 好 故事 最 要紧，但 那些 特效 和 演技 也 一样。 | A good story matters most, but so do the effects and acting. |
+| 3 | 除此之外，它 得 让 你 感受 到 什么。 | On top of that, it has to make you feel something. |
+| 4 | 所以 它 归结到 把 观众 卷 进去。 | So it comes down to pulling the audience in. |
+
+> A few things, really. A good story matters most, but so do the effects and acting. On top of that, it has to make you feel something. So it comes down to pulling the audience in.
+
+> 🔁 **复用**：`A few things, really`+`On top of that`+`feel something`(老02-P3)+`comes down to`。
+
+**Q3. Do Chinese people prefer to watch domestic movies or foreign movies?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 本土 片 受欢迎，因为 人们 能 共鸣，而 外国 片 带来 新 东西。 | Home-grown films are popular because people relate to them, whereas foreign ones bring something new. |
+| 3 | 流媒体 现在 让 外国 片 真的 容易 看。 | Streaming's made foreign films really easy to watch now. |
+| 4 | 所以 它 归结到 你 什么 心情。 | So it comes down to what mood you're in. |
+
+> It's a bit of a mixed bag, honestly. Home-grown films are popular because people relate to them, whereas foreign ones bring something new. Streaming's made foreign films really easy to watch now. So it comes down to what mood you're in.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to`。
+
+**Q4. Do you think only well-known directors can create the best movies?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 有名的 导演 有 经验，但 一大堆 新人 拍 出 很棒的 片。 | Famous directors have experience, but plenty of newcomers make brilliant films. |
+| 3 | 而 一个 大 名头 不 保证 一个 好 故事。 | Whereas a big name doesn't guarantee a good story. |
+| 4 | 所以 它 归结到 那 才华，不是 那 名气。 | So it comes down to the talent, not the fame. |
+
+> Not really, no. Famous directors have experience, but plenty of newcomers make brilliant films. Whereas a big name doesn't guarantee a good story. So it comes down to the talent, not the fame.
+
+> 🔁 **复用**：`Not really, no`+`whereas`+`talent`(老02)+`comes down to`。
+
+**Q5. Do you think successful movies should have well-known actors or actresses in leading roles?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一个 大 明星 拉 来 一 群 人，所以 那 片 卖 得 更好。 | A big star draws a crowd, so the film sells better. |
+| 3 | 而 一个 很棒的 无名 演员 能 一样 好。 | Whereas a great unknown actor can be just as good. |
+| 4 | 所以 它 归结到 他们 合不合 那 角色。 | So it comes down to whether they fit the role. |
+
+> To some extent, yeah. A big star draws a crowd, so the film sells better. Whereas a great unknown actor can be just as good. So it comes down to whether they fit the role.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+
+**Q6. Why do people prefer to watch movies in the cinema?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 那 大 屏幕 和 音效 把 你 卷 进去——你 完全 沉浸。 | The big screen and sound pull you in — you get completely immersed. |
+| 3 | 而 在家 总是 有 干扰。 | Whereas at home there are always distractions. |
+| 4 | 所以 说实话，没 什么 比得过 那 影院 体验。 | So honestly, nothing beats the cinema experience. |
+
+> A few reasons, really. The big screen and sound pull you in — you get completely immersed. Whereas at home there are always distractions. So honestly, nothing beats the cinema experience.
+
+> 🔁 **复用**：`A few reasons, really`+`completely immersed`(新18)+`whereas`+`nothing beats`(新07)。
+
+**P3 句型/模板（复用池）**：`All sorts, really` / `whereas` / `a good escape` · `A few things, really` / `make you feel something` / `pulling the audience in` · `a bit of a mixed bag, honestly` · `Not really, no` / `the talent, not the fame` · `To some extent, yeah` / `fit the role` · `A few reasons, really` / `completely immersed` / `nothing beats the cinema experience`。
+
+---
