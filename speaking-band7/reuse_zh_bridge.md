@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡已出 4/41：老06·新01·新02·新03。续推 新04→老27 + 搬入 13 张你的版。
+> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡已出 7/41：老06·新01·新02·新03·新04·新05·新06。续推 新07(你的版)→老27 + 搬入 13 张你的版。
 
 ---
 
@@ -411,6 +411,357 @@
 > 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`scroll`(老08)+`comes down to`。
 
 **P3 句型/模板（复用池）**：`Mainly because …, I'd say` / `whereas` / `comes down to how it's taught` · `been there before` · `Loads of things, really` / `a quick laugh` / `kill the time` · `keeps everyone involved` / `hands-on` · `on the same wavelength` / `a bit dull` / `find common ground` · `a bit of a mixed bag, honestly` / `not really my thing`。
+
+---
+
+## P2-新04 · A time you got up early — 陪老婆晨跑（Event）  〔复用生成〕
+
+> **Cue**: 何时 / 做了啥 / 为何早起 / 感受 · 题型 Event
+>
+> 🔁 **整卡复用自**：老婆persona(really into/sets a great example) + 新16(It was about a year ago) + 老26(no traffic, just birds/river) + 老05(worth it) + 新15(chips away every single day)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 起 得 很早 [去]跟 我 老婆 跑步。 | The time I'd like to talk about is when I got up really early to go for a run with my wife. |
+| 2 | 那 大约 是 一年前，一个 夏天 的 早晨。 | It was about a year ago, on a summer morning. |
+| 3 | 我 老婆 真的 很 迷 健身，而 她 总是 想 让 我 也 动 起来。 | My wife's really into fitness, and she's always trying to get me moving too. |
+| 4 | 那天 她 五点 就 叫醒 我，太阳 都 还 没 升 起来。 | That day she woke me up at five, before the sun was even up. |
+| 5 | 说实话，我 不 是 一个 早起的人，所以 把 自己 拖 下床 很 难。 | Honestly, I'm not a morning person, so dragging myself out of bed was tough. |
+| 6 | 但 一旦 我们 出 了 门，它 完全 值得。 | But once we got outside, it was completely worth it. |
+| 7 | 我们 沿着 我们家 附近 一条 河 跑，而 它 那么 安静——没 车流，只有 鸟。 | We ran along the river near our place, and it was so quiet — no traffic, just birds. |
+| 8 | 真正 让 它 特别的 是 有 那段 时间 在 一起，就 我们 俩。 | What really made it special was having that time together, just the two of us. |
+| 9 | 之后 我们 抓 了 早饭，而 我 感觉 一整天 都 清醒。 | Afterwards we grabbed breakfast, and I felt awake for the whole day. |
+| 10 | 所以 现在 我 尽量 更 常 早起——她 说实话 给 我 树立 了 一个 好 榜样。 | So now I try to get up early more often — she's honestly set a good example for me. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I got up really early to go for a run with my wife. It was about a year ago, on a summer morning. My wife's really into fitness, and she's always trying to get me moving too. That day she woke me up at five, before the sun was even up. Honestly, I'm not a morning person, so dragging myself out of bed was tough. But once we got outside, it was completely worth it. We ran along the river near our place, and it was so quiet — no traffic, just birds. What really made it special was having that time together, just the two of us. Afterwards we grabbed breakfast, and I felt awake for the whole day. So now I try to get up early more often — she's honestly set a good example for me.
+
+> 🔁 **复用**：句2 `It was about a year ago`(新16)；句3 `really into fitness`+wife；句6 `completely worth it`(老05/老20)；句7 `no traffic, just birds`+river(老26/新18)；句8 `What really made it special was`；句10 `set a good example`(新15)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I …` · `It was about a year ago` · `it was completely worth it` · `What really made it special was …` · `she's set a good example for me`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you know anyone who likes to get up early?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，我 老婆，绝对。 | Yeah, my wife, definitely. |
+| 2 | 她 真的 很 迷 健身，所以 她 天 一亮 就 起来 锻炼。 | She's really into fitness, so she's up at the crack of dawn to exercise. |
+| 3 | 而 我 宁愿 睡懒觉，说实话。 | Whereas I'd much rather sleep in, to be honest. |
+| 4 | 所以 她 树立 了 一个 好 榜样，即使 我 不 总是 跟着。 | So she sets a good example, even if I don't always follow it. |
+
+> Yeah, my wife, definitely. She's really into fitness, so she's up at the crack of dawn to exercise. Whereas I'd much rather sleep in, to be honest. So she sets a good example, even if I don't always follow it.
+
+> 🔁 **复用**：`really into fitness`+`whereas`+`to be honest`+`sets a good example`(新15)。
+
+**Q2. Why do people get up early?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 原因，真的。 | Loads of reasons, really. |
+| 2 | 有些人 早起 为了 工作 或 避开 车流，而 另一些 只是 喜欢 那 安静。 | Some get up early for work or to beat the traffic, whereas others just like the quiet. |
+| 3 | 除此之外，早晨 是 你 脑子 最 清醒的时候，所以 它 适合 把 事情 做完。 | On top of that, the morning's when your mind is freshest, so it's good for getting things done. |
+| 4 | 所以 它 归结到 你 想 从 这天 得到 什么。 | So it comes down to what you want out of the day. |
+
+> Loads of reasons, really. Some get up early for work or to beat the traffic, whereas others just like the quiet. On top of that, the morning's when your mind is freshest, so it's good for getting things done. So it comes down to what you want out of the day.
+
+> 🔁 **复用**：`Loads…really`+`whereas`+`On top of that`+`comes down to`。
+
+**Q3. What kinds of occasions need people to arrive early?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 像 赶 飞机、一个 面试、或 一场 考试——那些 你 不能 迟到。 | Things like catching a flight, a job interview, or an exam — you can't be late for those. |
+| 3 | 早 到 给 你 一个 缓冲、如果 某个 东西 出 问题。 | Arriving early gives you a buffer if something goes wrong. |
+| 4 | 所以 对 任何 重要的 东西，我 会 总是 提前 搞定 它。 | So for anything important, I'd always sort it out in advance. |
+
+> Quite a few, actually. Things like catching a flight, a job interview, or an exam — you can't be late for those. Arriving early gives you a buffer if something goes wrong. So for anything important, I'd always sort it out in advance.
+
+> 🔁 **复用**：`Quite a few, actually`+`a buffer…when something goes wrong`(老20-Q3 cushion)+`sort it out in advance`(新18-Q4)。
+
+**Q4. Why do some people like to stay up late?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 那 是 他们 得到的 唯一 安静 时间，我会说。 | Mainly because it's the only quiet time they get, I'd say. |
+| 2 | 在 漫长的 一天 后，深夜 是 那 房子 终于 平静的时候。 | After a long day, late at night is when the house is finally calm. |
+| 3 | 有些人 也 就是 在 晚上 更 专注，而 早晨 感觉 匆忙。 | Some people also just focus better at night, whereas mornings feel rushed. |
+| 4 | 所以 它 真的 归结到 你 什么时候 感觉 最 像 自己。 | So it really comes down to when you feel most yourself. |
+
+> Mainly because it's the only quiet time they get, I'd say. After a long day, late at night is when the house is finally calm. Some people also just focus better at night, whereas mornings feel rushed. So it really comes down to when you feel most yourself.
+
+> 🔁 **复用**：`Mainly…I'd say`+`After a long day`(新07-Q1)+`whereas`+`comes down to`。
+
+**Q5. Is it good to arrive early in any situation?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 对 重要的 事，是的，早 到 很 明智。 | For important stuff, yeah, being early is smart. |
+| 3 | 但 太 早 出现 在 一个 随意的 场合、像 一个 派对，会 尴尬——那 主人 还 没 准备好。 | But turning up too early to a casual thing, like a party, can be awkward — the host isn't ready. |
+| 4 | 所以 它 归结到 读懂 那 场合。 | So it comes down to reading the situation. |
+
+> Not really, no. For important stuff, yeah, being early is smart. But turning up too early to a casual thing, like a party, can be awkward — the host isn't ready. So it comes down to reading the situation.
+
+> 🔁 **复用**：`Not really, no`+`awkward`(新23)+`comes down to`。
+
+**Q6. What kind of people like getting up early?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 自律的 类型，我会说。 | Mainly disciplined types, I'd say. |
+| 2 | 真的 很 迷 健身 或 有 一份 忙碌 工作 的人 倾向于 早起。 | People who are really into fitness or have a busy job tend to be early risers. |
+| 3 | 我 老婆 是 一个 好 例子——她 每一天 早晨 都 啃 掉 一点点 锻炼。 | My wife's a good example — she chips away at her exercise every single morning. |
+| 4 | 而 像 我 这样的人 需要 一个 好 理由 才 起床。 | Whereas people like me need a good reason to get up. |
+
+> Mainly disciplined types, I'd say. People who are really into fitness or have a busy job tend to be early risers. My wife's a good example — she chips away at her exercise every single morning. Whereas people like me need a good reason to get up.
+
+> 🔁 **复用**：`Mainly…I'd say`+`really into fitness`+`chips away…every single`(新15)+`whereas`。
+
+**P3 句型/模板（复用池）**：`really into fitness` / `sets a good example` · `Loads of reasons, really` / `whereas` / `comes down to what you want out of the day` · `a buffer if something goes wrong` / `sort it out in advance` · `After a long day` · `Not really, no` / `awkward` · `chips away … every single morning`。
+
+---
+
+## P2-新05 · A person who loves growing plants — 外公（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 种什么 / 怎么种 / 为何爱 · 题型 Person
+>
+> 🔁 **整卡复用自**：老11 外公persona(raised me/brings back memories/one day pass down) + 新15(chips away every single day) + 新14(not really about X, it's about Y) + 新16(how things work)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 外公，（他 绝对 热爱 种 植物）。 | The person I'd like to talk about is my grandfather, who absolutely loves growing plants. |
+| 2 | 他 在 我 童年 期间 把 我 带大，所以 我们 一起 待 了 一大堆 时间。 | He raised me during my childhood, so we spent loads of time together. |
+| 3 | 他 家里 有 一个 小 花园，（那里 他 种 各种 蔬菜 和 花）。 | He's got a small garden at home, where he grows all sorts of vegetables and flowers. |
+| 4 | 每 一个 早晨 他 都 在 那儿 浇水、拔草，那种 东西。 | Every morning he's out there watering, pulling weeds, that kind of thing. |
+| 5 | 真正 让 他 出众的 是 他 对 它 多么 有 耐心。 | What really makes him stand out is how patient he is with it. |
+| 6 | 他 不 急——他 就 每一天 啃 掉 一点点，然后 慢慢 一切 长 起来。 | He doesn't rush — he just chips away at it a little every day, and slowly everything grows. |
+| 7 | 我 小时候，他 会 让 我 帮忙，还 给 我 解释 每 一株 植物 怎么 长。 | When I was a kid, he'd let me help, and he'd explain how each plant works. |
+| 8 | 说实话，看 他的 花园 总是 勾起 我 那些 日子 的 回忆。 | Honestly, looking at his garden always brings back memories of those days. |
+| 9 | 对 他 来说，它 不 真的 关于 蔬菜——它 关于 保持 平静、亲近 自然。 | For him, it's not really about the vegetables — it's about staying calm and close to nature. |
+| 10 | 所以 有一天，我 很想 有 一个 像 他 那样的 小 花园。 | So one day, I'd love to have a little garden like his. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my grandfather, who absolutely loves growing plants. He raised me during my childhood, so we spent loads of time together. He's got a small garden at home, where he grows all sorts of vegetables and flowers. Every morning he's out there watering, pulling weeds, that kind of thing. What really makes him stand out is how patient he is with it. He doesn't rush — he just chips away at it a little every day, and slowly everything grows. When I was a kid, he'd let me help, and he'd explain how each plant works. Honestly, looking at his garden always brings back memories of those days. For him, it's not really about the vegetables — it's about staying calm and close to nature. So one day, I'd love to have a little garden like his.
+
+> 🔁 **复用**：句2 `raised me during my childhood`(老11)；句5 `What really makes him stand out is how`；句6 `chips away at it a little every day`(新15)；句7 `how … works`(新16)；句8 `brings back memories`(老11)；句9 `not really about X — it's about Y`(新14)；句10 `one day, I'd love to`(老11)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is …, who absolutely loves …` · `He raised me during my childhood` · `What really makes him stand out is how patient he is` · `chips away at it a little every day` · `it's not really about X — it's about Y` · `one day, I'd love to …`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What are the advantages of growing vegetables or flowers at home?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 它 更 便宜，而 那 食物 更 新鲜——你 确切 知道 里面 放 了 什么。 | It's cheaper, and the food's fresher — you know exactly what went into it. |
+| 3 | 除此之外，园艺 真的 很 放松，在 漫长的 一天 后 一个 不错的 休息。 | On top of that, gardening's really relaxing, a nice break after a long day. |
+| 4 | 所以 它 对 你的 钱包 和 你的 脑子 都 好。 | So it's good for your wallet and your mind. |
+
+> Loads, honestly. It's cheaper, and the food's fresher — you know exactly what went into it. On top of that, gardening's really relaxing, a nice break after a long day. So it's good for your wallet and your mind.
+
+> 🔁 **复用**：`Loads, honestly`+`On top of that`+`after a long day`(新07-Q1)。
+
+**Q2. Do many people grow vegetables or flowers at home in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，我会说。 | Quite a few, I'd say. |
+| 2 | 尤其 老年人——我 外公 在 他 小 阳台上 种 一大堆。 | Older folk especially — my grandfather grows loads on his little balcony. |
+| 3 | 而 住 公寓 的 年轻人 不 真的 有 那 空间。 | Whereas younger people in flats don't really have the space. |
+| 4 | 所以 它 归结到 你 有没有 一点 地方。 | So it comes down to whether you've got a bit of room. |
+
+> Quite a few, I'd say. Older folk especially — my grandfather grows loads on his little balcony. Whereas younger people in flats don't really have the space. So it comes down to whether you've got a bit of room.
+
+> 🔁 **复用**：`Quite a few, I'd say`+`Older folk`(老08)+`whereas`+`comes down to`。
+
+**Q3. Is it easy to grow plants at home?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 有些 植物 容易——你 就 浇 水、然后 不管 它们。 | Some plants are easy — you just water them and leave them. |
+| 3 | 但 另一些 需要 真正的 耐心，而 你 靠 反复 试错 学。 | But others need real patience, and you learn by trial and error. |
+| 4 | 我 外公 让 它 看起来 容易，但 他 已经 干 了 好些年。 | My grandfather makes it look easy, but he's been at it for years. |
+
+> To some extent, yeah. Some plants are easy — you just water them and leave them. But others need real patience, and you learn by trial and error. My grandfather makes it look easy, but he's been at it for years.
+
+> 🔁 **复用**：`To some extent, yeah`(新16-Q3)+`patience`+`been at it`(新15 sticks at it 同族)。
+
+**Q4. Why do some people like to grow plants?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 为了 放松，我会说。 | Mainly to relax, I'd say. |
+| 2 | 看 某个 东西 长 起来 真的 很 满足，而 它 让 你的 脑子 从 工作 上 挪开。 | Watching something grow is really satisfying, and it takes your mind off work. |
+| 3 | 此外，有些人 就是 爱 亲近 自然。 | Plus, some people just love being close to nature. |
+| 4 | 所以 它 归结到 慢下来、享受 一个 简单的 东西。 | So it comes down to slowing down and enjoying something simple. |
+
+> Mainly to relax, I'd say. Watching something grow is really satisfying, and it takes your mind off work. Plus, some people just love being close to nature. So it comes down to slowing down and enjoying something simple.
+
+> 🔁 **复用**：`Mainly…I'd say`+`takes your mind off`(新16 chores同族)+`Plus`+`slowing down`(新18)+`comes down to`。
+
+**Q5. Why do some people prefer to grow their own fruits and vegetables instead of buying them?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 信任，我会说。 | Mainly trust, I'd say. |
+| 2 | 当 你 自己 种 它，你 知道 没有 化学品，所以 它 感觉 更 安全。 | When you grow it yourself, you know there's no chemicals, so it feels safer. |
+| 3 | 它 也 更 新鲜、还 说实话 更 好吃。 | It's also fresher and honestly tastes better. |
+| 4 | 但 说句公道话，大多数人 太 忙，所以 他们 就 买 它。 | But to be fair, most people are too busy, so they just buy it. |
+
+> Mainly trust, I'd say. When you grow it yourself, you know there's no chemicals, so it feels safer. It's also fresher and honestly tastes better. But to be fair, most people are too busy, so they just buy it.
+
+> 🔁 **复用**：`Mainly trust, I'd say`(老08-Q2)+`honestly`+`to be fair`+`too busy`。
+
+**Q6. Do you think students should learn to grow plants?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 教 他们 耐心、还有 食物 到底 从 哪儿 来。 | It teaches them patience and where food actually comes from. |
+| 3 | 此外，它 让 他们 离开 屏幕、做 一些 动手的 东西。 | Plus, it gets them off their screens and doing something hands-on. |
+| 4 | 所以 它 是 一个 简单的 方式 [去]教 一个 真的 很 有用的 一课。 | So it's a simple way to teach a really useful lesson. |
+
+> Absolutely, I think so. It teaches them patience and where food actually comes from. Plus, it gets them off their screens and doing something hands-on. So it's a simple way to teach a really useful lesson.
+
+> 🔁 **复用**：`Absolutely, I think so`(老20-Q3)+`off their screens`(新16)+`hands-on`(新16-Q6)。
+
+**P3 句型/模板（复用池）**：`Loads, honestly` / `after a long day` · `Quite a few, I'd say` / `Older folk` / `whereas` / `comes down to whether you've got a bit of room` · `To some extent, yeah` / `been at it for years` · `Mainly to relax, I'd say` / `takes your mind off` / `slowing down` · `Mainly trust, I'd say` / `too busy` · `Absolutely, I think so` / `off their screens` / `hands-on`。
+
+---
+
+## P2-新06 · A new law you'd introduce — 保护城市绿地（Hypothetical）  〔复用生成〕
+
+> **Cue**: 什么法 / 带来什么变化 / 是否受欢迎 / 怎么想到的 / 感受 · 题型 Hypothetical
+>
+> 🔁 **整卡复用自**：老26 小公园(little escape/clear my head) + wife灵感 + 老12(let son run around) + 老20-Q5(government's job/comes down to money) + greenery→green space(降档词)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想引入的那条 法律 是 一条 [去]保护 城市 里 绿地 的。 | The law I'd like to introduce is one to protect green space in cities. |
+| 2 | 这 主意 其实 来自 我 老婆——她 总是 说 我们 城市 需要 更多 公园。 | The idea actually came from my wife — she's always saying our city needs more parks. |
+| 3 | 基本上，那 法律 会 阻止 开发商 在 公园上 盖楼，还 逼 他们 反而 加 绿地。 | Basically, the law would stop developers from building on parks and force them to add green space instead. |
+| 4 | 我 开始 想 它 是 因为 我们家 附近 有 一个 小、安静的 公园、（我 很 爱的）。 | I got thinking about it because there's a small, quiet park near our home that I love. |
+| 5 | 它 是 我 的 小 逃离——我 去 那儿 [去]在 漫长的 一天 后 理清 我的 脑子。 | It's my little escape — I go there to clear my head after a long day. |
+| 6 | 但 这些天 越来越多 这样的 地方 被 拆掉 换 楼。 | But these days more and more of these spots are being knocked down for buildings. |
+| 7 | 让 我 担心的 是 在 混凝土 里 长大 的 孩子 没 地方 跑。 | What worries me is that kids growing up in concrete have nowhere to run around. |
+| 8 | 我 觉得 大多数人 会 欢迎 它，说句公道话——每个人 都 喜欢 一点 绿地。 | I think most people would welcome it, to be fair — everyone likes a bit of green space. |
+| 9 | 当然，有些 开发商 会 反对，因为 它 归结到 钱。 | Of course, some developers would push back, since it comes down to money. |
+| 10 | 但 说实话，一个 有 更多 公园 的 城市 是 一个 更 好 住的 地方。 | But honestly, a city with more parks is a nicer place to live. |
+
+### ②P2 整段（shadow）
+
+> The law I'd like to introduce is one to protect green space in cities. The idea actually came from my wife — she's always saying our city needs more parks. Basically, the law would stop developers from building on parks and force them to add green space instead. I got thinking about it because there's a small, quiet park near our home that I love. It's my little escape — I go there to clear my head after a long day. But these days more and more of these spots are being knocked down for buildings. What worries me is that kids growing up in concrete have nowhere to run around. I think most people would welcome it, to be fair — everyone likes a bit of green space. Of course, some developers would push back, since it comes down to money. But honestly, a city with more parks is a nicer place to live.
+
+> 🔁 **复用**：句2 wife灵感；句4/5 `a small, quiet park near our home`+`little escape / clear my head`(老26 逐字)；句5 `after a long day`；句7 `run around`(老12)+concrete(老23-Q4)；句8 `to be fair`+`green space`(greenery降档)；句9 `comes down to money`(老20)。
+
+### 句型/模板（复用池）
+
+- `The law I'd like to introduce is one to …` · `The idea actually came from my wife` · `It's my little escape — I go there to clear my head` · `What worries me is that …` · `it comes down to money`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What rules should students follow at school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几条 基本的，真的。 | A few basic ones, really. |
+| 2 | 像 准时 到、有 礼貌、还有 上课 不 用 手机。 | Things like turning up on time, being respectful, and not using phones in class. |
+| 3 | 这些 早早 教 他们 纪律，而 太多 规则 只 感觉 像 一个 笼子。 | These teach them discipline early, whereas too many rules just feel like a cage. |
+| 4 | 所以 它 归结到 保持 简单、公平。 | So it comes down to keeping it simple and fair. |
+
+> A few basic ones, really. Things like turning up on time, being respectful, and not using phones in class. These teach them discipline early, whereas too many rules just feel like a cage. So it comes down to keeping it simple and fair.
+
+> 🔁 **复用**：`A few…really`+`whereas`+`comes down to`。
+
+**Q2. Do people in your country usually obey the law?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，大多，我会说。 | Yeah, mostly, I'd say. |
+| 2 | 大多数人 遵守 规则，因为 它 让 事情 顺畅 运转。 | Most people follow the rules because it keeps things running smoothly. |
+| 3 | 说句公道话，有些人 破 小的，比如 乱穿马路，当 没人 看 的时候。 | To be fair, some break small ones, like jaywalking, when nobody's watching. |
+| 4 | 但 总的来说，人们 知道 它 对 每个人 都 更好。 | But overall, people know it's better for everyone. |
+
+> Yeah, mostly, I'd say. Most people follow the rules because it keeps things running smoothly. To be fair, some break small ones, like jaywalking, when nobody's watching. But overall, people know it's better for everyone.
+
+> 🔁 **复用**：`To be fair`+`But overall`。
+
+**Q3. What kinds of behavior are considered as good behavior?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 东西，真的。 | Loads of things, really. |
+| 2 | 有 礼貌、帮助 别人、还有 收拾 你 自己 的 东西——那种 东西。 | Being polite, helping others, and cleaning up after yourself — that kind of thing. |
+| 3 | 我 老婆 是 一个 好 例子——她 总是 帮 我们 年长的 邻居。 | My wife's a good example — she's always helping our elderly neighbours. |
+| 4 | 所以 好 行为 真的 归结到 为 别人 着想。 | So good behaviour really comes down to thinking about other people. |
+
+> Loads of things, really. Being polite, helping others, and cleaning up after yourself — that kind of thing. My wife's a good example — she's always helping our elderly neighbours. So good behaviour really comes down to thinking about other people.
+
+> 🔁 **复用**：`Loads of things, really`+`that kind of thing`+wife helping neighbours(老19)+`comes down to`。
+
+**Q4. Do you think children can learn about the law outside of school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对。 | Absolutely. |
+| 2 | 父母 从 小 教 他们 那些 基础——什么 对、什么 错。 | Parents teach them the basics — what's right and wrong — from a young age. |
+| 3 | 除此之外，他们 从 新闻、甚至 从 app 捡 到 一大堆。 | On top of that, they pick a lot up from the news and even from apps. |
+| 4 | 所以 学校 只是 它 的 一部分，说句公道话。 | So school's just one part of it, to be fair. |
+
+> Absolutely. Parents teach them the basics — what's right and wrong — from a young age. On top of that, they pick a lot up from the news and even from apps. So school's just one part of it, to be fair.
+
+> 🔁 **复用**：`On top of that`+`pick … up`(新15)+`to be fair`。
+
+**Q5. What are the benefits for people to obey rules?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 规则 让 每个人 安全、让 事情 公平，所以 生活 顺畅 运转。 | Rules keep everyone safe and things fair, so life runs smoothly. |
+| 3 | 而 如果 每个人 都 各行其是，那 会 是 一片 混乱。 | Whereas if everyone did their own thing, it'd be chaos. |
+| 4 | 所以 到头来，规则 在 那儿 是 用来 保护 我们的。 | So at the end of the day, rules are there to protect us. |
+
+> Loads, honestly. Rules keep everyone safe and things fair, so life runs smoothly. Whereas if everyone did their own thing, it'd be chaos. So at the end of the day, rules are there to protect us.
+
+> 🔁 **复用**：`Loads, honestly`+`whereas`+`at the end of the day`(新15-Q6)。
+
+**Q6. How can parents teach children to obey rules?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 靠 以身作则，我会说。 | Mainly by example, I'd say. |
+| 2 | 孩子 抄 他们 看到的，所以 如果 父母 遵守 规则，孩子 也 会。 | Kids copy what they see, so if parents follow the rules, kids do too. |
+| 3 | 此外，解释 为什么 一条 规则 要紧 比 只是 吼 管用。 | Plus, explaining why a rule matters works better than just shouting. |
+| 4 | 所以 它 归结到 树立 一个 好 榜样。 | So it comes down to setting a good example. |
+
+> Mainly by example, I'd say. Kids copy what they see, so if parents follow the rules, kids do too. Plus, explaining why a rule matters works better than just shouting. So it comes down to setting a good example.
+
+> 🔁 **复用**：`Mainly…I'd say`+`Kids copy`(老23-Q1)+`Plus`+`setting a good example`(新15)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`A few basic ones, really` / `whereas` / `comes down to keeping it simple and fair` · `To be fair` / `But overall` · `Loads of things, really` / `that kind of thing` / `comes down to thinking about other people` · `On top of that` / `pick … up` · `at the end of the day` · `Mainly by example, I'd say` / `Kids copy what they see` / `setting a good example`。
 
 ---
 
