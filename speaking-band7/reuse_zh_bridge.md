@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡已出 7/41：老06·新01·新02·新03·新04·新05·新06。续推 新07(你的版)→老27 + 搬入 13 张你的版。
+> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡 9/41（老06·新01-06·新08·新09）+ 你的版搬入 1/13（新07）。续推 新10→老27。
 
 ---
 
@@ -762,6 +762,344 @@
 > 🔁 **复用**：`Mainly…I'd say`+`Kids copy`(老23-Q1)+`Plus`+`setting a good example`(新15)+`comes down to`。
 
 **P3 句型/模板（复用池）**：`A few basic ones, really` / `whereas` / `comes down to keeping it simple and fair` · `To be fair` / `But overall` · `Loads of things, really` / `that kind of thing` / `comes down to thinking about other people` · `On top of that` / `pick … up` · `at the end of the day` · `Mainly by example, I'd say` / `Kids copy what they see` / `setting a good example`。
+
+---
+
+## P2-新07 · A friend from your childhood — 发小张伟（Person）  〔你的版 · 未改〕
+
+> **Cue**: 是谁 / 怎么认识 / 一起做什么 / 你的感受 · 题型 Person
+>
+> 🎤 **你的版（6/28 session 练过 · 未降未改）**：P2 = 发小张伟 + 你当天练的 6 题 P3（友情/社媒域）。这就是张伟池的源头。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 老同学，张伟。 | The person I'd like to talk about is one of my old classmates, Zhangwei. |
+| 2 | 我们 在 小学 认识，那时 我们 大约 十一二岁，而 我们 最后 做 了 好几年 同学，一直 到 我们 读完 高中。 | We met in primary school when we were about eleven or twelve, and we ended up being classmates for years, right up until we finished high school. |
+| 3 | 那时候，我们 都 在 那 电脑 社团，而 我们 会 经常 一起 写 一些 小 程序。 | Back then, we were both in the computer club, and we'd often build little programs together. |
+| 4 | 真正 让 他 出众的 是 他 怎么 在 压力下 解决 问题。 | What really makes him stand out is how he solves problems under pressure. |
+| 5 | 我 记得 有一次 我们 需要 展示 我们的 项目 结果，而 就 在 那 展示 之前，那 程序 崩了。 | I remember one time we needed to present our project results, and right before the presentation, the program crashed. |
+| 6 | 当 我们 其他人 都 在 慌，张伟 就 保持 冷静、坐下、然后 开始 一行一行 过 那 代码 和 日志。 | While the rest of us were panicking, Zhangwei just kept calm, sat down, and started going through the code and logs line by line. |
+| 7 | 在 二十分钟 之内，他 已经 找到 那 根本原因、修好 了 它——他 说实话 救 了 场。 | Within twenty minutes, he'd found the root cause and fixed it — he honestly saved the day. |
+| 8 | 我 真的 佩服 他、为 他 在 压力下 保持 冷静 的 那个 样子。 | I really admire him for the way he stays calm under pressure. |
+| 9 | 他 现在 工作 做 得 很 好，而 我 觉得 那 主要 归结到 他 怎么 处理 问题。 | He's doing really well in his job now, and I think it mainly comes down to how he handles problems. |
+| 10 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is one of my old classmates, Zhangwei. We met in primary school when we were about eleven or twelve, and we ended up being classmates for years, right up until we finished high school. Back then, we were both in the computer club, and we'd often build little programs together. What really makes him stand out is how he solves problems under pressure. I remember one time we needed to present our project results, and right before the presentation, the program crashed. While the rest of us were panicking, Zhangwei just kept calm, sat down, and started going through the code and logs line by line. Within twenty minutes, he'd found the root cause and fixed it — he honestly saved the day. I really admire him for the way he stays calm under pressure. He's doing really well in his job now, and I think it mainly comes down to how he handles problems. To be honest, that's something I'd love to learn from him.
+
+### 句型/模板（你自己的）
+
+- `The person I'd like to talk about is one of my old classmates` · `What really makes him stand out is how he solves problems under pressure` · `kept calm, sat down, and started going through … line by line` · `he honestly saved the day` · `it mainly comes down to how he handles problems` · `that's something I'd love to learn from him`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · 友情/社媒）
+
+**Q1. Do you still keep in touch with childhood friends?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 说实话，不太。 | Honestly, not really. |
+| 2 | 上次 我 试着 重新 联系 一个 童年的 好朋友，那 对话 就是 特别 无聊——全都是 "怎么样？还行"，那种 东西。 | Last time I tried to reconnect with a close friend from childhood, the conversation was just really dull — it was all "How's it going? Not bad," that kind of thing. |
+| 3 | 我 觉得 那 主要 原因 是 我们 渐渐 疏远 了——我们 现在 过 完全 不同的 生活、每天 看到 不同的 东西，所以 没 剩 多少 连接。 | I think the main reason is we've drifted apart — we live totally different lives now and see different things every day, so there's not much of a connection left. |
+| 4 | 就是 再也 没 什么 好 聊的 了。 | There's just nothing much to talk about anymore. |
+
+> Honestly, not really. Last time I tried to reconnect with a close friend from childhood, the conversation was just really dull — it was all "How's it going? Not bad," that kind of thing. I think the main reason is we've drifted apart — we live totally different lives now and see different things every day, so there's not much of a connection left. There's just nothing much to talk about anymore.
+
+**Q2. How important is childhood friendship to children?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 极其 重要，我会说。 | Hugely important, I'd say. |
+| 2 | 童年的 友谊 教 孩子 一大堆 东西——怎么 处理 冲突、怎么 跟 别人 相处，这一切。 | Childhood friendships teach kids loads of things — how to deal with conflict, how to get on with others, all of it. |
+| 3 | 此外，有 朋友 让 孩子 感觉 没那么 孤独，（这）对 他们的 心理 健康 真的 很好。 | Plus, having friends makes kids feel less lonely, which is really good for their mental health. |
+| 4 | 所以 那些 早期的 友谊 真的 塑造 他们 成为 什么 样的人。 | So those early friendships really shape who they become. |
+
+> Hugely important, I'd say. Childhood friendships teach kids loads of things — how to deal with conflict, how to get on with others, all of it. Plus, having friends makes kids feel less lonely, which is really good for their mental health. So those early friendships really shape who they become.
+
+**Q3. What do you think of communicating via social media?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 好的一面，社交媒体 让 人们 更 容易 保持 联系。 | On the plus side, social media makes it easier for people to stay in touch. |
+| 3 | 另一方面，网上 聊天 有点 更 肤浅，而 你 那样 建立 的 纽带 挺 脆弱。 | On the other hand, chatting online is a bit shallower, and the bonds you build that way are pretty fragile. |
+| 4 | 所以 总的来说，它 对 保持 联系 很 方便，但 没 什么 比得过 面对面 见面。 | So overall, it's handy for keeping in touch, but nothing beats meeting in person. |
+
+> It's a bit of a mixed bag, honestly. On the plus side, social media makes it easier for people to stay in touch. On the other hand, chatting online is a bit shallower, and the bonds you build that way are pretty fragile. So overall, it's handy for keeping in touch, but nothing beats meeting in person.
+
+**Q4. Will online communication replace face-to-face?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 怀疑。 | I doubt it. |
+| 2 | 诚然，网上 交流 已经 大大 改变 了 我们 怎么 说话——有 数字 工具，人们 能 从 任何地方、在 任何时候 聊天。 | Admittedly, online communication has massively changed how we talk — with digital tools, people can chat from anywhere, at any time. |
+| 3 | 但 它 没法 完全 取代 面对面 见面。 | But it can't completely take over meeting in person. |
+| 4 | 有 一种 温暖、（那种 你 就是 在 网上 得不到的）。 | There's a warmth you just can't get online. |
+| 5 | 此外，好的 交流 涉及 肢体 语言 和 语气。 | Plus, good communication involves body language and tone of voice. |
+| 6 | 所以 总的来说，网上 交流 只是 给 它 添彩，它 不 取代 它。 | So overall, online communication just adds to it, it doesn't replace it. |
+
+> I doubt it. Admittedly, online communication has massively changed how we talk — with digital tools, people can chat from anywhere, at any time. But it can't completely take over meeting in person. There's a warmth you just can't get online. Plus, good communication involves body language and tone of voice. So overall, online communication just adds to it, it doesn't replace it.
+
+**Q5. What's the difference between younger friends and older friends?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它们 挺 不同，我 觉得。 | They're quite different, I reckon. |
+| 2 | 一个 更 年轻的 朋友 有点 让 你 保持 年轻——你们 在 像 科技 和 潮流 这样的 新 东西 上 合拍，而 一切 都 挺 轻松。 | A younger friend kind of keeps you young — you're on the same wavelength about new stuff like tech and trends, and it's all pretty laid-back. |
+| 3 | 一个 年长的 朋友，另一方面，给 你 靠谱的 建议 和 一点 人生 经验——他们 以前 经历过。 | An older friend, on the other hand, gives you solid advice and a bit of life experience — they've been there before. |
+| 4 | 但 说实话，对 我 来说 它 归结到 你们 合不合拍，不是 他们 多大。 | But honestly, for me it comes down to whether you click, not how old they are. |
+
+> They're quite different, I reckon. A younger friend kind of keeps you young — you're on the same wavelength about new stuff like tech and trends, and it's all pretty laid-back. An older friend, on the other hand, gives you solid advice and a bit of life experience — they've been there before. But honestly, for me it comes down to whether you click, not how old they are.
+
+**Q6. Has technology changed people's friendships?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 大大地，是的。 | Massively, yeah. |
+| 2 | 我们 以前 面对面 见面，但 现在 大多 是 发短信 和 点赞。 | We used to meet up in person, but now it's mostly texting and likes. |
+| 3 | 虽然 科技 让 保持 联系 容易 得多，网上的 友谊 可能 感觉 有点 肤浅。 | While technology makes it much easier to stay in touch, friendships online can feel a bit shallow. |
+| 4 | 所以 我会说 它 归结到 我们 怎么 用 它。 | So I'd say it comes down to how we use it. |
+
+> Massively, yeah. We used to meet up in person, but now it's mostly texting and likes. While technology makes it much easier to stay in touch, friendships online can feel a bit shallow. So I'd say it comes down to how we use it.
+
+---
+
+## P2-新08 · A person who'd choose a medical career — 表妹 Lin（Person）  〔复用生成〕
+
+> **Cue**: 认识她多久 / 何时开始想 / 想做什么 / 为何选这行 · 题型 Person
+>
+> 🔁 **整卡复用自**：新15 老婆池(chips away every single day / a lot on her plate / really into / a real talent for / What I admire / sets a great example) + 新12(made up her mind) + 新16 AI域(crunch data / off their plate / back up not replace) + 老20(money well spent)。表妹/学医=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 小 表妹，Lin，（她 想 当 一个 医生）。 | The person I'd like to talk about is my younger cousin, Lin, who wants to be a doctor. |
+| 2 | 我 从 她 小时候 就 认识 她，而 我们 一直 挺 亲。 | I've known her since she was a kid, and we've always been pretty close. |
+| 3 | 她 最早 开始 聊 医学 是 在 高中，在 我们 外婆 病 得 很 重 之后。 | She first started talking about medicine back in high school, after our grandmother got seriously ill. |
+| 4 | 她 会 在 医院 陪 她 好几个 小时，而 我 觉得 那 就是 她 下定 决心 的时候。 | She'd sit with her in hospital for hours, and I think that's when she made up her mind. |
+| 5 | 真正 让 她 出众的 是 她 多么 努力。 | What really makes her stand out is how hard she works. |
+| 6 | 她 每一天 都 啃 掉 一点点 她的 学业，即使 当 她 手头 一大堆 事。 | She chips away at her studies a little every single day, even when she's got a lot on her plate. |
+| 7 | 她 真的 很 迷 生物，而 她 说实话 有 一个 真正的 天赋、对 它。 | She's really into biology, and she's honestly got a real talent for it. |
+| 8 | 我 最 佩服 的 是 她 真心 想 帮 人，不 只是 挣 好 钱。 | What I admire most is that she genuinely wants to help people, not just earn good money. |
+| 9 | 说实话，她 为 家里 其他人 树立 了 一个 很好的 榜样。 | Honestly, she sets a great example for the rest of the family. |
+| 10 | 成为 一个 医生 要 好些年，但 我 毫不 怀疑 她 会 做到。 | Becoming a doctor takes years, but I've no doubt she'll get there. |
+| 11 | 所以 对我，她 是 一个 我 真的 仰望 的人。 | So for me, she's someone I really look up to. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my younger cousin, Lin, who wants to be a doctor. I've known her since she was a kid, and we've always been pretty close. She first started talking about medicine back in high school, after our grandmother got seriously ill. She'd sit with her in hospital for hours, and I think that's when she made up her mind. What really makes her stand out is how hard she works. She chips away at her studies a little every single day, even when she's got a lot on her plate. She's really into biology, and she's honestly got a real talent for it. What I admire most is that she genuinely wants to help people, not just earn good money. Honestly, she sets a great example for the rest of the family. Becoming a doctor takes years, but I've no doubt she'll get there. So for me, she's someone I really look up to.
+
+> 🔁 **复用**：句4 `made up her mind`(新12)；句5 `What really makes her stand out is how`；句6 `chips away … every single day`+`a lot on her plate`(新15 逐字)；句7 `really into`+`a real talent for`(新15)；句8 `What I admire most`(新15)+not-just-money(老20)；句9 `sets a great example`(新15)；句10 `no doubt`(新07-Q4 `I doubt it` 反用)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is my …, who wants to …` · `that's when she made up her mind` · `What really makes her stand out is how hard she works` · `chips away at it a little every single day` · `What I admire most is …` · `she sets a great example`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you think being a doctor is easy or difficult?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 真的 很 难，我会说。 | Really difficult, I'd say. |
+| 2 | 他们 学 好些年，而 即使 那 之后 他们 也 在 巨大 压力下，打交道 人 的 生命。 | They study for years, and even after that they're under huge pressure, dealing with people's lives. |
+| 3 | 除此之外，那 工时 很 长、那 工作 很 累。 | On top of that, the hours are long and the job's stressful. |
+| 4 | 所以 它 需要 很多，说句公道话。 | So it takes a lot, to be fair. |
+
+> Really difficult, I'd say. They study for years, and even after that they're under huge pressure, dealing with people's lives. On top of that, the hours are long and the job's stressful. So it takes a lot, to be fair.
+
+> 🔁 **复用**：`… I'd say`+`under … pressure`(张伟)+`On top of that`+`to be fair`。
+
+**Q2. Do you think learning biology is interesting for children?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 孩子 天生 好奇——他们 像 海绵，总是 在 问 东西 怎么 运作。 | Kids are naturally curious — they're like sponges, always asking how things work. |
+| 3 | 生物 很棒，因为 它 关于 真实 生活——动物、身体，那种 东西。 | Biology's great because it's about real life — animals, the body, that kind of thing. |
+| 4 | 所以 如果 它 用 一个 动手的 方式 教，大多数 孩子 爱 它。 | So if it's taught in a hands-on way, most kids love it. |
+
+> To some extent, yeah. Kids are naturally curious — they're like sponges, always asking how things work. Biology's great because it's about real life — animals, the body, that kind of thing. So if it's taught in a hands-on way, most kids love it.
+
+> 🔁 **复用**：`To some extent, yeah`+`like sponges`(新15-Q4)+`how things work`(新16)+`that kind of thing`+`hands-on`(新16)。
+
+**Q3. Why do some children want to become doctors?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些 是 在 看到 一个 家人 生病 后 受 触动，就 像 我 表妹 那样。 | Some are inspired after seeing a family member get ill, like my cousin was. |
+| 3 | 另一些 只 想要 一个 受 尊敬的、帮 人 的 工作。 | Others just want a respected job that helps people. |
+| 4 | 所以 它 归结到 个人 经历 和 想 做 好事 的 一个 混合。 | So it comes down to a mix of personal experience and wanting to do good. |
+
+> A few reasons, really. Some are inspired after seeing a family member get ill, like my cousin was. Others just want a respected job that helps people. So it comes down to a mix of personal experience and wanting to do good.
+
+> 🔁 **复用**：`A few reasons, really`+表妹link+`comes down to a mix of`。
+
+**Q4. Do you think governments should put a large amount of money into medical research?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 医学 研究 拯救 生命，所以 它 是 花得 值的 钱。 | Medical research saves lives, so it's money well spent. |
+| 3 | 而 砍 它 只是 攒 下 更大的 问题、往后。 | Whereas cutting it just stores up bigger problems later. |
+| 4 | 所以 对我，它 是 一个 政府 能 花钱 的 最好 事情 之一。 | So for me, it's one of the best things a government can pay for. |
+
+> Absolutely, I think so. Medical research saves lives, so it's money well spent. Whereas cutting it just stores up bigger problems later. So for me, it's one of the best things a government can pay for.
+
+> 🔁 **复用**：`Absolutely, I think so`(老20-Q3)+`money well spent`(老20)+`whereas`+government(老20-Q5)。
+
+**Q5. Should doctors be paid more than other professionals?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 他们 训练 好些年、还 担 巨大的 责任，所以 一份 好 薪水 说得通。 | They train for years and hold huge responsibility, so a good salary makes sense. |
+| 3 | 说句公道话，不过，一大堆 别的 工作 也 很 苦，比如 老师。 | To be fair, though, plenty of other jobs are tough too, like teachers. |
+| 4 | 所以 我会说 给 他们 好 报酬，但 别 忘 了 其他 每个人。 | So I'd say pay them well, but don't forget everyone else. |
+
+> To some extent, yeah. They train for years and hold huge responsibility, so a good salary makes sense. To be fair, though, plenty of other jobs are tough too, like teachers. So I'd say pay them well, but don't forget everyone else.
+
+> 🔁 **复用**：`To some extent, yeah`+`To be fair, though`(新16-Q1)。
+
+**Q6. How can technology help doctors in the future?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | AI 已经 能 处理 大量 数据、还 早早 发现 疾病。 | AI can already crunch huge amounts of data and spot illness early. |
+| 3 | 它 也 把 那些 无聊的 文书 从 他们 肩上 拿走，（这）省 时间 给 病人。 | It takes the boring paperwork off their plate too, which frees up time for patients. |
+| 4 | 但 它 应该 辅助 医生，而不是 取代 他们。 | But it should back doctors up, not replace them. |
+
+> Loads of ways, really. AI can already crunch huge amounts of data and spot illness early. It takes the boring paperwork off their plate too, which frees up time for patients. But it should back doctors up, not replace them.
+
+> 🔁 **复用**：`Loads of ways, really`(新15/新16)+`crunch huge amounts of data`(新16-Q1)+`takes … off their plate`+`frees up time`+`back … up, not replace`(新16 逐字)。
+
+**P3 句型/模板（复用池）**：`Really difficult, I'd say` / `under huge pressure` / `to be fair` · `To some extent, yeah` / `like sponges` / `how things work` / `hands-on` · `A few reasons, really` / `comes down to a mix of` · `Absolutely, I think so` / `money well spent` / `whereas` · `To be fair, though` · `Loads of ways, really` / `crunch huge amounts of data` / `off their plate` / `frees up time` / `back … up, not replace`。
+
+---
+
+## P2-新09 · A person with a successful business — Chen 咖啡馆（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 怎么认识 / 为何+怎么开始 / 什么生意 / 为何成功 · 题型 Person
+>
+> 🔁 **整卡复用自**：老23(a friend of mine) + 老24-MUJI(a nice escape from) + 老20(money/not just money) + 老12(the freedom) + 新15(a great example) + person句型池。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 朋友，Chen，（他 经营 一家 真的 很 成功的 咖啡馆）。 | The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. |
+| 2 | 我 几年前 认识 他，当 我 成了 他 那儿 的 一个 常客。 | I got to know him a few years ago, when I became a regular at his place. |
+| 3 | 他 自己 开 了 那 咖啡馆，在 辞 了 他 办公室 工作 之后。 | He started the café himself, after quitting his office job. |
+| 4 | 真正 让 它 出众的 是 那 氛围——它 平静 又 温馨，一个 从 繁忙 街道 的 好 逃离。 | What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. |
+| 5 | 他 认识 他 大多数 常客 的 名字，而 他 总是 记得 你 的 惯常 点单。 | He knows most of his regulars by name, and he always remembers your usual order. |
+| 6 | 我 佩服 他 的 是 他 多么 在乎 那些 小 细节。 | What I admire about him is how much he cares about the little things. |
+| 7 | 他 不 只是 想 挣钱——他 想 建 一个 人们 爱 的 地方。 | He didn't just want to make money — he wanted to build a place people love. |
+| 8 | 说实话，那 就是 为什么 那 咖啡馆 做 得 这么 好，我 觉得。 | Honestly, that's why the café's done so well, I reckon. |
+| 9 | 它 归结到 热情，不 只是 一个 好 商业 计划。 | It comes down to passion, not just a good business plan. |
+| 10 | 所以 对我，他 是 一个 做 你 热爱 的 事 的 好 榜样。 | So for me, he's a great example of doing something you love. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. I got to know him a few years ago, when I became a regular at his place. He started the café himself, after quitting his office job. What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. He knows most of his regulars by name, and he always remembers your usual order. What I admire about him is how much he cares about the little things. He didn't just want to make money — he wanted to build a place people love. Honestly, that's why the café's done so well, I reckon. It comes down to passion, not just a good business plan. So for me, he's a great example of doing something you love.
+
+> 🔁 **复用**：句1 `a friend of mine`(老23)；句4 `What really makes it stand out is`+`a nice escape from`(老24)；句6 `What I admire about him is`；句7 not-just-money(老20)；句8 `Honestly … I reckon`；句9 `comes down to`；句10 `a great example`(新15)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is a friend of mine, …, who runs …` · `What really makes it stand out is …, a nice escape from …` · `What I admire about him is how much he cares about …` · `it comes down to passion, not just …` · `a great example of doing something you love`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Why do some people start their own business?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些人 想 做 自己的 老板，而 另一些 只是 有 一个 他们 相信的 主意。 | Some want to be their own boss, whereas others just have an idea they believe in. |
+| 3 | 除此之外，有 那个 机会 [去]挣 得 比 一份 普通 工作 多。 | On top of that, there's the chance to earn more than a normal job. |
+| 4 | 所以 它 归结到 自由 和 钱，大多。 | So it comes down to freedom and money, mostly. |
+
+> A few reasons, really. Some want to be their own boss, whereas others just have an idea they believe in. On top of that, there's the chance to earn more than a normal job. So it comes down to freedom and money, mostly.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`On top of that`+`the freedom`(老12)+`comes down to`。
+
+**Q2. Should governments provide financial support to start-ups?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 小 生意 创造 一大堆 工作，所以 帮 它们 是 花得 值的 钱。 | Small businesses create loads of jobs, so helping them is money well spent. |
+| 3 | 而 没有 支持，一大堆 好 主意 永远 起 不了 步。 | Whereas without support, a lot of good ideas never get off the ground. |
+| 4 | 所以 早期 一点 帮助 真的 很 划算。 | So a bit of help early on really pays off. |
+
+> Absolutely, I think so. Small businesses create loads of jobs, so helping them is money well spent. Whereas without support, a lot of good ideas never get off the ground. So a bit of help early on really pays off.
+
+> 🔁 **复用**：`Absolutely, I think so`+`loads of jobs`(新18-Q5)+`money well spent`(老20)+`whereas`。
+
+**Q3. Do most people prefer shopping at big stores or small stores?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 大 店 赢 在 价格 和 选择，而 小 店 感觉 更 有人情味。 | Big stores win on price and choice, whereas small shops feel more personal. |
+| 3 | 对 我 来说，它 归结到 我 在 买 什么。 | For me, it comes down to what I'm buying. |
+| 4 | 所以 两者 都 有 它们的 位置，说句公道话。 | So both have their place, to be fair. |
+
+> It's a bit of a mixed bag, honestly. Big stores win on price and choice, whereas small shops feel more personal. For me, it comes down to what I'm buying. So both have their place, to be fair.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`comes down to what I'm buying`(老24-Q6)+`to be fair`。
+
+**Q4. What makes a business successful?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 一个 好 产品 最 要紧，但 好好 对待 顾客 也 一样。 | A good product matters most, but so does treating customers well. |
+| 3 | 我 朋友 Chen 是 一个 好 例子——他 记得 每个人、还 让 他们 感觉 宾至如归。 | My friend Chen's a good example — he remembers everyone and makes them feel at home. |
+| 4 | 所以 它 归结到 在乎 那些 小 细节。 | So it comes down to caring about the little things. |
+
+> A few things, really. A good product matters most, but so does treating customers well. My friend Chen's a good example — he remembers everyone and makes them feel at home. So it comes down to caring about the little things.
+
+> 🔁 **复用**：`A few things, really`(新16-Q6)+Chen link+`a good example`+`comes down to`。
+
+**Q5. What makes a business fail?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 差 的 规划，我会说。 | Mainly poor planning, I'd say. |
+| 2 | 如果 你 没 想清楚 就 冲 进去，你 很快 就 花光 钱。 | If you rush in without thinking it through, you run out of money fast. |
+| 3 | 除此之外，无视 顾客 想要 什么 是 一个 致命伤。 | On top of that, ignoring what customers want is a killer. |
+| 4 | 所以 它 归结到 规划 和 倾听。 | So it comes down to planning and listening. |
+
+> Mainly poor planning, I'd say. If you rush in without thinking it through, you run out of money fast. On top of that, ignoring what customers want is a killer. So it comes down to planning and listening.
+
+> 🔁 **复用**：`Mainly … I'd say`+`rush in without thinking it through`(新12 rushing into)+`On top of that`+`comes down to`。
+
+**Q6. Is it easy to set up a new business in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，说实话。 | Not really, to be honest. |
+| 2 | 那 文书 是 一个 麻烦，而 大 城市 的 房租 高得离谱。 | The paperwork's a hassle, and rent in big cities is sky-high. |
+| 3 | 而 网店 起步 容易 一点，因为 你 省 了 那 房租。 | Whereas online shops are a bit easier to start, since you skip the rent. |
+| 4 | 所以 它 归结到 你 有 多少 钱 和 耐心。 | So it comes down to how much money and patience you've got. |
+
+> Not really, to be honest. The paperwork's a hassle, and rent in big cities is sky-high. Whereas online shops are a bit easier to start, since you skip the rent. So it comes down to how much money and patience you've got.
+
+> 🔁 **复用**：`Not really, to be honest`(老20-Q1)+`rent … sky-high`(老20-Q2)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to freedom and money` · `Absolutely, I think so` / `loads of jobs` / `money well spent` · `a bit of a mixed bag, honestly` / `comes down to what I'm buying` · `A few things, really` / `a good example` · `Mainly poor planning, I'd say` / `rush in without thinking it through` · `Not really, to be honest` / `rent … sky-high`。
 
 ---
 
