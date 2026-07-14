@@ -199,11 +199,12 @@
 | 7 | 我 完全 上瘾——我 一口气 看 完 了 整个。 | I was completely hooked — I watched the whole thing in one go. |
 | 8 | 说实话，它 让 我 感觉 我们 多么 渺小，（这）我 觉得 出奇地 放松。 | Honestly, it left me feeling how small we are, which I found strangely relaxing. |
 | 9 | 之后，我 甚至 把 它 发 给 我 老婆，因为 我 觉得 她 也 会 爱 它。 | Afterwards, I even sent it to my wife, because I thought she'd love it too. |
-| 10 | 所以 总的来说，它 是 那种 真的 留 在 我 心里的 视频 之一。 | So overall, it's one of those videos that really stuck with me. |
+| 10 | 我 甚至 暂停 了 它 几次、就 为了 体会 那 宇宙 有 多 巨大。 | I even paused it a few times just to take in how huge the universe is. |
+| 11 | 所以 总的来说，它 是 那种 真的 留 在 我 心里的 视频 之一。 | So overall, it's one of those videos that really stuck with me. |
 
 ### ②P2 整段（shadow）
 
-> The video I'd like to talk about is a space documentary I watched a while ago. I'm really into sci-fi, so anything about space instantly catches my eye. I came across it one night on my phone, when I was just scrolling to relax. It was about the universe — how stars form, black holes, that kind of thing. What really makes it stand out is how it turned really complex science into something simple. I'm a software engineer, so I like understanding how things work, and this explained it step by step. I was completely hooked — I watched the whole thing in one go. Honestly, it left me feeling how small we are, which I found strangely relaxing. Afterwards, I even sent it to my wife, because I thought she'd love it too. So overall, it's one of those videos that really stuck with me.
+> The video I'd like to talk about is a space documentary I watched a while ago. I'm really into sci-fi, so anything about space instantly catches my eye. I came across it one night on my phone, when I was just scrolling to relax. It was about the universe — how stars form, black holes, that kind of thing. What really makes it stand out is how it turned really complex science into something simple. I'm a software engineer, so I like understanding how things work, and this explained it step by step. I was completely hooked — I watched the whole thing in one go. Honestly, it left me feeling how small we are, which I found strangely relaxing. Afterwards, I even sent it to my wife, because I thought she'd love it too. I even paused it a few times just to take in how huge the universe is. So overall, it's one of those videos that really stuck with me.
 
 > 🔁 **复用**：句2 `really into` + sci-fi(persona)；句3 `came across…scrolling`(老08)；句5 `What really makes it stand out is how`；句6 `I'm a software engineer`+`how things work`+`step by step`(新16)；句7 `hooked`(老08)；句9 `sent it to my wife`(老08 老婆推荐反向)；句10 `So overall`+`stuck with me`(新18)。新素材仅 space/stars/black holes。
 
@@ -316,11 +317,12 @@
 | 7 | 通常 旅行 时 我们 慢慢来、享受 当地 食物，但 在 那儿 我们 就 被 困住。 | Usually on a trip we take our time and enjoy the local food, but there we were just stuck. |
 | 8 | 说实话，我 儿子 一个 小时 内 就 坐不住 了。 | Honestly, my son got restless within an hour. |
 | 9 | 所以 第二天 早上 我们 早起、然后 继续 上路。 | So the next morning we got up early and moved on. |
-| 10 | 回头看，它 不 糟糕，但 它 不 是 一个 我 会 再 去 的 地方。 | Looking back, it wasn't terrible, but it's not somewhere I'd go again. |
+| 10 | 唯一 的 好 处，说实话，是 它 有 多 安静。 | The only good bit, honestly, was how quiet it was. |
+| 11 | 回头看，它 不 糟糕，但 它 不 是 一个 我 会 再 去 的 地方。 | Looking back, it wasn't terrible, but it's not somewhere I'd go again. |
 
 ### ②P2 整段（shadow）
 
-> The place I'd like to talk about is a small town my wife and I visited on a trip a while ago. We were driving through western Sichuan and stopped there for the night. To be fair, we didn't expect much, but it turned out even quieter than we thought. There was basically nothing to do — a couple of shops, one main street, and that was it. We wandered around for a bit, but everything shut early, so we just went back to the hotel. What made it so boring was that there was nowhere to eat and nothing to see. Usually on a trip we take our time and enjoy the local food, but there we were just stuck. Honestly, my son got restless within an hour. So the next morning we got up early and moved on. Looking back, it wasn't terrible, but it's not somewhere I'd go again.
+> The place I'd like to talk about is a small town my wife and I visited on a trip a while ago. We were driving through western Sichuan and stopped there for the night. To be fair, we didn't expect much, but it turned out even quieter than we thought. There was basically nothing to do — a couple of shops, one main street, and that was it. We wandered around for a bit, but everything shut early, so we just went back to the hotel. What made it so boring was that there was nowhere to eat and nothing to see. Usually on a trip we take our time and enjoy the local food, but there we were just stuck. Honestly, my son got restless within an hour. So the next morning we got up early and moved on. The only good bit, honestly, was how quiet it was. Looking back, it wasn't terrible, but it's not somewhere I'd go again.
 
 > 🔁 **复用**：句1 `I'd like to talk about is`+wife；句2 `driving through western Sichuan`(老12)；句3 `To be fair`；句5 `wandered around`(新18)；句6 `What made it so hard`→`so boring`(新16)；句7 `take our time`(老12)+`stuck`(新18)；句9 `got up early`；句10 `Looking back`(新12)。
 
@@ -433,11 +435,12 @@
 | 7 | 我们 沿着 我们家 附近 一条 河 跑，而 它 那么 安静——没 车流，只有 鸟。 | We ran along the river near our place, and it was so quiet — no traffic, just birds. |
 | 8 | 真正 让 它 特别的 是 有 那段 时间 在 一起，就 我们 俩。 | What really made it special was having that time together, just the two of us. |
 | 9 | 之后 我们 抓 了 早饭，而 我 感觉 一整天 都 清醒。 | Afterwards we grabbed breakfast, and I felt awake for the whole day. |
-| 10 | 所以 现在 我 尽量 更 常 早起——她 说实话 给 我 树立 了 一个 好 榜样。 | So now I try to get up early more often — she's honestly set a good example for me. |
+| 10 | 那 清新的 早晨 空气 说实话 比 任何 咖啡 都 更 让 我 清醒。 | That fresh morning air honestly woke me up more than any coffee would. |
+| 11 | 所以 现在 我 尽量 更 常 早起——她 说实话 给 我 树立 了 一个 好 榜样。 | So now I try to get up early more often — she's honestly set a good example for me. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I got up really early to go for a run with my wife. It was about a year ago, on a summer morning. My wife's really into fitness, and she's always trying to get me moving too. That day she woke me up at five, before the sun was even up. Honestly, I'm not a morning person, so dragging myself out of bed was tough. But once we got outside, it was completely worth it. We ran along the river near our place, and it was so quiet — no traffic, just birds. What really made it special was having that time together, just the two of us. Afterwards we grabbed breakfast, and I felt awake for the whole day. So now I try to get up early more often — she's honestly set a good example for me.
+> The time I'd like to talk about is when I got up really early to go for a run with my wife. It was about a year ago, on a summer morning. My wife's really into fitness, and she's always trying to get me moving too. That day she woke me up at five, before the sun was even up. Honestly, I'm not a morning person, so dragging myself out of bed was tough. But once we got outside, it was completely worth it. We ran along the river near our place, and it was so quiet — no traffic, just birds. What really made it special was having that time together, just the two of us. Afterwards we grabbed breakfast, and I felt awake for the whole day. That fresh morning air honestly woke me up more than any coffee would. So now I try to get up early more often — she's honestly set a good example for me.
 
 > 🔁 **复用**：句2 `It was about a year ago`(新16)；句3 `really into fitness`+wife；句6 `completely worth it`(老05/老20)；句7 `no traffic, just birds`+river(老26/新18)；句8 `What really made it special was`；句10 `set a good example`(新15)。
 
@@ -550,11 +553,12 @@
 | 7 | 我 小时候，他 会 让 我 帮忙，还 给 我 解释 每 一株 植物 怎么 长。 | When I was a kid, he'd let me help, and he'd explain how each plant works. |
 | 8 | 说实话，看 他的 花园 总是 勾起 我 那些 日子 的 回忆。 | Honestly, looking at his garden always brings back memories of those days. |
 | 9 | 对 他 来说，它 不 真的 关于 蔬菜——它 关于 保持 平静、亲近 自然。 | For him, it's not really about the vegetables — it's about staying calm and close to nature. |
-| 10 | 所以 有一天，我 很想 有 一个 像 他 那样的 小 花园。 | So one day, I'd love to have a little garden like his. |
+| 10 | 他 总是 给 我们 一 袋 新鲜 蔬菜 带 回家，而 说实话 它们 好吃 极了。 | He always gives us a bag of fresh vegetables to take home, and honestly they taste amazing. |
+| 11 | 所以 有一天，我 很想 有 一个 像 他 那样的 小 花园。 | So one day, I'd love to have a little garden like his. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my grandfather, who absolutely loves growing plants. He raised me during my childhood, so we spent loads of time together. He's got a small garden at home, where he grows all sorts of vegetables and flowers. Every morning he's out there watering, pulling weeds, that kind of thing. What really makes him stand out is how patient he is with it. He doesn't rush — he just chips away at it a little every day, and slowly everything grows. When I was a kid, he'd let me help, and he'd explain how each plant works. Honestly, looking at his garden always brings back memories of those days. For him, it's not really about the vegetables — it's about staying calm and close to nature. So one day, I'd love to have a little garden like his.
+> The person I'd like to talk about is my grandfather, who absolutely loves growing plants. He raised me during my childhood, so we spent loads of time together. He's got a small garden at home, where he grows all sorts of vegetables and flowers. Every morning he's out there watering, pulling weeds, that kind of thing. What really makes him stand out is how patient he is with it. He doesn't rush — he just chips away at it a little every day, and slowly everything grows. When I was a kid, he'd let me help, and he'd explain how each plant works. Honestly, looking at his garden always brings back memories of those days. For him, it's not really about the vegetables — it's about staying calm and close to nature. He always gives us a bag of fresh vegetables to take home, and honestly they taste amazing. So one day, I'd love to have a little garden like his.
 
 > 🔁 **复用**：句2 `raised me during my childhood`(老11)；句5 `What really makes him stand out is how`；句6 `chips away at it a little every day`(新15)；句7 `how … works`(新16)；句8 `brings back memories`(老11)；句9 `not really about X — it's about Y`(新14)；句10 `one day, I'd love to`(老11)。
 
@@ -1005,11 +1009,12 @@
 | 7 | 他 不 只是 想 挣钱——他 想 建 一个 人们 爱 的 地方。 | He didn't just want to make money — he wanted to build a place people love. |
 | 8 | 说实话，那 就是 为什么 那 咖啡馆 做 得 这么 好，我 觉得。 | Honestly, that's why the café's done so well, I reckon. |
 | 9 | 它 归结到 热情，不 只是 一个 好 商业 计划。 | It comes down to passion, not just a good business plan. |
-| 10 | 所以 对我，他 是 一个 做 你 热爱 的 事 的 好 榜样。 | So for me, he's a great example of doing something you love. |
+| 10 | 无论 什么时候 我 有 忙 的 一周，他的 咖啡馆 是 我 第一个 去 放松 的 地方。 | Whenever I've got a busy week, his café is the first place I go to unwind. |
+| 11 | 所以 对我，他 是 一个 做 你 热爱 的 事 的 好 榜样。 | So for me, he's a great example of doing something you love. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. I got to know him a few years ago, when I became a regular at his place. He started the café himself, after quitting his office job. What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. He knows most of his regulars by name, and he always remembers your usual order. What I admire about him is how much he cares about the little things. He didn't just want to make money — he wanted to build a place people love. Honestly, that's why the café's done so well, I reckon. It comes down to passion, not just a good business plan. So for me, he's a great example of doing something you love.
+> The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. I got to know him a few years ago, when I became a regular at his place. He started the café himself, after quitting his office job. What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. He knows most of his regulars by name, and he always remembers your usual order. What I admire about him is how much he cares about the little things. He didn't just want to make money — he wanted to build a place people love. Honestly, that's why the café's done so well, I reckon. It comes down to passion, not just a good business plan. Whenever I've got a busy week, his café is the first place I go to unwind. So for me, he's a great example of doing something you love.
 
 > 🔁 **复用**：句1 `a friend of mine`(老23)；句4 `What really makes it stand out is`+`a nice escape from`(老24)；句6 `What I admire about him is`；句7 not-just-money(老20)；句8 `Honestly … I reckon`；句9 `comes down to`；句10 `a great example`(新15)。
 
@@ -1122,11 +1127,12 @@
 | 7 | 我们 反而 改 了 计划，就 在 附近 做 了 一趟 短 自驾，在 他 好 了 之后。 | Instead, we changed our plan and just did a short road trip nearby, once he got better. |
 | 8 | 我们 开 进 山 里，在 任何 看起来 不错 的 地方 停，然后 慢慢来。 | We drove into the mountains, stopped wherever looked nice, and took our time. |
 | 9 | 我 学 到 的 是 让 一个 计划 保持 灵活 总是 值得。 | What I learned is that it's always worth keeping a plan flexible. |
-| 10 | 所以 到头来，它 进展 得 不错——我们 会 改天 去 京都。 | So in the end, it worked out fine — we'll get to Kyoto another time. |
+| 10 | 说实话，我 儿子 在 那趟 自驾 上 玩 得 这么 开心，他 几乎 没 再 提 京都。 | Honestly, my son had such a good time on the road trip that he barely mentioned Kyoto. |
+| 11 | 所以 到头来，它 进展 得 不错——我们 会 改天 去 京都。 | So in the end, it worked out fine — we'll get to Kyoto another time. |
 
 ### ②P2 整段（shadow）
 
-> The plan I'd like to talk about is a trip to Kyoto I had to change recently. My family and I had been planning it for months — my wife and I both love Japan. We were going to visit the old temples and wander around, like we always do. But about a week before, my son came down with a bad cold. So we had to cancel the flights and put the whole trip off. Honestly, it was a real shame, since we'd been looking forward to it. Instead, we changed our plan and just did a short road trip nearby, once he got better. We drove into the mountains, stopped wherever looked nice, and took our time. What I learned is that it's always worth keeping a plan flexible. So in the end, it worked out fine — we'll get to Kyoto another time.
+> The plan I'd like to talk about is a trip to Kyoto I had to change recently. My family and I had been planning it for months — my wife and I both love Japan. We were going to visit the old temples and wander around, like we always do. But about a week before, my son came down with a bad cold. So we had to cancel the flights and put the whole trip off. Honestly, it was a real shame, since we'd been looking forward to it. Instead, we changed our plan and just did a short road trip nearby, once he got better. We drove into the mountains, stopped wherever looked nice, and took our time. What I learned is that it's always worth keeping a plan flexible. Honestly, my son had such a good time on the road trip that he barely mentioned Kyoto. So in the end, it worked out fine — we'll get to Kyoto another time.
 
 > 🔁 **复用**：句3 `wander around`(新18)；句6 `looking forward to`(老12)；句7/8 road trip + `stopped wherever looked nice`+`took our time`(老12)；句9 `keeping a plan flexible`(新18-Q4)；句10 `worked out`(新12)。
 
@@ -1239,11 +1245,12 @@
 | 7 | 一旦 每个人 知道 他们的 部分，我们 就 一步步 把 它 做完。 | Once everyone knew their part, we just worked through it step by step. |
 | 8 | 最后，那 提案 进展 得 很好，而 那 老板 喜欢 它。 | In the end, the proposal went really well, and the boss liked it. |
 | 9 | 我 从 中 学 到 的 是 一个 团队 运转 得 最好、当 每个人 都 发挥 他们的 长处。 | What I took from it is that a group works best when everyone plays to their strengths. |
-| 10 | 所以 说实话，团队合作 胜过 单干，只要 它 有 条理。 | So honestly, teamwork beats working alone, as long as it's organised. |
+| 10 | 到 最后 我们 都 相处 得 很好，还 一起 去 吃 了 一顿 庆祝。 | By the end we were all getting on well, and we went for a meal to celebrate. |
+| 11 | 所以 说实话，团队合作 胜过 单干，只要 它 有 条理。 | So honestly, teamwork beats working alone, as long as it's organised. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I worked in a group on a big proposal at work. I'm a software engineer, and a few of us were put together to pitch a new feature. There were about four of us, each handling a different part. At first, it was a bit of a mess — everyone had their own ideas and nobody agreed. What made it hard was that we were all under pressure, with a tight deadline. So I suggested we map the whole thing out first and split the work clearly. Once everyone knew their part, we just worked through it step by step. In the end, the proposal went really well, and the boss liked it. What I took from it is that a group works best when everyone plays to their strengths. So honestly, teamwork beats working alone, as long as it's organised.
+> The time I'd like to talk about is when I worked in a group on a big proposal at work. I'm a software engineer, and a few of us were put together to pitch a new feature. There were about four of us, each handling a different part. At first, it was a bit of a mess — everyone had their own ideas and nobody agreed. What made it hard was that we were all under pressure, with a tight deadline. So I suggested we map the whole thing out first and split the work clearly. Once everyone knew their part, we just worked through it step by step. In the end, the proposal went really well, and the boss liked it. What I took from it is that a group works best when everyone plays to their strengths. By the end we were all getting on well, and we went for a meal to celebrate. So honestly, teamwork beats working alone, as long as it's organised.
 
 > 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `a bit of a mess`(clutter降档同族)；句5 `What made it hard was`(新16)+`under pressure`(张伟)；句6 `map the whole thing out`+`split the work`(老06)；句7 `worked through it step by step`(新16)；句8 `went really well`(新12)；句10 `beats working alone`(新07 nothing beats)。
 
