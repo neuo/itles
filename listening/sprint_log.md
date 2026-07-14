@@ -6,6 +6,8 @@
 |------|------|--------|--------|----|----------------------|
 | 7/12 | Hand knitting (S4) | 4/10 | 10/10* | 8/10 | — |
 | 7/12 | Dodo extinction (S4) | **6/10(新题!)** | — | — | — |
+| 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | — | — | — |
+> 🟡 **G1 未达标**: 需新P4一遍≥6连两次;dodo=6→maple=4,streak断。**非全面倒退=问题搬家**(开头修好31/32/33全对,尾巴34-40塌)。material更难(Process,技术词密diameter/evaporator)。
 > *二遍看过答案,含记忆成分,不证明技能;真验证=新 P4
 > P1 = Junior Cycle camp,8/10,两错全是结构性(见下),零"写"错(199/190/拼写全对)
 > 🎯 **Dodo=当日第2个 P4,全新题,6/10 = G1目标(≥6)提前一天摸到,证明技术真迁移(非记忆)**。对的6个含改写层(movement/forest=destroyed/smell/rats)。
@@ -46,6 +48,28 @@
 **开头仍软**(连2天): 31空+32错=History段date+fact来太快没settle。→预读预装开头第一空的意思,开场白一结束耳朵架上。
 **D1量**: 2个P4(4→10记忆/6新题)+1个P1(8)。G1提前摸到。
 
+**⚠️ 她的重要修正(别把认当锚绑错去练)**: 锚绑错的前提=听到了答案词只是抓错;但有些是**根本没把答案词听成词**(认/声音盲点)→ bind-check 无用(手里没正确候选)。今天重新分:
+- **32 colony=认**(她说发音不熟,只抓到set up),不是锚绑错。bind-check救不了。
+- **36 balance/37 brain=可抓**(她说"有可能抓到")→ 这两个才是bind-check真能捞的分。
+**她的自我标签(每错必问)**: "听到了抓错"(→狠练bind-check,高回报) vs "根本没听到"(→按空逻辑猜+进错句表喂耳朵,别纠结当场听懂)。
+**听不到答案词时的正解**(答她"听不懂就抓个可能的词"): 别瞄准"抓到的音"(setup),瞄准"空逻辑上非它不可的词"——"Dutch established a ___ on island 1638"→常识就是settlement/colony(都对),不用听见colony。填前读通:"established a setup"别扭→settlement顺。**升级fallback=按空的逻辑猜,不按抓到的音猜。**
+**"读得懂听不见"的词**(colony类,三通路病:存拼写没存声音)修法=句子级跟读进错句表+次日重放(非王陆孤立词,已验证无效),只攒高频雅思词(colony/settlement/reference),慢但真迁移。
+**这周真相**: 不治"听不懂"。只做①听得到却抓错的捞回(bind-check)②听不到的按空逻辑猜中。剩真听不到又猜不出=认账丢,6.5不靠它们。
+
+### 7/14 (D2) 焦点: 锚绑对(重复=诱饵/新词=答案) + Type B triage
+练了: P4 "Maple syrup"(Process) 一遍 **4/10**(6→4,G1 streak 断)
+归因: 锚绑错2(34 liquid顶rock / 36 hole顶tube) 认1(35 diameter技术词) 位3(37 fire/39 cloudy/40 litre,全是认识的大白话,级联淹的) — 40 是"听到liter却没填"
+对的: 31/32/33(**开头全对=昨天软肋已修!**)+38 steam(强Type-A锚)
+**头号发现: 非全面倒退=问题搬家。** 开头(昨天崩点)今天干净,塌的搬到尾巴34-40。塌法=**级联**: 34抓错+35听不出diameter打断节奏→没止损→37/39/40(fire/cloudy/litre全认识)陪葬。中间只点抓到38(强锚)=证明她在**点抓不是连续守**。
+**签名错误更狠判据(第6次)**: 一句两名词,**哪个跟note已印的词重复=诱饵,答案是另一个"新"名词**。
+- 34: note已印"heat the sap"→audio liquid=sap(重复,诱饵)→答案新词rock
+- 36: note已印"drilled into trunk"→audio hole=被drill的(重复,诱饵)→答案新词tube
+- 她两次都抓"对上已知"的那个=正好抓反。答案永远是新信息。
+**最亏一分(40)**: 听到liter没填=手里有词格子空。**铁规则: 逮到能填的词就写进去,caught-word永远>blank**。塌了之后她在被动听、停止往空里放。
+**止损跳(本可救37/39/40)**: 34/35崩时应立刻跳下一路标("The production"标题/audio"tapped...drilling"=Q36入口)重启,别追。别点抓,连续守;掉了跳路标不回头。
+**diameter=真词汇盲点(认)**: 公平损失,进错句表慢慢喂耳。
+**明日单焦点**: ①签名错误新判据(重复=诱饵/新词=答案) ②caught-word>blank ③止损跳。冲重建G1(新P4一遍≥6)。
+
 ## ③ 错句表
 
 | 日期 | 答案句(摘抄) | 答案词 | 归因 | 跟读√ | 次日重放√ | ⭐仍不顺 |
@@ -56,3 +80,9 @@
 | 7/12 | the skills...are quite basic, and the outlay is minimal | basic | 预(锚绑错) | | | |
 | 7/12 | regional differences in style developed | style | 位/认 | | | |
 | 7/12 | while watching over sheep, walking to market | sheep | 认+写 | | | |
+| 7/14 | boiled the liquid by placing pieces of rock that became scorching hot | rock | 锚绑错(新词) | | | |
+| 7/14 | inserting a tube into it that ends in a bucket | tube | 锚绑错(新词) | | | |
+| 7/14 | a fire is built and the pans are then heated | fire | 位(级联) | | | |
+| 7/14 | gives the syrup a cloudy appearance | cloudy | 位(级联) | | | |
+| 7/14 | to produce one litre of maple syrup | litre | 位(听到没填!) | | | |
+| 7/14 | the trunks reach a diameter of around 25 centimetres | diameter | 认(技术词) | | | |
