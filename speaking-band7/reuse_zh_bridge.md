@@ -2000,6 +2000,339 @@
 
 ---
 
+## P2-新18 · A place you'd recommend — 京都（Place）  〔你的版 · 未改〕
+
+> **Cue**: 在哪 / 去过几次 / 做什么 / 为何推荐 · 题型 Place
+>
+> 🎤 **你的版（6/26 练过 · 未降未改）**：P2 = 京都 + 你练的 6 题 P3（travel/holiday 域）。这是京都池 + 旅游域源头。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想推荐的那个 地方 是 京都，在 日本 的 西部。 | The place I'd like to recommend is Kyoto, over in the west of Japan. |
+| 2 | 我 现在 已经 去过 那儿 四次，而 我 每一次 都 享受。 | I've been there four times now, and I've enjoyed it every single time. |
+| 3 | 我 在 那儿 通常 做的 是 逛 那些 老 寺庙、在 街区 里 闲逛、还 吃 当地 街头 小吃。 | What I usually do there is visit the old temples, wander around the neighbourhoods, and eat local street food. |
+| 4 | 一个 真的 留 在 我 心里的 时刻 是 我 沿着 那儿 一条 河 的 一次 散步——我 说实话 念 不 出 它的 名字。 | One moment that really stuck with me was a stroll I took along a river there — I honestly can't pronounce its name. |
+| 5 | 一开始，我 不 明白 为什么 这么 小 一条 河 有名，但 过 一会儿，我 完全 沉浸 在 它 那 宁静的 氛围 里。 | At first, I couldn't get why such a small river was famous, but after a while, I was completely immersed in its peaceful atmosphere. |
+| 6 | 真正 让 京都 出众的 是 它 怎么 融合 那 传统 和 那 现代。 | What really makes Kyoto stand out is how it blends the traditional and the modern. |
+| 7 | 你 会 看到 一大堆 人 穿着 传统 衣服 走来走去，而 你 却 能 买 那 最新的 iPhone、然后 撞见 一座 几百年 的 寺庙、就 在 街 那头。 | You'll see loads of people walking around in traditional clothes, and yet you can buy the latest iPhone and then come across a centuries-old temple just down the street. |
+| 8 | 所以 总的来说，我 会 把 它 推荐 给 任何人、（那种 想要 一个 让 你 慢下来 的 地方的）——它 是 一个 我 会 永远 记得的 地方。 | So all in all, I'd recommend it to anyone who wants a place that slows you down — it's somewhere I'll always remember. |
+
+### ②P2 整段（shadow）
+
+> The place I'd like to recommend is Kyoto, over in the west of Japan. I've been there four times now, and I've enjoyed it every single time. What I usually do there is visit the old temples, wander around the neighbourhoods, and eat local street food. One moment that really stuck with me was a stroll I took along a river there — I honestly can't pronounce its name. At first, I couldn't get why such a small river was famous, but after a while, I was completely immersed in its peaceful atmosphere. What really makes Kyoto stand out is how it blends the traditional and the modern. You'll see loads of people walking around in traditional clothes, and yet you can buy the latest iPhone and then come across a centuries-old temple just down the street. So all in all, I'd recommend it to anyone who wants a place that slows you down — it's somewhere I'll always remember.
+
+### 句型/模板（你自己的）
+
+- `The place I'd like to recommend is …, over in the west of …` · `What I usually do there is visit …, wander around …, and eat …` · `One moment that really stuck with me was …` · `I was completely immersed in its peaceful atmosphere` · `What really makes Kyoto stand out is how it blends the traditional and the modern` · `a place that slows you down` · `somewhere I'll always remember`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · travel/holiday）
+
+**Q1. Where do people go for holidays?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆，说实话——中国 是 一个 大 国家，所以 有 很多 选择。 | Loads, honestly — China's a big country, so there are tons of options. |
+| 2 | 一大堆 人 去 海边，比如 上海 或 海南，（那里 他们 能 享受 那 沙滩 和 海景）。 | A lot of people head to the seaside, like Shanghai or Hainan, where they can enjoy the sandy beaches and ocean views. |
+| 3 | 另一些 更喜欢 山，比如 黄山，（那里 他们 能 躲开 那 夏天 的热、还 呼吸 一些 新鲜 空气）。 | Others prefer the mountains, like Huangshan, where they can escape the summer heat and breathe some fresh air. |
+| 4 | 所以 它 真的 取决于 你 追求 什么。 | So it really depends on what you're after. |
+
+> Loads, honestly — China's a big country, so there are tons of options. A lot of people head to the seaside, like Shanghai or Hainan, where they can enjoy the sandy beaches and ocean views. Others prefer the mountains, like Huangshan, where they can escape the summer heat and breathe some fresh air. So it really depends on what you're after.
+
+**Q2. What's the ideal length for a holiday?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一到 两周 是 理想的，我会说。 | One to two weeks is ideal, I'd say. |
+| 2 | 如果 你 只 有 几天，那 旅行 感觉 太 匆忙——你 几乎 来不及 体会 那 当地 文化 或 那 风景，它 就 结束了。 | If you only have a few days, the trip feels too rushed — you barely get to take in the local culture or the scenery before it's over. |
+| 3 | 一周 左右 是 那个 最佳点：你 有 足够 时间 慢下来、真正 享受 它，不管 是 那 自然 风景 还是 那 历史 古迹。 | A week or so is the sweet spot: you've got enough time to slow down and really enjoy it, whether it's the natural scenery or the historical sights. |
+
+> One to two weeks is ideal, I'd say. If you only have a few days, the trip feels too rushed — you barely get to take in the local culture or the scenery before it's over. A week or so is the sweet spot: you've got enough time to slow down and really enjoy it, whether it's the natural scenery or the historical sights.
+
+**Q3. How do people plan holidays?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 这些天，大多 在 网上，我会说。 | These days, mostly online, I'd say. |
+| 2 | 你 能 在 网上 找到 所有 答案——怎么 去 那儿、哪些 餐厅 好、那 当地 文化 是 什么 样的，全部。 | You can find all the answers on the internet — how to get there, which restaurants are good, what the local culture's like, all of it. |
+| 3 | 此外，问 朋友 也 是 一个 好 方式——你 得到 更 真实的 信息、而不是 只 广告。 | Plus, asking friends is a good way too — you get more honest info instead of just ads. |
+| 4 | 所以 真的，大多数人 两样 都 做 一点。 | So really, most people do a bit of both. |
+
+> These days, mostly online, I'd say. You can find all the answers on the internet — how to get there, which restaurants are good, what the local culture's like, all of it. Plus, asking friends is a good way too — you get more honest info instead of just ads. So really, most people do a bit of both.
+
+**Q4. Is it important to plan ahead?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的——至少 那些 基础。 | Definitely, yes — at least the basics. |
+| 2 | 即使 是 一个 轻松的 假期，值得 有 一个 大致的 计划，尤其 为 交通 和 你 住 哪儿。 | Even for a chilled-out holiday, it's worth having a rough plan, especially for transport and where you're staying. |
+| 3 | 否则 你 可能 最后 被 困住——比如 在 一个 陌生 地方 晚上 转来转去、无处 可去。 | Otherwise you can end up stuck — like wandering around a strange place at night with nowhere to go. |
+| 4 | 所以 我 会 总是 提前 搞定 那些 大事，即使 我 让 其余 保持 灵活。 | So I'd always sort out the big stuff in advance, even if I keep the rest flexible. |
+
+> Definitely, yes — at least the basics. Even for a chilled-out holiday, it's worth having a rough plan, especially for transport and where you're staying. Otherwise you can end up stuck — like wandering around a strange place at night with nowhere to go. So I'd always sort out the big stuff in advance, even if I keep the rest flexible.
+
+**Q5. Why do countries attract tourists?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 钱，我会说。 | Mainly money, I'd say. |
+| 2 | 旅游业 带 进 一 大笔 收入——游客 花钱 在 交通、酒店、和 食物 上，所以 它 全 加起来。 | Tourism brings in a huge amount of income — visitors spend on transport, hotels and food, so it all adds up. |
+| 3 | 此外，它 创造 一大堆 工作 给 普通 人。 | Plus, it creates loads of jobs for ordinary people. |
+| 4 | 而 它 对 那 国家 的 形象 也 很好——游客 回家 然后 到处 说。 | And it's great for the country's image too — visitors go home and spread the word. |
+| 5 | 所以 总的来说，外国 游客 对 那 经济 真的 很 好。 | So overall, foreign tourists are really good for the economy. |
+
+> Mainly money, I'd say. Tourism brings in a huge amount of income — visitors spend on transport, hotels and food, so it all adds up. Plus, it creates loads of jobs for ordinary people. And it's great for the country's image too — visitors go home and spread the word. So overall, foreign tourists are really good for the economy.
+
+**Q6. How do people decide when to travel?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 大多 归结到 时机，我会说。 | It mostly comes down to timing, I'd say. |
+| 2 | 对 小孩，是 学校 假期；对 大人，是 无论 什么时候 他们 能 请 到 假，或 当 事情 稍微 清闲 一点。 | For kids, it's the school holidays; for adults, it's whenever they can get time off work, or when things are a bit quieter. |
+| 3 | 人们 也 会 考虑 那 目的地——哪个 季节 最好，或 什么时候 人 更 少。 | People also think about the destination — which season's best, or when it's less crowded. |
+| 4 | 所以 真的，它 是 你 什么时候 有空 和 什么时候 是 去 的 最佳时机 的 一个 混合。 | So really, it's a mix of when you're free and when's the best time to go. |
+
+> It mostly comes down to timing, I'd say. For kids, it's the school holidays; for adults, it's whenever they can get time off work, or when things are a bit quieter. People also think about the destination — which season's best, or when it's less crowded. So really, it's a mix of when you're free and when's the best time to go.
+
+---
+
+## P2-新19 · A home you like to visit but not live in — 外公外婆家（Place）  〔复用生成〕
+
+> **Cue**: 在哪 / 什么样 / 为何爱去 / 为何不想住 · 题型 Place
+>
+> 🔁 **整卡复用自**：老11 外公(brings back memories/raised me) + 新05 外公花园 + 老26(escape/quiet) + 老24(all under one roof/escape from city) + 老12(son runs around/take our time/drive)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 家 是 我 外公外婆 的 地方，在 乡下。 | The home I'd like to talk about is my grandparents' place, out in the countryside. |
+| 2 | 它 是 一栋 老 房子、带 一个 大 花园，（那里 我 外公 种 蔬菜）。 | It's an old house with a big garden, where my grandfather grows vegetables. |
+| 3 | 我 爱 去 是 因为 它 勾起 我 童年 的 回忆——他 在 那儿 把 我 带大。 | I love visiting because it brings back memories of my childhood — he raised me there. |
+| 4 | 它 那么 安静、平和，一个 从 城市 的 真正 逃离。 | It's so quiet and calm, a real escape from the city. |
+| 5 | 每次 我们 去，我 儿子 在 花园 里 到处 跑，而 我们 都 就 放松。 | Whenever we go, my son runs around the garden and we all just relax. |
+| 6 | 我 最 爱 的 是 那 慢 节奏——我们 慢慢来、一起 吃饭、聊天。 | What I love most is the slow pace — we take our time, eat together, and chat. |
+| 7 | 但 说实话，我 不 会 想 全职 住 那儿。 | But honestly, I wouldn't want to live there full-time. |
+| 8 | 它 离 工作、商店、还有 我 儿子的 学校 太 远。 | It's too far from work, the shops, and my son's school. |
+| 9 | 在 一个 城市，一切 都 在 一个 屋顶 下，而 那 外面 你 开 老半天 才 买 到 任何 东西。 | In a city, everything's under one roof, whereas out there you drive ages for anything. |
+| 10 | 所以 对我，它 是 那个 完美 去 逛 的 地方，但 不 是 安家 的。 | So for me, it's the perfect place to visit, but not to settle. |
+
+### ②P2 整段（shadow）
+
+> The home I'd like to talk about is my grandparents' place, out in the countryside. It's an old house with a big garden, where my grandfather grows vegetables. I love visiting because it brings back memories of my childhood — he raised me there. It's so quiet and calm, a real escape from the city. Whenever we go, my son runs around the garden and we all just relax. What I love most is the slow pace — we take our time, eat together, and chat. But honestly, I wouldn't want to live there full-time. It's too far from work, the shops, and my son's school. In a city, everything's under one roof, whereas out there you drive ages for anything. So for me, it's the perfect place to visit, but not to settle.
+
+> 🔁 **复用**：句3 `brings back memories`+`raised me`(老11)；句4 `escape from the city`(老24/老26)；句5 `son runs around`(老12)；句6 `take our time`(老12)；句9 `all under one roof`(老24)+`whereas`+drive(老12)。
+
+### 句型/模板（复用池）
+
+- `The home I'd like to talk about is my grandparents' place, out in the countryside` · `it brings back memories of my childhood` · `a real escape from the city` · `What I love most is the slow pace — we take our time` · `everything's under one roof, whereas out there …` · `the perfect place to visit, but not to settle`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do Chinese people like to visit others' homes?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，相当 多，我会说。 | Yeah, quite a lot, I'd say. |
+| 2 | 它 是 那 文化 的 一个 大 部分，尤其 在 节日 期间。 | It's a big part of the culture, especially during festivals. |
+| 3 | 人们 拜访 家人 和 朋友、带 礼物、还 一起 吃 一顿饭。 | People visit family and friends, bring gifts, and share a meal. |
+| 4 | 所以 它 真的 关于 保持 亲近，说句公道话。 | So it's really about staying close, to be fair. |
+
+> Yeah, quite a lot, I'd say. It's a big part of the culture, especially during festivals. People visit family and friends, bring gifts, and share a meal. So it's really about staying close, to be fair.
+
+> 🔁 **复用**：`quite a lot, I'd say`+`share a meal`(新14)+`to be fair`。
+
+**Q2. What do Chinese people do when they visit others?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 东西，真的。 | Loads of things, really. |
+| 2 | 大多 他们 聊天、一起 吃 一顿饭、还 喝茶 叙旧。 | Mostly they chat, share a meal, and catch up over tea. |
+| 3 | 除此之外，人们 通常 带 一个 小 礼物，比如 水果。 | On top of that, people usually bring a small gift, like fruit. |
+| 4 | 所以 它 是 一个 温暖、放松的 事，说句公道话。 | So it's a warm, relaxed thing, to be fair. |
+
+> Loads of things, really. Mostly they chat, share a meal, and catch up over tea. On top of that, people usually bring a small gift, like fruit. So it's a warm, relaxed thing, to be fair.
+
+> 🔁 **复用**：`Loads of things, really`+`share a meal`(新14)+`over tea`(老26)+`On top of that`+`to be fair`。
+
+**Q3. What kind of place do people in your country like to live in?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 城市，我会说。 | Mostly cities, I'd say. |
+| 2 | 一切 都 在 一个 屋顶 下——工作、商店、学校——所以 它 方便。 | Everything's under one roof — work, shops, schools — so it's convenient. |
+| 3 | 而 老年人 常常 更喜欢 乡下 某个 安静的 地方。 | Whereas older people often prefer somewhere quiet in the countryside. |
+| 4 | 所以 它 归结到 你 在 人生 哪个 阶段。 | So it comes down to what stage of life you're at. |
+
+> Mostly cities, I'd say. Everything's under one roof — work, shops, schools — so it's convenient. Whereas older people often prefer somewhere quiet in the countryside. So it comes down to what stage of life you're at.
+
+> 🔁 **复用**：`Mostly … I'd say`+`all under one roof`(老24)+`whereas`+`comes down to`。
+
+**Q4. What's the difference between homes in cities and those in the countryside?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 城市 的 家 是 公寓，小 又 挨 得 近，而 乡下 房子 有 空间 和 一个 花园。 | City homes are flats, small and close together, whereas country houses have space and a garden. |
+| 3 | 我 外公外婆 的 地方 比 我们的 公寓 大 太多。 | My grandparents' place is huge compared to our flat. |
+| 4 | 所以 它 归结到 空间 对 便捷。 | So it comes down to space versus convenience. |
+
+> Quite a few, actually. City homes are flats, small and close together, whereas country houses have space and a garden. My grandparents' place is huge compared to our flat. So it comes down to space versus convenience.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+外公link+`comes down to`。
+
+**Q5. What kind of gifts do people usually bring when they visit others?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 小、贴心的 东西，我会说。 | Mostly small, thoughtful things, I'd say. |
+| 2 | 水果、茶、或 零食 是 那 惯常的，尤其 给 年长的 亲戚。 | Fruit, tea, or snacks are the usual, especially for older relatives. |
+| 3 | 我 老婆 总是 帮 我们 搞定——她 很 会 挑 对 的 东西。 | My wife always sorts ours out — she's good at picking the right thing. |
+| 4 | 所以 是 那份 心意 最 重要，说句公道话。 | So it's the thought that counts, to be fair. |
+
+> Mostly small, thoughtful things, I'd say. Fruit, tea, or snacks are the usual, especially for older relatives. My wife always sorts ours out — she's good at picking the right thing. So it's the thought that counts, to be fair.
+
+> 🔁 **复用**：`Mostly … I'd say`+wife+`sorts … out`+`to be fair`。
+
+**Q6. How often do you visit your relatives or friends?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 挺 常，我会说。 | Quite often, I'd say. |
+| 2 | 我们 每 几周 去 看 我 外公外婆，通常 在 一个 周末。 | We visit my grandparents every few weeks, usually on a weekend. |
+| 3 | 而 跟 朋友，现在 少 了，既然 每个人 都 忙。 | Whereas with friends, it's less often now that everyone's busy. |
+| 4 | 所以 它 归结到 找到 时间，说实话。 | So it comes down to finding the time, honestly. |
+
+> Quite often, I'd say. We visit my grandparents every few weeks, usually on a weekend. Whereas with friends, it's less often now that everyone's busy. So it comes down to finding the time, honestly.
+
+> 🔁 **复用**：`Quite often, I'd say`+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`quite a lot, I'd say` / `share a meal` · `Loads of things, really` / `over tea` · `Mostly cities, I'd say` / `all under one roof` / `whereas` · `Quite a few, actually` / `comes down to space versus convenience` · `Mostly small, thoughtful things, I'd say` / `sorts ours out` · `Quite often, I'd say` / `everyone's busy` / `finding the time`。
+
+---
+
+## P2-新20 · A story/book with animals — 《好饿的毛毛虫》（Object）  〔复用生成〕
+
+> **Cue**: 有什么动物 / 讲什么 / 为何读 / 你的看法 · 题型 Object
+>
+> 🔁 **整卡复用自**：son/Muye + 新14(over the moon) + 老11(brings back memories/keep me company) + 老26(routine) + 新14(not really about X, it's about Y)。毛毛虫/绘本=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那本 书 是 《好饿的毛毛虫》，一个 儿童 故事。 | The book I'd like to talk about is "The Very Hungry Caterpillar", a children's story. |
+| 2 | 它 关于 一条 小 毛毛虫、（它 一路 吃 穿 各种 食物、然后 变成 一只 蝴蝶）。 | It's about a little caterpillar that eats its way through all sorts of food and turns into a butterfly. |
+| 3 | 我 在 我 儿子 Muye 小 的时候 给 他 读 它 读 了 一大堆。 | I read it to my son, Muye, loads when he was little. |
+| 4 | 他 每一次 都 高兴 坏了——他 爱 那 毛毛虫。 | He was over the moon every time — he loved the caterpillar. |
+| 5 | 真正 让 它 出众的 是 它 多么 简单，但 它 仍然 教 一大堆。 | What really makes it stand out is how simple it is, but it still teaches a lot. |
+| 6 | 孩子 学 数数、星期几、还有 一只 蝴蝶 怎么 长 出来。 | Kids learn about counting, days of the week, and how a butterfly grows. |
+| 7 | 我 儿子 真的 很 迷 动物，所以 它 对 他 完美。 | My son's really into animals, so it was perfect for him. |
+| 8 | 说实话，一起 读 它 是 一个 睡前 可爱的 小 惯例。 | Honestly, reading it together was a lovely little routine before bed. |
+| 9 | 它 勾起 他 很 小 的时候 的 回忆。 | It brings back memories of when he was tiny. |
+| 10 | 所以 对我，它 不 真的 关于 那 故事——它 关于 跟 他 的 那段 时间。 | So for me, it's not really about the story — it's about that time with him. |
+
+### ②P2 整段（shadow）
+
+> The book I'd like to talk about is "The Very Hungry Caterpillar", a children's story. It's about a little caterpillar that eats its way through all sorts of food and turns into a butterfly. I read it to my son, Muye, loads when he was little. He was over the moon every time — he loved the caterpillar. What really makes it stand out is how simple it is, but it still teaches a lot. Kids learn about counting, days of the week, and how a butterfly grows. My son's really into animals, so it was perfect for him. Honestly, reading it together was a lovely little routine before bed. It brings back memories of when he was tiny. So for me, it's not really about the story — it's about that time with him.
+
+> 🔁 **复用**：句4 `over the moon`(新14)；句5 `What really makes it stand out is how`；句7 `really into`；句9 `brings back memories`(老11)；句10 `not really about X — it's about Y`(新14)。
+
+### 句型/模板（复用池）
+
+- `The book I'd like to talk about is …, a children's story` · `What really makes it stand out is how simple it is` · `He was over the moon every time` · `it brings back memories of when he was tiny` · `it's not really about the story — it's about that time with him`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Should schools teach children about animals?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 从 小 教 他们 关心 别的 生命。 | It teaches them to care for other living things from a young age. |
+| 3 | 此外，它 动手、又 好玩，所以 孩子 真的 享受 它。 | Plus, it's hands-on and fun, so kids actually enjoy it. |
+| 4 | 所以 它 是 一个 简单的 方式 [去]教 善良。 | So it's a simple way to teach kindness. |
+
+> Absolutely, I think so. It teaches them to care for other living things from a young age. Plus, it's hands-on and fun, so kids actually enjoy it. So it's a simple way to teach kindness.
+
+> 🔁 **复用**：`Absolutely, I think so`+`hands-on`(新16)+`a simple way to teach`(新05-Q6)。
+
+**Q2. Some people think pets should not be kept in cities. What do you think?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 诚然，公寓 小，但 一大堆 宠物 在 室内 很 开心。 | Sure, flats are small, but plenty of pets are happy indoors. |
+| 3 | 而 完全 禁 它们 感觉 太 狠。 | Whereas banning them completely feels too harsh. |
+| 4 | 所以 它 归结到 做 一个 负责的 主人。 | So it comes down to being a responsible owner. |
+
+> Not really, no. Sure, flats are small, but plenty of pets are happy indoors. Whereas banning them completely feels too harsh. So it comes down to being a responsible owner.
+
+> 🔁 **复用**：`Not really, no`+`Sure, … but`(老08-Q6)+`whereas`+`banning … completely`(老08-Q4 total ban)+`comes down to`。
+
+**Q3. Many people regard pets as members of their family. What do you think?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 完全 理解，说实话。 | I completely get it, honestly. |
+| 2 | 一只 宠物 跟 你 一起 住 好些年，所以 你 自然 变 亲近。 | A pet lives with you for years, so you naturally grow close. |
+| 3 | 对 一大堆 人，它 就 像 又 有 一个 孩子，说句公道话。 | For a lot of people, it's like having another kid, to be fair. |
+| 4 | 所以 它 归结到 你 建立 的 那份 纽带。 | So it comes down to the bond you build. |
+
+> I completely get it, honestly. A pet lives with you for years, so you naturally grow close. For a lot of people, it's like having another kid, to be fair. So it comes down to the bond you build.
+
+> 🔁 **复用**：`honestly`+`to be fair`+`the bond you build`(新07-Q3)+`comes down to`。
+
+**Q4. Do many people keep pets in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，我会说。 | Quite a few, I'd say. |
+| 2 | 猫 和 狗 是 最 常见的，尤其 在 城市。 | Cats and dogs are the most common, especially in cities. |
+| 3 | 而 乡下 的 老年人 常常 也 为 一个 目的 养 它们。 | Whereas older folk in the countryside often keep them for a purpose too. |
+| 4 | 所以 这些天 它 真的 很 受欢迎。 | So it's really popular these days. |
+
+> Quite a few, I'd say. Cats and dogs are the most common, especially in cities. Whereas older folk in the countryside often keep them for a purpose too. So it's really popular these days.
+
+> 🔁 **复用**：`Quite a few, I'd say`+`whereas`+`older folk`(老08)。
+
+**Q5. What are the advantages of keeping a pet?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 它们 陪 你、还 让 你 感觉 没那么 孤独。 | They keep you company and make you feel less lonely. |
+| 3 | 除此之外，遛 一只 狗 让 你 出门、还 动 起来。 | On top of that, walking a dog gets you outside and active. |
+| 4 | 所以 它们 对 你的 心情 真的 很 好。 | So they're really good for your mood. |
+
+> Loads, honestly. They keep you company and make you feel less lonely. On top of that, walking a dog gets you outside and active. So they're really good for your mood.
+
+> 🔁 **复用**：`Loads, honestly`+`keep you company`(老11)+`feel less lonely`(新07-Q2)+`On top of that`+`good for your mood`(新05-Q1)。
+
+**Q6. Why do people always tell children stories with animals?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 孩子 爱 动物，我会说。 | Mainly because kids love animals, I'd say. |
+| 2 | 动物 让 一个 故事 好玩、还 容易 跟上。 | Animals make a story fun and easy to follow. |
+| 3 | 此外，它们 用 一个 温和的 方式 教 道理，比如 分享 或 勇敢。 | Plus, they teach lessons in a gentle way, like sharing or being brave. |
+| 4 | 所以 它 归结到 让 学习 感觉 像 玩。 | So it comes down to making learning feel like play. |
+
+> Mainly because kids love animals, I'd say. Animals make a story fun and easy to follow. Plus, they teach lessons in a gentle way, like sharing or being brave. So it comes down to making learning feel like play.
+
+> 🔁 **复用**：`Mainly…I'd say`+`easy to follow`(新15-Q1)+`Plus`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `hands-on` / `a simple way to teach kindness` · `Not really, no` / `Sure, … but` / `comes down to being a responsible owner` · `honestly` / `the bond you build` · `Quite a few, I'd say` / `whereas` / `older folk` · `Loads, honestly` / `keep you company` / `feel less lonely` · `Mainly … I'd say` / `easy to follow` / `making learning feel like play`。
+
+---
+
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
