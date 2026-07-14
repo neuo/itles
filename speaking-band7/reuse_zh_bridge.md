@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。**新系列全完（新01-27 中前 17 张已出）**：复用卡 13（老06·新01-06·新08-11·新13·新17）+ 你的版 5（新07·新12·新14·新15·新16）。续推 新18(你的版)→老27。
+> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。**✅ 新系列 27 张全完 + 老06 = 28/54**。其中你的版 8（新07/12/14/15/16/18/23/25）+ 复用 20。续推 老01-05·老07-27（含你的版 老05/08/11/12/20）。
 
 ---
 
@@ -2797,6 +2797,355 @@
 > 🔁 **复用**：`Absolutely, I think so`+`been there before`(新07-Q5)+`backing them up, not …`(新16 back that up not replace)+`comes down to`。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to giving them a bit of direction` · `a bit of a mixed bag, honestly` / `push you to grow` · `Mainly … look up to them, I'd say` / `follow the crowd` · `To some extent, yeah` / `keeps you growing and learning` / `keeping it balanced` · `been there before` / `backing them up, not taking over`。
+
+---
+
+## P2-新25 · A person who met difficulties but succeeded — 张伟自学（Person）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 是谁 / 遇到什么困难 / 怎么克服 / 你的感受 · 题型 Person
+>
+> 🎤 **P2 = 你的版**（6/23 练过 · 未降未改 · 张伟高压救火）——张伟池另一版本（`the kind of person everyone turns to`/`keeps his cool` 源头）。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 大学 同学，张伟。 | The person I'd like to talk about is one of my classmates at university, Zhangwei. |
+| 2 | 我们 认识 彼此 十多年 了。 | We've known each other for over ten years. |
+| 3 | 那时候，我们 通常 做的 是 泡 在 学校 电脑 社团 里，而 我们 会 瞎 鼓捣、写 一些 小 程序。 | Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. |
+| 4 | 让 他 出众的 是 他 怎么 在 压力下 解决 问题。 | What makes him stand out is how he solves problems under pressure. |
+| 5 | 我 记得 有一次，在 一个 小组 项目 上，那 程序 就 在 展示 之前 崩了。 | I remember one time, on a group project, the program crashed right before the presentation. |
+| 6 | 当 我们 其他人 都 在 慌，他 就 保持 冷静、坐下、然后 一行一行 过 那 代码 和 日志。 | While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. |
+| 7 | 大约 二十分钟 里，他 修好 了 它——他 基本上 救 了 场。 | In about twenty minutes, he fixed it — he basically saved the day. |
+| 8 | 而 不 只是 那 一次——无论 什么时候 有 东西 坏了，他 就是 那种 人、（大家 都 会 求助的），因为 他 稳得住、还 总是 乐意 帮忙。 | And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. |
+| 9 | 这些天 他 做 得 很好——他 是 一个 出色的 开发者，而 我 觉得 那 是 因为 他 总能 在 压力下 保持 冷静。 | These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. |
+| 10 | 那 是 一个 我 真的 佩服 他 的 地方。 | That's something I really admire about him. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is one of my classmates at university, Zhangwei. We've known each other for over ten years. Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. What makes him stand out is how he solves problems under pressure. I remember one time, on a group project, the program crashed right before the presentation. While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. In about twenty minutes, he fixed it — he basically saved the day. And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. That's something I really admire about him.
+
+### 句型/模板（你自己的）
+
+- `What makes him stand out is how he solves problems under pressure` · `he just stayed calm, sat down, and went through the code and logs line by line` · `he basically saved the day` · `he's the kind of person everyone turns to, because he keeps his cool` · `That's something I really admire about him`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. In your country, what industry is it easier to be successful in?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 科技，我会说，这些天。 | Tech, I'd say, these days. |
+| 2 | 它 增长 快，而 有 一大堆 需求，所以 有 很多 机会。 | It's growing fast, and there's loads of demand, so there's plenty of opportunity. |
+| 3 | 而 老 行业 更 拥挤、动 得 更 慢。 | Whereas older industries are more crowded and slower to move. |
+| 4 | 所以 它 归结到 挑 一个 有 成长 空间 的 领域。 | So it comes down to picking a field with room to grow. |
+
+> Tech, I'd say, these days. It's growing fast, and there's loads of demand, so there's plenty of opportunity. Whereas older industries are more crowded and slower to move. So it comes down to picking a field with room to grow.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`comes down to`+`field`(新12)。
+
+**Q2. Do you think difficulties are good for people's growth?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 你 学 得 最 多、当 事情 出错、你 不得不 一步步 解决 它。 | You learn the most when things go wrong and you have to work through it. |
+| 3 | 而 如果 一切 都 容易，你 从不 真的 进步。 | Whereas if everything's easy, you never really improve. |
+| 4 | 所以 几次 艰难 时期 建立 真正的 力量，说句公道话。 | So a few hard times build real strength, to be fair. |
+
+> Absolutely, I think so. You learn the most when things go wrong and you have to work through it. Whereas if everything's easy, you never really improve. So a few hard times build real strength, to be fair.
+
+> 🔁 **复用**：`Absolutely, I think so`+`work through it`(新16)+`whereas`+`to be fair`。
+
+**Q3. What qualities help people overcome difficulties and succeed?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 在 压力下 保持 冷静 是 一个 大的——我 朋友 张伟 在 那方面 很 出色。 | Staying calm under pressure is a big one — my friend Zhangwei's brilliant at that. |
+| 3 | 除此之外，你 需要 耐心 和 那 干劲 [去]坚持。 | On top of that, you need patience and the drive to keep going. |
+| 4 | 所以 它 归结到 事情 变 难 时 不 放弃。 | So it comes down to not giving up when things get tough. |
+
+> A few, really. Staying calm under pressure is a big one — my friend Zhangwei's brilliant at that. On top of that, you need patience and the drive to keep going. So it comes down to not giving up when things get tough.
+
+> 🔁 **复用**：`staying calm under pressure`(张伟)+`On top of that`+`keep going`(新15 sticks at it)+`comes down to`。
+
+**Q4. Is it harder for young people to succeed nowadays than in the past?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 一方面，竞争 多 得 多，而 生活 成本 高。 | On one hand, there's way more competition and the cost of living's high. |
+| 3 | 而 另一方面，机会 和 工具 也 比 以前 多 太多。 | Whereas on the other, there are far more opportunities and tools than before. |
+| 4 | 所以 它 归结到 你 怎么 用 外面 有的 东西。 | So it comes down to how you use what's out there. |
+
+> It's a bit of a mixed bag, honestly. On one hand, there's way more competition and the cost of living's high. Whereas on the other, there are far more opportunities and tools than before. So it comes down to how you use what's out there.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to how you use`(新16)。
+
+**Q5. How important is support from others when facing hard times?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 极其 重要，我会说。 | Hugely important, I'd say. |
+| 2 | 当 事情 出错，有 一个 人 [去]求助 大 不 一样。 | When things go wrong, having someone to turn to makes a huge difference. |
+| 3 | 我 朋友 张伟 就是 那种 人、（东西 一坏 大家 都 会 求助的）。 | My friend Zhangwei's the kind of person everyone turns to when things break. |
+| 4 | 所以 说实话，一点 支持 顶 大 用。 | So honestly, a bit of support goes a long way. |
+
+> Hugely important, I'd say. When things go wrong, having someone to turn to makes a huge difference. My friend Zhangwei's the kind of person everyone turns to when things break. So honestly, a bit of support goes a long way.
+
+> 🔁 **复用**：`Hugely important, I'd say`(新07-Q2)+`the kind of person everyone turns to`(新25 P2 逐字)+`honestly`。
+
+**Q6. Should schools teach children how to deal with failure?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 孩子 需要 学到 失败 很 正常、你 就 再 试 一次。 | Kids need to learn that failing is normal and you just try again. |
+| 3 | 而 如果 他们 怕 失败，他们 永远 不 冒险。 | Whereas if they're scared of failing, they'll never take risks. |
+| 4 | 所以 它 是 他们 能 学 的 最 有用的 一课 之一。 | So it's one of the most useful lessons they can learn. |
+
+> Absolutely, I think so. Kids need to learn that failing is normal and you just try again. Whereas if they're scared of failing, they'll never take risks. So it's one of the most useful lessons they can learn.
+
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`a really useful lesson`(新05-Q6)。
+
+**P3 句型/模板（复用池）**：`Tech, I'd say, these days` / `whereas` / `comes down to picking a field with room to grow` · `Absolutely, I think so` / `work through it` / `build real strength` · `A few, really` / `staying calm under pressure` / `keep going` · `a bit of a mixed bag, honestly` / `comes down to how you use what's out there` · `Hugely important, I'd say` / `the kind of person everyone turns to` · `whereas … take risks` / `the most useful lessons`。
+
+---
+
+## P2-新26 · A time you changed an important opinion — 育儿观转变（Event/Opinion）  〔复用生成〕
+
+> **Cue**: 何时改的 / 原来的想法 / 为何改 / 感受 · 题型 Event/Opinion
+>
+> 🔁 **整卡复用自**：son/Muye + wife + 新15(pushing/think for themselves) + 新12(Looking back, I'm really glad) + 老05(bring us closer)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 改变 了 我 对 怎么 养 我 儿子 的 想法。 | The time I'd like to talk about is when I changed my mind about how to raise my son. |
+| 2 | 当 Muye 小 的时候，我 以前 挺 严——我 觉得 使劲 逼 他 是 那个 办法。 | When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. |
+| 3 | 我 会 让 他 一遍 一遍 练 东西，即使 当 他 不 想。 | I'd make him practise things over and over, even when he didn't want to. |
+| 4 | 但 随 时间，我 注意到 他 变 得 有压力、还 失去 兴趣。 | But over time, I noticed he was getting stressed and losing interest. |
+| 5 | 真正 改变 我 想法 的 是 看着 我 老婆 跟 他 相处。 | What really changed my mind was watching my wife with him. |
+| 6 | 她 放松 得 多——她 让 他 用 他 自己的 方式 试、还 为 自己 学。 | She's much more relaxed — she lets him try things his own way and learn for himself. |
+| 7 | 说实话，一旦 我 松 了 手，他 其实 开始 更 享受 事情。 | Honestly, once I backed off, he actually started enjoying things more. |
+| 8 | 所以 我 转 到 那个 想法：孩子 学 得 最好、当 他们 不 被 逼。 | So I came round to the idea that kids learn best when they're not forced. |
+| 9 | 回头看，我 真的 庆幸 我 改 了 我的 方式。 | Looking back, I'm really glad I changed my approach. |
+| 10 | 它 完全 改变 了 我们 现在 有 多 亲近。 | It completely changed how close we are now. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I changed my mind about how to raise my son. When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. I'd make him practise things over and over, even when he didn't want to. But over time, I noticed he was getting stressed and losing interest. What really changed my mind was watching my wife with him. She's much more relaxed — she lets him try things his own way and learn for himself. Honestly, once I backed off, he actually started enjoying things more. So I came round to the idea that kids learn best when they're not forced. Looking back, I'm really glad I changed my approach. It completely changed how close we are now.
+
+> 🔁 **复用**：句2 `pushing`(新15)；句5 `What really changed my mind was`+wife；句6 `learn for himself`(新16 think for themselves)；句9 `Looking back, I'm really glad`(新12 逐字)；句10 `how close we are`(老05 bring us closer)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I changed my mind about …` · `I used to be pretty strict — I thought pushing him hard was the way` · `What really changed my mind was …` · `once I backed off, he actually started enjoying things more` · `Looking back, I'm really glad I changed my approach`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. When do most children begin to have their own opinions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 挺 小，我会说。 | Pretty young, I'd say. |
+| 2 | 即使 小 孩子 也 有 强烈的 看法——我 儿子 大约 三岁 就 有 了。 | Even little kids have strong views — my son did by about three. |
+| 3 | 而 真正、深思熟虑的 意见 来 得 晚 一点，在 他们 青少年 时。 | Whereas real, considered opinions come a bit later, in their teens. |
+| 4 | 所以 它 归结到 你 说的 意见 是 指 什么。 | So it comes down to what you mean by an opinion. |
+
+> Pretty young, I'd say. Even little kids have strong views — my son did by about three. Whereas real, considered opinions come a bit later, in their teens. So it comes down to what you mean by an opinion.
+
+> 🔁 **复用**：`… I'd say`+son+`whereas`+`comes down to`。
+
+**Q2. Whose opinions are more important to children, their parents' or teachers'?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 取决于 那 年龄，真的。 | It depends on the age, really. |
+| 2 | 当 他们 小，大多 是 他们 父母，（他们 最 亲近的）。 | When they're little, it's mostly their parents, who they're closest to. |
+| 3 | 而 当 青少年，朋友 和 老师 开始 更 要紧。 | Whereas as teenagers, friends and teachers start to matter more. |
+| 4 | 所以 它 归结到 他们 在 哪个 阶段。 | So it comes down to which stage they're at. |
+
+> It depends on the age, really. When they're little, it's mostly their parents, who they're closest to. Whereas as teenagers, friends and teachers start to matter more. So it comes down to which stage they're at.
+
+> 🔁 **复用**：`It depends on … really`+`whereas`+`comes down to which stage`(新19-Q3)。
+
+**Q3. Do children communicate more with teachers or with parents?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 父母，我会说。 | Mostly parents, I'd say. |
+| 2 | 他们 每天 都 在 他们 身边，所以 它 很 自然。 | They're around them every day, so it's natural. |
+| 3 | 而 跟 老师，大多 关于 功课。 | Whereas with teachers, it's mostly about schoolwork. |
+| 4 | 所以 它 归结到 他们 跟 谁 花 最多 时间。 | So it comes down to who they spend the most time with. |
+
+> Mostly parents, I'd say. They're around them every day, so it's natural. Whereas with teachers, it's mostly about schoolwork. So it comes down to who they spend the most time with.
+
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`comes down to`。
+
+**Q4. Who do young people like to share opinions with?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 他们的 朋友，我会说。 | Mostly their friends, I'd say. |
+| 2 | 他们 在 一个 频道上，所以 它 感觉 轻松。 | They're on the same wavelength, so it feels easy. |
+| 3 | 而 跟 父母，他们 有时 担心 被 评判。 | Whereas with parents, they sometimes worry about being judged. |
+| 4 | 所以 它 归结到 他们 跟 谁 感觉 自在。 | So it comes down to who they feel comfortable with. |
+
+> Mostly their friends, I'd say. They're on the same wavelength, so it feels easy. Whereas with parents, they sometimes worry about being judged. So it comes down to who they feel comfortable with.
+
+> 🔁 **复用**：`Mostly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`comes down to`。
+
+**Q5. Why do people sometimes change their important opinions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 通常 是 一个 新 经历 让 你 换 个 角度 看，就 像 育儿 对 我 那样。 | Usually it's a new experience that makes you see things differently, like it did for me with parenting. |
+| 3 | 而 有些人 只是 跟着 他们 身边 的 任何人。 | Whereas some people just follow whoever they're around. |
+| 4 | 所以 它 归结到 对 学习 保持 开放。 | So it comes down to being open to learning. |
+
+> A few reasons, really. Usually it's a new experience that makes you see things differently, like it did for me with parenting. Whereas some people just follow whoever they're around. So it comes down to being open to learning.
+
+> 🔁 **复用**：`A few reasons, really`+本卡育儿link+`whereas`+`follow`(新24 follow the crowd)+`comes down to`。
+
+**Q6. Is it easy for people to change their minds once they're adults?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，说实话。 | Not really, to be honest. |
+| 2 | 大人 固守 老一套，就 像 我 说 的 孩子 学 得 更 快。 | Adults get stuck in their ways, like I said about kids learning faster. |
+| 3 | 而 孩子 像 海绵、还 轻易 改变。 | Whereas kids are like sponges and change easily. |
+| 4 | 所以 它 归结到 保持 开放的 心态，（那 需要 功夫）。 | So it comes down to staying open-minded, which takes effort. |
+
+> Not really, to be honest. Adults get stuck in their ways, like I said about kids learning faster. Whereas kids are like sponges and change easily. So it comes down to staying open-minded, which takes effort.
+
+> 🔁 **复用**：`Not really, to be honest`+`stuck in their ways`+`like sponges`(新15-Q4)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Pretty young, I'd say` / `whereas` / `comes down to what you mean by an opinion` · `It depends on the age, really` / `comes down to which stage they're at` · `Mostly parents, I'd say` · `on the same wavelength` / `who they feel comfortable with` · `A few reasons, really` / `see things differently` · `Not really, to be honest` / `stuck in their ways` / `like sponges`。
+
+---
+
+## P2-新27 · An environmental law you'd introduce — 一次性塑料禁令（Hypothetical）  〔复用生成〕
+
+> **Cue**: 什么法 / 为何要守 / 是否受欢迎 / 感受 · 题型 Hypothetical
+>
+> 🔁 **整卡复用自**：新06 保护绿地法(The law I'd like to introduce / What worries me / push back … comes down to cost) + 老26(quiet park near our home) + wife + 新22(get used to it/do their bit/simple law that works)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想引入的那条 法律 是 一个 一次性 塑料 的 禁令。 | The law I'd like to introduce is a ban on single-use plastic. |
+| 2 | 基本上，它 会 阻止 商店 发放 塑料袋、吸管、和 杯子。 | Basically, it would stop shops handing out plastic bags, straws, and cups. |
+| 3 | 这 主意 来 到 我 脑子 是 因为 我 到处 看到 这么多 塑料 垃圾。 | The idea came to me because I see so much plastic waste everywhere. |
+| 4 | 甚至 在 我们家 附近 那个 安静的 小 公园，湖 里 都 有 垃圾。 | Even at that quiet little park near our home, there's litter in the lake. |
+| 5 | 让 我 担心的 是 我们 给 我们的 孩子 留下的 那 烂摊子。 | What worries me is the mess we're leaving for our kids. |
+| 6 | 我 老婆 对 这 很 上心——她 现在 已经 让 我 用 布 袋子。 | My wife's really careful about this — she's got me using cloth bags now. |
+| 7 | 我 觉得 大多数人 会 支持 它，说句公道话，一旦 他们 习惯 了。 | I think most people would support it, to be fair, once they got used to it. |
+| 8 | 当然，有些 商店 会 反对，因为 它 归结到 成本。 | Of course, some shops would push back, since it comes down to cost. |
+| 9 | 但 说实话，一个 像 这样 的 小 改变 真的 加 起来、跨 整个 城市。 | But honestly, a small change like this really adds up across a whole city. |
+| 10 | 所以 对我，它 是 一条 会 带来 真正 改变 的 简单 法律。 | So for me, it's a simple law that would make a real difference. |
+
+### ②P2 整段（shadow）
+
+> The law I'd like to introduce is a ban on single-use plastic. Basically, it would stop shops handing out plastic bags, straws, and cups. The idea came to me because I see so much plastic waste everywhere. Even at that quiet little park near our home, there's litter in the lake. What worries me is the mess we're leaving for our kids. My wife's really careful about this — she's got me using cloth bags now. I think most people would support it, to be fair, once they got used to it. Of course, some shops would push back, since it comes down to cost. But honestly, a small change like this really adds up across a whole city. So for me, it's a simple law that would make a real difference.
+
+> 🔁 **复用**：句1 `The law I'd like to introduce is`(新06)；句4 `quiet little park near our home`(老26)；句5 `What worries me is`(新06)；句6 wife；句7 `to be fair`+`got used to it`(新22)；句8 `push back, since it comes down to`(新06)；句10 `a simple law that …`(新22)。
+
+### 句型/模板（复用池）
+
+- `The law I'd like to introduce is a ban on …` · `What worries me is the mess we're leaving for our kids` · `most people would support it, to be fair, once they got used to it` · `some shops would push back, since it comes down to cost` · `a simple law that would make a real difference`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. How does technology affect the law?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 科技 动 得 快，所以 那 法律 总是 在 追赶。 | Tech moves fast, so the law's always playing catch-up. |
+| 3 | 而 像 AI 和 数据 这样的 东西 每 一年 都 抛 出 新 问题。 | Whereas things like AI and data raise new problems every year. |
+| 4 | 所以 它 归结到 法律 跟上 时代。 | So it comes down to laws keeping up with the times. |
+
+> Massively, I reckon. Tech moves fast, so the law's always playing catch-up. Whereas things like AI and data raise new problems every year. So it comes down to laws keeping up with the times.
+
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`keeping up with the times`(新16-Q2)+`comes down to`。
+
+**Q2. What kinds of rules do schools in China have?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，真的。 | Quite a few, really. |
+| 2 | 像 穿 校服、准时 到、还有 上课 不 用 手机。 | Things like wearing a uniform, turning up on time, and no phones in class. |
+| 3 | 它们 大多 关于 保持 秩序 和 尊重。 | They're mostly about keeping order and respect. |
+| 4 | 所以 它 归结到 保持 事情 公平。 | So it comes down to keeping things fair. |
+
+> Quite a few, really. Things like wearing a uniform, turning up on time, and no phones in class. They're mostly about keeping order and respect. So it comes down to keeping things fair.
+
+> 🔁 **复用**：全套复用 新22-Q1（`turning up on time … no phones in class`）。
+
+**Q3. Will there be a law that is universally accepted?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 怀疑，说实话。 | I doubt it, honestly. |
+| 2 | 不同 国家 有 不同的 价值观，所以 他们 永远 不 会 完全 同意。 | Different countries have different values, so they'll never fully agree. |
+| 3 | 而 在 像 基本 安全 这样的 大 事上，大多数人 是 一致的。 | Whereas on big things like basic safety, most people are on the same page. |
+| 4 | 所以 它 归结到 找到 共同点。 | So it comes down to finding common ground. |
+
+> I doubt it, honestly. Different countries have different values, so they'll never fully agree. Whereas on big things like basic safety, most people are on the same page. So it comes down to finding common ground.
+
+> 🔁 **复用**：`I doubt it`(新07-Q4)+`whereas`+`finding common ground`(新03-Q5)+`comes down to`。
+
+**Q4. What environmental laws does your country already have?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几条 好 的，真的。 | A few good ones, really. |
+| 2 | 那 垃圾分类 规定 是 主要 的，而 塑料袋 有 一个 收费。 | The rubbish-sorting rule is the main one, and there's a charge for plastic bags. |
+| 3 | 除此之外，大 城市 在 推 电动 车。 | On top of that, big cities are pushing electric cars. |
+| 4 | 所以 它 慢慢 朝 正确的 方向 走，说句公道话。 | So it's slowly moving in the right direction, to be fair. |
+
+> A few good ones, really. The rubbish-sorting rule is the main one, and there's a charge for plastic bags. On top of that, big cities are pushing electric cars. So it's slowly moving in the right direction, to be fair.
+
+> 🔁 **复用**：`A few good ones, really`+rubbish-sorting(新22)+`On top of that`+`to be fair`。
+
+**Q5. Whose responsibility is it to protect the environment — governments or individuals?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 说实话，它 是 两者。 | Honestly, it's both. |
+| 2 | 政府 定 规则 和 那些 大 目标。 | Governments set the rules and the big targets. |
+| 3 | 而 个人 得 日常 尽 他们 那份 力，比如 分类 垃圾。 | Whereas individuals have to do their bit day to day, like sorting rubbish. |
+| 4 | 所以 它 归结到 每个人 都 出 一份 力。 | So it comes down to everyone playing their part. |
+
+> Honestly, it's both. Governments set the rules and the big targets. Whereas individuals have to do their bit day to day, like sorting rubbish. So it comes down to everyone playing their part.
+
+> 🔁 **复用**：`Honestly, it's both`+government(老20-Q5)+`whereas`+`do their bit`(新22)+`comes down to`。
+
+**Q6. Do you think people are willing to pay more for eco-friendly products?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一大堆 人 现在 在乎 这 星球，所以 他们 会 多 付 一点。 | A lot of people care about the planet now, so they'll pay a bit extra. |
+| 3 | 而 另一些 只 挑 最 便宜的 选项，说句公道话。 | Whereas others just go for the cheapest option, to be fair. |
+| 4 | 所以 它 归结到 人们 能 负担 多少。 | So it comes down to how much people can afford. |
+
+> To some extent, yeah. A lot of people care about the planet now, so they'll pay a bit extra. Whereas others just go for the cheapest option, to be fair. So it comes down to how much people can afford.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`to be fair`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Massively, I reckon` / `keeping up with the times` · `Quite a few, really` / `turning up on time` · `I doubt it, honestly` / `finding common ground` · `A few good ones, really` / `On top of that` · `Honestly, it's both` / `do their bit` / `everyone playing their part` · `To some extent, yeah` / `comes down to how much people can afford`。
 
 ---
 
