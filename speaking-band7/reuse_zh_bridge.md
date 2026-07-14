@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡 9/41（老06·新01-06·新08·新09）+ 你的版搬入 1/13（新07）。续推 新10→老27。
+> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡 12/41（老06·新01-06·新08-11·新13）+ 你的版搬入 1/13（新07）。待插 新12 你的版；续推 新14→老27。
 
 ---
 
@@ -1100,6 +1100,357 @@
 > 🔁 **复用**：`Not really, to be honest`(老20-Q1)+`rent … sky-high`(老20-Q2)+`whereas`+`comes down to`。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to freedom and money` · `Absolutely, I think so` / `loads of jobs` / `money well spent` · `a bit of a mixed bag, honestly` / `comes down to what I'm buying` · `A few things, really` / `a good example` · `Mainly poor planning, I'd say` / `rush in without thinking it through` · `Not really, to be honest` / `rent … sky-high`。
+
+---
+
+## P2-新10 · A plan you had to change recently — 京都行取消（Event/Planning）  〔复用生成〕
+
+> **Cue**: 何时 / 什么让你改 / 新计划是什么 / 感受 · 题型 Event/Planning
+>
+> 🔁 **整卡复用自**：新18 京都(wander around) + 老12 川西自驾(drive/stop/take our time/looking forward) + 新18-Q4(keep it flexible) + 新12(worked out) + wife/son。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 计划 是 一趟 去 京都 的 旅行、（我 最近 不得不 改的）。 | The plan I'd like to talk about is a trip to Kyoto I had to change recently. |
+| 2 | 我 家人 和 我 已经 计划 它 好几个月 了——我 老婆 和 我 都 爱 日本。 | My family and I had been planning it for months — my wife and I both love Japan. |
+| 3 | 我们 本来 要 去 逛 那些 老 寺庙、四处 闲逛，就 像 我们 总是 做的。 | We were going to visit the old temples and wander around, like we always do. |
+| 4 | 但 大约 一周 前，我 儿子 得了 一场 重 感冒。 | But about a week before, my son came down with a bad cold. |
+| 5 | 所以 我们 不得不 取消 那 机票、把 整个 旅行 往后 推。 | So we had to cancel the flights and put the whole trip off. |
+| 6 | 说实话，它 是 一个 真的 遗憾，因为 我们 一直 盼着 它。 | Honestly, it was a real shame, since we'd been looking forward to it. |
+| 7 | 我们 反而 改 了 计划，就 在 附近 做 了 一趟 短 自驾，在 他 好 了 之后。 | Instead, we changed our plan and just did a short road trip nearby, once he got better. |
+| 8 | 我们 开 进 山 里，在 任何 看起来 不错 的 地方 停，然后 慢慢来。 | We drove into the mountains, stopped wherever looked nice, and took our time. |
+| 9 | 我 学 到 的 是 让 一个 计划 保持 灵活 总是 值得。 | What I learned is that it's always worth keeping a plan flexible. |
+| 10 | 所以 到头来，它 进展 得 不错——我们 会 改天 去 京都。 | So in the end, it worked out fine — we'll get to Kyoto another time. |
+
+### ②P2 整段（shadow）
+
+> The plan I'd like to talk about is a trip to Kyoto I had to change recently. My family and I had been planning it for months — my wife and I both love Japan. We were going to visit the old temples and wander around, like we always do. But about a week before, my son came down with a bad cold. So we had to cancel the flights and put the whole trip off. Honestly, it was a real shame, since we'd been looking forward to it. Instead, we changed our plan and just did a short road trip nearby, once he got better. We drove into the mountains, stopped wherever looked nice, and took our time. What I learned is that it's always worth keeping a plan flexible. So in the end, it worked out fine — we'll get to Kyoto another time.
+
+> 🔁 **复用**：句3 `wander around`(新18)；句6 `looking forward to`(老12)；句7/8 road trip + `stopped wherever looked nice`+`took our time`(老12)；句9 `keeping a plan flexible`(新18-Q4)；句10 `worked out`(新12)。
+
+### 句型/模板（复用池）
+
+- `The plan I'd like to talk about is … I had to change recently` · `we'd been looking forward to it` · `stopped wherever looked nice, and took our time` · `it's always worth keeping a plan flexible` · `in the end, it worked out fine`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do people often change their plans?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，相当 多，我会说。 | Yeah, quite a lot, I'd say. |
+| 2 | 生活 会 插一脚——工作、家庭，那种 东西。 | Life gets in the way — work, family, that kind of thing. |
+| 3 | 而 有些人 死板地 守着 一个 计划，大多数人 就 随遇而安。 | Whereas some people stick rigidly to a plan, most just go with the flow. |
+| 4 | 所以 它 归结到 你 有 多 灵活。 | So it comes down to how flexible you are. |
+
+> Yeah, quite a lot, I'd say. Life gets in the way — work, family, that kind of thing. Whereas some people stick rigidly to a plan, most just go with the flow. So it comes down to how flexible you are.
+
+> 🔁 **复用**：`quite a lot, I'd say`(老24-Q1)+`that kind of thing`+`whereas`+`comes down to`+`flexible`(新18-Q4)。
+
+**Q2. Would you tell others if you change your plan?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Absolutely, yeah. |
+| 2 | 如果 别人 牵涉 进来，只 有 提前 知会 他们 才 公平。 | If other people are involved, it's only fair to give them a heads-up. |
+| 3 | 否则 你 让 他们 一直 等，就 像 当 某人 很久 不 回复。 | Otherwise you leave them waiting, like when someone doesn't reply for ages. |
+| 4 | 所以 我 会 总是 尽早 让 人 知道。 | So I'd always let people know as early as I can. |
+
+> Absolutely, yeah. If other people are involved, it's only fair to give them a heads-up. Otherwise you leave them waiting, like when someone doesn't reply for ages. So I'd always let people know as early as I can.
+
+> 🔁 **复用**：`Absolutely, yeah`+`doesn't reply for ages`(新23)。
+
+**Q3. Why do you think parents still make plans for their children nowadays?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 想 给 他们 最好的，我会说。 | Mainly because they want the best for them, I'd say. |
+| 2 | 父母 以前 经历过，所以 他们 觉得 他们 最 懂。 | Parents have been there before, so they think they know best. |
+| 3 | 但 你 没法 为 一个 孩子 计划 好 一切，因为 他们 需要 为 自己 学。 | But you can't plan everything for a kid, because they need to learn for themselves. |
+| 4 | 所以 它 归结到 引导 他们，不是 控制 他们。 | So it comes down to guiding them, not controlling them. |
+
+> Mainly because they want the best for them, I'd say. Parents have been there before, so they think they know best. But you can't plan everything for a kid, because they need to learn for themselves. So it comes down to guiding them, not controlling them.
+
+> 🔁 **复用**：`Mainly…I'd say`+`been there before`(新07-Q5)+`for themselves`(新16)+`comes down to`。
+
+**Q4. How does technology help people make plans?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 这些天 什么 都 有 一个 app——你 能 在 几秒 内 订 机票、酒店、还 设 提醒。 | These days there's an app for everything — you can book flights, hotels, and set reminders in seconds. |
+| 3 | 除此之外，你 能 在 出发 前 在 网上 找到 所有 答案。 | On top of that, you can find all the answers online before you go. |
+| 4 | 所以 它 把 很多 计划 的 压力 拿掉。 | So it takes a lot of the stress out of planning. |
+
+> Loads of ways, really. These days there's an app for everything — you can book flights, hotels, and set reminders in seconds. On top of that, you can find all the answers online before you go. So it takes a lot of the stress out of planning.
+
+> 🔁 **复用**：`Loads of ways, really`+app(老08)+`find all the answers online`(新18-Q3)+`takes … out`(新16)。
+
+**Q5. What kind of plans do people often make?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 日常的、像 三餐 和 周末，还有 更大的、像 旅行 或 一份 职业。 | Everyday ones like meals and weekends, and bigger ones like travel or a career. |
+| 3 | 我们家 大多 是 我 老婆 计划，说句公道话——她 真的 很 有条理。 | My wife plans most of ours, to be fair — she's really organised. |
+| 4 | 所以 它 从 小 日常 到 大 人生 决定 都 有。 | So it ranges from small daily stuff to big life decisions. |
+
+> All sorts, really. Everyday ones like meals and weekends, and bigger ones like travel or a career. My wife plans most of ours, to be fair — she's really organised. So it ranges from small daily stuff to big life decisions.
+
+> 🔁 **复用**：`All sorts, really`+wife+`to be fair`+`big … decision`(新12)。
+
+**Q6. Do you think people like the process of making plans more, or the moment of carrying them out?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 有些人 爱 那 计划——光是 幻想 它 就是 一半 的 乐趣。 | Some people love the planning — dreaming about it is half the fun. |
+| 3 | 而 另一些 只 想 上手 去 做。 | Whereas others just want to get on and do it. |
+| 4 | 对 我 来说，说实话，执行 它 是 那 最好的 部分。 | For me, honestly, carrying it out is the best part. |
+
+> It's a bit of a mixed bag, honestly. Some people love the planning — dreaming about it is half the fun. Whereas others just want to get on and do it. For me, honestly, carrying it out is the best part.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`For me, honestly`。
+
+**P3 句型/模板（复用池）**：`quite a lot, I'd say` / `that kind of thing` / `whereas` / `comes down to how flexible you are` · `Absolutely, yeah` / `doesn't reply for ages` · `been there before` / `for themselves` · `Loads of ways, really` / `find all the answers online` / `takes … out` · `All sorts, really` / `to be fair` · `a bit of a mixed bag, honestly`。
+
+---
+
+## P2-新11 · A time you worked in a group — 工作提案（Event）  〔复用生成〕
+
+> **Cue**: 做了啥 / 跟谁 / 遇到什么问题 / 为何在团队里做 · 题型 Event
+>
+> 🔁 **整卡复用自**：新16(I'm a software engineer / What made it hard was / worked through it step by step) + 老06(map the whole thing out / split the work) + 张伟(under pressure) + 新12(worked out well) + 新07(nothing beats)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 在 一个 团队 里 做 一个 大 提案、在 工作上。 | The time I'd like to talk about is when I worked in a group on a big proposal at work. |
+| 2 | 我 是 一个 软件 工程师，而 我们 几个 被 凑 到 一起 [去]推销 一个 新 功能。 | I'm a software engineer, and a few of us were put together to pitch a new feature. |
+| 3 | 我们 大约 四个人，每人 负责 一个 不同的 部分。 | There were about four of us, each handling a different part. |
+| 4 | 一开始，它 有点 一团糟——每个人 都 有 自己的 主意、没人 同意。 | At first, it was a bit of a mess — everyone had their own ideas and nobody agreed. |
+| 5 | 让 它 难的 是 我们 都 在 压力下，带 一个 紧 的 截止日期。 | What made it hard was that we were all under pressure, with a tight deadline. |
+| 6 | 所以 我 提议 我们 先 把 整个 东西 铺开、还 清楚 地 分 那 活儿。 | So I suggested we map the whole thing out first and split the work clearly. |
+| 7 | 一旦 每个人 知道 他们的 部分，我们 就 一步步 把 它 做完。 | Once everyone knew their part, we just worked through it step by step. |
+| 8 | 最后，那 提案 进展 得 很好，而 那 老板 喜欢 它。 | In the end, the proposal went really well, and the boss liked it. |
+| 9 | 我 从 中 学 到 的 是 一个 团队 运转 得 最好、当 每个人 都 发挥 他们的 长处。 | What I took from it is that a group works best when everyone plays to their strengths. |
+| 10 | 所以 说实话，团队合作 胜过 单干，只要 它 有 条理。 | So honestly, teamwork beats working alone, as long as it's organised. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I worked in a group on a big proposal at work. I'm a software engineer, and a few of us were put together to pitch a new feature. There were about four of us, each handling a different part. At first, it was a bit of a mess — everyone had their own ideas and nobody agreed. What made it hard was that we were all under pressure, with a tight deadline. So I suggested we map the whole thing out first and split the work clearly. Once everyone knew their part, we just worked through it step by step. In the end, the proposal went really well, and the boss liked it. What I took from it is that a group works best when everyone plays to their strengths. So honestly, teamwork beats working alone, as long as it's organised.
+
+> 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `a bit of a mess`(clutter降档同族)；句5 `What made it hard was`(新16)+`under pressure`(张伟)；句6 `map the whole thing out`+`split the work`(老06)；句7 `worked through it step by step`(新16)；句8 `went really well`(新12)；句10 `beats working alone`(新07 nothing beats)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I worked in a group …` · `What made it hard was that we were all under pressure` · `map the whole thing out first and split the work` · `worked through it step by step` · `teamwork beats working alone, as long as it's organised`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Why do some people prefer to work by themselves?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 单干，你 有 完全的 掌控，而 你 能 按 自己的 节奏 来。 | Working alone, you've got full control and you can go at your own pace. |
+| 3 | 而 在 一个 团队 里，你 有时 浪费 时间 等 别人。 | Whereas in a group, you sometimes waste time waiting for others. |
+| 4 | 所以 它 归结到 你 是 哪种人。 | So it comes down to the kind of person you are. |
+
+> A few reasons, really. Working alone, you've got full control and you can go at your own pace. Whereas in a group, you sometimes waste time waiting for others. So it comes down to the kind of person you are.
+
+> 🔁 **复用**：`A few reasons, really`+`full control`(新01-Q5)+`whereas`+`comes down to`。
+
+**Q2. What should a leader do to make team members want to follow him or her?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 靠 以身作则，我会说。 | Mainly lead by example, I'd say. |
+| 2 | 如果 一个 领导 努力 工作、还 在 压力下 保持 冷静，人们 尊敬 他们。 | If a leader works hard and stays calm under pressure, people respect them. |
+| 3 | 此外，倾听 那 团队 比 只是 发号施令 更 要紧。 | Plus, listening to the team matters more than just giving orders. |
+| 4 | 所以 它 归结到 赢得 信任，不是 索要 它。 | So it comes down to earning trust, not demanding it. |
+
+> Mainly lead by example, I'd say. If a leader works hard and stays calm under pressure, people respect them. Plus, listening to the team matters more than just giving orders. So it comes down to earning trust, not demanding it.
+
+> 🔁 **复用**：`Mainly…I'd say`+`stays calm under pressure`(张伟)+`Plus`+trust(老08-Q2)+`comes down to`。
+
+**Q3. Should students learn to do group work?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 教 他们 怎么 跟 别人 相处、还有 处理 分歧。 | It teaches them how to get on with others and handle disagreements. |
+| 3 | 除此之外，大多数 真实 工作 需要 团队合作，所以 它 是 好 练习。 | On top of that, most real jobs need teamwork, so it's good practice. |
+| 4 | 所以 它 是 一个 真的 很 有用的 技能 [去]早早 学会。 | So it's a really useful skill to pick up early. |
+
+> Absolutely, I think so. It teaches them how to get on with others and handle disagreements. On top of that, most real jobs need teamwork, so it's good practice. So it's a really useful skill to pick up early.
+
+> 🔁 **复用**：`Absolutely, I think so`+`get on with others`(新07-Q2)+`On top of that`+`pick up`(新15)。
+
+**Q4. What group tasks are there in schools?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 像 课堂 项目、演示、还有 运动队。 | Things like class projects, presentations, and sports teams. |
+| 3 | 我 上学 的时候，我们 会 在 电脑 社团 里 一起 写 一些 小 程序。 | When I was at school, we'd build little programs together in the computer club. |
+| 4 | 所以 有 一大堆 机会 [去]作为 一个 团队 工作。 | So there's plenty of chances to work as a team. |
+
+> Quite a few, actually. Things like class projects, presentations, and sports teams. When I was at school, we'd build little programs together in the computer club. So there's plenty of chances to work as a team.
+
+> 🔁 **复用**：`Quite a few, actually`+`build little programs together in the computer club`(新07 逐字)。
+
+**Q5. What advantages are there for students experiencing teamwork at school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 他们 学会 分担 那 担子、还 从 别的 角度 看 事情。 | They learn to share the load and see things from other points of view. |
+| 3 | 此外，它 建立 自信、还 教 他们 说出来。 | Plus, it builds confidence and teaches them to speak up. |
+| 4 | 所以 它 为 他们 往后 的 工作 打下 好 基础。 | So it sets them up well for work later on. |
+
+> Loads, honestly. They learn to share the load and see things from other points of view. Plus, it builds confidence and teaches them to speak up. So it sets them up well for work later on.
+
+> 🔁 **复用**：`Loads, honestly`+`Plus`+`speak up`(老21-Q5风)。
+
+**Q6. How can you tell if a person is a good leader?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 迹象，真的。 | A few signs, really. |
+| 2 | 一个 好 领导 在 压力下 保持 冷静，而 每个人 都 自然 求助 他们。 | A good leader stays calm under pressure and everyone naturally turns to them. |
+| 3 | 而 一个 差 的 只 在 事情 出错 时 怪 别人。 | Whereas a bad one just blames others when things go wrong. |
+| 4 | 所以 它 归结到 他们 怎么 处理 一场 危机。 | So it comes down to how they handle a crisis. |
+
+> A few signs, really. A good leader stays calm under pressure and everyone naturally turns to them. Whereas a bad one just blames others when things go wrong. So it comes down to how they handle a crisis.
+
+> 🔁 **复用**：`stays calm under pressure`(张伟)+`everyone … turns to them`(新25)+`whereas`+`comes down to how they handle`(新07-Q...)。
+
+**P3 句型/模板（复用池）**：`A few reasons, really` / `full control` / `whereas` · `Mainly lead by example, I'd say` / `stays calm under pressure` / `earning trust` · `Absolutely, I think so` / `get on with others` / `pick up` · `Quite a few, actually` / `build little programs together in the computer club` · `Loads, honestly` / `speak up` · `A few signs, really` / `everyone naturally turns to them` / `comes down to how they handle a crisis`。
+
+---
+
+## P2-新13 · A live sports event you liked — CBA 篮球赛（Event）  〔复用生成〕
+
+> **Cue**: 是什么 / 何时何地看 / 跟谁看 / 为何喜欢 · 题型 Event
+>
+> 🔁 **整卡复用自**：张伟(old classmate/mates for years) + 新07(nothing beats in person) + 新23(for ages) + 新14(not really about X, it's about Y) + 老20(money well spent)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 活动 是 一场 CBA 篮球赛、（我 前阵子 现场 看的）。 | The event I'd like to talk about is a CBA basketball game I watched live a while ago. |
+| 2 | 我 跟 我 老同学 张伟 一起 去——我们 做 哥们儿 好些年 了。 | I went with my old classmate Zhangwei — we've been mates for years. |
+| 3 | 它 在 成都 这儿 那 大 体育馆，一个 周末 晚上。 | It was at the big arena here in Chengdu, on a weekend evening. |
+| 4 | 我们 俩 都 不 太 紧 追 篮球，但 那 票 正好 便宜。 | Neither of us follows basketball that closely, but the tickets came up cheap. |
+| 5 | 真正 让 它 出众的 是 那 氛围——整个 人群 都 站 起来 喊。 | What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. |
+| 6 | 在 电视上 看 是 一回事，但 亲身 在 那儿 完全 不同。 | Watching it on TV is one thing, but being there in person is completely different. |
+| 7 | 你 感受 每 一个 进球，而 那 能量 就 把 你 卷 进去。 | You feel every basket, and the energy just pulls you in. |
+| 8 | 说实话，即使 那 主队 输 了，我们 也 玩 得 特别 开心。 | Honestly, even though the home team lost, we had a brilliant time. |
+| 9 | 之后 我们 抓 了 点 吃的、还 聊 它 聊 了 老半天。 | Afterwards we grabbed some food and talked about it for ages. |
+| 10 | 所以 对我，它 不 真的 关于 那 比赛——它 关于 跟 一个 老朋友 的 一个 美好 夜晚。 | So for me, it wasn't really about the game — it was about a good night out with an old friend. |
+
+### ②P2 整段（shadow）
+
+> The event I'd like to talk about is a CBA basketball game I watched live a while ago. I went with my old classmate Zhangwei — we've been mates for years. It was at the big arena here in Chengdu, on a weekend evening. Neither of us follows basketball that closely, but the tickets came up cheap. What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. Watching it on TV is one thing, but being there in person is completely different. You feel every basket, and the energy just pulls you in. Honestly, even though the home team lost, we had a brilliant time. Afterwards we grabbed some food and talked about it for ages. So for me, it wasn't really about the game — it was about a good night out with an old friend.
+
+> 🔁 **复用**：句2 `old classmate Zhangwei`+`mates for years`(新07)；句5 `What really made it stand out was`；句6 in-person(新07 nothing beats)；句9 `for ages`(新23)；句10 `not really about X — it's about Y`(新14)。
+
+### 句型/模板（复用池）
+
+- `The event I'd like to talk about is … I watched live a while ago` · `I went with my old classmate Zhangwei — we've been mates for years` · `What really made it stand out was the atmosphere` · `it wasn't really about X — it was about Y`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Why do some people like to watch sports events?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些人 爱 那 刺激，而 另一些 只是 享受 支持 他们的 队。 | Some love the excitement, whereas others just enjoy supporting their team. |
+| 3 | 除此之外，它 是 一个 跟 哥们儿 一起 混 的 好 方式。 | On top of that, it's a great way to hang out with mates. |
+| 4 | 所以 它 归结到 那 热闹 和 那 陪伴。 | So it comes down to the buzz and the company. |
+
+> A few reasons, really. Some love the excitement, whereas others just enjoy supporting their team. On top of that, it's a great way to hang out with mates. So it comes down to the buzz and the company.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`hang out with mates`(老24-Q3)+`the buzz`(老25-Q6)+`comes down to`。
+
+**Q2. Where do people normally watch sports events?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 在家，我会说。 | Mostly at home, I'd say. |
+| 2 | 它 更 便宜、更 舒服——你 就 在 手机 或 电视上 看。 | It's cheaper and more comfortable — you just watch it on your phone or TV. |
+| 3 | 而 有些人 去 体育馆 或 一个 酒吧 [为了]那 氛围。 | Whereas some people go to the arena or a bar for the atmosphere. |
+| 4 | 所以 它 归结到 你 想要 便捷 还是 那 真实 体验。 | So it comes down to whether you want convenience or the real experience. |
+
+> Mostly at home, I'd say. It's cheaper and more comfortable — you just watch it on your phone or TV. Whereas some people go to the arena or a bar for the atmosphere. So it comes down to whether you want convenience or the real experience.
+
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`comes down to whether you want convenience or …`。
+
+**Q3. What are the advantages of watching sports events online?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 你 能 从 任何地方、在 任何时候 看，而 它 通常 免费。 | You can watch from anywhere, at any time, and it's usually free. |
+| 3 | 除此之外，你 能 暂停、回放、还 查 数据。 | On top of that, you can pause, rewind, and check the stats. |
+| 4 | 所以 它 真的 很 方便，尤其 如果 你 忙。 | So it's really convenient, especially if you're busy. |
+
+> Loads, honestly. You can watch from anywhere, at any time, and it's usually free. On top of that, you can pause, rewind, and check the stats. So it's really convenient, especially if you're busy.
+
+> 🔁 **复用**：`Loads, honestly`+`from anywhere, at any time`(新07-Q4)+`On top of that`。
+
+**Q4. What sports matches are suitable for children to attend?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 那些 有趣、热闹的，我会说。 | Mainly the fun, lively ones, I'd say. |
+| 2 | 像 篮球 或 足球，（那里 有 很多 动作）。 | Things like basketball or football, where there's lots of action. |
+| 3 | 而 长、慢 的 比赛 可能 让 他们 无聊。 | Whereas long, slow games might bore them. |
+| 4 | 所以 它 归结到 保持 它 短 又 刺激。 | So it comes down to keeping it short and exciting. |
+
+> Mainly the fun, lively ones, I'd say. Things like basketball or football, where there's lots of action. Whereas long, slow games might bore them. So it comes down to keeping it short and exciting.
+
+> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`bore them`(新03)+`comes down to`。
+
+**Q5. Why do some people spend a lot going to other countries to watch sports events?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 热情，我会说。 | Mainly passion, I'd say. |
+| 2 | 对 一个 真 粉丝，现场 看 他们的 队 是 花得 值的 钱。 | For a real fan, seeing their team live is money well spent. |
+| 3 | 此外，他们 得以 旅行、还 把 它 当 一个 假期。 | Plus, they get to travel and make a holiday of it. |
+| 4 | 所以 他们 不 把 它 看作 一个 浪费——它 是 一个 梦想 成真。 | So they don't see it as a waste — it's a dream come true. |
+
+> Mainly passion, I'd say. For a real fan, seeing their team live is money well spent. Plus, they get to travel and make a holiday of it. So they don't see it as a waste — it's a dream come true.
+
+> 🔁 **复用**：`Mainly … I'd say`+`money well spent`+`not … a waste`(老20-Q6 逐字)+`Plus`。
+
+**Q6. What sports games are popular in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，真的。 | Loads, really. |
+| 2 | 篮球 和 足球 巨大，而 乒乓球 到处 都是。 | Basketball and football are huge, and table tennis is everywhere. |
+| 3 | 除此之外，羽毛球 对 普通 人 真的 很 受欢迎。 | On top of that, badminton's really popular for ordinary people. |
+| 4 | 所以 有 适合 每个人 的 东西，说句公道话。 | So there's something for everyone, to be fair. |
+
+> Loads, really. Basketball and football are huge, and table tennis is everywhere. On top of that, badminton's really popular for ordinary people. So there's something for everyone, to be fair.
+
+> 🔁 **复用**：`Loads, really`+`On top of that`+`to be fair`。
+
+**P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `hang out with mates` / `the buzz` · `Mostly … I'd say` / `comes down to whether you want convenience or the real experience` · `Loads, honestly` / `from anywhere, at any time` · `Mainly the fun, lively ones, I'd say` / `bore them` · `money well spent` / `not … a waste` · `Loads, really` / `to be fair`。
 
 ---
 
