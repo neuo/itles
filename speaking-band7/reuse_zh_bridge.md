@@ -4526,3 +4526,239 @@
 **P3 句型/模板（复用池）**：`Cars, I'd say, these days` / `whereas` · `Partly, I'd say` / `comes down to more than just cars` · `To some extent, yeah` / `gradual, sensible steps` · `Quite a few differences, actually` / `everything's under one roof` · `Mainly because they can afford it, I'd say` / `the freedom` / `not stuck to a schedule` · `Massively bright, I reckon` / `sorting out the infrastructure`。
 
 ---
+
+## P2-老13 · A person who solved a problem in a smart way — 张伟查网络日志（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 什么问题 / 怎么解决 / 为何机智 · 题型 Person
+>
+> 🔁 **整卡复用自**：张伟池 + 新16(system went down/tracked down the cause/node) + 新21(saved the day)。几乎全逐字迁移。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 老同学 张伟，（他 用 一个 真的 很 机智 的 方式 解决 了 一个 棘手 问题）。 | The person I'd like to talk about is my old classmate Zhangwei, who solved a tricky problem in a really smart way. |
+| 2 | 我们 在 大学 认识，在 那 电脑 社团，一起 写 一些 小 程序。 | We met at university, in the computer club, building little programs together. |
+| 3 | 前阵子，我们 整个 系统 在 工作上 突然 宕机。 | A while back, our whole system suddenly went down at work. |
+| 4 | 没人 能 弄明白 为什么——一切 看起来 都 正常。 | Nobody could figure out why — everything looked fine. |
+| 5 | 当 我们 其他人 都 在 慌，张伟 就 保持 冷静、坐下。 | While the rest of us were panicking, Zhangwei just stayed calm and sat down. |
+| 6 | 与其 瞎猜，他 一行一行 过 那 网络 日志。 | Instead of guessing, he went through the network logs line by line. |
+| 7 | 在 大约 二十分钟 之内，他 追查到 那 原因——一个 坏 了 的 节点。 | Within about twenty minutes, he tracked down the cause — one faulty node. |
+| 8 | 那 是 一个 这么 机智、冷静 的 处理 方式。 | It was such a smart, calm way to handle it. |
+| 9 | 他 说实话 救 了 场，就 像 他 总是 做的。 | He honestly saved the day, like he always does. |
+| 10 | 我 真正 佩服 他 的 是 他 怎么 在 压力下 保持 冷静。 | What I really admire about him is how he stays calm under pressure. |
+| 11 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my old classmate Zhangwei, who solved a tricky problem in a really smart way. We met at university, in the computer club, building little programs together. A while back, our whole system suddenly went down at work. Nobody could figure out why — everything looked fine. While the rest of us were panicking, Zhangwei just stayed calm and sat down. Instead of guessing, he went through the network logs line by line. Within about twenty minutes, he tracked down the cause — one faulty node. It was such a smart, calm way to handle it. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. To be honest, that's something I'd love to learn from him.
+
+> 🔁 **复用**：句2 `computer club, building little programs`(新07/新25)；句3 `system … went down`(新16)；句5 `panicking … stayed calm and sat down`(张伟)；句6 `network logs line by line`(新16/张伟)；句7 `tracked down the cause … node`(新16)；句9 `saved the day`(新21)；句10-11 `What I really admire … / something I'd love to learn`(新07 逐字)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is …, who solved a tricky problem in a really smart way` · `Instead of guessing, he went through the network logs line by line` · `he tracked down the cause` · `It was such a smart, calm way to handle it` · `stays calm under pressure`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you think children are born smart or they learn to become smart?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 是 两者，真的。 | A bit of both, really. |
+| 2 | 有些 孩子 天生 反应 快，而 另一些 靠 努力 才 到 那儿。 | Some kids are naturally quick, whereas others get there through hard work. |
+| 3 | 我 朋友 张伟 真的 很 敏锐，但 他 也 不停 练习。 | My friend Zhangwei's really sharp, but he also practises constantly. |
+| 4 | 所以 它 归结到 天赋 和 努力 的 一个 混合。 | So it comes down to a mix of talent and effort. |
+
+> A bit of both, really. Some kids are naturally quick, whereas others get there through hard work. My friend Zhangwei's really sharp, but he also practises constantly. So it comes down to a mix of talent and effort.
+
+> 🔁 **复用**：全套复用 新21-Q5（逐字）。
+
+**Q2. How do children become smart at school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 方式，真的。 | A few ways, really. |
+| 2 | 大多 靠 学会 怎么 思考，不 只是 死记 事实。 | Mostly by learning how to think, not just memorising facts. |
+| 3 | 而 只是 填鸭 带 他们 走 不 远。 | Whereas just cramming doesn't get them far. |
+| 4 | 所以 它 归结到 教 他们 怎么 学。 | So it comes down to teaching them how to learn. |
+
+> A few ways, really. Mostly by learning how to think, not just memorising facts. Whereas just cramming doesn't get them far. So it comes down to teaching them how to learn.
+
+> 🔁 **复用**：`how to think`+`get them far`+`teaching them how to learn`(新21-Q1)。
+
+**Q3. Why are some people well-rounded and others only good at one thing?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些人 对 一切 好奇，而 另一些 深 钻 一个 东西。 | Some people are curious about everything, whereas others go deep into one thing. |
+| 3 | 它 归结到 他们的 性格 和 他们 享受 什么。 | It comes down to their personality and what they enjoy. |
+| 4 | 两者 都 有 它们的 长处，说句公道话。 | Both have their strengths, to be fair. |
+
+> A few reasons, really. Some people are curious about everything, whereas others go deep into one thing. It comes down to their personality and what they enjoy. Both have their strengths, to be fair.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`comes down to`+`Both have their … / to be fair`(新09-Q3)。
+
+**Q4. Why does modern society need talents of all kinds?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 一个 社会 需要 各种——工程师、艺术家、医生、每个人。 | A society needs all sorts — engineers, artists, doctors, everyone. |
+| 3 | 而 如果 每个人 都 做 同样的 事，什么 都 转 不起来。 | Whereas if everyone did the same thing, nothing would work. |
+| 4 | 所以 它 归结到 每个人 都 出 一份 力。 | So it comes down to everyone playing their part. |
+
+> Massively, I reckon. A society needs all sorts — engineers, artists, doctors, everyone. Whereas if everyone did the same thing, nothing would work. So it comes down to everyone playing their part.
+
+> 🔁 **复用**：`Massively, I reckon`+`all sorts`+`whereas`+`everyone playing their part`(新27-Q5)。
+
+**Q5. Do you think smart children are happier than other children?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不 一定，说实话。 | Not necessarily, honestly. |
+| 2 | 聪明 在 学校 有帮助，但 它 不 保证 幸福。 | Being smart helps at school, but it doesn't guarantee happiness. |
+| 3 | 而 一个 善良、随和 的 孩子 可能 快乐 得 多。 | Whereas a kind, easy-going kid can be far happier. |
+| 4 | 所以 它 归结到 不 止 聪明。 | So it comes down to more than just being clever. |
+
+> Not necessarily, honestly. Being smart helps at school, but it doesn't guarantee happiness. Whereas a kind, easy-going kid can be far happier. So it comes down to more than just being clever.
+
+> 🔁 **复用**：`honestly`+`whereas`+`easy-going`(新07-Q5 laid-back)+`comes down to`。
+
+**Q6. Is it important for schools to identify and develop each student's talents?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 每个 孩子 都 擅长 某个 东西，所以 学校 该 帮 他们 找到 它。 | Every kid's good at something, so schools should help them find it. |
+| 3 | 除此之外，它 建立 他们的 自信。 | On top of that, it builds their confidence. |
+| 4 | 所以 它 归结到 激发 每个人 最好的 一面。 | So it comes down to bringing out the best in everyone. |
+
+> Absolutely, I think so. Every kid's good at something, so schools should help them find it. On top of that, it builds their confidence. So it comes down to bringing out the best in everyone.
+
+> 🔁 **复用**：`Absolutely, I think so`+`On top of that`+`builds their confidence`(新11-Q5)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`A bit of both, really` / `comes down to a mix of talent and effort` · `A few ways, really` / `how to think` / `teaching them how to learn` · `A few reasons, really` / `Both have their strengths, to be fair` · `Massively, I reckon` / `everyone playing their part` · `Not necessarily, honestly` / `easy-going` · `Absolutely, I think so` / `builds their confidence`。
+
+---
+
+## P2-老14 · A person who is learning something new — 老婆学日语（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 学了什么 / 为何学 / 有老师会不会更容易 · 题型 Person
+>
+> 🔁 **整卡复用自**：新15 老婆学语言（几乎全逐字：working through textbooks / chips away every single day / perseverance / a lot on her plate / sets a great example）+ 新15-Q5(walk you through step by step)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 老婆，（她 目前 在 学 日语）。 | The person I'd like to talk about is my wife, who's learning Japanese at the moment. |
+| 2 | 我们 结婚 十多年 了，而 她 总是 在 捡起 一些 新 东西。 | We've been married for over ten years, and she's always picking up something new. |
+| 3 | 她 去年 开始，大多 因为 我们 爱 去 日本 旅行。 | She started last year, mostly because we love travelling to Japan. |
+| 4 | 她 学 的 方式 是 靠 啃 教材，而 她 也 看 动漫。 | The way she learns is by working through textbooks, and she watches anime too. |
+| 5 | 她 真的 坚持——她 每一天 都 啃 掉 一点点。 | She really sticks at it — she chips away at it a little every single day. |
+| 6 | 我 真正 佩服 她 的 是 她的 毅力。 | What I really admire about her is her perseverance. |
+| 7 | 她 从不 停，即使 当 她 手头 一大堆 事——工作、我们的 儿子、一切。 | She never stops, even when she's got a lot on her plate — work, our son, everything. |
+| 8 | 至于 一个 老师 会不会 让 它 更 容易——说实话，大概 会。 | As for whether a teacher would make it easier — honestly, probably. |
+| 9 | 一个 老师 能 一步步 带 你 过 那些 棘手的 部分。 | A teacher could walk you through the tricky bits step by step. |
+| 10 | 但 她 自己 做 得 很 出色，说句公道话。 | But she's doing brilliantly on her own, to be fair. |
+| 11 | 所以 对我，她 树立 了 一个 很好的 榜样。 | So for me, she sets a great example. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my wife, who's learning Japanese at the moment. We've been married for over ten years, and she's always picking up something new. She started last year, mostly because we love travelling to Japan. The way she learns is by working through textbooks, and she watches anime too. She really sticks at it — she chips away at it a little every single day. What I really admire about her is her perseverance. She never stops, even when she's got a lot on her plate — work, our son, everything. As for whether a teacher would make it easier — honestly, probably. A teacher could walk you through the tricky bits step by step. But she's doing brilliantly on her own, to be fair. So for me, she sets a great example.
+
+> 🔁 **复用**：句2 `picking up`(新15-Q3)；句4 `working through textbooks`(新15)；句5 `sticks at it / chips away … every single day`(新15 逐字)；句6 `What I really admire … perseverance`(新15 逐字)；句7 `a lot on her plate`(新15)；句9 `walk you through … step by step`(新15-Q5)；句11 `sets a great example`(新15)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is my wife, who's learning Japanese` · `The way she learns is by working through textbooks` · `she chips away at it a little every single day` · `What I really admire about her is her perseverance` · `A teacher could walk you through the tricky bits step by step` · `she sets a great example`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Is it necessary to keep learning after graduating from school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 这 世界 变 得 快，所以 你 得 跟上，不然 你 落后。 | The world changes fast, so you have to keep up or you fall behind. |
+| 3 | 而 停止 学习 的人 固守 老一套。 | Whereas people who stop learning get stuck in their ways. |
+| 4 | 所以 它 归结到 一辈子 保持 好奇。 | So it comes down to staying curious your whole life. |
+
+> Absolutely, I think so. The world changes fast, so you have to keep up or you fall behind. Whereas people who stop learning get stuck in their ways. So it comes down to staying curious your whole life.
+
+> 🔁 **复用**：`Absolutely, I think so`+`keep up … fall behind`(新16-Q2)+`whereas`+`stuck in their ways`(新15-Q4)+`comes down to`。
+
+**Q2. Should teachers make learning in their classes fun?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Absolutely, yeah. |
+| 2 | 如果 一节 课 好玩、动手，孩子 真的 会 专注。 | If a class is fun and hands-on, kids actually pay attention. |
+| 3 | 而 如果 一个 老师 只 对 你 说，学生 就 走神。 | Whereas if a teacher just talks at you, students switch off. |
+| 4 | 所以 它 归结到 保持 它 吸引人。 | So it comes down to keeping it engaging. |
+
+> Absolutely, yeah. If a class is fun and hands-on, kids actually pay attention. Whereas if a teacher just talks at you, students switch off. So it comes down to keeping it engaging.
+
+> 🔁 **复用**：`hands-on`(新16)+`whereas`+`talks at you / switch off`(新03-Q4)+`comes down to`。
+
+**Q3. Do you think there are too many subjects for students to learn?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 孩子 这些天 确实 手头 一大堆 事。 | Kids do have a lot on their plate these days. |
+| 3 | 而 一个 广的 基础 确实 帮 他们 找到 他们 喜欢 什么。 | Whereas a broad base does help them find what they like. |
+| 4 | 所以 它 归结到 保持 一个 明智的 平衡。 | So it comes down to keeping a sensible balance. |
+
+> To some extent, yeah. Kids do have a lot on their plate these days. Whereas a broad base does help them find what they like. So it comes down to keeping a sensible balance.
+
+> 🔁 **复用**：`To some extent, yeah`+`a lot on their plate`(新15)+`whereas`+`comes down to`。
+
+**Q4. Is it better to focus on a few subjects or to learn many subjects?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 专注 让 你 钻 深，而 一个 广的 范围 让 你的 选择 敞开。 | Focusing lets you go deep, whereas a broad range keeps your options open. |
+| 3 | 对 我 来说，两者 的 一个 混合 最好。 | For me, a mix of both works best. |
+| 4 | 所以 它 归结到 你的 目标。 | So it comes down to your goals. |
+
+> It's a bit of a mixed bag, honestly. Focusing lets you go deep, whereas a broad range keeps your options open. For me, a mix of both works best. So it comes down to your goals.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`a mix of both`(老08-Q1)+`comes down to`。
+
+**Q5. Do you think enterprises should provide training for their employees?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 当 员工 一直 学习，他们 保持 有动力。 | When staff keep learning, they stay motivated. |
+| 3 | 此外，它 是 花得 值的 钱——一个 训练 更 好的 团队 做 更 好的 活。 | Plus, it's money well spent — a better-trained team does better work. |
+| 4 | 所以 它 归结到 投资 在 你的 人 身上。 | So it comes down to investing in your people. |
+
+> Absolutely, I think so. When staff keep learning, they stay motivated. Plus, it's money well spent — a better-trained team does better work. So it comes down to investing in your people.
+
+> 🔁 **复用**：`Absolutely, I think so`+`motivated`(新24-Q1)+`money well spent`(老20)+`comes down to`。
+
+**Q6. Do you think it is good for older adults to continue learning?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Absolutely, yeah. |
+| 2 | 它 让 他们的 脑子 活跃、还 给 他们 一种 目的感。 | It keeps their mind active and gives them a sense of purpose. |
+| 3 | 我 父母 就 一直 在 学 新 app，比如。 | My parents are always learning new apps, for instance. |
+| 4 | 所以 它 归结到 永远 不 会 太 老 [去]学。 | So it comes down to never being too old to learn. |
+
+> Absolutely, yeah. It keeps their mind active and gives them a sense of purpose. My parents are always learning new apps, for instance. So it comes down to never being too old to learn.
+
+> 🔁 **复用**：`Absolutely, yeah`+`my parents … apps`(老08-Q2)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `keep up or you fall behind` / `stuck in their ways` · `hands-on` / `talks at you / switch off` · `To some extent, yeah` / `a lot on their plate` · `a bit of a mixed bag, honestly` / `a mix of both` · `money well spent` / `investing in your people` · `Absolutely, yeah` / `my parents … apps` / `never being too old to learn`。
+
+---
