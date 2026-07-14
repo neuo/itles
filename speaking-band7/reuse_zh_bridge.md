@@ -3869,11 +3869,13 @@
 | 7 | 他 会 坐 在 我 旁边、给 我 解释 每 一幅 画。 | He'll sit right next to me and explain each drawing. |
 | 8 | 说实话，它 勾起 我 小时候 画画 的 回忆。 | Honestly, it brings back memories of me drawing as a kid. |
 | 9 | 我 爱 它 是 他 自己的 小 世界，远离 屏幕。 | I love that it's his own little world, away from screens. |
-| 10 | 所以 对我，它 不 真的 关于 那些 画——它 关于 看 他 享受 一个 东西。 | So for me, it's not really about the drawings — it's about watching him enjoy something. |
+| 10 | 他 甚至 开始 把 他的 画 当 小 礼物 送 给 我，而 说实话 它们 对 我 意义 重大。 | He's even started giving me his drawings as little presents, and honestly they mean the world to me. |
+| 11 | 我 老婆 把 它们 贴 得 满 冰箱 都是，所以 整个 厨房 都 是 他的 恐龙。 | My wife sticks them all over the fridge, so the whole kitchen is covered in his dinosaurs. |
+| 12 | 所以 对我，它 不 真的 关于 那些 画——它 关于 看 他 享受 一个 东西。 | So for me, it's not really about the drawings — it's about watching him enjoy something. |
 
 ### ②P2 整段（shadow）
 
-> The child I'd like to talk about is my son, Muye, who absolutely loves drawing. He's five now, and he's been into drawing since he was about three. He draws dinosaurs mostly — he's obsessed with them. I first noticed it when he'd fill whole notebooks with little dinosaurs. He draws pretty much every day, usually after dinner. What really makes it special is how focused he gets — he'll sit there for ages. He'll sit right next to me and explain each drawing. Honestly, it brings back memories of me drawing as a kid. I love that it's his own little world, away from screens. So for me, it's not really about the drawings — it's about watching him enjoy something.
+> The child I'd like to talk about is my son, Muye, who absolutely loves drawing. He's five now, and he's been into drawing since he was about three. He draws dinosaurs mostly — he's obsessed with them. I first noticed it when he'd fill whole notebooks with little dinosaurs. He draws pretty much every day, usually after dinner. What really makes it special is how focused he gets — he'll sit there for ages. He'll sit right next to me and explain each drawing. Honestly, it brings back memories of me drawing as a kid. I love that it's his own little world, away from screens. He's even started giving me his drawings as little presents, and honestly they mean the world to me. My wife sticks them all over the fridge, so the whole kitchen is covered in his dinosaurs. So for me, it's not really about the drawings — it's about watching him enjoy something.
 
 > 🔁 **复用**：句1 `who absolutely loves`(新05)；句3 dinosaur(新14)；句6 `What really makes it special is`+`for ages`(新23)；句7 `sit right next to me`(老11)；句8 `brings back memories`(老11)；句9 `away from screens`(新16)；句10 `not really about X — it's about Y`(新14)。
 
@@ -4899,11 +4901,13 @@
 | 7 | 我 完全 上瘾——我们 一口气 看 完 了 整个。 | I was completely hooked — we watched the whole thing in one go. |
 | 8 | 说实话，它 事后 真的 留 在 我 心里。 | Honestly, it really stuck with me afterwards. |
 | 9 | 我 老婆 也 很爱 它，而 我们 聊 它 聊 了 老半天。 | My wife loved it too, and we talked about it for ages. |
-| 10 | 所以 对我，它 是 那种 好玩 但 也 让 你 思考 的 电影 之一。 | So for me, it's one of those films that's fun but also makes you think. |
+| 10 | 之后，我 甚至 去 查 了 它 背后 的 真 科学，因为 我 是 一个 软件 工程师、还 爱 搞懂 东西 怎么 运作。 | Afterwards, I even looked up the real science behind it, because I'm a software engineer and I love understanding how things work. |
+| 11 | 我 老婆 就 笑 我 把 它 看 得 这么 认真。 | My wife just laughed at me for taking it so seriously. |
+| 12 | 所以 对我，它 是 那种 好玩 但 也 让 你 思考 的 电影 之一。 | So for me, it's one of those films that's fun but also makes you think. |
 
 ### ②P2 整段（shadow）
 
-> The film I'd like to talk about is a sci-fi movie I watched recently at home. I'm really into sci-fi, so anything about space catches my eye. I watched it one evening with my wife, after our son went to bed. It was about a group of astronauts trying to save Earth. What really makes it stand out is how it turns complex science into something you feel. I'm a software engineer, so I love how they thought through every detail. I was completely hooked — we watched the whole thing in one go. Honestly, it really stuck with me afterwards. My wife loved it too, and we talked about it for ages. So for me, it's one of those films that's fun but also makes you think.
+> The film I'd like to talk about is a sci-fi movie I watched recently at home. I'm really into sci-fi, so anything about space catches my eye. I watched it one evening with my wife, after our son went to bed. It was about a group of astronauts trying to save Earth. What really makes it stand out is how it turns complex science into something you feel. I'm a software engineer, so I love how they thought through every detail. I was completely hooked — we watched the whole thing in one go. Honestly, it really stuck with me afterwards. My wife loved it too, and we talked about it for ages. Afterwards, I even looked up the real science behind it, because I'm a software engineer and I love understanding how things work. My wife just laughed at me for taking it so seriously. So for me, it's one of those films that's fun but also makes you think.
 
 > 🔁 **复用**：句2 `really into sci-fi … catches my eye`(新02 逐字)；句5 `turns complex science into something you feel`(新02)；句6 `I'm a software engineer`(新16)；句7 `hooked … in one go`(新02)；句8 `stuck with me`(新18/新02)；句9 `for ages`(新23)。
 
@@ -5706,11 +5710,13 @@
 | 7 | 他 差不多 每隔 一个 周末 都 在 那儿。 | He's out there pretty much every other weekend. |
 | 8 | 说实话，我 真的 佩服 他 多么 投入。 | Honestly, I really admire how committed he is. |
 | 9 | 他 其实 已经 让 我 现在 对 废物 更 上心。 | He's actually got me being more careful about waste now. |
-| 10 | 所以 对我，他 树立 了 一个 很好的 榜样。 | So for me, he sets a great example. |
+| 10 | 上个月，他 甚至 拉 了 我们 几个 去 参加 我 家 附近 河边 的 一次 清理，而 说实话 它 感觉 真的 很好。 | Last month, he even got a few of us to join a clean-up by the river near my home, and honestly it felt really good. |
+| 11 | 我 儿子 也 一起 来 了，还 很爱 跟 大家 一起 捡 垃圾。 | My son came along too and loved picking up litter with everyone. |
+| 12 | 所以 对我，他 树立 了 一个 很好的 榜样。 | So for me, he sets a great example. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is a close friend of mine, who really cares about the environment. We've been mates for years, and looking after nature is basically his whole thing. He gives up his weekends to join litter clean-ups along rivers and trails. On top of that, he plants trees and gets his friends to cut down on plastic. What really makes him stand out is that he's hands-on and low-key about it. He just shows up with a bin bag and leads by example. He's out there pretty much every other weekend. Honestly, I really admire how committed he is. He's actually got me being more careful about waste now. So for me, he sets a great example.
+> The person I'd like to talk about is a close friend of mine, who really cares about the environment. We've been mates for years, and looking after nature is basically his whole thing. He gives up his weekends to join litter clean-ups along rivers and trails. On top of that, he plants trees and gets his friends to cut down on plastic. What really makes him stand out is that he's hands-on and low-key about it. He just shows up with a bin bag and leads by example. He's out there pretty much every other weekend. Honestly, I really admire how committed he is. He's actually got me being more careful about waste now. Last month, he even got a few of us to join a clean-up by the river near my home, and honestly it felt really good. My son came along too and loved picking up litter with everyone. So for me, he sets a great example.
 
 > 🔁 **复用**：句1 `a close friend of mine`(老23)；句2 `mates for years`(新07/新13)；句4 `On top of that`+`cut down on plastic`(新27)；句5 `What really makes him stand out is`+`hands-on`(新16)；句8 `I really admire`(新15)；句9 `he's got me being more careful`(新22 wife 同构)；句10 `sets a great example`(新15)。
 
@@ -5823,11 +5829,13 @@
 | 7 | 此外，那 员工 不 咄咄逼人，所以 我 能 慢慢来。 | Plus, the staff aren't pushy, so I can take my time. |
 | 8 | 十有八九，我 走出来 带着 一个 我 没 打算 买 的 小 笔记本。 | More often than not, I walk out with a little notebook I didn't plan on buying. |
 | 9 | 说实话，对我 它 更少 关于 购物、更多 关于 放松。 | Honestly, for me it's less about shopping and more about unwinding. |
-| 10 | 所以 它 基本上 是 我 的 方式、[去]在 一个 忙 的 周末 按 下 暂停。 | So it's basically my way of pressing pause on a busy weekend. |
+| 10 | 我 老婆 通常 逛 那 家居用品，而 我 看 那些 笔记本，我们 慢慢来。 | My wife usually browses the homeware while I look at the notebooks, and we take our time. |
+| 11 | 有时候 我们 之后 在 附近 抓 杯 咖啡、就 聊聊天。 | Sometimes we grab a coffee nearby afterwards and just chat. |
+| 12 | 所以 它 基本上 是 我 的 方式、[去]在 一个 忙 的 周末 按 下 暂停。 | So it's basically my way of pressing pause on a busy weekend. |
 
 ### ②P2 整段（shadow）
 
-> The shop I'd like to talk about is MUJI, the Japanese lifestyle brand. There's one tucked inside a big shopping mall here in Chengdu, where I live. I drop by once or twice a month, usually for a relaxed weekend with my wife. What I love most is the calm, tidy feel of it. It's such a nice escape from the noise of a busy mall. The products are simple and nice to look at, and I could browse for ages. Plus, the staff aren't pushy, so I can take my time. More often than not, I walk out with a little notebook I didn't plan on buying. Honestly, for me it's less about shopping and more about unwinding. So it's basically my way of pressing pause on a busy weekend.
+> The shop I'd like to talk about is MUJI, the Japanese lifestyle brand. There's one tucked inside a big shopping mall here in Chengdu, where I live. I drop by once or twice a month, usually for a relaxed weekend with my wife. What I love most is the calm, tidy feel of it. It's such a nice escape from the noise of a busy mall. The products are simple and nice to look at, and I could browse for ages. Plus, the staff aren't pushy, so I can take my time. More often than not, I walk out with a little notebook I didn't plan on buying. Honestly, for me it's less about shopping and more about unwinding. My wife usually browses the homeware while I look at the notebooks, and we take our time. Sometimes we grab a coffee nearby afterwards and just chat. So it's basically my way of pressing pause on a busy weekend.
 
 > 🔁 **复用**：句2 `here in Chengdu, where I live`(新01)；句3 `weekend with my wife`(新01/老26)；句4 `calm, tidy feel`(老24降档)；句5 `escape`(老26)；句6 `for ages`(新23)；句7 `take my time`(老12)；句9 `less about X and more about Y`(老24)。
 
@@ -6174,11 +6182,13 @@
 | 7 | 她 其实 试着 在家 重现 几个 那些 烘焙品。 | She's actually tried to recreate a few of the bakes at home. |
 | 8 | 说实话，它 是 我们 温馨的 方式、[去]在 一个 周末 晚上 一起 放松。 | Honestly, it's our cosy way to unwind together on a weekend evening. |
 | 9 | 它 把 大家 聚 到 一起，而 我们 总是 为 那些 烘焙者 加油。 | It brings everyone together, and we always root for the bakers. |
-| 10 | 所以 对我，它 不 真的 关于 那 烘焙——它 关于 一起 的 那段 时间。 | So for me, it's not really about the baking — it's about the time together. |
+| 10 | 我 最 喜欢 的 部分 是 当 全家 一起 挤 在 沙发上、猜 谁 会 赢。 | My favourite bit is when the whole family squeezes onto the sofa together, guessing who'll win. |
+| 11 | 说实话，它 已经 变成 一个 我们 都 盼着 的 小 周末 惯例。 | Honestly, it's become a little weekend routine we all look forward to. |
+| 12 | 所以 对我，它 不 真的 关于 那 烘焙——它 关于 一起 的 那段 时间。 | So for me, it's not really about the baking — it's about the time together. |
 
 ### ②P2 整段（shadow）
 
-> The programme I'd like to talk about is a baking competition show. It's about a group of home bakers making cakes and pastries in a big tent. I always watch it with my wife, who's a keen baker herself. Now and then our son joins in for the cake bits. What I love is that it's so wholesome — there's no drama, just kind people. On top of that, my wife gets loads of recipe ideas from it. She's actually tried to recreate a few of the bakes at home. Honestly, it's our cosy way to unwind together on a weekend evening. It brings everyone together, and we always root for the bakers. So for me, it's not really about the baking — it's about the time together.
+> The programme I'd like to talk about is a baking competition show. It's about a group of home bakers making cakes and pastries in a big tent. I always watch it with my wife, who's a keen baker herself. Now and then our son joins in for the cake bits. What I love is that it's so wholesome — there's no drama, just kind people. On top of that, my wife gets loads of recipe ideas from it. She's actually tried to recreate a few of the bakes at home. Honestly, it's our cosy way to unwind together on a weekend evening. It brings everyone together, and we always root for the bakers. My favourite bit is when the whole family squeezes onto the sofa together, guessing who'll win. Honestly, it's become a little weekend routine we all look forward to. So for me, it's not really about the baking — it's about the time together.
 
 > 🔁 **复用**：句3 wife 烘焙(新14)；句4 `now and then`(新15-Q2)；句6 `On top of that`；句7 recreate bakes(新14 wife makes cake)；句8 `unwind`(老24)；句9 `brings everyone together`(新14)；句10 `not really about X — it's about Y`(新14)。
 
