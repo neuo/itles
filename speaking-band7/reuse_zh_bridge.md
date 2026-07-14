@@ -1476,11 +1476,12 @@
 | 7 | 你 感受 每 一个 进球，而 那 能量 就 把 你 卷 进去。 | You feel every basket, and the energy just pulls you in. |
 | 8 | 说实话，即使 那 主队 输 了，我们 也 玩 得 特别 开心。 | Honestly, even though the home team lost, we had a brilliant time. |
 | 9 | 之后 我们 抓 了 点 吃的、还 聊 它 聊 了 老半天。 | Afterwards we grabbed some food and talked about it for ages. |
-| 10 | 所以 对我，它 不 真的 关于 那 比赛——它 关于 跟 一个 老朋友 的 一个 美好 夜晚。 | So for me, it wasn't really about the game — it was about a good night out with an old friend. |
+| 10 | 我们 好久 没 就 我们 俩 一起 玩 了，所以 叙叙旧 真的 很好。 | We hadn't hung out just the two of us in ages, so it was really good to catch up. |
+| 11 | 所以 对我，它 不 真的 关于 那 比赛——它 关于 跟 一个 老朋友 的 一个 美好 夜晚。 | So for me, it wasn't really about the game — it was about a good night out with an old friend. |
 
 ### ②P2 整段（shadow）
 
-> The event I'd like to talk about is a CBA basketball game I watched live a while ago. I went with my old classmate Zhangwei — we've been mates for years. It was at the big arena here in Chengdu, on a weekend evening. Neither of us follows basketball that closely, but the tickets came up cheap. What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. Watching it on TV is one thing, but being there in person is completely different. You feel every basket, and the energy just pulls you in. Honestly, even though the home team lost, we had a brilliant time. Afterwards we grabbed some food and talked about it for ages. So for me, it wasn't really about the game — it was about a good night out with an old friend.
+> The event I'd like to talk about is a CBA basketball game I watched live a while ago. I went with my old classmate Zhangwei — we've been mates for years. It was at the big arena here in Chengdu, on a weekend evening. Neither of us follows basketball that closely, but the tickets came up cheap. What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. Watching it on TV is one thing, but being there in person is completely different. You feel every basket, and the energy just pulls you in. Honestly, even though the home team lost, we had a brilliant time. Afterwards we grabbed some food and talked about it for ages. We hadn't hung out just the two of us in ages, so it was really good to catch up. So for me, it wasn't really about the game — it was about a good night out with an old friend.
 
 > 🔁 **复用**：句2 `old classmate Zhangwei`+`mates for years`(新07)；句5 `What really made it stand out was`；句6 in-person(新07 nothing beats)；句9 `for ages`(新23)；句10 `not really about X — it's about Y`(新14)。
 
@@ -1909,11 +1910,12 @@
 | 7 | 他 赢 了 一块 金牌，所以 在 广告里 看到 他 让 你 信任 那 品牌。 | He'd won a gold medal, so seeing him in the ad made you trust the brand. |
 | 8 | 我 觉得 那 就是 为什么 用 一张 名人 脸 管用——你 把 那人 的 成功 和 那 产品 连 起来。 | I reckon that's why using a famous face works — you connect the person's success with the product. |
 | 9 | 说句公道话，它 当时 确实 让 我 想 买 他们的 跑鞋。 | To be fair, it did make me want to buy their trainers at the time. |
-| 10 | 所以 对我，它 是 一个 简单 但 真的 很 抓 人 的 广告 的 好 例子。 | So for me, it's a good example of an ad that's simple but really sticks. |
+| 10 | 甚至 现在，好些年 后，只要 有人 提 刘翔，我 就 能 立刻 想起 那个 广告。 | Even now, years later, I can picture that ad the moment someone mentions Liu Xiang. |
+| 11 | 所以 对我，它 是 一个 简单 但 真的 很 抓 人 的 广告 的 好 例子。 | So for me, it's a good example of an ad that's simple but really sticks. |
 
 ### ②P2 整段（shadow）
 
-> The advertisement I'd like to talk about is a sportswear ad with Liu Xiang, the famous hurdler. I first saw it years ago, on TV and on billboards everywhere. In it, he's running and training hard, and the message is basically "keep pushing yourself". What really makes it stand out is how simple and inspiring it is. There's not much talking — just him, the track, and the brand at the end. Honestly, it stuck with me because Liu Xiang was a hero back then. He'd won a gold medal, so seeing him in the ad made you trust the brand. I reckon that's why using a famous face works — you connect the person's success with the product. To be fair, it did make me want to buy their trainers at the time. So for me, it's a good example of an ad that's simple but really sticks.
+> The advertisement I'd like to talk about is a sportswear ad with Liu Xiang, the famous hurdler. I first saw it years ago, on TV and on billboards everywhere. In it, he's running and training hard, and the message is basically "keep pushing yourself". What really makes it stand out is how simple and inspiring it is. There's not much talking — just him, the track, and the brand at the end. Honestly, it stuck with me because Liu Xiang was a hero back then. He'd won a gold medal, so seeing him in the ad made you trust the brand. I reckon that's why using a famous face works — you connect the person's success with the product. To be fair, it did make me want to buy their trainers at the time. Even now, years later, I can picture that ad the moment someone mentions Liu Xiang. So for me, it's a good example of an ad that's simple but really sticks.
 
 > 🔁 **复用**：句3 `pushing yourself`(新15-Q4)；句4 `What really makes it stand out is how`；句6 `stuck with me`(新18)；句8 `I reckon`；句9 `To be fair`+`made me want to buy`(老20)；句10 `a good example`+`sticks`。
 
@@ -2717,11 +2719,12 @@
 | 7 | 我 设 这个 目标 的 原因 是 我 不 想 只是 混——我 想 一直 学。 | The reason I set this goal is that I don't want to just coast — I want to keep learning. |
 | 8 | 说实话，它 也 归结到 为 我 儿子 树立 一个 好 榜样。 | Honestly, it also comes down to setting a good example for my son. |
 | 9 | 我 想 让 他 看到 你 总是 能 朝 一个 更大的 东西 努力。 | I want him to see that you can always work towards something bigger. |
-| 10 | 它 会 花 好些年，但 我 毫不 怀疑 它 值得。 | It'll take years, but I've no doubt it's worth it. |
+| 10 | 我 甚至 给 自己 定 了 一个 小 目标、[去]在 年底 前 完成 一个 小 项目。 | I've even set myself a small goal to finish a little project by the end of the year. |
+| 11 | 它 会 花 好些年，但 我 毫不 怀疑 它 值得。 | It'll take years, but I've no doubt it's worth it. |
 
 ### ②P2 整段（shadow）
 
-> The goal I'd like to talk about is doing my own independent research one day. I'm a software engineer, and I've had this goal for a few years now. Basically, I want to build something of my own, instead of just working for a company. Maybe a small AI tool, or something to do with 3D printing — I'm really into that. To get there, I know I have to chip away at it a little every day, alongside my job. I've started reading papers and building small projects in my spare time. The reason I set this goal is that I don't want to just coast — I want to keep learning. Honestly, it also comes down to setting a good example for my son. I want him to see that you can always work towards something bigger. It'll take years, but I've no doubt it's worth it.
+> The goal I'd like to talk about is doing my own independent research one day. I'm a software engineer, and I've had this goal for a few years now. Basically, I want to build something of my own, instead of just working for a company. Maybe a small AI tool, or something to do with 3D printing — I'm really into that. To get there, I know I have to chip away at it a little every day, alongside my job. I've started reading papers and building small projects in my spare time. The reason I set this goal is that I don't want to just coast — I want to keep learning. Honestly, it also comes down to setting a good example for my son. I want him to see that you can always work towards something bigger. I've even set myself a small goal to finish a little project by the end of the year. It'll take years, but I've no doubt it's worth it.
 
 > 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `really into`+3D printing(老05)；句5 `chip away at it a little every day`(新15)；句7 `keep learning`(新15)；句8 `comes down to`+`setting a good example`(新15)；句10 `no doubt`(新08)+`worth it`(老05)。
 
@@ -4114,11 +4117,12 @@
 | 8 | 我 老婆 和 我 看 他 看 得 高兴 坏了。 | My wife and I were over the moon watching him. |
 | 9 | 说实话，像 那样 的 时刻 把 大家 聚 到 一起。 | Honestly, moments like that bring everyone together. |
 | 10 | 它 是 那种 真的 留 在 我 心里 的 日子 之一。 | It's one of those days that really stuck with me. |
-| 11 | 所以 对我，它 不 关于 那 演出——它 关于 看 他 那么 开心。 | So for me, it wasn't about the show — it was about seeing him so happy. |
+| 11 | 我们 把 整场 都 录 了 下来，而 我们 现在 还 一起 回放、一起 笑。 | We filmed the whole thing, and we still watch it back and laugh together. |
+| 12 | 所以 对我，它 不 关于 那 演出——它 关于 看 他 那么 开心。 | So for me, it wasn't about the show — it was about seeing him so happy. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is my son Muye's kindergarten performance last year. It was a little show where all the kids sang and danced on a stage. My wife and I went along, and honestly the whole hall was smiling. Muye was so nervous beforehand — he kept forgetting his lines at home. But on the day, he stood up there and did his best, and it was adorable. What really made everyone smile was how excited and clumsy the kids were. Some forgot the words, some waved at their parents — it was chaos, in a good way. My wife and I were over the moon watching him. Honestly, moments like that bring everyone together. It's one of those days that really stuck with me. So for me, it wasn't about the show — it was about seeing him so happy.
+> The time I'd like to talk about is my son Muye's kindergarten performance last year. It was a little show where all the kids sang and danced on a stage. My wife and I went along, and honestly the whole hall was smiling. Muye was so nervous beforehand — he kept forgetting his lines at home. But on the day, he stood up there and did his best, and it was adorable. What really made everyone smile was how excited and clumsy the kids were. Some forgot the words, some waved at their parents — it was chaos, in a good way. My wife and I were over the moon watching him. Honestly, moments like that bring everyone together. It's one of those days that really stuck with me. We filmed the whole thing, and we still watch it back and laugh together. So for me, it wasn't about the show — it was about seeing him so happy.
 
 > 🔁 **复用**：句6 `What really made everyone smile was`；句7 `chaos`(新06-Q5)；句8 `over the moon`(新14)；句9 `bring everyone together`(新14)；句10 `stuck with me`(新18)；句11 `not really about X — it's about Y`(新14)。
 
@@ -4578,11 +4582,13 @@
 | 8 | 那 是 一个 这么 机智、冷静 的 处理 方式。 | It was such a smart, calm way to handle it. |
 | 9 | 他 说实话 救 了 场，就 像 他 总是 做的。 | He honestly saved the day, like he always does. |
 | 10 | 我 真正 佩服 他 的 是 他 怎么 在 压力下 保持 冷静。 | What I really admire about him is how he stays calm under pressure. |
-| 11 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+| 11 | 这些天 我 尽量 学 他 怎么 做事——我 停下、深吸 一口气、然后 一步步 来。 | These days I try to copy how he works — I stop, take a breath, and go step by step. |
+| 12 | 它 不 总是 管用，但 它 有帮助。 | It doesn't always work, but it helps. |
+| 13 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my old classmate Zhangwei, who solved a tricky problem in a really smart way. We met at university, in the computer club, building little programs together. A while back, our whole system suddenly went down at work. Nobody could figure out why — everything looked fine. While the rest of us were panicking, Zhangwei just stayed calm and sat down. Instead of guessing, he went through the network logs line by line. Within about twenty minutes, he tracked down the cause — one faulty node. It was such a smart, calm way to handle it. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. To be honest, that's something I'd love to learn from him.
+> The person I'd like to talk about is my old classmate Zhangwei, who solved a tricky problem in a really smart way. We met at university, in the computer club, building little programs together. A while back, our whole system suddenly went down at work. Nobody could figure out why — everything looked fine. While the rest of us were panicking, Zhangwei just stayed calm and sat down. Instead of guessing, he went through the network logs line by line. Within about twenty minutes, he tracked down the cause — one faulty node. It was such a smart, calm way to handle it. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. These days I try to copy how he works — I stop, take a breath, and go step by step. It doesn't always work, but it helps. To be honest, that's something I'd love to learn from him.
 
 > 🔁 **复用**：句2 `computer club, building little programs`(新07/新25)；句3 `system … went down`(新16)；句5 `panicking … stayed calm and sat down`(张伟)；句6 `network logs line by line`(新16/张伟)；句7 `tracked down the cause … node`(新16)；句9 `saved the day`(新21)；句10-11 `What I really admire … / something I'd love to learn`(新07 逐字)。
 
@@ -5171,11 +5177,13 @@
 | 7 | 我们 坐 在 彼此 旁边、试 了 不同的 想法。 | We sat right next to each other and tried out different ideas. |
 | 8 | 说实话，它 比 照 步骤 更 难，但 好玩 太多。 | Honestly, it was harder than following the steps, but way more fun. |
 | 9 | 最后，我们的 恐龙 看起来 有点 怪，但 他 高兴 坏了。 | In the end, our dinosaur looked a bit odd, but he was over the moon. |
-| 10 | 所以 对我，它 不 关于 那 乐高——它 关于 一起 创造 一个 东西。 | So for me, it wasn't about the Lego — it was about creating something together. |
+| 10 | 他 为 我们 那只 歪歪扭扭的 恐龙 这么 骄傲、给 每 一个 来 的人 看。 | He was so proud of our wonky dinosaur that he showed it to everyone who came round. |
+| 11 | 我们 从那 以后 一直 把 它 放 在 他的 架子 上。 | We've kept it on his shelf ever since. |
+| 12 | 所以 对我，它 不 关于 那 乐高——它 关于 一起 创造 一个 东西。 | So for me, it wasn't about the Lego — it was about creating something together. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when my son Muye and I built something with Lego. He's five, and he absolutely loves building things. One weekend, we didn't follow the instructions — we decided to invent our own model. What made it tricky was that we had no plan, just a box of random bricks. So we had to really use our imagination and figure it out as we went. Muye wanted to build a dinosaur, of course — he's obsessed with them. We sat right next to each other and tried out different ideas. Honestly, it was harder than following the steps, but way more fun. In the end, our dinosaur looked a bit odd, but he was over the moon. So for me, it wasn't about the Lego — it was about creating something together.
+> The time I'd like to talk about is when my son Muye and I built something with Lego. He's five, and he absolutely loves building things. One weekend, we didn't follow the instructions — we decided to invent our own model. What made it tricky was that we had no plan, just a box of random bricks. So we had to really use our imagination and figure it out as we went. Muye wanted to build a dinosaur, of course — he's obsessed with them. We sat right next to each other and tried out different ideas. Honestly, it was harder than following the steps, but way more fun. In the end, our dinosaur looked a bit odd, but he was over the moon. He was so proud of our wonky dinosaur that he showed it to everyone who came round. We've kept it on his shelf ever since. So for me, it wasn't about the Lego — it was about creating something together.
 
 > 🔁 **复用**：句2 `absolutely loves`(新05/老07)；句3 `One weekend … model`(老05)；句4 `What made it tricky was`(新16)；句6 `dinosaur … obsessed`(老07/新14)；句7 `sat right next to each other`(老11/老05)；句9 `over the moon`(新14)；句10 `not really about X — it's about Y`+`together`(老05)。
 
@@ -5631,11 +5639,12 @@
 | 7 | 我 能 吸收 那 文化、还 捡 起 一点 日语。 | I could soak up the culture and pick up a bit of Japanese. |
 | 8 | 我 老婆 在 学 日语，所以 她 也 会 很爱 它。 | My wife's learning Japanese, so she'd love it too. |
 | 9 | 说实话，最 吸引 我的 是 那 节奏 的 改变——它 让 你 慢下来。 | Honestly, what appeals to me most is the change of pace — it slows you down. |
-| 10 | 所以 对我，它 有点 是 一个 梦，但 我 会 立刻 抓住 那 机会。 | So for me, it's a bit of a dream, but I'd jump at the chance. |
+| 10 | 哪怕 只是 在 那儿 住 几个月 也 会 是 一个 我 永远 忘不了 的 体验，而 我 儿子 也 会 很爱。 | Even just a few months living there would be an experience I'd never forget, and my son would love it. |
+| 11 | 所以 对我，它 有点 是 一个 梦，但 我 会 立刻 抓住 那 机会。 | So for me, it's a bit of a dream, but I'd jump at the chance. |
 
 ### ②P2 整段（shadow）
 
-> The job I'd like to talk about is helping run a small bookshop in Japan for a few months. I've been to Kyoto a few times, and I love wandering around the little shops there. I'd just daydream about working behind the counter in one of them. The work itself would be simple — shelving books and chatting with customers. What makes it right for me is that I'm a massive book lover, especially sci-fi. On top of that, I'd get to live like a local rather than a tourist. I could soak up the culture and pick up a bit of Japanese. My wife's learning Japanese, so she'd love it too. Honestly, what appeals to me most is the change of pace — it slows you down. So for me, it's a bit of a dream, but I'd jump at the chance.
+> The job I'd like to talk about is helping run a small bookshop in Japan for a few months. I've been to Kyoto a few times, and I love wandering around the little shops there. I'd just daydream about working behind the counter in one of them. The work itself would be simple — shelving books and chatting with customers. What makes it right for me is that I'm a massive book lover, especially sci-fi. On top of that, I'd get to live like a local rather than a tourist. I could soak up the culture and pick up a bit of Japanese. My wife's learning Japanese, so she'd love it too. Honestly, what appeals to me most is the change of pace — it slows you down. Even just a few months living there would be an experience I'd never forget, and my son would love it. So for me, it's a bit of a dream, but I'd jump at the chance.
 
 > 🔁 **复用**：句2 `been to Kyoto … wandering around`(新18)；句5 `book lover, especially sci-fi`(新02)；句6 `On top of that`；句7 `pick up`(新15)；句8 wife 学日语(新15)；句9 `slows you down`(新18)。
 
