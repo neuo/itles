@@ -1337,6 +1337,119 @@
 
 ---
 
+## P2-新12 · An important decision you made — 毕业选技术行业（Event）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 什么决定 / 怎么做的 / 结果 / 为何重要 · 题型 Event/Decision
+>
+> 🎤 **P2 = 你的版**（6/23 练过 · 未降未改 · 毕业选进技术行业）——这是"选行业/职业决定"池的源头。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 做 的 一个 重要 决定 是 选 进 哪个 行业，就 在 我 毕业 之后。 | One important decision I made was choosing which field to go into, just after I graduated. |
+| 2 | 那时候，我 完全 不知道 我 能 做 什么，所以 它 感觉 像 一个 大 决定。 | At the time, I had no idea what I could do, so it felt like a big decision. |
+| 3 | 最后，我 选择 成为 一个 软件 工程师，然后 在 一家 互联网 公司 工作。 | In the end, I chose to become a software engineer, and worked at an internet company. |
+| 4 | 在 我 下定 决心 之前，我 权衡 了 几样 东西——我 自己的 兴趣 和 那 工作 前景——而 我 也 问 了 一些 在 这行 工作的人 关于 他们的 经验。 | Before I made up my mind, I weighed a few things — my own interests and the job prospects — and I also asked some people working in the field about their experience. |
+| 5 | 结果 呢，它 进展 得 不错，而 我 找到 一份 稳定的 工作。 | As it turned out, it worked out well, and I found a stable job. |
+| 6 | 它 重要 是 因为 那 决定 完全 塑造 了 我的 职业。 | It was important because the decision completely shaped my career. |
+| 7 | 有时候 我 想象，如果 我 当初 进 了 另一个 行业，我的 生活 会 完全 不同。 | Sometimes I imagine, if I'd gone into another field, my life would be totally different. |
+| 8 | 回头看，我 真的 庆幸 我 花 时间 想 了 它，而不是 脑子 一热 就 冲 进去。 | Looking back, I'm really glad I spent time thinking about it, instead of rushing into it. |
+
+### ②P2 整段（shadow）
+
+> One important decision I made was choosing which field to go into, just after I graduated. At the time, I had no idea what I could do, so it felt like a big decision. In the end, I chose to become a software engineer, and worked at an internet company. Before I made up my mind, I weighed a few things — my own interests and the job prospects — and I also asked some people working in the field about their experience. As it turned out, it worked out well, and I found a stable job. It was important because the decision completely shaped my career. Sometimes I imagine, if I'd gone into another field, my life would be totally different. Looking back, I'm really glad I spent time thinking about it, instead of rushing into it.
+
+### 句型/模板（你自己的）
+
+- `One important decision I made was choosing which field to go into` · `Before I made up my mind, I weighed a few things` · `asked some people working in the field about their experience` · `the decision completely shaped my career` · `I'm really glad I spent time thinking about it, instead of rushing into it`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. Do you think children sometimes have to make important decisions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 即使 小 孩子 也 做 小 选择，比如 坚持 哪个 爱好。 | Even young kids make small choices, like which hobby to stick with. |
+| 3 | 但 真正 大 的 决定 仍然 该 有 他们 父母 参与，（他们 以前 经历过）。 | But the really big decisions should still involve their parents, who've been there before. |
+| 4 | 所以 它 归结到 年龄——小的 自己 做，大的 一起 做。 | So it comes down to age — small ones alone, big ones together. |
+
+> To some extent, yeah. Even young kids make small choices, like which hobby to stick with. But the really big decisions should still involve their parents, who've been there before. So it comes down to age — small ones alone, big ones together.
+
+> 🔁 **复用**：`To some extent, yeah`+`been there before`(新07-Q5)+`comes down to`。
+
+**Q2. What important decisions do teenagers need to make after graduation?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 大 的，真的。 | A few big ones, really. |
+| 2 | 那 最大的 是 选 进 哪个 行业，就 像 我 毕业 后 做的。 | The biggest is choosing which field to go into, like I did after I graduated. |
+| 3 | 他们 也 决定 是 继续 学 还是 开始 工作。 | They also decide whether to keep studying or start working. |
+| 4 | 所以 它 是 一个 大 决定 的 时期、（那 塑造 你 整个 职业）。 | So it's a time of big decisions that shape your whole career. |
+
+> A few big ones, really. The biggest is choosing which field to go into, like I did after I graduated. They also decide whether to keep studying or start working. So it's a time of big decisions that shape your whole career.
+
+> 🔁 **复用**：`choosing which field to go into`+`after I graduated`+`shape your … career`(新12 P2 逐字)。
+
+**Q3. Who can children turn to for help when making a decision?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 他们的 父母，我会说。 | Mainly their parents, I'd say. |
+| 2 | 父母 以前 经历过，所以 他们 能 给 靠谱的 建议。 | Parents have been there before, so they can give solid advice. |
+| 3 | 除此之外，问 已经 在 这行 工作的人 真的 有帮助——那 就是 我 做的。 | On top of that, asking people already working in the field really helps — that's what I did. |
+| 4 | 但 到头来，他们 仍然 该 为 自己 想。 | But at the end of the day, they should still think for themselves. |
+
+> Mainly their parents, I'd say. Parents have been there before, so they can give solid advice. On top of that, asking people already working in the field really helps — that's what I did. But at the end of the day, they should still think for themselves.
+
+> 🔁 **复用**：`Mainly…I'd say`+`been there before`+`solid advice`(新07-Q5)+`asking people working in the field`(新12 P2)+`think for themselves`(新16)。
+
+**Q4. Do you think advertisements can influence our decisions when shopping?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 这些天 广告 到处 都是，而 当 人们 看到 一个，尤其 有 打折 的时候，他们 生出 一股 强烈的 购买 冲动。 | These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy. |
+| 3 | 广告 真的 很 擅长 让 想要 感觉 像 需要。 | Advertising's really good at making wants feel like needs. |
+| 4 | 所以 说实话，一大堆 购买 是 被 情绪 驱动，不是 真 需要。 | So honestly, a lot of buying is driven by emotion, not real need. |
+
+> Massively, I reckon. These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy. Advertising's really good at making wants feel like needs. So honestly, a lot of buying is driven by emotion, not real need.
+
+> 🔁 **复用**：`Massively, I reckon`+`ads are everywhere … a strong urge to buy`+`making wants feel like needs`+`driven by emotion, not real need`(老20-Q4 逐字)。
+
+**Q5. Do you think the influence of advertising is good?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 好的一面，广告 告诉 你 有用的 新 产品。 | On the plus side, ads tell you about useful new products. |
+| 3 | 另一方面，它们 推 你 去 买 你 并不 真的 需要 的 东西。 | On the other hand, they push you to buy things you don't really need. |
+| 4 | 所以 它 归结到 你 能不能 为 自己 想。 | So it comes down to whether you can think for yourself. |
+
+> It's a bit of a mixed bag, honestly. On the plus side, ads tell you about useful new products. On the other hand, they push you to buy things you don't really need. So it comes down to whether you can think for yourself.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`On the plus side … On the other hand`(新07-Q3)+`think for yourself`(新16)。
+
+**Q6. How do people usually make important decisions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 取决于 那个 人，真的。 | It depends on the person, really. |
+| 2 | 对 我 来说，在 我 下定 决心 之前，我 权衡 了 几样 东西——那 利 和 弊。 | For me, before I made up my mind, I weighed a few things — the pros and cons. |
+| 3 | 有些人 凭 直觉，而 另一些 先 问 一圈。 | Some people go with their gut, whereas others ask around first. |
+| 4 | 所以 它 归结到 想清楚，而不是 脑子一热 冲 进去。 | So it comes down to thinking it through instead of rushing into it. |
+
+> It depends on the person, really. For me, before I made up my mind, I weighed a few things — the pros and cons. Some people go with their gut, whereas others ask around first. So it comes down to thinking it through instead of rushing into it.
+
+> 🔁 **复用**：`It depends on … really`+`made up my mind`+`weighed a few things`+`rushing into it`(新12 P2 逐字)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`To some extent, yeah` / `been there before` · `A few big ones, really` / `choosing which field to go into` / `shape your whole career` · `Mainly their parents, I'd say` / `solid advice` / `think for themselves` · `Massively, I reckon` / `making wants feel like needs` / `driven by emotion, not real need` · `a bit of a mixed bag, honestly` / `On the plus side … On the other hand` · `It depends on the person, really` / `made up my mind` / `weighed a few things` / `rushing into it`。
+
+---
+
 ## P2-新13 · A live sports event you liked — CBA 篮球赛（Event）  〔复用生成〕
 
 > **Cue**: 是什么 / 何时何地看 / 跟谁看 / 为何喜欢 · 题型 Event
