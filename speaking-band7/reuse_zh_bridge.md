@@ -4300,3 +4300,229 @@
 **P3 句型/模板（复用池）**：`Loads of moments, really` / `not really about grades — it's about the effort` · `To some extent, yeah` / `motivate` / `praising the right thing` · `Not really, no` / `overdoing it` · `A few, really` / `a big project at work` · `To some extent, yeah` / `builds good habits` · `a bit of a mixed bag, honestly` / `the joy of learning`。
 
 ---
+
+## P2-老11 · Something kept in your family for a long time — 外公的旧机械表（Object）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 是什么 / 何时拥有 / 怎么得到 / 为何重要 · 题型 Object
+>
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 外公旧机械表）——外公/传承池源头（`passed it down`/`brings back memories`/`keep me company`）。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 东西 是 一块 旧 手表。 | The thing I'd like to talk about is an old watch. |
+| 2 | 它 是 一块 机械 表，（它 看起来 有点 磨损、甚至 已经 走 不 准 了）。 | It's a mechanical watch, which looks a bit worn and doesn't even keep perfect time anymore. |
+| 3 | 它 属于 我 外公，（他 在 娶 我 外婆 的时候 买 了 它）。 | It belonged to my grandfather, who bought it when he married my grandmother. |
+| 4 | 我 外公 几乎 每天 戴 它，而 他 在 我 童年 期间 把 我 带大。 | My grandfather wore it almost every day, and he raised me during my childhood. |
+| 5 | 它 在 我们 家 五十多年 了，而 后来 他 把 它 传 给 了 我。 | It's been in our family for over fifty years, and later he passed it down to me. |
+| 6 | 它 重要 不 是 因为 它 值 很多 钱，而 是 因为 它 代表 的 东西——看着 它 总是 勾起 我 小时候 的 回忆。 | It's important not because it's worth a lot, but because of what it represents — looking at it always brings back memories of when I was a kid. |
+| 7 | 说实话，每次 我 看 它，我 就 想起 那些 时候、（他 会 坐 在 我 旁边 陪 我、当 我 做 作业 的时候）。 | Honestly, every time I look at it, I remember the times when he would sit right next to me and keep me company while I did my homework. |
+| 8 | 所以 有一天，我 想 把 它 传 给 我 儿子。 | So one day, I'd like to pass it down to my son. |
+
+### ②P2 整段（shadow）
+
+> The thing I'd like to talk about is an old watch. It's a mechanical watch, which looks a bit worn and doesn't even keep perfect time anymore. It belonged to my grandfather, who bought it when he married my grandmother. My grandfather wore it almost every day, and he raised me during my childhood. It's been in our family for over fifty years, and later he passed it down to me. It's important not because it's worth a lot, but because of what it represents — looking at it always brings back memories of when I was a kid. Honestly, every time I look at it, I remember the times when he would sit right next to me and keep me company while I did my homework. So one day, I'd like to pass it down to my son.
+
+### 句型/模板（你自己的）
+
+- `The thing I'd like to talk about is an old watch` · `which looks a bit worn and doesn't even keep perfect time anymore` · `he raised me during my childhood` · `It's important not because it's worth a lot, but because of what it represents` · `he would sit right next to me and keep me company` · `one day, I'd like to pass it down to my son`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. What things do families keep for a long time?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 东西，真的。 | Loads of things, really. |
+| 2 | 大多 是 有 意义 的 东西——老 照片、首饰，那种 东西。 | Mostly things with meaning — old photos, jewellery, that kind of thing. |
+| 3 | 在 我 家，我 外公 的 旧 表 已经 传 了 五十多年。 | In my family, my grandfather's old watch has been passed down for over fifty years. |
+| 4 | 所以 它 归结到 什么 代表 一个 回忆，不是 那 钱。 | So it comes down to what represents a memory, not the money. |
+
+> Loads of things, really. Mostly things with meaning — old photos, jewellery, that kind of thing. In my family, my grandfather's old watch has been passed down for over fifty years. So it comes down to what represents a memory, not the money.
+
+> 🔁 **复用**：`Loads of things, really`+`that kind of thing`+`passed down … fifty years`(老11 P2)+`comes down to`。
+
+**Q2. What's the difference between things valued by people in the past and today?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 在 过去，人们 看重 耐用、还 被 传下去 的 东西。 | In the past, people valued things that lasted and got passed down. |
+| 3 | 而 今天，一大堆 东西 便宜、还 容易 被 替换。 | Whereas today, a lot of stuff is cheap and easily replaced. |
+| 4 | 所以 它 归结到 东西 变 得 多么 用完即弃。 | So it comes down to how throwaway things have become. |
+
+> Quite a few, actually. In the past, people valued things that lasted and got passed down. Whereas today, a lot of stuff is cheap and easily replaced. So it comes down to how throwaway things have become.
+
+> 🔁 **复用**：`Quite a few, actually`+`passed down`(老11)+`whereas`+`comes down to`。
+
+**Q3. What kinds of things are kept in museums?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 老 工具、艺术、还有 来自 历史 的 物件——那种 东西。 | Old tools, art, and objects from history — that kind of thing. |
+| 3 | 基本上，讲 一个 关于 过去 的 故事 的 东西。 | Basically, things that tell a story about the past. |
+| 4 | 所以 它 归结到 保存 什么 要紧。 | So it comes down to preserving what matters. |
+
+> All sorts, really. Old tools, art, and objects from history — that kind of thing. Basically, things that tell a story about the past. So it comes down to preserving what matters.
+
+> 🔁 **复用**：`All sorts, really`+`that kind of thing`+`comes down to`。
+
+**Q4. What's the influence of technology on museums?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 这些天 你 能 在 网上 或 通过 互动 屏幕 看 展品。 | These days you can see exhibits online or through interactive screens. |
+| 3 | 而 那 让 它们 对 孩子 有趣、动手 得 多。 | Whereas that makes them way more fun and hands-on for kids. |
+| 4 | 所以 它 归结到 让 历史 活 起来。 | So it comes down to bringing history to life. |
+
+> Massively, I reckon. These days you can see exhibits online or through interactive screens. Whereas that makes them way more fun and hands-on for kids. So it comes down to bringing history to life.
+
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`hands-on`(新16)+`comes down to`。
+
+**Q5. What are the benefits of technology for learning history?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 你 能 在 网上 找到 所有 答案，从 纪录片 到 虚拟 参观。 | You can find all the answers online, from documentaries to virtual tours. |
+| 3 | 除此之外，它 让 沉闷的 事实 更 吸引人。 | On top of that, it makes dull facts more engaging. |
+| 4 | 所以 它 归结到 让 学习 更 容易、更 有趣。 | So it comes down to making learning easier and more fun. |
+
+> Loads, honestly. You can find all the answers online, from documentaries to virtual tours. On top of that, it makes dull facts more engaging. So it comes down to making learning easier and more fun.
+
+> 🔁 **复用**：`Loads, honestly`+`find all the answers online`(新18-Q3)+`On top of that`+`dull`(新07-Q1)+`comes down to`。
+
+**Q6. Why do people visit museums?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些 去 学习，而 另一些 只是 享受 看 真 东西。 | Some go to learn, whereas others just enjoy seeing the real thing. |
+| 3 | 亲身 看 一个 物件 有 一种 温暖、（那种 你 在 网上 得不到 的）。 | Seeing an object in person has a warmth you can't get online. |
+| 4 | 所以 说实话，它 关于 跟 过去 连接。 | So honestly, it's about connecting with the past. |
+
+> A few reasons, really. Some go to learn, whereas others just enjoy seeing the real thing. Seeing an object in person has a warmth you can't get online. So honestly, it's about connecting with the past.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`a warmth you can't get online`(新07-Q4)+`it's about`(新14)。
+
+**P3 句型/模板（复用池）**：`Loads of things, really` / `passed down … fifty years` / `comes down to what represents a memory, not the money` · `Quite a few, actually` / `whereas` · `All sorts, really` / `that kind of thing` · `Massively, I reckon` / `hands-on` · `Loads, honestly` / `find all the answers online` / `dull` · `A few reasons, really` / `a warmth you can't get online`。
+
+---
+
+## P2-老12 · A car/bike/motorcycle trip you'd like to go on — 川西自驾（Event/Place）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 和谁 / 去哪 / 何时 / 为何选这种交通 · 题型 Event/Place
+>
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 川西自驾带家人 · 固定短语零翻车）——自驾/自由池源头（`the freedom`/`not stuck to a schedule`/`take our time`）。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 去 的 那趟 公路旅行 是 川西 的 某个 地方。 | The road trip I'd like to take is somewhere in western Sichuan. |
+| 2 | 我 大概 会 等 到 我 儿子 长 大 一点，也许 一两年 内，然后 在 暑假 期间 去。 | I'd probably wait until my son grows a bit older, maybe in a year or two, and go during the summer holiday. |
+| 3 | 它 是 那种 地方、（那里 有 很多 雪盖的 山）。 | It's the kind of place where there are plenty of snow-capped mountains. |
+| 4 | 我 会 跟 我 家人 一起 去——我 老婆 和 我们 儿子，因为 他们 是 我 盼着 旅行 的 主要 原因。 | I'd go with my family — my wife and our son, because they're the main reason I look forward to traveling. |
+| 5 | 当 我们 到 那儿，我们 会 沿着 那些 山路 开，然后 在 任何 看起来 不错的 地方 停。 | When we get there, we'd drive along the mountain roads and stop anywhere that looks nice. |
+| 6 | 我们 也 会 找 一家 不错的 餐厅、尝 一些 当地 食物。 | We'd also find a nice restaurant and try some local food. |
+| 7 | 我 开车 而不是 坐飞机 的 原因 是 那 自由——因为 当 你 开车，你 不 被 一个 日程 拴住，你 可以 只要 看到 一个 好 景 就 停、拍照、让 我们 儿子 到处 跑。 | The reason I'd go by car rather than fly is the freedom — because when you drive you're not stuck to a schedule, you can stop whenever you see a nice view, take photos and let our son run around. |
+| 8 | 说实话，那 最好的 部分 是 我们 不必 赶——通常 我们 总是 匆匆忙忙，但 这次 我们 就 慢慢来。 | Honestly, the best part is we don't have to rush — usually we're always in a hurry, but this time we'd just take our time. |
+
+### ②P2 整段（shadow）
+
+> The road trip I'd like to take is somewhere in western Sichuan. I'd probably wait until my son grows a bit older, maybe in a year or two, and go during the summer holiday. It's the kind of place where there are plenty of snow-capped mountains. I'd go with my family — my wife and our son, because they're the main reason I look forward to traveling. When we get there, we'd drive along the mountain roads and stop anywhere that looks nice. We'd also find a nice restaurant and try some local food. The reason I'd go by car rather than fly is the freedom — because when you drive you're not stuck to a schedule, you can stop whenever you see a nice view, take photos and let our son run around. Honestly, the best part is we don't have to rush — usually we're always in a hurry, but this time we'd just take our time.
+
+### 句型/模板（你自己的）
+
+- `The road trip I'd like to take is somewhere in western Sichuan` · `It's the kind of place where there are plenty of snow-capped mountains` · `they're the main reason I look forward to traveling` · `The reason I'd go by car rather than fly is the freedom` · `you're not stuck to a schedule, you can stop whenever you see a nice view` · `the best part is we don't have to rush … we'd just take our time`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. Which form of vehicle is more popular in your country, bikes, cars or motorcycles?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 汽车，我会说，这些天。 | Cars, I'd say, these days. |
+| 2 | 随 人们 挣 得 更多，一辆 车 已经 变成 那个 正常的 选择。 | As people earn more, a car's become the normal choice. |
+| 3 | 而 自行车 现在 更 多 是 为了 锻炼 或 短途。 | Whereas bikes are more for exercise or short trips now. |
+| 4 | 所以 它 归结到 便捷 和 面子。 | So it comes down to convenience and status. |
+
+> Cars, I'd say, these days. As people earn more, a car's become the normal choice. Whereas bikes are more for exercise or short trips now. So it comes down to convenience and status.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`comes down to`。
+
+**Q2. Do you think air pollution comes mostly from mobile vehicles?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 部分地，我会说。 | Partly, I'd say. |
+| 2 | 汽车 肯定 加剧 它，尤其 在 大、拥挤的 城市。 | Cars definitely add to it, especially in big crowded cities. |
+| 3 | 而 工厂 和 发电厂 也 是 一 大 部分。 | Whereas factories and power plants are a big part too. |
+| 4 | 所以 它 归结到 不 止 汽车。 | So it comes down to more than just cars. |
+
+> Partly, I'd say. Cars definitely add to it, especially in big crowded cities. Whereas factories and power plants are a big part too. So it comes down to more than just cars.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`comes down to`。
+
+**Q3. Do you think people need to change the way of transportation drastically to protect the environment?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 换 成 电动 车 和 公共交通 会 真的 有帮助。 | Switching to electric cars and public transport would really help. |
+| 3 | 而 逼 每个人 一夜 之间 改变 不 现实。 | Whereas forcing everyone to change overnight isn't realistic. |
+| 4 | 所以 它 归结到 渐进、明智的 步骤。 | So it comes down to gradual, sensible steps. |
+
+> To some extent, yeah. Switching to electric cars and public transport would really help. Whereas forcing everyone to change overnight isn't realistic. So it comes down to gradual, sensible steps.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+
+**Q4. How are the transportation systems in urban areas and rural areas different?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个 差别，其实。 | Quite a few differences, actually. |
+| 2 | 城市 有 地铁 和 公交——一切 都 在 一个 屋顶 下，可以 说。 | Cities have metros and buses — everything's under one roof, so to speak. |
+| 3 | 而 在 乡下，你 真的 需要 你 自己的 车。 | Whereas in the countryside, you really need your own car. |
+| 4 | 所以 它 归结到 东西 分布 得 有 多 散。 | So it comes down to how spread out things are. |
+
+> Quite a few differences, actually. Cities have metros and buses — everything's under one roof, so to speak. Whereas in the countryside, you really need your own car. So it comes down to how spread out things are.
+
+> 🔁 **复用**：`Quite a few … actually`+`all under one roof`(老24)+`whereas`+drive/countryside(老19)+`comes down to`。
+
+**Q5. Why do more people own and drive private vehicles now?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 负担 得起，我会说。 | Mainly because they can afford it, I'd say. |
+| 2 | 随 收入 上涨，一辆 车 感觉 像 一个 正常的 东西 [去]拥有。 | As incomes rise, a car feels like a normal thing to have. |
+| 3 | 此外，它 给 你 真正的 自由——你 不 被 一个 日程 拴住。 | Plus, it gives you real freedom — you're not stuck to a schedule. |
+| 4 | 所以 它 归结到 便捷 和 舒适。 | So it comes down to convenience and comfort. |
+
+> Mainly because they can afford it, I'd say. As incomes rise, a car feels like a normal thing to have. Plus, it gives you real freedom — you're not stuck to a schedule. So it comes down to convenience and comfort.
+
+> 🔁 **复用**：`Mainly … I'd say`+`the freedom`+`not stuck to a schedule`(老12 P2)+`comes down to`。
+
+**Q6. What do you think of the future of electric cars?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大 光明，我 觉得。 | Massively bright, I reckon. |
+| 2 | 它们 每 一年 都 变 得 更 便宜、更 好。 | They're getting cheaper and better every year. |
+| 3 | 而 那 充电 网络 仍然 需要 完善。 | Whereas the charging network still needs work. |
+| 4 | 所以 它 归结到 搞定 那 基础设施。 | So it comes down to sorting out the infrastructure. |
+
+> Massively bright, I reckon. They're getting cheaper and better every year. Whereas the charging network still needs work. So it comes down to sorting out the infrastructure.
+
+> 🔁 **复用**：`Massively … I reckon`+`whereas`+`sorting out`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Cars, I'd say, these days` / `whereas` · `Partly, I'd say` / `comes down to more than just cars` · `To some extent, yeah` / `gradual, sensible steps` · `Quite a few differences, actually` / `everything's under one roof` · `Mainly because they can afford it, I'd say` / `the freedom` / `not stuck to a schedule` · `Massively bright, I reckon` / `sorting out the infrastructure`。
+
+---
