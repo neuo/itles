@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。复用卡 12/41（老06·新01-06·新08-11·新13）+ 你的版搬入 1/13（新07）。待插 新12 你的版；续推 新14→老27。
+> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。**新系列全完（新01-27 中前 17 张已出）**：复用卡 13（老06·新01-06·新08-11·新13·新17）+ 你的版 5（新07·新12·新14·新15·新16）。续推 新18(你的版)→老27。
 
 ---
 
@@ -1564,6 +1564,439 @@
 > 🔁 **复用**：`Loads, really`+`On top of that`+`to be fair`。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `hang out with mates` / `the buzz` · `Mostly … I'd say` / `comes down to whether you want convenience or the real experience` · `Loads, honestly` / `from anywhere, at any time` · `Mainly the fun, lively ones, I'd say` / `bore them` · `money well spent` / `not … a waste` · `Loads, really` / `to be fair`。
+
+---
+
+## P2-新14 · A food for special occasions — 自制生日蛋糕（Object）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 是什么 / 什么场合 / 怎么做 / 为何那时吃 · 题型 Object/Event
+>
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 生日蛋糕）——老婆烘焙池 + "bringing everyone together"源头。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个 食物 是 生日 蛋糕。正如 它 名字 暗示的，人们 在 他们 生日 那天 吃 它。 | The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. |
+| 2 | 在 我 家，生日 总是 一件 大事，因为 我 老婆 爱 烘焙、通常 自己 做。 | In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. |
+| 3 | 她 通常 先 烤 一个 海绵 底，然后 给 它 抹 上 奶油，最后 塑形、装饰——在 上面 加 一些 水果 或 糖果。 | She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. |
+| 4 | 一个 我 真的 记得的 是 她 给 我们 儿子 做 的 那个 恐龙 蛋糕——他 高兴 坏了。 | One I really remember is the dinosaur cake she made for our son — he was over the moon. |
+| 5 | 人们 吃 它 是 因为 它 是 一个 庆祝 的 方式——你 在 它 上面 插 蜡烛、许 一个 愿、然后 大家 唱歌。 | People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. |
+| 6 | 我 最 喜欢 的 部分 是 当 我们 关 灯、把 蛋糕 端 出来，然后 大家 开始 唱。 | My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. |
+| 7 | 所以 对 我 来说，那 蛋糕 其实 不 关于 食物，它 关于 把 大家 聚 到 一起。 | So for me, the cake isn't really about the food, it's about bringing everyone together. |
+
+### ②P2 整段（shadow）
+
+> The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. One I really remember is the dinosaur cake she made for our son — he was over the moon. People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. So for me, the cake isn't really about the food, it's about bringing everyone together.
+
+### 句型/模板（你自己的）
+
+- `The food I'd like to talk about is …. As its name implies, …` · `my wife loves baking and usually makes it herself` · `One I really remember is …— he was over the moon` · `it's a way to celebrate` · `it isn't really about the food, it's about bringing everyone together`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. Why are there special foods on special occasions or events?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 传统，我会说。 | Mainly tradition, I'd say. |
+| 2 | 某些 食物 已经 传 了 好几代，所以 它们 感觉 是 那 庆祝 的 一部分。 | Certain foods have been passed down for generations, so they feel part of the celebration. |
+| 3 | 此外，分享 一顿 特别的 饭 把 大家 聚 到 一起。 | Plus, sharing a special meal brings everyone together. |
+| 4 | 所以 它 归结到 让 一个 传统 活 下去。 | So it comes down to keeping a tradition alive. |
+
+> Mainly tradition, I'd say. Certain foods have been passed down for generations, so they feel part of the celebration. Plus, sharing a special meal brings everyone together. So it comes down to keeping a tradition alive.
+
+> 🔁 **复用**：`Mainly…I'd say`+`passed down`(老11)+`brings everyone together`(新14 P2)+`comes down to`。
+
+**Q2. What are the differences between everyday food and festival food?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 日常 食物 又 快 又 简单，而 节日 食物 花 更多 功夫、感觉 特别。 | Everyday food is quick and simple, whereas festival food takes more effort and feels special. |
+| 3 | 我 老婆 在 一个 生日 蛋糕 上 花 老半天，但 平常 日子 我们 就 抓 点 快的。 | My wife spends ages on a birthday cake, but on a normal day we just grab something quick. |
+| 4 | 所以 它 归结到 那 场合。 | So it comes down to the occasion. |
+
+> Quite a few, actually. Everyday food is quick and simple, whereas festival food takes more effort and feels special. My wife spends ages on a birthday cake, but on a normal day we just grab something quick. So it comes down to the occasion.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+wife baking(新14)+`spends ages`(新23)+`comes down to`。
+
+**Q3. Are there any differences between the food people eat today and the food people ate in the past?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大 不同，我 觉得。 | Massively different, I reckon. |
+| 2 | 这些天 选择 多 得 多，而 你 能 吃到 来自 世界各地 的 食物。 | These days there's way more choice, and you can get food from all over the world. |
+| 3 | 而 在 过去，人们 大多 吃 简单、本地的 菜。 | Whereas in the past, people mostly ate simple, local dishes. |
+| 4 | 所以 它 归结到 这 世界 敞开 了 多少。 | So it comes down to how much the world's opened up. |
+
+> Massively different, I reckon. These days there's way more choice, and you can get food from all over the world. Whereas in the past, people mostly ate simple, local dishes. So it comes down to how much the world's opened up.
+
+> 🔁 **复用**：`Massively, I reckon`(新07-Q6)+`whereas`+`comes down to`。
+
+**Q4. Do people today prefer eating at home or in a restaurant?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 出去吃 方便、还 是 一个 不错的 犒赏，而 在家 做饭 更 便宜、更 健康。 | Eating out is convenient and a nice treat, whereas home cooking is cheaper and healthier. |
+| 3 | 对 我 来说，说实话，一顿 跟 家人 的 家常 饭 胜过 一家 餐厅。 | For me, honestly, a home-cooked meal with family beats a restaurant. |
+| 4 | 所以 它 归结到 它 是不是 一个 特别的 场合。 | So it comes down to whether it's a special occasion. |
+
+> It's a bit of a mixed bag, honestly. Eating out is convenient and a nice treat, whereas home cooking is cheaper and healthier. For me, honestly, a home-cooked meal with family beats a restaurant. So it comes down to whether it's a special occasion.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`eating out`(老26-Q2)+`whereas`+`For me, honestly`+`beats`(新07 nothing beats)。
+
+**Q5. Do you think traditional festival foods will disappear in the future?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 怀疑。 | I doubt it. |
+| 2 | 诚然，快餐 现在 到处 都是，但 节日 食物 承载 太多 意义。 | Sure, fast food's everywhere now, but festival foods carry too much meaning. |
+| 3 | 它们 在 家庭里 被 传下去，就 像 我 老婆的 蛋糕 会 传给 我们 儿子。 | They get passed down in families, like my wife's cakes will to our son. |
+| 4 | 所以 我 觉得 它们 会 留 下来，即使 它们 变 一点。 | So I reckon they'll stick around, even if they change a bit. |
+
+> I doubt it. Sure, fast food's everywhere now, but festival foods carry too much meaning. They get passed down in families, like my wife's cakes will to our son. So I reckon they'll stick around, even if they change a bit.
+
+> 🔁 **复用**：`I doubt it`(新07-Q4)+`Sure, … but`(老08-Q6)+`passed down`(老11)。
+
+**Q6. Why do many young people prefer fast food over traditional dishes?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 它 又 快 又 便宜，我会说。 | Mainly because it's quick and cheap, I'd say. |
+| 2 | 年轻人 忙，所以 他们 就 抓 点 快的。 | Young people are busy, so they just grab something fast. |
+| 3 | 而 传统 菜 做 起来 花 时间。 | Whereas traditional dishes take time to cook. |
+| 4 | 但 说句公道话，大多数人 仍然 时不时 爱 一顿 正经的 家常 饭。 | But to be fair, most still love a proper home-cooked meal now and then. |
+
+> Mainly because it's quick and cheap, I'd say. Young people are busy, so they just grab something fast. Whereas traditional dishes take time to cook. But to be fair, most still love a proper home-cooked meal now and then.
+
+> 🔁 **复用**：`Mainly…I'd say`+`whereas`+`to be fair`+`now and then`(新15-Q2)。
+
+**P3 句型/模板（复用池）**：`Mainly tradition, I'd say` / `passed down` / `brings everyone together` · `Quite a few, actually` / `whereas` / `grab something quick` · `Massively different, I reckon` · `a bit of a mixed bag, honestly` / `For me, honestly, … beats …` · `I doubt it` / `Sure, … but` · `Mainly because it's quick and cheap, I'd say` / `now and then`。
+
+---
+
+## P2-新15 · A person good at learning languages — 老婆（Person）  〔你的版 · 未改〕
+
+> **Cue**: 是谁 / 学什么 / 怎么学 / 为何佩服 · 题型 Person
+>
+> 🎤 **你的版（6/28 练过 · 未降未改）**：P2 = 老婆学语言 + 你练的 6 题 P3（教育/学习域）。这是老婆池 + 学习域源头。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 老婆，（她 真的 很 擅长 学 语言）。 | The person I'd like to talk about is my wife, who's really good at learning languages. |
+| 2 | 我们 当年 在 高中 认识，做 了 好几年 同学，一直 到 我们 读完 大学——而 我们 现在 已经 结婚 十多年 了。 | We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. |
+| 3 | 去年，她 开始 学 日语。 | Last year, she started learning Japanese. |
+| 4 | 我们 去过 日本 几次，而 她 每一次 都 很 爱，所以 我 觉得 她 想 说 流利 的 主要 原因 是 她 下次 旅行 能 更 投入。 | We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. |
+| 5 | 她 学 的 方式 是 靠 啃 教材，而 有时候 她 也 看 卡通 和 动漫。 | The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. |
+| 6 | 她 真的 坚持——她 每一天 都 啃 掉 一点点。 | She really sticks at it — she chips away at it a little every single day. |
+| 7 | 她 就是 有 一个 真正的 语言 天赋。 | She's just got a real talent for languages. |
+| 8 | 她 会 说 中文、英语、和 几种 方言，而 现在 她 正 把 日语 加 到 那 单子 上。 | She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. |
+| 9 | 我 真正 佩服 她 的 是 她的 毅力。 | What I really admire about her is her perseverance. |
+| 10 | 她 从不 停止 学习，即使 当 她 手头 一 大堆 事——工作、带 孩子、那种 东西。 | She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. |
+| 11 | 说实话，她 为 我 和 我 儿子 都 树立 了 一个 很好的 榜样。 | Honestly, she sets a great example for both me and my son. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my wife, who's really good at learning languages. We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. Last year, she started learning Japanese. We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. She really sticks at it — she chips away at it a little every single day. She's just got a real talent for languages. She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. What I really admire about her is her perseverance. She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. Honestly, she sets a great example for both me and my son.
+
+### 句型/模板（你自己的）
+
+- `The person I'd like to talk about is my wife, who's really good at …` · `The way she learns is by working through textbooks` · `she chips away at it a little every single day` · `a real talent for languages` · `What I really admire about her is her perseverance` · `even when she's got a lot on her plate` · `she sets a great example`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · 教育/学习）
+
+**Q1. Are there many people who can speak foreign languages in your country?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，挺 多，我会说。 | Yeah, quite a few, I'd say. |
+| 2 | 在 中国，我们 从 小学 开始 学 英语，而 它 一直 延续 到 大学。 | In China, we start learning English in primary school, and it carries on all the way through university. |
+| 3 | 但 说句公道话，我们 大多数 人 还是 说 得 没那么 流利——我们 大多 专注 阅读 而不是 说 和 听，所以 我们 读 得 好好的，但 一 要 说话 就 卡住。 | But to be fair, most of us still can't speak it that fluently — we mostly focus on reading rather than speaking and listening, so we can read it fine but freeze up when we have to talk. |
+
+> Yeah, quite a few, I'd say. In China, we start learning English in primary school, and it carries on all the way through university. But to be fair, most of us still can't speak it that fluently — we mostly focus on reading rather than speaking and listening, so we can read it fine but freeze up when we have to talk.
+
+**Q2. Does speaking other languages help at work?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 取决于 那 工作，真的。 | It depends on the job, really. |
+| 2 | 对 那些 跟 外国 客户 打交道 的 行业，你 显然 需要 会 说 那 语言。 | For industries that deal with foreign customers, you obviously need to speak the language. |
+| 3 | 但 有 一大堆 工作 只 处理 国内的 事——比如 一个 本地 店主 或 一个 出租车 司机——（那里 你 永远 不 真的 需要 它）。 | But there are loads of jobs that only deal with domestic stuff — like a local shop owner or a taxi driver — where you'd never really need it. |
+| 4 | 话虽如此，如果 他们 确实 碰巧 会 说 一门，它 仍然 能 偶尔 派上 用场，比如 帮 一个 外国 游客。 | That said, if they do happen to speak one, it can still come in handy now and then, like helping out a foreign tourist. |
+
+> It depends on the job, really. For industries that deal with foreign customers, you obviously need to speak the language. But there are loads of jobs that only deal with domestic stuff — like a local shop owner or a taxi driver — where you'd never really need it. That said, if they do happen to speak one, it can still come in handy now and then, like helping out a foreign tourist.
+
+**Q3. Do people learn languages other than English?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，绝对。 | Yeah, definitely. |
+| 2 | 诚然，英语 是 最 通用的 语言，而 它 在 这里 从 小学 起 就是 一门 主科。 | Admittedly, English is the most universal language, and it's a core subject right from primary school here. |
+| 3 | 但 有些人 更喜欢 学 别的 语言——比如 日语 或 韩语——胜过 英语，主要 因为 他们 真的 很 迷 动漫 或 韩剧。 | But some people prefer picking up other languages — Japanese or Korean, say — over English, mainly because they're really into anime or K-dramas. |
+| 4 | 所以 它 常常 归结到 他们 个人 迷 什么。 | So it often comes down to what they're personally into. |
+
+> Yeah, definitely. Admittedly, English is the most universal language, and it's a core subject right from primary school here. But some people prefer picking up other languages — Japanese or Korean, say — over English, mainly because they're really into anime or K-dramas. So it often comes down to what they're personally into.
+
+**Q4. Why is it easier for children to learn new things than adults?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 习惯，我会说。 | Mainly habit, I'd say. |
+| 2 | 大人 已经 见过、做过 这么 多，以至于 他们 习惯了 这 世界 本来的 样子，所以 他们 倾向于 固守 老一套、不再 逼 自己。 | Adults have already seen and done so much that they're used to the way the world is, so they tend to stay stuck in their ways and stop pushing themselves. |
+| 3 | 而 小孩 灵活 得 多——他们 像 海绵，总是 在 提问、吸收 新 东西。 | Whereas kids are far more flexible — they're like sponges, always questioning and soaking up new things. |
+| 4 | 此外，他们 不 怕 犯错，所以 他们 就 一头 扎 进去。 | Plus, they're not afraid of making mistakes, so they just dive in. |
+
+> Mainly habit, I'd say. Adults have already seen and done so much that they're used to the way the world is, so they tend to stay stuck in their ways and stop pushing themselves. Whereas kids are far more flexible — they're like sponges, always questioning and soaking up new things. Plus, they're not afraid of making mistakes, so they just dive in.
+
+**Q5. How do people learn new things?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 在 网上 看 教程 大概 是 最 容易、最 便宜的 一个——几乎 任何 东西 都 有 一个 视频，从 正经的 大学 课程，到 一个 有经验的人 手把手 带 你，到 一步步 的 how-to 演示。 | Watching tutorials online is probably the easiest and cheapest one — there's a video out there for pretty much anything, from proper university courses, to someone experienced just walking you through it, to step-by-step how-to demos. |
+| 3 | 除此之外，面对面 问 朋友 或 一个 有经验的人 也 很棒，因为 你 得到 实用的 提示、（那种 契合 你 自己 情况的）。 | On top of that, asking friends or someone experienced face-to-face is great too, since you get practical tips that fit your own situation. |
+| 4 | 此外，老老实实 啃 一本 教材 总是 值得 一试。 | Plus, good old working through a textbook is always worth a try. |
+
+> Loads of ways, really. Watching tutorials online is probably the easiest and cheapest one — there's a video out there for pretty much anything, from proper university courses, to someone experienced just walking you through it, to step-by-step how-to demos. On top of that, asking friends or someone experienced face-to-face is great too, since you get practical tips that fit your own situation. Plus, good old working through a textbook is always worth a try.
+
+**Q6. What's the most important thing for learning a language well?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 对 我 来说，那 一定 是 真正 用 它 去 交流——那 就是 我们 一开始 学 一门 语言 的 全部 原因。 | For me, it's got to be actually using it to communicate — that's the whole reason we learn a language in the first place. |
+| 2 | 通过 跟 真实的人 说话，你 学会 怎么 表达 自己、理解 别人。 | By talking to real people, you learn how to express yourself and understand others. |
+| 3 | 你 不该 做的 是 只 埋 在 语法书 和 单词表 里——说实话，那 就是 我们 大多数 人 掉 进 的 陷阱。 | What you shouldn't do is just bury yourself in grammar books and word lists — honestly, that's the trap most of us fall into. |
+| 4 | 所以 到头来，一门 语言 是 一个 用来 跟 人 说话 的 工具；你 只有 靠 用 它 才 真正 学会 它。 | So at the end of the day, a language is a tool for talking to people; you only really learn it by using it. |
+
+> For me, it's got to be actually using it to communicate — that's the whole reason we learn a language in the first place. By talking to real people, you learn how to express yourself and understand others. What you shouldn't do is just bury yourself in grammar books and word lists — honestly, that's the trap most of us fall into. So at the end of the day, a language is a tool for talking to people; you only really learn it by using it.
+
+---
+
+## P2-新16 · A challenging tech problem — 系统宕机 debug（Event）  〔你的版 · 未改〕
+
+> **Cue**: 是什么问题 / 何时 / 怎么解决 / 感受 · 题型 Event
+>
+> 🎤 **你的版（6/29 练过 · 未降未改）**：P2 = 系统宕机 debug + 你练的 6 题 P3（AI 域）。这是"我（工程师）"池 + AI 域源头。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我想聊的那个问题 是 有一次、（当 我们整个 业务系统 宕机的时候）。 | The problem I'd like to talk about is one time when our whole business system went down. |
+| 2 | 我 是 一个 软件工程师，而 那时候 我 负责 那些 后端 服务。 | I'm a software engineer, and back then I was in charge of the back-end services. |
+| 3 | 那问题 是 我们的一个服务 停止 响应 请求，所以 用户 根本 没法 登录 或 下单——而 对 我们的业务，那 意味着 我们 每一秒 都在 亏钱。 | The problem was that one of our services stopped responding to requests, so users couldn't log in or place orders at all — and for our business, that meant we were losing money every second. |
+| 4 | 那 大约 是 一年前。 | It was about a year ago. |
+| 5 | 一个 深夜，我 在家，当 我的手机 开始 嗡嗡 响着 警报。 | Late one night, I was at home when my phone started buzzing with alerts. |
+| 6 | 让 它 这么 难的 是 那 根本原因 不 明显——那系统 已经 好几个月 运行 正常。 | What made it so hard was that the root cause wasn't obvious — the system had been running fine for months. |
+| 7 | 首先，我 试着 止血、靠 回滚 那 最新的 部署，但 那 没用，所以 我 只能 一步一步 排查。 | First, I tried to stop the bleeding by rolling back the latest deployment, but that didn't work, so I had to work through it step by step. |
+| 8 | 我 查 那些 警告 和 错误 日志、什么 也 没找到，然后 我 看 那 网络流量。 | I checked the warning and error logs and found nothing, then I looked at the network traffic. |
+| 9 | 在 大约 三十分钟 之内，我 追查到 那 原因：一个 节点 在 重负载下 挂了，但 我们的网关 没 察觉 到，所以 它们 一直 把 流量 路由 给 它。 | Within about thirty minutes, I tracked down the cause: one of the nodes had failed under heavy load, but our gateways didn't pick that up, so they kept routing traffic to it. |
+| 10 | 我 修好 它、靠 把 那 节点 从 集群里 拔出来，而 一切 立刻 恢复了。 | I fixed it by pulling that node out of the cluster, and everything came back up right away. |
+| 11 | 所以，对，差不多 就是 这样。 | So yeah, that's pretty much it. |
+
+### ②P2 整段（shadow）
+
+> The problem I'd like to talk about is one time when our whole business system went down. I'm a software engineer, and back then I was in charge of the back-end services. The problem was that one of our services stopped responding to requests, so users couldn't log in or place orders at all — and for our business, that meant we were losing money every second. It was about a year ago. Late one night, I was at home when my phone started buzzing with alerts. What made it so hard was that the root cause wasn't obvious — the system had been running fine for months. First, I tried to stop the bleeding by rolling back the latest deployment, but that didn't work, so I had to work through it step by step. I checked the warning and error logs and found nothing, then I looked at the network traffic. Within about thirty minutes, I tracked down the cause: one of the nodes had failed under heavy load, but our gateways didn't pick that up, so they kept routing traffic to it. I fixed it by pulling that node out of the cluster, and everything came back up right away. So yeah, that's pretty much it.
+
+### 句型/模板（你自己的）
+
+- `The problem I'd like to talk about is one time when …` · `What made it so hard was that the root cause wasn't obvious` · `I tried to stop the bleeding by … but … so I had to work through it step by step` · `Within about thirty minutes, I tracked down the cause` · `everything came back up right away`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · AI 域）
+
+**Q1. Advantages and disadvantages of AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 它 真的 是 好坏参半，说实话。 | It's a real mixed bag, honestly. |
+| 2 | 好的一面，AI 帮 人们 做 一些 事、（那种 超出 我们 能力的）——比如 处理 大量 数据 或 当场 翻译 语言。 | On the plus side, AI helps people do things that are beyond us — like crunching huge amounts of data or translating languages on the spot. |
+| 3 | 它 也 把 那些 无聊的 杂活 从 我们 肩上 拿走，（这）省 一大堆 时间。 | It also takes the boring chores off our plate, which saves loads of time. |
+| 4 | 说句公道话，不过，太 依赖 它 会 一点点 削掉 我们 自己的 技能，不管 是 学习 还是 工作。 | To be fair, though, relying on it too much can chip away at our own skills, whether at study or work. |
+| 5 | 所以 总的来说，它 归结到 我们 怎么 用 它。 | So overall, it comes down to how we use it. |
+
+> It's a real mixed bag, honestly. On the plus side, AI helps people do things that are beyond us — like crunching huge amounts of data or translating languages on the spot. It also takes the boring chores off our plate, which saves loads of time. To be fair, though, relying on it too much can chip away at our own skills, whether at study or work. So overall, it comes down to how we use it.
+
+**Q2. Should people today learn about AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Definitely, yeah. |
+| 2 | AI 是 现在 最 强大的 工具 之一，所以 我们 应该 跟上 时代，不然 我们 会 落后。 | AI's one of the most powerful tools out there now, so we should keep up with the times, or we'll fall behind. |
+| 3 | 你 不 需要 成为 一个 专家——只要 那些 基础 就 够了。 | You don't need to be an expert — just the basics will do. |
+| 4 | 说实话，AI 会 重塑 我们 怎么 工作 和 学习，所以 我们 越早 掌握 它，越 好。 | Honestly, AI's going to reshape how we work and study, so the sooner we get to grips with it, the better. |
+
+> Definitely, yeah. AI's one of the most powerful tools out there now, so we should keep up with the times, or we'll fall behind. You don't need to be an expert — just the basics will do. Honestly, AI's going to reshape how we work and study, so the sooner we get to grips with it, the better.
+
+**Q3. Should children learn to use AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 是的，在 某种程度上。 | Yeah, to some extent. |
+| 2 | AI 其实 是 一个 强大 又 有耐心的 老师——你 可以 问 它 绝对 任何 东西、还 能 得到 一个 挺 靠谱的 答案。 | AI's actually a powerful and patient teacher — you can ask it absolutely anything and still get a pretty solid answer. |
+| 3 | 但 孩子 不该 太 早 依赖 它，因为 AI 确实 会 犯 错。 | But kids shouldn't lean on it too early, because AI does make mistakes. |
+| 4 | 所以 学会 独立 思考 得 排 在 第一——AI 应该 辅助 那个，而不是 取代 它。 | So learning to think for themselves has to come first — AI should back that up, not replace it. |
+
+> Yeah, to some extent. AI's actually a powerful and patient teacher — you can ask it absolutely anything and still get a pretty solid answer. But kids shouldn't lean on it too early, because AI does make mistakes. So learning to think for themselves has to come first — AI should back that up, not replace it.
+
+**Q4. How can AI help in our lives?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | AI 打理 那些 日常 杂活——比如 规划 旅行，或 自动 收拢 我 感兴趣的 新闻，那种 东西。 | AI takes care of everyday chores — like planning trips, or automatically rounding up the news I'm into, that kind of thing. |
+| 3 | 它 也 能 教 我 怎么 学 一个 新 东西，（这）我 觉得 比 只是 递给 我 一个 答案 更 重要。 | It can also show me how to learn something new, which I think matters more than just handing me an answer. |
+| 4 | 有时候，说实话，它 让 我 感觉 有点 没用，因为 AI 总是 做 得 比 我 好。 | Sometimes, to be honest, it makes me feel a bit useless, because AI always does it better than me. |
+
+> Loads of ways, really. AI takes care of everyday chores — like planning trips, or automatically rounding up the news I'm into, that kind of thing. It can also show me how to learn something new, which I think matters more than just handing me an answer. Sometimes, to be honest, it makes me feel a bit useless, because AI always does it better than me.
+
+**Q5. Are students overly reliant on AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 有点，说实话。 | A bit, to be honest. |
+| 2 | 对 学生 来说 用 AI 做 作业 太 方便 了——他们 做的 全部 就是 复制粘贴、不 动脑子。 | It's just so convenient for students to do their homework with AI — all they do is copy and paste without thinking. |
+| 3 | 但 我 不 觉得 这 真的 是 他们的 错；说实话，没人 能 抵抗 那个 诱惑。 | But I don't think it's really their fault; honestly, nobody can resist the temptation. |
+| 4 | 所以 我们 需要 做的 是 教 学生 怎么 正确 用 它，也许 再 设 一些 限制。 | So what we need to do is show students how to use it properly, and maybe put a few limits in place. |
+
+> A bit, to be honest. It's just so convenient for students to do their homework with AI — all they do is copy and paste without thinking. But I don't think it's really their fault; honestly, nobody can resist the temptation. So what we need to do is show students how to use it properly, and maybe put a few limits in place.
+
+**Q6. What can teachers do to stop over-reliance on AI?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 一来，老师 可以 布置 AI 做不了的 作业——动手的 任务，那种 东西。 | For one, teachers can set homework AI can't do — hands-on tasks, that kind of thing. |
+| 3 | 除此之外，让 学生 在 课上 做 作业、在 监督下，也 是 一个 好 主意。 | On top of that, getting students to do the work in class, under supervision, is a good idea too. |
+| 4 | 除此之外，老师 可以 反过来 用 AI——去 检查 学生 是否 真的 自己 做了 作业。 | Besides that, teachers can use AI the other way round — to check whether students actually did the work themselves. |
+
+> A few things, really. For one, teachers can set homework AI can't do — hands-on tasks, that kind of thing. On top of that, getting students to do the work in class, under supervision, is a good idea too. Besides that, teachers can use AI the other way round — to check whether students actually did the work themselves.
+
+---
+
+## P2-新17 · An advertisement with a famous person — 刘翔运动服广告（Object）  〔复用生成〕
+
+> **Cue**: 是谁 / 哪里能看到 / 广告讲什么 / 你的感受 · 题型 Object/Event
+>
+> 🔁 **整卡复用自**：老20 广告池(making wants feel like needs / driven by emotion / want to buy) + 新18(stuck with me) + 新15-Q4(pushing yourself) + 新16-Q1(a real mixed bag)。刘翔/运动服=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 广告 是 一个 运动服 广告、带 刘翔，那个 有名的 跨栏 运动员。 | The advertisement I'd like to talk about is a sportswear ad with Liu Xiang, the famous hurdler. |
+| 2 | 我 最早 好些年前 看到 它，在 电视上、还有 到处 的 广告牌上。 | I first saw it years ago, on TV and on billboards everywhere. |
+| 3 | 里面，他 在 跑、在 刻苦 训练，而 那 信息 基本上 是 "一直 逼 自己"。 | In it, he's running and training hard, and the message is basically "keep pushing yourself". |
+| 4 | 真正 让 它 出众的 是 它 多么 简单 又 鼓舞人。 | What really makes it stand out is how simple and inspiring it is. |
+| 5 | 没 多少 说话——就 他、那 跑道、还有 结尾 那 品牌。 | There's not much talking — just him, the track, and the brand at the end. |
+| 6 | 说实话，它 留 在 我 心里 是 因为 刘翔 那时候 是 一个 英雄。 | Honestly, it stuck with me because Liu Xiang was a hero back then. |
+| 7 | 他 赢 了 一块 金牌，所以 在 广告里 看到 他 让 你 信任 那 品牌。 | He'd won a gold medal, so seeing him in the ad made you trust the brand. |
+| 8 | 我 觉得 那 就是 为什么 用 一张 名人 脸 管用——你 把 那人 的 成功 和 那 产品 连 起来。 | I reckon that's why using a famous face works — you connect the person's success with the product. |
+| 9 | 说句公道话，它 当时 确实 让 我 想 买 他们的 跑鞋。 | To be fair, it did make me want to buy their trainers at the time. |
+| 10 | 所以 对我，它 是 一个 简单 但 真的 很 抓 人 的 广告 的 好 例子。 | So for me, it's a good example of an ad that's simple but really sticks. |
+
+### ②P2 整段（shadow）
+
+> The advertisement I'd like to talk about is a sportswear ad with Liu Xiang, the famous hurdler. I first saw it years ago, on TV and on billboards everywhere. In it, he's running and training hard, and the message is basically "keep pushing yourself". What really makes it stand out is how simple and inspiring it is. There's not much talking — just him, the track, and the brand at the end. Honestly, it stuck with me because Liu Xiang was a hero back then. He'd won a gold medal, so seeing him in the ad made you trust the brand. I reckon that's why using a famous face works — you connect the person's success with the product. To be fair, it did make me want to buy their trainers at the time. So for me, it's a good example of an ad that's simple but really sticks.
+
+> 🔁 **复用**：句3 `pushing yourself`(新15-Q4)；句4 `What really makes it stand out is how`；句6 `stuck with me`(新18)；句8 `I reckon`；句9 `To be fair`+`made me want to buy`(老20)；句10 `a good example`+`sticks`。
+
+### 句型/模板（复用池）
+
+- `The advertisement I'd like to talk about is … with …, the famous …` · `What really makes it stand out is how simple and inspiring it is` · `it stuck with me because …` · `I reckon that's why …` · `a good example of an ad that's simple but really sticks`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What are the advantages and disadvantages of advertisements?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 真的 是 好坏参半，说实话。 | It's a real mixed bag, honestly. |
+| 2 | 好的一面，广告 告诉 你 有用的 新 产品、还 让 公司 维持 下去。 | On the plus side, ads tell you about useful new products and keep companies going. |
+| 3 | 另一方面，它们 推 你 去 买 你 并不 真的 需要 的 东西。 | On the other hand, they push you to buy things you don't really need. |
+| 4 | 所以 它 归结到 你 能不能 为 自己 想。 | So it comes down to whether you can think for yourself. |
+
+> It's a real mixed bag, honestly. On the plus side, ads tell you about useful new products and keep companies going. On the other hand, they push you to buy things you don't really need. So it comes down to whether you can think for yourself.
+
+> 🔁 **复用**：`a real mixed bag, honestly`(新16-Q1)+`On the plus side … On the other hand`(新07-Q3)+`think for yourself`(新16)。
+
+**Q2. Why are many advertisements endorsed by celebrities? How useful are they?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 信任，我会说。 | Mainly trust, I'd say. |
+| 2 | 当 人们 看到 一个 他们 崇拜 的 明星 用 某个 东西，他们 瞬间 信任 它。 | When people see a star they admire using something, they instantly trust it. |
+| 3 | 说句公道话，不过，它 会 过头——有些人 只 因为 那张 脸 就 买，不是 那 产品。 | To be fair, though, it can go too far — some just buy it because of the face, not the product. |
+| 4 | 所以 它们 管用，但 它 归结到 挑 对 那个 名人。 | So they work, but it comes down to picking the right celebrity. |
+
+> Mainly trust, I'd say. When people see a star they admire using something, they instantly trust it. To be fair, though, it can go too far — some just buy it because of the face, not the product. So they work, but it comes down to picking the right celebrity.
+
+> 🔁 **复用**：`Mainly trust, I'd say`(老08-Q2)+`To be fair, though`(新16-Q1)+`comes down to`。
+
+**Q3. What is the most important factor in an advertisement?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 对 我 来说，它 一定 是 情绪。 | For me, it's got to be emotion. |
+| 2 | 如果 一个 广告 让 你 笑 或 让 你 感受 到 什么，你 记得 它。 | If an ad makes you laugh or feel something, you remember it. |
+| 3 | 广告 真的 很 擅长 让 想要 感觉 像 需要。 | Advertising's really good at making wants feel like needs. |
+| 4 | 所以 它 归结到 打中 人们的 感受，不 只是 罗列 事实。 | So it comes down to hitting people's feelings, not just listing facts. |
+
+> For me, it's got to be emotion. If an ad makes you laugh or feel something, you remember it. Advertising's really good at making wants feel like needs. So it comes down to hitting people's feelings, not just listing facts.
+
+> 🔁 **复用**：`For me, it's got to be`(新15-Q6)+`makes you laugh`(新02-Q6)+`making wants feel like needs`(老20-Q4 逐字)+`hitting people's feelings`(新02-Q6)。
+
+**Q4. Why are some advertisements boring?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 它们 只是 罗列 事实，我会说。 | Mainly because they just list facts, I'd say. |
+| 2 | 如果 一个 广告 只 对 你 说，人们 就 走神。 | If an ad only talks at you, people switch off. |
+| 3 | 而 一个 好 的 讲 一个 小 故事 或 让 你 笑。 | Whereas a good one tells a little story or makes you laugh. |
+| 4 | 所以 它 归结到 它 抓 不 抓 你的 注意力。 | So it comes down to whether it grabs your attention. |
+
+> Mainly because they just list facts, I'd say. If an ad only talks at you, people switch off. Whereas a good one tells a little story or makes you laugh. So it comes down to whether it grabs your attention.
+
+> 🔁 **复用**：`Mainly…I'd say`+`talks at you`/`switch off`(新03-Q4)+`whereas`+`comes down to`。
+
+**Q5. Is advertising important for a company? Why?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 即使 一个 很棒的 产品 也 卖 不 出去，如果 没人 听说 过 它。 | Even a great product won't sell if nobody's heard of it. |
+| 3 | 除此之外，好 广告 建立 一个 人们 信任的 品牌。 | On top of that, good ads build a brand people trust. |
+| 4 | 所以 对 大多数 公司，它 是 花得 值的 钱。 | So for most companies, it's money well spent. |
+
+> Absolutely, I think so. Even a great product won't sell if nobody's heard of it. On top of that, good ads build a brand people trust. So for most companies, it's money well spent.
+
+> 🔁 **复用**：`Absolutely, I think so`+`On top of that`+`money well spent`(老20)。
+
+**Q6. Which is more effective, online advertising or offline advertising?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 网上，我会说，这些天。 | Online, I'd say, these days. |
+| 2 | 网上 广告 能 精准 瞄准 谁 感兴趣，而 广告牌 只 指望 人们 注意到。 | Online ads can target exactly who's interested, whereas billboards just hope people notice. |
+| 3 | 除此之外，它们 更 便宜，而 你 能 追踪 那 结果。 | On top of that, they're cheaper and you can track the results. |
+| 4 | 但 说句公道话，一个 大 广告牌 亲身 看 仍然 抓 你的 眼球。 | But to be fair, a big billboard still catches your eye in person. |
+
+> Online, I'd say, these days. Online ads can target exactly who's interested, whereas billboards just hope people notice. On top of that, they're cheaper and you can track the results. But to be fair, a big billboard still catches your eye in person. 
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`On top of that`+`to be fair`+`catches your eye`(新02)。
+
+**P3 句型/模板（复用池）**：`a real mixed bag, honestly` / `On the plus side … On the other hand` / `think for yourself` · `Mainly trust, I'd say` / `To be fair, though` · `For me, it's got to be emotion` / `making wants feel like needs` / `hitting people's feelings` · `Mainly … I'd say` / `talks at you` / `switch off` · `Absolutely, I think so` / `money well spent` · `whereas` / `catches your eye`。
 
 ---
 
