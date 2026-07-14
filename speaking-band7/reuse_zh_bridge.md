@@ -2568,6 +2568,238 @@
 
 ---
 
+## P2-新23 · A message that got no reply — 发邮件求建议（Event）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 发给谁 / 内容 / 是否终收到回复 / 感受 · 题型 Event
+>
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 发邮件求建议久等回复）——message/等回复域源头。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 到 的 一次 是 当 我 给 一个 老同学 发 邮件 求 一些 建议。 | One time that comes to mind is when I emailed an old classmate to ask for some advice. |
+| 2 | 那时候，我 在 考虑 转 进 他 那个 行业，所以 我 想 他 会 是 那个 该 问 的 合适 人选。 | At the time, I was thinking about moving into his industry, so I thought he'd be the right person to ask. |
+| 3 | 我 想 问 他 一些 行业 消息，因为 他 在 一个 我 感兴趣的 领域 工作。 | I wanted to ask him about some industry news, because he works in a field I'm interested in. |
+| 4 | 我们 好些年 没 说过话 了，所以 突然 给 他 发消息 感觉 有点 尴尬，而 我 花 了 老半天 斟酌 措辞。 | We hadn't talked in years, so it felt a bit awkward to message him out of the blue, and I spent ages wording it. |
+| 5 | 但 在 我 发 出去 之后，我 很久 都 没 收到 回复。 | But after I sent it, I didn't hear back for a long time. |
+| 6 | 一天天 过去，然后 好几周，而 我 开始 琢磨 我 是不是 说 错 了 什么。 | Days went by, then a couple of weeks, and I started to wonder if I'd said something wrong. |
+| 7 | 我 一天 查 手机 好几次，我 甚至 回去 看 他 是不是 读 了。 | I checked my phone a few times a day, and I even went back to see if he'd read it. |
+| 8 | 最后，他 确实 回 了——大约 一个月 后——而 结果 是 他 只是 一直 很 忙。 | In the end, he did reply — about a month later — and it turned out he'd just been really busy. |
+| 9 | 说实话，那 等待 的 部分 有点 让人 焦虑，因为 我 一直 想 太多。 | Honestly, the waiting part was a bit stressful, because I kept overthinking it. |
+| 10 | 所以 现在 当 人们 回 得 慢，我 尽量 不 往 心里 去。 | So now I try not to take it personally when people are slow to reply. |
+
+### ②P2 整段（shadow）
+
+> One time that comes to mind is when I emailed an old classmate to ask for some advice. At the time, I was thinking about moving into his industry, so I thought he'd be the right person to ask. I wanted to ask him about some industry news, because he works in a field I'm interested in. We hadn't talked in years, so it felt a bit awkward to message him out of the blue, and I spent ages wording it. But after I sent it, I didn't hear back for a long time. Days went by, then a couple of weeks, and I started to wonder if I'd said something wrong. I checked my phone a few times a day, and I even went back to see if he'd read it. In the end, he did reply — about a month later — and it turned out he'd just been really busy. Honestly, the waiting part was a bit stressful, because I kept overthinking it. So now I try not to take it personally when people are slow to reply.
+
+### 句型/模板（你自己的）
+
+- `One time that comes to mind is when I emailed …` · `it felt a bit awkward to message him out of the blue, and I spent ages wording it` · `I didn't hear back for a long time` · `I started to wonder if I'd said something wrong` · `the waiting part was a bit stressful, because I kept overthinking it` · `I try not to take it personally when people are slow to reply`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. In what situations do people spend a long time responding to others' messages?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 大多 是 当 那 消息 尴尬 或 重要——你 花 老半天 斟酌 措辞。 | Mostly when the message is awkward or important — you spend ages wording it. |
+| 3 | 而 一个 快 的 "好" 花 两秒。 | Whereas a quick "ok" takes two seconds. |
+| 4 | 所以 它 归结到 那 消息 有 多 要紧。 | So it comes down to how much the message matters. |
+
+> A few, really. Mostly when the message is awkward or important — you spend ages wording it. Whereas a quick "ok" takes two seconds. So it comes down to how much the message matters.
+
+> 🔁 **复用**：`awkward`+`spend ages wording it`(新23 P2)+`whereas`+`comes down to`。
+
+**Q2. In what situations do people not respond to messages at all?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 当 他们 真的 很 忙，我会说。 | Mainly when they're really busy, I'd say. |
+| 2 | 有时候 他们 看到 它、打算 晚点 回，然后 就 忘 了。 | Sometimes they see it, mean to reply later, and just forget. |
+| 3 | 而 另一些 时候 那 消息 不 真的 需要 一个 回答。 | Whereas other times the message doesn't really need an answer. |
+| 4 | 所以 它 通常 不 是 针对 谁，说句公道话。 | So it's usually nothing personal, to be fair. |
+
+> Mainly when they're really busy, I'd say. Sometimes they see it, mean to reply later, and just forget. Whereas other times the message doesn't really need an answer. So it's usually nothing personal, to be fair.
+
+> 🔁 **复用**：`really busy`(新23 P2)+`whereas`+`nothing personal`(新23 take it personally)+`to be fair`。
+
+**Q3. What would you do if you did not receive a reply after sending out a message?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 说实话，我 大概 会 想 太多。 | Honestly, I'd probably overthink it. |
+| 2 | 上次 它 发生，我 甚至 回去 看 他们 是不是 读 了。 | Last time it happened, I even went back to check if they'd read it. |
+| 3 | 但 这些天 我 尽量 不 往 心里 去。 | But these days I try not to take it personally. |
+| 4 | 所以 我 会 就 等 一会儿，然后 发 一个 温和的 提醒。 | So I'd just wait a bit, then send a gentle reminder. |
+
+> Honestly, I'd probably overthink it. Last time it happened, I even went back to check if they'd read it. But these days I try not to take it personally. So I'd just wait a bit, then send a gentle reminder.
+
+> 🔁 **复用**：`overthink it`+`went back to check if they'd read it`+`try not to take it personally`(新23 P2 逐字)。
+
+**Q4. Why do some people prefer sending a message instead of making a call?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 压力 更 小，我会说。 | Mainly because it's less pressure, I'd say. |
+| 2 | 有 一个 消息，你 能 慢慢来、好好 斟酌 措辞。 | With a message, you can take your time and word it properly. |
+| 3 | 而 一个 电话 把 你 逼 到 当场。 | Whereas a call puts you on the spot. |
+| 4 | 此外，你 能 在 任何 适合 你 的时候 回。 | Plus, you can reply whenever suits you. |
+
+> Mainly because it's less pressure, I'd say. With a message, you can take your time and word it properly. Whereas a call puts you on the spot. Plus, you can reply whenever suits you.
+
+> 🔁 **复用**：`Mainly … I'd say`+`take your time`(老12)+`word it`(新23)+`whereas`+`on the spot`(新16-Q1)+`Plus`。
+
+**Q5. How do you show your respect in your messages?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 靠 有 礼貌、清楚，我会说。 | Mainly by being polite and clear, I'd say. |
+| 2 | 我 花 一点 时间 好好 斟酌 措辞，尤其 跟 一个 我 不 太 熟 的人。 | I take a bit of time to word it properly, especially with someone I don't know well. |
+| 3 | 而 随手 甩 出 一条 马虎的 消息 可能 显得 粗鲁。 | Whereas firing off a careless message can come across as rude. |
+| 4 | 所以 它 归结到 一点点 用心。 | So it comes down to a bit of thought. |
+
+> Mainly by being polite and clear, I'd say. I take a bit of time to word it properly, especially with someone I don't know well. Whereas firing off a careless message can come across as rude. So it comes down to a bit of thought.
+
+> 🔁 **复用**：`Mainly … I'd say`+`word it properly`(新23)+`whereas`+`comes down to`。
+
+**Q6. Why do some people feel angry when others don't reply to their message?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 感觉 被 忽视，我会说。 | Mainly because they feel ignored, I'd say. |
+| 2 | 当 你 在 一条 消息 里 花 了 心思，沉默 有点 扎心。 | When you've put thought into a message, silence stings a bit. |
+| 3 | 它 有点 像 我——我 开始 琢磨 我 是不是 说 错 了 什么。 | It's a bit like me — I start to wonder if I said something wrong. |
+| 4 | 但 说实话，人们 通常 只是 忙，不是 粗鲁。 | But honestly, people are usually just busy, not rude. |
+
+> Mainly because they feel ignored, I'd say. When you've put thought into a message, silence stings a bit. It's a bit like me — I start to wonder if I said something wrong. But honestly, people are usually just busy, not rude.
+
+> 🔁 **复用**：`Mainly … I'd say`+`wonder if I said something wrong`(新23 P2 逐字)+`honestly`+`just busy`(新23)。
+
+**P3 句型/模板（复用池）**：`spend ages wording it` / `whereas` / `comes down to how much the message matters` · `Mainly when they're really busy, I'd say` / `nothing personal` · `overthink it` / `went back to check if they'd read it` / `try not to take it personally` · `take your time and word it properly` / `on the spot` · `come across as rude` · `wonder if I said something wrong` / `just busy, not rude`。
+
+---
+
+## P2-新24 · A long-term goal — 独立研究梦（Object/Goal）  〔复用生成〕
+
+> **Cue**: 有多久 / 是什么 / 怎么实现 / 为何设它 · 题型 Object/Goal
+>
+> 🔁 **整卡复用自**：新16(I'm a software engineer) + 新12(build own/career) + 老05(3D printing/worth it) + 新15(chip away every day/keep learning/sets a good example) + 新08(no doubt)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 目标 是 有一天 做 我 自己的 独立 研究。 | The goal I'd like to talk about is doing my own independent research one day. |
+| 2 | 我 是 一个 软件 工程师，而 我 有 这个 目标 已经 好几年 了。 | I'm a software engineer, and I've had this goal for a few years now. |
+| 3 | 基本上，我 想 建 一个 我 自己的 东西，而不是 只 给 一家 公司 打工。 | Basically, I want to build something of my own, instead of just working for a company. |
+| 4 | 也许 一个 小 AI 工具，或 跟 3D 打印 有关的 东西——我 真的 很 迷 那个。 | Maybe a small AI tool, or something to do with 3D printing — I'm really into that. |
+| 5 | 为了 到 那儿，我 知道 我 得 每一天 啃 掉 一点点，在 我 工作 之余。 | To get there, I know I have to chip away at it a little every day, alongside my job. |
+| 6 | 我 已经 开始 在 业余时间 读 论文、还 做 小 项目。 | I've started reading papers and building small projects in my spare time. |
+| 7 | 我 设 这个 目标 的 原因 是 我 不 想 只是 混——我 想 一直 学。 | The reason I set this goal is that I don't want to just coast — I want to keep learning. |
+| 8 | 说实话，它 也 归结到 为 我 儿子 树立 一个 好 榜样。 | Honestly, it also comes down to setting a good example for my son. |
+| 9 | 我 想 让 他 看到 你 总是 能 朝 一个 更大的 东西 努力。 | I want him to see that you can always work towards something bigger. |
+| 10 | 它 会 花 好些年，但 我 毫不 怀疑 它 值得。 | It'll take years, but I've no doubt it's worth it. |
+
+### ②P2 整段（shadow）
+
+> The goal I'd like to talk about is doing my own independent research one day. I'm a software engineer, and I've had this goal for a few years now. Basically, I want to build something of my own, instead of just working for a company. Maybe a small AI tool, or something to do with 3D printing — I'm really into that. To get there, I know I have to chip away at it a little every day, alongside my job. I've started reading papers and building small projects in my spare time. The reason I set this goal is that I don't want to just coast — I want to keep learning. Honestly, it also comes down to setting a good example for my son. I want him to see that you can always work towards something bigger. It'll take years, but I've no doubt it's worth it.
+
+> 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `really into`+3D printing(老05)；句5 `chip away at it a little every day`(新15)；句7 `keep learning`(新15)；句8 `comes down to`+`setting a good example`(新15)；句10 `no doubt`(新08)+`worth it`(老05)。
+
+### 句型/模板（复用池）
+
+- `The goal I'd like to talk about is doing … one day` · `I want to build something of my own` · `I have to chip away at it a little every day, alongside my job` · `The reason I set this goal is that I don't want to just coast` · `I've no doubt it's worth it`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Why should children have ambitions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 抱负 给 孩子 一个 [去]努力 的 东西，所以 他们 保持 有动力。 | Ambitions give kids something to work towards, so they stay motivated. |
+| 3 | 而 没有 目标，很 容易 就 飘着。 | Whereas with no goal, it's easy to just drift. |
+| 4 | 所以 它 归结到 给 他们 一点 方向。 | So it comes down to giving them a bit of direction. |
+
+> A few reasons, really. Ambitions give kids something to work towards, so they stay motivated. Whereas with no goal, it's easy to just drift. So it comes down to giving them a bit of direction.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`direction`(新12-P3-Q3)+`comes down to`。
+
+**Q2. What do you think of people going after high positions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 瞄 得 高 能 逼 你 成长，（那 是 一件 好事）。 | Aiming high can push you to grow, which is a good thing. |
+| 3 | 而 只 为 地位 本身 去 追 会 让 你 痛苦。 | Whereas chasing status for its own sake can make you miserable. |
+| 4 | 所以 它 归结到 你 为什么 做 它。 | So it comes down to why you're doing it. |
+
+> It's a bit of a mixed bag, honestly. Aiming high can push you to grow, which is a good thing. Whereas chasing status for its own sake can make you miserable. So it comes down to why you're doing it.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`push you`(新15 pushing yourself)+`whereas`+`comes down to`。
+
+**Q3. Why are some young people keen on being fans of superstars?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 仰望 他们，我会说。 | Mainly because they look up to them, I'd say. |
+| 2 | 一个 明星 能 感觉 鼓舞人，像 一个 榜样。 | A star can feel inspiring, like a role model. |
+| 3 | 而 有些 只是 随大流，说句公道话。 | Whereas some just follow the crowd, to be fair. |
+| 4 | 所以 它 归结到 想要 一个 [去]崇拜 的人。 | So it comes down to wanting someone to admire. |
+
+> Mainly because they look up to them, I'd say. A star can feel inspiring, like a role model. Whereas some just follow the crowd, to be fair. So it comes down to wanting someone to admire.
+
+> 🔁 **复用**：`Mainly … I'd say`+`look up to`(新08)+`whereas`+`to be fair`+`comes down to`。
+
+**Q4. Is it good for a person to be ambitious?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一点 抱负 让 你 保持 成长 和 学习。 | A bit of ambition keeps you growing and learning. |
+| 3 | 但 太 多，你 就 从不 感到 满足，（那 不 健康）。 | But too much, and you never feel satisfied, which isn't healthy. |
+| 4 | 所以 它 归结到 保持 它 平衡。 | So it comes down to keeping it balanced. |
+
+> To some extent, yeah. A bit of ambition keeps you growing and learning. But too much, and you never feel satisfied, which isn't healthy. So it comes down to keeping it balanced.
+
+> 🔁 **复用**：`To some extent, yeah`+`keep learning`(新15)+`isn't healthy`(老21-Q5风)+`comes down to`。
+
+**Q5. Do you think it is necessary to be ambitious when working in a team in a company?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一点 干劲 帮 整个 团队 往前 推。 | A bit of drive helps the whole team push forward. |
+| 3 | 而 如果 每个人 都 只 想 那 聚光灯，它 就 散了。 | Whereas if everyone just wants the spotlight, it falls apart. |
+| 4 | 所以 它 归结到 为 那 团队 有 抱负，不 只是 为 你 自己。 | So it comes down to being ambitious for the team, not just yourself. |
+
+> To some extent, yeah. A bit of drive helps the whole team push forward. Whereas if everyone just wants the spotlight, it falls apart. So it comes down to being ambitious for the team, not just yourself.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+
+**Q6. Should parents support their children in pursuing their ambitions?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 父母 以前 经历过，所以 他们 能 引导 他们。 | Parents have been there before, so they can guide them. |
+| 3 | 但 他们 该 支持，不是 逼——那 目标 得 是 孩子 自己的。 | But they should support, not push — the goal has to be the kid's own. |
+| 4 | 所以 它 归结到 撑 他们 一把，不是 大包大揽。 | So it comes down to backing them up, not taking over. |
+
+> Absolutely, I think so. Parents have been there before, so they can guide them. But they should support, not push — the goal has to be the kid's own. So it comes down to backing them up, not taking over.
+
+> 🔁 **复用**：`Absolutely, I think so`+`been there before`(新07-Q5)+`backing them up, not …`(新16 back that up not replace)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to giving them a bit of direction` · `a bit of a mixed bag, honestly` / `push you to grow` · `Mainly … look up to them, I'd say` / `follow the crowd` · `To some extent, yeah` / `keeps you growing and learning` / `keeping it balanced` · `been there before` / `backing them up, not taking over`。
+
+---
+
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
