@@ -4064,3 +4064,239 @@
 > I largely agree. Sure, social media helps people connect, but for children the drawbacks really outweigh the benefits. Chatting online is shallow, and it can hurt kids' ability to communicate in person. Plus, there's loads of negative content out there that kids can't really handle. So I'd say it's necessary, at least up to a certain age.
 
 ---
+
+## P2-老09 · An occasion when many people were smiling — Muye 幼儿园表演（Event）  〔复用生成〕
+
+> **Cue**: 何时 / 和谁 / 发生什么 / 为何都在笑 · 题型 Event
+>
+> 🔁 **整卡复用自**：son/Muye + wife + 新14(over the moon / bringing everyone together / not really about X, it's about Y) + 新18(stuck with me) + 新06(chaos)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 我 儿子 Muye 去年 的 幼儿园 表演。 | The time I'd like to talk about is my son Muye's kindergarten performance last year. |
+| 2 | 它 是 一个 小 演出，（那里 所有 孩子 在 一个 舞台上 唱歌、跳舞）。 | It was a little show where all the kids sang and danced on a stage. |
+| 3 | 我 老婆 和 我 一起 去，而 说实话 整个 大厅 都 在 笑。 | My wife and I went along, and honestly the whole hall was smiling. |
+| 4 | Muye 事先 那么 紧张——他 在家 一直 忘 词。 | Muye was so nervous beforehand — he kept forgetting his lines at home. |
+| 5 | 但 到 那天，他 站 上去、尽 了 力，而 它 特别 可爱。 | But on the day, he stood up there and did his best, and it was adorable. |
+| 6 | 真正 让 每个人 笑 的 是 那些 孩子 多么 兴奋、又 笨拙。 | What really made everyone smile was how excited and clumsy the kids were. |
+| 7 | 有些 忘 词，有些 朝 他们 父母 挥手——它 是 一片 混乱，好的 那种。 | Some forgot the words, some waved at their parents — it was chaos, in a good way. |
+| 8 | 我 老婆 和 我 看 他 看 得 高兴 坏了。 | My wife and I were over the moon watching him. |
+| 9 | 说实话，像 那样 的 时刻 把 大家 聚 到 一起。 | Honestly, moments like that bring everyone together. |
+| 10 | 它 是 那种 真的 留 在 我 心里 的 日子 之一。 | It's one of those days that really stuck with me. |
+| 11 | 所以 对我，它 不 关于 那 演出——它 关于 看 他 那么 开心。 | So for me, it wasn't about the show — it was about seeing him so happy. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is my son Muye's kindergarten performance last year. It was a little show where all the kids sang and danced on a stage. My wife and I went along, and honestly the whole hall was smiling. Muye was so nervous beforehand — he kept forgetting his lines at home. But on the day, he stood up there and did his best, and it was adorable. What really made everyone smile was how excited and clumsy the kids were. Some forgot the words, some waved at their parents — it was chaos, in a good way. My wife and I were over the moon watching him. Honestly, moments like that bring everyone together. It's one of those days that really stuck with me. So for me, it wasn't about the show — it was about seeing him so happy.
+
+> 🔁 **复用**：句6 `What really made everyone smile was`；句7 `chaos`(新06-Q5)；句8 `over the moon`(新14)；句9 `bring everyone together`(新14)；句10 `stuck with me`(新18)；句11 `not really about X — it's about Y`(新14)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is my son Muye's … performance` · `honestly the whole hall was smiling` · `What really made everyone smile was how excited and clumsy the kids were` · `We were over the moon watching him` · `it wasn't about the show — it was about seeing him so happy`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you think people who like to smile are more friendly?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 一个 微笑 瞬间 让 某人 感觉 好 接近、又 温暖。 | A smile instantly makes someone feel approachable and warm. |
+| 3 | 而 一张 严肃的 脸 可能 显得 冷淡。 | Whereas a serious face can come across as cold. |
+| 4 | 所以 它 归结到 你 让 别人 感觉 怎么样。 | So it comes down to how you make others feel. |
+
+> Absolutely, I think so. A smile instantly makes someone feel approachable and warm. Whereas a serious face can come across as cold. So it comes down to how you make others feel.
+
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`come across as`(新22)+`comes down to`。
+
+**Q2. Why do most people smile in photographs?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 出于 习惯，我会说。 | Mainly out of habit, I'd say. |
+| 2 | 我们 从 小 就 被 教 对 镜头 笑。 | We're taught to smile for the camera from a young age. |
+| 3 | 此外，一张 微笑的 照片 往后 勾起 更 快乐的 回忆。 | Plus, a smiling photo brings back happier memories later. |
+| 4 | 所以 它 归结到 想 看起来 开心。 | So it comes down to wanting to look happy. |
+
+> Mainly out of habit, I'd say. We're taught to smile for the camera from a young age. Plus, a smiling photo brings back happier memories later. So it comes down to wanting to look happy.
+
+> 🔁 **复用**：`Mainly … I'd say`+`habit`(新15-Q4)+`Plus`+`brings back … memories`(老11)+`comes down to`。
+
+**Q3. Do women smile more than men? Why?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 从 我 看到的，女性 常常 有点 更 外露。 | From what I see, women are often a bit more expressive. |
+| 3 | 而 有些 男性 觉得 他们 该 看起来 严肃。 | Whereas some men feel they should look serious. |
+| 4 | 但 说实话，它 归结到 那个 人，不是 那 性别。 | But honestly, it comes down to the person, not the gender. |
+
+> To some extent, yeah. From what I see, women are often a bit more expressive. Whereas some men feel they should look serious. But honestly, it comes down to the person, not the gender.
+
+> 🔁 **复用**：`To some extent, yeah`+`From what I see`+`comes down to the person, not the gender`(新02-Q5 逐字)。
+
+**Q4. Do people smile more when they are younger or older?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 更 年轻时，我会说。 | Younger, I'd say. |
+| 2 | 孩子 一直 笑，因为 对 他们 一切 都 新鲜、好玩。 | Kids smile all the time, because everything's new and fun to them. |
+| 3 | 而 大人 手头 事 更多，所以 他们 笑 得 更 少。 | Whereas adults have more on their plate, so they smile less. |
+| 4 | 所以 它 归结到 你 有 多 无忧无虑。 | So it comes down to how carefree you are. |
+
+> Younger, I'd say. Kids smile all the time, because everything's new and fun to them. Whereas adults have more on their plate, so they smile less. So it comes down to how carefree you are.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`on their plate`(新15)+`comes down to`。
+
+**Q5. Is smiling important in your culture?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，是的。 | Absolutely, yeah. |
+| 2 | 一个 微笑 显示 尊重、还 让 人 感觉 受 欢迎。 | A smile shows respect and makes people feel welcome. |
+| 3 | 当 你 拜访 某人 的 家，你 用 一个 微笑 打招呼。 | When you visit someone's home, you greet them with a smile. |
+| 4 | 所以 它 归结到 有 礼貌、又 温暖。 | So it comes down to being polite and warm. |
+
+> Absolutely, yeah. A smile shows respect and makes people feel welcome. When you visit someone's home, you greet them with a smile. So it comes down to being polite and warm.
+
+> 🔁 **复用**：`Absolutely, yeah`+visit home(新19)+`comes down to`。
+
+**Q6. Are there any occasions when people need to pretend to smile?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 在 工作上，你 对 顾客 笑，即使 当 你 累。 | At work, you smile at customers even when you're tired. |
+| 3 | 而 在 一个 无聊的 场合，人们 装 一下 [为了]礼貌。 | Whereas at a boring event, people fake it to be polite. |
+| 4 | 所以 它 归结到 让 事情 顺畅。 | So it comes down to keeping things smooth. |
+
+> Loads, honestly. At work, you smile at customers even when you're tired. Whereas at a boring event, people fake it to be polite. So it comes down to keeping things smooth.
+
+> 🔁 **复用**：`Loads, honestly`+`whereas`+`boring`(新03)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `come across as cold` · `Mainly out of habit, I'd say` / `brings back happier memories` · `To some extent, yeah` / `From what I see` / `comes down to the person, not the gender` · `Younger, I'd say` / `on their plate` · `Absolutely, yeah` / `visit someone's home` · `Loads, honestly` / `whereas`。
+
+---
+
+## P2-老10 · A time you felt proud of a family member — Muye 公园善举（Person）  〔复用生成〕
+
+> **Cue**: 何时 / 是谁 / 做了什么 / 为何骄傲 · 题型 Person
+>
+> 🔁 **整卡复用自**：son/Muye + 老26(quiet little park near our home) + 老12(run around) + 新14(over the moon) + 老19(wife helping elderly neighbours) + 老11(brings back memories/grandfather)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 真的 为 我 儿子 Muye 骄傲。 | The time I'd like to talk about is when I felt really proud of my son, Muye. |
+| 2 | 一个 下午，我们 在 我们家 附近 那个 安静的 小 公园。 | We were at that quiet little park near our home one afternoon. |
+| 3 | 有 一个 老人 把 他的 购物 掉 了，东西 滚 得 到处 都是。 | There was an older man who'd dropped his shopping, and stuff had rolled everywhere. |
+| 4 | Muye 才 五岁，但 他 直接 跑 过去、开始 捡 起来。 | Muye's only five, but he ran straight over and started picking it up. |
+| 5 | 他 甚至 没 想——他 就 想 帮忙。 | He didn't even think about it — he just wanted to help. |
+| 6 | 让 我 骄傲 的 是 没人 叫 他 做 它。 | What made me proud was that nobody told him to do it. |
+| 7 | 那 老人 高兴 坏了、一直 谢 他。 | The old man was over the moon and kept thanking him. |
+| 8 | 说实话，它 让 我 看到 他 正 长 成 一个 善良的人。 | Honestly, it showed me he's growing up kind. |
+| 9 | 我 老婆 总是 帮 我们 年长的 邻居，所以 我 觉得 他 从 她 那儿 学 的。 | My wife's always helping our elderly neighbours, so I think he learned it from her. |
+| 10 | 它 勾起 我 外公 教 我 同样的 东西 的 回忆。 | It brings back memories of my grandfather teaching me the same thing. |
+| 11 | 所以 对我，它 不 是 一件 大事——但 它 让 我 一整周 都 开心。 | So for me, it wasn't a big deal — but it made my whole week. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I felt really proud of my son, Muye. We were at that quiet little park near our home one afternoon. There was an older man who'd dropped his shopping, and stuff had rolled everywhere. Muye's only five, but he ran straight over and started picking it up. He didn't even think about it — he just wanted to help. What made me proud was that nobody told him to do it. The old man was over the moon and kept thanking him. Honestly, it showed me he's growing up kind. My wife's always helping our elderly neighbours, so I think he learned it from her. It brings back memories of my grandfather teaching me the same thing. So for me, it wasn't a big deal — but it made my whole week.
+
+> 🔁 **复用**：句2 `quiet little park near our home`(老26)；句4 `ran straight over`(老12 run around)；句6 `What made me proud was`；句7 `over the moon`(新14)；句9 `wife … helping our elderly neighbours`(老19)；句10 `brings back memories`+grandfather(老11)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I felt really proud of my son` · `What made me proud was that nobody told him to do it` · `The old man was over the moon and kept thanking him` · `My wife's always helping our elderly neighbours, so I think he learned it from her` · `it wasn't a big deal — but it made my whole week`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. When would parents feel proud of their children?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 时刻，真的。 | Loads of moments, really. |
+| 2 | 大多 是 当 一个 孩子 做 一些 善良的 事 或 在 某个 东西 上 努力。 | Mostly when a kid does something kind or works hard at something. |
+| 3 | 它 不 真的 关于 成绩——它 关于 那 努力。 | It's not really about grades — it's about the effort. |
+| 4 | 所以 它 归结到 看 他们 长 成 一个 好人。 | So it comes down to seeing them grow into a good person. |
+
+> Loads of moments, really. Mostly when a kid does something kind or works hard at something. It's not really about grades — it's about the effort. So it comes down to seeing them grow into a good person.
+
+> 🔁 **复用**：`Loads of moments, really`+`not really about X — it's about Y`(新14)+`who they become`(新07-Q2)+`comes down to`。
+
+**Q2. Should parents reward children? Why and how?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一个 小 奖励 能 激励 一个 孩子，所以 他们 一直 试。 | A small reward can motivate a kid, so they keep trying. |
+| 3 | 但 它 该 是 为 努力，不 只是 结果。 | But it should be for effort, not just results. |
+| 4 | 所以 它 归结到 表扬 对 的 东西。 | So it comes down to praising the right thing. |
+
+> To some extent, yeah. A small reward can motivate a kid, so they keep trying. But it should be for effort, not just results. So it comes down to praising the right thing.
+
+> 🔁 **复用**：`To some extent, yeah`+`motivate`(新24-Q1)+`comes down to`。
+
+**Q3. Is it good to reward children too often? Why?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 如果 你 奖励 一切，它 就 不再 有 意义。 | If you reward everything, it stops meaning anything. |
+| 3 | 而 偶尔 一个 奖励 让 它 保持 特别。 | Whereas the odd reward keeps it special. |
+| 4 | 所以 它 归结到 别 做 过头。 | So it comes down to not overdoing it. |
+
+> Not really, no. If you reward everything, it stops meaning anything. Whereas the odd reward keeps it special. So it comes down to not overdoing it.
+
+> 🔁 **复用**：`Not really, no`+`whereas`+`overdoing it`(老20-Q3)+`comes down to`。
+
+**Q4. On what occasions would adults be proud of themselves?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 大多 是 在 完成 一个 难 的 东西 之后，比如 工作上 一个 大 项目。 | Mostly after finishing something hard, like a big project at work. |
+| 3 | 对 我 来说，是 当 我 解决 一个 别人 都 解决不了 的 棘手 问题。 | For me, it's when I solve a tricky problem no one else could. |
+| 4 | 所以 它 归结到 克服 一个 真正的 挑战。 | So it comes down to overcoming a real challenge. |
+
+> A few, really. Mostly after finishing something hard, like a big project at work. For me, it's when I solve a tricky problem no one else could. So it comes down to overcoming a real challenge.
+
+> 🔁 **复用**：`A few, really`+`a big project at work`(新11)+solve problem(新16/新21)+`comes down to`。
+
+**Q5. Do rewards help a child become better?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 一个 奖励 给 他们 一个 试 的 理由，（那 建立 好 习惯）。 | A reward gives them a reason to try, which builds good habits. |
+| 3 | 而 只 依赖 奖励 会 适得其反。 | Whereas relying only on rewards can backfire. |
+| 4 | 所以 它 归结到 明智地 用 它们。 | So it comes down to using them wisely. |
+
+> To some extent, yeah. A reward gives them a reason to try, which builds good habits. Whereas relying only on rewards can backfire. So it comes down to using them wisely.
+
+> 🔁 **复用**：`To some extent, yeah`+`habits`(老23-Q1)+`whereas`+`relying on`+`comes down to`。
+
+**Q6. What do you think about children working hard just for grades?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 成绩 要紧，显然，但 它们 不 是 一切。 | Grades matter, obviously, but they're not everything. |
+| 3 | 而 如果 一个 孩子 只 追 分数，他们 错过 学习 的 乐趣。 | Whereas if a kid only chases marks, they miss the joy of learning. |
+| 4 | 所以 它 归结到 为 对 的 理由 学习。 | So it comes down to learning for the right reasons. |
+
+> It's a bit of a mixed bag, honestly. Grades matter, obviously, but they're not everything. Whereas if a kid only chases marks, they miss the joy of learning. So it comes down to learning for the right reasons.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`learning`(新15)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Loads of moments, really` / `not really about grades — it's about the effort` · `To some extent, yeah` / `motivate` / `praising the right thing` · `Not really, no` / `overdoing it` · `A few, really` / `a big project at work` · `To some extent, yeah` / `builds good habits` · `a bit of a mixed bag, honestly` / `the joy of learning`。
+
+---
