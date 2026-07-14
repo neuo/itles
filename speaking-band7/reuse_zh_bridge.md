@@ -3383,6 +3383,356 @@
 
 ---
 
+## P2-老03 · An occasion when you couldn't use your phone — 京都寺庙大殿（Event）  〔复用生成〕
+
+> **Cue**: 何时 / 何地 / 为何不许 / 感受 · 题型 Event
+>
+> 🔁 **整卡复用自**：新18 京都(been there/love visiting the old temples/completely immersed in its peaceful atmosphere 逐字) + 老26(quiet/put phone away) + 新16(rely on)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 在 京都 一座 寺庙 里 没法 用 我的 手机。 | The time I'd like to talk about is when I couldn't use my phone inside a temple in Kyoto. |
+| 2 | 我 去过 京都 几次，而 我 爱 逛 那些 老 寺庙。 | I've been to Kyoto a few times, and I love visiting the old temples. |
+| 3 | 在 一个 主 大殿 里，有 一个 牌子 写着 不许 手机 或 拍照。 | In one of the main halls, there was a sign saying no phones or photos. |
+| 4 | 一开始，说实话，我 感觉 有点 无所适从——我 太 习惯 伸手 去 拿 手机。 | At first, honestly, I felt a bit lost — I'm so used to reaching for my phone. |
+| 5 | 我 没法 拍照 或 查 任何 东西，所以 我 只能 站 在 那儿。 | I couldn't take pictures or check anything, so I just had to stand there. |
+| 6 | 但 过 一会儿，我 完全 沉浸 在 那 宁静的 氛围 里。 | But after a while, I was completely immersed in the peaceful atmosphere. |
+| 7 | 让 它 特别的 是 我 真的 注意到 了 那些 细节，而不是 一个 屏幕。 | What made it special was that I actually noticed the details, instead of a screen. |
+| 8 | 它 让 我 意识到 我 多么 依赖 我的 手机。 | It made me realise how much I rely on my phone. |
+| 9 | 说实话，那个 安静的 时刻 留 在 我 心里 比 任何 照片 都 深。 | Honestly, that quiet moment stuck with me more than any photo would have. |
+| 10 | 所以 现在 我 尽量 更 常 把 手机 收 起来。 | So now I try to put my phone away more often. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I couldn't use my phone inside a temple in Kyoto. I've been to Kyoto a few times, and I love visiting the old temples. In one of the main halls, there was a sign saying no phones or photos. At first, honestly, I felt a bit lost — I'm so used to reaching for my phone. I couldn't take pictures or check anything, so I just had to stand there. But after a while, I was completely immersed in the peaceful atmosphere. What made it special was that I actually noticed the details, instead of a screen. It made me realise how much I rely on my phone. Honestly, that quiet moment stuck with me more than any photo would have. So now I try to put my phone away more often.
+
+> 🔁 **复用**：句2 `been to Kyoto … love visiting the old temples`(新18)；句6 `completely immersed in the peaceful atmosphere`(新18 逐字)；句8 `rely on`(新16)；句9 `stuck with me`(新18)+`quiet`(老26)；句10 `put my phone away`(新22风)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I couldn't use my phone …` · `I'm so used to reaching for my phone` · `I was completely immersed in the peaceful atmosphere` · `it made me realise how much I rely on my phone` · `that quiet moment stuck with me more than any photo would have`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. How do young and old people use mobile phones differently?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 挺 不同，我会说。 | Quite differently, I'd say. |
+| 2 | 年轻人 瞬间 就 上手 新 app，而 老年人 更 谨慎、还 坚持 他们 认识的 那些。 | Young people pick new apps up instantly, whereas older people are more cautious and stick with the ones they know. |
+| 3 | 所以 它 真的 归结到 他们 是 伴随 什么 长大的。 | So it really comes down to what they grew up with. |
+| 4 | 那 是 那 主要 差别，说句公道话。 | That's the main difference, to be fair. |
+
+> Quite differently, I'd say. Young people pick new apps up instantly, whereas older people are more cautious and stick with the ones they know. So it really comes down to what they grew up with. That's the main difference, to be fair.
+
+> 🔁 **复用**：全套复用 老08-Q1（`pick new apps up instantly` / `whereas … stick with the ones they know` / `comes down to what they grew up with` 逐字）。
+
+**Q2. What positive and negative impact do mobile phones have on friendship?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 好的一面，手机 让 保持 联系 更 容易。 | On the plus side, phones make it easier to stay in touch. |
+| 3 | 另一方面，网上 聊天 有点 肤浅，而 没 什么 比得过 面对面 见面。 | On the other hand, chatting online is a bit shallow, and nothing beats meeting in person. |
+| 4 | 所以 它 归结到 你 怎么 用 它。 | So it comes down to how you use it. |
+
+> It's a bit of a mixed bag, honestly. On the plus side, phones make it easier to stay in touch. On the other hand, chatting online is a bit shallow, and nothing beats meeting in person. So it comes down to how you use it.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`easier to stay in touch`+`nothing beats meeting in person`(新07-Q3 逐字)+`comes down to how you use it`(新07-Q6)。
+
+**Q3. Is it a waste of time to take pictures with mobile phones?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 几张 照片 帮 你 记住 一个 时刻，（那 挺 好）。 | A few photos help you remember a moment, which is nice. |
+| 3 | 而 如果 你 一整个 时间 都 在 屏幕 后面，你 错过 那 真实的 东西。 | Whereas if you spend the whole time behind a screen, you miss the real thing. |
+| 4 | 所以 它 归结到 别 做 过头。 | So it comes down to not overdoing it. |
+
+> Not really, no. A few photos help you remember a moment, which is nice. Whereas if you spend the whole time behind a screen, you miss the real thing. So it comes down to not overdoing it.
+
+> 🔁 **复用**：`Not really, no`+`whereas`+`overdoing it`(老20-Q3 overdo it)+`comes down to`。
+
+**Q4. Do you think it is necessary to have laws on the use of mobile phones?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 像 开车 时 不许 用 手机 完全 说得通。 | Things like no phones while driving make total sense. |
+| 3 | 而 到处 禁 它们 会 太 过。 | Whereas banning them everywhere would be too much. |
+| 4 | 所以 它 归结到 几条 明智的 规则。 | So it comes down to a few sensible rules. |
+
+> To some extent, yeah. Things like no phones while driving make total sense. Whereas banning them everywhere would be too much. So it comes down to a few sensible rules.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+
+**Q5. What are examples of good and poor phone manners?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 好 礼貌 是 当 你 跟 人 在 一起 时 把 手机 收 起来。 | Good manners is putting your phone away when you're with people. |
+| 3 | 而 差 礼貌 是 当 某人 在 跟 你 说话 时 刷 手机。 | Whereas poor manners is scrolling while someone's talking to you. |
+| 4 | 所以 它 归结到 一点点 尊重。 | So it comes down to a bit of respect. |
+
+> A few, really. Good manners is putting your phone away when you're with people. Whereas poor manners is scrolling while someone's talking to you. So it comes down to a bit of respect.
+
+> 🔁 **复用**：`A few, really`+`putting your phone away`+`scrolling`(老08)+`whereas`+`comes down to`。
+
+**Q6. How does the internet benefit people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 你 能 在 网上 找到 所有 答案，从 教程 到 新闻。 | You can find all the answers online, from tutorials to news. |
+| 3 | 除此之外，它 让 你 跟 任何地方 的 人 保持 连接。 | On top of that, it keeps you connected with people anywhere. |
+| 4 | 所以 说实话，它 让 生活 容易 太多。 | So honestly, it's made life much easier. |
+
+> Loads of ways, really. You can find all the answers online, from tutorials to news. On top of that, it keeps you connected with people anywhere. So honestly, it's made life much easier.
+
+> 🔁 **复用**：`Loads of ways, really`+`find all the answers online`(新18-Q3)+`tutorials`(新15)+`On top of that`+`honestly`。
+
+**P3 句型/模板（复用池）**：`Quite differently, I'd say` / `pick new apps up instantly` / `comes down to what they grew up with` · `a bit of a mixed bag, honestly` / `nothing beats meeting in person` / `comes down to how you use it` · `Not really, no` / `overdoing it` · `To some extent, yeah` · `A few, really` / `putting your phone away` / `scrolling` · `Loads of ways, really` / `find all the answers online`。
+
+---
+
+## P2-老04 · A time you gave advice to others — 劝妻子别硬扛工作（Event/Person）  〔复用生成〕
+
+> **Cue**: 何时 / 给谁 / 什么建议 / 为何给 · 题型 Event/Person
+>
+> 🔁 **整卡复用自**：wife(a lot on her plate/pushing herself 新15) + 张伟(sat down) + 新18(slow down) + 新21(ask for help) + 新11(share the load/spoke up) + 新12(glad I)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 给 我 老婆 一些 关于 工作 的 建议。 | The time I'd like to talk about is when I gave my wife some advice about work. |
+| 2 | 她 真的 很 勤奋，而 前阵子 她 手头 一大堆 事。 | She's really hardworking, and a while back she had a lot on her plate. |
+| 3 | 她 揽 了 太多——工作、我们的 儿子、一切——还 累 垮 了。 | She was taking on too much — work, our son, everything — and getting worn out. |
+| 4 | 一个 晚上，我 跟 她 坐下、温和地 说 她 该 慢下来。 | One evening, I sat down with her and gently said she should slow down. |
+| 5 | 我 告诉 她 她 不必 全都 自己 做，还 可以 求助。 | I told her she didn't have to do it all herself, and could ask for help. |
+| 6 | 我 说 它 的 原因 是 我 看得出 她 把 自己 逼 得 太 狠。 | The reason I said it is that I could see she was pushing herself too hard. |
+| 7 | 她 一开始 有点 不情愿——她 讨厌 让 人 失望。 | She was a bit reluctant at first — she hates letting people down. |
+| 8 | 但 过 一会儿，她 开始 分担 那 担子，而 她 看起来 更 开心。 | But after a while, she started sharing the load, and she seemed happier. |
+| 9 | 说实话，我 只是 庆幸 她 听 了。 | Honestly, I was just glad she listened. |
+| 10 | 所以 对我，它 是 一个 我 真的 庆幸 我 说 出来 的 时刻。 | So for me, it's a time I'm really glad I spoke up. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I gave my wife some advice about work. She's really hardworking, and a while back she had a lot on her plate. She was taking on too much — work, our son, everything — and getting worn out. One evening, I sat down with her and gently said she should slow down. I told her she didn't have to do it all herself, and could ask for help. The reason I said it is that I could see she was pushing herself too hard. She was a bit reluctant at first — she hates letting people down. But after a while, she started sharing the load, and she seemed happier. Honestly, I was just glad she listened. So for me, it's a time I'm really glad I spoke up.
+
+> 🔁 **复用**：句2 `a lot on her plate`(新15)；句4 `sat down`(张伟)+`slow down`(新18)；句5 `ask for help`(新21)；句6 `The reason … is`+`pushing herself`(新15)；句8 `sharing the load`(新11-Q5)；句10 `glad I`(新12)+`spoke up`(新11)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I gave my wife some advice` · `she had a lot on her plate` · `I sat down with her and gently said she should slow down` · `The reason I said it is that I could see she was pushing herself too hard` · `I'm really glad I spoke up`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Should people prepare before giving advice?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 如果 你 不 懂 那 情况，你的 建议 可能 帮 倒忙。 | If you don't understand the situation, your advice can do more harm than good. |
+| 3 | 而 花 一会儿 先 听 让 它 有用 得 多。 | Whereas taking a moment to listen first makes it far more useful. |
+| 4 | 所以 它 归结到 说 之前 先 想。 | So it comes down to thinking before you speak. |
+
+> Absolutely, I think so. If you don't understand the situation, your advice can do more harm than good. Whereas taking a moment to listen first makes it far more useful. So it comes down to thinking before you speak.
+
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`comes down to`。
+
+**Q2. Is it good to ask advice from strangers online?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 好的一面，你 很快 得到 一大堆 不同的 观点。 | On the plus side, you get loads of different views quickly. |
+| 3 | 另一方面，陌生人 不 了解 你的 情况，所以 它 可能 差 得 远。 | On the other hand, strangers don't know your situation, so it can be way off. |
+| 4 | 所以 它 归结到 别 全 信、留 个 心眼。 | So it comes down to taking it with a pinch of salt. |
+
+> It's a bit of a mixed bag, honestly. On the plus side, you get loads of different views quickly. On the other hand, strangers don't know your situation, so it can be way off. So it comes down to taking it with a pinch of salt.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`On the plus side … On the other hand`(新07-Q3)+`comes down to`。
+
+**Q3. What are the personalities of people whose job is to give advice to others?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 有 耐心、还 是 好 听众，我会说。 | Mainly patient and good listeners, I'd say. |
+| 2 | 他们 保持 冷静、还 在 说 之前 真的 理解 你的 情况。 | They stay calm and really understand your situation before speaking. |
+| 3 | 而 一个 咄咄逼人的 人 只 告诉 你 该 做 什么。 | Whereas a pushy person just tells you what to do. |
+| 4 | 所以 它 归结到 听 多过 说。 | So it comes down to listening more than talking. |
+
+> Mainly patient and good listeners, I'd say. They stay calm and really understand your situation before speaking. Whereas a pushy person just tells you what to do. So it comes down to listening more than talking.
+
+> 🔁 **复用**：`Mainly … I'd say`+`stay calm`(张伟)+`pushy`(老24)+`whereas`+`comes down to`。
+
+**Q4. What are the problems if you ask too many people for advice?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 每个人 说 的 不 一样，所以 你 最后 更 困惑。 | Everyone says something different, so you end up more confused. |
+| 3 | 而 一两个 信得过 的 人 通常 就 够了。 | Whereas one or two trusted people is usually enough. |
+| 4 | 所以 它 归结到 别 想 太多。 | So it comes down to not overthinking it. |
+
+> Loads, honestly. Everyone says something different, so you end up more confused. Whereas one or two trusted people is usually enough. So it comes down to not overthinking it.
+
+> 🔁 **复用**：`Loads, honestly`+`whereas`+`overthinking it`(新23)+`comes down to`。
+
+**Q5. Why do some people think it is better to ask for advice from friends than from parents?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 朋友 年纪 感觉 更 近，我会说。 | Mainly because friends feel closer in age, I'd say. |
+| 2 | 他们 在 一个 频道上，所以 他们 懂。 | They're on the same wavelength, so they get it. |
+| 3 | 而 父母 有时 会 感觉 有点 爱 评判。 | Whereas parents can feel a bit judgemental sometimes. |
+| 4 | 所以 它 归结到 他们 跟 谁 感觉 自在。 | So it comes down to who they feel comfortable with. |
+
+> Mainly because friends feel closer in age, I'd say. They're on the same wavelength, so they get it. Whereas parents can feel a bit judgemental sometimes. So it comes down to who they feel comfortable with.
+
+> 🔁 **复用**：`Mainly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`who they feel comfortable with`(新26-Q4)。
+
+**Q6. When would old people ask young people for advice?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 关于 科技，我会说。 | Mostly with technology, I'd say. |
+| 2 | 我 父母 一直 问 我 关于 他们的 手机 和 app。 | My parents ask me about their phones and apps all the time. |
+| 3 | 而 至于 人生 建议，他们 仍然 最 懂。 | Whereas for life advice, they still know best. |
+| 4 | 所以 它 归结到 谁 更 擅长 什么。 | So it comes down to who's better at what. |
+
+> Mostly with technology, I'd say. My parents ask me about their phones and apps all the time. Whereas for life advice, they still know best. So it comes down to who's better at what.
+
+> 🔁 **复用**：`Mostly … I'd say`+`my parents … apps`(老08-Q2)+`whereas`+`know best`(新10-Q3)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `whereas` / `comes down to thinking before you speak` · `a bit of a mixed bag, honestly` / `On the plus side … On the other hand` · `Mainly patient …, I'd say` / `stay calm` / `pushy` · `Loads, honestly` / `overthinking it` · `Mainly … I'd say` / `on the same wavelength` / `who they feel comfortable with` · `Mostly with technology, I'd say` / `know best`。
+
+---
+
+## P2-老05 · A piece of technology you'd like to own — 高端 3D 打印机（Object）  〔你的版 P2 · 未改 + 复用 P3〕
+
+> **Cue**: 是什么 / 多少钱 / 怎么知道 / 为何想要 · 题型 Object
+>
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 高端 3D 打印机 · 首次全 cold 里程碑）——3D 打印机池源头。**6 道 P3 = 按你的池复用生成**。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 想 拥有 的 一件 科技产品 是 一台 高端的 3D 打印机。 | One piece of technology I'd like to own is a high-end 3D printer. |
+| 2 | 我 入 这个 坑 是 通过 我 一个 同事，（他 真的 很 迷 3D 打印）——他 甚至 用 零件 造 了 他 自己的 机器。 | I got into it through a colleague of mine, who's really into 3D printing — he even built his own machine from spare parts. |
+| 3 | 他 给 我 看 他 那台 能 做 什么，而 我 立刻 就 上瘾了。 | He showed me what his one could do, and I was hooked straight away. |
+| 4 | 据 我 所知，一台 入门级 的 大约 花 四千 块。 | As far as I know, an entry-level one costs around four thousand yuan. |
+| 5 | 它 挺 贵，但 我 觉得 它 会 完全 值得。 | It's pretty expensive, but I think it'd be completely worth it. |
+| 6 | 有 几个 原因 我 想 拥有 一台。 | There are a couple of reasons why I'd like to own one. |
+| 7 | 首先，它 能 打印 各种 玩具，比如 五彩的 恐龙、乐高 积木、那种 东西。 | First, it can print all sorts of toys, like colourful dinosaurs, Lego blocks, that kind of thing. |
+| 8 | 除此之外，它 是 一个 偷偷的 方式、[去]让 我 儿子 对 工程 感兴趣——他 能 看到 屏幕上 的 一个 东西 怎么 变成 一个 真的 物体。 | On top of that, it's a sneaky way to get my son interested in engineering — he could see how something on the screen turns into a real object. |
+| 9 | 让 它 出众的 是 一台 3D 打印机 其实 是 我们 俩 的 一个 巨大的 玩具。 | What makes it stand out is that a 3D printer is really a giant toy for both of us. |
+| 10 | 周末，我 儿子 坐 在 我 旁边，我们 一起 设计 一个 模型，然后 那 打印机 一层一层 把 它 造 出来。 | On weekends, my son sits right next to me, we design a model together, and the printer builds it layer by layer. |
+| 11 | 所以 它 会 让 我们 亲近 得 多。 | So it'd bring us much closer. |
+
+### ②P2 整段（shadow）
+
+> One piece of technology I'd like to own is a high-end 3D printer. I got into it through a colleague of mine, who's really into 3D printing — he even built his own machine from spare parts. He showed me what his one could do, and I was hooked straight away. As far as I know, an entry-level one costs around four thousand yuan. It's pretty expensive, but I think it'd be completely worth it. There are a couple of reasons why I'd like to own one. First, it can print all sorts of toys, like colourful dinosaurs, Lego blocks, that kind of thing. On top of that, it's a sneaky way to get my son interested in engineering — he could see how something on the screen turns into a real object. What makes it stand out is that a 3D printer is really a giant toy for both of us. On weekends, my son sits right next to me, we design a model together, and the printer builds it layer by layer. So it'd bring us much closer.
+
+### 句型/模板（你自己的）
+
+- `One piece of technology I'd like to own is …` · `I got into it through a colleague of mine, who's really into … — he even built his own …` · `I was hooked straight away` · `it's a sneaky way to get my son interested in engineering` · `What makes it stand out is that …` · `the printer builds it layer by layer` · `it'd bring us much closer`
+
+---
+
+### ①P3 拆解 + ②整段（按你的池复用生成）
+
+**Q1. What are the differences between the technology of the past and that of today?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大 不同，我 觉得。 | Massively different, I reckon. |
+| 2 | 现在 一切 都 更 快、更 连通——你 几乎 任何 东西 都 能 在 手机上 做。 | Everything's faster and connected now — you can do almost anything on your phone. |
+| 3 | 而 在 过去，人们 靠 信 和 座机。 | Whereas in the past, people relied on letters and landlines. |
+| 4 | 所以 它 归结到 生活 变 得 快 了 多少。 | So it comes down to how much faster life's become. |
+
+> Massively different, I reckon. Everything's faster and connected now — you can do almost anything on your phone. Whereas in the past, people relied on letters and landlines. So it comes down to how much faster life's become.
+
+> 🔁 **复用**：`Massively … I reckon`(新07-Q6)+`whereas`+`comes down to`。
+
+**Q2. What technology do young people like to use?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 他们的 手机，我会说。 | Mostly their phones, I'd say. |
+| 2 | 他们 粘 在 app 上——通讯、短视频、游戏，那种 东西。 | They're glued to apps — messaging, short videos, gaming, that kind of thing. |
+| 3 | 而 老年人 坚持 那些 基础。 | Whereas older folk stick to the basics. |
+| 4 | 所以 它 归结到 他们 是 伴随 什么 长大的。 | So it comes down to what they grew up with. |
+
+> Mostly their phones, I'd say. They're glued to apps — messaging, short videos, gaming, that kind of thing. Whereas older folk stick to the basics. So it comes down to what they grew up with.
+
+> 🔁 **复用**：`Mostly … I'd say`+`glued to`(新16-Q3 glued to screens)+`that kind of thing`+`whereas older folk`+`comes down to what they grew up with`(老08-Q1)。
+
+**Q3. What are the differences between online and face-to-face communication?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 网上 方便——你 能 从 任何地方、在 任何时候 聊。 | Online's convenient — you can chat from anywhere, at any time. |
+| 3 | 但 面对面 有 一种 温暖、（那种 你 就是 在 网上 得不到 的）。 | But face-to-face has a warmth you just can't get online. |
+| 4 | 所以 说实话，没 什么 比得过 面对面 见面。 | So honestly, nothing beats meeting in person. |
+
+> Quite a few, actually. Online's convenient — you can chat from anywhere, at any time. But face-to-face has a warmth you just can't get online. So honestly, nothing beats meeting in person.
+
+> 🔁 **复用**：`from anywhere, at any time`+`a warmth you just can't get online`(新07-Q4 逐字)+`nothing beats meeting in person`(新07-Q3)。
+
+**Q4. Do you think technology has changed the way people communicate?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，是的。 | Massively, yeah. |
+| 2 | 我们 以前 面对面 见面，但 现在 大多 是 发短信 和 点赞。 | We used to meet up in person, but now it's mostly texting and likes. |
+| 3 | 它 让 保持 联系 容易 太多，而 那些 纽带 会 感觉 有点 肤浅。 | It's much easier to stay in touch, whereas the bonds can feel a bit shallow. |
+| 4 | 所以 我会说 它 归结到 我们 怎么 用 它。 | So I'd say it comes down to how we use it. |
+
+> Massively, yeah. We used to meet up in person, but now it's mostly texting and likes. It's much easier to stay in touch, whereas the bonds can feel a bit shallow. So I'd say it comes down to how we use it.
+
+> 🔁 **复用**：全套复用 新07-Q6（`Massively, yeah` / `used to meet up in person … texting and likes` / `comes down to how we use it` 逐字）+`whereas`。
+
+**Q5. What negative effects does technology have on people's relationships?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，说实话。 | A few, honestly. |
+| 2 | 人们 花 这么 多 时间 在 屏幕 上，以至于 他们 忽略 旁边 的 人。 | People spend so much time on screens that they ignore the person next to them. |
+| 3 | 而 网上 的 友谊 会 感觉 有点 肤浅、脆弱。 | Whereas online friendships can feel a bit shallow and fragile. |
+| 4 | 所以 它 归结到 别 让 它 取代 真实的 接触。 | So it comes down to not letting it replace real contact. |
+
+> A few, honestly. People spend so much time on screens that they ignore the person next to them. Whereas online friendships can feel a bit shallow and fragile. So it comes down to not letting it replace real contact.
+
+> 🔁 **复用**：`ignore … next to them`(老08-Q5 ignore the real world)+`whereas`+`shallow and fragile`(新07-Q3)+`replace`(新07-Q4)+`comes down to`。
+
+**Q6. What are the differences between making friends in real life and online?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，我会说。 | Quite a few, I'd say. |
+| 2 | 现实 里，你 随 时间 建立 一个 正经的 纽带，而 网上 更 快 但 更 浅。 | In real life, you build a proper bond over time, whereas online it's quicker but shallower. |
+| 3 | 网上 你 能 在 任何地方 认识 人，（那 是 一个 好处）。 | Online you can meet people anywhere, which is a plus. |
+| 4 | 但 说实话，现实 的 友谊 通常 更 深。 | But honestly, real-life friendships usually run deeper. |
+
+> Quite a few, I'd say. In real life, you build a proper bond over time, whereas online it's quicker but shallower. Online you can meet people anywhere, which is a plus. But honestly, real-life friendships usually run deeper.
+
+> 🔁 **复用**：`Quite a few, I'd say`+`the bonds you build`(新07-Q3)+`whereas`+`honestly`。
+
+**P3 句型/模板（复用池）**：`Massively different, I reckon` / `whereas` · `Mostly their phones, I'd say` / `glued to apps` / `comes down to what they grew up with` · `Quite a few, actually` / `a warmth you just can't get online` / `nothing beats meeting in person` · `Massively, yeah` / `texting and likes` / `comes down to how we use it` · `A few, honestly` / `shallow and fragile` · `build a proper bond over time` / `run deeper`。
+
+---
+
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
