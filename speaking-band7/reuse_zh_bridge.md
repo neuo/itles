@@ -5452,3 +5452,237 @@
 > Mainly their hobbies and health, I'd say. People tend to pay much more for what they really love — for a foodie, that's a fancy meal; for a gamer, a top-end PC. They see it as money well spent, not a waste. As for health, you can't really put a price on it — without it, nothing else matters. So people will happily splash out on a reliable car, a gym membership, or good food.
 
 ---
+
+## P2-老21 · A time you encouraged someone — 鼓励妻子跑首场 10K（Event）  〔复用生成〕
+
+> **Cue**: 是谁 / 鼓励做什么 / 反应如何 / 为何鼓励 · 题型 Event
+>
+> 🔁 **整卡复用自**：新04 老婆晨跑(really into fitness) + wife + son + 新15(how hard she'd trained/pushing herself) + 新14(over the moon) + 新12(glad I)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 鼓励 我 老婆 去 跑 她 头一场 10公里。 | The time I'd like to talk about is when I encouraged my wife to run her first 10K. |
+| 2 | 她 真的 很 迷 健身，而 她 大多 早晨 都 去 跑步。 | She's really into fitness, and she goes running most mornings. |
+| 3 | 但 当 一场 10公里 比赛 出现，她 一直 拖着 它——内心深处 她 紧张。 | But when a 10K race came up, she kept putting it off — deep down she was nervous. |
+| 4 | 她 觉得 她 不够 好，即使 她 一直 训练。 | She thought she wasn't good enough, even though she trains all the time. |
+| 5 | 所以 我 温和地 一直 鼓励 她，还 提醒 她 她 训练 得 多 刻苦。 | So I gently kept encouraging her, and reminded her how hard she'd trained. |
+| 6 | 我 也 提出 带 我们 儿子 一起 去 给 她 加油。 | I also offered to bring our son along to cheer her on. |
+| 7 | 我 推 她 的 原因 是 我 看得出 她 真的 想 它。 | The reason I pushed her is that I could see she really wanted it. |
+| 8 | 她 一开始 犹豫，但 最后 她 报了名、还 跑 完 了 全程。 | She was hesitant at first, but in the end she signed up and ran the whole thing. |
+| 9 | 说实话，她 事后 高兴 坏了。 | Honestly, she was over the moon afterwards. |
+| 10 | 所以 对我，它 是 一个 我 真的 庆幸 我 鼓励 了 她 的 时刻。 | So for me, it was a time I'm really glad I encouraged her. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when I encouraged my wife to run her first 10K. She's really into fitness, and she goes running most mornings. But when a 10K race came up, she kept putting it off — deep down she was nervous. She thought she wasn't good enough, even though she trains all the time. So I gently kept encouraging her, and reminded her how hard she'd trained. I also offered to bring our son along to cheer her on. The reason I pushed her is that I could see she really wanted it. She was hesitant at first, but in the end she signed up and ran the whole thing. Honestly, she was over the moon afterwards. So for me, it was a time I'm really glad I encouraged her.
+
+> 🔁 **复用**：句2 `really into fitness`(新04)；句3 `putting it off`+`nervous`；句7 `The reason I pushed her is`(+pushing 新15)；句9 `over the moon`(新14)；句10 `glad I`(新12)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when I encouraged my wife to …` · `she kept putting it off — deep down she was nervous` · `I gently kept encouraging her, and reminded her how hard she'd trained` · `The reason I pushed her is that I could see she really wanted it` · `she was over the moon afterwards`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. How can leaders encourage their employees?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 靠 以身作则，我会说。 | Mainly by leading by example, I'd say. |
+| 2 | 如果 一个 老板 努力 工作、还 表扬 好 工作，人们 更 卖力 推。 | If a boss works hard and praises good work, people push harder. |
+| 3 | 此外，认可 比 只是 钱 更 要紧。 | Plus, recognition matters more than just money. |
+| 4 | 所以 它 归结到 让 人 感觉 被 重视。 | So it comes down to making people feel valued. |
+
+> Mainly by leading by example, I'd say. If a boss works hard and praises good work, people push harder. Plus, recognition matters more than just money. So it comes down to making people feel valued.
+
+> 🔁 **复用**：`Mainly by … example, I'd say`(新06-Q6)+`Plus`+`not just money`(老20)+`comes down to`。
+
+**Q2. When should parents encourage their children?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 当 他们 就要 放弃，我会说。 | Mostly when they're about to give up, I'd say. |
+| 2 | 孩子 常常 怀疑 自己、在 他们 甚至 试过 之前。 | Kids often doubt themselves before they've even tried. |
+| 3 | 而 对 的 时间 一个 小 推动 真的 算。 | Whereas a little push at the right time really counts. |
+| 4 | 所以 它 归结到 知道 什么时候 介入。 | So it comes down to knowing when to step in. |
+
+> Mostly when they're about to give up, I'd say. Kids often doubt themselves before they've even tried. Whereas a little push at the right time really counts. So it comes down to knowing when to step in.
+
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`push`(新15)+`comes down to`。
+
+**Q3. What kind of encouragement should parents give?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 表扬 努力，不是 结果，我会说。 | Mainly praising effort, not results, I'd say. |
+| 2 | 如果 你 只 在 他们 赢 时 欢呼，他们 会 害怕 失败。 | If you only cheer when they win, they'll dread failing. |
+| 3 | 而 表扬 那 努力 建立 真正的 自信。 | Whereas praising the effort builds real confidence. |
+| 4 | 所以 它 归结到 鼓励 他们 一直 试。 | So it comes down to encouraging them to keep trying. |
+
+> Mainly praising effort, not results, I'd say. If you only cheer when they win, they'll dread failing. Whereas praising the effort builds real confidence. So it comes down to encouraging them to keep trying.
+
+> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`builds … confidence`(新11-Q5)+`keep trying`(老10-Q2)+`comes down to`。
+
+**Q4. Do you think some people are better than others at persuading?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 有些人 就是 把 人 读得 好、还 知道 该 说 什么。 | Some people just read others well and know what to say. |
+| 3 | 而 另一些 显得 咄咄逼人。 | Whereas others come across as pushy. |
+| 4 | 但 它 也 归结到 练习——你 越 做 越 好。 | But it comes down to practice too — you get better at it. |
+
+> Absolutely, I think so. Some people just read others well and know what to say. Whereas others come across as pushy. But it comes down to practice too — you get better at it.
+
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`come across as`(新22)+`pushy`(老24)+`comes down to`。
+
+**Q5. Should children do everything their parents ask them to do?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不 总是，不。 | Not always, no. |
+| 2 | 他们 该 听 大多数 合理的 事，因为 父母 通常 最 懂。 | They should listen to most reasonable things, since parents usually know best. |
+| 3 | 而 盲目 服从 不 健康——孩子 需要 为 自己 想。 | Whereas blindly obeying isn't healthy — kids need to think for themselves. |
+| 4 | 所以 它 归结到 一点 平衡。 | So it comes down to a bit of balance. |
+
+> Not always, no. They should listen to most reasonable things, since parents usually know best. Whereas blindly obeying isn't healthy — kids need to think for themselves. So it comes down to a bit of balance.
+
+> 🔁 **复用**：`Not always, no`+`know best`(新10-Q3)+`whereas`+`think for themselves`(新16)+`comes down to`。
+
+**Q6. How can employers encourage their staff?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 方式，真的。 | A few ways, really. |
+| 2 | 除了 一份 像样的 薪水，人们 想要 真正的 机会 [去]成长。 | Beyond a decent salary, people want real chances to grow. |
+| 3 | 除此之外，灵活的 工时 和 被 当作 一个 人 对待 要紧。 | On top of that, flexible hours and being treated like a person matter. |
+| 4 | 所以 它 归结到 不 止 报酬。 | So it comes down to more than just pay. |
+
+> A few ways, really. Beyond a decent salary, people want real chances to grow. On top of that, flexible hours and being treated like a person matter. So it comes down to more than just pay.
+
+> 🔁 **复用**：`A few ways, really`+`On top of that`+`comes down to`+`not just money`(老20)。
+
+**P3 句型/模板（复用池）**：`Mainly by leading by example, I'd say` / `not just money` · `Mostly when they're about to give up, I'd say` / `a little push` · `Mainly praising effort, not results, I'd say` / `builds real confidence` · `Absolutely, I think so` / `come across as pushy` · `Not always, no` / `know best` / `think for themselves` · `A few ways, really` / `more than just pay`。
+
+---
+
+## P2-老22 · A short-term job you'd like in a foreign country — 日本小书店（Object/hypo）  〔复用生成〕
+
+> **Cue**: 在哪 / 怎么知道 / 是什么工作 / 为何想做 · 题型 Object/hypo
+>
+> 🔁 **整卡复用自**：新18 京都(been to Kyoto/wander around/slows you down) + 新02(really into sci-fi/book lover) + 新15(pick up/wife 学日语) + 老12(the freedom)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那份 工作 是 帮着 经营 一家 小 书店、在 日本、几个月。 | The job I'd like to talk about is helping run a small bookshop in Japan for a few months. |
+| 2 | 我 去过 京都 几次，而 我 爱 在 那儿 逛 那些 小 店。 | I've been to Kyoto a few times, and I love wandering around the little shops there. |
+| 3 | 我 就 会 幻想 在 它们 之一 的 柜台 后面 工作。 | I'd just daydream about working behind the counter in one of them. |
+| 4 | 那 工作 本身 会 挺 简单——上 书架、还 跟 顾客 聊天。 | The work itself would be simple — shelving books and chatting with customers. |
+| 5 | 让 它 正 合 我 的 是 我 是 一个 巨大的 书 爱好者，尤其 科幻。 | What makes it right for me is that I'm a massive book lover, especially sci-fi. |
+| 6 | 除此之外，我 会 得以 像 一个 当地人 那样 生活、而不是 一个 游客。 | On top of that, I'd get to live like a local rather than a tourist. |
+| 7 | 我 能 吸收 那 文化、还 捡 起 一点 日语。 | I could soak up the culture and pick up a bit of Japanese. |
+| 8 | 我 老婆 在 学 日语，所以 她 也 会 很爱 它。 | My wife's learning Japanese, so she'd love it too. |
+| 9 | 说实话，最 吸引 我的 是 那 节奏 的 改变——它 让 你 慢下来。 | Honestly, what appeals to me most is the change of pace — it slows you down. |
+| 10 | 所以 对我，它 有点 是 一个 梦，但 我 会 立刻 抓住 那 机会。 | So for me, it's a bit of a dream, but I'd jump at the chance. |
+
+### ②P2 整段（shadow）
+
+> The job I'd like to talk about is helping run a small bookshop in Japan for a few months. I've been to Kyoto a few times, and I love wandering around the little shops there. I'd just daydream about working behind the counter in one of them. The work itself would be simple — shelving books and chatting with customers. What makes it right for me is that I'm a massive book lover, especially sci-fi. On top of that, I'd get to live like a local rather than a tourist. I could soak up the culture and pick up a bit of Japanese. My wife's learning Japanese, so she'd love it too. Honestly, what appeals to me most is the change of pace — it slows you down. So for me, it's a bit of a dream, but I'd jump at the chance.
+
+> 🔁 **复用**：句2 `been to Kyoto … wandering around`(新18)；句5 `book lover, especially sci-fi`(新02)；句6 `On top of that`；句7 `pick up`(新15)；句8 wife 学日语(新15)；句9 `slows you down`(新18)。
+
+### 句型/模板（复用池）
+
+- `The job I'd like to talk about is helping run a small bookshop in Japan` · `I love wandering around the little shops there` · `What makes it right for me is that I'm a massive book lover, especially sci-fi` · `I'd get to live like a local rather than a tourist` · `what appeals to me most is the change of pace — it slows you down` · `I'd jump at the chance`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What short-term jobs do young people do in other countries?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 一大堆 教 他们 自己的 语言、在 滑雪 度假村 工作、或 做 咖啡馆 班。 | Loads teach their own language, work at ski resorts, or do café shifts. |
+| 3 | 除此之外，农场 摘 水果 也 受欢迎。 | On top of that, fruit-picking on farms is popular. |
+| 4 | 所以 它 归结到 无论 什么 资助 他们的 旅行。 | So it comes down to whatever funds their travels. |
+
+> All sorts, really. Loads teach their own language, work at ski resorts, or do café shifts. On top of that, fruit-picking on farms is popular. So it comes down to whatever funds their travels.
+
+> 🔁 **复用**：`All sorts, really`+`On top of that`+`comes down to`。
+
+**Q2. What challenges do young people face when working abroad?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 大 的，真的。 | A few big ones, really. |
+| 2 | 那 最大的 是 那 语言 障碍——甚至 点 餐 都 是 一场 挣扎。 | The biggest is the language barrier — even ordering food is a struggle. |
+| 3 | 除此之外，有 思乡，被 从 家人 切断。 | On top of that, there's homesickness, being cut off from family. |
+| 4 | 所以 它 归结到 在 远离 家 的 地方 应付。 | So it comes down to coping far from home. |
+
+> A few big ones, really. The biggest is the language barrier — even ordering food is a struggle. On top of that, there's homesickness, being cut off from family. So it comes down to coping far from home.
+
+> 🔁 **复用**：`A few big ones, really`+`On top of that`+`cut off from family`(新07-Q1)+`comes down to`。
+
+**Q3. What are the benefits of working for an international company?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，说实话。 | Loads, honestly. |
+| 2 | 你 遇到 来自 各行各业 的人、还 学 新 的 工作 方式。 | You meet people from all walks of life and learn new ways of working. |
+| 3 | 此外，它 在 你的 简历 上 看起来 很棒。 | Plus, it looks great on your CV. |
+| 4 | 所以 它 归结到 拓宽 你的 眼界。 | So it comes down to broadening your horizons. |
+
+> Loads, honestly. You meet people from all walks of life and learn new ways of working. Plus, it looks great on your CV. So it comes down to broadening your horizons.
+
+> 🔁 **复用**：`Loads, honestly`+`Plus`+`broaden`(老27-Q6 broaden your mind)+`comes down to`。
+
+**Q4. What personal skills are required to work in an international company?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 沟通 排 第一——你 得 把 你的 观点 清楚 地 传 出去。 | Communication comes top — you've got to get your point across clearly. |
+| 3 | 除此之外，你 需要 耐心 和 一个 开放的 心态。 | On top of that, you need patience and an open mind. |
+| 4 | 所以 它 归结到 有 适应性。 | So it comes down to being adaptable. |
+
+> A few, really. Communication comes top — you've got to get your point across clearly. On top of that, you need patience and an open mind. So it comes down to being adaptable.
+
+> 🔁 **复用**：`A few, really`+`On top of that`+`an open mind`(新15-Q4)+`comes down to`。
+
+**Q5. What kind of work can young people do in foreign countries?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大多 是 招待业，我会说。 | Mostly hospitality, I'd say. |
+| 2 | 像 端 盘子、调 酒、或 教 英语。 | Things like waiting tables, bartending, or teaching English. |
+| 3 | 而 有些 做 动手的 活，比如 农场 劳作。 | Whereas some do hands-on stuff like farm work. |
+| 4 | 所以 它 归结到 他们 能 快 上手 什么。 | So it comes down to what they can pick up quickly. |
+
+> Mostly hospitality, I'd say. Things like waiting tables, bartending, or teaching English. Whereas some do hands-on stuff like farm work. So it comes down to what they can pick up quickly.
+
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`hands-on`(新16)+`pick up`(新15)+`comes down to`。
+
+**Q6. Why are some people unwilling to work in other countries?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 他们 被 离开 家 吓到，我会说。 | Mainly because they're daunted by leaving home, I'd say. |
+| 2 | 他们 宁愿 待 在 家人 附近、也不 在 某个 陌生 地方 从零 开始。 | They'd rather stay near family than start from scratch somewhere strange. |
+| 3 | 此外，那 语言 和 文书 让 人 却步。 | Plus, the language and paperwork put people off. |
+| 4 | 所以 它 归结到 对 未知 的 恐惧。 | So it comes down to fear of the unknown. |
+
+> Mainly because they're daunted by leaving home, I'd say. They'd rather stay near family than start from scratch somewhere strange. Plus, the language and paperwork put people off. So it comes down to fear of the unknown.
+
+> 🔁 **复用**：`Mainly … I'd say`+`Plus`+`put people off`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`All sorts, really` / `funds their travels` · `A few big ones, really` / `cut off from family` · `Loads, honestly` / `broadening your horizons` · `A few, really` / `an open mind` · `Mostly hospitality, I'd say` / `hands-on` / `pick up quickly` · `Mainly … daunted …, I'd say` / `put people off`。
+
+---
