@@ -3149,6 +3149,240 @@
 
 ---
 
+## P2-老01 · A perfect job you'd like — 自主灵活的技术角色（Object/Job）  〔复用生成〕
+
+> **Cue**: 是什么 / 怎么知道 / 需学什么 / 为何完美 · 题型 Object/Job
+>
+> 🔁 **整卡复用自**：新16(I'm a software engineer) + 老12(the freedom / stuck to a schedule) + 新24(build something of my own) + 新15(keep learning/chip away) + 新09(doing something you love) + 老20(money isn't the main thing)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 想要 的 那份 完美 工作 是 一个 灵活、独立 的 技术 角色。 | The perfect job I'd like is a flexible, independent role in tech. |
+| 2 | 我 已经 是 一个 软件 工程师，所以 它 不 会 是 一个 巨大的 改变——只是 更 多 自由。 | I'm a software engineer already, so it wouldn't be a huge change — just more freedom. |
+| 3 | 基本上，我 很想 做 我 自己的 项目，按 我 自己的 节奏，从 任何 地方。 | Basically, I'd love to work on my own projects, at my own pace, from anywhere. |
+| 4 | 让 它 完美的 是 我 不 会 被 一个 固定 日程 拴住。 | What makes it perfect is that I wouldn't be stuck to a fixed schedule. |
+| 5 | 我 能 花 更多 时间 跟 我 老婆 和 儿子，而不是 一整天 在 一个 办公室 里。 | I could spend more time with my wife and son, instead of being in an office all day. |
+| 6 | 为了 到 那儿，我 知道 我 得 一直 学、还 啃 掉 新 技能。 | To get there, I know I'd have to keep learning and chip away at new skills. |
+| 7 | 它 吸引 我 的 原因 是 那 自由 和 做 我 热爱 的 事 的 混合。 | The reason it appeals to me is the mix of freedom and doing something I love. |
+| 8 | 说实话，钱 不 是 那 主要 的——它 关于 平衡。 | Honestly, money isn't the main thing — it's about balance. |
+| 9 | 我 一直 想 有一天 建 一个 我 自己的 东西。 | I've always wanted to build something of my own one day. |
+| 10 | 所以 对我，那种 角色 会 是 那个 梦想。 | So for me, that kind of role would be the dream. |
+
+### ②P2 整段（shadow）
+
+> The perfect job I'd like is a flexible, independent role in tech. I'm a software engineer already, so it wouldn't be a huge change — just more freedom. Basically, I'd love to work on my own projects, at my own pace, from anywhere. What makes it perfect is that I wouldn't be stuck to a fixed schedule. I could spend more time with my wife and son, instead of being in an office all day. To get there, I know I'd have to keep learning and chip away at new skills. The reason it appeals to me is the mix of freedom and doing something I love. Honestly, money isn't the main thing — it's about balance. I've always wanted to build something of my own one day. So for me, that kind of role would be the dream.
+
+> 🔁 **复用**：句2 `I'm a software engineer`(新16)+`freedom`(老12)；句4 `stuck to a … schedule`(老12)；句6 `keep learning`+`chip away`(新15)；句7 `the freedom`+`doing something I love`(新09)；句8 `money isn't the main thing`(老20)+`it's about`(新14)；句9 `build something of my own`(新24)。
+
+### 句型/模板（复用池）
+
+- `The perfect job I'd like is a flexible, independent role in tech` · `What makes it perfect is that I wouldn't be stuck to a fixed schedule` · `The reason it appeals to me is the mix of freedom and doing something I love` · `money isn't the main thing — it's about balance`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What kind of job can be called a 'dream job'?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 取决于 那个 人，真的。 | It depends on the person, really. |
+| 2 | 对 大多数人，它 是 一个 他们 享受、又 报酬 不错 的 东西。 | For most people, it's something they enjoy that also pays well. |
+| 3 | 而 对 另一些，它 更 关于 自由 或 帮 人。 | Whereas for others, it's more about freedom or helping people. |
+| 4 | 所以 它 归结到 对 你 什么 最 要紧。 | So it comes down to what matters most to you. |
+
+> It depends on the person, really. For most people, it's something they enjoy that also pays well. Whereas for others, it's more about freedom or helping people. So it comes down to what matters most to you.
+
+> 🔁 **复用**：`It depends on … really`+`whereas`+`the freedom`(老12)+`comes down to`。
+
+**Q2. What jobs do children want to do when they grow up?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 一大堆 孩子 想 当 医生、老师、或 足球 运动员。 | Loads of kids want to be doctors, teachers, or football players. |
+| 3 | 我 儿子 一直 念叨 当 一个 工程师，像 我。 | My son goes on about being an engineer, like me. |
+| 4 | 所以 它 归结到 他们 看到 什么、又 崇拜 什么。 | So it comes down to whatever they've seen and admire. |
+
+> All sorts, really. Loads of kids want to be doctors, teachers, or football players. My son goes on about being an engineer, like me. So it comes down to whatever they've seen and admire.
+
+> 🔁 **复用**：`All sorts, really`+son/engineer+`comes down to`+`admire`。
+
+**Q3. Do people's ideal jobs change as they grow up?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 小时候 你 梦 得 大，而 成年后 你 想 钱 和 稳定。 | As a kid you dream big, whereas as an adult you think about money and stability. |
+| 3 | 我 毕业 的时候，我 大多 想要 一份 稳定的 工作，不是 一份 花哨的。 | When I graduated, I mostly wanted a stable job, not a fancy one. |
+| 4 | 所以 它 归结到 你的 优先级 怎么 变。 | So it comes down to how your priorities shift. |
+
+> Massively, I reckon. As a kid you dream big, whereas as an adult you think about money and stability. When I graduated, I mostly wanted a stable job, not a fancy one. So it comes down to how your priorities shift.
+
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`a stable job`(新12)+`comes down to`。
+
+**Q4. What should people consider when choosing jobs?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 在 我 下定 决心 之前，我 权衡 了 我的 兴趣 和 那 工作 前景。 | Before I made up my mind, I weighed my interests and the job prospects. |
+| 3 | 除此之外，那 报酬 和 工作与生活 平衡 要紧。 | On top of that, the pay and work-life balance matter. |
+| 4 | 所以 它 归结到 权衡 几样 东西，不 只是 钱。 | So it comes down to weighing a few things, not just money. |
+
+> A few things, really. Before I made up my mind, I weighed my interests and the job prospects. On top of that, the pay and work-life balance matter. So it comes down to weighing a few things, not just money.
+
+> 🔁 **复用**：`made up my mind`+`weighed … the job prospects`(新12 逐字)+`On top of that`+`not just money`(老20)。
+
+**Q5. Is salary the main reason why people choose a certain job?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 在 某种程度上，是的。 | To some extent, yeah. |
+| 2 | 钱 要紧，显然——你 有 账单 要 付。 | Money matters, obviously — you've got bills to pay. |
+| 3 | 而 一大堆 人 也 想 一份 他们 真的 享受 的 工作。 | Whereas a lot of people also want a job they actually enjoy. |
+| 4 | 所以 它 归结到 两者 之间 的 一个 平衡。 | So it comes down to a balance between the two. |
+
+> To some extent, yeah. Money matters, obviously — you've got bills to pay. Whereas a lot of people also want a job they actually enjoy. So it comes down to a balance between the two.
+
+> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to a balance`。
+
+**Q6. What kind of jobs are the most popular in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 科技 和 金融，我会说。 | Tech and finance, I'd say. |
+| 2 | 它们 报酬 不错，而 有 一大堆 需求。 | They pay well and there's loads of demand. |
+| 3 | 而 稳定的 政府 工作 也 受欢迎，因为 它们 有 保障。 | Whereas stable government jobs are popular too, because they're secure. |
+| 4 | 所以 它 归结到 钱 和 保障，大多。 | So it comes down to money and security, mostly. |
+
+> Tech and finance, I'd say. They pay well and there's loads of demand. Whereas stable government jobs are popular too, because they're secure. So it comes down to money and security, mostly.
+
+> 🔁 **复用**：`… I'd say`+`loads of demand`(新25-Q1)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`It depends on the person, really` / `whereas` / `comes down to what matters most to you` · `All sorts, really` · `Massively, I reckon` / `a stable job` · `A few things, really` / `made up my mind, weighed … the job prospects` / `not just money` · `To some extent, yeah` / `comes down to a balance` · `Tech and finance, I'd say` / `loads of demand`。
+
+---
+
+## P2-老02 · A famous person you'd like to meet — Christopher Nolan（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 怎么知道 / 想在哪见 / 为何想见 · 题型 Person
+>
+> 🔁 **整卡复用自**：新02(really into sci-fi / complex into something you feel / stuck with me) + 新18(immersed) + 新09(What I admire about him is how) + 新16(I'm an engineer/how he plans) + 新13-Q5(a dream come true)。诺兰/电影=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 想 见 的 那个 名人 是 克里斯托弗·诺兰，那个 电影 导演。 | The famous person I'd like to meet is Christopher Nolan, the film director. |
+| 2 | 我 真的 很 迷 科幻，而 他 拍 了 一些 我 最爱的 电影，比如《星际穿越》。 | I'm really into sci-fi, and he's made some of my favourite films, like Interstellar. |
+| 3 | 我 最早 好些年前 入 他 的 坑，当 一个 朋友 给 我 推荐 了 一部。 | I first got into his work years ago, when a friend recommended one to me. |
+| 4 | 我 佩服 他 的 是 他 怎么 把 真的 很 复杂的 想法 变成 一个 你 能 感受到 的 东西。 | What I admire about him is how he turns really complex ideas into something you feel. |
+| 5 | 他 的 电影 真的 留 在 我 心里——我 每一次 都 完全 沉浸。 | His films really stuck with me — I was completely immersed each time. |
+| 6 | 如果 我 见 到 他，我 很想 问 他 怎么 想 出 他 的 点子。 | If I met him, I'd love to ask how he comes up with his ideas. |
+| 7 | 我 是 一个 工程师，所以 我 好奇 他 怎么 规划 这么 精细 的 东西。 | I'm an engineer, so I'm curious about how he plans something so detailed. |
+| 8 | 说实话，我 大概 会 紧张 到 说 不出 什么。 | Honestly, I'd probably be too nervous to say much. |
+| 9 | 但 它 会 是 一个 梦想 成真，哪怕 只是 打 个 招呼。 | But it'd be a dream come true, even just to say hello. |
+| 10 | 所以 对我，他 是 那 一个 我 真心 想 见 的 名人。 | So for me, he's the one famous person I'd genuinely want to meet. |
+
+### ②P2 整段（shadow）
+
+> The famous person I'd like to meet is Christopher Nolan, the film director. I'm really into sci-fi, and he's made some of my favourite films, like Interstellar. I first got into his work years ago, when a friend recommended one to me. What I admire about him is how he turns really complex ideas into something you feel. His films really stuck with me — I was completely immersed each time. If I met him, I'd love to ask how he comes up with his ideas. I'm an engineer, so I'm curious about how he plans something so detailed. Honestly, I'd probably be too nervous to say much. But it'd be a dream come true, even just to say hello. So for me, he's the one famous person I'd genuinely want to meet.
+
+> 🔁 **复用**：句2 `really into sci-fi`(新02)；句3 `got into … recommended`(老05/老08)；句4 `What I admire about him is how`(新09)+`complex … into something`(新02)；句5 `stuck with me`+`immersed`(新18)；句7 `how he plans`(老06)；句9 `a dream come true`(新13-Q5)。
+
+### 句型/模板（复用池）
+
+- `The famous person I'd like to meet is …, the …` · `What I admire about him is how he turns complex ideas into something you feel` · `His films really stuck with me — I was completely immersed` · `it'd be a dream come true, even just to say hello`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What are the advantages and disadvantages of being a famous child?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 真的 是 好坏参半，说实话。 | It's a real mixed bag, honestly. |
+| 2 | 好的一面，他们 早早 得到 钱 和 机会。 | On the plus side, they get money and opportunities early. |
+| 3 | 另一方面，他们 失去 他们的 隐私 和 一个 正常的 童年。 | On the other hand, they lose their privacy and a normal childhood. |
+| 4 | 所以 它 归结到 它 值不值 那 压力。 | So it comes down to whether it's worth the pressure. |
+
+> It's a real mixed bag, honestly. On the plus side, they get money and opportunities early. On the other hand, they lose their privacy and a normal childhood. So it comes down to whether it's worth the pressure.
+
+> 🔁 **复用**：`a real mixed bag, honestly`(新16-Q1)+`On the plus side … On the other hand`(新07-Q3)+`comes down to`。
+
+**Q2. What can today's children do to become famous?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 方式，真的。 | Loads of ways, really. |
+| 2 | 这些天 任何人 都 能 在 网上 发 视频、然后 爆红。 | These days anyone can post videos online and go viral. |
+| 3 | 而 另一些 靠 才华 出名，比如 体育 或 音乐。 | Whereas others get famous through talent, like sports or music. |
+| 4 | 所以 它 归结到 要么 一个 真 本事，要么 一个 幸运的 视频。 | So it comes down to either a real skill or a lucky video. |
+
+> Loads of ways, really. These days anyone can post videos online and go viral. Whereas others get famous through talent, like sports or music. So it comes down to either a real skill or a lucky video.
+
+> 🔁 **复用**：`Loads of ways, really`+`go viral`(新02-Q6)+`whereas`+`comes down to`。
+
+**Q3. What can children do with their fame?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 他们 能 用 它 做 好事——为 一个 公益 筹钱，那种 东西。 | They could use it for good — raising money for a cause, that kind of thing. |
+| 3 | 而 有些 只 追 更多 关注。 | Whereas some just chase more attention. |
+| 4 | 所以 它 归结到 他们 对 它 有 多 明智。 | So it comes down to how sensible they are about it. |
+
+> A few things, really. They could use it for good — raising money for a cause, that kind of thing. Whereas some just chase more attention. So it comes down to how sensible they are about it.
+
+> 🔁 **复用**：`A few things, really`+`that kind of thing`+`whereas`+`comes down to`。
+
+**Q4. Do people become famous because of their talent?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 有时候，但 不 总是，说实话。 | Sometimes, but not always, honestly. |
+| 2 | 有些人 真的 有 才华，而 另一些 只是 走运 或 认识 对 的 人。 | Some people are genuinely talented, whereas others just get lucky or know the right people. |
+| 3 | 真 才华 通常 持续 得 更久，说句公道话。 | Real talent usually lasts longer, to be fair. |
+| 4 | 所以 它 归结到 才华 和 运气 的 一个 混合。 | So it comes down to a mix of talent and luck. |
+
+> Sometimes, but not always, honestly. Some people are genuinely talented, whereas others just get lucky or know the right people. Real talent usually lasts longer, to be fair. So it comes down to a mix of talent and luck.
+
+> 🔁 **复用**：`honestly`+`whereas`+`to be fair`+`comes down to a mix of`(新08-Q3)。
+
+**Q5. Is it easy to become famous in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 比 以前 容易，我会说。 | Easier than before, I'd say. |
+| 2 | 有 社交媒体，任何人 都 能 一夜 爆红。 | With social media, anyone can blow up overnight. |
+| 3 | 而 保持 出名 才 是 那 难 的 部分。 | Whereas staying famous is the hard part. |
+| 4 | 所以 它 归结到 不 止 一个 爆红 瞬间。 | So it comes down to more than just one viral moment. |
+
+> Easier than before, I'd say. With social media, anyone can blow up overnight. Whereas staying famous is the hard part. So it comes down to more than just one viral moment.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`viral`(新02-Q6)+`comes down to`。
+
+**Q6. Do you want to be a famous person?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，说实话。 | Not really, to be honest. |
+| 2 | 诚然，那 钱 会 不错，但 我 看重 我的 隐私。 | Sure, the money would be nice, but I value my privacy. |
+| 3 | 我 会 讨厌 失去 我 跟 家人 的 安静 生活。 | I'd hate losing my quiet life with my family. |
+| 4 | 所以 对我，一个 正常、平静的 生活 胜过 出名。 | So for me, a normal, peaceful life beats being famous. |
+
+> Not really, to be honest. Sure, the money would be nice, but I value my privacy. I'd hate losing my quiet life with my family. So for me, a normal, peaceful life beats being famous.
+
+> 🔁 **复用**：`Not really, to be honest`+`Sure, … but`(老08-Q6)+`quiet life`(老26)+`beats`(新07 nothing beats)。
+
+**P3 句型/模板（复用池）**：`a real mixed bag, honestly` / `On the plus side … On the other hand` · `Loads of ways, really` / `go viral` · `A few things, really` / `that kind of thing` · `Sometimes, but not always, honestly` / `comes down to a mix of talent and luck` · `Easier than before, I'd say` / `viral moment` · `Not really, to be honest` / `Sure, … but` / `beats being famous`。
+
+---
+
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
