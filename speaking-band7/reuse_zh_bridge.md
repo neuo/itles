@@ -2333,6 +2333,241 @@
 
 ---
 
+## P2-新21 · Someone who helped you solve a problem — 张伟修网络（Event）  〔复用生成〕
+
+> **Cue**: 是谁 / 什么问题 / 怎么帮 / 你的感受 · 题型 Event
+>
+> 🔁 **整卡复用自**：张伟池(kept calm, sat down, line by line / tracked down / saved the day / stays calm under pressure / something I'd love to learn) + 新16(I'm a software engineer / What made it so hard / came back up right away)。几乎全逐字迁移。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个时刻 是 当 我 老同学 张伟 帮 我 修 一个 网络 问题。 | The time I'd like to talk about is when my old classmate Zhangwei helped me fix a network problem. |
+| 2 | 我 是 一个 软件 工程师，而 有一天 我们 办公室 的 网络 一直 掉线。 | I'm a software engineer, and one day our office network kept dropping out. |
+| 3 | 没人 能 连上，所以 没人 能 干 任何 活。 | Nobody could connect, so no one could get any work done. |
+| 4 | 让 它 这么 难的 是 那 原因 不 明显——一切 看起来 都 正常。 | What made it so hard was that the cause wasn't obvious — everything looked fine. |
+| 5 | 我 开始 慌 了，所以 我 给 张伟 打 了 个 电话。 | I was starting to panic, so I gave Zhangwei a call. |
+| 6 | 他 过来、保持 冷静、坐下、然后 一行一行 过 那 日志。 | He came over, stayed calm, sat down, and went through the logs line by line. |
+| 7 | 在 大约 二十分钟 之内，他 追查到 那 原因——一个 坏 了 的 路由器。 | Within about twenty minutes, he tracked down the cause — a faulty router. |
+| 8 | 他 换 掉 它，而 一切 立刻 恢复了。 | He swapped it out, and everything came back up right away. |
+| 9 | 他 说实话 救 了 场，就 像 他 总是 做的。 | He honestly saved the day, like he always does. |
+| 10 | 我 真正 佩服 他 的 是 他 怎么 在 压力下 保持 冷静。 | What I really admire about him is how he stays calm under pressure. |
+| 11 | 说实话，那 是 一个 我 很想 跟 他 学 的 东西。 | To be honest, that's something I'd love to learn from him. |
+
+### ②P2 整段（shadow）
+
+> The time I'd like to talk about is when my old classmate Zhangwei helped me fix a network problem. I'm a software engineer, and one day our office network kept dropping out. Nobody could connect, so no one could get any work done. What made it so hard was that the cause wasn't obvious — everything looked fine. I was starting to panic, so I gave Zhangwei a call. He came over, stayed calm, sat down, and went through the logs line by line. Within about twenty minutes, he tracked down the cause — a faulty router. He swapped it out, and everything came back up right away. He honestly saved the day, like he always does. What I really admire about him is how he stays calm under pressure. To be honest, that's something I'd love to learn from him.
+
+> 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `What made it so hard`(新16)；句5 `panic`(张伟)；句6 `stayed calm, sat down … line by line`(张伟/新07 逐字)；句7 `tracked down the cause`(新16)；句8 `came back up right away`(新16)；句9 `saved the day`(新07)；句10 `What I really admire … stays calm under pressure`(新07 逐字)；句11 `something I'd love to learn from him`(新07 逐字)。
+
+### 句型/模板（复用池）
+
+- `The time I'd like to talk about is when … helped me fix …` · `What made it so hard was that the cause wasn't obvious` · `stayed calm, sat down, and went through the logs line by line` · `he honestly saved the day` · `stays calm under pressure`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. How important is it for schools to help children become smarter?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 真的 很 重要，我会说。 | Really important, I'd say. |
+| 2 | 学校 是 孩子 学会 怎么 思考、解决 问题 的 地方，不 只是 事实。 | School's where kids learn how to think and solve problems, not just facts. |
+| 3 | 而 只是 死记 东西 带 他们 走 不 远。 | Whereas just memorising stuff doesn't get them far. |
+| 4 | 所以 它 归结到 教 他们 怎么 学。 | So it comes down to teaching them how to learn. |
+
+> Really important, I'd say. School's where kids learn how to think and solve problems, not just facts. Whereas just memorising stuff doesn't get them far. So it comes down to teaching them how to learn.
+
+> 🔁 **复用**：`Really important, I'd say`+`how to think`(新16)+`whereas`+`how to learn`(新16-Q4)。
+
+**Q2. Why are some people reluctant to ask others for help?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 面子，我会说。 | Mainly pride, I'd say. |
+| 2 | 有些人 觉得 它 让 他们 显得 弱，所以 他们 宁愿 自己 硬扛。 | Some people feel it makes them look weak, so they'd rather struggle alone. |
+| 3 | 它 有点 像 我——我 讨厌 麻烦 别人，所以 我 一直 拖着。 | It's a bit like me — I hate bothering people, so I put it off. |
+| 4 | 但 说实话，问 通常 是 那个 聪明的 做法。 | But honestly, asking is usually the smart move. |
+
+> Mainly pride, I'd say. Some people feel it makes them look weak, so they'd rather struggle alone. It's a bit like me — I hate bothering people, so I put it off. But honestly, asking is usually the smart move.
+
+> 🔁 **复用**：`Mainly … I'd say`+`put it off`(新23/老21风)+`honestly`。
+
+**Q3. Can technology help people solve their problems?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 这些天 几乎 任何 问题 都 有 一个 app 或 一个 视频。 | These days there's an app or a video for almost any problem. |
+| 3 | AI 甚至 能 一步步 带 你 过 一个 修复。 | AI can even walk you through a fix step by step. |
+| 4 | 所以 它 省 一大堆 时间，说句公道话。 | So it saves loads of time, to be fair. |
+
+> Absolutely, I think so. These days there's an app or a video for almost any problem. AI can even walk you through a fix step by step. So it saves loads of time, to be fair.
+
+> 🔁 **复用**：`Absolutely, I think so`+`a video for … anything`(新15-Q5)+`walk you through … step by step`(新15)+`saves loads of time`(新16)+`to be fair`。
+
+**Q4. What's the difference between teaching someone and doing something for them?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一个 大 的，真的。 | A big one, really. |
+| 2 | 如果 你 替 他们 做，他们 什么 也 没 学到、下次 还 依赖 你。 | If you do it for them, they learn nothing and rely on you next time. |
+| 3 | 而 如果 你 教 他们，他们 往后 能 自己 应付。 | Whereas if you teach them, they can handle it themselves later. |
+| 4 | 所以 教 更 费劲，但 它 划算。 | So teaching is more effort, but it pays off. |
+
+> A big one, really. If you do it for them, they learn nothing and rely on you next time. Whereas if you teach them, they can handle it themselves later. So teaching is more effort, but it pays off.
+
+> 🔁 **复用**：`whereas`+`themselves`(新16 for themselves)+`pays off`(新09-Q2)。
+
+**Q5. Do you think intelligence is something people are born with or learn?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 是 两者，真的。 | It's a bit of both, really. |
+| 2 | 有些人 天生 反应 快，而 另一些 靠 努力 才 到 那儿。 | Some people are naturally quick, whereas others get there through hard work. |
+| 3 | 我 朋友 张伟 真的 很 敏锐，但 他 也 不停 练习。 | My friend Zhangwei's really sharp, but he also practises constantly. |
+| 4 | 所以 它 归结到 天赋 和 努力 的 一个 混合。 | So it comes down to a mix of talent and effort. |
+
+> It's a bit of both, really. Some people are naturally quick, whereas others get there through hard work. My friend Zhangwei's really sharp, but he also practises constantly. So it comes down to a mix of talent and effort.
+
+> 🔁 **复用**：`a bit of both`(老08-Q1)+`whereas`+张伟+`comes down to a mix of`。
+
+**Q6. How does helping each other affect relationships between people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 当 你 帮 某人，你 建立 信任，而 他们 回过头 帮 你。 | When you help someone, you build trust, and they help you back. |
+| 3 | 它 是 那种 让 友谊 保持 牢固 的 东西。 | It's the kind of thing that keeps friendships strong. |
+| 4 | 所以 说实话，它 让 人 更 亲近。 | So honestly, it brings people closer. |
+
+> Massively, I reckon. When you help someone, you build trust, and they help you back. It's the kind of thing that keeps friendships strong. So honestly, it brings people closer.
+
+> 🔁 **复用**：`Massively, I reckon`+`build trust`(老08-Q2)+`brings people closer`(老05 bring us closer)。
+
+**P3 句型/模板（复用池）**：`Really important, I'd say` / `how to think` / `comes down to teaching them how to learn` · `Mainly pride, I'd say` / `put it off` · `Absolutely, I think so` / `walk you through … step by step` / `saves loads of time` · `A big one, really` / `pays off` · `a bit of both, really` / `whereas` / `comes down to a mix of talent and effort` · `Massively, I reckon` / `build trust` / `brings people closer`。
+
+---
+
+## P2-新22 · An environmental protection law — 垃圾分类（Object/现行法）  〔复用生成〕
+
+> **Cue**: 是什么 / 怎么最先了解 / 谁受益 / 感受 · 题型 Object/现行法
+>
+> 🔁 **整卡复用自**：新06 保护绿地法(wife 信息来源/makes people stop and think) + 老20(hassle) + son + `I reckon`/`to be fair`/`So overall` 池。垃圾分类=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那条 法律 是 这里 大城市 的 垃圾分类 规定。 | The law I'd like to talk about is the rubbish-sorting rule in big cities here. |
+| 2 | 基本上，你 得 把 你的 垃圾 分开——厨余、可回收、和 普通 垃圾。 | Basically, you have to separate your waste — food, recycling, and general rubbish. |
+| 3 | 我 最先 从 我 老婆 那儿 听说 它，（她 一直 关注 这种 事）。 | I first heard about it from my wife, who keeps up with this kind of thing. |
+| 4 | 一开始，说实话，它 感觉 像 一个 麻烦——没人 知道 哪个 桶 是 哪个。 | At first, honestly, it felt like a hassle — nobody knew which bin was which. |
+| 5 | 但 过 一会儿，你 就 习惯 了。 | But after a while, you just get used to it. |
+| 6 | 受益 最 多 的 是 每个人，真的——它 让 那 城市 更 干净。 | The people who benefit most are everyone, really — it keeps the city cleaner. |
+| 7 | 我 喜欢 它 的地方 是 它 让 人们 停下、想想 那 废物。 | What I like about it is that it makes people stop and think about waste. |
+| 8 | 我 儿子 在 学校 也 学 了 它，所以 他 提醒 我们 好好 分类。 | My son learned it at school too, so he reminds us to sort things properly. |
+| 9 | 说句公道话，不 是 每个人 都 遵守，但 大多数人 尽 他们 那份 力。 | To be fair, not everyone follows it, but most people do their bit. |
+| 10 | 所以 总的来说，我 觉得 它 是 一条 真的 管用 的 简单 法律。 | So overall, I reckon it's a simple law that really works. |
+
+### ②P2 整段（shadow）
+
+> The law I'd like to talk about is the rubbish-sorting rule in big cities here. Basically, you have to separate your waste — food, recycling, and general rubbish. I first heard about it from my wife, who keeps up with this kind of thing. At first, honestly, it felt like a hassle — nobody knew which bin was which. But after a while, you just get used to it. The people who benefit most are everyone, really — it keeps the city cleaner. What I like about it is that it makes people stop and think about waste. My son learned it at school too, so he reminds us to sort things properly. To be fair, not everyone follows it, but most people do their bit. So overall, I reckon it's a simple law that really works.
+
+> 🔁 **复用**：句3 wife 信息来源(新06)；句4 `hassle`(老20-Q2)；句7 `makes people stop and think`(新06风)；句9 `To be fair`+`do their bit`；句10 `So overall`+`I reckon`。
+
+### 句型/模板（复用池）
+
+- `The law I'd like to talk about is …` · `I first heard about it from my wife, who keeps up with this kind of thing` · `it felt like a hassle` · `What I like about it is that it makes people stop and think` · `To be fair, … but most people do their bit` · `So overall, I reckon …`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What kinds of rules do schools in China have?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，真的。 | Quite a few, really. |
+| 2 | 像 穿 校服、准时 到、还有 上课 不 用 手机。 | Things like wearing a uniform, turning up on time, and no phones in class. |
+| 3 | 它们 大多 关于 保持 秩序、还 尊重 地 待人。 | They're mostly about keeping order and treating people with respect. |
+| 4 | 所以 它 归结到 保持 事情 公平、平静。 | So it comes down to keeping things fair and calm. |
+
+> Quite a few, really. Things like wearing a uniform, turning up on time, and no phones in class. They're mostly about keeping order and treating people with respect. So it comes down to keeping things fair and calm.
+
+> 🔁 **复用**：`turning up on time … no phones in class`(新06-Q1)+`comes down to`。
+
+**Q2. Do you think school rules are important?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 规则 早早 教 孩子 纪律，（那 为 往后 打下 基础）。 | Rules teach kids discipline early, which sets them up for later. |
+| 3 | 而 完全 没有 规则，一个 班 会 是 一片 混乱。 | Whereas with no rules at all, a class would be chaos. |
+| 4 | 所以 它 归结到 保持 简单、公平。 | So it comes down to keeping it simple and fair. |
+
+> Absolutely, I think so. Rules teach kids discipline early, which sets them up for later. Whereas with no rules at all, a class would be chaos. So it comes down to keeping it simple and fair.
+
+> 🔁 **复用**：`sets them up`(新11-Q5)+`whereas`+`chaos`(新06-Q5)+`keeping it simple and fair`(新06-Q1)。
+
+**Q3. Are children unhappy with the school rules?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 有时候，是的。 | Sometimes, yeah. |
+| 2 | 孩子 常常 觉得 规则 不 公平，尤其 严 的。 | Kids often think rules are unfair, especially strict ones. |
+| 3 | 而 一旦 他们 大 一点，他们 通常 看到 那 意义。 | Whereas once they're older, they usually see the point. |
+| 4 | 所以 它 归结到 解释 为什么 一条 规则 要紧。 | So it comes down to explaining why a rule matters. |
+
+> Sometimes, yeah. Kids often think rules are unfair, especially strict ones. Whereas once they're older, they usually see the point. So it comes down to explaining why a rule matters.
+
+> 🔁 **复用**：`whereas`+`see the point`(新03-Q1)+`explaining why a rule matters`(新06-Q6)。
+
+**Q4. How can parents and teachers help children understand and follow rules?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 靠 以身作则，我会说。 | Mainly by example, I'd say. |
+| 2 | 孩子 抄 他们 看到的，所以 大人 也 得 遵守 规则。 | Kids copy what they see, so adults have to follow the rules too. |
+| 3 | 此外，解释 那 理由 比 只是 吼 管用。 | Plus, explaining the reason works better than just shouting. |
+| 4 | 所以 它 归结到 树立 一个 好 榜样。 | So it comes down to setting a good example. |
+
+> Mainly by example, I'd say. Kids copy what they see, so adults have to follow the rules too. Plus, explaining the reason works better than just shouting. So it comes down to setting a good example.
+
+> 🔁 **复用**：全套复用 新06-Q6（`Mainly by example` / `Kids copy what they see` / `setting a good example`）。
+
+**Q5. What are the rules people should obey at work?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几条 基本的，真的。 | A few basic ones, really. |
+| 2 | 像 准时 到、赶 上 截止日期、还 尊重 人。 | Things like turning up on time, meeting deadlines, and being respectful. |
+| 3 | 我 的 工作 也 有 几条，尤其 关于 小心 处理 数据。 | My job's got a few too, especially around handling data carefully. |
+| 4 | 所以 它 归结到 保持 专业、公平。 | So it comes down to keeping things professional and fair. |
+
+> A few basic ones, really. Things like turning up on time, meeting deadlines, and being respectful. My job's got a few too, especially around handling data carefully. So it comes down to keeping things professional and fair.
+
+> 🔁 **复用**：`A few basic ones, really`(新06-Q1)+软工data(新16)+`comes down to`。
+
+**Q6. What is the purpose of punishment?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 让 人 不敢 破坏 规则，我会说。 | Mainly to put people off breaking the rules, I'd say. |
+| 2 | 如果 没有 后果，有些人 就 为所欲为。 | If there's no consequence, some people just do whatever they want. |
+| 3 | 但 说句公道话，它 该 教 一个 教训，不 只是 惩罚。 | But to be fair, it should teach a lesson, not just punish. |
+| 4 | 所以 它 归结到 纠正 行为，不是 报复。 | So it comes down to fixing behaviour, not revenge. |
+
+> Mainly to put people off breaking the rules, I'd say. If there's no consequence, some people just do whatever they want. But to be fair, it should teach a lesson, not just punish. So it comes down to fixing behaviour, not revenge.
+
+> 🔁 **复用**：`Mainly … I'd say`+`to be fair`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Quite a few, really` / `turning up on time` / `comes down to keeping things fair` · `Absolutely, I think so` / `sets them up` / `whereas … chaos` / `keeping it simple and fair` · `Sometimes, yeah` / `see the point` / `explaining why a rule matters` · `Mainly by example, I'd say` / `Kids copy what they see` / `setting a good example` · `A few basic ones, really` · `Mainly to put people off …, I'd say` / `to be fair`。
+
+---
+
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
