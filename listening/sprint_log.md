@@ -9,6 +9,8 @@
 | 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | 9/10 | 9/10(P1) | — |
 | 7/14 | Elephant translocation (S4) | **7/10(新题,内容8)** | — | — | — |
 > 🎯 **7/10≥6=G1重建第1次!** maple 4→elephant 7 大跳。内容其实8/10(仅33拼写丢)。**尾巴塌得小多了+救回**: maple崩5连,elephant只丢38/39且**40靠GDP锚救回=止损跳落地**。38/39=段落切换(Advantages段)小级联,漏了「30」"huge success"信号→employment紧接来没跟到→39陪葬;两个都是认识的词=位非认,可拿。33 helicapters=写(本周首个,helicopter难拼进拼写表)。**修法: 页面小标题=硬重启点,迷路就跳下个标题第一个空。**
+> ⚠️ **她重听后修正(我把38/39说过头了)**: 不是纯位置,底下有真词汇层——**39真问题=锚词poacher她不认识**(锚点黑的没法定位,靠give up半猜);**38=搭配"employment prospects/opportunities"不熟**(prospects认得但usage生,note opportunities↔audio prospects没瞬间划等号)。→ **7/10比原判更强**:干净能拿的都拿了,丢的2个底下是真缺口非偷懒。
+> **策略(有界扩词,不违背别扩词铁律)**: P4话题=小闭集(野生动物/历史/教育/经济/健康/科学),每簇一撮反复出现的词=往往正是锚词+答案词。elephant=野生动物簇(poacher/ivory/tusks/conservation/ecosystem);employment/prospects/GDP=经济簇。**唯一值得的扩词=每套对完答案捞原文反复出现的话题词(一套3-5个,从她错题原文),攒话题簇小表**。尾巴=位(技术)+认/真(词汇)两层叠加,分开修:位练标题重启,词汇慢攒簇词。
 > 二遍9/10(4→9)。唯一漏=37 fire,知道答案也没听到=**回溯型(等heated但fire在其前"a fire is built...heated")+弱读**(重音在built,fire连读is)。纯听→认gap,技术补不满=耳朵时间;一section漏1个这种不影响6.5,别追。部分解:锚在"by means of"别等heated/"a fire is built"当连读块跟读。
 > 🟡 **G1 未达标**: 需新P4一遍≥6连两次;dodo=6→maple=4,streak断。**非全面倒退=问题搬家**(开头修好31/32/33全对,尾巴34-40塌)。material更难(Process,技术词密diameter/evaporator)。
 > *二遍看过答案,含记忆成分,不证明技能;真验证=新 P4
@@ -92,5 +94,5 @@
 | 7/14 | to produce one litre of maple syrup | litre | 位(听到没填!) | | | |
 | 7/14 | the trunks reach a diameter of around 25 centimetres | diameter | 认(技术词) | | | |
 | 7/14 | we give them training for it. That lasts for two weeks...a test | training | 认(口音train→try) | | | |
-| 7/14 | Employment prospects have improved enormously | employment | 位(段落切换) | | | |
-| 7/14 | many volunteered to give up their weapons | weapons | 位(级联39) | | | |
+| 7/14 | Employment prospects have improved enormously | employment | 位+搭配生(见修正) | | | |
+| 7/14 | many volunteered to give up their weapons | weapons | 锚词poacher不认识(见修正) | | | |
