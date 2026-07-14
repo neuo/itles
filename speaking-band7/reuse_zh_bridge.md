@@ -5230,3 +5230,225 @@
 **P3 句型/模板（复用池）**：`Absolutely, I think so` / `planning, solving problems` / `life gets busy` · `Absolutely, yeah` / `I'm an engineer` / `solve tricky problems` · `Loads, really` / `whereas` · `A few, really` / `how things work` · `Loads, honestly` / `Lego` · `Hugely important, I'd say` / `stay curious`。
 
 ---
+
+## P2-老19 · A person who often helps others — 老婆帮邻居老人（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 多常帮 / 怎么/为何帮 / 你的感受 · 题型 Person
+>
+> 🔁 **整卡复用自**：新15 老婆(married over ten years/a lot on her plate/What I really admire/sets a great example) + 老10(wife helping elderly neighbours/he learned it from her) + 新05(patient)。这是"老婆帮邻居"设定的主场。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我 老婆，（她 总是 在 帮 别人）。 | The person I'd like to talk about is my wife, who's always helping other people. |
+| 2 | 我们 结婚 十多年 了，而 她 是 我 认识 的 最 善良的人。 | We've been married for over ten years, and she's the kindest person I know. |
+| 3 | 她 常常 帮 我们 年长的 邻居——拎 他们的 购物，那种 东西。 | She often helps our elderly neighbours — carrying their shopping, that kind of thing. |
+| 4 | 隔壁 有 一对 老 夫妇，而 她 大多 每周 都 去 看看 他们。 | There's an old couple next door, and she checks in on them most weeks. |
+| 5 | 真正 让 她 出众的 是 她 从不 为 它 大惊小怪。 | What really makes her stand out is that she never makes a fuss about it. |
+| 6 | 她 就 安静 地 做，即使 当 她 手头 一大堆 事。 | She just quietly gets on with it, even when she's got a lot on her plate. |
+| 7 | 她 做 它 的 原因 很 简单——她 就 真心 在乎。 | The reason she does it is simple — she just genuinely cares. |
+| 8 | 说实话，我们的 儿子 从 她 那儿 学 到 了，现在 他 也 帮忙。 | Honestly, our son's learned it from her, and now he helps out too. |
+| 9 | 我 真的 佩服 她 多么 善良、有 耐心。 | I really admire how kind and patient she is. |
+| 10 | 所以 对我，她 为 整个 家 树立 了 一个 很好的 榜样。 | So for me, she sets a great example for the whole family. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is my wife, who's always helping other people. We've been married for over ten years, and she's the kindest person I know. She often helps our elderly neighbours — carrying their shopping, that kind of thing. There's an old couple next door, and she checks in on them most weeks. What really makes her stand out is that she never makes a fuss about it. She just quietly gets on with it, even when she's got a lot on her plate. The reason she does it is simple — she just genuinely cares. Honestly, our son's learned it from her, and now he helps out too. I really admire how kind and patient she is. So for me, she sets a great example for the whole family.
+
+> 🔁 **复用**：句2 `married for over ten years`(新15)；句3 `elderly neighbours`+`that kind of thing`(老10)；句5 `What really makes her stand out is`；句6 `a lot on her plate`(新15)；句8 `learned it from her`(老10)；句9 `I really admire`+`patient`(新05)；句10 `sets a great example`(新15)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is my wife, who's always helping other people` · `She often helps our elderly neighbours — carrying their shopping, that kind of thing` · `What really makes her stand out is that she never makes a fuss about it` · `even when she's got a lot on her plate` · `she sets a great example for the whole family`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What can children do to help their parents?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 东西，真的。 | Loads of things, really. |
+| 2 | 小 事 像 收拾、洗 碗，那种 东西。 | Small stuff like tidying up, washing dishes, that kind of thing. |
+| 3 | 我 儿子 帮 摆 桌子，即使 他 才 五岁。 | My son helps set the table, even though he's only five. |
+| 4 | 所以 它 归结到 从 小、从 早 开始。 | So it comes down to starting small and early. |
+
+> Loads of things, really. Small stuff like tidying up, washing dishes, that kind of thing. My son helps set the table, even though he's only five. So it comes down to starting small and early.
+
+> 🔁 **复用**：`Loads of things, really`+`that kind of thing`+son+`comes down to`。
+
+**Q2. Should children help their parents with household chores?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 教 他们 责任、还 教 他们 出 一份 力。 | It teaches them responsibility and to pull their weight. |
+| 3 | 而 替 他们 做 一切 让 他们 变 懒。 | Whereas doing everything for them makes them lazy. |
+| 4 | 所以 它 归结到 分担 那 担子。 | So it comes down to sharing the load. |
+
+> Absolutely, I think so. It teaches them responsibility and to pull their weight. Whereas doing everything for them makes them lazy. So it comes down to sharing the load.
+
+> 🔁 **复用**：`Absolutely, I think so`+`doing everything for them`(新21-Q4)+`whereas`+`sharing the load`(新11-Q5)。
+
+**Q3. What kind of help do people need when looking for a new job?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 大多 是 建议——像 问 已经 在 这行 的人 关于 他们的 经验。 | Mostly advice — like asking people already in the field about their experience. |
+| 3 | 除此之外，帮 他们 弄 简历 和 面试。 | On top of that, help with their CV and interviews. |
+| 4 | 所以 它 归结到 来自 经历过 的人 的 指引。 | So it comes down to guidance from people who've been there. |
+
+> A few things, really. Mostly advice — like asking people already in the field about their experience. On top of that, help with their CV and interviews. So it comes down to guidance from people who've been there.
+
+> 🔁 **复用**：`A few things, really`+`asking people … in the field about their experience`(新12)+`On top of that`+`been there`(新07-Q5)+`comes down to`。
+
+**Q4. Who should people ask for help, colleagues or family members?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 取决于 那 问题，真的。 | It depends on the problem, really. |
+| 2 | 工作 上 的 事，同事 更 懂，而 家人 对 个人的 事 最好。 | For work stuff, colleagues get it better, whereas family's best for personal things. |
+| 3 | 我 老婆 总是 我 第一个 问 的人。 | My wife's always my first person to ask. |
+| 4 | 所以 它 归结到 谁 了解 那 情况。 | So it comes down to who understands the situation. |
+
+> It depends on the problem, really. For work stuff, colleagues get it better, whereas family's best for personal things. My wife's always my first person to ask. So it comes down to who understands the situation.
+
+> 🔁 **复用**：`It depends on … really`+`whereas`+wife+`comes down to`。
+
+**Q5. Do you think schools should teach children to do household chores?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 它 是 一个 真的 很 有用的 生活 技能、（他们 往后 会 需要）。 | It's a really useful life skill they'll need later. |
+| 3 | 此外，它 给 家里 的 父母 减 一点 压力。 | Plus, it takes some pressure off parents at home. |
+| 4 | 所以 它 归结到 为 真实 生活 准备 他们。 | So it comes down to preparing them for real life. |
+
+> Absolutely, I think so. It's a really useful life skill they'll need later. Plus, it takes some pressure off parents at home. So it comes down to preparing them for real life.
+
+> 🔁 **复用**：`Absolutely, I think so`+`a really useful … skill`(新11-Q3)+`takes … off`(新16)+`comes down to`。
+
+**Q6. Why are employees reluctant to ask their managers for help?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 面子，我会说。 | Mainly pride, I'd say. |
+| 2 | 他们 担心 它 让 他们 显得 弱 或 没 能力。 | They worry it makes them look weak or incapable. |
+| 3 | 而 问 通常 是 那个 聪明的 做法。 | Whereas asking is usually the smart move. |
+| 4 | 所以 它 归结到 别 怕 说出来。 | So it comes down to not being afraid to speak up. |
+
+> Mainly pride, I'd say. They worry it makes them look weak or incapable. Whereas asking is usually the smart move. So it comes down to not being afraid to speak up.
+
+> 🔁 **复用**：`Mainly pride, I'd say`+`look weak`+`asking is usually the smart move`(新21-Q2)+`speak up`(新11)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Loads of things, really` / `that kind of thing` · `Absolutely, I think so` / `sharing the load` · `A few things, really` / `asking people … in the field` / `been there` · `It depends on the problem, really` / `whereas` · `a really useful life skill` / `takes some pressure off` · `Mainly pride, I'd say` / `asking is usually the smart move` / `speak up`。
+
+---
+
+## P2-老20 · An item you spent more than expected on — 3D 打印机（Object）  〔你的版 · 未改〕
+
+> **Cue**: 是什么 / 花多少 / 为何超预期 / 感受 · 题型 Object
+>
+> 🎤 **你的版（6/27 练过 · 未降未改）**：P2 = 3D 打印机（花超预期） + 你练的 6 题 P3（钱/经济域）。这是经济域源头（`money well spent` / `splash out` / `driven by emotion` / `making wants feel like needs`）。
+
+### ①P2 拆解（英式中文珠子 → 你的实产英文）
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 花 得 比 预期 多的 那件 东西 是 一台 3D 打印机。 | The item I spent more than expected on is a 3D printer. |
+| 2 | 一开始，我 只 想 买 一台 入门级 的，但 最后 我 买 了 一台 高级 的。 | At first, I only wanted to buy an entry-level one, but in the end I bought an advanced one. |
+| 3 | 它 花 了 超过 4000 块，（这）几乎 是 我 预算 的 两倍。 | It cost more than 4,000 yuan, which was almost double my budget. |
+| 4 | 我 入 这个 坑 是 通过 我 一个 同事，（他 是 一个 真正的 发烧友）——他 甚至 用 零件 造 了 他 自己的 机器。 | I got into it through one of my colleagues, who's a real enthusiast — he even built his own machine from spare parts. |
+| 5 | 他 给 我 看 他的 能 做 什么，而 我 立刻 就 上瘾了。 | He showed me what his could do, and I was hooked straight away. |
+| 6 | 有 几个 原因 我 买 它。 | There are a couple of reasons I bought it. |
+| 7 | 首先，它 能 打印 各种 玩具——五彩的 恐龙、乐高 积木、那种 东西。 | First, it can print all sorts of toys — colourful dinosaurs, Lego blocks, that kind of thing. |
+| 8 | 除此之外，它 是 一个 偷偷的 方式、[去]让 我 儿子 对 工程 感兴趣——他 能 看到 屏幕上 的 一个 东西 怎么 变成 一个 真的 物体。 | On top of that, it's a sneaky way to get my son interested in engineering — he can see how something on the screen turns into a real object. |
+| 9 | 至于 为什么 我 花 得 比 预期 多，那 主要 是 因为 那些 配件——尤其 一个 叫 AMS 的 部件，（它 让 它 能 打印 多种 颜色）。 | As for why I spent more than I expected, it was mainly because of the add-ons — especially a part called AMS, which lets it print in multiple colours. |
+| 10 | 但 说实话，整 件 事 是 值得的。 | But honestly, the whole thing was worth it. |
+| 11 | 周末，我 儿子 坐 在 我 旁边，我们 一起 设计 某个 东西，然后 看 那 打印机 一层一层 把 它 造 出来。 | On weekends, my son sits right next to me, we design something together, and watch the printer build it layer by layer. |
+
+### ②P2 整段（shadow）
+
+> The item I spent more than expected on is a 3D printer. At first, I only wanted to buy an entry-level one, but in the end I bought an advanced one. It cost more than 4,000 yuan, which was almost double my budget. I got into it through one of my colleagues, who's a real enthusiast — he even built his own machine from spare parts. He showed me what his could do, and I was hooked straight away. There are a couple of reasons I bought it. First, it can print all sorts of toys — colourful dinosaurs, Lego blocks, that kind of thing. On top of that, it's a sneaky way to get my son interested in engineering — he can see how something on the screen turns into a real object. As for why I spent more than I expected, it was mainly because of the add-ons — especially a part called AMS, which lets it print in multiple colours. But honestly, the whole thing was worth it. On weekends, my son sits right next to me, we design something together, and watch the printer build it layer by layer.
+
+### 句型/模板（你自己的）
+
+- `The item I spent more than expected on is …` · `in the end I bought an advanced one … almost double my budget` · `I got into it through one of my colleagues, who's a real enthusiast` · `I was hooked straight away` · `it's a sneaky way to get my son interested in engineering` · `the whole thing was worth it` · `we design something together, and watch the printer build it layer by layer`
+
+---
+
+### ①P3 拆解 + ②整段（你练的 6 题 · 钱/经济）
+
+**Q1. Do you often buy more than you expected?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 不太，说实话——我 自己 几乎 不 买 任何 东西，网上 或 店里。 | Not really, to be honest — I barely buy anything myself, online or in shops. |
+| 2 | 我 老婆 打理 那 一切，不管 是 家用的 东西 还是 个人的 东西。 | My wife takes care of all of it, whether it's household stuff or personal things. |
+| 3 | 说句公道话，当 我 确实 买 某个 东西，我 通常 超 预算，因为 我 总是 想要 那 最好的。 | To be fair, when I do buy something, I usually go over budget, because I always want the best one. |
+
+> Not really, to be honest — I barely buy anything myself, online or in shops. My wife takes care of all of it, whether it's household stuff or personal things. To be fair, when I do buy something, I usually go over budget, because I always want the best one.
+
+**Q2. What do young people spend their money on?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 房租，我会说。 | Mainly rent, I'd say. |
+| 2 | 这些天 房租 一直 在 涨，尤其 在 大 城市，所以 它 吃 掉 他们 工资 的 一 大块。 | These days rent keeps going up, especially in big cities, so it eats up a big chunk of their salary. |
+| 3 | 除此之外，还有 那些 最新的 电子产品——手机、笔记本、那种 东西——（那 也 不 便宜）。 | On top of that, there's the latest gadgets — phones, laptops, that kind of thing — which don't come cheap either. |
+| 4 | 所以 总的来说，它 大多 是 住房 和 他们 每天 用的 东西。 | So overall, it's mostly housing and the stuff they use every day. |
+
+> Mainly rent, I'd say. These days rent keeps going up, especially in big cities, so it eats up a big chunk of their salary. On top of that, there's the latest gadgets — phones, laptops, that kind of thing — which don't come cheap either. So overall, it's mostly housing and the stuff they use every day.
+
+**Q3. Is it important to save money?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 它 真的 关键——哪怕 只 一点点。 | Absolutely, I think it's really key — even just a little. |
+| 2 | 这些天 有 一大堆 东西 需要 钱——房租、医疗、这一切。 | These days there are loads of things that need money — rent, healthcare, all of it. |
+| 3 | 存 一点 起来 并不 真的 拘束 你的 生活；要说的话，它 给 你 一个 缓冲、当 某个 东西 出 问题 的时候。 | Putting a bit aside doesn't really cramp your life; if anything, it gives you a cushion when something goes wrong. |
+| 4 | 话虽如此，你 不该 过头——存钱 是 一个 工具，不是 那 目标。 | That said, you shouldn't overdo it — saving's a tool, not the goal. |
+| 5 | 钱 在 那儿 是 用来 花的，不是 只 攥 着。 | Money's there to be used, not just sat on. |
+
+> Absolutely, I think it's really key — even just a little. These days there are loads of things that need money — rent, healthcare, all of it. Putting a bit aside doesn't really cramp your life; if anything, it gives you a cushion when something goes wrong. That said, you shouldn't overdo it — saving's a tool, not the goal. Money's there to be used, not just sat on.
+
+**Q4. Do people buy things they don't need?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 一直，我 觉得。 | Always, I think. |
+| 2 | 那 主要 原因 是 冲动——很多 购买 是 被 情绪 驱动，不是 真 需要。 | The main reason is impulse — a lot of buying is driven by emotion, not real need. |
+| 3 | 这些天 广告 到处 都是，而 当 人们 看到 一个，尤其 有 打折 的时候，他们 生出 一股 强烈的 购买 冲动，即使 他们 并不 真的 需要 它。 | These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy, even if they don't really need it. |
+| 4 | 在 今天 这个 快节奏的 世界，人们 甚至 不 慢下来 问 一下 他们 是否 真的 需要 某个 东西。 | In today's fast-paced world, folk don't even slow down to ask if they actually need something. |
+| 5 | 所以 广告 真的 很 擅长 让 想要 感觉 像 需要。 | So advertising's really good at making wants feel like needs. |
+
+> Always, I think. The main reason is impulse — a lot of buying is driven by emotion, not real need. These days ads are everywhere, and when people see one, especially with a sale on, they get a strong urge to buy, even if they don't really need it. In today's fast-paced world, folk don't even slow down to ask if they actually need something. So advertising's really good at making wants feel like needs.
+
+**Q5. Is it the rich people's responsibility to donate money?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 我 不 这么 觉得——至少 不 作为 一个 义务。 | I don't think so — at least not as a duty. |
+| 2 | 帮 有需要的 人 真的 是 那 政府 的 活，不 归 富有的 个人。 | Helping people in need is really the government's job, not down to wealthy individuals. |
+| 3 | 能够 帮忙 并不 让 它 成为 他们的 义务。 | Being able to help doesn't make it their duty. |
+| 4 | 当然，如果 富人 回馈 更多 会 很好，但 那 应该 通过 像 税 这样的 东西 来，而不是 靠 强加 在 他们 身上。 | Of course, it'd be great if the rich gave more back, but that should come through things like taxes, not by forcing it on them. |
+| 5 | 所以 我会说 鼓励 它，别 强迫 它——慷慨 该 发自 内心，不是 出于 压力。 | So I'd say encourage it, don't force it — generosity should come from the heart, not from pressure. |
+
+> I don't think so — at least not as a duty. Helping people in need is really the government's job, not down to wealthy individuals. Being able to help doesn't make it their duty. Of course, it'd be great if the rich gave more back, but that should come through things like taxes, not by forcing it on them. So I'd say encourage it, don't force it — generosity should come from the heart, not from pressure.
+
+**Q6. What kind of things do people pay a high price for?**
+
+| 句 | 英式中文珠子 | 你的实产英文 |
+|---|---|---|
+| 1 | 主要 是 他们的 爱好 和 健康，我会说。 | Mainly their hobbies and health, I'd say. |
+| 2 | 人们 倾向于 付 多得多、为 他们 真正 热爱的——对 一个 吃货，那 是 一顿 花哨的 饭；对 一个 游戏玩家，一台 顶配的 电脑。 | People tend to pay much more for what they really love — for a foodie, that's a fancy meal; for a gamer, a top-end PC. |
+| 3 | 他们 把 它 看作 花得 值的 钱，不是 一个 浪费。 | They see it as money well spent, not a waste. |
+| 4 | 至于 健康，你 真的 没法 给 它 定 一个 价——没有 它，别的 一切 都 无所谓。 | As for health, you can't really put a price on it — without it, nothing else matters. |
+| 5 | 所以 人们 会 乐意 大手花钱 在 一辆 可靠的 车、一张 健身房 会员、或 好的 食物 上。 | So people will happily splash out on a reliable car, a gym membership, or good food. |
+
+> Mainly their hobbies and health, I'd say. People tend to pay much more for what they really love — for a foodie, that's a fancy meal; for a gamer, a top-end PC. They see it as money well spent, not a waste. As for health, you can't really put a price on it — without it, nothing else matters. So people will happily splash out on a reliable car, a gym membership, or good food.
+
+---
