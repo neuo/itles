@@ -13,7 +13,7 @@
 >
 > **格式**：与 examples 桥一致 —— 每卡 = P2 拆解表（英式中文珠子 → 复用英文）+ P2 整段 + P2 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用）+ P3 句型。
 
-> **进度**：🟢 方法已确认（P2≈160词 / P3参考现有 / 每答🔁审计）。**✅ 新系列 27 张全完 + 老06 = 28/54**。其中你的版 8（新07/12/14/15/16/18/23/25）+ 复用 20。续推 老01-05·老07-27（含你的版 老05/08/11/12/20）。
+> **进度**：✅ **全 54 张收官（新01-27 + 老01-27）**。13 张你的版（新07/12/14/15/16/18/23/25 · 老05/08/11/12/20，未降未改）+ 41 张复用生成（全拼素材池、零新素材、每答🔁审计）。P2 复用卡均落 ~135-165 词。
 
 ---
 
@@ -5686,3 +5686,590 @@
 **P3 句型/模板（复用池）**：`All sorts, really` / `funds their travels` · `A few big ones, really` / `cut off from family` · `Loads, honestly` / `broadening your horizons` · `A few, really` / `an open mind` · `Mostly hospitality, I'd say` / `hands-on` / `pick up quickly` · `Mainly … daunted …, I'd say` / `put people off`。
 
 ---
+
+## P2-老23 · A person who likes to look after the natural world — 环保志愿者好友（Person）  〔复用生成〕
+
+> **Cue**: 是谁 / 做什么 / 怎么做 / 多常做 / 你的感受 · 题型 Person
+>
+> 🔁 **整卡复用自**：老23(a close friend of mine) + 新07/新13(mates for years) + 新16(hands-on) + 新27(cut down on plastic) + 新22(he's got me being more careful) + 新15(I really admire/sets a great example)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个人 是 我的 一个 亲密 朋友，（他 真的 很 在乎 环境）。 | The person I'd like to talk about is a close friend of mine, who really cares about the environment. |
+| 2 | 我们 做 哥们儿 好些年 了，而 照看 自然 基本上 是 他 的 全部。 | We've been mates for years, and looking after nature is basically his whole thing. |
+| 3 | 他 放弃 他的 周末 [去]参加 沿 河 和 步道 的 垃圾 清理。 | He gives up his weekends to join litter clean-ups along rivers and trails. |
+| 4 | 除此之外，他 植树、还 让 他的 朋友 减少 塑料。 | On top of that, he plants trees and gets his friends to cut down on plastic. |
+| 5 | 真正 让 他 出众的 是 他 亲力亲为、还 对 它 低调。 | What really makes him stand out is that he's hands-on and low-key about it. |
+| 6 | 他 就 拎 着 一个 垃圾袋 出现、还 以身作则。 | He just shows up with a bin bag and leads by example. |
+| 7 | 他 差不多 每隔 一个 周末 都 在 那儿。 | He's out there pretty much every other weekend. |
+| 8 | 说实话，我 真的 佩服 他 多么 投入。 | Honestly, I really admire how committed he is. |
+| 9 | 他 其实 已经 让 我 现在 对 废物 更 上心。 | He's actually got me being more careful about waste now. |
+| 10 | 所以 对我，他 树立 了 一个 很好的 榜样。 | So for me, he sets a great example. |
+
+### ②P2 整段（shadow）
+
+> The person I'd like to talk about is a close friend of mine, who really cares about the environment. We've been mates for years, and looking after nature is basically his whole thing. He gives up his weekends to join litter clean-ups along rivers and trails. On top of that, he plants trees and gets his friends to cut down on plastic. What really makes him stand out is that he's hands-on and low-key about it. He just shows up with a bin bag and leads by example. He's out there pretty much every other weekend. Honestly, I really admire how committed he is. He's actually got me being more careful about waste now. So for me, he sets a great example.
+
+> 🔁 **复用**：句1 `a close friend of mine`(老23)；句2 `mates for years`(新07/新13)；句4 `On top of that`+`cut down on plastic`(新27)；句5 `What really makes him stand out is`+`hands-on`(新16)；句8 `I really admire`(新15)；句9 `he's got me being more careful`(新22 wife 同构)；句10 `sets a great example`(新15)。
+
+### 句型/模板（复用池）
+
+- `The person I'd like to talk about is a close friend of mine, who really cares about the environment` · `looking after nature is basically his whole thing` · `What really makes him stand out is that he's hands-on and low-key about it` · `He's actually got me being more careful about waste now` · `he sets a great example`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do you think parents should teach their children how to protect the environment?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 在家 养成的 习惯 倾向于 陪伴 一辈子，所以 如果 父母 回收，孩子 就 抄 他们。 | Habits formed at home tend to stick, so if parents recycle, kids copy them. |
+| 3 | 而 学校 单独 很难 消除 在家 捡来的 坏 习惯。 | Whereas schools alone can't undo bad habits picked up at home. |
+| 4 | 所以 它 归结到 早早 树立 一个 好 榜样。 | So it comes down to setting a good example early. |
+
+> Absolutely, I think so. Habits formed at home tend to stick, so if parents recycle, kids copy them. Whereas schools alone can't undo bad habits picked up at home. So it comes down to setting a good example early.
+
+> 🔁 **复用**：`Absolutely, I think so`+`kids copy`(新06-Q6)+`whereas`+`setting a good example`(新06-Q6)。
+
+**Q2. What laws about the environment are effective in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几条 好 的，真的。 | A few good ones, really. |
+| 2 | 那 塑料袋 收费 最 有效——一旦 人们 付钱，他们 就 带 自己的 袋子。 | The plastic-bag charge works best — once people pay, they bring their own bags. |
+| 3 | 除此之外，那 垃圾分类 规定 真的 有帮助。 | On top of that, the rubbish-sorting rule really helps. |
+| 4 | 所以 它 归结到 改变 行为 的 小 规则。 | So it comes down to small rules that change behaviour. |
+
+> A few good ones, really. The plastic-bag charge works best — once people pay, they bring their own bags. On top of that, the rubbish-sorting rule really helps. So it comes down to small rules that change behaviour.
+
+> 🔁 **复用**：`A few good ones, really`(新27-Q4)+`rubbish-sorting`(新22)+`On top of that`+`comes down to`。
+
+**Q3. Which do you think people prefer, rewards or punishment, for government intervention in environmental protection?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 奖励，我会说。 | Rewards, I'd say. |
+| 2 | 当 你 提供 现金 返还 或 更便宜的 账单，它 感觉 鼓励。 | When you offer cash back or cheaper bills, it feels encouraging. |
+| 3 | 而 惩罚 只 滋生 怨恨。 | Whereas punishment just breeds resentment. |
+| 4 | 所以 它 归结到 鼓励，不是 强迫。 | So it comes down to encouraging, not forcing. |
+
+> Rewards, I'd say. When you offer cash back or cheaper bills, it feels encouraging. Whereas punishment just breeds resentment. So it comes down to encouraging, not forcing.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`encourage it, don't force it`(老20-Q5)+`comes down to`。
+
+**Q4. Is it easy for children in cities to get close to the natural world?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，说实话。 | Not really, to be honest. |
+| 2 | 城市 孩子 被 混凝土 包围，所以 他们 很少 看到 正经的 绿地。 | City kids are surrounded by concrete, so they rarely see proper green space. |
+| 3 | 而 一趟 快速的 乡下 之行 给 他们 一个 真正的 自然 味道。 | Whereas a quick trip to the countryside gives them a real taste of nature. |
+| 4 | 所以 它 归结到 花 点 力气 出去。 | So it comes down to making the effort to get out. |
+
+> Not really, to be honest. City kids are surrounded by concrete, so they rarely see proper green space. Whereas a quick trip to the countryside gives them a real taste of nature. So it comes down to making the effort to get out.
+
+> 🔁 **复用**：`Not really, to be honest`+`concrete`+`green space`(老23降档)+`whereas`+countryside(新18/新19)+`comes down to`。
+
+**Q5. What can people do to protect the natural world?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆 小 事，真的。 | Loads of small things, really. |
+| 2 | 减少 塑料、坐 公共交通、在家 回收。 | Cutting down on plastic, taking public transport, recycling at home. |
+| 3 | 除此之外，参加 本地 清理 也 有用。 | On top of that, joining local clean-ups makes a difference. |
+| 4 | 所以 它 归结到 那些 日常 选择 加起来。 | So it comes down to everyday choices adding up. |
+
+> Loads of small things, really. Cutting down on plastic, taking public transport, recycling at home. On top of that, joining local clean-ups makes a difference. So it comes down to everyday choices adding up.
+
+> 🔁 **复用**：`Loads of … really`+`cutting down on plastic`(新27)+`On top of that`+`adding up`(新27)+`comes down to`。
+
+**Q6. Is it important to teach students environmental protection at school?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 学校 塑造 孩子 怎么 看 世界，所以 它 早早 种下 那 正确的 价值观。 | Schools shape how kids see the world, so it plants the right values early. |
+| 3 | 此外，孩子 事后 唠叨 他们的 父母，所以 那 信息 传 回 家。 | Plus, kids nag their parents afterwards, so the message spreads home. |
+| 4 | 所以 它 归结到 建立 意识 的 最便宜 方式 之一。 | So it comes down to one of the cheapest ways to build awareness. |
+
+> Absolutely, I think so. Schools shape how kids see the world, so it plants the right values early. Plus, kids nag their parents afterwards, so the message spreads home. So it comes down to one of the cheapest ways to build awareness.
+
+> 🔁 **复用**：`Absolutely, I think so`+`Plus`+kids nag(新22 son reminds)+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Absolutely, I think so` / `kids copy them` / `setting a good example early` · `A few good ones, really` / `rubbish-sorting rule` · `Rewards, I'd say` / `encouraging, not forcing` · `Not really, to be honest` / `green space` / `a real taste of nature` · `Loads of small things, really` / `cutting down on plastic` / `adding up` · `Absolutely, I think so` / `build awareness`。
+
+---
+
+## P2-老24 · A shop you enjoy visiting — 成都 MUJI（Place）  〔复用生成〕
+
+> **Cue**: 店名 / 在哪 / 多常去 / 为何喜欢 · 题型 Place
+>
+> 🔁 **整卡复用自**：新01 IFS(here in Chengdu, where I live/weekend with my wife/less about X more about Y) + 老26(escape/calm) + 老24降档(calm, tidy feel) + 新23(for ages) + 老12(take my time)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那家 店 是 MUJI，那个 日本 生活方式 品牌。 | The shop I'd like to talk about is MUJI, the Japanese lifestyle brand. |
+| 2 | 有 一家 藏 在 成都 这儿 一个 大 商场 里、（我 住的地方）。 | There's one tucked inside a big shopping mall here in Chengdu, where I live. |
+| 3 | 我 一个月 顺道 去 一两次，通常 为 一个 放松的 周末 跟 我 老婆。 | I drop by once or twice a month, usually for a relaxed weekend with my wife. |
+| 4 | 我 最 喜欢的 是 它 那 平静、整洁 的 感觉。 | What I love most is the calm, tidy feel of it. |
+| 5 | 它 是 一个 这么 好 的 逃离，从 一个 繁忙 商场 的 喧闹。 | It's such a nice escape from the noise of a busy mall. |
+| 6 | 那些 产品 简单、又 顺眼，而 我 能 逛 老半天。 | The products are simple and nice to look at, and I could browse for ages. |
+| 7 | 此外，那 员工 不 咄咄逼人，所以 我 能 慢慢来。 | Plus, the staff aren't pushy, so I can take my time. |
+| 8 | 十有八九，我 走出来 带着 一个 我 没 打算 买 的 小 笔记本。 | More often than not, I walk out with a little notebook I didn't plan on buying. |
+| 9 | 说实话，对我 它 更少 关于 购物、更多 关于 放松。 | Honestly, for me it's less about shopping and more about unwinding. |
+| 10 | 所以 它 基本上 是 我 的 方式、[去]在 一个 忙 的 周末 按 下 暂停。 | So it's basically my way of pressing pause on a busy weekend. |
+
+### ②P2 整段（shadow）
+
+> The shop I'd like to talk about is MUJI, the Japanese lifestyle brand. There's one tucked inside a big shopping mall here in Chengdu, where I live. I drop by once or twice a month, usually for a relaxed weekend with my wife. What I love most is the calm, tidy feel of it. It's such a nice escape from the noise of a busy mall. The products are simple and nice to look at, and I could browse for ages. Plus, the staff aren't pushy, so I can take my time. More often than not, I walk out with a little notebook I didn't plan on buying. Honestly, for me it's less about shopping and more about unwinding. So it's basically my way of pressing pause on a busy weekend.
+
+> 🔁 **复用**：句2 `here in Chengdu, where I live`(新01)；句3 `weekend with my wife`(新01/老26)；句4 `calm, tidy feel`(老24降档)；句5 `escape`(老26)；句6 `for ages`(新23)；句7 `take my time`(老12)；句9 `less about X and more about Y`(老24)。
+
+### 句型/模板（复用池）
+
+- `The shop I'd like to talk about is MUJI, the Japanese lifestyle brand` · `tucked inside a big shopping mall here in Chengdu, where I live` · `What I love most is the calm, tidy feel of it` · `such a nice escape from the noise of a busy mall` · `it's less about shopping and more about unwinding`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Do people in your country go to the shopping mall frequently?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，相当 多，我会说。 | Yeah, quite a lot, I'd say. |
+| 2 | 商场 已经 变成 更 是 一个 社交 中心、而不 只是 一个 购物 的地方。 | Malls have become more of a social hub than just a place to shop. |
+| 3 | 人们 去 抓 一顿饭、看 一场 电影、或 跟 哥们儿 混。 | People go to grab a meal, catch a film, or hang out with mates. |
+| 4 | 所以 它 归结到 它 全 在 一个 屋顶 下。 | So it comes down to it all being under one roof. |
+
+> Yeah, quite a lot, I'd say. Malls have become more of a social hub than just a place to shop. People go to grab a meal, catch a film, or hang out with mates. So it comes down to it all being under one roof.
+
+> 🔁 **复用**：`quite a lot, I'd say`+`hang out with mates`(老24)+`all under one roof`(老24)+`comes down to`。
+
+**Q2. How have people's shopping habits changed in recent decades?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 那 最大的 转变 是 网购——人们 现在 几乎 一切 都 在 手机上 买。 | The biggest shift's online shopping — people buy almost everything on their phones now. |
+| 3 | 而 他们 仍然 享受 一趟 实体 之行、为 更大的 购买。 | Whereas they still enjoy a physical trip for bigger buys. |
+| 4 | 所以 它 归结到 现在 两者 的 一个 混合。 | So it comes down to a mix of both now. |
+
+> Massively, I reckon. The biggest shift's online shopping — people buy almost everything on their phones now. Whereas they still enjoy a physical trip for bigger buys. So it comes down to a mix of both now.
+
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`a mix of both`(老08-Q1)+`comes down to`。
+
+**Q3. Do you think shops and shopping malls will disappear in the future?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我 怀疑。 | I doubt it. |
+| 2 | 网购 一直 增长，但 商场 提供 某种东西、（一个 屏幕 做不到 的）。 | Online keeps growing, but malls offer something a screen can't. |
+| 3 | 它们 会 就 演变 成 更 是 一个 体验，带 餐厅 和 娱乐。 | They'll just evolve into more of an experience, with restaurants and entertainment. |
+| 4 | 所以 它 归结到 重塑 它们 自己。 | So it comes down to reinventing themselves. |
+
+> I doubt it. Online keeps growing, but malls offer something a screen can't. They'll just evolve into more of an experience, with restaurants and entertainment. So it comes down to reinventing themselves.
+
+> 🔁 **复用**：`I doubt it`(新07-Q4)+`comes down to`。
+
+**Q4. What are the differences between shopping in street markets and big shopping malls?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 市场 感觉 更 有生气、你 能 讨价还价，而 商场 更 干净、更 有条理。 | Markets feel livelier and you can haggle, whereas malls are cleaner and more organised. |
+| 3 | 市场 有 更多 个性，但 商场 赢 在 便捷。 | Markets have more character, but malls win on convenience. |
+| 4 | 所以 它 归结到 你 追求 什么。 | So it comes down to what you're after. |
+
+> Quite a few, actually. Markets feel livelier and you can haggle, whereas malls are cleaner and more organised. Markets have more character, but malls win on convenience. So it comes down to what you're after.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+`character`(老25-Q5)+`what you're after`(新18-Q1)+`comes down to`。
+
+**Q5. What are the differences in the shopping habits of different age groups?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 年轻人 网购、还 追 潮流，而 老年人 更喜欢 亲自 浏览。 | Young people shop online and chase trends, whereas older folk prefer browsing in person. |
+| 3 | 我 父母 仍然 喜欢 在 买 之前 看看 东西。 | My parents still like to see things before they buy. |
+| 4 | 所以 它 归结到 他们 是 伴随 什么 长大的。 | So it comes down to what they grew up with. |
+
+> Quite a few, actually. Young people shop online and chase trends, whereas older folk prefer browsing in person. My parents still like to see things before they buy. So it comes down to what they grew up with.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas older folk`+`my parents`(老08)+`comes down to what they grew up with`(老08-Q1)。
+
+**Q6. What are the differences between shopping online and in-store?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 有 一个 大 差距，说实话。 | There's a big gap, honestly. |
+| 2 | 网上 全 关于 便捷——你 能 随时 购物。 | Online's all about convenience — you can shop anytime. |
+| 3 | 而 店里，你 得以 检查 产品、还 立刻 把 它 带 回家。 | Whereas in-store, you get to check the product and take it home straight away. |
+| 4 | 所以 它 归结到 你 在 买 什么。 | So it comes down to what you're buying. |
+
+> There's a big gap, honestly. Online's all about convenience — you can shop anytime. Whereas in-store, you get to check the product and take it home straight away. So it comes down to what you're buying.
+
+> 🔁 **复用**：`There's a big gap, honestly`+`whereas`+`comes down to what you're buying`(新09-Q3)。
+
+**P3 句型/模板（复用池）**：`quite a lot, I'd say` / `hang out with mates` / `all under one roof` · `Massively, I reckon` / `a mix of both` · `I doubt it` / `reinventing themselves` · `Quite a few, actually` / `more character` / `what you're after` · `whereas older folk` / `comes down to what they grew up with` · `There's a big gap, honestly` / `what you're buying`。
+
+---
+
+## P2-老25 · A city you enjoyed visiting — 重庆（Place）  〔复用生成〕
+
+> **Cue**: 在哪 / 何时去 / 待多久 / 做了什么 / 为何享受 · 题型 Place
+>
+> 🔁 **整卡复用自**：新18(completely immersed/stuck with me) + 老05(family trip) + wife/son + 老12(son ran around) + 老25降档(stunning)。重庆/火锅/轻轨=具体设定。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那座 城市 是 重庆，一个 巨大、多山的 地方，离 成都 不远、（我 住的地方）。 | The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. |
+| 2 | 我 几年前 去 那儿，一次 家庭 旅行，跟 我 老婆 和 儿子。 | I went there a couple of years ago on a family trip, with my wife and son. |
+| 3 | 我们 待 了 大约 三四天。 | We stayed for about three or four days. |
+| 4 | 我们 吃 那 有名的 辣 火锅，还 坐 那 直接 穿过 一栋 楼 的 轻轨。 | We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. |
+| 5 | 晚上 我们 看 那 河边 老城 全 点亮——它 很 惊艳。 | At night we saw the riverside old town all lit up — it was stunning. |
+| 6 | 我 真正 爱的 是 那 狂野、层叠 的 布局。 | What I really loved was the wild, layered layout. |
+| 7 | 那些 路 和 楼 一个 摞 在 另一个 上面，所以 你 搞不清 你 在 哪一层。 | The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. |
+| 8 | 说实话，我 完全 沉浸 在 整个 地方 里。 | Honestly, I was completely immersed in the whole place. |
+| 9 | 我 儿子 到处 跑、每一分钟 都 很爱。 | My son ran around loving every minute of it. |
+| 10 | 所以 对我，它 是 一座 真的 留 在 我 心里 的 城市。 | So for me, it's a city that really stuck with me. |
+
+### ②P2 整段（shadow）
+
+> The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. I went there a couple of years ago on a family trip, with my wife and son. We stayed for about three or four days. We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. At night we saw the riverside old town all lit up — it was stunning. What I really loved was the wild, layered layout. The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. Honestly, I was completely immersed in the whole place. My son ran around loving every minute of it. So for me, it's a city that really stuck with me.
+
+> 🔁 **复用**：句1 `not far from Chengdu, where I live`(新18/新01)；句2 `family trip`(老05)；句5 `stunning`(老25降档)；句8 `completely immersed`(新18)；句9 `ran around`(老12)；句10 `stuck with me`(新18)。
+
+### 句型/模板（复用池）
+
+- `The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live` · `I went there a couple of years ago on a family trip` · `What I really loved was the wild, layered layout` · `I was completely immersed in the whole place` · `it's a city that really stuck with me`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What kinds of facilities do big cities have?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一大堆，真的。 | Loads, really. |
+| 2 | 正经的 医院、好的 公共交通、购物中心、和 公园。 | Proper hospitals, good public transport, shopping malls, and parks. |
+| 3 | 除此之外，他们 有 大学 和 电影院。 | On top of that, they've got universities and cinemas. |
+| 4 | 所以 它 归结到 它 全 塞 进 一个 地方。 | So it comes down to it all being packed into one place. |
+
+> Loads, really. Proper hospitals, good public transport, shopping malls, and parks. On top of that, they've got universities and cinemas. So it comes down to it all being packed into one place.
+
+> 🔁 **复用**：`Loads, really`+`On top of that`+`packed into one place`(新01-Q1)+`comes down to`。
+
+**Q2. Do you think modern cities are suitable for young people or old people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 更 年轻的，我会说。 | Younger, I'd say. |
+| 2 | 那 节奏 快、而 有 一大堆 工作 机会，（那 年轻人 爱）。 | The pace is fast and there are loads of job chances, which young people love. |
+| 3 | 而 老年人 可能 觉得 它 太 吵、太 挤。 | Whereas older people might find it too noisy and crowded. |
+| 4 | 所以 它 归结到 你 在 人生 哪个 阶段。 | So it comes down to what stage of life you're at. |
+
+> Younger, I'd say. The pace is fast and there are loads of job chances, which young people love. Whereas older people might find it too noisy and crowded. So it comes down to what stage of life you're at.
+
+> 🔁 **复用**：`Younger, I'd say`(老09-Q4)+`whereas`+`what stage of life you're at`(新19-Q3)。
+
+**Q3. Before you travel to a city, what factors would you consider?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几样 东西，真的。 | A few things, really. |
+| 2 | 对 我 来说，那 第一件事 是 成本，然后 它 有 多 安全。 | For me, the first thing's the cost, then how safe it is. |
+| 3 | 除此之外，交通 和 有 什么 可看的。 | On top of that, transport and what there is to see. |
+| 4 | 所以 它 归结到 先 权衡 几样 东西。 | So it comes down to weighing a few things first. |
+
+> A few things, really. For me, the first thing's the cost, then how safe it is. On top of that, transport and what there is to see. So it comes down to weighing a few things first.
+
+> 🔁 **复用**：`A few things, really`+`On top of that`+`weighing a few things`(新12)+`comes down to`。
+
+**Q4. What are the disadvantages of living in a very famous city?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个，其实。 | Quite a few, actually. |
+| 2 | 有名的 城市 被 游客 淹没，所以 它们 拥挤、而 价格 飙升。 | Famous cities get swamped with tourists, so they're crowded and prices shoot up. |
+| 3 | 而 那 噪音 和 污染 随时间 把 你 磨垮。 | Whereas the noise and pollution wear you down over time. |
+| 4 | 所以 它 归结到 它 值不值 那 麻烦。 | So it comes down to whether it's worth the hassle. |
+
+> Quite a few, actually. Famous cities get swamped with tourists, so they're crowded and prices shoot up. Whereas the noise and pollution wear you down over time. So it comes down to whether it's worth the hassle.
+
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+`hassle`(老20)+`comes down to`。
+
+**Q5. Do you prefer to visit well-developed cities or cities with a long history?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 有 一段 长 历史 的 城市，我会说。 | Cities with a long history, I'd say. |
+| 2 | 有 某种 特别的东西、关于 老 街道、（那种 讲 一个 真实 故事的）。 | There's something special about old streets that tells a real story. |
+| 3 | 而 发达 城市 可能 感觉 有点 千篇一律。 | Whereas developed cities can feel a bit samey. |
+| 4 | 所以 它 归结到 想要 一点 个性。 | So it comes down to wanting some character. |
+
+> Cities with a long history, I'd say. There's something special about old streets that tells a real story. Whereas developed cities can feel a bit samey. So it comes down to wanting some character.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`character`(老24-Q4)+`comes down to`。
+
+**Q6. For those who live in cities, is it because they want to or have to?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 是 两者，真的。 | It's a bit of both, really. |
+| 2 | 有些人 真心 爱 那 热闹 和 便捷，所以 他们 选择 它。 | Some genuinely love the buzz and convenience, so they choose it. |
+| 3 | 而 另一些 搬 进来 只 为了 追 工作 或 更好的 学校。 | Whereas others move in just to chase jobs or better schools. |
+| 4 | 所以 对 一大堆 人，它 归结到 工作，不是 选择。 | So for a lot of people, it comes down to work, not choice. |
+
+> It's a bit of both, really. Some genuinely love the buzz and convenience, so they choose it. Whereas others move in just to chase jobs or better schools. So for a lot of people, it comes down to work, not choice.
+
+> 🔁 **复用**：`a bit of both, really`(老08-Q1)+`the buzz`(老25)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`Loads, really` / `packed into one place` · `Younger, I'd say` / `what stage of life you're at` · `A few things, really` / `weighing a few things` · `Quite a few, actually` / `worth the hassle` · `Cities with a long history, I'd say` / `some character` · `a bit of both, really` / `the buzz`。
+
+---
+
+## P2-老26 · A quiet place you like to go — 成都安静小公园（Place）  〔复用生成〕
+
+> **Cue**: 在哪 / 怎么知道 / 多常去 / 做什么 / 你的感受 · 题型 Place
+>
+> 🔁 **整卡复用自**：老26 小公园（这是"little escape / clear my head / recharged"的主场）+ son + 新18(unwind)。是全书被复用最多的安静公园设定的源头。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 地方 是 我 成都 家 附近 一个 小、安静的 公园。 | The place I'd like to talk about is a small, quiet park near my home in Chengdu. |
+| 2 | 它 有 一个 小 湖 和 一些 竹子，而 它 一点 不 像 那些 拥挤的 有名 公园。 | It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. |
+| 3 | 我 好多年前 撞见 它，当 我 儿子 还是 一个 婴儿、需要 一些 新鲜 空气。 | I stumbled on it years ago, when my son was a baby and needed some fresh air. |
+| 4 | 我 挺 常 回去，通常 一大早、当 它 几乎 空。 | I go back pretty often, usually early in the morning when it's almost empty. |
+| 5 | 大多 我 就 绕着 那 湖 溜达 或 坐 着 读 一会儿。 | Mostly I just stroll around the lake or sit and read for a while. |
+| 6 | 其他 时候 我 带 我 儿子 一起 去 喂 鱼。 | Other times I bring my son along to feed the fish. |
+| 7 | 我 爱 它 的地方 是 它 怎么 让 我 放松。 | What I love about it is how it lets me unwind. |
+| 8 | 它 离 那 车流 只 几分钟，但 它 感觉 离 所有 那 喧嚣 几英里 远。 | It's only minutes from the traffic, but it feels miles away from all the noise. |
+| 9 | 说实话，它 是 我 的 小 逃离，而 我 在 那儿 理清 我的 脑子。 | Honestly, it's my little escape, and I clear my head there. |
+| 10 | 所以 对我，我 总是 带着 一种 充电 的 感觉 离开。 | So for me, I always come away feeling recharged. |
+
+### ②P2 整段（shadow）
+
+> The place I'd like to talk about is a small, quiet park near my home in Chengdu. It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. I stumbled on it years ago, when my son was a baby and needed some fresh air. I go back pretty often, usually early in the morning when it's almost empty. Mostly I just stroll around the lake or sit and read for a while. Other times I bring my son along to feed the fish. What I love about it is how it lets me unwind. It's only minutes from the traffic, but it feels miles away from all the noise. Honestly, it's my little escape, and I clear my head there. So for me, I always come away feeling recharged.
+
+> 🔁 **复用**：整段 = 老26 核心（`small, quiet park near my home` / `What I love about it is how it lets me unwind` / `only minutes from the traffic … miles away` / `my little escape` / `clear my head` / `come away feeling recharged`）+ son + `unwind`(新18/老24)。
+
+### 句型/模板（复用池）
+
+- `The place I'd like to talk about is a small, quiet park near my home in Chengdu` · `it's nothing like the crowded famous parks` · `What I love about it is how it lets me unwind` · `it feels miles away from all the noise` · `it's my little escape, and I clear my head there` · `I always come away feeling recharged`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Is it easy to find quiet places in your country? Why?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 变得 更 难，说实话。 | It's getting harder, honestly. |
+| 2 | 在 大 城市，几乎 到处 有 车流 和 人群。 | In big cities, there's traffic and crowds almost everywhere. |
+| 3 | 而 如果 你 知道 去 哪儿 找，你 仍然 能 找到 小 角落。 | Whereas if you know where to look, you can still find little pockets. |
+| 4 | 所以 它 归结到 知道 去 哪儿。 | So it comes down to knowing where to go. |
+
+> It's getting harder, honestly. In big cities, there's traffic and crowds almost everywhere. Whereas if you know where to look, you can still find little pockets. So it comes down to knowing where to go.
+
+> 🔁 **复用**：`honestly`+`whereas`+`little pockets`(老26-examples 风)+`comes down to`。
+
+**Q2. How do people spend their leisure time in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 年轻人 刷 手机 或 见面 吃 火锅，而 老年人 打 太极 或 打 牌。 | Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards. |
+| 3 | 出去吃 是 一个 大的、跨 所有 年龄。 | Eating out is a big one across all ages. |
+| 4 | 所以 它 归结到 无论 什么 帮 他们 放松。 | So it comes down to whatever helps them relax. |
+
+> All sorts, really. Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards. Eating out is a big one across all ages. So it comes down to whatever helps them relax.
+
+> 🔁 **复用**：`All sorts, really`+`scroll`(老08)+`whereas older folk`+`comes down to`。
+
+**Q3. How does technology affect the way people spend their leisure time?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 人们 现在 用 手机 填 几乎 每一 空闲 分钟。 | People fill almost every spare minute with their phones now. |
+| 3 | 而 它 让 我们 有点 更 懒、更 粘 屏幕。 | Whereas it's made us a bit lazier and more glued to screens. |
+| 4 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
+
+> Massively, I reckon. People fill almost every spare minute with their phones now. Whereas it's made us a bit lazier and more glued to screens. So it comes down to how we use it.
+
+> 🔁 **复用**：`Massively, I reckon`+`glued to screens`(新16-Q3)+`whereas`+`comes down to how we use it`(新07-Q6)。
+
+**Q4. Do you think only old people have time for leisure?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 一点也不，说实话。 | Not at all, honestly. |
+| 2 | 诚然，退休的人 有 更多 空闲 时间，但 每个人 都 需要 停机时间 [去]充电。 | Sure, retired folk have more free time, but everyone needs downtime to recharge. |
+| 3 | 而 甚至 忙碌的人 也 在 任何 他们 能的 地方 挤 进 休闲。 | Whereas even busy people squeeze in leisure where they can. |
+| 4 | 所以 它 归结到 一个 基本的 人类 需求。 | So it comes down to a basic human need. |
+
+> Not at all, honestly. Sure, retired folk have more free time, but everyone needs downtime to recharge. Whereas even busy people squeeze in leisure where they can. So it comes down to a basic human need.
+
+> 🔁 **复用**：`honestly`+`Sure, … but`(老08-Q6)+`whereas`+`comes down to`。
+
+**Q5. Why do old people prefer to live in quiet places?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 为了 内心的 安宁，我会说。 | Mainly for peace of mind, I'd say. |
+| 2 | 在 几十年 的 喧嚣 之后，他们 就 想 某个 平静的地方 [去]慢下来。 | After decades of noise, they just want somewhere calm to slow down. |
+| 3 | 而 安静的 地方 更 温柔——更少 噪音、更少 压力。 | Whereas quiet places are gentler — less noise, less stress. |
+| 4 | 所以 它 归结到 一个 更 慢、更 平静的 节奏。 | So it comes down to a slower, calmer pace. |
+
+> Mainly for peace of mind, I'd say. After decades of noise, they just want somewhere calm to slow down. Whereas quiet places are gentler — less noise, less stress. So it comes down to a slower, calmer pace.
+
+> 🔁 **复用**：`Mainly … I'd say`+`just want somewhere calm`(老26降档)+`slow down`(新18)+`whereas`+`comes down to`。
+
+**Q6. Why are there more noises made at home now than in the past?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 因为 我们 现在 拥有的 所有 那些 小设备，我会说。 | Mainly because of all the gadgets we own now, I'd say. |
+| 2 | 家里 塞满 电视、音箱、和 粘 在 游戏上 的 孩子。 | Homes are packed with TVs, speakers, and kids glued to games. |
+| 3 | 而 在 过去，地方 更 简单、更 安静。 | Whereas in the past, places were simpler and quieter. |
+| 4 | 所以 它 归结到 我们 现在 有 多少 东西。 | So it comes down to how much stuff we've got now. |
+
+> Mainly because of all the gadgets we own now, I'd say. Homes are packed with TVs, speakers, and kids glued to games. Whereas in the past, places were simpler and quieter. So it comes down to how much stuff we've got now.
+
+> 🔁 **复用**：`Mainly … I'd say`+`gadgets`(老20-Q2)+`glued to`(新16)+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`It's getting harder, honestly` / `little pockets` · `All sorts, really` / `whereas older folk` · `Massively, I reckon` / `glued to screens` / `comes down to how we use it` · `Not at all, honestly` / `Sure, … but` · `Mainly for peace of mind, I'd say` / `just want somewhere calm` · `Mainly because of all the gadgets …, I'd say` / `glued to games`。
+
+---
+
+## P2-老27 · A TV or online program you like to watch — 烘焙比赛节目（Object）  〔复用生成〕
+
+> **Cue**: 是什么 / 讲什么 / 和谁看 / 为何喜欢 · 题型 Object
+>
+> 🔁 **整卡复用自**：新14 老婆烘焙(loves baking/bringing everyone together) + wife/son + 新15-Q2(now and then) + 老24(unwind) + 新14(not really about X, it's about Y)。
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 节目 是 一个 烘焙 比赛 节目。 | The programme I'd like to talk about is a baking competition show. |
+| 2 | 它 关于 一群 家庭 烘焙者 在 一个 大 帐篷 里 做 蛋糕 和 糕点。 | It's about a group of home bakers making cakes and pastries in a big tent. |
+| 3 | 我 总是 跟 我 老婆 一起 看，（她 自己 是 一个 热心的 烘焙者）。 | I always watch it with my wife, who's a keen baker herself. |
+| 4 | 时不时 我们的 儿子 加入 那 蛋糕 部分。 | Now and then our son joins in for the cake bits. |
+| 5 | 我 爱 的 是 它 那么 健康——没有 戏剧，只有 善良的人。 | What I love is that it's so wholesome — there's no drama, just kind people. |
+| 6 | 除此之外，我 老婆 从 它 得到 一大堆 食谱 灵感。 | On top of that, my wife gets loads of recipe ideas from it. |
+| 7 | 她 其实 试着 在家 重现 几个 那些 烘焙品。 | She's actually tried to recreate a few of the bakes at home. |
+| 8 | 说实话，它 是 我们 温馨的 方式、[去]在 一个 周末 晚上 一起 放松。 | Honestly, it's our cosy way to unwind together on a weekend evening. |
+| 9 | 它 把 大家 聚 到 一起，而 我们 总是 为 那些 烘焙者 加油。 | It brings everyone together, and we always root for the bakers. |
+| 10 | 所以 对我，它 不 真的 关于 那 烘焙——它 关于 一起 的 那段 时间。 | So for me, it's not really about the baking — it's about the time together. |
+
+### ②P2 整段（shadow）
+
+> The programme I'd like to talk about is a baking competition show. It's about a group of home bakers making cakes and pastries in a big tent. I always watch it with my wife, who's a keen baker herself. Now and then our son joins in for the cake bits. What I love is that it's so wholesome — there's no drama, just kind people. On top of that, my wife gets loads of recipe ideas from it. She's actually tried to recreate a few of the bakes at home. Honestly, it's our cosy way to unwind together on a weekend evening. It brings everyone together, and we always root for the bakers. So for me, it's not really about the baking — it's about the time together.
+
+> 🔁 **复用**：句3 wife 烘焙(新14)；句4 `now and then`(新15-Q2)；句6 `On top of that`；句7 recreate bakes(新14 wife makes cake)；句8 `unwind`(老24)；句9 `brings everyone together`(新14)；句10 `not really about X — it's about Y`(新14)。
+
+### 句型/模板（复用池）
+
+- `The programme I'd like to talk about is a baking competition show` · `I always watch it with my wife, who's a keen baker herself` · `What I love is that it's so wholesome — there's no drama, just kind people` · `it's our cosy way to unwind together on a weekend evening` · `it's not really about the baking — it's about the time together`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. What programs do people like to watch in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 各种，真的。 | All sorts, really. |
+| 2 | 真人秀 巨大——才艺 比赛、烹饪 对战，那种 节目。 | Reality shows are huge — talent contests, cooking battles, that kind of thing. |
+| 3 | 人们 爱 它们 因为 它们 在 漫长的 一天 后 容易 跟上。 | People love them because they're easy to follow after a long day. |
+| 4 | 所以 它 归结到 某个 轻松的 东西 [去]放松。 | So it comes down to something light to relax with. |
+
+> All sorts, really. Reality shows are huge — talent contests, cooking battles, that kind of thing. People love them because they're easy to follow after a long day. So it comes down to something light to relax with.
+
+> 🔁 **复用**：`All sorts, really`+`that kind of thing`+`easy to follow after a long day`(新15-Q1)+`comes down to`。
+
+**Q2. Do people in your country like to watch foreign TV programs?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 相当 几个 会，我会说。 | Quite a few do, I'd say. |
+| 2 | 流媒体 让 外国 节目 真的 容易 看，所以 年轻人 很爱 它们。 | Streaming's made foreign shows really easy to watch, so young people love them. |
+| 3 | 而 更 老的 世代 仍然 更喜欢 本地 节目。 | Whereas older generations still prefer local programmes. |
+| 4 | 所以 它 归结到 他们 是 伴随 什么 长大的。 | So it comes down to what they grew up with. |
+
+> Quite a few do, I'd say. Streaming's made foreign shows really easy to watch, so young people love them. Whereas older generations still prefer local programmes. So it comes down to what they grew up with.
+
+> 🔁 **复用**：`Quite a few do, I'd say`(老24-Q1)+`whereas`+`comes down to what they grew up with`(老08-Q1)。
+
+**Q3. What's the benefit of letting kids watch animal videos than visiting zoos?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个，真的。 | A few, really. |
+| 2 | 主要 是 便捷——你 能 给 孩子 看 来自 世界各地 的 动物、不 离开 家。 | Mainly convenience — you can show kids animals from around the world without leaving home. |
+| 3 | 而 没有东西 完全 比得过 亲近 看 一个 真 动物。 | Whereas nothing quite beats seeing a real animal up close. |
+| 4 | 所以 它 归结到 混 两者。 | So it comes down to mixing both. |
+
+> A few, really. Mainly convenience — you can show kids animals from around the world without leaving home. Whereas nothing quite beats seeing a real animal up close. So it comes down to mixing both.
+
+> 🔁 **复用**：`A few, really`+`Mainly`+`whereas`+`nothing … beats`(新07)+`comes down to`。
+
+**Q4. Do teachers play videos in class in your country?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 是的，挺 常，我会说。 | Yeah, quite often, I'd say. |
+| 2 | 一个 短 片段 帮 打断 一节课、还 解释 棘手的 想法。 | A short clip helps break up a lesson and explain tricky ideas. |
+| 3 | 而 只是 对 学生 说 让 他们 走神。 | Whereas just talking at students makes them switch off. |
+| 4 | 所以 它 归结到 保持 那 课 吸引人。 | So it comes down to keeping the class engaging. |
+
+> Yeah, quite often, I'd say. A short clip helps break up a lesson and explain tricky ideas. Whereas just talking at students makes them switch off. So it comes down to keeping the class engaging.
+
+> 🔁 **复用**：`… I'd say`+`whereas`+`talking at … switch off`(新03-Q4)+`comes down to`。
+
+**Q5. Do you think watching talk shows is a waste of time?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 不太，不。 | Not really, no. |
+| 2 | 一个 好 脱口秀 能 有 娱乐性、还 激起 有趣的 辩论。 | A good talk show can be entertaining and spark interesting debates. |
+| 3 | 所以 你 在 放松、同时 捡起 新 观点。 | So you're relaxing and picking up new views at the same time. |
+| 4 | 所以 说实话，它 归结到 你 看 哪 一个。 | So honestly, it comes down to which one you watch. |
+
+> Not really, no. A good talk show can be entertaining and spark interesting debates. So you're relaxing and picking up new views at the same time. So honestly, it comes down to which one you watch.
+
+> 🔁 **复用**：`Not really, no`+`picking up`(新15)+`comes down to`。
+
+**Q6. Do you think we can acquire knowledge from watching TV programs?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
+| 2 | 纪录片 塞满 事实、（你 否则 永远 撞不见 的）。 | Documentaries are packed with facts you'd never bump into otherwise. |
+| 3 | 而 你 得 有点 选择性，因为 有些 节目 只是 花架子。 | Whereas you've got to be a bit selective, since some shows are just fluff. |
+| 4 | 所以 它 归结到 挑 对 的 那些。 | So it comes down to picking the right ones. |
+
+> Absolutely, I think so. Documentaries are packed with facts you'd never bump into otherwise. Whereas you've got to be a bit selective, since some shows are just fluff. So it comes down to picking the right ones.
+
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`comes down to`。
+
+**P3 句型/模板（复用池）**：`All sorts, really` / `easy to follow after a long day` · `Quite a few do, I'd say` / `comes down to what they grew up with` · `A few, really` / `nothing quite beats` · `Yeah, quite often, I'd say` / `talking at … switch off` · `Not really, no` / `picking up new views` · `Absolutely, I think so` / `picking the right ones`。
+
+---
+
+> **✅ 全 54 张收官（新01–27 + 老01–27）。** 每张 = P2 拆解表 + P2 整段 + 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用审计）+ P3 句型。其中 **13 张 = 你的版**（session 06-22→06-29 真练过 · 未降未改）+ **41 张 = 复用生成**（全部拼你的素材池、零新素材、每答附🔁复用来源）。用法见文件顶部素材池。
