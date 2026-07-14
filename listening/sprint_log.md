@@ -6,7 +6,7 @@
 |------|------|--------|--------|----|----------------------|
 | 7/12 | Hand knitting (S4) | 4/10 | 10/10* | 8/10 | — |
 | 7/12 | Dodo extinction (S4) | **6/10(新题!)** | — | — | — |
-| 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | 9/10 | — | — |
+| 7/14 | Maple syrup (S4,Process) | **4/10(新题)** | 9/10 | 9/10(P1) | — |
 > 二遍9/10(4→9)。唯一漏=37 fire,知道答案也没听到=**回溯型(等heated但fire在其前"a fire is built...heated")+弱读**(重音在built,fire连读is)。纯听→认gap,技术补不满=耳朵时间;一section漏1个这种不影响6.5,别追。部分解:锚在"by means of"别等heated/"a fire is built"当连读块跟读。
 > 🟡 **G1 未达标**: 需新P4一遍≥6连两次;dodo=6→maple=4,streak断。**非全面倒退=问题搬家**(开头修好31/32/33全对,尾巴34-40塌)。material更难(Process,技术词密diameter/evaporator)。
 > *二遍看过答案,含记忆成分,不证明技能;真验证=新 P4
@@ -71,6 +71,8 @@
 **diameter=真词汇盲点(认)**: 公平损失,进错句表慢慢喂耳。
 **明日单焦点**: ①签名错误新判据(重复=诱饵/新词=答案) ②caught-word>blank ③止损跳。冲重建G1(新P4一遍≥6)。
 
+**P1(Easy Life Cleaning)9/10 — 干净(非签名错误,判据在起作用)。** 唯一漏=training:口音把train的/eɪ/读成/aɪ/=听着"try-ing"=口音驱动听→认失败(防不住)。**但可倒推救回(=colony招复用)**: "trying"读不通+空要名词+逻辑"两周+考试"→逼出training。规则:听到"不像真词"的模糊音别照写,用①词性②空逻辑倒推,让空逼出词,别让耳朵硬猜。碰口音解不开=倒推,不是再使劲听。
+
 ## ③ 错句表
 
 | 日期 | 答案句(摘抄) | 答案词 | 归因 | 跟读√ | 次日重放√ | ⭐仍不顺 |
@@ -87,3 +89,4 @@
 | 7/14 | gives the syrup a cloudy appearance | cloudy | 位(级联) | | | |
 | 7/14 | to produce one litre of maple syrup | litre | 位(听到没填!) | | | |
 | 7/14 | the trunks reach a diameter of around 25 centimetres | diameter | 认(技术词) | | | |
+| 7/14 | we give them training for it. That lasts for two weeks...a test | training | 认(口音train→try) | | | |
