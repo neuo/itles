@@ -2118,11 +2118,13 @@
 | 7 | 但 说实话，我 不 会 想 全职 住 那儿。 | But honestly, I wouldn't want to live there full-time. |
 | 8 | 它 离 工作、商店、还有 我 儿子的 学校 太 远。 | It's too far from work, the shops, and my son's school. |
 | 9 | 在 一个 城市，一切 都 在 一个 屋顶 下，而 那 外面 你 开 老半天 才 买 到 任何 东西。 | In a city, everything's under one roof, whereas out there you drive ages for anything. |
-| 10 | 所以 对我，它 是 那个 完美 去 逛 的 地方，但 不 是 安家 的。 | So for me, it's the perfect place to visit, but not to settle. |
+| 10 | 每次 我们 去，我 外婆 都 做 一大桌 家宴，而 我们 都 围 着 桌子 坐 好几个 小时。 | Whenever we go, my grandmother cooks a huge family meal, and we all sit around the table for hours. |
+| 11 | 我 儿子 也 很爱 那儿——他 一整天 都 在 花园 里 到处 跑。 | My son loves it there too — he runs around the garden all day. |
+| 12 | 所以 对我，它 是 那个 完美 去 逛 的 地方，但 不 是 安家 的。 | So for me, it's the perfect place to visit, but not to settle. |
 
 ### ②P2 整段（shadow）
 
-> The home I'd like to talk about is my grandparents' place, out in the countryside. It's an old house with a big garden, where my grandfather grows vegetables. I love visiting because it brings back memories of my childhood — he raised me there. It's so quiet and calm, a real escape from the city. Whenever we go, my son runs around the garden and we all just relax. What I love most is the slow pace — we take our time, eat together, and chat. But honestly, I wouldn't want to live there full-time. It's too far from work, the shops, and my son's school. In a city, everything's under one roof, whereas out there you drive ages for anything. So for me, it's the perfect place to visit, but not to settle.
+> The home I'd like to talk about is my grandparents' place, out in the countryside. It's an old house with a big garden, where my grandfather grows vegetables. I love visiting because it brings back memories of my childhood — he raised me there. It's so quiet and calm, a real escape from the city. Whenever we go, my son runs around the garden and we all just relax. What I love most is the slow pace — we take our time, eat together, and chat. But honestly, I wouldn't want to live there full-time. It's too far from work, the shops, and my son's school. In a city, everything's under one roof, whereas out there you drive ages for anything. Whenever we go, my grandmother cooks a huge family meal, and we all sit around the table for hours. My son loves it there too — he runs around the garden all day. So for me, it's the perfect place to visit, but not to settle.
 
 > 🔁 **复用**：句3 `brings back memories`+`raised me`(老11)；句4 `escape from the city`(老24/老26)；句5 `son runs around`(老12)；句6 `take our time`(老12)；句9 `all under one roof`(老24)+`whereas`+drive(老12)。
 
@@ -2235,11 +2237,13 @@
 | 7 | 我 儿子 真的 很 迷 动物，所以 它 对 他 完美。 | My son's really into animals, so it was perfect for him. |
 | 8 | 说实话，一起 读 它 是 一个 睡前 可爱的 小 惯例。 | Honestly, reading it together was a lovely little routine before bed. |
 | 9 | 它 勾起 他 很 小 的时候 的 回忆。 | It brings back memories of when he was tiny. |
-| 10 | 所以 对我，它 不 真的 关于 那 故事——它 关于 跟 他 的 那段 时间。 | So for me, it's not really about the story — it's about that time with him. |
+| 10 | 他 以前 会 指 着 每一页 上 的 食物、大声 喊 出 名字。 | He used to point at the food on every page and shout out the names. |
+| 11 | 说实话，我们 一定 读 了 它 一百 遍，而 他 从没 腻。 | Honestly, we must have read it a hundred times, and he never got bored. |
+| 12 | 所以 对我，它 不 真的 关于 那 故事——它 关于 跟 他 的 那段 时间。 | So for me, it's not really about the story — it's about that time with him. |
 
 ### ②P2 整段（shadow）
 
-> The book I'd like to talk about is "The Very Hungry Caterpillar", a children's story. It's about a little caterpillar that eats its way through all sorts of food and turns into a butterfly. I read it to my son, Muye, loads when he was little. He was over the moon every time — he loved the caterpillar. What really makes it stand out is how simple it is, but it still teaches a lot. Kids learn about counting, days of the week, and how a butterfly grows. My son's really into animals, so it was perfect for him. Honestly, reading it together was a lovely little routine before bed. It brings back memories of when he was tiny. So for me, it's not really about the story — it's about that time with him.
+> The book I'd like to talk about is "The Very Hungry Caterpillar", a children's story. It's about a little caterpillar that eats its way through all sorts of food and turns into a butterfly. I read it to my son, Muye, loads when he was little. He was over the moon every time — he loved the caterpillar. What really makes it stand out is how simple it is, but it still teaches a lot. Kids learn about counting, days of the week, and how a butterfly grows. My son's really into animals, so it was perfect for him. Honestly, reading it together was a lovely little routine before bed. It brings back memories of when he was tiny. He used to point at the food on every page and shout out the names. Honestly, we must have read it a hundred times, and he never got bored. So for me, it's not really about the story — it's about that time with him.
 
 > 🔁 **复用**：句4 `over the moon`(新14)；句5 `What really makes it stand out is how`；句7 `really into`；句9 `brings back memories`(老11)；句10 `not really about X — it's about Y`(新14)。
 
@@ -2934,11 +2938,13 @@
 | 7 | 说实话，一旦 我 松 了 手，他 其实 开始 更 享受 事情。 | Honestly, once I backed off, he actually started enjoying things more. |
 | 8 | 所以 我 转 到 那个 想法：孩子 学 得 最好、当 他们 不 被 逼。 | So I came round to the idea that kids learn best when they're not forced. |
 | 9 | 回头看，我 真的 庆幸 我 改 了 我的 方式。 | Looking back, I'm really glad I changed my approach. |
-| 10 | 它 完全 改变 了 我们 现在 有 多 亲近。 | It completely changed how close we are now. |
+| 10 | 现在 我 让 他 自己 选 爱好，而 他 其实 自己 一直 坚持 画画。 | Now I let him pick his own hobbies, and he's actually stuck with drawing on his own. |
+| 11 | 说实话，他 看起来 更 开心，我 也 是。 | Honestly, he seems happier, and so am I. |
+| 12 | 它 完全 改变 了 我们 现在 有 多 亲近。 | It completely changed how close we are now. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I changed my mind about how to raise my son. When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. I'd make him practise things over and over, even when he didn't want to. But over time, I noticed he was getting stressed and losing interest. What really changed my mind was watching my wife with him. She's much more relaxed — she lets him try things his own way and learn for himself. Honestly, once I backed off, he actually started enjoying things more. So I came round to the idea that kids learn best when they're not forced. Looking back, I'm really glad I changed my approach. It completely changed how close we are now.
+> The time I'd like to talk about is when I changed my mind about how to raise my son. When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. I'd make him practise things over and over, even when he didn't want to. But over time, I noticed he was getting stressed and losing interest. What really changed my mind was watching my wife with him. She's much more relaxed — she lets him try things his own way and learn for himself. Honestly, once I backed off, he actually started enjoying things more. So I came round to the idea that kids learn best when they're not forced. Looking back, I'm really glad I changed my approach. Now I let him pick his own hobbies, and he's actually stuck with drawing on his own. Honestly, he seems happier, and so am I. It completely changed how close we are now.
 
 > 🔁 **复用**：句2 `pushing`(新15)；句5 `What really changed my mind was`+wife；句6 `learn for himself`(新16 think for themselves)；句9 `Looking back, I'm really glad`(新12 逐字)；句10 `how close we are`(老05 bring us closer)。
 
@@ -5263,11 +5269,13 @@
 | 7 | 她 做 它 的 原因 很 简单——她 就 真心 在乎。 | The reason she does it is simple — she just genuinely cares. |
 | 8 | 说实话，我们的 儿子 从 她 那儿 学 到 了，现在 他 也 帮忙。 | Honestly, our son's learned it from her, and now he helps out too. |
 | 9 | 我 真的 佩服 她 多么 善良、有 耐心。 | I really admire how kind and patient she is. |
-| 10 | 所以 对我，她 为 整个 家 树立 了 一个 很好的 榜样。 | So for me, she sets a great example for the whole family. |
+| 10 | 去年 冬天，她 花 了 一整个 周末 帮 隔壁 那对 老 夫妇 弄 好 他们的 暖气。 | Last winter, she spent a whole weekend helping the old couple next door sort out their heating. |
+| 11 | 他们 至今 还 带 水果 来 谢 她。 | They still bring her fruit to say thanks. |
+| 12 | 所以 对我，她 为 整个 家 树立 了 一个 很好的 榜样。 | So for me, she sets a great example for the whole family. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my wife, who's always helping other people. We've been married for over ten years, and she's the kindest person I know. She often helps our elderly neighbours — carrying their shopping, that kind of thing. There's an old couple next door, and she checks in on them most weeks. What really makes her stand out is that she never makes a fuss about it. She just quietly gets on with it, even when she's got a lot on her plate. The reason she does it is simple — she just genuinely cares. Honestly, our son's learned it from her, and now he helps out too. I really admire how kind and patient she is. So for me, she sets a great example for the whole family.
+> The person I'd like to talk about is my wife, who's always helping other people. We've been married for over ten years, and she's the kindest person I know. She often helps our elderly neighbours — carrying their shopping, that kind of thing. There's an old couple next door, and she checks in on them most weeks. What really makes her stand out is that she never makes a fuss about it. She just quietly gets on with it, even when she's got a lot on her plate. The reason she does it is simple — she just genuinely cares. Honestly, our son's learned it from her, and now he helps out too. I really admire how kind and patient she is. Last winter, she spent a whole weekend helping the old couple next door sort out their heating. They still bring her fruit to say thanks. So for me, she sets a great example for the whole family.
 
 > 🔁 **复用**：句2 `married for over ten years`(新15)；句3 `elderly neighbours`+`that kind of thing`(老10)；句5 `What really makes her stand out is`；句6 `a lot on her plate`(新15)；句8 `learned it from her`(老10)；句9 `I really admire`+`patient`(新05)；句10 `sets a great example`(新15)。
 
@@ -5485,11 +5493,13 @@
 | 7 | 我 推 她 的 原因 是 我 看得出 她 真的 想 它。 | The reason I pushed her is that I could see she really wanted it. |
 | 8 | 她 一开始 犹豫，但 最后 她 报了名、还 跑 完 了 全程。 | She was hesitant at first, but in the end she signed up and ran the whole thing. |
 | 9 | 说实话，她 事后 高兴 坏了。 | Honestly, she was over the moon afterwards. |
-| 10 | 所以 对我，它 是 一个 我 真的 庆幸 我 鼓励 了 她 的 时刻。 | So for me, it was a time I'm really glad I encouraged her. |
+| 10 | 我们 儿子 和 我 站 在 终点线 拼命 加油。 | Our son and I stood at the finish line cheering as loud as we could. |
+| 11 | 她 现在 还 常 提 那场 比赛，而 它 给 了 她 信心 去 报 更多。 | She still talks about that race, and it's given her the confidence to enter more. |
+| 12 | 所以 对我，它 是 一个 我 真的 庆幸 我 鼓励 了 她 的 时刻。 | So for me, it was a time I'm really glad I encouraged her. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I encouraged my wife to run her first 10K. She's really into fitness, and she goes running most mornings. But when a 10K race came up, she kept putting it off — deep down she was nervous. She thought she wasn't good enough, even though she trains all the time. So I gently kept encouraging her, and reminded her how hard she'd trained. I also offered to bring our son along to cheer her on. The reason I pushed her is that I could see she really wanted it. She was hesitant at first, but in the end she signed up and ran the whole thing. Honestly, she was over the moon afterwards. So for me, it was a time I'm really glad I encouraged her.
+> The time I'd like to talk about is when I encouraged my wife to run her first 10K. She's really into fitness, and she goes running most mornings. But when a 10K race came up, she kept putting it off — deep down she was nervous. She thought she wasn't good enough, even though she trains all the time. So I gently kept encouraging her, and reminded her how hard she'd trained. I also offered to bring our son along to cheer her on. The reason I pushed her is that I could see she really wanted it. She was hesitant at first, but in the end she signed up and ran the whole thing. Honestly, she was over the moon afterwards. Our son and I stood at the finish line cheering as loud as we could. She still talks about that race, and it's given her the confidence to enter more. So for me, it was a time I'm really glad I encouraged her.
 
 > 🔁 **复用**：句2 `really into fitness`(新04)；句3 `putting it off`+`nervous`；句7 `The reason I pushed her is`(+pushing 新15)；句9 `over the moon`(新14)；句10 `glad I`(新12)。
 
@@ -6076,11 +6086,13 @@
 | 7 | 我 爱 它 的地方 是 它 怎么 让 我 放松。 | What I love about it is how it lets me unwind. |
 | 8 | 它 离 那 车流 只 几分钟，但 它 感觉 离 所有 那 喧嚣 几英里 远。 | It's only minutes from the traffic, but it feels miles away from all the noise. |
 | 9 | 说实话，它 是 我 的 小 逃离，而 我 在 那儿 理清 我的 脑子。 | Honestly, it's my little escape, and I clear my head there. |
-| 10 | 所以 对我，我 总是 带着 一种 充电 的 感觉 离开。 | So for me, I always come away feeling recharged. |
+| 10 | 一大早，就 我、那些 鸟、还有 偶尔 一个 打 太极 的人。 | Early in the morning, it's just me, the birds, and the odd person doing tai chi. |
+| 11 | 说实话，我 在 那儿 想 出 我 一些 最好的 主意。 | I honestly do some of my best thinking there. |
+| 12 | 所以 对我，我 总是 带着 一种 充电 的 感觉 离开。 | So for me, I always come away feeling recharged. |
 
 ### ②P2 整段（shadow）
 
-> The place I'd like to talk about is a small, quiet park near my home in Chengdu. It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. I stumbled on it years ago, when my son was a baby and needed some fresh air. I go back pretty often, usually early in the morning when it's almost empty. Mostly I just stroll around the lake or sit and read for a while. Other times I bring my son along to feed the fish. What I love about it is how it lets me unwind. It's only minutes from the traffic, but it feels miles away from all the noise. Honestly, it's my little escape, and I clear my head there. So for me, I always come away feeling recharged.
+> The place I'd like to talk about is a small, quiet park near my home in Chengdu. It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. I stumbled on it years ago, when my son was a baby and needed some fresh air. I go back pretty often, usually early in the morning when it's almost empty. Mostly I just stroll around the lake or sit and read for a while. Other times I bring my son along to feed the fish. What I love about it is how it lets me unwind. It's only minutes from the traffic, but it feels miles away from all the noise. Honestly, it's my little escape, and I clear my head there. Early in the morning, it's just me, the birds, and the odd person doing tai chi. I honestly do some of my best thinking there. So for me, I always come away feeling recharged.
 
 > 🔁 **复用**：整段 = 老26 核心（`small, quiet park near my home` / `What I love about it is how it lets me unwind` / `only minutes from the traffic … miles away` / `my little escape` / `clear my head` / `come away feeling recharged`）+ son + `unwind`(新18/老24)。
 
