@@ -1258,6 +1258,9 @@
 
 ## P2-新11 · A time you worked in a group — 工作提案（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you worked in a group.
+> *You should say:* What you did · Who you worked with · What problems you faced · And explain why you worked in the group
+>
 > **Cue**: 做了啥 / 跟谁 / 遇到什么问题 / 为何在团队里做 · 题型 Event
 >
 > 🔁 **整卡复用自**：新16(I'm a software engineer / What made it hard was / worked through it step by step) + 老06(map the whole thing out / split the work) + 张伟(under pressure) + 新12(worked out well) + 新07(nothing beats)。
@@ -1376,6 +1379,9 @@
 
 ## P2-新12 · An important decision you made — 毕业选技术行业（Event）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe an important decision that you made.
+> *You should say:* What the decision was · How you made your decision · What the results of the decision were · And explain why it was important
+>
 > **Cue**: 什么决定 / 怎么做的 / 结果 / 为何重要 · 题型 Event/Decision
 >
 > 🎤 **P2 = 你的版**（6/23 练过 · 未降未改 · 毕业选进技术行业）——这是"选行业/职业决定"池的源头。**6 道 P3 = 按你的池复用生成**。
@@ -1489,6 +1495,9 @@
 
 ## P2-新13 · A live sports event you liked — CBA 篮球赛（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a live sports event you watched and liked.
+> *You should say:* What it was · When and where you watched it · Who you watched it with · And explain why you liked it
+>
 > **Cue**: 是什么 / 何时何地看 / 跟谁看 / 为何喜欢 · 题型 Event
 >
 > 🔁 **整卡复用自**：张伟(old classmate/mates for years) + 新07(nothing beats in person) + 新23(for ages) + 新14(not really about X, it's about Y) + 老20(money well spent)。
@@ -1607,6 +1616,9 @@
 
 ## P2-新14 · A food for special occasions — 自制生日蛋糕（Object）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe a food that people eat on special occasions/events.
+> *You should say:* What it is · What the special event/occasion is · How it is cooked/made · And explain why people eat it on that special occasion/event
+>
 > **Cue**: 是什么 / 什么场合 / 怎么做 / 为何那时吃 · 题型 Object/Event
 >
 > 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 生日蛋糕）——老婆烘焙池 + "bringing everyone together"源头。**6 道 P3 = 按你的池复用生成**。
@@ -1719,6 +1731,9 @@
 
 ## P2-新15 · A person good at learning languages — 老婆（Person）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe a person who is good at learning and speaking new languages.
+> *You should say:* How you got to know him/her · How he/she learns a new language · What languages he/she can speak · And explain how you feel about him/her
+>
 > **Cue**: 是谁 / 学什么 / 怎么学 / 为何佩服 · 题型 Person
 >
 > 🎤 **你的版（6/28 练过 · 未降未改）**：P2 = 老婆学语言 + 你练的 6 题 P3（教育/学习域）。这是老婆池 + 学习域源头。
@@ -1820,6 +1835,9 @@
 
 ## P2-新16 · A challenging tech problem — 系统宕机 debug（Event）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe a challenging technological problem you faced.
+> *You should say:* What the problem was · When and where you faced it · How challenging it was · And explain how you solved it
+>
 > **Cue**: 是什么问题 / 何时 / 怎么解决 / 感受 · 题型 Event
 >
 > 🎤 **你的版（6/29 练过 · 未降未改）**：P2 = 系统宕机 debug + 你练的 6 题 P3（AI 域）。这是"我（工程师）"池 + AI 域源头。
@@ -1923,6 +1941,9 @@
 
 ## P2-新17 · An advertisement with a famous person — 刘翔运动服广告（Object）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an advertisement with a famous person in it.
+> *You should say:* Who the person is · Where you can see it · What the advertisement is about · And explain how you feel about the advertisement
+>
 > **Cue**: 是谁 / 哪里能看到 / 广告讲什么 / 你的感受 · 题型 Object/Event
 >
 > 🔁 **整卡复用自**：老20 广告池(making wants feel like needs / driven by emotion / want to buy) + 新18(stuck with me) + 新15-Q4(pushing yourself) + 新16-Q1(a real mixed bag)。刘翔/运动服=具体设定。
@@ -2041,6 +2062,9 @@
 
 ## P2-新18 · A place you'd recommend — 京都（Place）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe a place you have travelled to that you would like to recommend to others.
+> *You should say:* What it is · Where it is · What you saw and did there · And explain why you would like to recommend it to others
+>
 > **Cue**: 在哪 / 去过几次 / 做什么 / 为何推荐 · 题型 Place
 >
 > 🎤 **你的版（6/26 练过 · 未降未改）**：P2 = 京都 + 你练的 6 题 P3（travel/holiday 域）。这是京都池 + 旅游域源头。
@@ -2140,6 +2164,9 @@
 
 ## P2-新19 · A home you like to visit but not live in — 外公外婆家（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a home that you like to visit but do not want to live in.
+> *You should say:* Where it is · What it is like · Why you like to visit it · And explain why you would not like to live there
+>
 > **Cue**: 在哪 / 什么样 / 为何爱去 / 为何不想住 · 题型 Place
 >
 > 🔁 **整卡复用自**：老11 外公(brings back memories/raised me) + 新05 外公花园 + 老26(escape/quiet) + 老24(all under one roof/escape from city) + 老12(son runs around/take our time/drive)。
@@ -2259,6 +2286,9 @@
 
 ## P2-新20 · A story/book with animals — 《好饿的毛毛虫》（Object）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a story/book with animals in it.
+> *You should say:* What animals are in it · What the story/book is about · Why you read the story/book · And explain what you think of this story/book
+>
 > **Cue**: 有什么动物 / 讲什么 / 为何读 / 你的看法 · 题型 Object
 >
 > 🔁 **整卡复用自**：son/Muye + 新14(over the moon) + 老11(brings back memories/keep me company) + 老26(routine) + 新14(not really about X, it's about Y)。毛毛虫/绘本=具体设定。
@@ -2378,6 +2408,9 @@
 
 ## P2-新21 · Someone who helped you solve a problem — 张伟修网络（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when a person did something to help you solve a problem.
+> *You should say:* Who the person is · What the problem was · How he/she helped you · And explain how you felt about the experience
+>
 > **Cue**: 是谁 / 什么问题 / 怎么帮 / 你的感受 · 题型 Event
 >
 > 🔁 **整卡复用自**：张伟池(kept calm, sat down, line by line / tracked down / saved the day / stays calm under pressure / something I'd love to learn) + 新16(I'm a software engineer / What made it so hard / came back up right away)。几乎全逐字迁移。
@@ -2498,6 +2531,9 @@
 
 ## P2-新22 · An environmental protection law — 垃圾分类（Object/现行法）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a law on environmental protection.
+> *You should say:* What it is · How you first learned about it · Who benefits from it · And explain how you feel about this law
+>
 > **Cue**: 是什么 / 怎么最先了解 / 谁受益 / 感受 · 题型 Object/现行法
 >
 > 🔁 **整卡复用自**：新06 保护绿地法(wife 信息来源/makes people stop and think) + 老20(hassle) + son + `I reckon`/`to be fair`/`So overall` 池。垃圾分类=具体设定。
@@ -2617,6 +2653,9 @@
 
 ## P2-新23 · A message that got no reply — 发邮件求建议（Event）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe a time when you sent a message or an email to someone but received no reply for a long time.
+> *You should say:* Who you sent it to · What the message/email was about · Whether you finally received the reply · And explain how you felt about the experience
+>
 > **Cue**: 发给谁 / 内容 / 是否终收到回复 / 感受 · 题型 Event
 >
 > 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 发邮件求建议久等回复）——message/等回复域源头。**6 道 P3 = 按你的池复用生成**。
@@ -2732,6 +2771,9 @@
 
 ## P2-新24 · A long-term goal — 独立研究梦（Object/Goal）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a long-term goal/ambition you would like to achieve.
+> *You should say:* How long you have had this goal/ambition · What it is · How you will achieve it · And explain why you set it
+>
 > **Cue**: 有多久 / 是什么 / 怎么实现 / 为何设它 · 题型 Object/Goal
 >
 > 🔁 **整卡复用自**：新16(I'm a software engineer) + 新12(build own/career) + 老05(3D printing/worth it) + 新15(chip away every day/keep learning/sets a good example) + 新08(no doubt)。
@@ -2850,6 +2892,9 @@
 
 ## P2-新25 · A person who met difficulties but succeeded — 张伟自学（Person）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe a person who met difficulties but succeeded.
+> *You should say:* Who this person is · What difficulties he met · How he overcame the difficulties · And explain how you feel about him
+>
 > **Cue**: 是谁 / 遇到什么困难 / 怎么克服 / 你的感受 · 题型 Person
 >
 > 🎤 **P2 = 你的版**（6/23 练过 · 未降未改 · 张伟高压救火）——张伟池另一版本（`the kind of person everyone turns to`/`keeps his cool` 源头）。**6 道 P3 = 按你的池复用生成**。
@@ -2965,6 +3010,9 @@
 
 ## P2-新26 · A time you changed an important opinion — 育儿观转变（Event/Opinion）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you changed an important opinion of yours.
+> *You should say:* When you changed your opinion · What the original opinion was · Why you changed it · And explain how you felt about the experience
+>
 > **Cue**: 何时改的 / 原来的想法 / 为何改 / 感受 · 题型 Event/Opinion
 >
 > 🔁 **整卡复用自**：son/Muye + wife + 新15(pushing/think for themselves) + 新12(Looking back, I'm really glad) + 老05(bring us closer)。
@@ -3084,6 +3132,9 @@
 
 ## P2-新27 · An environmental law you'd introduce — 一次性塑料禁令（Hypothetical）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an environmental law you would like your country to introduce.
+> *You should say:* What law it should be · Why people should follow the law · Whether the law will be popular · And explain how you feel about this law
+>
 > **Cue**: 什么法 / 为何要守 / 是否受欢迎 / 感受 · 题型 Hypothetical
 >
 > 🔁 **整卡复用自**：新06 保护绿地法(The law I'd like to introduce / What worries me / push back … comes down to cost) + 老26(quiet park near our home) + wife + 新22(get used to it/do their bit/simple law that works)。
