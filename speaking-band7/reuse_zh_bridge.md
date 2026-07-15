@@ -3254,6 +3254,9 @@
 
 ## P2-老01 · A perfect job you'd like — 自主灵活的技术角色（Object/Job）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a perfect job you would like to have in the future.
+> *You should say:* What it is · How you knew it · What you need to learn to get this job · And explain why you think it is a perfect job for you
+>
 > **Cue**: 是什么 / 怎么知道 / 需学什么 / 为何完美 · 题型 Object/Job
 >
 > 🔁 **整卡复用自**：新16(I'm a software engineer) + 老12(the freedom / stuck to a schedule) + 新24(build something of my own) + 新15(keep learning/chip away) + 新09(doing something you love) + 老20(money isn't the main thing)。
@@ -3373,6 +3376,9 @@
 
 ## P2-老02 · A famous person you'd like to meet — Christopher Nolan（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a famous person you would like to meet.
+> *You should say:* Who he/she is · How you knew him/her · How/where you would like to meet him/her · And explain why you would like to meet him/her
+>
 > **Cue**: 是谁 / 怎么知道 / 想在哪见 / 为何想见 · 题型 Person
 >
 > 🔁 **整卡复用自**：新02(really into sci-fi / complex into something you feel / stuck with me) + 新18(immersed) + 新09(What I admire about him is how) + 新16(I'm an engineer/how he plans) + 新13-Q5(a dream come true)。诺兰/电影=具体设定。
@@ -3492,6 +3498,9 @@
 
 ## P2-老03 · An occasion when you couldn't use your phone — 京都寺庙大殿（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an occasion when you were not allowed to use your mobile phone.
+> *You should say:* When it was · Where it was · Why you were not allowed to use your mobile phone · And how you felt about it
+>
 > **Cue**: 何时 / 何地 / 为何不许 / 感受 · 题型 Event
 >
 > 🔁 **整卡复用自**：新18 京都(been there/love visiting the old temples/completely immersed in its peaceful atmosphere 逐字) + 老26(quiet/put phone away) + 新16(rely on)。
@@ -3611,6 +3620,9 @@
 
 ## P2-老04 · A time you gave advice to others — 劝妻子别硬扛工作（Event/Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you gave advice to others.
+> *You should say:* When it was · To whom you gave the advice · What the advice was · And explain why you gave the advice
+>
 > **Cue**: 何时 / 给谁 / 什么建议 / 为何给 · 题型 Event/Person
 >
 > 🔁 **整卡复用自**：wife(a lot on her plate/pushing herself 新15) + 张伟(sat down) + 新18(slow down) + 新21(ask for help) + 新11(share the load/spoke up) + 新12(glad I)。
@@ -3730,6 +3742,9 @@
 
 ## P2-老05 · A piece of technology you'd like to own — 高端 3D 打印机（Object）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe a piece of technology (not a phone) that you would like to own.
+> *You should say:* What it is · How much it costs · How you knew it · And explain why you would like to own it
+>
 > **Cue**: 是什么 / 多少钱 / 怎么知道 / 为何想要 · 题型 Object
 >
 > 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 高端 3D 打印机 · 首次全 cold 里程碑）——3D 打印机池源头。**6 道 P3 = 按你的池复用生成**。
@@ -3846,6 +3861,9 @@
 
 ## P2-老06 · A person who is good at planning — 张伟（Person）  〔pilot · 复用生成〕
 
+> **📋 P2 题面**：Describe a person who makes plans a lot and is good at planning.
+> *You should say:* Who he/she is · How you knew him/her · What plans he/she makes · And explain how you feel about this person
+>
 > **Cue**: 是谁 / 怎么认识 / 做什么计划 / 你的感受 · 题型 Person
 >
 > 🔁 **整卡复用自**：张伟池（新07/新25/新16）+ 新12 毕业选行业 + 新18-Q4「计划要不要提前」+ AI 域「think for themselves / a helper not a crutch」。**零新素材**。
@@ -3963,6 +3981,9 @@
 
 ## P2-老07 · A child who loves drawing — Muye 画恐龙（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a child who loves drawing/painting.
+> *You should say:* Who he/she is · How/when you knew him/her · How often he/she draws/paints · And explain why you think he/she loves drawing/painting
+>
 > **Cue**: 是谁 / 怎么/何时知道 / 多久画一次 / 为何爱画 · 题型 Person
 >
 > 🔁 **整卡复用自**：son/Muye + 新14(dinosaur) + 老11(sit right next to me/brings back memories) + 新05(who absolutely loves) + 新16(off screens) + 新14(not really about X, it's about Y)。
@@ -4082,6 +4103,9 @@
 
 ## P2-老08 · A program or app on your phone — 小红书 Rednote（Object）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe a program or app on your computer or phone.
+> *You should say:* What it is · How often you use it · When/how you use it · When/how you found it · And explain how you feel about it
+>
 > **Cue**: 是什么 / 多久用 / 何时怎么用 / 怎么发现 / 感受 · 题型 Object
 >
 > 🎤 **你的版（6/25 练过 · 未降未改）**：P2 = 小红书 + 你练的 6 题 P3（app 域）。这是小红书 / app 域源头。
@@ -4180,6 +4204,9 @@
 
 ## P2-老09 · An occasion when many people were smiling — Muye 幼儿园表演（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an occasion when many people were smiling.
+> *You should say:* When it happened · Who you were with · What happened · And explain why most people were smiling
+>
 > **Cue**: 何时 / 和谁 / 发生什么 / 为何都在笑 · 题型 Event
 >
 > 🔁 **整卡复用自**：son/Muye + wife + 新14(over the moon / bringing everyone together / not really about X, it's about Y) + 新18(stuck with me) + 新06(chaos)。
@@ -4299,6 +4326,9 @@
 
 ## P2-老10 · A time you felt proud of a family member — Muye 公园善举（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you felt proud of a family member.
+> *You should say:* When it happened · Who the person is · What the person did · And explain why you felt proud of him/her
+>
 > **Cue**: 何时 / 是谁 / 做了什么 / 为何骄傲 · 题型 Person
 >
 > 🔁 **整卡复用自**：son/Muye + 老26(quiet little park near our home) + 老12(run around) + 新14(over the moon) + 老19(wife helping elderly neighbours) + 老11(brings back memories/grandfather)。
@@ -4419,6 +4449,9 @@
 
 ## P2-老11 · Something kept in your family for a long time — 外公的旧机械表（Object）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe something important that has been kept in your family for a long time.
+> *You should say:* What it is · When your family had it · How your family got it · And explain why it is important to your family
+>
 > **Cue**: 是什么 / 何时拥有 / 怎么得到 / 为何重要 · 题型 Object
 >
 > 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 外公旧机械表）——外公/传承池源头（`passed it down`/`brings back memories`/`keep me company`）。**6 道 P3 = 按你的池复用生成**。
@@ -4532,6 +4565,9 @@
 
 ## P2-老12 · A car/bike/motorcycle trip you'd like to go on — 川西自驾（Event/Place）  〔你的版 P2 · 未改 + 复用 P3〕
 
+> **📋 P2 题面**：Describe a bicycle/motorcycle/car trip you would like to go on.
+> *You should say:* Who you would like to go with · Where you would like to go · When you would like to go · And explain why you would like to go by bicycle/motorcycle/car
+>
 > **Cue**: 和谁 / 去哪 / 何时 / 为何选这种交通 · 题型 Event/Place
 >
 > 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 川西自驾带家人 · 固定短语零翻车）——自驾/自由池源头（`the freedom`/`not stuck to a schedule`/`take our time`）。**6 道 P3 = 按你的池复用生成**。
@@ -4645,6 +4681,9 @@
 
 ## P2-老13 · A person who solved a problem in a smart way — 张伟查网络日志（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person who solved a problem in a smart way.
+> *You should say:* Who this person is · What the problem was · How he/she solved it · And explain why you think he/she did it in a smart way
+>
 > **Cue**: 是谁 / 什么问题 / 怎么解决 / 为何机智 · 题型 Person
 >
 > 🔁 **整卡复用自**：张伟池 + 新16(system went down/tracked down the cause/node) + 新21(saved the day)。几乎全逐字迁移。
@@ -4765,6 +4804,9 @@
 
 ## P2-老14 · A person who is learning something new — 老婆学日语（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe one of your friends who learned something without a teacher.
+> *You should say:* Who he/she is · What he/she learned · Why he/she learned this · And explain whether it would be easier to learn from a teacher
+>
 > **Cue**: 是谁 / 学了什么 / 为何学 / 有老师会不会更容易 · 题型 Person
 >
 > 🔁 **整卡复用自**：新15 老婆学语言（几乎全逐字：working through textbooks / chips away every single day / perseverance / a lot on her plate / sets a great example）+ 新15-Q5(walk you through step by step)。
@@ -4884,6 +4926,9 @@
 
 ## P2-老15 · An event where you didn't enjoy the music — 太吵的现场演出（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an event you attended in which you didn't enjoy the music played.
+> *You should say:* What it was · Who you went with · Why you decided to go there · And explain why you didn't enjoy it
+>
 > **Cue**: 是什么 / 和谁去 / 为何去 / 为何不享受 · 题型 Event
 >
 > 🔁 **整卡复用自**：新13(mates/big arena Chengdu/don't follow closely) + 老26(quiet/hustle) + 新23(for ages) + 新14(not really about X) + 新03(not really my thing)。
@@ -5003,6 +5048,9 @@
 
 ## P2-老16 · A movie you watched and enjoyed recently — 科幻片（Object）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a movie you watched and enjoyed recently.
+> *You should say:* When and where you watched it · Who you watched it with · What it was about · And explain why you watched this movie
+>
 > **Cue**: 何时何地看 / 和谁看 / 讲什么 / 为何看 · 题型 Object
 >
 > 🔁 **整卡复用自**：新02(really into sci-fi/catches my eye/complex into something you feel/hooked in one go/stuck with me) + 新16(I'm a software engineer) + wife/son + 新23(for ages)。
@@ -5122,6 +5170,9 @@
 
 ## P2-老17 · An interesting building — 成都环球中心（室内海滩）（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an interesting building.
+> *You should say:* Where it is · What it looks like · What function it has · And explain why you think it is interesting
+>
 > **Cue**: 在哪 / 长什么样 / 什么功能 / 为何有趣 · 题型 Place
 >
 > 🔁 **整卡复用自**：新01 IFS(here in Chengdu, where I live/weekend with wife and son/less about X more about Y) + 老24(all under one roof/escape) + 老12(son run around)。环球中心/室内海滩=具体设定。
@@ -5241,6 +5292,9 @@
 
 ## P2-老18 · A time you needed to use your imagination — 陪 Muye 搭乐高（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time you needed to use your imagination.
+> *You should say:* When it was · Why you needed to use imagination · How difficult or easy it was · And explain how you felt about it
+>
 > **Cue**: 何时 / 为何需要想象力 / 难还是易 / 感受 · 题型 Event
 >
 > 🔁 **整卡复用自**：son/Muye + 老05(on weekends/design a model together) + 老07/新14(dinosaur/obsessed) + 老11/老05(sit right next to each other) + 新16(What made it… was) + 新14(over the moon / not really about X, it's about Y)。
@@ -5360,6 +5414,9 @@
 
 ## P2-老19 · A person who often helps others — 老婆帮邻居老人（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person who often helps others.
+> *You should say:* Who this person is · How often he/she helps others · How/why he/she helps others · And how you feel about this person
+>
 > **Cue**: 是谁 / 多常帮 / 怎么/为何帮 / 你的感受 · 题型 Person
 >
 > 🔁 **整卡复用自**：新15 老婆(married over ten years/a lot on her plate/What I really admire/sets a great example) + 老10(wife helping elderly neighbours/he learned it from her) + 新05(patient)。这是"老婆帮邻居"设定的主场。
@@ -5479,6 +5536,9 @@
 
 ## P2-老20 · An item you spent more than expected on — 3D 打印机（Object）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe an item on which you spent more than expected.
+> *You should say:* What it is · How much you spent on it · Why you bought it · And explain why you think you spent more than expected
+>
 > **Cue**: 是什么 / 花多少 / 为何超预期 / 感受 · 题型 Object
 >
 > 🎤 **你的版（6/27 练过 · 未降未改）**：P2 = 3D 打印机（花超预期） + 你练的 6 题 P3（钱/经济域）。这是经济域源头（`money well spent` / `splash out` / `driven by emotion` / `making wants feel like needs`）。
@@ -5584,6 +5644,9 @@
 
 ## P2-老21 · A time you encouraged someone — 鼓励妻子跑首场 10K（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you encouraged someone to do something that he/she didn't want to do.
+> *You should say:* Who he or she is · What you encouraged him/her to do · How he/she reacted · And explain why you encouraged him/her to do it
+>
 > **Cue**: 是谁 / 鼓励做什么 / 反应如何 / 为何鼓励 · 题型 Event
 >
 > 🔁 **整卡复用自**：新04 老婆晨跑(really into fitness) + wife + son + 新15(how hard she'd trained/pushing herself) + 新14(over the moon) + 新12(glad I)。
@@ -5703,6 +5766,9 @@
 
 ## P2-老22 · A short-term job you'd like in a foreign country — 日本小书店（Object/hypo）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a short-term job you want to have in a foreign country.
+> *You should say:* Where it is · How you know of it · What the job is · And explain why you want to do it
+>
 > **Cue**: 在哪 / 怎么知道 / 是什么工作 / 为何想做 · 题型 Object/hypo
 >
 > 🔁 **整卡复用自**：新18 京都(been to Kyoto/wander around/slows you down) + 新02(really into sci-fi/book lover) + 新15(pick up/wife 学日语) + 老12(the freedom)。
@@ -5821,6 +5887,9 @@
 
 ## P2-老23 · A person who likes to look after the natural world — 环保志愿者好友（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person who likes to look after the natural world.
+> *You should say:* Who this person is · What he or she does · How he or she does it · How often he or she does it · And explain how you feel about this person
+>
 > **Cue**: 是谁 / 做什么 / 怎么做 / 多常做 / 你的感受 · 题型 Person
 >
 > 🔁 **整卡复用自**：老23(a close friend of mine) + 新07/新13(mates for years) + 新16(hands-on) + 新27(cut down on plastic) + 新22(he's got me being more careful) + 新15(I really admire/sets a great example)。
@@ -5940,6 +6009,9 @@
 
 ## P2-老24 · A shop you enjoy visiting — 成都 MUJI（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a shop/store you enjoy visiting.
+> *You should say:* What the shop's name is · Where it is · How often you visit it · And explain why you like to visit it
+>
 > **Cue**: 店名 / 在哪 / 多常去 / 为何喜欢 · 题型 Place
 >
 > 🔁 **整卡复用自**：新01 IFS(here in Chengdu, where I live/weekend with my wife/less about X more about Y) + 老26(escape/calm) + 老24降档(calm, tidy feel) + 新23(for ages) + 老12(take my time)。
@@ -6059,6 +6131,9 @@
 
 ## P2-老25 · A city you enjoyed visiting — 重庆（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a city you enjoyed visiting.
+> *You should say:* Where it is · When you visited it · How long you stayed there · What you did there · And explain why you enjoyed visiting it
+>
 > **Cue**: 在哪 / 何时去 / 待多久 / 做了什么 / 为何享受 · 题型 Place
 >
 > 🔁 **整卡复用自**：新18(completely immersed/stuck with me) + 老05(family trip) + wife/son + 老12(son ran around) + 老25降档(stunning)。重庆/火锅/轻轨=具体设定。
@@ -6178,6 +6253,9 @@
 
 ## P2-老26 · A quiet place you like to go — 成都安静小公园（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a quiet place you like to go.
+> *You should say:* Where it is · How you knew it · How often you go there · What you do there · And explain how you feel about the place
+>
 > **Cue**: 在哪 / 怎么知道 / 多常去 / 做什么 / 你的感受 · 题型 Place
 >
 > 🔁 **整卡复用自**：老26 小公园（这是"little escape / clear my head / recharged"的主场）+ son + 新18(unwind)。是全书被复用最多的安静公园设定的源头。
@@ -6297,6 +6375,9 @@
 
 ## P2-老27 · A TV or online program you like to watch — 烘焙比赛节目（Object）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a TV or online program you like to watch.
+> *You should say:* What it is · What it is about · Who you watch it with · And explain why you like to watch it
+>
 > **Cue**: 是什么 / 讲什么 / 和谁看 / 为何喜欢 · 题型 Object
 >
 > 🔁 **整卡复用自**：新14 老婆烘焙(loves baking/bringing everyone together) + wife/son + 新15-Q2(now and then) + 老24(unwind) + 新14(not really about X, it's about Y)。
