@@ -65,6 +65,9 @@
 
 ## P2-新01 · A tall building you like — 成都 IFS（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a tall building you like or dislike.
+> *You should say:* What it is used for · Where it is · What it looks like · And explain why you like/dislike it
+>
 > **Cue**: 用途 / 在哪 / 长什么样 / 为何喜欢 · 题型 Place
 >
 > 🔁 **整卡复用自**：京都(新18 stand out/wander/slows/stuck with me) + 老24-MUJI风(not into shopping but enjoy / less about X more about Y / all under one roof) + 老12(let son run around) + 老08(quite often)。IFS/熊猫雕塑/楼层=具体名词，大白话保留。
@@ -182,6 +185,9 @@
 
 ## P2-新02 · An interesting video — 太空纪录片（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe an interesting video.
+> *You should say:* When and where you watched it · What it is about · Why you watched it · And explain how you feel about it
+>
 > **Cue**: 何时何地看的 / 关于什么 / 为何看 / 感受 · 题型 Event
 >
 > 🔁 **整卡复用自**：老08(scrolling/hooked/sent to wife) + 新16(I'm a software engineer/how things work/step by step) + 新18(stuck with me) + 新15(pick up/tutorials/walk you through)。space/black holes=具体名词。
@@ -300,6 +306,9 @@
 
 ## P2-新03 · A boring place — 沉闷小镇（Place）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a boring place.
+> *You should say:* Where it is · Who you went there with · What you did there · And explain why you think it is a boring place
+>
 > **Cue**: 在哪 / 跟谁去 / 做了啥 / 为何无聊 · 题型 Place
 >
 > 🔁 **整卡复用自**：老12 川西自驾(driving through western Sichuan/take our time) + 新18(wander/stuck) + 新16(What made it so hard→so boring) + 新12(Looking back) + wife/son persona。
@@ -418,6 +427,9 @@
 
 ## P2-新04 · A time you got up early — 陪老婆晨跑（Event）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a time when you got up early.
+> *You should say:* When it was · What you did · Why you got up early · And how you felt about it
+>
 > **Cue**: 何时 / 做了啥 / 为何早起 / 感受 · 题型 Event
 >
 > 🔁 **整卡复用自**：老婆persona(really into/sets a great example) + 新16(It was about a year ago) + 老26(no traffic, just birds/river) + 老05(worth it) + 新15(chips away every single day)。
@@ -536,6 +548,9 @@
 
 ## P2-新05 · A person who loves growing plants — 外公（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden.
+> *You should say:* Who this person is · What plants he/she grows · How he/she grows the plants · And explain why he/she loves growing plants
+>
 > **Cue**: 是谁 / 种什么 / 怎么种 / 为何爱 · 题型 Person
 >
 > 🔁 **整卡复用自**：老11 外公persona(raised me/brings back memories/one day pass down) + 新15(chips away every single day) + 新14(not really about X, it's about Y) + 新16(how things work)。
@@ -654,6 +669,9 @@
 
 ## P2-新06 · A new law you'd introduce — 保护城市绿地（Hypothetical）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a new law you would like to introduce in your country.
+> *You should say:* What law it is · What changes this law brings · Whether this new law will be popular · How you came up with the new law · And explain how you feel about this new law
+>
 > **Cue**: 什么法 / 带来什么变化 / 是否受欢迎 / 怎么想到的 / 感受 · 题型 Hypothetical
 >
 > 🔁 **整卡复用自**：老26 小公园(little escape/clear my head) + wife灵感 + 老12(let son run around) + 老20-Q5(government's job/comes down to money) + greenery→green space(降档词)。
@@ -771,6 +789,9 @@
 
 ## P2-新07 · A friend from your childhood — 发小张伟（Person）  〔你的版 · 未改〕
 
+> **📋 P2 题面**：Describe a friend from your childhood.
+> *You should say:* Who he/she is · Where and how you met each other · What you often did together · And explain what made you like him/her
+>
 > **Cue**: 是谁 / 怎么认识 / 一起做什么 / 你的感受 · 题型 Person
 >
 > 🎤 **你的版（6/28 session 练过 · 未降未改）**：P2 = 发小张伟 + 你当天练的 6 题 P3（友情/社媒域）。这就是张伟池的源头。
@@ -874,6 +895,9 @@
 
 ## P2-新08 · A person who'd choose a medical career — 表妹 Lin（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse).
+> *You should say:* When you knew him/her · When he/she started to think about that · What he/she would like to do · And explain why he/she would like to choose this career
+>
 > **Cue**: 认识她多久 / 何时开始想 / 想做什么 / 为何选这行 · 题型 Person
 >
 > 🔁 **整卡复用自**：新15 老婆池(chips away every single day / a lot on her plate / really into / a real talent for / What I admire / sets a great example) + 新12(made up her mind) + 新16 AI域(crunch data / off their plate / back up not replace) + 老20(money well spent)。表妹/学医=具体设定。
@@ -992,6 +1016,9 @@
 
 ## P2-新09 · A person with a successful business — Chen 咖啡馆（Person）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a person you know who has a successful business.
+> *You should say:* Who this person is · How you got to know him/her · Why and how he/she started the business · What business he/she does · And explain why you think the business is successful
+>
 > **Cue**: 是谁 / 怎么认识 / 为何+怎么开始 / 什么生意 / 为何成功 · 题型 Person
 >
 > 🔁 **整卡复用自**：老23(a friend of mine) + 老24-MUJI(a nice escape from) + 老20(money/not just money) + 老12(the freedom) + 新15(a great example) + person句型池。
@@ -1110,6 +1137,9 @@
 
 ## P2-新10 · A plan you had to change recently — 京都行取消（Event/Planning）  〔复用生成〕
 
+> **📋 P2 题面**：Describe a plan that you had to change recently.
+> *You should say:* When this happened · What made you change the plan · What the new plan was · And how you felt about the change
+>
 > **Cue**: 何时 / 什么让你改 / 新计划是什么 / 感受 · 题型 Event/Planning
 >
 > 🔁 **整卡复用自**：新18 京都(wander around) + 老12 川西自驾(drive/stop/take our time/looking forward) + 新18-Q4(keep it flexible) + 新12(worked out) + wife/son。
