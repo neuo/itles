@@ -4108,7 +4108,7 @@
 >
 > **Cue**: 是什么 / 多久用 / 何时怎么用 / 怎么发现 / 感受 · 题型 Object
 >
-> 🎤 **你的版（6/25 练过 · 未降未改）**：P2 = 小红书 + 你练的 6 题 P3（app 域）。这是小红书 / app 域源头。
+> 🎤 **你的版（6/25 练过 · 未降改 · 补长2句到~160）**：P2 = 小红书 + 你练的 6 题 P3（app 域）。这是小红书 / app 域源头。
 
 ### ①P2 拆解（英式中文珠子 → 你的实产英文）
 
@@ -4120,11 +4120,13 @@
 | 4 | 有时候 我 也 在 它 上面 搜 东西——比如，如果 我 在 出差，我 会 用 小红书 [去]找 一家 好的 餐厅 吃 晚饭。 | Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. |
 | 5 | 至于 我 怎么 发现 它的，这 是 一个 有意思的 故事：小红书 本来 是 为 女性 设计的，而 我 老婆 很爱 它。 | As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. |
 | 6 | 几年前，那 公司 想 扩大 它的 市场，所以 他们 重新 设计 它、也 加 了 给 男性的 内容——而 那 就是 我 老婆 推荐 它 给 我 的时候。 | A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. |
-| 7 | 所以 说实话，它 是 一个 真的 很 有用的 工具。 | So honestly, it's a really useful tool. |
+| 7 | 大多数 晚上 我 刷 它 放松，而 我 总是 最后 存 一大堆 旅行 地点 和 想 试 的 食谱。 | Most nights I scroll through it to relax, and I always end up saving loads of travel spots and recipes to try. |
+| 8 | 我 老婆 和 我 甚至 互相 发 帖子，所以 它 变成 了 一个 我们 一起 做 的 小 事。 | My wife and I even send each other posts, so it's become a little thing we do together. |
+| 9 | 所以 说实话，它 是 一个 真的 很 有用的 工具。 | So honestly, it's a really useful tool. |
 
 ### ②P2 整段（shadow）
 
-> The app I'd like to talk about is Rednote. I use it quite often — I spend an hour or two on it. I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. So honestly, it's a really useful tool.
+> The app I'd like to talk about is Rednote. I use it quite often — I spend an hour or two on it. I'm really hooked, because it gives me so much information I'm interested in, like short travel videos. Sometimes I also search for things on it — for example, if I'm on a business trip, I'll use Rednote to find a nice restaurant for dinner. As for how I found it, it's an interesting story: Rednote was originally designed for women, and my wife loved it. A few years ago, the company wanted to expand its market, so they redesigned it with content for men too — and that's when my wife recommended it to me. Most nights I scroll through it to relax, and I always end up saving loads of travel spots and recipes to try. My wife and I even send each other posts, so it's become a little thing we do together. So honestly, it's a really useful tool.
 
 ### 句型/模板（你自己的）
 
