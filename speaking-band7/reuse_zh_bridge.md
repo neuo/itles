@@ -1621,7 +1621,7 @@
 >
 > **Cue**: 是什么 / 什么场合 / 怎么做 / 为何那时吃 · 题型 Object/Event
 >
-> 🎤 **P2 = 你的版**（6/22 练过 · 未降未改 · 生日蛋糕）——老婆烘焙池 + "bringing everyone together"源头。**6 道 P3 = 按你的池复用生成**。
+> 🎤 **P2 = 你的版**（6/22 练过 · 未降改 · 补长2句到~160 · 生日蛋糕）——老婆烘焙池 + "bringing everyone together"源头。**6 道 P3 = 按你的池复用生成**。
 
 ### ①P2 拆解（英式中文珠子 → 你的实产英文）
 
@@ -1633,11 +1633,13 @@
 | 4 | 一个 我 真的 记得的 是 她 给 我们 儿子 做 的 那个 恐龙 蛋糕——他 高兴 坏了。 | One I really remember is the dinosaur cake she made for our son — he was over the moon. |
 | 5 | 人们 吃 它 是 因为 它 是 一个 庆祝 的 方式——你 在 它 上面 插 蜡烛、许 一个 愿、然后 大家 唱歌。 | People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. |
 | 6 | 我 最 喜欢 的 部分 是 当 我们 关 灯、把 蛋糕 端 出来，然后 大家 开始 唱。 | My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. |
-| 7 | 所以 对 我 来说，那 蛋糕 其实 不 关于 食物，它 关于 把 大家 聚 到 一起。 | So for me, the cake isn't really about the food, it's about bringing everyone together. |
+| 7 | 她 花 一整个 下午 烤 它，而 它 总是 比 店里 买 的 好吃。 | She spends the whole afternoon baking it, and it always tastes better than a shop-bought one. |
+| 8 | 我 儿子 总是 等不及——他 老是 想 舔 那 搅拌碗。 | My son can never wait — he's always trying to lick the bowl. |
+| 9 | 所以 对 我 来说，那 蛋糕 其实 不 关于 食物，它 关于 把 大家 聚 到 一起。 | So for me, the cake isn't really about the food, it's about bringing everyone together. |
 
 ### ②P2 整段（shadow）
 
-> The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. One I really remember is the dinosaur cake she made for our son — he was over the moon. People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. So for me, the cake isn't really about the food, it's about bringing everyone together.
+> The food I'd like to talk about is birthday cake. As its name implies, people eat it on their birthday. In my family, birthdays are always a big deal, because my wife loves baking and usually makes it herself. She usually bakes a sponge base first, then covers it with cream, and finally shapes and decorates it — adding some fruit or candies on top. One I really remember is the dinosaur cake she made for our son — he was over the moon. People eat it because it's a way to celebrate — you put candles on it, make a wish, and everyone sings. My favourite bit is when we turn off the lights and bring the cake out, and everyone starts singing. She spends the whole afternoon baking it, and it always tastes better than a shop-bought one. My son can never wait — he's always trying to lick the bowl. So for me, the cake isn't really about the food, it's about bringing everyone together.
 
 ### 句型/模板（你自己的）
 
