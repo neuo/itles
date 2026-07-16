@@ -5658,7 +5658,7 @@
 | 1 | 我想聊的那个时刻 是 当 我 鼓励 我 老婆 去 跑 她 头一场 10公里。 | The time I'd like to talk about is when I encouraged my wife to run her first 10K. |
 | 2 | 她 真的 很 迷 健身，而 她 大多 早晨 都 去 跑步。 | She's really into fitness, and she goes running most mornings. |
 | 3 | 但 当 一场 10公里 比赛 出现，她 一直 拖着 它——内心深处 她 紧张。 | But when a 10K race came up, she kept putting it off — deep down she was nervous. |
-| 4 | 她 觉得 她 不够 好，即使 她 一直 训练。 | She thought she wasn't good enough, even though she trains all the time. |
+| 4 | 她 觉得 她 不够 好，即使 她 一直 训练。 | She thought she wasn't good enough, even though she trained all the time. |
 | 5 | 所以 我 温和地 一直 鼓励 她，还 提醒 她 她 训练 得 多 刻苦。 | So I gently kept encouraging her, and reminded her how hard she'd trained. |
 | 6 | 我 也 提出 带 我们 儿子 一起 去 给 她 加油。 | I also offered to bring our son along to cheer her on. |
 | 7 | 我 推 她 的 原因 是 我 看得出 她 真的 想 它。 | The reason I pushed her is that I could see she really wanted it. |
@@ -5670,7 +5670,7 @@
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I encouraged my wife to run her first 10K. She's really into fitness, and she goes running most mornings. But when a 10K race came up, she kept putting it off — deep down she was nervous. She thought she wasn't good enough, even though she trains all the time. So I gently kept encouraging her, and reminded her how hard she'd trained. I also offered to bring our son along to cheer her on. The reason I pushed her is that I could see she really wanted it. She was hesitant at first, but in the end she signed up and ran the whole thing. Honestly, she was over the moon afterwards. Our son and I stood at the finish line cheering as loud as we could. She still talks about that race, and it's given her the confidence to enter more. So for me, it was a time I'm really glad I encouraged her.
+> The time I'd like to talk about is when I encouraged my wife to run her first 10K. She's really into fitness, and she goes running most mornings. But when a 10K race came up, she kept putting it off — deep down she was nervous. She thought she wasn't good enough, even though she trained all the time. So I gently kept encouraging her, and reminded her how hard she'd trained. I also offered to bring our son along to cheer her on. The reason I pushed her is that I could see she really wanted it. She was hesitant at first, but in the end she signed up and ran the whole thing. Honestly, she was over the moon afterwards. Our son and I stood at the finish line cheering as loud as we could. She still talks about that race, and it's given her the confidence to enter more. So for me, it was a time I'm really glad I encouraged her.
 
 > 🔁 **复用**：句2 `really into fitness`(新04)；句3 `putting it off`+`nervous`；句7 `The reason I pushed her is`(+pushing 新15)；句9 `over the moon`(新14)；句10 `glad I`(新12)。
 
