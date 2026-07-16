@@ -6267,19 +6267,19 @@
 | 1 | 我想聊的那个 地方 是 我 成都 家 附近 一个 小、安静的 公园。 | The place I'd like to talk about is a small, quiet park near my home in Chengdu. |
 | 2 | 它 有 一个 小 湖 和 一些 竹子，而 它 一点 不 像 那些 拥挤的 有名 公园。 | It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. |
 | 3 | 我 好多年前 撞见 它，当 我 儿子 还是 一个 婴儿、需要 一些 新鲜 空气。 | I stumbled on it years ago, when my son was a baby and needed some fresh air. |
-| 4 | 我 挺 常 回去，通常 一大早、当 它 几乎 空。 | I go back pretty often, usually early in the morning when it's almost empty. |
+| 4 | 我 挺 常 去 那儿，通常 一大早、当 它 几乎 空。 | I go there pretty often, usually early in the morning when it's almost empty. |
 | 5 | 大多 我 就 绕着 那 湖 溜达 或 坐 着 读 一会儿。 | Mostly I just stroll around the lake or sit and read for a while. |
 | 6 | 其他 时候 我 带 我 儿子 一起 去 喂 鱼。 | Other times I bring my son along to feed the fish. |
 | 7 | 我 爱 它 的地方 是 它 怎么 让 我 放松。 | What I love about it is how it lets me unwind. |
 | 8 | 它 离 那 车流 只 几分钟，但 它 感觉 离 所有 那 喧嚣 几英里 远。 | It's only minutes from the traffic, but it feels miles away from all the noise. |
 | 9 | 说实话，它 是 我 的 小 逃离，而 我 在 那儿 理清 我的 脑子。 | Honestly, it's my little escape, and I clear my head there. |
-| 10 | 一大早，就 我、那些 鸟、还有 偶尔 一个 打 太极 的人。 | Early in the morning, it's just me, the birds, and the odd person doing tai chi. |
+| 10 | 一大早，就 我、那些 鸟、还有 偶尔 一个 打 太极 的人。 | Early in the morning, it's just me, the birds, and the occasional person doing tai chi. |
 | 11 | 说实话，我 在 那儿 想 出 我 一些 最好的 主意。 | I honestly do some of my best thinking there. |
 | 12 | 所以 对我，我 总是 带着 一种 充电 的 感觉 离开。 | So for me, I always come away feeling recharged. |
 
 ### ②P2 整段（shadow）
 
-> The place I'd like to talk about is a small, quiet park near my home in Chengdu. It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. I stumbled on it years ago, when my son was a baby and needed some fresh air. I go back pretty often, usually early in the morning when it's almost empty. Mostly I just stroll around the lake or sit and read for a while. Other times I bring my son along to feed the fish. What I love about it is how it lets me unwind. It's only minutes from the traffic, but it feels miles away from all the noise. Honestly, it's my little escape, and I clear my head there. Early in the morning, it's just me, the birds, and the odd person doing tai chi. I honestly do some of my best thinking there. So for me, I always come away feeling recharged.
+> The place I'd like to talk about is a small, quiet park near my home in Chengdu. It's got a little lake and some bamboo, and it's nothing like the crowded famous parks. I stumbled on it years ago, when my son was a baby and needed some fresh air. I go there pretty often, usually early in the morning when it's almost empty. Mostly I just stroll around the lake or sit and read for a while. Other times I bring my son along to feed the fish. What I love about it is how it lets me unwind. It's only minutes from the traffic, but it feels miles away from all the noise. Honestly, it's my little escape, and I clear my head there. Early in the morning, it's just me, the birds, and the occasional person doing tai chi. I honestly do some of my best thinking there. So for me, I always come away feeling recharged.
 
 > 🔁 **复用**：整段 = 老26 核心（`small, quiet park near my home` / `What I love about it is how it lets me unwind` / `only minutes from the traffic … miles away` / `my little escape` / `clear my head` / `come away feeling recharged`）+ son + `unwind`(新18/老24)。
 
