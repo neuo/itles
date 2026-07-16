@@ -1729,7 +1729,7 @@
 
 ---
 
-## P2-新15 · A person good at learning languages — 老婆（Person）  〔你的版 · 未改〕
+## P2-新15 · A person good at learning languages — 老婆（Person）  〔你的版 · 句4顺化〕
 
 > **📋 P2 题面**：Describe a person who is good at learning and speaking new languages.
 > *You should say:* How you got to know him/her · How he/she learns a new language · What languages he/she can speak · And explain how you feel about him/her
@@ -1745,7 +1745,7 @@
 | 1 | 我想聊的那个人 是 我 老婆，（她 真的 很 擅长 学 语言）。 | The person I'd like to talk about is my wife, who's really good at learning languages. |
 | 2 | 我们 当年 在 高中 认识，做 了 好几年 同学，一直 到 我们 读完 大学——而 我们 现在 已经 结婚 十多年 了。 | We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. |
 | 3 | 去年，她 开始 学 日语。 | Last year, she started learning Japanese. |
-| 4 | 我们 去过 日本 几次，而 她 每一次 都 很 爱，所以 我 觉得 她 想 说 流利 的 主要 原因 是 她 下次 旅行 能 更 投入。 | We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. |
+| 4 | 我们 去过 日本 几次，而 她 每一次 都 很 爱，所以 我 觉得 她 想 说 流利 的 主要 原因 是 她 下次 去 能 玩 得 更 尽兴。 | We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can really make the most of it next time we go. 〔顺化自：get more involved next time she travels〕 |
 | 5 | 她 学 的 方式 是 靠 啃 教材，而 有时候 她 也 看 卡通 和 动漫。 | The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. |
 | 6 | 她 真的 坚持——她 每一天 都 啃 掉 一点点。 | She really sticks at it — she chips away at it a little every single day. |
 | 7 | 她 就是 有 一个 真正的 语言 天赋。 | She's just got a real talent for languages. |
@@ -1756,7 +1756,7 @@
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my wife, who's really good at learning languages. We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. Last year, she started learning Japanese. We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can get more involved next time she travels. The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. She really sticks at it — she chips away at it a little every single day. She's just got a real talent for languages. She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. What I really admire about her is her perseverance. She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. Honestly, she sets a great example for both me and my son.
+> The person I'd like to talk about is my wife, who's really good at learning languages. We met back in high school and stayed classmates for years, right up until we finished college — and we've been married for over ten years now. Last year, she started learning Japanese. We've been to Japan a few times and she's loved it every single time, so I think the main reason she wants to get fluent is so she can really make the most of it next time we go. The way she learns is by working through textbooks, and sometimes she watches cartoons and anime too. She really sticks at it — she chips away at it a little every single day. She's just got a real talent for languages. She speaks Chinese, English and a couple of dialects, and now she's adding Japanese to the list. What I really admire about her is her perseverance. She never stops learning, even when she's got a lot on her plate — work, childcare, that kind of thing. Honestly, she sets a great example for both me and my son.
 
 ### 句型/模板（你自己的）
 
