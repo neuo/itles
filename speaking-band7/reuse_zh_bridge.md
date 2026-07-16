@@ -85,17 +85,17 @@
 | 7 | 大多 我 就 四处 逛、抓 一顿饭、还 让 我 儿子 到处 跑。 | Mostly I just wander around, grab a meal, and let my son run around. |
 | 8 | 我 最 喜欢的 是 它 全 在 一个 屋顶 下——你 能 吃饭、购物、看 电影，不用 踏 出去。 | What I like most is that it's all under one roof — you can eat, shop, and watch a film without stepping outside. |
 | 9 | 所以 对我，它 更少 关于 那 楼 本身、更多 关于 在 那儿 跟 我 家人 待 时间。 | So for me, it's less about the building itself and more about spending time there with my family. |
-| 10 | 它 是 一个 我 会 永远 记得的 地方，因为 它 是 这里 生活 这么 大 一部分。 | It's somewhere I'll always remember, since it's such a big part of life here. |
+| 10 | 它 没 什么 特别的，真的，但 它 是 一个 我们 一直 回去 的 顺手 地方。 | It's nothing fancy, but it's a handy spot we keep coming back to. |
 
 ### ②P2 整段（shadow）
 
-> The building I'd like to talk about is IFS, a tall tower right in the middle of Chengdu, where I live. It's mainly a huge shopping mall, with dozens of floors of shops and restaurants, and offices on top. I go there quite often, usually for a relaxed weekend with my wife and son. What really makes it stand out is the giant panda sculpture climbing up one side of it. Everyone in Chengdu knows it, and people are always stopping to take photos. Honestly, I'm not really into shopping, but I still enjoy going there. Mostly I just wander around, grab a meal, and let my son run around. What I like most is that it's all under one roof — you can eat, shop, and watch a film without stepping outside. So for me, it's less about the building itself and more about spending time there with my family. It's somewhere I'll always remember, since it's such a big part of life here.
+> The building I'd like to talk about is IFS, a tall tower right in the middle of Chengdu, where I live. It's mainly a huge shopping mall, with dozens of floors of shops and restaurants, and offices on top. I go there quite often, usually for a relaxed weekend with my wife and son. What really makes it stand out is the giant panda sculpture climbing up one side of it. Everyone in Chengdu knows it, and people are always stopping to take photos. Honestly, I'm not really into shopping, but I still enjoy going there. Mostly I just wander around, grab a meal, and let my son run around. What I like most is that it's all under one roof — you can eat, shop, and watch a film without stepping outside. So for me, it's less about the building itself and more about spending time there with my family. It's nothing fancy, but it's a handy spot we keep coming back to.
 
-> 🔁 **复用**：句1 `I'd like to talk about is…where I live`；句3 `quite often…weekend with my wife`(老08/老24)；句4 `What really makes it stand out is`；句6 `not into…but still enjoy`(老24)；句7 `wander around`(新18)+`let my son run around`(老12)；句8 `all under one roof`(老24-Q1)；句9 `less about X and more about Y`(老24)；句10 `somewhere I'll always remember`(新18)。新素材仅 IFS/panda/floors=具体名词。
+> 🔁 **复用**：句1 `I'd like to talk about is…where I live`；句3 `quite often…weekend with my wife`(老08/老24)；句4 `What really makes it stand out is`；句6 `not into…but still enjoy`(老24)；句7 `wander around`(新18)+`let my son run around`(老12)；句8 `all under one roof`(老24-Q1)；句9 `less about X and more about Y`(老24)；句10 `nothing fancy … a handy spot we keep coming back to`（低调收尾，避免商城过度拔高）。新素材仅 IFS/panda/floors=具体名词。
 
 ### 句型/模板（复用池）
 
-- `The … I'd like to talk about is …, where I live` · `What really makes it stand out is …` · `it's less about X and more about Y` · `it's all under one roof` · `somewhere I'll always remember`
+- `The … I'd like to talk about is …, where I live` · `What really makes it stand out is …` · `it's less about X and more about Y` · `it's all under one roof` · `it's nothing fancy, but it's a handy spot we keep coming back to`
 
 ---
 
