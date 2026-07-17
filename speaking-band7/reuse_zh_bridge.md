@@ -6499,4 +6499,124 @@
 
 ---
 
-> **✅ 全 54 张收官（新01–27 + 老01–27）。** 每张 = P2 拆解表 + P2 整段 + 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用审计）+ P3 句型。其中 **13 张 = 你的版**（session 06-22→06-29 真练过 · 未降未改）+ **41 张 = 复用生成**（全部拼你的素材池、零新素材、每答附🔁复用来源）。用法见文件顶部素材池。
+## P2-热01 · A change you made recently — 开始早起锻炼（Event/Change）  〔热点补充 · 复用生成〕
+
+> **📋 P2 题面**：Describe a change that you made recently.
+> *You should say:* What the change was · Why you made this change · How difficult it was to make · And explain how you feel about the change
+>
+> **Cue**：什么改变 / 为何改 / 难不难 / 感受 · 题型 Event/Change
+>
+> 🔁 **整卡复用自**：新04 陪老婆晨跑(really into fitness / dragging myself out of bed / fresh morning air / no traffic just birds) + 老26(river/quiet) + 新27(made a real difference)。**⚠️ 雅思哥榜首热点(3752人)，我们原来没覆盖——补上。**
+
+### ①P2 拆解（英式中文珠子 → 复用英文）
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 我想聊的那个 改变 是 我 最近 开始 早起 锻炼。 | The change I'd like to talk about is that I recently started getting up early to exercise. |
+| 2 | 好些年 我 都 是 个 夜猫子，我 从不 会 八点 前 起床。 | For years I was a bit of a night owl, and I'd never get up before eight. |
+| 3 | 但 几个月 前，我 老婆——（她 真的 很 迷 健身）——说服 我 早晨 跟 她 一起 去 跑步。 | But a few months ago, my wife — who's really into fitness — talked me into going running with her in the mornings. |
+| 4 | 说实话，一开始 把 自己 拖 下床 真的 很 难。 | Honestly, at first, dragging myself out of bed was really tough. |
+| 5 | 但 一旦 我 出 了 门，那 清新的 早晨 空气 比 任何 咖啡 都 更 让 我 清醒。 | But once I got outside, that fresh morning air woke me up more than any coffee would. |
+| 6 | 我们 沿着 我们家 附近 一条 河 跑，而 它 那么 安静——没 车流，只有 鸟。 | We run along the river near our home, and it's so quiet — no traffic, just birds. |
+| 7 | 我 做 这个 改变 的 主要 原因 是 我 想 变 更 健康、还 想 多 跟 她 待 时间。 | The main reason I made the change is that I wanted to get healthier and spend more time with her. |
+| 8 | 现在 已经 几个月 了，而 我 说实话 感觉 好 多了——更 清醒、更 少 压力。 | It's been a couple of months now, and I honestly feel much better — more awake and less stressed. |
+| 9 | 最 让 我 意外的 是 我 竟然 变得 这么 享受 它。 | What surprised me most is how much I've actually come to enjoy it. |
+| 10 | 所以 对我，它 是 一个 小 改变，但 它 给 我 的 一天 带来 了 真正的 不同。 | So for me, it's a small change, but it's made a real difference to my day. |
+
+### ②P2 整段（shadow）
+
+> The change I'd like to talk about is that I recently started getting up early to exercise. For years I was a bit of a night owl, and I'd never get up before eight. But a few months ago, my wife — who's really into fitness — talked me into going running with her in the mornings. Honestly, at first, dragging myself out of bed was really tough. But once I got outside, that fresh morning air woke me up more than any coffee would. We run along the river near our home, and it's so quiet — no traffic, just birds. The main reason I made the change is that I wanted to get healthier and spend more time with her. It's been a couple of months now, and I honestly feel much better — more awake and less stressed. What surprised me most is how much I've actually come to enjoy it. So for me, it's a small change, but it's made a real difference to my day.
+
+> 🔁 **复用**：句3 `really into fitness`+`talked me into`(新04)；句4 `dragging myself out of bed`(新04)；句5 `fresh morning air woke me up more than any coffee`(新04)；句6 `no traffic, just birds`(新04/老26)；句10 `made a real difference`(新27)。
+
+### 句型/模板（复用池）
+
+- `The change I'd like to talk about is that I recently started …` · `For years I was a bit of a night owl` · `my wife … talked me into …` · `The main reason I made the change is that …` · `What surprised me most is how much I've come to enjoy it` · `it's a small change, but it's made a real difference to my day`
+
+---
+
+### ①P3 拆解 + ②整段
+
+**Q1. Why do people make changes in their lives?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 几个 原因，真的。 | A few reasons, really. |
+| 2 | 有些人 改变 因为 他们 对 现状 不 满意，而 另一些 只是 想 成长。 | Some people change because they're not happy with how things are, whereas others just want to grow. |
+| 3 | 对 我 来说，我 做 一个 改变 是 为了 变 更 健康。 | For me, I made a change to get healthier. |
+| 4 | 所以 它 归结到 想要 某个 更好的 东西。 | So it comes down to wanting something better. |
+
+> A few reasons, really. Some people change because they're not happy with how things are, whereas others just want to grow. For me, I made a change to get healthier. So it comes down to wanting something better.
+
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`comes down to`。
+
+**Q2. What changes are difficult for people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 打破 老 习惯，我会说。 | Mainly breaking old habits, I'd say. |
+| 2 | 我们 固守 老一套，所以 改 你的 作息 一开始 真的 很 难。 | We get stuck in our ways, so changing your routine is really hard at first. |
+| 3 | 而 小 改变 更 容易 坚持。 | Whereas small changes are easier to stick with. |
+| 4 | 所以 它 归结到 从 小 开始。 | So it comes down to starting small. |
+
+> Mainly breaking old habits, I'd say. We get stuck in our ways, so changing your routine is really hard at first. Whereas small changes are easier to stick with. So it comes down to starting small.
+
+> 🔁 **复用**：`Mainly … I'd say`+`stuck in our ways`(新15-Q4)+`whereas`+`comes down to`。
+
+**Q3. Do young and old people react to change differently?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 挺 不同，我会说。 | Quite differently, I'd say. |
+| 2 | 年轻人 像 海绵——他们 适应 快，而 老年人 更喜欢 事情 保持 不变。 | Young people are like sponges — they adapt fast, whereas older folk prefer things to stay the same. |
+| 3 | 它 归结到 他们 习惯 什么。 | It comes down to what they're used to. |
+| 4 | 但 每个人 只要 真的 想 都 能 改变，说句公道话。 | But everyone can change if they really want to, to be fair. |
+
+> Quite differently, I'd say. Young people are like sponges — they adapt fast, whereas older folk prefer things to stay the same. It comes down to what they're used to. But everyone can change if they really want to, to be fair.
+
+> 🔁 **复用**：`Quite differently, I'd say`(老03-Q1)+`like sponges`(新15-Q4)+`whereas older folk`+`comes down to`+`to be fair`。
+
+**Q4. Is it good to change jobs frequently?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
+| 2 | 换 工作 能 带来 新 机会 和 更好 报酬，而 待 太久 会 感觉 卡住。 | Changing jobs can bring new chances and better pay, whereas staying too long can feel stuck. |
+| 3 | 但 换 得 太 频繁 在 简历上 看起来 不好。 | But changing too often looks bad on a CV. |
+| 4 | 所以 它 归结到 时机。 | So it comes down to timing. |
+
+> It's a bit of a mixed bag, honestly. Changing jobs can bring new chances and better pay, whereas staying too long can feel stuck. But changing too often looks bad on a CV. So it comes down to timing.
+
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to`。
+
+**Q5. What kinds of changes are good for people?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 主要 是 健康的 那些，我会说。 | Mainly healthy ones, I'd say. |
+| 2 | 像 多 锻炼 或 减少 屏幕 时间 真的 有帮助。 | Things like exercising more or cutting down on screen time really help. |
+| 3 | 除此之外，学 一个 新 东西 让 你的 脑子 保持 敏锐。 | On top of that, learning something new keeps your mind sharp. |
+| 4 | 所以 它 归结到 让 你的 生活 变 更好 的 改变。 | So it comes down to changes that make your life better. |
+
+> Mainly healthy ones, I'd say. Things like exercising more or cutting down on screen time really help. On top of that, learning something new keeps your mind sharp. So it comes down to changes that make your life better.
+
+> 🔁 **复用**：`Mainly … I'd say`+`cutting down on screen time`(新16风)+`On top of that`+`comes down to`。
+
+**Q6. How does technology change people's lives?**
+
+| 句 | 英式中文珠子 | 复用英文 |
+|---|---|---|
+| 1 | 大大地，我 觉得。 | Massively, I reckon. |
+| 2 | 它 让 一切 更 快——你 现在 几乎 任何 东西 都 能 在 手机上 做。 | It's made everything faster — you can do almost anything on your phone now. |
+| 3 | 而 它 也 让 我们 有点 更 懒、更 粘 屏幕。 | Whereas it's also made us a bit lazier and more glued to screens. |
+| 4 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
+
+> Massively, I reckon. It's made everything faster — you can do almost anything on your phone now. Whereas it's also made us a bit lazier and more glued to screens. So it comes down to how we use it.
+
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`glued to screens`(新16-Q3)+`comes down to how we use it`(新07-Q6)。
+
+**P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to wanting something better` · `Mainly breaking old habits, I'd say` / `stuck in our ways` / `starting small` · `Quite differently, I'd say` / `like sponges` · `a bit of a mixed bag, honestly` / `comes down to timing` · `Mainly healthy ones, I'd say` / `cutting down on screen time` · `Massively, I reckon` / `comes down to how we use it`。
+
+---
+
+> **✅ 全 54 张收官（新01–27 + 老01–27）+ 热01 热点补充。** 每张 = P2 拆解表 + P2 整段 + 句型 + 6 道 P3（各 拆解表 + 整段 + 🔁复用审计）+ P3 句型。其中 **13 张 = 你的版**（session 06-22→06-29 真练过 · 未降未改）+ **41 张 = 复用生成**（全部拼你的素材池、零新素材、每答附🔁复用来源）。用法见文件顶部素材池。
