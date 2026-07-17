@@ -2662,3 +2662,5 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 - **热点比对**：我们的新系列 ≈ 雅思哥 5–8 月榜（12 中 11 覆盖），补了榜首缺口。
 - 🔴 **规律**：你的版熟 / 复用卡整段陌生 → 复用卡先多 shadow 再 cold；"哪不对"=信心问题非错（你的版~90%地道，地道=简单又顺非难词）；真词汇缺口(straws/mess/night owl/stumbled on…)用钩子记。
 - 🔜 P3（配 P2 当复习）。详见 `speaking-band7/coach/sessions/2026-07-17.md`。
+
+**P3 阶段（同日后半）**：她否决反射法（"语言靠熟练不靠推理，先熟后归纳"）→ **P3 也用 P2 背法**：逐字亮该 P2 复习 → 6 题 P3 各 珠子盲说→中英对照+完整英语版→读+cold → 一域过完**归纳**（STANCE 菜单/让步/加点/招牌chunk/万能LAND）。🔒 硬规则=展示**逐字来自 reuse_zh_bridge.md**，要改先改原文。已过 **AI域(新16) + 教育域(新15)** 各 6 题+归纳。P3 卡点=占位it/`For+名词+that从句`/`do happen to`/`so much that`+`stuck in their ways`/`from…to…to…`。🔜 下次 P3 钱经济(老20)→友情社媒(新07)→travel(新18)→app(老08)。
