@@ -2648,3 +2648,17 @@ suzy 自我诊断关键："你让我改错的 Conclusion，重新写我发现还
 **🔴 三个实战发现**：① **cold 时第一个丢的是 L 句**（仿写 12 段零漏 / cold 5/7 篇漏，共 7 处）→ 每段末永远写 `Therefore, [重述].` ② **一边倒题别硬折立场句**（AgD 音乐零让步 → `I completely agree with this opinion.`）③ **肉太密会超字数**（ex04 复用版 335 词）→ 考场同段两例只留一。
 
 **教练教训（存 memory）**：材料必须从她 **cold 实产**提炼，不能从范文/工具集推导；**examiner 门只验档位，不验"是不是她的"**；做完必须反向逐句审计。**她 6/15 那 7 篇 cold 判分 7~7.5——floor 本来就够 Band 7，方向不该是"向范文靠拢"。**
+
+---
+
+## 2026-07-17（口语冲刺 · P2 按题型过一轮 15 张 + 热点比对）
+
+二考前 ~1 周。**reuse_zh_bridge.md 成主背诵源**。每卡 workflow：📋题面+cue → 中文珠子盲说 → 中英对照+完整英语版 → 读+cold。
+
+- **P2 过一轮 15 张**：Person(新07/25/15) · Place(新18/01/老26) · Event(新16/23/老21) · Object(老08/20/新14) · 法律(新06/27) · **热01"a change you made recently"（雅思哥榜首 3752 人·原缺，补新04晨跑料）**。
+- **顺化 5 处**：新15句4(get more involved→make the most of it) · 新18句8(all in all→So overall) · 新01句10(改低调,别给商城拔高) · 老26(go back→go there · odd→occasional person) · 老21句4(trains→trained 时态)。
+- **补长 2 张你的版**：老08 125→165 · 新14 139→168（各补 2 句池内真实细节）。
+- **全 54 张已插 📋P2 题面**（Describe+You should say，真题库原文）。
+- **热点比对**：我们的新系列 ≈ 雅思哥 5–8 月榜（12 中 11 覆盖），补了榜首缺口。
+- 🔴 **规律**：你的版熟 / 复用卡整段陌生 → 复用卡先多 shadow 再 cold；"哪不对"=信心问题非错（你的版~90%地道，地道=简单又顺非难词）；真词汇缺口(straws/mess/night owl/stumbled on…)用钩子记。
+- 🔜 P3（配 P2 当复习）。详见 `speaking-band7/coach/sessions/2026-07-17.md`。
