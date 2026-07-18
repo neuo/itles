@@ -4144,9 +4144,10 @@
 |---|---|---|
 | 1 | 它们 挺 不同。 | They're quite different. |
 | 2 | 年轻人 瞬间 就 上手 新 app，而 老年人 有点 更 谨慎、还 坚持 他们 认识的 那些。 | Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. |
-| 3 | 所以 它 真的 归结到 他们 是 伴随 什么 长大的。 | So it really comes down to what they grew up with. |
+| 3 | 比如，我 手机上 有 几十个 app，但 我 父母 啥都 只 用 微信。 | For example, I've got dozens of apps on my phone, but my parents just use WeChat for everything. |
+| 4 | 所以 它 真的 归结到 他们 是 伴随 什么 长大的。 | So it really comes down to what they grew up with. |
 
-> They're quite different. Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. So it really comes down to what they grew up with.
+> They're quite different. Young people pick new apps up instantly, whereas older people are a bit more cautious and stick with the ones they know. For example, I've got dozens of apps on my phone, but my parents just use WeChat for everything. So it really comes down to what they grew up with.
 
 **Q2. Why do some people not like using apps?**
 
