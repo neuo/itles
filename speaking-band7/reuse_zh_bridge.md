@@ -722,14 +722,15 @@
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 是的，大多，我会说。 | Yeah, mostly, I'd say. |
-| 2 | 大多数人 遵守 规则，因为 它 让 事情 顺畅 运转。 | Most people follow the rules because it keeps things running smoothly. |
-| 3 | 说句公道话，有些人 破 小的，比如 乱穿马路，当 没人 看 的时候。 | To be fair, some break small ones, like jaywalking, when nobody's watching. |
-| 4 | 但 总的来说，人们 知道 它 对 每个人 都 更好。 | But overall, people know it's better for everyone. |
+| 1 | 是的，大体上，我会说。 | Yeah, for the most part, I'd say. |
+| 2 | 这儿 大多数人 尊重 法律——他们 照章 纳税、遵守 交规，一般 不 惹 麻烦。 | Most people here respect the law — they pay their taxes, follow traffic rules, and generally stay out of trouble. |
+| 3 | 严重 犯罪 挺 少见，一部分 因为 惩罚 严厉、执法 也 严。 | Serious crime is pretty rare, partly because the penalties are strict and enforcement is tight. |
+| 4 | 说句公道话，有些人 在 没人 看 的时候 会 破 一些 小 法规——乱穿马路 就是 个 典型。 | To be fair, some people break the smaller laws when no one's watching — jaywalking is a classic example. |
+| 5 | 但 总的来说，人们 知道 守法 能 让 社会 安全，所以 都 遵守。 | But overall, people know that obeying the law keeps society safe, so they stick to it. |
 
-> Yeah, mostly, I'd say. Most people follow the rules because it keeps things running smoothly. To be fair, some break small ones, like jaywalking, when nobody's watching. But overall, people know it's better for everyone.
+> Yeah, for the most part, I'd say. Most people here respect the law — they pay their taxes, follow traffic rules, and generally stay out of trouble. Serious crime is pretty rare, partly because the penalties are strict and enforcement is tight. To be fair, some people break the smaller laws when no one's watching — jaywalking is a classic example. But overall, people know that obeying the law keeps society safe, so they stick to it.
 
-> 🔁 **复用**：`To be fair`+`But overall`。
+> 🔁 **复用**：`… I'd say`+`To be fair`+`But overall`。**切题修**（她指出原版离题）：紧扣"守法"=纳税/交规/犯罪/执法，非泛泛"follow rules"；jaywalking 降为"破小法规"的点缀例。
 
 **Q3. What kinds of behavior are considered as good behavior?**
 
@@ -749,13 +750,13 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对。 | Absolutely. |
-| 2 | 父母 从 小 教 他们 那些 基础——什么 对、什么 错。 | Parents teach them the basics — what's right and wrong — from a young age. |
-| 3 | 除此之外，他们 从 新闻、甚至 从 app 捡 到 一大堆。 | On top of that, they pick a lot up from the news and even from apps. |
+| 2 | 父母 很 早 就 教 他们 什么 能 做、什么 不 能——比如 别 拿 不 属于 自己 的 东西、还有 过马路 小心。 | Parents teach them what's OK and what isn't from an early age — like not taking things that aren't yours, or being careful on the road. |
+| 3 | 除此之外，他们 从 新闻 里 捡 到 一大堆——像 案子、犯罪 报道——甚至 从 网上 短 视频。 | On top of that, they pick a lot up from the news — like court cases and crime stories — and even from short videos online. |
 | 4 | 所以 学校 只是 它 的 一部分，说句公道话。 | So school's just one part of it, to be fair. |
 
-> Absolutely. Parents teach them the basics — what's right and wrong — from a young age. On top of that, they pick a lot up from the news and even from apps. So school's just one part of it, to be fair.
+> Absolutely. Parents teach them what's OK and what isn't from an early age — like not taking things that aren't yours, or being careful on the road. On top of that, they pick a lot up from the news — like court cases and crime stories — and even from short videos online. So school's just one part of it, to be fair.
 
-> 🔁 **复用**：`On top of that`+`pick … up`(新15)+`to be fair`。
+> 🔁 **复用**：`On top of that`+`pick … up`(新15)+`to be fair`。**切题+常用词修**：从"对错(道德)"收紧到法律相关(别偷东西/过马路小心/案子/犯罪报道)，且 `dos and don'ts`→`what's OK and what isn't`(常用词)。
 
 **Q5. What are the benefits for people to obey rules?**
 
@@ -1512,7 +1513,7 @@
 | 2 | 我 跟 我 老同学 张伟 一起 去——我们 做 哥们儿 好些年 了。 | I went with my old classmate Zhangwei — we've been mates for years. |
 | 3 | 它 在 成都 这儿 那 大 体育馆，一个 周末 晚上。 | It was at the big arena here in Chengdu, on a weekend evening. |
 | 4 | 我们 俩 都 不 太 紧 追 篮球，但 那 票 正好 便宜。 | Neither of us follows basketball that closely, but the tickets came up cheap. |
-| 5 | 真正 让 它 出众的 是 那 氛围——整个 人群 都 站 起来 喊。 | What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. |
+| 5 | 真正 让 它 出众的 是 那 氛围——所有人 都 站 起来 喊。 | What really made it stand out was the atmosphere — everyone was on their feet, shouting. |
 | 6 | 在 电视上 看 是 一回事，但 亲身 在 那儿 完全 不同。 | Watching it on TV is one thing, but being there in person is completely different. |
 | 7 | 你 感受 每 一个 进球，而 那 能量 就 把 你 卷 进去。 | You feel every basket, and the energy just pulls you in. |
 | 8 | 说实话，即使 那 主队 输 了，我们 也 玩 得 特别 开心。 | Honestly, even though the home team lost, we had a brilliant time. |
@@ -1522,7 +1523,7 @@
 
 ### ②P2 整段（shadow）
 
-> The event I'd like to talk about is a CBA basketball game I watched live a while ago. I went with my old classmate Zhangwei — we've been mates for years. It was at the big arena here in Chengdu, on a weekend evening. Neither of us follows basketball that closely, but the tickets came up cheap. What really made it stand out was the atmosphere — the whole crowd was on its feet, shouting. Watching it on TV is one thing, but being there in person is completely different. You feel every basket, and the energy just pulls you in. Honestly, even though the home team lost, we had a brilliant time. Afterwards we grabbed some food and talked about it for ages. We hadn't hung out just the two of us in ages, so it was really good to catch up. So for me, it wasn't really about the game — it was about a good night out with an old friend.
+> The event I'd like to talk about is a CBA basketball game I watched live a while ago. I went with my old classmate Zhangwei — we've been mates for years. It was at the big arena here in Chengdu, on a weekend evening. Neither of us follows basketball that closely, but the tickets came up cheap. What really made it stand out was the atmosphere — everyone was on their feet, shouting. Watching it on TV is one thing, but being there in person is completely different. You feel every basket, and the energy just pulls you in. Honestly, even though the home team lost, we had a brilliant time. Afterwards we grabbed some food and talked about it for ages. We hadn't hung out just the two of us in ages, so it was really good to catch up. So for me, it wasn't really about the game — it was about a good night out with an old friend.
 
 > 🔁 **复用**：句2 `old classmate Zhangwei`+`mates for years`(新07)；句5 `What really made it stand out was`；句6 in-person(新07 nothing beats)；句9 `for ages`(新23)；句10 `not really about X — it's about Y`(新14)。
 
@@ -1604,13 +1605,14 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆，真的。 | Loads, really. |
-| 2 | 篮球 和 足球 巨大，而 乒乓球 到处 都是。 | Basketball and football are huge, and table tennis is everywhere. |
-| 3 | 除此之外，羽毛球 对 普通 人 真的 很 受欢迎。 | On top of that, badminton's really popular for ordinary people. |
-| 4 | 所以 有 适合 每个人 的 东西，说句公道话。 | So there's something for everyone, to be fair. |
+| 2 | 篮球 和 足球 巨大，而 乒乓球 和 羽毛球 到处 都是。 | Basketball and football are huge, and table tennis and badminton are everywhere. |
+| 3 | 很大 一部分 归结到 每种 运动 需要 的 场地——足球 或 篮球 需要 一个 正经 场地，而 乒乓球 你 几乎 在 哪儿 都 能 架 起来。 | A big part of it comes down to the space each sport needs — football or basketball need a proper court, whereas table tennis you can set up almost anywhere. |
+| 4 | 这 就是 为什么 那些 简单 的 这么 受欢迎——大多数人 就能 在 公园 或 学校 玩。 | That's why the easy ones are so popular — most people can just play them in a park or at school. |
+| 5 | 所以 有 适合 每个人 的 东西，说句公道话。 | So there's something for everyone, to be fair. |
 
-> Loads, really. Basketball and football are huge, and table tennis is everywhere. On top of that, badminton's really popular for ordinary people. So there's something for everyone, to be fair.
+> Loads, really. Basketball and football are huge, and table tennis and badminton are everywhere. A big part of it comes down to the space each sport needs — football or basketball need a proper court, whereas table tennis you can set up almost anywhere. That's why the easy ones are so popular — most people can just play them in a park or at school. So there's something for everyone, to be fair.
 
-> 🔁 **复用**：`Loads, really`+`On top of that`+`to be fair`。
+> 🔁 **复用**：`Loads, really`+`comes down to`+`whereas`+`to be fair`。**扩展**：加"不同运动的场地要求"角度(足球需正经场地 vs 乒乓球随处可架)，把流行度和场地易得性挂钩(她要的)。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `hang out with mates` / `the buzz` · `Mostly … I'd say` / `comes down to whether you want convenience or the real experience` · `Loads, honestly` / `from anywhere, at any time` · `Mainly the fun, lively ones, I'd say` / `bore them` · `money well spent` / `not … a waste` · `Loads, really` / `to be fair`。
 
