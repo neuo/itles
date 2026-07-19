@@ -145,13 +145,13 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
-| 2 | 你 通常 得到 一个 很好的 视野，而 高 楼层 更 安静，远离 那 车流。 | You usually get a great view, and the higher floors are quieter, away from the traffic. |
-| 3 | 除此之外，它们 全 在 一个 屋顶 下——健身房、商店、保安，那种 东西。 | On top of that, they're all under one roof — gym, shops, security, that kind of thing. |
+| 2 | 首先，你 通常 得到 一个 很棒的 视野——待 在 高处，你 能 看到 整座 城市，而且 感觉 很 开阔。 | First, you usually get a great view — being up high, you can see the whole city, and it feels really open. |
+| 3 | 而且 高 楼层 安静 多了，远离 那 车流 和 街上的 噪音，所以 在 家 更 容易 放松。 | And the higher floors are much quieter, away from the traffic and street noise, so it's easier to relax at home. |
 | 4 | 所以 对 忙碌的 家庭，它 真的 很 方便。 | So for busy families, it's really convenient. |
 
-> Loads, honestly. You usually get a great view, and the higher floors are quieter, away from the traffic. On top of that, they're all under one roof — gym, shops, security, that kind of thing. So for busy families, it's really convenient.
+> Loads, honestly. First, you usually get a great view — being up high, you can see the whole city, and it feels really open. And the higher floors are much quieter, away from the traffic and street noise, so it's easier to relax at home. So for busy families, it's really convenient.
 
-> 🔁 **复用**：`Loads, honestly`+`away from the traffic`(老26)+`On top of that`+`all under one roof`(老24)+`that kind of thing`。
+> 🔁 **复用**：`Loads, honestly`+`away from the traffic`(老26)+`street noise`+两理由(view/安静)各展开；去掉 `all under one roof`（住宅不符实际，她指出）。
 
 **Q5. Why do some people like to remodel and decorate their homes themselves?**
 
@@ -317,23 +317,23 @@
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个 地方 是 一座 小镇、（我 老婆 和 我 前阵子 旅行 时 去 的）。 | The place I'd like to talk about is a small town my wife and I visited on a trip a while ago. |
+| 1 | 我想聊的那个 地方 是 一座 小镇、（我 老婆 和 我 大概 6 年前 去 的）。 | The place I'd like to talk about is a small town my wife and I visited about six years ago. |
 | 2 | 我们 当时 开车 穿过 川西，然后 在 那儿 停 下 过夜。 | We were driving through western Sichuan and stopped there for the night. |
 | 3 | 说句公道话，我们 没 期待 多少，但 它 结果 比 我们 想的 还 安静。 | To be fair, we didn't expect much, but it turned out even quieter than we thought. |
 | 4 | 那儿 基本上 没 什么 可 做——几家 店、一条 主街，就 这样。 | There was basically nothing to do — a couple of shops, one main street, and that was it. |
 | 5 | 我们 四处 逛 了 一会儿，但 一切 早早 关门，所以 我们 就 回 了 酒店。 | We wandered around for a bit, but everything shut early, so we just went back to the hotel. |
 | 6 | 让 它 这么 无聊的 是 那儿 没 地方 吃饭、也 没 东西 看。 | What made it so boring was that there was nowhere to eat and nothing to see. |
-| 7 | 通常 旅行 时 我们 慢慢来、享受 当地 食物，但 在 那儿 我们 就 被 困住。 | Usually on a trip we take our time and enjoy the local food, but there we were just stuck. |
-| 8 | 说实话，我 儿子 一个 小时 内 就 坐不住 了。 | Honestly, my son got restless within an hour. |
+| 7 | 信号 也 很 差——连 在 手机 上 看 个 视频 都 一直 卡。 | The signal was terrible too — even watching a video on my phone kept buffering. |
+| 8 | 通常 旅行 时 我们 慢慢来、享受 当地 食物，但 在 那儿 我们 就 被 困住。 | Usually on a trip we take our time and enjoy the local food, but there we were just stuck. |
 | 9 | 所以 第二天 早上 我们 早起、然后 继续 上路。 | So the next morning we got up early and moved on. |
 | 10 | 唯一 的 好 处，说实话，是 它 有 多 安静。 | The only good bit, honestly, was how quiet it was. |
 | 11 | 回头看，它 不 糟糕，但 它 不 是 一个 我 会 再 去 的 地方。 | Looking back, it wasn't terrible, but it's not somewhere I'd go again. |
 
 ### ②P2 整段（shadow）
 
-> The place I'd like to talk about is a small town my wife and I visited on a trip a while ago. We were driving through western Sichuan and stopped there for the night. To be fair, we didn't expect much, but it turned out even quieter than we thought. There was basically nothing to do — a couple of shops, one main street, and that was it. We wandered around for a bit, but everything shut early, so we just went back to the hotel. What made it so boring was that there was nowhere to eat and nothing to see. Usually on a trip we take our time and enjoy the local food, but there we were just stuck. Honestly, my son got restless within an hour. So the next morning we got up early and moved on. The only good bit, honestly, was how quiet it was. Looking back, it wasn't terrible, but it's not somewhere I'd go again.
+> The place I'd like to talk about is a small town my wife and I visited about six years ago. We were driving through western Sichuan and stopped there for the night. To be fair, we didn't expect much, but it turned out even quieter than we thought. There was basically nothing to do — a couple of shops, one main street, and that was it. We wandered around for a bit, but everything shut early, so we just went back to the hotel. What made it so boring was that there was nowhere to eat and nothing to see. The signal was terrible too — even watching a video on my phone kept buffering. Usually on a trip we take our time and enjoy the local food, but there we were just stuck. So the next morning we got up early and moved on. The only good bit, honestly, was how quiet it was. Looking back, it wasn't terrible, but it's not somewhere I'd go again.
 
-> 🔁 **复用**：句1 `I'd like to talk about is`+wife；句2 `driving through western Sichuan`(老12)；句3 `To be fair`；句5 `wandered around`(新18)；句6 `What made it so hard`→`so boring`(新16)；句7 `take our time`(老12)+`stuck`(新18)；句9 `got up early`；句10 `Looking back`(新12)。
+> 🔁 **复用**：句1 `I'd like to talk about is`+wife+`about six years ago`；句2 `driving through western Sichuan`(老12)；句3 `To be fair`；句5 `wandered around`(新18)；句6 `What made it so hard`→`so boring`(新16)；句7 `kept buffering`(信号差·新增)；句8 `take our time`(老12)+`stuck`(新18)；句9 `got up early`；句11 `Looking back`(新12)。去掉儿子剧情。
 
 ### 句型/模板（复用池）
 
@@ -374,26 +374,26 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆 东西，真的。 | Loads of things, really. |
-| 2 | 我 通常 拿起 手机 刷，或 看 一个 短 视频、为 一个 快 笑。 | I usually pick up my phone and scroll, or watch a short video for a quick laugh. |
-| 3 | 除此之外，去 散个步 或 读书 总是 有帮助。 | On top of that, going for a walk or reading always helps. |
+| 2 | 大多数人 第一 反应 就是 掏出 手机——刷刷 短视频，或 跟 朋友 聊聊天。 | Most people just reach for their phone — scrolling short videos or chatting with friends. |
+| 3 | 其他人 会 去 散个步、运动 一下，或 捡起 一个 爱好 比如 读书。 | Others go for a walk, get some exercise, or pick up a hobby like reading. |
 | 4 | 所以 总 有 某个 东西 [去]打发 时间。 | So there's always something to kill the time. |
 
-> Loads of things, really. I usually pick up my phone and scroll, or watch a short video for a quick laugh. On top of that, going for a walk or reading always helps. So there's always something to kill the time.
+> Loads of things, really. Most people just reach for their phone — scrolling short videos or chatting with friends. Others go for a walk, get some exercise, or pick up a hobby like reading. So there's always something to kill the time.
 
-> 🔁 **复用**：`Loads of things, really`+`scroll…a quick laugh`(老08)+`On top of that`+`going for a walk`(老26)+`kill the time`(老08-Q3)。
+> 🔁 **复用**：`Loads of things, really`+`reach for their phone`(老08 scroll 同族)+`going for a walk`(老26)+`kill the time`(老08-Q3)；**改成大众例(most people / others)非纯个人**（她定的 P3 通则）。
 
 **Q4. Why are some teachers' classes boring? Are there any solutions?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 主要 因为 他们 只是 对 你 说，我会说。 | Mainly because they just talk at you, I'd say. |
-| 2 | 如果 一个 老师 只 照 书 念，学生 就 走神。 | If a teacher only reads from the book, students switch off. |
-| 3 | 但 如果 他们 放 一个 短 视频 或 提问，它 让 每个人 保持 投入。 | But if they play a short video or ask questions, it keeps everyone involved. |
-| 4 | 所以 那 解决 办法 是 让 那 课 更 动手。 | So the fix is making the class more hands-on. |
+| 1 | 主要 因为 他们 只是 单方面 对 你 讲，我会说。 | Mainly because they just talk at you, I'd say. |
+| 2 | 如果 一个 老师 只 照 书 念，学生 很 快 就 走神。 | If a teacher only reads from the book, students switch off pretty quickly. |
+| 3 | 所以 那 解决 办法 就是 反过来——让 学生 参与 进来：问 他们 问题、让 他们 讨论，或 放 个 短 视频。 | So the fix is to turn that around — get students involved: ask them questions, let them discuss, or play a short clip. |
+| 4 | 一旦 那 课 变成 双向 的，几乎 没 人 会 觉得 无聊。 | Once the class becomes two-way, hardly anyone finds it boring. |
 
-> Mainly because they just talk at you, I'd say. If a teacher only reads from the book, students switch off. But if they play a short video or ask questions, it keeps everyone involved. So the fix is making the class more hands-on.
+> Mainly because they just talk at you, I'd say. If a teacher only reads from the book, students switch off pretty quickly. So the fix is to turn that around — get students involved: ask them questions, let them discuss, or play a short clip. Once the class becomes two-way, hardly anyone finds it boring.
 
-> 🔁 **复用**：`Mainly X, I'd say`+`ask questions`(新15-Q4)+`hands-on`(新16-Q6)。
+> 🔁 **复用**：`Mainly X, I'd say`+`talk at you`+`switch off`+`get students involved / ask them questions`(新15-Q4)+`two-way`；**解决方案直接对症"单向→双向"**（她指出原 fix `hands-on` 与前面分析脱节）。
 
 **Q5. Why do some young people feel bored talking with old people?**
 
@@ -893,40 +893,40 @@
 
 ---
 
-## P2-新08 · A person who'd choose a medical career — 表妹 Lin（Person）  〔复用生成〕
+## P2-新08 · A person who'd choose a medical career — 高中同学张伟（Person）  〔复用生成 · 改张伟〕
 
 > **📋 P2 题面**：Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse).
 > *You should say:* When you knew him/her · When he/she started to think about that · What he/she would like to do · And explain why he/she would like to choose this career
 >
-> **Cue**: 认识她多久 / 何时开始想 / 想做什么 / 为何选这行 · 题型 Person
+> **Cue**: 认识多久 / 何时开始想 / 想做什么 / 为何选这行 · 题型 Person
 >
-> 🔁 **整卡复用自**：新15 老婆池(chips away every single day / a lot on her plate / really into / a real talent for / What I admire / sets a great example) + 新12(made up her mind) + 新16 AI域(crunch data / off their plate / back up not replace) + 老20(money well spent)。表妹/学医=具体设定。
+> 🔁 **整卡复用自**：张伟池(新25 `known each other for over ten years` / `made up his mind` / 刻苦 · 老06 `thinks a few steps ahead` / `weighs things up`=会规划) + `What I admire most` / `look up to`。高中同学 / 高考填志愿 / 学医 / 成都大医院=具体设定。**选医理由=张伟式务实规划**（判断就业前景好、稳定、收入+社会地位不错，现果如所料），非"外婆生病触动"。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个人 是 我的 小 表妹，Lin，（她 想 当 一个 医生）。 | The person I'd like to talk about is my younger cousin, Lin, who wants to be a doctor. |
-| 2 | 我 从 她 小时候 就 认识 她，而 我们 一直 挺 亲。 | I've known her since she was a kid, and we've always been pretty close. |
-| 3 | 她 最早 开始 聊 医学 是 在 高中，在 我们 外婆 病 得 很 重 之后。 | She first started talking about medicine back in high school, after our grandmother got seriously ill. |
-| 4 | 她 会 在 医院 陪 她 好几个 小时，而 我 觉得 那 就是 她 下定 决心 的时候。 | She'd sit with her in hospital for hours, and I think that's when she made up her mind. |
-| 5 | 真正 让 她 出众的 是 她 多么 努力。 | What really makes her stand out is how hard she works. |
-| 6 | 她 每一天 都 啃 掉 一点点 她的 学业，即使 当 她 手头 一大堆 事。 | She chips away at her studies a little every single day, even when she's got a lot on her plate. |
-| 7 | 她 真的 很 迷 生物，而 她 说实话 有 一个 真正的 天赋、对 它。 | She's really into biology, and she's honestly got a real talent for it. |
-| 8 | 我 最 佩服 的 是 她 真心 想 帮 人，不 只是 挣 好 钱。 | What I admire most is that she genuinely wants to help people, not just earn good money. |
-| 9 | 说实话，她 为 家里 其他人 树立 了 一个 很好的 榜样。 | Honestly, she sets a great example for the rest of the family. |
-| 10 | 成为 一个 医生 要 好些年，但 我 毫不 怀疑 她 会 做到。 | Becoming a doctor takes years, but I've no doubt she'll get there. |
-| 11 | 所以 对我，她 是 一个 我 真的 仰望 的人。 | So for me, she's someone I really look up to. |
+| 1 | 我想聊的那个人 是 我的 高中 同学，张伟，（他 现在 是 一名 医生）。 | The person I'd like to talk about is my high school classmate, Zhangwei, who's now a doctor. |
+| 2 | 我们 认识 十多 年 了，从 高中 那会儿 起。 | We've known each other for over ten years, ever since high school. |
+| 3 | 他 最早 认真 考虑 学医 是 在 高考 之后、我们 填 志愿 的时候。 | He first started seriously thinking about medicine back when we were filling in our university choices after the gaokao. |
+| 4 | 张伟 一直 是 那种 想得 远、会 权衡 利弊 的人。 | Zhangwei has always been the kind of person who thinks a few steps ahead and weighs things up. |
+| 5 | 当时，他 判断 学医 的 就业 前景 最好——它 稳定，而且 收入 和 社会 地位 都 不错。 | At the time, he figured medicine had the best job prospects — it's stable, and both the pay and the social status are good. |
+| 6 | 所以 他 没 跟风 去 选 热门 专业，而是 直接 报 了 医学院。 | So instead of following the crowd into a trendy major, he went straight for medical school. |
+| 7 | 之后 那 几年 很 苦——你 知道 学医 要 熬 好多 年。 | The years after that were tough — you know medicine takes years of hard study. |
+| 8 | 我 最 佩服 的 是，他 一旦 下定 决心，就 一步 一步 坚持 到底。 | What I admire most is that once he made up his mind, he stuck with it step by step. |
+| 9 | 而 现在 结果 确实 和 他 当初 预期的 一模一样。 | And now it's turned out exactly as he expected. |
+| 10 | 他 在 成都 一家 大 医院 当 医生，干得 非常 不错。 | He works as a doctor at a big hospital in Chengdu, and he's doing really well. |
+| 11 | 所以 对我 来说，他 是 一个 很会 规划 自己 人生 的人，也 是 我 真心 佩服 的人。 | So for me, he's someone who really plans his life well, and someone I look up to. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is my younger cousin, Lin, who wants to be a doctor. I've known her since she was a kid, and we've always been pretty close. She first started talking about medicine back in high school, after our grandmother got seriously ill. She'd sit with her in hospital for hours, and I think that's when she made up her mind. What really makes her stand out is how hard she works. She chips away at her studies a little every single day, even when she's got a lot on her plate. She's really into biology, and she's honestly got a real talent for it. What I admire most is that she genuinely wants to help people, not just earn good money. Honestly, she sets a great example for the rest of the family. Becoming a doctor takes years, but I've no doubt she'll get there. So for me, she's someone I really look up to.
+> The person I'd like to talk about is my high school classmate, Zhangwei, who's now a doctor. We've known each other for over ten years, ever since high school. He first started seriously thinking about medicine back when we were filling in our university choices after the gaokao. Zhangwei has always been the kind of person who thinks a few steps ahead and weighs things up. At the time, he figured medicine had the best job prospects — it's stable, and both the pay and the social status are good. So instead of following the crowd into a trendy major, he went straight for medical school. The years after that were tough — you know medicine takes years of hard study. What I admire most is that once he made up his mind, he stuck with it step by step. And now it's turned out exactly as he expected. He works as a doctor at a big hospital in Chengdu, and he's doing really well. So for me, he's someone who really plans his life well, and someone I look up to.
 
-> 🔁 **复用**：句4 `made up her mind`(新12)；句5 `What really makes her stand out is how`；句6 `chips away … every single day`+`a lot on her plate`(新15 逐字)；句7 `really into`+`a real talent for`(新15)；句8 `What I admire most`(新15)+not-just-money(老20)；句9 `sets a great example`(新15)；句10 `no doubt`(新07-Q4 `I doubt it` 反用)。
+> 🔁 **复用**：句2 `known each other for over ten years`(新25/新07)；句4 `thinks a few steps ahead`+`weighs things up`(老06 规划)；句8 `made up his mind`(新12/新25)+`stuck with it step by step`(新15 chips away 同族)；句11 `look up to`。角度=张伟式**务实规划**(就业前景/稳定/收入社会地位)，非外婆生病触动。新设定=高中同学/高考志愿/成都大医院。
 
 ### 句型/模板（复用池）
 
-- `The person I'd like to talk about is my …, who wants to …` · `that's when she made up her mind` · `What really makes her stand out is how hard she works` · `chips away at it a little every single day` · `What I admire most is …` · `she sets a great example`
+- `The person I'd like to talk about is my high school classmate, …, who's now a …` · `thinks a few steps ahead and weighs things up` · `he figured … had the best job prospects` · `instead of following the crowd into a trendy major` · `once he made up his mind, he stuck with it step by step` · `it's turned out exactly as he expected` · `someone who really plans his life well` · `look up to`
 
 ---
 
@@ -963,13 +963,13 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 有些 是 在 看到 一个 家人 生病 后 受 触动，就 像 我 表妹 那样。 | Some are inspired after seeing a family member get ill, like my cousin was. |
-| 3 | 另一些 只 想要 一个 受 尊敬的、帮 人 的 工作。 | Others just want a respected job that helps people. |
-| 4 | 所以 它 归结到 个人 经历 和 想 做 好事 的 一个 混合。 | So it comes down to a mix of personal experience and wanting to do good. |
+| 2 | 有些 是 在 看到 一个 家人 生病 后 受 触动，想 帮 人。 | Some are inspired after seeing a family member get ill and want to help. |
+| 3 | 另一些 更 现实——他们 把 它 看成 一个 受 尊敬、稳定、前景 好 的 工作。 | Others are more practical — they see it as a respected, stable job with good prospects. |
+| 4 | 所以 它 归结到 个人 经历 和 想要 一个 稳妥 未来 的 一个 混合。 | So it comes down to a mix of personal experience and wanting a secure future. |
 
-> A few reasons, really. Some are inspired after seeing a family member get ill, like my cousin was. Others just want a respected job that helps people. So it comes down to a mix of personal experience and wanting to do good.
+> A few reasons, really. Some are inspired after seeing a family member get ill and want to help. Others are more practical — they see it as a respected, stable job with good prospects. So it comes down to a mix of personal experience and wanting a secure future.
 
-> 🔁 **复用**：`A few reasons, really`+表妹link+`comes down to a mix of`。
+> 🔁 **复用**：`A few reasons, really`+大众例(Some…Others…)+`comes down to a mix of`；去掉表妹 link（人已改张伟），加务实角度呼应新 P2。
 
 **Q4. Do you think governments should put a large amount of money into medical research?**
 
@@ -1002,13 +1002,15 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆 方式，真的。 | Loads of ways, really. |
-| 2 | AI 已经 能 处理 大量 数据、还 早早 发现 疾病。 | AI can already crunch huge amounts of data and spot illness early. |
-| 3 | 它 也 把 那些 无聊的 文书 从 他们 肩上 拿走，（这）省 时间 给 病人。 | It takes the boring paperwork off their plate too, which frees up time for patients. |
-| 4 | 但 它 应该 辅助 医生，而不是 取代 他们。 | But it should back doctors up, not replace them. |
+| 2 | AI 已经 能 处理 大量 数据、还 早早 发现 疾病——有时 甚至 抓到 人 可能 漏掉 的 东西。 | AI can already crunch huge amounts of data and spot illness early — sometimes even catching things a human might miss. |
+| 3 | 除此之外，它 把 那些 无聊的 文书 从 他们 肩上 拿走，（这）省 出 更多 时间 给 真正的 病人。 | On top of that, it takes the boring paperwork off their plate, which frees up more time for actual patients. |
+| 4 | 而 往后，机器人 甚至 能 帮 做 手术，让 操作 更 精准。 | And further down the line, robots could even assist with surgery, making operations more precise. |
+| 5 | 话虽如此，它 应该 辅助 医生，而不是 取代 他们——你 仍然 想要 一个 真人 来 做 那些 大 决定。 | That said, it should back doctors up, not replace them — you still want a real person making the big calls. |
+| 6 | 所以 说到底，它 归结到 把 科技 当 一个 工具 用，不是 一个 替代品。 | So really, it comes down to using tech as a tool, not a substitute. |
 
-> Loads of ways, really. AI can already crunch huge amounts of data and spot illness early. It takes the boring paperwork off their plate too, which frees up time for patients. But it should back doctors up, not replace them.
+> Loads of ways, really. AI can already crunch huge amounts of data and spot illness early — sometimes even catching things a human might miss. On top of that, it takes the boring paperwork off their plate, which frees up more time for actual patients. And further down the line, robots could even assist with surgery, making operations more precise. That said, it should back doctors up, not replace them — you still want a real person making the big calls. So really, it comes down to using tech as a tool, not a substitute.
 
-> 🔁 **复用**：`Loads of ways, really`(新15/新16)+`crunch huge amounts of data`(新16-Q1)+`takes … off their plate`+`frees up time`+`back … up, not replace`(新16 逐字)。
+> 🔁 **复用**：`Loads of ways, really`(新15/新16)+`crunch huge amounts of data`(新16-Q1)+`off their plate`+`back … up, not replace`(新16)。**扩到 6 句、加软过渡**：`sometimes even catching things a human might miss` / `further down the line`(往后) / `That said`(话虽如此·让步软转) / `making the big calls` / LAND `comes down to using tech as a tool, not a substitute`。
 
 **P3 句型/模板（复用池）**：`Really difficult, I'd say` / `under huge pressure` / `to be fair` · `To some extent, yeah` / `like sponges` / `how things work` / `hands-on` · `A few reasons, really` / `comes down to a mix of` · `Absolutely, I think so` / `money well spent` / `whereas` · `To be fair, though` · `Loads of ways, really` / `crunch huge amounts of data` / `off their plate` / `frees up time` / `back … up, not replace`。
 
