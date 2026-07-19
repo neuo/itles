@@ -1658,78 +1658,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 传统，我会说。 | Mainly tradition, I'd say. |
-| 2 | 某些 食物 已经 传 了 好几代，所以 它们 感觉 是 那 庆祝 的 一部分。 | Certain foods have been passed down for generations, so they feel part of the celebration. |
-| 3 | 此外，分享 一顿 特别的 饭 把 大家 聚 到 一起。 | Plus, sharing a special meal brings everyone together. |
-| 4 | 所以 它 归结到 让 一个 传统 活 下去。 | So it comes down to keeping a tradition alive. |
+| 2 | 某些 食物 传 了 好几代，所以 时间 一长 它们 就 和 那个 场合 绑 在 了 一起——你 没法 想象 那个 节日 少 了 它们。 | Certain foods have been passed down for generations, so over time they get tied to the occasion itself — you can't picture the event without them. |
+| 3 | 想想 一个 没有 蛋糕 的 生日，或 没有 饺子 的 春节——就 是 感觉 不 对。 | Think of a birthday without a cake, or Spring Festival without dumplings — it just wouldn't feel right. |
+| 4 | 除此之外，一起 做 一道 特别的 菜 本身 就是 一半 的 乐趣——它 把 全家 拉 进 同 一个 厨房。 | On top of that, making a special dish together is half the fun — it pulls the whole family into one kitchen. |
+| 5 | 所以 它 归结到 让 一个 传统 活 下去、还 把 大家 聚 到 一起。 | So it comes down to keeping a tradition alive and bringing everyone together. |
 
-> Mainly tradition, I'd say. Certain foods have been passed down for generations, so they feel part of the celebration. Plus, sharing a special meal brings everyone together. So it comes down to keeping a tradition alive.
+> Mainly tradition, I'd say. Certain foods have been passed down for generations, so over time they get tied to the occasion itself — you can't picture the event without them. Think of a birthday without a cake, or Spring Festival without dumplings — it just wouldn't feel right. On top of that, making a special dish together is half the fun — it pulls the whole family into one kitchen. So it comes down to keeping a tradition alive and bringing everyone together.
 
-> 🔁 **复用**：`Mainly…I'd say`+`passed down`(老11)+`brings everyone together`(新14 P2)+`comes down to`。
+> 🔁 **复用**：`Mainly…I'd say`+`passed down`(老11)+`bringing everyone together`(新14 P2)+`comes down to`。**⑦升级**：机制(食物和场合绑定)+具体画面(没蛋糕的生日/没饺子的春节)+后果(全家进一个厨房)。
 
 **Q2. What are the differences between everyday food and festival food?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个，其实。 | Quite a few, actually. |
-| 2 | 日常 食物 又 快 又 简单，而 节日 食物 花 更多 功夫、感觉 特别。 | Everyday food is quick and simple, whereas festival food takes more effort and feels special. |
-| 3 | 我 老婆 在 一个 生日 蛋糕 上 花 老半天，但 平常 日子 我们 就 抓 点 快的。 | My wife spends ages on a birthday cake, but on a normal day we just grab something quick. |
-| 4 | 所以 它 归结到 那 场合。 | So it comes down to the occasion. |
+| 2 | 日常 食物 全 是 图 快——你 就 想 弄 点 快的 顶 一顿。 | Everyday food is all about speed — you just want something quick to keep you going. |
+| 3 | 节日 食物 正好 相反：那 功夫 本身 就是 重点，因为 你 在 表达 你 在乎。 | Festival food is the opposite: the effort is kind of the point, because you're showing you care. |
+| 4 | 我 老婆 会 在 一个 生日 蛋糕 上 花 一整个 下午，而 平常 日子 我们 就 抓 一碗 面。 | My wife will spend a whole afternoon on a birthday cake, whereas on a normal day we just grab a bowl of noodles. |
+| 5 | 所以 它 归结到 那 场合——一个 图 省 时间，另 一个 图 把 它 弄 特别。 | So it comes down to the occasion — one's about saving time, the other's about making it special. |
 
-> Quite a few, actually. Everyday food is quick and simple, whereas festival food takes more effort and feels special. My wife spends ages on a birthday cake, but on a normal day we just grab something quick. So it comes down to the occasion.
+> Quite a few, actually. Everyday food is all about speed — you just want something quick to keep you going. Festival food is the opposite: the effort is kind of the point, because you're showing you care. My wife will spend a whole afternoon on a birthday cake, whereas on a normal day we just grab a bowl of noodles. So it comes down to the occasion — one's about saving time, the other's about making it special.
 
-> 🔁 **复用**：`Quite a few, actually`+`whereas`+wife baking(新14)+`spends ages`(新23)+`comes down to`。
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+wife baking(新14)+`comes down to`。**⑦升级**：机制(日常图快 vs 节日"功夫本身是重点")+具体对比(下午烤蛋糕 vs 一碗面)+LAND 拉出对比。
 
 **Q3. Are there any differences between the food people eat today and the food people ate in the past?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大大 不同，我 觉得。 | Massively different, I reckon. |
-| 2 | 这些天 选择 多 得 多，而 你 能 吃到 来自 世界各地 的 食物。 | These days there's way more choice, and you can get food from all over the world. |
-| 3 | 而 在 过去，人们 大多 吃 简单、本地的 菜。 | Whereas in the past, people mostly ate simple, local dishes. |
-| 4 | 所以 它 归结到 这 世界 敞开 了 多少。 | So it comes down to how much the world's opened up. |
+| 2 | 这些天 你 能 吃到 来自 世界各地 的 食物——来 点 日本的、来 点 意大利的，你 想 吃 啥 都 行。 | These days you can get food from all over the world — a bit of Japanese, some Italian, whatever you fancy. |
+| 3 | 这 大多 是 因为 贸易 和 运输：以前 稀罕 的 东西 现在 随便 哪个 超市 都 有。 | That's mostly down to trade and transport: things that used to be rare now show up in any supermarket. |
+| 4 | 而 在 过去，人们 大多 吃 简单、本地的 菜，因为 那 就是 他们 能 弄到 的 全部。 | Whereas in the past, people mostly ate simple, local dishes, because that's all they could get. |
+| 5 | 所以 它 归结到 这 世界 敞开 了 多少。 | So it comes down to how much the world's opened up. |
 
-> Massively different, I reckon. These days there's way more choice, and you can get food from all over the world. Whereas in the past, people mostly ate simple, local dishes. So it comes down to how much the world's opened up.
+> Massively different, I reckon. These days you can get food from all over the world — a bit of Japanese, some Italian, whatever you fancy. That's mostly down to trade and transport: things that used to be rare now show up in any supermarket. Whereas in the past, people mostly ate simple, local dishes, because that's all they could get. So it comes down to how much the world's opened up.
 
-> 🔁 **复用**：`Massively, I reckon`(新07-Q6)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Massively, I reckon`(新07-Q6)+`whereas`+`comes down to`。**⑦升级**：机制(贸易+运输→稀罕变常见)+具体画面(日料/意餐/超市)+转折(过去受限于能弄到啥)。
 
 **Q4. Do people today prefer eating at home or in a restaurant?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 出去吃 方便、还 是 一个 不错的 犒赏，而 在家 做饭 更 便宜、更 健康。 | Eating out is convenient and a nice treat, whereas home cooking is cheaper and healthier. |
-| 3 | 对 我 来说，说实话，一顿 跟 家人 的 家常 饭 胜过 一家 餐厅。 | For me, honestly, a home-cooked meal with family beats a restaurant. |
-| 4 | 所以 它 归结到 它 是不是 一个 特别的 场合。 | So it comes down to whether it's a special occasion. |
+| 2 | 出去吃 方便、还 感觉 像 个 犒赏，所以 人们 这么 做 是 图 省事 或 图 纪念 点 什么。 | Eating out is convenient and feels like a treat, so people do it to save the hassle or to mark something. |
+| 3 | 在家 做饭 呢，另一方面，更 便宜、更 健康，而 你 在 自己 的 地方 也 更 放松。 | Home cooking, on the other hand, is cheaper and healthier, and you're relaxed in your own space. |
+| 4 | 对 我 来说，一顿 跟 家人 的 家常 饭 胜过 任何 餐厅——不 赶时间，你 能 就 坐 那儿 聊 上 几个 小时。 | For me, a home-cooked meal with family beats any restaurant — there's no rush, and you can just sit and chat for hours. |
+| 5 | 所以 它 归结到 那 场合：图 个 快 犒赏，就 出去；有 特别的 事，就 在家 做。 | So it comes down to the occasion: a quick treat, we'll go out; something special, we'll cook at home. |
 
-> It's a bit of a mixed bag, honestly. Eating out is convenient and a nice treat, whereas home cooking is cheaper and healthier. For me, honestly, a home-cooked meal with family beats a restaurant. So it comes down to whether it's a special occasion.
+> It's a bit of a mixed bag, honestly. Eating out is convenient and feels like a treat, so people do it to save the hassle or to mark something. Home cooking, on the other hand, is cheaper and healthier, and you're relaxed in your own space. For me, a home-cooked meal with family beats any restaurant — there's no rush, and you can just sit and chat for hours. So it comes down to the occasion: a quick treat, we'll go out; something special, we'll cook at home.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`eating out`(老26-Q2)+`whereas`+`For me, honestly`+`beats`(新07 nothing beats)。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`eating out`(老26-Q2)+`beats`(新07)+`comes down to`。**⑦升级**：两边机制(出去=省事/纪念 vs 在家=放松)+后果画面(不赶时间、坐着聊几小时)+LAND 二选一具体化。
 
 **Q5. Do you think traditional festival foods will disappear in the future?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 我 怀疑。 | I doubt it. |
-| 2 | 诚然，快餐 现在 到处 都是，但 节日 食物 承载 太多 意义。 | Sure, fast food's everywhere now, but festival foods carry too much meaning. |
-| 3 | 它们 在 家庭里 被 传下去，就 像 我 老婆的 蛋糕 会 传给 我们 儿子。 | They get passed down in families, like my wife's cakes will to our son. |
-| 4 | 所以 我 觉得 它们 会 留 下来，即使 它们 变 一点。 | So I reckon they'll stick around, even if they change a bit. |
+| 2 | 诚然，快餐 现在 到处 都是，人们 也 比 以往 更 忙。 | Sure, fast food's everywhere now, and people are busier than ever. |
+| 3 | 但 节日 食物 承载 太多 意义、不 会 就 这么 消失——它们 连着 家人 和 回忆，不 只是 吃。 | But festival foods carry too much meaning to just disappear — they're tied to family and memories, not just eating. |
+| 4 | 它们 在 家里 被 传下去，就 像 我 老婆 的 蛋糕 配方 会 传给 我们 儿子。 | They get passed down at home, the way my wife's cake recipes will go to our son. |
+| 5 | 所以 我 觉得 它们 会 留 下来，即使 它们 变 一点——也许 配方 变 了，但 那 传统 还 在。 | So I reckon they'll stick around, even if they change a bit — maybe the recipe shifts, but the tradition holds. |
 
-> I doubt it. Sure, fast food's everywhere now, but festival foods carry too much meaning. They get passed down in families, like my wife's cakes will to our son. So I reckon they'll stick around, even if they change a bit.
+> I doubt it. Sure, fast food's everywhere now, and people are busier than ever. But festival foods carry too much meaning to just disappear — they're tied to family and memories, not just eating. They get passed down at home, the way my wife's cake recipes will go to our son. So I reckon they'll stick around, even if they change a bit — maybe the recipe shifts, but the tradition holds.
 
-> 🔁 **复用**：`I doubt it`(新07-Q4)+`Sure, … but`(老08-Q6)+`passed down`(老11)。
+> 🔁 **复用**：`I doubt it`(新07-Q4)+`Sure, … but`(老08-Q6)+`passed down`(老11)。**⑦升级**：机制(连着家人和回忆不只是吃)+具体画面(老婆配方传给儿子)+LAND 带 nuance(配方变但传统在)。
 
 **Q6. Why do many young people prefer fast food over traditional dishes?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 它 又 快 又 便宜，我会说。 | Mainly because it's quick and cheap, I'd say. |
-| 2 | 年轻人 忙，所以 他们 就 抓 点 快的。 | Young people are busy, so they just grab something fast. |
-| 3 | 而 传统 菜 做 起来 花 时间。 | Whereas traditional dishes take time to cook. |
-| 4 | 但 说句公道话，大多数人 仍然 时不时 爱 一顿 正经的 家常 饭。 | But to be fair, most still love a proper home-cooked meal now and then. |
+| 2 | 年轻人 忙——工作 加 其他 一堆 事，他们 就 想 弄 点 五分钟 能 搞定 的。 | Young people are busy — between work and everything else, they just want something they can grab in five minutes. |
+| 3 | 传统 菜 呢，另一方面，做 起来 是 真 花 时间，而且 也 不 是 人人 都 会 做。 | Traditional dishes, on the other hand, take real time to prepare, and not everyone can cook them anyway. |
+| 4 | 这 就是 为什么 快餐 在 忙碌的 工作日 赢——它 贴合 那 生活方式。 | That's why fast food wins on a busy weekday — it fits the lifestyle. |
+| 5 | 但 说句公道话，大多数 年轻人 仍然 时不时 爱 一顿 正经的 家常 饭，尤其 在 家庭 聚会 上。 | But to be fair, most young people still love a proper home-cooked meal now and then, especially at family gatherings. |
 
-> Mainly because it's quick and cheap, I'd say. Young people are busy, so they just grab something fast. Whereas traditional dishes take time to cook. But to be fair, most still love a proper home-cooked meal now and then.
+> Mainly because it's quick and cheap, I'd say. Young people are busy — between work and everything else, they just want something they can grab in five minutes. Traditional dishes, on the other hand, take real time to prepare, and not everyone can cook them anyway. That's why fast food wins on a busy weekday — it fits the lifestyle. But to be fair, most young people still love a proper home-cooked meal now and then, especially at family gatherings.
 
-> 🔁 **复用**：`Mainly…I'd say`+`whereas`+`to be fair`+`now and then`(新15-Q2)。
+> 🔁 **复用**：`Mainly…I'd say`+`to be fair`+`now and then`(新15-Q2)。**⑦升级**：机制带质感(工作加一堆事/五分钟搞定)+转折(传统菜费时且不是人人会)+后果(忙碌工作日快餐赢/贴合生活方式)+让步具体(家庭聚会)。
 
 **P3 句型/模板（复用池）**：`Mainly tradition, I'd say` / `passed down` / `brings everyone together` · `Quite a few, actually` / `whereas` / `grab something quick` · `Massively different, I reckon` · `a bit of a mixed bag, honestly` / `For me, honestly, … beats …` · `I doubt it` / `Sure, … but` · `Mainly because it's quick and cheap, I'd say` / `now and then`。
 
