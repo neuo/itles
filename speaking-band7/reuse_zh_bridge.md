@@ -2817,15 +2817,15 @@
 | 4 | 也许 一个 小 AI 工具，或 跟 3D 打印 有关的 东西——我 真的 很 迷 那个。 | Maybe a small AI tool, or something to do with 3D printing — I'm really into that. |
 | 5 | 为了 到 那儿，我 知道 我 得 每一天 啃 掉 一点点，在 我 工作 之余。 | To get there, I know I have to chip away at it a little every day, alongside my job. |
 | 6 | 我 已经 开始 在 业余时间 读 论文、还 做 小 项目。 | I've started reading papers and building small projects in my spare time. |
-| 7 | 我 设 这个 目标 的 原因 是 我 不 想 只是 混——我 想 一直 学。 | The reason I set this goal is that I don't want to just coast — I want to keep learning. |
-| 8 | 说实话，它 也 归结到 为 我 儿子 树立 一个 好 榜样。 | Honestly, it also comes down to setting a good example for my son. |
+| 7 | 我 设 这个 目标 的 原因 是 我 不 想 只是 原地 踏步——我 想 一直 学。 | The reason I set this goal is that I don't want to just stand still — I want to keep learning. |
+| 8 | 说实话，它 也 是 关于 为 我 儿子 树立 一个 好 榜样。 | Honestly, it's also about setting a good example for my son. |
 | 9 | 我 想 让 他 看到 你 总是 能 朝 一个 更大的 东西 努力。 | I want him to see that you can always work towards something bigger. |
 | 10 | 我 甚至 给 自己 定 了 一个 小 目标、[去]在 年底 前 完成 一个 小 项目。 | I've even set myself a small goal to finish a little project by the end of the year. |
 | 11 | 它 会 花 好些年，但 我 毫不 怀疑 它 值得。 | It'll take years, but I've no doubt it's worth it. |
 
 ### ②P2 整段（shadow）
 
-> The goal I'd like to talk about is doing my own independent research one day. I'm a software engineer, and I've had this goal for a few years now. Basically, I want to build something of my own, instead of just working for a company. Maybe a small AI tool, or something to do with 3D printing — I'm really into that. To get there, I know I have to chip away at it a little every day, alongside my job. I've started reading papers and building small projects in my spare time. The reason I set this goal is that I don't want to just coast — I want to keep learning. Honestly, it also comes down to setting a good example for my son. I want him to see that you can always work towards something bigger. I've even set myself a small goal to finish a little project by the end of the year. It'll take years, but I've no doubt it's worth it.
+> The goal I'd like to talk about is doing my own independent research one day. I'm a software engineer, and I've had this goal for a few years now. Basically, I want to build something of my own, instead of just working for a company. Maybe a small AI tool, or something to do with 3D printing — I'm really into that. To get there, I know I have to chip away at it a little every day, alongside my job. I've started reading papers and building small projects in my spare time. The reason I set this goal is that I don't want to just stand still — I want to keep learning. Honestly, it's also about setting a good example for my son. I want him to see that you can always work towards something bigger. I've even set myself a small goal to finish a little project by the end of the year. It'll take years, but I've no doubt it's worth it.
 
 > 🔁 **复用**：句2 `I'm a software engineer`(新16)；句4 `really into`+3D printing(老05)；句5 `chip away at it a little every day`(新15)；句7 `keep learning`(新15)；句8 `comes down to`+`setting a good example`(新15)；句10 `no doubt`(新08)+`worth it`(老05)。
 
@@ -2842,78 +2842,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 抱负 给 孩子 一个 [去]努力 的 东西，所以 他们 保持 有动力。 | Ambitions give kids something to work towards, so they stay motivated. |
-| 3 | 而 没有 目标，很 容易 就 飘着。 | Whereas with no goal, it's easy to just drift. |
-| 4 | 所以 它 归结到 给 他们 一点 方向。 | So it comes down to giving them a bit of direction. |
+| 2 | 抱负 给 孩子 一个 [去]努力 的 东西，所以 他们 保持 有动力、而不 是 飘着。 | Ambitions give kids something to aim for, so they stay motivated instead of drifting. |
+| 3 | 一个 梦想 当 医生 的 孩子，比如说，真的 会 在 学校 逼 自己。 | A kid who dreams of being a doctor, say, will actually push themselves at school. |
+| 4 | 而 完全 没有 目标，很 容易 就 飘着、失去 兴趣。 | Without any goal at all, it's easy to just drift and lose interest. |
+| 5 | 所以 真的，它 给 他们 一点 方向。 | So really, it gives them a bit of direction. |
 
-> A few reasons, really. Ambitions give kids something to work towards, so they stay motivated. Whereas with no goal, it's easy to just drift. So it comes down to giving them a bit of direction.
+> A few reasons, really. Ambitions give kids something to aim for, so they stay motivated instead of drifting. A kid who dreams of being a doctor, say, will actually push themselves at school. Without any goal at all, it's easy to just drift and lose interest. So really, it gives them a bit of direction.
 
-> 🔁 **复用**：`A few reasons, really`+`whereas`+`direction`(新12-P3-Q3)+`comes down to`。
+> 🔁 **复用**：`A few reasons, really`+`direction`(新12-P3)。**⑦升级**：机制(有动力不飘)+具体画面(梦想当医生的孩子在学校逼自己)。**LAND**：`So really, it gives them…`。
 
 **Q2. What do you think of people going after high positions?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 瞄 得 高 能 逼 你 成长，（那 是 一件 好事）。 | Aiming high can push you to grow, which is a good thing. |
-| 3 | 而 只 为 地位 本身 去 追 会 让 你 痛苦。 | Whereas chasing status for its own sake can make you miserable. |
-| 4 | 所以 它 归结到 你 为什么 做 它。 | So it comes down to why you're doing it. |
+| 2 | 瞄 得 高 能 逼 你 成长、拿出 你 最好的 状态。 | Aiming high can push you to grow and do your best work. |
+| 3 | 但 如果 你 只 为 那个 头衔 本身 去 追，你 可能 落 得 压力 大、还 从不 开心。 | But if you're only chasing the title itself, you can end up stressed and never happy. |
+| 4 | 我 见过 人 拿到 一个 大 升职，然后 才 发现 那 根本 不 是 他们 想要 的。 | I've seen people get a big promotion and then realise it wasn't what they wanted at all. |
+| 5 | 所以 它 归结到 你 为什么 做 它。 | So it comes down to why you're doing it. |
 
-> It's a bit of a mixed bag, honestly. Aiming high can push you to grow, which is a good thing. Whereas chasing status for its own sake can make you miserable. So it comes down to why you're doing it.
+> It's a bit of a mixed bag, honestly. Aiming high can push you to grow and do your best work. But if you're only chasing the title itself, you can end up stressed and never happy. I've seen people get a big promotion and then realise it wasn't what they wanted at all. So it comes down to why you're doing it.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`push you`(新15 pushing yourself)+`whereas`+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`push you`(新15 pushing yourself)+`comes down to`。**⑦升级**：转折(只追头衔→压力大不开心)+具体画面(升职后发现不是想要的)。**（本卡唯一保留的 comes down to）**
 
 **Q3. Why are some young people keen on being fans of superstars?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 他们 仰望 他们，我会说。 | Mainly because they look up to them, I'd say. |
-| 2 | 一个 明星 能 感觉 鼓舞人，像 一个 榜样。 | A star can feel inspiring, like a role model. |
-| 3 | 而 有些 只是 随大流，说句公道话。 | Whereas some just follow the crowd, to be fair. |
-| 4 | 所以 它 归结到 想要 一个 [去]崇拜 的人。 | So it comes down to wanting someone to admire. |
+| 2 | 一个 明星 能 感觉 真的 很 鼓舞人——一个 白手起家、做 着 自己 热爱 的 事 的人。 | A star can feel really inspiring — someone who made it from nothing, doing what they love. |
+| 3 | 对 一大堆 年轻人，那 给 了 他们 一个 [去]崇拜、[去]学 的人。 | For a lot of young people, that gives them someone to admire and copy. |
+| 4 | 话虽如此，有些 只是 随大流，因为 他们 朋友 都 喜欢。 | That said, some just follow the crowd because all their friends are into it. |
+| 5 | 所以 真的，它 是 关于 想要 一个 [去]仰望 的人。 | So really, it's about wanting someone to look up to. |
 
-> Mainly because they look up to them, I'd say. A star can feel inspiring, like a role model. Whereas some just follow the crowd, to be fair. So it comes down to wanting someone to admire.
+> Mainly because they look up to them, I'd say. A star can feel really inspiring — someone who made it from nothing, doing what they love. For a lot of young people, that gives them someone to admire and copy. That said, some just follow the crowd because all their friends are into it. So really, it's about wanting someone to look up to.
 
-> 🔁 **复用**：`Mainly … I'd say`+`look up to`(新08)+`whereas`+`to be fair`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`look up to`(新08)+`follow the crowd`(新24-Q3)。**⑦升级**：机制(白手起家做热爱的事=鼓舞人)+让步(朋友都喜欢就随大流)。**LAND**：`So really, it's about…`。
 
 **Q4. Is it good for a person to be ambitious?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 一点 抱负 让 你 保持 成长 和 学习。 | A bit of ambition keeps you growing and learning. |
-| 3 | 但 太 多，你 就 从不 感到 满足，（那 不 健康）。 | But too much, and you never feel satisfied, which isn't healthy. |
-| 4 | 所以 它 归结到 保持 它 平衡。 | So it comes down to keeping it balanced. |
+| 2 | 一点 抱负 让 你 保持 成长 和 学习，还 让 你 早上 有 劲 起床。 | A bit of ambition keeps you growing and learning, and it gets you out of bed in the morning. |
+| 3 | 但 如果 你 太 过头，你 就 从不 对 已有 的 感到 满足——总 有 下 一个 东西。 | But if you take it too far, you never feel happy with what you've got — there's always a next thing. |
+| 4 | 我 认识 一些人 已经 拥有 很多，却 仍然 觉得 永远 不够。 | I know people who've got a lot but still feel like it's never enough. |
+| 5 | 所以 关键 是 保持 它 平衡。 | So the key is keeping it balanced. |
 
-> To some extent, yeah. A bit of ambition keeps you growing and learning. But too much, and you never feel satisfied, which isn't healthy. So it comes down to keeping it balanced.
+> To some extent, yeah. A bit of ambition keeps you growing and learning, and it gets you out of bed in the morning. But if you take it too far, you never feel happy with what you've got — there's always a next thing. I know people who've got a lot but still feel like it's never enough. So the key is keeping it balanced.
 
-> 🔁 **复用**：`To some extent, yeah`+`keep learning`(新15)+`isn't healthy`(老21-Q5风)+`comes down to`。
+> 🔁 **复用**：`To some extent, yeah`+`keep learning`(新15)。**⑦升级**：机制(早上有劲起床)+转折(总有下一个/永远不够)+具体画面(拥有很多仍觉不够)。**LAND**：`So the key is…`。
 
 **Q5. Do you think it is necessary to be ambitious when working in a team in a company?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 一点 干劲 帮 整个 团队 往前 推。 | A bit of drive helps the whole team push forward. |
-| 3 | 而 如果 每个人 都 只 想 那 聚光灯，它 就 散了。 | Whereas if everyone just wants the spotlight, it falls apart. |
-| 4 | 所以 它 归结到 为 那 团队 有 抱负，不 只是 为 你 自己。 | So it comes down to being ambitious for the team, not just yourself. |
+| 2 | 一点 干劲 帮 整个 团队 往前 推、还 完成 目标。 | A bit of drive helps the whole team push forward and hit their targets. |
+| 3 | 但 如果 每个人 都 只 想 自己 那 聚光灯，那 团队 就 散了。 | But if everyone's only chasing their own spotlight, the team falls apart. |
+| 4 | 我 待 过 的 最好 的 团队，都 是 那些 想让 整个 组 赢、不 只是 自己 的人。 | The best teams I've been on had people who wanted the group to win, not just themselves. |
+| 5 | 所以 比 什么 都 重要 的 是 为 团队 有 抱负，不 只是 为 你 自己。 | So more than anything, it's about being ambitious for the team, not just yourself. |
 
-> To some extent, yeah. A bit of drive helps the whole team push forward. Whereas if everyone just wants the spotlight, it falls apart. So it comes down to being ambitious for the team, not just yourself.
+> To some extent, yeah. A bit of drive helps the whole team push forward and hit their targets. But if everyone's only chasing their own spotlight, the team falls apart. The best teams I've been on had people who wanted the group to win, not just themselves. So more than anything, it's about being ambitious for the team, not just yourself.
 
-> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+> 🔁 **复用**：`To some extent, yeah`+软工团队(新16)。**⑦升级**：机制(干劲帮团队完成目标)+转折(只想自己聚光灯→散)+具体画面(最好的团队想让组赢)。**LAND**：`So more than anything…`。
 
 **Q6. Should parents support their children in pursuing their ambitions?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 父母 以前 经历过，所以 他们 能 引导 他们。 | Parents have been there before, so they can guide them. |
-| 3 | 但 他们 该 支持，不是 逼——那 目标 得 是 孩子 自己的。 | But they should support, not push — the goal has to be the kid's own. |
-| 4 | 所以 它 归结到 撑 他们 一把，不是 大包大揽。 | So it comes down to backing them up, not taking over. |
+| 2 | 父母 以前 经历过，所以 他们 能 给 好 建议、还 推 一把。 | Parents have been there before, so they can give good advice and a bit of a push. |
+| 3 | 但 他们 该 支持，不是 强迫——那 目标 得 是 孩子 自己的，不 是 父母 的。 | But they should support, not force — the goal has to be the kid's own, not the parents'. |
+| 4 | 我 见过 孩子 被 逼 进 一个 他们 讨厌 的 职业，结果 从来 没 好 下场。 | I've seen kids pushed into a career they hated, and it never ends well. |
+| 5 | 所以 到头来，它 是 关于 撑 他们 一把，不是 大包大揽。 | So at the end of the day, it's about backing them up, not taking over. |
 
-> Absolutely, I think so. Parents have been there before, so they can guide them. But they should support, not push — the goal has to be the kid's own. So it comes down to backing them up, not taking over.
+> Absolutely, I think so. Parents have been there before, so they can give good advice and a bit of a push. But they should support, not force — the goal has to be the kid's own, not the parents'. I've seen kids pushed into a career they hated, and it never ends well. So at the end of the day, it's about backing them up, not taking over.
 
-> 🔁 **复用**：`Absolutely, I think so`+`been there before`(新07-Q5)+`backing them up, not …`(新16 back that up not replace)+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`been there before`(新07-Q5)+`backing them up, not …`(新16 back that up not replace)。**⑦升级**：转折(支持不强迫/目标是孩子的)+具体画面(逼进讨厌职业没好下场)。**LAND**：`So at the end of the day…`。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to giving them a bit of direction` · `a bit of a mixed bag, honestly` / `push you to grow` · `Mainly … look up to them, I'd say` / `follow the crowd` · `To some extent, yeah` / `keeps you growing and learning` / `keeping it balanced` · `been there before` / `backing them up, not taking over`。
 
