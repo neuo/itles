@@ -2721,11 +2721,11 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个，真的。 | A few, really. |
-| 2 | 大多 是 当 那 消息 尴尬 或 重要——你 花 老半天 斟酌 措辞。 | Mostly when the message is awkward or important — you spend ages wording it. |
-| 3 | 而 一个 快 的 "好" 花 两秒。 | Whereas a quick "ok" takes two seconds. |
+| 2 | 大多 是 当 那 消息 尴尬 或 重要——比如 拒绝 一个 邀请、或 回复 你 老板——你 花 老半天 斟酌 措辞。 | Mostly when the message is awkward or important — like turning down an invite, or replying to your boss — you spend ages wording it. |
+| 3 | 而 给 一个 朋友 一个 快 的 "好" 花 两秒。 | Whereas a quick "ok" to a friend takes two seconds. |
 | 4 | 所以 它 归结到 那 消息 有 多 要紧。 | So it comes down to how much the message matters. |
 
-> A few, really. Mostly when the message is awkward or important — you spend ages wording it. Whereas a quick "ok" takes two seconds. So it comes down to how much the message matters.
+> A few, really. Mostly when the message is awkward or important — like turning down an invite, or replying to your boss — you spend ages wording it. Whereas a quick "ok" to a friend takes two seconds. So it comes down to how much the message matters.
 
 > 🔁 **复用**：`awkward`+`spend ages wording it`(新23 P2)+`whereas`+`comes down to`。
 
@@ -2735,10 +2735,10 @@
 |---|---|---|
 | 1 | 主要 是 当 他们 真的 很 忙，我会说。 | Mainly when they're really busy, I'd say. |
 | 2 | 有时候 他们 看到 它、打算 晚点 回，然后 就 忘 了。 | Sometimes they see it, mean to reply later, and just forget. |
-| 3 | 而 另一些 时候 那 消息 不 真的 需要 一个 回答。 | Whereas other times the message doesn't really need an answer. |
+| 3 | 而 另一些 时候 那 消息 不 真的 需要 一个 回答——比如 当 你 只是 说 一句 "谢谢"。 | Whereas other times the message doesn't really need an answer — like when you just say "thanks". |
 | 4 | 所以 它 通常 不 是 针对 谁，说句公道话。 | So it's usually nothing personal, to be fair. |
 
-> Mainly when they're really busy, I'd say. Sometimes they see it, mean to reply later, and just forget. Whereas other times the message doesn't really need an answer. So it's usually nothing personal, to be fair.
+> Mainly when they're really busy, I'd say. Sometimes they see it, mean to reply later, and just forget. Whereas other times the message doesn't really need an answer — like when you just say "thanks". So it's usually nothing personal, to be fair.
 
 > 🔁 **复用**：`really busy`(新23 P2)+`whereas`+`nothing personal`(新23 take it personally)+`to be fair`。
 
@@ -2774,23 +2774,23 @@
 |---|---|---|
 | 1 | 主要 靠 有 礼貌、清楚，我会说。 | Mainly by being polite and clear, I'd say. |
 | 2 | 我 花 一点 时间 好好 斟酌 措辞，尤其 跟 一个 我 不 太 熟 的人。 | I take a bit of time to word it properly, especially with someone I don't know well. |
-| 3 | 而 随手 甩 出 一条 马虎的 消息 可能 显得 粗鲁。 | Whereas firing off a careless message can come across as rude. |
-| 4 | 所以 它 归结到 一点点 用心。 | So it comes down to a bit of thought. |
+| 3 | 而 发 一条 马虎的、一行 的 消息 可能 显得 粗鲁。 | Whereas sending a careless, one-line message can seem rude. |
+| 4 | 所以 真的，它 就 需要 一点点 用心。 | So really, it just takes a bit of thought. |
 
-> Mainly by being polite and clear, I'd say. I take a bit of time to word it properly, especially with someone I don't know well. Whereas firing off a careless message can come across as rude. So it comes down to a bit of thought.
+> Mainly by being polite and clear, I'd say. I take a bit of time to word it properly, especially with someone I don't know well. Whereas sending a careless, one-line message can seem rude. So really, it just takes a bit of thought.
 
-> 🔁 **复用**：`Mainly … I'd say`+`word it properly`(新23)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`word it properly`(新23)+`whereas`。**修**：`firing off`→`sending`、`come across as`→`can seem`(常用词)；LAND `comes down to`→`So really, it just takes…`(换菜单)。
 
 **Q6. Why do some people feel angry when others don't reply to their message?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 他们 感觉 被 忽视，我会说。 | Mainly because they feel ignored, I'd say. |
-| 2 | 当 你 在 一条 消息 里 花 了 心思，沉默 有点 扎心。 | When you've put thought into a message, silence stings a bit. |
+| 2 | 当 你 在 一条 消息 里 花 了 心思，那 沉默 有点 让人 难受。 | When you've put thought into a message, the silence kind of hurts. |
 | 3 | 它 有点 像 我——我 开始 琢磨 我 是不是 说 错 了 什么。 | It's a bit like me — I start to wonder if I said something wrong. |
 | 4 | 但 说实话，人们 通常 只是 忙，不是 粗鲁。 | But honestly, people are usually just busy, not rude. |
 
-> Mainly because they feel ignored, I'd say. When you've put thought into a message, silence stings a bit. It's a bit like me — I start to wonder if I said something wrong. But honestly, people are usually just busy, not rude.
+> Mainly because they feel ignored, I'd say. When you've put thought into a message, the silence kind of hurts. It's a bit like me — I start to wonder if I said something wrong. But honestly, people are usually just busy, not rude.
 
 > 🔁 **复用**：`Mainly … I'd say`+`wonder if I said something wrong`(新23 P2 逐字)+`honestly`+`just busy`(新23)。
 
