@@ -3195,13 +3195,13 @@
 | 7 | 我 觉得 大多数人 会 支持 它，说句公道话，一旦 他们 习惯 了。 | I think most people would support it, to be fair, once they got used to it. |
 | 8 | 当然，有些 商店 会 反对，因为 它 归结到 成本。 | Of course, some shops would push back, since it comes down to cost. |
 | 9 | 但 说实话，一个 像 这样 的 小 改变 真的 加 起来、跨 整个 城市。 | But honestly, a small change like this really adds up across a whole city. |
-| 10 | 我 儿子 在 学校 学 了 回收，所以 他 已经 唠叨 我们 好好 分类 垃圾。 | My son learned about recycling at school, so he already nags us to sort our rubbish properly. |
+| 10 | 我 儿子 在 幼儿园 学 到 回收，所以 他 已经 唠叨 我们 好好 分类 垃圾。 | My son's picked up recycling at kindergarten, so he already nags us to sort our rubbish properly. |
 | 11 | 如果 连 孩子 都 这么 上心，一个 正经的 禁令 只会 把 每个人 推 向 对 的 方向。 | If even kids are this keen, a proper ban would just push everyone the right way. |
 | 12 | 所以 对我，它 是 一条 会 带来 真正 改变 的 简单 法律。 | So for me, it's a simple law that would make a real difference. |
 
 ### ②P2 整段（shadow）
 
-> The law I'd like to introduce is a ban on single-use plastic. Basically, it would stop shops handing out plastic bags, straws, and cups. The idea came to me because I see so much plastic waste everywhere. Even at that quiet little park near our home, there's litter in the lake. What worries me is the mess we're leaving for our kids. My wife's really careful about this — she's got me using cloth bags now. I think most people would support it, to be fair, once they got used to it. Of course, some shops would push back, since it comes down to cost. But honestly, a small change like this really adds up across a whole city. My son learned about recycling at school, so he already nags us to sort our rubbish properly. If even kids are this keen, a proper ban would just push everyone the right way. So for me, it's a simple law that would make a real difference.
+> The law I'd like to introduce is a ban on single-use plastic. Basically, it would stop shops handing out plastic bags, straws, and cups. The idea came to me because I see so much plastic waste everywhere. Even at that quiet little park near our home, there's litter in the lake. What worries me is the mess we're leaving for our kids. My wife's really careful about this — she's got me using cloth bags now. I think most people would support it, to be fair, once they got used to it. Of course, some shops would push back, since it comes down to cost. But honestly, a small change like this really adds up across a whole city. My son's picked up recycling at kindergarten, so he already nags us to sort our rubbish properly. If even kids are this keen, a proper ban would just push everyone the right way. So for me, it's a simple law that would make a real difference.
 
 > 🔁 **复用**：句1 `The law I'd like to introduce is`(新06)；句4 `quiet little park near our home`(老26)；句5 `What worries me is`(新06)；句6 wife；句7 `to be fair`+`got used to it`(新22)；句8 `push back, since it comes down to`(新06)；句10 `a simple law that …`(新22)。
 
@@ -3218,78 +3218,83 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大大地，我 觉得。 | Massively, I reckon. |
-| 2 | 科技 动 得 快，所以 那 法律 总是 在 追赶。 | Tech moves fast, so the law's always playing catch-up. |
-| 3 | 而 像 AI 和 数据 这样的 东西 每 一年 都 抛 出 新 问题。 | Whereas things like AI and data raise new problems every year. |
-| 4 | 所以 它 归结到 法律 跟上 时代。 | So it comes down to laws keeping up with the times. |
+| 2 | 科技 动 得 太 快 了，所以 那 法律 总是 在 追赶。 | Tech moves so fast that the law is always playing catch-up. |
+| 3 | 想想 AI 或 网上 隐私——新 问题 每 年 都 冒 出来，而 规则 根本 还 没 准备 好。 | Think about AI or online privacy — new problems pop up every year, and the rules just aren't ready. |
+| 4 | 常常 等 一条 法律 写 好，那 技术 早就 又 往前 走 了。 | By the time a law is written, the technology has often already moved on. |
+| 5 | 所以 真的，它 是 关于 法律 跟上 时代。 | So really, it's about laws keeping up with the times. |
 
-> Massively, I reckon. Tech moves fast, so the law's always playing catch-up. Whereas things like AI and data raise new problems every year. So it comes down to laws keeping up with the times.
+> Massively, I reckon. Tech moves so fast that the law is always playing catch-up. Think about AI or online privacy — new problems pop up every year, and the rules just aren't ready. By the time a law is written, the technology has often already moved on. So really, it's about laws keeping up with the times.
 
-> 🔁 **复用**：`Massively, I reckon`+`whereas`+`keeping up with the times`(新16-Q2)+`comes down to`。
+> 🔁 **复用**：`Massively, I reckon`+`keeping up with the times`(新16-Q2)。**⑦升级**：机制(科技快法律追赶)+具体画面(AI/网上隐私新问题冒出)+推论(法律写好技术已往前走)。**LAND**：`So really, it's about…`。
 
 **Q2. What kinds of rules do schools in China have?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个，真的。 | Quite a few, really. |
-| 2 | 像 穿 校服、准时 到、还有 上课 不 用 手机。 | Things like wearing a uniform, turning up on time, and no phones in class. |
-| 3 | 它们 大多 关于 保持 秩序 和 尊重。 | They're mostly about keeping order and respect. |
-| 4 | 所以 它 归结到 保持 事情 公平。 | So it comes down to keeping things fair. |
+| 2 | 有 那些 常见 的——校服、准时 到、上课 不 用 手机。 | There's the usual stuff — uniforms, turning up on time, and no phones in class. |
+| 3 | 它们 大多 是 为了 让 教室 安静，好 让 孩子 能 专心。 | Most of them are there to keep the classroom calm so kids can focus. |
+| 4 | 也 常 有 关于 尊重 的 规则，比如 不 顶撞 老师。 | There are often rules about respect too, like not talking back to teachers. |
+| 5 | 所以 最 主要 的 是 保持 事情 有 秩序、公平。 | So the main thing is keeping things orderly and fair. |
 
-> Quite a few, really. Things like wearing a uniform, turning up on time, and no phones in class. They're mostly about keeping order and respect. So it comes down to keeping things fair.
+> Quite a few, really. There's the usual stuff — uniforms, turning up on time, and no phones in class. Most of them are there to keep the classroom calm so kids can focus. There are often rules about respect too, like not talking back to teachers. So the main thing is keeping things orderly and fair.
 
-> 🔁 **复用**：全套复用 新22-Q1（`turning up on time … no phones in class`）。
+> 🔁 **复用**：新22-Q1（`turning up on time … no phones in class`）。**⑦升级**：机制(为让教室安静能专心)+具体(不顶撞老师)。**LAND**：`So the main thing is…`。
 
 **Q3. Will there be a law that is universally accepted?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 我 怀疑，说实话。 | I doubt it, honestly. |
-| 2 | 不同 国家 有 不同的 价值观，所以 他们 永远 不 会 完全 同意。 | Different countries have different values, so they'll never fully agree. |
-| 3 | 而 在 像 基本 安全 这样的 大 事上，大多数人 是 一致的。 | Whereas on big things like basic safety, most people are on the same page. |
-| 4 | 所以 它 归结到 找到 共同点。 | So it comes down to finding common ground. |
+| 2 | 不同 国家 有 不同的 价值观，所以 他们 永远 不 会 在 每 件 事 上 完全 同意。 | Different countries have different values, so they'll never fully agree on everything. |
+| 3 | 一个 地方 正常 的 东西，在 另 一个 地方 可能 是 禁止 的——想想 像 枪 或 言论 自由 这类。 | What's normal in one place can be banned in another — think about things like guns or free speech. |
+| 4 | 话虽如此，在 像 基本 安全 这样的 大 事上，大多数人 是 一致的。 | That said, on the big things like basic safety, most people are on the same page. |
+| 5 | 所以 关键 是 在 能 的 地方 找到 共同点。 | So the key is finding common ground where we can. |
 
-> I doubt it, honestly. Different countries have different values, so they'll never fully agree. Whereas on big things like basic safety, most people are on the same page. So it comes down to finding common ground.
+> I doubt it, honestly. Different countries have different values, so they'll never fully agree on everything. What's normal in one place can be banned in another — think about things like guns or free speech. That said, on the big things like basic safety, most people are on the same page. So the key is finding common ground where we can.
 
-> 🔁 **复用**：`I doubt it`(新07-Q4)+`whereas`+`finding common ground`(新03-Q5)+`comes down to`。
+> 🔁 **复用**：`I doubt it`(新07-Q4)+`finding common ground`(新03-Q5)。**⑦升级**：具体画面(一地正常一地禁止:枪/言论自由)+让步(基本安全大家一致)。**LAND**：`So the key is…`。
 
 **Q4. What environmental laws does your country already have?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几条 好 的，真的。 | A few good ones, really. |
-| 2 | 那 垃圾分类 规定 是 主要 的，而 塑料袋 有 一个 收费。 | The rubbish-sorting rule is the main one, and there's a charge for plastic bags. |
-| 3 | 除此之外，大 城市 在 推 电动 车。 | On top of that, big cities are pushing electric cars. |
-| 4 | 所以 它 慢慢 朝 正确的 方向 走，说句公道话。 | So it's slowly moving in the right direction, to be fair. |
+| 2 | 那 垃圾分类 规定 是 主要 的，而 商店 现在 会 为 塑料袋 收 你 钱。 | The rubbish-sorting rule is the main one, and shops now charge you for plastic bags. |
+| 3 | 除此之外，大 城市 在 真的 推 电动 车——你 现在 到处 都 看到 它们。 | On top of that, big cities are really pushing electric cars — you see them everywhere now. |
+| 4 | 它 不 完美，但 它 在 慢慢 朝 正确的 方向 走。 | It's not perfect, but it's slowly moving in the right direction. |
 
-> A few good ones, really. The rubbish-sorting rule is the main one, and there's a charge for plastic bags. On top of that, big cities are pushing electric cars. So it's slowly moving in the right direction, to be fair.
+> A few good ones, really. The rubbish-sorting rule is the main one, and shops now charge you for plastic bags. On top of that, big cities are really pushing electric cars — you see them everywhere now. It's not perfect, but it's slowly moving in the right direction.
 
-> 🔁 **复用**：`A few good ones, really`+rubbish-sorting(新22)+`On top of that`+`to be fair`。
+> 🔁 **复用**：`A few good ones, really`+rubbish-sorting(新22)+`On top of that`。**⑦升级**：具体画面(电动车到处都是)+让步(不完美但朝对方向)。**LAND**：`moving in the right direction`(无 comes down to)。
 
 **Q5. Whose responsibility is it to protect the environment — governments or individuals?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 说实话，它 是 两者。 | Honestly, it's both. |
-| 2 | 政府 定 规则 和 那些 大 目标。 | Governments set the rules and the big targets. |
-| 3 | 而 个人 得 日常 尽 他们 那份 力，比如 分类 垃圾。 | Whereas individuals have to do their part day to day, like sorting rubbish. |
-| 4 | 所以 它 归结到 每个人 都 出 一份 力。 | So it comes down to everyone playing their part. |
+| 2 | 政府 定 规则 和 那些 大 目标——那些 个人 一个人 做不到 的 事。 | Governments set the rules and the big targets — things individuals can't do alone. |
+| 3 | 但 个人 也 得 日常 尽 他们 那份 力，比如 分类 垃圾、少 用 塑料。 | But individuals have to do their part day to day, like sorting rubbish and using less plastic. |
+| 4 | 政府 禁 了 塑料，如果 人们 就 是 无视，那 也 没 意义。 | There's no point in the government banning plastic if people just ignore it. |
+| 5 | 所以 它 归结到 每个人 都 出 一份 力。 | So it comes down to everyone playing their part. |
 
-> Honestly, it's both. Governments set the rules and the big targets. Whereas individuals have to do their part day to day, like sorting rubbish. So it comes down to everyone playing their part.
+> Honestly, it's both. Governments set the rules and the big targets — things individuals can't do alone. But individuals have to do their part day to day, like sorting rubbish and using less plastic. There's no point in the government banning plastic if people just ignore it. So it comes down to everyone playing their part.
 
-> 🔁 **复用**：`Honestly, it's both`+government(老20-Q5)+`whereas`+`do their part`(新22)+`comes down to`。
+> 🔁 **复用**：`Honestly, it's both`+government(老20-Q5)+`do their part`(新22)。**⑦升级**：机制(政府定大目标个人做不到)+推论(禁了但人无视也没意义)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q6. Do you think people are willing to pay more for eco-friendly products?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 一大堆 人 现在 在乎 这 星球，所以 他们 会 多 付 一点。 | A lot of people care about the planet now, so they'll pay a bit extra. |
-| 3 | 而 另一些 只 挑 最 便宜的 选项，说句公道话。 | Whereas others just go for the cheapest option, to be fair. |
-| 4 | 所以 它 归结到 人们 能 负担 多少。 | So it comes down to how much people can afford. |
+| 2 | 一大堆 人 现在 在乎 这 星球，所以 他们 乐意 多 付 一点。 | A lot of people care about the planet now, so they'll happily pay a bit extra. |
+| 3 | 你 在 像 可 重复 用 的 水瓶、或 环保 包装 这类 东西 上 看 得 到——它们 卖 得 好，哪怕 贵 一点。 | You see it with things like reusable bottles or eco-friendly packaging — they sell well even at a higher price. |
+| 4 | 而 另一些 只 挑 最 便宜的 选项，尤其 如果 手头 紧。 | Whereas others just go for the cheapest option, especially if money's tight. |
+| 5 | 所以 真的，它 取决于 人们 能 负担 多少。 | So really, it depends on how much people can afford. |
 
-> To some extent, yeah. A lot of people care about the planet now, so they'll pay a bit extra. Whereas others just go for the cheapest option, to be fair. So it comes down to how much people can afford.
+> To some extent, yeah. A lot of people care about the planet now, so they'll happily pay a bit extra. You see it with things like reusable bottles or eco-friendly packaging — they sell well even at a higher price. Whereas others just go for the cheapest option, especially if money's tight. So really, it depends on how much people can afford.
 
-> 🔁 **复用**：`To some extent, yeah`+`whereas`+`to be fair`+`comes down to`。
+> 🔁 **复用**：`To some extent, yeah`+`whereas`。**⑦升级**：具体画面(可重复用水瓶/环保包装贵也卖得好)+对比(手头紧就挑最便宜)。**LAND**：`So really, it depends on…`。
 
 **P3 句型/模板（复用池）**：`Massively, I reckon` / `keeping up with the times` · `Quite a few, really` / `turning up on time` · `I doubt it, honestly` / `finding common ground` · `A few good ones, really` / `On top of that` · `Honestly, it's both` / `do their part` / `everyone playing their part` · `To some extent, yeah` / `comes down to how much people can afford`。
 
