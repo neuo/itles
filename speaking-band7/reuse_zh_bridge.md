@@ -2050,14 +2050,14 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 即使 一个 很棒的 产品 也 卖 不 出去，如果 没人 听说 过 它——它 就 那么 摆 在 货架 上。 | Even a brilliant product won't sell if nobody's heard of it — it just sits on the shelf. |
-| 3 | 广告 就是 一个 公司 怎么 把 名字 打 出去、建立 一个 人们 信任的 品牌。 | Advertising is how a company gets its name out there and builds a brand people trust. |
+| 2 | 即使 一个 很棒的 产品 也 卖 不 出去，如果 没人 听说 过 它——人们 根本 不 知道 它 存在。 | Even a brilliant product won't sell if nobody's heard of it — people simply won't know it exists. |
+| 3 | 广告 就是 一个 公司 怎么 变 得 出名、建立 一个 人们 信任的 品牌。 | Advertising is how a company becomes well-known and builds a brand people trust. |
 | 4 | 看看 那些 大 品牌——它们 一半 的 成功 就是 大家 早就 认识 并 信任 那个 名字。 | Look at the big brands — half their success is that everyone already knows and trusts the name. |
 | 5 | 所以 对 大多数 公司，它 是 花得 值的 钱。 | So for most companies, it's money well spent. |
 
-> Absolutely, I think so. Even a brilliant product won't sell if nobody's heard of it — it just sits on the shelf. Advertising is how a company gets its name out there and builds a brand people trust. Look at the big brands — half their success is that everyone already knows and trusts the name. So for most companies, it's money well spent.
+> Absolutely, I think so. Even a brilliant product won't sell if nobody's heard of it — people simply won't know it exists. Advertising is how a company becomes well-known and builds a brand people trust. Look at the big brands — half their success is that everyone already knows and trusts the name. So for most companies, it's money well spent.
 
-> 🔁 **复用**：`Absolutely, I think so`+`money well spent`(老20)。**⑦升级**：机制+画面(没人听说就摆货架上)+推论(大品牌一半成功=大家认识信任名字)。
+> 🔁 **复用**：`Absolutely, I think so`+`money well spent`(老20)。**⑦升级**：机制+推论(没人听说→不知道它存在；大品牌一半成功=大家认识信任名字)。〔`sits on the shelf`/`gets its name out there` 已按她要求换常用词〕
 
 **Q6. Which is more effective, online advertising or offline advertising?**
 
@@ -2067,9 +2067,9 @@
 | 2 | 网上 广告 能 精准 瞄准 谁 感兴趣——你的 年龄、你的 爱好、你 上周 搜 了 啥——而 一个 广告牌 只 指望 对 的 人 正好 路过。 | Online ads can target exactly who's interested — your age, your hobbies, what you searched last week — whereas a billboard just hopes the right people walk past. |
 | 3 | 除此之外，它们 更 便宜，而 你 真的 能 追踪 谁 点 了，所以 公司 知道 啥 有效。 | On top of that, they're cheaper and you can actually track who clicked, so companies know what's working. |
 | 4 | 这 就是 为什么 大多数 广告 钱 都 转 到 了 网上。 | That's why most ad money has shifted online. |
-| 5 | 但 说句公道话，一个 大 广告牌 在 一条 繁忙的 街 上 仍然 抓 你 眼球，用 一种 手机 广告 做不到 的 方式。 | But to be fair, a big billboard in a busy street still catches your eye in a way a phone ad can't. |
+| 5 | 但 说句公道话，一个 大 广告牌 在 一条 繁忙的 街 上 仍然 抓 你 眼球——手机 广告 就 做不到 那个。 | But to be fair, a big billboard on a busy street still catches your eye — a phone ad just can't do that. |
 
-> Online, I'd say, these days. Online ads can target exactly who's interested — your age, your hobbies, what you searched last week — whereas a billboard just hopes the right people walk past. On top of that, they're cheaper and you can actually track who clicked, so companies know what's working. That's why most ad money has shifted online. But to be fair, a big billboard in a busy street still catches your eye in a way a phone ad can't.
+> Online, I'd say, these days. Online ads can target exactly who's interested — your age, your hobbies, what you searched last week — whereas a billboard just hopes the right people walk past. On top of that, they're cheaper and you can actually track who clicked, so companies know what's working. That's why most ad money has shifted online. But to be fair, a big billboard on a busy street still catches your eye — a phone ad just can't do that.
 
 > 🔁 **复用**：`… I'd say`+`whereas`+`On top of that`+`to be fair`+`catches your eye`(新02)。**⑦升级**：机制+画面(年龄/爱好/上周搜啥)+推论(广告钱转到网上)+让步具体(繁忙街的大广告牌)。
 
@@ -2346,78 +2346,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 它 从 小 教 他们 关心 别的 生命。 | It teaches them to care for other living things from a young age. |
-| 3 | 此外，它 动手、又 好玩，所以 孩子 真的 享受 它。 | Plus, it's hands-on and fun, so kids actually enjoy it. |
-| 4 | 所以 它 是 一个 简单的 方式 [去]教 善良。 | So it's a simple way to teach kindness. |
+| 2 | 学 动物 从 小 教 孩子 关心 别的 生命——怎么 温柔、怎么 照顾 一个 东西。 | Learning about animals teaches kids to care for other living things from a young age — how to be gentle, how to look after something. |
+| 3 | 它 也 动手、又 好玩——喂 一个 班级 宠物、或 看 毛毛虫 变成 蝴蝶，比 一本 课本 记 得 牢 多了。 | It's also hands-on and fun — feeding a class pet, or watching caterpillars turn into butterflies, sticks with them far more than a textbook. |
+| 4 | 这 就是 为什么 它 这么 管用：他们 在 学 善良、自己 都 没 意识到。 | That's why it works so well: they're picking up kindness without even realising it. |
+| 5 | 所以 它 是 一个 简单的 方式 [去]教 善良。 | So it's a simple way to teach kindness. |
 
-> Absolutely, I think so. It teaches them to care for other living things from a young age. Plus, it's hands-on and fun, so kids actually enjoy it. So it's a simple way to teach kindness.
+> Absolutely, I think so. Learning about animals teaches kids to care for other living things from a young age — how to be gentle, how to look after something. It's also hands-on and fun — feeding a class pet, or watching caterpillars turn into butterflies, sticks with them far more than a textbook. That's why it works so well: they're picking up kindness without even realising it. So it's a simple way to teach kindness.
 
-> 🔁 **复用**：`Absolutely, I think so`+`hands-on`(新16)+`a simple way to teach`(新05-Q6)。
+> 🔁 **复用**：`Absolutely, I think so`+`hands-on`(新16)+`sticks`(你 P2)+`pick up`(新15)+`a simple way to teach`(新05-Q6)。**⑦升级**：机制(教温柔/照顾)+具体画面(喂班级宠物/看毛毛虫变蝴蝶,呼应 P2)+推论(没意识到就学了善良)。
 
 **Q2. Some people think pets should not be kept in cities. What do you think?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 不太，不。 | Not really, no. |
-| 2 | 诚然，公寓 小，但 一大堆 宠物 在 室内 很 开心。 | Sure, flats are small, but plenty of pets are happy indoors. |
-| 3 | 而 完全 禁 它们 感觉 太 狠。 | Whereas banning them completely feels too harsh. |
-| 4 | 所以 它 归结到 做 一个 负责的 主人。 | So it comes down to being a responsible owner. |
+| 2 | 诚然，公寓 小，但 一大堆 宠物 在 室内 完全 很 开心——一只 猫 或 一只 小 狗 不 需要 多少 空间。 | Sure, flats are small, but plenty of pets are perfectly happy indoors — a cat or a small dog doesn't need much space. |
+| 3 | 完全 禁 它们 感觉 太 狠，尤其 当 一只 宠物 常常 是 大 城市 里 唯一 陪 一个 孤独 的人 的 东西。 | Banning them completely feels too harsh, especially when a pet is often the one thing that keeps a lonely person company in a big city. |
+| 4 | 真正 的 问题 不 是 那 城市，是 那 主人 遛 不 遛 狗、清 不 清理、烦 不 烦 邻居。 | The real issue isn't the city, it's whether the owner walks the dog, cleans up, and doesn't annoy the neighbours. |
+| 5 | 所以 它 归结到 做 一个 负责的 主人，不 是 你 住 哪儿。 | So it comes down to being a responsible owner, not where you live. |
 
-> Not really, no. Sure, flats are small, but plenty of pets are happy indoors. Whereas banning them completely feels too harsh. So it comes down to being a responsible owner.
+> Not really, no. Sure, flats are small, but plenty of pets are perfectly happy indoors — a cat or a small dog doesn't need much space. Banning them completely feels too harsh, especially when a pet is often the one thing that keeps a lonely person company in a big city. The real issue isn't the city, it's whether the owner walks the dog, cleans up, and doesn't annoy the neighbours. So it comes down to being a responsible owner, not where you live.
 
-> 🔁 **复用**：`Not really, no`+`Sure, … but`(老08-Q6)+`whereas`+`banning … completely`(老08-Q4 total ban)+`comes down to`。
+> 🔁 **复用**：`Not really, no`+`Sure, … but`(老08-Q6)+`banning … completely`(老08-Q4)+`keeps … company`(老11)+`comes down to`。**⑦升级**：机制(猫/小狗不需空间)+揭示点(城里宠物反而更重要=陪孤独的人)+reframe(真正问题是主人负不负责)。
 
 **Q3. Many people regard pets as members of their family. What do you think?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 我 完全 理解，说实话。 | I completely get it, honestly. |
-| 2 | 一只 宠物 跟 你 一起 住 好些年，所以 你 自然 变 亲近。 | A pet lives with you for years, so you naturally grow close. |
-| 3 | 对 一大堆 人，它 就 像 又 有 一个 孩子，说句公道话。 | For a lot of people, it's like having another kid, to be fair. |
-| 4 | 所以 它 归结到 你 建立 的 那份 纽带。 | So it comes down to the bond you build. |
+| 2 | 一只 宠物 跟 你 住 好些年——你 每天 喂 它，它 在 门口 迎 你——所以 你 当然 变 亲近。 | A pet lives with you for years — you feed it every day, it greets you at the door — so of course you grow close. |
+| 3 | 对 一大堆 人，尤其 独居 的，它 真的 就 像 又 有 一个 孩子。 | For a lot of people, especially those living alone, it really is like having another kid. |
+| 4 | 他们 跟 它 说话、它 病 了 就 担心、还 给 它 过 生日——那 就 是 家人，不管 谁 怎么 说。 | They talk to it, worry about it when it's ill, celebrate its birthday — that's family, whatever anyone says. |
+| 5 | 所以 它 归结到 你 建立 的 那份 纽带，不 是 它 是不是 人。 | So it comes down to the bond you build, not whether it's human. |
 
-> I completely get it, honestly. A pet lives with you for years, so you naturally grow close. For a lot of people, it's like having another kid, to be fair. So it comes down to the bond you build.
+> I completely get it, honestly. A pet lives with you for years — you feed it every day, it greets you at the door — so of course you grow close. For a lot of people, especially those living alone, it really is like having another kid. They talk to it, worry about it when it's ill, celebrate its birthday — that's family, whatever anyone says. So it comes down to the bond you build, not whether it's human.
 
-> 🔁 **复用**：`honestly`+`to be fair`+`the bond you build`(新07-Q3)+`comes down to`。
+> 🔁 **复用**：`honestly`+`the bond you build`(新07-Q3)+`comes down to`。**⑦升级**：机制+画面(每天喂/门口迎你)+具体(说话/病了担心/过生日)+LAND 加 nuance(不是它是不是人)。
 
 **Q4. Do many people keep pets in your country?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个，我会说。 | Quite a few, I'd say. |
-| 2 | 猫 和 狗 是 最 常见的，尤其 在 城市。 | Cats and dogs are the most common, especially in cities. |
-| 3 | 而 乡下 的 老年人 常常 也 为 一个 目的 养 它们。 | Whereas older folk in the countryside often keep them for a purpose too. |
-| 4 | 所以 这些天 它 真的 很 受欢迎。 | So it's really popular these days. |
+| 2 | 猫 和 狗 是 最 常见的，尤其 在 城市——对 一大堆 独居 的 年轻人，一只 宠物 是 很好的 陪伴。 | Cats and dogs are the most common, especially in cities — for a lot of young people living alone, a pet is good company. |
+| 3 | 乡下 有点 不同，那儿 老年人 常常 也 为 一个 用途 养 动物——一只 狗 看家、猫 抓 老鼠。 | It's a bit different in the countryside, where older folk often keep animals for a reason too — a dog to guard the house, cats to catch mice. |
+| 4 | 不管 哪种，这些天 你 几乎 到处 都 看到 宠物。 | Either way, you see pets almost everywhere these days. |
+| 5 | 所以 它 现在 真的 很 受欢迎。 | So it's really popular now. |
 
-> Quite a few, I'd say. Cats and dogs are the most common, especially in cities. Whereas older folk in the countryside often keep them for a purpose too. So it's really popular these days.
+> Quite a few, I'd say. Cats and dogs are the most common, especially in cities — for a lot of young people living alone, a pet is good company. It's a bit different in the countryside, where older folk often keep animals for a reason too — a dog to guard the house, cats to catch mice. Either way, you see pets almost everywhere these days. So it's really popular now.
 
-> 🔁 **复用**：`Quite a few, I'd say`+`whereas`+`older folk`(老08)。
+> 🔁 **复用**：`Quite a few, I'd say`+`good company`(老11)+`older folk`(老08)。**⑦升级**：机制(城里独居陪伴)+揭示对比(乡下为用途:看家/抓老鼠)+推论(到处都是)。
 
 **Q5. What are the advantages of keeping a pet?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
-| 2 | 它们 陪 你、还 让 你 感觉 没那么 孤独。 | They keep you company and make you feel less lonely. |
-| 3 | 除此之外，遛 一只 狗 让 你 出门、还 动 起来。 | On top of that, walking a dog gets you outside and active. |
-| 4 | 所以 它们 对 你的 心情 真的 很 好。 | So they're really good for your mood. |
+| 2 | 首先，它们 陪 你、还 让 你 感觉 没那么 孤独——回到 家 有 一只 开心的 狗 能 立刻 让 你 感觉 好 起来。 | First off, they keep you company and make you feel less lonely — coming home to a happy dog can instantly make you feel better. |
+| 3 | 除此之外，遛 一只 狗 让 你 出门、还 动 起来，所以 你 不知不觉 就 更 健康 了。 | On top of that, walking a dog gets you outside and active, so you end up healthier without even trying. |
+| 4 | 而 对 孩子，照顾 一只 宠物 教 他们 责任感。 | And for kids, looking after a pet teaches them responsibility. |
+| 5 | 所以 它们 对 你 真的 很 好，身 和 心 都 是。 | So they're really good for you, body and mind. |
 
-> Loads, honestly. They keep you company and make you feel less lonely. On top of that, walking a dog gets you outside and active. So they're really good for your mood.
+> Loads, honestly. First off, they keep you company and make you feel less lonely — coming home to a happy dog can instantly make you feel better. On top of that, walking a dog gets you outside and active, so you end up healthier without even trying. And for kids, looking after a pet teaches them responsibility. So they're really good for you, body and mind.
 
-> 🔁 **复用**：`Loads, honestly`+`keep you company`(老11)+`feel less lonely`(新07-Q2)+`On top of that`+`good for your mood`(新05-Q1)。
+> 🔁 **复用**：`Loads, honestly`+`keep you company`(老11)+`feel less lonely`(新07-Q2)+`On top of that`。**⑦升级**：机制+画面(回家有开心的狗立刻感觉好)+加点(遛狗更健康/孩子学责任)+LAND(身心都好)。
 
 **Q6. Why do people always tell children stories with animals?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 孩子 爱 动物，我会说。 | Mainly because kids love animals, I'd say. |
-| 2 | 动物 让 一个 故事 好玩、还 容易 跟上。 | Animals make a story fun and easy to follow. |
-| 3 | 此外，它们 用 一个 温和的 方式 教 道理，比如 分享 或 勇敢。 | Plus, they teach lessons in a gentle way, like sharing or being brave. |
-| 4 | 所以 它 归结到 让 学习 感觉 像 玩。 | So it comes down to making learning feel like play. |
+| 2 | 对 一个 小 孩子 来说，一只 会 说话的 兔子、或 一只 勇敢的 小 狮子 就 是 又 可爱 又 好玩。 | To a small kid, a talking rabbit or a brave little lion is just so cute and fun. |
+| 3 | 而 动物 让 教 一个 道理 变 容易——分享、勇敢、善良——不 让 它 感觉 像 说教。 | And animals make it easy to teach a lesson — sharing, being brave, being kind — without it feeling like a lecture. |
+| 4 | 我 儿子 会 为 一个 毛毛虫 故事 乖乖 坐 着，而 别的 什么 都 没法 让 他 安静。 | My son would sit still for a caterpillar story when nothing else could keep him quiet. |
+| 5 | 所以 它 归结到 让 学习 感觉 像 玩。 | So it comes down to making learning feel like play. |
 
-> Mainly because kids love animals, I'd say. Animals make a story fun and easy to follow. Plus, they teach lessons in a gentle way, like sharing or being brave. So it comes down to making learning feel like play.
+> Mainly because kids love animals, I'd say. To a small kid, a talking rabbit or a brave little lion is just so cute and fun. And animals make it easy to teach a lesson — sharing, being brave, being kind — without it feeling like a lecture. My son would sit still for a caterpillar story when nothing else could keep him quiet. So it comes down to making learning feel like play.
 
-> 🔁 **复用**：`Mainly…I'd say`+`easy to follow`(新15-Q1)+`Plus`+`comes down to`。
+> 🔁 **复用**：`Mainly…I'd say`+`making learning feel like play`(新15)+`comes down to`。**⑦升级**：揭示(动物让教道理不像说教)+个人画面(儿子为毛毛虫故事乖坐,呼应 P2)。**⑧自然逻辑**：s2 改成她真实会有的念头(动物"又可爱又好玩")，非"比大人角色更抓注意力"这种她不会想的比较(英式中文语序保留)。
 
 **P3 句型/模板（复用池）**：`Absolutely, I think so` / `hands-on` / `a simple way to teach kindness` · `Not really, no` / `Sure, … but` / `comes down to being a responsible owner` · `honestly` / `the bond you build` · `Quite a few, I'd say` / `whereas` / `older folk` · `Loads, honestly` / `keep you company` / `feel less lonely` · `Mainly … I'd say` / `easy to follow` / `making learning feel like play`。
 
