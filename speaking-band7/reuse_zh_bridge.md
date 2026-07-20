@@ -1995,78 +1995,83 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 真的 是 好坏参半，说实话。 | It's a real mixed bag, honestly. |
-| 2 | 好的一面，广告 告诉 你 有用的 新 产品、还 让 公司 维持 下去。 | On the plus side, ads tell you about useful new products and keep companies going. |
-| 3 | 另一方面，它们 推 你 去 买 你 并不 真的 需要 的 东西。 | On the other hand, they push you to buy things you don't really need. |
-| 4 | 所以 它 归结到 你 能不能 为 自己 想。 | So it comes down to whether you can think for yourself. |
+| 2 | 好的一面，广告 让 你 知道 有 啥 新 东西——一个 新 手机、一个 更 划算 的 优惠——而 它们 正是 养活 一大堆 免费 app 和 电视 的。 | On the plus side, ads let you know what's out there — a new phone, a better deal — and they're what keeps a lot of free apps and TV running. |
+| 3 | 另一方面，它们 特别 擅长 让 你 想要 你 其实 不 需要 的 东西——你 看到 一个 亮闪闪 的 新 玩意儿，突然 你的 旧 的 就 显得 过时 了。 | On the other hand, they're really good at making you want things you don't actually need — you see a shiny new gadget and suddenly your old one feels out of date. |
+| 4 | 所以 它 归结到 你 能不能 退 一步、为 自己 想。 | So it comes down to whether you can step back and think for yourself. |
 
-> It's a real mixed bag, honestly. On the plus side, ads tell you about useful new products and keep companies going. On the other hand, they push you to buy things you don't really need. So it comes down to whether you can think for yourself.
+> It's a real mixed bag, honestly. On the plus side, ads let you know what's out there — a new phone, a better deal — and they're what keeps a lot of free apps and TV running. On the other hand, they're really good at making you want things you don't actually need — you see a shiny new gadget and suddenly your old one feels out of date. So it comes down to whether you can step back and think for yourself.
 
-> 🔁 **复用**：`a real mixed bag, honestly`(新16-Q1)+`On the plus side … On the other hand`(新07-Q3)+`think for yourself`(新16)。
+> 🔁 **复用**：`a real mixed bag, honestly`(新16-Q1)+`On the plus side … On the other hand`(新07-Q3)+`think for yourself`(新16)。**⑦升级**：机制(广告养活免费app/电视)+具体画面(亮闪闪新玩意儿→旧的显破)。
 
 **Q2. Why are many advertisements endorsed by celebrities? How useful are they?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 信任，我会说。 | Mainly trust, I'd say. |
-| 2 | 当 人们 看到 一个 他们 崇拜 的 明星 用 某个 东西，他们 瞬间 信任 它。 | When people see a star they admire using something, they instantly trust it. |
-| 3 | 说句公道话，不过，它 会 过头——有些人 只 因为 那张 脸 就 买，不是 那 产品。 | To be fair, though, it can go too far — some just buy it because of the face, not the product. |
-| 4 | 所以 它们 管用，但 它 归结到 挑 对 那个 名人。 | So they work, but it comes down to picking the right celebrity. |
+| 2 | 当 人们 看到 一个 他们 崇拜 的 明星 用 某个 东西，他们 自然 就 更 信任 那 产品——它 感觉 被 验证 过，几乎 像 一个 私人 推荐。 | When people see a star they admire using something, they naturally trust the product more — it feels proven, almost like a personal recommendation. |
+| 3 | 这 就是 为什么 一个 好 的 搭配 能 一夜 之间 把 产品 卖 火——想想 一个 顶级 运动员 在 一个 跑鞋 广告 里。 | That's why a good match can sell a product overnight — think of a top athlete in a trainers ad. |
+| 4 | 说句公道话，不过，它 会 过头——有些人 只 因为 那张 脸 就 买，不是 因为 那 产品 有 多好。 | To be fair, though, it can go too far — some people buy it just for the face, not because the product's any good. |
+| 5 | 所以 它们 确实 管用，但 它 归结到 为 对 的 产品 挑 对 的 名人。 | So they do work, but it comes down to picking the right celebrity for the right product. |
 
-> Mainly trust, I'd say. When people see a star they admire using something, they instantly trust it. To be fair, though, it can go too far — some just buy it because of the face, not the product. So they work, but it comes down to picking the right celebrity.
+> Mainly trust, I'd say. When people see a star they admire using something, they naturally trust the product more — it feels proven, almost like a personal recommendation. That's why a good match can sell a product overnight — think of a top athlete in a trainers ad. To be fair, though, it can go too far — some people buy it just for the face, not because the product's any good. So they do work, but it comes down to picking the right celebrity for the right product.
 
-> 🔁 **复用**：`Mainly trust, I'd say`(老08-Q2)+`To be fair, though`(新16-Q1)+`comes down to`。
+> 🔁 **复用**：`Mainly trust, I'd say`(老08-Q2)+`To be fair, though`(新16-Q1)+`comes down to`。**⑦升级**：机制(看明星用→自然更信任产品)+具体画面(顶级运动员跑鞋广告，呼应你 P2 刘翔)+转折。〔`rubs off` 已按她要求换成常用词〕
 
 **Q3. What is the most important factor in an advertisement?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 对 我 来说，它 一定 是 情绪。 | For me, it's got to be emotion. |
-| 2 | 如果 一个 广告 让 你 笑 或 让 你 感受 到 什么，你 记得 它。 | If an ad makes you laugh or feel something, you remember it. |
-| 3 | 广告 真的 很 擅长 让 想要 感觉 像 需要。 | Advertising's really good at making wants feel like needs. |
-| 4 | 所以 它 归结到 打中 人们的 感受，不 只是 罗列 事实。 | So it comes down to hitting people's feelings, not just listing facts. |
+| 2 | 光 是 事实 记不住，但 如果 一个 广告 让 你 笑 或 让 你 感受 到 什么，它 能 在 你 脑子里 待 上 好几天。 | Facts alone don't stick, but if an ad makes you laugh or feel something, it stays with you for days. |
+| 3 | 这 就是 广告 的 整个 把戏——它 特别 擅长 让 想要 感觉 像 需要。 | That's the whole trick of advertising — it's really good at making wants feel like needs. |
+| 4 | 想想 一个 汽车 广告：他们 其实 不 卖 那 引擎，他们 卖 的 是 在 空旷 公路 上 那种 自由 的 感觉。 | Think of a car ad: they don't really sell the engine, they sell the feeling of freedom on an open road. |
+| 5 | 所以 它 归结到 打中 人们的 感受，不 只是 罗列 事实。 | So it comes down to hitting people's feelings, not just listing facts. |
 
-> For me, it's got to be emotion. If an ad makes you laugh or feel something, you remember it. Advertising's really good at making wants feel like needs. So it comes down to hitting people's feelings, not just listing facts.
+> For me, it's got to be emotion. Facts alone don't stick, but if an ad makes you laugh or feel something, it stays with you for days. That's the whole trick of advertising — it's really good at making wants feel like needs. Think of a car ad: they don't really sell the engine, they sell the feeling of freedom on an open road. So it comes down to hitting people's feelings, not just listing facts.
 
-> 🔁 **复用**：`For me, it's got to be`(新15-Q6)+`makes you laugh`(新02-Q6)+`making wants feel like needs`(老20-Q4 逐字)+`hitting people's feelings`(新02-Q6)。
+> 🔁 **复用**：`For me, it's got to be`(新15-Q6)+`making wants feel like needs`(老20-Q4 逐字)+`hitting people's feelings`(新02-Q6)。**⑦升级**：机制(事实记不住/情绪待几天)+具体画面(汽车广告卖的是自由感不是引擎)。
 
 **Q4. Why are some advertisements boring?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 它们 只是 罗列 事实，我会说。 | Mainly because they just list facts, I'd say. |
-| 2 | 如果 一个 广告 只 对 你 说，人们 就 走神。 | If an ad only talks at you, people switch off. |
-| 3 | 而 一个 好 的 讲 一个 小 故事 或 让 你 笑。 | Whereas a good one tells a little story or makes you laugh. |
-| 4 | 所以 它 归结到 它 抓 不 抓 你的 注意力。 | So it comes down to whether it grabs your attention. |
+| 2 | 如果 一个 广告 只 对 你 说——价格、功能、更多 功能——人们 几秒 内 就 走神。 | If an ad only talks at you — price, features, more features — people switch off within seconds. |
+| 3 | 而 一个 好 的，另一方面，讲 一个 小 故事 或 让 你 笑，所以 你 才 真的 会 留 下来 看。 | A good one, on the other hand, tells a little story or makes you laugh, so you actually stay and watch. |
+| 4 | 这 就是 为什么 人们 记住 的 广告 是 那些 娱乐 你 的，不是 那些 只 告诉 你 信息 的。 | That's why the ads people remember are the ones that entertain, not the ones that just inform. |
+| 5 | 所以 它 归结到 它 在 头 几秒 抓 不 抓 你的 注意力。 | So it comes down to whether it grabs your attention in the first few seconds. |
 
-> Mainly because they just list facts, I'd say. If an ad only talks at you, people switch off. Whereas a good one tells a little story or makes you laugh. So it comes down to whether it grabs your attention.
+> Mainly because they just list facts, I'd say. If an ad only talks at you — price, features, more features — people switch off within seconds. A good one, on the other hand, tells a little story or makes you laugh, so you actually stay and watch. That's why the ads people remember are the ones that entertain, not the ones that just inform. So it comes down to whether it grabs your attention in the first few seconds.
 
-> 🔁 **复用**：`Mainly…I'd say`+`talks at you`/`switch off`(新03-Q4)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly…I'd say`+`talks at you`/`switch off`(新03-Q4)+`comes down to`。**⑦升级**：机制+画面(价格/功能/更多功能→几秒走神)+推论(记住的是娱乐你的广告)。
 
 **Q5. Is advertising important for a company? Why?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 即使 一个 很棒的 产品 也 卖 不 出去，如果 没人 听说 过 它。 | Even a great product won't sell if nobody's heard of it. |
-| 3 | 除此之外，好 广告 建立 一个 人们 信任的 品牌。 | On top of that, good ads build a brand people trust. |
-| 4 | 所以 对 大多数 公司，它 是 花得 值的 钱。 | So for most companies, it's money well spent. |
+| 2 | 即使 一个 很棒的 产品 也 卖 不 出去，如果 没人 听说 过 它——它 就 那么 摆 在 货架 上。 | Even a brilliant product won't sell if nobody's heard of it — it just sits on the shelf. |
+| 3 | 广告 就是 一个 公司 怎么 把 名字 打 出去、建立 一个 人们 信任的 品牌。 | Advertising is how a company gets its name out there and builds a brand people trust. |
+| 4 | 看看 那些 大 品牌——它们 一半 的 成功 就是 大家 早就 认识 并 信任 那个 名字。 | Look at the big brands — half their success is that everyone already knows and trusts the name. |
+| 5 | 所以 对 大多数 公司，它 是 花得 值的 钱。 | So for most companies, it's money well spent. |
 
-> Absolutely, I think so. Even a great product won't sell if nobody's heard of it. On top of that, good ads build a brand people trust. So for most companies, it's money well spent.
+> Absolutely, I think so. Even a brilliant product won't sell if nobody's heard of it — it just sits on the shelf. Advertising is how a company gets its name out there and builds a brand people trust. Look at the big brands — half their success is that everyone already knows and trusts the name. So for most companies, it's money well spent.
 
-> 🔁 **复用**：`Absolutely, I think so`+`On top of that`+`money well spent`(老20)。
+> 🔁 **复用**：`Absolutely, I think so`+`money well spent`(老20)。**⑦升级**：机制+画面(没人听说就摆货架上)+推论(大品牌一半成功=大家认识信任名字)。
 
 **Q6. Which is more effective, online advertising or offline advertising?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 网上，我会说，这些天。 | Online, I'd say, these days. |
-| 2 | 网上 广告 能 精准 瞄准 谁 感兴趣，而 广告牌 只 指望 人们 注意到。 | Online ads can target exactly who's interested, whereas billboards just hope people notice. |
-| 3 | 除此之外，它们 更 便宜，而 你 能 追踪 那 结果。 | On top of that, they're cheaper and you can track the results. |
-| 4 | 但 说句公道话，一个 大 广告牌 亲身 看 仍然 抓 你的 眼球。 | But to be fair, a big billboard still catches your eye in person. |
+| 2 | 网上 广告 能 精准 瞄准 谁 感兴趣——你的 年龄、你的 爱好、你 上周 搜 了 啥——而 一个 广告牌 只 指望 对 的 人 正好 路过。 | Online ads can target exactly who's interested — your age, your hobbies, what you searched last week — whereas a billboard just hopes the right people walk past. |
+| 3 | 除此之外，它们 更 便宜，而 你 真的 能 追踪 谁 点 了，所以 公司 知道 啥 有效。 | On top of that, they're cheaper and you can actually track who clicked, so companies know what's working. |
+| 4 | 这 就是 为什么 大多数 广告 钱 都 转 到 了 网上。 | That's why most ad money has shifted online. |
+| 5 | 但 说句公道话，一个 大 广告牌 在 一条 繁忙的 街 上 仍然 抓 你 眼球，用 一种 手机 广告 做不到 的 方式。 | But to be fair, a big billboard in a busy street still catches your eye in a way a phone ad can't. |
 
-> Online, I'd say, these days. Online ads can target exactly who's interested, whereas billboards just hope people notice. On top of that, they're cheaper and you can track the results. But to be fair, a big billboard still catches your eye in person. 
+> Online, I'd say, these days. Online ads can target exactly who's interested — your age, your hobbies, what you searched last week — whereas a billboard just hopes the right people walk past. On top of that, they're cheaper and you can actually track who clicked, so companies know what's working. That's why most ad money has shifted online. But to be fair, a big billboard in a busy street still catches your eye in a way a phone ad can't.
 
-> 🔁 **复用**：`… I'd say`+`whereas`+`On top of that`+`to be fair`+`catches your eye`(新02)。
+> 🔁 **复用**：`… I'd say`+`whereas`+`On top of that`+`to be fair`+`catches your eye`(新02)。**⑦升级**：机制+画面(年龄/爱好/上周搜啥)+推论(广告钱转到网上)+让步具体(繁忙街的大广告牌)。
 
 **P3 句型/模板（复用池）**：`a real mixed bag, honestly` / `On the plus side … On the other hand` / `think for yourself` · `Mainly trust, I'd say` / `To be fair, though` · `For me, it's got to be emotion` / `making wants feel like needs` / `hitting people's feelings` · `Mainly … I'd say` / `talks at you` / `switch off` · `Absolutely, I think so` / `money well spent` · `whereas` / `catches your eye`。
 
