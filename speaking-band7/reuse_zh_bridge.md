@@ -2941,17 +2941,17 @@
 | 1 | 我想聊的那个人 是 我的 一个 大学 同学，张伟。 | The person I'd like to talk about is one of my classmates at university, Zhangwei. |
 | 2 | 我们 认识 彼此 十多年 了。 | We've known each other for over ten years. |
 | 3 | 那时候，我们 通常 做的 是 泡 在 学校 电脑 社团 里，而 我们 会 瞎 鼓捣、写 一些 小 程序。 | Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. |
-| 4 | 让 他 出众的 是 他 怎么 在 压力下 解决 问题。 | What makes him stand out is how he solves problems under pressure. |
-| 5 | 我 记得 有一次，在 一个 小组 项目 上，那 程序 就 在 展示 之前 崩了。 | I remember one time, on a group project, the program crashed right before the presentation. |
+| 4 | 让 他 出众的 是 他 怎么 熬过 一些 真的 很 难 的 局面。 | What really makes him stand out is how he's pushed through some really tough situations. |
+| 5 | 我 记得 最 难 的 一次，在 一个 重要 小组 项目 上，那 程序 就 在 展示 之前 崩了，整个 东西 眼看 要 泡汤。 | I remember the hardest one — on an important group project, the program crashed right before the presentation, and the whole thing was about to fall apart. |
 | 6 | 当 我们 其他人 都 在 慌，他 就 保持 冷静、坐下、然后 一行一行 过 那 代码 和 日志。 | While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. |
 | 7 | 大约 二十分钟 里，他 修好 了 它——他 基本上 救 了 场。 | In about twenty minutes, he fixed it — he basically saved the day. |
 | 8 | 而 不 只是 那 一次——无论 什么时候 有 东西 坏了，他 就是 那种 人、（大家 都 会 求助的），因为 他 稳得住、还 总是 乐意 帮忙。 | And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. |
-| 9 | 这些天 他 做 得 很好——他 是 一个 出色的 开发者，而 我 觉得 那 是 因为 他 总能 在 压力下 保持 冷静。 | These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. |
+| 9 | 这些天 他 做 得 很好——他 成 了 我 认识 的 最 好 的 开发者 之一，而 我 觉得 那 正 是 因为 他 从不 慌、也 从不 放弃。 | These days he's doing really well — he's become one of the best developers I know, and I think it's precisely because he never panics and never gives up. |
 | 10 | 那 是 一个 我 真的 佩服 他 的 地方。 | That's something I really admire about him. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is one of my classmates at university, Zhangwei. We've known each other for over ten years. Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. What makes him stand out is how he solves problems under pressure. I remember one time, on a group project, the program crashed right before the presentation. While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. In about twenty minutes, he fixed it — he basically saved the day. And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. These days he's doing really well — he's an excellent developer, and I think it's because he can always stay calm under pressure. That's something I really admire about him.
+> The person I'd like to talk about is one of my classmates at university, Zhangwei. We've known each other for over ten years. Back then, what we usually did was hang out in the school computer club, and we'd mess around building little programs. What really makes him stand out is how he's pushed through some really tough situations. I remember the hardest one — on an important group project, the program crashed right before the presentation, and the whole thing was about to fall apart. While the rest of us were panicking, he just stayed calm, sat down, and went through the code and logs line by line. In about twenty minutes, he fixed it — he basically saved the day. And it's not just that one time — whenever something breaks, he's the kind of person everyone turns to, because he keeps his cool and is always happy to help. These days he's doing really well — he's become one of the best developers I know, and I think it's precisely because he never panics and never gives up. That's something I really admire about him.
 
 ### 句型/模板（你自己的）
 
@@ -2966,78 +2966,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 科技，我会说，这些天。 | Tech, I'd say, these days. |
-| 2 | 它 增长 快，而 有 一大堆 需求，所以 有 很多 机会。 | It's growing fast, and there's loads of demand, so there's plenty of opportunity. |
-| 3 | 而 老 行业 更 拥挤、动 得 更 慢。 | Whereas older industries are more crowded and slower to move. |
-| 4 | 所以 它 归结到 挑 一个 有 成长 空间 的 领域。 | So it comes down to picking a field with room to grow. |
+| 2 | 它 增长 太 快 了，所以 一直 有 对 人 的 需求，机会 也 就 很 多。 | It's growing so fast that there's always demand for people, so there's plenty of opportunity. |
+| 3 | 一个 好 的 开发者 几乎 在 哪儿 都 能 找到 活，甚至 能 建 自己 的 东西。 | A good developer can find work almost anywhere, or even build their own thing. |
+| 4 | 而 老 行业 更 拥挤、动 得 更 慢。 | Whereas older industries are more crowded and slower to move. |
+| 5 | 所以 真的，它 是 关于 挑 一个 有 成长 空间 的 领域。 | So really, it's about picking a field with room to grow. |
 
-> Tech, I'd say, these days. It's growing fast, and there's loads of demand, so there's plenty of opportunity. Whereas older industries are more crowded and slower to move. So it comes down to picking a field with room to grow.
+> Tech, I'd say, these days. It's growing so fast that there's always demand for people, so there's plenty of opportunity. A good developer can find work almost anywhere, or even build their own thing. Whereas older industries are more crowded and slower to move. So really, it's about picking a field with room to grow.
 
-> 🔁 **复用**：`… I'd say`+`whereas`+`comes down to`+`field`(新12)。
+> 🔁 **复用**：`… I'd say`+`whereas`+`field`(新12)。**⑦升级**：机制(增长快一直有需求)+具体画面(好开发者哪都能找活/自己建东西,呼应你 P2)。**LAND**：`So really, it's about…`。
 
 **Q2. Do you think difficulties are good for people's growth?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 你 学 得 最 多、当 事情 出错、你 不得不 一步步 解决 它。 | You learn the most when things go wrong and you have to work through it. |
-| 3 | 而 如果 一切 都 容易，你 从不 真的 进步。 | Whereas if everything's easy, you never really improve. |
-| 4 | 所以 几次 艰难 时期 建立 真正的 力量，说句公道话。 | So a few hard times build real strength, to be fair. |
+| 1 | 老实说，我 不 完全 这么 认为。 | Honestly, I wouldn't quite say that. |
+| 2 | 困难 本身 不 是 好 事——没人 喜欢 它们，它们 让 人 有 压力。 | Difficulties aren't a good thing in themselves — nobody enjoys them, and they're stressful. |
+| 3 | 但 问题 是，你 真的 躲 不 掉——迟早 每个人 都 会 遇到 麻烦。 | But the thing is, you can't really avoid them — sooner or later everyone runs into problems. |
+| 4 | 真正 要紧 的 是 有 处理 困难 的 能力——保持 冷静、一步步 解决 问题，而不 是 慌。 | What really matters is being able to handle them — staying calm and working through the problem instead of panicking. |
+| 5 | 所以 帮 你 成长 的 是 应对 困难 的 本事，不 是 困难 本身。 | So what helps you grow is the skill of dealing with hardship — not the hardship itself. |
 
-> Absolutely, I think so. You learn the most when things go wrong and you have to work through it. Whereas if everything's easy, you never really improve. So a few hard times build real strength, to be fair.
+> Honestly, I wouldn't quite say that. Difficulties aren't a good thing in themselves — nobody enjoys them, and they're stressful. But the thing is, you can't really avoid them — sooner or later everyone runs into problems. What really matters is being able to handle them — staying calm and working through the problem instead of panicking. So what helps you grow is the skill of dealing with hardship — not the hardship itself.
 
-> 🔁 **复用**：`Absolutely, I think so`+`work through it`(新16)+`whereas`+`to be fair`。
+> 🔁 **复用**：`work through it`(新16)。**⑧改逻辑**(她要)：困难本身不好、但躲不掉 → 重要是处理困难的能力 → 帮你成长的是这本事、不是困难本身。**LAND**：`not the hardship itself`。〔⑩去张伟例、改通用〕
 
 **Q3. What qualities help people overcome difficulties and succeed?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个，真的。 | A few, really. |
-| 2 | 在 压力下 保持 冷静 是 一个 大的——我 朋友 张伟 在 那方面 很 出色。 | Staying calm under pressure is a big one — my friend Zhangwei's brilliant at that. |
-| 3 | 除此之外，你 需要 耐心 和 那 干劲 [去]坚持。 | On top of that, you need patience and the drive to keep going. |
-| 4 | 所以 它 归结到 事情 变 难 时 不 放弃。 | So it comes down to not giving up when things get tough. |
+| 2 | 在 压力下 保持 冷静 是 一个 大的。 | Staying calm under pressure is a big one. |
+| 3 | 做 得 好 的人 不 慌——他们 就 坐下、一步步 解决 那 问题。 | The people who do well don't panic — they just sit down and work through the problem step by step. |
+| 4 | 除此之外，你 需要 耐心 和 那 干劲 [去]坚持。 | On top of that, you need patience and the drive to keep going. |
+| 5 | 所以 最 主要 的 是 事情 变 难 时 不 放弃。 | So the main thing is not giving up when things get tough. |
 
-> A few, really. Staying calm under pressure is a big one — my friend Zhangwei's brilliant at that. On top of that, you need patience and the drive to keep going. So it comes down to not giving up when things get tough.
+> A few, really. Staying calm under pressure is a big one. The people who do well don't panic — they just sit down and work through the problem step by step. On top of that, you need patience and the drive to keep going. So the main thing is not giving up when things get tough.
 
-> 🔁 **复用**：`staying calm under pressure`(张伟)+`On top of that`+`keep going`(新15 sticks at it)+`comes down to`。
+> 🔁 **复用**：`staying calm under pressure`+`On top of that`+`keep going`(新15)。**⑦升级**：具体画面(做得好的人不慌、坐下一步步解决)。**LAND**：`So the main thing is…`。〔⑩去张伟例、改通用〕
 
 **Q4. Is it harder for young people to succeed nowadays than in the past?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 一方面，竞争 多 得 多，而 生活 成本 高。 | On one hand, there's way more competition and the cost of living's high. |
-| 3 | 而 另一方面，机会 和 工具 也 比 以前 多 太多。 | Whereas on the other, there are far more opportunities and tools than before. |
-| 4 | 所以 它 归结到 你 怎么 用 外面 有的 东西。 | So it comes down to how you use what's out there. |
+| 2 | 一方面，竞争 多 得 多，而 生活 成本 真的 很 高。 | On one hand, there's way more competition and the cost of living is really high. |
+| 3 | 今天 一个 年轻人 也许 有 个 学位，却 仍然 买 不 起 一套 房。 | A young person today might have a degree but still struggle to buy a home. |
+| 4 | 但 另一方面，工具 和 机会 也 比 以前 多 太多——你 能 在 卧室 里 就 开 个 公司。 | But on the other hand, there are far more tools and opportunities than before — you can start a business from your bedroom. |
+| 5 | 所以 它 归结到 你 怎么 用 外面 有的 东西。 | So it comes down to how you use what's out there. |
 
-> It's a bit of a mixed bag, honestly. On one hand, there's way more competition and the cost of living's high. Whereas on the other, there are far more opportunities and tools than before. So it comes down to how you use what's out there.
+> It's a bit of a mixed bag, honestly. On one hand, there's way more competition and the cost of living is really high. A young person today might have a degree but still struggle to buy a home. But on the other hand, there are far more tools and opportunities than before — you can start a business from your bedroom. So it comes down to how you use what's out there.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to how you use`(新16)。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`comes down to how you use`(新16)。**⑦升级**：具体画面(有学位却买不起房/在卧室开公司)。**（本卡唯一保留的 comes down to）**
 
 **Q5. How important is support from others when facing hard times?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 极其 重要，我会说。 | Hugely important, I'd say. |
-| 2 | 当 事情 出错，有 一个 人 [去]求助 大 不 一样。 | When things go wrong, having someone to turn to makes a huge difference. |
-| 3 | 我 朋友 张伟 就是 那种 人、（东西 一坏 大家 都 会 求助的）。 | My friend Zhangwei's the kind of person everyone turns to when things break. |
-| 4 | 所以 说实话，一点 支持 顶 大 用。 | So honestly, a bit of support goes a long way. |
+| 2 | 当 事情 出错，有 一个 人 [去]求助 大 不 一样——哪怕 只是 知道 你 不 孤单。 | When things go wrong, having someone to turn to makes a huge difference — even just knowing you're not alone. |
+| 3 | 它 可以 是 一个 朋友、一个 前辈，甚至 一个 经历过 同样 事 的 同事。 | It could be a friend, a mentor, or even a colleague who's been through the same thing. |
+| 4 | 在 对 的 时候 一点 鼓励，就 能 拦住 一个人 彻底 放弃。 | A bit of encouragement at the right moment can stop someone giving up completely. |
+| 5 | 所以 说实话，一点 支持 顶 大 用。 | So honestly, a bit of support goes a long way. |
 
-> Hugely important, I'd say. When things go wrong, having someone to turn to makes a huge difference. My friend Zhangwei's the kind of person everyone turns to when things break. So honestly, a bit of support goes a long way.
+> Hugely important, I'd say. When things go wrong, having someone to turn to makes a huge difference — even just knowing you're not alone. It could be a friend, a mentor, or even a colleague who's been through the same thing. A bit of encouragement at the right moment can stop someone giving up completely. So honestly, a bit of support goes a long way.
 
-> 🔁 **复用**：`Hugely important, I'd say`(新07-Q2)+`the kind of person everyone turns to`(新25 P2 逐字)+`honestly`。
+> 🔁 **复用**：`Hugely important, I'd say`(新07-Q2)+`honestly`。**⑦升级**：机制(知道不孤单)+推论(对的时候一点鼓励拦住放弃)。**LAND**：`goes a long way`(无 comes down to)。〔⑩去张伟例、改通用(朋友/前辈/同事)〕
 
 **Q6. Should schools teach children how to deal with failure?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 孩子 需要 学到 失败 很 正常、你 就 再 试 一次。 | Kids need to learn that failing is normal and you just try again. |
-| 3 | 而 如果 他们 怕 失败，他们 永远 不 冒险。 | Whereas if they're scared of failing, they'll never take risks. |
-| 4 | 所以 它 是 他们 能 学 的 最 有用的 一课 之一。 | So it's one of the most useful lessons they can learn. |
+| 2 | 孩子 需要 学到 失败 很 正常——你 就 再 试 一次。 | Kids need to learn that failing is normal — you just try again. |
+| 3 | 如果 他们 怕 失败，他们 永远 不 冒险、也 不 尝试 任何 新 东西。 | If they're scared of failing, they'll never take risks or try anything new. |
+| 4 | 一个 被 允许 失败 几次 的 孩子，长大 后 自信 得 多。 | A kid who's allowed to fail a few times grows up far more confident. |
+| 5 | 所以 它 是 他们 能 学 的 最 有用的 一课 之一。 | So it's one of the most useful lessons they can learn. |
 
-> Absolutely, I think so. Kids need to learn that failing is normal and you just try again. Whereas if they're scared of failing, they'll never take risks. So it's one of the most useful lessons they can learn.
+> Absolutely, I think so. Kids need to learn that failing is normal — you just try again. If they're scared of failing, they'll never take risks or try anything new. A kid who's allowed to fail a few times grows up far more confident. So it's one of the most useful lessons they can learn.
 
-> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`a really useful lesson`(新05-Q6)。
+> 🔁 **复用**：`Absolutely, I think so`+`a really useful lesson`(新05-Q6)。**⑦升级**：机制(怕失败就不冒险)+推论(允许失败几次的孩子更自信)。**LAND**：`one of the most useful lessons`(无 comes down to)。
 
 **P3 句型/模板（复用池）**：`Tech, I'd say, these days` / `whereas` / `comes down to picking a field with room to grow` · `Absolutely, I think so` / `work through it` / `build real strength` · `A few, really` / `staying calm under pressure` / `keep going` · `a bit of a mixed bag, honestly` / `comes down to how you use what's out there` · `Hugely important, I'd say` / `the kind of person everyone turns to` · `whereas … take risks` / `the most useful lessons`。
 
