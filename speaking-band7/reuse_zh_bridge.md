@@ -2552,41 +2552,41 @@
 
 ---
 
-## P2-新22 · An environmental protection law — 垃圾分类（Object/现行法）  〔复用生成〕
+## P2-新22 · An environmental protection law — 限塑令·禁止无偿提供一次性塑料袋（Object/现行法）  〔复用生成 · 改限塑令〕
 
 > **📋 P2 题面**：Describe a law on environmental protection.
 > *You should say:* What it is · How you first learned about it · Who benefits from it · And explain how you feel about this law
 >
 > **Cue**: 是什么 / 怎么最先了解 / 谁受益 / 感受 · 题型 Object/现行法
 >
-> 🔁 **整卡复用自**：新06 保护绿地法(wife 信息来源/makes people stop and think) + 老20(hassle) + son + `I reckon`/`to be fair`/`So overall` 池。垃圾分类=具体设定。
+> 🔁 **整卡复用自**：新06(wife 信息来源/makes people stop and think) + 老20(hassle) + 新27(cloth bags 布袋子) + son + `I reckon`/`to be fair`/`So overall` 池。**限塑令(现行·超市禁止无偿提供一次性塑料袋,要么付钱要么自带)=具体设定**——对齐新27,但新27 是"你要引入的更强禁令"、本卡是现行法。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那条 法律 是 这里 大城市 的 垃圾分类 规定。 | The law I'd like to talk about is the rubbish-sorting rule in big cities here. |
-| 2 | 基本上，你 得 把 你的 垃圾 分开——厨余、可回收、和 普通 垃圾。 | Basically, you have to separate your waste — food, recycling, and general rubbish. |
+| 1 | 我想聊的那条 法律 是 那个 商店 不 能 再 免费 给 塑料袋 的。 | The law I'd like to talk about is the one where shops can't give out free plastic bags anymore. |
+| 2 | 基本上，如果 你 在 超市 想要 一个 袋子，你 得 为 它 付 几 毛钱，或 自带 一个。 | Basically, if you want a bag at the supermarket, you have to pay a few cents for it, or bring your own. |
 | 3 | 我 最先 从 我 老婆 那儿 听说 它，（她 一直 关注 这种 事）。 | I first heard about it from my wife, who keeps up with this kind of thing. |
-| 4 | 一开始，说实话，它 感觉 像 一个 麻烦——没人 知道 哪个 桶 是 哪个。 | At first, honestly, it felt like a hassle — nobody knew which bin was which. |
-| 5 | 但 过 一会儿，你 就 习惯 了。 | But after a while, you just get used to it. |
-| 6 | 受益 最 多 的 是 每个人，真的——它 让 那 城市 更 干净。 | The people who benefit most are everyone, really — it keeps the city cleaner. |
-| 7 | 我 喜欢 它 的地方 是 它 让 人们 停下、想想 那 废物。 | What I like about it is that it makes people stop and think about waste. |
-| 8 | 我 儿子 在 学校 也 学 了 它，所以 他 提醒 我们 好好 分类。 | My son learned it at school too, so he reminds us to sort things properly. |
-| 9 | 说句公道话，不 是 每个人 都 遵守，但 大多数人 尽 他们 那份 力。 | To be fair, not everyone follows it, but most people do their bit. |
-| 10 | 一开始 我 老是 分 错 桶，而 我 老婆 会 笑 着 帮 我 改。 | At first I got the bins wrong all the time, and my wife would laugh and fix it. |
-| 11 | 现在 连 我 儿子 都 来 检查 我。 | Now even my son checks up on me. |
+| 4 | 一开始，说实话，它 感觉 像 一个 麻烦——我 老 忘 带 袋子、然后 得 付钱。 | At first, honestly, it felt like a hassle — I kept forgetting my bags and having to pay. |
+| 5 | 但 过 一会儿，你 就 习惯 了 在 兜里 备 一个 布袋子。 | But after a while, you just get used to keeping a cloth bag in your pocket. |
+| 6 | 受益 最 多 的 是 每个人，真的——它 减少 了 那 一大堆 塑料 垃圾。 | The people who benefit most are everyone, really — it cuts down on all that plastic waste. |
+| 7 | 我 喜欢 它 的地方 是 它 让 人们 在 抓 一个 袋子 前 停下、想想。 | What I like about it is that it makes people stop and think before they grab a bag. |
+| 8 | 连 我 儿子 都 知道 它——他们 在 他 幼儿园 聊 这个——所以 他 提醒 我们 带 袋子。 | Even my son knows about it — they talk about it at his kindergarten — so he reminds us to bring our bags. |
+| 9 | 说句公道话，不 是 每个人 都 遵守，但 大多数人 尽 他们 那份 力。 | To be fair, not everyone follows it, but most people do their part. |
+| 10 | 一开始 我 老 忘 带 袋子，而 我 老婆 会 笑 着 递 给 我 一个 备用 的。 | At first I forgot my bags all the time, and my wife would laugh and hand me a spare. |
+| 11 | 现在 我 每 件 外套 里 都 放 一个 折好 的 袋子，所以 再也 不会 忘。 | Now I keep a folded bag in every coat, so I never forget again. |
 | 12 | 所以 总的来说，我 觉得 它 是 一条 真的 管用 的 简单 法律。 | So overall, I reckon it's a simple law that really works. |
 
 ### ②P2 整段（shadow）
 
-> The law I'd like to talk about is the rubbish-sorting rule in big cities here. Basically, you have to separate your waste — food, recycling, and general rubbish. I first heard about it from my wife, who keeps up with this kind of thing. At first, honestly, it felt like a hassle — nobody knew which bin was which. But after a while, you just get used to it. The people who benefit most are everyone, really — it keeps the city cleaner. What I like about it is that it makes people stop and think about waste. My son learned it at school too, so he reminds us to sort things properly. To be fair, not everyone follows it, but most people do their bit. At first I got the bins wrong all the time, and my wife would laugh and fix it. Now even my son checks up on me. So overall, I reckon it's a simple law that really works.
+> The law I'd like to talk about is the one where shops can't give out free plastic bags anymore. Basically, if you want a bag at the supermarket, you have to pay a few cents for it, or bring your own. I first heard about it from my wife, who keeps up with this kind of thing. At first, honestly, it felt like a hassle — I kept forgetting my bags and having to pay. But after a while, you just get used to keeping a cloth bag in your pocket. The people who benefit most are everyone, really — it cuts down on all that plastic waste. What I like about it is that it makes people stop and think before they grab a bag. Even my son knows about it — they talk about it at his kindergarten — so he reminds us to bring our bags. To be fair, not everyone follows it, but most people do their part. At first I forgot my bags all the time, and my wife would laugh and hand me a spare. Now I keep a folded bag in every coat, so I never forget again. So overall, I reckon it's a simple law that really works.
 
-> 🔁 **复用**：句3 wife 信息来源(新06)；句4 `hassle`(老20-Q2)；句7 `makes people stop and think`(新06风)；句9 `To be fair`+`do their bit`；句10 `So overall`+`I reckon`。
+> 🔁 **复用**：句3 wife 信息来源(新06)；句4 `hassle`(老20)；句5 `cloth bag`(新27)；句7 `makes people stop and think`(新06风)；句9 `To be fair`+`do their part`；句12 `So overall`+`I reckon`。**改限塑令**：垃圾分类→现行禁止无偿提供一次性塑料袋(超市付钱/自带)，对齐新27。
 
 ### 句型/模板（复用池）
 
-- `The law I'd like to talk about is …` · `I first heard about it from my wife, who keeps up with this kind of thing` · `it felt like a hassle` · `What I like about it is that it makes people stop and think` · `To be fair, … but most people do their bit` · `So overall, I reckon …`
+- `The law I'd like to talk about is …` · `I first heard about it from my wife, who keeps up with this kind of thing` · `it felt like a hassle` · `What I like about it is that it makes people stop and think` · `To be fair, … but most people do their part` · `So overall, I reckon …`
 
 ---
 
@@ -2597,78 +2597,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个，真的。 | Quite a few, really. |
-| 2 | 像 穿 校服、准时 到、还有 上课 不 用 手机。 | Things like wearing a uniform, turning up on time, and no phones in class. |
-| 3 | 它们 大多 关于 保持 秩序、还 尊重 地 待人。 | They're mostly about keeping order and treating people with respect. |
-| 4 | 所以 它 归结到 保持 事情 公平、平静。 | So it comes down to keeping things fair and calm. |
+| 2 | 有 那些 明摆着 的——穿 校服、准时 到、上课 不 用 手机。 | There's the obvious stuff — wearing a uniform, turning up on time, no phones in class. |
+| 3 | 它们 大多 其实 是 为了 让 班级 安静，好 让 每个人 真的 能 学 东西。 | Most of them are really about keeping the class calm so everyone can actually learn. |
+| 4 | 连 我 儿子 幼儿园 都 在 上课 前 让 那些 小家伙 排 好 队 安静 下来。 | Even at my son's kindergarten, they line the little ones up before class to settle them down. |
+| 5 | 所以 真的，它 就 是 关于 保持 事情 有 秩序、公平。 | So really, it's just about keeping things orderly and fair. |
 
-> Quite a few, really. Things like wearing a uniform, turning up on time, and no phones in class. They're mostly about keeping order and treating people with respect. So it comes down to keeping things fair and calm.
+> Quite a few, really. There's the obvious stuff — wearing a uniform, turning up on time, no phones in class. Most of them are really about keeping the class calm so everyone can actually learn. Even at my son's kindergarten, they line the little ones up before class to settle them down. So really, it's just about keeping things orderly and fair.
 
-> 🔁 **复用**：`turning up on time … no phones in class`(新06-Q1)+`comes down to`。
+> 🔁 **复用**：`turning up on time … no phones in class`(新06-Q1)。**⑦升级**：机制(规则是为让班级安静好学习)+具体画面(儿子幼儿园排队安静)。**LAND 换菜单**：`So really, it's just about…`(避免 comes down to 重复)；Muye=幼儿园对齐。
 
 **Q2. Do you think school rules are important?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 规则 早早 教 孩子 纪律，（那 为 往后 打下 基础）。 | Rules teach kids discipline early, which sets them up for later. |
-| 3 | 而 完全 没有 规则，一个 班 会 是 一片 混乱。 | Whereas with no rules at all, a class would be chaos. |
-| 4 | 所以 它 归结到 保持 简单、公平。 | So it comes down to keeping it simple and fair. |
+| 2 | 规则 早早 教 孩子 纪律——像 守时、尊重 别人，这些 都 会 带 进 工作 和 生活。 | Rules teach kids discipline early — things like being on time and respecting others carry over into work and life. |
+| 3 | 想象 一个 完全 没 规则 的 班——没人 听 得 到 老师，想 学 的 孩子 就 遭殃。 | Imagine a class with no rules at all — nobody could hear the teacher, and the kids who want to learn would suffer. |
+| 4 | 话虽如此，规则 该 简单、还 说得通，不 是 为了 管 而 管。 | That said, the rules should be simple and make sense, not just control for no reason. |
+| 5 | 所以 最 主要 的 是 保持 它们 简单、公平。 | So the main thing is to keep them simple and fair. |
 
-> Absolutely, I think so. Rules teach kids discipline early, which sets them up for later. Whereas with no rules at all, a class would be chaos. So it comes down to keeping it simple and fair.
+> Absolutely, I think so. Rules teach kids discipline early — things like being on time and respecting others carry over into work and life. Imagine a class with no rules at all — nobody could hear the teacher, and the kids who want to learn would suffer. That said, the rules should be simple and make sense, not just control for no reason. So the main thing is to keep them simple and fair.
 
-> 🔁 **复用**：`sets them up`(新11-Q5)+`whereas`+`chaos`(新06-Q5)+`keeping it simple and fair`(新06-Q1)。
+> 🔁 **复用**：`whereas`→`Imagine…`+`chaos`意(新06-Q5)+`That said`+`keeping it simple and fair`(新06-Q1)。**⑦升级**：机制(纪律带进工作生活)+具体画面(没规则的班没人听得到老师/想学的遭殃)+让步(不是为管而管)。
 
 **Q3. Are children unhappy with the school rules?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 有时候，是的。 | Sometimes, yeah. |
-| 2 | 孩子 常常 觉得 规则 不 公平，尤其 严 的。 | Kids often think rules are unfair, especially strict ones. |
-| 3 | 而 一旦 他们 大 一点，他们 通常 看到 那 意义。 | Whereas once they're older, they usually see the point. |
-| 4 | 所以 它 归结到 解释 为什么 一条 规则 要紧。 | So it comes down to explaining why a rule matters. |
+| 2 | 孩子 常常 觉得 那些 严 的 规则 不 公平——比如 课间 不 让 玩 手机。 | Kids often think the strict rules are unfair — like not being allowed on their phones at break. |
+| 3 | 但 一旦 他们 大 一点，他们 通常 就 明白 那些 规则 为啥 在 那儿。 | But once they're a bit older, they usually get why the rules were there. |
+| 4 | 一个 老师 解释 那 理由、而不 是 只 说 "我 说 了 算"，真的 会 有 帮助。 | It really helps when a teacher explains the reason, instead of just saying "because I said so". |
+| 5 | 所以 它 归结到 解释 为什么 一条 规则 要紧。 | So it comes down to explaining why a rule matters. |
 
-> Sometimes, yeah. Kids often think rules are unfair, especially strict ones. Whereas once they're older, they usually see the point. So it comes down to explaining why a rule matters.
+> Sometimes, yeah. Kids often think the strict rules are unfair — like not being allowed on their phones at break. But once they're a bit older, they usually get why the rules were there. It really helps when a teacher explains the reason, instead of just saying "because I said so". So it comes down to explaining why a rule matters.
 
-> 🔁 **复用**：`whereas`+`see the point`(新03-Q1)+`explaining why a rule matters`(新06-Q6)。
+> 🔁 **复用**：`see the point`意(新03-Q1)+`explaining why a rule matters`(新06-Q6)。**⑦升级**：具体画面(课间不让玩手机)+自然(老师别只说"我说了算")。
 
 **Q4. How can parents and teachers help children understand and follow rules?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 靠 以身作则，我会说。 | Mainly by example, I'd say. |
-| 2 | 孩子 抄 他们 看到的，所以 大人 也 得 遵守 规则。 | Kids copy what they see, so adults have to follow the rules too. |
-| 3 | 此外，解释 那 理由 比 只是 吼 管用。 | Plus, explaining the reason works better than just shouting. |
-| 4 | 所以 它 归结到 树立 一个 好 榜样。 | So it comes down to setting a good example. |
+| 2 | 孩子 抄 他们 看到的，所以 如果 大人 破坏 规则，孩子 也 会。 | Kids copy what they see, so if the adults break the rules, the kids will too. |
+| 3 | 解释 理由 也 有 帮助——一个 孩子 如果 明白 一条 规则 为啥 在 那儿，就 更 可能 遵守。 | It also helps to explain the reason — a kid is far more likely to follow a rule if they get why it's there. |
+| 4 | 吼 也许 能 管 用 一分钟，但 它 其实 什么 都 没 教 会 他们。 | Shouting might work for a minute, but it doesn't really teach them anything. |
+| 5 | 所以 比 什么 都 重要 的 是 树立 一个 好 榜样。 | So more than anything, it's about setting a good example. |
 
-> Mainly by example, I'd say. Kids copy what they see, so adults have to follow the rules too. Plus, explaining the reason works better than just shouting. So it comes down to setting a good example.
+> Mainly by example, I'd say. Kids copy what they see, so if the adults break the rules, the kids will too. It also helps to explain the reason — a kid is far more likely to follow a rule if they get why it's there. Shouting might work for a minute, but it doesn't really teach them anything. So more than anything, it's about setting a good example.
 
-> 🔁 **复用**：全套复用 新06-Q6（`Mainly by example` / `Kids copy what they see` / `setting a good example`）。
+> 🔁 **复用**：新06-Q6（`Mainly by example` / `Kids copy what they see` / `setting a good example`）。**⑦升级**：机制(明白为啥就更愿遵守)+自然对比(吼管一分钟但啥都没教会)。
 
 **Q5. What are the rules people should obey at work?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几条 基本的，真的。 | A few basic ones, really. |
-| 2 | 像 准时 到、赶 上 截止日期、还 尊重 人。 | Things like turning up on time, meeting deadlines, and being respectful. |
-| 3 | 我 的 工作 也 有 几条，尤其 关于 小心 处理 数据。 | My job's got a few too, especially around handling data carefully. |
-| 4 | 所以 它 归结到 保持 专业、公平。 | So it comes down to keeping things professional and fair. |
+| 2 | 像 准时 到、赶 上 你的 截止日期、还 跟 同事 处 好。 | Things like turning up on time, meeting your deadlines, and getting along with your colleagues. |
+| 3 | 在 我 的 工作 里，还 有 一条 大 的 关于 小心 处理 数据——一个 粗心 的 错 就 能 惹 出 真 麻烦。 | In my job, there's also a big one about handling data carefully — one careless mistake can cause real trouble. |
+| 4 | 大多 其实 是 关于 尊重——做 好 你 那份、别 给 团队 惹 麻烦。 | Most of it is really about respect — doing your share and not causing problems for the team. |
+| 5 | 所以 它 是 关于 保持 专业、公平。 | So it's about keeping things professional and fair. |
 
-> A few basic ones, really. Things like turning up on time, meeting deadlines, and being respectful. My job's got a few too, especially around handling data carefully. So it comes down to keeping things professional and fair.
+> A few basic ones, really. Things like turning up on time, meeting your deadlines, and getting along with your colleagues. In my job, there's also a big one about handling data carefully — one careless mistake can cause real trouble. Most of it is really about respect — doing your share and not causing problems for the team. So it's about keeping things professional and fair.
 
-> 🔁 **复用**：`A few basic ones, really`(新06-Q1)+软工data(新16)+`comes down to`。
+> 🔁 **复用**：`A few basic ones, really`(新06-Q1)+软工data(新16)+`comes down to`。**⑦升级**：具体画面(一个粗心错惹真麻烦)+机制(归结到尊重:做好那份/别添乱)。
 
 **Q6. What is the purpose of punishment?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 主要 是 让 人 不敢 破坏 规则，我会说。 | Mainly to put people off breaking the rules, I'd say. |
-| 2 | 如果 没有 后果，有些人 就 为所欲为。 | If there's no consequence, some people just do whatever they want. |
-| 3 | 但 说句公道话，它 该 教 一个 教训，不 只是 惩罚。 | But to be fair, it should teach a lesson, not just punish. |
-| 4 | 所以 它 归结到 纠正 行为，不是 报复。 | So it comes down to fixing behaviour, not revenge. |
+| 1 | 主要 是 阻止 人 破坏 规则，我会说。 | Mainly to stop people breaking the rules, I'd say. |
+| 2 | 如果 没有 后果，有些人 就 会 为所欲为。 | If there's no consequence, some people will just do whatever they want. |
+| 3 | 但 说句公道话，好的 惩罚 该 教 一个 教训，不 只是 让 人 难受。 | But to be fair, good punishment should teach a lesson, not just make someone suffer. |
+| 4 | 比如，如果 一个 孩子 作弊，让 他 老老实实 重做 一遍，比 冲 他 吼 更 有 帮助。 | For example, if a kid cheats, making them redo the work honestly helps more than just shouting at them. |
+| 5 | 所以 到头来，它 是 关于 纠正 行为，不是 报复。 | So at the end of the day, it's about fixing the behaviour, not revenge. |
 
-> Mainly to put people off breaking the rules, I'd say. If there's no consequence, some people just do whatever they want. But to be fair, it should teach a lesson, not just punish. So it comes down to fixing behaviour, not revenge.
+> Mainly to stop people breaking the rules, I'd say. If there's no consequence, some people will just do whatever they want. But to be fair, good punishment should teach a lesson, not just make someone suffer. For example, if a kid cheats, making them redo the work honestly helps more than just shouting at them. So at the end of the day, it's about fixing the behaviour, not revenge.
 
-> 🔁 **复用**：`Mainly … I'd say`+`to be fair`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`to be fair`+`comes down to`。**⑦升级**：`put off`→`stop`(常用词)+具体画面(作弊的孩子重做比吼有用)。
 
 **P3 句型/模板（复用池）**：`Quite a few, really` / `turning up on time` / `comes down to keeping things fair` · `Absolutely, I think so` / `sets them up` / `whereas … chaos` / `keeping it simple and fair` · `Sometimes, yeah` / `see the point` / `explaining why a rule matters` · `Mainly by example, I'd say` / `Kids copy what they see` / `setting a good example` · `A few basic ones, really` · `Mainly to put people off …, I'd say` / `to be fair`。
 
@@ -3160,7 +3166,7 @@
 >
 > **Cue**: 什么法 / 为何要守 / 是否受欢迎 / 感受 · 题型 Hypothetical
 >
-> 🔁 **整卡复用自**：新06 保护绿地法(The law I'd like to introduce / What worries me / push back … comes down to cost) + 老26(quiet park near our home) + wife + 新22(get used to it/do their bit/simple law that works)。
+> 🔁 **整卡复用自**：新06 保护绿地法(The law I'd like to introduce / What worries me / push back … comes down to cost) + 老26(quiet park near our home) + wife + 新22(get used to it/do their part/simple law that works)。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
@@ -3251,12 +3257,12 @@
 |---|---|---|
 | 1 | 说实话，它 是 两者。 | Honestly, it's both. |
 | 2 | 政府 定 规则 和 那些 大 目标。 | Governments set the rules and the big targets. |
-| 3 | 而 个人 得 日常 尽 他们 那份 力，比如 分类 垃圾。 | Whereas individuals have to do their bit day to day, like sorting rubbish. |
+| 3 | 而 个人 得 日常 尽 他们 那份 力，比如 分类 垃圾。 | Whereas individuals have to do their part day to day, like sorting rubbish. |
 | 4 | 所以 它 归结到 每个人 都 出 一份 力。 | So it comes down to everyone playing their part. |
 
-> Honestly, it's both. Governments set the rules and the big targets. Whereas individuals have to do their bit day to day, like sorting rubbish. So it comes down to everyone playing their part.
+> Honestly, it's both. Governments set the rules and the big targets. Whereas individuals have to do their part day to day, like sorting rubbish. So it comes down to everyone playing their part.
 
-> 🔁 **复用**：`Honestly, it's both`+government(老20-Q5)+`whereas`+`do their bit`(新22)+`comes down to`。
+> 🔁 **复用**：`Honestly, it's both`+government(老20-Q5)+`whereas`+`do their part`(新22)+`comes down to`。
 
 **Q6. Do you think people are willing to pay more for eco-friendly products?**
 
@@ -3271,7 +3277,7 @@
 
 > 🔁 **复用**：`To some extent, yeah`+`whereas`+`to be fair`+`comes down to`。
 
-**P3 句型/模板（复用池）**：`Massively, I reckon` / `keeping up with the times` · `Quite a few, really` / `turning up on time` · `I doubt it, honestly` / `finding common ground` · `A few good ones, really` / `On top of that` · `Honestly, it's both` / `do their bit` / `everyone playing their part` · `To some extent, yeah` / `comes down to how much people can afford`。
+**P3 句型/模板（复用池）**：`Massively, I reckon` / `keeping up with the times` · `Quite a few, really` / `turning up on time` · `I doubt it, honestly` / `finding common ground` · `A few good ones, really` / `On top of that` · `Honestly, it's both` / `do their part` / `everyone playing their part` · `To some extent, yeah` / `comes down to how much people can afford`。
 
 ---
 
