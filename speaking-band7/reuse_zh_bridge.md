@@ -5738,78 +5738,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 靠 以身作则，我会说。 | Mainly by leading by example, I'd say. |
-| 2 | 如果 一个 老板 努力 工作、还 表扬 好 工作，人们 更 卖力 推。 | If a boss works hard and praises good work, people push harder. |
-| 3 | 此外，认可 比 只是 钱 更 要紧。 | Plus, recognition matters more than just money. |
-| 4 | 所以 它 归结到 让 人 感觉 被 重视。 | So it comes down to making people feel valued. |
+| 2 | 如果 一个 老板 努力 工作、还 真心 表扬 好 工作，人们 自然 更 卖力。 | If a boss works hard and actually praises good work, people naturally push harder. |
+| 3 | 一句 当着 团队 面 的 "干得 好"，可能 比 一个 小 奖金 更 有 分量。 | A quick "well done" in front of the team can mean more than a small bonus. |
+| 4 | 除此之外，人们 想 感觉 他们的 工作 真的 有 意义。 | On top of that, people want to feel their work actually matters. |
+| 5 | 所以 真的，它 是 关于 让 人 感觉 被 重视。 | So really, it's about making people feel valued. |
 
-> Mainly by leading by example, I'd say. If a boss works hard and praises good work, people push harder. Plus, recognition matters more than just money. So it comes down to making people feel valued.
+> Mainly by leading by example, I'd say. If a boss works hard and actually praises good work, people naturally push harder. A quick "well done" in front of the team can mean more than a small bonus. On top of that, people want to feel their work actually matters. So really, it's about making people feel valued.
 
-> 🔁 **复用**：`Mainly by … example, I'd say`(新06-Q6)+`Plus`+`not just money`(老20)+`comes down to`。
+> 🔁 **复用**：`Mainly by … example, I'd say`(新06-Q6)+`On top of that`。**⑦升级**：机制(真心表扬人更卖力)+具体画面(当团队面一句"干得好"比小奖金有分量)。**LAND**：`So really, it's about…`。
 
 **Q2. When should parents encourage their children?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 当 他们 就要 放弃，我会说。 | Mostly when they're about to give up, I'd say. |
-| 2 | 孩子 常常 怀疑 自己、在 他们 甚至 试过 之前。 | Kids often doubt themselves before they've even tried. |
-| 3 | 而 对 的 时间 一个 小 推动 真的 算。 | Whereas a little push at the right time really counts. |
-| 4 | 所以 它 归结到 知道 什么时候 介入。 | So it comes down to knowing when to step in. |
+| 2 | 孩子 常常 在 他们 甚至 试过 之前 就 怀疑 自己——一个 坏 结果 他们 就 想 退出。 | Kids often doubt themselves before they've even tried — one bad result and they want to quit. |
+| 3 | 在 对 的 时候 一个 小 推动，真的 能 决定 一切。 | A little push at the right moment can make all the difference. |
+| 4 | 我 见过 一个 孩子 差点 放弃 某件 事，结果 就 一句 鼓励 把 它 扭 了 过来。 | I've seen a kid almost give up on something, only for one bit of encouragement to turn it around. |
+| 5 | 所以 关键 是 知道 什么时候 介入。 | So the key is knowing when to step in. |
 
-> Mostly when they're about to give up, I'd say. Kids often doubt themselves before they've even tried. Whereas a little push at the right time really counts. So it comes down to knowing when to step in.
+> Mostly when they're about to give up, I'd say. Kids often doubt themselves before they've even tried — one bad result and they want to quit. A little push at the right moment can make all the difference. I've seen a kid almost give up on something, only for one bit of encouragement to turn it around. So the key is knowing when to step in.
 
-> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`push`(新15)+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`push`(新15)。**⑦升级**：机制(一个坏结果就想退出)+具体画面(一句鼓励把它扭过来)。**⑩**：通用"一个孩子"非本卡老婆例。**LAND**：`So the key is…`。
 
 **Q3. What kind of encouragement should parents give?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 表扬 努力，不是 结果，我会说。 | Mainly praising effort, not results, I'd say. |
-| 2 | 如果 你 只 在 他们 赢 时 欢呼，他们 会 害怕 失败。 | If you only cheer when they win, they'll dread failing. |
-| 3 | 而 表扬 那 努力 建立 真正的 自信。 | Whereas praising the effort builds real confidence. |
-| 4 | 所以 它 归结到 鼓励 他们 一直 试。 | So it comes down to encouraging them to keep trying. |
+| 2 | 如果 你 只 在 他们 赢 时 欢呼，他们 会 害怕 失败。 | If you only cheer when they win, they'll be scared of failing. |
+| 3 | 而 表扬 那 努力——哪怕 他们 输 了——建立 真正的 自信。 | Whereas praising the effort — even when they lose — builds real confidence. |
+| 4 | 一个 觉得 失败 也 没事 的 孩子，会 一直 尝试 新 东西。 | A kid who feels safe to fail will keep trying new things. |
+| 5 | 所以 最 主要 的 是 鼓励 他们 一直 试。 | So the main thing is encouraging them to keep trying. |
 
-> Mainly praising effort, not results, I'd say. If you only cheer when they win, they'll dread failing. Whereas praising the effort builds real confidence. So it comes down to encouraging them to keep trying.
+> Mainly praising effort, not results, I'd say. If you only cheer when they win, they'll be scared of failing. Whereas praising the effort — even when they lose — builds real confidence. A kid who feels safe to fail will keep trying new things. So the main thing is encouraging them to keep trying.
 
-> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`builds … confidence`(新11-Q5)+`keep trying`(老10-Q2)+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`builds … confidence`(新11-Q5)+`keep trying`(老10-Q2)。**⑦升级**：机制(只赢时欢呼→怕失败)+推论(觉得失败没事的孩子一直尝试)。`dread`→`be scared of`(常用词)。**LAND**：`So the main thing is…`。
 
 **Q4. Do you think some people are better than others at persuading?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 有些人 就是 把 人 读得 好、还 知道 该 说 什么。 | Some people just read others well and know what to say. |
-| 3 | 而 另一些 显得 咄咄逼人。 | Whereas others come across as pushy. |
-| 4 | 但 它 也 归结到 练习——你 越 做 越 好。 | But it comes down to practice too — you get better at it. |
+| 2 | 有些人 就是 把 人 读得 好、还 确切 知道 该 说 什么。 | Some people just read others well and know exactly what to say. |
+| 3 | 而 另一些 逼 得 太 紧，就 显得 咄咄逼人。 | Whereas others push too hard and just seem pushy. |
+| 4 | 话虽如此，它 也 是 一个 你 能 练 的 本事——你 越 做 越 好。 | That said, it's also a skill you can practise — you get better the more you do it. |
+| 5 | 所以 它 一部分 是 天生、一部分 是 练习。 | So it's partly natural and partly practice. |
 
-> Absolutely, I think so. Some people just read others well and know what to say. Whereas others come across as pushy. But it comes down to practice too — you get better at it.
+> Absolutely, I think so. Some people just read others well and know exactly what to say. Whereas others push too hard and just seem pushy. That said, it's also a skill you can practise — you get better the more you do it. So it's partly natural and partly practice.
 
-> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`come across as`(新22)+`pushy`(老24)+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`pushy`(老24)。**⑦升级**：对比(逼太紧显咄咄逼人)+让步(也是能练的本事)。`come across as`→`seem`(常用词)。**LAND**：`So it's partly natural and partly practice`(无 comes down to)。
 
 **Q5. Should children do everything their parents ask them to do?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 不 总是，不。 | Not always, no. |
-| 2 | 他们 该 听 大多数 合理的 事，因为 父母 通常 最 懂。 | They should listen to most reasonable things, since parents usually know best. |
-| 3 | 而 盲目 服从 不 健康——孩子 需要 为 自己 想。 | Whereas blindly obeying isn't healthy — kids need to think for themselves. |
-| 4 | 所以 它 归结到 一点 平衡。 | So it comes down to a bit of balance. |
+| 2 | 他们 该 听 大多数 合理的 事，因为 父母 通常 确实 最 懂。 | They should listen to most reasonable things, since parents usually do know best. |
+| 3 | 但 盲目 服从 一切 不 健康——孩子 需要 学会 为 自己 想。 | But blindly obeying everything isn't healthy — kids need to learn to think for themselves. |
+| 4 | 如果 他们 从不 质疑 任何 事，往后 就 会 很 难 自己 做 决定。 | If they never question anything, they'll struggle to make their own decisions later. |
+| 5 | 所以 关键 是 一点 平衡。 | So the key is a bit of balance. |
 
-> Not always, no. They should listen to most reasonable things, since parents usually know best. Whereas blindly obeying isn't healthy — kids need to think for themselves. So it comes down to a bit of balance.
+> Not always, no. They should listen to most reasonable things, since parents usually do know best. But blindly obeying everything isn't healthy — kids need to learn to think for themselves. If they never question anything, they'll struggle to make their own decisions later. So the key is a bit of balance.
 
-> 🔁 **复用**：`Not always, no`+`know best`(新10-Q3)+`whereas`+`think for themselves`(新16)+`comes down to`。
+> 🔁 **复用**：`Not always, no`+`know best`(新10-Q3)+`think for themselves`(新16)。**⑦升级**：转折(盲从不健康)+推论(从不质疑往后难自己做决定)。**LAND**：`So the key is…`。
 
 **Q6. How can employers encourage their staff?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 方式，真的。 | A few ways, really. |
-| 2 | 除了 一份 像样的 薪水，人们 想要 真正的 机会 [去]成长。 | Beyond a decent salary, people want real chances to grow. |
-| 3 | 除此之外，灵活的 工时 和 被 当作 一个 人 对待 要紧。 | On top of that, flexible hours and being treated like a person matter. |
-| 4 | 所以 它 归结到 不 止 报酬。 | So it comes down to more than just pay. |
+| 2 | 除了 一份 像样的 薪水，人们 想要 真正的 机会 [去]成长 和 学习。 | Beyond a decent salary, people want real chances to grow and learn. |
+| 3 | 除此之外，灵活的 工时 和 被 当作 一个 人 对待 顶 大 用。 | On top of that, flexible hours and being treated like a person go a long way. |
+| 4 | 一个 觉得 被 尊重 的人，会 比 一个 觉得 自己 只是 个 编号 的人 付出 多 得 多。 | Someone who feels respected will put in far more than someone who feels like just a number. |
+| 5 | 所以 它 归结到 不 止 报酬。 | So it comes down to more than just pay. |
 
-> A few ways, really. Beyond a decent salary, people want real chances to grow. On top of that, flexible hours and being treated like a person matter. So it comes down to more than just pay.
+> A few ways, really. Beyond a decent salary, people want real chances to grow and learn. On top of that, flexible hours and being treated like a person go a long way. Someone who feels respected will put in far more than someone who feels like just a number. So it comes down to more than just pay.
 
-> 🔁 **复用**：`A few ways, really`+`On top of that`+`comes down to`+`not just money`(老20)。
+> 🔁 **复用**：`A few ways, really`+`On top of that`+`not just money`(老20)。**⑦升级**：具体(灵活工时/被当人对待)+对比画面(被尊重 vs 觉得自己只是个编号)。**LAND**：`comes down to`(本卡唯一)。
 
 **P3 句型/模板（复用池）**：`Mainly by leading by example, I'd say` / `not just money` · `Mostly when they're about to give up, I'd say` / `a little push` · `Mainly praising effort, not results, I'd say` / `builds real confidence` · `Absolutely, I think so` / `come across as pushy` · `Not always, no` / `know best` / `think for themselves` · `A few ways, really` / `more than just pay`。
 
