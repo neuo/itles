@@ -3049,41 +3049,41 @@
 
 ---
 
-## P2-新26 · A time you changed an important opinion — 育儿观转变（Event/Opinion）  〔复用生成〕
+## P2-新26 · A time you changed an important opinion — 职业观转变·想做独立研究者（Event/Opinion）  〔复用生成 · 改职业观〕
 
 > **📋 P2 题面**：Describe a time when you changed an important opinion of yours.
 > *You should say:* When you changed your opinion · What the original opinion was · Why you changed it · And explain how you felt about the experience
 >
 > **Cue**: 何时改的 / 原来的想法 / 为何改 / 感受 · 题型 Event/Opinion
 >
-> 🔁 **整卡复用自**：son/Muye + wife + 新15(pushing/think for themselves) + 新12(Looking back, I'm really glad) + 老05(bring us closer)。
+> 🔁 **整卡复用自**：新24 独立研究梦(`I'm a software engineer` / `build something of my own instead of just working for a company` / `chip away at it a little every day` / `something to work towards` / `no doubt it's worth it`) + 新26 opinion 框架(`changed my mind` / `came round to the idea` / `Looking back, I'm really glad`)。**职业观转变=具体设定**：以前想高薪稳定工作 → 改成想做独立研究者（想做有趣的事 + 中国科技年龄歧视/工作不稳 + 要能养活自己）。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个时刻 是 当 我 改变 了 我 对 怎么 养 我 儿子 的 想法。 | The time I'd like to talk about is when I changed my mind about how to raise my son. |
-| 2 | 当 Muye 小 的时候，我 以前 挺 严——我 觉得 使劲 逼 他 是 那个 办法。 | When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. |
-| 3 | 我 会 让 他 一遍 一遍 练 东西，即使 当 他 不 想。 | I'd make him practise things over and over, even when he didn't want to. |
-| 4 | 但 随 时间，我 注意到 他 变 得 有压力、还 失去 兴趣。 | But over time, I noticed he was getting stressed and losing interest. |
-| 5 | 真正 改变 我 想法 的 是 看着 我 老婆 跟 他 相处。 | What really changed my mind was watching my wife with him. |
-| 6 | 她 放松 得 多——她 让 他 用 他 自己的 方式 试、还 为 自己 学。 | She's much more relaxed — she lets him try things his own way and learn for himself. |
-| 7 | 说实话，一旦 我 松 了 手，他 其实 开始 更 享受 事情。 | Honestly, once I backed off, he actually started enjoying things more. |
-| 8 | 所以 我 转 到 那个 想法：孩子 学 得 最好、当 他们 不 被 逼。 | So I came round to the idea that kids learn best when they're not forced. |
-| 9 | 回头看，我 真的 庆幸 我 改 了 我的 方式。 | Looking back, I'm really glad I changed my approach. |
-| 10 | 现在 我 让 他 自己 选 爱好，而 他 其实 自己 一直 坚持 画画。 | Now I let him pick his own hobbies, and he's actually stuck with drawing on his own. |
-| 11 | 说实话，他 看起来 更 开心，我 也 是。 | Honestly, he seems happier, and so am I. |
-| 12 | 它 完全 改变 了 我们 现在 有 多 亲近。 | It completely changed how close we are now. |
+| 1 | 我想聊的那个时刻 是 当 我 改变 了 我 对 我 想要 什么样 职业 的 想法。 | The time I'd like to talk about is when I changed my mind about what kind of career I wanted. |
+| 2 | 好些年，我 以前 觉得 那 目标 只是 在 一家 大 公司 找 一个 高薪、稳定 的 工作。 | For years, I used to think the goal was simply to get a high-paying, stable job at a big company. |
+| 3 | 我 是 一个 软件 工程师，所以 一份 稳妥 的 公司 工作 感觉 像 那个 显而易见 的 路。 | I'm a software engineer, so a safe corporate job felt like the obvious path. |
+| 4 | 但 在 过去 这 几年，我 的 看法 慢慢 变 了。 | But over the past couple of years, my view slowly changed. |
+| 5 | 一部分 是 因为 我 真的 很 想 做 我 自己 的 有趣 的 事，而不是 只 给 一家 公司 打工。 | Part of it is that I really want to do my own interesting work, instead of just working for a company. |
+| 6 | 而 说实话，在 中国 科技 行业 有 真的 年龄 歧视——一旦 你 三十五 左右，工作 远 不 像 看起来 那么 稳。 | And honestly, in China there's real age discrimination in tech — once you're around thirty-five, jobs aren't nearly as secure as they look. |
+| 7 | 那 让 我 意识到 我 得 能 养活 自己，不 依赖 一个 雇主。 | That made me realise I need to be able to support myself, not depend on one employer. |
+| 8 | 所以 我 转 到 那个 想法：成为 一个 独立 研究者、建 我 自己 的 东西。 | So I came round to the idea of becoming an independent researcher, building something of my own. |
+| 9 | 为了 到 那儿，我 知道 我 得 每一天 啃 掉 一点点，在 我 工作 之余。 | To get there, I know I have to chip away at it a little every day, alongside my job. |
+| 10 | 回头看，我 真的 庆幸 我 改 了 想法——它 给 了 我 一个 [去]努力 的 目标。 | Looking back, I'm really glad I changed my mind — it gave me something to work towards. |
+| 11 | 一开始 有点 吓人，但 现在 我 感觉 有 动力 多了。 | It was a bit scary at first, but now I feel much more motivated. |
+| 12 | 它 会 花 好些年，但 我 毫不 怀疑 它 值得。 | It'll take years, but I've no doubt it's worth it. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I changed my mind about how to raise my son. When Muye was little, I used to be pretty strict — I thought pushing him hard was the way. I'd make him practise things over and over, even when he didn't want to. But over time, I noticed he was getting stressed and losing interest. What really changed my mind was watching my wife with him. She's much more relaxed — she lets him try things his own way and learn for himself. Honestly, once I backed off, he actually started enjoying things more. So I came round to the idea that kids learn best when they're not forced. Looking back, I'm really glad I changed my approach. Now I let him pick his own hobbies, and he's actually stuck with drawing on his own. Honestly, he seems happier, and so am I. It completely changed how close we are now.
+> The time I'd like to talk about is when I changed my mind about what kind of career I wanted. For years, I used to think the goal was simply to get a high-paying, stable job at a big company. I'm a software engineer, so a safe corporate job felt like the obvious path. But over the past couple of years, my view slowly changed. Part of it is that I really want to do my own interesting work, instead of just working for a company. And honestly, in China there's real age discrimination in tech — once you're around thirty-five, jobs aren't nearly as secure as they look. That made me realise I need to be able to support myself, not depend on one employer. So I came round to the idea of becoming an independent researcher, building something of my own. To get there, I know I have to chip away at it a little every day, alongside my job. Looking back, I'm really glad I changed my mind — it gave me something to work towards. It was a bit scary at first, but now I feel much more motivated. It'll take years, but I've no doubt it's worth it.
 
-> 🔁 **复用**：句2 `pushing`(新15)；句5 `What really changed my mind was`+wife；句6 `learn for himself`(新16 think for themselves)；句9 `Looking back, I'm really glad`(新12 逐字)；句10 `how close we are`(老05 bring us closer)。
+> 🔁 **复用**：句3 `I'm a software engineer`(新16/新24)；句5 `build something of my own instead of just working for a company`(新24 句3)；句8 `came round to the idea`(新26)+`independent researcher/building something of my own`(新24)；句9 `chip away at it a little every day, alongside my job`(新24 逐字)；句10 `Looking back, I'm really glad`(新12)+`something to work towards`(新24)；句12 `no doubt it's worth it`(新24 逐字)。**新素材仅**：高薪稳定工作/年龄歧视/养活自己=职业观转变的具体理由。
 
 ### 句型/模板（复用池）
 
-- `The time I'd like to talk about is when I changed my mind about …` · `I used to be pretty strict — I thought pushing him hard was the way` · `What really changed my mind was …` · `once I backed off, he actually started enjoying things more` · `Looking back, I'm really glad I changed my approach`
+- `The time I'd like to talk about is when I changed my mind about …` · `I used to think the goal was simply to get a … job` · `Part of it is that … instead of just working for a company` · `That made me realise I need to be able to support myself` · `I came round to the idea of …` · `Looking back, I'm really glad I changed my mind`
 
 ---
 
@@ -3094,78 +3094,80 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 挺 小，我会说。 | Pretty young, I'd say. |
-| 2 | 即使 小 孩子 也 有 强烈的 看法——我 儿子 大约 三岁 就 有 了。 | Even little kids have strong views — my son did by about three. |
-| 3 | 而 真正、深思熟虑的 意见 来 得 晚 一点，在 他们 青少年 时。 | Whereas real, considered opinions come a bit later, in their teens. |
-| 4 | 所以 它 归结到 你 说的 意见 是 指 什么。 | So it comes down to what you mean by an opinion. |
+| 2 | 即使 小 孩子 也 有 强烈的 看法——我 儿子 大约 三岁 就 对 吃的 和 玩具 有 明确 主意 了。 | Even little kids have strong views — my son had firm opinions about food and toys by about three. |
+| 3 | 而 真正、想 透 的 意见 来 得 晚 一点，等 他们 青少年、开始 质疑 事情 的时候。 | Whereas real, thought-out opinions come a bit later, once they're teenagers and start questioning things. |
+| 4 | 所以 真的，它 取决于 你 说的 意见 是 指 什么。 | So really, it depends on what you mean by an opinion. |
 
-> Pretty young, I'd say. Even little kids have strong views — my son did by about three. Whereas real, considered opinions come a bit later, in their teens. So it comes down to what you mean by an opinion.
+> Pretty young, I'd say. Even little kids have strong views — my son had firm opinions about food and toys by about three. Whereas real, thought-out opinions come a bit later, once they're teenagers and start questioning things. So really, it depends on what you mean by an opinion.
 
-> 🔁 **复用**：`… I'd say`+son+`whereas`+`comes down to`。
+> 🔁 **复用**：`… I'd say`+son+`whereas`。**⑦升级**：具体画面(三岁对吃的玩具有主意/青少年开始质疑)。**LAND**：`So really, it depends on…`。
 
 **Q2. Whose opinions are more important to children, their parents' or teachers'?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 取决于 那 年龄，真的。 | It depends on the age, really. |
-| 2 | 当 他们 小，大多 是 他们 父母，（他们 最 亲近的）。 | When they're little, it's mostly their parents, who they're closest to. |
-| 3 | 而 当 青少年，朋友 和 老师 开始 更 要紧。 | Whereas as teenagers, friends and teachers start to matter more. |
-| 4 | 所以 它 归结到 他们 在 哪个 阶段。 | So it comes down to which stage they're at. |
+| 2 | 当 他们 小，大多 是 他们 父母——孩子 最 亲近、最 会 模仿 的 就是 他们。 | When they're little, it's mostly their parents — they're the ones kids are closest to and copy. |
+| 3 | 但 一旦 到了 青少年，朋友 和 老师 开始 更 要紧，而 他们 听 父母 也 少 了 一点。 | But once they hit their teens, friends and teachers start to matter more, and they listen to their parents a bit less. |
+| 4 | 所以 最 主要 的 是 他们 在 哪个 阶段。 | So the main thing is which stage they're at. |
 
-> It depends on the age, really. When they're little, it's mostly their parents, who they're closest to. Whereas as teenagers, friends and teachers start to matter more. So it comes down to which stage they're at.
+> It depends on the age, really. When they're little, it's mostly their parents — they're the ones kids are closest to and copy. But once they hit their teens, friends and teachers start to matter more, and they listen to their parents a bit less. So the main thing is which stage they're at.
 
-> 🔁 **复用**：`It depends on … really`+`whereas`+`comes down to which stage`(新19-Q3)。
+> 🔁 **复用**：`It depends on … really`。**⑦升级**：机制(最亲近最会模仿)+转折(到青少年听父母少了)。**LAND**：`So the main thing is…`。
 
 **Q3. Do children communicate more with teachers or with parents?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 父母，我会说。 | Mostly parents, I'd say. |
-| 2 | 他们 每天 都 在 他们 身边，所以 它 很 自然。 | They're around them every day, so it's natural. |
-| 3 | 而 跟 老师，大多 关于 功课。 | Whereas with teachers, it's mostly about schoolwork. |
-| 4 | 所以 它 归结到 他们 跟 谁 花 最多 时间。 | So it comes down to who they spend the most time with. |
+| 2 | 他们 每天 都 在 父母 身边——吃饭、睡前、上学 路上——所以 就 很 自然 地 发生。 | They're around them every single day — meals, bedtime, the drive to school — so it just happens naturally. |
+| 3 | 而 跟 老师，大多 只 关于 功课，而且 只 在 上学 时间。 | Whereas with teachers, it's mostly about schoolwork, and only during school hours. |
+| 4 | 所以 真的，它 是 关于 他们 跟 谁 花 最多 时间。 | So really, it's about who they spend the most time with. |
 
-> Mostly parents, I'd say. They're around them every day, so it's natural. Whereas with teachers, it's mostly about schoolwork. So it comes down to who they spend the most time with.
+> Mostly parents, I'd say. They're around them every single day — meals, bedtime, the drive to school — so it just happens naturally. Whereas with teachers, it's mostly about schoolwork, and only during school hours. So really, it's about who they spend the most time with.
 
-> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`。**⑦升级**：具体画面(吃饭/睡前/上学路上)+对比(老师只在上学时间/只关于功课)。**LAND**：`So really, it's about…`。
 
 **Q4. Who do young people like to share opinions with?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 他们的 朋友，我会说。 | Mostly their friends, I'd say. |
-| 2 | 他们 在 一个 频道上，所以 它 感觉 轻松。 | They're on the same wavelength, so it feels easy. |
-| 3 | 而 跟 父母，他们 有时 担心 被 评判。 | Whereas with parents, they sometimes worry about being judged. |
-| 4 | 所以 它 归结到 他们 跟 谁 感觉 自在。 | So it comes down to who they feel comfortable with. |
+| 2 | 他们 在 一个 频道上——一样的 音乐、一样的 烦恼——所以 就 感觉 轻松。 | They're on the same wavelength — same music, same worries — so it just feels easy. |
+| 3 | 而 跟 父母，他们 有时 担心 被 评判、或 被 说教 一顿。 | Whereas with parents, they sometimes worry about being judged or getting a lecture. |
+| 4 | 所以 关键 是 他们 跟 谁 感觉 自在。 | So the key is who they feel comfortable with. |
 
-> Mostly their friends, I'd say. They're on the same wavelength, so it feels easy. Whereas with parents, they sometimes worry about being judged. So it comes down to who they feel comfortable with.
+> Mostly their friends, I'd say. They're on the same wavelength — same music, same worries — so it just feels easy. Whereas with parents, they sometimes worry about being judged or getting a lecture. So the key is who they feel comfortable with.
 
-> 🔁 **复用**：`Mostly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`。**⑦升级**：具体(一样音乐/一样烦恼)+对比(跟父母怕被评判/被说教)。**LAND**：`So the key is…`。
 
 **Q5. Why do people sometimes change their important opinions?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 通常 是 一个 新 经历 让 你 换 个 角度 看，就 像 育儿 对 我 那样。 | Usually it's a new experience that makes you see things differently, like it did for me with parenting. |
-| 3 | 而 有些人 只是 跟着 他们 身边 的 任何人。 | Whereas some people just follow whoever they're around. |
-| 4 | 所以 它 归结到 对 学习 保持 开放。 | So it comes down to being open to learning. |
+| 2 | 通常 是 一个 新 经历 让 你 换 个 角度 看——你 经历 了 点 什么，你 那 老 想法 就 站 不 住 了。 | Usually it's a new experience that makes you see things differently — you go through something and your old view just doesn't hold up. |
+| 3 | 比如 一个 新 手 父母，一旦 看到 什么 对 孩子 真 管用，常常 就 会 改 做法。 | A new parent, for example, often changes their approach once they see what actually works with their kid. |
+| 4 | 而 有些人 从不 改 主意，不管 他们 看到 什么。 | Whereas some people never change their mind, no matter what they see. |
+| 5 | 所以 比 什么 都 重要 的 是 对 学习 保持 开放。 | So more than anything, it's about staying open to learning. |
 
-> A few reasons, really. Usually it's a new experience that makes you see things differently, like it did for me with parenting. Whereas some people just follow whoever they're around. So it comes down to being open to learning.
+> A few reasons, really. Usually it's a new experience that makes you see things differently — you go through something and your old view just doesn't hold up. A new parent, for example, often changes their approach once they see what actually works with their kid. Whereas some people never change their mind, no matter what they see. So more than anything, it's about staying open to learning.
 
-> 🔁 **复用**：`A few reasons, really`+本卡育儿link+`whereas`+`follow`(新24 follow the crowd)+`comes down to`。
+> 🔁 **复用**：`A few reasons, really`+`whereas`。**⑦升级**：机制(老想法站不住)+通用例(新手父母看到管用就改做法)。**⑩**：去掉`for me with parenting`依赖、改通用`a new parent`。**LAND**：`So more than anything…`。
 
 **Q6. Is it easy for people to change their minds once they're adults?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 不太，说实话。 | Not really, to be honest. |
-| 2 | 大人 固守 老一套，就 像 我 说 的 孩子 学 得 更 快。 | Adults get stuck in their ways, like I said about kids learning faster. |
-| 3 | 而 孩子 像 海绵、还 轻易 改变。 | Whereas kids are like sponges and change easily. |
-| 4 | 所以 它 归结到 保持 开放的 心态，（那 需要 功夫）。 | So it comes down to staying open-minded, which takes effort. |
+| 2 | 大人 固守 老一套——一件 事 按 一种 方式 做 了 好些年，就 很 难 换。 | Adults get stuck in their ways — after years of doing things one way, it's hard to switch. |
+| 3 | 而 孩子 像 海绵、还 轻易 就 接受 新 想法。 | Whereas kids are like sponges and pick up new ideas easily. |
+| 4 | 一个 大人 要 停下、重新 想 一件 他 信 了 好些年 的 事，得 花 真 功夫。 | It takes a real effort for a grown-up to stop and rethink something they've believed for years. |
+| 5 | 所以 它 归结到 保持 开放的 心态，那 需要 功夫。 | So it comes down to staying open-minded, which takes effort. |
 
-> Not really, to be honest. Adults get stuck in their ways, like I said about kids learning faster. Whereas kids are like sponges and change easily. So it comes down to staying open-minded, which takes effort.
+> Not really, to be honest. Adults get stuck in their ways — after years of doing things one way, it's hard to switch. Whereas kids are like sponges and pick up new ideas easily. It takes a real effort for a grown-up to stop and rethink something they've believed for years. So it comes down to staying open-minded, which takes effort.
 
-> 🔁 **复用**：`Not really, to be honest`+`stuck in their ways`+`like sponges`(新15-Q4)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Not really, to be honest`+`stuck in their ways`+`like sponges`(新15-Q4)+`whereas`。**⑦升级**：机制(做一种方式好些年难换)+推论(要停下重想信了多年的事得花功夫)。**⑩**：去掉`like I said about…`依赖。**LAND**：`comes down to`(本卡唯一)。
 
 **P3 句型/模板（复用池）**：`Pretty young, I'd say` / `whereas` / `comes down to what you mean by an opinion` · `It depends on the age, really` / `comes down to which stage they're at` · `Mostly parents, I'd say` · `on the same wavelength` / `who they feel comfortable with` · `A few reasons, really` / `see things differently` · `Not really, to be honest` / `stuck in their ways` / `like sponges`。
 
