@@ -5154,13 +5154,14 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
-| 2 | 大 动作 和 科幻 片 表现 很好，而 喜剧 也 一直 受欢迎。 | Big action and sci-fi films do really well, whereas comedies are always popular too. |
-| 3 | 它 归结到 无论 什么 给 人们 一个 好 逃离。 | It comes down to whatever gives people a good escape. |
-| 4 | 所以 有 一点 各种，说句公道话。 | So there's a bit of everything, to be fair. |
+| 2 | 大 动作 和 科幻 片 表现 很好，因为 它们 在 大 屏幕 上 看起来 震撼。 | Big action and sci-fi films do really well, because they look amazing on the big screen. |
+| 3 | 而 喜剧 也 一直 受欢迎——人们 就 想 笑一笑、放松 一下。 | Whereas comedies are always popular too — people just want a laugh and a bit of a break. |
+| 4 | 说到底，只要 一部 片 给 人们 一个 好 逃离，它 就 卖 得 好。 | At the end of the day, as long as a film gives people a good escape, it sells well. |
+| 5 | 所以 有 一点 各种，说句公道话。 | So there's a bit of everything, to be fair. |
 
-> All sorts, really. Big action and sci-fi films do really well, whereas comedies are always popular too. It comes down to whatever gives people a good escape. So there's a bit of everything, to be fair.
+> All sorts, really. Big action and sci-fi films do really well, because they look amazing on the big screen. Whereas comedies are always popular too — people just want a laugh and a bit of a break. At the end of the day, as long as a film gives people a good escape, it sells well. So there's a bit of everything, to be fair.
 
-> 🔁 **复用**：`All sorts, really`+`whereas`+`escape`(老24)+`to be fair`。
+> 🔁 **复用**：`All sorts, really`+`whereas`+`escape`(老24)+`to be fair`。**⑦升级**：机制(动作科幻大屏幕震撼/喜剧想笑放松)。**LAND**：`At the end of the day…`(去掉 comes down to)。
 
 **Q2. What are the factors that make a successful movie?**
 
@@ -5168,64 +5169,69 @@
 |---|---|---|
 | 1 | 几样 东西，真的。 | A few things, really. |
 | 2 | 一个 好 故事 最 要紧，但 那些 特效 和 演技 也 一样。 | A good story matters most, but so do the effects and acting. |
-| 3 | 除此之外，它 得 让 你 感受 到 什么。 | On top of that, it has to make you feel something. |
-| 4 | 所以 它 归结到 把 观众 卷 进去。 | So it comes down to pulling the audience in. |
+| 3 | 除此之外，它 得 让 你 感受 到 什么——让 你 笑、让 你 哭、或 让 你 坐 在 座位 边上。 | On top of that, it has to make you feel something — make you laugh, cry, or sit on the edge of your seat. |
+| 4 | 一部 让 你 事后 还 惦记 好几天 的 片，就 是 一部 成功的 片。 | A film you're still thinking about days later is a successful one. |
+| 5 | 所以 它 归结到 把 观众 卷 进去。 | So it comes down to pulling the audience in. |
 
-> A few things, really. A good story matters most, but so do the effects and acting. On top of that, it has to make you feel something. So it comes down to pulling the audience in.
+> A few things, really. A good story matters most, but so do the effects and acting. On top of that, it has to make you feel something — make you laugh, cry, or sit on the edge of your seat. A film you're still thinking about days later is a successful one. So it comes down to pulling the audience in.
 
-> 🔁 **复用**：`A few things, really`+`On top of that`+`feel something`(老02-P3)+`comes down to`。
+> 🔁 **复用**：`A few things, really`+`On top of that`+`feel something`(老02-P3)+`comes down to`。**⑦升级**：具体(笑/哭/坐座位边上)+推论(事后还惦记就是成功)。**（本卡唯一保留 comes down to）**
 
 **Q3. Do Chinese people prefer to watch domestic movies or foreign movies?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 本土 片 受欢迎，因为 人们 能 共鸣，而 外国 片 带来 新 东西。 | Home-grown films are popular because people relate to them, whereas foreign ones bring something new. |
-| 3 | 流媒体 现在 让 外国 片 真的 容易 看。 | Streaming's made foreign films really easy to watch now. |
-| 4 | 所以 它 归结到 你 什么 心情。 | So it comes down to what mood you're in. |
+| 2 | 本土 片 受欢迎，因为 人们 能 共鸣——一样的 文化、一样的 笑点。 | Home-grown films are popular because people relate to them — the same culture, the same jokes. |
+| 3 | 而 外国 片，尤其 好莱坞 大片，带来 大 场面 和 新 想法。 | Whereas foreign films, especially Hollywood blockbusters, bring big spectacle and fresh ideas. |
+| 4 | 流媒体 现在 让 外国 片 真的 容易 看，所以 大多数人 两种 都 看。 | Streaming's made foreign films really easy to watch now, so most people watch both. |
+| 5 | 所以 真的，它 取决于 你 什么 心情。 | So really, it depends on what mood you're in. |
 
-> It's a bit of a mixed bag, honestly. Home-grown films are popular because people relate to them, whereas foreign ones bring something new. Streaming's made foreign films really easy to watch now. So it comes down to what mood you're in.
+> It's a bit of a mixed bag, honestly. Home-grown films are popular because people relate to them — the same culture, the same jokes. Whereas foreign films, especially Hollywood blockbusters, bring big spectacle and fresh ideas. Streaming's made foreign films really easy to watch now, so most people watch both. So really, it depends on what mood you're in.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`。**⑦升级**：具体(一样文化一样笑点/好莱坞大片大场面)+推论(流媒体让人两种都看)。**LAND**：`So really, it depends on…`。
 
 **Q4. Do you think only well-known directors can create the best movies?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 不太，不。 | Not really, no. |
-| 2 | 有名的 导演 有 经验，但 一大堆 新人 拍 出 很棒的 片。 | Famous directors have experience, but plenty of newcomers make brilliant films. |
-| 3 | 而 一个 大 名头 不 保证 一个 好 故事。 | Whereas a big name doesn't guarantee a good story. |
-| 4 | 所以 它 归结到 那 才华，不是 那 名气。 | So it comes down to the talent, not the fame. |
+| 2 | 有名的 导演 有 经验 和 更 大 的 预算，那 确实 有 帮助。 | Famous directors have experience and bigger budgets, which does help. |
+| 3 | 但 一大堆 新人 拍 出 很棒的 片——一个 大 名头 不 保证 一个 好 故事。 | But plenty of newcomers make brilliant films — a big name doesn't guarantee a good story. |
+| 4 | 有些 最好 的 片 其实 来自 没人 听说 过 的 导演。 | Some of the best films actually come from directors nobody had heard of. |
+| 5 | 所以 关键 是 那 才华，不是 那 名气。 | So the key is the talent, not the fame. |
 
-> Not really, no. Famous directors have experience, but plenty of newcomers make brilliant films. Whereas a big name doesn't guarantee a good story. So it comes down to the talent, not the fame.
+> Not really, no. Famous directors have experience and bigger budgets, which does help. But plenty of newcomers make brilliant films — a big name doesn't guarantee a good story. Some of the best films actually come from directors nobody had heard of. So the key is the talent, not the fame.
 
-> 🔁 **复用**：`Not really, no`+`whereas`+`talent`(老02)+`comes down to`。
+> 🔁 **复用**：`Not really, no`+`talent`(老02)。**⑦升级**：让步(有名导演经验预算确实帮)+推论(最好的片来自没人听说的导演)。**LAND**：`So the key is…`。
 
 **Q5. Do you think successful movies should have well-known actors or actresses in leading roles?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 一个 大 明星 拉 来 一 群 人，所以 那 片 卖 得 更好。 | A big star draws a crowd, so the film sells better. |
-| 3 | 而 一个 很棒的 无名 演员 能 一样 好。 | Whereas a great unknown actor can be just as good. |
-| 4 | 所以 它 归结到 他们 合不合 那 角色。 | So it comes down to whether they fit the role. |
+| 2 | 一个 大 明星 拉 来 一 群 人，所以 那 片 一开始 卖 得 更好。 | A big star draws a crowd, so the film sells better at first. |
+| 3 | 但 如果 那 明星 不 适合 那 角色，它 反而 会 拖累 那 片。 | But if the star doesn't suit the role, it can actually let the film down. |
+| 4 | 一个 很棒的 无名 演员，只要 演技 对，常常 一样 好、甚至 更 好。 | A great unknown actor, if the acting's right, is often just as good or even better. |
+| 5 | 所以 最 主要 的 是 他们 合不合 那 角色。 | So the main thing is whether they fit the role. |
 
-> To some extent, yeah. A big star draws a crowd, so the film sells better. Whereas a great unknown actor can be just as good. So it comes down to whether they fit the role.
+> To some extent, yeah. A big star draws a crowd, so the film sells better at first. But if the star doesn't suit the role, it can actually let the film down. A great unknown actor, if the acting's right, is often just as good or even better. So the main thing is whether they fit the role.
 
-> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to`。
+> 🔁 **复用**：`To some extent, yeah`+`whereas`意。**⑦升级**：转折(明星不合角色反而拖累)+推论(无名演技对更好)。**LAND**：`So the main thing is…`。
 
 **Q6. Why do people prefer to watch movies in the cinema?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 那 大 屏幕 和 音效 把 你 卷 进去——你 完全 沉浸。 | The big screen and sound pull you in — you get completely immersed. |
-| 3 | 而 在家 总是 有 干扰。 | Whereas at home there are always distractions. |
-| 4 | 所以 说实话，没 什么 比得过 那 影院 体验。 | So honestly, nothing beats the cinema experience. |
+| 2 | 那 大 屏幕 和 音效 把 你 卷 进去——你 完全 沉浸 在 那 故事 里。 | The big screen and sound pull you in — you get completely immersed in the story. |
+| 3 | 而 在家 总是 有 干扰——你的 手机、你的 儿子、门铃。 | Whereas at home there are always distractions — your phone, your kids, the doorbell. |
+| 4 | 跟 一 屋子 人 一起 看 也 有 一种 特别的 感觉，比如 大家 一起 笑 或 一起 倒吸 一口 气。 | There's also something special about watching with a full room, like everyone laughing or gasping together. |
+| 5 | 所以 说实话，没 什么 比得过 那 影院 体验。 | So honestly, nothing beats the cinema experience. |
 
-> A few reasons, really. The big screen and sound pull you in — you get completely immersed. Whereas at home there are always distractions. So honestly, nothing beats the cinema experience.
+> A few reasons, really. The big screen and sound pull you in — you get completely immersed in the story. Whereas at home there are always distractions — your phone, your kids, the doorbell. There's also something special about watching with a full room, like everyone laughing or gasping together. So honestly, nothing beats the cinema experience.
 
-> 🔁 **复用**：`A few reasons, really`+`completely immersed`(新18)+`whereas`+`nothing beats`(新07)。
+> 🔁 **复用**：`A few reasons, really`+`completely immersed`(新18)+`whereas`+`nothing beats`(新07)。**⑦升级**：具体(手机/儿子/门铃干扰)+画面(一屋子人一起笑一起倒吸气)。**LAND**：`nothing beats`(无 comes down to)。
 
 **P3 句型/模板（复用池）**：`All sorts, really` / `whereas` / `a good escape` · `A few things, really` / `make you feel something` / `pulling the audience in` · `a bit of a mixed bag, honestly` · `Not really, no` / `the talent, not the fame` · `To some extent, yeah` / `fit the role` · `A few reasons, really` / `completely immersed` / `nothing beats the cinema experience`。
 
