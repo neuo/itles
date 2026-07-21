@@ -6353,65 +6353,70 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 变得 更 难，说实话。 | It's getting harder, honestly. |
-| 2 | 在 大 城市，几乎 到处 有 车流 和 人群。 | In big cities, there's traffic and crowds almost everywhere. |
-| 3 | 而 如果 你 知道 去 哪儿 找，你 仍然 能 找到 小 角落。 | Whereas if you know where to look, you can still find little pockets. |
-| 4 | 所以 它 归结到 知道 去 哪儿。 | So it comes down to knowing where to go. |
+| 2 | 在 大 城市，你 走 到 哪儿 几乎 都 有 车流 和 人群。 | In big cities, there's traffic and crowds almost everywhere you go. |
+| 3 | 但 如果 你 知道 去 哪儿 找，你 仍然 能 找到 安静的 小 角落——一个 小 公园、一家 安静的 咖啡馆、一段 清晨 的 河边。 | But if you know where to look, you can still find quiet little corners — a small park, a quiet café, an early-morning riverside. |
+| 4 | 大多数人 只是 没 花 时间 去 找 它们。 | Most people just don't take the time to look for them. |
+| 5 | 所以 真的，它 是 关于 知道 去 哪儿。 | So really, it's about knowing where to go. |
 
-> It's getting harder, honestly. In big cities, there's traffic and crowds almost everywhere. Whereas if you know where to look, you can still find little pockets. So it comes down to knowing where to go.
+> It's getting harder, honestly. In big cities, there's traffic and crowds almost everywhere you go. But if you know where to look, you can still find quiet little corners — a small park, a quiet café, an early-morning riverside. Most people just don't take the time to look for them. So really, it's about knowing where to go.
 
-> 🔁 **复用**：`honestly`+`whereas`+`little pockets`(老26-examples 风)+`comes down to`。
+> 🔁 **复用**：`honestly`+`quiet little corners`。**⑦升级**：具体画面(小公园/安静咖啡馆/清晨河边)+推论(多数人没花时间找)。`little pockets`→`quiet little corners`(常用词)。**LAND**：`So really, it's about…`。
 
 **Q2. How do people spend their leisure time in your country?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
-| 2 | 年轻人 刷 手机 或 见面 吃 火锅，而 老年人 打 太极 或 打 牌。 | Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards. |
-| 3 | 出去吃 是 一个 大的、跨 所有 年龄。 | Eating out is a big one across all ages. |
-| 4 | 所以 它 归结到 无论 什么 帮 他们 放松。 | So it comes down to whatever helps them relax. |
+| 2 | 年轻人 刷 手机 或 见面 吃 火锅，而 老年人 打 太极 或 在 公园 打 牌。 | Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards in the park. |
+| 3 | 出去吃 是 一个 大的、跨 所有 年龄——吃 在 这儿 是 生活 很 大 的 一部分。 | Eating out is a big one across all ages — food is a huge part of life here. |
+| 4 | 而 周末 常常 是 全家 出游 或 就 在家 歇着。 | And weekends are often for family trips or just resting at home. |
+| 5 | 所以 最 主要 的 是 无论 什么 帮 他们 放松。 | So the main thing is whatever helps them relax. |
 
-> All sorts, really. Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards. Eating out is a big one across all ages. So it comes down to whatever helps them relax.
+> All sorts, really. Young people scroll their phones or meet up for hotpot, whereas older folk do tai chi or play cards in the park. Eating out is a big one across all ages — food is a huge part of life here. And weekends are often for family trips or just resting at home. So the main thing is whatever helps them relax.
 
-> 🔁 **复用**：`All sorts, really`+`scroll`(老08)+`whereas older folk`+`comes down to`。
+> 🔁 **复用**：`All sorts, really`+`scroll`(老08)+`whereas older folk`。**⑦升级**：具体(公园打牌/吃是生活一大部分/周末全家出游)。**LAND**：`So the main thing is…`。
 
 **Q3. How does technology affect the way people spend their leisure time?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大大地，我 觉得。 | Massively, I reckon. |
-| 2 | 人们 现在 用 手机 填 几乎 每一 空闲 分钟。 | People fill almost every spare minute with their phones now. |
-| 3 | 而 它 让 我们 有点 更 懒、更 粘 屏幕。 | Whereas it's made us a bit lazier and more glued to screens. |
-| 4 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
+| 2 | 人们 现在 用 手机 填 几乎 每一 空闲 分钟——等 公交、排队、甚至 吃饭 时。 | People fill almost every spare minute with their phones now — waiting for a bus, in a queue, even at dinner. |
+| 3 | 它 让 我们 比 以前 有点 更 懒、更 粘 屏幕。 | It's made us a bit lazier and more glued to screens than before. |
+| 4 | 话虽如此，它 也 让 我们 在家 能 做 多 得多 的 事，比如 看 电影 或 学 新 东西。 | That said, it also lets us do a lot more from home, like watching films or learning new things. |
+| 5 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
 
-> Massively, I reckon. People fill almost every spare minute with their phones now. Whereas it's made us a bit lazier and more glued to screens. So it comes down to how we use it.
+> Massively, I reckon. People fill almost every spare minute with their phones now — waiting for a bus, in a queue, even at dinner. It's made us a bit lazier and more glued to screens than before. That said, it also lets us do a lot more from home, like watching films or learning new things. So it comes down to how we use it.
 
-> 🔁 **复用**：`Massively, I reckon`+`glued to screens`(新16-Q3)+`whereas`+`comes down to how we use it`(新07-Q6)。
+> 🔁 **复用**：`Massively, I reckon`+`glued to screens`(新16-Q3)+`comes down to how we use it`(新07-Q6)。**⑦升级**：具体画面(等公交/排队/吃饭时刷)+让步(也能在家做更多事)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q4. Do you think only old people have time for leisure?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一点也不，说实话。 | Not at all, honestly. |
-| 2 | 诚然，退休的人 有 更多 空闲 时间，但 每个人 都 需要 停机时间 [去]充电。 | Sure, retired folk have more free time, but everyone needs downtime to recharge. |
-| 3 | 而 甚至 忙碌的人 也 在 任何 他们 能的 地方 挤 进 休闲。 | Whereas even busy people squeeze in leisure where they can. |
-| 4 | 所以 它 归结到 一个 基本的 人类 需求。 | So it comes down to a basic human need. |
+| 2 | 诚然，退休的人 有 更多 空闲 时间，但 每个人 都 需要 一个 休息 去 充电。 | Sure, retired people have more free time, but everyone needs a break to recharge. |
+| 3 | 甚至 忙碌的人 也 在 任何 他们 能的 地方 挤 进 休闲——一局 快 游戏、一次 散步、半 小时 电视。 | Even busy people squeeze in leisure where they can — a quick game, a walk, half an hour of TV. |
+| 4 | 其实，你 越 忙，你 越 需要 它。 | In fact, the busier you are, the more you need it. |
+| 5 | 所以 真的，它 是 一个 基本的 人类 需求。 | So really, it's a basic human need. |
 
-> Not at all, honestly. Sure, retired folk have more free time, but everyone needs downtime to recharge. Whereas even busy people squeeze in leisure where they can. So it comes down to a basic human need.
+> Not at all, honestly. Sure, retired people have more free time, but everyone needs a break to recharge. Even busy people squeeze in leisure where they can — a quick game, a walk, half an hour of TV. In fact, the busier you are, the more you need it. So really, it's a basic human need.
 
-> 🔁 **复用**：`honestly`+`Sure, … but`(老08-Q6)+`whereas`+`comes down to`。
+> 🔁 **复用**：`honestly`+`Sure, … but`(老08-Q6)。**⑦升级**：具体(快游戏/散步/半小时电视)+推论(越忙越需要)。`downtime`→`a break`(常用词)。**LAND**：`So really, it's…`。
 
 **Q5. Why do old people prefer to live in quiet places?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 为了 内心的 安宁，我会说。 | Mainly for peace of mind, I'd say. |
-| 2 | 在 几十年 的 喧嚣 之后，他们 就 想 某个 平静的地方 [去]慢下来。 | After decades of noise, they just want somewhere calm to slow down. |
-| 3 | 而 安静的 地方 更 温柔——更少 噪音、更少 压力。 | Whereas quiet places are gentler — less noise, less stress. |
-| 4 | 所以 它 归结到 一个 更 慢、更 平静的 节奏。 | So it comes down to a slower, calmer pace. |
+| 2 | 在 几十年 的 喧嚣 和 压力 之后，他们 就 想 某个 平静的地方 [去]慢下来。 | After decades of noise and stress, they just want somewhere calm to slow down. |
+| 3 | 一个 安静的 地方 对 他们 更 温柔——更少 噪音、更少 到处 奔忙。 | A quiet place is gentler on them — less noise, less rushing around. |
+| 4 | 比如 我 父母，最 爱 的 莫过于 花园里 一个 安静的 早晨。 | My parents, for example, love nothing more than a quiet morning in the garden. |
+| 5 | 所以 关键 是 一个 更 慢、更 平静的 节奏。 | So the key is a slower, calmer pace. |
 
-> Mainly for peace of mind, I'd say. After decades of noise, they just want somewhere calm to slow down. Whereas quiet places are gentler — less noise, less stress. So it comes down to a slower, calmer pace.
+> Mainly for peace of mind, I'd say. After decades of noise and stress, they just want somewhere calm to slow down. A quiet place is gentler on them — less noise, less rushing around. My parents, for example, love nothing more than a quiet morning in the garden. So the key is a slower, calmer pace.
 
-> 🔁 **复用**：`Mainly … I'd say`+`just want somewhere calm`(老26降档)+`slow down`(新18)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`just want somewhere calm`(老26)+`slow down`(新18)。**⑦升级**：机制(几十年喧嚣后想慢下来)+具体画面(父母爱花园里安静早晨)。**LAND**：`So the key is…`。
 
 **Q6. Why are there more noises made at home now than in the past?**
 
@@ -6419,12 +6424,13 @@
 |---|---|---|
 | 1 | 主要 因为 我们 现在 拥有的 所有 那些 小设备，我会说。 | Mainly because of all the gadgets we own now, I'd say. |
 | 2 | 家里 塞满 电视、音箱、和 粘 在 游戏上 的 孩子。 | Homes are packed with TVs, speakers, and kids glued to games. |
-| 3 | 而 在 过去，地方 更 简单、更 安静。 | Whereas in the past, places were simpler and quieter. |
-| 4 | 所以 它 归结到 我们 现在 有 多少 东西。 | So it comes down to how much stuff we've got now. |
+| 3 | 而 在 过去，家里 更 简单——也许 一台 收音机，就 那样。 | Whereas in the past, homes were simpler — maybe one radio, and that was it. |
+| 4 | 我们 搬 进来 的 设备 越 多，背景 噪音 就 越 多。 | The more devices we bring in, the more background noise there is. |
+| 5 | 所以 最 主要 的 是 我们 现在 有 多少 东西。 | So the main thing is how much stuff we've got now. |
 
-> Mainly because of all the gadgets we own now, I'd say. Homes are packed with TVs, speakers, and kids glued to games. Whereas in the past, places were simpler and quieter. So it comes down to how much stuff we've got now.
+> Mainly because of all the gadgets we own now, I'd say. Homes are packed with TVs, speakers, and kids glued to games. Whereas in the past, homes were simpler — maybe one radio, and that was it. The more devices we bring in, the more background noise there is. So the main thing is how much stuff we've got now.
 
-> 🔁 **复用**：`Mainly … I'd say`+`gadgets`(老20-Q2)+`glued to`(新16)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`gadgets`(老20-Q2)+`glued to`(新16)+`whereas`。**⑦升级**：具体对比(过去也许一台收音机)+机制(设备越多背景噪音越多)。**LAND**：`So the main thing is…`。
 
 **P3 句型/模板（复用池）**：`It's getting harder, honestly` / `little pockets` · `All sorts, really` / `whereas older folk` · `Massively, I reckon` / `glued to screens` / `comes down to how we use it` · `Not at all, honestly` / `Sure, … but` · `Mainly for peace of mind, I'd say` / `just want somewhere calm` · `Mainly because of all the gadgets …, I'd say` / `glued to games`。
 
