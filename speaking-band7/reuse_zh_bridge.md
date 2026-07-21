@@ -6454,41 +6454,41 @@
 
 ---
 
-## P2-老27 · A TV or online program you like to watch — 烘焙比赛节目（Object）  〔复用生成〕
+## P2-老27 · A TV or online program you like to watch — BBC 纪录片《Wonders of the Solar System》（Object）  〔复用生成 · 改太空纪录片〕
 
 > **📋 P2 题面**：Describe a TV or online program you like to watch.
 > *You should say:* What it is · What it is about · Who you watch it with · And explain why you like to watch it
 >
 > **Cue**: 是什么 / 讲什么 / 和谁看 / 为何喜欢 · 题型 Object
 >
-> 🔁 **整卡复用自**：新14 老婆烘焙(loves baking/bringing everyone together) + wife/son + 新15-Q2(now and then) + 老24(unwind) + 新14(not really about X, it's about Y)。
+> 🔁 **整卡复用自**：新02 太空纪录片(really into space/catches my eye/turns complex science into something you feel/completely hooked/stuck with me) + 老16 科幻片(I'm a software engineer/looked up the real science/how things work/fun but makes you think) + wife/son + 老24(unwind) + 新14(not really about X, it's about Y)。**BBC《Wonders of the Solar System》=具体设定**（太空纪录片）。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个 节目 是 一个 烘焙 比赛 节目。 | The programme I'd like to talk about is a baking competition show. |
-| 2 | 它 关于 一群 家庭 烘焙者 在 一个 大 帐篷 里 做 蛋糕 和 糕点。 | It's about a group of home bakers making cakes and pastries in a big tent. |
-| 3 | 我 总是 跟 我 老婆 一起 看，（她 自己 是 一个 热心的 烘焙者）。 | I always watch it with my wife, who's a keen baker herself. |
-| 4 | 时不时 我们的 儿子 加入 那 蛋糕 部分。 | Now and then our son joins in for the cake bits. |
-| 5 | 我 爱 的 是 它 那么 健康——没有 戏剧，只有 善良的人。 | What I love is that it's so wholesome — there's no drama, just kind people. |
-| 6 | 除此之外，我 老婆 从 它 得到 一大堆 食谱 灵感。 | On top of that, my wife gets loads of recipe ideas from it. |
-| 7 | 她 其实 试着 在家 重现 几个 那些 烘焙品。 | She's actually tried to recreate a few of the bakes at home. |
-| 8 | 说实话，它 是 我们 温馨的 方式、[去]在 一个 周末 晚上 一起 放松。 | Honestly, it's our cosy way to unwind together on a weekend evening. |
-| 9 | 它 把 大家 聚 到 一起，而 我们 总是 为 那些 烘焙者 加油。 | It brings everyone together, and we always root for the bakers. |
-| 10 | 我 最 喜欢 的 部分 是 当 全家 一起 挤 在 沙发上、猜 谁 会 赢。 | My favourite bit is when the whole family squeezes onto the sofa together, guessing who'll win. |
-| 11 | 说实话，它 已经 变成 一个 我们 都 盼着 的 小 周末 惯例。 | Honestly, it's become a little weekend routine we all look forward to. |
-| 12 | 所以 对我，它 不 真的 关于 那 烘焙——它 关于 一起 的 那段 时间。 | So for me, it's not really about the baking — it's about the time together. |
+| 1 | 我想聊的那个 节目 是 一部 BBC 纪录片，叫《太阳系 的 奇迹》。 | The programme I'd like to talk about is a BBC documentary called "Wonders of the Solar System". |
+| 2 | 我 真的 很 迷 太空，所以 任何 关于 行星 和 恒星 的 东西 抓住 我的 眼球。 | I'm really into space, so anything about planets and stars catches my eye. |
+| 3 | 它 关于 我们 太阳系 里 的 行星、卫星、和 太阳，还 带 一些 惊人的 画面。 | It's about the planets, moons, and the Sun in our solar system, with some amazing pictures. |
+| 4 | 我 通常 一个 晚上 跟 我 老婆 一起 看，在 我们 儿子 睡 了 之后。 | I usually watch it one evening with my wife, after our son has gone to bed. |
+| 5 | 真正 让 它 出众的 是 它 怎么 把 复杂的 科学 变成 一个 你 能 感受到 的 东西。 | What really makes it stand out is how it turns complex science into something you feel. |
+| 6 | 我 是 一个 软件 工程师，所以 我 爱 他们 怎么 把 每 一个 细节 解释 得 这么 清楚。 | I'm a software engineer, so I love how they explain every detail so clearly. |
+| 7 | 我 完全 上瘾——我们 几乎 一口气 看 完 了 整 一季。 | I was completely hooked — we watched almost the whole series in one go. |
+| 8 | 说实话，它 事后 真的 留 在 我 心里。 | Honestly, it really stuck with me afterwards. |
+| 9 | 之后，我 甚至 去 查 了 它 背后 的 真 科学，因为 我 爱 搞懂 东西 怎么 运作。 | Afterwards, I even looked up the real science behind it, because I love understanding how things work. |
+| 10 | 它 是 我们 温馨的 方式、[去]在 一个 周末 晚上 一起 放松。 | It's our cosy way to unwind together on a weekend evening. |
+| 11 | 我 老婆 就 笑 我 把 一部 纪录片 看 得 这么 认真。 | My wife just laughs at me for taking a documentary so seriously. |
+| 12 | 所以 对我，它 是 那种 好玩 但 也 让 你 思考 的 节目 之一。 | So for me, it's one of those programmes that's fun but also makes you think. |
 
 ### ②P2 整段（shadow）
 
-> The programme I'd like to talk about is a baking competition show. It's about a group of home bakers making cakes and pastries in a big tent. I always watch it with my wife, who's a keen baker herself. Now and then our son joins in for the cake bits. What I love is that it's so wholesome — there's no drama, just kind people. On top of that, my wife gets loads of recipe ideas from it. She's actually tried to recreate a few of the bakes at home. Honestly, it's our cosy way to unwind together on a weekend evening. It brings everyone together, and we always root for the bakers. My favourite bit is when the whole family squeezes onto the sofa together, guessing who'll win. Honestly, it's become a little weekend routine we all look forward to. So for me, it's not really about the baking — it's about the time together.
+> The programme I'd like to talk about is a BBC documentary called "Wonders of the Solar System". I'm really into space, so anything about planets and stars catches my eye. It's about the planets, moons, and the Sun in our solar system, with some amazing pictures. I usually watch it one evening with my wife, after our son has gone to bed. What really makes it stand out is how it turns complex science into something you feel. I'm a software engineer, so I love how they explain every detail so clearly. I was completely hooked — we watched almost the whole series in one go. Honestly, it really stuck with me afterwards. Afterwards, I even looked up the real science behind it, because I love understanding how things work. It's our cosy way to unwind together on a weekend evening. My wife just laughs at me for taking a documentary so seriously. So for me, it's one of those programmes that's fun but also makes you think.
 
-> 🔁 **复用**：句3 wife 烘焙(新14)；句4 `now and then`(新15-Q2)；句6 `On top of that`；句7 recreate bakes(新14 wife makes cake)；句8 `unwind`(老24)；句9 `brings everyone together`(新14)；句10 `not really about X — it's about Y`(新14)。
+> 🔁 **复用**：句2 `really into space … catches my eye`(新02/老16 逐字)；句5 `turns complex science into something you feel`(新02/老16)；句6 `I'm a software engineer`(新16/老16)；句7 `completely hooked … in one go`(新02/老16)；句8 `stuck with me`(老16)；句9 `looked up the real science … how things work`(老16 逐字)；句10 `unwind`(老24)；句11 `wife laughs at me`(老16 逐字)；句12 `fun but also makes you think`(老16 逐字)。**改太空纪录片**：全套复用你的 sci-fi/太空素材，新料仅片名+行星卫星画面。
 
 ### 句型/模板（复用池）
 
-- `The programme I'd like to talk about is a baking competition show` · `I always watch it with my wife, who's a keen baker herself` · `What I love is that it's so wholesome — there's no drama, just kind people` · `it's our cosy way to unwind together on a weekend evening` · `it's not really about the baking — it's about the time together`
+- `The programme I'd like to talk about is a BBC documentary called …` · `I'm really into space, so anything about … catches my eye` · `What really makes it stand out is how it turns complex science into something you feel` · `I was completely hooked — we watched almost the whole series in one go` · `it's our cosy way to unwind together on a weekend evening` · `one of those programmes that's fun but also makes you think`
 
 ---
 
@@ -6500,77 +6500,82 @@
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
 | 2 | 真人秀 巨大——才艺 比赛、烹饪 对战，那种 节目。 | Reality shows are huge — talent contests, cooking battles, that kind of thing. |
-| 3 | 人们 爱 它们 因为 它们 在 漫长的 一天 后 容易 跟上。 | People love them because they're easy to follow after a long day. |
-| 4 | 所以 它 归结到 某个 轻松的 东西 [去]放松。 | So it comes down to something light to relax with. |
+| 3 | 人们 爱 它们 因为 它们 在 漫长的 一天 后 容易 跟上——你 不用 太 动 脑子。 | People love them because they're easy to follow after a long day — you don't have to think too hard. |
+| 4 | 短 视频 现在 也 特别 大，尤其 在 年轻人 里。 | Short videos are also really big now, especially with young people. |
+| 5 | 所以 真的，它 是 关于 某个 轻松的 东西 [去]放松。 | So really, it's about something light to relax with. |
 
-> All sorts, really. Reality shows are huge — talent contests, cooking battles, that kind of thing. People love them because they're easy to follow after a long day. So it comes down to something light to relax with.
+> All sorts, really. Reality shows are huge — talent contests, cooking battles, that kind of thing. People love them because they're easy to follow after a long day — you don't have to think too hard. Short videos are also really big now, especially with young people. So really, it's about something light to relax with.
 
-> 🔁 **复用**：`All sorts, really`+`that kind of thing`+`easy to follow after a long day`(新15-Q1)+`comes down to`。
+> 🔁 **复用**：`All sorts, really`+`that kind of thing`+`easy to follow after a long day`(新15-Q1)。**⑦升级**：机制(不用太动脑子)+具体(短视频年轻人里大)。**LAND**：`So really, it's about…`。
 
 **Q2. Do people in your country like to watch foreign TV programs?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个 会，我会说。 | Quite a few do, I'd say. |
-| 2 | 流媒体 让 外国 节目 真的 容易 看，所以 年轻人 很爱 它们。 | Streaming's made foreign shows really easy to watch, so young people love them. |
-| 3 | 而 更 老的 世代 仍然 更喜欢 本地 节目。 | Whereas older generations still prefer local programmes. |
-| 4 | 所以 它 归结到 他们 是 伴随 什么 长大的。 | So it comes down to what they grew up with. |
+| 2 | 流媒体 让 外国 节目 真的 容易 看，所以 年轻人 很爱 它们——韩剧 和 美剧 尤其 大。 | Streaming's made foreign shows really easy to watch, so young people love them — Korean and American series are especially big. |
+| 3 | 而 更 老的 世代 仍然 更喜欢 本地 节目，因为 语言 和 文化 更 熟悉。 | Whereas older generations still prefer local programmes, since the language and culture feel more familiar. |
+| 4 | 说到底，它 大多 取决于 他们 是 伴随 什么 长大的。 | At the end of the day, it mostly depends on what they grew up with. |
 
-> Quite a few do, I'd say. Streaming's made foreign shows really easy to watch, so young people love them. Whereas older generations still prefer local programmes. So it comes down to what they grew up with.
+> Quite a few do, I'd say. Streaming's made foreign shows really easy to watch, so young people love them — Korean and American series are especially big. Whereas older generations still prefer local programmes, since the language and culture feel more familiar. At the end of the day, it mostly depends on what they grew up with.
 
-> 🔁 **复用**：`Quite a few do, I'd say`(老24-Q1)+`whereas`+`comes down to what they grew up with`(老08-Q1)。
+> 🔁 **复用**：`Quite a few do, I'd say`(老24-Q1)+`whereas`+`what they grew up with`(老08-Q1)。**⑦升级**：具体(韩剧美剧大)+机制(老人觉得语言文化熟悉)。**LAND**：`At the end of the day…`。
 
 **Q3. What's the benefit of letting kids watch animal videos than visiting zoos?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个，真的。 | A few, really. |
-| 2 | 主要 是 便捷——你 能 给 孩子 看 来自 世界各地 的 动物、不 离开 家。 | Mainly convenience — you can show kids animals from around the world without leaving home. |
-| 3 | 而 没有东西 完全 比得过 亲近 看 一个 真 动物。 | Whereas nothing quite beats seeing a real animal up close. |
-| 4 | 所以 它 归结到 混 两者。 | So it comes down to mixing both. |
+| 2 | 主要 是 便捷——你 能 给 孩子 看 来自 世界各地 的 动物、不 离开 家，还 免费。 | Mainly convenience — you can show kids animals from around the world without leaving home, and it's free. |
+| 3 | 你 也 能 暂停、放大，还 解释 正 发生 什么。 | You can also pause it, zoom in, and explain what's happening. |
+| 4 | 话虽如此，没有东西 完全 比得过 亲近 看 一个 真 动物——那 气味、那 声音，全都 有。 | That said, nothing quite beats seeing a real animal up close — the smell, the sounds, all of it. |
+| 5 | 所以 关键 是 混 两者。 | So the key is to mix both. |
 
-> A few, really. Mainly convenience — you can show kids animals from around the world without leaving home. Whereas nothing quite beats seeing a real animal up close. So it comes down to mixing both.
+> A few, really. Mainly convenience — you can show kids animals from around the world without leaving home, and it's free. You can also pause it, zoom in, and explain what's happening. That said, nothing quite beats seeing a real animal up close — the smell, the sounds, all of it. So the key is to mix both.
 
-> 🔁 **复用**：`A few, really`+`Mainly`+`whereas`+`nothing … beats`(新07)+`comes down to`。
+> 🔁 **复用**：`A few, really`+`Mainly`+`nothing … beats`(新07)。**⑦升级**：具体(暂停放大解释)+画面(真动物的气味声音)。**LAND**：`So the key is…`。
 
 **Q4. Do teachers play videos in class in your country?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 是的，挺 常，我会说。 | Yeah, quite often, I'd say. |
-| 2 | 一个 短 片段 帮 打断 一节课、还 解释 棘手的 想法。 | A short clip helps break up a lesson and explain tricky ideas. |
-| 3 | 而 只是 对 学生 说 让 他们 走神。 | Whereas just talking at students makes them switch off. |
-| 4 | 所以 它 归结到 保持 那 课 吸引人。 | So it comes down to keeping the class engaging. |
+| 2 | 一个 短 片段 帮 打断 一节课、还 解释 棘手的 想法——比如 用 一段 视频 展示 火山 怎么 喷发。 | A short clip helps break up a lesson and explain tricky ideas — like a video showing how a volcano erupts. |
+| 3 | 而 只是 对 学生 说 一 小时 让 他们 走神。 | Whereas just talking at students for an hour makes them switch off. |
+| 4 | 一个 好 视频 能 把 一件 抽象 的 事 变 得 一下子 清楚。 | A good video can make something abstract click straight away. |
+| 5 | 所以 真的，它 是 关于 保持 那 课 吸引人。 | So really, it's about keeping the class engaging. |
 
-> Yeah, quite often, I'd say. A short clip helps break up a lesson and explain tricky ideas. Whereas just talking at students makes them switch off. So it comes down to keeping the class engaging.
+> Yeah, quite often, I'd say. A short clip helps break up a lesson and explain tricky ideas — like a video showing how a volcano erupts. Whereas just talking at students for an hour makes them switch off. A good video can make something abstract click straight away. So really, it's about keeping the class engaging.
 
-> 🔁 **复用**：`… I'd say`+`whereas`+`talking at … switch off`(新03-Q4)+`comes down to`。
+> 🔁 **复用**：`… I'd say`+`whereas`+`talking at … switch off`(新03-Q4)。**⑦升级**：具体(视频展示火山喷发)+推论(把抽象变清楚)。**LAND**：`So really, it's about…`。
 
 **Q5. Do you think watching talk shows is a waste of time?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 不太，不。 | Not really, no. |
-| 2 | 一个 好 脱口秀 能 有 娱乐性、还 激起 有趣的 辩论。 | A good talk show can be entertaining and spark interesting debates. |
-| 3 | 所以 你 在 放松、同时 捡起 新 观点。 | So you're relaxing and picking up new views at the same time. |
-| 4 | 所以 说实话，它 归结到 你 看 哪 一个。 | So honestly, it comes down to which one you watch. |
+| 2 | 一个 好 脱口秀 能 有 娱乐性、还 激起 有趣的 讨论。 | A good talk show can be entertaining and spark interesting discussions. |
+| 3 | 你 在 放松、同时 捡起 新 观点——你 甚至 都 没 意识到 你 在 学。 | You're relaxing and picking up new views at the same time — you don't even realise you're learning. |
+| 4 | 当然，有些 就 是 纯 八卦，但 那 也 得 看 你 挑 哪 个 看。 | Of course, some are just gossip, but that depends on which one you pick. |
+| 5 | 所以 说实话，它 取决于 你 看 哪 一个。 | So honestly, it depends on which one you watch. |
 
-> Not really, no. A good talk show can be entertaining and spark interesting debates. So you're relaxing and picking up new views at the same time. So honestly, it comes down to which one you watch.
+> Not really, no. A good talk show can be entertaining and spark interesting discussions. You're relaxing and picking up new views at the same time — you don't even realise you're learning. Of course, some are just gossip, but that depends on which one you pick. So honestly, it depends on which one you watch.
 
-> 🔁 **复用**：`Not really, no`+`picking up`(新15)+`comes down to`。
+> 🔁 **复用**：`Not really, no`+`picking up`(新15)。**⑦升级**：推论(没意识到在学)+让步(有些纯八卦)。**LAND**：`it depends on…`。
 
 **Q6. Do you think we can acquire knowledge from watching TV programs?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 纪录片 塞满 事实、（你 否则 永远 撞不见 的）。 | Documentaries are packed with facts you'd never bump into otherwise. |
-| 3 | 而 你 得 有点 选择性，因为 有些 节目 只是 花架子。 | Whereas you've got to be a bit selective, since some shows are just fluff. |
-| 4 | 所以 它 归结到 挑 对 的 那些。 | So it comes down to picking the right ones. |
+| 2 | 纪录片 塞满 了 你 否则 永远 学 不到 的 事实——关于 历史、自然、太空。 | Documentaries are packed with facts you'd never learn otherwise — about history, nature, space. |
+| 3 | 我 自己 就 从 一部 科学 节目 里 学 到 一大堆，比 从 一本 课本 记 得 还 牢。 | I've learned loads myself from a science show — more than I'd remember from a textbook. |
+| 4 | 而 你 得 有点 挑，因为 有些 节目 全是 娱乐、没 什么 内容。 | Whereas you've got to be a bit picky, since some shows are all entertainment and not much else. |
+| 5 | 所以 它 归结到 挑 对 的 那些。 | So it comes down to picking the right ones. |
 
-> Absolutely, I think so. Documentaries are packed with facts you'd never bump into otherwise. Whereas you've got to be a bit selective, since some shows are just fluff. So it comes down to picking the right ones.
+> Absolutely, I think so. Documentaries are packed with facts you'd never learn otherwise — about history, nature, space. I've learned loads myself from a science show — more than I'd remember from a textbook. Whereas you've got to be a bit picky, since some shows are all entertainment and not much else. So it comes down to picking the right ones.
 
-> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`comes down to`。**⑦升级**：具体(历史/自然/太空·从科学节目学得比课本牢)。`bump into`→`learn`、`fluff`→`all entertainment and not much else`。**LAND**：`comes down to`(本卡唯一)。
 
 **P3 句型/模板（复用池）**：`All sorts, really` / `easy to follow after a long day` · `Quite a few do, I'd say` / `comes down to what they grew up with` · `A few, really` / `nothing quite beats` · `Yeah, quite often, I'd say` / `talking at … switch off` · `Not really, no` / `picking up new views` · `Absolutely, I think so` / `picking the right ones`。
 
