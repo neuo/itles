@@ -6601,78 +6601,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 有些人 改变 因为 他们 对 现状 不 满意，而 另一些 只是 想 成长。 | Some people change because they're not happy with how things are, whereas others just want to grow. |
-| 3 | 对 我 来说，我 做 一个 改变 是 为了 变 更 健康。 | For me, I made a change to get healthier. |
-| 4 | 所以 它 归结到 想要 某个 更好的 东西。 | So it comes down to wanting something better. |
+| 2 | 有些人 改变 因为 他们 对 现状 不 满意——一份 讨厌 的 工作、一个 想 戒 的 习惯。 | Some people change because they're not happy with how things are — a job they hate, a habit they want to break. |
+| 3 | 而 另一些 只是 想 成长、或 试 点 新 东西。 | Whereas others just want to grow, or try something new. |
+| 4 | 对 我 来说，我 开始 锻炼 是 因为 我 想 感觉 更 健康、更 少 累。 | For me, I started exercising because I wanted to feel healthier and less tired. |
+| 5 | 所以 真的，它 是 关于 想要 某个 更好的 东西。 | So really, it's about wanting something better. |
 
-> A few reasons, really. Some people change because they're not happy with how things are, whereas others just want to grow. For me, I made a change to get healthier. So it comes down to wanting something better.
+> A few reasons, really. Some people change because they're not happy with how things are — a job they hate, a habit they want to break. Whereas others just want to grow, or try something new. For me, I started exercising because I wanted to feel healthier and less tired. So really, it's about wanting something better.
 
-> 🔁 **复用**：`A few reasons, really`+`whereas`+`comes down to`。
+> 🔁 **复用**：`A few reasons, really`+`whereas`。**⑦升级**：具体(讨厌的工作/想戒的习惯)+个人锚点(同 P2 健康话题)。**LAND**：`So really, it's about…`。
 
 **Q2. What changes are difficult for people?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 打破 老 习惯，我会说。 | Mainly breaking old habits, I'd say. |
-| 2 | 我们 固守 老一套，所以 改 你的 作息 一开始 真的 很 难。 | We get stuck in our ways, so changing your routine is really hard at first. |
-| 3 | 而 小 改变 更 容易 坚持。 | Whereas small changes are easier to stick with. |
-| 4 | 所以 它 归结到 从 小 开始。 | So it comes down to starting small. |
+| 2 | 我们 固守 老一套，所以 改 你的 日常 作息 一开始 感觉 真的 很 难。 | We get stuck in our ways, so changing your daily routine feels really hard at first. |
+| 3 | 早起 对 我 来说 很 难——头 一个 星期 是 真 挣扎。 | Getting up early was tough for me — the first week was a real struggle. |
+| 4 | 而 小 改变 就 容易 坚持 多了。 | Whereas small changes are much easier to stick with. |
+| 5 | 所以 关键 是 从 小 开始。 | So the key is to start small. |
 
-> Mainly breaking old habits, I'd say. We get stuck in our ways, so changing your routine is really hard at first. Whereas small changes are easier to stick with. So it comes down to starting small.
+> Mainly breaking old habits, I'd say. We get stuck in our ways, so changing your daily routine feels really hard at first. Getting up early was tough for me — the first week was a real struggle. Whereas small changes are much easier to stick with. So the key is to start small.
 
-> 🔁 **复用**：`Mainly … I'd say`+`stuck in our ways`(新15-Q4)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`stuck in our ways`(新15-Q4)+`whereas`。**⑦升级**：机制(固守老一套改作息难)+个人锚点(早起头一周真挣扎)。**LAND**：`So the key is…`。
 
 **Q3. Do young and old people react to change differently?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 挺 不同，我会说。 | Quite differently, I'd say. |
-| 2 | 年轻人 像 海绵——他们 适应 快，而 老年人 更喜欢 事情 保持 不变。 | Young people are like sponges — they adapt fast, whereas older folk prefer things to stay the same. |
-| 3 | 它 归结到 他们 习惯 什么。 | It comes down to what they're used to. |
-| 4 | 但 每个人 只要 真的 想 都 能 改变，说句公道话。 | But everyone can change if they really want to, to be fair. |
+| 2 | 年轻人 像 海绵——他们 适应 快、还 不 介意 试 新 东西。 | Young people are like sponges — they pick up new things fast and don't mind trying them. |
+| 3 | 而 老年人 常常 更喜欢 事情 保持 不变，因为 那 是 他们 习惯 的。 | Whereas older folk often prefer things to stay the same, because that's what they're used to. |
+| 4 | 话虽如此，任何人 只要 真的 想 都 能 改变。 | That said, anyone can change if they really want to. |
+| 5 | 所以 它 大多 取决于 他们 习惯 什么。 | So it mostly depends on what they're used to. |
 
-> Quite differently, I'd say. Young people are like sponges — they adapt fast, whereas older folk prefer things to stay the same. It comes down to what they're used to. But everyone can change if they really want to, to be fair.
+> Quite differently, I'd say. Young people are like sponges — they pick up new things fast and don't mind trying them. Whereas older folk often prefer things to stay the same, because that's what they're used to. That said, anyone can change if they really want to. So it mostly depends on what they're used to.
 
-> 🔁 **复用**：`Quite differently, I'd say`(老03-Q1)+`like sponges`(新15-Q4)+`whereas older folk`+`comes down to`+`to be fair`。
+> 🔁 **复用**：`Quite differently, I'd say`(老03-Q1)+`like sponges`(新15-Q4)+`whereas older folk`。**⑦升级**：机制(老人喜欢不变因为习惯)+让步(任何人真想都能改)。**LAND**：`So it mostly depends on…`。
 
 **Q4. Is it good to change jobs frequently?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 换 工作 能 带来 新 机会 和 更好 报酬，而 待 太久 会 感觉 卡住。 | Changing jobs can bring new chances and better pay, whereas staying too long can feel stuck. |
-| 3 | 但 换 得 太 频繁 在 简历上 看起来 不好。 | But changing too often looks bad on a CV. |
-| 4 | 所以 它 归结到 时机。 | So it comes down to timing. |
+| 2 | 换 工作 能 带来 新 机会 和 更好 报酬，还 让 事情 保持 新鲜。 | Changing jobs can bring new chances and better pay, and it keeps things fresh. |
+| 3 | 但 如果 你 换 得 太 频繁，在 简历上 看起来 不好，而 你 也 从来 没 真正 安定 下来。 | But if you move too often, it can look bad on your CV, and you never really settle. |
+| 4 | 而 在 一个 地方 待 太久 又 会 让 你 感觉 卡住。 | Whereas staying somewhere too long can leave you feeling stuck. |
+| 5 | 所以 最 主要 的 是 把 时机 拿捏 对。 | So the main thing is getting the timing right. |
 
-> It's a bit of a mixed bag, honestly. Changing jobs can bring new chances and better pay, whereas staying too long can feel stuck. But changing too often looks bad on a CV. So it comes down to timing.
+> It's a bit of a mixed bag, honestly. Changing jobs can bring new chances and better pay, and it keeps things fresh. But if you move too often, it can look bad on your CV, and you never really settle. Whereas staying somewhere too long can leave you feeling stuck. So the main thing is getting the timing right.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`feeling stuck`。**⑦升级**：机制(换太频没安定/待太久卡住)。**LAND**：`So the main thing is…`。
 
 **Q5. What kinds of changes are good for people?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 健康的 那些，我会说。 | Mainly healthy ones, I'd say. |
-| 2 | 像 多 锻炼 或 减少 屏幕 时间 真的 有帮助。 | Things like exercising more or cutting down on screen time really help. |
-| 3 | 除此之外，学 一个 新 东西 让 你的 脑子 保持 敏锐。 | On top of that, learning something new keeps your mind sharp. |
-| 4 | 所以 它 归结到 让 你的 生活 变 更好 的 改变。 | So it comes down to changes that make your life better. |
+| 2 | 像 多 锻炼 或 减少 屏幕 时间 这类，随 时间 真的 会 累积 起来。 | Things like exercising more or cutting down on screen time really add up over time. |
+| 3 | 我 自己 就 注意到 了——几 星期 的 晨跑，我 就 感觉 更 敏锐、更 少 压力。 | I noticed it myself — a few weeks of early runs and I felt sharper and less stressed. |
+| 4 | 除此之外，学 一个 新 东西 让 你的 脑子 保持 活跃。 | On top of that, learning something new keeps your mind active. |
+| 5 | 所以 真的，是 那些 让 你 日常 生活 变 更好 的 改变。 | So really, it's the changes that make your daily life better. |
 
-> Mainly healthy ones, I'd say. Things like exercising more or cutting down on screen time really help. On top of that, learning something new keeps your mind sharp. So it comes down to changes that make your life better.
+> Mainly healthy ones, I'd say. Things like exercising more or cutting down on screen time really add up over time. I noticed it myself — a few weeks of early runs and I felt sharper and less stressed. On top of that, learning something new keeps your mind active. So really, it's the changes that make your daily life better.
 
-> 🔁 **复用**：`Mainly … I'd say`+`cutting down on screen time`(新16风)+`On top of that`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`cutting down on screen time`(新16风)+`On top of that`。**⑦升级**：机制(随时间累积)+个人锚点(几周晨跑更敏锐,同 P2 话题)。**LAND**：`So really, it's the changes that…`。
 
 **Q6. How does technology change people's lives?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大大地，我 觉得。 | Massively, I reckon. |
-| 2 | 它 让 一切 更 快——你 现在 几乎 任何 东西 都 能 在 手机上 做。 | It's made everything faster — you can do almost anything on your phone now. |
+| 2 | 它 让 一切 更 快——你 现在 能 从 手机 上 购物、工作、还 聊天。 | It's made everything faster — you can shop, work, and chat all from your phone. |
 | 3 | 而 它 也 让 我们 有点 更 懒、更 粘 屏幕。 | Whereas it's also made us a bit lazier and more glued to screens. |
-| 4 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
+| 4 | 尤其 孩子 花 好几个 小时 打 游戏，而不 是 出去 玩。 | Kids especially spend hours on games instead of playing outside. |
+| 5 | 所以 它 归结到 我们 怎么 用 它。 | So it comes down to how we use it. |
 
-> Massively, I reckon. It's made everything faster — you can do almost anything on your phone now. Whereas it's also made us a bit lazier and more glued to screens. So it comes down to how we use it.
+> Massively, I reckon. It's made everything faster — you can shop, work, and chat all from your phone. Whereas it's also made us a bit lazier and more glued to screens. Kids especially spend hours on games instead of playing outside. So it comes down to how we use it.
 
-> 🔁 **复用**：`Massively, I reckon`+`whereas`+`glued to screens`(新16-Q3)+`comes down to how we use it`(新07-Q6)。
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`glued to screens`(新16-Q3)+`comes down to how we use it`(新07-Q6)。**⑦升级**：具体(手机购物/工作/聊天)+画面(孩子打游戏不出去玩)。**LAND**：`comes down to`(本卡唯一)。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to wanting something better` · `Mainly breaking old habits, I'd say` / `stuck in our ways` / `starting small` · `Quite differently, I'd say` / `like sponges` · `a bit of a mixed bag, honestly` / `comes down to timing` · `Mainly healthy ones, I'd say` / `cutting down on screen time` · `Massively, I reckon` / `comes down to how we use it`。
 
