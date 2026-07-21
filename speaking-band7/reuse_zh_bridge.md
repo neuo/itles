@@ -4904,65 +4904,70 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 这 世界 变 得 快，所以 你 得 跟上，不然 你 落后。 | The world changes fast, so you have to keep up or you fall behind. |
-| 3 | 而 停止 学习 的人 固守 老一套。 | Whereas people who stop learning get stuck in their ways. |
-| 4 | 所以 它 归结到 一辈子 保持 好奇。 | So it comes down to staying curious your whole life. |
+| 2 | 这 世界 变 得 太 快 了，所以 如果 你 停止 学习，你 很快 就 落后。 | The world changes so fast that if you stop learning, you quickly fall behind. |
+| 3 | 看看 就 这 几年 科技 变 了 多少——你 不得不 跟上。 | Look at how much has changed with technology in just a few years — you have to keep up. |
+| 4 | 停止 学习 的人 往往 固守 老一套。 | People who stop learning tend to get stuck in their ways. |
+| 5 | 所以 真的，它 是 关于 一辈子 保持 好奇。 | So really, it's about staying curious your whole life. |
 
-> Absolutely, I think so. The world changes fast, so you have to keep up or you fall behind. Whereas people who stop learning get stuck in their ways. So it comes down to staying curious your whole life.
+> Absolutely, I think so. The world changes so fast that if you stop learning, you quickly fall behind. Look at how much has changed with technology in just a few years — you have to keep up. People who stop learning tend to get stuck in their ways. So really, it's about staying curious your whole life.
 
-> 🔁 **复用**：`Absolutely, I think so`+`keep up … fall behind`(新16-Q2)+`whereas`+`stuck in their ways`(新15-Q4)+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`keep up … fall behind`(新16-Q2)+`stuck in their ways`(新15-Q4)。**⑦升级**：机制(变太快停学就落后)+具体(这几年科技变多少)。**LAND**：`So really, it's about…`。
 
 **Q2. Should teachers make learning in their classes fun?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，是的。 | Absolutely, yeah. |
-| 2 | 如果 一节 课 好玩、动手，孩子 真的 会 专注。 | If a class is fun and hands-on, kids actually pay attention. |
-| 3 | 而 如果 一个 老师 只 对 你 说，学生 就 走神。 | Whereas if a teacher just talks at you, students switch off. |
-| 4 | 所以 它 归结到 保持 它 吸引人。 | So it comes down to keeping it engaging. |
+| 2 | 如果 一节 课 好玩、动手，孩子 真的 会 专注、还 记 得 更 多。 | If a class is fun and hands-on, kids actually pay attention and remember more. |
+| 3 | 而 如果 一个 老师 全程 只 对 他们 说，学生 几 分钟 内 就 走神。 | Whereas if a teacher just talks at them the whole time, students switch off within minutes. |
+| 4 | 一个 短 游戏 或 一段 视频，就 能 把 一个 无聊 话题 变成 他们 享受 的 东西。 | A short game or a video can turn a boring topic into something they enjoy. |
+| 5 | 所以 最 主要 的 是 保持 它 吸引人。 | So the main thing is keeping it engaging. |
 
-> Absolutely, yeah. If a class is fun and hands-on, kids actually pay attention. Whereas if a teacher just talks at you, students switch off. So it comes down to keeping it engaging.
+> Absolutely, yeah. If a class is fun and hands-on, kids actually pay attention and remember more. Whereas if a teacher just talks at them the whole time, students switch off within minutes. A short game or a video can turn a boring topic into something they enjoy. So the main thing is keeping it engaging.
 
-> 🔁 **复用**：`hands-on`(新16)+`whereas`+`talks at you / switch off`(新03-Q4)+`comes down to`。
+> 🔁 **复用**：`hands-on`(新16)+`whereas`+`talks at you / switch off`(新03-Q4)。**⑦升级**：机制(动手就专注记更多)+具体(短游戏/视频把无聊变享受)。**LAND**：`So the main thing is…`。
 
 **Q3. Do you think there are too many subjects for students to learn?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 孩子 这些天 确实 手头 一大堆 事。 | Kids do have a lot on their plate these days. |
-| 3 | 而 一个 广的 基础 确实 帮 他们 找到 他们 喜欢 什么。 | Whereas a broad base does help them find what they like. |
-| 4 | 所以 它 归结到 保持 一个 明智的 平衡。 | So it comes down to keeping a sensible balance. |
+| 2 | 孩子 这些天 确实 手头 一大堆 事——一堆 科目 的 一大摞 作业。 | Kids really do have a lot on their plate these days — piles of homework across loads of subjects. |
+| 3 | 但 一个 广的 基础 确实 帮 他们 找到 他们 真正 擅长 什么。 | But a broad base does help them find what they're actually good at. |
+| 4 | 问题 更 在于 每 科 多 少，而不 是 科目 的 数量。 | The problem is more about how much of each, rather than the number of subjects. |
+| 5 | 所以 关键 是 保持 一个 明智的 平衡。 | So the key is keeping a sensible balance. |
 
-> To some extent, yeah. Kids do have a lot on their plate these days. Whereas a broad base does help them find what they like. So it comes down to keeping a sensible balance.
+> To some extent, yeah. Kids really do have a lot on their plate these days — piles of homework across loads of subjects. But a broad base does help them find what they're actually good at. The problem is more about how much of each, rather than the number of subjects. So the key is keeping a sensible balance.
 
-> 🔁 **复用**：`To some extent, yeah`+`a lot on their plate`(新15)+`whereas`+`comes down to`。
+> 🔁 **复用**：`To some extent, yeah`+`a lot on their plate`(新15)。**⑦升级**：具体(一堆科目一大摞作业)+reframe(问题在每科多少非科目数量)。**LAND**：`So the key is…`。
 
 **Q4. Is it better to focus on a few subjects or to learn many subjects?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 专注 让 你 钻 深，而 一个 广的 范围 让 你的 选择 敞开。 | Focusing lets you go deep, whereas a broad range keeps your options open. |
-| 3 | 对 我 来说，两者 的 一个 混合 最好。 | For me, a mix of both works best. |
-| 4 | 所以 它 归结到 你的 目标。 | So it comes down to your goals. |
+| 2 | 专注 让 你 真的 钻 深、成为 一个 专家。 | Focusing lets you really go deep and become an expert. |
+| 3 | 而 一个 广的 范围 让 你的 选择 敞开，所以 你 改 主意 也 不 会 卡住。 | Whereas a broad range keeps your options open, so you're not stuck if you change your mind. |
+| 4 | 对 我 来说，两者 的 一个 混合 最好——一个 主 方向，加 几个 别的 兴趣。 | For me, a mix of both works best — a main focus, plus a few other interests. |
+| 5 | 所以 它 归结到 你的 目标。 | So it comes down to your goals. |
 
-> It's a bit of a mixed bag, honestly. Focusing lets you go deep, whereas a broad range keeps your options open. For me, a mix of both works best. So it comes down to your goals.
+> It's a bit of a mixed bag, honestly. Focusing lets you really go deep and become an expert. Whereas a broad range keeps your options open, so you're not stuck if you change your mind. For me, a mix of both works best — a main focus, plus a few other interests. So it comes down to your goals.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`a mix of both`(老08-Q1)+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`whereas`+`a mix of both`(老08-Q1)。**⑦升级**：机制(专注成专家/广的选择敞开改主意不卡)+具体(一个主方向加几个兴趣)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q5. Do you think enterprises should provide training for their employees?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 当 员工 一直 学习，他们 保持 有动力。 | When staff keep learning, they stay motivated. |
-| 3 | 此外，它 是 花得 值的 钱——一个 训练 更 好的 团队 做 更 好的 活。 | Plus, it's money well spent — a better-trained team does better work. |
-| 4 | 所以 它 归结到 投资 在 你的 人 身上。 | So it comes down to investing in your people. |
+| 2 | 当 员工 一直 学习，他们 保持 有动力、还 做 更 好的 活。 | When staff keep learning, they stay motivated and do better work. |
+| 3 | 它 是 花得 值的 钱——一个 训练 有素 的 团队 对 一家 公司 值 得 多 得 多。 | It's money well spent — a well-trained team is worth far more to a company. |
+| 4 | 而 如果 人们 感觉 公司 在 他们 身上 投资，他们 更 可能 留 下来。 | And people are more likely to stay if they feel the company invests in them. |
+| 5 | 所以 真的，它 是 关于 投资 在 你的 人 身上。 | So really, it's about investing in your people. |
 
-> Absolutely, I think so. When staff keep learning, they stay motivated. Plus, it's money well spent — a better-trained team does better work. So it comes down to investing in your people.
+> Absolutely, I think so. When staff keep learning, they stay motivated and do better work. It's money well spent — a well-trained team is worth far more to a company. And people are more likely to stay if they feel the company invests in them. So really, it's about investing in your people.
 
-> 🔁 **复用**：`Absolutely, I think so`+`motivated`(新24-Q1)+`money well spent`(老20)+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`motivated`(新24)+`money well spent`(老20)。**⑦升级**：机制+推论(感觉被投资就更愿留)。**LAND**：`So really, it's about…`。
 
 **Q6. Do you think it is good for older adults to continue learning?**
 
@@ -4970,12 +4975,13 @@
 |---|---|---|
 | 1 | 绝对，是的。 | Absolutely, yeah. |
 | 2 | 它 让 他们的 脑子 活跃、还 给 他们 一种 目的感。 | It keeps their mind active and gives them a sense of purpose. |
-| 3 | 我 父母 就 一直 在 学 新 app，比如。 | My parents are always learning new apps, for instance. |
-| 4 | 所以 它 归结到 永远 不 会 太 老 [去]学。 | So it comes down to never being too old to learn. |
+| 3 | 我 父母 就 一直 在 学 新 东西——新 app、新 菜谱，那种 东西。 | My parents are always learning new things — new apps, new recipes, that kind of thing. |
+| 4 | 它 也 帮 他们 保持 联系，尤其 跟 年轻 的 家人。 | It also helps them stay connected, especially with younger family members. |
+| 5 | 所以 最 主要 的 是 你 永远 不 会 太 老 [去]学。 | So the main thing is you're never too old to learn. |
 
-> Absolutely, yeah. It keeps their mind active and gives them a sense of purpose. My parents are always learning new apps, for instance. So it comes down to never being too old to learn.
+> Absolutely, yeah. It keeps their mind active and gives them a sense of purpose. My parents are always learning new things — new apps, new recipes, that kind of thing. It also helps them stay connected, especially with younger family members. So the main thing is you're never too old to learn.
 
-> 🔁 **复用**：`Absolutely, yeah`+`my parents … apps`(老08-Q2)+`comes down to`。
+> 🔁 **复用**：`Absolutely, yeah`+`my parents … apps`(老08-Q2)+`that kind of thing`。**⑦升级**：具体(新app/新菜谱)+推论(帮他们跟年轻家人保持联系)。**LAND**：`So the main thing is…`。
 
 **P3 句型/模板（复用池）**：`Absolutely, I think so` / `keep up or you fall behind` / `stuck in their ways` · `hands-on` / `talks at you / switch off` · `To some extent, yeah` / `a lot on their plate` · `a bit of a mixed bag, honestly` / `a mix of both` · `money well spent` / `investing in your people` · `Absolutely, yeah` / `my parents … apps` / `never being too old to learn`。
 
