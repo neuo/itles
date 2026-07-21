@@ -1017,40 +1017,40 @@
 
 ---
 
-## P2-新09 · A person with a successful business — Chen 咖啡馆（Person）  〔复用生成〕
+## P2-新09 · A person with a successful business — 张伟软件公司（Person）  〔复用生成 · 改张伟〕
 
 > **📋 P2 题面**：Describe a person you know who has a successful business.
 > *You should say:* Who this person is · How you got to know him/her · Why and how he/she started the business · What business he/she does · And explain why you think the business is successful
 >
 > **Cue**: 是谁 / 怎么认识 / 为何+怎么开始 / 什么生意 / 为何成功 · 题型 Person
 >
-> 🔁 **整卡复用自**：老23(a friend of mine) + 老24-MUJI(a nice escape from) + 老20(money/not just money) + 老12(the freedom) + 新15(a great example) + person句型池。
+> 🔁 **整卡复用自**：新25 张伟(`an old classmate of mine` / `known each other for over ten years` / `computer club at university` / `mess around building little programs` / `stays calm`) + Chen 框架(`started his own company` / `didn't just want to make money` / `comes down to passion` / `clients keep coming back` / `a great example of doing something you love`) + 老20(not just money)。**张伟软件公司=具体设定**：耐心 + 热爱 → 客户各种要求都处理得好。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个人 是 我的 一个 朋友，Chen，（他 经营 一家 真的 很 成功的 咖啡馆）。 | The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. |
-| 2 | 我 几年前 认识 他，当 我 成了 他 那儿 的 一个 常客。 | I got to know him a few years ago, when I became a regular at his place. |
-| 3 | 他 自己 开 了 那 咖啡馆，在 辞 了 他 办公室 工作 之后。 | He started the café himself, after quitting his office job. |
-| 4 | 真正 让 它 出众的 是 那 氛围——它 平静 又 温馨，一个 从 繁忙 街道 的 好 逃离。 | What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. |
-| 5 | 他 认识 他 大多数 常客 的 名字，而 他 总是 记得 你 的 惯常 点单。 | He knows most of his regulars by name, and he always remembers your usual order. |
-| 6 | 我 佩服 他 的 是 他 多么 在乎 那些 小 细节。 | What I admire about him is how much he cares about the little things. |
-| 7 | 他 不 只是 想 挣钱——他 想 建 一个 人们 爱 的 地方。 | He didn't just want to make money — he wanted to build a place people love. |
-| 8 | 说实话，那 就是 为什么 那 咖啡馆 做 得 这么 好，我 觉得。 | Honestly, that's why the café's done so well, I reckon. |
-| 9 | 它 归结到 热情，不 只是 一个 好 商业 计划。 | It comes down to passion, not just a good business plan. |
-| 10 | 无论 什么时候 我 有 忙 的 一周，他的 咖啡馆 是 我 第一个 去 放松 的 地方。 | Whenever I've got a busy week, his café is the first place I go to unwind. |
-| 11 | 所以 对我，他 是 一个 做 你 热爱 的 事 的 好 榜样。 | So for me, he's a great example of doing something you love. |
+| 1 | 我想聊的那个人 是 张伟，我 的 一个 老 同学，（他 经营 一家 成功的 小 软件 公司）。 | The person I'd like to talk about is Zhangwei, an old classmate of mine who runs a successful little software company. |
+| 2 | 我们 认识 十多 年 了，从 我们 在 大学 电脑 社团 那时候 起。 | We've known each other for over ten years, ever since we were in the computer club at university. |
+| 3 | 那时候 我们 会 一起 瞎 鼓捣、写 一些 小 程序，而 他 一直 都 很 擅长。 | Back then we'd mess around building little programs together, and he was always good at it. |
+| 4 | 几年前，他 自己 开 了 一家 公司，给 小 生意 做 app。 | A few years ago, he started his own company, building apps for small businesses. |
+| 5 | 真正 让 他 成功 的，我 觉得，是 他 的 耐心。 | What really makes him successful, I think, is his patience. |
+| 6 | 客户 常常 改 主意、或 要 一些 麻烦 的 东西，但 他 保持 冷静、还 不 抱怨 地 处理 每 一个 要求。 | Clients often change their minds or ask for tricky things, but he stays calm and handles every request without complaining. |
+| 7 | 除此之外，他 真心 热爱 他 做 的 事——你 看得出 他 在乎 每 一个 项目。 | On top of that, he genuinely loves what he does — you can tell he cares about every project. |
+| 8 | 他 不 只是 想 挣钱——他 想 建 一个 他 骄傲 的 东西。 | He didn't just want to make money — he wanted to build something he's proud of. |
+| 9 | 说实话，那 就是 为什么 他的 客户 一直 回来、还 把 他 推荐 给 别人。 | Honestly, that's why his clients keep coming back and recommend him to others. |
+| 10 | 它 归结到 耐心 和 热情，不 只是 技术。 | It comes down to patience and passion, not just technical skill. |
+| 11 | 所以 对我，他 是 一个 做 你 热爱 的 事、还 把 它 做 好 的 好 榜样。 | So for me, he's a great example of doing something you love and doing it well. |
 
 ### ②P2 整段（shadow）
 
-> The person I'd like to talk about is a friend of mine, Chen, who runs a really successful café. I got to know him a few years ago, when I became a regular at his place. He started the café himself, after quitting his office job. What really makes it stand out is the atmosphere — it's calm and cosy, a nice escape from the busy street. He knows most of his regulars by name, and he always remembers your usual order. What I admire about him is how much he cares about the little things. He didn't just want to make money — he wanted to build a place people love. Honestly, that's why the café's done so well, I reckon. It comes down to passion, not just a good business plan. Whenever I've got a busy week, his café is the first place I go to unwind. So for me, he's a great example of doing something you love.
+> The person I'd like to talk about is Zhangwei, an old classmate of mine who runs a successful little software company. We've known each other for over ten years, ever since we were in the computer club at university. Back then we'd mess around building little programs together, and he was always good at it. A few years ago, he started his own company, building apps for small businesses. What really makes him successful, I think, is his patience. Clients often change their minds or ask for tricky things, but he stays calm and handles every request without complaining. On top of that, he genuinely loves what he does — you can tell he cares about every project. He didn't just want to make money — he wanted to build something he's proud of. Honestly, that's why his clients keep coming back and recommend him to others. It comes down to patience and passion, not just technical skill. So for me, he's a great example of doing something you love and doing it well.
 
-> 🔁 **复用**：句1 `a friend of mine`(老23)；句4 `What really makes it stand out is`+`a nice escape from`(老24)；句6 `What I admire about him is`；句7 not-just-money(老20)；句8 `Honestly … I reckon`；句9 `comes down to`；句10 `a great example`(新15)。
+> 🔁 **复用**：句1 `an old classmate of mine, who runs`(新25/老23)；句2 `known each other for over ten years`+`computer club at university`(新25)；句3 `mess around building little programs`(新25)；句6 `stays calm`(新25)；句8 not-just-money(老20)；句10 `comes down to`；句11 `a great example of doing something you love`。**改张伟**：软件公司/耐心处理客户要求。
 
 ### 句型/模板（复用池）
 
-- `The person I'd like to talk about is a friend of mine, …, who runs …` · `What really makes it stand out is …, a nice escape from …` · `What I admire about him is how much he cares about …` · `it comes down to passion, not just …` · `a great example of doing something you love`
+- `The person I'd like to talk about is …, an old classmate of mine who runs …` · `We've known each other for over ten years, ever since … at university` · `he stays calm and handles every request without complaining` · `he didn't just want to make money — he wanted to build something he's proud of` · `it comes down to patience and passion, not just …` · `a great example of doing something you love and doing it well`
 
 ---
 
@@ -1061,13 +1061,14 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
-| 2 | 有些人 想 做 自己的 老板，而 另一些 只是 有 一个 他们 相信的 主意。 | Some want to be their own boss, whereas others just have an idea they believe in. |
-| 3 | 除此之外，有 那个 机会 [去]挣 得 比 一份 普通 工作 多。 | On top of that, there's the chance to earn more than a normal job. |
-| 4 | 所以 它 归结到 自由 和 钱，大多。 | So it comes down to freedom and money, mostly. |
+| 2 | 有些人 想 做 自己的 老板、有 那个 自由 用 自己的 方式 做 事。 | Some people want to be their own boss and have the freedom to do things their own way. |
+| 3 | 而 另一些 只是 有 一个 他们 真的 相信的 主意，想 把 它 变成 现实。 | Whereas others just have an idea they really believe in and want to make it happen. |
+| 4 | 当然，还 有 那个 机会 [去]挣 得 比 一份 普通 工作 多。 | And of course, there's the chance to earn more than you would in a normal job. |
+| 5 | 所以 真的，它 大多 是 关于 自由 和 钱。 | So really, it's about freedom and money, mostly. |
 
-> A few reasons, really. Some want to be their own boss, whereas others just have an idea they believe in. On top of that, there's the chance to earn more than a normal job. So it comes down to freedom and money, mostly.
+> A few reasons, really. Some people want to be their own boss and have the freedom to do things their own way. Whereas others just have an idea they really believe in and want to make it happen. And of course, there's the chance to earn more than you would in a normal job. So really, it's about freedom and money, mostly.
 
-> 🔁 **复用**：`A few reasons, really`+`whereas`+`On top of that`+`the freedom`(老12)+`comes down to`。
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`the freedom`(老12)。**⑦升级**：机制(自己的方式/把主意变现实)。**LAND**：`So really, it's about…`。
 
 **Q2. Should governments provide financial support to start-ups?**
 
@@ -1075,38 +1076,41 @@
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
 | 2 | 小 生意 创造 一大堆 工作，所以 帮 它们 是 花得 值的 钱。 | Small businesses create loads of jobs, so helping them is money well spent. |
-| 3 | 而 没有 支持，一大堆 好 主意 永远 起 不了 步。 | Whereas without support, a lot of good ideas never get off the ground. |
-| 4 | 所以 早期 一点 帮助 真的 很 划算。 | So a bit of help early on really pays off. |
+| 3 | 没有 一点 支持，一大堆 好 主意 永远 都 起 不了 步——一开始 成本 就是 太 高。 | Without a bit of support, a lot of good ideas never even get started — the costs are just too high at the beginning. |
+| 4 | 早期 一小笔 补贴 或 一个 税收 减免，可能 就 决定 一个 生意 活 不 活 得 下来。 | A small grant or a tax break early on can be the difference between a business surviving or not. |
+| 5 | 所以 早期 一点 帮助 真的 很 有用。 | So a bit of help early on really makes a difference. |
 
-> Absolutely, I think so. Small businesses create loads of jobs, so helping them is money well spent. Whereas without support, a lot of good ideas never get off the ground. So a bit of help early on really pays off.
+> Absolutely, I think so. Small businesses create loads of jobs, so helping them is money well spent. Without a bit of support, a lot of good ideas never even get started — the costs are just too high at the beginning. A small grant or a tax break early on can be the difference between a business surviving or not. So a bit of help early on really makes a difference.
 
-> 🔁 **复用**：`Absolutely, I think so`+`loads of jobs`(新18-Q5)+`money well spent`(老20)+`whereas`。
+> 🔁 **复用**：`Absolutely, I think so`+`loads of jobs`(新18-Q5)+`money well spent`(老20)。**⑦升级**：机制(成本太高起不了步)+具体(一小笔补贴/税收减免决定生死)。`get off the ground`→`never even get started`、`pays off`→`makes a difference`。**LAND**：`makes a difference`。
 
 **Q3. Do most people prefer shopping at big stores or small stores?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 大 店 赢 在 价格 和 选择，而 小 店 感觉 更 有人情味。 | Big stores win on price and choice, whereas small shops feel more personal. |
-| 3 | 对 我 来说，它 归结到 我 在 买 什么。 | For me, it comes down to what I'm buying. |
-| 4 | 所以 两者 都 有 它们的 位置，说句公道话。 | So both have their place, to be fair. |
+| 2 | 大 店 赢 在 价格 和 选择——你 能 在 一个 屋顶 下 买 到 一切。 | Big stores win on price and choice — you can get everything under one roof. |
+| 3 | 而 小 店 感觉 更 有人情味——那 老板 常常 认识 你、叫 得 出 你 名字。 | Whereas small shops feel more personal — the owner often knows you by name. |
+| 4 | 对 我 来说，它 取决于 我 在 买 什么——大 店 买 一周 的 菜，小 店 买 点 特别 的。 | For me, it depends on what I'm buying — big shop for the weekly food, small shop for something special. |
+| 5 | 所以 最 主要 的 是 两者 都 有 它们的 位置。 | So the main thing is both have their place. |
 
-> It's a bit of a mixed bag, honestly. Big stores win on price and choice, whereas small shops feel more personal. For me, it comes down to what I'm buying. So both have their place, to be fair.
+> It's a bit of a mixed bag, honestly. Big stores win on price and choice — you can get everything under one roof. Whereas small shops feel more personal — the owner often knows you by name. For me, it depends on what I'm buying — big shop for the weekly food, small shop for something special. So the main thing is both have their place.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`comes down to what I'm buying`(老24-Q6)+`to be fair`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`under one roof`(老24)。**⑦升级**：具体(一周的菜 vs 特别的东西/老板叫得出名字)。**LAND**：`So the main thing is…`。
 
 **Q4. What makes a business successful?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几样 东西，真的。 | A few things, really. |
-| 2 | 一个 好 产品 最 要紧，但 好好 对待 顾客 也 一样。 | A good product matters most, but so does treating customers well. |
-| 3 | 我 朋友 Chen 是 一个 好 例子——他 记得 每个人、还 让 他们 感觉 宾至如归。 | My friend Chen's a good example — he remembers everyone and makes them feel at home. |
-| 4 | 所以 它 归结到 在乎 那些 小 细节。 | So it comes down to caring about the little things. |
+| 2 | 一个 好 产品 最 要紧，但 好好 对待 顾客 也 一样 重要。 | A good product matters most, but treating customers well is just as important. |
+| 3 | 最好 的 那些 小 生意 记得 他们的 常客、还 让 他们 感觉 宾至如归。 | The best small businesses remember their regulars and make them feel at home. |
+| 4 | 如果 人们 感觉 被 照顾 到，他们 就 一直 回来、还 告诉 他们 朋友。 | If people feel looked after, they keep coming back and tell their friends. |
+| 5 | 所以 它 归结到 在乎 那些 小 细节。 | So it comes down to caring about the little things. |
 
-> A few things, really. A good product matters most, but so does treating customers well. My friend Chen's a good example — he remembers everyone and makes them feel at home. So it comes down to caring about the little things.
+> A few things, really. A good product matters most, but treating customers well is just as important. The best small businesses remember their regulars and make them feel at home. If people feel looked after, they keep coming back and tell their friends. So it comes down to caring about the little things.
 
-> 🔁 **复用**：`A few things, really`(新16-Q6)+Chen link+`a good example`+`comes down to`。
+> 🔁 **复用**：`A few things, really`(新16-Q6)+`comes down to`。**⑦升级**：机制(被照顾就回来还告诉朋友)。**⑩**：去掉"my friend Chen"改通用"最好的小生意"。**LAND**：`comes down to`(本卡唯一)。
 
 **Q5. What makes a business fail?**
 
@@ -1114,12 +1118,13 @@
 |---|---|---|
 | 1 | 主要 是 差 的 规划，我会说。 | Mainly poor planning, I'd say. |
 | 2 | 如果 你 没 想清楚 就 冲 进去，你 很快 就 花光 钱。 | If you rush in without thinking it through, you run out of money fast. |
-| 3 | 除此之外，无视 顾客 想要 什么 是 一个 致命伤。 | On top of that, ignoring what customers want is a killer. |
-| 4 | 所以 它 归结到 规划 和 倾听。 | So it comes down to planning and listening. |
+| 3 | 除此之外，无视 顾客 真正 想要 什么 是 一个 大 错误。 | On top of that, ignoring what customers actually want is a big mistake. |
+| 4 | 我 见过 一些 店 开张 时 引来 很多 关注，然后 一 年 内 就 关 了。 | I've seen shops get a lot of attention when they first open, and then close within a year. |
+| 5 | 所以 关键 是 规划 和 倾听。 | So the key is planning and listening. |
 
-> Mainly poor planning, I'd say. If you rush in without thinking it through, you run out of money fast. On top of that, ignoring what customers want is a killer. So it comes down to planning and listening.
+> Mainly poor planning, I'd say. If you rush in without thinking it through, you run out of money fast. On top of that, ignoring what customers actually want is a big mistake. I've seen shops get a lot of attention when they first open, and then close within a year. So the key is planning and listening.
 
-> 🔁 **复用**：`Mainly … I'd say`+`rush in without thinking it through`(新12 rushing into)+`On top of that`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`rush in without thinking it through`(新12)+`On top of that`。**⑦升级**：具体画面(声势大开张一年内就关)。`a killer`→`a big mistake`。**LAND**：`So the key is…`。
 
 **Q6. Is it easy to set up a new business in your country?**
 
@@ -1127,12 +1132,13 @@
 |---|---|---|
 | 1 | 不太，说实话。 | Not really, to be honest. |
 | 2 | 那 文书 是 一个 麻烦，而 大 城市 的 房租 高得离谱。 | The paperwork's a hassle, and rent in big cities is sky-high. |
-| 3 | 而 网店 起步 容易 一点，因为 你 省 了 那 房租。 | Whereas online shops are a bit easier to start, since you skip the rent. |
-| 4 | 所以 它 归结到 你 有 多少 钱 和 耐心。 | So it comes down to how much money and patience you've got. |
+| 3 | 一家 小 咖啡馆 或 小 店 光 是 每月 付 房租 就 得 挣 一大 笔。 | A small café or shop has to make a lot just to cover the rent each month. |
+| 4 | 而 网店 起步 容易 一点，因为 你 完全 省 了 那 房租。 | Whereas online shops are a bit easier to start, since you skip the rent altogether. |
+| 5 | 所以 真的，它 取决于 你 有 多少 钱 和 耐心。 | So really, it depends on how much money and patience you've got. |
 
-> Not really, to be honest. The paperwork's a hassle, and rent in big cities is sky-high. Whereas online shops are a bit easier to start, since you skip the rent. So it comes down to how much money and patience you've got.
+> Not really, to be honest. The paperwork's a hassle, and rent in big cities is sky-high. A small café or shop has to make a lot just to cover the rent each month. Whereas online shops are a bit easier to start, since you skip the rent altogether. So really, it depends on how much money and patience you've got.
 
-> 🔁 **复用**：`Not really, to be honest`(老20-Q1)+`rent … sky-high`(老20-Q2)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Not really, to be honest`(老20-Q1)+`rent … sky-high`(老20-Q2)+`whereas`。**⑦升级**：具体(小咖啡馆光付房租就得挣一大笔)。**LAND**：`So really, it depends on…`。
 
 **P3 句型/模板（复用池）**：`A few reasons, really` / `whereas` / `comes down to freedom and money` · `Absolutely, I think so` / `loads of jobs` / `money well spent` · `a bit of a mixed bag, honestly` / `comes down to what I'm buying` · `A few things, really` / `a good example` · `Mainly poor planning, I'd say` / `rush in without thinking it through` · `Not really, to be honest` / `rent … sky-high`。
 
