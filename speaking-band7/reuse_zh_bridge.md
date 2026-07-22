@@ -3362,39 +3362,42 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 取决于 那个 人，真的。 | It depends on the person, really. |
-| 2 | 对 大多数人，它 是 一个 他们 享受、又 报酬 不错 的 东西。 | For most people, it's something they enjoy that also pays well. |
-| 3 | 而 对 另一些，它 更 关于 自由 或 帮 人。 | Whereas for others, it's more about freedom or helping people. |
-| 4 | 所以 它 归结到 对 你 什么 最 要紧。 | So it comes down to what matters most to you. |
+| 2 | 对 大多数人，它 是 一个 他们 享受、又 报酬 不错 的 东西——所以 他们 不 会 害怕 星期一。 | For most people, it's something they enjoy that also pays well — so they don't dread Mondays. |
+| 3 | 而 对 另一些，它 更 关于 自由，或 觉得 他们 在 帮 人。 | Whereas for others, it's more about freedom, or feeling like they're helping people. |
+| 4 | 对 我 来说，一份 梦想 工作 会 是 自由 加 我 热爱 的 事 的 混合。 | For me, a dream job would be a mix of freedom and doing something I love. |
+| 5 | 所以 真的，它 取决于 对 你 什么 最 要紧。 | So really, it depends on what matters most to you. |
 
-> It depends on the person, really. For most people, it's something they enjoy that also pays well. Whereas for others, it's more about freedom or helping people. So it comes down to what matters most to you.
+> It depends on the person, really. For most people, it's something they enjoy that also pays well — so they don't dread Mondays. Whereas for others, it's more about freedom, or feeling like they're helping people. For me, a dream job would be a mix of freedom and doing something I love. So really, it depends on what matters most to you.
 
-> 🔁 **复用**：`It depends on … really`+`whereas`+`the freedom`(老12)+`comes down to`。
+> 🔁 **复用**：`It depends on … really`+`whereas`+`freedom … doing something I love`(新09/P2)。**⑦升级**：具体(不害怕星期一)+个人锚点。**LAND**：`So really, it depends on…`。
 
 **Q2. What jobs do children want to do when they grow up?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
-| 2 | 一大堆 孩子 想 当 医生、老师、或 足球 运动员。 | Loads of kids want to be doctors, teachers, or football players. |
-| 3 | 我 儿子 一直 念叨 当 一个 工程师，像 我。 | My son goes on about being an engineer, like me. |
-| 4 | 所以 它 归结到 他们 看到 什么、又 崇拜 什么。 | So it comes down to whatever they've seen and admire. |
+| 2 | 一大堆 孩子 想 当 医生、老师、或 足球 运动员——那种 他们 在 电视上 看到 的 工作。 | Loads of kids want to be doctors, teachers, or football players — the jobs they see on TV. |
+| 3 | 我 儿子 现在 一直 念叨 当 一个 工程师，像 我，但 那 大概 每 一周 都 变。 | My son goes on about being an engineer like me right now, but that probably changes every week. |
+| 4 | 他们 通常 挑 一个 看起来 好玩 或 酷 的 工作，还 没 想 那 现实。 | They usually pick a job that looks fun or cool, without thinking about the reality. |
+| 5 | 所以 真的，它 大多 是 关于 他们 看到 什么、又 崇拜 什么。 | So really, it's mostly about whatever they've seen and admire. |
 
-> All sorts, really. Loads of kids want to be doctors, teachers, or football players. My son goes on about being an engineer, like me. So it comes down to whatever they've seen and admire.
+> All sorts, really. Loads of kids want to be doctors, teachers, or football players — the jobs they see on TV. My son goes on about being an engineer like me right now, but that probably changes every week. They usually pick a job that looks fun or cool, without thinking about the reality. So really, it's mostly about whatever they've seen and admire.
 
-> 🔁 **复用**：`All sorts, really`+son/engineer+`comes down to`+`admire`。
+> 🔁 **复用**：`All sorts, really`+son/engineer+`admire`。**⑦升级**：具体(电视上看到的/每周都变)+机制(挑看起来酷的没想现实)。**LAND**：`So really, it's mostly about…`。
 
 **Q3. Do people's ideal jobs change as they grow up?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大大地，我 觉得。 | Massively, I reckon. |
-| 2 | 小时候 你 梦 得 大，而 成年后 你 想 钱 和 稳定。 | As a kid you dream big, whereas as an adult you think about money and stability. |
-| 3 | 我 毕业 的时候，我 大多 想要 一份 稳定的 工作，不是 一份 花哨的。 | When I graduated, I mostly wanted a stable job, not a fancy one. |
-| 4 | 所以 它 归结到 你的 优先级 怎么 变。 | So it comes down to how your priorities shift. |
+| 2 | 小时候 你 梦 得 大——你 想 当 宇航员 或 明星。 | As a kid you dream big — you want to be an astronaut or a movie star. |
+| 3 | 而 成年后，你 想 钱、稳定、和 工作与生活 平衡。 | Whereas as an adult, you think about money, stability, and work-life balance. |
+| 4 | 我 毕业 的时候，我 大多 想要 一份 稳定的 工作，不是 一份 花哨的。 | When I graduated, I mostly wanted a stable job, not a fancy one. |
+| 5 | 所以 它 归结到 你的 优先级 随时间 怎么 变。 | So it comes down to how your priorities shift over time. |
 
-> Massively, I reckon. As a kid you dream big, whereas as an adult you think about money and stability. When I graduated, I mostly wanted a stable job, not a fancy one. So it comes down to how your priorities shift.
+> Massively, I reckon. As a kid you dream big — you want to be an astronaut or a movie star. Whereas as an adult, you think about money, stability, and work-life balance. When I graduated, I mostly wanted a stable job, not a fancy one. So it comes down to how your priorities shift over time.
 
-> 🔁 **复用**：`Massively, I reckon`+`whereas`+`a stable job`(新12)+`comes down to`。
+> 🔁 **复用**：`Massively, I reckon`+`whereas`+`a stable job`(新12)+`comes down to`。**⑦升级**：具体(宇航员/明星 vs 钱稳定平衡)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q4. What should people consider when choosing jobs?**
 
@@ -3402,38 +3405,40 @@
 |---|---|---|
 | 1 | 几样 东西，真的。 | A few things, really. |
 | 2 | 在 我 下定 决心 之前，我 权衡 了 我的 兴趣 和 那 工作 前景。 | Before I made up my mind, I weighed my interests and the job prospects. |
-| 3 | 除此之外，那 报酬 和 工作与生活 平衡 要紧。 | On top of that, the pay and work-life balance matter. |
-| 4 | 所以 它 归结到 权衡 几样 东西，不 只是 钱。 | So it comes down to weighing a few things, not just money. |
+| 3 | 除此之外，那 报酬 和 工作与生活 平衡 也 要紧——一份 高薪 但 让 你 累垮 的 工作 不 值得。 | On top of that, the pay and work-life balance matter too — a high salary isn't worth it if the job burns you out. |
+| 4 | 说到底，你 一天 花 大 部分 时间 在 工作 上，所以 它 得 适合 你的 生活。 | At the end of the day, you spend most of your day at work, so it has to fit your life. |
+| 5 | 所以 它 是 关于 权衡 几样 东西，不 只是 钱。 | So it's about weighing a few things, not just money. |
 
-> A few things, really. Before I made up my mind, I weighed my interests and the job prospects. On top of that, the pay and work-life balance matter. So it comes down to weighing a few things, not just money.
+> A few things, really. Before I made up my mind, I weighed my interests and the job prospects. On top of that, the pay and work-life balance matter too — a high salary isn't worth it if the job burns you out. At the end of the day, you spend most of your day at work, so it has to fit your life. So it's about weighing a few things, not just money.
 
-> 🔁 **复用**：`made up my mind`+`weighed … the job prospects`(新12 逐字)+`On top of that`+`not just money`(老20)。
+> 🔁 **复用**：`made up my mind`+`weighed … the job prospects`(新12)+`On top of that`+`not just money`(老20)。**⑦升级**：机制(高薪但累垮不值/花大部分时间在工作得适合生活)。**LAND**：`So it's about…`。
 
 **Q5. Is salary the main reason why people choose a certain job?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
-| 2 | 钱 要紧，显然——你 有 账单 要 付。 | Money matters, obviously — you've got bills to pay. |
-| 3 | 而 一大堆 人 也 想 一份 他们 真的 享受 的 工作。 | Whereas a lot of people also want a job they actually enjoy. |
-| 4 | 所以 它 归结到 两者 之间 的 一个 平衡。 | So it comes down to a balance between the two. |
+| 2 | 钱 要紧，显然——你 有 账单 要 付、还 有 家庭 要 养。 | Money matters, obviously — you've got bills to pay and a family to support. |
+| 3 | 但 一大堆 人 也 想 一份 他们 真的 享受 的 工作，即使 报酬 少 一点。 | But a lot of people also want a job they actually enjoy, even if it pays a bit less. |
+| 4 | 我 认识 一些 人 辞 了 高薪 工作，因为 他们 就是 太 不 开心 了。 | I know people who left high-paying jobs because they were just too unhappy. |
+| 5 | 所以 真的，它 是 两者 之间 的 一个 平衡。 | So really, it's a balance between the two. |
 
-> To some extent, yeah. Money matters, obviously — you've got bills to pay. Whereas a lot of people also want a job they actually enjoy. So it comes down to a balance between the two.
+> To some extent, yeah. Money matters, obviously — you've got bills to pay and a family to support. But a lot of people also want a job they actually enjoy, even if it pays a bit less. I know people who left high-paying jobs because they were just too unhappy. So really, it's a balance between the two.
 
-> 🔁 **复用**：`To some extent, yeah`+`whereas`+`comes down to a balance`。
+> 🔁 **复用**：`To some extent, yeah`+`a balance`。**⑦升级**：具体(辞高薪工作因为太不开心)。**LAND**：`So really, it's a balance…`。
 
 **Q6. What kind of jobs are the most popular in your country?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 科技 和 金融，我会说。 | Tech and finance, I'd say. |
-| 2 | 它们 报酬 不错，而 有 一大堆 需求。 | They pay well and there's loads of demand. |
-| 3 | 而 稳定的 政府 工作 也 受欢迎，因为 它们 有 保障。 | Whereas stable government jobs are popular too, because they're secure. |
-| 4 | 所以 它 归结到 钱 和 保障，大多。 | So it comes down to money and security, mostly. |
+| 2 | 它们 报酬 不错，而 有 一大堆 需求，所以 一大堆 年轻人 冲 着 它们 去。 | They pay well and there's loads of demand, so a lot of young people go for them. |
+| 3 | 而 稳定的 政府 工作 也 很 受欢迎——大家 都 叫 它们 "铁饭碗"，因为 它们 那么 有 保障。 | Whereas stable government jobs are really popular too — people call them the "iron rice bowl" because they're so secure. |
+| 4 | 所以 它 大多 是 关于 钱 和 保障。 | So it's mostly about money and security. |
 
-> Tech and finance, I'd say. They pay well and there's loads of demand. Whereas stable government jobs are popular too, because they're secure. So it comes down to money and security, mostly.
+> Tech and finance, I'd say. They pay well and there's loads of demand, so a lot of young people go for them. Whereas stable government jobs are really popular too — people call them the "iron rice bowl" because they're so secure. So it's mostly about money and security.
 
-> 🔁 **复用**：`… I'd say`+`loads of demand`(新25-Q1)+`whereas`+`comes down to`。
+> 🔁 **复用**：`… I'd say`+`loads of demand`(新25-Q1)+`whereas`。**⑦升级**：机制(年轻人冲着去)+具体文化点(铁饭碗 iron rice bowl)。**LAND**：`So it's mostly about…`。
 
 **P3 句型/模板（复用池）**：`It depends on the person, really` / `whereas` / `comes down to what matters most to you` · `All sorts, really` · `Massively, I reckon` / `a stable job` · `A few things, really` / `made up my mind, weighed … the job prospects` / `not just money` · `To some extent, yeah` / `comes down to a balance` · `Tech and finance, I'd say` / `loads of demand`。
 
