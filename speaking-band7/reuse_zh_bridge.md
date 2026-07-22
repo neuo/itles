@@ -721,11 +721,12 @@
 | 1 | 几条 基本的，真的。 | A few basic ones, really. |
 | 2 | 像 准时 到、有 礼貌、还有 上课 不 用 手机。 | Things like turning up on time, being respectful, and not using phones in class. |
 | 3 | 这些 早早 教 他们 纪律，而 太多 规则 只 感觉 像 一个 笼子。 | These teach them discipline early, whereas too many rules just feel like a cage. |
-| 4 | 所以 它 归结到 保持 简单、公平。 | So it comes down to keeping it simple and fair. |
+| 4 | 好 规则 是 帮 大家 一起 顺畅 相处，不是 控制 每 一件 小事。 | Good rules are there to help everyone get along, not to control every little thing. |
+| 5 | 所以 关键 是 保持 它们 简单、公平。 | So the key is to keep them simple and fair. |
 
-> A few basic ones, really. Things like turning up on time, being respectful, and not using phones in class. These teach them discipline early, whereas too many rules just feel like a cage. So it comes down to keeping it simple and fair.
+> A few basic ones, really. Things like turning up on time, being respectful, and not using phones in class. These teach them discipline early, whereas too many rules just feel like a cage. Good rules are there to help everyone get along, not to control every little thing. So the key is to keep them simple and fair.
 
-> 🔁 **复用**：`A few…really`+`whereas`+`comes down to`。
+> 🔁 **复用**：`A few…really`+`whereas`。**⑦升级**：机制(帮大家相处非控制每件小事)。**LAND**：`So the key is…`。
 
 **Q2. Do people in your country usually obey the law?**
 
@@ -747,12 +748,13 @@
 |---|---|---|
 | 1 | 一大堆 东西，真的。 | Loads of things, really. |
 | 2 | 有 礼貌、帮助 别人、还有 收拾 你 自己 的 东西——那种 东西。 | Being polite, helping others, and cleaning up after yourself — that kind of thing. |
-| 3 | 我 老婆 是 一个 好 例子——她 总是 帮 我们 年长的 邻居。 | My wife's a good example — she's always helping our elderly neighbours. |
-| 4 | 所以 好 行为 真的 归结到 为 别人 着想。 | So good behaviour really comes down to thinking about other people. |
+| 3 | 我 老婆 是 一个 好 例子——她 总是 帮 我们 年长的 邻居 拎 东西。 | My wife's a good example — she's always helping our elderly neighbours carry their things. |
+| 4 | 大多数 好 行为 其实 就是 在 你 做 事 之前 先 想到 别人。 | Most good behaviour really just comes from thinking of others before you act. |
+| 5 | 所以 说到底，它 是 关于 为 别人 着想。 | So at the end of the day, it's about thinking about other people. |
 
-> Loads of things, really. Being polite, helping others, and cleaning up after yourself — that kind of thing. My wife's a good example — she's always helping our elderly neighbours. So good behaviour really comes down to thinking about other people.
+> Loads of things, really. Being polite, helping others, and cleaning up after yourself — that kind of thing. My wife's a good example — she's always helping our elderly neighbours carry their things. Most good behaviour really just comes from thinking of others before you act. So at the end of the day, it's about thinking about other people.
 
-> 🔁 **复用**：`Loads of things, really`+`that kind of thing`+wife helping neighbours(老19)+`comes down to`。
+> 🔁 **复用**：`Loads of things, really`+`that kind of thing`+wife helping neighbours(老19)。**⑦升级**：机制(做事前先想到别人)+具体(帮邻居拎东西)。**LAND**：`So at the end of the day…`。
 
 **Q4. Do you think children can learn about the law outside of school?**
 
@@ -773,12 +775,13 @@
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
 | 2 | 规则 让 每个人 安全、让 事情 公平，所以 生活 顺畅 运转。 | Rules keep everyone safe and things fair, so life runs smoothly. |
-| 3 | 而 如果 每个人 都 各行其是，那 会 是 一片 混乱。 | Whereas if everyone did their own thing, it'd be chaos. |
-| 4 | 所以 到头来，规则 在 那儿 是 用来 保护 我们的。 | So at the end of the day, rules are there to protect us. |
+| 3 | 想想 红绿灯——没 了 它们，路上 就 是 一片 混乱。 | Just think of traffic lights — without them, the roads would be chaos. |
+| 4 | 而 如果 每个人 都 各行其是，就 没人 会 感到 安全。 | Whereas if everyone did their own thing, no one would feel safe. |
+| 5 | 所以 到头来，规则 在 那儿 是 用来 保护 我们的。 | So at the end of the day, rules are there to protect us. |
 
-> Loads, honestly. Rules keep everyone safe and things fair, so life runs smoothly. Whereas if everyone did their own thing, it'd be chaos. So at the end of the day, rules are there to protect us.
+> Loads, honestly. Rules keep everyone safe and things fair, so life runs smoothly. Just think of traffic lights — without them, the roads would be chaos. Whereas if everyone did their own thing, no one would feel safe. So at the end of the day, rules are there to protect us.
 
-> 🔁 **复用**：`Loads, honestly`+`whereas`+`at the end of the day`(新15-Q6)。
+> 🔁 **复用**：`Loads, honestly`+`whereas`+`chaos`+`at the end of the day`(新15-Q6)。**⑦升级**：具体画面(红绿灯没了路上混乱)。
 
 **Q6. How can parents teach children to obey rules?**
 
@@ -787,11 +790,12 @@
 | 1 | 主要 靠 以身作则，我会说。 | Mainly by example, I'd say. |
 | 2 | 孩子 抄 他们 看到的，所以 如果 父母 遵守 规则，孩子 也 会。 | Kids copy what they see, so if parents follow the rules, kids do too. |
 | 3 | 此外，解释 为什么 一条 规则 要紧 比 只是 吼 管用。 | Plus, explaining why a rule matters works better than just shouting. |
-| 4 | 所以 它 归结到 树立 一个 好 榜样。 | So it comes down to setting a good example. |
+| 4 | 一个 孩子 如果 明白 为什么，就 更 可能 遵守，而不是 只 因为 被 逼。 | A kid who understands why is far more likely to follow it, rather than just because they're told to. |
+| 5 | 所以 它 归结到 树立 一个 好 榜样。 | So it comes down to setting a good example. |
 
-> Mainly by example, I'd say. Kids copy what they see, so if parents follow the rules, kids do too. Plus, explaining why a rule matters works better than just shouting. So it comes down to setting a good example.
+> Mainly by example, I'd say. Kids copy what they see, so if parents follow the rules, kids do too. Plus, explaining why a rule matters works better than just shouting. A kid who understands why is far more likely to follow it, rather than just because they're told to. So it comes down to setting a good example.
 
-> 🔁 **复用**：`Mainly…I'd say`+`Kids copy`(老23-Q1)+`Plus`+`setting a good example`(新15)+`comes down to`。
+> 🔁 **复用**：`Mainly…I'd say`+`Kids copy`(老23-Q1)+`Plus`+`setting a good example`(新15)+`comes down to`。**⑦升级**：机制(明白为什么更愿遵守非因被逼)。**（本卡唯一保留 comes down to）**
 
 **P3 句型/模板（复用池）**：`A few basic ones, really` / `whereas` / `comes down to keeping it simple and fair` · `To be fair` / `But overall` · `Loads of things, really` / `that kind of thing` / `comes down to thinking about other people` · `On top of that` / `pick … up` · `at the end of the day` · `Mainly by example, I'd say` / `Kids copy what they see` / `setting a good example`。
 
@@ -948,12 +952,13 @@
 |---|---|---|
 | 1 | 真的 很 难，我会说。 | Really difficult, I'd say. |
 | 2 | 他们 学 好些年，而 即使 那 之后 他们 也 在 巨大 压力下，打交道 人 的 生命。 | They study for years, and even after that they're under huge pressure, dealing with people's lives. |
-| 3 | 除此之外，那 工时 很 长、那 工作 很 累。 | On top of that, the hours are long and the job's stressful. |
-| 4 | 所以 它 需要 很多，说句公道话。 | So it takes a lot, to be fair. |
+| 3 | 一个 小 错 就 可能 有 严重 后果，所以 他们 从不 真的 能 放松。 | One small mistake can have serious consequences, so they can never really switch off. |
+| 4 | 除此之外，那 工时 很 长，还 常常 熬夜 和 上 周末班。 | On top of that, the hours are long, often nights and weekends. |
+| 5 | 所以 它 需要 很多，说句公道话。 | So it takes a lot, to be fair. |
 
-> Really difficult, I'd say. They study for years, and even after that they're under huge pressure, dealing with people's lives. On top of that, the hours are long and the job's stressful. So it takes a lot, to be fair.
+> Really difficult, I'd say. They study for years, and even after that they're under huge pressure, dealing with people's lives. One small mistake can have serious consequences, so they can never really switch off. On top of that, the hours are long, often nights and weekends. So it takes a lot, to be fair.
 
-> 🔁 **复用**：`… I'd say`+`under … pressure`(张伟)+`On top of that`+`to be fair`。
+> 🔁 **复用**：`… I'd say`+`under … pressure`(张伟)+`On top of that`+`to be fair`。**⑦升级**：机制(一个小错严重后果/从不能放松)+具体(熬夜周末班)。
 
 **Q2. Do you think learning biology is interesting for children?**
 
@@ -962,11 +967,12 @@
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
 | 2 | 孩子 天生 好奇——他们 像 海绵，总是 在 问 东西 怎么 运作。 | Kids are naturally curious — they're like sponges, always asking how things work. |
 | 3 | 生物 很棒，因为 它 关于 真实 生活——动物、身体，那种 东西。 | Biology's great because it's about real life — animals, the body, that kind of thing. |
-| 4 | 所以 如果 它 用 一个 动手的 方式 教，大多数 孩子 爱 它。 | So if it's taught in a hands-on way, most kids love it. |
+| 4 | 如果 他们 能 看 一颗 种子 发芽、或 解剖 一朵 花，他们 会 记 得 牢 多了。 | If they can watch a seed grow, or take a flower apart, they remember it far better. |
+| 5 | 所以 如果 它 用 一个 动手的 方式 教，大多数 孩子 爱 它。 | So if it's taught in a hands-on way, most kids love it. |
 
-> To some extent, yeah. Kids are naturally curious — they're like sponges, always asking how things work. Biology's great because it's about real life — animals, the body, that kind of thing. So if it's taught in a hands-on way, most kids love it.
+> To some extent, yeah. Kids are naturally curious — they're like sponges, always asking how things work. Biology's great because it's about real life — animals, the body, that kind of thing. If they can watch a seed grow, or take a flower apart, they remember it far better. So if it's taught in a hands-on way, most kids love it.
 
-> 🔁 **复用**：`To some extent, yeah`+`like sponges`(新15-Q4)+`how things work`(新16)+`that kind of thing`+`hands-on`(新16)。
+> 🔁 **复用**：`To some extent, yeah`+`like sponges`(新15-Q4)+`how things work`(新16)+`that kind of thing`+`hands-on`(新16)。**⑦升级**：具体画面(看种子发芽/解剖一朵花)。
 
 **Q3. Why do some children want to become doctors?**
 
@@ -987,12 +993,13 @@
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
 | 2 | 医学 研究 拯救 生命，所以 它 是 花得 值的 钱。 | Medical research saves lives, so it's money well spent. |
-| 3 | 而 砍 它 只是 攒 下 更大的 问题、往后。 | Whereas cutting it just stores up bigger problems later. |
-| 4 | 所以 对我，它 是 一个 政府 能 花钱 的 最好 事情 之一。 | So for me, it's one of the best things a government can pay for. |
+| 3 | 疫情 教 了 我们 这个——没 了 研究，我们 会 束手无策。 | The pandemic taught us that — without research, we'd have been helpless. |
+| 4 | 而 砍 它 只是 攒 下 更大的 问题、往后。 | Whereas cutting it just stores up bigger problems later. |
+| 5 | 所以 对我，它 是 一个 政府 能 花钱 的 最好 事情 之一。 | So for me, it's one of the best things a government can pay for. |
 
-> Absolutely, I think so. Medical research saves lives, so it's money well spent. Whereas cutting it just stores up bigger problems later. So for me, it's one of the best things a government can pay for.
+> Absolutely, I think so. Medical research saves lives, so it's money well spent. The pandemic taught us that — without research, we'd have been helpless. Whereas cutting it just stores up bigger problems later. So for me, it's one of the best things a government can pay for.
 
-> 🔁 **复用**：`Absolutely, I think so`(老20-Q3)+`money well spent`(老20)+`whereas`+government(老20-Q5)。
+> 🔁 **复用**：`Absolutely, I think so`(老20-Q3)+`money well spent`(老20)+`whereas`+government(老20-Q5)。**⑦升级**：具体(疫情教了我们/没研究就束手无策)。
 
 **Q5. Should doctors be paid more than other professionals?**
 
@@ -1000,12 +1007,13 @@
 |---|---|---|
 | 1 | 在 某种程度上，是的。 | To some extent, yeah. |
 | 2 | 他们 训练 好些年、还 担 巨大的 责任，所以 一份 好 薪水 说得通。 | They train for years and hold huge responsibility, so a good salary makes sense. |
-| 3 | 说句公道话，不过，一大堆 别的 工作 也 很 苦，比如 老师。 | To be fair, though, plenty of other jobs are tough too, like teachers. |
-| 4 | 所以 我会说 给 他们 好 报酬，但 别 忘 了 其他 每个人。 | So I'd say pay them well, but don't forget everyone else. |
+| 3 | 如果 报酬 太 低，就 没人 会 想 去 做 这份 苦 差事。 | If the pay were too low, no one would want to take on such a tough job. |
+| 4 | 说句公道话，不过，一大堆 别的 工作 也 很 苦，比如 老师。 | To be fair, though, plenty of other jobs are tough too, like teachers. |
+| 5 | 所以 我会说 给 他们 好 报酬，但 别 忘 了 其他 每个人。 | So I'd say pay them well, but don't forget everyone else. |
 
-> To some extent, yeah. They train for years and hold huge responsibility, so a good salary makes sense. To be fair, though, plenty of other jobs are tough too, like teachers. So I'd say pay them well, but don't forget everyone else.
+> To some extent, yeah. They train for years and hold huge responsibility, so a good salary makes sense. If the pay were too low, no one would want to take on such a tough job. To be fair, though, plenty of other jobs are tough too, like teachers. So I'd say pay them well, but don't forget everyone else.
 
-> 🔁 **复用**：`To some extent, yeah`+`To be fair, though`(新16-Q1)。
+> 🔁 **复用**：`To some extent, yeah`+`To be fair, though`(新16-Q1)。**⑦升级**：机制(报酬太低没人愿做苦差事)。
 
 **Q6. How can technology help doctors in the future?**
 
