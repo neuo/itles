@@ -5906,25 +5906,27 @@
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
 | 2 | 一大堆 教 他们 自己的 语言、在 滑雪 度假村 工作、或 做 咖啡馆 班。 | Loads teach their own language, work at ski resorts, or do café shifts. |
-| 3 | 除此之外，农场 摘 水果 也 受欢迎。 | On top of that, fruit-picking on farms is popular. |
-| 4 | 所以 它 归结到 无论 什么 资助 他们的 旅行。 | So it comes down to whatever funds their travels. |
+| 3 | 除此之外，农场 摘 水果 也 受欢迎，因为 它 不 需要 什么 经验。 | On top of that, fruit-picking on farms is popular, because it doesn't need any experience. |
+| 4 | 这些 工作 大多 是 为了 挣 够 钱 一边 旅行、一边 见识 世界。 | Most of these jobs are about earning enough to travel and see the world at the same time. |
+| 5 | 所以 真的，它 是 关于 无论 什么 资助 他们的 旅行。 | So really, it's about whatever funds their travels. |
 
-> All sorts, really. Loads teach their own language, work at ski resorts, or do café shifts. On top of that, fruit-picking on farms is popular. So it comes down to whatever funds their travels.
+> All sorts, really. Loads teach their own language, work at ski resorts, or do café shifts. On top of that, fruit-picking on farms is popular, because it doesn't need any experience. Most of these jobs are about earning enough to travel and see the world at the same time. So really, it's about whatever funds their travels.
 
-> 🔁 **复用**：`All sorts, really`+`On top of that`+`comes down to`。
+> 🔁 **复用**：`All sorts, really`+`On top of that`。**⑦升级**：机制(摘水果不需经验/一边旅行一边见世界)。**LAND**：`So really, it's about…`。
 
 **Q2. What challenges do young people face when working abroad?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个 大 的，真的。 | A few big ones, really. |
-| 2 | 那 最大的 是 那 语言 障碍——甚至 点 餐 都 是 一场 挣扎。 | The biggest is the language barrier — even ordering food is a struggle. |
-| 3 | 除此之外，有 思乡，被 从 家人 切断。 | On top of that, there's homesickness, being cut off from family. |
-| 4 | 所以 它 归结到 在 远离 家 的 地方 应付。 | So it comes down to coping far from home. |
+| 2 | 那 最大的 是 那 语言 障碍——甚至 点 餐 或 问 路 都 是 一场 挣扎。 | The biggest is the language barrier — even ordering food or asking for directions is a struggle. |
+| 3 | 除此之外，有 思乡，被 从 家人 和 朋友 切断。 | On top of that, there's homesickness, being cut off from family and friends. |
+| 4 | 头 几周 尤其 难，等 你 还 没 交 到 任何 人 的时候。 | The first few weeks are especially hard, before you've made any friends. |
+| 5 | 所以 它 归结到 在 远离 家 的 地方 应付。 | So it comes down to coping far from home. |
 
-> A few big ones, really. The biggest is the language barrier — even ordering food is a struggle. On top of that, there's homesickness, being cut off from family. So it comes down to coping far from home.
+> A few big ones, really. The biggest is the language barrier — even ordering food or asking for directions is a struggle. On top of that, there's homesickness, being cut off from family and friends. The first few weeks are especially hard, before you've made any friends. So it comes down to coping far from home.
 
-> 🔁 **复用**：`A few big ones, really`+`On top of that`+`cut off from family`(新07-Q1)+`comes down to`。
+> 🔁 **复用**：`A few big ones, really`+`On top of that`+`cut off from family`(新07-Q1)+`comes down to`。**⑦升级**：具体(问路也挣扎)+画面(头几周还没交到人尤其难)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q3. What are the benefits of working for an international company?**
 
@@ -5932,51 +5934,55 @@
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
 | 2 | 你 遇到 来自 各行各业 的人、还 学 新 的 工作 方式。 | You meet people from all walks of life and learn new ways of working. |
-| 3 | 此外，它 在 你的 简历 上 看起来 很棒。 | Plus, it looks great on your CV. |
-| 4 | 所以 它 归结到 拓宽 你的 眼界。 | So it comes down to broadening your horizons. |
+| 3 | 它 也 让 你 接触 不同的 想法——你 看到 别的 国家 怎么 做 事。 | It also opens you up to different ideas — you see how other countries do things. |
+| 4 | 此外，它 在 你的 简历 上 看起来 很棒，还 常常 报酬 更好。 | Plus, it looks great on your CV, and often pays better too. |
+| 5 | 所以 真的，它 是 关于 拓宽 你的 眼界。 | So really, it's about broadening your horizons. |
 
-> Loads, honestly. You meet people from all walks of life and learn new ways of working. Plus, it looks great on your CV. So it comes down to broadening your horizons.
+> Loads, honestly. You meet people from all walks of life and learn new ways of working. It also opens you up to different ideas — you see how other countries do things. Plus, it looks great on your CV, and often pays better too. So really, it's about broadening your horizons.
 
-> 🔁 **复用**：`Loads, honestly`+`Plus`+`broaden`(老27-Q6 broaden your mind)+`comes down to`。
+> 🔁 **复用**：`Loads, honestly`+`Plus`+`broadening your horizons`(老27风)。**⑦升级**：机制(看别国怎么做事)+加点(报酬更好)。**LAND**：`So really, it's about…`。
 
 **Q4. What personal skills are required to work in an international company?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 几个，真的。 | A few, really. |
-| 2 | 沟通 排 第一——你 得 把 你的 观点 清楚 地 传 出去。 | Communication comes top — you've got to get your point across clearly. |
-| 3 | 除此之外，你 需要 耐心 和 一个 开放的 心态。 | On top of that, you need patience and an open mind. |
-| 4 | 所以 它 归结到 有 适应性。 | So it comes down to being adaptable. |
+| 2 | 沟通 排 第一——你 得 把 你的 观点 清楚 地 传 出去，哪怕 有 语言 障碍。 | Communication comes top — you've got to get your point across clearly, even with a language barrier. |
+| 3 | 除此之外，你 需要 耐心 和 一个 开放的 心态，因为 别人 做 事 方式 不同。 | On top of that, you need patience and an open mind, since people do things differently. |
+| 4 | 能 适应 也 关键——总 有 一些 你 意料 之外 的 东西。 | Being able to adapt is key too — there's always something you don't expect. |
+| 5 | 所以 真的，它 是 关于 有 适应性。 | So really, it's about being adaptable. |
 
-> A few, really. Communication comes top — you've got to get your point across clearly. On top of that, you need patience and an open mind. So it comes down to being adaptable.
+> A few, really. Communication comes top — you've got to get your point across clearly, even with a language barrier. On top of that, you need patience and an open mind, since people do things differently. Being able to adapt is key too — there's always something you don't expect. So really, it's about being adaptable.
 
-> 🔁 **复用**：`A few, really`+`On top of that`+`an open mind`(新15-Q4)+`comes down to`。
+> 🔁 **复用**：`A few, really`+`On top of that`+`an open mind`(新15-Q4)。**⑦升级**：机制(别人做事方式不同/总有意料外的)。**LAND**：`So really, it's about…`。
 
 **Q5. What kind of work can young people do in foreign countries?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 招待业，我会说。 | Mostly hospitality, I'd say. |
-| 2 | 像 端 盘子、调 酒、或 教 英语。 | Things like waiting tables, bartending, or teaching English. |
-| 3 | 而 有些 做 动手的 活，比如 农场 劳作。 | Whereas some do hands-on stuff like farm work. |
-| 4 | 所以 它 归结到 他们 能 快 上手 什么。 | So it comes down to what they can pick up quickly. |
+| 2 | 像 端 盘子、调 酒、或 教 英语——那些 不 需要 太 多 培训 的 活。 | Things like waiting tables, bartending, or teaching English — jobs that don't need much training. |
+| 3 | 而 有些 做 动手的 活，比如 农场 劳作 或 在 民宿 帮工。 | Whereas some do hands-on stuff like farm work or helping out at a guesthouse. |
+| 4 | 大多数 都 是 短期 的、还 能 快 上手，那 对 一 边 旅行 的人 完美。 | Most are short-term and easy to pick up, which is perfect for someone travelling. |
+| 5 | 所以 它 取决于 他们 能 快 上手 什么。 | So it depends on what they can pick up quickly. |
 
-> Mostly hospitality, I'd say. Things like waiting tables, bartending, or teaching English. Whereas some do hands-on stuff like farm work. So it comes down to what they can pick up quickly.
+> Mostly hospitality, I'd say. Things like waiting tables, bartending, or teaching English — jobs that don't need much training. Whereas some do hands-on stuff like farm work or helping out at a guesthouse. Most are short-term and easy to pick up, which is perfect for someone travelling. So it depends on what they can pick up quickly.
 
-> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`hands-on`(新16)+`pick up`(新15)+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`hands-on`(新16)+`pick up`(新15)。**⑦升级**：具体(不需太多培训/民宿帮工)+机制(短期易上手对旅行者完美)。**LAND**：`So it depends on…`。
 
 **Q6. Why are some people unwilling to work in other countries?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 主要 因为 他们 被 离开 家 吓到，我会说。 | Mainly because they're daunted by leaving home, I'd say. |
+| 1 | 主要 因为 离开 家 让 他们 害怕，我会说。 | Mainly because leaving home feels scary to them, I'd say. |
 | 2 | 他们 宁愿 待 在 家人 附近、也不 在 某个 陌生 地方 从零 开始。 | They'd rather stay near family than start from scratch somewhere strange. |
-| 3 | 此外，那 语言 和 文书 让 人 却步。 | Plus, the language and paperwork put people off. |
-| 4 | 所以 它 归结到 对 未知 的 恐惧。 | So it comes down to fear of the unknown. |
+| 3 | 那 语言、那 文书、还有 交 新 朋友 的 念头，都 让 人 却步。 | The language, the paperwork, and the thought of making new friends all put people off. |
+| 4 | 对 一大堆 人 来说，家 的 舒适 就是 胜过 那 冒险。 | For a lot of people, the comfort of home just wins over the adventure. |
+| 5 | 所以 真的，它 是 对 未知 的 恐惧。 | So really, it's a fear of the unknown. |
 
-> Mainly because they're daunted by leaving home, I'd say. They'd rather stay near family than start from scratch somewhere strange. Plus, the language and paperwork put people off. So it comes down to fear of the unknown.
+> Mainly because leaving home feels scary to them, I'd say. They'd rather stay near family than start from scratch somewhere strange. The language, the paperwork, and the thought of making new friends all put people off. For a lot of people, the comfort of home just wins over the adventure. So really, it's a fear of the unknown.
 
-> 🔁 **复用**：`Mainly … I'd say`+`Plus`+`put people off`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`put people off`。**⑦升级**：机制(家的舒适胜过冒险)。`daunted by`→`feels scary`。**LAND**：`So really, it's a fear of the unknown`。
 
 **P3 句型/模板（复用池）**：`All sorts, really` / `funds their travels` · `A few big ones, really` / `cut off from family` · `Loads, honestly` / `broadening your horizons` · `A few, really` / `an open mind` · `Mostly hospitality, I'd say` / `hands-on` / `pick up quickly` · `Mainly … daunted …, I'd say` / `put people off`。
 
