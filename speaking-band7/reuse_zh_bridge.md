@@ -6221,41 +6221,37 @@
 
 ---
 
-## P2-老25 · A city you enjoyed visiting — 重庆（Place）  〔复用生成〕
+## P2-老25 · A city you enjoyed visiting — 京都（Place）  〔复用生成 · 改京都〕
 
 > **📋 P2 题面**：Describe a city you enjoyed visiting.
 > *You should say:* Where it is · When you visited it · How long you stayed there · What you did there · And explain why you enjoyed visiting it
 >
 > **Cue**: 在哪 / 何时去 / 待多久 / 做了什么 / 为何享受 · 题型 Place
 >
-> 🔁 **整卡复用自**：新18(completely immersed/stuck with me) + 老05(family trip) + wife/son + 老12(son ran around) + 老25降档(stunning)。重庆/火锅/轻轨=具体设定。
+> 🔁 **整卡复用自**：新18 京都你的版(`over in the west of Japan` / `visit the old temples` / `wander around` / `eat local street food` / `completely immersed` / `blends the traditional and the modern` / `come across a centuries-old temple` / `slows you down`) + 老05(family trip) + wife/son + 新18(stuck with me)。**改京都**：家庭旅行版，全套复用新18 你的版 chunk。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那座 城市 是 重庆，一个 巨大、多山的 地方，离 成都 不远、（我 住的地方）。 | The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. |
-| 2 | 我 几年前 去 那儿，一次 家庭 旅行，跟 我 老婆 和 儿子。 | I went there a couple of years ago on a family trip, with my wife and son. |
-| 3 | 我们 待 了 大约 三四天。 | We stayed for about three or four days. |
-| 4 | 我们 吃 那 有名的 辣 火锅，还 坐 那 直接 穿过 一栋 楼 的 轻轨。 | We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. |
-| 5 | 晚上 我们 看 那 河边 老城 全 点亮——它 很 惊艳。 | At night we saw the riverside old town all lit up — it was stunning. |
-| 6 | 我 真正 爱的 是 那 狂野、层叠 的 布局。 | What I really loved was the wild, layered layout. |
-| 7 | 那些 路 和 楼 一个 摞 在 另一个 上面，所以 你 搞不清 你 在 哪一层。 | The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. |
-| 8 | 说实话，我 完全 沉浸 在 整个 地方 里。 | Honestly, I was completely immersed in the whole place. |
-| 9 | 我 儿子 到处 跑、每一分钟 都 很爱。 | My son ran around loving every minute of it. |
-| 10 | 我们 吃 火锅 吃 到 冒汗，而 我 儿子 一直 笑 它 有 多 辣。 | We ate hotpot till we were sweating, and my son couldn't stop laughing at how spicy it was. |
+| 1 | 我想聊的那座 城市 是 京都，在 日本 的 西部。 | The city I'd like to talk about is Kyoto, over in the west of Japan. |
+| 2 | 我 几年前 去 那儿，一次 家庭 旅行，跟 我 老婆 和 儿子。 | I went there a few years ago on a family trip, with my wife and son. |
+| 3 | 我们 待 了 大约 四五天。 | We stayed for about four or five days. |
+| 4 | 我们 在 那儿 通常 做的 是 逛 那些 老 寺庙、在 街区 里 闲逛、还 吃 当地 街头 小吃。 | What we usually did there was visit the old temples, wander around the neighbourhoods, and eat local street food. |
+| 5 | 一个 真的 留 在 我 心里 的 时刻 是 沿着 那儿 一条 河 的 一次 散步。 | One moment that really stuck with me was a stroll along a river there. |
+| 6 | 真正 让 京都 出众的 是 它 怎么 融合 那 传统 和 那 现代。 | What really makes Kyoto stand out is how it blends the traditional and the modern. |
+| 7 | 你 会 看到 一大堆 人 穿着 传统 衣服 走来走去，而 你 却 能 撞见 一座 几百年 的 寺庙、就 在 街 那头。 | You'll see loads of people walking around in traditional clothes, and yet you can come across a centuries-old temple just down the street. |
+| 8 | 说实话，我 完全 沉浸 在 它 那 平和的 氛围 里。 | Honestly, I was completely immersed in its peaceful atmosphere. |
+| 9 | 我 儿子 到处 跑、每一分钟 都 很爱，尤其 喂 那些 鹿。 | My son ran around loving every minute of it, especially feeding the deer. |
+| 10 | 它 是 那种 让 你 慢下来 的 地方，所以 我们 一点 不 赶、慢慢来。 | It's the kind of place that slows you down, so we took our time and never rushed. |
 | 11 | 说实话，那趟 旅行 是 我 最爱的 家庭 回忆 之一。 | Honestly, that trip is one of my favourite family memories. |
 | 12 | 所以 对我，它 是 一座 真的 留 在 我 心里 的 城市。 | So for me, it's a city that really stuck with me. |
 
 ### ②P2 整段（shadow）
 
-> The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live. I went there a couple of years ago on a family trip, with my wife and son. We stayed for about three or four days. We ate the famous spicy hotpot, and rode the light-rail that goes straight through a building. At night we saw the riverside old town all lit up — it was stunning. What I really loved was the wild, layered layout. The roads and buildings are stacked on top of each other, so you lose track of which floor you're on. Honestly, I was completely immersed in the whole place. My son ran around loving every minute of it. We ate hotpot till we were sweating, and my son couldn't stop laughing at how spicy it was. Honestly, that trip is one of my favourite family memories. So for me, it's a city that really stuck with me.
+> The city I'd like to talk about is Kyoto, over in the west of Japan. I went there a few years ago on a family trip, with my wife and son. We stayed for about four or five days. What we usually did there was visit the old temples, wander around the neighbourhoods, and eat local street food. One moment that really stuck with me was a stroll along a river there. What really makes Kyoto stand out is how it blends the traditional and the modern. You'll see loads of people walking around in traditional clothes, and yet you can come across a centuries-old temple just down the street. Honestly, I was completely immersed in its peaceful atmosphere. My son ran around loving every minute of it, especially feeding the deer. It's the kind of place that slows you down, so we took our time and never rushed. Honestly, that trip is one of my favourite family memories. So for me, it's a city that really stuck with me.
 
-> 🔁 **复用**：句1 `not far from Chengdu, where I live`(新18/新01)；句2 `family trip`(老05)；句5 `stunning`(老25降档)；句8 `completely immersed`(新18)；句9 `ran around`(老12)；句10 `stuck with me`(新18)。
-
-### 句型/模板（复用池）
-
-- `The city I'd like to talk about is Chongqing, a huge, hilly place not far from Chengdu, where I live` · `I went there a couple of years ago on a family trip` · `What I really loved was the wild, layered layout` · `I was completely immersed in the whole place` · `it's a city that really stuck with me`
+> 🔁 **复用**：句1 `Kyoto, over in the west of Japan`(新18 逐字)；句2 `family trip`(老05)；句4 `visit the old temples, wander around … eat local street food`(新18 逐字)；句5/8 `stuck with me`+`completely immersed in its peaceful atmosphere`(新18 逐字)；句6/7 `blends the traditional and the modern`+`come across a centuries-old temple`(新18 逐字)；句9 `ran around`(老12)；句10 `slows you down`+`took our time`(新18/老12)。**改京都**：全套复用新18 你的版 chunk，新料仅"四五天/喂鹿/家庭回忆"。
 
 ---
 
@@ -6267,25 +6263,27 @@
 |---|---|---|
 | 1 | 一大堆，真的。 | Loads, really. |
 | 2 | 正经的 医院、好的 公共交通、购物中心、和 公园。 | Proper hospitals, good public transport, shopping malls, and parks. |
-| 3 | 除此之外，他们 有 大学 和 电影院。 | On top of that, they've got universities and cinemas. |
-| 4 | 所以 它 归结到 它 全 塞 进 一个 地方。 | So it comes down to it all being packed into one place. |
+| 3 | 除此之外，还 有 大学、电影院、和 各种 供 孩子 玩 的 地方。 | On top of that, there are universities, cinemas, and all sorts of places for kids. |
+| 4 | 你 想要 的 一切 几乎 都 在 步行 或 一 小段 地铁 的 距离 内。 | Almost everything you'd want is within walking distance or a short metro ride. |
+| 5 | 所以 真的，它 全 塞 进 了 一个 地方。 | So really, it's all packed into one place. |
 
-> Loads, really. Proper hospitals, good public transport, shopping malls, and parks. On top of that, they've got universities and cinemas. So it comes down to it all being packed into one place.
+> Loads, really. Proper hospitals, good public transport, shopping malls, and parks. On top of that, there are universities, cinemas, and all sorts of places for kids. Almost everything you'd want is within walking distance or a short metro ride. So really, it's all packed into one place.
 
-> 🔁 **复用**：`Loads, really`+`On top of that`+`packed into one place`(新01-Q1)+`comes down to`。
+> 🔁 **复用**：`Loads, really`+`On top of that`+`packed into one place`(新01-Q1)。**⑦升级**：具体(供孩子玩的地方)+画面(步行或一小段地铁)。**LAND**：`So really, it's all packed into one place`。
 
 **Q2. Do you think modern cities are suitable for young people or old people?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 更 年轻的，我会说。 | Younger, I'd say. |
-| 2 | 那 节奏 快、而 有 一大堆 工作 机会，（那 年轻人 爱）。 | The pace is fast and there are loads of job chances, which young people love. |
-| 3 | 而 老年人 可能 觉得 它 太 吵、太 挤。 | Whereas older people might find it too noisy and crowded. |
-| 4 | 所以 它 归结到 你 在 人生 哪个 阶段。 | So it comes down to what stage of life you're at. |
+| 2 | 那 节奏 快、而 有 一大堆 工作 机会 和 夜生活，（那 年轻人 爱）。 | The pace is fast and there are loads of job chances and nightlife, which young people love. |
+| 3 | 而 老年人 常常 觉得 它 太 吵、太 挤，更 喜欢 安静 的 地方。 | Whereas older people often find it too noisy and crowded, and prefer somewhere quiet. |
+| 4 | 话虽如此，城市 也 有 更好 的 医院，那 对 老年人 也 要紧。 | That said, cities also have better hospitals, which matters for older people too. |
+| 5 | 所以 它 取决于 你 在 人生 哪个 阶段。 | So it depends on what stage of life you're at. |
 
-> Younger, I'd say. The pace is fast and there are loads of job chances, which young people love. Whereas older people might find it too noisy and crowded. So it comes down to what stage of life you're at.
+> Younger, I'd say. The pace is fast and there are loads of job chances and nightlife, which young people love. Whereas older people often find it too noisy and crowded, and prefer somewhere quiet. That said, cities also have better hospitals, which matters for older people too. So it depends on what stage of life you're at.
 
-> 🔁 **复用**：`Younger, I'd say`(老09-Q4)+`whereas`+`what stage of life you're at`(新19-Q3)。
+> 🔁 **复用**：`Younger, I'd say`(老09-Q4)+`whereas`+`what stage of life you're at`(新19-Q3)。**⑦升级**：具体(夜生活)+让步(城市医院好对老人也要紧)。**LAND**：`So it depends on…`。
 
 **Q3. Before you travel to a city, what factors would you consider?**
 
@@ -6293,51 +6291,55 @@
 |---|---|---|
 | 1 | 几样 东西，真的。 | A few things, really. |
 | 2 | 对 我 来说，那 第一件事 是 成本，然后 它 有 多 安全。 | For me, the first thing's the cost, then how safe it is. |
-| 3 | 除此之外，交通 和 有 什么 可看的。 | On top of that, transport and what there is to see. |
-| 4 | 所以 它 归结到 先 权衡 几样 东西。 | So it comes down to weighing a few things first. |
+| 3 | 除此之外，交通 方不方便、还有 有 什么 可看 可吃 的。 | On top of that, whether transport is easy, and what there is to see and eat. |
+| 4 | 带 一个 孩子，我 也 会 查 那儿 适不适合 家庭。 | With a kid, I'd also check whether it's good for families. |
+| 5 | 所以 它 是 关于 提前 权衡 几样 东西。 | So it's about weighing a few things in advance. |
 
-> A few things, really. For me, the first thing's the cost, then how safe it is. On top of that, transport and what there is to see. So it comes down to weighing a few things first.
+> A few things, really. For me, the first thing's the cost, then how safe it is. On top of that, whether transport is easy, and what there is to see and eat. With a kid, I'd also check whether it's good for families. So it's about weighing a few things in advance.
 
-> 🔁 **复用**：`A few things, really`+`On top of that`+`weighing a few things`(新12)+`comes down to`。
+> 🔁 **复用**：`A few things, really`+`On top of that`+`weighing a few things`(新12)。**⑦升级**：具体(可看可吃/带孩子查适不适合家庭)。**LAND**：`So it's about…`。
 
 **Q4. What are the disadvantages of living in a very famous city?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 相当 几个，其实。 | Quite a few, actually. |
-| 2 | 有名的 城市 被 游客 淹没，所以 它们 拥挤、而 价格 飙升。 | Famous cities get swamped with tourists, so they're crowded and prices shoot up. |
-| 3 | 而 那 噪音 和 污染 随时间 把 你 磨垮。 | Whereas the noise and pollution wear you down over time. |
-| 4 | 所以 它 归结到 它 值不值 那 麻烦。 | So it comes down to whether it's worth the hassle. |
+| 2 | 有名的 城市 挤满 了 游客，所以 它们 拥挤、而 价格 飙升，尤其 房租。 | Famous cities are packed with tourists, so they're crowded and prices shoot up, especially rent. |
+| 3 | 而 那 噪音 和 污染 时间 一长 也 让人 吃不消。 | And the noise and pollution get to you over time. |
+| 4 | 你 也 常常 花 好几个 小时 堵 在 路上，只 为了 穿过 城市。 | You also often spend hours stuck in traffic just to get across the city. |
+| 5 | 所以 它 归结到 它 值不值 那 麻烦。 | So it comes down to whether it's worth the hassle. |
 
-> Quite a few, actually. Famous cities get swamped with tourists, so they're crowded and prices shoot up. Whereas the noise and pollution wear you down over time. So it comes down to whether it's worth the hassle.
+> Quite a few, actually. Famous cities are packed with tourists, so they're crowded and prices shoot up, especially rent. And the noise and pollution get to you over time. You also often spend hours stuck in traffic just to get across the city. So it comes down to whether it's worth the hassle.
 
-> 🔁 **复用**：`Quite a few, actually`+`whereas`+`hassle`(老20)+`comes down to`。
+> 🔁 **复用**：`Quite a few, actually`+`hassle`(老20)+`comes down to`。**⑦升级**：具体(房租/堵车几小时穿城)。`swamped`→`packed`、`wear you down`→`get to you`。**LAND**：`comes down to`(本卡唯一)。
 
 **Q5. Do you prefer to visit well-developed cities or cities with a long history?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 有 一段 长 历史 的 城市，我会说。 | Cities with a long history, I'd say. |
-| 2 | 有 某种 特别的东西、关于 老 街道、（那种 讲 一个 真实 故事的）。 | There's something special about old streets that tells a real story. |
-| 3 | 而 发达 城市 可能 感觉 有点 千篇一律。 | Whereas developed cities can feel a bit samey. |
-| 4 | 所以 它 归结到 想要 一点 个性。 | So it comes down to wanting some character. |
+| 2 | 有 某种 特别的东西、关于 老 街道、老 建筑——它们 讲 一个 真实 的 故事。 | There's something special about old streets and old buildings — they tell a real story. |
+| 3 | 你 能 感觉到 那 历史、想象 从前 的 生活 是 什么样。 | You can feel the history and imagine what life used to be like. |
+| 4 | 而 发达 城市 可能 感觉 有点 千篇一律——到处 都 是 一样的 高楼 和 商城。 | Whereas developed cities can feel a bit the same — the same tall towers and malls everywhere. |
+| 5 | 所以 真的，它 是 关于 想要 一点 个性。 | So really, it's about wanting some character. |
 
-> Cities with a long history, I'd say. There's something special about old streets that tells a real story. Whereas developed cities can feel a bit samey. So it comes down to wanting some character.
+> Cities with a long history, I'd say. There's something special about old streets and old buildings — they tell a real story. You can feel the history and imagine what life used to be like. Whereas developed cities can feel a bit the same — the same tall towers and malls everywhere. So really, it's about wanting some character.
 
-> 🔁 **复用**：`… I'd say`+`whereas`+`character`(老24-Q4)+`comes down to`。
+> 🔁 **复用**：`… I'd say`+`whereas`+`character`(老24-Q4)。**⑦升级**：机制(感觉历史/想象从前生活)+具体(一样高楼商城)。`samey`→`a bit the same`。**LAND**：`So really, it's about…`。
 
 **Q6. For those who live in cities, is it because they want to or have to?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 是 两者，真的。 | It's a bit of both, really. |
-| 2 | 有些人 真心 爱 那 热闹 和 便捷，所以 他们 选择 它。 | Some genuinely love the buzz and convenience, so they choose it. |
-| 3 | 而 另一些 搬 进来 只 为了 追 工作 或 更好的 学校。 | Whereas others move in just to chase jobs or better schools. |
-| 4 | 所以 对 一大堆 人，它 归结到 工作，不是 选择。 | So for a lot of people, it comes down to work, not choice. |
+| 2 | 有些人 真心 爱 那 热闹 和 便捷，所以 他们 选择 住 那儿。 | Some genuinely love the buzz and convenience, so they choose to live there. |
+| 3 | 而 另一些 搬 进来 只 为了 追 工作 或 更好的 学校，尽管 他们 内心深处 更 想 要 安静。 | Whereas others move in just to chase jobs or better schools, even though deep down they'd prefer somewhere quiet. |
+| 4 | 现在 好 工作 大多 在 大 城市，所以 人们 常常 别 无 选择。 | These days the good jobs are mostly in big cities, so people often don't have much choice. |
+| 5 | 所以 对 一大堆 人，它 是 关于 工作，不是 选择。 | So for a lot of people, it's about work, not choice. |
 
-> It's a bit of both, really. Some genuinely love the buzz and convenience, so they choose it. Whereas others move in just to chase jobs or better schools. So for a lot of people, it comes down to work, not choice.
+> It's a bit of both, really. Some genuinely love the buzz and convenience, so they choose to live there. Whereas others move in just to chase jobs or better schools, even though deep down they'd prefer somewhere quiet. These days the good jobs are mostly in big cities, so people often don't have much choice. So for a lot of people, it's about work, not choice.
 
-> 🔁 **复用**：`a bit of both, really`(老08-Q1)+`the buzz`(老25)+`whereas`+`comes down to`。
+> 🔁 **复用**：`a bit of both, really`(老08-Q1)+`the buzz`(老25)+`whereas`+`deep down`(老21)。**⑦升级**：转折(内心更想安静)+机制(好工作在大城市别无选择)。**LAND**：`So … it's about work, not choice`。
 
 **P3 句型/模板（复用池）**：`Loads, really` / `packed into one place` · `Younger, I'd say` / `what stage of life you're at` · `A few things, really` / `weighing a few things` · `Quite a few, actually` / `worth the hassle` · `Cities with a long history, I'd say` / `some character` · `a bit of both, really` / `the buzz`。
 
