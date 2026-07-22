@@ -2191,41 +2191,40 @@
 
 ---
 
-## P2-新19 · A home you like to visit but not live in — 外公外婆家（Place）  〔复用生成〕
+## P2-新19 · A home you like to visit but not live in — 川西安静小镇的民宿（Place）  〔复用生成 · 改安静小镇〕
 
 > **📋 P2 题面**：Describe a home that you like to visit but do not want to live in.
 > *You should say:* Where it is · What it is like · Why you like to visit it · And explain why you would not like to live there
 >
 > **Cue**: 在哪 / 什么样 / 为何爱去 / 为何不想住 · 题型 Place
 >
-> 🔁 **整卡复用自**：老11 外公(brings back memories/raised me) + 新05 外公花园 + 老26(escape/quiet) + 老24(all under one roof/escape from city) + 老12(son runs around/take our time/drive)。
+> 🔁 **整卡复用自**：新03 川西小镇(`driving through western Sichuan` / `small town` / `nothing to do` / `nowhere to eat`) 但**基调翻正**：安静/远离噪音/适合思考放空 + 老26(`clear my head` / `little escape` / `miles away from the noise`) + 老12(`took our time` / `drive`)。**改设定**：川西旅途中住过几天的安静小镇民宿，喜欢去放空但只想住几天。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个 家 是 我 外公外婆 的 地方，在 乡下。 | The home I'd like to talk about is my grandparents' place, out in the countryside. |
-| 2 | 它 是 一栋 老 房子、带 一个 大 花园，（那里 我 外公 种 蔬菜）。 | It's an old house with a big garden, where my grandfather grows vegetables. |
-| 3 | 我 爱 去 是 因为 它 勾起 我 童年 的 回忆——他 在 那儿 把 我 带大。 | I love visiting because it brings back memories of my childhood — he raised me there. |
-| 4 | 它 那么 安静、平和，一个 从 城市 的 真正 逃离。 | It's so quiet and calm, a real escape from the city. |
-| 5 | 每次 我们 去，我 儿子 在 花园 里 到处 跑，而 我们 都 就 放松。 | Whenever we go, my son runs around the garden and we all just relax. |
-| 6 | 我 最 爱 的 是 那 慢 节奏——我们 慢慢来、一起 吃饭、聊天。 | What I love most is the slow pace — we take our time, eat together, and chat. |
-| 7 | 但 说实话，我 不 会 想 全职 住 那儿。 | But honestly, I wouldn't want to live there full-time. |
-| 8 | 它 离 工作、商店、还有 我 儿子的 学校 太 远。 | It's too far from work, the shops, and my son's school. |
-| 9 | 在 一个 城市，一切 都 在 一个 屋顶 下，而 那 外面 你 开 老半天 才 买 到 任何 东西。 | In a city, everything's under one roof, whereas out there you drive ages for anything. |
-| 10 | 每次 我们 去，我 外婆 都 做 一大桌 家宴，而 我们 都 围 着 桌子 坐 好几个 小时。 | Whenever we go, my grandmother cooks a huge family meal, and we all sit around the table for hours. |
-| 11 | 我 儿子 也 很爱 那儿——他 一整天 都 在 花园 里 到处 跑。 | My son loves it there too — he runs around the garden all day. |
-| 12 | 所以 对我，它 是 那个 完美 去 逛 的 地方，但 不 是 安家 的。 | So for me, it's the perfect place to visit, but not to settle. |
+| 1 | 我想聊的那个 地方 是 一个 小 民宿，在 川西 一个 安静的 小镇 上。 | The place I'd like to talk about is a small guesthouse in a quiet town out in western Sichuan. |
+| 2 | 我 老婆 和 我 几年前 开车 穿过 那儿，然后 在 那 小镇 住 了 几天。 | My wife and I drove through there a few years ago, and stayed in the town for a few days. |
+| 3 | 它 是 一栋 简单的 老 房子——没 什么 花哨，但 干净 又 平和。 | It's a simple old house — nothing fancy, but clean and peaceful. |
+| 4 | 我 爱 去 是 因为 它 那么 安静，远离 城市 所有 的 噪音。 | I love visiting because it's so quiet, miles away from all the noise of the city. |
+| 5 | 那儿 没什么 可 做，但 那 正是 重点——你 就 慢下来、放空。 | There's not much to do there, but that's the whole point — you just slow down and switch off. |
+| 6 | 早上 我 会 坐 在 外面、就 想想 事，或 什么 都 不 想。 | In the mornings I'd sit outside and just think, or not think about anything at all. |
+| 7 | 它 是 一个 完美的 小 逃离——它 帮 我 理清 脑子。 | It's a perfect little escape — it helps me clear my head. |
+| 8 | 但 说实话，我 不 会 想 长期 住 那儿。 | But honestly, I wouldn't want to live there long-term. |
+| 9 | 过 几天 之后，我 就 开始 想念 城市——商店、餐馆、还有 那 便利。 | After a few days, I start to miss the city — the shops, the restaurants, and the convenience. |
+| 10 | 那儿 没 地方 吃饭、没 太多 东西 看，一段时间 后 会 让人 无聊。 | There's nowhere much to eat and not a lot to see, which gets boring after a while. |
+| 11 | 所以 它 是 一个 短 住 的 完美 地方，但 不 是 安家 的。 | So it's the perfect place for a short stay, but not to settle. |
 
 ### ②P2 整段（shadow）
 
-> The home I'd like to talk about is my grandparents' place, out in the countryside. It's an old house with a big garden, where my grandfather grows vegetables. I love visiting because it brings back memories of my childhood — he raised me there. It's so quiet and calm, a real escape from the city. Whenever we go, my son runs around the garden and we all just relax. What I love most is the slow pace — we take our time, eat together, and chat. But honestly, I wouldn't want to live there full-time. It's too far from work, the shops, and my son's school. In a city, everything's under one roof, whereas out there you drive ages for anything. Whenever we go, my grandmother cooks a huge family meal, and we all sit around the table for hours. My son loves it there too — he runs around the garden all day. So for me, it's the perfect place to visit, but not to settle.
+> The place I'd like to talk about is a small guesthouse in a quiet town out in western Sichuan. My wife and I drove through there a few years ago, and stayed in the town for a few days. It's a simple old house — nothing fancy, but clean and peaceful. I love visiting because it's so quiet, miles away from all the noise of the city. There's not much to do there, but that's the whole point — you just slow down and switch off. In the mornings I'd sit outside and just think, or not think about anything at all. It's a perfect little escape — it helps me clear my head. But honestly, I wouldn't want to live there long-term. After a few days, I start to miss the city — the shops, the restaurants, and the convenience. There's nowhere much to eat and not a lot to see, which gets boring after a while. So it's the perfect place for a short stay, but not to settle.
 
-> 🔁 **复用**：句3 `brings back memories`+`raised me`(老11)；句4 `escape from the city`(老24/老26)；句5 `son runs around`(老12)；句6 `take our time`(老12)；句9 `all under one roof`(老24)+`whereas`+drive(老12)。
+> 🔁 **复用**：句1/2 `quiet town`+`drove through western Sichuan`(新03)；句3 `nothing fancy`(新01)；句4 `miles away from all the noise`(老26)；句5 `slow down`(新18)；句7 `little escape`+`clear my head`(老26)；句9/10 `nowhere much to eat`+`gets boring`(新03 翻正用)；句11 `perfect place … not to settle`。**改安静小镇**：基调翻正(安静/放空/思考)+只想住几天。
 
 ### 句型/模板（复用池）
 
-- `The home I'd like to talk about is my grandparents' place, out in the countryside` · `it brings back memories of my childhood` · `a real escape from the city` · `What I love most is the slow pace — we take our time` · `everything's under one roof, whereas out there …` · `the perfect place to visit, but not to settle`
+- `The place I'd like to talk about is a small guesthouse in a quiet town` · `nothing fancy, but clean and peaceful` · `miles away from all the noise of the city` · `there's not much to do, but that's the whole point — you just slow down and switch off` · `a perfect little escape — it helps me clear my head` · `the perfect place for a short stay, but not to settle`
 
 ---
 
@@ -2236,13 +2235,14 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 是的，相当 多，我会说。 | Yeah, quite a lot, I'd say. |
-| 2 | 它 是 那 文化 的 一个 大 部分，尤其 在 节日 期间。 | It's a big part of the culture, especially during festivals. |
-| 3 | 人们 拜访 家人 和 朋友、带 礼物、还 一起 吃 一顿饭。 | People visit family and friends, bring gifts, and share a meal. |
-| 4 | 所以 它 真的 关于 保持 亲近，说句公道话。 | So it's really about staying close, to be fair. |
+| 2 | 它 是 那 文化 的 一个 大 部分，尤其 在 春节 这样的 节日 期间。 | It's a big part of the culture, especially during festivals like Spring Festival. |
+| 3 | 人们 拜访 家人 和 朋友、带 礼物、还 一起 围 着 桌子 吃 一顿饭。 | People visit family and friends, bring gifts, and share a meal around the table. |
+| 4 | 那 是 我们 保持 联系 的 方式，尤其 跟 我们 不 常 见 的 亲戚。 | It's how we stay in touch, especially with relatives we don't see often. |
+| 5 | 所以 它 真的 关于 保持 亲近，说句公道话。 | So it's really about staying close, to be fair. |
 
-> Yeah, quite a lot, I'd say. It's a big part of the culture, especially during festivals. People visit family and friends, bring gifts, and share a meal. So it's really about staying close, to be fair.
+> Yeah, quite a lot, I'd say. It's a big part of the culture, especially during festivals like Spring Festival. People visit family and friends, bring gifts, and share a meal around the table. It's how we stay in touch, especially with relatives we don't see often. So it's really about staying close, to be fair.
 
-> 🔁 **复用**：`quite a lot, I'd say`+`share a meal`(新14)+`to be fair`。
+> 🔁 **复用**：`quite a lot, I'd say`+`share a meal`(新14)+`stay in touch`(新07)+`to be fair`。**⑦升级**：具体(春节/围着桌子)+机制(跟不常见的亲戚保持联系)。**LAND**：`So it's really about…`。
 
 **Q2. What do Chinese people do when they visit others?**
 
@@ -2250,25 +2250,27 @@
 |---|---|---|
 | 1 | 一大堆 东西，真的。 | Loads of things, really. |
 | 2 | 大多 他们 聊天、一起 吃 一顿饭、还 喝茶 叙旧。 | Mostly they chat, share a meal, and catch up over tea. |
-| 3 | 除此之外，人们 通常 带 一个 小 礼物，比如 水果。 | On top of that, people usually bring a small gift, like fruit. |
-| 4 | 所以 它 是 一个 温暖、放松的 事，说句公道话。 | So it's a warm, relaxed thing, to be fair. |
+| 3 | 大人 坐 着 聊 好几个 小时，而 孩子 一起 玩、到处 跑。 | The adults sit and talk for hours, while the kids play and run around together. |
+| 4 | 人们 通常 也 带 一个 小 礼物，比如 水果，好 不 空手 上门。 | People usually bring a small gift too, like fruit, so they don't turn up empty-handed. |
+| 5 | 所以 它 是 一个 温暖、放松的 事，说句公道话。 | So it's a warm, relaxed thing, to be fair. |
 
-> Loads of things, really. Mostly they chat, share a meal, and catch up over tea. On top of that, people usually bring a small gift, like fruit. So it's a warm, relaxed thing, to be fair.
+> Loads of things, really. Mostly they chat, share a meal, and catch up over tea. The adults sit and talk for hours, while the kids play and run around together. People usually bring a small gift too, like fruit, so they don't turn up empty-handed. So it's a warm, relaxed thing, to be fair.
 
-> 🔁 **复用**：`Loads of things, really`+`share a meal`(新14)+`over tea`(老26)+`On top of that`+`to be fair`。
+> 🔁 **复用**：`Loads of things, really`+`share a meal`(新14)+`over tea`(老26)+`to be fair`。**⑦升级**：画面(大人聊几小时/孩子到处跑)+机制(不空手上门)。**LAND**：`So it's a warm, relaxed thing`。
 
 **Q3. What kind of place do people in your country like to live in?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 城市，我会说。 | Mostly cities, I'd say. |
-| 2 | 一切 都 在 一个 屋顶 下——工作、商店、学校——所以 它 方便。 | Everything's under one roof — work, shops, schools — so it's convenient. |
-| 3 | 而 老年人 常常 更喜欢 乡下 某个 安静的 地方。 | Whereas older people often prefer somewhere quiet in the countryside. |
-| 4 | 所以 它 归结到 你 在 人生 哪个 阶段。 | So it comes down to what stage of life you're at. |
+| 2 | 一切 都 近在手边——工作、商店、学校——所以 对 忙碌的 家庭 它 很 方便。 | Everything's close by — work, shops, schools — so it's convenient for busy families. |
+| 3 | 而 老年人 常常 更喜欢 乡下 某个 安静的 地方，那儿 空间 更 大、更 平和。 | Whereas older people often prefer somewhere quiet in the countryside, where there's more space and peace. |
+| 4 | 年轻 的时候 你 想 要 那 便捷，年纪 大 了 你 更 看重 那 安静。 | When you're young you want the convenience, and when you're older you value the quiet more. |
+| 5 | 所以 它 取决于 你 在 人生 哪个 阶段。 | So it depends on what stage of life you're at. |
 
-> Mostly cities, I'd say. Everything's under one roof — work, shops, schools — so it's convenient. Whereas older people often prefer somewhere quiet in the countryside. So it comes down to what stage of life you're at.
+> Mostly cities, I'd say. Everything's close by — work, shops, schools — so it's convenient for busy families. Whereas older people often prefer somewhere quiet in the countryside, where there's more space and peace. When you're young you want the convenience, and when you're older you value the quiet more. So it depends on what stage of life you're at.
 
-> 🔁 **复用**：`Mostly … I'd say`+`all under one roof`(老24)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`。**⑦升级**：机制(年轻要便捷/年长看重安静)。`all under one roof`→`close by`。**LAND**：`So it depends on…`。
 
 **Q4. What's the difference between homes in cities and those in the countryside?**
 
@@ -2276,12 +2278,13 @@
 |---|---|---|
 | 1 | 相当 几个，其实。 | Quite a few, actually. |
 | 2 | 城市 的 家 是 公寓，小 又 挨 得 近，而 乡下 房子 有 空间 和 一个 花园。 | City homes are flats, small and close together, whereas country houses have space and a garden. |
-| 3 | 我 外公外婆 的 地方 比 我们的 公寓 大 太多。 | My grandparents' place is huge compared to our flat. |
-| 4 | 所以 它 归结到 空间 对 便捷。 | So it comes down to space versus convenience. |
+| 3 | 我 外公外婆 乡下 的 地方 有 一个 大 院子、种菜 的 地，比 我们的 公寓 大 太多。 | My grandparents' place in the countryside has a big yard and space to grow vegetables — huge compared to our flat. |
+| 4 | 但 城市 的 家 离 一切 都 更 近，所以 各 有 各 的 好处。 | But city homes are closer to everything, so each has its own advantages. |
+| 5 | 所以 它 归结到 空间 对 便捷。 | So it comes down to space versus convenience. |
 
-> Quite a few, actually. City homes are flats, small and close together, whereas country houses have space and a garden. My grandparents' place is huge compared to our flat. So it comes down to space versus convenience.
+> Quite a few, actually. City homes are flats, small and close together, whereas country houses have space and a garden. My grandparents' place in the countryside has a big yard and space to grow vegetables — huge compared to our flat. But city homes are closer to everything, so each has its own advantages. So it comes down to space versus convenience.
 
-> 🔁 **复用**：`Quite a few, actually`+`whereas`+外公link+`comes down to`。
+> 🔁 **复用**：`Quite a few, actually`+`whereas`+外公link(泛指家人 OK)+`comes down to`。**⑦升级**：具体(大院子/种菜地)+平衡(城市近一切,各有好处)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q5. What kind of gifts do people usually bring when they visit others?**
 
@@ -2289,12 +2292,13 @@
 |---|---|---|
 | 1 | 大多 是 小、贴心的 东西，我会说。 | Mostly small, thoughtful things, I'd say. |
 | 2 | 水果、茶、或 零食 是 那 惯常的，尤其 给 年长的 亲戚。 | Fruit, tea, or snacks are the usual, especially for older relatives. |
-| 3 | 我 老婆 总是 帮 我们 搞定——她 很 会 挑 对 的 东西。 | My wife always sorts ours out — she's good at picking the right thing. |
-| 4 | 所以 是 那份 心意 最 重要，说句公道话。 | So it's the thought that counts, to be fair. |
+| 3 | 你 挑 的 东西 也 常常 看 你 去 看 谁——给 一个 孩子 买 玩具，给 长辈 买 好茶。 | What you pick often depends on who you're visiting too — toys for a kid, nice tea for an elder. |
+| 4 | 我 老婆 总是 帮 我们 搞定——她 很 会 挑 对 的 东西。 | My wife always sorts ours out — she's good at picking the right thing. |
+| 5 | 所以 是 那份 心意 最 重要，说句公道话。 | So it's the thought that counts, to be fair. |
 
-> Mostly small, thoughtful things, I'd say. Fruit, tea, or snacks are the usual, especially for older relatives. My wife always sorts ours out — she's good at picking the right thing. So it's the thought that counts, to be fair.
+> Mostly small, thoughtful things, I'd say. Fruit, tea, or snacks are the usual, especially for older relatives. What you pick often depends on who you're visiting too — toys for a kid, nice tea for an elder. My wife always sorts ours out — she's good at picking the right thing. So it's the thought that counts, to be fair.
 
-> 🔁 **复用**：`Mostly … I'd say`+wife+`sorts … out`+`to be fair`。
+> 🔁 **复用**：`Mostly … I'd say`+wife+`sorts … out`+`to be fair`。**⑦升级**：具体(给孩子玩具/给长辈好茶)。**LAND**：`So it's the thought that counts`。
 
 **Q6. How often do you visit your relatives or friends?**
 
@@ -2302,12 +2306,13 @@
 |---|---|---|
 | 1 | 挺 常，我会说。 | Quite often, I'd say. |
 | 2 | 我们 每 几周 去 看 我 外公外婆，通常 在 一个 周末。 | We visit my grandparents every few weeks, usually on a weekend. |
-| 3 | 而 跟 朋友，现在 少 了，既然 每个人 都 忙。 | Whereas with friends, it's less often now that everyone's busy. |
-| 4 | 所以 它 归结到 找到 时间，说实话。 | So it comes down to finding the time, honestly. |
+| 3 | 我们 尽量 保持 规律，因为 他们 年纪 大 了、也 喜欢 见 到 我们 儿子。 | We try to keep it regular, since they're getting older and love seeing our son. |
+| 4 | 而 跟 朋友，现在 少 了，既然 每个人 都 忙 于 工作 和 家庭。 | Whereas with friends, it's less often now that everyone's busy with work and family. |
+| 5 | 所以 真的，它 是 关于 找到 时间。 | So really, it's about finding the time. |
 
-> Quite often, I'd say. We visit my grandparents every few weeks, usually on a weekend. Whereas with friends, it's less often now that everyone's busy. So it comes down to finding the time, honestly.
+> Quite often, I'd say. We visit my grandparents every few weeks, usually on a weekend. We try to keep it regular, since they're getting older and love seeing our son. Whereas with friends, it's less often now that everyone's busy with work and family. So really, it's about finding the time.
 
-> 🔁 **复用**：`Quite often, I'd say`+`whereas`+`comes down to`。
+> 🔁 **复用**：`Quite often, I'd say`+`whereas`+`everyone's busy`。**⑦升级**：机制(他们年纪大爱见儿子/朋友忙于工作家庭)。**LAND**：`So really, it's about…`。
 
 **P3 句型/模板（复用池）**：`quite a lot, I'd say` / `share a meal` · `Loads of things, really` / `over tea` · `Mostly cities, I'd say` / `all under one roof` / `whereas` · `Quite a few, actually` / `comes down to space versus convenience` · `Mostly small, thoughtful things, I'd say` / `sorts ours out` · `Quite often, I'd say` / `everyone's busy` / `finding the time`。
 
