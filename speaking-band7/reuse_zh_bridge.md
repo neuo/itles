@@ -108,11 +108,12 @@
 | 1 | 大大地，是的。 | Massively, yeah. |
 | 2 | 在 像 成都 这样的 大城市，它们 到处 都是——你 一 抬头，全 是 摩天楼。 | In big cities like Chengdu, they're everywhere — you look up and it's all skyscrapers. |
 | 3 | 因为 这么多 人 挤 在 一个 地方，往 上 盖 是 唯一 塞 下 每个人 的 办法。 | Because so many people are packed into one place, building up is the only way to fit everyone in. |
-| 4 | 所以 总的来说，高楼 只是 这里 城市 生活 的 一部分。 | So overall, tall buildings are just part of city life here. |
+| 4 | 你 用 同样 一块 地，能 装 下 多 十 倍 的 人。 | On the same piece of land, you can fit ten times as many people. |
+| 5 | 所以 总的来说，高楼 只是 这里 城市 生活 的 一部分。 | So overall, tall buildings are just part of city life here. |
 
-> Massively, yeah. In big cities like Chengdu, they're everywhere — you look up and it's all skyscrapers. Because so many people are packed into one place, building up is the only way to fit everyone in. So overall, tall buildings are just part of city life here.
+> Massively, yeah. In big cities like Chengdu, they're everywhere — you look up and it's all skyscrapers. Because so many people are packed into one place, building up is the only way to fit everyone in. On the same piece of land, you can fit ten times as many people. So overall, tall buildings are just part of city life here.
 
-> 🔁 **复用**：`Massively, yeah`(新07-Q6)+`packed into`(老08/老25)+`So overall`。
+> 🔁 **复用**：`Massively, yeah`(新07-Q6)+`packed into`(老08/老25)+`So overall`。**⑦升级**：机制画面(同一块地装十倍人)。
 
 **Q2. What are the differences between those tall buildings?**
 
@@ -120,12 +121,13 @@
 |---|---|---|
 | 1 | 相当 几个，其实。 | Quite a few, actually. |
 | 2 | 有些 是 办公室，有些 是 公寓，有些 是 购物中心、像 我 提到 的 那个。 | Some are offices, some are flats, and some are shopping malls like the one I mentioned. |
-| 3 | 老 的 看起来 有点 朴素，而 新 的 全 是 玻璃 和 花哨的 形状。 | Older ones look a bit plain, whereas newer ones are all glass and fancy shapes. |
-| 4 | 所以 它 真的 归结到 它们 是 用来 干什么 的。 | So it really comes down to what they're used for. |
+| 3 | 老 的 看起来 有点 朴素、就 是 方方正正 的 楼，而 新 的 全 是 玻璃 和 花哨的 形状。 | Older ones look a bit plain — just square blocks — whereas newer ones are all glass and fancy shapes. |
+| 4 | 你 几乎 一眼 就 能 看出 一栋 楼 是 哪个 年代 的。 | You can almost tell how old a building is just by looking at it. |
+| 5 | 所以 它 真的 归结到 它们 是 用来 干什么 的、还有 什么 时候 盖 的。 | So it really comes down to what they're used for and when they were built. |
 
-> Quite a few, actually. Some are offices, some are flats, and some are shopping malls like the one I mentioned. Older ones look a bit plain, whereas newer ones are all glass and fancy shapes. So it really comes down to what they're used for.
+> Quite a few, actually. Some are offices, some are flats, and some are shopping malls like the one I mentioned. Older ones look a bit plain — just square blocks — whereas newer ones are all glass and fancy shapes. You can almost tell how old a building is just by looking at it. So it really comes down to what they're used for and when they were built.
 
-> 🔁 **复用**：`Quite a few, actually`(多卡)+`whereas`+`comes down to what…`。
+> 🔁 **复用**：`Quite a few, actually`(多卡)+`whereas`+`comes down to what…`。**⑦升级**：具体(方方正正的楼)+推论(一眼看出年代)。**（本卡唯一保留 comes down to）**
 
 **Q3. Why are different places laid out and designed differently?**
 
@@ -134,11 +136,12 @@
 | 1 | 主要 是 用途，我会说。 | Mainly the purpose, I'd say. |
 | 2 | 一个 购物 区 需要 宽 空间 和 停车位，而 一个 安静的 小区 需要 公园 和 给 孩子 的 地方。 | A shopping area needs wide space and parking, whereas a quiet neighbourhood needs parks and room for kids. |
 | 3 | 天气 也 要紧——在 热 的 地方 你 得 为 遮阴 和 空调 打算。 | The weather matters too — in hot places you plan for shade and air conditioning. |
-| 4 | 所以 那 设计 只是 归结到 谁 要 用 它、还有 怎么 用。 | So the design just comes down to who's going to use it and how. |
+| 4 | 一个 好 的 布局 就是 让 那 地方 适合 住 在 那儿 的人。 | A good layout is really just about fitting the people who live there. |
+| 5 | 所以 那 设计 只是 关于 谁 要 用 它、还有 怎么 用。 | So the design is just about who's going to use it and how. |
 
-> Mainly the purpose, I'd say. A shopping area needs wide space and parking, whereas a quiet neighbourhood needs parks and room for kids. The weather matters too — in hot places you plan for shade and air conditioning. So the design just comes down to who's going to use it and how.
+> Mainly the purpose, I'd say. A shopping area needs wide space and parking, whereas a quiet neighbourhood needs parks and room for kids. The weather matters too — in hot places you plan for shade and air conditioning. A good layout is really just about fitting the people who live there. So the design is just about who's going to use it and how.
 
-> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`air conditioning`(老24)+`comes down to`。
+> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`air conditioning`(老24)。**⑦升级**：机制(布局=适合住那儿的人)。**LAND**：`the design is just about…`(去 comes down to)。
 
 **Q4. What are the advantages of living in tall buildings?**
 
@@ -160,11 +163,12 @@
 | 1 | 主要 是 为了 省钱、还有 把 它 弄成 自己的，我会说。 | Mainly to save money and make it their own, I'd say. |
 | 2 | 请人 很 贵，而 自己 做 给 你 完全的 掌控。 | Hiring someone is expensive, whereas doing it yourself gives you full control. |
 | 3 | 此外，它 是 一个 放松 的 方式——有些人 真的 享受 一点点 捣鼓 他们的 家。 | Plus, it's a way to relax — some people really enjoy working on their home bit by bit. |
-| 4 | 所以 它 归结到 钱、还有 一点点 自豪。 | So it comes down to money and a bit of pride. |
+| 4 | 而 当 你 用 自己 双手 做 完 一件 东西，那 感觉 特别 有 成就感。 | And when you finish something with your own hands, it feels really rewarding. |
+| 5 | 所以 它 是 关于 钱、还有 一点点 自豪。 | So it's about money and a bit of pride. |
 
-> Mainly to save money and make it their own, I'd say. Hiring someone is expensive, whereas doing it yourself gives you full control. Plus, it's a way to relax — some people really enjoy working on their home bit by bit. So it comes down to money and a bit of pride.
+> Mainly to save money and make it their own, I'd say. Hiring someone is expensive, whereas doing it yourself gives you full control. Plus, it's a way to relax — some people really enjoy working on their home bit by bit. And when you finish something with your own hands, it feels really rewarding. So it's about money and a bit of pride.
 
-> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`Plus`+`bit by bit`(新15 chip away 同族)+`comes down to`。
+> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`Plus`+`bit by bit`(新15 chip away 同族)。**⑦升级**：机制(自己双手做完有成就感)。**LAND**：`So it's about…`。
 
 **Q6. What kind of interior design style do most people like?**
 
@@ -173,11 +177,12 @@
 | 1 | 简单 又 干净，我会说。 | Simple and clean, I'd say. |
 | 2 | 我 认识的 大多数 人 追求 一个 平静、整洁的 样子——没 太多 杂物。 | Most people I know go for a calm, tidy look — not too much stuff. |
 | 3 | 而 有些 更 年轻的人 喜欢 一个 更 现代的 风格，带 大胆的 颜色。 | Whereas some younger folk like a more modern style, with bold colours. |
-| 4 | 但 总的来说，人们 想要 一个 舒服的 地方 [去]在 漫长的 一天 后 放松。 | But overall, people want somewhere comfortable to relax after a long day. |
+| 4 | 但 说到底，在 忙碌 了 一天 之后，没人 想 回到 一个 乱糟糟 的 地方。 | But at the end of the day, after a busy day, no one wants to come home to a mess. |
+| 5 | 所以 总的来说，人们 想要 一个 舒服的 地方 放松。 | So overall, people want somewhere comfortable to relax. |
 
-> Simple and clean, I'd say. Most people I know go for a calm, tidy look — not too much stuff. Whereas some younger folk like a more modern style, with bold colours. But overall, people want somewhere comfortable to relax after a long day.
+> Simple and clean, I'd say. Most people I know go for a calm, tidy look — not too much stuff. Whereas some younger folk like a more modern style, with bold colours. But at the end of the day, after a busy day, no one wants to come home to a mess. So overall, people want somewhere comfortable to relax.
 
-> 🔁 **复用**：`tidy`(老24降档词)+`whereas`+`younger folk`(老08)+`So overall`+`after a long day`(新07-Q1/新15)。
+> 🔁 **复用**：`tidy`(老24降档词)+`whereas`+`younger folk`(老08)+`So overall`。**⑦升级**：机制画面(忙一天不想回到乱糟糟的地方)。
 
 **P3 句型/模板（复用池）**：`Massively, yeah` · `packed into one place` · `Quite a few, actually` / `whereas` / `comes down to what they're used for` · `Mainly the purpose, I'd say` · `Loads, honestly` / `away from the traffic` / `all under one roof` / `that kind of thing` · `a way to relax` / `bit by bit` · `Simple and clean` / `a calm, tidy look` / `after a long day`。
 
@@ -350,11 +355,12 @@
 | 1 | 主要 因为 它 是 单向的，我会说。 | Mainly because it's one-way, I'd say. |
 | 2 | 孩子 坐着 听 好几个 小时，而 他们 靠 动手、提问 学 得 最好。 | Kids sit and listen for hours, whereas they learn best by doing and asking questions. |
 | 3 | 此外，一大堆 内容 感觉 离 真实 生活 很 远，所以 他们 看不到 那 意义。 | Plus, a lot of it feels far from real life, so they can't see the point. |
-| 4 | 所以 它 归结到 它 怎么 被 教，不是 那 科目 本身。 | So it comes down to how it's taught, not the subject itself. |
+| 4 | 一个 孩子 会 问 "我 什么时候 会 用 到 这个？"，而 如果 没有 好 答案，他们 就 走神。 | A kid will ask "when will I ever use this?", and if there's no good answer, they switch off. |
+| 5 | 所以 它 归结到 它 怎么 被 教，不是 那 科目 本身。 | So it comes down to how it's taught, not the subject itself. |
 
-> Mainly because it's one-way, I'd say. Kids sit and listen for hours, whereas they learn best by doing and asking questions. Plus, a lot of it feels far from real life, so they can't see the point. So it comes down to how it's taught, not the subject itself.
+> Mainly because it's one-way, I'd say. Kids sit and listen for hours, whereas they learn best by doing and asking questions. Plus, a lot of it feels far from real life, so they can't see the point. A kid will ask "when will I ever use this?", and if there's no good answer, they switch off. So it comes down to how it's taught, not the subject itself.
 
-> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`asking questions`(新15-Q4 like sponges)+`Plus`+`comes down to`。
+> 🔁 **复用**：`Mainly X, I'd say`+`whereas`+`asking questions`(新15-Q4)+`Plus`+`switch off`(新03-Q4)+`comes down to`。**⑦升级**：画面(孩子问"我啥时候会用到这个")。**（本卡唯一保留 comes down to）**
 
 **Q2. Why aren't young people willing to listen to older people's experiences?**
 
@@ -363,11 +369,12 @@
 | 1 | 几个 原因，真的。 | A few reasons, really. |
 | 2 | 年轻人 觉得 那 世界 已经 变了，所以 老 建议 感觉 过时。 | Young people think the world's changed, so old advice feels out of date. |
 | 3 | 而 老年人 以前 经历过，还 常常 确实 有 道理。 | Whereas older folk have been there before and often do have a point. |
-| 4 | 所以 说实话，它 归结到 两边 都 没 真的 听 对方。 | So honestly, it comes down to both sides not really listening to each other. |
+| 4 | 问题 是，年轻人 常常 得 自己 犯 一次 错，才 明白 那 建议 是 对 的。 | The thing is, young people often have to make the mistake themselves before they see the advice was right. |
+| 5 | 所以 说实话，两边 都 没 真的 在 听 对方。 | So honestly, both sides just aren't really listening to each other. |
 
-> A few reasons, really. Young people think the world's changed, so old advice feels out of date. Whereas older folk have been there before and often do have a point. So honestly, it comes down to both sides not really listening to each other.
+> A few reasons, really. Young people think the world's changed, so old advice feels out of date. Whereas older folk have been there before and often do have a point. The thing is, young people often have to make the mistake themselves before they see the advice was right. So honestly, both sides just aren't really listening to each other.
 
-> 🔁 **复用**：`A few…really`+`whereas older folk`+`been there before`(新07-Q5)+`comes down to`。
+> 🔁 **复用**：`A few…really`+`whereas older folk`+`been there before`(新07-Q5)。**⑦升级**：机制(得自己犯错才明白建议对)。**LAND**：`both sides just aren't really listening`(去 comes down to)。
 
 **Q3. What can people do when they feel bored?**
 
@@ -401,12 +408,13 @@
 |---|---|---|
 | 1 | 主要 是 兴趣 上 一个 差距，我会说。 | Mainly a gap in interests, I'd say. |
 | 2 | 他们 不 在 一个 频道上——年轻人 聊 科技 和 潮流，而 老年人 聊 过去。 | They're not on the same wavelength — young people talk about tech and trends, whereas older folk talk about the past. |
-| 3 | 所以 那 对话 会 感觉 有点 无聊。 | So the conversation can feel a bit dull. |
-| 4 | 但 说句公道话，一旦 他们 找到 共同点，通常 就 没事。 | But to be fair, once they find common ground, it's usually fine. |
+| 3 | 所以 那 对话 会 感觉 有点 无聊，双方 都 不 太 知道 说 什么。 | So the conversation can feel a bit dull, with neither side quite knowing what to say. |
+| 4 | 但 说句公道话，一旦 他们 找到 一个 共同点，比如 家庭 或 食物，通常 就 没事 了。 | But to be fair, once they find some common ground, like family or food, it's usually fine. |
+| 5 | 所以 真的，它 是 关于 找到 那个 共同的 话题。 | So really, it's about finding that shared topic. |
 
-> Mainly a gap in interests, I'd say. They're not on the same wavelength — young people talk about tech and trends, whereas older folk talk about the past. So the conversation can feel a bit dull. But to be fair, once they find common ground, it's usually fine.
+> Mainly a gap in interests, I'd say. They're not on the same wavelength — young people talk about tech and trends, whereas older folk talk about the past. So the conversation can feel a bit dull, with neither side quite knowing what to say. But to be fair, once they find some common ground, like family or food, it's usually fine. So really, it's about finding that shared topic.
 
-> 🔁 **复用**：`Mainly X, I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`dull`(新07-Q1)+`to be fair`。
+> 🔁 **复用**：`Mainly X, I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`dull`(新07-Q1)+`to be fair`+`common ground`。**⑦升级**：具体(共同点如家庭/食物)。**LAND**：`So really, it's about…`。
 
 **Q6. Do most people think news about celebrities is boring?**
 
@@ -414,12 +422,13 @@
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
 | 2 | 有些人 爱 它、还 追 每 一点 八卦，而 另一些 一点 都 不 在乎。 | Some people love it and follow every bit of gossip, whereas others couldn't care less. |
-| 3 | 对 我 来说，它 不 真的 是 我的 菜——我 直接 刷 过去。 | For me, it's not really my thing — I just scroll straight past it. |
-| 4 | 所以 它 真的 归结到 那个 人。 | So it really comes down to the person. |
+| 3 | 对 我 来说，它 不 真的 是 我的 菜——我 直接 刷 过去，因为 那 感觉 跟 我 的 生活 没 关系。 | For me, it's not really my thing — I just scroll straight past it, because it feels irrelevant to my life. |
+| 4 | 不过 我 明白 为什么 人们 追 它——它 让 人 有 谈资、又 是 一种 逃离。 | Still, I get why people follow it — it gives them something to talk about, and it's a bit of an escape. |
+| 5 | 所以 真的，它 取决于 那个 人。 | So really, it depends on the person. |
 
-> It's a bit of a mixed bag, honestly. Some people love it and follow every bit of gossip, whereas others couldn't care less. For me, it's not really my thing — I just scroll straight past it. So it really comes down to the person.
+> It's a bit of a mixed bag, honestly. Some people love it and follow every bit of gossip, whereas others couldn't care less. For me, it's not really my thing — I just scroll straight past it, because it feels irrelevant to my life. Still, I get why people follow it — it gives them something to talk about, and it's a bit of an escape. So really, it depends on the person.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`scroll`(老08)+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`scroll`(老08)+`escape`(老24)。**⑦升级**：机制(给谈资/是逃离)。**LAND**：`So really, it depends on…`。
 
 **P3 句型/模板（复用池）**：`Mainly because …, I'd say` / `whereas` / `comes down to how it's taught` · `been there before` · `Loads of things, really` / `a quick laugh` / `kill the time` · `keeps everyone involved` / `hands-on` · `on the same wavelength` / `a bit dull` / `find common ground` · `a bit of a mixed bag, honestly` / `not really my thing`。
 
