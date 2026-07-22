@@ -3678,41 +3678,41 @@
 
 ---
 
-## P2-老04 · A time you gave advice to others — 劝妻子别硬扛工作（Event/Person）  〔复用生成〕
+## P2-老04 · A time you gave advice to others — 建议老婆跑首场10K别冲太快（Event/Person）  〔复用生成 · 改跑步建议〕
 
 > **📋 P2 题面**：Describe a time when you gave advice to others.
 > *You should say:* When it was · To whom you gave the advice · What the advice was · And explain why you gave the advice
 >
 > **Cue**: 何时 / 给谁 / 什么建议 / 为何给 · 题型 Event/Person
 >
-> 🔁 **整卡复用自**：wife(a lot on her plate/pushing herself 新15) + 张伟(sat down) + 新18(slow down) + 新21(ask for help) + 新11(share the load/spoke up) + 新12(glad I)。
+> 🔁 **整卡复用自**：老21 老婆跑10K(`really into fitness` / `her first 10K` / `deep down she was nervous` / `hesitant at first` / `ran the whole thing` / `over the moon` / `cheer her on`) + 老04 advice 框架(`sat down and gently said` / `The reason I said it is` / `glad I spoke up`) + 新18(take it easy/enjoy)。**建议内容=别一开始冲太快/慢慢来/享受过程别只盯成绩**。
 
 ### ①P2 拆解（英式中文珠子 → 复用英文）
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
-| 1 | 我想聊的那个时刻 是 当 我 给 我 老婆 一些 关于 工作 的 建议。 | The time I'd like to talk about is when I gave my wife some advice about work. |
-| 2 | 她 真的 很 勤奋，而 前阵子 她 手头 一大堆 事。 | She's really hardworking, and a while back she had a lot on her plate. |
-| 3 | 她 揽 了 太多——工作、我们的 儿子、一切——还 累 垮 了。 | She was taking on too much — work, our son, everything — and getting worn out. |
-| 4 | 一个 晚上，我 跟 她 坐下、温和地 说 她 该 慢下来。 | One evening, I sat down with her and gently said she should slow down. |
-| 5 | 我 告诉 她 她 不必 全都 自己 做，还 可以 求助。 | I told her she didn't have to do it all herself, and could ask for help. |
-| 6 | 我 说 它 的 原因 是 我 看得出 她 把 自己 逼 得 太 狠。 | The reason I said it is that I could see she was pushing herself too hard. |
-| 7 | 她 一开始 有点 不情愿——她 讨厌 让 人 失望。 | She was a bit reluctant at first — she hates letting people down. |
-| 8 | 但 过 一会儿，她 开始 分担 那 担子，而 她 看起来 更 开心。 | But after a while, she started sharing the load, and she seemed happier. |
-| 9 | 说实话，我 只是 庆幸 她 听 了。 | Honestly, I was just glad she listened. |
-| 10 | 这些天 她 好 多了、在 她 手头 太多 的时候 会 说 不。 | These days she's much better at saying no when she's got too much on. |
-| 11 | 说实话，她 甚至 谢 我 那 晚上 站 出来。 | Honestly, she even thanks me for stepping in that evening. |
+| 1 | 我想聊的那个时刻 是 当 我 给 我 老婆 一些 关于 跑步 的 建议。 | The time I'd like to talk about is when I gave my wife some advice about running. |
+| 2 | 她 真的 很 迷 健身，而 前阵子 她 报名 了 她 头一场 10公里。 | She's really into fitness, and a while back she signed up for her first 10K. |
+| 3 | 但 随着 那 比赛 临近，我 看得出 她 内心深处 很 紧张。 | But as the race got closer, I could see that deep down she was nervous. |
+| 4 | 一个 晚上，我 跟 她 坐下、温和地 给 了 她 一些 建议。 | One evening, I sat down with her and gently gave her some advice. |
+| 5 | 我 告诉 她 别 一开始 就 冲 太 快——就 稳住 节奏、慢慢来。 | I told her not to go off too fast at the start — just to pace herself and take it easy. |
+| 6 | 我 还 说 她 该 享受 那 过程，而不是 只 盯着 那 成绩。 | I also said she should enjoy the experience, rather than just focusing on her time. |
+| 7 | 我 说 它 的 原因 是 我 看得出 她 把 自己 逼 得 太 狠。 | The reason I said it is that I could see she was pushing herself too hard. |
+| 8 | 她 一开始 有点 不情愿——她 觉得 她 不够 好。 | She was a bit reluctant at first — she thought she wasn't good enough. |
+| 9 | 但 到 了 那 天，她 稳住 了 节奏、还 跑 完 了 全程。 | But on the day, she paced herself and ran the whole thing. |
+| 10 | 说实话，她 事后 高兴 坏了，而 我们 儿子 和 我 在 终点线 给 她 加油。 | Honestly, she was over the moon afterwards, and our son and I cheered her on at the finish line. |
+| 11 | 这些天 她 还 常 提 那场 比赛，而 她 甚至 谢 我 那 晚上 的 建议。 | These days she still talks about that race, and she even thanks me for the advice that evening. |
 | 12 | 所以 对我，它 是 一个 我 真的 庆幸 我 说 出来 的 时刻。 | So for me, it's a time I'm really glad I spoke up. |
 
 ### ②P2 整段（shadow）
 
-> The time I'd like to talk about is when I gave my wife some advice about work. She's really hardworking, and a while back she had a lot on her plate. She was taking on too much — work, our son, everything — and getting worn out. One evening, I sat down with her and gently said she should slow down. I told her she didn't have to do it all herself, and could ask for help. The reason I said it is that I could see she was pushing herself too hard. She was a bit reluctant at first — she hates letting people down. But after a while, she started sharing the load, and she seemed happier. Honestly, I was just glad she listened. These days she's much better at saying no when she's got too much on. Honestly, she even thanks me for stepping in that evening. So for me, it's a time I'm really glad I spoke up.
+> The time I'd like to talk about is when I gave my wife some advice about running. She's really into fitness, and a while back she signed up for her first 10K. But as the race got closer, I could see that deep down she was nervous. One evening, I sat down with her and gently gave her some advice. I told her not to go off too fast at the start — just to pace herself and take it easy. I also said she should enjoy the experience, rather than just focusing on her time. The reason I said it is that I could see she was pushing herself too hard. She was a bit reluctant at first — she thought she wasn't good enough. But on the day, she paced herself and ran the whole thing. Honestly, she was over the moon afterwards, and our son and I cheered her on at the finish line. These days she still talks about that race, and she even thanks me for the advice that evening. So for me, it's a time I'm really glad I spoke up.
 
-> 🔁 **复用**：句2 `a lot on her plate`(新15)；句4 `sat down`(张伟)+`slow down`(新18)；句5 `ask for help`(新21)；句6 `The reason … is`+`pushing herself`(新15)；句8 `sharing the load`(新11-Q5)；句10 `glad I`(新12)+`spoke up`(新11)。
+> 🔁 **复用**：句2 `really into fitness`+`her first 10K`(老21)；句3 `deep down she was nervous`(老21)；句4 `sat down … gently`(老04)；句5 `pace herself`+`take it easy`(新18)；句7 `The reason I said it is`+`pushing herself`(新15)；句8 `reluctant at first`(老04)+`wasn't good enough`(老21)；句9 `ran the whole thing`(老21)；句10 `over the moon`(新14)+`cheered her on`(老21)；句12 `glad I spoke up`(新11/老04)。**改跑步建议**：advice=别冲太快/稳节奏/享受过程别只盯成绩。
 
 ### 句型/模板（复用池）
 
-- `The time I'd like to talk about is when I gave my wife some advice` · `she had a lot on her plate` · `I sat down with her and gently said she should slow down` · `The reason I said it is that I could see she was pushing herself too hard` · `I'm really glad I spoke up`
+- `The time I'd like to talk about is when I gave my wife some advice about running` · `I sat down with her and gently gave her some advice` · `I told her not to go off too fast at the start — just to pace herself and take it easy` · `The reason I said it is that I could see she was pushing herself too hard` · `she was over the moon afterwards` · `I'm really glad I spoke up`
 
 ---
 
@@ -3723,78 +3723,84 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，我 觉得 是。 | Absolutely, I think so. |
-| 2 | 如果 你 不 懂 那 情况，你的 建议 可能 帮 倒忙。 | If you don't understand the situation, your advice can do more harm than good. |
-| 3 | 而 花 一会儿 先 听 让 它 有用 得 多。 | Whereas taking a moment to listen first makes it far more useful. |
-| 4 | 所以 它 归结到 说 之前 先 想。 | So it comes down to thinking before you speak. |
+| 2 | 如果 你 不 先 弄懂 那 情况，你的 建议 可能 反而 帮 倒忙。 | If you don't understand the situation first, your advice can actually make things worse. |
+| 3 | 比如 有人 心情 不好，你 却 冲 进去 给 建议，你 可能 完全 说 错。 | Say someone's upset and you jump straight in with advice — you might get it completely wrong. |
+| 4 | 而 花 一会儿 先 听，让 它 有用 得 多。 | Whereas taking a moment to listen first makes it far more useful. |
+| 5 | 所以 关键 是 说 之前 先 想。 | So the key is thinking before you speak. |
 
-> Absolutely, I think so. If you don't understand the situation, your advice can do more harm than good. Whereas taking a moment to listen first makes it far more useful. So it comes down to thinking before you speak.
+> Absolutely, I think so. If you don't understand the situation first, your advice can actually make things worse. Say someone's upset and you jump straight in with advice — you might get it completely wrong. Whereas taking a moment to listen first makes it far more useful. So the key is thinking before you speak.
 
-> 🔁 **复用**：`Absolutely, I think so`+`whereas`+`comes down to`。
+> 🔁 **复用**：`Absolutely, I think so`+`whereas`。**⑦升级**：具体画面(有人心情不好你冲进去给建议)。`do more harm than good`→`make things worse`。**LAND**：`So the key is…`。
 
 **Q2. Is it good to ask advice from strangers online?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 好的一面，你 很快 得到 一大堆 不同的 观点。 | On the plus side, you get loads of different views quickly. |
-| 3 | 另一方面，陌生人 不 了解 你的 情况，所以 它 可能 差 得 远。 | On the other hand, strangers don't know your situation, so it can be way off. |
-| 4 | 所以 它 归结到 别 全 信、留 个 心眼。 | So it comes down to taking it with a pinch of salt. |
+| 2 | 好的一面，你 很快 就 得到 一大堆 不同的 观点，还 免费。 | On the plus side, you get loads of different views quickly, and it's free. |
+| 3 | 另一方面，陌生人 不 了解 你的 情况，所以 那 建议 可能 差 得 远。 | On the other hand, strangers don't know your situation, so the advice can be way off. |
+| 4 | 对 大 问题，我 更 信任 一个 真正 了解 我 的人。 | For big problems, I'd trust someone who actually knows me more. |
+| 5 | 所以 它 是 关于 别 什么 都 照单全收。 | So it's about not taking everything at face value. |
 
-> It's a bit of a mixed bag, honestly. On the plus side, you get loads of different views quickly. On the other hand, strangers don't know your situation, so it can be way off. So it comes down to taking it with a pinch of salt.
+> It's a bit of a mixed bag, honestly. On the plus side, you get loads of different views quickly, and it's free. On the other hand, strangers don't know your situation, so the advice can be way off. For big problems, I'd trust someone who actually knows me more. So it's about not taking everything at face value.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`+`On the plus side … On the other hand`(新07-Q3)+`comes down to`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`+`On the plus side … On the other hand`(新07-Q3)。**⑦升级**：机制(陌生人不了解情况)+对比(大问题信了解我的人)。`a pinch of salt`→`not taking everything at face value`。**LAND**：`So it's about…`。
 
 **Q3. What are the personalities of people whose job is to give advice to others?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 有 耐心、还 是 好 听众，我会说。 | Mainly patient and good listeners, I'd say. |
-| 2 | 他们 保持 冷静、还 在 说 之前 真的 理解 你的 情况。 | They stay calm and really understand your situation before speaking. |
-| 3 | 而 一个 咄咄逼人的 人 只 告诉 你 该 做 什么。 | Whereas a pushy person just tells you what to do. |
-| 4 | 所以 它 归结到 听 多过 说。 | So it comes down to listening more than talking. |
+| 2 | 他们 保持 冷静、还 在 开口 之前 真的 理解 你的 情况。 | They stay calm and really understand your situation before they say anything. |
+| 3 | 想想 一个 好 医生 或 老师——他们 先 听，才 给 建议。 | Think of a good doctor or teacher — they listen first, then give advice. |
+| 4 | 而 一个 咄咄逼人的 人 不 先 弄懂 就 直接 告诉 你 该 做 什么。 | Whereas a pushy person just tells you what to do without understanding first. |
+| 5 | 所以 它 归结到 听 多过 说。 | So it comes down to listening more than talking. |
 
-> Mainly patient and good listeners, I'd say. They stay calm and really understand your situation before speaking. Whereas a pushy person just tells you what to do. So it comes down to listening more than talking.
+> Mainly patient and good listeners, I'd say. They stay calm and really understand your situation before they say anything. Think of a good doctor or teacher — they listen first, then give advice. Whereas a pushy person just tells you what to do without understanding first. So it comes down to listening more than talking.
 
-> 🔁 **复用**：`Mainly … I'd say`+`stay calm`(张伟)+`pushy`(老24)+`whereas`+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`stay calm`(张伟)+`pushy`(老24)+`whereas`。**⑦升级**：具体(好医生/老师先听再建议)。**LAND**：`comes down to`(本卡唯一)。
 
 **Q4. What are the problems if you ask too many people for advice?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
-| 2 | 每个人 说 的 不 一样，所以 你 最后 更 困惑。 | Everyone says something different, so you end up more confused. |
-| 3 | 而 一两个 信得过 的 人 通常 就 够了。 | Whereas one or two trusted people is usually enough. |
-| 4 | 所以 它 归结到 别 想 太多。 | So it comes down to not overthinking it. |
+| 2 | 每个人 说 的 不 一样，所以 你 最后 反而 更 困惑。 | Everyone says something different, so you end up even more confused. |
+| 3 | 你 想 做 对 一件 事，结果 却 卡在 十种 意见 之间、拿 不定 主意。 | You want to get it right, but you get stuck between ten opinions and can't decide. |
+| 4 | 而 一两个 你 信得过 的 人 通常 就 够了。 | Whereas one or two people you trust is usually enough. |
+| 5 | 所以 真的，它 是 关于 别 想 太多。 | So really, it's about not overthinking it. |
 
-> Loads, honestly. Everyone says something different, so you end up more confused. Whereas one or two trusted people is usually enough. So it comes down to not overthinking it.
+> Loads, honestly. Everyone says something different, so you end up even more confused. You want to get it right, but you get stuck between ten opinions and can't decide. Whereas one or two people you trust is usually enough. So really, it's about not overthinking it.
 
-> 🔁 **复用**：`Loads, honestly`+`whereas`+`overthinking it`(新23)+`comes down to`。
+> 🔁 **复用**：`Loads, honestly`+`whereas`+`overthinking it`(新23)。**⑦升级**：机制+画面(卡在十种意见之间拿不定主意)。**LAND**：`So really, it's about…`。
 
 **Q5. Why do some people think it is better to ask for advice from friends than from parents?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 朋友 年纪 感觉 更 近，我会说。 | Mainly because friends feel closer in age, I'd say. |
-| 2 | 他们 在 一个 频道上，所以 他们 懂。 | They're on the same wavelength, so they get it. |
-| 3 | 而 父母 有时 会 感觉 有点 爱 评判。 | Whereas parents can feel a bit judgemental sometimes. |
-| 4 | 所以 它 归结到 他们 跟 谁 感觉 自在。 | So it comes down to who they feel comfortable with. |
+| 2 | 他们 在 一个 频道上——一样的 烦恼、一样的 生活——所以 他们 就 懂。 | They're on the same wavelength — the same worries, the same life — so they just get it. |
+| 3 | 而 父母 有时 会 感觉 有点 爱 评判，或 太 担心。 | Whereas parents can feel a bit judgemental, or too worried, sometimes. |
+| 4 | 说到底，对 私人 的 事 你 想 找 一个 不 会 评判 你 的人。 | At the end of the day, for personal stuff you want someone who won't judge you. |
+| 5 | 所以 它 取决于 他们 跟 谁 感觉 自在。 | So it depends on who they feel comfortable with. |
 
-> Mainly because friends feel closer in age, I'd say. They're on the same wavelength, so they get it. Whereas parents can feel a bit judgemental sometimes. So it comes down to who they feel comfortable with.
+> Mainly because friends feel closer in age, I'd say. They're on the same wavelength — the same worries, the same life — so they just get it. Whereas parents can feel a bit judgemental, or too worried, sometimes. At the end of the day, for personal stuff you want someone who won't judge you. So it depends on who they feel comfortable with.
 
-> 🔁 **复用**：`Mainly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`who they feel comfortable with`(新26-Q4)。
+> 🔁 **复用**：`Mainly … I'd say`+`on the same wavelength`(新07-Q5)+`whereas`+`who they feel comfortable with`(新26-Q4)。**⑦升级**：具体(一样烦恼一样生活)+机制(私人事想找不评判你的人)。**LAND**：`So it depends on…`。
 
 **Q6. When would old people ask young people for advice?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 是 关于 科技，我会说。 | Mostly with technology, I'd say. |
-| 2 | 我 父母 一直 问 我 关于 他们的 手机 和 app。 | My parents ask me about their phones and apps all the time. |
-| 3 | 而 至于 人生 建议，他们 仍然 最 懂。 | Whereas for life advice, they still know best. |
-| 4 | 所以 它 归结到 谁 更 擅长 什么。 | So it comes down to who's better at what. |
+| 2 | 我 父母 一直 问 我 关于 他们的 手机 和 app——怎么 付款、怎么 视频 通话，那种 东西。 | My parents ask me about their phones and apps all the time — how to pay, how to video call, that kind of thing. |
+| 3 | 世界 变 得 太 快，年轻人 就是 更 快 跟上 这些 新 东西。 | The world changes so fast that young people just keep up with this new stuff more quickly. |
+| 4 | 而 至于 人生 建议，老年人 仍然 最 懂。 | Whereas for life advice, older people still know best. |
+| 5 | 所以 真的，它 取决于 谁 更 擅长 什么。 | So really, it depends on who's better at what. |
 
-> Mostly with technology, I'd say. My parents ask me about their phones and apps all the time. Whereas for life advice, they still know best. So it comes down to who's better at what.
+> Mostly with technology, I'd say. My parents ask me about their phones and apps all the time — how to pay, how to video call, that kind of thing. The world changes so fast that young people just keep up with this new stuff more quickly. Whereas for life advice, older people still know best. So really, it depends on who's better at what.
 
-> 🔁 **复用**：`Mostly … I'd say`+`my parents … apps`(老08-Q2)+`whereas`+`know best`(新10-Q3)+`comes down to`。
+> 🔁 **复用**：`Mostly … I'd say`+`my parents … apps`(老08-Q2)+`whereas`+`know best`(新10-Q3)。**⑦升级**：具体(怎么付款/视频通话)+机制(世界变快年轻人跟得快)。**LAND**：`So really, it depends on…`。
 
 **P3 句型/模板（复用池）**：`Absolutely, I think so` / `whereas` / `comes down to thinking before you speak` · `a bit of a mixed bag, honestly` / `On the plus side … On the other hand` · `Mainly patient …, I'd say` / `stay calm` / `pushy` · `Loads, honestly` / `overthinking it` · `Mainly … I'd say` / `on the same wavelength` / `who they feel comfortable with` · `Mostly with technology, I'd say` / `know best`。
 
