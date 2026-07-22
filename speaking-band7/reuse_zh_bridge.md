@@ -1160,20 +1160,20 @@
 | 1 | 我想聊的那个 计划 是 一趟 去 京都 的 旅行、（我 最近 不得不 改的）。 | The plan I'd like to talk about is a trip to Kyoto I had to change recently. |
 | 2 | 我 家人 和 我 已经 计划 它 好几个月 了——我 老婆 和 我 都 爱 日本。 | My family and I had been planning it for months — my wife and I both love Japan. |
 | 3 | 我们 本来 要 去 逛 那些 老 寺庙、四处 闲逛，就 像 我们 总是 做的。 | We were going to visit the old temples and wander around, like we always do. |
-| 4 | 但 大约 一周 前，我 儿子 得了 一场 重 感冒。 | But about a week before, my son came down with a bad cold. |
-| 5 | 所以 我们 不得不 取消 那 机票、把 整个 旅行 往后 推。 | So we had to cancel the flights and put the whole trip off. |
+| 4 | 但 大约 一周 前，我们 的 航班 突然 被 取消 了。 | But about a week before, our flight was suddenly cancelled. |
+| 5 | 由于 政治 原因，中日 之间 的 航班 这 一年 越来越 少，而且 常常 临时 被 取消。 | Because of political reasons, flights between China and Japan have been getting fewer this year, and they often get cancelled at the last minute. |
 | 6 | 说实话，它 是 一个 真的 遗憾，因为 我们 一直 盼着 它。 | Honestly, it was a real shame, since we'd been looking forward to it. |
-| 7 | 我们 反而 改 了 计划，就 在 附近 做 了 一趟 短 自驾，在 他 好 了 之后。 | Instead, we changed our plan and just did a short road trip nearby, once he got better. |
+| 7 | 我们 反而 改 了 计划，就 在 附近 做 了 一趟 短 自驾。 | Instead, we changed our plan and just did a short road trip nearby. |
 | 8 | 我们 开 进 山 里，在 任何 看起来 不错 的 地方 停，然后 慢慢来。 | We drove into the mountains, stopped wherever looked nice, and took our time. |
 | 9 | 我 学 到 的 是 让 一个 计划 保持 灵活 总是 值得。 | What I learned is that it's always worth keeping a plan flexible. |
 | 10 | 说实话，我 儿子 在 那趟 自驾 上 玩 得 这么 开心，他 几乎 没 再 提 京都。 | Honestly, my son had such a good time on the road trip that he barely mentioned Kyoto. |
-| 11 | 所以 到头来，它 进展 得 不错——我们 会 改天 去 京都。 | So in the end, it worked out fine — we'll get to Kyoto another time. |
+| 11 | 所以 到头来，它 进展 得 不错——等 航班 恢复 正常，我们 会 改天 去 京都。 | So in the end, it worked out fine — we'll get to Kyoto another time, once the flights are back to normal. |
 
 ### ②P2 整段（shadow）
 
-> The plan I'd like to talk about is a trip to Kyoto I had to change recently. My family and I had been planning it for months — my wife and I both love Japan. We were going to visit the old temples and wander around, like we always do. But about a week before, my son came down with a bad cold. So we had to cancel the flights and put the whole trip off. Honestly, it was a real shame, since we'd been looking forward to it. Instead, we changed our plan and just did a short road trip nearby, once he got better. We drove into the mountains, stopped wherever looked nice, and took our time. What I learned is that it's always worth keeping a plan flexible. Honestly, my son had such a good time on the road trip that he barely mentioned Kyoto. So in the end, it worked out fine — we'll get to Kyoto another time.
+> The plan I'd like to talk about is a trip to Kyoto I had to change recently. My family and I had been planning it for months — my wife and I both love Japan. We were going to visit the old temples and wander around, like we always do. But about a week before, our flight was suddenly cancelled. Because of political reasons, flights between China and Japan have been getting fewer this year, and they often get cancelled at the last minute. Honestly, it was a real shame, since we'd been looking forward to it. Instead, we changed our plan and just did a short road trip nearby. We drove into the mountains, stopped wherever looked nice, and took our time. What I learned is that it's always worth keeping a plan flexible. Honestly, my son had such a good time on the road trip that he barely mentioned Kyoto. So in the end, it worked out fine — we'll get to Kyoto another time, once the flights are back to normal.
 
-> 🔁 **复用**：句3 `wander around`(新18)；句6 `looking forward to`(老12)；句7/8 road trip + `stopped wherever looked nice`+`took our time`(老12)；句9 `keeping a plan flexible`(新18-Q4)；句10 `worked out`(新12)。
+> 🔁 **复用**：句3 `wander around`(新18)；句6 `looking forward to`(老12)；句7/8 road trip + `stopped wherever looked nice`+`took our time`(老12)；句9 `keeping a plan flexible`(新18-Q4)；句10 `worked out`(新12)。**改原因**：儿子感冒→航班因政治原因被取消(中日航班减少+临时取消)。
 
 ### 句型/模板（复用池）
 
@@ -1188,39 +1188,42 @@
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 是的，相当 多，我会说。 | Yeah, quite a lot, I'd say. |
-| 2 | 生活 会 插一脚——工作、家庭，那种 东西。 | Life gets in the way — work, family, that kind of thing. |
-| 3 | 而 有些人 死板地 守着 一个 计划，大多数人 就 随遇而安。 | Whereas some people stick rigidly to a plan, most just go with the flow. |
-| 4 | 所以 它 归结到 你 有 多 灵活。 | So it comes down to how flexible you are. |
+| 2 | 生活 总 会 打乱 事情——工作 突然 忙 起来，或 一个 航班 被 取消，那种 东西。 | Life always gets in the way — work suddenly gets busy, or a flight gets cancelled, that kind of thing. |
+| 3 | 我们家 自己 就 因为 一个 航班 被 取消 而 改 过 一次 旅行 计划。 | We changed a trip ourselves once because a flight got cancelled. |
+| 4 | 有些人 死板地 守着 一个 计划，但 大多数人 就 随遇而安。 | Some people stick rigidly to a plan, but most just go with the flow. |
+| 5 | 所以 真的，它 取决于 你 有 多 灵活。 | So really, it depends on how flexible you are. |
 
-> Yeah, quite a lot, I'd say. Life gets in the way — work, family, that kind of thing. Whereas some people stick rigidly to a plan, most just go with the flow. So it comes down to how flexible you are.
+> Yeah, quite a lot, I'd say. Life always gets in the way — work suddenly gets busy, or a flight gets cancelled, that kind of thing. We changed a trip ourselves once because a flight got cancelled. Some people stick rigidly to a plan, but most just go with the flow. So really, it depends on how flexible you are.
 
-> 🔁 **复用**：`quite a lot, I'd say`(老24-Q1)+`that kind of thing`+`whereas`+`comes down to`+`flexible`(新18-Q4)。
+> 🔁 **复用**：`quite a lot, I'd say`(老24-Q1)+`that kind of thing`+`flexible`(新18-Q4)。**⑦升级**：具体(工作忙/有人病了/儿子感冒取消旅行,呼应 P2)。**LAND**：`So really, it depends on…`。
 
 **Q2. Would you tell others if you change your plan?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 绝对，是的。 | Absolutely, yeah. |
-| 2 | 如果 别人 牵涉 进来，只 有 提前 知会 他们 才 公平。 | If other people are involved, it's only fair to give them a heads-up. |
-| 3 | 否则 你 让 他们 一直 等，就 像 当 某人 很久 不 回复。 | Otherwise you leave them waiting, like when someone doesn't reply for ages. |
-| 4 | 所以 我 会 总是 尽早 让 人 知道。 | So I'd always let people know as early as I can. |
+| 2 | 如果 别人 牵涉 进来，只 有 提前 告诉 他们 才 公平。 | If other people are involved, it's only fair to tell them in advance. |
+| 3 | 否则 你 让 他们 一直 等，还 弄乱 他们 自己 的 安排。 | Otherwise you leave them waiting and mess up their own plans. |
+| 4 | 想象 你 现身 赴 一个 已经 取消 的 约——那 会 让人 很 恼火。 | Imagine turning up for a meeting that's already been cancelled — that would be really annoying. |
+| 5 | 所以 我 会 总是 尽早 让 人 知道。 | So I'd always let people know as early as I can. |
 
-> Absolutely, yeah. If other people are involved, it's only fair to give them a heads-up. Otherwise you leave them waiting, like when someone doesn't reply for ages. So I'd always let people know as early as I can.
+> Absolutely, yeah. If other people are involved, it's only fair to tell them in advance. Otherwise you leave them waiting and mess up their own plans. Imagine turning up for a meeting that's already been cancelled — that would be really annoying. So I'd always let people know as early as I can.
 
-> 🔁 **复用**：`Absolutely, yeah`+`doesn't reply for ages`(新23)。
+> 🔁 **复用**：`Absolutely, yeah`。**⑦升级**：机制(弄乱他们安排)+具体画面(现身赴已取消的约)。`give them a heads-up`→`tell them in advance`。**LAND**：直接收(无 comes down to)。
 
 **Q3. Why do you think parents still make plans for their children nowadays?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 因为 他们 想 给 他们 最好的，我会说。 | Mainly because they want the best for them, I'd say. |
-| 2 | 父母 以前 经历过，所以 他们 觉得 他们 最 懂。 | Parents have been there before, so they think they know best. |
-| 3 | 但 你 没法 为 一个 孩子 计划 好 一切，因为 他们 需要 为 自己 学。 | But you can't plan everything for a kid, because they need to learn for themselves. |
-| 4 | 所以 它 归结到 引导 他们，不是 控制 他们。 | So it comes down to guiding them, not controlling them. |
+| 2 | 父母 以前 经历过，所以 他们 觉得 他们 最 懂，还 想 帮 孩子 少 走 弯路。 | Parents have been there before, so they think they know best and want to save their kids from mistakes. |
+| 3 | 但 你 没法 为 一个 孩子 计划 好 一切，因为 他们 也 需要 为 自己 学。 | But you can't plan everything for a kid, because they need to learn for themselves too. |
+| 4 | 管 得 太 死 的 孩子 常常 一 自立 就 挣扎。 | Kids who are controlled too much often struggle once they're on their own. |
+| 5 | 所以 关键 是 引导 他们，不是 控制 他们。 | So the key is guiding them, not controlling them. |
 
-> Mainly because they want the best for them, I'd say. Parents have been there before, so they think they know best. But you can't plan everything for a kid, because they need to learn for themselves. So it comes down to guiding them, not controlling them.
+> Mainly because they want the best for them, I'd say. Parents have been there before, so they think they know best and want to save their kids from mistakes. But you can't plan everything for a kid, because they need to learn for themselves too. Kids who are controlled too much often struggle once they're on their own. So the key is guiding them, not controlling them.
 
-> 🔁 **复用**：`Mainly…I'd say`+`been there before`(新07-Q5)+`for themselves`(新16)+`comes down to`。
+> 🔁 **复用**：`Mainly…I'd say`+`been there before`(新07-Q5)+`for themselves`(新16)。**⑦升级**：机制(想帮孩子少走弯路)+推论(管太死自立时挣扎)。**LAND**：`So the key is…`。
 
 **Q4. How does technology help people make plans?**
 
@@ -1228,38 +1231,41 @@
 |---|---|---|
 | 1 | 一大堆 方式，真的。 | Loads of ways, really. |
 | 2 | 这些天 什么 都 有 一个 app——你 能 在 几秒 内 订 机票、酒店、还 设 提醒。 | These days there's an app for everything — you can book flights, hotels, and set reminders in seconds. |
-| 3 | 除此之外，你 能 在 出发 前 在 网上 找到 所有 答案。 | On top of that, you can find all the answers online before you go. |
-| 4 | 所以 它 把 很多 计划 的 压力 拿掉。 | So it takes a lot of the stress out of planning. |
+| 3 | 除此之外，你 能 在 出发 前 在 网上 找到 所有 答案——地图、评价，全都 有。 | On top of that, you can find all the answers online before you go — maps, reviews, the lot. |
+| 4 | 计划 一趟 旅行 以前 要 好几个 小时；现在 你 半 小时 就 搞定。 | Planning a trip used to take hours; now you can sort it in half an hour. |
+| 5 | 所以 它 把 很多 计划 的 压力 拿掉。 | So it takes a lot of the stress out of planning. |
 
-> Loads of ways, really. These days there's an app for everything — you can book flights, hotels, and set reminders in seconds. On top of that, you can find all the answers online before you go. So it takes a lot of the stress out of planning.
+> Loads of ways, really. These days there's an app for everything — you can book flights, hotels, and set reminders in seconds. On top of that, you can find all the answers online before you go — maps, reviews, the lot. Planning a trip used to take hours; now you can sort it in half an hour. So it takes a lot of the stress out of planning.
 
-> 🔁 **复用**：`Loads of ways, really`+app(老08)+`find all the answers online`(新18-Q3)+`takes … out`(新16)。
+> 🔁 **复用**：`Loads of ways, really`+app(老08)+`find all the answers online`(新18-Q3)+`takes … out`(新16)。**⑦升级**：具体(地图/评价)+对比(以前几小时现在半小时)。**LAND**：直接收。
 
 **Q5. What kind of plans do people often make?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 各种，真的。 | All sorts, really. |
-| 2 | 日常的、像 三餐 和 周末，还有 更大的、像 旅行 或 一份 职业。 | Everyday ones like meals and weekends, and bigger ones like travel or a career. |
-| 3 | 我们家 大多 是 我 老婆 计划，说句公道话——她 真的 很 有条理。 | My wife plans most of ours, to be fair — she's really organised. |
-| 4 | 所以 它 从 小 日常 到 大 人生 决定 都 有。 | So it ranges from small daily stuff to big life decisions. |
+| 2 | 有 日常 小 事，像 三餐 和 周末——那些 你 几乎 不 用 想 的。 | There are everyday little ones, like meals and weekends — the ones you barely think about. |
+| 3 | 然后 有 大的、像 旅行、买 房、或 换 职业。 | Then there are big ones, like travel, buying a house, or changing careers. |
+| 4 | 我们家 大多 是 我 老婆 计划，说句公道话——她 真的 很 有条理。 | My wife plans most of ours, to be fair — she's really organised. |
+| 5 | 所以 它 从 小 日常 到 大 人生 决定 都 有。 | So it ranges from small daily stuff to big life decisions. |
 
-> All sorts, really. Everyday ones like meals and weekends, and bigger ones like travel or a career. My wife plans most of ours, to be fair — she's really organised. So it ranges from small daily stuff to big life decisions.
+> All sorts, really. There are everyday little ones, like meals and weekends — the ones you barely think about. Then there are big ones, like travel, buying a house, or changing careers. My wife plans most of ours, to be fair — she's really organised. So it ranges from small daily stuff to big life decisions.
 
-> 🔁 **复用**：`All sorts, really`+wife+`to be fair`+`big … decision`(新12)。
+> 🔁 **复用**：`All sorts, really`+wife+`to be fair`+`big … decision`(新12)。**⑦升级**：具体分层(日常几乎不用想 vs 大的旅行买房换职业)。**LAND**：直接收。
 
 **Q6. Do you think people like the process of making plans more, or the moment of carrying them out?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 它 有点 好坏参半，说实话。 | It's a bit of a mixed bag, honestly. |
-| 2 | 有些人 爱 那 计划——光是 幻想 它 就是 一半 的 乐趣。 | Some people love the planning — dreaming about it is half the fun. |
-| 3 | 而 另一些 只 想 上手 去 做。 | Whereas others just want to get on and do it. |
-| 4 | 对 我 来说，说实话，执行 它 是 那 最好的 部分。 | For me, honestly, carrying it out is the best part. |
+| 2 | 有些人 爱 那 计划——光是 幻想 它 就是 一半 的 乐趣，比如 挑 地方、做 一张 清单。 | Some people love the planning — dreaming about it is half the fun, like picking places and making a list. |
+| 3 | 而 另一些 觉得 计划 是 苦差事，就 想 上手 去 做。 | Whereas others find planning a chore and just want to get on and do it. |
+| 4 | 对 我 来说，执行 它 是 那 最好的 部分——那 才 是 一切 真正 活 起来 的 时候。 | For me, carrying it out is the best part — that's when it all really comes alive. |
+| 5 | 所以 它 取决于 你 是 哪种 人。 | So it depends on which kind of person you are. |
 
-> It's a bit of a mixed bag, honestly. Some people love the planning — dreaming about it is half the fun. Whereas others just want to get on and do it. For me, honestly, carrying it out is the best part.
+> It's a bit of a mixed bag, honestly. Some people love the planning — dreaming about it is half the fun, like picking places and making a list. Whereas others find planning a chore and just want to get on and do it. For me, carrying it out is the best part — that's when it all really comes alive. So it depends on which kind of person you are.
 
-> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`For me, honestly`。
+> 🔁 **复用**：`a bit of a mixed bag, honestly`(新07-Q3)+`whereas`+`For me`。**⑦升级**：具体(挑地方做清单)+对比(有人觉得计划是苦差事)+画面(执行时一切活起来)。**LAND**：`So it depends on…`。
 
 **P3 句型/模板（复用池）**：`quite a lot, I'd say` / `that kind of thing` / `whereas` / `comes down to how flexible you are` · `Absolutely, yeah` / `doesn't reply for ages` · `been there before` / `for themselves` · `Loads of ways, really` / `find all the answers online` / `takes … out` · `All sorts, really` / `to be fair` · `a bit of a mixed bag, honestly`。
 
