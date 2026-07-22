@@ -1570,25 +1570,27 @@
 |---|---|---|
 | 1 | 几个 原因，真的。 | A few reasons, really. |
 | 2 | 有些人 爱 那 刺激，而 另一些 只是 享受 支持 他们的 队。 | Some love the excitement, whereas others just enjoy supporting their team. |
-| 3 | 除此之外，它 是 一个 跟 哥们儿 一起 混 的 好 方式。 | On top of that, it's a great way to hang out with mates. |
-| 4 | 所以 它 归结到 那 热闹 和 那 陪伴。 | So it comes down to the buzz and the company. |
+| 3 | 除此之外，它 是 一个 跟 哥们儿 一起 混 的 好 方式——你 一起 欢呼、一起 叹气。 | On top of that, it's a great way to hang out with mates — you cheer and groan together. |
+| 4 | 那 全场 一起 的 共同 感受，是 你 独自 得不到 的。 | That shared feeling with a whole crowd is something you don't get on your own. |
+| 5 | 所以 真的，它 是 关于 那 热闹 和 那 陪伴。 | So really, it's about the buzz and the company. |
 
-> A few reasons, really. Some love the excitement, whereas others just enjoy supporting their team. On top of that, it's a great way to hang out with mates. So it comes down to the buzz and the company.
+> A few reasons, really. Some love the excitement, whereas others just enjoy supporting their team. On top of that, it's a great way to hang out with mates — you cheer and groan together. That shared feeling with a whole crowd is something you don't get on your own. So really, it's about the buzz and the company.
 
-> 🔁 **复用**：`A few reasons, really`+`whereas`+`hang out with mates`(老24-Q3)+`the buzz`(老25-Q6)+`comes down to`。
+> 🔁 **复用**：`A few reasons, really`+`whereas`+`hang out with mates`(老24-Q3)+`the buzz`(老25-Q6)。**⑦升级**：具体(一起欢呼叹气)+机制(全场共同感受独自得不到)。**LAND**：`So really, it's about…`。
 
 **Q2. Where do people normally watch sports events?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 大多 在家，我会说。 | Mostly at home, I'd say. |
-| 2 | 它 更 便宜、更 舒服——你 就 在 手机 或 电视上 看。 | It's cheaper and more comfortable — you just watch it on your phone or TV. |
+| 2 | 它 更 便宜、更 舒服——你 就 在 手机 或 电视上 看，穿 着 睡衣、想 停 就 停。 | It's cheaper and more comfortable — you just watch it on your phone or TV, in your pyjamas, and pause whenever you like. |
 | 3 | 而 有些人 去 体育馆 或 一个 酒吧 [为了]那 氛围。 | Whereas some people go to the arena or a bar for the atmosphere. |
-| 4 | 所以 它 归结到 你 想要 便捷 还是 那 真实 体验。 | So it comes down to whether you want convenience or the real experience. |
+| 4 | 大赛 的时候，酒吧 挤 满 了 一起 看 的 粉丝。 | For big matches, the bars are packed with fans watching together. |
+| 5 | 所以 它 归结到 你 想要 便捷 还是 那 真实 体验。 | So it comes down to whether you want convenience or the real experience. |
 
-> Mostly at home, I'd say. It's cheaper and more comfortable — you just watch it on your phone or TV. Whereas some people go to the arena or a bar for the atmosphere. So it comes down to whether you want convenience or the real experience.
+> Mostly at home, I'd say. It's cheaper and more comfortable — you just watch it on your phone or TV, in your pyjamas, and pause whenever you like. Whereas some people go to the arena or a bar for the atmosphere. For big matches, the bars are packed with fans watching together. So it comes down to whether you want convenience or the real experience.
 
-> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`comes down to whether you want convenience or …`。
+> 🔁 **复用**：`Mostly … I'd say`+`whereas`+`comes down to whether you want convenience or …`。**⑦升级**：具体画面(穿睡衣想停就停/大赛酒吧挤满粉丝)。**（本卡唯一保留 comes down to）**
 
 **Q3. What are the advantages of watching sports events online?**
 
@@ -1596,25 +1598,27 @@
 |---|---|---|
 | 1 | 一大堆，说实话。 | Loads, honestly. |
 | 2 | 你 能 从 任何地方、在 任何时候 看，而 它 通常 免费。 | You can watch from anywhere, at any time, and it's usually free. |
-| 3 | 除此之外，你 能 暂停、回放、还 查 数据。 | On top of that, you can pause, rewind, and check the stats. |
-| 4 | 所以 它 真的 很 方便，尤其 如果 你 忙。 | So it's really convenient, especially if you're busy. |
+| 3 | 除此之外，你 能 暂停、回放、还 查 数据——如果 你 错过 一个 进球，你 能 立刻 倒 回去。 | On top of that, you can pause, rewind, and check the stats — if you miss a goal, you can just rewind. |
+| 4 | 你 也 不 用 花 钱 买 票 或 跑 一 整 路 去 场馆。 | You also don't have to pay for a ticket or travel all the way to the stadium. |
+| 5 | 所以 它 真的 很 方便，尤其 如果 你 忙。 | So it's really convenient, especially if you're busy. |
 
-> Loads, honestly. You can watch from anywhere, at any time, and it's usually free. On top of that, you can pause, rewind, and check the stats. So it's really convenient, especially if you're busy.
+> Loads, honestly. You can watch from anywhere, at any time, and it's usually free. On top of that, you can pause, rewind, and check the stats — if you miss a goal, you can just rewind. You also don't have to pay for a ticket or travel all the way to the stadium. So it's really convenient, especially if you're busy.
 
-> 🔁 **复用**：`Loads, honestly`+`from anywhere, at any time`(新07-Q4)+`On top of that`。
+> 🔁 **复用**：`Loads, honestly`+`from anywhere, at any time`(新07-Q4)+`On top of that`。**⑦升级**：具体(错过进球倒回去/不用买票跑场馆)。
 
 **Q4. What sports matches are suitable for children to attend?**
 
 | 句 | 英式中文珠子 | 复用英文 |
 |---|---|---|
 | 1 | 主要 是 那些 有趣、热闹的，我会说。 | Mainly the fun, lively ones, I'd say. |
-| 2 | 像 篮球 或 足球，（那里 有 很多 动作）。 | Things like basketball or football, where there's lots of action. |
-| 3 | 而 长、慢 的 比赛 可能 让 他们 无聊。 | Whereas long, slow games might bore them. |
-| 4 | 所以 它 归结到 保持 它 短 又 刺激。 | So it comes down to keeping it short and exciting. |
+| 2 | 像 篮球 或 足球，（那里 有 很多 动作）——总 有 事 在 发生，抓 住 他们的 注意力。 | Things like basketball or football, where there's lots of action — there's always something happening to hold their attention. |
+| 3 | 而 长、慢 的 比赛 可能 让 他们 无聊，然后 他们 就 坐不住。 | Whereas long, slow games might bore them, and then they get restless. |
+| 4 | 短 一点、快节奏 的 比赛 对 小 孩子 完美。 | Shorter, fast-paced games are perfect for little kids. |
+| 5 | 所以 关键 是 保持 它 短 又 刺激。 | So the key is keeping it short and exciting. |
 
-> Mainly the fun, lively ones, I'd say. Things like basketball or football, where there's lots of action. Whereas long, slow games might bore them. So it comes down to keeping it short and exciting.
+> Mainly the fun, lively ones, I'd say. Things like basketball or football, where there's lots of action — there's always something happening to hold their attention. Whereas long, slow games might bore them, and then they get restless. Shorter, fast-paced games are perfect for little kids. So the key is keeping it short and exciting.
 
-> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`bore them`(新03)+`comes down to`。
+> 🔁 **复用**：`Mainly … I'd say`+`whereas`+`bore them`(新03)+`restless`(新03 P2)。**⑦升级**：机制(总有事发生抓注意力/无聊就坐不住)。**LAND**：`So the key is…`。
 
 **Q5. Why do some people spend a lot going to other countries to watch sports events?**
 
@@ -1622,12 +1626,13 @@
 |---|---|---|
 | 1 | 主要 是 热情，我会说。 | Mainly passion, I'd say. |
 | 2 | 对 一个 真 粉丝，现场 看 他们的 队 是 花得 值的 钱。 | For a real fan, seeing their team live is money well spent. |
-| 3 | 此外，他们 得以 旅行、还 把 它 当 一个 假期。 | Plus, they get to travel and make a holiday of it. |
-| 4 | 所以 他们 不 把 它 看作 一个 浪费——它 是 一个 梦想 成真。 | So they don't see it as a waste — it's a dream come true. |
+| 3 | 有些人 存 好几年 的 钱，就 为了 现场 看 一次 世界杯。 | Some people save up for years just to see one World Cup in person. |
+| 4 | 此外，他们 得以 旅行、还 把 它 当 一个 假期。 | Plus, they get to travel and make a holiday of it. |
+| 5 | 所以 他们 不 把 它 看作 一个 浪费——它 是 一个 梦想 成真。 | So they don't see it as a waste — it's a dream come true. |
 
-> Mainly passion, I'd say. For a real fan, seeing their team live is money well spent. Plus, they get to travel and make a holiday of it. So they don't see it as a waste — it's a dream come true.
+> Mainly passion, I'd say. For a real fan, seeing their team live is money well spent. Some people save up for years just to see one World Cup in person. Plus, they get to travel and make a holiday of it. So they don't see it as a waste — it's a dream come true.
 
-> 🔁 **复用**：`Mainly … I'd say`+`money well spent`+`not … a waste`(老20-Q6 逐字)+`Plus`。
+> 🔁 **复用**：`Mainly … I'd say`+`money well spent`+`not … a waste`(老20-Q6 逐字)+`Plus`。**⑦升级**：具体(存好几年钱就为看一次世界杯)。
 
 **Q6. What sports games are popular in your country?**
 
