@@ -204,6 +204,9 @@
 4. **查来源。** 只判她 cold 原稿。任何经过 Gemini/教练/语法工具修过的文本一律不判 —— 2026-07-12 那次就是把 Gemini 的改后稿当成她的 cold 判了 7 分，结论全错（见 `bank.md` 备注）。判前先问一句"这是你自己写完没动过的原稿吗"。
 5. **平实不扣分。** 只扣错，不扣"简单"。
 6. **发反馈前跑四问自审**（[[feedback_coach_selfreview_before_output]]）：① 我能不能推翻自己这条 ② 这条和上一条矛盾吗 ③ 这是 ❌真错 / ⚠️不地道 / ✅有更好的，哪一层 ④ 假错比漏错代价大。
+7. **🔴 数完必须查表，不许"感觉上不至于这么低"。** 数出 14 个词汇错就是 LR 5.0。**教练两次虚高都是死在这一步。** 如果查表结果让你意外，那说明表是对的、你的印象是错的。
+8. **🔴 AI 判分不算交叉验证。** Gemini / ChatGPT / 各种 checker 和教练是同一类不可靠仪器，两个都判 6.5 不构成印证。**唯一的 ground truth 是真实考试分数**（见 §6.5）。
+9. **🔴 TR/CC 不许因为"她结构好"就默认给 7。** 逐条查硬顶：连接词是不是固定槽位（→CC 6）？论据有没有具体地名/数字/机制（没有 →TR 6）？她的强项是**相对**强，不是绝对达标。
 
 ---
 
@@ -213,13 +216,38 @@
 
 - 拼写错：cruial · maintainance · neccessary · goverments · popution · orderly/oderly(×2) = **7 个**
 - 词义/搭配/中式块：`bring in some benefits` · `On the society side` · `These knowledge` · `more clear` · `the leaving school time of students is usually before 5pm` · `long-term ills` · `the youth workplace` = **7 个**
-- → 词汇错 **14 个** → **LR 6.0**（贴近 5.5 下沿）
-- 语法错：`an ageing population put massive burden`（主谓 + 冠词）· `With ages growing`（悬垂）· `most parents have to overtime`（词类）· `not to worry about high-priced expense`… 全篇约 15 句里干净句 3–4 句 → ~**23%** → **GRA 6.0**
-- TR：两边都覆盖、立场清楚、有 L 句 → **7.0**
-- CC：四段、进展清楚、连接得当 → **7.0**
-- **总分 = (7+7+6+6)/4 = 6.5** ✅ 与 Gemini 独立判分完全一致
+- → 词汇错 **14 个** → 查表 13+ → **LR 5.0**
+  > ⚠️ 本文件初版在这里写了 LR 6.0 —— **数了 14 个却给了 6 分，等于没用自己的表**，因为当时拿 Gemini 的 6.0 当参照。这就是虚高是怎么发生的。
+- 语法错：`an ageing population put massive burden`（主谓+冠词）· `With ages growing`（悬垂）· `most parents have to overtime`（词类）… 约 15 句里干净 3–4 句 → **~23%** → 低于 50% → **GRA 6.0**；但 `the leaving school time of students is usually before 5pm` / `With ages growing` 这类要读者回读 → 触及 Band 5 的 "cause some difficulty for the reader" → **GRA 5.5**
+- TR：两边覆盖、立场清楚、有 L 句，但例子全是泛化的（无具体地名/数字/机制）→ 官方 Band 6 "Main ideas are relevant, but some may be insufficiently developed" → **6.0–6.5**
+- CC：四段、进展清楚，但连接是**固定槽位**（每段末 `Therefore,`、每处举例 `For example`、转折固定 `On the other hand`）→ Liz："mechanical … is a feature of band 6" → **6.0**
+- **总分 = (6+6+5+5.5)/4 = 22.5/4 = 5.625 → 5.5**
 
-**这就是她现在的真实水平：6.5。** 不是 7，不是 7.5。
+✅ **这与她的真实考试分数一致。**
+
+---
+
+## 6.5 🔴 Ground truth：实际考试 Writing = **5.5**
+
+**判分历史（同一批作文，三次判分）**：
+
+| 判分者 | 结论 | 错在哪 |
+|---|---|---|
+| 教练 2026-06 | 7.0–7.5 | 未限时 + 完全没数错误 |
+| Gemini / 教练 2026-08 初版 | 6.5 | 数了错误，但**没按自己的表定档**，且拿 AI 判分当交叉验证 |
+| **实际考试** | **5.5** | ← **唯一的 ground truth** |
+
+**教练同一个方向连错两次，每次差一个整档。** 这不是随机误差，是系统性偏高。三个成因：
+1. **拿 AI 判分当交叉验证** —— Gemini 和教练是同一类不可靠仪器，两个都偏高不构成印证。（研究材料里的原话：AI 判分器"mostly produced the wrong grades"。）
+2. **被 TR/CC 的好印象带跑** —— 她结构确实清楚，于是连带把 LR/GRA 也往上判。
+3. **数完不查表** —— 数出 14 个词汇错，却写 LR 6.0。
+
+**新增的三条防线** → 见 §5 规则 7–9。
+
+**⚠️ 还需要验证的两个假设**（初版判 TR/CC 都是 7.0–7.5，真实考试说明至少有一项更低）：
+- **假设 A：CC 只有 6.0** —— 她的连接词是固定槽位（Therefore / For example / On the other hand 各就各位），这正是官方和 Liz 说的 "mechanical"，硬顶 6。
+- **假设 B：TR 只有 6.0–6.5** —— 她的论据全是泛化陈述，没有具体地名/数字/机制（对照 `anchors.md §8` 的 Band 6/7/8 三档演示，她多数段落落在 Band 6 那一档）。
+→ **下一篇限时 cold 专门验这两条**，别再默认 TR/CC 是 7。
 
 ---
 
