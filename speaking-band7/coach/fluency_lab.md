@@ -284,6 +284,30 @@
 | B74 | **put sth away ＝ 收起来**（收玩具/收衣服）；clean up ＝ 打扫脏东西。呼应块 `kids will do the same` | "孩子玩完把玩具收回去" | 08-05 |
 | B75 | **去掉 `X is important` 的壳**：把 X 里的动作提上来当谓语。`Explaining why … is important` → `Parents should also explain why it matters.` | "跟孩子讲清为什么也很重要" | 08-05 |
 | B114 | **rather than 的三种形式**：①两边是同句的两个谓语动词→必须同形（helps…rather than replaces）②rather than 领独立短语、尤其句首→用 -ing（Rather than taking the bus, I walked）③前面是 to do→后面省 to 用原形（decided to walk rather than take the bus）<br>★ ⚠️ `helps you rather than replacing you` **可接受**（按②），只是平行版更稳 | "它是帮你，不是取代你" / "与其坐公交，我走路" | 08-06 |
+| B180 | **All you need / have to do is ＋ 动词原形**（is 后面省掉了 to）：All you have to do is **ASK**.／All you need to do is **speak and listen**.（不是 is speaking） | "你要做的就是多说多听" | 08-09 |
+| B181 | ⭐ **bury yourself in sth**（埋头钻研，她自产）：`avoid burying yourself in grammar books and word lists` | "别一头扎进语法书和单词表里" | 08-09 |
+| B182 | **说人的目的用不定式 to do**（you learn a language **TO EXPRESS** yourself）；`for ＋ -ing` 是说**物品用途**（a knife for cutting） | "学语言就是为了表达自己、听懂别人" | 08-09 |
+| B177 | **to be HONEST**（形容词；honesty 是名词，to be honesty ❌） | "说实话，我没怎么想过这事" | 08-09 |
+| B178 | **either way**（横竖都一样）＋ **you might as well**（那还不如）＋ **I've never really thought about it**（我没怎么想过）<br>组合例：`It's one day either way, so you might as well smile.` | "开心是一天，不开心也是一天，那还不如笑笑" | 08-09 |
+| B179 | **older people / the elderly** 比 old people 得体（英语说年长者默认用比较级） | "长辈们常说……" | 08-09 |
+| B176 | **说"两类/三类"时，每类要用复数**：`two kinds — the fun ONES and the useful ONES`（每类里不止一个，不是 the fun one） | "就两类，好玩的和有用的" | 08-09 |
+| B173 | **without ＝ with no，不能叠**：`a job WITH NO overtime` ✅／`a job WITHOUT overtime` ✅／`without no overtime` ❌（极性第 4 次，多一个否定） | "我想要一份不加班的工作" | 08-09 |
+| B174 | **"什么样的" ＝ what kind of / what makes…**（不是 which——which 是从确定范围里挑）；**"适合住" ＝ good to live in / a good place to live**（fit living ❌） | "什么样的城市适合住" | 08-09 |
+| B175 | **不定式后置修饰，介词默认留在末尾**（还原成完整句看挂什么介词）：a chair to sit **ON** · a pen to write **WITH** · a topic to talk **ABOUT** · a house to live **IN**。<br>**例外：place / somewhere / anywhere 这类泛指地点词，介词被吸收，可省** —— a good place to live ✅；<br>★ 关键对照：a good **place** to live ✅（不加 in）／ a good **city** to live **IN** ✅（必须加） | "找个地方住" / "成都是个适合住的城市" | 08-09 |
+| B171 | **★★ "动词＋小品词"三词短语必须成组学（她已混三次）**：<br>将就 **make do with** ／ 埋头干 **get on with it** ／ 照顾 **look after** ／ 追求 **be after** ／ 寻找 **look for** ／ 应付得来 **get by** ／ 卡住 **stuck on** vs 被迫接受 **stuck with**。<br>记忆抓手：make do ＝ make it do（让它顶用）· get on ＝ 继续往前走 | 给中文触发词，让她选块：将就／埋头干／照顾／追求／寻找 | 08-09 |
+| B172 | **complain 不及物**：`complaining about it` ✅／`complaining` ✅（整体省掉）／`complaining it` ❌（不能只省 about） | "与其抱怨，他直接就干了"（两种说法） | 08-09 |
+| B163 | **★ 否定辖域陷阱**：`with no overtime and stability` 会被读成 with no [overtime and stability]（意思反了）。<br>解法A（推荐）**换成正面名词**：reasonable hours and job security ／ 解法B 拆成两句 | "我想要一份不加班又稳定的工作" | 08-08 |
+| B164 | **关系词选择判据：把先行词放回从句，看需要什么介词**（you can balance work and life IN this job → in which → **where**）。job／situation／case／point 这类抽象"场所"一律 **where**；口语最省是绕开：`a job THAT LETS YOU balance work and life` | "一份能让你平衡工作和生活的工作" | 08-08 |
+| B165 | **discrimination AGAINST sb**（不是 for）；**age discrimination 不可数不带冠词** | "国内对 35 岁以上的人有年龄歧视" | 08-08 |
+| B166 | **★ 限定 ≠ 定指**（她自己抓到的区别）：限定＝缩小范围；定指＝缩完只剩一个**且听者能确定**。<br>判据：**限定完还剩几个？** 剩很多→a ／ 只剩一个且听者能确定→the（最高级、序数、刚说过的）。<br>**one 回指的是"名词这个类"，冠词要重新选**：one＝a job ／ the one＝the job。<br>★ 杀手锏：**描述一件还不存在的东西时，永远不可能定指** | "我想要一份不加班的工作，还得稳定" | 08-08 |
+| B167 | **★ 优点清单 ＝ 名词短语清单（操作）**：中文用动词/否定，英语用正面名词。<br>不加班→reasonable hours ／ 稳定→job security ／ 下班后的时间→time outside work ／ 靠得住→something you can count on。<br>★ 全用名词 → **没有否定辖域问题，也天然同形** | "什么样的工作/城市/房子好"——各列三条，全名词短语 | 08-08 |
+| B168 | **并列同形＝语法功能相同，不要求词性一样**（动名词是名词性，可与名词并列）。<br>**自测法：把两边分别接回前面那个词，看通不通** —— time for [your hobbies] ✅／time for [being with your kids] ✅ → 同形 | "下班后有时间做点别的，比如爱好，或者就是陪陪孩子" | 08-08 |
+| B169 | **关系代词做宾语可省，做主语不可省**：the book (that) I read ✅可省 ／ the book THAT changed my life ❌不可省。<br>**并列两个定语从句时 that 不能共用**（一个当宾语一个当主语，角色不同）。口语最佳：`subjects we actually use later, or ONES THAT come up everywhere` | "学以后真用得上的、或者到处都会碰到的科目" | 08-08 |
+| B170 | **clear ≠ clean**：clear＝清澈/无遮挡（a clear sky）· clean＝干净无污染（clean air） | "空气干净" / "天很晴" | 08-08 |
+| B162 | **look after / be after / look for 三个形近词组，意思完全不同**：look after sb＝照顾 · **be after sth＝追求想要**（They're after a bit of peace and quiet）· look for sth＝寻找。<br>另：**peace and quiet** 是固定搭配（说"清静"用它，不用 inner peace）；**light sleeper**（睡眠浅） | "老年人就想图个清静" / "他睡觉很浅" | 08-08 |
+| B161 | **★ 肯定句限制词族（三个共享一条规则）**：**much / for long / far 只用于否定句和疑问句**；肯定句一律换成 **a lot of ／ a long time ／ a long way**。<br>✅ I don't have much time／Do you have much time?　❌ I have much time.<br>例外：so much／too much／how much 在肯定句里合法 | "我在化学上花了很多时间" / "我等了很久" / "我走了很远" | 08-08 |
+| B159 | **actually 的位置**：修饰整句时＝**be 动词后／实义动词前**（It's actually cheap／I actually forgot）；**嵌入从句里卡在主语和动词之间**（how tall a T-rex **actually was**） | "他终于看到霸王龙到底有多高" | 08-08 |
+| B160 | **★ 差异题的解法（操作）**：不是找相似点，是**找一根共同的尺子，说两边各在哪一端**。<br>万能尺子：主动 vs 被动 · 一个人 vs 一群人 · 快 vs 慢 · 花钱多少 · 靠想象 vs 靠感官 · 深 vs 广 · 当时 vs 之后。<br>**比较觉得空 → 加一个使用场景**（"为了什么去选"），可以自己加进答案里，是加分不是绕开 | 任给一道 "What are the differences between A and B?" | 08-08 |
 | B157 | **-ed / -ing 形容词**：**说人的感受用 -ed，说东西的性质用 -ing/-y**。I'm scared ／ It's scary · I'm bored ／ It's boring · I'm interested ／ It's interesting · I'm excited ／ It's exciting | "这有点吓人" / "我有点怕" / "这课真无聊" | 08-08 |
 | B158 | **口语选词**：complicated（不用 complex，偏技术学术）· takeaway（英）/ takeout（美，不可数） | "有些 app 对老人太复杂了" / "点个外卖" | 08-08 |
 | B155 | **and 接第二个谓语时，否定必须带助动词**：`Someone runs a red light and DOESN'T GET fined`（不是 and not get）。原形否定 not do 只用于 `to not do` 或祈使句 | "有人闯红灯还不用罚款" | 08-08 |
@@ -365,6 +389,42 @@
 | B81 | ⭐ **it mainly comes down to …**（说到底就是……）—— 她自发产出，教练没给过 | "说到底就是钱的问题" | 08-05 |
 | B77 | **比较级只标一次**：more easier ❌ ／ more better ❌。要么 `more + 原级`（more convenient），要么 `-er`（easier）。<br>★ 连带操作：**换完一个词要把整句重扫一遍**——她的 more easier 是把新词塞进旧框、没删旧零件 | "这样下次更好找" | 08-05 |
 | B76 | **organized（说人）＝ 有条理会安排**，不是守规矩（那是 well-behaved）。画面：knows where everything is ／ packs his bag the night before ／ starts homework before the last day；反面 messy ／ all over the place ／ leaves everything to the last minute | "这孩子挺有条理的" / "他东西乱七八糟" | 08-05 |
+
+---
+
+## 📊 复习计分：只有一条事实流，状态现算（她 2026-08-09 定）
+
+> **她的原话（两次）**：
+> ① `每一个复习点额外记录一个数字连续错的次数，用错次数，连续对的次数，以及最后复习时间…每次都要记录上，如果连续对了 3 次就暂时不再复习。历史数据为空就都是 0`
+> ② `你看这种表，我担心两边状态不一致，不要单独建表，就记录在 log 中，这种只有一张事实表，每天复习的学习的都是 append`
+>
+> **⇒ 最终设计（她 ② 否掉了教练 ① 的独立状态表，理由成立：独立状态表＝第二份事实，迟早对不上）**：
+> ```
+> 只写【事件】，不存【状态】。每天复习完，在当天日志段落末尾 append 一行：
+>     📊 YYYY-MM-DD ✅ … ◎ … △ … ❌ … 🆕 …
+> 连对 / 连错 / 累错 / 最后复习 —— 全部【从这些行倒着数出来】，不单独记
+> 历史归 0：2026-08-09 之前的记录不回填，从这天起算
+> ```
+>
+> **★ 五类标记（她 08-09 追加，原话："一字没改 / 没到考点(这个你注意下次得出的题方式) /
+> 有更好的表达方式(下次出题可以提示下) / 错了 / 新的问题。这些在记录 log 的时候注意区别标识，
+> 目前只有一字未改 3 次才暂时不复习"）**：
+> ```
+> ✅  一字未改        ← 【只有这一类计入毕业】，连续 3 次 → 🎓，出题跳过
+> ◎   没到考点        她的句子对，但没测到那个点
+>                    ⇒ **教练的题面有问题，下次必须改题面把考点逼出来**
+> △   有更好的表达    她的成立，但有更地道的
+>                    ⇒ **下次出这条时要提示"这题要更地道的版本"**
+> ❌  错了            ← 连续 ✅ 断
+> 🆕  新问题          本轮冒出来的新点，建号入池，从 0 算起
+> 📖  给了范例才会    她要求教练先写一版，她再复现（她 08-09 追加：「这种你先给 case 我再说的，
+>                    也加这个标记吧，也属于我不会的」）
+>                    ⇒ **不计毕业**；这条**下次必须先 cold 测**，不给范例
+>                    ⇒ 一条长期停在 📖 ＝ 根本没装上，只是每次照着念
+> ★ 同一天同一条先对后错 → 以【最后一次】为准
+> ★ ◎ △ 📖 都不计入毕业，但也不算错；它们各自触发教练侧的动作
+> ```
+> **查状态的方法**：`grep "^📊" fluency_lab.md`，倒着看。
 
 ### C 档 · 已知但暂缓（结构稳了再收）
 | # | 点 | 备注 |
@@ -3538,6 +3598,438 @@ which part ✅ · come to your city ✅ · only…that ✅ · that simple/that h
 - Diff（6 处）：takeouts→takeaway ⚠️／the companies→companies ⚠️／scared→scary ❌／
   someone doesn't→some people don't ❌／complex→complicated ⚠️／online payment→paying online ⚠️。
 
+### 脚本抽题 14 · `What are the differences between reading a book and visiting a museum?`（question_bank.md:879）
+
+- **★★★ 她提出的真障碍不是语言，是心理抵抗**：`我的问题在于我内心在抵抗这种比较，感觉毫无意义`
+- **教练的回应（两条，她接受）**：
+```
+① 承认她对：抽象地比"读书"和"逛博物馆"确实空洞，约等于问"苹果和椅子有什么区别"。
+   **P3 的题面很多时候只是给她一个说话的支架**，考官不评判观点深浅，只看能不能有条理说 40 秒。
+   知道这一点本身能省掉一大块内耗。
+② 解药＝**给比较加一个使用场景**（"为了什么去选"），比较立刻变实 ★ B160
+   空    读书和逛博物馆有什么区别？
+   有意义 想让孩子了解恐龙，买本书还是带他去博物馆？／只有两小时空闲，读书还是逛展？
+   ★ 而且这个场景**可以自己加进答案里**，不是绕开题目，是把题目答具体 → 加分
+③ 差异题的解法 ＝ **找一根共同的尺子，说两边各在哪一端**（不是找相似点）
+   万能尺子：主动 vs 被动 · 一个人 vs 一群人 · 快 vs 慢 · 花钱多少 ·
+             靠想象 vs 靠感官 · 深 vs 广 · 当时 vs 之后
+   ★ **她的中文里已经在用这根尺子了**（读书靠自己想象 / 博物馆直接给感官），
+     她以为在硬扯，其实做的正是标准解法
+```
+- **★★ 连续第二次"她觉得别扭的地方恰恰是答案"**（08-07 在家吃 vs 下馆子的"矛盾"／今天差异题的"没意义"）
+  ⇒ **她的不适感是可靠的信号源**，不该压下去，该拿来当起手。
+- 她要求教练先写一版学习 → 教练给了**标注"说明机制"的版本 ＋ 七个决定**（内容一句没加，全来自她的中文）。
+
+- **她自己重说（逐字）**：`It's a bit of a strange comparison. they are doing completely different things. one leaves room for your imagination. the other puts you there. Say children learn about dinosaurs. a book and a museum both work. with a book, all you get is words, so you picture it yourself. everyone pictures it differently, and that's the good part - it's your own version. at a museum, it's all right in front of you. kids go to a dinosaur museum and they can finally see how tall a t-rex was actually(这里放在前面还是后面). you feel like you are actually there. So they give you completely different things.`
+
+- **★★★ 她改了教练的结构，而且改对了**：
+```
+教练版  抵抗 → 场景 → 两端 → 结尾才说破尺子
+她的版  抵抗 → **立刻说破尺子** → 场景 → 两端
+★ 她把结论提到第二句 ＝ **答案前置**，正是 08-03 她自己纠正教练的那条"头重脚轻"
+  现在她自己在执行了
+```
+- **★★ `the other puts you there` 是她自产的、比教练版更好的表达**（教练写的是 `the other doesn't need any`，否定式且只说它不需要什么；她的三个词正面说出它干了什么，还是画面）→ 进表达库 ⭐
+```
+⚠️ `Say children learn about dinosaurs` 略秃 → `Say you want your kids to learn about dinosaurs`
+   （Say 后面需要一个"想要/需要"的动机）
+❌ `how tall a t-rex WAS ACTUALLY` → **actually WAS** ★ B159
+   actually 修饰整句时位置＝be 动词后／实义动词前；但**嵌入从句语序变陈述**
+   → 卡在主语和动词之间：`how tall a T-rex actually was`
+⚠️ 结尾 `So they give you completely different things` 与第 2 句重复 → **删掉**，
+   停在画面 `You feel like you're actually there.` 收得更干净；要收尾就换角度
+   `So it really depends on what you want out of it.`
+```
+- Diff（3 处，其余全是她的原句）：Say children learn→Say you want your kids to learn ⚠️／
+  was actually→actually was ❌／删掉重复的结尾 ⚠️。
+
+### 脚本抽题 15 · `Do you think there are too many subjects for students to learn?`（question_bank.md:989）
+
+- 她先给中文（立场→个人硬料→建议）。教练判：**硬料很强**（"学了两年生物化学、大学再没碰过、现在全忘了"），
+  比任何抽象论证有力。给三个真缺口：`it never came up again`／`subjects you actually use later`／`I've forgotten all of it`；
+  另用**具体事实提问**逼她拆"适当的学"（砍掉几科？还是每科都学但别学那么深？）——她选了前一条路线，合理简化。
+- **她的英文（逐字）**：`a bit, especially in Chinese high school. I remember I spent much time on chemistry and biology. but in college. They never came up again. To be honest, I'v forgotten all of it now. I think the curriculum should focus on subjects we actually use later or come up everywhere, like math.`
+- **成绩：三句零改动，两处真错**
+```
+✅ `They never came up again` —— 刚给就装上
+✅ `I've forgotten all of it` —— 完成时用对（结果还在 → 完成时，B147 判据）
+✅ `To be honest` 好的口语插入语 ／ 结构干净：立场 → 硬料 → 建议
+```
+- **★★ 第 2 句挖出一个词族（B161）：肯定句限制**
+```
+much     ❌ I have much time.   ✅ a lot of time     ✅ I don't have much time / Do you have much time?
+for long ❌ I waited for long.  ✅ a long time       ✅ I won't be long / Have you been waiting long?
+far      ❌ I walked far.       ✅ a long way        ✅ It isn't far / Is it far?
+★ 三个词共享同一条限制：**只用于否定句和疑问句**；肯定句一律换成 a lot of / a long time / a long way
+★ 例外：so much / too much / how much 在肯定句里合法
+★ 她 08-07 已在 `for long can make children overweight` 犯过一次 → 同一族第 2 次
+```
+```
+❌ 第 5 句并列两边不同形：`subjects [we actually use later] or [come up everywhere]`
+   后半截主语应是 subjects，被前半截的 we 挡住 →
+   `subjects we actually use later, or ONES THAT come up everywhere`（更口语）
+   ／`subjects THAT we actually use later or THAT come up everywhere`
+```
+- Diff（2 处）：much time→a lot of time ❌／or come up everywhere→or ones that come up everywhere ❌。
+  **其余全是她的原句。**
+
+### 脚本抽题 16 · `Why do old people prefer to live in quiet places?`（question_bank.md:1186）
+
+- **★★ 她的观察**：`其实内容我能说，但是语言跟不上。在口语中很难受`
+- **教练回应（机制，不安慰）**：
+```
+① 这是真实 gap，但有个机制她该知道：**中文产出速度是英文的十几倍**，
+   只要英文没到自动化，**主观上永远是"跟不上"——这个难受感不会因为进步而消失**。
+   ⇒ 别拿这个感觉当进度表。看数据：今天已多次出现"英文完整表达了中文内容、只有 1–2 处 diff"
+     （subjects 那题三句零改动）。**差距在缩小，感觉滞后于实际。**
+② **真解药不是提高翻译速度**（慢），**是减少现场要生成的内容**（快）。
+   她现在难受是因为同时做两件事：一边生成内容一边翻译；内容现成了，带宽全给翻译。
+   ⇒ 指向 offline 备内容（硬料六类）。
+```
+- 教练指出她中文里**三处能直接调用已学的东西**：睡觉容易被干扰→**light sleepers**（压缩）／
+  安静是必需品→**quiet is a must**（B51）／经历过太多→**they've been through a lot**（完成时判据）；
+  另给三个真缺口：`peace and quiet`（固定搭配，不用 inner peace）／`somewhere away from all the noise`／
+  `look back on their lives`＋`think things over`。
+
+- **她的英文（逐字）**：`it is mainly because older people are more likely to look after peace and quiet. They have been through a lot, so they want to live somewhere away from all the noise, to look back on their life and think things over. Plus, the elderly tend to be light sleepers, so quite is a must for them`
+
+- **★★★ 压缩操作在真题里做成了（昨天卡的正是这一步）**：
+```
+昨天  22/23 她想到 packed 却"组不进句子" → 教练给了两个出口（A 做表语／B 做定语）
+今天  `the elderly tend to BE light sleepers` ✅ **走出口 A，一次装进句子**
+```
+- 刚给的块全装上：peace and quiet ✅ · have been through a lot ✅（完成时） ·
+  somewhere away from all the noise ✅ · quiet is a must ✅ ·
+  并列 `look back on their lives and think things over` 两边同形 ✅
+```
+❌ `look AFTER peace and quiet` —— 三个形近词组混了 ★ B162
+   look after sb/sth ＝照顾 ／ **be after sth ＝追求、想要**（They're after a bit of peace and quiet）
+   ／ look for sth ＝寻找。最省的说法其实是 `want peace and quiet`
+❌ `quite` → **quiet** ★ **形近词第 5 次，且 quiet 这个词第 2 次混**
+   （累计：quality/quiet · quite/quiet ×2 · ready/really · working/walking · Setting/Sitting · They/The）
+⚠️ `their life` → their lives（主语 they 复数）
+⚠️ `…all the noise, TO look back on` 连着两个 to 读着绕 → `where they can look back on`
+```
+- Diff（4 处）：look after→want ❌／to look back on→where they can look back on ⚠️／
+  their life→their lives ⚠️／quite→quiet ❌。**第 3 句除 quiet 一个字母外零改动。**
+
+### 脚本抽题 17 · `What kind of job can be called a 'dream job'?`（question_bank.md:778）
+
+- **她的原话（逐字）**：`it's definitely the one with no overtime and stability(这里并列又卡，硬憋了一个，不知不道对不对). After work, you have enough time to do something else, like hobbies or childcare. As for stability, there is an age discrimination in China for someone like me over 35. It's hard for them to find jobs, and they are constantly dealing with layoffs. So the job with which (这个引导词我不确定) you can balance the work and life (这里我想把稳定并列进去，但是卡语言) is really perfect.`
+- **★★ 她三个自我标注全部命中真问题（第 29·30·31 次）**：
+```
+① 并列卡住 → **否定辖域陷阱**（真诊断）★ B163
+   `with no overtime and stability` 会被读成 with no [overtime and stability]（既没加班也没稳定）
+   解法A（推荐）**换成正面名词**：reasonable hours and job security → 辖域问题自动消失
+   解法B 拆成两句，不硬并
+② `with which` 不确定 → **确实错**。判据：**把先行词放回从句看需要什么介词**
+   （you can balance work and life IN this job → in which → **where**）★ B164
+   job/situation/case/point 这类抽象"场所"一律 where；口语最省是绕开：`a job THAT LETS YOU balance…`
+③ 想把"稳定"并列进最后一句但卡 → 需要**撑开的框架**：
+   `both A and B`（a job that gives you both — time outside work, and something you can count on）
+   ／`not just A, but B too`
+```
+```
+❌ `AN age discrimination` → age discrimination（不可数不带冠词）
+❌ `discrimination FOR someone` → **discrimination AGAINST** ★ B165
+⚠️ `childcare`（托育服务，政策词）→ spending time with your kids
+⚠️ `constantly dealing with layoffs`（应付已发生的裁员）→ always worried about being laid off
+⚠️ 人称漂移：someone like ME → It's hard for THEM → 统一成 for us
+```
+- 给两个完整版：A 贴她的结构（Diff 6 处）／B 用正面名词并列＋both A and B 撑开框架＋`that's the dream` 收尾。
+
+#### ★★★ 她三个追问 → 挖出三条通用规则
+
+**Q1 `a job` 能不能换 the？后面 `one` 要不要加 the？**
+```
+她的反驳：`就是感觉这个 job 已经被限定了呀` —— 抓到了真区别：**限定 ≠ 定指** ★ B166
+  限定＝缩小范围（with no overtime 确实缩小了）
+  定指＝缩完之后**只剩一个且听者能确定**
+  不加班的工作有一大堆，听者指不出来 → 还是 a
+  判据：**限定完还剩几个？** 剩很多→a ／ 只剩一个且听者能确定→the
+  对照：a man who lives next door ／ the man who lives next door
+       a book that changed my life ／ the book that changed my life
+       a job with no overtime ／ **the job with the highest pay**（最高级唯一→the）
+  ★ 中文"的"字结构（不加班的工作）限定与定指同形，全靠语境；英语强制先选 —— 与"理解侧冗余"同族
+
+她再追问 `one 不是指代前面的吗，为啥不加 the`：
+  **one 回指的是【名词 job 这个类】，不是某一份具体工作**；one 只替换名词，**冠词要重新选**
+  one ＝ a job ／ the one ＝ the job
+  ★ 杀手锏一句：**她描述的是一份还不存在的工作，不存在的东西不可能"双方都知道是哪一个"**
+  对照：I'm looking for a flat near the metro. And ONE with a balcony.（还在说要什么样的）
+       I looked at three flats. THE ONE with a balcony was the best.（三套里那一套）
+  附：`a one` 不说；bare one 本身就带不定义（Do you have one? ／ the one I lent you）
+```
+
+**Q2 `reasonable hours / job security / time outside work / count on` 这类简单词组用不出来 —— 挖出通用解法 ★ B167**
+```
+共同点：**她的中文是动词短语或否定，英语是正面名词**
+  不用加班 动词否定 → reasonable hours   ／ 工作稳定 形容词 → job security
+  下班后的时间 状语 → time outside work  ／ 靠得住 动词 → something you can count on
+⇒ **操作：列"优点/条件"时，先把每条压成一个名词短语，再串起来**
+  好工作 good pay·reasonable hours·job security·nice colleagues·a short commute
+  好城市 cheap rent·good public transport·clean air·plenty of parks
+  好房子 plenty of light·a decent kitchen·a quiet street
+★ 这一招同时解决另外两个麻烦：**全是名词 → 没有否定辖域问题，也天然同形**
+```
+- **Drill（列三类清单）她的原话**：`good pay, reasonable hours, nice colleagues. convenient transport, clear air, plenty of job opportunities. cheap rent, a friendly neighborhood, a big living room.`
+  **★ 9/9 全是名词短语，一个都没滑回动词或否定 —— 这个操作一次上手。**
+  唯一错：`clear air` → **clean air** ★ **形近词第 6 次**（clear/clean；累计 quality/quiet · quite/quiet×2 · ready/really · working/walking · Setting/Sitting · They/The）
+
+**Q3 `your hobbies, or just being with your kids` 不同形吗？**
+```
+**算同形。并列同形要求的是【语法功能相同】，不是词性完全一样**（动名词本来就是名词性）★ B168
+自测法（她能自己跑）：**把两边分别接回前面那个词，看通不通**
+  ✅ time for [your hobbies] 通 ／ time for [being with your kids] 通 → 同形
+  ❌ subjects [we actually use later] 通 ／ subjects [come up everywhere] 不通 → 不同形
+```
+- **她追问"加一个 that 就行吗，为啥要两个"** → 因为**两个从句里 that 的身份不同，一个顶不了两个角色** ★ B169
+```
+subjects THAT we actually use later   that ＝ use 的【宾语】
+subjects THAT come up everywhere      that ＝ come up 的【主语】
+⇒ 由此引出通用规则：**关系代词做宾语可省，做主语不可省**
+   the book (that) I read ✅可省 ／ the book THAT changed my life ❌不可省
+⇒ 正好解释她原句为何一半对一半错：
+   `subjects we actually use later` ✅ 省了没事（宾语）／`subjects come up everywhere` ❌ 省不得（主语）
+口语最佳写法：`subjects we actually use later, or ONES THAT come up everywhere`（用 ones 重起名词，
+比堆两个 that 好听）
+```
+
+### 📌 2026-08-08 收尾
+
+- 她的话：`感觉要学的太多，今天就先这样吧`
+- **教练回应（机制，不安慰）**：**清单长 ≠ 要学的多**。今天新增 ~28 条，但归到根上只有 8 个：
+```
+①冠词/定指 ②并列同形 ③论元完整 ④局部修正残留 ⑤形近词 ⑥极性 ⑦名词壳/压缩（一体两面）⑧时态触发
+★ 清单之所以长，是因为**同一个根在不同词上反复冒头，每次冒头都记了一条**
+★ 而今天有 4 个根出现了"装上"的证据：
+   压缩（真题里自主做到 light sleepers）· 人称一致（B78 主攻项，同题自我修复）·
+   完成时触发（8/8）· 名词短语清单（9/9 一次上手）
+```
+- **下一步**：08-09 ＝ 周期第 5 天（学习日，复习 D-1=08-08 ＋ D-3=08-06）；
+  **08-10 ＝ 第一个专门复习日**（不学新的：过去 5 天全部逐条 ＋ 更早抽查 ＋ **题目重答**）。
+  题目重答的范围＝ 08-05~08-09 用脚本抽过的全部真题（见 `coach/asked.log`）。
+
+- 她收工前追问 `极性是什么` → 教练补定义：**极性＝一句话到底是"是"还是"不是"**。三次错方向都不同
+  （该有没有／多一个／丢一个）。机制：**中文的否定长在动词里面**（显不出来·做不到·没人做·用不来），
+  不是独立零件；**英语的否定必须是独立标记且只能出现一次** → 她搭骨架时那个嵌在中文动词里的否定会掉，
+  或者"没人"和"不到"各映射一次就多出来。两条检查：①中文出现 不/没/别/无 → 英文必须有**一个**否定标记
+  ②nobody/nothing/never/no one 已含否定 → 后面动词一律肯定。
+
+---
+
+## 📅 2026-08-09 · 学习日（周期第 5 天，明天＝第一个专门复习日）· D-1(08-08) ＋ D-3(08-06)
+
+### D-1 第 1 组（1–10）
+
+- **她的原话（逐字）**：`rather than complaining about it(这里 about it能省略么), he made do with it. some people just enjoy spending money. i added a new friend in an online pet group. there is promotion on the product page. what did you eat yesterday. I don't know what you ate yesterday. i've been living here for ten years. i left the company three years ago. the thing has not been made. the subway is packed. the traffic is heavy. the feature will be going on(其实有点忘了) next month. i have been working at the company for five years.`
+- **成绩 全对 6（2·3·5·6·8·10）／ 错 3 ／ 漏 1**
+
+- **★★ 昨天错的四条今天全修好**：
+```
+`I've been WORK` → I've been workING ✅   ｜ `what you ate` → what did you eat ✅ ＋嵌入版也对 ✅✅
+`this thing HAVE been made` → has NOT been made ✅（**极性和主谓一起修好**）｜ `a online` → an online ✅
+第 8 题两句都走出口 A（做表语）→ 压缩操作稳了
+```
+
+- **★★★ 第三次「块混淆」（新的稳定失败模式）★ B171**
+```
+❌ `he MADE DO WITH it` → **got on with it**
+   get on with it ＝别废话接着干（这题要的）／ make do with it ＝凑合着用（昨天学的"将就"）
+累计三次，共同点全是**"动词＋小品词"的三词短语，形近、意思完全不搭**：
+   ① stuck with / stuck on            配错场景
+   ② look after / be after / look for  配错块
+   ③ get on with it / make do with it  配错块
+⇒ **她记住了"有这么个块"，但没绑定"哪个块配哪个意思"**
+⇒ 处方：这类块**必须成组学 ＋ 配中文触发词**，不能单个记：
+   将就 make do with ／ 埋头干 get on with it ／ 照顾 look after ／
+   追求 be after ／ 寻找 look for ／ 应付得来 get by
+   记忆抓手：**make do ＝ make it do（让它顶用）** ／ **get on ＝ 继续往前走**
+```
+- **她的提问：about it 能省吗** → **能，但要整体省，不能只省 about** ★ B172
+  ✅ `Rather than complaining, he just got on with it.`／✅ `…complaining about it…`／❌ `complaining it`
+```
+❌ `there is PROMOTION` → **there's A promotion** ★ 昨天错的是词形（promoting），
+   今天词形对了冠词掉了 —— **修一处坏一处，第 8 次**
+❌ `the feature will BE GOING ON next month`（她自述忘了，按规矩直接给）→ **go live**（最常用）／
+   be released ／ be coming out。★ `be going on` ＝正在发生（What's going on?），又一个 on 短语混淆
+⚠️ 第 7 题漏"早就" → `hasn't been made FOR AGES / FOR YEARS`（"早就"是这句的关键信息）
+⚠️ `the company` → that company（题目是"那家公司"）
+```
+- Diff（5 处）：made do with it→got on with it ❌／there is promotion→there's a promotion ❌／
+  the company→that company ⚠️／has not been made→hasn't been made for ages ⚠️／
+  will be going on→will go live ❌。**2·3·5·8·10 零改动。**
+
+### D-1 第 2 组（11–20）· **8/10 全对**
+
+- **她的原话（逐字）**：`he put things on the table last night. kids put their toys away after playing with them. his things were all over the floor. he left things all over the the floor. some people run a red light without getting fined. shopping online is convenient for working people. traffic management mainly comes down to two things. it's a bit scarey. i'm a bit scared. some apps are too complicated for the elderly. i ordered takeaway. he finally saw how tall a T-rex actually was. I spent lots of time on chemistry. I have waited for ages. I walked far away. older people are after quite and peace. he is a light sleeper.`
+
+- **★★ 两件值得点名**：
+```
+① `be after` 用对了 —— **昨天她写的是 look after peace and quiet（块混淆），今天直接调出 are after** ✅
+   ⇒ 三次块混淆里修好了一个
+② `without getting fined` **比教练给的版本好**（教练教的是 and doesn't get fined）
+   她用 without ＋ -ing **直接绕开了"and 后面否定要助动词"这个麻烦** —— 更短更稳
+```
+- 其余装上：two things（昨天写 the things）· takeaway · complicated · actually was 位置 ·
+  lots of time · put things（原形＝过去式）· put their toys away ＋ -ing 省主语 · scary/scared 区分 ·
+  his things were all over the floor（东西当主语用 be）
+```
+❌ 19 `I walked FAR AWAY` → **a long way**（far away 表位置"在远处/走远了"，不表距离）
+   ★ B161 那一族三个词她中了两个（much ✅ ／ for long 用完成时绕过 ／ **far ❌**）
+❌ 20 `quite and peace` → **peace and quiet**，两个问题叠在一起：
+   ① **quiet 第 3 次写错**（08-07 the QUALITY of the countryside ／ 08-08 QUITE is a must ／
+     08-09 QUITE and peace）——★ **三次顶替它的词都不一样**，这个词要单独焊
+   ② **词序反了**：peace and quiet 是固定词序，不能倒
+   ⇒ 处方：**整块滚 `peace and quiet`，三个词一起走，别拆**
+⚠️ 13 `he left things` → he left HIS things
+```
+- Diff（3 处）：he left things→he left his things ⚠️／I walked far away→I walked a long way ❌／
+  quite and peace→peace and quiet ❌。**八题零改动。**
+
+### D-1 第 3 组（21–28）
+
+- **她的原话（逐字）**：`i want a job without no overtime, and one that is stable. i want a job with reasonable hours and (稳定工作名词块我忘了). that is a job where you can balance work and life. There is age discrimination in China against people over 35. I bought a cheap second-hand phone. which (什么样我不知道怎么说) city does fit living(适合也不知道). there is enough time for other things, like your hobbies or spending time with kids. you should learn subjects that you can use later, or ones that come up everywhere. clean air. today is clear.`
+- **成绩 全对 6（22·23·24·26·27·28）／ 错 2**
+```
+✅ `one that is stable` —— **昨天那场 a/the/one 的讨论生效了**（B166）
+✅ where（B164）· against（B165）· 形容词顺序（B143）· ones that（B169）· clean/clear（B170）
+✅ 她**记得有两个解法**（正面名词并列 ／ 拆两句），只是第二个的词忘了
+```
+```
+❌ 21 `a job WITHOUT NO overtime` —— **without ＝ with no，叠了两层否定** ★ B173
+   ★ **极性第 4 次**，与 `nobody else can't do it` 同一个动作：中文"没有加班"的"没"映射了两次
+   ✅ with no overtime ／ ✅ without overtime ／ ❌ without no overtime
+   忘了的词组：**job security**
+❌ 25 整句崩：`which city does fit living`
+   "什么样的" ＝ **what kind of / what makes…**（不是 which——which 是从确定范围挑，B61 学过）
+   "适合住" ＝ **good to live in / a good place to live**（fit living ❌）★ B174
+   ★ 而且**这题真正的任务是列三条名词短语**，她卡在题干翻译上就没往下走
+   ⇒ 给她的规矩：**题干卡住就跳过题干，直接答内容**
+⚠️ 22 只给了一种说法，第二种是绕开关系词：`a job THAT LETS YOU balance work and life`
+⚠️ `with kids` → with YOUR kids（与前面 your hobbies 一致）；`today is clear` → It's clear today 更口语
+```
+- **她追问 `a good place to live` 为什么不加 in** → 引出 ★ B175：
+```
+默认：**不定式后置修饰，介词留在末尾**（还原成完整句看挂什么介词）
+  a chair to sit ON · a pen to write WITH · a topic to talk ABOUT · a house to live IN
+例外：**place / somewhere / anywhere 这类泛指地点词，介词被吸收可省**
+★ 关键对照：a good **place** to live ✅（不加 in）／ a good **city** to live **IN** ✅（必须加）
+```
+- Diff（6 处）：without no→with no ❌／[空]→job security ❌／补第二种说法 ⚠️／
+  which city does fit living→What makes a city a good place to live ❌／with kids→with your kids ⚠️／
+  today is clear→It's clear today ⚠️。**23·24·27 零改动。**
+
+### D-3（08-06）第 1 组（1–10）· **9/10 全对，今天最好的一批**
+
+- **她的原话（逐字）**：`no cars can move, forward or back. if there is something wrong with the design, you get stuck every time you use the road. He passed the exam by studying every night. walking to work can save you lots of money. i got stuck for 40 minutes in the morning rush hour. his things are all over the floor. i drive past that school every day. you can get a refund within 7 days, no questions asked. i take my son out on weekends. he cleaned the table after dinner.`
+- **★★ 三个之前错过的今天全修好**：
+```
+`save YOU lots of money`      昨天漏了间接宾语 → 今天补上 ✅
+`IN the morning rush hour`    前天写的 on      → 今天改对 ✅
+`no questions asked`          之前从没产出过    → 今天出来了 ✅
+```
+- ❌ 唯一一处：`he CLEANED the table` → **CLEARED**（餐后收拾＝clear；clean＝擦桌子）。
+  ★ 08-08 她写对过（cleared），今天回潮。
+
+### D-3（08-06）第 2 组（11–20）
+
+- **她的原话（逐字）**：`my family spends (这里可以用单数么) a whole day cooking at Chinese new year. sitting in front of screens makes children overweight. children will lose interest in their schoolwork. parents should balance kid's screen time and outdoor activities. it shouldn't too far away(有点忘了), though. an hour a day is pretty ok. for children who are really into taking photos, Photoshop is their favorite. Games are so addicted that some kids stay at home all day. there are mainly two kinds, the fun one and the useful one(这里为啥要加the了，感觉也没有特指，按照昨天学的). rather than taking buses, i walk. it helps you rather than replaces you. AI can answer pretty much everything.`
+- **她两个提问，答案都是"你对"**：
+```
+① `my family spends` 能用单数吗 → **能**。集合名词单复数都合法（B104）。
+   昨天她用 spend，今天用 spends，**两次都对**。
+② `the fun ones` 为什么加 the（"感觉没有特指"）→ **关键在前面那句框死了范围**：
+   `there are mainly two kinds` 把门关上了 → 后面这两个听者完全能确定 → the
+   对照昨天的 `a job with no overtime`（不加班的工作有一大堆，指不出来 → a）
+   ⇒ **判据没变（B113/B166），只是这题多了 two kinds 在前面封闭了范围**
+```
+```
+❌ `Games are ADDICTED` → **ADDICTIVE** ★ B157 昨天刚学（scared/scary 做对了），
+   今天换个词就没迁移 —— **规则绑在学它的那个词上**
+❌ `the fun ONE` → **ONES**（每类里不止一个）★ 新点 B176
+❌ `it shouldn't too far away` → **I wouldn't GO too far, though.**
+   ①漏 go（go too far ＝做过头是固定搭配）②too far away ＝距离太远
+⚠️ `pretty ok` → completely fine ★ 08-08 她写 pretty good，第二次
+⚠️ 第 12 题漏"长时间" → `for hours`；`kid's`→kids'；`taking buses`→taking the bus
+◎ 第 20 题 `AI can answer pretty much everything` **句子完全对，但没测到考点**（any ＋ 单数）
+  ⇒ 教练题面要改：中文得写成"AI 几乎【任何问题】都能答"
+✅ stay at home（08-08 错的 stay in home 改对）· really into · rather than 两种形式 · lose interest in ·
+   balance A and B · make sb overweight · who are + 复数一致
+```
+
+#### ★★ 她的第 32 次纠正 —— 计分要分五类，且毕业只认"一字未改"
+- 原话：`一字没改，没到考点(这个你注意下次得出的题方式), 有更好的表达方式(下次出题可以提示下), 错了，新的问题。这些在记录log的时候注意区别标识，目前只有一字未改3次才暂时不复习`
+- **第 2 类是冲教练来的**：出题没逼出考点 ＝ 教练的题面问题，不是她的问题。已写进 SKILL。
+
+### D-3（08-06）第 3 组（21–26，收尾）
+
+- **她的原话（逐字）**：`students should learn to think for themselves. i got stuck on that question. I make do with that old laptop. you can't completely trust AI. his writing is just ok(一般又忘了). he speaks English pretty well. the house is pretty big. it's a long way from subway though. the audience sing along with the singer.`
+- **★★ 两条昨天错的今天改对（块混淆全部对位）**：
+```
+昨天 `I'm stuck WITH this question`  → 今天 `got stuck ON that question` ✅
+昨天 `he MADE DO WITH it`（配错场景） → 今天 `I make do with that old laptop` ✅
+⇒ stuck on/with 与 make do with / get on with it 两组都归位（同日先错后对，按规则取最后一次）
+```
+- **★ 她第 4 次自诊误报**：写"一般又忘了"，但 `his writing is just ok` **一字不差写对了**。
+```
+❌ `a long way from SUBWAY` → **from THE subway**（只有一个的系统要带 the，与 the market/the economy 同族）
+△ `I make do with` → `I'LL HAVE TO make do with`（块对了，"只能"没出来）
+✅ a long way from（用了更口语的版本）· though 挂句尾 · the audience SING（集合名词复数，B104 允许）
+✅ `learn to think for themselves` 她加的 learn to 合理，不算改动
+```
+
+### 脚本抽题 18 · `Is smiling important in your culture?`（question_bank.md:911）
+
+- 她自述"又感觉很抽象"，先给中文（不确定 → 日常笑让心情好 → **长辈常说"开心是一天，不开心也是一天，所以多笑笑"** → 所以挺重要）。
+- **★★ 第 3 次"她觉得弱的地方恰恰最强"**：题目问 **in your culture**，**一句本土俗语就是最直接的文化证据**，
+  比"中国人重视和谐"之类抽象论述有力十倍。（前两次：08-07 在家吃的"矛盾"／08-08 差异题的"没意义"）
+- 提醒 B140：她中文开头连了两句不确定 → **一句就够**，说完立刻转向她有的东西。
+- 三个真缺口给了：`I've never really thought about it`（never＋完成时）／`you might as well`／`either way`；
+  另提醒她有现成的 do 强调 → `smiling DOES make you feel better`。
+- 她要求教练先翻一版 → 给了标注"说明机制"的版本 ＋ **六个决定**（只留一句不确定且换成有内容的说法／
+  一个 But 拉回实地／does 强调表示"这一点我确定"／**俗语用直接引语引出，不转述成 Chinese people believe…**／
+  俗语不逐字翻、压成 either way ＋ might as well／首尾都用 does 收口）。
+
+- **她自己重说（逐字）**：`i Have never really thought about it, to be honesty. but in everyday life, smiling does make you feel better. Old people often say, It's one day either way, so you might as well smile. So I guess it probably does matter.`
+- **★ 第 2、4 句一字未改**；刚给的块全装上（either way · might as well · I've never really thought about it · does ×2）。
+```
+❌ `to be HONESTY` → **to be HONEST**（honest 形容词／honesty 名词；固定短语里必须是形容词）★ B177
+△ `Old people` → **Older people**（old people 直白略不客气；英语说年长者默认用比较级）★ B179
+```
+- ⚠️ **本轮是 📖（教练先给范例她再复现）**，B177/B178/B179 不算她自己产出，**下次必须先 cold 测**。
+  同类的还有 08-08 的恐龙差异题（她要求"你来写这个吧我学习下"）。
+
+### 脚本抽题 19 · `What's the best way to learn a language?`（question_bank.md:1326）· **cold，无范例**
+
+- **她的原话（逐字）**：`I'd say It's got to be used to talk to others. you learn new languages just for expressing yourself and understanding others. So all you need to do is speaking and listening, while writing and reading sometimes. You should avoid burying yourself in grammar books and word lists, which are traps most chinese students like me fall into`
+
+- **★★★ 第 4 句是本轮最好的，四个点全对且全是 cold**：
+```
+You should avoid burying yourself in grammar books and word lists,
+which are traps most Chinese students like me fall into.
+        ↑ avoid＋-ing   ↑ 并列同形        ↑ 省略的 that    ↑ 介词留末尾
+★ **B169（关系代词做宾语可省）与 B175（介词留末尾）在真题里自主应用** —— 两条都是昨天/今天刚学
+★ `bury yourself in`（埋头钻研）是她自产的好块 ★ B181 ⭐
+✅ `I'd say`（B137）也装上了
+```
+```
+❌ 1 `It's got to be USED to talk to others` —— **语态反了**。`It's got to be` 是好块，
+   但后面接被动 → 变成"它必须被用来跟人说话"，主语指什么不清楚，且答非所问
+   → `It's got to be actually USING it to talk to people.`
+❌ 3a `all you need to do IS SPEAKING` → **IS SPEAK** ★ B180
+   `All you need/have to do is ＋ 动词原形`（is 后省掉了 to）：All you have to do is ASK.
+❌ 3b `while writing and reading sometimes` —— while 引导对比但后面**没有谓语，句子断了**
+   → `reading and writing come second` ／ `with a bit of reading and writing on the side`
+△ 2a `new languages` → a language（泛指用单数）
+△ 2b `for EXPRESSING yourself` → **TO EXPRESS**（说人的目的用不定式；for＋-ing 说物品用途，
+   a knife for cutting）★ B182
+```
+- Diff（5 处），**第 4 句一个字没动**。
+
+📊 2026-08-09 ✅ B57 B89 B90 B91 B92 B96 B97 B99 B100 B101 B104 B106 B107 B108 B110 B113 B114 B116 B117 B118 B119 B120 B121 B142 B143 B146 B147 B149 B151 B152 B153 B154 B156 B158 B159 B162 B164 B165 B166 B168 B169 B170  ◎ B115 B155  ❌ B103 B109 B112 B133 B141 B145 B148 B150 B157 B161 B163 B167  🆕 B171 B172 B173 B174 B175 B176 B180 B181 B182  📖 B177 B178 B179（smiling 题教练先给范例，下次先 cold 测）
+　　　　　　　　（补：B137 ✅ · B169 与 B175 在 language 题里 cold 自主应用 ✅）
+
  6  ✅ 壳去掉了、动作当谓语了；语序小问题：`explain why to children` 里 why 和 to 撞
     → `Parents should explain to their children why it matters.` ／ 最简 `explain WHY`
  7  `you get stuck` ✅ B90 现在时装上；❌ `every time using the road`
@@ -3691,6 +4183,12 @@ work · stay · leave · go · eat · buy · pay · live · move · wait · queu
 | **第③步 cold** | 上面那次靠四支点清单 | 同日 organized 题**零角度提示，两个支点主角不同且第二支点带机制层** | 脚手架撤掉后成立 |
 | **抽象包自主降级** | "动力"这类抽象名词以前直接卡死 | 自己降成 `more willing to do it` | 拆包在中文层完成 |
 | **⭐ 块自主复用** | — | `once or twice a year` 用进全新语境（演唱会稀缺） | 她自己的块，跨话题迁移 |
+| **压缩操作（第二步）** | 08-08 上午 22/23 想到 packed 却"组不进句子" | 同日真题 `the elderly tend to BE light sleepers` 一次装进句子 | 出口A（做表语）当天生效 |
+| **人称一致 B78** | 08-06 同题写 `because YOU follow the steps`（一天跳 4 次才升主攻） | 08-08 同题自己统一成 `because I follow the steps` | 主攻项自我修复 |
+| **完成时触发判据** | 她自述"对完成时很不敏感"（中文无此时态） | 8 句 drill **时态选择 8/8**，触发词判据一次上手 | 当天建立当天生效 |
+| **名词短语清单** | "reasonable hours / job security 这类简单词组我用不出来" | 三类清单 **9/9 全名词短语**，无一滑回动词或否定 | 一次上手 |
+| **教练版被她改进** | 教练写 `the other doesn't need any`（否定式） | 她自产 `the other puts you there`（正面＋画面） | 她的版本更好，已采用 |
+| **答案前置自主执行** | 08-03 是她纠正教练"头重脚轻" | 08-08 主动把教练版的结尾结论提到第二句 | 从被动纠正到主动应用 |
 
 ---
 
