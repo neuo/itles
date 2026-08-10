@@ -341,7 +341,7 @@
 | B138 | **go ON a trip / take a trip / plan a trip**（不是 go to a trip）；旅行住哪儿用 **where to STAY**（live 是长期居住） | "要出去玩的话，可以先查查住哪儿" | 08-07 |
 | B139 | **consider sth**（及物，不带 about）／ think ABOUT sth —— 两个都对但不能混 | "AI 会把你的预算也考虑进去" | 08-07 |
 | B135 | **创业用 start / set up a business**（不用 create）；**"承担"＝take on**（take on risk／responsibility）；最口语 `they have less to lose` | "创业的人承担的风险小了，就更愿意干" | 08-07 |
-| B136 | **口语别用书面词**：tax reduction → **tax cuts** ／ enterprises → **firms / businesses**。<br>★ 连带原则：**同一批人前后要用同一个词**（前文 small businesses，后文别换 enterprises） | "减税能减轻小企业的压力" | 08-07 |
+| B136 | **★ 不是禁用书面词，是"有口语版就用口语版"**（08-10 修订，原来说得太绝）<br>✅ **概念本身就正式、没有口语版的照用**：age discrimination · job security · enforcement · economy · regulations · infrastructure（她 08-10 这五个全用对了）<br>❌ **有更短更常用说法时别去调长的**：the advent of AI→**now with AI** ／ specialized information→**answers for your situation** ／ tax reduction→**tax cuts** ／ enterprises→**firms/businesses**<br>★★ **判据不用"书面 vs 口语"这个分类，用这个：这个词你能不假思索说出来吗？能→用；要现找→不在自动区，换掉。**<br>理由直接挂在带宽模型上：调一个不在自动区的词 → 吃带宽 → 后一句结构跟着崩（08-10 实证：`specialized information` 后面紧接着 `with completely thinking about` 崩掉）<br>★ 隐性成本：书面词多半只在阅读里见过，不知道搭配限制（advent of 只跟时代性大事；specialized 配 knowledge/training，配 information 怪）——**见过 ≠ 会用**<br>★ 连带原则：同一批人前后用同一个词（前文 small businesses，后文别换 enterprises） | "减税能减轻小企业的压力" / "现在有了 AI，查东西方便多了" | 08-07（08-10 修订） |
 | B128 | **than ever 必须紧跟比较级**：`makes it easier THAN EVER to keep in touch`（不能隔一整个从句）——"修饰语紧贴被修饰词"的比较对象版 | "社交媒体让联系比以前方便多了" | 08-07 |
 | B129 | **get TO know sb**（逐渐认识某人，to 不能省）；`it's easier to do` 本就不需要 for | "现在更容易认识陌生人" | 08-07 |
 | B130 | **群组用 in**（in an online group）；论坛用 on（on a forum） | "我在一个养宠物的群里加了个好友" | 08-07 |
@@ -4291,6 +4291,75 @@ which are traps most Chinese students like me fall into.
 📊 2026-08-10 ✅ B57 B89 B92 B103 B104 B107 B112 B114 B115 B117 B133 B141 B145 B147 B150 B151 B152 B155 B157 B163 B167 B172 B174 B176 B177 B178 B179 B180 B181 B182 B183 B184 B185  △ B109 B121  ◎ B166 B173  ❌ B148 B161 B171 B175 B186  🆕 B187 B188 B189
 　　　　　　　　（Block D 追加）✅ B25 B37 B42  ◎ B2  ❌ B3 B12 B45  △ B31 B34 B35
 　　　　　　　　（Block E-① 题目重答 traffic）✅ B82 B83 B84 B86 B90 B94 B127 B155 B159 B89 B54 B81  △ B136
+　　　　　　　　（Block E-②③④⑤）✅ B133 B131 B135 B163 B165 B166 B167 B115 B138 B154 B168  ❌ B73 B136 B141x  △ B127x  🆕 B191 B192
+
+### Block E · 题目重答 ②–⑤（08-10 专门复习日，她当天把上限从 3 道放宽到 5 道）
+
+> 她 08-10 定：`复习日改下，3个旧题放宽到5个`。
+> ★ **5 这个数正好让重答队列不再增长**：每周期 5 个学习日各产出 1 道自由产出真题（新增 5 道），
+>   复习日重答 5 道 —— 收支持平。定在 3 会让队列结构上排不完（第3轮审计 B7 指出的问题，一并解决）。
+
+**② start-ups（08-07 → 08-10）：5 处真错 → 1 处**
+```
+✅ from THE market（B133）· crucial 不加 s（B131）· a diverse economy（压缩）·
+   their own businesses · have less to lose（08-07 教练给的，今天自己用出来）· For one thing…Plus… 分点
+❌ `the vital component` → **a vital part** —— **判据她早就有**（B166 限定≠定指：限定完还剩很多 → a）
+△ `component` → part（偏书面）／`With the support from governments` → **With government support**（最省）
+⚠️ 层5 退步：08-07 有的"没人创业→没那么多岗位"这层推演今天丢了；语言更好，内容薄了
+★ 给她的新块：`there aren't enough jobs to go round`（够分）★ B192
+```
+
+**③ dream job（08-08 → 08-10）：8 处真错 → 1 处**
+```
+✅ 否定辖域解决 ＋ a/one 用对（`a job with no overtime, and one that is stable`）·
+   childcare→spending time with kids · age discrimination 不带冠词 · against · for US（人称统一）·
+   worried about being laid off · 正面名词并列（reasonable hours and job security）
+❌ `go off work` → **get off work**（go off work 在英式里更像"因病停工"）
+△ `with kids`→with your kids ／ `is perfect`→`that's the dream`（呼应题目）
+```
+
+**④ organized（08-05 → 08-10）：8 处真错 ＋ 理解偏题 → 1 处真错，理解全对**
+```
+★★ **最重要：这次完全没理解偏题**。08-05 她把 organized 当成"守规矩"（答了不插队、公共场合安静），
+   今天全篇都在说"有条理" —— 那个词的义项装上了
+✅ 去壳成功（`it starts with parents themselves`，用的是 08-05 教练给的天花板版，今天 cold 产出）·
+   `tend to copy` 比 always 更准 · `don't leave toys all over the floor`（B154）· 
+   `explain TO KIDS why…`（语序也对了）· 指代清楚（不再是两个不同的 it）
+❌ `convenient for the next use` —— **convenient 第三次** ★ B73 精确化：
+   三次数据（08-05 ❌ to find／08-07 ✅ for working people／08-10 ❌ for the next use）
+   ⇒ **convenient 后面只能跟【人】**；跟动作或用途一律换 easier
+△ toys→their toys ／ it's useful to→it helps to ／ follow these rules→do it（rules 无指代）
+```
+
+**⑤ technology（08-07 → 08-10）：8 处真错 → 3 处（五道里改善最小）**
+```
+✅ helps→help（并列主语）· where to LIVE→where to STAY（08-09 回潮过，这次装上）·
+   ask AI directly（论元补上）· any answer（B115）· stuff like that
+❌ `the advent of ai` —— **原样回潮**（08-07 教练明确说过太书面）
+❌ `it give` → gives ／ `with completely thinking about your budget` 结构不成立
+   → `takes your budget INTO ACCOUNT`
+★★ **同一天给的两条，唯一变量还是"有没有当场重说"**：
+   where to stay  08-09 回潮 → 08-10 给完整版【她当场重说】 → 今天 ✅
+   the advent of  08-07 给完整版含 "And now with AI"【她没重说】 → 今天原样回来
+```
+
+**★★★ 题目重答 5 道合计：37 处真错 ＋ 1 卡死 ＋ 1 偏题 → 6 处真错**
+```
+① traffic 8＋卡死→0 ｜ ② start-ups 5→1 ｜ ③ dream job 8→1 ｜ ④ organized 8＋偏题→1 ｜ ⑤ technology 8→3
+★ 6 处里只有 1 处（advent）是五天前纠过的原样回潮，其余 5 处都是新暴露的
+  ⇒ **旧错在退，新错在浮出来** —— 这是单点复习看不到的，只有整题重答能测出来
+```
+
+#### ★ 她追问"书面语完全不能用么" → 教练修正了自己说得太绝的一条（B136 已改写）
+```
+✅ 概念本身就正式、没有口语版的照用：age discrimination · job security · enforcement ·
+   economy · regulations（她 08-10 这五个全用对）
+❌ 只在"有更短更常用说法时还去调长的"才是问题
+★★ 判据不用"书面 vs 口语"这个分类，改用：**这个词你能不假思索说出来吗？**
+   能→用；要现找→不在自动区，换掉。直接挂在带宽模型上
+   （08-10 实证：`specialized information` 后面紧接着 `with completely thinking about` 崩掉）
+★ 隐性成本：书面词多半只在阅读里见过，不知搭配限制 —— **见过 ≠ 会用**，正是三通路诊断
+```
 
 ### Block E · 题目重答 ①：`What are good ways to manage traffic?`（08-05 首答 → 08-10 重答）
 
