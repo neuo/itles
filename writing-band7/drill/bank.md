@@ -239,6 +239,11 @@
 |---|---|---|---|---|
 | 1 | 07-14 | **cold 限时** | **6.5**（TR 7.0 / CC 7.0 / LR 6.0 / GRA 6.0） | 拼写 7 个（cruial / maintainance / neccessary / goverments / popution / orderly·oderly）；`bring **in** some benefits`；`On the **society** side`→social；`**These** knowledge`；`more clear`；🚩 `the leaving school time of students is usually before 5pm`（**中式旗舰标本**）；`an ageing population **put** massive burden`；`With ages growing`（悬垂）；`long-term ills`；`the youth workplace` |
 
+| 2 | **08-10** | **cold 限时 40min** | **6.0**（TR 6.5 / CC 6.0 / LR 6.0 / GRA 6.0） | 284 词 · 干净句率 **37.5%**(↑23%) · **拼写 0**(↓7) · 词汇错 9(↓14)。🎯两个靶子全中（拼写归零 / 段尾零 `Therefore`）。❌未盯的全复发：冠词×4（As for family level · young workforce · retirement age · the pension）· `makes sb have`×2 · 逗号粘连 `A case in point is China, students…` · `the challenge`(应复数) · `much more early` |
+
+📍 本次原稿见 `log/sessions/2026-08-10-drill-T2-18.md`
+🎯 **下次（第 3 次）靶子**：①**冠词**（可数单数前必有限定词；泛指制度性开支用复数无冠词）②**逗号粘连**（逗号两边都能独立成句 → 改句号或加 where/and/which）。拼写与段尾变化继续保持但不再当靶子。
+
 📍 `gemini/corrections_2026-07.md:695-701`
 ⭐⭐ **对照实验（全库最有价值的一组）**：与 T2-04 同话题。
 - T2-04：**未限时**，2 处小错，判 ~7.5
@@ -659,6 +664,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **实际考试** | — | 真考 | — | — | — | — | — | — | — | — | **5.5 ← ground truth** |
 | （基线）07-14 | T2-18 | timed 40min | ~280 | ~15 / 3–4 | **~23%** | 14 | 6.0 | 6.0 | 5.0 | 5.5 | **5.5** |
+| 08-10 | T2-18 | timed 40min | 284 | 16 / 6 | **37.5%** | **9**（拼写 0） | 6.5 | 6.0 | 6.0 | 6.0 | **6.0** |
 
 > ⚠️ 上面这行初版写的是 7/7/6/6 = 6.5，**已按实际考分重判**。教练两次虚高的过程记录在 `scoring.md §6.5`。
 > **近期目标 6.5，不是 7。** 三个可数靶子：词汇错 ≤12 / 干净句率 ≥35% / 连接词去固定槽位。

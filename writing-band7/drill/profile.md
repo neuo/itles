@@ -222,7 +222,7 @@
 | P2 冠词 | 0/5 | 🔴 |
 | P3 中式直译块 | 0/5 | 🔴 |
 | P4 单复数/主谓 | 0/5 | 🔴 |
-| P5 拼写 | 0/5 | 🔴 |
+| P5 拼写 | **1/5** | 🟢 08-10 首次零拼写 |
 | P6 词类 | 0/5 | 🔴 |
 | P7 逗号粘连 | 0/5 | 🟡 |
 | P8 丢 L 句 | 0/5 | 🟡 |
@@ -240,7 +240,43 @@
 
 <!-- 每次 session 在下面追加，格式：日期 | 题号 | 原句 → 改法 | 类别 -->
 
-（等待第一次 drill session 写入）
+### 2026-08-10 · T2-18 第 2 次（限时 cold，6.0）
+
+**① 她写错的**
+| 原句 | 类别 | 改法 |
+|---|---|---|
+| compared to **the younger** | LR 词形 | the young |
+| the **challenge** caused by | P4 单复数 | challenges |
+| tend to be more experienced **and be** highly skilled | GRA 并列 | and highly skilled |
+| **As for family level** | P2 冠词 | At the family level |
+| grandparents **help more or less youth parents** | 语序 + 词形 | more or less help young parents |
+| which **makes parents have** a chance to | P3 中式块 | which allows parents to |
+| A case in point is China**,** students leave school… | **P7 逗号粘连** | China, **where** students leave… |
+| **it** is **much more early** than when most **employees or worker get to home** | GRA 指代/比较级/主语群体不一致 | — far earlier than most parents finish work |
+| Combined with **the pension** | P2 冠词+数 | pension payments |
+| **young workforce** keeps dropping with the increase of **older population** | P2 冠词 ×2 | the young workforce … as the older population grows |
+| which **deteriorates** the situation | P1 动词框架（deteriorate 多为不及物） | worsens |
+| **largely** delays **retirement age** | LR 词义 + P2 冠词 | raised **the** retirement age |
+| Almost all the workers **don't** like the policy | 过度绝对 + 缩写（学术写作不用） | it proved deeply unpopular among workers |
+| **makes governments have few choices but hurt** the **profit** of the general public | P3 中式块 + 破碎习语 + 词义 | leaves governments with no choice but to act against the **interests** of |
+| **In Conclusion** | GRA 大小写 | In conclusion |
+
+**② 她想写但写不出来的（她自报，最有价值）**
+- `pressure` 想换但换不出 → **strain**（places significant financial strain on）
+- 冠词要不要带 the（特别是 pension）→ 规则：**泛指的制度性开支用复数、不加 the**（pension payments / healthcare costs）
+- 单复数不确定（实际错 2 处）
+- S7 主语不对（她自己抓到了，判断准确）
+- 结论最后一句"憋不出来" → **她砍掉是对的**（原中文那句"提高出生率"属结论引入新内容）
+
+**③ 教练给的更好版本**
+- `A case in point is China, where students leave school before 4 pm on workdays — far earlier than most parents finish work`（一句解决粘连+主语+比较级）
+- `combined with pension payments, this places significant financial strain on governments`
+- `the young workforce keeps shrinking as the older population grows`
+- `leaves governments with no choice but to act against the interests of the general public`
+- **allow sb to / enable sb to / leave sb with** ← 替换 `make sb have` 的三个动词（她会的）
+
+**✅ 做对了、要保住的**
+- `imposes ... on`（两次都对）· `the elderly demand`（复数主谓，难点判对）· 三个段尾都有回扣句且措辞各不相同 · 284 词落在 270–290 目标区 · **零拼写错**
 
 
 ---
@@ -304,3 +340,21 @@
 - **写作 6.5 · 口语 6**
 - 她认为**口语挑战更大**，但两者相辅相成：**"很多口语用的素材来自写作"**、**"因为我写作要求不高，所以很多写作的句型，口语中也能用"**
 → 教练含义：写作出的句型/素材要**主动标记哪些可以搬去口语**；两科共用一个素材池。
+
+
+---
+
+## 8. 🔴 注意力单通道（2026-08-10 实证，改变训练设计）
+
+**证据**：T2-18 第 2 次，给了两个靶子（拼写、段尾变化）——**两个全部命中**（拼写 7→0，`Therefore` 3→0）；
+**同时**，没给靶子的模式**原样复发**：冠词 ×4、`make sb have` ×2、逗号粘连 ×1、单复数 ×2、词类 ×1。
+
+**这与 2026-05-26 的发现同源**（当时："修 3 个 gap"和"拼写自检"是两条独立注意力通道，盯着改 gap 就关掉了拼写通道）。**这次是反向验证：盯什么，什么就干净。**
+
+### 训练设计据此锁定
+1. **每篇只给 1–2 个靶子**，不给十条清单。
+2. **靶子轮换**，一个模式连续盯到自动化再换（对应她要的"越熟练越不容易错"）。
+3. **不写"下次仔细检查"这类反馈** —— 不可执行，且她已判定细心不是解法。
+4. 判分时**分开看两类错**：靶子内的（衡量训练是否生效）vs 靶子外的（衡量自动化程度，不批评）。
+
+> 她本人的话：**"这个光靠所谓的细心不太可能……可以投入更多精力在自动纠错，并且越熟练就越不容易错。"** —— 08-10 的数据完全支持这个判断。
