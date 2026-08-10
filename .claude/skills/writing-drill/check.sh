@@ -19,7 +19,8 @@ SKILL=.claude/skills/writing-drill/SKILL.md
 SCORING=.claude/skills/writing-drill/scoring.md
 PROFILE=writing-band7/drill/profile.md
 LOG=writing-band7/drill/log.md
-FILES="$SKILL $SCORING $PROFILE $LOG"
+BANK=writing-band7/drill/bank.md
+FILES="$SKILL $SCORING $PROFILE $LOG $BANK"   # 九审补 bank.md：它是五份真源之一，🎯 行规则和代号范围都在里面
 
 fail=0
 bad() { printf '❌ %s\n' "$*"; fail=1; }
@@ -41,10 +42,10 @@ fi
 # ── ② G6 断言条数：标号实数 vs 各处声明 ────────────────────────────────
 echo
 echo "-- ② G6 断言条数 --"
-labels=$(sed -n '/证据块：`【G6 对账闸】`/,/^---$/p' "$SKILL" | grep -cE '^(10|11|[1-9])[b-c]? ')
+labels=$(sed -n '/证据块：`【G6 对账闸】`/,/^---$/p' "$SKILL" | grep -cE '^[0-9]{1,2}[b-c]? ')
 echo "   标号实数 = ${labels}"
 # 只在【活规则行】上找声明，排除教训/修订史那些引用旧值的散文
-declared_counts=$(grep -vE '却在|留着|原写|加了第|六审|七审|八审|教训' "$SKILL" \
+declared_counts=$(grep -vE '却在|留着|原写|加了第|教训' "$SKILL" \
                   | sed -nE 's/.*[^0-9]([0-9]+) 条断言.*/\1/p;
                              s/.*本 §G6 的【([0-9]+) 条】.*/\1/p;
                              s/.*§G6 的 ([0-9]+) 条，改动.*/\1/p;
@@ -79,7 +80,7 @@ echo
 echo "-- ④ 代号范围 --"
 maxp=$(grep -oE '^### P[0-9]+' "$PROFILE" | grep -oE '[0-9]+' | sort -n | tail -1)
 echo "   profile §1 定义到 P${maxp}"
-range_decls=$(grep -vE "原来|原写|八审|七审|六审|五审" $FILES 2>/dev/null | grep -ohE "P1[–-]P[0-9]+" | grep -oE '[0-9]+$' | sort -u)
+range_decls=$(grep -vE "原来|原写" $FILES 2>/dev/null | grep -ohE "P1[–-]P[0-9]+" | grep -oE '[0-9]+$' | sort -u)
 for n in ${range_decls}; do
   if [ "${n}" != "${maxp}" ]; then
     bad "有一处写着 P1-P${n}，实际定义到 P${maxp}"
@@ -92,7 +93,7 @@ done
 echo
 echo "-- ⑤ 死指针 --"
 dead_ptr=0
-for sec in $(grep -ohE 'scoring\.md §[0-9]+(\.[0-9]+[a-z]?)?' $FILES \
+for sec in $(grep -ohE '`?scoring(\.md)?`? ?§[0-9]+(\.[0-9]+[a-z]?)?' $FILES \
              | sed 's/.*§//' | sort -u); do
   grep -qE "^#{2,4} ${sec}[ .·]" "$SCORING" || { bad "scoring.md 里没有 §${sec}"; dead_ptr=1; }
 done
@@ -104,12 +105,12 @@ echo "-- ⑥ 已废弃口径 --"
 revived=0
 for dead in 发散告警 抽查槽位 P_K 靶子外复发; do
   hits=$(grep -rn -- "$dead" $FILES 2>/dev/null \
-         | grep -vE "删|废|原来|原写|更正|审|F[0-9]+|教训|修订史|不再统计|一并|改名|→|取代|换成|二修|三修|四修|不同的量|不再是|当时|曾|:[0-9]+:>" \
+         | grep -vE "删|废|原来|原写|更正|审|F[0-9]+|教训|修订史|不再统计|一并|改名|→|取代|换成|二修|三修|四修|不同的量|:[0-9]+:>" \
          | wc -l | tr -d ' ')
   if [ "$hits" != "0" ]; then
     bad "已废除的「${dead}」有 ${hits} 处不在教训记录里"
     grep -rn -- "$dead" $FILES 2>/dev/null \
-      | grep -vE "删|废|原来|原写|更正|审|F[0-9]+|教训|修订史|不再统计|一并|改名|→|取代|换成|二修|三修|四修|不同的量|不再是|当时|曾|:[0-9]+:>" | sed 's/^/      /'
+      | grep -vE "删|废|原来|原写|更正|审|F[0-9]+|教训|修订史|不再统计|一并|改名|→|取代|换成|二修|三修|四修|不同的量|:[0-9]+:>" | sed 's/^/      /'
     revived=1
   fi
 done
