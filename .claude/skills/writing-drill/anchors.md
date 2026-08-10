@@ -66,7 +66,13 @@
 ### 剑 13 Test 4 —— 饥饿问题（官方 **Band 6.0**）
 > "This script presents some difficulties for the reader... it is clear that **the writer has some ideas, but lacks the language needed to express them satisfactorily**... **Control over spelling and word formation is weak and there are frequent errors** [itmes | opioin | Captialism | divied | countris | resouse | develping]... **the error level is high throughout, even in simple forms**."
 
-🔑 **这篇的错误清单和她的几乎一模一样**（`import`/`neccessary`/`goverment`/`resouces`/`countris`）。她比这篇强在 TR/CC，所以她是 6.5 不是 6.0。**但拼写层她就在这个档。**
+🔑 **这篇的错误清单和她的几乎一模一样**（`import`/`neccessary`/`goverment`/`resouces`/`countris`）。**拼写层她就在这个档。**
+
+> ⛔ **2026-08-10 七审删除**：这里原来写着"她比这篇强在 TR/CC，**所以她是 6.5 不是 6.0**"。
+> **那句话是虚高的一部分，不是校准。** 实考 Writing = **5.5**（`scoring.md §6.5`），
+> 08-10 那篇重算是 **6.0**。而 `scoring.md:443` 把「被 TR/CC 的好印象带跑」**逐字点名**为
+> 教练两次虚高的成因之一 —— 它却写在**判分拿不准时才打开的这份校准文件里**。
+> ⇒ 本文件从此**不许出现任何"她是 X 分"的断言**。锚就是锚，别夹带对她的估分。
 
 ### 剑 15 Test 2 —— 纸质书会消失吗（官方 **Band 6.0**）
 > "This is a thoughtful exploration of the topic... Organisation is clear, paragraphing is logical... The range of vocabulary is quite varied, with many examples of collocation... with only two spelling errors. There is a mix of simple and complex sentence structures and these are generally accurate. Some errors do occur..., **but the meaning is still clear.**"
@@ -142,7 +148,9 @@
 ## 7. 跨档规律（30+ 篇考官评语归纳，直接可用作判分先验）
 
 1. **TR 是绝大多数考生的瓶颈** —— 11 篇 6.5 里有 9 篇是 LR/GRA 7-8 而 TR 5-6。
-   ⚠️ **但她相反**：她 TR/CC 已在 7.0-7.5，卡在 LR/GRA。**别照搬通用建议给她加结构训练。**
+   ⚠️ **她的形状不一样**：08-10 那篇 **TR 6.5 / CC 6.0 / LR 6.0 / GRA 6.0** —— 四项挨得很近，
+   TR 只领先半档。**别照搬通用建议给她加结构训练**，但也**别把"TR 相对好一点"读成"TR 已经到 7"**。
+   ⛔ 七审更正：原写"她 TR/CC 已在 7.0-7.5"。那是虚高期的数，实考 5.5 已经推翻。
 2. **立场自相矛盾代价最大**："an absolute disaster" / "leads to a severely lower score" / "plunges your score"。
 3. **HOW vs WHY**：反复出现的 TR 失分点 —— 解释"怎么做"而不是"为什么有效"。
    > "You focus too much on HOW and not enough on WHY."
@@ -297,7 +305,11 @@
 3. **6.5 卡住时先修什么？**
    - Simon："**I don't recommend that you focus on grammar.** Improving your grammatical accuracy is probably going to be a slow and gradual process… the secret is **planning**."
    - 但 60 篇带分样本的分项数据显示：**GRA 6 是把 6.5 压住的最普遍单一原因**。
-   - **对她的裁决**：Simon 的建议假设考生 TR/CC 弱。**她 TR/CC 已 7.0–7.5，planning 没有剩余收益。** 她只有 LR/GRA 一根杠杆，且必须按"慢工"预期来推 —— 这正是"同题反复写"的理由：把内容负荷清零，让慢变量能被专注地推。
+   - **对她的裁决**：Simon 的建议假设考生 TR/CC 明显弱于 LR/GRA。**她不是那个形状** ——
+     08-10 四项是 6.5/6.0/6.0/6.0，TR 只领先半档，planning 的剩余收益不大。
+     主杠杆在 LR/GRA，且必须按"慢工"预期推 —— 这正是"同题反复写"的理由：
+     把内容负荷清零，让慢变量能被专注地推。
+     ⛔ 七审更正：原写"她 TR/CC 已 7.0–7.5"。实考 5.5 已推翻，且**本文件不许夹带对她的估分**。
 
 ---
 
