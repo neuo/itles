@@ -369,17 +369,52 @@
 
 | # | 表达 | 价值 | 中文触发点 | 她的 floor 说法 | 出自 | 状态 |
 |---|---|---|---|---|---|---|
-| G1 | **`as` + 主谓**（随着…／当…时） | 🔴 高 | 中文出现"随着…／当…的时候／…越来越…" → **先问"主语是谁、它在做什么"**，想出主谓，前面挂 `as` | `with the increase in the older population`（名词块） | T2-18 | 🆕 在池 |
+| G1 | **名词块「存在性测试」** | 🔴 高 | 写出一个名词块时问一句：**这个块我是见过的，还是刚拼的？** 见过→用；刚拼→拆回主谓大白话 | — | T2-18 | 🆕 在池 |
 | G2 | `X proved + 形容词` | 🟡 中 | 中文"结果…／事实证明…" | `X was + 形容词` | T2-18 | 🆕 在池 |
 | — | ~~`deeply`~~ | ⚪ **不进池** | — | `very unpopular` 完全够用，不扣分 | T2-18 | ❌ 明确劝退 |
 
-### G1 为什么是最高价值（写清楚，别忘）
-`as` 本身她认识，**要练的不是这个词，是换一条产出通路**：
+### ⚠️ G1 的修订记录（2026-08-10，她当场推翻教练的第一版）
 
-| 中文 | 她的产出（名词块） | 用 `as`（主谓） |
-|---|---|---|
-| 随着老年人口的增加 | with the increase **in the** older population | **as the older population grows** |
+**教练第一版（错的）**：把她的 `with the increase of older population` 判成 P3 中式直译块，开药方"改用 `as` + 主谓"。
 
-左边是名词块（increase 是名词），右边是主谓（population grows）。
-而「把中文的动作压成英文名词块」正是她 **P3 中式直译块**的核心机制（45 例里一大半）。
-⇒ **G1 不是学一个连词，是给 P3 装一个可执行的出口。** 优先级高于其它所有池内条目。
+**她的反驳（成立）**：**"中文中很多动词应该用名词块，翻过来也是很多名词块应该用动词，是应该多学。"**
+
+**核对结果 —— 她对，教练判错了层**：
+- 类型学事实：**英语偏名词（静态），中文偏动词（动态）**。中文动词→英文名词块在很多场合是**更地道、更学术**的方向，不是错误。
+- 她那句的真错只有**介词（of→in）和冠词（缺 the）**；结构本身没问题。
+- 修好后 `with the increase in the older population` 与 `as the older population grows` **两者都对**，不构成修正关系。
+- ⇒ 教练犯的是四问自审第③条点名的错：**判错层比判错对错更常见**。
+
+**P3 中式直译块的正确定义（据此修订）**：
+> 错的不是"用了名词块"，是"用了**自己拼出来的**名词块"。
+
+| 她的原句 | 判定 |
+|---|---|
+| `the leaving school time of students` | ❌ 硬拼（英语无此块，应 `when students leave school`） |
+| `water cleaning factory` | ❌ 硬拼（存在的是 `water treatment plant`） |
+| `improve students' competition` | ❌ 取错名词（competition ≠ competitiveness） |
+| `a whole-developed person` | ❌ 硬拼（应 `well-rounded individuals`） |
+| ✅ `the increase in the older population` | ✅ **真实存在的搭配，用得对** |
+
+⇒ 与她 08-09 的自述机制一致：**"词组不会，所以去硬编，大概率是错的"** —— 病根是**硬编**，不是名词块。
+
+---
+
+## 10. 动名对照表（verb ↔ noun，从她自己的产出里长）
+
+> **缘起**：她 08-10 提出"是应该多学"（指名词化方向）。
+> **做法**：不教"名词化"这个抽象操作，而是攒**同一个意思的动词版↔名词版配对**。
+> **一举两得**：想不起名词版 → 动词版兜底（floor）；想升级 → 名词版就在旁边（ceiling）。
+> 直接服务她自我诊断第 2 条「没法多样性的表达」。
+> **规则**：只从她自己写过的内容里长，慢慢长，不预先塞。**不是每个动词都有对应名词块，硬找就是硬编。**
+
+| 意思 | 动词版（她的 floor） | 名词版（升级） | 来源 |
+|---|---|---|---|
+| 老年人口增加 | as the older population **grows** | with the **growth** in the older population | T2-18 |
+| 政府推出政策 | the government **introduced** a policy | the **introduction** of the policy | T2-18 |
+| 退休年龄提高 | the retirement age **was raised** | the **rise** in the retirement age | T2-18 |
+| 劳动人口下降 | the workforce **is shrinking** | the **decline** in the workforce | T2-18 |
+| 人们活得更久 | people **are living** longer | rising life **expectancy** | T2-18 |
+| 祖父母帮着带孩子 | grandparents **help with** childcare | ⚠️ **无对应名词块** —— 别造 `grandparental childcare`，就用动词版 | T2-18 |
+
+★ 最后一行是**故意保留的反例**：提醒"不是每个动词都有名词版，找不到就用动词版，别硬编"。
