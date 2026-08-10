@@ -284,7 +284,7 @@ T1（Task 1）→ 走 §2.3b TA 清单（9 项） ＋ §2.3c CC 清单（4 项�
 
 ```
 ★★ 三条硬约束
-① 查完表【必须再过一遍 §3.3 硬顶】，硬顶更低就取硬顶（两个取低，见 §5.2）
+① 查完表【必须再过一遍 §3.3 硬顶】，硬顶更低就取硬顶（两个取低，见 §5 第 2 条）
 ② 7.0 以上（7.5 / 8.0）本 skill 【不判】—— 需要 §4 的 "7 vs 7.5/8" 三条测试各自写出证据才允许。
    她当前基线 5.5，凭空冒出 7.5 几乎必然是虚高（§6.5 的两次都是这么来的）。
 ③ 勾选表【必须整表打印】（勾到的和没勾到的都列，各带证据句），这是 G3 **阶段 2 断言 11** 的证据块
@@ -322,7 +322,7 @@ TR/TA/CC  只有一个：§2.3d 的勾选数表（6.5 与 5.5 是表里的格子
 总分  只有一个：§3 第 3 条的进位规则（四项平均后取最近 0.5，.25/.75 向上）
 
 ★ 出现任何其它半档 → G3 阶段 2 直接 FAIL，不许"两档之间取中"。
-  "犹豫就取低"（§5.2）是【整档之间】的规则，**不是造半档的授权**。
+  "犹豫就取低"（§5 第 2 条）是【整档之间】的规则，**不是造半档的授权**。
 ★ 为什么要把半档口封到这么死：半档是整套机制里唯一没有刻度的自由度，
   而 §6.5 记录的两次虚高都发生在"没有刻度、凭印象"的地方。
 ```
@@ -339,7 +339,7 @@ TR/TA/CC  只有一个：§2.3d 的勾选数表（6.5 与 5.5 是表里的格子
 | 段落切分失败 / 只有一个 body 段 / 没分段 | **CC ≤ 5** | 考官原话 "Paragraphing is inadequate so your score is limited to 5"；Liz："only one body paragraph… you will get around band 5 for CC" |
 | **没写结论段** | **TR ≤ 5** | Liz："Failure to write a conclusion for task 2 will result in band 5 for Task Response" |
 | 只答了一半的题（两问题只答一问） | **TR ≤ 5** | Liz："if you fail to answer the whole question and only answer half of it, you will not get above band score 5 in task response" |
-| 改写题干时错误频繁 | **LR ≤ 5** | Liz 原话："If you have frequent errors, you will get band score **5 or 5.5** in vocabulary"。★ 本表取 **5**（F54）：§3.1 穷举了合法半档，`LR` 一个都没有 ⇒ 封顶值写 5.5 会让 G3 阶段 2 断言 12 对着**正确行为**判 FAIL。两个值取低也符合 §5.2。 |
+| 改写题干时错误频繁 | **LR ≤ 5** | Liz 原话："If you have frequent errors, you will get band score **5 or 5.5** in vocabulary"。★ 本表取 **5**（F54）：§3.1 穷举了合法半档，`LR` 一个都没有 ⇒ 封顶值写 5.5 会让 G3 阶段 2 断言 12 对着**正确行为**判 FAIL。两个值取低也符合 §5 第 2 条。 |
 | 连接词机械（几乎每句开头挂一个 / Firstly-Secondly-Thirdly 套） | **CC ≤ 6** | Liz："Your use of linking words is mechanical, which is a feature of band 6" |
 | T1 无 overview | **TA ≤ 5** | 官方 Band 5 描述符 "without referring to the bigger picture" |
 
@@ -518,7 +518,7 @@ TR/TA/CC  只有一个：§2.3d 的勾选数表（6.5 与 5.5 是表里的格子
 (TR __ + CC __ + LR __ + GRA __) / 4 = __ → 取最近 0.5（.25/.75 向上）→ **__**
 半档来源（§3.1 哪一条）：__      ← 写不出来 = 该半档非法
 
-#### B5 四问自审（每个 ❌ 逐条过，§5.6）
+#### B5 四问自审（每个 ❌ 逐条过，§5 第 6 条）
 （① 能否推翻自己 ② 是否延续上一条 ③ 判的是哪一层 ④ 假错比漏错贵）
 
 #### B6 靶子内 / 靶子外
