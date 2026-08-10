@@ -240,107 +240,60 @@
 
 <!-- 每次 session 在下面追加，格式：日期 | 题号 | 原句 → 改法 | 类别 -->
 
-### 2026-08-10 · T2-18 第 2 次（限时 cold，6.0）
+### 📅 D 计数
+```
+D1 = 2026-08-10（T2-18 第 2 次）  ← 第一个学习日
+下一次 = D2（学习日）：开场复习 D-1（＝D1）的条目；D-4 尚不存在
+第一个【复习日】= D5 之后那一天
+```
+
+### 2026-08-10 · T2-18 第 2 次（限时 cold，6.0）· 条目 E-001 ~ E-025
+
+> 复习抽查用【中文触发点】那一列出题（中译英单句），不给英文。
+> 连续 3 次 ✅ → 🎓 出池。
 
 **① 她写错的**
-| 原句 | 类别 | 改法 |
-|---|---|---|
-| compared to **the younger** | LR 词形 | the young |
-| the **challenge** caused by | P4 单复数 | challenges |
-| tend to be more experienced **and be** highly skilled | GRA 并列 | and highly skilled |
-| **As for family level** | P2 冠词 | At the family level |
-| grandparents **help more or less youth parents** | 语序 + 词形 | more or less help young parents |
-| which **makes parents have** a chance to | P3 中式块 | which allows parents to |
-| A case in point is China**,** students leave school… | **P7 逗号粘连** | China, **where** students leave… |
-| **it** is **much more early** than when most **employees or worker get to home** | GRA 指代/比较级/主语群体不一致 | — far earlier than most parents finish work |
-| Combined with **the pension** | P2 冠词+数 | pension payments |
-| **young workforce** keeps dropping with the increase of **older population** | P2 冠词 ×2 | the young workforce … as the older population grows |
-| which **deteriorates** the situation | P1 动词框架（deteriorate 多为不及物） | worsens |
-| **largely** delays **retirement age** | LR 词义 + P2 冠词 | raised **the** retirement age |
-| Almost all the workers **don't** like the policy | 过度绝对 + 缩写（学术写作不用） | it proved deeply unpopular among workers |
-| **makes governments have few choices but hurt** the **profit** of the general public | P3 中式块 + 破碎习语 + 词义 | leaves governments with no choice but to act against the **interests** of |
-| **In Conclusion** | GRA 大小写 | In conclusion |
+| E | 中文触发点（抽查出这句） | 她写的 | 正确 | 类别 | streak |
+|---|---|---|---|---|---|
+| E-001 | 和年轻人相比，老年人有一些优势 | compared to **the younger** | compared to **the young** | LR 词形 | 0 |
+| E-002 | 老龄化带来的那些挑战 | the **challenge** caused by | the **challenges** caused by | P4 单复数 | 0 |
+| E-003 | 老年人往往更有经验、技术也更熟练 | tend to be more experienced **and be** highly skilled | …**and** highly skilled | GRA 并列同形 | 0 |
+| E-004 | 在家庭层面 | **As for family level** | **At the family level** | P2 冠词/搭配 | 0 |
+| E-005 | 祖父母或多或少会帮年轻父母带孩子 | grandparents **help more or less youth** parents | grandparents **more or less help young** parents | 语序＋词性 | 0 |
+| E-006 | 这让父母能够全职工作 | which **makes parents have a chance to** work | which **allows parents to** work | P3 中式块 | 0 |
+| E-007 | 以中国为例，学生下午四点前就放学 | A case in point is China**,** students leave | A case in point is China**, where** students leave | **P7 逗号粘连** | 0 |
+| E-008 | 这比大多数人回到家的时间早得多 | much **more early** | much **earlier** | P6 比较级 | 0 |
+| E-009 | 大多数雇员或工人 | most employees or **worker** | most employees or **workers** | P4 单复数 | 0 |
+| E-010 | 回到家 | **get to home** | **get home** | P1 搭配 | 0 |
+| E-011 | 加上退休金支出 | Combined with **the pension** | Combined with **pensions** | P2 冠词/数 | 0 |
+| E-012 | 年轻劳动力持续下降 | **young workforce** keeps dropping | **the young workforce** keeps dropping | P2 冠词 | 0 |
+| E-013 | 随着老年人口的增加 | with the **increase of** older population | with the **increase in the** older population | P2 介词＋冠词 | 0 |
+| E-014 | 这让政府面临的处境更糟 | which **deteriorates** the situation | which **worsens** the situation | P1 动词框架（deteriorate 多不及物） | 0 |
+| E-015 | 大幅推迟退休年龄，从 60 到 65 | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | 0 |
+| E-016 | 让政府别无选择，只能损害公众利益 | **makes governments have few choices but** hurt | **leaves governments with no choice but to** hurt | P3 中式块＋破碎习语 | 0 |
+| E-017 | 公众的利益 | the **profit** of the general public | the **interests** of the general public | LR 词义 | 0 |
+| E-018 | 总而言之 | **In Conclusion** | **In conclusion** | GRA 大小写 | 0 |
 
-**② 她想写但写不出来的（她自报，最有价值）**
-- `pressure` 想换但换不出 → **strain**（places significant financial strain on）
-- 冠词要不要带 the（特别是 pension）→ 规则：**泛指的制度性开支用复数、不加 the**（pension payments / healthcare costs）
-- 单复数不确定（实际错 2 处）
-- S7 主语不对（她自己抓到了，判断准确）
-- 结论最后一句"憋不出来" → **她砍掉是对的**（原中文那句"提高出生率"属结论引入新内容）
+**② 她说"不会/没把握/想换换不出"的**（最有价值 —— retrieval 缺口地图）
+| E | 她的原话 | 裁决 | streak |
+|---|---|---|---|
+| E-019 | `impose ... on` 搭配不确定 | ✅ **两次都用对**，不必再疑。`impose burdens/pressure **on** sb` | — |
+| E-020 | 冠词，特别是 `the pension` | ✅ 直觉正确。泛指制度性开支用**复数不加 the** | 见 E-011 |
+| E-021 | `pressure` 想换但换不出 | → **`strain`**（financial strain on）。她已用 burdens，正好错开 | 0 |
+| E-022 | 单复数不确定 | 实际错 2 处 | 见 E-002/E-009 |
+| E-023 | 那句主语不对（她自己抓到） | ✅ 判断准确。三病根：`it` 指代／比较级形式／比较对象换了群体 | 见 E-008 |
+| E-024 | 结论最后一句"憋不出来" | ✅ **砍掉是对的**（"提高出生率"属结论引入新内容） | — |
 
-**③ 教练给的更好版本**
-- `A case in point is China, where students leave school before 4 pm on workdays — far earlier than most parents finish work`（一句解决粘连+主语+比较级）
-- `combined with pension payments, this places significant financial strain on governments`
-- `the young workforce keeps shrinking as the older population grows`
-- `leaves governments with no choice but to act against the interests of the general public`
-- **allow sb to / enable sb to / leave sb with** ← 替换 `make sb have` 的三个动词（她会的）
+**③ 教练给的更好版本**（⚠️ 全部可否决）
+| E | 中文触发点 | 她的 floor | 更好版本 | streak |
+|---|---|---|---|---|
+| E-025 | 祖父母经常帮年轻父母带孩子 | more or less help | **often** help | 0 |
+| E-026 | 这个政策在工人中很不受欢迎 | Almost all the workers don't like it | The policy **proved** very unpopular among workers | 0 |
+| E-027 | 另一方面（承接 On the one hand） | At the same time | **On the other hand** | 0 |
+| E-028 | 政策把退休年龄从 60 提到 65 | delays the retirement age | **raised** the retirement age | 0 |
 
-**✅ 做对了、要保住的**
-- `imposes ... on`（两次都对）· `the elderly demand`（复数主谓，难点判对）· 三个段尾都有回扣句且措辞各不相同 · 284 词落在 270–290 目标区 · **零拼写错**
-
-
----
-
-## 7. 她的自我诊断（2026-08-09，她本人写，逐条保留）
-
-> 这一节是**她自己的判断**，不是教练推导的。后续所有训练方向的纠偏都以这里为准，与实练数据对照更新。
-
-### 7.1 她列的三个问题（原文要点）
-
-**① 内容会卡** —— "需要我们累计和练习套路，我基本发现雅思的话题还是比较局限的"
-→ 训练含义：话题域有限 ⇒ **可以靠积累套路和素材覆盖**。同题反复 + 素材跨题复用是对路的。
-
-**② 语言方面更突出**（她认为这是主战场）
-- 错误的语法结构 —— **"但是这个不是学习的目的，语法是辅助，应该学，但是目的是写出正确且地道的英语"**
-- 错误的词组 —— **"应该词组不会，所以去硬编，大概率是错的"**
-- 没法多样性表达（句型、词组、含义）
-- 需要**稍微丰富**的句型 —— "不需要太复杂，但要有一些"
-- **"其实大部分问题和口语一样的（只是偏向不沟通）"**
-- **"主动输出能力太差（阅读 8.5，口语 5，写作 5.5）"**
-
-→ 训练含义（教练必须遵守）：
-- ❌ 不做纯语法讲解课。语法只在**改她自己的句子**时出现，且必须落到"这句怎么写才对且自然"。
-- ✅ **硬编是缺口的症状不是坏习惯** → 两条腿：遇到没把握的表达**降级成会的说法**（100% 规则）+ **把高频话题词组变成真存货**。
-- ✅ 句型目标是"**稍微丰富**"，不是复杂。校准库里 Band 7/7.5 的语言全是平的，且考官明确扣过 "unnecessarily complex structures"。
-- ✅ **写作口语同源** → 素材/句型双向复用，别当两条独立的线练。
-
-**③ 错别词太多** —— "这个属于我个人的问题，我写中文也很多错词，这点扣分应该挺多的"
-- 她的诉求：**"可以投入更多精力在这方面自动纠错，并且越熟练就越不容易错"**
-- 🔴 **"这个光靠所谓的细心不太可能，或者说细心需要培养的时间周期更长"**
-
-→ 训练含义：**"交前仔细检查"不是解法**（见 §4 的降级说明）。解法是 ① 降负荷 ② 高频错词滚到自动。
-→ 且这是**跨语言的个人特征**（中文也错字多），所以要按"稳定存在的约束"来设计，不要指望它消失。
-
-### 7.2 ⭐ 中文内容测试（2026-08-09，方法本身值得保留）
-
-**做法**：同一道题（T2-18 老龄化 outweigh），**她先用中文写完整内容**，教练只评内容不评语言。
-**目的**：把「构思层」和「语言层」分离，判断 TR 到底丢在哪一环。
-
-**结果 —— 构思层站得住**：
-- ✅ 立场清楚且全程一致（校准库里 LR7/GRA7 掉到 5.0 的那篇就是死在自相矛盾）
-- ✅ outweigh 题型的让步结构正确
-- ✅ **两个例子具体、真实、可想象**：小学 4 点放学 vs 下班 7–9 点；退休年龄 60→65。这是 `anchors.md §8` 里 Band 8 那一档的例子质感
-- ✅ Body2 是机制链不是清单（医疗+退休金→财政压力→钱来自年轻劳动者→劳动人口下降→恶化）
-
-**内容层真问题（4 条，下次同题重写要修）**：
-1. 🔴 **Body1 第一个论点偷换概念** —— "各行业专家往往年纪较大、经验丰富"说的是**在职资深专家（45–60）**，不是题目问的 **ageing population（退休人口）**。整个论点不切题。
-2. **Body1 例子缺一环** —— 4 点放学 vs 7 点下班只证明了"需求缺口存在"，没证明"祖父母确实填补了它"，也没落到对社会的净收益。
-3. **结论引入新内容** —— "提高出生率"正文一次没提。考官原话：`don't include any new information in a conclusion`。
-4. **绝对化表述** —— "没有人喜欢这个政策"。考官原话：`pay attention to your use of assertive statements`。
-（另：Body1 收尾只是重述，outweigh 题的让步段收尾最好带转向信号。）
-
-**🔑 由此确立的结论**：
-**她的 TR 损失发生在「中文→英文」这一环，不在「想内容」这一环。**
-→ 所以修 TR 的方法**不是**教她想内容/给她论点库，**而是**让已有的内容准确地活着到达英文。
-→ 这与她自己说的"主动输出能力太差（阅读 8.5 / 口语 5 / 写作 5.5）"完全吻合。
-
-**方法保留**：以后遇到"这题她到底是没想法还是写不出来"的疑问，就跑一次中文内容测试。
-
-### 7.3 她的目标（她本人定，别自作主张往上加）
-- **写作 6.5 · 口语 6**
-- 她认为**口语挑战更大**，但两者相辅相成：**"很多口语用的素材来自写作"**、**"因为我写作要求不高，所以很多写作的句型，口语中也能用"**
-→ 教练含义：写作出的句型/素材要**主动标记哪些可以搬去口语**；两科共用一个素材池。
-
+**✅ 做对了、要保住的**（不入复习，只留痕）
+`imposes ... on` 两次都对 · `the elderly demand` 复数主谓判对 · 三个段尾回扣句措辞各不相同 · 284 词落在目标区 · **零拼写错**
 
 ---
 
