@@ -207,7 +207,7 @@
 | B10 | **-ing vs -ed 形容词**：-ing 描述东西（relaxing/boring）· -ed 描述人（relaxed/bored）。`I feel relaxed` ≠ `It feels relaxing` | "看到儿子我就放松了" / "这部电影很无聊，我看得很无聊" | 轮35 |
 | B11 | **预制块的情态/副词是功能核心**（could/never/really/fast），省了块就退化成事实句 | "我能天天吃火锅" vs "我每天吃火锅" | 轮34 |
 
-| B12 | **`X makes me …` 盖住整个评价槽**（实义动词，非 is；她轮3 用过=休眠资产） | "和他一起很高兴" / "这让我忘了工作" / "这两小时让一整天都值了" | 轮38 |
+| B12 | **`X makes me …` 盖住整个评价槽**（实义动词，非 is；她轮3 用过=休眠资产）。<br>参考对照（不出题）："和他一起很高兴" `Being with him makes me happy.` ／ "这让我忘了工作" `It makes me forget about work.` | "这两小时让一整天都值了" | 轮38（08-11 三题面收成一条：三句测的是同一个考点，按定义3d 一号一题面；留 08-10 答错的那句） |
 | B13 | **不指望"边说边想"**：英文产出吃满带宽，生成与产出抢带宽 → **答案第3、4句必须预先备好** | 给任一 P1 题，先写下第3、4句再开口 | 轮38 |
 
 | B14 | **"不确定"会误报**：说不出来→跳车；**说出来了但不确定→继续说别停**（停下核对的代价 >> 说错一个词） | 回想今天哪句你怀疑过但其实是对的 | 轮41 |
@@ -234,7 +234,8 @@
 
 | B29 | **三步主干**：①定位+答案（答案不能拖到第三句）②具体画面 ③换角度。工具挂在三步下面，不卡不调 | 任给 P1/P3 题，走三步 | 轮128 |
 | B30 | **补充信息必须挂回主句**（破折号／逗号／and／逗号+which），别把短语从句当整句甩出去 | "…on the balcony — it only takes a few minutes" | 轮130 |
-| B31 | **grow vs grow up**（grow up 只用于人长大成人）· **shop 不及物**（buys/does her shopping） | "看着植物长" / "我老婆什么都网购" | 轮131 |
+| B31a | **grow vs grow up**（grow up 只用于人长大成人；植物/数字用 grow）<br>△ 08-10 遗留：她 `watch these plants growing` 动词对了，但"一天天"那层没出来 → `grow a bit every day` | "看着这些植物一天天长" | 轮131（08-11 从 B31 拆号） |
+| B31b | **shop 不及物**（she buys everything online ／ does her shopping online，不说 shops everything） | "我老婆什么都网购" | 轮131（08-11 从 B31 拆号） |
 | B32 | **no questions asked**（七天无理由退货）；for no reason=莫名其妙，两码事 | "七天无理由退货" | 轮131 |
 
 | B33 | **P3 硬料要泛化**：内容不变，主语从"我家"换成泛指（From our place → From high enough up）。三步主干 P1/P3 结构相同，只差第②步人称 | "从高处能看见整个城市" 用 P3 说法 | 轮133 |
@@ -247,7 +248,7 @@
 | B39 | **让某人做某事四件套**：get sb TO do（只有它带to）／have sb DO／make sb DO／let sb DO | "老师应该让学生自己试" / "别逼孩子背" / "让他们提问" / "安排他们两人一组" | 轮142 |
 | B40 | **talk AT sb（单向灌输）vs talk TO sb（双向）**；pay 搭配窄（钱/注意力/代价），时间精力用 put…into | "有些老师就是对着你讲一小时" / "老师该多花精力备课" | 轮140–141 |
 
-| B41 | **论元完整（判定已落地：primed 8/8 但 20 分钟后 cold 即掉 `spend a whole day meeting___` → 产出时掉，非知识缺口。修法只有块化）**：中文可单说的动词，英文必须带宾语/补语。focus on **my work** ／ a mix **of both** ／ goes to **them** ／ can even **see** the mountains | "上班很难专心" / "各一半最理想" / "我朋友常去" | 轮147 |
+| B41 | **论元完整（判定已落地：primed 8/8 但 20 分钟后 cold 即掉 `spend a whole day meeting___` → 产出时掉，非知识缺口。修法只有块化）**：中文可单说的动词，英文必须带宾语/补语。focus on **my work** ／ a mix **of both** ／ goes to **them** ／ can even **see** the mountains。<br>参考对照（不出题）：a mix **of both** ／ goes to **them** | "上班很难专心" | 轮147（08-11 收成一条题面：三句同一考点；"各一半最理想"与 B43 撞车，一并撤下） |
 | B42 | **分数说法**：a half / a third / a quarter / a tenth / two thirds | "原价的一半，甚至十分之一" | 轮150 |
 | B43 | **泛指的不对称**：`the countryside` 泛指永远带 the；`the city` 带 the = 某座具体城市，泛指用 `city life`。→ 并列两边"泛指程度"也要同形 | 说"城乡各一半最理想" | 08-04下 |
 | B44 | **often ＝ 经常（频次高）**。<br>⚠️ 08-11 曾被并入 B188 并停用，同日撤销——历史 📊 里出现过的号不许作废（停用＝变相删条目）。<br>改为**与 B188 题面互斥**：**B44 只测 often**，usually 归 B188，两号各走各的 streak | "我朋友经常去那家店" | 08-04下（08-11 撤销停用） |
@@ -257,14 +258,15 @@
 | B48 | **litter 不可数**（v. litter / drop litter）＋ **fine sb FOR doing sth** ＋ `It's no use doing`（不用 of no use，老式） | "罚款对乱扔垃圾没什么用" | 08-04下 |
 | B49 | **★ 比较题必须说出另一边**（段落层的比较对象补齐）：prefer A = 比 B；答案里 B 一次不出现 = 逻辑缺口 | "为什么有人喜欢一个人工作" | 08-04下 |
 | B50 | **the credit gets shared**（团队里功劳被分摊）＋ `nobody knows which part was yours` | "团队里显不出你自己" | 08-04下 |
-| B51 | **名词表语（评价槽升级）**：It's no use doing／a waste of time／a pain／a hassle／a nightmare／no big deal ＝两种结构都行；**a must／a plus 只走 `X is a must`** | "后悔也没用" / "英语是必备的" / "会日语是加分项" | 08-04下 |
+| B51 | **名词表语（评价槽升级）**：It's no use doing／a waste of time／a pain／a hassle／a nightmare／no big deal ＝两种结构都行；**a must／a plus 只走 `X is a must`**。<br>参考对照（不出题）："后悔也没用" `There's no point regretting it.` ／ "英语是必备的" `English is a must.` | "会日语是加分项" | 08-04下（08-11 收成一条题面，留 a plus 那句——三句同一考点） |
 | B52 | **今日"更好的版本"补录**（按 08-04 新规矩：教练给的天花板也要复习，之前只写进逐轮记录漏掉了）：<br>① `You just get more done at home.`（用画面替掉 more efficient）<br>② `You don't have to sit in meetings all day.`（sit in meetings 比 spend a day in meetings 更活）<br>③ `Say you fix something the whole team has been stuck on.`（Say you… ＝举例起手，替 For example）<br>④ `explain YOURSELF to anyone`（解释自己的行为）<br>⑤ `There's no point regretting it now.`（比 It's no use 更常用）<br>⑥ `On a clear day you can even see the mountains.`（on a clear day 替 if it's clear） | 中译英测这六句 | 08-04下 |
 
 | B53 | **in pairs（两人一组）≠ in groups（小组）**；行业/领域说 `in this line of work` ／ `in this field`，**不说 in this work** | "在这一行英语是必备的" / "老师让学生分小组" | 08-04下 |
 | B54 | **★ 禁双重否定**：nobody / nothing / never / no one 已含否定，后面动词一律**肯定**。中文"没人能做到"的"没"只映射一次 | "尤其是别人都做不到的时候" / "没人愿意加班" | 08-05 |
 | B55 | **all morning / all day / all night 不带 the**（all THE morning ❌） | "我一上午都在开会" | 08-05 |
 | B56 | **everyday（形容词，日常的）≠ every day（副词短语，每天）** | "每天通勤特别折腾" | 08-05 |
-| B57 | **sing along**（跟着唱）· **feel the energy in the room**<br>⚠️ 08-06 更正档位：`feel the energy live` **别扭但不算语法错**，教练上一版说重了。<br>判据：**live 当副词只修饰"这东西是怎么呈现给你的"**（现场 vs 录播）——saw them live／broadcast live／only get that energy live ✅；修饰"你的感受"时不用它 | "全场跟着歌手一起唱" / "现场那种劲儿只有到场才有" | 08-05 |
+| B57a | **sing along**（跟着唱） | "全场跟着歌手一起唱" | 08-05（08-11 从 B57 拆号） |
+| B57b | **feel the energy in the room** ＋ **live 当副词**<br>⚠️ 08-06 更正档位：`feel the energy live` **别扭但不算语法错**，教练上一版说重了。<br>判据：**live 当副词只修饰"这东西是怎么呈现给你的"**（现场 vs 录播）——saw them live／broadcast live／only get that energy live ✅；修饰"你的感受"时不用它 | "现场那种劲儿只有到场才有" | 08-05（08-11 从 B57 拆号） |
 | B58 | **惯用定冠词，不按泛指-特指走**：the TV / the radio / the cinema / the doctor / the phone | "他整晚坐在电视机前" / "我得去看医生" | 08-05 |
 | B59 | **删掉自我对冲的 a bit**：对比句里 `a bit lonely` / `a bit fragile` 把论点削软了，对比要给足 | "在家看就冷清多了" | 08-05 |
 | B60 | **time and energy**（不是 energy and time）· **prepare for class / prepare their lessons**（不是 preparing classes）· class 泛指不可数不带冠词（before class / in class）<br>⚠️ 08-06 更正档位：`energy and time` **不是语法错，是固定并列词序不地道**（binomial）；`preparing classes` 才是真搭配错。<br>规律：**短的在前长的在后** —— time and energy／time and money／black and white／cause and effect／sooner or later／salt and pepper | "老师该多花时间精力备课" | 08-05 |
@@ -280,12 +282,13 @@
 | B70 | **work 不可数 ＝ 活儿/工作这件事**（I need work＝我需要有活干）；说"这份工作"用 **my job** | "我需要这份工作" | 08-05 |
 | B71 | **一句里人称不能跳**：`I like cooking, because YOU follow the steps` → 统一成 I 或统一成 you | "我喜欢做饭，因为一步步来最后有东西拿得出手" | 08-05 |
 | B72 | **eat out ＝ 出去下馆子**（不是"吃完"）；"十分钟就吃完了" → `it's gone in ten minutes` | "做两小时，十分钟就吃完了" | 08-05 |
-| B73 | **★ convenient 后面只能跟【人】**（08-10 三次数据后精确化）：<br>✅ `It's convenient FOR ME.` ／ `Shopping online is convenient for working people.`（08-07 她用对的那次）<br>❌ `convenient TO FIND`（后面是动作）／`convenient FOR THE NEXT USE`（后面是用途）<br>⇒ "下次好找" 一律用 **easier**：`makes it easier to find things next time`<br>（与写作 `makes few people convenient` 同源；累计错→对→错三次） | "东西放回去下次好找" / "网购对上班族很方便" | 08-05（08-10 精确化） |
+| B73 | **★ convenient 后面只能跟【人】**（08-10 三次数据后精确化）：<br>✅ `It's convenient FOR ME.` ／ `Shopping online is convenient for working people.`（08-07 她用对的那次）<br>❌ `convenient TO FIND`（后面是动作）／`convenient FOR THE NEXT USE`（后面是用途）<br>⇒ "下次好找" 一律用 **easier**：`makes it easier to find things next time`<br>（与写作 `makes few people convenient` 同源；累计错→对→错三次）<br>参考对照（不出题）："网购对上班族很方便" `Shopping online is convenient for working people.` ← 后面是人，合法 | "东西放回去下次好找" | 08-05（08-10 精确化；08-11 收成一条题面，留她错的那侧） |
 | B74 | **put sth away ＝ 收起来**（收玩具/收衣服）；clean up ＝ 打扫脏东西。呼应块 `kids will do the same` | "孩子玩完把玩具收回去" | 08-05 |
 | B75 | **去掉 `X is important` 的壳**：把 X 里的动作提上来当谓语。`Explaining why … is important` → `Parents should also explain why it matters.` | "跟孩子讲清为什么也很重要" | 08-05 |
-| B114 | **rather than 的三种形式**：①两边是同句的两个谓语动词→必须同形（helps…rather than replaces）②rather than 领独立短语、尤其句首→用 -ing（Rather than taking the bus, I walked）③前面是 to do→后面省 to 用原形（decided to walk rather than take the bus）<br>★ ⚠️ `helps you rather than replacing you` **可接受**（按②），只是平行版更稳 | "它是帮你，不是取代你" / "与其坐公交，我走路" | 08-06 |
+| B114a | **rather than 两边是同句的两个谓语动词 → 必须同形**（helps…rather than replaces）<br>★ ⚠️ `helps you rather than replacing you` **可接受**，只是平行版更稳 | "它是帮你，不是取代你" | 08-06（08-11 从 B114 拆号） |
+| B114b | **rather than 领独立短语、尤其句首 → 用 -ing**（Rather than taking the bus, I walked）；**前面是 to do → 后面省 to 用原形**（decided to walk rather than take the bus） | "与其坐公交，我走路" | 08-06（08-11 从 B114 拆号） |
 | B189 | **keep an eye ON sth**（盯着某物，固定搭配）：`keep one eye ON the future and one ON the present`（不是 put…in） | "我出去一下，帮我看着点行李" | 08-10（08-11 改题面：原题面与 B186 逐字撞车，两条测的不是同一点——B186 测整句说法、B189 测介词 on，按 0.2 改题面不删条目）|
-| B187 | **kind of / sort of / type of ＋ 单数名词，不带冠词**：`what kind of city` ✅／`what kind of a city` ❌；What kind of car do you drive? | "什么样的城市适合住" | 08-10 |
+| B187 | **kind of / sort of / type of ＋ 单数名词，不带冠词**：`what kind of city` ✅／`what kind of a city` ❌ | "你开的是什么车？" | 08-10（08-11 改题面：原题面与 B174 逐字撞车，且"适合住"是 B174 的考点；新题面只测 kind of ＋单数无冠词） |
 | B188 | **usually ＝ 通常情况下**（08-11 撤销与 B44 的合并，改为题面互斥：**B44 测 often，本号只测 usually**）。<br>参考对照（不单独出题）：often＝经常 ／ always＝总是。<br>**⚠️ 08-11 修订边界**：`always ＋ 习惯动词` 在英语里是常见夸张，等于"老是说/常说"，**不算错**（My grandma always says…）。三档只在**需要精确频率**时才分。<br>★ 真正要盯的是 **often vs usually**（她误用 usually 三次）：经常＝often／通常情况下＝usually | "我朋友经常去那家店" / "我通常七点起床" | 08-04＋08-10（08-11 合并修订） |
 | B183 | ⭐ **a mixed bag**（好坏参半，她自产）：`It's a bit of a mixed bag.` —— 二选一题的"都有"型开头 | "这事儿好坏参半" | 08-09 |
 | B184 | **move on ＝翻篇/从过去走出来**（Let's move on）≠ **move forward ＝往前进、有进展**：`Ambition can keep you moving forward.` | "野心能让人一直往前走" | 08-09 |
@@ -300,11 +303,16 @@
 | B176 | **说"两类/三类"时，每类要用复数**：`two kinds — the fun ONES and the useful ONES`（每类里不止一个，不是 the fun one） | "就两类，好玩的和有用的" | 08-09 |
 | B173 | **without ＝ with no，不能叠**：`a job WITH NO overtime` ✅／`a job WITHOUT overtime` ✅／`without no overtime` ❌（极性第 4 次，多一个否定） | "我没法一天不看手机" | 08-09（08-11 改题面：08-10 记 ◎，原题面 with no / reasonable hours 都能答对，逼不出 without；新题面结构上只能走 without）|
 | B174 | **"什么样的" ＝ what kind of / what makes…**（不是 which——which 是从确定范围里挑）；**"适合住" ＝ good to live in / a good place to live**（fit living ❌） | "什么样的城市适合住" | 08-09 |
-| B192 | **enough X to go round ＝ 够分**（强调"每个人都有一份"）：`There aren't enough jobs to go round.` ／ `not enough chairs to go round`。<br>★ go round 只在跟 enough 连用时是这个义项，整块记；美式 go around | "岗位不够分" / "椅子不够坐" | 08-10 |
-| B191 | **jammed / gridlocked ＝ 车堵**（the roads jam up · traffic is gridlocked）；**packed ＝ 人多**（a packed train · the bar was packed） | "路上堵死了" / "地铁里人挤人" | 08-10 |
+| B192 | **enough X to go round ＝ 够分**（强调"每个人都有一份"）：`There aren't enough jobs to go round.` ／ `not enough chairs to go round`。<br>★ go round 只在跟 enough 连用时是这个义项，整块记；美式 go around。<br>参考对照（不出题）："椅子不够坐" `not enough chairs to go round` | "岗位不够分" | 08-10（08-11 收成一条题面） |
+| B191a | **jammed / gridlocked ＝ 车堵**（the roads jam up · traffic is gridlocked） | "一出事故，整条环路全堵死了，一动不动" | 08-10（08-11 从 B191 拆号；同日改题面：原"路上堵死了"她合法答成 the traffic is heavy，记 ◎ —— 新题面必须逼出"完全不动"那一档） |
+| B191b | **packed ＝ 人多**（a packed train · the bar was packed） | "地铁里人挤人" | 08-10（08-11 从 B191 拆号） |
 | B190 | **★★ 后置修饰的【共享诊断动作】（08-11 建，08-11 当天修正定位）**<br>**把名词放回从句里念一遍，缺什么补什么。**<br>⚠️ **它不是一个条目，是 B175 和 B164 共用的一个动作。B175/B164 各自独立计分，不合并**<br>（08-11 审计新违规#1：合并会让两条永远拿不到自己的连击；而且它们是两条不同规则——<br>一条管介词、一条管关系词——只是诊断手法相同）<br>★ 测法：**必须用全新名词 ＋ 包在有内容的整句里**，不许孤立造短语（08-10 已证孤立测更差）<br>★ 出题时：B175 和 B164 **各出各的题**，不许一题测两条 | 不单独出题；作为 B175/B164 的共享判据使用 | 08-11 |
-| B175 | **不定式后置修饰，介词默认留在末尾**（还原成完整句看挂什么介词）：a chair to sit **ON** · a pen to write **WITH** · a topic to talk **ABOUT** · a house to live **IN**。<br>例外：place / somewhere / anywhere 吸收介词可省 —— a good **place** to live ✅ ／ a good **city** to live **IN** ✅<br>★ 共享判据见 B190；测法必须全新名词＋整句 | "我给他找了张纸写字" / "借我把刀切水果" | 08-07 |
-| B171 | **★★ "动词＋小品词"三词短语必须成组学（她已混三次）**：<br>将就 **make do with** ／ **别废话接着干 get on with it**（08-10 修：原写"埋头干"有歧义）／ **埋头钻研 bury yourself in** ／ 照顾 **look after** ／ 追求 **be after** ／ **寻找 look for**（≠ look up＝查资料）／ 应付得来 **get by** ／ 卡住 **stuck on** vs 被迫接受 **stuck with**。<br>记忆抓手：make do ＝ make it do（让它顶用）· get on ＝ 继续往前走 | ①"没有筷子，我就拿勺子凑合了一下" ②"他没多废话，直接接着干" ③"他整个周末都埋在那些资料里" ④"周末我妈帮我照顾孩子" ⑤"他要的不是钱，是个名声" ⑥"他在找一份离家近的工作" ⑦"我英语不算好，但日常应付得来" ⑧"我在第三题上卡住了" ⑨"分组的时候我跟他一组，甩都甩不掉" | 08-09（08-11 拆题面：原来一条题面塞 7 个触发词，违反"一题=一个考点"；现 9 条题面 = 9 题）|
+| B175 | **不定式后置修饰，介词默认留在末尾**（还原成完整句看挂什么介词）：a chair to sit **ON** · a pen to write **WITH** · a topic to talk **ABOUT** · a house to live **IN**。<br>例外：place / somewhere / anywhere 吸收介词可省 —— a good **place** to live ✅ ／ a good **city** to live **IN** ✅<br>★ 共享判据见 B190；测法必须全新名词＋整句 | "我需要个盒子，把这些东西装起来" | 08-07（08-11 改题面：B190 要求全新名词＋整句，纸/刀两句已用过两轮；box 是新名词，且中文不含介词提示） |
+| B171a | **将就 make do with**（记忆抓手：make do ＝ make it do，让它顶用） | "没有筷子，我就拿勺子凑合了一下" | 08-09（08-11 从 B171 拆号） |
+| B171d | **照顾 look after sb** | "周末我妈帮我照顾孩子" | 08-09（08-11 从 B171 拆号） |
+| B171f | **寻找 look for sth**（≠ look up ＝ 查资料） | "他在找一份离家近的工作" | 08-09（08-11 从 B171 拆号） |
+| B171g | **应付得来 get by** | "我英语不算好，但日常应付得来" | 08-09（08-11 从 B171 拆号） |
+| B171※ | **★ B171 原来一条塞 9 个短语，08-11 拆号。其中 5 个已经是别的号的考点，题面归属如下，本号不再出题（不是删条目，是题面互斥，见 §0.2 第二步）**：<br>别废话接着干 get on with it → **B141** ／ 埋头钻研 bury yourself in → **B181** ／ 追求 be after → **B162** ／ 卡住 stuck on → **B117b** ／ 被迫接受 stuck with → **B117c**<br>记忆抓手保留：get on ＝ 继续往前走 | 不出题（题面已分给上列各号） | 08-11 |
 | B172 | **complain 不及物**：`complaining about it` ✅／`complaining` ✅（整体省掉）／`complaining it` ❌（不能只省 about） | "与其抱怨，他直接就干了"（两种说法） | 08-09 |
 | B163 | **★ 否定辖域陷阱**：`with no overtime and stability` 会被读成 with no [overtime and stability]（意思反了）。<br>解法A（推荐）**换成正面名词**：reasonable hours and job security ／ 解法B 拆成两句 | "我想要一份不加班又稳定的工作" | 08-08 |
 | B164 | **关系词选择：把先行词放回从句，看需要什么介词**（you can balance work and life IN this job → in which → **where**）。job／situation／case／kind 这类抽象"场所"一律 **where**（the kind of job **WHERE** you work till 10）；口语最省是绕开：`a job THAT LETS YOU balance work and life`<br>★ 共享判据见 B190；**与 B175 各出各的题，不合并**（08-11 撤销了当天的误合并） | "他那种工作根本没有周末" / "一份能让你平衡工作和生活的工作" | 08-08 |
@@ -315,7 +323,9 @@
 | B169 | **关系代词做宾语可省，做主语不可省**：the book (that) I read ✅可省 ／ the book THAT changed my life ❌不可省。<br>**并列两个定语从句时 that 不能共用**（一个当宾语一个当主语，角色不同）。口语最佳：`subjects we actually use later, or ONES THAT come up everywhere` | "学以后真用得上的、或者到处都会碰到的科目" | 08-08 |
 | B170 | **clear ≠ clean**：clear＝清澈/无遮挡（a clear sky）· clean＝干净无污染（clean air） | "空气干净" / "天很晴" | 08-08 |
 | B162 | **look after / be after / look for 三个形近词组，意思完全不同**：look after sb＝照顾 · **be after sth＝追求想要**（They're after a bit of peace and quiet）· look for sth＝寻找。<br>另：**peace and quiet** 是固定搭配（说"清静"用它，不用 inner peace）；**light sleeper**（睡眠浅） | "老年人就想图个清静" / "他睡觉很浅" | 08-08 |
-| B161 | **★ 肯定句限制词族**：**裸用的 much / for long / far 只用于否定句和疑问句**；肯定句换成 **a lot of ／ a long time ／ a long way**。<br>✅ I don't have much time／Do you have much time?　❌ I have much time.<br>**⚠️ 08-11 修订（原词条写成绝对规则，会误判）：被程度副词修饰后，肯定句完全合法** ——<br>so much／too much／how much ✅ · **really far／pretty far／so far／too far ✅**（I ran really far today.）<br>★ 只有**裸 far**（I walked far ❌）才必须换 a long way | "我在化学上花了很多时间" / "我等了很久" / "我走了很远" | 08-08（08-11 修订；同日删掉题面里的"（裸用）"标注——那是考点提示，不该出现在题面上）|
+| B161a | **肯定句里的 much**：裸 much 只用于否定/疑问；肯定句换 **a lot of**。✅ I don't have much time／Do you have much time?　❌ I have much time.<br>**⚠️ 被程度副词修饰后肯定句合法**：so much／too much／how much ✅ | "我在化学上花了很多时间" | 08-08（08-11 从 B161 拆号；继承 08-09/08-10 两次 ❌ 的连错基线——那两次错的就是这一族） |
+| B161b | **肯定句里的 for long**：肯定句换 **a long time**。✅ I didn't wait for long ／ ❌ I waited for long → I waited a long time | "我等了很久" | 08-08（08-11 从 B161 拆号，同上继承连错基线） |
+| B161c | **肯定句里的 far**：**裸 far**（I walked far ❌）必须换 **a long way**；★ 被程度副词修饰后完全合法：really far／pretty far／so far／too far ✅（I ran really far today.） | "我走了很远" | 08-08（08-11 从 B161 拆号，同上继承连错基线） |
 | B159 | **actually 的位置**：修饰整句时＝**be 动词后／实义动词前**（It's actually cheap／I actually forgot）；**嵌入从句里卡在主语和动词之间**（how tall a T-rex **actually was**） | "他终于看到霸王龙到底有多高" | 08-08 |
 | B160 | **★ 差异题的解法（操作）**：不是找相似点，是**找一根共同的尺子，说两边各在哪一端**。<br>万能尺子：主动 vs 被动 · 一个人 vs 一群人 · 快 vs 慢 · 花钱多少 · 靠想象 vs 靠感官 · 深 vs 广 · 当时 vs 之后。<br>**比较觉得空 → 加一个使用场景**（"为了什么去选"），可以自己加进答案里，是加分不是绕开 | 任给一道 "What are the differences between A and B?" | 08-08 |
 | B157 | **-ed / -ing 形容词**：**说人的感受用 -ed，说东西的性质用 -ing/-y**。I'm scared ／ It's scary · I'm bored ／ It's boring · I'm interested ／ It's interesting · I'm excited ／ It's exciting | "这有点吓人" / "我有点怕" / "这课真无聊" | 08-08 |
@@ -323,8 +333,9 @@
 | B155 | **and 接第二个谓语时，否定必须带助动词**：`Someone runs a red light and DOESN'T GET fined`（不是 and not get）。原形否定 not do 只用于 `to not do` 或祈使句 | "有人闯红灯还不用罚款" | 08-08 |
 | B156 | **上班族 ＝ working people ／ office workers ／ people with full-time jobs**（她本来就写对了）；**traffic management 抽象不可数不带 the**（the traffic 才带） | "网购对上班族很方便" / "交通管理主要看两件事" | 08-08 |
 | B153 | **-ing 短语省主语的硬条件：逻辑主语必须＝主句主语**。`Children put their toys away after playing with them.` ✅（playing 的主语是 children）／`After playing, I put the toys away.` ❌（变成"我玩完"）——即「理解侧冗余」第 3 条 | "孩子玩完把玩具收起来" / "孩子玩完之后我把玩具收了" | 08-08 |
-| B154 | **东西不会自己 leave**：`His things ARE all over the floor.`（东西当主语用 be）／`He LEAVES his things all over the floor.`（人当主语用 leave） | "他东西乱丢一地" | 08-08 |
-| B152 | **原形＝过去式的一小撮动词**：put · cut · hit · let · set · cost · hurt · shut · spread · read（read 拼写不变但读 /red/）。**不在这撮里的必须变形**：sit→sat／sing→sang／take→took。<br>★ 起因：她问"如果 sit 是过去时是不是就没问题"——思路对（该句无时间标记，现在时/过去时都能说），但 sit 的过去式是 sat | "他昨晚把东西放桌上了" / "他整晚坐在电视机前" | 08-08 |
+| B154 | **东西不会自己 leave**：`His things ARE all over the floor.`（东西当主语用 be）／`He LEAVES his things all over the floor.`（人当主语用 leave） | "他那些东西一地都是"（东西当主语） | 08-08（08-11 改题面：原"他东西乱丢一地"与 B97 leave a mess 逐字撞车；新题面把东西放主语位，只有 be 版能答） |
+| B152a | **原形＝过去式的一小撮动词**：put · cut · hit · let · set · cost · hurt · shut · spread · read（read 拼写不变但读 /red/） | "他昨晚把东西放桌上了" | 08-08（08-11 从 B152 拆号） |
+| B152b | **不在那一小撮里的必须变形**：sit→sat／sing→sang／take→took<br>★ 起因：她问"如果 sit 是过去时是不是就没问题"——思路对（该句无时间标记，现在/过去都能说），但 sit 的过去式是 sat | "他昨晚一直坐在沙发上" | 08-08（08-11 从 B152 拆号；改题面避开 B58 的 the TV） |
 | B149 | **★ 压缩出来的形容词，两个固定出口**（她卡在"形容词有了组不进句子"）：<br>**出口A 做表语（最省，只要一个 be）**`The trains are packed.`／`The traffic is heavy.`<br>出口B 做定语（要现找动词）`You get on a packed train every morning.`<br>★ 卡住时先走出口 A | "地铁里人挤人" / "路上堵得一动不动" | 08-08 |
 | B150 | **功能上线 ＝ go live / be released / be coming out**（不用 be on；be on ＝正在上演、开着：The film is on） | "这个功能下个月上线" | 08-08 |
 | B151 | **完成进行时 ＝ have been ＋ -ing**（I've been workING，不是 I've been work） | "我在这家公司干了五年了" | 08-08 |
@@ -335,13 +346,13 @@
 | B145 | **there was A PROMOTION**（要名词，不是 promoting） | "商品页上有个促销" | 08-08 |
 | B146 | **★ 直接疑问句 vs 嵌入疑问句的边界**：**前面有没有主句？没有 → 助动词＋疑问语序**（What did you eat? / How wide should it be?）；**有 → 陈述语序**（I don't know what you ate / think about how wide it needs to be）。★ B82 的边界，她曾过度泛化 | "你昨天吃的什么？" / "我不知道你昨天吃了什么" | 08-08 |
 | B147 | **★ 完成时的三个触发（只看中文标记，不判断语义）**：①for/since「…了多久」②ever/never/before「…过」③just/already/yet「已经/刚/还没」。<br>**边界**：句中出现具体时间点（yesterday／last year／three years ago／in 2020）→ **必须过去式**。<br>对照：`stopped making them years ago` ✅ 过去式 ／ `haven't been made for years` ✅ 完成时 | "我在这儿住了十年了" vs "我去年住这儿" | 08-08 |
-| B148 | ⚠️ **极性（第 3 次，升为关注项）**：否定别丢、别多。08-04 `In contrast…CAN show`（该 can't）／08-05 `nobody else CAN'T`（多一个）／08-08 `this thing HAVE been made`（该 hasn't）——三次方向都不同 | "这东西早就没人做了" / "尤其是别人都做不到的时候" | 08-08 |
+| B148 | ⚠️ **极性（第 3 次，升为关注项）**：否定别丢、别多。08-04 `In contrast…CAN show`（该 can't）／08-05 `nobody else CAN'T`（多一个）／08-08 `this thing HAVE been made`（该 hasn't）——三次方向都不同。<br>本号只测**否定别丢**；**否定别多**（双重否定）归 **B54**，两号题面互斥 | "这东西早就没人做了" | 08-08（08-11 收成一条题面：第二条与 B54 逐字撞车） |
 | B140 | **★ 二选一/趋势题的三种答法（操作，做出来测）**：a.分人群/分场景（工作日 vs 周末）b.**分偏好和行为**（想在家吃，实际在外吃）c.选一边＋给条件。<br>**矛盾不是障碍，矛盾就是答案**；没数据不影响，用 `I'd say / Most people I know / From what I see / Around here` 缩小范围。<br>⚠️ 开头连说两句"我不知道"＝真失分，`It's a tough one` 说一次就必须给立场 | 任给一道 "Do people prefer A or B?" | 08-07 |
 | B137 | **I'd SAY**（＝I would say，我觉得）不是 I'd said；**"主要就是…"的四条路径**：It mainly comes down to X ／ The main thing is X ／ It's mostly about X ／ What really helps is X | "我觉得主要就是钱的问题"（四种说法各说一次） | 08-07 |
 | B138 | **go ON a trip / take a trip / plan a trip**（不是 go to a trip）；旅行住哪儿用 **where to STAY**（live 是长期居住） | "要出去玩的话，可以先查查住哪儿" | 08-07 |
 | B139 | **consider sth**（及物，不带 about）／ think ABOUT sth —— 两个都对但不能混 | "AI 会把你的预算也考虑进去" | 08-07 |
 | B135 | **创业用 start / set up a business**（不用 create）；**"承担"＝take on**（take on risk／responsibility）；最口语 `they have less to lose` | "创业的人承担的风险小了，就更愿意干" | 08-07 |
-| B136 | **★ 不是禁用书面词，是"有口语版就用口语版"**（08-10 修订，原来说得太绝）<br>✅ **概念本身就正式、没有口语版的照用**：age discrimination · job security · enforcement · economy · regulations · infrastructure（她 08-10 这五个全用对了）<br>❌ **有更短更常用说法时别去调长的**：the advent of AI→**now with AI** ／ specialized information→**answers for your situation** ／ tax reduction→**tax cuts** ／ enterprises→**firms/businesses**<br>★★ **判据不用"书面 vs 口语"这个分类，用这个：这个词你能不假思索说出来吗？能→用；要现找→不在自动区，换掉。**<br>理由直接挂在带宽模型上：调一个不在自动区的词 → 吃带宽 → 后一句结构跟着崩（08-10 实证：`specialized information` 后面紧接着 `with completely thinking about` 崩掉）<br>★ 隐性成本：书面词多半只在阅读里见过，不知道搭配限制（advent of 只跟时代性大事；specialized 配 knowledge/training，配 information 怪）——**见过 ≠ 会用**<br>★ 连带原则：同一批人前后用同一个词（前文 small businesses，后文别换 enterprises） | "减税能减轻小企业的压力" / "现在有了 AI，查东西方便多了" | 08-07（08-10 修订） |
+| B136 | **★ 不是禁用书面词，是"有口语版就用口语版"**（08-10 修订，原来说得太绝）<br>✅ **概念本身就正式、没有口语版的照用**：age discrimination · job security · enforcement · economy · regulations · infrastructure（她 08-10 这五个全用对了）<br>❌ **有更短更常用说法时别去调长的**：the advent of AI→**now with AI** ／ specialized information→**answers for your situation** ／ tax reduction→**tax cuts** ／ enterprises→**firms/businesses**<br>★★ **判据不用"书面 vs 口语"这个分类，用这个：这个词你能不假思索说出来吗？能→用；要现找→不在自动区，换掉。**<br>理由直接挂在带宽模型上：调一个不在自动区的词 → 吃带宽 → 后一句结构跟着崩（08-10 实证：`specialized information` 后面紧接着 `with completely thinking about` 崩掉）<br>★ 隐性成本：书面词多半只在阅读里见过，不知道搭配限制（advent of 只跟时代性大事；specialized 配 knowledge/training，配 information 怪）——**见过 ≠ 会用**<br>★ 连带原则：同一批人前后用同一个词（前文 small businesses，后文别换 enterprises）。<br>参考对照（不出题）："减税能减轻小企业的压力" → tax cuts / firms | "现在有了 AI，查东西方便多了" | 08-07（08-10 修订；08-11 收成一条题面，留 08-10 原样回潮的 advent 那句） |
 | B128 | **than ever 必须紧跟比较级**：`makes it easier THAN EVER to keep in touch`（不能隔一整个从句）——"修饰语紧贴被修饰词"的比较对象版 | "社交媒体让联系比以前方便多了" | 08-07 |
 | B129 | **get TO know sb**（逐渐认识某人，to 不能省）；`it's easier to do` 本就不需要 for | "现在更容易认识陌生人" | 08-07 |
 | B130 | **群组用 in**（in an online group）；论坛用 on（on a forum） | "我在一个养宠物的群里加了个好友" | 08-07 |
@@ -351,14 +362,16 @@
 | B125 | **平台用 on，实体店用 at**：on Amazon／on Taobao／on YouTube ／ at Walmart；专有名词不带 the | "我在亚马逊上买的" | 08-07 |
 | B126 | **a pack of napkins**（纸巾论包用 pack/packet，不用 bag；napkin 可数要复数）· **the product page**（商品页，不说 good page） | "我想在网上买包纸巾，结果商品页上有促销" | 08-07 |
 | B127 | **★ 名词壳（她的老毛病，换位置反复出现）**：实义动词外面套一层名词壳＝虚。<br>`enjoy THE SENSE OF spending money` → `enjoy spending money`；`THE MOST IMPORTANT THING IS THAT parents are organized` → `It starts with the parents`；`explaining why IS ALSO IMPORTANT` → `Parents should also explain why`<br>判据：**壳去掉后意思还在吗？在 → 去掉** | "最重要的一点是家长得有条理" | 08-07（08-11 补题面：原格里写的是测法说明不是题面，按 0.3"题面逐字复用 B 表"根本取不出题）|
-| B123 | **★ 中文无主语句 → 英语先想被动或 they，别硬找主语**：停产了＝`they aren't made anymore`／`they've been discontinued`；硬要主语就给真的那个（the company stopped making them），别用 people 兜底 | "有些东西早就停产了" / "这条路去年修好了" | 08-07 |
+| B123 | **★ 中文无主语句 → 英语先想被动或 they，别硬找主语**：停产了＝`they aren't made anymore`／`they've been discontinued`；硬要主语就给真的那个（the company stopped making them），别用 people 兜底 | "这条路去年修好了" | 08-07（08-11 收成一条题面："有些东西早就停产了"与 B148 撞车，撤下） |
 | B124 | **比较里的泛指不加 the**：`cheaper than new ones`（不是 than the new ones）—— B113 判据的应用，她一到 than 后面就犹豫 | "二手的比新的便宜多了" | 08-07 |
 | B121 | **"只能将就" ＝ `I'll have to make do with …`**（08-11 修订：整块含 have to）／ **be stuck with**（被迫接受甩不掉）／最短 `It'll have to do.`<br>⚠️ 08-10 她两次只产出 `make do with`、丢掉"只能"那层 —— 那不是 B121 的另一条错，是**这个块本来就该带 have to**。分开记会制造假错误，改成整块测 | "只能将就这台旧电脑" | 08-07（08-11 修订） |
 | B122 | **complain ABOUT sth**（不及物，必须带 about）；`other than` ＝除了…之外 ≠ `rather than` ＝与其…不如 | "与其抱怨，他直接就干了" | 08-07 |
 | B118 | **"全信" ＝ trust it completely ／ take its word for it**（不是 believe it）；**"一般" ＝ just OK ／ not as good ／ nothing special** | "AI 不能全信" / "他写作一般" | 08-06 |
 | B119 | **副词修饰动作**：speak English **well**（不是 speak good）—— 与 `he cooks well` 同一规则 | "他英语说得挺好" | 08-06 |
 | B120 | **…, though.（挂句尾）是唯一不用提前预判的转折标记** —— 说完再补，前面一字不改；That said,（句首，需预判）／ Then again,（话说回来，自我修正） | "这房子挺大，不过离地铁远" / "我想去，不过那天有事" | 08-06 |
-| B117 | **stuck 的三个介词**：**in** ＝被困在环境/容器里（stuck in traffic／in meetings／in a lift）· **on** ＝卡在具体的点上（stuck on a problem／on question 3／on this word）· **with** ＝被迫接受甩不掉（stuck with this old laptop）。<br>判据：**in 是周围把你围住，on 是面前有个坎** | "早高峰堵路上" / "这道题卡住了" / "只能将就这台旧电脑" | 08-06 |
+| B117a | **stuck IN ＝被困在环境/容器里**（stuck in traffic／in meetings／in a lift）。判据：in 是周围把你围住 | "上周我被困在电梯里半小时" | 08-06（08-11 从 B117 拆号；改题面：原"早高峰堵路上"与 B84/B96/B98 三处撞车） |
+| B117b | **stuck ON ＝卡在具体的点上**（stuck on a problem／on question 3／on this word）。判据：on 是面前有个坎 | "我在第三题上卡住了" | 08-06（08-11 从 B117 拆号，题面从 B171 划归本号） |
+| B117c | **stuck WITH ＝被迫接受甩不掉**（stuck with this old laptop） | "分组的时候我跟他一组，甩都甩不掉" | 08-06（08-11 从 B117 拆号；改题面避开 B121 的"只能将就这台旧电脑"，题面从 B171 划归本号） |
 | B115 | **any ＋ 单数**表"任何一个"（answer almost any question）；复数的 any questions 用在疑问/否定句（Do you have any questions?） | "AI 几乎什么问题都能答" | 08-06 |
 | B116 | **think FOR oneself ＝ 独立思考**（固定）；**by oneself ＝ 独自一人做某事**（I did it by myself） | "学生还是得自己独立思考" | 08-06 |
 | B110 | **singular they**：someone/anyone/everyone 后面用 they/their **正确**；但 who 从句要跟先行词一致 → `someone who LIKES`。更省事：主语换复数 `kids who like…` | "喜欢拍照的人，Photoshop 是他们的最爱" | 08-06 |
@@ -368,7 +381,10 @@
 | B106 | **make sb ＋ 形容词**（make kids overweight）。cause 用法很窄：cause sb sth／cause sth／cause sb TO do，**不能 cause sb 形容词** | "长时间看屏幕会让孩子变胖" | 08-06 |
 | B107 | **学业 ＝ schoolwork / their studies**；**pay attention TO**（不是 on）；**lose interest IN** | "孩子会对学业失去兴趣" | 08-06 |
 | B108 | ⭐ **screen time**（她自产）；**balance A and B ／ balance A with B 都对**（08-07 更正：原写"必须 with"是把一种说法写成唯一说法）；`pair X with Y` 也成立（08-06 她指出） | "家长该给孩子的屏幕时间和户外活动找个平衡" | 08-06（08-07 修订） |
-| B109 | **别说得太绝的四个块**：`I wouldn't go too far, though.`／`An hour a day is completely fine.`／`It's not that games are bad — it's about how long.`／`in moderation` | "不过我也不会说得那么绝" / "一天一小时完全没问题" / "不是游戏本身不好，是看玩多久" / "什么东西适度都没问题" | 08-06（08-11 拆题面：原一条塞两个块，违反"一句中文=一个考点"）|
+| B109a | **`I wouldn't go THAT far, though.`**（软化自己刚说的话，though 挂句尾 ★ B120）<br>⚠️ **08-11 教练自纠**：08-06 起本条一直写的是 `go TOO far`，**是错的** —— `I wouldn't go too far` 读作"我不会做得太过"，不是"我不会把话说这么绝"。固定块是 **go that far**。<br>同义备选：`I wouldn't say that, though.` ／ `That might be going a bit far.` | "不过我也不会说得那么绝" | 08-06（08-11 从 B109 拆号＋改正块本身） |
+| B109b | **`An hour a day is completely fine.`**（给一个具体量当让步） | "一天一小时完全没问题" | 08-06（08-11 从 B109 拆号） |
+| B109c | **`It's not that A — it's about B.`**（把矛头从对象转到程度） | "不是游戏本身不好，是看玩多久" | 08-06（08-11 从 B109 拆号） |
+| B109d | **`in moderation`**（适度） | "什么东西适度都没问题" | 08-06（08-11 从 B109 拆号） |
 | B103 | **clear the table**（餐后收拾桌子）≠ clean the table（擦桌子）；通用动词版 `put everything away` | "他把桌上收拾了" | 08-06 |
 | B102 | **★★ 检索方向：中文靠实义词，英语靠一小撮通用动词**。卡住时不要找"那个词"，问「这件事用 **get / be / do / have / take / put / make / keep / go / come** 怎么说？」<br>吃饱→get fed ／ 搞定→be done ／ 相反→be the opposite ／ 围一桌→get everyone around one table | 给中文实义词，限定主动词只能从那一小撮里选 | 08-06 |
 | B101 | **take sb out**（专门带某人出去玩）≠ bring sb along（带上一起去我本来要去的地方）；**outdoors** 是副词（play outdoor ❌） | "周末我带儿子出去玩" | 08-06 |
@@ -382,10 +398,10 @@
 | B105 | ⚠️ **口语作废，只在写作有效**（她 08-06 指出，成立）：逗号粘连／句子片段是**书面标准**，口语里语调就是标点，转写更转不出破折号。<br>口语只保留一条真问题：**悬空片段**——本身没有独立意思、听者接不上的（`…something to look after. UNLIKE WORK OR KIDS. It's…`）必须挂回主句；<br>能独立表意的补充片段（`As for how.`／`How wide they need to be.`）**完全正常，不算错** | 只在写作复盘时用 | 08-06 修订 |
 | B94 | **every time / each time 是连词，后面跟完整从句**：every time you use it（不是 every time using it） | "你每次走那条路都堵" | 08-06 |
 | B95 | **可分离动词短语的位置**（08-07 更正，原写"短宾语要放中间"是把倾向写成规则）：<br>**代词必须放中间**（put it away ✅／put away it ❌）· **名词短语两个位置都合法**（put their toys away ✅／put away their toys ✅）· 长宾语倾向放后面。<br>另：away 不变形（put aways ❌）；玩具搭配是 **play with**，不是 use | "孩子玩完把玩具收起来" | 08-06（08-07 修订） |
-| B89 | **neither … NOR**（不能 neither … or）；更省事就直接 `forward or back` | "谁都动不了，前进也不行后退也不行" | 08-06 |
-| B90 | **every time / whenever 出现＝反复发生的规律 → 主句用现在时**（you GET stuck），will 是预测未来某一次 | "设计有问题你每次走那条路都堵" | 08-06 |
+| B89 | **neither … NOR**（不能 neither … or）；更省事就直接 `forward or back` | "我既不会做饭也不会烘焙" | 08-06（08-11 改题面：原题面与 B87 逐字撞车，B87 测 whether＋forward or back，本号只测 neither…nor） |
+| B90 | **every time / whenever 出现＝反复发生的规律 → 主句用现在时**（you GET stuck），will 是预测未来某一次 | "我每次点这家外卖都要等一个小时" | 08-06（08-11 改题面：原题面与 B83/B94 逐字撞车，三条都被那一句同时触发） |
 | B91 | **by ＋ -ing ＝ 通过做某事达成结果**（He passed the exam by studying every night）。<br>⚠️ 她连续 3 次绕开这个结构，需单独焊。交通方式另说：by bus/car（不带冠词）／ on foot ／ I walk to work | "他每晚学习，就这么过的考试" / "走路上班能省不少钱" | 08-06 |
-| B92 | **save sb money / sth**（save 带间接宾语）：save YOU a lot of money | "走路上班能给你省不少钱" | 08-06 |
+| B92 | **save sb money / sth**（save 带间接宾语）：save YOU a lot of money | "这个 app 能给你省不少时间" | 08-06（08-11 改题面：原"走路上班能省不少钱"与 B91 的 by＋-ing 题面撞车） |
 | B87 | **whether 后面要跟主谓**（whether they go forward or back）；**forward or back ＝ 前进/后退**，`back and forth` ＝ 来回反复，两回事 | "谁都动不了，前进也不行后退也不行" | 08-05 |
 | B88 | **★ 卡词时的操作（做出来测）**：不是去找那个词，而是**把任务降到只用最简单的词说完画面**——负载一降，难词往往自己出来（08-05 实证：限定她只用 cars/move/forward/back，她反而调出了 intersection） | 让她说一个卡住的画面，看她会不会自己减负 | 08-05 |
 | B82 | **嵌入疑问句用陈述语序**：`how wide they need to be` ／ `what the road is for`（不是 how wide should they be） | "得考虑路要修多宽" | 08-05 |
@@ -4404,6 +4420,876 @@ If people RUSH a red light without any      If some people RUN a red light      
     ❌ 缺限定词 → `put THEIR toys away`（代词/短宾语放 put 和 away 中间）★ B95
 ```
 
+
+---
+
+## 📅 2026-08-11 · 学习日（新周期第 1 天）
+
+**今日靶心**：一句话里的否定 —— 该有的别丢，有了别再加一次。
+
+**批次口径**（定义2：08-10 是专门复习日，在 D 序列里不占位）
+```
+D-1  位置＝08-09（前一个学习日），内容取 08-10 复习日 📊 行的 ❌/◎/△/🆕
+D-3  落在 08-08，📊 不回填到 08-09 之前 → 走 §0.1 兜底：从 B 表取「久没出现」（从未进过 📊）的条目
+毕业候选（连对2）跨批取，不受 D-1/D-3 限制
+预算  学习日 ≤3 组（30 题）＋ 1 道自由产出真题
+```
+
+**节点① 抽签（学习日必留的自由产出题，已抽，题面到第 3 组之后才发）**
+```
+pick_question.py → [P2] P2-老05 想拥有的科技产品（question_bank.md:834）
+   Describe a piece of technology (not a phone) that you would like to own
+   - What it is / How much it costs / How you knew it / And explain why you would like to own it
+   已写入 asked.log（第 23 道）
+```
+
+**开场前的 B 表回写（§0.2 硬顺序：先回写再取题；定义3d 遇到多题面号先拆号）**
+```
+拆号   B161→B161a/b/c（much／for long／far 三个词＝三个考点，继承 08-09+08-10 两次 ❌ 的连错基线）
+       B171→B171a/d/f/g（make do with／look after／look for／get by）
+              另 5 个短语已是别号的考点，按 §0.2 第二步做【题面互斥】，不停用任何号：
+              get on with it→B141 · bury yourself in→B181 · be after→B162 · stuck on→B117b · stuck with→B117c
+       B57→B57a/b · B114→B114a/b · B117→B117a/b/c · B109→B109a/b/c/d · B191→B191a/b · B31→B31a/b
+改题面 B187（原题面与 B174 逐字撞车）· B90（与 B83/B94 三处撞车）· B117a（与 B84/B96/B98 撞车）
+       B117c（与 B121 撞车）· B175（B190 要求全新名词＋整句，纸/刀已用两轮 → 换 box）
+收题面 B148（第二条与 B54 撞车，本号只测"否定别丢"）· B12 · B41 · B73 · B123 · B136 · B192
+待拆（今天没抽到，遇到时再拆）  B107（schoolwork／pay attention to／lose interest in）· B19（比较级三条）· B147（完成时触发／具体时间点）
+```
+
+**开场进度快照（拆号后口径）**
+```
+🎓 已毕业        0 条
+连对 2           20 条   ← 再对一次就毕业
+连对 1           62 条
+连错 ≥2（顽固）   4 条    B148 · B161a/b/c
+连错 1           16 条
+```
+
+### 第 1 组 · 10 题 · 一字未改 6/10（口径＝本组 ✅ 标记数／题数，08-11 统一定义后重算）
+
+- **她的原话（逐字）**：`the item has not been made for ages.  i spent lots of time on chemistry. without chopsticks,(还有别的表达方式么) chopsticks, i made do it with a spoon.  my mom helps me take care of my kid on weekends. the audience sing along with the singer. my family spends a whole day cooking at Chinese new year. it helps you rather than replaces you. what kind of car do you drive. it's hard to focus my work. we went forth and back three times for the same question.`
+- **★ 第 1 句她自己抓到了极性丢失**：第一次发出是 `the item has been made for ages`（否定丢了），
+  她自己打断重发成 `has not been made`。**今日靶心就是极性，她在无提示下自查命中** → 进 🏆 进步表。
+
+```
+✅ 1  B148 极性对了（否定没丢）—— 连错2 的顽固条，今天断掉
+     ⚠️ 08-11 当天更正：教练最初记 △，理由是 `for ages`→`for years`。**`for ages` 是地道英式口语，
+        这是不必要的改动（⛔）**，撤销。`has not`→`hasn't` 只是缩写，不动考点 ⇒ 本号 ✅
+✅ 2  B161a  `I spent lots of time on chemistry.` 一字未改 —— 连错2 的顽固条，今天断掉
+❌ 3  B171a  `made do IT with a spoon` → **made do with a spoon**（三词整块，中间不能插 it；
+             记忆抓手 make it do 只是助记，不进句子）
+     📖 她当场问"without chopsticks 还有别的表达方式么" → 三种说法已给（★ 新建 B193）
+◎ 4  B171d  `take care of` 完全正确，但题面逼不出 look after（两个词本来就互换）
+             → 题面已改为"（两种说法）"，按 §0.5 ◎ 必须改题面不删条
+✅ 5  B57a   `The audience sing along with the singer.` 一字未改
+             （audience 用复数动词合法 —— B93 08-06 已更正"必须单数"是简化过头）
+✅ 6  B104   `My family spends a whole day cooking at Chinese New Year.` 一字未改 → 🎓 连对3
+✅ 7  B114a  `It helps you rather than replaces you.` 平行式，一字未改 → 🎓 连对3
+✅ 8  B187   `What kind of car do you drive?` 一字未改（🆕 建号次日即中）
+❌ 9  B41    `focus my work` → **focus ON my work**（论元完整，B41 词条里点名的那一个）
+             更好：中文"上班"是地点 → `It's hard to focus AT WORK.`
+❌ 10 B45    `forth and back` → **back and forth**（固定词序只能整块背）—— 连错2
+             更好：`go back and forth ON sth`；question＝问句/试题，事情用 issue
+```
+
+**⑤ 独立 Diff（逐片段，含零 diff 的句子）**
+```
+1  the item → that                    ⚠️更好  item 偏零售/清单，口语用 that/those
+   has not → hasn't                   ⚠️更好  口语默认缩写
+   for ages → for years                ⛔不必要  for ages 是地道英式口语，教练犯规，已撤销
+2  无 diff
+3  made do it with → made do with     ❌真错  三词块不能拆
+   without chopsticks → I didn't have any chopsticks, so   ⚠️更好（回答她的提问）
+4  take care of → look after          ⛔不必要  两个都对，这是"另一种说法"不是"更好"，教练犯规
+   on weekends → at weekends          ⛔不必要  英式 at／美式 on 都对，同上
+5  无 diff
+6  无 diff
+7  无 diff
+8  无 diff
+9  focus my work → focus on my work   ❌真错  focus 必须带 on
+   focus on my work → focus at work   ⚠️更好  "上班"是地点不是宾语
+10 forth and back → back and forth    ❌真错  固定词序
+   for the same question → on the same issue  ⚠️更好  go back and forth ON sth
+⛔ 0 处（第 5 句的 audience 复数动词、第 6 句的 family 单数动词、第 7 句的 replaces
+   —— 三处都是她对，教练没动）
+```
+
+**🆕 B193（她当场问的，属于"不会"，按零遗漏收）**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B193 | **"没有 X" 的三种说法**：①`Without chopsticks, …`（最短，正式偏书面）②`I didn't have any chopsticks, so …`（最口语，推荐）③`There weren't any chopsticks, so …`（强调现场没有）<br>★ 口语默认走 ②：**先说"我没有"，再说"所以"** —— 比 without 起手省带宽 | "没有充电器，我就用了同事的" | 08-11 |
+
+### 第 2 组 · 10 题 · 一字未改 8/10（当场报的 5/10 是错的：教练一边按"整句零改动"数、一边按"考点一字未改"标，两套口径混用；已统一并重算，见 SKILL §0.5）
+
+- **她的原话（逐字）**：`Putting things pack(away) makes it easier to find next time. now with AI, it is much easier to look up things. Here is where the Yangtez river starts. the tow hours makes the whole day worth it. there is age discrimination in China against people over 35. I want a job with no overtime, and one that is stable. After work, you have time to do something else, like hobbies or spending time with your kids. the traffic is heavy(要加 the 么). I watch the plants grow day by day. A mix of the city life and the countryside （后面这个 the 我知道要加，前面不确定) is perfect.`
+
+```
+✅ 1  B73 考点对（easier 不是 convenient）｜❌ B41 论元：`to find` 缺宾语 → **find THEM next time**
+      （B41 今天第二次掉，同一天两处：focus___ / find___）
+✅ 2  B136 `now with AI` —— 08-10 `the advent of ai` 原样回潮的那条，今天 cold 产出正确块
+      `look up things` 合法（B95 08-07 更正：名词短语两个位置都行）
+✅ 3  B3  `Here is where the Yangtze starts.` 分裂句结构装上（08-09 这句是 ❌ `it's called Yangzi…`）
+✅ 4  B12 `makes the whole day worth it` —— 08-09 的 `worthy` 今天变成 **worth it** ✅
+      ❌ B27 主谓一致：`the two hours MAKES` → **make**（两小时是复数）
+      ★ 边界：`Two hours IS a long time.` 单数是对的 —— 量当一个整体时用单数；
+        这里 the two hours 是"那两个小时"这段具体时间在当主语，用复数
+✅ 5  B165 `age discrimination`（不可数不带冠词）＋ `against` 全对
+      🆕 B194 语序：`discrimination in China against…` —— 名词的补语被地点状语隔开了
+      → `In China, there's age discrimination against people over 35.`
+✅ 6  B166 `a job with no overtime, and one that is stable` 一字未改 → 🎓 连对3
+✅ 7  B168 `like hobbies or spending time with your kids` 并列同形 → 🎓 连对3
+◎ 8  B191a 教练题面问题："路上堵死了"她答 the traffic is heavy 完全合法，逼不出 jammed
+      → 题面已改成"一出事故，整条环路全堵死了，一动不动"
+      🆕 B195（她当场问"要加 the 么"，属于不会，按零遗漏收）
+✅ 9  B31a `I watch the plants grow day by day.` —— 08-10 的 △ 是"一天天没出来"，今天出来了 → 转 ✅
+❌ 10 B43 `the city life` → **city life**（泛指不带 the）／或两边都用 **the city and the countryside**
+      ★ 她自己的判断一半是对的：countryside 要 the（对）；city life 不确定（该不带）
+```
+
+**⑤ 独立 Diff（逐片段）**
+```
+1  to find next time → to find them next time     ❌真错  find 是及物动词，宾语不能省
+   makes it easier to find them → makes them easier to find   ⚠️更好  更常见的说法
+   things pack → things away                      —  她自己括号里已改对，不计
+2  it is → it's                                   ⚠️更好  口语默认缩写
+   look up things → look things up                ⚠️更好  两个都合法，后者更常听到
+3  Here is where → This is where                  ⛔不必要  两个都对，教练犯规，已撤销 ⇒ B3 记 ✅
+   Yangtez → Yangtze                              —  拼写，口语不计
+4  the two hours makes → the two hours make       ❌真错  复数主语
+   the two hours → those two hours                ⚠️更好  指"那两个小时"用 those 更准
+5  age discrimination in China against → In China, age discrimination against   ❌语序
+                                                   名词补语必须紧贴名词（理解侧冗余第1条）
+6  无 diff
+7  无 diff
+8  the traffic is heavy → the roads are completely jammed   ⚠️更好（原句本身没错，是题面没逼到位）
+9  the plants → these plants                      ⛔不必要  the plants 是对的，教练犯规
+   grow day by day → grow a bit every day         ⛔不必要  `watch them grow day by day` 是地道搭配，
+                                                   教练犯规，已撤销 ⇒ B31a 记 ✅（"一天天"她补上了）
+10 the city life → city life                      ❌真错  泛指不带 the
+   is perfect → would be ideal                    ⚠️更好  说理想状态用 would
+⛔ 0 处
+```
+
+**🆕 本组新建（按零遗漏三类全收）**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B194 | **名词的补语必须紧贴名词，地点/时间状语挪到句首**：`discrimination AGAINST sb` 中间不许插东西。<br>❌ there is age discrimination in China against people over 35<br>✅ **In China, there's age discrimination against people over 35.**<br>★ 这是「理解侧冗余」第 1 条（修饰语紧贴被修饰词）的**名词补语版**，与 B2b（从句紧贴）、B128（than ever 紧跟比较级）同族 | "国内对 35 岁以上的人有年龄歧视" | 08-11 |
+| B195 | **traffic 带不带 the（她当场问的）**：<br>**带 the ＝ 眼前这一份/刚提过的那一份** → `The traffic is heavy this morning.` ／ `The traffic on that road is terrible.`<br>**不带 the ＝ 泛指"交通"这件事** → `Traffic is always bad in Chengdu.` ／ `Traffic management comes down to two things.`<br>★ 判据：**说的是眼前这一份，还是这类东西？** B86"泛指不带 the"管的只是后者<br>★ 同族：the economy／the market（语境里只有一个，恒带 the，见 B133）——traffic 不属于这类 | "今天早上路上特别堵" vs "成都的交通一直不好" | 08-11 |
+
+### 第 3 组 · 10 题 · 一字未改 7/10
+
+- **她的原话（逐字）**：`I need a box to wrap these things(装起来没想起来). You should keep one(这里用 an 还是 one） eye on the future and one on the present. rather than complaining, he got on with it. 不会（另外你的提示有点扯，什么叫更地道的，如果你有指向性的答案就提示的更明显点). I have to make do with the old laptop. I got stuck in the elevator last for an half hour last week. He can finally see how tall a T-rex actually was. I wait for an hour every time I order takeaway from that restaurant (都要好像没翻译出来). There aren't enough jobs to share（这个 share 其实感觉可以不要). the road was built last year.（本来想用过去完成时，但是又不确定是否可以和 last year 搭配)`
+
+```
+📖 1  B175 `a box to wrap these things` —— wrap＝包（用纸包），不是装。她自报"装起来没想起来"
+      → **I need a box to put these things IN.**（介词留末尾；同族 keep them in / store them in）
+✅ 2  B186 `keep one eye on the future and one on the present` 一字未改，整块装上
+      她问 an 还是 one → **这里必须 one**（one…and one 是配对："一只眼…另一只眼"）；
+      `keep AN eye on sth`＝照看/留意，是另一个块（B189），单独用时才是 an
+✅ 3  B141 `rather than complaining, he got on with it.` 一字未改
+      顺带三个块全对：rather than 领句首用 -ing（B114b）· complaining 不及物（B172）· get on with it
+📖 4  B109a 不会 → **I wouldn't go that far, though.**
+      ⚠️ 教练自纠：B 表原来写的 `I wouldn't go too far, though.` **是错的**（那句读作"我不会做得太过"）。
+         软化自己刚说的话，英语固定说法是 **go THAT far**。词条已改。
+✅ 5  B121 `I have to make do with the old laptop.` —— 08-10 两次 △ 都是丢掉"只能"那层，今天带上了
+      ★ 同一天内：第 1 组 cold 错成 `made do it with` → 纠正 → 本组自己用对（改完当场重说的当场证据）
+        按 SKILL §0.5 新规，这次不覆盖 B171a 当天的 cold ❌
+✅ 6  B117a `got stuck in the elevator` 考点对
+      ❌ `last for an half hour last week` → **for half an hour**（half 放在冠词前面）★ 新建 B196
+         另 `last` 多打了一个，按转写噪声处理不计
+✅ 7  B159 `how tall a T-rex actually was` 一字未改（actually 卡在主语和动词之间，位置全对）
+✅ 8  B90 `I wait for an hour every time I order takeaway from that restaurant.` 考点对（现在时＋完整从句）
+      ★ 她自报"都要好像没翻译出来" —— 判断准确 → **I always end up waiting an hour…** ★ 新建 B197
+❌ 9  B192 `not enough jobs to share` → **not enough jobs TO GO ROUND**
+      ★ 她自报"share 其实感觉可以不要" —— 判断准确：share 在这里不成立，
+        要么整块换 to go round，要么就停在 `There aren't enough jobs.`
+✅ 10 B123 `the road was built last year.` 被动＋过去式全对
+      她问"能不能用过去完成时" → 不能。**过去完成时需要另一个更晚的过去参照点**；
+      last year 本身就是那个点 → 直接过去式。要用得这样：
+      `The road HAD already been finished BY THE TIME we moved in.`（有"我们搬进来"当参照）
+```
+
+**⑤ 独立 Diff（新格式：先摆完整两行，再列片段）**
+```
+【1】原句  I need a box to wrap these things.
+    改后  I need a box to put these things in.
+    · to wrap → to put … in        ❌真错  wrap＝用纸/布包起来；装进容器是 put in
+【2】原句  You should keep one eye on the future and one on the present.
+    改后  （同）
+    · 无 diff
+【3】原句  rather than complaining, he got on with it.
+    改后  （同）
+    · 无 diff
+【4】（不会，无原句）教练给：I wouldn't go that far, though.
+【5】原句  I have to make do with the old laptop.
+    改后  （同）
+    · 无 diff（the old laptop 在有上下文时完全正确，不改）
+【6】原句  I got stuck in the elevator for an half hour last week.
+    改后  I got stuck in the lift for half an hour last week.
+    · an half hour → half an hour  ❌真错  half 放在冠词前面
+    · elevator → lift              ⛔不必要  美式/英式都对，不改
+【7】原句  He can finally see how tall a T-rex actually was.
+    改后  （同）
+    · 无 diff
+【8】原句  I wait for an hour every time I order takeaway from that restaurant.
+    改后  I always end up waiting an hour every time I order takeaway from that place.
+    · I wait → I always end up waiting   ⚠️更好  补回中文"都要"那层
+    · restaurant → place                 ⛔不必要  restaurant 没问题，不改
+【9】原句  There aren't enough jobs to share.
+    改后  There aren't enough jobs to go round.
+    · to share → to go round       ❌真错  share 在这个结构里不成立
+【10】原句 the road was built last year.
+     改后 （同）
+     · 无 diff
+⛔ 2 处（elevator→lift · restaurant→place，均已撤销）
+```
+
+**🆕 本组新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B196 | **half 放在冠词【前面】**：half an hour ／ half a day ／ half the time ／ half the class（不是 an half hour）。<br>★ 同族固定词序（见 B45）：整块背，不推导 | "我等了半小时" | 08-11 |
+| B197 | **"都要/总是"那一层的三种加法**（她自报"都要没翻译出来"）：<br>① **always end up ＋ -ing**（最口语，含"最后总是落到这个下场"）`I always end up waiting an hour.`<br>② **have to ＋ 动词**（强调被迫）`I have to wait a good hour.`<br>③ **it always takes ＋ 时间**（把主语换成事情）`It always takes an hour.`<br>★ 触发：中文里出现"都/总是/每次都" → 光用现在时不够，要显式加这一层 | "我每次去都要排半小时队" | 08-11 |
+
+### 自由产出真题（学习日必留的那道，节点① 抽签抽中）· P2-老05 想拥有的科技产品
+
+> `Describe a piece of technology (not a phone) that you would like to own`（question_bank.md:834）
+> **她 cold 产出 173 词**（P2 撑满 2 分钟约需 200–240 词 → 差 30–60 词，缺口全在第 1 个 bullet）
+
+- **她的原话（逐字，含她自己插的提问）**：`The thing(或者用别的词) I'd like to talk about is 3D printers(这里不可以加 the 吧，那用 s 对不对). It costs about 2 thousand yuan for entry-level ones or over ten thousand yuan for advanced ones. / I got to know about it through one of my colleagues. He is a read enthusiast. he evven made his own machine from spare parts. He showed how his could do, and I was hook straightaway. / There are a couple of reasons why I want to own it. What makes it stand out is that it can print all sorts of toys - color dinosaurs, Lego blocks, that kind of thing. My son would definitely love it. (这里用 would like 可以么). On top of that, it's a sneaky way to get my son interested in engeering - he can see (或者用 watch？）how things on the screen (这可以加 the 么）turn into a real object he can hold. / More importantly, on weekends, my son sits right next to me, we design something together, and watch (和上面问题一样的) the machine（这里可以用the么) builds it layer by layer. It's less about the machine itself but more about the time spent with my kid.(你也统计下词数有多少)`
+
+**五层诊断**
+```
+层1 语法搭配
+  ❌ B68族  `The thing … is 3D printers` 主语单数、表语复数 → 全篇改用单数 a 3D printer
+  ❌ B41    `He showed how his could do` 缺间接宾语 → **showed ME**（B41 今天第三次）
+            同句 `how` → **what**（问的是"能做什么"，不是"怎么做"）
+  ❌ B157   `I was hook` → **hooked**（-ed 形容词；B157 08-10 刚 ✅，今天回潮）
+  ❌ B39族  `watch the machine BUILDS it` → **watch the machine BUILD it**
+            （watch / see / make / have / let ＋ 宾语 ＋ 动词原形）
+  ❌ 🆕B200 `color dinosaurs` → **colourful dinosaurs**
+  ❌ 🆕B198 `It's less about X BUT more about Y` → **and**
+            ★★ 这是【她自己的 ⭐ 块被换掉一个零件】：表达库里她 08-01 自产的是
+               `It's less about the game itself AND more about hanging out with friends`
+               —— 与轮94–95「复用块时丢成分」同一类，块记住了、配对词没记住
+  ⚠️ 指代   `3D printers`（复数）→ 后面全用 `It` —— 改单数就同时解决
+层2 词的精确度
+  ❌ `read enthusiast` → **real enthusiast**（或 he's really into it）
+  ⚠️ `see` → **watch**（看过程用 watch，看到用 see）★ 🆕B201
+  ⚠️ `a real object` → real object**S**（前面 things 是复数）
+层3 衔接与语气  ★ 本段最强的一层
+  ✅ What makes it stand out is that… ／ On top of that ／ More importantly ／
+     It's less about X and more about Y —— 四个衔接块全是对的，且没有重复
+  ⚠️ 🆕B199 `a couple of reasons` ＝ 两个，她实际给了三个 → **a few reasons**
+层4 逻辑层次
+  ✅ 四个 bullet 全覆盖；收尾回扣主题（less about the machine, more about the time）
+  ❌ **第 1 个 bullet 只有一个词组，没有画面** —— 173 词里 What it is 只占 10 词。
+     P2 的第 1 个 bullet 撑不起来，整题就到不了 2 分钟。补一句画面即可（见完整版 B）
+层5 内容深度  ✅ 通过
+  三个理由主角不同：玩具（儿子玩）→ 工程启蒙（儿子学）→ 周末时间（我们俩）
+  且有真画面：`things on the screen turn into a real object he can hold` —— 这是本段最好的一句
+理解侧冗余七条  第 2 条（并列两边同形）踩中：less about…but more about… 破坏配对
+                第 6 条（代词指代唯一）轻度：printers 复数 / It 单数
+```
+
+**她当场问的 7 个问题（全部按零遗漏收，答案见下方 🆕 词条）**
+```
+① The thing 有没有别的说法    → 有，四种，见 B202
+② 3D printers 加 the 吗、用 s 对吗 → 泛指类别用复数不带 the，你判断对了；
+                                   但本题问"想拥有的一件东西"→ 全篇单数 a 3D printer 更贴题
+③ would like 可以么           → 可以，但 would LOVE 更强更贴（会很喜欢 vs 会想要）
+④ see 还是 watch              → watch（★ B201）
+⑤ things on the screen 加 the → 不加更自然（泛指）；加了也不错，指"屏幕上那些具体的东西"
+⑥ 同④                        → watch
+⑦ the machine 可以用 the 么   → 可以，前面提过这台机器，双方都知道是哪一个（B113 判据，你用对了）
+```
+
+**🆕 本题新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B198 | **⭐ 自己的块被换零件**：`It's less about X AND more about Y` —— 配对词是 **and**，不是 but。<br>★ 她 08-01 自产过正确版（表达库有），这次换成 but ⇒ **块记住了、配对零件没记住**（同轮94–95）<br>★ 修法只有块化：整句重说，不单独记"这里要 and" | "这事儿重点不是机器本身，是陪孩子的时间" | 08-11 |
+| B199 | **a couple of ＝ 两个（精确）**；要说"几个"用 **a few**。开头报几个理由，后面就得给几个 | "有几个原因" vs "有两个原因" | 08-11 |
+| B200 | **"彩色的X" ＝ colourful X**（不是 color X）；说具体颜色才用 `a red dinosaur` | "彩色的恐龙" | 08-11 |
+| B201 | **watch vs see**：**watch ＝ 盯着看一个过程**（watch it print／watch him grow）· **see ＝ 看到**（结果或一瞬间，see the mountains）<br>★ 判据：有没有一段【持续的时间】在里面？有 → watch | "他能看着屏幕上的图变成实物" | 08-11 |
+| B202 | **P2 起手四种（她问"The thing 有没有别的说法"）**：<br>① `The one thing I'd really like to own is …`（最贴"想拥有"这类题）<br>② `If I could pick one thing, it'd be …`<br>③ `I'd like to talk about …`（最省，直接进）<br>④ `The thing I'd like to talk about is …`（她这次用的，成立但偏绕）<br>★ 起手不要占超过一句 —— P2 的分在后面 | 任给一道 P2，用①或②起手 | 08-11 |
+
+### ★★★ 她的第 35 次纠正（08-11，成立，教练的诊断口径和建议方向双错）
+
+> 她的原话：**"其实 170 个词够了，不过学下怎么补画面没啥问题，因为我说的也不流利，啃啃巴巴只能说程度问题"**
+
+```
+教练说"173 词离 2 分钟差 30–60 词，第 1 个 bullet 要补内容" —— 两处都错：
+① 口径错  **词数不是 P2 的长度指标**。按她的语速，173 词大概率已经填满 2 分钟。
+          真指标是【词/分钟】＋【停在哪】，这两个打字都测不出来
+② 方向错  **加内容 ＝ 加检索负载 ＝ 更卡**，与本文件核心的带宽模型正相反。
+          教练给出了一条会让症状加重的建议 —— 这是"结论可以错"里最贵的一种：
+          方向反了，照做会退步
+
+★★★ 她这句话还暴露了一个更大的方法论漏洞（她只说了半句，另半句是教练该补的）：
+   **这条训练线从 07-27 到今天，全部产出都是【打字】的。**
+   打字 ＝ 慢时钟：可回删、可停下想、无时间压力。
+   ⇒ 她自述的真实瓶颈（"说的也不流利，磕磕巴巴"）**在全部现有数据里一次都没有出现过**。
+   ⇒ 所有关于【流利度】的判断都是无源之水；打字数据只能判 accuracy 和内容组织。
+   ⇒ 「快时钟（出声＋不回删＋计时）」与「发音」并列，是**从未系统测过的两个维度**。
+
+⇒ 已写进 SKILL §4.1：
+   · 禁止用词数评 P2 长度；要评长度只能在出声＋计时条件下评
+   · 「补画面」的理由改掉：不是凑词数，是**画面句比抽象句好说**（脑子里已经是图，
+     不用现场组装抽象词）—— 它是降卡顿手段，不是加长度手段
+★ 她自己给的现成证据：本题最长的一句 `things on the screen turn into a real object he can hold`
+  正是全段最具画面的一句 —— 长而不抽象，反而是最好说的那种句子
+```
+
+### 改完当场重说 · 4/4 全对（08-11 收尾前）
+
+- **她的原话（逐字）**：`I need a box to put these things in. I wouldn't go that far, though. I got stuck in the elevator for half an hour last week. There aren't enough jobs to go around.(around应该也行吧)`
+```
+1 ✅ a box to put these things in       （本日 📖，重说装上）
+2 ✅ I wouldn't go that far, though.     （本日 📖，重说装上）
+3 ✅ for half an hour                    （本日 ❌ B196，重说装上）
+4 ✅ not enough jobs to go around        （本日 ❌ B192，重说装上）
+   ★ 她问"around 应该也行吧" —— 对。go round＝英式／go around＝美式，两个都是这个义项，
+     雅思两边都不扣分。B192 词条本来就写了美式 go around，她这次是**自己从词条里调出来的变体**，
+     不是记混 —— 属于正确的泛化
+★ 按 SKILL §0.5 新规：教练给过答案之后的重说【不改当天标记】（B175 B109a 仍记 📖，
+  B192 B196 仍记 ❌），但事实层照记 —— 这是"改完当场重说"的当日证据，4/4
+```
+
+### ★ 她的第 34 次纠正（08-11，成立，已改进 SKILL §2.1）
+
+> 她的原话：**"你的提示有点扯，什么叫更地道的，如果你有指向性的答案就提示的更明显点"**
+
+```
+旧规则：△ 条目只许加固定一句「（★ 这题要更地道的版本）」，理由是怕违反「禁预告测试点」
+她指出的问题：这句话零信息量 —— 她不知道往哪个方向找，等于没提示
+教练复核后认同，且发现旧规则的理由本身站不住：
+  △ 意味着她上一次【已经答对了】，准确性那关过了；这一轮测的是"能不能够到更高档位"，
+  不是 cold 测那个点 ⇒ **给方向不污染任何 cold 数据**
+⇒ 新规则（SKILL §2.1）：△ 必须给方向，三选一
+   a「这句有个固定说法，不是自己组的」（可加词数）
+   b「上次这句你少了『___』那层」（中文点名缺的那层）
+   c「这句英语不用动词说，用名词说」
+   仍禁止：直接给答案 · 说"这题考介词/考完成时"
+★ 本组第 4 题就是被旧提示坑的那道：目标是一个固定块，提示却只说"更地道"，她直接答不会
+```
+
+### ★ 教练当日犯错清单（§7④ 要求，08-11 共 3 类）
+
+```
+1. ⛔ 不必要的改动 8 处（两组 6 处＋第三组 2 处），全部是"两个都对"被写成"更好"：
+   for ages→for years · take care of→look after · on weekends→at weekends ·
+   Here is where→This is where · the plants→these plants · grow day by day→grow a bit every day ·
+   elevator→lift · restaurant→place
+   ⇒ 直接后果：B148 被误记 △（实为 ✅）、B3 与 B31a 同理 —— **假错会让她把带宽花在本来就对的地方**
+   ⇒ 根因：四问自审的第 ① 问（试着造一个母语者会说的句子来推翻自己）没有逐条跑，
+      只在"感觉可以更好"时就写进了 diff。**"可以更好"不是档位，只有"她的不成立"才是**
+2. 数字口径混用：同一组按两套口径分别标注和统计，报出 5/10（实为 8/10）。已在 SKILL §0.5 写死口径
+3. B 表内容错误：B109a 的目标块写成 `I wouldn't go too far`（应为 `go THAT far`），
+   自 08-06 起挂错至今，今天她答"不会"时才暴露 —— 她答不出的条目要顺手复核块本身对不对
+```
+
+### 第 4 组 · 10 题 · 一字未改 6/10（她要求继续，超出 §0.1 的"学习日 ≤3 组"预算，记录在案）
+
+- **她的原话（逐字）**：`I'm stuck on the thrid question. I was paired with him, 这句话不会.you can feel the energy when(或者用 if?) you are there. Rather than taking the bus, I choose to walk(总觉只写 walk 太单薄了). I have been waiting for hours.  I walk a long way. he found a job near his place. I will go out for a while, so help me look after my lugguge (少主语可以么. I'm not able to watch my phone all day. I sit in meetings the whole morning.`
+
+```
+✅ 1  B117b `I'm stuck on the third question.` 一字未改 → 🎓 连对3
+📖 2  B117c `I was paired with him` 前半对（be paired with ✅），后半自报不会
+      → **When we got put into pairs, I got stuck with him.**（stuck with＝被迫接受甩不掉）
+✅ 3  B57b  `you can feel the energy when you are there.` 块装上
+      🆕 B203「只有…才」那层没出来 → **You ONLY get that energy when you're actually there.**
+      🆕 B204 她问 when 还是 if → **when**（一定会发生／每次都这样）；if＝不确定会不会发生
+✅ 4  B114b `Rather than taking the bus, I choose to walk.` 句首 -ing 全对 → 🎓 连对3
+      🆕 B205 她问"只写 walk 太单薄" → **解法不是换更重的动词，是加一个具体的东西**
+✅ 5  B161b `I have been waiting for hours.` 绕开了裸 for long（连错2 的顽固条，今天断掉）
+✅ 6  B161c `a long way` 一字未改（连错2 的顽固条，今天断掉）
+      ❌ B34 `I walk` → **walked**（中文"了"＝过去标记）
+❌ 7  B171f `he found a job` ＝找到了 → **He's looking for a job near his place.**（在找）
+      ✅ `near his place` 用得好
+◎ 8  B189 `help me look after my luggage` —— look after 在英式里也说得通，题面逼不出 keep an eye on
+      → 题面已改成「买东西的时候得留意点价格」（留意≠照看，只有 keep an eye on 能答）
+      她问"少主语可以么" → 祈使句可以省主语 ✅；但前半陈述＋so＋后半祈使有点别扭 → 拆开或用 can you
+❌ 9  B173 **意思整个反了**：`I'm not able to watch my phone all day` ＝我没法一整天都看手机
+      → **I can't go a day WITHOUT checking my phone.**
+      ❌ B148 极性 —— 中文"没法一天【不】看"有两个否定，她丢了一个
+      ⚠️ `watch my phone` → **check / look at my phone**（watch 是看节目，补进 B201）
+✅ 10 B55  `the whole morning` 合法（错的只有 all THE morning），trap 绕开
+      ❌ B34 第二次：`I sit` → **I was in meetings**（"一上午都在开会"是过去）
+      ⭐ `sit in meetings` 是 08-04 教练给的块（B52②），她今天自发复用
+```
+
+**★★★ 本组最重要的发现：极性在【简单句】守住了，在【嵌套否定】上垮了**
+```
+第 1 组「这东西早就没人做了」（一个否定）  → 她自己抓回来 ✅
+第 4 组「我没法一天不看手机」（两个否定嵌套）→ 丢了一个，意思整个反过来 ❌
+⇒ B148 今日最终记 ❌（两次都是 cold，按"以最后一次为准"），连错 3
+⇒ **靶心没打完**：今天证明的是"她能查一个否定"，不是"她能处理否定"。
+   下一轮极性题必须直接上【两个否定】的句子（没法不…／没人不…／不是不想…）
+```
+
+**⑤ 独立 Diff**
+```
+【1】原句  I'm stuck on the thrid question.
+    改后  I'm stuck on the third question.
+    · thrid → third                  —  拼写，不计   · 无实质 diff
+【2】她自报不会。教练给：When we got put into pairs, I got stuck with him.
+    · 她已产出的 `I was paired with him` 完全正确，保留
+【3】原句  you can feel the energy when you are there.
+    改后  You only get that energy when you're actually there.
+    · feel the energy → get that energy      ⛔不必要  feel the energy 是对的，撤销
+    · 缺「只有…才」→ only … when             ⚠️更好  中文这层没出来
+【4】原句  Rather than taking the bus, I choose to walk.
+    改后  Rather than taking the bus, I just walk — it's only fifteen minutes anyway.
+    · choose to walk → just walk             ⚠️更好  choose 偏书面
+    · ＋ it's only fifteen minutes anyway    ⚠️更好  治"单薄"的正解：加具体的，不加重的词
+【5】原句  I have been waiting for hours.
+    改后  （同）
+    · 无 diff（for hours 完全对，且比 a long time 更有画面）
+【6】原句  I walk a long way.
+    改后  I walked a long way.
+    · walk → walked                          ❌真错  中文"了"＝过去
+【7】原句  he found a job near his place.
+    改后  He's looking for a job near his place.
+    · found → is looking for                 ❌真错  找到 ≠ 在找
+【8】原句  I will go out for a while, so help me look after my luggage.
+    改后  I'm just popping out — can you keep an eye on my luggage?
+    · so help me … → can you …               ⚠️更好  陈述＋so＋祈使不顺
+    · look after → keep an eye on            ⚠️更好（原句在英式里也说得通，故记 ◎ 不记 ❌）
+【9】原句  I'm not able to watch my phone all day.
+    改后  I can't go a day without checking my phone.
+    · 整句意思反了 → can't go a day without   ❌真错  丢了一个否定
+    · watch my phone → checking my phone     ❌真错  watch＝看节目
+【10】原句 I sit in meetings the whole morning.
+     改后 I was in meetings all morning.
+     · sit → was                             ❌真错  过去的事
+     · the whole morning → all morning        ⛔不必要  两个都对，撤销
+⛔ 2 处（feel the energy→get that energy · the whole morning→all morning，均已撤销）
+```
+
+**🆕 本组新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B203 | **「只有…才」那层**：`ONLY ＋ 动词` 或 `It's only … that/when`。<br>❌ You can feel the energy when you are there（丢了"只有"）<br>✅ **You only get that energy when you're actually there.**<br>★ 与 B197（"都要"那层）同族：**中文的限定副词最容易在翻译时掉队**——说完一句问"中文里那个『只/都/才/就』出来了吗？" | "只有到现场才有那种感觉" | 08-11 |
+| B204 | **when vs if（她当场问的）**：**when ＝ 这件事一定会发生／每次都这样**（when you're there ＝ 到了现场就有）· **if ＝ 不确定会不会发生**（if you go, you'll like it）<br>★ 判据：中文能不能换成"**每次…的时候**"？能 → when | "每次我走那条路都堵" vs "如果明天下雨我就不去了" | 08-11 |
+| B205 | **★ 治"句子太单薄"（她原话："总觉只写 walk 太单薄了"）**：<br>❌ 错解：换一个更重/更书面的动词（`I choose to walk`）—— 更书面 ≠ 更充实，而且更吃带宽<br>✅ 正解：**加一个具体的东西**（时间／距离／数字／结果）<br>`Rather than taking the bus, I just walk — it's only fifteen minutes anyway.`<br>★ 与 B197「都要那层」、B203「只有那层」同一根：单薄 ＝ **少了一层具体的，不是少了一个大词** | "与其坐公交，我走路"（要求带一个具体的） | 08-11 |
+
+### 改完当场重说 · 第 4 组 · 5/5 全对
+
+- **她的原话（逐字）**：`When we got put into Paris, I got stuck with him. I walked a long way. he is looking for a job near his place. I can't go a day without checking my phone. I was in meetings all morning.`
+```
+1 ✅ got stuck with him       （本日 📖 B117c，重说装上）
+2 ✅ walked                    （本日 ❌ B34）
+3 ✅ is looking for            （本日 ❌ B171f）
+4 ✅ can't go a day without    （本日 ❌ B173 ＋ 极性 B148，两条一起装上）
+5 ✅ was in meetings all morning（本日 ❌ B34 第二处）
+★ `Paris` 是输入法把 pairs 改掉了，不计
+★ 按 SKILL §0.5：给过答案后的重说不改当天标记（B117c 仍 📖，B34/B171f/B173/B148 仍 ❌），
+  事实层照记 —— 今天第二次拿到"改完当场重说 100%"的当日证据
+```
+
+### 第 5 组 · 10 题 · 一字未改 6/10
+
+- **她的原话（逐字）**：`1 第一个忘了 2. the app can save you lots of time. 3. i've been working at this company for 5 years. 4. i put things on the table last night. 5. an hour a day is completely fine. 6. 忘了 7. my English is not good, 后面忘了 8. i'v waited for half an hour. 9. I wait in queue for half an hour every time 这句说的也不太对 10. Japanese is a plus.`
+
+```
+📖 1  B89  忘了 → 口语默认 **I can't cook or bake.**（一个否定管两个，最省）
+      正式版 `I can neither cook nor bake.`（能用但偏书面）
+      ★ 思路：中文"既不…也不…"在英语口语里通常压成 **一个 not ＋ or**，不必上 neither…nor
+✅ 2  B92  `the app can save you lots of time.` 一字未改 → 🎓 连对3
+✅ 3  B151 `i've been working at this company for 5 years.` 一字未改 → 🎓 连对3
+✅ 4  B152a `put` 用作过去式正确（last night 坐实）→ 🎓 连对3
+      ⚠️ 她把题面的"他"读成了"我"（注意力滑，不是语言问题，记一笔）
+✅ 5  B109b `an hour a day is completely fine.` 与目标块一字不差
+📖 6  B109c 忘了 → **It's not that games are bad — it's about how long.**
+      ★ 思路：中文"不是A，是B"两个壳：`It's not THAT A — it's B`（后面跟整句）／
+        `It's not A, it's B`（后面跟名词短语）
+📖 7  B171g 前半有、后半忘 → **My English isn't great, but I get by.**
+      ★ get by ＝勉强应付得来；**but I get by** 整块就是"但日常应付得来"的固定收尾
+      ⚠️ `my English is not good` 成立但生硬 → `isn't great`（英语里说自己差用"不够好"这一档）
+✅ 8  B196 `half an hour` 考点对（今天 ❌ 过一次，重说后 cold 又对）
+      ⚠️ `I've waited for half an hour` 语法成立但少见 → 等完了用 `I waited half an hour.`／
+         还在等用 `I've been waiting for half an hour.`
+❌ 9  B197 "都要"那层【又】没出来 → **I always end up queuing for half an hour every time I go.**
+      ❌ 🆕B206 `in queue` → **in a queue**（英式 queue 可数）／更省：**queue** 当动词
+      ★ 她自报"这句说的也不太对" —— 判断准确，今天第 4 次自诊命中
+✅ 10 B51  `Japanese is a plus.` 一字未改（招聘语境里英语就是这么说，"会"不用译出来）
+```
+
+**⑤ 独立 Diff**
+```
+【1】忘了，无原句。教练给：I can't cook or bake. ／ I can neither cook nor bake.
+【2】原句  the app can save you lots of time.
+    改后  （同）   · 无 diff
+【3】原句  i've been working at this company for 5 years.
+    改后  （同）   · 无 diff
+【4】原句  i put things on the table last night.
+    改后  He put his things on the table last night.
+    · i → He                       —  题面是"他"，读串了，不算语言错
+    · things → his things          ⚠️更好  中文"东西"＝他的东西
+【5】原句  an hour a day is completely fine.
+    改后  （同）   · 无 diff
+【6】忘了，无原句。教练给：It's not that games are bad — it's about how long.
+【7】原句  my English is not good, ...
+    改后  My English isn't great, but I get by.
+    · is not good → isn't great    ⚠️更好  说自己差，英语习惯用"不够好"这一档
+    · 后半缺失 → but I get by      📖
+【8】原句  i'v waited for half an hour.
+    改后  I waited half an hour. ／ I've been waiting for half an hour.
+    · I've waited for → I waited ／ I've been waiting for   ⚠️更好  完成时＋时长少见
+    · half an hour                 ✅ 考点，不动
+【9】原句  I wait in queue for half an hour every time.
+    改后  I always end up queuing for half an hour every time I go.
+    · in queue → in a queue ／ queuing   ❌真错  英式 queue 可数
+    · I wait → I always end up          ⚠️更好  补回"都要"那层（B197）
+    · every time → every time I go      ❌真错  every time 是连词，后面要完整从句（B94）
+【10】原句 Japanese is a plus.
+     改后 （同）   · 无 diff
+⛔ 0 处
+```
+
+**🆕 本组新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B206 | **queue 是可数名词**：`in A queue` ／ `join the queue`（in queue ❌）。<br>★ 最省是把它当动词用：**queue for half an hour** ／ 美式 **wait in line** | "我排了半小时队" | 08-11 |
+
+### 改完当场重说 · 第 5 组 · 4/4 全对
+
+- **她的原话（逐字）**：`i can't cook or bake. it's not that games are bad, it's about how long. my english isn't great, but i get by. i always end up queuing for half an hour every time i go.`
+```
+1 ✅ can't cook or bake          （本日 📖 B89）
+2 ✅ it's not that A, it's B      （本日 📖 B109c）
+3 ✅ isn't great, but I get by    （本日 📖 B171g）
+4 ✅ always end up queuing … every time I go（本日 ❌ B197＋B206＋B94 三条一起装上）
+★ 今日第三次拿到"改完当场重说 100%"：4/4 · 5/5 · 4/4，合计 13/13
+  ⇒ 08-10 的结论（只有重说过的才保得住）今天在同一 session 内被反复坐实
+★ 按 §0.5：给过答案后的重说不改当天标记
+```
+
+### 第 6 组 · 10 题 · 有效 5 题（另 5 题作废，见下）· 一字未改 2/5
+
+- **她的原话（逐字）**：`His things are all over the floor. Children will lost interest on their schoolwork(不确定是 on还是其他介词). you should pay attention to prices when you buy things. my mon help me take care of / look after my kid on weekends. i don't have chargers, so i use my colleague's. the roads were pretty jammed. the traffic i cheng is heavy. it is less about the machine itself and more about the time spent together. colourful dinosaurs. he can watch things on the screen turn into real objects. 不知道。另外为啥今天学的就进入复习了？？`
+
+### ★★★ 她的第 37 次纠正：**"为啥今天学的就进入复习了？"** —— 成立，教练错
+
+```
+第 6 组 10 题里有 5 题（B193 B195 B198 B200 B201）是【今天刚建的号】。
+当天教完当天抽查 ＝ 不是 cold 测 —— 她答对只证明还没忘（间隔一小时），
+📊 会因此吃进一批假 ✅，把毕业进度整个撑虚。
+⇒ **这 5 题的结果作废，不进 📊**，次日作为 D-1 重新 cold 测
+⇒ SKILL §0.1 已加死规则：**新建条目 / 当天改过题面的条目，当天不进复习组**；
+   当天对新条目只有一个动作 ——【改完当场重说】（那是产出，不是抽查，不进 📊）
+★ 根因同 §0.1 的预算问题：教练想"把今天产出的东西赶紧闭环"，
+  但闭环的手段是【重说】，不是【抽查】。两者混掉就等于自己给自己发假成绩
+```
+
+```
+✅ 1  B154 `His things are all over the floor.` 一字未改 → 🎓 连对3
+❌ 2  B107a `will LOST` → **will lose**（will ＋ 原形）；`interest ON` → **interest IN**
+      她自报"不确定是 on 还是其他介词" —— 判断准确，今天第 5 次自诊命中
+      ★ 兴趣的对象一律 **in**：be interested IN／have an interest IN／lose interest IN
+      ✅ `schoolwork` 用对（B107a 的另一半）
+◎ 3  B189 第二次 ◎：她答 `pay attention to prices` 完全合法，题面还是逼不出 keep an eye on
+      ⇒ 结论：**"留意/看着"这类中文没有任何一句能唯一逼出 keep an eye on**（它只是多个近义之一）
+        → 抽查方式改成【这句给两种说法】（同 B171d 的做法）
+      ✅ 附带：B107b `pay attention TO` cold 产出正确
+✅ 4  B171d 两种说法都给了（take care of ／ look after）→ 考点达成
+      ❌ B27 `my mon HELP` → **helps**（主谓一致，今天第二次：the two hours makes ／ my mom help）
+📖 10 B109d 不知道 → **Anything's fine in moderation.**（in moderation 挂句尾）
+```
+
+**作废的 5 题（次日重测，此处只留事实，不记标记）**
+```
+5  B193 `i don't have chargers, so i use my colleague's`
+   ❌ 时态：中文"就用了"＝过去 → **didn't have a charger, so I used**（B34 今天第三次）
+   ❌ `chargers` 复数 → a charger（一个）
+6  B195 `the roads were pretty jammed` ⭐ **今天刚学的 jammed 主动用出来了，时态也对**
+   `the traffic i cheng is heavy` → 打字乱了；泛指说法 `Traffic in Chengdu is always bad.`
+   （带 the 不算错，但少了"一直"那层 —— 又是副词层，同 B197/B203）
+7  B198 ✅ `and` 改回来了      8  B200 ✅ colourful dinosaurs
+9  B201 ✅ watch ＋ real objects
+```
+
+**⑤ 独立 Diff（只列有效题）**
+```
+【1】原句  His things are all over the floor.
+    改后  （同）   · 无 diff
+【2】原句  Children will lost interest on their schoolwork.
+    改后  Children will lose interest in their schoolwork.
+    · will lost → will lose        ❌真错  will 后面用原形
+    · interest on → interest in    ❌真错  兴趣的对象用 in
+【3】原句  you should pay attention to prices when you buy things.
+    改后  （同）   · 无 diff（题面问题，不是她的问题）
+    · 第二种说法 → keep an eye on prices   📖 教练补
+【4】原句  my mon help me take care of / look after my kid on weekends.
+    改后  My mum helps me look after my kid at weekends.
+    · help → helps                 ❌真错  主谓一致
+    · mon → mum                    —  拼写，不计
+【10】不知道，无原句。教练给：Anything's fine in moderation.
+⛔ 0 处
+```
+
+**★★ 同日发现：拆号不许继承父号连击（已写进 SKILL §0.1）**
+```
+B107 拆成 B107a/b 时，教练让两个子号都继承父号的"连对 2"。当天就被证伪：
+   B107a（lose interest IN）❌ ／ B107b（pay attention TO）✅
+⇒ 父号的两次 ✅ 至少有一半是虚的 —— 父号一次只测到它多个考点里的一个
+⇒ 拆号后所有子号一律从 0 起算；**B107a/B107b 即日起重算**
+⇒ 已靠继承毕业的 B57a B114a B117a B152a：不追溯撤销，但标「继承毕业·待复查」，
+  下一个专门复习日各复查一次
+```
+
+### 改完当场重说 · 第 6 组 · 4/4 全对（今日重说累计 17/17）
+
+- **她的原话（逐字）**：`children will lose interest in their schoolwork. you should keep an eye on prices when you're buying things. my mum helps me look after my kid at weekends. anything is fine in moderation.`
+
+### 她要求展开：`in moderation`（"类似的结构我都不会翻译"）
+
+> 教练第一次答偏了（讲成"疑问词＋都"的 any/every/no 三分），她纠正：**"我的问题是 in moderation"**。
+> 两条都记下来（§0.5 零遗漏：教练给的内容也要进复习），但她要的是第二条。
+
+**🆕 B207（教练答偏时给的，仍然有效，照收）**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B207 | **中文「疑问词＋都」→ 英语必须先分叉成三条路**（中文一个模式，英语三个）：<br>① 肯定·随便哪个 → **any-**：什么都行 `Anything's fine.` ／ 谁都能来 `Anyone can come.` ／ 哪儿都买得到 `You can get it anywhere.`<br>② 肯定·全部 → **every-**：什么都涨了 `Everything's gone up.` ／ 谁都知道 `Everyone knows.`<br>③ 否定 → **no-**，且动词**不再否定**：谁都不知道 `Nobody knows.`（❌ Nobody doesn't know）<br>★ 三步：①中文疑问词决定词根（thing/one/where/time/way）②判肯定还是否定决定前缀 ③no- 之后不许再 don't<br>⚠️ 陷阱："没问题／没关系／不错"在中文里是**肯定判断**，别当否定处理 —— "什么东西适度都没问题"走 ①<br>★ 邻族：**不管…都** → whatever／whoever／however（不管多累我都去 `However tired I am, I'll go.`） | "什么都行，你定吧" ／ "谁都不想加班" ／ "我哪儿都没去" | 08-11 |
+
+**🆕 B208（她真正问的那条）**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B208 | **★★ 中文的"两字/四字方式词" → 英语多半是【介词＋抽象名词】的固定块，不是 -ly 副词**<br>她卡住的真因：检索路径是「中文副词 → 英语 -ly」，而这一类**没有 -ly 版本**（`moderately` 存在，但意思是"中等程度地"，修饰形容词：moderately priced；不能说 `Anything's fine moderately` ❌）<br>**介词不可推导，只能整块记。** 高频十条（口语够用，不扩散）：<br>in **moderation** 适度 · in **advance** 提前 · in **a hurry** 匆忙 · in **person** 亲自/当面 · in **general** 总的来说 · on **purpose** 故意 · on **time** 准时 · by **accident/mistake** 不小心 · at **least** 至少 · to **some extent** 某种程度上<br>★ 触发判据：中文出现"适度／故意／亲自／提前／不小心／总的来说"这种**两字或四字的方式词** → 别去找 -ly，直接想"是不是一个介词短语"<br>★ `Everything in moderation.` 本身就是英语谚语（凡事有度）—— 她那句中文几乎就是它的直译源，**整句背最省** | "凡事适度就好" ／ "他是故意的" ／ "我提前订了票" ／ "我不小心把它删了" | 08-11 |
+
+### B208 当场 drill · 8 题 · 考点 8/8（同日教的，不进 📊）
+
+- **她的原话（逐字，第二版；第一版她自己打断改掉了两处）**：`everything in moderation is fine. he did it on purpose. i booked tickets one week in advance. i deleted files by accident. he walk slowly. i want to talk in person. in general i'm pretty satisfied. you should try it at least once`
+- **★ 两处自纠（cold，无提示）**：`find`→`fine` ／ **`he is on purpose`→`he did it on purpose`**
+  第二处是真自纠：on purpose 必须挂一个实义动词，不能挂 be —— 她自己抓到了
+
+```
+八个介词块【全部选对】：in moderation · on purpose · in advance · by accident ·
+                        in person · in general · at least ＋ 陷阱题 slowly 没上当
+⇒ B208 这条【路径】一次就通。但按 §0.1 新规：同日教同日测 ≠ cold，不进 📊，次日重测
+
+本轮暴露的两条真问题（跟 B208 无关，都是老账）：
+❌ B27 主谓一致 `he walk` → **he walks** —— **今天第三次**
+   （the two hours MAKES ／ my mom HELP ／ he WALK）
+   ⇒ 与词条描述完全吻合："孤立 100%，产出中反复错 ＝ 检索失败，不是知识缺口"
+⚠️ 程度层又掉一次 `我更想当面聊` → `I want to talk` 丢了"更" → **I'd RATHER talk in person.**
+```
+
+**★★★ 今日第四次同族发现 → 升为明日靶心：中文的【限定/程度副词】系统性掉队**
+```
+08-11 一天之内四次，全是同一个动作没做：
+  ① "我每次去都要排半小时队"  都要 → 丢    （B197）
+  ② "只有到场才有那种感觉"    只有 → 丢    （B203）
+  ③ "成都的交通一直不好"      一直 → 丢    （B195）
+  ④ "我更想当面聊"            更   → 丢    （本轮）
+共同点：这些字**在中文里只有一个字**（都/只/一直/更/才/就），信息量却极大 ——
+       它们承载**说话人的精确度和立场**，丢了句子就变平、变含糊
+为什么专丢它们：cold 产出时带宽只够搭骨架（主谓宾），
+       这些字挂在骨架【外面】，是第一批被挤掉的（与"一句话没了"同源）
+⇒ 明日靶心：**说完一句，回头找中文里的那个"都/只/一直/更/才"出来了没有**
+⇒ 已建 🆕 B209 作为操作条目
+```
+
+**🆕 B209**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B209 | **★ 限定/程度副词不许掉队（操作，做出来测）**：中文里的 **都／只／一直／更／才／就** 各有固定英语出口，产出后必须回头点名检查：<br>都要/总是 → `always end up ‑ing` ／ `have to`<br>只有…才 → `only ＋ 动词` ／ `It's only … that`<br>一直 → `always` ／ `keeps ‑ing`<br>更…（比较） → `I'd rather` ／ `more`<br>才 → `not until` ／ `only then`<br>就 → `just` ／ `straight away`<br>★ 检查触发：**说完一句问"中文里那个单字副词出来了吗？"**（B197/B203/B195 三条并入本号统一管） | "我每次去都要排队" ／ "只有周末才有空" ／ "他一直没回我" ／ "我更想在家吃" | 08-11 |
+
+### 新题 ② · P3 `Do you think enterprises should provide training for their employees?`（question_bank.md:991）
+
+- **她的原话（逐字）**：`yes, definitely. the knowledge and skills that companies demand are completely different. training can help new employers get to know about new environment. Especially for students, they can do almost nothing if they aren't families with various processes at new companies at all. on top of that, training is one of the most efficient ways for employers to keep up with the development of the enterprises.(这里我想加个例子，但是一时没想起来)`
+
+**五层诊断**
+```
+层1 语法搭配
+  ❌ 🆕B210 **employers（雇主）→ employees（雇员）** —— 全篇三处，说反了
+     `new employers get to know` / `for employers to keep up` ⇒ 意思变成"老板去适应/跟上"
+  ❌ B49   `completely different` **缺比较对象** —— different FROM WHAT？
+     → `different from what you learn at university`
+  ❌ 🆕B211 `get to know about new environment` → **get used to A new environment**／**settle into**
+     （get to know 是"认识某人"；且 environment 可数，缺冠词）
+  ❌ 🆕B212 `families with` → **familiar with**（形近词；若是输入法所致，下次留意）
+层2 词的精确度
+  ❌ B46   `most efficient ways` → **most effective**（efficient＝省时省人力；达到效果用 effective）
+  ❌ B136  三个书面词一起回来：`demand`→**need** ／ `enterprises`→**companies/firms** ／
+           `the development of the enterprises`→**how fast the company changes**
+  ⚠️ `students` → **fresh graduates**（职场语境里不是"学生"，是"应届生"）
+层3 衔接与语气
+  ✅ `yes, definitely` 立场直给 · `Especially for…` · **`on top of that`（B 表的块，自发复用）**
+  ⚠️ 第 1 句和第 2 句之间缺一个桥 → `The thing is, …`
+  ⚠️ `Especially for students, THEY can…` 结构松（状语＋另起主语）→ 破折号接上去更顺
+层4 逻辑层次
+  ✅ 立场 → 理由1（知识不对口）→ 展开（尤其应届生）→ on top of that → 理由2（跟上变化）
+  ✅ 两个理由主角不同（B63 通过）：理由1 主角＝新人的知识差距；理由2 主角＝公司的变化速度
+  ⚠️ 理由1 到"尤其学生"之间跳了一步：知识不对口 **⇒ 所以需要培训** 这一句没说出来
+层5 内容深度
+  ✅ 理由1 有展开   ❌ 理由2 没有展开 —— **她自己说"想加个例子但没想起来"，判断准确（今日第 6 次自诊命中）**
+  → 用她自己的行业最省：`Take my industry — a new tool comes out every year, and if the company
+    doesn't run any training, everyone's still doing things the old way.`
+理解侧冗余  第 4 条（比较对象形式对齐）踩中 —— 见 B49
+```
+
+**★★ 本轮最值得记的一条：B136 单点测对、自由产出时原样回去**
+```
+同一天：第 2 组中译英 `now with AI` ✅（08-10 回潮的那条，单点 cold 测通过）
+       自由产出 P3 里一次冒出三个书面词（demand／enterprises／the development of）
+⇒ 按"以最后一次为准"，B136 今日最终记 ❌
+⇒ 这不是矛盾，正是带宽模型的预测：**单点测时带宽只用来管一个词，
+   自由产出时带宽全被内容和结构吃掉，词的选择自动回落到"阅读里见过的那版"**
+⇒ 教练侧结论：**书面词降级这类条目，单点中译英测出的 ✅ 不算数**，
+   只有在自由产出里不出现才算过 —— 这一条同 §0.3 的"减法型规则"处理方式
+```
+
+**⑤ 独立 Diff**
+```
+【1】原句  yes, definitely.
+    改后  Yes, definitely.
+    · 无 diff
+【2】原句  the knowledge and skills that companies demand are completely different.
+    改后  What companies actually need is completely different from what you learn at university.
+    · demand → actually need              ❌真错（B136 档）书面词，有口语版
+    · completely different → different FROM what you learn at university   ❌真错  比较对象缺失
+    · the knowledge and skills that…      ⚠️更好  整块换成 what companies need，更省
+【3】原句  training can help new employers get to know about new environment.
+    改后  Training helps new employees get used to a new environment.
+    · employers → employees               ❌真错  雇主/雇员说反了
+    · get to know about → get used to     ❌真错  get to know 是"认识某人"
+    · new environment → a new environment ❌真错  可数名词缺冠词
+    · can help → helps                    ⚠️更好  说普遍规律不用 can
+【4】原句  Especially for students, they can do almost nothing if they aren't families with various processes at new companies at all.
+    改后  Especially fresh graduates — they can barely do anything until they know how things work.
+    · families → familiar                 ❌真错  形近词
+    · students → fresh graduates          ⚠️更好  职场语境
+    · Especially for X, they…             ⚠️更好  状语＋另起主语太松，用破折号接住
+    · various processes at new companies  ⚠️更好  → how things work（降级，B136）
+    · can do almost nothing → can barely do anything   ⚠️更好
+【5】原句  on top of that, training is one of the most efficient ways for employers to keep up with the development of the enterprises.
+    改后  On top of that, it's one of the best ways to keep people up to date.
+    · efficient → effective／best         ❌真错（B46）
+    · employers → employees／people       ❌真错  第三次
+    · the development of the enterprises  ❌真错（B136 档）→ keep people up to date
+    · training is → it's                  ⚠️更好  前句已说 training，不必重复
+【补】层5 缺的例子（她自报）：Take my industry — a new tool comes out every year, and if the
+     company doesn't run any training, everyone's still doing things the old way.
+⛔ 0 处
+```
+
+**🆕 本题新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B210 | **employer ＝ 雇主/老板 ／ employee ＝ 雇员/员工**（她全篇三处说反）。<br>抓手：**‑er 是【给】工作的那个，‑ee 是【拿】工作的那个**（同族：trainer/trainee · interviewer/interviewee · payer/payee）<br>★ 最省的躲法：口语直接说 **staff ／ workers ／ people**，不碰这对词 | "公司应该给员工提供培训" | 08-11 |
+| B211 | **"适应新环境" ＝ get used to ／ settle into**（❌ get to know about）：<br>`get used to a new environment` ／ `settle into a new job` ／ 最口语 `find your feet`<br>★ 对照：**get to know ＋ 人**（认识某人）· **get to know about ＋ 事**（了解到某事） | "新人需要时间适应新环境" | 08-11 |
+| B212 | **be familiar WITH sth**（形近词提醒：她打成 `families with`）；反面 **be new to sth**（`I'm still new to this`） | "他对这套流程还不熟" | 08-11 |
+
+### 她问：especially 和 especially for 的区别（教练讲了，drill 未做 → 顺延）
+
+**🆕 B213**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B213 | **★ `for` 不是 especially 带来的，是句子本身需要的**。especially ＝ 聚光灯，照在句子里**已经存在的某个成分**的更小范围上；那个成分原来带什么介词就带什么：<br>`Training helps new people.` → especially **fresh graduates**（helps 及物，不带 for）<br>`Training is useful FOR new people.` → especially **FOR** fresh graduates（for 是 useful 要的）<br>`I go there AT weekends.` → especially **ON** Sundays ／ `high IN big cities` → especially **IN** Shanghai ／ `hard WHEN you're new` → especially **WHEN** you don't know anyone<br>**判据**：把 especially 删掉，这句本来要不要那个介词？要就留，不要就不加。<br>⚠️ 她真正的错不是 for，是**挂空**：`Especially for students, THEY can…` 介词短语后面另起完整句 ⇒ 悬空<br>两个修法：① 挂回上一句（`…, especially fresh graduates.`）② **万能式：`This is especially true for/when…`**（想让它单独成句就给它主谓） | "这个 app 对上班族特别有用" ／ "房租很贵，尤其在市中心" ／ "一个人住很难，尤其刚搬来的时候" | 08-11 |
+
+**未做的 drill（顺延到 08-12）**：①这个 app 对上班族特别有用 ②房租很贵，尤其在市中心
+③培训能帮新人上手，尤其是应届生 ④我周末都在家，尤其是周日 ⑤一个人住很难，尤其刚搬来的时候
+⑥这一点对老年人来说尤其如此
+
+---
+
+📊 2026-08-11 ✅ B3 B12 B31a B51 B55 B57a B57b B73 B90 B92 B104 B107b B109b B114a B114b B117a B117b B121 B123 B141 B151 B152a B154 B159 B161a B161b B161c B165 B166 B168 B171d B186 B187 B196  📖 B89 B109a B109c B109d B117c B171g B175  ◎ B189 B191a  ❌ B27 B34 B39 B41 B43 B45 B46 B49 B68 B107a B136 B148 B157 B171a B171f B173 B192 B197  🆕 B193 B194 B195 B196 B197 B198 B199 B200 B201 B202 B203 B204 B205 B206 B207 B208 B209 B210 B211 B212 B213（本日新建 21 条）· B27 B41 B43 B49 B51 B55 B123 B192 （老条目首次进流，基线 0）
+　　　　　　　　🎓 本日毕业 16 条：B57a B57b B90 B92 B104 B114a B114b B117a B117b B151 B152a B154 B159 B165 B166 B168
+　　　　　　　　⚠️ 作废不计：B193 B195 B198 B200 B201（同日新建同日测，非 cold，08-12 重测）· B208 drill 8 题（同上）
+　　　　　　　　⚠️ 撤销继承：B107a/B107b 从 0 重算（拆号继承被当天证伪）
+　　　　　　　　⛔ 教练不必要改动本日合计 11 处（G1 3 · G2 3 · G3 2 · G4 2 · P2 1），全部已撤销
+
+### ★★★ 她的第 36 次纠正（08-11，整节推翻教练发明的"时间预算"）
+
+> 她的原话：**"这个 skill 谁改的，感觉很奇怪。学习日复习 D-1 + D-3 的全部，然后出新题，
+> 然后新题数目设定为 3（这个按照我说的来），但是可以扩展，也可以继续复习（按照既有规则），
+> 人工选择。每 5 天进入复习日，复习过去 5 天的全部 + 抽样（按照既有规则），不限定复习数量。
+> 如果我觉得够了会自然停止。"**
+
+```
+背景：08-11 早些时候教练跑三轮 subagent 对抗演练，验收 agent 的诊断是
+     "没有时间预算 → 结构性地逼出抽样"。教练的解法＝**发明时间预算**（学习日 ≤3 组 / 复习日 ≤6 组）。
+     ⇒ **那个预算她从来没定过，是教练自己加的。**
+当天下午就撞墙：3 组 ＋ 1 道真题跑完（＝预算满），她说"继续吧"，
+     教练只好硬开第 4、5 组中译英 —— 而 skill 自己的停练清单写着「中译英当流利训练＝喂中介」。
+     **预算把教练逼进了一个它本来要防的坑的对面。**
+
+她的方案（已写进 SKILL §0.1 / §0.2c / §0.4）：
+  学习日  ① 复习 D-1＋D-3 的【全部】（不设上限）
+          ② 新题 3 道（走脚本；原来 skill 写的是 1 道，"3"是她这次定的）
+          ③ 加练与否【她决定】；她说继续 → 默认切【真题】通道，不是再来一组中译英
+  复习日  不学新的，过去 5 天全部 ＋ 更早抽查 ＋ 题目重答 5 道，同样不限量
+  停止规则  **"如果我觉得够了会自然停止"** ——【人工停止】替代【数字预算】，
+           同样堵死抽样，且不会与"她想继续"冲突
+
+★ 结构性收益：配额规则从【筛选】降级为【排序】。全量之后没有条目会被排除，
+  "每组 ≥N 条"只会制造凑数；真正有用的只剩"万一她中途喊停，先出的必须是最该清掉的"。
+★ 教练侧教训：**对抗演练找出的问题是真的，但演练不能替她做设计决策。**
+  "没预算"确实是漏洞，但补法有两种（数字上限／全量+人工停止），教练选了前者且没问她。
+```
+
+**⚠️ 连带后果（已写进 §0.4，需她定夺）**：新题 3 道/学习日 ⇒ 每周期 15 道进重答队列，
+而复习日只重答 5 道 ⇒ **队列每周期净增 10 道**。处理：重答按"最久没重答的优先"，
+每个复习日报一次队列长度，由她决定要不要调 5 这个数。教练不许为了平队列而少抽新题。
+
+### 📦 顺延队列（08-12 优先出。顺延触发条件已改为【她喊停时没出完的】，不再是预算触发）
+
+```
+▸ 未答完的题（最优先）
+   P2 新题②「Describe a time when you worked in a group」（已在 asked.log，题面见 question_bank.md:308）
+   B213 especially drill 6 题（题面见上面 B213 段落）
+
+▸ 本日新建号，08-12 首次 cold 测（21 条）
+   B193 B194 B195 B196※ B197※ B198 B199 B200 B201 B202 B203 B204 B205 B206
+   B207 B208 B209 B210 B211 B212 B213
+   ※ B196/B197 今天已 cold 测过（B196 ✅ / B197 ❌），其余全部首测
+
+▸ 本日作废、必须重测的 5 条（同日新建同日测，非 cold）
+   B193 B195 B198 B200 B201  ＋ B208 的 8 题 drill
+
+▸ 本日改过题面、必须重测的
+   B189「买东西的时候得留意点价格」→ 二次 ◎，题面再改成【给两种说法】
+   B191a「一出事故，整条环路全堵死了，一动不动」（今天没测到）
+
+▸ 老条目还没出的
+   B31b「我老婆什么都网购」· B191b「地铁里人挤人」· B34「我以前常去健身房」（今天两次 ❌，要重练）
+
+▸ 顽固条（连错 ≥2，每组必进）
+   B148（连错3·极性）· B45（back and forth）· B171a（make do with）· B171f（look for）· B136（书面词降级）
+
+▸ 待拆号（遇到再拆）：B19 · B147
+▸ 待复查（靠继承毕业的，下一个专门复习日各查一次）：B57a B114a B117a B152a
+```
+
+### ★ 她的第 33 次纠正（08-11，成立，已改进 SKILL §2.5）
+
+> 她的原话：**"我发现一件事 diff 的时候你得把原句和改后的完整句加进去，不然不够直观，也容易漏"**
+
+```
+教练原来的 diff 格式：只列【片段 → 片段】
+她指出的两个后果，都成立：
+  ① 不直观 —— 片段脱离句子，她读不出改动落在哪个位置
+  ② 容易漏 —— 这是更重的一条：教练自己也是靠片段清单在自查，
+              漏掉的那处根本不会出现在清单里，也就永远查不出来
+     ★ 摆上完整两行句子，就能逐词对扫，漏了一眼看得出 —— 这是【可验证性】问题，不只是排版问题
+⇒ SKILL §2.5 已改：每句先摆「原句 / 改后」两行完整句，再列片段级差异；
+  零 diff 的句子也要摆原句并写"无 diff"（否则"检查过"和"跳过了"分不开）
+```
+★ 与她 08-04 定的「零遗漏」同一根：**判断哪条值得记＝已经在漏**；这次是**格式本身在制造漏**。
+
+📊 2026-08-11 ✅ B3 B12 B31a B57a B73 B90 B104 B114a B117a B121 B123 B136 B141 B148 B159 B161a B165 B166 B168 B186 B187  ◎ B171d B191a  📖 B109a B175  ❌ B27 B41 B43 B45 B171a B192  🆕 B193 B194 B195 B196 B197（本日新建号）· B27 B41 B43 B123 B192（老条目首次进流，基线 0）
+　　　　　　　　🎓 本日毕业 9 条：B57a B90 B104 B114a B117a B159 B165 B166 B168
+　　　　　　　　（口径说明：标记打在 B 号上，一句话可同时出 ✅ 和 ❌；一字未改率＝✅ 数／题数，见 SKILL §0.5）
+
+### 🏆 本日进步（三条自诊，全部命中，且都是她主动报的）
+
+| 项 | 事实 | 为什么算进步 |
+|---|---|---|
+| **极性自查** | 第 1 组第 1 句先发出 `has been made`（否定丢了），她自己打断重发成 `has not been made` | 今天的靶心就是极性；**无提示自查命中**，08-04/08-05/08-08 三次极性错都是教练抓的 |
+| **"都要"这层没出来** | 自报 `I wait for an hour` 缺了"都要" | 这是【压缩/丢层】的自我感知 —— 她过去只在语法层有直觉，这次是**语义层丢东西也感觉到了** |
+| **share 用得不对** | 自报 `not enough jobs to share` 里"share 感觉可以不要" | 判断完全正确。**她对"这个词撑不住这个结构"的直觉出现了**，这是搭配层的自诊，以前没有过 |
+| **时态自诊（存疑但选对）** | 想用过去完成时，怀疑能不能配 last year，最后选了过去式 —— 选对了 | B147 边界（具体时间点→过去式）已经能在**犹豫状态下**做对，不只是提示下做对 |
+| **改完当场重说（同一天内）** | 第 1 组 cold `made do it with` ❌ → 第 3 组自己产出 `have to make do with` ✅ | 08-10 的结论"只有重说过的才保得住"，今天在**同一次 session 内**再证一次 |
 
 ---
 

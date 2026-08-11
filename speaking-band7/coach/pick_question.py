@@ -122,12 +122,16 @@ def main():
         return fresh
 
     picked = []
+    picked_text = set()          # ★ 同一批内去重（08-11 修 bug：原来比对的是
+                                 #   (kind, q) 元组和 q，永远不相等 ⇒ 同批可能抽到重复题）
     for _ in range(n):
         kind = forced if forced else draw_kind()      # ★ 每题独立掷骰
-        cand = [q for q in pool_of(kind) if q not in picked]
+        cand = [q for q in pool_of(kind) if q[1] not in picked_text]
         if not cand:
             continue
-        picked.append((kind, random.choice(cand)))
+        q = random.choice(cand)
+        picked.append((kind, q))
+        picked_text.add(q[1])
 
     lines = []
     for kind, (topic, text, lineno, bullets) in picked:
