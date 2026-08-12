@@ -405,8 +405,7 @@
    本批次(D-1) 条目数才是要打印的数。7/24 常驻题 E-029~E-033 **退出复习池**，只作判分参考。
 
 ★★★ **2026-08-11 判定台账（本场判过的条目，以本块为准）**
-     ⚠️ §6 各表的 streak 列**尚未逐行改写**（收尾时间不够）——**下一场开场第一件事就是照本台账把
-        §6 的 streak 列整表重写一次**，重写完删掉本行。这是欠账，写出来免得"算了就扔"（F52）。
+     ✅ **2026-08-12 开场已照本台账把 §6 各表的 streak 列逐行改写完毕 —— 欠账已还。**
 
      ✅ 1/3  E-001 E-002 E-003 E-005 E-006 E-007 E-008 E-009 E-010 E-011 E-015 E-017 E-018
      ✅ 1/2  E-026 E-027 E-028 E-035 E-036 E-037
@@ -418,9 +417,9 @@
              E-029（demand 框架）· E-032（`I more like`）· E-021 见上
      ★ E-030 E-031 判 ✅ 但**属 7/24 常驻题，已退出复习池** ⇒ 判定留档、不再进队列
 
-★ **改题面（08-11，共 7 条，全部已回写本文件）**：E-004 · E-010 · E-013(待改) · E-017 · E-021 · E-027 · E-035
-   ⚠️ E-013 的新题面**还没写** —— 需要一句只能译成 `the increase in the older population` 的中文
-     （现题面「随着老年人口的增加」两条路都通）。下场出题前必须先补，否则又是一个 ◎。
+★ **改题面（08-11 共 6 条 ＋ 08-12 补 1 条，全部已回写本文件）**：
+   E-004 · E-010 · E-017 · E-021 · E-027 · E-035 ＋ **E-013（08-12 补：「老年人口的增加是主要原因」，
+   把「增加」放在主语位置，语法上只能出名词短语 ⇒ 逼得出 `the increase in the older population`）**
 
 顺延队列（条数必须写出来，即使是 0）
        当前长度 = **0 条**（未毕业 K 6 < 8，本场没有溢出）
@@ -530,24 +529,24 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 **① 她写错的**
 | E | 中文触发点（抽查出这句） | 她写的 | 正确 | 类别 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-001 | 和年轻人相比，老年人有一些优势 | compared to **the younger** | compared to **the young** | LR 词形 | R · 挂代号 **P12** | 0/3 篇 |
-| E-002 | 老龄化带来的那些挑战 | the **challenge** caused by | the **challenges** caused by | P4 单复数 | **R（08-11 探针实测坐实）**：低压孤立答 `an aging population brings these challenges` —— 复数产得出 ⇒ 检索失败不是知识缺口 · 挂代号 **P4** | 0/3 篇 |
-| E-003 | 老年人往往更有经验、技术也更熟练 | tend to be more experienced **and be** highly skilled | …**and** highly skilled | GRA 并列同形 | R · 挂代号 **P12** | 0/3 篇 |
+| E-001 | 和年轻人相比，老年人有一些优势 | compared to **the younger** | compared to **the young** | LR 词形 | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
+| E-002 | 老龄化带来的那些挑战 | the **challenge** caused by | the **challenges** caused by | P4 单复数 | **R（08-11 探针实测坐实）**：低压孤立答 `an aging population brings these challenges` —— 复数产得出 ⇒ 检索失败不是知识缺口 · 挂代号 **P4** | **1/3 · ✅D—迷你复习** |
+| E-003 | 老年人往往更有经验、技术也更熟练 | tend to be more experienced **and be** highly skilled | …**and** highly skilled | GRA 并列同形 | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
 | E-004 | 在家庭层面，祖父母能帮上忙（08-11 改题面：原「在家庭层面」是光杆短语，答成 `family level` 也说不清对错） | **As for family level** | **At the family level** | P2 冠词/搭配 | R · 挂代号 **P2** | 0/3 篇 |
-| E-005 | 祖父母或多或少会帮年轻父母带孩子 | grandparents **help more or less youth** parents | grandparents **more or less help young** parents | 语序＋词性 | R · 挂代号 **P12** | 0/3 篇 |
-| E-006 | 这让父母能够全职工作 | which **makes parents have a chance to** work | which **allows parents to** work | P3 中式块 | R · 挂代号 **P3** | 0/3 篇 |
-| E-007 | 以中国为例，学生下午四点前就放学 | A case in point is China**,** students leave | A case in point is China**, where** students leave | **P7 逗号粘连** | R · 挂代号 **P7** | 0/3 篇 |
-| E-008 | 这比大多数人回到家的时间早得多 | much **more early** | much **earlier** | P6 比较级 | R · 挂代号 **P6** | 0/3 篇 |
-| E-009 | 大多数雇员或工人 | most employees or **worker** | most employees or **workers** | P4 单复数 | **R（08-11 探针实测坐实）**：低压孤立答 `most employers or workers` —— 复数产得出 ⇒ 检索失败 · 挂代号 **P4**（⚠️ 同答里 `employers` 应为 `employees`，另立 E-041） | 0/3 篇 |
-| E-010 | 我一般七点到家（08-11 改题面：原「回到家」与 E-008 的题面撞车，同组连出等于提前公布考点） | **get to home** | **get home** | P1 搭配 | R · 挂代号 **P1** | 0/3 篇 |
-| E-011 | 加上退休金支出 | Combined with **the pension** | Combined with **pensions** | P2 冠词/数 | **R（08-11 探针实测坐实）**：低压孤立答 `combined pension spending` —— 无冠词，冠词那一层她产得对 ⇒ 检索失败 · 挂代号 **P2**（⚠️ 同答丢了 `with`，另立 E-042） | 0/3 篇 |
+| E-005 | 祖父母或多或少会帮年轻父母带孩子 | grandparents **help more or less youth** parents | grandparents **more or less help young** parents | 语序＋词性 | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
+| E-006 | 这让父母能够全职工作 | which **makes parents have a chance to** work | which **allows parents to** work | P3 中式块 | R · 挂代号 **P3** | **1/3 · ✅D—迷你复习** |
+| E-007 | 以中国为例，学生下午四点前就放学 | A case in point is China**,** students leave | A case in point is China**, where** students leave | **P7 逗号粘连** | R · 挂代号 **P7** | **1/3 · ✅D—迷你复习** |
+| E-008 | 这比大多数人回到家的时间早得多 | much **more early** | much **earlier** | P6 比较级 | R · 挂代号 **P6** | **1/3 · ✅D—迷你复习** |
+| E-009 | 大多数雇员或工人 | most employees or **worker** | most employees or **workers** | P4 单复数 | **R（08-11 探针实测坐实）**：低压孤立答 `most employers or workers` —— 复数产得出 ⇒ 检索失败 · 挂代号 **P4**（⚠️ 同答里 `employers` 应为 `employees`，另立 E-041） | **1/3 · ✅D—迷你复习** |
+| E-010 | 我一般七点到家（08-11 改题面：原「回到家」与 E-008 的题面撞车，同组连出等于提前公布考点） | **get to home** | **get home** | P1 搭配 | R · 挂代号 **P1** | **1/3 · ✅D—迷你复习**（顺带判：第 4 题里 `get home` 用对） |
+| E-011 | 加上退休金支出 | Combined with **the pension** | Combined with **pensions** | P2 冠词/数 | **R（08-11 探针实测坐实）**：低压孤立答 `combined pension spending` —— 无冠词，冠词那一层她产得对 ⇒ 检索失败 · 挂代号 **P2**（⚠️ 同答丢了 `with`，另立 E-042） | **1/3 · ✅D—迷你复习** |
 | E-012 | 年轻劳动力持续下降 | **young workforce** keeps dropping | **the young workforce** keeps dropping | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
-| E-013 | 随着老年人口的增加 | with the **increase of** older population | with the **increase in the** older population | P2 介词＋冠词 | R · 挂代号 **P2** | 0/3 篇 |
+| E-013 | 老年人口的增加是主要原因（08-12 改题面：原「随着老年人口的增加」两条路都通，她走了 `as…grows` ⇒ 08-11 记 ◎。新题面把「增加」放在**主语**位置，语法上只能出名词短语） | with the **increase of** older population | with the **increase in the** older population | P2 介词＋冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-014 | 这让政府面临的处境更糟 | which **deteriorates** the situation | which **worsens** the situation | P1 动词框架（deteriorate 多不及物） | R · 挂代号 **P1** | 0/3 篇 |
-| E-015 | 大幅推迟退休年龄，从 60 到 65 | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带） | 0/3 篇 |
+| E-015 | 大幅推迟退休年龄，从 60 到 65 | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带） | **1/3 · ✅D—迷你复习** |
 | E-016 | 让政府别无选择，只能损害公众利益 | **makes governments have few choices but** hurt | **leaves governments with no choice but to** hurt | P3 中式块＋破碎习语 | R · 挂代号 **P3** | 0/3 篇 |
-| E-017 | 这项政策损害了公众的利益（08-11 改题面：原「公众的利益」是光杆短语，逼不出完整搭配） | the **profit** of the general public | the **interests** of the general public | LR 词义 | R · 挂代号 **P11** | 0/3 篇 |
-| E-018 | 总而言之 | **In Conclusion** | **In conclusion** | GRA 大小写（★ 只进 GRA 桶，不进 LR，见 scoring §2.0） | R · 挂代号 **P12** | 0/3 篇 |
+| E-017 | 这项政策损害了公众的利益（08-11 改题面：原「公众的利益」是光杆短语，逼不出完整搭配） | the **profit** of the general public | the **interests** of the general public | LR 词义 | R · 挂代号 **P11** | **1/3 · ✅D—迷你复习** |
+| E-018 | 总而言之 | **In Conclusion** | **In conclusion** | GRA 大小写（★ 只进 GRA 桶，不进 LR，见 scoring §2.0） | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
 
 **② 她说"不会/没把握/想换换不出"的**（最有价值 —— retrieval 缺口地图）
 > ⚠️ 本表原来**没有中文触发点列**，而复习出题只能从那一列出（F25）。
@@ -578,10 +577,10 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 
 | E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-025 | 祖父母经常帮年轻父母带孩子 | more or less help | **often** help | 待排序 | U（待定） | 0/2 |
-| E-026 | 这个政策在工人中很不受欢迎 | Almost all the workers don't like it | The policy **proved** very unpopular among workers | 🟡（= §9 的 G2） | U · 在池 | 0/2 |
-| E-027 | 一方面，老年人经验丰富；另一方面，他们学新技术比较慢（08-11 改题面：原题面把答案的前半句写在括号里＝提前公布考点） | At the same time | **On the other hand** | 待排序 | U（待定） | 0/2 |
-| E-028 | 政策把退休年龄从 60 提到 65 | delays the retirement age | **raised** the retirement age | 待排序 | U（待定） | 0/2 |
+| E-025 | 祖父母经常帮年轻父母带孩子 | more or less help | **often** help | **⚪ 劝退**（08-11 排序：often 她本来就会，当时是选错词不是不会）⚠️ 但 08-11 她在无提示时又写了 `more or else` ⇒ 真正的缺口是 `more or less` 的词形，已另立 **E-045** | 留痕 | — |
+| E-026 | 这个政策在工人中很不受欢迎 | Almost all the workers don't like it | The policy **proved** very unpopular among workers | 🟡（= §9 的 G2） | U · 在池 | **1/2 · ✅D—迷你复习**（另记 ✅+：她写的 `deeply unpopular` 比教练给的 `very unpopular` 更地道） |
+| E-027 | 一方面，老年人经验丰富；另一方面，他们学新技术比较慢（08-11 改题面：原题面把答案的前半句写在括号里＝提前公布考点） | At the same time | **On the other hand** | **🟡 留痕**（08-11 排序：配对意识问题，不是词汇缺口，不占装备位） | 留痕 | **1/2 · ✅D—迷你复习** |
+| E-028 | 政策把退休年龄从 60 提到 65 | delays the retirement age | **raised** the retirement age | **🟡 留痕**（08-11 排序：搭配值得记，但只在老龄化话题用得上，覆盖面窄） | 留痕 | **1/2 · ✅D—迷你复习**（顺带判：第 6 题她自发写出 `raised`） |
 
 **⚠️⚠️ 补建 E-034 ~ E-038（2026-08-10 五审查出：08-10 那场漏记了 5 条教练更好版）**
 
@@ -596,10 +595,10 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 
 | E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-034 | 晚上七点 | `7pm` | `7 pm`（数字与 am/pm 之间留空格） | 待排序 | U（待定） | 0/2 |
-| E-035 | 更多人开始租房，这种需求推高了房价（08-11 改题面：原题面把考点「避免 it 指代不明」直接写在括号里＝提前公布） | `it` 直接回指上一句 | `this demand` —— **用名词回指，不用光杆 it** | 待排序 | U（待定） | 0/2 |
-| E-036 | 劳动力持续萎缩 | `keeps dropping` | `keeps **shrinking**`（drop 是掉落，shrink 才是萎缩） | 待排序 | U（待定） | 0/2 |
-| E-037 | 随着老年人口增长 | `with the increase of older population` | `**as** the older population grows` | 待排序 | U（待定） | 0/2 |
+| E-034 | 晚上七点 | `7pm` | `7 pm`（数字与 am/pm 之间留空格） | **⚪ 劝退**（排版细节，不扣分）✅ 08-11 她自己就写对了 `before 4 pm` | 留痕 | — |
+| E-035 | 更多人开始租房，这种需求推高了房价（08-11 改题面：原题面把考点「避免 it 指代不明」直接写在括号里＝提前公布） | `it` 直接回指上一句 | `this demand` —— **用名词回指，不用光杆 it** | **🟡 留痕** | 留痕 | **1/2 · ✅D—迷你复习** |
+| E-036 | 劳动力持续萎缩 | `keeps dropping` | `keeps **shrinking**`（drop 是掉落，shrink 才是萎缩） | **🟡 留痕** | 留痕 | **1/2 · ✅D—迷你复习** |
+| E-037 | 随着老年人口增长 | `with the increase of older population` | `**as** the older population grows` | **🔴 高 · 进池**（08-11 排序：她自己点名"as 也不会"，覆盖面大，且是名词块硬编的解药） | **U · 在池**（= §9 的 G3） | **1/2 · ✅D—迷你复习**（顺带判：第 5 题零提示自发产出） |
 | E-038 | （#11 教练替她改了内容：员工→父母） | `most employees or worker get home` | — **教练越权，不是更好版** | 留痕 | 留痕 | — |
 | **E-039** | 写出一个名词块时先问自己 | （无 floor —— 这是个**检查动作**不是表达） | **名词块「存在性测试」**：这个块我是见过的，还是刚拼的？见过→用；刚拼→拆回主谓大白话 | 🔴 高 | **U · 在池**（= §9 的 G1） | 0/2 |
 
@@ -634,15 +633,15 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 | streak |
 |---|---|---|---|---|---|---|
 | E-040 | 每个人都有受教育的权利 | the right to **get education** | the right **to education**（或 `to get **an** education`） | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
-| E-041 | 公司要求**员工**加班 | **employers**（今天两次：抽查②＋探针⑦） | **employees**（employer=雇主 / employee=员工） | P11 形近词义 | R · 挂代号 **P11** | 0/3 篇 |
-| E-042 | 加上退休金支出 | **combined** pension spending | **combined with** pension spending（`combined with` 是整块，掉了 with 就变成前置定语） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
+| E-041 | 雇主和员工的利益并不总是一致（08-12 改题面：原题面与 E-043 逐字撞车，一题只能测一个考点） | **employers**（今天两次：抽查②＋探针⑦） | **employees**（employer=雇主 / employee=员工） | P11 形近词义 | R · 挂代号 **P11** | 0/3 篇 |
+| E-042 | 加上退休金支出，政府的负担会更重（08-12 改题面：原「加上退休金支出」是光杆短语，逼不出整块 `combined with`） | **combined** pension spending | **combined with** pension spending（`combined with` 是整块，掉了 with 就变成前置定语） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
 | E-043 | 公司要求员工加班 | **demands** employees **working** | **requires** employees **to work**（demand 不接 sb+to do／sb+doing；demand that sb do） | P1 动词框架 | K（低压孤立仍产不出正确框架） | 0/3 抽查 |
-| E-044 | 祖父母帮年轻父母带孩子 | **grandparent** / **young parent**（今天两次） | **grandparents** / **young parents** | P4 单复数 | R · 挂代号 **P4** | 0/3 篇 |
-| E-045 | 祖父母**或多或少**会帮忙 | **more or else**；被正面问到时改用 `also` 绕开 | **more or less** | P11 词形 | R · 挂代号 **P11** | 0/3 篇 |
-| E-046 | 老年**人口** | the **old** population | the **older** population（`the old` 作名词＝老年人 ✅，作定语一律 older） | P11 搭配 | R · 挂代号 **P11** | 0/3 篇 |
-| E-047 | **退休年龄** | **retire** age | **retirement** age | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
+| E-044 | 很多年轻家长下班很晚（08-12 改题面：原题面与 E-005 撞车） | **grandparent** / **young parent**（今天两次） | **grandparents** / **young parents** | P4 单复数 | R · 挂代号 **P4** | 0/3 篇 |
+| E-045 | 大部分家长或多或少都担心这个问题（08-12 改题面：原题面与 E-005 撞车） | **more or else**；被正面问到时改用 `also` 绕开 | **more or less** | P11 词形 | R · 挂代号 **P11** | 0/3 篇 |
+| E-046 | 老年人口占总人口的两成（08-12 改题面：原「老年人口」是光杆短语，逼不出整句） | the **old** population | the **older** population（`the old` 作名词＝老年人 ✅，作定语一律 older） | P11 搭配 | R · 挂代号 **P11** | 0/3 篇 |
+| E-047 | 政府计划提高退休年龄（08-12 改题面：原「退休年龄」是光杆短语） | **retire** age | **retirement** age | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
 | E-048 | 他们学新技术比较**慢** | **slowlier** | **more slowly**（-ly 副词一律 more＋；`earlier` 能加 -er 是因为 early 形副同形） | P6 比较级 | R · 挂代号 **P6** | 0/3 篇 |
-| E-049 | 这让政府面临的处境**更糟** | **worses** | **worsens**（-en 后缀族：weaken/strengthen/deepen/widen/shorten/tighten） | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
+| E-049 | 经济下滑让情况进一步恶化（08-12 改题面：原题面与 E-014 逐字撞车。两条不是同一考点——E-014 测"选 worsen 不选 deteriorate"，本条测**形态 -en** ⇒ 按口语线 §0.2 改被动方题面，两个号都留着） | **worses** | **worsens**（-en 后缀族：weaken/strengthen/deepen/widen/shorten/tighten） | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
 | E-050 | 别无选择，只能损害… | `no choice but **hurt**` | `no choice but **to** hurt`（`to` 是块的一部分） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
 | E-051 | （手滑） | `demend` · `hurn` | `demand` · `hurt` | P5 拼写 | **留痕·手机输入**（不进 P5 计数；作文里的照常算） | — |
 
@@ -650,8 +649,8 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 
 | E | 她的原话 | 中文触发点 | 裁决 | 路径 | streak |
 |---|---|---|---|---|---|
-| E-052 | 「youth 是什么时候能用」 | 年轻的父母 / 青年失业率 | `young`＝形容词（描述年龄）；`youth`＝名词（青年群体/时期），只在固定块里当定语：youth unemployment · youth hostel · youth club · youth culture。❌ `youth parents` | **K**（用法边界，她主动报不会） | 0/3 抽查 |
-| E-053 | 「no 后面可以接复数么」 | 她一个孩子都没有 / 别无选择 | 能，单/复/不可数都合法，看语义：预期本来只有一个→单数（`no husband`）；预期本来有多个→复数（`no children`）。★ 但 `no choice but to` 是**固定块，永远单数** | **K** | 0/3 抽查 |
+| E-052 | 「youth 是什么时候能用」 | 青年失业是个严重问题（08-12 定题面：原格里塞了两个题面，违反"一题一个考点"；这句唯一路径是固定块 `youth unemployment`） | `young`＝形容词（描述年龄）；`youth`＝名词（青年群体/时期），只在固定块里当定语：youth unemployment · youth hostel · youth club · youth culture。❌ `youth parents` | **K**（用法边界，她主动报不会） | 0/3 抽查 |
+| E-053 | 「no 后面可以接复数么」 | 他们没有孩子（08-12 定题面：原格里塞了两个题面；「别无选择」那半归 E-050） | 能，单/复/不可数都合法，看语义：预期本来只有一个→单数（`no husband`）；预期本来有多个→复数（`no children`）。★ 但 `no choice but to` 是**固定块，永远单数** | **K** | 0/3 抽查 |
 | E-054 | 「strains 如果想加个形容词加什么」 | 这给政府财政造成很大压力 | 整块 = `put / place a **[severe / heavy / huge / financial]** strain on X`。她写的 `imposes strains on` 语法成立但不是默认说法 | **K**（与 E-021 同源，等 E-021 的干净测量一起判） | 0/3 抽查 |
 | E-055 | 「a bit 是不是有点口语了」 | 他们学新技术比较慢 | 是。学术写作换 `somewhat`，**或者直接删** —— 对冲词会把 Task 2 的立场说软 | 留痕（她判断准确，无缺口可测） | — |
 

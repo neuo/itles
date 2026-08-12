@@ -7,7 +7,8 @@
 > 🔴 **路径约定（2026-08-10 补，F85）**：本文件所有 `📍` / `⚠️` 行里的相对路径，
 > **一律以 `writing-band7/` 为根**（原来 11+ 处直接写 `log/sessions/…`，从仓库根打不开）：
 > ```
-> log/sessions/X            ＝ writing-band7/log/sessions/X
+> log/sessions/X            ＝ writing-band7/log/**_pre_drill_sessions**/X   ← 08-11 改：旧 session 全部移到这里
+>                              例外：`log/sessions/2026-08-10-drill-T2-18.md` ＝ writing-band7/**drill/sessions**/2026-08-10-drill-T2-18.md
 > t1/coach/sessions/X       ＝ writing-band7/t1/coach/sessions/X
 > gemini/corrections_2026-07.md ＝ writing-band7/gemini/corrections_2026-07.md
 > 裸文件名（如 2026-05-19-ex02-v1.md）＝ writing-band7/log/sessions/ 下的同名文件
@@ -294,7 +295,15 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 |---|---|---|---|---|
 | 1 | 07-09 | **cold 限时 40 分**，她自评写不够长 | ~6.5 | `a increasing`→an；`rather than **believing** their usual doctor`→seeing/consulting；`**tread**`→trend（全篇反复）；`treatments which barely **success**`→succeed；`follow the **advices**`→advice。她自己诊断：**调不出简单形容词**（safe/strong/dangerous/wise/qualified）和名词 desire |
 
-📍 `gemini/corrections_2026-07.md:181-187` ← 原稿
+| 2 | **08-12** | **cold 限时 40min**（模式 A，中文计时；TR/CC 标 `(zh-coached)`） | **6.0**（TR 6.0 / CC 6.0 / LR **5.0** / GRA **7.0**） | 315 词 · 干净句率 **55.6%**（跨进 GRA 7 档）· 词汇错 **15**，K270 **13** → LR 掉一档。🎯 P7 逗号粘连 **0 处 ✅**（用了破折号 ＋ `where`）／ P2 冠词 **3 处 ❌**（`loss` · `hierarchy diagnosis system` · `scope of doctors`）。❌ 主要错：`In actually`／`they works`／`business tend`／`even` 引导从句缺 if／`guidances` 不可数／`a health urgent`／S18 悬垂分词／`result from experience`／`gambling at`／`recommend patients to`（应 refer） |
+
+📍 08-12 原稿见 `drill/sessions/2026-08-12-drill-T2-14.md`
+🎯 **下次靶子**：①**P2 冠词**（本篇 3 处未清零，继续）②**P4 单复数**（P7 本篇 0 处已过，换掉；P4 在 08-10 两处、08-11 两处、本篇 `business tend`，是当前最高频未盯项）
+> 📌 推出依据（供 G6 断言 6 复算）：P2 取自本篇**靶子内未清零**；P4 取自本篇**靶子外出现集** `{P4×1, P1×4, P11×5, P12×3, P6×2}`。
+> 未取 P11（×5，频次最高）的理由：P11 = 词义/搭配误用，本篇的 5 处**全部来自"为避免重复而换词"**（secure/negative/expenditure），
+> 那是一个**策略问题**不是一个可盯的表层模式——已在 drill 里用"代词/上位词/省略"三招直接解决，盯它没有可执行动作。
+
+📍 `gemini/corrections_2026-07.md:181-187` ← 07-09 原稿
 ⚠️ `log/sessions/2026-07-12-t2-cold-dbv-pn.md:50-56` 是 Gemini 改后稿，非她原稿
 
 ---
@@ -823,6 +832,14 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 | **实际考试** | — | 真考 | — | — | — | — | — | — | — | — | — | **5.5 ← ground truth** |
 | （基线）07-14 | T2-18 | timed 40min | ~280 | ~15 / 3–4 | **~23%** | — （当时无靶子概念） | 14 / 13 | 6.0 | 6.0 | 5.0 | 5.5 | **5.5** |
 | 08-10 | T2-18 | timed 40min | 284 | 16 / 6 | **37.5%** | **37.5%** | 9 / 9 | 6.5 | 6.0 | 6.0 | 6.0 | **6.0** |
+| 08-12 | T2-14 | timed 40min | 315 | 18 / 10 | **55.6%** | **55.6%** | 15 / **13** | 6.0⚠️ | 6.0⚠️ | **5.0** | **7.0** | **6.0** |
+
+> ⚠️ 08-12 那行的 **TR/CC 标 `(zh-coached)`** —— 教练对她的中文构思给过意见，这两项不算 cold。
+> LR/GRA 是纯 cold（语言层教练一个词没给），照常计。
+> 🔴 **这一行最该读的不是总分，是两只手在互相抵消**：
+> 干净句率 37.5% → 55.6%（GRA **6→7**），同时 K270 9 → 13（LR **6→5**），净效果原地。
+> 成因是**同一个动作**：她这篇主动去够更难的词以避免重复（secure / negative / expenditure），
+> 换错的比换对的多。⇒ 下一篇的可执行动作＝**别换词，用代词/上位词/省略**（drill 已给）。
 
 > ✅ **08-10 的靶子外干净率 2026-08-10 三修补上（F89）：`—` → 37.5%。这是【算】出来的不是【补】出来的。**
 > 那天两个靶子（P5 拼写 · CC 段尾槽位）**都是零出现** ⇒ 没有任何一句是"只因靶子内错误而脏"的
