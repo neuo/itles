@@ -932,3 +932,97 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
   E-042 `combined with` 丢 with ❌（第 2 次）· E-043 demand 框架 ❌ · E-050 `no choice but to` 丢 but ❌
   ⇒ 本场被判定的条目总数 = 60 新建 ＋ 3 复现 ＋ 11 复习判定 = 74
 ```
+
+---
+
+### 2026-08-13 · **D—迷你复习**（无作文）· 条目 **E-118~E-144**（共 **27** 条）
+
+> 本场 = 三组复习（28 题）＋ 开场补建 08-12 漏掉的 60 条。没写作文 ⇒ 不占 D 位，D3 顺延。
+> ⚠️ 收尾顺序照新规矩：**先建条目，再写 📊**（08-12 的教训）。
+
+**① 她写错的（14 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-118 | 这些年这个趋势增长很快 | **these years** | **In recent years** ／ These days | P11 | R · **P11** |
+| E-119 | 只有保持耐心才更可能治好 | **Only if** they stay patient, they have… | **Only if** they stay patient **do they have**…（置句首必倒装）／去掉 only 最省 | P12 倒装 | R · **P12** |
+| E-120 | 更有可能治好 | **the** better chance | **a** better chance（比较级前泛指用 a） | **P2 冠词** ← 靶子 | R · **P2** |
+| E-121 | 医生会指引病人下一步怎么做 | point patients **___** what | point sb **TO** sth ／ **tell** sb what to do | P1 论元完整 | R · **P1** |
+| E-122 | 如果治不了 | if they cannot **cure** | if they cannot **treat the disease**（cure 及物必带宾语） | P1 论元完整 | R · **P1** |
+| E-123 | 医生把病人转给专科（谁治不了？） | …specialists if **they** cannot… | **If doctors cannot treat a disease, they** refer…（从句提前，指代唯一） | P12 指代（**08-12 作文 S15 同款，第 2 次**） | R · **P12** |
+| E-124 | 运输成本 | transport **expending** | transport **costs**（expend 的名词是 expenditure，无 expending） | P11 词形 | R · **P11** |
+| E-125 | 不仅没用，还有害 | not only **effective** but harmful | not only **ineffective** but also harmful | P11 掉否定前缀 **in-**（意思反转，最贵） | R · **P11** |
+| E-126 | 大多基于经验 | mostly **base on** | are mostly **based on**（be based on 是被动整块） | P12 掉 be | R · **P12** |
+| E-127 | 医生会告诉病人有更好的药 | tell patients **a better drug** | tell patients **about** a better medicine（tell sb sth 的 sth 必须是信息） | P1 论元 | R · **P1** |
+| E-128 | 他建议我们… | he **advices** us | he **advises** us（advice 名词不可数／advise 动词） | P11 词形 | R · **P11** |
+| E-129 | 他建议我们换条路 | advises us **taking** | advises us **to take** | P1 动词框架（**E-043 家族，08-12 drill 教过，隔一天回潮**） | R · **P1** |
+| E-130 | 找工作更难 | find **jobs** | find **a job** ／ find work | P4 数 ← 靶子 | R · **P4** |
+| E-131 | 影响了全世界 | **all the world** | **the whole world** ／ all **over** the world | P11 | R · **P11** |
+
+**② 她说不会 / 主动问的（4 条）**
+
+| E | 她的原话 | 裁决 | 路径 |
+|---|---|---|---|
+| E-132 | 「这个副词可以放 is 后面么」 | 两处都对。**方式/程度副词**（rapidly/sharply）两处都行；**频率副词**（always/often/never）必须放中间 | **K** |
+| E-133 | 「可以换成 medicine 么」 | 都行；本题题面词是 alternative **medicines**，跟题面一致更好；更正式 medication | 留痕 |
+| E-134 | 「我记得还有一种说法」 | ＝ `it doesn't add up`（算下来不划算） | 留痕 → 见 E-116 |
+| E-135 | ⭐**「但是加了是不是也对」**（指 `is time taken away…` 要不要 the） | **她对，教练说过头了。** 两个都成立：零冠词＝**分类**（说它是什么性质的时间）／加 the ＝**同一**（说它就是那一段），而本句里加 the 反而更有力（句式：`The time you spend on X is the time you don't spend on Y`）。**教练"加 the 会凭空暗示"的说法已撤销。**<br>判据不变、只是要用足：**the 要求「缩完只剩一个」＋「听者能确定是哪一个」**。反例 `This is money well spent` ✅／`the money well spent` ❌——缩完还剩无数笔。<br>★ 这条与她口语线自己抓出的 **「限定 ≠ 定指」** 是同一条规则的两张皮 | **K**（冠词判据，正是本周靶子） |
+
+**③ 教练给的更好版（9 条新的；另 6 处是 E-107/110/112/113/116/086 的复现，记 ✅ 用对不新建）**
+
+| E | 她的 floor | 更好版本 | 价值档 |
+|---|---|---|---|
+| E-136 | this trend is growing rapidly | this trend **has grown** rapidly in recent years（"这些年"是累积到现在→完成时） | 待排序 |
+| E-137 | why they are effective occasionally | why they **occasionally work**（副词挂动词前；work 比 are effective 短） | 待排序 |
+| E-138 | Gambling on **those** | Gambling on **them**（those 光杆指代空泛） | 待排序 |
+| E-139 | see no improvement after long-term treatment | **show** no improvement after **months of** proper treatment | 待排序 |
+| E-140 | tell patients what they should do next | tell patients **what to do** next（省一个从句） | 待排序 |
+| E-141 | if they cannot treat the disease | **when a case is beyond them**（呼应 beyond the scope） | 待排序 |
+| E-142 | following the guidance from doctors is the safest way | **Following medical advice** is the safest **option** | 待排序 |
+| E-143 | tell patients about a better medicine | **let patients know if** a better medicine exists | 待排序 |
+| E-144 | he advises us to take a different route | he **suggested taking** a different route | 待排序 |
+
+**分池对账**
+```
+①14 → R 14（全部挂代号）  ②4 → K 2（E-132 E-135）＋ 留痕 2  ③9 → 待排序 9
+R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
+★ 另有【不新建号的复现】：E-042✅ E-050✅ E-061✅ E-098✅ E-102✅ E-107✅ E-108✅
+  E-110✅ E-112✅ E-113✅ E-116✅ E-086✅ · E-043 家族 ❌（回潮，记在 E-129 上）
+```
+
+---
+
+## 🔴🔴 2026-08-13 结构性裁决：**删掉 streak 列，改用事件台账**
+
+> **问题**：`§6` 每张表都有一列 streak，收尾必须逐行改写（§9.4 ③b）。
+> 08-11 欠了一次（08-12 开场补）· 08-12 又欠一次 · 08-13 还是写不完。
+> **三场三欠 —— 这不是执行力问题，是设计问题。**
+>
+> **她自己在口语线否掉过同一个方案**（`fluency_lab.md §0.5`，她 08-09 定）：
+> 「**只写事件，不存状态**」，并明确否掉了教练最初的"独立状态表"，理由是
+> **"两边状态会不一致"**。而 `§6` 的 streak 列正是那个独立状态表。
+>
+> ⇒ **写作线照搬她的裁决**：
+> ```
+> ★ §6 各表的 streak 列【停止维护】（历史值原样留着，不删，但不再是真源）
+> ★ 唯一真源 = 每场收尾在【本节】append 一行判定台账（事件流，只增不改）
+> ★ 要查某条的连击 = grep 它的 E 号，数台账里的 ✅ 连续段
+> ★ §9.4 ③b「streak 逐行重写」整条作废；G6 断言 4 改为核对
+>    「台账行数 = 本场被判定条目数」，不再核对 streak 列
+> ```
+> **收益**：消灭了一个每场必欠的义务，同时消灭了两份状态互相漂移的可能。
+
+### 判定台账（事件流 · 只增不改 · grep E 号即可数连击）
+
+```
+📋 2026-08-11(迷你复习)  ✅ E-001 E-002 E-003 E-005 E-006 E-007 E-008 E-009 E-010 E-011 E-015 E-017 E-018 E-026 E-027 E-028 E-035 E-036 E-037
+                         △ E-004  ◎ E-013 E-021  📖 E-021
+                         ❌ E-012 E-014 E-016 E-029 E-032
+📋 2026-08-12(D2 作文)    ❌ E-042 E-043 E-050   （靶子 P7 ✅ 0处 / P2 ❌ 3处；装备 E-039 用错）
+📋 2026-08-13(迷你复习)  ✅ E-042 E-050 E-058 E-059 E-060 E-061 E-063 E-064 E-065 E-067 E-068 E-069
+                            E-070 E-071 E-073 E-074 E-075 E-076 E-077 E-078 E-079 E-082 E-084 E-085
+                            E-086 E-088 E-092 E-095 E-098 E-102 E-107 E-108 E-110 E-112 E-113 E-116
+                         ❌ E-062(未产出) E-066 E-087 E-098(先错后对→按"以最后一次为准"记✅) E-043(回潮)
+                         ◎ E-071(题面已改) E-081(题面已改)
+   ★ 本场 ✅ 36 条 · ❌ 4 条 · ◎ 2 条 = 42 次判定（28 题 ＋ 14 条顺带）
+```
