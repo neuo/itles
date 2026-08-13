@@ -228,7 +228,7 @@
 | B23 | **通路A/B 比例**：引子 1 句 → 答案 2–3 句。个人经验是跳板不是内容 | 用通路A答"为什么有人喜欢X"，数一下几句在答题 | 轮112 |
 | B24 | **车轱辘=一个角度三种说法**：解法是换角度不是换说法；翻译时最容易丢角度 | 说完一句问"下一句是新角度还是同角度换说法" | 轮113 |
 
-| B25 | **as … as it gets**（用原级，避开比较级形态）+ about 软化；退路三级 | "跑步简单到不能再简单" / "这已经是最好的了" | 轮118 |
+| B25 | **as … as it gets**（用原级，避开比较级形态）+ about 软化；退路三级<br>⚠️ **08-12 回潮**：她在 P2 里写 `as simple as it got` —— ① 这个块**不随句子变过去式** ② 且它的意思是"已经是最…的了"，**不等于"尽量…"**（那是 as … as possible）<br>参考对照（不出题）："这已经是最好的了" `This is as good as it gets.` | "跑步简单到不能再简单" | 轮118（08-13 收成一条题面＋补边界） |
 | B26 | **软化词一句只放一个**（about/pretty much/I guess/kind of）；与强调词同现=自我对冲 | 判断 "It's definitely, to some extent, worth trying" | 轮119 |
 | B27 | **主谓一致**（孤立100%、产出中反复错=检索失败）：主语"一个东西/他她它"→加s；"我你我们他们/复数"→不加。<br>⚠️ **08-11 一天内三次**（the two hours MAKES ／ my mom HELP ／ he WALK）—— 坐实"检索失败非知识缺口"，产出中必须专门盯 | "他每天七点起床，从来不迟到"（一句里两个动词都要加 s） | 轮121（08-12 改题面：原格里是"快问快答"清单，不是可用的中译英题面，按 §0.3 取不出题） |
 
@@ -248,7 +248,7 @@
 | B39 | **让某人做某事四件套**：get sb TO do（只有它带to）／have sb DO／make sb DO／let sb DO。<br>参考对照（不出题）：别逼孩子背 `don't make kids memorise` ／ 让他们提问 `let them ask questions` ／ 两人一组 `have them work in pairs`<br>⚠️ 08-11 同族错：`watch the machine BUILDS it` → watch/see 也走原形补语 | "老师应该让学生自己试" | 轮142（08-12 收成一条题面） |
 | B40 | **talk AT sb（单向灌输）vs talk TO sb（双向）**；pay 搭配窄（钱/注意力/代价），时间精力用 put…into | "有些老师就是对着你讲一小时" / "老师该多花精力备课" | 轮140–141 |
 
-| B41 | **论元完整（判定已落地：primed 8/8 但 20 分钟后 cold 即掉 `spend a whole day meeting___` → 产出时掉，非知识缺口。修法只有块化）**：中文可单说的动词，英文必须带宾语/补语。focus on **my work** ／ a mix **of both** ／ goes to **them** ／ can even **see** the mountains。<br>参考对照（不出题）：a mix **of both** ／ goes to **them** | "上班很难专心" | 轮147（08-11 收成一条题面：三句同一考点；"各一半最理想"与 B43 撞车，一并撤下） |
+| B41 | **论元完整（判定已落地：primed 8/8 但 20 分钟后 cold 即掉 `spend a whole day meeting___` → 产出时掉，非知识缺口。修法只有块化）**：中文可单说的动词，英文必须带宾语/补语。focus on **my work** ／ a mix **of both** ／ goes to **them** ／ can even **see** the mountains。<br>参考对照（不出题）：a mix **of both** ／ goes to **them** ／ focus **on my work**<br>**⚠️ 08-13 改题面**：08-12 她在"上班很难专心"上答对（focus at work ✅），同日却在另一句掉了宾语（`easier to find___`）⇒ 老题面已经测不出这条了，换成必须补宾语的新句 | "我找了半天也没找到" | 轮147（08-11 收成一条题面；08-13 改题面） |
 | B42 | **分数说法**：a half / a third / a quarter / a tenth / two thirds | "原价的一半，甚至十分之一" | 轮150 |
 | B43 | **泛指的不对称**：`the countryside` 泛指永远带 the；`the city` 带 the = 某座具体城市，泛指用 `city life`。→ 并列两边"泛指程度"也要同形 | 说"城乡各一半最理想" | 08-04下 |
 | B44 | **often ＝ 经常（频次高）**。<br>⚠️ 08-11 曾被并入 B188 并停用，同日撤销——历史 📊 里出现过的号不许作废（停用＝变相删条目）。<br>改为**与 B188 题面互斥**：**B44 只测 often**，usually 归 B188，两号各走各的 streak | "我朋友经常去那家店" | 08-04下（08-11 撤销停用） |
@@ -368,9 +368,9 @@
 | B124 | **比较里的泛指不加 the**：`cheaper than new ones`（不是 than the new ones）—— B113 判据的应用，她一到 than 后面就犹豫 | "二手的比新的便宜多了" | 08-07 |
 | B121 | **"只能将就" ＝ `I'll have to make do with …`**（08-11 修订：整块含 have to）／ **be stuck with**（被迫接受甩不掉）／最短 `It'll have to do.`<br>⚠️ 08-10 她两次只产出 `make do with`、丢掉"只能"那层 —— 那不是 B121 的另一条错，是**这个块本来就该带 have to**。分开记会制造假错误，改成整块测 | "只能将就这台旧电脑" | 08-07（08-11 修订） |
 | B122 | **complain ABOUT sth**（不及物，必须带 about）；`other than` ＝除了…之外 ≠ `rather than` ＝与其…不如 | "与其抱怨，他直接就干了" | 08-07 |
-| B118 | **"全信" ＝ trust it completely ／ take its word for it**（不是 believe it）；**"一般" ＝ just OK ／ not as good ／ nothing special** | "AI 不能全信" / "他写作一般" | 08-06 |
+| B118 | **"全信" ＝ trust it completely ／ take its word for it**（不是 believe it）；**"一般" ＝ just OK ／ not as good ／ nothing special**。<br>参考对照（不出题）："他写作一般" just OK ／ nothing special | "AI 不能全信" | 08-06（08-13 收成一条题面） |
 | B119 | **副词修饰动作**：speak English **well**（不是 speak good）—— 与 `he cooks well` 同一规则 | "他英语说得挺好" | 08-06 |
-| B120 | **…, though.（挂句尾）是唯一不用提前预判的转折标记** —— 说完再补，前面一字不改；That said,（句首，需预判）／ Then again,（话说回来，自我修正） | "这房子挺大，不过离地铁远" / "我想去，不过那天有事" | 08-06 |
+| B120 | **…, though.（挂句尾）是唯一不用提前预判的转折标记** —— 说完再补，前面一字不改；That said,（句首，需预判）／ Then again,（话说回来，自我修正）。<br>参考对照（不出题）："我想去，不过那天有事" | "这房子挺大，不过离地铁远" | 08-06（08-13 收成一条题面） |
 | B117a | **stuck IN ＝被困在环境/容器里**（stuck in traffic／in meetings／in a lift）。判据：in 是周围把你围住 | "上周我被困在电梯里半小时" | 08-06（08-11 从 B117 拆号；改题面：原"早高峰堵路上"与 B84/B96/B98 三处撞车） |
 | B117b | **stuck ON ＝卡在具体的点上**（stuck on a problem／on question 3／on this word）。判据：on 是面前有个坎 | "我在第三题上卡住了" | 08-06（08-11 从 B117 拆号，题面从 B171 划归本号） |
 | B117c | **stuck WITH ＝被迫接受甩不掉**（stuck with this old laptop） | "分组的时候我跟他一组，甩都甩不掉" | 08-06（08-11 从 B117 拆号；改题面避开 B121 的"只能将就这台旧电脑"，题面从 B171 划归本号） |
@@ -398,7 +398,7 @@
 | B93 | **audience 用整体义时是单数**：`The whole audience sings along`／最口语 `Everyone sings along`。audiences ＝多批/多场观众<br>⚠️ 08-06 更正：原写"必须单数"是简化过头，见 B104 | "全场观众跟着一起唱" | 08-06 |
 | B104 | **集合名词单复数都合法**（family / audience / team / government）：当**整体**→单数（The audience was huge），当**成员各自**→复数（My family tend to cook all day）。英式更常用复数 | "我们家过年会做一整天的菜" | 08-06 |
 | B105 | ⚠️ **口语作废，只在写作有效**（她 08-06 指出，成立）：逗号粘连／句子片段是**书面标准**，口语里语调就是标点，转写更转不出破折号。<br>口语只保留一条真问题：**悬空片段**——本身没有独立意思、听者接不上的（`…something to look after. UNLIKE WORK OR KIDS. It's…`）必须挂回主句；<br>能独立表意的补充片段（`As for how.`／`How wide they need to be.`）**完全正常，不算错** | 只在写作复盘时用 | 08-06 修订 |
-| B94 | **every time / each time 是连词，后面跟完整从句**：every time you use it（不是 every time using it） | "你每次走那条路都堵" | 08-06 |
+| B94 | **every time / each time 是连词，后面跟完整从句**：every time you use it（不是 every time using it）<br>⚠️ 08-12 回潮：她写 `every time.`（后面整个从句没了） | "他每次来都带点吃的" | 08-06（08-13 改题面：原题面与 B83 撞车） |
 | B95 | **可分离动词短语的位置**（08-07 更正，原写"短宾语要放中间"是把倾向写成规则）：<br>**代词必须放中间**（put it away ✅／put away it ❌）· **名词短语两个位置都合法**（put their toys away ✅／put away their toys ✅）· 长宾语倾向放后面。<br>另：away 不变形（put aways ❌）；玩具搭配是 **play with**，不是 use | "孩子玩完把玩具收起来" | 08-06（08-07 修订） |
 | B89 | **neither … NOR**（不能 neither … or）；更省事就直接 `forward or back` | "我既不会做饭也不会烘焙" | 08-06（08-11 改题面：原题面与 B87 逐字撞车，B87 测 whether＋forward or back，本号只测 neither…nor） |
 | B90 | **every time / whenever 出现＝反复发生的规律 → 主句用现在时**（you GET stuck），will 是预测未来某一次 | "我每次点这家外卖都要等一个小时" | 08-06（08-11 改题面：原题面与 B83/B94 逐字撞车，三条都被那一句同时触发） |
@@ -5404,7 +5404,7 @@ B107 拆成 B107a/b 时，教练让两个子号都继承父号的"连对 2"。�
 | # | 点 | 抽查方式 | 来源 |
 |---|---|---|---|
 | B214 | **"没有一次不…／一次都不…"的强调层**：中文靠"一次"，英语靠 **never once ／ not once ／ every single time**。<br>`He's never once been on time.` ／ `Not once did he apologise.` ／ `I get stuck every single time.`<br>★ 与 B209 同族：强调层挂在骨架外面，cold 时第一批被挤掉 | "他一次都没道过歉" | 08-12 |
-| B215 | **"坐飞机" ＝ fly ／ be on a plane ／ take a plane**（❌ take the airplane）。<br>★ 交通工具三种说法互不混：**by plane/bus/car**（不带冠词，说方式）· **take the bus/train**（带 the，说那趟车/那种通勤方式）· **be on a plane / on the train**（在车上/机上）<br>★ airplane 偏美式书面，口语一律 **plane** ／ **flight** | "我从来没坐过飞机" ／ "我每天坐地铁上班" | 08-12 |
+| B215 | **"坐飞机" ＝ fly ／ be on a plane ／ take a plane**（❌ take the airplane）。<br>★ 交通工具三种说法互不混：**by plane/bus/car**（不带冠词，说方式）· **take the bus/train**（带 the，说那趟车/那种通勤方式）· **be on a plane / on the train**（在车上/机上）<br>★ airplane 偏美式书面，口语一律 **plane** ／ **flight**<br>参考对照（不出题）："我从来没坐过飞机"（该题面归 B147a） | "我每天坐地铁上班" | 08-12（08-13 收成一条题面，避开与 B147a 撞车） |
 | B216 | **staff 是集合名词，没有复数 staffs**：`the staff are friendly`（英式常用复数动词）／ 要说"几个员工"用 **staff members ／ employees ／ new hires**。<br>★ 同族不可数/集合名词：**advice · information · furniture · equipment · feedback · research**（都不加 s） | "我们公司新来了三个员工" | 08-12 |
 
 ### 改完当场重说 · 第 1 组 · 4/4 全对
@@ -5581,9 +5581,9 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
 **🆕 本组新建（两条来自她的提问，都是好问题）**
 | # | 点 | 抽查方式 | 来源 |
 |---|---|---|---|
-| B217 | **can 才是默认，be able to 是备用**（她问"用 can 总觉得没有 be able to，错觉么"—— 是错觉）：<br>说现在的能力，**can 和 be able to 完全等价，而且 can 更自然**：`I can't cook.` ✅（`I'm not able to cook` 累赘）<br>**只有 can 没有那个形式时才必须换 be able to**：<br>① 完成时／不定式／情态后面 —— `I've never BEEN ABLE TO cook.` ／ `I want to BE ABLE TO cook.` ／ `You might BE ABLE TO…`<br>② 过去**单次**费劲做成了 —— `I WAS ABLE TO get a ticket.`（could 说的是过去的一般能力，不是这一次成功）<br>★ 她为什么觉得 can 单薄：中文"会/能"是个实义概念，can 是个小词、没有分量感。**英语用小词承担重量是常态，不是缺斤少两**（同 B102） | "我不会开车" ／ "我从来没能早起过" ／ "那天我总算买到票了" | 08-12 |
+| B217 | **can 才是默认，be able to 是备用**（她问"用 can 总觉得没有 be able to，错觉么"—— 是错觉）：<br>说现在的能力，**can 和 be able to 完全等价，而且 can 更自然**：`I can't cook.` ✅（`I'm not able to cook` 累赘）<br>**只有 can 没有那个形式时才必须换 be able to**：<br>① 完成时／不定式／情态后面 —— `I've never BEEN ABLE TO cook.` ／ `I want to BE ABLE TO cook.` ／ `You might BE ABLE TO…`<br>② 过去**单次**费劲做成了 —— `I WAS ABLE TO get a ticket.`（could 说的是过去的一般能力，不是这一次成功）<br>★ 她为什么觉得 can 单薄：中文"会/能"是个实义概念，can 是个小词、没有分量感。**英语用小词承担重量是常态，不是缺斤少两**（同 B102） | "我不会开车；我从来没能早起过；那天我总算买到票了"（**三句都说**，正好走完 can／been able to／was able to 三档） | 08-12（08-13 合成一条题面：三句是同一考点的三个档位，分开出反而测不到边界） |
 | B218 | **★ go ＝ 在【程度轴】上移动，不是走路**（她问"go too far 感觉没有说这个动作"—— 直觉准，但那个动作本来就不是"说"）：<br>`I wouldn't go that far.` ＝ 我不会（在这个说法上）走到那么远<br>`That's going too far.` ＝ 那太过分了 ／ `How far are you willing to go?` ＝ 你愿意做到什么程度<br>★ 中文把程度说成"绝／过分／到什么地步"，**英语把程度说成一条路，用 go ＋ far** —— 与"英语靠一小撮通用动词"（B102）同源<br>★ 同族方位隐喻：`go too far` · `take it too far` · `draw the line`（划界限） | "他这话说得太过了" ／ "你愿意做到什么程度" | 08-12 |
-| B219 | **环路 ＝ ring road**（英）／ beltway（美）；❌ round road 不成立。<br>同族路名：**motorway**（英高速）／ highway · **the M25** · **a dual carriageway**（双向分隔路）· **a one-way street** | "一出事故整条环路就堵死了" | 08-12 |
+| B219 | **环路 ＝ ring road**（英）／ beltway（美）；❌ round road 不成立。<br>同族路名：**motorway**（英高速）／ highway · **the M25** · **a dual carriageway**（双向分隔路）· **a one-way street** | "我住在二环边上" | 08-12（08-13 改题面：原题面与 B191a 逐字撞车） |
 
 ### 改完当场重说 · 第 3 组 · 5/5 全对
 
@@ -5628,8 +5628,8 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
 **🆕**
 | # | 点 | 抽查方式 | 来源 |
 |---|---|---|---|
-| B220 | **"今天早上/昨天下午"的说法**：**this morning ／ this afternoon ／ this evening**（❌ today morning）· **yesterday morning ／ tomorrow morning**（这两个有 yesterday/tomorrow 才对）· 昨晚 ＝ **last night**（❌ yesterday night） | "今天早上路上特别堵" ／ "昨天晚上我很早就睡了" | 08-12 |
-| B221 | **★★ 过度泛化警报：不是所有动词都要宾语**（08-12 现场）<br>背景：教练两天内纠了她两次"动词后面缺东西"（focus **ON** my work · stuck **WITH** him），她随即给**不及物动词**也硬加宾语（`you make it` 代替 `You decide.`），自述"感觉后面空荡荡的"。<br>⇒ 这是**注意力零和的另一种形态：修一处，隔壁被带偏**（同 08-08「局部修正残留」，但方向相反 —— 那次是漏改，这次是多改）<br>**能单独站住的一小批常用动词**：decide · choose · help · manage · cope · agree · win · lose · pay · answer<br>★ "空荡荡"的通用解药不是加宾语，是换整块：**It's up to you.** ／ **Whatever you like.** | "你定吧" ／ "我帮不上忙" ／ "我们赢了" | 08-12 |
+| B220 | **"今天早上/昨天下午"的说法**：**this morning ／ this afternoon ／ this evening**（❌ today morning）· **yesterday morning ／ tomorrow morning**（这两个有 yesterday/tomorrow 才对）· 昨晚 ＝ **last night**（❌ yesterday night）。<br>参考对照（不出题）："今天早上路上特别堵" this morning | "昨天晚上我很早就睡了" | 08-12（08-13 收成一条题面，避开与 B195 撞车） |
+| B221 | **★★ 过度泛化警报：不是所有动词都要宾语**（08-12 现场）<br>背景：教练两天内纠了她两次"动词后面缺东西"（focus **ON** my work · stuck **WITH** him），她随即给**不及物动词**也硬加宾语（`you make it` 代替 `You decide.`），自述"感觉后面空荡荡的"。<br>⇒ 这是**注意力零和的另一种形态：修一处，隔壁被带偏**（同 08-08「局部修正残留」，但方向相反 —— 那次是漏改，这次是多改）<br>**能单独站住的一小批常用动词**：decide · choose · help · manage · cope · agree · win · lose · pay · answer<br>★ "空荡荡"的通用解药不是加宾语，是换整块：**It's up to you.** ／ **Whatever you like.**。<br>参考对照（不出题）："你定吧" You decide.（该题面归 B207a）／"我们赢了" We won. | "我帮不上忙" | 08-12（08-13 收成一条题面，避开与 B207a 撞车） |
 
 ### 改完当场重说 · 第 4 组 · 4/4 全对（并暴露 `cook myself` 新问题）
 
@@ -5680,7 +5680,7 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
 | # | 点 | 抽查方式 | 来源 |
 |---|---|---|---|
 | B222 | **中文的"社会／大家／人们"这类泛主语，英语常用 there is 或被动吃掉**（她问 `society shows discrimination` 可以么 —— 不地道，show 配 discrimination 生硬）：<br>✅ `There's a lot of bias against female managers in Japan.`（最自然，"社会"隐含在 there is 里）<br>✅ 要显式说社会就让它当主语＋**动词**：`Japanese society still discriminates against…`（不是 show + 名词）<br>✅ `People in Japan still have a bias against…`<br>★ 与 B123（中文无主语句 → 先想被动或 they）同一条根 | "社会对年轻人期待太高" ／ "大家都觉得这样不对" | 08-12 |
-| B223 | **讲笑话 ＝ tell a joke**（❌ speak a joke）。同族"说"的动词分工：<br>**tell** ＋ 有内容的东西（a joke／a story／a lie／the truth／sb the time）<br>**say** ＋ 话本身（say something／say sorry／say a word）<br>**speak** ＋ 语言 或 不及物（speak English／speak to sb）<br>**talk** ＋ 交谈（talk about sth／talk to sb） | "他老爱讲这个笑话" ／ "他连一句话都没说" | 08-12 |
+| B223 | **讲笑话 ＝ tell a joke**（❌ speak a joke）。同族"说"的动词分工：<br>**tell** ＋ 有内容的东西（a joke／a story／a lie／the truth／sb the time）<br>**say** ＋ 话本身（say something／say sorry／say a word）<br>**speak** ＋ 语言 或 不及物（speak English／speak to sb）<br>**talk** ＋ 交谈（talk about sth／talk to sb）。<br>参考对照（不出题）："他老爱讲这个笑话" tells that joke（该题面归 B204） | "他连一句话都没说" | 08-12（08-13 收成一条题面，避开与 B204 撞车） |
 
 ### 改完当场重说 · 第 5 组 · 5/5 全对
 
@@ -5753,7 +5753,7 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
 | # | 点 | 抽查方式 | 来源 |
 |---|---|---|---|
 | B225 | **★ a / an 看【读音】不看拼写**（她同一篇里两个方向都错：`a external` 该 an ／ `an challenge` 该 a）：<br>元音**音**开头 → **an**：an external computer · an hour（h 不发音）· an MBA（读 em）<br>辅音**音**开头 → **a**：a challenge · a university（读 you）· a European · a one-way street（读 wun）<br>★ 她不是不知道规则 —— 是产出时没查。与主谓一致同机制（形态零件第一批掉）<br>★ 检查触发：**每写/说一个 a 或 an，念一遍后面那个词的第一个音** | "这是一次挑战" ／ "他有一台外接显示器" ／ "我等了一个小时" | 08-12 |
-| B226 | **every / each / another / any(单指) 后面永远跟【单数】**：every student · each person · another day · any question。<br>要说"所有学生"用 **all students**（复数）／ **everyone**<br>★ 与 B115（any ＋ 单数）同族，合起来记 | "每个学生都能报名" ／ "每个人都要签到" | 08-12 |
+| B226 | **every / each / another / any(单指) 后面永远跟【单数】**：every student · each person · another day · any question。<br>要说"所有学生"用 **all students**（复数）／ **everyone**<br>★ 与 B115（any ＋ 单数）同族，合起来记。<br>参考对照（不出题）："每个学生都能报名"（08-12 已在 P2 重说里出现过，不重复出） | "每个人都要签到" | 08-12（08-13 收成一条题面） |
 | B227 | **`I'd love` ≠ `I love`**：<br>**I'd love (to do)** ＝ would love，说**意愿/如果有机会**（`I'd love to go.` 我很想去）<br>**I love (doing)** ＝ 一直就喜欢（`I love solving problems.`）<br>**I've always loved** ＝ 强调一直如此（她这句要的就是这个）<br>★ 判据：说的是**现在的意愿**还是**长期的喜好**？后者不许加 'd | "我一直喜欢解决问题" vs "有机会我很想试试" | 08-12 |
 
 ### 改完当场重说 · P2 团队合作 · 6/6 全对（今日重说累计 31/31）
@@ -5795,6 +5795,488 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
    08-11 B136 书面词：中译英 ✅ → 同日自由产出三个书面词回来
    08-12 B41 论元完整：第 2 组 ✅（focus at work）→ 第 5 组 ❌（to find___）
    ⇒ 块级/操作类条目，**只有换一个全新句子或在自由产出里才测得准**
+```
+
+---
+
+## 📅 2026-08-13 · 学习日（新周期第 3 天）
+
+**今日靶心**：**主谓一致** —— 说完一句，扫一眼主语是不是"他/她/它/一个东西"，是就查动词有没有 s。
+（选它因为两天 7 次、频率最高；她孤立测 100% ⇒ 检索失败非知识缺口，修法只有"加检查触发"。
+08-12 的靶心「单字副词」不撤，转常驻复习项。）
+
+**批次口径**：D-1 ＝ 08-12（31 条）· **D-3 ＝ 08-09，📊 有行，兜底规则本日起失效**。
+**新题不另抽** —— 08-12 抽了没答的 3 道充抵今日配额（顺延队列排最优先），避免队列继续膨胀。
+
+**开场前 B 表回写**
+```
+改题面 B41  → "我找了半天也没找到"（08-12 她在旧题面上答对、同日却在别句掉宾语 ⇒ 旧题面已测不出）
+收题面 B215 → 只留"我每天坐地铁上班"（"从来没坐过飞机"归 B147a）
+合题面 B217 → 三句合成一条（can／been able to／was able to 三档，分开出反而测不到边界）
+```
+
+**开场快照**：🎓16 ｜ 连对2 0 ｜ 连对1 118 ｜ 连错≥2 5 ｜ 连错1 14
+
+### 第 1 组 · 10 题 · 考点 ✅6 △1 ❌3 ｜ 整句零改动 3/10
+
+- **她的原话（逐字）**：`1. he gets up at 7am every day and has never been late. 2. I had been looking for it for hours and found nothing.(这里我在想是不是应该有过去完成进行时，还是用过去完成时就可以了) 3. I usually went to the gym. 4. you can only feel that energy when you are there. 5. there aren't enough jobs to go around. 6. he never apologizes (我在想 never 可以接一般现在么，还是这里应该用完成时，或者过去时) 7. I go to work by subway every day. 8. there are three new employees at our company. 9. I can't drive. I never get up early. I finally bought the ticket that day. 10. he went that far. (by saying that?)`
+
+```
+✅ 1  B27 **靶心**：gets ✓ has ✓ 两个第三人称单数全对，一字未改 —— 连错2 断掉
+      ★ 两天 7 次之后第一次干净
+✅ 2  B41 `looking for IT` ／ `found NOTHING` 宾语都补上了 —— 连错2 断掉
+      ❌ 时态多一层（见 🆕 B228）
+❌ 3  B34 `usually went` → **used to go** —— 这条的考点就是它，连错3
+✅ 4  B203 `only` 出来了 —— 昨天的靶心今天装上，连错2 断掉
+✅ 5  B192 一字未改 —— 连错2 断掉
+△ 6  B214（**教练改判，见下**）：`he never apologizes` 意思成立，once 只是强调
+      ❌ B147a 时态：中文"没道【过】歉"的"过"＝完成时触发 → **He has never apologised.**
+         ⇒ 08-12 该号刚 ✅（我从来没坐过飞机），今天换句子又掉 ——「单点测对≠装上了」本周第 3 次
+✅ 7  B215 `by subway` 不带冠词 ✓
+      ⚠️ 对照：by subway（无冠词，说方式）／ take THE subway（带 the）
+✅ 8  B216 `employees` ✓ 绕开 staffs
+      ⚠️ "新来了"是动作 → Three new people have joined our company.
+❌ 9  B217 三档只对一档：`I never get up early` 丢了 able to →
+      **I've never been able to get up early.**
+      第三句"总算买到票"她答 finally bought 完全合法 ⇒ 题面逼不出 was able to，需再改
+❌ 10 B218 `that far` → **too far**（见下方边界）
+```
+
+**★ 教练改判（她当场质疑，成立）**
+> 她的原话：**"我觉得不加 once 一个意思，never 就是从来不"**
+```
+✅ 她是对的。`He's never apologised.` 与 `He's never once apologised.` **真值完全相同**，
+   once 加的是【强调/语气】，不是意思。
+❌ 教练把它记成 ❌ 是判重了，改 △。
+根因：本周一直在追"强调层丢失"这个模式（只/都/一直/更/唯一），看到"一次都没"就**反射性套上去**
+     —— 正是四问自审第②问要防的【锚定在自己上一条判断上】。本周第 2 次同型（08-11 有 ⛔ 11 处）
+⇒ B214 词条同步降档：它是【语气升级】，失败记 △ 不记 ❌
+⇒ 但同句的【时态】问题是真的，与 once 无关，归 B147a
+```
+
+**⑤ 独立 Diff**
+```
+【1】原句  he gets up at 7am every day and has never been late.
+    改后  （同）   · 无 diff
+【2】原句  I had been looking for it for hours and found nothing.
+    改后  I looked for it for hours and found nothing.
+    · had been looking → looked   ❌真错  无更晚的过去参照点；且 and 两边要同一时间平面
+【3】原句  I usually went to the gym.
+    改后  I used to go to the gym.
+    · usually went → used to go   ❌真错  过去的习惯用 used to／would
+【4】原句  you can only feel that energy when you are there.
+    改后  （同）   · 无 diff
+【5】原句  there aren't enough jobs to go around.
+    改后  （同）   · 无 diff
+【6】原句  he never apologizes.
+    改后  He has never apologised.
+    · never apologizes → has never apologised   ❌真错  中文"过"＝完成时
+    · （＋once 只是强调，不是必需 —— 教练原判 ⛔，已撤销）
+【7】原句  I go to work by subway every day.
+    改后  I take the subway to work every day.
+    · go to work by subway → take the subway   ⚠️更好  两个都对
+【8】原句  there are three new employees at our company.
+    改后  Three new people have joined our company.
+    · there are → have joined     ⚠️更好  "新来了"是动作不是静态
+【9】原句  I never get up early.
+    改后  I've never been able to get up early.
+    · never get up early → 've never been able to   ❌真错  "没【能】"那层丢了
+【10】原句 he went that far.
+     改后 He went too far with that.
+     · that far → too far         ❌真错  见边界
+     · ＋with that                 ⚠️更好  比 by saying that 省
+⛔ 1 处（once，已撤销）
+```
+
+**🆕 本组新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B228 | **★ 过去完成时必须有【另一个更晚的过去事件】当参照，没有就用一般过去时**（她连问两天）：<br>❌ `I had been looking for hours and found nothing.`（and 两边不在同一时间平面）<br>✅ `I looked for it for hours and found nothing.`（无参照 → 过去式）<br>✅ `I'd been looking for hours BEFORE I finally found it.`（before 那半句＝参照点）<br>✅ `BY THE TIME she got there, the shop HAD CLOSED.`<br>**⚠️ 08-13 当天教练用这条判错一次，她当场推翻（成立）**：`we had been living together UNTIL I went to college` **是对的** —— until 本身就是参照点。教练锚定在早上那句（`and found nothing`）上，看到 had been -ing 就套，没重新看后面挂的连词。<br>⇒ **必须写清哪些词算参照点**：✅ **before · by the time · when · until · after**　❌ **and**（并列，两边同一时间平面）<br>⇒ 两个版本都对，差别只在重心：`we lived together until…`（口语默认）／`we'd been living together until…`（强调一直持续到那个点）<br>**进行 vs 简单**：带【时长】（for hours／all morning）→ 过去完成**进行**；说【完成/范围/次数】（everywhere／three times／already）→ 简单过去完成<br>★ 实用：口语里过去完成时用得远比书面少，拆成两句最省 —— `I looked for ages. Then I finally found it.`<br>★ 同源：08-11 她问"过去完成时能不能配 last year"（不能，last year 本身就是参照点） | "我等了一小时他才来" ／ "我们到的时候店已经关了" | 08-13 |
+| B229 | **★ that far vs too far（教练前后两天给了不同答案，她要求划边界）**：<br>**too far ＝ 超过界限的【负面评价】，不需要前文** —— `He went too far.` ／ `That's going too far.` ／ `Don't take it too far.`<br>**that far ＝ 到【那个】程度，that 指的是【刚被摆上桌面的那句话】** —— A: He's the worst manager ever. B: `I wouldn't go THAT far.`<br>★ **判据一句话：有没有"刚才那句话"可以指？** 有 → that far（几乎总跟 wouldn't／not 连用，用来收回别人提出的程度）；没有、只是评价某人越界 → too far<br>★ 08-11 的"我也不会说得那么绝"里"那么"＝指前面说过的程度 → that far；08-13 的"他这话说得太过了"是纯评价 → too far | "别太过分了" ／ （对方说完一句极端的话）"我倒不至于这么说" | 08-13 |
+
+### 改完当场重说 · 第 1 组 · 5/5 全对
+
+`I looked for it for hours and found nothing. / I used to go to the gym. / he's never once apologized. / I've never been able to get up early. / he went too far with that`
+
+### 第 2 组 · 10 题 · 考点 7/10 ｜ 整句零改动 5/10
+
+- **她的原话（逐字）**：`1. running is as simple as it gets. 2. it is the only part that genuinely(可以用这个词么) belongs to you. 3. it's not that simple. 4. he brings some food every time he comes. 5. but i don't say that far. 6. every time we got put into pairs, i got stuck with him. 7. i don't usually order takeaway. i'd rather cook - it only takes 10 minutes. 8. everything is fine, you decide(昨天你说的我忙了) 9. i have to see the doctor. 10. my English is not great. 后面也忘了`
+
+```
+✅ 1  B25 一字未改（08-12 P2 里 `as simple as it GOT` 的回潮修回来了）
+✅ 2  B64 the only part that … belongs ✓（only ✓ that ✓ belongs ✓ 靶心）
+      她问 genuinely 行不行 → 行，但偏正式；口语 really／truly。**她自己标了不确定＝B136 的自检动作**
+✅ 3  B65 一字未改（08-12 是 such simple）
+✅ 4  B94 一字未改，brings／comes 两处主谓一致全对（靶心）
+❌ 5  B109a `but i don't say that far` → **I wouldn't go that far, though.**
+      ★★ 她把 go 换成了 say —— 正是她 08-12 那个疑问的延伸（"go 感觉没有说这个动作"）。
+        她**按自己的直觉改了动词** ⇒ B218 那条解释没接住，需要再讲＋成对记
+✅ 6  B117c got stuck WITH HIM ✓（08-12 丢了 with him）⚠️ 时态：习惯用现在时
+✅ 7  B205 带上具体的了（10 minutes）—— 考点就是这个，一字未改
+❌ 8  B207a `everything is fine` → **Anything's fine**（08-12 也错同一处）
+      ✅ 但 `you decide` 对了（08-12 是 you make it）
+      ★★ **本周第一次出现"重说过还回潮"**：昨天重说的 `Anything's fine — it's up to you.` ✓，
+        今天变成 `everything is fine, you decide` ⇒ **两个块被拆开重组，没被点名的那半回来了**
+        ⇒ 她记住的是"我被纠正的那个位置"，不是整句。修法仍是块化：整句当一个单位，不拆
+✅ 9  B58 see the doctor ✓ 一字未改
+📖 10 B171g **连续第三天忘 get by** ⇒ 不是想不起来，是没装进去。
+      按 feedback_priority_structure_over_vocab（词汇是真缺口，别硬塞），给两条路让她选：
+      ① 换更好记的同义词 `but I MANAGE`（manage 她本来就会）② 整句块 `but I get by` 不拆
+      她选了：两个都记，先用 manage 顶上
+```
+
+### 第 3 组 · 10 题 · 考点 10/10 ｜ 整句零改动 3/10
+
+- **她的原话（逐字）**：`the app is useful for everyone, especially working people. It cost(过去时可以么) two hours, but it's gone in ten minutes. i live by the second ring road. i went to bed early last night. i can't help. there is high expectations on the young. he even said nothing. i can't tell differences(需要the么) between the two things. it's a challenge. every one needs sign up.`
+
+```
+✅ 1  B213 `especially working people` ✓ —— 前两次都是 ◎（题面问题），这次终于测到且对了
+✅ 2  B72 `it's gone in ten minutes` ✓ 目标块出来了（△ 提示改成"有个更短的固定说法"起作用）
+      ❌ `It cost two hours` → **You spend two hours cooking** ★ 新建 B230
+      她问"过去时可以么" → 问题不在时态在 cost；**但她的时态直觉抓到了真问题**：
+      前半过去（cost）后半现在（it's gone），一句里两半要同一时间平面
+✅ 3  B219 the second ring road ✓  ⚠️ live by → live just off
+✅ 4  B220 last night ✓ 一字未改
+✅ 5  B221 `can't help` ✓ help 能单独站住 —— 08-12 过度泛化那条今天用对了
+✅ 6  B222 用 there is 把"社会"吃掉 ✓ 方向完全对
+      ❌ B27 `there IS high expectations` → **there ARE**（靶心当天第 1 次失手）
+      ⚠️ expectations ON the young → **of young people**
+✅ 7  B223 说话用 say ✓ 选对了
+      ❌ `he even said nothing` → **He didn't even say a word.** ★ 新建 B231
+✅ 8  B224 `can't tell` ✓ 考点过
+      ❌ `differences` → **THE DIFFERENCE**（固定块 tell the difference between A and B）
+      ⇒ B224 词条即日起以【整块】为考点（同 B45／B192 的处理）
+✅ 9  B225 `a challenge` ✓（08-12 是 an challenge）
+✅ 10 B226 `needs` ✓ 主谓一致对（靶心）
+      ❌ `every one` → **everyone**（一个词）｜❌ `needs sign up` → **needs TO sign up** ★ 新建 B232
+      ⛔ **教练给错**：模范句写成 `Everyone needs to sign up`，但"签到"是 **sign IN**（她当场指出）
+         sign up＝报名（第一次加入）· sign in＝签到/登入 · sign out＝签退 · check in＝报到
+```
+
+**★ 计分口径更正（08-13 当天）**
+```
+原规则："同一天同一条先对后错 → 以最后一次为准"
+今天 B27 被测了 7 次（6✅/1❌），"最后一次"这个口径失真。
+⇒ 改为：**同一天多次 cold 测同一条，只要有一次 ❌ 就记 ❌**，但记录里写明 n 次里错几次。
+  理由与"防虚高"一致：一天 7 次错 1 次 ＝ 还没自动化；毕业本来就要连续几天零失误。
+```
+
+**🆕 第 2–3 组新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B230 | **cost / take / spend 配什么**：**cost ＋ 钱/代价**（It costs 100 yuan／It cost me my job）· **take ＋ 时间**（It takes two hours）· **spend ＋ 人做主语 ＋ 时间/钱 ＋ doing**（You spend two hours cooking）<br>★ 连带（她自己感觉到的）：一句话里两半要在**同一时间平面** —— 说规律全现在时，说某一次全过去时 | "做这个要两小时" ／ "这个花了我一百块" | 08-13 |
+| B231 | **中文"连…都没/都不" → 否定放在【助动词】上，even 跟在后面**：<br>❌ he even said nothing　✅ **He didn't even say a word.**<br>✅ `She didn't even look at me.` ／ `I don't even know his name.` ／ `He can't even swim.`<br>★ 与 B54（禁双重否定）同族：英语一句只标一次否定，`even` 不承担否定 | "他连一句话都没说" ／ "我连他名字都不知道" | 08-13 |
+| B232 | **哪些动词后面要带 to**：<br>**要 to**：need to · want to · try to · decide to · manage to · have to · used to · be able to · hope to<br>**不要 to（原形）**：情态动词（can/should/must/will）· make/let/have sb DO · watch/see/hear sb DO<br>**只有 get 例外**：get sb **TO** do<br>★ 她的错：`needs sign up` → needs **TO** sign up | "每个人都要签到" ／ "他让我等了半小时" | 08-13 |
+| B233 | **so … that ／ too … to ／ very 的分工**：<br>**so ＋ 形容词 ＋ THAT ＋ 从句**　`It's so addictive that kids stay home all day.`<br>**too ＋ 形容词 ＋ TO ＋ 动词**　`It's too addictive to stop.`<br>**very ＋ 形容词**，后面什么都不接<br>❌ **too … that 这个组合不存在**（她的错）<br>★ 判据：后面接的是【一整句】还是【一个动作】？一整句 → so…that；一个动作 → too…to | "太上瘾了，孩子一天不出门" ／ "太贵了买不起" | 08-13 |
+
+### 第 4 组 · 10 题（开始进 D-3 ＝ 08-09 那批）· 考点 10/10 ｜ 整句零改动 7/10
+
+- **她的原话（逐字）**：`1. I always like solving prombles. I want to try it (这个 it 可以省略么) if I have an opportunity(写的太长了) 2. he passed the exam by studying every night. 3. I take my son out on/at weekends. 4. sitting in front of the screen for a long time / hours makes children overweight / causes obesity issue / makes children obese 5. parents should balance screen time(这个 the 我不确定) and outdoor activities. 6. for someone who likes taking photos, Photoshop is definitely their favourite. 7. students should think for themselves 8. you can't completely trust AI. 9. he speaks english pretty well / great. 10. the house is pretty big. it's a long way / far away from the subway, though.`
+
+```
+✅ 1  B227 没误用 'd（考点就是这个）⚠️ always like → 've always loved ／ want to → 'd love to
+      她问 ① try 的 it 能否省 → **能，两个都对**（try 是能单独站住的一批之一；★ 别过度泛化）
+             ② "写得太长了" → I'd love to try it if I get the chance.（opportunity→chance，B136 族）
+✅ 2  B91 一字未改，与词条原句一致
+✅ 3  B101 take my son out ✓ 一字未改
+✅ 4  B106 makes children overweight ✓ 且 makes 主谓一致对（靶心）
+      ⚠️ causes obesity issue → causes obesity（不可数）｜⚠️ sitting in front of the screen → screen time
+✅ 5  B108 balance A and B ✓ 一字未改
+      她问 screen time 要不要 the → **不要**（不可数抽象名词泛指），她判断对了
+✅ 6  B110 someone who LIKES ✓（先行词一致）· their ✓ singular they · 一字未改
+✅ 7  B116 一字未改
+✅ 8  B118 can't completely trust ✓（不是 believe）
+✅ 9  B119 speaks … pretty well ✓（靶心）
+      ❌ 备选 `speaks English great` 不行 —— great 是形容词，修饰动作要用副词
+✅ 10 B120 though 挂句尾 ✓ 一字未改
+      ⭐ 第一选项就给了 **a long way from** —— B161c 的目标块，主动用出来了
+```
+
+### 第 5 组 · 10 题（D-3）· 考点 10/10 ｜ 整句零改动 8/10
+
+- **她的原话（逐字）**：`he cleared the table. games are too addictive that some kids stay at home all day. Ai can answer pretty much every question. you can get funding from the market or borrow money from banks. there is a promotion on the product page. the feature is going live next month. some people run a red light and don't get fined. whay kind of city is a good place to live - cheap rent, clean air, and convenient transport. some people enjoy spending money. what did you eat yesterday? i don't know what you ate yesterday.`
+
+```
+✅ 1  B103 cleared ✓ 一字未改        ✅ 3  B115 every question 单数 ✓ 一字未改
+✅ 2  B112 addictive 选对 ✓；❌ too…that → **so…that** ★ B233
+✅ 4  B133 the market ✓ banks ✓ 两边冠词都对，一字未改
+✅ 5  B145 a promotion（名词）✓ the product page ✓ 一字未改
+✅ 6  B150 going live ✓ 且用现在进行时表将来，很地道，一字未改
+✅ 7  B155 and DON'T get fined ✓ 一字未改  ⚠️ a red light → red lights（泛指复数）
+✅ 8  B174 what kind of city ✓ a good place to live ✓
+      ⭐ 自发接了三个**全名词短语**（cheap rent／clean air／convenient transport）＝ B167 的操作，主动用出
+✅ 9  B142 some people ✓  ⚠️ "就是"没出来 → Some people JUST enjoy…（靶心族）
+✅ 10 B146 两句语序都对，一字未改
+```
+
+**★ 她的第 39 次纠正（08-13）：没有更好版本时必须【写出来】**
+> 原话：**"这轮是没有更好么，如果没有也要写出来，说没有。不然我不知道是你漏了还是没有"**
+```
+成立，而且 §2.4 本来就有这条（"改完就到位时直说没有更好的版本"）——教练用"（同）"糊过去了。
+**"（同）"是歧义符号**：分不清"教练判定没有"还是"教练漏了"。
+她要的正是那个【判定】：第 5 组 10 句里 9 句"无更好版本"，这是关于她水平的强信号，
+而这个信号在"（同）"里完全看不见。
+⇒ SKILL §2.4 已改：② 的位置只有两种合法内容 —— 一个具体的更好版本，或"无更好版本"五个字。
+```
+
+### 第 6 组 · 10 题（D-3）· 考点 9/10 ＋ 1 ◎ ｜ 整句零改动 6/10
+
+- **她的原话（逐字）**：`I got stuck in the morning rush hour. his things are all over the floor. I get stuck every time I use that road. you can get a refund within 7 days, no questions asked. an online pet group. it's subjects that you can use later, or ones that come up everywhere. it's packed in the subway. the roads are completely jammed. children put away their toys after playing with them. it's really convenient for working people. older people is just to look for peace and quiet. （我记得你说 单 quiet 不行，还说了另外的例子，但是我忘了)`
+
+```
+✅ 1  B96 the morning rush hour ✓  ⚠️ **"四十分钟"整个漏译了**
+◎ 2  B97 她答的是 B154 的版本；题面逼不出 leave a mess
+      → 题面已改成"他每次走了都留下一堆烂摊子"
+✅ 3  B99 use that road ✓ every time ＋ 完整从句 ✓ 一字未改
+✅ 4  B100 no questions asked ✓ 一字未改
+✅ 5  B143 an online pet group ✓ 形容词顺序全对，一字未改
+✅ 6  B169 `ones that come up everywhere` ✓ —— 考点就是"第二个从句不能共用 that"
+✅ 7  B149 packed ✓ jammed ✓ 都走了出口A（做表语）
+      ❌ `in the subway` → **on the subway**（交通工具里面用 on）
+      ⚠️ it's packed in X → **X is packed**（出口A 更直接）
+✅ 8  B153 after playing with them ✓ 逻辑主语对上，一字未改
+✅ 9  B156 working people ✓ ＋ ⭐ convenient FOR ＋ 人（B73）顺带用对，一字未改
+❌ 10 B162 `look for` → **be after**（be after＝想要/图个；look for＝找）
+      ❌ B27 `older people IS` → **ARE**（靶心当天第 2 次失手）
+      ✅ peace and quiet ✓ 她记住了；✅ just ✓ "就"这层带上了
+      她问的"另外那个例子"＝ **light sleeper**（睡眠浅），同一词条里的
+```
+
+**🔴🔴 靶心诊断收窄（本日最重要的发现）**
+```
+今天主谓一致 14 次：12 ✅ / 2 ❌
+  对的 12 次全是「他/她/它 ＋ 动词」：gets · has · belongs · brings · comes · needs ·
+                                      makes · likes · speaks · are(games) · run · enjoy
+  错的  2 次全是「**复数名词短语当主语**」：there IS high expectations ／ older people IS
+⇒ **她的检查触发装在"主语是个单个的人"上；主语一变成复数名词短语或 there is/are，触发就不响**
+⇒ 补丁（比"查动词有没有 s"更准）：**说 be 动词之前，眼睛往它前后那个名词看一眼是单数还是复数**
+   older people ARE ／ there ARE high expectations ／ the roads ARE jammed（这个她对了）
+```
+
+### 改完当场重说 · 第 2–6 组 · 4/4 · 5/5 · 4/4 · 3/3 · 4/4 ＝ **20/20**
+
+```
+第2组 `I wouldn't go that far, though. / He went too far. / Anything's fine — it's up to you. / My English isn't great, but I manage.`
+      ★ 她当场质疑 everything：见下
+第3组 `you spend two hours cooking, and it's gone in ten minutes. / There are high expectations of young people. / He didn't even say a word. / I can't tell the difference between the two. / Everyone needs to sign up(sign in 行不行）`
+      ⛔ **她抓到教练用词错**：签到 ＝ sign IN，不是 sign up
+第4组 `I've always loved solving problems. / I'd love to try it if I get the chance. / Too much screen time makes children overweight. / he speaks english pretty well.`
+第5组 `Games are so addictive that some kids stay at home all day. / Some people run red lights and don't get fined. / Some people just enjoy spending money.`
+第6组 `i got stuck for forty minutes in the morning rush hour. / he always leaves a mess. / the subway is packed. / older people are just after a bit of peace and quiet.`
+```
+
+**★ 她质疑 `everything` 被判错（08-13，教练部分让步）**
+> 她的原话：**"其实我觉得 everything 没啥问题，甚至更好"**
+```
+她的直觉有据：中文"什么都"确实同时对应 any 和 every。
+但 **`Everything's fine.` 这个组合的默认含义被占了**（"Is everything OK?" — "Everything's fine." ＝一切都好），
+裸着说会先被读成那个意思 ⇒ 是**歧义**问题，不是语法问题。
+✅ 加了限定就成立：`Everything ON THE MENU is fine by me.` ／ `They're all fine.`
+❌ 裸用要选 anything：`Anything's fine.`（唯一读法）
+⇒ 判据：**这句话拿掉上下文，还会不会被读成另一个意思？** 会 → 换 anything
+⇒ 标记维持 ❌（她那句在语境里确实会被误读），但她的观察记录在案
+```
+
+### 第 7 组 · 9 题（D-3）· 考点 8/9 ｜ 整句零改动 7/9
+
+> ⛔ **教练违规**：题目列表里留了一句编辑残留（"4. …不对，这题练过了，跳过"），
+> 那道题（B159 霸王龙）08-11 已毕业、本不该进列表。§2.1 出题前自查没跑。
+> 她照答且答对 → 当毕业条目复查通过，不计分。
+
+- **她的原话（逐字）**：`mainly two kinds: the fun ones and the useful ones.（其实我觉得 不加 the 也可以，还得看语气和语境）. / I think it mainly coms down to money. what really matters is money. / some apps are too complicated for order people. / he can finally see how tall a T-rex actually was / rather than complaining, he just got on with it / he just did it right away. / to be honest, I didn't pay much attention to it.（我记得还有一种说法) / it's one day either way, so you might as well smile. / order people ofter say / all you need to do is speak and listen more. / don't bury youself into grammar books or word lists.`
+
+```
+✅ 1  B176/B113 the fun ones and the useful ones ✓ 一字未改
+      她说"不加 the 也可以，看语气语境" → **部分对，但不是语气问题，是【前面有没有框定】**：
+      先说了 two kinds ⇒ 这两类已被框住 ⇒ the 是规则；没框定时（There are fun ones and
+      useful ones）才不加。判据：前面有没有先说"两类/几种"？
+✅ 2  B137 两条路径都给对（comes down to ／ what really matters is）⚠️ I think → I'd SAY
+✅ 3  B158 complicated ✓（不是 complex）
+      ⚠️ **order people → older people，今天写了两次**，不是随机手滑；读音差很远
+（不计）4  B159 一字未改 —— 08-11 已毕业，今天算复查通过
+✅ 5  B172 complaining 不及物 ✓ 两种说法都给 ✓ 一字未改  ⭐ just 也带上了
+✅ 6  B177 to be honest ✓
+      ❌ 后半词义偏移：`didn't pay much attention to it`（没太注意）≠ 没想过
+      → 她记的那个说法就是 **I've never really thought about it.**（B178 里的块）
+✅ 7  B178 一字未改，与词条原句一致
+✅ 8  B179 older people ＋ say ✓ 主谓一致对（靶心）
+✅ 9  B180 一字未改（is 后省 to、用原形）
+❌ 10 B181 `bury yourself INTO` → **IN** —— 介词是块的一部分
+      ⇒ **规则写死**：词条的"点"里写出了完整块（含介词）时，考点就是【整块】，
+        少一个介词即 ❌（同 B192／B45 的处理）
+```
+
+### 第 8 组 · 6 题（D-3 收尾）· 考点 5/6 ＋ 1 ◎ ｜ 整句零改动 2/6
+
+- **她的原话（逐字）**：`1. he don't have weekends with that job. 2. it's clear today, and air is clean. 3. learning a language is actually to express youself and understand others. 4. it's a bit of a mixed bag. 5. having ambitions keeps you move forward.(不确定对不对) 6. you may miss out on things like friendship.`
+
+```
+◎ 1  B164 她的句子成立，题面逼不出关系词 where（词条自己也承认口语可绕开）
+      ⇒ 抽查方式改成【给两种说法】（同 B171d／B189 的做法）
+      ❌ B27 `he don't` → **doesn't**（靶心，今天第 3 次）
+✅ 2  B170 clear（天晴）／clean（空气）两个词全分对 —— 考点就是这个
+      ❌ `air is clean` → **THE air**（说此刻的空气带 the）
+✅ 3  B182 用不定式表目的 ✓  ⚠️ `X is actually to do Y` 结构生硬 → `You learn a language to…`
+      ⚠️ actually（其实）≠ 就是
+✅ 4  B183 一字未改        ✅ 6  B185 一字未改
+✅ 5  B184 move forward ✓ 选对了（不是 move on）
+      ❌ `keeps you move forward` → **keeps you MOVING forward**
+         ★ keep sb DOING（-ing）｜ make/let/have sb DO（原形）—— 补进 B232
+      ⭐ 她标了"不确定对不对"，自诊命中
+```
+
+### 新题 ② · P2 喜欢种植物的人（08-12 抽的，顺延过来）· cold 254 词 · 11 处真错
+
+> `Describe a person who loves to grow plants`（question_bank.md:211）
+> **密度对比：08-12 那篇 144 词 10 错（1/14）→ 本篇 254 词 11 错（1/23）⇒ 错误密度降约 40%**
+> 句子长了 76%，错的绝对数几乎没涨。
+
+- **她的原话（逐字）**：`The person I'd like to talk about is my grandpa. he is a real enthusiast. He grows some vegetables and flowers in his balcony and a small area near his place. He live in a small town in Yibin, a city in the south of sichuan. So there are lots of open spaces(space 是否复数我经常犹豫）to grow things. What he usually grows is vegetables,like chili peper and tomatos, and various flowers, like china's rose and spider plant. I remember when i was a kid, he'd be the first person to (这个 to 我不知道对不对) get up in the morning(这个 the 要加么) and water the plants. by the way, he actually raised me up, so we had been living together util I went to college. he even made his own fertilizer using food scraps. On moment that really stuck with me is one time he tried to teach me how to clip flowers. I was not interested it at all, but he kept patient and showed how to do it over and over. As for why he loves growing plants. I guess it mainly comes down to killing time. My grandpa used to get home before 5pm, and now he has retired. these plants need him and he needs them to relax. On top of that, there is a sense of fullfilment when he watch the plants grow day by day - he can eat what he grows and blooming flowers are really beautiful. It's less about growing plants and more about the time and energy put in and the results he gets.`
+
+```
+层1 ❌ in his balcony → ON · ❌ He live → liveS · ❌ he watch → watcheS
+    ❌ interested it → interested IN it（昨天刚纠）
+    ❌ showed how → showed ME how（**8/11 P3 里同一个错，原样回潮**）
+    ❌ raised me up → brought me up／raised me（raise 不带 up）
+    ❌ On moment … is one time → One moment … WAS WHEN
+    ❌ `As for why he loves growing plants.` 句号断开＝**悬空片段**（B105 唯一保留的那条）
+    ❌ china's rose → Chinese roses · spider plant → spider plants
+    ⚠️ he kept patient → he stayed patient
+层2 ⚠️ killing time 语气消极，与后面给的理由（被需要/成就感）**逻辑不一致**
+    ⚠️ clip flowers → prune
+层3 ✅ by the way／On top of that／As for why／less about X and more about Y 四个衔接块
+    ⚠️ 但 `by the way` 把"他把我带大的"这条**很好的内容降级**成顺便一提
+层4 ✅ 四 bullet 全覆盖，How 那层特别实（阳台＋一小块地＋自制肥料＋早起浇水）
+    ⭐⭐ **她自发加了一个真实小故事**（教她剪花／她不感兴趣／他反复耐心示范）——P2 里最值钱的东西
+层5 ⭐⭐ **全篇最好的一句 `these plants need him and he needs them to relax`**
+    ＝ 反差六轴第④轴（它需要我 ↔ 我需要它），**无提示自发用出**
+✅ **B136 书面词降级在自由产出里通过（连续第二次）**
+⭐ 另外三处无提示自发：`a real enthusiast`（08-11 学的）· `time and energy` 词序 ·
+   `less about X AND more about Y` 的 and（08-11 曾错成 but）
+```
+
+**🔴🔴 主谓一致：单点测 ≠ 自由产出，今天第三次证实（本周第三个进这个名单的条目）**
+```
+今天单句复习：主谓一致 14 次全对（实义动词那批一个没掉）
+今天这篇 P2：he LIVE · he WATCH —— 两个实义动词全掉
+⇒ 教练当天先后给过两个"收窄诊断"（"只在复数名词短语上掉" → "只在 be/助动词上掉"），
+  **两个都被推翻**。真相更简单，也正是带宽模型：
+  **单句复习时带宽只管一句话，哪种都能查；自由产出时带宽被内容和结构吃满，形态检查整个不运行。**
+⇒ 主谓一致这条不能靠中译英测出"装上了"，只有在自由产出里不掉才算过
+  （同 B136 书面词降级、B41 论元完整 —— 本周第三条进此名单）
+```
+
+**★ 她的第 40 次纠正（08-13）：教练把对的判成了错**
+> 她的原话：**"we had been living together util I went to college。我觉得这句话没毛病，顶多是util拼错了"**
+```
+✅ 她是对的。**until I went to college 本身就是过去完成时要的那个参照点。**
+❌ 教练锚定在当天早上那句（`I had been looking … AND found nothing`，and 是并列不是参照点），
+   看到 had been -ing 就套规则，**没重新看后面挂的是什么连词** —— 又是四问自审第②问的失败。
+⇒ B228 已补写清楚哪些词算参照点：
+   ✅ before · by the time · when · **until** · after　❌ and（并列，同一时间平面）
+⇒ 两个版本都对：`we lived together until…`（口语默认）／`we'd been living together until…`（强调持续）
+★ 这是她 08-13 抓到教练的**第三处**（once ／ sign in ／ 本条）
+```
+
+### 改完当场重说 · 第 7–8 组 ＋ P2 · 4/4 · 4/4 · 5/5（今日累计 38/38）
+
+```
+第7组 `Some apps are too complicated for older people. / Older people often say… / To be honest, I've never really thought about it. / Don't bury yourself in grammar books and word lists.`
+第8组 `he doesn't have weekends with that job. / he has the kind of job where you never get a weekend. / it's clear today, and the air is clean. / you learn a language to express yourself and understand others. / ambition keeps you moving forward.`
+      ⭐ 第 1 句她**两个版本都给了**，包括题面逼不出来的 `the kind of job where…` ⇒ 那个块她其实有
+P2    `he lives in a small town near YiBin / He grows vegetables on his balcony. / He actually brought me up, so we lived together until I went to college. / I wasn't interested in it at all, but he stayed patient and showed me how to do it. / There's a real sense of fulfilment when he watches the plants grow.`
+```
+
+### 新题 ③ · P3 `Where do people normally watch sports events?`（question_bank.md:349）· cold 约 70 词 · 2 处真错
+
+- **她的原话（逐字）**：`It's mainly at stadiums, bars, and home. Your can only feel that energy if you are at a stadium. lots of people watch event along with you at a bar. You cheer when the team you support gets a score. as for at home, you can pause anytime, and rewind if you miss out on something. It's the cheapest and (这里还需要the么)most convenient way to watch sports events. 感觉整体的连接和转折差点意思`
+
+**★ 她的自诊又中了（今日第 N 次）：「连接和转折差点意思」——位置很具体**
+```
+三个场景只有第三个被标记了（as for at home），前两个是裸并列。
+修法一（最省，不加连接词）：**把地点提到句首当路标** —— At a stadium, … At a bar, … At home, …
+修法二：转折要标出来 —— At home, **ON THE OTHER HAND**, …
+另缺一句收尾（P3 最好收口）：So it really comes down to what you're after: the atmosphere or
+the convenience. ★ 这就是 B160「差异题＝找一根共同的尺子」，这题的尺子＝气氛 vs 方便
+```
+
+```
+⭐ **`You can only feel that energy` —— only 在【自由产出】里 cold 用对了**
+   （B203 早上还是连错 2；中译英测对不算数，自由产出里出来才算 —— 这是本周新立的标准）
+✅ only … if 成立（＝只有…才），不必改成 when
+❌ `watch event` → **watch it／the event**（缺冠词）
+❌ `gets a score` → **scores**（score 直接当动词）
+⚠️ `along with you` → with you（along with 偏正式）
+⚠️ `as for at home` → as for 后面接名词，接介词短语别扭
+⭐ `miss out on` 主动用出（早上刚练）；⚠️ 但场景稍偏：错过一个**瞬间**用 miss，
+   miss out on 是错过某种**体验**（friendship／opportunities）
+✅ 她问"the cheapest and 还要不要 the" → **不要，她写对了**（两个最高级并列共用一个 the）
+✅ `the team you support` 关系从句省 that，用得好
+✅ 书面词降级通过
+层4 ⚠️ 缺收尾；层5 ⚠️ 只给了 what 没给 why（收尾那句正好补上）
+```
+
+**⛔ 她的第 41 次纠正（08-13）：教练在【完整版】里自己违反了并列同形**
+> 她的原话：**"第一句为啥其他都没介词就 home 加了 at"**
+```
+❌ 教练写的：`three places — a stadium, a bar, or AT home`
+             名词 · 名词 · 介词短语 ⇒ **三边不同形**，正是教练一直在教她的「理解侧冗余第 2 条」
+✅ 她的原句：`at stadiums, bars, and home` —— 共用一个 at，三边都在 at 管辖下 ⇒ **同形，比教练的好**
+根因：home 在英语里是【副词性】的词（at home／go home，go to home ❌；且不能用 a home 表示"家里"），
+     跟"冠词＋名词"天然对不齐。两条出路：
+     ① 三个都用介词短语：at a stadium, at a bar, or at home
+     ② 把 home 换成普通名词：a stadium, a bar, or your own living room
+★★ **这是当天她抓到教练的第 4 处**（once ／ sign in ／ had been living ／ 本条）。
+   前三处是判错，本条是**改写时自己犯规** —— 性质更重：完整版是给她当模板用的。
+⇒ 教练侧规则：**完整版发出前，自己也要过一遍「理解侧冗余七条」**，
+  尤其第 2 条（并列同形）—— 教什么就得自己先守什么。
+```
+
+### 改完当场重说 · P3 · 5/5 全对（今日累计 43/43）
+
+`At a stadium, you only get that energy if you are actually there. At a bar, there are lots of people watching it with you. You cheer when the team you support scores. At home, on the other hand, you can pause anytime and rewind if you miss something. So it really comes down to what you're after, the atmosphere or the convenience.`
+
+📊 2026-08-13 ✅ B25 B58 B64 B65 B72 B91 B94 B96 B99 B100 B101 B103 B106 B108 B110 B112 B113 B115 B116 B117c B118 B119 B120 B133 B136 B137 B142 B143 B145 B146 B149 B150 B153 B155 B156 B158 B169 B170 B172 B174 B176 B177 B178 B179 B180 B182 B183 B184 B185 B191b B192 B203 B205 B213 B215 B216 B219 B220 B221 B222 B223 B224 B225 B226 B227（65 条）  △ B214  📖 B171g  ◎ B97 B164  ❌ B27 B34 B41 B105 B109a B147a B162 B181 B207a B217 B218  🆕 B228 B229 B230 B231 B232 B233
+　　　　　　　　🎓 本日新增 0 条（累计 16）—— 但 **连对2 从 0 涨到 42**，明天是毕业大年
+　　　　　　　　（不计：B159 教练误列，08-11 已毕业，她答对＝复查通过）
+　　　　　　　　⛔ 教练本日被她抓到 4 处：once 判重 · sign in 给错 · had been living 判错 · 完整版自己违反并列同形
+
+### 📦 08-13 收尾 · 顺延队列（下次优先）
+
+```
+▸ 未答完的新题：[P2] P2-非02 收到特殊蛋糕（question_bank.md:1286，已在 asked.log，不重抽）
+▸ D-1（08-13）主体：❌ 11 条 ＋ 📖 1 ＋ ◎ 2 ＋ △ 1 ＋ 🆕 6 ＝ 21 条
+▸ **连对2 有 42 条**，全部是"再对一次就毕业"—— 按 §0.2 排序规则，它们跨批取、优先出
+▸ 顽固条（连错 ≥2）：**B27 主谓一致（连错3）** · B34 时态触发（连错3）· B41 论元完整（连错3）
+   · B109a wouldn't go that far · B207a anything vs everything
+▸ 题面待改：B97（→"他每次走了都留下一堆烂摊子"）· B164（→ 给两种说法）· B217 第三句
+▸ 待复查（靠继承毕业的）：B57a B114a B117a B152a → 08-16 专门复习日
+▸ 08-16 ＝ 下一个专门复习日；重答队列 asked.log 现 28 道
+```
+
+### ★ 08-13 全天小结（三条）
+
+```
+① **「单点测通过 ≠ 装上了」本周第三、第四次被证实，已升为一条通则**
+   08-11 B136 书面词：中译英 ✅ → 同日自由产出三个书面词回来
+   08-12 B41 论元完整：第 2 组 ✅ → 第 5 组 ❌
+   08-13 B41 又一次：单句 ✅ → P2 里两处（showed how／interested it）
+   08-13 B27 主谓一致：单句 14 次全对 → P2 里两个实义动词全掉
+   ⇒ **块级/操作类/形态类条目，中译英测出的 ✅ 一律不算数**，只有自由产出里不掉才算过。
+     目前进这个名单的：B136（书面词降级）· B41（论元完整）· B27（主谓一致）
+   ⇒ 教练当天先后给过两个"收窄诊断"（"只在复数名词短语上掉"→"只在 be/助动词上掉"），
+     **两个都被当天的数据推翻**。真相就是带宽模型本身：自由产出时形态检查整个不运行
+
+② **教练当天被她抓到 4 处，其中 1 处性质最重**
+   once 判重（△ 不是 ❌）· sign in 给错词 · had been living 判错（until 就是参照点）·
+   **完整版里自己违反并列同形**（a stadium, a bar, or at home）
+   ⇒ 前三处是判断失误，第四处是**给她当模板的东西自己犯规** ⇒ 新规则：
+     **完整版发出前，教练自己也要过一遍「理解侧冗余七条」**
+
+③ **她的自诊今天继续全中**，且出现了两个新层次
+   "不确定对不对"（keeps you move forward）· "感觉整体的连接和转折差点意思"（P3，位置诊断准确）
+   · "我觉得 everything 没啥问题"（部分成立，教练给了边界）· "这句话没毛病"（完全成立，教练撤回）
+   ⇒ **她开始在【篇章层】自诊了**（以前只到句子层），且**开始质疑教练的判断并且赢**
 ```
 
 ---
