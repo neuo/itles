@@ -833,3 +833,102 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | 祖父母帮着带孩子 | grandparents **help with** childcare | ⚠️ **无对应名词块** —— 别造 `grandparental childcare`，就用动词版 | T2-18 |
 
 ★ 最后一行是**故意保留的反例**：提醒"不是每个动词都有名词版，找不到就用动词版，别硬编"。
+
+---
+
+### 2026-08-12 · **D2** · T2-14 第 1 次（限时 cold，6.0）· 条目 **E-058~E-117**（共 **60** 条）
+
+> 🔴🔴 **本批次 2026-08-13 补建 —— 昨天的收尾造了一次假记录，照实写在这里。**
+> 08-12 的 📊 行写着「条目: 新建 K2 R13 留痕5 = 20（E-058~E-077）」，
+> **而 profile.md 当时的 max(E) 还是 E-057 —— 那 20 条一条都没建，编号区间是编的。**
+> 成因：收尾时先写 📊 后写条目，写完 📊 就当成做过了。
+> 这与三修「伪造探针」、F52「算了就扔」是**同一个失败模式**，而且发生在
+> 整套机制正是为了防它而建之后。⇒ 08-13 开场第一件事补建，并把 📊 那一格改成真实数字（60）。
+> ⚠️ 20 → 60 的差不是"多记了"，是**昨天连数都没数** —— 60 是逐条数出来的。
+
+**① 她写错的（作文 24 · drill 7）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 | streak |
+|---|---|---|---|---|---|---|
+| E-058 | 这个趋势增长很快 | is **increasingly growing** | is **growing rapidly** | P11 语义重复 | R · **P11** | 0/3 |
+| E-059 | 这些疗法很少有效 | have **few chances to be effective** | **are rarely effective** | P3 硬编名词块 | R · **P3** | 0/3 |
+| E-060 | 这个趋势并非无法理解 | is not completely **understandable** | is not completely **unreasonable** | P11 语义反转 | R · **P11** | 0/3 |
+| E-061 | 在某些情况下有效 | effective **on** some cases | effective **in** some cases | P1 介词 | R · **P1** | 0/3 |
+| E-062 | 长期治疗没有明显效果 | **fail to get positive effects** | **see no improvement** | P3 硬编 | R · **P3** | 0/3 |
+| E-063 | 即使这些方法几乎无效 | **even** these methods are… | **even if** these methods are… | P12 连词缺失 | R · **P12** | 0/3 |
+| E-064 | 他们的生意往往不错 | their business **tend** to be | their businesses **tend** to be | P4 主谓一致（单数主语配复数动词） | R · **P4** | 0/3 |
+| E-065 | 不仅无效，还有害 | not only ineffective but also **negative** | …but also **damaging** | P11 词义（be negative 表"有害"不成立） | R · **P11** | 0/3 |
+| E-066 | 大多基于经验 | **result from** experience | **are based on** experience | P11 词义（方向反了） | R · **P11** | 0/3 |
+| E-067 | 事实上 | **In actually** | **In fact** | P11 中式块（in fact＋actually 混合） | R · **P11** | 0/3 |
+| E-068 | 没人说得清它们为什么偶尔管用 | why they **works** | why they **work** | P4 主谓一致（复数主语配单数动词） | R · **P4** | 0/3 |
+| E-069 | 盲目押注在这些疗法上 | gambling **at** these therapies | gambling **on** these therapies | P1 介词 | R · **P1** | 0/3 |
+| E-070 | 会导致金钱和时间上的损失 | lead to **loss in** money and time | lead to **a loss of** money and time | P2 冠词/可数性＋介词（挂主错＝冠词） | R · **P2** | 0/3 |
+| E-071 | 医生会指引下一步该怎么做 | **guidances of** what… | **guidance on** what… | P4 可数性＋介词（合并组，挂主错＝可数性） | R · **P4** | 0/3 |
+| E-072 | 病人下一步该怎么做 | what **you** should do next | what **patients** should do next | P12 人称一致（全篇第三人称里跳出 you） | R · **P12** | 0/3 |
+| E-073 | 分级诊疗体系 | **hierarchy** diagnosis system | **the hierarchical** diagnosis system | P11 词形＋P2 冠词（挂主错＝词形） | R · **P11** | 0/3 |
+| E-074 | 超出医生的能力范围 | **out of scope of** doctors | **beyond the scope of** a doctor | P2 冠词 | R · **P2** | 0/3 |
+| E-075 | 医生会把病人转给专科 | **recommend** patients to specialists | **refer** patients to specialists | P11 词义（转诊的行话是 refer） | R · **P11** | 0/3 |
+| E-076 | 更安全的办法 | the most **secure** way | the **safest** way | P11 词义（secure 不用于"方式"） | R · **P11** | 0/3 |
+| E-077 | 紧急的健康问题 | **a health urgent** | **an urgent health problem** | P11 词形（urgent 是形容词不能作名词） | R · **P11** | 0/3 |
+| E-078 | 保持耐心、不去赌，就更可能治好 | **Keeping patient…, there are** more chances | **If patients stay patient…, they have** more chances | P12 悬垂分词（本篇唯一回读句） | R · **P12** | 0/3 |
+| E-079 | 医生会给出指引（事实陈述） | doctors **would** provide | doctors **will** provide | P12 情态（would＝虚拟/委婉） | R · **P12** | 0/3 |
+| E-080 | 上级医院 | **advanced** hospitals | **larger** hospitals | P11 搭配 | R · **P11** | 0/3 |
+| E-081 | 一些研究**中国传统医学**的人（08-13 改题面：原「中医（医生）」两条路都通——`Chinese medicine` 也成立——逼不出语序考点，08-13 记 ◎） | **Chinese traditional** medicine | **traditional Chinese** medicine | P11 固定语序 | R · **P11** | 0/3 |
+| E-082 | 再休息一周 | rest for **a more week** | rest for **another week** | P12（"再多一个 X"＝another X / one more X） | R · **P12** | 0/3 |
+| E-083 | 老板要求我们**周末**加班 | to work overtime（漏译"周末"） | to work overtime **at weekends** | 漏译 | 留痕（翻译遗漏，非语言缺口） | — |
+| E-084 | 他建议换一条路走 | changing **a road** | taking **a different route** | P11 词义（change a road＝改造道路） | R · **P11** | 0/3 |
+| E-085 | 这个方案就不划算了 | is **a bit expensive** | is **no longer worth it** | P11 词义＋对冲词 a bit（今天第 2 次） | R · **P11** | 0/3 |
+| E-086 | 加上语言障碍，找工作更难 | **without a fluent language** … find **jobs** | the **language barrier** … **finding a job** | P11 硬编＋P4 数（合并组，挂 P11） | R · **P11** | 0/3 |
+| E-087 | 让**本来就**紧张的资源**更加**紧张 | put a strain on scarce resources | put **further** strain on **already** scarce resources | P12（中文一个词两层，英文要两个词分别接） | R · **P12** | 0/3 |
+| E-088 | 疫情（大流行） | the **epidemic** | the **pandemic** | P11 词义（epidemic＝局部流行） | R · **P11** | 0/3 |
+| E-089 | （手滑） | `goverments` | `governments` | P5 拼写 | 留痕·手机输入（不进 P5 计数；作文里的照常算） | — |
+
+**② 她说"不会/没把握"的（13 条 —— 本场最有价值的一类，全部由她主动提问产生）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 | streak |
+|---|---|---|---|---|---|
+| E-090 | 「这里其实我不想用 is not，但是没想到更好的代替」 | 这个趋势并非无法理解 | 问题不在 is not，在意思写反了 → 见 E-060 | 留痕 → 见 E-060 | — |
+| E-091 | 「First 我觉得有点普通了」 | （连接词焦虑） | 不普通，**该用就用**。CC 扣的是"机械"不是"简单"。想换：To begin with／On top of that／There is also the fact that | 留痕（判断性焦虑，非缺口） | — |
+| E-092 | 「这里可以换成 might 么」 | 在某些情况下**可能**有效 | may／might 近等价（might 更弱）；此处 `can be effective in…` 最准（客观上存在这种情况） | **K** | 0/3 |
+| E-093 | 「fail to get positive effects 感觉不是很好」 | 长期治疗没有明显效果 | 直觉对 → 见 E-062 | 留痕 → 见 E-062 | — |
+| E-094 | 「想用 reasonable 但是感觉弱化了自己的」 | 可以理解，但不明智 | 判断很准。解法不是换词是**加转折**：understandable **but not sensible** | 留痕（她自己已写对） | — |
+| E-095 | 「本来想用 don't know，但是感觉太不正式了」 | 没人说得清它们为什么偶尔管用 | don't know 在 Task 2 完全可用；此处两个都不对 → `no one can explain why…` | **K** | 0/3 |
+| E-096 | 「这个介词硬编的」 | 盲目押注在这些疗法上 | → 见 E-069 | 留痕 → 见 E-069 | — |
+| E-097 | **「我一直不太知道怎么才能避免反复提同一个单词」** | （策略性问题，全场最有价值） | **❌ 不是找同义词**（找错反而扣 LR —— 本篇 secure／negative／expenditure 正是这么来的）**✅ 三招**：①代词/指示词 ②上位词 ③直接省略主语。★ **重复关键词在雅思不扣分，题面词尤其** | **K**（策略，需在下一篇作文里验） | 0/3 |
+| E-098 | 「expenditure 是不是也行」 | 加上运输成本 | 语域不对：**transport costs**（项目成本）／spending（花出去的量）／expenditure（政府预算科目，太重） | **K** | 0/3 |
+| E-099 | 「划算不会说」 | 这个方案不划算 | `it's not worth it`（最省）／`it doesn't add up`（算下来不划算）／`it's not cost-effective`（正式） | **K** | 0/3 |
+| E-100 | 「这句话有点难」 | 让本来就紧张的资源更加紧张 | 难在中文用同一个词表两层 → 见 E-087。**这类句子先在中文层拆开再翻** | 留痕 → 见 E-087 | — |
+| E-101 | 「不太会翻译」 | 加上语言障碍，找工作就更难了 | → 见 E-086 | 留痕 → 见 E-086 | — |
+| E-102 | **「strain 是可数还是不可数」** | 这给医疗系统造成很大压力 | 两个都是：`put **a** strain on X`（默认整块，带 a）／加 further/more 时 a 掉／`under strain` 零冠词／`the strains of modern life`＝多种压力。★ 判据可推广：**光杆抽象名词看有没有"一份/一次"的意思** | **K** | 0/3 |
+
+**③ 教练给的更好版（15 处 · ⚠️ 全部可否决）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 | streak |
+|---|---|---|---|---|---|---|
+| E-103 | 越来越多人转向替代疗法 | the trend towards trying… is growing rapidly | **more and more people have turned to** alternative therapies | 待排序 | U（待定） | 0/2 |
+| E-104 | 现代医学有局限 | there are some limitations in modern medicine | **modern medicine has its limits** | 待排序 | U（待定） | 0/2 |
+| E-105 | 长期没有好转的病人 | if patients… see no improvement…, they have a strong urge to | patients…, **who have seen no improvement for years, are strongly tempted to** | 待排序 | U（待定） | 0/2 |
+| E-106 | 可以理解不等于明智 | is something understandable but not sensible | **understandable is not the same as sensible** | 待排序 | U（待定） | 0/2 |
+| E-107 | 靠个案经验而非大规模试验 | are based on experience | **rest on individual experience rather than large-scale trials** | 待排序 | U（待定） | 0/2 |
+| E-108 | 盲目押注要花钱花时间 | can lead to a loss of money and time | **costs money and time** | **她已会 · 撤出装备池**（08-13：无提示复现，且她当场指出"costs 那个我给了呀"——教练把她自己的产出当升级递回去，撤销） | 留痕 | ✅08-13 |
+| E-109 | 医生反而会指给你更好的 | doctors will provide guidance on what patients should do | doctors, **by contrast**, will **point patients to something better** | 待排序 | U（待定） | 0/2 |
+| E-110 | 中国的分级诊疗体系 | the hierarchical diagnosis system | **China's tiered medical system** | 待排序 | U（待定） | 0/2 |
+| E-111 | 更安全也更快 | is the safest and most effective way | is **both safer and faster**（只有两个选项用比较级不用最高级） | 待排序 | U（待定） | 0/2 |
+| E-112 | 更有可能治好 | they have more chances to get effective cures | they **stand a far better chance of getting well** | 待排序 | U（待定） | 0/2 |
+| E-113 | 医生让她再休息一周 | advised her to rest for another week | **told her to take another week off**（take time off 固定块） | 待排序 | U（待定） | 0/2 |
+| E-114 | 老板要求我们周末加班 | required us to work overtime at weekends | **made us work weekends**（make sb do，不带 to） | 待排序 | U（待定） | 0/2 |
+| E-115 | 工会要求加薪 | demanded higher wages | demanded **a pay rise** | 待排序 | U（待定） | 0/2 |
+| E-116 | 算下来这个方案不划算 | this plan is no longer worth it | the plan simply **doesn't add up** | 待排序 | U（待定） | 0/2 |
+| E-117 | 疫情让紧张的医疗资源更紧张 | has put further strain on already scarce resources | has **stretched** already scarce medical resources **even further** | 待排序 | U（待定） | 0/2 |
+
+**分池对账**（三张表逐行数出来的，不是估的）
+```
+①她写错的  32 条 E-058~E-089   → R 30（全部挂了 §5 14 行里的代号）＋ 留痕 2（E-083 漏译 · E-089 手机手滑）
+②她说不会  13 条 E-090~E-102   → K  6（E-092 E-095 E-097 E-098 E-099 E-102）＋ 留痕 7（其余，均为交叉引用或她判断已正确）
+③更好版本  15 条 E-103~E-117   → 待排序 15
+                                  R 30 ＋ K 6 ＋ 留痕 9 ＋ 待排序 15 = **60** ✅ = 新建号 E-058~E-117
+
+★ 另有 3 条**不新建号的复现**（记在旧号上，不计入 60）：
+  E-042 `combined with` 丢 with ❌（第 2 次）· E-043 demand 框架 ❌ · E-050 `no choice but to` 丢 but ❌
+  ⇒ 本场被判定的条目总数 = 60 新建 ＋ 3 复现 ＋ 11 复习判定 = 74
+```
