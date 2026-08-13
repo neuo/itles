@@ -5710,6 +5710,93 @@ B147a/B147b 且**从 0 起算** ⇒ 开场起 **连对2 实为 0 条**。第 1 �
 
 `No one can tell which part is yours. / it's the only part that really belongs to you. / he cooks really well.`
 
+### 新题 ① · P2 团队合作（08-11 顺延过来的那道）· cold 144 词 · 10 处真错
+
+> `Describe a time when you worked in a group`（question_bank.md:308）
+> **她自评"写得稀烂"** —— 教练按数据回应，不安慰也不附和：
+
+```
+144 词 / 10 处真错，密度与 08-11 那篇 P2 相当（173 词 9 处）⇒ **不是退步**
+但 10 处里【5 处在同一个桶】：冠词 / 单复数
+   every studentS · a groupS · A external · AN challenge · little memory 与 a weak… 冠词不齐
+★★ 同一篇里 a/an 用反了【两个方向】（a external 该 an ／ an challenge 该 a）
+   ⇒ 不是不知道规则，是产出时根本没查 —— 与主谓一致同一机制：
+     带宽被内容吃满，**形态零件第一批掉**
+★★ **内容和结构是她目前最好的一篇 P2**：problems 段是真正的因果链不是罗列
+   （芯片装在机器人内部 → 内存小算力弱 → 程序必须尽量简单）= 层5 达标
+   她自嘲的"稀烂"指的其实只有零件层
+```
+
+- **她的原话（逐字）**：`the time i'd like to talke about is when i attended a competition at university. it was about solving a cube with robots. the competition was held every year, and every students could sign up. 4 classmates and i formed a groups. three of us were in charge of building the robot body, and i was responsible for the program controlling it. what made it difficult was that the robot could not use a external compute to calculate the steps to restore the cube. we only installed a micro chip inside, and it had little memory and a weak computation ability, so the program had to be as simple as it got. as for why i worked in the group, it was mainly because i was really interested in robots and programming. The competition was an challenge and i'd really love solving problems. 写得稀烂`
+
+```
+层1  ❌ every students → every STUDENT ★ B226   ❌ a groups → a group
+     ❌ a external → AN external ★ B225        ❌ an challenge → A challenge（同条，反方向）
+     ❌ compute → computer
+     ❌ B25 回潮 `as simple as it got` → **as simple as possible**
+        （as…as it gets ＝"已经是最…的了"，与"尽量简单"不是一个意思；且该块不随句子变过去式）
+     ❌ `i'd really love` → **I really love ／ I've always loved** ★ B227
+层2  ❌ restore the cube → **solve the cube**（魔方复原就叫 solve）
+     ❌ computation ability → **processing power**（搭配不成立）
+     ⚠️ a cube → a Rubik's cube · the robot body → the hardware · micro chip → microchip
+层3  ✅ `what made it difficult was that…` 分裂句用得很好
+     ✅ `as for why i worked in the group` 直接接住第 4 个 bullet
+     ⚠️ 结尾 was a challenge AND I love… —— 实为因果不是并列
+层4  ✅ 四个 bullet 全覆盖且顺序对   ⚠️ 开头 15 词全是套话
+层5  ✅ **全篇最强**：约束→后果链条完整，是真内容不是评价
+理解侧冗余 第 2 条：little memory（无冠词）／ a weak ability（有冠词）两边不齐
+✅ **B136 书面词降级在【自由产出】里通过** —— 全篇没有"有口语版还去调长的"词。
+   这才是唯一算数的测法（08-11 单点测的 ✅ 已判定不作数）
+```
+
+**🆕 本篇新建**
+| # | 点 | 抽查方式 | 来源 |
+|---|---|---|---|
+| B225 | **★ a / an 看【读音】不看拼写**（她同一篇里两个方向都错：`a external` 该 an ／ `an challenge` 该 a）：<br>元音**音**开头 → **an**：an external computer · an hour（h 不发音）· an MBA（读 em）<br>辅音**音**开头 → **a**：a challenge · a university（读 you）· a European · a one-way street（读 wun）<br>★ 她不是不知道规则 —— 是产出时没查。与主谓一致同机制（形态零件第一批掉）<br>★ 检查触发：**每写/说一个 a 或 an，念一遍后面那个词的第一个音** | "这是一次挑战" ／ "他有一台外接显示器" ／ "我等了一个小时" | 08-12 |
+| B226 | **every / each / another / any(单指) 后面永远跟【单数】**：every student · each person · another day · any question。<br>要说"所有学生"用 **all students**（复数）／ **everyone**<br>★ 与 B115（any ＋ 单数）同族，合起来记 | "每个学生都能报名" ／ "每个人都要签到" | 08-12 |
+| B227 | **`I'd love` ≠ `I love`**：<br>**I'd love (to do)** ＝ would love，说**意愿/如果有机会**（`I'd love to go.` 我很想去）<br>**I love (doing)** ＝ 一直就喜欢（`I love solving problems.`）<br>**I've always loved** ＝ 强调一直如此（她这句要的就是这个）<br>★ 判据：说的是**现在的意愿**还是**长期的喜好**？后者不许加 'd | "我一直喜欢解决问题" vs "有机会我很想试试" | 08-12 |
+
+### 改完当场重说 · P2 团队合作 · 6/6 全对（今日重说累计 31/31）
+
+`every student could sign up / four classmates and i formed a team. / the robot wasn't allowed to use an external computer to solve the cube. / the chip had very little memory and not much processing power. / the program had to be as simple as possible. / it was a real challenge, and i've always loved that kind of problem.`
+
+📊 2026-08-12 ✅ B39 B43 B45 B46 B59 B61 B66 B67 B68 B70 B77 B89 B107a B109c B136 B147a B148 B157 B171a B171f B173 B175 B189 B191a B193 B194 B195 B197 B198 B199 B200 B201 B204 B206 B207b B207c B208 B210 B211 B212  📖 B58 B171g  ◎ B213  △ B72  ❌ B25 B27 B34 B41 B64 B65 B94 B109a B117c B192 B203 B205 B207a  🆕 B214 B215 B216 B217 B218 B219 B220 B221 B222 B223 B224 B225 B226 B227（本日新建 14 条）· B58 B59 B61 B64 B65 B66 B67 B70 B72 B77 （久没出现首次进流，基线 0）
+　　　　　　　　🎓 本日新增 0 条（累计仍 16）—— 昨天的顽固条几乎全部从连错跳到连对 1，还差两次才毕业
+　　　　　　　　⚠️ 不计：B109d（教练出了与第 3 组重复的题，她当场抓到）
+　　　　　　　　⛔ 教练违规 1 处：§2.1a 去重没跑
+
+### 📦 08-12 收尾 · 顺延队列（08-13 优先）
+
+```
+▸ 未答完的新题（最优先，已在 asked.log，不重抽）
+   [P2] P2-新05 喜欢在家/花园种菜的人（question_bank.md:211）
+   [P3] Where do people normally watch sports events?（question_bank.md:349）
+   [P2] P2-非02 收到特殊蛋糕（question_bank.md:1286）
+▸ 08-12 的 ❌（13 条）＋ 📖（2）＋ ◎（1，题面已改）＋ △（1）＝ 08-13 的 D-1 主体
+▸ 08-12 新建 14 条（B214–B227），08-13 首次 cold 测
+▸ 顽固条（连错 ≥2，每组必进）：**B27 主谓一致** · B41 论元完整 · B34 时态触发 ·
+   B203 只有…才 · B192 enough X to go round
+▸ D-3 兜底本日起失效：08-13 的 D-3 ＝ 08-09，📊 有行，走正常口径
+▸ 待复查（靠继承毕业的）：B57a B114a B117a B152a → 排进 08-16 专门复习日
+```
+
+### ★ 08-12 全天小结（三条，写给下次进场的人看）
+
+```
+① **主谓一致（B27）两天 7 次，升为 08-13 靶心**
+   08-11：the two hours MAKES ／ my mom HELP ／ he WALK
+   08-12：he WATCH ／ If he COME ／ belong ／ he COOK
+   她孤立测 100%，产出中反复错 ⇒ 检索失败，不是知识缺口。
+   修法只有一条：**加检查触发**——说完一句扫主语是不是"他/她/它/一个东西"，是就查动词有没有 s
+② **08-12 靶心（单字副词）六次全丢，一次都没自主补上**
+   只有→丢 · 没有一次→丢 · 各一半→丢 · 很难→档位升级 · 能→丢 · 唯一→丢
+   ⇒ 不撤，转成复习清单常驻项（B197/B203/B195 各自出题，B209 当共享判据）
+③ **"单点测通过 ≠ 装上了"连续两天被证实**
+   08-11 B136 书面词：中译英 ✅ → 同日自由产出三个书面词回来
+   08-12 B41 论元完整：第 2 组 ✅（focus at work）→ 第 5 组 ❌（to find___）
+   ⇒ 块级/操作类条目，**只有换一个全新句子或在自由产出里才测得准**
+```
+
 ---
 
 ## 🗣 表达库（按场景 · 只收出现过的 · ⭐ = 她自己产出的，优先滚）
