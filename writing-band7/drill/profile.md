@@ -329,18 +329,20 @@
 > 一个周期需要 34×5×3 = **510 次抽查**，而任何合理预算最多几十次 —— 队列**结构性地单调发散**，
 > 没有一条条目能走到 🎓。**这不是执行不力，是算术不成立。**
 >
-> 修法不是砍条目（违反她 08-04 的零遗漏裁决），而是**换毕业工具**：
-> 7/24 决定性实验已证 —— 同一批语法点**低压单独抽查 20/24 = 83% 对，cold 整篇里接近 0%**。
-> ⇒ 对"她本来就会、只是压力下调不出来"的条目做中译英抽查，**只会给假的"会了"**
-> （与 fluency-lab「不考判断、不考列举」同一条理由）。这类条目正确的验收场就是**下一篇 cold 作文**，
-> 而判分时本来就要逐句扫 —— **成本为 0**。
+> ⛔⛔ **2026-08-15 她裁决：以 08-11 的规则为准，删掉下面那半条。**
+> 原文写着：「对'她本来就会、只是压力下调不出来'的条目做中译英抽查，只会给假的'会了'
+> ⇒ R 路径不占抽查预算，验收场是下一篇 cold 作文」。
+> 这与她 08-11 的裁决 **「复习不是抽查，是全部复习」** 直接冲突 ——
+> 按老规则 R 不进中译英，而全库 R 占绝大多数，等于绝大多数条目永远拿不到判定、永远不毕业。
+> **两条规则并存了四天，执行的一直是 08-11 那条，但这半条从没删。**
+> ⇒ 现按她 08-15 的裁决删除。**路径只决定"要不要出题"，不再决定"怎么毕业"。**
 
-| 路径 | 谁走这条 | 怎么毕业 | 占抽查预算？ |
+| 路径 | 谁走这条 | 怎么毕业（**08-15 统一**） | 进不进中译英组 |
 |---|---|---|---|
-| **K** 知识缺口 | **两关都过**才算 K，见下面的「K 判定两关」 | 连续 **3 次中译英抽查 ✅** → 🎓 | ✅ 占（预算见 SKILL §2.2） |
-| **R** 检索失败 | 她写错了但低压能答对（**默认档**，7/24 证 83% 属这类） | 连续 **3 篇限时 cold 该形式零出现** → 🎓 | ❌ 不占（判分时顺带扫） |
-| **U** 升级项 | 教练给的更好版本，且**她确认"不会"** + 教练评 🔴 高价值 | 连续 **2 次她主动用对** → 出 §9 池 | ❌ 不占（每篇 ≤1 条上场） |
-| **留痕** | 判定类（她判断对了）／交叉引用类／篇章级无法用单句逼出的 | **不毕业、不计 streak、永久留档** | ❌ |
+| **K** 知识缺口 | 两关都过才算 K，见下面的「K 判定两关」 | 台账里连续 ✅ ≥3 → 🎓（跑 snapshot.py） | ✅ 进 |
+| **R** 检索失败 | 她写错了但低压能答对（**默认档**） | **同上，统一按台账连击** | ✅ **进**（08-15 改：原写"不占预算/不进"已删） |
+| **U** 升级项 | 教练给的更好版本 | 同上；另在作文里"主动用对 2 次"可出 §9 池 | ✅ 进（前提是有中文触发点） |
+| **留痕** | 判定类／交叉引用类／篇章级或减法型（单句逼不出） | **不毕业、不计 streak、永久留档** | ❌ 不进 |
 
 ```
 ★★★ **K 判定两关（F92 —— 原来只有第一关，于是 08-10 一场就判出 4 条 K，队列算术当场爆）**
@@ -632,7 +634,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 
 | E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-040 | 每个人都有受教育的权利 | the right to **get education** | the right **to education**（或 `to get **an** education`） | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
+| E-040 | 政府应该保障每个孩子受教育的权利（08-15 改题面：原「每个人都有受教育的权利」与 7/24 常驻题 E-030 逐字撞车） | the right to **get education** | the right **to education**（或 `to get **an** education`） | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-041 | 雇主和员工的利益并不总是一致（08-12 改题面：原题面与 E-043 逐字撞车，一题只能测一个考点） | **employers**（今天两次：抽查②＋探针⑦） | **employees**（employer=雇主 / employee=员工） | P11 形近词义 | R · 挂代号 **P11** | 0/3 篇 |
 | E-042 | 加上退休金支出，政府的负担会更重（08-12 改题面：原「加上退休金支出」是光杆短语，逼不出整块 `combined with`） | **combined** pension spending | **combined with** pension spending（`combined with` 是整块，掉了 with 就变成前置定语） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
 | E-043 | 公司要求员工加班 | **demands** employees **working** | **requires** employees **to work**（demand 不接 sb+to do／sb+doing；demand that sb do） | P1 动词框架 | K（低压孤立仍产不出正确框架） | 0/3 抽查 |
@@ -640,9 +642,9 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-045 | 大部分家长或多或少都担心这个问题（08-12 改题面：原题面与 E-005 撞车） | **more or else**；被正面问到时改用 `also` 绕开 | **more or less** | P11 词形 | R · 挂代号 **P11** | 0/3 篇 |
 | E-046 | 老年人口占总人口的两成（08-12 改题面：原「老年人口」是光杆短语，逼不出整句） | the **old** population | the **older** population（`the old` 作名词＝老年人 ✅，作定语一律 older） | P11 搭配 | R · 挂代号 **P11** | 0/3 篇 |
 | E-047 | 政府计划提高退休年龄（08-12 改题面：原「退休年龄」是光杆短语） | **retire** age | **retirement** age | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
-| E-048 | 他们学新技术比较**慢** | **slowlier** | **more slowly**（-ly 副词一律 more＋；`earlier` 能加 -er 是因为 early 形副同形） | P6 比较级 | R · 挂代号 **P6** | 0/3 篇 |
+| E-048 | —（08-15 改判**留痕·减法型**：考点是「不许造 `slowlier` 这个不存在的词」，而 `more slowly` 与 `slower` 两个正确形式**都合法** ⇒ 没有哪句中文能唯一逼出它，中译英测出来必然是 ◎。改为**挂在作文里当场抓**） | **slowlier** | **more slowly** ／ **slower** 都对（-ly 副词一律 more＋；`earlier` 能加 -er 是因为 early 形副同形；★ slower 作副词在现代英语里也合法） | P6 比较级 | **留痕·减法型**（不进中译英组） | — |
 | E-049 | 经济下滑让情况进一步恶化（08-12 改题面：原题面与 E-014 逐字撞车。两条不是同一考点——E-014 测"选 worsen 不选 deteriorate"，本条测**形态 -en** ⇒ 按口语线 §0.2 改被动方题面，两个号都留着） | **worses** | **worsens**（-en 后缀族：weaken/strengthen/deepen/widen/shorten/tighten） | P6 词形 | R · 挂代号 **P6** | 0/3 篇 |
-| E-050 | 别无选择，只能损害… | `no choice but **hurt**` | `no choice but **to** hurt`（`to` 是块的一部分） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
+| E-050 | 他们别无选择，只能取消这次旅行（08-15 改题面：原题面带省略号不完整，补完之后正好撞上 E-016 的题面） | `no choice but **hurt**` | `no choice but **to** hurt`（`to` 是块的一部分） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
 | E-051 | （手滑） | `demend` · `hurn` | `demand` · `hurt` | P5 拼写 | **留痕·手机输入**（不进 P5 计数；作文里的照常算） | — |
 
 **② 她说"不会/没把握"的**（她今天主动问的四条 —— 最有价值的一类）
@@ -650,7 +652,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E | 她的原话 | 中文触发点 | 裁决 | 路径 | streak |
 |---|---|---|---|---|---|
 | E-052 | 「youth 是什么时候能用」 | 青年失业是个严重问题（08-12 定题面：原格里塞了两个题面，违反"一题一个考点"；这句唯一路径是固定块 `youth unemployment`） | `young`＝形容词（描述年龄）；`youth`＝名词（青年群体/时期），只在固定块里当定语：youth unemployment · youth hostel · youth club · youth culture。❌ `youth parents` | **K**（用法边界，她主动报不会） | 0/3 抽查 |
-| E-053 | 「no 后面可以接复数么」 | 他们没有孩子（08-12 定题面：原格里塞了两个题面；「别无选择」那半归 E-050） | 能，单/复/不可数都合法，看语义：预期本来只有一个→单数（`no husband`）；预期本来有多个→复数（`no children`）。★ 但 `no choice but to` 是**固定块，永远单数** | **K** | 0/3 抽查 |
+| E-053 | 「no 后面可以接复数么」 | —（08-13 改判**留痕**：`have no X` 与 `don't have X` 是自由变体，中文无法区分 ⇒ 没有哪句中文能逼出 `no`。她问的是**用法知识**不是**产出考点**。08-15 回写文件） | 能，单/复/不可数都合法，看语义：预期本来只有一个→单数（`no husband`）；预期本来有多个→复数（`no children`）。★ 但 `no choice but to` 是**固定块，永远单数** | **K** | 0/3 抽查 |
 | E-054 | 「strains 如果想加个形容词加什么」 | 老龄化让政府财政越来越吃紧（08-15 改题面：原「这给政府财政造成很大压力」是 pressure 最自然的中文，逼不出 strain —— 教练 08-15 拿它判了 ❌，**与 08-11 她纠正过的同一个错，四天后复犯**，已撤销改 ◎） | 整块 = `put / place a **[severe / heavy / huge / financial]** strain on X`。她写的 `imposes strains on` 语法成立但不是默认说法 | **K**（与 E-021 同源，等 E-021 的干净测量一起判） | 0/3 抽查 |
 | E-055 | 「a bit 是不是有点口语了」 | 他们学新技术比较慢 | 是。学术写作换 `somewhat`，**或者直接删** —— 对冲词会把 Task 2 的立场说软 | 留痕（她判断准确，无缺口可测） | — |
 
@@ -970,17 +972,17 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 
 **③ 教练给的更好版（9 条新的；另 6 处是 E-107/110/112/113/116/086 的复现，记 ✅ 用对不新建）**
 
-| E | 她的 floor | 更好版本 | 价值档 |
-|---|---|---|---|
-| E-136 | this trend is growing rapidly | this trend **has grown** rapidly in recent years（"这些年"是累积到现在→完成时） | 待排序 |
-| E-137 | why they are effective occasionally | why they **occasionally work**（副词挂动词前；work 比 are effective 短） | 待排序 |
-| E-138 | Gambling on **those** | Gambling on **them**（those 光杆指代空泛） | 待排序 |
-| E-139 | see no improvement after long-term treatment | **show** no improvement after **months of** proper treatment | 待排序 |
-| E-140 | tell patients what they should do next | tell patients **what to do** next（省一个从句） | 待排序 |
-| E-141 | if they cannot treat the disease | **when a case is beyond them**（呼应 beyond the scope） | 待排序 |
-| E-142 | following the guidance from doctors is the safest way | **Following medical advice** is the safest **option** | 待排序 |
-| E-143 | tell patients about a better medicine | **let patients know if** a better medicine exists | 待排序 |
-| E-144 | he advises us to take a different route | he **suggested taking** a different route | 待排序 |
+| E | **中文触发点**（08-15 补：原表缺这一列，导致这 9 条 5 天出不了题）| 她的 floor | 更好版本 | 价值档 | 路径 | streak |
+|---|---|---|---|---|---|---|
+| E-136 | 这些年这个趋势增长得很快 | this trend is growing rapidly | this trend **has grown** rapidly in recent years（"这些年"是累积到现在→完成时） | 待排序 | U（待定） | 0/2 |
+| E-137 | 这些疗法只是偶尔管用 | why they are effective occasionally | why they **occasionally work**（副词挂动词前；work 比 are effective 短） | 待排序 | U（待定） | 0/2 |
+| E-138 | 别盲目押注在它们上面 | Gambling on **those** | Gambling on **them**（those 光杆指代空泛） | 待排序 | U（待定） | 0/2 |
+| E-139 | 病人经过几个月正规治疗仍然没有好转 | see no improvement after long-term treatment | **show** no improvement after **months of** proper treatment | 待排序 | U（待定） | 0/2 |
+| E-140 | 老师会告诉学生接下来该做什么 | tell patients what they should do next | tell sb **what to do** next（省一个从句） | 待排序 | U（待定） | 0/2 |
+| E-141 | 如果这个病超出了医生的能力范围 | if they cannot treat the disease | **when a case is beyond them**（呼应 beyond the scope） | 待排序 | U（待定） | 0/2 |
+| E-142 | 听医生的话是最安全的选择 | following the guidance from doctors is the safest way | **Following medical advice** is the safest **option** | 待排序 | U（待定） | 0/2 |
+| E-143 | 医生会让病人知道有没有更好的选择 | tell patients about a better medicine | **let patients know if** a better medicine exists | 待排序 | U（待定） | 0/2 |
+| E-144 | 他提议改走另一条路 | he advises us to take a different route | he **suggested taking** a different route | 待排序 | U（待定） | 0/2 |
 
 **分池对账**
 ```
@@ -1026,3 +1028,30 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
                          ◎ E-071(题面已改) E-081(题面已改)
    ★ 本场 ✅ 36 条 · ❌ 4 条 · ◎ 2 条 = 42 次判定（28 题 ＋ 14 条顺带）
 ```
+
+---
+
+### 2026-08-15 补建 · **E-145~E-152**（08-12 那篇 ④b 更好版里漏记的 8 处）
+
+> 🔴 **这是一次真实的零遗漏违规，08-15 她查出来的。**
+> 08-12 的 diff 表 B 声称 `S2 S3 S5 S7 S9 S11 S13 S17` **未改动**，
+> 而 ④b 更好版全文里**这 8 句全都改了** —— 8 处教练给的更好版，一条条目都没建。
+> **成因不是记录丢了，也不是检索问题，更不是 skill 指令不清**（G5 断言 2 覆盖测试、
+> 断言 3 拼接测试，任意一条跑一遍都会当场爆）——
+> **是教练没遵守指令**：列表 B 时从「我打算讲哪几个点」出发挑行，
+> 而不是从「更好版全文 vs 最小修改版**逐句比对**」出发覆盖，然后没跑那两条机械断言。
+> ⚠️ 其中 **E-151 正是她 08-13 专门追问过"加 the 行不行"的那一句** —— 她花力气问过的点，
+> 档案里原本根本不存在。
+
+| E | 中文触发点 | 她的 floor（＝最小修改版） | 更好版本 | 价值档 | 路径 | streak |
+|---|---|---|---|---|---|---|
+| E-145 | 虽然这些疗法很少有效，我仍然坚信这是负面的 | While **these alternative medicines and treatments** are rarely effective, I **strongly** believe **that** this is a negative development | While **such treatments** are rarely effective, I **firmly** believe this is a negative development（① 第二次提到用上位词 such treatments，不重复全称 ② believe 后的 that 可省） | 待排序 | U（待定） | 0/2 |
+| E-146 | 必须承认，这个趋势并非无法理解 | Admittedly, this trend is **not completely unreasonable** | Admittedly, the trend is **not hard to understand**（更短、更像人话） | 待排序 | U（待定） | 0/2 |
+| E-147 | 传统医学在某些情况下确实有点用 | Alternative medicines, **like a variety of** traditional medicines in different countries, **may be effective in some specific cases** | Traditional medicines, **of the kind found in** many countries, **can genuinely help in certain cases**（genuinely help 比 be effective 有力；of the kind found in 比 like a variety of 紧） | 待排序 | U（待定） | 0/2 |
+| E-148 | 有些中医宣称能治高血压和糖尿病，生意还很好 | some Chinese traditional medicine **doctors claim that they are able to cure** … their **businesses tend to be really prosperous** | some traditional Chinese medicine **practitioners claim to cure** … their **clinics do very well**（① claim to do 省一个从句 ② practitioners 比 doctors 准 ③ clinics do very well 比 businesses…prosperous 自然） | 待排序 | U（待定） | 0/2 |
+| E-149 | 这些疗法不仅没用，还有实际危害 | this trend **can be harmful to patients —** alternative therapies can be **not only ineffective but also damaging** | the trend **harms patients:** these therapies are **not only useless but actively damaging**（① 实义动词 harms 代替 can be harmful ② 冒号引出解释比破折号紧 ③ actively damaging 有力度） | 待排序 | U（待定） | 0/2 |
+| E-150 | 没人说得清它们为什么偶尔像是管用 | **people are even confused about** why they **work** occasionally | **No one can explain** why they **occasionally appear to work**（① no one can explain 比 people are confused 直接 ② appear to work＝"像是管用"，比 work 准确） | 待排序 | U（待定） | 0/2 |
+| E-151 | 花在这些疗法上的时间，就是从正规治疗那里挪走的时间 | **the time lost to alternative therapies** is **the time delayed for** proper treatment | **the time spent on them** is **time taken away from** proper treatment（① spent on 比 lost to 自然 ② time taken away from＝挪走，比 the time delayed for 准）<br>★★ **这一句她 08-13 专门追问过"第二个 time 加不加 the"** —— 两个都对：零冠词＝分类，the＝同一（同一段时间），本句加 the 反而更有力 | 待排序 | U（待定） | 0/2 |
+| E-152 | 尽管走投无路和别的压力把病人推向替代疗法 | while **an urgent health problem and other reasons push patients to try** alternative medicines | although **desperation and other pressures push patients towards** alternative medicines（① desperation 一个词说完"走投无路" ② push sb **towards** sth 比 push sb to try sth 紧） | 待排序 | U（待定） | 0/2 |
+
+**分池**：待排序 8 条 = E-145~E-152（全部属 **08-12 = D3 批次**，不是今天产的）
