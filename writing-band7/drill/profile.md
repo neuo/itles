@@ -1055,3 +1055,62 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 | E-152 | 尽管走投无路和别的压力把病人推向替代疗法 | while **an urgent health problem and other reasons push patients to try** alternative medicines | although **desperation and other pressures push patients towards** alternative medicines（① desperation 一个词说完"走投无路" ② push sb **towards** sth 比 push sb to try sth 紧） | 待排序 | U（待定） | 0/2 |
 
 **分池**：待排序 8 条 = E-145~E-152（全部属 **08-12 = D3 批次**，不是今天产的）
+
+---
+
+### 2026-08-15 · **D5** · T1-14（剑 20 Test 1）· 限时 20min cold · 条目 **E-153~E-182**（共 **30** 条）
+
+**① 她写错的（作文 17 · drill 6）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-153 | 这几张表说明了…… | The tables **illustrates** | The tables **illustrate** | P4 主谓 ← **靶子内** | R · **P4** |
+| E-154 | 住在曼哈顿的人口**占总人口**的比例 | the percentage of **___** total population | the percentage of **the** total population | P2 冠词 ← **靶子内** | R · **P2** |
+| E-155 | 人口 | `popution` | `population` | P5 拼写 | R · **P5** |
+| E-156 | 曼哈顿 | `Manhatten` | `Manhattan` | P5 拼写 | R · **P5** |
+| E-157 | 一百年后 | **After 100 hundred years** | **A hundred years later** ／ A century later（thousand/hundred 前面的数不过 999） | P12 数词 | R · **P12** |
+| E-158 | 住在曼哈顿的人数 | **the number of the population** | **the number of people** ／ the population（二选一，不能叠） | P3 硬编名词块 | R · **P3** |
+| E-159 | 达到峰值 185 万 | **reached to** a peak | **reached** a peak（reach 及物不带 to） | P1 介词 | R · **P1** |
+| E-160 | 从那以后 | `from then on`（句首小写） | `From then on` | P12 大小写（作文里计入 GRA） | R · **P12** |
+| E-161 | 下降了 | `droped` | `dropped`（单音节+单元音+单辅音尾要双写；同 plan→planning） | P5 拼写规则 | R · **P5** |
+| E-162 | 这一时期结束时只剩 19% 的人住在曼哈顿 | the absolute value **finished the period with only 19% of people** | **the period ended with** only 19% of people…（★ 数字类主语不能带人当宾语） | P12 主谓搭配 | R · **P12** |
+| E-163 | 差不多 | `alomst` | `almost` | P5 拼写 | R · **P5** |
+| E-164 | 这意味着大多数人住在曼哈顿以外 | which **meat the majority of people living** outside | which **meant that** the majority of people **lived** outside（原句缺谓语，闭合不了） | P12 句法＋P5 拼写（挂主错 P12） | R · **P12** |
+| E-165 | 上升趋势达到 647 万的峰值 | the upward trend **marked the peak of** | the upward trend continued and **reached a peak of**（★ 趋势不能 mark a peak） | P12 主谓搭配 | R · **P12** |
+| E-166 | 占总数的 76% | `75%` | `76%` | **W9 数据错**（T1 最致命） | R · **W9** |
+| E-167 | 1900 年达到 1,587,109 | `1,587,108` | `1,587,109` | **W9 数据错** | R · **W9** |
+| E-168 | 185 万 | **1,850 thousand** | **1.85 million**（thousand 前面的数不过 999） | P12 数字写法 | R · **P12** |
+| E-169 | 这个数字在 1900 年达到峰值 | peaked at … **by** 1900 | peaked at … **in** 1900 | P1 介词 | R · **P1** |
+| E-170 | 住在曼哈顿的人口占比 | **the share of Manhattan's population** | **Manhattan's share of the total population**（被分份的是全市人口，块的方向拼反了） | P3 硬编名词块 | R · **P3** |
+| E-171 | 这个比例保持稳定 | **kept stable** | **remained stable** ／ held steady（keep 不能这样接形容词） | P1 动词框架 | R · **P1** |
+| E-172 | 比例 | `proportation` | `proportion` | P5 拼写 | R · **P5** |
+| E-173 | 从 1900 年到 2000 年 | from 1900 **and** 2000 | from 1900 **to** 2000 ／ **between** 1900 **and** 2000 | P1 搭配 | R · **P1** |
+| — | 大幅增长 | `increased **largely**` | `increased **sharply**` | **回潮，记在 E-015 上不新建**（08-10 `largely delays` 同款，第 2 次） | — |
+
+**② 她说不会 / 主动问的（1 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-174 | 「by 和 in 啥区别，我感觉 T1 基本可以互换」 | 这个数字在 1900 年达到峰值 ／ 到 1900 年为止已增长到 158 万 | **不能互换**。**in ＝ 动作发生在那一年**（peaked at X **in** 1900）；**by ＝ 结果累积到那一年为止**（**By** 1900, the figure **had** reached X，常配完成时）。★ 她作文 S9 的 `to 1,587,109 **by** 1900` 是**对的**（增长是累积过程） | **K** |
+
+**③ 教练给的更好版（7 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-175 | 这几张表说明纽约市及其五个区的人口在 1800–2000 的变化 | The tables illustrate how the total population of NYC, as well as that of the five districts (…), changed over a two-century period from 1800 to 2000 | The tables **show** how the population of New York City **and of its five districts** changed **between 1800 and 2000**（T1 的 intro 只要改写题面；34 词太长，五个区名照抄占字数） | 待排序 | U（待定） |
+| E-176 | 一百年后曼哈顿人口见顶 185 万，占比降到 54% | A hundred years later, the number of people living in Manhattan reached a peak of 1,850,093, while the proportion shrank to 54% | **A century later, Manhattan's population peaked at** 1,850,093, **though its share had fallen to** 54%（peak 作动词省掉整个名词块） | 待排序 | U（待定） |
+| E-177 | 此后下降，到期末只剩全市的 19% | From then on, the figure dropped, and the period ended with only 19% of people living in Manhattan | **It then declined, ending the period at just 19% of the city's total**（it 回指避免重复；分词并句） | 待排序 | U（待定） |
+| E-178 | 这个数字随后涨了近百倍，1900 年达到 158 万 | The figure increased sharply, by almost 100 times, to 1,587,109 by 1900 | This figure then **rose almost a hundredfold**, reaching 1,587,109 by 1900（**hundredfold** ＝ 倍数的标准说法） | 待排序 | U（待定） |
+| E-179 | 上升势头持续，2000 年见顶 647 万，此时五分之四的纽约人住在曼哈顿以外 | …continued and reached a peak of 6,471,089 in 2000, which meant that the majority of people lived outside Manhattan | The upward trend continued, **peaking at** 6,471,089 in 2000, **by which point four fifths of New Yorkers lived outside** Manhattan（用上 81% 这个数，比 the majority 具体） | 待排序 | U（待定） |
+| E-180 | 住在曼哈顿的人口占比降到 19% | Manhattan's share of the total population dropped to 19% | **The proportion of the population living in Manhattan fell to** 19%（与她作文里已用的句式一致，好复用） | 待排序 | U（待定） |
+| E-181 | 这个比例在 1900 到 2000 年间保持稳定 | The proportion remained stable from 1900 to 2000 | The proportion **held steady between** 1900 **and** 2000（held steady 是行话） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-182 | ⛔ **教练 drill 题面出错两处**：第 4 题中文写「四分之一的人口住在曼哈顿以外」，实际数据是 **81%（五分之四）**——她按事实写 `four fifths` 是对的，记 ◎ 不记错；第 5 题中文用约数「五分之一」会诱导写 20%，而图上是 19%。★ **T1 的题面不许用约数** | 留痕（教练犯规） |
+
+**分池对账**：①23（R 22 ＋ 记在旧号 1）＋ ②1（K）＋ ③7（待排序）＋ ④1（留痕）＝ **30** ＝ 新建号 E-153~E-182 ✅
+
+📋 2026-08-15(D5 学习日)  ✅ E-040 E-042 E-044 E-045 E-046 E-047 E-049 E-050 E-054 E-062 E-064 E-080 E-107 E-110 E-112 E-118 E-119 E-120 E-121 E-122 E-123 E-124 E-125 E-126 E-127 E-129 E-130 E-131 E-137 E-138 E-139 E-140 E-143 E-144  ❌ E-015(回潮) E-128 E-137 E-171  ◎ E-054 E-136 E-141 E-013  △ E-142  📖 —
