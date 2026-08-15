@@ -499,7 +499,8 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ## B1 · 柱状图（3 题）
 
-### T1-01 五个欧洲国家家庭互联网接入率
+### T1-01 五个欧洲国家家庭互联网接入率 〔**来源未查到**〕
+> ⚠️ 2026-08-15 双语搜遍未找到剑桥册号出处，也无可靠机经来源；搜到的全是用户自编变体（三国 2007–2019、五国含 USA/India 等），没有一条是「五个欧洲国家 ＋ 2000/2005/2010」。⇒ 照实留空，不猜。
 > The bar chart shows the percentage of households with internet access in five European countries in 2000, 2005, and 2010.
 
 | 国家 | 2000 | 2005 | 2010 |
@@ -518,7 +519,8 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-02 家庭周开销 1968 vs 2018（8 类）⭐ 她 T1 最好一篇
+### T1-02 家庭周开销 1968 vs 2018（8 类）⭐ 她 T1 最好一篇 〔**剑 17 Test 3**〕
+> ⚠️ **题面更正**：剑桥原文是 how families in **one country** spent their weekly income，**不是「英国」**——「英国」是本库自己加的。八类数据与原题逐条吻合。
 > 数据（占周支出 %，各年合计≈100）：Food 35→17 · Housing 10→19 · Fuel & power 6→4 · Clothing 10→5 · Household goods 8→8 · Personal goods 8→4 · Transport 8→14 · Leisure 9→22
 
 | # | 日期 | 条件 | 分 | 主要错 |
@@ -530,7 +532,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-03 美国家庭按年收入 2007/2011/2015（分组柱）
+### T1-03 美国家庭按年收入 2007/2011/2015（分组柱）〔**剑 18 Test 2**〕
 > The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.
 
 | 收入档 | 2007 | 2011 | 2015 |
@@ -554,7 +556,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ## B2 · 折线图（6 题）
 
-### T1-04 四国人均 CO₂ 排放 1967–2007
+### T1-04 四国人均 CO₂ 排放 1967–2007 〔**剑 11 Test 3**〕
 > The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
 
 | Year | UK | Sweden | Italy | Portugal |
@@ -574,7 +576,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-05 关店 vs 开店 2011–2018（双线）
+### T1-05 关店 vs 开店 2011–2018（双线）〔**剑 17 Test 4**〕
 > Closures：6,400 / 5,900 / 7,200(峰) / 6,500 / **600(全图最低)** / 5,200 / 5,000 / 5,200
 > Openings：**8,500(全图最高)** / 3,900 / 5,000 / 6,200 / 4,000 / 4,000 / 4,200 / 3,000
 > 关键关系：8 年里 6 年关店 > 开店（例外 2011、2015）
@@ -587,7 +589,8 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-06 家电普及率 + 家务时长 1920–2019（双图）〔剑 13 T1〕
+### T1-06 家电普及率 + 家务时长 1920–2019（双图）〔**剑 16 Test 1**〕
+> 🔴 **2026-08-15 更正：原记「剑 13 T1」是错的**，双源核实为 **剑 16 Test 1**。按剑 13 去翻会翻空。
 > 家电 %（1920/1940/1960/1980/2000/2019）：洗衣机 40/60/70/**64(回落)**/70/75 · 冰箱 2/55/90/100/100/100 · 吸尘器 30/50/70/90/100/100
 > 家务小时/周：50/35/20/15/15/12
 > 关键：**洗衣机是 odd-one-out —— 唯一没到 100%，且中途跌到 64 再回升**；跨图关系 家电↑ ↔ 家务↓ 才是本题的点
@@ -602,7 +605,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-07 四个亚洲国家城市化率 1970–2040
+### T1-07 四个亚洲国家城市化率 1970–2040 〔**剑 18 Test 1**〕
 > The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.
 > Malaysia 30%(1970)→~75%(2020)→**~83%(2040)** · Indonesia ~14%→53%→**~64%** · Philippines 略超 30%→1990 略低于 50%→2010 回落 ~42%→~56% · Thailand →**2040 达 50%**（44% 是它 2030 的位置）
 
@@ -614,7 +617,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-08 三种金属月度价格变化率 2014
+### T1-08 三种金属月度价格变化率 2014 〔**剑 18 Test 4**〕
 > The graph below shows the average monthly change in the prices of three metals during 2014.
 > Y 轴 = 与上月相比的变化率 %。**Nickel**：1、2 月月涨 >4%；3–5 月 ≤+1%；之后下滑，**6 月见底约 −3%**；随后四个月在 −1%~−2% 走平；12 月回升 +1%。**Zinc**：2 月最高约 +3%，其余月份在 −1%~+2%。**Copper**：全年变化率绝对值均 <2%。
 
@@ -662,7 +665,8 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 
 ---
 
-### T1-11 三种营养素在四餐的分布（3 饼图）〔剑 14 T1〕
+### T1-11 三种营养素在四餐的分布（3 饼图）〔**剑 14 Test 1**〕（08-15 双源复核，原记正确）
+> ⚠️ **题面用词**：剑桥原题是 **sodium（钠）**／saturated fats／added sugars，不是 salt。
 > The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.
 
 | | Breakfast | Lunch | Dinner | Snacks |
@@ -683,6 +687,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 ---
 
 ### T1-12 英国某大学学生所会外语 2000 vs 2010（2 饼图）〔**剑 11 Test 2**〕
+> ⚠️ **题面用词**：剑桥原题是 **proportions**，不是 percentages。
 > The charts show the percentages of British students at one university in England who were able to speak other languages in addition to English, in 2000 and 2010.
 
 | 类别 | 2000 | 2010 |
