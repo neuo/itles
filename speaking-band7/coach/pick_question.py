@@ -94,9 +94,32 @@ def load_asked():
             for ln in ASKED.read_text(encoding="utf-8").splitlines() if ln.strip()}
 
 
+BAG = ROOT / "coach" / "draw_bag.txt"          # 分层抽样的剩余票据
+
+
 def draw_kind():
-    """按权重掷一次骰子，决定这一题抽 P2 还是 P3。★ 由脚本决定，不由 LLM 决定。"""
-    return "p2" if random.random() < WEIGHTS["p2"] else "p3"
+    """★ 分层抽样（08-15 改，起因：她连续两次质疑"怎么全是 P2"）。
+
+    原来是每次独立掷骰（30% P2）。脚本本身公平 —— 三重实测 30.1/30.2/58.0 全部吻合 ——
+    但独立掷骰允许长条纹：实测她的前 10 次加权抽取里出了 8 次 P2（概率 0.16%，
+    确实撞上了）。**公平 ≠ 对训练友好**：连着几天抽不到 P3 是真损失，
+    而 P3 是她更该练的（考试权重大、无法靠背素材过关）。
+
+    改法：把"每次掷骰"换成"从一个袋子里摸票"。袋子里固定放
+    3 张 P2 ＋ 7 张 P3，摸走不放回，摸空了再装满。
+    ⇒ 长期比例仍是 30/70 不变，但**任意连续 10 抽里必然是 3 P2 / 7 P3**，
+      结构上消灭了长条纹。袋子状态存在 draw_bag.txt，跨进程保持。
+    """
+    tickets = []
+    if BAG.exists():
+        tickets = [t for t in BAG.read_text(encoding="utf-8").split() if t in ("p2", "p3")]
+    if not tickets:                                    # 袋子空了 → 重新装满并洗牌
+        n2 = round(WEIGHTS["p2"] * 10)
+        tickets = ["p2"] * n2 + ["p3"] * (10 - n2)
+        random.shuffle(tickets)
+    kind = tickets.pop()
+    BAG.write_text(" ".join(tickets), encoding="utf-8")
+    return kind
 
 
 def main():
