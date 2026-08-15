@@ -32,36 +32,28 @@ echo "=== writing-drill 口径检查 ==="
 echo
 echo "-- ① SKILL.md 行数 --"
 real=$(wc -l < "$SKILL" | tr -d ' ')
-declared=$(grep -m1 '本 SKILL.md 全文' "$SKILL" | sed -E 's/.*\| ([0-9,]+) \+.*/\1/' | tr -d ',')
+declared=$(grep -m1 '本文件行数 = ' "$SKILL" | grep -oE '[0-9]+' | head -1)
 if [ "$real" = "$declared" ]; then
   ok "$real 行，与 §0.1 一致"
 else
   bad "wc -l = $real ，§0.1 写着 $declared —— 三个数（行数/学习日合计/百分比）都要重算"
 fi
 
-# ── ② G6 断言条数：标号实数 vs 各处声明 ────────────────────────────────
+# ── ② 工具脚本：SKILL 里点名的三个脚本必须存在且能跑（v2 起，替代原 G6 断言条数）──
 echo
-echo "-- ② G6 断言条数 --"
-labels=$(sed -n '/证据块：`【G6 对账闸】`/,/^---$/p' "$SKILL" | grep -cE '^[0-9]{1,2}[b-c]? ')
-echo "   标号实数 = ${labels}"
-# 只在【活规则行】上找声明，排除教训/修订史那些引用旧值的散文
-declared_counts=$(grep -vE '却在|留着|原写|加了第|教训' "$SKILL" \
-                  | sed -nE 's/.*[^0-9]([0-9]+) 条断言.*/\1/p;
-                             s/.*本 §G6 的【([0-9]+) 条】.*/\1/p;
-                             s/.*§G6 的 ([0-9]+) 条，改动.*/\1/p;
-                             s/.*同【G6 对账闸】（([0-9]+) 条改.*/\1/p' | sort -u)
-if [ -z "${declared_counts}" ]; then
-  bad "找不到任何「N 条」声明 —— 正则该修了"
-else
-  for n in ${declared_counts}; do
-    if [ "${n}" != "${labels}" ]; then
-      bad "有一处声明 ${n} 条，实际标号 ${labels} 条"
-      grep -nE "(${n} 条断言|【${n} 条】|§G6 的 ${n} 条|【G6 对账闸】（${n} 条)" "$SKILL" \
-        | grep -vE '却在|留着|原写|加了第|教训' | sed 's/^/      /'
-    fi
-  done
-  [ "${declared_counts}" = "${labels}" ] && ok "各处声明与标号一致（${labels} 条）"
-fi
+echo "-- ② 工具脚本 --"
+tool_bad=0
+for t in writing-band7/drill/snapshot.py writing-band7/drill/queue.py writing-band7/drill/pick_question.py; do
+  if [ ! -f "$t" ]; then bad "SKILL 点名的 $t 不存在"; tool_bad=1
+  elif ! python3 -c "compile(open('$t',encoding='utf-8').read(),'$t','exec')" 2>/dev/null; then
+    bad "$t 语法错，跑不起来"; tool_bad=1
+  fi
+done
+# SKILL 里提到的脚本路径必须都在上面这份名单里（防写了个不存在的工具）
+for t in $(grep -oE 'writing-band7/drill/[a-z_]+\.py' "$SKILL" | sort -u); do
+  [ -f "$t" ] || { bad "SKILL 引用了不存在的脚本 $t"; tool_bad=1; }
+done
+[ $tool_bad -eq 0 ] && ok "三个工具脚本齐全且可编译"
 
 # ── ③ 模式计数器行数：profile §5 实际行 vs 全库"N 行"的说法 ────────────
 echo
