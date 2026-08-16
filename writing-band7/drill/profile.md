@@ -502,7 +502,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-029 | 公司要求员工加班 | `require sb **to do** sth` | P1 动词框架 | **K**（常驻·§3 实测缺口） | 0/3 抽查 |
 | E-030 | 每个人都有受教育的权利 | `have **the** right **to do** sth` | P1 + P2 冠词 | **K**（常驻·§3 实测缺口） | 0/3 抽查 |
 | E-031 | 这个提议值得考虑 | `worth + doing` ≠ `worthy **of** + n.` | P1 动词框架 | **K**（常驻·§3 实测缺口） | 0/3 抽查 |
-| E-032 | 比起开车我更喜欢坐地铁 | `prefer A **to** B` ≠ `prefer to do A **rather than** do B` | P1 动词框架 | **K**（常驻·§3 实测缺口） | 0/3 抽查 |
+| E-032 | ~~比起开车我更喜欢坐地铁~~ → **08-16 改题面：比起茶我更喜欢咖啡**（原题面动词对动词，天然可走 I'd rather…than，prefer 框架被整块绕过，记 ◎；名词对名词才逼得出 prefer A to B。详见 E-210） | `prefer A **to** B` ≠ `prefer to do A **rather than** do B` | P1 动词框架 | ~~K（常驻·§3 实测缺口）~~ **08-16 改判 R**：新题面下**一次写对** `I prefer coffee to tea` ⇒ 从来不是知识缺口，此前 0/3 全是题面逼不出（E-276） | 1/3（08-16 首次有效读数 ✅） |
 | E-033 | 他们只能等大火自己烧完 | `burn itself **out**` | P1 搭配 | **K**（常驻·§3 实测缺口） | 0/3 抽查 |
 
 > ★ 这 5 条**不属于** 08-10 那 34 条（它们是 7/24 实验的历史条目，08-10 之后补编号）。
@@ -544,7 +544,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-011 | 加上退休金支出 | Combined with **the pension** | Combined with **pensions** | P2 冠词/数 | **R（08-11 探针实测坐实）**：低压孤立答 `combined pension spending` —— 无冠词，冠词那一层她产得对 ⇒ 检索失败 · 挂代号 **P2**（⚠️ 同答丢了 `with`，另立 E-042） | **1/3 · ✅D—迷你复习** |
 | E-012 | 年轻劳动力持续下降 | **young workforce** keeps dropping | **the young workforce** keeps dropping | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-013 | 老年人口的增加是主要原因（08-12 改题面：原「随着老年人口的增加」两条路都通，她走了 `as…grows` ⇒ 08-11 记 ◎。新题面把「增加」放在**主语**位置，语法上只能出名词短语） | with the **increase of** older population | with the **increase in the** older population | P2 介词＋冠词 | R · 挂代号 **P2** | 0/3 篇 |
-| E-014 | 这让政府面临的处境更糟 | which **deteriorates** the situation | which **worsens** the situation | P1 动词框架（deteriorate 多不及物） | R · 挂代号 **P1** | 0/3 篇 |
+| E-014 | 这让政府面临的处境更糟（08-16 题面加死：**这一政策进一步恶化了政府的处境** —— 原题面「更糟」是形容词比较级，最省力译法 makes the situation worse 完全正确、及物性考点整块消失；「恶化**了**＋宾语」把单动词＋宾语变成默认路线，且"恶化"正是 deteriorate 的中文对等词，她若还有 deteriorates+宾语 的习惯会直接浮出来） | which **deteriorates** the situation | which **worsens** the situation | P1 动词框架（deteriorate 多不及物） | R · 挂代号 **P1** | 0/3 篇 |
 | E-015 | 大幅推迟退休年龄，从 60 到 65（08-16 题面：这项政策大幅推迟了退休年龄，从 60 岁到 65 岁） | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带） | **1/3 · ✅D—迷你复习** |
 | E-016 | 让政府别无选择，只能损害公众利益 | **makes governments have few choices but** hurt | **leaves governments with no choice but to** hurt | P3 中式块＋破碎习语 | R · 挂代号 **P3** | 0/3 篇 |
 | E-017 | 这项政策损害了公众的利益（08-11 改题面：原「公众的利益」是光杆短语，逼不出完整搭配） | the **profit** of the general public | the **interests** of the general public | LR 词义 | R · 挂代号 **P11** | **1/3 · ✅D—迷你复习** |
@@ -860,17 +860,17 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-063 | 即使这些方法几乎无效 | **even** these methods are… | **even if** these methods are… | P12 连词缺失 | R · **P12** | 0/3 |
 | E-064 | 他们的生意往往不错 | their business **tend** to be | their businesses **tend** to be | P4 主谓一致（单数主语配复数动词） | R · **P4** | 0/3 |
 | E-065 | 不仅无效，还有害 | not only ineffective but also **negative** | …but also **damaging** | P11 词义（be negative 表"有害"不成立） | R · **P11** | 0/3 |
-| E-066 | 大多基于经验 | **result from** experience | **are based on** experience | P11 词义（方向反了） | R · **P11** | 0/3 |
+| E-066 | 大多基于经验（08-16 题面补主语：这些疗法大多基于经验 —— 原题面是光杆短语，没有主语逼不出 are） | **result from** experience | **are based on** experience | P11 词义（方向反了） | R · **P11** | 0/3 |
 | E-067 | 事实上 | **In actually** | **In fact** | P11 中式块（in fact＋actually 混合） | R · **P11** | 0/3 |
 | E-068 | 没人说得清它们为什么偶尔管用 | why they **works** | why they **work** | P4 主谓一致（复数主语配单数动词） | R · **P4** | 0/3 |
 | E-069 | 盲目押注在这些疗法上 | gambling **at** these therapies | gambling **on** these therapies | P1 介词 | R · **P1** | 0/3 |
-| E-070 | 会导致金钱和时间上的损失 | lead to **loss in** money and time | lead to **a loss of** money and time | P2 冠词/可数性＋介词（挂主错＝冠词） | R · **P2** | 0/3 |
-| E-071 | 医生会指引下一步该怎么做 | **guidances of** what… | **guidance on** what… | P4 可数性＋介词（合并组，挂主错＝可数性） | R · **P4** | 0/3 |
-| E-072 | 病人下一步该怎么做 | what **you** should do next | what **patients** should do next | P12 人称一致（全篇第三人称里跳出 you） | R · **P12** | 0/3 |
-| E-073 | 分级诊疗体系 | **hierarchy** diagnosis system | **the hierarchical** diagnosis system | P11 词形＋P2 冠词（挂主错＝词形） | R · **P11** | 0/3 |
-| E-074 | 超出医生的能力范围 | **out of scope of** doctors | **beyond the scope of** a doctor | P2 冠词 | R · **P2** | 0/3 |
+| E-070 | 会导致金钱和时间上的损失（08-16 题面补主语：这会导致金钱和时间上的损失） | lead to **loss in** money and time | lead to **a loss of** money and time | P2 冠词/可数性＋介词（挂主错＝冠词） | R · **P2** | 0/3 |
+| E-071 | 医生会指引下一步该怎么做（08-16 题面名词化：**医生会给出关于下一步该怎么做的指引** —— 原题面「指引」在动词位，她最自然会走 will guide sb on…，而本条考点「guidance 不可数＋介词 on」**只在名词形态里存在**，走动词则整块蒸发。★ 与 E-073 同一条判据的两种表现：E-073 是**词元**没锁，本条是**词性**没锁） | **guidances of** what… | **guidance on** what… | P4 可数性＋介词（合并组，挂主错＝可数性） | R · **P4** | 0/3 |
+| E-072 | 病人下一步该怎么做（★ 08-16 归类更正：考点是「**不要**在第三人称全篇里跳出 you」＝**第③类减法型**，中译英逼不出"不产出某形式" ⇒ 挂作文里验，不进中译英组。这与她 08-16「不移除、加限定」的裁决不冲突：那条针对的是题面逼不紧，本条是减法型本身没法用中译英测） | what **you** should do next | what **patients** should do next | P12 人称一致（全篇第三人称里跳出 you） | R · **P12** | 0/3 |
+| E-073 | 分级诊疗体系（08-16 题面补主句：中国建立了分级诊疗体系 —— 原为光杆名词短语，没有动词逼不出限定词与词形）<br>★★ **读数规则先写死**：本条主错是**词形**，而中文「分级」有 tiered／graded／multi-level／hierarchical 四条等概率合法译法，只有一条带考点 ⇒ **只有 hierarchy 词族的答案算有效测试事件**；她写 tiered/graded 等＝正确但**无效读数**，记 ◎ 保持悬空，**绝不因为写对 tiered 就记 ✅**（比照 E-054） | **hierarchy** diagnosis system | **the hierarchical** diagnosis system | P11 词形＋P2 冠词（挂主错＝词形） | R · **P11** | 0/3 |
+| E-074 | 超出医生的能力范围（08-16 题面补主语：**这个病超出了医生的能力范围** —— 原为光杆短语） | **out of scope of** doctors | **beyond the scope of** a doctor | P2 冠词 | R · **P2** | 0/3 |
 | E-075 | 医生会把病人转给专科 | **recommend** patients to specialists | **refer** patients to specialists | P11 词义（转诊的行话是 refer） | R · **P11** | 0/3 |
-| E-076 | 更安全的办法 | the most **secure** way | the **safest** way | P11 词义（secure 不用于"方式"） | R · **P11** | 0/3 |
+| E-076 | 更安全的办法（08-16 题面加死：**对病人来说，这是更安全的办法** —— 只补主语不够：裸句里 `a more secure way` 站得住，判 ❌ 就是假错；补上人身安全领域后 safe 唯一成立） | the most **secure** way | the **safest** ／ safer way | P11 词义（★ **08-16 判据修正**：原写"secure 不用于方式"**概括过头**，`a secure way to transfer money` 完全标准。正确判据＝**secure ＝防护/不受侵害义，不用于人身健康安全**） | R · **P11** | 0/3 |
 | E-077 | 紧急的健康问题 | **a health urgent** | **an urgent health problem** | P11 词形（urgent 是形容词不能作名词） | R · **P11** | 0/3 |
 | E-078 | 保持耐心、不去赌，就更可能治好 | **Keeping patient…, there are** more chances | **If patients stay patient…, they have** more chances | P12 悬垂分词（本篇唯一回读句） | R · **P12** | 0/3 |
 | E-079 | 医生会给出指引（事实陈述） | doctors **would** provide | doctors **will** provide | P12 情态（would＝虚拟/委婉） | R · **P12** | 0/3 |
@@ -880,8 +880,8 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-083 | 老板要求我们**周末**加班 | to work overtime（漏译"周末"） | to work overtime **at weekends** | 漏译 | 留痕（翻译遗漏，非语言缺口） | — |
 | E-084 | 他建议换一条路走 | changing **a road** | taking **a different route** | P11 词义（change a road＝改造道路） | R · **P11** | 0/3 |
 | E-085 | 这个方案就不划算了 | is **a bit expensive** | is **no longer worth it** | P11 词义＋对冲词 a bit（今天第 2 次） | R · **P11** | 0/3 |
-| E-086 | 加上语言障碍，找工作更难 | **without a fluent language** … find **jobs** | the **language barrier** … **finding a job** | P11 硬编＋P4 数（合并组，挂 P11） | R · **P11** | 0/3 |
-| E-087 | 让**本来就**紧张的资源**更加**紧张 | put a strain on scarce resources | put **further** strain on **already** scarce resources | P12（中文一个词两层，英文要两个词分别接；08-15 新语境「情况**进一步**恶化」丢 further，同模式第 3 次） | R · **P12** | 0/3 |
+| E-086 | 加上语言障碍，找工作更难 | **without a fluent language** … find **jobs** | the **language barrier** … **finding a job** | ~~P11 硬编＋P4 数~~ → **P11 硬编（08-16 更正：合并组里 P4「find jobs」那一半是教练假错，已随 E-130 撤销；本条真错只有 `without a fluent language`→`the language barrier`）** | R · **P11** | 0/3 |
+| E-087 | 让**本来就**紧张的资源**更加**紧张（08-16 题面加死补主语：**老龄化让本来就紧张的医疗资源更加紧张** —— 原为光杆片段；避开 E-117 的"疫情"以免两条撞车） | put a strain on scarce resources | put **further** strain on **already** scarce resources | P12（中文一个词两层，英文要两个词分别接；08-15 新语境「情况**进一步**恶化」丢 further，同模式第 3 次） | R · **P12** | 0/3 |
 | E-088 | 疫情（大流行） | the **epidemic** | the **pandemic** | P11 词义（epidemic＝局部流行） | R · **P11** | 0/3 |
 | E-089 | （手滑） | `goverments` | `governments` | P5 拼写 | 留痕·手机输入（不进 P5 计数；作文里的照常算） | — |
 
@@ -894,32 +894,32 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-092 | 「这里可以换成 might 么」 | 在某些情况下**可能**有效 | may／might 近等价（might 更弱）；此处 `can be effective in…` 最准（客观上存在这种情况） | **K** | 0/3 |
 | E-093 | 「fail to get positive effects 感觉不是很好」 | 长期治疗没有明显效果 | 直觉对 → 见 E-062 | 留痕 → 见 E-062 | — |
 | E-094 | 「想用 reasonable 但是感觉弱化了自己的」 | 可以理解，但不明智 | 判断很准。解法不是换词是**加转折**：understandable **but not sensible** | 留痕（她自己已写对） | — |
-| E-095 | 「本来想用 don't know，但是感觉太不正式了」 | 没人说得清它们为什么偶尔管用 | don't know 在 Task 2 完全可用；此处两个都不对 → `no one can explain why…` | **K** | 0/3 |
+| E-095 | 「本来想用 don't know，但是感觉太不正式了」 | **08-16 题面加死限定：这些疗法为什么偶尔管用，没人解释得清**（"解释得清"锁 explain；原题面「说得清」逼不出） | `No one knows why…` **也成立**（原判「两个都不对」是过度判定，撤销）；目标块 = `No one can **explain** why…`（explain 比 know 更贴"解释得清"，且比 don't know 正式）<br>★ 08-16 她定：**这条要学，不移出题组，用加死题面的方式测** | **K** | 0/3 |
 | E-096 | 「这个介词硬编的」 | 盲目押注在这些疗法上 | → 见 E-069 | 留痕 → 见 E-069 | — |
 | E-097 | **「我一直不太知道怎么才能避免反复提同一个单词」** | （策略性问题，全场最有价值） | **❌ 不是找同义词**（找错反而扣 LR —— 本篇 secure／negative／expenditure 正是这么来的）**✅ 三招**：①代词/指示词 ②上位词 ③直接省略主语。★ **重复关键词在雅思不扣分，题面词尤其** | **K**（策略，需在下一篇作文里验） | 0/3 |
-| E-098 | 「expenditure 是不是也行」 | 加上运输成本 | 语域不对：**transport costs**（项目成本）／spending（花出去的量）／expenditure（政府预算科目，太重） | **K** | 0/3 |
+| E-098 | 「expenditure 是不是也行」 | 加上运输成本 | 语域不对：**transport costs**（项目成本）／spending（花出去的量）／expenditure（政府预算科目，太重）<br>⇒ **08-16 题面加死限定**（她定：「在题面多给一些限定就可，不要担心提示到我」）：**「加上运输成本，这个项目的总花费就上去了」** —— 用"项目"把语域锁在公司/项目层面，expenditure（政府预算科目）在这个语境里就明显过重 | **K** | 0/3 |
 | E-099 | 「划算不会说」 | 这个方案不划算 | `it's not worth it`（最省）／`it doesn't add up`（算下来不划算）／`it's not cost-effective`（正式） | **K** | 0/3 |
 | E-100 | 「这句话有点难」 | 让本来就紧张的资源更加紧张 | 难在中文用同一个词表两层 → 见 E-087。**这类句子先在中文层拆开再翻** | 留痕 → 见 E-087 | — |
 | E-101 | 「不太会翻译」 | 加上语言障碍，找工作就更难了 | → 见 E-086 | 留痕 → 见 E-086 | — |
-| E-102 | **「strain 是可数还是不可数」** | 这给医疗系统造成很大压力 | 两个都是：`put **a** strain on X`（默认整块，带 a）／加 further/more 时 a 掉／`under strain` 零冠词／`the strains of modern life`＝多种压力。★ 判据可推广：**光杆抽象名词看有没有"一份/一次"的意思** | **K** | 0/3 |
+| E-102 | **「strain 是可数还是不可数」** | 这给医疗系统造成很大压力 | **08-16 重判为「两种都成立」⇒ 第②类，不再出题**：`put **a** strain on X` 与 `put strain on X`（不可数）**都是标准英语**——教练自己在 E-087 的目标版里写的就是 `put **further strain** on`，无冠词。原记法"默认带 a"**过度指定，会生产假错**。<br>仍成立的部分：加 further/more 时 a 掉 ／ `under strain` 零冠词 ／ `the strains of modern life`＝多种压力 ／ 判据「光杆抽象名词看有没有'一份/一次'的意思」<br>⛔ **08-16 拟记的"顺带 ✅"已撤销**（评审指出：不能靠一个本身可能错的规则发毕业证。注：来源已核，`puts a financial strain on` 确为**她**第 3 组的产出，非教练示范；撤销的理由是规则过度指定，不是来源问题） | 第②类 | 不再出题 |
 
 **③ 教练给的更好版（15 处 · ⚠️ 全部可否决）**
 
 | E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-103 | 越来越多人转向替代疗法 | the trend towards trying… is growing rapidly | **more and more people have turned to** alternative therapies | 待排序 | U（待定） | 0/2 |
-| E-104 | 现代医学有局限 | there are some limitations in modern medicine | **modern medicine has its limits** | 待排序 | U（待定） | 0/2 |
-| E-105 | 长期没有好转的病人 | if patients… see no improvement…, they have a strong urge to | patients…, **who have seen no improvement for years, are strongly tempted to** | 待排序 | U（待定） | 0/2 |
-| E-106 | 可以理解不等于明智 | is something understandable but not sensible | **understandable is not the same as sensible** | 待排序 | U（待定） | 0/2 |
+| E-103 | 越来越多人转向替代疗法 | the trend towards trying… is growing rapidly（**内容全送到了**：趋势在增长＝越来越多人转向） | **08-16 改判第②类**：差别只是名词化 vs 直陈 SVO；且 more and more people **turn** to（一般现在时）同样成立，连时态都抓不出错 ⇒ 判不出 ❌ | 第②类 | 不出中译英 |
+| E-104 | 现代医学有局限 | there are some limitations in modern medicine（**成立**） | **modern medicine has its limits**（差别只是存现句→实义主语的紧致度，纯风格）<br>⇒ **08-16 改判第②类，移出中译英组** —— 中译英里产不出 ❌，只能产出假错或无意义的 ✅ | 第②类 | 不出中译英，作文里验 |
+| E-105 | 长期没有好转的病人（**08-16 考点改挂＋题面加死：「有些病人已经好几年没有任何好转」**——原为光杆 NP，任何合理译法都成立、见不到 ❌；「已经…好几年」**强制现在完成时**，考点从"名词块紧不紧"改挂为**时态**，她若写一般现在时/一般过去时即为可判的真错） | if patients… see no improvement…, they have a strong urge to | patients…, **who have seen no improvement for years, are strongly tempted to** | 待排序 | U（待定） | 0/2 |
+| E-106 | 可以理解不等于明智 | is something understandable but not sensible（命题变了：说"某物同时具备/不具备两个属性"，而中文断言的是**两个属性不等价**） | ~~understandable is not the same as sensible~~ **08-16 撤销：教练版不地道**（她指出"感觉怪怪的"，成立）→ 改用 `Understandable does **not mean** sensible.` ／ `**Just because** something is understandable **doesn't mean** it is sensible.`（详见 E-217） | 待排序 | U（待定） | 0/2 |
 | E-107 | 靠个案经验而非大规模试验 | are based on experience | **rest on individual experience rather than large-scale trials** | 待排序 | U（待定） | 0/2 |
 | E-108 | 盲目押注要花钱花时间 | can lead to a loss of money and time | **costs money and time** | **她已会 · 撤出装备池**（08-13：无提示复现，且她当场指出"costs 那个我给了呀"——教练把她自己的产出当升级递回去，撤销） | 留痕 | ✅08-13 |
 | E-109 | 医生反而会指给你更好的 | doctors will provide guidance on what patients should do | doctors, **by contrast**, will **point patients to something better** | 待排序 | U（待定） | 0/2 |
 | E-110 | 中国的分级诊疗体系 | the hierarchical diagnosis system | **China's tiered medical system** | 待排序 | U（待定） | 0/2 |
-| E-111 | 更安全也更快 | is the safest and most effective way | is **both safer and faster**（只有两个选项用比较级不用最高级） | 待排序 | U（待定） | 0/2 |
+| E-111 | 更安全也更快（**08-16 题面加死：「在这两种办法之间，这一种最安全、也最快」**——原题面里**没有"只有两个选项"这个前提**，而考点恰恰建立在它上面；中文「更…也更…」还直接把比较级送到她手上 ⇒ 原错不可能复现、答对零信息。新题面照汉语习惯用「最」，英文必须写 Of the two…，选择点才回到题面里） | is the safest and most effective way | Of the two, this one is **both safer and faster**（**只有两个选项时用比较级，不用最高级**） | 待排序 | U（待定） | 0/2 |
 | E-112 | 更有可能治好（08-16 题面：他们更有可能康复） | they have more chances to get effective cures | they **stand a far better chance of getting well** | 待排序 | U（待定） | 0/2 |
 | E-113 | 医生让她再休息一周 | advised her to rest for another week | **told her to take another week off**（take time off 固定块） | 待排序 | U（待定） | 0/2 |
 | E-114 | 老板要求我们周末加班 | required us to work overtime at weekends | **made us work weekends**（make sb do，不带 to） | 待排序 | U（待定） | 0/2 |
-| E-115 | 工会要求加薪 | demanded higher wages | demanded **a pay rise** | 待排序 | U（待定） | 0/2 |
+| E-115 | 工会要求加薪 | demanded higher wages（**完全标准，新闻英语里比 a pay rise 还常见**） | ~~a pay rise~~ **08-16 改判第②类**：目标版只是同级说法不是升级，判 ❌ 就是假错 | 第②类 | 不出中译英 |
 | E-116 | 算下来这个方案不划算 | this plan is no longer worth it | the plan simply **doesn't add up** | 待排序 | U（待定） | 0/2 |
 | E-117 | 疫情让紧张的医疗资源更紧张 | has put further strain on already scarce resources | has **stretched** already scarce medical resources **even further** | 待排序 | U（待定） | 0/2 |
 
@@ -950,15 +950,15 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-119 | 只有保持耐心才更可能治好 | **Only if** they stay patient, they have… | **Only if** they stay patient **do they have**…（置句首必倒装）／去掉 only 最省 | P12 倒装 | R · **P12** |
 | E-120 | 更有可能治好 | **the** better chance | **a** better chance（比较级前泛指用 a） | **P2 冠词** ← 靶子 | R · **P2** |
 | E-121 | 医生会指引病人下一步怎么做 | point patients **___** what | point sb **TO** sth ／ **tell** sb what to do | P1 论元完整 | R · **P1** |
-| E-122 | 如果治不了 | if they cannot **cure** | if they cannot **treat the disease**（cure 及物必带宾语） | P1 论元完整 | R · **P1** |
+| E-122 | 如果治不了（08-16 题面加死：**如果医生治不了这个病** —— 补出宾语位，cure/treat 的及物性才验得到） | if they cannot **cure** | if they cannot **treat the disease**（cure 及物必带宾语） | P1 论元完整 | R · **P1** |
 | E-123 | 医生把病人转给专科（谁治不了？） | …specialists if **they** cannot… | **If doctors cannot treat a disease, they** refer…（从句提前，指代唯一） | P12 指代（**08-12 作文 S15 同款，第 2 次**） | R · **P12** |
 | E-124 | 运输成本 | transport **expending** | transport **costs**（expend 的名词是 expenditure，无 expending） | P11 词形 | R · **P11** |
 | E-125 | 不仅没用，还有害 | not only **effective** but harmful | not only **ineffective** but also harmful | P11 掉否定前缀 **in-**（意思反转，最贵） | R · **P11** |
 | E-126 | 大多基于经验 | mostly **base on** | are mostly **based on**（be based on 是被动整块） | P12 掉 be | R · **P12** |
 | E-127 | 医生会告诉病人有更好的药 | tell patients **a better drug** | tell patients **about** a better medicine（tell sb sth 的 sth 必须是信息） | P1 论元 | R · **P1** |
-| E-128 | 他建议我们… | he **advices** us | he **advises** us（advice 名词不可数／advise 动词） | P11 词形 | R · **P11** |
+| E-128 | 他建议我们…（08-16 题面**二次**加死：**他给了我们一些建议，劝我们早点出发**。★ 只写「他建议我们早点出发」不够——「建议」同时通向 advise/suggest/recommend，她写 He suggested we leave earlier 完全正确、advice/advise 的区分**一次都没被行使**；而本条是全库唯一"被清零"条目（08-13、08-15 两次都错），不能把命押在她碰巧选哪个词上。新题面前半「**一些建议**」强制不可数名词、后半「**劝…做某事**」把动词推向 advise ⇒ 即使动词半边被 suggest 逃掉，名词半边仍必然落地） | he **advices** us | he **advises** us（advice 名词不可数／advise 动词） | P11 词形 | R · **P11** |
 | E-129 | 他建议我们换条路 | advises us **taking** | advises us **to take** | P1 动词框架（**E-043 家族，08-12 drill 教过，隔一天回潮**；08-15 又见 **make** a route——take 串成 make；08-16 组1 冷产出 take ✓） | R · **P1** |
-| E-130 | 找工作更难（08-16 题面：现在找工作更难了） | find **jobs** | find **a job** ／ find work | P4 数 ← 靶子 | R · **P4** |
+| ~~E-130~~ | ⛔ **08-16 整条撤销：教练假错，条目从 08-13 建立那天起就不成立**（她 08-16 指出「find jobs 是可以的」，✅+）。真判据 = **不定式 `to find ___` 的隐含逻辑主语**：隐含主语是【一个人】→ `find a job`（He's trying to find a job）；是【群体】→ `find jobs`（Graduates are finding it harder to find jobs ✅ 高频）；`It is harder to find ___` 无明示主语 ⇒ **两个都对**；`find work` 不可数最省事。★ 我判的层也错了：这是**视角选择（语用层）**，被我当成**形态错误（数）**。★ 溯源：本条是 08-13 从 E-086 合并组里拆出来的，原句「加上语言障碍，找工作更难」同样是泛指句，jobs 当时就没错——真错只有 `without a fluent language`→`the language barrier`（仍挂 E-086） | **留痕（教练假错，撤销）** | 留痕 · 不出题、不进任何分母 |
 | E-131 | 影响了全世界 | **all the world** | **the whole world** ／ all **over** the world | P11 | R · **P11** |
 
 **② 她说不会 / 主动问的（4 条）**
@@ -975,7 +975,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E | **中文触发点**（08-15 补：原表缺这一列，导致这 9 条 5 天出不了题）| 她的 floor | 更好版本 | 价值档 | 路径 | streak |
 |---|---|---|---|---|---|---|
 | E-136 | 这些年这个趋势增长得很快 | this trend is growing rapidly | this trend **has grown** rapidly in recent years（"这些年"是累积到现在→完成时） | 待排序 | U（待定） | 0/2 |
-| E-137 | 这些疗法只是偶尔管用 | why they are effective occasionally | why they **occasionally work**（副词挂动词前；work 比 are effective 短） | 待排序 | U（待定） | 0/2 |
+| E-137 | 这些疗法只是偶尔管用 | why they **are effective** occasionally | why they occasionally **work**（work 比 are effective 短）<br>★★ **08-16 拆分重判**：本条原来把两件事捆在一起——① **work vs are effective**（真考点，可判）② **副词位置**（occasionally 在动词前还是句末，**两个都对 ⇒ 第②类，判不出错**，原记「副词挂动词前」写窄了）。<br>✅ **今天组 7 顺带结算**：她在 E-150 那题自发写出 `appear to **work** occasionally` ⇒ 核心考点已行使、记**顺带 ✅**，本条不再单独出题 | 待排序 | U（顺带已测） |
 | E-138 | 别盲目押注在它们上面 | Gambling on **those** | Gambling on **them**（those 光杆指代空泛） | 待排序 | U（待定） | 0/2 |
 | E-139 | 病人经过几个月正规治疗仍然没有好转 | see no improvement after long-term treatment | **show** no improvement after **months of** proper treatment | 待排序 | U（待定） | 0/2 |
 | E-140 | 老师会告诉学生接下来该做什么 | tell patients what they should do next | tell sb **what to do** next（省一个从句） | 待排序 | U（待定） | 0/2 |
@@ -1045,12 +1045,12 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 
 | E | 中文触发点 | 她的 floor（＝最小修改版） | 更好版本 | 价值档 | 路径 | streak |
 |---|---|---|---|---|---|---|
-| E-145 | 虽然这些疗法很少有效，我仍然坚信这是负面的 | While **these alternative medicines and treatments** are rarely effective, I **strongly** believe **that** this is a negative development | While **such treatments** are rarely effective, I **firmly** believe this is a negative development（① 第二次提到用上位词 such treatments，不重复全称 ② believe 后的 that 可省） | 待排序 | U（待定） | 0/2 |
-| E-146 | 必须承认，这个趋势并非无法理解 | Admittedly, this trend is **not completely unreasonable** | Admittedly, the trend is **not hard to understand**（更短、更像人话） | 待排序 | U（待定） | 0/2 |
+| ~~E-145~~ **第②类（08-16 改判：两处差别都不成立为错——`strongly believe` 是标准搭配、不逊于 firmly；`these alternative medicines and treatments` 只是啰嗦不是错；让步 While 她已写出。全句内容无缺失 ⇒ 判不出错，不出中译英）** | 虽然这些疗法很少有效，我仍然坚信这是负面的 | While **these alternative medicines and treatments** are rarely effective, I **strongly** believe **that** this is a negative development | While **such treatments** are rarely effective, I **firmly** believe this is a negative development（① 第二次提到用上位词 such treatments，不重复全称 ② believe 后的 that 可省） | 待排序 | U（待定） | 0/2 |
+| E-146 | 必须承认，这个趋势并非无法理解 | Admittedly, this trend is **not completely unreasonable** | ~~not hard to understand~~ ⛔ **08-16 改判：这是教练改了她的意思，不是她的错误**。她说的是 **not completely unreasonable**（并非完全不合理），目标说的是 **not hard to understand**（并非无法理解）——**两个不是同一个命题**，而中文触发点是照教练版写的。拿它去考她＝测"能不能复现教练的改写"。⇒ **第②类，移出中译英组**；档案标注为「教练改写，非她的错误」 | 第②类 · 教练改写 | 不出中译英 |
 | E-147 | 传统医学在某些情况下确实有点用 | Alternative medicines, **like a variety of** traditional medicines in different countries, **may be effective in some specific cases** | Traditional medicines, **of the kind found in** many countries, **can genuinely help in certain cases**（genuinely help 比 be effective 有力；of the kind found in 比 like a variety of 紧） | 待排序 | U（待定） | 0/2 |
 | E-148 | 有些中医宣称能治高血压和糖尿病，生意还很好 | some Chinese traditional medicine **doctors claim that they are able to cure** … their **businesses tend to be really prosperous** | some traditional Chinese medicine **practitioners claim to cure** … their **clinics do very well**（① claim to do 省一个从句 ② practitioners 比 doctors 准 ③ clinics do very well 比 businesses…prosperous 自然） | 待排序 | U（待定） | 0/2 |
 | E-149 | 这些疗法不仅没用，还有实际危害 | this trend **can be harmful to patients —** alternative therapies can be **not only ineffective but also damaging** | the trend **harms patients:** these therapies are **not only useless but actively damaging**（① 实义动词 harms 代替 can be harmful ② 冒号引出解释比破折号紧 ③ actively damaging 有力度） | 待排序 | U（待定） | 0/2 |
-| E-150 | 没人说得清它们为什么偶尔像是管用 | **people are even confused about** why they **work** occasionally | **No one can explain** why they **occasionally appear to work**（① no one can explain 比 people are confused 直接 ② appear to work＝"像是管用"，比 work 准确） | 待排序 | U（待定） | 0/2 |
+| E-150 | 没人说得清它们为什么偶尔像是管用（08-16 题面加死：**没人说得清它们为什么看起来偶尔管用** —— "看起来"锁 appear to；与组 4 已测的 E-095 区分开，那条测的是 no one can explain，本条测的是 appear to 这一层） | **people are even confused about** why they **work** occasionally | **No one can explain** why they **occasionally appear to work**（① no one can explain 比 people are confused 直接 ② appear to work＝"像是管用"，比 work 准确） | 待排序 | U（待定） | 0/2 |
 | E-151 | 花在这些疗法上的时间，就是从正规治疗那里挪走的时间 | **the time lost to alternative therapies** is **the time delayed for** proper treatment | **the time spent on them** is **time taken away from** proper treatment（① spent on 比 lost to 自然 ② time taken away from＝挪走，比 the time delayed for 准）<br>★★ **这一句她 08-13 专门追问过"第二个 time 加不加 the"** —— 两个都对：零冠词＝分类，the＝同一（同一段时间），本句加 the 反而更有力 | 待排序 | U（待定） | 0/2 |
 | E-152 | 尽管走投无路和别的压力把病人推向替代疗法 | while **an urgent health problem and other reasons push patients to try** alternative medicines | although **desperation and other pressures push patients towards** alternative medicines（① desperation 一个词说完"走投无路" ② push sb **towards** sth 比 push sb to try sth 紧） | 待排序 | U（待定） | 0/2 |
 
@@ -1066,25 +1066,25 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 |---|---|---|---|---|---|
 | E-153 | 这几张表说明了…… | The tables **illustrates** | The tables **illustrate** | P4 主谓 ← **靶子内** | R · **P4** |
 | E-154 | 住在曼哈顿的人口**占总人口**的比例 | the percentage of **___** total population | the percentage of **the** total population | P2 冠词 ← **靶子内** | R · **P2** |
-| E-155 | 人口 | `popution` | `population` | P5 拼写 | R · **P5** |
-| E-156 | 曼哈顿 | `Manhatten` | `Manhattan` | P5 拼写 | R · **P5** |
-| E-157 | 一百年后 | **After 100 hundred years** | **A hundred years later** ／ A century later（thousand/hundred 前面的数不过 999） | P12 数词 | R · **P12** |
-| E-158 | 住在曼哈顿的人数 | **the number of the population** | **the number of people** ／ the population（二选一，不能叠） | P3 硬编名词块 | R · **P3** |
+| E-155 | 人口（08-16 题面加死：**这个城市的人口在快速增长**） | `popution` | `population` | P5 拼写 | R · **P5** |
+| E-156 | 曼哈顿 | `Manhatten` | `Manhattan` | ~~P5 拼写~~ **08-16 改判：地名不进 P5，不出题**（T1 图表上印着地名，考场照抄即可，不是要背的东西——她的判断，见 E-243） | 留痕 · 不出题 |
+| E-157 | 一百年后（08-16 题面加死补主句：**一百年后，这个数字翻了一倍** —— 原为光杆时间短语；刻意避开"峰值"以免撞 E-165） | **After 100 hundred years** | **A hundred years later** ／ A century later（thousand/hundred 前面的数不过 999） | P12 数词 | R · **P12** |
+| E-158 | 住在曼哈顿的人数（08-16 题面加死补谓语：**住在曼哈顿的人数持续上升** —— 原为光杆 NP） | **the number of the population** | **the number of people** ／ the population（二选一，不能叠） | P3 硬编名词块 | R · **P3** |
 | E-159 | 达到峰值 185 万（08-16 题面：这个数字达到了 185 万的峰值） | **reached to** a peak | **reached** a peak（reach 及物不带 to） | P1 介词 | R · **P1** |
-| E-160 | 从那以后 | `from then on`（句首小写） | `From then on` | P12 大小写（作文里计入 GRA） | R · **P12** |
-| E-161 | 下降了 | `droped` | `dropped`（单音节+单元音+单辅音尾要双写；同 plan→planning） | P5 拼写规则（08-15 聊天另有 planing→planning 同规则一次，判真错不算手滑——planing 是真词"刨平"） | R · **P5** |
+| E-160 | 从那以后 | `from then on`（句首小写） | `From then on` | P12 大小写（**08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ 中译英测不出，属第③类，只在作文里验**） | 第③类 · 挂作文验 |
+| E-161 | 下降了（08-16 题面加死：**这个数字随后下降了**） | `droped` | `dropped`（单音节+单元音+单辅音尾要双写；同 plan→planning） | P5 拼写规则（08-15 聊天另有 planing→planning 同规则一次，判真错不算手滑——planing 是真词"刨平"） | R · **P5** |
 | E-162 | 这一时期结束时只剩 19% 的人住在曼哈顿（08-16 中译英题面：这一时期结束时，只剩五分之一的人住在那里 —— 无图语境，五分之一是内容本身，不违反 E-182「T1 题面禁约数」） | the absolute value **finished the period with only 19% of people** | **the period ended with** only 19% of people…（★ 数字类主语不能带人当宾语） | P12 主谓搭配 | R · **P12** |
-| E-163 | 差不多 | `alomst` | `almost` | P5 拼写 | R · **P5** |
+| E-163 | 差不多（08-16 题面加死：**差不多所有人都住在市区**） | `alomst` | `almost` | P5 拼写 | R · **P5** |
 | E-164 | 这意味着大多数人住在曼哈顿以外 | which **meat the majority of people living** outside | which **meant that** the majority of people **lived** outside（原句缺谓语，闭合不了） | P12 句法＋P5 拼写（挂主错 P12） | R · **P12** |
 | E-165 | 上升趋势达到 647 万的峰值 | the upward trend **marked the peak of** | the upward trend continued and **reached a peak of**（★ 趋势不能 mark a peak） | P12 主谓搭配 | R · **P12** |
 | E-166 | 占总数的 76% | `75%` | `76%` | **W9 数据错**（T1 最致命） | R · **W9** |
 | E-167 | 1900 年达到 1,587,109 | `1,587,108` | `1,587,109` | **W9 数据错** | R · **W9** |
 | E-168 | 185 万 | **1,850 thousand** | **1.85 million**（thousand 前面的数不过 999） | P12 数字写法 | R · **P12** |
 | E-169 | 这个数字在 1900 年达到峰值 | peaked at … **by** 1900 | peaked at … **in** 1900 | P1 介词 | R · **P1** |
-| E-170 | 住在曼哈顿的人口占比 | **the share of Manhattan's population** | **Manhattan's share of the total population**（被分份的是全市人口，块的方向拼反了） | P3 硬编名词块 | R · **P3** |
+| E-170 | 住在曼哈顿的人口占比（08-16 题面加死：**曼哈顿在总人口中所占的份额降到了 19%** —— 原题面最自然的译法是 The proportion of the population living in Manhattan fell to 19%，**根本不出现所有格块**，"方向拼反"无从检验；新题面把「曼哈顿」顶到所有者位置、「份额」做中心词） | **the share of Manhattan's population** | **Manhattan's share of the total population**（被分份的是全市人口，块的方向拼反了） | P3 硬编名词块 | R · **P3** |
 | E-171 | 这个比例保持稳定（08-16 题面同 E-181：这个比例在 1900 到 2000 年间保持稳定） | **kept stable** | **remained stable** ／ held steady（★判据 08-16 收窄：keep＋形容词在固定搭配里成立——keep calm/quiet/still；「数据保持稳定」的行话是 remain stable／hold steady。原「keep 不能这样接形容词」写宽了，与同日「keep patient 成立」的判定矛盾，以收窄版为准） | P1 动词框架 | R · **P1** |
-| E-172 | 比例 | `proportation` | `proportion` | P5 拼写 | R · **P5** |
-| E-173 | 从 1900 年到 2000 年 | from 1900 **and** 2000 | from 1900 **to** 2000 ／ **between** 1900 **and** 2000 | P1 搭配 | R · **P1** |
+| E-172 | 比例（08-16 题面加死：**这个比例只有五分之一**） | `proportation` | `proportion` | P5 拼写 | R · **P5** |
+| E-173 | 从 1900 年到 2000 年（08-16 题面加死：**从 1900 年到 2000 年，人口持续增长** —— 刻意**不用"翻了四倍"**：汉语倍数表达 ×4/×5 歧义，全库倍数类清完之前不出，见 E-178） | from 1900 **and** 2000 | from 1900 **to** 2000 ／ **between** 1900 **and** 2000 | P1 搭配 | R · **P1** |
 | — | 大幅增长 | `increased **largely**` | `increased **sharply**` | **回潮，记在 E-015 上不新建**（08-10 `largely delays` 同款，第 2 次） | — |
 
 **② 她说不会 / 主动问的（1 条）**
@@ -1100,7 +1100,7 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 | E-175 | 这几张表说明纽约市及其五个区的人口在 1800–2000 的变化 | The tables illustrate how the total population of NYC, as well as that of the five districts (…), changed over a two-century period from 1800 to 2000 | The tables **show** how the population of New York City **and of its five districts** changed **between 1800 and 2000**（T1 的 intro 只要改写题面；34 词太长，五个区名照抄占字数） | 待排序 | U（待定） |
 | E-176 | 一百年后曼哈顿人口见顶 185 万，占比降到 54% | A hundred years later, the number of people living in Manhattan reached a peak of 1,850,093, while the proportion shrank to 54% | **A century later, Manhattan's population peaked at** 1,850,093, **though its share had fallen to** 54%（peak 作动词省掉整个名词块） | 待排序 | U（待定） |
 | E-177 | 此后下降，到期末只剩全市的 19% | From then on, the figure dropped, and the period ended with only 19% of people living in Manhattan | **It then declined, ending the period at just 19% of the city's total**（it 回指避免重复；分词并句） | 待排序 | U（待定） |
-| E-178 | 这个数字随后涨了近百倍，1900 年达到 158 万 | The figure increased sharply, by almost 100 times, to 1,587,109 by 1900 | This figure then **rose almost a hundredfold**, reaching 1,587,109 by 1900（**hundredfold** ＝ 倍数的标准说法） | 待排序 | U（待定） |
+| E-178 | 这个数字随后涨了近百倍，1900 年达到 158 万 | The figure increased sharply, by almost 100 times, to 1,587,109 by 1900（**内容全送到了**：「涨了近百倍」＝increased by ~100 times；sharply 是多给的不是漏的） | ~~rose almost a hundredfold~~ ⛔ **08-16 移出中译英池，两个理由**：① **第②类**——她的 floor 判不出 ❌，最多 ⚠️ ② **更糟：目标版与题面在数学上不是同一个数** —— 汉语「涨了近百倍」＝**增量**约 100 倍（末值≈101 倍），`a hundredfold` ＝**末值**≈100 倍，差一个基数，而档案里没有确定源数据支持哪一个。拿它判她错＝判教练自己没算清的账。<br>⇒ 降为 T1 词池里的 ⚠️ 级更好版；要恢复成真错条目，先回图用起止数确认「近百倍」是 by 还是 to<br>🔴 **系统性欠定义**：「翻了四倍」（×4 还是 ×5）同样歧义 ⇒ **倍数表达全库需单独清一遍**，清完之前不出倍数类题 | 第②类 · 数学未定 | 不出中译英 |
 | E-179 | 上升势头持续，2000 年见顶 647 万，此时五分之四的纽约人住在曼哈顿以外 | …continued and reached a peak of 6,471,089 in 2000, which meant that the majority of people lived outside Manhattan | The upward trend continued, **peaking at** 6,471,089 in 2000, **by which point four fifths of New Yorkers lived outside** Manhattan（用上 81% 这个数，比 the majority 具体） | 待排序 | U（待定） |
 | E-180 | 住在曼哈顿的人口占比降到 19% | Manhattan's share of the total population dropped to 19% | **The proportion of the population living in Manhattan fell to** 19%（与她作文里已用的句式一致，好复用） | 待排序 | U（待定） |
 | E-181 | 这个比例在 1900 到 2000 年间保持稳定 | The proportion remained stable from 1900 to 2000 | The proportion **held steady between** 1900 **and** 2000（held steady 是行话） | 待排序 | U（待定） |
@@ -1141,4 +1141,416 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 
 **对账**：新号 10（①5＋③5）＋ 记在旧号 5 ＝ 08-15 复习组真漏 15 处 ✅（战报声称 13，含 4 条已有归宿——声称数本身也是拍的；E-192 是二审评审追出的）
 
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 2 · 条目 **E-193~E-201**（共 **9** 条）
+
+**① 她写错的（1 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-193 | 学校要求学生穿校服 | wear **school clothes** | wear **school uniforms** ／ wear a uniform（school clothes＝上学穿的便服，不是制服） | P3 硬编名词块 | R · **P3** |
+
+**② 她说不会 / 主动问的（2 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-194 | 「其实我在想要不要用 **an**」（the increase vs an increase） | 老年人口的增加是主要原因 | **本句 the 对。**判据仍是她自己那条【限定 ≠ 定指】：`the increase **in older people**` 被 in 短语缩到只剩一个、且 `is the main reason` 已把它定死 ⇒ 定指 → the。**an** 用在【首次引入、未定死】的场合：`An increase in fuel prices would hurt exports`（假设某一次增长）。★ 同族判据：`a rise in X` 常见于首次提及，`the rise in X` 用于回指 | **K** |
+| E-195 | 「其实我觉得用 **the growing number of** 更安全」 | 老年人口的增加是主要原因 | **✅+ 她比教练的条目原版更准，理由可推广**：`increase in` 后面接的应该是**量**，不是**人**。`increase in older people` 严格说是"老年人自身在变大"。两条严谨写法：**the growing number of older people** ／ **the increase in the number of older people**。★★ 这正是 08-15 那张 **T1 主谓配对表** 的同一条规则（数字/量 vs 人 不能混）在名词块侧的样子——她自己迁移过来的 | **K**（判据；表达侧记 ✅+ 她的） |
+
+**③ 教练给的更好版（5 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-196 | 学校要求学生穿校服（泛指） | The school requires **the** students to wear… | **Schools require students to wear uniforms**（泛指用零冠词复数，作文默认；她那句只在特指某一所学校时才对） | 待排序 | U（待定） |
+| E-197 | 这项政策大幅推迟了退休年龄，从 60 岁到 65 岁 | This policy significantly raises… | This policy **has significantly raised** …（中文"推迟**了**"＝已完成并延续到现在 → 完成时；**纯时态选择，第②类不进中译英组，作文里验**） | 待排序 | U（待定） |
+| E-198 | 现在找工作更难了 | It's harder to find a job **in recent years** | **It has become harder** to find a job in recent years ／ **These days, it is harder** to find a job（"更难**了**"＝变化；in recent years 要配完成时，配一般现在时时间轴对不上） | 待排序 | U（待定） |
+| E-199 | 这一时期结束时，只剩五分之一的人住在那里 | only one fifth of **people** lived there | only one fifth of **the population** lived there（分数 of 后面接**定指的整体**；of people 泛指在新闻标题里成立，但这里整体是明确的全市人口） | 待排序 | U（待定） |
+| E-200 | 到 1900 年为止，这个数字已经增长到 158 万 | The population had risen to 1.58 million by 1900 | **By 1900,** the population had risen to 1.58 million（T1 里时间状语前置是常态：先给时间轴再给数；**纯语序选择，第②类不进中译英组**） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-201 | ⛔ **教练假错第 2 次（靶子导致），且这次被固化成条目考了 4 次**：`find jobs` 从 08-13 建 E-130 起就判错，08-15 测两次、08-16 又判 ❌，全部撤销（详见 E-130 行）。★ 与 08-15 `the doctor`（冠词靶子逼出的假错）同源 ⇒ **靶子不只在【判定】时提高假错率，在【建条目】时同样**——合并组里"顺带"记下的那一半最危险，因为它从没被单独验证过 | 留痕（教练犯规） |
+
+**对账**：①1 ＋ ②2 ＋ ③5 ＋ ④1 ＝ **9** ＝ 新建号 E-193~E-201 ✅（先建后报，SKILL §2.2）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 3 · 条目 **E-202~E-211**（共 **10** 条）
+
+**① 她写错的（4 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-202 | 这个提议值得考虑 | **the advice** is worth considering | **the proposal** ／ the suggestion is worth considering（advice＝忠告/劝告，是别人给你的；proposal＝提出来的方案。中文"提议"指后者） | P11 词义 | R · **P11** |
+| E-203 | 他们只能等大火自己烧完 | wait for the fire **burning** out | wait for the fire **to burn itself out** —— ★ 框架是 **wait for X to do**（不是 wait for X doing）；`buring` 掉字按规则 C 算手滑不计 | P1 动词框架 | **K**（她自标"硬编的"） |
+| E-204 | 雇主和员工的利益并不总是一致 | does **always not** align | does **not always** align（★ `not always`＝并不总是，是固定次序，always 永远在 not 后面；`always not` 不成立） | P12 语序（GRA 桶） | R · **P12** |
+| E-205 | 中国建立了分级诊疗体系 | **China build** the tiered medical system | **China has built** ／ China established …（① 第三人称单数 builds ② 中文"了"要完成时/过去时。**两层错叠在一个光杆原形上** ← 靶子 P4） | P4 主谓＋时态 | R · **P4** |
+
+**② 她说不会 / 主动标注的（0 条新建）**：第 6 题她自标「硬编的」→ 已归 E-203（K 路径）
+
+**③ 教练给的更好版（4 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-206 | 在家庭层面 | **on** the family level（成立） | **at** the family level ——判据：`at the X level`＝结构层级（national/local/family/individual）；`on a X level`＝抽象角度（on a personal level · on some level）。中文"在……层面"指结构 → at | 待排序 | U（待定） |
+| E-207 | 年轻劳动力持续下降 | is **constantly** dropping | is **steadily declining** ／ **continues to fall** ／ keeps shrinking（constantly＝不断反复地，带"一次又一次"味；"持续"是 steadily/continuously。另 workforce 更常配 shrink/decline 而非 drop） | 待排序 | **08-16 她点名"这个记下，无论是 steadily 和 decline 我要学" ⇒ 拆成 E-212（副词）＋ E-213（动词）两条 K，本条只留出处** |
+| E-208 | 雇主和员工的利益并不总是一致 | employers' **interest** … **that of** employees | employers' **interests** … **those of** employees（"利益"英文默认复数 interests；单数 interest 偏"兴趣/关切"。回指词随之变复数）<br>★ **`that of` 这个回指手法是她自发用出来的，Band 7 档，记她名下** ✅+ | 待排序 | U（待定） |
+| E-209 | 中国建立了分级诊疗体系 | the tiered medical system | **a tiered healthcare system**（首次提及用 a；healthcare system 比 medical system 更常见于"医疗体系"） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（2 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-210 | ⛔ **E-032 题面逼不出考点，记 ◎ 并改题面**：「比起开车我更喜欢坐地铁」是**动词对动词**，中文天然可走 `I'd rather take the subway than drive`（她写的，**完全正确**，than 后接原形也对，✅+），prefer 的框架整块被绕过。★ 要逼 `prefer A **to** B` 必须**名词对名词**（would rather 在名词对名词时反而别扭）⇒ **E-032 题面改为「比起茶我更喜欢咖啡」**，已回写 | 留痕（题面缺陷，已修） |
+| E-211 | ✅+ **她自发产出的正确块，登记为她的资产，不许当教练升级递回**（禁令 7）：`I'd rather A than B`（第 5 题）· `that of employees` 回指（第 7 题）· `it costs time and money`（第 9 题，比 leads to a loss of 更省）· `a financial strain on governments`（第 3 题，把"财政"处理成 strain 的定语，比档案原版 government finances 更简洁，等价成立） | 留痕（她的资产） |
+
+**对账**：①4 ＋ ②0 ＋ ③4 ＋ ④2 ＝ **10** ＝ 新建号 E-202~E-211 ✅（先建后报）
+
+**② 追加 · 她点名要学的（2 条，08-16 她原话「这个记下，无论是 steadily 和 decline 我要学」）**
+
+| E | 她的原话 | 中文触发点 | 内容（可背） | 路径 |
+|---|---|---|---|---|
+| E-212 | 「steadily…我要学」 | 持续/稳步（下降或上升） | **变化速度副词六个**，按幅度排，全部**挂在动词后面**：<br>`sharply / steeply`（急剧）＞ `significantly / markedly`（显著）＞ **`steadily`（稳步、持续，速度均匀）** ＞ `gradually`（渐渐，慢）＞ `slightly / marginally`（略微）<br>★ **steadily ＝ 持续且匀速**，正是「持续下降」这一档；`constantly` ❌ 不在这条轴上（它是"一次又一次反复"，不表示单向趋势）<br>★ 位置：`fell **steadily**` ／ `**steadily** declined` 都行；`is **steadily** declining` 夹在 be 和 -ing 之间也对<br>★ 名词形 T1 也常用：`a steady decline` ／ `a sharp rise` | **K**（她点名） |
+| E-213 | 「decline…我要学」 | 下降（趋势/数量） | **下降动词四个，按"主语是什么"分**（★ 这是 08-15 T1 主谓配对表的延伸）：<br>`decline` 最通用，正式，量与趋势都能接：the number/proportion/workforce **declined**<br>`fall / drop` 中性，配具体数字最顺：**fell to** 19% ／ **dropped by** 5%（drop 略口语，T1 可用）<br>`shrink` 只配**有体量的整体**：the workforce/population/economy **shrank**（★ 不配 proportion/percentage）<br>`decrease` 正式但偏平，能不用就不用<br>★ 三个搭配一起记：`decline **to** X`（降到）· `decline **by** X`（降了多少）· `a **steady** decline **in** X`（X 的持续下降）<br>★ ⛔ 她 08-15 犯过的反面：趋势不能 `**mark** a peak`（E-165）；数字类主语不能带人当宾语（E-162）<br>🔴 **08-16 更正**：本行原写「趋势不能 reach\|mark a peak」**过宽已撤销**——`The trend reached its peak` ✅ 完全自然，趋势和数值都能 reach/peak；**只有 mark 不行**（详见 E-242） | **K**（她点名） |
+
+**追加对账**：②2 ＝ 新建号 E-212~E-213 ✅ ⇒ 组 3 本批共 **12** 条（E-202~E-213）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 4 · 条目 **E-214~E-221**（共 **8** 条）
+
+**① 她写错的（1 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-214 | 一些**研究**中国传统医学的人 | Chinese traditional medicine **practitioners** | people who **study** ／ **researchers in** traditional Chinese medicine（★ practitioner＝**从业/行医**者，不是研究者。题面说"研究"⇒ study/research） | P11 词义 | R · **P11** |
+
+**② 她说不会 / 主动问的（3 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-215 | 「(guidance on) **硬编的**」 | 医生会给出关于下一步该怎么做的指引 | **她硬编对了，但自己没把握** ⇒ 整块背下来：`give / provide **guidance on** X`（guidance **永远不可数**，没有 guidances；介词固定 on）。同族：`advice on` · `information on` · `research on` —— 这一串抽象名词全都不可数＋on | **K**（她自标没把握） |
+| E-216 | 「这个 **will** 要不要」 | 医生会给出关于下一步该怎么做的指引 | **两个都对，看你在说什么**：`Doctors **provide** guidance…`＝陈述职责/一般规律（T2 里说"医生的角色"用这个）；`Doctors **will** provide…`＝具体情境里将会发生（"如果病人问，医生会…"）。<br>⛔ 真正错的是第三个：`would` ＝虚拟/委婉（E-079 的原错），事实陈述里不能用<br>★ 你这次自发用 will 没用 would ⇒ **E-079 顺带判 ✅** | **K**（判据） |
+| E-217 | ⭐「understandable is not the same as sensible（**感觉怪怪的**）」 | 可以理解不等于明智 | ★★ **她对，教练给的目标形式本身不地道，撤销**：`X is not the same as Y` 的两端要**名词或动名词**，光杆形容词做主语是边缘用法。<br>✅ 三个自然版：`Understandable does **not mean** sensible.`（形容词＋does not mean＋形容词，最省）／`**Being** understandable is not the same as **being** sensible.`（补动名词）／`**Just because** something is understandable **doesn't mean** it is sensible.`（最自然，口语书面都行） | **K**（判据；教练版已撤销） |
+
+**③ 教练给的更好版（2 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-218 | 这个项目的总花费 | the total **spending** of the project | **the total cost of the project** ／ the project's total cost（★ spending＝持续性支出的量，配 government/consumer；**单个项目的总花费是 cost**。她同句里 costs 用对了、总额却滑成 spending ⇒ 两个词的边界还没分开） | 待排序 | U（待定） |
+| E-219 | 加上运输成本，这个项目的总花费就上去了 | **Combined with** transportation costs, the total spending… | **With transport costs added, the total cost of the project goes up.** ／ Once transport costs are **included**…（★ `Combined with X, Y…` 要求 **X 和 Y 是并列的两样东西**；这里运输成本是总花费的**组成部分**，不是并列项，逻辑上循环了） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（2 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-220 | ⛔ **教练给的块本身不地道 —— 她的怀疑第 14 次成立**（E-106「understandable is not the same as sensible」，详见 E-217）。★ 与 08-16 早些时候的 E-130（find jobs 假错）同源：**档案里"教练给的更好版"从来没有被独立验证过**，它们是我当场写的，不是从真实语料来的 ⇒ ③类条目在进池前也要跑四问自审 | 留痕（教练犯规） |
+| E-221 | ✅+ **她自发产出的正确块**：`take another week **off**`（请假再休一周，比 rest for another week 更地道，第 5 题她两个版本都给了）· `transportation costs`（美式拼法，雅思两式都收）· `work occasionally`（08-15 学的，今天自主调出来了）· `doesn't add up`（第 10 题，见下批注） | 留痕（她的资产） |
+
+**对账**：①1 ＋ ②3 ＋ ③2 ＋ ④2 ＝ **8** ＝ 新建号 E-214~E-221 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 5 · 条目 **E-222~E-229**（共 **8** 条）
+> ★ 本组**考点 10/10 全中**，下列全部是考点**之外**的收获与新错。
+
+**① 她写错的（2 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-222 | 保持耐心、不去赌**的**病人更可能康复 | Patients**,** who stay patient and don't gamble**,** stand… | Patients **who** stay patient and don't gamble stand…（**去掉两个逗号**）<br>★ 判据：**加逗号＝非限定**＝补充说明"所有病人（顺带一提他们都有耐心）"，**命题变了**；中文「…**的**病人」是**限定**，不能加逗号<br>★ 一句话记：`the people who X`（限定，不加逗号）／`my father, who is 60, …`（非限定，专有/唯一才用） | P12 从句类型（GRA 桶） | R · **P12** |
+| E-223 | 加上语言障碍，找工作**更**难 | he struggles to find a job（**"更"丢了**） | it is **even harder** to find a job（比较级是中文明写的一层）<br>★ **「中文丢一层」老模式又一次**，此前：already/further（08-13）· 进一步（08-15）· 周末（08-15）· 正规（08-15）⇒ **第 5 次** | P12 中文丢一层 | R · **P12** |
+
+**② 她说不会 / 主动问的（3 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-224 | ⭐⭐「本来想用 it is harder，但是前面用了 with 发现**主语就对不上了**，就憋了一个 struggle 出来」 | 加上语言障碍，找工作更难 | ★★ **这是误判，而且是今天最值钱的一条**：`With a language barrier, **it is even harder** to find a job.` **完全正确**，主语根本不需要对上。<br>**判据（两类前置状语，规则相反）**：<br>· **分词短语**（Combined with X, ／ Facing X, ／ Having done X,）→ **要求**主句主语＝分词的逻辑主语，否则悬垂<br>· **介词短语**（**With** X, ／ In X, ／ Despite X, ／ After X,）→ **不要求**，主句爱用什么主语就用什么，`it` 形式主语完全没问题<br>⇒ 她把分词的悬垂规则**过度泛化**到了介词短语上，因此主动放弃了正确写法、绕道 struggle，还把"更"丢了。**一个假规则造成了两处损失。** | **K**（高价值） |
+| E-225 | 「severe issue / problem 这两个有什么区别」 | 青年失业是个严重问题 | **problem** ＝麻烦，明确是坏事、要解决 ← 本句用这个最贴<br>**issue** ＝议题/待处理事项，中性偏正式，常含"有争议"（Whether to ban cars is a controversial **issue**）<br>★ 形容词搭配：`a **serious** problem` 是最标准的组合；`severe` 多配具体的坏东西（severe weather / pain / shortage），配 problem 能用但不如 serious 常见 ⇒ **推荐 a serious problem** | **K** |
+| E-226 | 「(further) **不加感觉也行**」 | 这一政策进一步恶化了政府的处境 | **不加也成立，但会丢掉中文明写的那一层**。判据：`worsen` ＝变得更糟（相对之前）；`**further** worsen` ＝在已经糟的基础上**再糟一层**（暗示此前已恶化过）。题面写了"进一步"⇒ 加上更忠实。<br>★ 08-16 早些时候她质疑"further 冗余"时教练已裁定**她的成立**（worsen 已含比较义）——两条不冲突：**题面没写"进一步"时不加，写了就加** | **K**（判据） |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-227 | 这一政策进一步恶化了政府的处境 | has worsened the government's situation **further** | has **further worsened** the government's situation（正式书面里 further 更常挂在动词前；句末也对，她的成立） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（2 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-228 | ✅+ **她自发产出的正确块**：`harm the public interest`（比档案的 hurt 更正式贴切）· `its employees`（用物主代词绕开冠词难题）· `another route`（与 a different route 等价）· `beyond the scope of **doctors**`（复数泛指，比档案的 a doctor 更省、学术写作默认）· `stand a far better chance of getting well`（今早刚练，隔几小时自主调出）· `work overtime` | 留痕（她的资产） |
+| E-229 | 📋 **本组读数备案**：第 6 题按出题前预先声明的口径——她走的是 `beyond the scope of` 而非 `beyond a doctor's ability`，**the scope 那半已被行使 ⇒ 记满 ✅**（不触发半分/悬空条款）；第 8 题她用 `stay patient`，按档案裁决 keep 也算对 | 留痕（口径备案） |
+
+**对账**：①2 ＋ ②3 ＋ ③1 ＋ ④2 ＝ **8** ＝ 新建号 E-222~E-229 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 6 · 条目 **E-230~E-236**（共 **7** 条）
+> ⭐ **本组考点 6/6 全中，考点外却错了 5 处、一字未改率 1/6（全天最低）** —— 这个反差本身是今天最重要的发现，见 E-236。
+
+**① 她写错的（5 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-230 | 老龄化让本来就紧张的医疗资源更加紧张 | an aging population **put** | an aging population **puts**（第三人称单数）<br>🔴 **同一天同一结构先对后错**：第 3 组她写的是 `an aging population **puts** a financial strain on` ✅ ⇒ **不是不知道，是不稳定** | P4 主谓 ← **靶子** | R · **P4** |
+| E-231 | 有些病人已经好几年没有任何好转 | some patients **hasn't** | some patients **haven't**（复数主语） | P4 主谓 ← **靶子** | R · **P4** |
+| E-232 | 医生反而会指给你更好的 | point something better **for you**（她自标「这个 for 我硬编的」） | **point you to something better** ／ point you **towards** something better<br>★ 框架：`point **sb to** sth` ／ `point **out** sth`；⛔ point sth for sb 不成立<br>🔴 **回潮**：E-121（08-13「point patients ___ what」）同一个论元缺口，三天后再犯 | P1 论元完整 | R · **P1**（她自标没把握 ⇒ 兼 K） |
+| E-233 | 在这两种办法之间，这一种最安全、也最快 | safer and quicker **between the two**（**句末**） | ★★ **08-16 当场改判（她质疑"between 也能用吧"，成立）：错的是【位置】不是【介词】。**<br>✅ `**Between the two,** this one is safer and quicker.`（她的介词，移到句首即可）<br>✅ `**Of the two,** this one is safer and quicker.`（偏书面）<br>✅ `This one is **the safer and quicker of the two**.`（★ 这个固定结构里只能用 of）<br>❌ 只有把 `between the two` 挂句末当状语不成立<br>★ 语域差：of the two 偏书面；between the two 稍口语、强调"在两者间做选择"，常配 choose/pick/prefer<br>⛔ 教练原判据「比较范围用 of 不用 between」**过度概括，已撤销** | P12 语序（**降档：❌→⚠️，介词部分撤销**） | R · **P12** |
+| E-234 | 影响了**全**世界 | affects **the world**（"全"丢了） | has affected **the whole world** ／ people **all over** the world<br>🔴 **「中文丢一层」第 6 次**：already/further（08-13）· 进一步（08-15）· 周末（08-15）· 正规（08-15）· 更难（08-16 组5）· **全（08-16 组6）** —— 连续两组都栽在这 | P12 中文丢一层 | R · **P12** |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-235 | 影响了全世界（时态） | **affects** the whole world | **has affected** the whole world（中文"影响**了**"是完成；一般现在时说"现在影响着"也成立，她的不算错） | 待排序 | U（待定） |
+
+**④ 教练侧留痕 / 诊断（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-236 | ⭐⭐ **注意力单通道，第一次拿到干净数据**：本组**考点 6/6 全中**（further＋already 两层 · 现在完成时 · "反而"＋"更好的" · 比较级不用最高级 · 原错 all the world 未复现 · does work 实指语气），**同一批句子里考点外错 5 处，一字未改率 1/6（全天最低：6/10 → 7/8 → 6/10 → 9/10 → 8/10 → **1/6**）**。<br>★★ 最硬的证据：`an aging population **puts**` 在第 3 组写对、`an aging population **put**` 在第 6 组写错，**同一天、同一结构、同一主语** ⇒ **不是知识缺口，是注意力被考点占满时基础项掉线**。<br>★ 这与 CLAUDE.md 的核心诊断（retrieval-under-pressure，非 knowledge gap）完全吻合，也印证 2026-08-11/13 两次"单点测通过 ≠ 装上了"。<br>⇒ **推论（下一个学习日执行）**：单复数/主谓一致**不该再做单点 drill**（她低压必对），只能靠**在真篇里重复到自动化**；而本组这种"多考点同时在场"的题恰好是最接近作文的压力环境，比单点抽查更有诊断价值 | 留痕（诊断） |
+
+**对账**：①5 ＋ ③1 ＋ ④1 ＝ **7** ＝ 新建号 E-230~E-236 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 7 · 条目 **E-237~E-243**（共 **7** 条）
+
+**① 她写错的（2 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-237 | 偶尔 | `occassionally` | `occasionally`（**两个 c、一个 s、两个 l**；记法：oc-ca-sion-al-ly，只有 c 和 l 双写） | P5 拼写（**真错，不是手滑**：双写字母的规则没定） | R · **P5** |
+| E-238 | 纽约市及五个区的人口变化 | the population of **the** New York | the population of **New York**（★ **城市名不加 the**：New York / London / Beijing。例外只有复数或国名特例：**the** Netherlands · **the** Philippines · **the** United States）<br>🔴 **过度泛化型错误**：她知道"要加 the"（组内别的题确实要），于是加多了——与 E-231 主谓一致同源，都是**注意力被规则占住时的溢出** | P2 冠词 ← 靶子 | R · **P2** |
+
+**② 她说不会 / 主动标注的（2 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-239 | 「**走投无路不会**」 | 尽管走投无路和别的压力把病人推向替代疗法 | **desperation**（名词，走投无路/绝望）<br>同族一起背：`out of desperation`（出于走投无路）· `in desperation`（情急之下）· `a desperate attempt`（孤注一掷的尝试）· `desperate for X`（急need X）<br>★ 本题她另外两处**都中了**：`other pressures` ✅（不是 reasons）· `drive patients towards` ✅（drive sb towards 比目标版的 push 还地道） | **K** |
+| E-240 | 「这里我不想用 doctor，因为我不确定中医是不是医生」 | 有些中医宣称能治高血压和糖尿病 | ✅+ **她的判断准确**：英美语境里 TCM practitioner **不是** licensed physician（医生），`practitioner` 才是标准且中立的说法。<br>★ 同族：`a medical practitioner`（执业医师）· `a general practitioner (GP)`（全科医生）· `an alternative-medicine practitioner`<br>★ 她同题另一处也自主升级：用 **treat**（治疗）而非档案里的 cure（治愈）——**treat 更准**，因为宣称的是能治，不是能治愈 | ✅+ 她的判断 |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-241 | ① 还有**实际**危害 ② **花**在这些疗法上的时间 ③ 正规治疗 | ① not only ineffective but also **damaging** ② the time **wasted** on ③ proper **treatments** | ① not only ineffective but **actively damaging**（"实际"这层可以再顶一下；她的成立）② the time **spent** on（中文"花"是中性，wasted 加了主观判断）③ proper **treatment**（"治疗"作行为不可数；treatments＝具体疗程） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（2 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-242 | ⛔ **教练规则写太宽 —— 第 6 次**（元模式见 LESSONS §1.2e）：08-16 我在 E-213 下降动词表里写「⛔ 趋势不能 reach\|mark a peak」，**过宽**。`The trend reached its peak in the 1990s` ✅ 完全自然，趋势有顶点是常识。<br>✅ 修正后的判据：**趋势不能 `mark` a peak**（mark＝标记，趋势不能"标记"峰值——这才是 08-15 的原错）；`reach a peak` / `peak` 作动词，趋势和数值**都能配**。<br>★ 而且我自己的档案原本就自相矛盾：08-15 给的"正确版"写的就是 `the upward trend continued and **reached a peak of**` | 留痕（教练犯规） |
+| E-243 | ✅+ **她自发产出的正确块 / 正确判断**：`traditional Chinese medicine` 语序修回（组 4 刚错，隔两组自己纠正 ⇒ **E-081 回潮修复**）· `clinics do really well`（命中目标块）· `drive patients towards`（比 push 更地道）· `steadily rose`（**今天刚教的 steadily，当场用上且位置正确**）· `it meant … lived`（谓语闭合，原错 meat + 缺谓语全修）· `reached a peak of 6.47 million`（避开 reached **to** 且数字写法对）· `had doubled`（过去完成时用得准）<br>★ 她关于 `Manhatan` 的判断——**「不记得，但这不重要」，对**：T1 图表里地名是印在题上的，考场照抄即可，不是要背的东西。⇒ **地名拼写不进 P5 计数** | 留痕（她的资产＋一条口径） |
+
+**对账**：①2 ＋ ②2 ＋ ③1 ＋ ④2 ＝ **7** ＝ 新建号 E-237~E-243 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 8 · 条目 **E-244~E-251**（共 **8** 条）
+
+**① 她写错的（3 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-244 | 随后 / 此后 | `subquently` | `subsequently`（**sub-se-quent-ly**，漏了 se 这个音节）★ 选这个词本身是升级，只是拼写没定 | P5 拼写 | R · **P5** |
+| E-245 | 曼哈顿在总人口中所占的份额降到了 **19%** | has dropped to **10%** | …to **19%**<br>🔴🔴 **W9 数据错，而且这次数字就印在题面上**——不需要读图。⇒ 与 08-15 作文两处（75%应76% · 1,587,108应1,587,109）**同源，但证据更硬**：不是"看图看错"，是**转写环节本身在丢精度**。<br>★ T1 最致命项（判语："幻视，直接扣 TA"）。★ 08-09 已判定"回图核一遍"不是解法 ⇒ **不设成靶子**，但每次判分必查 | **W9 数据错** | R · **W9** |
+| E-246 | **只有**保持耐心**才**更可能治好 | people who stay patient stand…（「只有…才」整层丢了） | **Only if** they stay patient **do they** stand…（Only if 置句首**必须倒装**）<br>🔴 **「中文丢一层」第 7 次**：already/further(08-13) · 进一步(08-15) · 周末(08-15) · 正规(08-15) · 更难(组5) · 全(组6) · **只有(组8)** —— 三天七次，是全库最稳定的失败模式 | P12 中文丢一层＋倒装 | R · **P12** |
+
+**② 她说不会 / 主动问的（3 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-247 | 「the 和 a 有啥区别呢，我两个都觉得可以」 | 这个数字达到了 185 万的峰值 | **她的直觉基本对，两个都能用，但 a 更常见**：`reached **a** peak of 1.85 million` ＝ T1 标准句式（of X 是补充说明不是限定，所以 a）／`reached **the** peak` ＝ 特指"全图唯一最高点"或前文已提过，也成立／`the peak **of the graph**` ＝ 这里 the 必须（被 of the graph 限定死） | **K**（判据） |
+| E-248 | 「可以写 one fifth 么」 | 这个比例只有五分之一 | **能**，`The share is one fifth.` ✅ 与 20% 等价。<br>⛔ 但 T1 里有硬规矩：**图上给什么写什么**——图给 19% 就写 19%，不许自己转成"五分之一"（教练 08-15 出 drill 题时犯过这个错：用约数诱导她写 20%，见 E-182） | **K**（口径） |
+| E-249 | 「**有点不太会怎么接句子**，早点出发憋了一个 leave early」 | 他给了我们一些建议，劝我们早点出发 | ★ **这是衔接问题不是词汇问题**（她的核心缺口之一）。三条路，从省到全：<br>① `He **advised** us to leave early.`（一个动词全包，最省）<br>② `He gave us some advice **and urged** us to leave early.`（and 并列两个动作）<br>③ `He gave us some advice, **suggesting** we leave early.`（分词接第二层）<br>★ 她「憋」出的 **leave early 完全正确**（＝set off early／start early）<br>★ 顺带把 advice 用法钉死：**advice 永远不可数**（没有 advices）· `some advice` · `a **piece of** advice` · `advise sb **to do**` | **K** |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-250 | 涨到原来的一百倍（T1 倍数表达） | increased by almost 100 times | ★ **她 08-16 点名要学**（「hundredfold 我觉得是可以学，如果确实更好」）：<br>`-fold` ＝ **末值是初值的 N 倍**，不是"增加了 N 倍"：`rose **tenfold**` ＝变成 10 倍 · `a **hundredfold** increase`<br>⛔ **中文「涨了近百倍」本身歧义**（严格＝增加100倍/末值101倍；日常常当"变成100倍"）⇒ 教练无法据此判她错，见 E-178<br>✅ **T1 最安全的三条路**：① `rose **from** 60,000 **to** 1.58 million`（直接给起止数，零歧义，**T1 首选**）② `nearly **doubled** / more than **tripled**`（2、3 倍）③ `rose more than **twentyfold**`（大倍数才用 -fold） | 🔴 进池（她点名） | **K** |
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-251 | 📋 **本组悬空备案（出题前预声明的规则首次生效，两次）**：第 5 题她走 `share` 未走 proportion、第 8 题她走 `suggestions` 未走 advice —— **两个都完全正确**，故不记 ❌；但考点未被行使，**也不记 ✅**，E-172 / E-128 原样进下一组。<br>★ 顺带 ✅ 两条（出处均为她的产出）：第 2 题 `1.85 million` 写法对 ⇒ **E-168** ✅；第 7 题 `of **the** total population` 冠词在 ⇒ **E-154** ✅<br>✅+ **她自发产出/自主纠正**：`people who stay patient` **不加逗号**（组 5 刚犯的非限定从句错，本组自己修回 ⇒ **E-222 回潮修复**）· 用 people 避开 patient 撞词形（08-15 她自己提出的解法，今天自主用上）· `subsequently`（选词是升级）· `steadily rose`（今天教的，第二次自主调出）· `everyone **lives**`（主谓一致本组也对） | 留痕（口径备案＋她的资产） |
+
+**对账**：①3 ＋ ②3 ＋ ③1 ＋ ④1 ＝ **8** ＝ 新建号 E-244~E-251 ✅（先建后报）
+
+**② 追加 · 她点名要学的（3 条，08-16 她原话「这两种表达方法很好，我没想到 urge，第二个是我不会，这个从句是什么从句」）**
+
+| E | 她的原话 | 中文触发点 | 内容（可背） | 路径 |
+|---|---|---|---|---|
+| E-252 | ⭐「**这个从句是什么从句**」（指 `, suggesting we leave early`） | 他给了我们一些建议，劝我们早点出发 | ★★ **它不是从句，是现在分词短语（-ing）作状语** —— 这个区分要害在于**悬垂规则**，正好接上她今天自查出的 E-224：<br>· **介词短语**（With X, …）→ **不**要求主语一致<br>· **分词短语**（…, suggesting … ／ Combined with X, …）→ **要求**逻辑主语＝主句主语<br>　`He gave us advice, **suggesting**…` ＝ He suggested ✓ 一致，成立<br>⇒ 用这个句型时检查一次：**-ing 的动作是不是主句主语做的**<br>★ 功能＝**结果/伴随状语**，中文对应"从而／也就是说"，**T1 里最省字数的并句方式**：<br>　`The figure rose sharply, **reaching** a peak in 1900.`<br>　`It declined steadily, **ending** the period at 19%.`（08-15 教练给过一次，见 E-177） | **K**（她点名） |
+| E-253 | 「第二个是我不会」（suggest + that 从句的虚拟语气） | 他建议我们早点出发 | ★ `suggesting **we leave** early` 里嵌的 `(that) we leave early` **才是从句**，动词**用原形**：<br>　✅ suggesting we **leave** early　❌ we **leaves** ❌ we **left**<br>　原因：**suggest 后的 that 从句用虚拟语气**（完整形 `should leave`，英式常省 should）<br>★ 同族一律如此：`recommend / propose / insist / demand that sb **do**`<br>★ 与她已练过的另一条路并列（同一动词两条路）：<br>　✅ suggest **taking** another route（＋doing）<br>　✅ suggest **that we take** another route（＋that 从句，原形）<br>　❌ suggest **us to take**（suggest 不接 sb to do） | **K**（她点名） |
+| E-254 | 「我没想到 **urge**」 | 劝我们早点出发 | `urge` ＝ **A 派**（sb ＋ to do），力劝/催促，比 advise 强一档：`**urge sb to do** sth`<br>★ 归位到她已有的两派表：<br>　**A 派**（放人＋to do）：urge · advise · require · ask · expect · force · allow · tell<br>　**B 派**（放事）：suggest · recommend · propose ＋ doing 或 that 从句；demand · insist ＋ that 从句或名词 | **K**（她点名） |
+
+**追加对账**：②3 ＝ 新建号 E-252~E-254 ✅ ⇒ 组 8 本批共 **11** 条（E-244~E-254）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 9 · 条目 **E-255~E-262**（共 **8** 条）
+> ★ 本组**考点 10/10 全中**（与组 5 并列全天最好）；下列全部是考点之外的。
+
+**① 她写错的（3 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-255 | 材料涨价后，总成本就上去了 | the **prices** of materials **are more expensive** | **materials are more expensive** ／ **prices are higher** ／ prices have risen<br>★ 判据：**expensive 修饰【东西】，price 只能 high/low** —— price is expensive 是典型中式搭配<br>★ 她自评「感觉写好绕」**语感准**，绕的地方正好藏着这个错 | P11 搭配 | R · **P11** |
+| E-256 | 病人会被转到更大的医院 | `transfered` | `transferred`<br>★ 与 E-161（droped→dropped）**同一条规则但更难**：<br>　单音节直接双写：drop→dropped · plan→planned<br>　**多音节看重音**：transFER 重音在后 → **双写**（transferred / preferred / referred / occurred）；ENter 重音在前 → 不双写（entered / offered / visited） | P5 拼写规则 | R · **P5** |
+| E-257 | 这个数字在 **1900** 年达到峰值 | reached a peak in **1990** | …in **1900**<br>🔴🔴 **W9 数据错，今天第 2 次**（组 8 是 19%→10%），**两次数字都印在题面上、不需要读图** ⇒ 与 E-245 合并成一条结论：**不是读图出错，是转写环节本身在丢精度**。三条证据同源：08-15 作文 2 处 ＋ 08-16 组8 ＋ 08-16 组9 | **W9 数据错** | R · **W9** |
+
+**② 她说不会 / 主动问的（3 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-258 | 「(before friday) 要不要加个 this」 | 学生必须在周五前交作业 | **三个都成立，但该换介词**：`**by** Friday` ＝截止期限的标准说法（**含**周五）← deadline 用这个／`before Friday` ＝周五之前（**不含**）／`this Friday` 加不加都对，只是强调"这一个"<br>★ `by` 表截止 —— 与她 08-15 问的 **by vs in**（E-174：`By 1900, the figure had risen…`）是同一条规则 | **K** |
+| E-259 | 「这个 the 可以省掉么」 | 学校应该保障学生每天的休息时间 | **能省，两个都对**：`guarantee students **daily rest time**`（零冠词＝分类泛指）／`guarantee **the** daily rest time **of students**`（被 of students 限定死 → 定指）<br>★ 判据仍是她自己那条 **「限定 ≠ 定指」**；与她 08-15 问的 E-135（`is time taken away from` 加不加 the）**是同一题**<br>⚠️ `rest time` 稍生硬 → `a daily rest **period**` ／ daily rest 更自然 | **K** |
+| E-260 | ⭐⭐「这里我想泛指，应该怎么写。因为想说如果**哪一个**病情加重，就说**那个**，后面特指」 | 病情严重的话，病人会被转到更大的医院 | ★★ **她自己把英语冠词的核心机制推出来了，而且写的就是标准解法**：<br>　`**a** patient` ＝引入（首次提及、泛指某一个）→ `**the** patient` ＝回指（就是刚说的那一个）<br>　**a 引入 · the 回指** —— 这条比任何冠词规则都管用，且她是**从"我想表达什么"倒推出来的，不是背来的**<br>★ 备用两条：`If **patients' conditions** worsen, **they** will be transferred…`（复数泛指，最省）／`**Patients whose** condition worsens are transferred…`（定语从句）<br>★ 与 E-135「限定≠定指」、E-194「the vs an increase」构成她自建的冠词判据三件套 | ✅+ **她的判据** |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-261 | ① 心理疏导 ② 病情 ③ 政府**计划**提高退休年龄 | ① psychological **guidance** ② the **situation** of a patient ③ **proposes** to raise | ① **counselling** ／ psychological **support**（"心理疏导"的行话）② a patient's **condition**（★ condition＝医学固定词"病情"；situation＝泛指的局面）③ **plans** to raise（中文"计划"＝plan；propose＝向别人提议，语义偏一格） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-262 | ✅+ **她自发产出 / 自主纠正**：`the parents of the patients` —— **形近串台没有发生**（累计 3 次的老错：08-11 employers/employees · 08-15 两次 patients/parents），本题故意让两个词同句出现，她抓对了 ⇒ **E-041 家族回潮修复**<br>· `guidance` 不可数用对（组 4 刚学）· `account for`（08-15 教的，自主调出）· `hand in their homework`（今早补记里给过，当场用上）· `finish work late in the evening`（今早给的 do not finish work until late 的变体，自己改造）<br>📋 **判定备案**：`patiens`／`dailly`／`tbe`／`order`(＝older) 四处按规则 C 手滑归一化，不计入 P5；第 8 题她用 `older **people**` 而非档案的 `the older population`，**两个都对**，考点（old→older 比较级形式）已行使 ⇒ 记 ✅ | 留痕（她的资产＋备案） |
+
+**对账**：①3 ＋ ②3 ＋ ③1 ＋ ④1 ＝ **8** ＝ 新建号 E-255~E-262 ✅（先建后报）
+
+**② 追加 · 她点名要学的（2 条，08-16 原话「as 也是学的重点，老想不到，第二句也很少想到，实义动词推动，第三个也是没想到 rise，句型是会的」＋「为什么 a daily rest period 是 a」）**
+
+| E | 她的原话 | 中文触发点 | 内容（可背） | 路径 |
+|---|---|---|---|---|
+| E-263 | ⭐⭐「as 也是学的重点，**老想不到**；第二句也**很少想到**，实义动词推动；第三个也是**没想到 rise**，句型是会的」 | 材料涨价后，总成本就上去了（＝一切"因为…所以…"） | ★★ **这是「因果/伴随」的四条路，她的默认是最长最绕的那条**：<br>　默认　`The total cost goes up **because** materials are more expensive.` (11 词)<br>　① `**As** material prices rise, the total cost goes up.` (9)<br>　② `Higher material prices **push up** the total cost.` (8) ← **最紧**<br>　③ `**With** material prices rising, the total cost goes up.` (9)<br>**① as ＝「随着」＋「因为」两层一起**，比 because 省一半、更书面。同族：when（条件）· once（一旦）· the moment（一…就）。<br>　T2 直接能用：`**As the population ages**, …` · `As incomes rise, demand grows.`<br>**② 实义动词推动 ＝ 把原因做成主语，Band 7→8 的分水岭**（不用从句，一个动词扛起因果）。<br>　六个动词：**push up / drive up**（推高）· **cut / reduce**（削减）· **trigger**（引发）· **fuel**（助长）· **ease**（缓解）· **offset**（抵消）<br>　例：`An ageing population **drives up** healthcare spending.` · `Better public transport **eases** traffic congestion.`<br>**③ with ＋ doing** ＝ 她今天刚自查出的 E-224（介词短语**不**要求主语一致，主句可用 it）。<br>★ 她自评"③句型会、没想到 rise" ⇒ **不是结构缺口是动词没调出来**，与 E-212/E-213（steadily/decline）同池：`prices **rise/climb/soar**` · `prices **fall/drop/slide**` | **K**（她点名，高价值） |
+| E-264 | 「为什么 `Schools should guarantee students **a** daily rest period` 是 a」 | 学校应该保障学生每天的休息时间 | ★ **不是这个位置要用 a，是 `period` 这个词要求 a —— 冠词跟着名词的可数性走**：<br>　不可数（**rest / time / sleep**）→ 零冠词：`daily rest` ✅ `daily rest time` ✅<br>　可数（**period / break / session**）→ 必须 a/the/复数：`**a** daily rest period` ✅ `daily rest **periods**` ✅ `~~daily rest period~~` ❌<br>★★ 通则：**可数单数名词在英语里永远不能光着**，哪怕泛指<br>★ 用 a 不用 the，因为这里泛指（随便哪一段）不是特指 ⇒ 与她自己推出的 **a 引入 / the 回指**（E-260）同一条 | **K** |
+
+**追加对账**：②2 ＝ 新建号 E-263~E-264 ✅ ⇒ 组 9 本批共 **10** 条（E-255~E-264）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 10 · 条目 **E-265~E-271**（共 **7** 条）
+
+**① 她写错的（4 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-265 | 他给了我们一些建议，劝我们早点出发 | suggesting **us to leave** early | suggesting **we leave** early（B 派＋that 从句原形）／**urging us to** leave（A 派才接人＋to do）<br>🔴🔴 **E-253 刚教完（同一场、半小时内）就犯**，而且教练给的原句就是 `suggesting we leave early`。<br>★★ **第三次证明「刚讲过 ≠ 装上了」**（08-11、08-13 已两次）⇒ 这类框架**只能靠隔天再测变自动**，当场讲完的那个 ✅ 不说明任何事 | P1 动词框架 | R · **P1**（E-043/E-129 家族） |
+| E-266 | 老年人往往**更**有经验、技术也**更**熟练 | tend to be **experienced** and highly skilled | tend to be **more experienced** and highly skilled<br>🔴 **「中文丢一层」第 8 次**：already/further · 进一步 · 周末 · 正规 · 更难 · 全 · 只有 · **更** | P12 中文丢一层 | R · **P12** |
+| E-267 | **祖父母**或多或少会帮**年轻父母**带孩子 | **parents**（漏 grand-）… young **parent**（单数） | **Grandparents** … young **parents** … their children<br>🔴 `young parent` 单数是 **E-044 隔一组回潮**（组 9 刚写对 many young parents） | ① P11 漏词 ② P4 单复数 ← 靶子 | R · **P4**（挂主错） |
+| E-268 | 这个比例只有五分之一 | this **share**（第 **2** 次走 share，未产出 proportion） | ★★ **08-16 改判：E-172 的拼写考点用中译英测不到** —— 她默认词就是 share（两次悬空实证），根本不产出 proportion。<br>✅ 但她 **08-15 T1 作文里写过 `proportation`** ⇒ **她在 T1 里会用这个词**，只是聊天中译英不走它。<br>⇒ **E-172 改挂作文验**（T1 作文必然出现 proportion），不再出中译英；本条记录改判依据 | 第②类（测法不适用） | E-172 改挂作文 |
+
+**② 她说不会 / 主动问的（1 条）**
+
+| E | 她的原话 | 中文触发点 | 裁决 | 路径 |
+|---|---|---|---|---|
+| E-269 | 「我觉得 and 后加个 be 也对」 | 老年人往往更有经验、技术也更熟练 | **语法上成立，但冗余 —— 不加才对**：<br>　✅ `tend to be experienced **and** highly skilled`（最省，同一个 tend to 管两个补语）<br>　⚠️ `and **be** highly skilled`（be 重复没必要）<br>　⚠️ `and **to be** highly skilled`（真要重复，重复 to 比重复 be 常见）<br>★ 她的**判断方向对**（与 08-16 早上问 further 冗余同一类思维：识别多余成分），只是这次结论反过来 | **K**（判据） |
+
+**④ 教练侧留痕（2 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-270 | ✅+ ⭐ **她的诊断成立，而且自己找到了正确绕法**：「point sb to do 套不上」——**完全正确**，`point sb **to** sth`（名词）✅ ／ `point sb to **do** sth` ❌ 不存在。她写的 `point the patient **in the right direction**` **是标准固定块，比教练档案里的版本更地道**。<br>★ 接"做什么"的三条路：`point sb in the right direction` ／ `tell sb what to do` ／ `show sb what to do` | ✅+ 她的产出 |
+| E-271 | 📋 **本组备案 ＋ 她的资产**：`some advice` 不可数用对 ⇒ **E-128 悬空还清、连击重启**；`challenges` 复数 · `allows parents to` · `China, where` · `much earlier` 四条 → **连对 2**；`more or less help` 语序修复（原错 help more or less youth parents）；`help sb do sth` 框架用对；`before 4pm` 简洁。<br>★ 第 4 题她走 `young people` 而非档案的 `the young`——**两个都对**，原错 the younger 未复现 ⇒ 考点已行使记 ✅<br>★ `then`(＝the) 按规则 C 手滑归一化不计 | 留痕（备案＋资产） |
+
+**对账**：①4 ＋ ②1 ＋ ④2 ＝ **7** ＝ 新建号 E-265~E-271 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 11 · 条目 **E-272~E-275**（共 **4** 条）
+
+**① 她写错的（2 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-272 | 这个政策在**工人**中很不受欢迎 | unpopular among **works** | unpopular among **workers**（works＝作品/工厂）<br>🔴 **同场先对后错第 3 例**：本组第 2 题她刚写对 `most employees or workers` ✅，隔 4 题就掉了。<br>★ 今天三次同型：`puts→put`（组3→组6）· `young parents→young parent`（组9→组10）· `workers→works`（组11 内） ⇒ **注意力单通道已是可重复现象，不是偶然**（E-236） | P11 词形＋P4 数 | R · **P11** |
+| E-273 | 别盲目押注在**它们**上面 | gamble on **these** | don't blindly gamble on **them**<br>★ 判据：`these` 与原错 `those` **是同一类问题**——光杆指示词做代词、无中心名词。中文「它们」直接对应 them，且 them 最无歧义。<br>★ 要用 these 必须带名词：`these **therapies**` ✅<br>⇒ **考点未修复**（不是换了个词就算修好） | P3 指代 | R · **P3** |
+
+**③ 教练给的更好版（1 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-274 | ① 随着老年人口增长 ② 几个月正规治疗仍没好转 | ① as **the population of older people is growing** ② **haven't seen any** improvement | ① as **the older population grows**（名词块更紧；as 从句表持续趋势用一般现在时更常见）② **have shown no** improvement（show 在此搭配里比 see 常见；她的成立） | 待排序 | U（待定） |
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-275 | ⭐⭐ **「题面点名」策略首次验证成功，且验证得很干净**：<br>　组 8「这个比例只有五分之一」→ 她写 **share**，悬空<br>　组 10 同一题面 → 又写 **share**，第 2 次悬空<br>　组 11 题面点名「用 pro- 开头那个表示比例的正式词，不是 share」→ **proportion，且拼写正确** ✅<br>★★ 关键在于**拼写仍然是她的**：只给了词元描述、没给拼写，她 08-15 T1 作文里写的是 `proportation`，今天对了 ⇒ **点名词元 ≠ 泄漏拼写**，这条方法成立。<br>★ 直接证明她 08-16 的裁决：**「你如果有想要 X，你就在题面直接说，我猜不到的，你说了我自然就写了」** ⇒ 已写进 SKILL §2.3。<br>★ 推论：今天反复出现的"题面逼不出考点"（E-071 词性 · E-073 词元 · E-111 前提 · E-128 同义词 · E-170 块方向）**大半可以用点名解决**，不必再靠改写题面绕。<br>✅+ **她的资产**：`as` 当场调出（两小时前才点名说"老想不到"）· `the public interest`（组 5 写过，今天复用）· `deeply unpopular`（搭配好）· `he or she` 指代唯一 · `months of proper treatment` 全中 · `pension spending` 不可数用对 | 留痕（方法验证＋资产） |
+
+**对账**：①2 ＋ ③1 ＋ ④1 ＝ **4** ＝ 新建号 E-272~E-275 ✅（先建后报）
+
+---
+
+### 2026-08-16 · **D—复习日（周期 C1）** · 组 12（补测）· 条目 **E-276**（共 **1** 条）
+
+**④ 教练侧留痕（1 条）**
+
+| E | 内容 | 路径 |
+|---|---|---|
+| E-276 | ⭐ **两条"读数无效"欠账还清，双双一次命中，且都印证同一件事：不是她不会，是题面的问题**<br>· **E-032**（prefer A to B）：08-10 建条目起挂"K 常驻缺口 · 0/3 抽查"，但那三次**全是题面逼不出**（「比起开车我更喜欢坐地铁」动词对动词，她走 `I'd rather…than` 完全正确）。改成**名词对名词**（比起茶我更喜欢咖啡）后 **一次写对 `I prefer coffee to tea`** ⇒ **该条从来不是知识缺口，应从 K 改判 R**<br>· **E-073**（hierarchy→hierarchical）：组 3 她写 tiered（正确但按预设读数规则记 ◎）。本组**按她 08-16 的裁决直接点名词族**（"用 hierarchy 那个词族，别用 tiered"）→ `hierarchical` 一次命中<br>　★ 顺带：`China **has built**` —— 组 3 的 `China build`（主谓＋时态两层错）**当场修好** ⇒ **E-205 回潮修复**<br>★★ **「题面点名」策略第 2 次验证成功**（第 1 次是 E-172 proportion）。两次的形状完全一样：**她的产出正确 → 教练判无效 → 点名后一次命中**。⇒ 与 E-275 合并成结论：**今天全部 5 处"题面逼不出考点"（E-071/073/111/128/170）都该用点名解决，不该靠绕着改题面** | 留痕（方法二次验证） |
+
+**对账**：④1 ＝ 新建号 **E-276** ✅（先建后报）
+
 📋 2026-08-15(D5 学习日)  ✅ E-040 E-042 E-044 E-045 E-046 E-047 E-049 E-050 E-054 E-062 E-064 E-080 E-107 E-110 E-112 E-118 E-119 E-120 E-121 E-122 E-123 E-124 E-125 E-126 E-127 E-129 E-130 E-131 E-137 E-138 E-139 E-140 E-143 E-144  ❌ E-015(回潮) E-128 E-137 E-171  ◎ E-054 E-136 E-141 E-013  △ E-142  📖 —
+📋 2026-08-16(复习日 C1)  ✅ E-042 E-045 E-049 E-050 E-062 E-064 E-080 E-118 E-125 E-129 E-013 E-015 E-043 E-112 E-162 E-171 E-174  ❌ —  ◎ —  △ E-181  📖 —
+   ★ E-171 原记 📖（理由＝我本场别处写过 remain stable）→ **08-16 她废除污染考量后改回 ✅**：她照样练了、写对了，按结果记。E-181 的 △ 与污染无关（她的 remained stable 成立、held steady 是升级版），保留
+📋 2026-08-16(复习日 C1·组4)  ✅ E-071 E-075 E-077 E-082 E-088 E-095 E-098 E-106 E-085 E-079(顺带)  ❌ E-081  ◎ —  △ —  📖 —
+   · E-079 顺带判定：她自发用 will 未用 would（考点就是 would→will），记 ✅
+   · E-085 她走 doesn't add up 而非 no longer worth it：原错 a bit expensive 未复现 ⇒ 考点通过记 ✅，语义边界另记 ⚠️
+   · E-106 她写出了教练给的目标形式但指出"感觉怪怪的" ⇒ **她对，教练版撤销**（E-217/E-220），本条仍记 ✅（她照要求产出了）
+   · 第 3 题 `promble` 属字母换位手滑，按规则 C 不计 P5
+📋 2026-08-16(复习日 C1·组5)  ✅ E-014 E-016 E-029 E-030 E-052 E-074 E-076 E-078 E-084 E-086  ❌ —  ◎ —  △ —  📖 —
+   ⭐ **考点 10/10 全中**，本场最好的一组；一字未改率 8/10（考点外新错 2 处：非限定从句逗号 E-222 · 丢"更难" E-223）
+   ★ 最有价值的产出不是分数，是她第 10 题的自述暴露出一条**假规则**：把分词的悬垂要求过度泛化到介词短语 with ⇒ 见 E-224
+📋 2026-08-16(复习日 C1·组6)  ✅ E-087 E-105 E-109 E-111 E-131 E-147  ❌ E-121(回潮，记在 E-232)  ◎ —  △ —  📖 —
+   ⭐ **考点 6/6 全中，但考点外错 5 处、一字未改率 1/6（全天最低）** ⇒ 注意力单通道实证，见 E-236
+   · 靶子 P4 主谓一致本组失守 2 次（put · hasn't），加组 3 的 China build ＝**今天 3 次**
+   · `furture` 属字母替换手滑，按规则 C 不计 P5；意图 further 已送到，E-087 考点判 ✅
+   ⛔ 教练犯规：第 4 题「between 也能用吧」她质疑成立 → E-233 从 ❌ 降 ⚠️，介词部分判据撤销（错的只是位置）。**今天她质疑教练 5 次全中，全部是同一个元模式「教练规则写太宽」** ⇒ LESSONS §1.2e
+📋 2026-08-16(复习日 C1·组7)  ✅ E-148 E-149 E-150 E-151 E-153 E-157 E-158 E-164 E-165 E-081(回潮修复)  ❌ E-152(未产出 desperation)  ◎ —  △ —  📖 —
+   ⭐ **靶子 P4 主谓一致第 4 次机会命中**：`These tables illustrate` ✅（今天此前失守 3 次：China build · put · hasn't）
+   ★ E-081 顺带判定：`traditional Chinese medicine` 语序，组 4 刚错、隔两组自己修回 ⇒ 回潮修复记 ✅
+   ⛔ 教练犯规（第 6 次「规则写太宽」）：第 10 题 `the upward trend reached a peak` **她的成立** —— 我在 E-213 表里写的「趋势不能 reach a peak」过宽，已撤销，只有 mark 不行 ⇒ E-242
+   · 口径新增：**T1 地名拼写不进 P5 计数**（考场图表上印着，照抄即可）——她的判断 ⇒ E-243
+📋 2026-08-16(复习日 C1·组8)  ✅ E-155 E-159 E-161 E-163 E-173 E-170 E-122 E-168(顺带) E-154(顺带) E-222(回潮修复)  ❌ E-119(未产出 Only if)  ◎ E-172 E-128(悬空，走了别的词元)  △ —  📖 —
+   ★ **预登记拼写规则首次生效**：population/dropped/almost 三条拼对记 ✅（不走手滑豁免）；proportion 她走 share ⇒ 悬空
+   ★ **悬空规则首次生效两次**：E-172(share) · E-128(suggestions) —— 两个都正确，故不记 ❌；考点未行使，也不记 ✅，原样进下一组
+   🔴 **W9 数据错新证据**：第 7 题 19% 抄成 10%，**数字就印在题面上** ⇒ 不是"看图看错"，是转写环节丢精度（E-245）
+   🔴 「中文丢一层」**第 7 次**（只有…才）—— 三天七次，全库最稳定的失败模式（E-246）
+📋 2026-08-16(复习日 C1·组9)  ✅ E-183 E-184 E-185 E-186 E-187 E-169 E-044 E-046 E-047 E-140 E-041(家族回潮修复)  ❌ —  ◎ —  △ —  📖 —
+   ⭐ **考点 10/10 全中**（与组 5 并列全天最好）；一字未改率 7/10；考点外真错 3 处（E-255 E-256 E-257）
+   ⭐⭐ 第 5 题她**自己推出冠词的 a-引入/the-回指机制**（E-260）——从"我想表达什么"倒推，不是背的
+   ⭐ 第 2 题 patients/parents **形近串台没有发生**（累计 3 次的老错，本题故意同句设伏）⇒ E-041 家族回潮修复
+   🔴 **W9 数据错今天第 2 次**（1900 抄成 1990）—— 与组 8（19%→10%）合并结论：不是读图出错，是**转写环节丢精度**
+📋 2026-08-16(复习日 C1·组10)  ✅ E-128 E-121 E-001 E-002 E-003 E-005 E-006 E-007 E-008  ❌ —  ◎ E-172(第2次悬空→改挂作文)  △ —  📖 —
+   ★ **E-128 悬空还清**：`some advice` 不可数用对，全库唯一"被清零"条目连击重启
+   ★ 四条进连对 2：E-002 E-006 E-007（＋E-008）
+   🔴 **E-253（suggest 不接 sb to do）同场半小时内刚教就犯** ⇒ 第三次证明「刚讲过 ≠ 装上了」（E-265）
+   🔴 「中文丢一层」**第 8 次**（更有经验的"更"）· E-044 young parents **隔一组回潮**（组 9 刚写对）
+📋 2026-08-16(复习日 C1·组11)  ✅ E-172 E-009 E-010 E-011 E-017 E-026 E-037 E-123 E-139  ❌ E-138  ◎ —  △ —  📖 —
+   ⭐⭐ **「题面点名」策略首次验证成功**：E-172 两次悬空（她一律写 share），点名词元后写出 proportion **且拼写正确** ⇒ 点名 ≠ 泄漏拼写，方法成立（E-275）
+   ⭐ E-037 的 `as` 她两小时前才点名说"老想不到"，本组当场调出
+   🔴 **同场先对后错第 3 例**：第 2 题 workers ✅ → 第 6 题 works ❌（隔 4 题）⇒ 注意力单通道可重复（E-272）
+   · 顺带结算：E-054（strain 的形容词）她在组 3 已写出 `a **financial** strain` ⇒ 顺带 ✅，不再单独出题
+   · 改判归档：E-018（In conclusion 大小写）第③类挂作文验 · E-120 与 E-112 重复合并 · E-136/E-141/E-142 纯风格选择正式改判第②类
+📋 2026-08-16(复习日 C1·组12补测)  ✅ E-032 E-073 E-205(回潮修复)  ❌ —  ◎ —  △ —  📖 —
+   ⭐ 两条"读数无效"欠账还清，双双一次命中；E-032 从 K 改判 R（此前 0/3 全是题面逼不出）
+   ⭐⭐ **「题面点名」策略第 2 次验证**（第 1 次 E-172）⇒ 今天 5 处"题面逼不出考点"全部该用点名解决（E-276）
+   · 本场复习环节到此结束：全库 192 条 pre-08-16 条目 = 实测约 100 · 留痕 44 · 第②③类 14 · 其余各有去处，零静默丢弃
+   ⛔ 教练犯规 ②：本行原记 `❌ E-130`，**当场撤销** —— 她指出 find jobs 成立，查证属实，E-130 整条是教练假错（见条目行），改判留痕。她记 **✅+**
+📋 2026-08-16(复习日 C1·组3)  ✅ E-004 E-012 E-021 E-031 E-041 E-066 E-070  ❌ E-033  ◎ E-032 E-073  △ —  📖 —
+   ⭐ **E-021 首次有效重测命中** —— 08-10 自述"pressure 换不出"、08-11 两次判定作废（◎＋📖）、08-15 仍写 pressure，本次首次自主产出 `puts a financial strain on`
+   · E-073 按今天预先写死的读数规则：她写 tiered（正确但非 hierarchy 词族）＝**无效读数**，记 ◎ 保持悬空
+   · E-032 题面逼不出 prefer（她走 I'd rather…than，完全正确）→ ◎ ＋ 题面已改（E-210）
+   · E-016 顺延有效：第 6 题她写 have to，**未**产出 no choice but to ⇒ 该块仍未测，下一场照出

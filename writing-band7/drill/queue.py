@@ -66,6 +66,9 @@ def testable(trig, line):
     """三类里只有第①类能出中译英。"""
     if any(x in line for x in ('留痕', '⚪ 劝退')) and '待排序' not in line:
         return False, '留痕'
+    # ★ 08-16 加：第②类（她的 floor 判不出错）与减法型，中译英测不了
+    if '第②类' in line or '不出中译英' in line or '第③类' in line:
+        return False, '第②类/第③类（中译英测不出）'
     if trig.strip() in ('—', '-', ''):
         return False, '无题面'
     # 「教练给的更好版」那张表第二列是她的 floor 英文，不是中文题面
@@ -85,8 +88,11 @@ def streaks():
         for tok in l.split():
             if tok in ('✅', '❌', '◎', '△', '📖'):
                 cur = tok
-            elif tok.startswith('E-') and cur:
-                ev[tok].append((date, cur))
+            elif cur:
+                # ★ 正则抽号，不用 startswith：'E-015(回潮)' 会被当成另一个实体（08-16 实测 bug）
+                m2 = re.match(r'(E-\d{3})', tok)
+                if m2:
+                    ev[m2.group(1)].append((date, cur))
     out = {}
     for e, h in ev.items():
         s = 0
@@ -140,6 +146,9 @@ def main():
                 '🔴 **这不是合法排除，是数据缺陷** —— 条目建的时候漏了中文触发点，'
                 '必须当场补写回 profile.md 再出题，不许跳过',
             '本场已出': '本场去重，正常',
+            '第②类/第③类（中译英测不出）':
+                '第②类＝她的 floor 判不出错 → 走【对比判断题】或整篇产出里验；'
+                '第③类＝减法型（"不产出某形式"）→ 挂作文里当场抓。**两者都不许就这么没了**',
         }
         for k, lst in excluded.items():
             print(f"  · {k}（{len(lst)} 条）：{' '.join(lst)}")
