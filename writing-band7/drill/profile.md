@@ -545,7 +545,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-012 | 年轻劳动力持续下降 | **young workforce** keeps dropping | **the young workforce** keeps dropping | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-013 | 老年人口的增加是主要原因（08-12 改题面：原「随着老年人口的增加」两条路都通，她走了 `as…grows` ⇒ 08-11 记 ◎。新题面把「增加」放在**主语**位置，语法上只能出名词短语） | with the **increase of** older population | with the **increase in the** older population | P2 介词＋冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-014 | 这让政府面临的处境更糟 | which **deteriorates** the situation | which **worsens** the situation | P1 动词框架（deteriorate 多不及物） | R · 挂代号 **P1** | 0/3 篇 |
-| E-015 | 大幅推迟退休年龄，从 60 到 65 | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带） | **1/3 · ✅D—迷你复习** |
+| E-015 | 大幅推迟退休年龄，从 60 到 65（08-16 题面：这项政策大幅推迟了退休年龄，从 60 岁到 65 岁） | **largely** delays **retirement age** | **significantly** delays **the** retirement age | LR 词义＋P2 冠词 | R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带） | **1/3 · ✅D—迷你复习** |
 | E-016 | 让政府别无选择，只能损害公众利益 | **makes governments have few choices but** hurt | **leaves governments with no choice but to** hurt | P3 中式块＋破碎习语 | R · 挂代号 **P3** | 0/3 篇 |
 | E-017 | 这项政策损害了公众的利益（08-11 改题面：原「公众的利益」是光杆短语，逼不出完整搭配） | the **profit** of the general public | the **interests** of the general public | LR 词义 | R · 挂代号 **P11** | **1/3 · ✅D—迷你复习** |
 | E-018 | 总而言之 | **In Conclusion** | **In conclusion** | GRA 大小写（★ 只进 GRA 桶，不进 LR，见 scoring §2.0） | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
@@ -637,7 +637,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-040 | 政府应该保障每个孩子受教育的权利（08-15 改题面：原「每个人都有受教育的权利」与 7/24 常驻题 E-030 逐字撞车） | the right to **get education** | the right **to education**（或 `to get **an** education`） | P2 冠词 | R · 挂代号 **P2** | 0/3 篇 |
 | E-041 | 雇主和员工的利益并不总是一致（08-12 改题面：原题面与 E-043 逐字撞车，一题只能测一个考点） | **employers**（今天两次：抽查②＋探针⑦） | **employees**（employer=雇主 / employee=员工） | P11 形近词义 | R · 挂代号 **P11** | 0/3 篇 |
 | E-042 | 加上退休金支出，政府的负担会更重（08-12 改题面：原「加上退休金支出」是光杆短语，逼不出整块 `combined with`） | **combined** pension spending | **combined with** pension spending（`combined with` 是整块，掉了 with 就变成前置定语） | P12 句法小结构 | R · 挂代号 **P12** | 0/3 篇 |
-| E-043 | 公司要求员工加班 | **demands** employees **working** | **requires** employees **to work**（demand 不接 sb+to do／sb+doing；demand that sb do） | P1 动词框架 | K（低压孤立仍产不出正确框架） | 0/3 抽查 |
+| E-043 | 公司要求员工加班（08-16 中译英题面：学校要求学生穿校服 —— 同框架 require sb to do，换语境避开本场 E-129 答案表面） | **demands** employees **working** | **requires** employees **to work**（demand 不接 sb+to do／sb+doing；demand that sb do） | P1 动词框架 | K（低压孤立仍产不出正确框架；08-15 她自报 suggest/demand「有点忘了」＝检索失效信号 → 已排入 08-16 复习日组 2 重测） | 0/3 抽查 |
 | E-044 | 很多年轻家长下班很晚（08-12 改题面：原题面与 E-005 撞车） | **grandparent** / **young parent**（今天两次） | **grandparents** / **young parents** | P4 单复数 | R · 挂代号 **P4** | 0/3 篇 |
 | E-045 | 大部分家长或多或少都担心这个问题（08-12 改题面：原题面与 E-005 撞车） | **more or else**；被正面问到时改用 `also` 绕开 | **more or less** | P11 词形 | R · 挂代号 **P11** | 0/3 篇 |
 | E-046 | 老年人口占总人口的两成（08-12 改题面：原「老年人口」是光杆短语，逼不出整句） | the **old** population | the **older** population（`the old` 作名词＝老年人 ✅，作定语一律 older） | P11 搭配 | R · 挂代号 **P11** | 0/3 篇 |
@@ -856,7 +856,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-059 | 这些疗法很少有效 | have **few chances to be effective** | **are rarely effective** | P3 硬编名词块 | R · **P3** | 0/3 |
 | E-060 | 这个趋势并非无法理解 | is not completely **understandable** | is not completely **unreasonable** | P11 语义反转 | R · **P11** | 0/3 |
 | E-061 | 在某些情况下有效 | effective **on** some cases | effective **in** some cases | P1 介词 | R · **P1** | 0/3 |
-| E-062 | 长期治疗没有明显效果 | **fail to get positive effects** | **see no improvement** | P3 硬编 | R · **P3** | 0/3 |
+| E-062 | 长期治疗没有明显效果 | **fail to get positive effects** | **see/show no significant improvement**（08-15 她指出中文是"没有【明显】好转"、原正确形式少了 significant —— 当天承诺改、没改，08-16 补改） | P3 硬编 | R · **P3** | 0/3 |
 | E-063 | 即使这些方法几乎无效 | **even** these methods are… | **even if** these methods are… | P12 连词缺失 | R · **P12** | 0/3 |
 | E-064 | 他们的生意往往不错 | their business **tend** to be | their businesses **tend** to be | P4 主谓一致（单数主语配复数动词） | R · **P4** | 0/3 |
 | E-065 | 不仅无效，还有害 | not only ineffective but also **negative** | …but also **damaging** | P11 词义（be negative 表"有害"不成立） | R · **P11** | 0/3 |
@@ -881,7 +881,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-084 | 他建议换一条路走 | changing **a road** | taking **a different route** | P11 词义（change a road＝改造道路） | R · **P11** | 0/3 |
 | E-085 | 这个方案就不划算了 | is **a bit expensive** | is **no longer worth it** | P11 词义＋对冲词 a bit（今天第 2 次） | R · **P11** | 0/3 |
 | E-086 | 加上语言障碍，找工作更难 | **without a fluent language** … find **jobs** | the **language barrier** … **finding a job** | P11 硬编＋P4 数（合并组，挂 P11） | R · **P11** | 0/3 |
-| E-087 | 让**本来就**紧张的资源**更加**紧张 | put a strain on scarce resources | put **further** strain on **already** scarce resources | P12（中文一个词两层，英文要两个词分别接） | R · **P12** | 0/3 |
+| E-087 | 让**本来就**紧张的资源**更加**紧张 | put a strain on scarce resources | put **further** strain on **already** scarce resources | P12（中文一个词两层，英文要两个词分别接；08-15 新语境「情况**进一步**恶化」丢 further，同模式第 3 次） | R · **P12** | 0/3 |
 | E-088 | 疫情（大流行） | the **epidemic** | the **pandemic** | P11 词义（epidemic＝局部流行） | R · **P11** | 0/3 |
 | E-089 | （手滑） | `goverments` | `governments` | P5 拼写 | 留痕·手机输入（不进 P5 计数；作文里的照常算） | — |
 
@@ -916,7 +916,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-109 | 医生反而会指给你更好的 | doctors will provide guidance on what patients should do | doctors, **by contrast**, will **point patients to something better** | 待排序 | U（待定） | 0/2 |
 | E-110 | 中国的分级诊疗体系 | the hierarchical diagnosis system | **China's tiered medical system** | 待排序 | U（待定） | 0/2 |
 | E-111 | 更安全也更快 | is the safest and most effective way | is **both safer and faster**（只有两个选项用比较级不用最高级） | 待排序 | U（待定） | 0/2 |
-| E-112 | 更有可能治好 | they have more chances to get effective cures | they **stand a far better chance of getting well** | 待排序 | U（待定） | 0/2 |
+| E-112 | 更有可能治好（08-16 题面：他们更有可能康复） | they have more chances to get effective cures | they **stand a far better chance of getting well** | 待排序 | U（待定） | 0/2 |
 | E-113 | 医生让她再休息一周 | advised her to rest for another week | **told her to take another week off**（take time off 固定块） | 待排序 | U（待定） | 0/2 |
 | E-114 | 老板要求我们周末加班 | required us to work overtime at weekends | **made us work weekends**（make sb do，不带 to） | 待排序 | U（待定） | 0/2 |
 | E-115 | 工会要求加薪 | demanded higher wages | demanded **a pay rise** | 待排序 | U（待定） | 0/2 |
@@ -957,8 +957,8 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-126 | 大多基于经验 | mostly **base on** | are mostly **based on**（be based on 是被动整块） | P12 掉 be | R · **P12** |
 | E-127 | 医生会告诉病人有更好的药 | tell patients **a better drug** | tell patients **about** a better medicine（tell sb sth 的 sth 必须是信息） | P1 论元 | R · **P1** |
 | E-128 | 他建议我们… | he **advices** us | he **advises** us（advice 名词不可数／advise 动词） | P11 词形 | R · **P11** |
-| E-129 | 他建议我们换条路 | advises us **taking** | advises us **to take** | P1 动词框架（**E-043 家族，08-12 drill 教过，隔一天回潮**） | R · **P1** |
-| E-130 | 找工作更难 | find **jobs** | find **a job** ／ find work | P4 数 ← 靶子 | R · **P4** |
+| E-129 | 他建议我们换条路 | advises us **taking** | advises us **to take** | P1 动词框架（**E-043 家族，08-12 drill 教过，隔一天回潮**；08-15 又见 **make** a route——take 串成 make；08-16 组1 冷产出 take ✓） | R · **P1** |
+| E-130 | 找工作更难（08-16 题面：现在找工作更难了） | find **jobs** | find **a job** ／ find work | P4 数 ← 靶子 | R · **P4** |
 | E-131 | 影响了全世界 | **all the world** | **the whole world** ／ all **over** the world | P11 | R · **P11** |
 
 **② 她说不会 / 主动问的（4 条）**
@@ -1070,10 +1070,10 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 | E-156 | 曼哈顿 | `Manhatten` | `Manhattan` | P5 拼写 | R · **P5** |
 | E-157 | 一百年后 | **After 100 hundred years** | **A hundred years later** ／ A century later（thousand/hundred 前面的数不过 999） | P12 数词 | R · **P12** |
 | E-158 | 住在曼哈顿的人数 | **the number of the population** | **the number of people** ／ the population（二选一，不能叠） | P3 硬编名词块 | R · **P3** |
-| E-159 | 达到峰值 185 万 | **reached to** a peak | **reached** a peak（reach 及物不带 to） | P1 介词 | R · **P1** |
+| E-159 | 达到峰值 185 万（08-16 题面：这个数字达到了 185 万的峰值） | **reached to** a peak | **reached** a peak（reach 及物不带 to） | P1 介词 | R · **P1** |
 | E-160 | 从那以后 | `from then on`（句首小写） | `From then on` | P12 大小写（作文里计入 GRA） | R · **P12** |
-| E-161 | 下降了 | `droped` | `dropped`（单音节+单元音+单辅音尾要双写；同 plan→planning） | P5 拼写规则 | R · **P5** |
-| E-162 | 这一时期结束时只剩 19% 的人住在曼哈顿 | the absolute value **finished the period with only 19% of people** | **the period ended with** only 19% of people…（★ 数字类主语不能带人当宾语） | P12 主谓搭配 | R · **P12** |
+| E-161 | 下降了 | `droped` | `dropped`（单音节+单元音+单辅音尾要双写；同 plan→planning） | P5 拼写规则（08-15 聊天另有 planing→planning 同规则一次，判真错不算手滑——planing 是真词"刨平"） | R · **P5** |
+| E-162 | 这一时期结束时只剩 19% 的人住在曼哈顿（08-16 中译英题面：这一时期结束时，只剩五分之一的人住在那里 —— 无图语境，五分之一是内容本身，不违反 E-182「T1 题面禁约数」） | the absolute value **finished the period with only 19% of people** | **the period ended with** only 19% of people…（★ 数字类主语不能带人当宾语） | P12 主谓搭配 | R · **P12** |
 | E-163 | 差不多 | `alomst` | `almost` | P5 拼写 | R · **P5** |
 | E-164 | 这意味着大多数人住在曼哈顿以外 | which **meat the majority of people living** outside | which **meant that** the majority of people **lived** outside（原句缺谓语，闭合不了） | P12 句法＋P5 拼写（挂主错 P12） | R · **P12** |
 | E-165 | 上升趋势达到 647 万的峰值 | the upward trend **marked the peak of** | the upward trend continued and **reached a peak of**（★ 趋势不能 mark a peak） | P12 主谓搭配 | R · **P12** |
@@ -1082,7 +1082,7 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 | E-168 | 185 万 | **1,850 thousand** | **1.85 million**（thousand 前面的数不过 999） | P12 数字写法 | R · **P12** |
 | E-169 | 这个数字在 1900 年达到峰值 | peaked at … **by** 1900 | peaked at … **in** 1900 | P1 介词 | R · **P1** |
 | E-170 | 住在曼哈顿的人口占比 | **the share of Manhattan's population** | **Manhattan's share of the total population**（被分份的是全市人口，块的方向拼反了） | P3 硬编名词块 | R · **P3** |
-| E-171 | 这个比例保持稳定 | **kept stable** | **remained stable** ／ held steady（keep 不能这样接形容词） | P1 动词框架 | R · **P1** |
+| E-171 | 这个比例保持稳定（08-16 题面同 E-181：这个比例在 1900 到 2000 年间保持稳定） | **kept stable** | **remained stable** ／ held steady（★判据 08-16 收窄：keep＋形容词在固定搭配里成立——keep calm/quiet/still；「数据保持稳定」的行话是 remain stable／hold steady。原「keep 不能这样接形容词」写宽了，与同日「keep patient 成立」的判定矛盾，以收窄版为准） | P1 动词框架 | R · **P1** |
 | E-172 | 比例 | `proportation` | `proportion` | P5 拼写 | R · **P5** |
 | E-173 | 从 1900 年到 2000 年 | from 1900 **and** 2000 | from 1900 **to** 2000 ／ **between** 1900 **and** 2000 | P1 搭配 | R · **P1** |
 | — | 大幅增长 | `increased **largely**` | `increased **sharply**` | **回潮，记在 E-015 上不新建**（08-10 `largely delays` 同款，第 2 次） | — |
@@ -1091,7 +1091,7 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 
 | E | 她的原话 | 中文触发点 | 裁决 | 路径 |
 |---|---|---|---|---|
-| E-174 | 「by 和 in 啥区别，我感觉 T1 基本可以互换」 | 这个数字在 1900 年达到峰值 ／ 到 1900 年为止已增长到 158 万 | **不能互换**。**in ＝ 动作发生在那一年**（peaked at X **in** 1900）；**by ＝ 结果累积到那一年为止**（**By** 1900, the figure **had** reached X，常配完成时）。★ 她作文 S9 的 `to 1,587,109 **by** 1900` 是**对的**（增长是累积过程） | **K** |
+| E-174 | 「by 和 in 啥区别，我感觉 T1 基本可以互换」 | 这个数字在 1900 年达到峰值 ／ 到 1900 年为止已增长到 158 万（08-16 题面：到 1900 年为止，这个数字已经增长到 158 万） | **不能互换**。**in ＝ 动作发生在那一年**（peaked at X **in** 1900）；**by ＝ 结果累积到那一年为止**（**By** 1900, the figure **had** reached X，常配完成时）。★ 她作文 S9 的 `to 1,587,109 **by** 1900` 是**对的**（增长是累积过程） | **K** |
 
 **③ 教练给的更好版（7 条）**
 
@@ -1111,6 +1111,34 @@ R14 + K2 + 留痕2 + 待排序9 = **27** ✅ = 新建号 E-118~E-144
 |---|---|---|
 | E-182 | ⛔ **教练 drill 题面出错两处**：第 4 题中文写「四分之一的人口住在曼哈顿以外」，实际数据是 **81%（五分之四）**——她按事实写 `four fifths` 是对的，记 ◎ 不记错；第 5 题中文用约数「五分之一」会诱导写 20%，而图上是 19%。★ **T1 的题面不许用约数** | 留痕（教练犯规） |
 
-**分池对账**：①23（R 22 ＋ 记在旧号 1）＋ ②1（K）＋ ③7（待排序）＋ ④1（留痕）＝ **30** ＝ 新建号 E-153~E-182 ✅
+**分池对账**（08-16 改精确：处数与号数分开写）：①处数 23＝条目 22（新号 21；E-164 一条目两处；largely 记在旧号 E-015）＋ ②1（K）＋ ③7（待排序）＋ ④1（留痕）⇒ 新号 21＋1＋7＋1 ＝ **30** ＝ E-153~E-182 ✅
+
+### 2026-08-16 补建 · 08-15 **复习组**漏记 · 条目 **E-183~E-192**（共 **10** 条 ＋ 5 处记在旧号）
+
+> 🔴 背景：08-15 三份复习组战报写了「新建条目 6 / 3 / 4 条」，收尾时**一条都没建**（假记录第三例，LESSONS §1.2；机制同 08-12「新建 20 条」——数字先于动作）。13 条声称里 4 条已有归宿（E-137 rarely ❌ · E-138 what-to-do · E-128 advices · E-142 way 均有台账事件），真漏如下。她的三个当场提问（要加 will 么／whether 要翻出来么／patient 指代顾虑）当天均判"她已会/她对"，不建条目，记录在 08-15 session 补录。
+
+**① 她写错的（5 条）**
+
+| E | 中文触发点 | 她写的 | 正确 | 类别 | 路径 |
+|---|---|---|---|---|---|
+| E-183 | 学生必须在周五前交作业 | advised us to **commit** homework | **hand in** ／ **submit** ／ turn in homework（commit＝承诺/犯罪/提交代码，程序员词汇串台） | P11 词义 | R · **P11** |
+| E-184 | 病人的家长也需要心理疏导（一句里同时逼出 patients 和 parents） | **parents** 串成 patients 的形近对（08-15 两次、累计第 3 次；E-041 employers/employees 同族） | the **parents of patients**…（形近取词串台：语法全对、意思全反） | P11 形近词义 | R · **P11** |
+| E-185 | 材料涨价后，总成本就上去了 | the total **adds up** | the total **goes up** ／ rises（add up＝说得通/对得上；doesn't add up＝不划算——E-099/E-116 块的义项边界，迁移时反了） | P11 词义 | R · **P11** |
+| E-186 | 学校应该保障学生每天的休息时间 | **provide** sb **sth**（provide children the right） | **guarantee** sb sth（provide 不接双宾：provide sb **with** sth ／ provide sth **to** sb） | P1 框架＋P11 搭配（挂主错 P1） | R · **P1** |
+| E-187 | 病情严重的话，病人会被转到更大的医院 | the patient … **larger hospitals** | … **a larger hospital**（单数病人配单数医院；轻度——数的一致性） | P4 数 | R · **P4** |
+
+**③ 教练给的更好版（5 条）**
+
+| E | 中文触发点 | 她的 floor | 更好版本 | 价值档 | 路径 |
+|---|---|---|---|---|---|
+| E-188 | 政府保障（已有的）权利 ↔ 争取（未有的）权利 | secure？make sure？（她 08-15 问） | **guarantee ／ safeguard ／ uphold** a right（已有权利的保障）；**secure**＝争取到尚未拥有的（secure the right to vote）；make sure 口语→书面 **ensure** | 待排序 | U（待定） |
+| E-189 | 每个孩子受教育的权利 | guarantee children the right to education | guarantee **every child's right to education**（"每个孩子"更贴，还省掉双宾） | 待排序 | U（待定） |
+| E-190 | 很多年轻家长下班很晚（书面版） | get off work really late | **do not finish work until late**（get off work／really 偏口语；她的成立） | 待排序 | U（待定） |
+| E-191 | 政府计划提高退休年龄（时态选择） | The government is planning to raise | The government **plans to** raise（一般现在时说政策更简洁；**纯风格选择——不进中译英组，作文里验**） | 待排序 | U（待定） |
+| E-192 | 提前（交/完成）↔ 赶在截止日期之前 | in advance（她的，成立） | **ahead of the deadline**（强调赶在截止前）／ **early**（最省）／ ahead of time · beforehand（08-16 复习日她主动问"提前还有哪些说法"，同一块；08-16 二审评审指出漏建后补） | 待排序 | U（待定） |
+
+**记在旧号（5 处，行内已批注）**：E-062（正确形式补 significant）· E-087（丢 further 新语境）· E-129（make→take）· E-161（planing→planning）· E-171（keep 判据收窄）
+
+**对账**：新号 10（①5＋③5）＋ 记在旧号 5 ＝ 08-15 复习组真漏 15 处 ✅（战报声称 13，含 4 条已有归宿——声称数本身也是拍的；E-192 是二审评审追出的）
 
 📋 2026-08-15(D5 学习日)  ✅ E-040 E-042 E-044 E-045 E-046 E-047 E-049 E-050 E-054 E-062 E-064 E-080 E-107 E-110 E-112 E-118 E-119 E-120 E-121 E-122 E-123 E-124 E-125 E-126 E-127 E-129 E-130 E-131 E-137 E-138 E-139 E-140 E-143 E-144  ❌ E-015(回潮) E-128 E-137 E-171  ◎ E-054 E-136 E-141 E-013  △ E-142  📖 —
