@@ -537,7 +537,7 @@ U   2 条   E-026（= §9 的 G2，🟡 新规之前已进池，在上限内保�
 | E-004 | 在家庭层面，祖父母能帮上忙（08-11 改题面：原「在家庭层面」是光杆短语，答成 `family level` 也说不清对错） | **As for family level** | **At the family level** | P2 冠词/搭配 | R · 挂代号 **P2** | 0/3 篇 |
 | E-005 | 祖父母或多或少会帮年轻父母带孩子 | grandparents **help more or less youth** parents | grandparents **more or less help young** parents | 语序＋词性 | R · 挂代号 **P12** | **1/3 · ✅D—迷你复习** |
 | E-006 | 这让父母能够全职工作 | which **makes parents have a chance to** work | which **allows parents to** work | P3 中式块 | R · 挂代号 **P3** | **1/3 · ✅D—迷你复习** |
-| E-007 | 以中国为例，学生下午四点前就放学 | A case in point is China**,** students leave | A case in point is China**, where** students leave | **P7 逗号粘连** | R · 挂代号 **P7** | **1/3 · ✅D—迷你复习** |
+| E-007 | **一个典型的例子就是中国，学生下午四点前就放学（写成一句）** （08-17 题面两次加死：① 原题面「以中国为例」可拆成两句 ② 只加「写成一句」还能降级成状语 `In China, for example, students leave…` —— 一个主谓，逗号粘连的结构位根本不出现。现题面把前半锁成完整主谓「一个典型的例子就是中国」，第二个分句必须自己找接法，考点才活） | A case in point is China**,** students leave | A case in point is China**, where** students leave | **P7 逗号粘连** | R · 挂代号 **P7** | **1/3 · ✅D—迷你复习** |
 | E-008 | 这比大多数人回到家的时间早得多 | much **more early** | much **earlier** | P6 比较级 | R · 挂代号 **P6** | **1/3 · ✅D—迷你复习** |
 | E-009 | 大多数雇员或工人 | most employees or **worker** | most employees or **workers** | P4 单复数 | **R（08-11 探针实测坐实）**：低压孤立答 `most employers or workers` —— 复数产得出 ⇒ 检索失败 · 挂代号 **P4**（⚠️ 同答里 `employers` 应为 `employees`，另立 E-041） | **1/3 · ✅D—迷你复习** |
 | E-010 | 我一般七点到家（08-11 改题面：原「回到家」与 E-008 的题面撞车，同组连出等于提前公布考点） | **get to home** | **get home** | P1 搭配 | R · 挂代号 **P1** | **1/3 · ✅D—迷你复习**（顺带判：第 4 题里 `get home` 用对） |

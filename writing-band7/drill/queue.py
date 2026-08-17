@@ -24,8 +24,10 @@ BATCHES = [
     ('2026-08-12', 'D3', 145, 152),
     ('2026-08-15', 'D5', 153, 182),
     ('2026-08-15', 'D5', 183, 192),   # 08-16 补建：08-15 复习组漏记的 10 条（战报假记录第三例）
+    ('2026-08-16', 'R1', 193, 276),   # ★ 复习日 C1 产出的 84 条。复习日不占 D 位 ⇒ 它们没有 D 标签，
+                                      #   靠 D-1/D-3 永远轮不到 ⇒ 只能显式点名 --scope R1（08-17 发现的结构漏洞）
 ]
-TODAY_D = 5          # 今天是第几个学习日（改日期时同步改）
+TODAY_D = 6          # 今天是第几个学习日（改日期时同步改）；C2-D1 = 全局第 6 个学习日
 
 
 def batch_of(e):
@@ -36,21 +38,29 @@ def batch_of(e):
     return '（本场新建）', f'D{TODAY_D}'
 
 
+LABELS = {b[1] for b in BATCHES}
+
+
 def parse_scope(arg):
-    """把 D-1,D-3 这样的相对标记翻成允许的 D 编号集合。"""
+    """把 D-1,D-3 这样的相对标记翻成允许的批次标签集合。
+    另接受两个显式 token：
+      · 批次标签本身（R1 = 复习日 C1 产出的那批，没有 D 位，只能点名）
+      · streak2       = 全库【连对 2】的条目（再对一次就毕业，跨批次）"""
     if arg == 'all':
-        return None
-    want = set()
+        return None, False
+    want, s2 = set(), False
     for tok in arg.split(','):
         tok = tok.strip()
         m = re.fullmatch(r'D-(\d+)', tok)
-        if m:
+        if tok == 'streak2':
+            s2 = True
+        elif m:
             want.add(f'D{TODAY_D - int(m.group(1))}')
-        elif re.fullmatch(r'D\d+', tok):
+        elif tok in LABELS:
             want.add(tok)
         else:
-            sys.exit(f'看不懂的 scope: {tok}（只接受 D-1 / D-3 / D2 / all）')
-    return want
+            sys.exit(f'看不懂的 scope: {tok}（只接受 D-1 / D-3 / D2 / streak2 / {"/".join(sorted(LABELS))} / all）')
+    return want, s2
 
 
 def load_rows():
@@ -109,7 +119,7 @@ def main():
     a = sys.argv[1:]
     if '--scope' not in a:
         sys.exit(__doc__)
-    scope = parse_scope(a[a.index('--scope') + 1])
+    scope, want_s2 = parse_scope(a[a.index('--scope') + 1])
     done = set(x for x in a if x.startswith('E-'))
 
     rows, st = load_rows(), streaks()
@@ -117,7 +127,10 @@ def main():
     for e in sorted(rows):
         trig, line = rows[e]
         d, dn = batch_of(e)
-        if scope is not None and dn not in scope:
+        in_scope = scope is None or dn in scope
+        if want_s2 and st.get(e, (0, 0))[0] == 2:
+            in_scope = True
+        if not in_scope:
             continue
         good, why = testable(trig, line)
         if not good:
@@ -129,10 +142,14 @@ def main():
         s, seen = st.get(e, (0, 0))
         ok.append((e, dn, d, re.sub(r'（0?8-\d\d.*?）', '', trig)[:40], s, seen))
 
-    # 排序：从没测过的和连击归零的排最前，然后连对少的在前
-    ok.sort(key=lambda r: (r[5] > 0, r[4], r[0]))
+    # 排序：默认 = 从没测过的和连击归零的排最前，然后连对少的在前
+    # ★ 点了 streak2 ⇒ 连对 2 的排最前（每中一条 = 当场毕业，全库最高单位收益）
+    if want_s2:
+        ok.sort(key=lambda r: (r[4] != 2, r[5] > 0, r[4], r[0]))
+    else:
+        ok.sort(key=lambda r: (r[5] > 0, r[4], r[0]))
 
-    label = '全库' if scope is None else '＋'.join(sorted(scope))
+    label = '全库' if scope is None else '＋'.join(sorted(scope) + (['streak2'] if want_s2 else []))
     print(f"范围 = {label}（今天 = D{TODAY_D}）· 本场已出 {len(done)} 条")
     print(f"⇒ **本场待出 {len(ok)} 条 = {-(-len(ok)//10)} 组**")
 
