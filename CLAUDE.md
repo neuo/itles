@@ -53,14 +53,20 @@ ielts/
 ├── daily_log.md         跨学科每日复盘日志
 │
 ├── speaking-band7/      所有口语
+│   ├── lab/             ⭐ 当前训练线数据真源（v2，2026-08-18 起）
+│   │   ├── problems.md    问题总表（编号·题面·状态·日志）170 条未毕业
+│   │   ├── graduated.md   已毕业 83 条（连对 3，不再召回）
+│   │   ├── methods.md     方法类 35 条（**不进复习召回**，只当诊断判据）
+│   │   ├── redo_queue.md  重答队列 ／ cycles.md 周期与合并记录
+│   │   └── sessions/      一天一文件 YYYY-MM-DD.md
+│   ├── question_bank.md + coach/pick_question.py + coach/asked.log   抽题（禁自编）
 │   ├── 01_my_situation / 02_band7_target / 03_question_types
 │   ├── 04_toolkit       工具集（含 §11 P2 实战协议=三阶训练+死机3秒清单）
-│   ├── 05_path          3 周训练 path（5/30→6/20）
+│   ├── 05_path          3 周训练 path（5/30→6/20，speaking-coach 线用）
 │   ├── personas.md      7 个 persona（54 P2 取材来源）
-│   ├── p1_question_bank.md   P1 188 题
 │   ├── examples/        54 P2 + 324 P3 范文
-│   ├── coach/           状态文件：error_log / inventory / sessions/
-│   └── _archive/        旧资料（v5/v6/v7 + p2_my_path，仅参考）
+│   ├── coach/           旧状态文件（fluency_lab.md 70 万字 **只读归档，不再写入**）
+│   └── _archive/        旧资料（含 skill_v1_fluency_lab_20260818.md，仅参考）
 │
 ├── writing-band7/       所有写作
 │   ├── 01-05 + 04_toolkit + _examiner_protocol + proofreading_routine
@@ -88,7 +94,22 @@ ielts/
 
 > **学习入口 = `study-coach` skill**（触发"继续学习/今天练什么"）：整合编排——一次 session 同时驱动口语+写作,先报当周**共同准确性焦点**(两科同一个根:-s/attraction/冠词/介词/搭配/副词/衔接) + 配对话题域,再分别调用下面两个子 coach,最后做跨科综合 + 确保两科收尾文件都写。单练一科可直接进对应子 coach。详见 `.claude/skills/study-coach/SKILL.md`。
 
-### 口语练习流程（触发"练口语/练 P1/P2/P3/来一题/串模考" → speaking-coach skill）
+### ⭐ 口语训练主线（触发"练口语/复习/继续练说/说不出来" → **fluency-lab skill v2**）
+
+**方法唯一真源 ＝ `.claude/skills/fluency-lab/SKILL.md`（v2，2026-08-18 重写；v1 归档在 `speaking-band7/_archive/`）**，
+数据真源 ＝ `speaking-band7/lab/`。核心：
+
+```
+周期 = 4 个【有行为的】练习日：L1 L2 L3 R(付息日)；休息/没练跳过不占位
+学习日  ①复习 D-1＋D-3 被测到的未毕业条目（10 题一组）→ ②回看 D-1 新题四件套（只读）
+        → ③新题 1 道（脚本抽，保底做）→ ④收尾核对
+付息日  ⓪回看 → a 本周期全量 → b 向前抽样（最久没测的优先）→ c 合并去重 → d 重答 0–X 道
+问题 = 她犯的错 ＋ 说得不地道 ＋ 她主动提出的（复习/新题/重答一视同仁）
+四档 ✅ ❌ 📖 ◎ ｜ 连对 3 → 毕业 ｜ 每题都给 最小修改版＋更好版＋diff
+★★ 顺序写死：先写 session 文件 → 再把反馈发给她
+```
+
+### 口语应试线（触发"练 P1/P2/P3/来一题/串模考" → speaking-coach skill）
 
 **speaking-coach skill = 薄壳执行器,方法论唯一真源仍是 `speaking-band7/05_path.md`「🎓 教练执行手册」**（选题/三阶/8 维诊断/scorecard/End-of-Session 全在那;skill 只 load+enforce,不重复内容——5/31 删旧 skill 后的干净重建,单一真源不破）。P2 走三阶（A→B→C，详见 `04_toolkit.md` §11），P1/P3 cold-first。选题从 `speaking-band7/question_bank.md` 真题库,禁自编。
 
@@ -101,8 +122,9 @@ T2 按 `writing-band7/05_path.md` 当周阶段。选题从 `writing-band7/questi
 
 ### 每次练习结束（**强制,流程被打断也要补**）
 
-1. 写 session 文件：口语 `speaking-band7/coach/sessions/YYYY-MM-DD.md` / 写作 `writing-band7/log/sessions/YYYY-MM-DD-*.md`——**加练也要写**，errors.md + daily_log 不能替代
-2. 更新对应 error_log / inventory / errors（毕业进度、新模式）
+1. 写 session 文件：口语 `speaking-band7/lab/sessions/YYYY-MM-DD.md`（应试线仍写 `coach/sessions/`）/ 写作 `writing-band7/log/sessions/YYYY-MM-DD-*.md`——**加练也要写**，errors.md + daily_log 不能替代
+   ★ 口语线的顺序是**先写文件再反馈**（不是练完补记）
+2. 更新对应状态文件：口语 `lab/problems.md`（日志行＋状态行）/ 写作 errors.md（毕业进度、新模式）
 3. 更新 `daily_log.md`（当日复盘）
 4. 更新 `study_hub.md` 顶部"当前进度"块（下次进场定位）
 
