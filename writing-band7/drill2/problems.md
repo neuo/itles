@@ -10,31 +10,32 @@
 ## 全档状态
 
 ```
-总数   221 条
-在池   175 条
-🎓     46 条
-毕业线 2 的 215 条 · 3 的 6 条
-题面待补 51 条
+总数   236 条
+在池   181 条
+🎓     55 条
+毕业线 2 的 224 条 · 3 的 12 条
+题面待补 46 条
+最后一次全量校验 2026-08-19（C1 状态行 vs 历史重数 236/236 一致）
 ```
 
 ## 族目录
 
 | 族 | 号段 | 条数 | 是什么 |
 |---|---|---|---|
-| **F01** 动词框架/论元 | #0001–#0026 | 19 | 动词后面接什么、及物性、论元完整 |
+| **F01** 动词框架/论元 | #0001–#0257 | 22 | 动词后面接什么、及物性、论元完整 |
 | **F02** 冠词/限定 | #0021–#0069 | 18 | a/an/the 的有无与选择、泛指定指、零冠词 |
-| **F03** 中式块/硬编 | #0039–#0051 | 10 | 自己拼出来的名词块、中文直译块 |
-| **F04** 单复数/主谓一致 | #0048–#0080 | 24 | 含长主语后谓语被拉走、不可数名词 |
+| **F03** 中式块/硬编 | #0039–#0250 | 12 | 自己拼出来的名词块、中文直译块 |
+| **F04** 单复数/主谓一致 | #0048–#0251 | 25 | 含长主语后谓语被拉走、不可数名词 |
 | **F05** 拼写/形近词 | #0083–#0096 | 12 | 含构形规则、拼成另一个真词的串台 |
-| **F06** 词类混用/位置 | #0097–#0113 | 16 | 形容词副词互换、比较级构形、修饰语位置 |
-| **F07** 句法/逗号/并列 | #0049–#0155 | 36 | 逗号粘连、并列同形、语序倒装、从句、指代、大小写 |
-| **F08** 词义/近义辨析 | #0090–#0195 | 35 | 选错词、近义词边界 |
-| **F09** 时态/体 | #0190–#0199 | 8 | 时态选择、时间状语与时态的配对、体的平行 |
+| **F06** 词类混用/位置 | #0097–#0248 | 17 | 形容词副词互换、比较级构形、修饰语位置 |
+| **F07** 句法/逗号/并列 | #0049–#0260 | 37 | 逗号粘连、并列同形、语序倒装、从句、指代、大小写 |
+| **F08** 词义/近义辨析 | #0090–#0262 | 39 | 选错词、近义词边界 |
+| **F09** 时态/体 | #0190–#0252 | 9 | 时态选择、时间状语与时态的配对、体的平行 |
 | **F10** 语义缺失(中文丢一层) | #0126–#0126 | 1 | 语法全对但中文明写的一层没送到 |
 | **F11** T1 数据/图表 | #0203–#0221 | 19 | 数据抄写、峰值占比、跨线对比、overview 特征选择、倍数 |
 | **F12** 任务层/篇章层 | #0222–#0222 | 1 | 只能挂作文验的 |
-| **F14** 衔接/连接词 | #0223–#0228 | 5 | 连接词选择与位置、转折的搭法 |
-| **F15** 语域/正式度 | #0229–#0239 | 10 | 口语词进书面、缩写、对冲词 |
+| **F14** 衔接/连接词 | #0223–#0261 | 6 | 连接词选择与位置、转折的搭法 |
+| **F15** 语域/正式度 | #0229–#0254 | 11 | 口语词进书面、缩写、对冲词 |
 | **F17** T1 整句仿写 | #0241–#0244 | 4 | 整句级改写 |
 | **F18** T2 整句仿写 | #0245–#0247 | 3 | 整句级改写 |
 
@@ -45,17 +46,25 @@
 > 动词后面接什么、及物性、论元完整
 
 ## #0001 get to home → get home
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F01
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F01
 
 **问题是什么**
-P1 搭配　R · 挂代号 P1
+**去某地要用 `to`；只有 home / here / there / abroad / downtown 这几个词是副词，不加 to。**
+两个方向必须一起记 —— 只记住一半就会往另一半上滥用（2026-08-19 就是这么犯的）。
+　✅ `get **home**` · `go **there**` · `come **here**` · `go **abroad**`　　← 副词，光着
+　✅ `come **to** the office` · `go **to** school` · `get **to** the station` · `return **to** work`　← 名词，要 to
+　⚠️ 例外提醒：`go home` 是副词，`go to my home`（强调那栋房子）才加 to。
+**找法**：`to` 后面那个词前面能不能加 the？能 ⇒ 它是名词 ⇒ 要 to；不能 ⇒ 它是副词 ⇒ 不加。
 
 **怎么发现的**
 2026-08-11　迷你复习
 
 **我错在哪**
-她的：**get to home**
-正确：**get home**
+累计实例（**两个方向都犯过**）：
+· `**get to home**` → `get home`（2026-08-11，多加了 to）
+· `he only **comes the office**` → `comes **to** the office`（2026-08-19，该加没加）
+后一次是**过度泛化**：她记住了"home 不加 to"，把规则扩到了 the office 上 ——
+与 #0069（`the population of **the** New York`，记住"要加 the"就加多了）是同一个机制。
 
 **中文触发点**
 我一般七点到家（08-11 改题面：原「回到家」与 E-008 的题面撞车，同组连出等于提前公布考点）
@@ -64,6 +73,17 @@ P1 搭配　R · 挂代号 P1
 - 2026-08-11 ✅ 迷你复习
 - 2026-08-16 ✅ 复习日 C1·组11
 - 2026-08-18 ✅ D1 学习日 C2·组1
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 3 题（顺带）　**归入待确认**
+  她写 `he only **comes the office** occasionally`，漏了 to。
+  ★ **归入本号而不是新建，判据要说清楚**（因为它表面上违反 §3.5 1.3 的反向验）：
+  · 反向验的表面结论：08-18 本条判 ✅（get home 那个方向对了）、今天反方向错
+  　⇒ 看起来"可独立取值"，该分两条。
+  · **推翻它的理由是问 2**：讲给她的规则只有一句 ——「名词要 to，home/here/there 是副词不要 to」，
+  　而且**必须一起讲**。只讲一半正是今天犯错的原因（她把"不加 to"泛化到了 the office）。
+  　分成两条 = 永远只教一半 = 保证她继续在另一半上犯。
+  · 反向验是用来防"把两个独立能力揉成一条"的；这两个方向不独立，是**互相拉扯**的。
+  按 §3.5 A6 标「归入待确认」，收尾复查时结清。
+  按 §3.3，🎓 之后再犯 ⇒ 回在池、连对归零、毕业线定 3。
 
 <details><summary>原始行（旧表逐字，旧号 E-010）</summary>
 
@@ -235,7 +255,7 @@ P1 介词　R · P1
 </details>
 
 ## #0008 gambling at these therapies → gambling on these therapies
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-13 ｜ 族 F01
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F01
 
 **问题是什么**
 P1 介词　R · P1
@@ -248,10 +268,18 @@ P1 介词　R · P1
 正确：gambling **on** these therapies
 
 **中文触发点**
-盲目押注在这些疗法上
+- 2026-08-19　很多散户把钱押在这几只新股上。（★ 题面加死："押注"用 gamble 这个词 —— 08-19 她走 `put money on`，整句成立但 gamble 未出场，记 ◎）
+- （更早）盲目押注在这些疗法上
 
 ### 历史记录
 - 2026-08-13 ✅ 迷你复习
+- 2026-08-19 ◎ D2 学习日 C2·组2 第 10 题（题面的问题，不是她的问题）
+  题面「很多散户把钱押在这几只新股上」，她写 `put money **on** these new stocks`。
+  ★ **整句成立**，介词 on 也对，但她走的是 `put money on` 这条路，
+  本条考的是 **gamble 配哪个介词**，gamble 一次都没出场 ⇒ 记 ◎，streak 不动。
+  ⇒ 题面已加死（见下方中文触发点 2026-08-19 那行），下次点名用 gamble。
+  📋 顺带用对：`many individual **investors**` 复数正确（靶子2）；
+  「散户」译成 individual investors 选词很准（retail investors 是另一个标准说法）。
 
 <details><summary>原始行（旧表逐字，旧号 E-069）</summary>
 
@@ -369,7 +397,7 @@ P1 动词框架　R · P1
 </details>
 
 ## #0014 学校应该保障学生每天的休息时间
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-16 ｜ 族 F01
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F01
 
 **问题是什么**
 P1 框架＋P11 搭配（挂主错 P1）　R · P1
@@ -386,6 +414,20 @@ P1 框架＋P11 搭配（挂主错 P1）　R · P1
 
 ### 历史记录
 - 2026-08-16 ✅ 复习日 C1·组9
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 7 题（顺带）
+  「灾后有专业人员为幸存者提供心理疏导」，她写
+  `the specialists provided **the survivors counseling**` —— 又是 provide 接双宾。
+  正确：`provided the survivors **with** counselling` ／ `provided counselling **for** the survivors`
+  ★ **能双宾 vs 不能双宾，两张表**（这是本条真正要背的东西）：
+  　**能**（直接 V + 人 + 物）：give · offer · send · show · tell · teach · buy · guarantee · promise · lend
+  　**不能**（必须带介词）：**provide** sb **with** sth · **supply** sb **with** sth ·
+  　　　　　　　　　　　　**explain** sth **to** sb · **describe** sth **to** sb · **suggest** sth **to** sb ·
+  　　　　　　　　　　　　**introduce** sb **to** sb · **announce** sth **to** sb
+  **测试句**：能不能说 `explain me the rule`？不能 ⇒ explain 在第二张表。
+  　同理 `provide me the data` 不能说，`provide me **with** the data` 才行。
+  ★ 这与 #0018 的 A 派/B 派测试用的是**同一句测试语**，但管的是两件事：
+  　#0018 管"能不能接人＋to do"，本条管"能不能接人＋物"。
+  按 §3.5 A4，本次是 ❌ 且不是建号那次 ⇒ 毕业线抬到 3。
 
 <details><summary>原始行（旧表逐字，旧号 E-186）</summary>
 
@@ -444,7 +486,7 @@ K（她点名）
 </details>
 
 ## #0017 「我没想到 urge」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F01
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F01
 
 **问题是什么**
 K（她点名）
@@ -457,10 +499,20 @@ K（她点名）
 正确：`urge` ＝ **A 派**（sb ＋ to do），力劝/催促，比 advise 强一档：`**urge sb to do** sth`<br>★ 归位到她已有的两派表：<br>　**A 派**（放人＋to do）：urge · advise · require · ask · expect · force · allow · tell<br>　**B 派**（放事）：suggest · recommend · propose ＋ doing 或 that 从句；demand · insist ＋ that 从句或名词
 
 **中文触发点**
-「我没想到 **urge**」　⚠️待补完整句
+- 2026-08-19　教练力劝他退出这场比赛。
+- （更早）「我没想到 **urge**」　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组5（当日 2 次，取最后一次）
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 5 题
+  旧题面是她的原话「我没想到 urge」，本次补成完整句「教练力劝他退出这场比赛」。
+  她写 `the coach **urged him to** exit the competition` —— urge 调得出来，A 派框架也对
+  ⇒ 连对 2，🎓。
+  📋 留痕不记：`exit the competition` → 更好 `**withdraw from** the race / pull out of`。
+  判据（§0.8 造反例）：体育报道确实说 `England exited the tournament`，但那是**被淘汰出局**；
+  这里说的是主动退赛 ⇒ withdraw 更准。她的勉强成立，不判错。
+  📋 题面从原稿的「医生力劝」改成「教练力劝」：原稿会把 doctor 送到同组第 6 题，
+  而第 6 题（#0186）考的正是"别用 doctor"——那是反向提示，§6 禁止。
 
 <details><summary>原始行（旧表逐字，旧号 E-254）</summary>
 
@@ -1046,7 +1098,7 @@ K
 </details>
 
 ## #0037 ① 心理疏导 ② 病情 ③ 政府计划提高退休年龄
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F02
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F02
 
 **问题是什么**
 待排序　U（待定）
@@ -1059,10 +1111,19 @@ K
 正确：① **counselling** ／ psychological **support**（"心理疏导"的行话）② a patient's **condition**（★ condition＝医学固定词"病情"；situation＝泛指的局面）③ **plans** to raise（中文"计划"＝plan；propose＝向别人提议，语义偏一格）
 
 **中文触发点**
-① 心理疏导 ② 病情 ③ 政府**计划**提高退休年龄
+- 2026-08-19　灾后有专业人员为幸存者提供心理疏导。（只行使①心理疏导；②病情 condition、③计划 plans 两点未测）
+- （更早）① 心理疏导 ② 病情 ③ 政府**计划**提高退休年龄
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组8（当日 2 次，取最后一次）
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 7 题
+  本条原有三个点（①心理疏导 ②病情 ③政府计划），本次题面只逼出第①个：
+  「灾后有专业人员为幸存者提供心理疏导」。她写 `counseling`（美式拼写，英式 counselling，都对）
+  ⇒ 考点命中 ✅，连对 2，🎓。
+  ⚠️ **②病情 condition ／ ③计划 plans 这两个点今天没有被行使**，条目里保留，
+  以后要单独出题验。
+  📋 同句 `provided the survivors counseling` 缺 with，记在 #0014。
+  📋 `the specialists` 泛指用零冠词更好：`Specialists provided counselling for the survivors`。
 
 <details><summary>原始行（旧表逐字，旧号 E-261）</summary>
 
@@ -1357,7 +1418,7 @@ P3 硬编名词块　R · P3
 </details>
 
 ## #0047 材料比去年贵得多，总成本也就上去了
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F03
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F03
 
 **问题是什么**
 P11 搭配　R · P11
@@ -1370,10 +1431,18 @@ P11 搭配　R · P11
 正确：**materials are more expensive** ／ **prices are higher** ／ prices have risen<br>★ 判据：**expensive 修饰【东西】，price 只能 high/low** —— price is expensive 是典型中式搭配<br>★ 她自评「感觉写好绕」**语感准**，绕的地方正好藏着这个错
 
 **中文触发点**
-**材料比去年贵得多，总成本也就上去了**（08-18 题面加死：原「材料**涨价**后」最自然是 prices rise / go up，`price + expensive` 那个搭配点根本不出场。改成「材料**贵**」后，她若仍写 `the prices of materials are more expensive`，原错原样复现）
+- 2026-08-19　隔壁超市的价格比这里高不少。（★ 题面加死：用「价格」作主语，不许拿「超市」当主语 —— 08-19 她走 `the supermarket is more expensive`，整句正确但考点整块绕过，记 ◎）
+- （更早）**材料比去年贵得多，总成本也就上去了**（08-18 题面加死：原「材料**涨价**后」最自然是 prices rise / go up，`price + expensive` 那个搭配点根本不出场。改成「材料**贵**」后，她若仍写 `the prices of materials are more expensive`，原错原样复现）
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组3（当日 2 次，取最后一次）
+- 2026-08-19 ◎ D2 学习日 C2·组2 第 2 题（题面的问题，不是她的问题）
+  题面「隔壁超市的价格比这里高不少」，她写
+  `the neighboring supermarket **is much more expensive** than this place`。
+  ★ **整句完全正确** —— 超市（东西/地方）本来就可以 be expensive。
+  但她把主语从"价格"换成了"超市"，`price + expensive` 这个搭配点**根本没出场** ⇒ 记 ◎，streak 不动。
+  ⇒ 题面已加死（见下方中文触发点 2026-08-19 那行），下次必须以"价格"作主语，绕不过去。
+  更好（考点想要的那条路）：`**Prices** at the supermarket next door **are much higher** than here.`
 
 <details><summary>原始行（旧表逐字，旧号 E-255）</summary>
 
@@ -1549,7 +1618,7 @@ K　0/3 抽查
 </details>
 
 ## #0055 主语与谓语的数不一致（主语紧挨谓语）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-18 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 谓语没跟着主语的数走。**主语就在谓语旁边、不隔长短语**的那一类。
@@ -1570,13 +1639,24 @@ K　0/3 抽查
 **找法**：每个谓语都问一次"它的主语是谁、是单还是复"。
 
 **中文触发点**
-没人说得清它们为什么偶尔管用
+- 2026-08-19　这家公司这些年建了三座新工厂。
+- （更早）没人说得清它们为什么偶尔管用
 
 ### 历史记录
 - 2026-08-13 ✅ 迷你复习
 - 2026-08-16 ✅ 复习日 C1·组7　（当日 2 条，按最后一次记）
 - 2026-08-18 ❌ D1 学习日 C2·组8　（当日 3 条，按最后一次记）
   ⚠️ 已并入 #0063 #0066 #0067 #0081 #0240 的历史
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 1 题　★靶子2
+  题面「这家公司这些年建了三座新工厂」——**故意把三单和"了"叠在一个动词上**
+  （对应累计实例里的 `China build → China has built`）。
+  她写 `the company **has built** three factories in recent years`：三单 ✅、完成时 ✅，两层同时对。
+  ⇒ 连对 1（毕业线仍 3）。
+  📋 留痕：她漏掉了「新」（three factories 而不是 three new factories）。
+  **判定：不算 #0126。** 判据 —— #0126 记的是"删掉那一层意思就变了"的修饰；
+  `build a factory` 本身已含新建义，`three factories` 与 `three new factories` 传达的事实相同。
+  这条边界已写进 #0126：**删掉后意思变了才算丢，删掉后意思不变的冗余修饰不算。**
+  📋 `complany` 按 §3.2 手滑豁免（拼成的不是另一个真词）。
 
 <details><summary>原始行（旧表逐字，旧号 E-068）</summary>
 
@@ -2063,7 +2143,7 @@ U · 待排序　0/2
 </details>
 
 ## #0079 ⭐⭐ 名词+名词主动产出
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 K → drill（08-18 当场上）　0/2
@@ -2076,10 +2156,20 @@ K → drill（08-18 当场上）　0/2
 正确：★ **先纠正一个前提：她已经在产出了，只是不自知。** 08-18 一天之内她自发写出的名词+名词：`retirement age`（组1）· `pension spending`（组4）· `language barrier`（组5）· `school uniforms`（组5）· `medical resources`（组5）· `total cost`（组4/5）⇒ **不是不会，是【见过的能用、没见过的不敢拼】** —— 与 [[E-039]] 装备（名词块存在性测试）是同一件事的两面<br>**四条构造规则**<br>　① 第一个名词**一律单数**：`house prices`（不是 houses prices）· `car park` · `book shop`　例外：sports car · arms race<br>　② **冠词管【整个块】、跟定指性走**（08-18 她质疑后更正；原写「第一个名词不带冠词」是错的）：`Material prices have risen`（泛指不加）／ `The material prices in this contract are fixed`（特指照加）。真正的限制是**第一个名词不能自带限定词**：✗ `these material prices` 想表「这些材料的价格」<br>　③ **复数只加在第二个名词上**：house price**s** · job opportunit**ies**<br>　④ **重音在第一个词上**（读出来能自查：HOUSE prices）<br>**三种必须退回 of 的情况（对照组）**<br>　① 第一个名词**定指**：`the price of **these** materials`（不是 these material prices）<br>　② 第一个名词**自己带修饰语**：`the cost of **imported** materials`<br>　③ **这个组合你没见过** → 别拼，拆回主谓（＝E-039 装备）：❌ `the leaving-school time of students` ❌ `water cleaning factory`<br>★★ **给她的是【封闭池】不是造词许可**（照 [[feedback_writing_reuse_pool]]：固定小池、篇间复用、不扩散）—— 池见 §9 新增块
 
 **中文触发点**
-⭐⭐ **名词+名词（`material prices` 这类复合名词）主动产出**　⚠️待补完整句
+- 2026-08-19　银行的平均等候时间是二十分钟。（"等候时间"用名词＋名词那个形式）
+- （更早）⭐⭐ **名词+名词（`material prices` 这类复合名词）主动产出**　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·E-303 drill
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 9 题
+  旧题面是她的原话（"看得懂但很难主动用"），本次补成完整句并按 §6 点名结构：
+  「银行的平均等候时间是二十分钟。（"等候时间"用名词＋名词那个形式）」
+  她写 `The average **waiting time** at the bank is 20 minutes` ——
+  **`waiting time` 是她此前没写过的组合，自己拼出来了** ⇒ 连对 2，🎓。
+  ★ 这条印证了建号时那句判断：她不是不会，是"见过的能用、没见过的不敢拼"。
+  一旦题面点名"用名词+名词"，她拼得出来。⇒ **下一步不是继续教构造规则，是把它变成默认反应**，
+  只能靠限时作文里重复，单点 drill 已经没有诊断价值。
+  📋 `20` 在作文里要拼成 `twenty`（两位数以内拼写），复习组不记。
 
 <details><summary>原始行（旧表逐字，旧号 E-303）</summary>
 
@@ -2307,7 +2397,7 @@ P5 拼写　R · P5
 </details>
 
 ## #0091 偶尔
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F05
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F05
 
 **问题是什么**
 P5 拼写（真错，不是手滑：双写字母的规则没定）　R · P5
@@ -2320,10 +2410,19 @@ P5 拼写（真错，不是手滑：双写字母的规则没定）　R · P5
 正确：`occasionally`（**两个 c、一个 s、两个 l**；记法：oc-ca-sion-al-ly，只有 c 和 l 双写）
 
 **中文触发点**
-偶尔　⚠️待补完整句
+- 2026-08-19　他只是偶尔来一次办公室。（"偶尔"这个副词，用 occasion 那个词根变出来的）
+- （更早）偶尔　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ❌ D1 学习日 C2·组6
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 3 题
+  旧题面是光杆「偶尔」，本次补成完整句并按 §6 点名词元不给拼写
+  （"用 occasion 那个词根变出来的副词"）。她写 `occasionally` —— 两个 c、一个 s、两个 l，全对。
+  ⇒ 连对 1。
+  📋 同句另一处 `comes **the** office`（缺 to）记在 #0001。
+  📋 顺带用对：`**only** comes … occasionally` ——「只是」这一层落地了。
+  这是靶子1（#0126）今天第一次在句子里守住范围限定词，但按 §3.2 同日只按最后一次记，
+  #0126 组 1 已正式判 ❌，此处只留痕、不推进它的 streak。
 
 <details><summary>原始行（旧表逐字，旧号 E-237）</summary>
 
@@ -3161,7 +3260,7 @@ P12 句法小结构　R · 挂代号 P12
 </details>
 
 ## #0120 even these methods are… → even if these methods are…
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-13 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F07
 
 **问题是什么**
 P12 连词缺失　R · P12
@@ -3174,10 +3273,21 @@ P12 连词缺失　R · P12
 正确：**even if** these methods are…
 
 **中文触发点**
-即使这些方法几乎无效
+- 2026-08-19　即使加班，他们也赶不上这个截止日期。
+- （更早）即使这些方法几乎无效
 
 ### 历史记录
 - 2026-08-13 ✅ 迷你复习
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 4 题
+  题面「即使加班，他们也赶不上这个截止日期」，她写 `**Even though** working overtime, …`。
+  本条考点＝**even 不能光杆**，必须带连词。她带了（though）⇒ ✅，连对 2，🎓。
+  ⚠️ 同句另有三处，都是**别的规则**，不影响本条判定：
+  · `even though` 该是 `even if`（假设 vs 事实）→ 见 #0261
+  · `though` 后面接了 -ing 没有主谓 → 见 #0260
+  · `catch up with the deadline` 搭配错 → 见 #0262
+  为什么不把这些算进本条：按 §3.5 三问，本条的规则句是"even 后面必须有连词"，
+  另几条的规则句各不相同，要另起几句话讲。
+  反向验也成立 —— 今天她本条过了、那几条没过 ⇒ 可独立取值。
 
 <details><summary>原始行（旧表逐字，旧号 E-063）</summary>
 
@@ -3261,7 +3371,7 @@ P12 情态（would＝虚拟/委婉）　R · P12
 </details>
 
 ## #0124 Chinese traditional medicine → traditional Chinese medicine
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F07
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F07
 
 **问题是什么**
 P11 固定语序　R · P11
@@ -3279,6 +3389,16 @@ P11 固定语序　R · P11
 ### 历史记录
 - 2026-08-16 ✅ 复习日 C1·组7（当日 2 次，取最后一次）
 - 2026-08-18 ✅ D1 学习日 C2·组8（当日 2 次，取最后一次）
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 6 题（顺带）
+  「诊所里有三名中医」，她写 `**Chinese traditional** medicine practitioners`。
+  ⇒ **08-18 刚 🎓，隔一天原样复发**，一个字都没变。
+  正确：`**traditional Chinese** medicine`。
+  ★ 记法（英语形容词的固定顺序）：
+  　**观点 → 大小 → 年龄/新旧 → 形状 → 颜色 → 来源/国别 → 材料 → 用途**
+  　`traditional`（性质/年龄）排在 `Chinese`（国别）**前面**，所以是 traditional Chinese medicine。
+  　同族：`a beautiful **old Italian** table` · `a **small round wooden** box` · `**modern Japanese** architecture`
+  **找法**：国别形容词（Chinese / Japanese / French）几乎永远紧贴名词，别的形容词都排在它前面。
+  按 §3.3，🎓 之后再犯 ⇒ 回在池、连对归零、毕业线定 3。
 
 <details><summary>原始行（旧表逐字，旧号 E-081）</summary>
 
@@ -3882,6 +4002,43 @@ U · 待排序　0/2
 
 </details>
 
+
+## #0260 从属连词后面必须是完整从句，不能直接接 -ing
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F07
+
+**问题是什么**
+`if / though / although / because / when / while / unless` 这类**从属连词**引出的是**从句**，
+从句必须有自己的**主语＋变位动词**。后面直接跟 -ing 或名词短语就塌了。
+　❌ `Even though working overtime, they cannot …`
+　✅ `Even **if they work** overtime, they cannot …`（补主语，动词变位）
+　✅ `**Even working** overtime, they cannot …`（把连词删掉，只留分词 —— 也成立，但更口语）
+　✅ `**Despite working** overtime, they cannot …`（换成介词 despite，介词才接 -ing）
+★ 两类词，接的东西不一样，这是整条的要害：
+　**连词**（if · though · although · because · when · while）→ 后面接**从句**（有主谓）
+　**介词**（despite · in spite of · with · after · before）→ 后面接**名词 / -ing**
+　⚠️ 特别容易串的一对：`although` 是连词、`despite` 是介词，中文都译"尽管"。
+　　❌ `despite he worked hard`　✅ `despite working hard` ／ `although he worked hard`
+**找法**：写完连词，立刻问一句 —— 后面有没有一个"谁 + 做了什么"？没有就是塌的。
+⚠️ 与 #0143 不是一条：#0143 管的是**分词短语的逻辑主语要与主句一致**（悬垂），
+　本条管的是**连词后面缺主谓**。她今天是把两类词混用了：用了连词却接了分词。
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组2 第 4 题
+
+**我错在哪**
+她的：`**Even though working overtime**, they cannot catch up with the deadline.`
+正确：`**Even if they work overtime**, they will still miss the deadline.`
+
+**中文触发点**
+虽然价格降了，销量还是没起来。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 4 题（顺带）
+  查重（§3.5 B0）：grep 了「从句」「悬垂」「although」「though」「片段」，
+  F07 里最近的是 #0143（`, suggesting we leave early` 是分词短语不是从句，讲悬垂规则）。
+  与 #0143 三问：问 1 不成立 —— #0143 的改正动作是**换主语让分词的逻辑主语对上**，
+  本条的改正动作是**给从句补主语和变位动词**。问 2 也不成立，要另起一句话讲。⇒ 新建。
+
 ---
 
 # F08 词义/近义辨析
@@ -4100,7 +4257,7 @@ P11 语义重复　R · P11
 </details>
 
 ## #0163 is not completely understandable → is not completely unreasonable
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-13 ｜ 族 F08
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F08
 
 **问题是什么**
 P11 语义反转　R · P11
@@ -4112,11 +4269,28 @@ P11 语义反转　R · P11
 她的：is not completely **understandable**
 正确：is not completely **unreasonable**
 
+★ **2026-08-19 扩写（她当场提出的困惑，§2③）**：她说「知道 there is no point doing 但这是没意义」。
+两个中文都带"没"，英文完全不是一回事，别串：
+　**「没道理 / 站不住脚」**（讲的是**有没有依据**）
+　　`not completely **unreasonable**`（并非全无道理，最贴题面）
+　　`not **unfounded**`（不是没根据的）· `not without **merit**`（不是全无可取）
+　　`There is some **truth** in what he says.`（他说的有点道理）· `He has a **point**.`（最省，口语书面都行）
+　**「没意义 / 没用」**（讲的是**做了也白做**）
+　　`There is no **point** (in) doing sth.` · `It is **pointless** to do sth.` · `It **makes no sense** to do sth.`
+**找法**：中文的"没道理"问的是 reason，"没意义"问的是 point。写之前先分清问的是哪一个。
+
 **中文触发点**
-这个趋势并非无法理解
+- 2026-08-19　他的担心并非全无道理。
+- （更早）这个趋势并非无法理解
 
 ### 历史记录
 - 2026-08-13 ✅ 迷你复习
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 8 题　**（未产出，不是写错）**
+  题面「他的担心并非全无道理」，她答「不会，知道 there is no point doing 但这是没意义」。
+  ⇒ 按 §3.2，❌ 含"答不出"，此处注明：**是没写出来，不是写错了**。
+  ★ 她自己把两个中文说法分开了（"没道理"≠"没意义"）——**诊断准确，缺的是词**，
+  所以解药是给词，不是讲规则。已按 §2③ 把两组词写进上面的「我错在哪」。
+  按 §3.5 A4，本次是 ❌ 且不是建号那次 ⇒ 毕业线抬到 3。
 
 <details><summary>原始行（旧表逐字，旧号 E-060）</summary>
 
@@ -4684,7 +4858,7 @@ K
 </details>
 
 ## #0186 「这里我不想用 doctor，因为我不确定中医是不是医生」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F08
 
 **问题是什么**
 ✅+ 她的判断
@@ -4697,10 +4871,19 @@ K
 正确：✅+ **她的判断准确**：英美语境里 TCM practitioner **不是** licensed physician（医生），`practitioner` 才是标准且中立的说法。<br>★ 同族：`a medical practitioner`（执业医师）· `a general practitioner (GP)`（全科医生）· `an alternative-medicine practitioner`<br>★ 她同题另一处也自主升级：用 **treat**（治疗）而非档案里的 cure（治愈）——**treat 更准**，因为宣称的是能治，不是能治愈
 
 **中文触发点**
-「这里我不想用 doctor，因为我不确定中医是不是医生」　⚠️待补完整句
+- 2026-08-19　诊所里有三名中医。
+- （更早）「这里我不想用 doctor，因为我不确定中医是不是医生」　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组8
+- 2026-08-19 ✅ D2 学习日 C2·组2 第 6 题
+  旧题面是她的原话，本次补成完整句「诊所里有三名中医」。
+  她写 `three Chinese traditional medicine **pactitioners** / doctors` ——
+  首选是 practitioner ⇒ 考点命中 ✅，连对 2，🎓。
+  📋 `pactitioners` 漏了一个 r，拼成的不是真词 ⇒ §3.2 手滑豁免。
+  📋 她给的备选 `doctors` 正是本条要避开的词 —— 提醒一句：08-18 你自己的判断是对的，
+  TCM practitioner 不是 licensed physician，写作里就用 practitioner，别给自己留 doctor 这个后路。
+  📋 同句 `**Chinese traditional** medicine` 语序错，记在 #0124。
 
 <details><summary>原始行（旧表逐字，旧号 E-240）</summary>
 
@@ -4904,6 +5087,40 @@ P11　R · P11
   全档只命中本场今天写的记录，零条目 ⇒ 新建。
   与 #0258（company/firm/business 分工）不合并：都是 F08 近义词边界的格式，
   但换的是完全不同的词组，问 1、问 2 都不成立。
+
+
+## #0262 deadline 配 meet / miss，不配 catch up with
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F08
+
+**问题是什么**
+`deadline` 的固定动词就那几个，别自己拼：
+　**meet** a deadline　　赶上、按期完成　　`They failed to **meet** the deadline.`
+　**miss** a deadline　　没赶上　　　　　　`They will still **miss** the deadline.`
+　**set / extend / bring forward** a deadline　定 / 延后 / 提前
+　**work to** a deadline　按期限干活
+　❌ `catch up with the deadline` —— `catch up with` 是"追上（落在后面的人/进度）"，
+　　对象是人或进度，不是期限：`catch up with the rest of the class` ✅
+**找法**：写 deadline 前先想 —— 我要说的是"赶上"（meet）还是"没赶上"（miss）。
+★ 与 #0180（提前＝ahead of the deadline / early）是同一个词的**不同**问题：
+　那条管"提前"这个状语怎么说，本条管配哪个动词（§3.5 误判2：同一个词的两个问题不是同一条）。
+★ 与 #0187 相关：deadline 类的截止时间点用 `**by**`（`by Friday`，含周五）。
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组2 第 4 题
+
+**我错在哪**
+她的：`they cannot **catch up with** the deadline`
+正确：`they cannot **meet** the deadline` ／ `they will still **miss** the deadline`
+
+**中文触发点**
+这个组按期完成了任务。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 4 题（顺带）
+  查重（§3.5 B0）：grep 了 `deadline`、「截止」，命中 #0180（提前 ↔ ahead of the deadline）
+  与 #0187（by Friday 表截止）。两条都不是同一条：
+  #0180 换的是**状语**（"提前"怎么说），#0187 换的是**介词**（by / before），
+  本条换的是**动词**（meet / miss）。问 1 三者互不相同 ⇒ 新建。
 
 ---
 
@@ -5881,6 +6098,41 @@ K（策略，需在下一篇作文里验）　0/3
 `必须承认，这个趋势并非无法理解|Admittedly, this trend is **not completely unreasonable**|~~not hard to understand~~ ⛔ **08-16 改判：这是教练改了她的意思，不是她的错误**。她说的是 **not completely unreasonable**（并非完全不合理），目标说的是 **not hard to understand**（并非无法理解）——**两个不是同一个命题**，而中文触发点是照教练版写的。拿它去考她＝测"能不能复现教练的改写"。⇒ **第②类，移出中译英组**；档案标注为「教练改写，非她的错误」|第②类 · 教练改写|不出中译英|`
 
 </details>
+
+
+## #0261 even if（假设）／ even though（已成事实）
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F14
+
+**问题是什么**
+中文都译"即使／就算／尽管"，英文分两件事：
+　**even if** ＝ **假设**，这件事还没发生、也可能不发生
+　　`Even if they work overtime, they will still miss the deadline.`（就算加班——不一定真加）
+　　`Even if it rains, the match will go ahead.`
+　**even though** ＝ **已成事实**，这件事确实是这样
+　　`Even though they worked overtime, they still missed the deadline.`（他们确实加了班）
+　　`Even though he is only twenty, he runs the whole department.`
+**找法**：问一句 —— 这件事**是真的发生了**，还是**只是假设**？发生了用 though，假设用 if。
+　中文有个好用的信号：带「就算 / 哪怕」通常是 even if；带「虽然 / 明明」通常是 even though。
+⚠️ 与 #0120 不是一条：#0120 管的是**even 不能光杆**（后面必须带 if 或 though），
+　本条管的是**带哪一个**。她今天正好是 #0120 过了、本条没过 ⇒ 可独立取值。
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组2 第 4 题
+
+**我错在哪**
+她的：`**Even though** working overtime, they cannot catch up with the deadline.`
+题面「即使加班」是假设（还没加），应该是 `Even **if** they work overtime`。
+（同句"连词后面缺主谓"那一层记在 #0260）
+
+**中文触发点**
+就算明天下雨，比赛也照常进行。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组2 第 4 题（顺带）
+  查重（§3.5 B0）：grep 了 `even if`、`even though`、「即使」、「尽管」，
+  命中 #0120（even 不能光杆）与 #0247（尽管走投无路…，那条考的是 desperation 这个词）。
+  与 #0120 三问：问 1 不成立 —— #0120 的改正动作是**补一个连词**，本条是**换成另一个连词**；
+  问 2 也不成立，一个讲"要不要连词"、一个讲"选哪个"。⇒ 新建。
 
 ---
 
