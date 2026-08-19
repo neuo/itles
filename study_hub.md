@@ -10,8 +10,8 @@
 ```
 🆕🆕 **2026-08-18 · 口语训练线 v2 上线（结构性变更）**
      方法真源 ＝ `.claude/skills/fluency-lab/SKILL.md`（v2，247 行；v1 1161 行归档在 speaking-band7/_archive/）
-     数据真源 ＝ **`speaking-band7/lab/`**（problems.md 170 条未毕业 ／ graduated.md 83 ／ methods.md 35 ／
-     redo_queue.md 31 道 ／ cycles.md ／ sessions/）。老 `coach/fluency_lab.md` 70 万字**只读归档，不再写入**。
+     数据真源 ＝ **`speaking-band7/lab/`**（problems.md ＝ 唯一问题文件，253 条 ＝ 未毕业 164 ＋ 已毕业 89 ／
+     methods.md 35 ／ redo_queue.md 31 道 ／ cycles.md ／ sessions/）。老 `coach/fluency_lab.md` **只读归档**。
      新流程（她定的七条 ＋ 十条裁决）：**4 个有行为的练习日一循环 = 学习 学习 学习 付息**；
      学习日 ①复习 D-1＋D-3 →②回看 D-1 新题四件套 →③新题 1 道（保底做）→④收尾；
      付息日 ⓪回看 → a 本周期全量 → b **向前抽样**（最久没测优先）→ c 合并去重 → d 重答 0–X 道。

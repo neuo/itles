@@ -39,21 +39,22 @@ else
   bad "wc -l = $real ，§0.1 写着 $declared —— 三个数（行数/学习日合计/百分比）都要重算"
 fi
 
-# ── ② 工具脚本：SKILL 里点名的三个脚本必须存在且能跑（v2 起，替代原 G6 断言条数）──
+# ── ② 统计脚本已废除（她 2026-08-18 定）：SKILL 里不许再有【可执行的】脚本调用 ──
 echo
-echo "-- ② 工具脚本 --"
+echo "-- ② 统计脚本已废除 --"
 tool_bad=0
-for t in writing-band7/drill/snapshot.py writing-band7/drill/queue.py writing-band7/drill/pick_question.py; do
-  if [ ! -f "$t" ]; then bad "SKILL 点名的 $t 不存在"; tool_bad=1
-  elif ! python3 -c "compile(open('$t',encoding='utf-8').read(),'$t','exec')" 2>/dev/null; then
-    bad "$t 语法错，跑不起来"; tool_bad=1
-  fi
+# 唯一保留的可执行工具
+if [ ! -f writing-band7/drill/pick_question.py ]; then
+  bad "抽题脚本 pick_question.py 不存在"; tool_bad=1
+elif ! python3 -c "compile(open('writing-band7/drill/pick_question.py',encoding='utf-8').read(),'x','exec')" 2>/dev/null; then
+  bad "pick_question.py 语法错"; tool_bad=1
+fi
+# snapshot / queue / difftext 只许作为【历史说明】出现，不许出现在可执行指令里
+for t in snapshot queue difftext; do
+  hits=$(grep -nE "(python3|跑|执行)[^\n]*${t}\.py" "$SKILL" | grep -v '停用\|已废\|废除\|教训\|08-1[0-9] ' || true)
+  if [ -n "$hits" ]; then bad "SKILL 里仍有 ${t}.py 的可执行调用：$hits"; tool_bad=1; fi
 done
-# SKILL 里提到的脚本路径必须都在上面这份名单里（防写了个不存在的工具）
-for t in $(grep -oE 'writing-band7/drill/[a-z_]+\.py' "$SKILL" | sort -u); do
-  [ -f "$t" ] || { bad "SKILL 引用了不存在的脚本 $t"; tool_bad=1; }
-done
-[ $tool_bad -eq 0 ] && ok "三个工具脚本齐全且可编译"
+[ $tool_bad -eq 0 ] && ok "统计脚本已全部退出执行路径，只剩 pick_question.py"
 
 # ── ③ 模式计数器行数：profile §5 实际行 vs 全库"N 行"的说法 ────────────
 echo
