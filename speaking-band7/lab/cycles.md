@@ -70,3 +70,46 @@ R   待填（合并记录写这里）
 4 #21/#22（often／usually）题面互斥，同一组里最多出一条
 5 #97/#103 共用 M34 判据、#113/#118 共用 M35 判据 —— 各出各的题，不合并
 ```
+
+## 🔍 08-19 全库判重扫描（她质疑"140 未毕业里很多其实已毕业"后做的）
+
+方法：254 条全量取【标题里的英文目标形式】＋【中文题面】，未毕业 × 已毕业 两两比对（共享 ≥2 个实词 / 同题面）。
+
+**A. 真重复 —— 核心块已经毕业，却还有一条未毕业的号在池子里（5 对）**
+```
+#11  no questions asked          ↔ 🎓#188 for any reason ＋ no questions asked   ← **同题面**"七天无理由退货。"
+     ⇒ 08-19 我在 #11 上判了她 ❌，而这个块的号 08-15 就毕业了。她的怀疑在这条上完全命中
+#62  drive past（past 是介词）    ↔ 🎓#187 drive past sth／drive down that road
+#95  look after／be after／look for ↔ 🎓#228 look after sb（＋ look for 又与未毕业的 #100 重）
+#68  stuck in traffic ＋ rush hour ↔ 🎓#185 the morning rush hour（＋ stuck in traffic 与 #61 重）
+#75  complain ABOUT ＋ other than  ↔ 🎓#229 complain 不及物（＋ rather than 与 🎓#245/#246 重）
+```
+**B. 规则打架（不是重复，是两条说反了）**
+```
+#66 audience 作整体配单数动词  ⚔️  🎓#191 集合名词单复数都合法（family/audience/team）
+⇒ 08-19 她答 all the audience laugh：按 #66 该判错，按 #191 是对的。事实是英式复数成立、美式偏单数。
+⇒ #66 应改写成"美式默认单数"或直接并入 #191
+```
+**C. 部分重叠（不合并，但题面必须改成互斥）**
+```
+#16 让某人做某事四件套 ↔ 🎓#143 哪些动词后面要带 to      （同一条规则的两个角度，今天双双毕业）
+#70 I wouldn't go THAT far ↔ 🎓#250 that far vs too far
+#105 keep one eye on the future ↔ 🎓#240 keep an eye ON sth
+#84 every time/whenever → 现在时 ↔ 🎓#181 同一条
+#67 put it away（代词位置） ↔ 🎓#51 put sth away（词义）
+#44 He cooks well ↔ 🎓#202 speak English well（副词修饰动作）
+```
+**D. 未毕业内部重复**
+```
+#75 ↔ #88   同题面"与其抱怨，他直接就干了。"
+#95 ↔ #100  look for
+```
+
+**根因**：v1 的 B 表是**按天追加**的，从来没有"新建前先搜已有"这一步；288 行整体搬进 v2 时也只做了
+一号一条的形式迁移，没做去重。⇒ 池子里的重复是**继承来的**，不是每天新产生的。
+
+**已改 skill**：§3.1 加【判重三步】（先定目标英文形式 → grep 含已毕业 → 三档判据）＋【一条＝一个考点】；
+§5c 的判重标准从"逐字相同"放宽到"同一个词组／同一条规则"，并写明必须跨已毕业一起判。
+
+**待做（第一个付息日 c 段，或她说现在就做）**：A 的 5 对合并 · B 的冲突改写 · C 的 6 对改互斥题面 ·
+D 的 2 对合并 · 捆绑条目（#95 #75 #68 #105）拆号。
