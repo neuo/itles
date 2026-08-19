@@ -69,9 +69,13 @@
 
 ### 7 · 比较级三条（短词 -er／长词 more／much·far·a lot 后必须比较级）
 类型 语法 ｜ 题面 "比十年前吵多了。" ／ "脆弱得多。" ｜ 旧号 B19
-状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
+状态 连对0 连错1 上次2026-08-19 未毕业 ｜ **回潮（当天毕业当天回潮）**
 - 2026-08-17 ✅ 首次进流
-- 2026-08-19 ✅ `much noisier than it was ten years ago` ＋ `much more fragile`（三条规则全中）
+- 2026-08-19 ✅ `much noisier than it was ten years ago` ＋ `much more fragile`（三条规则全中）→ 当时判毕业
+- 2026-08-19 ❌ 同日第 9 组 · `much convenient`——much 后面没跟比较级
+  ⇒ 两次都是 cold，按"以最后一次为准" ⇒ **撤销毕业，连对清零重新入池**
+- 备注 分诊：**短词加 -er 她已自动化（noisier／cheaper 都对），长词要加 more 的那一半没装上**
+  ⇒ 重新入池后只测长形容词（convenient／important／difficult／expensive）
 
 ### 8 · 群组用 in，论坛用 on（in an online group／on a forum）
 类型 搭配 ｜ 题面 "我在一个网上群里认识他们的。" ／ "我在一个养宠物的群里加了个好友。" ｜ 旧号 B20＋B130
@@ -124,6 +128,8 @@
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `I used to go to the gym.`（连错五天后连对两次）
 - 2026-08-19 ❌ 同日复习#66 句里 · "全场观众都笑**了**" → `all the audience laugh`（过去式没标）
+  ｜同日第三次：`I want to buy a pack of napkins and there is a promotion`（中文"结果…"是已发生）
+  ⇒ 一天里三次都是"中文有 了／结果，英语停在现在时" —— **次日给本条一次专门的 cold 测**
   ⇒ 按"同一天先对后错、两次都是 cold 以最后一次为准" ⇒ 本日记 ❌，连对清零
   （同日第 6 组 `sales go up` 也是同一类，但那句脱离上下文能当泛述读，只提醒未记）
 
@@ -173,6 +179,7 @@
 - 2026-08-16 ❌
 - 2026-08-17 ✅
 - 2026-08-19 ❌ `I found ＿ for hours`——及物动词没带宾语（look for **it**）
+  ｜同日第二次：`There's no point regretting ＿ now`（regret 也要带宾语 it）—— 同日只记一次档位
 - 备注 primed 8/8 但 20 分钟后 cold 即掉 ⇒ 产出时掉，修法只有块化
 - ⚠️ **必须和 #134 一起读**（08-19 判重发现两条会互相带偏）：本条说"英文动词必须带宾语"，
   #134 说"decide/choose/help/manage/win 这些能单独站住"。**先查这个动词在不在 #134 的白名单里**，
@@ -248,20 +255,29 @@
   ⇒ 教练没做第二译法自查、没点名 ⇒ 题面当场加点名
 
 ### 29 · You don't have to sit in meetings all day.
-类型 词组 ｜ 题面 "不用一整天泡在会里。" ｜ 旧号 B52②
-状态 连对0 连错0 未测过
+类型 词组 ｜ 题面 **点名**："不用一整天泡在会里。"（用 sit in meetings 说一遍） ｜ 旧号 B52②
+状态 连对0 连错0 上次2026-08-19 未毕业
+- 2026-08-19 ◎ 首次进池 · 她答 `get stuck in meetings all day` 完全合法（还更生动）
+  ⇒ 教练第②类自查又漏，题面当场加点名
+- 备注 **#28–#33 这六条全部是"用块替掉平铺说法"型 ⇒ 天生第②类，出题一律点名**
 
 ### 30 · Say you fix something …（Say you… ＝ 举例起手，替 For example）
-类型 词组 ｜ 题面 "比方说你解决了一个全组都卡住的问题。" ｜ 旧号 B52③
-状态 连对0 连错0 未测过
+类型 词组 ｜ 题面 **点名**："比方说你解决了一个全组都卡住的问题。"（"比方说"用 Say 起头） ｜ 旧号 B52③
+状态 连对1 连错0 上次2026-08-19 未毕业
+- 2026-08-19 ✅ 首次进池 · 点名 · `Say you solve a problem the whole team was stuck on`
+  ⭐ 同句还自发用对三个已毕业点：关系代词省略 ＋ 介词留末尾 ＋ stuck ON
 
 ### 31 · explain YOURSELF to anyone（解释自己的行为）
 类型 搭配 ｜ 题面 "你不用跟任何人解释自己。" ｜ 旧号 B52④
-状态 连对0 连错0 未测过
+状态 连对0 连错1 上次2026-08-19 未毕业
+- 2026-08-19 ❌ 首次进池 · `you don't need to explain to anyone`——丢了 yourself
+- 备注 同族块：explain yourself／behave yourself／enjoy yourself／help yourself —— 反身代词是块的一部分
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
-类型 词组 ｜ 题面 "现在后悔也没用。" ｜ 旧号 B52⑤
-状态 连对0 连错0 未测过
+类型 词组 ｜ 题面 **点名**："现在后悔也没用。"（用 There's no point 说一遍） ｜ 旧号 B52⑤
+状态 连对1 连错0 上次2026-08-19 未毕业
+- 2026-08-19 ✅ 首次进池 · 点名 · `There's no point regretting now`（块用对）
+  ⚠️ 同句 regret 少了宾语 it ⇒ 记进 #18 当天日志，不计本条档位
 
 ### 33 · on a clear day（替 if it's clear）
 类型 词组 ｜ 题面 **点名**："天晴的时候还能看见山。"（"天晴的时候"用【介词＋名词】说，不用从句） ｜ 旧号 B52⑥
@@ -606,18 +622,23 @@
 
 ### 76 · 比较里的泛指不加 the（cheaper than new ones）
 类型 语法 ｜ 题面 "二手的比新的便宜多了。" ｜ 旧号 B124
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
 - 2026-08-17 ✅ 首次进流
+- 2026-08-19 ✅ `Second-hand ones are much cheaper than new ones.`（new ones 不带 the ＋ ones 替重复名词）
 
 ### 77 · 平台用 on，实体店用 at（on Amazon／at Walmart）
 类型 搭配 ｜ 题面 "我在亚马逊上买的。" ｜ 旧号 B125
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
 - 2026-08-17 ✅ 首次进流
+- 2026-08-19 ✅ `I bought it on Amazon.`（平台用 on；过去式也对）
 
 ### 78 · a pack of napkins ＋ the product page
 类型 词组 ｜ 题面 "我想在网上买包纸巾，结果商品页上有促销。" ｜ 旧号 B126
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-19 未毕业
 - 2026-08-17 ✅ 首次进流
+- 2026-08-19 ✅ `a pack of napkins`（量词块对）⚠️ 另一半 the **product** page 只写了 the page；
+  同句时态该落过去（记进 #12 当天日志）
+- 备注 本条是捆绑条目（a pack of ＋ the product page），下个付息日按"一条＝一个考点"拆开
 
 ### 79 · 名词壳（别用"最重要的是…"这种起手）
 类型 减法型 ｜ 题面 **点名**："最重要的一点是家长得有条理。"（别用"最重要的是…"起手，直接说家长该做什么） ｜ 旧号 B127
@@ -627,7 +648,10 @@
 
 ### 80 · than ever 必须紧跟比较级
 类型 结构 ｜ 题面 "社交媒体让联系比以前方便多了。" ｜ 旧号 B128
-状态 连对0 连错0 未测过
+状态 连对0 连错1 上次2026-08-19 未毕业
+- 2026-08-19 ❌ 首次进池 · `much convenient for people to stay in touch`——than ever 整个没出来
+- 备注 中文"比以前…多了"里的"比以前" ＝ **than ever**，且必须**紧跟比较级**：
+  more convenient than ever／easier than ever；口语里 easier 比 convenient 常用得多
 
 ### 81 · get TO know sb（to 不能省）
 类型 搭配 ｜ 题面 "现在更容易认识陌生人。" ｜ 旧号 B129
@@ -643,8 +667,10 @@
 
 ### 83 · 形容词不加复数（crucial 不是 crucials）；crucial TO
 类型 语法 ｜ 题面 "创业公司对经济很关键。" ｜ 旧号 B131
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-19 未毕业
 - 2026-08-17 ✅ 首次进流
+- 2026-08-19 ✅ `start-ups are virtual to the economy`——形容词不加复数 ＋ TO 都对
+  ⚠️ 同句选错了词（virtual 应为 vital）⇒ 新建 #255，不影响本条考点
 
 ### 84 · 条件句别纠结（every time/whenever 在场 → 现在时；说将来 → will）
 类型 语法 ｜ 题面 "如果没人愿意创业，就没那么多岗位。" ｜ 旧号 B132
@@ -688,8 +714,9 @@
 
 ### 89 · 加形容词说"哪一种"时回到 a（a diverse economy）
 类型 语法 ｜ 题面 "创业公司对多样化的经济很关键。" ｜ 旧号 B144
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-19 未毕业
 - 2026-08-17 ✅ 首次进流
+- 2026-08-19 ✅ `a diverse economy`——上一句是 the economy，加了形容词就回到 a，没被带跑
 
 ### 90 · 完成时的三个触发（for/since · ever/never/before · just/already/yet）
 类型 语法 ｜ 题面 "我从来没坐过飞机。" ｜ 旧号 B147a
@@ -1871,6 +1898,15 @@
 - 备注 判据：英语主语只能是"名词性的东西"，光秃秃的动词原形站不住 ⇒
   **句子开头是个动作 → 先给它加 -ing**（同一天她的 `Commuting every day is really a hassle` 是对的，
   同一条规则两题一对一错 ⇒ 不是不会，是产出时检查没跑）
+
+### 255 · vital（至关重要）≠ virtual（虚拟的）
+类型 词汇 ｜ 题面 "睡眠对健康至关重要。" ｜ 新建 2026-08-19
+状态 连对0 连错1 上次2026-08-19 未毕业
+- 2026-08-19 ❌ 首犯 · 复习#83／#89 两句里 · `start-ups are **virtual** to the economy`
+  ⇒ 两句都写 virtual ⇒ 不是打字滑，是存错了形
+- 备注 判据：vital ＝ crucial／essential（至关重要）｜ virtual ＝ 虚拟的（virtual reality／a virtual meeting）
+- 备注 判重（当天新建复核）：grep vital／virtual／crucial → 命中 #83（形容词不加复数；crucial TO）——
+  #83 管**形态和介词**，本条管**选哪个词**，规则不同 ⇒ 保留；#83 题面不含"关键"以外的干扰，不撞车
 
 ## 迁移说明（2026-08-18）
 
