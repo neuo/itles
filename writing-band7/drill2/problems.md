@@ -10,12 +10,12 @@
 ## 全档状态
 
 ```
-总数   236 条
-在池   181 条
-🎓     55 条
-毕业线 2 的 224 条 · 3 的 12 条
-题面待补 46 条
-最后一次全量校验 2026-08-19（C1 状态行 vs 历史重数 236/236 一致）
+总数   239 条
+在池   177 条
+🎓     62 条
+毕业线 2 的 227 条 · 3 的 12 条
+题面待补 43 条
+最后一次全量校验 2026-08-19（C1 状态行 vs 历史重数 239/239 一致）
 ```
 
 ## 族目录
@@ -24,12 +24,12 @@
 |---|---|---|---|
 | **F01** 动词框架/论元 | #0001–#0257 | 22 | 动词后面接什么、及物性、论元完整 |
 | **F02** 冠词/限定 | #0021–#0069 | 18 | a/an/the 的有无与选择、泛指定指、零冠词 |
-| **F03** 中式块/硬编 | #0039–#0250 | 12 | 自己拼出来的名词块、中文直译块 |
+| **F03** 中式块/硬编 | #0039–#0265 | 14 | 自己拼出来的名词块、中文直译块 |
 | **F04** 单复数/主谓一致 | #0048–#0251 | 25 | 含长主语后谓语被拉走、不可数名词 |
 | **F05** 拼写/形近词 | #0083–#0096 | 12 | 含构形规则、拼成另一个真词的串台 |
 | **F06** 词类混用/位置 | #0097–#0248 | 17 | 形容词副词互换、比较级构形、修饰语位置 |
 | **F07** 句法/逗号/并列 | #0049–#0260 | 37 | 逗号粘连、并列同形、语序倒装、从句、指代、大小写 |
-| **F08** 词义/近义辨析 | #0090–#0262 | 39 | 选错词、近义词边界 |
+| **F08** 词义/近义辨析 | #0090–#0264 | 40 | 选错词、近义词边界 |
 | **F09** 时态/体 | #0190–#0252 | 9 | 时态选择、时间状语与时态的配对、体的平行 |
 | **F10** 语义缺失(中文丢一层) | #0126–#0126 | 1 | 语法全对但中文明写的一层没送到 |
 | **F11** T1 数据/图表 | #0203–#0221 | 19 | 数据抄写、峰值占比、跨线对比、overview 特征选择、倍数 |
@@ -564,7 +564,7 @@ K（她点名）
 </details>
 
 ## #0020 材料价格比去年涨了很多，总成本也就上去了
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F01
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F01
 
 **问题是什么**
 U · 待排序　0/2
@@ -577,10 +577,22 @@ U · 待排序　0/2
 正确：**① 状态 vs 变化，先分清再选词**（她这个问题的真答案）<br>　状态比较（贵得多）→ `be` ＋ 比较级：`Materials **are** much **more expensive than** last year.`<br>　变化（涨了）→ `rise / go up`：`Material prices **have risen** sharply **since** last year.`<br>　🔴 **`than` 接不上 rise**：❌ `prices have risen than last year`。rise 配 **since / over the past year / compared with last year**<br>**② rise 的四条硬用法**<br>　· **不及物，永远不带宾语** ❌ `rise the price` ／ 及物的是 **raise**：`raise the retirement age` ✅（她 08-18 组 1 已用对）<br>　· **主语必须是【量/水平/价格】，不是东西本身、更不是人** ❌ `Materials rise` ／ ✅ `Material prices rise`<br>　· 不规则变位 **rise – rose – risen**<br>　· 介词三件套：`rise **to** 1.5 million`（升到）· `rise **by** 20%`（升了多少）· `rise **from** X **to** Y`<br>**③ 名词形 a rise in X** —— 直接接她 08-18 学的无生命主语：`**The rise in material prices** has pushed up the total cost.`<br>★ 与 [[E-284]]（price 不配 grow）同一个搭配位；与 [[E-280]] 无生命主语在③处合流
 
 **中文触发点**
-**材料价格比去年涨了很多，总成本也就上去了**（★ 注意与 E-255 是**两个不同的中文**：E-255「材料比去年**贵**」＝状态比较；本条「**涨了**」＝变化。用 rise 只能译后者）
+- 2026-08-19　油价从去年年初起涨了不少。
+- （更早）**材料价格比去年涨了很多，总成本也就上去了**（★ 注意与 E-255 是**两个不同的中文**：E-255「材料比去年**贵**」＝状态比较；本条「**涨了**」＝变化。用 rise 只能译后者）
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组5
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 3 题
+  题面换成「油价从去年年初起涨了不少」，她写
+  `**oil prices have risen** a lot **since** the beginner of last year`。
+  ★ 本条的四个点**一次全中**：
+  　① 主语是**价格**不是东西（oil prices，不是 oil）
+  　② rise **不及物**，后面没带宾语
+  　③ 变位对：rise – rose – **risen**
+  　④ 配 **since**，没有写成 `have risen than last year`（这正是 08-18 记下的那个红线）
+  ⇒ 连对 2，🎓。
+  📋 `a lot` 口语，作文写 `sharply / considerably / significantly`，留痕不记。
+  📋 同句 `the **beginner** of last year` 是形近真词串台，记在 #0095。
 
 <details><summary>原始行（旧表逐字，旧号 E-290）</summary>
 
@@ -1277,7 +1289,7 @@ P3 中式块＋破碎习语　R · 挂代号 P3
 </details>
 
 ## #0042 have few chances to be effective → are rarely effective
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-13 ｜ 族 F03
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F03
 
 **问题是什么**
 P3 硬编名词块　R · P3
@@ -1290,10 +1302,21 @@ P3 硬编名词块　R · P3
 正确：**are rarely effective**
 
 **中文触发点**
-这些疗法很少有效
+- 2026-08-19　这类罚款很少有效。（★ 题面加死：点名"有效" —— 08-19 原题面「起不到什么作用」被她用 it is no use doing 绕过，effective 未出场，记 ◎）
+- （更早）这些疗法很少有效
 
 ### 历史记录
 - 2026-08-13 ✅ 迷你复习
+- 2026-08-19 ◎ D2 学习日 C2·组3 第 9 题（题面的问题，不是她的问题）
+  题面「靠罚款几乎起不到什么作用」，她写 `it is almost no use fining people for littering`。
+  ★ 她走的是 `it is no use doing sth` 这个句型 —— **本身是标准句型**，
+  但本条考的是把中式块 `have few chances to be effective` 换成 `are rarely effective`，
+  `effective` 一次都没出场 ⇒ 记 ◎，streak 不动。
+  ⇒ 题面已加死（见下方中文触发点 2026-08-19 那行），点名"有效"，逼出 effective。
+  📋 `almost no use` 留痕不记：`It is no use doing sth` 是固定句型，塞进 almost 读着别扭，
+  但可解 ⇒ 按 §0.8 不判错。更自然：`There is **little point in** fining people.`
+  📋 ⚠️ **她加了题面没有的内容**：`for littering`（乱扔垃圾）—— 题面只说"罚款"。
+  中译英里自己补内容会带来两个风险：补出来的部分不是考点、且可能引入新错。提醒一次，不记。
 
 <details><summary>原始行（旧表逐字，旧号 E-059）</summary>
 
@@ -1361,7 +1384,7 @@ P11 中式块（in fact＋actually 混合）　R · P11
 </details>
 
 ## #0045 the number of the population → the number of people ／ the population（二选一，不能叠）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-18 ｜ 族 F03
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F03
 
 **问题是什么**
 P3 硬编名词块　R · P3
@@ -1374,11 +1397,23 @@ P3 硬编名词块　R · P3
 正确：**the number of people** ／ the population（二选一，不能叠）
 
 **中文触发点**
-住在曼哈顿的人数（08-16 题面加死补谓语：**住在曼哈顿的人数持续上升** —— 原为光杆 NP）
+- 2026-08-19　这个城市六十岁以上的人口数量在过去十年翻了一番。（★ 题面重写：08-19 原题面「人数…超过两成」自相矛盾——人数是绝对数、两成是比例，她写 proportion 反而更准，考点整块绕过，记 ◎。新题面用绝对数并保留"人口"二字，叠词陷阱才在场）
+- （更早）住在曼哈顿的人数（08-16 题面加死补谓语：**住在曼哈顿的人数持续上升** —— 原为光杆 NP）
 
 ### 历史记录
 - 2026-08-16 ✅ 复习日 C1·组7
 - 2026-08-18 ❌ D1 学习日 C2·组6
+- 2026-08-19 ◎ D2 学习日 C2·组3 第 6 题（**教练出题错误**，不是她的问题）
+  教练出的题面是「城市里六十岁以上的**人数**今年首次超过了**两成**」——
+  ★ **这个中文自相矛盾**：「人数」是绝对数，「两成」是比例，两者不能是同一个东西。
+  她写 `the **proportion** of people aged 60 and over … is over 20%`，
+  **她的处理比题面更准确**（比例配百分比）。本条考点（the number of + population 叠词）根本没出场
+  ⇒ 记 ◎，streak 不动。
+  📋 顺带用对：`aged 60 and over` 是标准写法，很地道。
+  📋 `is over 20% for the first time this year` 成立；更好 `has passed the 20% mark for the first time`
+  （"首次超过"是事件，完成时更准）。
+  ⇒ 题面已重写（见下方中文触发点 2026-08-19 那行），改成绝对人数并保留"人口"这个词，
+  这样 `the number of the population` 的陷阱才在场。
 
 <details><summary>原始行（旧表逐字，旧号 E-158）</summary>
 
@@ -1541,6 +1576,71 @@ P11 搭配　R · P11
   最近的是 #0043（长期治疗没有明显效果）与 #0042（have few chances to be effective），
   两条都是"名词块硬编"，改正动作是换整块；本条是**换一个动词**，问 1 不成立 ⇒ 新建。
 
+
+## #0263 出示的是证件，不是"身份"—— show ID / prove identity
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F03
+
+**问题是什么**
+中文"出示证件／证明身份"直译成 `show identity` 不成立：
+**identity 是抽象概念，看不见摸不着，能出示的只有具体的东西。**
+　**show / produce ＋ 具体的东西**：`show **ID**` · `show your **ID card**` · `show a **passport**` · `produce **documents**`
+　**prove / verify / confirm ＋ identity**：`prove your **identity**` · `verify a customer's **identity**`
+　`show **proof of identity**` 也成立 —— 因为 proof 是具体的那张纸。
+**找法**：写 show 的时候问一句 —— 后面那个东西能拿在手里吗？不能就换动词或换名词。
+★ 同一个机制的其他例子：`show **evidence**` ✅ ／ `show **honesty**` ❌（要 demonstrate honesty）
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组3 第 2 题
+
+**我错在哪**
+她的：`Libraries tend to require readers to **show their identity**`
+正确：`… require readers to **show ID**` ／ `… to **show proof of identity**`
+（同句 `Libraries … readers` 零冠词复数泛指 ✅、`require sb to do` ✅ 都对，只有这一处）
+
+**中文触发点**
+进楼之前访客要出示证件。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组3 第 2 题（顺带）
+  查重（§3.5 B0）：grep 了 `identity`、`ID`、`证件`，全档零命中。
+  又逐条看了 F03 现有 12 条：#0039–#0051 加今天新建的 #0249 #0250。
+  最近的是 #0250（企业不用 live）—— 那条换的是动词、判据是"主语是不是活物"；
+  本条判据是"宾语是不是具体物"，问 2 不成立 ⇒ 新建。
+
+## #0265 两个同义说法不要焊在一起
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F03
+
+**问题是什么**
+英语里同一个意思常有两个说法，各自都完整。**记混之后取一半拼一半，两边都不成立。**
+　❌ `over **than** three days`　　✅ `**over** three days` ／ `**more than** three days`
+　❌ `In **actually**`　　　　　　✅ `**in fact**` ／ `**actually**`（这一处记在 #0044）
+　❌ `prefer A **than** B`　　　　✅ `prefer A **to** B` ／ `would rather A **than** B`
+　❌ `the reason is **because**`　✅ `the reason is **that**` ／ `**because** …`
+　❌ `despite **of**`　　　　　　 ✅ `**despite**` ／ `**in spite of**`
+**找法**：写出来之后把它拆开看 —— 这半句能不能自己站住？两半各自都站得住，才不是焊接件。
+　`over three days` ✅ 站得住　`than three days` ❌ 站不住 ⇒ `over than` 是焊的。
+⚠️ **与 #0044 的关系**（2026-08-19 判过，没合并）：
+　#0044 讲的是 in fact ＋ actually 这**一对**；本条讲的是"焊接"这个**机制**。
+　按 §3.5 三问，问 3 不成立 —— 掌握了 in fact 不会自动让人知道 over 和 more than 是同义的。
+　⇒ 暂不合并，两条都留着。**复习日（§8④a）全档 review 时再看**：
+　　如果那时已经攒到第三个焊接实例，就把 #0044 并进本条。
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组3 第 10 题
+
+**我错在哪**
+她的：`children who has a fever **for over than three days**`
+正确：`for **more than** three days` ／ `for **over** three days`
+
+**中文触发点**
+这个项目拖了不止半年。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组3 第 10 题（顺带）
+  查重（§3.5 B0）：grep 了 `more than`、`over than`、「超过」，命中 #0246（倍数 -fold）——
+  那条讲的是倍数表达的歧义，不是焊接，问 1、问 2 都不成立。
+  与 #0044（In actually → In fact）的三问逐条写在上面「问题是什么」里：问 3 不成立 ⇒ 暂不合并。
+
 ---
 
 # F04 单复数/主谓一致
@@ -1618,7 +1718,7 @@ K　0/3 抽查
 </details>
 
 ## #0055 主语与谓语的数不一致（主语紧挨谓语）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F04
+状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 3 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 谓语没跟着主语的数走。**主语就在谓语旁边、不隔长短语**的那一类。
@@ -1647,7 +1747,18 @@ K　0/3 抽查
 - 2026-08-16 ✅ 复习日 C1·组7　（当日 2 条，按最后一次记）
 - 2026-08-18 ❌ D1 学习日 C2·组8　（当日 3 条，按最后一次记）
   ⚠️ 已并入 #0063 #0066 #0067 #0081 #0240 的历史
-- 2026-08-19 ✅ D2 学习日 C2·组2 第 1 题　★靶子2
+- 2026-08-19 ❌ D2 学习日 C2　★靶子2　（当日 2 次：组2 ✅ → 组3 ❌，按 §3.2 只按最后一次记）
+  ★★ **本条今天拿到了全天最有诊断价值的一组对照，两次写在下面：**
+  【组3 第 10 题 ❌ ← 净结果】「孩子发烧超过三天就该送医院」
+  　她写 `**children who has** a fever…`。先行词 children 是复数，从句谓语跟着写了 has。
+  　正确：`children who **have** a fever` ／ 更省：`a child with a fever lasting more than three days`。
+  【组2 第 1 题 ✅】「这家公司这些年建了三座新工厂」
+  　她写 `the company **has built** three factories in recent years` ——
+  　三单 ＋ 完成时两层同时对，这是本条累计实例里最难的形状（对应 `China build → China has built`）。
+  ⇒ **单点、句子短的时候必对；句子一长（先行词 + 关系从句 + 时间状语）就掉线。**
+  这与 #0068 的诊断完全一致：不是知识缺口，是注意力被别的东西占住时基础项掉线。
+  ⇒ 结论同 #0068：**这一条不该再做单点 drill**，只能在限时作文里验。
+  📋 组2 那次的留痕（漏掉「新」、`complany` 手滑）见 #0126 与 §3.2 手滑豁免，判定不受影响。
   题面「这家公司这些年建了三座新工厂」——**故意把三单和"了"叠在一个动词上**
   （对应累计实例里的 `China build → China has built`）。
   她写 `the company **has built** three factories in recent years`：三单 ✅、完成时 ✅，两层同时对。
@@ -1818,7 +1929,7 @@ K（判据；表达侧记 ✅+ 她的）
 </details>
 
 ## #0062 学校要求学生穿校服
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 待排序　U（待定）
@@ -1831,10 +1942,18 @@ K（判据；表达侧记 ✅+ 她的）
 正确：**Schools require students to wear uniforms**（泛指用零冠词复数，作文默认；她那句只在特指某一所学校时才对）
 
 **中文触发点**
-学校要求学生穿校服（泛指）
+- 2026-08-19　图书馆通常要求读者出示证件。
+- （更早）学校要求学生穿校服（泛指）
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组5
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 2 题
+  题面换成「图书馆通常要求读者出示证件」，她写 `**Libraries** tend to require **readers** to show…`：
+  两个泛指名词都是零冠词复数，没有回到 the library / the readers ⇒ ✅，连对 2，🎓。
+  📋 顺带用对：`require sb to do` —— A 派框架（#0003）调得出来。
+  📋 同句 `show their identity` 记在 #0263。
+  📋 同日第 6 题她写 `in the city`（题面是泛指「城市里」，泛指该用 in cities）——
+  **不记本条**：孤立句里 the city 可以是回指某个已提到的城市，成立。按 §0.8 不判假错。
 
 <details><summary>原始行（旧表逐字，旧号 E-196）</summary>
 
@@ -1918,7 +2037,7 @@ mark a peak」过宽已撤销——The trend reached its peak ✅ 完全自然�
 </details>
 
 ## #0070 ① 还有实际危害 ② 花在这些疗法上的时间 ③ 正规治疗
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 待排序　U（待定）
@@ -1931,10 +2050,20 @@ mark a peak」过宽已撤销——The trend reached its peak ✅ 完全自然�
 正确：① not only ineffective but **actively damaging**（"实际"这层可以再顶一下；她的成立）② the time **spent** on（中文"花"是中性，wasted 加了主观判断）③ proper **treatment**（"治疗"作行为不可数；treatments＝具体疗程）
 
 **中文触发点**
-① 还有**实际**危害 ② **花**在这些疗法上的时间 ③ 正规治疗
+- 2026-08-19　他们花在正规治疗上的时间因此少了很多。（⚠️ 出题备注：孤立句里别再放"因此/所以"，前因不在题面里，逼不出也不该罚）
+- （更早）① 还有**实际**危害 ② **花**在这些疗法上的时间 ③ 正规治疗
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组8
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 4 题
+  题面换成「他们花在正规治疗上的时间因此少了很多」，她写
+  `the time **spent on** proper **treatment** is much less`。
+  两个点同时中：`spent`（不是 wasted，中文"花"是中性的）✅、`treatment` 作行为义**不可数**没加 s ✅
+  ⇒ 连对 2，🎓。
+  📋 「因此」没落地 —— **不记 #0126**，而且这是**出题的问题**：
+  孤立句里没有前因，"因此"指向的东西不在题面里，她不写完全合理。同类题面以后不放"因此/所以"。
+  📋 `is much less` 留痕不记：孤立句里表状态成立（造反例：`The time spent on admin is much less now.` ✅）。
+  更好：`They now spend far less time on proper treatment.`
 
 <details><summary>原始行（旧表逐字，旧号 E-241）</summary>
 
@@ -2178,7 +2307,7 @@ K → drill（08-18 当场上）　0/2
 </details>
 
 ## #0080 病人的病情如果加重，就要立刻送医院
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F04
 
 **问题是什么**
 P4 单复数 ← 靶子　R · P4
@@ -2191,10 +2320,18 @@ P4 单复数 ← 靶子　R · P4
 正确：`send them to **hospital**`（英式，机构义零冠词）／ `send them to **a hospital**`（美式）<br>★ **机构名词的零冠词用法** —— 表示"去做那件事"而不是"去那栋建筑"时，英式一律零冠词：<br>　`go to **hospital**`（就医）· `go to **school**`（上学）· `go to **university**` · `be in **prison**` · `go to **church**`<br>　对照：`go to **the** hospital`（去医院那栋楼，比如探病）<br>🔴 她这里错的是**数**：主语 the patient 单数、送去一家医院，复数 hospitals 对不上
 
 **中文触发点**
-**病人的病情如果加重，就要立刻送医院**
+- 2026-08-19　孩子发烧超过三天就该送医院。
+- （更早）**病人的病情如果加重，就要立刻送医院**
 
 ### 历史记录
 - 2026-08-18 ❌ D1 学习日 C2·组8
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 10 题
+  题面换成「孩子发烧超过三天就该送医院」，她写 `should be taken **to hospital**` ——
+  英式机构义零冠词单数，没有回到 to hospitals ⇒ ✅，连对 1（08-18 建号那次是 ❌）。
+  📋 顺带用对：`be taken to`（被动）比原句的 `send them to` 更自然；`a fever` 冠词也对。
+  📋 同句两处不属于本条：
+  · `children who **has**` 主谓不一致 → 记在 #0055
+  · `for **over than** three days` → 记在 #0265
 
 <details><summary>原始行（旧表逐字，旧号 E-319）</summary>
 
@@ -2431,7 +2568,7 @@ P5 拼写（真错，不是手滑：双写字母的规则没定）　R · P5
 </details>
 
 ## #0092 随后 / 此后
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F05
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F05
 
 **问题是什么**
 P5 拼写　R · P5
@@ -2444,10 +2581,18 @@ P5 拼写　R · P5
 正确：`subsequently`（**sub-se-quent-ly**，漏了 se 这个音节）★ 选这个词本身是升级，只是拼写没定
 
 **中文触发点**
-随后 / 此后　⚠️待补完整句
+- 2026-08-19　他先在一家小公司做了两年，随后转去了咨询行业。（"随后"用一个比 later 正式的副词，sub- 开头）
+- （更早）随后 / 此后　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组7（当日 2 次，取最后一次）
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 5 题
+  旧题面是光杆「随后 / 此后」，本次补成完整句并按 §6 点名词元不给拼写
+  （"比 later 正式的副词，sub- 开头"）。她写 `**Subsequently**` —— se 那个音节没漏，全对
+  ⇒ 连对 2，🎓。
+  📋 顺带用对：`worked at a small company **for two years**` ——
+  work 是持续动词，配时段完全正确。正好是今天新建的 #0252（瞬间动词配不了时段）的**正面对照**：
+  她不是分不清体，是 join 那个具体动词没归位。留痕，不推 #0252 的 streak（它是今天新建的 D0 条目）。
 
 <details><summary>原始行（旧表逐字，旧号 E-244）</summary>
 
@@ -2533,7 +2678,10 @@ P5 拼写　R · P5
 - 2026-08-16 ✅ 复习日 C1·组3（当日 2 次，取最后一次）
 - 2026-08-18 ✅ D1 学习日 C2·组4
   ⚠️ 已并入 #0082 的历史
-- 2026-08-19 ❌ D2 学习日 C2·组1 第 1 题（顺带）
+- 2026-08-19 ❌ D2 学习日 C2·组1 第 1 题（顺带）　（当日 2 次，按最后一次记）
+  ★ **同日第 2 次**：组 3 第 3 题她写 `since the **beginner** of last year` → `the **beginning**`。
+  beginner（初学者）／beginning（开端）又是一对形近真词，句子照样读得下去。
+  ⇒ **一天之内犯两次、两次都是本条的机制**，高危对表里补上：**beginner/beginning**。
   「这类培训只对已经入职一段时间的**员工**才真正有用」，她写 `for **employers**`。
   ★ 这个词对（employer 雇主 / employee 员工）**在上面的累计实例里已经有了**，08-11 犯过一次，
   今天原样复发。句子读起来完全通顺，所以自己扫不出来 —— 正是本条描述的机制。
@@ -3778,7 +3926,7 @@ P12 语序（降档：❌→⚠️，介词部分撤销）　R · P12
 </details>
 
 ## #0143 ⭐「这个从句是什么从句」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F07
 
 **问题是什么**
 K（她点名）
@@ -3791,10 +3939,21 @@ K（她点名）
 正确：★★ **它不是从句，是现在分词短语（-ing）作状语** —— 这个区分要害在于**悬垂规则**，正好接上她今天自查出的 E-224：<br>· **介词短语**（With X, …）→ **不**要求主语一致<br>· **分词短语**（…, suggesting … ／ Combined with X, …）→ **要求**逻辑主语＝主句主语<br>　`He gave us advice, **suggesting**…` ＝ He suggested ✓ 一致，成立<br>⇒ 用这个句型时检查一次：**-ing 的动作是不是主句主语做的**<br>★ 功能＝**结果/伴随状语**，中文对应"从而／也就是说"，**T1 里最省字数的并句方式**：<br>　`The figure rose sharply, **reaching** a peak in 1900.`<br>　`It declined steadily, **ending** the period at 19%.`（08-15 教练给过一次，见 E-177）
 
 **中文触发点**
-⭐「**这个从句是什么从句**」（指 `, suggesting we leave early`）　⚠️待补完整句
+- 2026-08-19　这项政策去年出台，彻底改变了这个行业的招聘方式。（后半句用 -ing 分词，别用 and）
+- （更早）⭐「**这个从句是什么从句**」（指 `, suggesting we leave early`）　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组5
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 1 题
+  旧题面是她的原话「这个从句是什么从句」，本次补成完整句并按 §6 点名结构
+  （"后半句用 -ing 分词，别用 and" —— 不点名她写 and changed 完全正确，考点会整块绕过变成 ◎）。
+  她写 `the policy came in last year, **changing** how the industry hires`：
+  分词形式对 ✅、逻辑主语（the policy）与主句主语一致 ✅ ⇒ 连对 2，🎓。
+  📋 顺带用对：`how the industry hires` —— 用从句代替"招聘方式"这个名词块，很自然，
+  比 `the recruitment method of the industry` 强得多（正是 #0051 名词块存在性测试要的反应）。
+  📋 `came in` 留痕不记：BrE 里 `the new rules came in last April` 是常说的 ⇒ 成立；
+  作文里 `was introduced` 更正式。
+  📋 同句丢了「彻底」，记在 #0126。
 
 <details><summary>原始行（旧表逐字，旧号 E-252）</summary>
 
@@ -4769,7 +4928,7 @@ P11 词义　R · P11
 </details>
 
 ## #0183 一些研究中国传统医学的人
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F08
 
 **问题是什么**
 P11 词义　R · P11
@@ -4782,10 +4941,19 @@ P11 词义　R · P11
 正确：people who **study** ／ **researchers in** traditional Chinese medicine（★ practitioner＝**从业/行医**者，不是研究者。题面说"研究"⇒ study/research）
 
 **中文触发点**
-一些**研究**中国传统医学的人
+- 2026-08-19　几位研究瑜伽的人发现它能缓解背痛。
+- （更早）一些**研究**中国传统医学的人
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组7
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 7 题
+  题面从"中医"换成"瑜伽"（#0186 组 2 刚测过 practitioner，同一个词不能再用中医语境），
+  她写 `some **people who research** in Yoga` —— 走的是"研究者"这条路，
+  没有回到 practitioners（从业者）⇒ ✅，连对 2，🎓。
+  📋 `research in Yoga` 留痕不记：`do research in this area` / `researchers in physics` 都成立
+  （§0.8 造得出反例）。更省：`people who **study** yoga`。
+  📋 `found` 用过去时、`Yoga` 大写：孤立句里过去时成立；大小写按 §3.2 豁免。
+  📋 顺带用对：`relieve back pain` —— relieve 配 pain 是标准搭配。
 
 <details><summary>原始行（旧表逐字，旧号 E-214）</summary>
 
@@ -4892,7 +5060,7 @@ K
 </details>
 
 ## #0187 「(before friday) 要不要加个 this」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F08
 
 **问题是什么**
 K
@@ -4905,10 +5073,18 @@ K
 正确：**三个都成立，但该换介词**：`**by** Friday` ＝截止期限的标准说法（**含**周五）← deadline 用这个／`before Friday` ＝周五之前（**不含**）／`this Friday` 加不加都对，只是强调"这一个"<br>★ `by` 表截止 —— 与她 08-15 问的 **by vs in**（E-174：`By 1900, the figure had risen…`）是同一条规则
 
 **中文触发点**
-「(before friday) 要不要加个 this」　⚠️待补完整句
+- 2026-08-19　报名必须在本月底之前完成。
+- （更早）「(before friday) 要不要加个 this」　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-18 ✅ D1 学习日 C2·组8
+- 2026-08-19 ✅ D2 学习日 C2·组3 第 8 题
+  旧题面是她的原话「(before friday) 要不要加个 this」，本次补成完整句「报名必须在本月底之前完成」。
+  她写 `**by** the end of this month` —— 截止期限用 by，没有回到 before ⇒ ✅，连对 2，🎓。
+  📋 同句 `sign in` 该是 `sign up / register`，记在 #0264。
+  📋 `you must …` 留痕不记：#0121（全篇第三人称里跳出 you）自身写明"第③类减法型，
+  挂作文验，不进中译英组"，按该条既有裁定不在复习组判。
+  但提醒一句：作文里这句要写成 `**Registration must be completed** by the end of this month.`
 
 <details><summary>原始行（旧表逐字，旧号 E-258）</summary>
 
@@ -5121,6 +5297,39 @@ P11　R · P11
   与 #0187（by Friday 表截止）。两条都不是同一条：
   #0180 换的是**状语**（"提前"怎么说），#0187 换的是**介词**（by / before），
   本条换的是**动词**（meet / miss）。问 1 三者互不相同 ⇒ 新建。
+
+
+## #0264 sign up（报名）／ sign in（签到、登录）
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F08
+
+**问题是什么**
+同一个动词换一个小品词就是另一件事，别串：
+　**sign up (for)**　报名、注册参加　`sign up for a course` · `Over 500 people have signed up.`
+　**sign in**　　　　签到、登录（进入某个地方或系统）　`Please sign in at reception.` · `sign in to your account`
+　**sign out**　　　 签退、登出
+　**sign off (on)**　批准、签字确认
+正式文体里"报名"更常用 **register / enrol**：
+　`Registration closes on Friday.` · `Students must **enrol** by the end of the month.`
+**找法**：小品词换了意思就换了 —— 写完 sign + 小品词，用中文回读一遍对不对得上。
+
+**怎么发现的**
+2026-08-19　D2 学习日 C2·组3 第 8 题
+
+**我错在哪**
+她的：`you must **sign in** by the end of this month`（题面是"报名"）
+正确：`you must **sign up** by the end of this month`
+更正式（作文写法）：`**Registration must be completed** by the end of this month.`
+（同句 `by the end of this month` 截止用 by ✅ 是对的，见 #0187）
+
+**中文触发点**
+想参加培训的人要在周五之前报名。
+
+### 历史记录
+- 2026-08-19 ❌ D2 学习日 C2·组3 第 8 题（顺带）
+  查重（§3.5 B0）：grep 了 `sign up`、`sign in`、`register`、`enrol`、「报名」，全档零命中。
+  又逐条看了 F08 里的近义边界条目 #0181（proposal ≠ advice）、#0184（cost/price/spending）、
+  #0256（reject ≠ deny）、#0262（deadline 配 meet/miss）：
+  四条分的都是**不同的词**，本条分的是**同一个动词的不同小品词**，问 1 不成立 ⇒ 新建。
 
 ---
 
@@ -5429,7 +5638,7 @@ K（判据）
 - 2026-08-16 ✅ 复习日 C1·组6
 - 2026-08-18 ❌ D1 学习日 C2·组8　（当日 3 条，按最后一次记）
   ⚠️ 已并入 #0139 #0142 #0145 #0152 #0154 #0200 #0202 的历史
-- 2026-08-19 ❌ D2 学习日 C2·组1　（当日 3 条，按最后一次记 —— 第 1、5、10 题各犯一次）
+- 2026-08-19 ❌ D2 学习日 C2　（当日 4 条，按最后一次记 —— 组1 第 1、5、10 题，组3 第 1 题）
   第 1 题「这类培训**只**对已经入职一段时间的员工**才**真正有用」
   她写 `this kind of training is truly useful for employers who…`
   ——「真正」truly ✅ 落地、「已经」用完成时试过 ✅，**丢的是「只…才」这一层范围限定**。
@@ -5443,6 +5652,10 @@ K（判据）
   同一组里 Q8「明显」significantly ✅ 落地、Q1「真正」truly ✅ 落地
   ⇒ 8 次以来第一次能把"丢一层"收窄：**丢的是"限定范围"那一类**（only / just / first / at least），
   形容词副词类（程度、方式）反而站得住。
+  **组3 第 1 题**「这项政策去年出台，**彻底**改变了这个行业的招聘方式」
+  她写 `changing how the industry hires` ——「彻底」丢了。
+  正确：`**completely** changing…` ／ `**transforming** how the industry hires`（一个词把"彻底"含进去）。
+  ⇒ 这一处不是范围限定词，是**程度词**，但删掉后"改变的程度"变了 ⇒ 按下面的边界判据，算丢。
   ★ **边界（2026-08-19 组 2 第 1 题补定）**：删掉那一层**意思会变**才算丢。
   同日组 2 她把「三座**新**工厂」写成 `three factories`，但 `build a factory` 本身已含新建义，
   两句传达的事实相同 ⇒ **冗余修饰不算丢**，不记本条。
