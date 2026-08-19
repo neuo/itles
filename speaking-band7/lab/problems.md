@@ -2025,6 +2025,19 @@
 - 备注 判重（当天新建复核）：grep behave／example／preach → 命中 #31（explain yourself to anyone）——
   #31 管"反身代词不能丢"，本条管"选哪个块"，规则不同 ⇒ 保留；两条题面互不撞车
 
+### 258 · at will（书面）→ whenever they feel like it
+类型 词汇 ｜ 题面 **点名**："他想什么时候来就什么时候来。"（用 feel like 说一遍） ｜ 新建 2026-08-19（她指定要学）
+状态 连对0 连错0 未测过（新建当天不测，次日起进池）
+- 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+  ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
+- 备注 整句范例（她指定要背的那句）：
+  **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
+  —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
+- 备注 同族降级（口语版在右边）：at will → whenever they feel like it ｜ in order to → to ｜
+  utilize → use ｜ numerous → a lot of ｜ purchase → buy ｜ commence → start
+- 备注 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+  本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
+
 ## 迁移说明（2026-08-18）
 
 ```
