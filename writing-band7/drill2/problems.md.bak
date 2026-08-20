@@ -394,7 +394,8 @@ P1 论元　R · P1
   　 只能写 `tell tourists **about** the night market nearby`。
   ⚠️ **本条是靠 ◎✅ 毕业的，考点其实没被行使过。** 新题面存在这里备用：
   　 若它日后复发回池，第一时间用新题面测，别再用老题面。
-  　 这个"◎✅ 直接把条目送毕业"的情形已记进当日 session 的教练侧，等她在复习日裁定。
+  　 ★ **2026-08-20 她当场裁定：不用改规则，条目上注明就行，她会找时间人工 review。**
+  　 　 ⇒ 已在状态行下面打上可 grep 的标记 `⚠️🔍 待人工 review：考点未行使的毕业`。
   留痕：`the tourists` 泛指可以不加 the（`tell tourists about…`），不判。
 <details><summary>原始行（旧表逐字，旧号 E-127）</summary>
 
@@ -430,7 +431,7 @@ P1 动词框架　R · P1
 </details>
 
 ## #0014 学校应该保障学生每天的休息时间
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-19 ｜ 族 F01
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F01
 
 **问题是什么**
 P1 框架＋P11 搭配（挂主错 P1）　R · P1
@@ -443,6 +444,7 @@ P1 框架＋P11 搭配（挂主错 P1）　R · P1
 正确：**guarantee** sb sth（provide 不接双宾：provide sb **with** sth ／ provide sth **to** sb）
 
 **中文触发点**
+- 2026-08-20　学校会给每个新生提供一套教材。（"提供"用 provide 这个词。★ 老触发点与 #0074 是同一句原文，§6 不许同组、今天又已用过 ⇒ 必须换）
 学校应该保障学生每天的休息时间
 
 ### 历史记录
@@ -461,7 +463,12 @@ P1 框架＋P11 搭配（挂主错 P1）　R · P1
   ★ 这与 #0018 的 A 派/B 派测试用的是**同一句测试语**，但管的是两件事：
   　#0018 管"能不能接人＋to do"，本条管"能不能接人＋物"。
   按 §3.5 A4，本次是 ❌ 且不是建号那次 ⇒ 毕业线抬到 3。
-
+- 2026-08-20 ✅ D3 学习日 C2·组5 第 1 题
+  新题面「学校会给每个新生提供一套教材（"提供"用 provide）」，她写
+  `the school **provides** every new student / each freshman **with** a set of textbooks`。
+  provide 不接双宾，必须 `provide sb **with** sth` ⇒ 考点命中，连对 1。整句零改动。
+  题面点名 provide 是必要的：不点名她会走 `give sb sth`，而双宾的 give 是**对的**，考点会整块绕过。
+  `each freshman` 是她自己给的第二条路，也成立。
 <details><summary>原始行（旧表逐字，旧号 E-186）</summary>
 
 `学校应该保障学生每天的休息时间|**provide** sb **sth**（provide children the right）|**guarantee** sb sth（provide 不接双宾：provide sb **with** sth ／ provide sth **to** sb）|P1 框架＋P11 搭配（挂主错 P1）|R · **P1**|`
@@ -1001,7 +1008,7 @@ P2 介词＋冠词　R · 挂代号 P2
 </details>
 
 ## #0025 largely delays retirement age → significantly delays the retirement age
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-16 ｜ 族 F02
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F02
 
 **问题是什么**
 LR 词义＋P2 冠词　R · 挂代号 P11（合并组挂主错那个 —— 词义误用是主错，冠词是附带）
@@ -1014,13 +1021,25 @@ LR 词义＋P2 冠词　R · 挂代号 P11（合并组挂主错那个 —— 词
 正确：**significantly** delays **the** retirement age
 
 **中文触发点**
+- 2026-08-20　这项改革大幅提高了最低工资标准。（★ 本条挂两个考点，新题面两边都打得到：「大幅」逼副词、「最低工资标准」逼 the）
 大幅推迟退休年龄，从 60 到 65（08-16 题面：这项政策大幅推迟了退休年龄，从 60 岁到 65 岁）
 
 ### 历史记录
 - 2026-08-11 ✅ 迷你复习
 - 2026-08-15 ❌ D5 学习日
 - 2026-08-16 ✅ 复习日 C1
-
+- 2026-08-20 ✅ D3 学习日 C2·组5 第 2 题　🎓 **毕业**
+  她写 `the reform **significantly** raises **the** minimunm wage`。
+  **两个考点都命中**：副词选了 significantly 不是 largely ／ 名词块带了 the ⇒ 连对 2 ⇒ 🎓。
+  ★ 这是今天专门针对 #0059 暴露的"一条挂两个考点、题面只打得到半边"设计的题面，
+  　 两边都打到了，所以这张毕业证是实的。
+  `minimunm` 拼写非真词 ⇒ 复习组手滑豁免，不记。⚠️ 作文里照记。
+  留痕不给号：中文「提高**了**」偏向已完成，`has raised` ／ `raised` 更贴。
+  　但 `The reform raises the minimum wage` 用一般现在时描述"这项改革的内容"完全成立
+  　（按 §0.8 造反例：`The bill raises the minimum wage to $15 an hour.` ／
+  　 `The reform raises the retirement age by two years.` ／ `This amendment raises the threshold.`）
+  　⇒ 判为不地道边缘，**不记 #0197**（那条是 🎓，判错就是把它冤枉降级）。
+  ★ 她在本题当场点名要学「最低工资」（§2③）⇒ 见新建 #0270。
 <details><summary>原始行（旧表逐字，旧号 E-015）</summary>
 
 `大幅推迟退休年龄，从 60 到 65（08-16 题面：这项政策大幅推迟了退休年龄，从 60 岁到 65 岁）|**largely** delays **retirement age**|**significantly** delays **the** retirement age|LR 词义＋P2 冠词|R · 挂代号 **P11**（合并组挂**主错**那个 —— 词义误用是主错，冠词是附带）|**1/3 · ✅D—迷你复习**|`
@@ -5216,7 +5235,7 @@ P11 掉否定前缀 in-（意思反转，最贵）　R · P11
 </details>
 
 ## #0176 if they cannot treat the disease → when a case is beyond them（呼应 beyond the scope）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-15 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
 
 **问题是什么**
 待排序　U（待定）
@@ -5229,11 +5248,23 @@ P11 掉否定前缀 in-（意思反转，最贵）　R · P11
 正确：**when a case is beyond them**（呼应 beyond the scope）
 
 **中文触发点**
+- 2026-08-20　碰到超出自己能力的病例，医生应该及时转诊。（08-20 改成完整的两段式句子）
 如果这个病超出了医生的能力范围
 
 ### 历史记录
 - 2026-08-15 ◎ D5 学习日
-
+- 2026-08-20 ✅ D3 学习日 C2·组5 第 3 题
+  她写 `if doctors encounter **a case beyond their scope of expertise**, they should refer patients
+  to specialists or higher-level hospitals in time`。
+  `be beyond sb` 这个块用上了，而且 `beyond their **scope of expertise**` 比档案里的
+  `beyond them` 更实 ⇒ 考点命中，连对 1。
+  顺带用对（只列出不推进 streak）：`**refer** patients **to** specialists` —— 这是 #0129（🎓）的块。
+  留痕不给号：
+  · `in time`（＝来得及、赶在最后关头）→ 「及时（不拖延）」的标准搭配是 `**promptly**` / `without delay`
+  · `higher-level hospitals` 是中式块的味道（同 #0166 `advanced hospitals` → `larger hospitals`），
+  　但美式确有 higher-level trauma center 这种官方分级说法 ⇒ 按 §0.8 造得出反例，不判错。
+  　英式更常说 `a larger hospital` / `tertiary care`。
+  · `if` 换 `when` 更贴中文的「碰到」（if 偏假设，when 偏"每当"），两个都成立。
 <details><summary>原始行（旧表逐字，旧号 E-141）</summary>
 
 `如果这个病超出了医生的能力范围|if they cannot treat the disease|**when a case is beyond them**（呼应 beyond the scope）|待排序|U（待定）|0/2|`
@@ -5807,6 +5838,69 @@ P11　R · P11
   又逐条看了 F08 里的近义边界条目 #0181（proposal ≠ advice）、#0184（cost/price/spending）、
   #0256（reject ≠ deny）、#0262（deadline 配 meet/miss）：
   四条分的都是**不同的词**，本条分的是**同一个动词的不同小品词**，问 1 不成立 ⇒ 新建。
+
+## #0270 工资／收入这一族：先分清"谁的钱、按什么发"，再挑词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+中文一个"工资／收入"，英文按**按什么周期发、给谁、算不算全部进账**分开：
+
+```
+wage(s)      按小时／按天／按周发的，蓝领与计时工
+             `hourly **wages**` · `low-**wage** workers` · `**wage** growth has stalled`
+salary       按月／按年发的固定薪，白领
+             `an annual **salary** of £30,000` · `a **salaried** employee`
+pay          最中性、最通用，两边都能盖，还能作动词
+             `equal **pay**` · `a **pay** rise`（英）／`a **pay** raise`（美）· `**pay** gap`
+income       一个人或一户**所有**进账（工资＋租金＋利息＋补贴）
+             `household **income**` · `low-**income** families` · `disposable **income**`（可支配收入）
+earnings     从劳动或投资里**挣到**的钱，正式、常用于统计
+             `average **earnings** rose by 3%` · `lifetime **earnings**`
+```
+
+**★ 她点名的那个块**
+```
+the minimum wage        最低工资（**必须带 the**，因为全国只有这一个 → 定指）
+  `The reform raised **the minimum wage** to £12 an hour.`
+  `Workers on **the minimum wage** cannot afford to rent in the city.`
+  ⛔ ~~a minimum wage~~（除非在说"设立一条最低工资线"这个抽象制度：`introduce a minimum wage`）
+  ⛔ ~~minimum salary~~ —— 最低工资是按小时算的，固定搭配就是 wage
+同一批固定块（作文里成套用）：
+  `**the living wage**` living wage 生活工资　`**the poverty line**` 贫困线
+  `**the pay gap**` 薪酬差距　　`**the retirement age**` 退休年龄（同 #0025，也必须带 the）
+  ⇒ 共同点：**全国只有一条线／一个数 ⇒ 定指 ⇒ 带 the**
+```
+
+**T2 里的现成句**
+```
+Raising **the minimum wage** would lift many families above **the poverty line**.
+**Wage growth** has failed to keep pace with **the cost of living**.
+Households on **low incomes** spend a far larger share of their **income** on essentials.
+```
+**找法**：先问三句 —— 按小时还是按月？（wage/salary）只算劳动所得还是全部进账？（earnings/income）
+是不是全国唯一那条线？（是 ⇒ 带 the）
+
+**怎么发现的**
+2026-08-20　D3 学习日 C2·组5 第 2 题。她写 `the reform significantly raises the minimunm wage`，
+两个考点全中，然后当场点名：「最低工资建一个条目」（§2③）。
+
+**我错在哪**
+她这次没有错 —— `the minimum wage` 连冠词都对。
+建号理由是 §2③。她缺的是**这一族的分工**：档案里她只用过 wage 一个词（#0172 `higher wages`），
+income / earnings / pay 一次都没出现过，说明谈钱的时候她只有一个词可用。
+
+**中文触发点**
+低收入家庭把收入里很大一部分花在了日常必需品上。（"收入"这个词出现两次，两处该用同一个词吗）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）D3 学习日 C2·组5 第 2 题
+  查重（§3.5 B0）：grep 了 `wage` `salary` `income` `minimum` `工资` `收入`，全档命中两处：
+  · #0172（工会要求加薪 → demanded higher wages）—— 08-16 已改判为**第②类·不出中译英**，
+    内容是"她的版本本来就标准、判 ❌ 是假错"的留痕，**没有规则**，谈不上同一条 ⇒ 问 2 不成立
+  · #0048 与今天组1 记录里的 `low-income household` —— 那是**数**（泛指该用复数），不是选词 ⇒ 问 1 不成立
+  又比对了 #0184（cost / price / spending 三分法）与 #0249（bill / fee / cost）：
+  那两条分的是"花出去的钱"，本条分的是"挣进来的钱"，两套词零重叠 ⇒ 不合并。
+  ⇒ 新建。建号时无对错，连对连错都是 0。
 
 ---
 
