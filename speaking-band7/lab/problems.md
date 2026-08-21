@@ -11,6 +11,10 @@
 ---
 
 ### 1 · 同位语（一个逗号，不用 who/which）
+- 备注 ⚠️ **收尾 1b 复核追加（2026-08-21）**：复查时发现 🎓#255 的 08-20 日志里有 `sleep is vital **to** health`，
+  当时判 ✅ —— **那次判 ✅ 是对的，不追改**。两处不是同一件事：
+
+  ⇒ 与 #255 的分工：#255 管**选 vital 还是 virtual**（选词），本条管 **good for 后面缺限定词**（搭配）⇒ 不并
 类型 结构 ｜ 题面 "我老家宜宾，四川南部的一个小城市，夏天特别热。" ｜ 旧号 B2
 状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
 - 2026-08-17 ✅ 首次进流（久没出现，基线 0）
@@ -107,7 +111,7 @@
 
 ### 10 · 主谓一致
 类型 语法 ｜ 题面 "他每天七点起床，从来不迟到。"（一句里两个动词都要加 s） ｜ 旧号 B27
-状态 连对0 连错1 上次2026-08-19 未毕业 ｜ **累错 6** ｜ **形态类·不召回**
+状态 连对0 连错2 上次2026-08-21 未毕业 ｜ **累错 7** ｜ **形态类·不召回** ｜ **顽固**
 - **检查触发**：每写完一个谓语，回头看主语是不是第三人称单数（08-19 她定，同比较级）
 - 2026-08-11 ❌ 一天内三次（the two hours MAKES／my mom HELP／he WALK）
 - 2026-08-12 ❌
@@ -121,6 +125,14 @@
   ★ **这是"形态类只在自由产出里判"改规则后第一次抓到，正是 §3.4 设计的用法**
 - 2026-08-20 ❌ 复习#34 句里 · `the teacher get the students to work in groups`——第三人称单数漏 -s
   ｜同日 #258 那句 `he feels like it` 的 -s 是带上的 ⇒ 仍是"检查跑不跑得起来"的问题，不是不会
+- 2026-08-21 ⚪⚪❌ **同一天三次，三次档位不同 —— 这条正好把新规则跑通了**：
+　⚪ 复习#59 句里 `what did you **ate** yesterday`（这处其实归 #147，不归本条）
+　⚪ 复习#264 句里 `rewards **makes** children feel…`——中译英复习 ⇒ 按她 08-21 定的规则
+　　 **只做记号，不记档位、不动状态行**
+　❌ **自由产出**（新题 bank:434）· `it's a perfect little escape - it **help** me clear my head`
+　　 —— 主语 it 是第三人称单数（helps）⇒ **这一次照常记 ❌**，连错 1→2，累错 7
+　★ 三次放在一起看正是 §3.4 的设计：**中译英里她一半对一半错，信息量低；自由产出里才是真掉的地方**
+
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 2026-08-19 上午 `every one nedd to sign in`——单词拼残，判不出她想写 need 还是 needs
   ⇒ 当时不记档位（假错代价大于漏错）；欠的那一次**在当天新题里补上了**（见上一行）
@@ -322,10 +334,12 @@
 
 ### 31 · explain YOURSELF to anyone（解释自己的行为）
 类型 搭配 ｜ 题面 **点名**："你不用跟任何人解释自己。"（用 explain 说） ｜ 旧号 B52④
-状态 连对1 连错0 上次2026-08-20 未毕业 ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）
 - 2026-08-19 ❌ 首次进池 · `you don't need to explain to anyone`——丢了 yourself
 - 2026-08-20 ✅ 复习（点名题面首测）· `you don't need to explain youself to anyone`
   ——yourself 补回来了（youself 是打字，按 §2.1 不算）
+- 2026-08-21 ✅ 复习 · `you don't need to explain youself to anyone.`——explain **yourself** to anyone
+  → **连对2，毕业**（`youself` 按 §2.1 拼写不算）
 - 备注 同族块：explain yourself／behave yourself／enjoy yourself／help yourself —— 反身代词是块的一部分
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
@@ -492,7 +506,7 @@
   ｜⚠️ `things to show for it` 该 something（固定块量词），不建号，只进 diff
 - 备注 合并 2026-08-19：#55（人称一致·一段里）并入本条 —— 同一条规则，只是范围一句/一段
 
-### 50 · convenient 后面只能跟【人】（后面是动作/用途一律用 easier）
+### 50 · "好找/好用/好记"用 easier，不用 more convenient（convenient ＝ 方式省事）
 类型 搭配 ｜ 题面 "东西放回去下次好找。" ｜ 旧号 B73
 状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）
 - 2026-08-11 ✅
@@ -500,6 +514,23 @@
 - 2026-08-16 ❌ `more convenient to find` → easier to find
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `makes them much easier to find`（同句主语形态错归新建 #254）
+- 2026-08-21 ⚠️ **判据修正（不动档位、不动毕业）**：原判据"convenient 后面只能跟【人】"是
+  **从 08-16 那一个实例过度概括出来的，太宽**。今天 #80 那题她写 `makes it much more convenient
+  than ever to stay in touch`，教练判 ✅ 不扣 —— 复核后确认判 ✅ 是对的，是**判据本身要收紧**：
+```
+convenient ＝ **方式/安排省事、省时间**（跟【人】或【做法】走）
+   ✓ convenient for you ／ a convenient time ／ It's more convenient to pay by card
+   ✓ more convenient to book online ／ to stay in touch      ← 说的是"这个方式省事"
+easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走）
+   ✓ easier to find ／ easier to remember ／ easier to use ／ easier to get to
+判据一句话：问"这句说的是【方式省事】还是【事情不难】？"
+   方式省事 → convenient ｜ 事情不难 → easy/easier
+   ✗ more convenient **to find** —— 找东西是难度问题，不是方式问题
+```
+- 备注 ★ 本条就是她 08-21「直译要 case by case 建」那条规则的**正面样本**：
+  `more convenient to find` 这个具体 case 早在 08-11 就有自己的号（本条），
+  却又被 08-16 复制进伞形条目 #157 的日志里 ⇒ **同一个 case 占两个号、走两条 streak**，
+  #157 那条永远清零、她被反复问。#157 已于 08-21 迁出 methods.md，本条保留。
 
 ### 51 · put sth away ＝ 收起来（clean up ＝ 打扫脏东西）
 类型 词组 ｜ 题面 "孩子玩完把玩具收回去。" ｜ 旧号 B74
@@ -557,7 +588,7 @@
 
 ### 59 · 直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序
 类型 语法 ｜ 题面 "你昨天吃的什么？" ／ "我不知道你昨天吃了什么。" ｜ 旧号 B82＋B146
-状态 连对0 连错1 上次2026-08-20 未毕业 ｜ **回潮 2026-08-20**（08-15 曾毕业）
+状态 连对1 连错0 上次2026-08-21 未毕业 ｜ 回潮已断（08-20 回潮）
 - 2026-08-09 ✅（原 #211）
 - 2026-08-13 ✅（原 #211）
 - 2026-08-15 ✅（原 #211）→ 连对 3，判毕业
@@ -565,6 +596,9 @@
 - 2026-08-20 ❌ **自由产出**（加练新题 bank:927）· `This time it's an iPhone, but what it will be next time.`
   ——这是**直接疑问**（修辞问句），要倒装 what **will it** be；陈述语序只用在嵌进句子里的时候
   ⇒ 回潮。⚠️ 这是本条**第一次在真实产出里被测到**（前四次全是中译英）—— 中译英测不出这一层
+- 2026-08-21 ✅ 复习 · `what did you ate yesterday. I don't know what you ate yesterday.`
+  ——**本条考点两半都对**：第一句用倒装（did you …）／第二句嵌进去用陈述语序（what you ate）
+  ⚪ 第一句 `did you **ate**`（该 eat）⇒ 属 #147（时态只标一次），`形态类·不召回`，只做记号不记档位
 - 备注 合并 2026-08-19：#211（直接疑问 vs 嵌入疑问的边界）并入本条 —— 同一条规则；
   题面取 #211 那两句（一直一嵌，对照最清楚）。备用题面（原 #59）："得考虑路要修多宽。"
 
@@ -641,8 +675,25 @@
 ### 67 · 可分离动词短语的位置（代词必须放中间：put it away）
 类型 语法 ｜ 题面 **点名**："玩具玩完了就把它们收起来。"（用 put … away 说） ｜ 旧号 B95
 　　★ 题面 2026-08-21 改：旧题面"孩子玩完把玩具收起来。"里"玩具"是名词，**逼不出本条考点**（考点是"代词必须放中间 put it/them away"，名词放中间放后面都合法）⇒ 改成"它们"，让代词位置成为唯一解
-状态 连对0 连错1 上次2026-08-17 未毕业
+状态 连对1 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21 · 她指定**（"这个也是"）｜ **⛔ 复习组停出**（中译英测不到本条考点，见下）
 - 2026-08-17 ❌ 首次进流
+- 2026-08-21 ✅ 复习（今天刚改的题面首测）· `put away the toys after playing with them.`
+  ——句子完全合法**且符合题面** ⇒ 按 §3.3（她 08-20 定）记 ✅ ＋ **她当场指定毕业**
+  ★ 但她把"它们"还原成了名词 the toys ⇒ **本条真正的考点（代词必须放中间）今天仍然没被测到**
+- ★★ **她 08-21 的质疑**："这个也是，为什么反反复复问，上次错了？"
+```
+数据       本条**只被测过 2 次**：08-17 ❌ 首次进流 → 08-21（今天），中间隔 4 天没出过
+           ⇒ 不属于"反复问"那一类；她的感觉大概率是被 #157（6 天 5 次）带出来的
+但真问题   **中译英这个测法对本条无效**：
+           旧题面"孩子玩完把玩具收起来"里"玩具"是名词，而考点是"代词放中间"，
+           名词放中间放后面都合法 ⇒ 这条**从建立起就测不到自己**。
+           今天改成"它们"想逼出来，她又把"它们"还原成 the toys ⇒ 中译英绕得掉，测法本身不成立。
+⇒ 处理     ① 照她指定毕业 ② 打 `⛔ 复习组停出`：本条**只在自由产出里抓**
+           （出现 put away it／turn off it／pick up her 这种才判档位）
+```
+- 备注 唯一硬规则：**代词只能放中间** —— put **them** away ✅ ／ put away **them** ✗
+  同族：turn it off ／ pick her up ／ throw it away ／ work it out ／ give it back
+  名词则两边都行：put the toys away ＝ put away the toys
 - 备注 另：away 不变形；玩具搭配是 play with
 
 ### 68 · IN/DURING the morning rush hour（早高峰）
@@ -726,6 +777,11 @@
 - 2026-08-20 ✅ 复习（改题面后首测）· `no one knows the thing, other than him.` ＋
   `rather than waiting, we should just leave.`——两个块词义都用对 ⇒ 连对2 毕业
   ｜同句 `the thing` 归新建 #260，不算本条头上
+- 2026-08-21 **互斥留痕**（不动档位、不动毕业）：新建 #266（"除了…" ＝ apart from／other than／except，
+  besides 放句首会被读成"此外"）与本条同管"除了"这个意思，但**目标形式不同**：
+  本条 ＝ other than（且考点是**别和 rather than 混**）｜#266 ＝ apart from（考点是**选哪个词组最稳**）。
+  ⚠️ 本条题面"除了他没人知道这事。"与 #260 共用一句已经在跑（两条落在句子不同位置，可分别记档），
+  但**不能再让 #266 也用这句**（同一个槽位会互斥）⇒ #266 题面另起"除了我妈，没人知道我辞职了。"
 - 备注 rather than 的两条形态规则在 🎓#245（两边同形）／🎓#246（领独立短语用 -ing），本条只管词义辨析
 
 ### 76 · 比较里的泛指不加 the（cheaper than new ones）
@@ -757,10 +813,15 @@
 
 ### 80 · than ever 必须紧跟比较级
 类型 结构 ｜ 题面 **点名**："社交媒体让联系比以前方便多了。"（"比以前"用 than ever 说 —— 考点是它摆在哪儿） ｜ 旧号 B128
-状态 连对1 连错0 上次2026-08-20 未毕业 ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）
 - 2026-08-19 ❌ 首次进池 · `much convenient for people to stay in touch`——than ever 整个没出来
 - 2026-08-20 ✅ 复习（点名题面首测）· `social media makes it much easier than ever for people to stay in touch`
   ——than ever 紧跟比较级，位置对；且 easier 而不是 convenient（比较级选词也对）
+- 2026-08-21 ✅ 复习 · `social media makes it much more convenient than ever to stay in touch.`
+  ——than ever 紧跟比较级 more convenient，位置对 → **连对2，毕业**
+  ★ 四问自审留痕：`more convenient` 不判。`make it more convenient to stay in touch` 完全成立；
+    #157 在 08-16 判过的是 `more convenient **to find**`（找东西不说 convenient），**搭配对象不同**，
+    不许沿用那次结论（#157 08-20 的教训就是这条）
 - 备注 中文"比以前…多了"里的"比以前" ＝ **than ever**，且必须**紧跟比较级**：
   more convenient than ever／easier than ever；口语里 easier 比 convenient 常用得多
 
@@ -891,6 +952,16 @@
     ⇒ 🎓 状态还原（毕业日期仍是 08-20），不记 ❌、不掉毕业、不进池。
   ★ 检查触发扩写（保留，属"回头自查"不属"练"）：中译英写完，回头把中文和英文的"有／没有"对一遍；
     自己换了说法（enough to go around 这类块）的时候最容易把否定换没
+- 2026-08-21 ⚪ **第二次，只做记号，不记档位**（**自由产出**里的，教练做了取舍并留痕）
+  加练新题（bank:414）· `Overall, advertising is a necessary but **sufficent** condition.`
+  —— 漏了 **not**（necessary but **not** sufficient），but 标着转折、后面却跟同向的词 ⇒ 整句自相矛盾
+  ⚠️ **她自己的两条规则在这里指向不同**：
+     · §3.4② 说形态类"只在【自由产出】里判档位" ⇒ 按字面，本处该让本条回潮
+     · 她 08-21 的裁决说 **"漏了否定，不是不会，不要练"** ⇒ 按精神，不该记
+     取舍 ＝ **按她的裁决**（更新、更针对这一类错），只做记号。
+     依据："必要不充分条件"这个概念和英文说法她都有（工科出身），单独问必答得出 ⇒ 检查没跑，不是缺口。
+     **她要在自由产出里也记档位的话，一句话就能改回来。**
+  ★ **检查触发再扩写**：写完带 but 的对比句，回头念一遍问"**but 两边是不是真的相反？**"
 
 ### 93 · 不在那一小撮里的动词必须变形（sit→sat／sing→sang）
 类型 语法 ｜ 题面 "他昨晚一直坐在沙发上。" ｜ 旧号 B152b
@@ -1246,13 +1317,14 @@
 
 ### 131 · go ＝ 在程度轴上移动（go too far／How far are you willing to go?）
 类型 词组 ｜ 题面 **点名**："你愿意做到什么程度？"（用 far 说一遍） ｜ 旧号 B218
-状态 连对0 连错1 上次2026-08-20 未毕业
+状态 连对1 连错0 上次2026-08-21 未毕业
 - 2026-08-13 ❌
 - 2026-08-15 ✅
 - 2026-08-16 📖（教练自相矛盾的题面已删，❌ 撤销）
 - 2026-08-17 ✅
 - 2026-08-20 ❌ 复习 · `how far are you willing to **do**`——far 调对了，**动词塌成 do**
   ⇒ 考点位置就是这个动词（far 只跟 go 走），未达成，连对清零
+- 2026-08-21 ✅ 复习 · `how far are you willing to go.`——一字不差，08-20 那次动词塌成 do，这次 go 出来了
 - 备注 同族整块背：go too far ／ go all the way ／ How far would you go? —— far 的搭档永远是 go
 
 ### 132 · 环路 ＝ ring road（❌ round road）
@@ -1390,6 +1462,10 @@
 - 2026-08-19 ✅ 复习 · `he didn't see me yesterday and didn't say he was going to leave`（两个谓语都是原形）
 - 2026-08-20 ❌ 复习#18 句里 · `I still couldn't found it`——**第四次**：could 之后又用了过去式
   ⇒ 印证 §3.4：孤立测她 100% 会，只有在她自己造句时才掉，所以只能在产出里判
+- 2026-08-21 ⚪ **只做记号，不记档位**（她 08-21 定：形态类在中译英复习里掉了不记 ❌）
+  复习#59 句里 · `what did you **ate** yesterday`——did 已经标了过去，动词该回原形 eat
+  ⇒ 状态行不动（仍是 连对0 连错1）。**第五次同型**，但按新规则中译英里的不计入 streak
+  ★ 今天新题（bank:434）里她没有 did/will/can 后面接变形的句子 ⇒ 自由产出里本条本日无对象
 - 备注 自我分诊：单独问她"情态动词后面接什么"秒答"原形" ⇒ 不 drill，只加产出时检查触发
 - 备注 与 #10 主谓一致／#54 比较级只标一次／#92 否定别丢合成一条元规则：**每个语法标记在一个谓语上只能出现一次，而且必须出现一次**
 
@@ -1452,17 +1528,24 @@
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
 类型 语法 ｜ 题面 "他的耐心让我印象很深。" ／ "他一直很有耐心。" ｜ 旧号 B245
-状态 连对0 连错1 上次2026-08-20 未毕业 ｜ **回潮 2026-08-20**（当天毕业当天回潮）
+状态 连对1 连错0 上次2026-08-21 未毕业 ｜ 回潮已断（08-20 回潮）
 - 2026-08-16 ❌ `the different between the two`
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `his patience really impressed me. he is always patient.`（名词形/形容词形两个位置都对）
 - 2026-08-20 ❌ **自由产出**（加练新题 bank:927）· `use it with cautious`——该 with **caution**
   ⇒ 回潮。判据扩写：前面有 **the／a／of／with／in／by** 这类介词或限定词 → 一律名词形
+- 2026-08-21 ✅ 复习 · `his patience really impressed me. he is always patient.`
+  ——两个位置词形都对：主语位 **patience**（名词）／表语位 **patient**（形容词）⇒ 回潮后第一次翻正
 - 备注 判据：这个词前面有 the／a／of 吗？有 → 必须名词形。08-16 实证：原答案写对，重说时反而退成 different
 
 ### 157 · 直译搭配（两档：❌ 真错 ／ ⚠️ 母语者默认不选）
 类型 搭配 ｜ 题面 "他三十秒就能把魔方复原。" ／ "这个芯片算力很弱。" ｜ 旧号 B246
-状态 连对1 连错0 上次2026-08-20 未毕业
+状态 → **已迁入 methods.md M36／M37（2026-08-21，她当场拍板"现在就处理"）** ｜ 迁出前 ＝ 连对2 ｜ **🎓 已毕业 2026-08-21 · 她指定** ｜ 编号不复用不删除，日志一行不动
+　　★ 迁出理由：本条的考点是「任何从中文直译出来的搭配」—— 一个**开放集合**，违反 §3.1「一条 ＝ 一个考点」。
+　　　每冒出一个新的直译都打在同一条 streak 上把它清零 ⇒ **结构上永远毕不了业**，
+　　　而她被反复测的其实是已经会了的那几个（6 天 5 次）。
+　　★ 迁出后：**不出题、不占复习名额**；判据在 methods.md 里由教练在自由产出诊断时用（M37），
+　　　她自己的自查动作是 M36。下面全部日志原地保留，一行不删。
 - 2026-08-16 ❌ `more convenient to find` → easier to find
 - 2026-08-17 ✅
 - 2026-08-19 ❌ 第二档 · `the processing power of the CPU is weak`——power 不配 weak
@@ -1477,6 +1560,19 @@
         （weak processing power，通顺）——**两个位置不是同一个错**，教练把它们当成同一个 ＝ 锚定失效
      ③ 就算要挑也只是 ⚠️（isn't very powerful 更常见），够不上 ❌
   ★ 教训写进本条：**先看这个搭配出现在句子的哪个位置，再判**；跨天比对时不许直接沿用上一次的结论
+- 2026-08-21 ✅ 复习 · `he can solve a rubik's cube in under 30 seconds.`——`solve` 选对（不是 restore／recover），
+  `in under 30 seconds` 是加分说法 → 连对2 ＋ **她当场指定毕业**
+- ★★ **她 08-21 的质疑（成立，必须回答）**："被问烦了，一点东西都学不到，为什么要问那么多次"
+```
+被测次数  08-16 ❌ → 08-17 ✅ → 08-19 ❌ → 08-20 ✅ → 08-21 ✅ ＝ **6 天里 5 次**
+真原因    **本条是【捆绑条目】，违反 §3.1「一条 ＝ 一个考点」**：
+          它的考点不是某一个词组，而是"任何从中文直译出来的搭配"—— 一个**开放集合**。
+          于是每冒出一个新的直译（more convenient to find ／ power is weak ／…）都打在同一条 streak 上、
+          把它清零 ⇒ **结构上永远毕不了业**，而她被反复测的其实是【已经会了的那几个】。
+          同型前科：#95 装三个词组 · #75 装两个 · #68 装两个（§3.1 已写明要拆）
+⇒ 付息日 c 段待办：**本条不该是"条目"，它是【判据】** —— 候选处理 ＝ 迁进 methods.md（方法类·不召回），
+  只当诊断判据用，不再占复习名额。具体由她拍板。
+```
 - 备注 她 08-16 质疑 restore 成立，教练已改判为 ⚠️ 默认档；**假错误的代价比漏错大**
 - 备注 判据：这个词是我从中文翻出来的，还是我在英语里见过人这么说？翻出来的 → 先怀疑，但怀疑 ≠ 判错
 
@@ -1545,12 +1641,16 @@
 
 ### 166 · see sb（见面）／meet（初次认识）／meet up（约着碰头）＋ for ages
 类型 词汇 ｜ 题面 **点名**："我跟他好久没见了。"（"好久"用 ages 那个词说） ／ "我们是大学认识的。" ｜ 旧号 B255
-状态 连对1 连错0 上次2026-08-20 未毕业 ｜ 顽固已断
+状态 连对2 连错0 上次2026-08-21 ｜ 顽固已断 ｜ **🎓 已毕业 2026-08-21**
 - 2026-08-17 ❌
 - 2026-08-19 ❌ **同一个错第二次**：`I haven't seen him for long`（该 for ages／in ages）
 - 2026-08-20 ✅ 复习 · `we haven't seen each other for ages. We met at university.`
   ——for ages 与 met 两半都对（主语换成 we…each other 等价合法，不扣）
   ｜同句 `we met at university` ✅（meet ＝ 初次认识那一半是对的）
+- 2026-08-21 ✅ 复习（点名"用 ages 那个词"后首测）· `We haven't seen each other in ages. We met at university.`
+  ——`in ages` ＋ `met` 两半都对 → **连对2，毕业**（08-17／08-19 连着两次写成 for long，这次彻底翻过来）
+  ⚠️ 毕业时仍是**捆绑条目**（see／meet／meet up ＋ for ages）：付息日 c 段照样要拆，
+    否则将来任一半掉了会把已经会的那半也拖回池子
 - 备注 `hadn't MET FOR LONG` 意思反了；说"很久"这个量一律 for ages／for a long time，
   for long 只在"没持续多久"里出现（I didn't stay for long.）
 - 备注 **捆绑条目**（see／meet／meet up ＋ for ages）：08-19 出现"块的一半对一半错" ⇒
@@ -1601,9 +1701,13 @@
 
 ### 172 · 机会用 get：get the chance to do（不用 have a chance）
 类型 搭配 ｜ 题面 **点名**："哪天有机会我想去看看。"（"有机会"用 get 说） ｜ 新建 2026-08-19
-状态 连对1 连错0 上次2026-08-20 未毕业
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21**
 - 2026-08-19 新建 · 复习#140 句里 · `if I have a chance` → if I (ever) get the chance
 - 2026-08-20 ✅ 复习（新建后首测）· `if i get the chance, I'd love to see it`——get the chance 一字不差
+- 2026-08-21 ✅ 复习 · `If i get a chance someday I want to go see it.`——考点是动词选 **get** 不选 have
+  → **连对2，毕业**
+  ★ `a chance` vs `the chance`：**两个都成立**（get a chance／get the chance 同样常用），
+    本条的对比对象是 have a chance，冠词不是考点 ⇒ 不判
 - 备注 have a chance 更多用在"有可能性"（There's a chance it'll rain）；"有机会做某事"默认 get
 
 ---
@@ -2155,12 +2259,14 @@
 
 ### 248 · stuck ON ＝ 卡在具体的点上
 类型 词组 ｜ 题面 **点名**："我在第三题上卡住了。"（用 stuck 说） ｜ 旧号 B117b
-状态 连对0 连错1 上次2026-08-20 未毕业 ｜ **回潮 2026-08-20**（08-11 毕业、08-17 复查通过）
+状态 连对1 连错0 上次2026-08-21 未毕业 ｜ 回潮已断（08-20 回潮）
 - 2026-08-11 ✅
 - 2026-08-17 ✅ 复查
 - 2026-08-19 ✅（自发，#30 那题里 `the whole team was stuck on`）
 - 2026-08-20 ❌ 复习#30 句里 · `a problem that the whole team is stuck **with**`——在 on/with 之间选反
   ⇒ 回潮，重新入池。**一天之内从对变错**（08-19 同一道题她写的是 stuck on）
+- 2026-08-21 ✅ 复习（点名题面首测）· `I got stuck on the third question.`——介词选 **on**（08-20 那次选反成 with）
+  ⇒ 回潮后第一次翻正，连对 0→1，再对一次重新毕业
 - 备注 三条一族，判据放在一起记：stuck **ON** ＝ 卡在具体的点上（a problem／question 3）｜
   stuck **WITH** ＝ 被迫接受甩不掉（🎓#73）｜ stuck **IN** ＝ 被困在环境/容器里（🎓#247）
 
@@ -2216,9 +2322,11 @@
 
 ### 256 · even if ＝ 还没发生的假设（"就算…"）
 类型 语法 ｜ 题面 **点名**："就算下雨我也去。"（"就算"用 even ＋ 一个词说） ｜ 新建 2026-08-19（从 #165 拆出）
-状态 连对1 连错0 上次2026-08-20 未毕业
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21**
 - 2026-08-19 ❌ 首犯 · `Even though it is rainy, I will go`——把假设写成了事实
 - 2026-08-20 ✅ 复习 · `even if it rains, I will go`——even if ＋ 一般现在时，选对了场合
+- 2026-08-21 ✅ 复习（点名题面首测）· `Even if it rains, I'll go`——even if ＋ 一般现在时 ＋ 主句 will
+  → **连对2，毕业**（08-19 那次写成 Even though ＝ 把假设写成事实，这次分清了）
 - 备注 一句话判据：**已经这样了 → even though ｜ 万一这样 → even if**
 - 备注 她当天问"要用虚拟语气么" → **不用**：even if ＋ 一般现在时（Even if it rains, I'll go）；
   虚拟只在"跟事实相反"时上（Even if it were sunny, I'd still stay in ＝ 其实是阴天）。
@@ -2228,7 +2336,7 @@
 
 ### 257 · 以身作则 ＝ lead by example／practise what you preach
 类型 词组 ｜ 题面 **点名**："光说没用，家长得以身作则。"（"以身作则"用 lead 说） ｜ 新建 2026-08-19
-状态 连对1 连错0 上次2026-08-20 未毕业
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21**
 - 2026-08-19 ❌ 首犯 · 自由产出（新题 bank:489）· `Stop just talking and behave yourself`
   —— behave yourself ＝ **对小孩说的"你规矩点"**，用在家长身上就变成训他们了
 - 备注 判据：这句话是**说给谁听的**？对小孩 → behave yourself／对大人（要求他做榜样）→ lead by example
@@ -2236,12 +2344,14 @@
   她当场抓来用了 ⇒ **迁移意识对，但块的使用对象没跟着记** —— 以后给同族清单时要连"对谁用"一起给
 - 2026-08-20 ✅ 复习（点名"用 lead 说"后首测）· `it's no use just talking. parents should lead by example.`
   ——目标块一字不差 ｜同句 `It's no use just talking` 自发命中 #25
+- 2026-08-21 ✅ 复习 · `it's no use just talking. parents should lead by exmaple.`——lead by example 一字不差
+  → **连对2，毕业**（`exmaple` 按 §2.1 拼写不算）
 - 备注 判重（当天新建复核）：grep behave／example／preach → 命中 #31（explain yourself to anyone）——
   #31 管"反身代词不能丢"，本条管"选哪个块"，规则不同 ⇒ 保留；两条题面互不撞车
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词汇 ｜ 题面 **点名**："他想什么时候来就什么时候来。"（用 feel like 说一遍） ｜ 新建 2026-08-19（她指定要学）
-状态 连对1 连错0 上次2026-08-20 未毕业
+状态 连对2 连错0 上次2026-08-21 ｜ **🎓 已毕业 2026-08-21**
 - 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
   ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
 - 备注 整句范例（她指定要背的那句）：
@@ -2251,6 +2361,8 @@
   utilize → use ｜ numerous → a lot of ｜ purchase → buy ｜ commence → start
 - 2026-08-20 ✅ 复习（新建后首测）· `He comes here whenever he feels like it.`——目标块一字不差
   ｜附带 feels 的第三人称 -s 也带上了
+- 2026-08-21 ✅ 复习 · `he comes here whenever he feels like it.`——一字不差，feels 的 -s 也对
+  → **连对2，毕业**
 - 备注 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
   本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
 
@@ -2269,9 +2381,14 @@
 
 ### 260 · 中文的"这事／这个东西"→ it／this／about it（不要 the thing）
 类型 词汇 ｜ 题面 "除了他没人知道这事。"（"这事"不许用 the thing 说） ｜ 新建 2026-08-20
-状态 连对0 连错1 上次2026-08-20 未毕业
+状态 连对1 连错0 上次2026-08-21 未毕业
 - 2026-08-20 新建 · 同一天两次 · 复习#75 句里 `no one knows **the thing**, other than him`
   ＋ 复习#146 句里 `I found out **the thing** from the news`
+- 2026-08-21 ✅ 复习（新建后首测）· `Besides him, no one knows about it.`——`knows **about it**` 一字不差
+  ⚠️ `Besides him` 判 ✅ 不扣：besides 在**否定句里**确实可当 except 用（No one besides me knows.）；
+    但放句首更容易被读成"此外／而且"（加法义）⇒ 更稳的是 **Apart from him ／ Other than him**
+    **不建条目**（§3.2b 她 08-21 定的第三档）：她的选择合法，说不出"不会的是哪个词组"⇒ 只给更稳版本
+  ⇒ 2026-08-21 后续：她说 **"Apart from him 可以建一个，非常不熟练"** ⇒ **新建 #266**（题面另起一句，与本条不撞车）
 - 备注 判据：中文的"这事/那个东西"是**空指代**，英语用代词 it／this／that 顶上去；
   the thing 在英语里指"那个具体物件"，拿来指抽象的事会很怪
 - 备注 常配的介词：find out **about** it ／ know **about** it ／ hear **about** it ／ talk **about** it
@@ -2307,9 +2424,13 @@
 ### 262 · 口语转折工具箱（Then again／That said／Having said that／On the flip side／Mind you）
 类型 词组 ｜ 题面 **点名**："话说回来，奖励也会把孩子的动机带偏。"（"话说回来"用两个词的口语说法起头） ｜ 新建 2026-08-20（**她当场指定**）
 　　★ 她的原话："Then again 可以新建条目，再几个转折方法在同一个条目，用于学习口语转折"
-状态 连对0 连错0 未测过（新建当天不测，次日起进池）
+状态 连对1 连错0 上次2026-08-21 未毕业
 - 2026-08-20 新建 · 加练新题（bank:927）· `Then again, rewards can slightly change what you intend.`
   —— **她自己用对了**，并当场要求把这一族收进一条
+- 2026-08-21 ✅ **自由产出自发命中**（加练新题 bank:414）· `Then again, you shouldn't only rely on ads.`
+  —— 又一次用在真转折点上。按 §4① 的**加速通道**（"在自由产出里自发出现就当场记 ✅，不用等"）记 ✅
+  ★ 本条 08-20 新建、今天因"连对0 且零 ❌/📖"没进学习日池，结果**自己在产出里冒出来了** ——
+    正是那条加速通道设计的场景
 - 备注 六个标记，按【放句子的哪一段】分三档：
 ```
 ① 开一个反面段落（放句首）
@@ -2330,8 +2451,11 @@
 
 ### 263 · 双宾语语序：promise／give／tell／show／send 一律【人在前，东西在后】
 类型 语法 ｜ 题面 "他答应给他儿子买最新那款手机。"（用 promise ＋ 两个宾语说，不用 to） ｜ 新建 2026-08-20
-状态 连对0 连错1 上次2026-08-20 未毕业
+状态 连对1 连错0 上次2026-08-21 未毕业
 - 2026-08-20 新建 · 加练新题（bank:927）· `You promise a lastest iPhone your kid` → promise **your kid** the latest iPhone
+- 2026-08-21 ✅ 复习（新建后首测）· `He promised his son the lastest phone.`——语序一字不差：
+  promised ＋ **his son**（人）＋ **the latest phone**（东西），08-20 首犯正好是反的
+  ★ "买"没译出不扣：promise sb sth 本身就含"给"｜`lastest` 按 §2.1 拼写不算
 - 备注 判据：这一族动词带两个宾语时，顺序固定 **动词 ＋ 人 ＋ 东西**
 ```
 ✅ promise your kid the iPhone ／ give me the book ／ tell her the truth ／ show him the photo
@@ -2345,10 +2469,13 @@
 
 ### 264 · a sense of ＋ 只跟固定那几个抽象名词（achievement／purpose／belonging／control）
 类型 搭配 ｜ 题面 **点名**："奖励能让孩子觉得努力有奔头。"（"有奔头"别用 a sense of ＋ 自己造的词） ｜ 新建 2026-08-20（**她当场指定**）
-状态 连对0 连错1 上次2026-08-20 未毕业
+状态 连对1 连错0 上次2026-08-21 未毕业
 - 2026-08-20 新建 · 加练新题（bank:927）· `Rewards can give kids a sense of payoff`
   ⇒ 语法没错，但 **a sense of ＋ payoff 不是现成搭配**；payoff 这个词是前一道题教练更好版里给的，
     她隔一道题就抓来用了（迁移意识好），只是塞进了一个装不下它的框架
+- 2026-08-21 ✅ 复习（点名题面首测）· `rewards makes children feel that their efforts are worth it.`
+  ——完全绕开 a sense of，用的正是本条备注列的出口之一（make the effort feel worth it）
+  ⚪ 同句 `rewards **makes**` 主谓一致 ⇒ 属 #10（形态类·不召回），只做记号不记档位
 - 备注 判据：**a sense of 是个半封闭的框**，后面只跟少数几个固定抽象名词：
 ```
 ✅ a sense of achievement（成就感）｜ a sense of purpose（目标感）
@@ -2380,6 +2507,121 @@
   ③ 最接近三条逐条读过：#63（泛指 vs 特指）管 the ／复数，对象是可数名词，health 不可数 ⇒ 不同规则；
      #157（直译搭配）管"这个词配不配"（power 配不配 weak），本条是"这个位置缺限定词" ⇒ 层不同；
      #89（加形容词回到 a）管冠词 a，与物主代词无关 ⇒ 保留新建
+- 备注 ⚠️ **收尾 1b 复核追加（2026-08-21）**：复查时发现 🎓#255 的 08-20 日志里有 `sleep is vital **to** health`，
+  当时判 ✅ —— **那次判 ✅ 是对的，不追改**。两处不是同一件事：
+```
+good/bad **for** health        ⇒ 裸的不成立 ⇒ good for **you** ／ good for **your** health　← 本条管这个
+vital/essential **to** health  ⇒ 裸的**成立**（偏正式书面：Sleep is vital to health.）
+                                  口语里仍然更常说 vital to **your** health
+★ 所以本条的范围**只到 good/bad for ___**，不许扩大成"所有 health 前面都要物主代词"——
+  那就又是今天 #50 那种"从一个实例过度概括"的毛病
+```
+  ⇒ 与 #255 的分工：#255 管**选 vital 还是 virtual**（选词），本条管 **good for 后面缺限定词**（搭配）⇒ 不并
+
+### 266 · "除了…（排除）" ＝ apart from ／ other than ／ except（besides 放句首会被读成"此外"）
+类型 词组 ｜ 题面 **点名**："除了我妈，没人知道我辞职了。"（"除了"用 apart from 说） ｜ 新建 2026-08-21（**她当场指定**）
+　　★ 她的原话："Apart from him 可以建一个，非常不熟练"
+状态 连对0 连错0 未测过（新建当天不测，次日起进池）
+- 2026-08-21 新建 · **她主动提出**（§2③）· 复习#260 句里她写 `Besides him, no one knows about it.`
+  —— 教练判 ✅ 不扣（besides 在否定句里确实成立），但她说 **apart from 非常不熟练** ⇒ 建条目
+- 备注 四个可选，按口语常用度排：
+```
+apart from him    ← 最稳、最口语，句首句尾都不歧义        ★ 本条的目标形式
+other than him    ← 同义，略正式一点；#75 测的是这个
+except (for) him  ← 也对；except for 更常挂句首
+besides him       ← 否定句里成立（No one besides me knows.），
+                    但**放句首容易被读成"此外／而且"** ⇒ 想说"排除"就别用它开头
+```
+- 备注 反向记：besides 的主业是**加法**（Besides, it's too expensive. ＝ 再说，太贵了）
+  ⇒ 一句话判据：**要"减掉一个人/一样东西" → apart from ｜ 要"再加一层理由" → besides**
+- 备注 常见搭配位置：Apart from that, … ／ Apart from a few typos, it's fine. ／
+  I don't know anyone here apart from you.
+- 备注 判重（当天新建复核，§4④1b）：
+  ① 目标英文形式 ＝ `apart from`
+  ② grep "apart from" 全库（含已毕业）→ **零命中**；grep "other than" → 命中 #75；
+     grep 中文"除了" → 命中 #75 与 #260 的题面
+  ③ 逐条读：**#75**（other than ≠ rather than）管的是**两个形近词组别混**（形近误用），
+     目标形式是 other than；**本条**管的是"除了"这个意思**该选哪个词组、besides 为什么不稳**（选词），
+     目标形式是 apart from ⇒ 规则不同、目标形式不同 ⇒ **两条并存**。
+     **#260**（"这事"→ it/about it）管的是句子另一个位置的选词，不冲突。
+  ⚠️ **题面必须互斥**（§3.1 第三档）：#75 的题面正好是"除了他没人知道这事。"（用 other than 说），
+     #260 的题面也是同一句 ⇒ 本条题面**另起一句**："除了我妈，没人知道我辞职了。"，三条从此不撞车
+
+### 267 · get sth in front of sb（把产品／信息摆到人眼前）
+类型 词组 ｜ 题面 **点名**："先得让人看见你的产品。"（"让人看见"用 get ＋ in front of 说） ｜ 新建 2026-08-21（**她当场指定**）
+　　★ 她的原话："in front of 这个词组要新建条目"
+状态 连对0 连错0 未测过（新建当天不测，次日起进池）
+- 2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）· `Ads help get your product or service in front of the public.`
+  —— **她自己用对了**，并当场要求建条目
+- 备注 内容：get sth **in front of** sb ＝ 把东西摆到人眼前、让人看见（营销/传播的默认说法）
+```
+✅ get your product in front of the right people ／ in front of customers
+✅ get your message in front of a bigger audience
+✅ get your CV in front of the hiring manager
+★ 跟 reach 的分工：reach people ＝ 触达（中性、略正式）
+                  get sth in front of people ＝ 摆到眼前（更具体、更口语）
+```
+- 备注 判重（当天新建复核）：① 目标形式 ＝ `get sth in front of sb`
+  ② grep "in front of" 全库（含已毕业）→ 只命中 🎓#39 的日志行（`he sat in front of the TV all night.`）
+  ③ 逐条读 #39：那条管的是**惯用定冠词**（the TV／the radio／the cinema／on the screen），
+     "in front of" 只是那句话里顺带出现的**字面义**；本条管的是**引申块 get sth in front of sb**
+     ⇒ 目标形式不同、规则不同 ⇒ 保留新建，两条题面互不撞车
+
+### 268 · "卖得好／好读／好洗" 用【主动形式】：it sells well（不用 is sold well）
+类型 语法 ｜ 题面 **点名**："这款卖得特别好。"（用 sell 说，不用被动） ｜ 新建 2026-08-21
+状态 连对0 连错1 上次2026-08-21 未毕业
+- 2026-08-21 新建 · 加练新题（bank:414）· `they will wonder whether it **is sold well**` → it **sells** well
+- 备注 判据：英语里有一小族动词 **主语是东西、动词用主动、意思却是被动**（中动语态）
+```
+✅ This product **sells** well.        ✅ The book **reads** easily.
+✅ This shirt **washes** well.         ✅ The recipe **cooks** in ten minutes.
+✅ She **photographs** well.           ✅ The door **won't open**.   ✅ The cake **cuts** easily.
+✗ is sold well ＝ "被人用好的方式卖掉"，不是"畅销"
+★ 一句话判据：说的是"**这东西本身好不好卖/好不好用**" ⇒ 主动；
+             说的是"**谁把它怎么样了**" ⇒ 才用被动
+★ 这一族基本固定，背这几个就够：sell／read／wash／cook／photograph／open／cut
+```
+- 备注 判重（当天新建复核）：① 目标形式 ＝ `it sells well`
+  ② grep "sell"／"卖"／"主动表被动"／"中动" 全库（含已毕业）→ **零命中**
+     （grep "卖" 只命中三条"外卖"题面 ＝ takeaway，与本条无关）
+  ③ 全库没有任何条目管"主动形式表被动"这条规则 ⇒ 保留新建
+
+### 269 · "不太了解／知道得少" 口语走 don't know much about it（不用 know little／only know little）
+类型 搭配 ｜ 题面 **点名**："大家对这个牌子不太了解。"（"不太了解"用 **don't** 起头说） ｜ 新建 2026-08-21（**她当场指定**）
+　　★ 她的原话："only know little 这个也建一个条目吧，确实不地道（很生硬，有更好的表达方式，
+　　　是需要建条目的）**不是 little 的问题**"
+状态 连对0 连错1 上次2026-08-21 未毕业
+- 2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）·
+  `If people **only know little** about the product, …` → If people **don't know much** about it, …
+  ⛔ **教练犯规·漏错**：教练当场按 08-20 的先例（`only few` 那次）判"不判"，
+    她当场指出**这次不是 few/little 的问题，是整个说法生硬** ⇒ 判罚恢复，建条目
+- 备注 判据：**中文说"少"，英语口语优先走【否定 ＋ much/any】，不走【肯定 ＋ little】**
+```
+✅ People don't know much about it.          ← 口语默认，最常听
+✅ People hardly know anything about it.     ← 更强（几乎完全不知道）
+✅ Most people have never even heard of it.  ← 换个角度，更有画面
+⚠️ People know little about it.              ← 成立，但是**书面语**
+                                                （We know little about his early life.）
+✗ People only know little about it.          ← only ＋ little 两个"少"叠着，生硬
+★ 同一条规则的其他形态（口语一律否定起头）：
+   don't have much time（不说 have little time）
+   there isn't much to do（不说 there is little to do）
+   I haven't got many left（不说 I have few left）
+```
+- 备注 ⚠️ **边界写死，防止教练再判反**（08-20／08-21 两次裁决方向相反，必须分清）：
+```
+`only few people are really interested`（08-20 她的句子）
+   ＝ few 作**主语限定词**，"几乎没有人"是 few 的本职工作 ⇒ **成立，不判**（她 08-20 裁决）
+`only know little about it`（08-21 她的句子）
+   ＝ 用 little 表"知道得少"，这个意思口语一律走 **don't know much** ⇒ **判，建条目**（她 08-21 裁决）
+一句话分辨：**few/little 修饰名词当主语 → 正常；用来说"知道得少/有得少" → 换成否定 ＋ much**
+```
+- 备注 判重（当天新建复核）：① 目标形式 ＝ `don't know much about it`
+  ② grep "know much"／"know little"／"hardly"／"not much" 全库（含已毕业）→
+     只命中 🎓#115 的 08-20 备注行（`only few` 那次撤销的记录）
+  ③ 逐条读 #115（a couple of ＝ 两个；"几个"用 a few）：那条管的是**"几个"这个量该用哪个量词**，
+     且 08-20 的裁决明确说 few 不带 a 是对的；**本条管的是"知道得少"这个意思口语该怎么说**
+     （否定 ＋ much，而不是肯定 ＋ little）⇒ 规则不同、目标形式不同 ⇒ 保留新建，两条题面互不撞车
 
 ## 迁移说明（2026-08-18）
 

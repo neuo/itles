@@ -39,12 +39,15 @@
 | R29 | Describe a law on environmental protection | P2 | 08-15 | — |
 | R30 | Describe a live sports event you watched and liked | P2 | 08-16 | — |
 | R31 | What is the ideal length for a holiday? | P3 | 08-16 | — |
+| R32 | How can parents and teachers help children understand and follow rules? | P3 | 08-19 | — |
+| R33 | Why do most children think education is boring? | P3 | 08-20 | — |
+| R34 | Do rewards help a child become better? | P3 | 08-20 | — |
+| R35 | Describe a home that you like to visit but do not want to live in | P2 | 08-21 | — |
+| R36 | Is advertising important for a company? Why? | P3 | 08-21 | — |
 
 ## 未做（顺延到下一个学习日的新题位）
 
 ```
-▸ [P3] How can parents and teachers help children understand and follow rules?
-  （question_bank.md:489，08-16 抽签抽到、两次顺延未做，已在 asked.log 不重抽）
 ▸ [P2] Describe an interesting building（question_bank.md:1027，08-18 抽签）
 ▸ [P3] Is it necessary to keep learning after graduating from school?（question_bank.md:987，08-18 抽签）
 ```
