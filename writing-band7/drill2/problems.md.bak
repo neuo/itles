@@ -10,13 +10,13 @@
 ## 全档状态
 
 ```
-总数   245 条
-在池   176 条
-🎓     69 条（占 28.2%）
-毕业线 **全档一律 2**（245/245）
-在池里 连对 1 的 **77 条**（再对一次就 🎓）· 连对 0 的 99 条
+总数   295 条
+在池   226 条
+🎓     69 条（占 23.4%）
+毕业线 **全档一律 2**（295/295）
+在池里 连对 1 的 **79 条**（再对一次就 🎓）· 连对 0 的 147 条
 题面待补 43 条
-最后一次全量校验 2026-08-20（C1 状态行 vs 历史重数 243/243 一致）
+最后一次全量校验 2026-08-20（C1 状态行 vs 历史重数 295/295 一致）
 ```
 
 > 🔴 **2026-08-20 规则变更（她定）：毕业线全部改成 2，「错一次抬到 3」整条作废。**
@@ -31,20 +31,20 @@
 
 | 族 | 号段 | 条数 | 是什么 |
 |---|---|---|---|
-| **F01** 动词框架/论元 | #0001–#0268 | 24 | 动词后面接什么、及物性、论元完整 |
-| **F02** 冠词/限定 | #0021–#0069 | 18 | a/an/the 的有无与选择、泛指定指、零冠词 |
+| **F01** 动词框架/论元 | #0001–#0274 | 26 | 动词后面接什么、及物性、论元完整 |
+| **F02** 冠词/限定 | #0021–#0276 | 20 | a/an/the 的有无与选择、泛指定指、零冠词 |
 | **F03** 中式块/硬编 | #0039–#0265 | 14 | 自己拼出来的名词块、中文直译块 |
 | **F04** 单复数/主谓一致 | #0048–#0251 | 25 | 含长主语后谓语被拉走、不可数名词 |
 | **F05** 拼写/形近词 | #0083–#0096 | 12 | 含构形规则、拼成另一个真词的串台 |
-| **F06** 词类混用/位置 | #0097–#0269 | 18 | 形容词副词互换、比较级构形、修饰语位置 |
-| **F07** 句法/逗号/并列 | #0049–#0260 | 37 | 逗号粘连、并列同形、语序倒装、从句、指代、大小写 |
-| **F08** 词义/近义辨析 | #0090–#0270 | 41 | 选错词、近义词边界 |
+| **F06** 词类混用/位置 | #0097–#0278 | 20 | 形容词副词互换、比较级构形、修饰语位置 |
+| **F07** 句法/逗号/并列 | #0049–#0288 | 48 | 逗号粘连、并列同形、语序倒装、从句、指代、大小写 |
+| **F08** 词义/近义辨析 | #0090–#0310 | 63 | 选错词、近义词边界 |
 | **F09** 时态/体 | #0190–#0252 | 9 | 时态选择、时间状语与时态的配对、体的平行 |
 | **F10** 语义缺失(中文丢一层) | #0126–#0126 | 1 | 语法全对但中文明写的一层没送到 |
 | **F11** T1 数据/图表 | #0203–#0221 | 19 | 数据抄写、峰值占比、跨线对比、overview 特征选择、倍数 |
-| **F12** 任务层/篇章层 | #0222–#0271 | 2 | 只能挂作文验的 |
-| **F14** 衔接/连接词 | #0223–#0261 | 6 | 连接词选择与位置、转折的搭法 |
-| **F15** 语域/正式度 | #0229–#0267 | 12 | 口语词进书面、缩写、对冲词 |
+| **F12** 任务层/篇章层 | #0222–#0312 | 4 | 只能挂作文验的 |
+| **F14** 衔接/连接词 | #0223–#0319 | 13 | 连接词选择与位置、转折的搭法 |
+| **F15** 语域/正式度 | #0229–#0321 | 14 | 口语词进书面、缩写、对冲词 |
 | **F17** T1 整句仿写 | #0241–#0244 | 4 | 整句级改写 |
 | **F18** T2 整句仿写 | #0245–#0247 | 3 | 整句级改写 |
 
@@ -889,17 +889,81 @@ believe **in** ＋ 一套东西／一个人的价值 ＝ 认可它、觉得它�
   反向验：她完全可能写对 `effective in some cases`（#0007 已 🎓）却仍然写 `believe TCM`
   ⇒ 可独立取值。
   建号那次是 ❌，毕业线 2。
+- 2026-08-20 　作文 T2-17　**高压 ✅ 留痕，不推进 streak**
+  S2 `I **believe** the reward it yields are far greater` —— believe ＋ 从句，正确地**没有**加 in。
+  ⚠️ 不推进：本条今天的净结果已由建号那行的 ❌ 定下（当天出现过 ❌ 就记 ❌）。
+  ★ 但值得记：她今天上午在组2 第 9 题写 `believing traditional Chinese medicine`（该加 in 没加），
+  　 下午作文里 `believe ＋ 从句`（不该加 in 没加）用对 —— 两边都对上了，说明分工听进去了。
+
+## #0273 dare 作情态动词：dare not do，不加 to 也不加 s
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F01
+
+**问题是什么**
+`dare` 有两个身份，作文里两条路别串：
+```
+情态动词 dare   后面直接跟原形，**不加 to**；否定直接加 not；三单**不加 s**
+  ✅ `what others **dare not** do`　✅ `He **dare not** speak.`　✅ `**Dare** she ask?`
+实义动词 dare   照常变形，后面跟 to do（口语里 to 常省）
+  ✅ `He **doesn't dare to** speak.`　✅ `She **dared** to ask.`
+```
+**判据**：句子里有没有别的助动词。没有助动词、直接 `dare not` ⇒ 情态；
+用了 do/does/did ⇒ 实义，后面接 to do。
+⛔ 别写混：`~~doesn't dare not speak~~` · `~~dares not to speak~~`
+★ 作文里最好用的就是 `what others dare not do` 这个块 —— 六个词说完"别人不敢做的事"。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学），不是记她的错。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+很多人心里想换工作，但真正敢辞职的没几个。（"敢"用情态动词那条路）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `dare`，全档只命中今天作文的记录，零条目 ⇒ 新建。
+
+## #0274 分离式短语动词：drive sth down ／ drive up sth，宾语短放中间、长放后面
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F01
+
+**问题是什么**
+`drive down` 这类**动词＋副词**的短语动词可以被宾语劈开，放哪边由**宾语长短**决定：
+```
+宾语短（代词或两三个词）→ 放中间     `drive **costs** down` · `drive **them** down`
+宾语长（一串修饰）      → 放后面     `drive down **the cost of renewable energy**`
+⛔ 代词只能放中间：`drive **it** down` ✅　`~~drive down it~~` ❌
+```
+同族（作文高频，成套记）：
+```
+drive down / drive up      压低 / 推高（价格、成本、需求）
+push up / push down        同上，更口语
+bring down                 降下来（bring down unemployment）
+cut back on                削减（不可分离，on 后面必须跟宾语）
+carry out                  实施（carry out a policy / carry it out）
+```
+**找法**：写完短语动词，看宾语有几个词 —— 三个词以内塞中间，长了放后面，代词一律中间。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学），不是记她的错。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+新技术把这些设备的成本压低了将近一半。（"压低"用 drive 那个短语动词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `drive` `push up` `短语动词`，全档零命中；与 #0007 #0008（动词配介词）不同 —— 那两条管介词，本条管**副词小品词的位置**，问 1 不成立 ⇒ 新建。
 
 ---
 
 # F02 冠词/限定
 
 > a/an/the 的有无与选择、泛指定指、零冠词
-- 2026-08-20 　作文 T2-17　**高压 ✅ 留痕，不推进 streak**
-  S2 `I **believe** the reward it yields are far greater` —— believe ＋ 从句，正确地**没有**加 in。
-  ⚠️ 不推进：本条今天的净结果已由建号那行的 ❌ 定下（当天出现过 ❌ 就记 ❌）。
-  ★ 但值得记：她今天上午在组2 第 9 题写 `believing traditional Chinese medicine`（该加 in 没加），
-  　 下午作文里 `believe ＋ 从句`（不该加 in 没加）用对 —— 两边都对上了，说明分工听进去了。
 
 ## #0021 As for family level → At the family level
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-16 ｜ 族 F02
@@ -1407,6 +1471,68 @@ P2 冠词 ← 靶子　R · P2
 
 </details>
 
+## #0275 三项并列的不可数抽象名词，一律零冠词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F02
+
+**问题是什么**
+列举抽象品质时，**三个都不加冠词、不加复数**：
+```
+✅ `shaped by one's **experience, knowledge, and judgement**`
+✅ `It requires **patience, discipline, and luck**.`
+✅ `a matter of **time, money, and effort**`
+⛔ `~~the experience, the knowledge and the judgement~~`（每个都加 the ＝ 指特定的那几样）
+⛔ `~~experiences, knowledges, judgements~~`（knowledge 根本没有复数）
+```
+**判据**：这三样是"泛指这类品质"还是"特定的那几份"？泛指 ⇒ 全部光着。
+★ 牛津逗号（and 前面那个逗号）英式可加可不加，**但一篇之内要统一**。
+⚠️ 与 #0074（可数单数不能光着）是**互补的两面**：那条管**可数**名词必须带冠词，
+　 本条管**不可数**抽象名词必须不带。两条一起记，才不会往任何一边滥用。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学），不是记她的错。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+成功靠的是耐心、纪律和一点运气。（三样并列，冠词怎么处理）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `不可数` `零冠词` `并列`，F02 现有 18 条里没有一条讲**三项并列**；#0074 讲的是可数单数必须带冠词，是互补面不是同一条（问 1 相反）⇒ 新建。
+
+## #0276 泛指"一个人"的四个梯度：someone / a person / an individual / one
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F02
+
+**问题是什么**
+同样是"一个人"，四个词的语域和用法差得远：
+```
+someone       最自然，主语宾语都好用          `**Someone** who changes jobs may struggle to adapt.`
+a person      中性，但在学术文里略平           `a **person**'s life`
+an individual 正式、略笨重。★ **只在需要和 group / society / the state 对举时才值得用**
+              `The rights of **the individual** must be balanced against those of society.`
+one           最正式，也最容易过头；`one's` 作所有格倒是很常用
+              `**one's** experience` ✅　`**One** should always…` ⚠️ 偏老派
+```
+**判据**：这句里"一个人"是**和集体对着说**的吗？
+　是 ⇒ an individual／the individual；不是 ⇒ 直接用 someone，最省也最自然。
+★ 一篇之内**只用一套**：选了 one's 就不要中途跳成 your（这正是 T2-17 里丢 CC 那一项的原因）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学），不是记她的错。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+换工作的人常常低估适应新环境要花的力气。（"换工作的人"用最自然的那个词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `individual`，8 处命中全是 individual investors / individual experience（#0169 #0008 的内容），没有一条讲"泛指一个人怎么说" ⇒ 新建。
+
 ---
 
 # F03 中式块/硬编
@@ -1867,12 +1993,6 @@ P11 搭配　R · P11
   查重（§3.5 B0）：grep 了 `more than`、`over than`、「超过」，命中 #0246（倍数 -fold）——
   那条讲的是倍数表达的歧义，不是焊接，问 1、问 2 都不成立。
   与 #0044（In actually → In fact）的三问逐条写在上面「问题是什么」里：问 3 不成立 ⇒ 暂不合并。
-
----
-
-# F04 单复数/主谓一致
-
-> 含长主语后谓语被拉走、不可数名词
 - 2026-08-20 ◎− D3 学习日 C2·组2 第 7 题　**题面不够死，两边都不动**
   题面「这个项目拖了不止半年」，她写 `the project has been delayed **for half a year**`。
   「不止」这一层整块没进英文 ⇒ 本条要抓的 `over than` / `more than` 根本没机会出场。
@@ -1884,6 +2004,11 @@ P11 搭配　R · P11
   　 「**这个项目拖了不止半年，可能快一年了。**」—— 后半句让"半年"这个数字站不住，
   　 不写 more than 整句就自相矛盾。
   `half a year` 本身不判错，但英文更常说 `six months` ⇒ 进更好版。
+---
+
+# F04 单复数/主谓一致
+
+> 含长主语后谓语被拉走、不可数名词
 
 ## #0048 该用复数的名词写成了单数
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F04
@@ -2685,17 +2810,16 @@ P4 单复数 ← 靶子　R · P4
   又逐条看了 F04 现有 24 条，最近的是 #0048（该复数写成单数）与 #0060（单数病人配单数医院）。
   #0048 改正动作是加 s、本条是去 s，问 1 不成立；#0060 讲的是句内两个名词的数要照应，
   不涉及 kind of 这个结构本身，问 2 不成立 ⇒ 新建。
-
----
-
-# F05 拼写/形近词
-
-> 含构形规则、拼成另一个真词的串台
 - 2026-08-20 ✅ D3 学习日 C2·组2 第 1 题
   题面「这种事故在冬天比较常见」，她写 `**this kind of accident** is fairly common in the winter`。
   this kind of ＋ 单数，一次到位 ⇒ 考点命中，连对 1。整句零改动。
   `in the winter` 也成立（美式常带 the，英式多写 in winter），不判。
   ★ 她在本题当场点名要学 `fairly` 的各种用法（§2③）⇒ 见新建 #0267。
+---
+
+# F05 拼写/形近词
+
+> 含构形规则、拼成另一个真词的串台
 
 ## #0083 demend · hurn → demand · hurt
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 — ｜ 族 F05
@@ -3587,6 +3711,10 @@ K
   三条都不是同一条 —— 三问里的问 1（改正动作是不是同一个）全部不成立：
   #0097 是换形式、#0106 是换级别、#0031 是加冠词，本条是**从无到有补出比较级**。
   反向验：08-18 #0097 判 ✅ 而今天本条犯了，能独立取值 ⇒ 新建。
+- 2026-08-20 ✅ D3 学习日 C2·组1 第 3 题
+  题面「现在的租金比五年前高出很多」，她写 `rent is **much higher** than it was five years ago`。
+  much 后面的形容词变了比较级 ⇒ 考点命中。08-19 建号那次是 `much competitive`，隔一天原样的坑没再踩。
+  整句零改动（首字母大小写按 §3.2 豁免）。⇒ 连对 1。
 
 ## #0269 「在小范围／在一定范围内」怎么说 —— 按你限定的是什么分四条路
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
@@ -3658,15 +3786,74 @@ Such measures are usually **confined to** large cities.
   两条串联使用而不是同一条 ⇒ 不合并。
   ⇒ 新建。建号时无对错，连对连错都是 0。
 
+## #0277 guaranteed / proven / established 这类过去分词当前置定语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
+
+**问题是什么**
+过去分词可以直接放到名词前面当形容词用，一个词顶一个从句：
+```
+a **guaranteed** path      ＝ a path that is guaranteed to work
+**proven** methods         ＝ methods that have been proven
+**established** practice   ＝ practice that has been established
+**qualified** teachers · **skilled** workers · **written** evidence · **spoken** English
+```
+**判据**：这个分词描述的是**名词的状态**（被…过的）⇒ 前置；
+描述的是**正在进行的动作** ⇒ 用 -ing（`a growing problem` · `rising costs`）。
+★ 作文里最好用的一批：guaranteed · proven · established · qualified · skilled ·
+　accepted（accepted wisdom 公认的看法）· so-called · long-term / short-term。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+公认的做法是先做小规模试点。（"公认的"用一个过去分词直接放名词前面）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `guaranteed` `过去分词` `前置定语`，F06 现有 18 条（#0097–#0113 等）全是形容词副词互换与比较级构形，没有一条讲分词作定语 ⇒ 新建。
+
+## #0278 proactive / reactive 这一对，以及"主动地"的四个词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
+
+**问题是什么**
+```
+proactive   提前动手、不等问题发生     `a **proactive** approach` · `act **proactively**`
+reactive    出了事才反应              `a **reactive** policy`（含贬义）
+★ 这一对是 T2 里非常好用的对举：`Governments tend to be reactive rather than proactive.`
+```
+"主动地"四个词，别混：
+```
+proactively   提前地、防患于未然（时间维度）  `**proactively** take risks` ＝ 不等被逼就先冒险
+actively      积极地、投入地（力度维度）      `**actively** seek new opportunities`
+deliberately  有意地、故意（意图维度）        `**deliberately** avoid the topic`
+consciously   自觉地、清醒地（意识维度）      `**consciously** limit screen time`
+```
+**判据**：你要强调的是**时间早**（proactively）、**用力大**（actively）、
+**是故意的**（deliberately）、还是**心里清楚**（consciously）？四选一，不能互换。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错** —— 这一处是她自己主动够出来的新表达，用法成立。
+建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+政府应该提前介入，而不是等问题出现了再来补救。（"提前介入"用 proactive 那个词族）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `proactiv`，全档零命中；与 #0267（程度副词强度刻度）不同 —— 那条按强弱排，本条按**语义维度**分，问 2 不成立 ⇒ 新建。
+
 ---
 
 # F07 句法/逗号/并列
 
 > 逗号粘连、并列同形、语序倒装、从句、指代、大小写
-- 2026-08-20 ✅ D3 学习日 C2·组1 第 3 题
-  题面「现在的租金比五年前高出很多」，她写 `rent is **much higher** than it was five years ago`。
-  much 后面的形容词变了比较级 ⇒ 考点命中。08-19 建号那次是 `much competitive`，隔一天原样的坑没再踩。
-  整句零改动（首字母大小写按 §3.2 豁免）。⇒ 连对 1。
 
 ## #0049 一个典型的例子就是中国，学生下午四点前就放学
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F07
@@ -4688,6 +4875,15 @@ U · 待排序　0/2
   F07 里最近的是 #0143（`, suggesting we leave early` 是分词短语不是从句，讲悬垂规则）。
   与 #0143 三问：问 1 不成立 —— #0143 的改正动作是**换主语让分词的逻辑主语对上**，
   本条的改正动作是**给从句补主语和变位动词**。问 2 也不成立，要另起一句话讲。⇒ 新建。
+- 2026-08-20 ✅ D3 学习日 C2·组1 第 9 题
+  题面「虽然价格降了，销量还是没起来」，她写 `**Even though the price has dropped**, sales don't go up`。
+  从属连词后面接的是完整从句（有主语有谓语）⇒ 考点命中，连对 1。
+  08-19 建号那次写的是 `Even though working overtime`，隔一天这个坑没再踩。
+  同句一处不属于本条：`sales don't go up` 时态错 —— 记在 #0192。
+- 2026-08-20 　作文 T2-17　**高压 ✅ 留痕，不重复推进**
+  S16 `**While these costs are impossible to calculate in advance**, they can certainly be kept to a minimum.`
+  从属连词 While 后面是完整从句（有主语有谓语），不是 -ing ⇒ 考点在作文里也守住了。
+  ⚠️ 同日已在组1 第 9 题记过 ✅，按"当天只推进一次"不重复计。
 
 ## #0272 两个独立分句之间用哪个符号 —— 按它们的关系挑，不是随手挑
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
@@ -4738,20 +4934,322 @@ U · 待排序　0/2
   · F08 里那条讲「冒号引出解释比破折号紧」的 —— 那是**更好版的风格建议**，不是错误规则，无 streak。
   ⇒ 新建。建号那次是 ❌（同篇 2 处，按同日口径合并为一次），毕业线 2。
 
+## #0279 把否定放到宾语上，比放到谓语上紧
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+同一个意思两种写法，**否定挂在宾语上的那种更短更有力**，是书面英语的默认：
+```
+✅ `walking it **yields no more than** what others gain`
+⚠️ `walking it **does not yield more than** what others gain`（长、软）
+✅ `a certificate that anyone can get **offers no real advantage**`
+⚠️ `a certificate that anyone can get **does not offer any** real advantage`
+```
+常用的否定宾语块：`no advantage` · `no evidence` · `no guarantee` · `no real difference` ·
+`little effect` · `few options` · `no more than X` · `nothing but X`
+**判据**：句子里出现 `not … any` 时，试着把 not 和 any 合成 no 挪到宾语位置。
+⛔ 一句里只能否定一次：`~~does not offer no advantage~~`（双重否定，意思反了 —— 见 #0192 附近那条）
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这类培训对老员工没有任何实际帮助。（把"没有"挂在宾语上，别用 does not… any）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `否定` `no more than`，全档只有一条讲双重否定（否定只放一处），改正动作是**删掉一个否定**；本条是**把否定挪位置**，问 1 不成立 ⇒ 新建。
+
+## #0280 `the cost / price / value of + X` —— of 结构做主语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+抽象名词 ＋ of ＋ 名词，是学术写作里最常用的主语形状，比所有格正式：
+```
+✅ `**the cost of** risk` · `**the price of** taking risks` · `**the value of** experience`
+⚠️ `risk's cost`（所有格给无生命名词，偏口语）
+```
+**of 后面能接什么**：
+```
+名词        the cost **of** the project
+动名词      the price **of** taking risks · the cost **of** playing it safe　★ 不能用不定式
+⛔ `~~the price of to take risks~~`
+```
+★ 这个结构的**主谓一致**：谓语跟 of **前面**那个中心词走（cost is / costs are），
+　与 #0055 是同一条规则的应用场景 —— 你 08-20 作文里 `the cost of risk **is**` 就是对的。
+★ 同族中心词（作文成套用）：cost · price · value · benefit · impact · role · scale ·
+　extent · proportion · number · amount。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+求稳的代价是放弃一切超出平均水平的可能。（"求稳的代价"用 of 结构做主语）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `the cost of` `of 结构`，命中的是 #0184 #0249（cost/price/bill 选词）与 #0033（time 加不加 the），都是**选词或冠词**，本条是**句法结构**，问 1 不成立 ⇒ 新建。
+
+## #0281 what 从句：一个从句顶一个名词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+`what` ＝ the thing(s) that，自带先行词，后面直接跟从句，整块当名词用：
+```
+作宾语      `yields no more than **what others gain**`
+作介词宾语  `reserved only for **what others dare not do**`
+作动词宾语  `understanding **what you want**`
+作主语      `**What matters most** is consistency.`
+```
+**判据**：想说"…的东西／…的事"而又懒得先造一个名词时，用 what。
+⛔ what 后面**不能再有先行词**：`~~the things what others gain~~`（要么 what，要么 that/which）
+⛔ what ≠ which：which 有先行词，what 没有。
+★ 高频块：`what matters` · `what really counts` · `what others dare not do` ·
+　`what is often overlooked` · `what the data suggest`。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+真正重要的是能不能坚持下去。（用 what 开头那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `what 从句` `名词性从句`，F07 现有 38 条里讲从句的是 #0128（Only if 倒装）#0131（tell sb what to do）等，没有一条讲 what 自带先行词这个机制 ⇒ 新建。
+
+## #0282 省略关系词的定语从句（先行词是宾语时才能省）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+```
+✅ `the reward **(that) it yields**`      —— reward 是 yields 的宾语 ⇒ that 可省
+✅ `a certificate **(that) anyone can get**` —— certificate 是 get 的宾语 ⇒ 可省
+⛔ `the manager **who** takes a dislike to them` —— manager 是 takes 的**主语** ⇒ **不能省**
+```
+**判据**：把从句单独拎出来读一遍 —— 先行词在从句里当**宾语**（缺宾语）⇒ 关系词能省；
+当**主语**（缺主语）⇒ 不能省。
+★ 省掉之后句子会短、也更像地道书面英语，但**一篇里不要全省**，节奏会太挤。
+⚠️ 介词后面的关系词永远不能省：`the role **in which** he served` ✅　`~~the role in he served~~` ❌
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+他给出的理由说服不了任何人。（"他给出的"用省略关系词的定语从句）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `定语从句` `关系词` `省略`，F07 里 #0143（这个从句是什么从句）讲的是分词与 and 的取舍，没有一条讲关系词能不能省 ⇒ 新建。
+
+## #0283 动名词作主语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+把一个动作变成主语，最省的办法是直接 -ing：
+```
+✅ `**Walking it** yields no more than what others gain.`
+✅ `**Raising** the minimum wage would lift many families above the poverty line.`
+⚠️ `**If you walk it**, you gain no more than…`（多一个从句、多一个 you）
+⛔ `~~To walk it yields…~~` —— 不定式作主语在书面里很少这么用，通常要 `It is … to do`
+```
+**主谓一致**：动名词短语无论多长，**永远算单数** ⇒ 谓语用三单。
+　`**Learning** a new language **takes** years.` ✅（不是 take）
+★ 与 #0266 配套：`It takes years to learn a language` 是形式主语那条路，
+　`Learning a language takes years` 是动名词那条路，**两条都对，按重心挑**：
+　想强调"这件事"⇒ 动名词作主语；想强调"要多久"⇒ It takes。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+把工作换掉往往意味着从头再来。（用动名词作主语那条路）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `动名词` `作主语`，命中 #0266（take 的时间框架）里提过 It takes 那条路，但那条管的是 take/spend 的主语选择，本条管的是**动名词能不能当主语、算单数还是复数**，问 2 不成立 ⇒ 新建。
+
+## #0284 过去分词作后置定语：a choice shaped by X
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+名词后面直接挂一个过去分词，省掉 `which is / that is`：
+```
+✅ `a choice **shaped by** one's experience`   ＝ a choice **which is** shaped by…
+✅ `the time **spent on** these therapies`
+✅ `a policy **introduced** last year` · `the costs **incurred** by these firms`
+```
+**判据**：这个名词是那个动作的**承受者**（被…的）⇒ 用过去分词；
+是**发出者**（正在…的）⇒ 用 -ing（`the man **standing** there`）。
+⛔ 别写成主动：`~~a choice shaping by experience~~`
+★ 这是把长句压短最有效的一招，一次省掉两个词。
+★ 与 #0277（分词**前置**）配套：单个分词放名词前（a **guaranteed** path），
+　分词**带了后续成分**就必须放名词后（a choice **shaped by X**）。位置由长短决定。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+去年出台的那项政策改变了整个行业的招聘方式。（"去年出台的"挂在名词后面）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `后置定语` `分词`，F07 里 #0143 讲的是"后半句用 -ing 分词别用 and"（状语），本条是**定语**，位置与功能都不同，问 2 不成立 ⇒ 新建。
+
+## #0285 破折号后面接三个平行 -ing，把抽象概念摊开
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+```
+✅ `It is a choice shaped by experience, knowledge, and judgement — **understanding** what you
+   want, **anticipating** potential problems, and **accepting** the leftover uncertainty.`
+```
+结构：`抽象说法 — 具体动作①, 具体动作②, and 具体动作③`
+**三条硬边**
+```
+① 三项必须**同形**：全部 -ing，或全部名词，不能混
+   ⛔ `understanding what you want, **anticipation** of problems, and to accept uncertainty`
+② 三项要**同层级**：都是并列的动作，不能一个大两个小
+③ 破折号前面**不能先打句号**（见 #0272）
+```
+★ 这个结构的作用是**把一个抽象名词变成看得见的三个动作**，是把论点写实的最快方式。
+⚠️ 位置有讲究：它展开的是"怎么做"（HOW）。放在 T2 的**论证段**里会丢 TR 第 4 项
+　（论证必须回答 WHY）—— 你 08-20 那篇就是这么丢的。想用它，放在**定义段或例子段**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+好的准备无非三件事——弄清目标、预判风险、留出余地。（破折号后面三个动作，形式要一致）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `平行` `并列同形` `破折号`，F07 里有"并列同形"的条目讲的是 and 两边词性一致，本条是**破折号后三项展开**这个整块结构（含位置规则），问 2 不成立 ⇒ 新建。
+
+## #0286 `X is impossible to do` —— 主语其实是那个动作的宾语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+```
+✅ `these costs are **impossible to calculate**`   ＝ 算不出这些代价（costs 是 calculate 的宾语）
+✅ `the effect is **hard to measure**` · `this point is **easy to overlook**`
+⛔ 后面**不要再补宾语**：`~~these costs are impossible to calculate them~~`
+```
+能进这个结构的形容词是**闭集**，背下来就够用：
+```
+easy · hard · difficult · impossible · simple · tough · convenient · dangerous
+＋ pleasant · comfortable
+```
+**判据**：`It is impossible to calculate these costs` 与 `These costs are impossible to calculate`
+两句意思一样，**换主语就是换重心** —— 想让读者盯住"这些代价"，就把它提到主语位。
+⛔ `important / necessary / essential` **不能**这样用：
+　`~~This point is important to remember~~` ⚠️ 有歧义 ⇒ 写 `It is important to remember this point`。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这项政策的长期影响很难衡量。（把"影响"放到主语位置那种写法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `impossible to` `easy to` `逻辑宾语`，全档零命中 ⇒ 新建。
+
+## #0287 so is / so does + 主语 的倒装：「…也一样」
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+```
+✅ `while the price of taking risks is real, **so is** the cost of playing it safe`
+✅ `Prices have risen, and **so have** wages.`
+✅ `She works hard, and **so does** he.`
+```
+**三条硬边**
+```
+① 助动词要跟前一句**对上**：前句 is → so is；前句 have risen → so have；
+   前句是实义动词一般现在时 → so does / so do
+② 主语放最后（这就是倒装）：`so is **the cost**` ✅　`~~so the cost is~~` ❌
+③ 否定要换成 neither / nor：`He doesn't smoke, and **neither does** she.`
+   ⛔ `~~and so doesn't she~~`
+```
+⚠️ 别和 `so … that`（如此…以至于）混，那是另一个结构。
+★ 作文里最好的用法就是**结论段的对称句**：`while A is X, so is B` —— 两边用同一个名词
+（the price of… / the price of…）读起来最整齐。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+冒险有代价，求稳同样有代价。（后半句用倒装那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `so is` `倒装`，命中 #0128（Only if 置句首必倒装）—— 那条管的是**否定/限定词前置引发的倒装**，本条管的是 `so ＋ 助动词 ＋ 主语` 这个独立结构，问 2 不成立 ⇒ 新建。
+
+## #0288 最高级 + 抽象名词作主语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+
+**问题是什么**
+```
+✅ `**the safest choice** usually carries **the lowest payoff**`
+✅ `**the biggest obstacle** is not money but time`
+✅ `**the most likely outcome** is that nothing changes`
+```
+**三条硬边**
+```
+① 最高级前面**必须有 the**：`**the** safest choice` ✅　`~~safest choice~~` ❌
+② 三个音节以上用 most，不加 -est：`the most likely` ✅　`~~the likeliest~~` ⚠️ 少用
+③ 与 #0106 的分界：只有两个选项时用**比较级**不用最高级
+   `the **better** of the two` ✅　`~~the best of the two~~` ❌
+```
+★ 这个形状的价值在于**它自带论点**：一说"最安全的选择"，读者就在等你说它的代价 ——
+　等于用主语先把悬念立起来，比 `If a choice is safe, it usually…` 有力得多。
+★ 常用中心词：choice · option · obstacle · outcome · risk · advantage · concern · argument。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她在原稿里把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+最省事的办法往往效果最差。（用"最…的＋名词"当主语）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `最高级`，命中 #0106（两个选项时用比较级不用最高级）与 #0031（比较级前泛指用 a），两条都管**选级别**，本条管**最高级名词块当主语这个句法位置**，问 2 不成立 ⇒ 新建，并与 #0106 交叉引用。
+
 ---
 
 # F08 词义/近义辨析
 
 > 选错词、近义词边界
-- 2026-08-20 ✅ D3 学习日 C2·组1 第 9 题
-  题面「虽然价格降了，销量还是没起来」，她写 `**Even though the price has dropped**, sales don't go up`。
-  从属连词后面接的是完整从句（有主语有谓语）⇒ 考点命中，连对 1。
-  08-19 建号那次写的是 `Even though working overtime`，隔一天这个坑没再踩。
-  同句一处不属于本条：`sales don't go up` 时态错 —— 记在 #0192。
-- 2026-08-20 　作文 T2-17　**高压 ✅ 留痕，不重复推进**
-  S16 `**While these costs are impossible to calculate in advance**, they can certainly be kept to a minimum.`
-  从属连词 While 后面是完整从句（有主语有谓语），不是 -ing ⇒ 考点在作文里也守住了。
-  ⚠️ 同日已在组1 第 9 题记过 ✅，按"当天只推进一次"不重复计。
 
 ## #0090 学生必须在周五前交作业
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-16 ｜ 族 F08
@@ -5945,6 +6443,10 @@ P11　R · P11
   又逐条看了 F08 里的近义边界条目 #0181（proposal ≠ advice）、#0184（cost/price/spending）、
   #0256（reject ≠ deny）、#0262（deadline 配 meet/miss）：
   四条分的都是**不同的词**，本条分的是**同一个动词的不同小品词**，问 1 不成立 ⇒ 新建。
+- 2026-08-20 ✅ D3 学习日 C2·组1 第 10 题
+  题面「想参加培训的人要在周五之前报名」，她写 `… must **sign up** by Friday`。
+  报名＝sign up（不是 sign in）⇒ 考点命中，连对 1。`by Friday` 也对。
+  同句一处按 §3.2 豁免不记：`trainning` → `training`。理由写在 #0087。
 
 ## #0270 工资／收入这一族：先分清"谁的钱、按什么发"，再挑词
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
@@ -6008,20 +6510,758 @@ income / earnings / pay 一次都没出现过，说明谈钱的时候她只有�
   又比对了 #0184（cost / price / spending 三分法）与 #0249（bill / fee / cost）：
   那两条分的是"花出去的钱"，本条分的是"挣进来的钱"，两套词零重叠 ⇒ 不合并。
   ⇒ 新建。建号时无对错，连对连错都是 0。
+- 2026-08-20 ✅ 作文 T2-17　**高压 ✅**（建号当天就在作文里用对）
+  S5 `an individual who changes jobs for better **pay** or a higher title`。
+  按周期发的钱这个位置她选了最通用的 pay，没有误用 wage（按小时/蓝领）或 salary（按月/白领）
+  ⇒ 考点命中。当天净结果 ✅（建号那行是 ③，不推进 streak）⇒ 连对 1。
+
+## #0289 yield ＝ 产出、带来（不是"屈服"那个意思）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+`yield` 在书面英语里最常用的意思是**产出、带来**，主语是"投入的东西"：
+```
+✅ `the reward it **yields**` · `walking it **yields** no more than…`
+✅ `The trial **yielded** promising results.` · `This approach **yields** a higher return.`
+搭配：yield **results / a return / benefits / data / insights / no more than X**
+```
+同族三个，按主语挑：
+```
+yield     强调"产出多少"，主语是方法、投资、土地   `The method yields consistent results.`
+produce   最通用、最中性                        `The policy produced an unexpected effect.`
+generate  强调"从无到有造出来"，主语常是系统/活动  `Tourism generates jobs.`
+```
+⚠️ `yield` 的另一个意思是"让步、屈服"（`yield to pressure`），作文里两个意思都会用到，
+　 靠**后面接不接 to** 分：`yield sth`（产出）／`yield **to** sth`（屈服）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这种做法带来的回报远远超过投入。（"带来"用 yield 那个词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `yield`，全档只命中今天作文的记录，零条目 ⇒ 新建。
+
+## #0290 be accessible to sb ＝ 对某人开放／够得着
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `A guaranteed path to success is **accessible to** anyone.`
+✅ `Higher education should be **accessible to** students from all backgrounds.`
+搭配：accessible **to** sb（对谁开放）· accessible **by** 交通工具（怎么到达）
+```
+同族按"障碍在哪"分：
+```
+accessible to    没有门槛，谁都能用／能到      `accessible to everyone`
+available to     有存货、有名额，能拿到        `The scheme is available to first-time buyers.`
+open to          制度上允许（也指"愿意接受"）  `open to the public` · `open to criticism`
+within reach of  够得着（常指经济上）          `within reach of ordinary families`
+affordable to    买得起                       `affordable to low-income households`
+```
+**判据**：障碍是**通路**（accessible）、**数量**（available）、**规则**（open）还是**钱**（affordable）？
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+优质教育资源应该让所有家庭都够得着。（"够得着"用 accessible 那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `accessible` `available to`，全档零命中 ⇒ 新建。
+
+## #0291 a path / route / road to + 名词 ＝ 通往…的路
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `a **path to** success` · `the **route to** promotion` · `the **road to** recovery`
+⛔ 介词只能是 to：`~~a path of success~~` · `~~a path for success~~`
+```
+三个词的分工：
+```
+path    抽象、个人的路径（最通用，作文首选）  `a path to success` · `a career path`
+route   有具体路线感，常配 the                `the fastest route to market`
+road    最有画面、也最俗套，慎用              `the road to recovery`（经济复苏常用）
+```
+同族抽象"路"的块（成套用）：
+```
+a stepping stone to    通向…的踏脚石       a shortcut to        捷径
+a barrier to           通往…的障碍         the key to           …的关键（也配 to！）
+an obstacle to         阻碍                a gateway to         门户
+```
+★ 注意上面这一族**介词全是 to**：`the key **to** success` ✅ `~~the key of success~~` ❌
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+语言只是通往这份工作的一块踏脚石。（"通往…的"这类块，介词别写错）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `path to` `the key to` `route`，全档零命中 ⇒ 新建。
+
+## #0292 carry ＋ 抽象名词 ＝ "自带、附带"（不是"搬"）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+`carry` 后面接抽象名词时，意思是**这件事本身自带某种性质**：
+```
+✅ `the safest choice usually **carries** the lowest payoff`
+✅ `Every investment **carries** a risk.` · `His words **carry** weight.`
+✅ `The offence **carries** a heavy penalty.` · `This role **carries** great responsibility.`
+```
+常见宾语（背这一串就够）：
+```
+carry **a risk / weight / a penalty / responsibility / consequences / implications /
+       a payoff / a price / authority / conviction**
+```
+**判据**：想说"这件事**本身就带着**某种后果或分量" ⇒ carry；
+想说"造成、导致" ⇒ 用 cause / lead to / bring about（那是**因果**，不是**自带**）。
+⚠️ 一个细分：`carry a risk`（风险是内在的）≠ `pose a risk`（对别人构成威胁）
+　 `Smoking **carries** health risks.`（吸烟这件事自带风险）
+　 `The dam **poses** a risk to nearby villages.`（水坝对村子构成威胁）
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+每一项投资本身都带着风险。（"带着"用 carry 那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `carry`，全档零命中；与 #0184（cost/price/spending 三分法）不同 —— 那条分名词，本条讲**动词 carry 能带哪些抽象宾语**，问 1 不成立 ⇒ 新建。
+
+## #0293 payoff / return / reward / gain 四个"回报"怎么分
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+payoff   投入之后**最终换来的那个结果**，略口语但书面可用，常配 low / high / big
+         `the lowest **payoff**` · `The payoff came years later.`
+return   **金融和投资**的标准词，可数，常配 on
+         `a high **return on** investment` · `diminishing **returns**`
+reward   偏"值得"的那层价值判断，常与 risk 对举 ★ T2 里最常用
+         `the **rewards** of taking risks outweigh the risks`
+gain     **净增加的量**，常复数，也常与 loss 对举
+         `the **gains** outweigh the **losses**` · `financial **gains**`
+benefit  最中性最通用，说"好处"用它最安全
+         `the **benefits** of exercise`
+```
+**判据**：讲**钱** ⇒ return／gain；讲**值不值** ⇒ reward；讲**最后换来什么** ⇒ payoff；
+拿不准 ⇒ benefit（永远不出错）。
+★ 与 #0270（wage / salary / pay / income / earnings）配套：那条分"挣进来的钱"，
+　本条分"投入换来的回报"，两套词不重叠。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这类投入的回报往往要等好几年才看得见。（"回报"这里该用哪个词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `payoff` `return` `reward`，全档零命中；与 #0270（工资收入一族）分的是不同的钱，问 1 不成立 ⇒ 新建。
+
+## #0294 be reserved for ＝ 只留给（不是"预订"）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `real rewards are **reserved for** what others dare not do`
+✅ `The top jobs are **reserved for** those with experience.`
+✅ `This lane is **reserved for** buses.`
+```
+**判据**：想说"这东西**只给某一类人／某一种情况**，别人没份" ⇒ be reserved for。
+它自带一层**排他**的意思，比 `are only given to` 有力。
+同族（按"给不给得到"排）：
+```
+be reserved for   只留给某一类（排他最强）    be confined to      局限在…范围内
+be limited to     被限制在…以内              be restricted to    被规定只能…
+be open to        对…开放（相反方向）        be available to     对…可得
+```
+⚠️ 别和 `reserve a table / a seat`（预订）混 —— 那是 reserve 的及物动词用法，
+　 靠**被动 + for** 认出这个意思：`be reserved **for**` ⇒ 只留给。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+最好的机会往往只留给敢先动手的人。（"只留给"用被动那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `reserved` `confined to` `limited to`，命中 #0269（在小范围四条路）里列过 be limited to / be confined to —— 那条管的是**「范围」这个概念怎么说**，本条管的是 **reserved for 的排他语义**，问 2 不成立 ⇒ 新建，并与 #0269 交叉引用。
+
+## #0295 shaped by / grounded in / based on / rooted in ＝ "建立在…之上"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+四个都翻成"基于／建立在…上"，但**比喻来源不同，搭的东西也不同**：
+```
+based on      最通用、最安全，什么都能接        `a decision **based on** evidence`
+grounded in   ★ 强调"有扎实依据"，接理论/研究/现实  `**grounded in** research` · `grounded in reality`
+rooted in     强调"源头在那儿、长出来的"，接文化/历史/传统 `**rooted in** tradition`
+shaped by     强调"被塑造成现在这样"，接经验/环境/力量   `a choice **shaped by** experience`
+```
+**判据**：你要说的是**依据**（based on / grounded in）、**源头**（rooted in）、
+还是**成因**（shaped by）？
+★ 语域顺序：based on（中性）＜ shaped by ＜ grounded in ／ rooted in（最正式）。
+⚠️ 介词固定，不能换：`grounded **in**` ✅ `~~grounded on~~` ❌　`rooted **in**` ✅ `~~rooted from~~` ❌
+⚠️ 与 #0284（过去分词作后置定语）配套用：这四个块最常见的位置就是名词后面
+　（`a choice **shaped by** experience`），那是句法，本条是选词。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这套做法是建立在多年一线经验之上的。（"建立在…之上"用一个比"based on"更实的词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `based on` `grounded` `rooted`，命中 #0169（rest on individual experience）—— 那条是**一个整块**（靠个案经验而非大规模试验），本条是**四个近义块的分工**，问 2 不成立 ⇒ 新建，并与 #0169 交叉引用（rest on 也属这一族）。
+
+## #0296 anticipate ＝ 预判并提前应对（不只是"预料"）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `**anticipating** potential problems` · `**anticipate** demand / objections / criticism`
+✅ `far higher than **anticipated**`（作过去分词用，见 #0304）
+```
+`anticipate` 比 expect 多一层**"因此提前做了准备"**：
+```
+expect      单纯地"以为会发生"        `I expect prices to rise.`
+anticipate  预料到 **并且据此行动**    `The company anticipated the shortage and stockpiled.`
+foresee     看得到（常用于否定）      `No one could have foreseen this.`
+predict     做出预测（常有依据/模型）  `The model predicts a 3% rise.`
+```
+**判据**：这句里有没有"因此提前做了什么"的意思？有 ⇒ anticipate；没有 ⇒ expect。
+⚠️ 语法陷阱：`anticipate` 后面接**动名词或名词**，不接不定式：
+　`anticipate **facing** difficulties` ✅　`~~anticipate to face~~` ❌
+　（expect 相反：`expect **to face**` ✅）
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+有经验的人会提前把可能出的问题想到并准备好。（"提前想到并准备"用 anticipate）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `anticipate` `expect` `predict`，全档零命中 ⇒ 新建。
+
+## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `accepting the leftover **uncertainty**` · `**Uncertainty** is inevitable.`
+✅ `Risk is invariably accompanied by **uncertainty**.`
+```
+**冠词与数**（最容易错的一层）：
+```
+不可数（泛指"不确定性"这个概念）—— 零冠词  `**Uncertainty** discourages investment.`
+可数（具体的某一处不确定）—— 加冠词/复数    `There are still **a few uncertainties** about the timeline.`
+```
+常配的动词与形容词：
+```
+动词  **accept / live with / reduce / remove / cope with** uncertainty
+形容词 **considerable / genuine / residual / lingering** uncertainty
+      ⚠️ `leftover uncertainty` 能懂但偏口语，书面写 **residual / remaining**
+```
+★ 与 #0269（在小范围）里 `within a narrow range` 是同一个话题域（不确定与幅度），
+　 但那条管"范围"，本条管"不确定性"这个名词本身。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+再周密的计划也留着一部分说不准的地方。（"说不准的地方"用 uncertainty，注意冠词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `uncertainty`，全档只命中今天作文的记录，零条目 ⇒ 新建。
+
+## #0298 keep / reduce sth to a minimum ＝ 把…压到最低
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `they can certainly be **kept to a minimum**`
+✅ `**Keep** interruptions **to a minimum**.` · `**reduce** waste **to a minimum**`
+⛔ 冠词不能丢：`to **a** minimum` ✅　`~~to minimum~~` ❌（可数单数不能光着，#0074）
+```
+同族"最低/最大"块（成套记，冠词都要）：
+```
+keep sth **to a minimum**       压到最低        make the most **of** sth   充分利用
+reduce sth **to a minimum**     同上            at **a** minimum          至少
+bring sth **to an end**         结束            to **a** large extent     很大程度上
+take sth **to an extreme**      走极端          at **the** very least     退一万步说
+```
+**判据**：这一族都是「to ＋ 冠词 ＋ 名词」的固定形，**冠词是块的一部分，不是可选项**。
+★ 写完这类块，回头数一眼冠词在不在 —— 这是它们唯一的高频错法。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+排班的时候要把加班时间压到最低。（"压到最低"那个固定块，别丢冠词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `minimum` `to a large extent`，全档零命中 ⇒ 新建。
+
+## #0299 exceed / outweigh / surpass / outstrip 四个"超过"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+exceed     数量上**超出某个界限或数字**（最常用，最安全）
+           `the gains **exceed** the losses` · `**exceed** expectations / the limit / 30%`
+outweigh   ★ **分量上压过**，专用于"利弊比较"——雅思大作文的核心动词
+           `the advantages **outweigh** the disadvantages`
+surpass    **超越（某人/某个纪录/某个水平）**，带竞争感
+           `**surpass** last year's record` · `**surpass** the average`
+outstrip   增长速度上**甩开**，主语常是需求/成本/人口
+           `Demand has **outstripped** supply.`
+```
+**判据**：比的是**数**（exceed）、**分量／利弊**（outweigh）、**名次／水平**（surpass）、
+还是**增速**（outstrip）？
+★★ 雅思 advantages/disadvantages 题**必须用 outweigh** —— 那是题目本身的词，
+　 用它就是在用题目的话回答题目（这正是 #0271 那条规则要的动作）。
+⚠️ 四个都是**及物动词**，后面直接跟宾语：`~~exceed than~~` ❌ `~~outweigh over~~` ❌
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+收益最终会超过投入的成本。（"超过"用一个讲数量的词，不是讲利弊的那个）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `exceed` `outweigh` `surpass`，命中的是今天作文与 #0271 的记录，零条目 ⇒ 新建。
+
+## #0300 play it safe ／ 求稳与冒险这一族习语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `the cost of **playing it safe**` ＝ 求稳、不冒险的代价
+✅ `**play it safe** and stick to what you know`
+```
+同族（作文里成对用，力量最大）：
+```
+求稳这边   **play it safe** · **err on the side of caution**（宁可保守）
+          · **stay in one's comfort zone** · **take the safe option**
+冒险那边   **take a chance / take a gamble** · **stick one's neck out**（出头冒险）
+          · **step out of one's comfort zone** · **bet on** sth
+```
+**语域提醒**：这一族是**习语**，比中性词生动但也更口语。T2 里**一篇用一到两个就够**，
+放在**段尾或结论**最合适（那是允许有力度的位置）；正文论证段还是用中性说法
+（`avoid risk` · `take a calculated risk`）。
+⚠️ `play it safe` 里的 **it 不能换、不能省**，是习语的固定件：`~~play safe~~` ⚠️ 英式口语有，书面写全。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+一味求稳本身也是有代价的。（"求稳"用那个带 it 的习语）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `play it safe` `comfort zone` `take a chance`，全档零命中 ⇒ 新建。
+
+## #0301 in advance / beforehand / in anticipation 三个"事先"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+in advance       最通用、最书面      `cannot be quantified **in advance**` · `book **in advance**`
+                 也可以带具体时长：`two weeks **in advance**`
+beforehand       偏口语，位置更灵活   `We should have checked **beforehand**.`
+in anticipation of ＋名词  因为预料到某事而提前做  `stockpiled **in anticipation of** shortages`
+prior to ＋名词  正式的"在…之前"     `**prior to** the meeting`（＝ before，但更正式）
+```
+**判据**：只是"提前" ⇒ in advance；口语场合 ⇒ beforehand；
+"因为预料到某事所以提前" ⇒ in anticipation of（这一层 in advance 表达不出来）。
+⚠️ 位置：`in advance` 一般放**句末**；放句首要加逗号。
+⚠️ `in advance of` ＋ 名词 ＝ 在…之前（`in advance of the deadline`），与 in anticipation of 不同：
+　 前者只讲**时间先后**，后者讲**因果加时间**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这类代价事先根本算不清楚。（"事先"用最书面的那个）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `in advance` `beforehand` `prior to`，全档零命中 ⇒ 新建。
+
+## #0302 抽象名词配 real ＝ "不是空谈，是真会发生的"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `The cost of risk **is very real**.` ＝ 这个代价是真会落到你身上的，不是纸上谈兵
+✅ `The threat **is real**.` · `There is a **real** danger that…` · `a **real** risk of failure`
+```
+`real` 用在抽象名词上有两个不同的作用，别混：
+```
+作表语（X is real）    ＝ 这件事真的存在／真的会发生   `The risk **is real**.`
+作定语（a real X）     ＝ 名副其实的、够格的           `no **real** advantage` ＝ 算不上优势
+```
+★ 两个用法你在同一篇里都用了（`is very real` 与 `no real advantage`），
+　 它们**不是同一个意思**，值得分清。
+同族强调"真的"（按力度排）：
+```
+real（最中性）＜ genuine（真心的、非伪造的）＜ serious（严重的）＜ pressing（迫在眉睫的）
+`a **genuine** concern` · `a **serious** obstacle` · `a **pressing** need`
+```
+⚠️ 学术文里 `very real` 的 very 通常删掉更有力（见 #0321）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这种担忧不是空穴来风，是真会发生的。（用 real 作表语那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `real` `genuine`，命中的是今天作文与判分记录，零条目 ⇒ 新建。
+
+## #0303 引言里"一直有争论"的一族块
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+按长度／重量排（都放在引言第一句）：
+`X **is debated**.`                              最短，直接当谓语
+`X **is a matter of ongoing debate**.`            中等
+`X **has long been a subject of debate**.`        ★ 你用的这个，最稳
+`X **has sparked considerable debate**.`          强调"引发了"，主语是那件事
+`**Opinion is divided on** X.`                    换个角度：强调两派对立
+`**There is no consensus on** X.`                 强调"没定论"
+```
+**判据**：想说"这事一直在争" ⇒ has long been a subject of debate；
+想说"这事**引发了**争论" ⇒ has sparked debate；想说"**两派对立**" ⇒ opinion is divided on。
+⚠️ 长度是有代价的：`has long been a subject of debate` 是 8 个词，
+　 引言只有两三句，用了它就没预算再铺垫 ⇒ **要么用它，要么直接写 `is debated`，别两个都上**。
+★ 与 #0271 配套：引言这一句只负责"这事有争议"，**立场必须另起一句**（见 #0312）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+要不要让学生带手机进校园，一直有争论。（"一直有争论"用最稳的那个块）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `debate` `consensus` `opinion is divided`，命中的是今天的记录，零条目 ⇒ 新建。
+
+## #0304 than expected / than anticipated —— than 后面省掉主谓
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `far higher **than anticipated**`　＝ than it was anticipated to be（省掉了主谓）
+✅ `The results were better **than expected**.` · `sooner **than forecast**`
+⛔ 别补全：`~~higher than what was anticipated~~` ⚠️ 语法对但笨重
+```
+一族（按语域排）：
+```
+than expected      最通用           than anticipated   更正式 ★ 你用的这个
+than forecast      经济/天气语境     than previously thought  强调"以前的看法被推翻"
+than usual         比平常            than average       比平均水平
+```
+**判据**：这一族的共同点是 **than ＋ 过去分词/名词，中间什么都不加**。
+★ T1 里非常好用：`The figure rose faster **than forecast**.`
+⚠️ 与比较级本身分开记：比较级构形是 #0248（much ＋ 比较级），
+　 本条管的是 **than 后面那半截怎么省**，两条互补。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+实际花的时间比预想的长得多。（"比预想的"用 than 后面省掉主谓那个写法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `than expected` `than anticipated`，全档零命中；与 #0248（much/far ＋ 比较级）互补——那条管 than **前面**，本条管 than **后面**，问 2 不成立 ⇒ 新建。
+
+## #0305 adapt to / adjust to / get used to / acclimatise to（她自己点名要对比）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+adapt to        ★ **主动改变自己**去适应新环境，最正式、作文首选
+                `**adapt to** the new environment` · `Firms must **adapt to** changing demand.`
+adjust to       **微调**，幅度比 adapt 小
+                `**adjust to** a new schedule`
+get used to     **被动地习惯了**，口语；强调"从不习惯到习惯"这个过程
+                `It took him months to **get used to** the noise.`
+acclimatise to  专指**气候/海拔/环境**的生理适应（英式拼写；美式 acclimate）
+```
+**三条硬边**
+```
+① 四个后面都跟**名词或动名词**，不跟不定式
+   `get used to **working** nights` ✅　`~~get used to work nights~~` ❌
+② `used to do`（过去常做）和 `be/get used to doing`（习惯了）**完全是两回事**
+   `He **used to work** nights.`（以前常上夜班）≠ `He **is used to working** nights.`（习惯了上夜班）
+③ 作文里默认用 adapt to；get used to 偏口语，除非要强调"熬过来了"
+```
+★ `struggle to do` 这个框架顺带记：**努力去做但吃力** —— `**struggle to** adapt` ＝ 适应得很吃力，
+　比 `find it hard to adapt` 短。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+刚换城市的人往往要花很久才适应当地的节奏。（"适应"用最正式那个，并注意后面接什么形式）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `adapt` `get used to` `adjust`，全档零命中 ⇒ 新建。
+
+## #0306 take a dislike / a liking to sb ＝ 莫名地开始不喜欢／喜欢
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `a new line manager simply **takes a dislike to** them`
+✅ `She **took a liking to** him at once.`
+```
+这个块比 `dislike sb` 多两层意思：
+```
+① **开始**（从中性变成不喜欢，是个转折点）
+② **没什么道理**（常和 simply / for no reason 连用）
+⇒ `He simply **took a dislike to** her.` ＝ 他就是莫名其妙看她不顺眼
+   `He **disliked** her.` ＝ 他不喜欢她（只说状态，不说来由）
+```
+同族 `take ＋ a ＋ 名词 ＋ 介词`（成套记，冠词都不能丢）：
+```
+take **a dislike to** sb      take **an interest in** sth     take **offence at** sth（因…生气）
+take **a liking to** sb       take **pride in** sth（无冠词）  take **advantage of** sth（无冠词）
+```
+⚠️ 冠词是块的一部分：`take **a** dislike to` ✅ `~~take dislike to~~` ❌；
+　 但 `take pride in` / `take advantage of` **不带冠词** —— 这一族不统一，只能一个个记。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+新来的主管不知为什么就是看他不顺眼。（"看不顺眼"用 take 那个块）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `take a dislike` `take an interest`，全档零命中 ⇒ 新建。
+
+## #0307 职场名词块一族：career progression 及同族
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+career progression   晋升通道、职业发展（英式常用）★ 你用的这个
+career advancement   同上，美式更常见
+promotion prospects  升职前景（复数）
+career path          职业路径（一条走法）
+job security         工作稳定性（不可数）
+workload             工作量（不可数）
+work-life balance    工作生活平衡
+line manager         直属主管（英式）★ 你这篇也用了
+turnover             人员流动率（不可数，`a high staff turnover`）
+```
+**这一族的共同陷阱是【数与冠词】**：
+```
+不可数、零冠词   job security · workload · career progression（作抽象概念时）
+可数、要冠词     a career path · a line manager · a promotion
+复数固定         promotion prospects · working conditions · employment opportunities
+```
+★ T2 工作类题（work / career / employment）几乎每篇都要用其中三四个，成套背最划算。
+⚠️ 与 #0270（wage / salary / pay / income / earnings）配套：那条管**钱**，本条管**职位与发展**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这家公司的晋升通道很窄，工作量却很大。（两个职场名词块，注意冠词和数）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `career` `progression` `job security`，全档零命中；与 #0270 分的是不同话题域（钱 vs 职位），问 1 不成立 ⇒ 新建。
+
+## #0308 quantify / measure / assess / gauge 四个"衡量"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+quantify  **换算成数字**（最强，强调"给出具体的量"）
+          `Such costs cannot be **quantified** in advance.` · `hard to **quantify**`
+measure   **测量**，可以是数字也可以是标准
+          `**measure** performance / progress / success`
+assess    **评估**（综合判断，不一定出数字）★ 学术写作最常用
+          `**assess** the impact / the risks / the damage`
+gauge     **估摸、摸清**（凭观察，最不精确）
+          `**gauge** public opinion / the mood`
+evaluate  **评价好坏**（带价值判断）
+          `**evaluate** the effectiveness of the policy`
+```
+**判据**：要不要出**具体数字**？要 ⇒ quantify／measure；不要 ⇒ assess／evaluate；
+只是"摸个大概" ⇒ gauge。
+★ 作文里最好用的搭配：`difficult to **quantify**` · `**assess** the impact of X` ·
+　`**measure** the success of X`。
+⚠️ `quantify` 是及物动词，后面必须有宾语：`~~It is hard to quantify.~~` ⚠️ 要补 `quantify **it**`。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这项政策的社会影响很难用数字衡量。（"用数字衡量"用最精确的那个词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `quantif` `assess` `measure` `gauge`，全档零命中 ⇒ 新建。
+
+## #0309 irrelevant to ／ unrelated to ／ has nothing to do with
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+irrelevant **to**   ★ **与当下这件事不相干**（含"所以不该拿来说"的判断）
+                    `something completely **irrelevant to** your job`
+                    `That point is **irrelevant to** the argument.`
+unrelated **to**    **两件事之间没有关联**（中性陈述，没有判断）
+                    `an illness **unrelated to** the treatment`
+have nothing to do with   口语版的 unrelated to
+beside the point    习语：**跑题了**（比 irrelevant 更口语、更冲）
+```
+**判据**：你是在说"**没关系**"（unrelated），还是在说"**说了也没用、不该提**"（irrelevant）？
+后者带评判，前者不带。
+⚠️ **介词是块的一部分**：`irrelevant **to**` ✅　光一个 `irrelevant` 意思会变成"离题的、无关紧要的"，
+　 虽然也成立但少了那个"和什么无关"。作文里几乎总要带 to。
+★ 同族"相关"那一边：`relevant **to**` · `related **to**` · `have a bearing **on**`（对…有影响）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+他提的那点和我们讨论的问题不相干。（"不相干"用带判断的那个词，别忘介词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `irrelevant` `unrelated` `relevant`，命中的是今天的记录，零条目 ⇒ 新建。
+
+## #0310 push sth off its set path ／ 用具体动作说抽象变化
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `they are exactly what **pushes a person's life off its set path**`
+```
+这一族的价值在于**用一个看得见的动作，说一件看不见的事**：
+```
+push sth **off** its set path        把…推离既定轨道
+knock sth **off course**             把…打偏（更强，常指计划被打乱）
+set sth **on a different course**    让…走上另一条路
+open **doors** for sb                为…打开门（机会）
+close **doors**                      关上门（断了后路）
+pave the way **for** sth             为…铺路
+```
+"既定的路"三个说法（语域从低到高）：
+```
+a set path（最通俗）＜ a predetermined track ＜ the beaten track（老路、常规路）
+`step off the beaten track` ＝ 走非常规的路
+```
+**判据**：抽象论点写完之后问一句 —— 有没有一个**具体动作**能把它演出来？
+有 ⇒ 换上去；没有 ⇒ 就用中性说法，别硬造比喻（硬造出来的最容易变成中式块）。
+⚠️ 一篇里这类比喻**最多两个**，多了会显得用力过猛。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+正是这些决定把一个人的人生推离了原本的轨道。（"推离…轨道"用一个具体动作的说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `off course` `pave the way` `set path`，全档零命中 ⇒ 新建。
 
 ---
 
 # F09 时态/体
 
 > 时态选择、时间状语与时态的配对、体的平行
-- 2026-08-20 ✅ D3 学习日 C2·组1 第 10 题
-  题面「想参加培训的人要在周五之前报名」，她写 `… must **sign up** by Friday`。
-  报名＝sign up（不是 sign in）⇒ 考点命中，连对 1。`by Friday` 也对。
-  同句一处按 §3.2 豁免不记：`trainning` → `training`。理由写在 #0087。
-- 2026-08-20 ✅ 作文 T2-17　**高压 ✅**（建号当天就在作文里用对）
-  S5 `an individual who changes jobs for better **pay** or a higher title`。
-  按周期发的钱这个位置她选了最通用的 pay，没有误用 wage（按小时/蓝领）或 salary（按月/白领）
-  ⇒ 考点命中。当天净结果 ✅（建号那行是 ③，不推进 streak）⇒ 连对 1。
 
 ## #0190 「这里可以换成 might 么」
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 — ｜ 族 F09
@@ -6312,18 +7552,17 @@ K（判据）
   没有一条讲**动词本身的体**（瞬间 vs 持续）。
   最近的是 #0192（已经好几年没有任何好转 → 强制完成时）与 #0197（in recent years 配完成时），
   两条讲的都是"选哪个时态"，本条讲的是"这个动词能不能配时段"，问 2 不成立 ⇒ 新建。
-
----
-
-# F10 语义缺失(中文丢一层)
-
-> 语法全对但中文明写的一层没送到
 - 2026-08-20 ✅ D3 学习日 C2·组1 第 6 题
   题面「他在这家公司已经待了八年」，她写 `he **has been staying** at the company for 8 years`。
   考点＝配 `for + 时段` 的动词必须是持续性的：她没有用 join，选了 stay 并且上了完成进行体 ⇒ ✅，连对 1。
   `staying` 略偏（stay 暗示临时借住／暂留），`has been **with** the company` ／ `has **worked** at`
   更贴八年这个跨度 —— 进更好版，不判错。
   `8` 写成阿拉伯数字：作文里十以内建议拼成 eight，但这是风格不是错，按 §2② 不收条目。
+---
+
+# F10 语义缺失(中文丢一层)
+
+> 语法全对但中文明写的一层没送到
 
 ## #0126 中文里明写的修饰层，写英文时丢掉
 状态：在池 ｜ 连对 0 ｜ 连错 3 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F10
@@ -7009,12 +8248,6 @@ U · 待排序　0/2
   本条讲**结论段整段的功能**（篇章层，改正动作是把问题换回来）。
   问 1、问 2 都不成立 ⇒ 新建。
   ⇒ 本条属 §2④「只能挂作文验的」，不出中译英单点题，连对连错只在作文判分时推进。
-
----
-
-# F14 衔接/连接词
-
-> 连接词选择与位置、转折的搭法
 - 2026-08-20 ✅ 作文 T2-17　**高压 ✅**（她质疑教练当天建号，同一天就在作文里守住）
   结论段 S20 `I firmly believe the rewards of taking risks genuinely **outweigh** its costs,
   **provided that** such risks are built on experience and judgement rather than blind gambling.`
@@ -7024,6 +8257,80 @@ U · 待排序　0/2
   　 not whether to take risks, but how to manage them intelligently.` —— 把题目换掉了。
   　 本条管的是结论段，所以不判错；但这说明**换问题这个习惯不只出现在结尾**。
   ⇒ 本条说明补一句：段尾的 L 句同样不许换问题（TR 清单第 5 项就丢在这里）。
+
+## #0311 段首短断言句：主语 ＋ be ＋ 一个形容词，五个词收尾
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F12
+
+**问题是什么**
+```
+✅ `**The cost of risk is very real.**`（段首）
+✅ `**The evidence is mixed.**` · `**This argument is flawed.**` · `**The trend is clear.**`
+```
+**作用**：段落一开头先用一句极短的话把中心钉死，读者立刻知道这段要说什么，
+后面所有句子都是在展开它。这是 CC 清单第 2 项（每段一个中心，topic sentence 单独读能站住）
+最容易达成的做法。
+**三条硬边**
+```
+① 短。五到八个词，一个从句都不要。长了就不是钉子了
+② 形容词要有**判断**：real / clear / flawed / mixed / limited / misleading
+   ⛔ 别用没信息量的：`The situation is complicated.` 等于没说
+③ 一段只钉一次。第二句起就要展开，不要连着写两句断言
+```
+★ 与 #0312 分工：本条是**正文段**的开头，#0312 是**引言**里的立场句。两个位置不同。
+⚠️ 反面：段首直接举例（`For example, …`）是最常见的失分写法 —— 读者要读到段中才知道你在论证什么。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+（挂作文验为主。出单点题时用两句式题面：「代价是真实的。它总是伴随着不确定性。」——逼出段首那句极短的断言。）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `topic sentence` `段首`，F12 现有 2 条（#0222 对冲词说软立场 / #0271 结论段不许换问题），都不管段首 ⇒ 新建。
+
+## #0312 引言立场句的骨架：让步 ; however, I believe X outweigh(s) Y
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F12
+
+**问题是什么**
+```
+✅ `Risk-taking certainly carries costs; **however, I believe** its rewards **clearly outweigh** them.`
+✅ `It must be acknowledged that…; **however, I believe** the rewards **are far greater**.`
+```
+骨架三件：
+```
+① 前半让步   承认对方有理（一句就够，别展开 —— 展开留给正文段）
+② 转折符号   分号 ＋ however ／ 或句号 ＋ However（见 #0272，⛔ 不能用冒号或逗号）
+③ 后半立场   **I believe ＋ 题目里那个动词**
+```
+★★ **最关键的一条：立场句必须用题目问的那个动词。**
+　 题目问 `Do the advantages outweigh the disadvantages?` ⇒ 立场句就要出现 **outweigh**。
+　 这与 #0271（结论段必须用题目的话重述答案）是**同一条规则的两端**：
+　 引言用它开局，结论用它收口，中间不管怎么绕，判分员两头都能看到你在回答他问的那个问题。
+⚠️ 立场句里**不要塞理由** —— 理由是正文段的活。塞进来会让引言超过三句，挤掉正文预算。
+⚠️ `I believe` 之后的从句里，**主谓一致要小心**（你这次写成 `the reward … are`，见 #0055）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+（挂作文验为主。判分时对着 scoring.md §2.3a TR 清单第 2 项「立场在引言明确写出」逐句核。）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `立场` `引言`，命中 #0271（结论段）与 #0222（对冲词）—— #0271 管结论、本条管引言，是同一规则的两端但位置与动作都不同（一个是"收口时重述"，一个是"开局时宣告"），问 1 不成立 ⇒ 新建，两条互相交叉引用。
+
+---
+
+# F14 衔接/连接词
+
+> 连接词选择与位置、转折的搭法
 
 ## #0223 At the same time → On the other hand
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-11 ｜ 族 F14
@@ -7184,12 +8491,6 @@ K（策略，需在下一篇作文里验）　0/3
   命中 #0120（even 不能光杆）与 #0247（尽管走投无路…，那条考的是 desperation 这个词）。
   与 #0120 三问：问 1 不成立 —— #0120 的改正动作是**补一个连词**，本条是**换成另一个连词**；
   问 2 也不成立，一个讲"要不要连词"、一个讲"选哪个"。⇒ 新建。
-
----
-
-# F15 语域/正式度
-
-> 口语词进书面、缩写、对冲词
 - 2026-08-20 　D3 学习日 C2·组1 第 9 题　**顺带用对，不推进 streak**
   题面「**虽然**价格降了」是已经发生的事实，她写 `**Even though** the price has dropped` —— 选对了。
   08-19 建号那次她写的是 `Even though working overtime`（假设，本该用 even if），
@@ -7202,6 +8503,256 @@ K（策略，需在下一篇作文里验）　0/3
   假设走 even if ⇒ 考点命中，连对 1。08-19 建号那次她把 even though 用在了假设上。
   `we are heading out` 用现在进行表已定的将来，比 will 更自然，这是本组一个亮点。
   「也」这一层由 even if 本身扛住，按 #0126 判据不记。
+
+## #0313 precisely because ＋ 从句 前置 —— 段尾 L 句的骨架
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+✅ `**And precisely because** experience and judgement can drive these costs down,
+   the gains can finally exceed the losses.`
+结构：precisely because ＋ 原因从句, ＋ 主句结论
+```
+**为什么它适合放段尾**：把整段讲过的东西压缩成一个原因，然后当场给结论 ——
+这正是 TR 清单第 5 项要的「L 句：把论点接回题目」。
+同族（都能前置作原因）：
+```
+precisely because…     正因为…（最有力，强调"就是这个原因"）
+It is because… that…   强调句，更重
+Since / As…            中性，最轻
+Given that…            "考虑到…"，常配数据或事实
+```
+**三条硬边**
+```
+① 前置的原因从句后面**必须有逗号**
+② 主句要给的是**结论**，不是又一个事实 —— 否则读者不知道你为什么说这段
+③ ⛔ 主句里不要再出现 so / therefore（因果已经由 because 承担了，不能双计）
+```
+★ 与 #0271 #0312 串起来用：引言宣告立场 → 每段段尾用本条把论点接回那根轴 → 结论重述。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+正因为这些代价可以被经验压低，好处最终才盖得过它。（用 precisely because 前置那个说法）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `precisely` `because`，F14 现有 6 条讲的是对比词、First 的替代、避免重复等，没有一条讲原因从句前置 ⇒ 新建。
+
+## #0314 While ＋ 从句 前置：它有让步和对比两个身份
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+让步（＝ although）  `**While** these costs are impossible to calculate, they can be kept to a minimum.`
+                     ＝ 虽然算不出来，但压得低
+对比（＝ whereas）   `**While** the price of taking risks is real, so is the cost of playing it safe.`
+                     ＝ 冒险有代价，求稳也一样（两边并列，没有谁让谁）
+```
+**判据**：后半句是**推翻**前半句（让步），还是**并列**着说另一面（对比）？
+两种都合法，但读者要靠后半句才能分清 ⇒ **后半句必须写得让关系一眼看出来**。
+**三条硬边**
+```
+① 前置的 While 从句后面**必须有逗号**；后置时不加
+② ⛔ 主句里不能再有 but：`~~While A, but B~~`（中文"虽然…但是"的直译，最常见的中式错）
+③ While 还有第三个意思"当…的时候"（时间）—— 一句里同时能读成时间和让步就要换词
+```
+同族（按强度）：`While` ＜ `Although` ＜ `Even though`（最强，事实已成立，见 #0261）
+＜ `Despite / In spite of` ＋ **名词**（不能接从句）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+虽然这些代价事先算不清楚，但它们是可以被压低的。（用 While 前置，注意主句里别再放 but）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `While` `Although` `让步`，命中 #0261（even if / even though）—— 那条管的是**假设 vs 事实**的分工，本条管的是 **While 的让步/对比两个身份 ＋ 前置逗号 ＋ 不能配 but**，问 2 不成立 ⇒ 新建，与 #0261 交叉引用。
+
+## #0315 让步开场一族：It must be acknowledged that ／ Admittedly
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+按长度排（意思几乎一样，差别在重量和位置）：
+`**Admittedly**, …`                    最短，最灵活 ★ 日常首选
+`**It is true that** …`                中性
+`**There is no denying that** …`       强调"无法否认"
+`**It must be acknowledged that** …`   最正式最长（8 个词）★ 你用的这个
+```
+**★★ 位置规则（比选词更重要）**
+```
+✅ 用在**让步段的开头**   —— 这段就是要承认对方，用它开场名正言顺
+⛔ 用在**引言里紧接着题面转述之后** —— 那个位置读者刚知道话题，还没有"对方观点"可承认，
+   这句话就是空转。你 08-20 那篇就是这样，所以我在更好版里把它删了
+   —— **删它不是因为块不好，是因为位置不对。**
+```
+**让步开场的铁律（与 #0271 同源）**：承认完**必须转回来**，段尾要落回自己的立场。
+只承认不转，读者会以为你改了主意 —— 这正是 08-19 那篇丢 TR 的原因。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+（挂作文验为主。出单点题时用两句式题面：「必须承认，这种做法确实有风险；但风险是可以控制的。」）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `Admittedly` `acknowledg` `必须承认`，命中 #0228「必须承认，这个趋势并非无法理解」—— 那条已于 08-16 改判为**第②类·不出中译英**的留痕（内容是"教练改写，非她的错误"），**没有规则**，谈不上同一条 ⇒ 新建，并交叉引用 #0228。
+
+## #0316 Alternatively ＝ 换一种情形，不是"另一方面"
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+✅ `**Alternatively**, if a new line manager simply takes a dislike to them, …`
+   ＝ 或者换一种情况：如果是主管不喜欢他呢
+```
+四个最容易串的，按**它们连接的是什么关系**分：
+```
+Alternatively      **同一件事的另一种可能／另一条路**（并列的两个选项）
+On the other hand  **对立的另一面**（前后必须真的对立，而且前面通常要有 On the one hand）
+By contrast        **拿两个东西对照**，差别明显
+Equally            **同等重要的另一点**（不是对立，是并排加一条）
+```
+**判据**：后面这句和前面是**换一条路**（Alternatively）、**唱反调**（On the other hand）、
+**做对比**（By contrast）、还是**再加一条同分量的**（Equally）？
+⚠️ `On the other hand` 的高频错法：**前面没有 On the one hand 就单独用**。
+　 单独用不算错，但一旦用了 On the one hand，就**必须**有下文（这正是 #0223 记的那个坑）。
+★ 这四个都放**句首 ＋ 逗号**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+或者换一种情况：如果是客户临时改了要求呢。（"或者换一种情况"用一个词开头）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `Alternatively` `On the other hand`，命中 #0223（At the same time → On the other hand）—— 那条的改正动作是**把选错的对比词换掉**，本条是**四个功能不同的连接词怎么挑**，问 2 不成立 ⇒ 新建，与 #0223 交叉引用。
+
+## #0317 转折四兄弟：But ＜ Yet ＜ However ＜ Nevertheless
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+But           最轻、最口语。⚠️ 书面里**不要句首用**，放句中连接两个分句
+              `Costs are real, **but** they can be contained.`
+Yet           书面、有力。★ **可以句首直接用，后面不加逗号**
+              `**Yet** this is precisely why…`
+However       最通用。句首、句中、句末都行，**位置不同要有逗号隔开**
+              `**However**, I believe…` · `I believe, **however**, that…`
+Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就够
+              `**Nevertheless**, the gains outweigh the losses.`
+```
+**三条硬边**
+```
+① Yet 句首**不加**逗号；However 句首**必须加**逗号 —— 这一条最容易错
+② 转折词前面接的是**上一句的句号或分号**，⛔ 不能是逗号（逗号粘连）也不能是冒号（见 #0272）
+③ 一段里**只转一次**。连着两个转折词读者会跟丢
+```
+★ 语域梯度记法：说话用 but，写作用 however，想让句子有劲用 Yet，让步收束用 Nevertheless。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+成本确实降了，销量却没起来。（"却"用一个可以句首直接接、不加逗号的词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `Yet` `However` `Nevertheless`，全档零条目（只有今天作文的记录）；与 #0272（分句之间用哪个符号）互补 —— 那条管**符号**，本条管**词**，两条配套 ⇒ 新建。
+
+## #0318 「正因为如此」一族：this is precisely why ／ For this very reason
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+✅ `Yet **this is precisely why** the real question is…`
+✅ `**For this very reason**, the safest choice usually carries the lowest payoff.`
+```
+一族（都把**前一整句**变成后一句的原因，比 So / Therefore 有力得多）：
+```
+`**This is precisely why** …`      最口语化也最有力，主语 this 指前面整句
+`**For this very reason**, …`      正式，very 在这里是"正是这个"不是"很"
+`**which is exactly why** …`       接在前句后面，不另起句
+`**That is why** …`                最中性
+`**It is for this reason that** …`  强调句，最重，一篇一次
+```
+**判据**：`So` 和 `Therefore` 只是"所以"，**不强调是哪个原因**；
+这一族强调"**就是前面那件事**导致的"，用在你刚说完一个关键事实、要立刻推结论时最合适。
+⚠️ `For this very reason` 里的 **very 不能删** —— 删了就变成普通的 for this reason，力度掉一半。
+⚠️ 这一族**不能和 so / therefore 叠用**：`~~This is precisely why therefore…~~`
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+正因为如此，最省事的办法往往回报最低。（"正因为如此"用带 very 的那个块）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `precisely why` `For this reason` `That is why`，全档零条目；与 #0313（precisely because 前置）不同 —— 那条把**原因写在从句里**，本条把**原因指回前一整句**，问 1 不成立 ⇒ 新建，两条交叉引用。
+
+## #0319 条件连接词四档：if ＜ as long as ＜ provided that ＜ on condition that
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+
+**问题是什么**
+```
+if                最中性，什么场合都行
+as long as        口语，强调"只要…就"          `**as long as** you plan ahead`
+provided (that)   ★ 正式，强调这是**必要条件**   `**provided that** such risks rest on judgement`
+on condition that 最硬，常用于协议、规定        `released **on condition that** he reports weekly`
+unless            ＝ if not（反向）             `**unless** the policy changes`
+```
+**三条硬边**
+```
+① provided 后面的 that **可以省**：`provided such risks rest on judgement` ✅
+② 这一族引导的条件从句里**用现在时表将来**：`provided that prices **rise**` ✅ `~~will rise~~` ❌
+③ ⛔ unless 后面**不能再加否定**：`~~unless you don't go~~`（意思会反）
+```
+★★ **作文里最值钱的用法**：把一个洞见退成条件状语挂在立场后面 ——
+　 `…the rewards outweigh the costs, **provided that** such risks rest on experience.`
+　 主句仍然回答题目，洞见退到从句里。这正是 #0271 那条规则要的动作，**你已经做对了一次**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+我认为这个办法可行，前提是预算足够。（"前提是"用最正式的那个条件词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `provided` `as long as` `unless`，7 处 `provided` 全是动词 provide（#0014 的内容），零条目讲条件连接词 ⇒ 新建，与 #0271 交叉引用。
+
+---
+
+# F15 语域/正式度
+
+> 口语词进书面、缩写、对冲词
 
 ## #0229 7pm → 7 pm（数字与 am/pm 之间留空格）
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 — ｜ 族 F15
@@ -7518,6 +9069,9 @@ U · 待排序　0/2
   又逐条看了 F15 现有 10 条：#0236 讲缩合形式（isn't → is not）、#0231 讲她自己觉得 don't know 太不正式、
   #0229 讲 7pm 的空格。#0236 最近，但问 1 不成立 —— 那条的改正动作是**展开撇号**，
   本条是**还原被砍掉的音节**，两种形式来源不同 ⇒ 新建。
+- 2026-08-20 ✅ D3 学习日 C2·组2 第 2 题
+  题面「这项研究是在实验室里完成的」，她写 `the research was completed in the **laboratory**`。
+  建号后第一次测：题面一个英文字都没给，她自己选了全形不是 lab ⇒ 考点命中，连对 1。整句零改动。
 
 ## #0267 fairly 一族：程度副词的强度刻度与语域
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
@@ -7581,21 +9135,96 @@ somewhat / rather / considerably 的记录，说明她表示程度时只有 fair
   · #0222「a bit 是不是有点口语了」—— 管的是**要不要用对冲词**（T2 立场会被说软），是篇章层决定；
     本条管的是**决定用了之后挑哪个**，是词汇层 ⇒ 问 2 不成立，要分两句话讲
   两条都不是同一条 ⇒ 新建。建号时无对错，连对连错都是 0。
-
----
-
-# F17 T1 整句仿写
-
-> 整句级改写
-- 2026-08-20 ✅ D3 学习日 C2·组2 第 2 题
-  题面「这项研究是在实验室里完成的」，她写 `the research was completed in the **laboratory**`。
-  建号后第一次测：题面一个英文字都没给，她自己选了全形不是 lab ⇒ 考点命中，连对 1。整句零改动。
 - 2026-08-20 ✅ 作文 T2-17　**高压 ✅**（建号当天就在作文里用对）
   全篇 10 个程度/方式副词**无一误用**：invariably · usually · sometimes · severely ·
   completely · certainly · genuinely · simply · ultimately · precisely。
   而且**一个 very 都没滥用**（只有 S3 的 `very real` 一处，是刻意强调）
   ⇒ 考点命中，连对 1。
   ⚠️ 唯一没做到的是"能删就删"那一层：`very real`（S3）在学术文里可以直接写 `real`。留痕不判错。
+
+## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
+
+**问题是什么**
+```
+按频率从高到低（配形容词/动词，讲"多久发生一次"）：
+always        总是                  最通用
+invariably    ★ 无一例外地           **书面版的 always**，比 always 正式且更绝对
+                                     `Risk is **invariably** accompanied by uncertainty.`
+consistently  一贯地、稳定地         强调"每次都这样"，常配数据
+                                     `Their results have **consistently** improved.`
+frequently    经常                  正式版的 often
+occasionally  偶尔                  （见 #0091）
+rarely / seldom  很少               seldom 更正式；⚠️ 置句首要**倒装**：`**Seldom does** a policy…`
+hardly ever   几乎从不              偏口语
+```
+**★ 位置规则（这一族和程度副词不一样）**
+```
+be 动词后      `Risk **is invariably** accompanied by…` ✅
+实义动词前     `They **consistently** underestimate the cost.` ✅
+助动词后       `has **always** been` ✅
+⛔ 不能放句末：`~~accompanied by uncertainty invariably~~`
+```
+⚠️ 与 #0267（slightly / fairly / rather 那一族）分清：**那条管"多强"，本条管"多常"。**
+　 反向验：fairly 用对 ≠ invariably 用对，两条可独立取值。
+⚠️ 与 #0108（副词能不能放 is 后面）分清：那条管位置的**合法性**，本条管**选哪个词**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+风险总是伴随着不确定性。（"总是"用一个比 always 更书面的词）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `invariably` `频率副词`，命中 #0108 的正文（讲频率副词必须放中间，是**位置**）与 #0267（**程度**副词刻度），两条问 2 都不成立 ⇒ 新建，双向交叉引用。
+
+## #0321 very / really / extremely —— 学术写作里 very 通常删掉更有力
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
+
+**问题是什么**
+```
+她这次写的：`The cost of risk **is very real**.`
+更有力的：  `The cost of risk **is real**.`
+```
+**为什么删掉更有力**：`very` 不带任何新信息，它只是在给一个已经成立的判断"加音量"。
+读者对 very 已经完全免疫；把它删掉，那个形容词反而站得更直。
+```
+处理办法三选一：
+① 直接删            very real → real ｜ very important → important
+② 换一个更强的形容词  very big → **substantial** ｜ very bad → **damaging**
+                     very hard → **daunting** ｜ very good → **compelling**
+③ 换一个有信息量的副词 very common → **increasingly** common ｜ very high → **disproportionately** high
+```
+**语域梯度**（口语 → 书面）：
+```
+really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extremely / particularly（可用）
+＜ 换掉形容词本身（最好）
+```
+⚠️ 例外：`very` 在 `the very first / this very reason / at the very least` 这类固定块里
+　 意思是"正是那个"，**不是程度词，不能删**（见 #0318）。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+（挂作文验为主。每篇判分时扫一遍全文的 very / really，逐个问"删掉会不会更有力"。）
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `very` `really`，命中 #0234（really / right now 口语词进书面）—— 那条管的是**口语词不该进作文**（really 是错的），本条管的是 **very 虽然合法但删掉更好**（不是错，是可优化），问 1 不成立（一个换词、一个删词）⇒ 新建，与 #0234 交叉引用。
+
+---
+
+# F17 T1 整句仿写
+
+> 整句级改写
 
 ## #0241 这几张表说明纽约市及其五个区的人口在 1800–2000 的变化
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 — ｜ 族 F17
