@@ -11,10 +11,10 @@
 
 ```
 总数   297 条
-在池   221 条
-🎓     76 条（占 25.6%）
+在池   220 条
+🎓     77 条（占 25.9%）
 毕业线 **全档一律 2**（297/297）
-在池里 连对 1 的 **83 条**（再对一次就 🎓）· 连对 0 的 138 条
+在池里 连对 1 的 **85 条**（再对一次就 🎓）· 连对 0 的 135 条
 题面待补 **40 条**（口径＝在池 ＋ 中文触发点标着「待补」，2026-08-22 逐条重数；
 　　　　旧值 43 是估的，从未数过 —— 已作废。🎓 里另有 10 条也标着待补，不召回、不计入）
 最后一次全量校验 2026-08-20（C1 状态行 vs 历史重数 295/295 一致）
@@ -573,7 +573,7 @@ K（她点名）
 </details>
 
 ## #0018 他给了我们一些建议，劝我们早点出发
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F01
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F01
 
 **问题是什么**
 **B 派动词不接「人 + to do」。** 这一派后面要么跟 -ing，要么跟 that 从句，
@@ -617,6 +617,12 @@ K（她点名）
   　③ 从句动词用**原形** `send` 不是 `sends`（虚拟语气那一层也在）
   顺带：`suggests` 三单也对（靶子2 用对，按本场口径只列出不推进 streak）。
   题面点名 suggest 是必要的 —— 不点名她会走 advise，而 `advise sb to do` 是对的（A 派，#0003），考点会整块绕过。
+- 2026-08-22 ✅ D4 复习日 C2·组1... 更正：C2·组4 第 1 题　**连对 2 ⇒ 🎓**
+  题面「医生建议他多休息几天」（★ 新写触发点，原触发点＝条目标题已用过），她写
+  `the doctor **advised him to take** another days off`。
+  A 族框架 `advise sb to do` 一次到位，没写成 `advised him taking`、也没退回名词 `gave him advice` ⇒ 命中。
+  ⚠️ 同句一处不属于本条：`another **days** off` ⇒ 记 #0125（归入待确认）。
+  📋 更好：`to take **a few more** days off`。
 <details><summary>原始行（旧表逐字，旧号 E-265）</summary>
 
 `他给了我们一些建议，劝我们早点出发|suggesting **us to leave** early|suggesting **we leave** early（B 派＋that 从句原形）／**urging us to** leave（A 派才接人＋to do）<br>🔴🔴 **E-253 刚教完（同一场、半小时内）就犯**，而且教练给的原句就是 `suggesting we leave early`。<br>★★ **第三次证明「刚讲过 ≠ 装上了」**（08-11、08-13 已两次）⇒ 这类框架**只能靠隔天再测变自动**，当场讲完的那个 ✅ 不说明任何事|P1 动词框架|R · **P1**（E-043/E-129 家族）|`
@@ -1552,7 +1558,7 @@ P2 冠词 ← 靶子　R · P2
   查重（§3.5 B0）：grep 了 `不可数` `零冠词` `并列`，F02 现有 18 条里没有一条讲**三项并列**；#0074 讲的是可数单数必须带冠词，是互补面不是同一条（问 1 相反）⇒ 新建。
 
 ## #0276 泛指"一个人"的四个梯度：someone / a person / an individual / one
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F02
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F02
 
 **问题是什么**
 同样是"一个人"，四个词的语域和用法差得远：
@@ -1576,11 +1582,25 @@ one           最正式，也最容易过头；`one's` 作所有格倒是很常�
 建号理由是 §2③（她点名要学），不是记她的错。缺口在于**这一族的其余成员和挑选判据**。
 
 **中文触发点**
-换工作的人常常低估适应新环境要花的力气。（"换工作的人"用最自然的那个词）
+- 2026-08-22（改死后的新题面，下次用）　一个人一旦换了工作，往往要花好几个月才缓过来。
+  （★ 主语必须是**单数**的"一个人"；⛔ 不许用 people ／ those ／ anyone who）
+- 2026-08-22（已作废）　换工作的人常常低估适应新环境要花的力气。（"换工作的人"用最自然的那个词）
+  ★ 缺陷：提示写成了"最自然"，而最自然的恰恰是 people who ⇒ 把她推离考点，记 ◎✅
 
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `individual`，8 处命中全是 individual investors / individual experience（#0169 #0008 的内容），没有一条讲"泛指一个人怎么说" ⇒ 新建。
+- 2026-08-22 **◎✅** D4 复习日 C2·组4 第 2 题　**算对，连对 1**（题面缺陷，不是她的问题）
+  题面「换工作的人常常低估适应新环境要花的力气。（★「换工作的人」用最自然的那个词）」，她写
+  `**people who** change jobs often underestimate the effort required to adapt to a new environment`。
+  ★ 整句完全成立，复数泛指也完全符合题面 ⇒ 判 ◎✅，连对 +1。
+  ⚠️ 但本条要的**单数泛指四梯度**一个都没出场。
+  ★★ **这条题面是我写坏的，而且坏得很典型**：我加的提示是「用**最自然**的那个词」——
+  　 最自然的恰恰是 `people who`，提示把她推**离**了考点。
+  　 ⇒ 纪律（本日新增）：题面点名要点**结构**，不点"最自然／最地道"。
+  　 　「最自然」是让她自由发挥的信号，与「必须走这条路」正好相反。
+  ⇒ 题面已改死，见下方中文触发点 2026-08-22 那行。
+  📋 顺带用对：`the effort **required** to adapt`（#0284 后置定语）· `adapt to a new environment`（#0305）。
 
 ---
 
@@ -1967,7 +1987,7 @@ P11 搭配　R · P11
   ⚠️ 归入的代价已记在账上：本条 08-20 刚拿的连对 1 因此归零。
 
 ## #0250 企业／机构的存续用 survive / last，不用 live
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F03
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F03
 
 **问题是什么**
 中文"活不过／撑不过"直译成 live 是中式块。live 的主语是活物（人、动物）；
@@ -2004,6 +2024,13 @@ P11 搭配　R · P11
   非活物主语配 survive ⇒ 考点命中，连对 1。整句零改动。
   `before being cancelled` 是本组最好的一个结构（被动 -ing 接在时间连词后，省掉一个从句）。
   只有 `the trial` 略偏（trial 更常指临床试验／审判），`the pilot scheme` 更准 —— 进更好版，不判错。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 3 题　**连对 2 ⇒ 🎓**
+  题面「这家书店只撑了不到三年」，她写
+  `the shop only **survived** for under three years ／ the shop didn't even **last** three years`。
+  ★ **两条路都写出来了**，live 一次都没出现 ⇒ 命中。
+  📋 「书店」写成 shop 不判（名词前的类型限定，按 08-22 收紧后的判据）。
+  📋 更好：`The bookshop **did not even last** three years.` ——
+  　 你自己给的第二版就是这个，比第一版短、也更有力：only / under 两层由 not even 一个词扛住。
 
 ## #0263 出示的是证件，不是"身份"—— show ID / prove identity
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F03
@@ -2885,7 +2912,8 @@ P4 单复数 ← 靶子　R · P4
 
 
 ## #0251 this kind of 后面接单数，these kinds of 后面才接复数
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
+⚠️🔍 待人工 review：考点未行使的毕业
 
 **问题是什么**
 `kind / type / sort` 本身是可数名词，前面的指示词和后面的名词都要跟着它的数走，三个位置必须一致：
@@ -2908,7 +2936,11 @@ P4 单复数 ← 靶子　R · P4
 泛指时不能带 of，直接 `a few complaints`。
 
 **中文触发点**
-这种事故在冬天比较常见。
+- 2026-08-22（改死后的新题面，人工 review 时用）　这种事故在冬天多，那几种机械故障则一年到头都有。
+  （★ 两个半句都必须用 this kind of ／ these kinds of 那个说法，注意两边名词的单复数不一样）
+- 2026-08-22（已作废）　这类投诉一般三天之内就能处理完。
+  ★ 缺陷：中文「这类 X」有 of this nature / of this kind / such 好几条现成的路，逼不出本条结构 ⇒ ◎✅
+- （更早）这种事故在冬天比较常见。（08-20 用过）
 
 ### 历史记录
 - 2026-08-19 ❌ D2 学习日 C2·组1 第 10 题（顺带）
@@ -2922,6 +2954,80 @@ P4 单复数 ← 靶子　R · P4
   this kind of ＋ 单数，一次到位 ⇒ 考点命中，连对 1。整句零改动。
   `in the winter` 也成立（美式常带 the，英式多写 in winter），不判。
   ★ 她在本题当场点名要学 `fairly` 的各种用法（§2③）⇒ 见新建 #0267。
+
+---
+
+## #0325 英语里不可数的那批常见名词 —— 不加 -s、不加 a、配单数谓语
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
+
+**问题是什么**
+这一批名词在中文里都能说"一条／几条"，在英语里**一律不可数**：
+```
+evidence      证据      `The **evidence is** overwhelming.`   ⛔ ~~evidences~~ ~~an evidence~~
+advice        建议      （见 #0059）
+information   信息      `for further **information**`
+research      研究      `**research shows** that…`            ⛔ ~~researches~~
+equipment     设备      `the **equipment was** replaced`
+knowledge     知识      `**knowledge is** power`
+progress      进展      `**progress has been** slow`
+feedback      反馈      `we received **feedback**`
+furniture     家具      `the **furniture is** new`
+staff         员工（集合）`the **staff are**…` 英式配复数，`staff members` 才可数
+```
+**要说"一条／几条"怎么办 —— 用量词把它变可数**：
+```
+a **piece of** evidence / advice / information ／ **two pieces of** evidence
+a **piece of** research ／ **a study**（研究项目用 study，可数）
+a **piece of** equipment ／ **an item of** furniture
+**a great deal of / a large amount of** ＋ 不可数　⛔ 不能用 many / a number of
+```
+**判据**：写完一个抽象名词，先问「它能不能说 one X」——
+不能说 `one evidence` ⇒ 它就不加 -s、不加 a、配单数谓语。
+⚠️ 反过来也要记，最容易串的三组可数／不可数对：
+```
+不可数 evidence  ↔ 可数 **a fact / facts**
+不可数 research  ↔ 可数 **a study / studies**
+不可数 advice    ↔ 可数 **a suggestion / suggestions**（#0181 那条讲的就是这一对里的选词）
+```
+
+**怎么发现的**
+2026-08-22　D4 复习日 C2·组4 第 10 题（顺带）。主考点是 #0317。
+
+**我错在哪**
+她的：`even though the **evidents are** solid`
+正确：`the **evidence is** solid`
+两处一个根：evidence 不可数 ⇒ ① 不加 -s（而且 `evidents` 根本不是词）② 谓语配单数 is。
+
+**中文触发点**
+警方掌握的证据非常充分，但没有一条能直接指向他。
+
+### 历史记录
+- 2026-08-22 ❌ 建号　D4 复习日 C2·组4 第 10 题（顺带）
+  查重（§3.5 B0）：grep 了 `不可数` `evidence` `information` `research`，全档命中三条，逐条比对：
+  · **#0059**（advice 不可数／advise 是动词）：问 1（去掉不可数名词上的 -s）与问 2（一句话能讲）都成立，
+    但 **问 3 不成立** —— 掌握 advice 不可数**不会**自动让人知道 evidence 也不可数，
+    这是**词表**不是**规则**。⇒ 不合并，两条交叉引用。
+  · **#0058**（strain 是可数还是不可数）：那条是**单个词的可数性判定**，
+    本条是**一批词的清单**，问 2 不成立。
+  · **#0275**（三项并列的不可数抽象名词零冠词）：那条管**冠词**，本条管**加不加 -s 与谓语的数**，
+    问 1 不成立。
+  · **#0048**（该用复数的名词写成单数）：方向正好相反（那条是该复数写成单数，本条是不可数加了 -s），
+    问 1 不成立。
+  ⇒ 新建。**建这一条的另一个作用是收口** —— 可数性问题此前散在 #0058 #0059 #0094 三处，
+  　 以后这一类一律归本条，不再零星建号。
+  ⚠️ 不适用 SKILL §2 排除项⑤：这是**词表知识**不是构形，她写 `evidents` 说明根本不知道它不可数。
+- 2026-08-22 **◎✅** D4 复习日 C2·组4 第 4 题　**算对，连对 2 ⇒ 🎓（带 ⚠️🔍 标记）**
+  题面「这类投诉一般三天之内就能处理完」，她写
+  `**complaints of this nature** usually take less than three days to process`。
+  ★ `complaints of this nature` 是很地道的英文，也完全符合题面 ⇒ 判 ◎✅，连对 2 ⇒ 毕业。
+  ⚠️⚠️ **但本条的考点（this kind of ＋ 单数 / these kinds of ＋ 复数）从建号到毕业一次都没被行使。**
+  　 08-20 那次她写 `this kind of accident is fairly common`（单数对了，但那题的主考点是 #0267）；
+  　 今天这次直接绕过了整个结构。⇒ 按 §3.3 打 `⚠️🔍 待人工 review：考点未行使的毕业`。
+  ★ 题面的毛病：中文「这类 X」在英文里有一堆现成的路
+  　（of this nature ／ of this kind ／ such ／ this sort of），this kind of 不是必经之路。
+  ⇒ 改好的新题面已存进下方中文触发点，供人工 review 时取用。
+  📋 顺带用对 **#0266 框架①**：`usually **take** less than three days **to process**` ——
+  　 与组 2 的 `spent a whole summer to adapt`（框架③写错）形成同日对照。
 ---
 
 # F05 拼写/形近词
@@ -3214,7 +3320,7 @@ P5 拼写　R · P5
 </details>
 
 ## #0095 拼成了另一个真词（形近或同音），自己扫不出来
-状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F05
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F05
 
 **问题是什么**
 **与普通拼写错不是一回事**：拼成非词（`goverment`）自己一眼能发现；
@@ -3270,6 +3376,13 @@ P5 拼写　R · P5
   　 ⇒ 不是某几个词没记牢，是**这个机制本身**没有防线：她的自检读一遍句子觉得通顺就过。
   ⇒ 行动：这条不适合再出单点题（题面一点名她就会警觉），**改为只在作文里验**，
   　 并在交卷前清单里挂一条"逐词看形近真词"（装备候选，不占今天的名额）。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 5 题　**本条第一次拿到干净的正面测量**
+  题面「这些补贴是发给员工的，不是发给雇主的」（新写触发点，把最高危的那一对直接摆上），她写
+  `These subsidies are intended for **employees**, not **employers**`。
+  ★ 两个词**对比着**用，一个都没串 —— 这正是 08-11、08-19 两次犯过的那一对。
+  ⇒ 连对 1、连错 2 归 0。
+  ★ 出题方法留痕：**把高危对的两个词同时逼进一句**，比只考其中一个更能测出她分不分得清。
+  　 下次换 patient/parent 或 trainer/trainee 用同样的写法。
 <details><summary>原始行（旧表逐字，旧号 E-292）</summary>
 
 `**随着老年人口增长，医疗支出也在上升**|`as the number of **order** people is growing`|`**older** people`　★ **这不是普通手滑**：order 和 older 都是真词，拼错之后句子仍然"读得下去"，考场上自己扫不出来。同类高危对：`order/older` · `though/thought` · `quite/quiet` · `form/from` · `lose/loose`|P11 形近真词串台（**区别于 P5 拼写**：拼成非词能被自己发现，拼成真词发现不了）|R · **P11**|0/3|`
@@ -3925,7 +4038,7 @@ Such measures are usually **confined to** large cities.
   ⇒ 新建。建号时无对错，连对连错都是 0。
 
 ## #0277 guaranteed / proven / established 这类过去分词当前置定语
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
 
 **问题是什么**
 过去分词可以直接放到名词前面当形容词用，一个词顶一个从句：
@@ -3953,6 +4066,16 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `guaranteed` `过去分词` `前置定语`，F06 现有 18 条（#0097–#0113 等）全是形容词副词互换与比较级构形，没有一条讲分词作定语 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 6 题　**建号后第一次被测**
+  题面「公认的做法是先做小规模试点」，她写 `the **acknowledged** method is to do it on a small scale`。
+  ★ **结构命中**：过去分词直接坐在名词前面，没有退回 `the method that everyone acknowledges` 这类从句。
+  ⚠️ 词选偏了一格（不在本条扣分，本条管的是结构）：
+  　`acknowledged` 多用于**人**（the acknowledged expert / the acknowledged leader）；
+  　「公认的做法」的默认搭配是 `the **established** practice` ／ `the **accepted** approach`。
+  📋 `to do it` 的 it 在单句里无所指 —— 复习组允许，作文里会记。
+  📋 更好：`The **established practice** is to start with a **small-scale pilot**.`
+  ★★ 同日对照（很重要）：本题是**前置**分词定语、同组 Q2 `the effort **required** to adapt` 是**后置**分词定语，
+  　 两个位置同一天都对 ⇒ **分词作定语这一族她其实是通的**，缺的是**选哪个分词**（词汇，不是句法）。
 
 ## #0278 proactive / reactive 这一对，以及"主动地"的四个词
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
@@ -4363,7 +4486,7 @@ P11 固定语序　R · P11
 </details>
 
 ## #0125 rest for a more week → rest for another week
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-16 ｜ 族 F07
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F07
 
 **问题是什么**
 P12（"再多一个 X"＝another X / one more X）　R · P12
@@ -4374,12 +4497,31 @@ P12（"再多一个 X"＝another X / one more X）　R · P12
 **我错在哪**
 她的：rest for **a more week**
 正确：rest for **another week**
+★ 2026-08-22 扩写（她今天写出 `another **days** off`，把规则的第二半暴露出来）：
+```
+another ＋ **单数名词**            `another week` ✅ `another day` ✅
+another ＋ **数词 ＋ 复数**        `another two days` ✅ `another five years` ✅
+another ＋ **few ＋ 复数**         `another few days` ✅
+⛔ another ＋ 光杆复数             `~~another days~~` ❌
+最省事的一条路：**a few more days** ／ **two more days** —— 用 more 就不必记 another 的例外
+```
+**找法**：写完 another，看它后面那个名词 —— 是单数吗？不是的话，中间必须有数词或 few。
 
 **中文触发点**
 再休息一周　⚠️待补完整句
 
 ### 历史记录
 - 2026-08-16 ✅ 复习日 C1·组4
+- 2026-08-22 ❌ D4 复习日 C2·组4 第 1 题（顺带）　**归入待确认，收尾复查**
+  题面「医生建议他多休息几天」（主考点 #0018），她写 `to take **another days** off`。
+  正确：`another **few** days off` ／ `**a few more** days off`。
+  ⚠️ **归入待确认的理由**（§3.5 误判3）：本条原错是 `a more week`（该用 another 时用了 a more），
+  　 今天是 `another days`（用对了 another 但后面配错了数）。
+  　 问 1（改正动作＝把"再多 N 个 X"写成合法形状）与问 2（一句话能覆盖）成立，
+  　 **问 3 存疑** —— 知道 `another week` 未必知道 `another days` 不合法。
+  　 收尾复查时若判定问 3 不成立，就把"another 后面配什么"拆出去单独建号，本条 streak 回退。
+  ★ 反向证据：档案里记过她自发写对 `take another **week** off`（迁移时登记为她的资产）
+  　 ⇒ **单数那一半是稳的，复数那一半是空的**。
 
 <details><summary>原始行（旧表逐字，旧号 E-082）</summary>
 
@@ -5380,7 +5522,7 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
   　 找法就要改成"**看到正式动词先问一句：主语是不是它的宾语**"。
 
 ## #0287 so is / so does + 主语 的倒装：「…也一样」
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F07
 
 **问题是什么**
 ```
@@ -5412,6 +5554,16 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `so is` `倒装`，命中 #0128（Only if 置句首必倒装）—— 那条管的是**否定/限定词前置引发的倒装**，本条管的是 `so ＋ 助动词 ＋ 主语` 这个独立结构，问 2 不成立 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 7 题　**建号后第一次被测**
+  题面「冒险有代价，求稳同样有代价」，她写 `taking risks has costs, **so does** playing it safe`。
+  ★ 两样都对：① 倒装形状 `so ＋ 助动词 ＋ 主语` ② **助动词挑对了** ——
+  　 主句实义动词是 has（不是 have got），所以用 **does** 不是 so has。这一步最容易错，她没错。
+  📋 顺带用对：`**taking** risks **has**`（动名词主语配单数，#0283）· `playing it safe`（#0300）。
+  ⚠️ 逗号那一处**不判错**：`taking risks has costs, so does …` 严格说是逗号粘连，
+  　 但 `I'm tired, so is she.` / `The food was great, so was the service.` 这类母语者句子造得出三个以上
+  　 ⇒ 按 §0.8 不许判错。**但作文里用分号更稳**，已写进更好版。
+  📋 更好：`Taking risks has **a cost**; so does playing it safe.`
+  　（单数 a cost 更像一个论点，复数 costs 像在列清单）
 
 ## #0288 最高级 + 抽象名词作主语
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F07
@@ -6984,7 +7136,7 @@ shaped by     强调"被塑造成现在这样"，接经验/环境/力量   `a ch
   查重（§3.5 B0）：grep 了 `based on` `grounded` `rooted`，命中 #0169（rest on individual experience）—— 那条是**一个整块**（靠个案经验而非大规模试验），本条是**四个近义块的分工**，问 2 不成立 ⇒ 新建，并与 #0169 交叉引用（rest on 也属这一族）。
 
 ## #0296 anticipate ＝ 预判并提前应对（不只是"预料"）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -7002,6 +7154,12 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
 ⚠️ 语法陷阱：`anticipate` 后面接**动名词或名词**，不接不定式：
 　`anticipate **facing** difficulties` ✅　`~~anticipate to face~~` ❌
 　（expect 相反：`expect **to face**` ✅）
+⛔ **冗余陷阱（2026-08-22 她写出来之后补的）**：`anticipate` 后面**不要再加 in advance / beforehand**。
+　`~~anticipate potential problems **in advance**~~` ⚠️　`**anticipate** potential problems` ✅
+　理由：anticipate ＝ 预料 ＋ **提前应对**，"提前"这一层已经在词里了，再说一遍是同义重复。
+　同族的冗余陷阱一起记：`~~return **back**~~` · `~~repeat **again**~~` · `~~plan **ahead** in advance~~` ·
+　`~~combine **together**~~` · `~~future **plans**~~`
+　（要单说"事先"用 in advance / beforehand，那是 #0301 那一族，配的是别的动词）
 
 **怎么发现的**
 2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
@@ -7015,6 +7173,18 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `anticipate` `expect` `predict`，全档零命中 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 8 题　**建号后第一次被测**
+  题面「有经验的人会提前把可能出的问题想到，并先准备好对策」
+  （★ 改写触发点：存档那条把英文单词 anticipate 直接写在题面里了，等于给答案，已去掉），她写
+  `those with experience **anticipate** potential problems in advance and prepare solutions for them`。
+  ★ 在零提示的情况下调出了 anticipate ⇒ 选词命中，连对 1。
+  ⚠️ **但后面又加了 `in advance`，是冗余** —— anticipate 本身已经含"提前"这一层。
+  　 不另记错（她选词是对的，缺的是"这个词含多少"），改成给本条补一条硬边（见上方正文）。
+  ⚠️ 查过 #0265（两个同义说法不要焊在一起）：**不是同一条**。
+  　 那条的找法是"把两半拆开看能不能各自站住"，而 anticipate 与 in advance **各自都站得住**，
+  　 那个找法抓不到这一处 ⇒ 问 2 不成立，不归入。
+  📋 顺带用对：`**those with** experience`（#0239 的第三种形状：those ＋ 介词短语，今天第四次自发出现）。
+  📋 更好：`… and **have a response ready**`（4 个词，且不必再指回 them）。
 
 ## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
@@ -7853,7 +8023,7 @@ K（判据）
 
 
 ## #0252 join / arrive / start 这类瞬间动词配不了时间段
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F09
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F09
 
 **问题是什么**
 **动作一瞬间就完成的动词，后面不能跟"持续多久"。**
@@ -7893,6 +8063,13 @@ K（判据）
   `staying` 略偏（stay 暗示临时借住／暂留），`has been **with** the company` ／ `has **worked** at`
   更贴八年这个跨度 —— 进更好版，不判错。
   `8` 写成阿拉伯数字：作文里十以内建议拼成 eight，但这是风格不是错，按 §2② 不收条目。
+- 2026-08-22 ✅ D4 复习日 C2·组4 第 9 题　**连对 2 ⇒ 🎓**
+  题面「他去年九月加入这个团队，到现在快一年了」（新写触发点，把"瞬间动作 ＋ 时段"两样同时摆上），她写
+  `it has almost been a year **since he joined** the team`。
+  ★ **完全绕开了陷阱**：join 配的是时间点（since 从句），时段由主句的 `it has been a year` 承担，
+  　 没有写成 `he has joined the team for a year`。连对 2 ⇒ 毕业。
+  📋 「去年九月」没落地 —— 主张（加入快一年）未变，按 08-22 收紧后的判据不判，只进更好版。
+  📋 更好：`He **joined the team last September**, so it has been almost a year.`（把时间点放回去）
 
 ---
 
@@ -9124,7 +9301,7 @@ Equally            **同等重要的另一点**（不是对立，是并排加一
   查重（§3.5 B0）：grep 了 `Alternatively` `On the other hand`，命中 #0223（At the same time → On the other hand）—— 那条的改正动作是**把选错的对比词换掉**，本条是**四个功能不同的连接词怎么挑**，问 2 不成立 ⇒ 新建，与 #0223 交叉引用。
 
 ## #0317 转折四兄弟：But ＜ Yet ＜ However ＜ Nevertheless
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F14
 
 **问题是什么**
 ```
@@ -9157,6 +9334,19 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `Yet` `However` `Nevertheless`，全档零条目（只有今天作文的记录）；与 #0272（分句之间用哪个符号）互补 —— 那条管**符号**，本条管**词**，两条配套 ⇒ 新建。
+- 2026-08-22 ❌ D4 复习日 C2·组4 第 10 题　**建号后第一次被测就塌**
+  题面「证据很充分，法官却做出了相反的判决。
+  　（★「却」用一个能放**句首**、后面**不加逗号**的转折词）」——点名已经很死，指向 Yet／But。
+  她写 `**even though** the evidents are solid, the judge made a decision to the contrary`。
+  ★ 她换成了**让步从句**：本条四兄弟一个都没出场，而且 even though 前置**必须加逗号**，
+  　 恰恰是题面明写不要的那种。⇒ **题面无缺陷，这一处记她的**，连错 1。
+  ⚠️ 判 ❌ 不判 ◎ 的理由：◎ 的条件是"她的答案符合题面"。
+  　 题面点名了"句首 ＋ 不加逗号 ＋ 转折词"三个条件，她的答案一个都不满足 ⇒ 不构成 ◎。
+  ★ 这条暴露的很可能是：**她不知道 Yet 可以直接放句首**（She 手里只有 although/even though 这条让步路）。
+  　 正确：`The evidence was solid, **yet** the judge ruled the other way.`
+  　 四兄弟的分工再记一次：`But`（最轻，句中）＜ `Yet`（句首不加逗号）＜ `However,`（句首**要**逗号）
+  　 ＜ `Nevertheless,`（最重，句首要逗号）。**只有 But 和 Yet 后面不加逗号。**
+  ⚠️ 同句一处不属于本条：`the **evidents are**` ⇒ **新建 #0325**（不可数名词）。
 
 ## #0318 「正因为如此」一族：this is precisely why ／ For this very reason
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F14
