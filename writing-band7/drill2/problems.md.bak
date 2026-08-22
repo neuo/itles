@@ -11,10 +11,10 @@
 
 ```
 总数   298 条
-在池   217 条
-🎓     81 条（占 27.2%）
+在池   214 条
+🎓     84 条（占 28.2%）
 毕业线 **全档一律 2**（298/298）
-在池里 连对 1 的 **85 条**（再对一次就 🎓）· 连对 0 的 132 条
+在池里 连对 1 的 **87 条**（再对一次就 🎓）· 连对 0 的 127 条
 题面待补 **40 条**（口径＝在池 ＋ 中文触发点标着「待补」，2026-08-22 逐条重数；
 　　　　旧值 43 是估的，从未数过 —— 已作废。🎓 里另有 10 条也标着待补，不召回、不计入）
 最后一次全量校验 2026-08-20（C1 状态行 vs 历史重数 295/295 一致）
@@ -22,6 +22,7 @@
 2026-08-22 组2 增量：毕业 #0110 #0008 #0109 #0261 · 新建 #0323 #0324
 2026-08-22 组3 增量：毕业 #0262 · 新建 0 条 · #0126 当天净结果翻转为 ❌（连对 1 → 0）
 2026-08-22 组4 增量：毕业 #0018 #0250 #0251 #0252 · 新建 #0325 · ⚠️🔍 标记 +1（#0251）
+2026-08-22 组5 增量：毕业 #0001 #0263 #0091 · 新建 0 条 · #0080 降级（连对 1 → 0）
 ```
 
 > 🔴 **2026-08-20 规则变更（她定）：毕业线全部改成 2，「错一次抬到 3」整条作废。**
@@ -447,7 +448,7 @@ P1 动词框架　R · P1
 </details>
 
 ## #0014 学校应该保障学生每天的休息时间
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F01
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F01
 
 **问题是什么**
 P1 框架＋P11 搭配（挂主错 P1）　R · P1
@@ -485,6 +486,12 @@ P1 框架＋P11 搭配（挂主错 P1）　R · P1
   provide 不接双宾，必须 `provide sb **with** sth` ⇒ 考点命中，连对 1。整句零改动。
   题面点名 provide 是必要的：不点名她会走 `give sb sth`，而双宾的 give 是**对的**，考点会整块绕过。
   `each freshman` 是她自己给的第二条路，也成立。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 1 题　**连对 2 ⇒ 🎓**
+  题面「公司必须保证每位员工一个不受打扰的午休。（★ 用「保证【谁】【什么】」的双宾语说法，别用所有格）」，
+  她写 `companies should **guarantee every staff member an** undisturbed lunch break`。
+  双宾语 ＋ `an`（break 可数必须带冠词）都在，没退回 `every staff member's lunch break` ⇒ 命中。
+  📋 顺带用对 #0325：`every **staff member**` —— staff 是集合名词不可数，
+  　 她用 staff member 把它变成可数，正好绕开陷阱。
 <details><summary>原始行（旧表逐字，旧号 E-186）</summary>
 
 `学校应该保障学生每天的休息时间|**provide** sb **sth**（provide children the right）|**guarantee** sb sth（provide 不接双宾：provide sb **with** sth ／ provide sth **to** sb）|P1 框架＋P11 搭配（挂主错 P1）|R · **P1**|`
@@ -3007,7 +3014,7 @@ P4 单复数 ← 靶子　R · P4
 ---
 
 ## #0325 英语里不可数的那批常见名词 —— 不加 -s、不加 a、配单数谓语
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
 
 **问题是什么**
 这一批名词在中文里都能说"一条／几条"，在英语里**一律不可数**：
@@ -3065,6 +3072,15 @@ a **piece of** equipment ／ **an item of** furniture
   ⇒ 新建。**建这一条的另一个作用是收口** —— 可数性问题此前散在 #0058 #0059 #0094 三处，
   　 以后这一类一律归本条，不再零星建号。
   ⚠️ 不适用 SKILL §2 排除项⑤：这是**词表知识**不是构形，她写 `evidents` 说明根本不知道它不可数。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 2 题　**同日建号、同日被测、同日修对**
+  题面「警方掌握的证据非常充分，但没有一条能直接指向他」，她写
+  `The police have abundent **evidence**, but **none of it points** directly to him`。
+  ★ **三层全对**：① evidence 不加 -s ② 回指用 **it** 不是 them ③ 谓语 **points** 单数。
+  　 上午组 4 她写的是 `the evidents are`，下午同一条规则三层全中 ⇒ 连对 1、连错归 0。
+  ⚠️ 但要看清成色：**本条上午刚讲过**，间隔只有几小时，属于"刚教完就测"。
+  　 真正的证据要等下一个周期换语境再测（§3.3 提示关系查两层里"跨 session 必须换语境"那条）。
+  📋 `abundent` → `abundant` 是非词拼写，§3.2 复习组豁免；作文里照记。
+  📋 顺带：`The police **have**` —— police 配复数，对。
 ---
 
 # F05 拼写/形近词
@@ -3433,7 +3449,7 @@ P5 拼写　R · P5
 </details>
 
 ## #0096 老龄化推高了医疗开支
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F05
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F05
 
 **问题是什么**
 P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R · P5
@@ -3478,6 +3494,13 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   　 这是"括号里不许给英文原形"那条出题纪律最直接的实证。
   `7am` 的空格按 #0229 留痕不记（该条自身标⚪劝退）。
   更好：`She catches the seven o'clock bus every morning.`（at 7am ＋ every morning 略重复）
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 3 题　**连对 2 ⇒ 🎓**
+  题面「这家工厂每天处理将近两吨废料」（新写触发点，全程不给英文），她写
+  `The factory **processes** nearly two tons of waste every day`。
+  -ss 结尾加 **-es** ⇒ 构形考点第二次被行使，又是零提示，一次到位。
+  ★ 连着两次（08-20 catches / 08-22 processes）都是**不给英文就写对** ——
+  　 与 08-20 上午"括号里给了 focus 她照搬"那次对照，「不给英文原形」这条出题纪律的效果再次被证实。
+  📋 顺带用对 #0126：「**将近**两吨」→ `nearly two tons`。
 
 <details><summary>原始行（旧表逐字，旧号 E-304）</summary>
 
@@ -4132,7 +4155,7 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
   　 两个位置同一天都对 ⇒ **分词作定语这一族她其实是通的**，缺的是**选哪个分词**（词汇，不是句法）。
 
 ## #0278 proactive / reactive 这一对，以及"主动地"的四个词
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F06
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
 
 **问题是什么**
 ```
@@ -4163,6 +4186,15 @@ consciously   自觉地、清醒地（意识维度）      `**consciously** limi
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `proactiv`，全档零命中；与 #0267（程度副词强度刻度）不同 —— 那条按强弱排，本条按**语义维度**分，问 2 不成立 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 4 题　**建号后第一次被测**
+  题面「与其等问题出了再补救，不如提前介入。（★「提前介入的」和「出了事才反应的」是一对形容词，用那一对）」
+  ——★ **改写过的题面**：存档那条括号里直接写着「用 proactive 那个词族」，等于给答案，已去掉。
+  她写 `Rather than fixing problems after they arise, it is better to take a **proactive** approach`。
+  ★ 零提示下调出了这一对里**难的那个** ⇒ 命中，连对 1。
+  ⚠️ 另一半 `reactive` 没出场（她用 `fixing problems after they arise` 从句绕过）——
+  　 句子完全成立、不是错，但这一对只行使了一半 ⇒ **收进 §8④ 积压①**。
+  　 下次题面改成两半对举：「…的做法叫【 】，…的做法叫【 】」，逼出正对照。
+  📋 更好：`Rather than **reacting to** problems after they arise, …`（两个词形成正对照）
 
 ---
 
@@ -4498,7 +4530,7 @@ P12 情态（would＝虚拟/委婉）　R · P12
 </details>
 
 ## #0124 Chinese traditional medicine → traditional Chinese medicine
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F07
 
 **问题是什么**
 P11 固定语序　R · P11
@@ -4533,6 +4565,13 @@ P11 固定语序　R · P11
   ★ 这条 08-18 🎓、08-19 一字未改地复发、08-20 写对 —— 三天三种结果，是"固定语序类靠隔天再测变自动"的直接证据。
   同句一处不属于本条：`believing traditional Chinese medicine` 缺 in ⇒ 见新建 #0268。
   `start believing` 配 more and more 的一般现在时成立（同 #0191 的 08-16 改判），不判。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 5 题　**连对 2 ⇒ 🎓**
+  题面「这家博物馆收藏了大量中国古代绘画」（新写触发点，换了一个全新的名词块），她写
+  `this museum houses a vast collection of **antient Chinese** paintings`。
+  ★ **语序对了**：年代（ancient）在前、来源（Chinese）在后，没有写成 `Chinese ancient` ⇒ 命中。
+  　 换了一个完全不同的名词块仍然对 ⇒ 规则站住了，不是记住了 traditional Chinese medicine 那个块。
+  📋 `antient` → `ancient` 非词拼写，复习组豁免；作文里照记。
+  📋 顺带：`houses a vast collection of` —— house 作动词（收藏）用得很准，比 has 强。
 <details><summary>原始行（旧表逐字，旧号 E-081）</summary>
 
 `一些研究**中国传统医学**的人（08-13 改题面：原「中医（医生）」两条路都通——`Chinese medicine` 也成立——逼不出语序考点，08-13 记 ◎）|**Chinese traditional** medicine|**traditional Chinese** medicine|P11 固定语序|R · **P11**|0/3|`
@@ -6980,7 +7019,7 @@ generate  强调"从无到有造出来"，主语常是系统/活动  `Tourism ge
   查重（§3.5 B0）：grep 了 `yield`，全档只命中今天作文的记录，零条目 ⇒ 新建。
 
 ## #0290 be accessible to sb ＝ 对某人开放／够得着
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -7010,6 +7049,12 @@ affordable to    买得起                       `affordable to low-income house
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `accessible` `available to`，全档零命中 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 6 题　**建号后第一次被测**
+  题面「优质教育资源应该让所有家庭都够得着。（★「够得着」用一个形容词 ＋ to，别用 can get）」
+  ——★ **改写过的题面**：存档那条括号里写着「用 accessible 那个说法」，等于给答案，已去掉。
+  她写 `Quality educational resources should be **accessible to** all families`。
+  零提示下调出来了，介词 to 也对 ⇒ 命中，连对 1。
+  📋 顺带：`Quality educational resources` —— 名词作定语（quality）用得地道。
 
 ## #0291 a path / route / road to + 名词 ＝ 通往…的路
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
@@ -7259,7 +7304,7 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
   📋 更好：`… and **have a response ready**`（4 个词，且不必再指回 them）。
 
 ## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -7292,9 +7337,16 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `uncertainty`，全档只命中今天作文的记录，零条目 ⇒ 新建。
+- 2026-08-22 ❌ D4 复习日 C2·组6 第 9 题（顺带）　**建号后第一次被测就塌**
+  她写 `it is always accompanied **with** uncertainty`。正确：`accompanied **by** uncertainty`。
+  ★★ **她自己写对过**：08-20 作文 S4 就是 `It is invariably accompanied **by** uncertainty` ——
+  　 本条正文里那一行例句就是从她那句抄下来的。今天在**低压的单句里反而退回去了**。
+  ⇒ 这说明作文里对的东西**不等于装上了**（那次可能是刚看过范文或当场查过）。
+  　 判词纪律：以后不要拿"作文里写对过"当"已掌握"的证据，只当"见过"。
+  📋 顺带：「总是」→ always 成立；作文里 `invariably` 更重（#0320 的刻度）。
 
 ## #0298 keep / reduce sth to a minimum ＝ 把…压到最低
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -7324,6 +7376,16 @@ take sth **to an extreme**      走极端          at **the** very least     退
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `minimum` `to a large extent`，全档零命中 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 7 题　**建号后第一次被测**
+  题面「排班的时候要把加班时间压到最低。（★「压到最低」是个固定块，别丢冠词）」，她写
+  `When scheduling shifts, overtime hours should be **kept to a minimum**`。
+  固定块完整、冠词 **a** 没丢 ⇒ 命中，连对 1。
+  ⚠️ 同句一处**按 §0.8 不判错，但要留痕**：`When scheduling shifts, overtime hours should be kept…`
+  　 是**悬垂结构** —— 分词的逻辑主语是"排班的人"，主句主语却是 overtime hours。
+  　 `When making a claim, evidence should be provided.` 这类在正式书面语里极常见，
+  　 母语者例句造得出三个以上 ⇒ 不判错。
+  　 **但作文里这算 GRA 桶的悬垂，会吃掉一个干净句。** 已列为条目候选，建不建等她定。
+  📋 更好：`When scheduling shifts, **managers** should keep overtime to a minimum.`
 
 ## #0299 exceed / outweigh / surpass / outstrip 四个"超过"
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
@@ -7946,7 +8008,7 @@ K　0/3
 </details>
 
 ## #0194 这些年这个趋势增长得很快
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F09
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F09
 
 **问题是什么**
 待排序　U（待定）
@@ -7970,6 +8032,16 @@ K　0/3
   `dropped **by** 80%` 的介词也对（by ＝ 降幅，to ＝ 降到）。
   顺带用对：`the cost … has` 主谓一致正确（#0055，只列出不推进 streak）。
   同句一处不属于本条：丢了「**将近**」，`by 80%` 变成了确数，记在 #0126。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 8 题　**连对 2 ⇒ 🎓**
+  题面「这两年这类课程的报名人数涨得很快」（新写触发点），她写
+  `the number of registrations for this kind of class **has grown rapidly over the past two years**`。
+  「这两年」⇒ 现在完成时 ＋ over the past two years，配对准确 ⇒ 命中。
+  📋 顺带用对（一句里三条）：
+  　`the number of registrations … **has**`（长主语主谓一致，本线最强形状，#0055 一族）
+  　`the number of registrations`（没叠成 the number of the registrations，#0045）
+  　`this kind of **class**`（单数！#0251 今天第二次自发写对）
+  📋 更好：`**Enrolment on** courses of this kind has **risen sharply** over the past two years.`
+  　（6 个词压成 2 个；risen sharply 是图表语域的默认搭配）
 <details><summary>原始行（旧表逐字，旧号 E-136）</summary>
 
 `这些年这个趋势增长得很快|this trend is growing rapidly|this trend **has grown** rapidly in recent years（"这些年"是累积到现在→完成时）|待排序|U（待定）|0/2|`
@@ -8974,7 +9046,7 @@ U · 待排序　0/2
   ⇒ 本条说明补一句：段尾的 L 句同样不许换问题（TR 清单第 5 项就丢在这里）。
 
 ## #0311 段首短断言句：主语 ＋ be ＋ 一个形容词，五个词收尾
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F12
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F12
 
 **问题是什么**
 ```
@@ -9006,6 +9078,14 @@ U · 待排序　0/2
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `topic sentence` `段首`，F12 现有 2 条（#0222 对冲词说软立场 / #0271 结论段不许换问题），都不管段首 ⇒ 新建。
+- 2026-08-22 ✅ D4 复习日 C2·组6 第 9 题　**建号后第一次被测**
+  两句式题面「代价是真实的。它总是伴随着不确定性。（★ 第一句要短到五个词以内）」，她写
+  `**the cost is very real.** it is always accompanied with uncertainty.`
+  第一句五个词、形状对（主语 ＋ be ＋ 一个形容词）⇒ 本条命中，连对 1。
+  ⚠️ 同句两处不属于本条，各记各的：
+  　`is **very** real` ⇒ 记 #0321（中文题面根本没有"很"，very 是她加的 —— **原样复发**）
+  　`accompanied **with**` ⇒ 记 #0297（应为 accompanied **by**）
+  📋 句首小写两处按 §3.2 手滑豁免。
 
 ## #0312 引言立场句的骨架：让步 ; however, I believe X outweigh(s) Y
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F12
@@ -9862,7 +9942,7 @@ U · 待排序　0/2
   建号后第一次测：题面一个英文字都没给，她自己选了全形不是 lab ⇒ 考点命中，连对 1。整句零改动。
 
 ## #0267 fairly 一族：程度副词的强度刻度与语域
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F15
 
 **问题是什么**
 这一族词都翻成中文的"比较／挺／相当"，但**强度不同、语域不同**，作文里不能互换。
@@ -9929,6 +10009,22 @@ somewhat / rather / considerably 的记录，说明她表示程度时只有 fair
   而且**一个 very 都没滥用**（只有 S3 的 `very real` 一处，是刻意强调）
   ⇒ 考点命中，连对 1。
   ⚠️ 唯一没做到的是"能删就删"那一层：`very real`（S3）在学术文里可以直接写 `real`。留痕不判错。
+- 2026-08-22 ❌ D4 复习日 C2·组6 第 10 题
+  题面「这份报告写得相当扎实，只是结论略显仓促。（★「相当」和「略显」各用一个正式的程度副词，别用 very / a little）」，
+  她写 `the report is **remarkably** solid, though the conclusion feles **somewhat** rushed`。
+  ★ **一半对一半错，错的那半正是本条的考点 —— 刻度**：
+  ```
+  ✅ 「略显」→ somewhat        位置正确（弱档），没有写 a little
+  ❌ 「相当」→ **remarkably**   冲到了刻度顶端
+     中文「相当」＝ 中等偏上 ⇒ fairly / quite / reasonably
+     remarkably ＝ 惊人地、显著地 ⇒ 与 extremely / exceptionally 同档
+  ```
+  ⇒ 本条考的就是刻度，冲过头即失守 ⇒ ❌，连对 1 → 0。
+  ★ 值得注意的方向性：她**弱档挑得准、强档冲过头**。
+  　 与 08-20 那次「very real 该删没删」合看，形状一致 —— **她倾向于把语气往上加**。
+  　 ⇒ 下次出题把两端同时摆上（一个"相当"一个"极其"），看她能不能拉开距离。
+  📋 `feles` → `feels` 非词拼写，复习组豁免。
+  📋 更好：`The report is **reasonably** solid, though **its** conclusion feels somewhat rushed.`
 
 ## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
@@ -9971,7 +10067,7 @@ be 动词后      `Risk **is invariably** accompanied by…` ✅
   查重（§3.5 B0）：grep 了 `invariably` `频率副词`，命中 #0108 的正文（讲频率副词必须放中间，是**位置**）与 #0267（**程度**副词刻度），两条问 2 都不成立 ⇒ 新建，双向交叉引用。
 
 ## #0321 very / really / extremely —— 学术写作里 very 通常删掉更有力
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F15
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F15
 
 **问题是什么**
 ```
@@ -10007,6 +10103,14 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
   查重（§3.5 B0）：grep 了 `very` `really`，命中 #0234（really / right now 口语词进书面）—— 那条管的是**口语词不该进作文**（really 是错的），本条管的是 **very 虽然合法但删掉更好**（不是错，是可优化），问 1 不成立（一个换词、一个删词）⇒ 新建，与 #0234 交叉引用。
+- 2026-08-22 ❌ D4 复习日 C2·组6 第 9 题（顺带）　**建号后第一次被测就原样复发**
+  题面「代价是真实的。」—— **中文里根本没有"很"**，她写成 `the cost is **very** real`。
+  ★★ 本条就是从她这一句建的号：08-20 作文 S3 `The cost of risk is **very** real`。
+  　 今天题面把"很"拿掉了，她还是把 very 加了回去 ⇒ **不是理解问题，是习惯**。
+  ⇒ 处理方向已定，但**先不动**：本条目前只有这一次记录，等它攒到两次以上再判要不要
+  　 比照 #0322 转成 reminders.md 的 R 项（"会但压力下冒出来"那一类）。
+  📋 与同组第 10 题合看：她 `remarkably solid` 也是往上加（#0267 ❌）。
+  　 **同一天两处，方向一致：语气往上加。** 这比单看任何一条都有信息量。
 
 ---
 
