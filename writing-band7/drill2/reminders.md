@@ -66,3 +66,25 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 扫到 → 写进当组「顺带判定」栏，注明 R 编号，并在反馈里当场点名。
 扫不到 → 战报里写「R1/R2 本组零命中」。⛔ 不许不报。
 ```
+
+---
+
+## R3 · 固定块里那个小零件掉了（2026-08-22 新增）
+
+**扫什么**
+```
+固定块里的 the      speak / tell **the** truth · in **the** long run · on **the** whole
+                    ⛔ 但泛指抽象名词不加：`truth is relative` ✅（讲"真理"这个概念）
+所有格撇号          five **years'** experience · two **weeks'** notice · a **day's** work
+                    ＝ experience of five years，是所有格不是复数
+连字符              a **five-year** plan（作定语，year 不加 s）↔ **five years** of planning
+```
+**实例账**
+```
+2026-08-22 组2 第 5 题　`speak truth`               → `speak the truth`
+2026-08-22 组2 第 9 题　`5 years working experience` → `five years' work experience`
+```
+**为什么放这里不建条目**：三样都是"块本身记住了、块里那个不起眼的小零件掉了"，
+与 R1 R2 同一个机制（压力下最轻的成分先掉），不是"不知道这个块"。
+⚠️ **可推翻**：如果后面出现证据表明她根本不知道 `speak the truth` 这个块本身，
+　 那就不是掉零件而是词汇缺口 ⇒ 从 R3 移出去，正式建条目。
