@@ -14,13 +14,16 @@
 ## 全档状态
 
 ```
-总数   304 条　＝ 本文件 193 ＋ `graduated.md` 111
-在池   191 条（全在本文件）
-🎓     111 条（占 36.5%）　**全部住在 `graduated.md`**，本文件不再保留
-       其中 **REVIEW 池 5 条**（#0011 #0256 #0259 #0268 #0309，见 review_pool.md）
+总数   305 条　＝ 本文件 194 ＋ `graduated.md` 111
+在池   185 条（全在本文件）
+🎓     118 条（占 38.7%）　＝ `graduated.md` 111 ＋ **本文件 7 条（08-23 组3 刚毕业，等她搬）**
+       本文件里等搬的 7 条：#0269 #0278 #0288 #0295 #0299 #0319 #0320
+       其中 **REVIEW 池 7 条**（graduated.md 里 #0011 #0256 #0259 #0268 #0309 ＋
+       本文件里 #0278 #0299，见 review_pool.md）
 退池   1 条（#0058）　并入 1 条（#0325 → #0059）
 毕业线 **全档一律 2**（全档统一）
-在池里 连对 1 的 **84 条** · 连对 0 的 **107 条**　（84 ＋ 107 ＝ 191 ✔ 逐条 grep 实数）
+在池里 连对 1 的 **78 条** · 连对 0 的 **107 条**　（78 ＋ 107 ＝ 185 ✔ 逐条 grep 实数）
+　　　 校验：185 ＋ 7 ＋ 1 ＋ 1 ＝ 194 ✔　194 ＋ 111 ＝ 305 ✔
 题面待补 **38 条**（口径＝在池 ＋ 中文触发点标着「待补」）
 最后一次全量校验 **2026-08-22 复习日收官**：参与检查 299 条（并入/退池 2 条不计），
 　　　　　　　　状态行 vs 历史重数 **299/299 一致，零不符**。
@@ -88,6 +91,15 @@
 　⑤ **第 3 题算对** ⇒ #0286 按 §3.2「她当场推翻 ⇒ 记 ✅」改判，§4.7 更正块已写；
 　　 收紧后的判据：**题面括号里的结构点名是出题引导，不是判错的门**
 　⑥ **归族按教练裁定** ⇒ #0221 F11 → F08（F10 族名维持不变，因为 #0330 不建了）
+2026-08-23 组3 增量：毕业 **7 条** #0295 #0288 #0320 #0319 #0269 ＋ #0299 #0278（后两条带 ⚠️🔍 进 REVIEW 池）
+　　　　　　　　　　❌ **1 条** #0318（连对 1 → 0，连错 1；`because of that` 缺 this ＋ `for the very reason` 缺 this）
+　　　　　　　　　　✅ 建号后第一次答对：#0307（连对 1）· #0080（连对 1，两个考点自 08-18 以来第一次同时命中）
+　　　　　　　　　　新建 **1 条** #0333 in-house 一族（她点名要学）
+　　　　　　　　　　她另点名两处，**查重后不建号**：「扎根」＝ #0295 成员③ rooted in ·
+　　　　　　　　　　「be limited to」＝ #0269 第三条路的成员 —— 两个都在本组当场落地了
+　　　　　　　　　　R2 命中 1 处（`the child throw up`）· R1 R3 零命中
+　　　　　　　　　　⚠️ 教练侧：**零提示 × 词表型 ⇒ 合法绕过 ⇒ ◎✅ 毕业**本场第 2、3 次
+　　　　　　　　　　　（#0299 #0278），当日累计 5 次（#0309 #0268 #0267 #0299 #0278）
 2026-08-22 组10 增量：毕业 #0177 #0258 #0259 #0264 · **降级 #0251（🎓 后复发，当天毕业当天塌）**
 　　　　　　　　　　★ 本轮 102 条全部出完（§8② 完成）⇒ 下一步 §8③ 回看 ＋ §8④ 全档 review
 　　　　　　　　　　⚠️ #0248 #0254 两条毕业时当日已重度预激，条目里已注明下周期换语境重测
@@ -1904,7 +1916,7 @@ U · 待排序　0/2
 </details>
 
 ## #0080 病人的病情如果加重，就要立刻送医院
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
 
 **问题是什么**
 P4 单复数 ← 靶子　R · P4
@@ -1945,6 +1957,23 @@ P4 单复数 ← 靶子　R · P4
   　 改法：题面里加一句「（★ 送去接受治疗，不是去医院那栋楼）」，把零冠词逼出来。
   📋 更好：`If an elderly person **has a fall** at home, they must be taken to hospital **straight away**.`
   　（has a fall 是英式固定块，一个名词收掉 falls and gets hurt 两个动词）
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 6 题　**两个考点第一次同时命中，连对 1**
+  题面「这个孩子要是再吐一次，就必须马上送医院。
+  　　（★ 用 hospital；送去接受治疗，不是去医院那栋楼探病）」
+  ——★ 本条连对 0 ⇒ 按 08-23 新规则**把目标英文词写进括号**；同时按 08-22 §8④ 积压①
+  　 补上「接受治疗 ≠ 那栋楼」这句语境限定，专门把**零冠词**那一半逼出来。
+  她写 `if the child throw up once more, he must **be taken to hospital** immediately`。
+  ★ **本条挂着的两个考点这次都对**（08-18 只对了零冠词一半、08-22 只对了数一半）：
+  ```
+  数      `hospital` 单数 ✅（08-18 写的是 hospitals）
+  零冠词  `to hospital` 不加 the ✅（08-22 写的是 to **the** hospital）
+  动词    `be **taken** to` ✅（08-22 写的是 `be **got** to`，get 没有这个被动用法）
+  ```
+  ⇒ 三处全对 ⇒ 命中，连对 1。**这是本条自 08-18 建号以来第一次完整答对。**
+  ⚠️ 同句一处**不属于本条、也不建号**：`the child **throw** up` → `**throws** up`
+  　 三单 -s 掉词尾 ⇒ 按 §2⑤ 挂 `reminders.md` **R2**，教练当场点名，不占编号、不进复习池。
+  📋 更好：`If the child **vomits** once more, he must be taken to hospital immediately.`
+  　（`throw up` 是口语说法；单点题里不判 —— 语域按 §6 新规则一律挂作文验）
 
 <details><summary>原始行（旧表逐字，旧号 E-319）</summary>
 
@@ -2574,7 +2603,18 @@ K
 </details>
 
 ## #0269 「在小范围／在一定范围内」怎么说 —— 按你限定的是什么分四条路
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
+
+**成员出题账**
+```
+① on a … scale（规模）        2026-08-22 组5 题面「这个做法在小范围里行得通」⇒ ✅
+② in … cases（情形）          2026-08-23 组3 题面「只在少数几种情况下管用」⇒ ✅
+③ be limited to / confined to（边界）2026-08-23 组3 题面「目前还只限于两个试点城市」⇒ ✅
+④ within a range of（幅度区间）未出过
+⇒ 2026-08-23 她当场点名「be limited to 建一个条目练习」——
+　 be limited to 就是本条第三条路的成员，已在本条落地，⛔ 不重复建号（§3.5 防重复）。
+　 另与 #0294（be reserved for 一族）交叉引用，那条也列了 be limited to / be confined to。
+```
 
 **问题是什么**
 中文一个"范围"，英文分四条路，**选哪条取决于你限定的是什么**：
@@ -2653,6 +2693,23 @@ Such measures are usually **confined to** large cities.
   　 但留痕：她**同一句里前半 be effective、后半 work**，两条路各走一次 ——
   　 会走，没有"优先用动词"的偏好 ⇒ #0109 的毕业成色可疑，收进 §8④ 积压②。
   📋 更好：`The method **works** on a small scale, but it may not work once it is **rolled out nationwide**.`
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 10 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「这种疗法只在少数几种情况下管用，目前还只限于两个试点城市在用。」她写
+  `this therapy only works **in a few specific cases** and **is limited to** two pilot cities`。
+  ★ **一题两条路同时落地，而且两条都挑对了**：
+  ```
+  前半「在少数几种情况下」＝ 限定的是**情形** ⇒ **in … cases** ✅
+      （不是 scale —— 中文说的不是"多大摊子"；这正是本条硬边①要分的那一刀）
+  后半「只限于两个试点城市」＝ 限定的是**边界** ⇒ **be limited to** ✅
+      （本条第三条路，正文里写着的成员）
+  ⇒ 一句话里"情形"和"边界"分得清清楚楚 ⇒ 命中，连对 2。
+  ```
+  📋 `speficic` → `specific`，非词拼写，§3.2 复习组豁免（⚠️ 作文里照记）。
+  📋 更好：`is **currently** limited to two pilot cities`——中文「**目前还**只限于」带一层时间边界。
+  　 ⚠️ 这一处**不记 #0126**：`is limited to two pilot cities` 与"目前如此、以后可能扩大"
+  　 　 并不矛盾，只是少了一层时间标记；而 08-22 的「几乎总是」写成 invariably 是**命题被改写**
+  　 　（允许例外 → 无一例外）。按她 08-22 收紧的判据（删掉后命题被改写才判），本处落在不判那一侧。
+  📋 句末缺句号，复习组标点手滑豁免。
 
 ## #0277 guaranteed / proven / established 这类过去分词当前置定语
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
@@ -2695,7 +2752,17 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
   　 两个位置同一天都对 ⇒ **分词作定语这一族她其实是通的**，缺的是**选哪个分词**（词汇，不是句法）。
 
 ## #0278 proactive / reactive 这一对，以及"主动地"的四个词
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
+⚠️🔍 **REVIEW 池**（靠 ◎✅ 到线；**reactive 从建号到毕业一次都没出场**，两次都被从句绕过）
+
+**成员出题账**
+```
+① proactive     2026-08-22 组6 题面「与其等问题出了再补救，不如提前介入」⇒ ✅
+② reactive      2026-08-22 组6 ⇒ 未落地（她走 `fixing problems after they arise`）
+                2026-08-23 组3 ⇒ 未落地（她走 `who only react after things go wrong`）
+                ★ 两次都被关系从句绕开 —— 这一对的"负面那半边"是真正没练到的
+③ proactively / actively / deliberately / consciously　四个副词一个都没出过
+```
 
 **问题是什么**
 ```
@@ -2735,6 +2802,102 @@ consciously   自觉地、清醒地（意识维度）      `**consciously** limi
   　 句子完全成立、不是错，但这一对只行使了一半 ⇒ **收进 §8④ 积压①**。
   　 下次题面改成两半对举：「…的做法叫【 】，…的做法叫【 】」，逼出正对照。
   📋 更好：`Rather than **reacting to** problems after they arise, …`（两个词形成正对照）
+- 2026-08-23 **◎✅** D1 学习日 C3·组3 第 7 题　**算对，连对 2 ⇒ 🎓 ＋ 进 REVIEW 池**
+  题面（**零提示**，本条连对 1 ⇒ 按新规则不给任何提示）
+  「出了事才反应的家长，比不上那些提前动手的家长。」她写
+  `parents **who only react after things go wrong** cannot match those **who take action in advance**`。
+  ★ **为什么算对**：句子完全成立、完全符合题面 —— `cannot match` ＝ 比不上，母语者句造得出三个
+  　（`Their squad cannot match ours.` / `No copy can match the original.` / `Few firms can match
+  　 their delivery times.`）；中文的两半意思都送到了 ⇒ §3.2 的两个 ❌ 理由都不成立。
+  ⚠️ **没被行使的**：`reactive` 与 `proactive` 这一对形容词一个都没出场 —— **连着两次**。
+  ★★ **教练侧的账（题面缺陷，本条第二次栽在同一个地方）**：
+  ```
+  08-22 的题面「出了事再补救 / 提前介入」是**动词短语**形状 ⇒ 她照着写从句
+  08-23 的题面「出了事才反应的家长」是**关系从句**形状 ⇒ 她更是直接写从句
+  ⇒ 中文只要写成"…的人"，英文最省事的路永远是 who 从句，形容词那条路可以整个绕开。
+  ⇒ 改法：中文必须把这两个词写成**贴在名词前的标签**，让从句无路可走。
+  ```
+  ⇒ 存档新题面见下方 REVIEW 池条目与 `review_pool.md`。
+  📋 顺带用对 **#0301**（in advance / beforehand / in anticipation）：`take action **in advance**`
+  　 用得准（📋 留痕不推进 —— 她是自发用出来的，按 §6 自发块挂作文验）。
+
+**★ REVIEW 池存档题面（她 review 时用这条）**
+```
+提前动手的做法叫【 】，出了事才反应的做法叫【 】；后一种迟早要吃亏。
+（★ 两个空都必须填一个**形容词**，⛔ 不许改写成 who／that 从句，⛔ 不许用动词短语）
+另一条没练过的：四个"主动地"——
+备用题面：他不是被逼的，是**有意**回避这个话题；而她只是**积极**争取机会，两回事。
+（★ 前一个用 deliberately，后一个用 actively）
+```
+
+---
+
+## #0333 in-house 一族：自己做 vs 外包，形容词与副词同形
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
+
+**问题是什么**
+`in-house` 一个词同时是**形容词**和**副词**，两个位置都带连字符：
+```
+形容词（贴在名词前）  `an **in-house** team` · `**in-house** training` · `**in-house** counsel`
+副词（贴在动词后）    `they hire **in-house**` · `we do it **in-house**` · `stopped recruiting **in-house**`
+⛔ `~~in house~~` 分写 · ⛔ `~~inhouse~~` 连写 —— 只有带连字符这一种写法
+⛔ 副词位置不能加介词：`~~hire in in-house~~` `~~do it by in-house~~`
+```
+**这一族（自己做 ↔ 外包，成对背最省）**
+```
+自己做   in-house              `keep it **in-house**` ＝ 不外包，自己内部消化
+         internally            `handled **internally**`（最中性，不带连字符）
+外包     outsource（动词）      `**outsource** the work to a supplier` ★ 及物，配 to
+         outsourcing（名词）    `the **outsourcing** market` · `**outsourcing** costs`
+         outsourced（形容词）   `an **outsourced** service`
+第三方   third-party（形容词）  `a **third-party** supplier`　⛔ 只作定语，不作副词
+         a third party（名词）  `handled by **a third party**`（作名词时不带连字符）
+自由职业 freelance             形容词与副词同形，同 in-house：`work **freelance**`
+```
+**判据**：说"这件事在公司内部做"⇒ 副词 in-house；修饰后面的名词 ⇒ 形容词 in-house；
+说"交出去做"⇒ 动词 outsource；说"外包这件事本身"⇒ 名词 outsourcing。
+⚠️ **连字符的通则**（这一族最容易掉的零件）：
+```
+third-party supplier ✅（定语位，连字符）　／　a third party ✅（名词位，无连字符）
+full-time job ✅　／　works full time ⚠️（副词位英式常无连字符，美式 full-time 也可）
+★ in-house 是例外：形容词位、副词位**都要**连字符。记这一个例外就够。
+```
+
+**怎么发现的**
+2026-08-23　D1 学习日 C3·组3 第 8 题（主考点 #0318）。她写
+`many companies have simply stopped hiring **in-house**` —— 用法完全正确，
+然后当场点名：「**这个 in-house 可以建个条目练习下**」（§2③）。
+
+**我错在哪**
+她这次**没有错**，`hiring in-house` 副词用法、连字符都对。
+建号理由是 §2③（她点名要学）。缺口在于**这一族的其余成员**和**形容词/副词两个位置的分工**。
+查重（§3.5 B0）：全档（problems.md ＋ graduated.md）grep 了 `in-house` `in house` `outsourc`
+`third-party` `freelance`，**零条目命中**（唯一一处出现是 #0318 更好版里的 `recruiting in house`）。
+又逐条比对了 F06 里最近的两条：#0277（guaranteed/proven/established 过去分词作前置定语）——
+那条管的是**过去分词能不能当定语**，本条管的是**同一个词兼形容词与副词**，问 2 不成立；
+#0278（proactive/reactive）—— 那条是一对反义形容词的语义分工，本条是一个词的两个词类位置，
+问 1 不成立 ⇒ **新建**。
+
+**中文触发点**
+这家公司的培训一直是自己做的，只有法务外包给了第三方。
+
+### 历史记录
+- 2026-08-23 ③ 建号（她点名要学）D1 学习日 C3·组3 第 8 题
+  她自发写出 `stopped hiring **in-house**`（副词位 ＋ 连字符，全对）、
+  同句还写对了 `the **outsourcing** market`（名词位）。
+  ⇒ 建号时无对错，连对连错都是 0。
+  ★ 出题纪律：本条是**词表型**，一题必须让 ≥2 个成员落地（§3.5 第 3.5 步）。
+
+  **成员出题账**
+  ```
+  ① in-house（副词）    2026-08-23 组3 自发用对（📋 不推进）—— 按 §6「自发块挂作文验」，
+  　                    单点题优先测其他成员
+  ② in-house（形容词）  未出过
+  ③ outsource（动词）   未出过
+  ④ outsourcing（名词） 2026-08-23 组3 自发用对（📋 不推进）
+  ⑤ third-party         未出过
+  ⑥ internally          未出过
+  ```
 
 ---
 
@@ -3655,7 +3818,7 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
   📋 本条要练的那句仍然存着，下次出题用：`These claims are now **impossible to verify**.`
 
 ## #0288 最高级 + 抽象名词作主语
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F07
 
 **问题是什么**
 ```
@@ -3691,6 +3854,23 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
   最高级名词块坐在主语位、`the` 没漏（硬边①）⇒ 命中，连对 1；表语也用了最高级，等于一句里用了两次。
   📋 更好：删掉 `choice` —— method 与 choice 指同一样东西，重复一次；最高级后面可以直接收尾：
   　`The easiest method is usually **the least effective**.`
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 3 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「最贵的那套方案不一定是最合适的。」她写
+  `**the most expensive** project is not necessarily **the most suitable**`。
+  ★ 本条考的是**句法位置**，三条硬边全守住：
+  ```
+  ① the 没漏：`**the** most expensive project` ✅
+  ② 三音节以上用 most 不加 -est：`the most expensive` / `the most suitable` ✅
+  ③ 不是两选一的场合，用最高级而非比较级（#0106 的分界）✅
+  ```
+  ⇒ 最高级名词块坐主语位、表语也收在最高级、`suitable` 后面直接断句（08-22 那次多写的 `choice`
+  　 这次没有再出现）⇒ 命中，连对 2。
+  ⚠️ 同句一处**不属于本条**：中文是「那套**方案**」，她写 `project`。
+  　 `project` ＝ 项目（一件要做的事），`方案` ＝ 一套做法／一个可选项 ⇒ 指的不是同一样东西。
+  　 正确：`the most expensive **option**`（或 plan／proposal）。
+  　 ⇒ 记在**顺带用错**（词义，LR 桶）。全档 grep 了 `方案` `proposal` `scheme` `option`，
+  　 　 只有 #0181（proposal ≠ advice，🎓）沾边，改正动作不同（那条是 advice 串台）⇒ 本次**不建号**，
+  　 　 按"再犯一次就建"处理，留在本行备查。
 
 ---
 
@@ -4478,7 +4658,18 @@ be open to        对…开放（相反方向）        be available to     对�
   📋 更好（行使考点）：`This post **is reserved for** those **with** more than five years' experience.`
 
 ## #0295 shaped by / grounded in / based on / rooted in ＝ "建立在…之上"
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+
+**成员出题账**
+```
+① based on     2026-08-23 组3 题面「这项新政策是依据大量实地调查定出来的」⇒ ✅
+② grounded in  2026-08-22 组10 题面「这套做法是建立在多年一线经验之上的」⇒ ✅
+③ rooted in    2026-08-23 组3 题面「这种偏见深深扎根在当地的传统里」⇒ ✅
+④ shaped by    未出过
+⇒ 三个成员已落地，毕业时唯一没测过的是 shaped by。
+　 2026-08-23 她当场点名「这个扎根可以新建个条目练习下」—— rooted in 就是本条成员③，
+　 已在本条落地，⛔ 不重复建号（§3.5 防重复）。是否按 §3.5 第3.5步② 把它单独摘出来，待她定。
+```
 
 **问题是什么**
 四个都翻成"基于／建立在…上"，但**比喻来源不同，搭的东西也不同**：
@@ -4513,6 +4704,21 @@ shaped by     强调"被塑造成现在这样"，接经验/环境/力量   `a ch
   挑对了 grounded in（比 based on 更实）⇒ 命中，连对 1。
   📋 `gounded` → `grounded` 非词拼写，复习组豁免。
   📋 顺带：`hands-on experience` 是她自己够出来的复合形容词，用得很准。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 2 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「这种偏见深深扎根在当地的传统里；而这项新政策是依据大量实地调查定出来的。」她写
+  `this prejudice is deeply **rooted in** the local tradition, whereas the new policy is **based on**
+  extensive field research`。
+  ★ **一题两个成员，两个都按判据挑对了**：
+  ```
+  前半「深深扎根」＝ 源头在那儿、长出来的 ⇒ **rooted in**（本条判据第二行），
+       而且介词守住了 in（正文硬边：`~~rooted from~~` ❌）
+  后半「依据…定出来的」＝ 依据 ⇒ **based on**（最通用那一档），语域也对：
+       政策文件配 based on 正好，不必往 grounded in 上冲
+  ```
+  ⇒ 词表型条目要求的"一题 ≥2 个成员落地"这次真正做到了 ⇒ 命中，连对 2。
+  📋 更好：`rooted in **local tradition**`（去掉 the）—— tradition 作抽象概念时零冠词更常见；
+  　 加 the 之后读者会等一个具体的"哪一条传统"。她的写法不判错，只进更好版。
+  📋 顺带用对：`whereas` 引对比从句，位置与逗号都对（#0317 一族，📋 留痕不推进）。
 
 ## #0296 anticipate ＝ 预判并提前应对（不只是"预料"）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
@@ -4650,7 +4856,17 @@ take sth **to an extreme**      走极端          at **the** very least     退
   📋 更好：`When scheduling shifts, **managers** should keep overtime to a minimum.`
 
 ## #0299 exceed / outweigh / surpass / outstrip 四个"超过"
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+⚠️🔍 **REVIEW 池**（靠 ◎✅ 到线；outstrip／surpass 从建号到毕业一次没出场，两次都落在 exceed）
+
+**成员出题账**
+```
+① exceed    2026-08-22 组5 题面「这笔投资的收益最终会超过投入的成本」⇒ ✅
+            2026-08-23 组3 题面「近几年需求已经甩开了供给」⇒ ◎✅（我想要 outstrip）
+② outweigh  未出过
+③ surpass   2026-08-23 组3 题面「今年的销量则超过了去年创下的纪录」⇒ 未落地（她走 break the record）
+④ outstrip  未出过（08-23 那题本想逼它，中文「甩开」没锁住）
+```
 
 **问题是什么**
 ```
@@ -4689,6 +4905,28 @@ outstrip   增长速度上**甩开**，主语常是需求/成本/人口
   📋 顺带用对 #0280：`the … of the investment` 这个**主语形状**是对的（of 结构做主语）——
   　 组 3 她在 #0280 上失手，同一天在这里自发用对。
   📋 `finally` → `eventually` 更贴"最终"（finally 偏"最后一件事"），但 finally 造得出母语者句 ⇒ 不判。
+- 2026-08-23 **◎✅** D1 学习日 C3·组3 第 1 题　**算对，连对 2 ⇒ 🎓 ＋ 进 REVIEW 池**
+  题面（**零提示**，本条连对 1 ⇒ 按她 08-23 定的新规则一个提示都不给）
+  「近几年需求已经甩开了供给；今年的销量则超过了去年创下的纪录。」她写
+  `in recent years, demand has **exceeded** supply, and sales this year have **broken the record** set last year`。
+  ★ **为什么算对**（§3.2 判 ❌ 只有两个理由，这两条都不成立）：
+  ```
+  前半  `demand has exceeded supply` 是标准英语，而且判据第一行"比的是数"正好对上
+        （需求与供给就是数量比较）—— 母语者句：`Demand has exceeded supply for months.` /
+        `When demand exceeds supply, prices rise.` / `Demand exceeded supply at launch.`
+  后半  `break the record` 是"超过纪录"最地道的说法，比 surpass 还常见
+        母语者句：`Sales have broken last year's record.` / `She broke the world record.`
+  ⇒ 句子本身无错、中文意思全送到 ⇒ 不许判 ❌
+  ```
+  ⚠️ **没被行使的**：我瞄准的 **outstrip**（增速甩开）与 **surpass**（超越纪录）一个都没出场；
+  　 两次被测（08-22、08-23）落地的都是**同一个成员 exceed** ⇒ 正是 REVIEW 池要接的那种情况。
+  ★★ **教练侧的账（题面缺陷，不是她的账）**：
+  　 中文「甩开」在她的语感里通向"超出"，不通向"增速拉开距离"；「超过纪录」天然通向 break。
+  　 而本条连对 1 ⇒ 按新规则**零提示**，我没有任何合法手段把 outstrip／surpass 点出来。
+  　 ⇒ 这是「零提示 × 词表型」的结构性后果，本场第 2 次（另一次是 #0278），
+  　 　 已连同 #0309 #0268 #0267 一起写进当日 session 的教练侧。
+  📋 顺带用对：`sales **this year**`（#0331 时间所有格的替代形状之一，合法）· `the record **set** last year`
+  　（后置分词定语，#0284 一族，她今天第二次自发用出来）。
 
 ## #0300 play it safe ／ 求稳与冒险这一族习语
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
@@ -4984,7 +5222,17 @@ take **a liking to** sb       take **pride in** sth（无冠词）  take **advan
   　 一般现在时表习性也读得通 ⇒ 不判错，只进更好版。
 
 ## #0307 职场名词块一族：career progression 及同族
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+
+**成员出题账**
+```
+① career progression  未出过（08-20 作文里她**自发**用过 ⇒ §6 挂作文验，不出单点题）
+② work experience     2026-08-22 组2 顺带 ⇒ ❌（写成 working experience）
+③ job security        2026-08-23 组3 题面「这份工作的好处是稳定」⇒ ✅
+④ workload            2026-08-23 组3 题面「但工作量确实不小」⇒ ✅
+⑤ line manager        08-22 组8/9 顺带用对（📋 不推进），未单独出过
+⑥ promotion prospects ／ career path ／ turnover ／ work-life balance　未出过
+```
 
 **问题是什么**
 ```
@@ -5035,6 +5283,24 @@ years' experience    几年经验，注意撇号：`five **years'** experience`
   ⇒ 按新口径：本条毕业需要**两次连对落在不同成员上**（career progression ／ work experience ／
   　 line manager ／ job security ／ promotion prospects …）。
   　 已有的记录：08-22 组 2 ❌（working experience）· 08-22 组 8/9 顺带用对 line manager（不推进）。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 5 题　**建号后第一次答对，连对 1**
+  题面「这份工作的好处是稳定，但工作量确实不小。（★ 用 job security；★ 用 workload）」
+  ——★ 本条连对 0 ⇒ 按她 08-23 定的新规则**把目标英文词原样写进括号**，不再绕。
+  她写 `the advantage of this job is **its job security**, but **the workload** is rather heavy`。
+  ★ 本条真正的陷阱是**数与冠词**，两处都守住了：
+  ```
+  job security  不可数 ⇒ 不能写 `~~a job security~~` / `~~job securities~~`
+                她写 `**its** job security`，物主限定词合法且比裸名词更自然
+                （母语者句：`The company is known for **its job security**.`）
+  workload      不可数 ⇒ `**the** workload`（特指这份工作的）✅，不是 `~~workloads~~`
+  ```
+  ⇒ 两个成员同时落地、冠词与数都对 ⇒ 命中，连对 1。
+  📋 更好：`the workload is **genuinely heavy**`（或 `is indeed considerable`）——
+  　 中文「**确实**不小」是确认语气，`rather` 是程度词，把"确实"这一层换成了"相当"。
+  　 ⚠️ 这一处**不记 #0126**：删掉「确实」之后命题不变（工作量大还是工作量大），
+  　 　 与 08-22 的「几乎」「往往」不同（那两个删掉会把"允许例外"变成"绝对"，是命题被改写）。
+  📋 顺带：`rather heavy` 本身是正确英语；它只在**作文语域**里才有问题（口语对冲词进书面），
+  　 而语域按 §6 新规则**一律挂作文验**，中译英单点题不判（同 08-23 组2 的 `a bit heavy` 裁定）。
 
 ## #0308 quantify / measure / assess / gauge 四个"衡量"
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
@@ -6837,7 +7103,24 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
   ⚠️ 同句一处不属于本条：`the **evidents are**` ⇒ **新建 #0325**（不可数名词）。
 
 ## #0318 「正因为如此」一族：this is precisely why ／ For this very reason
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F14
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14
+
+**★ 2026-08-23 补进正文：这一族真正会塌的地方是【指示词 this】**
+```
+这一族每个成员里都有一个**指着前面那句话**的词，那个词一掉，块就不成立：
+  This is precisely why …          ← this 就是主语，掉了整句没主语
+  For **this** very reason, …      ← 掉了 this ⇒ `~~For the very reason,~~` 不是英语
+  It is for **this** reason **that** … ← 强调句：this 和 that 少一个都散架
+  which is exactly why …           ← which 指前一整句
+  That is why …                    ← that 指前一整句
+⛔ `~~It is precisely because of that many companies have…~~`
+   —— `because of` 后面要一个名词性成分：`because of **this**`；
+      而且强调句 `It is … **that** …` 的 that 也不能省。
+   两条合法的路，二选一：
+   ✅ `It is precisely **because of this that** many companies have…`（强调句，最重）
+   ✅ `**This is precisely why** many companies have…`（最省、最有力）
+★ 找法：写完这一族的块，回头找那个指着上文的词（this / that / which）在不在。在，块才成立。
+```
 
 **问题是什么**
 ```
@@ -6884,9 +7167,44 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
   ⇒ 题面已改死，见下方中文触发点 2026-08-22 那行。
   📋 更好：`For this **very** reason, many companies have **simply stopped recruiting in house**.`
   　（`completely`→`simply`：中文「干脆」是"索性"不是"彻底"）
+- 2026-08-23 ❌ D1 学习日 C3·组3 第 8 题　**连对 1 → 0，连错 1**
+  题面（**零提示**，本条连对 1 ⇒ 新规则不给提示）
+  「正是因为这一点，很多公司干脆不再自己招人了；也正是出于这个原因，外包市场才涨得这么快。」她写
+  `**It is precisely because of that** many companies have simply stopped hiring in-house;
+  **for the very reason**, the outsourcing market has grown so rapidly`。
+  ★ **两半都塌，而且是同一个零件：指着上文的 this 掉了。**
+  ```
+  前半  `It is precisely because of that many companies have…`
+        ① `because of` 后面缺名词性成分 ⇒ 要 `because of **this**`
+        ② 强调句 `It is … that …` 的 that 也没有 ⇒ 整句没有主句连接
+        ⇒ 不是"不地道"，是**句子本身不成立**（§3.2 判 ❌ 理由①）
+        正确：`It is precisely **because of this that** many companies have…`
+        　　　或 `**This is precisely why** many companies have…`
+  后半  `for the very reason,` → `**For this very reason**,`
+        固定块是 `For **this** very reason`，掉了 this 就只剩 `for the very reason`，
+        而 `the very reason` 在英语里要接下文：`for the very reason **that** it is cheap`。
+        句首孤零零一个 `For the very reason,` 不是英语。
+  ```
+  ★★ 08-22 那次白测的是 **very**（我把提示丢了，她写 For this reason ⇒ ◎✅）；
+  　 这次她**把 very 记住了、却把 this 丢了** —— 说明块是按"听起来像"存的，不是按结构存的。
+  　 ⇒ 已把「指示词 this 是这一族的命门」写进本条正文（见上方 2026-08-23 补进正文那一段）。
+  ⚠️ 机制上同 `reminders.md` **R3**（固定块里那个小零件掉了），
+  　 但本块**有编号**且这就是本条的考点 ⇒ 判在本条，不另记 R3。
+  📋 顺带用对：`simply stopped hiring **in-house**`（副词用法与连字符都对）·
+  　 `the outsourcing market has grown so rapidly`（现在完成时对）。
+  　 她当场点名「这个 in-house 可以建个条目练习下」⇒ 全档 grep `in-house` `in house` 零条目 ⇒ 新建 **#0333**。
 
 ## #0319 条件连接词四档：if ＜ as long as ＜ provided that ＜ on condition that
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F14
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14
+
+**成员出题账**
+```
+① if                 未单独出过（最中性，不必测）
+② as long as         2026-08-23 组3 题面「只要大家按时交材料，进度就不会拖」⇒ ✅
+③ provided (that)    2026-08-23 组3 题面「我认为这条路走得通，前提是预算足够」⇒ ✅
+④ on condition that  未出过
+⑤ unless             2026-08-22 组3 题面「除非明年拿到新的资金，这个项目就得停」⇒ ✅
+```
 
 **问题是什么**
 ```
@@ -6927,6 +7245,21 @@ unless            ＝ if not（反向）             `**unless** the policy chan
   📋 更好：`Unless new funding **is secured** next year, the project **will have to be shelved**.`
   　（"拿到"是个动作 ⇒ secure；"就**得**停"的强制层用 have to 补回来）
   📋 「得」译弱不判 —— 沿用 08-20 #0249 的先例。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 9 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「我认为这条路走得通，前提是预算足够；只要大家按时交材料，进度就不会拖。」她写
+  `I believe this approach is viable, **provided that** the budget is sufficient; **as long as**
+  everyone submits their materials on time, the schedule will not be delayed`。
+  ★ **一题两个成员，选词、语域、时态全对**：
+  ```
+  选词  「前提是」＝ 必要条件、书面 ⇒ **provided that** ✅（没有退回最中性的 if）
+        「只要…就」⇒ **as long as** ✅
+  语域  正式那一档给了 provided that，口语那一档给了 as long as，两个各就各位
+  硬边② 条件从句用现在时表将来：`the budget **is** sufficient` ✅ `everyone **submits**` ✅
+        主句带 will：`will not be delayed` ✅　⛔ 没有写成 `~~will be sufficient~~`
+  ```
+  ⇒ 命中，连对 2。
+  📋 顺带用对：`viable`（"走得通"用一个词收掉，比 workable 更书面）· `submit their materials
+  　 **on time**`（#0301 一族的时间块，📋 留痕不推进）。
 
 ---
 
@@ -7410,7 +7743,16 @@ somewhat / rather / considerably 的记录，说明她表示程度时只有 fair
   　 这也正是她那句话的意思：「除了 the 不太对，其他翻译的对」。她自己划的边界是准的。
 
 ## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F15
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F15
+
+**成员出题账**
+```
+① always        未单独出过（最通用，不必测）
+② invariably    2026-08-22 组8 题面「这类项目几乎总是超预算」⇒ ✅
+③ consistently  2026-08-23 组3 题面「他这两年的表现一贯很好」⇒ ✅
+④ rarely        2026-08-23 组3 题面「出错的时候很少」⇒ ✅
+⑤ seldom        未出过（倒装形状 `Seldom does…` 也没测过 ⇒ 挂作文验）
+```
 
 **问题是什么**
 ```
@@ -7458,6 +7800,20 @@ be 动词后      `Risk **is invariably** accompanied by…` ✅
   📋 顺带用对：`projects **of this nature**`（#0251 今天第四次）· `**exceed** their budget`（#0299）。
   ★ 与同组第 10 题的对照放在一起看：她**能挑到刻度顶端的词，但挑完之后不再回头看中文有没有留余地**。
   　 这与组 6 的 `remarkably solid`（往上冲）是同一个方向。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 4 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「他这两年的表现一贯很好，出错的时候很少。」她写
+  `his performance has been **consistently** good over the past two years, and he **rarely** makes mistakes`。
+  ★ **一题两个成员，选词与位置全对**：
+  ```
+  选词  「一贯」＝ 每次都这样、稳定地 ⇒ **consistently**（不是 always，也没往 invariably 上冲）
+        「很少」⇒ **rarely** ✅
+  位置  `has been **consistently** good` —— be 动词后 ✅（本条位置规则第一行）
+        `he **rarely** makes mistakes` —— 实义动词前 ✅（第二行）
+        ⛔ 两处都没有掉到句末
+  ```
+  ⇒ 命中，连对 2。
+  ★★ 与 08-22 那次对照：那次她挑对了刻度顶端的 invariably，却**没回头看中文的"几乎"**（记 #0126）；
+  　 这次「一贯」和「很少」两个刻度都挑准了，而且中文里没有留余地的字要接 —— **刻度这一项现在是稳的**。
 
 ## #0321 very / really / extremely —— 学术写作里 very 通常删掉更有力
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F15
