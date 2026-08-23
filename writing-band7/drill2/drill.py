@@ -11,9 +11,8 @@
    所有条目内容、session、战报仍然全部手工写（SKILL §0.3 不变）。
 
 子命令
-  出题（SKILL §4① §6 §8）
-    python3 drill.py pick  --type learn  [--n 10] [--spare 5] [--date YYYY-MM-DD] [--group N] [--dry]
-    python3 drill.py pick  --type review [--n 10] ...
+  出题（SKILL §4① §6 §8）—— 开场跑一次，当天全部候选一次分完组
+    python3 drill.py pick  --type learn|review [--size 10] [--full] [--date YYYY-MM-DD] [--dry]
     python3 drill.py used  --group N --used "#0095,#0266" [--dropped "#0303=与第2题同词族"]
   建号查重（SKILL §3.5 第 1 步）
     python3 drill.py dedup "works" "workers" [--fam F05] [--limit 12] [--no-history]
@@ -156,6 +155,12 @@ class Entry:
     @property
     def trigger_todo(self):
         return "待补" in self.trigger or not self.trigger
+
+    @property
+    def essay_only(self):
+        """条目自己声明「挂作文验，不出单点题」⇒ 不进复习组，只在判作文时对着扫。
+        锚点写死成「不出单点题」五个字（SKILL §6）。"""
+        return "不出单点题" in self.trigger
 
     @property
     def rule_line(self):
@@ -419,43 +424,27 @@ def back_count(today, types, n):
 #  drawn_review.log
 # ══════════════════════════════════════════════════════════════════════════
 def read_drawn(today):
-    """本日流水 → (要排除的编号, 组号集合)
+    """本日流水 → (已经用掉的编号, 已收尾的组号集合)
 
-    排除口径（§6 去重）：
-      · 已经**定稿用过**的（`用` 行里的）—— 永久排除，本日不再出
-      · 抽了但**这一组还没定稿**的 —— 在飞，先排除，免得两组撞车
-      · 备选没被用上、或 `弃` 掉的 —— **自动回池**，下一组还能抽到
+    全天计划模型（她 2026-08-23 定）：`pick` 一次把当天全部候选切成组打出来，
+    所以「抽」只是**计划**，不构成排除；只有真正出过题、跑过 `used` 的才排除。
+    ⇒ 中途重跑 pick，剩下的池子会重新分组，已经出过的不会再回来。
     """
-    drawn_by_g, used_by_g, groups = defaultdict(set), {}, set()
+    used, groups = set(), set()
     if not os.path.exists(DRAWN):
-        return set(), groups
+        return used, groups
     for raw in open(DRAWN, encoding="utf-8"):
         raw = raw.rstrip("\n")
         if not raw.strip() or raw.startswith("#"):
             continue
         parts = raw.split("\t")
-        if len(parts) < 3 or parts[0] != today:
+        if len(parts) < 3 or parts[0] != today or parts[1] != "用":
             continue
-        kind, g = parts[1], parts[2]
-        groups.add(g)
-        ids = set()
+        groups.add(parts[2])
         for f in parts[3:]:
-            if ":" not in f:
-                continue
-            k, v = f.split(":", 1)
-            if k in ("正选", "备选", "用"):
-                ids.update(re.findall(r"#\d{4}", v))
-        if kind == "抽":
-            drawn_by_g[g] |= ids
-        elif kind == "用":
-            used_by_g[g] = used_by_g.get(g, set()) | ids
-    exclude = set()
-    for g, ids in drawn_by_g.items():
-        if g not in used_by_g:
-            exclude |= ids                      # 这组还没定稿 ⇒ 在飞
-    for ids in used_by_g.values():
-        exclude |= ids                          # 真的出过了
-    return exclude, groups
+            if f.startswith("用:"):
+                used.update(re.findall(r"#\d{4}", f))
+    return used, groups
 
 
 def append_drawn(line):
@@ -491,10 +480,32 @@ def cn_keywords(text):
 # ══════════════════════════════════════════════════════════════════════════
 #  pick
 # ══════════════════════════════════════════════════════════════════════════
+def partition(cand, size, spread_by_family):
+    """把当天全部候选切成若干组，每组 ≤ size。
+    学习日：按族轮流发牌 ⇒ 同族尽量落在不同组（考点层提示的机械那一半）。
+    复习日：保持「最久没测优先」的顺序顺序切 ⇒ 她中途停了，最该测的已经测过。"""
+    if not cand:
+        return []
+    k = (len(cand) + size - 1) // size
+    buckets = [[] for _ in range(k)]
+    if not spread_by_family:
+        for i, item in enumerate(cand):
+            buckets[i // size].append(item)
+        return buckets
+    byfam = defaultdict(list)
+    for item in cand:
+        byfam[item[0].fam].append(item)
+    flat = []
+    for fam in sorted(byfam, key=lambda f: (-len(byfam[f]), f)):
+        flat.extend(byfam[fam])
+    for i, item in enumerate(flat):
+        buckets[i % k].append(item)
+    return [b for b in buckets if b]
+
+
 def cmd_pick(args):
     today = args.date or date.today().isoformat()
     ents = load_all()
-    by_num = {e.num: e for e in ents}
     types = day_types()
 
     pool_note = []
@@ -518,139 +529,144 @@ def cmd_pick(args):
                     hit.append(("新建" if first else "判❌") + h.date[5:])
             if hit:
                 cand.append((e, "／".join(sorted(set(hit)))))
-        pool_note = [f"D-1 = {d1}", f"D-3 = {d3 or '（不足 3 个学习日，按 §1 不兜底）'}"]
+        pool_note = [f"D-1 = {d1}　D-3 = {d3 or '（不足 3 个学习日，按 §1 不兜底）'}"]
+        rnd = random.Random(today)          # 按日期定种：同一天重跑得到同一份计划
+        rnd.shuffle(cand)
+        spread = True
     else:
-        d1 = d3 = None
         cand = [(e, f"上次 {e.last}") for e in ents if e.in_pool]
-        # 最久没测的优先（§8②b）：'—' 视为最久
         cand.sort(key=lambda t: (t[0].last if t[0].last and t[0].last != "—" else "0000-00-00",
                                  t[0].num))
-        pool_note = ["复习日：按「最久没测的优先」排序（§8②b）"]
+        pool_note = ["复习日：按「最久没测的优先」排序（§8②b），组号越小越该先测"]
+        spread = False
 
-    excluded, groups = read_drawn(today)
-    cand = [(e, why) for e, why in cand if e.num not in excluded]
+    used_ids, done_groups = read_drawn(today)
+    cand = [(e, why) for e, why in cand if e.num not in used_ids]
+    essay = [(e, why) for e, why in cand if e.essay_only]
+    cand = [(e, why) for e, why in cand if not e.essay_only]
+    groups = partition(cand, args.size, spread)
+    base = len(done_groups)                 # 今天已经收过尾的组数
 
-    group = args.group or (len(groups) + 1)
-    n, spare = args.n, args.spare
-
-    if args.type == "learn":
-        rnd = random.Random()
-        rnd.shuffle(cand)
-    picks = cand[:n]
-    spares = cand[n:n + spare]
-
-    # ── 输出 ──────────────────────────────────────────────────────────
-    W = "═" * 74
+    W = "═" * 78
     print(W)
-    print(f"drill.py pick · {today} · {'学习日' if args.type=='learn' else '复习日'} · 第 {group} 组")
+    print(f"drill.py pick · {today} · "
+          f"{'学习日' if args.type == 'learn' else '复习日'} · **全天计划**")
     print(W)
     for x in pool_note:
         print("  " + x)
     today_type = types.get(today)
     if today_type and today_type != args.type:
-        print(f"  ⚠️ log.md 里今天写的是【{'复习日' if today_type=='review' else '学习日'}】，"
+        print(f"  ⚠️ log.md 里今天写的是【{'复习日' if today_type == 'review' else '学习日'}】，"
               f"你传的是 --type {args.type} —— 按 §1 先确认今天到底是哪一天")
     elif not today_type:
         print("  （log.md 里今天还没有行 —— 收尾时记得补，§4⑥）")
-    print(f"  候选池 {len(cand)} 条（已排除本日已出 {len(excluded)} 条）"
-          f" · 正选 {len(picks)} · 备选 {len(spares)}")
-    if len(picks) < n:
-        print(f"  ⚠️ 候选不足 {n} 条 —— 池子见底，按 §4② 顺延或改出下一批")
+    shown = groups if not args.groups else groups[:args.groups]
+    if essay:
+        print(f"  ⛔ 另有 {len(essay)} 条**挂作文验**，条目自己写着「不出单点题」⇒ 不进复习组：")
+        print("     " + " ".join(e.num for e, _ in essay))
+        print("     ⇒ 判作文时对着这几条扫全文（§4⑤d），⛔ 不要拿它们出中译英")
+    print(f"  候选池 {len(cand)} 条（已排除本日已用 {len(used_ids)} 条"
+          + (f"、挂作文验 {len(essay)} 条" if essay else "") + "）"
+          f" ⇒ 分 {len(groups)} 组，每组 ≤ {args.size}"
+          + (f"　（本次只打前 {len(shown)} 组）" if len(shown) < len(groups) else ""))
+    print(f"  ★ 计划按日期定种，今天重跑这条命令得到的分组**完全一样**（compact 后可放心重跑）")
+    if not args.full:
+        print(f"  ★ 卡片是精简版；要看历史留痕/全部旧触发点/成员账全文 ⇒ 加 --full，"
+              f"或 `show #NNNN`")
     print()
 
     def card(e, why, tag):
-        print("─" * 74)
         star = " ⚠️🔍REVIEW" if e.review_mark else ""
-        print(f"【{tag}】{e.num}  {e.fam}  {e.state}{star}  "
-              f"连对 {e.ok} · 连错 {e.bad} · 上次 {e.last}  ←{why}")
-        print(f"  考点  {e.title}")
-        # 提示档（§6）
         created_today = e.created_on() == today
-        if (e.ok or 0) >= 1:
-            print("  提示  ⛔ 零提示，只给中文句（连对 ≥1）")
-        else:
-            print("  提示  ✅ 必须把目标英文词原样写进括号：「★ 用 xxx」（连对 0／建号当天／刚降级）")
-        if created_today:
-            print("        （本条今天建的号）")
-        # 触发点
-        tp = e.trigger
+        hint = ("⛔零提示" if (e.ok or 0) >= 1
+                else "★给英文词（连对 0／建号当天／刚降级）")
+        print(f"{tag} {e.num}  {e.fam}  {e.ok}/{e.bad}  上次 {(e.last or '—')[5:]}"
+              f"  ←{why}{star}{'  ←本条今天建的号' if created_today else ''}")
+        print(f"     考点 {e.title}")
+        print(f"     提示 {hint}")
+        tp = [l.strip() for l in e.trigger.splitlines() if l.strip()]
         if e.trigger_todo:
-            print("  触发点 ⚠️ 标着「待补」—— 必须当场写成完整中文句才许出（§3.1 B4）")
-            if tp:
-                for l in tp.splitlines():
-                    if l.strip():
-                        print("         " + l.strip())
+            print("     题面 ⚠️ 待补 —— 出题前必须当场写成完整中文句（§3.1 B4）")
+            for l in tp[:2]:
+                print(f"          {l[:100]}")
+        elif args.full:
+            print("     题面（全文，含历次改写留痕 —— §6 不许重复用老触发点）")
+            for l in tp:
+                print(f"          {l}")
         else:
-            print("  触发点（全文，含历次改写留痕 —— §6 不许重复用老触发点）")
-            for l in tp.splitlines():
-                if l.strip():
-                    print("         " + l.strip())
-        occ = e.occasions()
-        if occ:
-            print("  历次  " + " ｜ ".join(occ))
+            for i, l in enumerate(tp[:3]):
+                print(f"     {'题面' if i == 0 else '    '} {l[:100]}"
+                      + ("…" if len(l) > 100 else ""))
+            if len(tp) > 3:
+                print(f"          （还有 {len(tp) - 3} 行旧触发点留痕，--full 看）")
         if e.members:
-            print("  成员出题账（§3.5 第3.5步：一题 ≥2 个成员，挑没出过的）")
-            for l in e.members.splitlines():
-                if l.strip() and not l.strip().startswith("```"):
-                    flag = "  ← 未出过" if "未出过" in l else ""
-                    print("         " + l.strip() + flag)
-        print(f"  条目正文  {e.src}:{e.start}")
+            todo_m = [l.strip() for l in e.members.splitlines()
+                      if "未出过" in l]
+            if args.full:
+                print("     成员出题账（§3.5 第3.5步：一题 ≥2 个成员）")
+                for l in e.members.splitlines():
+                    if l.strip() and not l.strip().startswith("```"):
+                        print(f"          {l.strip()}")
+            elif todo_m:
+                print(f"     成员 ★未出过 {len(todo_m)} 个：" +
+                      " ／ ".join(x.split("——")[0].split("  ")[0].strip()
+                                  for x in todo_m[:4]))
+        if args.full:
+            occ = e.occasions()
+            if occ:
+                print("     历次 " + " ｜ ".join(occ))
+            print(f"     正文 {e.src}:{e.start}")
 
-    for i, (e, why) in enumerate(picks, 1):
-        card(e, why, f"正选 {i}/{len(picks)}")
-    for i, (e, why) in enumerate(spares, 1):
-        card(e, why, f"备选 {i}")
+    def scan(bucket, gno):
+        fam_g = defaultdict(list)
+        for e, _ in bucket:
+            fam_g[e.fam].append(e.num)
+        msgs = []
+        for k, v in sorted(fam_g.items()):
+            if len(v) > 1:
+                msgs.append(f"⚠️ 同族 {k}：{' '.join(v)}")
+        kw = {e.num: cn_keywords(e.trigger_for_keywords()) for e, _ in bucket}
+        nums = [e.num for e, _ in bucket]
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                sh = {w for w in kw[nums[i]] & kw[nums[j]] if len(w) >= 2}
+                if sh:
+                    msgs.append(f"⚠️ 措辞 {nums[i]} ⇔ {nums[j]} 共享「{'／'.join(sorted(sh)[:4])}」")
+        pset = {e.num for e, _ in bucket}
+        for e, _ in bucket:
+            for other in e.no_pair_with() & pset:
+                msgs.append(f"⛔ 禁配 {e.num} 正文写死「不能和 {other} 同组」—— 必须换组")
+        todo = [e.num for e, _ in bucket if e.trigger_todo]
+        if todo:
+            msgs.append(f"⚠️ 待补 {' '.join(todo)}")
+        if msgs:
+            print("     ── 本组机械扫描 ──")
+            for m in msgs:
+                print("     " + m)
+        else:
+            print("     ── 本组机械扫描：同族／措辞／禁配／待补 全部零命中 ──")
 
-    # ── 机械冲突扫描（§6 组内排布）────────────────────────────────────
-    print("─" * 74)
-    print("【机械冲突扫描】脚本只报可疑，考点层／语义层由教练裁决（§6）")
-    fam_groups = defaultdict(list)
-    for e, _ in picks:
-        fam_groups[e.fam].append(e.num)
-    fam_hits = {k: v for k, v in fam_groups.items() if len(v) > 1}
-    if fam_hits:
-        for k, v in sorted(fam_hits.items()):
-            print(f"  ⚠️ 同族  {k}：{' '.join(v)} —— 逐对确认考点是否互相提示")
-    else:
-        print("  ✔ 同族  零碰撞")
-    kw = {e.num: cn_keywords(e.trigger_for_keywords()) for e, _ in picks}
-    overlaps = []
-    nums = [e.num for e, _ in picks]
-    for i in range(len(nums)):
-        for j in range(i + 1, len(nums)):
-            share = {w for w in kw[nums[i]] & kw[nums[j]] if len(w) >= 2}
-            if share:
-                overlaps.append((nums[i], nums[j], sorted(share)[:5]))
-    if overlaps:
-        for a, b, s in overlaps:
-            print(f"  ⚠️ 措辞  {a} ⇔ {b}  共享「{'／'.join(s)}」")
-    else:
-        print("  ✔ 措辞  老触发点零共享关键词（新写的触发点脚本看不到，发出前自己再扫一遍）")
-    # 条目里写死的「不能和 #NNNN 同组」
-    pset = {e.num for e, _ in picks}
-    hard = []
-    for e, _ in picks:
-        for other in e.no_pair_with() & pset:
-            hard.append((e.num, other))
-    if hard:
-        for a, b in hard:
-            print(f"  ⛔ 禁配  {a} 的条目正文写死「不能和 {b} 同组」—— 必须挪走一个")
-    else:
-        print("  ✔ 禁配  本组无「不能和 #NNNN 同组」冲突")
-    todo = [e.num for e, _ in picks if e.trigger_todo]
-    if todo:
-        print(f"  ⚠️ 待补  {' '.join(todo)} —— 出题前必须补成完整中文句")
-    print("  ⛔ 脚本做不到的三件（必须手工）：语言事实核查 · 中文自译落点 · 原文相邻检查")
-    print("─" * 74)
-    ids = ",".join(e.num for e, _ in picks)
-    sids = ",".join(e.num for e, _ in spares)
+    for gi, bucket in enumerate(shown, start=base + 1):
+        print("━" * 78)
+        print(f"━━━ 组 {gi}（{len(bucket)} 条）")
+        print("━" * 78)
+        for e, why in bucket:
+            card(e, why, " ")
+        scan(bucket, gi)
+        print()
+
+    print("─" * 78)
+    print("⛔ 脚本做不到、必须手工的两件：语言事实核查 · 中文题面自译落点（§6）")
+    print("★ 冲突要挪题 ⇒ 在**组与组之间对调**，⛔ 不用重抽 —— 全天的池子已经在上面了")
     if args.dry:
         print("（--dry：没有写 drawn_review.log）")
     else:
-        append_drawn(f"{today}\t抽\t组{group}\t正选:{ids}\t备选:{sids}")
-        print(f"已记流水：{today} 组{group} 正选 {len(picks)} 条")
-    print("定稿后跑：python3 writing-band7/drill2/drill.py used --group %d "
-          "--used \"#a,#b,…\" [--dropped \"#c=理由\"]" % group)
+        for gi, bucket in enumerate(shown, start=base + 1):
+            append_drawn(f"{today}\t抽\t组{gi}\t正选:"
+                         + ",".join(e.num for e, _ in bucket))
+        print(f"已记流水：{today} 共 {len(shown)} 组")
+    print("每组定稿后跑：python3 writing-band7/drill2/drill.py used --group N "
+          "--used \"#a,#b,…\" [--dropped \"#c=理由\"]")
     return 0
 
 
@@ -1068,12 +1084,12 @@ def main():
     ap = argparse.ArgumentParser(description="写作 drill 线只读机械工具")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    p = sub.add_parser("pick", help="抽复习题 + 打印决策卡")
+    p = sub.add_parser("pick", help="把当天全部候选一次抽出、切成 ≤10 一组")
     p.add_argument("--type", choices=["learn", "review"], required=True)
-    p.add_argument("--n", type=int, default=10)
-    p.add_argument("--spare", type=int, default=5)
+    p.add_argument("--size", type=int, default=10, help="每组最多几题（默认 10）")
+    p.add_argument("--groups", type=int, help="只打前 N 组的卡片（分组仍按全池算）")
+    p.add_argument("--full", action="store_true", help="打完整卡片（历史留痕/全部旧触发点/成员账全文）")
     p.add_argument("--date")
-    p.add_argument("--group", type=int)
     p.add_argument("--dry", action="store_true")
     p.set_defaults(func=cmd_pick)
 
