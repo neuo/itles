@@ -3063,6 +3063,8 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 类型 词组 ｜ 题面 **点名**："有没有人帮忙差别很大。"（"差别很大"用 make ＋ difference 说） ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `creating an organized environment makes a huge difference`
+- 2026-08-23 ⚪ 同日再现 · d 段重答 R3 · `upgrading to smart traffic systems makes a massive difference`
+  **不计连击**（§3.1 新建条目当天不测 —— 同一天记 ✅ 就是假 ✅）；massive 在下面 ✅ 档里，用对了
 - 备注 判据：
 ```
 ✅ make a **huge／big／real／massive** difference    ✅ It doesn't make much difference.
@@ -3116,11 +3118,157 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 ✅ It's really about setting up the structure first, and then slowly letting them take control.
 ✅ It's really about getting the basics right first, and then worrying about speed.
 ✅ It's really about listening first, and then giving your own take.
-★ **So overall 两个收尾词别叠着**，选一个（So… 或 Overall…）
+⛔ ~~So overall 两个收尾词别叠着，选一个~~ —— **2026-08-23 当天撤回，是教练假错**：
+   口语里 `So all in all, …` `So overall, …` 完全自然（"So" 是接上文，"overall" 是收总，
+   两个功能不同，不算叠）。判紧的根因 ＝ 拿书面冗余标准评口语（§2.3b 禁令）。**不许再标。**
 ★ 与 #277（双面开头）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ **首尾呼应**，P3 高分特征
 ```
 - 备注 判重：grep "really about"／"收尾句"／"Overall" 全库（含已毕业）→ 只命中 #206 的日志行（书面词降级，
   与本条无关）与 🎓#58／🎓#207（那两条管**起手**，不管收尾）⇒ **零真命中，保留新建**
+
+### 284 · boil down to sth（说到底就是……）
+类型 词组 ｜ 题面 **点名**："治堵说到底就是几样东西凑一块儿。"（"说到底就是"用 **boil** 那个说法） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："boils down to（新建条目，学）"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `managing traffic boils down to a combination of smart technology, better public transport, and clever incentives`
+- 备注 判据：
+```
+✅ It (all) boils down to X.
+✅ It boils down to a combination of A, B and C.
+✅ What it boils down to is trust.
+★ 主语是 **it／整件事／某个动名词**，不是人（✗ I boil down to）
+★ 后面接**名词或动名词**：boils down to **money** ／ boils down to **planning ahead**
+★ 语义 ＝ 熬掉水分剩下最核心的那一点 —— 和 comes down to 同义，比它更口语、更有画面
+```
+- 备注 判重：grep `boil`／`comes down to`／`说到底` 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）。
+  逐条读：同义，但**目标形式不同**（boil ≠ come）⇒ §3.1 判据三档第 3 档【两条 ＋ 当场改题面互斥】。
+  **互斥关系**：🎓#58 题面 "说到底就是钱的问题。"（不点名，测 comes down to）；
+  本条题面**点名 boil** ⇒ 两条各测各的词，不撞车。
+
+### 285 · give sb (real) alternatives to sth／doing sth（给人别的选择，而不是只能……）
+类型 搭配 ｜ 题面 **点名**："城市得给大家真正能替代开车的选择。"（用 **alternative** 说，别用 choice） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："real alternatives to（新建条目）"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `cities need to give people real alternatives to driving`
+- 备注 判据：
+```
+✅ alternatives **to** driving ／ alternatives **to** the car ／ an alternative **to** meat
+   —— **to 是介词**，后面跟名词或 -ing
+✗ alternatives **of** driving   ✗ alternatives **for** driving
+★ choice ＝ 在几个里挑哪个 ｜ alternative ＝ **除了这条路之外还有的另一条路**
+  （交通／能源／习惯／方案，凡是"不想让人只能 X"的题都能用）
+★ 常配形容词：**real ／ viable ／ decent ／ genuine** alternatives（"像样的替代选择"）
+★ 整块最好用的是 `give people real alternatives to X` —— 一句话把"堵不如疏"说完
+```
+- 备注 判重：grep `alternativ`／`替代`／`别的选择` 全库（含已毕业）→ **零命中**，保留新建。
+
+### 286 · 整句句型：If A, B and C, a lot of X will happily do Y（条件够好 → 人自愿去做）
+类型 结构 ｜ 题面 **点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will happily** ＋ 一个具体动作） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："这一整句，包括前面的并列好处，和后面的 will happily，新建条目"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `If buses and trains are cheap, frequent, and reliable, a lot of commuters will happily leave their cars at home.`
+- 备注 骨架与用法：
+```
+If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ will happily ＋【一个具体动作】.
+✅ If buses and trains are cheap, frequent, and reliable, a lot of commuters will happily
+   leave their cars at home.
+✅ If the courses are short, free, and online, a lot of people will happily pick one up.
+✅ If the rules are clear, fair, and the same for everyone, most kids will happily follow them.
+★ 三个形容词必须**同形**（都是形容词；✗ cheap, frequent, and it's reliable）
+★ **will happily** ＝ 乐意／心甘情愿 —— 比 will be willing to 短、比 want to 有力
+  它的真正作用：把**政策**翻译成**人的反应** ⇒ 正好补 P3 最常缺的层5（"为什么会有效"）
+★ 收尾动作要**具体可画面**：leave their cars at home ＞ use public transport more
+★ 位置 ＝ P3 的**中段**（#277 管开头立两面 · 本条管中间"条件→反应" · #283 管收尾排先后）
+```
+- 备注 判重：grep `happily`／`愿意`／`乐意` 全库（含已毕业）→ 命中的全是 willing／want 那一族
+  （#98 #100 #218 等只管"愿意"这个词怎么说），**无一条管这个整句框架** ⇒ 零真命中，保留新建。
+
+### 287 · flow smoothly ／ keep sth flowing（车流顺畅／让它一路走得顺）
+类型 搭配 ｜ 题面 **点名**："用科技让剩下那些车一路走得顺。"（"走得顺"用 **flow** 说） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："flow smoothly 新建条目"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `using tech to keep the remaining cars flowing smoothly`
+- 备注 判据：
+```
+✅ Traffic flows smoothly.          ✅ keep the traffic ／ the cars **flowing** (smoothly)
+✅ keep things moving（同族，更口语的一个）
+★ flow 的主语是**成股走的东西**：车流／人流／水／信息／资金 —— 不是单个人（✗ he flows）
+★ 载体句型 `keep ＋ 宾语 ＋ -ing` ＝ 让它**持续**处在那个状态（她本篇两处都用对了：
+  keeps cars **moving** ／ keep the cars **flowing**）
+★ 反面（同一题可以拿来对照）：traffic is at a standstill ／ traffic grinds to a halt（彻底堵死）
+```
+- 备注 判重：grep `flow`／`smooth`／`顺畅`／`通畅` 全库（含已毕业）→ **零命中**
+  （grep 命中的 flow 行全部是 flowers，与本条无关）⇒ 保留新建。
+
+### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
+类型 结构 ｜ 题面 **点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："because once a trip costs you something, you start asking whether you actually need to make it. 这句很好，也要学"
+　　★ 来源 ＝ 教练在 R3 [S6] diff-2 给的更好版（不是她的产出）⇒ 属 §2③「她主动提出的」
+状态 连对0 连错0 未测过（次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 的 [S6] 更好版 · `…work really well, because once a trip costs you something, you start asking whether you actually need to make it.`
+- 备注 骨架与用法：
+```
+(because) once ＋【代价发生的从句】, ＋ you ＋ start ＋ -ing ＋ whether ＋【主谓】.
+✅ Once a trip costs you something, you start asking whether you actually need to make it.
+✅ Once you have to pay for a bag, you start asking whether you really need one.
+✅ Once feedback is public, people start thinking about whether the comment is worth posting.
+★ once ＝ "一旦……就" —— 比 if 更强：if 是"如果会"，once 假定它**一定会发生**，只讲发生之后人怎么变
+★ 这里的 you ＝ **泛指所有人**，不是"你"—— P3 讲机制用泛指 you 最自然（比 people 更近、更快）
+★ start asking／start thinking about ＋ whether 从句 ＝ "开始掂量……是不是"
+  whether 后面必须跟**主谓**（＝#275 那条规则），✗ start asking whether necessary
+★ 真正的作用 ＝ **层5 的机制层**：把一个政策翻译成【人的心理反应】，
+  答案立刻从"这个办法是什么"变成"这个办法为什么有效"
+★★ 与 #286 **配对使用**（P3 讨论任何政策都能一正一反各来一句）：
+    #286 胡萝卜  条件变好 → 人自愿去做    If A, B and C, a lot of X will happily do Y.
+    #288 大棒    加了代价 → 人自我审查    Once X costs you something, you start asking whether …
+```
+- 备注 判重：grep `once`／`一旦`／`只要`／`whether`／`泛指` 全库（含已毕业）→ 两条候选，逐条读完：
+  · **#275**（whether 后面要跟主谓）—— 是本句**内部用对的一条规则**，不是本条的考点；
+    本条管的是整句机制框架 ⇒ 不同考点，两条并存（本条判据里已引用 #275）
+  · **#286**（If A, B and C, … will happily do Y）—— 同族（都是"条件 → 人的反应"），
+    但**连词不同**（if / once）、**主语不同**（一群人 / 泛指 you）、**主句块不同**
+    （will happily ＋ 动作 / start asking whether ＋ 从句）⇒ §3.1 第 3 档【两条 ＋ 题面互斥】；
+    题面天然互斥（#286 公交又便宜又密又靠得住 ／ #288 出门要花钱）
+  ⇒ **零真命中，保留新建**
+
+### 289 · be obsessed with sth（特别迷／上头）
+类型 搭配 ｜ 题面 **点名**："上了年纪的人特别迷这个。"（"特别迷"用 **obsessed** 说） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："older folks are obsessed with it（新建条目）"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `I mean, older folks are obsessed with it.`
+- 备注 判据：
+```
+✅ be obsessed **with** sth ／ **with** doing sth      ✅ 名词形 an obsession **with** sth
+✗ obsessed **about** ／ 这个意思上也不用 obsessed **by**
+★ 介词写死是 **with** —— 这是本条唯一的考点
+★ 语气 ＝ 夸张的"特别迷／上头"，褒贬都能用，口语里常带一点调侃
+  P1/P3 讲爱好、讲一代人的习惯最顺手：My dad's obsessed with fishing.
+★ 主语是**人**。想说"这东西现在很火"另有说法：it's all the rage ／ it's a big thing now
+```
+- 备注 判重：grep `obsess`／`痴迷`／`着迷`／`入迷`／`特别喜欢` 全库（含已毕业）→ **零命中**，保留新建。
+
+### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
+类型 结构 ｜ 题面 **点名**："所以挺普遍的，只是问不同的人，理由完全不一样。"（用 **depending on who you ask** 收尾） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："for totally different reasons depending 新建条目"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `So yeah, it's pretty common, just for totally different reasons depending on who you ask!`
+- 备注 骨架与用法：
+```
+…, just for totally different reasons **depending on** ＋【名词 或 疑问词从句】.
+✅ So yeah, it's pretty common, just for totally different reasons depending on who you ask.
+✅ It varies a lot depending on where you live ／ how old you are ／ what you're after.
+✅ 同族尾巴：depending on the person ／ depending on the city
+★ depending on 后面的疑问词从句用**陈述语序**（＝#59 那条规则）
+  ✅ depending on who you ask        ✗ depending on who do you ask
+★ 用途 ＝ **P3 收尾专用**：前面分了两类人／两种情况，最后一句把它们收成
+  "同一个现象、不同的理由" —— 比 "So it depends." 强得多（那句等于什么都没说）
+★★ 与 #283 的分工（两个都是收尾块，别混）：
+    #283  把几点排成**先后**          It's really about A first, and then B.
+    #290  把几点收成**同一现象的不同版本**  …, just for different reasons depending on who you ask.
+```
+- 备注 判重：grep `depend`／`取决`／`因人而异`／`看情况`／`而定` 全库（含已毕业）→ 命中 2 行，
+  逐条读：两行都是 **#275**（whether 后跟主谓）判据里的例句 `It depends on whether…`，与本条无关
+  ⇒ **零真命中，保留新建**。
 
 ## 迁移说明（2026-08-18）
 

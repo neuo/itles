@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | R1 | How can parents help children to be organized? | P3 | 08-05 前 | **08-23 已重答**|
 | R2 | Why do people prefer to watch movies in the cinema? | P3 | 08-05 | **08-17 已重答** |
-| R3 | What are good ways to manage traffic? | P3 | 08-05 | — |
-| R4 | Do many people grow vegetables or flowers at home in your country? | P3 | 08-05 | — |
+| R3 | What are good ways to manage traffic? | P3 | 08-05 | **08-23 已重答** |
+| R4 | Do many people grow vegetables or flowers at home in your country? | P3 | 08-05 | **08-23 已重答** |
 | R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | — |
 | R6 | Should parents limit their children's use of computer programs and games? | P3 | 08-06 | **08-17 已重答** |
 | R7 | Do people buy things they don't need? | P3 | 08-06 | — ★ 08-17 顺延未做 |
