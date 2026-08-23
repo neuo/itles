@@ -3008,6 +3008,120 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 ★ `hadn't met for long` 意思是反的（＝ 没认识多久），不是"很久没见"
 ```
 
+### 277 · 双面立论句型：It's mainly about A while B-ing（一句话同时给"要做的"和"要放的"）
+类型 结构 ｜ 题面 **点名**："关键是既要定规矩，又要给孩子自己管的空间。"（用 `it's mainly about … while …` **一句话**说完） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："这一整句子的句型…新建条目"（指 `Well, I'd say it's mainly about building good habits while giving kids room to manage themselves.`）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
+  `Well, I'd say it's mainly about building standard habits while giving kids room to manage themselves.`
+- 备注 骨架与用法：
+```
+(Well,) I'd say it's mainly about ＋【动名词/名词 A】while ＋【动名词 B】.
+用途   P3 开场**一句话立两面** —— 听者第一句就知道你要讲哪两块，后面几点直接对应
+✅ It's mainly about building good habits while giving kids room to manage themselves.
+✅ It's mainly about keeping costs down while not cutting quality.
+✅ It's mainly about staying flexible while still having a plan.
+★ while 后面只能跟 **-ing 或形容词**，不能跟完整句（跟完整句要用 whereas／but）
+★ 天然和 #283（收尾句型）配套：开头立两面 → 收尾把两面排成先后 ⇒ 首尾呼应
+```
+- 备注 判重（当天新建复核）：① 目标形式 ＝ `it's mainly about A while B-ing`（**整句双面结构**）
+  ② grep "mainly about"／"comes down to"／"I'd say" 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）
+     · **🎓#207**（I'd say ＋"主要就是…"四条路径）
+  ③ 逐条读：#58 和 #207 管的都是**起手块**（"主要就是…"这四个字用哪个说法）；
+     本条管的是 **while 把第二面挂上去**这个**整句结构** ⇒ 目标形式不同（一个是短语，一个是双面句型）
+     ⇒ 保留新建。**题面互斥**：#207 的题面"我觉得主要就是钱的问题"是**单面**；本条题面必须是**两面**的
+
+### 278 · give sb room to do sth（给某人自己来的空间）
+类型 词组 ｜ 题面 **点名**："得给孩子自己安排的空间。"（"空间"用 room 说，不用 space） ｜ 新建 2026-08-23（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `giving kids room to manage themselves`
+- 备注 判据：
+```
+✅ give kids room to manage themselves ／ room to grow ／ room to make mistakes
+✅ 同族：leave room for … ／ there's room for improvement ／ no room for error
+★ room 在这个意思上**不可数、不带 a**（✗ a room to grow —— a room 是"一个房间"，完全另一个意思）
+★ 与 space 的分工：give them space 偏"别打扰他"；give them room 偏"让他自己发挥" —— 说成长用 room
+```
+- 备注 判重：grep "room to"／"give …room"／"space to" 全库（含已毕业）→ **零命中** ⇒ 保留新建
+
+### 279 · get a feel for sth（慢慢摸出感觉／找到手感）
+类型 词组 ｜ 题面 **点名**："练几次就找到感觉了。"（"找到感觉"用 get ＋ feel 说） ｜ 新建 2026-08-23（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `kids actually get a feel for time`
+  ★ 这个说法**比第一版的 `internalize time management` 又口语又准** —— 她自己换出来的
+- 备注 判据：
+```
+✅ get a feel for time ／ for the place ／ for how it works ／ for the rhythm of it
+★ 固定带 **a**：get **a** feel for（✗ get feel for ／ ✗ get the feel for）
+★ 用途：说"不是学会某个知识，是慢慢摸出感觉" —— 比 learn／understand 准得多
+★ 同族分工：get the hang of sth（掌握窍门，偏操作）· get used to sth（习惯，偏适应）
+             · get a feel for sth（摸出感觉，偏体感）
+```
+- 备注 判重：grep "get a feel"／"feel for" 全库（含已毕业）→ **零命中** ⇒ 保留新建
+
+### 280 · make a huge difference（差别很大／很管用）
+类型 词组 ｜ 题面 **点名**："有没有人帮忙差别很大。"（"差别很大"用 make ＋ difference 说） ｜ 新建 2026-08-23（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `creating an organized environment makes a huge difference`
+- 备注 判据：
+```
+✅ make a **huge／big／real／massive** difference    ✅ It doesn't make much difference.
+✅ That made **all the** difference.（就是它起了决定作用，最强的一档）
+★ 动词是 **make**，不是 have／bring（✗ have a big difference ／ ✗ bring a big difference）
+★ 想说"对谁有差别"用 to：It makes a huge difference **to** kids.
+```
+- 备注 判重：grep "difference" 全库（含已毕业）→ 命中 **#156**（同根词：the difference／different ways）
+  逐条读：#156 管的是 difference／different 的**词形**（前面有 the/a/of 就用名词形）；
+  本条管的是 **make a … difference 这个块**（选哪个动词 ＋ 形容词档位）⇒ 规则不同 ⇒ 保留新建
+
+### 281 · step back（往后退一步，不插手）
+类型 词组 ｜ 题面 **点名**："家长有时候得往后退一步。"（"退一步"用 step 说） ｜ 新建 2026-08-23（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `Lastly, it's about stepping back.`
+- 备注 判据：
+```
+✅ Parents need to **step back** and let them try.   ✅ It's about **stepping back**.
+✅ take a step back（＝ 抽身看全局，略不同：偏"先别急，退开看看"）
+★ 与 back off 的分工：**step back ＝ 主动不插手**（中性/正面，说家长/领导放手）
+                      **back off ＝ 别管我**（带火气，是冲突语境）
+★ 与 let go 的分工：let go 更彻底（撒手不管）；step back 是"退一步但还在旁边"
+```
+- 备注 判重：grep "step back"／"back off" 全库（含已毕业）→ **零命中** ⇒ 保留新建
+
+### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
+类型 词组 ｜ 题面 **点名**："这样他们才会把自己的事当回事。"（"当回事"用 take ＋ ownership 说） ｜ 新建 2026-08-23（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `so they learn to take ownership`
+- 备注 判据：
+```
+✅ learn to take ownership ／ take ownership **of** their own learning／of the problem
+★ ownership 在这个意思上**不可数、不带 a**（✗ take an ownership）
+★ 与 take responsibility 的分工：
+    take **responsibility** ＝ 该我负责（义务、有时是被追责）
+    take **ownership**      ＝ 我把它当自己的事（主动、有投入感）
+  说孩子成长／员工成长时 **ownership 更贴**，也更像母语者会挑的词
+```
+- 备注 判重：grep "ownership"／"take charge"／"take responsibility" 全库（含已毕业）→ **零命中** ⇒ 保留新建
+
+### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
+类型 结构 ｜ 题面 **点名**："说到底就是先把框架搭起来，再慢慢放手。"（用 `it's really about … first, and then …` **一句话**收尾） ｜ 新建 2026-08-23（**她当场指定**）
+　　★ 她的原话："收尾句型，新建条目"（指 `So overall, it's really about setting up the structure first, and then slowly letting them take control.`）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
+  `So overall, it's really about setting up the structure first, and then slowly letting them take control.`
+- 备注 骨架与用法：
+```
+So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
+用途   P3 收尾一句把前面几点**排成先后顺序** —— 比"总之两点都重要"有力得多
+✅ It's really about setting up the structure first, and then slowly letting them take control.
+✅ It's really about getting the basics right first, and then worrying about speed.
+✅ It's really about listening first, and then giving your own take.
+★ **So overall 两个收尾词别叠着**，选一个（So… 或 Overall…）
+★ 与 #277（双面开头）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ **首尾呼应**，P3 高分特征
+```
+- 备注 判重：grep "really about"／"收尾句"／"Overall" 全库（含已毕业）→ 只命中 #206 的日志行（书面词降级，
+  与本条无关）与 🎓#58／🎓#207（那两条管**起手**，不管收尾）⇒ **零真命中，保留新建**
+
 ## 迁移说明（2026-08-18）
 
 ```
