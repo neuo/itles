@@ -14,22 +14,28 @@
 ## 全档状态
 
 ```
-总数   305 条　＝ 本文件 194 ＋ `graduated.md` 111
-在池   185 条（全在本文件）
-🎓     118 条（占 38.7%）　＝ `graduated.md` 111 ＋ **本文件 7 条（08-23 组3 刚毕业，等她搬）**
-       本文件里等搬的 7 条：#0269 #0278 #0288 #0295 #0299 #0319 #0320
-       其中 **REVIEW 池 7 条**（graduated.md 里 #0011 #0256 #0259 #0268 #0309 ＋
-       本文件里 #0278 #0299，见 review_pool.md）
+★ 下面这一块 **2026-08-23 收尾时由 `drill.py stats` 产出**，⛔ 不许口算、不许沿用旧值（SKILL §0.4）
+
+总数   **309 条**　＝ 本文件 198 ＋ `graduated.md` 111
+在池   **169 条**（全在本文件）
+🎓     **138 条（占 44.7%）**　＝ `graduated.md` 111 ＋ **本文件 27 条（08-23 毕业，等她搬）**
+       本文件里等搬的 27 条：
+       #0045 #0239 #0269 #0277 #0278 #0281 #0285 #0288 #0290 #0291 #0294 #0295 #0296 #0298
+       #0299 #0300 #0301 #0304 #0305 #0306 #0308 #0311 #0313 #0314 #0315 #0319 #0320
 退池   1 条（#0058）　并入 1 条（#0325 → #0059）
 毕业线 **全档一律 2**（全档统一）
-在池里 连对 1 的 **78 条** · 连对 0 的 **107 条**　（78 ＋ 107 ＝ 185 ✔ 逐条 grep 实数）
-　　　 校验：185 ＋ 7 ＋ 1 ＋ 1 ＝ 194 ✔　194 ＋ 111 ＝ 305 ✔
-题面待补 **38 条**（口径＝在池 ＋ 中文触发点标着「待补」）
-最后一次全量校验 **2026-08-22 复习日收官**：参与检查 299 条（并入/退池 2 条不计），
-　　　　　　　　状态行 vs 历史重数 **299/299 一致，零不符**。
-　　　　　　　　审计口径已同步 2026-08-22 的两条新规则：
+在池里 连对 1 的 **60 条** · 连对 0 的 **109 条**　（60 ＋ 109 ＝ 169 ✔ 脚本逐条实数）
+　　　 校验：169 ＋ 27 ＋ 1 ＋ 1 ＝ 198 ✔　198 ＋ 111 ＝ 309 ✔
+REVIEW 池 **10 条**：#0011 #0256 #0259 #0268 #0278 #0299 #0305 #0308 #0309 #0314
+　　　 （脚本已核 ✔ 与 `review_pool.md` 一一对应）
+题面待补 **0 条**（口径＝在池 ＋ 中文触发点标着「待补」）
+最后一次全量校验 **2026-08-23 D1 收尾**：`drill.py check --all`
+　　　　　　　　⇒ **ERROR 0 · WARN 0**（存量提示 252 处，全部是 2026-08-24 分界之前写下的行，不报错）
+　　　　　　　　`drill.py stats` ⇒ 状态行 vs 历史重数 **零不符**，上次 vs 最后判定行 **零不符**
+　　　　　　　　审计口径已同步的规则：
 　　　　　　　　① 同日只推进一次、当天有 ❌ 就记 ❌
 　　　　　　　　② **靠 ◎✅ 达到毕业线的照常毕业**，只是同时进 REVIEW 池（◎✅ 与 ✅ 同权）
+　　　　　　　　③ 词表型未覆盖的成员**不扣毕业**，由 REVIEW 池存档题面承接（§3.5 第3.5步①）
 
 🔴 **2026-08-22 她定的 5 条（本日第二批）**
 　① #0325 并入 #0059（不可数名词一族）
@@ -100,6 +106,23 @@
 　　　　　　　　　　R2 命中 1 处（`the child throw up`）· R1 R3 零命中
 　　　　　　　　　　⚠️ 教练侧：**零提示 × 词表型 ⇒ 合法绕过 ⇒ ◎✅ 毕业**本场第 2、3 次
 　　　　　　　　　　　（#0299 #0278），当日累计 5 次（#0309 #0268 #0267 #0299 #0278）
+2026-08-23 组4 增量：毕业 **6 条** #0291 #0294 #0296 #0300 ＋ #0308 #0314（后两条带 ⚠️🔍 进 REVIEW 池）
+　　　　　　　　　　◎− **1 条** #0276（教练题面把两个未知数塞进一道题，两边都不动，题面已改死）
+　　　　　　　　　　❌ 顺带 1 条 #0048（`house … are` 少一个 s，连对 1 → 0）
+　　　　　　　　　　✅ 但同日口径不推进：#0074 #0126（两条今天都在前面的组里记过 ❌）
+　　　　　　　　　　新建 **2 条** #0334 weigh/balance A against B（她说不会）· #0335 not…until 一族（她点名）
+　　　　　　　　　　R2 命中 1 处（与 #0048 同一实例）· R1 R3 零命中
+2026-08-23 组5 增量：毕业 **9 条（全组）** #0315 #0304 #0301 #0290 #0285 #0281 #0313 #0045 #0239
+　　　　　　　　　　★ **一字未改 100%、考点命中 100%、白测 0、R1R2R3 全零命中 —— 本线第一个零事故组**
+　　　　　　　　　　新建 **1 条** #0336 所谓／so-called 的贬义陷阱（她点名要学）
+　　　　　　　　　　★ #0313 是 08-22 被 `It is … that` 强调句白测掉的那条，本次真正行使
+　　　　　　　　　　★ 更好版进入产出的第一个证据：#0285 她自发写出 08-22 给的 `comes down to`
+2026-08-23 组6 增量：毕业 **5 条** #0298 #0306 #0277 #0311 ＋ #0305（带 ⚠️🔍 进 REVIEW 池）
+　　　　　　　　　　✅ 建号后第一次答对：#0297（连对 1）· #0317（连对 1，08-22 整条绕开过）
+　　　　　　　　　　❌ 顺带 1 条 #0095（`than` ← `that`，真词串台不豁免；同日口径只留证据）
+　　　　　　　　　　新建 **1 条** #0337 at all times ／ at times 反义陷阱（她点名要学）
+　　　　　　　　　　⚠️ 教练侧：#0297 后半题面缺陷（"一部分"逼不出可数复数）—— **她当场指出，成立**
+　　　　　　　　　　R1 R2 R3 全部零命中（连续两组）
 2026-08-22 组10 增量：毕业 #0177 #0258 #0259 #0264 · **降级 #0251（🎓 后复发，当天毕业当天塌）**
 　　　　　　　　　　★ 本轮 102 条全部出完（§8② 完成）⇒ 下一步 §8③ 回看 ＋ §8④ 全档 review
 　　　　　　　　　　⚠️ #0248 #0254 两条毕业时当日已重度预激，条目里已注明下周期换语境重测
@@ -2115,7 +2138,7 @@ P4 单复数 ← 靶子　R · P4
 </details>
 
 ## #0251 this kind of 后面接单数，these kinds of 后面才接复数
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F04
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
 
 **问题是什么**
 `kind / type / sort` 本身是可数名词，前面的指示词和后面的名词都要跟着它的数走，三个位置必须一致：
@@ -2195,6 +2218,12 @@ P4 单复数 ← 靶子　R · P4
   　 所以打了 `⚠️🔍`；下午她在完全没有提示的句子里把它写对了。
   ⇒ **⚠️🔍 标记先留着**（撤不撤由她定），但支持证据已经记在这里。
   ⇒ 这也说明 ⚠️🔍 这个机制是有用的：它把"不确定的毕业"标出来，而不是硬判对或硬判错。
+- 2026-08-23 📋 D1 学习日 C3·组6 第 7 题（顺带用对，状态不变／不推进）
+  主考点是 #0311。她写 `**this kind of** concern is completely understandable` —— this kind of ＋ **单数**。
+  ★ 这是本条**第二次正面证据**，而且和 08-22 那次一样是"完全没提示的句子里自发写对"。
+  ⚠️ 按复习组口径，顺带用对只列出、不推进 streak（连对仍为 0）——
+  　 本条要真正翻身，得在**它自己作主考点**的题里对两次。
+  ⇒ 记在这里，等它下次被抽到时作为背景。
 
 ---
 
@@ -2557,6 +2586,14 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
   ⚠️ 教练侧留痕：我一开始把这个 `works` 判进了 #0059（不可数名词被可数化），**判错了**，
   　 而正确答案就在本条自己的实例表里。⇒ §3.5 第 1 步的 grep 我漏了 `works` 这个词面。
   　 #0059 那边的误判已按 §4.7 撤销。
+- 2026-08-23 ❌ D1 学习日 C3·组6 第 6 题（顺带）　**只留证据，不推进 streak（同日口径）**
+  主考点是 #0277。她写 `a commission **than** depends on luck` → 应为 `**that** depends on luck`。
+  ★ than 是**真词** ⇒ §3.2「拼成另一个真词的不豁免」，照记。
+  ★ 这一处比普通形近串台多一层：她前半写的是 `prefer X **over** Y`（正确），
+  　 而中式高频错搭正是 "prefer X **than** Y" ⇒ 很可能是**那个错误框架反过来污染了关系代词**。
+  　 ⇒ 本条的高危对表补一对：`than / that`（尤其在 prefer / rather 这类比较语境里）。
+  ⚠️ 按 §3.2 同日口径，本条今天的净结果已由组2 的 ❌ 定下（今天组1 ✅ → 组2 ❌），
+  　 **连对 0 ／ 连错 4 维持不变**，本行只留证据。
 <details><summary>原始行（旧表逐字，旧号 E-292）</summary>
 
 `**随着老年人口增长，医疗支出也在上升**|`as the number of **order** people is growing`|`**older** people`　★ **这不是普通手滑**：order 和 older 都是真词，拼错之后句子仍然"读得下去"，考场上自己扫不出来。同类高危对：`order/older` · `though/thought` · `quite/quiet` · `form/from` · `lose/loose`|P11 形近真词串台（**区别于 P5 拼写**：拼成非词能被自己发现，拼成真词发现不了）|R · **P11**|0/3|`
@@ -2881,7 +2918,7 @@ Such measures are usually **confined to** large cities.
   ⇒ 留痕，不推进（§3.2 留痕符号）。
 
 ## #0277 guaranteed / proven / established 这类过去分词当前置定语
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
 
 **问题是什么**
 过去分词可以直接放到名词前面当形容词用，一个词顶一个从句：
@@ -2919,6 +2956,21 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
   📋 更好：`The **established practice** is to start with a **small-scale pilot**.`
   ★★ 同日对照（很重要）：本题是**前置**分词定语、同组 Q2 `the effort **required** to adapt` 是**后置**分词定语，
   　 两个位置同一天都对 ⇒ **分词作定语这一族她其实是通的**，缺的是**选哪个分词**（词汇，不是句法）。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 6 题　**连对 2 ⇒ 🎓 毕业。这次连"选哪个分词"也对了**
+  题面（零提示，换场景）「大多数人更想要一份有保障的收入，而不是看运气的提成。」，她写
+  `most people prefer **a guaranteed income** over a commission than depends on luck`。
+  ★ 结构命中：过去分词直接坐在名词前，没退回 `an income that is guaranteed` 这类从句 ⇒ 连对 2。
+  ★★ 与 08-22 的差别值得记：那次结构对、**词选偏了一格**（acknowledged 多用于人）；
+  　 今天 `guaranteed income` 是这个位上的**标准搭配**（guaranteed income / guaranteed minimum wage）
+  　 ⇒ 上次判词里写的"缺的是选哪个分词"，这一次没有再犯。
+  ❌ 同句一处顺带用错，不在本条扣分：`a commission **than** depends on luck` → `**that** depends on luck`
+  　 ⇒ 记 #0095（拼成另一个真词、自己扫不出来）。**⛔ 不豁免** ——
+  　 §3.2 写死"拼成另一个真词的不豁免"，than 是真词。
+  　 ⚠️ 这一处还带一层机制：她前面写的是 `prefer X **over** Y`（正确），
+  　 而"prefer … than"是中式高频错搭 ⇒ 很可能是**那个错误框架反过来污染了关系代词**。
+  📋 顺带用对：`prefer X over Y` 介词正确（不是 prefer X than Y）。
+  📋 更好：`Most people would rather have **a guaranteed income** than **commission that depends
+  　 on luck**.`（would rather A than B 是这句中文的对称结构；commission 作"提成"时通常不可数）
 
 ## #0278 proactive / reactive 这一对，以及"主动地"的四个词
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
@@ -5071,7 +5123,7 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
   　 backup plan ready**.`（一般现在时说职业习性比 will 更稳；单数 a backup plan 与"备用方案"对齐）
 
 ## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -5099,7 +5151,14 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
 她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
 
 **中文触发点**
-再周密的计划也留着一部分说不准的地方。（"说不准的地方"用 uncertainty，注意冠词）
+- 2026-08-23（**改死后的新题面，下次用**）　时间表上还剩两三处说不准的地方，年底应该能定下来。
+  （★ 必须用 uncertainty 的**可数复数**形式；⛔ 不许改写成 be subject to change ／ be uncertain）
+  ★ 为什么改：08-23 组6 的题面后半写成「时间表上还有**一部分**说不准」——
+  　「一部分」在中文里是**不可数的量**，最自然的英文就是 `part of the schedule is subject to change`，
+  　 可数的 uncertainties 那条路根本不占优。**她当场指出「第二个没必要强行用 uncertainty」，成立。**
+  　 改法：中文必须写成**能数出个数的"几处"**（两三处 / 剩下三处），可数复数才有落脚点。
+- 2026-08-23（已作废，教练的账）　这个行业的不确定性太大，很多人不敢投钱；不过时间表上还有一部分说不准，年底应该能定下来。
+- （建号时）　再周密的计划也留着一部分说不准的地方。（"说不准的地方"用 uncertainty，注意冠词）
 
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
@@ -5111,9 +5170,33 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
   ⇒ 这说明作文里对的东西**不等于装上了**（那次可能是刚看过范文或当场查过）。
   　 判词纪律：以后不要拿"作文里写对过"当"已掌握"的证据，只当"见过"。
   📋 顺带：「总是」→ always 成立；作文里 `invariably` 更重（#0320 的刻度）。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 4 题　**建号后第一次答对，连对 1**
+  题面「这个行业的不确定性太大，很多人不敢投钱；不过时间表上还有一部分说不准，年底应该能定下来。
+  （★ 两处都用 uncertainty）」（连对 0 ⇒ 按 §6 给英文词），她写
+  `there is **too much uncertainty** in this industry, so many people hesitate to invest.
+  However, part of the schedule is still subject to change and should be finalized by the end
+  of the year.` 并附一句：**「第二个没必要强行用 uncertainty」**。
+  ★ **前半命中考点**：`too much uncertainty` —— **不可数、零冠词**，正是本条"冠词与数"那一层的
+  　 上半边；而且 much（不是 many）也证明她把它当不可数处理 ⇒ 连对 1、连错归 0。
+  ★★ **她的异议成立，是我的题面出坏了**（§0.8 先当她是对的，复核后确认）：
+  ```
+  我写的中文是「时间表上还有**一部分**说不准」——「一部分」在中文里是个**不可数的量**，
+  忠实直译的落点就是 `part of the schedule is subject to change`，
+  而 `a few uncertainties` 要求的是**能数出个数的几处**。
+  ⇒ 中文根本没给可数复数留位置，硬要她用就是"为了考点造语境"（§6 明令禁止的那件事）。
+  ⇒ 而且她给的 `be subject to change` 是这个中文最自然的英文，比我预设的答案好。
+  ```
+  ⇒ 题面已改死（见上方 2026-08-23 那行）：改成「还剩**两三处**说不准的地方」。
+  ⚠️ 所以本条真正被行使的只有**不可数那一半**；可数复数（a few uncertainties）仍未出场，
+  　 但这不是她的账，也不进 REVIEW 池（本条还在池里，下次用新题面正常测）。
+  📋 顺带用对：`hesitate to invest`（不定式，正确）· `be subject to change` 是商务/项目语域的地道块 ·
+  　 `finalized by the end of the year` 时间介词正确 · `However,` 句首带逗号（＝ #0317 的规矩，对）。
+  📋 更好：`Uncertainty in this industry is such that many are reluctant to invest;
+  　 two or three points on the timeline **remain uncertain**, though they should be settled
+  　 by the end of the year.`（`hesitate to` 偏"犹豫要不要"，中文「不敢」更接近 be reluctant to）
 
 ## #0298 keep / reduce sth to a minimum ＝ 把…压到最低
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -5153,6 +5236,14 @@ take sth **to an extreme**      走极端          at **the** very least     退
   　 母语者例句造得出三个以上 ⇒ 不判错。
   　 **但作文里这算 GRA 桶的悬垂，会吃掉一个干净句。** 已列为条目候选，建不建等她定。
   📋 更好：`When scheduling shifts, **managers** should keep overtime to a minimum.`
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 1 题　**连对 2 ⇒ 🎓 毕业**
+  题面（零提示，换场景）「施工期间，扬尘必须一直控制在最低。」，她写
+  `Dust must be **kept to a minimum** at all times during construction`。
+  ★ 固定块完整、冠词 **a** 没丢 ⇒ 命中，连对 2。两次都是被动 `be kept to a minimum`，
+  　 08-22 那次带悬垂结构，这次主语直接是 Dust ⇒ **句法比上次干净**。
+  📋 顺带用对 #0126：「**一直**」→ `at all times`，修饰层主动落地（而且用的不是 always 这种最省的词）。
+  📋 她当场点名要学 `at all times` ⇒ 查重后另建 **#0337**（不是本条的账）。
+  📋 更好：〔没有更好的版本〕
 
 ## #0299 exceed / outweigh / surpass / outstrip 四个"超过"
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
@@ -5469,7 +5560,8 @@ than usual         比平常            than average       比平均水平
   　（`the cost of X` 比 `this relocation cost` 少一层名词堆；came out 比 is 更贴"最后算下来"）
 
 ## #0305 adapt to / adjust to / get used to / acclimatise to（她自己点名要对比）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+⚠️🔍 **REVIEW 池**
 
 **问题是什么**
 ```
@@ -5499,7 +5591,20 @@ acclimatise to  专指**气候/海拔/环境**的生理适应（英式拼写；�
 她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
 
 **中文触发点**
-刚换城市的人往往要花很久才适应当地的节奏。（"适应"用最正式那个，并注意后面接什么形式）
+- 2026-08-23　新的作息只是往前挪了一小时，大部分人两三天就适应了；但上夜班这件事，他花了好几个月才习惯。
+- 2026-08-22　他花了整整一个夏天才适应这里的气候。
+- （建号时）　刚换城市的人往往要花很久才适应当地的节奏。（"适应"用最正式那个，并注意后面接什么形式）
+
+**成员出题账**
+```
+① adapt to        —— 2026-08-22 组2 题面「花了整整一个夏天才适应这里的气候」⇒ ✅
+                     2026-08-23 组6 前半她又用了一次（intransitive `most people adapted`）
+② get used to     —— 2026-08-23 组6 后半题面「上夜班这件事他花了好几个月才习惯」⇒ ✅
+                     且宾语是动名词 `working the night shift`，硬边①在场
+③ adjust to       —— 未出过（08-23 中文写"只挪一小时、两三天就适应"想逼它，她仍用 adapt
+                     ⇒ 见 REVIEW 池题面）
+④ acclimatise to  —— 未出过
+```
 
 ### 历史记录
 - 2026-08-20 ③ 建号（她点名要学）作文 T2-17
@@ -5510,10 +5615,35 @@ acclimatise to  专指**气候/海拔/环境**的生理适应（英式拼写；�
   四个里挑了作文首选的 adapt to、后面接名词（硬边①满足）⇒ 命中，连对 1。
   ⚠️ 同句一处不属于本条：`spent a whole summer **to adapt**` ⇒ 记 #0266（spend ＋ 时间 ＋ doing）。
   📋 顺带用对：「**整整**一个夏天」→ `a **whole** summer`，修饰层主动落地（#0126 一族）。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 2 题　**连对 2 ⇒ 🎓 毕业 ＋ 进 REVIEW 池（adjust to 未行使）**
+  题面（零提示，一题点两个成员）「新的作息只是往前挪了一小时，大部分人两三天就适应了；
+  但上夜班这件事，他花了好几个月才习惯。」，她写
+  `the new schedule was only moved up by an hour, and most people **adapted** in just two or
+  three days. **working the night shift**, however, took him months to **get used to**.`
+  ★ **后半是本条最有价值的一处**：`get used to` 这个成员**从建号到今天第一次出场**，
+  　 而且宾语是**动名词** `working the night shift` ⇒ **硬边①（不跟不定式）被行使了**。
+  　 她还把动名词整块前置作主语（`Working … took him months to get used to.`）——
+  　 这是 `This book took me months to get through.` 那类合法结构，不判错。
+  ⇒ 一句里两个成员落地（adapt ＋ get used to）⇒ 命中，连对 2。
+  ⚠️ **我瞄的 adjust to 没出来**：中文写了"只往前挪一小时、两三天就适应"（＝微调），
+  　 想靠幅度把 adjust 逼出来，她仍然用 adapt。按 §3.2「判 ❌ 只有两个理由」——
+  　 `most people adapted in two or three days` 句子成立、意思也送到 ⇒ **不判错**。
+  ⇒ 本条真正没被行使的是**判据那一层（按幅度挑 adapt / adjust）**，
+  　 按 §3.5 第 3.5 步①「没练过的成员由 REVIEW 池的存档题面承接」⇒ 照常毕业 ＋ 打 ⚠️🔍。
+  ★ 教练侧：中文的「适应」对这四个词是**一对多**，光靠幅度形容词（"只挪一小时"）分不开 ——
+  　 因为 adapt 在中文里也能说小事。要逼出 adjust 得靠**它专属的宾语**
+  　（adjust to a new schedule / adjust the seat）而不是靠幅度副词。修法已写进 REVIEW 题面。
+  📋 顺带用对：「只」→ `only`、「就」→ `just`（#0126 两层都落地）·
+  　 `moved up by an hour` 用 by 表差额，正确。
+  📋 `hour ,` 逗号前多一个空格、两处句首小写 ⇒ §3.2 手滑豁免。
+  📋 更好：`The new schedule was moved forward by only an hour, and most people **adjusted** within
+  　 two or three days; **working nights**, however, took him months to get used to.`
+  　（brought/moved forward 是英式默认；only 挪到 an hour 前面，修饰的才是"一小时"这个量；
+  　 分号连两个对比分句比句号紧）
   📋 更好：`the **climate** there`（中文说的是气候；environment 太宽，本条正文里 acclimatise 那一行讲的就是这个分界）。
 
 ## #0306 take a dislike / a liking to sb ＝ 莫名地开始不喜欢／喜欢
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -5554,6 +5684,22 @@ take **a liking to** sb       take **pride in** sth（无冠词）  take **advan
   📋 时态留痕不判：这个块讲的是**开始不喜欢**那个转折点，常用 `took` ／ `has taken`；
   　 中文「就是看他不顺眼」是已经形成的状态 ⇒ `**has taken** a dislike to him` 更准。
   　 一般现在时表习性也读得通 ⇒ 不判错，只进更好版。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 3 题　**连对 2 ⇒ 🎓 毕业。两个成员跨两次全部覆盖**
+  题面（零提示，换场景）「老太太第一眼就喜欢上了这个小护士，倒是对她儿子请的护工怎么都看不上。」，她写
+  `the erlerly lady **took an immediate liking to** the young nurse, but she simply could not
+  warm up to the caregiver her son had hired`。
+  ★ `take **a** liking to` 命中，而且她**在冠词和名词之间插了形容词**（`took an immediate liking to`）——
+  　 冠词跟着变成 an，这一步做对说明她是把这个块**当活的结构**在用，不是背死的字符串 ⇒ 命中，连对 2。
+  ★ 成员覆盖：08-22 落地的是 `take a dislike to`，今天落地的是 `take a liking to`
+  　 ⇒ **两个主成员跨两次全部行使过**，本条不进 REVIEW 池。
+  📋 后半 `could not warm up to` 不判错：`warm to / warm up to sb` 成立
+  　（`I never really warmed to him.` / `She's starting to warm up to the idea.` /
+  　 `The crowd soon warmed to her.` 三条，§0.8）⇒ 意思送到，只是没走 take a dislike to 那条路。
+  📋 `erlerly` 是非词（elderly）⇒ §3.2 复习组手滑豁免。
+  📋 顺带用对：`the caregiver her son had hired` —— 关系代词省略 ＋ 过去完成时（请在先）两样都对。
+  📋 更好：`The elderly lady took an immediate liking to the young nurse, but she simply
+  　 **took a dislike to** the carer her son had hired.`
+  　（后半改成本条的对举成员，一句里两个块并排，读起来才是"一喜一厌"的对称）
 
 ## #0307 职场名词块一族：career progression 及同族
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
@@ -6131,6 +6277,67 @@ far into the future                  多用于 plan / look（`plan far into the 
   她自己写的 `Leading a team comes down to three things` 已经是这一族里最省的解法，
   ⇒ 本条收的不是"她不会"，是**so-called 这个陷阱 ＋ 中性说法的成员表**。
   ⚠️ 触发点已换场景（弹性工作），⛔ 不许拿组5 那句"带团队"回来测（§6）。
+
+## #0337 `at all times` ＝ 任何时候都（规定语域）—— ⚠️ 和 `at times` 只差一个 all，意思正相反
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `Dust must be kept to a minimum **at all times**.`（＝任何时刻都不许有例外）
+✅ `Hard hats must be worn **at all times**.` · `Staff must remain contactable **at all times**.`
+⚠️⚠️ `**at times**` ＝ **有时候、偶尔** —— 只差一个 all，意思正相反：
+　　`The road is **at times** impassable.` ＝ 这条路偶尔不通
+　　`The road is **at all times** impassable.` ＝ 这条路任何时候都不通
+★ 这是本条最值钱的一行：写完 at all times，回头确认那个 **all** 在不在。
+```
+**语域**：at all times 是**规章、告示、安全守则**的默认块，常配 must / should / be required to。
+学术议论文里用得少；T2 里适合放"规定/义务"这类句子。
+
+**同族"始终／一直"的块，按语境分**
+```
+at all times        任何时刻都不许有例外（规定）      ★ 配 must / should
+throughout          贯穿某一整段时间                 `throughout the project` · `throughout the year`
+consistently        表现一贯（＝#0320 的刻度表）      `consistently good`
+constantly          不停地，**常带负面**             `constantly interrupted`
+continuously        不间断（时间上连着）              ⚠️ 与 continually（反复地，中间有断）不是一个词
+round the clock     24 小时轮着                      偏口语／新闻
+on an ongoing basis 持续地                           商务书面
+```
+**判据**：说的是"**任何一刻都不许有例外**"（规定） ⇒ at all times；
+　"整段时间里都" ⇒ throughout；"表现一贯" ⇒ consistently（#0320）；"不停地、烦人地" ⇒ constantly。
+⚠️ 位置：at all times 一般放**句末**；放句首要加逗号。
+
+**怎么发现的**
+2026-08-23　D1 学习日 C3·组6 第 1 题（主考点是 #0298）。她写
+`Dust must be kept to a minimum **at all times** during construction`，
+并当场点名：**「这个 at all times 可以加一个条目」**（§2③ 她点名要学）。
+查重（§3.5 B0）
+```
+① 词面查  dedup "at all times" "at times" "always"  ⇒ 命中 #0320 #0108 #0136 #0276 #0297
+② 规则查  dedup "频率" "始终" "一直"                 ⇒ 命中 #0320 #0108 #0226 #0303 #0253
+逐条否掉
+  #0320  频率副词的刻度 always/invariably/consistently/rarely/seldom（已 🎓）——
+         三问：问1 改正动作？那条是**在五个副词里挑对刻度**，本条是**一个介词短语块**该不该用、
+         别和 at times 串台 ⇒ 否。问3 会挑 invariably 完全不保证会用 at all times ⇒ 否。
+         ⇒ 不合并，**交叉引用**（"表现一贯"那一格指向 #0320）
+  #0108  「这个副词可以放 is 后面么」—— 管的是**副词位置**，本条管**选哪个块** ⇒ 问 1 不成立 ⇒ 否
+  #0136 #0276 #0297 #0226 #0303 #0253  只因正文里出现 always／一直／频率等字命中，考点无关 ⇒ 否
+```
+
+**我错在哪**
+她这次**没有错** —— `at all times` 用得完全正确，位置（句末前）也对。
+建号理由是 §2③（她点名要学）。缺口在于：**at times 这个陷阱** ＋ **同族其余成员的分工**。
+**找法**：写完「一直／任何时候」这一层，问两句 ——
+　　　　① 我说的是"不许有例外"还是"偶尔"？② 那个 **all** 在不在？
+
+**中文触发点**
+实验室里任何时候都必须戴护目镜；走廊那台老机器倒是只偶尔响一下，不用管。
+
+### 历史记录
+- 2026-08-23 ③ 建号（她点名要学）D1 学习日 C3·组6 第 1 题
+  她自己写出 `at all times` 并说「这个可以加一个条目」。
+  ⇒ 本条收的不是"她不会"，是 **at times 的反义陷阱 ＋ 同族分工**。
+  ⚠️ 触发点已换场景（实验室），⛔ 不许拿组6 那句"施工扬尘"回来测（§6）。
 
 ---
 
@@ -7194,7 +7401,7 @@ U · 待排序　0/2
   ⇒ 本条说明补一句：段尾的 L 句同样不许换问题（TR 清单第 5 项就丢在这里）。
 
 ## #0311 段首短断言句：主语 ＋ be ＋ 一个形容词，五个词收尾
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F12
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F12
 
 **问题是什么**
 ```
@@ -7234,6 +7441,27 @@ U · 待排序　0/2
   　`is **very** real` ⇒ 记 #0321（中文题面根本没有"很"，very 是她加的 —— **原样复发**）
   　`accompanied **with**` ⇒ 记 #0297（应为 accompanied **by**）
   📋 句首小写两处按 §3.2 手滑豁免。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 7 题　**连对 2 ⇒ 🎓 毕业**
+  两句式题面（零提示，换场景）「这类担心是有道理的。过去两年确实出过三次一模一样的事故。」，她写
+  `this kind of concern **is completely understandable**. There have been three similar
+  accidents over the past two years.`
+  ★ 三条硬边逐条核：① 第一句 7 个词，**一个从句都没有** ✅
+  　 ② 形容词带判断（understandable，不是 complicated 那种没信息量的）✅
+  　 ③ 第二句立刻展开、没有连着写两句断言 ✅ ⇒ 命中，连对 2。
+  ★ 出题时特意避开了本条正文里现成的例句（`The evidence is mixed.` `This argument is flawed.`）——
+  　 那些拿回去测的是记忆（§6）。她在**没见过的语境**里自己搭出了这个形状。
+  📋 顺带用对 #0251：`**this kind of** concern`（this kind of ＋ **单数**）——
+  　 #0251 08-22 当天毕业当天塌、现在连对 0，今天在完全没提示的句子里又对了一次。
+  　 ⇒ 按复习组口径**顺带用对只列出、不推进 streak**，但这是它的第二次正面证据。
+  📋 「一模一样」→ `similar`　⛔ **不判 #0126**：判据是「删掉后**命题被改写**才判」——
+  　 本句的主张是"过去两年发生过三次同类事故"，similar 已经把"同类"送到；
+  　 「一模一样」加强的是相似度，不改变这个主张。⚠️ 教练有过度判 #0126 的前科（08-22 被她推翻两处），
+  　 按 §5 四问自审第 ④ 问归到"有更好的"，进更好版。
+  📋 「确实」→ 未出现，同上不判（强调语气词，删掉命题不变）。
+  📋 更好：`This kind of concern is entirely legitimate. Over the past two years there have
+  　 **indeed** been three accidents of **exactly the same kind**.`
+  　（legitimate 比 understandable 更承认"这担心站得住"，而不只是"可以理解"；
+  　 indeed 把「确实」送出去；of exactly the same kind 把「一模一样」送出去）
 
 ## #0312 引言立场句的骨架：让步 ; however, I believe X outweigh(s) Y
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-20 ｜ 族 F12
@@ -7644,7 +7872,7 @@ Equally            **同等重要的另一点**（不是对立，是并排加一
   　 句末缺问号（中文的"呢"是疑问）⇒ 复习组按标点手滑不判，**作文里照记**。
 
 ## #0317 转折四兄弟：But ＜ Yet ＜ However ＜ Nevertheless
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F14
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14
 
 **问题是什么**
 ```
@@ -7690,6 +7918,25 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
   　 四兄弟的分工再记一次：`But`（最轻，句中）＜ `Yet`（句首不加逗号）＜ `However,`（句首**要**逗号）
   　 ＜ `Nevertheless,`（最重，句首要逗号）。**只有 But 和 Yet 后面不加逗号。**
   ⚠️ 同句一处不属于本条：`the **evidents are**` ⇒ **新建 #0325**（不可数名词）。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 5 题　**建号后第一次答对，连对 1、连错归 0**
+  题面「这几年培训做了不少，一线的差错率却没怎么降。（★ 用 Yet）」（连对 0 ⇒ 按 §6 给英文词），她写
+  `Significant training has been provided over the past years, **yet** the frontline error rate
+  has shown litte decline`。
+  ★ **给了词之后仍然有东西可测，而且她测到了**：本条的规矩是
+  　「**只有 But 和 Yet 后面不加逗号**」—— 她写的是 `, yet the frontline…`，**yet 后面没有逗号** ✅。
+  　 上一次（08-22）她整条绕开、退回 even though 让步从句；这次 yet 用起来了 ⇒ 命中。
+  ⚠️ 她用的是**句中的并列连词**位置（`A, yet B`），不是句首。两种都合法
+  　（`A, yet B` 是标准并列；`Yet B.` 是句首副词用法）⇒ **不判错**，句首那个位置留给下次。
+  📋 `litte` 是非词（little）⇒ §3.2 复习组手滑豁免。
+  📋 `over the past **years**` ⚠️ 不地道不判错：英文默认是 `over the past **few** years` ／
+  　 `in recent years`；光 the past years 读得懂但少一个限定词 ⇒ 按 §5 四问自审第 ④ 问
+  　 判为「有更好的」，进更好版，⛔ 不记错。
+  📋 顺带用对：`has been provided` 现在完成时被动，与「这几年」配对正确 ·
+  　 `has shown little decline` 用名词化说"没怎么降"，比 didn't decline much 书面。
+  📋 更好：`A great deal of training has been provided **in recent years**, yet the error rate
+  　 **on the front line** has barely fallen.`
+  　（`Significant training` 略生硬；`frontline error rate` 三个名词叠 → 拆成介词短语；
+  　 `has barely fallen` 比 has shown little decline 少两个词）
 
 ## #0318 「正因为如此」一族：this is precisely why ／ For this very reason
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14

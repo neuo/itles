@@ -20,7 +20,7 @@
 
 ---
 
-## 当前池内 9 条
+## 当前池内 10 条
 
 > ⚠️ **2026-08-23 组3 起，本池的增速自己就是一条信息。**
 > 当天新增 5 条（#0309 #0268 #0267 #0299 #0278），**全部来自同一个机制**：
@@ -205,6 +205,32 @@
             （★ 必须以 While 起句、后面加逗号；⛔ 主句里不许出现 but；⛔ 不许用 Although／Though）
 另一条备用   对比身份的前置版：**老城区的人在往外搬，新区的人口却一直在涨。**
             （★ 必须以 While 起句 ⇒ 逼出"前置 ＋ 对比"同时成立的那个形状）
+```
+
+### #0305 · adapt to / adjust to / get used to / acclimatise to（F08）
+
+```
+毕业日      2026-08-23（连对 2）　★ 条目仍在 problems.md，等她搬进 graduated.md
+进池的路    与 #0308 同 —— **不是靠 ◎✅ 毕业的**，两次都是实打实的 ✅；
+            走 §3.5 第 3.5 步①「没练过的成员由 REVIEW 池的存档题面承接」
+那一次      题面（零提示，一题点两个成员）「新的作息只是往前挪了一小时，大部分人两三天就适应了；
+            但上夜班这件事，他花了好几个月才习惯。」
+            她写 `most people **adapted** in just two or three days. **working the night shift**,
+            however, took him months to **get used to**.`
+为什么算对  一句里两个成员落地：adapt（08-22 已覆盖）＋ **get used to（第一次出场）**，
+            而且 get used to 的宾语是**动名词**，硬边①被行使 ⇒ 判 ✅
+没被行使的  **adjust to**（微调）与 **acclimatise to**（气候/生理）从建号到毕业一次都没出场；
+            更要紧的是本条的**判据那一层**（按幅度挑 adapt / adjust）没被行使
+★ 这次学到的  我在中文里放"只往前挪了一小时、两三天就适应"想用**幅度**把 adjust 逼出来 —— 没成。
+            原因：中文的「适应」对这四个词是**一对多**，而 adapt 在中文里同样能说小事，
+            幅度副词分不开它们。
+            ⇒ **修法：逼 adjust to 要靠它专属的宾语，不能靠幅度副词。**
+            　 adjust 的默认宾语是**可以微调的具体东西**：a schedule / the settings / the seat /
+            　 one's expectations；adapt 的默认宾语是**环境与变化**：a new environment / change。
+存好的新题面 ① adjust to：**新来的同事很快就把自己的作息调到了和团队一致。**
+            　（★ 必须用 adjust to；★ 宾语是"作息"这种可以微调的东西，⛔ 不许用 adapt to）
+            ② acclimatise to：**高原上的头两天他一直头疼，第三天才缓过来。**
+            　（★ 必须用 acclimatise to ＋ 高原／海拔；⛔ 不许用 get used to）
 ```
 
 ---
