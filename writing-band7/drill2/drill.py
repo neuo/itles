@@ -728,10 +728,16 @@ def score_entry(e, terms, use_history=True, skip_lines=None):
     for t in terms:
         best, bw = None, 0
         tl = t.lower()
+        # 纯英文的查询词按**词边界**匹配 —— 否则 `as` 会命中 cases、`weigh` 会命中 outweigh，
+        # 结果全是噪音。中文没有词边界，仍按子串。
+        ascii_term = re.fullmatch(r"[A-Za-z][A-Za-z'\- ]*", t) is not None
+        pat = re.compile(r"(?<![A-Za-z])" + re.escape(tl) + r"(?![A-Za-z])") if ascii_term else None
         for name, txt in fields.items():
             if not txt:
                 continue
-            if tl in txt.lower():
+            low = txt.lower()
+            ok = pat.search(low) if pat else (tl in low)
+            if ok:
                 w = FIELD_W.get(name, 1)
                 if w > bw:
                     best, bw = name, w
