@@ -14,8 +14,9 @@
 > ③ 教练**不追、不催、不复测、不主动提**（她的原话：「你不用 care」）
 > ④ 条目里必须存好【改好的新题面】—— review 时她要用的就是这个
 > ```
-> **可 grep 的锚点**：`problems.md` 里这些条目的状态行下面有 `⚠️🔍 **REVIEW 池**`
-> ⇒ 命令：`grep -n '⚠️🔍 \*\*REVIEW 池\*\*' problems.md`
+> **可 grep 的锚点**：这些条目的状态行下面有 `⚠️🔍 **REVIEW 池**`。
+> 它们都是 🎓，2026-08-23 起住在 `graduated.md`（不在 problems.md 里）。
+> ⇒ 命令：`grep -n '⚠️🔍 \*\*REVIEW 池\*\*' graduated.md`
 
 ---
 
