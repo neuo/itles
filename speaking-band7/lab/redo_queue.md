@@ -8,7 +8,7 @@
 
 | # | 题目 | 类型 | 首答 | 上次重答 |
 |---|---|---|---|---|
-| R1 | How can parents help children to be organized? | P3 | 08-05 前 | — |
+| R1 | How can parents help children to be organized? | P3 | 08-05 前 | **08-23 已重答**|
 | R2 | Why do people prefer to watch movies in the cinema? | P3 | 08-05 | **08-17 已重答** |
 | R3 | What are good ways to manage traffic? | P3 | 08-05 | — |
 | R4 | Do many people grow vegetables or flowers at home in your country? | P3 | 08-05 | — |
