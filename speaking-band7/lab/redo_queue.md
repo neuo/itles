@@ -49,7 +49,10 @@
 
 ```
 ▸ [P2] Describe an interesting building（question_bank.md:1027，08-18 抽签）
+   ✅ **2026-08-24 已出**（她指定"先把那道老题出了"）—— 181 词 · 真错 2 · 密度 1/90
 ▸ [P3] Is it necessary to keep learning after graduating from school?（question_bank.md:987，08-18 抽签）
+   ⏸ 仍顺延 —— 08-19/08-20/08-21 三个学习日的新题位都走了现抽，这条被压了 3 天；
+     **下一个学习日的新题位固定给它**，不许再被现抽挤掉
 ```
 
 ## 记账
