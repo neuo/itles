@@ -3853,7 +3853,7 @@ real（最中性）＜ genuine（真心的、非伪造的）＜ serious（严重
   　（把连字符 `-` 换成破折号 `—`；作文里这一处会被算标点错，#0272 已写过这条硬边）
 
 ## #0309 irrelevant to ／ unrelated to ／ has nothing to do with
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 ⚠️🔍 **REVIEW 池**（靠 ◎✅ 到线，unrelated to ／ have nothing to do with 两个成员一次未行使）
 🔴 **2026-08-23 她裁定**：「**你出题的时候直接点名需要什么，不然那么多用法永远毕业不来。**
 　 **这条按照规则毕业。**」⇒ 按 §3.3 毕业 ＋ 进 REVIEW 池；§3.5① 的"两个成员"要求
@@ -3923,6 +3923,17 @@ beside the point    习语：**跑题了**（比 irrelevant 更口语、更冲�
   ```
   📋 更好：`This news **has nothing to do with** the topic under discussion, and the figures
   　**bear little relation to** the conclusion.`（两处换成本条的目标块，顺带把 that data 改成 the figures）
+- 2026-08-24 📋 D2 学习日 C3·组2 第 1 题（顺带用对，🎓 状态不变、不推进）
+  ★★ **REVIEW 池里那两个"从没行使过"的成员，今天自发出场了一个。**
+  那题的主考点是 #0332（bear 一族），题面给了 `bear`。她两处都没用 bear，
+  第一处写的是 `these two sets of data **have little to do with** each other` ——
+  正是本条 08-23 记下"一次都没出场"的 **have … to do with** 这个动词短语，
+  而且**没有被点名、没有提示、她自发调出来的**，还根据中文「没什么关联」把 nothing 换成了
+  更准的 **little**（中文说的是"没什么"不是"完全没有"）⇒ 用得比目标块还贴。
+  ⇒ review_pool.md 里本条的"没被行使的"一栏已按这条证据改写：
+  　 **have … to do with 可以划掉，只剩 unrelated to 一个成员未行使。**
+  ⚠️ 本行不推进 streak（本条已 🎓），只作证据；要不要因此把本条整个撤出 REVIEW 池，
+  　 是她 review 时的决定 —— 教练**不追不催不主动提**（§3.3）。
 
 ## #0310 push sth off its set path ／ 用具体动作说抽象变化
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08

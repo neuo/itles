@@ -14,23 +14,25 @@
 ## 全档状态
 
 ```
-★ 下面这一块 **2026-08-23 收尾时由 `drill.py stats` 产出**，⛔ 不许口算、不许沿用旧值（SKILL §0.4）
+★ 下面这一块 **2026-08-24 收尾时由 `drill.py stats` 产出**，⛔ 不许口算、不许沿用旧值（SKILL §0.4）
 
-总数   **309 条**　＝ 本文件 198 ＋ `graduated.md` 111
-在池   **169 条**（全在本文件）
-🎓     **138 条（占 44.7%）**　＝ `graduated.md` 111 ＋ **本文件 27 条（08-23 毕业，等她搬）**
-       本文件里等搬的 27 条：
-       #0045 #0239 #0269 #0277 #0278 #0281 #0285 #0288 #0290 #0291 #0294 #0295 #0296 #0298
-       #0299 #0300 #0301 #0304 #0305 #0306 #0308 #0311 #0313 #0314 #0315 #0319 #0320
-退池   1 条（#0058）　并入 1 条（#0325 → #0059）
+总数   **317 条**　＝ 本文件 206 ＋ `graduated.md` 111
+在池   **171 条**（全在本文件）
+🎓     **143 条（占 45.1%）**　＝ `graduated.md` 111 ＋ **本文件 32 条（08-23／08-24 毕业，等她搬）**
+       本文件里等搬的 32 条：
+       #0045 #0055 #0059 #0239 #0265 #0267 #0269 #0277 #0278 #0281 #0285 #0286 #0288 #0290
+       #0291 #0294 #0295 #0296 #0298 #0299 #0300 #0301 #0304 #0305 #0306 #0308 #0311 #0313
+       #0314 #0315 #0319 #0320
+退池   **2 条**（#0058 · **#0048** ←2026-08-24 她裁定，改由 reminders.md R2 接手）
+       并入 1 条（#0325 → #0059）
 毕业线 **全档一律 2**（全档统一）
-在池里 连对 1 的 **60 条** · 连对 0 的 **109 条**　（60 ＋ 109 ＝ 169 ✔ 脚本逐条实数）
-　　　 校验：169 ＋ 27 ＋ 1 ＋ 1 ＝ 198 ✔　198 ＋ 111 ＝ 309 ✔
-REVIEW 池 **10 条**：#0011 #0256 #0259 #0268 #0278 #0299 #0305 #0308 #0309 #0314
+在池里 连对 1 的 **69 条** · 连对 0 的 **102 条**　（69 ＋ 102 ＝ 171 ✔ 脚本逐条实数）
+　　　 校验：171 ＋ 32 ＋ 2 ＋ 1 ＝ 206 ✔　206 ＋ 111 ＝ 317 ✔
+REVIEW 池 **11 条**：#0011 #0256 #0259 **#0267** #0268 #0278 #0299 #0305 #0308 #0309 #0314
 　　　 （脚本已核 ✔ 与 `review_pool.md` 一一对应）
 题面待补 **0 条**（口径＝在池 ＋ 中文触发点标着「待补」）
-最后一次全量校验 **2026-08-23 D1 收尾**：`drill.py check --all`
-　　　　　　　　⇒ **ERROR 0 · WARN 0**（存量提示 252 处，全部是 2026-08-24 分界之前写下的行，不报错）
+最后一次全量校验 **2026-08-24 D2 收尾**：`drill.py check --all`
+　　　　　　　　⇒ **ERROR 0 · WARN 0**（存量提示 247 处，全部是 2026-08-24 分界之前写下的行，不报错）
 　　　　　　　　`drill.py stats` ⇒ 状态行 vs 历史重数 **零不符**，上次 vs 最后判定行 **零不符**
 　　　　　　　　审计口径已同步的规则：
 　　　　　　　　① 同日只推进一次、当天有 ❌ 就记 ❌
@@ -556,7 +558,7 @@ carry out                  实施（carry out a policy / carry it out）
   　 `the price of X` 单数更像在说"某类东西的价格水平"）
 
 ## #0329 「在这件事上做／没做点什么」＝ do sth **about** sth，不是 on
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F01
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F01
 
 **问题是什么**
 中文的「在…上」「对…」是同一个字，英文按**动词**分成两条线：
@@ -611,9 +613,22 @@ complain **about** sth      抱怨…
   反向验（§3.5 1.3）：举得出"一个对一个错"的句子 ——
     `effective **in** some cases` 写对、同一句里 `do nothing **on** it` 写错，两者可独立取值。
   ⇒ 新建。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 4 题　**建号后第一次被测，一次命中**
+  题面「这些年物价一直在涨，可地方政府在这件事上什么都没做。
+  （★ "什么都没做"用 did nothing，主语＋动词＋一个宾语三个词）」
+  ★ 题面只给了 `did nothing`（本条的另一半），**介词故意不给** —— 给了 about 就是给答案，
+  　 本条的考点恰恰是"动词是 do ⇒ 介词只能是 about"这一步判断。
+  她写 `prices have been going up continuously over the years, yet the local government
+  **has done nothing about it**`。
+  ★ 介词落在 about ⇒ 命中。连对 1，连错 1 归 0。
+  📋 `have been going up continuously` **不判冗余**：`The population has been growing continuously
+  　since 1990.` / `The machine has been running continuously for three days.` /
+  　`Costs have risen continuously over the past decade.` —— 三个母语者句子造得出
+  　（continuously 补的是"不间断"，进行体本身不保证这一层）⇒ 按 §10 禁令9 不判，
+  　 只在更好版换成更紧的 `have risen steadily`。
 
 ## #0334 把 A 和 B 放在一起权衡：weigh / balance A **against** B
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F01
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F01
 
 **问题是什么**
 中文的「把 A 和 B 放在一起权衡 / 拿 A 和 B 比着看」，英文**不是** `weigh A and B together`，
@@ -666,6 +681,163 @@ outweigh              ⚠️ 这是**结论**：A 大过 B（见 #0299 #0312）�
   她答：「A 和 B 一起权衡不会」。⇒ 主考点 #0276 记 ◎−（题面把她堵死了，两边都不动），
   她说不会的这个框架按 §2③ 单独建号 ＝ 本条。两条交叉引用。
   ⚠️ 本条的**中文触发点已换场景**（湿地/修路），⛔ 不许拿组4 那句原题回来测（§6）。
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 7 题　**建号后第一次被测，一次命中**
+  题面「修一条新路带来的好处，得和它对这片湿地的破坏放在一起权衡。
+  （★ 用 weigh 这个动词；后面的介词自己定）」
+  ——★ 按 08-24 新判据（绕开测试）：这句可以写成 `balanced against` ／ `considered alongside`
+  　 绕过 weigh ⇒ 可绕开 ⇒ 必须给词。但**介词故意不给** —— against 才是本条的考点
+  　 （给到 lemma 为止，不给形态与搭配，§6）。
+  她写 `The benefits of building a new road must be **weighed against** the damage it causes
+  to the local wetlands`。
+  ★ 介词落在 **against** ⇒ 命中。连对 1。
+  ★ 而且是**被动式** `be weighed against`（这个框架在正式写作里最常见的形态），
+  　 建号那天她说的是"整句写不出来"，一次点名就调出来了 ⇒ 缺口是**框架不在手上**，不是不会用。
+  📋 顺带用对：`The benefits … must be weighed`（长主语跨 of 短语，谓语没被拉走，#0055 一族）。
+
+---
+
+## #0342 「把风险／成本／责任转给别人」＝ shift／transfer／pass ＋ **to／onto**，⛔ 不是 on
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F01
+
+**问题是什么**
+中文的「转给／转嫁给」是一个词，英文按**动词**分成三条介词路，`on` 单用一条都不成立：
+```
+shift the risk **onto** sb        ★ 最常用。onto 带"压到某人身上"的画面
+shift the burden **onto／to** sb  两个都行，onto 更常见
+transfer the risk **to** sb       transfer **只配 to**　⛔ ~~transfer risk on sb~~
+pass the cost **on to** sb        ★ pass 是**动词短语 pass on**，后面再接 to ——
+                                  `pass the higher costs **on to** consumers` 是公司转嫁成本的标准说法
+offload the risk **onto** sb      口气更重："甩给"
+⛔ `shift／transfer risk **on** sb` —— on 单用不成立（它是"在…上面"，不带"移过去"这层）
+```
+**判据（一句话）**：动词是 **transfer** ⇒ 只能 **to**；是 **shift／offload** ⇒ **onto**（to 也行）；
+是 **pass** ⇒ **on to**（两个词，别写成 onto）。
+⚠️ 与 #0332 的分工：#0332 管的是"**谁扛下来**"（bear the cost / bear the brunt），
+　 本条管的是"**从 A 挪到 B**"这个动作。两条常在同一句里前后脚出现，别串。
+
+**成员出题账**
+```
+① shift … onto        —— 未出过
+② transfer … to       —— 2026-08-24 建号（她写成 transferring risk **on** individuals）⇒ ❌
+③ pass … on to        —— 未出过
+④ offload … onto      —— 未出过
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组3 第 1 题（主考点 #0336，命中 ✅）。她写
+`simply comes down to **transferring risk on individuals**`，并当场点名：
+**「转移风险见建一个条目」**（§2③ 她点名要学）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "risk" "shift" "转移"
+   ⇒ 命中 #0272 #0280 #0288 #0292（都是正文例句里出现 risk 这个词）
+② 规则查  同上一条已覆盖（本条的规则关键词就是"转移/转嫁"）
+③ 眼过    未跑（①有命中）
+逐条否掉：
+  #0292（carry ＋ 抽象名词 ＝ 自带、附带）—— 那条讲的是"某个东西**本身带着**什么"，
+    改正动作是把 have 换成 carry；本条讲的是"把东西**挪给**另一个人"，改正动作是把 on 换成 to／onto
+    ⇒ 问 1、问 2 都不成立。
+  #0272（分句之间用哪个符号）· #0280（of 结构做主语）· #0288（最高级 ＋ 抽象名词作主语）——
+    都只是正文例句里出现了 risk 一词，规则毫无关系 ⇒ 否。
+  #0332（bear ＋ 抽象名词）—— 最近的一条，同一句里前后脚出现。三问：问 1 改正动作？
+    #0332 是"把 have / 别的动词换成 bear"，本条是"把介词 on 换成 to／onto" ⇒ 否 ⇒ 不合并，互相引用。
+反向验（§3.5 1.3）：她 2026-08-24 同一句里 `comes down to` 用对（#0336 ✅），
+  `transferring risk on` 用错 ⇒ 可独立取值 ⇒ 新建。
+⇒ 新建。
+```
+
+**我错在哪**
+她的：`transferring risk **on** individuals`
+正确：`transferring risk **to** individuals` ／ `shifting the risk **onto** individuals`
+找法：**写完"把 X 转给 Y"，回头看那个介词 —— 只能是 to／onto／on to，不能是光杆 on。**
+
+**中文触发点**
+平台把配送的风险整个转给了骑手，涨上去的成本最后又转嫁给了消费者。
+（★ 两处分别用 shift ／ pass … on to）
+
+### 历史记录
+- 2026-08-24 ③ 建号（她点名要学）D2 学习日 C3·组3 第 1 题（顺带）
+  主考点 #0336 命中 ✅，同句介词失守：`transferring risk **on** individuals`。
+  她当场说「转移风险见建一个条目」⇒ 按 §2③ 建号。
+  ⚠️ 建号那一行按 §3.5 B5 记 ③ 还是 ❌：她**这次确实写错了**（不是只提问）⇒ 本条按 ❌ 记，
+  　 连错 1。（对照 #0333 #0338 那种"她写对了、只是点名要学"的，才记 ③ 不推进。）
+- 2026-08-24 ❌ D2 学习日 C3·组3 第 1 题（顺带）　**同一处，建号即失守**
+  `transferring risk **on** individuals` —— on 单用不成立。
+  ⚠️ 判 ❌ 的理由（§3.2）：**① 句子本身有错**。造不出三个母语者句子支撑 `transfer risk on sb`；
+  　 对照三条都成立：`transfer the risk **to** the buyer` ／ `shift the burden **onto** taxpayers` ／
+  　 `pass the cost **on to** consumers`。
+
+---
+
+## #0343 pay 的介词一族：pay **into** ＋ 池子 ／ pay **for** ＋ 东西 ／ pay **off** ＋ 债
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F01
+
+**问题是什么**
+中文的「交／缴／付／还」都是"给钱"，英文按**钱去了哪儿**分开：
+```
+pay **into** ＋ 账户／基金／计划   钱**流进一个池子**，以后还能取出来
+                                  `pay into a pension fund` · `pay into the scheme`
+                                  ★ 社保、公积金、养老金、互助金全走这条
+pay **for** ＋ 买到的东西／服务     钱**换来一样东西**，不回来了
+                                  `pay for the tickets` · `pay for the damage`
+pay **off** ＋ 债                  `pay off the mortgage`（还清）
+                                  ⚠️ 同一个块还有第二个意思："有回报" —— `the effort paid off`
+pay **out** ＋ 赔款／保险金         `the insurer paid out £5,000`（机构往外付）
+contribute **to** ＋ 基金／事业     与 pay into 近义，更正式：`contribute to a pension`
+⛔ `pay **in** the fund`（in 是"在里面"，不带"往里面"这一层）　⛔ `pay **to** the fund`
+```
+**判据（一句话）**：钱**流进一个池子、以后可能拿回来** ⇒ **into**；
+**换来一个东西／服务** ⇒ **for**；**消掉一笔债** ⇒ **off**。
+
+**成员出题账**
+```
+① pay into        —— 2026-08-24 建号当天她**自发用对**（📋 不推进）
+② pay for         —— 未出过
+③ pay off         —— 未出过
+④ pay out         —— 未出过
+⑤ contribute to   —— 未出过
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地；按 §6，成员① 她已自发用过 ⇒ 单点题优先测其他成员
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组3 第 3 题（主考点 #0126，命中 ✅）。她自发写出
+`individuals who have **paid into** the fund for two consecutive years`（完全正确），
+并当场点名：**「pay into 新建个条目」**（§2③ 她点名要学）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "pay into" "缴" "fund"  ⇒ 命中 #0249 一条（「缴」出现在它的"问题是什么"里）
+② 规则查  同上（本条的规则关键词就是"缴/交/付"）
+③ 眼过    ①有命中，未跑
+逐条否掉：
+  #0249（中文的"费"不等于 fee，水电这类定期账单用 bill）—— 三问：
+    问1 改正动作？#0249 是**换名词**（fee → bill／fare／charge），本条是**换介词**（in／to → into）⇒ 否
+    问2 一句话规则？#0249 说"这笔钱叫什么"，本条说"这个动作配哪个介词" ⇒ 否
+    问3 会挑 bill 完全不保证会写 pay into ⇒ 否
+    ⇒ 不合并。⚠️ 但两条相邻，出题时**不许同组**（已在两条正文各写一行禁配）。
+⇒ 新建。
+```
+
+**我错在哪**
+她这次**没有错** —— `paid into the fund` 用得完全正确，介词也对。
+建号理由是 §2③（她点名要学）。缺口在**这一族其余成员**：档案里从来没有她用 pay off／pay out／
+contribute to 的记录，而 `pay for` 与 `pay into` 的分界正是中文"交钱"最容易混的地方。
+找法：**写完 pay，先问一句"这笔钱是【进池子】、【换东西】还是【消债】"。**
+
+⚠️ 这条不能和 #0249 同组 —— 两条都在"给钱"这个语义场，同组会互相提示。
+
+**中文触发点**
+他每个月往公积金里缴一笔，另外还在还房贷；孩子的学费倒是他父母付的。
+（★ 三处分别用 pay into ／ pay off ／ pay for）
+
+### 历史记录
+- 2026-08-24 ③ 建号（她点名要学）D2 学习日 C3·组3 第 3 题
+  她自发写出 `individuals who have **paid into** the fund for two consecutive years`，
+  介词、时态、搭配全对，当场说「pay into 新建个条目」。
+  ⇒ 建号时无对错，连对连错都是 0。
+  ★ 按 §6「她自发用过的块一律挂作文验」：成员① 不再出单点题，单点题只测 ②③④⑤。
 
 ---
 
@@ -1085,7 +1257,7 @@ P3 硬编名词块　R · P3
 </details>
 
 ## #0249 中文的"费"不等于 fee —— 水电这类定期账单用 bill
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F03
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F03
 
 **问题是什么**
 中文一个"费"字对应英文三个不同的词，直接映射成 fee 就错。
@@ -1107,6 +1279,8 @@ P3 硬编名词块　R · P3
 正确：`with **water and electricity bills** included` ／ `once **utility bills** are included`
 注意还有一处数：两项东西（水＋电）配单数 fee 对不上，bills 要复数。
 （`electric` 本身不算错 —— 美式 `the electric bill` 是常说的；真正错的是 fee。）
+
+⚠️ 这条不能和 #0343 同组 —— 两条都在“给钱”这个语义场（本条挑名词、#0343 挑介词），同组会互相提示。
 
 **中文触发点**
 房租不含水电费，得另外交。
@@ -1168,9 +1342,30 @@ P3 硬编名词块　R · P3
   📋 留痕不判：`higher **than last year**` 比较对象不对等（费用比年份），
   　 但 `Sales/Prices/Temperatures are higher than last year.` 三个母语者句造得出 ⇒ §0.8 不判错。
   　 严谨版进更好版：`than **those of** last year`。
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 5 题　**连对 1，连错归 0**
+  题面「上个月的电费又涨了，孩子的兴趣班还多收了一笔材料费。（★ 两处分别用 bill ／ fee）」
+  ——按 §3.5 词表型：一题让**两个成员同时落地**，并把两个词都写进题面（她 08-24 定的口径）。
+  她写 `this month's **electricity bill** rose again, and the kid's extracurricular class
+  charged an extra **fee** for materials`。
+  ★ 两个成员各就各位：
+```
+bill  定期账单（水电煤、话费）　electricity bill　　　　　　✅
+fee   为某项服务／资格付的一笔钱　an extra fee for materials　✅
+```
+  ⇒ 命中，连对 1、连错归 0。**本条的核心分工（bill ↔ fee）第一次在同一句里被同时行使。**
+  📋 顺带用对：`**this month's** electricity bill` —— 时间所有格（#0331 一族），
+  　 而且是**没有被点名**的情况下自己用的。⇒ #0331 的缺口是"不会主动想到"，这是一条正面证据。
+  ⚠️ 同句一处与本条无关的事实错：中文是「**上个**月」，她写成 `**this** month's` ⇒ 命题被改。
+  　 ⛔ **不建条目、也不归入任何条目**（三问全否）：
+```
+问1 改正动作？把 this 换成 last —— 与 #0126「补回被压掉的修饰层」不是同一个动作 ⇒ 否
+问2 同一句规则？#0126 说的是"中文有几层英文就得有几层"；这里层数没少，是**一个词读错了** ⇒ 否
+问3 掌握 #0126 会让她不把"上个月"看成"这个月"吗？⇒ 否
+⇒ 单次误读，不是知识缺口（§2 建号前先问的那一句）。记在 session 顺带表 ＋ 反馈里点名，不建号。
+```
 
 ## #0265 两个同义说法不要焊在一起
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F03
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F03
 
 **问题是什么**
 英语里同一个意思常有两个说法，各自都完整。**记混之后取一半拼一半，两边都不成立。**
@@ -1220,6 +1415,25 @@ P3 硬编名词块　R · P3
   over 单用，没有焊成 `over than` ⇒ 命中，连对 1、连错归 0。
   📋 更好：`**More than** two hundred people are **taking part in** this training.`
   　（两个都对，但书面文里 more than 更常见；attend 偏"出席"，参加培训用 take part in）
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 4 题　**连对 2 ⇒ 🎓 毕业**
+  题面「很多人宁可租房也不愿背三十年房贷。尽管利率降了，愿意买的还是不多。」——⛔ **零提示**。
+  ★ 提示档按 08-24 新判据（绕开测试）：本条的考点是"别把两个说法焊在一起"，
+  　 **没有一个目标词可点**（能点的只有"别焊"，那是反向禁令，§6 禁止）⇒ 避不开 ⇒ 零提示。
+  ★ 题面设了**两个焊接高危点**：
+  ```
+  ① 「宁可 A 也不愿 B」 两条完整路：prefer A **to** B ／ would rather A **than** B
+     焊接件：~~prefer A than B~~（中式高频，她 08-23 组6 刚在别处被这个框架污染过）
+  ② 「尽管…」         两条完整路：**despite** ＋ 名词 ／ **in spite of** ＋ 名词
+     焊接件：~~despite of~~
+  ```
+  她写 `many people **prefer** renting **to** taking on a 30-year mortgage;
+  **despite** lower interest rate, few are eager to buy`。
+  ★ 两处都没焊：prefer…to 完整 · despite 单用没带 of ⇒ 命中，连对 2，**毕业**。
+  ★★ 而且 `prefer renting **to taking on**` 两边都是动名词、形式对齐 —— 这是这个框架最容易翻车的
+  　 地方（很多人写成 prefer renting to take on），她没翻。
+  📋 手滑豁免：`perfer` `mortagege` 都不是真词 ⇒ 按 §3.2 豁免。
+  ⚠️ 同句两处归别的条目，与本条判定无关：`eagle`（真词串台 ⇒ #0095）·
+  　 `lower interest rate`（该复数 ⇒ #0048）。
 
 ---
 
@@ -1228,7 +1442,22 @@ P3 硬编名词块　R · P3
 > 含长主语后谓语被拉走、不可数名词
 
 ## #0048 该用复数的名词写成了单数
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
+状态：退池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F04
+🔴 **2026-08-24 她裁定：移出复习池，改由 `reminders.md` R2 常驻提醒接手。**
+　 她的原话：「**只留 reminders 吧，但是 problems 不用删掉，备注下就好了**」
+```
+⇒ 条目**原地保留、一行不删**（历史记录是证据，还要用来看形状），只把状态改成「退池」。
+⇒ 退池 ＝ `drill.py pick` 不再抽它，⛔ 教练不再为它出单点题。
+⇒ 它的处置转到 reminders.md **R2**：每一组判定、每一篇作文，教练必扫、扫到当场点名。
+⇒ 裁定依据（三场连续同一形状，08-24 攒够）：
+     08-20  点名题 ✅ → 同日顺带 ❌
+     08-23  点名题（组4 第 7 题）顺带 ❌
+     08-24  点名题 ✅（书店/年轻人两处全对）→ 同日顺带 ❌❌（two set · interest rate）
+   ⇒ **被点名时她做得到，不被点名时照错** ⇒ 反复出题只会反复复现"点名时对"，对真实缺口无效。
+   这与她 2026-08-22 撤销 #0322 时的判断完全一致：「这类重复练习没有用，关键在于你需要不断提醒。」
+⚠️ 本次裁定**只针对 #0048**。同族的 #0055（今日已 🎓）· #0074 · #0251 她没有一并裁定
+　 ⇒ 教练不自行处置、不催问（§3.3 精神），等她哪天说。
+```
 
 **问题是什么**
 泛指、或中文明说"那些/大多数/很多"时，英文名词要用复数。
@@ -1300,6 +1529,35 @@ P3 硬编名词块　R · P3
   　 08-22 她说"先不动"，教练不自行处置）。
   📋 更好：`**Rents** in big cities rise year after year, while **houses** in small county towns
   　 are becoming harder and harder to sell.`（`house rent` 不是英式主流说法，`rents` 一个词就够）
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 2 题　**点名时命中（但当天净结果见下面两行）**
+  题面「这几年城里新开的那些书店大多都不长久，愿意接手的年轻人也越来越少。」——⛔ **零提示**。
+  ★ 提示档是按 08-24 新判据（绕开测试）定的：这句怎么翻都得让"书店""年轻人"变复数
+  　 ⇒ **避不开** ⇒ 零提示。脚本卡片按连对数算的是"给词"，本场按新判据推翻。
+  她写 `most of the new **bookstores** opening in the city these past few years do not last long,
+  and fewer and fewer **young people** are willing to take them over`。
+  ★ 两处复数全对，而且 `fewer and fewer` 也配对了可数名词 ⇒ 考点命中。
+- 2026-08-24 ❌ D2 学习日 C3·组2 第 1 题（顺带）
+  第 1 题（主考点 #0332）里写 `these two **set** of data` → 应为 `two **sets** of data`。
+  「这两组」明写了数量 ⇒ 英文必须复数。
+- 2026-08-24 ❌ D2 学习日 C3·组2 第 4 题（顺带）　**当天净结果 ❌，连对 0 ／ 连错 2**
+  第 4 题（主考点 #0265）里写 `despite **lower interest rate**` → 应为 `**lower interest rates**`。
+  ⚠️ 这一处有两条合法修法（`lower interest rates` 复数 ／ `a lower interest rate` 加冠词），
+  　 我按**复数**那条归本条 —— 理由：句子说的是利率这件事整体，不是某一个具体利率，
+  　 `despite lower interest rates` 是压倒性的常规写法。
+  　 ⛔ **没有**同时记到 #0074（可数单数不能光着）——一个实例不记两条，且 #0074 今天在组3 待测，
+  　 拿一个两可的判定去预先污染它不合适（教练侧已在 session 写明）。
+  ⚠️ 按 §3.2 同日口径「当天只要出现过 ❌ 就记 ❌」：本条今天 ✅（第 2 题）＋ ❌❌（第 1、4 题顺带）
+  　 ⇒ **当天净结果 ❌**，连对 0、连错 1 → 2。
+  ★★ **本条的形状已经三场连续一致，值得单独看**：
+  ```
+  08-20  点名题 ✅ → 同日顺带 ❌
+  08-23  点名题（组4 第 7 题）顺带 ❌
+  08-24  点名题 ✅（书店/年轻人两处全对）→ 同日顺带 ❌❌（two set · interest rate）
+  ⇒ 规律：**被点名时她做得到，不被点名时照错。**
+    这正是她 2026-08-22 撤销 #0322 时说的那句：「这类重复练习没有用，关键在于你需要不断提醒。」
+    ⇒ 证据已攒够，本条要不要按 #0322 的先例移出复习池、只留 reminders.md R2，
+      **是她的决定**（08-22 她说"先不动"）。教练不自行处置，只把证据摆出来。
+  ```
 <details><summary>原始行（旧表逐字，旧号 E-002）</summary>
 
 `**老龄化带来的那些挑战不容忽视**（08-18 题面补完整句：原「老龄化带来的那些挑战」是光杆 NP，她必须自己补谓语才能答 —— 她 08-18 定「我是根据题面回答问题」，残题面逼她造句、造出来的部分又不是考点，两头不讨好）|the **challenge** caused by|the **challenges** caused by|P4 单复数|**R（08-11 探针实测坐实）**：低压孤立答 `an aging population brings these challenges` —— 复数产得出 ⇒ 检索失败不是知识缺口 · 挂代号 **P4**|**1/3 · ✅D—迷你复习**|`
@@ -1334,7 +1592,7 @@ K　0/3 抽查
 </details>
 
 ## #0055 主语与谓语的数不一致（主语紧挨谓语）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F04
 
 **问题是什么**
 谓语没跟着主语的数走。**主语就在谓语旁边、不隔长短语**的那一类。
@@ -1454,6 +1712,30 @@ K　0/3 抽查
   ⚠️ 但按 §7 口径：**复习组答对不算清零**，靶子2 仍要在一篇限时 cold 作文里零失守才摘。
   📋 更好：`This new government subsidy saves hundreds of thousands of farmers **a large sum**
   　every year.`（`a large amount of money` 五个词 → `a large sum` 三个词，书面更紧）
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 2 题　**连对 2 ⇒ 🎓 毕业**
+  题面「这几场大雨淹了不少农田，村里那条主路到现在还没修好。」——⛔ **零提示**（连对 1，非词表型）。
+  她写 `these heavy rains **have** flooded extensive farmland, yet the main road in the village
+  **has** not still been repaird`。
+  ★ 两处主语都紧挨谓语、一复一单，正是本条的形状：`rains have` ✅ · `the main road has` ✅。
+  ★ 零提示下命中 ⇒ 连对 2，**毕业**。
+  ⚠️ 同句另有一处词序错（`has not still` → `has still not`），那是副词位置不是数的一致
+  　 ⇒ 归 **#0339**（今日新建），不影响本条判定。
+  📋 `repaird` 不是真词 ⇒ §3.2 手滑拼写豁免。
+- 2026-08-24 📝 D2 学习日 C3·组1 第 5 题、第 8 题（顺带用对，留痕不推进 streak）
+  第 5 题 `the police **do** not have much evidence`（police 是英式集合名词，配复数谓语）。
+  第 8 题 `the error rate **of this batch of equipment** **is** only slightly lower…`
+  　—— 中心词 `rate` 单数、中间隔了两层 of 短语、里面还嵌着 `equipment`，
+  　 这是靶子2 最难的形状（长主语被中间的名词拉走），她守住了。
+  ⚠️ 按 §3.2 同日口径当天只推进一次，streak 已由第 2 题的 ✅ 定下 ⇒ 本行用 📝 只留痕。
+  ★ 但这两处是本条毕业的旁证：**不是只在被点名的那一题上对**。
+
+**毕业时存下的（未行使的分支，她 review 时用）**
+```
+本条毕业时**没有测过**的形状：`These data show` ／ `This data shows` 这一对
+　（08-20 作文里出现过，但那次是她自己写对的，从来没在题面里被点名逼过）
+存好的题面：这些数据表明，问题出在流程本身；而这份数据是去年才开始收集的。
+　　　　　　（★ 前一个"数据"配复数谓语、后一个配单数，两处的动词都不许写错）
+```
 <details><summary>原始行（旧表逐字，旧号 E-068）</summary>
 
 `没人说得清它们为什么偶尔管用|why they **works**|why they **work**|P4 主谓一致（复数主语配单数动词）|R · **P4**|0/3|`
@@ -1513,7 +1795,7 @@ P11 硬编＋P4 数 → P11 硬编（08-16 更正：合并组里 P4「find jobs�
 </details>
 
 ## #0059 不可数名词一族：不加 -s、不加 a、配单数谓语（含 advice ↔ advise 的名词/动词分工）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F04
 🔗 2026-08-22 **#0325 已并入本条**（她定：「#0325 可以合并」）
 ⚠️ 2026-08-23 教练一度把组2 的 `works` 判进本条并翻转当天结果 ——
 　 **她指出那是 `workers` 的打错 ⇒ 与不可数性无关 ⇒ 该判定已撤销**，当天结果回到 ✅（见历史）。
@@ -1685,6 +1967,32 @@ streak 重算（合并后按 §3.2 同日口径逐日算）
   　 当天净结果 ✅，连对 1。**成员表里补入的 work 那一行保留** —— 规则本身是对的，
   　 只是今天没有实例支撑它，标注为"暂无实例"。
   📋 那个 `works` 的正确归属见 **#0095**（拼成另一个真词，work/worker 那一对原样复发）。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 5 题　**连对 2 ⇒ 🎓 毕业**（三个成员一次全落地）
+  题面用的是 08-22 存下、一直没发出去过的多成员题面：「警方掌握的证据不多，但他们给了我们几条建议，
+  并且建议我们先别对外说。（★ 三处：证据用 evidence ／「几条建议」用 advice ／ 第二个「建议」用 advise）」
+  她写 `the police do not have **much evidence**, but they gave us **a few pieces of advice**
+  adn **advised** us to keep quiet about it for now`。
+  ★ 三个成员逐一核对：
+```
+① evidence   不加 -s、不加 a、配 much（不可数量词）　　　　　　✅
+② advice     「几条」逼出量词 ⇒ a few **pieces of** advice，没写 three advices　✅
+③ advise     动词半边拼 s 不拼 c，且接 sb to do　　　　　　　　✅
+```
+  ★★ 这正是 08-20 塌掉的那个形状（**名词**半边）＋ 08-15／16／18 反复测的那个形状（**动词**半边），
+  　 **一句里同时落地** ⇒ 08-22 她定的"一题必须覆盖 ≥2 个成员"在本条收到闭环。
+  ⚠️ 给词是不是白测？不是。题面给的是 **lemma**（evidence ／ advice ／ advise），
+  　 真正被测的四样——不加 -s、不加 a、"几条"要量词、名词动词分工——一个都没被题面泄漏。
+  📋 `adn` 手滑豁免。
+  ⇒ 连对 2，**毕业**。成员表里 `work` 那一行仍标「暂无实例」，
+  　 按 §3.5 第 3.5 步① 覆盖是出题纪律不是毕业闸 ⇒ 不扣在池里，未测的分支存在下面。
+
+**毕业时存下的（未行使的分支，她 review 时用）**
+```
+本条毕业时**没有测过**的成员：research（researches ⛔）· information · equipment ·
+　　　　　　　　　　　　　　　work ↔ job（"三份工作"必须换词，08-23 那次是打错不算实例）
+存好的题面：这方面的研究还不多，我们手上的信息也很有限；他今年换了三份工作。
+　　　　　　（★ 三处：research 不加 -s ／ information 不加 -s ／「三份工作」不能用 work）
+```
 <details><summary>原始行（旧表逐字，旧号 E-128）</summary>
 
 `他建议我们…（08-16 题面**二次**加死：**他给了我们一些建议，劝我们早点出发**。★ 只写「他建议我们早点出发」不够——「建议」同时通向 advise/suggest/recommend，她写 He suggested we leave earlier 完全正确、advice/advise 的区分**一次都没被行使**；而本条是全库唯一"被清零"条目（08-13、08-15 两次都错），不能把命押在她碰巧选哪个词上。新题面前半「**一些建议**」强制不可数名词、后半「**劝…做某事**」把动词推向 advise ⇒ 即使动词半边被 suggest 逃掉，名词半边仍必然落地）|he **advices** us|he **advises** us（advice 名词不可数／advise 动词）|P11 词形|R · **P11**|`
@@ -1903,7 +2211,7 @@ K
 </details>
 
 ## #0074 学校应该保证学生每天有休息时间
-状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F04
 
 **问题是什么**
 K
@@ -1962,6 +2270,23 @@ K
   　⇒ 今天的净结果仍是 ❌，**连对 0 ／ 连错 2 维持不变**，本行只留证据。
   ★ 而这一正一负恰好把本条的机制又演了一遍：**被点名（题面给了 break）时冠词在，
   　 没被点名（workload）时冠词掉**。这不是"会不会"的问题，是"会不会自己启动"的问题。
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 2 题　**连错 2 归零，连对 1**
+  题面「新的排班表要保证每位司机在两趟车之间有一段完整的休息。
+  （★ 用 guarantee 直接接两个宾语，先"谁"后"什么"；★「休息」用 period 这个词）」
+  ★ 按 §6 给到 lemma 为止：guarantee 与 period 两个词给了，**冠词故意不给** —— 冠词才是本条的考点。
+  她写 `the new scheduel must **grarantee every driver an uninterrupted rest period** between runs`。
+  ★ 三层全到位：
+```
+① 双宾语　guarantee ＋ every driver ＋ an … rest period，没退回所有格（drivers' rest time）✅
+② 冠词　　可数单数 period 前面有 **an**（且用的是 an 不是 a —— uninterrupted 元音开头）✅
+③ 选词　　「完整的」写成 **uninterrupted**（比 full 更贴"不被打断"这一层）✅
+```
+  ⇒ 连对 1，连错 2 归 0。
+  📋 `scheduel` `grarantee` 都不是真词 ⇒ §3.2 手滑豁免。
+  📋 顺带用对：`between runs`（一趟车 ＝ a run，这个词她自己找到的，很准）。
+  ⚠️ **证据分量**：题面点名了 guarantee 与 period 两个词，注意力仍被按在名词上。
+  　 本条 08-20 记的机制是"被点名时对、没被点名时漏"，所以这次 ✅ 证明的仍然是**被点名时**的能力。
+  　 真正的清零得等它在一篇作文里不被点名也站住（§7 靶子口径）。
 <details><summary>原始行（旧表逐字，旧号 E-264）</summary>
 
 `**学校应该保证学生每天有休息时间（用「保证【谁】【什么】」这个双宾语说法，别用所有格）**（08-18 题面点名：她走 `students' daily rest time` 所有格，语法成立、但双宾语结构不出现，`a` 的考点整块绕过 ⇒ 记 ◎。原触发点是她的问句「为什么 `Schools should guarantee students **a** daily rest period` 是 a」）|学校应该保障学生每天的休息时间|★ **不是这个位置要用 a，是 `period` 这个词要求 a —— 冠词跟着名词的可数性走**：<br>　不可数（**rest / time / sleep**）→ 零冠词：`daily rest` ✅ `daily rest time` ✅<br>　可数（**period / break / session**）→ 必须 a/the/复数：`**a** daily rest period` ✅ `daily rest **periods**` ✅ `~~daily rest period~~` ❌<br>★★ 通则：**可数单数名词在英语里永远不能光着**，哪怕泛指<br>★ 用 a 不用 the，因为这里泛指（随便哪一段）不是特指 ⇒ 与她自己推出的 **a 引入 / the 回指**（E-260）同一条|**K**|`
@@ -2138,7 +2463,7 @@ P4 单复数 ← 靶子　R · P4
 </details>
 
 ## #0251 this kind of 后面接单数，these kinds of 后面才接复数
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F04
 
 **问题是什么**
 `kind / type / sort` 本身是可数名词，前面的指示词和后面的名词都要跟着它的数走，三个位置必须一致：
@@ -2224,6 +2549,21 @@ P4 单复数 ← 靶子　R · P4
   ⚠️ 按复习组口径，顺带用对只列出、不推进 streak（连对仍为 0）——
   　 本条要真正翻身，得在**它自己作主考点**的题里对两次。
   ⇒ 记在这里，等它下次被抽到时作为背景。
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 7 题　**本条作主考点的第一次正面测量**
+  题面「这种事故在冬天多，那几种机械故障则一年到头都有。（★ 两个半句都用 this kind of ／
+  these kinds of 那个说法，注意两边名词的单复数不一样）」——按 §6 给结构，
+  **后面名词的单复数不给**（那才是考点）。
+  她写 `**This kind of accident** is more common in winter, whereas **those kinds of mechanical
+  failures** occur throughout the year`。
+  ★ 两边都对：单数 kind ＋ 单数 accident ／ 复数 kinds ＋ 复数 failures。
+  　 而且谓语也跟着走对了（`is` ／ `occur`）⇒ 不是碰巧，是整块调对的。
+  ⇒ 连对 1，连错归 0。
+  ⚠️ **本次判定的排布说明（教练侧，写出来备查）**：本题排在同组第 7，而同组第 2 题是 #0074
+  　（也在"名词的数与限定词"这条轴上）。#0074 的括号只点了 guarantee 与 period、**没提数**，
+  　 对本条没有提示作用；顺序上也是 #0074 在前、本条在后 ⇒ 判定成色不打折。
+  📋 顺带用对：`mechanical **failures**` —— 中文是「机械故障」，她**没有**写成 mechanical errors
+  　 ⇒ 这是 **#0340**（昨天新建，今天不在池里）的第一条正面证据，记在那条名下。
+  📋 顺带用对：`whereas`（对比连词，比 while 更书面，用在两个完整分句之间正确）。
 
 ---
 
@@ -2450,7 +2790,7 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 </details>
 
 ## #0095 拼成了另一个真词（形近或同音），自己扫不出来
-状态：在池 ｜ 连对 0 ｜ 连错 4 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F05
+状态：在池 ｜ 连对 0 ｜ 连错 5 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F05
 ⚠️ 2026-08-23 **当天净结果由 ✅ 翻转为 ❌**（组1 ✅ patients/parents ／ 组2 ❌ works/workers，
 　 §3.2「当天只要出现过 ❌ 就记 ❌」）。组1 那行 ✅ 留痕不删。
 
@@ -2469,7 +2809,8 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 · `**works**` → `workers`
 · `**there** clinics` → `their clinics`
 高危对：order/older · employer/employee · patient/parent · work/worker · there/their/they're
-· though/thought · quite/quiet · form/from · lose/loose
+· though/thought · quite/quiet · form/from · lose/loose · than/that（比较语境里，2026-08-23 补）
+· **eager/eagle**（2026-08-24 补 —— 差一个字母，都是常见词，回读扫不出来）
 **判定口径**：这一类**不适用手滑豁免**，一律记。
 
 **中文触发点**
@@ -2594,6 +2935,24 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
   　 ⇒ 本条的高危对表补一对：`than / that`（尤其在 prefer / rather 这类比较语境里）。
   ⚠️ 按 §3.2 同日口径，本条今天的净结果已由组2 的 ❌ 定下（今天组1 ✅ → 组2 ❌），
   　 **连对 0 ／ 连错 4 维持不变**，本行只留证据。
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 6 题　**点名时三个高危词全对（当天净结果见下一行）**
+  题面「去年这家工厂的员工少了三成，雇主却新上了一条生产线；他们的产量反而上去了。」
+  ——⛔ **零提示**。按 08-24 新判据（绕开测试）：本条的答案**就是那个词的拼写**，
+  　 给词＝给答案 ⇒ 避不开 ⇒ 零提示，改用中文把三个高危词逼出来。
+  她写 `the number of the **employees** at that factory fell by 30% last year, yet the
+  **employer** introduced a new product line, and **their** output actually rose instead`。
+  ★ 三对高危词各就各位：`employees` ≠ employers ✅ · `employer` ≠ employee ✅ · `their` ≠ there ✅
+  　 ⇒ 这是本条第一次在**一句里同时被逼出三对**并全部守住。
+- 2026-08-24 ❌ D2 学习日 C3·组2 第 4 题（顺带）　**当天净结果 ❌，连错 5**
+  第 4 题（主考点 #0265）里写 `few are **eagle** to buy` → 应为 `**eager**`。
+  ★ **eagle（鹰）是真词** ⇒ 按本条判定口径「拼成另一个真词一律记、不适用手滑豁免」，照记。
+  ⇒ 高危对表补一对：**eager / eagle**（差一个字母，且都是常见词，回读扫不出来）。
+  ⚠️ 按 §3.2 同日口径「当天出现过 ❌ 就记 ❌」：今天第 6 题 ✅ ＋ 第 4 题 ❌ ⇒ **净结果 ❌**，
+  　 连对归 0、连错 4 → 5。**连错 5 是本条历史最高，也是全档最高。**
+  ★★ 本条与 #0048 今天出现了**完全相同的形状**：点名时全对，顺带时照错。
+  　 两条都是"规则知道、压力下掉"的类型 ⇒ 都指向 reminders.md 那套机制（她 08-22 定的）。
+  　 ⚠️ 但本条与 #0048 有一点不同：R1/R2/R3 扫的是**词尾与小零件**，扫得到；
+  　 　 拼成另一个真词**扫不到**（句子读得通）⇒ 本条不能靠 R 项接手，只能留在池里。
 <details><summary>原始行（旧表逐字，旧号 E-292）</summary>
 
 `**随着老年人口增长，医疗支出也在上升**|`as the number of **order** people is growing`|`**older** people`　★ **这不是普通手滑**：order 和 older 都是真词，拼错之后句子仍然"读得下去"，考场上自己扫不出来。同类高危对：`order/older` · `though/thought` · `quite/quiet` · `form/from` · `lose/loose`|P11 形近真词串台（**区别于 P5 拼写**：拼成非词能被自己发现，拼成真词发现不了）|R · **P11**|0/3|`
@@ -3054,7 +3413,7 @@ consciously   自觉地、清醒地（意识维度）      `**consciously** limi
 ---
 
 ## #0333 in-house 一族：自己做 vs 外包，形容词与副词同形
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F06
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F06
 
 **问题是什么**
 `in-house` 一个词同时是**形容词**和**副词**，两个位置都带连字符：
@@ -3120,6 +3479,100 @@ full-time job ✅　／　works full time ⚠️（副词位英式常无连字�
   ⇒ 建号时无对错，连对连错都是 0。
   ★ 出题纪律：本条是**词表型**，一题必须让 ≥2 个成员落地（§3.5 第 3.5 步）。
   ⇒ 成员出题账已挪到上方条目正文（2026-08-24 格式统一，内容一字未改）。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 7 题　**建号后第一次被测，四个没走过的位置一次全落地**
+  题面「这家公司有自己的法务团队，培训也一直放在内部做；只有网站维护外包给了第三方。
+  （★ 三处：「自己的法务团队」用 in-house ／「放在内部做」用 internally ／
+  　「外包给第三方」用 outsource ＋ third-party）」
+  ★ 成员 ①（in-house 副词位）08-23 她已自发用对 ⇒ 按 §6「自发块挂作文验」本题**避开它**，
+  　 只测她从没走过的四个位置。
+  她写 `this company has its **in-house** legal team, and conducts all training **internally**.
+  Only its website maintenance has been **outsourced** to a **third party**`。
+  ★ 逐个核对：
+```
+② in-house（形容词）  贴在名词前、带连字符　　　　　　　　　　　　　✅
+③ outsource（动词）   被动式 ＋ 配 to　　　　　　　　　　　　　　　✅
+⑤ third-party         ★★ 名词位写成 `a third party`，**不带连字符** ——
+　                    条目里「定语位带连字符／名词位不带」那条通则，她一次就分清了　✅
+⑥ internally          贴在动词后、没加介词（⛔ by internally ／ in internally）　✅
+```
+  ⇒ 连对 1。
+  ⚠️ 不地道（进更好版，**不判错**）：`has **its** in-house legal team` —— its 是定指，
+  　 可这支团队是句中第一次出现、没有先行词。中文「**自己的**」对应的是 its **own**：
+  　 `has **its own** in-house legal team` ／ `has **an** in-house legal team`。
+  　 `The firm has its headquarters in London.` / `Each branch has its own budget.` /
+  　 `The school has its own swimming pool.` —— 母语者句子造得出 ⇒ 按 §10 禁令9 不判错。
+  📋 「一直放在内部做」的「一直」用一般现在时 `conducts` 承接 ⇒ 按 08-22 收紧后的 #0126 判据
+  　（删掉后命题被改写才判丢层），习惯体本身含"一贯" ⇒ **不判丢层**。
+
+---
+
+## #0339 「到现在还没…」＝ still 放在 not 的**前面**
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F06
+
+**问题是什么**
+中文的「还没」是一个词，英文里 still 和否定词有**固定的先后**：still 永远在否定词左边。
+```
+✅ The road **still hasn't** been repaired.        最常用（口语与书面都行）
+✅ The road **has still not** been repaired.       正式一点，still 挤在 has 和 not 中间
+⛔ ~~The road has not still been repaired.~~       ← 她这次写的形状
+✅ She **still doesn't** know.        ⛔ ~~She doesn't still know.~~
+✅ They **still have not** decided.   ⛔ ~~They have not still decided.~~
+```
+**同一个意思的另一条路：yet**
+```
+still ＋ 否定 →  still 在否定词前，语气是"到现在都还没"（带一点不耐烦、超出预期）
+否定 ＋ yet   →  yet 放**句末**，语气中性，"还没到时候"
+   The road **hasn't** been repaired **yet**.      ✅
+   ⛔ 两个不叠用：~~still hasn't been repaired yet~~ 属同义重复（见 #0221）
+```
+**判据（一句话）**：写「还没」时先决定用哪条路 —— 走 still 就把它放到 not 左边，
+走 yet 就把它扔到句末。**⛔ 唯一不许出现的顺序是 not ＋ still。**
+⚠️ `is not still` 这个串本身不是不能写，但意思变了：
+　`He is not still working there, is he?` ＝ "他不是还在那儿干吧"（still 修饰的是"仍然在做"
+　这件事本身，不是修饰否定）。⇒ 她那句要表达的是"还没修好"，走不到这个读法。
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组1 第 2 题（顺带）。主考点 #0055 命中，词序失守。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "still" "yet"
+   ⇒ 命中 #0013 #0260 #0262 #0317 #0324 #0250 #0261（都只命中 1/2 词）
+② 规则查  dedup "语序" "词序" "位置" --fam F06
+   ⇒ 命中 #0109 #0333 #0103 #0108 #0110 #0277
+   　 dedup "still" "否定" --fam F06 ⇒ 零命中
+③ 眼过    ①②都有命中，未跑
+逐条否掉：
+  #0108（「这个副词可以放 is 后面么」）—— 最近的一条。那条管的是**方式/程度副词 vs 频率副词
+    该放哪个位置**，规则是"方式程度两处都行、频率必须放中间"；本条管的是 **still 与否定词的
+    先后**，一句话解释不掉（问 2 不成立），而且她把 still 放的正是"中间"那个位置 ——
+    按 #0108 的规则她做对了，按本条她做错了 ⇒ 两条可独立取值（§3.5 1.3 反向验）。
+  #0317（But ＜ Yet ＜ However ＜ Nevertheless）—— 那条的 yet 是**转折连词**（句首，
+    与 But 同类）；本条的 yet 是**时间副词**（句末，配否定）⇒ 同一个词的两个词类，问 1 不成立。
+  #0110（steadily 一族）· #0103（strains 加形容词）· #0277（过去分词作前置定语）——
+    都是"挑哪个词／能不能当定语"，不是词序，问 1 不成立。
+  #0013 #0250 #0260 #0262 #0324 #0261 —— still 只是出现在正文的例句里，与规则无关。
+⇒ 新建。
+```
+
+**我错在哪**
+她的：`the main road in the village **has not still** been repaird`
+正确：`the main road in the village **still hasn't** been repaired`
+　　　／ `the main road in the village **has still not** been repaired`
+找法：**写完「还没」，回头看 still 是不是站在 not 的左边。**
+
+**中文触发点**
+他去年就交了申请，到现在还没收到任何回复。（★ 用 still ＋ 否定，注意 still 站哪边）
+
+### 历史记录
+- 2026-08-24 ❌ D2 学习日 C3·组1 第 2 题（顺带）　建号
+  组1 第 2 题的主考点是 #0055（数的一致，命中 ✅）。同句词序失守：
+  她写 `has not still been repaird` —— 顺序反了。
+  ⚠️ 判 ❌ 的理由（§3.2 只看两条）：**① 句子本身有错** —— 造不出三个母语者句子来支撑
+  　 `has not still been repaired` 这个读法（"到现在还没修好"）。
+  　 对照组：`still hasn't been repaired` / `has still not been repaired` /
+  　 `hasn't been repaired yet` 三条路都成立，唯独 not ＋ still 这个顺序不成立。
+  📋 `repaird` 是手滑拼写（不是真词）⇒ 与本条无关，按 §3.2 豁免。
 
 ---
 
@@ -3999,7 +4452,7 @@ U · 待排序　0/2
   　（把冒号换成破折号 ＝ 行使本条正文写的那个形状；person/role 改复数与 team 的规模对齐）
 
 ## #0286 `X is impossible to do` —— 主语其实是那个动作的宾语
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F07
 
 **问题是什么**
 ```
@@ -4096,6 +4549,27 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
   **这个数住在哪几处**：本条状态行 ／ 本条历史（原 ❌ 那行留痕不删 ＋ 本更正块）／
   　sessions/2026-08-23.md 的判定表、diff 表A、战报（三处已同步重算）。
   📋 本条要练的那句仍然存着，下次出题用：`These claims are now **impossible to verify**.`
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 3 题　**连对 2 ⇒ 🎓 毕业**
+  题面「这几条老街的历史价值很难衡量。（★ 把「历史价值」放在主语位置，用 `X is hard to …` 那个说法）」
+  ——★ 按新的绕开测试（§6，她 08-24 定）：这句可以写成 `It is hard to measure the historical
+  　 value of…` 整个绕过本条 ⇒ **可绕开 ⇒ 必须点名结构**，所以括号里把"主语位置"写死了。
+  她写 `the historical value of these old streets **is hard to measure**`。
+  ★ 三条硬边全对：主语就是 measure 的宾语 · 不定式**主动** · 后面**不补宾语**
+  　（⛔ ~~is hard to be measured~~ ／ ⛔ ~~is hard to measure it~~ 都没出现）。
+  ★ 而且主语是 `the historical value **of these old streets**`（跨 of 短语），谓语 `is` 没被拉走
+  　 ⇒ 📝 顺带用对 #0055 一族。
+  ⇒ 连对 2，**毕业**。
+  ⚠️ 08-22 那条假设（"单个正式动词触发多余被动"）**仍然是待验状态** ——
+  　 本次的 measure 正是那批单词正式动词之一，她走的是主动 ⇒ 这是**反证的第一条**。
+  　 假设若要成立，得再拿 implement / assess 出题；本条已毕业，改由作文里验（§4⑤d）。
+
+**毕业时存下的（未行使的分支，她 review 时用）**
+```
+本条毕业时**没有测过**的：`impossible` 这一档（两次测的都是 hard／troublesome，
+　程度更强的 impossible 一次没出场）· 以及"形容词 ＋ to ＋ 主动"里换 assess／implement 的形状
+存好的题面：这套方案的实际成本，现在根本没法估算。
+　　　　　　（★ 把「实际成本」放在主语位置，用 `X is impossible to …`；★ 动词用 assess）
+```
 
 ## #0288 最高级 + 抽象名词作主语
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F07
@@ -4512,7 +4986,7 @@ K
 </details>
 
 ## #0221 一个词里已经含了的那一层，别再用另一个词说一遍（同义重复）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 🔀 2026-08-23 从 F11 迁入 F08（她定：「归属按照你裁定来」）。原标题「此后再没回到峰值」，
 　 是旧档案的题面式命名，一并改成规则式命名。
 
@@ -4556,6 +5030,22 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   ⇒ △ 两边都不动（连对 0 / 连错 0 维持）。
   ★ 同族冗余表补上：**no longer … now**。
   ★ 本条同日完成两件结构性整理：① 从 F11 迁到 F08 ② 标题从题面式改成规则式。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 6 题　**本条第一次拿到会推进 streak 的判定**
+  题面「这个数字在 2010 年见顶，此后再没回到那个水平；如今也已经没人再提它了。
+  （★ 两处分别用 never ／ no longer）」
+  ★ 题面**故意保留中文的「如今」**：忠实直译会落到 `now … no longer`，
+  　 冗余陷阱原样架在那里 —— 给了 no longer 这个词不等于给了答案，
+  　 真正被测的是"她会不会把「如今」也翻出来"。
+  她写 `the figure reached a peak in 2010, and **never returned** to that level.
+  **people no longer mention it**`。
+  ★ 两处都干净：`never returned` 后面没跟 again ✅　`no longer mention` 后面没跟 now ✅
+  　 —— 中文明写着「如今」，她没有多翻一个 now 出来 ⇒ 本条要的判断成立。
+  ⇒ 连对 1。
+  📋 △ 不判：`reached a peak … and never returned`（一般过去）对「**此后**」这一层稍弱，
+  　 但 `Sales peaked in 2010 and never recovered.` / `The figure hit a high in 2008 and never
+  　 came close again.` / `He left in 1990 and never came back.` 三个母语者句子造得出 ⇒ 不判错。
+  　 更好版用 `has never returned to that level since`（现在完成 ＋ since 把"此后到现在"钉住）。
+  📋 句首小写两处、句末缺句号 ⇒ §3.2 手滑豁免。
 
 <details><summary>原始行（旧表逐字，旧号 E-317）</summary>
 
@@ -5418,7 +5908,7 @@ prior to ＋名词  正式的"在…之前"     `**prior to** the meeting`（＝
   📋 更好：〔没有更好的版本〕
 
 ## #0303 引言里"一直有争论"的一族块
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 
 **成员出题账**
 ```
@@ -5428,9 +5918,12 @@ X is a matter of ongoing debate  —— 未出过
 X has long been a subject of debate —— 2026-08-22 ⇒ ✅（整句一字未改）
 X has sparked considerable debate —— 2026-08-23 ⇒ ❌（她退回 is a subject of debate，
                                      "引发了"与"相当大的"两层都没送到）
+                                 —— 2026-08-24 ⇒ ✅（题面直接给 has sparked，
+                                     她写 has sparked significant debate，两层都送到了）
 Opinion is divided on X          —— 未出过
-There is no consensus on X       —— 未出过
+There is no consensus on X       —— 2026-08-24 ⇒ ✅（同题第二个半句，写出 there is still no consensus）
 ⇒ 下次直接把词写进题面：「★ 用 has sparked」（她 08-23 定）
+⇒ 还剩 3 个未出过：is debated ／ is a matter of ongoing debate ／ Opinion is divided on
 ```
 
 **问题是什么**
@@ -5507,6 +6000,19 @@ There is no consensus on X       —— 未出过
   ⇒ 新出题纪律（已写进 SKILL §6）：**中文题面发出去之前，自己先直译一遍，
     确认它的直译落点是自然英文搭配**；落点别扭 ⇒ 换中文，不是等她翻出别扭的英文再判她。
   ```
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 3 题　**换成员再测，两个成员一次全落地**
+  题面「要不要给员工缩短工时，这件事引发了相当大的争论；至于该不该同时降薪，各方至今没有共识。
+  （★ 两处分别用 has sparked ／ no consensus）」——按 08-23 她定的"下次直接把词写进题面"。
+  她写 `whether to shorten working hours for employees **has sparked significant debate**.
+  As for whether salaries should be reduced accordingly, there is still **no consensus**`。
+  ★ 08-23 丢的正是这两层，这次都送到了：
+  　「**引发了**」→ has sparked ✅　　「**相当大的**」→ significant ✅
+  ⚠️ `significant` 不是题面示范的 `considerable`，但 §3.2「判 ❌ 只有两个理由」——
+  　 句子本身没错、中文意思送到了 ⇒ **算对**。题面的点名是引导，不是判错的门。
+  ⇒ 连对 1，连错 1 归 0。
+  📋 顺带用对：动名词式长主语 `whether to shorten … **has**`（#0055 一族，本条第二次守住）。
+  📋 `n consensus` 的 `n` 不是真词 ⇒ 手滑豁免。
+  🔵 **她当场点名要学**：`accordingly`（原话「同步的，新建个条目」）⇒ 新建 **#0338**。
 
 ## #0304 than expected / than anticipated —— than 后面省掉主谓
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
@@ -6022,7 +6528,18 @@ conventional wisdom     **通行的看法**（常用来引出你要反驳的观�
 ---
 
 ## #0332 bear ＋ 抽象名词：承担／带有／经得起（不是"熊"，也不是"忍受"）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
+✅ **2026-08-24 悬置已结 —— 她的裁定：◎✅（算对，是教练的出题问题）**
+　 她的原话：「**不知道，但是我的回答是对的。你出题的问题**」
+　 ⇒ 由此定下一条新出题纪律（已写进 SKILL §6）：
+```
+★ 给到哪一层，看条目**是怎么建号的**：
+  她犯错建的 ／ 她会用错的（§2①）  ⇒ 给 **lemma**，形态与搭配留给她　＝ 测
+  她说"不会"建的（§2③）           ⇒ **第一次出题给整个块**　　　　　＝ 练
+     理由：她本来就不会，给 lemma 她也调不出来，测出来的只是"她不会"——
+     　　 而这句话档案里建号那天就已经写着了，再测一次等于零信息。
+     连对 ≥1 之后再降回 lemma 档。
+```
 🔵 §2③ 她点名要学（2026-08-23，原话：「**bear little relation. 这里 bear 我不会用，可以建个条目练习下**」）
 
 **问题是什么**
@@ -6074,8 +6591,16 @@ conventional wisdom     **通行的看法**（常用来引出你要反驳的观�
 找法：**要写"承担成本／负主要责任／和…没什么关系／经不起推敲"时，先想一次 bear。**
 
 **中文触发点**
-这两组数据其实没什么关联；而不管结论怎么定，成本最后还是由低收入家庭承担。
-（★ 两处都必须用**同一个动词**的不同搭配：「没什么关联」· 「承担成本」）
+- 2026-08-24（改死后的新题面，下次用 —— **练不是测**，两个块整个给）
+  这两组数据其实没什么关联；而不管结论怎么定，成本最后还是由低收入家庭承担。
+  （★ 两处直接用这两个块：**bear little relation to** ／ **bear the cost**）
+- 2026-08-24（已作废）　这两组数据其实没什么关联；而不管结论怎么定，成本最后还是由低收入家庭承担。
+  （★ 两处都用同一个动词 bear 的不同搭配）
+  ⚠️ 作废原因：只给了 lemma `bear`。她**根本不会这两个搭配**（建号那天她自己说的），
+  　 给 lemma 调不出来 ⇒ 她走了别的合法路 ⇒ 判 ◎✅，这道题零信息。她的裁定：「你出题的问题」。
+- 2026-08-23（建号时写的，从未发出）
+  这两组数据其实没什么关联；而不管结论怎么定，成本最后还是由低收入家庭承担。
+  （★ 两处都必须用**同一个动词**的不同搭配：「没什么关联」· 「承担成本」）
 
 **成员出题账**
 ```
@@ -6101,6 +6626,42 @@ conventional wisdom     **通行的看法**（常用来引出你要反驳的观�
   ⚠️ 本条是**词表型**（§3.5）：出题必须**直接点名要哪一组／哪一个搭配**
   　（她 2026-08-23 定的新出题纪律），并逐条记下"哪个成员用过哪个题面"。
   ⇒ 成员出题账已挪到上方条目正文（2026-08-24 格式统一，内容一字未改）。
+- 2026-08-24 📝 D2 学习日 C3·组2 第 1 题　**判定悬置，streak 不动（等她回答）**
+  题面「这两组数据其实没什么关联；而不管结论怎么定，成本最后还是由低收入家庭承担。
+  （★ 两处都用同一个动词 bear 的不同搭配）」——★ 按她 08-24 定的新规，**目标词已直接给出**。
+  她写 `these two set of data **have little to do with** each other; no matter what conclusion
+  is reached, the cost will ultimately **fall on** low-income families`。
+  ★ 两处都是完全成立的英文：`have little to do with` ✅（那正是 #0309 的成员）·
+  　 `the cost will fall on 某人` ✅（标准搭配）。中文意思两处都送到了。
+  ★ 但目标词 **bear 一处都没出现** —— 这是本条建号以来第一次被测，考点仍是零行使。
+  ⚠️ **为什么不当场判**：§3.2 写死「❌ 与 ◎ 分不清时当场问她，⛔ 不许猜」。
+  ```
+  读法A  她不知道 bear little relation to ／ bear the cost 这两个搭配 ⇒ 属"答不出" ⇒ ❌
+  读法B  她看到了 bear，但觉得自己那两个更顺手、就没换 ⇒ 那是"她答对了、考点没行使"，
+         按 §3.2 现行判据只能算对（◎✅），而题面**已经给了词、没有可改之处**
+         ⇒ 这是她 08-24 新规**没有覆盖到的一个新格**，处置权在她
+  ```
+  ⇒ 已在反馈里问她；她答之前本行只作 📝 留痕，连对连错都不动。
+  ⚠️ **本行已于 2026-08-24 当天结清，裁定见下一行。**
+  📋 顺带用对：`have little to do with`（#0309 的成员，**该条正躺在 REVIEW 池里等这个证据**）。
+  ⚠️ 同句 `these two **set** of data` 少了复数 -s ⇒ 归 **#0048**（本组第 2 题的主考点，同日口径见那条）。
+- 2026-08-24 ◎✅ D2 学习日 C3·组2 第 1 题　**她裁定：算对，是教练的出题问题**
+  她的原话：「**不知道，但是我的回答是对的。你出题的问题**」
+  ⇒ 读法A（不知道 ⇒ 答不出 ⇒ ❌）与读法B（答对了、考点没行使 ⇒ ◎✅）之间，**她选了 B**，
+  　 并且把责任归到出题这一侧。按 §3.2「◎✅ 算对」⇒ 连对 0 → 1，连错归 0。
+  ★★ **她这条裁定比结果本身重要**：她同时确认了"不知道"和"答对了"两件事同时成立 ——
+  ```
+  她不知道 bear little relation to / bear the cost　（这是建号那天就记着的，本条 §2③ 建号）
+  她的英文仍然正确、意思仍然送到　　　　　　　　　（have little to do with · fall on）
+  ⇒ 那么这道题**从一开始就不可能测出新东西**：
+     她会 ⇒ 用 bear；她不会 ⇒ 用别的正确说法。两条路都不产生新信息。
+  ⇒ 病根不在"提示给得够不够"，在**这条根本不该是一道测验题，应该是一道练习题**。
+  ```
+  ⇒ 处置两条：
+  　 ① 当场改题面（见下），把两个块**整个**写进去 —— 变成"照着用一次"，不是"看你会不会"
+  　 ② 立成通则写进 SKILL §6：**§2③ 建号的条目，第一次出题给整块（练）；连对 ≥1 后再降到 lemma（测）**
+  📋 她这次实际用的两个块都值得留着：`have little to do with`（更口语）·
+  　 `the cost will fall on 某人`（"落到谁头上"，与 be borne by 是两个角度）。
 
 ## #0328 enrolment ／「报名与在册人数」名词块一族
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F08
@@ -6154,7 +6715,7 @@ attendance   **实际到场／出勤**（报了名不等于来了）　`**attend
   　 且毕业前要覆盖过至少两个不同成员（她 2026-08-22 定的口径）。
 
 ## #0335 「要过很久才…」一族：not … until ／ not … for ＋ 时段
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 
 **问题是什么**
 中文「**要等到很久以后才**看得出来」，英文的骨架是**否定 ＋ until／for**，不是"等到…才"逐字翻。
@@ -6217,9 +6778,25 @@ far into the future                  多用于 plan / look（`plan far into the 
   ★ 她的骨架（not … until）是对的，值得先说清楚：**这一族她已经有一半**。
   　 建号收的是另一半 —— "很久以后"那个位上的成员表 ＋ 怎么按动词类型挑。
   ⚠️ 触发点已换场景（树苗），⛔ 不许拿组4 那句"改革的价值"回来测（§6）。
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 4 题　**建号后第一次被测，两条路一次全落地**
+  ★ 本条也是 **§2③ 建号** ⇒ 按新通则第一次给整块（练）。题面
+  「这批树苗要过十来年才成材，现在看不出什么；旁边那条路则要到明年秋天才通车。
+  （★ 两处分别用 not … for ＋ 时段 ／ not … until ＋ 时点）」
+  她写 `these saplings **will not become** usable timber **for another ten years or so**, so you
+  cannot tell much right now; the road next to them **will not open** to traffic **util the autumn
+  of next year**`。
+  ★ 两条路的分工完全正确：
+```
+not … for ＋ 时段     for another ten years or so　（动词是变化点 become ⇒ 正是本条判据说的那一档）✅
+not … until ＋ 时点   until the autumn of next year（动词是变化点 open ＋ 一个明确时点）✅
+```
+  ⇒ 命中，连对 1。建号那天她自己写的 `until long into the future` 这次没有复发。
+  📋 `util` 不是真词 ⇒ §3.2 手滑豁免。
+  📋 更好版里把 `the autumn of next year` 换成 `next autumn`（少两个词，同义）。
+  🔵 **她当场点名要学**：`or so`（原话「这个 or so 新建一个条目」）⇒ 新建 **#0344**。
 
 ## #0336 「所谓 X，说白了就是 Y」怎么说 —— ⚠️ so-called 在英语里几乎总带贬义
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 
 **问题是什么**
 中文的「所谓」是**中性的**（＝"人们说的那个 X"）；英文的 `so-called` **几乎总是带贬义**，
@@ -6277,9 +6854,24 @@ far into the future                  多用于 plan / look（`plan far into the 
   她自己写的 `Leading a team comes down to three things` 已经是这一族里最省的解法，
   ⇒ 本条收的不是"她不会"，是**so-called 这个陷阱 ＋ 中性说法的成员表**。
   ⚠️ 触发点已换场景（弹性工作），⛔ 不许拿组5 那句"带团队"回来测（§6）。
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 1 题　**建号后第一次被测，一次命中**
+  ★ 按她 08-24 当天定的新通则出题：本条是 **§2③（她点名要学）建号** ⇒ 第一次出题**给整块**，
+  　 是练不是测。题面「越来越多的年轻人在做所谓的零工经济；而所谓灵活用工，说白了就是把风险
+  　 转给了个人。（★ 第一处用 what is known as；★ 第二处「说白了就是」用 comes down to）」
+  ★ 而且题面**换了语境**：不是"所谓 X 说白了就是 Y"那种可以整个吃掉的句子，
+  　 第一处是**给一个术语命名**（"所谓的零工经济"）⇒ 逼出 what is known as，绕不过去。
+  她写 `A growing number of young people are engaging in **what is know as** the gig economy;
+  flexible employment, as its core, simply **comes down to** transferring risk on individuals`。
+  ★ 两处目标块都落地 ⇒ 命中，连对 1。so-called 一次没出现。
+  📋 顺带用对：`A growing number of young people **are**` —— `a number of` 配复数谓语、
+  　 而 `the number of` 配单数（组2 第 6 题她写的正是 `the number of … fell`）⇒ **同一天两个方向都对**。
+  ⚠️ 同句三处归别的地方，与本条判定无关：
+  　 · `what is **know** as` 漏了过去分词的 -n ⇒ `reminders.md` **R1**（不建条目，当场点名）
+  　 · `**as** its core` → `**at** its core` ⇒ 归 **#0345**（今日新建）
+  　 · `transferring risk **on** individuals` → `**to／onto**` ⇒ 归 **#0342**（今日新建，她点名要学）
 
 ## #0337 `at all times` ＝ 任何时候都（规定语域）—— ⚠️ 和 `at times` 只差一个 all，意思正相反
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -6338,6 +6930,349 @@ on an ongoing basis 持续地                           商务书面
   她自己写出 `at all times` 并说「这个可以加一个条目」。
   ⇒ 本条收的不是"她不会"，是 **at times 的反义陷阱 ＋ 同族分工**。
   ⚠️ 触发点已换场景（实验室），⛔ 不许拿组6 那句"施工扬尘"回来测（§6）。
+- 2026-08-24 ✅ D2 学习日 C3·组2 第 5 题　**建号后第一次被测，一次命中**
+  题面「实验室里任何时候都必须戴护目镜；走廊那台老机器倒是只偶尔响一下，不用管。
+  （★ 两处分别用 at all times ／ at times）」
+  ——★ 按 08-24 新判据（绕开测试）：`must always be worn` 能整个绕过 ⇒ 可绕开 ⇒ 给词。
+  　 两个都给了看似"给多了"，其实本条的考点**就是这一对反义词该放哪边**（差一个 all，意思正相反），
+  　 给词之后被测的仍然是这个分配。
+  她写 `safety goggles must be worn in the lab **at all times**. that old machine in the hallway
+  only makes a noise **at times**, so you can just ignore it`。
+  ★ 两个块各就各位，一个都没串 ⇒ 命中。连对 1。
+  ★ 位置也对：`at all times` 落在句末（本条正文写死的默认位置），没有放句首漏逗号。
+  📋 顺带用对：`makes a noise`（`make a noise` 是固定块，⛔ ~~sound a noise~~）·
+  　 `must be worn`（规定语域的被动，与 at all times 同一个语域档）。
+
+---
+
+## #0340 设备的「故障」＝ failure ／ breakdown，不是 error
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
+
+**问题是什么**
+中文的「故障／出问题／坏了／缺陷」在英文里按**是谁出的问题**分开，一个都不能互换：
+```
+error       ＝ 【做错了一件事】             人、算法、系统的判断出错
+              an **error rate** ＝ 出错的比例（打字错误率、诊断错误率、模型错误率）
+failure     ＝ 【坏掉／不工作了】           设备、零件、系统的失效
+              a **failure rate** ＝ 故障率、失效率　`equipment failure` `power failure`
+breakdown   ＝ 【一次具体的抛锚／停机】     `the machine **broke down** twice last week`
+              `frequent **breakdowns**`（可数，说次数）
+fault       ＝ 【毛病所在】（英式常用）      `a **fault** in the wiring` `a design **fault**`
+defect      ＝ 【出厂就带的缺陷】            `a manufacturing **defect**` `the **defect rate**`
+```
+**判据（一句话）**：问一句「是它**做错了**，还是它**坏了**」——
+做错了 ⇒ error；坏了／不转了 ⇒ failure（比例、总体）或 breakdown（一次一次地数）。
+⚠️ 一个例外要记住：`human error` ＝ 人为失误（这里的确是 error，因为出错的是人）。
+　 而 `equipment failure` ＝ 设备故障 —— 两个块常常并排出现在同一句事故报告里。
+
+**成员出题账**
+```
+① failure rate    —— 2026-08-24 建号（她写成 error rate）⇒ ❌
+　　　　　　　　　 —— 2026-08-24 同日下午组3 第 7 题，同族的 `mechanical **failures**`
+　　　　　　　　　    在**没有点名、没有给词**的情况下自发写对（📋 留痕不推进）
+② breakdown       —— 未出过
+③ defect          —— 未出过
+④ fault           —— 未出过
+⑤ human error     —— 未出过（这个是"确实该用 error"的那一半，要和 ① 对照着测）
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地，且要有一次把 ① 和 ⑤ 摆在同一句里
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组1 第 8 题（顺带）。主考点 #0267 命中，选词失守。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "failure" "breakdown" "故障"
+   ⇒ 命中 #0302（1/3）· #0176（2/3）· #0251（1/3）
+   　 dedup "坏了" "设备" "机器" ⇒ 命中 #0059 #0267 #0047 #0176（全是例句里出现"设备/机器"）
+② 规则查  上面两条已覆盖（本条的规则关键词就是"故障"本身）
+③ 眼过    未跑（①已有命中）
+逐条否掉：
+  #0302（抽象名词配 real）—— 命中的是正文例句里的 `real failure`，那条讲的是 **real 这个
+    形容词的用法**，与 failure/error 的分工无关 ⇒ 问 1、问 2 都不成立。
+  #0176（cannot treat → beyond them）—— 命中的是历史记录里举的例子，那条是**整句改写**
+    （把否定从句换成 when a case is beyond them）⇒ 问 1 不成立。
+  #0251（this kind of ＋ 单数）—— 命中的是它中文触发点里的"机械故障"四个字，
+    那条管的是 kind 后面名词的单复数 ⇒ 与选词无关，问 1 不成立。
+  #0059 #0267 #0047 —— 都只是例句里出现了"设备/机器"，规则各不相干。
+反向验（§3.5 1.3）：举得出"一个对一个错"——她这句里 `slightly / considerably / fairly`
+  三个刻度词全挑对（#0267 ✅），同一句的 `error rate` 挑错 ⇒ 可独立取值 ⇒ 新建。
+⇒ 新建。
+```
+
+**我错在哪**
+她的：`the **error rate** of this batch of equipment is only slightly lower…`
+正确：`the **failure rate** of this batch of equipment is only slightly lower…`
+为什么算真错（不是"有更好的"）：error rate 说的是"这批设备**做错事**的比例"，
+failure rate 说的是"这批设备**坏掉**的比例"——**命题被换了一层**，
+按 §3.2 判 ❌ 的理由② 成立（中文「故障率」的意思没送到）。
+找法：**写完 ×× rate，回头问一句"这个率数的是【做错】还是【坏掉】"。**
+
+**中文触发点**
+这批设备的故障率比上一代低了一半，出厂缺陷也少多了；真正出事的那几次，事后查下来都是人为失误。
+（★ 三处分别用 failure ／ defect ／ human error）
+
+### 历史记录
+- 2026-08-24 ❌ D2 学习日 C3·组1 第 8 题（顺带）　建号
+  组1 第 8 题的主考点是 #0267（程度副词刻度，三个成员全命中 ✅）。同句选词失守：
+  中文「这批新设备的**故障率**」→ 她写 `the **error** rate`。
+  ⚠️ 四问自审（§5）跑过：
+  　① 真的错吗 —— `error rate` 本身是完全合法的英语块，但它的意思是"出错率"；
+  　　 用在"设备坏没坏"这件事上，母语者写的是 failure rate（`a low failure rate`
+  　　 `equipment failure` `power failure` 三个块都造得出）⇒ 是**选错词**不是"有更好的"。
+  　② 不是延续上一条判断（#0267 是刻度，本条是名词选词，互不相干）。
+  　③ 判的是**语义**层（不是形态、不是搭配松紧）。
+  　④ 档位 ❌（意思没送到），不是 ⚠️。
+  ★ 这一处不是我的中文题面把她推过去的：「故障率」的忠实直译落点就是 failure rate
+  　（§6 自译落点检查在出题前已跑过，落点自然）⇒ 这条是她的账，不是我的账。
+- 2026-08-24 📋 D2 学习日 C3·组3 第 7 题（顺带用对，不推进 streak）
+  ★★ **建号当天下午就拿到第一条正面证据。** 组3 第 7 题的主考点是 #0251，
+  　 题面里出现「那几种**机械故障**」——本条**没有被点名、也没有给词**。
+  她写 `those kinds of **mechanical failures** occur throughout the year`。
+  ★ 上午她把「故障率」写成 error rate（本条因此建号），下午遇到「机械故障」写的是 **failures**
+  　 ⇒ **当天讲过就能改**，缺的是压力下的自动化，不是规则。
+  ⚠️ 按 §3.2 同日口径，本条今天的净结果已由上午组1 的 ❌ 定下 ⇒ 本行只留证据、不推进 streak
+  　（连对 0 ／ 连错 1 维持）。
+  ⇒ 成员出题账：① failure rate 那一行补一句"2026-08-24 下午同族的 mechanical failures 自发写对"。
+
+---
+
+## #0341 「生产线」＝ production line，不是 product line —— 复合名词的前半按【它指什么】选
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
+
+**问题是什么**
+`product` 和 `production` 都对应中文的"产"，但**指的是两样完全不同的东西**：
+```
+product     ＝ 产出来的那个【东西】          a **product line** ＝ 一条**产品线**（一系列商品）
+                                            a new **product** ＝ 一款新产品
+                                            **product range** ＝ 产品种类
+production  ＝ 生产这件【事／过程／产量】    a **production line** ＝ 一条**生产线**（车间里那条）
+                                            **production costs** ＝ 生产成本
+                                            **production** rose by 10% ＝ 产量涨了 10%
+```
+**同一族里其余几个"产"，一起分清**
+```
+output      产量（数量，可数不可数都有）　`**output** doubled` · `steel **output**`
+capacity    产能（能产多少的上限）　　　　`the plant is running at full **capacity**`
+assembly line 装配线（production line 的一种，说汽车、家电时最常用）
+yield       （农业／投资的）产出、收益　　`crop **yields**` · `the **yield** on these bonds`
+```
+**判据（一句话）**：中文的"产"字后面跟的是**东西**还是**过程/数量**——
+东西 ⇒ product；过程或数量 ⇒ production／output／capacity。
+⚠️ 这条与 #0340（故障 error/failure）是**同一个机制的两个实例**：
+　 中文复合词按字面拼出来的那个英文复合词，**在英语里往往真的存在，只是指别的东西** ——
+　 所以拼出来之后读着"没毛病"，回读扫不出来。
+　 ⇒ 两条不合并（§3.5 问 3：会 failure rate 完全不保证会 production line），但**互相引用**。
+
+**成员出题账**
+```
+① production line   —— 2026-08-24 建号（她写成 product line）⇒ ❌
+② product line      —— 未出过（要和 ① 摆在同一句里对照测）
+③ output（产量）    —— 未出过　⚠️ 她 2026-08-24 同句写对了 `their output rose`（📋 不推进）
+④ capacity（产能）  —— 未出过
+⑤ assembly line     —— 未出过
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地，且要有一次把 ① 和 ② 摆在同一句里
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组2 第 6 题（顺带）。主考点 #0095 命中，选词失守。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "production" "product" "生产线"
+   ⇒ 命中 #0331（1/3）· #0008（1/3）· #0192（1/3），全是正文例句里恰好出现这两个词
+② 规则查  dedup "复合名词" "字面" "直译"
+   ⇒ 命中 #0038 #0268 #0250 #0258 #0263
+③ 眼过    未跑（①②都有命中）
+逐条否掉：
+  #0038（政府开支去年上升了 20%）—— 命中"复合名词"，但那条讲的是**复合名词前面加不加 the**
+    （冠词跟着定指性走）；本条讲的是**复合名词的前半该用哪个词** ⇒ 问 1 不成立。
+  #0250（存续用 survive/last 不用 live）· #0263（show ID 不是 prove identity）·
+  #0258（company/firm/business 分工）—— 都是**单个词**的中式直译，本条是**复合名词的前半**，
+    而且这三条各管一组固定词；一句话解释不掉四组 ⇒ 问 2 不成立。
+  #0268（believe sth / believe in sth）—— 动词论元，与选词无关 ⇒ 问 1 不成立。
+  #0340（故障 error/failure，今天刚建）—— **最近的一条，机制相同**：都是"字面拼出来的英文
+    复合词真的存在、但指别的东西"。但问 3 不成立：会 failure rate 完全不保证会 production line
+    （两组词毫无交集）⇒ 不合并，改成**互相引用**，并在两条正文里各写一句同机制说明。
+反向验（§3.5 1.3）：她 2026-08-24 同一句里 `their **output** rose` 写对（本族成员③），
+  `product line` 写错 ⇒ 可独立取值 ⇒ 新建。
+⇒ 新建。
+```
+
+**我错在哪**
+她的：`the employer introduced a new **product line**`
+正确：`the employer **added** a new **production line**`
+　　　（中文「新上了一条生产线」＝ 车间里多了一条产线；introduce a product line ＝ 推出一个新产品系列）
+为什么算真错（不是"有更好的"）：两句话说的是**两件不同的事**，
+按 §3.2 判 ❌ 的理由② 成立（中文的意思没送到）。
+找法：**写完带"产"的复合名词，回头问一句"我说的是【东西】还是【过程/数量】"。**
+
+**中文触发点**
+这家厂去年新上了两条生产线，产量涨了三成；但产品种类反而砍掉了一半。
+（★ 三处分别用 production line ／ output ／ product range）
+
+### 历史记录
+- 2026-08-24 ❌ D2 学习日 C3·组2 第 6 题（顺带）　建号
+  组2 第 6 题的主考点是 #0095（真词串台，三对高危词全对 ✅）。同句选词失守：
+  中文「新上了一条**生产线**」→ 她写 `a new **product line**`。
+  ⚠️ 四问自审（§5）跑过：
+  　① 真的错吗 —— `product line` 本身是完全合法的英语块，但它指的是**一系列商品**；
+  　　 造不出一个母语者句子让 `introduce a new product line` 表示"车间里加了一条产线"⇒ 选错词。
+  　② 不是延续上一条判断（#0095 是拼写串台，本条是选词，互不相干）。
+  　③ 判的是**语义**层。
+  　④ 档位 ❌（意思没送到），不是 ⚠️。
+  ★ 这一处不是我的中文题面推的：「生产线」的忠实直译落点就是 production line
+  　（§6 自译落点在出题前跑过）⇒ 她的账。
+  ★★ **两天之内第二次同机制**（08-23 故障率 → error rate ⇒ #0340；今天 生产线 → product line）
+  　 ⇒ 这个机制值得单独提醒：中文复合词按字面拼出来的英文复合词，**在英语里常常真的存在，
+  　 　 只是指别的东西**，所以读着没毛病、回读扫不出来 —— 和 #0095（拼成另一个真词）
+  　 　 是同一种"自查失效"，只是发生在**词组**这一层而不是**拼写**这一层。
+
+---
+
+## #0344 约数一族：`数字 ＋ or so` ／ about ／ roughly ／ some ／ just over
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
+
+**问题是什么**
+中文一个「大约／来／左右／差不多」，英文有六条路，**位置和语域都不一样**：
+```
+数字 ＋ **or so**          `ten years **or so**` · `fifty people **or so**`
+                          ★ 放在数字**后面**，最省；口语与一般写作都行
+                          ⛔ 不能放前面：~~or so ten years~~
+**about ／ around** ＋ 数字 `about ten years` · `around fifty people`　中性，作文默认档
+**roughly** ＋ 数字        `roughly 40%`　　　　　　　　　T1 数据描述常用
+**some** ＋ 数字           `**some** 200 delegates`　　　 正式／新闻体，**只配大整数**
+                          ⛔ ~~some 3 people~~（小数字不配）
+**approximately** ＋ 数字  `approximately 15%`　　　　　　最正式，T1 里最安全
+**just over ／ just under** ＋ 数字   `just over half` · `just under a third`
+                          ★★ 比"大约"更准，**T1 写百分比时首选** —— 它同时告诉读者方向
+```
+**判据（一句话）**：说不准 ⇒ about／around；要显得更准 ⇒ just over／just under；
+很正式（T1 正文）⇒ approximately／roughly；口语一档、放数字后面 ⇒ or so。
+⚠️ **语域**：`or so` 偏口语。T2 正文用一两次没问题，**T1 数据描述里优先 approximately／roughly／
+　 just over** —— 那是考官在数据题里期待的档。
+⚠️ 与 #0216（「可以写 one fifth 么」）不是一条：那条管**分数怎么写**，本条管**约数怎么标**。
+
+**成员出题账**
+```
+① or so           —— 2026-08-24 建号当天她**自发用对**（📋 不推进）
+② about / around  —— 未出过
+③ roughly         —— 未出过
+④ some ＋ 大整数   —— 未出过
+⑤ approximately   —— 未出过
+⑥ just over / just under —— 未出过
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地；成员① 她已自发用过 ⇒ 单点题优先测其他成员
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组3 第 4 题（主考点 #0335，命中 ✅）。她自发写出
+`for another ten years **or so**`（位置、用法全对），并当场点名：
+**「这个 or so 新建一个条目」**（§2③ 她点名要学）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "or so" "约" "大致"  ⇒ 命中 #0069 #0213 #0216 #0241（都是"约"字出现在数据类条目里）
+② 规则查  同上
+③ 眼过    ①有命中，未跑
+逐条否掉：
+  #0213（这个数字随后涨了近百倍…）· #0069（纽约市及五个区的人口变化）—— 都是**具体某一句 T1 的
+    数据表达**，改正动作是把某个数字/倍数写对 ⇒ 问 1 不成立。
+  #0216（「可以写 one fifth 么」）—— 管的是**分数的写法**（one fifth / a fifth / 20%），
+    本条管的是**约数的标法** ⇒ 问 1、问 2 都不成立；举得出"分数写对、约数写错"的句子 ⇒ 反向验通过。
+  #0241（F17 整句仿写）—— 整句级，不是词级 ⇒ 否。
+⇒ 新建。
+```
+
+**我错在哪**
+她这次**没有错** —— `for another ten years or so` 位置对、语域也合适（那句是一般叙述不是 T1 数据）。
+建号理由是 §2③。缺口在**其余五个成员**，尤其是 **just over／just under** ——
+档案里她写 T1 时从来没用过这一对，而那是百分比描述里最值钱的一档。
+找法：**写完一个约数，先问一句"这是 T1 数据还是一般叙述"——
+　　　T1 ⇒ approximately／just over；一般叙述 ⇒ about／or so。**
+
+**中文触发点**
+排队的大概有二十来个人，等了差不多四十分钟；报名的一共两百来个，其中刚过一半是本地人。
+（★ 四处分别用 or so ／ roughly ／ some ／ just over）
+
+### 历史记录
+- 2026-08-24 ③ 建号（她点名要学）D2 学习日 C3·组3 第 4 题
+  她自发写出 `these saplings will not become usable timber for another ten years **or so**`，
+  当场说「这个 or so 新建一个条目」。
+  ⇒ 建号时无对错，连对连错都是 0。
+  ★ 按 §6「她自发用过的块一律挂作文验」：成员① 不再出单点题，单点题只测 ②–⑥。
+
+---
+
+## #0345 「本质上／说白了／归根到底」一族 —— ⚠️ 是 **at** its core，不是 as
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F08
+
+**问题是什么**
+```
+**at its core**       `The problem, **at its core**, is one of funding.`
+                      ⚠️ 介词是 **at**　⛔ ~~as its core~~ ~~in its core~~
+**at heart**          `He is **at heart** a teacher.`（多用于人）
+**in essence**        `**In essence**, the two plans are the same.`　最书面
+**essentially**       `The two plans are **essentially** the same.`　最省，一个副词收掉
+**fundamentally**     `The system is **fundamentally** unfair.`　强调"根子上"
+**boil down to**      `It all **boils down to** money.`　口语一档（＝ come down to，见 #0336）
+```
+**判据（一句话）**：要一个**插入语** ⇒ at its core／in essence（前后加逗号）；
+要一个**副词** ⇒ essentially／fundamentally；要一个**谓语** ⇒ comes down to／boils down to。
+⚠️ 与 #0336 的分工（三问全否，不合并，互相引用）：
+```
+#0336 管的是**「所谓 X」**怎么说 —— 核心是 so-called 的贬义陷阱 ＋ what is known as
+#0345 管的是**「本质上／说白了」**这一层的块 —— 核心是 at its core 的那个介词
+问1 改正动作：一个是换名词短语（so-called → what is known as），一个是换介词（as → at）⇒ 否
+问2 一句话规则：一个讲语气（中性还是质疑），一个讲固定块的介词 ⇒ 否
+问3 会写 what is known as 完全不保证会写 at its core ⇒ 否
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组3 第 1 题（主考点 #0336，命中 ✅）。同句她写
+`flexible employment, **as its core**, simply comes down to…`——插入语的介词错了。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "at its core" "in essence" "本质"
+   ⇒ 命中 #0109（1/3，"本质"出现在历史记录里）· #0336（1/3，"in essence" 出现在历史记录里）
+② 规则查  同上
+③ 眼过    ①有命中，未跑
+逐条否掉：
+  #0336 —— 见上方"与 #0336 的分工"，三问全否 ⇒ 不合并。
+  #0109（这些疗法只是偶尔管用，已🎓）—— 命中的是历史记录里的"本质"二字，那条讲的是
+    "用一个动词 work 把'管用'说完" ⇒ 问 1 不成立。
+反向验（§3.5 1.3）：她 2026-08-24 同一句里 `what is known as` 与 `comes down to` 都用对（#0336 ✅），
+  `as its core` 用错 ⇒ 可独立取值 ⇒ 新建。
+⇒ 新建。
+```
+
+**我错在哪**
+她的：`flexible employment, **as its core**, simply comes down to…`
+正确：`flexible employment, **at its core**, simply comes down to…`
+　　　／ `flexible employment is **essentially** a way of transferring risk to individuals.`
+为什么算真错：`as its core` 在这个位置**不成立** —— as 后面要接一个名词做"作为…"，
+`as its core` 读成"作为它的核心"，句子讲不通。造不出三个母语者句子支撑它。
+找法：**写完"本质上"这个插入语，回头看介词 —— at its core，不是 as。**
+
+**中文触发点**
+这场争论说到底就是钱的问题；而这两个方案本质上是一样的。
+（★ 两处分别用 at its core ／ essentially）
+
+### 历史记录
+- 2026-08-24 ❌ D2 学习日 C3·组3 第 1 题（顺带）　建号
+  主考点 #0336 命中 ✅（what is known as ＋ comes down to 两处都落地），同句插入语失守：
+  `flexible employment, **as its core**, simply comes down to transferring risk on individuals`。
+  ⚠️ 四问自审（§5）跑过：
+  　① 真的错吗 —— 造不出母语者句子让 `as its core` 当"本质上"用；
+  　　 对照三条都成立：`The problem, at its core, is one of funding.` /
+  　　 `At its core, the plan is about cutting costs.` / `The dispute is, at heart, about money.`
+  　② 不是延续上一条判断（#0336 是"所谓"的说法，本条是插入语的介词）。
+  　③ 判的是**形态／搭配**层（固定块里的介词）。
+  　④ 档位 ❌（句子本身不成立），不是 ⚠️。
+  ★ 同句还有一处介词失守（`transferring risk **on**`）⇒ 归 **#0342**。
+  　 ⇒ 她这一句里**三个块**：what is known as ✅ · comes down to ✅ · at its core ❌ · risk to ❌
+  　 　 —— 会用的块用得很稳，介词是另一个通路。这与 #0329（do sth about）· #0334（weigh against）
+  　 　 今天的表现放在一起看，**介词是她当前最集中的一条缺口线**（session 教练侧已记）。
 
 ---
 
@@ -6537,7 +7472,7 @@ when · before · after · until · once · as soon as`
 > 语法全对但中文明写的一层没送到
 
 ## #0126 中文里明写的修饰层，写英文时丢掉
-状态：在池 ｜ 连对 0 ｜ 连错 5 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F10
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F10
 
 **问题是什么**
 **这是全库出现次数最多的一条，累计 8 次以上。**
@@ -6856,8 +7791,30 @@ when · before · after · until · once · as soon as`
 
 </details>
 
+### 历史记录（续 · 2026-08-24）
+- 2026-08-24 ✅ D2 学习日 C3·组3 第 3 题　**连错 5 归零 —— 本条第一次拿到干净的正面测量**
+  题面「这项补贴只对已经连续缴满两年的人有效，而且每人一辈子只能领一次。」——⛔ **零提示**。
+  ★ 提示档按 08-24 新判据（绕开测试）定：中文明写的修饰层，**任何正确译法都得把它们带上**
+  　 ⇒ 避不开 ⇒ 零提示。脚本卡片按连对数算的是"给词"，本场按新判据推翻（今天第三次推翻脚本）。
+  ★ 题面故意把修饰层堆密（七层），逐层核对她的译文：
+```
+只（对…有效）        only applies to　　　　　　　　　　✅
+已经                 have paid（现在完成体承接"已经"）　✅
+连续                 for two **consecutive** years　　　 ✅
+（缴）满两年         for two consecutive years　　　　　✅
+每人                 per person　　　　　　　　　　　　 ✅
+一辈子               in a lifetime　　　　　　　　　　　✅
+只（能领）一次       is **limited to** once　　　　　　　✅
+```
+  她写 `this subsidy **only applies to** individuals who **have paid into** the fund
+  **for two consecutive years**, and it **is limited to once per person in a lifetime**`。
+  ★★ **七层一层没丢** —— 本条连错 5（与 #0095 并列全档最高）之后第一次翻身，连对 1。
+  ★ 尤其 `is limited to once per person in a lifetime`：中文「每人一辈子只能领一次」四个限定，
+  　 她用一个 limited to ＋ 两个介词短语全部装下，没有写成四个从句。
+  🔵 **她当场点名要学**：`pay into`（原话「pay into 新建个条目」）⇒ 新建 **#0343**。
+
 ## #0331 时间名词也能带所有格：today's patients / this year's figures
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F10
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F10
 🔵 §2③ 她点名要学（2026-08-23，原话：「**时间所有格，我不会主动用，可以新建一个条目练习下**」）
 
 **问题是什么**
@@ -6908,6 +7865,24 @@ The production **of this factory** has seen no growth.   （主语 6 个词）
   反向验（§3.5 1.3）：举得出"一个对一个错"——08-22 她 `5 years working experience` 掉了撇号（R3），
     而她从来没写过 `today's` 这类（本条）⇒ 可独立取值 ⇒ 不合并。
   ⇒ 新建。建号时无对错，连对连错都是 0。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 1 题　**建号后第一次被测，一次命中**
+  题面「今天的病人比昨天少了将近一半，而这个月的总量还是高于去年同期。
+  （★ 三处时间限定都用所有格：today's ／ this month's ／ last year's）」
+  ★★ 她一口气交了**两版**，两版之间正好把本条的缺口画了出来：
+```
+v1  **today's** patient count dropped by nearly half compared to yesterday,
+    yet **the total volume for this month** remains higher than **the same period last year**
+    ⇒ 只有第一处走了所有格，后两处退回 of ／ 后置结构 —— 正是本条说的"她默认走第二条路"
+v2  **Today's** patient count dropped by nearly half from **yesterday's**,
+    yet **this month's** total remains higher than **last year's**
+    ⇒ 四处全是所有格，最后一个 `last year's` 还用了**省略式**（后面的名词整个省掉）
+```
+  ⇒ 按她的定稿 v2 判 ✅。连对 1。
+  ★★ v1 是本条最值钱的一条证据：**她自己能改对 ⇒ 不是不会，是不会主动想到。**
+  　 与建号那天她的原话「时间所有格，我不会主动用」完全对上 ⇒ 缺口在**触发**，不在**规则**。
+  ⚠️ v2 漏掉一个 `half`（写成 "dropped by nearly from yesterday's"），v1 里是有的 ⇒ 誊写掉词。
+  　 §3.2 的手滑豁免只管大小写与拼写，**掉词不豁免** ⇒ 本题不计入一字未改率（见战报）。
+  📋 顺带用对：`yesterday's` 是题面**没有点名**的第四处，她自己加上的。
 
 ---
 
@@ -7939,7 +8914,7 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
   　 `has barely fallen` 比 has shown little decline 少两个词）
 
 ## #0318 「正因为如此」一族：this is precisely why ／ For this very reason
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14
+状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F14
 
 **★ 2026-08-23 补进正文：这一族真正会塌的地方是【指示词 this】**
 ```
@@ -8029,6 +9004,33 @@ Nevertheless  最重，带"尽管如此还是"的让步味，一篇用一次就�
   📋 顺带用对：`simply stopped hiring **in-house**`（副词用法与连字符都对）·
   　 `the outsourcing market has grown so rapidly`（现在完成时对）。
   　 她当场点名「这个 in-house 可以建个条目练习下」⇒ 全档 grep `in-house` `in house` 零条目 ⇒ 新建 **#0333**。
+- 2026-08-24 ❌ D2 学习日 C3·组3 第 6 题　**连错 2 —— 同一个零件第三次掉**
+  题面「正因为如此，这几年不少学校索性把期中考试取消了。
+  （★「正因为如此」用 For this very reason 这个块）」
+  ★★ **这次是把整块逐字写进题面的**（§6「本场讲过的照出，练比测重要」，本条已错两次 ⇒ 改成练）。
+  她写 `**For the very reason**, quite a few schools have simply canceled midterm exams in recent years`。
+  ★ **this → the**：题面里写着的那个 this，抄的时候还是掉了。
+  ⚠️ 判 ❌ 的理由（§3.2 只看两条）：**① 句子本身有错**。
+```
+`for the very reason **that** …` ✅ 成立，但它**必须**后接 that 从句（"正是因为…这个原因"）
+`For the very reason, …` 独立成句 ⛔ 不成立 —— 造不出三个母语者句子
+对照三条都成立：`For this very reason, …` ／ `This is precisely why …` ／ `That is why …`
+⇒ 掉的不是一个可有可无的词，是让这个块能独立站住的那个指示词。
+```
+  ★★ **本条现在是全档最强的一条"给了也不一定用得对"的证据**：
+```
+08-22  零提示　　　⇒ 塌（写成 For this reason，少 very）
+08-23  零提示　　　⇒ 塌（两半都掉 this：It is precisely because of that … / for the very reason）
+08-24  **整块给了** ⇒ 仍然塌（For **the** very reason）
+⇒ 三次掉的是**同一个零件：指着上文的 this**。这已经不是"知不知道这个块"的问题，
+　 是这个块在她脑子里存的形状本身就少了 this。
+⇒ 处置改向：下次不再用中译英测它，改成**默写整块 ＋ 立刻造两个句子**（练），
+　 或按 §6 挂作文验；单点题已经连测三次、三次同一处，信息已经取尽。
+```
+  ⚠️ 这条也顺带回答了组2 遗留的那个问题（"给了词是不是就必须用对"）：**给了整块也不保证**。
+  　 ⇒ 她 08-24 定的"§2③ 建号的先教一遍再考"是对的方向，但**教一遍 ≠ 抄一遍**。
+  📋 顺带：`canceled` 是美式拼写（英式 cancelled）—— 两个都对，只要全篇一致，⛔ 不判错。
+  📋 顺带用对：`quite a few schools have simply canceled …`（现在完成 ＋ in recent years 配对正确）。
 
 ## #0319 条件连接词四档：if ＜ as long as ＜ provided that ＜ on condition that
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F14
@@ -8096,6 +9098,90 @@ unless            ＝ if not（反向）             `**unless** the policy chan
   ⇒ 命中，连对 2。
   📋 顺带用对：`viable`（"走得通"用一个词收掉，比 workable 更书面）· `submit their materials
   　 **on time**`（#0301 一族的时间块，📋 留痕不推进）。
+
+---
+
+## #0338 「相应地／同步地」一族：accordingly ／ correspondingly ／ in line with
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F14
+
+**问题是什么**
+中文的「相应地／同步／跟着一起调」在英文里不是一个词，按**它跟着谁变**分成三条路：
+```
+accordingly     ＝ 按照前面刚说的那件事去调整　　最常用，**放在动词后面或句末**
+                `The budget was cut, and the schedule was revised **accordingly**.`
+                `Prices went up; wages were adjusted **accordingly**.`
+correspondingly ＝ 相应地（配**数量／程度的一一对应**），常直接修饰形容词或比较级
+                `Larger classes mean **correspondingly** less attention for each student.`
+                `Output doubled, and costs rose **correspondingly**.`
+in line with    ＝ 与…保持一致（介词短语，后面必须接名词）
+                `Salaries will rise **in line with** inflation.`
+```
+⚠️ **两个陷阱**
+```
+① accordingly 还有第二个身份：放**句首**时它 ＝ therefore（因此），意思完全不同
+   `**Accordingly**, the meeting was postponed.`  ＝ 因此，会议推迟了
+   ⇒ 想说"相应地调整"就**别把它放句首**，放到句末最安全
+② 「同步」⛔ 不要直译成 synchronously —— 那是技术词（同步执行、同步传输）。
+   日常说的"同步调整／同时跟着变"走 accordingly ／ at the same time ／ in step with
+```
+**判据（一句话）**：句子里已经说了"A 变了"，现在要说"B 跟着 A 调" ⇒ **accordingly 放句末**；
+要强调"B 变的**幅度**跟 A 对得上" ⇒ correspondingly；要说"B 始终跟着 A 走" ⇒ in line with ＋ 名词。
+
+**成员出题账**
+```
+① accordingly（句末，"随之调整"）    —— 2026-08-24 建号当天她自发用对（📋 不推进）
+② accordingly（句首，＝ therefore）  —— 未出过
+③ correspondingly                   —— 未出过
+④ in line with ＋ 名词               —— 未出过
+⑤ ⛔ synchronously 的反例（不许用）  —— 未出过
+⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地；连对 0 ⇒ 题面直接给英文词
+```
+
+**怎么发现的**
+2026-08-24　D2 学习日 C3·组1 第 3 题。她在答 #0303 时**自发写出**
+`whether salaries should be reduced **accordingly**`，用得完全正确，
+然后当场点名：「**同步的，新建个条目**」（§2③ 她主动提出的那一类）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "accordingly" "correspondingly"        ⇒ **零命中**
+② 规则查  dedup "相应" "同步" "副词位置"
+   ⇒ 命中 #0109（1/3，"副词位置"命中于"我错在哪"）· #0059 · #0333 · #0055 · #0095 · #0197
+③ 眼过    list --fam F14（13 条）—— 因为②的命中全是弱命中，按规矩把整族标题过了一遍
+逐条否掉：
+  #0109（「管用」用一个动词 work 说完，🎓）—— 命中的是"副词位置"四个字，那条讲的是
+    `only occasionally work` 里频率副词摆哪儿；本条讲的是**选哪个词表示"相应地"**
+    ⇒ 问 1 不成立（一个是挪位置，一个是换词）。
+  #0333（in-house 形容词副词同形）—— 同上，命中在"位置"二字，问 1 不成立。
+  #0059 #0055 #0095 #0197 —— 命中的"同步"两个字出现在历史记录的叙述里（"同步改""同步重算"），
+    与规则无关。
+  整族 13 条眼过：#0223 At the same time→On the other hand · #0224 First · #0226 避免重复词 ·
+    #0227 反而 · #0228 承认 · #0261 even if/though · #0313 precisely because · #0314 While ·
+    #0315 让步开场 · #0316 Alternatively · #0317 转折四兄弟 · #0318 正因为如此 · #0319 条件四档
+    —— 全是**转折／让步／条件／顺序**的连接词，没有一条管"**跟着前面那件事一起调整**"这一层
+    ⇒ 问 2 不成立（要分两句话讲）。
+  ⚠️ 最近的一条是 #0223（At the same time）：它讲的是"**别用 At the same time 当转折**"，
+    考点是转折关系；本条的 accordingly 不是转折，是**因果之后的连带调整** ⇒ 不合并。
+⇒ 新建。
+```
+
+**我错在哪**
+她这次**没有错** —— `reduced accordingly` 用得完全正确，位置（动词后）也对。
+建号理由是 §2③（她点名要学）。缺口在**这一族的其余成员**，以及
+**accordingly 放句首会变成"因此"**这个陷阱 —— 她目前只走过①这一条路。
+找法：**写完「相应地」，先问一句"我是要说【跟着调】、【幅度对得上】、还是【始终一致】"。**
+
+**中文触发点**
+油价一涨，运费就跟着调；而这两年的工资涨幅基本和物价保持一致。
+（★ 两处分别用 accordingly ／ in line with）
+
+### 历史记录
+- 2026-08-24 ③ 建号（她点名要学）D2 学习日 C3·组1 第 3 题
+  她自发写出 `As for whether salaries should be reduced **accordingly**`（位置、词形都对），
+  当场说「同步的，新建个条目」。
+  ⇒ 建号时无对错，连对连错都是 0。
+  ★ 出题纪律：本条是**词表型**，一题必须让 ≥2 个成员落地（§3.5 第 3.5 步）；
+  　 且按 §6「她自发用过的块一律挂作文验」，成员① 不再出单点题，只测 ②③④。
 
 ---
 
@@ -8427,7 +9513,9 @@ U · 待排序　0/2
 </details>
 
 ## #0267 fairly 一族：程度副词的强度刻度与语域
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F15
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-24 ｜ 族 F15
+⚠️🔍 **REVIEW 池**（2026-08-24 毕业。连对 2 里有一次是 08-23 的 ◎✅ ⇒ 按 §3.3 进池：
+　 那一次 `rather` 这个成员一次都没被行使过。存好的题面在成员账下方。）
 🔴 **2026-08-23 她推翻教练的 ❌，异议成立 ⇒ 改判 ◎✅**（详见历史记录里的 §4.7 更正块）
 　 连带定下本条的**测量边界**：
 ```
@@ -8442,15 +9530,19 @@ U · 待排序　0/2
 **成员出题账**
 ```
 📒 2026-08-23 她定的新纪律：出一次补一行
-slightly       —— 未出过
+slightly       —— 2026-08-24 题面「只低了一点点」⇒ ✅（写 only slightly lower，配可量化的小差别）
 somewhat       —— 2026-08-22 题面「稍微差了一些」⇒ ✅（她写 somewhat，弱档挑得准）
                   2026-08-23 题面「稍微大了一点」⇒ ◎✅（她写 a bit，正确英语，语域问题不在这测）
-fairly         —— 未出过
+fairly         —— 2026-08-24 题面「还算简单」⇒ ✅（写 fairly simple —— 落在"好的一面"，
+                  硬边①「fairly 只配好的一面」一次就守住了）
 rather         —— 2026-08-23 题面「相当难」⇒ ◎✅（她写 quite challenging，完全成立）
+                  ⚠️ **本成员到毕业为止一次都没被真正行使过** ⇒ 这是本条进 REVIEW 池的唯一原因
 quite          —— 她默认就用这个，**而且在可分级形容词前它是对的**，不需要改
-considerably   —— 未出过
+considerably   —— 2026-08-24 题面「高出很多」⇒ ✅（写 considerably higher，配比较级）
 remarkably     —— 2026-08-22 ⇒ ❌ 冲到刻度顶端（这次的 ❌ 站得住，不改判）
 ⇒ 下次直接把词写进题面：「★ 用 rather」「★ 用 somewhat」（她 08-23 定）
+⇒ 2026-08-24 毕业时的覆盖：6 个成员里 4 个真正行使过（slightly／somewhat／fairly／considerably），
+　 rather 只有 ◎✅、语域那一半只能挂作文验 ⇒ 见 review_pool.md 里存好的题面
 ```
 
 **问题是什么**
@@ -8597,6 +9689,30 @@ somewhat / rather / considerably 的记录，说明她表示程度时只有 fair
   　sessions/2026-08-23.md 组2 的判定表、diff 表A、战报（三处已同步重算）。
   ⚠️ **同句 `workload` 缺冠词那一处仍然是错的**（#0074 ❌，与本条无关，不受本次改判影响）——
   　 这也正是她那句话的意思：「除了 the 不太对，其他翻译的对」。她自己划的边界是准的。
+- 2026-08-24 ✅ D2 学习日 C3·组1 第 8 题　**连对 2 ⇒ 🎓 毕业**（三个未出过的成员一次全落地）
+  题面「这批新设备的故障率只比老机器低了一点点，维护费用却高出很多；不过操作起来还算简单。
+  （★ 三处程度分别用 slightly ／ considerably ／ fairly）」——词表型，按 §3.5 直接给词。
+  她写 `the error rate … is only **slightly** lower that that of the old machines, yet the
+  maintenance cost is **considerably** higher; on the plus side, they are **fairly** simple to operate`。
+  ★ 三档各归各位：
+```
+slightly      配可量化的小差别（"只低了一点点"）　　　　　　　　　　　✅
+considerably  配比较级／变化量（"高出很多"）　　　　　　　　　　　　✅
+fairly        配"好的一面"（硬边①：fairly good ✅ ／ fairly difficult ⚠️）
+　            她落在 simple 上 ⇒ **硬边① 一次就守住了**　　　　　　　✅
+```
+  ⇒ 连对 2，**毕业**。本条**刻度**那一半的四个成员已全部行使过；
+  　 `rather` 只有 08-23 的 ◎✅、**语域**那一半按 08-23 定的测量边界只能挂作文验
+  　 ⇒ 按 §3.3 打 ⚠️🔍 REVIEW 池标记（连对 2 里有一次是 ◎✅）。
+  ⚠️ 同句两处与本条无关的：
+  　 · `the **error** rate` —— 中文是「**故障**率」。error rate ＝ 出错的比例（机器做错事），
+  　   failure rate ＝ 坏掉的比例 ⇒ 命题被换了一层 ⇒ 归 **#0340**（今日新建）。
+  　 · `**they** are fairly simple` —— 想指的是单数的 `this batch of equipment`，
+  　   而句中唯一的复数先行词是 `the old machines`（正好指反）⇒ 指代不清。
+  　   句子本身不违语法、读者也能还原 ⇒ 按 §5 四问档位是 ⚠️ 不是 ❌，只进更好版。
+  📋 `silighly` 手滑拼写豁免。`lower **that** that of` 判**手滑**不判选词：
+  　 后面紧跟的就是 `that of`，属叠写（dittography），不是 than／that 分不清 ⇒ §3.2 豁免。
+  📋 `on the plus side` 属语域（偏口语），按 §6「语域类中译英单点题测不了」**不判**，只进更好版。
 
 ## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F15
