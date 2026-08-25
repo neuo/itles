@@ -5,10 +5,13 @@
 她 2026-08-23 定：抽题与统计交给脚本，教练只读脚本吐出来的清单 + 抽中的那几条条目，
                   不再整档读 problems.md（15.2 万 tokens → 0.7 万）。
 
-⛔ 本脚本【绝不写任何内容文件】。它只：
+⛔ 本脚本【一个字的内容都不产生】。行文全部由教练手写，脚本只碰位置和算术：
      · 读  problems.md / graduated.md / review_pool.md / log.md
-     · 写  drawn_review.log（append-only 出题流水，与 pick_question.py 的 drawn.log 同款）
-   所有条目内容、session、战报仍然全部手工写（SKILL §0.3 不变）。
+     · 写  drawn_review.log（append-only 出题流水）
+     · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
+            ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
+          ⛔ 不改 🎓／状态／条目正文／成员出题账 —— 那些是判断，仍然手写（SKILL §0.3）
+   session、战报、条目正文仍然全部手工写。
 
 子命令
   出题（SKILL §4① §6 §8）—— 开场跑一次，当天全部候选一次分完组
@@ -18,6 +21,8 @@
     python3 drill.py dedup "works" "workers" [--fam F05] [--limit 12] [--no-history]
     python3 drill.py list  [--fam F04] [--pool] [--state 在池]
     python3 drill.py show  #0059 [#0071 …]
+  记账（SKILL §4③d ／ §3.1 契约⑪）—— 判定行写好后一次落盘，⛔ 不再手写插入位置
+    python3 drill.py append --file rows.md --date 2026-08-25 [--dry-run]
   统计与校验（SKILL §0.3 §0.4 §4⑥）
     python3 drill.py stats [--brief]
     python3 drill.py check [--changed | --all] [--quiet]
@@ -1009,6 +1014,10 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "缺「### 历史记录」节"))
     elif not e.history and not e.never_judged:
         P.append(("ERROR", "历史记录节是空的（从未被判定过的写 `- （从未被判定过）`）"))
+    elif e.history and e.never_judged:
+        P.append(("ERROR",
+                  f"已有 {len(e.history)} 条历史行，却还留着 `- （从未被判定过）` —— "
+                  f"第一次判定时必须把那一行顶掉"))
     for h in e.history:
         hard = (e.src, h.lineno) in touched_lines or h.date >= STRICT_FROM
         loc = f"L{h.lineno}"
@@ -1086,6 +1095,263 @@ def cmd_check(args):
 
 
 # ══════════════════════════════════════════════════════════════════════════
+#  append —— 把教练写好的历史行放进 problems.md 的正确位置（她 2026-08-25 定）
+#
+#  ⚠️ 全脚本唯一一处【写内容文件】的地方，边界写死：
+#     · 脚本 ⛔ 不产生任何一个字的内容 —— 行文全部由教练在 rows 文件里写好
+#     · 脚本只做两件机器活：① 插到哪一行  ② 连对／连错／上次 三个数重算
+#     · 判断仍然全在教练手上：⛔ 不自动改 🎓、⛔ 不自动改状态、⛔ 不碰条目正文
+#  理由（08-25 实测）：那天组2 的记账 7.3 分钟里有 4.2 分钟是位置返工 ——
+#  成员出题账被写进历史行里、#0343 正文改了三遍。位置和算术是机器规则，
+#  让 LLM 每次重推一遍 ＝ 每次重犯一遍。
+# ══════════════════════════════════════════════════════════════════════════
+RE_ROWHEAD = re.compile(r"^#(\d{4})[ 　]+(.*)$")
+BAD_IN_BODY = ("**成员出题账**", "### 历史记录") + tuple(SECTION_HEADS)
+
+
+def parse_rows_file(path):
+    """rows 文件 → [dict(num, symbol, occasion, body, lineno)]，格式见 SKILL §3.1 契约⑪。
+
+        #0292 ✅ D3 学习日 C3·组2 第 1 题（**主考点**）
+          题面「…」
+          ⇒ …
+        #0270 ◎✅ …
+          …
+    · 块头顶格：`#NNNN` ＋ 空格 ＋ 符号 ＋ 场合
+    · 块体 = 直到下一个块头／EOF 的全部行（允许顶格 ``` 围栏，围栏内不认块头）
+    · 块体第一个非空行必须缩进 —— 与 check 的「内容行」同一条口径
+    """
+    if not os.path.exists(path):
+        sys.exit(f"⛔ rows 文件不存在：{path}")
+    lines = open(path, encoding="utf-8").read().splitlines()
+    blocks, cur, fence = [], None, False
+    for i, raw in enumerate(lines):
+        if raw.lstrip().startswith("```"):
+            fence = not fence
+        m = None if fence else RE_ROWHEAD.match(raw)
+        if m:
+            sym, occ, _, bold = parse_symbol(m.group(2))
+            # ⛔ occ 是 parse_symbol 归一化过的（全角空格被压成半角），只能拿去比对，
+            #    ⛔ 不许拿去回写。回写用 raw_occ —— 教练写的字节原样保留。
+            rest = m.group(2)
+            raw_occ = rest[len(sym):] if sym and rest.startswith(sym) else ""
+            cur = dict(num="#" + m.group(1), symbol=sym, occasion=occ, raw_occ=raw_occ,
+                       bold=bold, body=[], lineno=i + 1, head=raw)
+            blocks.append(cur)
+            continue
+        if cur is None:
+            if raw.strip():
+                sys.exit(f"⛔ rows L{i+1}：文件开头有不属于任何块的内容「{raw.strip()[:30]}」")
+            continue
+        cur["body"].append(raw)
+    return blocks
+
+
+def rewrite_status(line, ok, bad, last):
+    out = re.sub(r"(连对[ 　]*)\d+", lambda m: m.group(1) + str(ok), line, count=1)
+    out = re.sub(r"(连错[ 　]*)\d+", lambda m: m.group(1) + str(bad), out, count=1)
+    out = re.sub(r"(上次[ 　]*)(\S+)", lambda m: m.group(1) + last, out, count=1)
+    return out
+
+
+def cmd_append(args):
+    today = args.date or date.today().isoformat()
+    if not re.fullmatch(r"20\d\d-\d\d-\d\d", today):
+        sys.exit(f"⛔ --date 要写成 YYYY-MM-DD，收到「{today}」")
+
+    blocks = parse_rows_file(args.file)
+    if not blocks:
+        sys.exit("⛔ rows 文件里一个块都没有")
+
+    ents = load_all()
+    by_num = {}
+    for e in ents:
+        by_num.setdefault(e.num, []).append(e)
+
+    # ── 校验：⛔ 一条不过就整批不写（no 兜底、no 部分成功）─────────────────
+    errs, warns = [], []
+    seen = {}
+    for b in blocks:
+        tag = f"rows L{b['lineno']} {b['num']}"
+        if b["num"] in seen:
+            errs.append(f"{tag} 同一批里重复出现（上一次在 L{seen[b['num']]}）")
+        seen[b["num"]] = b["lineno"]
+
+        if b["symbol"] is None:
+            errs.append(f"{tag} 切不出符号：「{b['head'][:40]}」"
+                        f" —— 符号必须紧跟编号，且是 §3.2 表里的那几个")
+        elif b["symbol"] in LEGACY:
+            errs.append(f"{tag} 光杆 ◎ —— §3.2 起必须写成 ◎✅ 或 ◎−")
+        if b["bold"]:
+            errs.append(f"{tag} 符号加粗了 —— §3.2 符号紧跟日期、不加粗")
+
+        first = next((l for l in b["body"] if l.strip()), None)
+        if first is None:
+            errs.append(f"{tag} 只有块头没有内容行（§3.1「记录不合格」）")
+        elif first[:1] not in (" ", "\t", "　"):
+            errs.append(f"{tag} 第一个内容行没缩进：「{first[:30]}」")
+        for k, l in enumerate(b["body"]):
+            for bad in BAD_IN_BODY:
+                if l.strip().startswith(bad):
+                    errs.append(f"{tag} 块体第 {k+1} 行是「{bad}」—— "
+                                f"节标题／成员出题账⛔不许写进历史行，它们挂在条目正文")
+
+        got = by_num.get(b["num"])
+        if not got:
+            errs.append(f"{tag} 全档查无此编号")
+            continue
+        if len(got) > 1:
+            errs.append(f"{tag} 编号重复出现在 {[f'{e.src}:{e.start}' for e in got]}")
+            continue
+        e = got[0]
+        b["entry"] = e
+        if e.src != "problems.md":
+            errs.append(f"{tag} 在 {e.src} 里 —— ⛔ 已归档的条目不许再 append")
+        elif e.state not in ("在池", "🎓"):
+            errs.append(f"{tag} 状态是「{e.state}」—— ⛔ 退池／并入的条目不再记判定")
+        elif e.status_lineno is None:
+            errs.append(f"{tag} 找不到状态行")
+        elif not e.history and not e.never_judged:
+            errs.append(f"{tag} 这条既没有历史行、也没有 `- （从未被判定过）` 占位行 —— "
+                        f"档案坏了，先补好（`drill.py check` 也会报）")
+        elif e.never_judged and e.history:
+            errs.append(f"{tag} 这条既有 {len(e.history)} 条历史行、又留着 "
+                        f"`- （从未被判定过）` —— 先把那一行删掉再 append（⛔ 脚本不代删）")
+        else:
+            b["pre_err"] = {m for lv, m in check_entry(e, set(), None) if lv == "ERROR"}
+            same = [h for h in e.history if h.date == today]
+            if same:
+                warns.append(f"{tag} 该条今天已有 {len(same)} 行"
+                             f"（{same[-1].symbol} {same[-1].occasion[:22]}）"
+                             f" —— §3.2 同日只结算一次，这一行只留痕不推进")
+
+    if errs:
+        print("═" * 74)
+        print(f"drill.py append · ⛔ 校验没过，{len(errs)} 处 —— 一个字都没写")
+        print("═" * 74)
+        for x in errs:
+            print("ERROR  " + x)
+        print("═" * 74)
+        return 1
+
+    # ── 组装：从后往前插，免得行号错位 ────────────────────────────────────
+    src = open(PROBLEMS, encoding="utf-8").read()
+    lines = src.split("\n")
+    plan = []
+    for b in blocks:
+        e = b["entry"]
+        lo, hi = e.start - 1, (e.end or len(lines))
+        # 「从未被判定过」占位行：只有【真的一条历史行都没有】时才顶掉它。
+        # 既有历史行又留着那一行 ⇒ 上面已经拦下来了，不会走到这儿。
+        drop = None
+        if e.never_judged and not e.history:
+            for i in range(lo, hi):
+                if lines[i].strip() == "- （从未被判定过）":
+                    drop = i
+                    break
+        if drop is not None:
+            at = drop + 1
+        else:
+            # 插入点 ＝ 条目最后一个非空行之后 —— 这是档案既有的约定（08-25 回放实证：
+            # 11 条全部字节一致）。`### 历史记录` 之后挂着的 `<details>原始行` 迁移块、
+            # `---` 分隔线、`> 🗑 撤销说明` 都留在原处，新行接在整条之后。
+            # ⚠️ 换约定（比如"插到 </details> 之前"）会动到全档 97 条的排版 —— 要改先问她。
+            at = max((i for i in range(lo, hi) if lines[i].strip()), default=hi - 1) + 1
+        row = f"- {today} {b['symbol']}{b['raw_occ']}".rstrip()
+        plan.append(dict(e=e, at=at, drop=drop, block=[row] + b["body"], b=b))
+
+    for p in sorted(plan, key=lambda x: -x["at"]):
+        body = [l for l in p["block"]]
+        while body and not body[-1].strip():
+            body.pop()
+        lines[p["at"]:p["at"]] = body
+        if p["drop"] is not None:
+            del lines[p["drop"]]
+
+    new = "\n".join(lines)
+    if args.dry_run:
+        print("═" * 74)
+        print(f"drill.py append --dry-run · {len(plan)} 条 · {today}（⛔ 没写盘）")
+        print("═" * 74)
+        for p in sorted(plan, key=lambda x: x["at"]):
+            print(f"  {p['e'].num}  插到 problems.md L{p['at']}  "
+                  f"（{len(p['block'])} 行）{'· 顶掉「从未被判定过」' if p['drop'] is not None else ''}")
+            print(f"      {p['block'][0][:88]}")
+        for w in warns:
+            print("WARN   " + w)
+        print("═" * 74)
+        return 0
+
+    open(PROBLEMS, "w", encoding="utf-8").write(new)
+
+    # ── 重算三个数（连对／连错／上次）────────────────────────────────────
+    ents2 = parse_file(PROBLEMS, "problems.md")
+    idx = {e.num: e for e in ents2}
+    lines = open(PROBLEMS, encoding="utf-8").read().split("\n")
+    moved = []
+    for b in blocks:
+        e2 = idx[b["num"]]
+        ok, bad = e2.recount()
+        last = e2.last_row_date() or "—"
+        i = e2.status_lineno - 1
+        before = lines[i]
+        lines[i] = rewrite_status(before, ok, bad, last)
+        moved.append((b["num"], e2.state, ok, bad, last, before != lines[i]))
+    open(PROBLEMS, "w", encoding="utf-8").write("\n".join(lines))
+
+    # ── 自查：写完立刻按 check 的规矩硬查这几条，出 ERROR 就整批回滚 ──────
+    ents3 = parse_file(PROBLEMS, "problems.md") + parse_file(GRADUATED, "graduated.md")
+    all_nums = {e.num for e in ents3}
+    idx3 = {e.num: e for e in ents3 if e.src == "problems.md"}
+    hard = set()
+    for b in blocks:
+        e3 = idx3[b["num"]]
+        for h in e3.history:
+            if h.date == today:
+                hard.add(("problems.md", h.lineno))
+    # 只对【append 自己引入的新 ERROR】回滚。
+    # ⛔ 「连对已到 2 该改 🎓」「🎓 吃到 ❌ 该降级」不算错 —— 那是 append 正常的结果、
+    #    是留给教练的判断（脚本⛔不代做），下面会当 ★ 待办打出来；`check --changed`
+    #    仍然会报它，直到教练亲手改掉状态。
+    TODO = ("连对已到 2",)
+    bad_rows = []
+    for b in blocks:
+        e3 = idx3[b["num"]]
+        pre = b.get("pre_err", set())
+        for level, msg in check_entry(e3, hard, all_nums):
+            if level != "ERROR" or msg in pre or msg.startswith(TODO):
+                continue
+            bad_rows.append((b["num"], msg))
+    if bad_rows:
+        open(PROBLEMS, "w", encoding="utf-8").write(src)
+        print("═" * 74)
+        print(f"drill.py append · ⛔ 写完自查不过，{len(bad_rows)} 处 —— 已整批回滚")
+        print("═" * 74)
+        for n, m in bad_rows:
+            print(f"ERROR  {n}  {m}")
+        print("═" * 74)
+        return 1
+
+    print("═" * 74)
+    print(f"drill.py append · {len(plan)} 条已写进 problems.md · {today} · 自查 ERROR 0")
+    print("═" * 74)
+    for num, state, ok, bad, last, ch in moved:
+        e3 = idx3[num]
+        flag = ""
+        if state == "在池" and ok >= 2:
+            flag = "   ⇒ ★ 连对已到毕业线 2，§3.3 要你原地改 🎓（脚本⛔不代改）"
+        elif state == "🎓" and bad >= 1:
+            flag = "   ⇒ ★ 🎓 条目吃到 ❌，§3.3 要你决定是否降级回池（脚本⛔不代改）"
+        print(f"  {num}  {state}  连对 {ok} ｜ 连错 {bad} ｜ 上次 {last}{flag}")
+    for w in warns:
+        print("WARN   " + w)
+    print("─" * 74)
+    print("下一步：`drill.py check --changed` 复核全部改动（§0.3）")
+    print("═" * 74)
+    return 0
+
+
+# ══════════════════════════════════════════════════════════════════════════
 def main():
     ap = argparse.ArgumentParser(description="写作 drill 线只读机械工具")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -1127,6 +1393,12 @@ def main():
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")
     p.set_defaults(func=cmd_stats)
+
+    p = sub.add_parser("append", help="把写好的历史行插进 problems.md 并重算三个数")
+    p.add_argument("--file", required=True, help="rows 文件，格式见 SKILL §3.1 契约⑪")
+    p.add_argument("--date", help="判定日期 YYYY-MM-DD（默认今天）")
+    p.add_argument("--dry-run", action="store_true", help="只打计划，⛔ 不写盘")
+    p.set_defaults(func=cmd_append)
 
     p = sub.add_parser("check", help="格式校验")
     p.add_argument("--changed", action="store_true", help="只硬查本次改动的条目")

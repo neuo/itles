@@ -71,6 +71,27 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 2026-08-24 组2 第 1 题　`these two **set** of data`      → `two **sets** of data`
 2026-08-24 组2 第 4 题　`despite lower **interest rate**` → `lower **interest rates**`
    ★ 同一天的组2 第 2 题（点名题）她两处复数全对 ⇒ 又一次"点名时对、顺带时错"
+2026-08-25 组1 第 5 题　`the carbon dioxide **emission** of these old machines` → `**emissions**`
+2026-08-25 组2 第 4 题　`the failure **rates** of this batch of equipment **is** 30% lower`
+   → `the failure **rate** … **is**`（更自然）／`the failure rates … **are** … **those** of`
+   ★ 这是 **#0048 的形状**（主语跨过 of 短语，谓语被最近的单数名词 equipment 拉走），
+     #0048 已于 08-24 由她裁定退池 ⇒ 处置全部落在这条 R2
+   ⚠️ 不归 #0055（🎓）：#0055 明写「主语**紧挨**谓语」那一类，本例隔着一个 of 短语 ⇒ **不降级**
+   ★ 同组第 5 题她写 `a considerable number of residents **are**`（a number of ＋ 复数谓语）**对**
+     ⇒ 又是"点名的那句对、顺带的那句错"
+   ★ 「碳排放」这个意义上 emissions 永远复数（`cut carbon emissions` 是固定说法）
+   ★ 本组另外 12 处名词的数与 4 处主谓一致**全部正确**（promotion prospects have ／
+     turnover remains ／ the rewards are ／ two or three uncertainties ／ two production lines ／
+     all delivery risks ／ the increased costs ／ small businesses ／ districts …）
+     ⇒ 命中率 1/13 —— 与 08-22 起的形状一致：**整体在守，个别短名词漏**
+```
+
+**★ 2026-08-25 一条观察（写给下次扫的人）**
+```
+今天唯一漏掉的这一处，出现在**同一句里同时处理另外两件事**的时候
+（主考点是短语动词位置 #0274，同句还丢了两个修饰层 #0126）。
+⇒ R2 的扫描重点不是"哪个名词"，是"**哪一句最忙**" —— 一句里塞了两个以上考点时，
+　 名词的 -s 是最先掉的那一格。扫的时候先挑本组最长、最忙的两句，从那里开始。
 ```
 
 ---

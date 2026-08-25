@@ -20,7 +20,7 @@
 
 ---
 
-## 当前池内 11 条
+## 当前池内 14 条
 
 > 📝 **2026-08-24 更正**：上面这行原写「当天新增 5 条（… #0267 …）」——
 > #0267 那天只是同一个机制的**实例**（◎✅ 让它到连对 1），当天并**没有进池**。
@@ -279,4 +279,98 @@
                                     ⇒ 按 §3.3「🎓 后再犯回池」**毕业撤销、回在池**，不在本池
                                     ★★ 这条是本机制的第一个战果：没有这个标记，
                                        它会带着一个假毕业出池、再也抽不到
+```
+
+### #0270 · 工资／收入这一族：wage / salary / pay / income / earnings（F08）
+```
+毕业日        2026-08-25（D3 学习日 C3·组2 第 2 题，靠 ◎✅ 凑到连对 2）
+◎✅ 那次的原句 the national average wage has grown by a mere 3% over the last five years
+              （题面点名的是 earnings）
+为什么算对    ① 句子本身没错 —— `the national average wage` 是标准英语，
+                 母语者句：`The national average wage rose by 2% last year.` ·
+                 `He earns well below the national average wage.`
+              ② 中文「全国的平均工资过去五年只涨了 3%」的意思完全送到
+              ⇒ §3.2 两条判错理由都不成立 ⇒ 算对
+没被行使的是  ★ **earnings 这个成员一次都没测到**（08-23 那次测的是 base salary / commission /
+              overtime pay，08-20 那次是 the minimum wage）
+              · disposable income · pay gap · lifetime earnings 一次都没出过
+              · wage 与 salary 的正面对照（按小时 vs 按月）从未在同一句里摆开
+题面为什么白测 「平均工资」在英语里 `average wage` 与 `average earnings` **两条路都标准**，
+              中文逼不出 earnings。
+              ⇒ earnings 的独占语义是「劳动＋投资的**全部**进账」，中文必须写到这一层。
+★ 她当场问的一句（已在条目里逐字答过）：「**没有 get 到为啥要用 earnings**」——
+　 答案是**这一句本来就不非用 earnings 不可**，是我的中文写松了。真正的分界在统计口径：
+　 句子里出现 average / total / gross / net / rise by x% 且指"挣到手的全部" ⇒ earnings 更准。
+
+存好的新题面
+　一个人一辈子挣到的总额，很大程度上取决于他二十几岁时进了哪个行业；
+　而按小时计酬的那部分人，收入差距被拉得最开。
+　（★ 三处分别用 earnings ／ wage ／ income 这三个词）
+```
+
+### #0317 · 转折四兄弟：But ＜ Yet ＜ However ＜ Nevertheless（F14）
+```
+毕业日        2026-08-25（D3 学习日 C3·组2 第 6 题，靠 ◎✅ 凑到连对 2）
+◎✅ 那次的原句 raw material prices have indeed fallen, yet sales have not risen;
+              however, the company has no intention of modifying its pricing strategy so far.
+              （题面要求两个词都放在**句首**）
+为什么算对    ① `X, yet Y` 是标准并列结构，造得出三个母语者句子：
+                 `It was cold, yet she went out.` / `The plan is simple, yet effective.` /
+                 `He tried, yet failed.`
+              ② 意思完全送到
+              ⇒ 算对；而且 However 那半 `; however, …` 逗号在、前面是分号不是逗号，
+                 条目「三条硬边」的①② 都命中了
+没被行使的是  ★ **「Yet 放句首、后面不加逗号」这一格** —— 建号至今两次出题都没逼出来
+                 （08-22 她整族绕开走了 even though；08-25 她写成句中并列）
+              · But「书面里不放句首」从未测过
+              · Nevertheless 的让步味从未测过
+题面为什么白测 中文「原材料价格确实降了，**销量却**一直没起来」是**一个逗号连着的下半句**，
+              忠实翻译最自然就是 `…, yet …`，句首那条路根本没有落脚位置。
+              ⇒ 改法：把转折那半句**独立成一个中文句子**。
+⚠️ 另记一笔教练的账：条目正文「三条硬边」的③ 是「**一段里只转一次**」，
+　 而 08-25 的题面**要求她连用两个转折词** —— 题面自己违反了条目的建议。新题面只留一个。
+
+存好的新题面
+　这两年原材料价格确实一路在降。销量却始终没有起色。公司到现在也没打算调价。
+　（★ 第二句必须用 Yet 起头；★ 三句话各自独立，每句都要有自己的句号）
+```
+
+### #0273 · dare 作情态动词：dare not do，不加 to 也不加 s（F01）
+```
+毕业日        2026-08-25（D3 学习日 C3·组3 第 4 题，靠 ◎✅ 凑到连对 2）
+◎✅ 那次的原句 but a handful actually **dare to** hand in their resignation
+              （题面只给 lemma `dare`，加不加 to 留给她）
+为什么算对    ① 实义动词 `dare to do` 是完全标准的现代英语，母语者句：
+                 `Few dare **to** speak out.` / `She didn't dare **to** ask.` /
+                 `Who dares **to** challenge him?`
+              ② 「敢辞职的没几个」意思完全送到
+              ⇒ §3.2 两条判错理由都不成立 ⇒ 算对
+没被行使的是  ★ **情态 dare 本身（dare not do／不加 to 不加 s）—— 建号至今一次都没被行使过**
+              · 疑问句里的情态 dare（`How dare you …`）从未出过
+              · `I dare say` 这个固定块从未出过
+
+⚠️⚠️ **这一条恐怕修不好题面就了事** ——
+```
+情态 dare（dare not / dare he）与实义 dare（dare to do / doesn't dare to do）在现代英语里是
+**两条并行的合法路**，实义那条还更常见。
+⇒ 任何一个中文句子，只要能用情态 dare 翻，就一定也能用实义 dare to 翻。
+⇒ 中译英单点题**几乎不可能**把实义那条堵死 —— 除非题面直接写「不许加 to」，
+　 而 §6 明令禁止这种负向提示（她换个结构就合法了）。
+⇒ 08-22 那次她甚至整族绕开（写成 even though 的让步从句），08-25 这次走实义 dare to。
+　 两次都不是"不会"，是**这条路本来就通**。
+```
+
+建议（等她 review 时定，⛔ 教练不自行改）
+```
+方案 A（推荐）改走 #0318 那条路：【默写「dare not do」这个块 ＋ 立刻造两个句子
+        （一个否定句、一个 How dare 疑问句）】—— #0318 今天用这个办法一次全对，
+        证明"块在不在手里"这种考点用默写测比用翻译测干净。
+方案 B  直接按 §6 挂作文验（在「中文触发点」里写 `⛔ **挂作文验，不出单点题**（日期）—— 理由`）。
+```
+
+存好的新题面（若仍要出单点题，只有这种"实义路走不通"的语境值得一试）
+　这话他连想都不敢想，更别说当面说出口了。
+　（★ 必须出现 dare；★ 前半是「连…都不敢」，后半是「更别说」）
+　⚠️ 实测提醒：`He dared not even think it` 与 `He did not even dare to think it` 仍然都合法，
+　　 所以这个题面**也只是把实义那条路变得别扭一点，堵不死**。这正是建议改测法的理由。
 ```
