@@ -12,7 +12,7 @@
 | R2 | Why do people prefer to watch movies in the cinema? | P3 | 08-05 | **08-17 已重答** |
 | R3 | What are good ways to manage traffic? | P3 | 08-05 | **08-23 已重答** |
 | R4 | Do many people grow vegetables or flowers at home in your country? | P3 | 08-05 | **08-23 已重答** |
-| R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | — |
+| R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | — ★★ **08-23 已发未答，挂 4 天（截至 08-26），下个付息日 d 段优先** |
 | R6 | Should parents limit their children's use of computer programs and games? | P3 | 08-06 | **08-17 已重答** |
 | R7 | Do people buy things they don't need? | P3 | 08-06 | — ★ 08-17 顺延未做 |
 | R8 | What do you think of communicating via social media? | P3 | 08-07 | — |

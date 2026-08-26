@@ -171,6 +171,18 @@
   → **He gave me** a lot of advice.
   ⇒ 本条 `形态类·不召回`，按 §3.4⑤／§3.3 **中译英复习里掉了只做记号：不记 ❌、不掉毕业、状态行不动**
   ｜ 同一形状第 4 次（08-19 三次 ＋ 今天）：中文"了"在场、英语谓语停在现在时
+- 2026-08-26 ⚪ **只做记号** · 自由产出（新题 bank:244 P2）·
+  `**Back then**, we **hang** out in the computer club and **mess** around building little program.`
+  → we **hung** out … and **messed** around …
+  ⇒ 同一形状第 5 次：**时间标记在场（Back then），英语谓语停在现在时**。
+    本条 `形态类·不召回`，按 §3.4⑤b **在哪儿掉都只记 ⚪**：不记 ❌、不掉毕业、不计入当篇真错数
+  ★★ **同一篇里一对一错，正反两证齐了**：
+    · 对 —— `we **would** play football or just wander around the neighborhood`
+      （would 说过去的习惯，正是本条标题的后半"过去的习惯用 used to/would"）
+    · 错 —— 上面那句
+    ⇒ 不是不会，是产出时检查没跑（§3.4 判据的教科书例子）
+  ★ 检查触发（沿用，不新增）：**句首出现 Back then／那时候／以前 ⇒ 回头扫这一句的每个谓语，
+    全部落到过去**
 
 ### 13 · 共享主语减 I（一个 I 带两个动词）
 类型 结构 ｜ 题面 "我起床然后直接去上班。" ｜ 旧号 B35
@@ -660,6 +672,12 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   `what **counted** as 'good'` ／ `whether I **was** actually engaged` ／
   `things I've seen before`（还省对了关系代词）
   ★ 这一条已经稳到"整篇不用想"的程度，记一笔备查
+- 2026-08-26 ✅ **自发命中·连续第三篇**（本条未被出题，不改已毕业状态）· 自由产出（新题 bank:244 P2
+  Describe a friend from your childhood，202 词）· **一篇四处，全部陈述语序、全部紧贴**：
+  `how he **solves** problems under pressure` ／ `one time (when) we **needed** to present` ／
+  `the kind of person (that) everyone **turns to**` ／ `the best developers (that) I **know**`
+  ★ 后两处还**都省对了关系代词**（从句里那个人当宾语 ⇒ 可省）—— 与 08-25 的
+    `things I've seen before` 同一个动作，连着两篇都做对
 - 备注 合并 2026-08-19：#211（直接疑问 vs 嵌入疑问的边界）并入本条 —— 同一条规则；
   题面取 #211 那两句（一直一嵌，对照最清楚）。备用题面（原 #59）："得考虑路要修多宽。"
 
@@ -1019,6 +1037,13 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   `AI, for instance, only **came out** a few years ago, but it **has** significantly **changed** the world`
   ——`a few years ago` 是具体时间点 ⇒ 过去式 came out；后半句说"到现在的影响" ⇒ 完成时 has changed。
   **两个平面各有理由、没混**，正是本条要的分辨（毕业后第一次在自由产出里自发用对）
+- 2026-08-26 ✅ **自发命中·连续第三篇**（本条未被出题，不改已毕业状态）· 自由产出（新题 bank:244 P2）·
+  过去叙事整段全部落过去（met／ended up／were／needed／crashed／were panicking／kept／sat／went／
+  found／fixed／saved，12 处）＋ `he's **become** one of the best developers I know` 用完成时说
+  "到现在的变化" ＋ `These days he's **doing** really well` 用现在进行说当下
+  ⇒ 有具体时间点的全落过去、说到现在的切完成时，一处没混
+  ⚠️ 同篇 S4 `we **hang** out … and **mess** around`（Back then 在场，谓语停在现在时）
+    按 §3.4⑤b 记 ⚪ 落在 #12，不算本条头上（本条管的是"一句里别换档"，那处是"该用哪个时态"）
 ### 92 · 否定别丢（嵌套否定：中文两个否定，英语常是一个肯定句）
 类型 语法 ｜ 题面 "他没有一次不迟到。" ｜ 旧号 B148
 状态 连对2 连错0 上次2026-08-19 ｜ 旧账 ｜ **累错 4** ｜ **形态类·不召回** ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）
@@ -1788,6 +1813,17 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 一般现在  when I draw, I can only copy…               ＝ 说自己的常态
 ```
   ★ 每一次换平面都有理由，且换回来时没乱 ⇒ 本条 ＋ 🎓#91（有时间点用过去式）同时命中
+- 2026-08-26 ✅ **自发命中·连续第二篇**（本条未被出题，不改已毕业状态）· 自由产出（新题 bank:244 P2）·
+  **四个平面各有理由**：
+```
+过去叙事    We met … / the program crashed / he kept calm, sat down, went through   ＝ 那一次
+现在泛述    Whenever something breaks, he **is** the kind of person…                ＝ 他一贯如此
+现在完成    he's **become** one of the best developers I know                        ＝ 到现在的变化
+现在进行    These days he's **doing** really well                                    ＝ 当下这阵子
+```
+  ★ 从"那一次"泛化到"一贯如此"再到"现在"，三次换档都在句子边界上换，句内没串
+  ⚠️ 唯一串了的是 S10 `That is not just that one time.`（前段是过去，这句跳到现在）——
+    但那处判的是**层3 衔接/指代**（两个 that 撞在一起），⚠️ 不记 ❌、不落本条
 - 备注 与 #12 分工：#12 管"该用哪个时态"，本条管"一句里别换档"
 
 ### 165 · even（修饰一个词）／even though（已经发生的事实）
@@ -2214,6 +2250,17 @@ in all stages of your life                 → at every stage of your life
   ★★ 这一处值得单独记，和同日 P3 的 `output at work` 是**同一个形状**：
      `is really into Lego` 就写在**同一篇的第二句**，到第十一句没复用上 ——
      ⇒ 检查触发再加一条：**写完一段回头看，这一段前面有没有现成的块可以直接再用一次？**
+- 备注 2026-08-26 · 自由产出（新题 bank:244 P2，202 词）**1 处偏正式，不判回潮**（毕业状态不动）：
+```
+Within several minutes    → within a few minutes ／ in a couple of minutes
+```
+  判据走 08-19 `at will`／08-24 两篇／08-25 两篇的同一惯例：不属检查触发点名的三种形状、
+  母语者也说；且全篇骨架是口语的：mess around ／ hang out ／ wander around ／ right up until ／
+  saved the day ／ keeps his cool ／ doing really well ／ turns to ／ happy to help
+  ⇒ **只记备注**。★ 阈值不变：下一篇若再出现偏正式且落在三种形状里 ⇒ 按回潮处理
+  ★★ **靶心 A 今天没复现，反而拿到反面证据**：`What makes him stand out is …` 这个 cleft
+     是她 08-24 P2 `What makes it stand out is …` 用过的块，隔两天在一道全新的题里又调出来了
+     ⇒ 块**跨天复用**成立；本篇也没找到"另造一个"的位置
 ### 207 · I'd say ＋ "主要就是…"四条路径
 类型 词组 ｜ 题面 "我觉得主要就是钱的问题。"（四种说法各说一次） ｜ 旧号 B137
 状态 连对3 连错0 上次2026-08-15 ｜ **🎓 已毕业 2026-08-15**
@@ -2573,6 +2620,11 @@ in all stages of your life                 → at every stage of your life
     S6 `watching short videos` 也对 —— **一篇里三处同结构，两处对** ⇒ 不是不会
   ⛔ 教练犯规：本条 08-19 的备注**早就写着**"同一条规则两题一对一错 ⇒ 不是不会，是产出时检查没跑"，
     今天判 ❌ 时把自己写的这句读成了"所以照记 ❌"，没跑 §3.4 的自我分诊。留痕见 sessions/2026-08-25.md
+- 2026-08-26 ⚪ **观察行（不改状态、不算档位）**· 复习第1组 #297 句里 ·
+  `**learning** something new keeps your mind active.`——主语位 -ing 做对了，
+  **正是 08-25 掉的那个点**（`study something makes…`），同一个位置隔一天做对
+  ⚠️ **不能据此说漏洞补上了**：08-25 那次是**自由产出（cold）**，本次是**中译英单句（低压）**，
+  条件不同 —— 形态类的失败本来就只发生在高压那一侧（§3.4 判据）⇒ 真正的验证点在自由产出里
 - 备注 判据：英语主语只能是"名词性的东西"，光秃秃的动词原形站不住 ⇒
   **句子开头是个动作 → 先给它加 -ing**（同一天她的 `Commuting every day is really a hassle` 是对的，
   同一条规则两题一对一错 ⇒ 不是不会，是产出时检查没跑）
@@ -3119,6 +3171,12 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ★★ **一次真迁移**：本条今天上午刚毕业（中译英两句全对），下午在**没有中文题面**的自由产出里
      换了一个从没测过的成员（over the past year，不在本条的四个成员里）照样拉对
      ⇒ 说明她调的是**判据**（一段 vs 此刻），不是背下来的那四个词
+- 2026-08-26 ✅ **自发命中·第二次真迁移**（本条未被出题，不改已毕业状态）· 自由产出（新题 bank:244 P2）·
+  `**These days** he's doing really well.`
+  ——本条判据的**另一半**（"要用一般现在时就换成 these days，别用 recently 拉完成时"）
+  这次是正向用：想说"现在这阵子"⇒ 直接上 these days ＋ 现在进行，没去写 recently he is…
+  ★ 两天两次、两个不同成员、两个方向（08-25 over the past year 拉完成时 ／
+    今天 these days 走现在时）⇒ 判据本身已经在手，不是背词
 - 备注 与 🎓#90 的分工写死：**#90 ＝ for/since · ever/never/before · just/already/yet**
   ｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击
 
@@ -3474,7 +3532,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 　　　`I'm going to show you something first.` 两条都合法、都不是一般现在时 ⇒ **合法绕开考点**；
 　　　点掉这两条路不泄答案 —— 错路 `I show you something first.` 照样开着，
 　　　两个目标形式（Let me／I'll）也一个都没说出来
-状态 连对1 连错0 上次2026-08-25 未毕业
+状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-26**（连对2）
 - 2026-08-24 新建 · 复习第1组 #270 句里 · `I give you a piece of advice.`
   → **Let me give you** a piece of advice.
   ——语法没错，但英语不这么起句 ⇒ ⚠️（§2② 说得不地道），本条由它触发
@@ -3510,6 +3568,10 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
     一个字没泄目标形式；她直接产出 Let me ⇒ 首测即命中
   ★ 同组 #270② 她写的是 `I have just one piece of advice for you.` —— **也没走 `I give you…` 那条错路**，
     两处独立佐证本条的目标形式已经上手
+- 2026-08-26 ✅ 复习第1组 · `Let me show you something first.`
+  ——与 08-25 逐字相同、与目标形式 A 一字不差 ⇒ **连对 1 → 2，🎓 毕业**
+  ★ 两天两测，错路 `I show you something first.` 一次都没再出现；触发它的那句
+    `I give you a piece of advice.`（08-24）之后再未复现 ⇒ 目标形式已上手
 - 备注 题面互斥（§3.1 第三档）：**#270** 的题面是"我就给你一条建议。"（考点 ＝ a piece of advice），
   本条题面另起一句"我先给你看个东西。" ⇒ 两条永不撞车
 
@@ -3537,12 +3599,19 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 293 · "其中的一侧／一头／一角" ＝ one side of it ／ one of its sides（不说 its one side）
 类型 句型 ｜ 题面 "有棵树从楼的一侧长出来。"（"楼的一侧"用 **of** 说） ｜ 新建 2026-08-24
-状态 连对1 连错0 上次2026-08-25 未毕业
+状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-26**（连对2）
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:1027 P2）· `a giant panda sculpture climbing up **its one side**`
   → climbing up **one side of it**
 - 2026-08-25 ✅ 复习第1组 · `there is a tree growing out of **one side of the building**.`
   ——one 挪到了 of 前面，错路 `its one side` 没再出现 ⇒ **连错 1 → 0（清零），连对 0 → 1（差一次毕业）**
   ★ 顺带 `growing out of` 这个动词块也用准了（树从建筑长出来的标准说法），本条不额外落号
+- 2026-08-26 ✅ 复习第1组 · `there is a tree growing out of **one side of it**.`
+  ——换成了本条列出的**另一个**目标形式（08-25 走 one side of the building，今天走 one side of it），
+  两个都在判据里 ⇒ **连对 1 → 2，🎓 毕业**
+  ★ 教练自审留痕：孤立句里 `it` 没有先行词（理解侧"代词指代唯一"），差点被判 ⚠️ ——
+    但本条判据白纸黑字把 `one side of it` 列为目标形式，且中译英是单句抽测、上下文就在题面里
+    ⇒ 拿这个扣她 ＝ **假错**，不判；只作一行语境提示发给她（不落号、不记档位）
+  ★ `growing out of` 连续第二天自发用准
 - 备注 判据：
 ```
 表示"**从整体里挑出一个部分**"（partitive）时，英语只有两条路：
@@ -3568,7 +3637,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 　　　整个交出去，测了信息量为零；改成"点 mind 的形容词形式"后 ——
 　　　挡掉 `be careful about`／`keep an eye on`／`watch` 三条合法绕路（它们都不测本条），
 　　　同时留着她掉过的那条错路 `be mind of` ⇒ 考点存活
-状态 连对1 连错0 上次2026-08-25 未毕业
+状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-26**（连对2）
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `they need be **mind** of how often and how much`
   → need to be **mindful** of…
 - 2026-08-25 ✅ 复习第1组（题面当天改点名后首测）· `parents should be **mindful of** how often and how much they give.`
@@ -3578,6 +3647,13 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
     若沿用旧点名（直接写 mindful）这一题就是零信息量的白测
   ★ `need be` → `should be`：她换成情态动词绕开了（情态 ＋ 原形本来就不带 to）⇒ 合法，
     🎓#143 已于 08-24 毕业，不动
+- 2026-08-26 ✅ 复习第1组 · `parents should be mindful of how often and how much they give.`
+  ——与 08-25 逐字相同：形容词形式 mindful ＋ 介词 of 两处都对 ⇒ **连对 1 → 2，🎓 毕业**
+  ★ 教练自审留痕：要不要因为"和昨天一模一样"怀疑是背下来的？—— 不怀疑。
+    题面逐字复用是 §6 硬规则，同题面同答案属设计内；毕业线（连对2）本来就定义为
+    "两次独立场合都调得出来"，本次成立
+  ★ 08-25 改点名的收益二次确认：点名只给词根 **mind**，她连续两天自己派生出 **mindful**
+    ⇒ 那次改题面改对了（旧点名直接写 mindful ＝ 把考点整个交出去）
 - 备注 判据：
 ```
 mind 只有名词（心思）和动词（介意）用法；**"留心着点"的形容词是 mindful**
@@ -3601,7 +3677,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 
 ### 295 · "做某事的目的" ＝ the purpose OF doing sth（口语直接说 why they do it）
 类型 搭配 ｜ 题面 **点名**："奖励会改变做事的目的。"（"做事的目的"用 **purpose** 说） ｜ 新建 2026-08-24
-状态 连对1 连错0 上次2026-08-25 未毕业
+状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-26**（连对2）
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `Rewards change the purpose **for** doing things`
   → the purpose **of** doing things
 - 2026-08-25 ✅ 复习第1组 · `rewards change the purpose **of** doing things.`
@@ -3610,6 +3686,12 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
     按 🎓#206 本该给 ⚠️ 降级 —— **但本题题面点名了 purpose**，是教练把这个书面名词钉在她句子里的；
     再拿"你不该用 purpose"标 ⚠️ ＝ 罚她照题面答题 ⇒ **本题不标**，
     口语走法只作一行提示发给她（不落号、不记档位）。该降级只在**自由产出**里判
+- 2026-08-26 ✅ 复习第1组 · `rewards change the purpose **of** doing things.`
+  ——介词 of 连续第二次对（08-24 首犯写的是 for）⇒ **连对 1 → 2，🎓 毕业**
+  ★ 08-25 那条留痕今天照办：题面点名了 purpose，就**不许**再拿 🎓#206（书面词降级）标 ⚠️；
+    `Rewards change why kids do things.` 只作一行提示发出，不进 diff-2、不落号、不记档位
+  ★ 本条的降级判定只在**自由产出**里跑 —— 她哪天在 P2/P3 里自己冒出 the purpose of doing things，
+    那时才按 🎓#206 给 ⚠️
 - 备注 判据：
 ```
 名词 purpose 后面接 **of ＋ 动名词**，介词写死
@@ -3653,7 +3735,7 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
 
 ### 297 · keep your mind active（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，不用 make sth stay adj）
 类型 搭配 ｜ 题面 **点名**："学点东西能让脑子保持活跃。"（"保持活跃"用 **keep** 说） ｜ 新建 2026-08-25
-状态 连对0 连错1 上次2026-08-25 未毕业
+状态 连对1 连错0 上次2026-08-26 未毕业
 - 2026-08-25 ❌ 首犯 · 自由产出（新题 bank:987 P3 Is it necessary to keep learning after
   graduating from school?）· `studying something makes your mind **stay** active`
   → **keeps your mind active**
@@ -3687,6 +3769,13 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
        **不是她要表达的"保持活跃"，也不是母语者在这句里会说的那个** ⇒ #192 给不出正确答案
        ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
   ⇒ **保留新建**
+- 2026-08-26 ✅ 复习第1组（建立后首测）· `learning something new keeps your mind active.`
+  ——keep ＋ 宾语 ＋ **形容词**一次到位，错路 `makes your mind stay active` 换掉了
+  ⇒ **连错 1 → 0（清零），连对 0 → 1（差一次毕业）**
+  ★ 她自己加对的两处：`learning`（比 studying 更贴"学点东西"）· `something new`
+    （learn something new 是母语者常搭）—— 加分不扣分
+  ★ 出题前写死的预判没发生：审核表 7 里预判"若她走 keep ＋ -ing（keeps your mind working）
+    ⇒ 按 §3.3 记 ✅ ＋ 当场改题面"。她直接给了形容词补语 ⇒ **题面不用改**
 
 ### 298 · have the final say（拍板／最后说了算）
 类型 词组 ｜ 题面 **点名**："这事儿最后我妈拍板。"（"拍板"用 **final** 说） ｜ 新建 2026-08-25（**她当场指定**）
@@ -3745,6 +3834,203 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
        （同 #295 vs 🎓#236 的判法）。两条题面也互斥：#269 三句是"不太了解/没什么时间/没什么可玩的"，
        本条题面是"他算不上个厨师"
      **🎓#25** 的考点是 It's no use doing sth，只是中文题面里有"没什么"三个字 ⇒ 无关
+  ⇒ **保留新建**
+
+### 300 · stage 前面的介词是 at（at every stage／at this stage，不用 in）
+类型 搭配 ｜ 题面 **点名**："人这一辈子每个阶段都得学点新东西。"（"每个阶段"用 **stage** 说，注意介词） ｜ 新建 2026-08-26（**补建**）
+状态 连对0 连错1 上次2026-08-25 未毕业
+- 2026-08-25 ⚠️ 首犯 · 自由产出（新题 bank:987 P3）· `learning is necessary **in all stages of** your life`
+  → necessary **at every stage of** your life
+  ⛔ **教练漏建（08-26 她主动问"昨天的复习点都出全了吗"时才发现）**：当天这一处只写进了
+    🎓#206 的一行备注（"3 处偏正式，不判回潮"），**没有单独建号** ⇒ 它既不在池里、
+    也不会在任何复习组出现，等于当天判完就丢了。
+    根因：把它和同段的"代词链""双层从句摊平"（那两个确实是开放集合 §3.2b）一起塞进了
+    "⚠️ 不建条目 4 处"那一行 —— **没有逐条跑 §3.2b 的自查**
+    （"说得出她不会的是哪个词组／哪个句型就建"）。本条明显收敛得出：**stage 配 at**。
+- 备注 判据：
+```
+名词 stage 表"阶段"时，**默认介词是 at**：
+   ✅ at every stage of your life     ✅ at this stage       ✅ at some stage
+   ✅ at a later stage                ✅ at all stages of the process
+   ✗ in all stages of your life
+★ in 只用在 **in the early / final / later stages of sth**（"处在某个阶段之中"，
+  前面必须有 the ＋ 形容词）：in the early stages of the project ✅
+★ 第二处（顺带记，不单独建号）：**every stage（单数）比 all stages 更口语、更有节奏**
+★ 判据一句话：**说"在……阶段" ⇒ 先写 at；只有 the early/final stages 才轮到 in**
+★ 档位说明：这是 ⚠️（不地道）不是 ❌ —— `in all stages of the disease` 这类母语者也说，
+  但 `in all stages of your life` 不是他们会选的说法
+```
+- 备注 判重（补建当天复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+  ① 目标英文形式 ＝ `at every stage of` / `at this stage`
+  ② grep `stage`／`阶段` 全库（含已毕业）→ 只有 2 处命中，逐条读：
+     · 🎓#206 的一行备注（正是 08-25 漏建的那处，就是本条的来源）⇒ 不是条目
+     · #271 备注里的"想用一般现在时 ⇒ 换成**指现在这个阶段**的副词"—— 说的是
+       these days 那一族副词，与名词 stage 的介词搭配无关 ⇒ 无关
+  ③ 与最接近的条目的区别：全库**没有**管 stage 的条目 ⇒ 无最接近项
+  ⇒ **保留新建**
+
+### 301 · enjoy ＋ 物主代词 ＋ time／stay（不说 enjoy the time）
+类型 搭配 ｜ 题面 **点名**："那天跟他待着我挺开心的。"（"挺开心"用 **enjoy** 说，后面接"时光"） ｜ 新建 2026-08-26（**补建**）
+状态 连对0 连错1 上次2026-08-25 未毕业
+- 2026-08-25 ⚠️ 首犯 · 自由产出（加练新题 bank:1043 P2）· `I really enjoyed **the time** with him`
+  → enjoyed **my time** with him
+  ⛔ **教练漏建（同 #300，08-26 补）**：当天写进了 [S12] 的 diff-2 和落号对账的
+    "⚠️ 不建条目 4 处"，**没有单独建号**。同一处根因：没逐条跑 §3.2b 自查。
+    本条收敛得出：**enjoy 后面接"时光"类名词时要带物主代词**。
+- 备注 判据：
+```
+enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主代词**，不是 the：
+   ✅ I really enjoyed **my** time with him.        ✅ Enjoy **your** stay!
+   ✅ We enjoyed **our** weekend at the beach.      ✅ Did you enjoy **your** holiday?
+   ✗ I enjoyed the time with him.   ✗ Enjoy the stay.
+★ 例外（带从句限定时 the 反而对）：**the time I spent with him** ／
+  **the time we had together** —— 后面挂了限定从句，the 就站得住了
+★ 边界（别扩大）：enjoy 后面跟**别的东西**时照常用 the：
+  enjoy the film ／ enjoy the food ／ enjoy the view —— 本条只管"时光"这一类
+★ 判据一句话：**enjoy ＋ 时光 ⇒ 先想 my／your／our，除非后面要挂从句**
+★ 档位说明：这是 ⚠️（不地道）不是 ❌
+```
+- 备注 判重（补建当天复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+  ① 目标英文形式 ＝ `enjoy my time`
+  ② grep `enjoy`／`享受`／`时光`／`物主代词` 全库（含已毕业）→ 4 处命中，逐条读：
+     · #67 的备注"同族块：explain yourself／behave yourself／**enjoy yourself**／help yourself"
+       —— 那是**反身代词**是固定块的一部分（enjoy yourself ＝ 玩得开心），
+       本条是**物主代词 ＋ 名词**（enjoy my time）⇒ 两个不同的结构，且 enjoy yourself
+       后面不接名词 ⇒ 无关
+     · 同上的第二处引用（2616 行，讲 explain yourself 时列的同族）⇒ 同上，无关
+     · 🎓#208「some people ≠ somebody」，题面"有些人就是享受花钱这件事。" ——
+       只是中文题面里有"享受"两个字，考点是 some people ⇒ 无关
+     · 🎓#265「good for you／good for your health」的备注里有"物主代词" ——
+       决定性证据：#265 的备注**自己写死了范围**"本条的范围只到 good/bad for ___，
+       不许扩大成'所有 health 前面都要物主代词'"；且按 #265 的规则去改，
+       得到的是 `good for my time`，**根本不是本条要的答案** ⇒ 不是同一条规则
+       （同 #295 vs 🎓#236、#297 vs 🎓#192 的判法）
+  ⇒ **保留新建**
+
+### 302 · something breaks（东西坏了／出故障，break 当不及物动词，不用 be broken）
+类型 词汇 ｜ 题面 **点名**："家里一有什么东西坏了，大家都去找他。"（"坏了"用 **break** 说，不用 broken） ｜ 新建 2026-08-26（**她当场指定**）
+　　★ 她的原话："这整句话 break, the kind of, turn to 都可以新建个条目"
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
+  `Whenever something breaks, he is the kind of person everyone turns to`——用得准，不是错
+- 备注 判据：
+```
+break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语就是那个东西，不用被动：
+   ✅ Whenever something breaks, …        ✅ My laptop broke last week.
+   ✅ The washing machine keeps breaking.  ✅ If anything breaks, just call me.
+   ✗ Whenever something is broken, …（这是"已经是坏的"这个状态，不是"坏掉"这个动作）
+★★ 三个都对应中文"坏了"，方向不同，别混：
+   · something breaks   ＝ 坏掉这个**动作/事件**（本条）——用在 whenever／when／if 后面最自然
+   · it's broken        ＝ 现在**是坏的**这个状态（The printer is broken. 打印机现在坏着）
+   · it broke down      ＝ 机器/车/系统**整个罢工**（My car broke down on the way.）
+★ 同族（同样"东西自己出事"，全不用被动）：it stopped working ／ it crashed ／
+  something goes wrong（更泛：出岔子，不限于东西）
+★ 判据一句话：**中文"坏了"是在说一件事发生了 ⇒ 用 break；在说现在什么样 ⇒ 用 is broken**
+```
+- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+  ① 目标英文形式 ＝ `something breaks`
+  ② grep `broken`／`break`／`坏`／`故障`／`出问题` 全库（含已毕业）→ **1 处命中**，逐条读：
+     · 🎓 那条题面"这事儿好坏参半。"（旧号 B183）—— 只是中文"坏"字撞了，考点是
+       "好坏参半"那个词组 ⇒ **无关**
+  ③ 与最接近的条目的区别：全库**没有**管 break/be broken 的条目 ⇒ 无最接近项
+  ⇒ **保留新建**
+
+### 303 · sb is the kind of person ＋ 关系从句（形容一个人是"那种人"）
+类型 句型 ｜ 题面 **点名**："他就是那种大家有事都会去找的人。"（用 **the kind of person** 那个框架说） ｜ 新建 2026-08-26（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
+  `he is the kind of person everyone turns to`——关系代词省对了、紧贴、陈述语序，不是错
+- 备注 判据：
+```
+框架 ＝ **sb is the kind of person ＋ 关系从句**（who/that 常省）
+   ✅ He's the kind of person everyone turns to.       ✅ She's the kind of person who never gives up.
+   ✅ I'm not the kind of person who complains.        ✅ He's the sort of person you can rely on.
+★ **前面必须有 the**（the kind of person），但 person 前面不加冠词（＝ 🎓#106 那条：
+  kind of ＋ 单数名词、不带冠词）
+★★ **who/that 什么时候能省** —— 看那个人在从句里当主语还是宾语：
+   · 当**宾语** ⇒ 可以省：the kind of person (that) everyone turns to ／
+                        the sort of person (that) you can rely on
+   · 当**主语** ⇒ **不能省**：the kind of person **who** never gives up
+★ sort 可以换 kind，意思一样（sort 更英式、更口语）
+★ 用处：P2「描述一个人」和 P3「什么样的人…」两栏的万能句 —— 一句话给出人物定性
+★ 互斥（§3.1 第三档）：🎓#106 管的是 kind of 后面**名词的形式**（单数、不带冠词），
+  🎓#230 管的是提问用 what kind of；**本条管的是整句框架 ＋ 后面挂关系从句** ⇒ 题面不撞车
+```
+- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+  ① 目标英文形式 ＝ `the kind of person (who) …`
+  ② grep `kind of`／`sort of`／`type of`／`这种人`／`那种人` 全库（含已毕业）→ 3 处命中，逐条读：
+     · **🎓#106**（kind of / sort of / type of ＋ 单数名词，不带冠词）—— 决定性证据：
+       按 #106 的规则去改，得到的还是 `kind of person` 这两个词，
+       **它给不出"he's the kind of person everyone turns to"这个整句框架**
+       ⇒ #106 给不出本条的答案 ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
+     · **🎓#230**（"什么样的" ＝ what kind of）—— 那是**提问**形式，本条是**陈述**框架 ⇒ 无关
+     · 🎓#265 备注里的 `this kind of tea is good for your health`——只是例句里含 kind of ⇒ 无关
+  ⇒ **保留新建**
+
+### 304 · turn to sb (for sth)（有事去找某人／求助）
+类型 词组 ｜ 题面 **点名**："出问题的时候大家都会去找他。"（"去找"用 **turn** 说） ｜ 新建 2026-08-26（**她当场指定**）
+状态 连对0 连错0 未测过（她自己用对了才建的，次日起进池）
+- 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
+  `he is the kind of person everyone turns to`——用得准，不是错
+- 备注 判据：
+```
+turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持）
+   ✅ Everyone turns to him.              ✅ He's the first person I'd turn to.
+   ✅ She turned to her sister for advice. ✅ I didn't know who to turn to.
+★ 介词写死：turn to sb **for** sth（for advice／for help／for support）
+★★ 边界（同一个 turn，三件事，别混）：
+   · turn **to** sb        ＝ 去找人求助（本条）—— 不可分离，人跟在 to 后面
+   · turn sth **off**／turn it off ＝ 关掉（**可分离**，代词必须放中间 ＝ 🎓#67）
+   · turn **up**          ＝ 露面／出现（He never turned up.）
+★ 同族（一起记，语气不同）：go to sb (for help)（最平）／ ask sb for help（最直白）／
+  lean on sb（偏情感依靠）／ count on sb（偏"靠得住"）
+★ 判据一句话：**中文"有事找他"⇒ turn to him；"打电话找他"那种单纯联系用 call/contact，不用 turn to**
+```
+- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+  ① 目标英文形式 ＝ `turn to sb`
+  ② grep `turn`／`for help`／`求助`／`依赖` 全库（含已毕业）→ 4 处命中，逐条读：
+     · **🎓#67**（可分离动词短语的位置：put it away／turn it off）—— 决定性证据：
+       按 #67 的规则去改，得到的是"代词放中间"（turn him to？）——**根本不成句**
+       ⇒ #67 给不出本条的答案；且 turn to 是**不可分离**的，正好是 #67 的反例 ⇒ 两条规则
+     · 🎓 `It depends on whether he turns up.` —— 那是 turn up（露面），例句里的另一个词组 ⇒ 无关
+     · 🎓 `watch pictures on the screen turn into real objects` —— turn into（变成）⇒ 无关
+     · #291 备注里的 `I'll ask him for you.` —— 那是 Let me／I'll 的例句 ⇒ 无关
+  ③ 与最接近的条目的区别：#67 管**位置**（可分离动词），本条管**这个词组本身**（不可分离＋介词 for）
+  ⇒ **保留新建**
+
+### 305 · stay patient（keep ＋ 形容词只跟一小撮词，patient 不在里面）
+类型 搭配 ｜ 题面 **点名**："他从来不慌，一直很有耐心。"（"一直很有耐心"用 **stay** 说） ｜ 新建 2026-08-26
+状态 连对0 连错1 上次2026-08-26 未毕业
+- 2026-08-26 ❌ 首犯 · 自由产出（新题 bank:244 P2 Describe a friend from your childhood）·
+  `he nerver panics and **keeps patient**` → never panics and **stays patient**
+- 备注 判据：
+```
+**keep ＋ 形容词**（后面不带宾语）只跟一小撮固定的词，是个**封闭名单**：
+   ✅ keep calm ／ keep quiet ／ keep still ／ keep busy ／ keep warm ／ keep safe ／
+      keep healthy ／ keep fit ／ keep dry
+   ✗ keep patient   ✗ keep positive   ✗ keep focused
+"一直保持耐心" ⇒ **stay patient**（也可 be patient ／ remain patient）
+★★ **判据一句话（这条才是要背的）：拿不准用 keep 还是 stay ⇒ 一律先用 stay。**
+   stay 的名单大得多，几乎不出错：stay calm／stay positive／stay focused／stay awake／
+   stay healthy／stay safe／stay patient
+★ 边界一：`keep his cool` **是对的** —— 那是 keep ＋ **名词**（cool 在这里是名词）的固定块，
+  和"keep ＋ 形容词"不是一件事。她同一句前面就用对了
+★ 边界二：与 **#297**（keep ＋ **宾语** ＋ 形容词，keeps your mind active）不是一条 ——
+  那条有宾语，本条没有；按 #297 改会得到 `keeps himself patient`，**也不是母语者的说法**
+★ 检查触发：说完 keep ＋ 一个形容词，问一句"这个词在 calm/quiet/busy/warm/safe/fit 那个名单里吗？"
+  不在 ⇒ 换 stay
+```
+- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+  ① 目标英文形式 ＝ `stay patient`（keep ＋ 形容词的名单边界）
+  ② grep `keep patient`／`stay patient`／`耐心`／`keep calm`／`keep fit`／`keep busy` 全库
+     （含已毕业）→ 2 处命中，逐条读：
+     · **🎓#156** 题面"他的耐心让我印象很深。／他一直很有耐心。"—— 那条考的是
+       **同根词的形态**（the difference／different；patience 名词 vs patient 形容词），
+       决定性证据：按 #156 的规则去改，得到的是"这里该用形容词 patient"——**她本来就用的是
+       形容词**，#156 给不出 keep→stay 这个答案 ⇒ 不是同一条规则
+     · **#297** 备注里的 `keep fit／keep busy` 例句 —— 那是本条的名单，但 #297 的考点是
+       **带宾语**的 keep ＋ O ＋ adj（见上"边界二"）⇒ 两条，题面互斥
+       （#297 题面 "学点东西能让脑子保持活跃"／本条题面 "他从来不慌，一直很有耐心"）
   ⇒ **保留新建**
 
 ## 迁移说明（2026-08-18）
