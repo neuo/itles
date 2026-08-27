@@ -1,6 +1,16 @@
 # 重答队列 · redo_queue.md
 
 > 付息日 d 段用。**最久没重答的优先**，不许挑好答的。每次 0–X 道，**她说停就停**。
+>
+> ### ★★★ 重答**没有顺延**（她 2026-08-27 定）
+> 她的原话：**"我明确下，重答没有什么顺延的说法，复习日我答多少是多少。你最多当前重答对列还有多少。"**
+> ```
+> ⛔ 不许把没答的重答题记成"顺延"、不许排进下一场、不许写"欠账"
+> ⛔ 不许在别的地方（session／study_hub／cycles）出现"重答顺延 N 道"这种账
+> ✅ 教练**唯一**能做的：报一句 **队列还剩多少道**（总数 ／ 未重答过多少）
+> ★ 与复习组、新题位的顺延**不是一回事** —— 那两处的顺延照旧（§6「顺延 ≠ 丢掉」仍有效），
+>   本条只管 d 段重答
+> ```
 > 重答 ＝ 自由产出：走三件套（最小修改版／更好版／diff）＋ 落号 ＋ 落盘，与新题同规格。
 > 迁移自 `coach/asked.log`（34 道已练题）＋ v1 收尾记录（08-17 队列 24 道 ＋ 08-18 后新增）。
 
@@ -12,9 +22,9 @@
 | R2 | Why do people prefer to watch movies in the cinema? | P3 | 08-05 | **08-17 已重答** |
 | R3 | What are good ways to manage traffic? | P3 | 08-05 | **08-23 已重答** |
 | R4 | Do many people grow vegetables or flowers at home in your country? | P3 | 08-05 | **08-23 已重答** |
-| R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | — ★★ **08-23 已发未答，挂 4 天（截至 08-26），下个付息日 d 段优先** |
+| R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | **2026-08-27 已重答**（69 词 · 真错 2 · 密度 1/35 · 新建 #306 · 🎓#236 回潮）｜ 08-23 发出后挂了 4 天 |
 | R6 | Should parents limit their children's use of computer programs and games? | P3 | 08-06 | **08-17 已重答** |
-| R7 | Do people buy things they don't need? | P3 | 08-06 | — ★ 08-17 顺延未做 |
+| R7 | Do people buy things they don't need? | P3 | 08-06 | **2026-08-27 已重答**（91 词 · 真错 0 · 新增 methods M41） |
 | R8 | What do you think of communicating via social media? | P3 | 08-07 | — |
 | R9 | Should governments provide financial support to start-ups? | P3 | 08-07 | — |
 | R10 | How does technology help people make plans? | P3 | 08-07 | — |

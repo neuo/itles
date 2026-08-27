@@ -56,6 +56,29 @@ M20 P3 硬料要泛化    内容不变，主语从"我家"换成泛指（From ou
 M21 车轱辘检测       说完一句问"下一句是新角度还是同角度换说法"；换说法 → 删            旧号 B24
 M22 软化词一句只放一个 about／pretty much／I guess／kind of；与强调词同现 ＝ 自我对冲    旧号 B26
 M23 补充信息必须挂回主句 破折号／逗号／and／逗号+which，别把短语从句当整句甩出去         旧号 B30
+M41 插入语别塞在主谓之间 **说完主语，下一个词就该是谓语**。想补充的条件／让步／举例，
+                     一律**甩到句尾**或另起一句 —— 写在纸上没问题，说出来听者要挂着等谓语
+                     ✗ …and they, **especially when there is a promotion,** are really good at…
+                     ✅ …and they're really good at…, **especially when there's a promotion on**.
+                     ✗ explain **to their kids** the why, not just the what（收件人被推远）
+                     ✅ explain the why, not just the what, **to their kids**
+                     ★ 检查触发：说完主语，回头看下一个词 —— **是不是谓语？** 不是就把中间那块搬走
+                     ★ 与 M23 分工：M23 管**片段要挂回主句**；本条管**别把主谓劈开**
+                     ★ 实证两次：2026-08-24 P3（explain…to their kids）／
+                       2026-08-27 R7（they, especially…, are）           新建 2026-08-27（d 段）
+M40 抽象名词 ⇒ 摊成小句   说完一句回头看：有没有一个**抽象名词挂在介词后面**？有 ⇒ 试着
+                     把它拆成一个**小句**（主语 ＋ 动词）。名词化是书面形状，摊开才是口语形状
+                     ✅ kids' **lack of motivation**   → when they're just **not motivated**
+                     ✅ change **the purpose of** doing things → change **why kids do** things
+                     ✅ **the reason for** it          → **why** it happens
+                     ✅ **the way of** doing it        → **how they do** it
+                     ★ 它和 M13 不是一回事：**M13 是卡住时的出口**（想不出词 ⇒ 只说画面）；
+                       **本条是产出后的回扫**（词已经出来了、而且是对的，只是形状偏书面）
+                     ★ 与 🎓#206 的分工：#206 判**档位**（这个词该不该降级），
+                       本条给**怎么降**的操作 —— 抽象名词那一类的降级动作就是"摊成小句"
+                     ★ 实证（2026-08-24 P3 一篇里两处）：lack of motivation ／ the purpose of
+                       doing things —— 两处都是她**用词没错**、只是形状是书面的
+                                                                       新建 2026-08-27（c 段）
 ```
 
 ## 学习机制（教练侧判据，不出题）
