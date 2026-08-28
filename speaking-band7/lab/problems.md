@@ -149,6 +149,10 @@
   `**whether you have help or not** makes a huge difference.`
   ——**whether 从句当主语 ⇒ 谓语用单数 makes**，这是本条里偏难的一档，她一次到位
   ⇒ 与同日 #305 句里那次 ⚪（stay 漏 -s）**同一天一对一错**，再次印证本条 ＝ 检索失败不是不会
+- 2026-08-28 ⚪ **正面观察行（不改状态）** · 复习第2组 #280 句里 ·
+  `Whether you have help or not **makes** a huge different.`
+  ——whether 从句当主语 ⇒ 谓语用单数 makes，**与 08-27 同一档、连续第二次做对**
+  （同句 different／difference 那处判的是 #280 ＋ #156，与本条无关）
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
   `it help me clear my head` 记的是 **❌**（当时的口径是"自由产出照常记 ❌"），
   但她 **08-25 定的 §3.4⑤b** 是"形态类**在哪儿掉都只记 ⚪**、不计入真错数"。两者冲突 ⇒
@@ -671,6 +675,9 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-08-15 ❌
 - 2026-08-16 ❌ 自由产出 `one of old classmates`／`watching event`
 - 2026-08-17 ✅
+- 2026-08-28 ⚪ **只做记号** · 复习第2组 #306 句里 · `relaxing in **different environment**`
+  → in **a** different environment。§3.4 执行自查：同一组里 a few key things／a real alternative／
+  a bit of practice 全部带限定词 ⇒ 一律 ⚪，不记 ❌、不动状态行
 
 ### 57 · date night（约会之夜）
 类型 词组 ｜ 题面 **点名**："去电影院对我们来说就是约会。"（"约会"用【date ＋ 一个名词】说） ｜ 旧号 B80
@@ -1733,7 +1740,10 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 　　★ 历史 ❌ 与"顽固"标记原样保留、不回扫；以后掉了只追加 ⚪ 一行
 - 2026-08-17 ❌
 - 2026-08-19 ❌ 复习#103 句里 · "这些东西" → `the thing`（限定词和数一起塌）
-- **检查触发**：写完 a／an／this／these，立刻看后面那个名词的尾巴
+- 2026-08-28 ⚪ **只做记号** · 复习第1组 #286 句里 · `many commuter will happily leave their cars`
+  → many **commuters**。§3.4 执行自查：同一篇里 their cars／materials／corners／folks 全部复数正确
+  ⇒ 一律 ⚪，不记 ❌、不动状态行
+- **检查触发**：写完 a／an／this／these（**加 many／a lot of／these 这一类**），立刻看后面那个名词的尾巴
 
 ### 151 · （已并入）并列两边必须同形——可数性和单复数要齐
 → **已并入 #98（2026-08-19）**：同一条规则。日志已并进 #98。
@@ -1768,7 +1778,8 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
 类型 语法 ｜ 题面 "他的耐心让我印象很深。" ／ "他一直很有耐心。" ｜ 旧号 B245
-状态 连对2 连错0 上次2026-08-23 ｜ 回潮已断（08-20 回潮）｜ **🎓 已毕业 2026-08-23**
+状态 连对0 连错1 上次2026-08-28 未毕业 ｜ **回潮 2026-08-28**（08-23 毕业 → 08-28 再犯，**第二次回潮**）
+　　★ 撤销 2026-08-23 的毕业。前一次回潮 ＝ 08-20（`use it with cautious`）
 - 2026-08-16 ❌ `the different between the two`
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `his patience really impressed me. he is always patient.`（名词形/形容词形两个位置都对）
@@ -1778,6 +1789,13 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ——两个位置词形都对（主语位 patience／表语位 patient）⇒ 回潮后第一次翻正，连对 0→1
 - 2026-08-23 ✅ 付息日 a 段 · `his patience really impressed me. he is always patient.`
   ——主语位 patience（名词）／表语位 patient（形容词），连续第二次 → **连对2，毕业**（回潮后走完两次）
+- 2026-08-28 ❌ **回潮**（第二次）· 复习第2组 #280 句里 · `makes a huge **different**`
+  → makes a huge **difference**（前面有 **a** ⇒ 必须名词形）
+  ★★ **这一次把本条的判据坐实了**：08-27 她在**同一道题**里写的就是 difference（🎓#275 日志逐字可查），
+     隔一天重说就退回 different —— 与 08-16 备注里那句"原答案写对，重说时反而退成 different"
+     **同一形状，第三次出现**
+  ⇒ 本条的复测价值不在"她会不会"，在"她**重说**时会不会退" ⇒ 别因为她写对过就放走
+  ★ 同一处错误同时落到 #280（考点位置）⇒ 1 处 → 2 个号（§3.3）
 - 备注 判据：这个词前面有 the／a／of 吗？有 → 必须名词形。08-16 实证：原答案写对，重说时反而退成 different
 
 ### 157 · 直译搭配（两档：❌ 真错 ／ ⚠️ 母语者默认不选）
@@ -2560,7 +2578,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 类型 结构 ｜ 题面 "学语言就是为了表达自己、听懂别人。" ／ **点名**："过年更多的是给全家一个聚一聚的**理由**。"（"聚一聚的理由"里那个动词用**不定式**挂上去） ｜ 旧号 B182
 　　★ 题面 2026-08-27 加第二句（回潮当天补）：原题面只测**状语位**的"为了做某事"，
 　　　测不到她今天掉的那一格 —— **名词后面挂目的**（a reason ___ bring…）。补一句专测它
-状态 连对0 连错1 上次2026-08-27 未毕业 ｜ **回潮 2026-08-27**（08-15 毕业 → 08-27 首犯）
+状态 连对1 连错0 上次2026-08-28 未毕业（差一次毕业）｜ **回潮 2026-08-27**（08-15 毕业 → 08-27 首犯 → 08-28 复测拿回第一次）
 - 2026-08-10 ✅
 - 2026-08-13 ✅
 - 2026-08-15 ✅
@@ -2584,6 +2602,9 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
     若按 §4① 加速通道照记 ✅，本条会**在从没修过掉的那一格的情况下重新毕业** ⇒ 假毕业
   ⇒ **出题约束（写死）：本条回潮后的复测，一律用今天新加的第二句题面**
     （"过年更多的是给全家一个聚一聚的**理由**"）—— 状语位那一半不再单独用来凑毕业
+- 2026-08-28 ✅ 复习第1组 · **回潮后第一次复测，用的正是 08-27 新加的第二句题面**（名词后面挂目的，
+  ＝ 她掉的那一格）· `Chinese New year is more about giving the whole family **a reason to get together**.`
+  ——考点位置一字不差 ⇒ 连对0 → **1**。★ 出题约束照旧：本条以后的复测仍用第二句题面
 - 备注 判据（2026-08-27 回潮当天补写 —— 本条建立至今只有三行 ✅、没有判据块）：
 ```
 **表"目的/用来做什么"，看挂在谁后面：**
@@ -3417,6 +3438,10 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 ★ 与 🎓#59（嵌进句子里用陈述语序）配套：whether 从句同样**不倒装**
   ✅ I'm not sure whether **he is** coming.（✗ whether is he coming）
 ```
+- 2026-08-28 ⚪ **观察行（不改已毕业状态、不算命中）** · 复习第2组 #280 句里 ·
+  `**Whether you have help or not** makes a huge different.`
+  ——whether ＋ 主谓、从句当主语，结构对；但**与 08-27 是同一道题面**（#280 的"有没有人帮忙差别很大"）
+  ⇒ 属**重复不属自发**，按 §4① 加速通道的边界（她 08-27 认可的那条）只记 ⚪，不当第 4 次命中
 
 ### 276 · for ages ／ in ages ＝ "很久"（for long 只用在"没持续多久"里）
 类型 词汇 ｜ 题面 **点名**："我跟他好久没见了。"（"好久"用 ages 那个词说） ｜ **从 #166 拆出 2026-08-23**
@@ -3442,7 +3467,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 　　　改成"让他们自己去管"（letting them manage it themselves），只留本条的句型这一格
 　　★ 她的原话："这一整句子的句型…新建条目"（指 `Well, I'd say it's mainly about building good habits while giving kids room to manage themselves.`）
 　　※ 状态与日志见下（2026-08-27 首测通过）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
   `Well, I'd say it's mainly about building standard habits while giving kids room to manage themselves.`
 - 2026-08-27 ✅ 付息日 b 段（题面当天微改后**首测**）·
@@ -3470,10 +3495,14 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ③ 逐条读：#58 和 #207 管的都是**起手块**（"主要就是…"这四个字用哪个说法）；
      本条管的是 **while 把第二面挂上去**这个**整句结构** ⇒ 目标形式不同（一个是短语，一个是双面句型）
      ⇒ 保留新建。**题面互斥**：#207 的题面"我觉得主要就是钱的问题"是**单面**；本条题面必须是**两面**的
+- 2026-08-28 ✅ 复习第2组 · `It's mainly about setting up rules while letting them manage themselves.`
+  ——整句框架一字不差（it's mainly about ＋ -ing ／ while ＋ -ing）⇒ 连对2，**毕业**
+  ★ 自审留痕：`setting up rules` 曾想判 ⚠️（更常说 setting rules），试造母语句
+    `We set up a few rules about screen time.` 成立 ⇒ 不判
 
 ### 278 · give sb room to do sth（给某人自己来的空间）
 类型 词组 ｜ 题面 **点名**："得给孩子自己安排的空间。"（"空间"用 room 说，不用 space） ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `giving kids room to manage themselves`
 - 备注 判据：
 ```
@@ -3487,6 +3516,8 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ——**room**（不是 space）＋ 后面挂不定式 to do ⇒ 一字不差，**连对 0 → 1（差一次毕业）**
   ★ `manage their own time` 是她自己补的（题面只说"自己安排"）—— 落到具体的东西上，加分
   ★ 今天改 #277 题面的收益：#277 旧题面里带着"空间"两个字，会把本条答案先泄出去；改后独立命中
+- 2026-08-28 ✅ 复习第2组 · `you need to give kids room to manage their own time.`
+  ——room 不带冠词，正是这个块的形状 ⇒ 连对2，**毕业**
 - 备注 判重：grep "room to"／"give …room"／"space to" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 279 · get a feel for sth（慢慢摸出感觉／找到手感）
@@ -3496,7 +3527,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 　　　**两个都成立** ⇒ 逼不出本条的目标形式（她 08-27 给的就是前者）。
 　　　新题面把宾语换成**抽象领域**（时间）—— `get the feel of time` 不成立，
 　　　只有 `get **a** feel **for** time` 通，正是她 08-23 自己产出的那一句
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `kids actually get a feel for time`
   ★ 这个说法**比第一版的 `internalize time management` 又口语又准** —— 她自己换出来的
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -3522,11 +3553,13 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 ★ 同族分工：get the hang of sth（掌握窍门，偏操作）· get used to sth（习惯，偏适应）
              · get a feel for sth（摸出感觉，偏体感）
 ```
+- 2026-08-28 ✅ 复习第2组 · `With a bit of practice, kids will gradually get a feel for time.`
+  ——`get a feel for time` 一字不差（抽象宾语那一档也过了）⇒ 连对2，**毕业**
 - 备注 判重：grep "get a feel"／"feel for" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 280 · make a huge difference（差别很大／很管用）
 类型 词组 ｜ 题面 **点名**："有没有人帮忙差别很大。"（"差别很大"用 make ＋ difference 说） ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对0 连错1 上次2026-08-28 未毕业
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `creating an organized environment makes a huge difference`
 - 2026-08-23 ⚪ 同日再现 · d 段重答 R3 · `upgrading to smart traffic systems makes a massive difference`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -3547,10 +3580,25 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 备注 判重：grep "difference" 全库（含已毕业）→ 命中 **#156**（同根词：the difference／different ways）
   逐条读：#156 管的是 difference／different 的**词形**（前面有 the/a/of 就用名词形）；
   本条管的是 **make a … difference 这个块**（选哪个动词 ＋ 形容词档位）⇒ 规则不同 ⇒ 保留新建
+- 2026-08-28 ❌ 复习第2组 · `Whether you have help or not makes a huge **different**.`
+  → makes a huge **difference**
+  ★ 判 ❌ 的理由：**题面点名里就印着 difference 这个词**，写出来的仍是 different
+    ⇒ 考点位置不是一字不差 ⇒ 连对1 → **连对0 连错1**（不毕业）
+  ★ 同一处错误**同时落到 🎓#156**（同根词形位置规则）⇒ #156 **回潮**。
+    两条各判各的，依据 §3.3「标记打在条目上，不打在整句上」；落号口径 ＝ **1 处 → 2 个号**
+  ★ 为什么不按 §2.1 判成"拼写不算错"（四问②的完整留痕）：
+    · 反证一：08-23 她自己写对过两次（makes a huge difference／a massive difference）
+    · 反证二：**08-27 同一道题她写的就是 difference**（见 🎓#275 日志逐字）
+    · 但 **#156 备注早有实证**："08-16 原答案写对，重说时反而退成 different"
+      —— "写对过 → 重说退回形容词形"正是她这条的**固有形状**，不是随机手滑 ⇒ 判 ❌
+    ⚠️ 她若说"就是手滑打漏了 -ce"，**本条的 ❌ 当场撤回**（§7 她的怀疑比教练的推理值钱）；
+       #156 的回潮不撤（它的判据本来就是"重说时退回形容词形"）
+  ⚪ 同句正面观察（不改状态）：🎓#275 whether ＋ 主谓结构对，但**与 08-27 同题面**属重复不属自发；
+     #10 主谓一致 —— whether 从句当主语，谓语 makes 用单数，一次到位
 
 ### 281 · step back（往后退一步，不插手）
 类型 词组 ｜ 题面 **点名**："家长有时候得往后退一步。"（"退一步"用 step 说） ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `Lastly, it's about stepping back.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `Sometimes parents need to **step back** / **take a step back**.`
@@ -3568,11 +3616,12 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
                       **back off ＝ 别管我**（带火气，是冲突语境）
 ★ 与 let go 的分工：let go 更彻底（撒手不管）；step back 是"退一步但还在旁边"
 ```
+- 2026-08-28 ✅ 复习第1组 · `parents sometimes need to **step back**.`—— 连对2，**毕业**
 - 备注 判重：grep "step back"／"back off" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
 类型 词组 ｜ 题面 **点名**："这样他们才会把自己的事当回事。"（"当回事"用 take ＋ ownership 说） ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `so they learn to take ownership`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `that's how they'll learn to **take ownership of** their own responsibility.`
@@ -3593,6 +3642,10 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
     take **ownership**      ＝ 我把它当自己的事（主动、有投入感）
   说孩子成长／员工成长时 **ownership 更贴**，也更像母语者会挑的词
 ```
+- 2026-08-28 ✅ 复习第2组 · `That's how they learn to take ownership.`
+  ——`take ownership` 一字不差 ⇒ 连对2，**毕业**
+  ★ 同句她主动提出要给 **That's how** 建条目（原话："That's how(这才可以建个条目) they learn…"）
+    ⇒ 新建 **#307**（本条只管 take ownership，不并进去）
 - 备注 判重：grep "ownership"／"take charge"／"take responsibility" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
@@ -3601,7 +3654,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 　　　正是 **#284（boil down to sth）的中文触发词** —— 两条同一天出，中文一模一样、点名不同，
 　　　她要在两句之间来回切。改成"我觉得就是"，把这个触发词整个让给 #284
 　　★ 她的原话："收尾句型，新建条目"（指 `So overall, it's really about setting up the structure first, and then slowly letting them take control.`）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
   `So overall, it's really about setting up the structure first, and then slowly letting them take control.`
 - 2026-08-27 ✅ 付息日 b 段（题面当天微改后**首测**）·
@@ -3624,13 +3677,15 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
    两个功能不同，不算叠）。判紧的根因 ＝ 拿书面冗余标准评口语（§2.3b 禁令）。**不许再标。**
 ★ 与 #277（双面开头）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ **首尾呼应**，P3 高分特征
 ```
+- 2026-08-28 ✅ 复习第2组 · `I think it's really about building the framework first, and then gradually letting go.`
+  ——整句收尾框架一字不差，两半都是 -ing、形也齐 ⇒ 连对2，**毕业**
 - 备注 判重：grep "really about"／"收尾句"／"Overall" 全库（含已毕业）→ 只命中 #206 的日志行（书面词降级，
   与本条无关）与 🎓#58／🎓#207（那两条管**起手**，不管收尾）⇒ **零真命中，保留新建**
 
 ### 284 · boil down to sth（说到底就是……）
 类型 词组 ｜ 题面 **点名**："治堵说到底就是几样东西凑一块儿。"（"说到底就是"用 **boil** 那个说法） ｜ 新建 2026-08-23（**她当场指定**）
 　　★ 她的原话："boils down to（新建条目，学）"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `managing traffic boils down to a combination of smart technology, better public transport, and clever incentives`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `solving traffic congestion **boils down to** just a few key things.`
@@ -3653,11 +3708,14 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   逐条读：同义，但**目标形式不同**（boil ≠ come）⇒ §3.1 判据三档第 3 档【两条 ＋ 当场改题面互斥】。
   **互斥关系**：🎓#58 题面 "说到底就是钱的问题。"（不点名，测 comes down to）；
   本条题面**点名 boil** ⇒ 两条各测各的词，不撞车。
+- 2026-08-28 ✅ 复习第2组 · `solving traffic congestion ultimately boils down to a few key things.`
+  ——`boils down to` 一字不差 ⇒ 连对2，**毕业**
+  ★ 自审留痕：ultimately ＋ boils down to 语义略重，但母语者确实这么说 ⇒ 不判
 
 ### 285 · give sb (real) alternatives to sth／doing sth（给人别的选择，而不是只能……）
 类型 搭配 ｜ 题面 **点名**："城市得给大家真正能替代开车的选择。"（用 **alternative** 说，别用 choice） ｜ 新建 2026-08-23（**她当场指定**）
 　　★ 她的原话："real alternatives to（新建条目）"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `cities need to give people real alternatives to driving`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `cities need to **offer** people **a real alternative to** driving.`
@@ -3676,12 +3734,16 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 ★ 常配形容词：**real ／ viable ／ decent ／ genuine** alternatives（"像样的替代选择"）
 ★ 整块最好用的是 `give people real alternatives to X` —— 一句话把"堵不如疏"说完
 ```
+- 2026-08-28 ✅ 复习第2组 · `Cities must provide a real alternative to driving.`
+  ——`a real alternative to driving`（alternative TO ＋ -ing，没用 choice）⇒ 连对2，**毕业**
+  ★ 她省了"给大家"（sb）那一格，句子合法 ⇒ 按 §3.3 记 ✅，不记 ◎
+  ⚠️ 更好版给了口语降级：must provide → need to give people ／ a real alternative → real alternatives
 - 备注 判重：grep `alternativ`／`替代`／`别的选择` 全库（含已毕业）→ **零命中**，保留新建。
 
 ### 286 · 整句句型：If A, B and C, a lot of X will happily do Y（条件够好 → 人自愿去做）
-类型 结构 ｜ 题面 **点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will happily** ＋ 一个具体动作） ｜ 新建 2026-08-23（**她当场指定**）
+类型 结构 ｜ 题面 **点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will happily** ＋ 一个具体动作；⛔ 主句不许写成 will be ＋ 形容词 ＋ to） ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `will be happy to` 这条绕路）
 　　★ 她的原话："这一整句，包括前面的并列好处，和后面的 will happily，新建条目"
-状态 连对0 连错1 上次2026-08-27 未毕业
+状态 连对1 连错0 上次2026-08-28 未毕业（差一次毕业）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `If buses and trains are cheap, frequent, and reliable, a lot of commuters will happily leave their cars at home.`
 - 2026-08-27 ❌ **首犯** · 付息日 b 段（**本条从建立起第一次被测到**）·
   `…many commuters **will be happy to** leave their cars at home.` → **will happily** leave…
@@ -3699,6 +3761,8 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ⚠️ **出题提案（教练侧，未改题面，等她认可）**：下次点名改成
     "主句用**一个副词**加动词说（**不许用 be ＋ 形容词 ＋ to**）" —— 把她手里那个够用的
     替代品当场封掉，才测得到目标块
+     → **2026-08-28 已落实进题面**（⛔ 主句不许写成 will be ＋ 形容词 ＋ to）；
+       合法性依据 ＝ 08-27 立的分界：说得出封掉了哪条合法绕路 ⇒ 结构限定，不是预告测试点
 - 备注 骨架与用法：
 ```
 If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ will happily ＋【一个具体动作】.
@@ -3712,13 +3776,19 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 ★ 收尾动作要**具体可画面**：leave their cars at home ＞ use public transport more
 ★ 位置 ＝ P3 的**中段**（#277 管开头立两面 · 本条管中间"条件→反应" · #283 管收尾排先后）
 ```
+- 2026-08-28 ✅ 复习第1组（**题面当天加 ⛔ 结构限定后首测**）·
+  `If public transport is cheap, frequent and reliable, many commuter will happily leave their cars at home.`
+  ——整句结构全中：if ＋ 三个并列形容词 ＋ 主句 `will happily leave their cars at home`
+  ★★ **08-27 走的 `will be happy to` 这条绕路今天没再走** ⇒ 加结构限定有效（不是记不住，是没东西封绕路）
+  ⚪ 同句 `many commuter` → many commuters ＝ **#150**（限定词与数一致，形态类只记号），不计入本条
+  ⇒ 连对0 连错1 → **连对1 连错0**
 - 备注 判重：grep `happily`／`愿意`／`乐意` 全库（含已毕业）→ 命中的全是 willing／want 那一族
   （#98 #100 #218 等只管"愿意"这个词怎么说），**无一条管这个整句框架** ⇒ 零真命中，保留新建。
 
 ### 287 · flow smoothly ／ keep sth flowing（车流顺畅／让它一路走得顺）
 类型 搭配 ｜ 题面 **点名**："用科技让剩下那些车一路走得顺。"（"走得顺"用 **flow** 说） ｜ 新建 2026-08-23（**她当场指定**）
 　　★ 她的原话："flow smoothly 新建条目"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）
 　　★ **keep 三兄弟交叉引用**（§6 组内防撞：同族 ≤2 题，而全库有三条 ⇒ 必须标出来）：
 　　　**#287（本条）** keep ＋ 宾语 ＋ **-ing**　　keep the cars **flowing**　＝ 让它持续在**动**
 　　　**#297**　　　　 keep ＋ 宾语 ＋ **形容词**　keep your mind **active**　＝ 持续处在某**状态**
@@ -3744,14 +3814,16 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   keeps cars **moving** ／ keep the cars **flowing**）
 ★ 反面（同一题可以拿来对照）：traffic is at a standstill ／ traffic grinds to a halt（彻底堵死）
 ```
+- 2026-08-28 ✅ 复习第2组 · `use technology to keep the remaining traffic flowing smoothly.`
+  ——`keep … flowing smoothly` 一字不差（keep ＋ 宾语 ＋ -ing 那一格）⇒ 连对2，**毕业**
 - 备注 判重：grep `flow`／`smooth`／`顺畅`／`通畅` 全库（含已毕业）→ **零命中**
   （grep 命中的 flow 行全部是 flowers，与本条无关）⇒ 保留新建。
 
 ### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
-类型 结构 ｜ 题面 **点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说） ｜ 新建 2026-08-23（**她当场指定**）
+类型 结构 ｜ 题面 **点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说；⛔ 动词就用 asking，不许换成 think／wonder） ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `start thinking whether` 这条绕路）
 　　★ 她的原话："because once a trip costs you something, you start asking whether you actually need to make it. 这句很好，也要学"
 　　★ 来源 ＝ 教练在 R3 [S6] diff-2 给的更好版（不是她的产出）⇒ 属 §2③「她主动提出的」
-状态 连对0 连错1 上次2026-08-27 未毕业
+状态 连对1 连错0 上次2026-08-28 未毕业（差一次毕业）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 的 [S6] 更好版 · `…work really well, because once a trip costs you something, you start asking whether you actually need to make it.`
 - 2026-08-27 ❌ **首犯** · 付息日 b 段（**本条从建立起第一次被测到**）·
   `…you naturally start **thinking whether** it's really necessary.`
@@ -3772,6 +3844,15 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   ★★ 教练自审：与同组 #286 的 ❌ **不是同一个理由**（#286 是"块换成了同义说法"，
     本题是"搭配缺了必需的介词"）⇒ 两处独立判断，不是连着往严里判
   ⚠️ **出题提案（教练侧，未改题面，等她认可）**：下次点名保留 asking，另加"**不许用 think**"
+     → **2026-08-28 已落实进题面**（⛔ 动词就用 asking，不许换成 think／wonder）；
+       合法性依据 ＝ 08-27 立的分界：说得出封掉了哪条合法绕路 ⇒ 结构限定，不是预告测试点
+- 2026-08-28 ✅ 复习第1组（**题面当天加 ⛔ 结构限定后首测**）·
+  `Once every trip costs you a little something, you naturally start asking whether it's really necessary.`
+  ——`once … you start asking whether` 整块一字不差
+  ★★ **08-27 走的 `start thinking whether` 今天没再走** ⇒ 与 #286 同日两处互证：封住绕路就调得出
+  ⚠️ 同句 `costs you a little something` → costs you something（a little something 默认读作"一件小礼物"）
+     —— 只进 diff-2，**不建条目**（08-27 分界：判她写错了没有，不判有没有更口语的说法）
+  ⇒ 连对0 连错1 → **连对1 连错0**
 - 备注 骨架与用法：
 ```
 (because) once ＋【代价发生的从句】, ＋ you ＋ start ＋ -ing ＋ whether ＋【主谓】.
@@ -3800,7 +3881,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 ### 289 · be obsessed with sth（特别迷／上头）
 类型 搭配 ｜ 题面 **点名**："上了年纪的人特别迷这个。"（"特别迷"用 **obsessed** 说） ｜ 新建 2026-08-23（**她当场指定**）
 　　★ 她的原话："older folks are obsessed with it（新建条目）"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `I mean, older folks are obsessed with it.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `older folks are really **obsessed with** this kind of thing.`
@@ -3819,6 +3900,9 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   P1/P3 讲爱好、讲一代人的习惯最顺手：My dad's obsessed with fishing.
 ★ 主语是**人**。想说"这东西现在很火"另有说法：it's all the rage ／ it's a big thing now
 ```
+- 2026-08-28 ✅ 复习第1组 · `older folks are especially **obsessed with** this.`—— 连对2，**毕业**
+  ★ 四问自审留痕：especially 曾想判 ⚠️（"特别"更常说 really），试造母语句
+    `Older folks are especially into this kind of thing.` 成立，且中文本身含"相对别人更"这层 ⇒ **不判**
 - 备注 判重：grep `obsess`／`痴迷`／`着迷`／`入迷`／`特别喜欢` 全库（含已毕业）→ **零命中**，保留新建。
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
@@ -4048,7 +4132,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 ### 296 · cut corners（偷工减料／图省事把该做的步骤跳掉）
 类型 词组 ｜ 题面 **点名**："他们为了省钱在材料上偷工减料。"（"偷工减料"用 **cut corners** 说） ｜ 新建 2026-08-24（**她当场指定**）
 　　★ 她的原话："not cut corners（新建个条目）"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-24 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:924 P3）·
   `parents need to keep their promises and not cut corners`——用得准，不是错
 - 备注 判据：
@@ -4072,6 +4156,8 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
     （materials 作泛指复数时不带 the）⇒ **假错，未判**
   ★ 本条 08-24 建（她当场指定），按 §4① 学习日一律不出 ⇒ **付息日 a 段是它唯一的召回点**，
     这次证明"她自己用对了才建的"那一批不是白建
+- 2026-08-28 ✅ 复习第1组 · `they **cut corners on** materials to save money.`
+  ——词组和介词都对（cut corners **on** sth）⇒ 连对2，**毕业**
 
 ### 297 · keep your mind active（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，不用 make sth stay adj）
 类型 搭配 ｜ 题面 **点名**："学点东西能让脑子保持活跃。"（"保持活跃"用 **keep** 说） ｜ 新建 2026-08-25
@@ -4167,7 +4253,7 @@ have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
 类型 句型 ｜ 题面 **点名**："他算不上个厨师。"（"算不上"用 **much of** 说） ｜ 新建 2026-08-25（**她当场指定**）
 　　★ 她的原话："I didn't have much of（**much of 的用法可以建一个条目**)an imagination"
 　　★ **她这一句是用对了的**，建条目是因为她主动要（§2③），不是因为犯错
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 ·
   `What made it challenging was that I didn't have much of an imagination.`——一个字不用改
 - 备注 判据：
@@ -4210,6 +4296,7 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
   ★ 不标 ⚠️ 但给她一行信息（§7 四问④：够不上 ⚠️ 的一律不标）：
     口语里"算不上个厨师"最常说的是 **not much of a cook**（cook ＝ 会做饭的人，日常；
     chef ＝ 职业厨师）。题面"厨师"两义都通 ⇒ 她用 chef 不算错也不算生硬
+- 2026-08-28 ✅ 复习第1组 · `he is **not much of a** chef.`—— 连对2，**毕业**
 
 ### 300 · stage 前面的介词是 at（at every stage／at this stage，不用 in）
 类型 搭配 ｜ 题面 **点名**："人这一辈子每个阶段都得学点新东西。"（"每个阶段"用 **stage** 说） ｜ 新建 2026-08-26（**补建**）
@@ -4217,7 +4304,7 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
 　　　点名的合法范围是**点目标词/句型/块**，"注意介词"点的是**考的是哪一类**，等于预告测试点。
 　　　只留 stage 就够：不点 stage 时 `at every point in your life`／`throughout your life`
 　　　两条合法绕路都不测本条；点掉之后介词那一格仍然空着 ⇒ 考点存活
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-25 ⚠️ 首犯 · 自由产出（新题 bank:987 P3）· `learning is necessary **in all stages of** your life`
   → necessary **at every stage of** your life
   ⛔ **教练漏建（08-26 她主动问"昨天的复习点都出全了吗"时才发现）**：当天这一处只写进了
@@ -4256,6 +4343,8 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
     `throughout your life` 两条合法绕路
   ★★ **补建的价值当场兑现**：这一处 08-25 判完只写进了 🎓#206 的一行档位备注、没有编号 ——
     若不是她 08-26 质询覆盖率，它今天根本不会出现在任何题里。补建 → 次日首测 → 一次修正
+- 2026-08-28 ✅ 复习第1组 · `You have to keep learning something new **at every stage** of life.`
+  ——介词 at 对 ⇒ 连对2，**毕业**。★ 从补建（08-26）到毕业只用了 3 天，全程零 ❌
 
 ### 301 · enjoy ＋ 物主代词 ＋ time／stay（不说 enjoy the time）
 类型 搭配 ｜ 题面 **点名**："那天跟他待着我挺开心的。"（"挺开心"用 **enjoy** 说，后面接"时光"） ｜ 新建 2026-08-26（**补建**）
@@ -4308,7 +4397,7 @@ enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主�
 　　　正是 **#304（turn to sb）的考点**，两条同组出 ⇒ 她答本条时会顺手把 #304 的答案先写出来。
 　　　新题面取判据里的原型句 `If anything breaks, just call me.`，与 #303／#304 零重叠
 　　★ 她的原话："这整句话 break, the kind of, turn to 都可以新建个条目"
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2）
 - 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
   `Whenever something breaks, he is the kind of person everyone turns to`——用得准，不是错
 - 备注 判据：
@@ -4337,14 +4426,16 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
   ⇒ **连对 0 → 1（差一次毕业）**
   ★ 今天改题面的收益：旧题面"…大家都**去找他**"会把 **#304（turn to sb）** 的答案先泄出去；
     改成判据原型句后两条互不干扰，同一组里 #302 和 #304 都独立命中
+- 2026-08-28 ✅ 复习第1组 · `if **anything breaks**, just give me a call.`
+  ——break 用作不及物、没写 is broken；if 从句里 anything 比 something 还更贴 ⇒ 连对2，**毕业**
 
 ### 303 · sb is the kind of person ＋ 关系从句（形容一个人是"那种人"）
-类型 句型 ｜ 题面 **点名**："他就是那种从来不放弃的人。"（用 **the kind of person** 那个框架说） ｜ 新建 2026-08-26（**她当场指定**）
+类型 句型 ｜ 题面 **点名**："他就是那种谁都信得过的人。"（用 **the kind of person** 那个框架说） ｜ 新建 2026-08-26（**她当场指定**）｜ 题面 2026-08-28 换成**宾语位从句**（08-27 用的是主语位 who never gives up，宾语位那一半从没验过；旧稿"他就是那种大家有事都会去找的人"因和 #304"去找"撞车弃用）
 　　★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"…大家有事都**去找**的人"
 　　　含 **#304（turn to sb）的考点**，同组出会互相泄题。
 　　　新题面换成**主语位关系从句**（who never gives up）——顺带把本条更难的那一半测到了：
 　　　从句里那个人当**主语** ⇒ **who 不能省**（原题面那种当宾语的才可省）
-状态 连对1 连错0 上次2026-08-27 未毕业（差一次毕业）
+状态 连对2 连错0 上次2026-08-28 ｜ **🎓 已毕业 2026-08-28**（连对2 · **主语位和宾语位两半都验过**）
 - 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
   `he is the kind of person everyone turns to`——关系代词省对了、紧贴、陈述语序，不是错
 - 备注 判据：
@@ -4379,6 +4470,12 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
   ★ 改题面的额外收益：为了避开与 #304 撞车才换成主语位从句，结果**顺带把本条更难的那一格
     测掉了**。⇒ **下次出题回到宾语位那句**（"他就是那种大家有事都会去找的人。"），
     两半都验过就更稳（那时 #304 别同组出）
+- 2026-08-28 ✅ 复习第1组（**题面当天换成宾语位从句后首测**）· `He's **the kind of person everyone trusts**.`
+  ——关系代词省略正确（the kind of person (who/that) everyone trusts）⇒ 连对2，**毕业**
+  ★★ 这是"两半都验过才毕业"：08-27 验主语位（who never gives up，who 不能省），
+     08-28 验宾语位（可省，她也确实省了）—— 不是半边过关就放走
+  ★ 08-27 收尾写的旧稿"他就是那种大家有事都会去找的人。"**弃用**：与 #304"去找"撞车（§6.5 项 8）；
+    换成"谁都信得过的人"同样是宾语位，且与全库零重叠
 
 ### 304 · turn to sb (for sth)（有事去找某人／求助）
 类型 词组 ｜ 题面 **点名**："遇到麻烦的时候大家都会去找他。"（"去找"用 **turn** 说） ｜ 新建 2026-08-26（**她当场指定**）
@@ -4481,11 +4578,16 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
   ★ `从来不慌` 她译成 `always keeps his cool`（正说代反说）—— 合法改写，意思对上，未改
 
 ### 306 · not just A — it's more B（"不只是A，更多的是B"：中间不能用 and）
-类型 结构 ｜ 题面 **点名**："过年这事儿不只是吃，更多的是一家人聚一聚。"（用 **not just … it's more …** 说完） ｜ 新建 2026-08-27
-状态 连对0 连错1 上次2026-08-27 未毕业
+类型 结构 ｜ 题面 **点名**："旅行不只是去看风景，更多的是换个环境放松一下。"（用 **not just … it's more …** 说完） ｜ 新建 2026-08-27 ｜ 题面 2026-08-28 换话题（旧稿"过年这事儿不只是吃，更多的是一家人聚一聚"与 #236 回潮复测题面"过年更多的是给全家一个聚一聚的理由"内容几乎重合，同日出会互相污染）
+状态 连对1 连错0 上次2026-08-28 未毕业（差一次毕业）
 - 2026-08-27 ❌ 首犯 · 付息日 d 段重答（R5）·
   `It's not just about the food itself, **and** more about a reason bringing my family together.`
   → It's not just about the food itself **— it's** more about…
+- 2026-08-28 ✅ 复习第2组（**新建次日进池首测，题面当天换话题避开与 #236 撞车**）·
+  `Travel is not just seeing the sights**;** it's more about relaxing in different environment.`
+  ——中间用**分号 ＋ 重起的 it's**，不是 and ⇒ **08-27 掉的那一格今天没再掉**，连对0 → **1**
+  ⚠️ 同句 not just seeing／it's more about relaxing 两半不同形 ⇒ 更好版补成 not just **about** seeing（并列同形）
+  ⚪ 同句 `in different environment` → in **a** different environment ＝ #56（形态类，只记号）
 - 备注 判据：
 ```
 "不只是 A，更多的是 B"这个框架，中间**不能用 and**：
@@ -4510,6 +4612,37 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
      · 🎓#52 同一处的讲评行 ⇒ 同上
      · sessions 引文 `That is not just that one time` ⇒ 是记录不是条目
   ③ 与最接近的条目的区别：全库**没有**管这个相关连词框架的条目 ⇒ 无最接近项
+  ⇒ **保留新建**
+
+### 307 · That's how ＋ 主谓（"这样一来他们才会…／就是这么来的"）
+类型 结构 ｜ 题面 **点名**："他们就是这么学会自己扛事的。"（用 **That's how** 起头说） ｜ 新建 2026-08-28（**她当场指定**）
+　　★ 她的原话："That's how(这才可以建个条目) they learn to take ownership."
+状态 连对0 连错0 未测过 ｜ **新建当天不测，2026-08-29 起进池**
+- 2026-08-28 新建 · **她主动提出**（§2③）· 复习第2组 #282 句里 · `That's how they learn to take ownership.`
+  ——她这一句**是用对了的**，建条目是因为她主动要（同 #299 那种情况），不是因为犯错
+- 备注 判据：
+```
+用途 ＝ 把**前面说的做法**和**它带来的结果**焊在一起，一句话收口。
+形状 ＝ That's how ＋ 【陈述语序的主谓】
+   ✅ That's how they learn to take ownership.
+   ✅ That's how it works.　　✅ That's how I got into it.
+   ✗ That's how do they learn.（里面不许用疑问语序 —— 那一处归 🎓#59，不归本条）
+★ 同族（一个族，先只立 how 这一个壳）：
+   That's why ＋ 主谓（给原因）　／　That's what ＋ 主谓（给内容）
+   ⇒ 以后她要 why／what 那两个壳，各自单开号，不并进本条（§3.1 一条 ＝ 一个考点）
+★ 用处 ＝ P3 里"给完机制之后收口"的标准动作：先说做法，再 That's how ＋ 结果
+```
+- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+  ① 目标英文形式 ＝ `That's how ＋ 主谓`
+  ② grep `That's how`／`that's how`／`That's why`／`这就是`／`收尾块`／`收尾句型` 全库（**含已毕业**）
+     → 命中逐条读：
+     · **#282 自己 08-23 的日志行**（`that's how they'll learn to take ownership of…`）
+       —— 这个块**第一次出现却没建号**，正是今天补的这一条；#282 只管 take ownership
+     · 🎓#283（It's really about A first, and then B）—— 把几点**排成先后**，不是"做法 → 结果"
+     · #290（… for totally different reasons depending on who you ask）—— 同一现象不同理由，不是因果收口
+     · 🎓#59（嵌入疑问用陈述语序）—— 管的是 how／what 从句**怎么排语序**，不管"这个块什么时候用"
+       **互斥关系写死**：她若写成 `That's how do they learn`，那一处判 #59，不判本条
+  ③ 说得出差在哪：#283／#290 是**别的收尾块**（不同词组）｜#59 是**语序规则**（不同层）
   ⇒ **保留新建**
 
 ## 迁移说明（2026-08-18）
