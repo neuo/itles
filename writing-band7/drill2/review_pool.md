@@ -374,3 +374,40 @@
 　⚠️ 实测提醒：`He dared not even think it` 与 `He did not even dare to think it` 仍然都合法，
 　　 所以这个题面**也只是把实义那条路变得别扭一点，堵不死**。这正是建议改测法的理由。
 ```
+
+---
+
+### #0021 As for family level → At the family level
+```
+毕业日          2026-08-27（D4 复习日 C3·组6 第 1 题）
+◎✅ 那次的原句  On the family level, grandparents can provide substantial assistance.
+为什么算对      `on … level` **本身是合法英语**，§0.8 造得出三句母语者例子：
+                · On a personal level, I disagree.
+                · On some level, he knew.
+                · The policy operates on a national level.
+                ⇒ §3.2「判 ❌ 只有两个理由」（句子本身错／意思没送到）两条都不成立 ⇒ 算对。
+                冠词那一半也确实命中了（the 在，不再是建号时的 `As for family level`）。
+没被行使的是    `**at** the … level` 这个块里的**介词**。
+                词义差：on … level 偏"从…这个角度来说"；at … level 才是"在这个层级上"
+                （国家层级／社区层级／家庭层级）。中文「在家庭层面」说的是层级 ⇒ at 更准。
+教练的账        题面只给了 lemma `level`，而 on 与 at 都能接上去 ⇒ 考点逼不出来。
+存好的新题面    **这项政策在国家层面制定，却要在家庭层面落实。**
+                **（★ 用 `at the … level` 这个块，两处都要出现）**
+                ⇒ 给块的骨架、把名词留空：介词与 the 仍然要她自己写。
+```
+
+### #0028 lead to loss in money and time → lead to a loss of money and time
+```
+毕业日          2026-08-27（D4 复习日 C3·组6 第 3 题）
+◎✅ 那次的原句  Following the crowd blindly will only result in significant monetary loss.
+为什么算对      `monetary loss` 作不可数用、零冠词 —— 完全成立
+                （suffer financial loss ／ result in monetary loss 都是标准写法）
+                ⇒ 句子本身没错、意思也送到 ⇒ 算对。
+没被行使的是    `a loss **of** money` 这个块里的**冠词 a 与介词 of**。
+                本条的原错是 `loss **in** money`（loss in 只用于 loss in value／weight／height），
+                而她这次用"形容词＋名词"把整块跳过去了，介词一次都没出现。
+教练的账        题面只给了中心名词 `loss` —— 而那个名词**可以被形容词化**，
+                于是整个介词结构被绕开。同日 #0021 是同一形状（只给中心名词，块的骨架没给）。
+存好的新题面    **一次误判就可能造成上百万的损失。（★ 用 `a loss of …` 这个块）**
+                ⇒ 给块的骨架，冠词与被修饰的名词留给她。
+```

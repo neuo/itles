@@ -86,6 +86,19 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
      ⇒ 命中率 1/13 —— 与 08-22 起的形状一致：**整体在守，个别短名词漏**
 ```
 
+```
+2026-08-27 组1 第 7 题　`**project** of this kind often **take** years`  → `**projects** of this kind`
+   ★ 本题的主考点是**两个副词的位置**（#0108），考点那两处**全对**，掉的是不被点名的名词。
+   ★ 08-25 那条观察（见下）当天就再次应验：漏掉的这一处，正好出现在
+     **同一句里同时处理另一件事**的时候。
+   ★ 本组另外 21 处可数名词的数**全部正确**（prices · exports · consumers · manufacturers ·
+     units · effects · years · cities · cars · individuals · remedies · barriers …）
+     ⇒ 命中率 **1/22**，与 08-25 的 1/13、08-24 的形状完全一致：**整体在守，个别短名词漏**
+   ⚠️ 同日第 5 题的 `the **interest** of consumers`（该复数 interests）**不归这条 R2**：
+     那不是"压力下掉 -s"，是"这个词在这个意思上本来就只用复数"的**词汇知识**，
+     已由 **#0064** 承接（连错 1）。R2 只收她低压场合写对过的那一类（§2⑤）。
+```
+
 **★ 2026-08-25 一条观察（写给下次扫的人）**
 ```
 今天唯一漏掉的这一处，出现在**同一句里同时处理另外两件事**的时候
