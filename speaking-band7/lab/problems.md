@@ -47,8 +47,17 @@
 
 ### 4 · 空评价骨架可丢（不说 famous，直接给事实）
 类型 减法型 ｜ 题面 不出中译英题；**挂当日自由产出抓**（出现 famous/important/good 而后面没跟事实 → ❌） ｜ 旧号 B4
-状态 连对1 连错0 上次2026-08-17 未毕业
+状态 连对2 连错0 上次2026-08-29 ｜ **🎓 已毕业 2026-08-29**（连对2）
 - 2026-08-17 ✅ 首次进流
+- 2026-08-29 ✅ 新题 P2（Describe an important river/lake）· **本条题面写死"挂当日自由产出抓"，今天这篇就是它的判定场**
+  逐处核过，**每一个评价词后面都跟了事实**，一处空评价都没有：
+  `a really wide and long river` → spanning China from west to east, emptying into the East China Sea
+  `super cloudy` → it must have been full of sand
+  `the primary source for Yibin` → supplying … residential and industrial use across the city
+  `holds special significance` → considered one of the mother rivers, along with the Yellow River
+  ⇒ 连对1 → **连对2，毕业**
+  ★ 加速通道边界自查（§4①）：本条**历史零 ❌**、从没掉过任何一格 ⇒ 不存在"掉的那一格没被测到"
+    的情况 ⇒ 边界不适用，照常推进连对
 - ⚠️ 08-17 她指出题面自相矛盾（题面里有"出名"却要求不译），已改成挂自由产出
 
 ### 5 · -ing 描述东西 / -ed 描述人（一句里两侧都要）
@@ -151,6 +160,9 @@
   `Whether you have help or not **makes** a huge different.`
   ——whether 从句当主语 ⇒ 谓语用单数 makes，**与 08-27 同一档、连续第二次做对**
   （同句 different／difference 那处判的是 #280 ＋ #156，与本条无关）
+- 2026-08-29 ⚪ 新题 P2 · **正面记号**（形态类只记号，不动状态行）·
+  `which **traps** the sand` ／ `the river **holds** special significance` ／ `it **is** the primary source`
+  ——三单 -s 三处全对，一处没漏
 - **检查触发**：每写完一个谓语，回头看主语是不是第三人称单数（08-19 她定，同比较级）
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
@@ -271,7 +283,7 @@
 
 ### 18 · 论元完整（中文可单说的动词，英文必须带宾语/补语）
 类型 结构 ｜ 题面 "我找了半天也没找到。" ｜ 旧号 B41
-状态 连对2 连错0 上次2026-08-21 ｜ **累错 5** ｜ **🎓 已毕业 2026-08-21**
+状态 连对0 连错1 上次2026-08-29 未毕业 ｜ **累错 6** ｜ **回潮 2026-08-29**（08-21 毕业 → 08-29 再犯，撤销毕业、连对清零）
 - 2026-08-11 ❌
 - 2026-08-12 ❌
 - 2026-08-13 ❌
@@ -283,6 +295,18 @@
   searched 作不及物用法在这句里成立 ｜同句 found→find 的形态错归 #147，不算本条头上
 - 2026-08-21 ✅ 复习#32 句里 · `there's no point regretting **it**.`——08-19 掉的正是这句的宾语 it，
   今天 cold 重测带上了 → **连对2，毕业**（§3.3 标记打在条目上，不打在整句上）
+- 2026-08-29 ❌ 新题 P2（Describe an important river/lake）· **回潮**（08-21 毕业 → 08-29 再犯）·
+  `it is the primary source for YiBin, **supplying for** both residential and industrial use across the city.`
+  → supplying **water** for both residential and industrial use
+  ❌ supply 是及物动词，供应的那个东西必须说出来。中文"供全市生活和工业使用"可以不说"水"，英文不行
+  ★ **判重的决定性证据（为什么归本条、不新建号）**：按本条的规则去改（把动词的宾语补出来），
+    得到的正是 `supplying **water** for…` —— **本条给得出那个正确答案 ⇒ 是同一条规则**，归本条、判回潮。
+    ★ 对照被排除的另一条路：若按"supply for 是搭配错"去改 ⇒ `supplying both … use`
+      —— 供应的不是"用途"，**还是不对** ⇒ 那条路给不出答案
+  ★ 照本条备注的老规矩，必须和 🎓#134（白名单：decide/choose/help/manage/win 能单独站住）一起读 ——
+    **supply 不在白名单里**，所以要补宾语
+  ⚠️ 同句同根的第二处**落在名词上**：`the primary source for Yibin` → the main source **of water** for Yibin
+    —— 她把"水"连丢了两次（名词一次、动词一次）。本条只管动词 ⇒ 名词那一处**不另开号**，只记在这里
 - 备注 primed 8/8 但 20 分钟后 cold 即掉 ⇒ 产出时掉，修法只有块化
 - ⚠️ **必须和 #134 一起读**（08-19 判重发现两条会互相带偏）：本条说"英文动词必须带宾语"，
   #134 说"decide/choose/help/manage/win 这些能单独站住"。**先查这个动词在不在 #134 的白名单里**，
@@ -711,7 +735,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 59 · 直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序
 类型 语法 ｜ 题面 "你昨天吃的什么？" ／ "我不知道你昨天吃了什么。" ｜ 旧号 B82＋B146
-状态 连对2 连错0 上次2026-08-28 ｜ 回潮已断（08-20 回潮）｜ **🎓 已毕业 2026-08-23**
+状态 连对2 连错0 上次2026-08-29 ｜ 回潮已断（08-20 回潮）｜ **🎓 已毕业 2026-08-23**
 - 2026-08-09 ✅（原 #211）
 - 2026-08-13 ✅（原 #211）
 - 2026-08-15 ✅（原 #211）→ 连对 3，判毕业
@@ -746,6 +770,10 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   （✗ who do you ask）。#290 的判据里点名写着这条规则同属本条 ⇒ 两条同时命中
 - 2026-08-28 ✅ **自发命中·连续第四篇**（本条未被出题，不改已毕业状态）· 复习第3组 #290 句里 ·
   `depending on **who you ask**`（不是 who do you ask）—— 陈述语序，一字不差
+- 2026-08-29 ✅ 新题 P2 · **自发命中**（本条已毕业，只留痕、不推进数字）·
+  `As for **how important the Yangtze River is**, …`（不是 how important is the Yangtze River）
+  ——嵌入疑问用陈述语序，一次到位；而且这句同时当第四个 bullet 的路标，两件事一句话办完
+  ★ **连续第二篇**在自由产出里自发命中（08-27 R5 `how much effort you put in`）
 - 备注 合并 2026-08-19：#211（直接疑问 vs 嵌入疑问的边界）并入本条 —— 同一条规则；
   题面取 #211 那两句（一直一嵌，对照最清楚）。备用题面（原 #59）："得考虑路要修多宽。"
 
@@ -1082,6 +1110,10 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-08-19 ✅ `a diverse economy`——上一句是 the economy，加了形容词就回到 a，没被带跑
 - 2026-08-20 ❌ **自由产出**（新题 bank:187）· `can get good feedback in short time`——该 in **a** short time
   ⇒ 名词一带形容词就回到 a。形态类，正是"只在自由产出里判"要抓的场景
+- 2026-08-29 ⚪ 新题 P2 · **正面记号**（形态类只记号，不动状态行）·
+  `**a** really wide and long river` ——加了形容词说"哪一种河"，冠词回到 a，做对了。
+  同篇 `a small city` ／ `a hydropower station` ／ `the water` ／ `the sand` ／ `one of the mother rivers`
+  全篇冠词一处不漏
 - **检查触发**：写完"形容词＋名词"，回头看前面有没有 a／an
 
 ### 90 · 完成时的三个触发（for/since · ever/never/before · just/already/yet）
@@ -2348,6 +2380,12 @@ mirror … regarding orderliness and planning → pick up … how tidy they are,
   ★★ 这一处值得单独记，和同日 P3 的 `output at work` 是**同一个形状**：
      `is really into Lego` 就写在**同一篇的第二句**，到第十一句没复用上 ——
      ⇒ 检查触发再加一条：**写完一段回头看，这一段前面有没有现成的块可以直接再用一次？**
+- 2026-08-29 📝 新题 P2 · **记备注，不判回潮**（本条已毕业，状态行不动）·
+  两处书面登记：`**Additionally**, the river **holds special significance** in ancient Chinese history`
+  → On top of that, the river **means a lot in** Chinese history
+  ★ 裁法沿用 08-27 R7 `In today's fast-paced world` 那一次（归本条记备注、不判回潮）——
+    档位是 ⚠️（母语者也说），不是 ❌
+  ⚠️ **但这是连续第二篇被记同一件事** ⇒ 若第三篇再出现，把"是否该回潮"提给她裁
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -4760,6 +4798,76 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
        **互斥关系写死**：她若写成 `That's how do they learn`，那一处判 #59，不判本条
   ③ 说得出差在哪：#283／#290 是**别的收尾块**（不同词组）｜#59 是**语序规则**（不同层）
   ⇒ **保留新建**
+
+### 308 · empty into ＋ 海／湖（河流"注入"某处的介词）
+类型 词组 ｜ 题面 **点名**："这条河一路向东，最后流进东海。"（"流进"用 **empty** 说） ｜ 新建 2026-08-29
+状态 连对0 连错1 上次2026-08-29 未毕业
+- 2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）·
+  `…spaning China from west to east and eventually emptying **in** the east China sea.`
+  → eventually emptying **into** the East China Sea
+  ★ 同句另外两处**全对**，单独记：`spanning China from west to east`（分词逻辑主语＝river，挂得住）·
+    `eventually` 的位置
+- 备注 判据：
+```
+河流"注入／流进"某处 ⇒ 介词一律 **into**，不是 in。三个动词都配 into：
+  ✅ The river **empties into** the sea.      ← 最正式、地理描述默认
+  ✅ The river **flows into** the sea.        ← 最常用
+  ✅ The river **runs into** the sea.         ← 最口语
+★ 上位判据（可迁移到所有 in／into）：**句子里有"移动 / 进入"的意思 → into；只是说"在里面" → in**
+  ✅ He walked **into** the room.（进去，有动作）　　✅ He's **in** the room.（在里面，静态）
+  ✅ Pour it **into** the glass.                 ✅ It's **in** the glass.
+★ 检查触发：写完一个介词，先问"这里在讲**位置**还是在讲**进去这个动作**？"
+```
+- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
+```
+① 目标英文形式 ＝ `empty into`
+② `lab.py dedup into "in/into" 流进` → 命中 10 条（含已毕业），逐条读：
+   · 🎓#104（bury yourself **in** sth，比喻义只配 in 不配 into）—— **最接近的一条**。
+     **决定性证据**：按 #104 的规则改这句 ⇒ 得到 `emptying in`（＝她写的错句）
+     ⇒ **给不出正确答案 ⇒ 不是同一条规则**。而且方向相反（#104 是"该 in 不该 into"）
+   · 🎓#126（settle into）／🎓#34（in groups）—— 各自是别的固定词组
+   · 🎓#87 #117 #164 #206 #289 #304 #307 —— 命中的都是历史行例句里恰好出现 into，不是考点
+③ 说得出差在哪：#104 差在**词组不同、方向相反** ⇒ **保留新建**
+```
+
+### 309 · 推测过去 ＝ must have ＋ 过去分词
+类型 结构 ｜ 题面 **点名**："那时候他一定是太累了。"（用 **must** 说这个推测） ｜ 新建 2026-08-29
+状态 连对0 连错1 上次2026-08-29 未毕业
+- 2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）·
+  `When i was a kid, the water was super cloudy - it **must be** full of sand.`
+  → it **must have been** full of sand
+  ★ 为什么是真错不是小毛病：`must be` 说的是**现在**（"现在它一定满是泥沙"），
+    而她下一段刚说现在水已经清了 ⇒ **同一篇里前后打架**，不是可有可无的时态装饰
+- 备注 判据：
+```
+对**过去**的事下推测 ⇒ 情态词后面挂 **have ＋ 过去分词**，不是原形。三档一起记：
+  must have been …    一定是（有把握）
+  can't have been …   不可能是（否定的确信）
+  might/could have been …  可能是（不确定）
+★ 对照（同一个情态词，时间不同，形式不同）：
+  ✅ He must **be** tired.        （现在看着他就累）
+  ✅ He must **have been** tired. （那天他一定是累了）
+★ 检查触发：写完 must／can't／might，先问一句 —— **我在猜的是"现在"还是"当时"？**
+  当时 ⇒ 后面必须有一个 have。
+★ 与 ⛔#147 的分工写死：**#147** 管"情态词后面动词一律原形"（must be，不是 must is）；
+  **本条** 管"该不该在情态词后面插一个 have 进来"。两条互不覆盖
+```
+- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判）：
+```
+① 目标英文形式 ＝ `must have been`
+② `lab.py dedup must 情态 "have been"` → 命中 10 条（含已毕业），逐条读：
+   · ⛔#147（时态只标一次：did/will/should/can/must 一出现，后面动词一律原形）—— **最接近的一条**。
+     **决定性证据**：按 #147 的规则改这句 ⇒ 得到 `must be`（＝她写的）
+     ⇒ **给不出正确答案 ⇒ 不是同一条规则**（且 #147 是形态类·不出题，归它等于永远不测）
+   · 🎓#259（完成时：have/has/had 之后一律用过去分词）—— 它管的是 have **后面**挂什么形式，
+     管不到"该不该把 have 插进来" ⇒ 不同考点
+   · 🎓#214（完成进行时 have been ＋ -ing）—— 目标形式不同（been ＋ -ing vs been ＋ 形容词/名词）
+   · 🎓#130 #6 #143 #177 #60 #285 #294 —— 各自别的规则，与"对过去的推测"无关
+③ 说得出差在哪：#147 差在**它只管原形、不管 have** ⇒ **保留新建**
+★ 不是形态类（§3.4 自查）：形态类清单 ＝ 主谓一致／时态标记／单复数·限定词／冠词·指称／比较级／
+  否定标记／不规则动词变形。`must have done` 是一个**结构**（要多插一个助动词），
+  不是词尾标记 ⇒ 照常出题、照常走连击
+```
 
 ## 迁移说明（2026-08-18）
 

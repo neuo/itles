@@ -142,4 +142,24 @@ M43 否定辖域会顺着 and 盖过去（教练侧判据 ＋ 她侧自查）
                      ★ 档位 ＝ **⚠️ 不是 ❌**（句子成立，只是歧义）⇒ 按 2026-08-27 的分界
                        "判她写错了没有"，**不建条目**；教练在自由产出里当判据用
                                                                     新建 2026-08-28
+M44 描述型 bullet 别平铺，走"过去 vs 现在 ＋ 一条因果链"（她侧，＝ M5 在描述题上的对应件）
+                     P2 里 "What it looks like ／ Describe what it's like" 这一格，
+                     平铺形容词（很宽、很长、很美）是最低档，因为**谁都能说、说完就没了**。
+                     动作 ＝ 把这一格改成两步：
+                       ① **切两个时间面**：以前是什么样 → 现在是什么样（中间一句话标出切换点）
+                       ② **补一条因果链**：为什么会变 —— 谁做了什么 → 导致了什么 → 于是有了①②两个结果
+                     ★ 实证（2026-08-29 · P2 river/lake）：她没有描述长江"长什么样"，而是写
+                       `When I was a kid, the water was super cloudy…` →
+                       `**Things are different now.**` →
+                       `A hydropower station was built upstream…, and it traps the sand,
+                        **making** the water crystal clear **and keeping** the water level
+                        from rising too high.`
+                       —— 一个 bullet answer 里同时装下了：两个时间面 · 一条三步因果链 ·
+                       两个并列同形的结果。这是把描述题当机制题答
+                     ★ 切换点必须**单独成一句**（Things are different now. ／ That's all changed now.）
+                       —— 四个词，听者不会把两个时间平面串在一起
+                     ★ 与 **M5** 的关系：M5 管差异题（立一根尺子，说两边各在哪一端），
+                       本条管描述题（切两个时间面，说中间发生了什么）。**同一套"别平铺、给结构"的思路，
+                       两种题型各一件**
+                                                                    新建 2026-08-29
 ```
