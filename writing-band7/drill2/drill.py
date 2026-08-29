@@ -858,6 +858,115 @@ def fmt_ids(ids, per=14, indent="        "):
     return "\n".join(out)
 
 
+# ══════════════════════════════════════════════════════════════════════════
+#  count —— 按【类型】数条目（SKILL §0.4：全档级的数一律由脚本产出）
+#  类型的定义（口径 + 认哪个锚点）写死在 SKILL §3.1 契约⑫，改这里必须同步改那里。
+# ══════════════════════════════════════════════════════════════════════════
+def _first_symbol(e):
+    return e.history[0].symbol if e.history else None
+
+
+def _essay_only_body(e):
+    """正文别处（不在中文触发点里）出现「不出单点题」⇒ pick 认不到 ⇒ 要报出来。"""
+    return (not e.essay_only) and ("不出单点题" in "\n".join(e.raw))
+
+
+TYPES = [
+    # slug             中文名          口径（认哪个锚点）                                  predicate
+    ("pool",       "在池",        "状态行第 1 格 ＝ 在池",                        lambda e: e.in_pool),
+    ("grad",       "🎓 毕业",      "状态行第 1 格 ＝ 🎓",                          lambda e: e.graduated),
+    ("retired",    "退池",        "状态行第 1 格 ＝ 退池",                        lambda e: e.state == "退池"),
+    ("merged",     "并入",        "状态行第 1 格 ＝ 并入 #NNNN",                  lambda e: bool(e.state) and e.state.startswith("并入")),
+    ("essay",      "挂作文验",     "**中文触发点**里有「不出单点题」五个字（§6）",    lambda e: e.essay_only),
+    ("essay-bad",  "挂作文验·写歪", "「不出单点题」写在正文别处 ⇒ pick 认不到",      _essay_only_body),
+    ("pickable",   "可出题",      "在池 ＋ 非挂作文验 ＋ 题面不待补",               lambda e: e.in_pool and not e.essay_only and not e.trigger_todo),
+    ("trigger-todo", "题面待补",   "在池 ＋ 中文触发点为空或含「待补」",             lambda e: e.in_pool and e.trigger_todo),
+    ("review",     "REVIEW 池",   "状态行下有 `⚠️🔍 **REVIEW 池**`（§3.3）",       lambda e: e.review_mark),
+    ("wordlist",   "词表型",      "正文挂着 `**成员出题账**`（§3.5 第3.5步）",       lambda e: bool(e.members)),
+    ("nopair",     "有禁配声明",   "正文写着「不能和 #NNNN」（§6 组内排布）",         lambda e: bool(e.no_pair_with())),
+    ("streak0",    "在池·连对 0",  "在池 ＋ 连对 0",                               lambda e: e.in_pool and e.ok == 0),
+    ("streak1",    "在池·连对 1",  "在池 ＋ 连对 1",                               lambda e: e.in_pool and e.ok == 1),
+    ("streak2+",   "在池·连对 ≥2", "在池 ＋ 连对 ≥2 ⚠️ 到线未毕业，该改 🎓",        lambda e: e.in_pool and e.ok is not None and e.ok >= 2),
+    ("by-error",   "建号·她犯错",  "历史记录第一行符号 ＝ ❌（§2①）",               lambda e: _first_symbol(e) == "❌"),
+    ("by-request", "建号·她点名",  "历史记录第一行符号 ＝ ③（§2③）",               lambda e: _first_symbol(e) == "③"),
+    ("migrated",   "旧档案迁移",   "第一条历史行日期 < 2026-08-19",                lambda e: bool(e.created_on()) and e.created_on() < "2026-08-19"),
+    ("never",      "从未被判定",   "历史记录里写着「（从未被判定过）」",              lambda e: e.never_judged),
+    ("in-problems", "住 problems.md", "解析时的来源文件",                          lambda e: e.src == "problems.md"),
+    ("in-graduated", "住 graduated.md", "解析时的来源文件",                        lambda e: e.src == "graduated.md"),
+]
+TYPE_MAP = {t[0]: t for t in TYPES}
+
+
+def cmd_count(args):
+    ents = load_all()
+    total = len(ents)
+
+    if args.type and args.type.startswith("fam:"):
+        fam = args.type[4:].upper()
+        slug, label, rule = args.type, f"族 {fam}", "状态行最后一格 ＝ 族 FNN"
+        sel = [e for e in ents if e.fam == fam]
+    elif args.type:
+        if args.type not in TYPE_MAP:
+            print(f"⛔ 没有这个类型：{args.type}")
+            print("   可用类型：" + " ".join(t[0] for t in TYPES) + " fam:FNN")
+            return 1
+        slug, label, rule, pred = TYPE_MAP[args.type]
+        sel = [e for e in ents if pred(e)]
+    else:
+        slug = None
+
+    print("═" * 78)
+    if slug is None:
+        print(f"drill.py count · 全档 {total} 条 · 按类型逐类实数（SKILL §3.1 契约⑫）")
+        print("═" * 78)
+        print(f"{'类型':<14}{'全档':>5}{'在池':>6}   口径（认哪个锚点）")
+        print("─" * 78)
+        for s, label, rule, pred in TYPES:
+            n = sum(1 for e in ents if pred(e))
+            npool = sum(1 for e in ents if pred(e) and e.in_pool)
+            flag = (f"  ⛔ 要修" if npool else ("  （都出池了，不影响 pick）" if n else "")) \
+                if s in ("essay-bad", "streak2+") else ""
+            print(f"{s:<14}{n:>5}{npool:>6}   {label} —— {rule}{flag}")
+        print("─" * 78)
+        fams = Counter(e.fam for e in ents if e.fam)
+        print("fam:FNN       " + "  ".join(f"{f}={fams[f]}" for f in sorted(fams)))
+        print("─" * 78)
+        st = sum(1 for e in ents if e.in_pool or e.graduated or e.state == "退池"
+                 or (e.state or "").startswith("并入"))
+        print(f"✔ 状态四类相加 {st} ＝ 全档总数 {total}" if st == total
+              else f"⚠️ 状态四类相加 {st} ≠ 全档总数 {total} —— 有条目的状态没解析出来")
+        print()
+        print("⇒ 要某一类的编号清单：`drill.py count --type <类型>`")
+        print("⇒ 再要逐条详情　　　：`drill.py count --type <类型> --detail`")
+        print("⇒ 要正文全文　　　　：`drill.py show #NNNN`")
+        print("═" * 78)
+        return 0
+
+    npool = sum(1 for e in sel if e.in_pool)
+    print(f"drill.py count --type {slug} · **全档 {len(sel)} 条**（其中**在池 {npool} 条**）/ 全档总数 {total}")
+    print(f"口径：{label} —— {rule}")
+    print("★ 报这个数时必须写清是【全档】还是【在池】口径 —— 两个数不一样（SKILL §0.4）")
+    print("═" * 78)
+    sel.sort(key=lambda e: (e.fam or "", e.num))
+    if not sel:
+        print("（零条）")
+    elif args.detail:
+        fam = None
+        for e in sel:
+            if e.fam != fam:
+                fam = e.fam
+                print(f"\n── {fam} ──")
+            star = "🔍" if e.review_mark else " "
+            st = {"在池": "在池", "🎓": "🎓 ", "退池": "退池"}.get(e.state, "并入")
+            print(f"{e.num} {st}{star}{e.ok}/{e.bad} {(e.last or '—')[5:]:>5} "
+                  f"{e.src[0]}  {e.title}")
+    else:
+        print(fmt_ids([e.num for e in sel], indent="  "))
+    print("═" * 78)
+    print(f"⇒ {len(sel)} 条。逐条详情加 --detail；正文用 `show #NNNN`")
+    return 0
+
+
 def cmd_stats(args):
     ents = load_all()
     total = len(ents)
@@ -1389,6 +1498,11 @@ def main():
     p.add_argument("--no-history", action="store_true", help="不搜历史记录，只搜规则本身")
     p.add_argument("--exclude", nargs="*", help="排除这些编号（§3.5 第4步 C3 复查自己时用）")
     p.set_defaults(func=cmd_dedup)
+
+    p = sub.add_parser("count", help="按【类型】数条目：不带 --type 打全表，带了打清单")
+    p.add_argument("--type", help="类型 slug（见不带参数时打印的那张表），或 fam:F08")
+    p.add_argument("--detail", action="store_true", help="逐条打 编号·状态·连对/连错·上次·标题")
+    p.set_defaults(func=cmd_count)
 
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")
