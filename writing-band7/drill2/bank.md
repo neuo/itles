@@ -433,6 +433,7 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 | # | 日期 | 条件 | 分 | 主要错 |
 |---|---|---|---|---|
 | 1 | 07-14 | **cold 限时** | **6.5**（TR 7.0 / CC 7.0 / LR 6.0 / GRA 6.0） | `counties`→countries；`eassy`；`exmaple`；`peopel`；`Toutube`；🚩 `go **rural**`→go **viral**；`a large **amount** of people`→number；`every **T-shirts are**`；`phenomenon **that**`→where；`the preference **are** constantly **effecting**`；`global fashion **play**`；`people **benefits**`；`Looking forwards`；`we can **expected**` |
+| 2 | **08-29** | cold 限时（★ 先交中文构思稿并经清单诊断，见 sessions/2026-08-29.md a-3～a-10） | **7.0**（TR **7.0** / CC **7.0** / LR 7.0 / GRA 7.0） | 372 词 · 17 句 · 干净句率 **88.24%**（15/17）· 词汇错 **2**，K270 = **1** · **零拼写错**（07-14 那次 5 处，含 `go rural`→viral）。<br>只有两处：`**Video** created by…`→Videos（GRA 单复数，本篇 R2 唯一命中）· `this trend is **highly positive development**`→a（GRA 冠词，同一个块在结论里写对了）。<br>词汇错两处：`identical information and **materials**`（服装语境指面料，中文要的是"东西"）· `a wave of **follow-up trends**`（follow-up ≠ 跟风）。<br>⚠️ LR 与 GRA 查表本来是 8.0，撞 §2.3d 硬约束② 压回 7.0（**封顶来的，不是挣的**）；**TR 7/7 与 CC 4/4 是实打实查出来的**。<br>🎯 靶子2（介词）**清零**：全篇固定介词零失守；靶子1 守住但**不宣布清零**（Body2 的关键删改出自中文诊断） |
 
 📍 `gemini/corrections_2026-07.md:808-814`
 🎯 靶子：①**P4 单复数/主谓**（重灾区，5 处）②**P5 拼写**（5 处）

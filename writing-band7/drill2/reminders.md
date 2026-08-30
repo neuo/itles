@@ -99,6 +99,19 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
      已由 **#0064** 承接（连错 1）。R2 只收她低压场合写对过的那一类（§2⑤）。
 ```
 
+```
+2026-08-29 组1 第 2 题　`no one else **can gets** a dime`　→ `can **get**`
+   ★★ **方向与以往全部实例相反**：前面 6 条都是压力下**掉** -s，这一条是**多**了一个 -s。
+   ⇒ 说明 R2 要扫的不是"有没有漏 -s"，是"**-s 这一格有没有被正确控制**" —— 两个方向都要看。
+   ⇒ 具体形状：**情态动词后面接原形**（can / will / should ＋ 动词原形，⛔ 不加 -s）。
+   ★ 同组另外 22 处可数名词的数**全部正确**（suppliers · workers · targets · tools · solutions ·
+     nurses · patients · wards · accounts · schools · families · fees · grandparents …），
+     还包括一处 #0048 的最强形状：`the number of nurses … **has** grown … **than that of** patients` ✔
+     ⇒ 命中率 **1/23**，与 08-24 的 2/x、08-25 的 1/13、08-27 的 1/22 同形：**整体在守，个别格失控**
+   ★ 本次失控的那一句，正是本组**唯一同时扛着两个考点**的句子（#0347 的两个排他副词）——
+     再次应验下面那条 08-25 的观察：先挑本组最忙的那一句去扫。
+```
+
 **★ 2026-08-25 一条观察（写给下次扫的人）**
 ```
 今天唯一漏掉的这一处，出现在**同一句里同时处理另外两件事**的时候
