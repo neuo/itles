@@ -112,6 +112,19 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
      再次应验下面那条 08-25 的观察：先挑本组最忙的那一句去扫。
 ```
 
+```
+2026-08-30 组1 全组　**零命中** —— 21 处主谓一致与名词的数全部正确
+   （food and housing **account** ／ the two sectors **have** ／ applications … often **have** ／
+     the young generation readily **embraces**）
+   ★★ 这是 08-20 以来**第一场 R2 完全零命中**。
+2026-08-30 组2 第 3 题　`This brand **focus** on` → `focuses`（三单 -s 掉）
+   ★ 本组另外 22 处全对，含本线最强形状 `the taste **of young people** has been changing` ✔
+     （单数中心词 taste 跨过 of 短语、紧挨谓语的是复数 people，没被拉走 —— #0048 的形状）
+   ⇒ 命中率 **1/23**，与 08-29 的 1/23、08-27 的 1/22、08-25 的 1/13 完全同形
+   ★★ 失控的这一句正是本组**唯一同时扛两个考点（look ＋ taste）**的句子
+     ⇒ 08-25 那条观察连续第 4 场应验：**先挑本组最忙的那一句去扫**
+```
+
 **★ 2026-08-25 一条观察（写给下次扫的人）**
 ```
 今天唯一漏掉的这一处，出现在**同一句里同时处理另外两件事**的时候
@@ -151,3 +164,36 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 与 R1 R2 同一个机制（压力下最轻的成分先掉），不是"不知道这个块"。
 ⚠️ **可推翻**：如果后面出现证据表明她根本不知道 `speak the truth` 这个块本身，
 　 那就不是掉零件而是词汇缺口 ⇒ 从 R3 移出去，正式建条目。
+---
+
+## R4 · 副词的 -ly 被吞掉（2026-08-30 新增）
+
+**扫什么**
+```
+形容词前面那个词        它修饰的是形容词吗？是 ⇒ 必须带 -ly
+                        `a **remarkably** poor yardstick` ✔　⛔ ~~a remarkable poor yardstick~~
+动词前后那个修饰词      同理　`**readily** embraces` ✔ · `**immediately** followed` ✔
+⚠️ 例外（本来就同形，不加 -ly）：fast · hard · long · early · overseas · in-house（#0333 🎓）
+```
+**为什么放这里不建条目（§2⑤ 判据）**
+```
+她在低压场合写对过远不止两次 —— **2026-08-30 一天两组她写对了 12 个 -ly 副词**：
+  readily · immediately · merely · ultimately · simultaneously · considerably ·
+  actually · exclusively · mainly · equally · rapidly · explicitly
+⇒ 规则本来就会，是**压力下把词尾吞掉**，与 R1（动词词尾）R2（名词与主谓 -s）同一个机制
+⇒ 建条目无效：反复出题 → 她反复答对 → 毕业 → 下次照错
+```
+**⛔ 与 #0267（fairly 一族，🎓）分界 —— 这两条最容易串，写死**
+```
+#0267 管【刻度】：slightly ＜ somewhat ＜ fairly ＜ rather ＜ quite ＜ very ＜ considerably
+R4    管【词类】：这个位置该站副词还是形容词
+反向验（§3.5 1.3，两条可独立取值 ⇒ 不是同一条）：
+  2026-08-22  `remarkably solid`  —— **词类对、刻度错** ⇒ 归 #0267
+  2026-08-30  `remarkable poor`   —— **刻度说得通、词类错** ⇒ 归 R4
+```
+**实例账**
+```
+2026-08-30 组2 第 2 题　`a **remarkable** poor yardstick` → `remarkably`
+   ★ 同日另外 12 处 -ly 副词全对 ⇒ 命中率 **1/13**，与 R2 的 1/23 同形：整体在守、个别格失控
+   ★ 失控的这一句同时扛着两个考点（benchmark ＋ yardstick）—— 与 R2 的 08-25 观察同源
+```

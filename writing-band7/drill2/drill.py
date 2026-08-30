@@ -23,6 +23,8 @@
     python3 drill.py show  #0059 [#0071 …]
   记账（SKILL §4③d ／ §3.1 契约⑪）—— 判定行写好后一次落盘，⛔ 不再手写插入位置
     python3 drill.py append --file rows.md --date 2026-08-25 [--dry-run]
+  交付物硬闸（SKILL §4③bc §4④ §4⑤e）—— 发给她之前跑，ERROR>0 ⇒ 不许发
+    python3 drill.py deliver --session sessions/2026-08-30.md [--section 组1|回看|新题]
   统计与校验（SKILL §0.3 §0.4 §4⑥）
     python3 drill.py stats [--brief]
     python3 drill.py check [--changed | --all] [--quiet]
@@ -32,6 +34,7 @@
 """
 
 import argparse
+import io
 import os
 import random
 import re
@@ -1461,6 +1464,365 @@ def cmd_append(args):
 
 
 # ══════════════════════════════════════════════════════════════════════════
+
+# ══════════════════════════════════════════════════════════════════════════
+# deliver —— 交付物完整性硬闸（SKILL §4③bc / §4④ / §4⑤e）
+#
+# 她 2026-08-30 定（方案 A）。原话：「我觉得你改不了，想想有没有别的方案」——
+# 起因：交付物完整性这条规则只写在 skill 里，08-29 破一次（三版对照块发成 4 块片段）、
+#       08-30 再破一次（回看只发动过的 5 块 ＋「其余全部未改」，还漏发两份全文）。
+#       08-29 加过一条「发出前先数一遍」的散文钩子，存活不到 24 小时。
+# ⇒ 结论：这一类只能上机器闸，⛔ 不许再加第三条散文钩子。
+#
+# ⛔ 本子命令【只读 session 文件 + 数数 + 打印】，不写任何文件、不产生任何内容。
+# ══════════════════════════════════════════════════════════════════════════
+
+# 节的锚点：section slug -> (## 标题匹配, 必需子件清单)
+#   子件 = (人读的名字, 该子件的 ### 标题里必须出现的关键词 列表[任一命中即算有])
+DELIVER_SPECS = {
+    "组": {
+        "head": None,  # 运行时用 "## 复习 · 第 N 组" 拼
+        "parts": [
+            ("题面",       ["题面"]),
+            ("她的答案",   ["她的答案"]),
+            ("a 判定表",   ["判定表"]),
+            ("bc 三版对照块", ["三版对照块"]),
+            ("d 战报",     ["战报"]),
+        ],
+    },
+    "回看": {
+        "head": "## 回看",
+        "parts": [
+            ("题面与条件",     ["题面", "出题"]),
+            ("她的原文",       ["她的原文", "逐句编号", "原文"]),
+            ("三版对照块",     ["三版对照块"]),
+            ("最小修改版全文", ["最小修改版全文", "最小修改版"]),
+            ("更好版全文",     ["更好版全文", "更好版"]),
+        ],
+    },
+    "新题": {
+        "head": "## 新题",
+        "parts": [
+            ("题面与条件",     ["题面", "出题"]),
+            ("她的原文",       ["她的原文", "逐句编号", "原文"]),
+            ("收稿",           ["收稿"]),
+            ("判分",           ["判分"]),
+            ("对照 problems",  ["对照 problems", "对照"]),
+            ("三版对照块",     ["三版对照块"]),
+            ("最小修改版全文", ["最小修改版全文", "最小修改版"]),
+            ("更好版全文",     ["更好版全文", "更好版"]),
+        ],
+    },
+}
+
+# 块内必须齐的五行（label 是行首 strip 后的前缀）
+BLOCK_LINES = [
+    ("原句",       "原句"),
+    ("最小修改",   "最小修改"),
+    ("└ 改了什么", "└ 改了什么"),
+    ("更好版",     "更好版"),
+    ("└ 为什么好", "└ 为什么好"),
+]
+
+# 摘要句黑名单 —— 只在【三版对照块】子件里查（别处出现是记录，不是交付物）
+DELIVER_BLACKLIST = [
+    "其余全部未改", "其余均未改", "其余略", "以下略", "余下略",
+    "其余同上", "不再逐一", "其余各句均", "其余各题均", "略去",
+]
+
+# ★ 两条日期线（与 check 的存量提示同一个设计）：更早的写法列为「存量提示」，⛔ 不报错
+#   2026-08-23  她定下三版对照块，取代旧的「最小修改版／更好版／diff 表A／表B」四份
+#   2026-08-30  她定下回看／新题的交付件清单（含最小修改版全文 ＋ 更好版全文）
+DELIVER_FLOOR_BLOCKS = "2026-08-23"
+DELIVER_FLOOR_NODES  = "2026-08-30"
+
+RE_BLOCK_HEAD = re.compile(r"^#(S?\d+[a-z]?)\s*$")
+RE_NUM_ITEM   = re.compile(r"^\s*(\d+)\.\s")
+RE_SENT_ID    = re.compile(r"^S(\d+)\s")
+RE_TOTAL_SENT = re.compile(r"共\s*(\d+)\s*句")
+
+
+def _slice_h2(lines, head_pred):
+    """取出一个 ## 节的行区间 [a,b)。找不到返回 None。"""
+    a = None
+    for i, ln in enumerate(lines):
+        if ln.startswith("## ") and head_pred(ln):
+            a = i
+            break
+    if a is None:
+        return None
+    for j in range(a + 1, len(lines)):
+        if lines[j].startswith("## "):
+            return (a, j)
+    return (a, len(lines))
+
+
+def _sub_parts(lines, a, b, h2_too=False):
+    """把节切成子件：[(标题行, s, e), …]。节首到第一个标题之间算 '(节首)'。
+    h2_too=True 时 ## 级标题也算子件 —— 新题这条路历史上把判分/对照/三版对照块写成了 ##。"""
+    if h2_too:
+        idx = [i for i in range(a, b) if lines[i].startswith("### ") or (lines[i].startswith("## ") and i != a)]
+    else:
+        idx = [i for i in range(a, b) if lines[i].startswith("### ")]
+    out = []
+    if not idx:
+        return [("(节首)", a, b)]
+    if idx[0] > a + 1:
+        out.append(("(节首)", a, idx[0]))
+    for k, i in enumerate(idx):
+        e = idx[k + 1] if k + 1 < len(idx) else b
+        out.append((lines[i], i, e))
+    return out
+
+
+RE_LABEL = re.compile(r"^(?:[a-zA-Z]{1,3}\s*[·．.]?\s*){0,3}")
+
+
+def _title_segments(title):
+    """把 ### 标题拆成可比对的段：去掉 ### 前缀、按 · ／ ＋ （ 切开、剥掉 a/b/bc/d/e 这类短标号。"""
+    t = title
+    for pre in ("### ", "## "):
+        if t.startswith(pre):
+            t = t[len(pre):]
+            break
+    t = t.strip()
+    segs = re.split(r"[·・／/＋+（(]", t)
+    out = [t]   # 整条标题也算一段（`### 最小修改版 · 全文` 这种）
+
+    for seg in segs:
+        seg = seg.strip().lstrip("★⚠️🔴📒 ")
+        if not seg:
+            continue
+        out.append(seg)
+        stripped = RE_LABEL.sub("", seg).strip()
+        if stripped and stripped != seg:
+            out.append(stripped)
+    return out
+
+
+def _find_part(parts, keywords):
+    """⛔ 严格：标题的某一【段】必须以关键词开头，不是"标题里出现过这几个字"。
+    （否则 `### 手工件② · 中文题面自译落点` 会被当成「题面」—— 08-27 组1 就是这么误报的）"""
+    for title, s, e in parts:
+        for seg in _title_segments(title):
+            if any(seg.startswith(k) for k in keywords):
+                return (title, s, e)
+    return None
+
+
+RE_SKIP = re.compile(r"(本节跳过|⇒\s*\*?\*?跳过|按 §4④「D-1 没写新题就跳过」)")
+
+
+def _blocks_in(lines, s, e):
+    """在区间里找三版对照块：返回 [(编号, 起, 止)]。块头必须顶格 `#N` / `#SN`。"""
+    heads = []
+    for i in range(s, e):
+        m = RE_BLOCK_HEAD.match(lines[i])
+        if m:
+            heads.append((m.group(1), i))
+    out = []
+    for k, (nid, i) in enumerate(heads):
+        end = heads[k + 1][1] if k + 1 < len(heads) else e
+        out.append((nid, i, end))
+    return out
+
+
+def cmd_deliver(args):
+    path = args.session
+    if not os.path.exists(path):
+        print("⛔ 找不到 session 文件：%s" % path)
+        return 2
+    lines = io.open(path, encoding="utf-8").read().split("\n")
+    md = re.search(r"(\d{4}-\d{2}-\d{2})", os.path.basename(path))
+    sdate = md.group(1) if md else "9999-99-99"
+    legacy_blocks = sdate < DELIVER_FLOOR_BLOCKS
+    legacy_nodes = sdate < DELIVER_FLOOR_NODES
+
+    wanted = []
+    if args.all or not args.section:
+        # 全部：所有「复习 · 第 N 组」＋ 回看 ＋ 新题（存在才查）
+        for i, ln in enumerate(lines):
+            m = re.match(r"^## 复习 · 第 (\d+) 组", ln)
+            if m:
+                wanted.append("组%s" % m.group(1))
+        for slug in ("回看", "新题"):
+            if _slice_h2(lines, lambda x, h=DELIVER_SPECS[slug]["head"]: x.startswith(h)):
+                wanted.append(slug)
+    else:
+        wanted = [args.section]
+
+    if not wanted:
+        print("⛔ 这个文件里没有可查的交付节（复习 · 第 N 组 ／ 回看 ／ 新题）")
+        return 2
+
+    print("═" * 74)
+    print("drill.py deliver · 交付物完整性硬闸 · %s" % path)
+    print("   ⛔ ERROR > 0 ⇒ 不许发（SKILL §4③bc / §4④ / §4⑤e，她 2026-08-30 定）")
+    print("═" * 74)
+
+    total_err = 0
+    for slug in wanted:
+        errs = []
+        notes = []
+        m = re.match(r"^组(\d+)$", slug)
+        if m:
+            spec = DELIVER_SPECS["组"]
+            n = m.group(1)
+            rng = _slice_h2(lines, lambda x, n=n: x.startswith("## 复习 · 第 %s 组" % n))
+            label = "复习 · 第 %s 组" % n
+        elif slug in DELIVER_SPECS:
+            spec = DELIVER_SPECS[slug]
+            rng = _slice_h2(lines, lambda x, h=spec["head"]: x.startswith(h))
+            label = slug
+        else:
+            print("⛔ 不认识的 --section：%s（用 组N ／ 回看 ／ 新题）" % slug)
+            return 2
+
+        print("")
+        print("── %s ──" % label)
+        if rng is None:
+            print("   ERROR  节不存在 —— 找不到这一节的 ## 标题")
+            total_err += 1
+            continue
+        a, b = rng
+        # 新题这条路历史上把 判分／对照／三版对照块 写成了 ## 级 —— 节区间要吃到 ## 收尾／## 教练侧 之前
+        h2_too = slug in ("新题", "回看")
+        if h2_too:
+            # 回看 停在 ## 新题（否则会把新题的两份全文认成自己的）；
+            # 新题 扫到文件末 —— 历史上 判分／对照／记账 被写在 ## 收尾 之后（08-20 就是）
+            b = len(lines)
+            stops = ("新题", "复习 ·") if slug == "回看" else ("复习 ·",)
+            for j in range(a + 1, len(lines)):
+                if lines[j].startswith("## ") and any(
+                    lines[j].startswith("## " + stop) for stop in stops
+                ):
+                    b = j
+                    break
+        parts = _sub_parts(lines, a, b, h2_too=h2_too)
+
+        # 声明跳过的节（§4④ D-1 没写新题就跳过）⇒ 不查
+        head_txt = "\n".join(lines[a:min(a + 20, b)])
+        if RE_SKIP.search(head_txt):
+            print("   SKIP   本节已声明跳过（§4④），⛔ 不查")
+            continue
+
+        # ① 子件齐不齐
+        found = {}
+        for name, kws in spec["parts"]:
+            hit = _find_part(parts, kws)
+            found[name] = hit
+            if hit is None:
+                msg = "缺子件「%s」（### 标题里要出现：%s）" % (name, " / ".join(kws))
+                old_four = any(
+                    ("最小修改版" in t or "diff 表" in t)
+                    for t, _s, _e in parts
+                )
+                if "三版对照块" in name and (legacy_blocks or old_four):
+                    notes.append("存量 · %s —— 本节用的是 %s 之前的旧四份格式（最小修改版／更好版／diff 表A／表B），⛔ 不报错"
+                                 % (msg, DELIVER_FLOOR_BLOCKS))
+                elif legacy_nodes and slug in ("回看", "新题") and ("全文" in name or name in ("她的原文", "收稿", "对照 problems")):
+                    notes.append("存量 · %s —— 交付件清单 %s 才定，⛔ 不报错" % (msg, DELIVER_FLOOR_NODES))
+                else:
+                    errs.append(msg)
+
+        # ② 块数守恒
+        blk_part = found.get("bc 三版对照块") or found.get("三版对照块")
+        blocks = []
+        if blk_part:
+            _, bs, be = blk_part
+            blocks = _blocks_in(lines, bs, be)
+
+        expect = None
+        expect_src = ""
+        qp = found.get("题面") or found.get("题面与条件")
+        op = found.get("她的原文")
+        if op:
+            _, os_, oe = op
+            ids = [ln for ln in lines[os_:oe] if RE_SENT_ID.match(ln)]
+            if ids:
+                expect = len(ids)
+                expect_src = "「她的原文」里的 S 编号"
+            else:
+                for ln in lines[os_:oe]:
+                    mm = RE_TOTAL_SENT.search(ln)
+                    if mm:
+                        expect = int(mm.group(1))
+                        expect_src = "「她的原文」里的『共 N 句』"
+                        break
+        if expect is None and qp:
+            _, qs, qe = qp
+            nums = set()
+            for ln in lines[qs:qe]:
+                mm = RE_NUM_ITEM.match(ln)
+                if mm:
+                    nums.add(int(mm.group(1)))
+            if nums:
+                expect = len(nums)
+                expect_src = "「题面」里的编号题数"
+        if expect is None:
+            msg = "数不出应有块数 —— 「她的原文」里没有 S 编号／『共 N 句』，「题面」里也没有编号题"
+            if legacy_blocks or (legacy_nodes and slug in ("回看", "新题")):
+                notes.append("存量 · %s，⛔ 不报错" % msg)
+            else:
+                errs.append(msg)
+        elif blk_part is None:
+            pass  # 已在①报过
+        elif len(blocks) != expect:
+            errs.append("块数不守恒：三版对照块 %d 块 ≠ 应有 %d（来源：%s）"
+                        % (len(blocks), expect, expect_src))
+        else:
+            notes.append("块数守恒 %d = %d（来源：%s）" % (len(blocks), expect, expect_src))
+
+        # ③ 块内五行齐 + 三行英文非空
+        for nid, s_, e_ in blocks:
+            body = lines[s_ + 1:e_]
+            for name, prefix in BLOCK_LINES:
+                hits = [ln for ln in body if ln.strip().startswith(prefix)]
+                if not hits:
+                    errs.append("块 #%s 缺「%s」这一行" % (nid, name))
+                    continue
+                val = hits[0].strip()[len(prefix):].strip()
+                if not val:
+                    errs.append("块 #%s 的「%s」是空的" % (nid, name))
+
+        # ④ 摘要句黑名单（只在三版对照块子件里查）
+        if blk_part:
+            _, bs, be = blk_part
+            for i in range(bs, be):
+                for bad in DELIVER_BLACKLIST:
+                    if bad in lines[i]:
+                        errs.append("三版对照块里出现摘要句「%s」（L%d）—— 未改也要逐块列出来"
+                                    % (bad, i + 1))
+
+        # ⑤ 复习组的战报 ①–⑤ 五行齐
+        wp = found.get("d 战报")
+        if wp:
+            _, ws, we = wp
+            txt = "\n".join(lines[ws:we])
+            for mark in "①②③④⑤":
+                if mark not in txt:
+                    if legacy_blocks:
+                        notes.append("存量 · 战报缺第 %s 行（旧格式），⛔ 不报错" % mark)
+                    else:
+                        errs.append("战报缺第 %s 行" % mark)
+
+        for n in notes:
+            print("   ✔ %s" % n)
+        for name, kws in spec["parts"]:
+            if found.get(name) is not None:
+                print("   ✔ 子件「%s」在" % name)
+        for e in errs:
+            print("   ERROR  %s" % e)
+        print("   ⇒ %s" % ("ERROR 0 · 可以发" if not errs else "ERROR %d · ⛔ 不许发" % len(errs)))
+        total_err += len(errs)
+
+    print("")
+    print("═" * 74)
+    print("合计 ERROR %d %s" % (total_err, "· 可以发" if total_err == 0 else "· ⛔ 不许发，改完重跑"))
+    print("═" * 74)
+    return 1 if total_err else 0
+
+
 def main():
     ap = argparse.ArgumentParser(description="写作 drill 线只读机械工具")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -1513,6 +1875,12 @@ def main():
     p.add_argument("--date", help="判定日期 YYYY-MM-DD（默认今天）")
     p.add_argument("--dry-run", action="store_true", help="只打计划，⛔ 不写盘")
     p.set_defaults(func=cmd_append)
+
+    p = sub.add_parser("deliver", help="交付物完整性硬闸（§4③bc/§4④/§4⑤e）")
+    p.add_argument("--session", required=True, help="当日 session 文件路径")
+    p.add_argument("--section", help="组N ／ 回看 ／ 新题；不给则扫全部")
+    p.add_argument("--all", action="store_true", help="扫这个文件里全部交付节")
+    p.set_defaults(func=cmd_deliver)
 
     p = sub.add_parser("check", help="格式校验")
     p.add_argument("--changed", action="store_true", help="只硬查本次改动的条目")
