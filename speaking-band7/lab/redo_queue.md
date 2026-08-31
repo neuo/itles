@@ -25,8 +25,8 @@
 | R5 | What are the differences between everyday food and festival food? | P3 | 08-06 | **2026-08-27 已重答**（69 词 · 真错 2 · 密度 1/35 · 新建 #306 · 🎓#236 回潮）｜ 08-23 发出后挂了 4 天 |
 | R6 | Should parents limit their children's use of computer programs and games? | P3 | 08-06 | **08-17 已重答** |
 | R7 | Do people buy things they don't need? | P3 | 08-06 | **2026-08-27 已重答**（91 词 · 真错 0 · 新增 methods M41） |
-| R8 | What do you think of communicating via social media? | P3 | 08-07 | — |
-| R9 | Should governments provide financial support to start-ups? | P3 | 08-07 | — |
+| R8 | What do you think of communicating via social media? | P3 | 08-07 | **2026-08-31 已重答**（122 词 · 真错 2 · 密度 1/61 · 新建 0 · 🎓#81 与 🎓#8 各回潮一次 · 自发命中 🎓#80／🎓#206／🎓#262） |
+| R9 | Should governments provide financial support to start-ups? | P3 | 08-07 | **2026-08-31 已重答**（54 词 · 真错 1 · 密度 1/54 · 新建 #314 economic≠economical · 自发命中 🎓#85 两成员）｜ 08-10 也重答过一次（原话未存，只有差异摘要）｜ ★ 三答纵向：08-07 那句"没人创业→岗位不够"08-10 丢、08-31 仍未回来 |
 | R10 | How does technology help people make plans? | P3 | 08-07 | — |
 | R11 | Do people today prefer eating at home or in a restaurant? | P3 | 08-08 | — |
 | R12 | Why do some people not like using apps? | P3 | 08-08 | — |
