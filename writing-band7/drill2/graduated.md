@@ -3818,7 +3818,8 @@ P11 词形（urgent 是形容词不能作名词）　R · P11
   　 ★ 这正是她 2026-08-25 定的判据：**哪怕正好撞成另一个真词（dose 是真词）也豁免**。
 
 ## #0248 much / far / a lot 后面必须是比较级形式，不能跟原级
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-22 ｜ 族 F06
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F06
+⚠️ **2026-08-31 🎓 后复发 ⇒ 已按 §3.3 在原地改回「在池」，⛔ 教练不搬文件 —— 待她手动搬回 problems.md**
 
 **问题是什么**
 `much / far / a lot / slightly / significantly` 这类**程度加强词只能修饰比较级**，
@@ -3861,6 +3862,25 @@ P11 词形（urgent 是形容词不能作名词）　R · P11
   　 也就是说她在答本题之前，这个形状当天已经在手上过了三遍 ⇒ **重度预激**。
   ⇒ 下个周期必须换语境重测一次（§3.3「跨 session 必须换语境」），
   　 若那次仍然对，这个 🎓 才算实。
+- 2026-08-31 ❌D3 学习日 C4·组1 第 3 题（顺带）　**🎓 后复发 ⇒ 连对 2 → 0 · 连错 0 → 1 · 状态回在池**
+  主考点是 #0051（命中 ✅），同句本条塌：她写 `is **considerably difficult**`。
+  `considerably / much / far / a lot` 量的是**差量**，所以后面必须有比较级或变化动词
+  （`considerably **more** difficult` ✔ ／ `costs rose **considerably**` ✔）；
+  原级形容词身上没有差量可量 ⇒ 这个位置要换成能修饰原级的 `extremely / very / highly`。
+  最小修改：`is **extremely** difficult`。
+  ⚠️ §3.5 三问：① 改正的判断动作同一个（看见这一族加强词就问"后面那个词是比较级吗"）
+  　 ② 同一句规则说得清两者 ③ 掌握一个另一个跟着对 ⇒ 三问全过，归本条，⛔ 不新建。
+  ⚠️ 四问自审（§5）：
+  　① 真的错吗 —— 试着造母语者反例：`considerably **different**` ✔ 站得住（different 自带比较义），
+  　　 但 `considerably expensive` ／ `considerably difficult` ／ `considerably large` 都造不出自然句
+  　　 ⇒ 本句的形状不成立。② 不是延续 #0051 的判断（那条判名词块，本条判加强词配比较级）。
+  　③ 判的是**搭配**层。④ 档位 ❌。
+  ★★ **条目适用范围就此说清（§3.5 A 第三种：只是把范围说清 ⇒ 连对连错不因这一条变动，
+  　 变动来自上面那次 ❌）**：本条正文原来把 `slightly / significantly` 也列进"只能修饰比较级"，
+  　 这是写宽了 —— `a **slightly** difficult question` ✔ ／ `**significantly** different` ✔ 都成立。
+  　 收紧后的判据是：**量差量的那几个（much / far / a lot / considerably）后面必须有比较级或变化动词；
+  　 slightly / significantly 可以直接修饰原级形容词。**
+  ⚠️ 本条住 graduated.md ⇒ 状态已原地改，**待她手动搬回 problems.md**。
 
 ## #0269 「在小范围／在一定范围内」怎么说 —— 按你限定的是什么分四条路
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-25 ｜ 族 F06
@@ -4329,7 +4349,7 @@ still 的位置   still **has not** received  ✔ —— still 在 not 的**前�
 > 逗号粘连、并列同形、语序倒装、从句、指代、大小写
 
 ## #0049 一个典型的例子就是中国，学生下午四点前就放学
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-30 ｜ 族 F07
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F07
 ⚠️ **2026-08-30 🎓 后复发 ⇒ 已按 §3.3 在原地改回「在池」，⛔ 教练不搬文件 —— 待她手动搬回 problems.md**
 
 **问题是什么**
@@ -4372,6 +4392,21 @@ P7 逗号粘连　R · 挂代号 P7
   ⚠️ **本条条目住在 graduated.md**：按 §3.3 已在**原地**改状态为「在池」，⛔ 教练不搬文件
   　 ⇒ **待她手动搬回 problems.md**。
   ★ 本条上次被判是 2026-08-18（🎓），隔 12 天复发。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 4 题（主考点）　**连对 0 → 1**
+  题面换了场景（⛔ 没拿"中国／放学"那句回去测记忆，§6）：「最能说明问题的例子就是那家社区诊所，
+  它去年冬天连着三个月没有暖气。（写成一句）」。她写
+  `The most illustrative case in point **is** the local community clinic **that suffered** a
+  complete lack of heating for three consecutive months last winter.`
+  第二个分句用**关系从句**接住，"完整句 ＋ 裸逗号 ＋ 完整句"这个形状根本没出现 ⇒ 考点命中。
+  ★ 当初给的 `, where` 只是修法之一，⛔ 不是唯一解；她自己找到了另一条合法接法
+  　（§3.2「判 ❌ 只有两个理由」—— 句子没错、意思送到 ⇒ 算对）。
+  📋 更好版（不判错，只进更好版）：① `The most illustrative case in point` 里
+  　 `case in point` 本身就是"恰好说明问题的例子"，前面再加最高级是把同一层说了两遍
+  　 ⇒ `The most telling example`；② `that` → `**, which**` —— 诊所已被 `the local` 指死，
+  　 后面那句是补充说明不是限定，写 that 会读成"好几家社区诊所里没暖气的那间"；
+  　 ③ `suffered a complete lack of heating` → `**went without** heating`（现成块 vs 当场拼的块，
+  　 ⇒ #0051 同一个形状）。
+  ⚠️ 本条仍住 graduated.md，状态已在原地维护 ⇒ **待她手动搬回 problems.md**。
 
 ## #0089 这意味着大多数人住在曼哈顿以外
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F07
@@ -7499,7 +7534,7 @@ be open to        对…开放（相反方向）        be available to     对�
   　（分号比 and 紧；`may use` 比 `are not allowed to sit there` 短一半）
 
 ## #0295 shaped by / grounded in / based on / rooted in ＝ "建立在…之上"
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
 
 **成员出题账**
 ```
@@ -7560,6 +7595,15 @@ shaped by     强调"被塑造成现在这样"，接经验/环境/力量   `a ch
   📋 更好：`rooted in **local tradition**`（去掉 the）—— tradition 作抽象概念时零冠词更常见；
   　 加 the 之后读者会等一个具体的"哪一条传统"。她的写法不判错，只进更好版。
   📋 顺带用对：`whereas` 引对比从句，位置与逗号都对（#0317 一族，📋 留痕不推进）。
+- 2026-08-31 📋 D3 学习日 C4·组1 第 1 题（顺带用对）
+  她自发写出 `this decision was reached solely **on the basis of** cost` —— "依据"这一层送到了，
+  块的三个零件（on ／ the ／ basis 单数）也齐。🎓 状态不变、⛔ 不推进 streak。
+  ★★ 但她当场在答案里括注「**on the basis of 新建一个条目**」（§2③ 她点名要学）
+  　 ⇒ 已新建 **#0376**（名词块型的"依据"状语：on the basis of ／ on the grounds of ／
+  　 on the strength of ／ in the light of）。
+  　 分工写死：**本条管四个【分词块】按比喻来源怎么挑**（based on ／ grounded in ／ rooted in ／
+  　 shaped by，挂在名词或主语上）；**#0376 管"介词 ＋ the ＋ 名词 ＋ of"这一类【状语块】**
+  　 （挂在动词上）。三问逐条不成立的理由写在 #0376 的查重块里。
 
 ## #0296 anticipate ＝ 预判并提前应对（不只是"预料"）
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-23 ｜ 族 F08

@@ -123,6 +123,12 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
    ⇒ 命中率 **1/23**，与 08-29 的 1/23、08-27 的 1/22、08-25 的 1/13 完全同形
    ★★ 失控的这一句正是本组**唯一同时扛两个考点（look ＋ taste）**的句子
      ⇒ 08-25 那条观察连续第 4 场应验：**先挑本组最忙的那一句去扫**
+2026-08-31 组1　**零命中**（7 题全对，本线上第二次零命中，上一次是 08-30 组1）
+   ★ 含本线最强形状两处：`**The implementation of** this new policy **is**` ✔
+     （单数中心词跨过 of 短语，紧挨谓语的是 policy —— #0048 退池后由本条接手的那个形状）
+     · `**a significant number of** owners **are**` ✔（number of ＋ 复数要用复数谓语，方向相反的那一格）
+   ★ 另有 `Only this one reason **remains**` ✔（三单 -s）· `several provinces **fail**` ✔（复数不加 -s）
+   ⇒ 两个方向（该加不加 ／ 不该加乱加）当天都被测到，都守住
 ```
 
 **★ 2026-08-25 一条观察（写给下次扫的人）**
@@ -196,4 +202,46 @@ R4    管【词类】：这个位置该站副词还是形容词
 2026-08-30 组2 第 2 题　`a **remarkable** poor yardstick` → `remarkably`
    ★ 同日另外 12 处 -ly 副词全对 ⇒ 命中率 **1/13**，与 R2 的 1/23 同形：整体在守、个别格失控
    ★ 失控的这一句同时扛着两个考点（benchmark ＋ yardstick）—— 与 R2 的 08-25 观察同源
+```
+---
+
+## R5 · 冠词（2026-08-31 新增；本条专收「泛指前多出来的 the」）
+
+**扫什么**
+```
+一个复数名词／不可数名词前面出现 the 时，问一句：
+  「它指的是**某一批指得出来的**，还是**泛指这一类**？」
+  泛指这一类 ⇒ **零冠词**　`driving **young people** out of the city` ✔
+  ⛔ ~~driving **the** younger people out of the city~~ —— 没有任何东西把"哪些年轻人"限定住
+  指得出来的 ⇒ 才用 the　`**the** younger people **in the office**` ✔（被 in the office 限住了）
+★ 最容易多出 the 的三个位置：
+  ① 泛指的一类人／一类事物   young people · small firms · working parents
+  ② 抽象名词泛指             education · public transport · air pollution
+  ③ **比较级 ＋ 复数**泛指     younger people · richer countries（⇒ 与 #0031 交叉引用：
+                              比较级前泛指、单数可数时用 a —— `a better chance` ✔）
+```
+**为什么放这里不建条目（§2⑤ 判据）**
+```
+§2⑤ 已知成员里白纸黑字写着"冠词"，但 reminders.md 一直没有对应的 R 项 ⇒ 本场补上。
+她在低压场合写对过远不止两次 —— **2026-08-31 同一份答案里冠词全对的有 7 处**：
+  a temporary solution · each boarding student · a large amount of hot money ·
+  a property bubble · a significant number of owners · one fifth of their 2015 level ·
+  the start of the school term
+⇒ 规则本来就会，是**压力下多出／掉一个 the**，与 R1 R2 R4 同一个机制
+⇒ 建条目无效：反复出题 → 她反复答对 → 毕业 → 下次照错
+```
+**⛔ 与已有冠词条目的分界（写死，⛔ 别串）**
+```
+#0031（🎓 比较级前泛指用 a）  管【单数可数】：the better chance → **a** better chance
+R5                            管【复数／不可数泛指】：the younger people → **零冠词**
+⚠️ 落在别的机制上的冠词错**不归 R5**，照常建条目／归入：
+   · 某个词天生不可数（advice / evidence）⇒ #0059 那一族
+   · 某个块自带冠词（a case in point）⇒ 那个块自己的条目
+```
+**实例账**
+```
+2026-08-31 组1 第 2 题　`driving **the** younger people out of the city center` → `younger people`
+   ★ 同日同一份答案里 7 处冠词全对 ⇒ 命中率 **1/8**，与 R2 的 1/23、R4 的 1/13 同形
+   ★ 失控的这一句同时扛着 #0348 的两个分词修饰位（Existing ／ growing）—— 与 R2 08-25、
+     R4 08-30 的观察第三次同源：**一句里考点越多，构形格越容易掉**
 ```

@@ -744,11 +744,20 @@ K4  题号升序（兜底，保证全序，不许出现"两题并列所以随便
 ## B5 · 流程图（2 题）
 
 ### T1-15 乙醇（生物燃料）生产循环 〔**剑 19 Test 3**〕
+> **原题任务句**（2026-08-31 她发来题目截图后补进档案，此前本条只有阶段数据）：
+> `The diagram below shows how a biofuel called ethanol is produced. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.`
 > 阶段：植物/树木借阳光+CO₂ 生长 → 机械收割 → 预处理、分解出纤维素 → 送往加工厂 → 转化成糖 → 加入微生物 → 产出乙醇 → 驱动车辆（汽车/卡车/飞机）→ 车辆排放 CO₂ → 被新植物吸收 → 循环重启
+> ⚠️ 图元校准（2026-08-31）：Processing 那一格画的是**一组设备**（塔柱＋罐／瓶），**⛔ 不是厂房／烟囱**，
+> 　 且图上**没有给这一格的动词** ⇒ 只能写「A 变成 B」，⛔ 不许写"送到加工厂／用热和化学品"（T1 三禁）
 
 | # | 日期 | 条件 | 分 | 主要错 |
 |---|---|---|---|---|
 | 1 | 07-08 | cold | **≈6.5**（方法=7，拼写压到 6.5） | **拼写就是天花板**：deliveried / vehical / **trunks→trucks** / airphanes / entrie / **circle→cycle**；`is convert`→is converted |
+| 2 | 08-31 | cold | **6.0**（TA 5.0 / CC 6.5 / LR 6.0 / GRA 7.0） | **字数是唯一变量**：133 词 ⇒ 撞 §3.2 的 T1<150 惩罚，TA 6.0−1＝5.0；拿掉这 −1 就是 6.5。`trunks` 与 `circle` **与 07-08 同题错的是同一对**；CC 丢在 P4 三个中心；TA ④ 漏"CO₂ 被吸收"那一格 |
+
+📍 `drill2/sessions/2026-08-31.md`（判分八步全打印）
+📌 **同题隔 54 天，拼写的两个词原样复发**（trunks / circle）；airphanes 这次拼对了
+📌 追加练后 133 → 171 词，⛔ 但**不改本篇判分**（§4.8）
 
 📍 `t1/coach/sessions/2026-07-08.md:56-59`
 🎓 **W15 句子片段在这篇毕业**（连续 3 篇干净）

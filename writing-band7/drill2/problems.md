@@ -1050,7 +1050,7 @@ K
 > 自己拼出来的名词块、中文直译块
 
 ## #0051 （无 floor —— 这是个检查动作不是表达） → 名词块「存在性测试」：这个块我是见过的，还是刚拼的？见过→用；刚拼→拆回主谓大白话
-状态：在池 ｜ 连对 0 ｜ 连错 3 ｜ 毕业线 2 ｜ 上次 2026-08-30 ｜ 族 F03
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F03
 
 **问题是什么**
 🔴 高　U · 在池（= §9 的 G1）
@@ -1103,6 +1103,20 @@ K
   　 —— 都是**"某物是什么／某种做法"这个位置上去拼名词块**。她在**转主语时调得出真动词**
   　 （08-27 同场 #0149 ✅），一到"给某个东西命名"就回去拼块。
   ⇒ 今天这一处也是**本场靶子2（中式块）的第一处实证**，见当日 session 靶子栏。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 3 题（主考点）　**连对 0 → 1 · 连错 3 → 0**
+  写出 `**The implementation of** this new policy is considerably difficult, and several
+  provinces simply fail to **put it into practice**.`
+  `the implementation of ＋ 名词` 与 `put sth into practice` 都是英语里现成的块，⛔ 不是当场拼的
+  ⇒ 存在性测试过关，本条建号以来第一次判对。
+  ★★ 与本条前三次实例形状完全一致的位置上，这次她没有去拼块：
+  　 08-12 作文 ／ 08-27 `is required guarantee that companies must provide` ／
+  　 08-30 `this new working way` —— 都是"给某个东西命名"这个位置。今天同一个位置上她选了现成块。
+  ⚠️ 顺带 ❌ 归 **#0248**（🎓 后复发，另见该条）：`considerably difficult` —— 与本条无关，
+  　 那是程度加强词后面必须跟比较级的问题，⛔ 不计进本条。
+  ⚠️ 顺带正例（⛔ 不挂编号）：`The implementation **of** this new policy **is**` —— 长主语跨过
+  　 of 短语，谓语没被拉走。这一层现在由 **reminders.md R2** 接手（#0048 已于 2026-08-24
+  　 由她裁定**退池**，⛔ 不是 🎓）⇒ 记进 R2 的实例账当正例，⛔ 不推进任何编号。
+  ⚠️ `implemention` `pracice` 两处拼成非词，§3.2 手滑豁免，⛔ 不记错。
 
 ## #0350 「一致」和「对立」是两个方向各自的词，⛔ 不许给一个词加介词掉头
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F03
@@ -1573,7 +1587,7 @@ K
 </details>
 
 ## #0073 ⭐⭐「这里我想泛指，应该怎么写。因为想说如果哪一个病情加重，就说那个，后面特指」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F04
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F04
 
 **问题是什么**
 ✅+ 她的判据
@@ -1609,6 +1623,12 @@ K
 `⭐⭐「这里我想泛指，应该怎么写。因为想说如果**哪一个**病情加重，就说**那个**，后面特指」|病情严重的话，病人会被转到更大的医院|★★ **她自己把英语冠词的核心机制推出来了，而且写的就是标准解法**：<br>　`**a** patient` ＝引入（首次提及、泛指某一个）→ `**the** patient` ＝回指（就是刚说的那一个）<br>　**a 引入 · the 回指** —— 这条比任何冠词规则都管用，且她是**从"我想表达什么"倒推出来的，不是背来的**<br>★ 备用两条：`If **patients' conditions** worsen, **they** will be transferred…`（复数泛指，最省）／`**Patients whose** condition worsens are transferred…`（定语从句）<br>★ 与 E-135「限定≠定指」、E-194「the vs an increase」构成她自建的冠词判据三件套|✅+ **她的判据**|`
 
 </details>
+- 2026-08-31 📝 D3 学习日 C4·作文 T1-15（对照扫到，留痕，⛔ 不推进）
+  作文 S3→S4 出现了本条的形状：`plants and trees utilize…`（泛指、零冠词复数）
+  → `**these** plants`（回指、特指）。切换做对了。
+  ⛔ **但按 §6「自发用过 ≠ 被点名时调得出」的同一个理由，本条不推进 streak**：
+  　 在流程图叙述里"先泛指、后回指"是**叙述自带的**，这个考点没有真的被行使 ——
+  　 她并没有面临"该泛指还是该特指"的选择。⇒ 留痕，等它被点名出题时再测。
 
 ## #0075 祖父母或多或少会帮年轻父母带孩子
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F04
@@ -1941,6 +1961,90 @@ a **piece of** equipment ／ **an item of** furniture
 </details>
 
 ---
+
+## #0378 each / one / neither ＋ of ＋ 复数名词 做主语 ⇒ 谓语用单数
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F04
+
+**问题是什么**
+`each / every one / either / neither / one` 这几个词**本身就是单数**。
+它们带着 `of ＋ 复数名词` 做主语时，主语仍然是**单数**，谓语要**三单**：
+```
+**Each of** these vehicles **gives** off fumes.        ⛔ ~~Each of these vehicles give~~
+**One of** the biggest problems **is** cost.            ★ T2 极高频
+**Neither of** the options **is** acceptable.
+**Every one of** the machines **needs** servicing.
+关系从句同理：… vehicles, **each of which gives** off fumes …
+```
+**但 each 换个位置，规则就反过来** —— 它站在主语**后面**时只是同位修饰，主语的数不变：
+```
+These vehicles **each give** off fumes.     ✔ 主语还是复数 ⇒ 动词不加 -s
+They **each have** their own budget.        ✔
+⛔ ~~These vehicles each gives~~
+```
+**判据（一句话）**：
+```
+each 站在**句首／of 前面** ⇒ **它就是主语** ⇒ 单数、谓语三单
+each 站在**主语后面**     ⇒ 它只是修饰 ⇒ 主语原来是什么数就是什么数
+```
+⚠️ 与 **#0280**（`the cost / price / value of ＋ X` 做主语，🎓）分工：
+　 那条 of 前面是个**普通名词**（cost／number／amount），本条 of 前面是
+　 **each／one／neither 这类限定词** —— 学习者常常不知道"限定词本身算单数"。
+⚠️ 与 **reminders.md R2** 分界（⛔ 这一条为什么该建条目而不是挂 R 项）：
+　 R2 收的是"**规则本来就会**、压力下把 -s 掉了"；本条是她**不知道 each 算单数**，
+　 是知识缺口。判据是她自己的原话（2026-08-31）：「**Each of 我不会能主动用**」。
+
+**怎么发现的**
+2026-08-31　D3 学习日 C4·作文 T1-15 加练 E5。题目要求把"三辆车各自都排放二氧化碳"
+写出来，她说「**我顶多加个 each，你直接教吧**」—— 词选对了，落地的语法调不出来；
+教完之后她当场说「**Each of 我不会能主动用，加个条目练习下吧**」（§2③ 她点名要学）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "each" "each of"            ⇒ 命中 #0251 #0338 #0371
+② 规则查  dedup "谓语用单数" "量词" "主谓一致"  ⇒ 命中 #0059 #0069 #0280 #0283
+③ 眼过    ①②都有命中 ⇒ 未再跑 list
+逐条否掉：
+  #0280（the cost / price / value of ＋ X 做主语，🎓）—— 最像的一条，三问：
+    问1 改正动作？两边都是"谓语跟 of **前面**那个词走" ⇒ **是**
+    问2 一句话规则？同一句话能解释两者 ⇒ **是**
+    问3 掌握一个另一个自动跟着对？⇒ **否** —— 那条的中心词是普通名词（cost／number），
+       本条的中心词是**限定词**（each／one／neither），"限定词自己算单数"这一层是另一件事。
+    ⇒ 三问不全为"是" ⇒ 不合并。
+    ★★ 反向验（§3.5 1.3）**今天就有现成的一对**：2026-08-31 组1 第 3 题她写出
+       `The implementation **of** this new policy **is** …` ✔（＝ #0280 的形状，对了），
+       同一天加练 E5 的 `Each of these vehicles gives` 她说「不会」
+       ⇒ 可独立取值，确凿 ⇒ 两条。
+  #0251（this kind of 接单数／these kinds of 接复数）—— 问 1 不成立：那条管**名词的数**，
+    本条管**谓语的数**。
+  #0059（不可数名词一族，🎓）—— 问 1 不成立：那条是"那个词天生不可数"，
+    本条是"限定词把主语变成了单数"。
+  #0069 #0283 #0338 #0371 —— 命中的都是正文里偶然出现的"主谓一致／each"字样
+    ⇒ §3.5 误判2「被词面骗」，逐条否。
+⇒ 新建，归 F04（单复数／主谓一致），与 #0280 交叉引用。
+```
+
+**我错在哪**
+她这次**没有写错** —— 建号理由是 §2③（她点名要学）。缺口在两层：
+```
+① **不知道 `Each of` 本身算单数** ⇒ 谓语该三单这一步调不出来
+② **不知道位置一变规则就反过来**（`These vehicles each give` 反而不加 -s）
+```
+找法：**看见 each，先问它站在哪儿 —— 站在 of 前面，它就是主语，谓语加 -s；
+　 站在主语后面，它只是个修饰词，动词跟原来的主语走。**
+
+**中文触发点**
+这三条线路各自都有自己的时刻表；其中有一条现在还在试运行。
+（★ 两处分别用 **Each of** ／ **One of** 开头 —— ⛔ 动词形式自己定）
+
+### 历史记录
+- 2026-08-31 ③ 建号（她点名要学）D3 学习日 C4·作文 T1-15 加练 E5
+  E5 要求把"三辆车各自都排放二氧化碳"写出来，她答「我顶多加个 each，你直接教吧」——
+  **词是对的，落地的语法调不出来**。教完三种落地方式（Each of ＋ 三单／主语 ＋ each ＋ 复数／
+  each of which ＋ 三单）之后，她当场说「Each of 我不会能主动用，加个条目练习下吧」。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+  ★ 同日反向验：组1 第 3 题她把 `The implementation of this new policy **is**` 写对了
+  　（#0280 的形状）⇒ 不是"of 结构做主语"整体不会，是**限定词算单数**这一层不会。
+
 
 # F05 拼写/形近词
 
@@ -2696,7 +2800,7 @@ K
 </details>
 
 ## #0347 「只／仅」一族的排他副词：only ／ solely ／ exclusively ／ purely ／ merely
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-29 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F06
 
 **问题是什么**
 中文一个「只／仅／单纯」，英文这一排词**语气强度不同、位置也不同**：
@@ -2788,9 +2892,22 @@ just        口语一档                `It's **just** a draft.` ⚠️ T2 正�
   ⚠️ `meanwhile` 我判**不判错**：它作对比/并列的语篇标记在书面英语里成立
   　（`Meanwhile, exports fell by 12%.` / `Prices rose; meanwhile, wages stalled.` /
   　 `Meanwhile, the committee said nothing.`）⇒ §10 禁令9 造得出三个反例 ⇒ 不许说它错。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 1 题（主考点）　**连对 1 → 2 ⇒ 🎓 毕业**
+  写出 `**Only** this one reason remains valid, whereas the other three are unfounded; this
+  decision was reached **solely on the basis of** cost rather than quality. That report is
+  **merely** a temporary solution.`
+  三格全中，而且**位置这一层第一次被测到、也守住了**：only 放在它排除的那个成分（主语）正前面 ——
+  换成 `This one reason only remains valid` 意思会变成"它只是还有效、别的什么都不是"。
+  solely 配 `on the basis of` 正是"唯一依据"那个用法；merely 配 be ＋ 名词块，贬抑口吻也对。
+  ★ 本条 08-29 走练档（题面给整块）第一次命中，今天按 §6 降回 **lemma 档**（只给三个词、不给搭配与位置），
+  　 仍然全中 ⇒ 不是照抄题面，是调得出来了。
+  ⛔ 按 08-25 建号行的裁定，本题**没有测 exclusively**（她自发用过 ⇒ 挂作文验）。
+  ⚠️ 顺带：她在这句里自发用对 `on the basis of`，并当场括注「on the basis of 新建一个条目」
+  　 ⇒ 已按 §2③ 新建 **#0376**（名词块型的"依据"状语），两条交叉引用。
+  ⚠️ `quanlity` 拼成非词，按 §3.2 手滑豁免，⛔ 不记错、不占改动。
 
 ## #0348 动词要进名词前的修饰位，必须先变成分词（-ing ／ -ed），⛔ 不能用原形
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-29 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F06
 
 **问题是什么**
 英语里名词前面的修饰位只收三种词：形容词、名词、**分词**。动词原形站不进去。
@@ -2893,9 +3010,19 @@ uncertainty 的可数复数守住了，名词前那个修饰位塌了。
   ★★ `fan-edited` 是**她自己现造的复合前置修饰语**（档案里从没出现过这个词），
   　 正是本条 -ed 那一半最难的形状 ⇒ 由此新建 **#0369**（连字符造前置修饰语，六个场景）。
   ⚠️ streak 说明：本条今天上午在复习组已记 ✅（连对 0→1），当天全部为 ✅ ⇒ **连对仍为 1**。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 2 题（主考点）　**连对 1 → 2 ⇒ 🎓 毕业**
+  写出 `**Existing** regulations fail to curb platforms of this kind; **growing** commute times
+  are driving the younger people out of the city center.`
+  两个 lemma（exist ／ grow）都自己变成 -ing 分词、放进名词前的修饰位。题面只给词、⛔ 没给形式，
+  -ing 还是 -ed 的选择完全在她手里，两处都选对（规章"现存着"、通勤时间"在增长"，都是主动持续）。
+  ★ 与 08-29 那次（remaining ／ declining）连起来看，四个 -ing 前置分词两场全对 ⇒ 连对 2，毕业。
+  ⚠️ 顺带 ❌ 归 **R5**（本场新增的 R 项，⛔ 不建条目、⛔ 不推进本条 streak）：
+  　 `driving **the** younger people out of` —— 泛指复数前多出一个 the。
+  　 判据（§2⑤）：同一份答案里冠词全对的有 7 处 ⇒ 规则本来就会，是压力下多出一个 the。
+  ⚠️ `center` 是美式拼写，雅思两套拼写都收 ⇒ ⛔ 不判。
 
 ## #0369 用连字符现造一个前置修饰语 —— fan-edited ／ state-owned ／ five-year 这一整类
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-30 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F06
 
 **问题是什么**
 英语允许把**两三个词用连字符拼成一个形容词**放到名词前面。这不是背单词，是**一条可以现场造词的规则** ——
@@ -2991,6 +3118,14 @@ uncertainty 的可数复数守住了，名词前那个修饰位塌了。
   ⚠️ **教练侧问题（不是她的账）**：题面要求"三处都做成名词前的修饰语"，可「审批流程非常费时」
   　 在自然英语里第三处就该作**表语**（is very time-consuming）；为满足这个限定她多造了一个名词 task，
   　 还顺带挤掉了中文的「非常」。⇒ 本条题面下次要改：第三处改成允许作表语，见当日 session 教练侧。
+- 2026-08-31 ✅D3 学习日 C4·作文 T1-15（§4⑤d 对照全文扫到）　**连对 1 → 2 ⇒ 🎓 毕业**
+  作文 S1 写出 `The flow chart illustrates **a multi-stage process** of how to produce ethanol…`
+  —— 连字符现造的前置修饰语，且中心词用**单数**（multi-stage，⛔ 不是 multi-stages）。
+  ★★ 这一格 **2026-07-14 的姊妹题 T1-16（竹子→布料）上她正好写错**：
+  　 `a multi-**stages** process`（见 bank.md T1-16 那一行）⇒ 同一个坑，隔 48 天跨过去了。
+  ⚠️ 本次是**作文对照扫到的**，不是单点题命中 —— 按 §4⑤d「旧条目的规则在这篇里被正确用对的
+  　 当场记 ✅」处理。同句 S1 另有一处 GRA 错（`of how to produce` 补语框架），
+  　 那处**不属于本条考点**（本条管连字符修饰语的构形），⛔ 不牵连。
 
 # F07 句法/逗号/并列
 
@@ -3379,7 +3514,7 @@ K（她点名，高价值）
 </details>
 
 ## #0149 ⭐⭐ 「把无生命名词放主语位」
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F07
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F07
 
 **问题是什么**
 K → drill（08-18 当场上）　0/2
@@ -3411,6 +3546,14 @@ K → drill（08-18 当场上）　0/2
 `⭐⭐ **「把无生命名词放主语位」**（08-18 她主动点名）|**「把无生命名词放主语位 这个特别缺，和实义动词一样经常想不到」**|她自己把两件事并成一件：**无生命主语 ＋ 实义动词推动 ＝ 同一个动作的两半**。中文默认「人/机构 做主语」，英语议论文默认「事物/原因 做主语 ＋ 一个实义动词推动」。<br>· 与 [[E-263]]（08-16 她说"实义动词推动**很少想到**"）**是同一条缺口的两个号** ⇒ 合并成一个 drill 点<br>· 也是 E-277（there-be 起句 → `Long-term treatment brings no…`）的上位规则<br>· ★ 判定为 §2.1b 的**第①类「底层的」＋第③类「知识缺失」** ⇒ **该 drill**（不是靶子）：一条规则管很多句，且她低压孤立也调不出<br>· ⚠️ **不许滑成 P3 硬编**：转主语 ≠ 造名词块。`The leaving-school time of students causes…` 是老病复发|**K → drill（08-18 当场上）**|0/2|`
 
 </details>
+- 2026-08-31 ✅D3 学习日 C4·作文 T1-15（§4⑤d 对照全文扫到）　**连对 1 → 2 ⇒ 🎓 毕业**
+  作文里两处都是"无生命名词放主语位 ＋ 实义动词推动"：
+  　S3 `**The process commences** when plants and trees utilize energy…`
+  　S7 `**These vehicles give off** fumes and **release** carbon dioxide…`
+  ⛔ **没有拿 S1 的 `The flow chart illustrates` 当证据** —— 那是 T1 的固定套话，
+  　 用它当证据等于把套话记成能力（这一条正是她 08-18 自己点名"经常想不到"的缺口）。
+  ⚠️ 条目正文的警戒线也守住了：「⛔ 不许滑成 P3 硬编（转主语 ≠ 造名词块）」——
+  　 两处的主语都是现成名词（the process ／ these vehicles），⛔ 没有当场拼名词块。
 
 ## #0150 有些病人已经好几年没有任何好转
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F07
@@ -3840,7 +3983,7 @@ K
 </details>
 
 ## #0221 一个词里已经含了的那一层，别再用另一个词说一遍（同义重复）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-29 ｜ 族 F08
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
 🔀 2026-08-23 从 F11 迁入 F08（她定：「归属按照你裁定来」）。原标题「此后再没回到峰值」，
 　 是旧档案的题面式命名，一并改成规则式命名。
 
@@ -3964,6 +4107,22 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   **全篇零同义重复**。逐个查过三个可疑处，都成立、⛔ 不是冗余：
   `convenient and rapid`（两个词不重叠）· `completely sold out`（标准搭配）· `the exact same`（固定块）。
   ⚠️ streak 说明：本条今天上午在复习组已记 ✅（连对 0→1），当天全部为 ✅ ⇒ **连对仍为 1**。
+- 2026-08-31 △ D3 学习日 C4·作文 T1-15 加练 E1（顺带）　**⛔ 两边都不动**
+  她写 `it is a **cyclical and repetitive** process` —— cyclical 已经含了"周而复始"，
+  repetitive 说的是同一层，落在本条 2026-08-27 升级条款的「**同义形容词叠用**」那一格
+  （建号时的实例就是 `small ＋ petty`）。
+  ⚠️ 档位按条目正文写死的那句走：「这几个搭配母语者造得出三个以上 ⇒ 按 §10 禁令9 与 §0.8
+  　 不判错，只进更好版」。逐条造了反例：`Farming is a cyclical and repetitive business.` ／
+  　 `The work is cyclical and repetitive.` ／ `cyclical and repetitive patterns of behaviour`
+  　 —— 三个都造得出 ⇒ **△，⛔ 不是 ❌**，streak 两边不动。
+  ⇒ 只在更好版里删掉 `and repetitive`：这句里它一个新信息没加，且 repetitive 带
+  　 "枯燥地重复"的味道，⛔ 不适合中性的流程描述。
+  ★ 同一天同一形状此前还出现过两次，都**没有**记进本条，理由各不相同，一并留痕：
+  　 ① 作文 S7 `give off fumes and release carbon dioxide` —— 造得出母语者句让"废气"与
+  　 　 "其中的二氧化碳"并列成两件事 ⇒ 档位 ⚠️ 不地道，只进更好版
+  　 ② 加练 D4 `resorbed by plants **again**`（re- ＋ again）—— 那个 re- 是**教练在纠正时
+  　 　 给她的形式**（她写的是 resorbed），拿教练提供的形式判她不成立（§5 四问自审第 ②）
+  ⇒ 三次同形、三个不同的处理，说明这条的**档位判据比考点本身更难**，下次出题要连档位一起测。
 
 ## #0323 reliable / stable / steady / consistent —— 四个"稳"分工不同
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F08
@@ -5472,7 +5631,7 @@ from other places` —— 用对了（承接的是"了解并吸收外来文化"�
   ⚠️ `embrances` 拼成非词 ⇒ 手滑豁免，⛔ 不记错。
 
 ## #0375 「投机／炒作／泡沫」一族 —— 说市场过热用哪个词
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-30 ｜ 族 F08
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
 
 **问题是什么**
 中文的「投机／炒／泡沫／过热／囤」，英文分成**人的行为**和**市场的状态**两半，⛔ 别混：
@@ -5544,6 +5703,204 @@ soar ／ spiral 价格失控地涨　`Prices **spiralled** out of control.`
   speculation 就是对的那个），fuel 配负面宾语也对（那是 #0367 的考点，已判 ✅）。
   当场括注「投机这个词建一个条目，需要学习」。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+
+---
+- 2026-08-31 ❌D3 学习日 C4·组1 第 6 题（主考点）　**连错 0 → 1**
+  写成 `to **speculate on** real estate`。
+  speculate 接**资产／市场**说"投机"时固定配 **in**（`speculate in property` ／ `in shares`）；
+  配 **on** 是"猜测"（`speculate on the outcome` ＝ 猜结果）⇒ 她这句母语者读成
+  "对房地产做一番猜测"，中文的"炒房"那层没送到（§3.2 判 ❌ 的第 ② 个理由）。
+  ⚠️ 四问自审：
+  　① 真的错吗 —— 唯一容易混的反例是 `speculate **on** the stock market`（把市场当"场地"说），
+  　　 这个说法确实有母语者用；但接 **real estate ／ property ／ shares 这种资产名词**时
+  　　 只有 in（`speculate in real estate` 是美式地产语境的标准搭配）⇒ 本句的形状不成立。
+  　② 不是延续 #0126 的判断（那条判丢层）。③ 判的是**搭配／论元框架**层。④ 档位 ❌。
+  ★ 另两个成员当场落地且正确：`a property **bubble**` ✔ · `**hoarding** houses` ✔（及物）
+  　 ⇒ 本条建号后第一次出题就覆盖了 3 个成员，缺口精确定位在**介词**这一格。
+  ★ 出题侧留痕：本条是 §2③ 建号，按 §6 第一次出题本可走"练档"（把整块 `speculate in` 写进题面）；
+  　 教练判定她已自发用对 `speculation`、不属于"本来就不会"那一类，**故意只给 lemma、
+  　 写明「介词自己补」**。结果证明这个校准是对的 —— 缺口就在介词上，练档会直接盖掉它。
+  ⇒ 下次出题仍走 lemma 档，成员账里 ② speculate in 标为"已出过、未过关"。
+
+## #0376 on the basis of ／ on the grounds of ／ on the strength of —— 名词块型的"依据"状语
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
+
+**问题是什么**
+中文一个"依据／凭着／以…为由"，英文分成**两种挂法**，⛔ 别混：
+```
+【分词块，挂在名词或主语上】
+based on        a decision **based on** cost　·　The decision **was based on** cost.
+                （⇒ 这一族的四个成员 based on ／ grounded in ／ rooted in ／ shaped by 见 #0295）
+【介词状语块，挂在动词上】★ 本条
+on the basis of ＋ 依据（证据／数据／成本／分数）
+                `They were selected **on the basis of** test scores.`
+                `The committee decided **on the basis of** three years of field data.`
+on the grounds of ＋ 理由（尤指正式的、可申辩的理由）★ 常与"拒绝／解雇／退回"连用
+                `The application was rejected **on the grounds of** incomplete documents.`
+                `He was dismissed **on the grounds of** misconduct.`
+                ⚠️ 也可以写 `on health grounds` ／ `on medical grounds`（去掉 the 和 of，直接名词 ＋ grounds）
+on the strength of ＋ 凭着（一个好的凭据）
+                `She was hired **on the strength of** her portfolio.`
+in the light of ＋ 鉴于（新出现的情况）
+                `The policy was revised **in the light of** new evidence.`
+```
+**判据（一句话）**：你要修饰的是**这个决定**（名词）⇒ based on；
+是**做决定这个动作**（动词）⇒ on the basis of。
+说的是"以…为由"、后面接的是可以被拿来申辩的理由 ⇒ on the grounds of。
+⚠️ **固定形状，三个零件一个都不能掉**：`**on** **the** **basis** of`
+　 ⛔ ~~on basis of~~　⛔ ~~in the basis of~~　⛔ ~~on the base of~~
+　 basis 用单数（复数 bases 只在"有好几条依据"时出现）。
+⚠️ 与 #0295（based on ／ grounded in ／ rooted in ／ shaped by）分工：
+　 那条管**四个分词块怎么挑**，本条管**"介词 ＋ the ＋ 名词 ＋ of"这一类状语块**。
+　 两条常在同一句里前后脚出现（`a decision based on cost` ／ `decided on the basis of cost`），⛔ 别串。
+
+**怎么发现的**
+2026-08-31　D3 学习日 C4·组1 第 1 题（主考点 #0347，命中 ✅）。她自发写出
+`this decision was reached **solely on the basis of** cost rather than quality` ——
+块用得完全正确、solely 的位置也对，并当场在答案里括注**「on the basis of 新建一个条目」**
+（§2③ 她点名要学）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "on the basis of" "based on"   ⇒ 命中 #0164 #0169 #0295（都只命中 based on 这个词面）
+② 规则查  dedup "依据" "基础" "介词块"          ⇒ 命中 #0163 #0295 #0296 #0347 #0055
+③ 眼过    ①②都有命中 ⇒ 未再跑 list
+逐条否掉：
+  #0295（shaped by ／ grounded in ／ based on ／ rooted in ＝"建立在…之上"，🎓）—— 三问：
+    问1 改正动作？那条是**在四个分词块里按比喻来源挑一个**（依据／源头／成因），
+       本条是**把"依据"做成挂在动词上的介词状语块，并守住 on／the／basis 三个零件** ⇒ 否
+    问2 一句话规则？那条讲"选哪个比喻"，本条讲"这个固定介词块长什么样、什么时候用它而不用 based on" ⇒ 否
+    问3 掌握一个另一个自动跟着对？⇒ 否。会写 `a decision based on cost` 不等于调得出
+       `decided on the basis of cost` —— 后者要求把状语挂到动词上。
+    ★ 反向验：她 2026-08-22 组10 `grounded in` ✅、2026-08-23 组3 `based on` ✅ 都已经会了，
+      而这个块她今天是**自发用对之后自己点名说要学**（＝ 自己知道没把握）⇒ 可独立取值，两条。
+  #0164（result from experience → are based on experience，🎓）· #0169（靠个案经验而非大规模试验，🎓）
+    —— 命中的都是正文例句里的 `based on` 字样，那两条各是一个具体整块 ⇒ §3.5 误判2「被词面骗」，逐条否。
+  #0163 #0296 #0347 #0055 —— 命中的是"依据"两个字偶然出现在正文说明里 ⇒ 无关。
+⇒ 新建，归 F08（近义块的分工），与 #0295 交叉引用。
+```
+
+**我错在哪**
+她这次**没有错** —— `solely on the basis of cost` 三个零件齐、位置也对。建号理由是 §2③。
+缺口在两层：
+① **分工**：什么时候用 based on（挂名词）、什么时候用 on the basis of（挂动词），她没说过判据；
+② **成员覆盖**：on the grounds of ／ on the strength of ／ in the light of 一次没用过。
+找法：**写完"依据／以…为由"，先问一句 —— 我要修饰的是这个【决定】，还是【做决定】这个动作？**
+　 名词 ⇒ based on；动词 ⇒ on the basis of。再点一遍那个块的三个零件：on ／ the ／ basis（单数）。
+
+**成员出题账**
+```
+① on the basis of     —— 2026-08-31 组1 第 1 题她自发用对（📋 不推进）
+② on the grounds of   —— 未出过　★ 优先测（"以…为由"这一格她一次没用过）
+③ on the strength of  —— 未出过
+④ in the light of     —— 未出过
+⑤ based on vs on the basis of 的分工 —— 未测过
+⇒ 一题至少让 2 个成员落地（§3.5 第 3.5 步）；按 §6「§2③ 建号的第一次出题把整个块写进题面」，
+　 连对 ≥1 之后再降回 lemma 档。
+```
+
+**中文触发点**
+评审组是依据三年的实测数据做的决定；另有两份申请以材料不全为由被退了回来。
+（★ 两处分别用 on the basis of ／ on the grounds of）
+
+### 历史记录
+- 2026-08-31 ③ 建号（她点名要学）D3 学习日 C4·组1 第 1 题（顺带）
+  她写 `this decision was reached **solely on the basis of** cost rather than quality`，
+  块的三个零件齐、solely 的位置也对（那是 #0347 的考点，已判 ✅），
+  当场在答案里括注「on the basis of 新建一个条目」。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+
+---
+
+## #0377 「变成」一族 —— 流程题里描述「A 变成 B」的中性转化动词
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
+
+**问题是什么**
+图上只画了**前后两个东西**、没给动作时，唯一合法的写法就是「A 变成了 B」。
+这一族全部配 **into**：
+```
+be converted into     最通用、最安全，⛔ 不声称中间发生了什么
+                      `the cellulose is **converted into** sugars`
+be broken down into   强调"被拆开"：大块 → 小块／复杂 → 简单　★ 你 2026-08-31 D1 里自发用过
+                      `the plants are **broken down into** a fibrous material`
+be turned into        最轻、最口语，书面也收　`the crop is **turned into** fuel`
+be transformed into   语气最重，"变得完全不一样"　`the site was **transformed into** a park`
+be processed into     "经过加工变成"
+                      ⚠️ 与 `processed **to**` 不是一回事：
+                      　 `processed **into** sugars` ＝ 变成糖（说的是产物）
+                      　 `processed **to yield** sugars` ＝ 加工以便产出糖（说的是目的）
+become                最轻，不带施动者　`the mixture **becomes** ethanol`
+```
+**⚠️ 介词写死：这一族一律 `into`，⛔ 不是 to。**
+`convert **to**` 只在"改信仰／换单位／换制式"里成立（`converted to Islam` · `converted to metric`），
+⛔ 物质形态的转化一律 into。
+**判据（一句话）**：
+```
+说不清中间做了什么   ⇒ be converted into（最安全的默认值）
+看得出是"拆小／拆开" ⇒ be broken down into
+产物形态完全换了     ⇒ be transformed into
+```
+★★ **这一条真正的难点不是选词，是【知道该在这里用它】**：
+　 T1 流程图里，某一格只给了输入和输出、没给动词 ⇒ **只能写"A 变成 B"**，
+　 ⛔ 不许去猜那些设备在干什么（那是 T1 三禁「加图上没有的东西」，撞 §3.3 硬顶 TA ≤6）。
+⚠️ 与 #0374（embrace／adopt／absorb／take on）分工：那条管"接受／吸收"这个**语义场**，
+　 本条管**物质形态转化**这个语义场，两者不重叠。
+
+**怎么发现的**
+2026-08-31　D3 学习日 C4·作文 T1-15 加练 E2。她看着图上 Processing 那一格说
+**「老实说，我没看出来对他做了什么，看了几个试管，但是我不知道做了什么」**，
+教练把题面改成"用一个中性的转化动词写成 A 变成 B"之后，她答**「不会」**（§2③ 她说不会）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "converted" "convert"     ⇒ **零命中**
+② 规则查  dedup "转化" "变成" "转变"        ⇒ 命中 #0119 #0217 #0268 #0269 #0338
+③ 眼过    ①零命中 ⇒ 跑了 ②；②的命中全部是词面偶合，未再跑 list
+逐条否掉：
+  #0119（加上退休金支出…）· #0268（believe sth / believe in sth）· #0269（在小范围）·
+  #0338（相应地／同步地）—— 命中的都是各自正文说明里偶然出现的"变成"两个字
+    ⇒ §3.5 误判2「被词面骗」，四条一起否。
+  #0217（涨到原来的一百倍）—— 三问：问1 改正动作？那条是**把倍数关系写对**（to N times），
+    本条是**在没有动词的格子里选一个中性转化动词并配 into** ⇒ 否。
+⇒ 新建，归 F08（近义动词的分工），与 #0374 交叉引用。
+```
+
+**我错在哪**
+她这次**没有写错** —— 建号理由是 §2③（她答"不会"）。缺口有两层，两层都要写清：
+```
+① **不是词的缺口，是调取的缺口**：同一天的 D1 她**自发**写出了
+   `broken down into a fibrous material known as cellulose` —— 块在手上；
+   隔了几轮被**点名**要同一个东西时，答"不会"。
+   ⇒ 这正是 §6 记录过三次的那个形状（#0289 yield · #0292 carry · #0297 accompanied by）：
+     **自发用得出 ≠ 被点名时调得出**。本条是第四例，也是第一次由她自己说出"不会"。
+② **成员覆盖**：converted into ／ turned into ／ transformed into ／ processed into 一个没用过。
+```
+找法：**看着图问一句 —— 这一格给了动作吗？**
+　 给了 ⇒ 照写那个动作；**没给 ⇒ 只写"A 变成 B"，默认用 `be converted into`。**
+
+**成员出题账**
+```
+① be converted into    —— 未出过　★ 优先测（最通用的默认值，且 into 这一格是唯一会出语法错的地方）
+② be broken down into  —— 2026-08-31 加练 D1 她自发用对（📋 不推进）⇒ 按 §6 挂作文验，⛔ 不出单点题
+③ be turned into       —— 未出过
+④ be transformed into  —— 未出过
+⑤ be processed into（vs processed to yield）—— 未出过
+⇒ 一题至少让 2 个成员落地（§3.5 第 3.5 步）；按 §6「§2③ 建号的第一次出题把整个块写进题面」，
+　 连对 ≥1 之后再降回 lemma 档。
+```
+
+**中文触发点**
+这些木屑先被拆解成一种纤维状的物质，随后又变成糖；剩下的边角料则被做成了燃料颗粒。
+（★ 三处分别用 break down ／ convert ／ turn —— ⛔ 介词自己补）
+
+### 历史记录
+- 2026-08-31 ③ 建号（她说不会）D3 学习日 C4·作文 T1-15 加练 E2
+  图上 Processing 那一格只有一组设备的画、**没有动词**，她说「我没看出来对他做了什么，
+  看了几个试管，但是我不知道做了什么」—— **这个判断是对的**，图上确实没给动作
+  （教练的 E2 题面因此作废重出，见当日 session 教练侧 ⑥）。
+  题面改成"用一个中性的转化动词写成 A 变成 B"之后，她答「不会」。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+  ★★ 同一天的 D1 她**自发**写出过 `broken down into` ⇒ 缺口在**调取**不在**知识**。
 
 ---
 
@@ -5765,7 +6122,7 @@ when · before · after · until · once · as soon as`
 > 语法全对但中文明写的一层没送到
 
 ## #0126 中文里明写的修饰层，写英文时丢掉
-状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-08-30 ｜ 族 F10
+状态：在池 ｜ 连对 0 ｜ 连错 3 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F10
 
 **问题是什么**
 **这是全库出现次数最多的一条，累计 8 次以上。**
@@ -6235,6 +6592,30 @@ S13 **within just two days**                                              ← �
   　 掉的不是"哪个修饰词"，是"**哪一句最忙**"。
   ⚠️ 两处 ⚠️ 不地道（⛔ 不进最小修改）：`operation hours` → `operating hours`（固定形式）·
   　 `only` 应挪到 `during` 前（only 限定的是那两个月这个时间范围，不是"延长"这个动作）。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 5 题（主考点）　⚠️ 当日另有一次 ❌，streak 按 §3.2 同日口径记 ❌
+  写出 `The school administration demands that each boarding student complete at least one
+  physical examination within two weeks prior to the start of the school term.`
+  中文八层**一层没丢**：校方 ／ 要求 ／ 每名 ／ 住校 ／ 至少 ／ 一次 ／ 体检 ／ 开学前两周内。
+  ⇒ 本条主考点这一次是**干净命中**，是建号以来单点题上最完整的一次。
+  ⚠️ 顺带 📋：`demands **that** each boarding student **complete**` —— mandative subjunctive，
+  　 ⛔ 没加 -s，正确。
+  ⚠️ `at lease` 是键位手滑（least 掉一个 t，此处只有 least 说得通）⇒ 按 2026-08-25 裁定
+  　 「键位手滑豁免，哪怕正好撞成另一个真词」⇒ 豁免，⛔ 不记错。
+- 2026-08-31 ❌D3 学习日 C4·组1 第 6 题（顺带）　**连错 2 → 3**
+  主考点是 #0375（判 ❌），同句本条塌。中文写的是「房价**很快**脱离了实际价值」，她写
+  `resulting in **a property bubble far above fundamental value**` ——
+  ① 「**很快**」这一层整层没有；② 「高于价值」被挂到了 bubble 头上，而高于价值的是**价格**，
+  泡沫是"价格高于价值"的**结果**，不是"高于价值"的那个东西。
+  最小修改：`resulting in a property bubble, **with prices soon far above fundamental value**`。
+  ⚠️ 四问自审（§5）跑过：
+  　① 真的错吗 —— 造不出母语者句子让 `a bubble far above fundamental value` 站住
+  　　（`prices far above fundamental value` ✔ ／ `a bubble in which prices are far above value` ✔）；
+  　　"很快"这一层中文明写、英文无对应词，属 §2 建号定义里的"语义缺失"。
+  　② 不是延续 #0375 的判断（那条判 speculate 的介词，本条判丢层）。
+  　③ 判的是**语义层**。　④ 档位 ❌（意思没送到，§3.2 判 ❌ 的第 ② 个理由）。
+  ★★ 与 2026-08-29 那次（丢「最」）形状相同：**都是丢掉一个副词性的修饰层**（最／很快），
+  　 而同一天第 5 题她能把八层一层不丢地送到 ⇒ 不是不会，是**一句里别的考点吃掉带宽时先掉修饰层**。
+  　 这与 R2 08-25、R4 08-30、R5 今天的观察第四次同源：一句扛的考点越多，边缘格越先掉。
 
 # F11 T1 数据/图表
 
@@ -6582,7 +6963,7 @@ U · 待排序　0/2
 > 判据落在"这个词的语义边界到哪"⇒ 属 F08 词义/近义辨析。原位置留此行指路，条目正文在 F08 段内。
 
 ## #0346 「减半／翻倍／几倍」一族 —— 幅度变化的固定块
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-29 ｜ 族 F11
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F11
 
 **问题是什么**
 中文一个「一半／一倍／几倍」，英文有一整排块，**方向、词性、介词都不一样**：
@@ -6721,6 +7102,18 @@ U · 待排序　0/2
   　 把正文补成了一张完整对照表，⛔ 未新建编号（三问全过，§3.5 归入）。
   📋 顺带用对：`that of buses` 省略结构 ✔ · `had **risen**` 第三栏 ✔（R1 高危词，正面）
   ⚠️ 一处进更好版（不算错）：`shared bike usage` → `shared-bike usage`，复合修饰语的连字符。
+- 2026-08-31 ✅D3 学习日 C4·组1 第 7 题（主考点）　**连对 1 → 2 ⇒ 🎓 毕业**
+  写出 `The publisher saw its ebook revenue **triple** in five years, while that of print books
+  **dropped by** 10%; by the beginning of this year, magazine subscriptions **had fallen to one
+  fifth of** their 2015 level.`
+  本条 2026-08-29 收紧后**只判两件事**，两件全部守住：
+  　① to／by 没用反 —— `dropped **by** 10%`（变化量）· `had fallen **to** one fifth`（结果值）
+  　② 「原来的几分之几」**没漏 of ＋ 基准** —— `to one fifth **of their 2015 level**`
+  　　 ⇒ 这一格是全条最贵的一格（08-29 的对照表里明写"最容易漏"），她自己补上了。
+  ★ 三个成员都不是 08-25 建号那两个（cut in half ／ double 已按 §6 挂作文验、不出单点题），
+  　 今天测的是 triple ／ by ／ to a fraction of 三个**没出过**的格 ⇒ 覆盖靠点名，不靠概率。
+  ⚠️ 顺带 📋：`**by** the beginning of this year … **had fallen**` —— by ＋ 时间点配过去完成时，正确。
+  ⚠️ `ebook` 现在 ebook／e-book 两种写法都收 ⇒ ⛔ 不判。
 
 ## #0351 T1 的「此后／余下的时间里」一族 —— 把时间边界说死
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F11

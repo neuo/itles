@@ -1513,7 +1513,25 @@ DELIVER_SPECS = {
             ("更好版全文",     ["更好版全文", "更好版"]),
         ],
     },
+    "追加练": {
+        "head": "## 追加练",
+        "parts": [
+            ("允许集", ["允许集"]),
+            ("找点",   ["找点"]),
+            ("三闸",   ["三闸"]),
+            ("重数",   ["重数"]),
+        ],
+    },
 }
+
+# 追加练：每个 #A<n> 块里必须齐的行（label 是行首 strip 后的前缀）
+FOLLOWUP_ASK_LINES = ["原句", "出处", "要求", "目标量"]      # 出题档就要齐
+FOLLOWUP_JUDGE_LINES = ["实际量", "判定"]                    # 判定档追加要齐
+FOLLOWUP_ANS_LINES = ["她的答案", "练档答案"]                # 二选一必须有其一
+RE_FU_HEAD   = re.compile(r"^#(A\d+)\s*$")
+RE_FU_PLAN   = re.compile(r"计划\s*(\d+)\s*题")
+RE_FU_TARGET = re.compile(r"(\d+)\s*(?:→|->|—>)\s*[~约]?\s*(\d+)\s*词")
+RE_FU_ACTUAL = re.compile(r"(\d+)\s*(?:→|->|—>)\s*(\d+)\s*词")
 
 # 块内必须齐的五行（label 是行首 strip 后的前缀）
 BLOCK_LINES = [
@@ -1627,6 +1645,272 @@ def _blocks_in(lines, s, e):
     return out
 
 
+def _wc_en(t):
+    """数英文词：只认含字母或数字的 token。"""
+    return len([x for x in t.split() if re.search(r"[A-Za-z0-9]", x)])
+
+
+def _fu_fence_mask(lines, a, b):
+    """标出 [a,b) 里哪些行在 ``` 围栏内。"""
+    inside, mask = False, {}
+    for i in range(a, b):
+        t = lines[i].lstrip()
+        if t.startswith("```"):
+            mask[i] = True
+            inside = not inside
+            continue
+        mask[i] = inside
+    return mask
+
+
+def _fu_blocks(lines, a, b):
+    """取出 [a,b) 里顶格、非围栏内的 #A<n> 块。
+    块的终点 = 下一个块头 ／ 下一个 ### 标题 ／ b，三者取最近。
+    另返回「长得像块头却没解析出来」的行号，交给调用方报错。"""
+    mask = _fu_fence_mask(lines, a, b)
+    heads, bad = [], []
+    for i in range(a, b):
+        if mask.get(i):
+            continue
+        ln = lines[i]
+        if RE_FU_HEAD.match(ln):
+            heads.append((RE_FU_HEAD.match(ln).group(1), i))
+        elif ln.lstrip().startswith("#A") and not ln.startswith("#A"):
+            bad.append(i)
+        elif ln.startswith("#A") and not RE_FU_HEAD.match(ln):
+            bad.append(i)
+    out = []
+    for k, (bid, i) in enumerate(heads):
+        stop = heads[k + 1][1] if k + 1 < len(heads) else b
+        for j in range(i + 1, stop):
+            if lines[j].startswith("### ") and not mask.get(j):
+                stop = j
+                break
+        out.append((bid, i, stop))
+    return out, bad
+
+
+def _fu_split_body(body):
+    """块体切成【块级行】与【三版对照块行】两段；没有那一行标记返回 (body, None)。"""
+    for k, ln in enumerate(body):
+        if "三版对照块" in ln:
+            return body[:k], body[k + 1:]
+    return body, None
+
+
+def _fu_val(body, prefix):
+    """块体里以 prefix 开头的第一行，返回它后面的值（没有返回 None）。
+    ★ 标签后面必须紧跟空白／全角空格／冒号，⛔ 否则「要求逐条对」会顶掉「要求」。"""
+    for ln in body:
+        t = ln.strip()
+        if not t.startswith(prefix):
+            continue
+        rest = t[len(prefix):]
+        if rest and rest[0] not in " \t\u3000：:":
+            continue
+        return rest.strip(" \t\u3000：:")
+    return None
+
+
+def _check_followup(lines, a, b, found, whole):
+    """§4.8 追加练：返回 (errs, notes)。脚本只读、只数、只报错，⛔ 不产生内容。"""
+    errs, notes = [], []
+
+    # 头一行（入口A 写「扣分项：…」／入口B 写「入口B …」）＋ 计划题数，必须同一行
+    plan = None
+    head_line = None
+    for i in range(a, b):
+        t = lines[i].lstrip()
+        if t.startswith("扣分项：") or t.startswith("入口B"):
+            head_line = lines[i]
+            break
+    if head_line is None:
+        errs.append("缺头一行 ——「扣分项：X（命中第 N 条）」或「入口B …」（§4.8 S1）")
+    else:
+        mp = RE_FU_PLAN.search(head_line)
+        if not mp:
+            errs.append("「扣分项：」那一行里没有「计划 N 题」（§4.8 S1／S4，两样必须同一行）")
+        else:
+            plan = int(mp.group(1))
+            if plan < 1:
+                errs.append("「计划 %d 题」不合法 —— 必须 ≥ 1" % plan)
+                plan = None
+
+    # 三闸三行齐
+    tp = found.get("三闸")
+    if tp:
+        _, ts, te = tp
+        ttxt = "\n".join(lines[ts:te])
+        for g in ("闸1", "闸2", "闸3"):
+            if g not in ttxt:
+                errs.append("三闸缺「%s」这一行（§4.8 S6）" % g)
+
+    blocks, bad = _fu_blocks(lines, a, b)
+    for i in bad:
+        errs.append("L%d 长得像题块头却解析不出来 ——「#A<数字>」必须顶格、独占一行：%s"
+                    % (i + 1, lines[i].strip()[:40]))
+    # 节外的 #A 块（被 ## 标题截断的）
+    others = [i for i, ln in enumerate(whole) if ln.startswith("## 追加练") and i != a]
+    lim = min([x for x in others if x > a] or [len(whole)])
+    stray = [i for i in range(a, lim) if whole[i].startswith("#A") and not (a <= i < b)]
+    if stray:
+        errs.append("节外还有 %d 个 #A 块（L%s）—— 中间插了 `## ` 标题把节截断了，把它们挪进 ## 追加练"
+                    % (len(stray), ",".join(str(i + 1) for i in stray[:5])))
+    if not blocks:
+        errs.append("一个 #A<n> 题块都没有（§4.8 S5）")
+        return errs, notes
+
+    seen = {}
+    for bid, i, _e in blocks:
+        if bid in seen:
+            errs.append("题号 #%s 重复（L%d 与 L%d）" % (bid, seen[bid] + 1, i + 1))
+        seen[bid] = i
+
+    live = []   # 非作废块
+    for bid, s_, e_ in blocks:
+        head, _tail = _fu_split_body(lines[s_ + 1:e_])
+        if _fu_val(head, "作废") is None:
+            live.append(bid)
+    if not live:
+        errs.append("全部 %d 块都标了「作废」—— 本轮一题都没实练（§4.8）" % len(blocks))
+
+    # 档位：最后一个【非作废】块有没有答案
+    last_live_has_ans = False
+    last_live_id = live[-1] if live else None
+    for bid, s_, e_ in reversed(blocks):
+        head, _t = _fu_split_body(lines[s_ + 1:e_])
+        if _fu_val(head, "作废") is not None:
+            continue
+        last_live_has_ans = any(_fu_val(head, x) is not None for x in FOLLOWUP_ANS_LINES)
+        break
+    n_live = len(live)
+    if not last_live_has_ans:
+        stage = "出题"
+    elif plan is not None and n_live >= plan:
+        stage = "收官"
+    else:
+        stage = "判定"
+    notes.append("档位 = %s 档（实练 %d 块／作废 %d 块%s）"
+                 % (stage, n_live, len(blocks) - n_live,
+                    "／计划 %d" % plan if plan is not None else ""))
+    if plan is not None and n_live > plan:
+        errs.append("实练题块 %d 多于「计划 %d 题」—— 改计划或删块（§4.8 S4）" % (n_live, plan))
+    if plan is not None and n_live < plan and last_live_has_ans and stage != "出题":
+        errs.append("实练题块 %d 少于「计划 %d 题」且已全部判完 —— 补出剩下的题或改计划（§4.8 S4）"
+                    % (n_live, plan))
+
+    for bid, s_, e_ in blocks:
+        body = lines[s_ + 1:e_]
+        head, blk = _fu_split_body(body)
+        is_last_live = (bid == last_live_id)
+        need_judge = not (is_last_live and stage == "出题")
+
+        # 作废的题：只要求 原句／要求／作废理由，⛔ 其余全部不查，也不计入计划
+        void = _fu_val(head, "作废")
+        if void is not None:
+            if not void:
+                errs.append("#%s 标了「作废」但没写理由" % bid)
+            else:
+                notes.append("#%s 作废 ⇒ ⛔ 不查判定与词数，也不计入计划" % bid)
+            for lab in ("原句", "要求"):
+                if _fu_val(head, lab) is None:
+                    errs.append("#%s 缺「%s」这一行" % (bid, lab))
+            continue
+
+        for lab in FOLLOWUP_ASK_LINES:
+            v = _fu_val(head, lab)
+            if v is None:
+                errs.append("#%s 缺「%s」这一行（§4.8 S5 四件）" % (bid, lab))
+            elif not v:
+                errs.append("#%s 的「%s」是空的" % (bid, lab))
+        if not need_judge:
+            continue
+
+        for lab in FOLLOWUP_JUDGE_LINES:
+            v = _fu_val(head, lab)
+            if v is None:
+                errs.append("#%s 缺「%s」这一行（§4.8 S8）" % (bid, lab))
+            elif not v:
+                errs.append("#%s 的「%s」是空的" % (bid, lab))
+        ans_lab = None
+        for x in FOLLOWUP_ANS_LINES:
+            if _fu_val(head, x) is not None:
+                ans_lab = x
+                break
+        if ans_lab is None:
+            errs.append("#%s 缺「她的答案」／「练档答案」（§4.8 S8，二选一必须有其一）" % bid)
+        elif not _fu_val(head, ans_lab):
+            errs.append("#%s 的「%s」是空的" % (bid, ans_lab))
+
+        # 三版对照块：必须有那一行标记 ＋ 五行齐 ＋ 非空
+        if blk is None:
+            errs.append("#%s 里没有「三版对照块」这一行标记（§4.8 S8）" % bid)
+        else:
+            for name, prefix in BLOCK_LINES:
+                v = _fu_val(blk, prefix)
+                if v is None:
+                    errs.append("#%s 缺三版对照块的「%s」这一行（§4.8 S8）" % (bid, name))
+                elif not v:
+                    errs.append("#%s 三版对照块的「%s」是空的" % (bid, name))
+
+        # 「不会」⇒ 必须有练档答案
+        jd = _fu_val(head, "判定") or ""
+        if "不会" in jd and _fu_val(head, "练档答案") is None:
+            errs.append("#%s 的判定里出现「不会」，但没有「练档答案」这一行（§4.8 S9）" % bid)
+
+        # 量：目标量必须是【词】或【处】两种写法之一
+        tgt = _fu_val(head, "目标量") or ""
+        act = _fu_val(head, "实际量") or ""
+        mt = RE_FU_TARGET.search(tgt)
+        if not mt:
+            if "处" in tgt:
+                mtp = re.search(r"(\d+)\s*处", tgt)
+                map_ = re.search(r"(\d+)\s*处", act)
+                if not mtp or not map_:
+                    errs.append("#%s 的目标量／实际量读不出「N 处」（§4.8 S4）" % bid)
+                else:
+                    t_n, a_n = int(mtp.group(1)), int(map_.group(1))
+                    if a_n <= 0:
+                        errs.append("#%s 实际 0 处 —— ⛔ 这一题没达成目的（§4.8 S8）" % bid)
+                    elif a_n < t_n:
+                        notes.append("WARN #%s 实际 %d 处 < 目标 %d 处 —— 处置写进 session"
+                                     % (bid, a_n, t_n))
+                    else:
+                        notes.append("#%s %d 处（目标 %d 处）" % (bid, a_n, t_n))
+            else:
+                errs.append("#%s 的「目标量」不合法 —— 只许两种写法：`N → ~M 词` 或 `N 处`（§4.8 S4）"
+                            % bid)
+            continue
+
+        t_from, t_to = int(mt.group(1)), int(mt.group(2))
+        src = _fu_val(head, "原句")
+        ans = _fu_val(head, ans_lab) if ans_lab else None
+        if src is None or ans is None:
+            continue
+        n_src, n_ans = _wc_en(src), _wc_en(ans)
+        delta = n_ans - n_src
+        pairs = RE_FU_ACTUAL.findall(act)
+        if not pairs:
+            errs.append("#%s 的「实际量」里读不出 `N → M 词`（脚本数出来是 %d → %d 词；"
+                        "答案必须写成一行）" % (bid, n_src, n_ans))
+        elif (str(n_src), str(n_ans)) not in [(x, y) for x, y in pairs]:
+            errs.append("#%s 实际量对不上：session 写的是 %s，脚本数出来是 %d → %d 词"
+                        "（答案必须写成一行）"
+                        % (bid, "／".join("%s → %s" % pr for pr in pairs), n_src, n_ans))
+        if delta <= 0:
+            errs.append("#%s 净增量 %+d 词（%s）—— ⛔ 这一题没达成目的；"
+                        "要么改题重出，要么在块里写一行「作废　<理由>」（§4.8 S8）"
+                        % (bid, delta, ans_lab))
+        elif n_ans < t_to:
+            notes.append("WARN #%s 实际 %d 词 < 目标 %d 词（净 %+d，目标 %+d）—— 处置写进 session"
+                         % (bid, n_ans, t_to, delta, t_to - t_from))
+        else:
+            notes.append("#%s 词数 %d → %d（净 %+d，目标 %+d）"
+                         % (bid, n_src, n_ans, delta, t_to - t_from))
+
+    return errs, notes
+
+
 def cmd_deliver(args):
     path = args.session
     if not os.path.exists(path):
@@ -1648,16 +1932,23 @@ def cmd_deliver(args):
         for slug in ("回看", "新题"):
             if _slice_h2(lines, lambda x, h=DELIVER_SPECS[slug]["head"]: x.startswith(h)):
                 wanted.append(slug)
+        for i, ln in enumerate(lines):
+            if ln.startswith("## 追加练"):
+                wanted.append("追加练@%d" % i)
+    elif args.section == "追加练":
+        wanted = ["追加练@%d" % i for i, ln in enumerate(lines) if ln.startswith("## 追加练")]
+        if not wanted:
+            wanted = ["追加练"]
     else:
         wanted = [args.section]
 
     if not wanted:
-        print("⛔ 这个文件里没有可查的交付节（复习 · 第 N 组 ／ 回看 ／ 新题）")
+        print("⛔ 这个文件里没有可查的交付节（复习 · 第 N 组 ／ 回看 ／ 新题 ／ 追加练）")
         return 2
 
     print("═" * 74)
     print("drill.py deliver · 交付物完整性硬闸 · %s" % path)
-    print("   ⛔ ERROR > 0 ⇒ 不许发（SKILL §4③bc / §4④ / §4⑤e，她 2026-08-30 定）")
+    print("   ⛔ ERROR > 0 ⇒ 不许发（SKILL §4③bc / §4④ / §4⑤e / §4.8）")
     print("═" * 74)
 
     total_err = 0
@@ -1670,12 +1961,23 @@ def cmd_deliver(args):
             n = m.group(1)
             rng = _slice_h2(lines, lambda x, n=n: x.startswith("## 复习 · 第 %s 组" % n))
             label = "复习 · 第 %s 组" % n
+        elif slug.startswith("追加练"):
+            spec = DELIVER_SPECS["追加练"]
+            mm = re.match(r"^追加练@(\d+)$", slug)
+            if mm:
+                a0 = int(mm.group(1))
+                rng = (a0, len(lines))
+            else:
+                rng = _slice_h2(lines, lambda x: x.startswith("## 追加练"))
+            label = ("%s（L%d）" % (lines[rng[0]].lstrip("# ").strip(), rng[0] + 1)
+                     if rng else "追加练")
+            slug = "追加练"
         elif slug in DELIVER_SPECS:
             spec = DELIVER_SPECS[slug]
             rng = _slice_h2(lines, lambda x, h=spec["head"]: x.startswith(h))
             label = slug
         else:
-            print("⛔ 不认识的 --section：%s（用 组N ／ 回看 ／ 新题）" % slug)
+            print("⛔ 不认识的 --section：%s（用 组N ／ 回看 ／ 新题 ／ 追加练）" % slug)
             return 2
 
         print("")
@@ -1691,7 +1993,7 @@ def cmd_deliver(args):
             # 回看 停在 ## 新题（否则会把新题的两份全文认成自己的）；
             # 新题 扫到文件末 —— 历史上 判分／对照／记账 被写在 ## 收尾 之后（08-20 就是）
             b = len(lines)
-            stops = ("新题", "复习 ·") if slug == "回看" else ("复习 ·",)
+            stops = ("新题", "复习 ·", "追加练") if slug == "回看" else ("复习 ·", "追加练")
             for j in range(a + 1, len(lines)):
                 if lines[j].startswith("## ") and any(
                     lines[j].startswith("## " + stop) for stop in stops
@@ -1700,10 +2002,60 @@ def cmd_deliver(args):
                     break
         parts = _sub_parts(lines, a, b, h2_too=h2_too)
 
-        # 声明跳过的节（§4④ D-1 没写新题就跳过）⇒ 不查
+        # 声明跳过的节（§4④ D-1 没写新题就跳过）⇒ 不查。⛔ 追加练不吃这条
         head_txt = "\n".join(lines[a:min(a + 20, b)])
-        if RE_SKIP.search(head_txt):
+        if slug != "追加练" and RE_SKIP.search(head_txt):
             print("   SKIP   本节已声明跳过（§4④），⛔ 不查")
+            continue
+
+        # ★ §4.8 追加练：走自己的一套检查，⛔ 不套用组／回看／新题的块数守恒与战报
+        if slug == "追加练":
+            # 节区间只在【已知顶层节】处截断，别的 ## 标题不截（否则后面的 #A 块会被吃掉）
+            known = ("开场", "复习 ·", "回看", "新题", "教练侧", "收尾", "追加练")
+            b = len(lines)
+            for j in range(a + 1, len(lines)):
+                if lines[j].startswith("## ") and any(
+                        lines[j].startswith("## " + k) for k in known):
+                    b = j
+                    break
+            parts = _sub_parts(lines, a, b)
+            found = {}
+            for name, kws in spec["parts"]:
+                found[name] = _find_part(parts, kws)
+            hl = ""
+            for i in range(a, b):
+                t = lines[i].lstrip()
+                if t.startswith("扣分项：") or t.startswith("入口B"):
+                    hl = lines[i]
+                    break
+            if found.get("允许集") is None:
+                if "入口B" in hl:
+                    notes.append("允许集：本场走入口B ⇒ ⛔ 不查")
+                else:
+                    errs.append("缺子件「允许集」（§4.8 S2；走入口B 时把「入口B」写在【扣分项那一行】）")
+            for name in ("找点", "三闸"):
+                if found.get(name) is None:
+                    errs.append("缺子件「%s」（§4.8）" % name)
+            e2, n2 = _check_followup(lines, a, b, found, lines)
+            errs.extend(e2)
+            notes.extend(n2)
+            is_final = any(x.startswith("档位 = 收官") for x in n2)
+            if found.get("重数") is None:
+                if is_final:
+                    errs.append("缺子件「重数」（§4.8 S11）")
+                else:
+                    notes.append("重数：本轮还没走完 ⇒ ⛔ 不查")
+            elif not is_final:
+                errs.append("写了「### 重数」但本轮还没走完（题没出齐或没判完）—— 先走完再写重数（§4.8 S11）")
+            for n in notes:
+                print("   ✔ %s" % n)
+            for name, kws in spec["parts"]:
+                if found.get(name) is not None:
+                    print("   ✔ 子件「%s」在" % name)
+            for e in errs:
+                print("   ERROR  %s" % e)
+            print("   ⇒ %s" % ("ERROR 0 · 可以发" if not errs else "ERROR %d · ⛔ 不许发" % len(errs)))
+            total_err += len(errs)
             continue
 
         # ① 子件齐不齐
@@ -1878,7 +2230,7 @@ def main():
 
     p = sub.add_parser("deliver", help="交付物完整性硬闸（§4③bc/§4④/§4⑤e）")
     p.add_argument("--session", required=True, help="当日 session 文件路径")
-    p.add_argument("--section", help="组N ／ 回看 ／ 新题；不给则扫全部")
+    p.add_argument("--section", help="组N ／ 回看 ／ 新题 ／ 追加练；不给则扫全部")
     p.add_argument("--all", action="store_true", help="扫这个文件里全部交付节")
     p.set_defaults(func=cmd_deliver)
 
