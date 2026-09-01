@@ -11,6 +11,9 @@
      · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
             ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
           ⛔ 不改 🎓／状态／条目正文／成员出题账 —— 那些是判断，仍然手写（SKILL §0.3）
+     · 搬  problems.md ⇄ graduated.md —— 仅 `migrate` 子命令，只按状态行第 1 格
+          把**已有的整块字节**从一个文件挪到另一个文件（逐字节，搬完自校，不过就整批回滚）
+          ⛔ 不改状态、不改正文、不改任何一个数、不碰两个文件的头部说明块
    session、战报、条目正文仍然全部手工写。
 
 子命令
@@ -23,6 +26,8 @@
     python3 drill.py show  #0059 [#0071 …]
   记账（SKILL §4③d ／ §3.1 契约⑪）—— 判定行写好后一次落盘，⛔ 不再手写插入位置
     python3 drill.py append --file rows.md --date 2026-08-25 [--dry-run]
+  搬迁（SKILL §3.3 ／ §4⑥）—— 每天收尾自动做，🎓 出池、复发回池，整块字节搬
+    python3 drill.py migrate [--dry-run]
   交付物硬闸（SKILL §4③bc §4④ §4⑤e）—— 发给她之前跑，ERROR>0 ⇒ 不许发
     python3 drill.py deliver --session sessions/2026-08-30.md [--section 组1|回看|新题]
   统计与校验（SKILL §0.3 §0.4 §4⑥）
@@ -984,6 +989,7 @@ def cmd_stats(args):
     todo = [e for e in ents if e.in_pool and e.trigger_todo]
     review = [e for e in ents if e.review_mark]
     grad_in_problems = [e for e in grad if e.src == "problems.md"]
+    relapsed_in_grad = [e for e in ents if e.src == "graduated.md" and e.state != "🎓"]
 
     print("═" * 74)
     print("drill.py stats · 全档 = problems.md ＋ graduated.md（两文件合计逐条实数）")
@@ -993,9 +999,14 @@ def cmd_stats(args):
     print(f"在池       {len(in_pool)} 条")
     print(f"🎓         {len(grad)} 条（占 {len(grad)/max(total,1)*100:.1f}%）")
     if grad_in_problems:
-        print(f"   其中 {len(grad_in_problems)} 条仍在 problems.md，**待她手动搬进 graduated.md**（§3.3）")
+        print(f"   ⏸ 其中 {len(grad_in_problems)} 条还留在 problems.md —— "
+              f"**跑 `drill.py migrate` 把它们搬进 graduated.md**（§3.3 / §4⑥）")
         print(fmt_ids([e.num for e in grad_in_problems]))
     print(f"退池       {len(retired)} 条　并入 {len(merged)} 条")
+    if relapsed_in_grad:
+        print(f"   ⏸ graduated.md 里有 {len(relapsed_in_grad)} 条已经不是 🎓（🎓 后复发）—— "
+              f"**跑 `drill.py migrate` 把它们搬回 problems.md**（§3.3 / §4⑥）")
+        print(fmt_ids([e.num for e in relapsed_in_grad]))
     print(f"REVIEW 池  {len(review)} 条")
     if review:
         print(fmt_ids([e.num for e in review]))
@@ -1464,6 +1475,340 @@ def cmd_append(args):
 
 
 # ══════════════════════════════════════════════════════════════════════════
+
+# ══════════════════════════════════════════════════════════════════════════
+#  migrate —— problems.md ⇄ graduated.md 双向搬迁（SKILL §3.3 / §4⑥）
+#
+#  ⛔ 这是本脚本第二个会写内容文件的子命令（第一个是 append），同样【一个字都不产生】：
+#     它只把**已经存在的整块字节**从一个文件搬到另一个文件，
+#     判断（谁毕业、谁降级）仍然全部由教练手写状态行，脚本只认状态行的第 1 格。
+#       problems.md 里状态 ＝ 🎓        ⇒ 搬进 graduated.md
+#       graduated.md 里状态 ≠ 🎓        ⇒ 搬回 problems.md
+#     ⛔ 不改状态、不改正文、不改历史记录、不改任何一个数、不碰两个文件的头部说明块。
+#
+#  切块口径（下面 split_file 是全脚本唯一一处「档案的块状结构长什么样」的定义）：
+#     文件 ＝ header ＋ Σ(块 body ＋ 块 trail)
+#       块       `# FNN …`（族头）或 `## #NNNN …`（条目），认法与 parse_file 完全一致
+#       body     块头那行 → 尾部分隔行之前
+#       trail    紧跟在 body 后面的**空行与 `---`**，＝ 这个块与下一个块之间的「缝」
+#     ⇒ 拼回去必须与原文逐字节相同（每次 migrate 都先自校这一条，不过就退出）
+#     搬块时缝跟着走：删块 ⇒ 它的 trail 交给前一个块（族间的 `---` 不会被带走）；
+#                     插块 ⇒ 新块接管前一个块的 trail，前一个块换成条目缝 `[""]`。
+# ══════════════════════════════════════════════════════════════════════════
+
+ENTRY_GAP = [""]                 # 条目与条目之间的缝
+FAM_GAP = ["", "---", ""]        # 族与族之间的缝（graduated.md 的写法，全档 15 处都是它）
+
+
+class Blk:
+    """档案里的一个块。kind ∈ 'fam' / 'entry'。"""
+    __slots__ = ("kind", "key", "body", "trail")
+
+    def __init__(self, kind, key, body, trail):
+        self.kind = kind
+        self.key = key            # 'F08' 或 '#0342'
+        self.body = body          # 块头那行 + 正文，⛔ 逐字不动
+        self.trail = trail        # 块后面的缝（空行／---）
+
+    def __repr__(self):
+        return f"<Blk {self.kind} {self.key} body={len(self.body)} trail={self.trail!r}>"
+
+
+def split_file(path):
+    """→ (header_lines, [Blk…], 原文本)。⛔ 严格：拼回去与原文逐字节相同。"""
+    text = open(path, encoding="utf-8").read()
+    lines = text.split("\n")
+    heads = []
+    for i, l in enumerate(lines):
+        m = RE_FAM_HEAD.match(l)          # 与 parse_file 同一条认法
+        if m:
+            heads.append((i, "fam", m.group(1)))
+            continue
+        m = RE_ENTRY.match(l)
+        if m:
+            heads.append((i, "entry", m.group(1)))
+    if not heads:
+        sys.exit(f"⛔ {os.path.basename(path)} 里一个块都没有 —— 档案结构不对，先修档案")
+    header = lines[:heads[0][0]]
+    blocks = []
+    for k, (i, kind, key) in enumerate(heads):
+        stop = heads[k + 1][0] if k + 1 < len(heads) else len(lines)
+        j = stop
+        while j > i + 1 and lines[j - 1].strip() in ("", "---"):
+            j -= 1
+        blocks.append(Blk(kind, key, lines[i:j], lines[j:stop]))
+    # 自校：切开再拼回去必须一模一样
+    back = header[:]
+    for b in blocks:
+        back += b.body + b.trail
+    if "\n".join(back) != text:
+        sys.exit(f"⛔ {os.path.basename(path)} 切块自校失败 —— 脚本读不懂这个文件，⛔ 不动它")
+    return header, blocks, text
+
+
+def join_file(header, blocks):
+    out = header[:]
+    for b in blocks:
+        out += b.body + b.trail
+    return "\n".join(out)
+
+
+def fam_of(blocks, fam):
+    """族 fam 的 [族头下标, 该族最后一个块的下标+1)；没有这个族返回 None。"""
+    lo = None
+    for i, b in enumerate(blocks):
+        if b.kind == "fam" and b.key == fam:
+            lo = i
+            break
+    if lo is None:
+        return None
+    hi = len(blocks)
+    for i in range(lo + 1, len(blocks)):
+        if blocks[i].kind == "fam":
+            hi = i
+            break
+    return lo, hi
+
+
+def insert_block(blocks, at, blk):
+    """把 blk 插到下标 at（＝插在 blocks[at] 前面）。缝按上面的规则倒手。"""
+    prev = blocks[at - 1]
+    blk.trail = prev.trail
+    prev.trail = list(ENTRY_GAP)
+    blocks.insert(at, blk)
+
+
+def make_fam_section(blocks, fam, donor_blocks):
+    """目标文件还没有这个族 ⇒ 从来源文件把族头那几行**逐字**抄过来、按族序插进去。
+    ⛔ 一个字都不新写：族头与那句族说明全部是 donor 文件里的原字节。"""
+    donor = next((b for b in donor_blocks if b.kind == "fam" and b.key == fam), None)
+    if donor is None:
+        sys.exit(f"⛔ 两个文件里都没有 {fam} 的族头 —— 不代写，先手工加上族头再跑")
+    at = len(blocks)
+    for i, b in enumerate(blocks):
+        if b.kind == "fam" and b.key > fam:
+            at = i
+            break
+    head = Blk("fam", fam, list(donor.body), list(ENTRY_GAP))
+    if at == 0:                            # 新族排在全部族之前 ⇒ 前面只有 header
+        keep = list(FAM_GAP)
+    else:
+        prev = blocks[at - 1]
+        keep = prev.trail                  # 这条缝原本是给 blocks[at] 的，留给本族最后一块
+        prev.trail = list(FAM_GAP)         # 族与族之间隔 `---`
+    blocks.insert(at, head)
+    return at, keep
+
+
+def _msg_key(msg):
+    """把报错信息里的行号抹掉 —— 搬完行号必然变，比对的是「有没有多出新错」。"""
+    return re.sub(r"\bL\d+\b", "L*", msg)
+
+
+def _errmap(ents, all_nums):
+    out = Counter()
+    for e in ents:
+        for level, msg in check_entry(e, set(), all_nums):
+            out[(e.num, level, _msg_key(msg))] += 1
+    return out
+
+
+def _statesnap(ents):
+    return {e.num: (e.state, e.ok, e.bad, e.goal, e.last, e.fam, e.fam_section,
+                    len(e.history), e.review_mark) for e in ents}
+
+
+def cmd_migrate(args):
+    # ── 0. 搬之前的全档快照（内容比对的基准）──────────────────────────
+    ph, pb, ptext = split_file(PROBLEMS)
+    gh, gb, gtext = split_file(GRADUATED)
+    body_before = {}
+    for src, bl in (("problems.md", pb), ("graduated.md", gb)):
+        for b in bl:
+            if b.kind == "entry":
+                if b.key in body_before:
+                    sys.exit(f"⛔ {b.key} 在全档出现了两次 —— 先修重号再搬")
+                body_before[b.key] = tuple(b.body)
+
+    ents0 = load_all()
+    nums0 = {e.num for e in ents0}
+    err0 = _errmap(ents0, nums0)
+    snap0 = _statesnap(ents0)
+    pre_err = sum(v for (n, lv, m), v in err0.items() if lv == "ERROR")
+
+    # ── 1. 定搬迁清单：只认状态行第 1 格，⛔ 不做任何判断 ─────────────────
+    p2g = [e for e in ents0 if e.src == "problems.md" and e.state == "🎓"]
+    g2p = [e for e in ents0 if e.src == "graduated.md" and e.state != "🎓"]
+    p2g.sort(key=lambda e: (e.fam or "", e.num))
+    g2p.sort(key=lambda e: (e.fam or "", e.num))
+
+    print("═" * 74)
+    print("drill.py migrate · problems.md ⇄ graduated.md 双向搬迁（§3.3 / §4⑥）")
+    print("═" * 74)
+    if pre_err:
+        print(f"⚠️ 搬之前全档已有 {pre_err} 处 ERROR —— 搬迁不会修它们，也不会新增；"
+              f"搬完请照常跑 `check --all` 收拾")
+    if not p2g and not g2p:
+        print("两边都没有要搬的：problems.md 无 🎓 · graduated.md 无非 🎓 ⇒ 无操作")
+        print(f"全档 {len(ents0)} 条 ＝ problems.md {sum(1 for e in ents0 if e.src=='problems.md')}"
+              f" ＋ graduated.md {sum(1 for e in ents0 if e.src=='graduated.md')}")
+        print("═" * 74)
+        return 0
+
+    print(f"problems.md → graduated.md  {len(p2g)} 条（状态 🎓）")
+    for e in p2g:
+        print(f"   {e.num}  {e.fam}  {e.title[:38]}")
+    print(f"graduated.md → problems.md  {len(g2p)} 条（状态已不是 🎓 ＝ 🎓 后复发）")
+    for e in g2p:
+        print(f"   {e.num}  {e.fam}  状态「{e.state}」 {e.title[:30]}")
+
+    # 族一致性：搬迁按状态行的「族」放段，与 check 契约③ 同一口径
+    bad_fam = [e for e in p2g + g2p if e.fam not in FAMILIES or e.fam != e.fam_section]
+    if bad_fam:
+        print("─" * 74)
+        for e in bad_fam:
+            print(f"⛔ {e.num} 族「{e.fam}」与所在分段「{e.fam_section}」不一致 —— "
+                  f"先修族再搬（否则搬完位置就是错的）")
+        print("═" * 74)
+        return 1
+
+    if args.dry_run:
+        print("─" * 74)
+        print("--dry-run：⛔ 没有写盘。去掉 --dry-run 才真搬。")
+        print("═" * 74)
+        return 0
+
+    # ── 2. 搬：先从来源摘块，再按族＋编号升序插进目标 ────────────────────
+    def take(blocks, nums):
+        got, keep = {}, []
+        for i, b in enumerate(blocks):
+            if b.kind == "entry" and b.key in nums:
+                got[b.key] = b
+                keep.append(i)
+        for i in reversed(keep):                       # 缝交给前一个块（族间 --- 不被带走）
+            if i == 0:
+                sys.exit("⛔ 条目排在第一个族头之前 —— 档案结构不对，先修档案")
+            blocks[i - 1].trail = blocks[i].trail
+            del blocks[i]
+        return got
+
+    def put(blocks, blk, fam, donor):
+        span = fam_of(blocks, fam)
+        if span is None:
+            at, keep = make_fam_section(blocks, fam, donor)
+            blocks.insert(at + 1, blk)
+            blk.trail = keep
+            return
+        lo, hi = span
+        at = hi
+        for i in range(lo + 1, hi):
+            if blocks[i].kind == "entry" and blocks[i].key > blk.key:
+                at = i
+                break
+        insert_block(blocks, at, blk)
+
+    got_p = take(pb, {e.num for e in p2g})
+    got_g = take(gb, {e.num for e in g2p})
+    for e in p2g:
+        put(gb, got_p[e.num], e.fam, pb)
+    for e in g2p:
+        put(pb, got_g[e.num], e.fam, gb)
+
+    new_p, new_g = join_file(ph, pb), join_file(gh, gb)
+    open(PROBLEMS, "w", encoding="utf-8").write(new_p)
+    open(GRADUATED, "w", encoding="utf-8").write(new_g)
+
+    # ── 3. 搬完自校 —— 任何一条不过就整批回滚（与 append 同一个仪式）────────
+    def rollback(why, detail):
+        open(PROBLEMS, "w", encoding="utf-8").write(ptext)
+        open(GRADUATED, "w", encoding="utf-8").write(gtext)
+        print("─" * 74)
+        print(f"⛔ 搬完自校不过：{why} —— 两个文件已整批回滚，档案回到搬之前")
+        for d in detail[:20]:
+            print("   " + d)
+        print("═" * 74)
+        return 1
+
+    ph2, pb2, _ = split_file(PROBLEMS)
+    gh2, gb2, _ = split_file(GRADUATED)
+    body_after, dup = {}, []
+    for bl in (pb2, gb2):
+        for b in bl:
+            if b.kind == "entry":
+                if b.key in body_after:
+                    dup.append(b.key)
+                body_after[b.key] = tuple(b.body)
+    if dup:
+        return rollback("搬完出现重号", sorted(set(dup)))
+    if set(body_after) != set(body_before):
+        lost = sorted(set(body_before) - set(body_after))
+        extra = sorted(set(body_after) - set(body_before))
+        return rollback("条目集合变了", [f"丢了 {x}" for x in lost] + [f"多了 {x}" for x in extra])
+    diff_body = [n for n in body_before if body_before[n] != body_after[n]]
+    if diff_body:
+        return rollback("有条目正文被改动了（搬迁必须逐字节原样）", sorted(diff_body))
+    if (ph2 != ph) or (gh2 != gh):
+        return rollback("文件头部被动过（搬迁⛔不碰头部说明块）", ["problems.md 或 graduated.md 的 header"])
+
+    ents1 = load_all()
+    nums1 = {e.num for e in ents1}
+    snap1 = _statesnap(ents1)
+    moved_bad = [n for n in snap0 if snap0[n] != snap1[n]]
+    if moved_bad:
+        return rollback("有条目的状态字段变了（搬迁⛔不改状态/连对/连错/上次/族）",
+                        [f"{n}  {snap0[n]}  →  {snap1[n]}" for n in sorted(moved_bad)])
+    err1 = _errmap(ents1, nums1)
+    new_errs = [f"{n} {lv} {m}" for (n, lv, m), c in (err1 - err0).items()]
+    if new_errs:
+        return rollback(f"多出 {len(new_errs)} 处 check 报告", sorted(new_errs))
+
+    # 位置硬查：🎓 全在 graduated.md、非 🎓 全在 problems.md、族内编号升序
+    wrong = [f"{e.num} 状态「{e.state}」却住在 {e.src}" for e in ents1
+             if (e.state == "🎓") != (e.src == "graduated.md")]
+    for bl, src in ((pb2, "problems.md"), (gb2, "graduated.md")):
+        fam, order = None, []
+        for b in bl + [Blk("fam", "ZZZ", [], [])]:
+            if b.kind == "fam":
+                if order != sorted(order):
+                    wrong.append(f"{src} {fam} 段内编号不是升序")
+                fam, order = b.key, []
+            else:
+                order.append(b.key)
+    if wrong:
+        return rollback("搬完位置不对", wrong)
+
+    # ── 4. 报告 ────────────────────────────────────────────────────────
+    print("─" * 74)
+    print(f"✔ 已搬 {len(p2g) + len(g2p)} 条 · 条目正文逐字节未变 · 状态字段未变 · "
+          f"check 无新增报告")
+    print(f"  全档 {len(ents1)} 条 ＝ problems.md "
+          f"{sum(1 for e in ents1 if e.src=='problems.md')} ＋ graduated.md "
+          f"{sum(1 for e in ents1 if e.src=='graduated.md')}"
+          f"　（搬前 {sum(1 for e in ents0 if e.src=='problems.md')} ＋ "
+          f"{sum(1 for e in ents0 if e.src=='graduated.md')}）")
+    for path, before, after in ((PROBLEMS, ptext, new_p), (GRADUATED, gtext, new_g)):
+        b, a = before.split("\n"), after.split("\n")
+        print(f"  {os.path.basename(path):<14} {len(b)} 行 → {len(a)} 行"
+              f"（{len(a)-len(b):+d}）")
+    print("─" * 74)
+    print("git 侧核对（§4⑥ 收尾要贴的就是这个）：")
+    try:
+        out = subprocess.run(["git", "diff", "--numstat", "--", PROBLEMS, GRADUATED],
+                             cwd=ROOT, capture_output=True, text=True, timeout=30)
+        for l in out.stdout.strip().splitlines():
+            add, dele, f = (l.split("\t") + ["", "", ""])[:3]
+            print(f"  {os.path.basename(f):<14} +{add} −{dele}")
+    except Exception as ex:                                   # noqa: BLE001
+        print(f"  （git diff 跑不了：{ex}）")
+    print("─" * 74)
+    print("下一步（§4⑥）：")
+    print("  1) `drill.py check --all`  —— ERROR 必须为 0")
+    print("  2) `drill.py stats`        —— 把新数抄进 problems.md 头部「全档状态」块")
+    print("     ⛔ 搬完这一次不要用 `check --changed`：两个文件整体位移，git diff 会把")
+    print("       大批没动过的条目算成「改过」⇒ 存量行被按新文法查 ⇒ 全是假阳性")
+    print("═" * 74)
+    return 0
+
 
 # ══════════════════════════════════════════════════════════════════════════
 # deliver —— 交付物完整性硬闸（SKILL §4③bc / §4④ / §4⑤e）
@@ -2227,6 +2572,10 @@ def main():
     p.add_argument("--date", help="判定日期 YYYY-MM-DD（默认今天）")
     p.add_argument("--dry-run", action="store_true", help="只打计划，⛔ 不写盘")
     p.set_defaults(func=cmd_append)
+
+    p = sub.add_parser("migrate", help="problems.md ⇄ graduated.md 双向搬迁（§3.3/§4⑥）")
+    p.add_argument("--dry-run", action="store_true", help="只打搬迁清单，⛔ 不写盘")
+    p.set_defaults(func=cmd_migrate)
 
     p = sub.add_parser("deliver", help="交付物完整性硬闸（§4③bc/§4④/§4⑤e）")
     p.add_argument("--session", required=True, help="当日 session 文件路径")
