@@ -111,7 +111,7 @@
 
 ### 8 · 群组用 in，论坛用 on（in an online group／on a forum）
 类型 搭配 ｜ 题面 "我在一个网上群里认识他们的。" ／ "我在一个养宠物的群里加了个好友。" ｜ 旧号 B20＋B130
-状态 连对0 连错1 上次2026-08-31 未毕业 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-01 未毕业 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）
 　　★ 复测题面**不改**：现有题面第二句「我在一个养宠物的群里加了个好友。」与她 08-31 掉的那句逐字同场景（§4① 配套动作已满足）
 　　★ 本条备注里"不走零 ❌ 线、仍需连对 3"是 08-19 旧口径；现行 ＝ **连对 2 即毕业**（她 08-20 定）
 - 2026-08-17 ✅ 首次进流 ｜同日原 #82 也 ✅
@@ -132,6 +132,12 @@
   ★ 复测题面够不够用（§4① 配套）：现有题面第二句与今天这句逐字同场景 ⇒ **题面不改**。
   ★ 本条备注原有「不走零 ❌ 线，仍需连对 3」是 08-19 的旧口径；现行规则 ＝ **连对 2 即毕业**（她 08-20 定）。
   ⇒ 🎓 吃到 ❌ ⇒ **撤销毕业、连对清零**（状态行手写，见下）
+- 2026-09-01 ✅ 复习第1组 [7] · 题面 `我在一个网上群里认识他们的。／我在一个养宠物的群里加了个好友。`
+  `I met them **in** an online group. / I added a friend **in** an online pet group.`
+  考点两处介词全对（08-31 掉的正是第二句：`on an online pet group`）。
+  ★ 她自己加的 online（中文第二句没有）不改变任何考位 ⇒ **不判**（同 08-20 先例）。
+  ★ 教练自审留痕：一度想提"online 中文里没有" ⇒ **撤**，属 ⛔ 不必要的改动。
+  ⇒ 连对0 连错1 → **连对1**（回潮后第一次翻正，差一次毕业）
 - 备注 合并 2026-08-19：#82（群组用 in，论坛用 on）并入本条 —— 同一条介词规则
   ★ 不走零 ❌ 线：备注里明写它"改过又犯"过，只是那次发生在事件流之前 ⇒ 按有 ❌ 处理，仍需连对 3
 - 备注 曾"改过又犯"（轮94 改、轮95 又犯）
@@ -206,6 +212,14 @@
     ⇒ §3.4 判据的教科书级实证：低压答得出 ＋ 产出时掉 ⇒ 缺口在**检查动作**，不在知识。
     ⛔ 不因此把它放回复习池（放回去她只会在组里再做对一次）。
   ⇒ 状态行一个字不动
+- 2026-09-01 ⚪ 复习第1组 [8] 句里 · 顺带产出 · 形态类只记录（§3.4②）
+  `**Financial support** for governments **is** vital to economic growth.`
+  主谓一致做对：真主语 financial support（单数）＋ is。
+  ★ 与 08-31 R9 的 `financial support from governments **play** a crucial role` 是
+    **同一个主语、同一个位置**：后面紧挨着 governments（复数）。昨天被 attraction 拽跑，今天没有。
+  ★ 与 08-31 上午 a 段第 2 组 `he **gets** up at 7 and never **runs** late` ✅ 合起来看，
+    形态类的形状是"**低压对、高压掉**"，不是"有时会有时不会"⇒ §3.4 判据继续成立。
+  ★ 按 §3.4②：⚪，不记 ✅／❌、不判档位、不动状态行、不进复习池、不计入真错数。
 - **检查触发**：每写完一个谓语，回头看主语是不是第三人称单数（08-19 她定，同比较级）
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
@@ -337,7 +351,7 @@
 
 ### 18 · 论元完整（中文可单说的动词，英文必须带宾语/补语）
 类型 结构 ｜ 题面 "我找了半天也没找到。" ｜ 旧号 B41
-状态 连对1 连错0 上次2026-08-31 未毕业 ｜ **累错 7** ｜ **回潮 2026-08-29**（08-21 毕业 → 08-29 再犯，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-01 ｜ **累错 7** ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01；08-29 回潮后第二次毕业）
 　　★ 08-30 同日两记：[3] 点名直测 ✅ → [4] 顺带产出 ❌，连对1 当日清零（§3.3 每次各算一次）
 - 2026-08-11 ❌
 - 2026-08-12 ❌
@@ -405,6 +419,15 @@
   ★ 对比 08-29 回潮句 `spans to east`（缺宾语）与 08-30 的 `I searched everywhere`——
     这是回潮以来第一次两个动词的宾语同时补全。coundn't 属拼写，不计错。
   ⇒ 连对1（回潮后第一次对）
+- 2026-09-01 ✅ 复习第1组 [1] · 题面 `我找了半天也没找到。`
+  `I spent forever **looking for it**, but I still could't **find it**.`
+  考点 论元完整：两个宾语同时在位（looking for **it** ／ find **it**）。
+  ★ could't 属拼写（§2.1①），不建条目、不记档位、不计错。
+  ★ 回潮（08-29）以来第四次记录：08-30 [3] ✅ → 08-30 [4] ❌（同日清零）→ 08-31 ✅ → 09-01 ✅
+    ⇒ **第一次连着两天都没掉**。
+  ★ 三次三种说法（searched everywhere ／ looked for it everywhere ／ spent forever looking for it），
+    考位一次没丢 ⇒ 起作用的是规则，不是背下来的那一句。
+  ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 备注 primed 8/8 但 20 分钟后 cold 即掉 ⇒ 产出时掉，修法只有块化
 - ⚠️ **必须和 #134 一起读**（08-19 判重发现两条会互相带偏）：本条说"英文动词必须带宾语"，
   #134 说"decide/choose/help/manage/win 这些能单独站住"。**先查这个动词在不在 #134 的白名单里**，
@@ -451,6 +474,8 @@
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `working from home is more efficient. sales go up by 20%.`（三件全中）
   ⚠️ 同句 `go up` 该是 went up（中文"涨了"）——泛述读法也成立，只提醒不记档位
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `some allow staff to work flexibly or **work from home**.` —— 介词 from 一字不差（本条三件之一）。
 
 ### 25 · It's no use doing sth（做某事没用）
 类型 搭配 ｜ 题面 "罚款对乱扔垃圾没什么用。" ｜ 旧号 B48
@@ -943,6 +968,24 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ★ §3.4 执行自查已跑：同一篇里 `new friends`／`online friends` 两处裸复数都对
     ⇒ 不是不会，是产出时那道检查没跑 ⇒ 确认走 ⚪。
   ⇒ 状态行一个字不动
+- 2026-09-01 ⚪ 新题 P3（bank:490 · What are the rules people should obey at work?）· 第 1 记（同篇共两记）
+  `There are some common rules, like turning up on time, meeting your **deadline**, and getting along
+  with your colleagues.` → meeting your **deadlines**
+  形态类（泛指用复数），按 §3.4② 只记 ⚪：不记 ❌／不判档位／不动状态行／不计入本篇真错数。
+  ★ §3.4 执行自查已跑：**同一篇里她把同一个形态做对过** ——
+    `common rules`／`your colleagues`／`place orders`／`problems` 复数全对，就这一项落单
+    ⇒ 硬规则「有 ⇒ 一律 ⚪，不许记 ❌」。
+  ★ 检查触发：写完一个"泛泛说一类"的可数名词，回头看一眼旁边那几项是不是复数。
+- 2026-09-01 ⚪ 新题 P3（bank:490）· 第 2 记（同篇共两记，§3.3「同一条同一天被产出多次 ⇒ 每次各记一行」）
+  `because the developer released **a** wrong version.` → released **the** wrong version
+  形态类（特指带 the），按 §3.4② 只记 ⚪：不记 ❌／不判档位／不动状态行／不计入本篇真错数。
+  ★ §3.4 执行自查已跑：**同一篇里她把冠词做对过** ——
+    `the developer`／`the team` 特指带 the，`a dress code`／`a new system version`／`a big one`
+    泛指带 a，全对，就这一处落单 ⇒ 硬规则「有 ⇒ 一律 ⚪，不许记 ❌」。
+  ★ 判据：wrong／right 前面几乎永远是 the —— "对的那个"只有一个，"错的那个"是相对它说的：
+    the wrong bus ／ the wrong file ／ the wrong version。
+    ★ 她**用对过的例子就在昨天那篇里**：08-31 R8 [S8] `you have to use it **the right way**` ✅。
+  ★ 检查触发：写完 wrong／right，回头看一眼 —— 前面是 the 吗？
 - 备注 检查触发：写完名词回头问一句"我说的是**这一个**，还是**这一类**？"
   这一类 → 不带 the（可数就用复数）｜ 这一个 → the／my／their
 - 备注 合并 2026-08-19：#160（泛指一类东西用复数不带冠词）＋ #112（traffic 带不带 the）并入本条 ——
@@ -972,6 +1015,9 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-08-16 ✅
 
 - 2026-08-19 ◎ 她答 `I can't cook or bake` 完全合法且更口语 ⇒ 题面的锅，当天加点名
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `users could **neither** log in **nor** place orders` —— nor 用对，且两边都是光动词原形（共用前面的 could）。
+  ★ 08-16 她在自由产出里掉过同一族（`neither of us didn't follow`，原 #124），今天 cold 一次到位。
 ### 66 · （已并入·本条原来的说法是错的）audience 作整体时配单数动词
 → **已并入 #191（2026-08-19）**。理由不是重复，是**本条写错了**：
   "audience 必须配单数"是绝对化的假规则 —— 英式 `the audience laugh` 完全成立，美式偏 `laughs`，
@@ -1150,7 +1196,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 81 · get TO know sb（to 不能省）
 类型 搭配 ｜ 题面 **点名**："现在更容易认识陌生人。"（"认识"用 get ＋ know 说） ｜ 旧号 B129
-状态 连对0 连错1 上次2026-08-31 未毕业 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-01 未毕业 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）
 　　★ 复测题面**不改**：现有题面 **点名**「现在更容易认识陌生人。」（"认识"用 get ＋ know 说）测的正是掉的那一格（§4① 配套动作已满足）
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ❌ `It's much eaiser to know strangers`——漏了 get（know sb ＝ 已经认识的状态；
@@ -1173,6 +1219,20 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ★ 复测题面够不够用（§4① 配套）：现有题面 **点名**「现在更容易认识陌生人。」（"认识"用 get ＋ know 说）
     —— 测的正是今天掉的这一格 ⇒ **题面不改**。
   ⇒ 🎓 吃到 ❌ ⇒ **撤销毕业、连对清零**（状态行手写，见下）
+- 2026-09-01 ✅ 复习第1组 [6] · 点名直测 · 题面 `现在更容易认识陌生人。`
+  `It's much easier to **get to know** strangers.`
+  考点 get **TO** know —— to 在位（08-31 掉的正是这个 to：`know new friends`）。
+  ⚠️ 同句另一处（**不属本条考点，不判 ❌、不新建号**）：漏译"现在" ⇒ 更好版
+    `It's much easier to get to know strangers **these days**.`
+    判据：中文"**现在**更容易"里的"现在"是比较的另一头（＝比以前）；
+    英文 comparative ＋ 没有 than ⇒ 必须有一个时间／范围词兜住（these days／now／
+    compared with ten years ago），否则"比什么"悬着。
+    ★ 不建号：§3.2b 自查说不出"她不会的是哪个词组／句型"（这是漏译一个词，不是缺口）。
+    ★ 另比对 🎓#26（比较题必须说出另一边）：那条 `⛔ 复习组停出`、只在自由产出里判，
+      管的是整段答案里 B 那一边有没有出现，不是句内时间坐标 ⇒ **不适用**，未归号。
+  ★ 组内对调生效验证：本条排在 #8 之前测（见 session 文件留痕），
+    #8 那题她第一句用的是 met 而不是 got to know ⇒ **本次 ✅ 是干净的独立数据点**，未被污染。
+  ⇒ 连对0 连错1 → **连对1**（回潮后第一次翻正，差一次毕业）
 - 备注 判据两条：① 中文"认识（某人）"这个**动作** → get to know ② stranger/new people 只能"变得认识"
 
 ### 82 · （已并入）群组用 in，论坛用 on
@@ -1410,6 +1470,11 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-08-20 ✅ `like hobbies or just being with your kids`（名词 vs 动名词，语法功能相同 ⇒ 同形成立，
   判据与 08-19 一致，没改口）＋ `sweets and biscuits`（数也齐）
   ★ 同句自发命中 🎓#162：`spelt out **in** sweets`（08-17 曾写成 spelt out OF）
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇三处**
+  ① S3 三项全 -ing：`turning up on time, meeting your deadlines, and getting along with your colleagues`
+  ② S5 neither 两边同形：`neither log in nor place orders`（都是光动词原形）
+  ③ S6 两项同形：`doing your share and not causing problems for the team`
+  ★ 一篇 98 词里三处并列全部同形，且最难的 S3 三项没打折。
 - 备注 自测法：把两边分别接回前面那个词念一遍
 - 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
   题面保留两句，一句测"功能相同"、一句测"数要齐"
@@ -1731,6 +1796,9 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
     **08-21 那次改判 ✅**；状态按日志重放 ⇒ 08-20 ✅(1) → 08-21 ✅(2) **连对2，毕业日期回填 2026-08-21**
     → 08-23 ✅(3)
   ★ 唯一的硬错仍然是 **staffs** —— 三次她都没犯
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `some allow **staff** to work flexibly or work from home.` —— staff 没加 s。
+  ★ 本条 08-20／08-21／08-23 连测三次（中间还有一次教练误判撤销）才稳住，今天在**自由产出**里一次到位。
 ### 130 · can 才是默认，be able to 是备用（只在完成时/不定式/情态后才必须换）
 类型 语法 ｜ 题面 **点名**："我不会开车；我从来没能早起过。"（两句都说，第二句用现在完成时说） ｜ 旧号 B217
 状态 连对2 连错0 上次2026-08-21 ｜ **累错 4** ｜ **🎓 已毕业 2026-08-21**
@@ -2640,6 +2708,14 @@ mirror … regarding orderliness and planning → pick up … how tidy they are,
     ③ 完事，⛔ 不再提请她裁决。
   ★ 教练自审留痕：第一反应是"这词组挺好、考官吃这套，不该判"，靠 grep 撞上本条的检查触发才纠回来。
   ★ 连续五篇走向：08-27 命中1 → 08-29 命中3 → 08-30 命中1 → 08-31 R8 命中0（反向1）→ **R9 命中1**。
+- 2026-09-01 📝 新题 P3（bank:490）· **书面登记扫描：本篇零命中**（🎓 状态行冻结，机器契约⑦；她 08-30 定的选项 B）
+  逐词核过本族全部成员：Additionally／Furthermore／Moreover · In today's fast-paced world ·
+  hold special significance · offer great convenience · primary ⇒ **一个都没出现**。
+  ★ 反向证据（全篇口语 register）：`it depends on`／`turning up on time`／`a big one`／
+    `one careless mistake`／`real trouble`／`doing your share`／`not causing problems for the team`。
+  ★ 连续六篇走向：08-27 命中1 → 08-29 命中3 → 08-30 命中1 → 08-31 R8 命中0（反向1）
+    → 08-31 R9 命中1 → **09-01 命中0**。
+  ★ 固定三步走完（⛔ 不多不少）：① 零命中、无口语版可给 ② 本行 📝、状态行不动 ③ 完事，不提请裁决。
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -2741,6 +2817,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-10 ✅
 - 2026-08-13 ✅
 - 2026-08-15 ✅
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `because the developer **released** a wrong version.` —— "上线/发版"这个动作的动词选对。
+  ★ 同句里另有 ❌（`login in`，新建 #316）与 ⚪（`a wrong` → `the wrong`，归本档 #63），
+    三处各归各号（§3.3 标记打在条目上，不打在整句上）。
 
 ### 214 · 完成进行时 ＝ have been ＋ -ing
 类型 语法 ｜ 题面 "我在这家公司干了五年了。" ｜ 旧号 B151
@@ -3128,6 +3208,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   ⚠️ **证据强度如实标注**：这句是**同日 a 段第 2 组（#89 的题面）刚测过的原句复用**，
     不是独立的自发命中。★ 仍照记（§3.3「每一次各记一行、各算一次」），只是在此写明它的成色。
   ★ 纵向：08-19 她在这一处写的是 `start-ups are **virtual** to the economy`（本条首犯）。
+- 2026-09-01 📝 复习第1组 [8] 句里 · 自发命中留痕（🎓 冻结，机器契约⑦：只留痕、不推进数字）
+  `Financial support for governments is **vital** to economic growth.`
+  ★ 连续第二天自发用对（08-31 R9 `Start-ups are **vital** to a diverse economy`）。
+  ★ 状态行一个字不动。
 - 备注 判据：vital ＝ crucial／essential（至关重要）｜ virtual ＝ 虚拟的（virtual reality／a virtual meeting）
 - 备注 判重（当天新建复核）：grep vital／virtual／crucial → 命中 #83（形容词不加复数；crucial TO）——
   #83 管**形态和介词**，本条管**选哪个词**，规则不同 ⇒ 保留；#83 题面不含"关键"以外的干扰，不撞车
@@ -5202,7 +5286,8 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
 
 ### 310 · all the way ＋ 方向／终点（"一路…"／"大老远…"）
 类型 词组 ｜ 题面 **点名**："他一路走回家的。" ／ "他大老远从北京跑过来。"（两句都用 **all the way** 说） ｜ 新建 2026-08-30（**她当场指定**）
-状态 连对1 连错0 上次2026-08-31 未毕业
+状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）
+　　★ 09-01 那次同句里的 `ran → came` 是**本条考点之外**的动词选择（⚠️ 不判 ❌、未新建号），不影响毕业
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 复习第1组 [4] 的更好版里教练给了
   `This river **runs all the way east** and eventually empties into the East China Sea`，
   她当场说："run all the way，这个 **all the way** 或者 **its way** 我不太主动会用，也建一个条目吧"
@@ -5225,6 +5310,16 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
     顺序 ＝ 先 ❌（顺带产出）后 ✅（点名直测）⇒ 重放结果 连对1 连错0。
   ★ 她 08-30 的裁决口径："没有什么自由或者不自由产出，只有产出你就认" ⇒ 两记都认，不分档不加权。
   建号后首次点名直测即中。
+- 2026-09-01 ✅ 复习第1组 [2] · 点名直测 · 题面 `他一路走回家的。／他大老远从北京跑过来。`
+  `he walked **all the way home**. / he ran **all the way from** Beijing.`
+  考点两句全中：all the way ＋ 方向副词（home）｜ all the way ＋ from ＋ 地点。
+  ⚠️ 第二句动词选错方向（**不属本条考点，不判 ❌、不新建号**）：`ran` → `came`。
+    中文"跑过来"这里不是真的跑，是"大老远来一趟"（跑＝奔波）；
+    英文 `ran all the way from Beijing` 只有一个读法 —— 他真的一路跑步过来。
+    ★ 不建号的三条理由：① 正确形式 `She came all the way from Beijing.` 逐字写在本条 08-30 判据块里；
+      ② 她 08-31 在**同一个题面**上写的正是 `he came all the way from Beijing` ✅ ⇒ 不是"不会"；
+      ③ §3.2b 自查：说不出"她不会的是哪个词组／句型" ⇒ 不建条目，diff-2 给更好版即可。
+  ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 备注 判据：
 ```
 all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在动词或方向短语的前面。
@@ -5263,7 +5358,7 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
 
 ### 311 · 动词 ＋ its／his／my way ＋ 方向（"一路…着过去"）
 类型 结构 ｜ 题面 **点名**："那条河一路穿过市区流过去。"（用 "**动词 ＋ its way**" 这个结构说） ｜ 新建 2026-08-30（**她当场指定**）
-状态 连对1 连错0 上次2026-08-31 未毕业
+状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 与 #310 同一句话触发（"这个 all the way
   或者 **its way** 我不太主动会用"）
   ★ 同 #310：她**没有产出过错句**，本条是"教练给的更好版本"进池，新建行记 📝、不记档位
@@ -5275,6 +5370,14 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
     同批 [4b] `her friends` 所有格限定词用对 ⇒ 不是形态缺口。
   ★ 更好版给了 `winds its way`（本结构的动词负责"怎么走"，不负责"走"本身）——属 ⚠️，不影响档位。
   建号后首测即中。
+- 2026-09-01 ✅ 复习第1组 [4] · 点名直测 · 题面 `那条河一路穿过市区流过去。`
+  `That river **winds its way** through the city.`
+  考点 动词 ＋ its way ＋ 方向短语。
+  ★ 与 08-31 的 `that river runs **it** way through the city` 相比两处都进步：
+    ① its 修好（08-31 写成 it）② 动词自己换成 winds。
+    `wind one's way` 正是英语给河／路／小径配的那个动词（蜿蜒着走），比 run 更贴 ——
+    **不是教练教过的，是她自己换上去的**。
+  ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 备注 判据：
 ```
 形状 ＝ **动词 ＋ one's way ＋ 方向短语**。way 是个**虚宾语**（不指真的路），
@@ -5312,7 +5415,7 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
 
 ### 312 · search for sth（search 找"东西"必须带 for）
 类型 搭配 ｜ 题面 **点名**："他在网上找一份兼职找了好几个星期。"（"找"用 **search** 说） ｜ 新建 2026-08-30
-状态 连对1 连错0 上次2026-08-31 未毕业
+状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）
 - 2026-08-30 ❌ 首犯 · 新题 P3（What technology do young people like to use?）·
   `People can **search information** they want, order takeaway and even call a ride on their phones.`
   → search **for** information they want
@@ -5324,6 +5427,14 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
   考点 search **for** ＋ 东西：介词在、宾语在 —— 08-30 首犯 `search information`，隔一天拿回。
   顺带全对两处：has been searching（"找了好几个星期"还在找）· online 的位置。
   ⇒ 连对1
+- 2026-09-01 ✅ 复习第1组 [3] · 点名直测 · 题面 `他在网上找一份兼职找了好几个星期。`
+  `He has been **searching** online **for** a part-time job for several weeks.`
+  考点 search **for** sth —— for 在位。
+  ★ 与 08-31 的 `he's been searching online for a part-time job for weeks` 相比考位一字未动，
+    是稳定的第二次（只多了 several）。
+  ★ 教练自审留痕：一度想把语序改成 `searching for a part-time job online` ⇒ **撤**，
+    两种语序母语者都说，属 ⛔ 教练不必要的改动。
+  ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 备注 判据：
 ```
 search ＋ 宾语      ＝ **把某个地方／某个库翻一遍**（宾语是"被搜的范围"）
@@ -5357,7 +5468,7 @@ search **for** ＋ 宾语 ＝ **找某个东西**（宾语是"你要的那个东
 
 ### 313 · message sb（发消息给某人，后面直接跟人）
 类型 词组 ｜ 题面 **点名**："我等下发消息给你。" ／ "她整个下午都在跟朋友发消息。"（两句的"发消息"都用 **message** 当**动词**说） ｜ 新建 2026-08-30（**她当场指定**）
-状态 连对1 连错0 上次2026-08-31 未毕业
+状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 新题 P3 里 ·
   `… scrolling through short videos or just **messaging with others**.` → messaging **their friends**
   ★ **为什么新建行不记 ❌**（四问④档位）：`messaging with others` 在口语里不是明确的错
@@ -5370,6 +5481,13 @@ search **for** ＋ 宾语 ＝ **找某个东西**（宾语是"你要的那个东
   `I'll message you later.` ／ `she **messaged her friends** all afternoon.`
   第二句是本条真正的考位（中文"**跟**朋友发消息"最易直译成 message **with**）——
   她没有写 with，动词后直接跟人 ⇒ 一字不差命中。建号后首测即中。
+- 2026-09-01 ✅ 复习第1组 [5] · 点名直测 · 题面 `我等下发消息给你。／她整个下午都在跟朋友发消息。`
+  `I'll **message you** later. / she's been **messaging her friends** all afternoon.`
+  考点两句全中：message 后面直接跟人，无 to／with。
+  ★ 时态留痕：08-31 写 `she messaged her friends all afternoon`（一般过去），今天写完成进行。
+    中文"整个下午都在"两种读法都合法（下午未完 ⇒ 完成进行；下午已过 ⇒ 一般过去），
+    句内自洽 ⇒ **不判**，只记差异。
+  ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 备注 判据：
 ```
 message 当**动词**时，**后面直接跟人**，不加 to／with：
@@ -5407,11 +5525,19 @@ message 当**动词**时，**后面直接跟人**，不加 to／with：
 
 ### 314 · economic（经济的）≠ economical（省钱的）
 类型 词汇 ｜ 题面 **点名**："政府的资金支持对经济增长很关键。"（"经济增长"那个形容词用 econom- 开头的词说） ｜ 新建 2026-08-31
-状态 连对0 连错1 上次2026-08-31 未毕业
+状态 连对1 连错0 上次2026-09-01 未毕业
 - 2026-08-31 ❌ 首犯 · 付息日 d 段重答 R9（P3 · Should governments provide financial support to start-ups?）·
   `So financial support from governments play a crucial role in **economical growth**.`
   ★ 判为**选词**不是拼写（§2.1④）：调出来的是**另一个词**，不是同一个词写歪。
   ★ 反证她不是不会 economy：**同一篇** S2 的 `a diverse economy` 用对 ⇒ 缺的只是**形容词那一格**。
+- 2026-09-01 ✅ 复习第1组 [8] · 点名直测 · 题面 `政府的资金支持对经济增长很关键。`
+  `Financial support for governments is vital to **economic** growth.`
+  考点 **economic**（08-31 首犯写的是 `economical`，今天调对了）。
+  ★ 新建（08-31）后首次点名直测即中；按 §3.1「新建当天不测、次日起进池」正好到期。
+  ★ 同句另有两处，**标记打在条目上不打在整句上**（§3.3），各自归各自的号：
+    ① `support **for** governments` ⇒ 意思反了 ⇒ **新建 #315**（见该条）
+    ② `Financial support ... **is** vital` ⇒ 主谓一致做对 ⇒ #10 形态类，只记 ⚪
+  ⇒ 连对0 连错1 → **连对1**（差一次毕业）
 - 备注 判据：
 ```
 economic   ＝ 经济（方面）的 → economic growth ／ economic policy ／ economic crisis ／
@@ -5439,6 +5565,124 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
    **决定性证据**：按 #255 的规则去改 `economical growth`，它只管 vital／virtual 这一对，
    **给不出 economic** ⇒ 不是同一条规则 ⇒ 新建
 ④ 另比对 #89（加形容词回到 a）：那条管**冠词**，本条管**选哪个形容词** ⇒ 不同层
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 315 · support FROM sb（谁给的）≠ support FOR sb（给谁的）
+类型 搭配 ｜ 题面 **点名**："这些小公司很需要政府的资金支持。" ／ "政府对小企业的支持还不够。"（两句的"支持"都用**名词 support ＋ 介词**说） ｜ 新建 2026-09-01
+状态 连对0 连错1 上次2026-09-01 未毕业
+- 2026-09-01 ❌ 首犯 · 复习第1组 [8] 句里（题面 `政府的资金支持对经济增长很关键。`）·
+  `**Financial support for governments** is vital to economic growth.`
+  → Financial support **from** governments is vital to economic growth.
+  ❌ 意思反了：她这句英文读出来是"**给**政府的资金支持"（比如国际援助给政府），
+     中文说的是"政府**出**的资金支持"。
+  ★ 同句另外两处各归各号（§3.3 标记打在条目上，不打在整句上）：
+    `economic growth` ✅ 归 #314（本条不沾）｜ `support ... **is**` 主谓一致做对 ⇒ #10 记 ⚪
+- 备注 判据：
+```
+support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
+  support **from** ＋ 出钱/出力的一方
+      financial support **from** the government ／ support **from** my family ／
+      funding **from** investors ／ help **from** a colleague
+  support **for** ＋ 受益的一方
+      support **for** start-ups ／ support **for** small businesses ／
+      support **for** the new policy ／ there's a lot of support **for** this idea
+★ 中文陷阱（本条的真考点）：中文一个"的"，英文两种角色 ——
+    「政府**的**资金支持」　＝ 政府出钱 ⇒ **出资方** ⇒ from
+    「对小企业**的**支持」　＝ 小企业收钱 ⇒ **受益方** ⇒ for
+  ⇒ 中文的"的"不带角色信息，英文必须自己判：**先问"谁出的钱"**，再挑介词。
+★ 最省事的绕开法：把出资方直接当定语放到前面 ——
+  **government funding** ／ **government support**（名词当形容词用，介词就不用挑了）
+★ 检查触发：写完 support／help／funding 这一族名词，问一句 ——
+  **我说的是"谁给的"还是"给谁的"？** 前者 from，后者 for。
+```
+- 备注 **本条的诊断价值（反向证据，与她平时的形状相反）**：
+```
+她 08-31 在 R9 **cold 自由产出**里自己写的是 `financial support **from** governments` ✅
+—— support from 她本来就会。今天走**中译英**这条路反而掉了。
+⇒ 缺口不在 support 这个词上，在"**从中文的'的'反推英文介词**"这一步：
+  中文的"的"默认被翻成 of／for，语义角色那一步被跳过了。
+⇒ 她平时的形状是"点名对、自由产出掉"（retrieval-under-pressure）；
+  **本条正好反过来** ⇒ 只有中译英题面测得到它，自由产出测不出来。
+  ⛔ 因此本条不许靠"自由产出自发命中"毕业，必须点名直测。
+```
+- 判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `support from sb` ／ `support for sb`
+② 全档 grep（**范围含已毕业**）：
+   `grep "^### .*support"` ⇒ **零命中**
+   `grep "support from\|support for\|financial support"` ⇒ 只命中她自己的日志行
+     （#10 · 🎓#206 · #314），**一条条目都没有**
+   `grep "^### .*介词\|^### .*from\b"` ⇒ #62 #103 #127 #158 #170 #193 #242 #243 #266 #273 #274 #300 #308
+     逐条读过，无一管 support 的介词语义角色
+③ 三条最接近的，逐条排除：
+   · #314（同一句里的另一处）——管**形容词 economic／economical**。
+     **决定性证据**：按 #314 的规则去改她这句，只改得出 economical→economic，
+     **给不出 for→from** ⇒ 不同考点。
+   · #243（形容词 ＋ 固定介词整块记：familiar WITH／interested IN）——那条是**形容词带死一个介词**；
+     本条是**同一个名词的两个介词各管一个语义角色、两个都对**。
+     **决定性证据**：按 #243 的规则去改（"support 后面固定跟某个介词"）**得不到答案**，
+     因为 support from 与 support for 都是标准搭配，选哪个取决于谁出钱 ⇒ 不同层。
+   · 🎓#200（think FOR oneself ≠ by oneself）——形状最像（一个词两个介词两个意思），
+     但 §3.2 写死「搭配按**具体的词**一条一号」⇒ 另立。
+④ **题面互斥**（§3.1③ 硬要求）：
+   #314 的题面点名"经济增长那个形容词"；本条题面里**根本不出现"经济增长"**，
+   两句换成小公司/小企业的资金支持 ⇒ 两条题面不撞车，日后同组也不冲突。
+⑤ 出题口径：**两句都出**（一句测 from、一句测 for），⛔ 不许只出一句 ——
+   只出 from 那一句，她永远测不到"什么时候该用 for"。
+   ★ 这不是 §3.2c 的"合并条"（成员只有一个词 support），是**一条规则的两个方向**。
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 316 · log in（动词，两个词）≠ login（名词，一个词）
+类型 词汇 ｜ 题面 **点名**："账号被锁了，我登不进去。" ／ "登录页面加载很慢。"（第一句的"登录"当**动作**说，第二句的"登录"当**东西**说） ｜ 新建 2026-09-01
+状态 连对0 连错1 上次2026-09-01 未毕业
+- 2026-09-01 ❌ 首犯 · 新题 P3（question_bank.md:490 · What are the rules people should obey at work?）·
+  `I remember one time users could neither **login in** nor place orders because the developer released a wrong version.`
+  → users could neither **log in** nor place orders
+  ❌ 把名词 login 整块当成了动词，然后又补了一个 in。英语里没有 `login in` 这个形式。
+  ★ 同句里另外两处各归各号（§3.3 标记打在条目上，不打在整句上）：
+    `released` ✅ 是 🎓#213 的自发命中 ｜ `a wrong version` → `the wrong version` 归 #63 记 ⚪
+  ★ 同句 `neither … nor` 用对 ＝ 🎓#65 的自发命中 ⇒ **她的问题只在 log in 这一个块上**。
+- 备注 判据：
+```
+动词 ＝ **log in**（分开写两个词）
+   I can't **log in**. ／ **log into** your account ／ **log out** when you leave ／
+   Have you **logged in** yet?
+名词/形容词 ＝ **login**（连着写一个词）
+   your **login** details ／ the **login** page ／ click the **login** button ／ I forgot my **login**.
+⛔ `login in` 不存在 —— 那是把名词当动词用了，然后又补了一个 in。
+★ 同族一起记（**动词分开写、名词连着写**，这一族在她的工作场景里高频）：
+   log in ／ a login          set up  ／ a setup
+   back up ／ a backup        check in ／ a check-in
+   sign up ／ a signup        roll out ／ a rollout
+★ 检查触发：写完 login／setup／backup 这一族，问一句 ——
+  **我这里要的是"动作"还是"东西"？动作 ⇒ 分开写两个词。**
+```
+- 备注 **出题口径（两句，一句测动词一句测名词，⛔ 不许只出一句）**：
+  只出动词那一句，她永远测不到"什么时候该连着写"；只出名词那一句，考位根本没碰到。
+  ★ 这不是 §3.2c 的"合并条"（成员只有 log in 这一个词），是**一个词的两种词类**。
+- 判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `log in`（动词分写）／ `login`（名词连写）
+② 全档 grep（**范围含已毕业**）：
+   `grep "log in\|login\|log on" problems.md methods.md` ⇒ **零命中**
+③ 三条最接近的，逐条排除：
+   · 🎓#62（drive past sth：past 是介词，pass 是动词）——**形状最像**：
+     同一串字母的两种词类被混用。
+     **决定性证据**：按 #62 的规则去改她这句，它只管 past／pass 这一对，**给不出 log in**
+     ⇒ 不同条（§3.2「词汇/搭配按具体的词一条一号」）。
+   · 🎓#213（功能上线 ＝ go live／be released）——同属她的工作场景词，
+     管的是"上线"这个动作用哪个动词，不管 log in 的分写 ⇒ 无关。
+     ★ 而且今天她 `released` 用对，正是 #213 的自发命中，两条不冲突、不重叠。
+   · #56／#63（形态类）——那两条管单复数与冠词；本条管**词类**（名词 vs 动词短语）。
+     §3.4 的形态类清单是「主谓一致·时态标记·单复数/限定词·冠词/指称·比较级·否定标记·
+     不规则动词变形」——**里面没有"词类"** ⇒ 本条照常记 ❌，⛔ 不走 ⚪。
+④ 是不是拼写（§2.1 不算错）？**不是。**
+   §2.1④ 的判据是"她脑子里调的词对不对"——她调出来的是屏幕上看惯的**名词 login**，
+   再补了个 in ⇒ 属「选词（调出另一个词）」，照常算。
+   ★ 反证：真拼写错长成 `logn in`／`log inn` 那样；**多余的那个 in**
+     说明她把 login 整块当动词了，不是手指打歪。
 ```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
