@@ -64,6 +64,21 @@ STRICT_FROM = "2026-08-24"
 
 FAMILIES = [f"F{i:02d}" for i in range(1, 19) if i not in (13, 16)]
 
+# ── 题型（SKILL §3.1 契约②第 7 格）─────────────────────────────────────────
+#   「这条【怎么被行使】」，互斥三选一。⛔ 与 §3.1 契约⑫ 的「类型」不是一回事：
+#   那些全是派生的，这一格是档案里**唯一存下来的**出题方式。
+ASK_SENTENCE = "整句"      # 中译英整句单点题 —— 默认，状态行不写这一格就是它
+ASK_PHRASE   = "词组"      # 中译英词组题，一题可打包多个（§3.1 契约⑬）
+ASK_ESSAY    = "作文验"    # 不出单点题，判作文时对着扫（§6）
+ASKS = (ASK_SENTENCE, ASK_PHRASE, ASK_ESSAY)
+# ASK_FROM：题型格生效日。这天**起**新建的条目，状态行必须自己写出题型；
+#           更早的条目不写 ＝ 整句（存量默认，脚本只提示不报错）。
+ASK_FROM = "2026-09-02"
+# 定义上就是**句子层**的族 ⇒ ⛔ 不许标「词组」。
+#   动词的形态与论元（F01 F09）· 数的一致（F04）· 句法（F07）· 丢层（F10）·
+#   篇章任务层（F12）· 整句仿写（F17 F18）—— 这些只在句子里才失守，词组题测不到。
+NO_PHRASE_FAMS = {"F01", "F04", "F07", "F09", "F10", "F12", "F17", "F18"}
+
 # ── 符号文法（SKILL §3.2）────────────────────────────────────────────────
 #   判定符号：推进 streak
 JUDGE = {
@@ -133,6 +148,7 @@ class Entry:
         self.ok = self.bad = self.goal = None
         self.last = None
         self.fam = None
+        self.ask = None           # 状态行第 7 格「题型」原文；None ＝ 没写这一格
         self.fam_section = None   # 所在族分段
         self.review_mark = False
         self.sections = {}
@@ -170,10 +186,27 @@ class Entry:
         return "待补" in self.trigger or not self.trigger
 
     @property
-    def essay_only(self):
-        """条目自己声明「挂作文验，不出单点题」⇒ 不进复习组，只在判作文时对着扫。
-        锚点写死成「不出单点题」五个字（SKILL §6）。"""
+    def ask_kind(self):
+        """题型。状态行没写这一格 ⇒ 整句（SKILL §3.1 契约②）。"""
+        return self.ask or ASK_SENTENCE
+
+    @property
+    def is_phrase(self):
+        """词组题：中译英词组翻译，一题可打包多个（§3.1 契约⑬）。"""
+        return self.ask_kind == ASK_PHRASE
+
+    @property
+    def essay_prose(self):
+        """中文触发点里那句「⛔ 挂作文验，不出单点题（日期）—— 理由」。
+        2026-09-02 起它只是**给人看的理由**，机器真源是状态行的「题型 作文验」。"""
         return "不出单点题" in self.trigger
+
+    @property
+    def essay_only(self):
+        """挂作文验 ⇒ 不进复习组，只在判作文时对着扫。
+        真源 ＝ 状态行「题型 作文验」；**过渡期同时认**中文触发点里的「不出单点题」
+        五个字（存量 45 条还没回标，check 会把没回标的列成存量提示）。"""
+        return self.ask_kind == ASK_ESSAY or self.essay_prose
 
     @property
     def rule_line(self):
@@ -324,7 +357,7 @@ def parse_file(path, src):
             fields = [norm(x) for x in m.group(1).split("｜")]
             cur.state = fields[0].strip() if fields else ""
             for f in fields[1:]:
-                mm = re.match(r"(连对|连错|毕业线|上次|族)\s*(.*)", f)
+                mm = re.match(r"(连对|连错|毕业线|上次|族|题型)\s*(.*)", f)
                 if not mm:
                     continue
                 k, v = mm.group(1), mm.group(2).strip()
@@ -338,6 +371,8 @@ def parse_file(path, src):
                     cur.last = v
                 elif k == "族":
                     cur.fam = v
+                elif k == "题型":
+                    cur.ask = v
             continue
 
         if "⚠️🔍" in raw and "REVIEW" in raw and not in_hist:
@@ -575,13 +610,18 @@ def cmd_pick(args):
         print("  （log.md 里今天还没有行 —— 收尾时记得补，§4⑥）")
     shown = groups if not args.groups else groups[:args.groups]
     if essay:
-        print(f"  ⛔ 另有 {len(essay)} 条**挂作文验**，条目自己写着「不出单点题」⇒ 不进复习组：")
+        print(f"  ⛔ 另有 {len(essay)} 条**挂作文验**（题型 ＝ 作文验，或触发点写着"
+              f"「不出单点题」）⇒ 不进复习组：")
         print("     " + " ".join(e.num for e, _ in essay))
         print("     ⇒ 判作文时对着这几条扫全文（§4⑤d），⛔ 不要拿它们出中译英")
     print(f"  候选池 {len(cand)} 条（已排除本日已用 {len(used_ids)} 条"
           + (f"、挂作文验 {len(essay)} 条" if essay else "") + "）"
           f" ⇒ 分 {len(groups)} 组，每组 ≤ {args.size}"
           + (f"　（本次只打前 {len(shown)} 组）" if len(shown) < len(groups) else ""))
+    n_phrase = sum(1 for e, _ in cand if e.is_phrase)
+    if n_phrase:
+        print(f"  ★ 候选里有 **{n_phrase} 条词组型** —— 混在组里照常发牌（组的大小不因此调整），"
+              f"出题时可把同组的几条并成一道词组题（§6）")
     print(f"  ★ 计划按日期定种，今天重跑这条命令得到的分组**完全一样**（compact 后可放心重跑）")
     if not args.full:
         print(f"  ★ 卡片是精简版；要看历史留痕/全部旧触发点/成员账全文 ⇒ 加 --full，"
@@ -591,11 +631,15 @@ def cmd_pick(args):
     def card(e, why, tag):
         star = " ⚠️🔍REVIEW" if e.review_mark else ""
         created_today = e.created_on() == today
-        hint = ("⛔零提示" if (e.ok or 0) >= 1
+        hint = ("⛔零提示（词组题给词 ＝ 给答案）" if e.is_phrase
+                else "⛔零提示" if (e.ok or 0) >= 1
                 else "★给英文词（连对 0／建号当天／刚降级）")
         print(f"{tag} {e.num}  {e.fam}  {e.ok}/{e.bad}  上次 {(e.last or '—')[5:]}"
               f"  ←{why}{star}{'  ←本条今天建的号' if created_today else ''}")
         print(f"     考点 {e.title}")
+        if e.is_phrase:
+            print("     题型 **词组** —— 中译英词组题：中文块 → 英文块，⛔ 不出整句、⛔ 零提示")
+            print("          本组别的词组条目可以并进同一道题（§6 词组题）")
         print(f"     提示 {hint}")
         tp = [l.strip() for l in e.trigger.splitlines() if l.strip()]
         if e.trigger_todo:
@@ -885,8 +929,12 @@ TYPES = [
     ("grad",       "🎓 毕业",      "状态行第 1 格 ＝ 🎓",                          lambda e: e.graduated),
     ("retired",    "退池",        "状态行第 1 格 ＝ 退池",                        lambda e: e.state == "退池"),
     ("merged",     "并入",        "状态行第 1 格 ＝ 并入 #NNNN",                  lambda e: bool(e.state) and e.state.startswith("并入")),
-    ("essay",      "挂作文验",     "**中文触发点**里有「不出单点题」五个字（§6）",    lambda e: e.essay_only),
+    ("essay",      "挂作文验",     "题型 ＝ 作文验，**或**触发点里有「不出单点题」（过渡期并集）", lambda e: e.essay_only),
     ("essay-bad",  "挂作文验·写歪", "「不出单点题」写在正文别处 ⇒ pick 认不到",      _essay_only_body),
+    ("ask-sentence", "题型·整句",   "状态行「题型」＝ 整句（**不写这一格就是它**）",   lambda e: e.ask_kind == ASK_SENTENCE),
+    ("ask-phrase",   "题型·词组",   "状态行「题型」＝ 词组（§3.1 契约⑬）",           lambda e: e.ask_kind == ASK_PHRASE),
+    ("ask-essay",    "题型·作文验",  "状态行「题型」＝ 作文验（机器真源）",            lambda e: e.ask_kind == ASK_ESSAY),
+    ("ask-todo",     "题型·待回标",  "触发点写着「不出单点题」、状态行还没标 作文验",   lambda e: e.essay_prose and e.ask_kind != ASK_ESSAY),
     ("pickable",   "可出题",      "在池 ＋ 非挂作文验 ＋ 题面不待补",               lambda e: e.in_pool and not e.essay_only and not e.trigger_todo),
     ("trigger-todo", "题面待补",   "在池 ＋ 中文触发点为空或含「待补」",             lambda e: e.in_pool and e.trigger_todo),
     ("review",     "REVIEW 池",   "状态行下有 `⚠️🔍 **REVIEW 池**`（§3.3）",       lambda e: e.review_mark),
@@ -989,6 +1037,8 @@ def cmd_stats(args):
     todo = [e for e in ents if e.in_pool and e.trigger_todo]
     review = [e for e in ents if e.review_mark]
     grad_in_problems = [e for e in grad if e.src == "problems.md"]
+    ask_todo = [e for e in ents if e.essay_prose and e.ask_kind != ASK_ESSAY
+                and e.state in ("在池", "🎓")]
     relapsed_in_grad = [e for e in ents if e.src == "graduated.md" and e.state != "🎓"]
 
     print("═" * 74)
@@ -1028,6 +1078,18 @@ def cmd_stats(args):
         print(f"在池 · 连对 ≥2  {len(okx)} 条 ⚠️ 到线未毕业，按 §3.3 该改 🎓")
         print(fmt_ids([e.num for e in okx]))
     print(f"题面待补        {len(todo)} 条（口径＝在池 ＋ 中文触发点标「待补」）")
+    print()
+    print("题型（§3.1 契约②第 7 格 · 状态行不写这一格 ＝ 整句）")
+    for a in ASKS:
+        n_all = sum(1 for e in ents if e.ask_kind == a)
+        n_pool = sum(1 for e in in_pool if e.ask_kind == a)
+        expl = sum(1 for e in ents if e.ask == a)
+        print(f"  {a:<4}  全档 {n_all:>3} 条 ｜ 在池 {n_pool:>3} 条"
+              f"　（其中状态行显式写出的 {expl} 条）")
+    if ask_todo:
+        print(f"  ⏸ **{len(ask_todo)} 条待回标**：触发点写着「不出单点题」、状态行还没写"
+              f"`｜ 题型 作文验`")
+        print(fmt_ids([e.num for e in ask_todo]))
     if not args.brief:
         print(fmt_ids([e.num for e in todo]))
     print()
@@ -1126,6 +1188,37 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", f"族「{e.fam}」不在 F01–F18（F13/F16 不存在）"))
     elif e.fam_section and e.fam_section != e.fam:
         P.append(("ERROR", f"条目在 {e.fam_section} 分段里，状态行却写 {e.fam}"))
+
+    # ── 题型（契约②第 7 格 ＋ 契约⑬）──────────────────────────────────
+    created = e.created_on()
+    if e.ask is not None and e.ask not in ASKS:
+        P.append(("ERROR",
+                  f"题型「{e.ask}」非法 —— 只许 {' ／ '.join(ASKS)}（§3.1 契约②）"))
+    elif e.ask is None and created and created >= ASK_FROM:
+        P.append(("ERROR",
+                  f"状态行缺「题型」格 —— {ASK_FROM} 起新建的条目必须自己写出题型"
+                  f"（§3.1 契约② · 判型走 §3.5 第 2.5 步）"))
+    if e.ask_kind == ASK_PHRASE:
+        if e.members:
+            P.append(("ERROR",
+                      "挂着「成员出题账」的是**词表型**，考的是挑得对不对 ⇒ ⛔ 不许标词组，"
+                      "走整句（§3.5 第3.5步）"))
+        if e.fam in NO_PHRASE_FAMS:
+            P.append(("ERROR",
+                      f"族 {e.fam} 是句子层的族（动词形态论元／数／句法／丢层／篇章／整句仿写）"
+                      f"⇒ ⛔ 不许标词组（§3.1 契约⑬）"))
+        if "。" in e.trigger:
+            P.append(("WARN",
+                      "题型是词组，中文触发点里却有句号 —— 词组题的题面是**块**不是句"))
+    if e.ask_kind == ASK_ESSAY and not e.essay_prose:
+        P.append(("WARN",
+                  "题型标了作文验，中文触发点里没有那句理由行 —— "
+                  "补上 `⛔ **挂作文验，不出单点题**（YYYY-MM-DD 定）—— <理由>`（§6）"))
+    if e.essay_prose and e.ask_kind != ASK_ESSAY:
+        hard_ask = bool(created) and created >= ASK_FROM
+        P.append((("ERROR" if hard_ask else "INFO"),
+                  f"中文触发点写着「不出单点题」，状态行题型却是「{e.ask_kind}」"
+                  f" —— 回标成 `｜ 题型 作文验`（存量待回标，§6）"))
     for s in SECTIONS:
         if s not in e.sections:
             P.append(("ERROR", f"缺「{s}」节"))
