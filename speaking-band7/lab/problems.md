@@ -111,7 +111,7 @@
 
 ### 8 · 群组用 in，论坛用 on（in an online group／on a forum）
 类型 搭配 ｜ 题面 "我在一个网上群里认识他们的。" ／ "我在一个养宠物的群里加了个好友。" ｜ 旧号 B20＋B130
-状态 连对1 连错0 上次2026-09-01 未毕业 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-03 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）
 　　★ 复测题面**不改**：现有题面第二句「我在一个养宠物的群里加了个好友。」与她 08-31 掉的那句逐字同场景（§4① 配套动作已满足）
 　　★ 本条备注里"不走零 ❌ 线、仍需连对 3"是 08-19 旧口径；现行 ＝ **连对 2 即毕业**（她 08-20 定）
 - 2026-08-17 ✅ 首次进流 ｜同日原 #82 也 ✅
@@ -138,6 +138,13 @@
   ★ 她自己加的 online（中文第二句没有）不改变任何考位 ⇒ **不判**（同 08-20 先例）。
   ★ 教练自审留痕：一度想提"online 中文里没有" ⇒ **撤**，属 ⛔ 不必要的改动。
   ⇒ 连对0 连错1 → **连对1**（回潮后第一次翻正，差一次毕业）
+- 2026-09-03 ✅ 复习第1组 [3] · 题面 `我在一个网上群里认识他们的。／我在一个养宠物的群里加了个好友。`
+  `I met them **in** an online group.` ／ `I added a friend **in** a pet group.`
+  **考点两句都用 in**（群组用 in，论坛才用 on）—— 两句介词一致，冠词 an／a 也都对。
+  ★ 出题前第二译法自查结论沿用 09-01（题面未动）：考点位无第二译法 ——
+    第二句「加了个好友」把 `through a pet group` 这条绕道堵死，介词是被句意逼出来的；
+    且 3/3 次历史测试（08-24 · 08-29 · 09-01）她给出的全是介词 ⇒ 无需点名。
+  ⇒ 连对1 → **连对2，毕业**（状态行手写，见上）
 - 备注 合并 2026-08-19：#82（群组用 in，论坛用 on）并入本条 —— 同一条介词规则
   ★ 不走零 ❌ 线：备注里明写它"改过又犯"过，只是那次发生在事件流之前 ⇒ 按有 ❌ 处理，仍需连对 3
 - 备注 曾"改过又犯"（轮94 改、轮95 又犯）
@@ -1196,7 +1203,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 81 · get TO know sb（to 不能省）
 类型 搭配 ｜ 题面 **点名**："现在更容易认识陌生人。"（"认识"用 get ＋ know 说） ｜ 旧号 B129
-状态 连对1 连错0 上次2026-09-01 未毕业 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-03 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）
 　　★ 复测题面**不改**：现有题面 **点名**「现在更容易认识陌生人。」（"认识"用 get ＋ know 说）测的正是掉的那一格（§4① 配套动作已满足）
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ❌ `It's much eaiser to know strangers`——漏了 get（know sb ＝ 已经认识的状态；
@@ -1233,6 +1240,21 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ★ 组内对调生效验证：本条排在 #8 之前测（见 session 文件留痕），
     #8 那题她第一句用的是 met 而不是 got to know ⇒ **本次 ✅ 是干净的独立数据点**，未被污染。
   ⇒ 连对0 连错1 → **连对1**（回潮后第一次翻正，差一次毕业）
+- 2026-09-03 ✅ 复习第1组 [1] · 点名直测 · 题面 `现在更容易认识陌生人。`
+  `It's much eaiser to **get to konw** strangers.`
+  考点 get **TO** know —— to 在位（08-31 回潮掉的正是这个 to：`know new friends`）。
+  ｜`eaiser`／`konw` 按 §2.1 拼写不算错（正确拼法 easier／know），不建条目、不记档位。
+  ⚠️ 同句另一处（**不属本条考点，不判 ❌、不新建号**）：**第二次**漏译"现在" ⇒ 更好版
+    `It's much easier to get to know strangers **these days**.`
+    ★ 与 09-01 那次**同题、同处、同一个词**，裁定完全一致（⚠️ 不建号）——
+      理由 ＝ `It's much easier to meet people.` 母语者天天说 ⇒ "比较级必须带时间锚"不是硬规则
+      ⇒ §3.2b 说不出"她不会的是哪个词组／句型" ⇒ 建号就是假错。
+    ★ 但**第二次这件事本身要记**：08-31 她在自由产出（R8）里自己写过 `far easier than ever`，
+      锚是她自己加的 ⇒ **她会**，缺的是产出时那一下检查 ⇒ 走检查触发，不走条目。
+      检查触发：写完一个比较级，回头看 —— **"比什么"说出来了吗？**（than … ／ 时间词，二选一）
+  ★ 组内重排生效验证（第二次，见 session 文件留痕）：本条排在 #8 **之前**测，
+    #8 那题她第一句写的是 `met` 而不是 got to know ⇒ **本次 ✅ 是干净的独立数据点**。
+  ⇒ 连对1 → **连对2，毕业**（08-31 回潮后第二次翻正；状态行手写，见上）
 - 备注 判据两条：① 中文"认识（某人）"这个**动作** → get to know ② stranger/new people 只能"变得认识"
 
 ### 82 · （已并入）群组用 in，论坛用 on
@@ -1475,6 +1497,11 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ② S5 neither 两边同形：`neither log in nor place orders`（都是光动词原形）
   ③ S6 两项同形：`doing your share and not causing problems for the team`
   ★ 一篇 98 词里三处并列全部同形，且最难的 S3 三项没打折。
+- 2026-09-03 📝 新题 P3（bank:831）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇两处**
+  ① `like **how to pay**, **how to video call**, that kind of thing` —— 两项齐平（how to ＋ 原形）
+  ② `to **keep up with** what's going on or **better understand** their grandchildren's interests`
+     —— 两个动词共用前面那一个 to，语法功能相同
+  ★ 长句里并列还能保持同形，是本篇结构上最稳的一处。
 - 备注 自测法：把两边分别接回前面那个词念一遍
 - 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
   题面保留两句，一句测"功能相同"、一句测"数要齐"
@@ -2716,6 +2743,18 @@ mirror … regarding orderliness and planning → pick up … how tidy they are,
   ★ 连续六篇走向：08-27 命中1 → 08-29 命中3 → 08-30 命中1 → 08-31 R8 命中0（反向1）
     → 08-31 R9 命中1 → **09-01 命中0**。
   ★ 固定三步走完（⛔ 不多不少）：① 零命中、无口语版可给 ② 本行 📝、状态行不动 ③ 完事，不提请裁决。
+- 2026-09-03 📝 新题 P3（bank:831 · When would old people ask young people for advice?）· 书面登记（§7 固定三步的第②步，她 08-30 定 B）· **不判回潮、状态行一个字不动**
+  本篇命中 **3 处**（都不判 ❌ —— 本条备注写死"词本身不许判错，只判有口语版却没走口语版"）：
+```
+consult them on how to …   → ask them how to …      （consult ＝ 咨询专业人士的档位）
+operate smartphones         → use smartphones         （operate 配机器设备，日常东西用 use）
+current developments        → what's going on         （新闻/报告说法 → 大白话）
+```
+  ★ 三处的共同形状 ＝ **学术动词 ＋ 抽象名词**，正是本条检查触发第③栏那一类
+    （与 08-23 回潮那次的 internalize／facilitate／mirror 同族）。
+  ★ 本篇干净的部分：无 Additionally／Furthermore／Moreover ／无 In today's fast-paced world
+    ／无 hold special significance ／无 primary；开头 `Mostly with technology, I'd say.` 是纯口语。
+  ⇒ 连续第七篇执行书面登记扫描。**⛔ 不再逐次提请她裁决**（她 08-30 原话："B 后面别问了"）。
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -2974,6 +3013,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-10 ✅
 - 2026-08-13 ✅
 - 2026-08-15 ✅
+- 2026-09-03 📝 新题 P3（bank:831）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `**older people** might ask for recommendations …`
+  自由产出、无中文触发，是她自己调的词 ⇒ 本条考点位命中。
+  ★ 同篇她也用了 `seniors` —— 两个词都对，并存不判。
 
 ### 235 · All you need to do is ＋ 原形
 类型 结构 ｜ 题面 "你要做的就是多说多听。" ｜ 旧号 B180
@@ -3212,6 +3255,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   `Financial support for governments is **vital** to economic growth.`
   ★ 连续第二天自发用对（08-31 R9 `Start-ups are **vital** to a diverse economy`）。
   ★ 状态行一个字不动。
+- 2026-09-03 📝 复习第1组 [5]（#314 那题）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）
+  `Government financial support **is vital to** economic growth`
+  中文「关键」可选 crucial／key／essential／important，题面只点了 econom-，
+  **vital 是她自己调的**，且没写成 virtual、介词也是 to ⇒ 本条两个考点位（选词 ＋ to）全中。
 - 备注 判据：vital ＝ crucial／essential（至关重要）｜ virtual ＝ 虚拟的（virtual reality／a virtual meeting）
 - 备注 判重（当天新建复核）：grep vital／virtual／crucial → 命中 #83（形容词不加复数；crucial TO）——
   #83 管**形态和介词**，本条管**选哪个词**，规则不同 ⇒ 保留；#83 题面不含"关键"以外的干扰，不撞车
@@ -5525,7 +5572,7 @@ message 当**动词**时，**后面直接跟人**，不加 to／with：
 
 ### 314 · economic（经济的）≠ economical（省钱的）
 类型 词汇 ｜ 题面 **点名**："政府的资金支持对经济增长很关键。"（"经济增长"那个形容词用 econom- 开头的词说） ｜ 新建 2026-08-31
-状态 连对1 连错0 上次2026-09-01 未毕业
+状态 连对2 连错0 上次2026-09-03 ｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 新建、当天首犯，两次点名直测连翻）
 - 2026-08-31 ❌ 首犯 · 付息日 d 段重答 R9（P3 · Should governments provide financial support to start-ups?）·
   `So financial support from governments play a crucial role in **economical growth**.`
   ★ 判为**选词**不是拼写（§2.1④）：调出来的是**另一个词**，不是同一个词写歪。
@@ -5538,6 +5585,20 @@ message 当**动词**时，**后面直接跟人**，不加 to／with：
     ① `support **for** governments` ⇒ 意思反了 ⇒ **新建 #315**（见该条）
     ② `Financial support ... **is** vital` ⇒ 主谓一致做对 ⇒ #10 形态类，只记 ⚪
   ⇒ 连对0 连错1 → **连对1**（差一次毕业）
+- 2026-09-03 ✅ 复习第1组 [5] · 点名直测 · 题面 `政府的资金支持对经济增长很关键。`
+  `Government financial support is vital to **economic** growth`
+  考点 `economic`（经济的）≠ economical（省钱的）—— 词形一字不差。
+  ★ 顺带：`vital to` 也对（词是 vital 不是 virtual，介词是 to）⇒ 🎓#255 自发命中，另记一行留痕。
+  ⚠️ 同句另一处（**不属本条考点，不判 ❌、不新建号**）：
+    `Government financial support` → `Financial support **from** the government` ——
+    两层修饰（Government ＋ financial）全叠在名词前面，口语里读着发闷；英语更爱把"谁给的"
+    甩到后面用介词说。判据可迁移：**名词前面最多叠一层，第二层往后甩成介词短语。**
+    ★ **决定性观察**：同一场第 2 题她写的正是 `financial support **from** governments` ——
+      同一件事隔三题一次后置、一次前置 ⇒ **不是不会，是选择不稳定**。
+    ⛔ 不建号：英语本来允许名词堆叠（Government financial support 在报告体里到处都是）⇒
+      收不成一条"错"的规则（§3.2b）。这是同族第二例（09-01 `a new system version` 是第一例），
+      两次同裁 ⚠️ 不建号，记进纵向发现，等第三例看形状能不能收敛。
+  ⇒ 连对1 → **连对2，毕业**（状态行手写，见上）
 - 备注 判据：
 ```
 economic   ＝ 经济（方面）的 → economic growth ／ economic policy ／ economic crisis ／
@@ -5570,7 +5631,7 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
 
 ### 315 · support FROM sb（谁给的）≠ support FOR sb（给谁的）
 类型 搭配 ｜ 题面 **点名**："这些小公司很需要政府的资金支持。" ／ "政府对小企业的支持还不够。"（两句的"支持"都用**名词 support ＋ 介词**说） ｜ 新建 2026-09-01
-状态 连对0 连错1 上次2026-09-01 未毕业
+状态 连对1 连错0 上次2026-09-03 未毕业
 - 2026-09-01 ❌ 首犯 · 复习第1组 [8] 句里（题面 `政府的资金支持对经济增长很关键。`）·
   `**Financial support for governments** is vital to economic growth.`
   → Financial support **from** governments is vital to economic growth.
@@ -5578,6 +5639,18 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
      中文说的是"政府**出**的资金支持"。
   ★ 同句另外两处各归各号（§3.3 标记打在条目上，不打在整句上）：
     `economic growth` ✅ 归 #314（本条不沾）｜ `support ... **is**` 主谓一致做对 ⇒ #10 记 ⚪
+- 2026-09-03 ✅ 复习第1组 [2] · 点名直测 · 题面 `这些小公司很需要政府的资金支持。／政府对小企业的支持还不够。`
+  `These small companies really need finacial support **from** governments.`
+  `Government support **for** small businesses is still lacking.`
+  **考点两句全中**：from（谁给的）／ for（给谁的）—— 09-01 首犯写的是 `support **for** governments`
+  （把"谁给的"说成了"给谁的"），今天两个方向一次分清 ⇒ 建号第三天首测即翻正。
+  ｜`finacial` 按 §2.1 拼写不算错（正确拼法 financial）。
+  ⚠️ 同句另一处（**不属本条考点，不判 ❌、不新建号、⛔ 不记 ⚪**）：
+    `from governments` → `from the government` —— 主语用了 `These small companies`（特指这一批），
+    后面的政府就该跟着特指；`governments` 复数把话拉到"各国政府"那个尺度，前后档位不齐。
+    ⛔ **不归 #63 记 ⚪**：⚪ 是给"形态掉了"用的，这里两个形式都合法，不存在"掉"⇒ 只走 diff-2。
+  ★ 第二句 `Government support` 一个字不改 —— 那里是**泛指政府这一类支持**，与主语档位一致，是对的。
+  ⇒ 连对0 连错1 → **连对1**（差一次毕业）
 - 备注 判据：
 ```
 support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
@@ -5636,7 +5709,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
 
 ### 316 · log in（动词，两个词）≠ login（名词，一个词）
 类型 词汇 ｜ 题面 **点名**："账号被锁了，我登不进去。" ／ "登录页面加载很慢。"（两句的"登录"都用 **log** 这个词说；第一句当**动作**，第二句当**东西**） ｜ 新建 2026-09-01
-状态 连对0 连错1 上次2026-09-01 未毕业
+状态 连对1 连错0 上次2026-09-03 未毕业
 - 2026-09-01 ❌ 首犯 · 新题 P3（question_bank.md:490 · What are the rules people should obey at work?）·
   `I remember one time users could neither **login in** nor place orders because the developer released a wrong version.`
   → users could neither **log in** nor place orders
@@ -5649,6 +5722,20 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
   按 §3.3 得记 ✅（合法即 ✅），但**本条的考点 log in／login 那一格根本没被碰到** ⇒ 白测一次。
   改法 ＝ 题面点名"两句的登录都用 **log** 这个词说"。**只点词根，不点词形** ——
   分写还是连写仍然全部由她自己判，考位一个字没漏出去（§6"可点目标词，不许整句给答案"）。
+- 2026-09-03 ✅ 复习第1组 [4] · 点名直测 · 题面 `账号被锁了，我登不进去。／登录页面加载很慢。`
+  `the account is locked, and I can't **log in**.` ／ `The **login** page is loading very slowly.`
+  **考点两句全中**：动词 `log in` 分开写两个词 ／ 名词 `login` 连着写一个词。
+  09-01 首犯写的是 `login in`（名词整块当动词用，后面又补一个 in），今天两种词类都摆对 ⇒ 首测即翻正。
+  ｜句首小写 `the` 属打字，§2「打字材料里的句读不构成口语证据」，不算问题。
+  ★ 本次用的是**今天改过的题面**（当天出题前改，见本条上一行 📝）：加点名「两句的登录都用 log 说」
+    —— 堵掉 `sign in`／`the sign-in page` 这条合法绕道，让考位真被测到。**只点词根不点词形**，
+    分写还是连写仍由她判 ⇒ 本次 ✅ 是干净的考位数据。
+  ⚠️ 同句另外三处（**都不属本条考点，不判 ❌、不新建号**）：
+    · `The account` → `My account`（后半句是"我登不进去"，账号是她自己的；The account 是工单口吻）
+    · `and` → `so`（中文是因果不是并列）
+    · `is loading` → `loads`（**两个都对**：is loading ＝ 此刻正在；loads ＝ 一直都慢。
+      中文属性句「登录页面加载很慢」默认说常态 ⇒ 一般现在时更贴。⛔ 这一处绝不是错，不进任何形态类）
+  ⇒ 连对0 连错1 → **连对1**（差一次毕业）
 - 备注 判据：
 ```
 动词 ＝ **log in**（分开写两个词）
@@ -5688,6 +5775,65 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
    再补了个 in ⇒ 属「选词（调出另一个词）」，照常算。
    ★ 反证：真拼写错长成 `logn in`／`log inn` 那样；**多余的那个 in**
      说明她把 login 整块当动词了，不是手指打歪。
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 317 · when it comes TO sth（说到／在……这件事上）
+类型 词组 ｜ 题面 **点名**："说到网购和穿搭这些，老人常会问年轻人。"（"说到……"这个块用 **come** 说） ｜ 新建 2026-09-03
+状态 连对0 连错1 上次2026-09-03 未毕业
+- 2026-09-03 ❌ 首犯 · 新题 P3（question_bank.md:831 · When would old people ask young people for advice?）·
+  `On top of that, when it **comes down to** modern lifestyle and trends - like online shopping,
+  fashion choices or entertainment - older people might ask for recommendations…`
+  → when it **comes to** modern lifestyle and trends
+  ❌ 她要的是**引出话题**（说到现代生活方式和潮流……），用的却是**收束**那个块。
+  ★ **错点收敛到一个词 `down`** ⇒ 考点干净、可复测。
+  ★ 归因（写下来，下次复测时要用）：这个错的来源**不是不会，是太熟** ——
+    `comes down to` 是 🎓#58，她在 08-28／08-29 两次都**在题面完全没提**的情况下自己接出来过。
+    熟到自动化的块在压力下会去占相邻槽位 ⇒ 这类错要靠"问自己要哪个意思"挡，不是靠背。
+  ★ 同句其余各归各号（§3.3 标记打在条目上，不打在整句上）：
+    `to keep up with … or better understand …` ＝ 🎓#98 自发命中（另记）｜
+    `current developments` ＝ 🎓#206 书面登记（另记）｜
+    `older people` ＝ 🎓#234 自发命中（另记）
+  ★ `modern lifestyle` 单数**未判**（判前自审 [C]）：两个形式都合法，没掉形态 ⇒ 连 ⚪ 都不记。
+- 备注 判据：
+```
+when it comes to X        ＝ 说到 X／在 X 这件事上（**引出话题**，后面接名词/动名词）
+   When it comes to money, everyone gets careful.
+   When it comes to cooking, I'm useless.
+   When it comes to **learning** a language, you just have to keep at it.   ← 接动名词
+it (all) comes down to X  ＝ 归根到底就是 X（**把一堆原因收成一个**）        ← 🎓#58
+   It all comes down to money.
+   When it comes down to **it**, …  ← 这是固定说法，后面那个 it **不能换成话题词**
+⛔ 她这次的形状 ＝ 把已经会的 comes down to 塞进了 when it comes to 的槽位：
+   `when it comes down to modern lifestyle and trends` 读出来是
+   "当[某事]归根到底是现代生活方式时" —— 前面根本没有那个"某事" ⇒ 句子挂空。
+★ 一句话记：**话题用 to，收束用 down to；差的就是一个 down。**
+★ 检查触发：写完 come 那个块，问一句 ——
+  **我这里是"说到"还是"归根到底"？"说到" ⇒ 没有 down。**
+```
+- 备注 **出题口径**：只出"说到"那一句，⛔ 不在同一题里混进"说到底"——
+  "说到底"归 🎓#58／🎓#284，中文触发词已经分掉了，混着出会让她分不清在测哪一条。
+- 判重结论（§3.1 判重三步，2026-09-03 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `when it comes to X`（引出话题）
+② 全档 grep（**范围含已毕业**）：
+   `grep "comes to\|comes down\|it comes" problems.md methods.md`
+     ⇒ 🎓#58（it mainly comes down to）· 🎓#284（boil down to）· #56 附近留痕 ·
+       L1717 `if he comes tomorrow`（无关，是条件句）
+   中文题面 `grep "说到"` ⇒ 只命中 🎓#58／🎓#284 的"说到**底**"
+③ 三条最接近的，逐条排除：
+   · 🎓#58（it mainly comes down to ＝ 说到底就是）——**形状最像**，同一个动词块。
+     **决定性证据**：按 #58 的规则去改她这句，改出来的还是 `comes down to`
+     ⇒ **得不到正确答案** ⇒ 不同考点（§3.1③"只是像、目标形式不同 → 两条"）。
+     **互斥关系（当场写死）**：#58 题面「说到底就是钱的问题。」＝ 收束；
+       本条题面「说到网购和穿搭这些，老人常会问年轻人。」＝ 引出话题。
+       中文触发词一个是"说到**底**"、一个是"说到"，字面互斥，不会撞车。
+   · 🎓#284（boil down to sth ＝ 说到底就是）——与 #58 同族（收束），方向与本条相反 ⇒ 无关。
+     且 #284 的中文触发词 08-23 已被她当场指定为"说到底就是"专属 ⇒ 更不会撞。
+   · #56／#63（形态类）——那两条管单复数与冠词；本条是**固定词组选错**，不是形态 ⇒ 无关。
+④ 是不是拼写（§2.1 不算错）？**不是** —— 她调出来的是**另一个词组**（多了一个实词 down），
+   属「选词」，§2.1④ 判据"她脑子里调的词对不对" ⇒ 照常算。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `when it comes to`，成员数得出来。
 ```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
