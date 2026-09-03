@@ -14,6 +14,10 @@
      · 搬  problems.md ⇄ graduated.md —— 仅 `migrate` 子命令，只按状态行第 1 格
           把**已有的整块字节**从一个文件挪到另一个文件（逐字节，搬完自校，不过就整批回滚）
           ⛔ 不改状态、不改正文、不改任何一个数、不碰两个文件的头部说明块
+     · 搬  session ⇒ problems.md —— 仅 `trigger` 子命令，把 session 的「### 题面」围栏里
+          **当天实际用的中文题面**逐字搬进条目的 `**中文触发点**` 节；老触发点压成一行留档不删
+          ⛔ 不改状态、不改别的节、不碰历史记录；graduated／词组 ⇒ 报错整批不写；
+          已搬过的跳过（幂等）；写完自校，不过就整批回滚
    session、战报、条目正文仍然全部手工写。
 
 子命令
@@ -28,8 +32,12 @@
     python3 drill.py append --file rows.md --date 2026-08-25 [--dry-run]
   搬迁（SKILL §3.3 ／ §4⑥）—— 每天收尾自动做，🎓 出池、复发回池，整块字节搬
     python3 drill.py migrate [--dry-run]
+  换题面（SKILL §0.3 ／ §6）—— 把 session 里当天用的中文题面搬回条目，幂等
+    python3 drill.py trigger --session sessions/2026-09-01.md --group 1 [--dry-run]
   交付物硬闸（SKILL §4③bc §4④ §4⑤e）—— 发给她之前跑，ERROR>0 ⇒ 不许发
-    python3 drill.py deliver --session sessions/2026-08-30.md [--section 组1|回看|新题]
+    python3 drill.py deliver --session sessions/2026-08-30.md [--section 组1|回看|新题|追加练]
+  产出要粘贴的那一段（SKILL §0.9b⑥）—— 硬闸 ERROR 0 才吐，吐出来的一个字不许改
+    python3 drill.py deliver --session sessions/2026-09-01.md [--section 组1] --emit
   统计与校验（SKILL §0.3 §0.4 §4⑥）
     python3 drill.py stats [--brief]
     python3 drill.py check [--changed | --all] [--quiet]
@@ -39,6 +47,7 @@
 """
 
 import argparse
+import contextlib
 import io
 import os
 import random
@@ -249,6 +258,13 @@ class Entry:
                 ok += 1
                 bad = 0
         return ok, bad
+
+    def judged_on(self, day):
+        """当天有没有【判定行】＝ §3.2 判定符号表里的那六个（✅ ◎✅ ❌ 📖 △ ◎−）。
+        ⛔ 留痕符号 ③ 📋 📝 不算 —— 那几个不是读数。
+        ★ 被 §4.7 改判的行（`本条已于`）仍然算 —— 那天这条确实被问过了，
+          「今天已经问过」问的是出题重复，不是 streak。"""
+        return any(h.date == day and h.symbol in JUDGE for h in self.history)
 
     def last_row_date(self):
         """「上次」的口径 = 最后一条历史记录行的日期（③建号行、📝留痕行同样算，
@@ -583,9 +599,16 @@ def cmd_pick(args):
         spread = True
     else:
         cand = [(e, f"上次 {e.last}") for e in ents if e.in_pool]
-        cand.sort(key=lambda t: (t[0].last if t[0].last and t[0].last != "—" else "0000-00-00",
+        # 排序键三段：① 今天已经判过的沉到池底 ② 最久没测的优先 ③ 编号
+        # ① 是 2026-09-02 加的：09-01 那天 56 条候选里 44 条当天已有读数，
+        #    仍然排在队首 ⇒ 一天之内反复问同一批，第二次的读数近乎为零。
+        cand.sort(key=lambda t: (1 if t[0].judged_on(today) else 0,
+                                 t[0].last if t[0].last and t[0].last != "—" else "0000-00-00",
                                  t[0].num))
-        pool_note = ["复习日：按「最久没测的优先」排序（§8②b），组号越小越该先测"]
+        pool_note = ["复习日：按「今天已判过的沉底 → 最久没测的优先」排序（§8②b），"
+                     "组号越小越该先测",
+                     "⚠️ 「今天已判过」是**当天会变**的状态 ⇒ 组归属随之变；"
+                     "⛔ 不保证同一天两次 pick 逐字重现"]
         spread = False
 
     used_ids, done_groups = read_drawn(today)
@@ -618,11 +641,28 @@ def cmd_pick(args):
           + (f"、挂作文验 {len(essay)} 条" if essay else "") + "）"
           f" ⇒ 分 {len(groups)} 组，每组 ≤ {args.size}"
           + (f"　（本次只打前 {len(shown)} 组）" if len(shown) < len(groups) else ""))
+    if args.type != "learn":
+        n_today = sum(1 for e, _ in cand if e.judged_on(today))
+        if n_today:
+            print(f"  ★ 其中 {n_today} 条今天已经判过 ⇒ 已沉到池底"
+                  f"（⛔ 同日重复出题读数近乎为零）")
     n_phrase = sum(1 for e, _ in cand if e.is_phrase)
     if n_phrase:
         print(f"  ★ 候选里有 **{n_phrase} 条词组型** —— 混在组里照常发牌（组的大小不因此调整），"
               f"出题时可把同组的几条并成一道词组题（§6）")
-    print(f"  ★ 计划按日期定种，今天重跑这条命令得到的分组**完全一样**（compact 后可放心重跑）")
+    # ⛔ 旧文案写的是「今天重跑得到的分组**完全一样**」—— 那句话在两个方向上都不成立：
+    #    ① `used` 过的本来就不再出现（这条从 08-23 起就在了）
+    #    ② 复习日「今天已判过的沉底」是当天会变的状态（2026-09-02 起）
+    #    ⇒ 承诺改成事实：**规则**一样，⛔ 不保证逐字重现。
+    if args.type == "learn":
+        print(f"  ★ 同一天重跑：已 used 的不再出现，其余按同一规则（按日期定种发牌）重新分组"
+              f" —— ⛔ 不保证逐字重现")
+    else:
+        print(f"  ★ 同一天重跑：已 used 的不再出现、当天已判过的沉到池底，"
+              f"其余按同一规则重新分组 —— ⛔ 不保证逐字重现")
+    if args.date:
+        print(f"  ⚠️ --date 只影响「今天」的口径，⛔ 不能用来忠实回放当天的分组"
+              f"（那天之后才写下的判定行也会被算成「已判过」）")
     if not args.full:
         print(f"  ★ 卡片是精简版；要看历史留痕/全部旧触发点/成员账全文 ⇒ 加 --full，"
               f"或 `show #NNNN`")
@@ -1904,6 +1944,474 @@ def cmd_migrate(args):
 
 
 # ══════════════════════════════════════════════════════════════════════════
+#  trigger —— 把 session 里【当天实际用的中文题面】搬回条目（她 2026-09-02 定）
+#
+#  ⛔ 这是本脚本第三个会写内容文件的子命令（前两个是 append / migrate），
+#     同样【一个字的内容都不产生】：新题面逐字取自 session 的「### 题面」围栏，
+#     脚本只做搬运 ＋ 固定格式的包装（老触发点留档那一行 ＋ 日期标记）。
+#     ⛔ 不改状态、不改别的节、不改任何一个数、不碰历史记录。
+#  为什么要它：§6 通则要求「同一编号在不同日子出题必须换新的中文触发点」，
+#     换出来的题面本来只活在 session 里 —— 下次 `pick` 打的还是老触发点，
+#     教练得手工回填 N 条（09-01 那天手工件③ 一节回填了 7 条）。
+#     位置和搬运是机器活，判断（写什么题面）仍然全在教练手上。
+#
+#  跑：python3 drill.py trigger --session sessions/2026-09-01.md --group 1 [--dry-run]
+# ══════════════════════════════════════════════════════════════════════════
+#  拒绝策略分两层（她 2026-09-02 定，⛔ 不许混）：
+#    【输入坏了】⇒ 整批不写 —— 映射数 ≠ 题面题数 · 映射读不出 · 编号不存在 · 编号重复 ·
+#                            题号跳号/重复 · 条目里有不配对的 ``` 围栏
+#    【条目不适用】⇒ 逐条跳过并打印原因，其余照常写 —— 🎓／退池／并入 · 词组 · 作文验 ·
+#                            已经搬过（幂等）
+#  理由：今天毕业的条目**根本不需要换题面**（它出池了、不会再被抽到），
+#        为它把整组挡死是过严（09-01 组2 就是：7 条当天毕业 ⇒ 整组写不了）。
+# ══════════════════════════════════════════════════════════════════════════
+#  ★ 题面里的编号题：`N.` 后面必须**跟空白**，且 N 必须正好是下一个题号 ——
+#    否则续行里的 `3.5 倍，涨得非常快。` 会被吃成新的第 3 题（P1-4）。
+RE_TRIG_ITEM = re.compile(r"^[ \t　]*(\d+)\.(?:[ \t　]+(.*))?$")
+RE_TRIG_MAP = re.compile(r"(?<![0-9#])(\d+)[ \t　]*(#\d+)")
+RE_TRIG_MAPLINE = re.compile(r"^[ \t　]*\d+[ \t　]*#\d")
+RE_TRIG_ANYNUM = re.compile(r"#\d+")
+TRIG_OLD_PREFIX = "（老触发点留档不删："
+TRIG_OLD_SEP = "／"
+#  脚本自己生成的那一行 —— 折叠留档时必须先剥掉它，⛔ 不许套娃（P2-7）
+RE_TRIG_STAMP = re.compile(r"^⚠️\s*\*\*20\d\d-\d\d-\d\d 换题面\*\*（`drill\.py trigger`")
+TRIG_HARD_BOUND = tuple(SECTION_HEADS) + (MEMBERS_HEAD,)
+
+
+def _read_raw(path):
+    """→ (lines, nl, text)。⛔ 不做换行翻译 —— CRLF 的档案写回去仍然是 CRLF（P2-8）。
+    行下标与 `parse_file`（universal newlines + splitlines）一一对齐。"""
+    text = io.open(path, encoding="utf-8", newline="").read()
+    nl = "\r\n" if text.count("\r\n") * 2 > text.count("\n") else "\n"
+    return text.split(nl), nl, text
+
+
+def _raw_blocks(lines):
+    """按顶格 `## #NNNN` 切条目块 → {编号: (起, 止)}（0-based，止不含）。
+    ⛔ **独立实现**：自校不许和被校对象共用同一个解析函数（P2-9）——
+       `_trigger_span` 那套错了，用它自己去校自己就永远看不见。"""
+    heads = [(i, m.group(1)) for i, l in enumerate(lines)
+             for m in (RE_ENTRY.match(l),) if m]
+    out = {}
+    for k, (i, num) in enumerate(heads):
+        stop = heads[k + 1][0] if k + 1 < len(heads) else len(lines)
+        out[num] = (i, stop)
+    return out
+
+
+def _first_fence_body(lines, s, e):
+    """[s,e) 里第一个顶格 ``` 围栏的内容行；没有围栏 ⇒ None。"""
+    a = None
+    for i in range(s, e):
+        if lines[i].startswith("```"):
+            if a is None:
+                a = i + 1
+            else:
+                return lines[a:i]
+    return None
+
+
+def _parse_numbered_items(body):
+    """围栏里的编号题 → ({k: [行…]}, err)。
+    一题可跨多行，直到**下一个题号**或围栏结束。
+    ⛔ 逐字保留中文，只剥掉行首的 `N. ` 与续行的缩进 —— 那是位置，不是内容。
+    ★ 判据两道：① `N.` 后面必须跟空白　② N 必须正好是下一个题号
+      ⇒ `3.5 倍，涨得非常快。` 这种续行⛔不会被吃成新题。"""
+    cand = [int(m.group(1)) for m in (RE_TRIG_ITEM.match(l) for l in body) if m]
+    if cand != list(range(1, len(cand) + 1)):
+        return None, "题面围栏里的题号不是 1..N 连号：%s" % cand
+    out, cur = {}, None
+    for raw in body:
+        m = RE_TRIG_ITEM.match(raw)
+        if m and int(m.group(1)) == len(out) + 1:
+            k = int(m.group(1))
+            cur = [(m.group(2) or "").rstrip()]
+            out[k] = cur
+        elif cur is not None:
+            cur.append(raw.strip())
+        elif raw.strip():
+            return None, "题面围栏里第 1 题之前还有正文：「%s」" % raw.strip()[:30]
+    for k in out:
+        while out[k] and not out[k][-1].strip():
+            out[k].pop()
+    return out, None
+
+
+def _trigger_span(lines, e):
+    """条目的「**中文触发点**」节 → (head, start, end)，0-based，end 不含尾部空行。
+    ⛔ **硬边界**：下一个加粗节标题 ／ 成员出题账 ／ 任何 `### ` ——
+       ⛔ 不跑围栏状态机（P2-9：条目里有不配对的 ``` 时，状态机会把 `### 历史记录`
+          整节吞进触发点节，而自校用同一套坏状态机 ⇒ 看不见破坏）。"""
+    lo, hi = e.start - 1, (e.end or len(lines))
+    head = None
+    for i in range(lo, min(hi, len(lines))):
+        t = lines[i]
+        if head is None:
+            if t == "**中文触发点**":
+                head = i
+            continue
+        if t in TRIG_HARD_BOUND or t.startswith("### "):
+            hi = i
+            break
+    if head is None:
+        return None
+    end = min(hi, len(lines))
+    while end > head + 1 and not lines[end - 1].strip():
+        end -= 1
+    return head, head + 1, end
+
+
+def _entry_fence_unpaired(lines, e):
+    """条目里 ``` 的条数是不是奇数（＝有不配对的围栏）。"""
+    lo, hi = e.start - 1, min(e.end or len(lines), len(lines))
+    return sum(1 for i in range(lo, hi) if lines[i].strip().startswith("```")) % 2 == 1
+
+
+def _strip_trig_wrappers(body):
+    """折叠留档前先剥掉**脚本自己生成的包装**（P2-7）：
+      · `⚠️ **YYYY-MM-DD 换题面**（`drill.py trigger` …）` 整行
+      · 既有的 `（老触发点留档不删：…）`（可能已经套了好几层）
+    ⇒ 剩下的每一句都是**在某个 session 里找得到出处的原始中文**，⛔ 不再一层层套娃。"""
+    work, out = list(body), []
+    while work:
+        t = work.pop(0)
+        t = t.strip() if isinstance(t, str) else t
+        if not t or RE_TRIG_STAMP.match(t):
+            continue
+        if t.startswith(TRIG_OLD_PREFIX):
+            inner = t[len(TRIG_OLD_PREFIX):]
+            if inner.endswith("）"):
+                inner = inner[:-1]
+            work = [x for x in inner.split(TRIG_OLD_SEP) if x.strip()] + work
+            continue
+        out.append(t)
+    return out
+
+
+def _norm_lines(seq):
+    return [x.strip() for x in seq if x.strip()]
+
+
+def _contains_run(hay, needle):
+    """needle（归一化后）是不是 hay（归一化后）的一段连续子序列 —— 幂等判据。"""
+    h, n = _norm_lines(hay), _norm_lines(needle)
+    if not n:
+        return False
+    for i in range(len(h) - len(n) + 1):
+        if h[i:i + len(n)] == n:
+            return True
+    return False
+
+
+SKIP_LABEL = {"🎓": "🎓", "退池": "退池", "并入": "并入", "词组": "词组",
+              "作文验": "作文验", "已是最新": "已是最新"}
+
+
+def cmd_trigger(args):
+    sess = args.session
+    if not os.path.exists(sess):
+        print("⛔ 找不到 session 文件：%s" % sess)
+        return 2
+    md = re.search(r"(\d{4}-\d{2}-\d{2})", os.path.basename(sess))
+    if not md:
+        print("⛔ session 文件名里读不出日期（要 sessions/YYYY-MM-DD.md）：%s" % sess)
+        return 2
+    sdate = md.group(1)
+    sname = "sessions/" + os.path.basename(sess)
+    gno = args.group
+    slines = io.open(sess, encoding="utf-8").read().split("\n")
+
+    rng = _slice_h2(slines, lambda x: x.startswith("## 复习 · 第 %d 组" % gno))
+    if rng is None:
+        print("⛔ %s 里没有「## 复习 · 第 %d 组」这一节" % (sname, gno))
+        return 2
+    a, b = rng
+    parts = _sub_parts(slines, a, b)
+    qp = _find_part(parts, ["题面"])
+    mp = _find_part(parts, ["对应编号"])
+    if qp is None:
+        print("⛔ 组%d 里找不到「### 题面…」子件" % gno)
+        return 2
+    if mp is None:
+        print("⛔ 组%d 里找不到「### 对应编号…」子件" % gno)
+        return 2
+    qbody = _first_fence_body(slines, qp[1], qp[2])
+    mbody = _first_fence_body(slines, mp[1], mp[2])
+    if qbody is None:
+        print("⛔ 「### 题面…」里没有 ``` 围栏 —— 改 session，⛔ 不改脚本")
+        return 2
+    if mbody is None:
+        print("⛔ 「### 对应编号…」里没有 ``` 围栏 —— 改 session，⛔ 不改脚本")
+        return 2
+    items, perr = _parse_numbered_items(qbody)
+
+    print("═" * 74)
+    print("drill.py trigger · %s 组%d" % (sname, gno))
+    print("═" * 74)
+
+    # ── 层 1：输入坏了 ⇒ ⛔ 整批不写 ─────────────────────────────────────
+    hard = []
+    if perr:
+        hard.append(perr)
+        items = {}
+    # 只认**映射行**（行首就是 `k #…`）；围栏里的备注行（`⏸ 第二次调出：#0349（…）`）
+    # 不是映射，⛔ 不参与数量核对（09-01 组6 就有这么一行）。
+    map_lines = [l for l in mbody if RE_TRIG_MAPLINE.match(l)]
+    mtext = "\n".join(map_lines)
+    pairs = RE_TRIG_MAP.findall(mtext)
+    all_nums_in_map = RE_TRIG_ANYNUM.findall(mtext)
+    if not pairs:
+        hard.append("「### 对应编号…」围栏里一对「题号 #编号」都读不出来")
+    if len(pairs) != len(all_nums_in_map):
+        hard.append("「### 对应编号…」里有 %d 个 #编号，却只读出 %d 对「题号 #编号」"
+                    " —— 写法必须是 `k #NNNN`（⛔ 不做兜底）"
+                    % (len(all_nums_in_map), len(pairs)))
+    for ks, num in pairs:
+        if not re.fullmatch(r"#\d{4}", num):
+            hard.append("映射里的编号「%s」不是四位（§3.1 契约①）" % num)
+    if items and pairs and len(pairs) != len(items):
+        hard.append("映射 %d 对 ≠ 题面 %d 题 —— 数量对不上⛔不许部分搬运"
+                    % (len(pairs), len(items)))
+
+    ents = load_all()
+    by_num = {}
+    for e in ents:
+        by_num.setdefault(e.num, []).append(e)
+
+    plines, nl, ptext = _read_raw(PROBLEMS)
+
+    seen_num, seen_k = {}, {}
+    todo = []
+    for ks, num in pairs:
+        k = int(ks)
+        tag = "组%d 第%d题 %s" % (gno, k, num)
+        if num in seen_num:
+            hard.append("%s 同一批里重复出现（上一次是第 %d 题）" % (tag, seen_num[num]))
+            continue
+        seen_num[num] = k
+        if k in seen_k:
+            hard.append("%s 题号 %d 在映射里出现了两次" % (tag, k))
+            continue
+        seen_k[k] = num
+        if k not in items:
+            hard.append("%s 题面围栏里没有第 %d 题" % (tag, k))
+            continue
+        if not _norm_lines(items[k]):
+            hard.append("%s 第 %d 题的中文是空的" % (tag, k))
+            continue
+        got = by_num.get(num)
+        if not got:
+            hard.append("%s 全档查无此编号" % tag)
+            continue
+        if len(got) > 1:
+            hard.append("%s 编号重复出现在 %s" % (tag, [f"{x.src}:{x.start}" for x in got]))
+            continue
+        todo.append((k, num, got[0], tag))
+
+    for _k, _num, e, tag in todo:
+        if e.src == "problems.md" and _entry_fence_unpaired(plines, e):
+            hard.append("%s 条目里有**不配对的 ``` 围栏**（%s:%d–%d）—— "
+                        "先把围栏补齐再搬；⛔ 不是历史记录的问题"
+                        % (tag, e.src, e.start, e.end or 0))
+
+    if hard:
+        print("⛔ 输入有问题，%d 处 —— 一个字都没写（§0.3 整批不写）" % len(hard))
+        for x in hard:
+            print("ERROR  " + x)
+        print("═" * 74)
+        return 1
+
+    # ── 层 2：条目不适用 ⇒ 逐条跳过，其余照常写 ──────────────────────────
+    plan, skipped = [], []
+
+    def skip(num, k, why, detail=""):
+        skipped.append((num, k, why))
+        print("  ⏸ %s  第%d题 —— 跳过：%s%s" % (num, k, why, ("　" + detail) if detail else ""))
+
+    for k, num, e, tag in todo:
+        if e.src != "problems.md" or e.state != "在池":
+            why = ("🎓" if e.state == "🎓" else
+                   "退池" if e.state == "退池" else
+                   "并入" if str(e.state).startswith("并入") else str(e.state))
+            skip(num, k, why,
+                 "已出池的条目不会再被抽到，⛔ 不需要换题面（住 %s）" % e.src)
+            continue
+        if e.ask_kind == ASK_PHRASE:
+            skip(num, k, "词组",
+                 "词组题的触发点是【块】、不写句号（契约⑬）⇒ 整句题面不许写进去")
+            continue
+        if e.ask_kind == ASK_ESSAY:
+            skip(num, k, "作文验",
+                 "挂作文验的条目不出单点题（§6）⇒ ⛔ 不回填整句题面")
+            continue
+        span = _trigger_span(plines, e)
+        if span is None:
+            skip(num, k, "无触发点节", "条目里找不到 `**中文触发点**`，先补好再搬")
+            continue
+        head, cs, ce = span
+        old_body = plines[cs:ce]
+        new_body = list(items[k])
+        if _contains_run(old_body, new_body):
+            skip(num, k, "已是最新")
+            continue
+        kept = _strip_trig_wrappers(old_body)
+        old_flat = TRIG_OLD_SEP.join(kept)
+        old_line = (TRIG_OLD_PREFIX + old_flat + "）") if old_flat else ""
+        warn_line = ("⚠️ **%s 换题面**（`drill.py trigger` 自动搬运，源：%s 组%d 第%d题）"
+                     % (sdate, sname, gno, k))
+        new_sec = new_body + [warn_line] + ([old_line] if old_line else [])
+        plan.append(dict(num=num, k=k, e=e, head=head, cs=cs, ce=ce,
+                         old=list(old_body), new=new_sec, new_body=list(new_body),
+                         todo_flag=("待补" in old_flat)))
+
+    def skip_summary():
+        if not skipped:
+            return
+        c = Counter(w for _n, _k, w in skipped)
+        print("⏸ 跳过 %d 条（%s）" % (len(skipped),
+                                     " · ".join("%s %d" % (w, n) for w, n in sorted(c.items()))))
+
+    if not plan:
+        skip_summary()
+        print("─" * 74)
+        print("本组没有要改的条目 ⇒ 零改动（trigger 是幂等的）")
+        print("═" * 74)
+        return 0
+
+    for p in plan:
+        print("─" * 74)
+        print("  %s  第%d题  problems.md L%d–%d" % (p["num"], p["k"], p["cs"] + 1, p["ce"]))
+        print("    旧：")
+        for l in p["old"]:
+            print("      " + l)
+        print("    新：")
+        for l in p["new"]:
+            print("      " + l)
+    print("─" * 74)
+    for p in plan:
+        if p["todo_flag"]:
+            print("WARN   %s 老触发点里带着「待补」两个字，压成一行后仍留在节里 ⇒ "
+                  "这条在 stats／count 里仍会算「题面待补」，⛔ 脚本不代删，手工清" % p["num"])
+    skip_summary()
+
+    if args.dry_run:
+        print("（--dry-run：⛔ 一个字都没写盘）")
+        print("═" * 74)
+        return 0
+
+    # ── 写盘：从后往前替换，免得行号错位；⛔ 保留原文件的换行风格 ────────────
+    blocks_before = _raw_blocks(plines)
+    ents0 = load_all()
+    err0 = _errmap(ents0, {x.num for x in ents0})
+    snap0 = _statesnap(ents0)
+
+    pre = []
+    for p in plan:
+        blk = blocks_before.get(p["num"])
+        if blk is None or not (blk[0] < p["cs"] and p["ce"] <= blk[1]):
+            pre.append("%s 的触发点区间落在条目块外面" % p["num"])
+        if plines[p["cs"]:p["ce"]] != p["old"]:
+            pre.append("%s 要替换的区间与读到的旧内容对不上" % p["num"])
+        # 独立复核边界：块内 `**中文触发点**` 的下一行起、到第一个硬边界为止
+        if blk is not None:
+            body = plines[blk[0]:blk[1]]
+            try:
+                h = body.index("**中文触发点**")
+            except ValueError:
+                pre.append("%s 块里找不到 `**中文触发点**`" % p["num"])
+                continue
+            stop = len(body)
+            for j in range(h + 1, len(body)):
+                if body[j] in TRIG_HARD_BOUND or body[j].startswith("### "):
+                    stop = j
+                    break
+            if not (blk[0] + h + 1 == p["cs"] and p["ce"] <= blk[0] + stop):
+                pre.append("%s 触发点区间与独立复核算出来的边界不一致" % p["num"])
+    spans = sorted((p["cs"], p["ce"]) for p in plan)
+    for i in range(1, len(spans)):
+        if spans[i][0] < spans[i - 1][1]:
+            pre.append("两条的触发点区间重叠了：%s 与 %s" % (spans[i - 1], spans[i]))
+    if pre:
+        print("⛔ 写之前的区间自检没过，%d 处 —— 一个字都没写" % len(pre))
+        for x in pre:
+            print("ERROR  " + x)
+        print("═" * 74)
+        return 1
+
+    out = list(plines)
+    for p in sorted(plan, key=lambda x: -x["cs"]):
+        out[p["cs"]:p["ce"]] = p["new"]
+    new_text = nl.join(out)
+    io.open(PROBLEMS, "w", encoding="utf-8", newline="").write(new_text)
+
+    def rollback(why, detail):
+        io.open(PROBLEMS, "w", encoding="utf-8", newline="").write(ptext)
+        print("─" * 74)
+        print("⛔ 写完自查不过：%s —— 已整批回滚，档案回到搬之前" % why)
+        for d in detail[:20]:
+            print("   " + d)
+        print("═" * 74)
+        return 1
+
+    # ── 自校 ①字节级 ─────────────────────────────────────────────────
+    if open(PROBLEMS, "rb").read() != new_text.encode("utf-8"):
+        return rollback("写出去的字节与算出来的不一致", [])
+    if ("\r\n" in ptext) != ("\r\n" in new_text):
+        return rollback("换行风格被改了（CRLF ⇄ LF）", [])
+
+    # ── 自校 ②块级（⛔ 不复用 _trigger_span）──────────────────────────
+    after, _nl2, _t2 = _read_raw(PROBLEMS)
+    blocks_after = _raw_blocks(after)
+    if set(blocks_after) != set(blocks_before):
+        lost = sorted(set(blocks_before) - set(blocks_after))
+        extra = sorted(set(blocks_after) - set(blocks_before))
+        return rollback("条目集合变了", ["丢了 " + x for x in lost] + ["多了 " + x for x in extra])
+    changed = {p["num"]: p for p in plan}
+    bad = []
+    for num, (s0, e0_) in blocks_before.items():
+        b0 = plines[s0:e0_]
+        s1, e1_ = blocks_after[num]
+        b1 = after[s1:e1_]
+        p = changed.get(num)
+        if p is None:
+            if b0 != b1:
+                bad.append("%s 没在本批里，正文却变了" % num)
+            continue
+        off = p["cs"] - s0
+        if (b0[:off] != b1[:off]
+                or b0[off + len(p["old"]):] != b1[off + len(p["new"]):]
+                or b1[off:off + len(p["new"])] != p["new"]):
+            bad.append("%s 除中文触发点以外的正文被动了" % num)
+    if bad:
+        return rollback("条目正文对不上（trigger 只许改中文触发点这一节）", sorted(bad))
+
+    # ── 自校 ③语义级 ─────────────────────────────────────────────────
+    ents1 = load_all()
+    snap1 = _statesnap(ents1)
+    bad_state = [n for n in snap0 if snap0[n] != snap1[n]]
+    if bad_state:
+        return rollback("有条目的状态字段变了（trigger ⛔ 不改状态/连对/连错/上次/族/题型）",
+                        ["%s  %s  →  %s" % (n, snap0[n], snap1[n]) for n in sorted(bad_state)])
+    idx1 = {e.num: e for e in ents1}
+    notin = [p["num"] for p in plan
+             if not _contains_run(idx1[p["num"]].trigger.split("\n"), p["new_body"])]
+    if notin:
+        return rollback("新题面没有逐字落进中文触发点", sorted(notin))
+    err1 = _errmap(ents1, {e.num for e in ents1})
+    new_errs = ["%s %s %s" % (n, lv, m) for (n, lv, m), c in (err1 - err0).items()]
+    if new_errs:
+        return rollback("多出 %d 处 check 报告" % len(new_errs), sorted(new_errs))
+
+    print("✔ 已改 %d 条的中文触发点 · 除这一节外正文逐字节不变 · 换行风格不变 · "
+          "状态字段不变 · check 无新增" % len(plan))
+    print("  " + " ".join(p["num"] for p in plan))
+    print("─" * 74)
+    print("下一步：`drill.py check --changed`（§0.3）")
+    print("═" * 74)
+    return 0
+
+
+# ══════════════════════════════════════════════════════════════════════════
 # deliver —— 交付物完整性硬闸（SKILL §4③bc / §4④ / §4⑤e）
 #
 # 她 2026-08-30 定（方案 A）。原话：「我觉得你改不了，想想有没有别的方案」——
@@ -1924,6 +2432,7 @@ DELIVER_SPECS = {
             ("题面",       ["题面"]),
             ("她的答案",   ["她的答案"]),
             ("a 判定表",   ["判定表"]),
+            ("a 顺带判定", ["顺带判定"]),
             ("bc 三版对照块", ["三版对照块"]),
             ("d 战报",     ["战报"]),
         ],
@@ -1991,6 +2500,33 @@ DELIVER_BLACKLIST = [
 #   2026-08-30  她定下回看／新题的交付件清单（含最小修改版全文 ＋ 更好版全文）
 DELIVER_FLOOR_BLOCKS = "2026-08-23"
 DELIVER_FLOOR_NODES  = "2026-08-30"
+#   2026-09-02 她定：复习组的「顺带判定」进必查件（§4③a 本来就写着它是交付内容）。
+#     更早的写法把它写成正文里的 `**顺带判定**`（08-30 就是）⇒ 列为存量提示，⛔ 不报错。
+DELIVER_FLOOR_INCIDENT = "2026-09-02"
+
+# ★★ 已知顶层节全集 —— 全脚本唯一一处「一个 ## 节到哪儿为止」的定义（她 2026-09-02 定）。
+#    此前只有追加练用它，回看／新题各写各的 stops ⇒ 回看不在 `## 教练侧` `## 收尾` 处收口，
+#    结果「回看缺更好版全文」被 `## 收尾` 里的 `### 更好版 · 收尾复盘` 顶掉、硬闸报 ERROR 0。
+#    ⇒ 现在**所有节**都在这一集合处收口，⛔ 不再各写各的。
+KNOWN_H2 = ("开场", "复习 ·", "回看", "新题", "教练侧", "收尾", "追加练")
+
+
+def _node_end(lines, a, known=KNOWN_H2):
+    """节 [a, ?) 的右边界 ＝ 下一个【已知顶层节】的 ## 标题；没有就到文件末。"""
+    for j in range(a + 1, len(lines)):
+        if lines[j].startswith("## ") and any(
+                lines[j].startswith("## " + k) for k in known):
+            return j
+    return len(lines)
+
+
+def _outer_fence(body):
+    """这一块在 session 里**外层**是不是已经包在 code 围栏里了（只看第一个非空行）。
+    ⛔ 不能用「任一行 startswith ```」—— 块内出现围栏会被误判成"已带围栏"、整节不加围栏。"""
+    for l in body:
+        if l.strip():
+            return l.startswith("```")
+    return False
 
 RE_BLOCK_HEAD = re.compile(r"^#(S?\d+[a-z]?)\s*$")
 RE_NUM_ITEM   = re.compile(r"^\s*(\d+)\.\s")
@@ -2349,40 +2885,56 @@ def _check_followup(lines, a, b, found, whole):
     return errs, notes
 
 
-def cmd_deliver(args):
-    path = args.session
-    if not os.path.exists(path):
-        print("⛔ 找不到 session 文件：%s" % path)
-        return 2
-    lines = io.open(path, encoding="utf-8").read().split("\n")
+def _deliver_scan(args, path, lines):
+    """跑硬闸并打印报告 → (rc, sections)。
+    sections = [dict(slug, label, a, b, parts, found)]，供 `--emit` 复用同一份切节结果。
+    ⛔ 只读、只数、只打印。"""
+    sections = []
     md = re.search(r"(\d{4}-\d{2}-\d{2})", os.path.basename(path))
     sdate = md.group(1) if md else "9999-99-99"
     legacy_blocks = sdate < DELIVER_FLOOR_BLOCKS
     legacy_nodes = sdate < DELIVER_FLOOR_NODES
 
+    # ★★ 全部交付节一律**按行号**切（她 2026-09-02 定）：同名节可以有多个 ——
+    #    回看（本周期两篇新题都要回看）、追加练（各带标签）、
+    #    甚至同一个「## 复习 · 第 N 组」写了两次（此前对着第一节查两遍、emit 也吐两遍）。
     wanted = []
     if args.all or not args.section:
-        # 全部：所有「复习 · 第 N 组」＋ 回看 ＋ 新题（存在才查）
         for i, ln in enumerate(lines):
-            m = re.match(r"^## 复习 · 第 (\d+) 组", ln)
-            if m:
-                wanted.append("组%s" % m.group(1))
-        for slug in ("回看", "新题"):
-            if _slice_h2(lines, lambda x, h=DELIVER_SPECS[slug]["head"]: x.startswith(h)):
-                wanted.append(slug)
+            if re.match(r"^## 复习 · 第 \d+ 组", ln):
+                wanted.append("组@%d" % i)
+        # 回看／追加练：**可多个**（§0.9a §4.8）⇒ 逐节都查
+        for kind in ("回看", "追加练"):
+            for i, ln in enumerate(lines):
+                if ln.startswith("## " + kind):
+                    wanted.append("%s@%d" % (kind, i))
+        # 新题：§9 一天**只有一篇**⇒ 只认第一个 `## 新题`；后面的 `## 新题 · b 收稿`
+        #   这种是同一篇的续节（08-29 就是），⛔ 不能当成第二个新题节
         for i, ln in enumerate(lines):
-            if ln.startswith("## 追加练"):
-                wanted.append("追加练@%d" % i)
-    elif args.section == "追加练":
-        wanted = ["追加练@%d" % i for i, ln in enumerate(lines) if ln.startswith("## 追加练")]
-        if not wanted:
-            wanted = ["追加练"]
+            if ln.startswith("## 新题"):
+                wanted.append("新题@%d" % i)
+                break
     else:
-        wanted = [args.section]
+        mg = re.match(r"^组(\d+)$", args.section or "")
+        if mg:
+            head = "## 复习 · 第 %s 组" % mg.group(1)
+            wanted = ["组@%d" % i for i, ln in enumerate(lines) if ln.startswith(head)]
+            if not wanted:
+                wanted = ["组@-1"]
+        elif args.section in ("回看", "新题", "追加练"):
+            pre = args.section
+            wanted = ["%s@%d" % (pre, i) for i, ln in enumerate(lines)
+                      if ln.startswith("## " + pre)]
+            if pre == "新题":
+                wanted = wanted[:1]                  # §9 一天只有一篇新题
+            if not wanted:
+                wanted = ["%s@-1" % pre]
+        else:
+            wanted = [args.section]
 
     if not wanted:
         print("⛔ 这个文件里没有可查的交付节（复习 · 第 N 组 ／ 回看 ／ 新题 ／ 追加练）")
-        return 2
+        return 2, sections
 
     print("═" * 74)
     print("drill.py deliver · 交付物完整性硬闸 · %s" % path)
@@ -2390,33 +2942,27 @@ def cmd_deliver(args):
     print("═" * 74)
 
     total_err = 0
+    total_warn = 0
     for slug in wanted:
         errs = []
         notes = []
-        m = re.match(r"^组(\d+)$", slug)
-        if m:
-            spec = DELIVER_SPECS["组"]
-            n = m.group(1)
-            rng = _slice_h2(lines, lambda x, n=n: x.startswith("## 复习 · 第 %s 组" % n))
-            label = "复习 · 第 %s 组" % n
-        elif slug.startswith("追加练"):
-            spec = DELIVER_SPECS["追加练"]
-            mm = re.match(r"^追加练@(\d+)$", slug)
-            if mm:
-                a0 = int(mm.group(1))
-                rng = (a0, len(lines))
-            else:
-                rng = _slice_h2(lines, lambda x: x.startswith("## 追加练"))
-            label = ("%s（L%d）" % (lines[rng[0]].lstrip("# ").strip(), rng[0] + 1)
-                     if rng else "追加练")
-            slug = "追加练"
+        warns = []
+        mm = re.match(r"^(组|回看|新题|追加练)@(-?\d+)$", slug)
+        if mm:
+            slug, a0 = mm.group(1), int(mm.group(2))
+            spec = DELIVER_SPECS[slug]
+            rng = None if a0 < 0 else (a0, _node_end(lines, a0))
+            label = ("%s（L%d）" % (lines[a0].lstrip("# ").strip(), a0 + 1)
+                     if rng else slug)
         elif slug in DELIVER_SPECS:
             spec = DELIVER_SPECS[slug]
             rng = _slice_h2(lines, lambda x, h=spec["head"]: x.startswith(h))
+            if rng:
+                rng = (rng[0], _node_end(lines, rng[0]))
             label = slug
         else:
             print("⛔ 不认识的 --section：%s（用 组N ／ 回看 ／ 新题 ／ 追加练）" % slug)
-            return 2
+            return 2, sections
 
         print("")
         print("── %s ──" % label)
@@ -2425,19 +2971,11 @@ def cmd_deliver(args):
             total_err += 1
             continue
         a, b = rng
-        # 新题这条路历史上把 判分／对照／三版对照块 写成了 ## 级 —— 节区间要吃到 ## 收尾／## 教练侧 之前
+        # 新题这条路历史上把 判分／对照／记账 写在 `## 收尾` 之后（08-20 就是）——
+        # 那是 DELIVER_FLOOR_NODES 之前的旧写法，只对存量放行，⛔ 新 session 一律在已知顶层节收口。
         h2_too = slug in ("新题", "回看")
-        if h2_too:
-            # 回看 停在 ## 新题（否则会把新题的两份全文认成自己的）；
-            # 新题 扫到文件末 —— 历史上 判分／对照／记账 被写在 ## 收尾 之后（08-20 就是）
+        if slug == "新题" and legacy_nodes:
             b = len(lines)
-            stops = ("新题", "复习 ·", "追加练") if slug == "回看" else ("复习 ·", "追加练")
-            for j in range(a + 1, len(lines)):
-                if lines[j].startswith("## ") and any(
-                    lines[j].startswith("## " + stop) for stop in stops
-                ):
-                    b = j
-                    break
         parts = _sub_parts(lines, a, b, h2_too=h2_too)
 
         # 声明跳过的节（§4④ D-1 没写新题就跳过）⇒ 不查。⛔ 追加练不吃这条
@@ -2448,15 +2986,7 @@ def cmd_deliver(args):
 
         # ★ §4.8 追加练：走自己的一套检查，⛔ 不套用组／回看／新题的块数守恒与战报
         if slug == "追加练":
-            # 节区间只在【已知顶层节】处截断，别的 ## 标题不截（否则后面的 #A 块会被吃掉）
-            known = ("开场", "复习 ·", "回看", "新题", "教练侧", "收尾", "追加练")
-            b = len(lines)
-            for j in range(a + 1, len(lines)):
-                if lines[j].startswith("## ") and any(
-                        lines[j].startswith("## " + k) for k in known):
-                    b = j
-                    break
-            parts = _sub_parts(lines, a, b)
+            parts = _sub_parts(lines, a, b)          # b 已由 _node_end 收口
             found = {}
             for name, kws in spec["parts"]:
                 found[name] = _find_part(parts, kws)
@@ -2494,6 +3024,8 @@ def cmd_deliver(args):
                 print("   ERROR  %s" % e)
             print("   ⇒ %s" % ("ERROR 0 · 可以发" if not errs else "ERROR %d · ⛔ 不许发" % len(errs)))
             total_err += len(errs)
+            sections.append(dict(slug=slug, label=label, a=a, b=b, parts=parts,
+                                 found=found, errs=list(errs), warns=[]))
             continue
 
         # ① 子件齐不齐
@@ -2503,13 +3035,19 @@ def cmd_deliver(args):
             found[name] = hit
             if hit is None:
                 msg = "缺子件「%s」（### 标题里要出现：%s）" % (name, " / ".join(kws))
-                old_four = any(
-                    ("最小修改版" in t or "diff 表" in t)
-                    for t, _s, _e in parts
-                )
+                # ⚠️ 旧判据是「出现『最小修改版』**或**『diff 表』」⇒ 恒真：
+                #    2026-08-30 起回看／新题本来就必须有「最小修改版全文」，
+                #    于是整节没有三版对照块也被当成旧四份放行（08-30 那次破的就是这一条）。
+                #    ⇒ 收紧成【两样都得有】—— 那才是旧四份格式真正的签名。
+                old_four = (any("最小修改版" in t for t, _s, _e in parts)
+                            and any("diff 表" in t for t, _s, _e in parts))
                 if "三版对照块" in name and (legacy_blocks or old_four):
                     notes.append("存量 · %s —— 本节用的是 %s 之前的旧四份格式（最小修改版／更好版／diff 表A／表B），⛔ 不报错"
                                  % (msg, DELIVER_FLOOR_BLOCKS))
+                elif "顺带判定" in name and sdate < DELIVER_FLOOR_INCIDENT:
+                    notes.append("存量 · %s —— 顺带判定 %s 起才进必查件（更早写成正文里的 "
+                                 "`**顺带判定**`，08-30 就是），⛔ 不报错"
+                                 % (msg, DELIVER_FLOOR_INCIDENT))
                 elif legacy_nodes and slug in ("回看", "新题") and ("全文" in name or name in ("她的原文", "收稿", "对照 problems")):
                     notes.append("存量 · %s —— 交付件清单 %s 才定，⛔ 不报错" % (msg, DELIVER_FLOOR_NODES))
                 else:
@@ -2596,21 +3134,171 @@ def cmd_deliver(args):
                     else:
                         errs.append("战报缺第 %s 行" % mark)
 
+        # ⑥ §0.9b④ 表格⛔不进围栏 —— session 里已经写进围栏的，emit 会原样照搬，
+        #    产出的粘贴件就是坏的（表格不再渲染）。⇒ 报 WARN，⛔ 不静默（她 2026-09-02 定）
+        for name, _kws, mode in EMIT_PARTS.get(slug) or []:
+            if mode != "raw":
+                continue
+            hit = found.get(name) or _find_part(parts, _kws)
+            if hit is None:
+                continue
+            _t, hs, he = hit
+            if _outer_fence(_trim_blank(lines[hs + 1:he])):
+                warns.append("子件「%s」在 session 里被写进了 code 围栏 —— §0.9b④ 表格⛔不进围栏"
+                             "（判定表／顺带判定／战报进了围栏就不再渲染成表）" % name)
+
         for n in notes:
             print("   ✔ %s" % n)
         for name, kws in spec["parts"]:
             if found.get(name) is not None:
                 print("   ✔ 子件「%s」在" % name)
+        for w in warns:
+            print("   WARN   %s" % w)
         for e in errs:
             print("   ERROR  %s" % e)
-        print("   ⇒ %s" % ("ERROR 0 · 可以发" if not errs else "ERROR %d · ⛔ 不许发" % len(errs)))
+        print("   ⇒ %s%s" % ("ERROR 0 · 可以发" if not errs else "ERROR %d · ⛔ 不许发" % len(errs),
+                             "（WARN %d）" % len(warns) if warns else ""))
         total_err += len(errs)
+        total_warn += len(warns)
+        sections.append(dict(slug=slug, label=label, a=a, b=b, parts=parts,
+                             found=found, errs=list(errs), warns=list(warns)))
 
     print("")
     print("═" * 74)
-    print("合计 ERROR %d %s" % (total_err, "· 可以发" if total_err == 0 else "· ⛔ 不许发，改完重跑"))
+    print("合计 ERROR %d%s %s" % (total_err, " · WARN %d" % total_warn if total_warn else "",
+                                  "· 可以发" if total_err == 0 else "· ⛔ 不许发，改完重跑"))
     print("═" * 74)
-    return 1 if total_err else 0
+    return (1 if total_err else 0), sections
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  deliver --emit —— 直接产出「要粘贴给她的那一段」（她 2026-09-02 定）
+#
+#  背景：交付物完整性的闸只验 session 文件，**看不到教练在聊天里粘了什么** ——
+#        已经连续三次发生「只发动过的块、其余略」。解法是把方向倒过来：
+#        脚本按 §0.9b 的排版产出**唯一合法的粘贴内容**，教练一个字不许改。
+#
+#  ⛔ 它仍然【一个字的内容都不产生】：只把 session 文件里已有的字节原样打出来，
+#     唯一加的是 code 围栏（§0.9b ①②③）——而且只在那一块本来就没写围栏时才加。
+#     ⛔ 不重排、不省略、不摘要；表格（判定表／顺带判定／战报）⛔ 不进围栏（§0.9b ④）。
+# ══════════════════════════════════════════════════════════════════════════
+#   每一项 = (人读的名字, 该子件 ### 标题里必须出现的关键词, 排版)
+#   排版 fence ＝ 一块一个 code 围栏 ｜ raw ＝ markdown 原样（表格）
+EMIT_PARTS = {
+    "组": [
+        ("题面",       ["题面"],           "fence"),
+        ("判定表",     ["判定表"],         "raw"),
+        ("顺带判定",   ["顺带判定"],       "raw"),
+        ("三版对照块", ["三版对照块"],     "fence"),
+        ("战报",       ["战报"],           "raw"),
+    ],
+    "回看": [
+        ("题面与条件",     ["题面", "出题"],                "fence"),
+        ("她的原文",       ["她的原文", "逐句编号", "原文"], "fence"),
+        ("三版对照块",     ["三版对照块"],                  "fence"),
+        ("最小修改版全文", ["最小修改版全文", "最小修改版"], "fence"),
+        ("更好版全文",     ["更好版全文", "更好版"],        "fence"),
+    ],
+    "新题": [
+        ("题面与条件",     ["题面", "出题"],                "fence"),
+        ("她的原文",       ["她的原文", "逐句编号", "原文"], "fence"),
+        ("收稿",           ["收稿"],                        "raw"),
+        ("判分",           ["判分"],                        "raw"),
+        ("对照 problems",  ["对照 problems", "对照"],       "raw"),
+        ("三版对照块",     ["三版对照块"],                  "fence"),
+        ("最小修改版全文", ["最小修改版全文", "最小修改版"], "fence"),
+        ("更好版全文",     ["更好版全文", "更好版"],        "fence"),
+    ],
+    # 追加练（§4.8）的排版 §0.9b 没写 ⇒ ⛔ 不自作主张加围栏，整节 markdown 原样
+    "追加练": None,
+}
+
+
+def _trim_blank(seq):
+    """去掉首尾空行，中间一行不动。"""
+    s, e = 0, len(seq)
+    while s < e and not seq[s].strip():
+        s += 1
+    while e > s and not seq[e - 1].strip():
+        e -= 1
+    return list(seq[s:e])
+
+
+def _emit_fence(body):
+    """emit 给这一块补的围栏；已经带外层围栏 ⇒ None（⛔ 不套第二层，套了复制出来就是坏的）。
+    ★ 判据是**外层**（第一个非空行是不是 ```），⛔ 不是「任一行 startswith ```」——
+      后者会把「正文里带一个围栏、外面没围栏」的块误判成已带围栏、整节不加围栏（P3-11）。
+    ★ 块内已有围栏时，外层用**更长的**一串反引号，否则内层那道会把外层提前关掉。"""
+    if _outer_fence(body):
+        return None
+    longest = 0
+    for l in body:
+        t = l.lstrip()
+        if t.startswith("```"):
+            longest = max(longest, len(t) - len(t.lstrip("`")))
+    return "`" * max(3, longest + 1)
+
+
+def _emit_section(lines, sec, out):
+    """按 §0.9b 把一个交付节的交付件打出来。⛔ 内容逐字节取自 session。"""
+    a, b = sec["a"], sec["b"]
+    out.append(lines[a])                       # 节标题，逐字
+    plan = EMIT_PARTS.get(sec["slug"], None)
+    if plan is None:                           # 追加练：整节原样
+        body = _trim_blank(lines[a + 1:b])
+        if body:
+            out.append("")
+            out.extend(body)
+        return
+    for name, kws, mode in plan:
+        hit = _find_part(sec["parts"], kws)
+        if hit is None:
+            continue                           # 缺件在硬闸那一步已经判过（缺了就不会走到 emit）
+        title, s_, e_ = hit
+        if title == "(节首)":
+            continue
+        body = _trim_blank(lines[s_ + 1:e_])
+        if not body:
+            continue
+        out.append("")
+        out.append(title)                      # ### 标题逐字，⛔ 在围栏外（§0.9b「说明写在围栏外」）
+        out.append("")
+        fen = _emit_fence(body) if mode == "fence" else None
+        if fen:
+            out.append(fen)
+            out.extend(body)
+            out.append(fen)
+        else:
+            out.extend(body)
+
+
+def cmd_deliver(args):
+    path = args.session
+    if not os.path.exists(path):
+        print("⛔ 找不到 session 文件：%s" % path)
+        return 2
+    lines = io.open(path, encoding="utf-8").read().split("\n")
+    if not getattr(args, "emit", False):
+        rc, _ = _deliver_scan(args, path, lines)
+        return rc
+
+    # ★ --emit：先跑本来的硬闸；ERROR > 0 ⇒ ⛔ 拒绝 emit
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        rc, sections = _deliver_scan(args, path, lines)
+    if rc:
+        sys.stdout.write(buf.getvalue())
+        print("⛔ ERROR > 0 ⇒ **拒绝 emit** —— 先把 session 改到 ERROR 0 再来（§0.9a）")
+        return rc
+    # 报告走 stderr，stdout 只留【要粘贴的那一段】
+    sys.stderr.write(buf.getvalue())
+    out = []
+    for k, sec in enumerate(sections):
+        if k:
+            out.append("")
+        _emit_section(lines, sec, out)
+    sys.stdout.write("\n".join(out) + "\n")
+    return 0
 
 
 def main():
@@ -2622,7 +3310,9 @@ def main():
     p.add_argument("--size", type=int, default=10, help="每组最多几题（默认 10）")
     p.add_argument("--groups", type=int, help="只打前 N 组的卡片（分组仍按全池算）")
     p.add_argument("--full", action="store_true", help="打完整卡片（历史留痕/全部旧触发点/成员账全文）")
-    p.add_argument("--date")
+    p.add_argument("--date",
+                   help="把哪一天当「今天」。⚠️ 只影响「今天」的口径，"
+                        "⛔ 不能用来忠实回放当天的分组（那天之后才写下的判定行也会被算成已判过）")
     p.add_argument("--dry", action="store_true")
     p.set_defaults(func=cmd_pick)
 
@@ -2666,6 +3356,12 @@ def main():
     p.add_argument("--dry-run", action="store_true", help="只打计划，⛔ 不写盘")
     p.set_defaults(func=cmd_append)
 
+    p = sub.add_parser("trigger", help="把 session 里当天用的中文题面搬回条目的中文触发点")
+    p.add_argument("--session", required=True, help="当日 session 文件路径")
+    p.add_argument("--group", type=int, required=True, help="第几组（读它的 题面 ＋ 对应编号）")
+    p.add_argument("--dry-run", action="store_true", help="只打将要改哪几条，⛔ 不写盘")
+    p.set_defaults(func=cmd_trigger)
+
     p = sub.add_parser("migrate", help="problems.md ⇄ graduated.md 双向搬迁（§3.3/§4⑥）")
     p.add_argument("--dry-run", action="store_true", help="只打搬迁清单，⛔ 不写盘")
     p.set_defaults(func=cmd_migrate)
@@ -2674,6 +3370,8 @@ def main():
     p.add_argument("--session", required=True, help="当日 session 文件路径")
     p.add_argument("--section", help="组N ／ 回看 ／ 新题 ／ 追加练；不给则扫全部")
     p.add_argument("--all", action="store_true", help="扫这个文件里全部交付节")
+    p.add_argument("--emit", action="store_true",
+                   help="ERROR 0 时把【要粘贴给她的那一段】按 §0.9b 排版打到 stdout")
     p.set_defaults(func=cmd_deliver)
 
     p = sub.add_parser("check", help="格式校验")

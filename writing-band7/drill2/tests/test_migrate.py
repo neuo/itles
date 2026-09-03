@@ -80,6 +80,77 @@ def statsnums():
 def nonblank(txt):
     return Counter(l for l in txt.split("\n") if l.strip() and l.strip() != "---")
 
+P = open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
+G = open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
+
+
+def set_state(text, nums, state, ok=None, bad=None):
+    lines = text.split("\n")
+    for i, l in enumerate(lines):
+        m = re.match(r"^## (#\d{4})", l)
+        if m and m.group(1) in nums:
+            j = i + 1
+            lines[j] = re.sub(r"^状态：\S+", "状态：" + state, lines[j])
+            if ok is not None: lines[j] = re.sub(r"(连对[ 　]*)\d+", r"\g<1>" + str(ok), lines[j])
+            if bad is not None: lines[j] = re.sub(r"(连错[ 　]*)\d+", r"\g<1>" + str(bad), lines[j])
+    return "\n".join(lines)
+
+
+def nums_in(text, fam):
+    """某文件里某族的编号顺序"""
+    seg = text.split("\n# " + fam + " ")[1].split("\n# F")[0]
+    return re.findall(r"^## (#\d{4})", seg, re.M)
+
+
+def fams_in(text):
+    return re.findall(r"^# (F\d\d)", text, re.M)
+
+
+def drop_fam(text, fam):
+    """把某一族整段（族头 ＋ 该族全部条目）删掉 —— 造「目标档没有这个族」的夹具。"""
+    lines = text.split("\n")
+    a = next(i for i, l in enumerate(lines) if l.startswith("# " + fam + " "))
+    b = len(lines)
+    for i in range(a + 1, len(lines)):
+        if re.match(r"^# F\d\d ", lines[i]):
+            b = i
+            break
+    if b == len(lines):                       # 最后一族 ⇒ 前面那道 --- 缝一起带走
+        while a > 0 and lines[a - 1].strip() in ("", "---"):
+            a -= 1
+        return "\n".join(lines[:a] + [""])
+    return "\n".join(lines[:a] + lines[b:])
+
+
+# ★★ 夹具⛔不许指望「活档案正好有东西可搬」——`migrate` 每天收尾都跑，
+#    档案随时是**搬完**的状态（2026-09-01 之后就是），T1/T6/T8 会全部落空。
+#    ⇒ 自己造出【待搬】状态，而且**只动状态行第 1 格、⛔ 不动任何一个数**，
+#      这样 check 的报告集合一条都不多（连对连错仍与历史重数对得上）：
+#        problems.md  每族挑 1 条【在池】改 🎓      （🎓 不查「连对到线」）
+#        graduated.md 挑 2 条 🎓 改【退池】         （退池 check 直接 return，不查数）
+#    搬迁的期望值全部从这两个集合**推出来**，⛔ 不写死编号、不写死条数。
+def _make_pre():
+    pe = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
+    ge = drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")
+    out, fams, seen = [], {}, set()
+    for e in pe:
+        if e.state == "在池" and e.fam not in seen:
+            seen.add(e.fam)
+            out.append(e.num)
+            fams[e.num] = e.fam
+        if len(out) == 9:
+            break
+    back = [e.num for e in ge if e.state == "🎓"][:2]
+    return out, back, fams
+
+
+OUT, BACK, OUT_FAM = _make_pre()
+PRE_P = set_state(P, set(OUT), "🎓")
+PRE_G = set_state(G, set(BACK), "退池")
+N_MOVE = len(OUT) + len(BACK)
+print(f"（夹具：造 {len(OUT)} 条 problems→graduated · {len(BACK)} 条 graduated→problems，"
+      f"⛔ 只改状态行第 1 格）")
+
 # ══════════════════════════════════════════════════════════════════════
 print("\n【T0】split_file 无损切块（真档案两份）")
 with sandbox() as d:
@@ -92,8 +163,8 @@ with sandbox() as d:
         ck(f"{n} trail 只含空行与 ---",
            all(all(x.strip() in ("", "---") for x in b.trail) for b in bl))
 
-print("\n【T1】真实双向搬迁 —— 9 出 2 回")
-with sandbox() as d:
+print(f"\n【T1】真实双向搬迁 —— {len(OUT)} 出 {len(BACK)} 回")
+with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     p0, g0 = read(d, "problems.md"), read(d, "graduated.md")
     b0, e0, s0 = bodies(), errset(), statsnums()
     rc, out = run(drill.cmd_migrate, Args())
@@ -105,11 +176,13 @@ with sandbox() as d:
     ck("check 报告集合不变（抹掉行号）", e0 == e1, list((e1 - e0).items())[:5] + list((e0 - e1).items())[:5])
     ck("stats 五个数不变", s0 == s1, (s0, s1))
     mv = {k for k in b0 if b0[k][0] != b1[k][0]}
-    ck("恰好 11 条换了文件", len(mv) == 11, sorted(mv))
-    ck("9 条 problems→graduated",
-       len([k for k in mv if b1[k][0] == "graduated.md"]) == 9)
-    ck("2 条 graduated→problems  (#0049 #0248)",
-       sorted(k for k in mv if b1[k][0] == "problems.md") == ["#0049", "#0248"])
+    ck(f"恰好 {N_MOVE} 条换了文件", len(mv) == N_MOVE, sorted(mv))
+    ck(f"{len(OUT)} 条 problems→graduated",
+       sorted(k for k in mv if b1[k][0] == "graduated.md") == sorted(OUT),
+       sorted(k for k in mv if b1[k][0] == "graduated.md"))
+    ck(f"{len(BACK)} 条 graduated→problems  ({' '.join(BACK)})",
+       sorted(k for k in mv if b1[k][0] == "problems.md") == sorted(BACK),
+       sorted(k for k in mv if b1[k][0] == "problems.md"))
     ck("🎓 全在 graduated.md / 非🎓 全在 problems.md",
        all((e.state == "🎓") == (e.src == "graduated.md") for e in drill.load_all()))
     p1, g1 = read(d, "problems.md"), read(d, "graduated.md")
@@ -142,24 +215,26 @@ with sandbox() as d:
                 lines[i] = re.sub(r"^状态：\S+", "状态：" + to, lines[i])
         open(path, "w", encoding="utf-8").write("\n".join(lines))
     flip(drill.GRADUATED, {k for k in mv if b1[k][0] == "graduated.md"}, "在池")
-    flip(drill.PROBLEMS, {"#0049", "#0248"}, "🎓")
+    flip(drill.PROBLEMS, set(BACK), "🎓")
     rc3, out3 = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc3 == 0, out3[-400:])
     b3 = bodies()
     ck("11 条都回到原来的文件", all(b3[k][0] == b0[k][0] for k in mv),
        [(k, b0[k][0], b3[k][0]) for k in mv if b3[k][0] != b0[k][0]])
-    ck("全档正文除了那 11 条的状态行外逐字节不变",
+    ck(f"全档正文除了那 {N_MOVE} 条的状态行外逐字节不变",
        all(b3[k][1] == b0[k][1] for k in b0 if k not in mv))
-    ck("回程后非空行多重集只差那 11 条状态行",
+    ck(f"回程后非空行多重集只差那 {N_MOVE} 条状态行",
        sum(((nonblank(read(d, "problems.md")) + nonblank(read(d, "graduated.md")))
-            - (nonblank(p0) + nonblank(g0))).values()) == 11)
+            - (nonblank(p0) + nonblank(g0))).values()) == N_MOVE)
 
 print("\n【T4】目标文件没有这个族 —— 逐字抄族头、按族序插进去")
-# graduated.md 没有 F17。把 problems.md 里某条 F17 改成 🎓，看族头会不会被正确造出来
+# 造夹具：把 graduated.md 的 F17 整族删掉（活档案里两边都有 F17 了，⛔ 不能再指望它天生缺）。
+# 再把 problems.md 里某条 F17 改成 🎓，看族头会不会被正确造出来。
 _p = open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
 _ents = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
 _f17 = [e for e in _ents if e.fam == "F17"]
-_target = _f17[1].num                       # 取中间一条，避开首尾特例
+_target = _f17[len(_f17) // 2].num          # 取中间一条，避开首尾特例
+_G_NO_F17 = drop_fam(G, "F17")
 def force_grad(text, num):
     lines = text.split("\n")
     for i, l in enumerate(lines):
@@ -170,9 +245,9 @@ def force_grad(text, num):
             lines[j] = re.sub(r"(连错[ 　]*)\d+", r"\g<1>0", lines[j])
             break
     return "\n".join(lines)
-with sandbox(p_text=force_grad(_p, _target)) as d:
+with sandbox(p_text=force_grad(_p, _target), g_text=_G_NO_F17) as d:
     g_before = read(d, "graduated.md")
-    ck("前提：graduated.md 原本没有 F17", "\n# F17 " not in g_before)
+    ck("前提：graduated.md 夹具里没有 F17", "\n# F17 " not in g_before)
     b0 = bodies()
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0, out[-500:])
@@ -199,7 +274,9 @@ print("\n【T5】新族排在全部族之前（at==0 边界）")
 _g = open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
 _cut = _g.index("\n# F14 ")
 _gsmall = _g[:_g.index("\n# F01 ")] + _g[_cut:]
-with sandbox(g_text=_gsmall) as d:
+# 待搬的 🎓 由 PRE_P 造（活档案本身已经搬干净了）；期望造出来的族 = OUT 里落在 F14 之前的那些族
+_WANT_FAMS = sorted({OUT_FAM[n] for n in OUT} - set(fams_in(_gsmall)))
+with sandbox(p_text=PRE_P, g_text=_gsmall) as d:
     ck("前提：目标档第一个族是 F14",
        re.search(r"^# (F\d\d)", read(d, "graduated.md"), re.M).group(1) == "F14")
     b0 = bodies(); e_before = errset()
@@ -207,8 +284,9 @@ with sandbox(g_text=_gsmall) as d:
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0, out[-600:])
     g_after = read(d, "graduated.md")
-    ck("造出了 F01 F05 F06 F07 F08 F11 六个族头",
-       all(f"\n# {f} " in g_after for f in ("F01", "F05", "F06", "F07", "F08", "F11")))
+    ck(f"造出了 {' '.join(_WANT_FAMS)} 共 {len(_WANT_FAMS)} 个族头",
+       bool(_WANT_FAMS) and all(f"\n# {f} " in g_after for f in _WANT_FAMS),
+       (_WANT_FAMS, fams_in(g_after)))
     ck("族序仍升序",
        [m.group(1) for m in re.finditer(r"^# (F\d\d)", g_after, re.M)] ==
        sorted(m.group(1) for m in re.finditer(r"^# (F\d\d)", g_after, re.M)))
@@ -216,13 +294,13 @@ with sandbox(g_text=_gsmall) as d:
     ck("条目数不变", len(b1) == n0)
     ck("正文逐字节不变", all(b0[k][1] == b1[k][1] for k in b0))
     ck("每个族头前都有 ---（除了第一个）",
-       all(re.search(r"\n---\n\n# " + f + " ", g_after) for f in
-           ("F05", "F06", "F07", "F08", "F11", "F14")))
+       all(re.search(r"\n---\n\n# " + f + " ", g_after) for f in fams_in(g_after)[1:]),
+       [f for f in fams_in(g_after)[1:] if not re.search(r"\n---\n\n# " + f + " ", g_after)])
     ck("check 报告没有比搬之前多（造数据把 F01–F12 砍掉了，并入目标找不到是自带的）",
        sum((errset() - e_before).values()) == 0, list((errset() - e_before).items())[:6])
 
 print("\n【T6】回滚 —— 自校不过必须两个文件都复原")
-with sandbox() as d:
+with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     p0, g0 = read(d, "problems.md"), read(d, "graduated.md")
     real = drill.split_file
     def poisoned(path):
@@ -253,28 +331,29 @@ with sandbox() as d:
 
 print("\n【T7】族与分段不一致 ⇒ 拒搬，⛔ 不写盘")
 _pbad = _p
+_BADNUM = next(e.num for e in _ents if e.state == "在池" and e.fam == "F01")
 _l = _pbad.split("\n")
 for i, l in enumerate(_l):
-    if l.startswith("## #0342"):
+    if l.startswith("## " + _BADNUM):
         _l[i + 1] = re.sub(r"^状态：\S+", "状态：🎓", _l[i + 1]).replace("族 F01", "族 F09")
         break
 with sandbox(p_text="\n".join(_l)) as d:
     p0, g0 = read(d, "problems.md"), read(d, "graduated.md")
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 1", rc == 1, rc)
-    ck("报告点名 #0342", "#0342" in out and "不一致" in out)
+    ck(f"报告点名 {_BADNUM}", _BADNUM in out and "不一致" in out, out[-400:])
     ck("两个文件都没写", read(d, "problems.md") == p0 and read(d, "graduated.md") == g0)
 
 print("\n【T8】--dry-run 不写盘")
-with sandbox() as d:
+with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     p0, g0 = read(d, "problems.md"), read(d, "graduated.md")
     rc, out = run(drill.cmd_migrate, Args(dry_run=True))
     ck("退出码 0", rc == 0)
     ck("两个文件逐字节不变", read(d, "problems.md") == p0 and read(d, "graduated.md") == g0)
-    ck("打了 11 条清单", out.count("#0") >= 11)
+    ck(f"打了 {N_MOVE} 条清单", out.count("#0") >= N_MOVE, out.count("#0"))
 
 print("\n【T9】搬完其余子命令照常照常跑")
-with sandbox() as d:
+with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     run(drill.cmd_migrate, Args())
     for name, fn, kw in (("stats", drill.cmd_stats, dict(brief=False)),
                          ("check --all", drill.cmd_check, dict(changed=False, all=True, quiet=True)),
@@ -289,25 +368,6 @@ with sandbox() as d:
     ck("dedup 仍能跨两档命中",
        len(drill.rank(ents, ["单复数"], limit=5)) > 0)
 
-
-P = open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
-G = open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
-
-def set_state(text, nums, state, ok=None, bad=None):
-    lines = text.split("\n")
-    for i, l in enumerate(lines):
-        m = re.match(r"^## (#\d{4})", l)
-        if m and m.group(1) in nums:
-            j = i + 1
-            lines[j] = re.sub(r"^状态：\S+", "状态：" + state, lines[j])
-            if ok is not None: lines[j] = re.sub(r"(连对[ 　]*)\d+", r"\g<1>" + str(ok), lines[j])
-            if bad is not None: lines[j] = re.sub(r"(连错[ 　]*)\d+", r"\g<1>" + str(bad), lines[j])
-    return "\n".join(lines)
-
-def nums_in(text, fam):
-    """problems.md 里某族的编号顺序"""
-    seg = text.split("\n# " + fam + " ")[1].split("\n# F")[0]
-    return re.findall(r"^## (#\d{4})", seg, re.M)
 
 print("\n【E1】搬走某族最后一条 ⇒ 族间 --- 必须留下")
 last_f01 = nums_in(P, "F01")[-1]
@@ -348,7 +408,7 @@ with sandbox(p_text=set_state(P, {"#0378"}, "🎓", 2, 0)) as d:
 
 print("\n【E3】整族搬空 ⇒ 空族段仍可解析，再搬回来还能落位")
 f17 = nums_in(P, "F17")
-with sandbox(p_text=set_state(P, set(f17), "🎓", 2, 0)) as d:
+with sandbox(p_text=set_state(P, set(f17), "🎓", 2, 0), g_text=_G_NO_F17) as d:
     b0 = bodies()
     rc, _ = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0)
@@ -383,9 +443,12 @@ with sandbox(p_text=P.rstrip("\n"), g_text=G.rstrip("\n")) as d:
 print("\n【E5】大批量 —— 把 problems.md 全部在池条目一次搬空")
 pool = [e.num for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
         if e.state == "在池"]
-with sandbox(p_text=set_state(P, set(pool), "🎓", 2, 0)) as d:
+with sandbox(p_text=set_state(P, set(pool), "🎓", 2, 0), g_text=_G_NO_F17) as d:
     b0 = bodies(); e0 = errset()
     p0, g0 = read(d, "problems.md"), read(d, "graduated.md")
+    # 「回潮」的 = 搬之前住在 graduated.md 里、状态已经不是 🎓 的那些（⛔ 不写死编号）
+    _back = sorted(e.num for e in drill.parse_file(drill.GRADUATED, "graduated.md")
+                   if e.state != "🎓")
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0, out[-500:])
     b1 = bodies()
@@ -401,9 +464,9 @@ with sandbox(p_text=set_state(P, set(pool), "🎓", 2, 0)) as d:
        all(nums_in(read(d, "graduated.md"), f) == sorted(nums_in(read(d, "graduated.md"), f))
            for f in re.findall(r"^# (F\d\d)", read(d, "graduated.md"), re.M)))
     ck("check 无新增", sum((errset() - e0).values()) == 0, list((errset() - e0).items())[:4])
-    ck("problems.md 只剩退池/并入 ＋ 从 graduated 回潮的 #0049 #0248",
+    ck("problems.md 只剩退池/并入 ＋ 从 graduated 回潮的 %s" % (" ".join(_back) or "（无）"),
        sorted(e.num for e in drill.load_all()
-              if e.src == "problems.md" and e.state == "在池") == ["#0049", "#0248"],
+              if e.src == "problems.md" and e.state == "在池") == _back,
        sorted(e.num for e in drill.load_all() if e.src == "problems.md" and e.state == "在池"))
     ck("再跑幂等", "无操作" in run(drill.cmd_migrate, Args())[1])
 

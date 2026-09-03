@@ -36,12 +36,14 @@ class Args:
         for k, v in kw.items(): setattr(self, k, v)
 
 @contextlib.contextmanager
-def sandbox(p_text=None):
+def sandbox(p_text=None, g_text=None):
     d = tempfile.mkdtemp(prefix="ask")
     for f in ("problems.md", "graduated.md", "review_pool.md", "log.md"):
         shutil.copy(os.path.join(WT, f), os.path.join(d, f))
     if p_text is not None:
         open(os.path.join(d, "problems.md"), "w", encoding="utf-8").write(p_text)
+    if g_text is not None:
+        open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g_text)
     old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL, drill.LOG, drill.DRAWN)
     drill.ROOT = d
     drill.PROBLEMS = os.path.join(d, "problems.md")
@@ -63,6 +65,7 @@ def run(fn, *a, **kw):
     return rc, buf.getvalue()
 
 P = open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
+G = open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
 
 def set_grid(text, num, grid):
     """给某条的状态行换 / 加题型格。grid=None ⇒ 去掉题型格。"""
@@ -84,6 +87,23 @@ def set_trigger_line(text, num, add):
         elif at is not None and l == "**中文触发点**":
             lines.insert(i + 1, add); return "\n".join(lines)
     raise SystemExit("找不到触发点 " + num)
+
+# ★ 夹具不许写死编号 —— 档案会动（2026-09-01 那次 migrate 把 #0005 搬进了 graduated.md，
+#   写死的夹具当场全崩）。改成**按条件从活档案里挑**，条件写在下面这一行里。
+def _pick_fixture():
+    """挑一条：住 problems.md · 在池 · 状态行没写题型格 · 有历史行且建号早于 ASK_FROM ·
+    非词表型 · 非挂作文验 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。"""
+    for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md"):
+        if (e.state == "在池" and e.ask is None and e.history and not e.members
+                and not e.essay_prose and e.fam not in drill.NO_PHRASE_FAMS
+                and e.created_on() and e.created_on() < drill.ASK_FROM):
+            return e.num
+    raise SystemExit("⛔ 档案里挑不出符合条件的夹具条目 —— 先看档案是不是变形了")
+
+
+_A = _pick_fixture()
+print(f"（夹具：_A = {_A}，从活档案按条件挑的，⛔ 不写死编号）")
+
 
 def probs(num):
     ents = drill.load_all(); nums = {e.num for e in ents}
@@ -114,11 +134,11 @@ for grid in ("整句", "词组", "作文验"):
         ck(f"显式写「题型 {grid}」解析得到 {grid}", e.ask == grid and e.ask_kind == grid, e.ask)
 
 print("\n【B】非法值与缺格")
-with sandbox(p_text=set_grid(P, "#0005", "句子")) as d:
-    _, pr = probs("#0005")
+with sandbox(p_text=set_grid(P, _A, "句子")) as d:
+    _, pr = probs(_A)
     ck("题型写成非法值 ⇒ ERROR", any("题型「句子」非法" in m for m in lv(pr, "ERROR")), pr)
 with sandbox() as d:
-    e, pr = probs("#0005")
+    e, pr = probs(_A)
     ck(f"{drill.ASK_FROM} 之前建的条目缺题型格 ⇒ 不报错",
        not any("缺「题型」格" in m for m in lv(pr, "ERROR")), pr)
 # 造一条「ASK_FROM 之后建的」：把某条**第一条**历史行的日期改掉
@@ -131,7 +151,7 @@ def make_late(text, num):
             lines[i] = re.sub(r"20\d\d-\d\d-\d\d", "2026-09-30", l, count=1)
             return "\n".join(lines)
     raise SystemExit("没找到历史行 " + num)
-_LATE_NUM = "#0005"
+_LATE_NUM = _A
 _late = make_late(P, _LATE_NUM)
 with sandbox(p_text=_late) as d:
     e, pr = probs(_LATE_NUM)
@@ -146,10 +166,35 @@ with sandbox(p_text=set_grid(make_late(P, _LATE_NUM), _LATE_NUM, "整句")) as d
 
 print("\n【C】词组的三条硬闸")
 _ents_p = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
-_byfam = {}
+_ents_g = drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")
+_byfam, _srcfam = {}, {}
 for e in _ents_p:
     if e.state == "在池" and not e.members and not e.essay_prose:
         _byfam.setdefault(e.fam, e.num)
+        _srcfam.setdefault(e.fam, "P")
+# ★ 族覆盖⛔不许随档案缩水：某族的在池条目全毕业了（09-01 之后 F11 F15 F18 就是），
+#   就从 graduated.md 借一条来测 —— 这一段测的是**族的判据**，与条目死活无关。
+for e in _ents_g:
+    if e.fam not in _byfam and not e.members and not e.essay_prose:
+        _byfam[e.fam] = e.num
+        _srcfam[e.fam] = "G"
+_missing = [f for f in drill.FAMILIES if f not in _byfam]
+ck("C 段族覆盖 = 全部 %d 个族（⛔ 不许因为某族全毕业就少测）" % len(drill.FAMILIES),
+   not _missing, _missing)
+
+
+def _fixture(num):
+    """把某条标成「题型 词组」——它住哪个文件就改哪个文件。"""
+    if _srcfam.get(_bynum_fam(num)) == "G":
+        return dict(g_text=set_grid(G, num, "词组"))
+    return dict(p_text=set_grid(P, num, "词组"))
+
+
+def _bynum_fam(num):
+    for e in _ents_p + _ents_g:
+        if e.num == num:
+            return e.fam
+    raise SystemExit("找不到 " + num)
 # C1 词表型（挂成员出题账）不许标词组 —— 挑一条住 problems.md 的在池词表型
 _wl = next(e.num for e in _ents_p if e.members and e.state == "在池"
            and e.fam not in drill.NO_PHRASE_FAMS)
@@ -162,20 +207,22 @@ with sandbox(p_text=set_grid(P, _wl, "词组")) as d:
 for fam in sorted(drill.NO_PHRASE_FAMS):
     if fam not in _byfam: continue
     num = _byfam[fam]
-    with sandbox(p_text=set_grid(P, num, "词组")) as d:
+    with sandbox(**_fixture(num)) as d:
         _, pr = probs(num)
         ck(f"{fam}（句子层）标词组 ⇒ ERROR  [{num}]",
            any("不许标词组" in m for m in lv(pr, "ERROR")), lv(pr, "ERROR"))
 allowed = [f for f in drill.FAMILIES if f not in drill.NO_PHRASE_FAMS and f in _byfam]
+# C3/F 段要在 problems.md 里改，挑一个住 problems.md 的
+allowed_p = [f for f in allowed if _srcfam.get(f) == "P"] or allowed
 for fam in allowed:
     num = _byfam[fam]
-    with sandbox(p_text=set_grid(P, num, "词组")) as d:
+    with sandbox(**_fixture(num)) as d:
         _, pr = probs(num)
         ck(f"{fam}（非句子层）标词组 ⇒ 不报 ERROR  [{num}]",
            not any("不许标词组" in m for m in lv(pr, "ERROR")), lv(pr, "ERROR"))
 # C3 词组题面里有句号 ⇒ WARN
-_num = _byfam[allowed[0]]
-with sandbox(p_text=set_grid(P, _num, "词组")) as d:
+_num = _byfam[allowed_p[0]]
+with sandbox(**_fixture(_num)) as d:
     e, pr = probs(_num)
     has_period = "。" in e.trigger
     ck("词组 ＋ 触发点里有句号 ⇒ WARN",
@@ -183,14 +230,14 @@ with sandbox(p_text=set_grid(P, _num, "词组")) as d:
        (has_period, lv(pr, "WARN")))
 
 print("\n【D】作文验：状态行是真源，散文是理由")
-with sandbox(p_text=set_grid(P, "#0005", "作文验")) as d:
-    e, pr = probs("#0005")
+with sandbox(p_text=set_grid(P, _A, "作文验")) as d:
+    e, pr = probs(_A)
     ck("标了作文验、散文里没理由行 ⇒ WARN",
        any("没有那句理由行" in m for m in lv(pr, "WARN")), lv(pr, "WARN"))
     ck("标了作文验 ⇒ essay_only 成立（不进复习组）", e.essay_only)
     rc, out = run(drill.cmd_pick, Args(type="review"))
-    ck("pick 把它排除出候选池", "#0005" not in out.split("挂作文验")[1].split("候选池")[0]
-       or "#0005" in out.split("⛔ 另有")[1][:400], out[:0])
+    ck("pick 把它排除出候选池", _A not in out.split("挂作文验")[1].split("候选池")[0]
+       or _A in out.split("⛔ 另有")[1][:400], out[:0])
 with sandbox(p_text=set_grid(P, "#0053", None)) as d:   # 把已回标的 #0053 退回散文态
     e, pr = probs("#0053")
     ck("散文写着「不出单点题」、状态行没标 ⇒ 存量提示（INFO，不是 ERROR）",
@@ -201,7 +248,21 @@ with sandbox(p_text=set_grid(P, "#0053", None)) as d:   # 把已回标的 #0053 
 print("\n【E】count 的新 slug")
 with sandbox() as d:
     ents = drill.load_all()
-    for slug, want in (("ask-essay", 44), ("ask-phrase", 0)):
+    # ★★ 期望值⛔不许拿被测对象（`ask_kind`）自己算 —— 那样口径整体错了也照样绿。
+    #    改成在**夹具文本上直接数状态行第 7 格**，两个独立来源互相印证（她 2026-09-02 定）。
+    _txt = (open(os.path.join(d, "problems.md"), encoding="utf-8").read()
+            + open(os.path.join(d, "graduated.md"), encoding="utf-8").read())
+    _grep = lambda g: len(re.findall(r"^状态：.*｜\s*题型\s*" + g + r"\s*$", _txt, re.M))
+    _want = {"ask-essay": _grep("作文验"), "ask-phrase": _grep("词组")}
+    ck("期望值来自 grep 状态行（⛔ 不是 ask_kind 自己算的）",
+       _want["ask-essay"] > 0 and _want["ask-phrase"] > 0, _want)
+    ck("grep 出来的作文验条数 == ask_kind 数出来的（两个独立来源对得上）",
+       _want["ask-essay"] == sum(1 for e in ents if e.ask == "作文验"),
+       (_want["ask-essay"], sum(1 for e in ents if e.ask == "作文验")))
+    ck("grep 出来的词组条数 == ask_kind 数出来的",
+       _want["ask-phrase"] == sum(1 for e in ents if e.ask == "词组"),
+       (_want["ask-phrase"], sum(1 for e in ents if e.ask == "词组")))
+    for slug, want in (("ask-essay", _want["ask-essay"]), ("ask-phrase", _want["ask-phrase"])):
         rc, out = run(drill.cmd_count, Args(type=slug))
         ck(f"count --type {slug} 跑得动且数对",
            rc == 0 and f"全档 {want} 条" in out, out[:200])
@@ -213,8 +274,8 @@ with sandbox() as d:
            and e.state in ("在池", "🎓")) == 0)
 
 print("\n【F】pick 卡片认得词组")
-_num = _byfam[allowed[0]]
-with sandbox(p_text=set_grid(P, _num, "词组")) as d:
+_num = _byfam[allowed_p[0]]          # pick 只出【在池】⇒ 必须挑住 problems.md 的
+with sandbox(**_fixture(_num)) as d:
     rc, out = run(drill.cmd_pick, Args(type="review", full=False))
     ck("pick 头部报了词组条数", "条词组型" in out, out[:0])
     if _num in out:
@@ -225,15 +286,15 @@ with sandbox(p_text=set_grid(P, _num, "词组")) as d:
         ck(f"{_num} 出现在本次计划里", False, "没被抽到，换一条再测")
 
 print("\n【G】append 不会被第 7 格弄坏")
-with sandbox(p_text=set_grid(P, "#0005", "词组")) as d:
-    e0, _ = probs("#0005")
+with sandbox(p_text=set_grid(P, _A, "词组")) as d:
+    e0, _ = probs(_A)
     before = e0.status_raw
     rows = os.path.join(d, "rows.md")
     open(rows, "w", encoding="utf-8").write(
-        "#0005 ✅ 测试组 第 1 题\n  测试用内容行。\n")
+        f"{_A} ✅ 测试组 第 1 题\n  测试用内容行。\n")
     rc, out = run(drill.cmd_append, Args(file=rows, date="2026-09-30"))
     ck("append 退出码 0", rc == 0, out[-400:])
-    e1, pr = probs("#0005")
+    e1, pr = probs(_A)
     ck("题型格没被 append 改掉", e1.ask == "词组", e1.status_raw)
     ck("连对/上次 照常重算", e1.last == "2026-09-30" and e1.ok == (e0.ok or 0) + 1,
        (e1.ok, e1.last))
