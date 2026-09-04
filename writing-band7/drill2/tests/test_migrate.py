@@ -129,24 +129,39 @@ def drop_fam(text, fam):
 #        problems.md  每族挑 1 条【在池】改 🎓      （🎓 不查「连对到线」）
 #        graduated.md 挑 2 条 🎓 改【退池】         （退池 check 直接 return，不查数）
 #    搬迁的期望值全部从这两个集合**推出来**，⛔ 不写死编号、不写死条数。
+#    ⚠️ 2026-09-03 再补一刀：活档案也可能**本来就有待搬的**（当天判完还没跑收尾 migrate 时
+#      就是这个状态）。夹具⛔不许假设"活档案已经搬干净" ——
+#      期望集合 ＝ 【本来就待搬的】∪【夹具自己造的】，两部分都从**当场解析**推出来。
+def gaps_ok(_ignored=None):
+    """两个文件的缝是不是全规范（用 drill 的唯一定义，⛔ 测试里不另写一套）。"""
+    return drill.gap_anomalies(drill.PROBLEMS) == [] and drill.gap_anomalies(drill.GRADUATED) == []
+
+
 def _make_pre():
     pe = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
     ge = drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")
-    out, fams, seen = [], {}, set()
+    pend_out = [e.num for e in pe if e.state == "🎓"]        # 已经在 problems.md 里等着出去的
+    fam_all = {e.num: e.fam for e in pe}                     # 族查表：待搬的那些也要能查到
+    pend_back = [e.num for e in ge if e.state != "🎓"]       # 已经在 graduated.md 里等着回来的
+    flip_out, fams, seen = [], {}, set()
     for e in pe:
         if e.state == "在池" and e.fam not in seen:
             seen.add(e.fam)
-            out.append(e.num)
+            flip_out.append(e.num)
             fams[e.num] = e.fam
-        if len(out) == 9:
+        if len(flip_out) == 9:
             break
-    back = [e.num for e in ge if e.state == "🎓"][:2]
-    return out, back, fams
+    flip_back = [e.num for e in ge if e.state == "🎓"][:2]
+    for n in pend_out:
+        fams[n] = fam_all[n]
+    return flip_out, flip_back, pend_out, pend_back, fams
 
 
-OUT, BACK, OUT_FAM = _make_pre()
-PRE_P = set_state(P, set(OUT), "🎓")
-PRE_G = set_state(G, set(BACK), "退池")
+FLIP_OUT, FLIP_BACK, PEND_OUT, PEND_BACK, OUT_FAM = _make_pre()
+OUT = FLIP_OUT + PEND_OUT          # 期望：problems → graduated
+BACK = FLIP_BACK + PEND_BACK       # 期望：graduated → problems
+PRE_P = set_state(P, set(FLIP_OUT), "🎓")
+PRE_G = set_state(G, set(FLIP_BACK), "退池")
 N_MOVE = len(OUT) + len(BACK)
 print(f"（夹具：造 {len(OUT)} 条 problems→graduated · {len(BACK)} 条 graduated→problems，"
       f"⛔ 只改状态行第 1 格）")
@@ -205,7 +220,7 @@ with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     ck("problems.md 逐字节不变", read(d, "problems.md") == p1)
     ck("graduated.md 逐字节不变", read(d, "graduated.md") == g1)
 
-    print("\n【T3】回程 —— 把 11 条状态改回去，再搬一次")
+    print(f"\n【T3】回程 —— 把 {N_MOVE} 条状态改回去，再搬一次")
     def flip(path, nums, to):
         lines = open(path, encoding="utf-8").read().split("\n")
         ents = drill.parse_file(path, os.path.basename(path))
@@ -219,7 +234,7 @@ with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     rc3, out3 = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc3 == 0, out3[-400:])
     b3 = bodies()
-    ck("11 条都回到原来的文件", all(b3[k][0] == b0[k][0] for k in mv),
+    ck(f"{N_MOVE} 条都回到原来的文件", all(b3[k][0] == b0[k][0] for k in mv),
        [(k, b0[k][0], b3[k][0]) for k in mv if b3[k][0] != b0[k][0]])
     ck(f"全档正文除了那 {N_MOVE} 条的状态行外逐字节不变",
        all(b3[k][1] == b0[k][1] for k in b0 if k not in mv))
@@ -228,13 +243,25 @@ with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
             - (nonblank(p0) + nonblank(g0))).values()) == N_MOVE)
 
 print("\n【T4】目标文件没有这个族 —— 逐字抄族头、按族序插进去")
-# 造夹具：把 graduated.md 的 F17 整族删掉（活档案里两边都有 F17 了，⛔ 不能再指望它天生缺）。
-# 再把 problems.md 里某条 F17 改成 🎓，看族头会不会被正确造出来。
+# 造夹具：挑一个**两边都有条目**的族，把 graduated.md 里它那一整族删掉，
+# 再把 problems.md 里同族的某条改成 🎓，看族头会不会被正确造出来。
+# ⚠️ 2026-09-03：原来这里写死了 F17 —— 那天 F17 的 4 条全部毕业搬走 ⇒ problems.md 里一条不剩
+#    ⇒ `_f17[len//2]` 直接 IndexError。按 §0.6 夹具纪律改成**当场从活档案挑**，⛔ 不写死族号。
 _p = open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
 _ents = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
-_f17 = [e for e in _ents if e.fam == "F17"]
+_gents = drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")
+_gfams = {e.fam for e in _gents}
+_bypfam = {}
+for e in _ents:
+    _bypfam.setdefault(e.fam, []).append(e)
+_cand = [f for f in sorted(_bypfam) if f in _gfams and len(_bypfam[f]) >= 1]
+assert _cand, "活档案里找不到【两边都有】的族 —— 夹具无法构造"
+_FAM = _cand[len(_cand) // 2]               # 取中间那个族，避开首尾特例
+_f17 = _bypfam[_FAM]
 _target = _f17[len(_f17) // 2].num          # 取中间一条，避开首尾特例
-_G_NO_F17 = drop_fam(G, "F17")
+_m_head = re.search(r"^(# " + _FAM + r" .*)\n\n(> .*)$", _p, re.M)
+_FAM_HEAD, _FAM_DESC = _m_head.group(1), _m_head.group(2)
+_G_NO_F17 = drop_fam(G, _FAM)
 def force_grad(text, num):
     lines = text.split("\n")
     for i, l in enumerate(lines):
@@ -247,19 +274,19 @@ def force_grad(text, num):
     return "\n".join(lines)
 with sandbox(p_text=force_grad(_p, _target), g_text=_G_NO_F17) as d:
     g_before = read(d, "graduated.md")
-    ck("前提：graduated.md 夹具里没有 F17", "\n# F17 " not in g_before)
+    ck(f"前提：graduated.md 夹具里没有 {_FAM}", "\n# " + _FAM + " " not in g_before)
     b0 = bodies()
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0, out[-500:])
     g_after = read(d, "graduated.md")
-    ck("graduated.md 造出了 F17 族头", "\n# F17 T1 整句仿写\n" in g_after)
-    fam_p = re.search(r"^# F17 .*\n\n> .*$", _p, re.M).group(0)
+    ck(f"graduated.md 造出了 {_FAM} 族头", "\n" + _FAM_HEAD + "\n" in g_after)
+    fam_p = re.search(r"^# " + _FAM + r" .*\n\n> .*$", _p, re.M).group(0)
     ck("族头两行与 problems.md 逐字相同", fam_p in g_after, fam_p)
-    ck("族序正确：F15 … F17 … F18",
+    ck(f"族序正确：{_FAM} 插在正确位置",
        [m.group(1) for m in re.finditer(r"^# (F\d\d)", g_after, re.M)] ==
        sorted([m.group(1) for m in re.finditer(r"^# (F\d\d)", g_after, re.M)]))
-    ck("F17 段与前后族之间都有 ---",
-       re.search(r"\n---\n\n# F17 ", g_after) is not None and
+    ck(f"{_FAM} 段与前后族之间都有 ---",
+       re.search(r"\n---\n\n# " + _FAM + " ", g_after) is not None and
        re.search(r"\n---\n\n# F18 ", g_after) is not None)
     b1 = bodies()
     ck(f"{_target} 换到了 graduated.md", b1[_target][0] == "graduated.md")
@@ -392,30 +419,89 @@ with sandbox(p_text=set_state(P, {last_f01}, "🎓", 2, 0)) as d:
        not re.search(r"\n\n\n+(---\n)?\n?# F02 ", after))
     ck("check 无新增", sum((errset() - errset()).values()) == 0)
 
-print("\n【E2】搬走带 --- 前缀缝的条目（problems.md #0378 前面就是 ---）")
-with sandbox(p_text=set_state(P, {"#0378"}, "🎓", 2, 0)) as d:
+print("\n【E2】搬走【本族最后一条】—— 族间的 --- 必须留在来源、⛔ 不许跟着走")
+# ⚠️ 2026-09-03 重写：原来这一条钉在"活档案里 #0378 前面正好有个 ---"上（那是族内杂散缝，
+#    当天已规范化，而且新的第 5 项自校会直接**拒绝**带杂散缝的档案 ⇒ 见 E2b）。
+#    这里改测真正该测的形状：**块自己的缝就是族边界**（本族最后一条）。
+def _pick_last_in_fam(text):
+    """挑一条【本族最后一条】的在池条目（它后面紧跟着下一个族头）。"""
+    ents = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
+    st = {e.num: e.state for e in ents}
+    heads = [(m.start(), m.group(1), m.group(2)) for m in
+             re.finditer(r"^(?:(# F\d\d) |## (#\d{4}) )", text, re.M)]
+    for k in range(len(heads) - 1):
+        _, fam, num = heads[k]
+        if num and heads[k + 1][1] and st.get(num) == "在池":
+            return num
+    return None
+
+_LAST = _pick_last_in_fam(P)
+with sandbox(p_text=set_state(P, {_LAST}, "🎓", 2, 0)) as d:
     before = read(d, "problems.md")
-    ck("前提：#0378 前面隔着 ---", re.search(r"\n---\n\n## #0378 ", before) is not None)
+    ck(f"前提：{_LAST} 是本族最后一条（后面紧跟族头）",
+       re.search(r"\n## " + _LAST + r" [^\n]*\n(?:.*\n)*?---\n\n# F", before) is not None)
     b0 = bodies()
     rc, out = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0, out[-400:])
     b1 = bodies()
-    ck("#0378 到了 graduated.md", b1["#0378"][0] == "graduated.md")
+    ck(f"{_LAST} 到了 graduated.md", b1[_LAST][0] == "graduated.md")
     ck("正文逐字节不变", all(b0[k][1] == b1[k][1] for k in b0))
+    ck("来源的族边界 --- 还在（⛔ 没被带走）",
+       gaps_ok(read(d, "problems.md")), drill.gap_anomalies(drill.PROBLEMS)[:3])
     ck("搬到目标后前面是普通空行缝，⛔ 没把 --- 带过去",
-       re.search(r"\n\n## #0378 ", read(d, "graduated.md")) is not None and
-       re.search(r"\n---\n\n## #0378 ", read(d, "graduated.md")) is None)
+       re.search(r"\n---\n\n## " + _LAST + " ", read(d, "graduated.md")) is None)
+
+print("\n【E2b】缝守恒 —— 2026-09-03 加的第 5 项自校（她：「migrate 行数一直不平，说明 check 的不靠谱呀」）")
+# 活档案的缝已经规范化 ⇒ 这里**自己造**一处不规范的缝，验两件事：
+#   ① check 当场报 ERROR   ② migrate 拒绝落盘并整批回滚（旧的四项自校对这个是瞎的）
+def _pick_mid_entry(text):
+    """挑一条前面紧挨着另一个条目（⇒ 不是族内第一条）的在池条目。"""
+    ents = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
+    st = {e.num: e.state for e in ents}
+    prev_is_entry = False
+    for m in re.finditer(r"^(# F\d\d |## (#\d{4}) )", text, re.M):
+        if m.group(2):
+            if prev_is_entry and st.get(m.group(2)) == "在池":
+                return m.group(2)
+            prev_is_entry = True
+        else:
+            prev_is_entry = False
+    return None
+
+
+_MID2 = _pick_mid_entry(P)
+_p_bad = set_state(P, {_MID2}, "🎓", 2, 0).replace(f"\n\n## {_MID2} ", f"\n\n\n---\n\n## {_MID2} ")
+with sandbox(p_text=_p_bad) as d:
+    ck("前提（夹具造的）：档案里有不规范的缝", len(drill.gap_anomalies(drill.PROBLEMS)) > 0)
+    rc_c, out_c = run(drill.cmd_check, Args(changed=False, quiet=True, all=True))
+    ck("check 把不规范的缝报成 ERROR", rc_c == 1 and "缝" in out_c,
+       [l for l in out_c.split("\n") if "ERROR" in l][:3])
+    before = read(d, "problems.md")
+    rc_m, out_m = run(drill.cmd_migrate, Args())
+    ck("migrate 拒绝落盘（退出码 1）", rc_m == 1, out_m[-400:])
+    ck("problems.md 逐字节回滚", read(d, "problems.md") == before)
+    ck("回滚理由里点名了「缝」或「丢」", ("缝" in out_m or "丢了" in out_m), out_m[-300:])
+
+with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
+    rc, out = run(drill.cmd_migrate, Args())
+    ck("缝规范的档案照常搬（退出码 0）", rc == 0)
+    ck("搬完两个文件的缝全部规范",
+       drill.gap_anomalies(drill.PROBLEMS) == [] and drill.gap_anomalies(drill.GRADUATED) == [],
+       drill.gap_anomalies(drill.PROBLEMS)[:3] + drill.gap_anomalies(drill.GRADUATED)[:3])
+    ck("搬完非空行一行没丢（行数一加一减对得上）",
+       sum(nonblank(read(d, "problems.md")).values()) + sum(nonblank(read(d, "graduated.md")).values())
+       >= sum(nonblank(PRE_P).values()) + sum(nonblank(PRE_G).values()))
 
 print("\n【E3】整族搬空 ⇒ 空族段仍可解析，再搬回来还能落位")
-f17 = nums_in(P, "F17")
+f17 = nums_in(P, _FAM)
 with sandbox(p_text=set_state(P, set(f17), "🎓", 2, 0), g_text=_G_NO_F17) as d:
     b0 = bodies()
     rc, _ = run(drill.cmd_migrate, Args())
     ck("退出码 0", rc == 0)
     p_after = read(d, "problems.md")
-    ck("problems.md 的 F17 族头还在（空族段保留）", "\n# F17 " in p_after)
-    ck(f"F17 段已清空（原 {len(f17)} 条）", nums_in(p_after, "F17") == [])
-    ck("graduated.md 建出了 F17 段", nums_in(read(d, "graduated.md"), "F17") == f17)
+    ck(f"problems.md 的 {_FAM} 族头还在（空族段保留）", "\n# " + _FAM + " " in p_after)
+    ck(f"{_FAM} 段已清空（原 {len(f17)} 条）", nums_in(p_after, _FAM) == [])
+    ck(f"graduated.md 建出了 {_FAM} 段", nums_in(read(d, "graduated.md"), _FAM) == f17)
     ck("空族段照样能解析", len(drill.load_all()) == len(b0))
     # 全部降级搬回
     _demoted = set_state(read(d, "graduated.md"), set(f17), "在池", 1, 0)
@@ -423,8 +509,8 @@ with sandbox(p_text=set_state(P, set(f17), "🎓", 2, 0), g_text=_G_NO_F17) as d
     rc, out = run(drill.cmd_migrate, Args())
     ck("回搬退出码 0", rc == 0, out[-400:])
     p_back = read(d, "problems.md")
-    ck("F17 全部回到 problems.md 且顺序不变", nums_in(p_back, "F17") == f17)
-    ck("graduated.md 的空 F17 段仍在", "\n# F17 " in read(d, "graduated.md"))
+    ck(f"{_FAM} 全部回到 problems.md 且顺序不变", nums_in(p_back, _FAM) == f17)
+    ck(f"graduated.md 的空 {_FAM} 段仍在", "\n# " + _FAM + " " in read(d, "graduated.md"))
     b1 = bodies()
     ck("正文只差状态行", sum(1 for k in b0 if b0[k][1] != b1[k][1]) == len(f17))
 
@@ -457,8 +543,8 @@ with sandbox(p_text=set_state(P, set(pool), "🎓", 2, 0), g_text=_G_NO_F17) as 
     _a = nonblank(p0) + nonblank(g0)
     _b = nonblank(read(d, "problems.md")) + nonblank(read(d, "graduated.md"))
     ck("一行都没丢", sum((_a - _b).values()) == 0, list((_a - _b).items())[:8])
-    ck("多出来的只有新建的 F17 族头两行（逐字抄自 problems.md）",
-       sorted(k for k in (_b - _a)) == ["# F17 T1 整句仿写", "> 整句级改写"],
+    ck(f"多出来的只有新建的 {_FAM} 族头两行（逐字抄自 problems.md）",
+       sorted(k for k in (_b - _a)) == sorted([_FAM_HEAD, _FAM_DESC]),
        list((_b - _a).items())[:8])
     ck("graduated.md 每族内仍升序",
        all(nums_in(read(d, "graduated.md"), f) == sorted(nums_in(read(d, "graduated.md"), f))

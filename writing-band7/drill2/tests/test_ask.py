@@ -123,10 +123,16 @@ with sandbox() as d:
        sum(1 for e in ents if e.ask_kind == "整句") +
        sum(1 for e in ents if e.ask_kind == "词组") +
        sum(1 for e in ents if e.ask_kind == "作文验") == len(ents))
-    ck("回标后 44 条题型 = 作文验",
-       sum(1 for e in ents if e.ask == "作文验") == 44)
-    ck("essay_only 仍是 45 条（含并入的 #0218 靠散文认出来）",
-       sum(1 for e in ents if e.essay_only) == 45)
+    # ⚠️ 2026-09-03：原来这两条写死「44 条」「45 条」—— 每天新挂一条作文验就红一次
+    #    （09-03 把 #0108 改挂作文验，两条当场失效）。按 §0.6 夹具纪律改成**结构不变式**：
+    ck("标了「题型 作文验」的，essay_only 一定认得出来（⇒ 前者是后者的子集）",
+       {e.num for e in ents if e.ask == "作文验"} <= {e.num for e in ents if e.essay_only},
+       sorted({e.num for e in ents if e.ask == "作文验"} - {e.num for e in ents if e.essay_only}))
+    _only_prose = {e.num for e in ents if e.essay_only and e.ask != "作文验"}
+    ck("多出来的那些，全部是**只在触发点散文里**写着「不出单点题」的（过渡期并集）",
+       all(any("不出单点题" in x for x in (e.trigger or "").split("\n"))
+           for e in ents if e.num in _only_prose),
+       sorted(_only_prose))
 
 for grid in ("整句", "词组", "作文验"):
     with sandbox(p_text=set_grid(P, "#0053", grid)) as d:
@@ -299,6 +305,42 @@ with sandbox(p_text=set_grid(P, _A, "词组")) as d:
     ck("连对/上次 照常重算", e1.last == "2026-09-30" and e1.ok == (e0.ok or 0) + 1,
        (e1.ok, e1.last))
     ck("状态行仍然是七格", e1.status_raw.count("｜") == 6, e1.status_raw)
+
+# ══════════════════════════════════════════════════════════════════════
+#  【F】append 插到本族最后一条时，⛔ 不许把族边界 --- 顶进条目内部
+#      （2026-09-03 实测到的 bug：新历史行被插到 --- 的下面）
+# ══════════════════════════════════════════════════════════════════════
+print("\n【F】append × 本族最后一条 —— 族边界 --- 必须留在条目之后")
+import re as _re
+
+
+def _last_in_fam(text):
+    """挑一条【本族最后一条】的在池条目（后面紧跟着下一个族头）。"""
+    ents = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
+    st = {e.num: e.state for e in ents}
+    heads = [(m.group(1), m.group(2)) for m in
+             _re.finditer(r"^(?:(# F\d\d) |## (#\d{4}) )", text, _re.M)]
+    for k in range(len(heads) - 1):
+        fam, num = heads[k]
+        if num and heads[k + 1][0] and st.get(num) == "在池":
+            return num
+    return None
+
+
+_LAST = _last_in_fam(P)
+with sandbox() as d:
+    rows = os.path.join(d, "rows.md")
+    open(rows, "w", encoding="utf-8").write(
+        f"{_LAST} 📝 回归测试用的一行\n  测试内容行（⛔ 不进真档案，只在临时副本里）\n")
+    rc, out = run(drill.cmd_append, Args(file=rows, date="2026-09-03", dry_run=False))
+    ck(f"append 退出码 0（{_LAST}）", rc == 0, out[-400:])
+    after = open(drill.PROBLEMS, encoding="utf-8").read()
+    ck("新历史行**在**族边界 --- 之前",
+       _re.search(r"回归测试用的一行(?:.*\n)*?\n---\n\n# F", after) is not None,
+       after[after.index(f"## {_LAST} "):][:1600][-500:])
+    ck("缝仍然全部规范（族边界没被顶进条目里）",
+       drill.gap_anomalies(drill.PROBLEMS) == [], drill.gap_anomalies(drill.PROBLEMS)[:3])
+    ck("check 无 ERROR", run(drill.cmd_check, Args(changed=False, quiet=True, all=True))[0] == 0)
 
 print("\n" + "═" * 70)
 print(f"题型回归测试 · 通过 {len(PASS)} · 失败 {len(FAIL)}")

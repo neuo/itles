@@ -9,12 +9,21 @@
 覆盖：
   A  pick --type review：今天已判过的沉底 · 学习日排序一个字没动 ·
      同日重跑分组一致 · N=0 时不打印那一行
+  A3 pick 的「建号当天不回考」（2026-09-03 上线）：建号日 ＝ 今天的⛔不进池 ·
+     同类但建号日 ≠ 今天的仍在 · 报告逐条列编号 · 学习日与复习日都过滤 ·
+     ⛔ 判据是第一条历史行、不是「上次」那一格
   B  deliver：一个 ／ 两个 ／ 零个 `## 回看` 节 · 两节各自块数守恒 ·
      某一节缺件时只有那一节报 ERROR
   C  trigger：正常搬运 · 幂等 · graduated.md 整批不写 · 题型＝词组拒绝 ·
      --dry-run 不写盘 · 自校失败整批回滚
   D  deliver --emit：ERROR>0 拒绝 emit · ERROR=0 输出与 session 逐字节一致 ·
      表格⛔不进围栏 · --section 省略时逐节 emit
+  H  deliver 的条件性子件「新建条目的正文」（2026-09-03 上线）：报了新建就必须发正文 ·
+     少写一条正文点名缺号 · 没报／报 0 条 ⇒ ⛔ 不要求 · 09-03 之前是存量提示 ·
+     「组」与「新题」都吃、回看⛔ 不吃
+  G  lookback（2026-09-03 上线）：目标 ＝ 最近一篇【没被回看过】的新题 ·
+     标题行没题号的 `## 回看` ⛔ 不算回看 · 多篇未回看取最近 · 今天写的那篇⛔不作目标 ·
+     认不出题号／drawn.log 孤儿逐条列 · 只读（⛔ 不写任何文件）· pick --type learn 头部那一行
 """
 import io, os, re, shutil, sys, tempfile, contextlib
 from collections import Counter
@@ -96,18 +105,44 @@ def set_grid(text, num, grid):
     raise SystemExit("找不到 " + num)
 
 
-def inject_today(text, nums, day):
-    """给指定条目塞一条【当天的判定行】—— 只为测 pick 的排序，⛔ 不动状态行。"""
-    out, cur = [], None
+def inject_row(text, nums, day, sym, note):
+    """给指定条目的【历史记录节末尾】追加一条当天的行 —— 只为测 pick，⛔ 不动状态行、⛔ 不动任何数。
+
+    ★ 2026-09-03 改成追加到节**末尾**（原写法插在 `### 历史记录` 的**下一行** ⇒ 那一行就成了
+      **第一条历史行** ＝ 契约里的「建号日」，会被新规则『建号当天不回考』当成今天新建的挡掉）。
+      判定行本来就该按时间追加在最后（契约⑧「上次 ＝ 最后一条历史行」），原写法是夹具写反了。
+    ⛔ 只加行，不碰条目之间的缝（契约⑭）：先摘掉尾部空行，追加，再原样放回。"""
+    out, cur, in_hist = [], None, False
+
+    def flush():
+        while out and not out[-1].strip():
+            tail.append(out.pop())
+        out.append("- %s %s %s" % (day, sym, note))
+        out.append("  测试注入的内容行。")
+        while tail:
+            out.append(tail.pop())
+
     for l in text.split("\n"):
-        out.append(l)
         m = re.match(r"^## (#\d{4})", l)
+        boundary = bool(m) or l.strip() == "---" or l.startswith("# ")
+        if in_hist and boundary:
+            tail = []
+            flush()
+            in_hist = False
         if m:
             cur = m.group(1)
+        out.append(l)
         if cur in nums and l.strip() == "### 历史记录":
-            out.append("- %s ✅ 测试注入" % day)
-            out.append("  测试注入的内容行。")
+            in_hist = True
+    if in_hist:
+        tail = []
+        flush()
     return "\n".join(out)
+
+
+def inject_today(text, nums, day):
+    """给指定条目塞一条【当天的判定行】—— 只为测 pick 的排序，⛔ 不动状态行。"""
+    return inject_row(text, nums, day, "✅", "测试注入")
 
 
 def set_state_col(text, num, state):
@@ -135,16 +170,7 @@ def add_stray_fence(text, num):
 
 def inject_trace(text, nums, day):
     """同上，但塞的是【留痕行 📝】—— 它⛔不算「今天已经判过」。"""
-    out, cur = [], None
-    for l in text.split("\n"):
-        out.append(l)
-        m = re.match(r"^## (#\d{4})", l)
-        if m:
-            cur = m.group(1)
-        if cur in nums and l.strip() == "### 历史记录":
-            out.append("- %s 📝 测试留痕" % day)
-            out.append("  测试注入的内容行。")
-    return "\n".join(out)
+    return inject_row(text, nums, day, "📝", "测试留痕")
 
 
 RE_CARD = re.compile(r"^\s+(#\d{4})\s+F\d\d\s")
@@ -202,12 +228,123 @@ with sandbox() as d:
 with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
              g_text=inject_today(G, set(HEAD3), DAY)) as d:
     rc, learn1, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
-    ck("注入「今天已判过」后，学习日输出逐字一致（⛔ 不受新排序影响）",
-       learn1 == learn0)
+    # ⚠️ 2026-09-03：她定了学习日的第二条通道（`untested` ⇒ 无条件进池，SKILL §4①）之后，
+    #    「注入一条判定」**本来就会**把那一条移出 untested ⇒ 逐字一致不再成立，也不该成立。
+    #    这一条要守的东西没变：**复习日那套「今天已判过沉底」的排序⛔不许渗进学习日**。
+    #    ⇒ 改成结构不变式：学习日的卡片顺序只应少掉刚被注入判定的那几条，其余顺序一字不动。
+    _gone = set(HEAD3)
+    # ⚠️ 顺序不能拿来比：学习日是 `random.Random(日期).shuffle(候选池)`，
+    #    池子长度一变，整个排列就变 ⇒ 这里只能比**集合**。
+    ck("注入「今天已判过」后，学习日的候选集合＝原集合减掉那几条（⛔ 不多不少）",
+       set(card_order(learn1)) == set(card_order(learn0)) - _gone,
+       (sorted(set(card_order(learn0)) - set(card_order(learn1))), sorted(_gone)))
     ck("学习日⛔不打印「今天已经判过」那一行", "今天已经判过" not in learn1)
 with sandbox() as d:
     rc, learn2, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
     ck("学习日同日重跑分组一致（按日期定种）", learn2 == learn0)
+
+
+# ══════════════════════════════════════════════════════════════════════
+#  A3  建号当天不回考（她 2026-09-03 定）
+#  判据 ＝ 条目**第一条历史行**的日期 ＝ 今天；学习日与复习日**都**过滤。
+#  ⛔ 夹具不写死编号、不写死「恰好 N 条」：从活档案按条件挑**一对**同类条目，
+#     两条用**同一套构造**，只有【建号日】这一个变量不同（§0.6 夹具纪律）。
+# ══════════════════════════════════════════════════════════════════════
+OLD_DAY = "2026-08-20"          # 任何早于 DAY 的日子都行，只是「不是今天」
+
+
+def set_history(text, num, rows):
+    """把某条的 `### 历史记录` 整节换成给定的行 —— 用来造「建号日 ＝ X」这个状态。
+    rows = [(日期, 符号, 场合), …]，每行都配一条缩进内容行（契约⑥）。
+    ⛔ 只动这一节：状态行、四节正文、条目之间的缝（契约⑭）一个字不改，⛔ 不动任何一个数。"""
+    lines = text.split("\n")
+    a = None
+    for i, l in enumerate(lines):
+        if l.startswith("## " + num + " ") or l == "## " + num:
+            a = i
+        elif a is not None and l.strip() == "### 历史记录":
+            b = i + 1
+            e = b
+            while e < len(lines) and not (re.match(r"^## #\d{4}", lines[e])
+                                          or re.match(r"^# F\d\d\b", lines[e])
+                                          or lines[e].strip() == "---"):
+                e += 1
+            seg = lines[b:e]
+            nb = 0
+            while nb < len(seg) and not seg[len(seg) - 1 - nb].strip():
+                nb += 1
+            keep = seg[len(seg) - nb:] if nb else []
+            body = []
+            for dt, sym, occ in rows:
+                body.append("- %s %s %s" % (dt, sym, occ))
+                body.append("  测试夹具的内容行。")
+            return "\n".join(lines[:b] + body + keep + lines[e:])
+    raise SystemExit("找不到 " + num)
+
+
+print("\n【A3】建号当天不回考：第一条历史行 ＝ 今天 ⇒ 当天不进候选池")
+
+with sandbox() as d:                                   # 按条件挑一对，⛔ 不写死编号
+    _p = [e for e in drill.load_all()
+          if e.in_pool and not e.essay_only and e.src == "problems.md"]
+    TGT, CTL = _p[0].num, _p[1].num
+    ck("前提：从活档案按条件挑到了两条【在池 · 非挂作文验】的条目",
+       TGT != CTL and TGT and CTL, (TGT, CTL))
+
+# 基线：两条都造成「建号日 ＝ OLD_DAY 的③建号行」⇒ 都是 untested ⇒ 学习日两条都该在池
+BOTH_OLD = set_history(set_history(P, TGT, [(OLD_DAY, "③", "夹具建号")]),
+                       CTL, [(OLD_DAY, "③", "夹具建号")])
+# 变量只有一个：把 TGT 的建号日挪到今天
+TGT_TODAY = set_history(set_history(P, TGT, [(DAY, "③", "夹具建号")]),
+                        CTL, [(OLD_DAY, "③", "夹具建号")])
+
+with sandbox(p_text=BOTH_OLD) as d:
+    rc, base_l, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
+    ck("前提：两条建号日都不是今天 ⇒ 学习日计划里两条都在（走 untested 通道）",
+       TGT in card_order(base_l) and CTL in card_order(base_l),
+       (TGT in card_order(base_l), CTL in card_order(base_l)))
+    ck("前提：这一版⛔没有「建号当天」那一段", "建号当天不回考" not in base_l)
+
+with sandbox(p_text=TGT_TODAY) as d:
+    rc, out_l, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
+    ck("退出码 0", rc == 0, out_l[-300:])
+    ck("① 建号日 ＝ 今天的那条⛔不在学习日计划里", TGT not in card_order(out_l),
+       card_order(out_l)[:6])
+    ck("② 建号日 ≠ 今天的同类条目仍在学习日计划里", CTL in card_order(out_l),
+       card_order(out_l)[:6])
+    ck("③ 报告里逐条列出了被挡下的编号（⛔ 不是只报数量，§0.4）",
+       "建号当天不回考" in out_l and TGT in out_l.split("建号当天不回考")[1][:400],
+       [l for l in out_l.split("\n") if "建号当天" in l])
+    ck("③ 被挡下的那一段写清了理由（记忆 ≠ 产出）",
+       "半小时前的记忆" in out_l and "换场景" in out_l,
+       [l for l in out_l.split("\n") if "记忆" in l])
+    ck("③ 候选池那一行也把「建号当天」计进了排除项",
+       re.search(r"已排除本日已用 \d+ 条.*建号当天 \d+ 条", out_l) is not None,
+       [l for l in out_l.split("\n") if "候选池" in l])
+    ck("⛔ 挡下的只是不出题，CTL 与 TGT 的差集恰好是这一条",
+       set(card_order(base_l)) - set(card_order(out_l)) == {TGT},
+       sorted(set(card_order(base_l)) - set(card_order(out_l))))
+
+with sandbox(p_text=TGT_TODAY) as d:                   # ④ 复习日同样过滤
+    rc, out_r, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    ck("④ 复习日（--type review）同样挡下建号日 ＝ 今天的那条",
+       rc == 0 and TGT not in card_order(out_r), card_order(out_r)[:6])
+    ck("④ 复习日里建号日 ≠ 今天的那条仍在", CTL in card_order(out_r))
+    ck("④ 复习日也逐条列了被挡下的编号",
+       "建号当天不回考" in out_r and TGT in out_r.split("建号当天不回考")[1][:400],
+       [l for l in out_r.split("\n") if "建号当天" in l])
+
+# ⛔ 判据是**第一条**历史行，不是「上次」那一格（＝最后一条历史行）
+LAST_TODAY = inject_row(set_history(P, CTL, [(OLD_DAY, "③", "夹具建号")]),
+                        {CTL}, DAY, "📝", "夹具留痕")
+with sandbox(p_text=LAST_TODAY) as d:
+    _e = [x for x in drill.load_all() if x.num == CTL][0]
+    ck("前提：夹具造出了「最后一条历史行 ＝ 今天、第一条 ≠ 今天」",
+       _e.created_on() == OLD_DAY and _e.last_row_date() == DAY,
+       (_e.created_on(), _e.last_row_date()))
+    rc, out_x, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
+    ck("⛔ 不许拿最后一条历史行判：今天有留痕行、但建号日不是今天 ⇒ 照常在池",
+       CTL in card_order(out_x), card_order(out_x)[:6])
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -245,7 +382,10 @@ def look_node(tag, sents, drop=None):
     return L
 
 
-def group_node(n=1, items=2):
+def group_node(n=1, items=2, new_nums=None, newborn_part=True, body_nums=None):
+    """new_nums = 本组在战报里【报出来】的新建编号（None ⇒ 战报写「③ 新建 无」，即没报）。
+    newborn_part=False ⇒ 故意不写「新建条目的正文」子件。
+    body_nums ⇒ 正文子件里实际写了哪几条（默认 ＝ 报的那些）。"""
     L = ["## 复习 · 第 %d 组" % n, "", "### 题面（发给她的逐字）", "", FENCE]
     L += ["%d. 中文题面第 %d 句。" % (i + 1, i + 1) for i in range(items)]
     L += [FENCE, "", "### 对应编号（不发给她）", "", FENCE, "1 #0000 F01", FENCE, "",
@@ -265,8 +405,16 @@ def group_node(n=1, items=2):
               "  更好版　　 〔没有更好的版本〕",
               "  └ 为什么好 已经到位", ""]
     L += [FENCE, "", "### 战报 · 第 %d 组" % n, "",
-          "① 一字未改率 2/2", "② 考点命中率 2/2", "③ 新建 无", "④ 本组毕业 无",
-          "⑤ 今日毕业 无", ""]
+          "① 一字未改率 2/2", "② 考点命中率 2/2",
+          ("③ 新建 无" if not new_nums else
+           "③ 本组新建  %d 条：%s（正文见下）"
+           % (len(new_nums), " ".join("#" + x for x in new_nums))),
+          "④ 本组毕业 无", "⑤ 今日毕业 无", ""]
+    if new_nums and newborn_part:
+        L += ["### 本组新建条目的正文（§4③d③）", "", FENCE]
+        for x in (new_nums if body_nums is None else body_nums):
+            L += ["#%s 夹具条目 %s　〔词组 · F01〕" % (x, x), "  正文一行", ""]
+        L += [FENCE, ""]
     return L
 
 
@@ -784,6 +932,316 @@ with sandbox() as d:
        "当天会变" in o_r, o_r[:1200])
     ck("P3-13 带 --date 时打出「⛔ 不能用来忠实回放当天的分组」",
        "不能用来忠实回放当天的分组" in o_r and "不能用来忠实回放当天的分组" in o_l)
+
+# ══════════════════════════════════════════════════════════════════════
+#  G  lookback —— §4④ 回看目标 ＝ 最近一篇【没被回看过】的新题（她 2026-09-03 定）
+#  ★ 夹具纪律（SKILL §0.6）：⛔ 不写死真档案里的题号、⛔ 不写死「恰好 N 篇」——
+#    session 文件全部**自己在临时目录里造**，⛔ 一个字都不碰 sessions/ 真目录。
+#    断言一律是**关系式**（目标 ＝ 哪一篇 / 谁在谁不在），⛔ 不数总数。
+# ══════════════════════════════════════════════════════════════════════
+print("\n【G】lookback：回看目标 ＝ 最近一篇没被回看过的新题")
+
+QA, QB, QC = "T2-91", "T1-92", "T2-93"          # 夹具自造的题号，⛔ 与真档案无关
+D_OLD, D_MID, D_NEW = "2026-09-01", "2026-09-02", "2026-09-03"
+LB_DAY = "2026-09-04"                            # 「今天」，三篇夹具都在它之前
+
+
+def lb_dir(d):
+    sd = os.path.join(d, "sessions")
+    if not os.path.isdir(sd):
+        os.makedirs(sd)
+    return sd
+
+
+def lb_session(d, day, essay=None, look="__none__"):
+    """造一个 session：essay ＝ `## 新题` 节里的题号（None ⇒ 该节没有题号）；
+    look ＝ `## 回看` 标题行上的题号（"" ⇒ 标题行⛔无题号；"__none__" ⇒ 没有回看节）。"""
+    out = [f"# {day} · D1 · 周期 X", ""]
+    if look != "__none__":
+        for q in (look if isinstance(look, (list, tuple)) else [look]):
+            out += [f"## 回看 · {q}（夹具）" if q else "## 回看（夹具·标题行⛔无题号）",
+                    "", "（夹具正文）", ""]
+    if essay is not None or look == "__none__":
+        out += ["## 新题", "", "```",
+                (f"{essay}　夹具题面" if essay else "（夹具：这一节⛔没有题号）"),
+                "```", ""]
+    out += ["## 收尾", "", "（夹具）", ""]
+    p = os.path.join(lb_dir(d), f"{day}.md")
+    io.open(p, "w", encoding="utf-8").write("\n".join(out))
+    return p
+
+
+def lb_drawn(d, rows):
+    p = os.path.join(d, "drawn.log")
+    io.open(p, "w", encoding="utf-8").write(
+        "# 夹具流水\n" + "".join(f"{a}\t{b}\n" for a, b in rows))
+    return p
+
+
+def lb_scan(day=LB_DAY):
+    return drill.scan_lookback(day)
+
+
+def lb_run(day=LB_DAY):
+    return run(drill.cmd_lookback, Args(date=day))
+
+
+# ── ① 有一篇新题、没有任何回看节 ⇒ 它就是目标 ────────────────────────────
+with sandbox() as d:
+    lb_session(d, D_MID, essay=QA)
+    sc = lb_scan()
+    rc, out, _ = lb_run()
+    ck("① 一篇新题 · 零回看节 ⇒ 它就是目标",
+       sc["target"] and sc["target"]["qno"] == QA, sc["target"])
+    ck("① 报告 ③ 块打出了这一篇（题号 ＋ 日期 ＋ session 路径）",
+       rc == 0 and QA in out.split("③ ⇒ 本次该回看的")[1]
+       and D_MID in out.split("③ ⇒ 本次该回看的")[1]
+       and f"{D_MID}.md" in out.split("③ ⇒ 本次该回看的")[1],
+       out.split("③ ⇒ 本次该回看的")[-1][:300])
+    ck("① ① 块逐条列了题号 · 日期 · 出处（⛔ 不是只报数量，§0.4）",
+       re.search(re.escape(QA) + r"\s+" + D_MID + r"\s+sessions/" + D_MID + r"\.md:\d+", out)
+       is not None, [l for l in out.split("\n") if QA in l])
+
+# ── ② 那一篇被带题号的 `## 回看` 标题回看过 ⇒ 目标退到更早的一篇 ────────
+with sandbox() as d:
+    lb_session(d, D_OLD, essay=QB)
+    lb_session(d, D_MID, essay=QA)
+    sc0 = lb_scan()
+    ck("④ 两篇都没回看 ⇒ 取**最近**的那一篇（⛔ 不是最早的）",
+       sc0["target"]["qno"] == QA, sc0["target"])
+    lb_session(d, D_NEW, look=QA)          # 只回看了最近那一篇
+    sc1 = lb_scan()
+    ck("② 最近那篇被回看后，目标退到更早的那一篇",
+       sc1["target"]["qno"] == QB, sc1["target"])
+    ck("② 被回看的那篇进了 ② 块（记着在哪个 session 哪一行）",
+       QA in sc1["reviewed"] and sc1["reviewed"][QA][0]["date"] == D_NEW
+       and sc1["reviewed"][QA][0]["line"] > 0, sc1["reviewed"].get(QA))
+    lb_session(d, D_NEW, look=[QA, QB])    # 复习日那一篇 session 里两个回看节（§8③）
+    sc2 = lb_scan()
+    ck("② 一篇 session 里多个 `## 回看` 节都算数（§8③ 复习日回看本周期全部新题）",
+       set(sc2["reviewed"]) == {QA, QB}, sorted(sc2["reviewed"]))
+    ck("② 全部回看过 ⇒ ⛔ 没有目标", sc2["target"] is None, sc2["target"])
+    rc, out, _ = lb_run()
+    ck("② 全部回看过 ⇒ 明确打印「全部已回看 ⇒ §4④ 本节跳过」",
+       rc == 0 and "全部已回看" in out and "本节跳过" in out,
+       out.split("③ ⇒ 本次该回看的")[-1][:300])
+
+# ── ③ 标题行没题号的回看节 ⛔ 不算回看（最容易写错的一条）───────────────
+with sandbox() as d:
+    lb_session(d, D_MID, essay=QA)
+    lb_session(d, D_NEW, look="")          # `## 回看（…）` 标题行上没有题号
+    sc = lb_scan()
+    rc, out, _ = lb_run()
+    ck("③ 标题行⛔没题号的回看节 ⇒ 不算回看了任何一篇 ⇒ 目标仍是那一篇",
+       sc["target"] and sc["target"]["qno"] == QA and not sc["reviewed"],
+       (sc["target"], sc["reviewed"]))
+    ck("③ 这种节被单独列出来（⛔ 不静默）",
+       "标题行上没有题号" in out and f"sessions/{D_NEW}.md" in
+       out.split("标题行上没有题号")[1][:400],
+       [l for l in out.split("\n") if "没有题号" in l])
+    # 同一个 session，只把题号加进标题行 ⇒ 立刻算回看（变量只有这一个）
+    lb_session(d, D_NEW, look=QA)
+    ck("③ 把题号写进标题行 ⇒ 同一个节立刻算回看（变量只有这一个）",
+       lb_scan()["target"] is None and QA in lb_scan()["reviewed"])
+
+# ── 今天自己写的那一篇⛔不作本次目标（§4④ 排在 §4⑤ 之前）────────────────
+with sandbox() as d:
+    lb_session(d, LB_DAY, essay=QC)        # 「今天」写的
+    sc = lb_scan()
+    rc, out, _ = lb_run()
+    ck("⛔ 今天写的那一篇不作目标，但仍逐条列出来（⛔ 不静默丢掉）",
+       sc["target"] is None and any(x["qno"] == QC for x in sc["news"]) and QC in out,
+       sc["target"])
+    lb_session(d, D_MID, essay=QA)
+    ck("⛔ 今天那篇被跳过后，目标是它之前最近的一篇",
+       lb_scan()["target"]["qno"] == QA, lb_scan()["target"])
+
+# ── 认不出题号 ／ drawn.log 交叉核对 ／ 只读 ─────────────────────────────
+with sandbox() as d:
+    lb_session(d, D_MID, essay=None)       # `## 新题` 节里没有题号
+    lb_drawn(d, [(D_OLD, QB), (D_MID, QA)])
+    sc = lb_scan()
+    rc, out, _ = lb_run()
+    ck("⚠️ 认不出题号的 `## 新题` 节单独列出（⛔ 不静默丢掉）",
+       len(sc["unknown"]) == 1 and sc["unknown"][0]["date"] == D_MID
+       and "认不出题号" in out, sc["unknown"])
+    ck("⚠️ drawn.log 里抽了、没 session 证据的题号逐条列出",
+       sorted(q for _, q in sc["orphan"]) == sorted([QA, QB])
+       and QA in out and QB in out, sc["orphan"])
+    before = {f: os.stat(os.path.join(d, f)).st_mtime_ns
+              for f in sorted(os.listdir(d)) if os.path.isfile(os.path.join(d, f))}
+    bs = {f: os.stat(os.path.join(d, "sessions", f)).st_mtime_ns
+          for f in sorted(os.listdir(os.path.join(d, "sessions")))}
+    lb_run(); lb_run()
+    after = {f: os.stat(os.path.join(d, f)).st_mtime_ns
+             for f in sorted(os.listdir(d)) if os.path.isfile(os.path.join(d, f))}
+    as_ = {f: os.stat(os.path.join(d, "sessions", f)).st_mtime_ns
+           for f in sorted(os.listdir(os.path.join(d, "sessions")))}
+    ck("⛔ lookback 只读：⛔ 没新建文件、⛔ 没改任何一个文件（含 sessions/）",
+       before == after and bs == as_ and not os.path.exists(drill.DRAWN),
+       (sorted(set(after) - set(before)), sorted(set(as_) - set(bs))))
+
+# ── ⑤ pick --type learn 的头部出现那一行（与 lookback 同一个函数）────────
+with sandbox() as d:
+    lb_session(d, D_MID, essay=QA)
+    rc, out, _ = run(drill.cmd_pick, Args(type="learn", date=LB_DAY, dry=True))
+    head = out.split("候选池")[0]
+    ck("⑤ pick --type learn 头部打出「★ §4④ 回看目标 ＝ <题号>（<日期>）」",
+       rc == 0 and f"★ §4④ 回看目标 ＝ {QA}（{D_MID}）" in head,
+       [l for l in out.split("\n") if "§4④" in l])
+    ck("⑤ 那一行紧挨着 D-1／D-3 那一行（§4① 要求）",
+       [l for l in head.split("\n") if "D-1 = " in l or "§4④" in l][:2][0].find("D-1 = ") >= 0
+       and "§4④" in [l for l in head.split("\n") if "D-1 = " in l or "§4④" in l][1],
+       [l for l in head.split("\n") if "D-1 = " in l or "§4④" in l])
+    lb_session(d, D_NEW, look=QA)
+    rc, out2, _ = run(drill.cmd_pick, Args(type="learn", date=LB_DAY, dry=True))
+    ck("⑤ 全部回看过时，pick 头部改打「全部已回看 ⇒ 回看节跳过」",
+       "★ §4④ 全部已回看 ⇒ 回看节跳过" in out2 and "回看目标 ＝" not in out2,
+       [l for l in out2.split("\n") if "§4④" in l])
+    ck("⑤ 复习日（--type review）⛔ 不打这一行（§4④ 是学习日流程）",
+       "§4④" not in run(drill.cmd_pick, Args(type="review", date=LB_DAY, dry=True))[1])
+
+
+
+# ══════════════════════════════════════════════════════════════════════
+#  H  条件性子件「新建条目的正文」（§4③d③ / §4⑤e，她 2026-09-03 定）
+#  起因：09-03 的作文节里教练只做了「对照」、⛔ 没建条目，8 件全齐 ⇒ 硬闸照样 ERROR 0。
+#  ★ 夹具纪律（SKILL §0.6）：编号全部**夹具自造**（9xxx），⛔ 与真档案无关；
+#    ⛔ 不写死「恰好 N 条」—— 断言一律对着**这个夹具自己报的那几条**。
+# ══════════════════════════════════════════════════════════════════════
+print("\n【H】deliver：报了新建就必须发「新建条目的正文」")
+
+
+def nb_nums(k, base=9000):
+    """夹具自造的 4 位编号，⛔ 与 problems.md 真档案无关。"""
+    return ["%04d" % (base + i) for i in range(k)]
+
+
+def essay_node(sents=2, new_nums=None, newborn_part=True, body_nums=None):
+    """造一个 8 件齐的 `## 新题` 节（§4⑤e）。"""
+    L = ["## 新题 · T2-99（测试）", "", "### 题面与条件（发给她的逐字）", "", FENCE,
+         "T2-99　夹具题（⛔ 与真题库无关）", FENCE, "",
+         "### 她的原文（逐句编号，逐字抄）", "", FENCE]
+    L += ["S%d  Sentence %d." % (i + 1, i + 1) for i in range(sents)]
+    L += [FENCE, "", "### 收稿", "", "⛔ 不设收稿闸（§4⑤b）。", "",
+          "### 判分（§5 八步）", "", "| 步 | 数 |", "|---|---|",
+          "| 1 | %d 句 |" % sents, "",
+          "### 对照 problems.md 在池清单扫全文", "", "| 编号 | 判定 |", "|---|---|",
+          "| #0001 | ✅ |", ""]
+    if new_nums:
+        L += ["**本篇新建  %d 条：%s（正文见下）**"
+              % (len(new_nums), " ".join("#" + x for x in new_nums)), ""]
+    L += ["### 三版对照块（§4⑤e，%d 块）" % sents, "", FENCE]
+    for i in range(sents):
+        L += ["#S%d" % (i + 1),
+              "  原句　　　 Sentence %d." % (i + 1),
+              "  最小修改　 〔未改〕",
+              "  └ 改了什么 〔未改〕，一个字没改",
+              "  更好版　　 〔没有更好的版本〕",
+              "  └ 为什么好 已经到位", ""]
+    L += [FENCE, "", "### 最小修改版 · 全文", "", FENCE,
+          " ".join("Sentence %d." % (i + 1) for i in range(sents)), FENCE, "",
+          "### 更好版 · 全文", "", FENCE,
+          " ".join("Sentence %d." % (i + 1) for i in range(sents)), FENCE, ""]
+    if new_nums and newborn_part:
+        L += ["### 本篇新建条目的正文（§4③d③）", "", FENCE]
+        for x in (new_nums if body_nums is None else body_nums):
+            L += ["#%s 夹具条目 %s　〔词组 · F01〕" % (x, x), "  正文一行", ""]
+        L += [FENCE, ""]
+    return L
+
+
+def errs_of(out):
+    return [l.strip() for l in out.split("\n") if l.strip().startswith("ERROR")]
+
+
+with sandbox() as d:
+    # ── ① 报了新建 ＋ 有正文子件 ＋ 编号齐 ⇒ 过 ──────────────────────
+    N3 = nb_nums(3)
+    f = write_session(d, "2026-09-15.md", [group_node(1, new_nums=N3)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("① 报了新建 ＋ 正文子件在 ＋ 编号齐 ⇒ ERROR 0",
+       rc == 0 and "合计 ERROR 0" in out, out[-600:])
+    ck("① 打出「新建条目的正文」那一行 ✔，并把报的编号逐条列出（⛔ 不只报数）",
+       "新建条目的正文：报 %d 条" % len(N3) in out
+       and all(("#" + x) in out for x in N3), out[-800:])
+
+    # ── ② 报了新建、⛔ 没有正文子件 ⇒ ERROR ──────────────────────────
+    f = write_session(d, "2026-09-16.md",
+                      [group_node(1, new_nums=N3, newborn_part=False)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    e = errs_of(out)
+    ck("② 报了新建却没有「新建条目的正文」子件 ⇒ ERROR",
+       rc == 1 and len(e) == 1 and "新建条目的正文" in e[0], out[-600:])
+    ck("② 报错文案点明 §4③d③「只报编号 ＝ 没交付」＋ 报了几条",
+       "§4③d③" in e[0] and "只报编号" in e[0]
+       and "新建 %d 条" % len(N3) in e[0], e)
+    ck("② 其余 6 件照旧全齐（⛔ 只多这一条 ERROR）",
+       out.count("   ✔ 子件") == 6, [l for l in out.split("\n") if "✔ 子件" in l])
+
+    # ── ③ 有正文子件、但少写了一条的正文 ⇒ ERROR 并点名缺的那个 ───────
+    f = write_session(d, "2026-09-17.md",
+                      [group_node(1, new_nums=N3, body_nums=N3[:-1])])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    e = errs_of(out)
+    ck("③ 正文里少一条 ⇒ ERROR", rc == 1 and len(e) == 1, out[-600:])
+    ck("③ 点名缺的正是没写正文的那一条",
+       "缺这几条的正文：#%s" % N3[-1] in e[0], e)
+    ck("③ ⛔ 不把已经写了正文的那几条也算成缺",
+       all(("缺这几条的正文：#%s" % x) not in e[0] for x in N3[:-1]), e)
+
+    # ── ④ 没报新建 ／ 报 0 条 ⇒ ⛔ 不要求、不报错 ─────────────────────
+    f = write_session(d, "2026-09-18.md", [group_node(1)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("④ 整节没报「新建 N 条」⇒ ⛔ 不适用（不报错、也不打那一行）",
+       rc == 0 and "新建条目的正文" not in out, out[-600:])
+    g0 = ["③ 本组新建  0 条" if l.startswith("③ 新建 无") else l
+          for l in group_node(1)]
+    f = write_session(d, "2026-09-19.md", [g0])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("④ 报「新建 0 条」⇒ ⛔ 不要求正文子件",
+       rc == 0 and "新建条目的正文" not in out, out[-600:])
+
+    # ── ⑤ 日期线：2026-09-03 之前 ⇒ 存量提示、⛔ 不 ERROR ─────────────
+    blk = [group_node(1, new_nums=N3, newborn_part=False)]
+    f = write_session(d, "2026-09-02.md", blk)
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑤ 09-03 之前缺正文子件 ⇒ 存量提示，⛔ 不报错",
+       rc == 0 and "存量" in out and "新建条目的正文" in out
+       and not errs_of(out), out[-700:])
+    f = write_session(d, "2026-09-03.md", blk)
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑤ 日期线当天（2026-09-03）起就硬查",
+       rc == 1 and errs_of(out), out[-600:])
+
+    # ── ⑥ 「新题」这条路同样吃这一条（§4⑤e）────────────────────────
+    N2 = nb_nums(2, 9100)
+    f = write_session(d, "2026-09-20.md", [essay_node(2, new_nums=N2)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑥ 新题：8 件齐 ＋ 报了新建 ＋ 正文在 ⇒ ERROR 0",
+       rc == 0 and "新建条目的正文：报 %d 条" % len(N2) in out, out[-800:])
+    f = write_session(d, "2026-09-21.md",
+                      [essay_node(2, new_nums=N2, newborn_part=False)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑥ 新题：8 件全齐、但报了新建没发正文 ⇒ 照样 ERROR（09-03 的漏洞）",
+       rc == 1 and out.count("   ✔ 子件") == 8
+       and any("新建条目的正文" in x for x in errs_of(out)), out[-800:])
+    f = write_session(d, "2026-09-22.md", [essay_node(2)])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑥ 新题：没报新建 ⇒ ⛔ 不适用", rc == 0 and "新建条目的正文" not in out,
+       out[-600:])
+
+    # ── ⑦ 回看／追加练 ⛔ 不吃这一条（回看只看不做、追加练建号走 §4.8 S10）──
+    look = look_node("T2-01", 2)
+    look = look[:2] + ["本节新建  1 条：#%s" % nb_nums(1, 9200)[0], ""] + look[2:]
+    f = write_session(d, "2026-09-23.md", [look])
+    rc, out, _ = run(drill.cmd_deliver, Args(session=f))
+    ck("⑦ 回看节里就算写了「新建 N 条」也⛔ 不要求正文子件",
+       rc == 0 and "新建条目的正文" not in out, out[-600:])
+    ck("⑦ DELIVER_SPECS 里只有「组」「新题」挂了这一条",
+       [k for k, v in drill.DELIVER_SPECS.items() if v.get("newborn")] == ["组", "新题"],
+       sorted(k for k, v in drill.DELIVER_SPECS.items() if v.get("newborn")))
+
 
 print("\n" + "═" * 70)
 print(f"2026-09-02 四功能回归测试 · 通过 {len(PASS)} · 失败 {len(FAIL)}")

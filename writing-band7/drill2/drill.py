@@ -479,8 +479,14 @@ def day_types():
 
 
 def back_count(today, types, n):
-    """往回数第 n 个【学习日】（复习日与休息日不占位次，§1）。"""
-    days = sorted([d for d, t in types.items() if t == "learn" and d < today], reverse=True)
+    """往回数第 n 个【有行为的练习日】—— 学习日与复习日**一视同仁**，休息日不占位次。
+
+    ★★ 2026-09-03 她定：「**甲要做，不区别学习日和复习日**」。
+       原写法只数 learn ⇒ 复习日新建／判❌ 的条目永远进不了任何一个学习日的候选池
+       （实证：22 条词组条目全部建于 09-01 复习日，C5 的三个学习日一条都够不着）。
+    ⛔ 旧口径「复习日不占位次」整条作废（SKILL §1 同步改）。"""
+    days = sorted([d for d, t in types.items() if t in ("learn", "review") and d < today],
+                  reverse=True)
     return days[n - 1] if len(days) >= n else None
 
 
@@ -518,6 +524,234 @@ def append_drawn(line):
             f.write("# 复习出题流水 —— drill.py 自动 append，一行 = 一次抽题或一次定稿\n")
             f.write("# 格式：日期 \\t 抽|用 \\t 组N \\t 字段:值 …   ⛔ 禁手工编辑\n")
         f.write(line + "\n")
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  lookback —— §4④「回看哪一篇」（**只读**：⛔ 不写任何文件、⛔ 不 append 任何流水）
+# ══════════════════════════════════════════════════════════════════════════
+#  口径（她 2026-09-03 当场裁定）：回看 ＝ **最近一篇【没被回看过】的新题**，
+#  ⛔ 不再是「D-1 那天的新题」。
+#  为什么改：「甲」（2026-09-03 上线，§1）把 D-1 改成「上一个**练习日**」之后，
+#  只要前一天是复习日，§4④ 就自动跳过（复习日不写作文）⇒ 排成
+#  「复习日 → 学习日A（写了作文）→ 复习日 → 学习日B」时，**A 那篇永远碰不到回看**。
+#  实证 2026-09-03：D-1 ＝ 09-01（复习日）⇒ 旧口径直接跳过。
+#  ⇒ 改成跟着「哪一篇还没回看过」走，与日期彻底脱钩。
+RE_ESSAY_NO = re.compile(r"\bT[12]-\d{1,3}\b")     # 作文题号：T1-15 / T2-22
+RE_SESS_NAME = re.compile(r"^(20\d\d-\d\d-\d\d)\.md$")
+RE_DATE_ONLY = re.compile(r"^20\d\d-\d\d-\d\d$")
+
+
+def _rel(path):
+    """打印用：相对工作目录（§0.6 里全部路径都写成 `sessions/…` 这种）。"""
+    try:
+        r = os.path.relpath(path, ROOT)
+    except ValueError:
+        return path
+    return path if r.startswith("..") else r
+
+
+def _essay_drawn(path):
+    """作文抽题流水 drawn.log → [(日期, 题号)]，按文件顺序。⛔ 只读。"""
+    out = []
+    if not os.path.exists(path):
+        return out
+    for raw in io.open(path, encoding="utf-8"):
+        raw = raw.strip()
+        if not raw or raw.startswith("#"):
+            continue
+        parts = [p.strip() for p in raw.split("\t") if p.strip()]
+        if len(parts) < 2 or not RE_DATE_ONLY.match(parts[0]):
+            continue
+        for q in RE_ESSAY_NO.findall(parts[1]):
+            out.append((parts[0], q))
+    return out
+
+
+def scan_lookback(today, sess_dir=None, drawn_path=None):
+    """扫 sessions/*.md ＋ drawn.log，算出「本次该回看哪一篇」。
+
+    认法**严格**（写歪了就报出来，⛔ 不兜底 —— 与 §0.9a 的标题锚点同一条哲学）：
+      · 新题   ＝ session 里 `## 新题…` 节里出现的**第一个**题号
+                 （节里出现的其它题号是靶子/历史的引用，另行列出，⛔ 不当作本篇）
+                 一个 session 认不到题号 ⇒ 列进「⚠️ 认不出题号」，⛔ 不静默丢掉
+      · 已回看 ＝ 任意 session 里 `## 回看…` 的**标题行**上出现的题号
+                 ⚠️ 标题行上没有题号的回看节 ⇒ **不算回看了任何一篇**
+      · 与 drawn.log 交叉核对：流水里有、却没有任何 session 证据的题号 ⇒ 单独列出
+    → dict（全部字段都是逐条清单，⛔ 不只给数量，§0.4）
+    """
+    sess_dir = sess_dir or os.path.join(ROOT, "sessions")
+    drawn_path = drawn_path or os.path.join(ROOT, "drawn.log")
+    news, unknown, noqno, warn = [], [], [], []
+    reviewed = {}
+    if os.path.isdir(sess_dir):
+        files = sorted(os.listdir(sess_dir))
+    else:
+        files = []
+        warn.append(f"⚠️ 找不到 sessions 目录：{_rel(sess_dir)}")
+    for name in files:
+        if not name.endswith(".md"):
+            continue
+        m = RE_SESS_NAME.match(name)
+        path = os.path.join(sess_dir, name)
+        if not m:
+            warn.append(f"⚠️ 文件名不是 YYYY-MM-DD.md ⇒ 数不出日期，本次⛔不算它：{_rel(path)}")
+            continue
+        d = m.group(1)
+        lines = io.open(path, encoding="utf-8").read().split("\n")
+        picked = None                      # 本 session 认下来的那一篇
+        others = []                        # 新题节里出现的其它题号（引用，不是本篇）
+        for i, ln in enumerate(lines):
+            if ln.startswith("## 新题"):
+                b = _node_end(lines, i)
+                for k in range(i, b):
+                    for q in RE_ESSAY_NO.finditer(lines[k]):
+                        if picked is None:
+                            picked = {"qno": q.group(0), "date": d, "path": path,
+                                      "line": k + 1, "head": ln.strip(), "others": others}
+                        elif q.group(0) != picked["qno"]:
+                            others.append((q.group(0), k + 1))
+                if picked is None:
+                    unknown.append({"date": d, "path": path, "line": i + 1,
+                                    "head": ln.strip()})
+            elif ln.startswith("## 回看"):
+                qs = RE_ESSAY_NO.findall(ln)
+                if not qs:
+                    noqno.append({"date": d, "path": path, "line": i + 1,
+                                  "head": ln.strip()})
+                for q in qs:
+                    reviewed.setdefault(q, []).append(
+                        {"date": d, "path": path, "line": i + 1, "head": ln.strip()})
+        if picked:
+            news.append(picked)
+            # 同一个 session 里认不到题号的续节（08-29 的 `## 新题 · b 收稿` 就是），
+            # 归到本篇名下 ⇒ ⛔ 不重复报「认不出题号」
+            unknown = [u for u in unknown if u["date"] != d]
+    news.sort(key=lambda x: (x["date"], x["line"]))
+
+    seen = {x["qno"] for x in news}
+    orphan, mismatch = [], []
+    by_date = {}
+    for x in news:
+        by_date.setdefault(x["date"], []).append(x["qno"])
+    for d, q in _essay_drawn(drawn_path):
+        if q not in seen:
+            orphan.append((d, q))
+        elif d in by_date and q not in by_date[d]:
+            mismatch.append((d, q, "／".join(by_date[d])))
+    ghost = [q for q in reviewed if q not in seen]
+
+    todays = [x for x in news if x["date"] >= today]
+    cand = [x for x in news if x["date"] < today and x["qno"] not in reviewed]
+    return {"news": news, "reviewed": reviewed, "unknown": unknown, "noqno": noqno,
+            "orphan": orphan, "mismatch": mismatch, "ghost": ghost,
+            "todays": todays, "cand": cand,
+            "target": cand[-1] if cand else None,
+            "warn": warn, "sess_dir": sess_dir, "drawn": drawn_path}
+
+
+def lookback_line(today, sess_dir=None, drawn_path=None):
+    """`pick --type learn` 头部那一行 —— 与 `lookback` 是**同一个函数**算出来的。"""
+    sc = scan_lookback(today, sess_dir, drawn_path)
+    t = sc["target"]
+    if t:
+        return (f"★ §4④ 回看目标 ＝ {t['qno']}（{t['date']}）　"
+                f"{_rel(t['path'])}:{t['line']}　⇒ 详情跑 `drill.py lookback`"), sc
+    if not sc["news"]:
+        return ("★ §4④ sessions/ 里一篇新题都认不出来 ⇒ 回看节跳过"
+                "（⇒ 跑 `drill.py lookback` 看认法在哪一步断的）"), sc
+    return ("★ §4④ 全部已回看 ⇒ 回看节跳过"
+            "（口径 ＝ 最近一篇没被回看过的新题，⛔ 不再看 D-1）"), sc
+
+
+def cmd_lookback(args):
+    today = args.date or date.today().isoformat()
+    sc = scan_lookback(today)
+    W = "═" * 78
+    print(W)
+    print(f"drill.py lookback · {today} · §4④ 回看目标"
+          f"　【只读：⛔ 不写任何文件、⛔ 不 append 流水】")
+    print(W)
+    print("  口径　回看 ＝ **最近一篇【没被回看过】的新题**（她 2026-09-03 定）")
+    print("  　　　⛔ 不再是「D-1 那天的新题」—— D-1 落在复习日时那一篇永远碰不到回看")
+    print("  认法　新题 ＝ `## 新题` 节里的**第一个**题号（节里别的题号是引用，另列）")
+    print("  　　　已回看 ＝ 任意 session 里 `## 回看` **标题行**上的题号；"
+          "⛔ 标题行没题号 ＝ 没回看任何一篇")
+    print(f"  扫的　{_rel(sc['sess_dir'])}/*.md　＋　{_rel(sc['drawn'])}")
+    print()
+
+    rev = sc["reviewed"]
+    print("① 全部新题（逐条列，§0.4）")
+    if not sc["news"]:
+        print("   （一篇都没认出来）")
+    for x in sc["news"]:
+        mark = "✅ 已回看" if x["qno"] in rev else "⏳ 未回看"
+        tail = ""
+        if x["qno"] in rev:
+            tail = "　← " + "／".join(f"{_rel(r['path'])}:{r['line']}" for r in rev[x["qno"]])
+        elif x["date"] >= today:
+            tail = "　⚠️ 今天（或更晚）写的 ⇒ 本次⛔不作目标（§4④ 回看排在 §4⑤ 新题之前）"
+        print(f"   {x['qno']:<7} {x['date']}  {_rel(x['path'])}:{x['line']}  {mark}{tail}")
+        if x["others"]:
+            print("           （本节还提到 "
+                  + "／".join(f"{q}@{ln}" for q, ln in x["others"][:6])
+                  + " —— 靶子/历史的引用，⛔ 不当作本篇）")
+    print(f"   ── 共 {len(sc['news'])} 篇")
+    print()
+
+    print("② 已经回看过的（`## 回看` 标题行上带题号的才算）")
+    if not rev:
+        print("   （一篇都没有）")
+    for q in sorted(rev, key=lambda q: rev[q][0]["date"]):
+        for r in rev[q]:
+            print(f"   {q:<7} ← {_rel(r['path'])}:{r['line']}　{r['head']}")
+    print(f"   ── 共 {len(rev)} 篇 / {sum(len(v) for v in rev.values())} 个回看节")
+    if sc["noqno"]:
+        print(f"   ⚠️ 另有 {len(sc['noqno'])} 个 `## 回看` 节**标题行上没有题号** "
+              f"⇒ ⛔ 不算回看了任何一篇（要算就把题号写进标题行）：")
+        for r in sc["noqno"]:
+            print(f"      {_rel(r['path'])}:{r['line']}　{r['head']}")
+    print()
+
+    print("③ ⇒ 本次该回看的 ＝ 最近一篇没被回看过的新题")
+    t = sc["target"]
+    if t:
+        print(f"   ⇒ **{t['qno']}**（{t['date']}）　{_rel(t['path'])}:{t['line']}")
+        if len(sc["cand"]) > 1:
+            print("   　 排在它后面的（更早、也还没回看）：" + "／".join(
+                f"{x['qno']}({x['date']})" for x in sc["cand"][:-1]))
+        print("   ⇒ 交付件仍是 §4④ 写死的 5 件：题面与条件 · 她的原文 · 三版对照块 · "
+              "最小修改版全文 · 更好版全文")
+    else:
+        print("   ⇒ **全部已回看 ⇒ §4④ 本节跳过**"
+              "（在 session 里写明「本节跳过」＋理由，脚本认这四个字，打 SKIP）")
+    print()
+
+    bad = 0
+    if sc["unknown"]:
+        bad += len(sc["unknown"])
+        print(f"⚠️ 认不出题号的 `## 新题` 节 {len(sc['unknown'])} 个（⛔ 没有静默丢掉）：")
+        for u in sc["unknown"]:
+            print(f"   {_rel(u['path'])}:{u['line']}　{u['head']}")
+    if sc["orphan"]:
+        bad += len(sc["orphan"])
+        print(f"⚠️ drawn.log 里抽了、却没找到 session 记录的 {len(sc['orphan'])} 题：")
+        for d, q in sc["orphan"]:
+            print(f"   {d}  {q}")
+    if sc["mismatch"]:
+        bad += len(sc["mismatch"])
+        print(f"⚠️ 题号与 drawn.log 对不上的 {len(sc['mismatch'])} 处：")
+        for d, q, got in sc["mismatch"]:
+            print(f"   {d}  drawn.log ＝ {q}　session 认到的 ＝ {got}")
+    if sc["ghost"]:
+        bad += len(sc["ghost"])
+        print(f"⚠️ 回看了、却没有对应 `## 新题` 记录的 {len(sc['ghost'])} 题："
+              + "／".join(sorted(sc["ghost"])))
+    for w in sc["warn"]:
+        bad += 1
+        print(w)
+    if not bad:
+        print("⚠️ 零告警：新题／回看／drawn.log 三边对得上")
+    return 0
 
 
 # ══════════════════════════════════════════════════════════════════════════
@@ -577,7 +811,7 @@ def cmd_pick(args):
         d1 = back_count(today, types, 1)
         d3 = back_count(today, types, 3)
         if not d1:
-            print("⛔ log.md 里数不出 D-1（今天之前没有学习日）。按 §1 不兜底，人工确认。")
+            print("⛔ log.md 里数不出 D-1（今天之前一个练习日都没有）。按 §1 不兜底，人工确认。")
             return 1
         targets = [d for d in (d1, d3) if d]
         cand = []
@@ -593,7 +827,21 @@ def cmd_pick(args):
                     hit.append(("新建" if first else "判❌") + h.date[5:])
             if hit:
                 cand.append((e, "／".join(sorted(set(hit)))))
-        pool_note = [f"D-1 = {d1}　D-3 = {d3 or '（不足 3 个学习日，按 §1 不兜底）'}"]
+        # ★★ 2026-09-03 她定的第二条通道（乙）：**从未被判定过的在池条目无条件进池**。
+        #    「从未被判定过」＝ 历史记录里一条 §3.2 判定符号（✅ ◎✅ ❌ 📖 △ ◎−）都没有；
+        #    ③ 建号行、📋 📝 留痕行都不算读数 ⇒ 这类条目建了号却从来没被测过。
+        #    ⛔ 与日期扫描是**并集**，⛔ 不许拿它顶替 D-1/D-3。
+        got = {e.num for e, _ in cand}
+        for e in ents:
+            if not e.in_pool or e.num in got:
+                continue
+            if not any(h.symbol in JUDGE for h in e.history):
+                cand.append((e, "从未被判定"))
+        pool_note = [f"D-1 = {d1}　D-3 = {d3 or '（不足 3 个练习日，按 §1 不兜底）'}"
+                     f"　★ 学习日与复习日一视同仁（2026-09-03 起）"]
+        # ★★ §4④ 的回看目标 —— 与 `drill.py lookback` 是**同一个函数**（⛔ 不复制一份逻辑）。
+        #    口径 ＝ **最近一篇没被回看过的新题**，⛔ 不再是「D-1 那天的」（她 2026-09-03 定）。
+        pool_note.append(lookback_line(today)[0])
         rnd = random.Random(today)          # 按日期定种：同一天重跑得到同一份计划
         rnd.shuffle(cand)
         spread = True
@@ -615,6 +863,16 @@ def cmd_pick(args):
     cand = [(e, why) for e, why in cand if e.num not in used_ids]
     essay = [(e, why) for e, why in cand if e.essay_only]
     cand = [(e, why) for e, why in cand if not e.essay_only]
+    # ★★ 2026-09-03 她定的第三条过滤：**建号当天不回考**（学习日与复习日**都**过滤）。
+    #    判据 ＝ 条目**第一条历史行**的日期 ＝ 今天（`created_on()`）。
+    #    ⛔ 不是「上次」那一格 —— 那是**最后**一条历史行，两者是两回事。
+    #    起因：乙（`untested` 通道）当天上线后，**当天新建的条目立刻满足「一条判定符号都没有」**
+    #    ⇒ 建号当天就被捞回候选池（09-03 实测 5 条全是从她自己的作文/答案里建的号），
+    #    教练只能手工撤下。理由同 §6「从她作文里建的条目题面必须换场景」：
+    #    **当天回考 ＝ 考半小时前的记忆，不是产出。**
+    #    ⇒ 与「本日已用」「挂作文验」同一层：候选池成型之后、分组之前。
+    fresh = [(e, why) for e, why in cand if e.created_on() == today]
+    cand = [(e, why) for e, why in cand if e.created_on() != today]
     groups = partition(cand, args.size, spread)
     base = len(done_groups)                 # 今天已经收过尾的组数
 
@@ -637,8 +895,15 @@ def cmd_pick(args):
               f"「不出单点题」）⇒ 不进复习组：")
         print("     " + " ".join(e.num for e, _ in essay))
         print("     ⇒ 判作文时对着这几条扫全文（§4⑤d），⛔ 不要拿它们出中译英")
+    if fresh:
+        print(f"  ⛔ 另有 {len(fresh)} 条**今天刚建的号**（第一条历史行 ＝ {today}）"
+              f"⇒ **建号当天不回考**，不进复习组：")
+        print("     " + " ".join(e.num for e, _ in fresh))
+        print("     ⇒ 当天回考考的是半小时前的记忆、不是产出（同 §6「从她作文里建的条目"
+              "题面必须换场景」）；⛔ 今天不要出，下一个练习日照常回池")
     print(f"  候选池 {len(cand)} 条（已排除本日已用 {len(used_ids)} 条"
-          + (f"、挂作文验 {len(essay)} 条" if essay else "") + "）"
+          + (f"、挂作文验 {len(essay)} 条" if essay else "")
+          + (f"、建号当天 {len(fresh)} 条" if fresh else "") + "）"
           f" ⇒ 分 {len(groups)} 组，每组 ≤ {args.size}"
           + (f"　（本次只打前 {len(shown)} 组）" if len(shown) < len(groups) else ""))
     if args.type != "learn":
@@ -986,7 +1251,9 @@ TYPES = [
     ("by-error",   "建号·她犯错",  "历史记录第一行符号 ＝ ❌（§2①）",               lambda e: _first_symbol(e) == "❌"),
     ("by-request", "建号·她点名",  "历史记录第一行符号 ＝ ③（§2③）",               lambda e: _first_symbol(e) == "③"),
     ("migrated",   "旧档案迁移",   "第一条历史行日期 < 2026-08-19",                lambda e: bool(e.created_on()) and e.created_on() < "2026-08-19"),
-    ("never",      "从未被判定",   "历史记录里写着「（从未被判定过）」",              lambda e: e.never_judged),
+    ("never",      "占位·从未判定", "历史记录里写着「（从未被判定过）」",             lambda e: e.never_judged),
+    ("untested",   "建了号没测过",  "历史行里一条 §3.2 判定符号都没有（③📋📝 不算读数）",
+     lambda e: not any(h.symbol in JUDGE for h in e.history)),
     ("in-problems", "住 problems.md", "解析时的来源文件",                          lambda e: e.src == "problems.md"),
     ("in-graduated", "住 graduated.md", "解析时的来源文件",                        lambda e: e.src == "graduated.md"),
 ]
@@ -1341,6 +1608,15 @@ def cmd_check(args):
             else:
                 ninfo += 1
                 legacy_by_kind[msg.split("」")[0].split(" ", 1)[-1][:20]] += 1
+    # ★ 文件级结构校验（2026-09-03 加，她："migrate 行数一直不平，说明 check 的不靠谱呀"）
+    #   条目级契约一条都没漏，但**条目之间的缝**从来没有人查 ——
+    #   于是 15 处不规范的缝在档案里活了两周，直到 migrate 吃掉行数才暴露。
+    #   ⚠️ 这一条是**整份文件**的性质，⛔ 不受 --changed 的范围限制（缝坏在哪都得报）。
+    for f, name in ((PROBLEMS, "problems.md"), (GRADUATED, "graduated.md")):
+        for key, got, want in gap_anomalies(f):
+            nerr += 1
+            print(f"ERROR  {name} {key} 之后的缝是 {got}，应为 {want}"
+                  f"（族内只空一行／族间 空行+---+空行，§3.1 缝规范）")
     print("─" * 74)
     print(f"ERROR {nerr} · WARN {nwarn} · 存量提示 {ninfo}（{STRICT_FROM} 之前写下的行，不报错）")
     if ninfo and not args.quiet:
@@ -1512,7 +1788,14 @@ def cmd_append(args):
             # 11 条全部字节一致）。`### 历史记录` 之后挂着的 `<details>原始行` 迁移块、
             # `---` 分隔线、`> 🗑 撤销说明` 都留在原处，新行接在整条之后。
             # ⚠️ 换约定（比如"插到 </details> 之前"）会动到全档 97 条的排版 —— 要改先问她。
-            at = max((i for i in range(lo, hi) if lines[i].strip()), default=hi - 1) + 1
+            # ⚠️ 2026-09-03 修：往回走时要**跳过条目末尾的空行与族边界 `---`**。
+            #    条目是本族最后一条时，它的 span 尾巴上挂着族边界（空行 ＋ --- ＋ 空行），
+            #    旧写法「最后一个非空行之后」= 插到 `---` 的**下面** ⇒ 新历史行掉到下一族头前面，
+            #    族边界被顶进条目内部（09-03 在 #0404 上实测到，是当天新加的缝校验抓出来的）。
+            j = hi
+            while j > lo and (not lines[j - 1].strip() or lines[j - 1].strip() == "---"):
+                j -= 1
+            at = j
         row = f"- {today} {b['symbol']}{b['raw_occ']}".rstrip()
         plan.append(dict(e=e, at=at, drop=drop, block=[row] + b["body"], b=b))
 
@@ -1677,6 +1960,40 @@ def split_file(path):
     if "\n".join(back) != text:
         sys.exit(f"⛔ {os.path.basename(path)} 切块自校失败 —— 脚本读不懂这个文件，⛔ 不动它")
     return header, blocks, text
+
+
+#  ★★ 缝的规范形状（2026-09-03 她定，起因："migrate 行数一直不平，说明 check 的不靠谱呀"）
+#     档案的排版惯例只有两条，写死在这里，`check` 与 `migrate` 自校共用同一份定义：
+#       族内条目之间   ⇒ 只空一行            trail == [""]
+#       族与族之间     ⇒ 空行 + --- + 空行    trail == ["", "---", ""]
+#       文件最后一块   ⇒ 只空一行（文件以单个换行结尾）
+#     ⛔ 为什么必须机器查：`migrate` 删块时把「前一块的缝」换成「被删块的缝」——
+#        缝不规范时就会被吃掉一两行，而**旧的四项自校全部只看条目正文，看不见缝**
+#        ⇒ 报告里那句「行数一加一减对得上」只是打印给人看的，⛔ 从来没有人／没有断言在验它。
+#        2026-09-03 实测：problems.md 15 处缝不规范，搬一条 #0378 就凭空少 2 行 1 个 `---`，
+#        而自校四项**全绿**。⇒ 加第 5 项，并在 check 里同样硬查。
+def gap_of(blocks, i):
+    """第 i 块**应该**带的缝。
+    ★ 最后一块是例外：文件可以以单个换行结尾（trail ＝ [""]），也可以完全不带换行（[]）——
+      两种都合法，⛔ 别把「文件末尾没有换行」当成缝坏了（E4 就是这个形状）。"""
+    if i + 1 >= len(blocks):
+        return None                                    # None ＝ 只要不含 --- 就放行
+    return ["", "---", ""] if blocks[i + 1].kind == "fam" else [""]
+
+
+def gap_anomalies(path):
+    """→ [(块 key, 实际缝, 应有的缝)]，空列表 ＝ 全部规范。"""
+    _, bl, _ = split_file(path)
+    out = []
+    for i, b in enumerate(bl):
+        want = gap_of(bl, i)
+        if want is None:
+            if b.trail not in ([], [""]):
+                out.append((b.key, b.trail, '[] 或 [""]（文件末尾）'))
+            continue
+        if b.trail != want:
+            out.append((b.key, b.trail, want))
+    return out
 
 
 def join_file(header, blocks):
@@ -1910,10 +2227,35 @@ def cmd_migrate(args):
     if wrong:
         return rollback("搬完位置不对", wrong)
 
+    # ★ 第 5 项（2026-09-03 加）：缝守恒 —— 条目正文之外的东西也不许丢
+    #   ① 搬完两个文件的缝必须全部规范（否则下一次搬迁会继续吃行）
+    #   ② 非空行多重集**只许多不许少**，且多出来的只能是新造的族头／族间 `---`
+    gap_bad = []
+    for f in (PROBLEMS, GRADUATED):
+        for key, got, want in gap_anomalies(f):
+            gap_bad.append(f"{os.path.basename(f)} {key} 缝是 {got}，应为 {want}")
+    if gap_bad:
+        return rollback("搬完缝不规范（族内只空一行／族间 --- ）", gap_bad)
+    def nonblank(t):
+        c = {}
+        for l in t.split("\n"):
+            if l.strip():
+                c[l] = c.get(l, 0) + 1
+        return c
+    n0, n1 = nonblank(ptext + "\n" + gtext), nonblank(new_p + "\n" + new_g)
+    lost = [f"{l}  ×{n0[l] - n1.get(l, 0)}" for l in n0 if n1.get(l, 0) < n0[l]]
+    if lost:
+        return rollback(f"有 {len(lost)} 种非空行**丢了**（搬迁只许挪、⛔ 不许少）", lost)
+    gained = [l for l in n1 if n1[l] > n0.get(l, 0)]
+    bad_gain = [l for l in gained if not (RE_FAM_HEAD.match(l) or l.strip() == "---"
+                                          or l.startswith("> "))]
+    if bad_gain:
+        return rollback(f"凭空多出 {len(bad_gain)} 种非空行（只允许新造族头与 --- ）", bad_gain)
+
     # ── 4. 报告 ────────────────────────────────────────────────────────
     print("─" * 74)
     print(f"✔ 已搬 {len(p2g) + len(g2p)} 条 · 条目正文逐字节未变 · 状态字段未变 · "
-          f"check 无新增报告")
+          f"check 无新增报告 · **缝规范且非空行一行没丢**")
     print(f"  全档 {len(ents1)} 条 ＝ problems.md "
           f"{sum(1 for e in ents1 if e.src=='problems.md')} ＋ graduated.md "
           f"{sum(1 for e in ents1 if e.src=='graduated.md')}"
@@ -2428,6 +2770,8 @@ def cmd_trigger(args):
 DELIVER_SPECS = {
     "组": {
         "head": None,  # 运行时用 "## 复习 · 第 N 组" 拼
+        # ★ 条件性子件（§4③d③）：本节自己报了「新建 ≥1 条」才要求「新建条目的正文」
+        "newborn": True,
         "parts": [
             ("题面",       ["题面"]),
             ("她的答案",   ["她的答案"]),
@@ -2449,6 +2793,8 @@ DELIVER_SPECS = {
     },
     "新题": {
         "head": "## 新题",
+        # ★ 条件性子件（§4⑤e 一并发 → §4③d③ 同一条口径）
+        "newborn": True,
         "parts": [
             ("题面与条件",     ["题面", "出题"]),
             ("她的原文",       ["她的原文", "逐句编号", "原文"]),
@@ -2503,6 +2849,30 @@ DELIVER_FLOOR_NODES  = "2026-08-30"
 #   2026-09-02 她定：复习组的「顺带判定」进必查件（§4③a 本来就写着它是交付内容）。
 #     更早的写法把它写成正文里的 `**顺带判定**`（08-30 就是）⇒ 列为存量提示，⛔ 不报错。
 DELIVER_FLOOR_INCIDENT = "2026-09-02"
+#   2026-09-03 她定：**新建条目的正文**进必查件（§4③d③ 白纸黑字：⛔ 只写「新建 #0267」＝ 没交付）。
+#     起因：09-03 的作文节里教练只做了「对照」、⛔ 没建条目，8 件全齐 ⇒ 硬闸照样 ERROR 0。
+#     ★ 这一件是**条件性**的：只有本节自己报了「新建 ≥1 条」才要求；报 0 条／没报 ⇒ ⛔ 不适用。
+DELIVER_FLOOR_NEWBORN = "2026-09-03"
+
+# 「新建条目的正文」子件的标题关键词（与其它子件同一个匹配方式：某一【段】以它开头）
+NEWBORN_KWS = ["新建条目", "新建的条目",
+               "本组新建条目", "本组新建的条目",
+               "本篇新建条目", "本篇新建的条目",
+               "本节新建条目", "本节新建的条目"]
+# 「报了新建 N 条」的行：⛔ 严格匹配、不兜底 —— `新建　N 条` ／ `本组新建  N 条` ／ `新建 N 条：#0415 …`
+RE_NEW_DECL = re.compile(r"新建[\s\u3000]*\d+\s*条")
+RE_NEW_NUM  = re.compile(r"#(\d{4})")
+
+
+def _declared_new(lines, a, b):
+    """本节自己报的「新建 N 条」→ (N, [声明的编号…], 行下标)。
+    取**第一条**这样的行：N ＝ 该行里的第一个整数，编号 ＝ 该行里所有 `#dddd`。
+    ⛔ 找不到这样的行 ⇒ (0, [], -1) ⇒ 这一条不适用、⛔ 不报错（不兜底、不猜）。"""
+    for i in range(a, b):
+        if RE_NEW_DECL.search(lines[i]):
+            m = re.search(r"\d+", lines[i])
+            return (int(m.group(0)) if m else 0), RE_NEW_NUM.findall(lines[i]), i
+    return 0, [], -1
 
 # ★★ 已知顶层节全集 —— 全脚本唯一一处「一个 ## 节到哪儿为止」的定义（她 2026-09-02 定）。
 #    此前只有追加练用它，回看／新题各写各的 stops ⇒ 回看不在 `## 教练侧` `## 收尾` 处收口，
@@ -3134,7 +3504,34 @@ def _deliver_scan(args, path, lines):
                     else:
                         errs.append("战报缺第 %s 行" % mark)
 
-        # ⑥ §0.9b④ 表格⛔不进围栏 —— session 里已经写进围栏的，emit 会原样照搬，
+        # ⑥ ★ 条件性子件「新建条目的正文」（§4③d③ / §4⑤e，她 2026-09-03 定）
+        #    只有本节自己报了「新建 ≥1 条」才要求；报 0 条／没报 ⇒ ⛔ 不适用、不报错。
+        #    起因：09-03 的作文节只做了「对照」、没建条目，8 件全齐 ⇒ 硬闸照样 ERROR 0。
+        if spec.get("newborn"):
+            decl_n, decl_nums, decl_i = _declared_new(lines, a, b)
+            if decl_n > 0:
+                nb = _find_part(parts, NEWBORN_KWS)
+                shown = " ".join("#" + x for x in decl_nums) or "（该行没写编号）"
+                if sdate < DELIVER_FLOOR_NEWBORN:
+                    notes.append("存量 · 本节报了新建 %d 条（L%d）—— 「新建条目的正文」%s 起才进"
+                                 "必查件，⛔ 不报错" % (decl_n, decl_i + 1, DELIVER_FLOOR_NEWBORN))
+                elif nb is None:
+                    errs.append("报了「新建 %d 条」（L%d：%s）却没有「新建条目的正文」子件 —— "
+                                "§4③d③：⛔ 只报编号 ＝ 没交付（### 标题的某一段要以「新建条目」／"
+                                "「新建的条目」开头）" % (decl_n, decl_i + 1, shown))
+                else:
+                    _t, ns_, ne_ = nb
+                    body_txt = "\n".join(lines[ns_:ne_])
+                    miss = [x for x in decl_nums if ("#" + x) not in body_txt]
+                    if miss:
+                        errs.append("「新建条目的正文」里缺这几条的正文：%s —— 本节报了新建 %d 条"
+                                    "（L%d：%s），§4③d③ 每一条都要把正文发出来"
+                                    % (" ".join("#" + m for m in miss), decl_n, decl_i + 1, shown))
+                    else:
+                        notes.append("新建条目的正文：报 %d 条 · 正文在 · 编号齐（%s）"
+                                     % (decl_n, shown))
+
+        # ⑦ §0.9b④ 表格⛔不进围栏 —— session 里已经写进围栏的，emit 会原样照搬，
         #    产出的粘贴件就是坏的（表格不再渲染）。⇒ 报 WARN，⛔ 不静默（她 2026-09-02 定）
         for name, _kws, mode in EMIT_PARTS.get(slug) or []:
             if mode != "raw":
@@ -3373,6 +3770,11 @@ def main():
     p.add_argument("--emit", action="store_true",
                    help="ERROR 0 时把【要粘贴给她的那一段】按 §0.9b 排版打到 stdout")
     p.set_defaults(func=cmd_deliver)
+
+    p = sub.add_parser("lookback",
+                       help="§4④ 回看哪一篇 ＝ 最近一篇【没被回看过】的新题（只读）")
+    p.add_argument("--date", help="把哪一天当「今天」（默认今天）")
+    p.set_defaults(func=cmd_lookback)
 
     p = sub.add_parser("check", help="格式校验")
     p.add_argument("--changed", action="store_true", help="只硬查本次改动的条目")
