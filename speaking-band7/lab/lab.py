@@ -410,6 +410,36 @@ def check_entry(e, touched_lines=None, all_nums=None):
     hard_entry = (e.src, e.status_lineno) in touched_lines or \
                  any(h.date >= STRICT_FROM for h in e.history)
 
+    # ── 契约⑤ 条目内顺序：头 → 元信息 → 状态行 → 历史行（日期升序）→ 备注块 ──────
+    #   2026-09-04 加：此前只写在 §3.1 里、没人查 ⇒ 全档 4 条（#1 #88 #95 #136）
+    #   把状态行埋在了日志行中间，同日已整改。
+    idx = {}
+    note_at = None
+    hist_after_note = []
+    for i, l in enumerate(e.raw):
+        if RE_META.match(l):
+            idx.setdefault("meta", i)
+        elif RE_STATUS.match(l):
+            idx.setdefault("stat", i)
+        elif RE_HIST.match(l):
+            idx.setdefault("hist", i)
+            if note_at is not None:
+                hist_after_note.append(l.strip()[:28])
+        elif RE_NOTE.match(l) and note_at is None:
+            note_at = i
+    order = [(k, idx[k]) for k in ("meta", "stat", "hist") if k in idx]
+    if [v for _, v in order] != sorted(v for _, v in order):
+        P.append(("ERROR",
+                  "条目内顺序不对（§3.1 契约⑤ 写死：头 → 元信息 → 状态行 → 历史行 → 备注块），"
+                  "实际是 " + " → ".join(k for k, _ in sorted(order, key=lambda x: x[1]))))
+    if hist_after_note:
+        P.append(("ERROR",
+                  f"有 {len(hist_after_note)} 条日期行写在 `- 备注` 之后（§3.1 契约⑤）："
+                  + "／".join(hist_after_note[:3])))
+    hd = [h.date for h in e.history]
+    if hd != sorted(hd):
+        P.append(("ERROR", "历史行日期乱序（§3.1 契约⑤ 要求日期升序）"))
+
     if e.status_raw is None:
         P.append(("ERROR", "缺状态行（`状态 连对N 连错N 上次<D|—> …`）"))
         return P
@@ -594,7 +624,8 @@ def cmd_stats(args):
           f"　（另有墓碑/迁出 {len(ents)-len(act)} 条，不占数）")
     print(f"🎓 已毕业   {len(grad)} 条（占 {len(grad)*100.0/max(len(act),1):.1f}%）")
     if pending_move:
-        print(f"   其中 {len(pending_move)} 条仍在 problems.md，**待她手动搬进 graduated.md**（§3.3）")
+        print(f"   ⏸ 其中 {len(pending_move)} 条还留在 problems.md —— "
+              f"**跑 `lab.py migrate` 把它们搬进 graduated.md**（§3.3 / §11）")
         if not args.brief:
             print(fmt_ids([e.num for e in pending_move]))
     print(f"未毕业     {len(ug)} 条")
@@ -715,6 +746,845 @@ def cmd_dedup(args):
     print("═" * 74)
     return 0
 
+
+# ══════════════════════════════════════════════════════════════════════════
+#  session 扫描器 —— deliver 与 lookback 共用（SKILL §9.1 session 机器契约）
+#
+#  ⛔ 严格匹配，不做兜底：session 写歪了 ⇒ deliver 报错 ⇒ **改 session，不改脚本**。
+#  DELIVER_FROM 之前的 session 是存量，只提示不报错（与 check 的存量口径同一个设计）。
+# ══════════════════════════════════════════════════════════════════════════
+DELIVER_FROM = "2026-09-05"
+
+RE_SESS_NAME = re.compile(r"^(20\d\d-\d\d-\d\d)\.md$")
+RE_H2 = re.compile(r"^## +(.*?)\s*$")
+RE_H3 = re.compile(r"^### +(.*?)\s*$")
+RE_SEC_GROUP = re.compile(r"^[①]?\s*复习组\s*·\s*第\s*(\d+)\s*组")
+RE_SEC_NEW = re.compile(r"^[③]?\s*新题\b")
+# ⚠️ 这三条 2026-09-04 修过：原来 `^[d]?\s*段?\s*重答` 认不出 `d 段 · 整题重答 2 道`，
+#    `^加练` 认不出 `③b 加练新题` ⇒ **重答与加练整类都没被扫到**（漏了 8 个节）。
+RE_SEC_REDO = re.compile(r"^[dⓓ][\s·dD]*段|重答")
+RE_SEC_EXTRA = re.compile(r"^\S{0,3}\s*加练")
+RE_SEC_LOOK = re.compile(r"^[⓪②]?\s*回看\b")
+RE_GROUP_N = re.compile(r"（\s*(\d+)\s*题\s*）")
+RE_BANK = re.compile(r"bank\s*[:：]\s*(\d+)")
+RE_REDO_ID = re.compile(r"\bR(\d+)\b")
+RE_QBLOCK = re.compile(r"^\[(\d+)\]\s*#(\d+)\s*·")
+RE_SBLOCK = re.compile(r"^\[S(\d+)\]")
+RE_LOOK_NONE = re.compile(r"无(（|$|\s)")
+# 认不出的 `##` 里，只有这些算「把上一节收掉」（其余一律并入当前节）
+RE_SEC_CLOSE = re.compile(r"收尾|本日纵向|待她裁|明天进场")
+
+Q_LABELS = ["原句", "判定", "最小改", "更好版"]
+DIFF_LABELS = ["diff-1", "diff-2"]
+FREE_H3 = [("① 最小修改版", "最小修改版"), ("② 更好版", "更好版"), ("③ 逐句 diff", "逐句 diff")]
+EMPTY_BETTER = "无更好版本"
+EMPTY_DIFF = "无 diff"
+
+
+def _fences(lines):
+    """→ [(起, 止)] 顶格 ``` 围栏的行区间（含边界行下标）。"""
+    out, open_at = [], None
+    for i, l in enumerate(lines):
+        if l.startswith("```"):
+            if open_at is None:
+                open_at = i
+            else:
+                out.append((open_at, i))
+                open_at = None
+    return out, open_at
+
+
+def scan_session(path):
+    """把一个 session 切成节。→ dict(date, sections=[…], fence_open)"""
+    lines = open(path, encoding="utf-8").read().split("\n")
+    fences, unclosed = _fences(lines)
+    inf = set()
+    for a, b in fences:
+        inf.update(range(a, b + 1))
+    secs, cur = [], None
+    for i, l in enumerate(lines):
+        if i in inf:
+            continue
+        m = RE_H2.match(l)
+        if not m:
+            continue
+        title = m.group(1)
+        # ★ 判序写死：**回看最先** —— 「② 回看 · D-1 两道整题重答」标题里带「整题重答」，
+        #   先判 redo 会把回看节误判成重答节（2026-09-04 实测）。
+        kind = ("look" if RE_SEC_LOOK.match(title) else
+                "group" if RE_SEC_GROUP.match(title) else
+                "new" if RE_SEC_NEW.match(title) else
+                "redo" if RE_SEC_REDO.search(title) else
+                "extra" if RE_SEC_EXTRA.match(title) else "other")
+        # ★ 节的作用域：一组的【出题】与【判定/三件套】常常写成两个 `##`
+        #   （实证 09-04：`## ① 复习组 · 第 1 组（3 题）` ＋ `## ① 第 1 组 · 判前自审`）。
+        #   ⇒ **认不出的 `##` 并入当前节**，只在【认得出的节标题】或【收尾】处闭合。
+        #   ⛔ 不做兜底的是节标题本身的写法（§9.1），不是这条作用域规则。
+        if kind == "other" and not RE_SEC_CLOSE.search(title):
+            continue
+        if cur:
+            cur["end"] = i
+        if kind == "other":
+            cur = None
+            continue
+        cur = dict(kind=kind, title=title, line=i + 1, start=i, end=len(lines))
+        secs.append(cur)
+    d = RE_SESS_NAME.match(os.path.basename(path))
+    return dict(date=d.group(1) if d else "?", path=path, lines=lines,
+                sections=secs, fences=fences, unclosed=unclosed, infence=inf)
+
+
+def _blocks_in(sc, sec, head_re):
+    """节内、围栏里的块：块头匹配 head_re ⇒ 块体到下一个块头／围栏结束。"""
+    out = []
+    for a, b in sc["fences"]:
+        if not (sec["start"] <= a < sec["end"]):
+            continue
+        cur = None
+        for i in range(a + 1, b):
+            m = head_re.match(sc["lines"][i])
+            if m:
+                cur = dict(m=m, line=i + 1, body=[])
+                out.append(cur)
+            elif cur is not None:
+                cur["body"].append(sc["lines"][i])
+    return out
+
+
+# diff 段里的小标题（`diff-1  原句 → 最小改`）不是内容行，也不能顶替块头的六项
+RE_DIFF_CAPTION = re.compile(r"^(原句|最小改|更好版)\s*→\s*(原句|最小改|更好版)\s*$")
+RE_DIFF_SENT = re.compile(r"^(原句|最小改|更好版)\s+\S")
+
+
+def _head_area(body):
+    """块头的六项只认【第一个 diff- 之前】那一段 ——
+    ⛔ 不能被 diff 段里的 `原句 …`／`最小改 …` 顶替（它们是 diff 的两行完整句）。"""
+    out = []
+    for l in body:
+        if any(l.strip().startswith(x) for x in DIFF_LABELS):
+            break
+        out.append(l)
+    return out
+
+
+def _has_label(body, label):
+    for l in body:
+        s = l.strip()
+        if s.startswith(label):
+            return s[len(label):].strip()
+    return None
+
+
+def check_session(sc, only=None):
+    """→ [(level, 位置, 说明)]"""
+    P = []
+    hard = sc["date"] >= DELIVER_FROM
+    LV = "ERROR" if hard else "INFO"
+    if sc["unclosed"] is not None:
+        P.append(("ERROR", f"L{sc['unclosed']+1}", "有一个 ``` 围栏没闭合 —— 后面整片会被吞成代码块"))
+    kinds = [s["kind"] for s in sc["sections"]]
+    if "group" not in kinds and "new" not in kinds and "redo" not in kinds:
+        P.append((LV, "-", "整份 session 里认不出任何【复习组／新题／重答】节 —— §9.1 节标题写歪了"))
+
+    for sec in sc["sections"]:
+        if only and sec["kind"] != only:
+            continue
+        loc = f"L{sec['line']}"
+        t = sec["title"]
+
+        if sec["kind"] == "group":
+            m = RE_GROUP_N.search(t)
+            blocks = _blocks_in(sc, sec, RE_QBLOCK)
+            if not m:
+                P.append((LV, loc, f"复习组节标题没写（N 题）：`{t[:40]}` —— §9.1 要求写死题数"))
+            elif len(blocks) != int(m.group(1)):
+                P.append((LV, loc,
+                          f"标题写着 {m.group(1)} 题，节里只有 {len(blocks)} 个 `[n] #NNN ·` 三件套块"))
+            if not blocks:
+                P.append((LV, loc, "复习组节里一个三件套块都没有（§7 每题都要给，含全对的）"))
+            seen = set()
+            for b in blocks:
+                bl = f"L{b['line']}"
+                idx, num = b["m"].group(1), b["m"].group(2)
+                if num in seen:
+                    P.append((LV, bl, f"#{num} 在同一节里出现两次"))
+                seen.add(num)
+                headA = _head_area(b["body"])
+                for lab_ in Q_LABELS:
+                    v = _has_label(headA, lab_)
+                    if v is None:
+                        P.append((LV, bl, f"[{idx}] #{num} 缺「{lab_}」行（§7 六项一项不许省）"))
+                    elif not v:
+                        P.append((LV, bl, f"[{idx}] #{num} 的「{lab_}」是空的"))
+                better = _has_label(b["body"], "更好版")
+                if better is not None and not better:
+                    pass
+                for lab_ in DIFF_LABELS:
+                    v = _has_label(b["body"], lab_)
+                    if v is None:
+                        P.append((LV, bl, f"[{idx}] #{num} 缺「{lab_}」段（§7③ 两段必须分开）"))
+                        continue
+                    seg = _diff_seg(b["body"], lab_)
+                    if not seg:
+                        P.append((LV, bl, f"[{idx}] #{num} 的「{lab_}」段是空的"))
+                    elif EMPTY_DIFF not in " ".join(seg) and len(_diff_sentences(seg)) < 2:
+                        P.append((LV, bl,
+                                  f"[{idx}] #{num} 的「{lab_}」有改动却没摆两行完整句"
+                                  f"（§7③：⛔ 只写 xxx → yyy 不算 diff）"))
+            h3 = [RE_H3.match(sc["lines"][i]).group(1)
+                  for i in range(sec["start"], sec["end"])
+                  if i not in sc["infence"] and RE_H3.match(sc["lines"][i])]
+            if not any("新建条目" in x for x in h3):
+                P.append((LV, loc, "缺【本组新建条目】块（§7「新建条目必须让她看见」，没有也要写「无」）"))
+
+        elif sec["kind"] in ("new", "redo", "extra"):
+            if sec["kind"] == "new" and not RE_BANK.search(t):
+                P.append((LV, loc, f"新题节标题没带题号：`{t[:40]}` —— §9.1 要求写 `bank:NNN`"))
+            if sec["kind"] == "redo" and not RE_REDO_ID.search(t):
+                P.append((LV, loc, f"重答节标题没带 `RN`：`{t[:40]}`"))
+            h3 = {RE_H3.match(sc["lines"][i]).group(1): i + 1
+                  for i in range(sec["start"], sec["end"])
+                  if i not in sc["infence"] and RE_H3.match(sc["lines"][i])}
+            for want, key in FREE_H3:
+                if not any(key in x for x in h3):
+                    P.append((LV, loc, f"自由产出缺 `### {want}` 这一节（§7 四件套）"))
+            sb = _blocks_in(sc, sec, RE_SBLOCK)
+            if not sb:
+                P.append((LV, loc, "逐句 diff 里一个 `[S1]` 块都没有（§7③ 多句逐句走两段）"))
+            for b in sb:
+                bl = f"L{b['line']}"
+                sid = b["m"].group(1)
+                for lab_ in DIFF_LABELS:
+                    if _has_label(b["body"], lab_) is None:
+                        P.append((LV, bl, f"[S{sid}] 缺「{lab_}」段（§7③）"))
+                        continue
+                    seg = _diff_seg(b["body"], lab_)
+                    if seg and EMPTY_DIFF not in " ".join(seg) \
+                            and len(_diff_sentences(seg)) < 2:
+                        P.append((LV, bl,
+                                  f"[S{sid}] 的「{lab_}」有改动却没摆两行完整句（§7③）"))
+
+        elif sec["kind"] == "look":
+            rest = RE_SEC_LOOK.sub("", t).strip(" ·").strip()
+            if not (RE_BANK.search(t) or RE_REDO_ID.search(t) or RE_LOOK_NONE.match(rest)):
+                P.append((LV, loc,
+                          f"回看节标题没写回看的是哪一篇：`{t[:44]}` —— "
+                          f"§9.1 要求写 `## ② 回看 · bank:NNN`（没得回看写 `· 无（理由）`）"))
+    return P
+
+
+def _diff_seg(body, label):
+    """取 diff-1／diff-2 标签之后、下一个 diff 标签之前的非空行。
+    标签行的尾巴照收（自由产出写成 `diff-1  原句   I need …`），
+    但小标题 `原句 → 最小改` 会在下面被 RE_DIFF_CAPTION 滤掉。"""
+    out, on = [], False
+    for l in body:
+        s = l.strip()
+        if s.startswith(label):
+            on = True
+            tail = s[len(label):].strip()
+            if tail:
+                out.append(tail)
+            continue
+        if on and any(s.startswith(x) for x in DIFF_LABELS):
+            break
+        if on and s:
+            out.append(s)
+    return out
+
+
+def _diff_sentences(seg):
+    """段里【摆出来的完整句】＝ 以 原句／最小改／更好版 打头且不是小标题的行。"""
+    return [s for s in seg if RE_DIFF_SENT.match(s) and not RE_DIFF_CAPTION.match(s)]
+
+
+def cmd_deliver(args):
+    path = args.session
+    if not os.path.isabs(path) and not os.path.exists(path):
+        path = os.path.join(SESSIONS, os.path.basename(path))
+    if not os.path.exists(path):
+        sys.exit(f"⛔ session 文件不存在：{args.session}")
+    sc = scan_session(path)
+    only = {"复习组": "group", "新题": "new", "重答": "redo", "加练": "extra",
+            "回看": "look"}.get(args.section) if args.section else None
+    if args.section and only is None:
+        sys.exit(f"⛔ --section 只认 复习组／新题／重答／加练／回看，收到「{args.section}」")
+    P = check_session(sc, only)
+    W = "═" * 78
+    print(W)
+    print(f"lab.py deliver · {os.path.basename(path)} · 交付物硬闸（§7 / §9.1）")
+    print(W)
+    print(f"  日期 {sc['date']}　节 {len(sc['sections'])} 个："
+          + "／".join(f"{s['kind']}@L{s['line']}" for s in sc["sections"] if s["kind"] != "other"))
+    if sc["date"] < DELIVER_FROM:
+        print(f"  ⚠️ 这份 session 早于 {DELIVER_FROM} ⇒ **存量**：只提示，不报错（§9.1）")
+    print("─" * 78)
+    err = [x for x in P if x[0] == "ERROR"]
+    warn = [x for x in P if x[0] == "WARN"]
+    info = [x for x in P if x[0] == "INFO"]
+    for lv, loc, msg in err + warn:
+        print(f"{lv:<6} {loc:<8} {msg}")
+    if info:
+        print(f"存量提示 {len(info)} 条（{sc['date']} < {DELIVER_FROM}，不报错）")
+        for lv, loc, msg in info[:12]:
+            print(f"       {loc:<8} {msg}")
+        if len(info) > 12:
+            print(f"       …… 还有 {len(info)-12} 条")
+    print("─" * 78)
+    print(f"⇒ ERROR {len(err)} · WARN {len(warn)} · 存量提示 {len(info)}"
+          + ("　⇒ **可以发**" if not err else "　⇒ ⛔ **不许发**"))
+    print(W)
+    return 1 if err else 0
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  lookback —— 哪几篇自由产出还没被回看过（SKILL §4② / §5⓪）
+#     ⛔ 只读：不写任何文件。
+# ══════════════════════════════════════════════════════════════════════════
+def scan_all_sessions():
+    news, looked = [], {}
+    if not os.path.isdir(SESSIONS):
+        return news, looked
+    for f in sorted(os.listdir(SESSIONS)):
+        if not RE_SESS_NAME.match(f):
+            continue
+        sc = scan_session(os.path.join(SESSIONS, f))
+        for s in sc["sections"]:
+            if s["kind"] in ("new", "redo", "extra"):
+                ids = ["bank:" + m.group(1) for m in RE_BANK.finditer(s["title"])]
+                ids += ["R" + m.group(1) for m in RE_REDO_ID.finditer(s["title"])]
+                for pid in (ids or [None]):
+                    # 同一文件同一题号只算一篇：抽题记录节与逐题记录节是同一篇产出
+                    if pid and any(x["file"] == f and x["id"] == pid for x in news):
+                        continue
+                    news.append(dict(id=pid, kind=s["kind"], date=sc["date"],
+                                     title=s["title"], line=s["line"], file=f))
+            elif s["kind"] == "look":
+                for m in RE_BANK.finditer(s["title"]):
+                    looked.setdefault("bank:" + m.group(1), []).append((sc["date"], f, s["line"]))
+                for m in RE_REDO_ID.finditer(s["title"]):
+                    looked.setdefault("R" + m.group(1), []).append((sc["date"], f, s["line"]))
+    return news, looked
+
+
+def cmd_lookback(args):
+    today = args.date or date.today().isoformat()
+    news, looked = scan_all_sessions()
+    W = "═" * 78
+    print(W)
+    print(f"lab.py lookback · {today} · §4② 回看目标　【只读：⛔ 不写任何文件】")
+    print(W)
+    print("  口径　回看目标 ＝ **最近一篇【没被回看过】的自由产出**（新题／重答／加练）")
+    print("  认法　自由产出 ＝ session 里 `## ③ 新题 …（bank:NNN）` / `## d 段 重答 · RN` 的标题行")
+    print("  　　　已回看 ＝ 任意 session 的 `## ② 回看 · bank:NNN` **标题行**上的题号")
+    print(f"  扫的　{SESSIONS}/*.md")
+    print()
+    print("① 全部自由产出（逐条列）")
+    noid = [x for x in news if not x["id"]]
+    for x in news:
+        tag = x["id"] or "⛔无题号"
+        if x["id"] and x["id"] in looked:
+            mark = "✅ 已回看　← " + "／".join(f"{d}:{f}:{l}" for d, f, l in looked[x["id"]])
+        elif not x["id"]:
+            mark = "⛔ 标题没带题号 ⇒ 追不了（§9.1 要求写 bank:NNN／RN）"
+        elif x["date"] >= today:
+            mark = "⚠️ 今天（或更晚）写的 ⇒ 本次⛔不作目标"
+        else:
+            mark = "⏳ 未回看"
+        print(f"   {tag:<10} {x['date']}  {x['file']}:{x['line']}  {mark}")
+    print(f"   ── 共 {len(news)} 篇（其中 {len(noid)} 篇标题没带题号）")
+    print()
+    cand = [x for x in news if x["id"] and x["id"] not in looked and x["date"] < today]
+    print("② 本次回看目标")
+    if not cand:
+        print("   （没有未回看的自由产出 ⇒ 写一句「无自由产出可回看」跳过）")
+    else:
+        t = max(cand, key=lambda x: (x["date"], x["line"]))
+        print(f"   ★ {t['id']}　{t['date']}　{t['file']}:{t['line']}")
+        print(f"     标题：{t['title'][:60]}")
+        print(f"     ⇒ 四件套逐字取自这一节，⛔ 禁止重新推导（§4②）")
+        if len(cand) > 1:
+            print(f"     （另有 {len(cand)-1} 篇也没回看过："
+                  + "／".join(x["id"] for x in sorted(cand, key=lambda x: x['date'])[:6]) + "）")
+    print(W)
+    return 0
+
+# ══════════════════════════════════════════════════════════════════════════
+#  prompts —— 题面逐字核对（SKILL §6「执行动作写死」的机器版）
+#
+#  §6 原来写的是三步手工仪式：① 先 grep/awk 打出整行 ② 从打出来的那行复制
+#  ③ 发送前逐句对一遍。第 ③ 步是纯散文钩子 —— 写作线的实证是这种钩子活不过一天。
+#  本命令把 ① 和 ③ 都变成机器动作：
+#      lab.py prompts 315 316 317              打出这几条的【元信息整行】，供逐字复制
+#      lab.py prompts --verify draft.md 315 …  拿发题稿与档案逐字比，不一致 ⇒ ERROR
+#
+#  核对口径（⛔ 不做兜底、不做模糊匹配）：
+#     题面字段里的每一个【引号句】与每一个【括号限定】都必须**逐字**出现在发题稿里。
+#     · 引号句 ＝ 要她翻译的中文本体　　· 括号限定 ＝ 点名（§6 出题前自查的落点）
+#     ⇒ 少一句 ＝ 改了题面；丢一个括号 ＝ 把点名吞了（她会答对却被判没到考点）
+# ══════════════════════════════════════════════════════════════════════════
+RE_Q = re.compile(r"[\"“]([^\"”]{2,})[\"”]")
+RE_PAREN = re.compile(r"（([^（）]{2,})）")
+
+
+def prompt_pieces(prompt):
+    """题面 → (引号句列表, 括号限定列表)。⛔ 逐字，不归一化。"""
+    if not prompt:
+        return [], []
+    return RE_Q.findall(prompt), RE_PAREN.findall(prompt)
+
+
+def cmd_prompts(args):
+    ents = {e.num: e for e in load_all()}
+    nums = []
+    for x in (args.nums or []):
+        for y in re.split(r"[,\s]+", str(x)):
+            y = y.strip().lstrip("#")
+            if y:
+                nums.append(int(y))
+    if not nums:
+        sys.exit("⛔ 要核对哪几条？`lab.py prompts 315 316 317`")
+    miss = [n for n in nums if n not in ents]
+    if miss:
+        sys.exit(f"⛔ 全档没有这些编号：{miss}")
+
+    W = "═" * 78
+    print(W)
+    print("lab.py prompts · 题面逐字核对（§6）")
+    print(W)
+    print("① 档案原文（发题稿**只许从这里复制**，⛔ 不许照着标题现想句子）")
+    for n in nums:
+        e = ents[n]
+        meta = next((l for l in e.raw if RE_META.match(l)), None)
+        loc = f"{e.src}:{e.start}"
+        if meta is None:
+            print(f"   #{n:<5} ⛔ 这一条没有【类型 … ｜ 题面 …】元信息行（{loc}）")
+            continue
+        off = e.raw.index(meta) + 1
+        print(f"   #{n:<5} {e.src}:{e.start + off}")
+        print(f"          {meta}")
+    if not args.verify:
+        print("─" * 78)
+        todo = [n for n in nums if not ents[n].prompt]
+        if todo:
+            print(f"⛔ 题面待补 {len(todo)} 条：{' '.join('#'+str(x) for x in todo)}"
+                  f" —— §6 出不了题，先补题面再出")
+        print("② 发题稿写好后，⛔ 必须回来跑一次：")
+        print(f"   lab.py prompts --verify <发题稿文件> {' '.join(str(x) for x in nums)}")
+        print(W)
+        return 1 if todo else 0
+
+    if not os.path.exists(args.verify):
+        sys.exit(f"⛔ 发题稿文件不存在：{args.verify}")
+    draft = open(args.verify, encoding="utf-8").read()
+    print("─" * 78)
+    print(f"② 逐字核对：{os.path.basename(args.verify)}（{len(draft)} 字）")
+    errs = []
+    for n in nums:
+        e = ents[n]
+        qs, ps = prompt_pieces(e.prompt)
+        if not e.prompt:
+            errs.append((n, "题面待补 —— §6 出不了题"))
+            continue
+        if not qs:
+            errs.append((n, f"题面里没有引号句，脚本核不了：{e.prompt[:40]}"))
+            continue
+        for q in qs:
+            if q not in draft:
+                errs.append((n, f"发题稿里找不到这一句（逐字）：「{q}」"))
+        for p in ps:
+            if p not in draft:
+                errs.append((n, f"发题稿里丢了这个括号限定（＝点名被吞）：「（{p}）」"))
+        ok_q = sum(1 for q in qs if q in draft)
+        ok_p = sum(1 for p in ps if p in draft)
+        flag = "✅" if (ok_q == len(qs) and ok_p == len(ps)) else "⛔"
+        print(f"   {flag} #{n:<5} 引号句 {ok_q}/{len(qs)} ｜ 括号限定 {ok_p}/{len(ps)}")
+    print("─" * 78)
+    if errs:
+        print(f"⛔ **{len(errs)} 处不一致 —— 不许发题**（§6 题面逐字）")
+        for n, m in errs:
+            print(f"   #{n}  {m}")
+        print(W)
+        return 1
+    print(f"✅ {len(nums)} 条题面逐字一致 —— 可以发（§6.5 审核表第 5 项的证据就是这一段）")
+    print(W)
+    return 0
+
+# ══════════════════════════════════════════════════════════════════════════
+#  migrate —— problems.md ⇄ graduated.md 双向搬迁（SKILL §3.3 / §11）
+#
+#  ⛔ 本命令【一个字都不产生】：只把**已经存在的整块字节**从一个文件搬到另一个。
+#     判断（谁毕业、谁回潮）仍然全部由教练手写状态行，脚本只认状态行的 🎓。
+#       problems.md 里状态有 🎓  ⇒ 搬进 graduated.md
+#       graduated.md 里没有 🎓   ⇒ 搬回 problems.md（＝ 🎓 后回潮的）
+#       墓碑/迁出条目 ⇒ ⛔ 一律不动（它们是指针，留在原地）
+#
+#  切块口径（本函数是全脚本唯一一处「档案的块状结构」定义）：
+#     文件 ＝ header ＋ Σ(块 body ＋ 块 trail) ＋ trailer
+#       header   第一个 `### N ·` 之前的全部行
+#       块       一个条目：`### N · 标题` → 尾部分隔行之前
+#       trail    紧跟其后的空行／`---`（＝ 这个块与下一个块之间的「缝」）
+#       trailer  最后一个条目之后、以 `#`/`##` 开头的收尾节（problems.md 的「迁移说明」）
+#     ⇒ 拼回去必须与原文逐字节相同（每次都先自校这一条，不过就退出）
+# ══════════════════════════════════════════════════════════════════════════
+
+ENTRY_GAP = [""]                 # 条目与条目之间的缝
+
+
+class Blk:
+    __slots__ = ("num", "body", "trail")
+
+    def __init__(self, num, body, trail):
+        self.num = num
+        self.body = body          # 条目头那行 + 正文，⛔ 逐字不动
+        self.trail = trail        # 块后面的缝
+
+    def __repr__(self):
+        return f"<Blk #{self.num} body={len(self.body)} trail={self.trail!r}>"
+
+
+def split_file(path):
+    """→ (header, [Blk…], trailer, 原文本)。⛔ 严格：拼回去与原文逐字节相同。"""
+    text = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
+    lines = text.split("\n")
+    heads, tops, fence = [], [], False
+    for i, l in enumerate(lines):
+        if l.lstrip().startswith("```"):
+            fence = not fence
+            continue
+        if fence:
+            continue
+        if RE_ENTRY.match(l):
+            heads.append(i)
+        elif re.match(r"^#{1,2} ", l):
+            tops.append(i)
+    if not heads:                                   # 还没有条目（graduated.md 初始态）
+        return lines, [], [], text
+    # trailer ＝ 最后一个条目之后的第一个 `#`/`##` 节
+    after = [t for t in tops if t > heads[-1]]
+    tstart = after[0] if after else len(lines)
+    inner = [t for t in tops if heads[0] < t < heads[-1]]
+    if inner:
+        sys.exit(f"⛔ {os.path.basename(path)} L{inner[0]+1} 有个 `#`/`##` 标题夹在条目中间"
+                 f"（{lines[inner[0]][:40]}）—— 脚本读不懂这个结构，先修档案")
+    header = lines[:heads[0]]
+    trailer = lines[tstart:]
+    blocks = []
+    for k, i in enumerate(heads):
+        stop = heads[k + 1] if k + 1 < len(heads) else tstart
+        j = stop
+        while j > i + 1 and lines[j - 1].strip() in ("", "---"):
+            j -= 1
+        blocks.append(Blk(int(RE_ENTRY.match(lines[i]).group(1)), lines[i:j], lines[j:stop]))
+    back = header[:]
+    for b in blocks:
+        back += b.body + b.trail
+    back += trailer
+    if "\n".join(back) != text:
+        sys.exit(f"⛔ {os.path.basename(path)} 切块自校失败 —— 脚本读不懂这个文件，⛔ 不动它")
+    return header, blocks, trailer, text
+
+
+def join_file(header, blocks, trailer):
+    out = header[:]
+    for b in blocks:
+        out += b.body + b.trail
+    return "\n".join(out + trailer)
+
+
+def _msg_key(msg):
+    return re.sub(r"\bL\d+\b", "L*", msg)
+
+
+def _errmap(ents, all_nums):
+    out = Counter()
+    for e in ents:
+        for level, msg in check_entry(e, set(), all_nums):
+            out[(e.num, level, _msg_key(msg))] += 1
+    return out
+
+
+def _statesnap(ents):
+    return {e.num: (e.status_raw, e.ok, e.bad, e.grad, tuple(sorted(e.marks)),
+                    e.kind, e.prompt, len(e.history), e.tomb) for e in ents}
+
+
+def cmd_migrate(args):
+    ph, pb, pt, ptext = split_file(PROBLEMS)
+    gh, gb, gt, gtext = split_file(GRADUATED)
+    body_before = {}
+    for bl in (pb, gb):
+        for b in bl:
+            if b.num in body_before:
+                sys.exit(f"⛔ #{b.num} 在全档出现了两次 —— 先修重号再搬")
+            body_before[b.num] = tuple(b.body)
+
+    ents0 = load_all()
+    nums0 = {e.num for e in ents0}
+    err0, snap0 = _errmap(ents0, nums0), _statesnap(ents0)
+    pre_err = sum(v for (n, lv, m), v in err0.items() if lv == "ERROR")
+
+    by_num = {e.num: e for e in ents0}
+    p2g = sorted(e.num for e in ents0
+                 if e.src == "problems.md" and e.graduated and not e.tomb)
+    g2p = sorted(e.num for e in ents0
+                 if e.src == "graduated.md" and not e.graduated and not e.tomb)
+
+    W = "═" * 78
+    print(W)
+    print("lab.py migrate · problems.md ⇄ graduated.md 双向搬迁（§3.3 / §11）")
+    print(W)
+    if pre_err:
+        print(f"⚠️ 搬之前全档已有 {pre_err} 处 ERROR —— 搬迁不修它们、也不新增；"
+              f"搬完照常跑 `check --all`")
+    if not p2g and not g2p:
+        print("两边都没有要搬的：problems.md 无 🎓 · graduated.md 无非 🎓 ⇒ 无操作")
+        print(f"全档 {len(body_before)} 条 ＝ problems.md {len(pb)} ＋ graduated.md {len(gb)}")
+        print(W)
+        return 0
+    print(f"problems.md → graduated.md  {len(p2g)} 条（状态行有 🎓）")
+    print(fmt_ids(p2g))
+    print(f"graduated.md → problems.md  {len(g2p)} 条（状态行已无 🎓 ＝ 🎓 后回潮）")
+    print(fmt_ids(g2p) if g2p else "        （无）")
+    if args.dry_run:
+        print("─" * 78)
+        print("--dry-run：⛔ 没有写盘。去掉 --dry-run 才真搬。")
+        print(W)
+        return 0
+
+    def take(blocks, nums):
+        got, idx = {}, []
+        for i, b in enumerate(blocks):
+            if b.num in nums:
+                got[b.num] = b
+                idx.append(i)
+        for i in reversed(idx):
+            # 缝交给前一个块（族间/收尾的 `---` 因此不会被带走）；
+            # 下标 0 没有"前一个块" ⇒ 缝直接丢掉，下一块自带自己的缝。
+            if i > 0:
+                blocks[i - 1].trail = blocks[i].trail
+            del blocks[i]
+        return got
+
+    def put(blocks, header, blk):
+        at = len(blocks)
+        for i, b in enumerate(blocks):
+            if b.num > blk.num:
+                at = i
+                break
+        if at == 0:
+            blk.trail = list(ENTRY_GAP) if blocks else list(ENTRY_GAP)
+            if blocks:
+                blk.trail = list(ENTRY_GAP)
+            blocks.insert(0, blk)
+            if header and header[-1].strip():          # 目标文件头部没留空行 ⇒ 补一行
+                header.append("")
+        else:
+            prev = blocks[at - 1]
+            blk.trail = prev.trail
+            prev.trail = list(ENTRY_GAP)
+            blocks.insert(at, blk)
+
+    got_p = take(pb, set(p2g))
+    got_g = take(gb, set(g2p))
+    for n in p2g:
+        put(gb, gh, got_p[n])
+    for n in g2p:
+        put(pb, ph, got_g[n])
+    if gb and gb[-1].trail == []:                      # 目标文件末尾留一个空行收口
+        gb[-1].trail = list(ENTRY_GAP)
+    if pb and pb[-1].trail == [] and not pt:
+        pb[-1].trail = list(ENTRY_GAP)
+
+    new_p, new_g = join_file(ph, pb, pt), join_file(gh, gb, gt)
+    open(PROBLEMS, "w", encoding="utf-8").write(new_p)
+    open(GRADUATED, "w", encoding="utf-8").write(new_g)
+
+    def rollback(why, detail):
+        open(PROBLEMS, "w", encoding="utf-8").write(ptext)
+        open(GRADUATED, "w", encoding="utf-8").write(gtext)
+        print("─" * 78)
+        print(f"⛔ 搬完自校不过：{why} —— 两个文件已整批回滚，档案回到搬之前")
+        for d in detail[:20]:
+            print("   " + d)
+        print(W)
+        return 1
+
+    ph2, pb2, pt2, _ = split_file(PROBLEMS)
+    gh2, gb2, gt2, _ = split_file(GRADUATED)
+    body_after, dup = {}, []
+    for bl in (pb2, gb2):
+        for b in bl:
+            if b.num in body_after:
+                dup.append(b.num)
+            body_after[b.num] = tuple(b.body)
+    if dup:
+        return rollback("搬完出现重号", [f"#{x}" for x in sorted(set(dup))])
+    if set(body_after) != set(body_before):
+        lost = sorted(set(body_before) - set(body_after))
+        extra = sorted(set(body_after) - set(body_before))
+        return rollback("条目集合变了", [f"丢了 #{x}" for x in lost] + [f"多了 #{x}" for x in extra])
+    diff = [n for n in body_before if body_before[n] != body_after[n]]
+    if diff:
+        return rollback("有条目正文被改动了（搬迁必须逐字节原样）", [f"#{x}" for x in sorted(diff)])
+    if ph2 != ph or pt2 != pt or gt2 != gt:
+        return rollback("文件的头部/收尾节被动过（⛔ 搬迁不碰它们）", ["header 或 trailer"])
+    ents1 = load_all()
+    snap1 = _statesnap(ents1)
+    bad = [n for n in snap0 if snap0.get(n) != snap1.get(n)]
+    if bad:
+        return rollback("有条目的状态字段变了（⛔ 搬迁不改状态/连对/连错/标记/题面）",
+                        [f"#{n}" for n in sorted(bad)])
+    err1 = _errmap(ents1, {e.num for e in ents1})
+    new_errs = [f"#{n} {lv} {m}" for (n, lv, m), c in (err1 - err0).items()]
+    if new_errs:
+        return rollback(f"多出 {len(new_errs)} 处 check 报告", sorted(new_errs))
+    wrong = [f"#{e.num} 状态{'有' if e.graduated else '无'} 🎓 却住在 {e.src}"
+             for e in ents1 if not e.tomb and (e.graduated != (e.src == "graduated.md"))]
+    for bl, name in ((pb2, "problems.md"), (gb2, "graduated.md")):
+        order = [b.num for b in bl]
+        if order != sorted(order):
+            wrong.append(f"{name} 编号不是升序")
+    if wrong:
+        return rollback("搬完位置不对", wrong)
+
+    print("─" * 78)
+    print(f"✔ 已搬 {len(p2g)+len(g2p)} 条 · 条目正文逐字节未变 · 状态字段未变 · check 无新增")
+    print(f"  全档 {len(body_after)} 条 ＝ problems.md {len(pb2)} ＋ graduated.md {len(gb2)}"
+          f"　（搬前 {len(pb)+len(got_p)} ＋ {len(gb)-len(got_p)+len(got_g)}）")
+    for path, before, after in ((PROBLEMS, ptext, new_p), (GRADUATED, gtext, new_g)):
+        b, a = before.split("\n"), after.split("\n")
+        print(f"  {os.path.basename(path):<14} {len(b)} 行 → {len(a)} 行（{len(a)-len(b):+d}）")
+    print("─" * 78)
+    try:
+        out = subprocess.run(["git", "diff", "--numstat", "--", PROBLEMS, GRADUATED],
+                             cwd=ROOT, capture_output=True, text=True, timeout=30)
+        print("git 侧核对（§11 收尾要贴的就是这个）：")
+        for l in out.stdout.strip().splitlines():
+            add, dele, f = (l.split("\t") + ["", "", ""])[:3]
+            print(f"  {os.path.basename(f):<14} +{add} −{dele}")
+    except Exception as ex:                                   # noqa: BLE001
+        print(f"  （git diff 跑不了：{ex}）")
+    print("─" * 78)
+    print("下一步：① `lab.py check --all` ERROR 必须 0　② `lab.py stats` 抄新数")
+    print("  ⛔ 搬完这一次不要用 `check --changed`：整体位移会让 git diff 把大批没动过的")
+    print("    条目算成「改过」⇒ 存量行被按新文法查 ⇒ 全是假阳性")
+    print(W)
+    return 0
+
+# ══════════════════════════════════════════════════════════════════════════
+#  count —— 按【类型】数条目（SKILL §8）
+#
+#  ⛔ 禁用 grep 数条目：grep 数的是"字符串出现了几次"，本命令数的是"符合口径的
+#     条目有几条"。两者天生不等 —— 同一条里写两遍、或那句话落在正文别处，grep 都会错。
+#     实证 2026-09-04：§8 旧公式 `grep -c "^状态.*🎓"` ⇒ 291（真值 290，多数了一条墓碑）；
+#     `grep -c "^### "` 减它 ⇒ 未毕业 29（真值 13，把 17 条墓碑/迁出当成了在池）。
+#  ★ 每个类型都并排打【全档】与【未毕业】两个数 —— 报数必须说清是哪一个。
+# ══════════════════════════════════════════════════════════════════════════
+def _has_oldno(e):
+    return any("旧号" in l for l in e.raw[:3])
+
+
+TYPES = [
+    # slug            中文名          口径 —— 脚本认的锚点                       predicate
+    # ── 状态类（互斥；前两类相加 ＝ 全档总数，墓碑不占数）────────────────
+    ("grad",      "🎓 已毕业",    "状态行有 `🎓 已毕业`（§3.3）",              lambda e: e.graduated),
+    ("ungrad",    "未毕业",       "非墓碑 ＋ 状态行无 🎓",                     lambda e: not e.graduated),
+    ("tomb",      "墓碑/迁出",    "标题是（已并入…）／⛔ 作废，或状态行写着已迁入/迁出"
+                                  " —— ⛔ **不占全档数**",                     lambda e: e.tomb, True),
+    # ── 出题口径类（决定这条会不会被 pick 抽到）──────────────────────
+    ("drawable",  "可出题",       "未毕业 ＋ 非墓碑 ＋ 无「不召回／停出」标记",   lambda e: e.drawable),
+    ("morph",     "形态类·不召回", f"状态行标记 `{M_MORPH}`（§3.4）",           lambda e: M_MORPH in e.marks),
+    ("onlylog",   "只记录·不出题", f"状态行标记 `{M_ONLYLOG}`（§3.4④）",        lambda e: M_ONLYLOG in e.marks),
+    ("spell",     "拼写类·不召回", f"状态行标记 `{M_SPELL}`（§2.1②）",          lambda e: M_SPELL in e.marks),
+    ("noreview",  "复习组停出",    f"状态行标记 `{M_NOREVIEW}`（§6）",           lambda e: M_NOREVIEW in e.marks),
+    ("multi",     "合并条·多句覆盖", f"状态行标记 `{M_MERGED}`（§3.2c）"
+                                    " ⇒ 出题必须多句覆盖全部成员",              lambda e: M_MERGED in e.marks),
+    ("stubborn",  "顽固",         f"状态行标记 `{M_STUBBORN}`",                lambda e: M_STUBBORN in e.marks),
+    # ── 进度类（只对未毕业有意义）──────────────────────────────────
+    ("streak0",   "未毕业·连对 0", "未毕业 ＋ 连对 0",                          lambda e: not e.graduated and e.ok == 0),
+    ("streak1",   "未毕业·连对 1", "未毕业 ＋ 连对 1（差一次毕业）",             lambda e: not e.graduated and e.ok == 1),
+    ("streak2+",  "未毕业·连对 ≥2", "未毕业 ＋ 连对 ≥2 ⚠️ 到线未毕业，⛔ 要修",  lambda e: not e.graduated and (e.ok or 0) >= 2),
+    ("bad2+",     "连错 ≥2",      "连错 ≥2（§4① 必进池）",                     lambda e: (e.bad or 0) >= 2),
+    ("everbad",   "犯过错的",      "历史里出现过 ❌ 或 📖",                      lambda e: e.ever_bad()),
+    # ── 题面类 ───────────────────────────────────────────────────
+    ("prompt-todo", "题面待补",   "元信息里没有「题面」字段或为空 ⇒ ⛔ 出不了题", lambda e: not e.prompt),
+    # ── 来源类 ───────────────────────────────────────────────────
+    ("migrated",  "旧 B 表迁移",  "元信息里有「旧号 B…」（2026-08-18 迁移）",     _has_oldno),
+    ("never",     "从未被测",     "「上次」＝ —（一次都没被判定过）",            lambda e: not e.last_tested()),
+    # ── 位置类 ───────────────────────────────────────────────────
+    ("in-problems",  "住 problems.md",  "解析时的来源文件（＝ 未毕业／待搬的 🎓）", lambda e: e.src == "problems.md"),
+    ("in-graduated", "住 graduated.md", "解析时的来源文件（＝ 已搬走的 🎓）",      lambda e: e.src == "graduated.md"),
+]
+TYPE_MAP = {t[0]: t for t in TYPES}
+
+
+def _kind_slugs(ents):
+    """类型（元信息第一格）动态成 slug：kind:搭配 / kind:语法 …"""
+    return sorted({e.kind for e in ents if e.kind})
+
+
+def cmd_count(args):
+    ents = load_all()
+    live = [e for e in ents if not e.tomb]          # 全档口径：墓碑不占数
+    ungrad = [e for e in live if not e.graduated]
+    W = "═" * 78
+
+    def sel_of(slug):
+        if slug.startswith("kind:"):
+            k = slug[5:]
+            return [e for e in live if e.kind == k], f"类型 {k}", f"元信息第一格 ＝ {k}"
+        t = TYPE_MAP.get(slug)
+        if not t:
+            sys.exit(f"⛔ 不认识的类型「{slug}」—— 跑一次不带 --type 看全表，"
+                     f"⛔ 不许临时发明类型名（SKILL §8）")
+        pool = ents if len(t) > 4 and t[4] else live   # 墓碑类要在全集里数
+        return [e for e in pool if t[3](e)], t[1], t[2]
+
+    if not args.type:
+        print(W)
+        print("lab.py count · 按类型数条目（⛔ 禁用 grep 数条目，§8）")
+        print(W)
+        print(f"全档 {len(live)} 条（墓碑/迁出 {len(ents)-len(live)} 条不占数）"
+              f" ｜ 其中未毕业 {len(ungrad)} 条")
+        print(f"{'slug':<15}{'类型':<16}{'全档':>6}{'未毕业':>8}   口径")
+        print("─" * 78)
+        for t in TYPES:
+            pool = ents if len(t) > 4 and t[4] else live
+            n_all = sum(1 for e in pool if t[3](e))
+            n_ug = sum(1 for e in ungrad if t[3](e))
+            print(f"{t[0]:<15}{t[1]:<16}{n_all:>6}{n_ug:>8}   {t[2]}")
+        print("─" * 78)
+        for k in _kind_slugs(live):
+            n_all = sum(1 for e in live if e.kind == k)
+            n_ug = sum(1 for e in ungrad if e.kind == k)
+            print(f"{'kind:'+k:<15}{'类型 '+k:<16}{n_all:>6}{n_ug:>8}   元信息第一格")
+        print(W)
+        print("★ 报数必须写清是【全档】还是【未毕业】口径 —— 两个数不一样（§8）")
+        print("  逐条清单：`lab.py count --type <slug>`　逐条详情：再加 --detail")
+        print(W)
+        return 0
+
+    sel, name, rule = sel_of(args.type)
+    ug = [e for e in sel if not e.graduated and not e.tomb]
+    print(W)
+    print(f"lab.py count --type {args.type} · **全档 {len(sel)} 条**"
+          f"（其中**未毕业 {len(ug)} 条**）/ 全档总数 {len(live)}")
+    print(f"口径：{name} —— {rule}")
+    print("★ 报这个数时必须写清是【全档】还是【未毕业】口径（§8）")
+    print(W)
+    if not args.detail:
+        print(fmt_ids([e.num for e in sorted(sel, key=lambda x: x.num)]))
+    else:
+        for e in sorted(sel, key=lambda x: x.num):
+            st = ("🎓" + (e.grad or "") if e.graduated else
+                  f"连对{e.ok} 连错{e.bad}")
+            mk = ("｜" + "／".join(sorted(e.marks))) if e.marks else ""
+            print(f"  #{e.num:<5} {st:<18} 上次 {(e.last_tested() or '—'):<11}"
+                  f" {e.kind or '—':<5} {e.title[:40]} {mk}")
+    print(W)
+    print(f"⇒ {len(sel)} 条。正文用 `lab.py show N`")
+    return 0
 
 # ══════════════════════════════════════════════════════════════════════════
 #  pick / used —— 出题（SKILL §4① 学习日 · §5 付息日）
@@ -1142,6 +2012,29 @@ def main():
     p.add_argument("--date")
     p.add_argument("--dry-run", action="store_true")
     p.set_defaults(func=cmd_append)
+
+    p = sub.add_parser("deliver", help="交付物硬闸（§7/§9.1）：ERROR>0 ⇒ ⛔ 不许发")
+    p.add_argument("--session", required=True, help="当日 session 文件（可只给文件名）")
+    p.add_argument("--section", help="复习组／新题／重答／加练／回看；不给则扫全部")
+    p.set_defaults(func=cmd_deliver)
+
+    p = sub.add_parser("lookback", help="哪几篇自由产出还没被回看过（§4②，只读）")
+    p.add_argument("--date", help="把哪一天当「今天」（默认今天）")
+    p.set_defaults(func=cmd_lookback)
+
+    p = sub.add_parser("prompts", help="题面逐字核对（§6）：打档案原文 ／ --verify 比发题稿")
+    p.add_argument("nums", nargs="*", help="条目编号，空格或逗号分隔")
+    p.add_argument("--verify", help="发题稿文件 —— 拿它与档案逐字比，不一致 ⇒ ⛔ 不许发")
+    p.set_defaults(func=cmd_prompts)
+
+    p = sub.add_parser("migrate", help="problems.md ⇄ graduated.md 双向搬迁（§3.3/§11）")
+    p.add_argument("--dry-run", action="store_true", help="只打搬迁清单，⛔ 不写盘")
+    p.set_defaults(func=cmd_migrate)
+
+    p = sub.add_parser("count", help="按【类型】数条目：不带 --type 打全表，带了打清单")
+    p.add_argument("--type", help="类型 slug（见不带参数时打印的那张表），或 kind:搭配")
+    p.add_argument("--detail", action="store_true", help="逐条打 编号·状态·上次·类型·标题")
+    p.set_defaults(func=cmd_count)
 
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")
