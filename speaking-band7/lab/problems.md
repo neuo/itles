@@ -71,6 +71,10 @@
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `I feel relaxed once I see my son. This movie is boring. I feel so bored watching it.`
   （relaxed／boring／bored 三个形态一次全对）
+- 2026-09-04 📝 **自发命中**（本条已毕业，只留痕、不推进数字）· 新题第 2 道
+  `when you say you are **hooked** on a new game`
+  ★ -ed 描述人，一次到位，介词 on 也对。
+  ★ 对照本条 08-11 的日志行：`I was hook` → hooked（当时是 ❌）。
 - 备注 合并 2026-08-19：#94（-ed 说人的感受／-ing 说东西的性质）并入本条 —— **完全同一条规则**
   ⚠️ 合并前本条按"零 ❌ 线"判 08-19 毕业；并入 #94 的日志后发现历史有两个 ❌，
      零 ❌ 线不适用 —— 但连对已达 4，**仍然毕业，只是毕业日回正到 08-17**
@@ -355,6 +359,12 @@
 状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `some teachers just talk at you for an hour.`
+- 2026-09-04 📝 **自发命中**（本条已毕业，只留痕、不推进数字）· 新题第 2 道
+  `parents or order people may just **talk at you** when you say you are hooked on a new game.`
+  ★ 语义、介词、语境三层全中：talk AT ＝ 单向灌输（不听你说），她这里正是"父母只会对着你说教"。
+  ★ 本条上一次被测是 **2026-08-19**（题面"有些老师就是对着你讲一小时。"）——
+    **隔 16 天、在完全不同的场景里自发调出来**，是本篇最硬的一条证据。
+  ｜`order` 是 older 打歪（§2.1 拼写，不算错）。
 
 ### 18 · 论元完整（中文可单说的动词，英文必须带宾语/补语）
 类型 结构 ｜ 题面 "我找了半天也没找到。" ｜ 旧号 B41
@@ -589,6 +599,16 @@
   ——yourself 补回来了（youself 是打字，按 §2.1 不算）
 - 2026-08-21 ✅ 复习 · `you don't need to explain youself to anyone.`——explain **yourself** to anyone
   → **连对2，毕业**（`youself` 按 §2.1 拼写不算）
+- 2026-09-04 📝 **留痕：本次未判**（⛔ 不判回潮、状态行一个字不动）· 新题第 2 道收尾
+  `It's about whether you **need to explain**.`
+  ★ 教练**差点判本条回潮**：本条 08-19 首犯正是 `you don't need to explain to anyone`（丢了 yourself），
+    形状看着一模一样。
+  ★ **推翻的理由（§7 四问①：试造一个母语者会说的句子来推翻自己）**：
+    本条的 ❌ 是在**点名题面**（"你不用跟任何人解释自己。"）下丢了 yourself；
+    而她今天这句 `whether you need to explain` **本身合法** —— `You don't need to explain.`
+    是英语里常说的（不带宾语的 explain 成立）⇒ **不是错** ⇒ ⛔ 不判回潮。
+  ★ 处置：只在 diff-2 给更准的块（`have to explain yourself`），本条状态一个字不动。
+  ★ 记一笔判据：**回潮是重动作，形状像 ≠ 同一个错。**
 - 备注 同族块：explain yourself／behave yourself／enjoy yourself／help yourself —— 反身代词是块的一部分
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
@@ -847,6 +867,19 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   `it mainly comes down to visual effects.`
   考点全中：visual effect**s** 恒复数 ＋ 无裸用的可数单数。
   顺带全对一处：comes down to（"归根到底看…"）。⇒ 状态行一个字不动
+- 2026-09-04 ⚪ 复习 · 第 1 组 · 同句第二处（本条只记录·不出题）
+  `older people often ask **younger generation** for advice` → **the** younger generation
+  ⚪ 形态类（§3.4②）：不记 ❌／不动状态行／不进复习池／不计入本组真错数。
+  ★ §3.4 执行自查（落 ❌ 之前必跑）："同一篇里她有没有把同一个形态做对过？"
+    **有，四处**：`These small companies`（限定词＋数一致）· `the government`（特指带 the）·
+    `The account`／`The login page`（特指带 the）· `older people`（泛指裸复数正确）
+    ⇒ 一律 ⚪。
+  ★ 挂 #56 不挂 #63 的理由：她不是**多加了一个 the**（那才是 #63 管的泛指/特指），
+    是**一个限定词都没有** ⇒ 正对 #56「可数名词单数必须带限定词」。
+    若走 #63 路线修，出口是 `younger generations` 复数 —— 也合法，但那是另一条路，
+    不是最小修改；同一处 ⛔ 不双记。
+  ★ 检查触发（复述给她的那句）：写完一个单数可数名词，回头看它左边有没有一个词
+    （the/a/my/this）。没有 ⇒ 要么补限定词，要么改成复数。
 
 - **检查触发**：写完可数名词单数，看它前面有没有 a／the／my（同 #150 一起扫）
 ### 57 · date night（约会之夜）
@@ -871,6 +904,13 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   ★ 题面只逼 visual effects 这一处，**本块是她自己接上去的** ⇒ 自发命中。
   ★ §4① 加速通道边界核：本条 08-19 即零 ❌ 毕业，不存在"刚掉的那一格" ⇒ 不涉边界，正常留痕。
   上一次同类留痕 ＝ 08-28（`it just comes down to different reasons…`，同样是她自己接上去的）。
+- 2026-09-04 📝 **自发命中**（本条已毕业，只留痕、不推进数字 · §3.1⑦）· 新题第 1 道开头
+  `**It mainly comes down to** two factors.`
+  ★ 与本条判据**逐字相同**，而且落在它真正的槽位（把一堆原因收成一个数）。
+  ★★ 值得单独记的一笔：09-03 她把这个块错塞进了 `when it comes to` 的槽位（→ 新建 #317）；
+    今天同一天里，第 1 组她挡住了不该有的 down（#317 ✅），这里放行了该有的 down（本条命中）——
+    **同一个块的两个方向，一天之内各测到一次，都对。**
+    ⇒ 09-03 归因（"太熟的块会去占相邻槽位，要靠问自己要哪个意思来挡"）当场被证成。
 
 ### 59 · 直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序
 类型 语法 ｜ 题面 "你昨天吃的什么？" ／ "我不知道你昨天吃了什么。" ｜ 旧号 B82＋B146
@@ -993,6 +1033,13 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
     the wrong bus ／ the wrong file ／ the wrong version。
     ★ 她**用对过的例子就在昨天那篇里**：08-31 R8 [S8] `you have to use it **the right way**` ✅。
   ★ 检查触发：写完 wrong／right，回头看一眼 —— 前面是 the 吗？
+- 2026-09-04 ⚪ 新题第 2 道 · 形态类（本条只记录·不出题）
+  `they are on the same wavelength and **share same interests**` → share **the** same interests
+  ⚪ 形态类（§3.4②）：不记 ❌／不动状态行／不进复习池／不计入本篇真错数。
+  ★ §3.4 执行自查这一次触发得最干净：**同一句里、隔 8 个词**，她刚写对
+    `on **the same** wavelength` —— 一模一样的块 ⇒ 一律 ⚪。
+  ★ 落本条的理由：`the same` ＝ 特指，必须带 the，正对本条"泛指不带 the，特指才带 the"；
+    全档 grep "the same" ⇒ 无专条 ⇒ ⛔ 不新建（形态类新开号 ＝ 开一个永不出题的号）。
 - 备注 检查触发：写完名词回头问一句"我说的是**这一个**，还是**这一类**？"
   这一类 → 不带 the（可数就用复数）｜ 这一个 → the／my／their
 - 备注 合并 2026-08-19：#160（泛指一类东西用复数不带冠词）＋ #112（traffic 带不带 the）并入本条 ——
@@ -2083,6 +2130,14 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
   `these sentences are really simple.` ／ `The five of us formed a team.`
   考点全中：These ＋ 复数 sentence**s** ｜ **a** team（单数限定词配单数名词）。
   ⇒ 状态行一个字不动
+- 2026-09-04 ⚪ 新题第 1 道 · 同句第二处（本条只记录·不出题）
+  `pointed at **three circle** on it` → three **circles**
+  ⚪ 形态类（§3.4②）：不记 ❌／不动状态行／不进复习池／不计入本篇真错数。
+  ★ §3.4 执行自查："同一篇里她有没有把同一个形态做对过？"
+    **有，五处**：`two factors`／`their ideas`／`little ones`／`kids`／`entertainment options`
+    ⇒ 一律 ⚪。
+  ★ 落本条不落 #56：本次**有**限定词（three），错的是限定词与名词的数不一致 ⇒ 正对本条；
+    #56 管的是"单数可数名词裸奔、一个限定词都没有" ⇒ 不适用。
 - **检查触发**：写完 a／an／this／these（**加 many／a lot of／these 这一类**），立刻看后面那个名词的尾巴
 
 ### 151 · （已并入）并列两边必须同形——可数性和单复数要齐
@@ -2242,10 +2297,23 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 **编号不复用不删除**。
 
 ### 161 · (the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分
-类型 语法 ｜ 题面 "我们仨一起去的。" ／ "我们当中有两个没来。" ｜ 旧号 B250
-状态 连对2 连错0 上次2026-08-19 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
+类型 语法 ｜ 题面 "我们仨一起去的。" ／ "我们当中有两个没来。" ／ **"他说这就是我们一家三口。"（也用 the ＋ 数字 ＋ of 说，2026-09-04 回潮后补，专测"要自己把 us 想出来"那一格）** ｜ 旧号 B250
+状态 连对0 连错1 上次2026-09-04 未毕业 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `The three of us went together. two of us didn't come.`（带 the ＝ 全体／不带 ＝ 一部分）
+- 2026-09-04 ❌ **回潮** · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）
+  `he pointed at three circles on it, saying they are **the three of my family**.` → the three of **us**
+  ❌ 她要说的是"我们一家三口"，从中文"我家的三个人"直译成了 the three of my family。
+  ★ 判重／回潮的**决定性证据**（§3.1，逐条人读，⛔ 未用脚本判）：
+    目标英文形式 ＝ `the three of us`；按本条的目标形式去改她这句 ——
+    `the three of my family` → `the three of **us**` ⇒ **得到正确答案** ⇒ 同一条 ⇒ 判回潮。
+  ★ 掉的是哪一格：**不是 the**（the 她加对了，本条"加 the ＝ 全体"那一半是对的），
+    掉的是 **of us 那一半在"一家三口"这个框里没调出来** ——
+    08-17／08-19 两次测的都是"我们仨一起去的"（人已经在句子里），
+    今天是"这就是我们一家三口"（要自己把 us 想出来）⇒ 新的一格，第一次测到。
+  ★ 配套动作（§4① 加速通道边界那条：回潮后的复测必须能测到掉的那一格）：
+    **当场补一句题面** ——"他说这就是我们一家三口。"（也用 the ＋ 数字 ＋ of 说）
+  ⇒ 撤销毕业、连对清零，状态行改回未毕业（手工改，见状态行）。
 - 备注 person 的复数口语一律 people
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
@@ -2755,6 +2823,14 @@ current developments        → what's going on         （新闻/报告说法 �
   ★ 本篇干净的部分：无 Additionally／Furthermore／Moreover ／无 In today's fast-paced world
     ／无 hold special significance ／无 primary；开头 `Mostly with technology, I'd say.` 是纯口语。
   ⇒ 连续第七篇执行书面登记扫描。**⛔ 不再逐次提请她裁决**（她 08-30 原话："B 后面别问了"）。
+- 2026-09-04 📝 **书面登记 ×2**（§7 固定检查项 · 不判回潮、状态行一个字不动）· 新题第 1 道
+  ① `he **presented** me a picture` → **showed** me a picture
+     两岁孩子把画拿给妈妈看，口语只用 show；present 是"颁发／正式呈递"的档位。
+  ② `kids have fewer **entertainment options**` → fewer **things to do**
+     things to do 她明明会，压力下先蹦出来的是抽象名词块。
+  ★ 不算的一处（自己推翻，留痕）：`two factors` —— 口语本来就说 come down to two factors
+    ⇒ 造得出母语句 ⇒ 不判为书面登记。
+  ★ 按她 08-30 定的选项 B：diff-2 给口语版 ⇒ 本条记一行 📝 ⇒ **完事，⛔ 不提请裁决**。
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -3430,6 +3506,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   一次带出本条工具箱里的**两个**成员（Then again ／ Having said that），转折位也选得准
   （前两句说好处，这里拐弯）。
   ★ 不计错：她是在打字里并排备选 ⇒ 只提醒"说的时候只能挑一个"，⛔ 不记档位、不判"不会选"。
+- 2026-09-04 📝 **自发命中**（本条已毕业，只留痕、不推进数字）· 新题第 2 道
+  `**On the flip side**, parents or older people may just talk at you…`
+  ★ 本条题面第 ④ 句就是"反过来说，网上买也有网上买的麻烦。（用 On the flip side 起头）"。
+  ★ 用得也对：前半句说朋友（同频）、后半句说父母（说教）—— 正是"另一面"，不是简单追加。
 - 备注 六个标记，按【放句子的哪一段】分三档：
 ```
 ① 开一个反面段落（放句首）
@@ -3469,6 +3549,14 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-24 ✅ **自发命中**（本条未被出题，不改已毕业状态）· 新题 bank:924 ·
   `Say you **promise your kid the latest iPhone** if they do well in their finals`
   ——人在前、东西在后，一次到位（08-20 同话题加练时她走的是 `it's an iPhone` 绕开了双宾语）
+- 2026-09-04 📝 **过度泛化留痕**（⛔ 不判回潮、状态行一个字不动）· 新题第 1 道
+  `he **presented me a picture**`（语序 ＝ 动词 ＋ 人 ＋ 东西）
+  ★ 她的**语序是对的**，本条的规则她执行得没问题 —— 错在把本条的规则
+    **套到了不属于这一族的动词上**（present 只有 present sth TO sb ／ present sb WITH sth）。
+  ★ **决定性证据**：按本条的规则去改她这句 ⇒ 语序已经对了 ⇒ **改不出正确答案**
+    ⇒ 不同考点 ⇒ 另开 #319，本条只留痕。
+  ★ 本条 备注 早写过「过度泛化警报：修一处，隔壁被带偏」（原是冲着 #18／🎓#134 写的）——
+    **这是它的第二次实证，方向不同**：这次被带偏的是"动词能不能进双宾语这一族"。
 
 - 备注 判据：这一族动词带两个宾语时，顺序固定 **动词 ＋ 人 ＋ 东西**
 ```
@@ -5631,7 +5719,7 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
 
 ### 315 · support FROM sb（谁给的）≠ support FOR sb（给谁的）
 类型 搭配 ｜ 题面 **点名**："这些小公司很需要政府的资金支持。" ／ "政府对小企业的支持还不够。"（两句的"支持"都用**名词 support ＋ 介词**说） ｜ 新建 2026-09-01
-状态 连对1 连错0 上次2026-09-03 未毕业
+状态 连对2 连错0 上次2026-09-04 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；09-01 新建当天首犯，两次复测 from／for 两个方向各一句全中）
 - 2026-09-01 ❌ 首犯 · 复习第1组 [8] 句里（题面 `政府的资金支持对经济增长很关键。`）·
   `**Financial support for governments** is vital to economic growth.`
   → Financial support **from** governments is vital to economic growth.
@@ -5651,6 +5739,12 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
     ⛔ **不归 #63 记 ⚪**：⚪ 是给"形态掉了"用的，这里两个形式都合法，不存在"掉"⇒ 只走 diff-2。
   ★ 第二句 `Government support` 一个字不改 —— 那里是**泛指政府这一类支持**，与主语档位一致，是对的。
   ⇒ 连对0 连错1 → **连对1**（差一次毕业）
+- 2026-09-04 ✅ 复习 · 第 1 组 · 中译英两句，考点位两个方向一次全对
+  `These small companies really need financial support **from** the government.`（谁给的）
+  `Government support **for** small businesses is still not enough.`（给谁的）
+  ★ 09-01 中译英首犯（写成 support to／方向混）→ 09-03 ✅ → 09-04 ✅ ⇒ 连对 2
+  ★ 判前自审留痕：`support of the government` 会反向读成"对政府的支持"，
+    `give support to sb` 里的 to 是动词 give 带的、不是名词 support 带的 ⇒ from／for 才是本条的两个出口。
 - 备注 判据：
 ```
 support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
@@ -5709,7 +5803,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
 
 ### 316 · log in（动词，两个词）≠ login（名词，一个词）
 类型 词汇 ｜ 题面 **点名**："账号被锁了，我登不进去。" ／ "登录页面加载很慢。"（两句的"登录"都用 **log** 这个词说；第一句当**动作**，第二句当**东西**） ｜ 新建 2026-09-01
-状态 连对1 连错0 上次2026-09-03 未毕业
+状态 连对2 连错0 上次2026-09-04 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；题面 09-03 整改过——只钉词根 log 不钉词形，两次测的都是真考点）
 - 2026-09-01 ❌ 首犯 · 新题 P3（question_bank.md:490 · What are the rules people should obey at work?）·
   `I remember one time users could neither **login in** nor place orders because the developer released a wrong version.`
   → users could neither **log in** nor place orders
@@ -5736,6 +5830,13 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
     · `is loading` → `loads`（**两个都对**：is loading ＝ 此刻正在；loads ＝ 一直都慢。
       中文属性句「登录页面加载很慢」默认说常态 ⇒ 一般现在时更贴。⛔ 这一处绝不是错，不进任何形态类）
   ⇒ 连对0 连错1 → **连对1**（差一次毕业）
+- 2026-09-04 ✅ 复习 · 第 1 组 · 中译英两句，动作位与名词位的词形分得干净
+  `The account is locked, so I can't **log in**.`（动词，两个词）
+  `The **login** page loads slowly.`（名词/定语，一个词）
+  ★ 09-03 出题前按 §6.5 第 7 项整改过题面（只钉词根 log、不钉词形）⇒ 两次测的都是真考点
+  ★ 09-03 ✅ → 09-04 ✅ ⇒ 连对 2
+  ★ 不判的一处（留痕）：09-03 她用 `and`、今天用 `so` 连接前后两句 —— 两个都合法，
+    且中文本就是因果 ⇒ 不判、不提。
 - 备注 判据：
 ```
 动词 ＝ **log in**（分开写两个词）
@@ -5780,7 +5881,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
 
 ### 317 · when it comes TO sth（说到／在……这件事上）
 类型 词组 ｜ 题面 **点名**："说到网购和穿搭这些，老人常会问年轻人。"（"说到……"这个块用 **come** 说） ｜ 新建 2026-09-03
-状态 连对0 连错1 上次2026-09-03 未毕业
+状态 连对2 连错0 上次2026-09-04 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-04 同日两次独立产出：第 1 组点名中译英 ＋ 新题第 2 道自由产出；§3.3 她 08-23 定"同一天多次产出各记一次"）
 - 2026-09-03 ❌ 首犯 · 新题 P3（question_bank.md:831 · When would old people ask young people for advice?）·
   `On top of that, when it **comes down to** modern lifestyle and trends - like online shopping,
   fashion choices or entertainment - older people might ask for recommendations…`
@@ -5795,6 +5896,27 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
     `current developments` ＝ 🎓#206 书面登记（另记）｜
     `older people` ＝ 🎓#234 自发命中（另记）
   ★ `modern lifestyle` 单数**未判**（判前自审 [C]）：两个形式都合法，没掉形态 ⇒ 连 ⚪ 都不记。
+- 2026-09-04 ✅ 复习 · 第 1 组 · 首次复测，考点位一字不差
+  `**When it comes to** online shopping and fashion, older people often ask younger generation for advice.`
+  ★ 09-03 首犯写的是 `when it comes **down** to` ⇒ 今天 down 没有再出现 ⇒ ✅，连对 0 → 1
+  ★ 判前自审留痕（反向偏见自查）：09-03 刚给它写过长归因（"太熟致错、熟块占相邻槽位"），
+    存在"想看她再错一次以证明归因"的倾向 ⇒ 强制只看这一句 ⇒ 干净 ✅。
+  ★ 同句第二处 `younger generation` 裸单数 ⇒ 归 #56，形态类只记 ⚪，不影响本条档位
+    （§3.3「标记打在条目上，不打在整句上」）。
+- 2026-09-04 ✅ 新题第 2 道（自由产出 · bank:549 P3 · Who do young people like to share opinions with?）· **同日第二次产出**
+  `especially **when it comes to** modern lifestyle and trends - like fasion choices, entertainment…`
+  ✅ 考点位一字不差，没有 down。
+  ★ 为什么这一次照算（§3.3 她 08-23 定："同一条同一天被产出多次 ⇒ 每次各记一行、各算一次，
+    不挑'以谁为准'"）—— 今天第 1 组是**点名中译英**，这一次是**自由产出**，两次独立。
+  ★ 三条自我质疑，逐条答完才落定：
+    ① 同一天讲评完再测算不算"假 ✅"？—— §3.1 的"假 ✅"只针对**新建当天**；
+       本条 09-03 新建、当天未测，今天首测 ⇒ 不在禁令范围内。
+    ② 是不是照抄她自己 09-03 的原句？—— **是**（同样的 modern lifestyle and trends／
+       fashion choices／entertainment）。但这恰恰是最干净的证据：**同一个句子框，
+       昨天带 down、今天不带** ⇒ 修上了。
+    ③ §4① 的"加速通道边界"要不要拦？—— 那条拦的是"命中的是她本来就稳的那一半、
+       掉的那一格没被测到"；本次命中的**正是掉的那一格**（down 在不在）⇒ 不适用。
+  ⇒ 连对 1 → **2**，达线（毕业状态行手工改，见状态行）。
 - 备注 判据：
 ```
 when it comes to X        ＝ 说到 X／在 X 这件事上（**引出话题**，后面接名词/动名词）
@@ -5834,6 +5956,128 @@ it (all) comes down to X  ＝ 归根到底就是 X（**把一堆原因收成一�
 ④ 是不是拼写（§2.1 不算错）？**不是** —— 她调出来的是**另一个词组**（多了一个实词 down），
    属「选词」，§2.1④ 判据"她脑子里调的词对不对" ⇒ 照常算。
 ⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `when it comes to`，成员数得出来。
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 318 · one time WHEN ＋ 背景，主句装事件（讲往事的挂接顺序）
+类型 结构 ｜ 题面 **点名**："我记得有一次，他两岁的时候，把一张画拿给我看。"（用 **one time** 起头说） ｜ 新建 2026-09-04
+状态 连对0 连错1 上次2026-09-04 未毕业
+- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）·
+  `I remember **one time my son was two years old, when he presented** me a picture and pointed three circle on it…`
+  → I remember **one time when my son was two years old, he showed** me a picture…
+  ❌ 主从颠倒：她有两样**背景**（有一次 ／ 他两岁）和一件**事**（他给我看画）。
+  原句把"他两岁"当成了 one time 的内容（"有一次我儿子两岁"—— 两岁是一段状态，
+  不是能发生"一次"的事），真正的事件反而被 when 挂成了从句 ⇒ 主句里没有"发生了什么"。
+  ★ 修法只有一个动作：**把 when 往前挪一格**，让它领住背景，事件回到主句。
+  ★ 归因（下次复测要用）：她 09-01 写过 `I remember one time users could neither login…`，
+    **那次结构是对的**（one time 后面直接接事件）⇒ 今天不是老毛病，是
+    **多了一层背景（几岁）之后不知道往哪儿挂**。⇒ 题面必须**带两层背景**才测得到。
+- 备注 判据：
+```
+讲一件往事，句子里有三样东西：
+  背景A 有一次／有一天        背景B 那时候他几岁／在哪儿／在干嘛     事件 发生了什么
+英语的装法固定：**背景全部塞进 when 从句，主句里只装事件**。
+  ✓ I remember one time **when** my son was two years old, **he showed me a picture**.
+  ✓ I remember **when** my son was two, he once **showed me a picture**.
+  ✗ I remember one time my son was two years old, **when** he showed me a picture.
+    （主句变成"有一次我儿子两岁"—— 状态不能"发生一次"；事件被降级成从句 ⇒ 句子挂空）
+★ 检查触发：写完 `one time` / `one day` 之后问一句 ——
+  **我的主句里装的是"发生了什么"吗？** 不是 ⇒ when 挪位。
+```
+- 判重结论（§3.1 判重三步，2026-09-04 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `one time **when** ＋ 背景, ＋ 主句事件`（挂接顺序，不是某个词）
+② 全档 grep（**范围含已毕业**）：
+   `grep "one time"` ⇒ L916（🎓#59 日志里的 `one time (when) we needed to present`，是命中记录不是条目）
+                      · L2305／L5200（sessions 引文）· L5733（🎓#316 日志里她 09-01 的正确句）
+   `grep "when 从句\|时间状语从句\|背景.*主句"` ⇒ **零命中**
+   ⇒ 全档**没有任何条目**管"从句挂接对象"这件事
+③ 最接近的一条逐条排除：
+   · 🎓#59（直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序）——形状最像（都是从句）。
+     **决定性证据**：按 #59 的规则去改她这句 ⇒ 只会去检查"从句里有没有倒装"，
+     她的从句语序本来就是陈述的 ⇒ **改不出 when 的位置** ⇒ 不同考点。
+   · #18（论元完整）／🎓#134（能单独站住的动词）——管的是动词带不带宾语 ⇒ 无关。
+④ 是不是拼写（§2.1）？**不是**，是结构。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式收敛成一条可复述的规则
+   （背景进 when，事件进主句），⛔ 不是"结构断裂"那种开放集合。
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 319 · present sth TO sb ／ present sb WITH sth（present 不进双宾语那一族）
+类型 搭配 ｜ 题面 **点名**："校长给他颁了一块奖牌。"（用 **present** ＋ 人在前说） ｜ 新建 2026-09-04
+状态 连对0 连错1 上次2026-09-04 未毕业
+- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）·
+  `he **presented me a picture** and pointed three circle on it`
+  → presented me **with** a picture ／（口语档）**showed** me a picture
+  ❌ present 只有两个框：`present sth **to** sb` ／ `present sb **with** sth`。
+  它**不进** give／show／send／tell／promise 那一族（动词 ＋ 人 ＋ 东西直接上）。
+  ★ 归因（下次复测要用）：她的**语序是对的** —— 这是 🎓#263 的规则她执行得没问题；
+    错在**把 #263 的规则过度泛化到不属于那一族的动词上**。
+    ⇒ 这类错不能靠"再背一遍双宾语语序"修（越背越会往外套），
+      只能靠"这个动词进不进那一族"这一问挡。
+- 备注 判据：
+```
+present 的两个框（记框，不记单词）：
+  present sth **to** sb      The principal presented a medal **to** him.
+  present sb **with** sth    The principal presented him **with** a medal.
+⛔ present sb sth           ✗ The principal presented him a medal.
+★ 语域：present ＝ 颁发／正式呈递（present an award／present a report／present your ID）。
+  **日常"给某人看／递给某人"一律 show／give**，⛔ 别升到 present。
+  （2026-09-04 的原句就是这个毛病：两岁孩子把画拿给妈妈看 ⇒ 口语只用 show。）
+```
+- 备注 **出题口径**：题面必须用 present **真正合适**的场合（颁奖／递交／正式呈上）。
+  ⛔ 不出"孩子给妈妈看画"这种日常场景 —— 那种场景的正确答案是 show，出了会**教反**。
+- 判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `present sb **with** sth`（或 `present sth **to** sb`）
+② 全档 grep（**范围含已毕业**）：
+   `grep "present"` ⇒ L916（🎓#59 日志里的 `needed to present`，动词"做演示"，无关）
+                     · L1615（`the present` ＝ 名词"现在"，无关）⇒ **无条目**
+③ 最接近的一条：**🎓#263（双宾语语序：promise／give／tell／show／send 一律【人在前，东西在后】）**
+   **决定性证据**：按 #263 的规则去改她这句 ⇒ 她的语序**已经是"人在前、东西在后"**
+   ⇒ **改不出 with** ⇒ 得不到正确答案 ⇒ 不同考点（§3.1③"只是像、目标形式不同 → 两条"）。
+   **互斥关系（当场写死）**：#263 题面考的是 promise／give／tell／show／send 五个**族内**动词的语序；
+     本条题面考的是 present 这个**族外**动词的框。中文触发词也分开：
+     #263 ＝"他答应给儿子买最新款手机／她给了我一本很旧的书"；本条 ＝"校长给他颁了一块奖牌"。
+   ⇒ #263 只在 09-04 记一行 📝（过度泛化留痕），⛔ 不判回潮。
+④ 是不是拼写（§2.1）？**不是**，是动词的框（搭配）。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 就 present 一个动词、两个框，成员数得出来。
+```
+- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+
+### 320 · point AT sth（指着某样东西）
+类型 搭配 ｜ 题面 **点名**："他指着墙上那张照片。"（用 **point** 说） ｜ 新建 2026-09-04
+状态 连对0 连错1 上次2026-09-04 未毕业
+- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）·
+  `he presented me a picture and **pointed three circle** on it`
+  → **pointed at** three circles on it
+  ❌ point 表"指"时后面必须带介词：**point at sth**。
+  裸的 `point sth` 只在"把某物瞄准某处"时成立（point a gun at sb ／ point the camera at…），
+  那时的宾语是**被举起来瞄准的那个东西**，不是"被指的目标"。
+  ｜同处 `three circle` → three **circles** 归 #150（形态类，只记 ⚪，不算在本条头上）
+- 备注 判据：
+```
+指着一个目标            point **at** sth        He pointed **at** the photo on the wall.
+把某物瞄准某处（及物）   point sth **at** sth    He pointed the camera **at** me.
+★ 检查触发：写完 point，问一句 —— **我是在"指"，还是在"把某个东西瞄准"？**
+  在"指" ⇒ point 后面必须先出现 **at**。
+```
+- 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
+  `point sth **out**` ＝ 指出来／点明（She pointed out two mistakes.）——**另一个块**，
+  意思是"把没人注意到的东西说出来"，不是用手指。若日后她掉这个，另开号。
+- 判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `point **at** sth`
+② 全档 grep（**范围含已毕业**）：`grep "point at\|pointed\|point to"` ⇒ **零命中**
+③ 最接近的三条逐条排除：
+   · 🎓#229（complain 不及物，带 about）——形状最像（都是"这个动词后面要带介词"）。
+     **决定性证据**：按 #229 的规则去改她这句 ⇒ 只产出 about，**产不出 at** ⇒ 不同考点。
+   · #18（论元完整：中文可单说的动词，英文必须带宾语/补语）——**方向相反**：
+     她**给了**宾语（three circle），缺的是介词 ⇒ 无关。
+   · 🎓#134（不是所有动词都要宾语·白名单）——那条是"可以不带宾语"，与本次无关。
+④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `point at`；
+   ⛔ 没有开成"动词后面要带介词"那种开放集合（那才是伞形）。
 ```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
