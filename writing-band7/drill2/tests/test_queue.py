@@ -476,6 +476,53 @@ for tag, txt, want in (
         rc, out, _ = run(drill.cmd_append, Args(file=rf, date="2026-09-12", dry_run=False))
         ck(f"{tag} ⇒ 照常写盘（⛔ 不因存量坏行整批回滚）", rc == want, out[-400:])
 
+print("\n【I3】🎓 吃到 ❌ 却忘了改状态行 ⇒ check 必须报（2026-09-05 补）")
+#  ⛔ 忘了改的后果不是"下次照常召回"，而是**比答对的还晚回来**：
+#     状态还挂 🎓 ⇒ 那次 ❌ 把毕业日清掉 ⇒ rc 算 0 ⇒ 站 🎓rc0 ＝ 等 3 个练习日；
+#     本该回在池站「连错1」＝ 等 1 个练习日。
+forgot = entry("#9090", state="🎓", ok=0, bad=1, last="2026-09-10",
+               rows=(("2026-09-01", "✅", ""), ("2026-09-02", "✅", ""),
+                     ("2026-09-10", "❌", "复检组1")))
+p_, g_, lg_ = archive([], [forgot], DAYS)
+with sandbox(p_, g_, lg_):
+    e = [x for x in drill.load_all() if x.num == "#9090"][0]
+    probs = drill.check_entry(e, set(), None)
+    ck("check 报 ERROR：状态是 🎓 但历史重数连对 < 2",
+       any(lv == "ERROR" and "当场回潮" in m for lv, m in probs), probs)
+    ck("坐实后果：忘了改 ⇒ 应等 3 个练习日（🎓rc0）", e.interval() == 3,
+       (e.rung_name(), e.interval()))
+fixed = entry("#9090", state="在池", ok=0, bad=1, last="2026-09-10",
+              rows=(("2026-09-01", "✅", ""), ("2026-09-02", "✅", ""),
+                    ("2026-09-10", "❌", "复检组1")))
+p_, g_, lg_ = archive([fixed], [], DAYS)
+with sandbox(p_, g_, lg_):
+    e = [x for x in drill.load_all() if x.num == "#9090"][0]
+    ck("改回在池之后 ⇒ 应等 1 个练习日（连错1 掉过降级）", e.interval() == 1,
+       (e.rung_name(), e.interval()))
+    ck("⇒ 差别是 3 天 vs 1 天：不修的话答错的反而回得更晚", True)
+    ck("改对了 check 就不报", not [m for lv, m in drill.check_entry(e, set(), None)
+                                  if lv == "ERROR" and "当场回潮" in m])
+
+print("\n【I4】「跳过」只认「本节跳过」四个字（2026-09-05 收紧）")
+SKIP_SESS = """# 2026-09-12 · D1 · 周期 1
+
+## 复检 · 第 1 组（1 题 / 1 条）
+这一组我打算 ⇒ 跳过 不测了，理由写在下面。
+
+## 收尾
+"""
+rc, out = (lambda t: (lambda d: (lambda f: (
+    io.open(f, "w", encoding="utf-8").write(t),
+    run(drill.cmd_deliver, Args(session=f))[:2])[1])(
+        os.path.join(d, "2026-09-12.md")))(tempfile.mkdtemp(prefix="skip")))(SKIP_SESS)
+ck("松写法「⇒ 跳过」⛔ 不再让整节免检", rc != 0 and "SKIP" not in out, out[-500:])
+rc2, out2 = (lambda t: (lambda d: (lambda f: (
+    io.open(f, "w", encoding="utf-8").write(t),
+    run(drill.cmd_deliver, Args(session=f))[:2])[1])(
+        os.path.join(d, "2026-09-12.md")))(tempfile.mkdtemp(prefix="skip")))(
+    SKIP_SESS.replace("⇒ 跳过", "本节跳过"))
+ck("「本节跳过」照旧打 SKIP", rc2 == 0 and "SKIP" in out2, out2[-500:])
+
 print("\n【J】流水：两条队列各自编号")
 p, g, lg = archive([entry("#9900")], [], DAYS)
 with sandbox(p, g, lg) as d:
@@ -576,7 +623,21 @@ ck("战报缺「本组 ❌ N 条」⇒ ERROR", rc != 0 and "本组 ❌ N 条" in
 rc, out = deliver_on(SESS.replace("本组 2 题 / 2 条\n", ""))
 ck("战报缺「本组 N 题 / K 条」⇒ ERROR", rc != 0 and "本组 N 题 / K 条" in out, out[-500:])
 rc, out = deliver_on(SESS.replace("本组 ❌ 1 条：#9801", "本组 ❌ 1 条"))
-ck("报了 ❌ 却不列编号 ⇒ ERROR（§0.4）", rc != 0 and "编号清单" in out, out[-500:])
+ck("报了 ❌ 却不列编号 ⇒ ERROR（§0.4）", rc != 0 and "没列编号" in out, out[-600:])
+
+#  ★★ 2026-09-05 补：战报的数是**手打的**，判定表才是读数（对抗演练查出的假绿）
+rc, out = deliver_on(
+    no_blocks.replace("本组 ✅ 1 条：#9800", "本组 ✅ 2 条：#9800 #9801")
+             .replace("本组 ❌ 1 条：#9801", "本组 ❌ 0 条")
+             .replace("本组回潮 1 条：#9801", "本组回潮 0 条"))
+ck("判定表判了 ❌、战报却写「❌ 0 条」⇒ ERROR（⛔ 不许自报数蒙混过关）",
+   rc != 0 and "判定表" in out and "对不上" in out, out[-700:])
+rc, out = deliver_on(SESS.replace("本组回潮 1 条：#9801", "本组回潮 1 条：#9999"))
+ck("回潮列的编号 ≠ 判 ❌ 的那几条 ⇒ ERROR（数对得上也不行）",
+   rc != 0 and "回潮" in out and "凭据" in out, out[-700:])
+rc, out = deliver_on(SESS.replace("| 2 | #9801 | ❌ |", "| 2 | #9801 | **❌** |"))
+ck("判定表里符号加粗 ⇒ 读不出来 ⇒ ERROR（⛔ 不兜底）",
+   rc != 0 and ("读不出来" in out or "对不上" in out), out[-700:])
 rc, out = deliver_on(SESS, section="复检1")
 ck("--section 复检1 能定位到这一节", rc == 0 and "复检 · 第 1 组" in out, out[:400])
 

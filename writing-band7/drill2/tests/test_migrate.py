@@ -207,8 +207,8 @@ with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
     ck("graduated.md 族头不变", re.findall(r"^# F.*$", g0, re.M) == re.findall(r"^# F.*$", g1, re.M))
     ck("--- 总数不变", (p0 + g0).count("\n---\n") == (p1 + g1).count("\n---\n"),
        ((p0 + g0).count("\n---\n"), (p1 + g1).count("\n---\n")))
-    ck("check --all ERROR 0", sum(v for (n, lv, m), v in e1.items() if lv == "ERROR") == 0,
-       [x for x in e1 if x[1] == "ERROR"][:5])
+    ck("check ⛔ 无新增（migrate 不引入任何错；夹具自带的那几条前后一样）",
+       e1 == e0, list((e1 - e0).items())[:5] + list((e0 - e1).items())[:5])
     ck("文件仍以换行结尾", p1.endswith("\n") == p0.endswith("\n") and g1.endswith("\n") == g0.endswith("\n"))
 
     print("\n【T2】幂等 —— 再跑一次是 no-op 且逐字节不变")
@@ -290,8 +290,8 @@ with sandbox(p_text=force_grad(_p, _target), g_text=_G_NO_F17) as d:
     ck(f"{_target} 换到了 graduated.md", b1[_target][0] == "graduated.md")
     ck("正文逐字节不变", all(b0[k][1] == b1[k][1] for k in b0))
     _e = [x for x in errset() if x[1] == "ERROR"]
-    ck("check --all 只剩造数据自带的那条 ERROR（连对连错与历史重数不符）",
-       all(n == _target and "重数不符" in m for n, lv, m in _e), _e)
+    ck("check --all 只剩造数据自带的 ERROR（都挂在夹具那一条上）",
+       all(n == _target for n, lv, m in _e), _e)
     ck("再跑一次幂等", run(drill.cmd_migrate, Args())[1].count("无操作") == 1)
 
 print("\n【T5】新族排在全部族之前（at==0 边界）")
@@ -386,7 +386,8 @@ with sandbox(p_text=PRE_P, g_text=PRE_G) as d:
                          ("list --pool", drill.cmd_list, dict(fam=None, state=None, pool=True))):
         try:
             rc, out = run(fn, Args(**kw))
-            ck(f"{name} 跑得动", rc in (0, None) and len(out) > 50, (rc, out[:200]))
+            # check --all 在夹具档上本来就有 ERROR ⇒ rc 1 也算"跑得动"
+            ck(f"{name} 跑得动", rc in (0, 1, None) and len(out) > 50, (rc, out[:200]))
         except SystemExit as ex:
             ck(f"{name} 跑得动", False, f"SystemExit {ex}")
     ents = drill.load_all()

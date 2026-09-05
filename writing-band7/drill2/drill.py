@@ -1796,6 +1796,15 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", f"连对连错与历史重数不符：档 {e.ok}/{e.bad} vs 重数 {ro}/{rb}"))
     if e.ok is not None and e.state == "在池" and ro >= 2:
         P.append(("ERROR", "连对已到 2 —— §3.3 该在原地改 🎓"))
+    # ★★ 反向那一条（2026-09-05 补）：🎓 吃到 ❌ 就要**当场回潮**（§3.3）。
+    #    ⛔ 忘了改状态的后果不是"下次照常召回"，而是**比答对的还晚回来**：
+    #    状态还挂着 🎓 ⇒ 那次 ❌ 把毕业日清掉 ⇒ rc 算 0 ⇒ 站 🎓rc0 ＝ 应等 3 个练习日；
+    #    而它本该回在池站「连错1」＝ 应等 1 个练习日（§3.6）。
+    #    `append` 只会打一行 ★ 待办、⛔ 不代改 ⇒ 这一条闸就是兜住"忘了改"的那张网。
+    if e.ok is not None and e.state == "🎓" and ro < 2:
+        P.append(("ERROR",
+                  f"状态是 🎓 但历史重数连对只有 {ro} —— §3.3：🎓 吃到 ❌ 要**当场回潮**"
+                  f"（状态行改回「在池 ｜ 连对 0」），⛔ 不改的话它反而等更久才回来"))
     lj = e.last_row_date() or "—"
     if (e.last or "").strip() != lj:
         P.append(("ERROR", f"「上次」写着「{e.last}」，最后一个判定行是「{lj}」"))
@@ -3130,6 +3139,8 @@ DELIVER_FLOOR_INCIDENT = "2026-09-02"
 #     起因：09-03 的作文节里教练只做了「对照」、⛔ 没建条目，8 件全齐 ⇒ 硬闸照样 ERROR 0。
 #     ★ 这一件是**条件性**的：只有本节自己报了「新建 ≥1 条」才要求；报 0 条／没报 ⇒ ⛔ 不适用。
 DELIVER_FLOOR_NEWBORN = "2026-09-03"
+# 这天起「本节跳过」是唯一合法写法；更早的 session 还认那两个松写法（08-20 用过）
+DELIVER_FLOOR_SKIP = "2026-09-05"
 
 # 「新建条目的正文」子件的标题关键词（与其它子件同一个匹配方式：某一【段】以它开头）
 NEWBORN_KWS = ["新建条目", "新建的条目",
@@ -3164,6 +3175,33 @@ def _declared_new(lines, a, b):
 KNOWN_H2 = ("开场", "复习 ·", "复检 ·", "回看", "新题", "教练侧", "收尾", "追加练")
 
 
+RE_TBL_CELL = re.compile(r"^#\d{4}$")
+
+
+def _table_judgements(lines, found):
+    """从本节「判定表」子件里逐行读出 {编号: {符号…}}。
+
+    ⛔ 这是复检那套降档（✅ 只记一行 / ❌ 才走全套）**唯一可信的读数来源** ——
+       战报里那几个数是教练手打的，⛔ 不能拿它当真源（2026-09-05 对抗演练实证：
+       判定表里明写 ❌、战报写 ❌ 0 条、块也不写 ⇒ 硬闸照报 ERROR 0）。
+    认法：markdown 表格行，某一格恰好是 `#NNNN`，**紧邻的下一格**是 §3.2 的判定符号。
+    ⛔ 严格匹配、不兜底：符号写歪／加粗 ⇒ 这一行读不出来 ⇒ 下面按"漏判"报错。"""
+    out = {}
+    tp = found.get("a 判定表") or found.get("判定表")
+    if tp is None:
+        return out
+    _t, ts, te = tp
+    for i in range(ts, te):
+        ln = lines[i]
+        if "|" not in ln:
+            continue
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        for k, c in enumerate(cells[:-1]):
+            if RE_TBL_CELL.match(c) and cells[k + 1] in JUDGE:
+                out.setdefault(c, set()).add(cells[k + 1])
+    return out
+
+
 def _declared_recheck(lines, a, b, parts, found):
     """复检组战报里的四行（§4③e）。返回 (dict, errs)。
 
@@ -3194,18 +3232,41 @@ def _declared_recheck(lines, a, b, parts, found):
         else:
             m, i = hit
             got[key] = int(m.group(2) if key == "size" else m.group(1))
-            if key == "bad":
-                got["bad_nums"] = RE_NEW_NUM.findall(lines[i])
-                got["bad_line"] = i
-            if key == "fall":
-                got["fall_nums"] = RE_NEW_NUM.findall(lines[i])
-    if "bad" in got and "fall" in got and got["bad"] != got["fall"]:
-        errs.append("战报里「❌ %d 条」≠「回潮 %d 条」—— 🎓 吃到 ❌ 就要当场回潮（§3.3），"
-                    "两个数对不上说明有条目判了 ❌ 却没把状态行改回在池"
-                    % (got["bad"], got["fall"]))
-    if got.get("bad") and got.get("bad_nums") is not None and len(got["bad_nums"]) != got["bad"]:
-        errs.append("战报报了「❌ %d 条」，同一行却列了 %d 个编号 —— §0.4 每个数后面要跟编号清单"
-                    % (got["bad"], len(got["bad_nums"])))
+            if key in ("ok", "bad", "fall"):
+                got[key + "_nums"] = RE_NEW_NUM.findall(lines[i])
+    # ── 与【判定表】对账（2026-09-05 补）：战报的数只是**声明**，判定表才是读数 ──
+    tbl = _table_judgements(lines, found)
+    if not tbl:
+        errs.append("「判定表」里一行都读不出来 —— 每行要有 `| #NNNN |` 紧跟一格 §3.2 的判定符号"
+                    "（⛔ 符号不加粗、不写「稳／掉」）")
+    else:
+        t_bad = {n for n, syms in tbl.items() if any(JUDGE[x] == "bad" for x in syms)}
+        t_ok = {n for n, syms in tbl.items()
+                if n not in t_bad and any(JUDGE[x] == "ok" for x in syms)}
+        for key, want, shape in (("bad", t_bad, "❌"), ("ok", t_ok, "✅")):
+            if key not in got:
+                continue
+            nums = {"#" + x for x in got.get(key + "_nums", [])}
+            if nums != want:
+                errs.append("战报「本组 %s %d 条」与**判定表**对不上：判定表判 %s 的是 %s，"
+                            "战报写的是 %s —— 战报的数是手打的，判定表才是读数（§4③e）"
+                            % (shape, got[key], shape,
+                               " ".join(sorted(want)) or "（无）",
+                               " ".join(sorted(nums)) or "（没列编号）"))
+            elif len(nums) != got[key]:
+                errs.append("战报报了「%s %d 条」，同一行却列了 %d 个编号 —— §0.4 数与编号清单要对得上"
+                            % (shape, got[key], len(nums)))
+        if "fall" in got:
+            fall = {"#" + x for x in got.get("fall_nums", [])}
+            if fall != t_bad:
+                errs.append("战报「本组回潮 %d 条」与判 ❌ 的那几条对不上：判 ❌ 的是 %s，"
+                            "回潮写的是 %s —— 🎓 吃到 ❌ 就要当场回潮（§3.3），"
+                            "这一行的编号就是「哪几条要改状态行」的凭据"
+                            % (got["fall"], " ".join(sorted(t_bad)) or "（无）",
+                               " ".join(sorted(fall)) or "（没列编号）"))
+            elif len(fall) != got["fall"]:
+                errs.append("战报报了「回潮 %d 条」，同一行却列了 %d 个编号（§0.4）"
+                            % (got["fall"], len(fall)))
     return got, errs
 
 
@@ -3300,7 +3361,13 @@ def _find_part(parts, keywords):
     return None
 
 
-RE_SKIP = re.compile(r"(本节跳过|⇒\s*\*?\*?跳过|按 §4④「D-1 没写新题就跳过」)")
+# ⛔ **只认「本节跳过」这四个字**（2026-09-05 收紧）。
+#    旧写法还认松散的 `⇒ 跳过`：只要节的**前 20 行**里出现那三个字
+#    （哪怕是在讲别的事），整节就不查、还报 ERROR 0 —— 闸在它唯一要防的场景上给假绿。
+#    ⚠️ 存量放行：`按 §4④「D-1 没写新题就跳过」` 是 08-20 那场真的用过的写法
+#    （那条规则本身 09-03 已废），⛔ 只对这个日期线之前的 session 认。
+RE_SKIP = re.compile(r"本节跳过")
+RE_SKIP_LEGACY = re.compile(r"(⇒\s*\*?\*?跳过|按 §4④「D-1 没写新题就跳过」)")
 
 
 def _blocks_in(lines, s, e):
@@ -3687,7 +3754,9 @@ def _deliver_scan(args, path, lines):
 
         # 声明跳过的节（§4④ D-1 没写新题就跳过）⇒ 不查。⛔ 追加练不吃这条
         head_txt = "\n".join(lines[a:min(a + 20, b)])
-        if slug != "追加练" and RE_SKIP.search(head_txt):
+        skipped = RE_SKIP.search(head_txt) or (
+            sdate < DELIVER_FLOOR_SKIP and RE_SKIP_LEGACY.search(head_txt))
+        if slug != "追加练" and skipped:
             print("   SKIP   本节已声明跳过（§4④），⛔ 不查")
             continue
 
