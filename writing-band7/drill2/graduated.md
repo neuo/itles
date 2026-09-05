@@ -12585,7 +12585,7 @@ worldwide       ＝ 遍及全世界（形容词与副词同形，常放动词后
   ⚠️ 她当场点名 `Combating` 要背 ⇒ 另建 **#0403**（③，F08 整句·词表型）。
 
 ## #0363 「共同参照／标杆」一族的抽象名词块：reference point ／ benchmark ／ yardstick
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-04 ｜ 族 F08
 
 **问题是什么**
 中文的「参照／标杆／基准／转折点」，英文是一组 **X point / X mark** 型的固定抽象名词块，
@@ -12597,6 +12597,9 @@ a benchmark                   ＝ 衡量好坏的**基准线**（可以量化）
                               `Test scores are used as a **benchmark**.` · `**benchmark** figures`
 a yardstick                   ＝ 判断的**尺子**（偏抽象，不一定量化）
                               `Profit is a poor **yardstick** for success.`
+a criterion（pl. **criteria**）＝ 拿来**筛选／打勾**的那一条依据（★ 2026-09-04 补，她点名要背）
+                              `Cost was the sole **criterion**.` · `The **criteria** are published.`
+                              ⚠️ 复数不加 -s ⇒ 构形那一层归 **#0443**，本条只管"挑哪个块"
 a turning point               ＝ **转折点**（时间上的）　`2008 was a **turning point**.`
 a focal point                 ＝ **焦点**（注意力集中的地方）
 a starting point              ＝ 出发点（讨论、方案的起点）
@@ -12672,6 +12675,11 @@ a baseline                    ＝ 基线（T1 常用：拿来对比的那一年�
   　 ⇒ 把这一族的介词分工写进正文：**for ＝ 后面接被衡量的对象**（benchmark for pricing）·
   　 **of ＝ 后面接它所属的那件事**（the focal point of the debate）。
   ⚠️ 她同时点名 `served as` 要建条目（「我老是想用 be regarded as」）⇒ 另建 **#0404**（③，F01 整句·词表型）。
+- 2026-09-04 📝D2 学习日 C5·组1 第 5 题（成员扩写，🎓 状态不动）
+  她写 `with cost as the sole **standard**` 并问「criterion 是不是更好，但是这个词不熟，要背」。
+  ⇒ `criterion（pl. criteria）` 补进本条成员表的「拿来下判断的」那一档，与 yardstick 同排。
+  ⚠️ 按 §3.5 第 2 步 A 第三种「只是把老条目适用范围说清」⇒ **连对连错不动、🎓 不动**。
+  ⚠️ 不规则复数 criterion → criteria 那一层⛔不归本条（本条只管挑哪个块）⇒ 已单独建 **#0443**，交叉引用。
 
 ## #0365 「风格／审美」一族：style ／ aesthetic ／ look ／ taste ／ trend
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F08
