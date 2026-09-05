@@ -112,9 +112,15 @@ with sandbox(p_text=PT, g_text=GT) as d:
     for name, txt in (("problems.md", p1), ("graduated.md", g1)):
         ns = [int(m.group(1)) for m in re.finditer(r"^### (\d+)", txt, re.M)]
         ck(f"{name} 编号升序", ns == sorted(ns))
-    ck("check --all ERROR 0",
-       sum(v for (n, lv, m), v in e1.items() if lv == "ERROR") == 0,
-       [x for x in e1 if x[1] == "ERROR"][:4])
+    # ⚠️ ⛔ 不断言"真档案零 ERROR" —— 那测的是**当天档案的健康度**，不是 migrate。
+    #    2026-09-05 实证：一次合法的业务操作就能把它打红，
+    #    而 §0.1.6「测试全绿才许动 lab.py」于是把脚本一起锁死。
+    #    真正该测的性质是：**搬迁不引入新的 ERROR**（多重集只减不增）。
+    before = {k: v for k, v in e0.items() if k[1] == "ERROR"}
+    after = {k: v for k, v in e1.items() if k[1] == "ERROR"}
+    ck("搬迁⛔不引入新 ERROR（多重集只减不增）",
+       all(after.get(k, 0) <= before.get(k, 0) for k in after),
+       [k for k in after if after[k] > before.get(k, 0)][:4])
 
     head("【M2 正】幂等 —— 再跑一次 no-op 且逐字节不变")
     st2, rc2, out2 = run(lab.cmd_migrate, Args())
