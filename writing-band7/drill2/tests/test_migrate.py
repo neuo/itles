@@ -35,20 +35,18 @@ def sandbox(p_text=None, g_text=None):
     d = tempfile.mkdtemp(prefix="mig")
     shutil.copy(os.path.join(WT, "problems.md"), os.path.join(d, "problems.md"))
     shutil.copy(os.path.join(WT, "graduated.md"), os.path.join(d, "graduated.md"))
-    shutil.copy(os.path.join(WT, "review_pool.md"), os.path.join(d, "review_pool.md"))
     shutil.copy(os.path.join(WT, "log.md"), os.path.join(d, "log.md"))
     if p_text is not None: open(os.path.join(d, "problems.md"), "w", encoding="utf-8").write(p_text)
     if g_text is not None: open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g_text)
-    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL, drill.LOG)
+    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.LOG)
     drill.ROOT = d
     drill.PROBLEMS = os.path.join(d, "problems.md")
     drill.GRADUATED = os.path.join(d, "graduated.md")
-    drill.REVIEW_POOL = os.path.join(d, "review_pool.md")
     drill.LOG = os.path.join(d, "log.md")
     try:
         yield d
     finally:
-        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL, drill.LOG) = old
+        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.LOG) = old
         shutil.rmtree(d, ignore_errors=True)
 
 def run(fn, *a, **kw):

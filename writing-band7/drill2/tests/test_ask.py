@@ -31,30 +31,29 @@ class Args:
         for k, v in dict(dry_run=False, changed=False, all=True, quiet=True,
                          type=None, detail=False, fam=None, state=None, pool=False,
                          size=10, groups=None, full=False, date=None, dry=False,
-                         brief=False, file=None).items():
+                         brief=False, file=None, scope="both", queue="pool").items():
             setattr(self, k, v)
         for k, v in kw.items(): setattr(self, k, v)
 
 @contextlib.contextmanager
 def sandbox(p_text=None, g_text=None):
     d = tempfile.mkdtemp(prefix="ask")
-    for f in ("problems.md", "graduated.md", "review_pool.md", "log.md"):
+    for f in ("problems.md", "graduated.md", "log.md"):
         shutil.copy(os.path.join(WT, f), os.path.join(d, f))
     if p_text is not None:
         open(os.path.join(d, "problems.md"), "w", encoding="utf-8").write(p_text)
     if g_text is not None:
         open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g_text)
-    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL, drill.LOG, drill.DRAWN)
+    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.LOG, drill.DRAWN)
     drill.ROOT = d
     drill.PROBLEMS = os.path.join(d, "problems.md")
     drill.GRADUATED = os.path.join(d, "graduated.md")
-    drill.REVIEW_POOL = os.path.join(d, "review_pool.md")
     drill.LOG = os.path.join(d, "log.md")
     drill.DRAWN = os.path.join(d, "drawn_review.log")
     try:
         yield d
     finally:
-        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL,
+        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED,
          drill.LOG, drill.DRAWN) = old
         shutil.rmtree(d, ignore_errors=True)
 
@@ -242,8 +241,11 @@ with sandbox(p_text=set_grid(P, _A, "作文验")) as d:
        any("没有那句理由行" in m for m in lv(pr, "WARN")), lv(pr, "WARN"))
     ck("标了作文验 ⇒ essay_only 成立（不进复习组）", e.essay_only)
     rc, out = run(drill.cmd_pick, Args(type="review"))
-    ck("pick 把它排除出候选池", _A not in out.split("挂作文验")[1].split("候选池")[0]
-       or _A in out.split("⛔ 另有")[1][:400], out[:0])
+    # 口径（2026-09-05 起）：挂作文验的条目**列在排除清单里**、⛔ 不出现在任何一组的卡片里
+    cards = "\n".join(l for l in out.split("\n") if l.startswith("  #"))
+    excl = out.split("⛔ 挂作文验")[1].split("\n\n")[0] if "⛔ 挂作文验" in out else ""
+    ck("pick 把挂作文验的列进排除清单", _A in excl, excl[:200])
+    ck("pick 不把它发进任何一组", _A not in cards, cards[:200])
 with sandbox(p_text=set_grid(P, "#0053", None)) as d:   # 把已回标的 #0053 退回散文态
     e, pr = probs("#0053")
     ck("散文写着「不出单点题」、状态行没标 ⇒ 存量提示（INFO，不是 ERROR）",

@@ -6,7 +6,7 @@
                   不再整档读 problems.md（15.2 万 tokens → 0.7 万）。
 
 ⛔ 本脚本【一个字的内容都不产生】。行文全部由教练手写，脚本只碰位置和算术：
-     · 读  problems.md / graduated.md / review_pool.md / log.md
+     · 读  problems.md / graduated.md / log.md
      · 写  drawn_review.log（append-only 出题流水）
      · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
             ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
@@ -47,8 +47,10 @@
 """
 
 import argparse
+import bisect
 import contextlib
 import io
+import math
 import os
 import random
 import re
@@ -60,7 +62,6 @@ from datetime import date
 ROOT = os.path.dirname(os.path.abspath(__file__))
 PROBLEMS = os.path.join(ROOT, "problems.md")
 GRADUATED = os.path.join(ROOT, "graduated.md")
-REVIEW_POOL = os.path.join(ROOT, "review_pool.md")
 LOG = os.path.join(ROOT, "log.md")
 DRAWN = os.path.join(ROOT, "drawn_review.log")
 
@@ -114,6 +115,28 @@ ALL_SYMBOLS = list(JUDGE) + list(TRACE) + list(LEGACY)
 # 长符号优先，免得 ◎✅ 被切成 ◎
 ALL_SYMBOLS.sort(key=len, reverse=True)
 
+# ── 召回梯子（SKILL §3.6）──────────────────────────────────────────────────
+#   一条梯子，毕业线只是中间一格。格上的数字 ＝ 应等几个【练习日】（休息日不存在）。
+#     1  →  1  →  2  → ┃毕业线 连对2┃ →  3  →  7  →  16 →  32 →  60
+#   首测未做 连错1  连对1                 rc0   rc1   rc2   rc3  rc≥4
+RUNGS_POOL = [1, 1, 2]                  # 未毕业：0 首测未做/连错≥2 · 1 连错1 · 2 连对1
+RUNGS_GRAD = [3, 7, 16, 32, 60]         # 已毕业：rc0 rc1 rc2 rc3 rc≥4
+POOL_RUNG_NAME = ["首测未做·连错≥2", "连错1", "连对1"]
+GRAD_RUNG_NAME = ["🎓 rc0", "🎓 rc1", "🎓 rc2", "🎓 rc3", "🎓 rc≥4"]
+
+# 配额：(在池上限组数, 复检基础组数)。在池排不满 ⇒ 空出的组数下溢给复检，⛔ 反向不成立。
+QUOTA = {"learn": (3, 1), "review": (5, 3)}
+GROUP_SIZE = 10
+
+#   ★ 进「有效上次」的符号（＝ 这一次真的被测到了，等待时钟从这天重新起算）
+#     ✅ ◎✅ ❌ 📖  —— 判定符号里的 ok/bad
+#     △            —— 她答出来了、只是有更好的说法 ⇒ 考点被行使过（⛔ 不推 rc）
+#     📋 顺带用对   —— 毕业条目在作文里被自发用对 ⇒ 与一次复检通过同权
+#   ⛔ 不算：◎−（题面诱发 ＝ 这次没测成）· 光杆 ◎ · ③ 建号行 · 📝 留痕行 · 被改判的行
+EFF_LAST_SYMBOLS = {"✅", "◎✅", "❌", "📖", "△", "📋"}
+#   ★ 推进 rc（复检次数）的符号：毕业日**之后**的「对」
+RECHECK_SYMBOLS = {"✅", "◎✅", "📋"}
+
 SECTIONS = ["问题是什么", "怎么发现的", "我错在哪", "中文触发点"]
 # ⛔ 节标题严格逐字，不做兜底：档案写歪 ⇒ check 报错 ⇒ 改档案，不改脚本
 SECTION_HEADS = {f"**{s}**" for s in SECTIONS}
@@ -159,7 +182,7 @@ class Entry:
         self.fam = None
         self.ask = None           # 状态行第 7 格「题型」原文；None ＝ 没写这一格
         self.fam_section = None   # 所在族分段
-        self.review_mark = False
+        self.review_mark = False   # 存量残留：`⚠️🔍 **REVIEW 池**`（机制已废除，check 报 ERROR）
         self.sections = {}
         self.history = []
         self.members = None       # 成员出题账原文
@@ -296,6 +319,83 @@ class Entry:
             if h.symbol in JUDGE:
                 out.append(f"{h.date[5:]} {h.symbol} {h.occasion[:24]}")
         return out[-limit:]
+
+    # ── 召回梯子（SKILL §3.6）—— 全部**从历史记录导出**，档案里零新字段 ──────
+    def eff_last(self):
+        """有效上次 ＝ 最后一行 EFF_LAST_SYMBOLS 的日期（§3.6）。
+
+        ⚠️ 与状态行的「上次」不是一个口径：那一格是「上次被**处理**过」（③ 📝 也算），
+           这里问的是「上次被**测**到」。没有 ⇒ None ＝ 从未测过 ⇒ 无条件到期。"""
+        out = None
+        for h in self.history:
+            if h.superseded or h.symbol not in EFF_LAST_SYMBOLS:
+                continue
+            if out is None or h.date > out:
+                out = h.date
+        return out
+
+    def grad_day(self):
+        """本次毕业的日子 ＝ 重放历史、连对最后一次到达 2 的那一天。
+        ⛔ 回潮会把它清掉 —— 重新毕业时 rc 从 0 重算（§3.3）。"""
+        ok = 0
+        day = None
+        days = self.judged_days()
+        for d in sorted(days):
+            v = days[d]
+            if v == "bad":
+                ok = 0
+                day = None
+            elif v == "ok":
+                ok += 1
+                if ok >= 2 and day is None:
+                    day = d
+        return day
+
+    def rechecks(self):
+        """rc ＝ 毕业日**之后**有「对」的**天数**（✅ ◎✅ 📋，§3.6）。
+
+        按天数不按行数 —— §3.2 同一天同一编号只结算一次，rc 跟着同一个口径。"""
+        gd = self.grad_day()
+        if not gd:
+            return 0
+        return len({h.date for h in self.history
+                    if not h.superseded and h.symbol in RECHECK_SYMBOLS and h.date > gd})
+
+    def ever_bad(self):
+        """历史里掉过 ❌／📖（§3.6 唯一一条修正：掉过的在梯子上降一格）。"""
+        return any(JUDGE.get(h.symbol) == "bad" for h in self.history if not h.superseded)
+
+    def base_rung(self):
+        """降级修正**之前**站在哪一格。返回 (是不是复检队列, 格号)。"""
+        if self.graduated:
+            return True, min(self.rechecks(), len(RUNGS_GRAD) - 1)
+        ok, bad = ((self.ok, self.bad) if self.ok is not None and self.bad is not None
+                   else self.recount())
+        if ok and ok >= 1:
+            return False, 2
+        if bad == 1:
+            return False, 1
+        return False, 0
+
+    def rung(self):
+        """落到哪一格（含「掉过的降一格」修正）。返回 (是不是复检队列, 格号)。"""
+        grad, r = self.base_rung()
+        if self.ever_bad():
+            r = max(0, r - 1)
+        return grad, r
+
+    def interval(self):
+        """应等几个练习日。"""
+        grad, r = self.rung()
+        return (RUNGS_GRAD if grad else RUNGS_POOL)[r]
+
+    def rung_name(self):
+        grad, base = self.base_rung()
+        _, land = self.rung()
+        names = GRAD_RUNG_NAME if grad else POOL_RUNG_NAME
+        if base == land:
+            return names[land]
+        return f"{names[base]} ⇒ 降一格 {names[land]}"
 
 
 def parse_symbol(rest):
@@ -493,14 +593,19 @@ def back_count(today, types, n):
 # ══════════════════════════════════════════════════════════════════════════
 #  drawn_review.log
 # ══════════════════════════════════════════════════════════════════════════
+#  组号在流水里的写法（两条队列各自编号，⛔ 不共用一个计数器）
+GROUP_TAG = {"pool": "组", "grad": "复检组"}
+
+
 def read_drawn(today):
-    """本日流水 → (已经用掉的编号, 已收尾的组号集合)
+    """本日流水 → (已经用掉的编号, {'pool': 已收尾组号集, 'grad': 同})
 
     全天计划模型（她 2026-08-23 定）：`pick` 一次把当天全部候选切成组打出来，
     所以「抽」只是**计划**，不构成排除；只有真正出过题、跑过 `used` 的才排除。
     ⇒ 中途重跑 pick，剩下的池子会重新分组，已经出过的不会再回来。
     """
-    used, groups = set(), set()
+    used = set()
+    groups = {"pool": set(), "grad": set()}
     if not os.path.exists(DRAWN):
         return used, groups
     for raw in open(DRAWN, encoding="utf-8"):
@@ -510,11 +615,22 @@ def read_drawn(today):
         parts = raw.split("\t")
         if len(parts) < 3 or parts[0] != today or parts[1] != "用":
             continue
-        groups.add(parts[2])
+        # ⛔ 严格匹配：`复检组N` 先判，否则 `组N` 会把它也吃掉
+        q = "grad" if parts[2].startswith(GROUP_TAG["grad"]) else (
+            "pool" if parts[2].startswith(GROUP_TAG["pool"]) else None)
+        m = re.search(r"(\d+)\s*$", parts[2])
+        if q and m:
+            groups[q].add(int(m.group(1)))
         for f in parts[3:]:
             if f.startswith("用:"):
                 used.update(re.findall(r"#\d{4}", f))
     return used, groups
+
+
+def next_group_no(done_numbers):
+    """下一组的组号 ＝ 今天已收尾组号的**最大值** ＋ 1。
+    ⛔ 不是「已收尾的组数 ＋ 1」—— 中途跳号（组5 先收尾）会撞号覆盖。"""
+    return (max(done_numbers) if done_numbers else 0) + 1
 
 
 def append_drawn(line):
@@ -776,175 +892,276 @@ def cn_keywords(text):
 
 
 # ══════════════════════════════════════════════════════════════════════════
+#  召回队列（SKILL §3.6）—— 取哪些、什么顺序，全脚本唯一一份定义
+#
+#  ⛔ 这一段是 learn 与 review **共用**的：两种日子不是两套取法，
+#     差别只有【配额】和【有没有新题】两件事。
+# ══════════════════════════════════════════════════════════════════════════
+def practice_days(types=None):
+    """全部【有行为的练习日】升序 —— 梯子的单位（真源 log.md，§1）。"""
+    return sorted(types if types is not None else day_types())
+
+
+def day_index(pdays, day):
+    """day 是第几个练习日（1-based）。不在表里 ⇒ 按「排在它之后」算。"""
+    return bisect.bisect_right(pdays, day)
+
+
+def today_index(pdays, today):
+    """今天是第几个练习日 —— **今天算一个**，哪怕 log.md 里还没写今天这一行。
+
+    ⚠️ 只有当 `pdays` **已经含今天**时它才和 `day_index` 同一把尺；
+       `plan_queues` 正是这么做的（见那里的 `pdays` 合并）。"""
+    i = bisect.bisect_right(pdays, today)
+    if i and pdays[i - 1] == today:
+        return i
+    return i + 1
+
+
+def waited_days(e, pdays, tidx):
+    """距有效上次过了几个练习日。从未测过 ⇒ None（＝ 无条件到期）。"""
+    el = e.eff_last()
+    if not el:
+        return None
+    return tidx - day_index(pdays, el)
+
+
+def overdue(e, pdays, tidx):
+    """逾期分 ＝ 距有效上次的练习日数 ÷ 应等间隔。≥1 ＝ 到期。
+    从未测过 ⇒ 正无穷（排最前）。"""
+    w = waited_days(e, pdays, tidx)
+    if w is None:
+        return float("inf")
+    return w / e.interval()
+
+
+def queue_key(e, pdays, tidx):
+    """排序 ＝ 逾期分降序 → 掉过的优先 → 编号升序。确定性，重跑一模一样。"""
+    return (-overdue(e, pdays, tidx), 0 if e.ever_bad() else 1, e.num)
+
+
+def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozenset()):
+    """把两条队列一次排完 —— **不打印、不写盘**，pick 与测试共用同一份计算。
+
+    返回 dict：
+      pdays tidx d1                 练习日表 · 今天的序号 · 上一个练习日
+      pool_due grad_due             两条队列**全部到期**的条目（已排序）
+      must                          必出层 ＝ D-1 那天**新建的**（她 2026-09-05 定）
+      pool_take grad_take           今天实际要出的条目
+      pool_groups grad_groups       切好的组
+      cap base spill                配额 · 基础组 · 下溢组
+      excluded                      各类被剔除的编号（报告用）
+    """
+    # ★★ **今天并进练习日表**（她 2026-09-05 的口径：今天算一个练习日）。
+    #    ⛔ 不并的后果是两把尺：`log.md` 的今日行**收尾才写**（§4⑥）⇒ 整场 session 里
+    #    今天都不在表里 ⇒ `today_index` 数到 n+1、而 `day_index(有效上次=今天)` 只数到 n
+    #    ⇒ 今天刚判过的条目算成「等了 1 个练习日」⇒ 间隔 1 的档位逾期分 1.0 ＝ 到期
+    #    ⇒ **同一天被重新排进后面的组**（顺带判定不进 `used`，挡不住它）。
+    #    实证 2026-09-05 对抗演练：同一份 pick 输出一边报「义务已尽⛔今天不再问」、
+    #    一边把那一条排进了组 1。
+    pdays = sorted(set(practice_days(types)) | {today})
+    tidx = day_index(pdays, today)
+    d1 = back_count(today, types, 1)
+
+    ex_essay, ex_fresh, ex_used, ex_dead = [], [], [], []
+    live = []
+    for e in ents:
+        if e.state not in ("在池", "🎓"):
+            ex_dead.append(e)
+            continue
+        if e.essay_only:
+            ex_essay.append(e)
+        elif e.num in used_ids:
+            ex_used.append(e)
+        elif e.created_on() == today:
+            ex_fresh.append(e)
+        else:
+            live.append(e)
+
+    key = lambda e: queue_key(e, pdays, tidx)
+    pool_due = sorted([e for e in live if e.in_pool and overdue(e, pdays, tidx) >= 1], key=key)
+    grad_due = sorted([e for e in live if e.graduated and overdue(e, pdays, tidx) >= 1], key=key)
+
+    # ★★ 必出层（她 2026-09-05 定）：**上一个练习日新建的条目必须全部出完，不设上限**。
+    #    ⛔ 不排在队首就会被上限截掉 —— 它们只等了 1 个练习日，逾期分最高也就 1.0，
+    #    在「逾期分降序」里天生排最后。这一层就是为这件事存在的。
+    #    ⛔ 口径是「D-1 那天**新建的**」而不是「D-1 那天到期的」⇒ **不到期也要出**
+    #    （建号当天顺带判过一次 ⇒ 逾期分 0.5 ⇒ 光看到期会把它漏掉）。
+    #    ⛔ 但**今天已经测过的不再算必出** —— 义务是"出完"，不是"同一天问两遍"
+    #    （顺带判定／📋 也算测过 ⇒ 口径就是「有效上次 ＝ 今天」）。
+    is_must = (lambda e: bool(d1) and e.in_pool and e.created_on() == d1
+               and e.eff_last() != today)
+    must = sorted([e for e in live if is_must(e)], key=key)
+    must_done = [e for e in live if bool(d1) and e.in_pool and e.created_on() == d1
+                 and e.eff_last() == today]
+    must_set = {e.num for e in must}
+    rest = [e for e in pool_due if e.num not in must_set]
+    ordered = must + rest
+
+    cap, base = QUOTA[day_type]
+    n_must = math.ceil(len(must) / size)
+    if n_must >= cap:
+        # 必出层自己就超过上限 ⇒ **只出必出层**，⛔ 不再补别的
+        pool_take = must
+        n_pool = n_must
+    else:
+        n_pool = min(cap, math.ceil(len(ordered) / size))
+        pool_take = ordered[:n_pool * size]
+    spill = max(0, cap - n_pool)                 # ⛔ 反向不成立：复检排不满不回补在池
+    n_grad = min(base + spill, math.ceil(len(grad_due) / size))
+    grad_take = grad_due[:n_grad * size]
+
+    return dict(
+        pdays=pdays, tidx=tidx, d1=d1,
+        pool_due=pool_due, grad_due=grad_due, must=must, must_done=must_done,
+        pool_take=pool_take, grad_take=grad_take,
+        pool_groups=partition(pool_take, size, spread_by_family=True),
+        grad_groups=partition(grad_take, size, spread_by_family=False),
+        cap=cap, base=base, spill=spill,
+        excluded=dict(essay=ex_essay, fresh=ex_fresh, used=ex_used, dead=ex_dead),
+    )
+
+
+# ══════════════════════════════════════════════════════════════════════════
 #  pick
 # ══════════════════════════════════════════════════════════════════════════
 def partition(cand, size, spread_by_family):
-    """把当天全部候选切成若干组，每组 ≤ size。
-    学习日：按族轮流发牌 ⇒ 同族尽量落在不同组（考点层提示的机械那一半）。
-    复习日：保持「最久没测优先」的顺序顺序切 ⇒ 她中途停了，最该测的已经测过。"""
+    """把要出的条目切成若干组，每组 ≤ size。
+
+    ★★ **组间一律按传进来的顺序切**（＝ §3.6 的逾期分排序，必出层在最前）——
+       组 1 就是今天最该测的那 10 条。她中途喊停，停在最该测的**之后**。
+    ⛔ 旧写法「按族轮流发牌」整条作废：它把队列打散重排，组 1 变成"族最杂的 10 条"
+       而不是"最该测的 10 条"，梯子的优先级到组一级就全丢了。
+    ★ 发牌想解决的「同族不撞」降级成**组内排布**：只在组内错开相邻同族，
+      跨组冲突照旧由 `pick` 的机械扫描点名、教练在**组与组之间对调**（§4①）。"""
     if not cand:
         return []
-    k = (len(cand) + size - 1) // size
-    buckets = [[] for _ in range(k)]
-    if not spread_by_family:
-        for i, item in enumerate(cand):
-            buckets[i // size].append(item)
-        return buckets
-    byfam = defaultdict(list)
-    for item in cand:
-        byfam[item[0].fam].append(item)
-    flat = []
-    for fam in sorted(byfam, key=lambda f: (-len(byfam[f]), f)):
-        flat.extend(byfam[fam])
-    for i, item in enumerate(flat):
-        buckets[i % k].append(item)
-    return [b for b in buckets if b]
+    groups = [cand[i:i + size] for i in range(0, len(cand), size)]
+    if spread_by_family:
+        groups = [_spread_in_group(g) for g in groups]
+    return groups
+
+
+def _spread_in_group(bucket):
+    """组内错开相邻同族：每次从**剩得最多**的族里取一个，且尽量不与上一个同族。
+    ⛔ 只动组内次序，⛔ 不跨组搬人 —— 队列的优先级不受影响。"""
+    left = defaultdict(list)
+    for e in bucket:
+        left[e.fam].append(e)
+    out, prev = [], None
+    while any(left.values()):
+        # ⛔ 档案漏写「族」那一格 ⇒ fam 是 None，`None < str` 会崩。
+        #    这里只保证 pick 不崩（排到最后）；漏格本身由 `check` 报错（§3.1 契约）。
+        fams = sorted([f for f in left if left[f]],
+                      key=lambda f: (-len(left[f]), f or ""))
+        pick = next((f for f in fams if f != prev), fams[0])
+        out.append(left[pick].pop(0))
+        prev = pick
+    return out
 
 
 def cmd_pick(args):
     today = args.date or date.today().isoformat()
+    if args.size < 1:
+        print(f"⛔ --size 要 ≥ 1，收到 {args.size}")
+        return 1
     ents = load_all()
     types = day_types()
-
-    pool_note = []
-    if args.type == "learn":
-        d1 = back_count(today, types, 1)
-        d3 = back_count(today, types, 3)
-        if not d1:
-            print("⛔ log.md 里数不出 D-1（今天之前一个练习日都没有）。按 §1 不兜底，人工确认。")
-            return 1
-        targets = [d for d in (d1, d3) if d]
-        cand = []
-        for e in ents:
-            if not e.in_pool:
-                continue
-            hit = []
-            for h in e.history:
-                if h.date not in targets:
-                    continue
-                first = (e.history[0] is h)
-                if first or JUDGE.get(h.symbol) == "bad":
-                    hit.append(("新建" if first else "判❌") + h.date[5:])
-            if hit:
-                cand.append((e, "／".join(sorted(set(hit)))))
-        # ★★ 2026-09-03 她定的第二条通道（乙）：**从未被判定过的在池条目无条件进池**。
-        #    「从未被判定过」＝ 历史记录里一条 §3.2 判定符号（✅ ◎✅ ❌ 📖 △ ◎−）都没有；
-        #    ③ 建号行、📋 📝 留痕行都不算读数 ⇒ 这类条目建了号却从来没被测过。
-        #    ⛔ 与日期扫描是**并集**，⛔ 不许拿它顶替 D-1/D-3。
-        got = {e.num for e, _ in cand}
-        for e in ents:
-            if not e.in_pool or e.num in got:
-                continue
-            if not any(h.symbol in JUDGE for h in e.history):
-                cand.append((e, "从未被判定"))
-        pool_note = [f"D-1 = {d1}　D-3 = {d3 or '（不足 3 个练习日，按 §1 不兜底）'}"
-                     f"　★ 学习日与复习日一视同仁（2026-09-03 起）"]
-        # ★★ §4④ 的回看目标 —— 与 `drill.py lookback` 是**同一个函数**（⛔ 不复制一份逻辑）。
-        #    口径 ＝ **最近一篇没被回看过的新题**，⛔ 不再是「D-1 那天的」（她 2026-09-03 定）。
-        pool_note.append(lookback_line(today)[0])
-        rnd = random.Random(today)          # 按日期定种：同一天重跑得到同一份计划
-        rnd.shuffle(cand)
-        spread = True
-    else:
-        cand = [(e, f"上次 {e.last}") for e in ents if e.in_pool]
-        # 排序键三段：① 今天已经判过的沉到池底 ② 最久没测的优先 ③ 编号
-        # ① 是 2026-09-02 加的：09-01 那天 56 条候选里 44 条当天已有读数，
-        #    仍然排在队首 ⇒ 一天之内反复问同一批，第二次的读数近乎为零。
-        cand.sort(key=lambda t: (1 if t[0].judged_on(today) else 0,
-                                 t[0].last if t[0].last and t[0].last != "—" else "0000-00-00",
-                                 t[0].num))
-        pool_note = ["复习日：按「今天已判过的沉底 → 最久没测的优先」排序（§8②b），"
-                     "组号越小越该先测",
-                     "⚠️ 「今天已判过」是**当天会变**的状态 ⇒ 组归属随之变；"
-                     "⛔ 不保证同一天两次 pick 逐字重现"]
-        spread = False
-
-    used_ids, done_groups = read_drawn(today)
-    cand = [(e, why) for e, why in cand if e.num not in used_ids]
-    essay = [(e, why) for e, why in cand if e.essay_only]
-    cand = [(e, why) for e, why in cand if not e.essay_only]
-    # ★★ 2026-09-03 她定的第三条过滤：**建号当天不回考**（学习日与复习日**都**过滤）。
-    #    判据 ＝ 条目**第一条历史行**的日期 ＝ 今天（`created_on()`）。
-    #    ⛔ 不是「上次」那一格 —— 那是**最后**一条历史行，两者是两回事。
-    #    起因：乙（`untested` 通道）当天上线后，**当天新建的条目立刻满足「一条判定符号都没有」**
-    #    ⇒ 建号当天就被捞回候选池（09-03 实测 5 条全是从她自己的作文/答案里建的号），
-    #    教练只能手工撤下。理由同 §6「从她作文里建的条目题面必须换场景」：
-    #    **当天回考 ＝ 考半小时前的记忆，不是产出。**
-    #    ⇒ 与「本日已用」「挂作文验」同一层：候选池成型之后、分组之前。
-    fresh = [(e, why) for e, why in cand if e.created_on() == today]
-    cand = [(e, why) for e, why in cand if e.created_on() != today]
-    groups = partition(cand, args.size, spread)
-    base = len(done_groups)                 # 今天已经收过尾的组数
+    used_ids, done = read_drawn(today)
+    P = plan_queues(ents, today, types, args.type, size=args.size, used_ids=used_ids)
+    scope = args.scope
+    want_pool = scope in ("pool", "both")
+    want_grad = scope in ("grad", "both")
 
     W = "═" * 78
     print(W)
     print(f"drill.py pick · {today} · "
-          f"{'学习日' if args.type == 'learn' else '复习日'} · **全天计划**")
+          f"{'学习日' if args.type == 'learn' else '复习日'} · **全天计划**（§3.6 召回队列）")
     print(W)
-    for x in pool_note:
-        print("  " + x)
+    print(f"  练习日 {P['tidx']} 个（真源 log.md）　"
+          f"上一个练习日 D-1 = {P['d1'] or '（今天之前一个练习日都没有）'}")
+    print(f"  梯子 1 1 2 ┃毕业线┃ 3 7 16 32 60（单位 ＝ 练习日）　"
+          f"逾期分 ＝ 等了几个练习日 ÷ 应等间隔，≥1 ＝ 到期")
+    if args.type == "learn":
+        print("  " + lookback_line(today)[0])
     today_type = types.get(today)
     if today_type and today_type != args.type:
         print(f"  ⚠️ log.md 里今天写的是【{'复习日' if today_type == 'review' else '学习日'}】，"
               f"你传的是 --type {args.type} —— 按 §1 先确认今天到底是哪一天")
     elif not today_type:
         print("  （log.md 里今天还没有行 —— 收尾时记得补，§4⑥）")
-    shown = groups if not args.groups else groups[:args.groups]
-    if essay:
-        print(f"  ⛔ 另有 {len(essay)} 条**挂作文验**（题型 ＝ 作文验，或触发点写着"
-              f"「不出单点题」）⇒ 不进复习组：")
-        print("     " + " ".join(e.num for e, _ in essay))
+
+    ex = P["excluded"]
+    if ex["essay"]:
+        print(f"  ⛔ 挂作文验 {len(ex['essay'])} 条（题型 ＝ 作文验，或触发点写着「不出单点题」）"
+              f"⇒ 两条队列都不进：")
+        print(fmt_ids([e.num for e in ex["essay"]], indent="     "))
         print("     ⇒ 判作文时对着这几条扫全文（§4⑤d），⛔ 不要拿它们出中译英")
-    if fresh:
-        print(f"  ⛔ 另有 {len(fresh)} 条**今天刚建的号**（第一条历史行 ＝ {today}）"
-              f"⇒ **建号当天不回考**，不进复习组：")
-        print("     " + " ".join(e.num for e, _ in fresh))
-        print("     ⇒ 当天回考考的是半小时前的记忆、不是产出（同 §6「从她作文里建的条目"
-              "题面必须换场景」）；⛔ 今天不要出，下一个练习日照常回池")
-    print(f"  候选池 {len(cand)} 条（已排除本日已用 {len(used_ids)} 条"
-          + (f"、挂作文验 {len(essay)} 条" if essay else "")
-          + (f"、建号当天 {len(fresh)} 条" if fresh else "") + "）"
-          f" ⇒ 分 {len(groups)} 组，每组 ≤ {args.size}"
-          + (f"　（本次只打前 {len(shown)} 组）" if len(shown) < len(groups) else ""))
-    if args.type != "learn":
-        n_today = sum(1 for e, _ in cand if e.judged_on(today))
-        if n_today:
-            print(f"  ★ 其中 {n_today} 条今天已经判过 ⇒ 已沉到池底"
-                  f"（⛔ 同日重复出题读数近乎为零）")
-    n_phrase = sum(1 for e, _ in cand if e.is_phrase)
-    if n_phrase:
-        print(f"  ★ 候选里有 **{n_phrase} 条词组型** —— 混在组里照常发牌（组的大小不因此调整），"
-              f"出题时可把同组的几条并成一道词组题（§6）")
-    # ⛔ 旧文案写的是「今天重跑得到的分组**完全一样**」—— 那句话在两个方向上都不成立：
-    #    ① `used` 过的本来就不再出现（这条从 08-23 起就在了）
-    #    ② 复习日「今天已判过的沉底」是当天会变的状态（2026-09-02 起）
-    #    ⇒ 承诺改成事实：**规则**一样，⛔ 不保证逐字重现。
-    if args.type == "learn":
-        print(f"  ★ 同一天重跑：已 used 的不再出现，其余按同一规则（按日期定种发牌）重新分组"
-              f" —— ⛔ 不保证逐字重现")
-    else:
-        print(f"  ★ 同一天重跑：已 used 的不再出现、当天已判过的沉到池底，"
-              f"其余按同一规则重新分组 —— ⛔ 不保证逐字重现")
-    if args.date:
-        print(f"  ⚠️ --date 只影响「今天」的口径，⛔ 不能用来忠实回放当天的分组"
-              f"（那天之后才写下的判定行也会被算成「已判过」）")
-    if not args.full:
-        print(f"  ★ 卡片是精简版；要看历史留痕/全部旧触发点/成员账全文 ⇒ 加 --full，"
-              f"或 `show #NNNN`")
+    if ex["fresh"]:
+        print(f"  ⛔ 今天刚建的号 {len(ex['fresh'])} 条（第一条历史行 ＝ {today}）"
+              f"⇒ **建号当天不回考**：")
+        print(fmt_ids([e.num for e in ex["fresh"]], indent="     "))
+        print("     ⇒ 当天回考考的是半小时前的记忆、不是产出；下一个练习日照常回队列")
+    if ex["used"]:
+        print(f"  ⛔ 本日已用 {len(ex['used'])} 条 ⇒ 不再出：")
+        print(fmt_ids([e.num for e in ex["used"]], indent="     "))
+    bad_grad = [e for e in ents if e.graduated and not e.grad_day()]
+    if bad_grad:
+        print(f"  ⚠️ {len(bad_grad)} 条 🎓 的历史重放不出「连对到 2」那一天 ⇒ rc 只能按 0 算"
+              f"（间隔 {RUNGS_GRAD[0]}）—— 先跑 `check --all` 修档案：")
+        print(fmt_ids([e.num for e in bad_grad], indent="     "))
     print()
 
-    def card(e, why, tag):
-        star = " ⚠️🔍REVIEW" if e.review_mark else ""
-        created_today = e.created_on() == today
+    n_pool_g, n_grad_g = len(P["pool_groups"]), len(P["grad_groups"])
+    print(f"  在池队列  到期 {len(P['pool_due'])} 条 ⇒ 今天出 {len(P['pool_take'])} 条 / "
+          f"{n_pool_g} 组（上限 {P['cap']} 组）")
+    if P["must"]:
+        due_set = {e.num for e in P["pool_due"]}
+        extra = [e for e in P["must"] if e.num not in due_set]
+        print(f"     ★ 必出层 {len(P['must'])} 条 ＝ D-1（{P['d1']}）那天**新建的**，"
+              f"⛔ 不受上限约束、⛔ 不许挪到明天：")
+        print(fmt_ids([e.num for e in P["must"]], indent="        "))
+        if extra:
+            print(f"        ⇒ 其中 {len(extra)} 条按逾期分还没到期，**照样出**（必出层不看到期）："
+                  + " ".join(e.num for e in extra))
+        if P["must_done"]:
+            print(f"        ⇒ 另有 {len(P['must_done'])} 条 D-1 新建的**今天已经测过**"
+                  f"（有效上次 ＝ 今天）⇒ 义务已尽，⛔ 今天不再问："
+                  + " ".join(e.num for e in P["must_done"]))
+        if math.ceil(len(P["must"]) / args.size) >= P["cap"]:
+            print(f"        ⇒ 必出层自己就占满／超过 {P['cap']} 组 ⇒ **今天只出必出层**，"
+                  f"⛔ 不再补别的（下溢 0）")
+    print(f"  复检队列  到期 {len(P['grad_due'])} 条 ⇒ 今天出 {len(P['grad_take'])} 条 / "
+          f"{n_grad_g} 组（基础 {P['base']} 组 ＋ 在池下溢 {P['spill']} 组）")
+    if P["grad_due"] and not P["grad_take"]:
+        print("     ⚠️ 复检到期却一组都没排上 —— 检查配额是不是被必出层吃光了")
+    print(f"  ★ 组 1 就是今天最该测的 {args.size} 条（组间按逾期分切）；"
+          f"她中途喊停 ⇒ 停在最该测的之后，⛔ 不记欠账")
+    n_phrase = sum(1 for e in P["pool_take"] + P["grad_take"] if e.is_phrase)
+    if n_phrase:
+        print(f"  ★ 今天要出的里有 **{n_phrase} 条词组型** —— 混在组里照常发牌（组的大小不因此调整），"
+              f"出题时可把同组的几条并成一道词组题（§6.1）")
+    if not args.full:
+        print("  ★ 卡片是精简版；要历史留痕/全部旧触发点/成员账全文 ⇒ 加 --full，或 `show #NNNN`")
+    if args.date:
+        print("  ⚠️ --date 只影响「今天」的口径，⛔ 不能用来忠实回放当天的分组")
+    print()
+
+    def card(e, tag):
+        w = waited_days(e, P["pdays"], P["tidx"])
+        od = overdue(e, P["pdays"], P["tidx"])
+        must = e in P["must"]
         hint = ("⛔零提示（词组题给词 ＝ 给答案）" if e.is_phrase
-                else "⛔零提示" if (e.ok or 0) >= 1
-                else "★给英文词（连对 0／建号当天／刚降级）")
-        print(f"{tag} {e.num}  {e.fam}  {e.ok}/{e.bad}  上次 {(e.last or '—')[5:]}"
-              f"  ←{why}{star}{'  ←本条今天建的号' if created_today else ''}")
+                else "★默认零提示；有特别想考的就把它写进题面（§6）")
+        print(f"{tag} {e.num}  {e.fam}  {e.ok}/{e.bad}  "
+              f"档位 {e.rung_name()}（应等 {e.interval()}）  "
+              f"有效上次 {(e.eff_last() or '从未测过')[5:] if e.eff_last() else '从未测过'}"
+              f"  等了 {'—' if w is None else w}  逾期分 {'∞' if od == float('inf') else f'{od:.1f}'}"
+              + ("  ★必出（D-1 新建）" if must else ""))
         print(f"     考点 {e.title}")
         if e.is_phrase:
             print("     题型 **词组** —— 中译英词组题：中文块 → 英文块，⛔ 不出整句、⛔ 零提示")
-            print("          本组别的词组条目可以并进同一道题（§6 词组题）")
+            print("          本组别的词组条目可以并进同一道题（§6.1 词组题）")
         print(f"     提示 {hint}")
         tp = [l.strip() for l in e.trigger.splitlines() if l.strip()]
         if e.trigger_todo:
@@ -962,8 +1179,7 @@ def cmd_pick(args):
             if len(tp) > 3:
                 print(f"          （还有 {len(tp) - 3} 行旧触发点留痕，--full 看）")
         if e.members:
-            todo_m = [l.strip() for l in e.members.splitlines()
-                      if "未出过" in l]
+            todo_m = [l.strip() for l in e.members.splitlines() if "未出过" in l]
             if args.full:
                 print("     成员出题账（§3.5 第3.5步：一题 ≥2 个成员）")
                 for l in e.members.splitlines():
@@ -971,36 +1187,38 @@ def cmd_pick(args):
                         print(f"          {l.strip()}")
             elif todo_m:
                 print(f"     成员 ★未出过 {len(todo_m)} 个：" +
-                      " ／ ".join(x.split("——")[0].split("  ")[0].strip()
-                                  for x in todo_m[:4]))
+                      " ／ ".join(x.split("——")[0].split("  ")[0].strip() for x in todo_m[:4]))
         if args.full:
             occ = e.occasions()
             if occ:
                 print("     历次 " + " ｜ ".join(occ))
             print(f"     正文 {e.src}:{e.start}")
 
-    def scan(bucket, gno):
+    def scan(bucket):
         fam_g = defaultdict(list)
-        for e, _ in bucket:
+        for e in bucket:
             fam_g[e.fam].append(e.num)
         msgs = []
-        for k, v in sorted(fam_g.items()):
+        for k, v in sorted(fam_g.items(), key=lambda kv: kv[0] or ""):
             if len(v) > 1:
                 msgs.append(f"⚠️ 同族 {k}：{' '.join(v)}")
-        kw = {e.num: cn_keywords(e.trigger_for_keywords()) for e, _ in bucket}
-        nums = [e.num for e, _ in bucket]
+        kw = {e.num: cn_keywords(e.trigger_for_keywords()) for e in bucket}
+        nums = [e.num for e in bucket]
         for i in range(len(nums)):
             for j in range(i + 1, len(nums)):
                 sh = {w for w in kw[nums[i]] & kw[nums[j]] if len(w) >= 2}
                 if sh:
                     msgs.append(f"⚠️ 措辞 {nums[i]} ⇔ {nums[j]} 共享「{'／'.join(sorted(sh)[:4])}」")
-        pset = {e.num for e, _ in bucket}
-        for e, _ in bucket:
+        pset = {e.num for e in bucket}
+        for e in bucket:
             for other in e.no_pair_with() & pset:
                 msgs.append(f"⛔ 禁配 {e.num} 正文写死「不能和 {other} 同组」—— 必须换组")
-        todo = [e.num for e, _ in bucket if e.trigger_todo]
+        todo = [e.num for e in bucket if e.trigger_todo]
         if todo:
             msgs.append(f"⚠️ 待补 {' '.join(todo)}")
+        ph = [e.num for e in bucket if e.is_phrase]
+        if ph:
+            msgs.append(f"★ 词组型 {len(ph)} 条：{' '.join(ph)} —— 可并成一道词组题（§6.1）")
         if msgs:
             print("     ── 本组机械扫描 ──")
             for m in msgs:
@@ -1008,13 +1226,28 @@ def cmd_pick(args):
         else:
             print("     ── 本组机械扫描：同族／措辞／禁配／待补 全部零命中 ──")
 
-    for gi, bucket in enumerate(shown, start=base + 1):
+    shown = []
+    if want_pool:
+        for gi, bucket in enumerate(P["pool_groups"], start=next_group_no(done["pool"])):
+            shown.append(("pool", gi, bucket))
+    if want_grad:
+        for gi, bucket in enumerate(P["grad_groups"], start=next_group_no(done["grad"])):
+            shown.append(("grad", gi, bucket))
+    if args.groups:
+        keep_p = [x for x in shown if x[0] == "pool"][:args.groups]
+        keep_g = [x for x in shown if x[0] == "grad"][:args.groups]
+        shown = keep_p + keep_g
+
+    for q, gi, bucket in shown:
+        label = "在池组" if q == "pool" else "复检组"
         print("━" * 78)
-        print(f"━━━ 组 {gi}（{len(bucket)} 条）")
+        print(f"━━━ {label} {gi}（{len(bucket)} 条）"
+              + ("　判两档：稳 ✅ ／ 掉 ❌；✅ 只记一行判定，❌ 才走三版对照块（§4③e）"
+                 if q == "grad" else ""))
         print("━" * 78)
-        for e, why in bucket:
-            card(e, why, " ")
-        scan(bucket, gi)
+        for e in bucket:
+            card(e, " ")
+        scan(bucket)
         print()
 
     print("─" * 78)
@@ -1023,12 +1256,12 @@ def cmd_pick(args):
     if args.dry:
         print("（--dry：没有写 drawn_review.log）")
     else:
-        for gi, bucket in enumerate(shown, start=base + 1):
-            append_drawn(f"{today}\t抽\t组{gi}\t正选:"
-                         + ",".join(e.num for e, _ in bucket))
+        for q, gi, bucket in shown:
+            append_drawn(f"{today}\t抽\t{GROUP_TAG[q]}{gi}\t正选:"
+                         + ",".join(e.num for e in bucket))
         print(f"已记流水：{today} 共 {len(shown)} 组")
-    print("每组定稿后跑：python3 writing-band7/drill2/drill.py used --group N "
-          "--used \"#a,#b,…\" [--dropped \"#c=理由\"]")
+    print("每组定稿后跑：python3 writing-band7/drill2/drill.py used --queue pool|grad "
+          "--group N --used \"#a,#b,…\" [--dropped \"#c=理由\"]")
     return 0
 
 
@@ -1038,8 +1271,9 @@ def cmd_used(args):
     fields = [f"用:{','.join(used)}"]
     if args.dropped:
         fields.append(f"弃:{args.dropped}")
-    append_drawn(f"{today}\t用\t组{args.group}\t" + "\t".join(fields))
-    print(f"已记流水：{today} 组{args.group} 用 {len(used)} 条"
+    tag = f"{GROUP_TAG[args.queue]}{args.group}"
+    append_drawn(f"{today}\t用\t{tag}\t" + "\t".join(fields))
+    print(f"已记流水：{today} {tag} 用 {len(used)} 条"
           + (f"，弃 {args.dropped}" if args.dropped else ""))
     drop_ids = re.findall(r"#\d{4}", args.dropped or "")
     if drop_ids:
@@ -1151,7 +1385,7 @@ def cmd_list(args):
         if e.fam != fam:
             fam = e.fam
             print(f"\n── {fam} ──")
-        star = "🔍" if e.review_mark else " "
+        star = " "
         st = {"在池": "在池", "🎓": "🎓 ", "退池": "退池"}.get(e.state, "并入")
         print(f"{e.num} {st}{star}{e.ok}/{e.bad} {(e.last or '—')[5:]:>5}  {e.title}")
     print()
@@ -1242,7 +1476,7 @@ TYPES = [
     ("ask-todo",     "题型·待回标",  "触发点写着「不出单点题」、状态行还没标 作文验",   lambda e: e.essay_prose and e.ask_kind != ASK_ESSAY),
     ("pickable",   "可出题",      "在池 ＋ 非挂作文验 ＋ 题面不待补",               lambda e: e.in_pool and not e.essay_only and not e.trigger_todo),
     ("trigger-todo", "题面待补",   "在池 ＋ 中文触发点为空或含「待补」",             lambda e: e.in_pool and e.trigger_todo),
-    ("review",     "REVIEW 池",   "状态行下有 `⚠️🔍 **REVIEW 池**`（§3.3）",       lambda e: e.review_mark),
+    ("review-left", "REVIEW 残留", "状态行下还留着 `⚠️🔍 **REVIEW 池**`（机制已废除）", lambda e: e.review_mark),
     ("wordlist",   "词表型",      "正文挂着 `**成员出题账**`（§3.5 第3.5步）",       lambda e: bool(e.members)),
     ("nopair",     "有禁配声明",   "正文写着「不能和 #NNNN」（§6 组内排布）",         lambda e: bool(e.no_pair_with())),
     ("streak0",    "在池·连对 0",  "在池 ＋ 连对 0",                               lambda e: e.in_pool and e.ok == 0),
@@ -1319,7 +1553,7 @@ def cmd_count(args):
             if e.fam != fam:
                 fam = e.fam
                 print(f"\n── {fam} ──")
-            star = "🔍" if e.review_mark else " "
+            star = " "
             st = {"在池": "在池", "🎓": "🎓 ", "退池": "退池"}.get(e.state, "并入")
             print(f"{e.num} {st}{star}{e.ok}/{e.bad} {(e.last or '—')[5:]:>5} "
                   f"{e.src[0]}  {e.title}")
@@ -1342,7 +1576,7 @@ def cmd_stats(args):
     ok0 = [e for e in in_pool if e.ok == 0]
     okx = [e for e in in_pool if e.ok not in (0, 1)]
     todo = [e for e in ents if e.in_pool and e.trigger_todo]
-    review = [e for e in ents if e.review_mark]
+    review = [e for e in ents if e.review_mark]      # 存量残留，正常应为 0
     grad_in_problems = [e for e in grad if e.src == "problems.md"]
     ask_todo = [e for e in ents if e.essay_prose and e.ask_kind != ASK_ESSAY
                 and e.state in ("在池", "🎓")]
@@ -1364,16 +1598,10 @@ def cmd_stats(args):
         print(f"   ⏸ graduated.md 里有 {len(relapsed_in_grad)} 条已经不是 🎓（🎓 后复发）—— "
               f"**跑 `drill.py migrate` 把它们搬回 problems.md**（§3.3 / §4⑥）")
         print(fmt_ids([e.num for e in relapsed_in_grad]))
-    print(f"REVIEW 池  {len(review)} 条")
     if review:
+        print(f"⛔ REVIEW 残留 {len(review)} 条 —— REVIEW 池机制 2026-09-05 已废除，"
+              f"这几条的 `⚠️🔍 **REVIEW 池**` 标记该删（§3.3）")
         print(fmt_ids([e.num for e in review]))
-    if os.path.exists(REVIEW_POOL):
-        rp = set(re.findall(r"(?m)^### (#\d{4})", open(REVIEW_POOL, encoding='utf-8').read()))
-        marked = {e.num for e in review}
-        if rp != marked:
-            print(f"   ⚠️ 与 review_pool.md 不符：只在标记 {sorted(marked-rp)} ／ 只在清单 {sorted(rp-marked)}")
-        else:
-            print("   ✔ 与 review_pool.md 一一对应")
     print()
     print(f"在池 · 连对 1   {len(ok1)} 条")
     if not args.brief:
@@ -1479,6 +1707,12 @@ def check_entry(e, touched_lines=None, all_nums=None):
         return P
     if e.state == "退池":
         return P                                   # 退池 不再查其余字段
+    # ★★ REVIEW 池机制 2026-09-05 废除（她定：「就移除待 review，就是正常毕业，
+    #    等新增的毕业照召回，统一」）⇒ 靠 ◎✅ 凑线的和别的 🎓 一样进复检队列（§3.6）。
+    #    残留的标记会让人以为这条"不出题"，⛔ 一律报错，把存档题面搬进「中文触发点」后删掉。
+    if e.review_mark:
+        P.append(("ERROR", "状态行下还留着 `⚠️🔍 **REVIEW 池**` —— 该机制 2026-09-05 已废除；"
+                           "把存档新题面搬进「中文触发点」，再把这一行删掉（§3.3）"))
     if e.members_head_bad:
         P.append(("ERROR",
                   f"成员出题账标题写成「{e.members_head_bad}」—— 必须逐字是 `**成员出题账**`"))
@@ -1737,9 +1971,7 @@ def cmd_append(args):
             continue
         e = got[0]
         b["entry"] = e
-        if e.src != "problems.md":
-            errs.append(f"{tag} 在 {e.src} 里 —— ⛔ 已归档的条目不许再 append")
-        elif e.state not in ("在池", "🎓"):
+        if e.state not in ("在池", "🎓"):
             errs.append(f"{tag} 状态是「{e.state}」—— ⛔ 退池／并入的条目不再记判定")
         elif e.status_lineno is None:
             errs.append(f"{tag} 找不到状态行")
@@ -1750,7 +1982,12 @@ def cmd_append(args):
             errs.append(f"{tag} 这条既有 {len(e.history)} 条历史行、又留着 "
                         f"`- （从未被判定过）` —— 先把那一行删掉再 append（⛔ 脚本不代删）")
         else:
-            b["pre_err"] = {m for lv, m in check_entry(e, set(), None) if lv == "ERROR"}
+            # ⚠️ 用 `_msg_key` 抹掉行号再比：`pre_err` 是**插入前**算的，同一批里
+            #    排在前面的条目一插行，后面那条的存量错误行号整体下移 ⇒ 同一个存量错
+            #    换个 `L` 号就会被当成「append 自己引入的新错」⇒ **整批假回滚**。
+            #    （`_msg_key` 就是 migrate 为同一件事写的，这里复用同一把尺。）
+            b["pre_err"] = {_msg_key(m) for lv, m in check_entry(e, set(), None)
+                            if lv == "ERROR"}
             same = [h for h in e.history if h.date == today]
             if same:
                 warns.append(f"{tag} 该条今天已有 {len(same)} 行"
@@ -1766,12 +2003,22 @@ def cmd_append(args):
         print("═" * 74)
         return 1
 
-    # ── 组装：从后往前插，免得行号错位 ────────────────────────────────────
-    src = open(PROBLEMS, encoding="utf-8").read()
-    lines = src.split("\n")
+    # ── 组装：**两个文件**各自从后往前插，免得行号错位 ────────────────────
+    #  ★★ 2026-09-05 放开写 graduated.md：复检队列天天要在毕业条目上记判定行（§4③e）。
+    #     旧写法 `if e.src != "problems.md": ERROR` 会把复检的每一条判定都挡在门外。
+    #     ⛔ 放开的只是【往哪个文件写】—— 校验、自查、回滚一条都没松：
+    #        任何一步不过 ⇒ **两个文件一起回滚到原样**。
+    FILES = {"problems.md": PROBLEMS, "graduated.md": GRADUATED}
+    orig = {}
+    buf = {}
+    for name, path in FILES.items():
+        orig[name] = open(path, encoding="utf-8").read() if os.path.exists(path) else None
+        buf[name] = (orig[name] or "").split("\n")
+
     plan = []
     for b in blocks:
         e = b["entry"]
+        lines = buf[e.src]
         lo, hi = e.start - 1, (e.end or len(lines))
         # 「从未被判定过」占位行：只有【真的一条历史行都没有】时才顶掉它。
         # 既有历史行又留着那一行 ⇒ 上面已经拦下来了，不会走到这儿。
@@ -1797,23 +2044,26 @@ def cmd_append(args):
                 j -= 1
             at = j
         row = f"- {today} {b['symbol']}{b['raw_occ']}".rstrip()
-        plan.append(dict(e=e, at=at, drop=drop, block=[row] + b["body"], b=b))
+        plan.append(dict(e=e, src=e.src, at=at, drop=drop, block=[row] + b["body"], b=b))
 
-    for p in sorted(plan, key=lambda x: -x["at"]):
-        body = [l for l in p["block"]]
-        while body and not body[-1].strip():
-            body.pop()
-        lines[p["at"]:p["at"]] = body
-        if p["drop"] is not None:
-            del lines[p["drop"]]
+    # ⛔ 倒序插入必须**按文件分别排**：两个文件的行号各数各的，混在一起排会错位
+    for name in FILES:
+        lines = buf[name]
+        for p in sorted([x for x in plan if x["src"] == name], key=lambda x: -x["at"]):
+            body = [l for l in p["block"]]
+            while body and not body[-1].strip():
+                body.pop()
+            lines[p["at"]:p["at"]] = body
+            if p["drop"] is not None:
+                del lines[p["drop"]]
 
-    new = "\n".join(lines)
+    touched = sorted({p["src"] for p in plan})
     if args.dry_run:
         print("═" * 74)
         print(f"drill.py append --dry-run · {len(plan)} 条 · {today}（⛔ 没写盘）")
         print("═" * 74)
-        for p in sorted(plan, key=lambda x: x["at"]):
-            print(f"  {p['e'].num}  插到 problems.md L{p['at']}  "
+        for p in sorted(plan, key=lambda x: (x["src"], x["at"])):
+            print(f"  {p['e'].num}  插到 {p['src']} L{p['at']}  "
                   f"（{len(p['block'])} 行）{'· 顶掉「从未被判定过」' if p['drop'] is not None else ''}")
             print(f"      {p['block'][0][:88]}")
         for w in warns:
@@ -1821,33 +2071,42 @@ def cmd_append(args):
         print("═" * 74)
         return 0
 
-    open(PROBLEMS, "w", encoding="utf-8").write(new)
+    def rollback():
+        for nm in touched:
+            if orig[nm] is not None:
+                open(FILES[nm], "w", encoding="utf-8").write(orig[nm])
+
+    for name in touched:
+        open(FILES[name], "w", encoding="utf-8").write("\n".join(buf[name]))
 
     # ── 重算三个数（连对／连错／上次）────────────────────────────────────
-    ents2 = parse_file(PROBLEMS, "problems.md")
-    idx = {e.num: e for e in ents2}
-    lines = open(PROBLEMS, encoding="utf-8").read().split("\n")
+    ents2 = {}
+    for name in touched:
+        ents2[name] = {e.num: e for e in parse_file(FILES[name], name)}
+    lines2 = {name: open(FILES[name], encoding="utf-8").read().split("\n") for name in touched}
     moved = []
     for b in blocks:
-        e2 = idx[b["num"]]
+        name = b["entry"].src
+        e2 = ents2[name][b["num"]]
         ok, bad = e2.recount()
         last = e2.last_row_date() or "—"
         i = e2.status_lineno - 1
-        before = lines[i]
-        lines[i] = rewrite_status(before, ok, bad, last)
-        moved.append((b["num"], e2.state, ok, bad, last, before != lines[i]))
-    open(PROBLEMS, "w", encoding="utf-8").write("\n".join(lines))
+        before = lines2[name][i]
+        lines2[name][i] = rewrite_status(before, ok, bad, last)
+        moved.append((b["num"], name, e2.state, ok, bad, last, before != lines2[name][i]))
+    for name in touched:
+        open(FILES[name], "w", encoding="utf-8").write("\n".join(lines2[name]))
 
     # ── 自查：写完立刻按 check 的规矩硬查这几条，出 ERROR 就整批回滚 ──────
     ents3 = parse_file(PROBLEMS, "problems.md") + parse_file(GRADUATED, "graduated.md")
     all_nums = {e.num for e in ents3}
-    idx3 = {e.num: e for e in ents3 if e.src == "problems.md"}
+    idx3 = {e.num: e for e in ents3}
     hard = set()
     for b in blocks:
         e3 = idx3[b["num"]]
         for h in e3.history:
             if h.date == today:
-                hard.add(("problems.md", h.lineno))
+                hard.add((e3.src, h.lineno))
     # 只对【append 自己引入的新 ERROR】回滚。
     # ⛔ 「连对已到 2 该改 🎓」「🎓 吃到 ❌ 该降级」不算错 —— 那是 append 正常的结果、
     #    是留给教练的判断（脚本⛔不代做），下面会当 ★ 待办打出来；`check --changed`
@@ -1858,13 +2117,14 @@ def cmd_append(args):
         e3 = idx3[b["num"]]
         pre = b.get("pre_err", set())
         for level, msg in check_entry(e3, hard, all_nums):
-            if level != "ERROR" or msg in pre or msg.startswith(TODO):
+            if level != "ERROR" or _msg_key(msg) in pre or msg.startswith(TODO):
                 continue
             bad_rows.append((b["num"], msg))
     if bad_rows:
-        open(PROBLEMS, "w", encoding="utf-8").write(src)
+        rollback()
         print("═" * 74)
-        print(f"drill.py append · ⛔ 写完自查不过，{len(bad_rows)} 处 —— 已整批回滚")
+        print(f"drill.py append · ⛔ 写完自查不过，{len(bad_rows)} 处 —— 已整批回滚"
+              f"（{'／'.join(touched)} 都退回原样）")
         print("═" * 74)
         for n, m in bad_rows:
             print(f"ERROR  {n}  {m}")
@@ -1872,23 +2132,21 @@ def cmd_append(args):
         return 1
 
     print("═" * 74)
-    print(f"drill.py append · {len(plan)} 条已写进 problems.md · {today} · 自查 ERROR 0")
+    print(f"drill.py append · {len(plan)} 条已写进 {'／'.join(touched)} · {today} · 自查 ERROR 0")
     print("═" * 74)
-    for num, state, ok, bad, last, ch in moved:
-        e3 = idx3[num]
+    for num, name, state, ok, bad, last, ch in moved:
         flag = ""
         if state == "在池" and ok >= 2:
             flag = "   ⇒ ★ 连对已到毕业线 2，§3.3 要你原地改 🎓（脚本⛔不代改）"
         elif state == "🎓" and bad >= 1:
-            flag = "   ⇒ ★ 🎓 条目吃到 ❌，§3.3 要你决定是否降级回池（脚本⛔不代改）"
-        print(f"  {num}  {state}  连对 {ok} ｜ 连错 {bad} ｜ 上次 {last}{flag}")
+            flag = "   ⇒ ★ 🎓 条目吃到 ❌，§3.3 要你把状态改回在池（回潮，脚本⛔不代改）"
+        print(f"  {num}  {name}  {state}  连对 {ok} ｜ 连错 {bad} ｜ 上次 {last}{flag}")
     for w in warns:
         print("WARN   " + w)
     print("─" * 74)
     print("下一步：`drill.py check --changed` 复核全部改动（§0.3）")
     print("═" * 74)
     return 0
-
 
 # ══════════════════════════════════════════════════════════════════════════
 
@@ -2781,6 +3039,25 @@ DELIVER_SPECS = {
             ("d 战报",     ["战报"]),
         ],
     },
+    # ★★ 复检组（§4③e，她 2026-09-05 定）——【必须登记在这里 ＋ KNOWN_H2】
+    #    ⛔ 不登记的后果不是"漏查"而是**假绿**：`## 复检 · 第 N 组` 会被上一节整段吞掉，
+    #       整节一个字都没查，硬闸照报 ERROR 0。
+    #    与「组」的差别只有两条：
+    #      · 三版对照块是**条件性**的 —— 判 ✅ 只记一行，判 ❌ 才走全套（复检快的全部理由）
+    #      · 块数守恒对的是**战报里声明的 ❌ 条数**，⛔ 不是本组题数
+    "复检组": {
+        "head": None,   # 运行时用 "## 复检 · 第 N 组" 拼
+        "newborn": True,
+        "recheck": True,
+        "parts": [
+            ("题面",       ["题面"]),
+            ("她的答案",   ["她的答案"]),
+            ("a 判定表",   ["判定表"]),
+            ("a 顺带判定", ["顺带判定"]),
+            ("bc 三版对照块", ["三版对照块"]),
+            ("d 战报",     ["战报"]),
+        ],
+    },
     "回看": {
         "head": "## 回看",
         "parts": [
@@ -2861,6 +3138,11 @@ NEWBORN_KWS = ["新建条目", "新建的条目",
                "本节新建条目", "本节新建的条目"]
 # 「报了新建 N 条」的行：⛔ 严格匹配、不兜底 —— `新建　N 条` ／ `本组新建  N 条` ／ `新建 N 条：#0415 …`
 RE_NEW_DECL = re.compile(r"新建[\s\u3000]*\d+\s*条")
+# 复检组战报里的四行（§4③e）——⛔ 严格匹配，写歪了改 session，不改脚本
+RE_RC_SIZE = re.compile(r"^本组[\s\u3000]*(\d+)[\s\u3000]*题[\s\u3000]*/[\s\u3000]*(\d+)[\s\u3000]*条")
+RE_RC_OK   = re.compile(r"^本组[\s\u3000]*✅[\s\u3000]*(\d+)[\s\u3000]*条")
+RE_RC_BAD  = re.compile(r"^本组[\s\u3000]*❌[\s\u3000]*(\d+)[\s\u3000]*条")
+RE_RC_FALL = re.compile(r"^本组回潮[\s\u3000]*(\d+)[\s\u3000]*条")
 RE_NEW_NUM  = re.compile(r"#(\d{4})")
 
 
@@ -2878,7 +3160,53 @@ def _declared_new(lines, a, b):
 #    此前只有追加练用它，回看／新题各写各的 stops ⇒ 回看不在 `## 教练侧` `## 收尾` 处收口，
 #    结果「回看缺更好版全文」被 `## 收尾` 里的 `### 更好版 · 收尾复盘` 顶掉、硬闸报 ERROR 0。
 #    ⇒ 现在**所有节**都在这一集合处收口，⛔ 不再各写各的。
-KNOWN_H2 = ("开场", "复习 ·", "回看", "新题", "教练侧", "收尾", "追加练")
+#  ⚠️ 新加一种 `## 节` 一定要登记进来 —— 不登记 ＝ 它被上一节吞掉、整节不查、硬闸假绿
+KNOWN_H2 = ("开场", "复习 ·", "复检 ·", "回看", "新题", "教练侧", "收尾", "追加练")
+
+
+def _declared_recheck(lines, a, b, parts, found):
+    """复检组战报里的四行（§4③e）。返回 (dict, errs)。
+
+    ⛔ 严格匹配、不兜底：`本组 N 题 / K 条`『本组 ✅ N 条』『本组 ❌ N 条』『本组回潮 N 条』。
+    ★ 「❌ 数」是块数守恒的**唯一来源** —— 复检判 ✅ 只记一行、⛔ 不给三版对照块。
+    ★ 「回潮数 ＝ ❌ 数」是硬不变量：🎓 吃到 ❌ ⇒ 当场回潮（§3.3），
+      判了 ❌ 却没回潮 ＝ 状态行忘了改，这正是最容易漏的一步。"""
+    wp = found.get("d 战报")
+    errs = []
+    got = {}
+    if wp is None:
+        return got, ["缺「战报」子件 ⇒ 数不出 ❌ 条数（§4③e 战报四行）"]
+    _t, ws, we = wp
+    pat = [("size", RE_RC_SIZE, "本组 N 题 / K 条"),
+           ("ok", RE_RC_OK, "本组 ✅ N 条"),
+           ("bad", RE_RC_BAD, "本组 ❌ N 条"),
+           ("fall", RE_RC_FALL, "本组回潮 N 条")]
+    nums = []
+    for key, rx, shape in pat:
+        hit = None
+        for i in range(ws, we):
+            m = rx.match(lines[i].strip())
+            if m:
+                hit = (m, i)
+                break
+        if hit is None:
+            errs.append("战报缺「%s」这一行（§4③e，⛔ 严格这个写法）" % shape)
+        else:
+            m, i = hit
+            got[key] = int(m.group(2) if key == "size" else m.group(1))
+            if key == "bad":
+                got["bad_nums"] = RE_NEW_NUM.findall(lines[i])
+                got["bad_line"] = i
+            if key == "fall":
+                got["fall_nums"] = RE_NEW_NUM.findall(lines[i])
+    if "bad" in got and "fall" in got and got["bad"] != got["fall"]:
+        errs.append("战报里「❌ %d 条」≠「回潮 %d 条」—— 🎓 吃到 ❌ 就要当场回潮（§3.3），"
+                    "两个数对不上说明有条目判了 ❌ 却没把状态行改回在池"
+                    % (got["bad"], got["fall"]))
+    if got.get("bad") and got.get("bad_nums") is not None and len(got["bad_nums"]) != got["bad"]:
+        errs.append("战报报了「❌ %d 条」，同一行却列了 %d 个编号 —— §0.4 每个数后面要跟编号清单"
+                    % (got["bad"], len(got["bad_nums"])))
+    return got, errs
 
 
 def _node_end(lines, a, known=KNOWN_H2):
@@ -3273,6 +3601,8 @@ def _deliver_scan(args, path, lines):
         for i, ln in enumerate(lines):
             if re.match(r"^## 复习 · 第 \d+ 组", ln):
                 wanted.append("组@%d" % i)
+            if re.match(r"^## 复检 · 第 \d+ 组", ln):
+                wanted.append("复检组@%d" % i)
         # 回看／追加练：**可多个**（§0.9a §4.8）⇒ 逐节都查
         for kind in ("回看", "追加练"):
             for i, ln in enumerate(lines):
@@ -3286,11 +3616,17 @@ def _deliver_scan(args, path, lines):
                 break
     else:
         mg = re.match(r"^组(\d+)$", args.section or "")
+        mr = re.match(r"^复检(\d+)$", args.section or "")
         if mg:
             head = "## 复习 · 第 %s 组" % mg.group(1)
             wanted = ["组@%d" % i for i, ln in enumerate(lines) if ln.startswith(head)]
             if not wanted:
                 wanted = ["组@-1"]
+        elif mr:
+            head = "## 复检 · 第 %s 组" % mr.group(1)
+            wanted = ["复检组@%d" % i for i, ln in enumerate(lines) if ln.startswith(head)]
+            if not wanted:
+                wanted = ["复检组@-1"]
         elif args.section in ("回看", "新题", "追加练"):
             pre = args.section
             wanted = ["%s@%d" % (pre, i) for i, ln in enumerate(lines)
@@ -3303,7 +3639,8 @@ def _deliver_scan(args, path, lines):
             wanted = [args.section]
 
     if not wanted:
-        print("⛔ 这个文件里没有可查的交付节（复习 · 第 N 组 ／ 回看 ／ 新题 ／ 追加练）")
+        print("⛔ 这个文件里没有可查的交付节"
+              "（复习 · 第 N 组 ／ 复检 · 第 N 组 ／ 回看 ／ 新题 ／ 追加练）")
         return 2, sections
 
     print("═" * 74)
@@ -3317,7 +3654,7 @@ def _deliver_scan(args, path, lines):
         errs = []
         notes = []
         warns = []
-        mm = re.match(r"^(组|回看|新题|追加练)@(-?\d+)$", slug)
+        mm = re.match(r"^(组|复检组|回看|新题|追加练)@(-?\d+)$", slug)
         if mm:
             slug, a0 = mm.group(1), int(mm.group(2))
             spec = DELIVER_SPECS[slug]
@@ -3331,7 +3668,7 @@ def _deliver_scan(args, path, lines):
                 rng = (rng[0], _node_end(lines, rng[0]))
             label = slug
         else:
-            print("⛔ 不认识的 --section：%s（用 组N ／ 回看 ／ 新题 ／ 追加练）" % slug)
+            print("⛔ 不认识的 --section：%s（用 组N ／ 复检N ／ 回看 ／ 新题 ／ 追加练）" % slug)
             return 2, sections
 
         print("")
@@ -3400,10 +3737,15 @@ def _deliver_scan(args, path, lines):
 
         # ① 子件齐不齐
         found = {}
+        rc_blocks_missing = False
         for name, kws in spec["parts"]:
             hit = _find_part(parts, kws)
             found[name] = hit
             if hit is None:
+                # ★ 复检组：三版对照块是**条件性**的（判 ✅ 只记一行）⇒ 等战报数出 ❌ 再判
+                if spec.get("recheck") and "三版对照块" in name:
+                    rc_blocks_missing = True
+                    continue
                 msg = "缺子件「%s」（### 标题里要出现：%s）" % (name, " / ".join(kws))
                 # ⚠️ 旧判据是「出现『最小修改版』**或**『diff 表』」⇒ 恒真：
                 #    2026-08-30 起回看／新题本来就必须有「最小修改版全文」，
@@ -3432,9 +3774,29 @@ def _deliver_scan(args, path, lines):
 
         expect = None
         expect_src = ""
+        rc_decl = {}
+        if spec.get("recheck"):
+            rc_decl, rc_errs = _declared_recheck(lines, a, b, parts, found)
+            errs.extend(rc_errs)
+            if "bad" in rc_decl:
+                expect = rc_decl["bad"]
+                expect_src = "战报里的『本组 ❌ %d 条』" % rc_decl["bad"]
+                if expect == 0:
+                    if rc_blocks_missing:
+                        notes.append("本组 ❌ 0 条 ⇒ ⛔ 不需要三版对照块（§4③e：✅ 只记一行）")
+                    elif blocks:
+                        errs.append("本组报了「❌ 0 条」，却写了 %d 个三版对照块 —— "
+                                    "复检判 ✅ 只记一行（§4③e），要么改战报、要么删块"
+                                    % len(blocks))
+                elif rc_blocks_missing:
+                    errs.append("本组 ❌ %d 条却没有「三版对照块」子件 —— "
+                                "复检判 ❌ 的**要走全套**（§4③e）" % expect)
         qp = found.get("题面") or found.get("题面与条件")
         op = found.get("她的原文")
-        if op:
+        # ⛔ 复检组的应有块数**只认战报里的 ❌ 数** —— 数不出来就报错，
+        #    ⛔ 不许回退到「题面编号题数」（那会把 10 题都要求写成块，复检就跑不动了）
+        rc_only = bool(spec.get("recheck"))
+        if op and expect is None and not rc_only:
             _, os_, oe = op
             ids = [ln for ln in lines[os_:oe] if RE_SENT_ID.match(ln)]
             if ids:
@@ -3447,7 +3809,7 @@ def _deliver_scan(args, path, lines):
                         expect = int(mm.group(1))
                         expect_src = "「她的原文」里的『共 N 句』"
                         break
-        if expect is None and qp:
+        if expect is None and qp and not rc_only:
             _, qs, qe = qp
             nums = set()
             for ln in lines[qs:qe]:
@@ -3457,7 +3819,9 @@ def _deliver_scan(args, path, lines):
             if nums:
                 expect = len(nums)
                 expect_src = "「题面」里的编号题数"
-        if expect is None:
+        if expect is None and rc_only:
+            pass                      # 战报四行缺哪一行，_declared_recheck 已经点名报过
+        elif expect is None:
             msg = "数不出应有块数 —— 「她的原文」里没有 S 编号／『共 N 句』，「题面」里也没有编号题"
             if legacy_blocks or (legacy_nodes and slug in ("回看", "新题")):
                 notes.append("存量 · %s，⛔ 不报错" % msg)
@@ -3494,7 +3858,7 @@ def _deliver_scan(args, path, lines):
 
         # ⑤ 复习组的战报 ①–⑤ 五行齐
         wp = found.get("d 战报")
-        if wp:
+        if wp and not spec.get("recheck"):
             _, ws, we = wp
             txt = "\n".join(lines[ws:we])
             for mark in "①②③④⑤":
@@ -3582,6 +3946,13 @@ def _deliver_scan(args, path, lines):
 #   每一项 = (人读的名字, 该子件 ### 标题里必须出现的关键词, 排版)
 #   排版 fence ＝ 一块一个 code 围栏 ｜ raw ＝ markdown 原样（表格）
 EMIT_PARTS = {
+    "复检组": [
+        ("题面",       ["题面"],           "fence"),
+        ("判定表",     ["判定表"],         "raw"),
+        ("顺带判定",   ["顺带判定"],       "raw"),
+        ("三版对照块", ["三版对照块"],     "fence"),
+        ("战报",       ["战报"],           "raw"),
+    ],
     "组": [
         ("题面",       ["题面"],           "fence"),
         ("判定表",     ["判定表"],         "raw"),
@@ -3705,7 +4076,10 @@ def main():
     p = sub.add_parser("pick", help="把当天全部候选一次抽出、切成 ≤10 一组")
     p.add_argument("--type", choices=["learn", "review"], required=True)
     p.add_argument("--size", type=int, default=10, help="每组最多几题（默认 10）")
-    p.add_argument("--groups", type=int, help="只打前 N 组的卡片（分组仍按全池算）")
+    p.add_argument("--groups", type=int, help="每条队列只打前 N 组的卡片（分组仍按全池算）")
+    p.add_argument("--scope", choices=["pool", "grad", "both"], default="both",
+                   help="只看一条队列。⚠️ 两条队列的**配额照常一起算**，"
+                        "⛔ 不会因为只看一条就把上限让给它")
     p.add_argument("--full", action="store_true", help="打完整卡片（历史留痕/全部旧触发点/成员账全文）")
     p.add_argument("--date",
                    help="把哪一天当「今天」。⚠️ 只影响「今天」的口径，"
@@ -3714,6 +4088,8 @@ def main():
     p.set_defaults(func=cmd_pick)
 
     p = sub.add_parser("used", help="记录本组定稿用了哪几条、弃了哪几条")
+    p.add_argument("--queue", choices=["pool", "grad"], default="pool",
+                   help="pool ＝ 在池组（默认）｜ grad ＝ 复检组。两条队列各自编号")
     p.add_argument("--group", type=int, required=True)
     p.add_argument("--used", required=True)
     p.add_argument("--dropped")
@@ -3765,7 +4141,7 @@ def main():
 
     p = sub.add_parser("deliver", help="交付物完整性硬闸（§4③bc/§4④/§4⑤e）")
     p.add_argument("--session", required=True, help="当日 session 文件路径")
-    p.add_argument("--section", help="组N ／ 回看 ／ 新题 ／ 追加练；不给则扫全部")
+    p.add_argument("--section", help="组N ／ 复检N ／ 回看 ／ 新题 ／ 追加练；不给则扫全部")
     p.add_argument("--all", action="store_true", help="扫这个文件里全部交付节")
     p.add_argument("--emit", action="store_true",
                    help="ERROR 0 时把【要粘贴给她的那一段】按 §0.9b 排版打到 stdout")

@@ -46,7 +46,7 @@ class Args:
                          type=None, detail=False, fam=None, state=None, pool=False,
                          size=10, groups=None, full=False, date=None, dry=False,
                          brief=False, file=None, session=None, section=None,
-                         emit=False, group=None).items():
+                         emit=False, group=None, scope="both", queue="pool").items():
             setattr(self, k, v)
         for k, v in kw.items():
             setattr(self, k, v)
@@ -55,23 +55,22 @@ class Args:
 @contextlib.contextmanager
 def sandbox(p_text=None, g_text=None):
     d = tempfile.mkdtemp(prefix="emit")
-    for f in ("problems.md", "graduated.md", "review_pool.md", "log.md"):
+    for f in ("problems.md", "graduated.md", "log.md"):
         shutil.copy(os.path.join(WT, f), os.path.join(d, f))
     if p_text is not None:
         io.open(os.path.join(d, "problems.md"), "w", encoding="utf-8").write(p_text)
     if g_text is not None:
         io.open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g_text)
-    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL, drill.LOG, drill.DRAWN)
+    old = (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.LOG, drill.DRAWN)
     drill.ROOT = d
     drill.PROBLEMS = os.path.join(d, "problems.md")
     drill.GRADUATED = os.path.join(d, "graduated.md")
-    drill.REVIEW_POOL = os.path.join(d, "review_pool.md")
     drill.LOG = os.path.join(d, "log.md")
     drill.DRAWN = os.path.join(d, "drawn_review.log")
     try:
         yield d
     finally:
-        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED, drill.REVIEW_POOL,
+        (drill.ROOT, drill.PROBLEMS, drill.GRADUATED,
          drill.LOG, drill.DRAWN) = old
         shutil.rmtree(d, ignore_errors=True)
 
@@ -181,67 +180,69 @@ def card_order(out):
 
 
 # ══════════════════════════════════════════════════════════════════════
-print("\n【A】pick --type review：今天已经判过的沉到池底")
+print("\n【A】召回队列（§3.6）：今天判过的当天不再到期")
+#  ⛔ 旧断言「复习日按最久没测优先 ＋ 今天已判过沉底」**整段作废**（2026-09-05）——
+#     梯子上线后两件事变了：
+#       ① 学习日与复习日**同一条队列、同一套排序**，只差配额与有没有新题
+#       ② 「今天判过」不再靠一条特判沉底 —— 有效上次 ＝ 今天 ⇒ 逾期分 0 ⇒ **压根不到期**
+#     要守的东西没变：同一天里⛔不许把刚判过的再问一遍。
 
 with sandbox() as d:
-    ents = drill.load_all()
-    pool = [e for e in ents if e.in_pool and not e.essay_only]
-    pool.sort(key=lambda e: (e.last if e.last and e.last != "—" else "0000-00-00", e.num))
-    HEAD3 = [e.num for e in pool[:3]]
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    ents0 = drill.load_all()
+    PLAN0 = drill.plan_queues(ents0, DAY, drill.day_types(), "review")
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
     order0 = card_order(out)
-    ck("前提：干净档案下这 3 条排在队首", order0[:3] == HEAD3, (order0[:3], HEAD3))
-    ck("N=0 时⛔不打印「今天已经判过」那一行", "今天已经判过" not in out)
+    # ★ 组间按逾期分切、**组内**按族错开 ⇒ 比的是【组 1 的集合】，⛔ 不是组内次序
+    ck("组 1 的集合 ＝ 队列最前面的 10 条",
+       set(order0[:10]) == {e.num for e in PLAN0["pool_take"][:10]},
+       (order0[:10], [e.num for e in PLAN0["pool_take"][:10]]))
+    ck("卡片打出了档位与逾期分", "逾期分" in out and "档位" in out)
+    HEAD3 = order0[:3]
     BASE_ORDER = order0
-    BASE_OUT = out
 
 with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
              g_text=inject_today(G, set(HEAD3), DAY)) as d:
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
     order1 = card_order(out)
     ck("退出码 0", rc == 0, out[-300:])
-    ck("3 条全都还在候选池里（沉底，⛔ 不是被删掉）",
-       all(n in order1 for n in HEAD3), (HEAD3, order1[:5]))
-    pos = [order1.index(n) for n in HEAD3]
-    others = [i for i, n in enumerate(order1) if n not in HEAD3]
-    ck("3 条全部排在所有【今天没判过的】后面（＝沉到池底）",
-       min(pos) > max(others), (sorted(pos), max(others)))
-    ck("头部打出了「★ 其中 3 条今天已经判过」",
-       "★ 其中 3 条今天已经判过" in out and "已沉到池底" in out,
-       [l for l in out.split("\n") if "已经判过" in l])
-    ck("其余条目的相对顺序没被打乱",
-       [n for n in order1 if n not in HEAD3] == [n for n in BASE_ORDER if n not in HEAD3])
+    ck("今天判过的 3 条**今天不再出**（有效上次＝今天 ⇒ 逾期分 0）",
+       all(n not in order1 for n in HEAD3), (HEAD3, order1[:5]))
+    ck("⛔ 不是被删掉：它们仍在档案里、状态没动",
+       all(any(e.num == n and e.in_pool for e in drill.load_all()) for n in HEAD3))
+    ck("其余条目仍在队列里（只少掉那 3 条，⛔ 不多不少）",
+       set(BASE_ORDER) - set(order1) == set(HEAD3),
+       sorted(set(BASE_ORDER) - set(order1)))
     ck("同一天重跑，分组完全一样",
-       run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))[1] == out)
+       run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))[1] == out)
 
 with sandbox(p_text=inject_trace(P, set(HEAD3), DAY),
              g_text=inject_trace(G, set(HEAD3), DAY)) as d:
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
-    ck("留痕符号 📝 ⛔ 不算「今天已经判过」", "今天已经判过" not in out,
-       [l for l in out.split("\n") if "已经判过" in l])
-    ck("📝 之后这 3 条仍然排在队首", card_order(out)[:3] == HEAD3, card_order(out)[:3])
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
+    ck("留痕符号 📝 ⛔ 不进「有效上次」⇒ 这 3 条仍然在组 1 里",
+       set(HEAD3) <= set(card_order(out)[:10]), card_order(out)[:10])
 
-print("\n【A2】学习日（--type learn）的排序与分组⛔一个字都没动")
+print("\n【A2】学习日与复习日 ＝ 同一条队列、同一套排序，只差配额")
 with sandbox() as d:
     rc, learn0, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
-    ck("学习日跑得动", rc == 0, learn0[-300:])
+    rc2, rev0, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    ck("两种日子都跑得动", rc == 0 and rc2 == 0, learn0[-300:])
+    _, learn_p, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True, scope="pool"))
+    _, rev_p, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
+    lo, ro = card_order(learn_p), card_order(rev_p)
+    ck("学习日的卡片顺序 ＝ 复习日的**前缀**（同一条队列，只是学习日出得少）",
+       ro[:len(lo)] == lo or lo[:len(ro)] == ro, (lo[:6], ro[:6]))
+    ck("学习日在池 ≤3 组、复习日 ≤5 组",
+       "上限 3 组" in learn0 and "上限 5 组" in rev0)
+    ck("复检基础组：学习日 1 组、复习日 3 组",
+       "基础 1 组" in learn0 and "基础 3 组" in rev0)
 with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
              g_text=inject_today(G, set(HEAD3), DAY)) as d:
-    rc, learn1, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
-    # ⚠️ 2026-09-03：她定了学习日的第二条通道（`untested` ⇒ 无条件进池，SKILL §4①）之后，
-    #    「注入一条判定」**本来就会**把那一条移出 untested ⇒ 逐字一致不再成立，也不该成立。
-    #    这一条要守的东西没变：**复习日那套「今天已判过沉底」的排序⛔不许渗进学习日**。
-    #    ⇒ 改成结构不变式：学习日的卡片顺序只应少掉刚被注入判定的那几条，其余顺序一字不动。
-    _gone = set(HEAD3)
-    # ⚠️ 顺序不能拿来比：学习日是 `random.Random(日期).shuffle(候选池)`，
-    #    池子长度一变，整个排列就变 ⇒ 这里只能比**集合**。
-    ck("注入「今天已判过」后，学习日的候选集合＝原集合减掉那几条（⛔ 不多不少）",
-       set(card_order(learn1)) == set(card_order(learn0)) - _gone,
-       (sorted(set(card_order(learn0)) - set(card_order(learn1))), sorted(_gone)))
-    ck("学习日⛔不打印「今天已经判过」那一行", "今天已经判过" not in learn1)
+    rc, learn1, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True, scope="pool"))
+    ck("学习日同样把今天判过的移出队列",
+       all(n not in card_order(learn1) for n in HEAD3), card_order(learn1)[:5])
 with sandbox() as d:
     rc, learn2, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))
-    ck("学习日同日重跑分组一致（按日期定种）", learn2 == learn0)
+    ck("学习日同日重跑逐字一致（排序是确定性的，⛔ 不再洗牌）", learn2 == learn0)
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -316,11 +317,11 @@ with sandbox(p_text=TGT_TODAY) as d:
        "建号当天不回考" in out_l and TGT in out_l.split("建号当天不回考")[1][:400],
        [l for l in out_l.split("\n") if "建号当天" in l])
     ck("③ 被挡下的那一段写清了理由（记忆 ≠ 产出）",
-       "半小时前的记忆" in out_l and "换场景" in out_l,
+       "半小时前的记忆" in out_l,
        [l for l in out_l.split("\n") if "记忆" in l])
-    ck("③ 候选池那一行也把「建号当天」计进了排除项",
-       re.search(r"已排除本日已用 \d+ 条.*建号当天 \d+ 条", out_l) is not None,
-       [l for l in out_l.split("\n") if "候选池" in l])
+    ck("③ 排除清单是**逐条列编号**的，⛔ 不是只报数量",
+       re.search(r"⛔ 今天刚建的号 \d+ 条", out_l) is not None,
+       [l for l in out_l.split("\n") if "刚建的号" in l])
     ck("⛔ 挡下的只是不出题，CTL 与 TGT 的差集恰好是这一条",
        set(card_order(base_l)) - set(card_order(out_l)) == {TGT},
        sorted(set(card_order(base_l)) - set(card_order(out_l))))
@@ -924,12 +925,12 @@ with sandbox() as d:
        [l for l in o_r.split("\n") if "完全一样" in l])
     ck("P1-5 ⛔ 不再承诺「完全一样」（学习日）", "完全一样" not in o_l,
        [l for l in o_l.split("\n") if "完全一样" in l])
-    ck("P1-5 复习日照实写：已 used 的不再出现 ＋ 已判过的沉底 ＋ 不保证逐字重现",
-       "已 used 的不再出现" in o_r and "当天已判过的沉到池底" in o_r
-       and "⛔ 不保证逐字重现" in o_r, o_r[:1200])
-    ck("P1-5 学习日也照实写", "⛔ 不保证逐字重现" in o_l, o_l[:1200])
-    ck("P1-5 复习日头部点明「今天已判过」是当天会变的状态",
-       "当天会变" in o_r, o_r[:1200])
+    # ★ 2026-09-05 梯子上线后排序变成**确定性**的（逾期分 → 掉过的 → 编号），
+    #   不再洗牌、不再有「今天已判过沉底」这条特判 ⇒ 旧的"不保证逐字重现"承诺整条作废。
+    ck("P1-5 复习日头部写清了排序口径（逾期分）", "逾期分" in o_r, o_r[:1200])
+    ck("P1-5 学习日头部写清了排序口径（逾期分）", "逾期分" in o_l, o_l[:1200])
+    ck("P1-5 头部写清了组 1 ＝ 今天最该测的", "组 1 就是今天最该测的" in o_r
+       and "组 1 就是今天最该测的" in o_l, o_r[:1200])
     ck("P3-13 带 --date 时打出「⛔ 不能用来忠实回放当天的分组」",
        "不能用来忠实回放当天的分组" in o_r and "不能用来忠实回放当天的分组" in o_l)
 
@@ -1238,8 +1239,9 @@ with sandbox() as d:
     rc, out, _ = run(drill.cmd_deliver, Args(session=f))
     ck("⑦ 回看节里就算写了「新建 N 条」也⛔ 不要求正文子件",
        rc == 0 and "新建条目的正文" not in out, out[-600:])
-    ck("⑦ DELIVER_SPECS 里只有「组」「新题」挂了这一条",
-       [k for k, v in drill.DELIVER_SPECS.items() if v.get("newborn")] == ["组", "新题"],
+    ck("⑦ DELIVER_SPECS 里只有「组」「复检组」「新题」挂了这一条",
+       sorted(k for k, v in drill.DELIVER_SPECS.items() if v.get("newborn"))
+       == sorted(["组", "复检组", "新题"]),
        sorted(k for k, v in drill.DELIVER_SPECS.items() if v.get("newborn")))
 
 
