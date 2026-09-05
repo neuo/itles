@@ -71,14 +71,48 @@ with sandbox() as d:
     ck("引号句 0/N", re.search(r"引号句 0/\d", out) is not None, out[-300:])
 
 head("【P6 负】题面待补的条目 ⇒ 直接拦")
-with sandbox() as d:
+# ⚠️ 用**合成档案**造这个条件，⛔ 不再依赖真档案里恰好有没题面的条目 ——
+#   2026-09-05 解析器学会读「题面自成一段」的合并条之后，真档案的待补数变成 0，
+#   这条测试当场变成假失败（数据依赖的测试早晚会这样）。
+P_NOQ = ("# 问题总表\n\n---\n\n### 4242 · 没题面的条目\n"
+         "类型 语法 ｜ 旧号 B1\n"
+         "状态 连对0 连错1 上次2026-09-02 未毕业\n"
+         "- 2026-09-02 ❌ a\n")
+with sandbox(p_text=P_NOQ, g_text="# 已毕业档\n") as d:
     todo = [e.num for e in lab.load_all() if not e.prompt and not e.tomb]
-    ck(f"档案里有 {len(todo)} 条题面待补", len(todo) > 0)
-    if todo:
-        st, rc, out = run(lab.cmd_prompts, Args(nums=[str(todo[0])]))
-        ck("不带 --verify 时就报题面待补", rc == 1 and "题面待补" in out, out[-300:])
-        st, rc, out = run(lab.cmd_prompts, Args(nums=[str(todo[0])], verify=draft(d, "随便什么")))
-        ck("--verify 时也拦住", rc == 1 and "题面待补" in out, out[-300:])
+    ck("合成档案里有 1 条题面待补", todo == [4242], todo)
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["4242"]))
+    ck("不带 --verify 时就报题面待补", rc == 1 and "题面待补" in out, out[-300:])
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["4242"], verify=draft(d, "随便什么")))
+    ck("--verify 时也拦住", rc == 1 and "题面待补" in out, out[-300:])
+
+head("【P6b 正】合并条的题面自成一段 ⇒ 整段读进来，逐字比对每一句")
+P_BLK = ("# 问题总表\n\n---\n\n### 4243 · 合并条\n"
+         "类型 词组 ｜ **合并条·出题必须整组出**（§3.2c）｜ 新建 2026-09-01\n"
+         "题面（2 句，两个成员各一句 —— 只出一句会漏掉另一个）\n"
+         "\u3000① \"话说回来，也不是每个人都合适。\"（用 **Then again** 起头）\n"
+         "\u3000② \"话虽如此，我还是觉得值得试。\"（用 **That said** 起头）\n"
+         "\u3000\u3000★ 她的原话：这一族收进一条\n"
+         "状态 连对0 连错1 上次2026-09-02 未毕业 ｜ 合并条·出题多句覆盖\n"
+         "- 2026-09-02 ❌ a\n")
+with sandbox(p_text=P_BLK, g_text="# 已毕业档\n") as d:
+    e = [x for x in lab.load_all() if x.num == 4243][0]
+    ck("题面整块被收进 prompt_lines", len(e.prompt_lines) == 4, e.prompt_lines)
+    ck("⛔ 不算题面待补", bool(e.prompt))
+    ck("★ 比对源只取编号句，⛔ 不含段首说明与 ★ 注释行",
+       "只出一句会漏掉" not in e.prompt and "她的原话" not in e.prompt
+       and "Then again" in e.prompt and "That said" in e.prompt, e.prompt)
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["4243"]))
+    ck("prompts 把整段打出来（含 ★ 注释，那是给教练看的）",
+       "整段逐字复制" in out and "她的原话" in out, out[-400:])
+    full = ('\u3000① "话说回来，也不是每个人都合适。"（用 **Then again** 起头）\n'
+            '\u3000② "话虽如此，我还是觉得值得试。"（用 **That said** 起头）\n')
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["4243"], verify=draft(d, full)))
+    ck("正向：两句都在 ⇒ 放行", rc == 0, out[-400:])
+    half = '\u3000① "话说回来，也不是每个人都合适。"（用 **Then again** 起头）\n'
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["4243"], verify=draft(d, half)))
+    ck("★ 负向：漏掉第 2 句 ⇒ 拦住（合并条「多句覆盖」第一次有机器闸）",
+       rc == 1 and "That said" in out, out[-400:])
 
 head("【P7 负】编号不存在 ／ 没给编号 ⇒ 退出")
 with sandbox() as d:
