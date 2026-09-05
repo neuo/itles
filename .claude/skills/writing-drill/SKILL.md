@@ -15,6 +15,8 @@ description: IELTS 写作反复练。学习日/复习日流程 + T1/T2 判分。
 
 0.2 ⛔ 禁自行收工。流程走到哪一步都不许问"要不要收"，她明确指示才收。
 
+0.2b 进度**按 sessions 文件核查**，⛔ 不从 daily_log 推断（daily_log 是 partial 记录）。
+
 0.3 ⛔ 所有内容文件手工写。
     ★ 允许的脚本**只有两个**（她 2026-08-23 定）：
       · `pick_question.py`   抽作文题（读 bank.md，append drawn.log）
