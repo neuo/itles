@@ -85,6 +85,51 @@ o = deliver(GRP, f"{D}\t第 1 组\t抽\t318,319\n")
 ck("负向：只有「抽」没有「用」⇒ WARN", "只有「抽」没有「用」" in o, o[-400:])
 
 # ══════════════════════════════════════════════════════════════════════════
+head("③b ★ 对账要减掉「弃」＋ 同组多行「用」以最后一行为准（2026-09-05 实测缺口）")
+#  真事：#136 的题面被当天的粒度整改截断成裸词组，与 🎓#232 撞车 ⇒ 该记 ◎、该 `--dropped`，
+#  可对账既不减「弃」、又对两行「用」取并集 ⇒ 撤两次都撤不掉，`deliver` 死活报缺 #136。
+ONE = GRP.replace('''```
+[2] #319 · "题面二"
+原句 b ｜判定 ✅ 考点 ｜最小改 ＝原句 ｜更好版 无更好版本 ｜diff-1 无 diff ｜diff-2 无 diff
+```
+''', "").replace("（2 题）", "（1 题）")
+DR_DROP = (f"{D}\t第 1 组\t用\t318,319\n"
+           f"{D}\t第 1 组\t弃\t319=题面被整改截断，与 #318 撞车 ⇒ 教练把题面搞坏了（◎ §3.3）\n")
+DR_RERUN = f"{D}\t第 1 组\t用\t318,319\n{D}\t第 1 组\t用\t318\n"
+
+o = deliver(ONE, DR_DROP)
+ck("★ 正向：drawn.log 记了 `弃 319=…`、session 里没有 #319 ⇒ ERROR 0", nerr(o) == 0, o[-500:])
+o = deliver(GRP, DR_DROP)
+ck("★ 正向：被弃的 #319 仍写进 session（＝ 判 ◎）⛔ 不算「教练自己加题」",
+   nerr(o) == 0, o[-500:])
+o = deliver(ONE, DR_RERUN)
+ck("★ 正向：同组两行「用」、后一行撤掉 #319 ⇒ 以最后一行为准，ERROR 0", nerr(o) == 0, o[-500:])
+
+o = deliver(ONE, f"{D}\t第 1 组\t用\t318\n{D}\t第 1 组\t用\t318,319\n")
+ck("★ 负向：最后一行「用」里有 #319、session 里却没有 ⇒ 仍然报错",
+   nerr(o) > 0 and "#319" in o, o[-500:])
+ck("★ 负向：既没被弃、也在最后一行「用」里 ⇒ 闸⛔没被放宽", "出了题就必须有记录" in o, o[-500:])
+o = deliver(ONE, DR_DROP.replace("319=", "999="))
+ck("负向：弃的是别的号（#999）⇒ #319 照样必须出现", nerr(o) > 0 and "#319" in o, o[-500:])
+
+with sandbox(sessions=False) as d:
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(DR_DROP)
+    dr = lab.drawn_rows(D)
+    ck("★ 「弃」只认紧跟 `=` 的那个号：理由文本里的 `#318` ⛔ 不许被捡进来",
+       dr["弃"] == {319}, dr["弃"])
+    ck("「用」照旧读得到 318/319", dr["用"] == {318, 319}, dr["用"])
+    ck("★ pick 与对账同口径：弃掉的号当天也⛔不再抽（§3.3 次日再测）",
+       lab.read_drawn(D)[0] == {318, 319}, lab.read_drawn(D)[0])
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(DR_RERUN)
+    ck("★ drawn_rows 的「用」按最后一行算（#319 被撤）", lab.drawn_rows(D)["用"] == {318}, lab.drawn_rows(D)["用"])
+    ck("★ read_drawn 同口径（⛔ 不能一边减掉、一边还算着）",
+       lab.read_drawn(D)[0] == {318}, lab.read_drawn(D)[0])
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(
+        f"{D}\t第 1 组\t用\t318\n{D}\t第 2 组\t用\t319\n")
+    ck("★ 「最后一行为准」只在**组内**生效，⛔ 不许把别组的盖掉",
+       lab.drawn_rows(D)["用"] == {318, 319}, lab.drawn_rows(D)["用"])
+
+# ══════════════════════════════════════════════════════════════════════════
 head("④ 围栏跨节 —— 成对但把节标题吞了（未闭合检查抓不到）")
 span = sess('''## ① 在池组 · 第 1 组（1 题）
 ```
@@ -117,11 +162,19 @@ o = deliver(RCK % "**❌**", DR2, section="复检组")
 ck("★ 负向：`**❌**` 加粗 ⇒ **两件都报**：加粗违规 ＋ 照样按 ❌ 要三件套"
    "（此前加粗被当成「不是 ❌」⇒ 三件套闸整个绕过）",
    nerr(o) > 0 and "加粗" in o and "缺「最小改」" in o, o[-600:])
-for v in ("稳", "掉", "?", "◎"):
+for v in ("稳", "掉", "?"):
     o = deliver(RCK % v, DR2, section="复检组")
     ck(f"负向：判定值写「{v}」⇒ 报错", nerr(o) > 0 and "闭集" in o)
 o = deliver(RCK % "✅", DR2, section="复检组")
 ck("正向：闭集内的 ✅ 放行", nerr(o) == 0, o[-400:])
+# ★ 2026-09-05 实测缺口：SKILL §3.3 定义了 ◎，闸的闭集里却没有 ⇒ SKILL 允许的状态写不出来
+o = deliver(RCK % "◎", DR2, section="复检组")
+ck("★ 正向：裸 ◎（题面本身有毛病、本次作废 §3.3）⇒ ERROR 0", nerr(o) == 0, o[-500:])
+ck("★ 正向：◎ ⛔ 不要求三件套（和 ✅ 一样只记一行判定）",
+   "缺「最小改」" not in o and "缺「更好版」" not in o, o[-500:])
+o = deliver(RCK % "**◎**", DR2, section="复检组")
+ck("★ 负向：`**◎**` 加粗 ⇒ 照样报错（⛔ 只认裸符号，§3.3）",
+   nerr(o) > 0 and "加粗" in o, o[-500:])
 
 # ══════════════════════════════════════════════════════════════════════════
 head("⑥ 付息日 ⛔ 不出新题（§5，此前无闸）")

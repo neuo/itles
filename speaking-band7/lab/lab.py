@@ -542,37 +542,64 @@ def queue_key(e, today, days=None):
 # ══════════════════════════════════════════════════════════════════════════
 #  出题流水（append-only）
 # ══════════════════════════════════════════════════════════════════════════
-def read_drawn(today):
-    used, groups = set(), set()
-    if not os.path.exists(DRAWN):
-        return used, groups
-    for line in open(DRAWN, encoding="utf-8"):
-        parts = line.strip().split("\t")
-        if len(parts) < 4 or parts[0] != today:
-            continue
-        groups.add(parts[1])
-        # 「用」＝ 定稿出过　「免」＝ 她 ⚡ 免测（§4③）—— 两者都不该再被抽第二次
-        if parts[2] in ("用", "免"):
-            used.update(int(x) for x in parts[3].split(",") if x.strip().isdigit())
-    return used, groups
+# 「弃」字段的写法：`<编号>=<理由>`（多条用逗号/分号隔开）。理由里可能出现 `#NNN`
+# ⇒ ⛔ 只认**紧跟 `=` 的那个号**，绝不从理由文本里捡号 —— 捡错一个 ＝ 白白放宽对账闸。
+RE_DROPPED = re.compile(r"(?:^|[,;；、\s])\s*#?(\d+)\s*=")
 
 
 def drawn_rows(day):
     """→ {"抽": set, "用": set, "免": set, "弃": set}　某一天的出题流水，按动作分开。
-    ⚠️ read_drawn 把「用」和「免」并成一个集合（它只关心"别再抽第二次"），
-       对账要的是分开的两份。"""
+
+    ★★ 口径（2026-09-05 定，⛔ 所有读 drawn.log 的地方必须一模一样）：
+      · 「用」＝ 同一（日期,组）**以最后一行为准**，⛔ 不取并集 ——
+        重跑 `used`（组内改判、当场作废）是正常操作，后写的覆盖先写的。
+        取并集的话被撤下来的编号会自己爬回来（2026-09-05 实测：#136 撤两次都撤不掉）。
+      · 「抽/免/弃」＝ 并集 —— 它们是**追加事实**（抽过了／她免了／这条作废了），
+        不是"这一组最终出了哪些"的快照，⛔ 不适用后写覆盖。
+    ⚠️ read_drawn 把三者并成一个集合（它只关心"别再抽第二次"），对账要的是分开的四份。"""
     out = {k: set() for k in ("抽", "用", "免", "弃")}
+    last_used = {}                      # 组名 → 该组**最后一行**「用」的编号集合
     if not os.path.exists(DRAWN):
         return out
     for line in open(DRAWN, encoding="utf-8"):
         p = line.strip().split("\t")
         if len(p) < 4 or p[0] != day or p[2] not in out:
             continue
-        for x in re.split(r"[,\s]+", p[3]):
-            x = x.split("=")[0].strip().lstrip("#")
-            if x.isdigit():
-                out[p[2]].add(int(x))
+        if p[2] == "弃":
+            got = {int(m.group(1)) for m in RE_DROPPED.finditer(p[3])}
+        else:
+            got = set()
+            for x in re.split(r"[,\s]+", p[3]):
+                x = x.split("=")[0].strip().lstrip("#")
+                if x.isdigit():
+                    got.add(int(x))
+        if p[2] == "用":
+            last_used[p[1]] = got       # ★ 后写覆盖先写（⛔ 不是 |=）
+        else:
+            out[p[2]] |= got
+    for g in last_used.values():
+        out["用"] |= g
     return out
+
+
+def read_drawn(today):
+    """→ (used, groups)　used ＝ 今天**不该再抽第二次**的编号；groups ＝ 今天出现过的组名。
+
+    ⛔ 与 drawn_rows 同一个口径（「用」以最后一行为准）—— 两边算得不一样，
+       就会出现"对账那边减掉了、抽题这边还算着"。
+    ★ 「弃」也算进 used：◎ 的条目当天⛔不再出（§3.3 当天改题面、次日再测）。"""
+    groups = set()
+    if not os.path.exists(DRAWN):
+        return set(), groups
+    for line in open(DRAWN, encoding="utf-8"):
+        parts = line.strip().split("\t")
+        if len(parts) < 4 or parts[0] != today:
+            continue
+        groups.add(parts[1])
+    dr = drawn_rows(today)
+    # 「用」＝ 定稿出过　「免」＝ 她 ⚡ 免测（§4③）　「弃」＝ 题面搞坏了作废（◎）
+    #  —— 三者都不该在同一天再被抽第二次
+    return dr["用"] | dr["免"] | dr["弃"], groups
 
 
 def append_drawn(line):
@@ -1058,13 +1085,14 @@ RE_QBLOCK = re.compile(r"^\[(\d+)\]\s*#(\d+)\s*·")
 # 复检块头：`[3] #190 · 题面` 或 `[3] 打包 · #190 #232 #233 · 词组串`
 RE_RBLOCK = re.compile(r"^\[(\d+)\]\s*(?:打包\s*·\s*)?((?:#\d+[\s·]*)+)")
 RE_RJUDGE = re.compile(r"^判定\s*#(\d+)\s+(\S+)")
-JUDGE_OK = ("✅", "❌")
+# 复检判定值的闭集：稳 ✅ ／ 掉 ❌ ／ ◎ ＝ 题面本身有毛病、本次作废（§3.3）
+JUDGE_OK = ("✅", "❌", "◎")
 
 
 def judge_val(raw):
-    """把判定值归一化 → ✅ / ❌ / None（不认识）。
+    """把判定值归一化 → ✅ / ❌ / ◎ / None（不认识）。
     ⚠️ 加粗写法要认出来**报错**，不是放过 —— 否则 `**❌**` 会被当成"不是 ❌"，
-       三件套闸门整个绕过。"""
+       三件套闸门整个绕过（加粗本身由调用处单独报，见 §3.3「符号紧跟、不加粗」）。"""
     v = (raw or "").strip().strip("*").strip()
     for k in JUDGE_OK:
         if v.startswith(k):
@@ -1157,6 +1185,9 @@ def _blocks_in(sc, sec, head_re):
 # diff 段里的小标题（`diff-1  原句 → 最小改`）不是内容行，也不能顶替块头的六项
 RE_DIFF_CAPTION = re.compile(r"^(原句|最小改|更好版)\s*→\s*(原句|最小改|更好版)\s*$")
 RE_DIFF_SENT = re.compile(r"^(原句|最小改|更好版)\s+\S")
+# 省略记号：`…`(U+2026) ／ `...` ／ `. . .` —— diff 的两行完整句里出现即不合格（§7③：
+# 看不到完整句就不算 diff）。⛔ 只查那两行，`· aaa → bbb` 的理由行照旧允许用省略号。
+RE_ELLIPSIS = re.compile(r"…|\.\s*\.\s*\.")
 
 
 ALL_LABELS = Q_LABELS + DIFF_LABELS
@@ -1223,6 +1254,9 @@ def check_session(sc, only=None):
     #   标题条数里**一起**抹掉就查不出来。
     if not only and hard:
         dr = drawn_rows(sc["date"])
+        # ★ 「弃」＝ 题面本身有毛病、本次作废（◎ §3.3）⇒ ⛔ 不进对账的期望集合：
+        #   两边都要减（不要求它出现；出现了也不算「教练自己加题」——记 ◎ 是合法动作）。
+        want = dr["用"] - dr["弃"]
         if dr["用"] or dr["免"]:
             insess = set()
             for sec in sc["sections"]:
@@ -1232,11 +1266,11 @@ def check_session(sc, only=None):
                 elif sec["kind"] == "recheck":
                     for b in _blocks_in(sc, sec, RE_RBLOCK):
                         insess.update(int(x) for x in RE_NUMS.findall(b["m"].group(2)))
-            miss = sorted(dr["用"] - insess)
-            extra = sorted(insess - dr["用"] - dr["免"])
+            miss = sorted(want - insess)
+            extra = sorted(insess - want - dr["免"] - dr["弃"])
             if miss:
                 P.append(("ERROR", "-",
-                          f"drawn.log 记着今天定稿出了 {len(dr['用'])} 条，session 里找不到 "
+                          f"drawn.log 记着今天定稿出了 {len(want)} 条，session 里找不到 "
                           f"{'／'.join('#'+str(x) for x in miss[:8])}"
                           f"{' 等' if len(miss) > 8 else ''} —— ⛔ 出了题就必须有记录"))
             if extra:
@@ -1294,6 +1328,8 @@ def check_session(sc, only=None):
                         P.append((LV, bl, f"[{idx}] #{num} 缺「{lab_}」行（§7 六项一项不许省）"))
                     elif not v:
                         P.append((LV, bl, f"[{idx}] #{num} 的「{lab_}」是空的"))
+                for f_ in _full_faults(sc, b, bodyN):
+                    P.append((LV, bl, f"[{idx}] #{num} {f_}"))
                 for lab_ in DIFF_LABELS:
                     v = _has_label(bodyN, lab_)
                     if v is None:
@@ -1302,10 +1338,8 @@ def check_session(sc, only=None):
                     seg = _diff_seg(bodyN, lab_)
                     if not seg:
                         P.append((LV, bl, f"[{idx}] #{num} 的「{lab_}」段是空的"))
-                    elif EMPTY_DIFF not in " ".join(seg) and len(_diff_sentences(seg)) < 2:
-                        P.append((LV, bl,
-                                  f"[{idx}] #{num} 的「{lab_}」有改动却没摆两行完整句"
-                                  f"（§7③：⛔ 只写 xxx → yyy 不算 diff）"))
+                    for f_ in _diff_faults(sc, b, seg, lab_):
+                        P.append((LV, bl, f"[{idx}] #{num} {f_}"))
             h3 = [RE_H3.match(sc["lines"][i]).group(1)
                   for i in range(sec["start"], sec["end"])
                   if i not in sc["infence"] and RE_H3.match(sc["lines"][i])]
@@ -1314,8 +1348,8 @@ def check_session(sc, only=None):
 
         elif sec["kind"] == "recheck":
             # ── 复检组（§4①b / §6.1）───────────────────────────────────
-            #  目的是**定位**不是教 ⇒ 判两档：稳 ✅ ／ 掉 ❌。
-            #  ✅ 只要一行判定；❌ 才走三件套（它当场回潮，已经是在池条目了）。
+            #  目的是**定位**不是教 ⇒ 判两档：稳 ✅ ／ 掉 ❌ ＋ 例外 ◎（题面坏了，§3.3）。
+            #  ✅ 与 ◎ 只要一行判定；❌ 才走三件套（它当场回潮，已经是在池条目了）。
             #  ★ 打包题最大的风险 ＝ **某个成员被悄悄漏判** ⇒ 这里逐条对账。
             m = RE_RECHECK_N.search(t)
             blocks = _blocks_in(sc, sec, RE_RBLOCK)
@@ -1362,9 +1396,11 @@ def check_session(sc, only=None):
                 unknown = [(n, v) for n, v in judged.items() if judge_val(v) is None]
                 for n, v in unknown:
                     P.append((LV, bl,
-                              f"[{idx}] #{n} 的判定值「{v[:12]}」不在闭集 ✅／❌ 里 ——"
-                              f" §6.1③ 复检只判两档；⛔ 加粗写法（`**❌**`）也不认，"
-                              f"符号必须裸写（§3.3）"))
+                              f"[{idx}] #{n} 的判定值「{v[:12]}」不在闭集 ✅／❌／◎ 里 ——"
+                              f" §6.1③ 复检判两档 ＋ ◎（题面本身有毛病，§3.3）；"
+                              f"⛔ 加粗写法（`**❌**`）也不认，符号必须裸写（§3.3）"))
+                # ★ ◎ ⛔ 不要求三件套（它的定义就是"这次没测成"，对着坏题面教是错的），
+                #   也 ⛔ 不计进下面「一个块最多一条 ❌」的数 —— 它不是 ❌。
                 bad = [n for n, v in judged.items() if judge_val(v) == "❌"]
                 if len(bad) > 1:
                     P.append((LV, bl,
@@ -1376,15 +1412,15 @@ def check_session(sc, only=None):
                             P.append((LV, bl,
                                       f"[{idx}] #{bad[0]} 判了 ❌ 却缺「{lab_}」"
                                       f" —— 掉的题走全套三件套（§6.1）"))
+                    for f_ in _full_faults(sc, b, bodyN):
+                        P.append((LV, bl, f"[{idx}] #{bad[0]} {f_}"))
                     for lab_ in DIFF_LABELS:
                         if _has_label(bodyN, lab_) is None:
                             P.append((LV, bl, f"[{idx}] #{bad[0]} 判了 ❌ 却缺「{lab_}」段（§7③）"))
                             continue
                         seg = _diff_seg(bodyN, lab_)
-                        if seg and EMPTY_DIFF not in " ".join(seg) \
-                                and len(_diff_sentences(seg)) < 2:
-                            P.append((LV, bl,
-                                      f"[{idx}] #{bad[0]} 的「{lab_}」有改动却没摆两行完整句（§7③）"))
+                        for f_ in _diff_faults(sc, b, seg, lab_):
+                            P.append((LV, bl, f"[{idx}] #{bad[0]} {f_}"))
             if m and cover != int(m.group(2)):
                 P.append((LV, loc,
                           f"标题写着覆盖 {m.group(2)} 条，块头实际列了 {cover} 条"))
@@ -1407,6 +1443,10 @@ def check_session(sc, only=None):
             for want, key in FREE_H3:
                 if not any(key in x for x in h3):
                     P.append((LV, loc, f"自由产出缺 `### {want}` 这一节（§7 四件套）"))
+            for ln, which, s in _free_full_faults(sc, sec):
+                P.append((LV, f"L{ln}",
+                          f"`### {which}` 的正文用省略号截断了：`{s[:56]}`　"
+                          f"§9.1③：**全文（一句都不省）**，⛔ 不许用 … 拼接"))
             sb = _blocks_in(sc, sec, RE_SBLOCK)
             if not sb:
                 P.append((LV, loc, "逐句 diff 里一个 `[S1]` 块都没有（§7③ 多句逐句走两段）"))
@@ -1418,10 +1458,8 @@ def check_session(sc, only=None):
                         P.append((LV, bl, f"[S{sid}] 缺「{lab_}」段（§7③）"))
                         continue
                     seg = _diff_seg(b["body"], lab_)
-                    if seg and EMPTY_DIFF not in " ".join(seg) \
-                            and len(_diff_sentences(seg)) < 2:
-                        P.append((LV, bl,
-                                  f"[S{sid}] 的「{lab_}」有改动却没摆两行完整句（§7③）"))
+                    for f_ in _diff_faults(sc, b, seg, lab_):
+                        P.append((LV, bl, f"[S{sid}] {f_}"))
 
         elif sec["kind"] == "look":
             rest = RE_SEC_LOOK.sub("", t).strip(" ·").strip()
@@ -1455,6 +1493,101 @@ def _diff_seg(body, label):
 def _diff_sentences(seg):
     """段里【摆出来的完整句】＝ 以 原句／最小改／更好版 打头且不是小标题的行。"""
     return [s for s in seg if RE_DIFF_SENT.match(s) and not RE_DIFF_CAPTION.match(s)]
+
+
+def _locate(sc, blk, text):
+    """把 diff 段里的一行映射回 session 原文的行号（1-based）；找不到 → None。
+    ⛔ 不猜：_expand_compact 拆开过的行在原文里没有独立的一行 ⇒ 宁可不报行号。
+    只在**这个块自己的行区间**里找（块体是块头之后的连续行）。
+    ★ 起点句常常挂在标签行的尾巴上（`diff-1  原句   I need …`）⇒ 后缀也算命中。"""
+    t = text.strip()
+    a = blk["line"]                       # 块头 1-based ⇒ 块体第一行的 0-based 下标
+    for i in range(a, min(a + len(blk["body"]), len(sc["lines"]))):
+        s = sc["lines"][i].strip()
+        if s == t or (s.endswith(t) and any(s.startswith(x) for x in DIFF_LABELS)):
+            return i + 1
+    return None
+
+
+# §7 明写的两句固定写法 —— 它们不是句子，⛔ 不适用「完整」检查
+FULL_EXEMPT = ("无更好版本", "＝原句", "=原句", EMPTY_DIFF)
+
+
+def _truncated(text):
+    """→ True ＝ 这一行用省略记号截断了（豁免上面那两句固定写法）。"""
+    s = text.strip()
+    if not s or any(x in s for x in FULL_EXEMPT):
+        return False
+    return bool(RE_ELLIPSIS.search(s))
+
+
+def _full_faults(sc, blk, body):
+    """三件套块里 `最小改` / `更好版` 两行的完整性（§7①②／§9.1③：全文，一句都不省）。
+    ⛔ 只查这两行 —— 题面行 `[n] #NNN · …` 与 `原句` 行是**她的原话逐字**，
+       她自己打的省略号不算违规。"""
+    out, fname = [], os.path.basename(sc["path"])
+    for l in _head_area(body):
+        s = l.strip()
+        for k in ("最小改", "更好版"):
+            if not s.startswith(k) or not _truncated(s):
+                continue
+            ln = _locate(sc, blk, s)
+            out.append(f"的「{k}」用省略号截断了 —— "
+                       f"{fname} {('L%d' % ln) if ln else '（行号定位不到）'}："
+                       f"`{s[:56]}`　§9.1③：最小改／更好版给**全文**，一句都不省")
+    return out
+
+
+def _free_full_faults(sc, sec):
+    """自由产出的 `### ① 最小修改版` / `### ② 更好版` 正文段（§9.1③：全文，一句都不省）。
+    → [(行号, 哪一节, 原文)]
+    ★ 区段止于：下一个 `### `，或掉进逐句 diff（`[S1]` 块头／`diff-` 标签）——
+      后者本身就是「缺 `### ③ 逐句 diff`」，另有一条闸报它，这里不重复叫。"""
+    out, cur = [], None
+    for i in range(sec["start"], sec["end"]):
+        raw = sc["lines"][i]
+        s = raw.strip()
+        if i not in sc["infence"]:
+            m = RE_H3.match(raw)
+            if m:
+                t = m.group(1)
+                cur = ("最小修改版" if "最小修改版" in t else
+                       "更好版" if "更好版" in t else None)
+                continue
+        if cur is None:
+            continue
+        if RE_SBLOCK.match(raw) or any(s.startswith(x) for x in DIFF_LABELS):
+            cur = None
+            continue
+        if _truncated(raw):
+            out.append((i + 1, cur, s))
+    return out
+
+
+def _diff_faults(sc, blk, seg, label):
+    """一个 diff 段的硬格式检查（§7③）→ [说明]（空 list ＝ 合格）。
+    ① 不是 `无 diff（＝上一版）` 的形态 ⇒ 必须摆两行完整句（⛔ 只写 xxx → yyy 不算）
+    ② 那两行 ⛔ 不许带省略记号（… ／ ... ／ . . .）——
+       句子被截断就看不出改的是哪里，跟没摆完整句是同一件事（§7③）。
+    ⚠️ 这个闸只管**写进 session 文件**的 diff；聊天里发出去的内容它看不见（§9.1 已知缺口）。"""
+    if not seg or EMPTY_DIFF in " ".join(seg):
+        return []
+    sents = _diff_sentences(seg)
+    if len(sents) < 2:
+        return [f"的「{label}」有改动却没摆两行完整句"
+                f"（§7③：⛔ 只写 xxx → yyy 不算 diff）"]
+    # ★ 这里直接用 RE_ELLIPSIS、不走 _truncated：`无 diff（＝上一版）` 已在段级豁免过了，
+    #   摆出来的**句子行**里再出现省略记号一律不认（⛔ 别再给第二个豁免口子）。
+    out, fname = [], os.path.basename(sc["path"])
+    for i, s in enumerate(sents):
+        if not RE_ELLIPSIS.search(s):
+            continue
+        pos = "起点句" if i == 0 else "终点句" if i == 1 else f"第 {i+1} 行"
+        ln = _locate(sc, blk, s)
+        out.append(f"的「{label}」{pos}用省略号截断了 —— "
+                   f"{fname} {('L%d' % ln) if ln else '（行号定位不到）'}："
+                   f"`{s[:56]}`　§7③：看不到完整句就不算 diff")
+    return out
 
 
 def cmd_deliver(args):
@@ -2195,7 +2328,7 @@ def cmd_pick(args):
             drop["今天刚建号 —— 建号当天不回考（§3.1）"].append(e.num)
             continue
         if e.num in used:
-            drop["本场已出过／已 ⚡ 免测（drawn.log）"].append(e.num)
+            drop["本场已出过／已 ⚡ 免测／已弃（drawn.log）"].append(e.num)
             continue
         cand.append(e)
 

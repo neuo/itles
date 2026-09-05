@@ -79,6 +79,16 @@ cases = [
     ("★ diff 有改动却只写 xxx → yyy，没摆两行完整句",
      GOOD.replace("  原句   the market has changed\n"
                   "  最小改 The market has changed.\n", ""), "没摆两行完整句"),
+    # ★ 省略号闸（2026-09-05 补，漏洞 B 的第四类行）：❌ 那条的三件套同样必须是完整句
+    ("★ ❌ 的题 diff 起点句用 … 截断",
+     GOOD.replace("  原句   the market has changed",
+                  "  原句   … the market has changed"), "省略号截断"),
+    ("★ ❌ 的题 diff 终点句用 ... 截断",
+     GOOD.replace("  最小改 The market has changed.",
+                  "  最小改 ... The market has changed."), "省略号截断"),
+    ("★ ❌ 的题「最小改」用 … 拼接（全文，一句都不省）",
+     GOOD.replace("\n最小改 The market has changed.",
+                  "\n最小改 … The market has changed …"), "一句都不省"),
     ("同一条在一节里出现两次",
      GOOD.replace("[2] #205 ·", "[2] #190 ·"), "出现两次"),
     ("★ 缺【本组 ⚡ 免测】块",
@@ -108,6 +118,37 @@ ok_cases = [
 for name, txt in ok_cases:
     o = deliver(txt)
     ck(f"正向：{name}", nerr(o) == 0, o[-600:])
+
+head("③b ★ ◎ ＝ 题面本身有毛病、本次作废（§3.3）—— SKILL 允许的档位，闸必须写得出来")
+#  2026-09-05 实测：#136 的题面被当天的粒度整改截断成裸词组「说了实话」，与 🎓#232「说实话」
+#  撞车，她答 to be honest ⇒ 这是教练把题面搞坏了，按 §3.3 该记 ◎，闸却判 ERROR。
+VOID = GOOD.replace("判定 #233 ✅ either way",
+                    "判定 #233 ◎ 题面被截断成裸词组、与 #232 撞车 —— 教练把题面搞坏了")
+o = deliver(VOID)
+ck("★ 正向：复检块里 `判定 #N ◎ <理由>` ⇒ ERROR 0", nerr(o) == 0, o[-700:])
+ck("★ 正向：◎ 的块⛔不要求三件套（一行判定就够 —— 对着坏题面教 ＝ 教错东西）",
+   "缺「最小改」" not in o and "缺「更好版」" not in o and "diff-1" not in o, o[-700:])
+
+o = deliver(GOOD.replace("判定 #233 ✅ either way", "判定 #233 **◎** 题面坏了"))
+ck("★ 负向：`**◎**` 加粗 ⇒ 报错（⛔ 只认裸符号，§3.3 符号紧跟、不加粗）",
+   nerr(o) > 0 and "加粗" in o, o[-700:])
+for v in ("稳", "掉", "?", "作废"):
+    o = deliver(GOOD.replace("判定 #233 ✅ either way", f"判定 #233 {v} xxx"))
+    ck(f"负向：判定值写「{v}」⇒ 仍然报错（闭集只多了 ◎，⛔ 没放宽别的）",
+       nerr(o) > 0 and "闭集" in o, o[-700:])
+
+# ★ §6.1⑤「一个块里最多一条 ❌」的计数里，◎ ⛔ 不算 ❌
+MIX = (GOOD.replace('[2] #205 · "市场变了。"',
+                    "[2] 打包 · #205 #206 · 中译英词组串")
+           .replace("判定 #205 ❌ 掉了 the",
+                    "判定 #205 ❌ 掉了 the\n判定 #206 ◎ 题面缺主语（教练现编）")
+           .replace("（2 题 / 4 条）", "（2 题 / 5 条）"))
+o = deliver(MIX)
+ck("★ 正向：一个块里 一条 ❌ ＋ 一条 ◎ ⇒ ERROR 0（◎ ⛔ 不计进「最多一条 ❌」）",
+   nerr(o) == 0, o[-700:])
+o = deliver(MIX.replace("判定 #206 ◎ 题面缺主语（教练现编）", "判定 #206 ❌ 也掉了"))
+ck("★ 负向：同一个块里两条 ❌ ⇒ 仍然报错（⛔ 没被 ◎ 顺手放宽）",
+   nerr(o) > 0 and "拆成各自的块" in o, o[-700:])
 
 head("④ 存量分界线 —— 2026-09-05 之前只提示不报错")
 old = GOOD.replace(f"# {D}", "# 2026-09-01")
