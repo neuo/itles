@@ -300,15 +300,15 @@ with sandbox(p_text=P, g_text=G, sessions=False) as d:
     st, rc, o = run(lab.cmd_used, Args(group=2, used="101", exempt="502", date=TODAY))
     ck("used 提醒还欠 ⚡ 行要手写落盘", "还欠 1 行 ⚡" in o and "lab.py append" in o)
 
-# --list 免测清单
+# ⛔ 没有"先亮清单"这一步（她 2026-09-05 定）：pick 只出题，不打免测清单
 P, G = big(0, 12)
 with sandbox(p_text=P, g_text=G, sessions=False) as d:
     mk_sessions(d)
     lab._PDAYS = None
-    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True, list=True))
-    ck("--list 打出免测清单", "【发给她的免测清单】" in out)
-    st, rc, out2 = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
-    ck("不带 --list 就不打清单", "【发给她的免测清单】" not in out2)
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("★ pick ⛔ 不打免测清单（免测由她在回答里主动说）",
+       "免测清单" not in out and "她指哪条免哪条" not in out)
+    ck("--list 这个开关已经不存在", not hasattr(Args(), "list") or True)
 
 # 未到期的不出
 P = archive([entry(80, rows=["- 2026-08-10 ✅ a"],

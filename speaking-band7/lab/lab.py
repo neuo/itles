@@ -2264,19 +2264,6 @@ def cmd_pick(args):
                     [today, tag, "抽",
                      ",".join(str(e.num) for q in bk for e in q)]))
 
-    if args.list:
-        print("\n" + "─" * 78)
-        print("【发给她的免测清单】—— 她指哪条免哪条，⛔ 无类型限制（§4③）")
-        gno = 0
-        for name, gs in (("在池组", pool_g), ("复检组", grad_g)):
-            for bk in gs:
-                gno += 1
-                print(f"\n{name} · 第 {gno} 组（{len(bk)} 题 / "
-                      f"{sum(len(q) for q in bk)} 条）")
-                for qi, q in enumerate(bk, 1):
-                    tail = "／".join(f"#{e.num} {e.title[:26]}" for e in q)
-                    print(f"  [{qi}] {tail}")
-
     print("\n" + "─" * 78)
     print("⛔ 脚本做不到、必须教练手工的两件（§6）：① 题面逐字核对 `lab.py prompts N N N`"
           " ② 第二译法自查（逐题写有/无，有就点名）")
@@ -2591,8 +2578,6 @@ def main():
                    help="只看在池队列 / 只看复检队列 / 两条都要（默认）")
     p.add_argument("--size", type=int, default=GROUP_SIZE, help="一组几**题**（默认 10）")
     p.add_argument("--full", action="store_true", help="卡片带历史留痕")
-    p.add_argument("--list", action="store_true",
-                   help="末尾另打一份【发给她的免测清单】（§4③ 先亮清单再发题）")
     p.add_argument("--date")
     p.add_argument("--dry", action="store_true", help="不写 drawn.log")
     p.set_defaults(func=cmd_pick)
