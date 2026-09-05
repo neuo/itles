@@ -76,22 +76,33 @@ with sandbox() as d:
     ck("退出码 0", (st, rc) == ("OK", 0))
     ck("报 0 条", "全档 0 条" in out, out[:200])
 
-head("【C6 负】复现旧 §8 grep 公式的错 —— 这就是 count 存在的理由")
-with sandbox() as d:
+head("【C6 负】grep 数条目一定会错 —— 这就是 count 存在的理由")
+# ⚠️ 用**合成档案**，⛔ 不再拿真档案的墓碑当证据：2026-09-05 墓碑整类废除之后
+#   那个分歧源没了，测试当场变成假失败。围栏里的 `###` 是仍然活着的分歧源。
+P_TRAP = ("# 问题总表\n\n---\n\n"
+          "### 1 · 真条目\n类型 语法 ｜ 题面 \"中文。\"\n"
+          "状态 连对0 连错1 上次2026-09-01 未毕业\n- 2026-09-01 ❌ x\n"
+          "- 备注 举个例子说明格式：\n"
+          "```\n### 999 · 这行在围栏里，⛔ 不是条目\n状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**\n```\n")
+with sandbox(p_text=P_TRAP, g_text="# 已毕业档\n") as d:
     txt = read(d, "problems.md")
-    grep_grad = len(re.findall(r"^状态.*🎓", txt, re.M))
     grep_total = len(re.findall(r"^### ", txt, re.M))
-    ents = lab.load_all()
-    live = [e for e in ents if not e.tomb]
+    grep_grad = len(re.findall(r"^状态.*🎓", txt, re.M))
+    live = [e for e in lab.load_all() if not e.tomb]
     real_grad = sum(1 for e in live if e.graduated)
     real_ungrad = len(live) - real_grad
-    ck(f"grep 的 🎓（{grep_grad}）≠ 真值（{real_grad}）—— 多数了墓碑",
-       grep_grad != real_grad)
-    ck(f"grep 的未毕业（{grep_total - grep_grad}）≠ 真值（{real_ungrad}）",
-       grep_total - grep_grad != real_ungrad)
-    ck(f"偏差有 {grep_total - grep_grad - real_ungrad} 条 ⇒ 报大了 "
-       f"{(grep_total-grep_grad)/max(real_ungrad,1):.1f} 倍",
-       (grep_total - grep_grad) > real_ungrad)
+    ck(f"grep 数出 {grep_total} 个条目头，真值 {len(live)} —— 围栏里的也被数了",
+       grep_total == 2 and len(live) == 1, (grep_total, len(live)))
+    ck(f"grep 数出 {grep_grad} 个 🎓，真值 {real_grad}",
+       grep_grad == 1 and real_grad == 0, (grep_grad, real_grad))
+    # ★ 这个例子里两个 grep 各错各的（2 vs 1、1 vs 0），**差值凑巧对上** ——
+    #   比直接报错更危险：它看起来是对的。⇒ 判据只能是"每个数各自对不对"，
+    #   ⛔ 不能拿"减出来的数看着合理"当验证。
+    ck("★ 两个 grep 各自都错，差值却凑巧对上 —— 看起来对的数最危险",
+       grep_total != len(live) and grep_grad != real_grad
+       and grep_total - grep_grad == real_ungrad)
+    st, rc, out = run(lab.cmd_count, Args())
+    ck("count 报的是真值 1 条", "全档 1 条" in out, out[:200])
 
 head("【C7 负】墓碑不许混进任何出题口径")
 with sandbox() as d:
