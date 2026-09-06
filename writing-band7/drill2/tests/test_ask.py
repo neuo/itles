@@ -140,8 +140,8 @@ with sandbox() as d:
        sorted(_only_prose))
 
 for grid in ("整句", "词组", "作文验"):
-    with sandbox(p_text=set_grid(P, "#0053", grid)) as d:
-        e, _ = probs("#0053")
+    with sandbox(p_text=set_grid(P, _A, grid)) as d:          # ★ 用按条件挑的夹具，⛔ 不写死编号
+        e, _ = probs(_A)
         ck(f"显式写「题型 {grid}」解析得到 {grid}", e.ask == grid and e.ask_kind == grid, e.ask)
 
 print("\n【B】非法值与缺格")
@@ -252,8 +252,14 @@ with sandbox(p_text=set_grid(P, _A, "作文验")) as d:
     excl = out.split("⛔ 挂作文验")[1].split("\n\n")[0] if "⛔ 挂作文验" in out else ""
     ck("pick 把挂作文验的列进排除清单", _A in excl, excl[:200])
     ck("pick 不把它发进任何一组", _A not in cards, cards[:200])
-with sandbox(p_text=set_grid(P, "#0053", None)) as d:   # 把已回标的 #0053 退回散文态
-    e, pr = probs("#0053")
+# ⚠️ **2026-09-06 改**：原来写死 `#0053` —— 那天她把作文验口径收窄，#0053 改回了「整句」
+#    并重写了触发点 ⇒ 散文里的「不出单点题」没有了 ⇒ 夹具当场失效（§0.6：⛔ 不许写死编号）。
+#    改成**按条件挑**：散文里写着「不出单点题」且状态行标了作文验的那一条，再把它的题型格去掉。
+_ESSAY_PROSE = next((e.num for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
+                     if e.essay_prose and e.ask == "作文验"), None)
+assert _ESSAY_PROSE, "⛔ 档案里挑不出「散文写着不出单点题 ＋ 状态行标了作文验」的条目"
+with sandbox(p_text=set_grid(P, _ESSAY_PROSE, None)) as d:   # 退回散文态
+    e, pr = probs(_ESSAY_PROSE)
     ck("散文写着「不出单点题」、状态行没标 ⇒ 存量提示（INFO，不是 ERROR）",
        any("回标成" in m for m in lv(pr, "INFO")) and not lv(pr, "ERROR"),
        (lv(pr, "INFO"), lv(pr, "ERROR")))

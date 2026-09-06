@@ -221,11 +221,26 @@ with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
     ck("同一天重跑，分组完全一样",
        run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))[1] == out)
 
+# ⚠️ **2026-09-06 改**：这一段原来直接拿 HEAD3（队列最前面 3 条）去注入 📝。
+#    可队首现在常常是**从未被判定过**的条目（09-06 那天有 16 条作文验改回出题、`上次 —`，
+#    逾期分 ∞ ⇒ 全部排在队首）。给一条没有历史的条目追加一行今天的 📝，
+#    那一行就成了它的**第一条历史行 ＝ 建号行** ⇒ 被「建号当天不回考」正确地挡下 ⇒ 假红。
+#    ⇒ 改成**按条件挑**：队列里前 3 条**已经有真判定行**的（📝 才不会变成建号行）。
+_JUDGED = {"✅", "◎✅", "❌", "📖", "△", "◎−", "📋"}
+_hist_ok = {e.num for e in drill.load_all()
+            if any(h.symbol in _JUDGED for h in e.history)}
+HEAD3 = [n for n in BASE_ORDER if n in _hist_ok][:3]
+assert len(HEAD3) == 3, "⛔ 队列里挑不出 3 条已有判定行的条目"
 with sandbox(p_text=inject_trace(P, set(HEAD3), DAY),
              g_text=inject_trace(G, set(HEAD3), DAY)) as d:
     rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
-    ck("留痕符号 📝 ⛔ 不进「有效上次」⇒ 这 3 条仍然在组 1 里",
-       set(HEAD3) <= set(card_order(out)[:10]), card_order(out)[:10])
+    # ⚠️ **2026-09-06 改**：原来断言「这 3 条仍然在**组 1** 里」—— 那假定 HEAD3 就是队首 3 条。
+    #    现在 HEAD3 是"前 3 条**已有判定行**的"，它们本来就排在一批 ∞ 逾期分（从未测过）的后面。
+    #    本条真正要守的是：**📝 ⛔ 不进「有效上次」⇒ 注入前后整个队列的顺序一模一样**。
+    #    这比原来的"还在前 10 里"更强，也不再依赖队首长什么样。
+    ck("留痕符号 📝 ⛔ 不进「有效上次」⇒ 注入前后队列顺序完全不变",
+       card_order(out) == BASE_ORDER,
+       [(a, b) for a, b in zip(card_order(out), BASE_ORDER) if a != b][:5])
 
 print("\n【A2】学习日与复习日 ＝ 同一条队列、同一套排序，只差配额")
 with sandbox() as d:
