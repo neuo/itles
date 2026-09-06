@@ -89,7 +89,13 @@ def read(d, n):
 
 P = io.open(os.path.join(WT, "problems.md"), encoding="utf-8").read()
 G = io.open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
-DAY = "2026-09-05"
+# ⚠️ **2026-09-06 改**：原来这里写死 `DAY = "2026-09-05"`。
+#    队列的每个数都是**相对 DAY 算**的（逾期分 ＝ 距有效上次的练习日数 ÷ 应等间隔），
+#    而档案每天都在长 —— 只要活档案里出现了比 DAY 更晚的判定行，
+#    那些条目的「有效上次」就落在 DAY **之后**，队列行为无法预期 ⇒ 测试台假红
+#    （09-06 那天就是这么红的：#0441 #0450 的有效上次 ＝ 09-06 ＞ DAY）。
+#    ⇒ 改成**取 log.md 里最后一个练习日**，跟着档案走（§0.6 夹具规矩：⛔ 不许写死）。
+DAY = sorted(drill.day_types().keys())[-1]
 
 
 def set_grid(text, num, grid):
@@ -304,7 +310,13 @@ with sandbox(p_text=BOTH_OLD) as d:
     ck("前提：两条建号日都不是今天 ⇒ 学习日计划里两条都在（走 untested 通道）",
        TGT in card_order(base_l) and CTL in card_order(base_l),
        (TGT in card_order(base_l), CTL in card_order(base_l)))
-    ck("前提：这一版⛔没有「建号当天」那一段", "建号当天不回考" not in base_l)
+    # ⚠️ **2026-09-06 改**：原来断言「整段不出现」—— 那假定了**活档案里今天没有任何新建条目**。
+    #    DAY 现在跟着最后一个练习日走，而练习日当天本来就会新建一批号（09-06 建了 19 条）
+    #    ⇒ 这一段合法地出现了 ⇒ 假红。断言改成本条真正要守的东西：
+    #    **基线里 TGT 与 CTL 都没有被当成「建号当天」挡下**。
+    _seg = base_l.split("建号当天不回考")[1][:800] if "建号当天不回考" in base_l else ""
+    ck("前提：基线里 TGT／CTL 都没被「建号当天」挡下",
+       TGT not in _seg and CTL not in _seg, _seg[:200])
 
 with sandbox(p_text=TGT_TODAY) as d:
     rc, out_l, _ = run(drill.cmd_pick, Args(type="learn", date=DAY, dry=True))

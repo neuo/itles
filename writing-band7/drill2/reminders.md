@@ -29,6 +29,10 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 **实例账**
 ```
 2026-08-22 组1 第 2 题　`the population … has double`　→ `has doubled`
+2026-09-06 组3 第 2 题　`disadvantaged groups **secure** fewer positions`　→ `secured`
+   ★ 同句后半的 `remained` 已经把时间平面钉在过去 ⇒ 前半那个 -ed 掉了
+   ★ 同日另外 35 处过去式／完成体全对（dropped · permitted · limited · failed · notified ·
+     rebounded · dipped · has remained · has issued · has risen …）⇒ 命中率 **1/36**
 ```
 **为什么不建条目**：她 08-19、08-20 两次写 `has doubled` 都对 ⇒ 规则在。
 
@@ -47,6 +51,12 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 2026-08-20 作文 S2　`the reward it yields **are** far greater`　→ `is`
 2026-08-20 作文 S17　`drive these **cost** down`　→ `costs`
    ★ 同篇四个长／复杂主语全对 ⇒ **长句她会盯，短句不设防**
+2026-09-06 组3 第 1 题　`established a … system **last years**`　→ `last year`
+   ★★ **方向与以往相反：这是"多出来的 -s"，不是掉 -s** —— 本账第一次记到这个方向
+   ★ 同日五处最难的长主语全部守住：`the cost of replacing all this legacy equipment **is**` ·
+     `the market share of this company **has** remained` · `the explanation … **has** remained` ·
+     `Demanding results … **serves** no purpose` · `the skill levels … **vary**`
+   ⇒ 长主语那一格今天零失守；掉的是一个**时间短语**上的 -s ⇒ 与 08-20 的"短句不设防"同源
 ```
 **🔴 2026-08-24 她的裁定：#0048 走乙路（移出复习池，只留 R2）**
 ```
@@ -258,6 +268,10 @@ R5                            管【复数／不可数泛指】：the younger pe
 **实例账**
 ```
 2026-08-31 组1 第 2 题　`driving **the** younger people out of the city center` → `younger people`
+2026-09-06 组2 第 8 题　`**The** electricity usage has been rising` → `Electricity usage`
+   ★ electricity usage 是不可数名词的泛指 ⇒ 零冠词。同日另外 30+ 处冠词全对
+     （a priority · the criteria · a staffing shortage · the interests of … · guidance on …）
+   ★ 与 08-31 同形：失控的都是**句首那个泛指名词**，句中的限定用法一处没错
    ★ 同日同一份答案里 7 处冠词全对 ⇒ 命中率 **1/8**，与 R2 的 1/23、R4 的 1/13 同形
    ★ 失控的这一句同时扛着 #0348 的两个分词修饰位（Existing ／ growing）—— 与 R2 08-25、
      R4 08-30 的观察第三次同源：**一句里考点越多，构形格越容易掉**

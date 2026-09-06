@@ -90,10 +90,16 @@ def set_trigger_line(text, num, add):
 # ★ 夹具不许写死编号 —— 档案会动（2026-09-01 那次 migrate 把 #0005 搬进了 graduated.md，
 #   写死的夹具当场全崩）。改成**按条件从活档案里挑**，条件写在下面这一行里。
 def _pick_fixture():
-    """挑一条：住 problems.md · 在池 · 状态行没写题型格 · 有历史行且建号早于 ASK_FROM ·
-    非词表型 · 非挂作文验 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。"""
+    """挑一条：住 problems.md · 在池 · 有历史行且建号早于 ASK_FROM ·
+    非词表型 · 非挂作文验 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。
+    ⚠️ **2026-09-06 放宽：去掉了原来的「状态行没写题型格」这一条**。
+    　 原因：那一条把夹具钉在"存量缺格条目"上，而 09-02 起新建的都自带题型格、
+    　 老的缺格条目又在陆续毕业搬走 —— 09-06 那天 migrate 搬走 16 条之后，
+    　 符合条件的**只剩 0 条**，测试台当场变红（档案没有任何问题）。
+    　 用到「缺格」状态的那两条断言改成**自己造**：`set_grid(P, _A, None)` 先把格去掉
+    　 （§0.6 夹具规矩：从活档案按条件挑，或自己造出要测的状态）。"""
     for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md"):
-        if (e.state == "在池" and e.ask is None and e.history and not e.members
+        if (e.state == "在池" and e.history and not e.members
                 and not e.essay_prose and e.fam not in drill.NO_PHRASE_FAMS
                 and e.created_on() and e.created_on() < drill.ASK_FROM):
             return e.num
@@ -157,14 +163,14 @@ def make_late(text, num):
             return "\n".join(lines)
     raise SystemExit("没找到历史行 " + num)
 _LATE_NUM = _A
-_late = make_late(P, _LATE_NUM)
+_late = make_late(set_grid(P, _LATE_NUM, None), _LATE_NUM)   # ★ 先去掉题型格（2026-09-06 放宽夹具后要自己造）
 with sandbox(p_text=_late) as d:
     e, pr = probs(_LATE_NUM)
     ck("构造出一条 ASK_FROM 之后新建的条目",
        e.created_on() >= drill.ASK_FROM and e.ask is None, e.created_on())
     ck("ASK_FROM 之后新建、缺题型格 ⇒ ERROR",
        any("缺「题型」格" in m for m in lv(pr, "ERROR")), lv(pr, "ERROR"))
-with sandbox(p_text=set_grid(make_late(P, _LATE_NUM), _LATE_NUM, "整句")) as d:
+with sandbox(p_text=set_grid(make_late(set_grid(P, _LATE_NUM, None), _LATE_NUM), _LATE_NUM, "整句")) as d:
     _, pr = probs(_LATE_NUM)
     ck("ASK_FROM 之后新建、写了题型格 ⇒ 不报错",
        not any("缺「题型」格" in m for m in lv(pr, "ERROR")), lv(pr, "ERROR"))
@@ -282,16 +288,28 @@ with sandbox() as d:
            and e.state in ("在池", "🎓")) == 0)
 
 print("\n【F】pick 卡片认得词组")
-_num = _byfam[allowed_p[0]]          # pick 只出【在池】⇒ 必须挑住 problems.md 的
-with sandbox(**_fixture(_num)) as d:
-    rc, out = run(drill.cmd_pick, Args(type="review", full=False))
-    ck("pick 头部报了词组条数", "条词组型" in out, out[:0])
-    if _num in out:
-        seg = out.split(_num, 1)[1][:400]
-        ck(f"{_num} 的卡片打出「题型 **词组**」", "题型 **词组**" in seg, seg[:200])
-        ck("词组条目的提示档写死零提示", "词组题给词 ＝ 给答案" in seg, seg[:200])
-    else:
-        ck(f"{_num} 出现在本次计划里", False, "没被抽到，换一条再测")
+# ⚠️ **2026-09-06 放宽**：原来只拿 `_byfam[allowed_p[0]]` 一条去试，
+#    可它有没有被今天的 pick 抽到，取决于逾期分排序与**当天已 used 的条目**
+#    （§3.6 剔除口径）—— 09-06 那天 #0445 上午已经出过，下午跑测试台就必然抽不到 ⇒ 假红。
+#    改成：**在允许的族里逐条试，第一条被抽到的就用它测**；一条都抽不到才算失败。
+_cands = [_byfam[f] for f in allowed_p if f in _byfam]
+_hit = None
+for _num in _cands:
+    with sandbox(**_fixture(_num)) as d:
+        rc, out = run(drill.cmd_pick, Args(type="review", full=False))
+        # ★ 必须是**卡片头**（两个空格 ＋ 编号 ＋ 两个空格），⛔ 不能是别的条目正文里
+        #   顺带提到的交叉引用 —— 否则 out.split(_num) 会切到别人的卡片上
+        if ("\n  " + _num + "  ") in out:
+            _hit = (_num, out); break
+ck("pick 头部报了词组条数", _hit is not None and "条词组型" in _hit[1],
+   "" if _hit else f"候选 {_cands} 一条都没被抽到")
+if _hit:
+    _num, out = _hit
+    seg = out.split(_num, 1)[1][:400]
+    ck(f"{_num} 的卡片打出「题型 **词组**」", "题型 **词组**" in seg, seg[:200])
+    ck("词组条目的提示档写死零提示", "词组题给词 ＝ 给答案" in seg, seg[:200])
+else:
+    ck("允许族里至少有一条进了本次计划", False, f"候选 {_cands} 一条都没被抽到")
 
 print("\n【G】append 不会被第 7 格弄坏")
 with sandbox(p_text=set_grid(P, _A, "词组")) as d:
