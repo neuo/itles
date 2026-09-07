@@ -109,6 +109,9 @@
   ★ 与 08-31 上午 a 段第 2 组 `he **gets** up at 7 and never **runs** late` ✅ 合起来看，
     形态类的形状是"**低压对、高压掉**"，不是"有时会有时不会"⇒ §3.4 判据继续成立。
   ★ 按 §3.4②：⚪，不记 ✅／❌、不判档位、不动状态行、不进复习池、不计入真错数。
+- 2026-09-07 ⚪ 留痕 · 09-05 复核时才看见 · `These letters on the cake **is** written in sweets and biscuits.`
+  → The letters ... **are** written。形态类（§3.4②）只记 ⚪。执行自查：她 09-07 同一条题写出
+  `The words ... **are** spelled out` ⇒ 会，缺的是产出时的检查。
 - **检查触发**：每写完一个谓语，回头看主语是不是第三人称单数（08-19 她定，同比较级）
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
@@ -128,6 +131,25 @@
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 2026-08-19 上午 `every one nedd to sign in`——单词拼残，判不出她想写 need 还是 needs
   ⇒ 当时不记档位（假错代价大于漏错）；欠的那一次**在当天新题里补上了**（见上一行）
+
+### 11 · no questions asked ＋ for any reason（单数）
+类型 词组 ｜ 题面 **点名**："无理由退货"（"无理由"用一个固定块说，不要 without a reason；**两个说法都要**——一个带 questions，一个带 reason） ｜ 旧号 B32＋B100
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-20 她指定毕业 → 09-05 复检两个成员只到一个：no questions asked 有、for any reason 没调出来，撤销毕业、连对清零。★ 2026-09-07 补：这一判定 09-05 当天写进了 session 却漏了 `append`，回潮同步迟到两天） ｜ **合并条·出题多句覆盖**
+- 2026-08-09 ✅（原 #188）
+- 2026-08-13 ✅（原 #188）
+- 2026-08-15 ✅（原 #188）→ 当时判毕业
+- 2026-08-17 ✅（原 #11）
+- 2026-08-19 ❌ `no questions ask`——漏了 -ed ⇒ 回潮，重新入池
+- 2026-08-20 ✅ 复习 · `you can get a refund with 7 days, no questions asked`——目标块一字不差
+  ｜`with` 该是 `within`，判为打漏 in、按 §2.1 不算错、不建号 ⇒ 她当场指定毕业
+- 2026-09-05 ❌ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· 两个成员只到一个：no questions asked ✅，
+  for any reason 没调出来
+  原句 `no questions asked`
+  最小改 `no questions asked ／ for any reason`
+- 2026-09-07 ✅ 复习 · 在池第 4 组 · `no questions asked. / for any reason`
+  —— 合并条两个成员都到位（09-05 只到一个），reason 是单数
+- 备注 整块背：questions 是被问的一方 ⇒ 过去分词 asked（＝ with no questions being asked），不拆开想时态
+- 备注 合并 2026-08-19：#188（for any reason ＋ no questions asked）并入本条，**同题面同块**
 
 ### 12 · 时态判断触发（看中文时间标记词；过去的习惯用 used to/would）
 类型 语法 ｜ 题面 "我以前常去健身房。" ｜ 旧号 B34
@@ -180,8 +202,8 @@
   （08-19 一天三次都是这个形状：sales go up ／ audience laugh ／ I want…there is）
 
 ### 23 · 固定词序整块背（back and forth · now and then · sooner or later · more or less）
-类型 词组 ｜ 题面 "来回"（副词块 · 三个词、中间用 and 连 · ⛔ 词序不许倒） ｜ 旧号 B45
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-19 毕业 → 09-05 复检答"忘了"、在 forward／forth 之间不确定，撤销毕业、连对清零）
+类型 词组 ｜ 题面 "来回"（副词块 · 三个词、中间用 and 连 · **b 开头** · ⛔ 词序不许倒） ｜ 旧号 B45
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-19 毕业 → 09-05 复检答"忘了"、在 forward／forth 之间不确定，撤销毕业、连对清零）
 - 2026-08-11 ❌
 - 2026-08-12 ✅
 - 2026-08-16 ✅
@@ -194,6 +216,25 @@
     forth 今天几乎只活在 back and forth ／ and so forth 里 ⇒ **只按块记、不当单词记**。
   ★ 同族一起记：back and forth · now and then · sooner or later · more or less ·
     give or take · sick and tired · safe and sound
+- 2026-09-07 📝 题面加提示「**b 开头**」：原题面的「三个词 · 中间用 and 连 · 词序不许倒」被 to and fro
+  逐条满足 ⇒ 第二译法没被排除（§6.5 第 7 项硬阻断）。补首字母只锁词，不泄露 forth／forward
+  这个真考点。
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `go back and forth`（词序没倒，09-05 回潮时正是 forward／forth 之间不确定）
+
+### 46 · 主语复数，表语也要复数（hobbies are things you choose）
+类型 语法 ｜ 题面 **点名**："业余爱好是自己挑的事，工作不是。"（表语用名词说，不用 what 从句） ｜ 旧号 B68
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-20 毕业 → 09-05 复检用了 what 从句，题面点名的"表语用名词"没测到，撤销毕业、连对清零。★ 2026-09-07 补：这一判定 09-05 当天写进了 session 却漏了 `append`，回潮同步迟到两天）
+- 2026-08-11 ❌
+- 2026-08-12 ✅
+- 2026-08-16 ◎ 加"事"想逼出名词位，无效
+- 2026-08-17 ◎ 她照样合法绕开（hobbies are what you choose）→ 改点名
+- 2026-08-19 ✅ 点名 · `hobbies are things you choose, but the job isn't`（复数表语＋名词位，一次到位）
+- 2026-09-05 ❌ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· 题面点名"表语用名词说，不用 what 从句"，
+  她用了 what 从句 ⇒ 考位没测到
+  原句 `hobbies are what you choose youself, but jobs are not.`
+  最小改 `Hobbies are things you choose yourself, but jobs are not.`
+- 2026-09-07 ✅ 复检 · 第 3 组 · `Hobbies are things you choose youself, but jobs aren't`
+  —— 主语复数 ⇒ 表语也复数（things），⛔ 没再用 what 从句（09-05 掉的正是这一格）；youself 拼写不算错
 
 ### 56 · visual effects 恒复数；可数名词单数必须带限定词
 类型 语法 ｜ 题面 "主要是看视觉效果。" ｜ 旧号 B79
@@ -277,6 +318,9 @@
     `on **the same** wavelength` —— 一模一样的块 ⇒ 一律 ⚪。
   ★ 落本条的理由：`the same` ＝ 特指，必须带 the，正对本条"泛指不带 the，特指才带 the"；
     全档 grep "the same" ⇒ 无专条 ⇒ ⛔ 不新建（形态类新开号 ＝ 开一个永不出题的号）。
+- 2026-09-07 ⚪ 留痕 · 复检第 5 组 [6]（#215 句 2）· `After kids played toys` → After **the** kids
+  —— 那一次的孩子是特指 ⇒ 带 the。形态类（§3.4②）只记 ⚪。
+  执行自查：同一组里她写出 `a job`／`a red light`／`the toys`／`two kinds` 全部正确 ⇒ 会，缺的是产出时的检查。
 - 备注 检查触发：写完名词回头问一句"我说的是**这一个**，还是**这一类**？"
   这一类 → 不带 the（可数就用复数）｜ 这一个 → the／my／their
 - 备注 合并 2026-08-19：#160（泛指一类东西用复数不带冠词）＋ #112（traffic 带不带 the）并入本条 ——
@@ -284,8 +328,8 @@
 - 备注 国家形容词 Chinese/Japanese（不是 China's）（原 #160）
 
 ### 88 · get on with it（不废话，埋头干下去）
-类型 词组 ｜ 题面 **点名**："赶紧干吧"（用 **get** 起头的那个词组说，⛔ 不是 go） ｜ 旧号 B141
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ 回潮已断（08-11 曾毕业）｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `go on with it`，get 被 go 顶掉，撤销毕业、连对清零）
+类型 词组 ｜ 题面 **点名**："赶紧干吧"（用 **get** 起头的那个词组说，⛔ 不是 go · **一共四个词**） ｜ 旧号 B141
+状态 连对0 连错2 上次2026-09-07 未毕业 ｜ 回潮已断（08-11 曾毕业）｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `go on with it`，get 被 go 顶掉，撤销毕业、连对清零）
 - 2026-08-09 ❌
 - 2026-08-10 ✅
 - 2026-08-11 ✅ → 毕业
@@ -309,6 +353,10 @@
   新："赶紧干吧"（用 **get** 起头的那个词组说，⛔ 不是 go）
   ★ 这与 09-05 粒度整改时 agent 标出的 #262／#266 是同一个病（点名把目标块整个给出）；
     #262 #266 是"工具箱"型（考摆放不考检索）⇒ 维持不改，本条是检索型 ⇒ 必须改。
+- 2026-09-07 📝 题面加提示「**一共四个词**」：原题面只限「用 get 起头」，get moving／get cracking／
+  get going 同样合法且同样符合题面 ⇒ 补词数把 get on with it 框死，一个实词都没泄露。
+- 2026-09-07 ❌ 复习 · 在池第 1 组 · `get on with.` —— get 对了、块尾的 it 丢了
+  （09-05 是 get 被 go 顶掉，这次掉的位置不一样）
 
 ### 89 · 加形容词说"哪一种"时回到 a（a diverse economy）
 类型 语法 ｜ 题面 "创业公司对多样化的经济很关键。" ｜ 旧号 B144
@@ -342,8 +390,71 @@
   考点命中：sit → **sat**。★ 本条建号以来第一次被测（此前 上次 ＝ —）。
   ★ `all evening yesterday` 差点误判语序，当场自我推翻：all ＋ 时段 ＋ yesterday 是标准搭配。
   ⇒ 状态行一个字不动
+- 2026-09-07 ⚪ 留痕 · 在池第 1 组 [10] · `he shown me` → `he showed me`
+  —— shown 只活在助动词后面；同一组里 `he was two`／`I haven't seen` 都做对了 ⇒ §3.4 判形态类
 
 - **检查触发**：过去的事，动词是不是变形了（sit→sat／sing→sang／buy→bought）
+
+### 101 · get by（应付得来）
+类型 词组 ｜ 题面 "日常应付得来"（用 get 打头的那个词组说） ｜ 旧号 B171g
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-19 毕业 → 09-05 复检答"忘了"，撤销毕业、连对清零。★ 2026-09-07 补：这一判定 09-05 当天写进了 session 却漏了 `append`，回潮同步迟到两天）
+- 2026-08-11 📖
+- 2026-08-12 📖
+- 2026-08-13 📖
+- 2026-08-15 ✅
+- 2026-08-17 ✅
+- 2026-08-19 ✅ `my English isn't great, but i get by`（📖📖📖 起家，三次连对出池）
+- 2026-09-05 ❌ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· 忘了（§3.3「忘了/不会」也是 ❌）
+  最小改 `My English isn't great, but I get by.`
+- 2026-09-07 ✅ 复检 · 第 3 组（打包）· `get by`（09-05 答"忘了"，这次调出来了）
+
+### 104 · bury yourself in sth（比喻义只配 in，不配 into）
+类型 搭配 ｜ 题面 **点名**："一头扎进语法书里"（"扎进"用 bury 说） ｜ 旧号 B181 ｜ ⭐ 她自产
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-20 毕业 → 09-05 复检写成 bury **into**，正是本条守的那个错，撤销毕业、连对清零。★ 2026-09-07 补：这一判定 09-05 当天写进了 session 却漏了 `append`，回潮同步迟到两天）
+- 2026-08-10 ✅
+- 2026-08-13 ❌
+- 2026-08-15 ❌ → 当天档位更正：INTO 从 ❌真错 降为 ⚠️非标准搭配
+- 2026-08-16 ✅
+- 2026-08-19 ✅ 点名 · `don't bury youself in grammar books and word lists`
+- 2026-09-05 ❌ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· bury into —— 正是本条守的那个错
+  原句 `bury into`
+  最小改 `Don't bury yourself in grammar books.`
+- 2026-09-07 ✅ 复检 · 第 3 组（打包）· `bury in` —— 考点＝比喻义只配 in、不配 into，她给的正是 in
+  （09-05 写成 bury into）。完整形 bury yourself in sth，她给的是裸块，考点位置一字不差 ⇒ ✅
+- 备注 教练连续两天判 ❌ 却没给理由 ⇒ 她只能背不能学；in 标状态、into 标轨迹
+
+### 118 · 只有…才（ONLY ＋ 动词／It's only … that/when）
+类型 结构 ｜ 题面 "只有到现场才有那种感觉。" ｜ 旧号 B203
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-20 她指定毕业 → 09-05 复检 only 那一层整个没出来，★ 与 08-19 掉的那次逐字相同，撤销毕业、连对清零。★ 2026-09-07 补：这一判定 09-05 当天写进了 session 却漏了 `append`，回潮同步迟到两天）
+- 2026-08-12 ❌
+- 2026-08-13 ✅
+- 2026-08-16 ✅
+- 2026-08-19 ❌ `You can feel that energy when you are there`——**only 那一层整个没出来**
+- 2026-08-20 ✅ 复习 · `you can only feel that energy if you are there`——only ＋ 动词那一层出来了
+  （if → when 只是 ⚠️ 更好，不影响考点）⇒ 她当场指定毕业
+- 2026-09-05 ❌ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· **only 那一层整个没出来**
+  —— ★ 与 2026-08-19 掉的那次**逐字相同**
+  原句 `You can feel that energy when you are there.`
+  最小改 `You can only feel that energy when you are there.`
+- 2026-09-07 ✅ 复习 · 在池第 4 组 · `you can only feel that energy when you are there.`
+  —— only ＋ 动词那一层显式说出来了，与 08-20 判 ✅ 的那次同形；⛔ 没落回 08-19／09-05 的"整层丢失"
+- 备注 2026-08-19 她问"这条怎么还没毕业，考了十次了吧" ⇒ 查记录只有 **3 次**（08-12 ❌ 08-13 ✅ 08-16 ✅），
+  真正的原因是**题面与 #38 撞车**（两条题面几乎同一句、考点却不同）：她每次答中一条，另一条就记不上
+  ⇒ 08-19 已把 #38 的题面换掉，两条从此互斥
+- 备注 两个落点：① only ＋ 动词　② It's only … that/when …
+
+### 136 · tell ＋ 有内容的东西（a joke／a story／the truth）
+类型 搭配 ｜ 题面 "他终于说了实话。"（⛔ 不许用 confess／admit） ｜ 旧号 B223
+状态 连对0 连错1 上次2026-09-07 未毕业 ｜ **回潮 2026-09-07**（08-20 毕业 → 09-07 复检答 `to be honest`，题面已是完整句、主语与"终于"都在，插入语挂不上去 ⇒ 真掉，撤销毕业、连对清零。★ 09-05 那次答的也是 to be honest，但当时题面被粒度整改截断成裸块「说了实话」与 🎓#232 撞车 ⇒ 判 ◎ 作废，⛔ 不计连击）
+- 2026-08-13 ✅
+- 2026-08-16 ❌
+- 2026-08-17 ✅
+- 2026-08-19 📝 题面整改：原题面"他跟我说了实话。"带了人，与当天新建的 #171（tell sb／say 不接人）撞车
+  ⇒ 去掉"跟我"，本条只测"tell ＋ 有内容的东西"
+- 2026-08-19 ✅ `he finally told the truth.`
+- 2026-09-07 ❌ 复检 · 第 3 组 · `to be honest` —— 题面已还原成完整句「他终于说了实话。」，主语与"终于"都在，
+  插入语 to be honest 挂不上去 ⇒ 这次是真掉（09-05 那次是题面被截断成裸块、判 ◎）
+  最小改 `He finally told the truth.`
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
 类型 语法 ｜ 题面 "他昨天没看见我，也没跟我说他要走。" ｜ 旧号 B236
@@ -392,43 +503,9 @@
     #56 管的是"单数可数名词裸奔、一个限定词都没有" ⇒ 不适用。
 - **检查触发**：写完 a／an／this／these（**加 many／a lot of／these 这一类**），立刻看后面那个名词的尾巴
 
-### 161 · (the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分
-类型 语法 ｜ 题面 "我们仨" ／ "我们当中有两个" ／ **"我们一家三口"（也用 the ＋ 数字 ＋ of 说）** ｜ 旧号 B250
-状态 连对1 连错0 上次2026-09-05 未毕业 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）
-- 2026-08-17 ✅
-- 2026-08-19 ✅ `The three of us went together. two of us didn't come.`（带 the ＝ 全体／不带 ＝ 一部分）
-- 2026-09-04 ❌ **回潮** · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）
-  `he pointed at three circles on it, saying they are **the three of my family**.` → the three of **us**
-  ❌ 她要说的是"我们一家三口"，从中文"我家的三个人"直译成了 the three of my family。
-  ★ 判重／回潮的**决定性证据**（§3.1，逐条人读，⛔ 未用脚本判）：
-    目标英文形式 ＝ `the three of us`；按本条的目标形式去改她这句 ——
-    `the three of my family` → `the three of **us**` ⇒ **得到正确答案** ⇒ 同一条 ⇒ 判回潮。
-  ★ 掉的是哪一格：**不是 the**（the 她加对了，本条"加 the ＝ 全体"那一半是对的），
-    掉的是 **of us 那一半在"一家三口"这个框里没调出来** ——
-    08-17／08-19 两次测的都是"我们仨一起去的"（人已经在句子里），
-    今天是"这就是我们一家三口"（要自己把 us 想出来）⇒ 新的一格，第一次测到。
-  ★ 配套动作（§4① 加速通道边界那条：回潮后的复测必须能测到掉的那一格）：
-    **当场补一句题面** ——"他说这就是我们一家三口。"（也用 the ＋ 数字 ＋ of 说）
-  ⇒ 撤销毕业、连对清零，状态行改回未毕业（手工改，见状态行）。
-- 2026-09-05 ✅ 在池组 · 第 1 组（付息日 a 段）
-  `The three of us went together. two of us didn't come. hi said they are the three of us.`
-  三句全部命中 (the) N of us：带 the ＝ 全体 ／ 不带 ＝ 一部分。
-  ★ 关键：第三句正是 09-04 回潮时掉的那一格（"一家三口"要自己把 us 想出来）——
-    题面补句奏效，她这次自己调出了 `the three of us`，⛔ 没有再直译成 the three of my family。
-  ｜ `hi` → he 是同一个词写歪 ＝ 拼写（§2.1），不算错、不建条目
-  ｜ ⚠️ `they are` → that was（讲画里的东西用 that ／ 说话动词 said 之后时态同一平面），
-    diff-2 已给，不记 ❌
-- 2026-09-05 📝 题面整改 · 付息日 c 段（题面里不许夹沿革说明）
-  第三个成员的括号原本写着"（也用 the ＋ 数字 ＋ of 说，2026-09-04 回潮后补，专测"要自己把 us 想出来"那一格）"
-  —— 沿革说明混进了题面字段，而且里面嵌了一对引号，
-  `lab.py prompts --verify` 会把它当成**必须逐字出现在发题稿里**的引号句 ⇒ 发题稿被迫带上元信息。
-  ⇒ 括号只留点名"（也用 the ＋ 数字 ＋ of 说）"，沿革保留在 09-04 那条日志行里（本来就有）。
-  ★ 同一个坑今天在 #234 上先踩过一次（当场改掉了）⇒ 口径定死：**题面字段只放题面和点名，不放沿革。**
-- 备注 person 的复数口语一律 people
-
 ### 176 · efficient（省时间人力）vs effective（达到效果）
 类型 词汇 ｜ 题面 "管用"（形容词，⛔ 不许用 useful／helpful） ｜ 旧号 B46
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零）
 - 2026-08-11 ❌ `the most efficient ways to keep up` → 该 effective/best
 - 2026-08-12 ✅
 - 2026-08-15 ✅
@@ -444,10 +521,11 @@
   ★ 掉的是哪一格：**不是分不清这一对，是压力下用 works well 绕开了形容词槽位**
     ⇒ 回潮后的复测必须继续钉死"写出那个形容词"，否则测不到。
   ｜ ⚠️ 顺带：drug → medicine（日常吃的药用 medicine；drug 口语默认偏毒品），diff-2 已给，不记 ❌
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `effective`
 
 ### 193 · lose interest IN sth（介词是 in）
-类型 搭配 ｜ 题面 "对学业失去兴趣" ｜ 旧号 B107a
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零）
+类型 搭配 ｜ 题面 "对学业失去兴趣"（用 **interest** 说） ｜ 旧号 B107a
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零）
 - 2026-08-11 ❌
 - 2026-08-12 ✅
 - 2026-08-16 ✅
@@ -464,10 +542,13 @@
     分不清是打字打歪（homework → housework，属拼写 §2.1 不算）还是真调错了词，
     已在反馈里交回给她判（§7 四问①：假错的代价 > 漏错）。她说要记再建。
   ｜ thier → their（拼写，不算错）
+- 2026-09-07 📝 题面加提示「用 **interest** 说」：原题面「对学业失去兴趣」可合法译成 get bored with
+  ⇒ 补名词点名，介词（＝本条真考点 IN）仍然留空。
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `lose interest in` —— 介词 IN 对了（09-05 写成 to）
 
 ### 233 · either way ＋ you might as well
 类型 词组 ｜ 题面 **点名**："横竖都一样"（用 **either way** 说） ／ "那还不如笑笑"（用 **might as well** 说） ｜ 旧号 B178
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检把 might as well 拆成 might … as well，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检把 might as well 拆成 might … as well，撤销毕业、连对清零）
 - 2026-08-09 📖 给了才会
 - 2026-08-10 ✅
 - 2026-08-13 ✅
@@ -483,10 +564,12 @@
   ★ 掉的是哪一格：不是"想不起这个块"，是**块的内部词序**（as well 必须在动词前）。
     ⇒ 回潮后的复测要能测到这一格：题面已点名两个块，考位就在摆放位置上。
   ★ 检查触发：写完 might，问一句 —— as well 在动词前面还是后面？必须在前面。
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `It's one day either way, you might as well smile.`
+  —— either way 挂句尾 ＋ might as well ＋ 原形（09-05 写成 might smile as well）
 
 ### 234 · older people／the elderly
 类型 词汇 ｜ 题面 "长辈们／上了年纪的人"（两个说法都要：一个是 "…… people"，一个是 "the ……"） ｜ 旧号 B179
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检答"忘了"，撤销毕业、连对清零；★ 09-03 自由产出里刚有过自发命中留痕 ⇒ 认得出 ≠ 产得出）
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检答"忘了"，撤销毕业、连对清零；★ 09-03 自由产出里刚有过自发命中留痕 ⇒ 认得出 ≠ 产得出）
 - 2026-08-09 📖 给了才会
 - 2026-08-10 ✅
 - 2026-08-13 ✅
@@ -508,10 +591,46 @@
   elders／seniors／the old 都能算"合法但非预期"，判卷时全靠教练裁。
   ⇒ 补最小点名："（两个说法都要：一个是 "…… people"，一个是 "the ……"）"
     —— 只给**结构骨架**，⛔ 没给 older／elderly 任何一个词（§6② 红线：不许把考点本身给出来）。
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `older people, the erlerly`（拼写 elderly，§2.1 不算错）
+
+### 238 · move on ≠ move forward
+类型 词汇 ｜ **合并条·出题多句覆盖**（§3.2c，2026-09-07 定：只出一句测不到这一对的分工）｜ 旧号 B184
+题面（2 句，两个成员各一句 —— 本条考的就是这两个块的分工，只出一个等于没测）
+　① "都过去了，别老想着了。"（用 **move** 说）
+　② "不管出什么事，公司还是得往前推进。"（用 **move** 说）
+　　★ 2026-09-07 题面整改（§6「题面必须唯一可判」）：原题面只有一句
+　　　"一直往前走"（用 move 说）—— move on 和 move forward **两个都套得上**，
+　　　而本条的考点恰恰是这两个的分工 ⇒ 原题面结构上测不到自己的考点。
+状态 连对0 连错1 上次2026-09-07 未毕业 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-07**（08-15 毕业 → 09-07 复检两个成员只到一个：只给了 move forward，move on 没出来，撤销毕业、连对清零。★ 08-10／08-13／08-15 那三次 ✅ 是在旧题面下拿到的，而旧题面 move on／move forward 两个都套得上 ⇒ 那三次证明不了她分得清；今天是新题面第一次上场）
+- 2026-08-10 ✅
+- 2026-08-13 ✅
+- 2026-08-15 ✅
+- 2026-09-07 📝 题面整改 ＋ 转合并条（§3.2c / §6「题面必须唯一可判」）：原题面「"一直往前走"（用 move 说）」
+  ——move on 和 move forward **两个都套得上**，而本条考点恰恰是这两个的分工
+  ⇒ 原题面在结构上测不到自己的考点，三次 ✅ 都无法证明她分得清。
+  改成两句、两个成员各一句：① "都过去了，别老想着了。" ② "不管出什么事，公司还是得往前推进。"
+  状态行加 `合并条·出题多句覆盖`，⛔ 连击数字与毕业日一个字不动。
+- 2026-09-07 ❌ 复检 · 第 5 组（加练）· 合并条两个成员只到一个：只给了 `move forward`，
+  第 ① 句"都过去了，别老想着了"要的 **move on** 没出来 ⇒ 🎓 回潮
+  最小改 `① Just move on. ② The company still has to move forward.`
+  ★ 今天发题前刚把本条题面从"一直往前走（用 move 说）"改成两成员对照 —— 旧题面两个都套得上，
+    08-10／08-13／08-15 三次 ✅ 全是白测；新题面第一次上场就抓到了这一格。
+
+### 239 · miss out on sth
+类型 词组 ｜ 题面 "错过友情这类东西"（用 **miss** 说） ｜ 旧号 B185
+状态 连对0 连错1 上次2026-09-07 未毕业 ｜ **回潮 2026-09-07**（08-15 毕业 → 09-07 复检写成 `miss something like friendship`，**out on 整个丢了**，撤销毕业、连对清零）
+- 2026-08-10 ✅
+- 2026-08-13 ✅
+- 2026-08-15 ✅
+- 2026-09-07 📝 题面补点名「用 miss 说」：原题面没点动词，lose out on 同样地道 ⇒ 考位（miss out on 的 out on）
+  可能测不到。点 miss 不泄露 out on。
+- 2026-09-07 ❌ 复检 · 第 5 组（打包）· `miss something like friendship` —— **out on 丢了** ⇒ 🎓 回潮
+  最小改 `miss out on things like friendship`
+  ★ 光 miss ＝ 想念／没赶上；"本来能得到却没得到"必须 miss **out on** sth。
 
 ### 257 · 以身作则 ＝ lead by example／practise what you preach
 类型 词组 ｜ 题面 **点名**："以身作则"（用 lead 说） ｜ 新建 2026-08-19
-状态 连对0 连错1 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `lead by yourself`，by 后面塞了人，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-07 未毕业 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `lead by yourself`，by 后面塞了人，撤销毕业、连对清零）
 - 2026-08-19 ❌ 首犯 · 自由产出（新题 bank:489）· `Stop just talking and behave yourself`
   —— behave yourself ＝ **对小孩说的"你规矩点"**，用在家长身上就变成训他们了
 - 2026-08-20 ✅ 复习（点名"用 lead 说"后首测）· `it's no use just talking. parents should lead by example.`
@@ -523,184 +642,95 @@
   ❌ by example ＝ 用做出来的样子带头；by yourself ＝ 独自、没人帮 —— 意思完全跑偏。
   ★ 整块记：lead by example（example 单数，⛔ 不带 the／your／a）；同义块 practise what you preach。
   ｜ youself 是拼写（§2.1 不算错）
+- 2026-09-07 ✅ 复习 · 在池第 1 组 · `lead by example`
 - 备注 判据：这句话是**说给谁听的**？对小孩 → behave yourself／对大人（要求他做榜样）→ lead by example
 - 备注 来源有意思：这个块是同日第 9 组讲 explain yourself 时顺带列的同族（behave/enjoy/help yourself），
   她当场抓来用了 ⇒ **迁移意识对，但块的使用对象没跟着记** —— 以后给同族清单时要连"对谁用"一起给
 - 备注 判重（当天新建复核）：grep behave／example／preach → 命中 #31（explain yourself to anyone）——
   #31 管"反身代词不能丢"，本条管"选哪个块"，规则不同 ⇒ 保留；两条题面互不撞车
 
-### 276 · for ages ／ in ages ＝ "很久"（for long 只用在"没持续多久"里）
-类型 词汇 ｜ 题面 **点名**："我跟他好久没见了。"（"好久"用 ages 那个词说） ｜ **从 #166 拆出 2026-08-23**
-　　★ 拆号理由：#166 原来装了 see／meet／meet up 的**分工**（选哪个动词）＋ for ages（**"很久"的量**）
-　　　两条不同规则。两块在 08-20 与 08-21 的同一句里都产出过两次 ⇒ **拆完两条都直接 🎓，零池成本**；
-　　　拆的意义在于：将来任一半掉了，只有那一半回潮，不拖累另一半
-状态 连对1 连错0 上次2026-09-05 未毕业 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检里**同日两次产出**：不点名那次写成 `for long` ❌ ⇒ 撤销毕业、连对清零；点名那次写出 `in ages` ✅ ⇒ 连对回到 1。★ `for long` 这个错 08-19 已犯过一次，今天是**第三次**）
-- 2026-08-17 ❌（＝ #166 首次进流那次）
-- 2026-08-19 ❌ **同一个错第二次**：`I haven't seen him **for long**`（该 for ages／in ages）
-- 2026-08-20 ✅ `we haven't seen each other **for ages**.`
-- 2026-08-21 ✅ `We haven't seen each other **in ages**.` → 连对2，毕业
-- 2026-09-05 ❌ 复检组 · 第 4 组（打包 · 第 3 句的顺带产出）· **回潮**
-  `I haven't seen him **for long**.` → I haven't seen him **in ages**.
-  ❌ for long 只用在"没持续多久"里（It didn't last for long.）；说"很久没…"一律 for ages ／ in ages。
-  ★★★ **本日最值钱的一条数据 —— 同一个块、同一分钟、一次错一次对**：
-    这一次（打包第 3 句）题面**没点名** ⇒ 写成 for long ❌；
-    下一次（打包第 5 句，本条自己的题面）**点了名**"用 ages 那个词说" ⇒ 写出 in ages ✅。
-    ⇒ 与本日 #118（only 那一层）**完全同型**：**点名就出得来，不点名就丢**
-      ⇒ 缺口不在"会不会"，在**检索触发**（中文那个词没有直接指向英文块）。
-- 2026-09-05 ✅ 复检组 · 第 4 组（打包 · 第 5 句 · 本条自己的题面，已点名）
-  `We haven't met **in ages**.` —— 块调出来了。
-  ｜ ⚠️ 同句 `met` 按 #166 的分工更准的是 seen each other（口语里 met in ages 也有人说）⇒ 只给更准版，⛔ 不记 ❌
-  ★ §3.3「同一天同一条被产出多次 ⇒ 每次各记一行、各算一次」：本条今天两行，先 ❌ 后 ✅，⛔ 不挑"以谁为准"。
-- 备注 判据：说"很久"这个**量** ⇒ for ages／in ages／for a long time
-```
-✅ I haven't seen him for ages. ／ in ages.    ✅ It's been ages.
-✗ for long —— 它只活在**否定句说"没持续多久"**里：I didn't stay for long.
-★ `hadn't met for long` 意思是反的（＝ 没认识多久），不是"很久没见"
-```
-
-### 318 · one time WHEN ＋ 背景，主句装事件（讲往事的挂接顺序）
-类型 结构 ｜ 题面 **点名**："我记得有一次，他两岁的时候，把一张画拿给我看。"（用 **one time** 起头说） ｜ 新建 2026-09-04
-状态 连对1 连错0 上次2026-09-05 未毕业
-- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）·
-  `I remember **one time my son was two years old, when he presented** me a picture and pointed three circle on it…`
-  → I remember **one time when my son was two years old, he showed** me a picture…
-  ❌ 主从颠倒：她有两样**背景**（有一次 ／ 他两岁）和一件**事**（他给我看画）。
-  原句把"他两岁"当成了 one time 的内容（"有一次我儿子两岁"—— 两岁是一段状态，
-  不是能发生"一次"的事），真正的事件反而被 when 挂成了从句 ⇒ 主句里没有"发生了什么"。
-  ★ 修法只有一个动作：**把 when 往前挪一格**，让它领住背景，事件回到主句。
-  ★ 归因（下次复测要用）：她 09-01 写过 `I remember one time users could neither login…`，
-    **那次结构是对的**（one time 后面直接接事件）⇒ 今天不是老毛病，是
-    **多了一层背景（几岁）之后不知道往哪儿挂**。⇒ 题面必须**带两层背景**才测得到。
-- 2026-09-05 ✅ 在池组 · 第 1 组（付息日 a 段）
-  `I remember one time when he was two years old, he showed me a picture.`
-  挂接顺序正确：when 领住两层背景（有一次 ＋ 他两岁），主句装事件（he showed me a picture）。
-  ★ 09-04 首犯时主句成了"有一次我儿子两岁"（状态当事件），今天 when 挪到了正确的位置。
-  ｜ ⚠️ he → my son（第一次提到先给身份）／two years old → two，diff-2 已给，不记 ❌
-- 备注 判据：
-```
-讲一件往事，句子里有三样东西：
-  背景A 有一次／有一天        背景B 那时候他几岁／在哪儿／在干嘛     事件 发生了什么
-英语的装法固定：**背景全部塞进 when 从句，主句里只装事件**。
-  ✓ I remember one time **when** my son was two years old, **he showed me a picture**.
-  ✓ I remember **when** my son was two, he once **showed me a picture**.
-  ✗ I remember one time my son was two years old, **when** he showed me a picture.
-    （主句变成"有一次我儿子两岁"—— 状态不能"发生一次"；事件被降级成从句 ⇒ 句子挂空）
-★ 检查触发：写完 `one time` / `one day` 之后问一句 ——
-  **我的主句里装的是"发生了什么"吗？** 不是 ⇒ when 挪位。
-```
-- 判重结论（§3.1 判重三步，2026-09-04 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `one time **when** ＋ 背景, ＋ 主句事件`（挂接顺序，不是某个词）
-② 全档 grep（**范围含已毕业**）：
-   `grep "one time"` ⇒ L916（🎓#59 日志里的 `one time (when) we needed to present`，是命中记录不是条目）
-                      · L2305／L5200（sessions 引文）· L5733（🎓#316 日志里她 09-01 的正确句）
-   `grep "when 从句\|时间状语从句\|背景.*主句"` ⇒ **零命中**
-   ⇒ 全档**没有任何条目**管"从句挂接对象"这件事
-③ 最接近的一条逐条排除：
-   · 🎓#59（直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序）——形状最像（都是从句）。
-     **决定性证据**：按 #59 的规则去改她这句 ⇒ 只会去检查"从句里有没有倒装"，
-     她的从句语序本来就是陈述的 ⇒ **改不出 when 的位置** ⇒ 不同考点。
-   · #18（论元完整）／🎓#134（能单独站住的动词）——管的是动词带不带宾语 ⇒ 无关。
-④ 是不是拼写（§2.1）？**不是**，是结构。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式收敛成一条可复述的规则
-   （背景进 when，事件进主句），⛔ 不是"结构断裂"那种开放集合。
-```
-- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
-
-### 319 · present sth TO sb ／ present sb WITH sth（present 不进双宾语那一族）
-类型 搭配 ｜ 题面 **点名**："给他颁了一块奖牌"（用 **present** ＋ 人在前说） ｜ 新建 2026-09-04
-状态 连对1 连错0 上次2026-09-05 未毕业
-- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）·
-  `he **presented me a picture** and pointed three circle on it`
-  → presented me **with** a picture ／（口语档）**showed** me a picture
-  ❌ present 只有两个框：`present sth **to** sb` ／ `present sb **with** sth`。
-  它**不进** give／show／send／tell／promise 那一族（动词 ＋ 人 ＋ 东西直接上）。
-  ★ 归因（下次复测要用）：她的**语序是对的** —— 这是 🎓#263 的规则她执行得没问题；
-    错在**把 #263 的规则过度泛化到不属于那一族的动词上**。
-    ⇒ 这类错不能靠"再背一遍双宾语语序"修（越背越会往外套），
-      只能靠"这个动词进不进那一族"这一问挡。
-- 2026-09-05 ✅ 在池组 · 第 1 组（付息日 a 段）
-  `The principal presented him with a medal.`
-  框选对：present sb **with** sth，⛔ 没有落回 09-04 的 present sb sth（双宾语过度泛化）。
-  ★ 她同时主动提出「principal 这个词要背」⇒ 按 §2③／§2.1③ 另建 #321，⛔ 不并进本条
-    （本条考动词的框，#321 考这个名词本身）
-- 备注 判据：
-```
-present 的两个框（记框，不记单词）：
-  present sth **to** sb      The principal presented a medal **to** him.
-  present sb **with** sth    The principal presented him **with** a medal.
-⛔ present sb sth           ✗ The principal presented him a medal.
-★ 语域：present ＝ 颁发／正式呈递（present an award／present a report／present your ID）。
-  **日常"给某人看／递给某人"一律 show／give**，⛔ 别升到 present。
-  （2026-09-04 的原句就是这个毛病：两岁孩子把画拿给妈妈看 ⇒ 口语只用 show。）
-```
-- 备注 **出题口径**：题面必须用 present **真正合适**的场合（颁奖／递交／正式呈上）。
-  ⛔ 不出"孩子给妈妈看画"这种日常场景 —— 那种场景的正确答案是 show，出了会**教反**。
-- 判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `present sb **with** sth`（或 `present sth **to** sb`）
-② 全档 grep（**范围含已毕业**）：
-   `grep "present"` ⇒ L916（🎓#59 日志里的 `needed to present`，动词"做演示"，无关）
-                     · L1615（`the present` ＝ 名词"现在"，无关）⇒ **无条目**
-③ 最接近的一条：**🎓#263（双宾语语序：promise／give／tell／show／send 一律【人在前，东西在后】）**
-   **决定性证据**：按 #263 的规则去改她这句 ⇒ 她的语序**已经是"人在前、东西在后"**
-   ⇒ **改不出 with** ⇒ 得不到正确答案 ⇒ 不同考点（§3.1③"只是像、目标形式不同 → 两条"）。
-   **互斥关系（当场写死）**：#263 题面考的是 promise／give／tell／show／send 五个**族内**动词的语序；
-     本条题面考的是 present 这个**族外**动词的框。中文触发词也分开：
-     #263 ＝"他答应给儿子买最新款手机／她给了我一本很旧的书"；本条 ＝"校长给他颁了一块奖牌"。
-   ⇒ #263 只在 09-04 记一行 📝（过度泛化留痕），⛔ 不判回潮。
-④ 是不是拼写（§2.1）？**不是**，是动词的框（搭配）。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 就 present 一个动词、两个框，成员数得出来。
-```
-- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
-
-### 320 · point AT sth（指着某样东西）
-类型 搭配 ｜ 题面 **点名**："指着墙上那张照片"（用 **point** 说） ｜ 新建 2026-09-04
-状态 连对1 连错0 上次2026-09-05 未毕业
-- 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）·
-  `he presented me a picture and **pointed three circle** on it`
-  → **pointed at** three circles on it
-  ❌ point 表"指"时后面必须带介词：**point at sth**。
-  裸的 `point sth` 只在"把某物瞄准某处"时成立（point a gun at sb ／ point the camera at…），
-  那时的宾语是**被举起来瞄准的那个东西**，不是"被指的目标"。
-  ｜同处 `three circle` → three **circles** 归 #150（形态类，只记 ⚪，不算在本条头上）
-- 2026-09-05 ✅ 在池组 · 第 1 组（付息日 a 段）
-  `he pointed at the picture on the wall.`
-  point **at** sth，介词带上了，⛔ 没有落回 09-04 的裸 `pointed three circle`。
-- 备注 判据：
-```
-指着一个目标            point **at** sth        He pointed **at** the photo on the wall.
-把某物瞄准某处（及物）   point sth **at** sth    He pointed the camera **at** me.
-★ 检查触发：写完 point，问一句 —— **我是在"指"，还是在"把某个东西瞄准"？**
-  在"指" ⇒ point 后面必须先出现 **at**。
-```
-- 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
-  `point sth **out**` ＝ 指出来／点明（She pointed out two mistakes.）——**另一个块**，
-  意思是"把没人注意到的东西说出来"，不是用手指。若日后她掉这个，另开号。
-- 判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `point **at** sth`
-② 全档 grep（**范围含已毕业**）：`grep "point at\|pointed\|point to"` ⇒ **零命中**
-③ 最接近的三条逐条排除：
-   · 🎓#229（complain 不及物，带 about）——形状最像（都是"这个动词后面要带介词"）。
-     **决定性证据**：按 #229 的规则去改她这句 ⇒ 只产出 about，**产不出 at** ⇒ 不同考点。
-   · #18（论元完整：中文可单说的动词，英文必须带宾语/补语）——**方向相反**：
-     她**给了**宾语（three circle），缺的是介词 ⇒ 无关。
-   · 🎓#134（不是所有动词都要宾语·白名单）——那条是"可以不带宾语"，与本次无关。
-④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `point at`；
-   ⛔ 没有开成"动词后面要带介词"那种开放集合（那才是伞形）。
-```
-- ⇒ **新建当天不测**（§3.1），下一个学习日起进池
+### 261 · 这一小撮抽象名词不可数：action／feedback／advice／information／knowledge／research／progress
+类型 语法 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
+题面（7 句，七个不可数名词各一句 —— 她 08-20 错的是 action 和 feedback，只出这两个就会漏掉其余五个）
+　① "风险小了，大家就更愿意干。"（"更愿意干"用 **take ＋ 一个名词** 说）　　→ take action
+　② "得到正反馈"（用 feedback 说）　　　　　　　　　　　　　　　　→ positive feedback
+　③ "一些建议"（用 advice 说）　　　　　　　　　　　　　　　　　　→ some advice
+　④ "更多信息"（用 information 说）　　　　　　　　　　　　　　　　→ more information
+　⑤ "光有知识是不够的。"（"知识"用 knowledge 说）　　　　　　　　　→ knowledge alone isn't enough
+　⑥ "这方面的研究还不多。"（"研究"用 research 说）　　　　　　　　→ not much research
+　⑦ "进步很大"（用 progress 说）　　　　　　　　　　　　　　　　　→ made a lot of progress
+　　★ 本条 2026-08-20 当天由「take action 一个块」**改写成规则条**：
+　　　同一天两处（take actions ／ good feedbacks）规则完全相同 ＝「这类抽象名词不加 -s」，
+　　　按【判重三档·同一条规则→同一条】合成一条，避免每碰到一个不可数名词就开一个新号
+状态 连对0 连错1 上次2026-09-07 未毕业 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-07**（08-23 她指定毕业 → 09-07 复检七个成员六个对、`take actions` 又加了 -s，与 08-20 首犯同一个成员，撤销毕业、连对清零。★ action 是本条顽固成员 ⇒ 下个付息日按 §3.2c③ 单拆，老条目剩六个成员照常走连击）
+- 2026-08-20 新建 · 复习#85 句里 · `they are more willing to take actions` → take action
+- 2026-08-20 ❌ **自由产出**（新题 bank:187）· `can get good feedbacks` → feedback
+  ⚠️ 同一篇第 1 句她写的是 `the feedback`（对）⇒ **不是不知道，是产出时没检查**
+- 2026-08-21 ✅ 复习（点名题面首测）· `he gets positive feedback in a short time.`——feedback 没加 -s，连错 2 清零
+- 2026-08-23 ✅ 付息日 a 段 · **合并条 7 句整组首测，6/7 对**（§3.2c）：
+  ① `with less risk, people are more willing to take action.` ✅ ② `he can get positive feedback quickly.` ✅
+  ③ `he gave me **many** advice.` ❌ ④ `I need more information.` ✅ ⑤ `Just having knowledge isn't enough.` ✅
+  ⑥ `there isn't much research on this yet.` ✅ ⑦ `he's made huge progress this semester.` ✅
+  ⇒ **她当场指定毕业**（"这个不可数条目毕业，太简单了"）
+  ★★ ③ 暴露出本条**判据缺了一半**：原来只写"不加 -s"，她那句 -s 确实没加，
+     但**量词用了 many** —— 不可数名词的量词只能是 a lot of／much／some／a bit of／plenty of
+  ⇒ 按她 08-23 定的 §3.2c ③【顽固成员单独摘出来新建条目，老的毕业】：
+     **advice 摘出成 #270**，本条（其余六个成员）照她指定毕业
+  ★ ⑥ `there isn't much research` 顺带命中 #269 的成员之一 ⇒ 合并条要整组覆盖才计档位，只做正面记号
+  ⚠️ 同句 `in a short time` 判 ⚠️ 不建条目（配习惯性的 gets 略别扭，quickly／soon 更顺）；
+  `in **a** short time` 冠词带对（08-20 写的是 in short time）⇒ 属 #89 形态类·不召回，只记号不记档位
+- 2026-08-23 📝 c 段 **08-20 待办 #1 的结论：不并，改成交叉引用**
+  原待办写"把 #25 litter／🎓#48 work／#224 discrimination 里的『不可数』那一面并进本条"。
+  今天**不执行**，理由两条：
+  ① 本条**今天已毕业**（她指定）—— 往一条已毕业的条目里塞新成员，等于把它悄悄复活，
+     而那些成员根本没被本条的题面测过 ⇒ 制造假 🎓
+  ② §3.2 写着"词汇/搭配按**具体的词**一条一号"：litter／work／discrimination 各自还带着别的考点
+     （litter 有动词用法 · work 要对比 my job · discrimination 要管 AGAINST 这个介词）⇒ 本来就不该并
+  ⇒ 改成**交叉引用**：本条只管这七个抽象名词；具体词的可数性各留在各条
+    #272（litter）· 🎓#48（work）· #224（discrimination）· #270（advice 的量词，今天从本条摘出）
+- 2026-09-05 ◎ 复检组 · 第 5 组 · **题面①映射断裂，本次作废**（⛔ 不动连击）
+  她的产出：① 忘了 ② get positive feedback ③ a lot of advice ④ more information
+  ⑤ knowledge alone isn't enough ⑥ research in this field isn't enough ⑦ make huge progress
+  ★ 为什么是教练的锅（**她当场点出来**："take action 是更愿意干的意思？？"）：
+    ① 的原题面是整句「风险小了，大家就更愿意干。」→ take action；
+    今天 c 段粒度整改把它砍成裸块「更愿意干」—— **光看这四个字想不到 take action**
+    ⇒ 映射断裂 ⇒ 这一句任何人都答不出来 ⇒ ◎，⛔ 不记 ❌、⛔ 不回潮。
+  ★ 其余六个成员**全部答对**（六个不可数名词一个 -s 都没加）⇒ 条目实际状态是好的，坏的只有题面。
+  ★ ⛔ **撤回"把 take action 单拆出来"的决定** —— §3.2c③ 单拆的前提是那次测试有效，这次无效。
+  ⇒ 题面①已改回整句，次日再测。
+- 2026-09-07 ❌ 复检 · 第 5 组（加练）· 七个成员六个对，**action 又加了 -s**：`take actions`
+  —— 08-20 首犯就是 take actions，今天同一个成员再掉 ⇒ 🎓 回潮
+  最小改 `take action`
+  ★ §3.2c③ 待办：action 是本条顽固成员（08-20 ❌ · 09-07 ❌，其余六个从未掉过）⇒
+    下个付息日单拆成新条目，老条目（剩六个成员）照常走连击。
+    09-05 曾提过一次拆号，但依据是判 ◎ 的那次（题面缩坏）⇒ 当时撤回；今天是题面完好下的真掉，依据成立。
+- 备注 判据：take **action** 是固定块，action 在这个意义上**不可数**；
+  同族的 take **steps**／take **measures** 才有复数（steps／measures 本身可数）
+- **检查触发**：写完一个抽象名词，先问它在不在这张表里，在表里就把 -s 去掉
+- 备注 中文"更愿意干"口语不走"采取行动"：**more willing to give it a go／to go for it／to have a crack at it**
+- 备注 判重（当天新建复核）：grep "不可数"／"take action" 全库（含已毕业）→ 命中 #25（litter 不可数）·
+  🎓#48（work 不可数）· #224（discrimination 不可数）—— 三条都是**具体某个词**的可数性，
+  按 §3.2「词汇/搭配按具体的词一条一号」⇒ action 另立一条，不并。
+  另比对形态类 #10（主谓一致）／#150（限定词与数一致）：那两条管**形态检查是否运行**，
+  本条管**这个词本身可不可数** ⇒ 不同层，保留新建
+- ★ **2026-08-31 c 段结案：本条下面那个"付息日待办"已被 08-23 裁掉，属陈账。**
+  结论见本条上方 08-23 那行：**不并，改成交叉引用**（理由两条：往已毕业条目塞成员 ＝ 制造假 🎓；
+  §3.2「词汇/搭配按具体的词一条一号」）。⛔ 原待办文字一字不删，数字未动。
+- ⚠️ 付息日待办：#25（litter 不可数）／🎓#48（work 不可数）／#224（discrimination 不可数）
+  里的"不可数"那一面考虑并入本条（那三条还各自带别的考点，不能整条并）
 
 ### 321 · principal ＝ 校长（≠ principle ＝ 原则）
-类型 词汇 ｜ 题面 **点名**："校长"（用一个词说，⛔ 不用 head teacher） ｜ 新建 2026-09-05
-状态 连对0 连错0 上次— 未毕业
+类型 词汇 ｜ 题面 **点名**："校长"（用一个词说，⛔ 不用 head teacher · ⛔ 不用 headmaster） ｜ 新建 2026-09-05
+状态 连对1 连错0 上次2026-09-07 未毕业
 - 2026-09-05 📝 她主动提出建号 · 在池组第 1 组（#319 的作答里自标）·
   `The principal(这个词要背) presented him with a medal.`
   ★ 她**拼对了、用对了**，⛔ 不是拼写错 —— 走 §2.1③「她主动说这个要记」这唯一一条例外建号。
   ★ 与 #319 的分工写死：#319 考 **present 这个动词的框**（校长只是场景，不在产出位置上）；
     本条考 **principal 这个名词本身**，题面必须把"校长"摆到要她产出的位置上。
+- 2026-09-07 📝 题面补一条排除「⛔ 不用 headmaster」：原题面只排除了 head teacher，
+  而 headmaster 同样是"一个词"、且在英式里正是默认词 ⇒ 第二译法没被收敛（§6.5 第 7 项）。
+  补掉它之后 principal／principle 这个真考点一个字都没泄露。
+- 2026-09-07 ✅ 复习 · 在池第 2 组 · `principal` —— 首测；principal（校长）≠ principle（原则），调对了词
 - 备注 判据：
 ```
 principal   名词 ＝ 校长／形容词 ＝ 主要的      the principal of the school ／ the principal reason
@@ -738,6 +768,106 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 ```
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
+
+### 322 · play WITH sth（玩"东西"一律带 with）
+类型 搭配 ｜ 题面 "孩子在玩他们的玩具。"（"玩"用 **play** 说） ｜ 新建 2026-09-07
+状态 连对0 连错0 上次 — 未毕业
+- 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
+  `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
+  → playing **with** them ／ played **with** the toys
+  ★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
+    （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
+    ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
+- 备注 判据：
+```
+玩"东西"     play **with** sth      play with toys ／ play with the dog ／ play with your phone
+玩"项目"     play ＋ 名词（不带 with）play football ／ play the piano ／ play a game ／ play a role
+★ 判据一句话：后面是**一个东西** ⇒ 必须有 with；后面是**一项活动** ⇒ 直接接。
+★ 检查触发：写完 play，问一句 —— 我后面接的是东西还是活动？
+```
+- 判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `play **with** sth`
+② 全档 grep（**范围含已毕业**）：`grep -n "play with\|玩具\|play toys" problems.md graduated.md methods.md`
+   ⇒ 4 处命中，逐条读：
+   · 🎓#51（put sth away ＝ 收起来）题面"把玩具收回去" —— 只是同一个名词出现，考点是 put away
+   · 🎓#67（可分离动词短语的位置）题面里也有玩具 —— 考点是代词必须摆中间
+   · 🎓#67 的**备注行**「玩具搭配是 play with」—— ★ 决定性事实：只是备注，**全档无条目**
+   · #215（-ing 短语的逻辑主语）题面里有玩具 —— 考点是逻辑主语＝主句主语
+③ 最接近的两条逐条排除：
+   · 🎓#67 —— 按它的规则去改她这两句 ⇒ 只会检查 them 有没有摆在 put 和 away 中间，
+     **产不出 with** ⇒ 不同考点（§3.1③ 第三档）
+   · 🎓#51 —— 按它的规则改 ⇒ 只会把 clean up 换成 put away ⇒ 产不出 with ⇒ 不同考点
+   **互斥关系（当场写死）**：#51／#67 的题面都以"收起来"为落点（put away），
+   本条题面以"在玩"为落点（play with），⛔ 两边题面不撞车。
+④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `play with`，成员数得出来。
+```
+- ⇒ **新建当天不测**（§3.1），下一个练习日起进池
+
+### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
+类型 结构 ｜ 题面 "聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说） ｜ 新建 2026-09-07
+状态 连对0 连错0 上次 — 未毕业
+- 2026-09-07 📝 首犯 · 新题第 1 道（自由产出 · bank:975 P3 · Do you think smart children are happier than other children?）·
+  `smart enough to know **they actually want** and how to reach their gold`
+  → to know **what** they actually want and how to reach their goals
+  ❌ want 是及物的，后面必须有宾语，而这里的宾语正是那个 what。
+  ★ 归因（下次复测要用）：know 后面并列了两个嵌入成分 —— 第二个的 how **她写了**，
+    第一个的 what 吞掉了 ⇒ 不是"不知道要用 wh"，是并列时第一个被跳过。
+- 备注 判据：
+```
+know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分都要有自己的 wh 词领头**：
+  know **what** they want ／ know **how** to do it ／ know **why** it matters ／ know **where** to start
+并列两个的时候两个 wh 都要出现：know **what** they want and **how** to get there.
+★ 这里的 what 是双重身份：既是连接词、又是 want 的**宾语** ⇒ 吞掉它，want 就没宾语了。
+★ 检查触发：写完 know／tell／wonder／figure out，数后面有几个成分，每个是不是都有 wh 领头。
+```
+- 判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `know **what** …` —— 考的是 wh 词的**有无**
+② 全档 grep（**范围含已毕业**）：`grep -n "嵌入疑问\|what 从句\|宾语从句\|know what" problems.md graduated.md`
+   ⇒ 逐条读：🎓#59（直接疑问 vs 嵌入疑问）· #46（表语用名词，不用 what 从句）· #59 的两条合并备注
+③ 最接近的两条逐条排除：
+   · 🎓#59（嵌进句子里就用陈述语序）——形状最像（都是 wh 从句）。
+     **决定性证据**：她这句从句里本来就是陈述语序（`they actually want`），
+     按 #59 的规则去改 ⇒ **产不出 what** ⇒ 得不到目标形式 ⇒ 不同考点（§3.1③ 第三档）。
+   · #46（表语用名词说，不用 what 从句）——**方向相反**：那条禁用 what 从句，本条要求别吞。
+     **互斥关系（当场写死）**：#46 题面 ＝ "业余爱好是自己挑的事，工作不是。"（表语位置，⛔ what 从句）；
+     本条题面 ＝ "聪明到知道自己到底要什么、也知道怎么去够到。"（know 的宾语位置，**必须**用 what）
+     ⇒ 两条题面不撞车。
+④ 是不是拼写（§2.1）？**不是**，是缺一个功能词。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 收敛成一条规则（wh 词不能吞），成员是封闭的 wh 词表。
+```
+- ⇒ **新建当天不测**（§3.1），下一个练习日起进池
+
+### 324 · other 是限定词、others 才是代词（happier than **others**）
+类型 语法 ｜ 题面 —（⚪ 形态类，不出题） ｜ 新建 2026-09-07
+状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题**
+- 2026-09-07 ⚪ 首次留痕 · 新题第 1 道（自由产出 · bank:975）·
+  `they are definitely happier than **other**` → happier than **others**
+  ★ §3.4 自我分诊（省时版）：同一段里她把 `average kids and smart **ones**` 做对了
+    ⇒ 同一个形态（裸代词要带 -s）她会 ⇒ 不是缺口，是产出时检查没跑 ⇒ 只记 ⚪、⛔ 不进召回队列。
+- 备注 判据：
+```
+other  ＝ **限定词**，后面必须跟名词：other kids ／ other people ／ the other one
+others ＝ **代词**（＝ other people／other ones），单独站着时用它：happier than **others**
+★ 同一族：one／ones —— average kids and smart **ones**
+★ 检查触发：写完 other，看它后面有没有名词。没有 ⇒ 加 -s。
+```
+- 判重结论（§3.1 判重三步，2026-09-07 当天做，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ 裸代词 `others`
+② 全档 grep（含已毕业）：`grep -n "others\|than other" problems.md graduated.md methods.md`
+   ⇒ 命中全部落在**别的条目的正文举例**里（🎓#106 的 get to know others ／
+     另一条的 messaging with others）⇒ **全档无条目**管这一条。
+③ 最接近的一条排除：#150（限定词必须跟后面名词的【数】一致，These statements／a group）——
+   那条管"限定词与名词的数不齐"；本条管"限定词后面**根本没有**名词"。
+   **决定性证据**：按 #150 的规则去改她这句 ⇒ 只会去找 other 后面那个名词的尾巴，
+   而这句**压根没有那个名词** ⇒ 产不出 others ⇒ 不同考点。
+④ 是不是拼写（§2.1）？不是 —— 少的是一个表"代词化"的 -s，不是把同一个词写歪。
+⑤ 是不是伞形条目（§3.2b）？不是 —— 目标形式就一个 `others`。
+```
+- ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
 ## 迁移说明（2026-08-18）
 

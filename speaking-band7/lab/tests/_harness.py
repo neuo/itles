@@ -96,6 +96,12 @@ def sandbox(p_text=None, g_text=None, sessions=True):
         open(os.path.join(d, "problems.md"), "w", encoding="utf-8").write(p_text)
     if g_text is not None:
         open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g_text)
+    # ★★ 合成档案 ⇒ 真 drawn.log 必须清空（§0.1.6「测试⛔不许依赖真档案的内容」）。
+    #   2026-09-07 实证：`used_audit` 上线后，真 drawn.log 里今天的「用」拿去对**合成**档案，
+    #   每一条都对不上 ⇒ K0「干净档案 ERROR 0」当场变红，而 lab.py 一行都没错。
+    #   需要流水的用例自己往 d/drawn.log 里写（test_gates 一直是这么做的）。
+    if p_text is not None or g_text is not None:
+        open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write("")
     old = {k: getattr(lab, k) for k in
            ("ROOT", "PROBLEMS", "GRADUATED", "METHODS", "REDO", "SESSIONS", "DRAWN")}
     lab.ROOT = d

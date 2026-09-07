@@ -785,6 +785,48 @@ def selfpass_audit():
     return P
 
 
+def used_audit():
+    """→ [(level, 位置, 说明)]　drawn.log 的「用」 ⇄ 档案里那一天的判定行，逐日逐条对账。
+
+    ⚠️ 上线理由（2026-09-07 实测）：2026-09-05 的两个复检组（19 条 ＋ 15 条 ＝ 34 条）
+       判定判了、写进了 session，却整整两组没交给 `append` ⇒ 档案里最后一行还停在 08-19
+       ⇒ 梯子算出「已等 16 个练习日」⇒ 两天后又被整组抽出来重考一遍。
+       当天 C0 check／C1 stats／C2 deliver **三条全绿**：
+         check   只对账 ⚡（selfpass_audit），看不见判定行
+         deliver 查的是 session 文件，而 session 里那 34 行写得好好的
+       ⇒ 本函数 ＝ selfpass_audit 的另一半（§4⑤ 第 4 项「状态回写」的机器闸）。
+
+    口径：
+      · want ＝ 当天「用」－「免」－「弃」
+        （§9.1④「弃」⛔ 不参与对账；「免」走 selfpass_audit 那条）
+      · got  ＝ 当天有 ✅／❌／◎／📖 判定行的条目
+      · ⛔ 只查单向（少）—— 反向多出来是**自由产出**（新题／重答）判的号，
+        那些本来就不进 drawn.log，报出来全是噪音。"""
+    P = []
+    if not os.path.exists(DRAWN):
+        return P
+    days = sorted({l.split("\t")[0] for l in open(DRAWN, encoding="utf-8")
+                   if l.count("\t") >= 3 and re.fullmatch(r"20\d\d-\d\d-\d\d", l.split("\t")[0])})
+    ents = load_all()
+    for day in days:
+        if day < DELIVER_FROM:
+            continue                       # 存量：这道闸上线之前的日子不回扫
+        dr = drawn_rows(day)
+        want = dr["用"] - dr["免"] - dr["弃"]
+        if not want:
+            continue
+        got = {e.num for e in ents
+               if any(h.date == day and h.symbol in ("✅", "❌", "◎", "📖")
+                      for h in e.history)}
+        miss = sorted(want - got)
+        if miss:
+            P.append(("ERROR", f"drawn.log {day}",
+                      f"记了「用」{len(want)} 条，档案里少 {len(miss)} 行判定："
+                      f"{'／'.join('#'+str(x) for x in miss)} —— "
+                      f"§4⑤ 第 4 项：判定没落进档案 ＝ 梯子还停在上次 ＝ 过两天整组重考"))
+    return P
+
+
 def cmd_check(args):
     ents = load_all()
     all_nums = {e.num for e in ents}
@@ -812,8 +854,10 @@ def cmd_check(args):
         for _, msg in fence_balance(path):
             nerr += 1
             print(f"ERROR  {src}  {msg}")
-    # ★ ⚡ 对账（§11①b 的唯一闸）—— 文件级，与条目检查并列
-    for lv, loc, msg in selfpass_audit():
+    # ★ 两条文件级对账（与条目检查并列）：
+    #   ⚡ 对账（§11①b）＝ drawn.log 的「免」⇄ 档案的 ⚡ 行
+    #   用 对账（§4⑤ 第 4 项）＝ drawn.log 的「用」⇄ 档案那一天的判定行
+    for lv, loc, msg in selfpass_audit() + used_audit():
         if lv == "ERROR":
             nerr += 1
         else:

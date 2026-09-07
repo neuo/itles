@@ -315,4 +315,47 @@ with sandbox(p_text=PBIG, g_text=GBIG, sessions=False) as d:
     ck("负向反向：档案有 ⚡ 但 drawn.log 没记 ⇒ WARN 不是 ERROR",
        all(x[0] != "ERROR" for x in a), a)
 
+head("④ 「用」⇄ 判定行 对账（2026-09-07 补的闸 —— ⚡ 那道闸的另一半）")
+# ⚠️ 上线理由：2026-09-05 两个复检组共 34 条判了、写进了 session，却整组没交给 append；
+#   当天 check／stats／deliver 三条全绿 ⇒ 两天后整组被重新抽出来重考。
+with sandbox(p_text=PBIG, g_text=GBIG, sessions=False) as d:
+    mk(d)
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(
+        "2026-09-10\t第 1 组\t抽\t500,501\n2026-09-10\t第 1 组\t用\t500,501\n")
+    a = lab.used_audit()
+    ck("★ 负向：drawn.log 记了「用」、档案里没有那天的判定行 ⇒ ERROR",
+       any(x[0] == "ERROR" and "#500" in x[2] and "#501" in x[2] for x in a), a)
+    g2 = read(d, "graduated.md").replace(
+        "状态 连对2 连错0 上次2026-09-01 ｜ **🎓 已毕业 2026-09-01**\n"
+        "- 2026-08-01 ✅\n- 2026-09-01 ✅\n",
+        "状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-09-01**\n"
+        "- 2026-08-01 ✅\n- 2026-09-01 ✅\n- 2026-09-10 ✅ 复检\n", 1)
+    open(os.path.join(d, "graduated.md"), "w", encoding="utf-8").write(g2)
+    a = lab.used_audit()
+    ck("正向：补上第一条的判定行之后，只剩另一条报错",
+       [x for x in a if x[0] == "ERROR"] and "#501" in a[0][2] and "#500" not in a[0][2], a)
+
+    # 「免」与「弃」都不进这道闸（§9.1④ 弃不参与对账；免走 selfpass_audit）
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(
+        "2026-09-10\t第 1 组\t用\t500,501\n"
+        "2026-09-10\t第 1 组\t免\t501\n")
+    ck("★ 正向：被「免」掉的那条 ⛔ 不进「用」对账（免走 ⚡ 那道闸）",
+       all(x[0] != "ERROR" for x in lab.used_audit()), lab.used_audit())
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(
+        "2026-09-10\t第 1 组\t用\t500,501\n"
+        "2026-09-10\t第 1 组\t弃\t501=题面被截断，本次作废\n")
+    ck("★ 正向：被「弃」掉的那条 ⛔ 不进「用」对账（§9.1④）",
+       all(x[0] != "ERROR" for x in lab.used_audit()), lab.used_audit())
+
+    # 反向不查：自由产出（新题／重答）判的号本来就不进 drawn.log
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write("")
+    ck("正向：档案有判定行但 drawn.log 没记 ⇒ 一条都不报（自由产出的常态）",
+       lab.used_audit() == [], lab.used_audit())
+
+    # 闸的分界线：DELIVER_FROM 之前的日子不回扫
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write(
+        "2026-08-20\t第 1 组\t用\t500,501\n")
+    ck("正向：分界线之前的存量日子 ⛔ 不回扫",
+       lab.used_audit() == [], lab.used_audit())
+
 sys.exit(report("2026-09-05 演练补的闸 正/负向测试"))
