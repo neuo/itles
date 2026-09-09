@@ -30,7 +30,17 @@
 ```
 ★ 下面这一块 **2026-08-29 迁移完成后由 `drill.py stats` 产出**，⛔ 不许口算、不许沿用旧值（SKILL §0.4）
 
-★ 最近一次刷新：**2026-09-07 收尾**（`drill.py stats` 逐条实数，migrate 之后）
+★ 最近一次刷新：**2026-09-09 收尾**（`drill.py stats` 逐条实数，migrate 之后 —— 本场无可搬条目）
+总数   **455 条**　＝ 本文件 **154** ＋ `graduated.md` **301**
+在池   **131 条**　｜ **退池 18** ｜ 并入 5 ｜ 题面待补 0
+　　　 连对 1 的 **104** 条 · 连对 0 的 **27** 条
+🎓     **301 条（占 66.2%）**
+题型   整句 全档 384 ｜ 词组 全档 41 ｜ **作文验 全档 30（在池只剩 13）**
+　　　 ★ 2026-09-09（C6·D1 学习日，网络中断 ⇒ 她指示只做 1 组就收）：
+　　　 　 新建 **3 条**（#0482 #0483 #0484）· 毕业 0 · 回潮 0 · 判定 **10 条全 ✅**
+　　　 　 · 组 2／组 3／复检组 1 **没发出去 ⇒ 按 §4② 不记账、不写顺延**
+
+★ 上一次刷新：**2026-09-07 收尾**（`drill.py stats` 逐条实数，migrate 之后）
 总数   **452 条**　＝ 本文件 **151** ＋ `graduated.md` **301**
 在池   **128 条**　｜ **退池 18** ｜ 并入 5 ｜ 题面待补 0
 　　　 连对 1 的 **94** 条 · 连对 0 的 **34** 条
@@ -990,7 +1000,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   　 ⇒ 摘出新建 **#0477**（⛔ 不进 R3：块本身不会，不是掉了个小零件）。
 
 ## #0477 take sth into account 一族：into ／ of ／ in 三个介词各归各家
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1055,6 +1065,91 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   ⚠️ ⛔ 不进 R3：R3 收的是"块本身记得、里面小零件掉了"；她自己说这个词组要学
   　 ＝ 块本身不会 ⇒ 按 R3 的「可推翻」条款移出，正式建号。
   ⇒ 建号行按 ❌ 记，连错 1。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 2 题　**连对 1**
+  她写 `completely failed to **take** operation costs **into account**, nor did it
+  **take account of** seasonal fluctuations; both factors must be **borne in mind** when preparing a budget.`
+  三个介词各归各家：into ／ of ／ in（in 只给 mind），语序也对（宾语短 ⇒ 夹在 take…into account 中间）；
+  bear 的过去分词 borne 也对。成员账：① take sth into account ② take account of ④ bear sth in mind 三格已落地。
+  ⚠️ 顺带：`operation costs` 的默认块是 operating costs ⇒ 只进更好版，**⛔ 不判错**（母语反例造得出）。
+
+## #0482 issue（动词）能带哪些宾语：a fine ／ a permit ／ a statement ／ a refund
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F01 ｜ 题型 整句
+
+**问题是什么**
+```
+**issue**（及物）＝ **由有权的一方正式开出／发出**某样东西 —— 宾语是"一张纸"类的东西
+　`**issue** a fine ／ a penalty notice ／ a ticket`　　开罚单
+　`**issue** a permit ／ a licence ／ a visa`　　　　　 发许可、执照、签证
+　`**issue** a statement ／ a warning ／ guidelines`　　发布声明、警告、指引（⇒ #0405）
+　`**issue** a refund ／ a receipt`　　　　　　　　　　 发退款、开收据
+　被动最常用：`The fine **was issued** on the spot.` ✔
+同一格里的邻居（别串）：
+**impose** a fine ／ a penalty ／ a ban　　★ 强调**强加**（罚你），⛔ 不用于许可证
+**grant** a permit ／ a licence ／ permission　★ 强调**准了你的申请**
+**award** a contract ／ a grant ／ damages　　★ 评定之后**判给**
+**hand out** fines ／ leaflets　　　　　　　　★ 口语，"一张张发出去"
+```
+**判据（一句话）**：**主管方正式开出一张纸** ⇒ issue；**罚你** ⇒ impose；
+**准你的申请** ⇒ grant；**评定后判给** ⇒ award。
+⚠️ 与 **#0456**（「出了问题之后」一族，在池）分工写死：那条挑的是**那笔钱／那个动作叫什么名字**
+　（compensation ／ rectification ／ penalty），本条挑的是**开出它的那个动词** ⇒ 两条，⛔ 不合并。
+⚠️ 与 **#0405**（官方声明 ＝ an official statement，在池·词组）分工写死：那条要背的是**名词块**，
+　本条管**这个动词的宾语范围** ⇒ 两条，⛔ 不合并（#0405 正文里那行 `issue／release a statement`
+　正是本条的成员③）。
+
+**成员出题账**
+```
+① issue a fine ／ a penalty notice　—— 2026-09-09 组1 第 4 题自发用对（被动 was issued）⇒ 留痕，⛔ 不算测过　★ 她点名要学
+② issue a permit ／ a licence　　　 —— 未出过　★ 优先测
+③ issue a statement ／ a warning　 —— 未出过（⇒ #0405 已有这个块）
+④ impose（反面成员：罚你用它）　　 —— 未出过　★ 优先测
+⑤ grant ／ award　　　　　　　　　 —— 未出过　★ 优先测
+```
+
+**怎么发现的**
+2026-09-09　D1 学习日 C6·组1 第 4 题（主考点 #0478，命中 ✅）。她自己写出
+`The fine **was issued** on the spot`，并当场括注**「这个动词都学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "issue" "罚款" "开出"     ⇒ 命中 #0112 #0354 #0405 #0348 #0456
+② 规则查  dedup "发放" "出台" "签发"       ⇒ 命中 #0055 #0143 #0284 #0358 #0458
+③ 眼过    ①②都有命中 ⇒ 未跑（B0 只在①②都零命中时要求）
+逐条否掉：
+  #0405（官方声明 ＝ an official statement，在池·词组）—— 三问第 1 问不成立：那条的缺口是
+    **「官方声明」这个名词块调不调得出**，本条是**动词 issue 后面能挂哪些宾语** ⇒ 否，交叉引用。
+    反向验（§3.5 1.3）：2026-09-09 她 `was issued` 用对了，但宾语是 fine 不是 statement
+    ⇒ 一格行使、一格没行使，可独立取值。
+  #0456（「出了问题之后」一族，在池）—— 三问第 1 问不成立：那条挑的是**名词**
+    （compensation ／ rectification ／ penalty），本条挑的是**动词** ⇒ 否，交叉引用。
+    反向验：09-07 组1 第 3 题她写 `with a penalty imposed`（用 impose），09-09 写 `was issued`
+    ⇒ 两格可独立取值。
+  #0458（政府部门与监管机构，在池）—— 三问第 1 问不成立：那条挑的是**是谁**
+    （department／authority／agency／regulator），本条是**那一方做什么动作** ⇒ 否。
+  #0112（severe issue／problem 的区别，🎓）—— 命中的是**名词** issue；同一个词面的两个不同问题
+    ⇒ §3.5 误判2，否。
+  #0354 #0348 #0055 #0143 #0284 #0358 —— 命中的全是正文与历史记录里偶然出现的字样
+    ⇒ §3.5 误判2，逐条否。
+⇒ 新建，归 F01（动词框架/论元 —— 缺口就是这个动词能带哪些宾语），题型 整句
+　（§3.5 第 2.5 步 ①：块里有动词；且要在 issue／impose／grant／award 之间挑 ⇒ 词表型 ⇒ 一律整句）。
+```
+
+**我错在哪**
+她这次**没有错**（`The fine was issued on the spot` 完全正确，被动也对）——
+建号理由是 §2③ 她点名要学。缺口是**这个动词还能开出什么** ＋ **它与 impose／grant／award 的分工**。
+**找法**：写"开出／发放／出具"之前问一句 ——
+**是主管方正式开一张纸（issue）、是罚你（impose）、是准了你的申请（grant），
+还是评定之后判给你（award）？**
+
+**中文触发点**
+许可证是上个月发放的；违规的企业则另外被处以重罚，而三份补贴合同要评审之后才判给。
+（★ 三处分别用 issue ／ impose ／ award —— 时态与语态自己定）
+
+### 历史记录
+- 2026-09-09 ③ 建号（她点名要学）D1 学习日 C6·组1 第 4 题（顺带用对）
+  她写 `The fine **was issued** on the spot` —— 动词与被动都对。当场括注「这个动词都学下」。
+  ⚠️ 同题主考点 #0478 三条轴全部选对、判 ✅（`in person` 漏掉 person 按 §3.2 手滑豁免）。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 
 ---
 
@@ -2704,7 +2799,7 @@ quiet/quite —— 她写成 `quiter`，**拼成非词** ⇒ 不属于本条（�
   ⚠️ `captial` 字母顺序颠倒、拼成非词 ⇒ 手滑豁免（§3.2）。
 
 ## #0476 separate 的拼写：sep-a-rate（中间是 a 不是 e）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F05 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F05 ｜ 题型 整句
 
 **问题是什么**
 `separate` 中间那个元音是 **a**，不是 e：sep-**a**-rate（⛔ ~~seperate~~ ~~seperately~~）
@@ -2765,6 +2860,13 @@ quiet/quite —— 她写成 `quiter`，**拼成非词** ⇒ 不属于本条（�
   ⚠️ 但组1 的反馈里刚刚把 sep-**a**-rate 的记法（there's "a rat" in separate）给了她，
   **同一天教完再写对 ＝ 零信息** ⇒ 记 📝 留痕，⛔ 不推进 streak
   （与 §3.6「建号当天不回考」同一条道理）。真正的读数要等下一个练习日它被抽到。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 3 题　**连对 1**
+  ★ 全组唯一**零提示**出的（纯拼写类，把词印进题面 ＝ 给答案，§6）——
+  题面只有中文「这两笔款项必须分开记账，相关通知也会另行寄出。」
+  她写 `These two payments must be accounted for **separately**, and the relevant notifications
+  will also be sent **separately**.` 两处都是 sep-**a**-rate，中间那个元音写对了。
+  ⚠️ 建号时触发点里那行「★ 三处分别用 separate ／ separately ／ distinct」把答案的拼写原样印出来了，
+  　 今天⛔ 没带过去 —— 那是**提示**不是限定，提示档每次出题都要按 §6 绕开测试重定（理由见 session 手工件②）。
 
 ---
 
@@ -2927,7 +3029,7 @@ high-risk**` —— **完全正确**，并当场括注「**这个需要背下，
   　 形态自己定）。
 
 ## #0475 有现成形容词就别拿光杆名词作定语（environment→environmental ／ detail→detailed）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F06 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F06 ｜ 题型 整句
 
 **问题是什么**
 英语里名词确实能作定语（`traffic restrictions` · `car ownership` · `staff turnover` ✔），
@@ -2990,6 +3092,11 @@ economy　　 → **economic** growth　　　　 society　→ **social** chang
   两处是同一个动作：有现成的派生形容词，却拿光杆名词去作定语。
   ⚠️ 同一天同一编号出现两次 ⇒ 按 §3.2 当天只推进一次，记 ❌ 一次，连错 1。
   ⇒ 建号行按 ❌ 记（§3.5 B5 她犯错建的）。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 5 题　**连对 1**
+  她写 `This **detailed** survey released last month showed that **industrial** wastewater is the
+  primary source of pollution, and several major factories failed to meet **environmental** standards.`
+  三处定语全部换成了派生形容词 ⇒ 09-07 建号那天她在同一组里连犯两次（environment protection ／
+  detail rules），今天三处全守住。**连错 1 → 连对 1**。
 
 ---
 
@@ -7264,7 +7371,7 @@ progress **不可数**（⛔ a progress）。
   ⇒ 成员账：④ public transport ✅；⑤ congestion charge ／ road pricing 仍未出过。
 
 ## #0472 「普遍／常见」一族：widespread ／ prevalent ／ commonplace ／ pervasive
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -7336,9 +7443,18 @@ progress **不可数**（⛔ a progress）。
   （拼成非词 ⇒ 手滑豁免），但当场括注「这个词可以学下，不然老用 common」。
   ⚠️ 同句 `are` → `is` 归 R2（不建条目，§2⑤）；`among` 是 #0459 的考点，另判。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 1 题　**连对 1**
+  题面「这种做法在小城镇里很普遍，而过度加班在年轻从业者当中尤其盛行；如今远程办公已经不算稀奇了。
+  （★ 三处分别用 widespread ／ prevalent ／ commonplace）」
+  她写 `This practice is **widespread in** small towns, whereas excessive overtime is particularly
+  **prevalent among** young practitioners; nowadays, remote working **is commonplace**.`
+  三格分工全对：widespread 配 in（⛔ 没配 among，正是本条写死的那一格）· prevalent 配 among ·
+  commonplace 作表语、前面没有多出冠词。
+  ⚠️ 本条是 §2③ 建的，按 §6 第一次出题把整个块印在题面上 ＝ **练不是测**；
+  　 真读数要等连对 1 之后降回 lemma 档那一次。成员账：② widespread ③ prevalent ④ commonplace 三格已落地。
 
 ## #0474 受益者 ＝ a beneficiary
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -7391,9 +7507,17 @@ progress **不可数**（⛔ a progress）。
   词选对了（受益者就是 beneficiary），只有拼写颠倒了 rie／ire，按 §3.2 豁免。
   当场括注「受益者需要背一下」。
   ⚠️ 按 §3.5 B5：拼写已豁免、词也选对 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 9a 题（词组题·反向出法）　**连对 1**
+  ★ 出法按 §6 2026-09-06 条款：这个块她 09-07 是**自发写出来的**（`beneficiaires`，选词对、拼写手滑豁免）
+  ⇒ ⛔ 不再用「中文块 → ？」测，改成**先给英文块、只让她写用法**。
+  题面只给 `a beneficiary` ＋「写一句能用它的英文（或写清它的搭配与位置）」，
+  ⛔ 没有任何教练自己发挥的追问（她 2026-09-07 立的规矩）。
+  她写 `The **beneficiaries** of this policy are rare.` —— 块的字面对、拼写对，
+  **-y → -ies 那一步她自己走对了**（正是本条判据点名的那一格），搭配也落在 `the beneficiaries of X` 上。
+  ⚠️ 契约⑬：只判块的字面 ⇒ `are rare`（成立但不如 are few）只进更好版，⛔ 不判。
 
 ## #0478 「当场／亲自／到场」一族：on the spot ／ in person ／ on site
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -7459,9 +7583,19 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `if a patient **asks on the spot**` —— 块用对了、the 也没掉。
   当场括注「老是想用 in person，可以一起学下」。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 4 题　**连对 1**
+  她写 `The fine was issued **on the spot**; if you wish to appeal, you must apply **in** at the
+  service window, while the review will be completed **on site**.`
+  三条轴一格没串：时间 on the spot ／ 方式 in（person 漏词）／ 地点 on site ⇒ **考点命中**。
+  ⚠️ `in person` 的 person 漏掉，按 §3.2 判**漏词手滑、⛔ 不判错**，两条证据：
+  　 ① 题面括号里把 person 原样印出来了 ⇒ ⛔ 不是选词；
+  　 ② 本条建号记录写着她 09-07 的原话「老是想用 in person」⇒ 这个块是她的默认块。
+  　 按 09-07 的教训先查过本条正文：⛔ 无相反口径。⛔ 不进 R3（R3 收的是块里的 the ／ 撇号 ／ 连字符）。
+  ⚠️ 顺带她括注「这个动词都学下」（issue）⇒ 已按 §2③ 新建 **#0482**。
+  成员账：① on the spot ② in person ③ on site 三格已落地。
 
 ## #0479 康复一族：rehabilitation ／ recovery ／ physiotherapy ／ convalescence
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -7527,9 +7661,16 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `after three months of rehabilitation … have shown no sign of recovery` ——
   两个词各就各位，分工其实做对了。当场括注「rehabilitation 需要背下，不然我想用 recovery 可以么」。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 6 题　**连对 1**
+  她写 `The patient underwent six months of **rehabilitaion**, with **physiotherapy** three times a
+  week; however, real **recovery** did not occur until discharge`
+  三格分工全对：rehabilitation ＝ 别人给你做的那一套 ／ physiotherapy ／ recovery ＝ 她身上发生的好转。
+  ⚠️ `rehabilitaion` 漏一个 t —— 题面已把这个词原样印出 ⇒ §3.2「不是选词 ⇒ 豁免」。
+  ⚠️ 顺带她括注「出院的学下」（discharge）⇒ 已按 §2③ 新建 **#0483**。
+  成员账：① rehabilitation ② recovery ③ physiotherapy 三格已落地。
 
 ## #0480 单价 ＝ the unit price
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -7587,9 +7728,13 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `the **unit price** of this shipment is considerably higher` —— 块本身写对了，
   当场括注「单价得学下」。同题主考点 #0137 判 ❌（Combined with），与本条无关。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 9b 题（词组题·反向出法）　**连对 1**
+  ★ 同上，反向出法：题面只给 `the unit price`。她写 `buy in bulk for a lower **unit price**.`
+  块的字面对，`a lower unit price` 也是这个块最常见的落点。
+  ⚠️ 契约⑬：⛔ 不判大小写（句首小写不扣）。
 
 ## #0481 「引起／吸引注意」一族：draw ／ attract ／ bring to ／ come to sb's attention
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -7658,6 +7803,166 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `has **drawn the attention of** regulatory authorities` —— 块用对了，
   `the` 与 `of` 两个零件都在。当场括注「吸引注意，需要建个条目」。
   ⚠️ 同句 `regulatory authorities` 是 #0458 的成员，见该条 📝 留痕。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 8 题　**连对 1**
+  她写 `This repord had **drawn the attention of** regulatory authorities; the issue was first
+  **brought to the attention of** the board of directors by an employee, whereas the entire industry
+  did not **come into** public view until last year.`
+  三个块的方向全部选对：那件事把注意力拉过来（draw）／ 有人主动报上去（bring to，被动 ＋ by an employee）／
+  它自己进视野（come，不及物）。`the attention **of** sb` 的 the 与 of 两个零件都在，attention 也没加 -s。
+  ⚠️ 第三处她走的是 `come into public view`，**不是**本条的 `come to sb's attention`。
+  　 按 §3.2「判 ❌ 只有两个理由」：句子本身成立、意思也送到，题面点的又正是 come 这个动词 ⇒ **算对**。
+  　 但成员 ③ `come to sb's attention` **没被行使** ⇒ 成员账仍记未出过，
+  　 **下次题面必须把 attention 写进去**（§6：心里有特别想考的就得写进题面）。
+  ⚠️ `repord` 末字母打错、拼出来不是词、上下文只有 report 说得通 ⇒ §3.2 豁免
+  　 （⛔ 不归 #0095 —— 那条专管拼成另一个真词；⛔ 也不归 #0476）。
+  ⚠️ `had drawn` 的过去完成没有参照点、且与下半句更早的 `was first brought` 顺序颠倒 ⇒
+  　 判为 ⚠️不地道（§5 四问自审④），只进更好版，**⛔ 不判错、⛔ 不建条目**（时态是她 09-06 亲自划进扫描类的）。
+  ⚠️ 顺带她括注「董事会得背下」⇒ 已按 §2③ 新建 **#0484**。
+  成员账：① draw the attention of ② bring X to sb's attention 两格已落地。
+
+## #0483 出院一族：be discharged ／ be admitted ／ be referred ／ be transferred
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**be discharged（from hospital）**　出院（★ 被动 —— 是医院"放"你走）
+　　`The patient **was discharged** three days later.` · `**discharge** a patient`
+　　名词 **discharge**：`until **discharge**` · `on **discharge**` · `**discharge** from hospital`
+**be admitted（to hospital）**　入院（★ 也是被动 —— 医院"收"你）　名词 **admission**
+　　`She **was admitted to** hospital on Monday.`
+**be referred to a specialist**　被转诊给专科（⇒ #0078 那一句就是这个块）
+**be transferred to another hospital**　转院
+**leave hospital**　出院（口语、最省事的说法）
+```
+⚠️ **英式零冠词**：`in hospital` · `admitted **to hospital**` · `leave **hospital**`
+　（说的是"住院这件事"本身）；美式才写 `in **the** hospital`。
+**判据（一句话）**：**医院放你走** ⇒ be discharged；**医院收你** ⇒ be admitted；
+**转给专科医生** ⇒ be referred；**换一家医院** ⇒ be transferred。
+⚠️ 与 **#0479**（康复一族，在池）分工写死：那条挑的是**"康复"这个名词挑哪一个**
+　（rehabilitation ／ recovery ／ physiotherapy），本条挑的是**进出医院这件事怎么说** ⇒ 两条，⛔ 不合并。
+⚠️ 与 **#0078**（医生／病人复数泛指，在池）交叉引用：它正文里的 `refer … to a specialist`
+　就是本条的成员③；但那条管的是**泛指用复数**，本条管**这个块本身** ⇒ 两条，⛔ 不合并。
+⚠️⚠️ **2026-09-09 收尾复查（§3.5 C3）加的分工**：`refer` 这一格已经有主人 —— **#0165**
+　（recommend patients to specialists → refer patients to specialists，🎓）。三问过下来⛔ 不合并
+　（#0165 的改正动作是"转诊该挑 refer 不是 recommend"，本条是"这一族四个块各管一格 ＋ 一律被动"；
+　 掌握 refer 不会让 be discharged／be admitted 自动对），但**本条的成员③ 从此只顺带、⛔ 不当主考点**，
+　 免得同一格被两条重复计账（§8④b 判词矛盾的预防）。
+
+**成员出题账**
+```
+① be discharged ／ discharge（名词）—— 2026-09-09 组1 第 6 题自发用对（`until discharge`）⇒ 留痕，⛔ 不算测过　★ 她点名要学
+② be admitted to hospital　—— 未出过　★ 优先测
+③ be referred to a specialist —— ⛔ **本条不单独测它**：refer 这一格已由 **#0165**
+　（recommend patients to specialists → refer patients to specialists，🎓）承担
+　⇒ 本条只在题面里顺带带过，⛔ 不拿它当主考点（2026-09-09 收尾复查 §3.5 C3 订正）
+④ be transferred to　　　　 —— 未出过　★ 优先测
+⑤ leave hospital ／ in hospital（英式零冠词）—— 未出过　★ 优先测
+```
+
+**怎么发现的**
+2026-09-09　D1 学习日 C6·组1 第 6 题（主考点 #0479，命中 ✅）。她自己写出
+`real recovery did not occur **until discharge**`，并当场括注**「出院的学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "discharge" "出院" "住院"   ⇒ **零命中**
+② 规则查  dedup "医院" "病人" "入院"         ⇒ 命中 #0060 #0073 #0080 #0011
+③ 眼过    ①零命中 ⇒ 跑 `list --fam F08`，全族没有讲进出医院这一族块的条目
+逐条否掉：
+  #0060（the patient … a larger hospital，🎓）· #0073（这里我想泛指该怎么写，🎓）·
+  #0080（病情加重就要立刻送医院，🎓）—— 三条的改正动作都是**数与泛指**（单数病人配单数医院），
+    本条是**这一族块该挑哪一个** ⇒ 三问第 1 问不成立，逐条否。
+  #0011（医生会告诉病人有更好的药，🎓）—— 命中的是正文里偶然出现的「病人」二字
+    ⇒ §3.5 误判2，否。
+  #0078（医生／病人复数泛指，在池）—— dedup 没捞到它，人工过一遍三问：那条管**泛指用复数**，
+    本条管**转诊／出院这些块本身**；它正文里的 `refer … to a specialist` 只是本条的成员③
+    ⇒ 第 1 问不成立，否，交叉引用。
+  #0479（康复一族，在池）—— 人工过一遍三问：那条挑的是**"康复"这个名词挑哪一个**，
+    本条挑的是**进出医院这件事怎么说** ⇒ 第 1 问不成立，否，交叉引用。
+    反向验（§3.5 1.3）：2026-09-09 她 rehabilitation／recovery 两格全对、discharge 也对，
+    但她自己说 discharge 要学 ⇒ 两格可独立取值。
+⇒ 新建，归 F08（词义/近义辨析），题型 整句（§3.5 第 2.5 步 ①：块里有动词，
+　 被动与介词只在句子里失守；且要在四个块里挑 ⇒ 词表型 ⇒ 一律整句）。
+```
+
+**我错在哪**
+她这次**没有错**（`until discharge` 用对了，名词形式与英式零冠词都对）——
+建号理由是 §2③ 她点名要学。缺口是**这一族其余成员** ＋ **进出医院一律走被动**。
+**找法**：写"出院／入院／转院／转诊"之前问一句 —— **这个动作是医院做的还是病人做的？**
+是医院做的 ⇒ 病人一侧一律用被动（be discharged ／ be admitted ／ be referred）。
+
+**中文触发点**
+这位病人是周一入院的，两周后转到了另一家医院；家属直到出院当天才接到通知。
+（★ 三处分别用 admit ／ transfer ／ discharge —— 语态与词形自己定）
+
+### 历史记录
+- 2026-09-09 ③ 建号（她点名要学）D1 学习日 C6·组1 第 6 题（顺带用对）
+  她写 `real recovery did not occur **until discharge**` —— 名词形式与零冠词都对。
+  当场括注「出院的学下」。
+  ⚠️ 同题主考点 #0479 三处全中 ✅（`rehabilitaion` 拼写按 §3.2 手滑豁免 ——
+  　 题面已把 rehabilitation 原样印出）。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+
+## #0484 董事会 ＝ the board（of directors）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**the board**　董事会（★ 单说 the board 就够，正式全称才写 **the board of directors**）
+　　`report to **the board**` · `a **board** member` · `a **board** meeting` · `sit on the board`
+　　`bring sth to **the board's** attention`（⇒ #0481 交叉引用）
+同一格里的邻居（别串）：
+**the management ／ senior management**　管理层（做日常经营的那批人）
+**the executives ／ the CEO ／ the chair**　高管团队／首席执行官／董事长
+**shareholders**　股东　　**a committee**　委员会（常设）　　**a panel**　临时评审组（⇒ #0411）
+```
+**判据（一句话）**：**公司最高的那个决策机构** ⇒ the board；**日常经营的那批人** ⇒ management；
+**临时凑起来评审的** ⇒ a panel（#0411）；**常设的分委会** ⇒ a committee。
+⚠️ 与 **#0411**（评审组 ＝ a review panel，在池·词组）分工写死：那条要背的块是 **panel**，
+　 本条要背的块是 **board** —— #0411 的正文只把 board 列成"同族邻居"，
+　 ⛔ 从来没出过题、也不是它的考点。
+
+**怎么发现的**
+2026-09-09　D1 学习日 C6·组1 第 8 题（主考点 #0481，命中 ✅）。她自己写出
+`the issue was first brought to the attention of **the board of directors** by an employee`，
+并当场括注**「董事会得背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "board" "董事会" "directors"   ⇒ 命中 #0411 #0442 #0314 #0481
+② 规则查  dedup "管理层" "股东" "机构名"         ⇒ 命中 #0080 #0419 #0458 #0465
+③ 眼过    ①②都有命中 ⇒ 未跑（B0 只在①②都零命中时要求）
+逐条否掉：
+  #0411（评审组 ＝ a review panel，在池·词组）—— 三问第 1 问不成立：那条要调出来的块是
+    **review panel**，本条是 **board**，两个不同的块。第 3 问也不成立：她 2026-09-01 就已经
+    自己写对过 panel、2026-09-03 又测中一次，而 09-09 仍然点名要背 board
+    ⇒ 掌握一个不会让另一个自动对 ⇒ 两条，交叉引用。
+  #0458（政府部门与监管机构，在池）—— 三问第 1 问不成立：那条挑的是**政府侧**的机构名
+    （department／authority／agency／regulator），本条是**公司内部**的治理机构 ⇒ 否。
+  #0465（人力指标一族，在池）· #0442（优先级一族，在池）· #0419（judge／judgement 一族，🎓）·
+  #0314（While 从句前置，🎓）· #0080（病情加重送医院，🎓）· #0481（引起注意一族，在池）
+    —— 命中的全是正文与中文触发点里偶然出现的字样 ⇒ §3.5 误判2，逐条否。
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、答案唯一、字面就是全部；
+　 契约⑬ 来源：**她点名要学的块** ✔；族 F08 不在禁族表里 ✔；⛔ 不挂成员出题账 ⇒ 不是词表型）。
+```
+
+**我错在哪**
+她这次**没有错**（`the board of directors` 写对了）—— 建号理由是 §2③ 她点名要背。
+**找法**：写"董事会"之前问一句 —— **是最高决策机构（the board），
+还是日常经营的管理层（management）？**
+
+**中文触发点**
+```
+董事会
+董事会成员
+```
+
+### 历史记录
+- 2026-09-09 ③ 建号（她点名要学）D1 学习日 C6·组1 第 8 题（顺带用对）
+  她写 `the issue was first brought to the attention of **the board of directors** by an employee`
+  —— 块写对了。当场括注「董事会得背下」。
+  ⚠️ 同题主考点 #0481 判 ✅（第三处她走的是 `come into public view`，见 session 判定表）。
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 
 ---
@@ -7852,7 +8157,7 @@ have already been borne　后果**已经**被承担了（完成）
   📋 顺带用对：`have been **borne**`（bear 的第三栏，是 R1 的高危格，她守住了）。
 
 ## #0473 相对时间一族：the year before last ／ the previous year ／ the year after next
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F09 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-09 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 中文的「去年／前年／第二年／前一年」是**两套坐标**，英语分得很死，⛔ 不能混用：
@@ -7924,6 +8229,13 @@ have already been borne　后果**已经**被承担了（完成）
   她写出 `the year before last`（「前年」）—— 正确。
   ⚠️ ⛔ 不算测过：本条是**今天组1 的反馈里刚教的**（她当时写的是 the year last year）
   ⇒ 按 §3.6「建号当天不回考」记 📝、⛔ 不推进 streak。下一个练习日它照常回队列。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 7 题　**连对 1**
+  她写 `This regulation was introduced **the year before last**; **the following year**, the number
+  of applicants doubled, whereas **the privious year** it had generated virtually no interest.`
+  两套时间坐标一格没串：the year before last 走"以今天为基准"那一排，
+  the following year ／ the previous year 走"以文中那一年为基准"那一排。
+  ⚠️ `privious` 拼写 —— 题面已把 previous 原样印出 ⇒ §3.2 豁免。
+  成员账：① the year before last ② the previous year ③ the following year 三格已落地。
 
 ---
 
