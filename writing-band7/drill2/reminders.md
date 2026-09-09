@@ -33,6 +33,15 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
    ★ 同句后半的 `remained` 已经把时间平面钉在过去 ⇒ 前半那个 -ed 掉了
    ★ 同日另外 35 处过去式／完成体全对（dropped · permitted · limited · failed · notified ·
      rebounded · dipped · has remained · has issued · has risen …）⇒ 命中率 **1/36**
+
+2026-09-07 复检组2 第 8 题　`was piloted … and subsequently **extend** to the entire country`　→ `extended`
+   ★★ **本账第一次记到「并列结构里第二个分词」这个位置** —— 前半句的 `was piloted` 她写对了，
+     栽的是 `and` 之后那个共享 be 动词的过去分词（被动的 be 只写了一次，第二个分词就掉了 -ed）
+   ★ 高危形状写死：`be ＋ V-ed **and** ___` —— **and 后面那一格也必须是过去分词**
+   ★ 同日守住的：matured · does not allow · are required · has risen · spent · surged ·
+     remained · was piloted · were doubled · finalized · increasing —— 11 处
+   ⇒ 复检组2 **1 / 12**；同日别的四组（在池组1–5 · 复检组1）R1 **全部零命中**
+   ⇒ 全天 **1 / 60 左右**，是今天五个 R 项里命中率最低的一个
 ```
 **为什么不建条目**：她 08-19、08-20 两次写 `has doubled` 都对 ⇒ 规则在。
 
@@ -57,6 +66,36 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
      `the market share of this company **has** remained` · `the explanation … **has** remained` ·
      `Demanding results … **serves** no purpose` · `the skill levels … **vary**`
    ⇒ 长主语那一格今天零失守；掉的是一个**时间短语**上的 -s ⇒ 与 08-20 的"短句不设防"同源
+2026-09-07 组1 第 4 题　`The anxiety **are** widespread among recent graduates`　→ `is`
+   ★ 主语是不可数抽象名词 anxiety，谓语被后面的复数 `graduates` 拉走 —— 与 08-20 的
+     `the reward it yields are` 同一个形状（**短主语、复数就在眼前**）
+2026-09-07 组1 第 9 题　`support supervisory **mearsure** will not be put in place`　→ `measures`
+   ★ 这一处不是"该复数没复数"那么简单：**光杆可数名词单数、前面一个限定词都没有**
+     ⇒ 英语这个位置只有两条路，要么复数要么加冠词，她两条都没走
+2026-09-07 组2 第 8 题　`whereas only three **department** completed the rectification`　→ `departments`
+   ★ 「三个部门」中文明写了数量 ⇒ 英文必须复数；而且它又落在**主语位**上
+   ⚠️ 同题 `the government **have** no choice` **⛔ 不算本账命中** —— 英式英语里 government／
+     team／committee 当"那帮人"讲时配复数谓语完全成立（§5 四问自审① 反例造得出来）。
+     只是与同段的 `This hospital **has**` 不一致 ⇒ 进更好版，⛔ 不进 R2
+   ★★★ **今天三处命中全在句子的主语位上，且三处都不是长主语** ⇒ 08-20 那条读数
+     「**长句她会盯，短句不设防**」**第三次复现**，而且这次是同一天之内三连
+   ★ 同日守住的
+     组1：`three billion Hong Kong dollars` · `three editors` · `two quarters` ·
+     　　 `emission standards` · `the two generations` · `recent graduates` · `detail rules` ·
+     　　 `hearing-impaired students` · `lower grades` · `The new regulations` —— 10 处复数全对，
+     　　 `compensation` · `rectification` 两个不可数也都没加 -s ⇒ **2 / 14**
+     组2：`traffic restrictions` · `major roads` · `businesses` · `years` · `ideas` ·
+     　　 `family members` · `cities` · `technical positions` —— 8 处复数全对 ⇒ **1 / 9**
+2026-09-07 组5 第 2 题　`fell by half over three **year**`　→ `three years`
+   ★ 中文明写「三年」⇒ 数量词后面必须复数。这一处**不在主语位**（是时间状语里的量词），
+     与今天前三处（都在主语位）形状不同 —— 说明失控的格子不只主语那一个
+   ⚠️ 同题 `The data **shows**` **⛔ 不算命中** —— data 当集合名词配单数谓语在现代英语里通行
+     （学术写作更严的写法是 the data show），两种都不判错
+   ★ 组3 零命中、组4 零命中；组5 守住 7 处（waiting times · elderly individuals · Approvals ·
+     two weeks · the reasons · the next steps · patients）⇒ 组5 **1 / 8**
+   ⇒ **全天 4 / 31**（组1 2/14 · 组2 1/9 · 组3 0/9 · 组4 0/5 · 组5 1/8）
+     ★★ 与 08-30 的 R4（1/13）· 08-31 的 R5（1/8）同形：**整体在守、个别格失控**，
+     　 而且今天四处失控里三处在主语位、一处在数量词后 —— 都是"短、不显眼"的位置
 ```
 **🔴 2026-08-24 她的裁定：#0048 走乙路（移出复习池，只留 R2）**
 ```
@@ -246,6 +285,10 @@ R4    管【词类】：这个位置该站副词还是形容词
   ② 抽象名词泛指             education · public transport · air pollution
   ③ **比较级 ＋ 复数**泛指     younger people · richer countries（⇒ 与 #0031 交叉引用：
                               比较级前泛指、单数可数时用 a —— `a better chance` ✔）
+  ④ **表语位置的形容词前面**（2026-09-07 新增的形状）—— 后面根本没有名词，冠词无处可挂：
+                              ⛔ ~~are inherently **the** high-risk and high-cost~~
+                              ✔ `are inherently high-risk and high-cost`
+                              ★ 判法：`be ＋ ??? ＋ 形容词` ⇒ 中间那一格只许放副词，⛔ 不许放冠词
 ```
 **为什么放这里不建条目（§2⑤ 判据）**
 ```
@@ -275,4 +318,15 @@ R5                            管【复数／不可数泛指】：the younger pe
    ★ 同日同一份答案里 7 处冠词全对 ⇒ 命中率 **1/8**，与 R2 的 1/23、R4 的 1/13 同形
    ★ 失控的这一句同时扛着 #0348 的两个分词修饰位（Existing ／ growing）—— 与 R2 08-25、
      R4 08-30 的观察第三次同源：**一句里考点越多，构形格越容易掉**
+2026-09-07 组3 第 10 题　`are inherently **the** high-risk and high-cost` → 删掉 the
+   ★★ **本账第一次记到「表语形容词前面的 the」这个形状** —— 前两次（08-31 · 09-06）
+     多出来的 the 都挂在一个**名词**前面；这一次后面根本没有名词，冠词无处可挂
+     ⇒ 已把它补进上面「扫什么」的第 ④ 位
+   ★ 她 2026-09-03 写 `Projects of this nature are inherently high-risk` 时一个多余冠词都没有
+     ⇒ 规则本来就会，是压力下多出一个 ⇒ 判据仍然成立，⛔ 不建条目
+   ★ 同日三组冠词守住的：`a monetary reward` · `a separate levy` · `the criteria` ·
+     `a thirty-year mortgage` · `no separate paediatric ward` · `a handful of cities` ·
+     `the main reason for` · `the past decade` · `a specialist`（复数泛指零冠词 doctors／patients／
+     specialists 三处）· `public transport`／`private car ownership`（抽象名词泛指零冠词两处）
+   ⇒ 全天 R5 命中 **1 处**（组1 组2 各零命中）
 ```
