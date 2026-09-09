@@ -562,7 +562,11 @@ def drawn_rows(day):
     if not os.path.exists(DRAWN):
         return out
     for line in open(DRAWN, encoding="utf-8"):
-        p = line.strip().split("\t")
+        # ★ 只剥换行、⛔ 不 strip 整行：`used --used ""`（＝ 把这一组整组撤下来／整组免测）
+        #   写出来的最后一个字段是空的，line.strip() 会连那个制表符一起吃掉 ⇒ 只剩 3 段 ⇒
+        #   这一行被当成畸形行跳过 ⇒「后写覆盖先写」永远覆盖不掉（2026-09-09 实测：
+        #   第 1 组整组 ⚡ 免测，deliver 仍拿着上一行的 10 条去要三件套块）。
+        p = line.rstrip("\n").rstrip("\r").split("\t")
         if len(p) < 4 or p[0] != day or p[2] not in out:
             continue
         if p[2] == "弃":
@@ -1355,7 +1359,10 @@ def check_session(sc, only=None):
             elif len(blocks) != int(m.group(1)):
                 P.append((LV, loc,
                           f"标题写着 {m.group(1)} 题，节里只有 {len(blocks)} 个 `[n] #NNN ·` 三件套块"))
-            if not blocks:
+            # ★ 例外 ＝ 标题**自己写着 0 题**：整组被她 ⚡ 免测掉（§4③，她说免就免，无类型/队列限制）
+            #   ⇒ 一个块都没有是合法终局。⛔ 这不是放水：0 必须显式写进标题，
+            #   而"出了题却没写块"仍由上面的数目对比 ＋ drawn.log 对账（用 ⇄ 块）各挡一道。
+            if not blocks and (not m or int(m.group(1)) > 0):
                 P.append((LV, loc, "复习组节里一个三件套块都没有（§7 每题都要给，含全对的）"))
             seen = set()
             for b in blocks:
@@ -1405,7 +1412,8 @@ def check_session(sc, only=None):
             elif len(blocks) != int(m.group(1)):
                 P.append((LV, loc,
                           f"标题写着 {m.group(1)} 题，节里只有 {len(blocks)} 个 `[n]` 块"))
-            if not blocks:
+            # ★ 同上：标题自己写着 0 题 ＝ 整组 ⚡ 免测掉了，合法终局（§4③）
+            if not blocks and (not m or int(m.group(1)) > 0):
                 P.append((LV, loc, "复检组节里一个 `[n] #NNN` 块都没有"))
             cover, seen = 0, set()
             for b in blocks:
