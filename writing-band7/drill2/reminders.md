@@ -289,6 +289,12 @@ R4    管【词类】：这个位置该站副词还是形容词
                               ⛔ ~~are inherently **the** high-risk and high-cost~~
                               ✔ `are inherently high-risk and high-cost`
                               ★ 判法：`be ＋ ??? ＋ 形容词` ⇒ 中间那一格只许放副词，⛔ 不许放冠词
+  ⑤ **a ／ an 选错**（2026-09-10 新增的形状）—— ⚠️ **方向与①–④ 都不同**：
+                              前四个形状全是"**多**出来的 the"，这一个是**该用 an 却写了 a**
+                              ⛔ ~~functions as **a** exhibit~~　✔ `functions as **an** exhibit`
+                              ★ 判法：**看下一个词开头念出来是不是元音**（看发音不看字母）——
+                                元音音 ⇒ an：an exhibit · an hour · an MBA
+                                辅音音 ⇒ a：a university · a European · a one-off
 ```
 **为什么放这里不建条目（§2⑤ 判据）**
 ```
@@ -318,6 +324,20 @@ R5                            管【复数／不可数泛指】：the younger pe
    ★ 同日同一份答案里 7 处冠词全对 ⇒ 命中率 **1/8**，与 R2 的 1/23、R4 的 1/13 同形
    ★ 失控的这一句同时扛着 #0348 的两个分词修饰位（Existing ／ growing）—— 与 R2 08-25、
      R4 08-30 的观察第三次同源：**一句里考点越多，构形格越容易掉**
+2026-09-10 组3 第 4 题　`functions as **a** exhibit` → `**an** exhibit`
+   ★★ **本账第一次记到「a／an」这个形状**（新增第 ④ 位之后的第 ⑤ 位）——
+     前四个形状全是"泛指前多出来的 the"，这一处方向相反：**该用 an 却写了 a**
+   ★ ⛔ 不建条目的依据（§2⑤）：她低压场合写对过远不止两次 —— 档案里
+     `an outstanding`（10 次）· `an increase`（9）· `an employee`（7）· `an unpleasant`（6）·
+     `an accelerating`（6）· `an example`（5）· `an award`（5）· `an overpass`（4）·
+     `an inspection`（4）· `an additional`（3）· `an underpass`（2）· `an ageing`（2）
+     ⇒ 规则本来就会，是压力下掉的 ⇒ 与 R1 R2 R4 同一个机制
+   ★ 同日三组冠词守住的：`a consultant` · `The minimum wage`（带 the）· `a detour` ·
+     `a wealth of` · `a semester` · `a critical role` · `a priority` · `A restaurant`（泛指单数用 a）·
+     零冠词泛指：`global food security` · `sunlight` · `transport` · `law` · `company policy` ·
+     `urban traffic congestion` · `rural poverty` · `student safety`
+   ⇒ 全天 R5 命中 **1 处**（组1 组2 零命中，组3 1 处）
+
 2026-09-07 组3 第 10 题　`are inherently **the** high-risk and high-cost` → 删掉 the
    ★★ **本账第一次记到「表语形容词前面的 the」这个形状** —— 前两次（08-31 · 09-06）
      多出来的 the 都挂在一个**名词**前面；这一次后面根本没有名词，冠词无处可挂
