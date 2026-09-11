@@ -768,13 +768,32 @@ def check_entry(e, touched_lines=None, all_nums=None):
     return P
 
 
+def _strip_parens(s):
+    """去掉全部【括号提示】，只留题面**主体**。
+
+    ⚠️ 2026-09-11 上线当天就踩到：提示里常常带引号（`（"比方说"用 Say 起头）`／
+       `（别用"最重要的是…"起手）`），拿它们当题面本体去查"是不是完整句"⇒ 全是假阳性。
+       §6② 说得清楚：括号里是**提示**，不是要她产出的东西 ⇒ 形式检查⛔不看括号。"""
+    return re.sub(r"（[^（）]*）", " ", s or "")
+
+
+def _uniq(xs):
+    seen, out = set(), []
+    for x in xs:
+        if x not in seen:
+            seen.add(x)
+            out.append(x)
+    return out
+
+
 def prompt_quotes(e):
-    """题面里的全部引号句（元信息行 ＋ 合并条自成一段的编号句），逐字。"""
-    qs = list(prompt_pieces(e.prompt)[0])
+    """题面**主体**里的引号句（元信息行 ＋ 合并条自成一段的编号句），逐字，⛔ 不含括号提示里的。
+    ★ 去重：合并条的 e.prompt 本身就是整段、prompt_lines 又逐行列一遍 ⇒ 不去重每句会报两次。"""
+    qs = list(prompt_pieces(_strip_parens(e.prompt))[0])
     for l in e.prompt_lines:
         if RE_ITEM.match(l.strip()):
-            qs += prompt_pieces(l)[0]
-    return qs
+            qs += prompt_pieces(_strip_parens(l))[0]
+    return _uniq(qs)
 
 
 def prompt_parens(e):
@@ -782,7 +801,7 @@ def prompt_parens(e):
     for l in e.prompt_lines:
         if RE_ITEM.match(l.strip()):
             ps += prompt_pieces(l)[1]
-    return ps
+    return _uniq(ps)
 
 
 def check_ask(e):
@@ -800,6 +819,11 @@ def check_ask(e):
         return P
     if e.ask is not None and e.ask not in ASKS:
         P.append(("ERROR", f"题型「{e.ask}」非法 —— 只许 {'／'.join(ASKS)}（§6.0）"))
+        return P
+    if e.ask is None and e.status_raw and "题型" in e.status_raw:
+        # 写了「题型」二字却没被读出来 ＝ 写歪了（少了 ｜ 分隔、或值里带空格）⇒ 静默当成"没标"是最坏的结果
+        P.append(("ERROR", "状态行里有「题型」二字，脚本却读不出这一格 —— 写法写死 `｜ 题型 整句／词组／产出验`"
+                           "（前面要有 ｜，值不带空格）；写歪 ＝ 静默按整句读，正是 #26 那种漏"))
         return P
     if e.ask is None:
         if e.created and e.created >= ASK_FROM and not e.graduated:
@@ -822,7 +846,9 @@ def check_ask(e):
             if not q.rstrip().endswith(SENT_END):
                 P.append(("ERROR", f"题型是整句，题面引号句却不是完整句：「{q}」—— "
                                    f"整句题面必须有主语、能独立成句、句末标点收尾（§6.5⑥）"))
-    elif e.ask == ASK_OUTPUT and M_NOREVIEW not in e.marks and not e.graduated:
+    elif (e.ask == ASK_OUTPUT and M_NOREVIEW not in e.marks and not e.graduated
+          and not (e.marks & {M_MORPH, M_ONLYLOG})):
+        # 形态类（只记 ⚪、永不出题）天然就是产出验的一种 ⇒ 标了 产出验 不需要再提醒
         P.append(("WARN", "题型 产出验 ⇒ 不出中译英题、只在自由产出里判（＝ 旧标记「复习组停出」）；"
                           "题面字段留着当「挂什么抓」的说明就行"))
     return P

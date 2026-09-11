@@ -29,9 +29,11 @@ def make_pending(k=K_PENDING, r=N_RELAPSE):
     #   夹具要的是"两个方向都有活干"这个**形状**，不是真档案今天的状态。
     def _is_grad(b):
         return any(lab.RE_STATUS.match(l) and "🎓" in l for l in b.body)
-    settled = [b for b in pb if _is_grad(b)]
-    pb = [b for b in pb if not _is_grad(b)]
-    gb = sorted(gb + settled, key=lambda b: b.num)
+    settled = [b for b in pb if _is_grad(b)]          # 当天刚毕业、还没 migrate 的
+    relapsed = [b for b in gb if not _is_grad(b)]     # 当天刚回潮、还没 migrate 的
+    pb = [b for b in pb if not _is_grad(b)] + relapsed
+    gb = sorted([b for b in gb if _is_grad(b)] + settled, key=lambda b: b.num)
+    pb = sorted(pb, key=lambda b: b.num)
     assert len(gb) > k + r, "graduated.md 里条目不够造夹具"
     take = gb[:k]                       # 前 k 条搬回 problems.md（仍是 🎓 ⇒ 该被搬走）
     rest = gb[k:]
@@ -48,12 +50,19 @@ def make_pending(k=K_PENDING, r=N_RELAPSE):
     relapse = [b.num for b in rest[:r]]
     for b in rest[:r]:
         # ❌ 行要插在 `- 备注` 之前（契约⑤：日期行不许写在备注块之后）
+        # ★ 日期必须**晚于这一条已有的全部日志行** —— 写死一个 2026-09-05 会在
+        #   "这条今天刚被判定过"时与「上次」对不上（2026-09-11 实证：夹具自带 ERROR）。
+        seen = [m.group(1) for l in b.body for m in [lab.RE_HIST.match(l)] if m]
+        day = "2026-09-05"
+        if seen and max(seen) >= day:
+            y, mo, dd = map(int, max(seen).split("-"))
+            day = f"{y:04d}-{mo:02d}-{dd + 1:02d}"      # 同月内 +1 天，够用
         at = next((i for i, l in enumerate(b.body) if lab.RE_NOTE.match(l)), len(b.body))
-        b.body = b.body[:at] + ["- 2026-09-05 ❌ 回潮（测试夹具）",
+        b.body = b.body[:at] + [f"- {day} ❌ 回潮（测试夹具）",
                                 "  夹具造的回潮行，仅用于测试。"] + b.body[at:]
         for i, l in enumerate(b.body):
             if lab.RE_STATUS.match(l):
-                b.body[i] = "状态 连对0 连错1 上次2026-09-05 未毕业"
+                b.body[i] = f"状态 连对0 连错1 上次{day} 未毕业"
                 break
     gtext = lab.join_file(gh, rest, gt)
     return ptext, gtext, [b.num for b in take], relapse
