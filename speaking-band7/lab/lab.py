@@ -89,6 +89,18 @@ M_NOREVIEW = "复习组停出"          # §6    只在自由产出里判
 M_MERGED = "合并条·出题多句覆盖"    # §3.2c 出题必须多句覆盖全部成员
 M_STUBBORN = "顽固"
 
+# ── 题型（SKILL §6.0，她 2026-09-11 定：比照写作线契约②第 7 格）──────────────
+#   这条【怎么被行使】是**存在档案里的数据**，⛔ 不是每次出题当场重判一次。
+#   状态行写 `｜ 题型 词组`；不写这一格 ＝ 整句（存量就是这么算的，不用回标）；
+#   旧标记 `⛔ 复习组停出` ≡ 题型 产出验（等效，出题时一律跳过）。
+ASK_SENTENCE, ASK_PHRASE, ASK_OUTPUT = "整句", "词组", "产出验"
+ASKS = (ASK_SENTENCE, ASK_PHRASE, ASK_OUTPUT)
+ASK_FROM = "2026-09-11"      # 这天**起**新建的条目，状态行必须自己写出题型；更早的缺格不报
+RE_ASK = re.compile(r"｜\s*\**题型\s*([^\s｜*]+)")
+# 词组题的提示里 ⛔ 不许出现的字眼 —— 它们把要她产出的形式从【块】改成了【句】（§6② 红线）
+ASK_PHRASE_BAN = ("当主语", "说一句", "一句话", "整句", "完整句", "说完")
+SENT_END = ("。", "！", "？", "!", "?")
+
 # ══════════════════════════════════════════════════════════════════════════
 #  召回梯子（SKILL §3.5，她 2026-09-05 定）—— 一条梯子，毕业线只是中间一格
 #
@@ -173,6 +185,8 @@ class Entry:
         self.start = start            # 1-based
         self.end = None
         self.kind = None              # 类型字段（词组/搭配/语法/结构/词汇…）
+        self.created = None           # 元信息「新建 YYYY-MM-DD」（旧 B 表迁移的没有）
+        self.ask = None               # 状态行「题型」格原文；None ＝ 没写这一格（§6.0）
         self.prompt = None            # 题面字段（首行的正文）
         self.prompt_lines = []        # ★ 题面整块：合并条的题面常常自成一段、多行（§3.2c）
         self.status_raw = None
@@ -192,14 +206,28 @@ class Entry:
         return self.grad is not None
 
     @property
+    def ask_kind(self):
+        """题型（§6.0）。状态行没写这一格 ⇒ 整句；旧标记「复习组停出」⇒ 产出验（等效）。"""
+        if self.ask:
+            return self.ask
+        if M_NOREVIEW in self.marks:
+            return ASK_OUTPUT
+        return ASK_SENTENCE
+
+    @property
+    def no_ask(self):
+        """不出中译英题的（§3.5 剔除口径）：题型 产出验，或旧标记「复习组停出」。"""
+        return self.ask == ASK_OUTPUT or M_NOREVIEW in self.marks
+
+    @property
     def active(self):
         """会参与出题/统计的（排除墓碑）"""
         return not self.tomb
 
     @property
     def drawable(self):
-        """能进复习组的：未毕业 · 非墓碑 · 无「不召回／停出」标记"""
-        if self.tomb or self.graduated:
+        """能进复习组的：未毕业 · 非墓碑 · 无「不召回／停出」标记 · 题型不是产出验"""
+        if self.tomb or self.graduated or self.no_ask:
             return False
         return not (self.marks & {M_MORPH, M_ONLYLOG, M_SPELL, M_NOREVIEW})
 
@@ -208,6 +236,8 @@ class Entry:
         for m in (M_MORPH, M_ONLYLOG, M_SPELL, M_NOREVIEW):
             if m in self.marks:
                 return m
+        if self.ask == ASK_OUTPUT:
+            return M_NOREVIEW          # 题型 产出验 ≡ 复习组停出（§6.0），同一条剔除口径
         return None
 
     def judged_rows(self, upto=None):
@@ -334,7 +364,7 @@ class Entry:
         """会进召回队列的：非墓碑 ＋ 无「不召回／停出」标记。
         ⚠️ 与 drawable 的唯一差别 ＝ **毕业条目照样在队列里**
         （她 2026-09-05 定：毕业不是冻结，只是在梯子上往上一格）。"""
-        if self.tomb:
+        if self.tomb or self.no_ask:
             return False
         return not (self.marks & {M_MORPH, M_ONLYLOG, M_SPELL, M_NOREVIEW})
 
@@ -417,6 +447,9 @@ def parse_file(path, src):
             pm = re.search(r"题面\s*(.*?)(?:\s*｜|$)", raw)
             if pm:
                 cur.prompt = pm.group(1).strip()
+            cm = re.search(r"新建\s*(20\d\d-\d\d-\d\d)", raw)
+            if cm:
+                cur.created = cm.group(1)
             continue
 
         m = RE_STATUS.match(raw)
@@ -440,6 +473,9 @@ def parse_file(path, src):
             for mk in (M_MORPH, M_ONLYLOG, M_SPELL, M_NOREVIEW, M_MERGED, M_STUBBORN):
                 if mk in body:
                     cur.marks.add(mk)
+            mo = RE_ASK.search(body)
+            if mo:
+                cur.ask = mo.group(1)
             continue
 
         m = RE_HIST.match(raw)
@@ -691,10 +727,11 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "状态行读不出「上次<YYYY-MM-DD|—>」"))
     if e.kind is None:
         P.append(("WARN", "缺「类型」字段（`类型 X ｜ 题面 …`）"))
-    if not e.graduated and not e.prompt:
+    if not e.graduated and not e.prompt and e.ask_kind != ASK_OUTPUT:
         P.append(("WARN", "未毕业却没有题面字段 —— 抽到它就必须当场补成完整中文句"))
     if not e.history and not e.graduated:
         P.append(("ERROR", "一条历史行都没有"))
+    P += check_ask(e)
 
     for h in e.history:
         hard = (e.src, h.lineno) in touched_lines or h.date >= STRICT_FROM
@@ -728,6 +765,66 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "在 graduated.md 里却不是 🎓 —— 回潮的条目必须搬回 problems.md"))
     if e.marks & {M_MORPH, M_ONLYLOG} and e.marks & {M_SPELL, M_NOREVIEW}:
         P.append(("WARN", "同时挂了两类「不召回」标记，口径重叠 —— 留一个就够"))
+    return P
+
+
+def prompt_quotes(e):
+    """题面里的全部引号句（元信息行 ＋ 合并条自成一段的编号句），逐字。"""
+    qs = list(prompt_pieces(e.prompt)[0])
+    for l in e.prompt_lines:
+        if RE_ITEM.match(l.strip()):
+            qs += prompt_pieces(l)[0]
+    return qs
+
+
+def prompt_parens(e):
+    ps = list(prompt_pieces(e.prompt)[1])
+    for l in e.prompt_lines:
+        if RE_ITEM.match(l.strip()):
+            ps += prompt_pieces(l)[1]
+    return ps
+
+
+def check_ask(e):
+    """→ [(level, msg)]　题型格（§6.0）与题面形式的一致性 —— 2026-09-11 她点名补的闸。
+
+    她的原话："词组只需要单次或者词组，整句（翻译）需要完全的句子"。
+    当天两条题面各破一边、审核表第 6 项照样打了 ✅ ⇒ 只写在 skill 里的规则挡不住，
+    这一条必须是机器闸：
+      · 题型 词组 ⇒ 引号句⛔带句号；提示⛔含「当主语／说一句…」（提示不许改变产出形式，§6②）
+      · 题型 整句 ⇒ 引号句必须以句末标点收尾（＝ 完整句的机器代理；有没有主语仍靠人）
+      · 题型格缺 ⇒ ASK_FROM 起新建的报 ERROR；存量按整句读、不报（同写作线的口径）
+    ⛔ 存量（没写题型格的）**不跑形式检查** —— 那是回标的活，不是报错的活。"""
+    P = []
+    if e.tomb:
+        return P
+    if e.ask is not None and e.ask not in ASKS:
+        P.append(("ERROR", f"题型「{e.ask}」非法 —— 只许 {'／'.join(ASKS)}（§6.0）"))
+        return P
+    if e.ask is None:
+        if e.created and e.created >= ASK_FROM and not e.graduated:
+            P.append(("ERROR", f"状态行缺「题型」格 —— {ASK_FROM} 起新建的条目必须自己写出"
+                               f"`｜ 题型 整句／词组／产出验`（§6.0）"))
+        return P
+    qs, ps = prompt_quotes(e), prompt_parens(e)
+    if e.ask == ASK_PHRASE:
+        for q in qs:
+            if any(ch in q for ch in SENT_END):
+                P.append(("ERROR", f"题型是词组，题面引号句却带句号：「{q}」—— "
+                                   f"词组题的题面是【块】不是句（§6.1）"))
+        for p in ps:
+            hit = [b for b in ASK_PHRASE_BAN if b in p]
+            if hit:
+                P.append(("ERROR", f"题型是词组，提示里却写着「{hit[0]}」：（{p}）—— "
+                                   f"提示把要她产出的形式从块改成了句（§6② 红线：提示⛔不许改变产出形式）"))
+    elif e.ask == ASK_SENTENCE:
+        for q in qs:
+            if not q.rstrip().endswith(SENT_END):
+                P.append(("ERROR", f"题型是整句，题面引号句却不是完整句：「{q}」—— "
+                                   f"整句题面必须有主语、能独立成句、句末标点收尾（§6.5⑥）"))
+    elif e.ask == ASK_OUTPUT and M_NOREVIEW not in e.marks and not e.graduated:
+        P.append(("WARN", "题型 产出验 ⇒ 不出中译英题、只在自由产出里判（＝ 旧标记「复习组停出」）；"
+                          "题面字段留着当「挂什么抓」的说明就行"))
     return P
 
 
@@ -1806,7 +1903,8 @@ def cmd_prompts(args):
             print(f"   #{n:<5} ⛔ 这一条没有【类型 … ｜ 题面 …】元信息行（{loc}）")
             continue
         off = e.raw.index(meta) + 1
-        print(f"   #{n:<5} {e.src}:{e.start + off}")
+        print(f"   #{n:<5} {e.src}:{e.start + off}　｜　题型 {e.ask_kind}"
+              + ("" if e.ask else "（⚠️ 未标 · 按整句读 —— 发题前先回标状态行，§6.0）"))
         print(f"          {meta}")
         if e.prompt_lines:
             print(f"          ↓ 题面自成一段（合并条 §3.2c）⇒ **整段逐字复制，一句都不许少**")
@@ -2181,6 +2279,15 @@ TYPES = [
     ("selfpass",  "⚡ 自评免测过", "日志里有 ⚡ 行（§4③ 校准数从这里数）",        lambda e: bool(e.selfpassed())),
     ("selfpass-fell", "⚡ 之后又掉过", "★ **自评校准数**：⚡ 之后还出现过 ❌/📖 ⇒ 那一票没兑现",
                                                                 _selfpass_fell),
+    # ── 题型类（§6.0，状态行「题型」格；三个相加 ＝ 全档总数）──────────
+    ("ask-sentence", "题型·整句",   "状态行「题型」＝ 整句，**或没写这一格**（默认，存量就是这么算的）",
+                                                                lambda e: e.ask_kind == ASK_SENTENCE),
+    ("ask-phrase",   "题型·词组",   "状态行「题型」＝ 词组 —— 中文块 → 英文块（§6.1）",
+                                                                lambda e: e.ask_kind == ASK_PHRASE),
+    ("ask-output",   "题型·产出验", "状态行「题型」＝ 产出验，或旧标记「复习组停出」（等效）⇒ 不出中译英题",
+                                                                lambda e: e.ask_kind == ASK_OUTPUT),
+    ("ask-unmarked", "题型·未标",   "状态行没写「题型」格（按整句读；抽到时回标，付息日 c 段清）",
+                                                                lambda e: e.ask is None and not e.tomb),
     # ── 题面类 ───────────────────────────────────────────────────
     ("prompt-todo", "题面待补",   "元信息里没有「题面」字段或为空 ⇒ ⛔ 出不了题", lambda e: not e.prompt),
     # ── 来源类 ───────────────────────────────────────────────────
@@ -2285,8 +2392,17 @@ def cmd_count(args):
 # ══════════════════════════════════════════════════════════════════════════
 def bundlable(e):
     """能不能进打包题（§6.1）。
-    ⛔ 合并条（§3.2c 出题须多句覆盖）与**题面待补**的条目永不打包 —— 它们各占一题。"""
-    return e.kind in BUNDLE_KINDS and M_MERGED not in e.marks and bool(e.prompt)
+    ⛔ 合并条（§3.2c 出题须多句覆盖）与**题面待补**的条目永不打包 —— 它们各占一题。
+    ★ 题型格（§6.0）说了算：标了「词组」的打包，标了「整句」的不打包；
+      没标的（存量）沿用旧口径 —— 类型 ∈ 词组/词汇/搭配 才打包。"""
+    if M_MERGED in e.marks or not e.prompt:
+        return False
+    ask = getattr(e, "ask", None)          # 测试夹具的 FakeE 可能没这个字段 ⇒ 当没标
+    if ask == ASK_PHRASE:
+        return True
+    if ask == ASK_SENTENCE:
+        return False
+    return e.kind in BUNDLE_KINDS
 
 
 def bundle(cands):
@@ -2341,10 +2457,11 @@ def card(e, why, full=False):
     st = f"🎓 rc{e.rechecks()}" if e.graduated else f"连对{ok} 连错{bad}"
     if e.pulled_back():
         st += " ｜🔙 她说没底·顶到队首"
+    ask = f"题型 {e.ask_kind}" + ("" if e.ask else "（未标·按整句读 ⇒ 发题前回标）")
     out = [f"  #{e.num:<4d} [{e.kind or '—'}] {e.title[:60]}",
            f"        {st} ｜ 有效上次 {e.eff_last() or '—'} ｜ {why}"
            + (f" ｜ {mk}" if mk else ""),
-           f"        题面 {(e.prompt or '⚠️ 待补 —— 抽到就当场补成完整中文句')[:70]}"]
+           f"        {ask} ｜ 题面 {(e.prompt or '⚠️ 待补 —— 抽到就当场补成完整中文句')[:70]}"]
     if M_MERGED in e.marks:
         out.append("        ⚠️ 合并条：本次出题**必须多句覆盖全部成员**（§3.2c②），只出一句 ＝ 违规")
     if full:

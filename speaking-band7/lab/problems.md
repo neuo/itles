@@ -337,7 +337,7 @@
 
 ### 135 · 中文的"社会/大家/人们"→ 英语常用 there is 或被动吃掉
 类型 结构 ｜ 题面 "社会对年轻人期待太高。" ／ "大家都觉得这样不对。"（两句都 ⛔ 不许用 society／everyone／people 当主语） ｜ 旧号 B222
-状态 连对1 连错0 上次2026-09-10 未毕业 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-11 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
 - 2026-08-13 ✅（📊 当日记在 B222）
 - 2026-08-16 ✅
 - 2026-09-05 📝 复检第 4 组 [1] 自发命中留痕（🎓 冻结，只留痕、⛔ 不推进数字）
@@ -354,6 +354,9 @@
   `① young people are facing high expectations ② there is widespread agreement that this is wrong.`
   ★ ① 把受事提上主语位、把"社会"整个吃掉；② 正是本条点名的 there is。09-09 回潮后第一次通过。
   ⚠️ ① 漏了"太高"的"太"那一层（只剩"有很高的期待"）—— 归 diff-2 的 ⚠️，⛔ 不影响本条考点判定
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `young people are facing expectations that are too high. / There is a general sense that this is wrong`
+  —— 两句都没让 society／everyone／people 当主语：① young people 提上来当主语 ② 走 There is ⇒ 连对2 **毕业**
+  ⚠️ 更好版 are facing → face（长期普遍状况用简单现在时）· There is → There's（口语缩读）
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
 类型 语法 ｜ 题面 "他昨天没看见我，也没跟我说他要走。" ｜ 旧号 B236
@@ -403,8 +406,8 @@
 - **检查触发**：写完 a／an／this／these（**加 many／a lot of／these 这一类**），立刻看后面那个名词的尾巴
 
 ### 186 · leave a mess（⭐ 她自产）
-类型 词组 ｜ 题面 "东西乱丢一地"（**人**当主语说 · "乱丢一地"用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make） ｜ 旧号 B97
-状态 连对1 连错0 上次2026-09-10 未毕业 ｜ **回潮 2026-09-09**（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）
+类型 词组 ｜ 题面 "东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw） ｜ 旧号 B97
+状态 连对2 连错0 上次2026-09-11 ｜ **回潮 2026-09-09**（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
 - 2026-08-09 ✅
 - 2026-08-13 ◎ 题面没逼出
 - 2026-08-15 ✅
@@ -420,11 +423,22 @@
     ⛔ 未点名 leave、⛔ 未点名 mess（那是考点本身，§6② 红线）。
 - 2026-09-10 ✅ 复习 · 在池第 1 组 · `he left a mess`（另给了 `he left his stuff scattered around`）
   ★ 09-09 答"忘了"回潮，本场题面补了「三个词的块」＋ 排除 make 之后，块整个调出来了
+- 2026-09-11 📝 题面整改：排除项补 `／throw` · 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
+  `He throws stuff around.` ＝ 三个词的块、人当主语、不含已排除的词 ⇒ **完全合法且符合题面**，
+  却把 leave a mess 整个绕开（§6 第二译法白测）⇒ 补进排除项。
+  ⛔ 仍未点名 leave、⛔ 仍未点名 mess（那是考点本身，§6② 红线）
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `he left a mess` —— 块整个调出来（不是 make／throw）⇒ 连对2 **毕业**
+  ★ 发出时题面括号里带「**人**当主语说」，与词组题主体打架（她当场点出）⇒ 同日 📝 整改；
+    毛病是形式不是映射，考点 100% 被测到 ⇒ 按 §3.3 硬顺序记 ✅、⛔ 不记 ◎
+- 2026-09-11 📝 题面整改：删「**人**当主语说」，恢复成纯词组题 · 她当场点出（原话："词组只需要单次或者词组，整句（翻译）需要完全的句子"）
+  旧 "东西乱丢一地"（**人**当主语说 · "乱丢一地"用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
+  新 "东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
+  ⇒ 考点 leave a mess 一个块就覆盖得了 ⇒ 词组题；「人当主语说」这个提示把要她产出的形式改成了整句 ⇒ 越界，删
 
 ### 261 · 这一小撮抽象名词不可数：action／feedback／advice／information／knowledge／research／progress
 类型 语法 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
 题面（7 句，七个不可数名词各一句 —— 她 08-20 错的是 action 和 feedback，只出这两个就会漏掉其余五个）
-　① "风险小了，大家就更愿意干。"（"更愿意干"用 **take ＋ 一个名词** 说）　　→ take action
+　① "风险小了，大家就更愿意干。"（"更愿意干"用 **take ＋ 一个名词** 说 · ⛔ 不许用 steps／measures）　　→ take action
 　② "得到正反馈"（用 feedback 说）　　　　　　　　　　　　　　　　→ positive feedback
 　③ "一些建议"（用 advice 说）　　　　　　　　　　　　　　　　　　→ some advice
 　④ "更多信息"（用 information 说）　　　　　　　　　　　　　　　　→ more information
@@ -434,7 +448,7 @@
 　　★ 本条 2026-08-20 当天由「take action 一个块」**改写成规则条**：
 　　　同一天两处（take actions ／ good feedbacks）规则完全相同 ＝「这类抽象名词不加 -s」，
 　　　按【判重三档·同一条规则→同一条】合成一条，避免每碰到一个不可数名词就开一个新号
-状态 连对0 连错1 上次2026-09-10 未毕业 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-07**（08-23 她指定毕业 → 09-07 复检七个成员六个对、`take actions` 又加了 -s，与 08-20 首犯同一个成员，撤销毕业、连对清零。★ action 是本条顽固成员 ⇒ 下个付息日按 §3.2c③ 单拆，老条目剩六个成员照常走连击）
+状态 连对1 连错0 上次2026-09-11 未毕业 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-07**（08-23 她指定毕业 → 09-07 复检七个成员六个对、`take actions` 又加了 -s，与 08-20 首犯同一个成员，撤销毕业、连对清零。★ action 是本条顽固成员 ⇒ 下个付息日按 §3.2c③ 单拆，老条目剩六个成员照常走连击）
 - 2026-08-20 新建 · 复习#85 句里 · `they are more willing to take actions` → take action
 - 2026-08-20 ❌ **自由产出**（新题 bank:187）· `can get good feedbacks` → feedback
   ⚠️ 同一篇第 1 句她写的是 `the feedback`（对）⇒ **不是不知道，是产出时没检查**
@@ -485,6 +499,11 @@
   ★ 08-20 建号那天她掉的是 `take actions` 与 `good feedbacks`（都是加 -s）；这次 -s 没再加，
     改成在 feedback 前面加了 a ⇒ 同一条规则的另一侧（不可数名词也不带不定冠词）
   ⚠️ 本条状态行带「顽固」：连对1 → 归零，连错1
+- 2026-09-11 📝 题面整改：① 句补排除项 `⛔ 不许用 steps／measures` · a 段第 1 组发题前审核（§6.5 第 7 项）
+  `take steps`／`take measures` ＝ **take ＋ 一个名词**、完全符合题面①，
+  但那两个名词本身可数（见下方备注），答出来一次都测不到 action 不可数这个考点 ⇒ 白测。
+  ⛔ 仍未点名 action（考点本身，§6② 红线）
+- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："3. 直接过"）
 - 备注 判据：take **action** 是固定块，action 在这个意义上**不可数**；
   同族的 take **steps**／take **measures** 才有复数（steps／measures 本身可数）
 - **检查触发**：写完一个抽象名词，先问它在不在这张表里，在表里就把 -s 去掉
@@ -507,7 +526,7 @@
 　　　整个交出去，测了信息量为零；改成"点 mind 的形容词形式"后 ——
 　　　挡掉 `be careful about`／`keep an eye on`／`watch` 三条合法绕路（它们都不测本条），
 　　　同时留着她掉过的那条错路 `be mind of` ⇒ 考点存活
-状态 连对0 连错1 上次2026-09-10 未毕业 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-11 未毕业 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `they need be **mind** of how often and how much`
   → need to be **mindful** of…
 - 2026-08-25 ✅ 复习第1组（题面当天改点名后首测）· `parents should be **mindful of** how often and how much they give.`
@@ -530,6 +549,8 @@
   ★ 同族全是「形容词 ＋ of」：be careful of／be aware of／be mindful of ⇒ ⛔ 不能把名词塞进 be ___ of。
   ★ 08-25／08-26 连续两天她都自己从词根 mind 派生出了 mindful ⇒ 那两次 ✅ 是真的；
     隔了 15 个练习日再测，派生这一步没跑起来，直接把名词 mind 塞进了 be ___ of 的槽。
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `be mindful of how often and how much you give`
+  —— mind → mindful 派生这一步跑起来了（昨天写成 be mind of 回潮的）⇒ 连对1
 - 备注 判据：
 ```
 mind 只有名词（心思）和动词（介意）用法；**"留心着点"的形容词是 mindful**
@@ -554,7 +575,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 
 ### 322 · play WITH sth（玩"东西"一律带 with）
 类型 搭配 ｜ 题面 "孩子在玩他们的玩具。"（"玩"用 **play** 说） ｜ 新建 2026-09-07
-状态 连对1 连错0 上次 2026-09-09 未毕业
+状态 连对2 连错0 上次 2026-09-11 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ⚡ 自评免测；§4③ ⚡ 够 2 ＝ 她行使直接指定毕业）
 - 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
   `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
   → playing **with** them ／ played **with** the toys
@@ -562,6 +583,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
     （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
     ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
 - 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
+- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："6. 直接过"）⇒ 连对1 → 连对2 **毕业**（§4③：⚡ 够 2 ＝ 她行使直接指定毕业）
 - 备注 判据：
 ```
 玩"东西"     play **with** sth      play with toys ／ play with the dog ／ play with your phone
@@ -590,8 +612,8 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
-类型 结构 ｜ 题面 "聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说） ｜ 新建 2026-09-07
-状态 连对1 连错0 上次 2026-09-09 未毕业
+类型 结构 ｜ 题面 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说） ｜ 新建 2026-09-07
+状态 连对2 连错0 上次 2026-09-11 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）
 - 2026-09-07 📝 首犯 · 新题第 1 道（自由产出 · bank:975 P3 · Do you think smart children are happier than other children?）·
   `smart enough to know **they actually want** and how to reach their gold`
   → to know **what** they actually want and how to reach their goals
@@ -600,6 +622,13 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
     第一个的 what 吞掉了 ⇒ 不是"不知道要用 wh"，是并列时第一个被跳过。
 - 2026-09-09 ✅ 复习 · 在池第 2 组 · `Smart enough to know exactly what they want and how to get it.`
   —— 嵌入疑问的两个 wh 词（what／how）都没被吞，后面都是陈述语序；"到底" 用 exactly 落位
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `smart enough to know what he wants and how to get it.`
+  —— know 后面并列的两个嵌入疑问 what／how 一个没吞 ⇒ 连对2 **毕业**
+  ★ 发出时题面缺主语（"聪明到知道…"），她自己补了 he —— 教练的锅，⛔ 不扣分；同日 📝 整改
+- 2026-09-11 📝 题面整改：补主语「他」· 她当场点出（原话："整句（翻译）需要完全的句子"）
+  旧 "聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
+  新 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
+  ⇒ 考点靠句子现形 ⇒ 整句题 ⇒ §6.5⑥ 要求有主语、能独立成句；旧题面正是那条的反例形状
 - 备注 判据：
 ```
 know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分都要有自己的 wh 词领头**：
@@ -763,7 +792,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 334 · the cause OF sth（⛔ cause for）
 类型 搭配 ｜ 题面 "空气污染的主因"（用 **cause** 说 · ⛔ 不许用 reason／source） ｜ 新建 2026-09-10
-状态 连对0 连错0 上次— 未毕业
+状态 连对1 连错0 上次2026-09-11 未毕业
 - 2026-09-10 📝 新建 · 新题 bank:956 自由产出（P3）· 触发原话
   `But generally speaking, they'not the main **cause for** air pollution.`
   条目内容：**cause OF sth** ＝ 某事的**起因** —— the main cause **of** air pollution／the cause **of** the fire。
@@ -771,6 +800,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   cause for celebration。⇒ 说"某个现象的原因"永远是 **of**。
   ⚠️ 同族**反向**：reason 配 **for**（the reason **for** the delay）—— cause 与 reason 的介词是反的，
   这是最容易互相串的一格。
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `the main cause of air pollution.` —— cause 配 OF（首测）⇒ 连对1
 - 判重结论 全档 grep `cause of|cause for|the cause` ⇒ 只命中 graduated.md:2359（#173 备注里的
   `Because of those two hours…`，考点是评价句的 be 动词槽，与本条无关）⇒ 保留（⛔ 建号当天不测）
 

@@ -23,6 +23,15 @@ def make_pending(k=K_PENDING, r=N_RELAPSE):
     """→ (problems.md 文本, graduated.md 文本, 待搬编号, 回潮编号)"""
     ph, pb, pt, _ = lab.split_file(os.path.join(LAB, "problems.md"))
     gh, gb, gt, _ = lab.split_file(os.path.join(LAB, "graduated.md"))
+    # ★★ 先把真档案**此刻**待搬的 🎓 归位（§0.1.6「测试⛔不许依赖真档案的内容」）：
+    #   收尾 migrate 之前的白天，problems.md 里本来就躺着当天刚毕业的几条 ⇒
+    #   "恰好 k+r 条换了文件"会被这几条撑爆（2026-09-11 实证：4 条当日毕业 ⇒ M1/M5 红）。
+    #   夹具要的是"两个方向都有活干"这个**形状**，不是真档案今天的状态。
+    def _is_grad(b):
+        return any(lab.RE_STATUS.match(l) and "🎓" in l for l in b.body)
+    settled = [b for b in pb if _is_grad(b)]
+    pb = [b for b in pb if not _is_grad(b)]
+    gb = sorted(gb + settled, key=lambda b: b.num)
     assert len(gb) > k + r, "graduated.md 里条目不够造夹具"
     take = gb[:k]                       # 前 k 条搬回 problems.md（仍是 🎓 ⇒ 该被搬走）
     rest = gb[k:]

@@ -82,6 +82,11 @@ diff-2  最小改 I need a box to put these things in.
 def sess(d, text, name="2026-09-09.md"):
     p = os.path.join(d, "sessions", name)
     open(p, "w", encoding="utf-8").write(text)
+    # ★★ 合成 session ⇒ 真 drawn.log 必须清空（§0.1.6「测试⛔不许依赖真档案的内容」）。
+    #   2026-09-11 实证：09-09 上线的「用⇄块」对账闸（§9.1④）拿真 drawn.log 里 09-09 的
+    #   「用」去对这份合成 session ⇒ D0/D4b/D7 共 9 条当场变红，而 lab.py 一行都没错。
+    #   需要流水的用例自己往 d/drawn.log 里写（test_gates 一直是这么做的）。
+    open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write("")
     return p
 
 
