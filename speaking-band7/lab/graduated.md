@@ -4400,8 +4400,27 @@ something to look forward **to** ／ a pen to write **with**。
      ③ 教练的动作只剩一个：**点出来 ＋ 复述检查触发**
 
 ### 139 · every / each / another / any(单指) 后面永远跟单数
-类型 语法 ｜ 题面 "每个学生" ／ "几乎任何问题" ｜ 旧号 B226＋B115
+类型 语法 ｜ 旧号 B226＋B115
 状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-15**（合并后重算）｜ 题型 词组
+
+**问题是什么**
+**every / each / another / any（单指）后面永远跟单数**：every student ／ almost any question。
+判据一句话：这四个词后面那个名词一律不带 -s。
+★ 本条 ＝ 原 #199（any ＋ 单数 ＝ 任何一个）2026-08-19 并入 —— 本条是全集，#199 只是其中 any 那一格。
+⚠️ 题面沿革：原题面"每个人都要签到。"与 🎓#143 的第一句完全相同 ⇒ 2026-08-19 换成只测"every ＋ 单数"的一句。
+
+**怎么发现的**
+旧 B 表迁移（B226＋B115，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ◎ 题面没逼出（原 #199）。
+2026-08-13 ✅ ／ 2026-08-15 ✅ ⇒ 连对 3、判毕业；2026-08-16 ✅。
+2026-09-11 ⚡ 自评免测。
+
+**我错在哪**
+她的：本条判定里没有掉过（08-09 那次是 ◎ ＝ 题面没逼出），触发原话未存。
+找法：写完 every／each／another／any，看后面那个名词的尾巴 —— 不许有 -s。
+
+**题面**
+"每个学生" ／ "几乎任何问题"
+
 - 2026-08-09 ◎ 题面没逼出（原 #199）
 - 2026-08-10 ✅（原 #199）
 - 2026-08-13 ✅（两条同日都 ✅）
@@ -4413,8 +4432,27 @@ something to look forward **to** ／ a pen to write **with**。
   （every/each/another/any 后面永远跟单数），#199 只是其中的 any 那一格
 
 ### 140 · I'd love（现在的意愿）≠ I love（长期喜好）
-类型 语法 ｜ 题面 **点名**："我很想试试"（"很想"用 **love** 说，⛔ 不许用 want） ｜ 旧号 B227
-状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19**
+类型 语法 ｜ 旧号 B227
+状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+
+**问题是什么**
+**I'd love（当下这件事的意愿）≠ I love（长期喜好）**：`I'd love to try it.`
+同一格里的邻居（别串）：really want 完全合法（08-16 她答的就是它）⇒ 题面点名"用 love 说，⛔ 不许用 want"。
+判据一句话：说**当下想做这件事** ⇒ I'**d** love to；说**一向喜欢** ⇒ I love。
+
+**怎么发现的**
+旧 B 表迁移（B227，2026-08-18），原始触发原话未存；最早记录 2026-08-13 ✅。
+2026-08-16 ◎ 她答 really want 完全合法 → 改点名。
+2026-08-19 ✅ 点名 · `I'd love to try it if I have a chance` ⇒ 毕业。
+2026-09-10 复检第 4 组 ✅ `I'd love to try it.`——**I'd** love ＝ 当下的意愿。
+
+**我错在哪**
+她的：本条没有掉过（08-16 那次是 ◎ ＝ 题面没逼出），触发原话未存。
+找法：说"很想试试"时前面那个 **'d** 不能丢 —— 丢了就成了"我一向喜欢"。
+
+**题面**
+**点名**："我很想试试"（"很想"用 **love** 说，⛔ 不许用 want）
+
 - 2026-08-13 ✅
 - 2026-08-16 ◎ 她答 really want 完全合法 → 改点名
 - 2026-08-17 ✅
@@ -4422,8 +4460,28 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-10 ✅ 复检 · 第 4 组 · `I'd love to try it.` —— **I'd** love ＝ 当下的意愿，⛔ 不是 I love
 
 ### 141 · 过去完成时必须有另一个更晚的过去事件当参照
-类型 语法 ｜ 题面 "我等了一小时他才来。" ／ "我们到的时候店已经关了。" ｜ 旧号 B228
-状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19**
+类型 语法 ｜ 旧号 B228
+状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+
+**问题是什么**
+**过去完成时必须有另一个更晚的过去事件当参照**：
+`the store **had already closed** by the time we got there.` ／ `I had waited half an hour **before he came**`。
+参照词 ✅ before ／ by the time ／ when ／ until ／ after ｜ ❌ and（并列，同一时间平面）。
+判据一句话：用 had done 之前先指出那个参照事件 —— 指不出来就退回一般过去式。
+★ 2026-08-13 教练用这条判错过一次，**她当场推翻**（until 本身就是参照点），成立。
+
+**怎么发现的**
+旧 B 表迁移（B228，2026-08-18），原始触发原话未存；最早记录 2026-08-15 ✅。
+2026-08-19 ✅ `I had waited half an hour before he came`（参照点 before he came 在场）⇒ 毕业。
+2026-09-10 复检第 4 组 ✅ 第二句的过去完成有参照事件（by the time we got there）。
+
+**我错在哪**
+她的：本条判定里没有掉过；08-13 那次是**教练判错**、被她当场推翻。触发原话未存。
+找法：写 had done 之前先找那个更晚的过去事件 —— 找不到就别用过去完成时。
+
+**题面**
+"我等了一小时他才来。" ／ "我们到的时候店已经关了。"
+
 - 2026-08-15 ✅
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `I had waited half an hour before he came`（参照点 before he came 在场）
@@ -4433,8 +4491,28 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 08-13 教练用这条判错一次，她当场推翻（until 本身就是参照点），成立
 
 ### 142 · 中文"连…都没/都不" → 否定放助动词上，even 跟在后面
-类型 结构 ｜ 题面 "他连一句话都没说。" ／ "我连他名字都不知道。"（两句都用 **even** 说） ｜ 旧号 B231
-状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19**
+类型 结构 ｜ 旧号 B231
+状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+
+**问题是什么**
+中文"连…都没／都不" → **否定放助动词上，even 跟在后面**：
+`He didn't **even** say a single word.` ／ `I don't **even** know his name.`
+同一格里的邻居（别串）：`He didn't say a word.` ／ `He didn't say a single word.` 都地道、也都符合旧题面，
+却把 **even 的位置**这个考点整个绕开 ⇒ 2026-09-10 题面补点名"两句都用 even 说"（⛔ 未说它该放哪儿）。
+判据一句话：否定挂在助动词上（didn't／don't），even 紧跟在它后面。
+
+**怎么发现的**
+旧 B 表迁移（B231，2026-08-18），原始触发原话未存；最早记录 2026-08-15 ✅。
+2026-08-19 ✅ `he didn't even say a word. I don't even know his name.`（两句都对）⇒ 毕业。
+2026-09-10 复检第 4 组 ✅ 两句位置都对 —— 本场发题前刚补的点名把这一格真正测到了。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：中文出现"连…都不"时，先把 not 挂到助动词上，再把 even 紧跟着放下去。
+
+**题面**
+"他连一句话都没说。" ／ "我连他名字都不知道。"（两句都用 **even** 说）
+
 - 2026-08-15 ✅
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `he didn't even say a word. I don't even know his name.`（两句都对）
@@ -4448,8 +4526,31 @@ something to look forward **to** ／ a pen to write **with**。
   ★ 本场发题前刚补的点名「两句都用 even 说」把这一格真正测到了：旧题面下 `He didn't say a word.` 就能过关
 
 ### 143 · 哪些动词后面要带 to（need to/want to/manage to；情态和 make/let/watch 不带）
-类型 语法 ｜ 题面 "每个人都要签到。" ／ "他让我等了半小时。" ｜ 旧号 B232
-状态 连对2 连错0 上次2026-09-09 ｜ **🎓 已毕业 2026-08-24**（08-19 曾毕业 → 08-24 回潮 → 同日两次 ✅ 重新毕业）
+类型 语法 ｜ 旧号 B232
+状态 连对2 连错0 上次2026-09-09 ｜ **🎓 已毕业 2026-08-24**（08-19 曾毕业 → 08-24 回潮 → 同日两次 ✅ 重新毕业）｜ 题型 整句
+
+**问题是什么**
+**哪些动词后面要带 to**：need to ／ want to ／ manage to 这一族带 **to**；
+情态动词和 make／let／watch 那一族**不带**（`he made me **wait**`）。
+判据一句话：need 作**实义动词**时后面一律带 to；make／let／watch ＋ 人，后面一律光杆原形。
+★ 与 🎓#16（让某人做某事四件套）是同一条规则的两个角度（#16 尾部 ⚠️ 已记，付息日 c 段处理）。
+
+**怎么发现的**
+旧 B 表迁移（B232，2026-08-18），原始触发原话未存；最早记录 2026-08-15 ✅。
+2026-08-19 ✅ `every one nedd to sign in` ＋ `he made me wait half en hour`（带 to／不带 to 两边都对）⇒ 毕业。
+2026-08-24 ❌ **回潮** · 自由产出（新题 bank:924 P3）· 触发原话 `they **need be** mind of how often and how much`；
+**同篇**另两处 ✅（`parents need to keep their promises` ／ `a way to get kids to do what parents want`）⇒ 当天重新毕业。
+★ 三记合起来的读法：同一段 128 词里带 to 的三处她对了两处 ⇒ 不是知识缺口，是 S1 那一处滑掉了。
+2026-09-09 复检第 3 组 ✅ `every one needs to check in / he made me wait for half an hour`。
+
+**我错在哪**
+她的：`they need be mind of how often and how much`（2026-08-24 自由产出）
+正确：`they **need to be** mindful of…`
+找法：写完 need 就问一句 —— 它是实义动词吗？是就补 to；make／let／watch 后面反过来一律不带 to。
+
+**题面**
+"每个人都要签到。" ／ "他让我等了半小时。"
+
 - 2026-08-15 ✅
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `every one nedd to sign in` ＋ `he made me wait half en hour`（带 to／不带 to 两边都对）
@@ -4467,8 +4568,31 @@ something to look forward **to** ／ a pen to write **with**。
   —— needs **to** check in（带 to）／ made me **wait**（不带 to）两边都对位；every one 只是拼写，§2.1 不算错
 
 ### 144 · so … that ／ too … to ／ very 的分工（too…that 不存在）
-类型 语法 ｜ 题面 **点名**："这剧太好看了，孩子一天不出门。" ／ "太贵了，我买不起。"（两句都用 so…that ／ too…to 这一族说） ｜ 旧号 B233
-状态 连对1 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这句话不要考了，直接毕业"）
+类型 语法 ｜ 旧号 B233
+状态 连对1 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这句话不要考了，直接毕业"）｜ 题型 整句
+
+**问题是什么**
+**so … that ／ too … to ／ very 的分工**（**too…that 不存在**）。
+判据：**后面跟"句子" → so…that ／ 跟"动作" → too…to ／ 只加强 → very**
+`It's **so** good **that** some kids stay at home all day.` ／ `It's **too** expensive **to** buy.` ／ `he must have been **really** tired.`
+判据一句话：先看那个程度词后面挂的是句子、动作，还是什么都不挂 —— 三条路各走各的。
+
+**怎么发现的**
+旧 B 表迁移（B233，2026-08-18）；最早记录 2026-08-15 ❌。
+2026-08-19 ❌ 触发原话 `it's too additive that some kids stay at home all day`——**too…that** 又出现。
+2026-08-20 ✅ 两半都对（so…that 跟句子／too…to 跟动作）⇒ 她当场指定毕业。
+2026-08-30 📝 `he must have been **too tired**.` ⇒ 按本条判据记备注、给更好版 really／very tired，
+**⛔ 不判回潮**（有上下文时那是成立的英语，档位是 ⚠️）；08-31 同一道题面她自己给出了 **really** tired。
+2026-09-05 复检 ✅ so good that …（跟句子）／ too expensive to buy（跟动作）。
+
+**我错在哪**
+她的：`it's too additive that some kids stay at home all day`（2026-08-19）
+正确：`It's **so** addictive **that** some kids stay at home all day.`
+找法：写完 so／too 先看后面挂什么 —— 挂整句用 so…that，挂动作用 too…to，什么都不挂就换 very／really。
+
+**题面**
+**点名**："这剧太好看了，孩子一天不出门。" ／ "太贵了，我买不起。"（两句都用 so…that ／ too…to 这一族说）
+
 - 2026-08-15 ❌
 - 2026-08-16 ✅（同日自由产出里首次用对：`so addictive that…`）
 - 2026-08-19 ❌ `it's too additive that some kids stay at home all day`——**too…that** 又出现
@@ -4503,19 +4627,55 @@ something to look forward **to** ／ a pen to write **with**。
   考点（so…that 跟句子 ／ too…to 跟动作 ／ too…that 不存在）一个字未动，两句都补成完整句。
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· so good that …（跟句子）／too expensive to buy（跟动作）
   —— 分工两边都对
-- 备注 判据：**后面跟"句子"→ so…that ／ 跟"动作"→ too…to ／ 只加强 → very**
 
 ### 145 · bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）
-类型 词汇 ｜ 题面 "把电脑带过来"（**一个动词**） ｜ 旧号 B234
-状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19**
+类型 词汇 ｜ 旧号 B234
+状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+
+**问题是什么**
+**bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）**：
+`**bring** your computer when you come tomorrow.`
+判据一句话：东西的终点是**说话人这边** ⇒ bring；从这儿拿走 ⇒ take；去了再折回来 ⇒ fetch。
+
+**怎么发现的**
+旧 B 表迁移（B234，2026-08-18），原始触发原话未存；最早记录 2026-08-16 ✅。
+2026-08-19 ✅ `bring your computer when you come tomorrow.` ⇒ 毕业。
+2026-09-10 复检第 4 组（打包）✅ `bring the computer`——"到我这儿"用 bring，⛔ 没用 take／fetch。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：说"带过来／带过去"前先定方向 —— 冲着我这边就是 bring。
+
+**题面**
+"把电脑带过来"（**一个动词**）
+
 - 2026-08-16 ✅
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `bring your computer when you come tomorrow.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `bring the computer` —— "到我这儿"用 bring，⛔ 没用 take／fetch
 
 ### 146 · know 是状态，不能表"得知"这个动作（find out／hear about）
-类型 词汇 ｜ 题面 **点名**："我是从新闻上知道这事的。" ／ "我后来才发现他早就走了。"（两句里"知道/发现"这个**动作**都不许用 know 说） ｜ 旧号 B235
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（连对2）
+类型 词汇 ｜ 旧号 B235
+状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+
+**问题是什么**
+**know 是状态，不能表"得知"这个动作** —— 那个动作要用 **find out ／ hear about ／ realise**：
+`I **found out** about it from the news` ／ `I only **realised** later that he'd left`。
+同一格里的邻居（别串）：the news 要带 the（on／from／in **the** news）。
+判据一句话：说的是"知道"的那**一瞬间** ⇒ find out／hear about／realise；说"一直知道"才是 know。
+
+**怎么发现的**
+旧 B 表迁移（B235，2026-08-18），原始触发原话未存；最早记录 2026-08-16 ❌、2026-08-17 ❌。
+2026-08-19 ✅ ／ 2026-08-20 ✅ 两句都用动作动词、know 一次没出现 ⇒ 连对 2，毕业。
+2026-09-05 复检 ✅ found out about this ／ realized later；2026-09-07 ⚡ 自评免测。
+
+**我错在哪**
+她的：08-16 与 08-17 各记过一次 ❌（触发原话未存，旧 B 表迁移）。
+找法：中文"知道了／发现"如果指的是那一瞬间，就别用 know —— 换 find out／realise。
+
+**题面**
+**点名**："我是从新闻上知道这事的。" ／ "我后来才发现他早就走了。"（两句里"知道/发现"这个**动作**都不许用 know 说）
+
 - 2026-08-16 ❌
 - 2026-08-17 ❌
 - 2026-08-19 ✅ 复习 · `I found out about it from the news` ＋ `I found he had gone`（两句都没用 know）
@@ -4528,8 +4688,30 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 the news 要带 the（on/from/in the news）—— 08-19 她自发带了 the；08-20 仍带对
 
 ### 148 · 状态用简单时，变化用完成时（He isn't familiar with it yet.）
-类型 语法 ｜ 题面 "他还不熟悉这套流程。" ／ "我认识他五年了。" ｜ 旧号 B237
+类型 语法 ｜ 旧号 B237
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+
+**问题是什么**
+**状态用简单时，变化用完成时**：`He **isn't** familiar with it yet.`（状态）／ `I'**ve known** him for five years.`（for ＋ 时长）。
+判据一句话：**for ＋ 时长／since ＋ 时点**强制完成时；单纯描述状态就用简单时。
+⚠️ 与 🎓#214 互斥写死（2026-09-05 c 段裁决）：
+　**状态动词（know／be）＋ for ⇒ 本条的完成时 ／ 动作动词（work／live）＋ for 且强调"一直在做" ⇒ #214 的完成进行时。**
+★ 与 🎓#90（完成时的三个触发）／🎓#91（具体时间点用过去式）三条互相引用、各走各的连击
+　（2026-08-19 判重结论：**不并入 #90** —— #90 已毕业不再召回、本条当时只测过一次，并进去等于把"状态 vs 变化"这个面埋掉）。
+★ 2026-08-16 她质疑并修正了教练的过度概括（always 不强制完成时），成立；真正强制的只有 for ＋ 时长／since ＋ 时点。
+
+**怎么发现的**
+旧 B 表迁移（B237，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `he isn't familiar with the process` ＋ `I've lived here for 5 years`（两边分工全中）⇒ 🎓 零 ❌ 线毕业。
+2026-09-11 复检 ✅ `he's not familiar with the process yet. / I've known him for five years.`
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：先看有没有 for ＋ 时长／since ＋ 时点 —— 有就切完成时；只是描述状态就用简单时。
+
+**题面**
+"他还不熟悉这套流程。" ／ "我认识他五年了。"
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `he isn't familiar with the process` ＋ `I've lived here for 5 years`
   （状态用简单时 ／ for ＋ 时长强制完成时，两边分工全中）
@@ -4548,8 +4730,26 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 08-16 她质疑并修正了教练的过度概括（always 不强制完成时），成立；真正强制的只有 for＋时长／since＋时点
 
 ### 149 · 动词后面别多加词（celebrate sth／discuss sth／marry sb／bring sb up）
-类型 搭配 ｜ 题面 **点名**："过节"（用 celebrate 说） ／ "把我带大"（用 bring 说） ｜ 旧号 B238
+类型 搭配 ｜ 旧号 B238
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+
+**问题是什么**
+**动词后面别多加词**：celebrate sth ／ discuss sth ／ marry sb ／ bring sb up ——
+`we usually **celebrate festivals** at home` ／ `**bring me up**`。
+判据一句话：这几个动词后面直接跟宾语，⛔ 中间不插介词。
+
+**怎么发现的**
+旧 B 表迁移（B238，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-21 ✅ 复习（点名题面首测）· `we usually celebrate festivals at home rather than eating out.` ⇒ 连对 2，毕业。
+2026-09-11 复检 ✅ `celebrate the holidays` ／ `bring me up`——两个动词后面都没多加词。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：写完 celebrate／discuss／marry 直接上宾语，⛔ 手别往介词上滑。
+
+**题面**
+**点名**："过节"（用 celebrate 说） ／ "把我带大"（用 bring 说）
+
 - 2026-08-17 ✅
 - 2026-08-21 ✅ 复习（点名题面首测）· `we usually celebrate festivals at home rather than eating out.`
   ——celebrate ＋ 直接宾语，后面没多加介词 → **连对2，毕业**
