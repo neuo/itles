@@ -9000,12 +9000,61 @@ besides him       ← 否定句里成立（No one besides me knows.），
 
 ### 271 · recently／lately／so far 这一族默认拉完成时（要用一般现在时就换成 these days）
 类型 语法 ｜ **合并条·出题多句覆盖**（§3.2c）｜ 新建 2026-08-23
-题面（2 句，一句测"副词拉完成时"、一句测"换副词保现在时"）
+状态 连对3 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-25** ｜ 题型 整句
+
+**问题是什么**
+**recently ／ lately ／ so far** 这一族默认**拉完成时**（要用一般现在时就换成 **these days**）。
+判据：
+```
+recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" ⇒ **拉完成时**
+   ✅ I haven't had much time recently.      ✅ Things have got busier lately.
+   ✅ We've done three so far.                ✅ It hasn't rained up to now.
+想用一般现在时 ⇒ 换成**指现在这个阶段**的副词：
+   these days ／ at the moment ／ right now ／ nowadays
+   ✅ I don't have much time these days.
+★ 判据一句话：**这个副词说的是"一段"还是"此刻"？** 一段 → 完成时；此刻 → 现在时
+★ 例外（不用改）：recently ＋ **过去时**说一个具体的点也成立 —— I saw him recently.（那次见面是个点）
+```
+★ 与 🎓**#90** 的分工写死（见下方备注）：**#90 ＝ for/since · ever/never/before · just/already/yet**
+　｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击。
+★ 与 **#259**（have 后面用过去分词）的分工：#259 管 have 后面动词**变什么形**（形态），
+　本条管"**要不要用完成时**" ⇒ 不同层。
+★ 与 **#269** 的分工（互斥写死，2026-09-05 定）：**带"最近/这阵子" ⇒ 本条（时态）；
+　不带时间副词 ⇒ #269（否定 ＋ much）**。
+
+**怎么发现的**
+2026-08-23 新建 · 付息日 a 段 · 复习 #269 句里 · 她写 `I don't have much time **recently**.`
+（→ I **haven't had** much time recently.）—— 副词是"一段"，动词却停在一般现在时。
+★ **从 🎓#90 摘出**（§3.2c ③：合并条里冒出没覆盖到的成员就单独摘出来，老的不动）
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `haven't had much time recently`（recently ⇒ 完成时）
+　② grep "完成时"／"recently"／"lately"／"these days" 全库（含已毕业）→
+　　 命中 **🎓#90**（完成时的三个触发：for/since · ever/never/before · just/already/yet）
+　　 · #259（have 后面用过去分词）· 🎓#130（can vs be able to）
+　③ 逐条读：**#90** 列的是"**哪些词触发完成时**"—— recently 是同一条规则的**第四组成员，
+　　 但它从来没被写进 #90**。按 §3.2c ③ 摘出成新条；**#90 已毕业、连对3，不动、不回潮**
+　　（她不能为一条从没写进条目里的成员被判退步）。
+　　 **#259** 管 have 后面动词**变什么形**（形态），不是"要不要用完成时" ⇒ 不同层。
+　　 **🎓#130** 管 can／be able to 的选择 ⇒ 无关
+　⇒ 保留新建。
+
+**我错在哪**
+她的：`I don't have much time **recently**.`　　正确：`I **haven't had** much time recently.`
+找法：句子里蹦出 recently／lately／so far 时，回头看动词 —— **have/has ＋ 过去分词 在不在？**
+不在 ⇒ 要么把动词拉成完成时，要么把副词换成 these days。
+
+**题面**
+★ 2 句，一句测"副词拉完成时"、一句测"换副词保现在时"
 　① **点名**："我最近没什么时间。"（用 **recently** 说）
 　② **点名**："这阵子东西贵了不少。"（用 **lately** 说）
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① I haven't had much time recently. ② Things have got a lot pricier lately.
-　★ **从 🎓#90 摘出**（§3.2c ③：合并条里冒出没覆盖到的成员就单独摘出来，老的不动）
-状态 连对3 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-25** ｜ 题型 整句
+
+**成员出题账**
+① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅
+② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅
+★ 题面外的两次**自发命中**（不出题、只留痕）：08-25 `over the past year`（拉完成时）·
+　08-26 `These days he's doing really well.`（判据的另一半，走现在时）⇒ 她调的是判据不是那几个词。
+
 - 2026-08-23 新建 · 付息日 a 段 · 复习#269 句里 · `I don't have much time **recently**.`
   → I **haven't had** much time recently.
 - 2026-08-24 ✅ 复习第1组 · **合并条 2 句整组首测，2/2 全对**（§3.2c）：
@@ -9037,40 +9086,43 @@ besides him       ← 否定句里成立（No one besides me knows.），
     今天 these days 走现在时）⇒ 判据本身已经在手，不是背词
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · 合并条 2 句：① `I haven't had much time recently.` ② `Things have got to a lot more expensive lately.` —— 两句都拉出完成时，考点 2/2
   ⚠️ ② `have got **to** a lot more expensive` 多了 to（get ＋ 形容词中间⛔不加 to），一次性滑手，⛔ 不落本条、不建号
-- 备注 判据：
-```
-recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" ⇒ **拉完成时**
-   ✅ I haven't had much time recently.      ✅ Things have got busier lately.
-   ✅ We've done three so far.                ✅ It hasn't rained up to now.
-想用一般现在时 ⇒ 换成**指现在这个阶段**的副词：
-   these days ／ at the moment ／ right now ／ nowadays
-   ✅ I don't have much time these days.
-★ 判据一句话：**这个副词说的是"一段"还是"此刻"？** 一段 → 完成时；此刻 → 现在时
-★ 例外（不用改）：recently ＋ **过去时**说一个具体的点也成立 —— I saw him recently.（那次见面是个点）
-```
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `haven't had much time recently`（recently ⇒ 完成时）
-  ② grep "完成时"／"recently"／"lately"／"these days" 全库（含已毕业）→
-     命中 **🎓#90**（完成时的三个触发：for/since · ever/never/before · just/already/yet）
-     · #259（have 后面用过去分词）· 🎓#130（can vs be able to）
-  ③ 逐条读：**#90** 列的是"**哪些词触发完成时**"—— recently 是同一条规则的**第四组成员，
-     但它从来没被写进 #90**。按 §3.2c ③ 摘出成新条；**#90 已毕业、连对3，不动、不回潮**
-     （她不能为一条从没写进条目里的成员被判退步）。
-     **#259** 管 have 后面动词**变什么形**（形态），不是"要不要用完成时" ⇒ 不同层。
-     **🎓#130** 管 can／be able to 的选择 ⇒ 无关
-  ⇒ 保留新建
 - 备注 与 🎓#90 的分工写死：**#90 ＝ for/since · ever/never/before · just/already/yet**
   ｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击
 
 ### 272 · litter 不可数（"乱扔垃圾" ＝ littering／dropping litter，不说 litters）
-类型 语法 ｜ 题面 **点名**："乱扔垃圾"（用 **litter** 那个词说） ｜ **从 #25 拆出 2026-08-23**
-　　★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"乱扔垃圾**罚**得挺重"里的"罚"
-　　　会把她逼向 `you get **fined for** littering` —— 那正是 **#273（fine sb FOR doing）的考点**，
-　　　两条同一天出会互相泄题。新题面去掉"罚"字，只留 litter 这一格
-　　★ 拆号理由（§3.1 一条＝一个考点）：#25 原来装了**三条不同规则** ——
-　　　litter 不可数 ／ fine sb FOR doing ／ It's no use doing。三块里只有第三块被反复验过，
-　　　前两块各只验过一次（08-19 那一句里），却跟着第三块一起毕业了 ⇒ 拆出来各走各的连击
+类型 语法 ｜ **从 #25 拆出 2026-08-23**
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-27**（连对2）｜ 题型 词组
+
+**问题是什么**
+**litter 不可数**（"乱扔垃圾" ＝ **littering**／**dropping litter**，⛔ 不说 litters）。
+判据：litter ＝ 地上的垃圾（不可数）｜ **litter 也能当动词**（乱扔）⇒ littering
+```
+✅ Don't drop litter.  ✅ a fine for littering  ✅ There's litter everywhere.
+✗ litters ／ ✗ a litter（a litter ＝ 一窝小动物，完全另一个意思）
+★ 同族：rubbish／trash／garbage 也都不可数
+```
+★ 与 **#261**（抽象名词不可数：action／feedback／…）的分工：那条管**抽象名词**那一小撮，
+　本条管 **litter 这个具体的词**（且它还有动词用法）⇒ 按 §3.2 词汇按具体词一条一号，不并。
+★ 与 **#273**（fine sb FOR doing）的分工：那是"罚"那一格的考点 ⇒ 本条题面已去掉"罚"字，两条不互相泄题。
+
+**怎么发现的**
+2026-08-17 ❌ ＝ #25 首次进流那次，**三块都没出来**（旧捆绑条时期，触发原话未存）；
+2026-08-19 在 `it is no use fining people for **littering**` 一句里第一次产出成功。
+★ 拆号理由（§3.1 一条＝一个考点）：#25 原来装了**三条不同规则** ——
+　litter 不可数 ／ fine sb FOR doing ／ It's no use doing。三块里只有第三块被反复验过，
+　前两块各只验过一次（08-19 那一句里），却跟着第三块一起毕业了 ⇒ 拆出来各走各的连击。
+判重：本条是**从 #25 拆出**（2026-08-23），不是新考点 ⇒ 走拆号程序、不走判重三步；
+与 #261 的分工见上（抽象名词一小撮 vs litter 这个具体词）。
+
+**我错在哪**
+她的：08-17 那次 litter 这一块**根本没产出**（原话未存）；目标形式一直是动名词 littering。
+正确：`littering` ／ `drop litter`（⛔ litters ／ ⛔ a litter）
+找法：说"垃圾"之前问一句 —— 这个词能数吗？litter／rubbish／trash 都不能 ⇒ ⛔ 不加 -s、⛔ 不加 a。
+
+**题面**
+**点名**："乱扔垃圾"（用 **litter** 那个词说）
+★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"乱扔垃圾**罚**得挺重"里的"罚"会把她逼向 `you get **fined for** littering` —— 那正是 **#273（fine sb FOR doing）的考点**，两条同一天出会互相泄题。新题面去掉"罚"字，只留 litter 这一格
+
 - 2026-08-17 ❌（＝ #25 首次进流那次，三块都没出来）
 - 2026-08-19 ✅ `it is no use fining people for **littering**`——litter 用作动名词、没加 -s，本块达成
   ★ 连击**不从 0 起算**：08-11 定"拆号不继承"的理由是"父号一次只测到多个考点中的一个"；
@@ -9087,20 +9139,41 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ★ 今天改题面的收益：旧题面"乱扔垃圾**罚**得挺重"会把她逼向 `fined for littering`，
     那是 #273 的考点 ⇒ 两条互相泄题。改后本条独立命中
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `littering` —— litter 当动词，⛔ 没写成 litters
-- 备注 判据：litter ＝ 地上的垃圾（不可数）｜ **litter 也能当动词**（乱扔）⇒ littering
-```
-✅ Don't drop litter.  ✅ a fine for littering  ✅ There's litter everywhere.
-✗ litters ／ ✗ a litter（a litter ＝ 一窝小动物，完全另一个意思）
-★ 同族：rubbish／trash／garbage 也都不可数
-```
 - 备注 与 #261（抽象名词不可数：action／feedback／…）的分工：那条管**抽象名词**那一小撮，
   本条管 **litter 这个具体的词**（且它还有动词用法）⇒ 按 §3.2 词汇按具体词一条一号，不并
 
 ### 274 · prepare FOR class（备课／备考，介词是 for；prepare sth ＝ 把东西准备好）
-类型 搭配 ｜ 题面 **点名**："备课"（用 prepare ＋ 一个介词说） ｜ **从 #41 拆出 2026-08-23**
-　　★ 拆号理由：#41 原来装了 time and energy（**并列词序**）＋ prepare for class（**介词搭配**）
-　　　两条不同规则；08-20 那次只验了前半，后半跟着毕业了 ⇒ 拆出来各走各的连击
+类型 搭配 ｜ **从 #41 拆出 2026-08-23**
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-27**（连对2）｜ 题型 词组
+
+**问题是什么**
+**prepare FOR class**（备课／备考，介词是 **for**；prepare sth ＝ 把东西准备好）。
+判据：**prepare 后面有没有介词，看宾语是"事"还是"东西"**
+```
+✅ prepare **for** class／for an exam／for the trip　← 为某件事做准备（事）
+✅ prepare dinner／prepare a presentation　　　　  ← 把某样东西做出来（东西）
+✗ prepare classes（＝ 把课本身做出来，不是备课）
+★ 口语更常说：get ready for class ／ plan his lessons
+```
+★ class 前不加冠词是对的（prepare for class ＝ 为"上课"这件事做准备）。
+★ 与母条 **#41** 的分工：#41 剩下的是 time and energy（**并列词序**），本条是 **prepare 的介词搭配** ⇒ 两条规则。
+★ 与 **#273**（fine sb FOR doing）撞车提醒：两条的答案介词**都是 for**，⛔ 不许相邻出题（会互相 priming）。
+
+**怎么发现的**
+2026-08-17 ❌ ＝ #41 首次进流那次（旧捆绑条时期，触发原话未存）；
+2026-08-19 在 `spend more time and energy **preparing for class**` 一句里第一次产出成功（介词 for 对）。
+★ 拆号理由：#41 原来装了 time and energy（**并列词序**）＋ prepare for class（**介词搭配**）
+　两条不同规则；08-20 那次只验了前半，后半跟着毕业了 ⇒ 拆出来各走各的连击。
+判重：本条是**从 #41 拆出**（2026-08-23），不是新考点 ⇒ 走拆号程序、不走判重三步。
+
+**我错在哪**
+她的：08-17 那次 prepare for class 这一块**根本没产出**（原话未存）。
+正确：`preparing **for** class`（⛔ prepare classes ＝ 把课本身做出来）
+找法：说完 prepare，看后面那个宾语 —— **是"一件事"还是"一样东西"？** 是事 ⇒ 补 for。
+
+**题面**
+**点名**："备课"（用 prepare ＋ 一个介词说）
+
 - 2026-08-17 ❌（＝ #41 首次进流那次）
 - 2026-08-19 ✅ `spend more time and energy **preparing for class**`——介词 for 对，本块达成
   ★ 连击继承理由同 #272
@@ -9112,20 +9185,40 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ★ 排位收益：本条与 #273 的答案介词**都是 for**，相邻会互相 priming；隔了 6 题她仍一次给对
     ⇒ 这个 for 是调出来的，不是刚看过的
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `prepare for class` —— 介词 for
-- 备注 判据：**prepare 后面有没有介词，看宾语是"事"还是"东西"**
-```
-✅ prepare **for** class／for an exam／for the trip　← 为某件事做准备（事）
-✅ prepare dinner／prepare a presentation　　　　  ← 把某样东西做出来（东西）
-✗ prepare classes（＝ 把课本身做出来，不是备课）
-★ 口语更常说：get ready for class ／ plan his lessons
-```
 
 ### 275 · whether 后面要跟【主谓】，不能只跟名词或形容词
-类型 结构 ｜ 题面 **点名**："我不确定这样做值不值。"（用 **whether** 说） ｜ **从 #64 拆出 2026-08-23**
-　　★ 拆号理由：#64 原来装了 forward or back（**固定词序**）＋ whether 后跟主谓（**从句结构**）
-　　　两条不同规则，而 #64 的题面（"谁都动不了，前进也不行后退也不行"）**根本测不到 whether 那一半**
-　　　⇒ whether 这块**从未被验过**却跟着毕业了 ⇒ 拆出来从 0 起算
+类型 结构 ｜ **从 #64 拆出 2026-08-23**
 状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-27**（同日两次产出各算一次，§3.3）｜ 题型 整句
+
+**问题是什么**
+**whether 后面要跟【主谓】，不能只跟名词或形容词**。
+判据：**whether／if 引导的是【从句】，从句必须有自己的主语和谓语**
+```
+✅ I'm not sure whether **it's worth it**.        ✅ It depends on whether **he turns up**.
+✅ whether **or not** it works                   ✅ I'll go whether **you come** or not.
+✗ I'm not sure whether worth.  ✗ It depends on whether possible.
+★ 想只跟一个词，就别用 whether，改成：I'm not sure **if it's worth it**／**about that**
+★ 与 🎓#59（嵌进句子里用陈述语序）配套：whether 从句同样**不倒装**
+  ✅ I'm not sure whether **he is** coming.（✗ whether is he coming）
+```
+★ 与母条 **#64** 的分工：#64 剩下的是 forward or back（**固定词序**），本条是 whether 的**从句结构** ⇒ 两条规则。
+
+**怎么发现的**
+本条是 **2026-08-23 从 #64 拆出**的：#64 原来装了 forward or back（**固定词序**）＋ whether 后跟主谓（**从句结构**）
+两条不同规则，而 #64 的题面（"谁都动不了，前进也不行后退也不行"）**根本测不到 whether 那一半**
+⇒ whether 这块**从未被验过**却跟着毕业了 ⇒ 拆出来从 0 起算。
+因此**本条没有首犯记录、触发句未存**；最早记录是 2026-08-27 付息日 b 段第 2 组 [2]
+（拆出后第一次被测到）：`I'm not sure whether **it is** worth it.` ✅。
+判重：拆号（走 §3.1 一条＝一个考点），不走判重三步。
+
+**我错在哪**
+她在本条上**没有留下过错例**（拆出来时这一块从未被验过，原话未存）；08-27 第一次被测就一次到位。
+正确：`I'm not sure whether **it is** worth it.`（⛔ whether worth ／ whether possible）
+找法：说出 whether 之后问一句 —— **后面跟上主语和动词了吗？** 只有一个词 ⇒ 换成 if it's … 或干脆不用 whether。
+
+**题面**
+**点名**："我不确定这样做值不值。"（用 **whether** 说）
+
 - 2026-08-27 ✅ 付息日 b 段第 2 组 [2]（**从 #64 拆出后第一次被测到**）·
   `I'm not sure whether **it is** worth it.`——whether ＋ **主谓**，不是只跟形容词 ⇒ 连对 0 → 1
 - 2026-08-27 ✅ **同日第 2 次 · 自发命中**（b 段第 2 组 [5] 的 #280 句里，本条未被出题）·
@@ -9150,22 +9243,40 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ⇒ 属**重复不属自发**，按 §4① 加速通道的边界（她 08-27 认可的那条）只记 ⚪，不当第 4 次命中
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（她原话："3. 直接过" —— 答卷上第二个"3."，按位置 ＝ 第 4 题）
 
-- 备注 判据：**whether／if 引导的是【从句】，从句必须有自己的主语和谓语**
-```
-✅ I'm not sure whether **it's worth it**.        ✅ It depends on whether **he turns up**.
-✅ whether **or not** it works                   ✅ I'll go whether **you come** or not.
-✗ I'm not sure whether worth.  ✗ It depends on whether possible.
-★ 想只跟一个词，就别用 whether，改成：I'm not sure **if it's worth it**／**about that**
-★ 与 🎓#59（嵌进句子里用陈述语序）配套：whether 从句同样**不倒装**
-  ✅ I'm not sure whether **he is** coming.（✗ whether is he coming）
-```
 
 ### 276 · for ages ／ in ages ＝ "很久"（for long 只用在"没持续多久"里）
-类型 词汇 ｜ 题面 **点名**："我跟他好久没见了。"（"好久"用 ages 那个词说） ｜ **从 #166 拆出 2026-08-23**
-　　★ 拆号理由：#166 原来装了 see／meet／meet up 的**分工**（选哪个动词）＋ for ages（**"很久"的量**）
-　　　两条不同规则。两块在 08-20 与 08-21 的同一句里都产出过两次 ⇒ **拆完两条都直接 🎓，零池成本**；
-　　　拆的意义在于：将来任一半掉了，只有那一半回潮，不拖累另一半
+类型 词汇 ｜ **从 #166 拆出 2026-08-23**
 状态 连对2 连错0 上次2026-09-11 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检里**同日两次产出**：不点名那次写成 `for long` ❌ ⇒ 撤销毕业、连对清零；点名那次写出 `in ages` ✅ ⇒ 连对回到 1。★ `for long` 这个错 08-19 已犯过一次，今天是**第三次**）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-05 回潮后第二次毕业）
+
+**问题是什么**
+**for ages ／ in ages** ＝ "很久"（**for long** 只用在"没持续多久"里）。
+判据：说"很久"这个**量** ⇒ for ages／in ages／for a long time
+```
+✅ I haven't seen him for ages. ／ in ages.    ✅ It's been ages.
+✗ for long —— 它只活在**否定句说"没持续多久"**里：I didn't stay for long.
+★ `hadn't met for long` 意思是反的（＝ 没认识多久），不是"很久没见"
+```
+★ 与母条 **#166** 的分工：#166 管 see／meet／meet up **选哪个动词**，本条管 **"很久"这个量**
+　⇒ 两条不同规则，将来任一半掉了只有那一半回潮。
+
+**怎么发现的**
+2026-08-17 ❌ ＝ #166 首次进流那次（旧捆绑条时期，触发原话未存）；
+2026-08-19 **同一个错第二次**：她写 `I haven't seen him **for long**`（该 for ages／in ages）。
+★ 拆号理由：#166 原来装了 see／meet／meet up 的**分工**（选哪个动词）＋ for ages（**"很久"的量**）
+　两条不同规则。两块在 08-20 与 08-21 的同一句里都产出过两次 ⇒ **拆完两条都直接 🎓，零池成本**；
+　拆的意义在于：将来任一半掉了，只有那一半回潮，不拖累另一半。
+★ 2026-09-05 回潮那次是**本日最值钱的一条数据**：同一分钟里，不点名的那句写成 `for long` ❌、
+　点了名"用 ages 那个词说"的那句写出 `in ages` ✅ ⇒ 缺口不在"会不会"，在**检索触发**。
+判重：拆号（走 §3.1 一条＝一个考点），不走判重三步。
+
+**我错在哪**
+她的：`I haven't seen him **for long**.`（08-19 ／ 09-05 两次同一个错）
+正确：`I haven't seen him **in ages**.` ／ `for ages`
+找法：中文"很久没…"一出现就问 —— 我说的是"**没持续多久**"吗？不是 ⇒ 用 **ages**，⛔ 别写 for long。
+
+**题面**
+**点名**："我跟他好久没见了。"（"好久"用 ages 那个词说）
+
 - 2026-08-17 ❌（＝ #166 首次进流那次）
 - 2026-08-19 ❌ **同一个错第二次**：`I haven't seen him **for long**`（该 for ages／in ages）
 - 2026-08-20 ✅ `we haven't seen each other **for ages**.`
@@ -9184,21 +9295,44 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ★ §3.3「同一天同一条被产出多次 ⇒ 每次各记一行、各算一次」：本条今天两行，先 ❌ 后 ✅，⛔ 不挑"以谁为准"。
 - 2026-09-07 ✅ 复习 · 在池第 1 组 · `I haven't seen him for ages / in ages` ⇒ 连对 2，**毕业**
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（她原话："5-9 直接过"）
-- 备注 判据：说"很久"这个**量** ⇒ for ages／in ages／for a long time
-```
-✅ I haven't seen him for ages. ／ in ages.    ✅ It's been ages.
-✗ for long —— 它只活在**否定句说"没持续多久"**里：I didn't stay for long.
-★ `hadn't met for long` 意思是反的（＝ 没认识多久），不是"很久没见"
-```
 
 ### 277 · 双面立论句型：It's mainly about A while B-ing（一句话同时给"要做的"和"要放的"）
-类型 结构 ｜ 题面 **点名**："关键是既要把规矩立起来，又要让他们自己去管。"（用 `it's mainly about … while …` **一句话**说完） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 题面 2026-08-27 微改（§6.5 审核项 8 题面撞车）：原题面后半"给孩子自己管的**空间**"
-　　　正是 **#278（give sb room）的考点** —— 她答本条时会顺手把 room 写出来。
-　　　改成"让他们自己去管"（letting them manage it themselves），只留本条的句型这一格
-　　★ 她的原话："这一整句子的句型…新建条目"（指 `Well, I'd say it's mainly about building good habits while giving kids room to manage themselves.`）
+类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
 　　※ 状态与日志见下（2026-08-27 首测通过）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+
+**问题是什么**
+双面立论句型：**It's mainly about A while B-ing**（一句话同时给"要做的"和"要放的"）。
+骨架：`(Well,) I'd say it's mainly about ＋【动名词/名词 A】while ＋【动名词 B】.`
+用途 ＝ P3 开场**一句话立两面**（详例见下方备注）。
+判据一句话：这道题要说"既要…又要…／两面都有"吗？要 ⇒ 上这个框架，两个空都填**动名词**。
+★ while 后面只能跟 **-ing 或形容词**，不能跟完整句（跟完整句要用 whereas／but）。
+★ 与 🎓**#58**（it mainly comes down to）／🎓**#207**（I'd say ＋"主要就是…"四条路径）的分工：
+　那两条管的是**起手块**（"主要就是…"这四个字用哪个说法）；本条管 **while 把第二面挂上去**这个**整句结构**
+　⇒ 目标形式不同（一个是短语，一个是双面句型）；**题面互斥**：#207 的题面是**单面**，本条题面必须是**两面**的。
+★ 与 **#283**（收尾句型）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ 首尾呼应。
+★ 与 **#278**（give sb room）的分工：那条考"空间"这个词 ⇒ 本条题面已于 08-27 去掉"空间"，两条互不泄题。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · 她自己写出
+`Well, I'd say it's mainly about building standard habits while giving kids room to manage themselves.`
+★ 她的原话："这一整句子的句型…新建条目"（指 `Well, I'd say it's mainly about building good habits while giving kids room to manage themselves.`）
+判重（当天新建复核）：① 目标形式 ＝ `it's mainly about A while B-ing`（**整句双面结构**）
+② grep "mainly about"／"comes down to"／"I'd say" 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）
+　 · **🎓#207**（I'd say ＋"主要就是…"四条路径）
+③ 逐条读：#58 和 #207 管的都是**起手块**（"主要就是…"这四个字用哪个说法）；
+　 本条管的是 **while 把第二面挂上去**这个**整句结构** ⇒ 目标形式不同（一个是短语，一个是双面句型）
+　 ⇒ 保留新建。**题面互斥**：#207 的题面"我觉得主要就是钱的问题"是**单面**；本条题面必须是**两面**的。
+
+**我错在哪**
+她这次没有错（这句型是她自己在 R1 第二版里产出来的），建号理由是 §2③ **她点名要学** ——
+她要的是把这**一整句的句型**固定下来，以后 P3 开场能直接调。
+找法：P3 开口前先问一句 —— 这题有没有两面？有 ⇒ `it's mainly about …**ing** while …**ing**` 一句话把两面都摆上。
+
+**题面**
+**点名**："关键是既要把规矩立起来，又要让他们自己去管。"（用 `it's mainly about … while …` **一句话**说完）
+★ 题面 2026-08-27 微改（§6.5 审核项 8 题面撞车）：原题面后半"给孩子自己管的**空间**"正是 **#278（give sb room）的考点** —— 她答本条时会顺手把 room 写出来。改成"让他们自己去管"（letting them manage it themselves），只留本条的句型这一格
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
   `Well, I'd say it's mainly about building standard habits while giving kids room to manage themselves.`
 - 2026-08-27 ✅ 付息日 b 段（题面当天微改后**首测**）·
@@ -9227,16 +9361,36 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 ★ while 后面只能跟 **-ing 或形容词**，不能跟完整句（跟完整句要用 whereas／but）
 ★ 天然和 #283（收尾句型）配套：开头立两面 → 收尾把两面排成先后 ⇒ 首尾呼应
 ```
-- 备注 判重（当天新建复核）：① 目标形式 ＝ `it's mainly about A while B-ing`（**整句双面结构**）
-  ② grep "mainly about"／"comes down to"／"I'd say" 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）
-     · **🎓#207**（I'd say ＋"主要就是…"四条路径）
-  ③ 逐条读：#58 和 #207 管的都是**起手块**（"主要就是…"这四个字用哪个说法）；
-     本条管的是 **while 把第二面挂上去**这个**整句结构** ⇒ 目标形式不同（一个是短语，一个是双面句型）
-     ⇒ 保留新建。**题面互斥**：#207 的题面"我觉得主要就是钱的问题"是**单面**；本条题面必须是**两面**的
 
 ### 278 · give sb room to do sth（给某人自己来的空间）
-类型 词组 ｜ 题面 **点名**："给孩子自己安排的空间"（"空间"用 **r-** 开头的那个名词说，⛔ 不用 space／freedom） ｜ 新建 2026-08-23（**她当场指定**）
+类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**give sb room to do sth**（给某人自己来的空间）。
+判据：
+```
+✅ give kids room to manage themselves ／ room to grow ／ room to make mistakes
+✅ 同族：leave room for … ／ there's room for improvement ／ no room for error
+★ room 在这个意思上**不可数、不带 a**（✗ a room to grow —— a room 是"一个房间"，完全另一个意思）
+★ 与 space 的分工：give them space 偏"别打扰他"；give them room 偏"让他自己发挥" —— 说成长用 room
+```
+判据一句话：说的是"让他自己去长／自己去做"吗？是 ⇒ **room**（不带 a）＋ to do。
+★ 与 **#277**（It's mainly about A while B-ing）的分工：#277 考整句框架 ⇒ 它的题面已于 08-27 去掉"空间"，
+　两条互不泄题。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · 她自己写出 `giving kids room to manage themselves`。
+判重：grep "room to"／"give …room"／"space to" 全库（含已毕业）→ **零命中** ⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（`giving kids room to manage themselves` 是她自己产出的），建号理由是 §2③ **她点名要学**。
+找法：想说"给他空间"时先问 —— 是"别打扰他"（space）还是"让他自己发挥"（room）？
+是后者 ⇒ **room**，⛔ 前面不加 a。
+
+**题面**
+**点名**："给孩子自己安排的空间"（"空间"用 **r-** 开头的那个名词说，⛔ 不用 space／freedom）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `giving kids room to manage themselves`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `you should give kids **room to** manage their own time.`
@@ -9246,22 +9400,45 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-08-28 ✅ 复习第2组 · `you need to give kids room to manage their own time.`
   ——room 不带冠词，正是这个块的形状 ⇒ 连对2，**毕业**
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 4 组（打包串里，她原话："其他的直接过"）
-- 备注 判据：
-```
-✅ give kids room to manage themselves ／ room to grow ／ room to make mistakes
-✅ 同族：leave room for … ／ there's room for improvement ／ no room for error
-★ room 在这个意思上**不可数、不带 a**（✗ a room to grow —— a room 是"一个房间"，完全另一个意思）
-★ 与 space 的分工：give them space 偏"别打扰他"；give them room 偏"让他自己发挥" —— 说成长用 room
-```
-- 备注 判重：grep "room to"／"give …room"／"space to" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 280 · make a huge difference（差别很大／很管用）
-类型 词组 ｜ 题面 **点名**："差别很大"（用 **make** 说 · ⛔ 不许用 different） ｜ 新建 2026-08-23（**她当场指定**）
+类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-08-30 ｜ **🎓 已毕业 2026-08-29**（连对2 ＝ 08-27 ＋ 08-29）｜ 题型 词组
 　　★★ **2026-08-30 撤销 08-28 的 ❌**（她当天裁定 `makes a huge different` ＝ 手滑，§2.1 拼写不算错）
 　　　 ⇒ 08-27 的连对1 没被清零，08-29 那次就已经是连对2 ⇒ **毕业日回填到 2026-08-29**。
 　　　 08-30 那次 ✅ 相应降为**毕业后留痕**（自发命中证据，不推进数字）。
 　　★ 与 🎓#156 同一处、同一个裁决，两条今天一起改判
+
+**问题是什么**
+**make a huge difference**（差别很大／很管用）。
+判据：
+```
+✅ make a **huge／big／real／massive** difference    ✅ It doesn't make much difference.
+✅ That made **all the** difference.（就是它起了决定作用，最强的一档）
+★ 动词是 **make**，不是 have／bring（✗ have a big difference ／ ✗ bring a big difference）
+★ 想说"对谁有差别"用 to：It makes a huge difference **to** kids.
+```
+判据一句话：这个块三样东西一起来 —— 动词 **make** · 冠词 **a** · 形容词档位（huge／big／real／massive）。
+★ 与 🎓**#156**（同根词：the difference／different ways）的分工：#156 管 difference／different 的**词形**
+　（前面有 the/a/of 就用名词形）；本条管 **make a … difference 这个块**（选哪个动词 ＋ 形容词档位）
+　⇒ 规则不同；同一处写歪时**两个号各判各的**（§3.3 标记打在条目上，不打在整句上）。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · 她自己写出
+`creating an organized environment makes a huge difference`；同日 R3 再现 `makes a massive difference`。
+判重：grep "difference" 全库（含已毕业）→ 命中 **#156**（同根词：the difference／different ways）
+逐条读：#156 管的是 difference／different 的**词形**（前面有 the/a/of 就用名词形）；
+本条管的是 **make a … difference 这个块**（选哪个动词 ＋ 形容词档位）⇒ 规则不同 ⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（08-23 两句都是她自己产出的、块一字不差），建号理由是 §2③ **她点名要学**。
+唯一一次写歪是 08-28 的 `makes a huge **different**` —— **已于 08-30 按她的裁决撤销**（她答"手滑"，
+§2.1 拼写不算错）⇒ 那一行改判为 📝，不进连错。
+找法：说出 make 之后，回头点三样东西 —— **make ＋ a ＋ 形容词 ＋ difference**（名词形，不是 different）。
+
+**题面**
+**点名**："差别很大"（用 **make** 说 · ⛔ 不许用 different）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `creating an organized environment makes a huge difference`
 - 2026-08-23 ⚪ 同日再现 · d 段重答 R3 · `upgrading to smart traffic systems makes a massive difference`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -9320,20 +9497,36 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
     · **#10**（主谓一致：whether 从句当主语 ⇒ 谓语单数 makes）—— 形态类 ⚪ 正面记号，一次到位
 - 2026-09-12 📝 题面整改：点名「用 make ＋ difference 说」→「用 make 说 · ⛔ 不许用 different」—— 原点名把块的两头都给了，中间只剩 a huge（§6② 红线一）· 全档题面 review
 
-- 备注 判据：
-```
-✅ make a **huge／big／real／massive** difference    ✅ It doesn't make much difference.
-✅ That made **all the** difference.（就是它起了决定作用，最强的一档）
-★ 动词是 **make**，不是 have／bring（✗ have a big difference ／ ✗ bring a big difference）
-★ 想说"对谁有差别"用 to：It makes a huge difference **to** kids.
-```
-- 备注 判重：grep "difference" 全库（含已毕业）→ 命中 **#156**（同根词：the difference／different ways）
-  逐条读：#156 管的是 difference／different 的**词形**（前面有 the/a/of 就用名词形）；
-  本条管的是 **make a … difference 这个块**（选哪个动词 ＋ 形容词档位）⇒ 规则不同 ⇒ 保留新建
 
 ### 281 · step back（往后退一步，不插手）
-类型 词组 ｜ 题面 **点名**："往后退一步"（用 step 说） ｜ 新建 2026-08-23（**她当场指定**）
+类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**step back**（往后退一步，不插手）。
+判据：
+```
+✅ Parents need to **step back** and let them try.   ✅ It's about **stepping back**.
+✅ take a step back（＝ 抽身看全局，略不同：偏"先别急，退开看看"）
+★ 与 back off 的分工：**step back ＝ 主动不插手**（中性/正面，说家长/领导放手）
+                      **back off ＝ 别管我**（带火气，是冲突语境）
+★ 与 let go 的分工：let go 更彻底（撒手不管）；step back 是"退一步但还在旁边"
+```
+同一格里的邻居（别串 · 08-27 记下的细微分工，不判错）：`step back` ＝ 退开、不插手（持续状态，最常用）；
+`take a step back` ＝ 退一步**重新看一看**（偏"跳出来审视"，常接 and look at it）⇒ 说家长别插手时 step back 更贴。
+判据一句话：副词是 **back**（⛔ 不是 aside／away），说的是"退开不插手"。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · 她自己写出 `Lastly, it's about stepping back.`
+判重：grep "step back"／"back off" 全库（含已毕业）→ **零命中** ⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（`Lastly, it's about stepping back.` 是她自己产出的），建号理由是 §2③ **她点名要学**。
+找法：说"别插手／放手"时先问 —— 是中性地"退开"吗？是 ⇒ **step back**（⛔ 不是 step aside／step away／back off）。
+
+**题面**
+**点名**："往后退一步"（用 step 说）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `Lastly, it's about stepping back.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `Sometimes parents need to **step back** / **take a step back**.`
@@ -9345,23 +9538,38 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
     ⇒ 说家长别插手时 `step back` 更贴
 - 2026-08-28 ✅ 复习第1组 · `parents sometimes need to **step back**.`—— 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `step back`
-- 备注 判据：
-```
-✅ Parents need to **step back** and let them try.   ✅ It's about **stepping back**.
-✅ take a step back（＝ 抽身看全局，略不同：偏"先别急，退开看看"）
-★ 与 back off 的分工：**step back ＝ 主动不插手**（中性/正面，说家长/领导放手）
-                      **back off ＝ 别管我**（带火气，是冲突语境）
-★ 与 let go 的分工：let go 更彻底（撒手不管）；step back 是"退一步但还在旁边"
-```
-- 备注 判重：grep "step back"／"back off" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
-类型 结构 ｜ 题面 **点名**："我觉得就是先把框架搭起来，再慢慢放手。"（用 `it's really about … first, and then …` **一句话**收尾） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 题面 2026-08-27 微改（§6.5 审核项 8 题面撞车）：原题面开头"**说到底就是**"
-　　　正是 **#284（boil down to sth）的中文触发词** —— 两条同一天出，中文一模一样、点名不同，
-　　　她要在两句之间来回切。改成"我觉得就是"，把这个触发词整个让给 #284
-　　★ 她的原话："收尾句型，新建条目"（指 `So overall, it's really about setting up the structure first, and then slowly letting them take control.`）
+类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+
+**问题是什么**
+收尾句型：**It's really about A first, and then B**（把前面几点排成先后，收成一条线）。
+骨架：`So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.`
+用途 ＝ P3 收尾一句把前面几点**排成先后顺序**（详例见下方备注），比"总之两点都重要"有力得多。
+判据一句话：四格一起验 —— 框架 ／ **first 的位置**（挂在 A 后面）／ **and then** ／ 两边都用动名词。
+★ 与 **#277**（双面开头）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ **首尾呼应**，P3 高分特征。
+★ 与 🎓**#58**／🎓**#207** 的分工：那两条管**起手**，本条管**收尾** ⇒ 位置不同。
+★ 与 **#284**（boil down to sth）的分工：中文触发词"说到底就是"整个让给 #284 ⇒ 本条题面已改成"我觉得就是"。
+★ ⛔ **不许标 So overall 叠词**（2026-08-23 当天撤回的教练假错，见下方备注最后一条）。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · 她自己写出
+`So overall, it's really about setting up the structure first, and then slowly letting them take control.`
+★ 她的原话："收尾句型，新建条目"（指 `So overall, it's really about setting up the structure first, and then slowly letting them take control.`）
+判重：grep "really about"／"收尾句"／"Overall" 全库（含已毕业）→ 只命中 #206 的日志行（书面词降级，
+与本条无关）与 🎓#58／🎓#207（那两条管**起手**，不管收尾）⇒ **零真命中，保留新建**。
+
+**我错在哪**
+她这次没有错（这句收尾是她自己在 R1 第二版里产出的），建号理由是 §2③ **她点名要学** ——
+她要把这**一整句的收尾句型**固定下来，以后 P3 收尾能直接调。
+找法：P3 最后一句开口前问一句 —— 前面那几点有没有**先后**？有 ⇒
+`it's really about …**ing** first, and then …**ing**`，⛔ 别收成"两点都重要"。
+
+**题面**
+**点名**："我觉得就是先把框架搭起来，再慢慢放手。"（用 `it's really about … first, and then …` **一句话**收尾）
+★ 题面 2026-08-27 微改（§6.5 审核项 8 题面撞车）：原题面开头"**说到底就是**"正是 **#284（boil down to sth）的中文触发词** —— 两条同一天出，中文一模一样、点名不同，她要在两句之间来回切。改成"我觉得就是"，把这个触发词整个让给 #284
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 ·
   `So overall, it's really about setting up the structure first, and then slowly letting them take control.`
 - 2026-08-27 ✅ 付息日 b 段（题面当天微改后**首测**）·
@@ -9387,8 +9595,6 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
    两个功能不同，不算叠）。判紧的根因 ＝ 拿书面冗余标准评口语（§2.3b 禁令）。**不许再标。**
 ★ 与 #277（双面开头）天然配套：开头立两面 → 收尾把两面排成先后 ⇒ **首尾呼应**，P3 高分特征
 ```
-- 备注 判重：grep "really about"／"收尾句"／"Overall" 全库（含已毕业）→ 只命中 #206 的日志行（书面词降级，
-  与本条无关）与 🎓#58／🎓#207（那两条管**起手**，不管收尾）⇒ **零真命中，保留新建**
 
 ### 284 · boil down to sth（说到底就是……）
 类型 词组 ｜ 题面 **点名**："说到底就是几样东西凑一块儿"（"说到底就是"用 **boil** 那个说法） ｜ 新建 2026-08-23（**她当场指定**）
