@@ -8262,8 +8262,30 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
   她当场抓来用了 ⇒ **迁移意识对，但块的使用对象没跟着记** —— 以后给同族清单时要连"对谁用"一起给
 
 ### 258 · at will（书面）→ whenever they feel like it
-类型 词组 ｜ 题面 **点名**："想什么时候来就什么时候来"（用 feel like 说一遍） ｜ 新建 2026-08-19（她指定要学）
+类型 词组 ｜ 新建 2026-08-19（她指定要学）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+
+**问题是什么**
+**at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
+同一格里的邻居（别串 —— 同一条「书面 → 口语」降级规则下的别的词对，本条只管 at will 这一对）：
+in order to → to · utilize → use · numerous → a lot of · purchase → buy · commence → start
+判据一句话：这个词我是在书上见的还是在嘴上说的？书面 ⇒ 换成 whenever sb feel(s) like it。
+★ 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+　本条是**一个具体的词对**（可以出中译英题）⇒ 两条各走各的。
+
+**怎么发现的**
+2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+—— 语法没错，是**她指定要学**的降级（§2③），教练给的口语版是 whenever they feel like it。
+判重：与 🎓#206（书面词降级总规则）比对 —— #206 只在自由产出里判、管的是整条规则，
+本条是一个具体词对、可以出中译英题 ⇒ 不重复，**判重通过**（见下方备注）。
+
+**我错在哪**
+她的：`if everyone ran red lights **at will**`　　正确：`if everyone ran red lights **whenever they felt like it**`
+找法：一个词要出口之前先问 —— 这是我在书上见的，还是嘴上说的？书上见的 ⇒ 换口语版。
+
+**题面**
+**点名**："想什么时候来就什么时候来"（用 feel like 说一遍）
+
 - 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
   ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
 - 2026-08-20 ✅ 复习（新建后首测）· `He comes here whenever he feels like it.`——目标块一字不差
@@ -8280,8 +8302,29 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
   本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
 
 ### 259 · 完成时：have/has/had 之后一律用【过去分词】（I've never BEEN able to）
-类型 语法 ｜ 题面 "我从来没能早起过。"（用现在完成时说） ｜ 新建 2026-08-20
+类型 语法 ｜ 新建 2026-08-20
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+
+**问题是什么**
+完成时：**have／has／had 之后一律用【过去分词】**（`I've never **been** able to`）。
+一句话判据：**看助动词是哪一类** —— 情态（can／will／should）后面不带任何标记；
+完成时的 have 后面必须带 **-ed／-en** 那个标记。
+同一格里的邻居（别串）：高频不规则 be→**been** ｜ go→**gone** ｜ do→**done** ｜ see→**seen** ｜ take→**taken** ｜ get→**got(ten)**
+★ 与 **#147** 的分工（互斥，⛔ 不许同组出题，见下方 ⚠️ 行）：#147 ＝ did／will／can／should／must 之后 → **原形**（couldn't **find**）；
+　本条 ＝ have／has／had 之后 → **过去分词** ⇒ 同一个决策点（"助动词后面动词变什么形"）的两个方向。
+
+**怎么发现的**
+2026-08-20 新建 · 复习 #130 句里 · 她写 `I've never **be** able to get up early`（→ **been**）。
+判重：建号当天未留判重记录（旧口径建号，B0 逐条判重是 2026-09-12 才立的规矩）；
+事后由下方 ⚠️ 行确认与 **#147** 是同一决策点的两个方向 ⇒ 两条互斥、不合并、不许同组出题。
+
+**我错在哪**
+她的：`I've never **be** able to get up early`　　正确：`I've never **been** able to get up early.`
+找法：写完 have／has／had，回头看下一个动词 —— **-ed／-en 那个标记带上了吗？**
+
+**题面**
+"我从来没能早起过。"（用现在完成时说）
+
 - 2026-08-20 新建 · 复习#130 句里 · `I've never **be** able to get up early` → **been**
 - 2026-08-21 ✅ 复习#130 句里 · `I've never been able to get up early.`——been 带对了，连错清零
 - 2026-08-23 ✅ 付息日 a 段 · `I've never been able to get up early.`——been 一字不差，连续第二次
@@ -8291,13 +8334,36 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
   **#147** ＝ did／will／can／should／must 之后 → **原形**（couldn't **find**）
   **本条** ＝ have／has／had 之后 → **过去分词**（I've **been**／he's **gone**／I've **done**）
   ⇒ 她两次掉的都在"助动词后面动词变什么形"这个决策点上，只是方向不同 ⇒ **不许同组出题**
-- 备注 一句话判据：**看助动词是哪一类** —— 情态（can/will/should）后面不带任何标记；
-  完成时的 have 后面必须带 -ed／-en 那个标记
 - 备注 高频不规则：be→been ｜ go→gone ｜ do→done ｜ see→seen ｜ take→taken ｜ get→got(ten)
 
 ### 260 · 中文的"这事／这个东西"→ it／this／about it（不要 the thing）
-类型 词汇 ｜ 题面 "知道这事"（"这事"不许用 the thing 说） ｜ 新建 2026-08-20
+类型 词汇 ｜ 新建 2026-08-20
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 词组
+
+**问题是什么**
+中文的"这事／这个东西"→ **it／this／about it**（⛔ 不要 **the thing**）。
+判据：中文的"这事/那个东西"是**空指代**，英语用代词 it／this／that 顶上去；
+the thing 在英语里指"那个具体物件"，拿来指抽象的事会很怪。
+同一格里的邻居（别串 —— 常配的介词）：find out **about** it ／ know **about** it ／ hear **about** it ／ talk **about** it
+★ 与 **#150**（限定词与数一致，形态类）的分工：#150 掉的是【数】，本条掉的是【选词】（该用代词却搬了个名词）⇒ 两条并存。
+★ 与 **#157**（直译搭配）的分工：#157 管动词/形容词搭配，本条管空泛名词 ⇒ 目标形式不同。
+
+**怎么发现的**
+2026-08-20 新建 · **同一天两次** · 复习 #75 句里 `no one knows **the thing**, other than him`
+＋ 复习 #146 句里 `I found out **the thing** from the news`。
+判重（当天新建复核）：grep "the thing" 全库（含已毕业）→ 命中 #150（限定词与数一致，
+08-19 她把"这些东西"写成 the thing）。**区别**：#150 掉的是【数】（形态类），
+本条掉的是【选词】（该用代词却搬了个名词）⇒ 两条并存。
+另比 #157（直译搭配）：#157 管动词/形容词搭配，本条管空泛名词 ⇒ 目标形式不同，保留。
+
+**我错在哪**
+她的：`no one knows **the thing**, other than him` ／ `I found out **the thing** from the news`
+正确：`no one knows **about it**` ／ `I found out **about it** from the news`
+找法：中文说"这事／这个东西"时问一句 —— 指的是一个**看得见的物件**吗？不是 ⇒ 用 it／this，别搬 the thing。
+
+**题面**
+"知道这事"（"这事"不许用 the thing 说）
+
 - 2026-08-20 新建 · 同一天两次 · 复习#75 句里 `no one knows **the thing**, other than him`
   ＋ 复习#146 句里 `I found out **the thing** from the news`
 - 2026-08-21 ✅ 复习（新建后首测）· `Besides him, no one knows about it.`——`knows **about it**` 一字不差
@@ -8310,25 +8376,53 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
     **不建条目**（§3.2b 她 08-21 定的第三档）：她的选择合法，说不出"不会的是哪个词组"⇒ 只给更稳版本
   ⇒ 2026-08-21 后续：她说 **"Apart from him 可以建一个，非常不熟练"** ⇒ **新建 #266**（题面另起一句，与本条不撞车）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `know about it` —— ⛔ 没用 the thing
-- 备注 判据：中文的"这事/那个东西"是**空指代**，英语用代词 it／this／that 顶上去；
-  the thing 在英语里指"那个具体物件"，拿来指抽象的事会很怪
 - 备注 常配的介词：find out **about** it ／ know **about** it ／ hear **about** it ／ talk **about** it
-- 备注 判重（当天新建复核）：grep "the thing" 全库（含已毕业）→ 命中 #150（限定词与数一致，
-  08-19 她把"这些东西"写成 the thing）。**区别**：#150 掉的是【数】（形态类），
-  本条掉的是【选词】（该用代词却搬了个名词）⇒ 两条并存。
-  另比 #157（直译搭配）：#157 管动词/形容词搭配，本条管空泛名词 ⇒ 目标形式不同，保留
 
 ### 262 · 口语转折工具箱（Then again／That said／Having said that／On the flip side／Mind you）
 类型 词组 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20（**她当场指定**）
-题面（5 句，五个转折标记各一句 —— 只出 Then again 会永远测不到另外四个）
+状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+
+**问题是什么**
+**口语转折工具箱**：Then again ／ That said ／ Having said that ／ On the flip side ／ Mind you
+—— 同一条规则下的五个成员（合并条，§3.2c①），按【放句子的哪一段】分三档（详表见下方备注）：
+· 开一个反面段落（放句首）：**Then again**（最口语，她已会）· **That said**（略正式）·
+　**Having said that**（更长更缓，顺带争取思考时间）· **On the flip side**（专配"另一面"）
+· 句中插入让步：**Mind you**（英式口语，插在两句之间）
+判据一句话：这一句是要**拐到反面**吗？是 ⇒ 从这五个里挑一个起头（别一路 but／however）。
+★ 与 🎓**#203**（…, though.）的分工：#203 管 though 这一个标记的**位置**（挂句尾）；
+　本条管**有哪些可选、各自什么味道、放哪一段** ⇒ 规则不同，本条只做索引、不重复。
+★ 与 🎓**#237**（a mixed bag）配套：先用 mixed bag 立"两面都有"，再用 Then again／On the flip side
+　开第二面 —— 这是 P3 双面题最省力的骨架。
+
+**怎么发现的**
+2026-08-20 新建 · 加练新题（bank:927）· 她写 `Then again, rewards can slightly change what you intend.`
+—— **她自己用对了**，并当场要求把这一族收进一条（**她当场指定**）。
+★ 她的原话："Then again 可以新建条目，再几个转折方法在同一个条目，用于学习口语转折"
+判重（当天新建复核）：grep "转折"／"though"／"Then again" 全库（含已毕业）→ 只命中 🎓#203（…, though.）。
+**分工**：#203 管 though 这一个标记的**位置**（挂句尾）；本条管**有哪些可选、各自什么味道、放哪一段**
+⇒ 规则不同，保留新建。
+
+**我错在哪**
+她这次没有错（`Then again, rewards can slightly change what you intend.` 用对了），
+建号理由是 §2③ **她点名要学** —— 08-20 那天她只会 Then again 这一个，另外四个不会调。
+找法：要拐到反面时先问一句 —— 这是"另一面"还是"补一刀"？另一面 ⇒ 从这五个里挑一个，⛔ 别一路 but。
+
+**题面**
+★ 5 句，五个转折标记各一句 —— 只出 Then again 会永远测不到另外四个
 　① "话说回来，奖励也会把孩子的动机带偏。"（转折标记用 **T** 开头的**两个词**起头）
 　② "话虽如此，我还是觉得值得试一次。"（转折标记用 **T** 开头的**两个词**起头，与 ① 不同 · ⛔ 不许用 though）
 　③ "话说回来，也不是每个人都合适。"（转折标记用 **H** 开头的**三个词**起头）
 　④ "反过来说，网上买也有网上买的麻烦。"（转折标记用带 **flip** 的块起头）
 　⑤ "不过话说回来，他也没做错什么。"（转折标记用 **M** 开头的**两个词**起头）
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① Then again ② That said ③ Having said that ④ On the flip side ⑤ Mind you
-　　★ 她的原话："Then again 可以新建条目，再几个转折方法在同一个条目，用于学习口语转折"
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+
+**成员出题账**
+① Then again ｜ 08-20 新建（她自产）· 08-21 ✅（自由产出自发命中）· 08-23 ✅ · 08-31 📝（自发留痕）· 09-11 ✅
+② That said ｜ 08-23 ✅ · 09-11 ✅
+③ Having said that ｜ 08-23 ✅ · 08-31 📝（自发留痕，与 ① 并排备选）· 09-11 ✅
+④ On the flip side ｜ 08-23 ✅ · 09-04 📝（自发留痕）· 09-11 ✅
+⑤ Mind you ｜ 08-23 ✅ · 09-11 ✅
+
 - 2026-08-20 新建 · 加练新题（bank:927）· `Then again, rewards can slightly change what you intend.`
   —— **她自己用对了**，并当场要求把这一族收进一条
 - 2026-08-21 ✅ **自由产出自发命中**（加练新题 bank:414）· `Then again, you shouldn't only rely on ads.`
@@ -8370,20 +8464,54 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 ③ 挂句尾
    …, though.             ＝ 🎓#203，本条只做索引，不重复
 ```
-- 备注 判重（当天新建复核）：grep "转折"／"though"／"Then again" 全库（含已毕业）→ 只命中 🎓#203（…, though.）。
-  **分工**：#203 管 though 这一个标记的**位置**（挂句尾）；本条管**有哪些可选、各自什么味道、放哪一段**
-  ⇒ 规则不同，保留新建
 - 备注 与 🎓#237（a mixed bag）配套：先用 mixed bag 立"两面都有"，再用 Then again／On the flip side
   开第二面 —— 这是 P3 双面题最省力的骨架
 
 ### 263 · 双宾语语序：promise／give／tell／show／send 一律【人在前，东西在后】
 类型 搭配 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
-题面（4 句，覆盖这一族的不同动词 —— 只出 promise 一句会漏掉她在 give/show/send 上的语序）
+状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+
+**问题是什么**
+双宾语语序：**promise／give／tell／show／send** 一律【**人在前，东西在后**】。
+判据：这一族动词带两个宾语时，顺序固定 **动词 ＋ 人 ＋ 东西**
+```
+✅ promise your kid the iPhone ／ give me the book ／ tell her the truth ／ show him the photo
+要把"东西"放前面，就必须加介词把人挂后面：
+✅ promise the iPhone TO your kid ／ give the book TO me ／ buy a coffee FOR her
+❌ promise the iPhone your kid（中文"承诺一台 iPhone 给你孩子"是东西在前，直接照搬就反）
+```
+★ 与 **#171**（tell sb：say 后面不接人）的分工：#171 管"要出现人就不能用 say"（选哪个动词）；
+　本条管"两个宾语谁在前"（语序）⇒ 规则不同。
+★ 与 🎓**#143**（哪些动词后面要带 to）的分工：那条管"后面接不定式"，与双宾语无关。
+★ 与 **#319** 的分工（2026-09-04 从本条的过度泛化里另开）：**present 不在这一族**
+　（只有 present sth TO sb ／ present sb WITH sth）⇒ 成员名单是封闭的，⛔ 不许往外套。
+
+**怎么发现的**
+2026-08-20 新建 · 加练新题（bank:927）· 她写 `You promise a lastest iPhone your kid`
+（→ promise **your kid** the latest iPhone）—— 东西在前、人在后，正好反了。
+判重（当天新建复核）：grep "双宾"／"promise"／"tell sb" 全库（含已毕业）→ 命中 #171（tell sb：say 后面不接人）。
+**区别**：#171 管"要出现人就不能用 say"（选哪个动词）；本条管"两个宾语谁在前"（语序）⇒ 规则不同，保留。
+另比 🎓#143（哪些动词后面要带 to）：那条管"后面接不定式"，与双宾语无关。
+
+**我错在哪**
+她的：`You promise a lastest iPhone your kid`　　正确：`You promise **your kid** the latest iPhone`
+找法：说完 promise／give／tell／show／send，先看紧跟着的那个词 —— **是"人"吗？**
+不是 ⇒ 要么把人提到前面，要么给人加 TO／FOR 挂到后面。
+
+**题面**
+★ 4 句，覆盖这一族的不同动词 —— 只出 promise 一句会漏掉她在 give/show/send 上的语序
 　① "他答应给他儿子买最新那款手机。"（用 **promise** ＋ 两个宾语说，不用 to）
 　② "她给了我一本很旧的书。"（用 **give** ＋ 两个宾语说，不用 to）
 　③ "他把照片给我看了。"（用 **show** ＋ 两个宾语说，不用 to）
 　④ "我给她寄了张明信片。"（用 **send** ＋ 两个宾语说，不用 to）
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+
+**成员出题账**
+① promise ｜ 08-20 ❌（首犯）· 08-21 ✅ · 08-23 ✅ · 08-24 ✅（自由产出自发命中）· 09-11 ✅
+② give ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）
+③ show ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）
+④ send ｜ 08-23 ✅ · 09-11 ✅
+⑤ tell ｜ 未出过（题面 4 句未覆盖，只在判据表里出现过 tell her the truth）
+
 - 2026-08-20 新建 · 加练新题（bank:927）· `You promise a lastest iPhone your kid` → promise **your kid** the latest iPhone
 - 2026-08-21 ✅ 复习（新建后首测）· `He promised his son the lastest phone.`——语序一字不差：
   promised ＋ **his son**（人）＋ **the latest phone**（东西），08-20 首犯正好是反的
@@ -8407,20 +8535,45 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
     **这是它的第二次实证，方向不同**：这次被带偏的是"动词能不能进双宾语这一族"。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · 合并条 4 句：① `he promised his son the latest phone.` ✔ ④ `I sent her a postcard.` ✔（人在前、没用 to）；②③ 她当场免测（"2) - 3) 直接过"）⇒ 整组覆盖记 ✅
 
-- 备注 判据：这一族动词带两个宾语时，顺序固定 **动词 ＋ 人 ＋ 东西**
-```
-✅ promise your kid the iPhone ／ give me the book ／ tell her the truth ／ show him the photo
-要把"东西"放前面，就必须加介词把人挂后面：
-✅ promise the iPhone TO your kid ／ give the book TO me ／ buy a coffee FOR her
-❌ promise the iPhone your kid（中文"承诺一台 iPhone 给你孩子"是东西在前，直接照搬就反）
-```
-- 备注 判重（当天新建复核）：grep "双宾"／"promise"／"tell sb" 全库（含已毕业）→ 命中 #171（tell sb：say 后面不接人）。
-  **区别**：#171 管"要出现人就不能用 say"（选哪个动词）；本条管"两个宾语谁在前"（语序）⇒ 规则不同，保留。
-  另比 🎓#143（哪些动词后面要带 to）：那条管"后面接不定式"，与双宾语无关
 
 ### 264 · a sense of ＋ 只跟固定那几个抽象名词（achievement／purpose／belonging／control）
-类型 搭配 ｜ 题面 **点名**："努力有奔头"（用 **a sense of** ＋ 一个固定搭配的名词说，⛔ 不许自己造词、⛔ 不许用 pay off） ｜ 新建 2026-08-20（**她当场指定**）
+类型 搭配 ｜ 新建 2026-08-20（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 词组
+
+**问题是什么**
+**a sense of** ＋ 只跟固定那几个抽象名词（achievement／purpose／belonging／control）。
+判据：**a sense of 是个半封闭的框**，后面只跟少数几个固定抽象名词：
+```
+✅ a sense of achievement（成就感）｜ a sense of purpose（目标感）
+   a sense of belonging（归属感）｜ a sense of control（掌控感）｜ a sense of direction
+❌ a sense of payoff／a sense of reward／a sense of result —— 这些词不进这个框
+★ 想说"有奔头/值得"，走别的说法，不要硬塞进 a sense of：
+   something to work towards（有个目标可奔）
+   make the effort feel worth it（让努力显得值）
+   feel like it's paying off（感觉有回报了）—— payoff 的动词形式反而好用
+```
+一句话规则：**框架是背来的，不是造的**。看到 a sense of 就只从上面五个里选；
+说不出来就换整个说法，别在框里填新词。
+★ 与 🎓**#206**（书面词降级）的分工：那条管"这个词太书面，换口语版"；
+　本条管"这个**框架**只收哪几个词" ⇒ 不同层，不重复。
+
+**怎么发现的**
+2026-08-20 新建 · 加练新题（bank:927）· 她写 `Rewards can give kids a sense of payoff`
+⇒ 语法没错，但 **a sense of ＋ payoff 不是现成搭配**；payoff 这个词是前一道题教练更好版里给的，
+她隔一道题就抓来用了（迁移意识好），只是塞进了一个装不下它的框架 ⇒ **她当场指定**建号。
+判重（当天新建复核）：grep "a sense of"／"payoff"／"achievement" 全库（含已毕业）→ **零命中**，
+全库没有任何条目管这个框架 ⇒ 保留新建。
+另比对 🎓#206（书面词降级）：那条管"这个词太书面，换口语版"；本条管"这个**框架**只收哪几个词"
+⇒ 不同层，不重复。
+
+**我错在哪**
+她的：`Rewards can give kids **a sense of payoff**`
+正确：`a sense of **purpose**`（框里的词）／或整个换说法 `something to work towards`
+找法：a sense of 一出口就问 —— 后面那个名词在那五个里吗？不在 ⇒ ⛔ 别硬塞，换整句说法。
+
+**题面**
+**点名**："努力有奔头"（用 **a sense of** ＋ 一个固定搭配的名词说，⛔ 不许自己造词、⛔ 不许用 pay off）
+
 - 2026-08-20 新建 · 加练新题（bank:927）· `Rewards can give kids a sense of payoff`
   ⇒ 语法没错，但 **a sense of ＋ payoff 不是现成搭配**；payoff 这个词是前一道题教练更好版里给的，
     她隔一道题就抓来用了（迁移意识好），只是塞进了一个装不下它的框架
@@ -8435,26 +8588,37 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `a sense of purpose` —— a sense of ＋ 固定名词，⛔ 没自己造词、⛔ 没走本场新排除的 pay off
 - 2026-09-11 📝 题面整改：补（用 **a sense of** ＋ 一个固定搭配的名词说，⛔ 不许自己造词、⛔ 不许用 pay off）· 发题前审核（**换结构**那一类）
   `Your effort pays off.` 完全合法，绕开 a sense of ＋ 固定名词 ⇒ 补排除项。今天她答 a sense of purpose ⇒ 排除项生效
-- 备注 判据：**a sense of 是个半封闭的框**，后面只跟少数几个固定抽象名词：
-```
-✅ a sense of achievement（成就感）｜ a sense of purpose（目标感）
-   a sense of belonging（归属感）｜ a sense of control（掌控感）｜ a sense of direction
-❌ a sense of payoff／a sense of reward／a sense of result —— 这些词不进这个框
-★ 想说"有奔头/值得"，走别的说法，不要硬塞进 a sense of：
-   something to work towards（有个目标可奔）
-   make the effort feel worth it（让努力显得值）
-   feel like it's paying off（感觉有回报了）—— payoff 的动词形式反而好用
-```
-- 备注 一句话规则：**框架是背来的，不是造的**。看到 a sense of 就只从上面五个里选；
-  说不出来就换整个说法，别在框里填新词
-- 备注 判重（当天新建复核）：grep "a sense of"／"payoff"／"achievement" 全库（含已毕业）→ **零命中**，
-  全库没有任何条目管这个框架 ⇒ 保留新建。
-  另比对 🎓#206（书面词降级）：那条管"这个词太书面，换口语版"；本条管"这个**框架**只收哪几个词"
-  ⇒ 不同层，不重复
 
 ### 265 · 对身体好 ＝ good for you／good for your health（health 前面不能光秃秃）
 类型 搭配 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-21
-题面（3 句，覆盖 good/bad for ＋ 不同的身体/心智属性 —— 只出一句会漏掉别的搭配位）
+状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23**（连对达线 ＋ 她当场指定"这条毕业"）｜ 题型 词组
+
+**问题是什么**
+对身体好 ＝ **good for you** ／ **good for your health**（health 前面不能光秃秃）。
+判据：英语里 `for health` 前面必须有东西托住 —— 要么整句换成 **good for you**（最口语），
+要么补物主代词 **good for your health**。裸的 for health 是中文"对健康好"直译过来的。
+同一格里的邻居（别串 —— 中文不说"你的"、英文必须说的一族）：
+your health ／ your memory ／ your eyesight ／ your mood ／ your back ／ your skin —— 身体和心智属性一律带物主代词。
+★ 范围只到 **good/bad for ___**：`vital/essential **to** health` 裸的**成立**（偏正式书面）⇒ ⛔ 不许扩大成
+　"所有 health 前面都要物主代词"（见下方 ⚠️ 收尾 1b 复核）。
+★ 与 🎓**#255** 的分工：#255 管**选 vital 还是 virtual**（选词），本条管 **good for 后面缺限定词**（搭配）⇒ 不并。
+★ 与 **#254** 的分工：#254 考点在**主语位 -ing**，本条考点在 **good for 后面的限定词** —— 落在句子不同位置。
+
+**怎么发现的**
+2026-08-21 新建 · 复习 #254 句里 · 她写 `going to bed early is good for **health**`
+（→ good for **you**／good for **your** health）—— 裸的 for health。
+判重（当天新建复核）：① 目标形式 ＝ `good for you`／`good for your health`
+② grep "good for"（含已毕业）→ 全库零命中；grep "物主"／"your health"／"身体" → 零命中
+③ 最接近三条逐条读过：#63（泛指 vs 特指）管 the ／复数，对象是可数名词，health 不可数 ⇒ 不同规则；
+　 #157（直译搭配）管"这个词配不配"（power 配不配 weak），本条是"这个位置缺限定词" ⇒ 层不同；
+　 #89（加形容词回到 a）管冠词 a，与物主代词无关 ⇒ 保留新建。
+
+**我错在哪**
+她的：`going to bed early is good for **health**`　　正确：`good for **you**` ／ `good for **your** health`
+找法：说完 good／bad for，看下一个名词 —— **前面有没有 your（或换成 you）？** 光秃秃 ⇒ 补上。
+
+**题面**
+★ 3 句，覆盖 good/bad for ＋ 不同的身体/心智属性 —— 只出一句会漏掉别的搭配位
 　① "对身体好"（用 **good for** 说）
 　② "对记忆力不好"（用 **bad for** ＋ 那个名词说）
 　③ "对心脏好"（用 **good for** ＋ 那个名词说）
@@ -8462,7 +8626,12 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 　　★ 题面 2026-08-23 改（付息日 c 段·题面撞车）：原题面"早睡早起对身体好。"与 #254 的题面"早点睡对身体好。"
 　　　几乎同一句，而 #254 的考点在**主语位 -ing**、本条的考点在 **good for 后面的限定词** ——
 　　　两条落在句子不同位置，本来能分别记档；但两条**同时在池子里**时会互相提示 ⇒ 换成不带动名词主语的句子
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23**（连对达线 ＋ 她当场指定"这条毕业"）｜ 题型 词组
+
+**成员出题账**
+① good for you ｜ 08-21 ❌（首犯，裸 good for health）· 08-23 ✅（复习 #254 句里，带上 your）· 08-23 ✅（整组首测，走 good for your health ＝ 同一规则另一合法出口）· 09-11 ✅
+② bad for your memory ｜ 08-23 ✅ · 09-11 ✅
+③ good for your heart ｜ 08-23 ✅ · 09-11 ✅
+
 - 2026-08-21 新建 · 复习#254 句里 · `going to bed early is good for **health**` → good for **you**／good for **your** health
 - 2026-08-23 ✅ 复习#254 句里 · `going to bed early is good for **your** health.`
   —— 08-21 那次写的是裸的 `good for health`（正是因此新建本条），今天限定词带上了 ⇒ 连对 0→1，连错清零
@@ -8474,16 +8643,9 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
   → **连对2，毕业**；她同时当场指定"这条毕业"
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · **合并条 3 句整组出，3/3 全中** · `good for your health.` ／ `bad for your memory.` ／ `good for your heart.`
   —— 三处 health／memory／heart 前面都带了 your，⛔ 没有光秃秃的裸名词
-- 备注 判据：英语里 `for health` 前面必须有东西托住 —— 要么整句换成 **good for you**（最口语），
-  要么补物主代词 **good for your health**。裸的 for health 是中文"对健康好"直译过来的
 - 备注 同族（中文不说"你的"，英文必须说）：
   your health ／ your memory ／ your eyesight ／ your mood ／ your back ／ your skin
   —— 身体和心智属性一律带物主代词
-- 备注 判重（当天新建复核）：① 目标形式 ＝ `good for you`／`good for your health`
-  ② grep "good for"（含已毕业）→ 全库零命中；grep "物主"／"your health"／"身体" → 零命中
-  ③ 最接近三条逐条读过：#63（泛指 vs 特指）管 the ／复数，对象是可数名词，health 不可数 ⇒ 不同规则；
-     #157（直译搭配）管"这个词配不配"（power 配不配 weak），本条是"这个位置缺限定词" ⇒ 层不同；
-     #89（加形容词回到 a）管冠词 a，与物主代词无关 ⇒ 保留新建
 - 备注 ⚠️ **收尾 1b 复核追加（2026-08-21）**：复查时发现 🎓#255 的 08-20 日志里有 `sleep is vital **to** health`，
   当时判 ✅ —— **那次判 ✅ 是对的，不追改**。两处不是同一件事：
 ```
@@ -8497,14 +8659,52 @@ vital/essential **to** health  ⇒ 裸的**成立**（偏正式书面：Sleep is
 
 ### 266 · "除了…（排除）" ＝ apart from ／ other than ／ except（besides 放句首会被读成"此外"）
 类型 词组 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-21（**她当场指定**）
-题面（3 句，三个成员各一句 —— 只出 apart from 会漏掉她在别的成员上的缺口）
+状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-24** ｜ 题型 词组
+
+**问题是什么**
+"除了…（排除）" ＝ **apart from** ／ **other than** ／ **except**（**besides** 放句首会被读成"此外"）。
+四个可选按口语常用度排（详表见下方备注）：apart from（最稳、最口语，句首句尾都不歧义 ★ 目标形式）·
+other than（同义，略正式）· except (for)（也对，except for 更常挂句首）·
+besides（否定句里成立，但**放句首容易被读成"此外／而且"** ⇒ 想说"排除"就别用它开头）。
+一句话判据：**要"减掉一个人/一样东西" → apart from ｜ 要"再加一层理由" → besides**
+（besides 的主业是**加法**：Besides, it's too expensive. ＝ 再说，太贵了）。
+★ 与 **#75**（other than ≠ rather than）的分工：#75 管**两个形近词组别混**（形近误用），目标形式是 other than；
+　本条管"除了"这个意思**该选哪个词组、besides 为什么不稳**（选词），目标形式是 apart from ⇒ 两条并存。
+★ 与 🎓**#260**（"这事"→ it／about it）的分工：那条管句子另一个位置的选词，不冲突。
+
+**怎么发现的**
+2026-08-21 新建 · **她主动提出**（§2③）· 复习 #260 句里她写 `Besides him, no one knows about it.`
+—— 教练判 ✅ 不扣（besides 在否定句里确实成立），但她说 **apart from 非常不熟练** ⇒ 建条目。
+★ 她的原话："Apart from him 可以建一个，非常不熟练"
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `apart from`
+　② grep "apart from" 全库（含已毕业）→ **零命中**；grep "other than" → 命中 #75；
+　　 grep 中文"除了" → 命中 #75 与 #260 的题面
+　③ 逐条读：**#75**（other than ≠ rather than）管的是**两个形近词组别混**（形近误用），
+　　 目标形式是 other than；**本条**管的是"除了"这个意思**该选哪个词组、besides 为什么不稳**（选词），
+　　 目标形式是 apart from ⇒ 规则不同、目标形式不同 ⇒ **两条并存**。
+　　 **#260**（"这事"→ it/about it）管的是句子另一个位置的选词，不冲突。
+⚠️ **题面必须互斥**（§3.1 第三档）：#75 的题面正好是"除了他没人知道这事。"（用 other than 说），
+　 #260 的题面也是同一句 ⇒ 本条题面**另起一句**："除了我妈，没人知道我辞职了。"，三条从此不撞车。
+
+**我错在哪**
+她这次没有错（`Besides him, no one knows about it.` 教练判 ✅ 不扣 —— besides 在否定句里确实成立），
+建号理由是 §2③ **她点名要学**（原话："Apart from him 可以建一个，非常不熟练"）。
+找法：想说"除了…（排除）"时，⛔ 别拿 besides 开头 —— 默认调 **apart from**，要 besides 就问自己"我是在加还是在减？"
+
+**题面**
+★ 3 句，三个成员各一句 —— 只出 apart from 会漏掉她在别的成员上的缺口
 　① "除了我妈"（"除了"用**两个词** · **a** 开头 · ⛔ 不许用 aside）
 　② "除了我哥"（"除了"用**两个词** · **o** 开头）
 　③ "除了周末"（"除了"用**一个词** · **e** 开头 · ⛔ 不许用 excluding）
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① apart from my mum ② other than my brother ③ except (at) weekends
 　★ besides 不进出题：它在否定句里成立、放句首却会被读成"此外"，属**判据**不属目标形式
-　　★ 她的原话："Apart from him 可以建一个，非常不熟练"
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-24** ｜ 题型 词组
+
+**成员出题账**
+① apart from ｜ 08-23 ✅ · 08-24 ✅ · 09-11 ✅
+② other than ｜ 08-23 ✅ · 08-24 ✅ · 09-11 ✅
+③ except ｜ 08-23 ✅ · 08-24 ✅ · 09-11 ✅
+
 - 2026-08-21 新建 · **她主动提出**（§2③）· 复习#260 句里她写 `Besides him, no one knows about it.`
   —— 教练判 ✅ 不扣（besides 在否定句里确实成立），但她说 **apart from 非常不熟练** ⇒ 建条目
 - 2026-08-23 ✅ 付息日 a 段 · **合并条 3 句整组首测，3/3 全对**（§3.2c）：
@@ -8533,21 +8733,37 @@ besides him       ← 否定句里成立（No one besides me knows.），
   ⇒ 一句话判据：**要"减掉一个人/一样东西" → apart from ｜ 要"再加一层理由" → besides**
 - 备注 常见搭配位置：Apart from that, … ／ Apart from a few typos, it's fine. ／
   I don't know anyone here apart from you.
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `apart from`
-  ② grep "apart from" 全库（含已毕业）→ **零命中**；grep "other than" → 命中 #75；
-     grep 中文"除了" → 命中 #75 与 #260 的题面
-  ③ 逐条读：**#75**（other than ≠ rather than）管的是**两个形近词组别混**（形近误用），
-     目标形式是 other than；**本条**管的是"除了"这个意思**该选哪个词组、besides 为什么不稳**（选词），
-     目标形式是 apart from ⇒ 规则不同、目标形式不同 ⇒ **两条并存**。
-     **#260**（"这事"→ it/about it）管的是句子另一个位置的选词，不冲突。
-  ⚠️ **题面必须互斥**（§3.1 第三档）：#75 的题面正好是"除了他没人知道这事。"（用 other than 说），
-     #260 的题面也是同一句 ⇒ 本条题面**另起一句**："除了我妈，没人知道我辞职了。"，三条从此不撞车
 
 ### 267 · get sth in front of sb（把产品／信息摆到人眼前）
-类型 词组 ｜ 题面 **点名**："让人看见你的产品"（用 **get** 起头说，⛔ 不许用 see／show／notice） ｜ 新建 2026-08-21（**她当场指定**）
-　　★ 她的原话："in front of 这个词组要新建条目"
+类型 词组 ｜ 新建 2026-08-21（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 词组
+
+**问题是什么**
+**get sth in front of sb** ＝ 把产品／信息摆到人眼前、让人看见（营销／传播的默认说法）。
+同一格里的邻居（别串）：**reach** people ＝ 触达（中性、略正式）；
+**get sth in front of** people ＝ 摆到眼前（更具体、更口语）—— 详例见下方备注。
+判据一句话：要说"让人看见／送到眼前"时，别绕 see／show／notice，直接调 get sth in front of sb 这个块。
+★ 与 🎓**#39**（惯用定冠词 the TV／the radio）的分工：那条里的 "in front of" 只是**字面义**顺带出现；
+　本条管的是**引申块 get sth in front of sb** ⇒ 目标形式不同、规则不同，两条题面互不撞车。
+
+**怎么发现的**
+2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）· 她写
+`Ads help get your product or service in front of the public.` —— **她自己用对了**，并当场要求建条目。
+★ 她的原话："in front of 这个词组要新建条目"
+判重（当天新建复核）：① 目标形式 ＝ `get sth in front of sb`
+② grep "in front of" 全库（含已毕业）→ 只命中 🎓#39 的日志行（`he sat in front of the TV all night.`）
+③ 逐条读 #39：那条管的是**惯用定冠词**（the TV／the radio／the cinema／on the screen），
+　 "in front of" 只是那句话里顺带出现的**字面义**；本条管的是**引申块 get sth in front of sb**
+　 ⇒ 目标形式不同、规则不同 ⇒ 保留新建，两条题面互不撞车。
+
+**我错在哪**
+她这次没有错（`Ads help get your product or service in front of the public.` 一次用对），
+建号理由是 §2③ **她点名要学**（原话："in front of 这个词组要新建条目"）。
+找法：要说"让人看见 X"时，先问一句 —— 能不能说成"把 X 摆到人眼前"？能 ⇒ get X in front of sb。
+
+**题面**
+**点名**："让人看见你的产品"（用 **get** 起头说，⛔ 不许用 see／show／notice）
+
 - 2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）· `Ads help get your product or service in front of the public.`
   —— **她自己用对了**，并当场要求建条目
 - 2026-08-23 ✅ 付息日 a 段 · **本条从建立起第一次被测到，一次到位** ·
@@ -8566,21 +8782,54 @@ besides him       ← 否定句里成立（No one besides me knows.），
 ★ 跟 reach 的分工：reach people ＝ 触达（中性、略正式）
                   get sth in front of people ＝ 摆到眼前（更具体、更口语）
 ```
-- 备注 判重（当天新建复核）：① 目标形式 ＝ `get sth in front of sb`
-  ② grep "in front of" 全库（含已毕业）→ 只命中 🎓#39 的日志行（`he sat in front of the TV all night.`）
-  ③ 逐条读 #39：那条管的是**惯用定冠词**（the TV／the radio／the cinema／on the screen），
-     "in front of" 只是那句话里顺带出现的**字面义**；本条管的是**引申块 get sth in front of sb**
-     ⇒ 目标形式不同、规则不同 ⇒ 保留新建，两条题面互不撞车
 
 ### 268 · "卖得好／好读／好洗" 用【主动形式】：it sells well（不用 is sold well）
 类型 语法 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-21
-题面（4 句，覆盖中动语态那一族的不同动词 —— 只出 sell 一句会漏掉她真正错的那个）
+状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-24** ｜ 题型 整句
+
+**问题是什么**
+"卖得好／好读／好洗" 用【**主动形式**】：**it sells well**（⛔ 不用 is sold well）。
+判据：英语里有一小族动词 **主语是东西、动词用主动、意思却是被动**（中动语态）
+```
+✅ This product **sells** well.        ✅ The book **reads** easily.
+✅ This shirt **washes** well.         ✅ The recipe **cooks** in ten minutes.
+✅ She **photographs** well.           ✅ The door **won't open**.   ✅ The cake **cuts** easily.
+✗ is sold well ＝ "被人用好的方式卖掉"，不是"畅销"
+★ 一句话判据：说的是"**这东西本身好不好卖/好不好用**" ⇒ 主动；
+             说的是"**谁把它怎么样了**" ⇒ 才用被动
+★ 这一族基本固定，背这几个就够：sell／read／wash／cook／photograph／open／cut
+```
+★ 这一族**成员数得出来 ＝ 有限集合** ⇒ 按 §3.2c⑤ 合成一条，⛔ 不是伞形条目。
+★ 附带一格（④ 句里现形）：**won't open** 的 won't 不是将来时，是"**就是不肯**"
+　（The car won't start. ／ The lid won't come off.）—— doesn't open ＝ 设计上就不开／平时不开。
+
+**怎么发现的**
+2026-08-21 新建 · 加练新题（bank:414）· 她写 `they will wonder whether it **is sold well**`
+（→ it **sells** well）—— 中文"卖得好"直接搬成了被动。
+判重（当天新建复核）：① 目标形式 ＝ `it sells well`
+② grep "sell"／"卖"／"主动表被动"／"中动" 全库（含已毕业）→ **零命中**
+　（grep "卖" 只命中三条"外卖"题面 ＝ takeaway，与本条无关）
+③ 全库没有任何条目管"主动形式表被动"这条规则 ⇒ 保留新建。
+
+**我错在哪**
+她的：`they will wonder whether it **is sold well**`　　正确：`whether it **sells** well`
+找法：主语是**东西**、要说"好不好卖／好不好用"时问一句 —— 我是在说"这东西本身怎么样"吗？
+是 ⇒ 动词用**主动**，⛔ 别加 be ＋ 过去分词。
+
+**题面**
+★ 4 句，覆盖中动语态那一族的不同动词 —— 只出 sell 一句会漏掉她真正错的那个
 　① "这款卖得特别好。"（用 **sell** 说）
 　② "这本书很好读。"（用 **read** 说）
 　③ "这件衬衫很好洗。"（用 **wash** 说）
 　④ "这门打不开。"（用 **open** 说）
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① it sells well ② it reads easily ③ it washes well ④ the door won't open
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-24** ｜ 题型 整句
+
+**成员出题账**
+① sell ｜ 08-21 ❌（首犯 is sold well）· 08-23 ✅ · 08-24 ✅ · 09-11 ⚡（她当场免测："8. 直接过"）
+② read ｜ 08-23 ✅ · 08-24 ✅ · 09-11 ⚡（同上）
+③ wash ｜ 08-23 ✅ · 08-24 ✅（washs 是拼写，§2.1 不算）· 09-11 ⚡（同上）
+④ open ｜ 08-23 ✅（doesn't open，教练给 ⚠️ won't）· 08-24 ✅（零提示自己调出 won't ＝ 真迁移）· 09-11 ⚡（同上）
+
 - 2026-08-21 新建 · 加练新题（bank:414）· `they will wonder whether it **is sold well**` → it **sells** well
 - 2026-08-23 ✅ 付息日 a 段 · **合并条 4 句整组首测，4/4 全对**（§3.2c）：
   ① `this one sells really well.` ② `this book reads really well.` ③ `This shirt washes really well.`
@@ -8597,31 +8846,65 @@ besides him       ← 否定句里成立（No one besides me knows.），
      调的词是 wash 一字没歪 ⇒ 考点照常 ✅
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 4 组（她原话："8. 直接过"）
 - 2026-09-12 📝 题面整改：删掉四句点名里的「不用被动」（§6② 红线一：本条考点就是"不用被动"，写在提示里 ＝ 把考点交出去）；目标形式移到 ★ 行 · 全档题面 review
-- 备注 判据：英语里有一小族动词 **主语是东西、动词用主动、意思却是被动**（中动语态）
-```
-✅ This product **sells** well.        ✅ The book **reads** easily.
-✅ This shirt **washes** well.         ✅ The recipe **cooks** in ten minutes.
-✅ She **photographs** well.           ✅ The door **won't open**.   ✅ The cake **cuts** easily.
-✗ is sold well ＝ "被人用好的方式卖掉"，不是"畅销"
-★ 一句话判据：说的是"**这东西本身好不好卖/好不好用**" ⇒ 主动；
-             说的是"**谁把它怎么样了**" ⇒ 才用被动
-★ 这一族基本固定，背这几个就够：sell／read／wash／cook／photograph／open／cut
-```
-- 备注 判重（当天新建复核）：① 目标形式 ＝ `it sells well`
-  ② grep "sell"／"卖"／"主动表被动"／"中动" 全库（含已毕业）→ **零命中**
-     （grep "卖" 只命中三条"外卖"题面 ＝ takeaway，与本条无关）
-  ③ 全库没有任何条目管"主动形式表被动"这条规则 ⇒ 保留新建
 
 ### 269 · "不太了解／知道得少" 口语走 don't know much about it（不用 know little／only know little）
 类型 结构 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-21（**她当场指定**）
-题面（3 句，覆盖"说少一律走否定 ＋ much/any"这条规则的三个高频位置）
+状态 连对1 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23 · 她指定**（"这条毕业"）｜ 题型 整句
+
+**问题是什么**
+"不太了解／知道得少" 口语走 **don't know much about it**（⛔ 不用 know little／only know little）。
+判据：**中文说"少"，英语口语优先走【否定 ＋ much/any】，不走【肯定 ＋ little】**
+```
+✅ People don't know much about it.          ← 口语默认，最常听
+✅ People hardly know anything about it.     ← 更强（几乎完全不知道）
+✅ Most people have never even heard of it.  ← 换个角度，更有画面
+⚠️ People know little about it.              ← 成立，但是**书面语**
+                                                （We know little about his early life.）
+✗ People only know little about it.          ← only ＋ little 两个"少"叠着，生硬
+★ 同一条规则的其他形态（口语一律否定起头）：
+   don't have much time（不说 have little time）
+   there isn't much to do（不说 there is little to do）
+   I haven't got many left（不说 I have few left）
+```
+★ 边界（08-20／08-21 两次裁决方向相反，详表见下方 ⚠️ 备注）：**few/little 修饰名词当主语 → 正常；
+　用来说"知道得少/有得少" → 换成否定 ＋ much**。
+★ 与 **#271** 的分工（互斥写死，2026-09-05 定）：**带"最近/这阵子" ⇒ #271（时态拉完成时）；
+　不带时间副词 ⇒ 本条（much/any）**。
+★ 与 🎓**#115**（a couple of ＝ 两个；"几个"用 a few）的分工：那条管"几个"该用哪个量词；
+　本条管"知道得少"这个意思口语该怎么说 ⇒ 规则不同、目标形式不同。
+
+**怎么发现的**
+2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）· 她写
+`If people **only know little** about the product, …`（→ If people **don't know much** about it, …）。
+⛔ **教练犯规·漏错**：教练当场按 08-20 的先例（`only few` 那次）判"不判"，
+她当场指出**这次不是 few/little 的问题，是整个说法生硬** ⇒ 判罚恢复，建条目。
+★ 她的原话："only know little 这个也建一个条目吧，确实不地道（很生硬，有更好的表达方式，
+　是需要建条目的）**不是 little 的问题**"
+判重（当天新建复核）：① 目标形式 ＝ `don't know much about it`
+② grep "know much"／"know little"／"hardly"／"not much" 全库（含已毕业）→
+　 只命中 🎓#115 的 08-20 备注行（`only few` 那次撤销的记录）
+③ 逐条读 #115（a couple of ＝ 两个；"几个"用 a few）：那条管的是**"几个"这个量该用哪个量词**，
+　 且 08-20 的裁决明确说 few 不带 a 是对的；**本条管的是"知道得少"这个意思口语该怎么说**
+　（否定 ＋ much，而不是肯定 ＋ little）⇒ 规则不同、目标形式不同 ⇒ 保留新建，两条题面互不撞车。
+
+**我错在哪**
+她的：`If people **only know little** about the product, …`
+正确：`If people **don't know much** about it, …`
+找法：中文冒出"少／不太"时问一句 —— 我是在说"知道得少／有得少"吗？
+是 ⇒ 句子从 **don't／there isn't** 起头 ＋ much／any，⛔ 别用肯定 ＋ little。
+
+**题面**
+★ 3 句，覆盖"说少一律走否定 ＋ much/any"这条规则的三个高频位置
 　① "大家对这个牌子不太了解。"（"不太了解"用 **don't** 起头说 · ⛔ 不许用 well／little）
 　② "我没多少钱。"（"没多少钱"用 **don't** 起头说）
 　③ "那儿没什么可玩的。"（"没什么可玩的"用 **there isn't** 起头说）
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① don't know much about it ② don't have much money ③ there isn't much to do
-　　★ 她的原话："only know little 这个也建一个条目吧，确实不地道（很生硬，有更好的表达方式，
-　　　是需要建条目的）**不是 little 的问题**"
-状态 连对1 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23 · 她指定**（"这条毕业"）｜ 题型 整句
+
+**成员出题账**
+① don't know much about it ｜ 08-21 ❌（首犯 only know little）· 08-23 ✅ · 09-11 ✅
+② don't have much money ｜ 08-23 ✅（当时题面是"我最近没什么时间。"，09-05 因与 #271 撞车换题面）· 09-11 ✅
+③ there isn't much to do ｜ 08-23 ✅ · 09-11 ✅
+
 - 2026-08-21 新建 · **她主动提出**（§2③）· 加练新题（bank:414）·
   `If people **only know little** about the product, …` → If people **don't know much** about it, …
   ⛔ **教练犯规·漏错**：教练当场按 08-20 的先例（`only few` 那次）判"不判"，
@@ -8642,19 +8925,6 @@ besides him       ← 否定句里成立（No one besides me knows.），
   ★ 合并条成员数不变（仍 3 句），`prompts --verify` 照常。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · 合并条 3 句整组出，3/3 全中 · `People don't know much about this brand.` ／ `I don't have much money.` ／ `There isn't much to do there.`
   —— 三句全是否定 ＋ much；本场新补的 ⛔ well／little 没被碰
-- 备注 判据：**中文说"少"，英语口语优先走【否定 ＋ much/any】，不走【肯定 ＋ little】**
-```
-✅ People don't know much about it.          ← 口语默认，最常听
-✅ People hardly know anything about it.     ← 更强（几乎完全不知道）
-✅ Most people have never even heard of it.  ← 换个角度，更有画面
-⚠️ People know little about it.              ← 成立，但是**书面语**
-                                                （We know little about his early life.）
-✗ People only know little about it.          ← only ＋ little 两个"少"叠着，生硬
-★ 同一条规则的其他形态（口语一律否定起头）：
-   don't have much time（不说 have little time）
-   there isn't much to do（不说 there is little to do）
-   I haven't got many left（不说 I have few left）
-```
 - 备注 ⚠️ **边界写死，防止教练再判反**（08-20／08-21 两次裁决方向相反，必须分清）：
 ```
 `only few people are really interested`（08-20 她的句子）
@@ -8663,18 +8933,49 @@ besides him       ← 否定句里成立（No one besides me knows.），
    ＝ 用 little 表"知道得少"，这个意思口语一律走 **don't know much** ⇒ **判，建条目**（她 08-21 裁决）
 一句话分辨：**few/little 修饰名词当主语 → 正常；用来说"知道得少/有得少" → 换成否定 ＋ much**
 ```
-- 备注 判重（当天新建复核）：① 目标形式 ＝ `don't know much about it`
-  ② grep "know much"／"know little"／"hardly"／"not much" 全库（含已毕业）→
-     只命中 🎓#115 的 08-20 备注行（`only few` 那次撤销的记录）
-  ③ 逐条读 #115（a couple of ＝ 两个；"几个"用 a few）：那条管的是**"几个"这个量该用哪个量词**，
-     且 08-20 的裁决明确说 few 不带 a 是对的；**本条管的是"知道得少"这个意思口语该怎么说**
-     （否定 ＋ much，而不是肯定 ＋ little）⇒ 规则不同、目标形式不同 ⇒ 保留新建，两条题面互不撞车
 
 ### 270 · advice 的量词：a lot of／loads of／some advice（不用 many advice；一条建议 ＝ a piece of advice）
-类型 搭配 ｜ 题面 **点名**："很多建议"（"建议"用 **advice** 说，⛔ 不许用 many） ／ **点名**："一条建议"（"建议"用 **advice** 说，"一条"要用一个**量词块**说） ｜ 新建 2026-08-23
-　　★ **从 #261 摘出**（§3.2c ③：合并条里有顽固成员就单独摘出来新建，老的毕业）——
-　　　#261 已于同日按她指定毕业，本条接着走自己的连击
+类型 搭配 ｜ 新建 2026-08-23（**从 #261 摘出**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-25** ｜ 题型 词组
+
+**问题是什么**
+**advice 的量词**：a lot of／loads of／some advice（⛔ 不用 many advice；一条建议 ＝ **a piece of advice**）。
+判据：advice 不可数 ⇒ 量词只能用
+```
+✅ a lot of advice ／ loads of advice ／ plenty of advice ／ much advice ／ some advice ／ a bit of advice
+✗ many advice ／ a few advices ／ an advice ／ three advices
+"一条建议" ＝ **a piece of advice**
+同样吃 a piece of 的：a piece of news／information／furniture／equipment／research／music
+```
+★ 判据一句话：**中文"很多建议"直接映射成 many suggestions 是对的**，
+但一旦换成 advice 这个词，**量词必须跟着换** —— 错不在"知不知道 advice 不可数"，在"换词时量词没跟着换"。
+★ 与母条 **#261**（这一小撮抽象名词不可数）的分工：#261 管"**不加 -s**"那一半（她那句 -s 就没加），
+　本条管**量词选哪个**（many vs a lot of）⇒ 同一条可数性规则的另一半，按 §3.2c③ 摘出。
+★ 与 🎓**#115**（a couple of ＝ 两个；"几个"用 a few）的分工：那条的对象是**可数**名词 ⇒ 与本条无关。
+
+**怎么发现的**
+2026-08-23 新建 · 付息日 a 段 · **#261 七句整组里唯一掉的一句** · 她写 `he gave me **many** advice.`
+（→ a lot of advice）。⚠️ **-s 那一半她是对的**（没写 advices）；掉的是**量词** —— many 只配可数名词。
+★ **从 #261 摘出**（§3.2c ③：合并条里有顽固成员就单独摘出来新建，老的毕业）——
+　#261 已于同日按她指定毕业，本条接着走自己的连击。
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `a lot of advice`／`a piece of advice`
+　② grep "advice"／"a piece of"／"many " 全库（含已毕业）→ 命中 **#261**（本条的母条）
+　　 ＋ **🎓#115**（a couple of ＝ 两个；"几个"用 a few）
+　③ 逐条读：**#261** 管"这一小撮抽象名词**不加 -s**"—— 她今天那句 -s 就没加，母条那一半是对的；
+　　 本条管**量词选哪个**（many vs a lot of）⇒ 是同一条可数性规则的**另一半**，
+　　 而母条已毕业 ⇒ 按 §3.2c ③ 摘出成立，不是重号。
+　　 **🎓#115** 管"几个"该用 a few 还是 a couple of，对象是**可数**名词 ⇒ 与本条无关
+　⇒ 保留新建。
+
+**我错在哪**
+她的：`he gave me **many** advice.`　　正确：`he gave me **a lot of** advice.`（一条 ＝ `a piece of advice`）
+找法：把"建议"换成 advice 这个词之后，回头看前面那个量词 —— **many 还站在那儿吗？**
+站着 ⇒ 换成 a lot of／some／a bit of。
+
+**题面**
+**点名**："很多建议"（"建议"用 **advice** 说，⛔ 不许用 many） ／ **点名**："一条建议"（"建议"用 **advice** 说，"一条"要用一个**量词块**说）
+
 - 2026-08-23 新建 · 付息日 a 段 · #261 七句整组里唯一掉的一句 · `he gave me **many** advice.`
   → a lot of advice
   ⚠️ **-s 那一半她是对的**（没写 advices）；掉的是**量词** —— many 只配可数名词
@@ -8696,24 +8997,6 @@ besides him       ← 否定句里成立（No one besides me knows.），
     造母语句推翻自己 —— `I have just one piece of advice for you.` 本身就是母语固定说法 ⇒ 档位不成立，未标
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 4 组（打包串里，她原话："其他的直接过"）
 
-- 备注 判据：advice 不可数 ⇒ 量词只能用
-```
-✅ a lot of advice ／ loads of advice ／ plenty of advice ／ much advice ／ some advice ／ a bit of advice
-✗ many advice ／ a few advices ／ an advice ／ three advices
-"一条建议" ＝ **a piece of advice**
-同样吃 a piece of 的：a piece of news／information／furniture／equipment／research／music
-```
-- 备注 ★ 判据一句话：**中文"很多建议"直接映射成 many suggestions 是对的**，
-  但一旦换成 advice 这个词，**量词必须跟着换** —— 错不在"知不知道 advice 不可数"，在"换词时量词没跟着换"
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `a lot of advice`／`a piece of advice`
-  ② grep "advice"／"a piece of"／"many " 全库（含已毕业）→ 命中 **#261**（本条的母条）
-     ＋ **🎓#115**（a couple of ＝ 两个；"几个"用 a few）
-  ③ 逐条读：**#261** 管"这一小撮抽象名词**不加 -s**"—— 她今天那句 -s 就没加，母条那一半是对的；
-     本条管**量词选哪个**（many vs a lot of）⇒ 是同一条可数性规则的**另一半**，
-     而母条已毕业 ⇒ 按 §3.2c ③ 摘出成立，不是重号。
-     **🎓#115** 管"几个"该用 a few 还是 a couple of，对象是**可数**名词 ⇒ 与本条无关
-  ⇒ 保留新建
 
 ### 271 · recently／lately／so far 这一族默认拉完成时（要用一般现在时就换成 these days）
 类型 语法 ｜ **合并条·出题多句覆盖**（§3.2c）｜ 新建 2026-08-23
