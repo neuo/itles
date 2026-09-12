@@ -11182,8 +11182,59 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · `that river winds its way through the city center.` —— winds its way ＋ 方向，结构一字不差
 
 ### 312 · search for sth（search 找"东西"必须带 for）
-类型 搭配 ｜ 题面 **点名**："找一份兼职"（用 **search** 说） ｜ 新建 2026-08-30
+类型 搭配 ｜ 新建 2026-08-30
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 词组
+
+**问题是什么**
+**search for sth**（search 找"东西"必须带 **for**）。
+判据：
+```
+search ＋ 宾语      ＝ **把某个地方／某个库翻一遍**（宾语是"被搜的范围"）
+  ✅ search the room（把房间翻一遍）　✅ search the web　✅ search the database　✅ They searched him.
+search **for** ＋ 宾语 ＝ **找某个东西**（宾语是"你要的那个东西"）
+  ✅ search for information　✅ search for a job　✅ search for an answer
+★ 一句话判据：**你在搜"哪儿" → search ＋ 地方；你在找"什么" → search for ＋ 东西。**
+★ 同族一起记（都是"找"，介词各不同）：
+  **look for sth**（找东西）／ **look sth up**（查资料）／ **search for sth**（搜索某物）
+★ 检查触发：写完 search，问一句 —— **后面这个词是"地方"还是"东西"？** 东西 ⇒ 补 for。
+★ 口语升级（不是本条考点，附记）：手机上"查东西"最顺的是 **look sth up ／ look up whatever…**；
+  search for information 偏正式一点。
+```
+★ 与 🎓**#100**（look for sth ≠ look up ＝ 查资料）的**互斥关系写死**：想说"查资料" ⇒ look up（#100）；
+　想用 search 说"搜某物" ⇒ search for（本条）。
+★ 与 **#18**（论元完整：动词必须带宾语）的分工：#18 是宾语**空着**，本条是宾语**有、缺的是介词**。
+★★ 与 **#313** **方向正好相反，两条必须一起读**：本条 search 后面**要补** for；
+　#313 message 后面**不许加** with ⇒ 动词跟不跟介词是**每个词自己的性质**，只能整块记。
+
+**怎么发现的**
+2026-08-30 ❌ 首犯 · 新题 P3（What technology do young people like to use?）· 她写
+`People can **search information** they want, order takeaway and even call a ride on their phones.`
+（→ search **for** information they want）—— search 后面直接跟的是"被搜查的地方／库"，不是"要找的东西"。
+判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
+```
+① 目标英文形式 ＝ `search for sth`
+② `lab.py dedup "search" "look up" "打车"` ＋ `grep -n "search" problems.md` → 命中逐条读：
+   · 🎓#100（look for sth ≠ look up ＝ 查资料）—— **最接近的一条**。
+     **决定性证据**：按 #100 的规则去改这句 ⇒ 它给的是"把动词换成 look up"
+     （`look up the information they want`）—— 那是**换一个词组**，不是修 search 的用法；
+     她若坚持用 search，#100 **给不出 `search for`** ⇒ 不是同一条规则。
+     **互斥关系写死**：想说"查资料" ⇒ look up（#100）｜想用 search 说"搜某物" ⇒ search for（本条）。
+   · #18（论元完整：动词必须带宾语）—— **方向相反**：#18 是宾语**空着**，
+     本条是宾语**有、缺的是介词**。按 #18 的规则改 ⇒ "把宾语补出来" ⇒ 她本来就有宾语
+     ⇒ **给不出正确答案** ⇒ 不同条。
+   · #18 的 08-20 日志行（`I searched for hours`）—— 那里 search 作**不及物**用，
+     是另一种用法，不是考点行。
+   · 🎓#86（go on a trip ＋ where to stay）—— 命中的是历史行例句里的 look up，不是考点。
+③ 说得出差在哪：#100 差在**换动词 vs 修介词**｜#18 差在**缺宾语 vs 缺介词** ⇒ **保留新建**
+```
+
+**我错在哪**
+她的：`People can **search information** they want`　　正确：`search **for** information they want`
+找法：写完 search，问一句 —— **后面这个词是"地方"还是"东西"？** 是东西 ⇒ 补 **for**。
+
+**题面**
+**点名**："找一份兼职"（用 **search** 说）
+
 - 2026-08-30 ❌ 首犯 · 新题 P3（What technology do young people like to use?）·
   `People can **search information** they want, order takeaway and even call a ride on their phones.`
   → search **for** information they want
@@ -11204,40 +11255,66 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
     两种语序母语者都说，属 ⛔ 教练不必要的改动。
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（第 11 题整串，她事后补的原话："11直接过"）
-- 备注 判据：
-```
-search ＋ 宾语      ＝ **把某个地方／某个库翻一遍**（宾语是"被搜的范围"）
-  ✅ search the room（把房间翻一遍）　✅ search the web　✅ search the database　✅ They searched him.
-search **for** ＋ 宾语 ＝ **找某个东西**（宾语是"你要的那个东西"）
-  ✅ search for information　✅ search for a job　✅ search for an answer
-★ 一句话判据：**你在搜"哪儿" → search ＋ 地方；你在找"什么" → search for ＋ 东西。**
-★ 同族一起记（都是"找"，介词各不同）：
-  **look for sth**（找东西）／ **look sth up**（查资料）／ **search for sth**（搜索某物）
-★ 检查触发：写完 search，问一句 —— **后面这个词是"地方"还是"东西"？** 东西 ⇒ 补 for。
-★ 口语升级（不是本条考点，附记）：手机上"查东西"最顺的是 **look sth up ／ look up whatever…**；
-  search for information 偏正式一点。
-```
-- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
-```
-① 目标英文形式 ＝ `search for sth`
-② `lab.py dedup "search" "look up" "打车"` ＋ `grep -n "search" problems.md` → 命中逐条读：
-   · 🎓#100（look for sth ≠ look up ＝ 查资料）—— **最接近的一条**。
-     **决定性证据**：按 #100 的规则去改这句 ⇒ 它给的是"把动词换成 look up"
-     （`look up the information they want`）—— 那是**换一个词组**，不是修 search 的用法；
-     她若坚持用 search，#100 **给不出 `search for`** ⇒ 不是同一条规则。
-     **互斥关系写死**：想说"查资料" ⇒ look up（#100）｜想用 search 说"搜某物" ⇒ search for（本条）。
-   · #18（论元完整：动词必须带宾语）—— **方向相反**：#18 是宾语**空着**，
-     本条是宾语**有、缺的是介词**。按 #18 的规则改 ⇒ "把宾语补出来" ⇒ 她本来就有宾语
-     ⇒ **给不出正确答案** ⇒ 不同条。
-   · #18 的 08-20 日志行（`I searched for hours`）—— 那里 search 作**不及物**用，
-     是另一种用法，不是考点行。
-   · 🎓#86（go on a trip ＋ where to stay）—— 命中的是历史行例句里的 look up，不是考点。
-③ 说得出差在哪：#100 差在**换动词 vs 修介词**｜#18 差在**缺宾语 vs 缺介词** ⇒ **保留新建**
-```
 
 ### 313 · message sb（发消息给某人，后面直接跟人）
-类型 搭配 ｜ 题面 **点名**："发消息给你" ／ "跟朋友发消息"（两句的"发消息"都用 **message** 当**动词**说） ｜ 新建 2026-08-30（**她当场指定**）
+类型 搭配 ｜ 新建 2026-08-30（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 词组
+
+**问题是什么**
+**message sb**（发消息给某人，后面**直接跟人**）。
+判据：
+```
+message 当**动词**时，**后面直接跟人**，不加 to／with：
+  ✅ I'll **message you** later.                        （✗ message **to** you）
+  ✅ She was **messaging her friends** all afternoon.    （✗ messaging **with** her friends）
+  ✅ He **messaged me** around midnight.
+★ 同一族（都直接跟人）：**text sb ／ call sb ／ email sb ／ answer sb**
+⚠️ **反例也在同一族里，别一起推**：**write to sb ／ reply to sb ／ talk to sb** —— 这几个要 to。
+★★ 与 #312 **方向正好相反，两条必须一起读**：
+     #312  search 后面**要补** for（search **for** information）
+     #313  message 后面**不许加** with（message her friends）
+   ⇒ 动词跟不跟介词，**不是一条规则能管的，是每个词自己的性质** ⇒ 只能整块记。
+     背的时候永远背整块：`search for sth` ／ `look sth up` ／ `message sb` ／ `call sb`。
+     （方法论侧写在 methods.md M45）
+★ 检查触发：写完一个"跟人说话／联系"的动词，问一句 ——
+  **这个词是直接跟人，还是要先架个 to？** 想不起来就换成一定直接跟人的 text／call。
+★★ **出题约束（写死）**：第二句题面（"**跟**朋友发消息"）才是本条的真正考位 ——
+  中文的"跟"最容易被直译成 with。⛔ 出题时不许只出第一句。
+```
+★ 与 **#18**（论元完整：动词必须带宾语）的分工：#18 是宾语**空着**，本条是宾语**有、却多架了一个介词**。
+
+**怎么发现的**
+2026-08-30 📝 新建 · **她当场指定**（§2③）· 新题 P3 里 · 她写
+`… scrolling through short videos or just **messaging with others**.`（→ messaging **their friends**）。
+★ **为什么新建行不记 ❌**（四问④档位）：`messaging with others` 在口语里不是明确的错
+（类比 chat with）⇒ 档位 ⚠️ 不是 ❌ ⇒ 记 📝、不记档位、不进连错。
+★ **教练犯规留痕**：本篇诊断里教练只判了"others 太泛"，**漏说 `with` 本身多余** ——
+她读出来了并当场指定建号。
+判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判）：
+```
+① 目标英文形式 ＝ `message sb`（动词后直接接人，无介词）
+② `lab.py dedup "message" "text sb" "email"` → 命中 **1 条**，逐条读：
+   · 🎓#267（get sth in front of sb）—— 命中的是历史行例句里的**名词** message
+     （`get your message in front of a bigger audience`），不是考点 ⇒ 无关。
+   再手工扩查两条最可能相关的：
+   · #18（论元完整：动词必须带宾语）—— **方向不同**：#18 是宾语**空着**，
+     本条是宾语**有、却多架了一个介词**。按 #18 的规则改 ⇒ "把宾语补出来" ⇒
+     她本来就有 others ⇒ **给不出正确答案** ⇒ 不同条。
+   · #312（search for sth，今天同日新建）—— **方向相反**：#312 是"必须加 for"。
+     按 #312 的规则改 ⇒ 得到"给 message 也补个介词" ⇒ **正是她的原句** ⇒ 给不出答案
+     ⇒ 不同条。★ 互斥已写死在两条的判据里（防她把两条记混）。
+③ 说得出差在哪：#18 差在**缺宾语 vs 多介词**｜#312 差在**要加 vs 不许加** ⇒ **保留新建**
+```
+
+**我错在哪**
+她的：`… or just **messaging with others**.`　　正确：`… or just **messaging their friends**.`
+（档位 ⚠️ 不是 ❌ —— 口语里 messaging with 不是明确的错，但不是母语者的默认说法。）
+找法：写完一个"跟人说话／联系"的动词，问一句 —— **这个词是直接跟人，还是要先架个 to？**
+message／text／call／email 一律**直接跟人**，⛔ 别被中文的"跟"骗去加 with。
+
+**题面**
+**点名**："发消息给你" ／ "跟朋友发消息"（两句的"发消息"都用 **message** 当**动词**说）
+
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 新题 P3 里 ·
   `… scrolling through short videos or just **messaging with others**.` → messaging **their friends**
   ★ **为什么新建行不记 ❌**（四问④档位）：`messaging with others` 在口语里不是明确的错
@@ -11258,44 +11335,55 @@ search **for** ＋ 宾语 ＝ **找某个东西**（宾语是"你要的那个东
     句内自洽 ⇒ **不判**，只记差异。
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
-- 备注 判据：
-```
-message 当**动词**时，**后面直接跟人**，不加 to／with：
-  ✅ I'll **message you** later.                        （✗ message **to** you）
-  ✅ She was **messaging her friends** all afternoon.    （✗ messaging **with** her friends）
-  ✅ He **messaged me** around midnight.
-★ 同一族（都直接跟人）：**text sb ／ call sb ／ email sb ／ answer sb**
-⚠️ **反例也在同一族里，别一起推**：**write to sb ／ reply to sb ／ talk to sb** —— 这几个要 to。
-★★ 与 #312 **方向正好相反，两条必须一起读**：
-     #312  search 后面**要补** for（search **for** information）
-     #313  message 后面**不许加** with（message her friends）
-   ⇒ 动词跟不跟介词，**不是一条规则能管的，是每个词自己的性质** ⇒ 只能整块记。
-     背的时候永远背整块：`search for sth` ／ `look sth up` ／ `message sb` ／ `call sb`。
-     （方法论侧写在 methods.md M45）
-★ 检查触发：写完一个"跟人说话／联系"的动词，问一句 ——
-  **这个词是直接跟人，还是要先架个 to？** 想不起来就换成一定直接跟人的 text／call。
-★★ **出题约束（写死）**：第二句题面（"**跟**朋友发消息"）才是本条的真正考位 ——
-  中文的"跟"最容易被直译成 with。⛔ 出题时不许只出第一句。
-```
-- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判）：
-```
-① 目标英文形式 ＝ `message sb`（动词后直接接人，无介词）
-② `lab.py dedup "message" "text sb" "email"` → 命中 **1 条**，逐条读：
-   · 🎓#267（get sth in front of sb）—— 命中的是历史行例句里的**名词** message
-     （`get your message in front of a bigger audience`），不是考点 ⇒ 无关。
-   再手工扩查两条最可能相关的：
-   · #18（论元完整：动词必须带宾语）—— **方向不同**：#18 是宾语**空着**，
-     本条是宾语**有、却多架了一个介词**。按 #18 的规则改 ⇒ "把宾语补出来" ⇒
-     她本来就有 others ⇒ **给不出正确答案** ⇒ 不同条。
-   · #312（search for sth，今天同日新建）—— **方向相反**：#312 是"必须加 for"。
-     按 #312 的规则改 ⇒ 得到"给 message 也补个介词" ⇒ **正是她的原句** ⇒ 给不出答案
-     ⇒ 不同条。★ 互斥已写死在两条的判据里（防她把两条记混）。
-③ 说得出差在哪：#18 差在**缺宾语 vs 多介词**｜#312 差在**要加 vs 不许加** ⇒ **保留新建**
-```
 
 ### 314 · economic（经济的）≠ economical（省钱的）
-类型 词汇 ｜ 题面 **点名**："经济增长"（那个形容词用 econom- 开头的词说） ｜ 新建 2026-08-31
+类型 词汇 ｜ 新建 2026-08-31
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 新建、当天首犯，两次点名直测连翻）｜ 题型 词组
+
+**问题是什么**
+**economic**（经济的）≠ **economical**（省钱的）。
+判据：
+```
+economic   ＝ 经济（方面）的 → economic growth ／ economic policy ／ economic crisis ／
+                              economic downturn ／ the economic situation
+economical ＝ 省钱的、省油的 → an economical car ／ an economical way to get around ／
+                              It's more economical to buy in bulk.
+★ 一句话：**-ic 的那个是"关于这个领域"，-ical 的那个另有意思。**
+★ 同族一起记（同一个后缀对立）：
+  historic（有历史意义的）／ historical（历史上的）
+  classic（经典的）／ classical（古典的）
+  economic（经济的）／ economical（省钱的）
+⚠️ ⛔ 别把这条推广成"凡 -ical 都是另一个意思"——**practical／political／physical 没有对立的 -ic 版本**。
+   这三对是要整块记住的**有限清单**，不是规则。
+```
+★ 与 🎓**#255**（vital ≠ virtual）的分工：同样是"形近词选错"，但 §3.2 写死「词汇/搭配按**具体的词**
+　一条一号」⇒ 另立；按 #255 的规则改 `economical growth` **给不出 economic**。
+★ 与 **#89**（加形容词回到 a）的分工：那条管**冠词**，本条管**选哪个形容词** ⇒ 不同层。
+
+**怎么发现的**
+2026-08-31 ❌ 首犯 · 付息日 d 段重答 R9（P3 · Should governments provide financial support to start-ups?）·
+她写 `So financial support from governments play a crucial role in **economical growth**.`
+★ 判为**选词**不是拼写（§2.1④）：调出来的是**另一个词**，不是同一个词写歪。
+★ 反证她不是不会 economy：**同一篇** S2 的 `a diverse economy` 用对 ⇒ 缺的只是**形容词那一格**。
+判重结论（§3.1 判重三步，2026-08-31 当天做）：**保留新建**
+```
+① 目标英文形式 ＝ `economic`
+② 全档 grep `economic\|economical`（**范围含已毕业**）⇒ **零命中**
+③ 最接近的一条 ＝ 🎓#255（vital ≠ virtual）—— 同样是"形近词选错"，
+   但 §3.2 写死「词汇/搭配按**具体的词**一条一号」⇒ 另立
+   **决定性证据**：按 #255 的规则去改 `economical growth`，它只管 vital／virtual 这一对，
+   **给不出 economic** ⇒ 不是同一条规则 ⇒ 新建
+④ 另比对 #89（加形容词回到 a）：那条管**冠词**，本条管**选哪个形容词** ⇒ 不同层
+```
+
+**我错在哪**
+她的：`play a crucial role in **economical growth**`　　正确：`in **economic** growth`
+找法：要说"经济的"就用 **-ic** 那个（economic）；**-ical** 那个是"省钱的"——
+这三对（economic/economical · historic/historical · classic/classical）**整块背，不是规则**。
+
+**题面**
+**点名**："经济增长"（那个形容词用 econom- 开头的词说）
+
 - 2026-08-31 ❌ 首犯 · 付息日 d 段重答 R9（P3 · Should governments provide financial support to start-ups?）·
   `So financial support from governments play a crucial role in **economical growth**.`
   ★ 判为**选词**不是拼写（§2.1④）：调出来的是**另一个词**，不是同一个词写歪。
@@ -11323,39 +11411,86 @@ message 当**动词**时，**后面直接跟人**，不加 to／with：
       两次同裁 ⚠️ 不建号，记进纵向发现，等第三例看形状能不能收敛。
   ⇒ 连对1 → **连对2，毕业**（状态行手写，见上）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 3 题整串，她原话："1-4 直接过"）
-- 备注 判据：
-```
-economic   ＝ 经济（方面）的 → economic growth ／ economic policy ／ economic crisis ／
-                              economic downturn ／ the economic situation
-economical ＝ 省钱的、省油的 → an economical car ／ an economical way to get around ／
-                              It's more economical to buy in bulk.
-★ 一句话：**-ic 的那个是"关于这个领域"，-ical 的那个另有意思。**
-★ 同族一起记（同一个后缀对立）：
-  historic（有历史意义的）／ historical（历史上的）
-  classic（经典的）／ classical（古典的）
-  economic（经济的）／ economical（省钱的）
-⚠️ ⛔ 别把这条推广成"凡 -ical 都是另一个意思"——**practical／political／physical 没有对立的 -ic 版本**。
-   这三对是要整块记住的**有限清单**，不是规则。
-```
 - 备注 **出题口径（单句，不做合并条）**：本次的缺口是**单向**的 ——
   想说"经济的"调出了 economical；**没有**"想说省钱的却调出 economic"的证据。
   ⇒ 照 🎓#255（vital ≠ virtual）的先例出**单句**，⛔ 不凭空造第二个方向（那是加戏）。
   若日后出现反向，再按 §3.2c③ 摘出来另立。
-- 判重结论（§3.1 判重三步，2026-08-31 当天做）：**保留新建**
-```
-① 目标英文形式 ＝ `economic`
-② 全档 grep `economic\|economical`（**范围含已毕业**）⇒ **零命中**
-③ 最接近的一条 ＝ 🎓#255（vital ≠ virtual）—— 同样是"形近词选错"，
-   但 §3.2 写死「词汇/搭配按**具体的词**一条一号」⇒ 另立
-   **决定性证据**：按 #255 的规则去改 `economical growth`，它只管 vital／virtual 这一对，
-   **给不出 economic** ⇒ 不是同一条规则 ⇒ 新建
-④ 另比对 #89（加形容词回到 a）：那条管**冠词**，本条管**选哪个形容词** ⇒ 不同层
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 315 · support FROM sb（谁给的）≠ support FOR sb（给谁的）
-类型 搭配 ｜ 题面 **点名**："政府的资金支持" ／ "政府对小企业的支持"（两句的"支持"都用**名词 support ＋ 介词**说） ｜ 新建 2026-09-01
+类型 搭配 ｜ 新建 2026-09-01
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；09-01 新建当天首犯，两次复测 from／for 两个方向各一句全中）｜ 题型 词组
+
+**问题是什么**
+**support FROM sb**（谁给的）≠ **support FOR sb**（给谁的）。
+判据：
+```
+support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
+  support **from** ＋ 出钱/出力的一方
+      financial support **from** the government ／ support **from** my family ／
+      funding **from** investors ／ help **from** a colleague
+  support **for** ＋ 受益的一方
+      support **for** start-ups ／ support **for** small businesses ／
+      support **for** the new policy ／ there's a lot of support **for** this idea
+★ 中文陷阱（本条的真考点）：中文一个"的"，英文两种角色 ——
+    「政府**的**资金支持」　＝ 政府出钱 ⇒ **出资方** ⇒ from
+    「对小企业**的**支持」　＝ 小企业收钱 ⇒ **受益方** ⇒ for
+  ⇒ 中文的"的"不带角色信息，英文必须自己判：**先问"谁出的钱"**，再挑介词。
+★ 最省事的绕开法：把出资方直接当定语放到前面 ——
+  **government funding** ／ **government support**（名词当形容词用，介词就不用挑了）
+★ 检查触发：写完 support／help／funding 这一族名词，问一句 ——
+  **我说的是"谁给的"还是"给谁的"？** 前者 from，后者 for。
+```
+★ 与 **#314**（economic ≠ economical，同一句里的另一处）的分工：那条管**形容词选词**，
+　按它的规则改**给不出 for→from** ⇒ 不同考点；**题面互斥**：本条题面里根本不出现"经济增长"。
+★ 与 **#243**（形容词 ＋ 固定介词整块记）的分工：那条是**形容词带死一个介词**；
+　本条是**同一个名词的两个介词各管一个语义角色、两个都对** ⇒ 不同层。
+★ 与 🎓**#200**（think FOR oneself ≠ by oneself）的分工：形状最像（一个词两个介词两个意思），
+　但 §3.2 写死「搭配按**具体的词**一条一号」⇒ 另立。
+★★ **出题口径**：**两句都出**（一句测 from、一句测 for），⛔ 不许只出一句 ——
+　只出 from 那一句，她永远测不到"什么时候该用 for"。这不是 §3.2c 的合并条，是**一条规则的两个方向**。
+
+**怎么发现的**
+2026-09-01 ❌ 首犯 · 复习第 1 组 [8] 句里（题面 `政府的资金支持对经济增长很关键。`）· 她写
+`**Financial support for governments** is vital to economic growth.`
+（→ Financial support **from** governments is vital to economic growth.）
+❌ 意思反了：她这句英文读出来是"**给**政府的资金支持"，中文说的是"政府**出**的资金支持"。
+判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `support from sb` ／ `support for sb`
+② 全档 grep（**范围含已毕业**）：
+   `grep "^### .*support"` ⇒ **零命中**
+   `grep "support from\|support for\|financial support"` ⇒ 只命中她自己的日志行
+     （#10 · 🎓#206 · #314），**一条条目都没有**
+   `grep "^### .*介词\|^### .*from\b"` ⇒ #62 #103 #127 #158 #170 #193 #242 #243 #266 #273 #274 #300 #308
+     逐条读过，无一管 support 的介词语义角色
+③ 三条最接近的，逐条排除：
+   · #314（同一句里的另一处）——管**形容词 economic／economical**。
+     **决定性证据**：按 #314 的规则去改她这句，只改得出 economical→economic，
+     **给不出 for→from** ⇒ 不同考点。
+   · #243（形容词 ＋ 固定介词整块记：familiar WITH／interested IN）——那条是**形容词带死一个介词**；
+     本条是**同一个名词的两个介词各管一个语义角色、两个都对**。
+     **决定性证据**：按 #243 的规则去改（"support 后面固定跟某个介词"）**得不到答案**，
+     因为 support from 与 support for 都是标准搭配，选哪个取决于谁出钱 ⇒ 不同层。
+   · 🎓#200（think FOR oneself ≠ by oneself）——形状最像（一个词两个介词两个意思），
+     但 §3.2 写死「搭配按**具体的词**一条一号」⇒ 另立。
+④ **题面互斥**（§3.1③ 硬要求）：
+   #314 的题面点名"经济增长那个形容词"；本条题面里**根本不出现"经济增长"**，
+   两句换成小公司/小企业的资金支持 ⇒ 两条题面不撞车，日后同组也不冲突。
+⑤ 出题口径：**两句都出**（一句测 from、一句测 for），⛔ 不许只出一句 ——
+   只出 from 那一句，她永远测不到"什么时候该用 for"。
+   ★ 这不是 §3.2c 的"合并条"（成员只有一个词 support），是**一条规则的两个方向**。
+```
+
+**我错在哪**
+她的：`**Financial support for governments** is vital to economic growth.`（意思反了）
+正确：`Financial support **from** governments is vital to economic growth.`
+找法：写完 support／help／funding 这一族名词，问一句 —— **我说的是"谁给的"还是"给谁的"？**
+前者 **from**，后者 **for**（中文的"的"不带这个信息，必须自己判）。
+
+**题面**
+**点名**："政府的资金支持" ／ "政府对小企业的支持"（两句的"支持"都用**名词 support ＋ 介词**说）
+
 - 2026-09-01 ❌ 首犯 · 复习第1组 [8] 句里（题面 `政府的资金支持对经济增长很关键。`）·
   `**Financial support for governments** is vital to economic growth.`
   → Financial support **from** governments is vital to economic growth.
@@ -11382,24 +11517,6 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
   ★ 判前自审留痕：`support of the government` 会反向读成"对政府的支持"，
     `give support to sb` 里的 to 是动词 give 带的、不是名词 support 带的 ⇒ from／for 才是本条的两个出口。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
-- 备注 判据：
-```
-support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
-  support **from** ＋ 出钱/出力的一方
-      financial support **from** the government ／ support **from** my family ／
-      funding **from** investors ／ help **from** a colleague
-  support **for** ＋ 受益的一方
-      support **for** start-ups ／ support **for** small businesses ／
-      support **for** the new policy ／ there's a lot of support **for** this idea
-★ 中文陷阱（本条的真考点）：中文一个"的"，英文两种角色 ——
-    「政府**的**资金支持」　＝ 政府出钱 ⇒ **出资方** ⇒ from
-    「对小企业**的**支持」　＝ 小企业收钱 ⇒ **受益方** ⇒ for
-  ⇒ 中文的"的"不带角色信息，英文必须自己判：**先问"谁出的钱"**，再挑介词。
-★ 最省事的绕开法：把出资方直接当定语放到前面 ——
-  **government funding** ／ **government support**（名词当形容词用，介词就不用挑了）
-★ 检查触发：写完 support／help／funding 这一族名词，问一句 ——
-  **我说的是"谁给的"还是"给谁的"？** 前者 from，后者 for。
-```
 - 备注 **本条的诊断价值（反向证据，与她平时的形状相反）**：
 ```
 她 08-31 在 R9 **cold 自由产出**里自己写的是 `financial support **from** governments` ✅
@@ -11410,37 +11527,75 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
   **本条正好反过来** ⇒ 只有中译英题面测得到它，自由产出测不出来。
   ⛔ 因此本条不许靠"自由产出自发命中"毕业，必须点名直测。
 ```
-- 判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `support from sb` ／ `support for sb`
-② 全档 grep（**范围含已毕业**）：
-   `grep "^### .*support"` ⇒ **零命中**
-   `grep "support from\|support for\|financial support"` ⇒ 只命中她自己的日志行
-     （#10 · 🎓#206 · #314），**一条条目都没有**
-   `grep "^### .*介词\|^### .*from\b"` ⇒ #62 #103 #127 #158 #170 #193 #242 #243 #266 #273 #274 #300 #308
-     逐条读过，无一管 support 的介词语义角色
-③ 三条最接近的，逐条排除：
-   · #314（同一句里的另一处）——管**形容词 economic／economical**。
-     **决定性证据**：按 #314 的规则去改她这句，只改得出 economical→economic，
-     **给不出 for→from** ⇒ 不同考点。
-   · #243（形容词 ＋ 固定介词整块记：familiar WITH／interested IN）——那条是**形容词带死一个介词**；
-     本条是**同一个名词的两个介词各管一个语义角色、两个都对**。
-     **决定性证据**：按 #243 的规则去改（"support 后面固定跟某个介词"）**得不到答案**，
-     因为 support from 与 support for 都是标准搭配，选哪个取决于谁出钱 ⇒ 不同层。
-   · 🎓#200（think FOR oneself ≠ by oneself）——形状最像（一个词两个介词两个意思），
-     但 §3.2 写死「搭配按**具体的词**一条一号」⇒ 另立。
-④ **题面互斥**（§3.1③ 硬要求）：
-   #314 的题面点名"经济增长那个形容词"；本条题面里**根本不出现"经济增长"**，
-   两句换成小公司/小企业的资金支持 ⇒ 两条题面不撞车，日后同组也不冲突。
-⑤ 出题口径：**两句都出**（一句测 from、一句测 for），⛔ 不许只出一句 ——
-   只出 from 那一句，她永远测不到"什么时候该用 for"。
-   ★ 这不是 §3.2c 的"合并条"（成员只有一个词 support），是**一条规则的两个方向**。
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 316 · log in（动词，两个词）≠ login（名词，一个词）
-类型 词汇 ｜ 题面 **点名**："登不进去" ／ "登录页面"（两句都用 **log** 这个词说；第一句当**动作**，第二句当**东西**） ｜ 新建 2026-09-01
+类型 词汇 ｜ 新建 2026-09-01
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；题面 09-03 整改过——只钉词根 log 不钉词形，两次测的都是真考点）｜ 题型 词组
+
+**问题是什么**
+**log in**（动词，两个词）≠ **login**（名词，一个词）。
+判据：
+```
+动词 ＝ **log in**（分开写两个词）
+   I can't **log in**. ／ **log into** your account ／ **log out** when you leave ／
+   Have you **logged in** yet?
+名词/形容词 ＝ **login**（连着写一个词）
+   your **login** details ／ the **login** page ／ click the **login** button ／ I forgot my **login**.
+⛔ `login in` 不存在 —— 那是把名词当动词用了，然后又补了一个 in。
+★ 同族一起记（**动词分开写、名词连着写**，这一族在她的工作场景里高频）：
+   log in ／ a login          set up  ／ a setup
+   back up ／ a backup        check in ／ a check-in
+   sign up ／ a signup        roll out ／ a rollout
+★ 检查触发：写完 login／setup／backup 这一族，问一句 ——
+  **我这里要的是"动作"还是"东西"？动作 ⇒ 分开写两个词。**
+```
+★ 与 🎓**#62**（drive past sth：past 是介词，pass 是动词）的分工 —— **形状最像**（同一串字母的
+　两种词类被混用），但 §3.2「词汇/搭配按具体的词一条一号」⇒ 另立。
+★ 与 🎓**#213**（功能上线 ＝ go live／be released）的分工：同属她的工作场景词，管的是"上线"用哪个动词 ⇒ 无关。
+★ **不是形态类**：#56／#63 管单复数与冠词，本条管**词类**（名词 vs 动词短语），
+　§3.4 的形态类清单里**没有"词类"** ⇒ 照常记 ❌，⛔ 不走 ⚪。
+★★ **出题口径**：两句都出（一句测动词、一句测名词），⛔ 不许只出一句 ——
+　这不是 §3.2c 的合并条（成员只有 log in 这一个词），是**一个词的两种词类**。
+
+**怎么发现的**
+2026-09-01 ❌ 首犯 · 新题 P3（question_bank.md:490 · What are the rules people should obey at work?）· 她写
+`I remember one time users could neither **login in** nor place orders because the developer released a wrong version.`
+（→ users could neither **log in** nor place orders）
+❌ 把名词 login 整块当成了动词，然后又补了一个 in。英语里没有 `login in` 这个形式。
+★ 同句 `neither … nor` 用对 ＝ 🎓#65 的自发命中 ⇒ **她的问题只在 log in 这一个块上**。
+判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `log in`（动词分写）／ `login`（名词连写）
+② 全档 grep（**范围含已毕业**）：
+   `grep "log in\|login\|log on" problems.md methods.md` ⇒ **零命中**
+③ 三条最接近的，逐条排除：
+   · 🎓#62（drive past sth：past 是介词，pass 是动词）——**形状最像**：
+     同一串字母的两种词类被混用。
+     **决定性证据**：按 #62 的规则去改她这句，它只管 past／pass 这一对，**给不出 log in**
+     ⇒ 不同条（§3.2「词汇/搭配按具体的词一条一号」）。
+   · 🎓#213（功能上线 ＝ go live／be released）——同属她的工作场景词，
+     管的是"上线"这个动作用哪个动词，不管 log in 的分写 ⇒ 无关。
+     ★ 而且今天她 `released` 用对，正是 #213 的自发命中，两条不冲突、不重叠。
+   · #56／#63（形态类）——那两条管单复数与冠词；本条管**词类**（名词 vs 动词短语）。
+     §3.4 的形态类清单是「主谓一致·时态标记·单复数/限定词·冠词/指称·比较级·否定标记·
+     不规则动词变形」——**里面没有"词类"** ⇒ 本条照常记 ❌，⛔ 不走 ⚪。
+④ 是不是拼写（§2.1 不算错）？**不是。**
+   §2.1④ 的判据是"她脑子里调的词对不对"——她调出来的是屏幕上看惯的**名词 login**，
+   再补了个 in ⇒ 属「选词（调出另一个词）」，照常算。
+   ★ 反证：真拼写错长成 `logn in`／`log inn` 那样；**多余的那个 in**
+     说明她把 login 整块当动词了，不是手指打歪。
+```
+
+**我错在哪**
+她的：`users could neither **login in** nor place orders`　　正确：`could neither **log in** nor place orders`
+找法：写完 login／setup／backup 这一族，问一句 —— **我这里要的是"动作"还是"东西"？**
+动作 ⇒ **分开写两个词**（log in）；东西 ⇒ 连着写（the login page）。
+
+**题面**
+**点名**："登不进去" ／ "登录页面"（两句都用 **log** 这个词说；第一句当**动作**，第二句当**东西**）
+★ 题面 2026-09-03 整改：加点名"两句的登录都用 **log** 这个词说"，堵掉 `sign in`／`the sign-in page` 这条合法绕道。**只点词根不点词形** —— 分写还是连写仍由她自己判，考位一个字没漏出去（§6"可点目标词，不许整句给答案"）
+
 - 2026-09-01 ❌ 首犯 · 新题 P3（question_bank.md:490 · What are the rules people should obey at work?）·
   `I remember one time users could neither **login in** nor place orders because the developer released a wrong version.`
   → users could neither **log in** nor place orders
@@ -11475,51 +11630,79 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
   ★ 不判的一处（留痕）：09-03 她用 `and`、今天用 `so` 连接前后两句 —— 两个都合法，
     且中文本就是因果 ⇒ 不判、不提。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
-- 备注 判据：
-```
-动词 ＝ **log in**（分开写两个词）
-   I can't **log in**. ／ **log into** your account ／ **log out** when you leave ／
-   Have you **logged in** yet?
-名词/形容词 ＝ **login**（连着写一个词）
-   your **login** details ／ the **login** page ／ click the **login** button ／ I forgot my **login**.
-⛔ `login in` 不存在 —— 那是把名词当动词用了，然后又补了一个 in。
-★ 同族一起记（**动词分开写、名词连着写**，这一族在她的工作场景里高频）：
-   log in ／ a login          set up  ／ a setup
-   back up ／ a backup        check in ／ a check-in
-   sign up ／ a signup        roll out ／ a rollout
-★ 检查触发：写完 login／setup／backup 这一族，问一句 ——
-  **我这里要的是"动作"还是"东西"？动作 ⇒ 分开写两个词。**
-```
 - 备注 **出题口径（两句，一句测动词一句测名词，⛔ 不许只出一句）**：
   只出动词那一句，她永远测不到"什么时候该连着写"；只出名词那一句，考位根本没碰到。
   ★ 这不是 §3.2c 的"合并条"（成员只有 log in 这一个词），是**一个词的两种词类**。
-- 判重结论（§3.1 判重三步，2026-09-01 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `log in`（动词分写）／ `login`（名词连写）
-② 全档 grep（**范围含已毕业**）：
-   `grep "log in\|login\|log on" problems.md methods.md` ⇒ **零命中**
-③ 三条最接近的，逐条排除：
-   · 🎓#62（drive past sth：past 是介词，pass 是动词）——**形状最像**：
-     同一串字母的两种词类被混用。
-     **决定性证据**：按 #62 的规则去改她这句，它只管 past／pass 这一对，**给不出 log in**
-     ⇒ 不同条（§3.2「词汇/搭配按具体的词一条一号」）。
-   · 🎓#213（功能上线 ＝ go live／be released）——同属她的工作场景词，
-     管的是"上线"这个动作用哪个动词，不管 log in 的分写 ⇒ 无关。
-     ★ 而且今天她 `released` 用对，正是 #213 的自发命中，两条不冲突、不重叠。
-   · #56／#63（形态类）——那两条管单复数与冠词；本条管**词类**（名词 vs 动词短语）。
-     §3.4 的形态类清单是「主谓一致·时态标记·单复数/限定词·冠词/指称·比较级·否定标记·
-     不规则动词变形」——**里面没有"词类"** ⇒ 本条照常记 ❌，⛔ 不走 ⚪。
-④ 是不是拼写（§2.1 不算错）？**不是。**
-   §2.1④ 的判据是"她脑子里调的词对不对"——她调出来的是屏幕上看惯的**名词 login**，
-   再补了个 in ⇒ 属「选词（调出另一个词）」，照常算。
-   ★ 反证：真拼写错长成 `logn in`／`log inn` 那样；**多余的那个 in**
-     说明她把 login 整块当动词了，不是手指打歪。
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 317 · when it comes TO sth（说到／在……这件事上）
-类型 词组 ｜ 题面 **点名**："说到网购和穿搭这些"（用 **come** 说） ｜ 新建 2026-09-03
+类型 词组 ｜ 新建 2026-09-03
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-04 同日两次独立产出：第 1 组点名中译英 ＋ 新题第 2 道自由产出；§3.3 她 08-23 定"同一天多次产出各记一次"）｜ 题型 词组
+
+**问题是什么**
+**when it comes TO sth**（说到／在……这件事上）。
+判据：
+```
+when it comes to X        ＝ 说到 X／在 X 这件事上（**引出话题**，后面接名词/动名词）
+   When it comes to money, everyone gets careful.
+   When it comes to cooking, I'm useless.
+   When it comes to **learning** a language, you just have to keep at it.   ← 接动名词
+it (all) comes down to X  ＝ 归根到底就是 X（**把一堆原因收成一个**）        ← 🎓#58
+   It all comes down to money.
+   When it comes down to **it**, …  ← 这是固定说法，后面那个 it **不能换成话题词**
+⛔ 她这次的形状 ＝ 把已经会的 comes down to 塞进了 when it comes to 的槽位：
+   `when it comes down to modern lifestyle and trends` 读出来是
+   "当[某事]归根到底是现代生活方式时" —— 前面根本没有那个"某事" ⇒ 句子挂空。
+★ 一句话记：**话题用 to，收束用 down to；差的就是一个 down。**
+★ 检查触发：写完 come 那个块，问一句 ——
+  **我这里是"说到"还是"归根到底"？"说到" ⇒ 没有 down。**
+```
+★ 与 🎓**#58**（it mainly comes down to）的**互斥关系（当场写死）**：#58 题面「说到底就是钱的问题。」
+　＝ 收束；本条题面「说到网购和穿搭这些…」＝ 引出话题。中文触发词一个是"说到**底**"、一个是"说到"，
+　字面互斥，不会撞车。
+★ 与 🎓**#284**（boil down to sth）的分工：与 #58 同族（收束），方向与本条相反 ⇒ 无关。
+★★ **出题口径**：只出"说到"那一句，⛔ 不在同一题里混进"说到底"（那归 🎓#58／🎓#284）。
+
+**怎么发现的**
+2026-09-03 ❌ 首犯 · 新题 P3（question_bank.md:831 · When would old people ask young people for advice?）· 她写
+`On top of that, when it **comes down to** modern lifestyle and trends - like online shopping,
+fashion choices or entertainment - older people might ask for recommendations…`
+（→ when it **comes to** modern lifestyle and trends）
+❌ 她要的是**引出话题**，用的却是**收束**那个块；错点收敛到一个词 `down`。
+★ 归因：这个错的来源**不是不会，是太熟** —— `comes down to` 是 🎓#58，她在 08-28／08-29 两次都
+在题面完全没提的情况下自己接出来过 ⇒ 熟到自动化的块在压力下会去占相邻槽位。
+判重结论（§3.1 判重三步，2026-09-03 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `when it comes to X`（引出话题）
+② 全档 grep（**范围含已毕业**）：
+   `grep "comes to\|comes down\|it comes" problems.md methods.md`
+     ⇒ 🎓#58（it mainly comes down to）· 🎓#284（boil down to）· #56 附近留痕 ·
+       L1717 `if he comes tomorrow`（无关，是条件句）
+   中文题面 `grep "说到"` ⇒ 只命中 🎓#58／🎓#284 的"说到**底**"
+③ 三条最接近的，逐条排除：
+   · 🎓#58（it mainly comes down to ＝ 说到底就是）——**形状最像**，同一个动词块。
+     **决定性证据**：按 #58 的规则去改她这句，改出来的还是 `comes down to`
+     ⇒ **得不到正确答案** ⇒ 不同考点（§3.1③"只是像、目标形式不同 → 两条"）。
+     **互斥关系（当场写死）**：#58 题面「说到底就是钱的问题。」＝ 收束；
+       本条题面「说到网购和穿搭这些，老人常会问年轻人。」＝ 引出话题。
+       中文触发词一个是"说到**底**"、一个是"说到"，字面互斥，不会撞车。
+   · 🎓#284（boil down to sth ＝ 说到底就是）——与 #58 同族（收束），方向与本条相反 ⇒ 无关。
+     且 #284 的中文触发词 08-23 已被她当场指定为"说到底就是"专属 ⇒ 更不会撞。
+   · #56／#63（形态类）——那两条管单复数与冠词；本条是**固定词组选错**，不是形态 ⇒ 无关。
+④ 是不是拼写（§2.1 不算错）？**不是** —— 她调出来的是**另一个词组**（多了一个实词 down），
+   属「选词」，§2.1④ 判据"她脑子里调的词对不对" ⇒ 照常算。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `when it comes to`，成员数得出来。
+```
+
+**我错在哪**
+她的：`when it **comes down to** modern lifestyle and trends`
+正确：`when it **comes to** modern lifestyle and trends`
+找法：写完 come 那个块，问一句 —— **我这里是"说到"还是"归根到底"？**
+"说到" ⇒ **没有 down**。
+
+**题面**
+**点名**："说到网购和穿搭这些"（用 **come** 说）
+
 - 2026-09-03 ❌ 首犯 · 新题 P3（question_bank.md:831 · When would old people ask young people for advice?）·
   `On top of that, when it **comes down to** modern lifestyle and trends - like online shopping,
   fashion choices or entertainment - older people might ask for recommendations…`
@@ -11556,46 +11739,8 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
        掉的那一格没被测到"；本次命中的**正是掉的那一格**（down 在不在）⇒ 不适用。
   ⇒ 连对 1 → **2**，达线（毕业状态行手工改，见状态行）。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
-- 备注 判据：
-```
-when it comes to X        ＝ 说到 X／在 X 这件事上（**引出话题**，后面接名词/动名词）
-   When it comes to money, everyone gets careful.
-   When it comes to cooking, I'm useless.
-   When it comes to **learning** a language, you just have to keep at it.   ← 接动名词
-it (all) comes down to X  ＝ 归根到底就是 X（**把一堆原因收成一个**）        ← 🎓#58
-   It all comes down to money.
-   When it comes down to **it**, …  ← 这是固定说法，后面那个 it **不能换成话题词**
-⛔ 她这次的形状 ＝ 把已经会的 comes down to 塞进了 when it comes to 的槽位：
-   `when it comes down to modern lifestyle and trends` 读出来是
-   "当[某事]归根到底是现代生活方式时" —— 前面根本没有那个"某事" ⇒ 句子挂空。
-★ 一句话记：**话题用 to，收束用 down to；差的就是一个 down。**
-★ 检查触发：写完 come 那个块，问一句 ——
-  **我这里是"说到"还是"归根到底"？"说到" ⇒ 没有 down。**
-```
 - 备注 **出题口径**：只出"说到"那一句，⛔ 不在同一题里混进"说到底"——
   "说到底"归 🎓#58／🎓#284，中文触发词已经分掉了，混着出会让她分不清在测哪一条。
-- 判重结论（§3.1 判重三步，2026-09-03 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `when it comes to X`（引出话题）
-② 全档 grep（**范围含已毕业**）：
-   `grep "comes to\|comes down\|it comes" problems.md methods.md`
-     ⇒ 🎓#58（it mainly comes down to）· 🎓#284（boil down to）· #56 附近留痕 ·
-       L1717 `if he comes tomorrow`（无关，是条件句）
-   中文题面 `grep "说到"` ⇒ 只命中 🎓#58／🎓#284 的"说到**底**"
-③ 三条最接近的，逐条排除：
-   · 🎓#58（it mainly comes down to ＝ 说到底就是）——**形状最像**，同一个动词块。
-     **决定性证据**：按 #58 的规则去改她这句，改出来的还是 `comes down to`
-     ⇒ **得不到正确答案** ⇒ 不同考点（§3.1③"只是像、目标形式不同 → 两条"）。
-     **互斥关系（当场写死）**：#58 题面「说到底就是钱的问题。」＝ 收束；
-       本条题面「说到网购和穿搭这些，老人常会问年轻人。」＝ 引出话题。
-       中文触发词一个是"说到**底**"、一个是"说到"，字面互斥，不会撞车。
-   · 🎓#284（boil down to sth ＝ 说到底就是）——与 #58 同族（收束），方向与本条相反 ⇒ 无关。
-     且 #284 的中文触发词 08-23 已被她当场指定为"说到底就是"专属 ⇒ 更不会撞。
-   · #56／#63（形态类）——那两条管单复数与冠词；本条是**固定词组选错**，不是形态 ⇒ 无关。
-④ 是不是拼写（§2.1 不算错）？**不是** —— 她调出来的是**另一个词组**（多了一个实词 down），
-   属「选词」，§2.1④ 判据"她脑子里调的词对不对" ⇒ 照常算。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `when it comes to`，成员数得出来。
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 318 · one time WHEN ＋ 背景，主句装事件（讲往事的挂接顺序）
