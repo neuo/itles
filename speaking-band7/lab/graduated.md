@@ -11744,8 +11744,62 @@ fashion choices or entertainment - older people might ask for recommendations…
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 318 · one time WHEN ＋ 背景，主句装事件（讲往事的挂接顺序）
-类型 结构 ｜ 题面 **点名**："我记得有一次，他两岁的时候，把一张画拿给我看。"（用 **one time** 起头说） ｜ 新建 2026-09-04
+类型 结构 ｜ 新建 2026-09-04
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 整句
+
+**问题是什么**
+**one time WHEN ＋ 背景，主句装事件**（讲往事的挂接顺序）。
+判据：
+```
+讲一件往事，句子里有三样东西：
+  背景A 有一次／有一天        背景B 那时候他几岁／在哪儿／在干嘛     事件 发生了什么
+英语的装法固定：**背景全部塞进 when 从句，主句里只装事件**。
+  ✓ I remember one time **when** my son was two years old, **he showed me a picture**.
+  ✓ I remember **when** my son was two, he once **showed me a picture**.
+  ✗ I remember one time my son was two years old, **when** he showed me a picture.
+    （主句变成"有一次我儿子两岁"—— 状态不能"发生一次"；事件被降级成从句 ⇒ 句子挂空）
+★ 检查触发：写完 `one time` / `one day` 之后问一句 ——
+  **我的主句里装的是"发生了什么"吗？** 不是 ⇒ when 挪位。
+```
+★ 与 🎓**#59**（嵌进句子里用陈述语序）的分工 —— 形状最像（都是从句）：#59 只管"从句里有没有倒装"，
+　按它的规则**改不出 when 的位置** ⇒ 不同考点。
+★ **不是伞形条目**（§3.2b）：目标形式收敛成一条可复述的规则（背景进 when，事件进主句）。
+
+**怎么发现的**
+2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）· 她写
+`I remember **one time my son was two years old, when he presented** me a picture and pointed three circle on it…`
+（→ I remember **one time when my son was two years old, he showed** me a picture…）
+❌ 主从颠倒：两样**背景**（有一次 ／ 他两岁）＋ 一件**事**（他给我看画），原句把"他两岁"当成了
+one time 的内容，真正的事件反而被 when 挂成了从句 ⇒ 主句里没有"发生了什么"。
+★ 归因：她 09-01 写过 `I remember one time users could neither login…`，**那次结构是对的**
+⇒ 今天不是老毛病，是**多了一层背景（几岁）之后不知道往哪儿挂** ⇒ 题面必须**带两层背景**才测得到。
+判重结论（§3.1 判重三步，2026-09-04 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `one time **when** ＋ 背景, ＋ 主句事件`（挂接顺序，不是某个词）
+② 全档 grep（**范围含已毕业**）：
+   `grep "one time"` ⇒ L916（🎓#59 日志里的 `one time (when) we needed to present`，是命中记录不是条目）
+                      · L2305／L5200（sessions 引文）· L5733（🎓#316 日志里她 09-01 的正确句）
+   `grep "when 从句\|时间状语从句\|背景.*主句"` ⇒ **零命中**
+   ⇒ 全档**没有任何条目**管"从句挂接对象"这件事
+③ 最接近的一条逐条排除：
+   · 🎓#59（直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序）——形状最像（都是从句）。
+     **决定性证据**：按 #59 的规则去改她这句 ⇒ 只会去检查"从句里有没有倒装"，
+     她的从句语序本来就是陈述的 ⇒ **改不出 when 的位置** ⇒ 不同考点。
+   · #18（论元完整）／🎓#134（能单独站住的动词）——管的是动词带不带宾语 ⇒ 无关。
+④ 是不是拼写（§2.1）？**不是**，是结构。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式收敛成一条可复述的规则
+   （背景进 when，事件进主句），⛔ 不是"结构断裂"那种开放集合。
+```
+
+**我错在哪**
+她的：`I remember **one time my son was two years old, when he presented** me a picture`
+正确：`I remember **one time when my son was two years old, he showed** me a picture`
+找法：写完 `one time`／`one day` 之后问一句 —— **我的主句里装的是"发生了什么"吗？**
+不是（装的是一段状态）⇒ 把 **when 往前挪一格**，让它领住背景。
+
+**题面**
+**点名**："我记得有一次，他两岁的时候，把一张画拿给我看。"（用 **one time** 起头说）
+
 - 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）·
   `I remember **one time my son was two years old, when he presented** me a picture and pointed three circle on it…`
   → I remember **one time when my son was two years old, he showed** me a picture…
@@ -11765,40 +11819,58 @@ fashion choices or entertainment - older people might ask for recommendations…
   —— one time when ＋ 背景、主句装事件，挂接顺序全对 ⇒ 连对 2，**毕业**
   （shown 是形态类，只记 ⚪ 到 #93，不影响本条）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（她原话："5-9 直接过"）
-- 备注 判据：
-```
-讲一件往事，句子里有三样东西：
-  背景A 有一次／有一天        背景B 那时候他几岁／在哪儿／在干嘛     事件 发生了什么
-英语的装法固定：**背景全部塞进 when 从句，主句里只装事件**。
-  ✓ I remember one time **when** my son was two years old, **he showed me a picture**.
-  ✓ I remember **when** my son was two, he once **showed me a picture**.
-  ✗ I remember one time my son was two years old, **when** he showed me a picture.
-    （主句变成"有一次我儿子两岁"—— 状态不能"发生一次"；事件被降级成从句 ⇒ 句子挂空）
-★ 检查触发：写完 `one time` / `one day` 之后问一句 ——
-  **我的主句里装的是"发生了什么"吗？** 不是 ⇒ when 挪位。
-```
-- 判重结论（§3.1 判重三步，2026-09-04 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `one time **when** ＋ 背景, ＋ 主句事件`（挂接顺序，不是某个词）
-② 全档 grep（**范围含已毕业**）：
-   `grep "one time"` ⇒ L916（🎓#59 日志里的 `one time (when) we needed to present`，是命中记录不是条目）
-                      · L2305／L5200（sessions 引文）· L5733（🎓#316 日志里她 09-01 的正确句）
-   `grep "when 从句\|时间状语从句\|背景.*主句"` ⇒ **零命中**
-   ⇒ 全档**没有任何条目**管"从句挂接对象"这件事
-③ 最接近的一条逐条排除：
-   · 🎓#59（直接疑问 vs 嵌入疑问：嵌进句子里就用陈述语序）——形状最像（都是从句）。
-     **决定性证据**：按 #59 的规则去改她这句 ⇒ 只会去检查"从句里有没有倒装"，
-     她的从句语序本来就是陈述的 ⇒ **改不出 when 的位置** ⇒ 不同考点。
-   · #18（论元完整）／🎓#134（能单独站住的动词）——管的是动词带不带宾语 ⇒ 无关。
-④ 是不是拼写（§2.1）？**不是**，是结构。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式收敛成一条可复述的规则
-   （背景进 when，事件进主句），⛔ 不是"结构断裂"那种开放集合。
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 320 · point AT sth（指着某样东西）
-类型 搭配 ｜ 题面 **点名**："指着墙上那张照片"（用 **point** 说，⛔ 不许用 to） ｜ 新建 2026-09-04
+类型 搭配 ｜ 新建 2026-09-04
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 词组
+
+**问题是什么**
+**point AT sth**（指着某样东西）。
+判据：
+```
+指着一个目标            point **at** sth        He pointed **at** the photo on the wall.
+把某物瞄准某处（及物）   point sth **at** sth    He pointed the camera **at** me.
+★ 检查触发：写完 point，问一句 —— **我是在"指"，还是在"把某个东西瞄准"？**
+  在"指" ⇒ point 后面必须先出现 **at**。
+```
+★ 本条考点是"表'指'时 point 后面的**介词不能省**"（point **to** 在物理指认时同样地道 ⇒ 题面已排除 to）。
+★ 同一格里的邻居（别串，⛔ 不并进本条）：`point sth **out**` ＝ 指出来／点明 —— **另一个块**，
+　意思是"把没人注意到的东西说出来"，不是用手指。
+★ 与 🎓**#229**（complain 不及物，带 about）的分工 —— 形状最像（都是"这个动词后面要带介词"），
+　但按 #229 的规则只产出 about，**产不出 at** ⇒ 不同考点。
+★ 与 **#18**（论元完整）的分工 —— **方向相反**：她**给了**宾语，缺的是介词。
+
+**怎么发现的**
+2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）· 她写
+`he presented me a picture and **pointed three circle** on it`（→ **pointed at** three circles on it）
+❌ point 表"指"时后面必须带介词：**point at sth**。裸的 `point sth` 只在"把某物瞄准某处"时成立
+（point a gun at sb），那时的宾语是**被举起来瞄准的那个东西**，不是"被指的目标"。
+判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
+```
+① 目标英文形式 ＝ `point **at** sth`
+② 全档 grep（**范围含已毕业**）：`grep "point at\|pointed\|point to"` ⇒ **零命中**
+③ 最接近的三条逐条排除：
+   · 🎓#229（complain 不及物，带 about）——形状最像（都是"这个动词后面要带介词"）。
+     **决定性证据**：按 #229 的规则去改她这句 ⇒ 只产出 about，**产不出 at** ⇒ 不同考点。
+   · #18（论元完整：中文可单说的动词，英文必须带宾语/补语）——**方向相反**：
+     她**给了**宾语（three circle），缺的是介词 ⇒ 无关。
+   · 🎓#134（不是所有动词都要宾语·白名单）——那条是"可以不带宾语"，与本次无关。
+④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
+⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `point at`；
+   ⛔ 没有开成"动词后面要带介词"那种开放集合（那才是伞形）。
+```
+
+**我错在哪**
+她的：`he presented me a picture and **pointed three circle** on it`
+正确：`**pointed at** three circles on it`
+找法：写完 point，问一句 —— **我是在"指"，还是在"把某个东西瞄准"？**
+在"指" ⇒ point 后面必须先出现 **at**。
+
+**题面**
+**点名**："指着墙上那张照片"（用 **point** 说，⛔ 不许用 to）
+★ 题面 2026-09-07 补一条排除「⛔ 不许用 to」：point **to** 在物理指认时同样地道 ⇒ 第二译法没被收敛；排除 to 之后考点原样保留、也没给出 at
+
 - 2026-09-04 ❌ 首犯 · 新题第 1 道（自由产出 · bank:875 P3）·
   `he presented me a picture and **pointed three circle** on it`
   → **pointed at** three circles on it
@@ -11814,46 +11886,18 @@ fashion choices or entertainment - older people might ask for recommendations…
 - 2026-09-07 ✅ 复习 · 在池第 2 组 · `point at the picture on the wall`
   —— 表"指"时介词没省，⛔ 没有落回 09-04 的裸 `pointed three circle` ⇒ 连对 2，**毕业**
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（打包串，她原话："除了 3）忘了，其他直接过"）
-- 备注 判据：
-```
-指着一个目标            point **at** sth        He pointed **at** the photo on the wall.
-把某物瞄准某处（及物）   point sth **at** sth    He pointed the camera **at** me.
-★ 检查触发：写完 point，问一句 —— **我是在"指"，还是在"把某个东西瞄准"？**
-  在"指" ⇒ point 后面必须先出现 **at**。
-```
 - 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
   `point sth **out**` ＝ 指出来／点明（She pointed out two mistakes.）——**另一个块**，
   意思是"把没人注意到的东西说出来"，不是用手指。若日后她掉这个，另开号。
-- 判重结论（§3.1 判重三步，2026-09-04 当天做，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `point **at** sth`
-② 全档 grep（**范围含已毕业**）：`grep "point at\|pointed\|point to"` ⇒ **零命中**
-③ 最接近的三条逐条排除：
-   · 🎓#229（complain 不及物，带 about）——形状最像（都是"这个动词后面要带介词"）。
-     **决定性证据**：按 #229 的规则去改她这句 ⇒ 只产出 about，**产不出 at** ⇒ 不同考点。
-   · #18（论元完整：中文可单说的动词，英文必须带宾语/补语）——**方向相反**：
-     她**给了**宾语（three circle），缺的是介词 ⇒ 无关。
-   · 🎓#134（不是所有动词都要宾语·白名单）——那条是"可以不带宾语"，与本次无关。
-④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `point at`；
-   ⛔ 没有开成"动词后面要带介词"那种开放集合（那才是伞形）。
-```
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 321 · principal ＝ 校长（≠ principle ＝ 原则）
-类型 词汇 ｜ 题面 **点名**："校长"（用一个词说，⛔ 不用 head teacher · ⛔ 不用 headmaster） ｜ 新建 2026-09-05
+类型 词汇 ｜ 新建 2026-09-05
 状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-07 ✅ ＋ 09-10 ✅；09-05 建号后第一次毕业，中途零回潮）｜ 题型 词组
-- 2026-09-05 📝 她主动提出建号 · 在池组第 1 组（#319 的作答里自标）·
-  `The principal(这个词要背) presented him with a medal.`
-  ★ 她**拼对了、用对了**，⛔ 不是拼写错 —— 走 §2.1③「她主动说这个要记」这唯一一条例外建号。
-  ★ 与 #319 的分工写死：#319 考 **present 这个动词的框**（校长只是场景，不在产出位置上）；
-    本条考 **principal 这个名词本身**，题面必须把"校长"摆到要她产出的位置上。
-- 2026-09-07 📝 题面补一条排除「⛔ 不用 headmaster」：原题面只排除了 head teacher，
-  而 headmaster 同样是"一个词"、且在英式里正是默认词 ⇒ 第二译法没被收敛（§6.5 第 7 项）。
-  补掉它之后 principal／principle 这个真考点一个字都没泄露。
-- 2026-09-07 ✅ 复习 · 在池第 2 组 · `principal` —— 首测；principal（校长）≠ principle（原则），调对了词
-- 2026-09-10 ✅ 复习 · 在池第 1 组 · `principal` —— 一字不差 ⇒ **连对2，毕业**
-- 备注 判据：
+
+**问题是什么**
+**principal ＝ 校长**（≠ **principle** ＝ 原则）。
+判据：
 ```
 principal   名词 ＝ 校长／形容词 ＝ 主要的      the principal of the school ／ the principal reason
 principle   名词 ＝ 原则、准则                  on principle ／ It's a matter of principle.
@@ -11864,10 +11908,19 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 ★ 检查触发：写完"校长"，问一句 —— 我指的是**一个人**还是**一条道理**？
   人 ⇒ principal（-pal 结尾，和 pal「伙伴」同尾，人）
 ```
-- 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
-  形容词 `principal` ＝ 主要的（the principal reason／the principal cause）——同一个词的另一个词性，
-  她掉的是"校长"这个名词义 ⇒ 出题只出名词义。若日后形容词义单独掉，另开号。
-- 判重结论（§3.1 判重三步，2026-09-05 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+★ 同一格里的邻居（别串，⛔ 不并进本条、不出题）：形容词 `principal` ＝ 主要的
+　（the principal reason／the principal cause）—— 同一个词的另一个词性，本条只出**名词义**。
+★ 与 **#319**（present sth to sb ／ present sb with sth）的**互斥关系（当场写死）**：
+　#319 考 **present 这个动词的框**（"校长"只是场景、不在产出位置）；本条考 **principal 这个名词本身**
+　⇒ 两条题面不撞车。
+★ 与 🎓**#227**（clear ≠ clean）／**#255**（vital ≠ virtual）的分工：都是"形近/音近词选错"这一**形状**，
+　但各自锁死在自己那一对词上 ⇒ 不同考点；⛔ 也**不能**并成"形近词"伞形条（开放集合，§3.2b 禁止）。
+
+**怎么发现的**
+2026-09-05 📝 **她主动提出建号** · 在池组第 1 组（#319 的作答里自标）· 她写
+`The principal(这个词要背) presented him with a medal.`
+★ 她**拼对了、用对了**，⛔ 不是拼写错 —— 走 §2.1③「她主动说这个要记」这唯一一条例外建号。
+判重结论（§3.1 判重三步，2026-09-05 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
 ```
 ① 目标英文形式 ＝ 名词 `principal`（＝ 校长）
 ② 全档 grep（**范围含已毕业**）：
@@ -11888,27 +11941,57 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 ⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个词 `principal`，
    成员数得出来（一个名词义 ＋ 一个防混邻居），⛔ 没有开成"所有形近词"。
 ```
+
+**我错在哪**
+她这次没有错（`The principal presented him with a medal.` 拼对了、也用对了），
+建号理由是 §2③／§2.1③ **她点名要背**（原话写在句子里："这个词要背"）。
+找法：写完"校长"，问一句 —— 我指的是**一个人**还是**一条道理**？
+人 ⇒ **principal**（-pal 结尾，和 pal「伙伴」同尾，人）；道理 ⇒ principle。
+
+**题面**
+**点名**："校长"（用一个词说，⛔ 不用 head teacher · ⛔ 不用 headmaster）
+★ 题面 2026-09-07 补一条排除「⛔ 不用 headmaster」：原题面只排除了 head teacher，而 headmaster 同样是"一个词"、且在英式里正是默认词 ⇒ 第二译法没被收敛（§6.5 第 7 项）。补掉它之后 principal／principle 这个真考点一个字都没泄露
+
+- 2026-09-05 📝 她主动提出建号 · 在池组第 1 组（#319 的作答里自标）·
+  `The principal(这个词要背) presented him with a medal.`
+  ★ 她**拼对了、用对了**，⛔ 不是拼写错 —— 走 §2.1③「她主动说这个要记」这唯一一条例外建号。
+  ★ 与 #319 的分工写死：#319 考 **present 这个动词的框**（校长只是场景，不在产出位置上）；
+    本条考 **principal 这个名词本身**，题面必须把"校长"摆到要她产出的位置上。
+- 2026-09-07 📝 题面补一条排除「⛔ 不用 headmaster」：原题面只排除了 head teacher，
+  而 headmaster 同样是"一个词"、且在英式里正是默认词 ⇒ 第二译法没被收敛（§6.5 第 7 项）。
+  补掉它之后 principal／principle 这个真考点一个字都没泄露。
+- 2026-09-07 ✅ 复习 · 在池第 2 组 · `principal` —— 首测；principal（校长）≠ principle（原则），调对了词
+- 2026-09-10 ✅ 复习 · 在池第 1 组 · `principal` —— 一字不差 ⇒ **连对2，毕业**
+- 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
+  形容词 `principal` ＝ 主要的（the principal reason／the principal cause）——同一个词的另一个词性，
+  她掉的是"校长"这个名词义 ⇒ 出题只出名词义。若日后形容词义单独掉，另开号。
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 322 · play WITH sth（玩"东西"一律带 with）
-类型 搭配 ｜ 题面 "孩子在玩他们的玩具。"（"玩"用 **play** 说） ｜ 新建 2026-09-07
+类型 搭配 ｜ 新建 2026-09-07
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ⚡ 自评免测；§4③ ⚡ 够 2 ＝ 她行使直接指定毕业）｜ 题型 整句
-- 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
-  `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
-  → playing **with** them ／ played **with** the toys
-  ★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
-    （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
-    ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
-- 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
-- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："6. 直接过"）⇒ 连对1 → 连对2 **毕业**（§4③：⚡ 够 2 ＝ 她行使直接指定毕业）
-- 备注 判据：
+
+**问题是什么**
+**play WITH sth**（玩"东西"一律带 with）。
+判据：
 ```
 玩"东西"     play **with** sth      play with toys ／ play with the dog ／ play with your phone
 玩"项目"     play ＋ 名词（不带 with）play football ／ play the piano ／ play a game ／ play a role
 ★ 判据一句话：后面是**一个东西** ⇒ 必须有 with；后面是**一项活动** ⇒ 直接接。
 ★ 检查触发：写完 play，问一句 —— 我后面接的是东西还是活动？
 ```
-- 判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+★ 与 🎓**#51**（put sth away ＝ 收起来）／🎓**#67**（可分离动词短语的位置）的**互斥关系（当场写死）**：
+　那两条的题面都以"收起来"为落点（put away），本条题面以"在玩"为落点（play with）⇒ 不撞车；
+　按它们的规则去改她这两句都**产不出 with** ⇒ 不同考点。
+
+**怎么发现的**
+2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）· 她写
+`kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
+（→ playing **with** them ／ played **with** the toys）
+★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
+（「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
+⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
+判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
 ```
 ① 目标英文形式 ＝ `play **with** sth`
 ② 全档 grep（**范围含已毕业**）：`grep -n "play with\|玩具\|play toys" problems.md graduated.md methods.md`
@@ -11926,6 +12009,24 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 ④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
 ⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `play with`，成员数得出来。
 ```
+
+**我错在哪**
+她的：`kids put toys away after **playing them**.` ／ `After kids **played toys**, …`
+正确：`after playing **with** them` ／ `After kids played **with** the toys, …`
+找法：写完 play，问一句 —— **后面接的是"东西"还是"一项活动"？**
+东西 ⇒ 必须有 **with**。
+
+**题面**
+"孩子在玩他们的玩具。"（"玩"用 **play** 说）
+
+- 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
+  `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
+  → playing **with** them ／ played **with** the toys
+  ★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
+    （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
+    ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
+- 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
+- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："6. 直接过"）⇒ 连对1 → 连对2 **毕业**（§4③：⚡ 够 2 ＝ 她行使直接指定毕业）
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
