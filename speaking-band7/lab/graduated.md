@@ -9597,9 +9597,41 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 ```
 
 ### 284 · boil down to sth（说到底就是……）
-类型 词组 ｜ 题面 **点名**："说到底就是几样东西凑一块儿"（"说到底就是"用 **boil** 那个说法） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 她的原话："boils down to（新建条目，学）"
+类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**boil down to sth**（说到底就是……）。
+判据：
+```
+✅ It (all) boils down to X.
+✅ It boils down to a combination of A, B and C.
+✅ What it boils down to is trust.
+★ 主语是 **it／整件事／某个动名词**，不是人（✗ I boil down to）
+★ 后面接**名词或动名词**：boils down to **money** ／ boils down to **planning ahead**
+★ 语义 ＝ 熬掉水分剩下最核心的那一点 —— 和 comes down to 同义，比它更口语、更有画面
+```
+判据一句话：中文"说到底就是"⇒ 调 **boil down to**（介词 **to**，主语是事不是人）。
+★ 与 🎓**#58**（it mainly comes down to）的分工：同义，但**目标形式不同**（boil ≠ come）
+　⇒ §3.1 判据三档第 3 档【两条 ＋ 题面互斥】：#58 题面不点名（测 comes down to），本条题面**点名 boil**。
+★ 与 **#283**（收尾句型）的分工：中文触发词"说到底就是"2026-08-27 起**专属本条** ⇒ 触发词与考点一一对应。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · 她自己写出
+`managing traffic boils down to a combination of smart technology, better public transport, and clever incentives`。
+★ 她的原话："boils down to（新建条目，学）"
+判重：grep `boil`／`comes down to`／`说到底` 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）。
+逐条读：同义，但**目标形式不同**（boil ≠ come）⇒ §3.1 判据三档第 3 档【两条 ＋ 当场改题面互斥】。
+**互斥关系**：🎓#58 题面 "说到底就是钱的问题。"（不点名，测 comes down to）；
+本条题面**点名 boil** ⇒ 两条各测各的词，不撞车。
+
+**我错在哪**
+她这次没有错（R3 那句 `boils down to` 是她自己产出的、介词一字不差），建号理由是 §2③ **她点名要学**。
+找法：中文冒出"说到底／归根到底"时，先问主语是**事**还是**人** —— 是事 ⇒ `It boils down to …`（⛔ 别接人当主语）。
+
+**题面**
+**点名**："说到底就是几样东西凑一块儿"（"说到底就是"用 **boil** 那个说法）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `managing traffic boils down to a combination of smart technology, better public transport, and clever incentives`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `solving traffic congestion **boils down to** just a few key things.`
@@ -9614,24 +9646,41 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 自审留痕：ultimately ＋ boils down to 语义略重，但母语者确实这么说 ⇒ 不判
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `It boils down to a few things coming together.` —— boil down to 一字不差（题面本场缩成块，她照样给了整句，⛔ 不扣）
 
-- 备注 判据：
-```
-✅ It (all) boils down to X.
-✅ It boils down to a combination of A, B and C.
-✅ What it boils down to is trust.
-★ 主语是 **it／整件事／某个动名词**，不是人（✗ I boil down to）
-★ 后面接**名词或动名词**：boils down to **money** ／ boils down to **planning ahead**
-★ 语义 ＝ 熬掉水分剩下最核心的那一点 —— 和 comes down to 同义，比它更口语、更有画面
-```
-- 备注 判重：grep `boil`／`comes down to`／`说到底` 全库（含已毕业）→ 命中 **🎓#58**（it mainly comes down to）。
-  逐条读：同义，但**目标形式不同**（boil ≠ come）⇒ §3.1 判据三档第 3 档【两条 ＋ 当场改题面互斥】。
-  **互斥关系**：🎓#58 题面 "说到底就是钱的问题。"（不点名，测 comes down to）；
-  本条题面**点名 boil** ⇒ 两条各测各的词，不撞车。
 
 ### 285 · give sb (real) alternatives to sth／doing sth（给人别的选择，而不是只能……）
-类型 搭配 ｜ 题面 **点名**："真正能替代开车的选择"（用 **alternative** 说，别用 choice） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 她的原话："real alternatives to（新建条目）"
+类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**give sb (real) alternatives to sth／doing sth**（给人别的选择，而不是只能……）。
+判据：
+```
+✅ alternatives **to** driving ／ alternatives **to** the car ／ an alternative **to** meat
+   —— **to 是介词**，后面跟名词或 -ing
+✗ alternatives **of** driving   ✗ alternatives **for** driving
+★ choice ＝ 在几个里挑哪个 ｜ alternative ＝ **除了这条路之外还有的另一条路**
+  （交通／能源／习惯／方案，凡是"不想让人只能 X"的题都能用）
+★ 常配形容词：**real ／ viable ／ decent ／ genuine** alternatives（"像样的替代选择"）
+★ 整块最好用的是 `give people real alternatives to X` —— 一句话把"堵不如疏"说完
+```
+判据一句话：说的是"**除了 X 之外还有别的路**"吗？是 ⇒ alternative **to** ＋ 名词/-ing（⛔ 不用 choice、⛔ 不用 of／for）。
+★ 同一格里的邻居（都成立，不判错）：give ／ offer ／ provide sb alternatives 三个动词都标准；
+　单数 `a real alternative` ＝ 一条替代路，复数 `real alternatives` ＝ 好几条可选。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · 她自己写出
+`cities need to give people real alternatives to driving`。
+★ 她的原话："real alternatives to（新建条目）"
+判重：grep `alternativ`／`替代`／`别的选择` 全库（含已毕业）→ **零命中**，保留新建。
+
+**我错在哪**
+她这次没有错（R3 那句块一字不差，介词 to 也对），建号理由是 §2③ **她点名要学**。
+找法：写出 alternative 之后立刻看下一个词 —— **是 to 吗？** 是 of／for ⇒ 改掉；
+想说"选择"先分清：在几个里挑 ＝ choice，另有一条路 ＝ alternative。
+
+**题面**
+**点名**："真正能替代开车的选择"（用 **alternative** 说，别用 choice）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `cities need to give people real alternatives to driving`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `cities need to **offer** people **a real alternative to** driving.`
@@ -9645,27 +9694,43 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 她省了"给大家"（sb）那一格，句子合法 ⇒ 按 §3.3 记 ✅，不记 ◎
   ⚠️ 更好版给了口语降级：must provide → need to give people ／ a real alternative → real alternatives
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `a real alternative to driving` —— alternative **to**，⛔ 没用 choice
-- 备注 判据：
-```
-✅ alternatives **to** driving ／ alternatives **to** the car ／ an alternative **to** meat
-   —— **to 是介词**，后面跟名词或 -ing
-✗ alternatives **of** driving   ✗ alternatives **for** driving
-★ choice ＝ 在几个里挑哪个 ｜ alternative ＝ **除了这条路之外还有的另一条路**
-  （交通／能源／习惯／方案，凡是"不想让人只能 X"的题都能用）
-★ 常配形容词：**real ／ viable ／ decent ／ genuine** alternatives（"像样的替代选择"）
-★ 整块最好用的是 `give people real alternatives to X` —— 一句话把"堵不如疏"说完
-```
-- 备注 判重：grep `alternativ`／`替代`／`别的选择` 全库（含已毕业）→ **零命中**，保留新建。
 
 ### 287 · flow smoothly ／ keep sth flowing（车流顺畅／让它一路走得顺）
-类型 搭配 ｜ 题面 **点名**："让剩下那些车一路走得顺"（用 **flow** 说） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 她的原话："flow smoothly 新建条目"
+类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 词组
-　　★ **keep 三兄弟交叉引用**（§6 组内防撞：同族 ≤2 题，而全库有三条 ⇒ 必须标出来）：
-　　　**#287（本条）** keep ＋ 宾语 ＋ **-ing**　　keep the cars **flowing**　＝ 让它持续在**动**
-　　　**#297**　　　　 keep ＋ 宾语 ＋ **形容词**　keep your mind **active**　＝ 持续处在某**状态**
-　　　**#305**　　　　 keep ＋ **形容词**（无宾语）✗ keep patient ⇒ **stay patient**（封闭名单）
-　　　⇒ 出题时**三条里最多同组出两条**
+
+**问题是什么**
+**flow smoothly ／ keep sth flowing**（车流顺畅／让它一路走得顺）。
+判据：
+```
+✅ Traffic flows smoothly.          ✅ keep the traffic ／ the cars **flowing** (smoothly)
+✅ keep things moving（同族，更口语的一个）
+★ flow 的主语是**成股走的东西**：车流／人流／水／信息／资金 —— 不是单个人（✗ he flows）
+★ 载体句型 `keep ＋ 宾语 ＋ -ing` ＝ 让它**持续**处在那个状态（她本篇两处都用对了：
+  keeps cars **moving** ／ keep the cars **flowing**）
+★ 反面（同一题可以拿来对照）：traffic is at a standstill ／ traffic grinds to a halt（彻底堵死）
+```
+★ **keep 三兄弟交叉引用**（§6 组内防撞：同族 ≤2 题，而全库有三条 ⇒ 必须标出来）：
+　**#287（本条）** keep ＋ 宾语 ＋ **-ing**　　keep the cars **flowing**　＝ 让它持续在**动**
+　**#297**　　　　 keep ＋ 宾语 ＋ **形容词**　keep your mind **active**　＝ 持续处在某**状态**
+　**#305**　　　　 keep ＋ **形容词**（无宾语）✗ keep patient ⇒ **stay patient**（封闭名单）
+　⇒ 出题时**三条里最多同组出两条**
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · 她自己写出
+`using tech to keep the remaining cars flowing smoothly`。
+★ 她的原话："flow smoothly 新建条目"
+判重：grep `flow`／`smooth`／`顺畅`／`通畅` 全库（含已毕业）→ **零命中**
+（grep 命中的 flow 行全部是 flowers，与本条无关）⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（`keep the remaining cars flowing smoothly` 是她自己产出的），建号理由是 §2③ **她点名要学**。
+找法：说"让它一路顺"时先看主语 —— 是**成股走的东西**（车流/人流/资金）吗？
+是 ⇒ flow；挂在 keep 后面时宾语后面跟 **-ing**（flowing），⛔ 不是形容词。
+
+**题面**
+**点名**："让剩下那些车一路走得顺"（用 **flow** 说）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `using tech to keep the remaining cars flowing smoothly`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `and using technology to **keep the remaing cars flowing smoothly**`
@@ -9680,23 +9745,50 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 - 2026-08-28 ✅ 复习第2组 · `use technology to keep the remaining traffic flowing smoothly.`
   ——`keep … flowing smoothly` 一字不差（keep ＋ 宾语 ＋ -ing 那一格）⇒ 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `keep the remaining cars flowing smoothly` —— keep sth flowing
-- 备注 判据：
-```
-✅ Traffic flows smoothly.          ✅ keep the traffic ／ the cars **flowing** (smoothly)
-✅ keep things moving（同族，更口语的一个）
-★ flow 的主语是**成股走的东西**：车流／人流／水／信息／资金 —— 不是单个人（✗ he flows）
-★ 载体句型 `keep ＋ 宾语 ＋ -ing` ＝ 让它**持续**处在那个状态（她本篇两处都用对了：
-  keeps cars **moving** ／ keep the cars **flowing**）
-★ 反面（同一题可以拿来对照）：traffic is at a standstill ／ traffic grinds to a halt（彻底堵死）
-```
-- 备注 判重：grep `flow`／`smooth`／`顺畅`／`通畅` 全库（含已毕业）→ **零命中**
-  （grep 命中的 flow 行全部是 flowers，与本条无关）⇒ 保留新建。
 
 ### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
-类型 结构 ｜ 题面 **点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说；⛔ 动词就用 asking，不许换成 think／wonder） ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `start thinking whether` 这条绕路）
-　　★ 她的原话："because once a trip costs you something, you start asking whether you actually need to make it. 这句很好，也要学"
-　　★ 来源 ＝ 教练在 R3 [S6] diff-2 给的更好版（不是她的产出）⇒ 属 §2③「她主动提出的」
+类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
+
+**问题是什么**
+机制句型：**once X costs you something, you start asking whether …**（把政策翻译成人的心理反应）。
+骨架：`(because) once ＋【代价发生的从句】, ＋ you ＋ start ＋ -ing ＋ whether ＋【主谓】.`
+（详例与用法见下方备注）
+判据一句话：**once ＝ "一旦……就"**（比 if 强：if 是"如果会"，once 假定它一定会发生，只讲发生之后人怎么变）；
+这里的 **you ＝ 泛指所有人**，不是"你"。
+★ 同一格里的邻居（别串 —— whether 前面接什么动词分两档）：ask／wonder／see／know／decide 可以**直接接 whether**；
+　think／talk／worry **必须先加 about**（think **about** whether）⇒ ⛔ think whether 站不住。
+★ 与 **#275**（whether 后面要跟主谓）的分工：#275 是本句**内部用对的一条规则**，不是本条考点；
+　本条管的是整句机制框架 ⇒ 不同考点，两条并存。
+★ 与 **#286** **配对使用**（P3 讨论任何政策都能一正一反各来一句）：#286 胡萝卜（条件变好 → 人自愿去做）／
+　本条大棒（加了代价 → 人自我审查）⇒ 连词、主语、主句块都不同，题面天然互斥。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 的 [S6] 更好版 ·
+`…work really well, because once a trip costs you something, you start asking whether you actually need to make it.`
+★ 她的原话："because once a trip costs you something, you start asking whether you actually need to make it. 这句很好，也要学"
+★ 来源 ＝ 教练在 R3 [S6] diff-2 给的更好版（不是她的产出）⇒ 属 §2③「她主动提出的」
+判重：grep `once`／`一旦`／`只要`／`whether`／`泛指` 全库（含已毕业）→ 两条候选，逐条读完：
+· **#275**（whether 后面要跟主谓）—— 是本句**内部用对的一条规则**，不是本条的考点；
+　本条管的是整句机制框架 ⇒ 不同考点，两条并存（本条判据里已引用 #275）
+· **#286**（If A, B and C, … will happily do Y）—— 同族（都是"条件 → 人的反应"），
+　但**连词不同**（if / once）、**主语不同**（一群人 / 泛指 you）、**主句块不同**
+　（will happily ＋ 动作 / start asking whether ＋ 从句）⇒ §3.1 第 3 档【两条 ＋ 题面互斥】；
+　题面天然互斥（#286 公交又便宜又密又靠得住 ／ #288 出门要花钱）
+⇒ **零真命中，保留新建**。
+
+**我错在哪**
+她的（2026-08-27 首犯）：`…you naturally start **thinking whether** it's really necessary.`
+正确：`start **asking** whether …` ／ `start thinking **about** whether …`
+—— 两处叠在一起：① 题面点名了 start asking，她写的是 start thinking；
+② 更要紧：**`think whether` 这个搭配站不住** —— think 接 whether 必须先加 **about**。
+找法：写完 think／talk／worry，紧接着要接 whether 时问一句 —— **about 掉了没有？**
+（ask／wonder／decide 才能直接接 whether。）
+
+**题面**
+**点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说；⛔ 动词就用 asking，不许换成 think／wonder）
+★ 点名 2026-08-28 加结构限定（08-27 她走了 `start thinking whether` 这条绕路）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 的 [S6] 更好版 · `…work really well, because once a trip costs you something, you start asking whether you actually need to make it.`
 - 2026-08-27 ❌ **首犯** · 付息日 b 段（**本条从建立起第一次被测到**）·
   `…you naturally start **thinking whether** it's really necessary.`
@@ -9749,19 +9841,37 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
     #286 胡萝卜  条件变好 → 人自愿去做    If A, B and C, a lot of X will happily do Y.
     #288 大棒    加了代价 → 人自我审查    Once X costs you something, you start asking whether …
 ```
-- 备注 判重：grep `once`／`一旦`／`只要`／`whether`／`泛指` 全库（含已毕业）→ 两条候选，逐条读完：
-  · **#275**（whether 后面要跟主谓）—— 是本句**内部用对的一条规则**，不是本条的考点；
-    本条管的是整句机制框架 ⇒ 不同考点，两条并存（本条判据里已引用 #275）
-  · **#286**（If A, B and C, … will happily do Y）—— 同族（都是"条件 → 人的反应"），
-    但**连词不同**（if / once）、**主语不同**（一群人 / 泛指 you）、**主句块不同**
-    （will happily ＋ 动作 / start asking whether ＋ 从句）⇒ §3.1 第 3 档【两条 ＋ 题面互斥】；
-    题面天然互斥（#286 公交又便宜又密又靠得住 ／ #288 出门要花钱）
-  ⇒ **零真命中，保留新建**
 
 ### 289 · be obsessed with sth（特别迷／上头）
-类型 搭配 ｜ 题面 **点名**："特别迷这个"（用 **obsessed** 说） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 她的原话："older folks are obsessed with it（新建条目）"
+类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**be obsessed with sth**（特别迷／上头）。
+判据：
+```
+✅ be obsessed **with** sth ／ **with** doing sth      ✅ 名词形 an obsession **with** sth
+✗ obsessed **about** ／ 这个意思上也不用 obsessed **by**
+★ 介词写死是 **with** —— 这是本条唯一的考点
+★ 语气 ＝ 夸张的"特别迷／上头"，褒贬都能用，口语里常带一点调侃
+  P1/P3 讲爱好、讲一代人的习惯最顺手：My dad's obsessed with fishing.
+★ 主语是**人**。想说"这东西现在很火"另有说法：it's all the rage ／ it's a big thing now
+```
+判据一句话：obsessed 后面**只跟 with**，主语是人。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · 她自己写出 `I mean, older folks are obsessed with it.`
+★ 她的原话："older folks are obsessed with it（新建条目）"
+判重：grep `obsess`／`痴迷`／`着迷`／`入迷`／`特别喜欢` 全库（含已毕业）→ **零命中**，保留新建。
+
+**我错在哪**
+她这次没有错（`older folks are obsessed with it` 是她自己产出的、介词一次到位），
+建号理由是 §2③ **她点名要学**。
+找法：写出 obsessed 就立刻挂 **with**（⛔ 不是 about／in／by）。
+
+**题面**
+**点名**："特别迷这个"（用 **obsessed** 说）
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `I mean, older folks are obsessed with it.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `older folks are really **obsessed with** this kind of thing.`
@@ -9775,25 +9885,38 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 四问自审留痕：especially 曾想判 ⚠️（"特别"更常说 really），试造母语句
     `Older folks are especially into this kind of thing.` 成立，且中文本身含"相对别人更"这层 ⇒ **不判**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `be obsessed with this`
-- 备注 判据：
-```
-✅ be obsessed **with** sth ／ **with** doing sth      ✅ 名词形 an obsession **with** sth
-✗ obsessed **about** ／ 这个意思上也不用 obsessed **by**
-★ 介词写死是 **with** —— 这是本条唯一的考点
-★ 语气 ＝ 夸张的"特别迷／上头"，褒贬都能用，口语里常带一点调侃
-  P1/P3 讲爱好、讲一代人的习惯最顺手：My dad's obsessed with fishing.
-★ 主语是**人**。想说"这东西现在很火"另有说法：it's all the rage ／ it's a big thing now
-```
-- 备注 判重：grep `obsess`／`痴迷`／`着迷`／`入迷`／`特别喜欢` 全库（含已毕业）→ **零命中**，保留新建。
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
-类型 结构 ｜ 题面 **点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（用 **depending** 那个词收尾） ｜ 新建 2026-08-23（**她当场指定**）
-　　★ 她的原话："for totally different reasons depending 新建条目"
-　　★ 点名 2026-08-27 收窄（§6.5 审核项 7 自查时记的待办，当天兑现）：
-　　　原点名给的是**整块** `depending on who you ask` —— 属 §6 允许的"点块"，
-　　　但它同时**把答案给了大半**（含 who you ask 那半里的 🎓#59 陈述语序考点）。
-　　　收窄到只点 **depending** 之后，后半截要她自己凑 ⇒ 考点密度回来了
+类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+
+**问题是什么**
+收尾块：**… for totally different reasons depending on who you ask**（同一个现象，不同的人理由完全不一样）。
+骨架：`…, just for totally different reasons **depending on** ＋【名词 或 疑问词从句】.`（详例见下方备注）
+判据一句话：前面分了两类人／两种情况 ⇒ 收尾用这个块，把它们收成"同一个现象、不同的理由"
+（比 "So it depends." 强得多 —— 那句等于什么都没说）。
+★ depending on 后面的疑问词从句用**陈述语序**（＝ 🎓#59 那条规则）：
+　✅ depending on who you ask　✗ depending on who do you ask。
+★ 与 **#283** 的分工（两个都是收尾块，别混）：#283 把几点排成**先后**（It's really about A first, and then B.）；
+　本条把几点收成**同一现象的不同版本**。
+
+**怎么发现的**
+2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · 她自己写出
+`So yeah, it's pretty common, just for totally different reasons depending on who you ask!`
+★ 她的原话："for totally different reasons depending 新建条目"
+判重：grep `depend`／`取决`／`因人而异`／`看情况`／`而定` 全库（含已毕业）→ 命中 2 行，
+逐条读：两行都是 **#275**（whether 后跟主谓）判据里的例句 `It depends on whether…`，与本条无关
+⇒ **零真命中，保留新建**。
+
+**我错在哪**
+她这次没有错（这个收尾块是她自己在 R4 里产出的），建号理由是 §2③ **她点名要学**。
+找法：P3 收尾前问一句 —— 我前面是不是分了两类人／两种情况？
+是 ⇒ 用 `for different reasons **depending on** who you ask`，⛔ 别收成一句 "So it depends."。
+
+**题面**
+**点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（用 **depending** 那个词收尾）
+★ 点名 2026-08-27 收窄（§6.5 审核项 7 自查时记的待办，当天兑现）：原点名给的是**整块** `depending on who you ask` —— 属 §6 允许的"点块"，但它同时**把答案给了大半**（含 who you ask 那半里的 🎓#59 陈述语序考点）。收窄到只点 **depending** 之后，后半截要她自己凑 ⇒ 考点密度回来了
+
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `So yeah, it's pretty common, just for totally different reasons depending on who you ask!`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
   `So it's pretty common, but the reasons are totally different **depending on who you ask**.`
@@ -9825,19 +9948,57 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
     #283  把几点排成**先后**          It's really about A first, and then B.
     #290  把几点收成**同一现象的不同版本**  …, just for different reasons depending on who you ask.
 ```
-- 备注 判重：grep `depend`／`取决`／`因人而异`／`看情况`／`而定` 全库（含已毕业）→ 命中 2 行，
-  逐条读：两行都是 **#275**（whether 后跟主谓）判据里的例句 `It depends on whether…`，与本条无关
-  ⇒ **零真命中，保留新建**。
 
 ### 291 · "说话当下就要做的事" ＝ Let me … ／ I'll …（不用一般现在时）
-类型 语法 ｜ 题面 **点名**："我先给你看个东西。"（**不用 want／going to** 说） ｜ 新建 2026-08-24
-　　★ 不点目标形式：`Let me show you something first.` 与 `I'll show you something first.` **两个都命中考点**；
-　　　要逼掉的错路是 `I show you something first.`
-　　★ 题面 2026-08-25 加点名（§6.5 审核项 7）：不点名时 `I want to show you something first.`／
-　　　`I'm going to show you something first.` 两条都合法、都不是一般现在时 ⇒ **合法绕开考点**；
-　　　点掉这两条路不泄答案 —— 错路 `I show you something first.` 照样开着，
-　　　两个目标形式（Let me／I'll）也一个都没说出来
+类型 语法 ｜ 新建 2026-08-24
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 整句
+
+**问题是什么**
+"说话当下就要做的事" ＝ **Let me …** ／ **I'll …**（⛔ 不用一般现在时）。
+判据：
+```
+中文"我就给你…／我先给你看…／那我帮你问一下"这一类【说话当下发起的动作】，
+英语**不能用一般现在时** —— 一般现在时说的是"习惯／常态"：
+   I give my students advice every week.  ＝ 我每周都给（习惯）
+   I show people around on weekends.      ＝ 我周末带人参观（常态）
+"现在这就做"只有两条路：
+   Let me ＋ 动词原形   ← 请对方允许／缓一拍   Let me give you a piece of advice.
+                                              Let me check.  Let me put it another way.
+   I'll ＋ 动词原形     ← 当场决定／答应对方   I'll show you something first.
+                                              I'll ask him for you.  I'll get you a coffee.
+✗ I give you a piece of advice.   ✗ I show you something.   ✗ I ask him for you.
+★ 判据一句话：**这件事是"现在这就做"还是"平时都做"？** 现在这就做 ⇒ Let me ／ I'll
+```
+★ 与 **#12**（时态判断触发）的分工：#12 管"看中文时间标记词选时态"（触发词"以前／常／了"，目标过去式／used to）；
+　本条管"**当下发起的动作**不能用一般现在时"（触发"我就…／我先…／那我…"，目标 Let me／I'll）⇒ 触发与目标形式都不同。
+★ 与 **#270**（advice 的量词）的题面互斥见下方备注：#270 题面是"我就给你一条建议。"，本条另起一句。
+
+**怎么发现的**
+2026-08-24 新建 · 复习第 1 组 #270 句里 · 她写 `I give you a piece of advice.`
+（→ **Let me give you** a piece of advice.）—— 语法没错，但英语不这么起句 ⇒ ⚠️（§2② 说得不地道），本条由它触发。
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `Let me give you …`／`I'll show you …`
+　② grep `Let me`／`let me` 全库（含已毕业）→ **零命中**；
+　　 grep `I'll` → 命中 #74（make do with 整块）· 🎓 even if 那条（`Even if it rains, I'll go`）·
+　　 whether or not 那条（`I'll go whether you come or not.`）—— 三条都只是**例句里恰好含 I'll**；
+　　 grep `一般现在时` → 命中 #12 · if 条件句那条 · #271
+　③ 逐条读：**#12**（时态判断触发）管的是"看中文时间标记词选时态"，触发词是"以前／常／了"，
+　　 目标是过去式／used to；**本条**管的是"**当下发起的动作**不能用一般现在时"，
+　　 触发是"我就…／我先…／那我…"，目标是 Let me／I'll ⇒ **触发不同、目标形式不同**。
+　　 **if 条件句那条**管从句里不放 will ⇒ 无关。**#271** 管副词拉完成时 ⇒ 无关。
+　　 **#74／even if／whether** 只是例句撞了 I'll 三个字母 ⇒ 无关
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`I give you a piece of advice.`　　正确：`**Let me give you** a piece of advice.` ／ `I'll give you …`
+找法：开口前问一句 —— 这件事是"**现在这就做**"还是"平时都做"？
+现在这就做 ⇒ Let me ／ I'll，⛔ 不许用一般现在时。
+
+**题面**
+**点名**："我先给你看个东西。"（**不用 want／going to** 说）
+★ 不点目标形式：`Let me show you something first.` 与 `I'll show you something first.` **两个都命中考点**；要逼掉的错路是 `I show you something first.`
+★ 题面 2026-08-25 加点名（§6.5 审核项 7）：不点名时 `I want to show you something first.`／`I'm going to show you something first.` 两条都合法、都不是一般现在时 ⇒ **合法绕开考点**；点掉这两条路不泄答案 —— 错路 `I show you something first.` 照样开着，两个目标形式（Let me／I'll）也一个都没说出来
+
 - 2026-08-24 新建 · 复习第1组 #270 句里 · `I give you a piece of advice.`
   → **Let me give you** a piece of advice.
   ——语法没错，但英语不这么起句 ⇒ ⚠️（§2② 说得不地道），本条由它触发
@@ -9852,38 +10013,46 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 两天两测，错路 `I show you something first.` 一次都没再出现；触发它的那句
     `I give you a piece of advice.`（08-24）之后再未复现 ⇒ 目标形式已上手
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `Let me show you something first.` —— 说话当下就要做的事走 Let me…，句尾 first 也落对
-- 备注 判据：
-```
-中文"我就给你…／我先给你看…／那我帮你问一下"这一类【说话当下发起的动作】，
-英语**不能用一般现在时** —— 一般现在时说的是"习惯／常态"：
-   I give my students advice every week.  ＝ 我每周都给（习惯）
-   I show people around on weekends.      ＝ 我周末带人参观（常态）
-"现在这就做"只有两条路：
-   Let me ＋ 动词原形   ← 请对方允许／缓一拍   Let me give you a piece of advice.
-                                              Let me check.  Let me put it another way.
-   I'll ＋ 动词原形     ← 当场决定／答应对方   I'll show you something first.
-                                              I'll ask him for you.  I'll get you a coffee.
-✗ I give you a piece of advice.   ✗ I show you something.   ✗ I ask him for you.
-★ 判据一句话：**这件事是"现在这就做"还是"平时都做"？** 现在这就做 ⇒ Let me ／ I'll
-```
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `Let me give you …`／`I'll show you …`
-  ② grep `Let me`／`let me` 全库（含已毕业）→ **零命中**；
-     grep `I'll` → 命中 #74（make do with 整块）· 🎓 even if 那条（`Even if it rains, I'll go`）·
-     whether or not 那条（`I'll go whether you come or not.`）—— 三条都只是**例句里恰好含 I'll**；
-     grep `一般现在时` → 命中 #12 · if 条件句那条 · #271
-  ③ 逐条读：**#12**（时态判断触发）管的是"看中文时间标记词选时态"，触发词是"以前／常／了"，
-     目标是过去式／used to；**本条**管的是"**当下发起的动作**不能用一般现在时"，
-     触发是"我就…／我先…／那我…"，目标是 Let me／I'll ⇒ **触发不同、目标形式不同**。
-     **if 条件句那条**管从句里不放 will ⇒ 无关。**#271** 管副词拉完成时 ⇒ 无关。
-     **#74／even if／whether** 只是例句撞了 I'll 三个字母 ⇒ 无关
-  ⇒ **保留新建**
 - 备注 题面互斥（§3.1 第三档）：**#270** 的题面是"我就给你一条建议。"（考点 ＝ a piece of advice），
   本条题面另起一句"我先给你看个东西。" ⇒ 两条永不撞车
 
 ### 293 · "其中的一侧／一头／一角" ＝ one side of it ／ one of its sides（不说 its one side）
-类型 结构 ｜ 题面 "楼的一侧"（用 **of** 说） ｜ 新建 2026-08-24
+类型 结构 ｜ 新建 2026-08-24
 状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 词组
+
+**问题是什么**
+"其中的一侧／一头／一角" ＝ **one side of it** ／ **one of its sides**（⛔ 不说 its one side）。
+判据：
+```
+表示"**从整体里挑出一个部分**"（partitive）时，英语只有两条路：
+   one side **of it**        ／   **one of** its sides
+`its ＋ 数词 ＋ 名词` 不成立 —— its 已经把归属指死了，再加 one 就和它冲突
+✅ climbing up one side of it     ✅ one of its walls is all glass
+✅ one corner of the room         ✅ one end of the street       ✅ one of the bedrooms
+✗ its one side   ✗ its one corner   ✗ its one end
+★ 判据一句话：**说"它的某一个 X" ⇒ 把 one 挪到 of 前面去**
+★ 边界：不是 partitive 的时候 its ＋ 名词照常用（its roof／its glass exterior／its two towers）
+```
+★ 与 **#26**（比较题必须说出另一边）的分工：那条管**论证时必须把 B 面说出来**（逻辑结构），
+　与"部分-整体怎么表达"无关 —— 只是 grep 时撞了 one side 三个字。
+
+**怎么发现的**
+2026-08-24 ❌ 首犯 · 自由产出（新题 bank:1027 P2）· 她写
+`a giant panda sculpture climbing up **its one side**`（→ climbing up **one side of it**）。
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `one side of it`／`one of its sides`
+　② grep `one side`／`its one`／`一侧`／`一边`／`一头` 全库（含已毕业）→ **零真命中**
+　　（`one side` 唯一命中是 **#26** 的标题"比较题必须说出另一边"——那条管的是
+　　 **论证时必须把 B 面说出来**，是逻辑结构，与"部分-整体怎么表达"无关）
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`climbing up **its one side**`　　正确：`climbing up **one side of it**` ／ `one of its sides`
+找法：想说"它的某一个 X"时，**把 one 挪到 of 前面去** —— its 后面⛔不许再跟数词。
+
+**题面**
+"楼的一侧"（用 **of** 说）
+
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:1027 P2）· `a giant panda sculpture climbing up **its one side**`
   → climbing up **one side of it**
 - 2026-08-25 ✅ 复习第1组 · `there is a tree growing out of **one side of the building**.`
@@ -9897,23 +10066,6 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
     ⇒ 拿这个扣她 ＝ **假错**，不判；只作一行语境提示发给她（不落号、不记档位）
   ★ `growing out of` 连续第二天自发用准
 - 2026-09-10 ✅ 复检 · 第 3 组 · `on one side of the building` —— one side **of** the building，⛔ 没说 its one side
-- 备注 判据：
-```
-表示"**从整体里挑出一个部分**"（partitive）时，英语只有两条路：
-   one side **of it**        ／   **one of** its sides
-`its ＋ 数词 ＋ 名词` 不成立 —— its 已经把归属指死了，再加 one 就和它冲突
-✅ climbing up one side of it     ✅ one of its walls is all glass
-✅ one corner of the room         ✅ one end of the street       ✅ one of the bedrooms
-✗ its one side   ✗ its one corner   ✗ its one end
-★ 判据一句话：**说"它的某一个 X" ⇒ 把 one 挪到 of 前面去**
-★ 边界：不是 partitive 的时候 its ＋ 名词照常用（its roof／its glass exterior／its two towers）
-```
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `one side of it`／`one of its sides`
-  ② grep `one side`／`its one`／`一侧`／`一边`／`一头` 全库（含已毕业）→ **零真命中**
-     （`one side` 唯一命中是 **#26** 的标题"比较题必须说出另一边"——那条管的是
-      **论证时必须把 B 面说出来**，是逻辑结构，与"部分-整体怎么表达"无关）
-  ⇒ **保留新建**
 
 ### 295 · "做某事的目的" ＝ the purpose OF doing sth（口语直接说 why they do it）
 类型 搭配 ｜ 题面 **点名**："做事的目的"（用 **purpose** 说） ｜ 新建 2026-08-24
