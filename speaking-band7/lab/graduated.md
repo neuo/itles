@@ -10068,8 +10068,51 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 - 2026-09-10 ✅ 复检 · 第 3 组 · `on one side of the building` —— one side **of** the building，⛔ 没说 its one side
 
 ### 295 · "做某事的目的" ＝ the purpose OF doing sth（口语直接说 why they do it）
-类型 搭配 ｜ 题面 **点名**："做事的目的"（用 **purpose** 说） ｜ 新建 2026-08-24
+类型 搭配 ｜ 新建 2026-08-24
 状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 词组
+
+**问题是什么**
+"做某事的目的" ＝ **the purpose OF doing sth**（口语直接说 **why they do it**）。
+判据：
+```
+名词 purpose 后面接 **of ＋ 动名词**，介词写死
+✅ the purpose of doing this      ✅ the whole purpose of the trip
+✗ the purpose for doing this
+（for 只出现在 `the purpose **for which** it was built` 这种正式关系结构里，口语用不上）
+★★ **口语替换才是主用法** —— "change the purpose of doing things" 这一整个说法口语几乎不出现：
+   **Rewards change why kids do things.**  ／  **That's not what they're doing it for.**
+★ 同族（抽象名词 ⇒ 摊成小句）：the reason for → why… ｜ the way of doing → how they do it
+```
+★ 与 🎓**#236**（说人的目的用不定式 to do；for ＋ -ing 是物品用途）的分工：#236 管的是**状语**位置
+　怎么说"为了做某事"；本条的 purpose 是**名词中心词**、后面挂介词短语，管的是**这个名词的搭配**
+　⇒ 按 #236 的规则去改会改出 `the purpose to do things`，**也是错的** ⇒ 不是同一条规则。
+★ 与 🎓**#242**（on purpose ＝ 故意）／🎓**#264**（a sense of ＋ purpose）的分工：一个是固定块、
+　一个是 a sense of 的框 ⇒ 都无关。
+★ 与 🎓**#206**（书面词降级）的边界：本条**题面点名了 purpose** ⇒ 复习里⛔不许再拿 #206 标 ⚠️；
+　那条降级只在**自由产出**里判。
+
+**怎么发现的**
+2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· 她写 `Rewards change the purpose **for** doing things`
+（→ the purpose **of** doing things）。
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `the purpose of doing sth`
+　② grep `purpose`／`目的` 全库（含已毕业）→ 命中 **🎓#236**（说人的目的用不定式 to do；
+　　 for ＋ -ing 是物品用途）· **🎓#242**（on purpose）· **🎓#264**（a sense of ＋ purpose 等）
+　③ 逐条读：**#236** 管的是**状语**位置怎么说"为了做某事"（to do vs for -ing）；
+　　 本条的 purpose 是**名词中心词**、后面挂介词短语，管的是**这个名词的搭配**。
+　　 决定性证据：按 #236 的规则去改会改出 `the purpose to do things`，**也是错的**
+　　 ⇒ #236 给不出正确答案 ⇒ **不是同一条规则**。
+　　 **#242** 是 on purpose（故意）这个固定块 ⇒ 无关；**#264** 管 a sense of 跟哪几个名词 ⇒ 无关
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`Rewards change the purpose **for** doing things`　　正确：`the purpose **of** doing things`
+找法：写出 purpose 之后，后面那个介词**只能是 of**（⛔ 不是 for）；口语里更该问一句 ——
+能不能干脆说成 `why they do it`？能就别用这个名词。
+
+**题面**
+**点名**："做事的目的"（用 **purpose** 说）
+
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `Rewards change the purpose **for** doing things`
   → the purpose **of** doing things
 - 2026-08-25 ✅ 复习第1组 · `rewards change the purpose **of** doing things.`
@@ -10085,31 +10128,41 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 本条的降级判定只在**自由产出**里跑 —— 她哪天在 P2/P3 里自己冒出 the purpose of doing things，
     那时才按 🎓#206 给 ⚠️
 - 2026-09-10 ✅ 复检 · 第 3 组（打包）· `the purpose of doing things` —— 介词 **of** 用对
-- 备注 判据：
-```
-名词 purpose 后面接 **of ＋ 动名词**，介词写死
-✅ the purpose of doing this      ✅ the whole purpose of the trip
-✗ the purpose for doing this
-（for 只出现在 `the purpose **for which** it was built` 这种正式关系结构里，口语用不上）
-★★ **口语替换才是主用法** —— "change the purpose of doing things" 这一整个说法口语几乎不出现：
-   **Rewards change why kids do things.**  ／  **That's not what they're doing it for.**
-★ 同族（抽象名词 ⇒ 摊成小句）：the reason for → why… ｜ the way of doing → how they do it
-```
-- 备注 判重（当天新建复核，§4④1b）：
-  ① 目标英文形式 ＝ `the purpose of doing sth`
-  ② grep `purpose`／`目的` 全库（含已毕业）→ 命中 **🎓#236**（说人的目的用不定式 to do；
-     for ＋ -ing 是物品用途）· **🎓#242**（on purpose）· **🎓#264**（a sense of ＋ purpose 等）
-  ③ 逐条读：**#236** 管的是**状语**位置怎么说"为了做某事"（to do vs for -ing）；
-     本条的 purpose 是**名词中心词**、后面挂介词短语，管的是**这个名词的搭配**。
-     决定性证据：按 #236 的规则去改会改出 `the purpose to do things`，**也是错的**
-     ⇒ #236 给不出正确答案 ⇒ **不是同一条规则**。
-     **#242** 是 on purpose（故意）这个固定块 ⇒ 无关；**#264** 管 a sense of 跟哪几个名词 ⇒ 无关
-  ⇒ **保留新建**
 
 ### 296 · cut corners（偷工减料／图省事把该做的步骤跳掉）
-类型 词组 ｜ 题面 **点名**："在材料上偷工减料"（"偷工减料"用 **cut** ＋ 一个名词说） ｜ 新建 2026-08-24（**她当场指定**）
-　　★ 她的原话："not cut corners（新建个条目）"
+类型 词组 ｜ 新建 2026-08-24（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**cut corners**（偷工减料／图省事把该做的步骤跳掉）。
+判据：
+```
+cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**（贬义）
+✅ They cut corners on the materials.      ✅ Don't cut corners on safety.
+✅ If you cut corners now, it'll cost you later.
+★ 用在她那句里是准的：答应了 iPhone 结果买个便宜山寨的 ＝ cut corners
+★★ 边界（三个都对应中文"打折扣／走捷径"，方向不同，别混）：
+   · cut corners       ＝ 该做的没做全（偷工减料，贬）
+   · take a shortcut   ＝ 抄近路／找捷径（中性，可以是聪明办法）
+   · go back on sth    ＝ 说话不算数（承诺整个不认了）
+```
+判据一句话：贬义的"该做的没做全" ⇒ **cut corners**，挂宾语用介词 **on**。
+
+**怎么发现的**
+2026-08-24 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:924 P3）· 她自己写出
+`parents need to keep their promises and not cut corners` —— 用得准，不是错。
+★ 她的原话："not cut corners（新建个条目）"
+判重（当天新建复核，§4④1b）：grep `cut corners`／`偷工`／`走捷径`／`shortcut`
+全库（含已毕业）→ **零命中** ⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（`not cut corners` 是她自己用准的），建号理由是 §2③ **她点名要学**。
+找法：说"偷工减料／打折扣"时先分三档 —— 该做的没做全 ⇒ cut corners（介词 on）；
+抄近路 ⇒ take a shortcut；说话不算数 ⇒ go back on sth。
+
+**题面**
+**点名**："在材料上偷工减料"（"偷工减料"用 **cut** ＋ 一个名词说）
+
 - 2026-08-24 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:924 P3）·
   `parents need to keep their promises and not cut corners`——用得准，不是错
 - 2026-08-27 ✅ 付息日 a 段 · **本条从建立起第一次被测到，一次到位** ·
@@ -10124,27 +10177,58 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ——词组和介词都对（cut corners **on** sth）⇒ 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `cut corners on materials`
 
-- 备注 判据：
-```
-cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**（贬义）
-✅ They cut corners on the materials.      ✅ Don't cut corners on safety.
-✅ If you cut corners now, it'll cost you later.
-★ 用在她那句里是准的：答应了 iPhone 结果买个便宜山寨的 ＝ cut corners
-★★ 边界（三个都对应中文"打折扣／走捷径"，方向不同，别混）：
-   · cut corners       ＝ 该做的没做全（偷工减料，贬）
-   · take a shortcut   ＝ 抄近路／找捷径（中性，可以是聪明办法）
-   · go back on sth    ＝ 说话不算数（承诺整个不认了）
-```
-- 备注 判重（当天新建复核，§4④1b）：grep `cut corners`／`偷工`／`走捷径`／`shortcut`
-  全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 297 · keep your mind active（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，不用 make sth stay adj）
-类型 搭配 ｜ 题面 **点名**："让脑子保持活跃"（用 **keep** 说） ｜ 新建 2026-08-25
+类型 搭配 ｜ 新建 2026-08-25
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-27**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 词组
-　　★ **keep 三兄弟交叉引用**：**#287** keep ＋ 宾语 ＋ **-ing**（keep the cars flowing）／
-　　　**#297（本条）** keep ＋ 宾语 ＋ **形容词**（keep your mind active）／
-　　　**#305** keep ＋ **形容词**（无宾语，✗ keep patient ⇒ stay patient）
-　　　⇒ 出题时三条里最多同组出两条。**本条已毕业不再召回**，标记留给另两条防撞用
+
+**问题是什么**
+**keep your mind active**（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，⛔ 不用 make sth stay adj）。
+判据：
+```
+"让某个东西保持某个状态"，英语一个动词就够 —— **keep ＋ 宾语 ＋ 形容词**，
+中文那个"保持"**不翻**，直接吃进 keep 里：
+   ✅ keeps your mind active      ✅ keep fit          ✅ keep busy
+   ✅ keep things simple          ✅ keep the noise down   ✅ keep your options open
+   ✗ make your mind stay active   ✗ make things stay simple   ✗ let your mind keep active
+★ 判据一句话：**看见中文"让…保持…"，先把"保持"删掉，剩下的直接塞进 keep ＋ 宾语 ＋ 形容词**
+★ 边界（别混）：
+   · keep ＋ 宾语 ＋ **-ing** ＝ 让它持续在**动**（keeps cars moving／keep things flowing）＝ #287
+   · keep ＋ 宾语 ＋ **形容词** ＝ 让它持续处在某个**状态**（本条）
+   · make ＋ 宾语 ＋ 形容词 ＝ **使它变成**那样（makes children fat）＝ 🎓#192 —— 是"变"不是"保持"
+```
+★ **keep 三兄弟交叉引用**：**#287** keep ＋ 宾语 ＋ **-ing**（keep the cars flowing）／
+　**#297（本条）** keep ＋ 宾语 ＋ **形容词**（keep your mind active）／
+　**#305** keep ＋ **形容词**（无宾语，✗ keep patient ⇒ stay patient）
+　⇒ 出题时三条里最多同组出两条。**本条已毕业不再召回**，标记留给另两条防撞用
+
+**怎么发现的**
+2026-08-25 ❌ 首犯 · 自由产出（新题 bank:987 P3 Is it necessary to keep learning after
+graduating from school?）· 她写 `studying something makes your mind **stay** active`
+（→ **keeps your mind active**）。
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `keep your mind active`（keep ＋ 宾语 ＋ 形容词）
+　② grep `keep your mind`／`mind active`／`active` 全库（含已毕业）→ **零命中**；
+　　 grep `keep ＋`／`keeps` → 命中 **#287**；grep `make sb`／`make O` → 命中 **🎓#192**；
+　　 grep 中文 `保持`／`活跃`／`脑子` → 零真命中（唯一 `脑子` 是 08-24 犯规留痕里的引文）
+　③ 逐条读：
+　　 **#287**（flow smoothly ／ keep sth flowing）—— 它的核心词是 **flow**，载体是
+　　　 keep ＋ 宾语 ＋ **-ing**（持续在动）。本条是 keep ＋ 宾语 ＋ **形容词**（持续处在某状态），
+　　　 核心词是 active、补语类型不同 ⇒ **不同条**，题面也互斥（车流 vs 脑子）
+　　 **🎓#192**（make sb ＋ 形容词，cause 不能这么用）—— 决定性证据：
+　　　 按 #192 的规则去改，得到的是 `makes your mind active`（＝"使脑子变活跃"），
+　　　 **不是她要表达的"保持活跃"，也不是母语者在这句里会说的那个** ⇒ #192 给不出正确答案
+　　　 ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`studying something makes your mind **stay** active`　　正确：`learning something **keeps your mind active**`
+找法：看见中文"让…保持…"，先把"保持"两个字**删掉**，剩下的直接塞进 `keep ＋ 宾语 ＋ 形容词`
+（⛔ 不许再往里塞一个 stay）。
+
+**题面**
+**点名**："让脑子保持活跃"（用 **keep** 说）
+
 - 2026-08-25 ❌ 首犯 · 自由产出（新题 bank:987 P3 Is it necessary to keep learning after
   graduating from school?）· `studying something makes your mind **stay** active`
   → **keeps your mind active**
@@ -10165,44 +10249,47 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
   ★ 两次通过用的是两个不同的宾语壳（08-26 `your mind` ／ 今天 `mind`），框架本身没动 ⇒ 稳
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `keep your brain sharp / active` —— keep ＋ 宾语 ＋ 形容词 这个框（⛔ 没走 make sth stay adj）
 
-- 备注 判据：
-```
-"让某个东西保持某个状态"，英语一个动词就够 —— **keep ＋ 宾语 ＋ 形容词**，
-中文那个"保持"**不翻**，直接吃进 keep 里：
-   ✅ keeps your mind active      ✅ keep fit          ✅ keep busy
-   ✅ keep things simple          ✅ keep the noise down   ✅ keep your options open
-   ✗ make your mind stay active   ✗ make things stay simple   ✗ let your mind keep active
-★ 判据一句话：**看见中文"让…保持…"，先把"保持"删掉，剩下的直接塞进 keep ＋ 宾语 ＋ 形容词**
-★ 边界（别混）：
-   · keep ＋ 宾语 ＋ **-ing** ＝ 让它持续在**动**（keeps cars moving／keep things flowing）＝ #287
-   · keep ＋ 宾语 ＋ **形容词** ＝ 让它持续处在某个**状态**（本条）
-   · make ＋ 宾语 ＋ 形容词 ＝ **使它变成**那样（makes children fat）＝ 🎓#192 —— 是"变"不是"保持"
-```
 - 备注 ★ **这不是句型缺口，是一个具体搭配没调出来**：她已经会 keep ＋ 宾语 ＋ 补语 ——
   08-23 R3 `keeps cars moving`、08-23 R1 `keeps things simple` 两处都自发用对。
   ⇒ 出题只出这一个搭配，别扩成"keep 句型"整片（§3.2b：考点必须能收敛成一个词组）
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `keep your mind active`（keep ＋ 宾语 ＋ 形容词）
-  ② grep `keep your mind`／`mind active`／`active` 全库（含已毕业）→ **零命中**；
-     grep `keep ＋`／`keeps` → 命中 **#287**；grep `make sb`／`make O` → 命中 **🎓#192**；
-     grep 中文 `保持`／`活跃`／`脑子` → 零真命中（唯一 `脑子` 是 08-24 犯规留痕里的引文）
-  ③ 逐条读：
-     **#287**（flow smoothly ／ keep sth flowing）—— 它的核心词是 **flow**，载体是
-       keep ＋ 宾语 ＋ **-ing**（持续在动）。本条是 keep ＋ 宾语 ＋ **形容词**（持续处在某状态），
-       核心词是 active、补语类型不同 ⇒ **不同条**，题面也互斥（车流 vs 脑子）
-     **🎓#192**（make sb ＋ 形容词，cause 不能这么用）—— 决定性证据：
-       按 #192 的规则去改，得到的是 `makes your mind active`（＝"使脑子变活跃"），
-       **不是她要表达的"保持活跃"，也不是母语者在这句里会说的那个** ⇒ #192 给不出正确答案
-       ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
-  ⇒ **保留新建**
 
 ### 298 · have the final say（拍板／最后说了算）
-类型 词组 ｜ 题面 **点名**："最后拍板"（"拍板"用 **say** 那个词说 —— 它在这儿是名词） ｜ 新建 2026-08-25（**她当场指定**）
-　　★ 题面 2026-08-27 改点名（§6.5 审核项 7）：原点名写 **final**，但 `my mum made the **final** decision`
-　　　既合法又含 final ⇒ **合法绕开考点**（考点是 the final **say** 这个块，不是 final 这个词）。
-　　　改成点 **say**：封掉 final decision／it was her call，而 the final say 这个搭配她仍要自己凑出来
-　　★ 她的原话："Mom had the find say（**the final say 可以建个条目**)"
+类型 词组 ｜ 新建 2026-08-25（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**have the final say**（拍板／最后说了算）。
+判据：
+```
+have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
+   ✅ Mom had the final say.               ✅ Who has the final say on this?
+   ✅ She gets the final say on the budget.   ✅ The final say is his.
+★ 介词写死是 **on**（the final say on sth），不是 about／for
+★ 同族（一起记，方向不同，别混）：
+   · have the last word  ＝ 争论里说最后一句（偏"不肯认输"，略贬）
+   · call the shots      ＝ 做主／说了算（整体掌权，不限于某一次决定）
+   · it's up to sb       ＝ 由某人定（三个里最口语）
+```
+判据一句话：考点是 **say 当名词**这个块（the final **say**），不是 final 这个词。
+
+**怎么发现的**
+2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 · 她自己写出
+`As for what counted as 'good', Mom had the final say.` —— 块本身用得准（`find` 是打字，§2.1 不算错）。
+★ 她的原话："Mom had the find say（**the final say 可以建个条目**)"
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+　① 目标英文形式 ＝ `have the final say (on sth)`
+　② grep `final say`／`拍板`／`说了算`／`决定权` 全库（含已毕业）→ **零条目命中**
+　　（`拍板` 两处命中都是散文行：#157 的迁出记录 ＋ methods 讨论的行文，不是条目考点）
+　③ 无候选可并 ⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`Mom had the final say.` 块用得准），建号理由是 §2③ **她点名要学**。
+找法：说"最后拍板"时，中心词是**名词 say**（the final say），挂宾语用 **on**（⛔ 不是 about／for）。
+
+**题面**
+**点名**："最后拍板"（"拍板"用 **say** 那个词说 —— 它在这儿是名词）
+★ 题面 2026-08-27 改点名（§6.5 审核项 7）：原点名写 **final**，但 `my mum made the **final** decision` 既合法又含 final ⇒ **合法绕开考点**（考点是 the final **say** 这个块，不是 final 这个词）。改成点 **say**：封掉 final decision／it was her call，而 the final say 这个搭配她仍要自己凑出来
+
 - 2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 ·
   `As for what counted as 'good', Mom had the final say.`——块本身用得准（`find` 是打字，§2.1 不算错）
 - 2026-08-27 ✅ 付息日 a 段 · **本条从建立起第一次被测到**（题面当天改点名后首测）·
@@ -10217,28 +10304,59 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
   ★ "这事儿"那一格仍然没译（08-27 就提示过要补 on this），但句子完整合法 ⇒ 按 §3.3 记 ✅，不判档位
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `have the final say` —— say 当名词
 
-- 备注 判据：
-```
-have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
-   ✅ Mom had the final say.               ✅ Who has the final say on this?
-   ✅ She gets the final say on the budget.   ✅ The final say is his.
-★ 介词写死是 **on**（the final say on sth），不是 about／for
-★ 同族（一起记，方向不同，别混）：
-   · have the last word  ＝ 争论里说最后一句（偏"不肯认输"，略贬）
-   · call the shots      ＝ 做主／说了算（整体掌权，不限于某一次决定）
-   · it's up to sb       ＝ 由某人定（三个里最口语）
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
-  ① 目标英文形式 ＝ `have the final say (on sth)`
-  ② grep `final say`／`拍板`／`说了算`／`决定权` 全库（含已毕业）→ **零条目命中**
-     （`拍板` 两处命中都是散文行：#157 的迁出记录 ＋ methods 讨论的行文，不是条目考点）
-  ③ 无候选可并 ⇒ **保留新建**
 
 ### 299 · not much of a/an ＋ 名词（"算不上一个…／没多少…"）
-类型 词组 ｜ 题面 **点名**："算不上个厨师"（"算不上"用 **much of** 说） ｜ 新建 2026-08-25（**她当场指定**）
-　　★ 她的原话："I didn't have much of（**much of 的用法可以建一个条目**)an imagination"
-　　★ **她这一句是用对了的**，建条目是因为她主动要（§2③），不是因为犯错
+类型 词组 ｜ 新建 2026-08-25（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**not much of a/an ＋ 名词**（"算不上一个…／没多少…"）。
+判据：
+```
+not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
+   ✅ He's not much of a cook.            ✅ It wasn't much of a party.
+   ✅ That's not much of an excuse.       ✅ I don't have much of a choice.
+   ✅ I didn't have much of an imagination.
+★ 名词可数时 **of a/an 不能省**：✗ he's not much cook
+★ 名词不可数时两条路都通，**of 版更口语、语气更足**：
+   I don't have much imagination.（平）／ I don't have much of an imagination.（更像在说话）
+★ 边界（另外两个固定块，别混）：
+   · much of the time      ＝ 大部分时候
+   · too much of a good thing ＝ 好事过了头
+```
+判据一句话：本条唯一要测的那一格 ＝ **of a／an 有没有省掉**。
+★ 与 🎓**#269**（"不太了解／知道得少"走否定 ＋ much）的分工：#269 的 much 后面直接跟不可数名词
+　或介词，**没有一个带 of a/an**；按 #269 的规则改"他算不上个厨师"给不出 `he's not much of a cook`
+　⇒ 结构不同，两条题面也互斥。
+
+**怎么发现的**
+2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 · 她自己写出
+`What made it challenging was that I didn't have much of an imagination.` —— 一个字不用改。
+★ 她的原话："I didn't have much of（**much of 的用法可以建一个条目**)an imagination"
+★ **她这一句是用对了的**，建条目是因为她主动要（§2③），不是因为犯错。
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+　① 目标英文形式 ＝ `not much of a/an ＋ 名词`
+　② grep `much of`／`not much`／`算不上`／`没什么` 全库（含已毕业）→ 命中 **🎓#269**
+　　（"不太了解／知道得少"口语走 don't know much about it，合并条 3 句）
+　　 ＋ 🎓#25 的题面"罚款对乱扔垃圾没什么用"（中文"没什么"撞字，考点是 It's no use doing）
+　③ 逐条读：
+　　 **🎓#269** 的规则是"中文说**少**，口语走【否定 ＋ much/any】"，三个成员分别是
+　　　 don't know much **about it**／don't have much **time**／there isn't much **to do** ——
+　　　 much 后面直接跟不可数名词或介词，**没有一个带 of a/an**。
+　　　 决定性证据：按 #269 的规则去改"他算不上个厨师"，只能改出 `he doesn't know much…` 这类，
+　　　 **给不出 `he's not much of a cook`** ⇒ 结构不同、#269 覆盖不到 ⇒ 不是同一条
+　　　（同 #295 vs 🎓#236 的判法）。两条题面也互斥：#269 三句是"不太了解/没什么时间/没什么可玩的"，
+　　　 本条题面是"他算不上个厨师"
+　　 **🎓#25** 的考点是 It's no use doing sth，只是中文题面里有"没什么"三个字 ⇒ 无关
+　⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`I didn't have much of an imagination.` 一个字不用改），建号理由是 §2③ **她点名要学**。
+找法：说"算不上一个 X"时，X 可数就**别省 of a／an**（⛔ not much cook ⇒ not much of a cook）。
+
+**题面**
+**点名**："算不上个厨师"（"算不上"用 **much of** 说）
+
 - 2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 ·
   `What made it challenging was that I didn't have much of an imagination.`——一个字不用改
 - 2026-08-27 ✅ 付息日 a 段 · **本条从建立起第一次被测到** ·
@@ -10256,42 +10374,51 @@ have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
 - 2026-08-28 ✅ 复习第1组 · `he is **not much of a** chef.`—— 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `not much of a chef`
 
-- 备注 判据：
-```
-not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
-   ✅ He's not much of a cook.            ✅ It wasn't much of a party.
-   ✅ That's not much of an excuse.       ✅ I don't have much of a choice.
-   ✅ I didn't have much of an imagination.
-★ 名词可数时 **of a/an 不能省**：✗ he's not much cook
-★ 名词不可数时两条路都通，**of 版更口语、语气更足**：
-   I don't have much imagination.（平）／ I don't have much of an imagination.（更像在说话）
-★ 边界（另外两个固定块，别混）：
-   · much of the time      ＝ 大部分时候
-   · too much of a good thing ＝ 好事过了头
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
-  ① 目标英文形式 ＝ `not much of a/an ＋ 名词`
-  ② grep `much of`／`not much`／`算不上`／`没什么` 全库（含已毕业）→ 命中 **🎓#269**
-     （"不太了解／知道得少"口语走 don't know much about it，合并条 3 句）
-     ＋ 🎓#25 的题面"罚款对乱扔垃圾没什么用"（中文"没什么"撞字，考点是 It's no use doing）
-  ③ 逐条读：
-     **🎓#269** 的规则是"中文说**少**，口语走【否定 ＋ much/any】"，三个成员分别是
-       don't know much **about it**／don't have much **time**／there isn't much **to do** ——
-       much 后面直接跟不可数名词或介词，**没有一个带 of a/an**。
-       决定性证据：按 #269 的规则去改"他算不上个厨师"，只能改出 `he doesn't know much…` 这类，
-       **给不出 `he's not much of a cook`** ⇒ 结构不同、#269 覆盖不到 ⇒ 不是同一条
-       （同 #295 vs 🎓#236 的判法）。两条题面也互斥：#269 三句是"不太了解/没什么时间/没什么可玩的"，
-       本条题面是"他算不上个厨师"
-     **🎓#25** 的考点是 It's no use doing sth，只是中文题面里有"没什么"三个字 ⇒ 无关
-  ⇒ **保留新建**
 
 ### 300 · stage 前面的介词是 at（at every stage／at this stage，不用 in）
-类型 搭配 ｜ 题面 **点名**："在人生的每个阶段"（用 **stage** 说） ｜ 新建 2026-08-26（**补建**）
-　　★ 题面 2026-08-27 删掉点名里的"注意介词"四个字（§10 禁令 5 禁预告测试点）：
-　　　点名的合法范围是**点目标词/句型/块**，"注意介词"点的是**考的是哪一类**，等于预告测试点。
-　　　只留 stage 就够：不点 stage 时 `at every point in your life`／`throughout your life`
-　　　两条合法绕路都不测本条；点掉之后介词那一格仍然空着 ⇒ 考点存活
+类型 搭配 ｜ 新建 2026-08-26（**补建**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+名词 **stage** 前面的介词是 **at**（at every stage／at this stage，⛔ 不用 in）。
+判据：
+```
+名词 stage 表"阶段"时，**默认介词是 at**：
+   ✅ at every stage of your life     ✅ at this stage       ✅ at some stage
+   ✅ at a later stage                ✅ at all stages of the process
+   ✗ in all stages of your life
+★ in 只用在 **in the early / final / later stages of sth**（"处在某个阶段之中"，
+  前面必须有 the ＋ 形容词）：in the early stages of the project ✅
+★ 第二处（顺带记，不单独建号）：**every stage（单数）比 all stages 更口语、更有节奏**
+★ 判据一句话：**说"在……阶段" ⇒ 先写 at；只有 the early/final stages 才轮到 in**
+★ 档位说明：这是 ⚠️（不地道）不是 ❌ —— `in all stages of the disease` 这类母语者也说，
+  但 `in all stages of your life` 不是他们会选的说法
+```
+★ 全库**没有**别的条目管 stage ⇒ 无最接近项（判重见下）。
+
+**怎么发现的**
+2026-08-25 ⚠️ 首犯 · 自由产出（新题 bank:987 P3）· 她写 `learning is necessary **in all stages of** your life`
+（→ necessary **at every stage of** your life）。
+⛔ **教练漏建**（08-26 她主动问"昨天的复习点都出全了吗"时才发现）：当天这一处只写进了
+🎓#206 的一行备注、**没有单独建号** ⇒ 08-26 **补建**本号。
+判重（补建当天复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `at every stage of` / `at this stage`
+　② grep `stage`／`阶段` 全库（含已毕业）→ 只有 2 处命中，逐条读：
+　　 · 🎓#206 的一行备注（正是 08-25 漏建的那处，就是本条的来源）⇒ 不是条目
+　　 · #271 备注里的"想用一般现在时 ⇒ 换成**指现在这个阶段**的副词"—— 说的是
+　　　 these days 那一族副词，与名词 stage 的介词搭配无关 ⇒ 无关
+　③ 与最接近的条目的区别：全库**没有**管 stage 的条目 ⇒ 无最接近项
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`learning is necessary **in all stages of** your life`
+正确：`necessary **at every stage of** your life`
+找法：写出"阶段"这个词先落 **at**；只有说 the early／final stages 时才轮到 in。
+
+**题面**
+**点名**："在人生的每个阶段"（用 **stage** 说）
+★ 题面 2026-08-27 删掉点名里的"注意介词"四个字（§10 禁令 5 禁预告测试点）：点名的合法范围是**点目标词/句型/块**，"注意介词"点的是**考的是哪一类**，等于预告测试点。只留 stage 就够：不点 stage 时 `at every point in your life`／`throughout your life` 两条合法绕路都不测本条；点掉之后介词那一格仍然空着 ⇒ 考点存活
+
 - 2026-08-25 ⚠️ 首犯 · 自由产出（新题 bank:987 P3）· `learning is necessary **in all stages of** your life`
   → necessary **at every stage of** your life
   ⛔ **教练漏建（08-26 她主动问"昨天的复习点都出全了吗"时才发现）**：当天这一处只写进了
@@ -10313,35 +10440,53 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
   ——介词 at 对 ⇒ 连对2，**毕业**。★ 从补建（08-26）到毕业只用了 3 天，全程零 ❌
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `At every stage of life` —— 介词 at
 
-- 备注 判据：
-```
-名词 stage 表"阶段"时，**默认介词是 at**：
-   ✅ at every stage of your life     ✅ at this stage       ✅ at some stage
-   ✅ at a later stage                ✅ at all stages of the process
-   ✗ in all stages of your life
-★ in 只用在 **in the early / final / later stages of sth**（"处在某个阶段之中"，
-  前面必须有 the ＋ 形容词）：in the early stages of the project ✅
-★ 第二处（顺带记，不单独建号）：**every stage（单数）比 all stages 更口语、更有节奏**
-★ 判据一句话：**说"在……阶段" ⇒ 先写 at；只有 the early/final stages 才轮到 in**
-★ 档位说明：这是 ⚠️（不地道）不是 ❌ —— `in all stages of the disease` 这类母语者也说，
-  但 `in all stages of your life` 不是他们会选的说法
-```
-- 备注 判重（补建当天复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `at every stage of` / `at this stage`
-  ② grep `stage`／`阶段` 全库（含已毕业）→ 只有 2 处命中，逐条读：
-     · 🎓#206 的一行备注（正是 08-25 漏建的那处，就是本条的来源）⇒ 不是条目
-     · #271 备注里的"想用一般现在时 ⇒ 换成**指现在这个阶段**的副词"—— 说的是
-       these days 那一族副词，与名词 stage 的介词搭配无关 ⇒ 无关
-  ③ 与最接近的条目的区别：全库**没有**管 stage 的条目 ⇒ 无最接近项
-  ⇒ **保留新建**
 
 ### 302 · something breaks（东西坏了／出故障，break 当不及物动词，不用 be broken）
-类型 搭配 ｜ 题面 **点名**："要是有什么东西坏了，给我打个电话就行。"（"坏了"用 **break** 说，不用 broken） ｜ 新建 2026-08-26（**她当场指定**）
-　　★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"…大家都**去找他**"里的"去找"
-　　　正是 **#304（turn to sb）的考点**，两条同组出 ⇒ 她答本条时会顺手把 #304 的答案先写出来。
-　　　新题面取判据里的原型句 `If anything breaks, just call me.`，与 #303／#304 零重叠
-　　★ 她的原话："这整句话 break, the kind of, turn to 都可以新建个条目"
+类型 搭配 ｜ 新建 2026-08-26（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+
+**问题是什么**
+**something breaks**（东西坏了／出故障，break 当**不及物**动词，⛔ 不用 be broken）。
+判据：
+```
+break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语就是那个东西，不用被动：
+   ✅ Whenever something breaks, …        ✅ My laptop broke last week.
+   ✅ The washing machine keeps breaking.  ✅ If anything breaks, just call me.
+   ✗ Whenever something is broken, …（这是"已经是坏的"这个状态，不是"坏掉"这个动作）
+★★ 三个都对应中文"坏了"，方向不同，别混：
+   · something breaks   ＝ 坏掉这个**动作/事件**（本条）——用在 whenever／when／if 后面最自然
+   · it's broken        ＝ 现在**是坏的**这个状态（The printer is broken. 打印机现在坏着）
+   · it broke down      ＝ 机器/车/系统**整个罢工**（My car broke down on the way.）
+★ 同族（同样"东西自己出事"，全不用被动）：it stopped working ／ it crashed ／
+  something goes wrong（更泛：出岔子，不限于东西）
+★ 判据一句话：**中文"坏了"是在说一件事发生了 ⇒ 用 break；在说现在什么样 ⇒ 用 is broken**
+```
+★ 与 **#304**（turn to sb）的分工：那是"去找谁"那一格 ⇒ 本条题面 08-27 已整句换掉，两条不互相泄题。
+★ 边界（08-28 实证）：**块调得出来 ≠ 盖得住那句** —— 她在 #304 的题里写 `If something breaks, …`，
+　形式对但语义用错了地方（题面是"遇到麻烦"，不是"东西坏了"）。
+
+**怎么发现的**
+2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）· 她自己写出
+`Whenever something breaks, he is the kind of person everyone turns to` —— 用得准，不是错。
+★ 她的原话："这整句话 break, the kind of, turn to 都可以新建个条目"
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `something breaks`
+　② grep `broken`／`break`／`坏`／`故障`／`出问题` 全库（含已毕业）→ **1 处命中**，逐条读：
+　　 · 🎓 那条题面"这事儿好坏参半。"（旧号 B183）—— 只是中文"坏"字撞了，考点是
+　　　 "好坏参半"那个词组 ⇒ **无关**
+　③ 与最接近的条目的区别：全库**没有**管 break/be broken 的条目 ⇒ 无最接近项
+　⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`Whenever something breaks, …` 是她自己产出的、不及物用法一次到位），
+建号理由是 §2③ **她点名要学**（同一句她一次点了三个条目：break／the kind of／turn to）。
+找法：中文"坏了"出口前分一下 —— 说的是**一件事发生了** ⇒ `something breaks`；
+说的是**现在什么样** ⇒ `it's broken`。
+
+**题面**
+**点名**："要是有什么东西坏了，给我打个电话就行。"（"坏了"用 **break** 说，不用 broken）
+★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"…大家都**去找他**"里的"去找"正是 **#304（turn to sb）的考点**，两条同组出 ⇒ 她答本条时会顺手把 #304 的答案先写出来。新题面取判据里的原型句 `If anything breaks, just call me.`，与 #303／#304 零重叠
+
 - 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
   `Whenever something breaks, he is the kind of person everyone turns to`——用得准，不是错
 - 2026-08-27 ✅ 付息日 a 段（题面当天整句改后首测）· `If something breaks,  just call me.`
@@ -10356,35 +10501,58 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
   ★ 这是本条第一次出现"块调得出来、但盖不住那句"的证据 ⇒ 见 #304 的同日日志
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（她原话："10. 直接过"）
 
-- 备注 判据：
-```
-break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语就是那个东西，不用被动：
-   ✅ Whenever something breaks, …        ✅ My laptop broke last week.
-   ✅ The washing machine keeps breaking.  ✅ If anything breaks, just call me.
-   ✗ Whenever something is broken, …（这是"已经是坏的"这个状态，不是"坏掉"这个动作）
-★★ 三个都对应中文"坏了"，方向不同，别混：
-   · something breaks   ＝ 坏掉这个**动作/事件**（本条）——用在 whenever／when／if 后面最自然
-   · it's broken        ＝ 现在**是坏的**这个状态（The printer is broken. 打印机现在坏着）
-   · it broke down      ＝ 机器/车/系统**整个罢工**（My car broke down on the way.）
-★ 同族（同样"东西自己出事"，全不用被动）：it stopped working ／ it crashed ／
-  something goes wrong（更泛：出岔子，不限于东西）
-★ 判据一句话：**中文"坏了"是在说一件事发生了 ⇒ 用 break；在说现在什么样 ⇒ 用 is broken**
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `something breaks`
-  ② grep `broken`／`break`／`坏`／`故障`／`出问题` 全库（含已毕业）→ **1 处命中**，逐条读：
-     · 🎓 那条题面"这事儿好坏参半。"（旧号 B183）—— 只是中文"坏"字撞了，考点是
-       "好坏参半"那个词组 ⇒ **无关**
-  ③ 与最接近的条目的区别：全库**没有**管 break/be broken 的条目 ⇒ 无最接近项
-  ⇒ **保留新建**
 
 ### 303 · sb is the kind of person ＋ 关系从句（形容一个人是"那种人"）
-类型 结构 ｜ 题面 **点名**："他就是那种谁都信得过的人。"（用 **the kind of person** 那个框架说） ｜ 新建 2026-08-26（**她当场指定**）｜ 题面 2026-08-28 换成**宾语位从句**（08-27 用的是主语位 who never gives up，宾语位那一半从没验过；旧稿"他就是那种大家有事都会去找的人"因和 #304"去找"撞车弃用）
-　　★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"…大家有事都**去找**的人"
-　　　含 **#304（turn to sb）的考点**，同组出会互相泄题。
-　　　新题面换成**主语位关系从句**（who never gives up）——顺带把本条更难的那一半测到了：
-　　　从句里那个人当**主语** ⇒ **who 不能省**（原题面那种当宾语的才可省）
+类型 结构 ｜ 新建 2026-08-26（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2 · **主语位和宾语位两半都验过**）｜ 题型 整句
+
+**问题是什么**
+**sb is the kind of person ＋ 关系从句**（形容一个人是"那种人"）。
+判据：
+```
+框架 ＝ **sb is the kind of person ＋ 关系从句**（who/that 常省）
+   ✅ He's the kind of person everyone turns to.       ✅ She's the kind of person who never gives up.
+   ✅ I'm not the kind of person who complains.        ✅ He's the sort of person you can rely on.
+★ **前面必须有 the**（the kind of person），但 person 前面不加冠词（＝ 🎓#106 那条：
+  kind of ＋ 单数名词、不带冠词）
+★★ **who/that 什么时候能省** —— 看那个人在从句里当主语还是宾语：
+   · 当**宾语** ⇒ 可以省：the kind of person (that) everyone turns to ／
+                        the sort of person (that) you can rely on
+   · 当**主语** ⇒ **不能省**：the kind of person **who** never gives up
+★ sort 可以换 kind，意思一样（sort 更英式、更口语）
+★ 用处：P2「描述一个人」和 P3「什么样的人…」两栏的万能句 —— 一句话给出人物定性
+★ 互斥（§3.1 第三档）：🎓#106 管的是 kind of 后面**名词的形式**（单数、不带冠词），
+  🎓#230 管的是提问用 what kind of；**本条管的是整句框架 ＋ 后面挂关系从句** ⇒ 题面不撞车
+```
+判据一句话：这是一句**人物定性**吗？是 ⇒ `he's the kind of person …`，再看从句里那个人是主语（who 不能省）还是宾语（可省）。
+★ 与 **#304**（turn to sb）的分工：那是"去找谁"那一格 ⇒ 本条题面两次都避开"去找"，同组不互相泄题。
+
+**怎么发现的**
+2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）· 她自己写出
+`he is the kind of person everyone turns to` —— 关系代词省对了、紧贴、陈述语序，不是错。
+（同一句她一次点了三个条目：break／the kind of／turn to，见 #302 的原话。）
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+　① 目标英文形式 ＝ `the kind of person (who) …`
+　② grep `kind of`／`sort of`／`type of`／`这种人`／`那种人` 全库（含已毕业）→ 3 处命中，逐条读：
+　　 · **🎓#106**（kind of / sort of / type of ＋ 单数名词，不带冠词）—— 决定性证据：
+　　　 按 #106 的规则去改，得到的还是 `kind of person` 这两个词，
+　　　 **它给不出"he's the kind of person everyone turns to"这个整句框架**
+　　　 ⇒ #106 给不出本条的答案 ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
+　　 · **🎓#230**（"什么样的" ＝ what kind of）—— 那是**提问**形式，本条是**陈述**框架 ⇒ 无关
+　　 · 🎓#265 备注里的 `this kind of tea is good for your health`——只是例句里含 kind of ⇒ 无关
+　⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`he is the kind of person everyone turns to` 关系代词省得对），
+建号理由是 §2③ **她点名要学**。
+找法：说完 the kind of person，看后面那个人在从句里干什么 —— **当主语 ⇒ who 不能省**；
+当宾语 ⇒ 省不省都行。
+
+**题面**
+**点名**："他就是那种谁都信得过的人。"（用 **the kind of person** 那个框架说）
+★ 题面 2026-08-27 整句改（§6.5 审核项 8 题面撞车）：原题面"…大家有事都**去找**的人"含 **#304（turn to sb）的考点**，同组出会互相泄题。新题面换成**主语位关系从句**（who never gives up）——顺带把本条更难的那一半测到了：从句里那个人当**主语** ⇒ **who 不能省**（原题面那种当宾语的才可省）
+★ 题面 2026-08-28 换成**宾语位从句**（08-27 用的是主语位 who never gives up，宾语位那一半从没验过；旧稿"他就是那种大家有事都会去找的人"因和 #304"去找"撞车弃用）
+
 - 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
   `he is the kind of person everyone turns to`——关系代词省对了、紧贴、陈述语序，不是错
 - 2026-08-27 ✅ 付息日 a 段（题面当天整句改后首测）· `he is the kind of person who never gives up`
@@ -10404,32 +10572,6 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
   （同场 priming 下的复用，不算独立命中）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（她原话："1-4 直接过"）
 
-- 备注 判据：
-```
-框架 ＝ **sb is the kind of person ＋ 关系从句**（who/that 常省）
-   ✅ He's the kind of person everyone turns to.       ✅ She's the kind of person who never gives up.
-   ✅ I'm not the kind of person who complains.        ✅ He's the sort of person you can rely on.
-★ **前面必须有 the**（the kind of person），但 person 前面不加冠词（＝ 🎓#106 那条：
-  kind of ＋ 单数名词、不带冠词）
-★★ **who/that 什么时候能省** —— 看那个人在从句里当主语还是宾语：
-   · 当**宾语** ⇒ 可以省：the kind of person (that) everyone turns to ／
-                        the sort of person (that) you can rely on
-   · 当**主语** ⇒ **不能省**：the kind of person **who** never gives up
-★ sort 可以换 kind，意思一样（sort 更英式、更口语）
-★ 用处：P2「描述一个人」和 P3「什么样的人…」两栏的万能句 —— 一句话给出人物定性
-★ 互斥（§3.1 第三档）：🎓#106 管的是 kind of 后面**名词的形式**（单数、不带冠词），
-  🎓#230 管的是提问用 what kind of；**本条管的是整句框架 ＋ 后面挂关系从句** ⇒ 题面不撞车
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
-  ① 目标英文形式 ＝ `the kind of person (who) …`
-  ② grep `kind of`／`sort of`／`type of`／`这种人`／`那种人` 全库（含已毕业）→ 3 处命中，逐条读：
-     · **🎓#106**（kind of / sort of / type of ＋ 单数名词，不带冠词）—— 决定性证据：
-       按 #106 的规则去改，得到的还是 `kind of person` 这两个词，
-       **它给不出"he's the kind of person everyone turns to"这个整句框架**
-       ⇒ #106 给不出本条的答案 ⇒ 不是同一条规则（同 #295 vs 🎓#236 的判法）
-     · **🎓#230**（"什么样的" ＝ what kind of）—— 那是**提问**形式，本条是**陈述**框架 ⇒ 无关
-     · 🎓#265 备注里的 `this kind of tea is good for your health`——只是例句里含 kind of ⇒ 无关
-  ⇒ **保留新建**
 
 ### 304 · turn to sb (for sth)（有事去找某人／求助）
 类型 词组 ｜ 题面 **点名**："遇到麻烦的时候去找他"（用 **turn** 说） ｜ 新建 2026-08-26（**她当场指定**）
