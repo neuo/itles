@@ -4757,24 +4757,80 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `celebrate the holidays` ／ `bring me up` —— 两个动词后面都没多加词
 
 ### 153 · work AT（下功夫）／work ON（做某项目）／work IN（领域）；"干这行"＝ I've been doing this
-类型 搭配 ｜ 题面 "我干这行十四年了。" ｜ 旧号 B242
-状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
+类型 搭配 ｜ 旧号 B242
+状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+
+**问题是什么**
+**work AT（下功夫）／work ON（做某个项目）／work IN（领域）**；
+"干这行…年了" ＝ **I've been doing this**（完成进行时，中文这句的固定落点）。
+同一格里的邻居（别串）：`I've been in this field for fourteen years.` 也合法 ——
+她 09-10 正是换这条路绕开了 work 的介词坑，按 §6「判定依据是题面」判 ✅。
+判据一句话：先定意思再挑介词（下功夫 at ／ 做项目 on ／ 在某行业 in）；说"干了多少年"直接走 I've been doing this。
+
+**怎么发现的**
+旧 B 表迁移（B242，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `I'v been doing this for 14 years.` ⇒ 毕业。
+2026-09-10 复检第 4 组（打包）✅ `I've been in this field for fourteen years.`
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：写 work 之前先定意思再挑介词；"干这行 N 年了"整句直接走 I've been doing this for N years。
+
+**题面**
+"我干这行十四年了。"
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `I'v been doing this for 14 years.`（完成进行时，中文"干这行…年了"的固定落点）
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `I've been in this field for fourteen years.`
   ★ 她换了一条路（be in this field）绕开了 work 的介词坑 —— 合法且符合题面 ⇒ 判 ✅（§6「判定依据是题面」）
 
 ### 154 · 法律/政策配的动词不是 happen（came in／was introduced）
-类型 搭配 ｜ 题面 "这条法律出台了" ｜ 旧号 B243
-状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线**
+类型 搭配 ｜ 旧号 B243
+状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+
+**问题是什么**
+**法律／政策配的动词不是 happen**：`the law **came in**` ／ was introduced。
+判据：主语是"事" → happen；是"人定出来的东西" → come in。
+判据一句话：法律、政策、规定这一类是**被人定出来的**，⛔ 不会自己"发生"。
+
+**怎么发现的**
+旧 B 表迁移（B243，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `the law came in when I was a kid.` ⇒ 毕业。
+2026-09-10 复检第 4 组（打包）✅ `The law came in`——⛔ 不是 happen。
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：主语是法律／政策时先停一下 —— 它不会"发生"，只会"出台"（came in）。
+
+**题面**
+"这条法律出台了"
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `the law came in when I was a kid.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `The law came in` —— ⛔ 不是 happen
-- 备注 判据：主语是"事"→ happen；是"人定出来的东西"→ come in
 
 ### 155 · as … as 中间只能放原级；few（可数）／little（不可数）
-类型 语法 ｜ 题面 **点名**："尽量少用塑料袋"（"尽量少"用 as … as possible 说） ／ "尽量少说话" ｜ 旧号 B244
+类型 语法 ｜ 旧号 B244
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+
+**问题是什么**
+**as … as 中间只能放原级**；**few（可数）／little（不可数）**：
+`use **as few** plastic bags **as** possible` ／ `speak **as little as** possible`。
+同一格里的邻居（别串）：`as less as possible` ❌ —— as…as 本身就是比较结构，里面再放比较级 ＝ 标两遍。
+判据一句话：as…as 中间保持原级；名词数得清用 few，数不清用 little。
+
+**怎么发现的**
+旧 B 表迁移（B244，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-21 ✅ 复习（点名题面首测）· `the teacher taught him to use as few plastic bags as possible.` ⇒ 连对 2，毕业。
+2026-09-11 复检 ✅ 两侧原级、可数用 few、不可数用 little。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：写 as…as 时中间那个词保持原级；再看名词数不数得清，选 few 还是 little。
+
+**题面**
+**点名**："尽量少用塑料袋"（"尽量少"用 as … as possible 说） ／ "尽量少说话"
+
 - 2026-08-17 ✅
 - 2026-08-21 ✅ 复习（点名题面首测）· `the teacher taught him to use as few plastic bags as possible.`
   ——few（可数）选对、中间是原级、taught sb to do 也对 → **连对2，毕业**
@@ -4782,13 +4838,39 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 `as less as possible` ❌ —— as…as 本身就是比较结构，里面再放比较级 ＝ 标两遍
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
-类型 语法 ｜ 题面 **点名**："这两个版本之间的差别其实挺明显的。"（用"差别"当**名词**说，主语就是那个差别） ／ "他们处理问题的方式完全不同。" ｜ 旧号 B245
-　　★ 旧题面（"他的耐心让我印象很深。"／"他一直很有耐心。"）2026-09-05 撤出题面字段 —— 沿革见 08-29 那条（§4① 配套动作："回潮后的复测必须用能测到掉的那一格的题面"；08-28 掉的那一格 ＝ **difference／different**，原题面的 patience／patient 测不到它）
+类型 语法 ｜ 旧号 B245
 状态 连对2 连错0 上次2026-08-30 ｜ **🎓 已毕业 2026-08-23**（连对2 · 08-20 回潮后走完两次）｜ 题型 整句
 　　★★ **2026-08-30 撤销 08-28 的"第二次回潮"**（她当天裁定 `makes a huge different` ＝ 手滑）：
 　　　 §2.1 拼写一律不算错 ⇒ 那一次不成立 ⇒ **本条从 08-23 起一直是 🎓，中间没断过**。
 　　　 08-29／08-30 的两次 ✅ 相应降为**毕业后留痕**，只作自发命中证据，不推进数字。
 　　★ 回潮史（现在只剩一次）：08-20 回潮（`use it with cautious`）→ 08-23 毕业，至今未断
+**问题是什么**
+**同根词：位置决定名词形还是形容词形**：
+`**the difference** between the two versions is pretty obvious.`（主语位 ⇒ 名词形）／
+`They handle problems in completely **different** ways.`（贴着名词修饰 ⇒ 形容词形）。
+判据：这个词前面有 **the／a／of／with／in／by** 这类介词或限定词吗？有 → 一律**名词形**
+（08-20 的 `use it with cautious` 就栽在这里，该 with **caution**）。
+判据一句话：看它站在什么位置 —— 主语／宾语位要名词形，修饰名词要形容词形。
+⚠️ 与 #280 的分工（2026-08-29 写死）：本条的复测 ⛔ **不许与 #280 排在同一组** ——
+　#280 的点名里印着 `difference` 这个词，词形是送的，本条考点根本测不到。
+★ 拼写手滑 ⛔ 不算本条的错（她 2026-08-30 裁定 `makes a huge different` ＝ 手滑，§2.1：判据是她脑子里调的词对不对）。
+
+**怎么发现的**
+旧 B 表迁移（B245，2026-08-18）；最早记录 2026-08-16 ❌ · 触发原话 `the different between the two`。
+2026-08-20 ❌ 自由产出（加练新题 bank:927）· `use it with cautious`（该 with **caution**）⇒ 回潮。
+2026-08-21 ✅ ／ 2026-08-23 ✅ ⇒ 连对 2，毕业。
+2026-08-28 那次原判 ❌ ＋ 回潮，**2026-08-30 她裁定是"手滑"后整个撤销** ⇒ 本条自 08-23 起一直是 🎓、中间没断过；
+08-29／08-30 的两次 ✅ 相应降为毕业后留痕。
+
+**我错在哪**
+她的：`the different between the two`（08-16）／ `use it with cautious`（08-20 自由产出）
+正确：`the **difference** between the two` ／ `use it with **caution**`
+找法：写这个词之前先看它前面有没有 the／a／of／with —— 有就必须用名词形。
+
+**题面**
+**点名**："这两个版本之间的差别其实挺明显的。"（用"差别"当**名词**说，主语就是那个差别） ／ "他们处理问题的方式完全不同。"
+　　★ 旧题面（"他的耐心让我印象很深。"／"他一直很有耐心。"）2026-09-05 撤出题面字段 —— 沿革见 08-29 那条（§4① 配套动作："回潮后的复测必须用能测到掉的那一格的题面"；08-28 掉的那一格 ＝ **difference／different**，原题面的 patience／patient 测不到它）
+
 - 2026-08-16 ❌ `the different between the two`
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `his patience really impressed me. he is always patient.`（名词形/形容词形两个位置都对）
@@ -4854,18 +4936,56 @@ something to look forward **to** ／ a pen to write **with**。
     本次把旧题面移出题面字段（沿革保留在元信息尾部与 08-29 的日志行里），题面只留复测那两句。
   ★ ⛔ 这不是新裁决，是**执行本条已有的裁定**。
 - 2026-09-12 📝 元信息行整理：撤出的旧题面与沿革移到 ★ 行，题面字段只留两句（§3.1② 解析口径：★ 行不算题面本体）· 全档题面 review
-- 备注 判据：这个词前面有 the／a／of 吗？有 → 必须名词形。08-16 实证：原答案写对，重说时反而退成 different
+- 备注 08-16 实证：原答案写对，重说时反而退成 different
 
 ### 158 · 场所介词 on（面）／in（有边界的空间）；on the balcony／on the bus
-类型 搭配 ｜ 题面 "在阳台上" ／ "在桌上，不在抽屉里" ｜ 旧号 B247
+类型 搭配 ｜ 旧号 B247
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+
+**问题是什么**
+**场所介词 on（面）／in（有边界的空间）**：on the balcony ／ on the bus ／ on the table，但 **in** the drawer。
+判据一句话：贴在一个**面**上 ⇒ on；装在一个**有边界的空间**里 ⇒ in。
+
+**怎么发现的**
+旧 B 表迁移（B247，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `on his balcony` ＋ `on the table, not in the drawer`（三个场所介词全中）⇒ 毕业。
+2026-09-11 复检 ✅ `on the balcony. on the desk, not in the drawer.`
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：说位置之前先问一句 —— 是贴在一个面上，还是装在一个空间里？
+
+**题面**
+"在阳台上" ／ "在桌上，不在抽屉里"
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `on his balcony` ＋ `on the table, not in the drawer`（三个场所介词全中）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `on the balcony. on the desk, not in the drawer.` —— 面用 on、有边界的空间用 in
 
 ### 159 · "…的时刻/地方/原因 是…" → 表语用 when／where／that 引导
-类型 结构 ｜ 题面 "让我印象最深的一刻，是他教我剪花那次。"（⛔ 不许用 What 起头的句子说） ｜ 旧号 B248
+类型 结构 ｜ 旧号 B248
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+
+**问题是什么**
+**"…的时刻／地方／原因 是…" → 表语用 when／where／that 引导**：
+`one moment that really stuck with me **was when** he taught me to prune flowers`。
+同一格里的邻居（别串）：`What impressed me most was the time he taught me…` ＝ what 分裂句，完全合法，
+却把这一格整个绕开 ⇒ 2026-09-11 题面补了「⛔ 不许用 What 起头的句子说」。
+连带：讲过去的事，主句系动词也要过去时（is → **was**）。
+判据一句话：主语是"时刻／地方／原因" ⇒ 表语那半用 when／where／that 起头。
+
+**怎么发现的**
+旧 B 表迁移（B248，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `one moment that really stuck with me was when he tought me to prune flowers` ⇒ 🎓 零 ❌ 线毕业。
+2026-09-11 复检 ✅ 表语位置用 **when** 引导（本场新补的 ⛔ What 排除项挡住了分裂句那条路）。
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：主语是"最…的一刻／地方／原因"时，系动词后面直接给 when／where／that，⛔ 别绕 What 分裂句。
+
+**题面**
+"让我印象最深的一刻，是他教我剪花那次。"（⛔ 不许用 What 起头的句子说）
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `one moment that really stuck with me was when he tought me to prune flowers`
   （表语用 when 引导 ＋ 主句系动词 was 也对；发题前审核预判"可能被 The thing I remember most 绕开"，没绕）
@@ -4879,8 +4999,31 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 连带：讲过去的事，主句系动词也要过去时（is → was）
 
 ### 161 · (the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分
-类型 语法 ｜ 题面 "我们仨" ／ "我们当中有两个" ／ **"我们一家三口"（也用 the ＋ 数字 ＋ of 说）** ｜ 旧号 B250
+类型 语法 ｜ 旧号 B250
 状态 连对2 连错0 上次2026-09-11 ｜ 题型 词组 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-04 回潮后第二次毕业）
+
+**问题是什么**
+**(the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分**：
+`**The three of us** went together.`（我们仨全去了）／ `**two of us** didn't come.`（我们当中有两个）。
+同一格里的邻居（别串）：⛔ the three of **my family**（09-04 她从中文"我家的三个人"直译出来的）——
+"我们一家三口"英文照样落在 **the three of us**；另：person 的复数口语一律 people。
+判据一句话：说"我们当中"这一层 ⇒ of **us**；说"全体"就在前面加 the。
+
+**怎么发现的**
+旧 B 表迁移（B250，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `The three of us went together. two of us didn't come.` ⇒ 🎓 零 ❌ 线毕业。
+2026-09-04 ❌ **回潮** · 新题第 1 道（自由产出 · bank:875 P3）· 触发原话
+`he pointed at three circles on it, saying they are **the three of my family**.`
+★ 掉的**不是 the**（the 她加对了），是 **of us 那一半在"一家三口"这个框里没调出来** ⇒ 当场补了一句题面专测这一格。
+2026-09-05 ✅ ／ 2026-09-07 ✅ ⇒ 连对 2，第二次毕业；2026-09-11 ⚡ 自评免测。
+
+**我错在哪**
+她的：`they are the three of my family`（2026-09-04 自由产出）　　正确：`the three of **us**`
+找法：说"我们（家）几口／几个"时，of 后面永远先填 us，⛔ 别把中文的"我家"直译进去。
+
+**题面**
+"我们仨" ／ "我们当中有两个" ／ **"我们一家三口"（也用 the ＋ 数字 ＋ of 说）**
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `The three of us went together. two of us didn't come.`（带 the ＝ 全体／不带 ＝ 一部分）
 - 2026-09-04 ❌ **回潮** · 新题第 1 道（自由产出 · bank:875 P3 · Why do most children draw more often than adults do?）
@@ -4916,8 +5059,35 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 person 的复数口语一律 people
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
-类型 搭配 ｜ 题面 "用铅笔写的" ／ "木头做的" ｜ 旧号 B251
-状态 连对2 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这题毕业了"） ｜ **合并条·出题多句覆盖**
+类型 搭配 ｜ 旧号 B251
+状态 连对2 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这题毕业了"） ｜ **合并条·出题多句覆盖** ｜ 题型 词组
+
+**问题是什么**
+一道题面覆盖两个成员：
+· **写／画出来的 ＋ IN**：written **in** pencil ／ spelt out **in** sweets
+· **材料 ＋ made OF ／ OUT OF**：made **of** wood
+同一格里的邻居（别串）：08-17 她把 spell out 和 made out of **串台**了（`spelt out OF sweets`）——
+两个块各有各的介词，⛔ 不能互相借。
+判据一句话：说"用什么写／画的" ⇒ in；说"用什么材料做的" ⇒ of／out of。
+
+**怎么发现的**
+旧 B 表迁移（B251，2026-08-18）；最早记录 2026-08-17 ❌ · 触发原话 `spelt out OF sweets`。
+2026-08-19 ✅ 两个介词都中；2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`
+⇒ 她当场指定毕业（"这题毕业了"）。
+2026-09-05 复检 ✅ in pencil ／ made of wood，两个成员都对。
+
+**我错在哪**
+她的：`spelt out OF sweets`（2026-08-17）　　正确：`spelt out **in** sweets`
+找法：先分一刀 —— 这是"写／画上去的"还是"拿材料做的"？写画用 in，材料用 of／out of。
+
+**题面**
+"用铅笔写的" ／ "木头做的"
+
+**成员出题账**
+① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅
+② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅
+★ 08-17 那一次只测到成员 ①。
+
 - 2026-08-17 ❌ `spelt out OF sweets`（把 spell out 和 made out of 串台）
 - 2026-08-19 ✅ `written in pen（该 pencil，但介词对）` ＋ `made of wood`——两个介词都中
 - 2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`——两个介词都对，pencil 也对了
@@ -4925,8 +5095,29 @@ something to look forward **to** ／ a pen to write **with**。
   —— 两个成员都对
 
 ### 163 · "愣住了／说不出话"（I just stood there.／I froze.）
-类型 词组 ｜ 题面 "愣在那儿，一句话也说不出来"（⛔ 不许用 speechless／didn't know what to say） ｜ 旧号 B252
+类型 词组 ｜ 旧号 B252
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 词组
+
+**问题是什么**
+"愣住了／说不出话" ＝ **I just stood there.** ／ **I froze.**
+同一格里的邻居（别串）：speechless ／ didn't know what to say 都完全合法，却绕开 stood there／froze
+⇒ 2026-09-11 题面补了排除项。
+判据一句话：这一层走**动作**（stood there／froze），⛔ 不走形容词或解释性从句。
+
+**怎么发现的**
+旧 B 表迁移（B252，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ⛔ 本次作废不计档位：她答得完全对，但那个答案教练上一组讲评里刚展示过 ⇒ 不是 cold 数据，责任在教练。
+2026-08-20 ✅（真 cold）· `I just stood there and couldn't say a word` ⇒ 连对 2，毕业。
+2026-09-11 复检 ✅ `Froze there, unable to say a word.`
+★ 尾部备注记着：08-15 给过、当天重说对了，08-16 再问已经不会 ⇒ "当场重说对 ≠ 装上了"。
+
+**我错在哪**
+她的：本条判定里没有掉过（08-19 那次作废的责任在教练），触发原话未存。
+找法：说"愣住了"时先找那个动作 —— stood there 或 froze。
+
+**题面**
+"愣在那儿，一句话也说不出来"（⛔ 不许用 speechless／didn't know what to say）
+
 - 2026-08-17 ✅
 - 2026-08-19 ⛔ **本次作废不计档位**：她答得完全对（`I just stood there and didn't say a word`），
   但这个答案教练在上一组讲评里刚展示过 ⇒ 不是 cold 数据。责任在教练，本条顺延重测
@@ -4938,8 +5129,27 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 08-15 给过、当天重说对了，08-16 再问已经不会 ⇒ "当场重说对 ≠ 装上了"
 
 ### 164 · 一句话里时态只能有一个平面
-类型 语法 ｜ 题面 "那天我发现门锁着，所以我就回家了。" ｜ 旧号 B253
-状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-21**
+类型 语法 ｜ 旧号 B253
+状态 连对2 连错0 上次2026-08-26 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
+
+**问题是什么**
+**一句话里时态只能有一个平面**：`i found the door locked, so i just went home.`（found／went 全在过去平面）。
+判据一句话：换平面要在**句子边界**上换，句内 ⛔ 不许串。
+★ 与 #12 的分工：#12 管"该用哪个时态"，本条管"一句里别换档"。
+
+**怎么发现的**
+旧 B 表迁移（B253，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-21 ✅ 复习 · `i found the door locked, so i just went home.` ⇒ 连对 2，毕业
+（"那天"没译出只是信息略省，⛔ 不记档位）。
+2026-08-25 ／ 2026-08-26 连续两篇自由产出里自发命中 —— 一篇四个平面，每次换档都有理由、句内没串。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：一句说完回头看谓语 —— 它们是不是都站在同一个时间平面上。
+
+**题面**
+"那天我发现门锁着，所以我就回家了。"
+
 - 2026-08-17 ✅
 - 2026-08-21 ✅ 复习 · `i found the door locked, so i just went home.`——found／went 全在过去平面 → **连对2，毕业**
   ★ "那天"没译出，只是信息略省，不是语法错，不记档位
