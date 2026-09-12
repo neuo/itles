@@ -5176,8 +5176,30 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 与 #12 分工：#12 管"该用哪个时态"，本条管"一句里别换档"
 
 ### 165 · even（修饰一个词）／even though（已经发生的事实）
-类型 语法 ｜ 题面 "虽然我们输了，我还是很开心。"（⛔ 不许用 although／though／despite） ｜ 旧号 B254
+类型 语法 ｜ 旧号 B254
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 她指定** ｜ 题型 整句
+
+**问题是什么**
+**even（修饰一个词）／even though（已经发生的事实）**：`**Even though** the home team lost, I was very happy.`
+判据：even 后面跟的是**一个词**还是**一整句**？一整句 → 必须 even though／even if。
+同一格里的邻居（别串）：although／though／despite 是同义连接词，`We lost, **but** I was still happy.` 是**换结构**——
+两类都合法、都绕开考点 ⇒ 题面 2026-09-11 分两步把四个都排除掉。
+★ even if（假设）那一半 2026-08-19 已拆出成 **#256**，本条只管 even though。
+
+**怎么发现的**
+旧 B 表迁移（B254，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `Even though the home team lost, I was very happy.` ⇒ **她当场指定毕业**
+（原话："你就记对就行，别让我重复练了"）。
+2026-09-11 复检 ✅ `We lost, but I was still happy.`——合法、达意、未犯任何排除项 ⇒ 记 ✅；
+⛔ 教练犯规：第二译法自查只想了同义词替换、漏了"换结构"（but）⇒ 当天补排除项，⛔ 不扣她的分。
+
+**我错在哪**
+她的：本条历史里没有掉过；09-11 走的 but 是合法的另一条路（教练题面没堵住）。触发原话未存。
+找法：even 后面挂的是一整句吗？是 ⇒ 必须写成 even though（已发生）或 even if（假设）。
+
+**题面**
+"虽然我们输了，我还是很开心。"（⛔ 不许用 although／though／despite）
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `Even though the home team lost, I was very happy.`
   🎓·她指定：**"你就记对就行，别让我重复练了"**
@@ -5195,12 +5217,35 @@ something to look forward **to** ／ a pen to write **with**。
     漏掉最自然的 `We lost, **but** I was still happy.`，她走的正是那条 ⇒ 判 ✅、⛔ 不扣分，当场补 ⛔ but。
   ★ 执行修补（写进 SKILL §6.5 第 7 项）：第二译法自查要**分两类想** ——
     ① 同义词替换　② 换结构（but／分裂句／被动／if／名词化）
-- 备注 判据：even 后面跟的是一个词还是一整句？一整句 → 必须 even though／even if
 - 备注 08-16 当天纠、隔一道题她在全新语境里自发用对 ⇒ 迁移窗口很短但很实
 
 ### 166 · see sb（见面）／meet（初次认识）／meet up（约着碰头）—— 选哪个动词
-类型 词汇 ｜ 题面 **点名**："上周跟他见了一面" ／ "大学认识的"（两句用**不同的动词**说） ｜ 旧号 B255
-状态 连对2 连错0 上次2026-09-05 ｜ 顽固已断 ｜ **🎓 已毕业 2026-08-21**
+类型 词汇 ｜ 旧号 B255
+状态 连对2 连错0 上次2026-09-05 ｜ 顽固已断 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+
+**问题是什么**
+**see sb（见面）／meet（初次认识）／meet up（约着碰头）—— 选哪个动词**：
+`I haven't **seen** him …` ／ `We **met** at university.`
+判据一句话：见的是**老熟人** ⇒ see；**第一次认识** ⇒ meet；**约着碰头** ⇒ meet up。
+⚠️ 与 #276（for ages／in ages）互斥写死（2026-09-05 两次整改）：
+　**"好久"怎么说 ⇒ #276（ages）／ 两句的动词选哪个 ⇒ 本条。**
+　沿革：#276 是 2026-08-23 从本条拆出去的，当时**老条目的题面没剥干净**，两条一直在考同一句中文
+　⇒ 教训写死：**拆号之后必须回头剥老条目的题面**。
+
+**怎么发现的**
+旧 B 表迁移（B255，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ❌。
+2026-08-19 ❌ **同一个错第二次**：`I haven't seen him for long`（该 for ages／in ages —— 那一格后来拆给了 #276）。
+2026-08-20 ✅ ／ 2026-08-21 ✅ `We haven't seen each other in ages. We met at university.` ⇒ 连对 2，毕业。
+2026-09-05 复检（打包）✅ 两句动词各自选对 —— 题面当天刚整改完，整改后**首测即过**。
+
+**我错在哪**
+她的：`I haven't seen him for long`（2026-08-19；那一处的量词错已归 #276）
+正确：`We haven't seen each other **in ages**. We **met** at university.`
+找法：先分一刀 —— 见老熟人 see、第一次认识 meet、约着碰头 meet up。
+
+**题面**
+**点名**："上周跟他见了一面" ／ "大学认识的"（两句用**不同的动词**说）
+
 - 2026-08-17 ❌
 - 2026-08-19 ❌ **同一个错第二次**：`I haven't seen him for long`（该 for ages／in ages）
 - 2026-08-20 ✅ 复习 · `we haven't seen each other for ages. We met at university.`
@@ -5238,8 +5283,28 @@ something to look forward **to** ／ a pen to write **with**。
   下个付息日按"一条＝一个考点"拆开，否则她要为已经会的 meet 陪着 for ages 一起重测
 
 ### 168 · tick things off a list（打卡式旅游）
-类型 词组 ｜ 题面 "旅游就是打卡"（"打卡"用一个带 **list** 的块说） ｜ 旧号 B257 ｜ ⭐ 她想说卡住、📖 给的
+类型 词组 ｜ 旧号 B257 ｜ ⭐ 她想说卡住、📖 给的
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+
+**问题是什么**
+**tick things off a list** ＝ 打卡式旅游（完整块是 tick things off **a list**，清单单数）。
+同一格里的邻居（别串）：**check** off 同样地道、⛔ 不是错（09-11 她答的就是它，判 ✅）——
+本条的目标形式是英式／雅思默认的 **tick**，所以当天补了 ⛔ check 把它逼出来；
+并列时 taking a photo and moving on 更齐。
+判据一句话：这一层用"从清单上划掉"这个画面说，动词优先 tick。
+
+**怎么发现的**
+旧 B 表迁移（B257，2026-08-18；⭐ 她想说卡住、📖 给的），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `their trips are just about ticking off lists`（08-17 还是 📖 给的，今天自己调出来了）⇒ 🎓 零 ❌ 线毕业。
+2026-09-11 复检 ✅ `Traveling is just checking things off a list.`——带 list 的块整个调出来了 ⇒ 记 ✅；同日补 ⛔ check。
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线）；08-17 那次这个块是教练 📖 给的。触发原话未存。
+找法：说"打卡式旅游"时先落"从清单上划掉"这个画面，动词用 tick off。
+
+**题面**
+"旅游就是打卡"（"打卡"用一个带 **list** 的块说）
+
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `their trips are just about ticking off lists`（08-17 还是 📖 给的，今天自己调出来了）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `Traveling is just checking things off a list.`
@@ -5253,8 +5318,32 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 完整块是 tick things off **a list**（清单单数）；并列时 taking a photo and moving on 更齐
 
 ### 169 · 不带 if 的条件句：[量/程度短语] ＋ and ＋ [结果]
-类型 结构 ｜ 题面 "再多待一周我就想家了。" ／ "再贵一点我就不买了。"（两句都 ⛔ 不许用 if） ｜ 旧号 B258
+类型 结构 ｜ 旧号 B258
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+
+**问题是什么**
+**不带 if 的条件句：[量/程度短语] ＋ and ＋ [结果]**：
+`**Another week and** I'd miss home.` ／ `**A little more expensive and** I wouldn't buy it.`
+· and 前面只能放**比较级或量**（ten minutes EARLIER）
+· would（假设）vs will（真打算）
+· **and 是关节**，⛔ 不能用逗号代替
+同一格里的邻居（别串）：`If I stayed one more week, I'd get homesick.` 完全合法，却绕开这个结构
+⇒ 2026-09-11 题面补了「两句都 ⛔ 不许用 if」。
+判据一句话：想说"再…一点就…"时，先摆一个量／比较级，再用 and 接结果。
+
+**怎么发现的**
+旧 B 表迁移（B258，2026-08-18），原始触发原话未存；
+最早记录 2026-08-16 📝 drill 两轮 10 题**结构零错误 ⇒ 已装上**（掉的全是词）。
+2026-08-19 ✅ `Another week and I'd miss home.`（[量]＋and＋[结果] ＋ would 表假设，三点全中）⇒ 🎓 零 ❌ 线毕业。
+2026-09-11 复检 ✅ 两句都成、都没碰 if。
+
+**我错在哪**
+她的：本条历史里没有掉过（🎓 零 ❌ 线），触发原话未存。
+找法：说"再…就…"时先摆量／比较级，再用 **and** 接结果 —— ⛔ 别顺手写 if，⛔ 别用逗号顶替 and。
+
+**题面**
+"再多待一周我就想家了。" ／ "再贵一点我就不买了。"（两句都 ⛔ 不许用 if）
+
 - 2026-08-16 📝 drill 两轮 10 题 **结构零错误 ⇒ 已装上**（掉的全是词）
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `Another week and I'd miss home.`（[量]＋and＋[结果] ＋ would 表假设，三点全中）
@@ -5270,8 +5359,28 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 and 前面只能放比较级或量（ten minutes EARLIER）；would（假设）vs will（真打算）；and 是关节，不能用逗号代替
 
 ### 170 · 并列人称在介词后/宾语位置一律用宾格 me
-类型 语法 ｜ 题面 "这是给我太太和我的。" ／ "我太太和我一起去的。"（两句都说） ｜ 旧号 B259
-状态 连对2 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业了"）
+类型 语法 ｜ 旧号 B259
+状态 连对2 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业了"）｜ 题型 整句
+
+**问题是什么**
+**并列人称在介词后／宾语位置一律用宾格 me**：
+`it's for my wife and **me**.`（介词后）／ `**My wife and I** go together.`（主语位用主格）。
+判据：把"我太太和"去掉、只留一个人念一遍 —— for **me** ✓ ／ for I ✗。
+判据一句话：看这个人称站在哪个位置 —— 介词后／宾语位 ⇒ me，主语位 ⇒ I。
+
+**怎么发现的**
+旧 B 表迁移（B259，2026-08-18）；最早记录 2026-08-17 ❌ 建号当天，触发原话未存。
+2026-08-19 ✅ ／ 2026-08-20 ✅ 宾格／主格两个位置都对 ⇒ 她当场指定毕业（"这个也毕业了"）。
+2026-09-05 复检 ✅ 介词后 for my wife and **me** ／ 主语位 My wife and **I**。
+★ 尾部备注记着：建号后隔一题她就用对了（迁移窗口）。
+
+**我错在哪**
+她的：2026-08-17 建号当天记过一次 ❌，触发原话未存。
+找法：把"我太太和"去掉，只留一个人念一遍 —— 念得通的那个形式就是对的。
+
+**题面**
+"这是给我太太和我的。" ／ "我太太和我一起去的。"（两句都说）
+
 - 2026-08-17 ❌ 建号当天
 - 2026-08-19 ✅ `it is for my wife and me.` ＋ `My wife and I go together.`（宾格/主格两个位置都对）
 - 2026-08-20 ✅ `it's for my wife and me. my wife and I go together.`——宾格/主格两个位置又都对
@@ -5279,12 +5388,29 @@ something to look forward **to** ／ a pen to write **with**。
      要测过去时得把题面写成"那次我太太和我是一起去的"
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· 两个位置都对：介词后 for my wife and **me**（宾格）
   ／主语位 My wife and **I**（主格）
-- 备注 判据：把"我太太和"去掉，只留一个人念一遍 —— for me ✓／for I ✗
 - 备注 建号后隔一题她就用对了（迁移窗口）
 
 ### 171 · 要把"跟谁说"说出来就得用 tell sb（say 后面不接人）
-类型 搭配 ｜ 题面 **点名**："没跟我说一声"（用 tell 说） ｜ 新建 2026-08-19
+类型 搭配 ｜ 新建 2026-08-19
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 词组
+
+**问题是什么**
+**要把"跟谁说"说出来就得用 tell sb**（say 后面不接人）：`he didn't **tell me** before he left.`
+判据：say 后面直接接人不成立（say me ✗）；要出现人就换 **tell sb sth** ／ **say sth TO sb**。
+判据一句话：句子里要带上"跟谁" ⇒ 动词换成 tell。
+
+**怎么发现的**
+2026-08-19 新建 · 复习 #147 句里 · 触发原话 "也没跟我说他要走" → `didn't say he was going to leave`（"我"整个漏掉）。
+2026-08-21 ✅ ／ 2026-08-23 ✅ `he didn't tell me before leaving.` ⇒ 连对 2，毕业。
+2026-09-11 复检 ✅ `didn't tell me`。
+
+**我错在哪**
+她的：`didn't say he was going to leave`（2026-08-19）　　正确：`he didn't **tell me** before he left.`
+找法：中文里出现"跟我／跟他"这个人时，动词先定成 tell。
+
+**题面**
+**点名**："没跟我说一声"（用 tell 说）
+
 - 2026-08-19 新建 · 复习#147 句里 · "也没跟我说他要走" → `didn't say he was going to leave`（漏掉"我"）
 - 2026-08-21 ✅ 复习（点名题面首测）· `he didn't tell me before he left.`——tell ＋ 人、语序对、两分句时态平面一致
 - 2026-08-23 ✅ 付息日 a 段 · `he didn't tell me before leaving.`——tell ＋ 人一字不差；
@@ -5293,8 +5419,27 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 say 后面直接接人不成立（say me ✗）；要出现人就换 tell sb sth／say sth TO sb
 
 ### 172 · 机会用 get：get the chance to do（不用 have a chance）
-类型 搭配 ｜ 题面 **点名**："有机会去看看"（"有机会"用 get 说） ｜ 新建 2026-08-19
+类型 搭配 ｜ 新建 2026-08-19
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+
+**问题是什么**
+**机会用 get：get the chance to do**（⛔ 不用 have a chance）：`if I **get the chance**, I'd love to see it`。
+同一格里的邻居（别串）：`a chance` 与 `the chance` **两个都成立**（get a chance／get the chance 同样常用），冠词⛔ 不是考点；
+have a chance 更多用在"有可能性"（There's a chance it'll rain）。
+判据一句话："有机会做某事"默认动词是 **get**。
+
+**怎么发现的**
+2026-08-19 新建 · 复习 #140 句里 · 触发原话 `if I have a chance`（→ if I (ever) get the chance）。
+2026-08-20 ✅ ／ 2026-08-21 ✅ ⇒ 连对 2，毕业。
+2026-09-11 复检 ✅ `check it out if you get the chance`——⛔ 没写 have a chance。
+
+**我错在哪**
+她的：`if I have a chance`（2026-08-19）　　正确：`if I (ever) **get** the chance`
+找法：说"有机会…"时动词先落 get，⛔ 别顺手用 have。
+
+**题面**
+**点名**："有机会去看看"（"有机会"用 get 说）
+
 - 2026-08-19 新建 · 复习#140 句里 · `if I have a chance` → if I (ever) get the chance
 - 2026-08-20 ✅ 复习（新建后首测）· `if i get the chance, I'd love to see it`——get the chance 一字不差
 - 2026-08-21 ✅ 复习 · `If i get a chance someday I want to go see it.`——考点是动词选 **get** 不选 have
@@ -5305,8 +5450,29 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 have a chance 更多用在"有可能性"（There's a chance it'll rain）；"有机会做某事"默认 get
 
 ### 173 · X makes me …（实义动词盖住整个评价槽，不用 is）
-类型 结构 ｜ 题面 "这两小时让一整天都值了。"（用 **make** 说） ｜ 旧号 B12
-状态 连对3 连错0 上次2026-09-09 ｜ **🎓 已毕业 2026-08-17**
+类型 结构 ｜ 旧号 B12
+状态 连对3 连错0 上次2026-09-09 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+
+**问题是什么**
+**X makes me …** —— 用**实义动词**盖住整个评价槽，⛔ 不用 be 动词：
+`the two hours **made** the whole day worth it`。
+同一格里的邻居（别串）：`Because of those two hours, the whole day **was** worth it.` 完全合法，
+但评价槽用了 be 动词、考位就没了 ⇒ 2026-09-09 题面点名「用 **make** 说」。
+★ 点名的是**动词**、⛔ 不是结构：made ＋ 宾语 ＋ 补语这一整块仍要她自己搭（与 #104「用 bury 说」同规格）。
+判据一句话：评价那一层能不能由一个实义动词扛住？能就别退回 is。
+
+**怎么发现的**
+旧 B 表迁移（B12，2026-08-18），原始触发原话未存；最早记录 2026-08-11 ✅。
+2026-08-15 ✅ ／ 2026-08-17 ✅ ⇒ 连对 3，毕业。
+2026-09-09 复检第 3 组 ✅ `the two hours made the whole day worth it`（题面当天刚补点名）。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：想说"…让…变得怎样"时先找一个实义动词扛住评价槽（make／bore／bring），⛔ 别退回 is。
+
+**题面**
+"这两小时让一整天都值了。"（用 **make** 说）
+
 - 2026-08-11 ✅
 - 2026-08-15 ✅
 - 2026-08-17 ✅
@@ -5317,8 +5483,29 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-09 ✅ 复检 · 第 3 组 · `the two hours made the whole day worth it`
 
 ### 174 · as … as it gets（用原级避开比较级形态）
-类型 词组 ｜ 题面 **点名**："简单到不能再简单"（用 **as … as** 那个块说，⛔ 不用比较级） ｜ 旧号 B25
-状态 连对3 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-17**
+类型 词组 ｜ 旧号 B25
+状态 连对3 连错0 上次2026-09-05 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+
+**问题是什么**
+**as … as it gets** ＝ 用原级避开比较级形态（"已经是最…的了"）：`running is **as simple as it gets**`。
+· 这个块**不随句子变过去式**（08-12 她写成 `as simple as it got` ⇒ 回潮）
+· 边界：as…as it gets ≠ "尽量…"（那是 as…as possible）
+同一格里的邻居（别串）：`Running couldn't be simpler.` 合法，但走的是**比较级**，而本条的立身之本正是用原级
+⇒ 2026-09-05 题面点名到 as … as 那个块 ＋ 明写 ⛔ 不用比较级。
+判据一句话：这个块是**固定形**，永远 as … as it **gets**。
+
+**怎么发现的**
+旧 B 表迁移（B25，2026-08-18）；最早记录 2026-08-12 ❌ 回潮 · 触发原话 `as simple as it got`。
+2026-08-13 ✅ ／ 2026-08-15 ✅ ／ 2026-08-17 ✅ ⇒ 连对 3，毕业。
+2026-09-05 复检第 1 组（打包）✅ `running is as simple as it gets`——原级，⛔ 没落进比较级。
+
+**我错在哪**
+她的：`as simple as it got`（2026-08-12）　　正确：`as simple as it **gets**`
+找法：这个块整块调、时态不跟着句子走 —— 永远是 gets。
+
+**题面**
+**点名**："简单到不能再简单"（用 **as … as** 那个块说，⛔ 不用比较级）
+
 - 2026-08-12 ❌ 回潮：写成 `as simple as it got`（这个块不随句子变过去式）
 - 2026-08-13 ✅
 - 2026-08-15 ✅
@@ -5331,8 +5518,27 @@ something to look forward **to** ／ a pen to write **with**。
 - 备注 边界：as…as it gets ＝"已经是最…的了"，不等于"尽量…"（那是 as…as possible）
 
 ### 175 · grow vs grow up（grow up 只用于人长大成人）
-类型 词汇 ｜ 题面 "这些植物一天天长"（用 **grow** 说） ｜ 旧号 B31a
-状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-17**
+类型 词汇 ｜ 旧号 B31a
+状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+
+**问题是什么**
+**grow vs grow up** —— **grow up 只用于人长大成人**；植物／数量变大一律 **grow**：`grow day by day`。
+同一格里的邻居（别串）：get bigger／get taller 也合法，但动词槽位被绕开、这组分工就测不到
+⇒ 2026-09-07 题面补点名「用 grow 说」。
+判据一句话：主语是人、说的是"长大成人" ⇒ grow up；其余一律 grow。
+
+**怎么发现的**
+旧 B 表迁移（B31a，2026-08-18），原始触发原话未存；最早记录 2026-08-11 ✅。
+2026-08-15 ✅ ／ 2026-08-17 ✅ ⇒ 连对 3，毕业。
+2026-09-07 复检第 5 组（打包）✅ `grow day by day`（植物用 grow，⛔ 没落进 grow up）。
+
+**我错在哪**
+她的：本条历史里没有掉过（判定全是 ✅），触发原话未存。
+找法：写 grow 之前看主语 —— 只有人"长大成人"才加 up。
+
+**题面**
+"这些植物一天天长"（用 **grow** 说）
+
 - 2026-08-11 ✅
 - 2026-08-15 ✅
 - 2026-08-17 ✅
