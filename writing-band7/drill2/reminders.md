@@ -197,6 +197,19 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
      08-29 的 1/23、08-30 的 1/23 完全同形。
 ```
 
+```
+2026-09-12 组3 第 3 题　`only two **school** have this equipment`　→ `two schools`
+   ★★ 与 09-07 组2 第 8 题 `only three **department**` **同一格**：only ＋ 数量词 ＋ 名词 —— 两场连着在这里掉 -s
+2026-09-12 组3 第 2 题　`the problem of overdue **wage**`　→ `overdue wages`
+   ★ 光杆可数单数、前面没有限定词 —— 09-07 `supervisory mearsure` 的形状；这里还多一层：拖欠的工资是一笔钱 ⇒ wages
+   ★ 同日守住的：组1 12 处 · 组2 12 处 · 组3 8 处（the terms are · expert witnesses · each participant · the judges value ·
+     sales fell · the staffing shortage persists · the prosecution presented · its terms）⇒ 全天 **2 / 34**
+   ⇒ 组1 组2 零命中、组3 2 处 —— 又是"整体在守、个别短格失控"，而且两处都不在长主语上
+2026-09-12 复检组1 第 5 题　`he **do** not intend`　→ `does not`
+   ★ 三单 -s（08-30 `This brand focus` 那一格）；同组守住 5 处（oil prices double · Employees must · those who wish · pests · the winner must）
+   ⇒ 全天 **3 / 40**（组1 0/12 · 组2 0/12 · 组3 2/10 · 复检 1/6）：三处全是短句、都不在长主语上
+```
+
 **★ 2026-08-25 一条观察（写给下次扫的人）**
 ```
 今天唯一漏掉的这一处，出现在**同一句里同时处理另外两件事**的时候
