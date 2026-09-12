@@ -12030,24 +12030,12 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
-类型 结构 ｜ 题面 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说） ｜ 新建 2026-09-07
+类型 结构 ｜ 新建 2026-09-07
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）｜ 题型 整句
-- 2026-09-07 📝 首犯 · 新题第 1 道（自由产出 · bank:975 P3 · Do you think smart children are happier than other children?）·
-  `smart enough to know **they actually want** and how to reach their gold`
-  → to know **what** they actually want and how to reach their goals
-  ❌ want 是及物的，后面必须有宾语，而这里的宾语正是那个 what。
-  ★ 归因（下次复测要用）：know 后面并列了两个嵌入成分 —— 第二个的 how **她写了**，
-    第一个的 what 吞掉了 ⇒ 不是"不知道要用 wh"，是并列时第一个被跳过。
-- 2026-09-09 ✅ 复习 · 在池第 2 组 · `Smart enough to know exactly what they want and how to get it.`
-  —— 嵌入疑问的两个 wh 词（what／how）都没被吞，后面都是陈述语序；"到底" 用 exactly 落位
-- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `smart enough to know what he wants and how to get it.`
-  —— know 后面并列的两个嵌入疑问 what／how 一个没吞 ⇒ 连对2 **毕业**
-  ★ 发出时题面缺主语（"聪明到知道…"），她自己补了 he —— 教练的锅，⛔ 不扣分；同日 📝 整改
-- 2026-09-11 📝 题面整改：补主语「他」· 她当场点出（原话："整句（翻译）需要完全的句子"）
-  旧 "聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
-  新 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
-  ⇒ 考点靠句子现形 ⇒ 整句题 ⇒ §6.5⑥ 要求有主语、能独立成句；旧题面正是那条的反例形状
-- 备注 判据：
+
+**问题是什么**
+嵌入疑问的 **wh 词不能吞**（know **what** they want）。
+判据：
 ```
 know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分都要有自己的 wh 词领头**：
   know **what** they want ／ know **how** to do it ／ know **why** it matters ／ know **where** to start
@@ -12055,7 +12043,20 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 ★ 这里的 what 是双重身份：既是连接词、又是 want 的**宾语** ⇒ 吞掉它，want 就没宾语了。
 ★ 检查触发：写完 know／tell／wonder／figure out，数后面有几个成分，每个是不是都有 wh 领头。
 ```
-- 判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
+★ 与 🎓**#59**（嵌进句子里就用陈述语序）的分工 —— 形状最像（都是 wh 从句）：她这句从句里本来就是
+　陈述语序，按 #59 的规则去改 **产不出 what** ⇒ 不同考点。
+★ 与 **#46**（表语用名词说，不用 what 从句）的**互斥关系（当场写死）**：#46 题面是**表语位置**、⛔ 禁用
+　what 从句；本条题面是 know 的**宾语位置**、**必须**用 what ⇒ 方向相反，两条题面不撞车。
+★ **不是伞形条目**（§3.2b）：收敛成一条规则（wh 词不能吞），成员是封闭的 wh 词表。
+
+**怎么发现的**
+2026-09-07 📝 首犯 · 新题第 1 道（自由产出 · bank:975 P3 · Do you think smart children are happier than other children?）· 她写
+`smart enough to know **they actually want** and how to reach their gold`
+（→ to know **what** they actually want and how to reach their goals）
+❌ want 是及物的，后面必须有宾语，而这里的宾语正是那个 what。
+★ 归因：know 后面并列了两个嵌入成分 —— 第二个的 how **她写了**，第一个的 what 吞掉了
+⇒ 不是"不知道要用 wh"，是**并列时第一个被跳过**。
+判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
 ```
 ① 目标英文形式 ＝ `know **what** …` —— 考的是 wh 词的**有无**
 ② 全档 grep（**范围含已毕业**）：`grep -n "嵌入疑问\|what 从句\|宾语从句\|know what" problems.md graduated.md`
@@ -12071,11 +12072,61 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 ④ 是不是拼写（§2.1）？**不是**，是缺一个功能词。
 ⑤ 是不是伞形条目（§3.2b）？**不是** —— 收敛成一条规则（wh 词不能吞），成员是封闭的 wh 词表。
 ```
+
+**我错在哪**
+她的：`smart enough to know **they actually want** and how to reach their gold`
+正确：`smart enough to know **what** they actually want and how to reach their goals`
+找法：写完 know／tell／wonder／figure out，**数一数后面有几个成分** ——
+每一个都得有自己的 wh 词领头（并列的第二个写了，别把第一个吞掉）。
+
+**题面**
+"他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
+
+- 2026-09-07 📝 首犯 · 新题第 1 道（自由产出 · bank:975 P3 · Do you think smart children are happier than other children?）·
+  `smart enough to know **they actually want** and how to reach their gold`
+  → to know **what** they actually want and how to reach their goals
+  ❌ want 是及物的，后面必须有宾语，而这里的宾语正是那个 what。
+  ★ 归因（下次复测要用）：know 后面并列了两个嵌入成分 —— 第二个的 how **她写了**，
+    第一个的 what 吞掉了 ⇒ 不是"不知道要用 wh"，是并列时第一个被跳过。
+- 2026-09-09 ✅ 复习 · 在池第 2 组 · `Smart enough to know exactly what they want and how to get it.`
+  —— 嵌入疑问的两个 wh 词（what／how）都没被吞，后面都是陈述语序；"到底" 用 exactly 落位
+- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `smart enough to know what he wants and how to get it.`
+  —— know 后面并列的两个嵌入疑问 what／how 一个没吞 ⇒ 连对2 **毕业**
+  ★ 发出时题面缺主语（"聪明到知道…"），她自己补了 he —— 教练的锅，⛔ 不扣分；同日 📝 整改
+- 2026-09-11 📝 题面整改：补主语「他」· 她当场点出（原话："整句（翻译）需要完全的句子"）
+  旧 "聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
+  新 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
+  ⇒ 考点靠句子现形 ⇒ 整句题 ⇒ §6.5⑥ 要求有主语、能独立成句；旧题面正是那条的反例形状
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
-类型 词汇 ｜ 题面 "这家公司比那家小。"（"小"用形容词的**比较级**说） ｜ 新建 2026-09-09
+类型 词汇 ｜ 新建 2026-09-09
 状态 连对1 连错0 上次2026-09-10 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-10 · 她指定**（§3.3「她可直接指定」；原话："这个直接毕业吧"。首测 ✅ ＋ 她指定 ⇒ 连对停在 1，⛔ 未凑连对2）
+
+**问题是什么**
+中性尺寸与比较级一律 **small**（⛔ **littler** 不存在）。
+判据（三格，一起记）：
+· **比较级只有 smaller**，⛔ 没有 littler ——「比…小」一律 `smaller than`
+· **中性地说尺寸**（a small company／a small room）默认 **small**
+· **little** ＝ 尺寸 ＋ 情绪色彩（可爱／微不足道），**只作定语**、⛔ 不作表语（✗ the peg is little）
+判据一句话：要**比大小**或**只说尺寸** ⇒ small／smaller；带"就那么一点点"的**语气**且在名词前面 ⇒ little。
+★ 她 09-09 写的 `a little peg` **是对的**（定语位 ＋ 带语气）⇒ 本条不是纠她的错，是把边界钉住。
+
+**怎么发现的**
+2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· **她自标**："这个 little 我也纠结了很久和 small"
+⇒ 走 §2③「她点名要学」建号；她那一句本身没写错。
+判重结论：grep `little\|small` 命中 6 处全是别的条目的例句正文（#46 #56 #63 等），
+⛔ 无同考点条目 ⇒ 保留新建。
+
+**我错在哪**
+她这次没有错（`a little peg` 在定语位、带"就那么一点点"的语气，用法成立），
+建号理由是 §2③ **她点名要学**（自标原话："这个 little 我也纠结了很久和 small"）。
+找法：要说"小"之前先问一句 —— 我是在**比大小／只报尺寸**吗？
+是 ⇒ **small／smaller**（⛔ 没有 littler）；想带"就那么一点点"的语气才用 little，且只能摆在名词前面。
+
+**题面**
+"这家公司比那家小。"（"小"用形容词的**比较级**说）
+
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个 little 我也纠结了很久和 small"
   条目内容：① **比较级只有 smaller**，⛔ 没有 littler；
   ② 中性地说尺寸（a small company／a small room）默认 small；
@@ -12084,4 +12135,3 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `This company is smaller than that one`
   smaller 用对（⛔ littler 不存在），than that one 的比较对象也对齐了
   ★ 她当场指定毕业（原话："这个直接毕业吧"）⇒ §3.3「她可直接指定」⇒ **🎓·她指定**，连对停在 1
-- 判重结论 grep `little\|small` 命中 6 处全是别的条目的例句正文（#46 #56 #63 等），⛔ 无同考点条目 ⇒ 保留
