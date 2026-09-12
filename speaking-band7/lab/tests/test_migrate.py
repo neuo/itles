@@ -62,7 +62,10 @@ def make_pending(k=K_PENDING, r=N_RELAPSE):
                                 "  夹具造的回潮行，仅用于测试。"] + b.body[at:]
         for i, l in enumerate(b.body):
             if lab.RE_STATUS.match(l):
-                b.body[i] = f"状态 连对0 连错1 上次{day} 未毕业"
+                # ★ 题型格要保留：v3 四节正文的条目缺题型格 ⇒ check 报 ERROR（§3.1 契约⑫）
+                m = lab.RE_ASK.search(l)
+                ask = f" ｜ 题型 {m.group(1)}" if m else ""
+                b.body[i] = f"状态 连对0 连错1 上次{day} 未毕业{ask}"
                 break
     gtext = lab.join_file(gh, rest, gt)
     return ptext, gtext, [b.num for b in take], relapse

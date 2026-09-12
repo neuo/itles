@@ -113,6 +113,9 @@ MEMBERS_HEAD = "**成员出题账**"
 MEMBERS_KEY = "成员出题账"
 _SEC_NAMES = SECTIONS + [MEMBERS_KEY]
 RE_SEC_STRIP = re.compile(r"[\s\*📒：:]+")     # 用来识别「写歪的节标题」：去掉装饰后正好等于节名
+# 不带日期的尾块行（旧账／⚠️／★／⇒／（／检查触发）：出现在四节之后 ⇒ 正文到此为止（§3.1 契约⑫）
+#   ⛔ 只用于结束正文，不并进 RE_NOTE —— RE_NOTE 还兼着「日期行不许写在备注之后」那条闸
+RE_TAIL = re.compile(r"^-\s*(旧账|⚠️|★|⇒|（|\*\*检查触发)")
 
 # ══════════════════════════════════════════════════════════════════════════
 #  召回梯子（SKILL §3.5，她 2026-09-05 定）—— 一条梯子，毕业线只是中间一格
@@ -422,7 +425,20 @@ def _prompt_from_sections(e):
     if sec is None:
         return
     nonblank = [l for l in sec if l.strip()]
-    body = [l.strip() for l in nonblank if not l.strip().startswith("★")]
+    # ★ 注释可以写成多行：★ 起头的那一行 ＋ 它后面的**缩进续行**都算注释（2026-09-12 实测：
+    #   续行只看行首就会被当成题面本体，整句条目直接 ERROR、prompts --verify 还会要求续行里的引号）
+    body, in_note = [], False
+    for l in nonblank:
+        s = l.strip()
+        if s.startswith("★"):
+            in_note = True
+            continue
+        # 编号句（合并条的 ①②… 本来就带全角缩进）与引号句永远是题面本体，⛔ 不算注释续行
+        if in_note and l[:1] in (" ", "\t", "　") and not RE_ITEM.match(s) \
+                and not s.startswith(('"', '“', '【')):
+            continue
+        in_note = False
+        body.append(s)
     items = [l for l in body if RE_ITEM.match(l)]
     body = items if items else body
     e.prompt_lines = nonblank
@@ -523,8 +539,8 @@ def parse_file(path, src):
             if in_hist:
                 if is_head:               # 节标题跑到历史行后面 ⇒ 位置错，check 报
                     cur.section_head_bad.append((ln, raw.strip()[:40] + "（写在历史行之后）"))
-            elif RE_HIST.match(raw) or RE_NOTE.match(raw):
-                in_hist = True            # 正文到此为止，下面照常按历史行读
+            elif RE_HIST.match(raw) or RE_NOTE.match(raw) or RE_TAIL.match(raw):
+                in_hist = True            # 正文到此为止，下面照常按历史行/尾块读
                 sec = None
             elif is_head:
                 name = SECTION_HEADS.get(raw, MEMBERS_KEY)

@@ -83,6 +83,29 @@ with sandbox(p_text=HDR + M, g_text=GHDR) as d:
     ck("合并条挂了账 ⇒ ERROR 0", errs(9502) == [], errs(9502))
     ck("count members 命中", 9502 in [x.num for x in lab.load_all() if x.members is not None])
 
+head("【B0c 正】题面节里的 ★ 注释写成多行 ⇒ 缩进续行一并算注释，⛔ 不漏进题面本体")
+ML = v3(prompt='"到目的地怎么走"（"到"用 **get** 说）\n　　★ 题面 2026-09-05 改：旧题面"怎么去那个地方。"\n　　　里 "怎么去" 被译成 how to go ⇒ 换成"到"',
+        rows=["- 2026-09-12 新建"])
+with sandbox(p_text=HDR + ML, g_text=GHDR) as d:
+    e = ent(9501)
+    ck("题面本体只剩第一行", e.prompt == '"到目的地怎么走"（"到"用 **get** 说）', e.prompt)
+    ck("续行里的引号句不进 prompt_quotes", lab.prompt_quotes(e) == ["到目的地怎么走"], lab.prompt_quotes(e))
+    ck("check ERROR 0", errs(9501) == [], errs(9501))
+
+head("【B4b 正】不带日期的尾块行（- 旧账／- ⚠️…）放在四节之后 ⇒ 正文到此为止，⛔ 不算正文顶格 `- `")
+TAIL = v3(rows=[], notes=["- 旧账 事件流无记录；08-09 前已毕业", "- ⚠️ 与 #9502 一起读"],
+          status="状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-09-10** ｜ 题型 词组")
+with sandbox(p_text=HDR + TAIL, g_text=GHDR) as d:
+    e = ent(9501)
+    ck("尾块行不算正文里的 `- `", e.dash_in_body == [], e.dash_in_body)
+    ck("题面节没被尾块行污染", e.prompt == '"到目的地怎么走"（"到"用 **get** 说）', e.prompt)
+    ck("check ERROR 0", errs(9501) == [], errs(9501))
+TAIL_FIRST = HDR + ("### 9501 · 尾块行写在四节之前\n类型 搭配 ｜ 新建 2026-09-12\n"
+                    "状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-09-10** ｜ 题型 词组\n\n"
+                    "- 旧账 事件流无记录\n\n**问题是什么**\nx\n\n**怎么发现的**\nx\n\n**我错在哪**\n找法：x\n\n**题面**\n\"块\"\n")
+with sandbox(p_text=TAIL_FIRST, g_text=GHDR) as d:
+    ck("尾块行写在四节之前 ⇒ 节标题算写在历史行之后 ⇒ ERROR", any("历史行之后" in m for m in errs(9501)), errs(9501))
+
 head("【B1 负】缺节 ⇒ ERROR 点名缺哪一节")
 BAD = HDR + v3().replace("**我错在哪**\n她的：get the destination　正确：get **to** the destination\n找法：get 后面是地点吗？是 ⇒ 补 to。\n\n", "")
 with sandbox(p_text=BAD, g_text=GHDR) as d:
