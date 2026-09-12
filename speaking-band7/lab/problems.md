@@ -205,7 +205,7 @@
   （08-19 一天三次都是这个形状：sales go up ／ audience laugh ／ I want…there is）
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
-类型 词组 ｜ 题面 **点名**："现在后悔也没用。"（用 **There's** 起头的那个框说，⛔ 不许用 It's no use） ｜ 旧号 B52⑤
+类型 结构 ｜ 题面 **点名**："现在后悔也没用。"（用 **There's** 起头的那个框说，⛔ 不许用 It's no use） ｜ 旧号 B52⑤
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-21 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 - 2026-08-19 ✅ 首次进池 · 点名 · `There's no point regretting now`（块用对）
   ⚠️ 同句 regret 少了宾语 it ⇒ 记进 #18 当天日志，不计本条档位
@@ -216,9 +216,10 @@
   ❌ 这个框是 **There's no point ＋ -ing**；⛔ 不是 There's no point **to do**、⛔ 不是 It's no use（题面已排除）。
   ★ 加 in 也对：There's no point **in** regretting it now.
   同族 There's no point arguing with him.／There's no point worrying about it now.
+- 2026-09-12 📝 类型改正 词组 → 结构：考点是 There's no point ＋ -ing 这个句框，不是一个词（§6① 类型标签必须跟考点一致）· 全档题面 review
 
 ### 34 · in groups（小组）≠ in pairs（两人一组）
-类型 词组 ｜ 题面 **点名**："分小组"（用【介词＋名词复数】说，⛔ 不许用 form groups／get into groups） ｜ 旧号 B53
+类型 词组 ｜ 题面 **点名**："以小组为单位"（用【介词＋名词复数】说，⛔ 不许用 form groups／get into groups） ｜ 旧号 B53
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-11 复检写成 `get paired in groups`，把 paired 与 groups 焊在一起 ＝ 正中本条要分开的那两个词，撤销毕业、连对清零）
 - 2026-08-17 ◎ 题面没逼出（form groups／get into groups 都合法）→ 08-17 改点名
 - 2026-08-19 ✅ `working in groups is better than working alone`
@@ -231,9 +232,10 @@
     把 paired 和 groups 焊在一起，字面成了"被两两配对成小组"，自相矛盾；
     而 in groups ≠ in pairs 这一组区分**正是本条考点** ⇒ 这一格没通过。
   ★ 只译"分小组"这个块，答 `in groups` 就够；要带动词 ⇒ get put into groups／split into groups
+- 2026-09-12 📝 题面整改：「分小组」→「以小组为单位」—— "分小组"念回去先想到的是动词 divide／split，映射不回 in groups 这个介词块（§6① 缩短的硬前提）· 全档题面 review
 
 ### 49 · 人称一致：一句里、一段里都不能跳（统一 I 或统一 you）
-类型 结构 ｜ 题面 "我喜欢做饭，因为一步步来最后有东西拿得出手。" ／ "在电影院你能沉浸进去，而且我和我太太当约会。"（两句都译 · 一句之内和两句之间人称都不许跳） ｜ 旧号 B71＋B78
+类型 结构 ｜ 题面 "喜欢做饭，因为一步步来，最后有东西拿得出手。" ／ "在电影院能完全沉浸进去，还能跟另一半当成约会。"（两句中文都省了主语 —— 自己定人称，一句之内和两句之间都不许跳） ｜ 旧号 B71＋B78
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-05 复检 ✅ → 09-11 复检答"忘了"，撤销毕业、连对清零）
 - 2026-08-17 ❌ 首次进流 ｜同日原 #55 记 ✅ ⇒ 同日一对一错，保守记 ❌
 - 2026-08-19 ✅ `I like cooking because I follow the steps and get something to show for it`（全句人称统一在 I）
@@ -247,6 +249,7 @@
 - 2026-09-11 ❌ 复检 · 付息日 a2 第 7 组 · 答"忘了" ⇒ **回潮**
   最小改 `I like cooking because I go step by step and end up with something to show for it. ／ At the cinema I can really get into the film, and my wife and I treat it as a date night.`
   ❌ 一句之内、两句之间人称都不许跳：第一句 because 后面仍是 **I**；第二句中文泛指"你"统一成 I，后半 my wife and I 才顺
+- 2026-09-12 📝 题面整改：两句中文改成**省主语**版 —— 旧题面第二句自带"你…我"的跳人称，照译反而被判 ❌ ＝ 题面在逼她猜；改成中文不给主语，人称由她定、只判跳不跳 · 全档题面 review
 - 备注 08-05 一天内跳了 3 次（原 #55）
 - 备注 合并 2026-08-19：#55（人称一致·一段里）并入本条 —— 同一条规则，只是范围一句/一段
 
@@ -493,12 +496,13 @@
 ### 261 · 这一小撮抽象名词不可数：feedback／advice／information／knowledge／research／progress（action 已于 09-11 拆出 → #335）
 类型 语法 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
 题面（6 句，六个不可数名词各一句 —— 2026-09-11 起 action 单拆成 #335（顽固成员，§3.2c③），本条只剩这六个）
-　① "得到正反馈"（用 feedback 说）　　　　　　　　　　　　　　　　→ positive feedback
-　② "一些建议"（用 advice 说）　　　　　　　　　　　　　　　　　　→ some advice
-　③ "更多信息"（用 information 说）　　　　　　　　　　　　　　　　→ more information
-　④ "光有知识"（"知识"用 knowledge 说）　　　　　　　　　　　　　　→ knowledge alone
-　⑤ "没多少研究"（"研究"用 research 说）　　　　　　　　　　　　　　→ not much research
-　⑥ "进步很大"（用 progress 说）　　　　　　　　　　　　　　　　　→ made a lot of progress
+　① "得到正反馈"（用 feedback 说）
+　② "一些建议"（用 advice 说）
+　③ "更多信息"（用 information 说）
+　④ "光有知识"（"知识"用 knowledge 说）
+　⑤ "没多少研究"（"研究"用 research 说）
+　⑥ "进步很大"（用 progress 说）
+　　★ 目标形式（教练看，⛔ 不进发题稿）：① positive feedback ② some advice ③ more information ④ knowledge alone ⑤ not much research ⑥ made a lot of progress
 　　★ 本条 2026-08-20 当天由「take action 一个块」**改写成规则条**：
 　　　同一天两处（take actions ／ good feedbacks）规则完全相同 ＝「这类抽象名词不加 -s」，
 　　　按【判重三档·同一条规则→同一条】合成一条，避免每碰到一个不可数名词就开一个新号
@@ -579,7 +583,7 @@
   里的"不可数"那一面考虑并入本条（那三条还各自带别的考点，不能整条并）
 
 ### 273 · fine sb FOR doing sth（罚款的介词是 for，不是 of／on）
-类型 搭配 ｜ 题面 **点名**："因为乱停车被罚了两百"（用 fine ＋ 一个介词说） ｜ **从 #25 拆出 2026-08-23**
+类型 搭配 ｜ 题面 **点名**："因为乱停车被罚了款"（用 fine ＋ 一个介词说 · "乱停车"就用 illegal parking） ｜ **从 #25 拆出 2026-08-23**
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-27 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 本条 08-23 才从 #25 拆出来，拆出后只被测过两次 ⇒ 基础本来就薄）
 - 2026-08-17 ❌（＝ #25 首次进流那次，三块都没出来）
 - 2026-08-19 ✅ `it is no use fining people **for** littering`——介词 for 对，本块达成
@@ -596,6 +600,7 @@
   ❌ 罚款的介词是 **for**（为了哪件事罚你）：fine sb **for** doing sth；
     ⛔ 不是 fine sb of（那是 accuse sb of／rob sb of 那一族）、⛔ 不是 fine sb on。
   ★ 整条结构：被罚的人当主语 ⇒ get／be fined ＋ 金额 ＋ for ＋ -ing
+- 2026-09-12 📝 题面整改：「被罚了两百」→「被罚了款」＋ 给出"乱停车"＝ illegal parking —— 金额和"乱停车"怎么说都是本条考点之外的噪音（§6① 把考点单独摆出来，剩下的全是噪音 ⇒ 去掉）· 全档题面 review
 - 备注 判据：**处罚/责备类动词，"因为什么"一律用 for**
 ```
 ✅ fine sb **for** doing ／ punish sb **for** doing ／ blame sb **for** doing
@@ -646,7 +651,7 @@
 - 备注 判重：grep "get a feel"／"feel for" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
-类型 词组 ｜ 题面 **点名**："把自己的事当回事"（用 **take** ＋ 一个 **o-** 开头的名词说） ｜ 新建 2026-08-23（**她当场指定**）
+类型 词组 ｜ 题面 **点名**："把这事当成自己的事扛起来"（用 **take** ＋ 一个 **o-** 开头的名词说） ｜ 新建 2026-08-23（**她当场指定**）
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `so they learn to take ownership`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -667,6 +672,7 @@
   最小改 `take ownership of it`
   ❌ "把自己的事当回事／自己扛起来" ＝ take **ownership** of sth；⛔ 不是 take responsibility（"负责"，偏被动担责）——
     ownership 多一层"这是**我的**事"。同族 take ownership of your mistakes／of the project
+- 2026-09-12 📝 题面整改：「把自己的事当回事」→「把这事当成自己的事扛起来」—— 旧题面念回去是 take it seriously，映射不回 ownership（§6① 缩短的硬前提：中文必须还能映射回那个英文块）· 全档题面 review
 - 备注 判据：
 ```
 ✅ learn to take ownership ／ take ownership **of** their own learning／of the problem
@@ -679,7 +685,7 @@
 - 备注 判重：grep "ownership"／"take charge"／"take responsibility" 全库（含已毕业）→ **零命中** ⇒ 保留新建
 
 ### 286 · 整句句型：If A, B and C, a lot of X will happily do Y（条件够好 → 人自愿去做）
-类型 结构 ｜ 题面 **点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will happily** ＋ 一个具体动作；⛔ 主句不许写成 will be ＋ 形容词 ＋ to） ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `will be happy to` 这条绕路）
+类型 结构 ｜ 题面 **点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will** ＋ 一个 **-ly 副词** ＋ 一个具体动作；⛔ 不许用 be happy to／be willing to） ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `will be happy to` 这条绕路）
 　　★ 她的原话："这一整句，包括前面的并列好处，和后面的 will happily，新建条目"
 状态 连对0 连错1 上次2026-09-11 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-29 毕业 → 09-11 复检掉了 will：`many commuters happily leave…`，题面点名的 will happily 少了一半；08-27 绕 will be happy to、今天丢 will ⇒ 框没长稳，撤销毕业、连对清零）
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `If buses and trains are cheap, frequent, and reliable, a lot of commuters will happily leave their cars at home.`
@@ -718,6 +724,7 @@
   ❌ 题面点名 **will happily**，她掉了 will ⇒ 考点位置不是一字不差。这条句型是"条件够好 → 人就会自愿去做"的**预测**，主句要 will；
     掉了 will 就成了零条件句（句子合法、但不是本条要她产出的那句）。
   ★ 骨架 3/4 在：三个并列形容词 ✔ · happily ✔ · 具体动作 ✔ —— 08-27 绕 will be happy to、今天丢 will ⇒ 这个框还没长稳
+- 2026-09-12 📝 题面整改：点名「主句用 will happily ＋ 一个具体动作」→「用 will ＋ 一个 -ly 副词 ＋ 一个具体动作；⛔ 不许用 be happy to／be willing to」—— 原点名把 will happily 整块交出去（§6② 红线一），09-11 给了块她照样丢 will ⇒ 给了也白给；改成结构限定后 happily 要她自己调 · 全档题面 review
 - 备注 骨架与用法：
 ```
 If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ will happily ＋【一个具体动作】.
@@ -969,7 +976,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 判重结论 全档 grep `terrified\|scared` 零命中 ⇒ 保留（⛔ 建号当天不测）
 
 ### 330 · set one's mind to sth（下定决心要做的事）
-类型 词组 ｜ 题面 "做成了他下定决心要做的那件事"（"下定决心要做"用 **mind** 说 · ⛔ 不许用 decide／determined／make up） ｜ 新建 2026-09-09
+类型 词组 ｜ 题面 "他下定决心要做的那件事"（"下定决心要做"用 **mind** 说 · ⛔ 不许用 decide／determined／make up） ｜ 新建 2026-09-09
 状态 连对1 连错0 上次2026-09-10 未毕业 ｜ 题型 词组
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个短语也是查字典的"
   条目内容：**set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
@@ -981,6 +988,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   ⇒ 把那条判据搬进题面：排除项补 `／make up`。
 - 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `He did what he set his mind to`
   ★ set his mind to 一字不差，介词 to 留在句尾、后面不再挂东西 —— 与条目正文写的常见形完全一致
+- 2026-09-12 📝 题面整改：「做成了他下定决心要做的那件事」→「他下定决心要做的那件事」—— "做成了"（achieved）是考点之外的噪音（§6① 把考点单独摆出来，剩下的全是噪音 ⇒ 缩到块）· 全档题面 review
 - 判重结论 全档 grep `set his mind\|mind to` 零命中（graduated.md:3810 那条是 many suggestions 的可数性，不同考点）⇒ 保留
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）

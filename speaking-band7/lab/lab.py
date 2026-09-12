@@ -101,6 +101,19 @@ RE_ASK = re.compile(r"｜\s*\**题型\s*([^\s｜*]+)")
 ASK_PHRASE_BAN = ("当主语", "说一句", "一句话", "整句", "完整句", "说完")
 SENT_END = ("。", "！", "？", "!", "?")
 
+# ── 条目正文四节（§3.1 契约⑪–⑭，她 2026-09-12 定：比照写作线契约④）────────────
+#   条目 ＝ 头 → 元信息 → 状态行 → **问题是什么／怎么发现的／我错在哪／题面**（合并条再挂
+#   **成员出题账**）→ 历史行 → 备注块。题面从元信息行里拆出来做独立节。
+#   BODY_FROM 起新建的条目缺节 ⇒ ERROR；更早的一行式存量列「存量提示」，由 c 段／子代理
+#   逐条手写升级（`count --type body-legacy` 列清单）。⛔ 严格匹配：节标题顶格、逐字、加粗。
+BODY_FROM = "2026-09-12"
+SECTIONS = ["问题是什么", "怎么发现的", "我错在哪", "题面"]
+SECTION_HEADS = {f"**{s}**": s for s in SECTIONS}
+MEMBERS_HEAD = "**成员出题账**"
+MEMBERS_KEY = "成员出题账"
+_SEC_NAMES = SECTIONS + [MEMBERS_KEY]
+RE_SEC_STRIP = re.compile(r"[\s\*📒：:]+")     # 用来识别「写歪的节标题」：去掉装饰后正好等于节名
+
 # ══════════════════════════════════════════════════════════════════════════
 #  召回梯子（SKILL §3.5，她 2026-09-05 定）—— 一条梯子，毕业线只是中间一格
 #
@@ -187,8 +200,17 @@ class Entry:
         self.kind = None              # 类型字段（词组/搭配/语法/结构/词汇…）
         self.created = None           # 元信息「新建 YYYY-MM-DD」（旧 B 表迁移的没有）
         self.ask = None               # 状态行「题型」格原文；None ＝ 没写这一格（§6.0）
-        self.prompt = None            # 题面字段（首行的正文）
-        self.prompt_lines = []        # ★ 题面整块：合并条的题面常常自成一段、多行（§3.2c）
+        self.prompt = None            # 题面（v3 ＝ 题面节；存量 ＝ 元信息行里的题面字段）
+        self.prompt_lines = []        # ★ 题面整块：v3 ＝ 题面节的非空行；存量合并条 ＝ 自成一段的题面
+        self.prompt_inline = None     # 元信息行里的题面字段原文（v3 条目不该再有，check 报错）
+        # ── 正文四节（§3.1 契约⑪）──────────────────────────────────────
+        self.sections = {}            # 节名 → [行]（含空行与围栏行，逐字）
+        self.section_order = []       # 节名按出现顺序（含「成员出题账」）
+        self.section_dups = []        # 同一节出现两次：[(lineno, 节名)]
+        self.section_head_bad = []    # 写歪的节标题：[(lineno, 原文)]
+        self.dash_in_body = []        # 正文四节里顶格 `- ` 的行：[(lineno, 原文)]
+        self.members = None           # 成员出题账 [行]；None ＝ 没挂
+        self.body_end = None          # 正文最后一个非空行的行号（append 没有历史行时插在它后面）
         self.status_raw = None
         self.status_lineno = None
         self.ok = self.bad = None
@@ -204,6 +226,14 @@ class Entry:
     @property
     def graduated(self):
         return self.grad is not None
+
+    @property
+    def body_v3(self):
+        """正文已升级成四节（§3.1 契约⑪）。⛔ 只要出现过一个合法节标题就按 v3 查，缺的节报 ERROR。"""
+        return bool(self.sections) or self.members is not None
+
+    def section_text(self, name):
+        return "\n".join(self.sections.get(name, []))
 
     @property
     def ask_kind(self):
@@ -383,8 +413,26 @@ class Entry:
         return {w.lower() for w in re.findall(r"[A-Za-z][A-Za-z'\-]{2,}", t)}
 
 
+def _prompt_from_sections(e):
+    """v3 条目：题面 ＝ **题面** 节（§3.1 契约⑫）。
+    · 非空行里 ★ 开头的是教练注释（判据/沿革/目标形式），⛔ 不算题面本体
+    · 有编号句（① ② …）⇒ 只有编号句是题面本体（合并条，同存量口径）；没有 ⇒ 全部非注释行
+    · prompt_lines ＝ 节里全部非空行（prompts 子命令整段打印，★ 行一起看）"""
+    sec = e.sections.get("题面")
+    if sec is None:
+        return
+    nonblank = [l for l in sec if l.strip()]
+    body = [l.strip() for l in nonblank if not l.strip().startswith("★")]
+    items = [l for l in body if RE_ITEM.match(l)]
+    body = items if items else body
+    e.prompt_lines = nonblank
+    e.prompt = "　".join(body) if body else None
+
+
 def _fill_prompt_block(e):
-    """题面写成独立一段时（合并条），把整段收进来。⛔ 只在元信息行里没写题面时才找。"""
+    """【存量】题面写成独立一段时（合并条），把整段收进来。⛔ 只在元信息行里没写题面时才找。"""
+    if e.body_v3:
+        return
     for i, l in enumerate(e.raw):
         if not RE_PROMPT_HEAD.match(l):
             continue
@@ -412,11 +460,22 @@ def parse_file(path, src):
         return []
     lines = open(path, encoding="utf-8").read().split("\n")
     entries, cur, fence = [], None, False
+    sec = None            # 当前正文节（None ＝ 不在四节里）
+    in_hist = False       # 已进入历史行/备注区 ⇒ 之后不再认节标题
 
     def close(idx):
         if cur is not None:
             cur.end = idx
             entries.append(cur)
+
+    def body_line(raw, ln):
+        """正文四节/成员出题账的内容行：逐字收进当前节，记 body_end。"""
+        if sec == MEMBERS_KEY:
+            cur.members.append(raw)
+        else:
+            cur.sections[sec].append(raw)
+        if raw.strip():
+            cur.body_end = ln
 
     for i, raw in enumerate(lines):
         ln = i + 1
@@ -424,6 +483,8 @@ def parse_file(path, src):
             fence = not fence
             if cur is not None:
                 cur.raw.append(raw)
+                if sec is not None and not in_hist:
+                    body_line(raw, ln)
             continue
 
         if not fence:
@@ -433,12 +494,15 @@ def parse_file(path, src):
                 cur = Entry(int(m.group(1)), m.group(2).strip(), src, ln)
                 cur.tomb = bool(RE_MERGED_TITLE.match(cur.title) or
                                 RE_VOID_TITLE.match(cur.title))
+                sec, in_hist = None, False
                 continue
 
         if cur is None:
             continue
         cur.raw.append(raw)
         if fence:
+            if sec is not None and not in_hist:
+                body_line(raw, ln)
             continue
 
         m = RE_META.match(raw)
@@ -447,10 +511,43 @@ def parse_file(path, src):
             pm = re.search(r"题面\s*(.*?)(?:\s*｜|$)", raw)
             if pm:
                 cur.prompt = pm.group(1).strip()
+                cur.prompt_inline = cur.prompt
             cm = re.search(r"新建\s*(20\d\d-\d\d-\d\d)", raw)
             if cm:
                 cur.created = cm.group(1)
             continue
+
+        # ── 正文四节（§3.1 契约⑪）：状态行之后、第一条历史行/备注之前 ─────────
+        if cur.status_raw is not None:
+            is_head = raw in SECTION_HEADS or raw == MEMBERS_HEAD
+            if in_hist:
+                if is_head:               # 节标题跑到历史行后面 ⇒ 位置错，check 报
+                    cur.section_head_bad.append((ln, raw.strip()[:40] + "（写在历史行之后）"))
+            elif RE_HIST.match(raw) or RE_NOTE.match(raw):
+                in_hist = True            # 正文到此为止，下面照常按历史行读
+                sec = None
+            elif is_head:
+                name = SECTION_HEADS.get(raw, MEMBERS_KEY)
+                if name == MEMBERS_KEY:
+                    if cur.members is not None:
+                        cur.section_dups.append((ln, name))
+                    cur.members = cur.members or []
+                else:
+                    if name in cur.sections:
+                        cur.section_dups.append((ln, name))
+                    cur.sections.setdefault(name, [])
+                cur.section_order.append(name)
+                cur.body_end = ln
+                sec = name
+                continue
+            else:
+                if raw.strip() and RE_SEC_STRIP.sub("", raw) in _SEC_NAMES:
+                    cur.section_head_bad.append((ln, raw.strip()[:40]))
+                if sec is not None:
+                    if raw.startswith("- "):
+                        cur.dash_in_body.append((ln, raw.strip()[:40]))
+                    body_line(raw, ln)
+                    continue
 
         m = RE_STATUS.match(raw)
         if m and cur.status_raw is None:
@@ -490,7 +587,10 @@ def parse_file(path, src):
                                     lineno=ln, kind=kind, bold=bold, raw=raw))
     close(len(lines))
     for e in entries:
-        if not e.prompt or not e.prompt_lines:
+        if e.body_v3:
+            e.prompt, e.prompt_lines = None, []     # v3 只认题面节；元信息行里的题面留在 prompt_inline 给 check 报
+            _prompt_from_sections(e)
+        elif not e.prompt or not e.prompt_lines:
             _fill_prompt_block(e)
     return entries
 
@@ -686,25 +786,33 @@ def check_entry(e, touched_lines=None, all_nums=None):
     hard_entry = (e.src, e.status_lineno) in touched_lines or \
                  any(h.date >= STRICT_FROM for h in e.history)
 
-    # ── 契约⑤ 条目内顺序：头 → 元信息 → 状态行 → 历史行（日期升序）→ 备注块 ──────
+    # ── 契约⑤ 条目内顺序：头 → 元信息 → 状态行 →（正文四节）→ 历史行（日期升序）→ 备注块 ──
     idx = {}
     note_at = None
     hist_after_note = []
+    fence = False
     for i, l in enumerate(e.raw):
+        if l.lstrip().startswith("```"):
+            fence = not fence
+            continue
+        if fence:
+            continue
         if RE_META.match(l):
             idx.setdefault("meta", i)
         elif RE_STATUS.match(l):
             idx.setdefault("stat", i)
+        elif l in SECTION_HEADS or l == MEMBERS_HEAD:
+            idx.setdefault("body", i)
         elif RE_HIST.match(l):
             idx.setdefault("hist", i)
             if note_at is not None:
                 hist_after_note.append(l.strip()[:28])
         elif RE_NOTE.match(l) and note_at is None:
             note_at = i
-    order = [(k, idx[k]) for k in ("meta", "stat", "hist") if k in idx]
+    order = [(k, idx[k]) for k in ("meta", "stat", "body", "hist") if k in idx]
     if [v for _, v in order] != sorted(v for _, v in order):
         P.append(("ERROR",
-                  "条目内顺序不对（§3.1 契约⑤ 写死：头 → 元信息 → 状态行 → 历史行 → 备注块），"
+                  "条目内顺序不对（§3.1 契约⑤ 写死：头 → 元信息 → 状态行 → 正文四节 → 历史行 → 备注块），"
                   "实际是 " + " → ".join(k for k, _ in sorted(order, key=lambda x: x[1]))))
     if hist_after_note:
         P.append(("ERROR",
@@ -726,11 +834,12 @@ def check_entry(e, touched_lines=None, all_nums=None):
     if e.last is None and not legacy_grad:
         P.append(("ERROR", "状态行读不出「上次<YYYY-MM-DD|—>」"))
     if e.kind is None:
-        P.append(("WARN", "缺「类型」字段（`类型 X ｜ 题面 …`）"))
-    if not e.graduated and not e.prompt and e.ask_kind != ASK_OUTPUT:
+        P.append(("WARN", "缺「类型」字段（元信息行 `类型 X ｜ 旧号 B…／新建 YYYY-MM-DD`）"))
+    if not e.body_v3 and not e.graduated and not e.prompt and e.ask_kind != ASK_OUTPUT:
         P.append(("WARN", "未毕业却没有题面字段 —— 抽到它就必须当场补成完整中文句"))
     if not e.history and not e.graduated:
         P.append(("ERROR", "一条历史行都没有"))
+    P += check_body(e)
     P += check_ask(e)
 
     for h in e.history:
@@ -765,6 +874,68 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "在 graduated.md 里却不是 🎓 —— 回潮的条目必须搬回 problems.md"))
     if e.marks & {M_MORPH, M_ONLYLOG} and e.marks & {M_SPELL, M_NOREVIEW}:
         P.append(("WARN", "同时挂了两类「不召回」标记，口径重叠 —— 留一个就够"))
+    return P
+
+
+def check_body(e):
+    """→ [(level, msg)]　正文四节（§3.1 契约⑪–⑭，她 2026-09-12 定，比照写作线契约④）。
+
+    为什么是机器闸：口语线的条目九成是 08-18 从旧 B 表一行式迁进来的，正文从来没有规定节，
+    判据靠可选的备注、题面塞在元信息行的括号里 ⇒ 建号时不被迫想清楚考点／邻居／找法，
+    题面只能事后一个括号一个括号打补丁。写作线从建号那天就四节硬查，质量差在这里。
+      · 出现过任一合法节标题 ⇒ 按 v3 查：四节齐 · 顺序死 · 题面只在节里 · 正文里不许顶格 `- `
+      · 一个节标题都没有 ⇒ BODY_FROM 起新建的报 ERROR；更早的存量列「存量提示」（待升级）
+      · 合并条（状态行 `合并条·出题多句覆盖`）必挂 **成员出题账**
+      · v3 条目题型格必写（升级时一起回标）"""
+    P = []
+    if e.tomb:
+        return P
+    for ln, txt in e.section_head_bad:
+        P.append(("ERROR", f"L{ln} 节标题写歪／放错位置：「{txt}」—— 必须顶格、逐字、加粗："
+                           f"`**问题是什么**`／`**怎么发现的**`／`**我错在哪**`／`**题面**`／`**成员出题账**`，"
+                           f"且全部在状态行之后、第一条历史行之前（§3.1 契约⑪）"))
+    if not e.body_v3:
+        if e.created and e.created >= BODY_FROM:
+            P.append(("ERROR", f"正文缺四节 —— {BODY_FROM} 起新建的条目必须写 "
+                               f"**问题是什么／怎么发现的／我错在哪／题面**（§3.1 契约⑪）"))
+        else:
+            P.append(("INFO", "正文还是一行式存量（无四节）—— 待升级（§3.1 契约⑭；清单 `count --type body-legacy`）"))
+        return P
+    missing = [s for s in SECTIONS if s not in e.sections]
+    if missing:
+        P.append(("ERROR", f"正文缺节：{'／'.join('**'+s+'**' for s in missing)}（§3.1 契约⑪ 一节都不许少）"))
+    for ln, name in e.section_dups:
+        P.append(("ERROR", f"L{ln} 「{name}」节出现了两次（§3.1 契约⑪）"))
+    want = [s for s in _SEC_NAMES if s in e.sections or (s == MEMBERS_KEY and e.members is not None)]
+    seen = [s for s in e.section_order if s in want]
+    if seen != want and not e.section_dups:
+        P.append(("ERROR", "正文四节顺序不对（§3.1 契约⑪ 写死：问题是什么 → 怎么发现的 → 我错在哪 → 题面 → 成员出题账），"
+                           "实际是 " + " → ".join(e.section_order)))
+    if e.prompt_inline:
+        P.append(("ERROR", "题面写了两处（元信息行 ＋ 题面节）—— v3 只认 **题面** 节，把元信息行里的题面字段删掉（§3.1 契约⑫）"))
+    for ln, txt in e.dash_in_body:
+        P.append(("ERROR", f"L{ln} 正文四节里有顶格 `- ` 行：「{txt}」—— `- ` 只给历史行与备注块；正文列点用「·」或缩进（§3.1 契约⑪）"))
+    for s in ("问题是什么", "怎么发现的", "我错在哪"):
+        if s in e.sections and not e.section_text(s).strip():
+            P.append(("ERROR", f"「{s}」节是空的（§3.1 契约⑪）"))
+    if "题面" in e.sections and e.ask_kind != ASK_OUTPUT:
+        if not e.prompt:
+            P.append(("ERROR", "「题面」节是空的 —— 整句/词组题出不了题（§3.1 契约⑫）"))
+        elif not prompt_quotes(e):
+            P.append(("ERROR", "「题面」节里没有引号句 —— 题面主体必须写在 \"…\" 里，提示写在（…）里（§3.1 契约⑫）"))
+    if e.ask is None:
+        P.append(("ERROR", "正文已是四节，状态行却没写题型格 —— 升级/建号必须一起写 `｜ 题型 整句／词组／产出验`（§3.1 契约⑫）"))
+    if M_MERGED in e.marks and e.members is None:
+        P.append(("ERROR", f"合并条缺 `{MEMBERS_HEAD}` —— 一个成员一行，出一次补一次（§3.2c④／§3.1 契约⑬）"))
+    if e.members is not None:
+        rows = [l for l in e.members if l.strip()]
+        if not rows:
+            P.append(("ERROR", "成员出题账是空的 —— 一个成员一行（§3.1 契约⑬）"))
+        elif M_MERGED not in e.marks:
+            P.append(("WARN", "挂了成员出题账，状态行却没标 `合并条·出题多句覆盖` —— 两边对齐"))
+    wrong = e.section_text("我错在哪")
+    if "我错在哪" in e.sections and wrong.strip() and "找法" not in wrong and "检查触发" not in wrong:
+        P.append(("WARN", "「我错在哪」里没写找法（产出前问自己的那一句；形态类写「检查触发」）—— §3.1 字段规则"))
     return P
 
 
@@ -1133,6 +1304,10 @@ def cmd_stats(args):
         fell = [e for e in sp if _selfpass_fell(e)]
         print(f"⚡ 自评免测 {len(sp)} 条，其中之后又掉过 {len(fell)} 条"
               f"（校准率 {len(fell)*100.0/len(sp):.0f}% —— §4③ 只报数、不设限）")
+    v3 = [e for e in act if e.body_v3]
+    legacy = [e for e in act if not e.body_v3]
+    print(f"正文四节   已升级 {len(v3)} 条 ／ 待升级 {len(legacy)} 条"
+          f"（§3.1 契约⑪–⑭ · 清单 `count --type body-legacy` · ⛔ 逐条手写，禁脚本）")
     ds = day_types()
     if ds:
         print(f"最近日型   " + " ".join(f"{d[5:]}·{t or '?'}" for d, t in ds[-6:]))
@@ -1179,7 +1354,7 @@ def cmd_show(args):
     return 0
 
 
-FIELD_W = {"标题": 3, "题面": 2, "历史": 1}
+FIELD_W = {"标题": 3, "题面": 2, "正文": 2, "历史": 1}
 
 
 def cmd_dedup(args):
@@ -1189,7 +1364,8 @@ def cmd_dedup(args):
     for e in ents:
         hits, sc = [], 0
         body = "\n".join(e.raw)
-        fields = {"标题": e.title, "题面": e.prompt or ""}
+        fields = {"标题": e.title, "题面": e.prompt or "",
+                  "正文": e.section_text("问题是什么") + "\n" + e.section_text("我错在哪")}
         if not args.no_history:
             fields["历史"] = body
         for t in terms:
@@ -1931,7 +2107,13 @@ def cmd_prompts(args):
         off = e.raw.index(meta) + 1
         print(f"   #{n:<5} {e.src}:{e.start + off}　｜　题型 {e.ask_kind}"
               + ("" if e.ask else "（⚠️ 未标 · 按整句读 —— 发题前先回标状态行，§6.0）"))
+        if e.body_v3:
+            print(f"          ↓ **题面** 节（§3.1 契约⑫）⇒ 引号句与括号限定逐字复制；★ 行是教练注释，⛔ 不进发题稿")
+            for l in e.prompt_lines:
+                print(f"          {l}")
+            continue
         print(f"          {meta}")
+        print(f"          ⚠️ 存量一行式条目（正文未升级，§3.1 契约⑭）")
         if e.prompt_lines:
             print(f"          ↓ 题面自成一段（合并条 §3.2c）⇒ **整段逐字复制，一句都不许少**")
             for l in e.prompt_lines:
@@ -2315,7 +2497,13 @@ TYPES = [
     ("ask-unmarked", "题型·未标",   "状态行没写「题型」格（按整句读；抽到时回标，付息日 c 段清）",
                                                                 lambda e: e.ask is None and not e.tomb),
     # ── 题面类 ───────────────────────────────────────────────────
-    ("prompt-todo", "题面待补",   "元信息里没有「题面」字段或为空 ⇒ ⛔ 出不了题", lambda e: not e.prompt),
+    ("prompt-todo", "题面待补",   "题面节／题面字段为空 ⇒ ⛔ 出不了题",          lambda e: not e.prompt),
+    # ── 正文类（§3.1 契约⑪–⑭，2026-09-12 起）────────────────────────
+    ("body-v3",     "正文四节",   "正文有 **问题是什么／怎么发现的／我错在哪／题面** 节（§3.1 契约⑪）",
+                                                                lambda e: e.body_v3),
+    ("body-legacy", "正文待升级", "一行式存量（无四节）⇒ 逐条手写升级（§3.1 契约⑭；⛔ 禁脚本）",
+                                                                lambda e: not e.body_v3),
+    ("members",     "挂成员出题账", "正文有 **成员出题账**（合并条必挂，§3.2c④）",  lambda e: e.members is not None),
     # ── 来源类 ───────────────────────────────────────────────────
     ("migrated",  "旧 B 表迁移",  "元信息里有「旧号 B…」（2026-08-18 迁移）",     _has_oldno),
     ("never",     "从未被测",     "「上次」＝ —（一次都没被判定过）",            lambda e: not e.last_tested()),
@@ -2633,7 +2821,7 @@ def cmd_used(args):
 #     · ⛔ 不改 🎓、不改状态、不碰条目正文 —— 那些是判断，仍然手写
 # ══════════════════════════════════════════════════════════════════════════
 RE_ROWHEAD = re.compile(r"^#(\d+)[ 　]+(.*)$")
-BAD_IN_BODY = ("状态 ", "### ")
+BAD_IN_BODY = ("状态 ", "### ", "**问题是什么**", "**怎么发现的**", "**我错在哪**", "**题面**", "**成员出题账**")
 
 
 def parse_rows_file(path):
@@ -2794,7 +2982,8 @@ def cmd_append(args):
                     j += 1
             else:
                 # 没有更早的历史行（含整条空的）⇒ 排在状态行之后、所有更晚的行之前
-                at = e.status_lineno
+                # ★ v3 条目：正文四节挂在状态行后面 ⇒ 插到**正文最后一个非空行**之后（§3.1 契约⑤）
+                at = e.body_end if e.body_end else e.status_lineno
                 j, fence = at, False
                 while j < hi:                # 跳过状态行后面的 ★ 续行
                     l = lines[j]

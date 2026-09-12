@@ -101,7 +101,10 @@ with sandbox(p_text="# 问题总表\n\n---\n\n" + "\n---\n\n".join(x[1] for x in
     v5 = {e.num: [m for _, m in lab.check_entry(e, set(), nums) if "契约⑤" in m] for e in ents}
     ck("合法形状一条契约⑤ 都不报", not any(v5.values()), {k: v for k, v in v5.items() if v})
     allp = {e.num: lab.check_entry(e, set(), nums) for e in ents}
-    ck("★ 而且整体一条 ERROR 都不报（语料自己得是干净的）",
+    # ★ 2026-09-12 起：一行式存量正文会多一条「存量提示」（INFO，§3.1 契约⑭）—— 这是设计，
+    #   不是脏；这里只断言 ERROR/WARN 为零。v3 四节的正向语料见 test_body.py。
+    allp = {k: [x for x in v if x[0] != "INFO"] for k, v in allp.items()}
+    ck("★ 而且整体一条 ERROR/WARN 都不报（语料自己得是干净的）",
        not any(p for p in allp.values()), {k: v for k, v in allp.items() if v})
 
 head(f"【K1 负】把状态行埋进日志行中间（样本 #{_S}）")
