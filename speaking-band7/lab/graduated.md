@@ -10574,12 +10574,55 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
 
 
 ### 304 · turn to sb (for sth)（有事去找某人／求助）
-类型 词组 ｜ 题面 **点名**："遇到麻烦的时候去找他"（用 **turn** 说） ｜ 新建 2026-08-26（**她当场指定**）
-　　★ 题面 2026-08-27 微改（§6.5 审核项 8）："出问题的时候"可能被译成 `when something breaks`，
-　　　那是 **#302 的考点**；换成"遇到麻烦的时候"（in trouble／when there's a problem）后零重叠
-　　　★ 2026-08-28 后记：题面这一层隔开了，**但同场 priming 没隔开** ——
-　　　　#302 排在第 1 组、本条排在第 3 组，她仍然把 `If something breaks` 搬了过来
+类型 词组 ｜ 新建 2026-08-26（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+
+**问题是什么**
+**turn to sb (for sth)**（有事去找某人／求助）。
+判据：
+```
+turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持）
+   ✅ Everyone turns to him.              ✅ He's the first person I'd turn to.
+   ✅ She turned to her sister for advice. ✅ I didn't know who to turn to.
+★ 介词写死：turn to sb **for** sth（for advice／for help／for support）
+★★ 边界（同一个 turn，三件事，别混）：
+   · turn **to** sb        ＝ 去找人求助（本条）—— 不可分离，人跟在 to 后面
+   · turn sth **off**／turn it off ＝ 关掉（**可分离**，代词必须放中间 ＝ 🎓#67）
+   · turn **up**          ＝ 露面／出现（He never turned up.）
+★ 同族（一起记，语气不同）：go to sb (for help)（最平）／ ask sb for help（最直白）／
+  lean on sb（偏情感依靠）／ count on sb（偏"靠得住"）
+★ 判据一句话：**中文"有事找他"⇒ turn to him；"打电话找他"那种单纯联系用 call/contact，不用 turn to**
+```
+★ 与 🎓**#67**（可分离动词短语的位置）的分工：#67 管**位置**（代词放中间），本条管**这个词组本身**
+　（不可分离 ＋ 介词 for）—— turn to 正好是 #67 的反例。
+★ 与 🎓**#302**（something breaks）的分工：题面已于 08-27 隔开；但 08-28 实证**同场 priming 隔不开**
+　（她把第 1 组的 `If something breaks` 搬进了第 3 组本条的句子里）。
+
+**怎么发现的**
+2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）· 她自己写出
+`he is the kind of person everyone turns to` —— 用得准，不是错。
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
+　① 目标英文形式 ＝ `turn to sb`
+　② grep `turn`／`for help`／`求助`／`依赖` 全库（含已毕业）→ 4 处命中，逐条读：
+　　 · **🎓#67**（可分离动词短语的位置：put it away／turn it off）—— 决定性证据：
+　　　 按 #67 的规则去改，得到的是"代词放中间"（turn him to？）——**根本不成句**
+　　　 ⇒ #67 给不出本条的答案；且 turn to 是**不可分离**的，正好是 #67 的反例 ⇒ 两条规则
+　　 · 🎓 `It depends on whether he turns up.` —— 那是 turn up（露面），例句里的另一个词组 ⇒ 无关
+　　 · 🎓 `watch pictures on the screen turn into real objects` —— turn into（变成）⇒ 无关
+　　 · #291 备注里的 `I'll ask him for you.` —— 那是 Let me／I'll 的例句 ⇒ 无关
+　③ 与最接近的条目的区别：#67 管**位置**（可分离动词），本条管**这个词组本身**（不可分离＋介词 for）
+　⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`everyone turns to him` 是她自己产出的、介词一次到位），建号理由是 §2③ **她点名要学**。
+找法：中文"有事去找他"先分一下 —— 是**求助**吗？是 ⇒ turn to sb（要东西时挂 **for**）；
+只是联系一下 ⇒ call／contact，⛔ 别用 turn to。
+
+**题面**
+**点名**："遇到麻烦的时候去找他"（用 **turn** 说）
+★ 题面 2026-08-27 微改（§6.5 审核项 8）："出问题的时候"可能被译成 `when something breaks`，那是 **#302 的考点**；换成"遇到麻烦的时候"（in trouble／when there's a problem）后零重叠
+★ 2026-08-28 后记：题面这一层隔开了，**但同场 priming 没隔开** —— #302 排在第 1 组、本条排在第 3 组，她仍然把 `If something breaks` 搬了过来
+
 - 2026-08-26 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:244 P2）·
   `he is the kind of person everyone turns to`——用得准，不是错
 - 2026-08-27 ✅ 付息日 a 段（题面当天微改后首测）·
@@ -10602,46 +10645,63 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
      ⇒ 见 sessions/2026-08-28.md 的教练提案（等她裁，未写进任何规则）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（第 11 题整串，她事后补的原话："11直接过"）
 
-- 备注 判据：
-```
-turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持）
-   ✅ Everyone turns to him.              ✅ He's the first person I'd turn to.
-   ✅ She turned to her sister for advice. ✅ I didn't know who to turn to.
-★ 介词写死：turn to sb **for** sth（for advice／for help／for support）
-★★ 边界（同一个 turn，三件事，别混）：
-   · turn **to** sb        ＝ 去找人求助（本条）—— 不可分离，人跟在 to 后面
-   · turn sth **off**／turn it off ＝ 关掉（**可分离**，代词必须放中间 ＝ 🎓#67）
-   · turn **up**          ＝ 露面／出现（He never turned up.）
-★ 同族（一起记，语气不同）：go to sb (for help)（最平）／ ask sb for help（最直白）／
-  lean on sb（偏情感依靠）／ count on sb（偏"靠得住"）
-★ 判据一句话：**中文"有事找他"⇒ turn to him；"打电话找他"那种单纯联系用 call/contact，不用 turn to**
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判）：
-  ① 目标英文形式 ＝ `turn to sb`
-  ② grep `turn`／`for help`／`求助`／`依赖` 全库（含已毕业）→ 4 处命中，逐条读：
-     · **🎓#67**（可分离动词短语的位置：put it away／turn it off）—— 决定性证据：
-       按 #67 的规则去改，得到的是"代词放中间"（turn him to？）——**根本不成句**
-       ⇒ #67 给不出本条的答案；且 turn to 是**不可分离**的，正好是 #67 的反例 ⇒ 两条规则
-     · 🎓 `It depends on whether he turns up.` —— 那是 turn up（露面），例句里的另一个词组 ⇒ 无关
-     · 🎓 `watch pictures on the screen turn into real objects` —— turn into（变成）⇒ 无关
-     · #291 备注里的 `I'll ask him for you.` —— 那是 Let me／I'll 的例句 ⇒ 无关
-  ③ 与最接近的条目的区别：#67 管**位置**（可分离动词），本条管**这个词组本身**（不可分离＋介词 for）
-  ⇒ **保留新建**
 
 ### 305 · stay patient（keep ＋ 形容词只跟一小撮词，patient 不在里面）
-类型 搭配 ｜ 题面 **点名**："一直很有耐心"（用【**一个动词 ＋ patient**】说，不用 is／be） ｜ 新建 2026-08-26
-　　★ 题面 2026-08-27 改点名（§6.5 审核项 7，同 #294 08-25 那次的毛病）：
-　　　原点名直接写 **stay** ＝ 把考点（keep 还是 stay）整个交出去，测了信息量为零。
-　　　改成点**结构**（一个动词 ＋ patient，不用 be 动词）——
-　　　封掉 `he is always patient`／`he's very patient` 两条合法绕路，
-　　　同时把她掉过的那条错路 `keeps patient` 留着开着 ⇒ 考点存活
-　　★ 边界（判档位时用）：`remains patient` 也对（判据里列了）⇒ 她若这么写按 ✅ 记 —— 本条真正要的是
-　　　"**没走 keep**"，不是"必须写 stay"
+类型 搭配 ｜ 新建 2026-08-26
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 词组
-　　★ **keep 三兄弟交叉引用**：**#287** keep ＋ 宾语 ＋ **-ing**（keep the cars flowing）／
-　　　**#297** keep ＋ 宾语 ＋ **形容词**（keep your mind active）／
-　　　**#305（本条）** keep ＋ **形容词**（无宾语）—— 这一格是**封闭名单**，patient 不在里面
-　　　⇒ 出题时三条里最多同组出两条
+
+**问题是什么**
+**stay patient**（keep ＋ 形容词只跟一小撮词，**patient 不在里面**）。
+判据：
+```
+**keep ＋ 形容词**（后面不带宾语）只跟一小撮固定的词，是个**封闭名单**：
+   ✅ keep calm ／ keep quiet ／ keep still ／ keep busy ／ keep warm ／ keep safe ／
+      keep healthy ／ keep fit ／ keep dry
+   ✗ keep patient   ✗ keep positive   ✗ keep focused
+"一直保持耐心" ⇒ **stay patient**（也可 be patient ／ remain patient）
+★★ **判据一句话（这条才是要背的）：拿不准用 keep 还是 stay ⇒ 一律先用 stay。**
+   stay 的名单大得多，几乎不出错：stay calm／stay positive／stay focused／stay awake／
+   stay healthy／stay safe／stay patient
+★ 边界一：`keep his cool` **是对的** —— 那是 keep ＋ **名词**（cool 在这里是名词）的固定块，
+  和"keep ＋ 形容词"不是一件事。她同一句前面就用对了
+★ 边界二：与 **#297**（keep ＋ **宾语** ＋ 形容词，keeps your mind active）不是一条 ——
+  那条有宾语，本条没有；按 #297 改会得到 `keeps himself patient`，**也不是母语者的说法**
+★ 检查触发：说完 keep ＋ 一个形容词，问一句"这个词在 calm/quiet/busy/warm/safe/fit 那个名单里吗？"
+  不在 ⇒ 换 stay
+```
+★ **keep 三兄弟交叉引用**：**#287** keep ＋ 宾语 ＋ **-ing**（keep the cars flowing）／
+　**#297** keep ＋ 宾语 ＋ **形容词**（keep your mind active）／
+　**#305（本条）** keep ＋ **形容词**（无宾语）—— 这一格是**封闭名单**，patient 不在里面
+　⇒ 出题时三条里最多同组出两条
+★ 与 🎓**#156**（同根词的形态：patience 名词 vs patient 形容词）的分工：那条管**词形**，
+　本条管**选哪个动词**（keep→stay）—— 她本来就用的是形容词 ⇒ #156 给不出本条的答案。
+
+**怎么发现的**
+2026-08-26 ❌ 首犯 · 自由产出（新题 bank:244 P2 Describe a friend from your childhood）· 她写
+`he nerver panics and **keeps patient**`（→ never panics and **stays patient**）。
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `stay patient`（keep ＋ 形容词的名单边界）
+　② grep `keep patient`／`stay patient`／`耐心`／`keep calm`／`keep fit`／`keep busy` 全库
+　　（含已毕业）→ 2 处命中，逐条读：
+　　 · **🎓#156** 题面"他的耐心让我印象很深。／他一直很有耐心。"—— 那条考的是
+　　　 **同根词的形态**（the difference／different；patience 名词 vs patient 形容词），
+　　　 决定性证据：按 #156 的规则去改，得到的是"这里该用形容词 patient"——**她本来就用的是
+　　　 形容词**，#156 给不出 keep→stay 这个答案 ⇒ 不是同一条规则
+　　 · **#297** 备注里的 `keep fit／keep busy` 例句 —— 那是本条的名单，但 #297 的考点是
+　　　 **带宾语**的 keep ＋ O ＋ adj（见上"边界二"）⇒ 两条，题面互斥
+　　　（#297 题面 "学点东西能让脑子保持活跃"／本条题面 "他从来不慌，一直很有耐心"）
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`he nerver panics and **keeps patient**`　　正确：`never panics and **stays patient**`
+找法：说完 keep ＋ 一个形容词，问一句 —— **这个词在 calm／quiet／busy／warm／safe／fit 那个名单里吗？**
+不在 ⇒ 换 **stay**（拿不准一律先用 stay）。
+
+**题面**
+**点名**："一直很有耐心"（用【**一个动词 ＋ patient**】说，不用 is／be）
+★ 题面 2026-08-27 改点名（§6.5 审核项 7，同 #294 08-25 那次的毛病）：原点名直接写 **stay** ＝ 把考点（keep 还是 stay）整个交出去，测了信息量为零。改成点**结构**（一个动词 ＋ patient，不用 be 动词）—— 封掉 `he is always patient`／`he's very patient` 两条合法绕路，同时把她掉过的那条错路 `keeps patient` 留着开着 ⇒ 考点存活
+★ 边界（判档位时用）：`remains patient` 也对（判据里列了）⇒ 她若这么写按 ✅ 记 —— 本条真正要的是"**没走 keep**"，不是"必须写 stay"
+
 - 2026-08-26 ❌ 首犯 · 自由产出（新题 bank:244 P2 Describe a friend from your childhood）·
   `he nerver panics and **keeps patient**` → never panics and **stays patient**
 - 2026-08-27 ✅ 付息日 a 段（题面当天改点名后首测）·
@@ -10663,39 +10723,55 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
      ⇒ 更好版 `He never panics; he always stays patient.`；**不建条目**（她没写错，只是有歧义），列入观察
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `stayed patient the whole time` —— 动词 ＋ patient，⛔ 没走 keep、⛔ 没用 is／be
 
-- 备注 判据：
-```
-**keep ＋ 形容词**（后面不带宾语）只跟一小撮固定的词，是个**封闭名单**：
-   ✅ keep calm ／ keep quiet ／ keep still ／ keep busy ／ keep warm ／ keep safe ／
-      keep healthy ／ keep fit ／ keep dry
-   ✗ keep patient   ✗ keep positive   ✗ keep focused
-"一直保持耐心" ⇒ **stay patient**（也可 be patient ／ remain patient）
-★★ **判据一句话（这条才是要背的）：拿不准用 keep 还是 stay ⇒ 一律先用 stay。**
-   stay 的名单大得多，几乎不出错：stay calm／stay positive／stay focused／stay awake／
-   stay healthy／stay safe／stay patient
-★ 边界一：`keep his cool` **是对的** —— 那是 keep ＋ **名词**（cool 在这里是名词）的固定块，
-  和"keep ＋ 形容词"不是一件事。她同一句前面就用对了
-★ 边界二：与 **#297**（keep ＋ **宾语** ＋ 形容词，keeps your mind active）不是一条 ——
-  那条有宾语，本条没有；按 #297 改会得到 `keeps himself patient`，**也不是母语者的说法**
-★ 检查触发：说完 keep ＋ 一个形容词，问一句"这个词在 calm/quiet/busy/warm/safe/fit 那个名单里吗？"
-  不在 ⇒ 换 stay
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `stay patient`（keep ＋ 形容词的名单边界）
-  ② grep `keep patient`／`stay patient`／`耐心`／`keep calm`／`keep fit`／`keep busy` 全库
-     （含已毕业）→ 2 处命中，逐条读：
-     · **🎓#156** 题面"他的耐心让我印象很深。／他一直很有耐心。"—— 那条考的是
-       **同根词的形态**（the difference／different；patience 名词 vs patient 形容词），
-       决定性证据：按 #156 的规则去改，得到的是"这里该用形容词 patient"——**她本来就用的是
-       形容词**，#156 给不出 keep→stay 这个答案 ⇒ 不是同一条规则
-     · **#297** 备注里的 `keep fit／keep busy` 例句 —— 那是本条的名单，但 #297 的考点是
-       **带宾语**的 keep ＋ O ＋ adj（见上"边界二"）⇒ 两条，题面互斥
-       （#297 题面 "学点东西能让脑子保持活跃"／本条题面 "他从来不慌，一直很有耐心"）
-  ⇒ **保留新建**
 
 ### 306 · not just A — it's more B（"不只是A，更多的是B"：中间不能用 and）
-类型 结构 ｜ 题面 **点名**："旅行不只是去看风景，更多的是换个环境放松一下。"（用 **not just … it's more …** 说完） ｜ 新建 2026-08-27 ｜ 题面 2026-08-28 换话题（旧稿"过年这事儿不只是吃，更多的是一家人聚一聚"与 #236 回潮复测题面"过年更多的是给全家一个聚一聚的理由"内容几乎重合，同日出会互相污染）
+类型 结构 ｜ 新建 2026-08-27
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
+
+**问题是什么**
+**not just A — it's more B**（"不只是A，更多的是B"：**中间不能用 and**）。
+判据：
+```
+"不只是 A，更多的是 B"这个框架，中间**不能用 and**：
+   ✅ It's not just about A — **it's** more about B.      ← 最口语（破折号 ＋ 重起一个 it's）
+   ✅ It's not just about A, **but** more about B.        ← but 也行
+   ✅ It's **not so much** about A **as** about B.        ← 更正式一点
+   ✗ It's not just about A, **and** more about B.
+★ 判据一句话：**前半句一出现 not just／not only，后半句就必须由【but】或【重起的 it's】接**
+  —— and 是"并列再加一条"，接不住"否定 → 修正"这个转折
+★ 同族（同一个框架的其它壳）：
+   It's not that A, it's more that B.        ／  Less about A, more about B.
+   A is part of it, but the real thing is B.
+★ 用处 ＝ **P2/P3 收尾拔一层的标准动作**（"不只是……，更多的是……"）——
+  她 R5 这一句的**立意是全篇最高的一层**，只是连词接错了，值得单独焊住
+```
+★ 全库**没有**别的条目管这个相关连词框架 ⇒ 无最接近项（判重见下）。
+
+**怎么发现的**
+2026-08-27 ❌ 首犯 · 付息日 d 段重答（R5）· 她写
+`It's not just about the food itself, **and** more about a reason bringing my family together.`
+（→ It's not just about the food itself **— it's** more about…）。
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `not just A — it's more B`
+　② grep `not just`／`not only`／`but also`／`不只是`／`不仅仅`／`而是更` 全库（含已毕业）
+　　 → **3 行命中**，逐条读：
+　　 · 🎓#52 的日志例句 `parent should explain why, not just what, to kids` —— 只是例句里
+　　　 恰好含 not just，#52 的考点是"去掉 X is important 的壳" ⇒ 无关
+　　 · 🎓#52 同一处的讲评行 ⇒ 同上
+　　 · sessions 引文 `That is not just that one time` ⇒ 是记录不是条目
+　③ 与最接近的条目的区别：全库**没有**管这个相关连词框架的条目 ⇒ 无最接近项
+　⇒ **保留新建**。
+
+**我错在哪**
+她的：`It's not just about the food itself, **and** more about a reason bringing my family together.`
+正确：`It's not just about the food itself **— it's** more about …`（或 `, **but** more about …`）
+找法：句子里一出现 **not just／not only**，就盯住后半句的接头 ——
+**只能是 but，或重起一个 it's**，⛔ 不能是 and。
+
+**题面**
+**点名**："旅行不只是去看风景，更多的是换个环境放松一下。"（用 **not just … it's more …** 说完）
+★ 题面 2026-08-28 换话题（旧稿"过年这事儿不只是吃，更多的是一家人聚一聚"与 #236 回潮复测题面"过年更多的是给全家一个聚一聚的理由"内容几乎重合，同日出会互相污染）
+
 - 2026-08-27 ❌ 首犯 · 付息日 d 段重答（R5）·
   `It's not just about the food itself, **and** more about a reason bringing my family together.`
   → It's not just about the food itself **— it's** more about…
@@ -10717,38 +10793,58 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
      ⇒ 属"产出时检查没跑"，不是缺口
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `Traveling is not just about the scenery; it's more about a change of environment to relax.` —— not just … it's more … 完整，中间没塞 and
   ⚠️ 顺带：a change of environment to relax → a change of scene to help you relax（to relax 悬着）
-- 备注 判据：
-```
-"不只是 A，更多的是 B"这个框架，中间**不能用 and**：
-   ✅ It's not just about A — **it's** more about B.      ← 最口语（破折号 ＋ 重起一个 it's）
-   ✅ It's not just about A, **but** more about B.        ← but 也行
-   ✅ It's **not so much** about A **as** about B.        ← 更正式一点
-   ✗ It's not just about A, **and** more about B.
-★ 判据一句话：**前半句一出现 not just／not only，后半句就必须由【but】或【重起的 it's】接**
-  —— and 是"并列再加一条"，接不住"否定 → 修正"这个转折
-★ 同族（同一个框架的其它壳）：
-   It's not that A, it's more that B.        ／  Less about A, more about B.
-   A is part of it, but the real thing is B.
-★ 用处 ＝ **P2/P3 收尾拔一层的标准动作**（"不只是……，更多的是……"）——
-  她 R5 这一句的**立意是全篇最高的一层**，只是连词接错了，值得单独焊住
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `not just A — it's more B`
-  ② grep `not just`／`not only`／`but also`／`不只是`／`不仅仅`／`而是更` 全库（含已毕业）
-     → **3 行命中**，逐条读：
-     · 🎓#52 的日志例句 `parent should explain why, not just what, to kids` —— 只是例句里
-       恰好含 not just，#52 的考点是"去掉 X is important 的壳" ⇒ 无关
-     · 🎓#52 同一处的讲评行 ⇒ 同上
-     · sessions 引文 `That is not just that one time` ⇒ 是记录不是条目
-  ③ 与最接近的条目的区别：全库**没有**管这个相关连词框架的条目 ⇒ 无最接近项
-  ⇒ **保留新建**
 
 ### 307 · That's how ＋ 主谓（"这样一来他们才会…／就是这么来的"）
-类型 结构 ｜ 题面 **点名**："我当初就是这么开始的。"（用 **That's how** 起头说） ｜ 新建 2026-08-28（**她当场指定**）
-　　★ 她的原话："That's how(这才可以建个条目) they learn to take ownership."
+类型 结构 ｜ 新建 2026-08-28（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-30**（连对2 · **毕业那次已换句**）｜ 题型 整句
-　　★ 08-29 那次与她建条目时说的句子逐字相同（含"昨天的记忆"），08-30 换成
-　　　`我当初就是这么开始的。` 壳照样调出来 ⇒ 毕业不是假毕业
+
+**问题是什么**
+**That's how ＋ 主谓**（"这样一来他们才会…／就是这么来的"）。
+判据：
+```
+用途 ＝ 把**前面说的做法**和**它带来的结果**焊在一起，一句话收口。
+形状 ＝ That's how ＋ 【陈述语序的主谓】
+   ✅ That's how they learn to take ownership.
+   ✅ That's how it works.　　✅ That's how I got into it.
+   ✗ That's how do they learn.（里面不许用疑问语序 —— 那一处归 🎓#59，不归本条）
+★ 同族（一个族，先只立 how 这一个壳）：
+   That's why ＋ 主谓（给原因）　／　That's what ＋ 主谓（给内容）
+   ⇒ 以后她要 why／what 那两个壳，各自单开号，不并进本条（§3.1 一条 ＝ 一个考点）
+★ 用处 ＝ P3 里"给完机制之后收口"的标准动作：先说做法，再 That's how ＋ 结果
+```
+★ 与 🎓**#283**（It's really about A first, and then B）／**#290**（… depending on who you ask）的分工：
+　那两条是**别的收尾块**（排先后／同一现象不同理由），本条是"做法 → 结果"的因果收口。
+★ 与 🎓**#59**（嵌入疑问用陈述语序）的**互斥关系写死**：她若写成 `That's how do they learn`，
+　那一处判 #59，⛔ 不判本条。
+
+**怎么发现的**
+2026-08-28 新建 · **她主动提出**（§2③）· 复习第 2 组 #282 句里 · 她写
+`That's how they learn to take ownership.` —— 她这一句**是用对了的**，建条目是因为她主动要
+（同 #299 那种情况），不是因为犯错。
+★ 她的原话："That's how(这才可以建个条目) they learn to take ownership."
+判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
+　① 目标英文形式 ＝ `That's how ＋ 主谓`
+　② grep `That's how`／`that's how`／`That's why`／`这就是`／`收尾块`／`收尾句型` 全库（**含已毕业**）
+　　 → 命中逐条读：
+　　 · **#282 自己 08-23 的日志行**（`that's how they'll learn to take ownership of…`）
+　　　 —— 这个块**第一次出现却没建号**，正是今天补的这一条；#282 只管 take ownership
+　　 · 🎓#283（It's really about A first, and then B）—— 把几点**排成先后**，不是"做法 → 结果"
+　　 · #290（… for totally different reasons depending on who you ask）—— 同一现象不同理由，不是因果收口
+　　 · 🎓#59（嵌入疑问用陈述语序）—— 管的是 how／what 从句**怎么排语序**，不管"这个块什么时候用"
+　　　 **互斥关系写死**：她若写成 `That's how do they learn`，那一处判 #59，不判本条
+　③ 说得出差在哪：#283／#290 是**别的收尾块**（不同词组）｜#59 是**语序规则**（不同层）
+　⇒ **保留新建**。
+
+**我错在哪**
+她这次没有错（`That's how they learn to take ownership.` 是她自己用对的），
+建号理由是 §2③ **她点名要学**。
+找法：P3 讲完一套做法，收口前问一句 —— 我要说的是"**这样一来就会…**"吗？
+是 ⇒ `That's how ＋ 主谓`（里面**陈述语序**，⛔ 不许倒装）。
+
+**题面**
+**点名**："我当初就是这么开始的。"（用 **That's how** 起头说）
+★ 08-29 那次与她建条目时说的句子逐字相同（含"昨天的记忆"），08-30 换成 `我当初就是这么开始的。` 壳照样调出来 ⇒ 毕业不是假毕业
+
 - 2026-08-28 新建 · **她主动提出**（§2③）· 复习第2组 #282 句里 · `That's how they learn to take ownership.`
   ——她这一句**是用对了的**，建条目是因为她主动要（同 #299 那种情况），不是因为犯错
 - 2026-08-29 ✅ 复习第1组（新建次日进池首测）· `That's how they learn to take ownership.`
@@ -10772,34 +10868,51 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
     the first place." 中性叙述完全自然）⇒ 属 §7「⛔ 教练不必要的改动」，未发。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 6 组 · `That's how I got start.` —— That's how ＋ 主谓，考点命中
   ⚪ got start → got **started**（get started 固定块的 -ed，形态类只记号 §3.4；同日 got stuck／got fined 都带对了 ⇒ 会，产出时检查没跑）
-- 备注 判据：
-```
-用途 ＝ 把**前面说的做法**和**它带来的结果**焊在一起，一句话收口。
-形状 ＝ That's how ＋ 【陈述语序的主谓】
-   ✅ That's how they learn to take ownership.
-   ✅ That's how it works.　　✅ That's how I got into it.
-   ✗ That's how do they learn.（里面不许用疑问语序 —— 那一处归 🎓#59，不归本条）
-★ 同族（一个族，先只立 how 这一个壳）：
-   That's why ＋ 主谓（给原因）　／　That's what ＋ 主谓（给内容）
-   ⇒ 以后她要 why／what 那两个壳，各自单开号，不并进本条（§3.1 一条 ＝ 一个考点）
-★ 用处 ＝ P3 里"给完机制之后收口"的标准动作：先说做法，再 That's how ＋ 结果
-```
-- 备注 判重（当天新建复核，§4④1b ⛔ 严禁脚本批量判 —— grep 只捞候选，判断逐条人读）：
-  ① 目标英文形式 ＝ `That's how ＋ 主谓`
-  ② grep `That's how`／`that's how`／`That's why`／`这就是`／`收尾块`／`收尾句型` 全库（**含已毕业**）
-     → 命中逐条读：
-     · **#282 自己 08-23 的日志行**（`that's how they'll learn to take ownership of…`）
-       —— 这个块**第一次出现却没建号**，正是今天补的这一条；#282 只管 take ownership
-     · 🎓#283（It's really about A first, and then B）—— 把几点**排成先后**，不是"做法 → 结果"
-     · #290（… for totally different reasons depending on who you ask）—— 同一现象不同理由，不是因果收口
-     · 🎓#59（嵌入疑问用陈述语序）—— 管的是 how／what 从句**怎么排语序**，不管"这个块什么时候用"
-       **互斥关系写死**：她若写成 `That's how do they learn`，那一处判 #59，不判本条
-  ③ 说得出差在哪：#283／#290 是**别的收尾块**（不同词组）｜#59 是**语序规则**（不同层）
-  ⇒ **保留新建**
 
 ### 308 · empty into ＋ 海／湖（河流"注入"某处的介词）
-类型 搭配 ｜ 题面 **点名**："流进东海"（用 **empty** 说） ｜ 新建 2026-08-29
+类型 搭配 ｜ 新建 2026-08-29
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-31**（连对2 ＝ 08-30 ＋ 08-31）｜ 题型 词组
+
+**问题是什么**
+**empty into** ＋ 海／湖（河流"注入"某处的介词）。
+判据：
+```
+河流"注入／流进"某处 ⇒ 介词一律 **into**，不是 in。三个动词都配 into：
+  ✅ The river **empties into** the sea.      ← 最正式、地理描述默认
+  ✅ The river **flows into** the sea.        ← 最常用
+  ✅ The river **runs into** the sea.         ← 最口语
+★ 上位判据（可迁移到所有 in／into）：**句子里有"移动 / 进入"的意思 → into；只是说"在里面" → in**
+  ✅ He walked **into** the room.（进去，有动作）　　✅ He's **in** the room.（在里面，静态）
+  ✅ Pour it **into** the glass.                 ✅ It's **in** the glass.
+★ 检查触发：写完一个介词，先问"这里在讲**位置**还是在讲**进去这个动作**？"
+```
+★ 与 🎓**#104**（bury yourself **in** sth，比喻义只配 in 不配 into）的分工 —— **最接近的一条**：
+　按 #104 的规则改这句得到的是 `emptying in`（＝她写的错句）⇒ 给不出正确答案，方向还相反 ⇒ 两条。
+
+**怎么发现的**
+2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）· 她写
+`…spaning China from west to east and eventually emptying **in** the east China sea.`
+（→ eventually emptying **into** the East China Sea）。
+判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
+```
+① 目标英文形式 ＝ `empty into`
+② `lab.py dedup into "in/into" 流进` → 命中 10 条（含已毕业），逐条读：
+   · 🎓#104（bury yourself **in** sth，比喻义只配 in 不配 into）—— **最接近的一条**。
+     **决定性证据**：按 #104 的规则改这句 ⇒ 得到 `emptying in`（＝她写的错句）
+     ⇒ **给不出正确答案 ⇒ 不是同一条规则**。而且方向相反（#104 是"该 in 不该 into"）
+   · 🎓#126（settle into）／🎓#34（in groups）—— 各自是别的固定词组
+   · 🎓#87 #117 #164 #206 #289 #304 #307 —— 命中的都是历史行例句里恰好出现 into，不是考点
+③ 说得出差在哪：#104 差在**词组不同、方向相反** ⇒ **保留新建**
+```
+
+**我错在哪**
+她的：`eventually emptying **in** the east China sea`　　正确：`eventually emptying **into** the East China Sea`
+找法：写完一个介词先问一句 —— **这里在讲"位置"还是在讲"进去这个动作"？**
+有移动／进入 ⇒ **into**。
+
+**题面**
+**点名**："流进东海"（用 **empty** 说）
+
 - 2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）·
   `…spaning China from west to east and eventually emptying **in** the east China sea.`
   → eventually emptying **into** the East China Sea
@@ -10816,32 +10929,61 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
   隔两天点名复测拿回。emptys／East China sea 小写属拼写，不计错（§2.1）。
   ⇒ 连对2 · 达毕业线
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 4 组（打包串里，她原话："其他的直接过"）
-- 备注 判据：
-```
-河流"注入／流进"某处 ⇒ 介词一律 **into**，不是 in。三个动词都配 into：
-  ✅ The river **empties into** the sea.      ← 最正式、地理描述默认
-  ✅ The river **flows into** the sea.        ← 最常用
-  ✅ The river **runs into** the sea.         ← 最口语
-★ 上位判据（可迁移到所有 in／into）：**句子里有"移动 / 进入"的意思 → into；只是说"在里面" → in**
-  ✅ He walked **into** the room.（进去，有动作）　　✅ He's **in** the room.（在里面，静态）
-  ✅ Pour it **into** the glass.                 ✅ It's **in** the glass.
-★ 检查触发：写完一个介词，先问"这里在讲**位置**还是在讲**进去这个动作**？"
-```
-- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
-```
-① 目标英文形式 ＝ `empty into`
-② `lab.py dedup into "in/into" 流进` → 命中 10 条（含已毕业），逐条读：
-   · 🎓#104（bury yourself **in** sth，比喻义只配 in 不配 into）—— **最接近的一条**。
-     **决定性证据**：按 #104 的规则改这句 ⇒ 得到 `emptying in`（＝她写的错句）
-     ⇒ **给不出正确答案 ⇒ 不是同一条规则**。而且方向相反（#104 是"该 in 不该 into"）
-   · 🎓#126（settle into）／🎓#34（in groups）—— 各自是别的固定词组
-   · 🎓#87 #117 #164 #206 #289 #304 #307 —— 命中的都是历史行例句里恰好出现 into，不是考点
-③ 说得出差在哪：#104 差在**词组不同、方向相反** ⇒ **保留新建**
-```
 
 ### 309 · 推测过去 ＝ must have ＋ 过去分词
-类型 语法 ｜ 题面 **点名**："那时候他一定是太累了。"（用 **must** 说这个推测） ｜ 新建 2026-08-29
+类型 语法 ｜ 新建 2026-08-29
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-31**（连对2 ＝ 08-30 ＋ 08-31）｜ 题型 整句
+
+**问题是什么**
+推测过去 ＝ **must have ＋ 过去分词**。
+判据：
+```
+对**过去**的事下推测 ⇒ 情态词后面挂 **have ＋ 过去分词**，不是原形。三档一起记：
+  must have been …    一定是（有把握）
+  can't have been …   不可能是（否定的确信）
+  might/could have been …  可能是（不确定）
+★ 对照（同一个情态词，时间不同，形式不同）：
+  ✅ He must **be** tired.        （现在看着他就累）
+  ✅ He must **have been** tired. （那天他一定是累了）
+★ 检查触发：写完 must／can't／might，先问一句 —— **我在猜的是"现在"还是"当时"？**
+  当时 ⇒ 后面必须有一个 have。
+★ 与 ⛔#147 的分工写死：**#147** 管"情态词后面动词一律原形"（must be，不是 must is）；
+  **本条** 管"该不该在情态词后面插一个 have 进来"。两条互不覆盖
+```
+★ 与 🎓**#259**（完成时：have/has/had 之后一律用过去分词）的分工：那条管 have **后面**挂什么形式，
+　管不到"该不该把 have 插进来" ⇒ 不同考点。
+★ **不是形态类**（§3.4 自查）：`must have done` 是一个**结构**（要多插一个助动词），不是词尾标记
+　⇒ 照常出题、照常走连击。
+
+**怎么发现的**
+2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）· 她写
+`When i was a kid, the water was super cloudy - it **must be** full of sand.`
+（→ it **must have been** full of sand）。
+★ 为什么是真错不是小毛病：`must be` 说的是**现在**，而她下一段刚说现在水已经清了
+⇒ **同一篇里前后打架**。
+判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判）：
+```
+① 目标英文形式 ＝ `must have been`
+② `lab.py dedup must 情态 "have been"` → 命中 10 条（含已毕业），逐条读：
+   · ⛔#147（时态只标一次：did/will/should/can/must 一出现，后面动词一律原形）—— **最接近的一条**。
+     **决定性证据**：按 #147 的规则改这句 ⇒ 得到 `must be`（＝她写的）
+     ⇒ **给不出正确答案 ⇒ 不是同一条规则**（且 #147 是形态类·不出题，归它等于永远不测）
+   · 🎓#259（完成时：have/has/had 之后一律用过去分词）—— 它管的是 have **后面**挂什么形式，
+     管不到"该不该把 have 插进来" ⇒ 不同考点
+   · 🎓#214（完成进行时 have been ＋ -ing）—— 目标形式不同（been ＋ -ing vs been ＋ 形容词/名词）
+   · 🎓#130 #6 #143 #177 #60 #285 #294 —— 各自别的规则，与"对过去的推测"无关
+③ 说得出差在哪：#147 差在**它只管原形、不管 have** ⇒ **保留新建**
+```
+
+**我错在哪**
+她的：`the water was super cloudy - it **must be** full of sand.`
+正确：`it **must have been** full of sand`
+找法：写完 must／can't／might，先问一句 —— **我在猜的是"现在"还是"当时"？**
+当时 ⇒ 后面必须插一个 **have**。
+
+**题面**
+**点名**："那时候他一定是太累了。"（用 **must** 说这个推测）
+
 - 2026-08-29 ❌ 首犯 · 新题 P2（Describe an important river/lake）·
   `When i was a kid, the water was super cloudy - it **must be** full of sand.`
   → it **must have been** full of sand
@@ -10859,41 +11001,73 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
   考点 must ＋ have ＋ 过去分词 一字不差命中。中文"那时候"未落地 ⇒ 走更好版（At the time, …），不判错。
   ⇒ 连对2 · 达毕业线
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `He must have been exhausted back then` —— must **have been**，一字不差
-- 备注 判据：
-```
-对**过去**的事下推测 ⇒ 情态词后面挂 **have ＋ 过去分词**，不是原形。三档一起记：
-  must have been …    一定是（有把握）
-  can't have been …   不可能是（否定的确信）
-  might/could have been …  可能是（不确定）
-★ 对照（同一个情态词，时间不同，形式不同）：
-  ✅ He must **be** tired.        （现在看着他就累）
-  ✅ He must **have been** tired. （那天他一定是累了）
-★ 检查触发：写完 must／can't／might，先问一句 —— **我在猜的是"现在"还是"当时"？**
-  当时 ⇒ 后面必须有一个 have。
-★ 与 ⛔#147 的分工写死：**#147** 管"情态词后面动词一律原形"（must be，不是 must is）；
-  **本条** 管"该不该在情态词后面插一个 have 进来"。两条互不覆盖
-```
-- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判）：
-```
-① 目标英文形式 ＝ `must have been`
-② `lab.py dedup must 情态 "have been"` → 命中 10 条（含已毕业），逐条读：
-   · ⛔#147（时态只标一次：did/will/should/can/must 一出现，后面动词一律原形）—— **最接近的一条**。
-     **决定性证据**：按 #147 的规则改这句 ⇒ 得到 `must be`（＝她写的）
-     ⇒ **给不出正确答案 ⇒ 不是同一条规则**（且 #147 是形态类·不出题，归它等于永远不测）
-   · 🎓#259（完成时：have/has/had 之后一律用过去分词）—— 它管的是 have **后面**挂什么形式，
-     管不到"该不该把 have 插进来" ⇒ 不同考点
-   · 🎓#214（完成进行时 have been ＋ -ing）—— 目标形式不同（been ＋ -ing vs been ＋ 形容词/名词）
-   · 🎓#130 #6 #143 #177 #60 #285 #294 —— 各自别的规则，与"对过去的推测"无关
-③ 说得出差在哪：#147 差在**它只管原形、不管 have** ⇒ **保留新建**
-★ 不是形态类（§3.4 自查）：形态类清单 ＝ 主谓一致／时态标记／单复数·限定词／冠词·指称／比较级／
-  否定标记／不规则动词变形。`must have done` 是一个**结构**（要多插一个助动词），
-  不是词尾标记 ⇒ 照常出题、照常走连击
-```
 
 ### 310 · all the way ＋ 方向／终点（"一路…"／"大老远…"）
-类型 词组 ｜ 题面 **点名**："一路走回家" ／ "大老远从北京跑过来"（两句都用 **all the way** 说） ｜ 新建 2026-08-30（**她当场指定**）
+类型 词组 ｜ 新建 2026-08-30（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 词组
 　　★ 09-01 那次同句里的 `ran → came` 是**本条考点之外**的动词选择（⚠️ 不判 ❌、未新建号），不影响毕业
+
+**问题是什么**
+**all the way ＋ 方向／终点**（"一路…"／"大老远…"）。
+判据：
+```
+all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在动词或方向短语的前面。
+  ✅ He walked **all the way** home.              （整段路都是走的，没坐车）
+  ✅ The road goes **all the way to** the top.     （一直通到顶，中间不断）
+  ✅ She came **all the way from** Beijing.        （大老远从北京来 —— 强调远）
+  ✅ The river runs **all the way** east.          （一路向东）
+★ 三个高频搭档，整块背：
+  **all the way to ＋ 终点** ／ **all the way from ＋ 起点** ／
+  **all the way ＋ 方向副词**（home／back／up／down／east）
+★ 它加的是"力气/距离"这层意思，不是可有可无的装饰：
+   He walked home.             ＝ 他走回家的（中性）
+   He walked all the way home. ＝ 一路走回去的（远、费劲，说话人在强调这个）
+★ 检查触发：说完一个"从 A 到 B"的移动，问一句 —— **我想不想强调"整段／大老远"？**
+  想 ⇒ 在动词后面塞 all the way。
+```
+★ 与 🎓**#131**（go ＝ 在程度轴上移动）的**互斥关系写死**：`go all the way` ＝ **程度义**
+　（做到底、豁出去）⇒ 归 #131；`all the way ＋ 方向／地点` ＝ **空间义**（整段距离）⇒ 归本条。
+★ 与 🎓**#223**（肯定句里的 far → a long way）的**互斥写死**：只说距离远 ⇒ a long way（#223）；
+　强调整段／大老远 ⇒ all the way（本条）。
+★ 与 **#311**（V ＋ its way）的分工：本条说"**整段都**"（有多远／多费劲），#311 说"**怎么过去的**"。
+
+**怎么发现的**
+2026-08-30 📝 新建 · **她当场指定**（§2③）· 复习第 1 组 [4] 的更好版里教练给了
+`This river **runs all the way east** and eventually empties into the East China Sea`，
+她当场说："run all the way，这个 **all the way** 或者 **its way** 我不太主动会用，也建一个条目吧"。
+★ 她**没有产出过错句** —— 本条是"**教练给的更好版本**"进池（零遗漏原则），不是她犯的错。
+★ 她原话里并列提到的第二样（its way）**另开 #311**。
+判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
+```
+① 目标英文形式 ＝ `all the way ＋ 方向／to ＋ 终点`
+② `lab.py dedup "all the way" "its way" "way"` → 命中 9 条（含已毕业），逐条读：
+   · 🎓#131（go ＝ 在程度轴上移动：go too far／How far are you willing to go?）—— **最接近的一条**，
+     它的备注里就有 `go all the way`。
+     **决定性证据**：按 #131 的规则去改 `The river runs ___ east` ⇒ 它给的是
+     **go ＋ far／程度轴** 那一族（"做到什么程度"），得不到 `runs all the way east`
+     ⇒ **给不出正确答案 ⇒ 不是同一条规则**。
+     **互斥关系写死**：`go all the way` ＝ **程度义**（做到底、豁出去）⇒ 归 #131；
+                      `all the way ＋ 方向／地点` ＝ **空间义**（整段距离）⇒ 归本条。
+   · 🎓#223（肯定句里的 far → a long way）—— 目标形式是 **a long way**（距离量词），
+     管的是"我走了很远"里不能用 far；本条管的是"整段都…"这个强调。
+     **互斥写死**：只说距离远 ⇒ a long way（#223）；强调整段／大老远 ⇒ all the way（本条）。
+   · 🎓#233（either way ＋ you might as well）—— 另一个固定词组，与距离无关
+   · 🎓#143 #206 #277 #291 #295 #302 —— 命中的都是历史行例句里恰好出现 way，不是考点
+③ 说得出差在哪：#131 差在**程度义 vs 空间义**｜#223 差在**距离量词 vs 全程强调**
+   ⇒ **保留新建**
+```
+
+**我错在哪**
+建号时她**没有写错**（本条来自教练的更好版本，建号理由是 §2③ 她点名要学 ——
+她的原话："这个 all the way 或者 its way 我不太主动会用"）。
+真正掉的一次在 2026-08-31：她写 `runs **all the way to east**`（多插一个 to），
+正确 ＝ `all the way ＋ 方向副词`（east／home／back），要用 to 必须连冠词加名词（all the way to the east coast）。
+找法：塞完 all the way，看后面那个词 —— **是方向副词（home／back／east）就不要 to**；
+要用 to 就得跟一个带冠词的名词。
+
+**题面**
+**点名**："一路走回家" ／ "大老远从北京跑过来"（两句都用 **all the way** 说）
+
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 复习第1组 [4] 的更好版里教练给了
   `This river **runs all the way east** and eventually empties into the East China Sea`，
   她当场说："run all the way，这个 **all the way** 或者 **its way** 我不太主动会用，也建一个条目吧"
@@ -10927,45 +11101,65 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
       ③ §3.2b 自查：说不出"她不会的是哪个词组／句型" ⇒ 不建条目，diff-2 给更好版即可。
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（第 11 题整串，她事后补的原话："11直接过"）
-- 备注 判据：
-```
-all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在动词或方向短语的前面。
-  ✅ He walked **all the way** home.              （整段路都是走的，没坐车）
-  ✅ The road goes **all the way to** the top.     （一直通到顶，中间不断）
-  ✅ She came **all the way from** Beijing.        （大老远从北京来 —— 强调远）
-  ✅ The river runs **all the way** east.          （一路向东）
-★ 三个高频搭档，整块背：
-  **all the way to ＋ 终点** ／ **all the way from ＋ 起点** ／
-  **all the way ＋ 方向副词**（home／back／up／down／east）
-★ 它加的是"力气/距离"这层意思，不是可有可无的装饰：
-   He walked home.             ＝ 他走回家的（中性）
-   He walked all the way home. ＝ 一路走回去的（远、费劲，说话人在强调这个）
-★ 检查触发：说完一个"从 A 到 B"的移动，问一句 —— **我想不想强调"整段／大老远"？**
-  想 ⇒ 在动词后面塞 all the way。
-```
-- 备注 判重（新建当天复核，§4④1b ⛔ 严禁脚本批量判 —— dedup 只捞候选，判断逐条人读）：
-```
-① 目标英文形式 ＝ `all the way ＋ 方向／to ＋ 终点`
-② `lab.py dedup "all the way" "its way" "way"` → 命中 9 条（含已毕业），逐条读：
-   · 🎓#131（go ＝ 在程度轴上移动：go too far／How far are you willing to go?）—— **最接近的一条**，
-     它的备注里就有 `go all the way`。
-     **决定性证据**：按 #131 的规则去改 `The river runs ___ east` ⇒ 它给的是
-     **go ＋ far／程度轴** 那一族（"做到什么程度"），得不到 `runs all the way east`
-     ⇒ **给不出正确答案 ⇒ 不是同一条规则**。
-     **互斥关系写死**：`go all the way` ＝ **程度义**（做到底、豁出去）⇒ 归 #131；
-                      `all the way ＋ 方向／地点` ＝ **空间义**（整段距离）⇒ 归本条。
-   · 🎓#223（肯定句里的 far → a long way）—— 目标形式是 **a long way**（距离量词），
-     管的是"我走了很远"里不能用 far；本条管的是"整段都…"这个强调。
-     **互斥写死**：只说距离远 ⇒ a long way（#223）；强调整段／大老远 ⇒ all the way（本条）。
-   · 🎓#233（either way ＋ you might as well）—— 另一个固定词组，与距离无关
-   · 🎓#143 #206 #277 #291 #295 #302 —— 命中的都是历史行例句里恰好出现 way，不是考点
-③ 说得出差在哪：#131 差在**程度义 vs 空间义**｜#223 差在**距离量词 vs 全程强调**
-   ⇒ **保留新建**
-```
 
 ### 311 · 动词 ＋ its／his／my way ＋ 方向（"一路…着过去"）
-类型 结构 ｜ 题面 **点名**："那条河一路穿过市区流过去。"（用 "**动词 ＋ its way**" 这个结构说） ｜ 新建 2026-08-30（**她当场指定**）
+类型 结构 ｜ 新建 2026-08-30（**她当场指定**）
 状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 整句
+
+**问题是什么**
+**动词 ＋ its／his／my way ＋ 方向**（"一路…着过去"）。
+判据：
+```
+形状 ＝ **动词 ＋ one's way ＋ 方向短语**。way 是个**虚宾语**（不指真的路），
+       真正的信息量在**那个动词**上 —— 它说的是"以什么方式移动过去"。
+  ✅ The river **makes its way** through the city.   （一路流过市区 —— make ＝ 中性默认款）
+  ✅ The path **winds its way** up the hill.          （蜿蜒着上山）
+  ✅ He **pushed his way** through the crowd.         （挤过人群）
+  ✅ I **worked my way** through college.             （一路打工读完大学 —— 也能用在非空间上）
+★ 所有格必须跟主语一致：the river → **its** ／ he → **his** ／ I → **my**（✗ make **the** way）
+★ 与 #310 的分工，一句话：
+   **all the way** 说的是"**整段都**"（有多远／多费劲）
+   **V ＋ its way** 说的是"**怎么过去的**"（用什么方式穿过去）
+   两个可以同时出现：It winds its way all the way to the sea.
+★ 检查触发：写完一个移动的句子，问 —— **我想说的是"走了多远"还是"怎么走过去的"？**
+  后者 ⇒ 把动词换成有姿态的那个，后面加 its way。
+```
+★ 为什么不与 **#310** 合成一条（她原话说的是"建一个条目"）：§3.1「一条 ＝ 一个考点」——
+　两者语法形状完全不同（副词短语 vs 动词带虚宾语的句法结构），不满足 §3.2c 合并条的条件。
+
+**怎么发现的**
+2026-08-30 📝 新建 · **她当场指定**（§2③）· 与 #310 同一句话触发
+（她的原话："这个 all the way 或者 **its way** 我不太主动会用，也建一个条目吧"）。
+★ 同 #310：她**没有产出过错句**，本条是"教练给的更好版本"进池，新建行记 📝、不记档位。
+判重（新建当天复核，§4④1b）：
+```
+① 目标英文形式 ＝ `V ＋ one's way ＋ 方向短语`
+② `lab.py dedup "all the way" "its way" "way"` → 命中 9 条，**"its way" 一条都没命中**
+   （全库此前从未出现过这个结构）。逐条读命中 way 的：
+   · #310（本日同时新建）—— **最接近**。**决定性证据**：按 #310 的规则去改
+     `The river ___ through the city` ⇒ 得到 `The river runs all the way through the city`
+     —— 这句是对的，但它**只加了"整段"那层意思，没有"怎么过去的"那层**；
+     且 #310 是**副词短语**、本条是**动词带虚宾语的句法结构** ⇒ 目标形式不同 ⇒ 两条。
+   · 🎓#223（a long way）／🎓#233（either way）／🎓#131（go all the way）——
+     都是别的词组，形状不同，逐条读过
+③ 说得出差在哪：与 #310 差在**副词短语 vs 动词＋虚宾语结构**，且信息落点不同
+   （多远 vs 怎么过去的）⇒ **保留新建**
+★ 为什么不与 #310 合成一条（她原话说的是"建一个条目"）：§3.1「一条 ＝ 一个考点」＋
+  「⛔ 捆绑条目必然与别的号重叠，且一个块掉整条清零」。两者语法形状完全不同，
+  不满足 §3.2c 合并条的条件（不是"同一条规则下的不同成员"）。
+  📌 她若认为该并回一条，当场合并（她的裁决优先）。
+```
+
+**我错在哪**
+她没有写错过（本条来自教练的更好版本，建号理由是 §2③ **她点名要学** ——
+原话："这个 all the way 或者 its way 我不太主动会用"）。
+08-31 首测那次唯一的瑕疵 `it way` 判**拼写不计错**（§2.1，its 就印在题面里）。
+找法：写完一个移动的句子，问 —— **我想说的是"走了多远"还是"怎么走过去的"？**
+后者 ⇒ 动词换成有姿态的那个（wind／push／make），后面加 **its way**（所有格跟主语一致）。
+
+**题面**
+**点名**："那条河一路穿过市区流过去。"（用 "**动词 ＋ its way**" 这个结构说）
+
 - 2026-08-30 📝 新建 · **她当场指定**（§2③）· 与 #310 同一句话触发（"这个 all the way
   或者 **its way** 我不太主动会用"）
   ★ 同 #310：她**没有产出过错句**，本条是"教练给的更好版本"进池，新建行记 📝、不记档位
@@ -10986,40 +11180,6 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
     **不是教练教过的，是她自己换上去的**。
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · `that river winds its way through the city center.` —— winds its way ＋ 方向，结构一字不差
-- 备注 判据：
-```
-形状 ＝ **动词 ＋ one's way ＋ 方向短语**。way 是个**虚宾语**（不指真的路），
-       真正的信息量在**那个动词**上 —— 它说的是"以什么方式移动过去"。
-  ✅ The river **makes its way** through the city.   （一路流过市区 —— make ＝ 中性默认款）
-  ✅ The path **winds its way** up the hill.          （蜿蜒着上山）
-  ✅ He **pushed his way** through the crowd.         （挤过人群）
-  ✅ I **worked my way** through college.             （一路打工读完大学 —— 也能用在非空间上）
-★ 所有格必须跟主语一致：the river → **its** ／ he → **his** ／ I → **my**（✗ make **the** way）
-★ 与 #310 的分工，一句话：
-   **all the way** 说的是"**整段都**"（有多远／多费劲）
-   **V ＋ its way** 说的是"**怎么过去的**"（用什么方式穿过去）
-   两个可以同时出现：It winds its way all the way to the sea.
-★ 检查触发：写完一个移动的句子，问 —— **我想说的是"走了多远"还是"怎么走过去的"？**
-  后者 ⇒ 把动词换成有姿态的那个，后面加 its way。
-```
-- 备注 判重（新建当天复核，§4④1b）：
-```
-① 目标英文形式 ＝ `V ＋ one's way ＋ 方向短语`
-② `lab.py dedup "all the way" "its way" "way"` → 命中 9 条，**"its way" 一条都没命中**
-   （全库此前从未出现过这个结构）。逐条读命中 way 的：
-   · #310（本日同时新建）—— **最接近**。**决定性证据**：按 #310 的规则去改
-     `The river ___ through the city` ⇒ 得到 `The river runs all the way through the city`
-     —— 这句是对的，但它**只加了"整段"那层意思，没有"怎么过去的"那层**；
-     且 #310 是**副词短语**、本条是**动词带虚宾语的句法结构** ⇒ 目标形式不同 ⇒ 两条。
-   · 🎓#223（a long way）／🎓#233（either way）／🎓#131（go all the way）——
-     都是别的词组，形状不同，逐条读过
-③ 说得出差在哪：与 #310 差在**副词短语 vs 动词＋虚宾语结构**，且信息落点不同
-   （多远 vs 怎么过去的）⇒ **保留新建**
-★ 为什么不与 #310 合成一条（她原话说的是"建一个条目"）：§3.1「一条 ＝ 一个考点」＋
-  「⛔ 捆绑条目必然与别的号重叠，且一个块掉整条清零」。两者语法形状完全不同，
-  不满足 §3.2c 合并条的条件（不是"同一条规则下的不同成员"）。
-  📌 她若认为该并回一条，当场合并（她的裁决优先）。
-```
 
 ### 312 · search for sth（search 找"东西"必须带 for）
 类型 搭配 ｜ 题面 **点名**："找一份兼职"（用 **search** 说） ｜ 新建 2026-08-30
