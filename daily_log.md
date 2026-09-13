@@ -6146,3 +6146,24 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **教练犯规 6 条**（session ④）：审核表第 6 项写结论不写证据 · 第 7 项漏「换结构」那类（but）· 09-10 回看没落标题行 · "只此一例"说早了（#26 之后又抓到 #4）· 拆号题型两次标错 · 审核表行首格式返工
 
 **明天 ＝ 周期 6 · L1**：`ls sessions/` 定日型 → `stats` → `pick --type learn`；在池 25 条可出题 ⇒ 3 组排得满；新题 1 道；回看 lookback → R10
+
+## 2026-09-13（周日）· 口语 L1（周期 6 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 324 ＝ problems.md 31 ＋ graduated.md 293 ｜ 🎓 293（90.4%）｜ 未毕业 31 ｜ 可出题 21 ｜ 连对1 12 ｜ 连错≥2 3 ｜ 队列到期剩 32（在池 0／复检 32）｜ ⚡ 累计 77、掉过 1（校准 1%）｜ 重答队列 36 / 未重答 26
+
+**四段**
+- ① 在池 3 组 24 题（到期 24 条全排完）：✅20 ❌4 ⇒ **毕业 9**（#261 六个不可数名词 · #294 be mindful of · #325 obstacle course · #326 stamina · #327 foothold/peg · #329 terrified · #331 look straight ahead · #332 提议拆回 when 从句 · #333 told him to … his）
+  · ❌ 4：#167 There's no rush（写 no need to rush）· #282 take ownership（忘了）· #301 enjoy MY time（又写 the time）· #330 set his mind to（写成 to do）⇒ #167 #282 #301 连错 2
+  · #49 人称一致：她 ① I ／ ② 泛指 you 与 08-20 判据同形 ⇒ ✅，09-12 题面"两句之间不许跳"写过头，改回
+  · #261：第一轮漏答 ④ knowledge，没按 5/6 记 ✅，补答后才落判定 ⇒ 六成员齐、毕业
+- ①b 复检 1 组 10 题/15 条：✅15 ❌0，回潮 0（09-05 那批 rc1 条目全稳）
+- ② 回看 R10（09-11 重答）四件套逐字转述
+- ④ 新题 bank:238（P3 什么算好行为）：72 词 3 句，全篇口语档、零书面词；真错 2 ⇒ 新建 #340 a step up from that（她自标"这句要学下，on top of that／plus 体现不出来"）· #341 deserve praise（她写 worth praise）；comes down to 连续两篇自发命中
+- 同句另立 3：#337 look up sth（look up **for**）· #338 end up ＋ -ing（end up **to** queuing）· #339 reach sb（**get** reach him）—— 都是两个块焊在一起
+- 题面整改 11 条（第 7 项第二译法：There's no use／in teams／No need to hurry／footing／put his mind to／take the plunge／not so simple／tidy the table／not looking at／catch up；#49 判据回正）
+
+**v3 四节知识卡第一次上线出题**：`prompts` 直接打题面节、审核第 5 项照抄；5 条新建全按 B0–B6 手写四节，check 一次拦住 #337 元信息行里的"题面"字样
+
+**教练犯规 5 条**（session ④）：复检出题表 `[n]` 行首撞 deliver（09-11 撞过）· rows 同条两块 · #337 元信息措辞 · 第 7 项漏 catch up · rows 漏写"毕业"
+
+**明天 ＝ 周期 6 · L2**：`ls sessions/` → `stats` → `pick --type learn`；dry-run 到期 57 ＝ 在池 19（2 组，含 5 条新建首测）／复检 38（1 ＋ 下溢 1）；新题 1 道；回看 → bank:238

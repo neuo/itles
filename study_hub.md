@@ -8,6 +8,20 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-13 · 口语 L1（周期 6 第 1 个学习日）· 已收尾**
+  —— 在池 **3 组 24 题**（到期 24 条全排完）：✅20 ❌4 ⇒ **毕业 9**（#261 六个不可数名词 · #294 be mindful of ·
+  　　 #325 obstacle course · #326 stamina · #327 foothold/peg · #329 terrified · #331 look straight ahead ·
+  　　 #332 提议拆回 when 从句 · #333 told him to … his）
+  　　 ❌ 4：There's no rush（写 no need to rush）· take ownership（忘了）· enjoy MY time（又 the time）· set his mind TO（写 to do）
+  —— 复检 **1 组 10 题 / 15 条**：✅15 ❌0，回潮 0
+  —— 回看 R10 ｜ 新题 bank:238（什么算好行为）：72 词全篇口语档，真错 2 ⇒ 新建 **#340** a step up from that（她自标要学）· **#341** deserve praise
+  —— 同句另立 3：**#337** look up sth（look up **for**）· **#338** end up -ing（end up **to**）· **#339** reach sb（**get** reach）—— 都是两个块焊在一起
+  —— 题面整改 11 条（第二译法硬阻断）· #49 判据回正（泛指 you 换具体 I 分属两句不算跳）
+  —— ★ v3 四节知识卡第一次上线出题：prompts 打题面节、5 条新建全按 B0–B6 手写四节
+  —— 教练犯规 5 条（详见 session ④）
+  —— 全档 324 ｜ 🎓 293（90.4%）｜ 未毕业 31 ｜ 可出题 21 ｜ 队列到期剩 32（在池 0 ／ 复检 32）｜ ⚡ 累计 77（掉过 1）｜ 重答队列 36 / 未重答 26
+  —— 明天 ＝ **周期 6 · L2**：dry-run 到期 57 ＝ 在池 19（2 组，含 5 条新建首测）／复检 38（1 ＋ 下溢 1）；新题 1 道；回看 → bank:238
+
 🆕🆕🆕 **2026-09-11 · 口语 R（付息日 · 周期 5 收尾）· 已收尾**
   —— a 在池 **1 组 7 题**（到期只有 7 条）：⚡2 ⇒ 判定 5，✅5 ❌0 ⇒ **毕业 4**（#135 there is/被动 · #186 leave a mess ·
   　　 #323 know **what** · #322 play with —— 最后一条是她 ⚡ 推到线上的）⇒ 在池清空
