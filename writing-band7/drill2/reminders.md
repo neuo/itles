@@ -351,6 +351,21 @@ R5                            管【复数／不可数泛指】：the younger pe
      `urban traffic congestion` · `rural poverty` · `student safety`
    ⇒ 全天 R5 命中 **1 处**（组1 组2 零命中，组3 1 处）
 
+2026-09-13 组2 第 2 题　`**the** inflation should have been factored in` → `inflation should have been…`
+   ★ 回到第 ② 位（抽象名词泛指多一个 the）—— 与 09-06 的 `The electricity usage` 同形，
+     只是这次它落在**句中**而不是句首（前两次失控的都是句首那个泛指名词 ⇒ 这条观察被推翻了一半：
+     位置不是保护，扛考点的密度才是）。
+   ★ 同一句里 `the budget`（指这份预算 ⇒ 该带 the）· `delays`（复数泛指 ⇒ 零冠词）两处都对；
+     同题她还要同时装三个动词块（take … into consideration ／ allow for ／ factor in）
+     ⇒ 与 R2 08-25 · R4 08-30 · R5 09-06 第四次同源：**一句里考点越多，构形格越容易掉**
+   ★ 同日两组冠词守住的：`the long term` · `the scope of this report` · `a review panel` ·
+     `the slowdown in economic growth` · `a highly detailed report` · `the first day of each month` ·
+     `the digital age` · `the manager in charge of procurement` · `a second inspection` · `a reminder`；
+     零冠词泛指：`subscription revenue` · `external experts` · `financial support for small businesses` ·
+     `cultural differences` · `electricity bills` · `passengers` · `complaints` ·
+     四个 be ＋ 介词块（in trouble ／ in charge of ／ on leave ／ in use）
+   ⇒ 全天 R5 命中 **1 处**（组1 零命中，组2 1 处）
+
 2026-09-07 组3 第 10 题　`are inherently **the** high-risk and high-cost` → 删掉 the
    ★★ **本账第一次记到「表语形容词前面的 the」这个形状** —— 前两次（08-31 · 09-06）
      多出来的 the 都挂在一个**名词**前面；这一次后面根本没有名词，冠词无处可挂
