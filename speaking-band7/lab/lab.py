@@ -121,7 +121,7 @@ RE_TAIL = re.compile(r"^-\s*(旧账|⚠️|★|⇒|（|\*\*检查触发)")
 #  召回梯子（SKILL §3.5，她 2026-09-05 定）—— 一条梯子，毕业线只是中间一格
 #
 #  格上的数字 ＝ 应等几个【练习日】（⛔ 不是自然日：休息日不存在）。
-#  数字的来历见 SKILL §3.5。★ 唯一一条修正：**历史掉过 ❌ ⇒ 在梯子上降一格**（两条线通用）。
+#  数字的来历见 SKILL §3.5。★ 在池条目掉过 ❌ ⇒ 降一格；复检队列（🎓）不降格。
 # ══════════════════════════════════════════════════════════════════════════
 RUNGS = [
     ("首测未做·连错≥2", 1),
@@ -316,7 +316,7 @@ class Entry:
         return max((h.date for h in self.history), default=None)
 
     def ever_bad(self):
-        """历史上有过 ❌ 或 📖 ⇒ §3.5 梯子上降一格（风险修正的唯一口径）"""
+        """历史上有过 ❌ 或 📖（全部历史）。"""
         return any(h.symbol in ("❌", "📖") for h in self.history)
 
     # ── 召回梯子（§3.5，她 2026-09-05 定）────────────────────────────────
@@ -340,6 +340,11 @@ class Entry:
         return len([h for h in self.history
                     if h.date > g and h.symbol in ("✅", "⚡")])
 
+    def at_risk(self):
+        """§3.5 降格口径：**未毕业 ＋ 历史里掉过 ❌／📖 ⇒ 降一格**。
+        复检队列（🎓）不降格：复检只有对和不对，错了就回在池。"""
+        return (not self.graduated) and self.ever_bad()
+
     def base_rung(self):
         """梯子上的**基准**格（不含风险修正）。"""
         if self.pulled_back():
@@ -358,8 +363,8 @@ class Entry:
         return 0                           # 兜底：状态与日志对不上 ⇒ 往严的方向站
 
     def rung(self):
-        """★ 唯一一条修正：历史掉过 ❌ ⇒ 降一格（在池、毕业两条线通用）。"""
-        return max(0, self.base_rung() - (1 if self.ever_bad() else 0))
+        """在池条目掉过 ❌ ⇒ 降一格（at_risk，§3.5）；复检队列不降格。"""
+        return max(0, self.base_rung() - (1 if self.at_risk() else 0))
 
     def interval(self):
         """应等几个练习日。"""
@@ -370,7 +375,7 @@ class Entry:
         一条 `连错1·险` 落在 rung0，而 rung0 的名字叫「首测未做·连错≥2」，
         只打落点会让卡片看起来在说「这条从没测过」。"""
         b, r = self.base_rung(), self.rung()
-        return RUNGS[b][0] + ("·险" if self.ever_bad() else "") + f" ⇒ rung{r}"
+        return RUNGS[b][0] + ("·险" if self.at_risk() else "") + f" ⇒ rung{r}"
 
     def pulled_back(self):
         """★ 反向通道（§4③）：她说「这条我没底，拉回来」⇒ 记一行
@@ -687,8 +692,13 @@ def overdue(e, today, days=None):
 
 
 def queue_key(e, today, days=None):
-    """§3.5 排序写死：**逾期分降序 → 掉过的优先 → 编号升序**。确定性，可复算。"""
-    return (-overdue(e, today, days), 0 if e.ever_bad() else 1, e.num)
+    """§3.5 排序，两条队列各一套（确定性，可复算）：
+      在池 ＝ 逾期分降序 → 掉过的优先 → 编号升序
+      复检 ＝ 复检次数少的优先 → 已等练习日多的优先 → 编号升序（她说「没底·拉回来」的顶到队首）"""
+    if e.graduated:
+        first = -1 if e.pulled_back() else e.rechecks()
+        return (first, -waited_days(e, today, days), e.num)
+    return (-overdue(e, today, days), 0 if e.at_risk() else 1, e.num)
 
 
 # ══════════════════════════════════════════════════════════════════════════
@@ -1311,7 +1321,7 @@ def cmd_stats(args):
         if n:
             bars.append(f"{nm}={n}")
     print("           梯子分布（按基准格）" + " ｜ ".join(bars))
-    print("           实际间隔（含「掉过降一格」）" + " ｜ ".join(
+    print("           实际间隔（含在池掉过降一格）" + " ｜ ".join(
         f"{iv}d={sum(1 for e in rec if e.interval() == iv)}"
         for iv in sorted({r[1] for r in RUNGS})
         if sum(1 for e in rec if e.interval() == iv)))
@@ -1448,12 +1458,12 @@ RE_QBLOCK = re.compile(r"^\[(\d+)\]\s*#(\d+)\s*·")
 # 复检块头：`[3] #190 · 题面` 或 `[3] 打包 · #190 #232 #233 · 词组串`
 RE_RBLOCK = re.compile(r"^\[(\d+)\]\s*(?:打包\s*·\s*)?((?:#\d+[\s·]*)+)")
 RE_RJUDGE = re.compile(r"^判定\s*#(\d+)\s+(\S+)")
-# 复检判定值的闭集：稳 ✅ ／ 掉 ❌ ／ ◎ ＝ 题面本身有毛病、本次作废（§3.3）
-JUDGE_OK = ("✅", "❌", "◎")
+# 复检判定值的闭集：对 ✅ ／ 不对 ❌（§6.1③；题面出坏了记 ✅）
+JUDGE_OK = ("✅", "❌")
 
 
 def judge_val(raw):
-    """把判定值归一化 → ✅ / ❌ / ◎ / None（不认识）。
+    """把判定值归一化 → ✅ / ❌ / None（不认识）。
     ⚠️ 加粗写法要认出来**报错**，不是放过 —— 否则 `**❌**` 会被当成"不是 ❌"，
        三件套闸门整个绕过（加粗本身由调用处单独报，见 §3.3「符号紧跟、不加粗」）。"""
     v = (raw or "").strip().strip("*").strip()
@@ -1714,8 +1724,8 @@ def check_session(sc, only=None):
 
         elif sec["kind"] == "recheck":
             # ── 复检组（§4①b / §6.1）───────────────────────────────────
-            #  目的是**定位**不是教 ⇒ 判两档：稳 ✅ ／ 掉 ❌ ＋ 例外 ◎（题面坏了，§3.3）。
-            #  ✅ 与 ◎ 只要一行判定；❌ 才走三件套（它当场回潮，已经是在池条目了）。
+            #  目的是**定位**不是教 ⇒ 判两档：对 ✅ ／ 不对 ❌。
+            #  ✅ 只要一行判定；❌ 才走三件套（它当场回潮，已经是在池条目了）。
             #  ★ 打包题最大的风险 ＝ **某个成员被悄悄漏判** ⇒ 这里逐条对账。
             m = RE_RECHECK_N.search(t)
             blocks = _blocks_in(sc, sec, RE_RBLOCK)
@@ -1763,11 +1773,9 @@ def check_session(sc, only=None):
                 unknown = [(n, v) for n, v in judged.items() if judge_val(v) is None]
                 for n, v in unknown:
                     P.append((LV, bl,
-                              f"[{idx}] #{n} 的判定值「{v[:12]}」不在闭集 ✅／❌／◎ 里 ——"
-                              f" §6.1③ 复检判两档 ＋ ◎（题面本身有毛病，§3.3）；"
+                              f"[{idx}] #{n} 的判定值「{v[:12]}」不在闭集 ✅／❌ 里 ——"
+                              f" §6.1③ 复检只有对和不对（题面出坏了记 ✅）；"
                               f"⛔ 加粗写法（`**❌**`）也不认，符号必须裸写（§3.3）"))
-                # ★ ◎ ⛔ 不要求三件套（它的定义就是"这次没测成"，对着坏题面教是错的），
-                #   也 ⛔ 不计进下面「一个块最多一条 ❌」的数 —— 它不是 ❌。
                 bad = [n for n, v in judged.items() if judge_val(v) == "❌"]
                 if len(bad) > 1:
                     P.append((LV, bl,
@@ -2498,8 +2506,8 @@ TYPES = [
                                                                 lambda e: e.recallable and overdue(e, _today()) >= 1),
     ("overdue2",  "逾期 ≥2 倍",   "进队列 ＋ 逾期分 ≥2（该等的时间已经过去两轮）",
                                                                 lambda e: e.recallable and overdue(e, _today()) >= 2),
-    ("risk",      "掉过·降一格",  "历史里有过 ❌/📖 ⇒ 在梯子上降一格（§3.5 唯一一条修正）",
-                                                                lambda e: e.ever_bad()),
+    ("risk",      "在池降格",     "未毕业 ＋ 掉过 ❌/📖 ⇒ 在梯子上降一格（§3.5；复检队列不降格）",
+                                                                lambda e: e.at_risk()),
     ("selfpass",  "⚡ 自评免测过", "日志里有 ⚡ 行（§4③ 校准数从这里数）",        lambda e: bool(e.selfpassed())),
     ("selfpass-fell", "⚡ 之后又掉过", "★ **自评校准数**：⚡ 之后还出现过 ❌/📖 ⇒ 那一票没兑现",
                                                                 _selfpass_fell),
@@ -2638,11 +2646,9 @@ def bundlable(e):
 def bundle(cands):
     """把队列切成【题】：词组/词汇/搭配 最多 6 条并成一道中译英词组串，其余一条一题。
 
-    ★ 顺序保证（这条是打包能成立的全部理由）：
-      **每道题的头一条永远是队列里当下最靠前的那一条** —— 打包只让它把
-      后面同类的捎上，被捎的逾期分只会更低，提前测不亏；
-      ⛔ 反过来绝不会把靠前的条目往后压。
-    ★ 捎带范围封了顶（BUNDLE_REACH）：不许从队尾把逾期分低得多的条目拽上来。"""
+    ★ 顺序保证：**每道题的头一条永远是队列里当下最靠前的那一条** ——
+      打包只让它把后面同类的捎上，⛔ 绝不会把靠前的条目往后压。
+    ★ 捎带范围封了顶（BUNDLE_REACH）：不许从队尾把排得远的条目拽上来。"""
     q = list(cands)
     out = []
     while q:
@@ -2742,7 +2748,9 @@ def cmd_pick(args):
     print(f"lab.py pick · {args.type} · {today}"
           f"（{'学习日' if args.type == 'learn' else '付息日'}·配额 在池 {npool} 组 ／ 复检 {ngrad} 组）")
     print(W)
-    print("排序 ＝ 逾期分降序 → 掉过的优先 → 编号升序　｜　逾期分 ＝ 已等练习日 ÷ 应等间隔")
+    print("排序 ＝ 在池：逾期分降序 → 掉过的优先 → 编号升序"
+          "　｜　复检：复检次数少的优先 → 已等练习日多的优先 → 编号升序")
+    print("到期 ＝ 已等练习日 ≥ 梯子上的应等间隔　｜　逾期分 ＝ 已等练习日 ÷ 应等间隔")
     print(f"练习日共 {len(days)} 个（{days[0] if days else '—'}…{days[-1] if days else '—'}）"
           f"，今天{'也' if today in days else '不'}在其中，本场按【今天算一个练习日】计")
     print(f"进队列 {len(cand)} 条 ⇒ **今天到期 {len(due)} 条**"
@@ -2787,9 +2795,13 @@ def cmd_pick(args):
                 else:
                     print(f"  [{qi}] #{q[0].num}")
                 for e in q:
-                    sc = overdue(e, today, days)
-                    why = (f"逾期分 {sc:.1f} ｜ 梯子 {e.rung_name()} ｜ 应等 {e.interval()}"
-                           f" ｜ 已等 {waited_days(e, today, days)}")
+                    if e.graduated:
+                        why = (f"复检 rc{e.rechecks()} ｜ 已等 {waited_days(e, today, days)}"
+                               f" ｜ 应等 {e.interval()} ｜ 梯子 {e.rung_name()}")
+                    else:
+                        sc = overdue(e, today, days)
+                        why = (f"逾期分 {sc:.1f} ｜ 梯子 {e.rung_name()} ｜ 应等 {e.interval()}"
+                               f" ｜ 已等 {waited_days(e, today, days)}")
                     print(card(e, why, args.full))
             if not args.dry:
                 append_drawn("\t".join(

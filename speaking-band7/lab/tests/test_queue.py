@@ -59,7 +59,7 @@ with sandbox(p_text=P, g_text="# 已毕业档\n", sessions=False) as d:
     ck("一行判定都没有 ⇒ eff_last 为 None", load1(d, 5).eff_last() is None)
 
 # ══════════════════════════════════════════════════════════════════════════
-head("② base_rung / rung —— 每一格正向命中，风险降一格")
+head("② base_rung / rung —— 每一格正向命中；在池掉过降一格，复检不降格")
 P = archive([
     entry(10, rows=["- 2026-08-02 ❌ a", "- 2026-08-03 ❌ b"],
           status="状态 连对0 连错2 上次2026-08-03 未毕业"),                      # 连错≥2
@@ -83,6 +83,16 @@ G = archive([
                     "- 2026-08-05 ⚡ 自评免测", "- 2026-08-06 ✅", "- 2026-08-07 ✅",
                     "- 2026-08-08 ✅"],
           status="状态 连对2 连错0 上次2026-08-02 ｜ **🎓 已毕业 2026-08-02**"),  # rc5 → 封顶
+    entry(24, rows=["- 2026-07-30 ❌ x", "- 2026-08-01 ✅ a", "- 2026-08-02 ✅ b", "- 2026-08-04 ✅ 复检"],
+          status="状态 连对2 连错0 上次2026-08-02 ｜ **🎓 已毕业 2026-08-02**"),  # 掉过 ＋ 毕业后复检 ✅
+    entry(25, rows=["- 2026-07-30 ❌ x", "- 2026-08-01 ✅ a", "- 2026-08-02 ✅ b", "- 2026-08-04 ⚡ 自评免测"],
+          status="状态 连对2 连错0 上次2026-08-02 ｜ **🎓 已毕业 2026-08-02**"),  # 掉过 ＋ 毕业后 ⚡
+    entry(26, rows=["- 2026-07-30 ❌ x", "- 2026-08-01 ✅ a", "- 2026-08-02 ✅ b",
+                    "- 2026-08-04 ◎ 题面坏了", "- 2026-08-05 📝 改题面"],
+          status="状态 连对2 连错0 上次2026-08-04 ｜ **🎓 已毕业 2026-08-02**"),  # 毕业后只有 ◎ 📝
+    entry(27, rows=["- 2026-08-01 ✅ a", "- 2026-08-02 ✅ b", "- 2026-08-04 ✅ 复检",
+                    "- 2026-08-06 ❌ 自由产出掉了"],
+          status="状态 连对2 连错0 上次2026-08-06 ｜ **🎓 已毕业 2026-08-02**"),  # 复检过后又掉 ❌、还没回潮
 ], header="# 已毕业档\n\n---\n\n")
 with sandbox(p_text=P, g_text=G, sessions=False) as d:
     mk_sessions(d)
@@ -93,15 +103,27 @@ with sandbox(p_text=P, g_text=G, sessions=False) as d:
     ck("连对1 零❌ ⇒ rung2 · 间隔2", (E[13].rung(), E[13].interval()) == (2, 2))
     ck("连对1 险 ⇒ 降到 rung1 · 间隔1", (E[14].rung(), E[14].interval()) == (1, 1))
     ck("🎓 rc0 零❌ ⇒ rung3 · 间隔3", (E[20].rung(), E[20].interval()) == (3, 3))
-    ck("🎓 rc0 险 ⇒ 降到 rung2 · 间隔2", (E[21].rung(), E[21].interval()) == (2, 2))
+    ck("🎓 rc0 掉过也不降格 ⇒ rung3 · 间隔3", (E[21].rung(), E[21].interval()) == (3, 3))
     ck("🎓 rc1 零❌ ⇒ rung4 · 间隔7", (E[22].rung(), E[22].interval()) == (4, 7))
     ck("rc 封顶 4（rc5 仍是 rung7 · 间隔60）",
        (E[23].rechecks(), E[23].rung(), E[23].interval()) == (5, 7, 60))
     ck("⚡ 计入 rc（#23 的 5 次里有一次是 ⚡）", E[23].rechecks() == 5)
     ck("毕业前的 ✅ ⛔ 不计入 rc", E[20].rechecks() == 0)
-    ck("rung_name 同时写基准格与落点", "⇒ rung2" in E[21].rung_name()
-       and "rc0" in E[21].rung_name())
+    ck("rung_name 同时写基准格与落点", "⇒ rung1" in E[14].rung_name()
+       and "连对1" in E[14].rung_name())
     ck("负向：rung 不会掉到 0 以下", all(e.rung() >= 0 for e in E.values()))
+    # ── 复检队列不降格：已毕业条目只看复检次数，不看历史 ❌ ──
+    ck("🎓 掉过 ＋ 毕业后复检过 ⇒ rung4 · 间隔7",
+       (E[24].at_risk(), E[24].rung(), E[24].interval()) == (False, 4, 7))
+    ck("🎓 at_risk 恒为假、rung_name 不带「险」；ever_bad 仍数全部历史",
+       not any(E[n].at_risk() for n in (20, 21, 22, 23, 24, 25, 26, 27))
+       and "·险" not in E[21].rung_name() and E[21].ever_bad())
+    ck("毕业后 ⚡ 同样计入复检次数 ⇒ 间隔7", (E[25].rechecks(), E[25].interval()) == (1, 7))
+    ck("毕业后只有 ◎ 📝 ⇒ 复检次数 0 ⇒ 间隔3", (E[26].rechecks(), E[26].interval()) == (0, 3))
+    ck("🎓 复检过后又掉 ❌、还没回潮 ⇒ 仍按复检次数算 ⇒ 间隔7",
+       (E[27].rechecks(), E[27].interval()) == (1, 7))
+    ck("负向：在池条目掉过 ⇒ 照旧降格", E[14].at_risk() and E[12].at_risk())
+    ck("从没掉过的在池条目 ⇒ 不降格", not E[13].at_risk())
 
 # ══════════════════════════════════════════════════════════════════════════
 head("③ waited_days / overdue —— 练习日算术")
@@ -149,6 +171,27 @@ with sandbox(p_text=P, g_text="# 已毕业档\n", sessions=False) as d:
              for _ in range(2)]
     ck("重跑排序完全一样（可复算）",
        [e.num for e in twice[0]] == [e.num for e in twice[1]])
+
+G = archive([
+    entry(50, rows=["- 2026-08-01 ✅", "- 2026-08-02 ✅", "- 2026-08-03 ✅ 复检"],
+          status="状态 连对2 连错0 上次2026-08-02 ｜ **🎓 已毕业 2026-08-02**"),   # rc1 · 已等 8
+    entry(51, rows=["- 2026-08-02 ✅", "- 2026-08-04 ✅"],
+          status="状态 连对2 连错0 上次2026-08-04 ｜ **🎓 已毕业 2026-08-04**"),   # rc0 · 已等 7
+    entry(52, rows=["- 2026-08-06 ✅", "- 2026-08-07 ✅"],
+          status="状态 连对2 连错0 上次2026-08-07 ｜ **🎓 已毕业 2026-08-07**"),   # rc0 · 已等 4
+    entry(53, rows=["- 2026-08-01 ❌", "- 2026-08-06 ✅", "- 2026-08-07 ✅"],
+          status="状态 连对2 连错0 上次2026-08-07 ｜ **🎓 已毕业 2026-08-07**"),   # rc0 · 已等 4 · 掉过
+    entry(54, rows=["- 2026-08-01 ✅", "- 2026-08-02 ✅", "- 2026-08-03 ✅ 复检",
+                    "- 2026-08-09 📝 她自评没底 · 优先召回"],
+          status="状态 连对2 连错0 上次2026-08-02 ｜ **🎓 已毕业 2026-08-02**"),   # rc1 · 她说没底
+], header="# 已毕业档\n\n---\n\n")
+with sandbox(p_text=archive([]), g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    lab._PDAYS = None
+    days = lab.practice_days()
+    order = [e.num for e in sorted(lab.load_all(), key=lambda e: lab.queue_key(e, TODAY, days))]
+    ck("复检排序 ＝ 她说没底的顶到队首 → 复检次数少 → 已等多 → 编号（掉过 ⛔ 不影响）",
+       order == [54, 51, 52, 53, 50], order)
 
 # ══════════════════════════════════════════════════════════════════════════
 head("⑤ bundle —— 打包题")

@@ -362,8 +362,13 @@ class Entry:
                     if not h.superseded and h.symbol in RECHECK_SYMBOLS and h.date > gd})
 
     def ever_bad(self):
-        """历史里掉过 ❌／📖（§3.6 唯一一条修正：掉过的在梯子上降一格）。"""
+        """历史里掉过 ❌／📖（全部历史；被 §4.7 改判的行不算）。"""
         return any(JUDGE.get(h.symbol) == "bad" for h in self.history if not h.superseded)
+
+    def at_risk(self):
+        """§3.6 降格口径：**未毕业 ＋ 历史里掉过 ❌／📖 ⇒ 降一格**。
+        复检队列（🎓）不降格：复检只有对和不对，错了就回在池。"""
+        return (not self.graduated) and self.ever_bad()
 
     def base_rung(self):
         """降级修正**之前**站在哪一格。返回 (是不是复检队列, 格号)。"""
@@ -378,9 +383,9 @@ class Entry:
         return False, 0
 
     def rung(self):
-        """落到哪一格（含「掉过的降一格」修正）。返回 (是不是复检队列, 格号)。"""
+        """落到哪一格（在池条目掉过的降一格，at_risk）。返回 (是不是复检队列, 格号)。"""
         grad, r = self.base_rung()
-        if self.ever_bad():
+        if self.at_risk():
             r = max(0, r - 1)
         return grad, r
 
@@ -936,8 +941,13 @@ def overdue(e, pdays, tidx):
 
 
 def queue_key(e, pdays, tidx):
-    """排序 ＝ 逾期分降序 → 掉过的优先 → 编号升序。确定性，重跑一模一样。"""
-    return (-overdue(e, pdays, tidx), 0 if e.ever_bad() else 1, e.num)
+    """排序，两条队列各一套（确定性，重跑一模一样）：
+      在池 ＝ 逾期分降序 → 掉过的优先 → 编号升序
+      复检 ＝ 复检次数少的优先 → 已等练习日多的优先（从未测过排最前）→ 编号升序"""
+    if e.graduated:
+        w = waited_days(e, pdays, tidx)
+        return (e.rechecks(), -(float("inf") if w is None else w), e.num)
+    return (-overdue(e, pdays, tidx), 0 if e.at_risk() else 1, e.num)
 
 
 def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozenset()):
@@ -1028,7 +1038,7 @@ def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozense
 def partition(cand, size, spread_by_family):
     """把要出的条目切成若干组，每组 ≤ size。
 
-    ★★ **组间一律按传进来的顺序切**（＝ §3.6 的逾期分排序，必出层在最前）——
+    ★★ **组间一律按传进来的顺序切**（＝ §3.6 的队列排序，必出层在最前）——
        组 1 就是今天最该测的那 10 条。她中途喊停，停在最该测的**之后**。
     ⛔ 旧写法「按族轮流发牌」整条作废：它把队列打散重排，组 1 变成"族最杂的 10 条"
        而不是"最该测的 10 条"，梯子的优先级到组一级就全丢了。
@@ -1135,7 +1145,7 @@ def cmd_pick(args):
           f"{n_grad_g} 组（基础 {P['base']} 组 ＋ 在池下溢 {P['spill']} 组）")
     if P["grad_due"] and not P["grad_take"]:
         print("     ⚠️ 复检到期却一组都没排上 —— 检查配额是不是被必出层吃光了")
-    print(f"  ★ 组 1 就是今天最该测的 {args.size} 条（组间按逾期分切）；"
+    print(f"  ★ 组 1 就是今天最该测的 {args.size} 条（组间按队列顺序切）；"
           f"她中途喊停 ⇒ 停在最该测的之后，⛔ 不记欠账")
     n_phrase = sum(1 for e in P["pool_take"] + P["grad_take"] if e.is_phrase)
     if n_phrase:
