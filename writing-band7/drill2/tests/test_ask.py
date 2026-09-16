@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""题型（整句／词组／作文验）的回归测试 —— 全部跑临时副本，⛔ 一次都不碰真档案。
+"""题型（整句／词组）的回归测试 —— 全部跑临时副本，⛔ 一次都不碰真档案。
 
 跑法：  python3 writing-band7/drill2/tests/test_ask.py
 用途：  改过 drill.py 的状态行解析 / check / count / pick 之后先跑这个。
@@ -9,7 +9,7 @@
 覆盖：  A 题型格解析与默认值（不写 ＝ 整句、三类相加 ＝ 全档总数）
         B 非法值 · ASK_FROM 前后的缺格口径
         C 词组的三条硬闸（词表型禁标 · 八个句子层族禁标 · 题面带句号 WARN）
-        D 作文验：状态行是机器真源、散文是理由、过渡期并集、pick 排除
+        D 作文验已取消：状态行再写它 ⇒ ERROR
         E count 的 ask-* slug
         F pick 卡片认得词组（题型行 ＋ 零提示档）
         G append 不会被第 7 格弄坏
@@ -91,7 +91,7 @@ def set_trigger_line(text, num, add):
 #   写死的夹具当场全崩）。改成**按条件从活档案里挑**，条件写在下面这一行里。
 def _pick_fixture():
     """挑一条：住 problems.md · 在池 · 有历史行且建号早于 ASK_FROM ·
-    非词表型 · 非挂作文验 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。
+    非词表型 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。
     ⚠️ **2026-09-06 放宽：去掉了原来的「状态行没写题型格」这一条**。
     　 原因：那一条把夹具钉在"存量缺格条目"上，而 09-02 起新建的都自带题型格、
     　 老的缺格条目又在陆续毕业搬走 —— 09-06 那天 migrate 搬走 16 条之后，
@@ -100,7 +100,7 @@ def _pick_fixture():
     　 （§0.6 夹具规矩：从活档案按条件挑，或自己造出要测的状态）。"""
     for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md"):
         if (e.state == "在池" and e.history and not e.members
-                and not e.essay_prose and e.fam not in drill.NO_PHRASE_FAMS
+                and e.fam not in drill.NO_PHRASE_FAMS
                 and e.created_on() and e.created_on() < drill.ASK_FROM):
             return e.num
     raise SystemExit("⛔ 档案里挑不出符合条件的夹具条目 —— 先看档案是不是变形了")
@@ -124,22 +124,11 @@ with sandbox() as d:
     ents = drill.load_all()
     ck("不写题型格 ⇒ ask_kind = 整句",
        all(e.ask_kind == drill.ASK_SENTENCE for e in ents if e.ask is None))
-    ck("全档三类相加 = 全档总数",
+    ck("全档两类相加 = 全档总数",
        sum(1 for e in ents if e.ask_kind == "整句") +
-       sum(1 for e in ents if e.ask_kind == "词组") +
-       sum(1 for e in ents if e.ask_kind == "作文验") == len(ents))
-    # ⚠️ 2026-09-03：原来这两条写死「44 条」「45 条」—— 每天新挂一条作文验就红一次
-    #    （09-03 把 #0108 改挂作文验，两条当场失效）。按 §0.6 夹具纪律改成**结构不变式**：
-    ck("标了「题型 作文验」的，essay_only 一定认得出来（⇒ 前者是后者的子集）",
-       {e.num for e in ents if e.ask == "作文验"} <= {e.num for e in ents if e.essay_only},
-       sorted({e.num for e in ents if e.ask == "作文验"} - {e.num for e in ents if e.essay_only}))
-    _only_prose = {e.num for e in ents if e.essay_only and e.ask != "作文验"}
-    ck("多出来的那些，全部是**只在触发点散文里**写着「不出单点题」的（过渡期并集）",
-       all(any("不出单点题" in x for x in (e.trigger or "").split("\n"))
-           for e in ents if e.num in _only_prose),
-       sorted(_only_prose))
+       sum(1 for e in ents if e.ask_kind == "词组") == len(ents))
 
-for grid in ("整句", "词组", "作文验"):
+for grid in ("整句", "词组"):
     with sandbox(p_text=set_grid(P, _A, grid)) as d:          # ★ 用按条件挑的夹具，⛔ 不写死编号
         e, _ = probs(_A)
         ck(f"显式写「题型 {grid}」解析得到 {grid}", e.ask == grid and e.ask_kind == grid, e.ask)
@@ -180,13 +169,13 @@ _ents_p = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
 _ents_g = drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")
 _byfam, _srcfam = {}, {}
 for e in _ents_p:
-    if e.state == "在池" and not e.members and not e.essay_prose:
+    if e.state == "在池" and not e.members:
         _byfam.setdefault(e.fam, e.num)
         _srcfam.setdefault(e.fam, "P")
 # ★ 族覆盖⛔不许随档案缩水：某族的在池条目全毕业了（09-01 之后 F11 F15 F18 就是），
 #   就从 graduated.md 借一条来测 —— 这一段测的是**族的判据**，与条目死活无关。
 for e in _ents_g:
-    if e.fam not in _byfam and not e.members and not e.essay_prose:
+    if e.fam not in _byfam and not e.members and e.state in ("在池", "🎓"):
         _byfam[e.fam] = e.num
         _srcfam[e.fam] = "G"
 _missing = [f for f in drill.FAMILIES if f not in _byfam]
@@ -240,30 +229,18 @@ with sandbox(**_fixture(_num)) as d:
        (not has_period) or any("是**块**不是句" in m for m in lv(pr, "WARN")),
        (has_period, lv(pr, "WARN")))
 
-print("\n【D】作文验：状态行是真源，散文是理由")
+print("\n【D】作文验已取消：状态行再写它 ⇒ ERROR")
 with sandbox(p_text=set_grid(P, _A, "作文验")) as d:
     e, pr = probs(_A)
-    ck("标了作文验、散文里没理由行 ⇒ WARN",
-       any("没有那句理由行" in m for m in lv(pr, "WARN")), lv(pr, "WARN"))
-    ck("标了作文验 ⇒ essay_only 成立（不进复习组）", e.essay_only)
+    ck("状态行写「题型 作文验」⇒ ERROR（机制已取消）",
+       any("已取消" in m for m in lv(pr, "ERROR")), lv(pr, "ERROR"))
+    ck("作文验不在题型闭集里", "作文验" not in drill.ASKS and "作文验" in drill.ASK_RETIRED)
+    P2 = drill.plan_queues(drill.load_all(), "2026-09-15", drill.day_types(), "review")
+    ck("plan_queues 的排除档里不再有 essay 这一档",
+       "essay" not in P2["excluded"], sorted(P2["excluded"]))
     rc, out = run(drill.cmd_pick, Args(type="review"))
-    # 口径（2026-09-05 起）：挂作文验的条目**列在排除清单里**、⛔ 不出现在任何一组的卡片里
-    cards = "\n".join(l for l in out.split("\n") if l.startswith("  #"))
-    excl = out.split("⛔ 挂作文验")[1].split("\n\n")[0] if "⛔ 挂作文验" in out else ""
-    ck("pick 把挂作文验的列进排除清单", _A in excl, excl[:200])
-    ck("pick 不把它发进任何一组", _A not in cards, cards[:200])
-# ⚠️ **2026-09-06 改**：原来写死 `#0053` —— 那天她把作文验口径收窄，#0053 改回了「整句」
-#    并重写了触发点 ⇒ 散文里的「不出单点题」没有了 ⇒ 夹具当场失效（§0.6：⛔ 不许写死编号）。
-#    改成**按条件挑**：散文里写着「不出单点题」且状态行标了作文验的那一条，再把它的题型格去掉。
-_ESSAY_PROSE = next((e.num for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
-                     if e.essay_prose and e.ask == "作文验"), None)
-assert _ESSAY_PROSE, "⛔ 档案里挑不出「散文写着不出单点题 ＋ 状态行标了作文验」的条目"
-with sandbox(p_text=set_grid(P, _ESSAY_PROSE, None)) as d:   # 退回散文态
-    e, pr = probs(_ESSAY_PROSE)
-    ck("散文写着「不出单点题」、状态行没标 ⇒ 存量提示（INFO，不是 ERROR）",
-       any("回标成" in m for m in lv(pr, "INFO")) and not lv(pr, "ERROR"),
-       (lv(pr, "INFO"), lv(pr, "ERROR")))
-    ck("过渡期 essay_only 仍然认散文", e.essay_only)
+    ck("pick 抬头不再打「挂作文验 N 条」排除清单",
+       "条（题型 ＝ 作文验" not in out, out[:200])
 
 print("\n【E】count 的新 slug")
 with sandbox() as d:
@@ -273,25 +250,20 @@ with sandbox() as d:
     _txt = (open(os.path.join(d, "problems.md"), encoding="utf-8").read()
             + open(os.path.join(d, "graduated.md"), encoding="utf-8").read())
     _grep = lambda g: len(re.findall(r"^状态：.*｜\s*题型\s*" + g + r"\s*$", _txt, re.M))
-    _want = {"ask-essay": _grep("作文验"), "ask-phrase": _grep("词组")}
+    _want = {"ask-retired": _grep("作文验"), "ask-phrase": _grep("词组")}
     ck("期望值来自 grep 状态行（⛔ 不是 ask_kind 自己算的）",
-       _want["ask-essay"] > 0 and _want["ask-phrase"] > 0, _want)
-    ck("grep 出来的作文验条数 == ask_kind 数出来的（两个独立来源对得上）",
-       _want["ask-essay"] == sum(1 for e in ents if e.ask == "作文验"),
-       (_want["ask-essay"], sum(1 for e in ents if e.ask == "作文验")))
+       _want["ask-phrase"] > 0, _want)
     ck("grep 出来的词组条数 == ask_kind 数出来的",
        _want["ask-phrase"] == sum(1 for e in ents if e.ask == "词组"),
        (_want["ask-phrase"], sum(1 for e in ents if e.ask == "词组")))
-    for slug, want in (("ask-essay", _want["ask-essay"]), ("ask-phrase", _want["ask-phrase"])):
+    for slug, want in (("ask-retired", _want["ask-retired"]), ("ask-phrase", _want["ask-phrase"])):
         rc, out = run(drill.cmd_count, Args(type=slug))
         ck(f"count --type {slug} 跑得动且数对",
            rc == 0 and f"全档 {want} 条" in out, out[:200])
     rc, out = run(drill.cmd_count, Args())
-    ck("count 全表里有三个 ask-* slug",
-       all(s in out for s in ("ask-sentence", "ask-phrase", "ask-essay", "ask-todo")))
-    ck("ask-todo 现在是 0（44 条已回标，#0218 是并入不计）",
-       sum(1 for e in ents if e.essay_prose and e.ask_kind != "作文验"
-           and e.state in ("在池", "🎓")) == 0)
+    ck("count 全表里有 ask-* slug（作文验只剩 ask-retired 一个出口）",
+       all(s in out for s in ("ask-sentence", "ask-phrase", "ask-retired"))
+       and "ask-essay" not in out and "ask-todo" not in out)
 
 print("\n【F】pick 卡片认得词组")
 # ⚠️ **2026-09-06 放宽**：原来只拿 `_byfam[allowed_p[0]]` 一条去试，

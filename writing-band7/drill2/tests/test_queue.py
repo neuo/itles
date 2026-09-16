@@ -13,7 +13,7 @@
   B  有效上次：✅ ◎✅ ❌ 📖 △ 📋 进 ｜ ◎− ③ 📝 与被改判的行⛔不进
   C  rc（复检次数）：只数毕业日之后的 ✅ ◎✅ 📋 · 按天去重 · 回潮后归零
   D  逾期分与排序：单位是练习日（休息日不占位）· 在池：逾期分降序 → 掉过的优先 → 编号升序 · 复检：复检次数少 → 已等多 → 编号
-  E  剔除口径：退池／并入／挂作文验／本日已用／建号当天
+  E  剔除口径：退池／并入／本日已用／建号当天
   F  必出层：D-1 新建的全出 · 不受上限 · 不到期也出 · 今天已测过的不算
   G  配额与下溢：learn 3/1 · review 5/3 · 在池排不满 ⇒ 下溢 · 必出层超上限 ⇒ 下溢 0
      · --scope 只影响**打印**，⛔ 不改配额
@@ -346,8 +346,6 @@ ents_p = [
     entry("#9050"),                                              # 正常
     entry("#9051", state="退池"),
     entry("#9052", state="并入 #9050"),
-    entry("#9053", ask="作文验",
-          trigger="这一条挂作文验。⛔ **挂作文验，不出单点题**（2026-09-01）—— 理由。"),
     entry("#9054", rows=((TODAY, "③", "建号"),), last=TODAY),     # 建号当天
 ]
 p, g, lg = archive(ents_p, [], DAYS)
@@ -356,9 +354,7 @@ with sandbox(p, g, lg):
     due = {e.num for e in P["pool_due"]}
     ck("退池⛔不进队列", "#9051" not in due, due)
     ck("并入⛔不进队列", "#9052" not in due, due)
-    ck("挂作文验⛔不进队列", "#9053" not in due, due)
     ck("建号当天⛔不进队列", "#9054" not in due, due)
-    ck("挂作文验列进排除报告", "#9053" in {e.num for e in P["excluded"]["essay"]})
     ck("建号当天列进排除报告", "#9054" in {e.num for e in P["excluded"]["fresh"]})
     P2 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn",
                            used_ids={"#9050"})

@@ -308,9 +308,9 @@ print("\n【A3】建号当天不回考：第一条历史行 ＝ 今天 ⇒ 当�
 
 with sandbox() as d:                                   # 按条件挑一对，⛔ 不写死编号
     _p = [e for e in drill.load_all()
-          if e.in_pool and not e.essay_only and e.src == "problems.md"]
+          if e.in_pool and e.src == "problems.md"]
     TGT, CTL = _p[0].num, _p[1].num
-    ck("前提：从活档案按条件挑到了两条【在池 · 非挂作文验】的条目",
+    ck("前提：从活档案按条件挑到了两条【在池】的条目",
        TGT != CTL and TGT and CTL, (TGT, CTL))
 
 # 基线：两条都造成「建号日 ＝ OLD_DAY 的③建号行」⇒ 都是 untested ⇒ 学习日两条都该在池
@@ -508,7 +508,7 @@ print("\n【C】trigger：把 session 里当天用的中文题面搬回条目")
 
 _ents_p = drill.parse_file(os.path.join(WT, "problems.md"), "problems.md")
 _pool = [e for e in _ents_p
-         if e.state == "在池" and not e.is_phrase and not e.essay_only and e.trigger]
+         if e.state == "在池" and not e.is_phrase and e.trigger]
 A_NUM, B_NUM = _pool[0].num, _pool[1].num
 _grad = [e for e in drill.parse_file(os.path.join(WT, "graduated.md"), "graduated.md")][0].num
 _phrase = next(e.num for e in _ents_p if e.is_phrase)
@@ -626,7 +626,6 @@ print("  —— 输入坏了 ⇒ 整批不写 ／ 条目不适用 ⇒ 逐条跳�
 for label, mk, want in (
         ("🎓（住 graduated.md）", lambda: (None, None, _grad), "🎓"),
         ("题型 ＝ 词组",          lambda: (set_grid(P, B_NUM, "词组"), None, B_NUM), "词组"),
-        ("题型 ＝ 作文验",        lambda: (set_grid(P, B_NUM, "作文验"), None, B_NUM), "作文验"),
         ("状态 ＝ 退池",          lambda: (set_state_col(P, B_NUM, "退池"), None, B_NUM), "退池"),
 ):
     pt, gt, other = mk()
