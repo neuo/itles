@@ -253,6 +253,13 @@ class Entry:
         return self.ask == ASK_OUTPUT or M_NOREVIEW in self.marks
 
     @property
+    def no_ask_any(self):
+        """**不出中译英题**的全部口径 —— 题面节写说明即可，⛔ 不要求引号句：
+        题型 产出验 ／ 旧标记「复习组停出」／ `形态类·不召回` ／ `⚪ 只记录·不出题` ／ `拼写类·不召回`。
+        ⛔ 别再拿题型格当这个判据：形态类靠标记挡，题型格回默认后照样不出题。"""
+        return self.no_ask or bool(self.marks & {M_MORPH, M_ONLYLOG, M_SPELL})
+
+    @property
     def active(self):
         """会参与出题/统计的（排除墓碑）"""
         return not self.tomb
@@ -861,7 +868,7 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "状态行读不出「上次<YYYY-MM-DD|—>」"))
     if e.kind is None:
         P.append(("WARN", "缺「类型」字段（元信息行 `类型 X ｜ 旧号 B…／新建 YYYY-MM-DD`）"))
-    if not e.body_v3 and not e.graduated and not e.prompt and e.ask_kind != ASK_OUTPUT:
+    if not e.body_v3 and not e.graduated and not e.prompt and not e.no_ask_any:
         P.append(("WARN", "未毕业却没有题面字段 —— 抽到它就必须当场补成完整中文句"))
     if not e.history and not e.graduated:
         P.append(("ERROR", "一条历史行都没有"))
@@ -944,7 +951,7 @@ def check_body(e):
     for s in ("问题是什么", "怎么发现的", "我错在哪"):
         if s in e.sections and not e.section_text(s).strip():
             P.append(("ERROR", f"「{s}」节是空的（§3.1 契约⑪）"))
-    if "题面" in e.sections and e.ask_kind != ASK_OUTPUT:
+    if "题面" in e.sections and not e.no_ask_any:
         if not e.prompt:
             P.append(("ERROR", "「题面」节是空的 —— 整句/词组题出不了题（§3.1 契约⑫）"))
         elif not prompt_quotes(e):
@@ -1028,7 +1035,9 @@ def check_ask(e):
                                f"`｜ 题型 整句／词组／产出验`（§6.0）"))
         return P
     qs, ps = prompt_quotes(e), prompt_parens(e)
-    if e.ask == ASK_PHRASE:
+    # 永不出题的（形态类／只记录／拼写类／停出／产出验）：题面节写的是说明，
+    # 拿里面的引号去查「是不是完整句」「带不带句号」全是假阳性 ⇒ 这两支跳过。
+    if e.ask == ASK_PHRASE and not e.no_ask_any:
         for q in qs:
             if any(ch in q for ch in SENT_END):
                 P.append(("ERROR", f"题型是词组，题面引号句却带句号：「{q}」—— "
@@ -1038,7 +1047,7 @@ def check_ask(e):
             if hit:
                 P.append(("ERROR", f"题型是词组，提示里却写着「{hit[0]}」：（{p}）—— "
                                    f"提示把要她产出的形式从块改成了句（§6② 红线：提示⛔不许改变产出形式）"))
-    elif e.ask == ASK_SENTENCE:
+    elif e.ask == ASK_SENTENCE and not e.no_ask_any:
         for q in qs:
             if not q.rstrip().endswith(SENT_END):
                 P.append(("ERROR", f"题型是整句，题面引号句却不是完整句：「{q}」—— "
