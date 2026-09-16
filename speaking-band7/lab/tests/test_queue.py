@@ -305,8 +305,6 @@ P = archive([
           status="状态 连对0 连错1 上次2026-08-01 未毕业 ｜ 只记录·不出题"),
     entry(72, "spell", rows=["- 2026-08-01 ❌ x"],
           status="状态 连对0 连错1 上次2026-08-01 未毕业 ｜ 拼写类·不召回"),
-    entry(73, "noreview", rows=["- 2026-08-01 ❌ x"],
-          status="状态 连对0 连错1 上次2026-08-01 未毕业 ｜ 复习组停出"),
     entry(74, "today-made", rows=[f"- {TODAY} 新建 她点名"],
           status="状态 连对0 连错0 上次— 未毕业"),
     entry(75, "ok", rows=["- 2026-08-01 ❌ x"],
@@ -318,7 +316,7 @@ with sandbox(p_text=P, g_text="# 已毕业档\n", sessions=False) as d:
     mk_sessions(d)
     lab._PDAYS = None
     st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
-    for n, why in ((70, "形态类"), (71, "只记录"), (72, "拼写类"), (73, "复习组停出")):
+    for n, why in ((70, "形态类"), (71, "只记录"), (72, "拼写类")):
         ck(f"负向：#{n}（{why}）不进队列", f"#{n}" not in out.split("在池组")[1])
     ck("负向：今天刚建号的不回考（#74 不出）", "#74" not in out.split("在池组")[1])
     ck("负向：墓碑条目不进队列（#76 不出）", "#76" not in out.split("在池组")[1])

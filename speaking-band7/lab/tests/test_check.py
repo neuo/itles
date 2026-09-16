@@ -214,21 +214,24 @@ ck("新建 ≥ ASK_FROM 缺格 ⇒ ERROR", any("缺「题型」格" in m for m i
 e = _errs(_ent(9608, "搭配", "\"空气污染的主因\"（用 cause 说）", "", created="2026-09-10"), 9608)
 ck("新建 < ASK_FROM 缺格 ⇒ 不报（⛔ 存量不跑形式检查）", not e, e)
 
-head("【K6 正】题型 产出验 ⇒ 不进两条队列（≡ 旧标记「复习组停出」）；旧标记反过来读成产出验")
+head("【K6】题型闭集只剩 整句／词组；产出验已取消 ⇒ 写它报 ERROR")
 with sandbox(p_text="# 问题总表\n\n---\n\n"
-             + _ent(9609, "结构", "【不出中译英题，挂自由产出抓】", " ｜ 题型 产出验")
-             + "\n" + _ent(9610, "结构", "【用英文答 3 句】", " ｜ ⛔ 复习组停出")
+             + _ent(9609, "结构", "【不出中译英题，挂自由产出抓】", " ｜ ⚪ **只记录·不出题**")
+             + "\n" + _ent(9610, "结构", "【用英文答 3 句】", " ｜ 题型 产出验")
              + "\n" + _ent(9611, "词组", "\"把桌上收拾了\"", " ｜ 题型 词组"),
              g_text=G0, sessions=False):
     E = {x.num: x for x in lab.load_all()}
-    ck("产出验 ⇒ 不 drawable、不 recallable", not E[9609].drawable and not E[9609].recallable)
-    ck("旧标记 复习组停出 ⇒ ask_kind 读成 产出验", E[9610].ask_kind == lab.ASK_OUTPUT)
+    ck("只记录·不出题 ⇒ 不 drawable、不 recallable", not E[9609].drawable and not E[9609].recallable)
+    ck("题型写 产出验 ⇒ check 报「已取消」ERROR",
+       any("已取消" in m for _l, m in lab.check_ask(E[9610]) if _l == "ERROR"),
+       lab.check_ask(E[9610]))
+    ck("产出验不在闭集里", "产出验" not in lab.ASKS and "产出验" in lab.ASK_RETIRED)
     ck("词组 ⇒ 照常 drawable", E[9611].drawable)
-    ck("没写题型格 ⇒ ask 为 None、ask_kind 默认 整句", E[9610].ask is None and E[9611].ask == lab.ASK_PHRASE)
+    ck("没写题型格 ⇒ ask 为 None、ask_kind 默认 整句", E[9609].ask is None and E[9611].ask == lab.ASK_PHRASE)
     ck("题型 词组 ⇒ bundlable（不看类型标签）", lab.bundlable(E[9611]))
     st, rc, out = run(lab.cmd_count, Args())
-    ck("count 表里有 ask-sentence／ask-phrase／ask-output／ask-unmarked 四行",
-       all(k in out for k in ("ask-sentence", "ask-phrase", "ask-output", "ask-unmarked")), out[-600:])
+    ck("count 表里有 ask-sentence／ask-phrase／ask-retired／ask-unmarked 四行",
+       all(k in out for k in ("ask-sentence", "ask-phrase", "ask-retired", "ask-unmarked")), out[-600:])
 
 head("【K6 正】题型 整句 显式标了 ⇒ 即使类型是搭配也⛔不打包；未标的搭配沿用旧口径打包")
 with sandbox(p_text="# 问题总表\n\n---\n\n"

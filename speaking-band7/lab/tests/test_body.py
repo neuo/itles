@@ -164,7 +164,7 @@ EMPTYMEM = HDR + v3(status="状态 连对0 连错0 上次— 未毕业 ｜ **合
 with sandbox(p_text=EMPTYMEM, g_text=GHDR) as d:
     ck("空账 ⇒ ERROR", any("是空的" in m for m in errs(9501)), errs(9501))
 
-head("【B8 负】题面节空／没引号句 ⇒ ERROR；产出验条目题面节可写说明")
+head("【B8 负】题面节空／没引号句 ⇒ ERROR；永不出题的条目题面节可写说明")
 EMPTYQ = HDR + v3(prompt="")
 with sandbox(p_text=EMPTYQ, g_text=GHDR) as d:
     ck("题面节空 ⇒ ERROR", any("题面」节是空的" in m for m in errs(9501)), errs(9501))
@@ -172,10 +172,10 @@ with sandbox(p_text=EMPTYQ, g_text=GHDR) as d:
 NOQ = HDR + v3(prompt="到目的地怎么走（用 get 说）")
 with sandbox(p_text=NOQ, g_text=GHDR) as d:
     ck("没引号句 ⇒ ERROR", any("没有引号句" in m for m in errs(9501)), errs(9501))
-OUT = HDR + v3(status="状态 连对0 连错0 上次— 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 产出验",
+OUT = HDR + v3(status="状态 连对0 连错0 上次— 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句",
                prompt="不出中译英题；挂自由产出抓（get 后面挂地点没有 to）")
 with sandbox(p_text=OUT, g_text=GHDR) as d:
-    ck("产出验的题面节是说明，⛔ 不报引号句", not any("引号句" in m for m in errs(9501)), errs(9501))
+    ck("永不出题的条目题面节是说明，⛔ 不报引号句", not any("引号句" in m for m in errs(9501)), errs(9501))
 
 head("【B9 负】「我错在哪」没写找法 ⇒ WARN；空节 ⇒ ERROR")
 NOFIND = HDR + v3(wrong="她的：get the destination　正确：get to the destination")
