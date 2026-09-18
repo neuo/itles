@@ -6293,3 +6293,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **教练犯规 6 条**（session 收尾节）：复检出题表 `[n]` 行首撞 deliver（09-13 撞过）· 连续三处误判（gotta／社团介词／be broken，均她判手滑）· 用 python 改档案违反手工纪律 · 自造"降格会过期"第三种状态 · 第 3 组发出后才重排
 
 **明天 ＝ 周期 6 · L3**：`ls sessions/` → `stats` → `pick --type learn`（按 09-16 预览：到期 47 ＝ 在池 12 ／ 复检 35）；新题 1 道；回看 → bank:1059
+
+## 2026-09-18（周五）· 口语 L3（周期 6 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 323 ＝ problems.md 16 ＋ graduated.md 307 ｜ 🎓 307（95.0%）｜ 未毕业 16 ｜ 可出题 6 ｜ 连对1 5 ｜ 连错≥2 0 ｜ 队列到期剩 5（在池 0／复检 5）｜ ⚡ 累计 108、掉过 2（校准 2%）｜ 重答队列 36 / 未重答 26
+
+**四段**
+- ① 在池 2 组 12 题（到期 12 条全排完）：✅12 ❌0 ⇒ 毕业 8（#167 #282 #301 #330 #335 #336 #339 #341）
+  · #345 `he debugged on his own device`：先判 ❌（条目规则把 device 当错），她异议"computer 就是 device" ⇒ 改判 ✅，条目「⛔ 统称」半条收回
+  · #335 句里"更愿意"又丢了 more ⇒ ⚪ #7；09-13 同一处当天漏记，今天补一行
+- ①b 复检 2 组（1 ＋ 在池下溢 1）：发出 20 题 / 32 条，⚡ 29，参与判定 3 条，✅2 ❌1 ⇒ 回潮 1（#212 speechless）
+- ② 回看 bank:1059（09-15 P2），S9 附一行更正（device 合法）
+- ④ 新题 bank:353（P3 哪些体育项目受欢迎）：70 词，真错 0；⚠️ 4 处全在层2（popular vs common 没点破 · place→space · football 用 field · 书面 whereas→while）；自发命中 #58 #262
+- 题面整改 18 条（在池 6 ＋ 复检 12，全是第二译法：There's no need／move past／praiseworthy／take the leap／drove up／from his laptop／we 当主语／written with／省关系词／leave stuff around／addicted／his or her／fun stuff／His English is good／launch／order in …）
+
+**教练犯规 3 条**（session ④）：#345 按写过头的规则判 ❌ · 09-13 漏记 ⚪ #7 · 复检题面一批没过第 7 项
+
+**下一场 ＝ 周期 6 · R 付息日**：`ls sessions/` → `stats` → `pick --type review`；dry-run 到期 30 ＝ 在池 4／复检 26；⓪ 回看 bank:238／1059／353；c 段核 #212 与 🎓#163 的"说不出话"互斥；d 段重答；⛔ 不出新题

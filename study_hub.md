@@ -8,6 +8,18 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-18 · 口语 L3（周期 6 第 3 个学习日）· 已收尾**
+  —— 在池 **2 组 12 题**（到期 12 条全排完）：✅12 ❌0 ⇒ **毕业 8**（#167 There's no rush · #282 take ownership ·
+  　　 #301 enjoy MY time · #330 set his mind to · #335 take action · #336 get to · #339 reach sb · #341 deserve praise）
+  　　 ★ #345 on his own device：先判 ❌（条目写着 device 算错），她指出"computer 就是 device" ⇒ 改判 ✅、规则收回
+  —— 复检 **2 组 20 题 / 32 条**（1 ＋ 在池下溢 1）：⚡ 免测 29 条 ⇒ 参与判定 3 条，✅2 ❌1 ⇒ **回潮 1**（#212 气得说不出话 ＝ speechless）
+  —— 回看 bank:1059 ｜ 新题 bank:353（哪些体育项目受欢迎）：70 词，**真错 0**；⚠️ 4 处全在词的精确度（popular vs common 没点破 · place→space · 足球场是 field · 书面 whereas）
+  　　 comes down to 连续第四篇自己用出来；Then again 位置用对
+  —— 题面整改 18 条（第二译法硬阻断；复检那批 09-05 之后没过第 7 项）· ⚪ #7 更→more 两次（含 09-13 补记）
+  —— 教练犯规 3 条（详见 session ④）
+  —— 全档 323 ｜ 🎓 307（95.0%）｜ 未毕业 16 ｜ 可出题 6 ｜ 队列到期剩 5（在池 0 ／ 复检 5）｜ ⚡ 累计 108（掉过 2）｜ 重答队列 36 / 未重答 26
+  —— 下一场 ＝ **周期 6 · R 付息日**：dry-run 到期 30 ＝ 在池 4（1 组）／复检 26；⓪ 回看本周期三篇；c 段核 #212／#163 互斥；d 段重答；⛔ 不出新题
+
 🆕🆕🆕 **2026-09-15 · 口语 L2（周期 6 第 2 个学习日）· 已收尾**
   —— 在池 **2 组 19 题**（到期 19 条全排完）：✅19 ❌0 ⇒ **毕业 11**（#32 There's no point · #34 in groups ·
   　　 #49 人称一致 · #86 go on a trip／where to stay · #152 the first time · #273 fine sb FOR · #279 get a feel FOR ·
