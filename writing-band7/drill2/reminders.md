@@ -384,6 +384,14 @@ R5                            管【复数／不可数泛指】：the younger pe
      `the main reason for` · `the past decade` · `a specialist`（复数泛指零冠词 doctors／patients／
      specialists 三处）· `public transport`／`private car ownership`（抽象名词泛指零冠词两处）
    ⇒ 全天 R5 命中 **1 处**（组1 组2 各零命中）
+
+2026-09-19 复检组1 第 1 题　`coffee is good for **heart**` → `good for **the** heart`
+   ★★ **本账第一次记到「掉了 the」这个方向** —— 前面五个形状全是"多出来的 the"或 a／an 选错；
+     这一次是**泛指一个身体器官**（心脏这一类）该带 the 却没带：good for the heart · bad for the liver
+   ★ 同日四组冠词守住的：`the lower grades`（09-07 进更好版的那一格，今天自己带上了）· `an ongoing economic slowdown` ·
+     `a contentious topic` · `a strict curfew` · `the construction of the new office building` · `a fine of two million` ·
+     零冠词泛指：`online shopping` · `obesity` · `mobile payment` · `immigration` · `human life` · `investment in education`
+   ⇒ 全天 R5 命中 **1 处**（在池三组零命中，复检组 1 处）
 ```
 
 ---
