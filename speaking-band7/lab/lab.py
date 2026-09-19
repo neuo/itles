@@ -1473,6 +1473,15 @@ def judge_val(raw):
 RE_NUMS = re.compile(r"#(\d+)")
 RE_SBLOCK = re.compile(r"^\[S(\d+)\]")
 RE_LOOK_NONE = re.compile(r"无(（|$|\s)")
+# 回看节必须把原篇四件套逐字写进 session（§4② §5⓪ §9.1⑦）—— 这天起写的回看节硬查
+LOOK_FROM = "2026-09-19"
+# session 首行的日型标记：`# 2026-09-11 · **R**（付息日 …）`
+RE_R_HEAD = re.compile(r"·\s*\*\*R\*\*")
+# 四件套在原篇里的 `###` 小节：(显示名, 标题里认的关键词)。⛔ 五层诊断不在四件套里
+QUAD_KEYS = [("题目原文", "题目"), ("她的原话", "原话"), ("① 最小修改版", "最小修改版"),
+             ("② 更好版", "更好版"), ("③ 逐句 diff", "逐句")]
+# 原篇缺了这几节 ⇒ 原篇本身写歪了，回看无从逐字取
+QUAD_MUST = ("原话", "最小修改版", "更好版")
 # 认不出的 `##` 里，只有这些算「把上一节收掉」（其余一律并入当前节）
 RE_SEC_CLOSE = re.compile(r"收尾|本日纵向|待她裁|明天进场")
 
@@ -1841,7 +1850,40 @@ def check_session(sc, only=None):
                 P.append((LV, loc,
                           f"回看节标题没写回看的是哪一篇：`{t[:44]}` —— "
                           f"§9.1 要求写 `## ② 回看 · bank:NNN`（没得回看写 `· 无（理由）`）"))
+            elif sc["date"] >= LOOK_FROM and not RE_LOOK_NONE.match(rest):
+                for f_ in _look_faults(sc, sec):
+                    P.append(("ERROR", loc, f_))
     return P
+
+
+def _look_faults(sc, sec):
+    """回看节的四件套逐字闸（§9.1⑦）→ [说明]。
+    标题里列了哪几篇，每一篇的原篇四件套（题目原文／原话／最小改／更好版／逐句 diff）
+    **每一个内容行**都必须在本节里逐字出现（行首尾空白不计）。
+    ⛔ 多写不管（旁注、更正行照样允许）；少一行就是压缩／截断／漏篇。"""
+    out = []
+    body = {sc["lines"][i].strip() for i in range(sec["start"], sec["end"])
+            if sc["lines"][i].strip()}
+    for pid in _ids_of(sec["title"]):
+        src = find_free_source(pid, sc["date"])
+        if not src:
+            out.append(f"回看 {pid}：在 {sc['date']} 之前的 session 里找不到这篇自由产出的原篇"
+                       f"（`## ③ 新题 …（bank:NNN）`／`## d 段 重答 · RN`）⇒ 标题写错了题号？")
+            continue
+        where = f"{src['file']}:L{src['line']}"
+        lack = [n for n, k in QUAD_KEYS if k in QUAD_MUST and k not in src["parts"]]
+        if lack:
+            out.append(f"回看 {pid}：原篇 {where} 解析不出「{'／'.join(lack)}」节 "
+                       f"⇒ 原篇写歪了（§9.1③），无从逐字转述")
+            continue
+        for name, key in QUAD_KEYS:
+            need = _quad_need(src["parts"].get(key, []))
+            miss = [x for x in need if x not in body]
+            if miss:
+                out.append(f"回看 {pid} 的「{name}」少了 {len(miss)}／{len(need)} 行"
+                           f"（原篇 {where}）：`{miss[0][:48]}` —— "
+                           f"跑 `lab.py lookback --print {pid}` 原样贴进本节（§4②：⛔ 不许压缩、不许省篇）")
+    return out
 
 
 def _diff_seg(body, label):
@@ -2008,6 +2050,113 @@ def cmd_deliver(args):
 #  lookback —— 哪几篇自由产出还没被回看过（SKILL §4② / §5⓪）
 #     ⛔ 只读：不写任何文件。
 # ══════════════════════════════════════════════════════════════════════════
+def _ids_of(title):
+    """节标题里的题号 → ['bank:238', 'R10', …]（顺序同标题）"""
+    return (["bank:" + m.group(1) for m in RE_BANK.finditer(title)] +
+            ["R" + m.group(1) for m in RE_REDO_ID.finditer(title)])
+
+
+def _quad_parts(sc, sec):
+    """自由产出节 → {关键词: [原文行]}：四件套各小节 `###` 标题之后、下一个 `###` 之前的原文。
+    ★ 围栏照留（贴回去还是代码块）；围栏外的 ★ 注释行与空行不算四件套。"""
+    lines, heads = sc["lines"], []
+    for i in range(sec["start"], sec["end"]):
+        if i in sc["infence"]:
+            continue
+        m = RE_H3.match(lines[i])
+        if m:
+            t = m.group(1)
+            key = next((k for _, k in QUAD_KEYS
+                        if k in t and not (k == "更好版" and "最小" in t)), None)
+            heads.append((i, key))
+    out = {}
+    for n, (i, key) in enumerate(heads):
+        if key is None or key in out:
+            continue
+        j = heads[n + 1][0] if n + 1 < len(heads) else sec["end"]
+        keep, inf = [], False
+        for l in lines[i + 1:j]:
+            if l.startswith("```"):
+                inf = not inf
+                keep.append(l)
+            elif inf or (l.strip() and not l.strip().startswith("★")):
+                keep.append(l)
+        out[key] = keep
+    return out
+
+
+def _quad_need(part):
+    """一个小节里必须逐字出现的内容行（去掉围栏记号与空行，首尾空白不计）。"""
+    return [l.strip() for l in part if l.strip() and not l.startswith("```")]
+
+
+def find_free_source(pid, before):
+    """→ 题号为 pid、日期早于 before 的**最近一篇**自由产出原篇：
+    dict(file, date, line, parts)；找不到 → None。
+    同一份 session 里同一题号的几个节（抽题记录＋逐题记录）合并取四件套。"""
+    if not os.path.isdir(SESSIONS):
+        return None
+    best = None
+    for f in sorted(os.listdir(SESSIONS)):
+        m = RE_SESS_NAME.match(f)
+        if not m or m.group(1) >= before:
+            continue
+        sc = scan_session(os.path.join(SESSIONS, f))
+        parts, line = {}, None
+        for s in sc["sections"]:
+            if s["kind"] not in ("new", "redo", "extra") or pid not in _ids_of(s["title"]):
+                continue
+            line = line or s["line"]
+            for k, v in _quad_parts(sc, s).items():
+                parts.setdefault(k, v)
+        if line:
+            best = dict(file=f, date=sc["date"], line=line, parts=parts)
+    return best
+
+
+def cycle_free_ids(today):
+    """本周期（最后一个付息日之后、今天之前）全部自由产出的题号，按日期顺序。"""
+    files = sorted(f for f in os.listdir(SESSIONS)
+                   if RE_SESS_NAME.match(f) and f[:10] < today) if os.path.isdir(SESSIONS) else []
+    last_r = None
+    for f in files:
+        with open(os.path.join(SESSIONS, f), encoding="utf-8") as fh:
+            if RE_R_HEAD.search(fh.readline()):
+                last_r = f
+    news, _ = scan_all_sessions()
+    ids = []
+    for x in news:
+        if x["id"] and x["file"] in files and (last_r is None or x["file"] > last_r) \
+                and x["id"] not in ids:
+            ids.append(x["id"])
+    return ids
+
+
+def print_quads(ids, today):
+    """把每一篇的四件套原文打出来 —— 原样贴进 session 的回看节，同一段发聊天（§4②）。"""
+    rc = 0
+    for pid in ids:
+        src = find_free_source(pid, today)
+        if not src:
+            print(f"⛔ {pid}：{today} 之前找不到这篇自由产出的原篇")
+            rc = 1
+            continue
+        print(f"### 回看 · {pid}（原篇 {src['file']}:L{src['line']} · 逐字）")
+        print()
+        for name, key in QUAD_KEYS:
+            part = src["parts"].get(key)
+            if not part:
+                if key in QUAD_MUST:
+                    print(f"⛔ 原篇缺「{name}」节")
+                    rc = 1
+                continue
+            print(f"**{name}**")
+            print()
+            print("\n".join(part))
+            print()
+    return rc
+
+
 def scan_all_sessions():
     news, looked = [], {}
     if not os.path.isdir(SESSIONS):
@@ -2036,6 +2185,16 @@ def scan_all_sessions():
 
 def cmd_lookback(args):
     today = args.date or date.today().isoformat()
+    if args.print_ids or args.cycle:
+        ids = list(args.print_ids or [])
+        if args.cycle:
+            ids += [x for x in cycle_free_ids(today) if x not in ids]
+        if not ids:
+            print("（本周期没有自由产出 ⇒ 回看节写 `## ⓪ 回看 · 无（理由）`）")
+            return 0
+        print(f"<!-- lab.py lookback --print · {today} · 回看节标题写：回看 · {' · '.join(ids)} -->")
+        print()
+        return print_quads(ids, today)
     news, looked = scan_all_sessions()
     W = "═" * 78
     print(W)
@@ -3163,6 +3322,10 @@ def main():
 
     p = sub.add_parser("lookback", help="哪几篇自由产出还没被回看过（§4②，只读）")
     p.add_argument("--date", help="把哪一天当「今天」（默认今天）")
+    p.add_argument("--print", dest="print_ids", nargs="+", metavar="ID",
+                   help="打出这几篇（bank:NNN／RN）的四件套原文，原样贴进回看节")
+    p.add_argument("--cycle", action="store_true",
+                   help="打出本周期全部自由产出的四件套（付息日 ⓪ 用）")
     p.set_defaults(func=cmd_lookback)
 
     p = sub.add_parser("prompts", help="题面逐字核对（§6）：打档案原文 ／ --verify 比发题稿")
