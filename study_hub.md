@@ -8,6 +8,20 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-19 · 口语 R（付息日 · 周期 6 收尾）· 已收尾**
+  —— a 在池 **1 组 4 题**：✅3 ❌1 ⇒ **毕业 2**（move on／move forward · opening hours）；❌ a step up **for** that（该 from）
+  —— ⓪ 回看本周期 3 篇 ＋ 她点名重看 09-09 那篇（鼓励儿子闯障碍赛道）
+  —— a2 复检 **发出 17 题 / 26 条**：⚡ 免测 25 ⇒ 参与判定 1 条 ✅1 ｜ 回潮 0
+  —— c 段：合并 0 · 拆号 0 · "说不出话"两条互斥写进卡片 · look up 那条题面改开（原来夹带 opening hours）
+  —— d 重答 3 道（R11 吃饭 · R12 app · R13 读书 vs 博物馆）：真错 0／1／1 ⇒ **并列同形回潮 1** · **新建 #346** "…所在" ＝ where X lies
+  —— ★★ 结构性变更两项：
+  　　 ① **回看四件套进闸**：`lookback --print／--cycle` 打原文 → 原样贴进 session → `deliver` 逐字核对（起因：教练以"发过了"压缩两篇回看，她追问"为啥省略、为什么没脚本化"）
+  　　 ② **更地道的表达一律建号**（§3.2b，她定"本质就是学习更地道的表达"）⇒ 当场补建 #347 For X, they · #348 the food tastes better · #349 online · #350 let your imagination run wild
+  —— 卡片改正：a sense of ritual 合法（原卡片写"只收五个词"）
+  —— 教练犯规 4 条（详见 session ④）
+  —— 全档 328 ｜ 🎓 308（93.9%）｜ 未毕业 20 ｜ 可出题 10 ｜ 队列到期剩 0 ｜ ⚡ 累计 132（掉过 2）｜ 重答队列 36 / 未重答 23
+  —— 下一场 ＝ **周期 7 · L1**：dry-run 到期 50 ＝ 在池 10（1 组，含 5 条新建首测）／复检 40（3 组）；回看 R13（先 lookback --print）；新题 1 道
+
 🆕🆕🆕 **2026-09-18 · 口语 L3（周期 6 第 3 个学习日）· 已收尾**
   —— 在池 **2 组 12 题**（到期 12 条全排完）：✅12 ❌0 ⇒ **毕业 8**（#167 There's no rush · #282 take ownership ·
   　　 #301 enjoy MY time · #330 set his mind to · #335 take action · #336 get to · #339 reach sb · #341 deserve praise）

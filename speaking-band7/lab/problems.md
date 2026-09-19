@@ -527,6 +527,72 @@
   —— shown 只活在助动词后面；同一组里 `he was two`／`I haven't seen` 都做对了 ⇒ §3.4 判形态类
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 
+### 98 · 并列两边必须同形（语法功能相同 ＋ 可数性/单复数要齐）
+类型 结构 ｜ 旧号 B168＋B240
+状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-19**（08-20 毕业 → 09-19 重答 R12 里 `know … even guessing what …` 第三项接不回 know，撤销毕业、连对清零）
+
+**问题是什么**
+**并列两边必须同形**：语法功能相同 ＋ 可数性／单复数要齐。
+· 功能相同：`like hobbies, or just being with your kids`——名词 vs 动名词短语，同为 like 的宾语 ⇒ **成立**
+　（08-20 那一行明文锁死过这个判据，09-05 反用它判 ❌ 就是假错）
+· 数要齐：`sweets and biscuits`
+· 三项并列也不打折：`turning up on time, meeting your deadlines, and getting along with your colleagues`
+判据一句话：把两边分别接回前面那个词念一遍，都接得上才是同形。
+★ 本条 ＝ 原 #151（并列两边可数性/单复数要齐）2026-08-19 并入 —— 同一条规则的两个面，题面保留两句各测一面。
+
+**怎么发现的**
+旧 B 表迁移（B168＋B240，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅；2026-08-17 ❌ 同日回潮。
+2026-08-19 ✅ ／ 2026-08-20 ✅ ⇒ 连对 2，毕业。
+2026-09-01 与 2026-09-03 两篇新题 P3 里自发命中共五处（三项并列、neither 两边、共用一个 to 的两个动词）。
+2026-09-05 那次记的 ❌ 已于 2026-09-07 按 §3.1⑩ **改判 ✅**（母语句反证见当天行）；2026-09-07 复习 ✅ 两句都中。
+
+**我错在哪**
+她的：2026-08-17 记过一次 ❌（触发原话未存）；09-05 那次是**教练判错**，已改判 ✅。
+找法：把并列的两边分别接回前面那个词念一遍 —— 都接得上才算同形。
+
+**题面**
+"下班后有时间做点别的，比如爱好，或者就是陪陪孩子。" ／ "蛋糕上面那些字是用糖果和饼干拼的。"
+
+- 2026-08-09 ✅
+- 2026-08-11 ✅
+- 2026-08-17 ❌ 同日回潮 ｜同日原 #151 记 ✅ ⇒ 一对一错，保守记 ❌
+- 2026-08-19 ✅ `like hobbies, or just being with your kid` ＋ `sweets and biscuits`（功能同形＋数齐，两面都中）
+- 2026-08-20 ✅ `like hobbies or just being with your kids`（名词 vs 动名词，语法功能相同 ⇒ 同形成立，
+  判据与 08-19 一致，没改口）＋ `sweets and biscuits`（数也齐）
+  ★ 同句自发命中 🎓#162：`spelt out **in** sweets`（08-17 曾写成 spelt out OF）
+- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇三处**
+  ① S3 三项全 -ing：`turning up on time, meeting your deadlines, and getting along with your colleagues`
+  ② S5 neither 两边同形：`neither log in nor place orders`（都是光动词原形）
+  ③ S6 两项同形：`doing your share and not causing problems for the team`
+  ★ 一篇 98 词里三处并列全部同形，且最难的 S3 三项没打折。
+- 2026-09-03 📝 新题 P3（bank:831）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇两处**
+  ① `like **how to pay**, **how to video call**, that kind of thing` —— 两项齐平（how to ＋ 原形）
+  ② `to **keep up with** what's going on or **better understand** their grandchildren's interests`
+     —— 两个动词共用前面那一个 to，语法功能相同
+  ★ 长句里并列还能保持同形，是本篇结构上最稳的一处。
+- 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· 句 1 并列两边**不同形**：
+  hobbies（名词）／being with your kids（动名词短语）
+  原句 `After work, you have some time to do other things like hobbies or just being with your kids.`
+  最小改 `After work, you have some time to do other things like hobbies or just time with your kids.`
+  ⚠️ **本条已于 2026-09-07 改判为 ✅**（§3.1⑩ 原行留痕）——
+  改判理由：08-20 那一行白纸黑字锁死过判据「名词 vs 动名词，语法功能相同 ⇒ 同形成立，
+  判据与 08-19 一致，没改口」，而 09-05 的原句与 08-20 判 ✅ 的原句几乎逐字相同 ⇒ 09-05 那次是假错。
+  母语句反证：`After work you've got time for other things — hobbies, or just spending time with the kids.`
+  完全自然：动名词短语本身是名词性成分，与 hobbies 并列时语法功能相同（同为 like 的宾语）。
+  同日句 2 `These letters on the cake is written in sweets and biscuits.` —— 本条考点（数齐）
+  sweets and biscuits **中**；`letters … is` 是主谓一致 ⇒ 形态类归 ⚪#10，⛔ 不落在本条头上。
+  ⇒ 09-05 的回潮一并撤销，状态行改回 🎓（连对2 仍冻结在 2026-08-20）。
+- 2026-09-07 ✅ 复习 · 在池第 4 组 · `After work, you can do something else, like hobbies, or just spending time with the kids.`
+  ／ `The words on the cake are spelled out with sweets and biscuits.`
+  —— 句 1 并列两边语法功能相同（都是 like 的宾语、都是名词性）；句 2 数齐 sweets and biscuits ＋ The words **are**
+  ★ 与 08-19／08-20 判 ✅ 的那两次同形 ⇒ 本题连带触发 09-05 那次 ❌ 的改判（见该行行尾）
+- 2026-09-19 ❌ 付息日 d 段重答 R12（P3 · 自由产出）· `tech giants know everything about you—where you live, your preferences, even guessing what you're craving today`
+  最小改 `…where you live, your preferences, even what you're craving today`
+  ❌ 破折号后三项都挂在 know 上：know where you live ✓ · know your preferences ✓ · know even guessing … ✗ ⇒ 第三项接不回 know ⇒ **回潮**
+- 备注 自测法：把两边分别接回前面那个词念一遍
+- 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
+  题面保留两句，一句测"功能相同"、一句测"数要齐"
+
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
 类型 语法 ｜ 旧号 B236
@@ -631,7 +697,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 212 · 压缩出来的形容词两个出口（表语最省）
 类型 结构 ｜ 旧号 B149
-状态 连对0 连错1 上次2026-09-18 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-18**（08-15 毕业 → 09-05 复检 ✅ → 09-18 复检答"忘了"，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-19 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-18**（08-15 毕业 → 09-05 复检 ✅ → 09-18 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **压缩出来的形容词两个出口，表语最省**：把中文"…得…不…"这种程度补语压成**一个形容词**放表语位 ——
@@ -641,6 +707,8 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 　**堵车那个形容词 ⇒ #107（词汇）／ 把"…得…不…"压成表语形容词 ⇒ 本条（结构）。**
 　沿革：本条题面撞过两次（先撞 #108 packed、再撞 #107），现已换成"他气得说不出话。"
 判据一句话：中文那一长串补语能不能压成一个形容词？能就放到 be 后面。
+★ 与 🎓#163（"愣住了／说不出话" ＝ I just stood there／I froze）分工：那条走**动作**、题面排除 speechless；
+　本条走**表语形容词**，speechless 正是合法答案之一 ⇒ 两条题面不同句（"气得说不出话" vs "愣在那儿"）、考点不同，互斥成立。
 
 **怎么发现的**
 旧 B 表迁移（B149，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
@@ -670,77 +738,10 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-18 ❌ 复检 · 学习日 复检第 4 组 · 答"忘了"（§3.3「忘了/不会」＝ ❌）⇒ **回潮**
   最小改 `He was speechless.`
   ❌ "…气得说不出话"这一长串补语压成一个形容词放 be 后面：speechless ＝ 说不出话的；with anger 可以把"气"补回来
+- 2026-09-19 ✅ 付息日 a 段在池第 1 组 · `he was speechless with anger.`——压成一个表语形容词 speechless，with anger 把"气"补回来（09-18 回潮后首测）
+- 2026-09-19 📝 c 段 review · 与 🎓#163 的"说不出话"互斥核对（09-18 收尾待办）
+  #163 走动作（stood there／froze）、题面排除 speechless；本条走表语形容词、speechless 是合法答案 ⇒ 题面不同句、考点不同，互斥成立；分工写进「问题是什么」
 - 备注 原题面还有"地铁里人挤人"，与 #108（packed）撞车 ⇒ 本条只留"路上堵得一动不动"
-
-### 238 · move on ≠ move forward
-类型 词汇 ｜ **合并条·出题多句覆盖**（§3.2c，2026-09-07 定：只出一句测不到这一对的分工）｜ 旧号 B184
-状态 连对1 连错0 上次2026-09-18 未毕业 ｜ 题型 整句 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-15**（09-10 第二次毕业 → 09-15 复检答"忘了"，两个成员都没出来，撤销毕业、连对清零）
-**问题是什么**
-**move on ≠ move forward** —— 一道题面两个成员，本条考的就是这两个块的分工：
-· **move on** ＝ 翻篇、别老想着了（`It's in the past, just **move on**.`）
-· **move forward** ＝ 继续往前推进（`the company has to keep **moving forward**.`）
-同一格里的邻居（别串）：`move ahead` 同样是 move 起头、同样地道，但成员 ② 的目标形式必须是 move forward
-⇒ 2026-09-10 题面 ② 补了 ⛔ ahead。
-判据一句话：放下过去 ⇒ move **on**；事情继续推进 ⇒ move **forward**。
-★ 08-10／08-13／08-15 那三次 ✅ 是在旧题面（"一直往前走"）下拿到的，**两个块都套得上** ⇒ 证明不了她分得清。
-
-**怎么发现的**
-旧 B 表迁移（B184，2026-08-18），原始触发原话未存；最早记录 2026-08-10 ✅（旧题面下的三次 ✅ ＝ 白测）。
-2026-09-07 📝 题面整改 ＋ 转合并条；同日 ❌ 复检第 5 组（加练）· 两个成员只到一个 ——
-只给了 `move forward`，第 ① 句要的 **move on** 没出来 ⇒ **回潮**（新题面第一次上场就抓到了这一格）。
-2026-09-09 ⚡ 自评免测 ／ 2026-09-10 ✅ 两个成员都到 ⇒ 连对 2，第二次毕业（**新题面下**第一次走完连对 2）。
-
-**我错在哪**
-她的：2026-09-07 复检只给出 `move forward`，`move on` 一次没出现；2026-09-15 复检两句都答"忘了"
-正确：`① It's all in the past, just move on. ② No matter what happens, the company still has to move forward.`
-找法：先分一刀 —— 放下过去用 move **on**，事情往前推进用 move **forward**。
-
-**题面**
-★ 2 句，两个成员各一句 —— 本条考的就是这两个块的分工，只出一个等于没测
-　① "都过去了，别老想着了。"（用 **move** 说 · ⛔ 不许用 past）
-　② "不管出什么事，公司还是得往前推进。"（用 **move** 说，"推进"是往前取得进展 · ⛔ 不许用 ahead）
-　　★ 2026-09-07 题面整改（§6「题面必须唯一可判」）：原题面只有一句
-　　★ "一直往前走"（用 move 说）—— move on 和 move forward **两个都套得上**，
-　　★ 而本条的考点恰恰是这两个的分工 ⇒ 原题面结构上测不到自己的考点。
-
-**成员出题账**
-① move on ｜ 09-07 ❌ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅
-② move forward ｜ 09-07 ✅ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅
-★ 08-10／08-13／08-15 三次在旧题面下（两个块都套得上）⇒ 无法按成员记录；09-09 ⚡ 自评免测也未按成员记录。
-
-- 2026-08-10 ✅
-- 2026-08-13 ✅
-- 2026-08-15 ✅
-- 2026-09-07 📝 题面整改 ＋ 转合并条（§3.2c / §6「题面必须唯一可判」）：原题面「"一直往前走"（用 move 说）」
-  ——move on 和 move forward **两个都套得上**，而本条考点恰恰是这两个的分工
-  ⇒ 原题面在结构上测不到自己的考点，三次 ✅ 都无法证明她分得清。
-  改成两句、两个成员各一句：① "都过去了，别老想着了。" ② "不管出什么事，公司还是得往前推进。"
-  状态行加 `合并条·出题多句覆盖`，⛔ 连击数字与毕业日一个字不动。
-- 2026-09-07 ❌ 复检 · 第 5 组（加练）· 合并条两个成员只到一个：只给了 `move forward`，
-  第 ① 句"都过去了，别老想着了"要的 **move on** 没出来 ⇒ 🎓 回潮
-  最小改 `① Just move on. ② The company still has to move forward.`
-  ★ 今天发题前刚把本条题面从"一直往前走（用 move 说）"改成两成员对照 —— 旧题面两个都套得上，
-    08-10／08-13／08-15 三次 ✅ 全是白测；新题面第一次上场就抓到了这一格。
-- 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
-- 2026-09-10 📝 题面 ② 补排除项「⛔ 不许用 ahead」· 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
-  第 ② 句「不管出什么事，公司还是得往前推进。」（用 move 说）—— `move ahead` 同样是 move 起头、
-  同样地道，且同样证明她没错用 move on ⇒ 判 ✅ 不吃亏，但本条 09-07 刚为"两个成员的分工"改过题面，
-  成员 ② 的目标形式必须是 move forward 才测得到那一格。
-  ⇒ 补排除项 `⛔ 不许用 ahead`；第 ① 句不动（move on 在"用 move 说"下已唯一）。
-- 2026-09-10 ✅ 复习 · 在池第 1 组 · 合并条两个成员都到
-  `① It's in the past, just move on. ② No matter what happens, the company has to keep moving forward.`
-  ★ 09-07 只到 move forward、move on 没出来；这次分工分清了 ⇒ **连对2，毕业**
-  ⚪ 同句 `No matter what happen` 主谓一致 ⇒ 记在 #10，形态类不判档位（§3.4②）
-- 2026-09-15 📝 题面整改 · 复检第 3 组发题前审核（§6.5 第 7 项：② "往前推进"用 move on 也说得通）
-  旧：② "不管出什么事，公司还是得往前推进。"（用 **move** 说 · ⛔ 不许用 ahead）
-  新：② "不管出什么事，公司还是得往前推进。"（用 **move** 说，"推进"是往前取得进展 · ⛔ 不许用 ahead）
-- 2026-09-15 ❌ 复检第 3 组 · 答"忘了"，两个成员都没出来 ⇒ **回潮**
-  最小改 `① It's all in the past, just move on. ② No matter what happens, the company still has to move forward.`
-  ❌ 放下过去 ⇒ move on；事情继续往前推进 ⇒ move forward
-- 2026-09-18 📝 题面整改：① 补（⛔ 不许用 past）· 发题前审核（§6.5 第 7 项）
-  `move past it` 同样用 move、同样能翻"别老想着了"，绕开成员 ① move on ⇒ 补排除项
-- 2026-09-18 ✅ 学习日 在池第 1 组 · ① `It's in the past, move on.` ② `No matter what happened, the company still needs to move forward.`——两个成员都对（09-15 回潮后首测）
-  ｜⚠️ what happened → what happens（泛指以后）只进 diff-2
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -792,7 +793,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-09-15 未毕业 ｜ 题型 词组
+状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
@@ -818,39 +819,15 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 找法：写"更进一步"之前先问 —— 是升档还是平级加一条？升档 ⇒ a step up from that；⛔ 别让分词悬着。
 
 **题面**
-"再往上一档"（用 **step** 说 · ⛔ 不许用 on top of／plus）
+"再往上一档"（用 **step** 说，step 当名词用 · ⛔ 不许用 on top of／plus）
 
 - 2026-09-13 新建 · 新题 bank:238（P3）· 她点名要学 · `But stepping it up a bit, things like showing up on time …`
 - 2026-09-15 ✅ 学习日 在池第 2 组 · `a step up from that.` —— 首测一字不差；连对1
-
-### 343 · **opening hours**／business hours（营业时间；⛔ open time）
-类型 词组 ｜ 新建 2026-09-15
-状态 连对1 连错0 上次2026-09-18 未毕业 ｜ 题型 词组
-
-**问题是什么**
-"营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
-同一格里的邻居（别串）：working hours（工作时间，说人）· office hours（办公时间／答疑时间）· be open（"开着门"：Are they open on Sundays?）。
-判据一句话：说"几点开几点关"这件事 ⇒ 用 **hours**（复数）挂在 opening／business 后面；说"开没开门"才用 open。
-
-**怎么发现的**
-2026-09-15 学习日 在池第 2 组 [4]（#337 题面"查一下营业时间"）：她写 `look up the open time`。
-查重（§3.1 判重三步）：
-　① 目标形式 dedup "opening" ⇒ 只命中 #337（look up sth，考"查"不考"营业时间"，题面里带这个词而已）⇒ 否；dedup "business hours"／"open time" ⇒ 零命中
-　② 中文 "营业" ⇒ 同样只命中 #337 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-★ 编号跳过 342：本场教练建过 #342（gotta）又当场撤销，号作废不复用。
-
-**我错在哪**
-她的：`the open time`　　正确：`the opening hours`（／ business hours）
-找法：写完"营业时间"回头看 —— 是不是 hours 结尾？不是就换成 opening hours。
-
-**题面**
-"营业时间"（两个词的块 · ⛔ 不许用 time）
-
-- 2026-09-15 ❌ 首犯 · 学习日 在池第 2 组 [4]（#337 题）· `look up the open time`
-  最小改 `look up the opening hours`
-  ❌ "营业时间"是固定块 opening hours／business hours；open time 不是一个块
-- 2026-09-18 ✅ 学习日 在池第 1 组 · `opening hours`（09-15 首犯后首测）
+- 2026-09-19 📝 题面整改：补「step 当名词用」· 发题前审核（§6.5 第 7 项）
+  `step it up` 同样用 step、单看"再往上一档"也说得通（加把劲），但它是动词用法，正是 09-13 触发句 stepping it up 那条路 ⇒ 限定成名词，逼出 a step up／a step further
+- 2026-09-19 ❌ 付息日 a 段在池第 1 组 · `a step up for that`
+  最小改 `a step up from that`
+  ❌ 块内固定的介词是 from（比"那个"再高一档 ＝ 从那一档往上）；for 不在这个块里。a step up 本身对
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
@@ -919,6 +896,151 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
   ★ 她当场异议："computer 就是 device" ⇒ device 是合法说法，本条考点只有介词 on，她答对了 ⇒ 改判 ✅
 - 2026-09-18 📝 规则收回：「⛔ device 这种统称」半条删掉 · 她异议（"computer 就是 device"）
   device 是合法说法，不是错；本条考点只剩介词 on（⛔ using 起头）⇒ 标题／问题是什么／我错在哪同步改，题面排除项去掉 device
+
+### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
+类型 词组 ｜ 新建 2026-09-19
+状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 词组
+
+**问题是什么**
+中文"…的魅力所在／问题所在／关键所在"，英语落成 **where X lies**（或 where X is／where X comes from）：
+that's exactly where the magic of reading lies ／ that's where the problem lies ／ that's where the fun is。
+where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"在"就是那个动词。
+同一格里的邻居（别串）：🎓#3 That's where … 管的是"就是在这儿"这个块本身（她三次都对）；
+本条管 where 后面那句不能只剩一个名词 · 也可以整个不用 where：that's the magic of reading。
+判据一句话：说完 where ＋ 一个名词，后面有没有动词？没有 ⇒ 补 lies／is。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R13（P3 · What are the differences between reading a book and visiting a museum?）· 触发原话
+`there are a thousand Hamlets in a thousand people's eyes, and that's exactly where the magic of reading books.`
+判重三步：
+　① 目标形式 where X lies ⇒ dedup "lies"／"lie in"／"所在"／"魅力" ⇒ 零命中；"在于" ⇒ 🎓#276（for ages，正文里带"在于"字样）⇒ 否
+　② "that's where" ⇒ 🎓#3（That's where 这个块本身，她 08-16／08-19／09-09 三次都对，这次块也用对了）⇒ 本条管 where 后面缺动词，与 #3 互补、两条并存
+　　 🎓#275（whether 后面要跟主谓）同是"从句要有谓语"，但那条只管 whether ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`that's exactly where the magic of reading books`　　正确：`that's exactly where the magic of reading lies`
+找法：说完 where ＋ 一个名词，回头看后面有没有动词；中文是"所在"就补 lies。
+
+**题面**
+"读书的魅力所在"（"所在"用一个动词说，放在最后）
+
+- 2026-09-19 ❌ 首犯 · 付息日 d 段重答 R13（P3）· `that's exactly where the magic of reading books.`
+  最小改 `that's exactly where the magic of reading books lies.`
+  ❌ where 引出的是一个句子，the magic of reading books 后面缺动词；"所在"的"在"就是 lies（或 is）
+
+### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
+类型 结构 ｜ 新建 2026-09-19
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
+英语一个句子只要一个主语 ⇒ **X 直接当主语**：Office workers usually have no choice but to eat out.
+同一格里的邻居（别串）：For X 后面换了**另一个**主语是对的 —— For office workers, eating out is the only option. ／
+For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135 管的是"社会／大家"这种中文主语用 there is／被动吃掉，
+本条管的是主语说了两遍 ⇒ 两条并存。
+判据一句话：For X 后面的主语是不是又指回 X（they／he／it）？是 ⇒ 删掉 For，让 X 直接当主语。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
+`For office workers, they usually have no choice but to eat out or order takeout`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
+判重三步：
+　① 目标形式 X 直接当主语 ⇒ dedup "For office"／"对于"／"主语重复"／"双主语" ⇒ 零命中；"当主语" ⇒ 🎓#135（"社会／大家"用 there is／被动吃掉）、
+　　 🎓#216（东西不会自己 leave）⇒ 都是"主语选谁"，本条是"主语说了两遍" ⇒ 否
+　② 中文 "对于…他们" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`For office workers, they usually have no choice but to eat out`　　更地道：`Office workers usually have no choice but to eat out`
+找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
+
+**题面**
+"对上班族来说，他们一般没得选，只能在外面随便吃点。"（⛔ 不许用 option／choice 当主语）
+
+- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
+
+### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
+类型 搭配 ｜ 新建 2026-09-19
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
+英语要把"好吃"挂到饭上：Home-cooked food tastes way better. ／ …, and the food tastes way better.
+同一格里的邻居（别串）：cooking at home is cheaper／healthier／cleaner —— 这些形容词能说动作，照用。
+判据一句话：谓语是"好吃"吗？主语就得是吃的东西（the food／home-cooked food），⛔ 不是 cooking／eating out。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
+`If you have the time, cooking at home is cleaner and way more delicious.`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
+判重三步：
+　① 目标形式 the food tastes better ⇒ dedup "delicious"／"taste"／"好吃" ⇒ 零命中
+　② 中文 "好吃" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`cooking at home is cleaner and way more delicious`　　更地道：`cooking at home is cleaner, and the food tastes way better`
+找法：说到"好吃"先看主语是不是吃的东西；是动作（cooking／eating out）就把"好吃"挂到 the food 上。
+
+**题面**
+"在家做饭更干净，也更好吃。"（"好吃"用 **taste** 说）
+
+- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `cooking at home is cleaner and way more delicious`（⚠️ 更地道的表达，她确认建号）
+
+### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
+类型 词组 ｜ 新建 2026-09-19
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+"网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
+You can do pretty much anything online. ／ I booked it online.
+同一格里的邻居（别串）：on the internet 也对（介词短语，稍长）· 🎓#8 管的是 in an online group／on a forum 的介词，⛔ 不是这一格 ·
+⛔ through the internet 是"通过"直译，能懂但不地道。
+判据一句话：中文"网上／通过网络" ⇒ online；想用介词短语就 on the internet，⛔ through。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R12（P3 · Why do some people not like using apps?）· 原话
+`Through the internet, you can do pretty much anything—order takeout, hail a ride, pay utility bills, you name it.`（diff-2 ⚠️，她确认按 §3.2b 建号）
+判重三步：
+　① 目标形式 online ⇒ dedup "online" ⇒ 🎓#8（in an online group）、🎓#209（an online pet group 的形容词顺序）、🎓#50、🎓#81 都是正文里带 online 字样的别的考点 ⇒ 否；
+　　 dedup "through the internet" ⇒ 零命中
+　② 中文 "网上" ⇒ 🎓#8／🎓#262／🎓#312 都是别的考点 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Through the internet, you can do pretty much anything`　　更地道：`Online, you can do pretty much anything`／`You can do pretty much anything online`
+找法：说到"通过网络／在网上"，先落 online。
+
+**题面**
+"网上什么都能办"（"网上"用一个词说 · ⛔ 不许用 internet）
+
+- 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
+
+### 350 · let your imagination run wild（让想象力放开跑）
+类型 词组 ｜ 新建 2026-09-19
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+"让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
+也可以把 imagination 当主人：Reading gives your imagination room to run wild.
+同一格里的邻居（别串）：run with sth ＝ 接过一个想法往下做（run with the idea），⛔ 不配 imagination。
+判据一句话：说想象力放开 ⇒ imagination ＋ run wild／run free。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R13（P3 · What are the differences between reading a book and visiting a museum?）· 原话
+`Reading gives you room to run with your imagination, while museums speak to more of your senses.`（diff-2 ⚠️，她确认按 §3.2b 建号）
+判重三步：
+　① 目标形式 let your imagination run wild ⇒ dedup "run wild" ⇒ 零命中；"imagination" ⇒ 🎓#299、🎓#206 正文里带这个词，别的考点 ⇒ 否
+　② 中文 "想象力" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Reading gives you room to run with your imagination`　　更地道：`Reading gives your imagination room to run wild`
+找法：imagination 后面想接"放开／自由发挥" ⇒ run wild。
+
+**题面**
+"让想象力自由发挥"（用 **run** 说）
+
+- 2026-09-19 新建 · 付息日 d 段重答 R13（P3）· 原话 `Reading gives you room to run with your imagination`（⚠️ 更地道的表达，她确认建号）
 
 ## 迁移说明（2026-08-18）
 

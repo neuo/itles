@@ -28,9 +28,9 @@
 | R8 | What do you think of communicating via social media? | P3 | 08-07 | **2026-08-31 已重答**（122 词 · 真错 2 · 密度 1/61 · 新建 0 · 🎓#81 与 🎓#8 各回潮一次 · 自发命中 🎓#80／🎓#206／🎓#262） |
 | R9 | Should governments provide financial support to start-ups? | P3 | 08-07 | **2026-08-31 已重答**（54 词 · 真错 1 · 密度 1/54 · 新建 #314 economic≠economical · 自发命中 🎓#85 两成员）｜ 08-10 也重答过一次（原话未存，只有差异摘要）｜ ★ 三答纵向：08-07 那句"没人创业→岗位不够"08-10 丢、08-31 仍未回来 |
 | R10 | How does technology help people make plans? | P3 | 08-07 | **2026-09-11 已重答**（84 词 · 真错 2 · 新建 #336 · 🎓#86 回潮 · 🎓#58 自发命中；08-07 六处真错 → 今天两处，其中 where to live／advent 两处原样回来） |
-| R11 | Do people today prefer eating at home or in a restaurant? | P3 | 08-08 | — |
-| R12 | Why do some people not like using apps? | P3 | 08-08 | — |
-| R13 | What are the differences between reading a book and visiting a museum? | P3 | 08-08 | — |
+| R11 | Do people today prefer eating at home or in a restaurant? | P3 | 08-08 | **2026-09-19 已重答**（76 词 · 真错 0 · 新建 0 · 自发命中 🎓#58／🎓#275／🎓#219／🎓#251 · 🎓#264 卡片规则改正：a sense of ritual 合法） |
+| R12 | Why do some people not like using apps? | P3 | 08-08 | **2026-09-19 已重答**（96 词 · 真错 1 · 新建 0 · 🎓#98 回潮（know 后三项并列，第三项接不上）· 书面登记 1 · 自发命中 🎓#251／🎓#219） |
+| R13 | What are the differences between reading a book and visiting a museum? | P3 | 08-08 | **2026-09-19 已重答**（90 词 · 真错 1 · 新建 #346 "…所在" ＝ where X lies · it wasn't until … that 一次到位） |
 | R14 | Do you think there are too many subjects for students to learn? | P3 | 08-08 | — |
 | R15 | Why do old people prefer to live in quiet places? | P3 | 08-09 | — |
 | R16 | What kind of job can be called a 'dream job'? | P3 | 08-09 | — |
