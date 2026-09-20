@@ -152,6 +152,41 @@ with sandbox(sessions=False) as d:
     ck("session 一个字节都没动",
        all(read(d, os.path.join("sessions", f)) == v for f, v in before.items()))
 
+head("【P5 正】默认报告的回看目标 ＝ **全部**没被回看过的（⛔ 不是只挑最近一篇）")
+with sandbox(sessions=False) as d:
+    world(d)
+    st, rc, out = run(lab.cmd_lookback, Args(date="2026-09-23"))
+    tail = out.split("② 本次回看目标")[1]
+    for pid in ("bank:800", "bank:900", "bank:901", "R7"):
+        ck(f"目标里列了 {pid}", re.search(r"★ " + re.escape(pid) + r"　", tail), tail[:400])
+    ck("报了篇数", "共 4 篇" in tail, tail[:400])
+    ck("标题写法按日期序给全",
+       "## ② 回看 · bank:800 · bank:900 · bank:901 · R7" in tail, tail[:400])
+    ck("⛔ 跨周期也算 —— 上一周期没回看过的照样进目标（与 --cycle 不同）",
+       "bank:800" in tail, tail[:400])
+    ck("口径行写明不是最近一篇", "⛔ 不是只发最近一篇" in out, out[:400])
+    ck("给出 --pending 的执行动作", "--pending" in tail, tail[:400])
+
+head("【P6 正】--pending ＝ 一次打出全部未回看篇的四件套，按日期顺序")
+with sandbox(sessions=False) as d:
+    world(d)
+    st, rc, out = run(lab.cmd_lookback, Args(pending=True, date="2026-09-23"))
+    order = re.findall(r"### 回看 · (\S+)（", out)
+    ck("四篇按日期序：bank:800 → bank:901 → R7 也在内",
+       order == ["bank:800", "bank:900", "bank:901", "R7"], order)
+    ck("首行提示回看节标题怎么写",
+       "回看 · bank:800 · bank:900 · bank:901 · R7" in out, out[:200])
+    ck("退出码 0", rc == 0, out[-200:])
+
+head("【P7 正】--pending 全都回看过了 ⇒ 明说写「无（理由）」，⛔ 不空跑")
+with sandbox(sessions=False) as d:
+    world(d)
+    put(d, "2026-09-23.md",
+        "# 2026-09-23 · **L1**（周期 9）\n\n## ② 回看 · bank:800 · bank:900 · bank:901 · R7\n\n（略）\n")
+    st, rc, out = run(lab.cmd_lookback, Args(pending=True, date="2026-09-24"))
+    ck("提示写 无（理由）", "无（理由）" in out, out[:300])
+    ck("⛔ 没有打出任何四件套", "### 回看 · " not in out, out[:300])
+
 head("【G0 正】回看节原样贴了 --print 的输出 ⇒ 回看闸 ERROR 0")
 with sandbox(sessions=False) as d:
     world(d)

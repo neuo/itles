@@ -347,6 +347,8 @@
     （the/a/my/this）。没有 ⇒ 要么补限定词，要么改成复数。
 - 2026-09-15 ⚪ 新题 bank:1059 · `being classmate` → classmates —— 形态类只记录（§3.4②），同篇 programs／problems／capabilities 都对
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-09-20 ⚪ 学习日 在池第 1 组（#98 句2）· `The letters on top of cake are …` ⇒ on top of **the** cake —— 形态类只记录·不判档
+  检查触发：说完一个单数可数名词，回头看它前面有没有限定词
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -529,7 +531,7 @@
 
 ### 98 · 并列两边必须同形（语法功能相同 ＋ 可数性/单复数要齐）
 类型 结构 ｜ 旧号 B168＋B240
-状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-19**（08-20 毕业 → 09-19 重答 R12 里 `know … even guessing what …` 第三项接不回 know，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-19**（08-20 毕业 → 09-19 重答 R12 里 `know … even guessing what …` 第三项接不回 know，撤销毕业、连对清零）
 
 **问题是什么**
 **并列两边必须同形**：语法功能相同 ＋ 可数性／单复数要齐。
@@ -589,6 +591,13 @@
 - 2026-09-19 ❌ 付息日 d 段重答 R12（P3 · 自由产出）· `tech giants know everything about you—where you live, your preferences, even guessing what you're craving today`
   最小改 `…where you live, your preferences, even what you're craving today`
   ❌ 破折号后三项都挂在 know 上：know where you live ✓ · know your preferences ✓ · know even guessing … ✗ ⇒ 第三项接不回 know ⇒ **回潮**
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `After work, you have time for other things — like hobbies, or just spending time with your kids.` ／ `The letters on top of cake are spelled out with sweets and biscuits.`
+  —— 句1 hobbies（名词）与 spending time（动名词短语）同为 like 的宾语 ⇒ 语法功能相同（判据与 08-19／08-20／09-07 一致，没改口）；句2 sweets and biscuits 数齐
+  ★ 同句 `on top of cake` 缺限定词 ⇒ 归 ⚪#56（形态类只记录，⛔ 不落在本条头上）；`spelled out with sweets` 自发命中 🎓#162
+  ⚠️ diff-2：on top of the cake → on the cake（字写在蛋糕表面，on top of 是"摞在上面"）—— 删一个词，⛔ 不建号
+- 2026-09-20 📝 学习日 新题 bank:1038（P3）· 自发命中留痕 · **本篇两处**（🎓 冻结，只留痕、不推进数字）
+  ① 冒号后两项齐平：`the real-life feeling and a change of pace`（两个名词块）
+  ② 末句三项齐平：`It looks cool, it's great for taking photos, and you just get to chill …`（三个完整分句）
 - 备注 自测法：把两边分别接回前面那个词念一遍
 - 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
   题面保留两句，一句测"功能相同"、一句测"数要齐"
@@ -695,54 +704,6 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-15 ⚪ 新题 bank:1059 · `These day` → These days —— 形态类只记录（§3.4②）
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 
-### 212 · 压缩出来的形容词两个出口（表语最省）
-类型 结构 ｜ 旧号 B149
-状态 连对1 连错0 上次2026-09-19 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-18**（08-15 毕业 → 09-05 复检 ✅ → 09-18 复检答"忘了"，撤销毕业、连对清零）
-
-**问题是什么**
-**压缩出来的形容词两个出口，表语最省**：把中文"…得…不…"这种程度补语压成**一个形容词**放表语位 ——
-主语 ＋ be ＋ 一个形容词（`the road is … **jammed**`）。
-同一格里的邻居（别串）：⚠️ 修饰形容词要用副词形（`complete jammed` → **completely** jammed，归 🎓#202 同族）。
-⚠️ 与 🎓#107（jammed／gridlocked）互斥写死（2026-09-05 c 段裁决）：
-　**堵车那个形容词 ⇒ #107（词汇）／ 把"…得…不…"压成表语形容词 ⇒ 本条（结构）。**
-　沿革：本条题面撞过两次（先撞 #108 packed、再撞 #107），现已换成"他气得说不出话。"
-判据一句话：中文那一长串补语能不能压成一个形容词？能就放到 be 后面。
-★ 与 🎓#163（"愣住了／说不出话" ＝ I just stood there／I froze）分工：那条走**动作**、题面排除 speechless；
-　本条走**表语形容词**，speechless 正是合法答案之一 ⇒ 两条题面不同句（"气得说不出话" vs "愣在那儿"）、考点不同，互斥成立。
-
-**怎么发现的**
-旧 B 表迁移（B149，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
-2026-08-13 ✅ ／ 2026-08-15 ✅ ⇒ 连对 3，毕业。
-2026-09-05 复检第 5 组 ✅ `the road is … jammed`（走了表语出口）；同日按撞车裁决换了题面。
-
-**我错在哪**
-她的：本条历史里没有掉过（判定全是 ✅）；09-05 唯一的顺带是 `complete jammed`（副词形，归 #202 同族）。触发原话未存。
-找法：中文"…得…不…"先试着压成一个形容词，放到 be 后面。
-
-**题面**
-"他气得说不出话。"（用**表语**说：主语 ＋ be ＋ 一个形容词）
-
-- 2026-08-09 ✅
-- 2026-08-13 ✅
-- 2026-08-15 ✅
-- 2026-09-05 ✅ 复检组 · 第 5 组 · `the road is … jammed`（走了表语出口）
-  ｜ ⚠️ `complete jammed` → completely（修饰形容词要用副词形），归 📝 🎓#202 同族，⛔ 不记 ❌
-- 2026-09-05 📝 题面整改 · c 段撞车裁决（§3.1③ 第三档）
-  与 🎓#107（jammed／gridlocked）撞车：本条题面「路上堵得一动不动。」与 #107「堵死了，一动不动」几乎同句，
-  **而教练 09-05 给本条加的点名（"用表语说：主语 ＋ be ＋ 一个形容词"）恰好把她逼向 #107 的那个形容词**
-  ⇒ 两条互相盖：先答哪条，另一条就只剩抄写。
-  ⇒ 本条题面换成 **"他气得说不出话。"**（同一个考点：把中文的程度补语压成一个形容词放表语位），
-    ⛔ 未动 #107 一个字（它的题面「堵死了，一动不动」按新粒度规则本来就是合格的词汇题）。
-  ★ 互斥写死：**堵车那个形容词 ⇒ #107（词汇）／ 把"…得…不…"压成表语形容词 ⇒ 本条（结构）。**
-  ★ 本条备注里已有一次同型整改（原题面的"地铁里人挤人"撞 #108 ⇒ 已删）——**这是第二次**。
-- 2026-09-18 ❌ 复检 · 学习日 复检第 4 组 · 答"忘了"（§3.3「忘了/不会」＝ ❌）⇒ **回潮**
-  最小改 `He was speechless.`
-  ❌ "…气得说不出话"这一长串补语压成一个形容词放 be 后面：speechless ＝ 说不出话的；with anger 可以把"气"补回来
-- 2026-09-19 ✅ 付息日 a 段在池第 1 组 · `he was speechless with anger.`——压成一个表语形容词 speechless，with anger 把"气"补回来（09-18 回潮后首测）
-- 2026-09-19 📝 c 段 review · 与 🎓#163 的"说不出话"互斥核对（09-18 收尾待办）
-  #163 走动作（stood there／froze）、题面排除 speechless；本条走表语形容词、speechless 是合法答案 ⇒ 题面不同句、考点不同，互斥成立；分工写进「问题是什么」
-- 备注 原题面还有"地铁里人挤人"，与 #108（packed）撞车 ⇒ 本条只留"路上堵得一动不动"
-
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
 状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句
@@ -793,7 +754,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
@@ -819,7 +780,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 找法：写"更进一步"之前先问 —— 是升档还是平级加一条？升档 ⇒ a step up from that；⛔ 别让分词悬着。
 
 **题面**
-"再往上一档"（用 **step** 说，step 当名词用 · ⛔ 不许用 on top of／plus）
+"再往上一档"（用 **step** 说，step 当名词用 · ⛔ 不许用 on top of／plus／above）
 
 - 2026-09-13 新建 · 新题 bank:238（P3）· 她点名要学 · `But stepping it up a bit, things like showing up on time …`
 - 2026-09-15 ✅ 学习日 在池第 2 组 · `a step up from that.` —— 首测一字不差；连对1
@@ -828,78 +789,13 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-19 ❌ 付息日 a 段在池第 1 组 · `a step up for that`
   最小改 `a step up from that`
   ❌ 块内固定的介词是 from（比"那个"再高一档 ＝ 从那一档往上）；for 不在这个块里。a step up 本身对
-
-### 344 · drive over／come over（到我这边来；⛔ drive here）
-类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-09-18 未毕业 ｜ 题型 词组
-
-**问题是什么**
-"到我这边来"这一层，挂在动词后面的小词是 **over**：drive over ／ come over ／ head over ／ pop over。
-over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 here。
-同一格里的邻居（别串）：**drive here** ＝ 强调"开到我此刻站的这个点"，讲故事时不自然 ·
-**go over** ＝ 到他那边去（方向相反）· **come by／drop by** ＝ 顺路来一下（重点在"顺路"）·
-**head over** ＝ 动身过去（重点在出发）。
-判据一句话：说"来我这儿"⇒ 动词 ＋ **over**；⛔ 不用 here。
-
-**怎么发现的**
-2026-09-15 新题 bank:1059（P2 · cold）：她写 `He drove here and started debugging`。
-教练在 diff-2 给了 drove over，她点名要学（原话："drove over 和 on his own laptop 可以建，这两个我觉得更地道"）。
-查重（§3.1 判重三步）：
-　① 目标形式 dedup "drive over"／"come over" ⇒ 零命中；dedup "over" ⇒ 🎓#216（all over the floor）·🎓#186（leave a mess）·🎓#14（well away）等全是别的块 ⇒ 都否
-　② 中文 "开过来" ⇒ 零命中；"过来" ⇒ 最近的是 🎓#145（bring／take／fetch）—— 那条分的是**东西**往哪个方向带，本条是**人**往我这边来 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`He drove here`　　正确：`He drove **over**`
-找法：写完"来我这儿"这层意思，看句子里有没有 here —— 有就换成 over。
-
-**题面**
-"他开车过来了"（"过来"用一个小词挂在动词后面 · ⛔ 不许用 here／to my place／up／round）
-
-- 2026-09-15 新建 · 新题 bank:1059（P2 · cold）· 触发原话 `He drove here and started debugging using his own device` · ⭐ 她点名要学
-- 2026-09-18 📝 题面整改：排除项补 `／up／round` · 发题前审核（§6.5 第 7 项）
-  `he drove up`（开到跟前停下）／`he drove round`（英式 ＝ came over）都是"动词 ＋ 一个小词"、都合法，绕开 over ⇒ 补排除项
-- 2026-09-18 ✅ 学习日 在池第 2 组 · 首测 · `he drove over.`——drive **over**，没带 here
-
-### 345 · 在哪台机器上干活 ＝ ON ＋ 机器（on his own laptop／device；⛔ using his device）
-类型 搭配 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-09-18 未毕业 ｜ 题型 词组
-
-**问题是什么**
-在某台机器上做事，介词用 **on** ＋ 那台机器：on his own laptop ／ on his own device ／ on my phone ／ on the office computer。
-⛔ 不用 using 起头把机器当工具挂上去（using his own device）—— 口语说"在哪台上干"，走 on。
-同一格里的邻居（别串）：软件、平台也走 **on**（on Zoom ／ on Excel）· **in** 用在"在某个系统／应用里面"（in the app）·
-**with** 用在手持工具（with a screwdriver）。
-判据一句话：机器或平台 ⇒ **on** ＋ 机器；⛔ 不用 using 起头。
-
-**怎么发现的**
-2026-09-15 新题 bank:1059（P2 · cold）：她写 `started debugging using his own device`。
-教练在 diff-2 给了 on his own laptop，她点名要学（原话同 #344）。
-查重（§3.1 判重三步）：
-　① 目标形式 dedup "laptop"／"device"／"on my phone" ⇒ laptop 只命中 🎓#74（make do with）与 🎓#302（something breaks），两条都是正文里带 laptop 的例句 ⇒ 否；另两个零命中
-　② 中文 "用…电脑" 无对应条目 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`using his own device`　　正确：`**on** his own device`
-找法：说"用某台机器干活"之前，先把 using 换成 on —— 机器是干活的地方，不是工具。
-
-**题面**
-"他用自己那台笔记本调试"（"用…那台机器"用一个介词说 · ⛔ 不许用 using／with／from）
-
-- 2026-09-15 新建 · 新题 bank:1059（P2 · cold）· 触发原话 `started debugging using his own device` · ⭐ 她点名要学
-- 2026-09-18 📝 题面整改：排除项补 `／from` · 发题前审核（§6.5 第 7 项）
-  `debugged it from his own laptop`（远程）同样一个介词、合法，绕开 on ⇒ 补排除项
-- 2026-09-18 ✅ 学习日 在池第 2 组 · 首测 · `he debugged on his own device` ⚠️ **本条已于 2026-09-18 改判为 ✅**
-  最小改 `he debugged it on his own laptop`
-  ❌ 介词 on 对了；"那台笔记本"又说成统称 device（题面已排除，09-15 触发句掉的也是这一半）⇒ 具体是哪台就说哪台
-  ★ 她当场异议："computer 就是 device" ⇒ device 是合法说法，本条考点只有介词 on，她答对了 ⇒ 改判 ✅
-- 2026-09-18 📝 规则收回：「⛔ device 这种统称」半条删掉 · 她异议（"computer 就是 device"）
-  device 是合法说法，不是错；本条考点只剩介词 on（⛔ using 起头）⇒ 标题／问题是什么／我错在哪同步改，题面排除项去掉 device
+- 2026-09-20 📝 题面整改：排除项补 `／above` · 发题前审核（§6.5 第 7 项）
+  `a step above that` 同样用 step 当名词、也是"高一档"，单看题面完全合法 ⇒ 她答它得判 ✅，而块内那个 from（09-19 掉的正是它）就白测一次 ⇒ 排掉 above，把答案收敛到 a step up from that／going a step further
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `a step up from that.` —— 块内固定介词 from（09-19 掉的正是它，写成 for）；本场发题前已把 above 排除
 
 ### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对0 连错1 上次2026-09-19 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
 
 **问题是什么**
 中文"…的魅力所在／问题所在／关键所在"，英语落成 **where X lies**（或 where X is／where X comes from）：
@@ -928,10 +824,11 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 - 2026-09-19 ❌ 首犯 · 付息日 d 段重答 R13（P3）· `that's exactly where the magic of reading books.`
   最小改 `that's exactly where the magic of reading books lies.`
   ❌ where 引出的是一个句子，the magic of reading books 后面缺动词；"所在"的"在"就是 lies（或 is）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `that is where the magic of reading lies` —— where 后面那句有动词，"所在"落成句末的 lies；首测一次中
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -958,15 +855,19 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 "对上班族来说，他们一般没得选，只能在外面随便吃点。"（⛔ 不许用 option／choice 当主语）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
+  ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
 英语要把"好吃"挂到饭上：Home-cooked food tastes way better. ／ …, and the food tastes way better.
 同一格里的邻居（别串）：cooking at home is cheaper／healthier／cleaner —— 这些形容词能说动作，照用。
+⛔ **tastes more delicious**：delicious 本身已经是"很好吃"，英语不给它再加 more ——
+　"更好吃"的口语比较级就是 **tastes better**（加强用 way better／so much better）。
 判据一句话：谓语是"好吃"吗？主语就得是吃的东西（the food／home-cooked food），⛔ 不是 cooking／eating out。
 
 **怎么发现的**
@@ -982,13 +883,17 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
 找法：说到"好吃"先看主语是不是吃的东西；是动作（cooking／eating out）就把"好吃"挂到 the food 上。
 
 **题面**
-"在家做饭更干净，也更好吃。"（"好吃"用 **taste** 说）
+"在家做饭更干净，也更好吃。"（"好吃"用 **taste** 说 · ⛔ 不许用 delicious／tasty）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `cooking at home is cleaner and way more delicious`（⚠️ 更地道的表达，她确认建号）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `Cooking at is cleaner and the food tastes more delicious.` —— "好吃"挂在 the food 上，没说成 cooking is delicious；首测一次中
+  ★ `Cooking at` 掉了 home ＝ 打字掉字（§2.1 同理，不记档位）
+  ⚠️ diff-2：tastes more delicious → tastes way better（delicious 已是"很好吃"，不再加 more；"更好吃"的口语比较级就是 better）
+  ⇒ §3.3 硬顺序③ 答得合法但不是条目预期 ⇒ 记 ✅ ＋ 当场改题面（补 ⛔ 不许用 delicious／tasty）
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
 
 **问题是什么**
 "网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
@@ -1014,10 +919,11 @@ You can do pretty much anything online. ／ I booked it online.
 "网上什么都能办"（"网上"用一个词说 · ⛔ 不许用 internet）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `you can do pretty much anything online.` —— 一个副词 online 挂句末；首测一次中
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
 
 **问题是什么**
 "让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
@@ -1041,6 +947,93 @@ You can do pretty much anything online. ／ I booked it online.
 "让想象力自由发挥"（用 **run** 说）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R13（P3）· 原话 `Reading gives you room to run with your imagination`（⚠️ 更地道的表达，她确认建号）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `let your imagination run wild.` —— imagination ＋ run wild 整块；首测一次中
+
+### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
+类型 语法 ｜ 新建 2026-09-20
+状态 连对0 连错1 上次2026-09-20 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
+同一格里的邻居（别串）：feel ＋ **形容词** ⛔ 不加 like（It feels weird. ／ I feel tired.）；
+feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）—— 那条管"想不想"，本条管"像不像"。
+同族的动词一样处理：look／sound／smell／taste ＋ 名词也要 like（It looks **like** a museum. ／ It sounds **like** fun.）。
+判据一句话：feel／look／sound 后面跟的是**名词**吗？是 ⇒ 补 like；是形容词 ⇒ 不补。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`Going to a historical site feels a mini-escape.`
+判重三步：
+　① 目标形式 feel like ⇒ dedup "feel like" ⇒ 命中 🎓#258（at will → whenever they feel like it ＝ feel like ＋ -ing，"想做某事"）⇒ 否，两条规则；
+　　　🎓#264（a sense of）· 🎓#206（书面降级）只是正文里出现过这两个词 ⇒ 否
+　② 中文题面 dedup "感觉像" ⇒ 零命中
+　③ 保留新建
+
+**我错在哪**
+她的：`Going to a historical site feels a mini-escape.`　　正确：`Going to a historical site feels **like** a mini-escape.`
+找法：说完 feel／look／sound，看后面第一个词 —— 是个名词就补 like。
+
+**题面**
+"去趟古迹就像短暂逃离一下。"（"像"那个词不许省 · ⛔ 不许用 is／seems）
+
+- 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
+
+### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
+类型 词组 ｜ 新建 2026-09-20
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
+**seeing the real thing** ／ **seeing it in real life** ／ **seeing it in person**（🎓 R13 里她自己用过 in person）。
+同一格里的邻居（别串）：the real-life **feel** of it 勉强能说，但口语几乎都走 seeing 那条；
+⛔ the real-life feeling 是把中文的"感"直译成 feeling。
+判据一句话：想说"真实感" ⇒ 换成"亲眼看到真东西"这个动作来说。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`It mainly comes down to two simple things: the real-life feeling and a change of pace.`
+判重三步：
+　① 目标形式 the real thing ⇒ dedup "the real thing" ⇒ 命中 🎓#306（not just A — it's more B，只是正文里出现过）⇒ 否；
+　　　dedup "real life" ／ "in person" ⇒ 零命中
+　② 中文题面 dedup "真实" ⇒ 命中 🎓#60 #84 #59 #275 全是"真实条件句／嵌入疑问"⇒ 否，不同考点
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`the real-life feeling`　　正确：`seeing the real thing`（或 `seeing it in real life`）
+找法：中文里出现"…感"，先别找名词，先问一句 —— 这个"感"是从哪个**动作**来的？
+
+**题面**
+"亲眼看到真东西"（用 **real** 说 · ⛔ 不许用 feeling／feel）
+
+- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `the real-life feeling`（⚠️ 更地道的表达，§3.2b）
+
+### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
+类型 搭配 ｜ 新建 2026-09-20
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
+`somewhere with a completely different vibe` ／ `the place has a really chill vibe` ／ `soak up a different vibe`。
+⛔ chill **in** a different vibe —— in 把 vibe 当成了房间。
+同一格里的邻居（别串）：真要说"待在里面"就换个有空间义的名词：in a totally different setting／atmosphere。
+判据一句话：vibe 前面想加 in ⇒ 停：改成 with a … vibe 挂在地方上，或者把 vibe 换成 setting。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`you just get to chill in a totally different vibe.`
+判重三步：
+　① 目标形式 vibe ⇒ dedup "vibe" ⇒ 零命中；dedup "atmosphere" ⇒ 零命中
+　② 中文题面 dedup "气氛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`you just get to chill in a totally different vibe`　　正确：`you get to chill somewhere with a totally different vibe`
+找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
+
+**题面**
+"能在一个气氛完全不一样的地方待着。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
+
+- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
 
 ## 迁移说明（2026-08-18）
 

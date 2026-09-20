@@ -389,7 +389,7 @@ with sandbox(sessions=False) as d:
     fresh(d)
     sess(d, "# 2026-09-09\n\n## ② 回看 · 无（D-1 是付息日）\n")
     st, rc, out = run(lab.cmd_lookback, Args(date="2026-09-10"))
-    ck("说「无自由产出可回看」", "无自由产出可回看" in out, out[-300:])
+    ck("说「回看节写 无（理由）」", "## ② 回看 · 无（理由）" in out, out[-300:])
 
 head("【L3 正】lookback 只读 —— 不写任何文件")
 with sandbox() as d:

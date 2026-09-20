@@ -20,7 +20,7 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
        两条队列：**在池**（未毕业）＋ **复检**（🎓）—— 毕业不是冻结，只是往梯子上爬一格
 
 学习日  ① 在池组 ≤3 组（10 题一组）　①b 复检组 1 组　★ 组完题先过 §6.5 审核表才许发
-        ② 回看（跑 `lab.py lookback` 定哪一篇，只读）
+        ② 回看（跑 `lab.py lookback` 定哪几篇 ＝ **全部没回看过的**，只读）
         ③ ⚡ 免测：⛔ 不主动问 —— 她在回答里说「这条会了」才记（§4③）
         ④ 新题 1 道（脚本抽）——【保底做】，她累了也做这一道
         ⑤ 收尾核对
@@ -92,7 +92,7 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
       · 类型的全套 slug 由 `count` 不带参数时打印，**⛔ 不许临时发明类型名**。
 
 0.1.6 ★ **改过 `lab.py` ⇒ 先跑回归测试，全绿才许拿去动真档案**
-        python3 speaking-band7/lab/tests/run_all.py     ← 604 条断言，正向＋负向
+        python3 speaking-band7/lab/tests/run_all.py     ← 618 条断言，正向＋负向
       测试只在临时目录的副本上跑，⛔ 一次都不碰真档案；⛔ 它们不算"第三个工作脚本"。
       ★★ **测试 ⛔ 不许依赖真档案/真 session 的内容**
         判据：**测试红了要么是脚本坏了、要么是测试坏了，⛔ 不许是"今天的练习内容变了"。**
@@ -105,7 +105,7 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
   prompts  N N N [--verify 发题稿]                              题面逐字核对（§6）
   append   --file rows.md --date D [--dry-run]                  判定行落盘（§7 之后）
   deliver  --session F [--section 复习组|新题|重答|加练|回看]     交付物硬闸（§7/§9.1）
-  lookback [--date D] [--print ID… ｜ --cycle]                  回看目标 ／ 打出四件套原文（§4② §5⓪，只读）
+  lookback [--date D] [--print ID… ｜ --pending ｜ --cycle]     回看目标 ／ 打出四件套原文（§4② §5⓪，只读）
   migrate  [--dry-run]                                          🎓 双向搬迁（§3.3/§11）
   count    [--type slug] [--detail]  ／  stats [--brief]
   check    [--changed|--all] [--quiet]
@@ -522,11 +522,12 @@ python3 speaking-band7/lab/lab.py pick --type review     ← 付息日
 ```
 python3 speaking-band7/lab/lab.py lookback          ← 只读，⛔ 不写任何文件
 ```
-口径 ＝ **最近一篇【没被回看过】的自由产出**（新题／重答／加练），
-⛔ 不是"D-1 那一篇" —— D-1 落在没有自由产出的日子时，那一篇会被永远跳过。
+口径 ＝ **全部【没被回看过】的自由产出**（新题／重答／加练）—— ⛔ 不是"最近那一篇"、⛔ 不是"D-1 那一篇"。
+　　　 一天里攒下几篇就发几篇（付息日重答 3 道 ⇒ 次日三篇全发），**一篇都不许省**。
 认法 ＝ session 里 `## ③ 新题 …（bank:NNN）` ／ `## d 段 重答 · RN` 的**标题行题号**；
 　　　 已回看 ＝ 任意 session 的 `## ② 回看 · bank:NNN` **标题行**上的题号（§9.1）。
-⇒ 本场的回看节标题必须写成 `## ② 回看 · bank:NNN`；真没得回看写 `## ② 回看 · 无（理由）`。
+⇒ 本场的回看节标题把这几篇的题号**全部列进去**：`## ② 回看 · bank:A · RN · RM`；
+　 真没得回看写 `## ② 回看 · 无（理由）`。
 
 四件套**逐字取自那一篇的 session 文件，禁止重新推导**：
 ```
@@ -534,10 +535,14 @@ python3 speaking-band7/lab/lab.py lookback          ← 只读，⛔ 不写任�
 ```
 ★★ **执行动作写死 ＝ 跑脚本、原样贴**（⛔ 不许手敲、不许摘录）：
 ```
-python3 speaking-band7/lab/lab.py lookback --print bank:NNN     ← 打出那一篇的四件套原文
+python3 speaking-band7/lab/lab.py lookback --pending     ← 一次打出【全部未回看篇】的四件套原文
+python3 speaking-band7/lab/lab.py lookback --print bank:NNN RN   ← 只要指定的那几篇时用
 ```
-　 ① 打出来的整段**原样贴进本场 session 的 `## ② 回看 · bank:NNN` 节**
+　 ① 打出来的整段**原样贴进本场 session 的 `## ② 回看 · …` 节**
 　 ② 发给她的就是这一段（照贴，⛔ 不压缩、⛔ 不省句、⛔ 不以"发过了"省篇）
+　 ②b ★★ **一次全发完**：几篇就一次发几篇、每篇从头到尾发完 ——
+　 　　 ⛔ 不许分几条消息挤牙膏、⛔ 不许发一半问"剩下的还看不看"、⛔ 不许问她要不要先歇
+　 　　 （回看是只读的，她自己会跳着看；拆开发只会让她拼不回整篇）
 　 ③ 要加更正／旁注 ⇒ 另起 ★ 行加在旁边，⛔ 不许改原文行
 　 ★ `deliver` 硬查（§9.1⑦）：原篇四件套的**每一个内容行**都要在回看节里逐字找到，少一行就是 ERROR
 
@@ -885,8 +890,9 @@ diff-2  最小改 → 更好版
    diff 两段摆完整句（起点句 ＋ 终点句各一整行）＋ 最小改／更好版给**全文，一句都不省**。
    ⛔ 不许压成单行箭头（`deadline → deadlines`）、⛔ 不许用 `…` 拼接片段 ——
    压缩摘录 ＝ §4② 禁止的"重新推导"，她看到的就不再是当时那一版了。
-   ★ 做法：`lookback --print`／`--cycle` 打出原文 → 原样贴进 session 的回看节（`deliver` 逐字查，§9.1⑦）
+   ★ 做法：`lookback --pending`／`--print`／`--cycle` 打出原文 → 原样贴进 session 的回看节（`deliver` 逐字查，§9.1⑦）
      → 聊天里发的就是贴进去的那一段，⛔ 不另写一版
+   ★★ **一次全发完**（§4②②b）：几篇就一次发几篇、每篇发到底 —— ⛔ 不许分条挤、⛔ 不许问"剩下的还看不看"
 ```
 ### ★★★ 聊天里一律用【代码块】整体输出
 ```
@@ -1003,7 +1009,7 @@ speaking-band7/lab/
 ├── lab.py           ★ 机械工具：pick 抽题 · used 定稿 · list/show/dedup 判重 · prompts 题面核对
 │                    　　　　　　 stats/count 统计 · check 格式校验 · deliver 交付闸 · lookback 回看
 │                    　　　　　　 append 记账 · migrate 双向搬迁（⚠️ 后两个是仅有的会写内容文件的）
-├── tests/           回归测试台（604 条断言，正向＋负向，全部自带 fixture）。⛔ 只跑临时副本、不碰真档案，
+├── tests/           回归测试台（618 条断言，正向＋负向，全部自带 fixture）。⛔ 只跑临时副本、不碰真档案，
 │                    ⛔ 不算工作脚本。改过 lab.py ⇒ `python3 …/tests/run_all.py` 全绿才许动真档案
 ├── drawn.log        复习出题流水，lab.py 自动 append。⛔ 禁手工编辑
 ├── methods.md       方法类（操作/方法论，**不进复习召回**）
@@ -1042,7 +1048,7 @@ speaking-band7/lab/
    `## ① 在池组 · 第 1 组 · 发出 10 题、她当场全组 ⚡ 免测 ⇒ 参与判定（0 题）`
    ⛔ 0 必须**显式**写进标题；"出了题却没写块"仍由题数比对 ＋ drawn.log 对账各挡一道。
 ## ①b 复检组 · 第 N 组（M 题 / K 条） ← ⚠️ **两个数都写**：打包题一题装多条（§6.1②）
-## ② 回看 · bank:NNN                ← ⚠️ 必须带题号；真没得回看写 `## ② 回看 · 无（理由）`
+## ② 回看 · bank:A · RN · RM        ← ⚠️ **未回看的每一篇都列进标题**（`lookback --pending` 首行给出）；真没得回看写 `## ② 回看 · 无（理由）`
 ## ⓪ 回看 · bank:A · bank:B · RN     ← 付息日：本周期每一篇的题号都列进标题（`lookback --cycle` 首行给出）
 ## ③ 新题 · 第 N 道（bank:NNN …）    ← ⚠️ 必须带 `bank:NNN`，否则 lookback 永远追不到它
 ## d 段 重答 · RN                    ← 重答带 `RN`

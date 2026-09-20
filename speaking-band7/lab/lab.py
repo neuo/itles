@@ -2132,6 +2132,16 @@ def cycle_free_ids(today):
     return ids
 
 
+def pending_free_ids(today):
+    """【没被回看过】的全部自由产出题号，按日期顺序（§4② 学习日回看口径 ＝ 全部，不是最近一篇）。"""
+    news, looked = scan_all_sessions()
+    ids = []
+    for x in news:
+        if x["id"] and x["id"] not in looked and x["date"] < today and x["id"] not in ids:
+            ids.append(x["id"])
+    return ids
+
+
 def print_quads(ids, today):
     """把每一篇的四件套原文打出来 —— 原样贴进 session 的回看节，同一段发聊天（§4②）。"""
     rc = 0
@@ -2185,12 +2195,17 @@ def scan_all_sessions():
 
 def cmd_lookback(args):
     today = args.date or date.today().isoformat()
-    if args.print_ids or args.cycle:
+    if args.print_ids or args.cycle or args.pending:
         ids = list(args.print_ids or [])
         if args.cycle:
             ids += [x for x in cycle_free_ids(today) if x not in ids]
+        if args.pending:
+            ids += [x for x in pending_free_ids(today) if x not in ids]
         if not ids:
-            print("（本周期没有自由产出 ⇒ 回看节写 `## ⓪ 回看 · 无（理由）`）")
+            if args.cycle:
+                print("（本周期没有自由产出 ⇒ 回看节写 `## ⓪ 回看 · 无（理由）`）")
+            else:
+                print("（没有未回看的自由产出 ⇒ 回看节写 `## ② 回看 · 无（理由）`）")
             return 0
         print(f"<!-- lab.py lookback --print · {today} · 回看节标题写：回看 · {' · '.join(ids)} -->")
         print()
@@ -2200,7 +2215,7 @@ def cmd_lookback(args):
     print(W)
     print(f"lab.py lookback · {today} · §4② 回看目标　【只读：⛔ 不写任何文件】")
     print(W)
-    print("  口径　回看目标 ＝ **最近一篇【没被回看过】的自由产出**（新题／重答／加练）")
+    print("  口径　回看目标 ＝ **全部【没被回看过】的自由产出**（新题／重答／加练）—— ⛔ 不是只发最近一篇")
     print("  认法　自由产出 ＝ session 里 `## ③ 新题 …（bank:NNN）` / `## d 段 重答 · RN` 的标题行")
     print("  　　　已回看 ＝ 任意 session 的 `## ② 回看 · bank:NNN` **标题行**上的题号")
     print(f"  扫的　{SESSIONS}/*.md")
@@ -2221,17 +2236,17 @@ def cmd_lookback(args):
     print(f"   ── 共 {len(news)} 篇（其中 {len(noid)} 篇标题没带题号）")
     print()
     cand = [x for x in news if x["id"] and x["id"] not in looked and x["date"] < today]
-    print("② 本次回看目标")
+    print("② 本次回看目标 ＝ **全部没被回看过的**（⛔ 一篇都不许省，⛔ 不挑最近那一篇）")
     if not cand:
-        print("   （没有未回看的自由产出 ⇒ 写一句「无自由产出可回看」跳过）")
+        print("   （没有未回看的自由产出 ⇒ 回看节写 `## ② 回看 · 无（理由）`）")
     else:
-        t = max(cand, key=lambda x: (x["date"], x["line"]))
-        print(f"   ★ {t['id']}　{t['date']}　{t['file']}:{t['line']}")
-        print(f"     标题：{t['title'][:60]}")
-        print(f"     ⇒ 四件套逐字取自这一节，⛔ 禁止重新推导（§4②）")
-        if len(cand) > 1:
-            print(f"     （另有 {len(cand)-1} 篇也没回看过："
-                  + "／".join(x["id"] for x in sorted(cand, key=lambda x: x['date'])[:6]) + "）")
+        cand = sorted(cand, key=lambda x: (x["date"], x["line"]))
+        for t in cand:
+            print(f"   ★ {t['id']}　{t['date']}　{t['file']}:{t['line']}")
+            print(f"     标题：{t['title'][:60]}")
+        print(f"   ── 共 {len(cand)} 篇，四件套逐字取自各自那一节，⛔ 禁止重新推导（§4②）")
+        print("   ⇒ 执行：`lab.py lookback --pending` 一次打出全部原文 ⇒ 整段原样贴进回看节")
+        print("     回看节标题写：## ② 回看 · " + " · ".join(x["id"] for x in cand))
     print(W)
     return 0
 
@@ -3324,6 +3339,8 @@ def main():
     p.add_argument("--date", help="把哪一天当「今天」（默认今天）")
     p.add_argument("--print", dest="print_ids", nargs="+", metavar="ID",
                    help="打出这几篇（bank:NNN／RN）的四件套原文，原样贴进回看节")
+    p.add_argument("--pending", action="store_true",
+                   help="打出【全部没被回看过】的自由产出的四件套（学习日 ② 用）")
     p.add_argument("--cycle", action="store_true",
                    help="打出本周期全部自由产出的四件套（付息日 ⓪ 用）")
     p.set_defaults(func=cmd_lookback)

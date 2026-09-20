@@ -6330,6 +6330,27 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 
 **下一场 ＝ 周期 7 · L1**：`ls sessions/` → `stats` → `pick --type learn`；dry-run 到期 50 ＝ 在池 10（1 组）／复检 40（3 组）；回看 R13（先 `lookback --print R13` 贴进 session）；新题 1 道
 
+## 2026-09-20（周日）· 口语 L1（周期 7 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 331 ＝ problems.md 20 ＋ graduated.md 311 ｜ 🎓 311（94.0%）｜ 未毕业 20 ｜ 可出题 10 ｜ 连对1 7 ｜ 连错≥2 0 ｜ 队列到期剩 1 ｜ ⚡ 累计 171、掉过 2（校准 1%）｜ 重答队列 36 / 未重答 23
+
+**四段**
+- ① 在池 1 组 10 题：**✅10 ❌0** ⇒ 毕业 3（#212 speechless with anger · #344 drove over · #345 on his own laptop）
+- ①b 复检 3 组（1 ＋ 在池下溢 2）：发出 23 题 / 39 条，她三组都答"直接过" ⇒ **全部 ⚡ 免测**，参与判定 0 题 / 0 条；弃 1 条（#180，在池组第 7 题刚给过 eat out）
+- ② 回看 3 篇：R13（脚本定的）＋ 她指出昨天是三道后补发的 R11 R12
+- ④ 新题 bank:1038（P3 为什么爱逛古迹）：真错 1（feels a mini-escape ⇒ 缺 like）· ⚠️ 2（the real-life feeling · chill in a vibe）；层3/4/5 全无对象，通篇口语档；自发命中 🎓#98 两处 ＋ 🎓#220
+- 新建 3 条：#351 feel ＋ 名词必须加 like · #352 seeing the real thing · #353 vibe 挂在地方上（somewhere with a … vibe）
+- 题面整改 2 条：#340 补排除 above（发题前第 7 项抓的）· #348 补排除 delicious／tasty（她答 tastes more delicious 判 ✅ 后按 §3.3③ 当场改）
+
+**★★ 结构性变更两项（她定，当场改完）**
+- ① **学习日回看 ＝ 全部没回看过的**（原 SKILL 写"最近一篇"）—— 她："这个 skill 写的有问题，改掉，是全部"。lab.py 新增 `pending_free_ids()` ＋ `lookback --pending`，默认报告列全部目标并给出回看节标题写法
+- ② **回看一次全发完** —— 她："一起发，skill 应该要求全部一起输出"。SKILL §4②②b ＋ §7：⛔ 不许分条挤牙膏、⛔ 不许发一半问"还看不看"
+- 测试 604 → **618 全绿**（test_lookback 35 → 49，新增 P5／P6／P7；test_deliver L2 断言跟着改）
+
+**教练犯规 4 条**（session ④7）：发一半回看问她要不要继续 · 改两条状态行用了 python 批量 · 回看先写标题后跑 --pending 导致打空 · 组题没扫"本组会讲到的词"撞上 #180
+
+**下一场 ＝ 周期 7 · L2**：`ls sessions/` → `stats` → `pick --type learn`；dry-run 到期 53 ＝ 在池 6（1 组）／复检 47（3 组）；回看 `lookback --pending` ⇒ bank:1038；新题 1 道；#351–#353 建号当天不测、09-21 起进池
+
 ## 2026-09-19（周六）· 写作 D2 学习日（周期 C7）
 
 > 记录真源 ＝ `writing-band7/drill2/sessions/2026-09-19.md`（本条只是索引 ＋ 复盘）
