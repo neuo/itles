@@ -49,6 +49,14 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
    ★ 同日守住的：are requested · resisted · avoid · holds · accommodates · caused · paid ·
      had known · boosted · prioritised · had reached —— 11 处 ⇒ 本组 **1 / 12**
    ⇒ 全天（组1 ＋ 组2）R1 **1 / 17**；组1 整组零命中
+
+2026-09-21 组4 第 6 题　`they have never **inform** the car owner`　→ `have never **informed**`
+2026-09-21 组5 第 3 题　`the insurance company must be **advise** promptly`　→ `must be **advised**`
+   ★ 两处都是**助动词／be 后面那一格**（have ＋ ___ ／ be ＋ ___）—— 本账最早的形状（08-22 `has double`）
+   ★ 两处都落在**主考点正对着的那个动词**上（组4 主考点 #0129 指代 · 组5 主考点 #0466 advise sb of sth）——
+     她的注意力放在**选词与框架**上（inform … of ／ be advised of 的介词都对），词尾就掉了
+   ★ 同日守住的：组1 约 20 处 · 组2 约 13 处 · 组3 8 处 · 组4 11 处 · 组5 11 处 · 复检三组约 35 处
+   ⇒ 全天 R1 **2 处**（组4 组5 各一），其余六组整组零命中
 ```
 **为什么不建条目**：她 08-19、08-20 两次写 `has doubled` 都对 ⇒ 规则在。
 
@@ -215,6 +223,22 @@ reduce/reduced · rise/risen · fall/fallen · grow/grown · change/changed
 2026-09-12 复检组1 第 5 题　`he **do** not intend`　→ `does not`
    ★ 三单 -s（08-30 `This brand focus` 那一格）；同组守住 5 处（oil prices double · Employees must · those who wish · pests · the winner must）
    ⇒ 全天 **3 / 40**（组1 0/12 · 组2 0/12 · 组3 2/10 · 复检 1/6）：三处全是短句、都不在长主语上
+
+2026-09-21（C7·D4 复习日）**全天 7 处 —— 本账单日最多**
+   组2 第 7 题　`The regulations **states**`　→ `state`（复数主语配了三单）
+   组3 第 1 题　`a small circle of veteran **journalist**`　→ `journalists`（of 后面该复数）
+   组4 第 10 题　`These fuel pellets, derived from agricultural residue, **serves**`　→ `serve`（被插入分词块后面的单数 residue 拉走）
+   组5 第 2 题　`Several data points **raises**`　→ `raise`
+   复检组2 第 3 题　`if the condition **become** more severe`　→ `becomes`（单数主语掉了 -s）
+   复检组2 第 6 题　`Youth employment **issues has** moved`　→ `issues have` ／ `issue has`
+   复检组1 第 3 题　`road conditions **continues**`　→ `continued`（复数配了三单；前半是过去 ⇒ 这里该 continued）
+   ★ 七处里**五处是"复数主语配三单"**（states · serves · raises · has · continues），一处"单数掉 -s"（become），
+     一处"名词该复数没复数"（journalist）⇒ 方向以**多出来的 -s** 为主，与本账早期"掉 -s"为主正好相反
+   ★ 其中 **`pellets … serves`** 是 #0048 那个老形状（主语跨过插入成分、谓语被最近的单数名词拉走）
+   ★ 同日**守住的最强一格**：`a small circle of veteran journalists **is**`（中心词单数、紧挨谓语的是复数，⛔ 没被拉走）
+   ⚠️ 同日**查过不算**的一处：`Consecutive **years** of drought **is**` —— 「X years of Y」当一整段时期说时配单数，
+     母语反例造得出（`Years of neglect has taken its toll`）⇒ ⛔ 不算命中
+   ⇒ 全天 **7 处**；组1 与复检组3 两组零命中，每组守住的都在 9–17 处 ⇒ 仍是"整体在守、个别格失控"
 ```
 
 **★ 2026-08-25 一条观察（写给下次扫的人）**
@@ -392,6 +416,16 @@ R5                            管【复数／不可数泛指】：the younger pe
      `a contentious topic` · `a strict curfew` · `the construction of the new office building` · `a fine of two million` ·
      零冠词泛指：`online shopping` · `obesity` · `mobile payment` · `immigration` · `human life` · `investment in education`
    ⇒ 全天 R5 命中 **1 处**（在池三组零命中，复检组 1 处）
+
+2026-09-21 组2 第 7 题　`**the** applicants shall secure a permit`（规章条文里的泛指复数）→ `applicants shall …`
+2026-09-21 组3 第 1 题　`in **the** sports circles`（「体育界」泛指）→ `in sports circles`
+   ★ 两处都是**泛指复数前多出来的 the**（本条的主形状）
+   ★ 第二处有对照：同一句后半 `in **the** fashion world` 带 the **是对的**（the X world 这条路本来就带 the）——
+     她把 world 那条路的 the 顺手搬到了 circles 这条路上
+   ★ 同日守住的：`in pairs` · `at will` · `on duty` · `admitted to hospital`（机构义零冠词）· `Youth employment` ·
+     `Employment in manufacturing` · `Time spent on meetings` · `remote teaching` · `agricultural residue` ·
+     `the aging population`（特指带 the）· `the authorities`（固定复数带 the）
+   ⇒ 全天 R5 **2 处**（组2 组3 各一），其余六组零命中
 ```
 
 ---
@@ -403,6 +437,7 @@ R5                            管【复数／不可数泛指】：the younger pe
 每一个数字        与题面／图上逐位对一遍：位数 · 小数点 · 千分位逗号
 每一个年份        题面写的是哪一年，答案里就必须是哪一年
 每一个单位        周／月／年 · 公斤／吨 · 人／户 —— 中文是哪一档，英文就是哪一档
+每一个星期几／日期 题面写的是哪天，答案里就必须是哪天（2026-09-21 补）
 ⚠️ 英文的小数点是 `.`，逗号只作千分位：`1.58 million` ✔ `1,580,000` ✔ ⛔ ~~1,58 million~~
 　 （这一条是**知识层**，写错了照常判条目的错 —— 见 2026-09-16 #0213）
 ```
@@ -414,6 +449,12 @@ R5                            管【复数／不可数泛指】：the younger pe
    ★★ **第 2 次 ⇒ 按 09-13 写死的约定当场立项**（原话：「再出现一次就立 R6『数字与单位照抄』」）
    ★ 同句另有 `1,58 million`（逗号当小数点）—— 那是**知识层**，已记进 #0213 的 ❌，⛔ 不算本项
    ⇒ 两次的形状一致：**她知道那个数／那个单位，但抄的时候换了一档**
+2026-09-21 复检组2 第 5 题　中文「最晚**下周一**交」⇒ 她写 `no later than next **Friday**`
+   ★ **第 3 次**，形状与前两次一致（她当然知道 Monday）；**新增的一格是"星期几"** ⇒ 「扫什么」补一行
+   ★ 这次多一层证据：顶替进来的正是**同句前半**的 `this Friday` ⇒ **被同句里的邻近词带走**
+   ★ 同一天同一组第 10 题「保持**记录**」⇒ `keeps accurate **steps**`（被后半的 steps 带走）是**同一个机制**，
+   　 但落在实义名词上 ⇒ 那一处归 **#0126**（语义缺失），⛔ 不算本项
+   ⇒ 本组同时守住的：this Friday ✔ · three months ✔ · a week ✔ · more than half ✔ · the second quarter ✔
 ```
 **为什么放这里不建条目（§2⑤ 判据）**
 ```
