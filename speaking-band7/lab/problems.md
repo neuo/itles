@@ -186,6 +186,10 @@
   ⇒ 只记 ⚪，⛔ 不记 ❌、⛔ 不动状态行
   检查触发：主语和动词中间隔了一长串插入语时，回头把插入语盖住、只看主语和动词对不对得上
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-09-21 ⚪ 留痕 · 学习日 在池第 1 组 [1] · `The letters on the cake is spelled out` → `are spelled out`
+  —— 主语 The letters 复数，中间隔了 on the cake，动词被就近的 cake 带跑。§3.4 执行自查：同一篇里 `you have`／`going to ancient sites feels`／`the magic of reading lies` 三处都对 ⇒ 是产出时检查没跑，不是不会 ⇒ 只记 ⚪
+- 2026-09-21 ⚪ 留痕 · 新题 bank:1005（P3）[S1] · `what are popular` → `what was popular`
+  —— what 引出的主语从句动词用单数，且后半句 `when each generation was young` 已把时间钉在过去 ⇒ was。§3.4 执行自查：同一篇里 `the 1990s was`／`teenagers were`／`it was`／`preferences get` 四处都对 ⇒ 产出时检查没跑，不是不会 ⇒ 只记 ⚪（时态那一面同族 #12，同一处 ⛔ 不双记）
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
   `it help me clear my head` 记的是 **❌**（当时的口径是"自由产出照常记 ❌"），
@@ -529,79 +533,6 @@
   —— shown 只活在助动词后面；同一组里 `he was two`／`I haven't seen` 都做对了 ⇒ §3.4 判形态类
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 
-### 98 · 并列两边必须同形（语法功能相同 ＋ 可数性/单复数要齐）
-类型 结构 ｜ 旧号 B168＋B240
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句 ｜ **回潮 2026-09-19**（08-20 毕业 → 09-19 重答 R12 里 `know … even guessing what …` 第三项接不回 know，撤销毕业、连对清零）
-
-**问题是什么**
-**并列两边必须同形**：语法功能相同 ＋ 可数性／单复数要齐。
-· 功能相同：`like hobbies, or just being with your kids`——名词 vs 动名词短语，同为 like 的宾语 ⇒ **成立**
-　（08-20 那一行明文锁死过这个判据，09-05 反用它判 ❌ 就是假错）
-· 数要齐：`sweets and biscuits`
-· 三项并列也不打折：`turning up on time, meeting your deadlines, and getting along with your colleagues`
-判据一句话：把两边分别接回前面那个词念一遍，都接得上才是同形。
-★ 本条 ＝ 原 #151（并列两边可数性/单复数要齐）2026-08-19 并入 —— 同一条规则的两个面，题面保留两句各测一面。
-
-**怎么发现的**
-旧 B 表迁移（B168＋B240，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅；2026-08-17 ❌ 同日回潮。
-2026-08-19 ✅ ／ 2026-08-20 ✅ ⇒ 连对 2，毕业。
-2026-09-01 与 2026-09-03 两篇新题 P3 里自发命中共五处（三项并列、neither 两边、共用一个 to 的两个动词）。
-2026-09-05 那次记的 ❌ 已于 2026-09-07 按 §3.1⑩ **改判 ✅**（母语句反证见当天行）；2026-09-07 复习 ✅ 两句都中。
-
-**我错在哪**
-她的：2026-08-17 记过一次 ❌（触发原话未存）；09-05 那次是**教练判错**，已改判 ✅。
-找法：把并列的两边分别接回前面那个词念一遍 —— 都接得上才算同形。
-
-**题面**
-"下班后有时间做点别的，比如爱好，或者就是陪陪孩子。" ／ "蛋糕上面那些字是用糖果和饼干拼的。"
-
-- 2026-08-09 ✅
-- 2026-08-11 ✅
-- 2026-08-17 ❌ 同日回潮 ｜同日原 #151 记 ✅ ⇒ 一对一错，保守记 ❌
-- 2026-08-19 ✅ `like hobbies, or just being with your kid` ＋ `sweets and biscuits`（功能同形＋数齐，两面都中）
-- 2026-08-20 ✅ `like hobbies or just being with your kids`（名词 vs 动名词，语法功能相同 ⇒ 同形成立，
-  判据与 08-19 一致，没改口）＋ `sweets and biscuits`（数也齐）
-  ★ 同句自发命中 🎓#162：`spelt out **in** sweets`（08-17 曾写成 spelt out OF）
-- 2026-09-01 📝 新题 P3（bank:490）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇三处**
-  ① S3 三项全 -ing：`turning up on time, meeting your deadlines, and getting along with your colleagues`
-  ② S5 neither 两边同形：`neither log in nor place orders`（都是光动词原形）
-  ③ S6 两项同形：`doing your share and not causing problems for the team`
-  ★ 一篇 98 词里三处并列全部同形，且最难的 S3 三项没打折。
-- 2026-09-03 📝 新题 P3（bank:831）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· **本篇两处**
-  ① `like **how to pay**, **how to video call**, that kind of thing` —— 两项齐平（how to ＋ 原形）
-  ② `to **keep up with** what's going on or **better understand** their grandchildren's interests`
-     —— 两个动词共用前面那一个 to，语法功能相同
-  ★ 长句里并列还能保持同形，是本篇结构上最稳的一处。
-- 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· 句 1 并列两边**不同形**：
-  hobbies（名词）／being with your kids（动名词短语）
-  原句 `After work, you have some time to do other things like hobbies or just being with your kids.`
-  最小改 `After work, you have some time to do other things like hobbies or just time with your kids.`
-  ⚠️ **本条已于 2026-09-07 改判为 ✅**（§3.1⑩ 原行留痕）——
-  改判理由：08-20 那一行白纸黑字锁死过判据「名词 vs 动名词，语法功能相同 ⇒ 同形成立，
-  判据与 08-19 一致，没改口」，而 09-05 的原句与 08-20 判 ✅ 的原句几乎逐字相同 ⇒ 09-05 那次是假错。
-  母语句反证：`After work you've got time for other things — hobbies, or just spending time with the kids.`
-  完全自然：动名词短语本身是名词性成分，与 hobbies 并列时语法功能相同（同为 like 的宾语）。
-  同日句 2 `These letters on the cake is written in sweets and biscuits.` —— 本条考点（数齐）
-  sweets and biscuits **中**；`letters … is` 是主谓一致 ⇒ 形态类归 ⚪#10，⛔ 不落在本条头上。
-  ⇒ 09-05 的回潮一并撤销，状态行改回 🎓（连对2 仍冻结在 2026-08-20）。
-- 2026-09-07 ✅ 复习 · 在池第 4 组 · `After work, you can do something else, like hobbies, or just spending time with the kids.`
-  ／ `The words on the cake are spelled out with sweets and biscuits.`
-  —— 句 1 并列两边语法功能相同（都是 like 的宾语、都是名词性）；句 2 数齐 sweets and biscuits ＋ The words **are**
-  ★ 与 08-19／08-20 判 ✅ 的那两次同形 ⇒ 本题连带触发 09-05 那次 ❌ 的改判（见该行行尾）
-- 2026-09-19 ❌ 付息日 d 段重答 R12（P3 · 自由产出）· `tech giants know everything about you—where you live, your preferences, even guessing what you're craving today`
-  最小改 `…where you live, your preferences, even what you're craving today`
-  ❌ 破折号后三项都挂在 know 上：know where you live ✓ · know your preferences ✓ · know even guessing … ✗ ⇒ 第三项接不回 know ⇒ **回潮**
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `After work, you have time for other things — like hobbies, or just spending time with your kids.` ／ `The letters on top of cake are spelled out with sweets and biscuits.`
-  —— 句1 hobbies（名词）与 spending time（动名词短语）同为 like 的宾语 ⇒ 语法功能相同（判据与 08-19／08-20／09-07 一致，没改口）；句2 sweets and biscuits 数齐
-  ★ 同句 `on top of cake` 缺限定词 ⇒ 归 ⚪#56（形态类只记录，⛔ 不落在本条头上）；`spelled out with sweets` 自发命中 🎓#162
-  ⚠️ diff-2：on top of the cake → on the cake（字写在蛋糕表面，on top of 是"摞在上面"）—— 删一个词，⛔ 不建号
-- 2026-09-20 📝 学习日 新题 bank:1038（P3）· 自发命中留痕 · **本篇两处**（🎓 冻结，只留痕、不推进数字）
-  ① 冒号后两项齐平：`the real-life feeling and a change of pace`（两个名词块）
-  ② 末句三项齐平：`It looks cool, it's great for taking photos, and you just get to chill …`（三个完整分句）
-- 备注 自测法：把两边分别接回前面那个词念一遍
-- 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
-  题面保留两句，一句测"功能相同"、一句测"数要齐"
-
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
 类型 语法 ｜ 旧号 B236
@@ -752,80 +683,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
-类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
-同一格里的邻居（别串）：**on top of that ／ plus ／ also** ＝ 平级追加（再加一条，不分高低）——
-她自己点出这两个"体现不出来"，对：它们没有"高一档"那层。
-⛔ `stepping it up a bit, things like …` 悬空：分词没有逻辑主语（谁在 step up？句子主语是 things）。
-判据一句话：新一条比前一条**更高一档**吗？是 ⇒ a step up from that；只是再加一条 ⇒ on top of that。
-★ 与 🎓#262（口语转折工具箱 Then again／That said）分工：那条是话锋一转，本条是往上一档；
-　与 🎓#283（It's really about A first, and then B）分工：那条排先后收尾，本条升档。
-
-**怎么发现的**
-2026-09-13 学习日 新题 bank:238（P3 · What kinds of behavior are considered as good behavior?）· 触发原话
-`But stepping it up a bit, things like showing up on time and meeting your deadlines … are totally worth praise.`
-她自标："这句要学下，on top of that 或者 plus 体现不出来"（§2③ 她主动提出的）。
-判重三步：
-　① 目标形式 a step up from that ⇒ dedup "step" ⇒ 🎓#281 step back（另一个块）· 🎓#327 foothold（无关）· #49（历史行）⇒ 都否
-　　　🎓#262 转折工具箱 ＝ 转折不是递进 ⇒ 否；🎓#283 A first, and then B ＝ 排先后不是升档 ⇒ 否
-　② 中文 "台阶" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`But stepping it up a bit, things like … are …`　　正确：`A step up from that, things like … deserve …`（或 `Going a step further, …`）
-找法：写"更进一步"之前先问 —— 是升档还是平级加一条？升档 ⇒ a step up from that；⛔ 别让分词悬着。
-
-**题面**
-"再往上一档"（用 **step** 说，step 当名词用 · ⛔ 不许用 on top of／plus／above）
-
-- 2026-09-13 新建 · 新题 bank:238（P3）· 她点名要学 · `But stepping it up a bit, things like showing up on time …`
-- 2026-09-15 ✅ 学习日 在池第 2 组 · `a step up from that.` —— 首测一字不差；连对1
-- 2026-09-19 📝 题面整改：补「step 当名词用」· 发题前审核（§6.5 第 7 项）
-  `step it up` 同样用 step、单看"再往上一档"也说得通（加把劲），但它是动词用法，正是 09-13 触发句 stepping it up 那条路 ⇒ 限定成名词，逼出 a step up／a step further
-- 2026-09-19 ❌ 付息日 a 段在池第 1 组 · `a step up for that`
-  最小改 `a step up from that`
-  ❌ 块内固定的介词是 from（比"那个"再高一档 ＝ 从那一档往上）；for 不在这个块里。a step up 本身对
-- 2026-09-20 📝 题面整改：排除项补 `／above` · 发题前审核（§6.5 第 7 项）
-  `a step above that` 同样用 step 当名词、也是"高一档"，单看题面完全合法 ⇒ 她答它得判 ✅，而块内那个 from（09-19 掉的正是它）就白测一次 ⇒ 排掉 above，把答案收敛到 a step up from that／going a step further
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `a step up from that.` —— 块内固定介词 from（09-19 掉的正是它，写成 for）；本场发题前已把 above 排除
-
-### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
-类型 词组 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
-
-**问题是什么**
-中文"…的魅力所在／问题所在／关键所在"，英语落成 **where X lies**（或 where X is／where X comes from）：
-that's exactly where the magic of reading lies ／ that's where the problem lies ／ that's where the fun is。
-where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"在"就是那个动词。
-同一格里的邻居（别串）：🎓#3 That's where … 管的是"就是在这儿"这个块本身（她三次都对）；
-本条管 where 后面那句不能只剩一个名词 · 也可以整个不用 where：that's the magic of reading。
-判据一句话：说完 where ＋ 一个名词，后面有没有动词？没有 ⇒ 补 lies／is。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R13（P3 · What are the differences between reading a book and visiting a museum?）· 触发原话
-`there are a thousand Hamlets in a thousand people's eyes, and that's exactly where the magic of reading books.`
-判重三步：
-　① 目标形式 where X lies ⇒ dedup "lies"／"lie in"／"所在"／"魅力" ⇒ 零命中；"在于" ⇒ 🎓#276（for ages，正文里带"在于"字样）⇒ 否
-　② "that's where" ⇒ 🎓#3（That's where 这个块本身，她 08-16／08-19／09-09 三次都对，这次块也用对了）⇒ 本条管 where 后面缺动词，与 #3 互补、两条并存
-　　 🎓#275（whether 后面要跟主谓）同是"从句要有谓语"，但那条只管 whether ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`that's exactly where the magic of reading books`　　正确：`that's exactly where the magic of reading lies`
-找法：说完 where ＋ 一个名词，回头看后面有没有动词；中文是"所在"就补 lies。
-
-**题面**
-"读书的魅力所在"（"所在"用一个动词说，放在最后）
-
-- 2026-09-19 ❌ 首犯 · 付息日 d 段重答 R13（P3）· `that's exactly where the magic of reading books.`
-  最小改 `that's exactly where the magic of reading books lies.`
-  ❌ where 引出的是一个句子，the magic of reading books 后面缺动词；"所在"的"在"就是 lies（或 is）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `that is where the magic of reading lies` —— where 后面那句有动词，"所在"落成句末的 lies；首测一次中
-
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
 状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句
@@ -951,7 +808,7 @@ You can do pretty much anything online. ／ I booked it online.
 
 ### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
 类型 语法 ｜ 新建 2026-09-20
-状态 连对0 连错1 上次2026-09-20 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
@@ -977,10 +834,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 "去趟古迹就像短暂逃离一下。"（"像"那个词不许省 · ⛔ 不许用 is／seems）
 
 - 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
+- 2026-09-21 ✅ 学习日 在池第 1 组 [4] · `going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems（09-20 首犯正在这里）。连错 1 清零、连对 0 → 1
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 词组
 
 **问题是什么**
 中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
@@ -1003,13 +861,18 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：中文里出现"…感"，先别找名词，先问一句 —— 这个"感"是从哪个**动作**来的？
 
 **题面**
-"亲眼看到真东西"（用 **real** 说 · ⛔ 不许用 feeling／feel）
+"亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
 
 - 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `the real-life feeling`（⚠️ 更地道的表达，§3.2b）
+- 2026-09-21 ✅ 学习日 在池第 1 组 [5] · `see the real things.` —— 考点命中：把"真实感"换成**动作**来说、用了 real、没用 feeling ⇒ 符合题面（§3.3 硬顺序①②）。连对 0 → 1
+  ★ `the real things` 的 -s ⇒ ⚠️ 不判 ❌：the real thing 恒单数，但题面没点名单数 ⇒ 判定只认题面（§6 ⛔ 不让她猜教练想要什么）⇒ 当场改题面，见同日 📝 行
+- 2026-09-21 📝 题面整改（§3.3 硬顺序③）· 原题面 "亲眼看到真东西"（用 **real** 说 · ⛔ 不许用 feeling／feel）
+  → 现题面 "亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
+  —— 提示不受粒度限制（§6②），补一句"单数"把 the real thing 变成唯一答案；考点（别把"真实感"名词化，改说动作）一个字没动
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
@@ -1031,9 +894,75 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
 
 **题面**
-"能在一个气氛完全不一样的地方待着。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
+"你能待在一个气氛完全不一样的地方。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
 
 - 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
+- 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
+- 2026-09-21 ✅ 学习日 在池第 1 组 [6] · `you can stay somewhere with a completely different vibe.` —— vibe 挂回了地方上（somewhere with a … vibe），前面不是 in。连对 0 → 1
+
+### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
+类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
+状态 连对0 连错1 上次2026-09-21 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
+`as for the price` · `as for what's trending right now` · `as for me`。
+同一格里的邻居（别串）：**as far as … goes ／ as far as … is concerned** ＝ "就…而言"，它是**四段式**，
+后半截（goes／is concerned）⛔ 不能省；**when it comes to ＋ 名词** ＝ "一说到…"，三个词，同义但更长。
+⛔ `as far ＋ 名词` ＝ 把上面两个块的前半截拼在一起，英语里不存在这个说法。
+判据一句话：写完 as far，回头看后面有没有 `as … goes`？没有 ⇒ 把 far 换成 for。
+★ 与 🎓#317（when it comes **TO** sth）分工：那条考 come 那一族的介词，本条考 as for 这个块 ——
+　本条出题点名"两个词的块 · 第一个词是 as"，🎓#317 出题点名"用 come 说" ⇒ 两边各自唯一，⛔ 不撞车。
+
+**怎么发现的**
+2026-09-21 学习日 新题 bank:1005（P3 · What are the differences between old and young people's music preferences?）· 触发原话
+`As far what's trending right now, I'm actually not too sure`。
+判重三步：
+　① 目标形式 as for ⇒ dedup "as for"／"as far as" ⇒ 命中 🎓#59（直接疑问 vs 嵌入疑问，考的是从句语序）·
+　　　🎓#298（have the final say，考的是 say 当名词）—— 两条都只是正文/历史里出现过这个字母串 ⇒ 否，考点不同
+　② 中文题面 dedup "至于" ⇒ 命中 🎓#250（that far vs too far，考的是 far 有没有"刚才那句话"可指）⇒ 否，那条管指代、本条管块
+　③ 保留新建（⛔ 建号当天不测）
+收尾复核（§4⑤1b，同日）：补查 dedup "when it comes to" ⇒ 命中 🎓#317（when it comes **TO** sth）· 🎓#58（it mainly comes down to）
+　⇒ 两条的目标形式都是 come 那一族，本条是 as for ⇒ **两条，不并**；按判重三步③ 当场落实**题面互斥**：
+　　本条题面点名"两个词的块 · 第一个词是 **as**" ⇒ 排掉 when it comes to；
+　　🎓#317 题面点名"用 **come** 说" ⇒ 排掉 as for。两边各自唯一，⛔ 不会撞车。
+
+**我错在哪**
+她的：`As far what's trending right now`　　正确：`As for what's trending right now`
+找法：写完 as far，回头问一句 —— 后面有没有 as … goes？没有就把 far 换成 for。
+
+**题面**
+"至于现在流行什么"（**两个词**的块 · 第一个词是 **as** · ⛔ 不许用 about／regarding／speaking of）
+
+- 2026-09-21 ❌ 首犯 · 新题 bank:1005（P3）· 原话 `As far what's trending right now, I'm actually not too sure`
+
+### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
+类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**ballad** ＝ 节奏慢、以唱情绪为主的歌（情歌、抒情曲）：`a power ballad` · `all sorts of ballads` · `a slow ballad`。
+可数，说"这一类歌"时常用复数 ballads。
+同一格里的邻居（别串）：**folk music** ＝ 民谣／民间音乐（一个**流派**，不可数）· **pop music** ＝ 流行乐（流派，不可数）·
+**a tune** ＝ 一首曲子（中性，指任何一首）。
+判据一句话：说的是"慢歌／情歌"这一类**歌曲** ⇒ ballad（可数）；说的是"哪个**流派**" ⇒ pop／folk ＋ music（不可数）。
+
+**怎么发现的**
+2026-09-21 学习日 新题 bank:1005（P3）· 她在自己的产出里主动标注 `all sorts of ballads(这个单词要背）`
+—— 词**用对了**，是她点名要收进复习（§2③ 她主动提出的）。
+判重三步：
+　① 目标形式 ballad ⇒ dedup "ballad" ⇒ 零命中
+　② 中文题面 dedup "慢歌" ⇒ 零命中（同批查的 "至于" 命中 🎓#250，与本条无关）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+本条不是她犯的错：她这次写的 `all sorts of ballads` 完全正确，缺的是"下次还调不调得出来"。
+找法：想说"抒情慢歌／情歌"，先别拼 slow songs，先问一句 —— 有没有一个 **b** 开头的名词？
+
+**题面**
+"各种各样的抒情慢歌"（"抒情慢歌"用**一个名词**说，**b** 开头 · ⛔ 不许用 slow songs／love songs）
+
+- 2026-09-21 新建 · 新题 bank:1005（P3）· 触发原话 `all sorts of ballads(这个单词要背）`（⭐ 她点名要背，词本身用对了）
 
 ## 迁移说明（2026-08-18）
 
