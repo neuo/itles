@@ -13,8 +13,10 @@
 > 　教练在练习中仍然**只在条目原地改状态行**，⛔ 不手工搬文件、⛔ 不在本文件里新建条目。
 > 　脚本只挪**已有的整块字节**：problems.md 里的 🎓 搬进来、本文件里已不是 🎓 的搬回去；
 > 　⛔ 不改状态、不改正文、不改任何一个数、不碰本头部说明块；搬完自校，不过就两个文件整批回滚。
-> **★ 最近一次刷新：2026-09-21 收尾**（`drill.py stats` 逐条实数，migrate 之后）
-> 　本文件 **425 条**（全部 🎓）｜ 全档 **498 条** ＝ 本文件 425 ＋ `problems.md` 73 ｜ 🎓 占比 **85.3%**
+> **★ 最近一次刷新：2026-09-23 收尾**（`drill.py stats` 逐条实数，migrate 之后）
+> 　本文件 **435 条**（全部 🎓）｜ 全档 **502 条** ＝ 本文件 435 ＋ `problems.md` 67 ｜ 🎓 占比 **86.7%**
+> 　（当天 migrate 搬入 10 条：#0010 #0125 #0297 #0319 #0320 #0412 #0469 #0481 #0486 #0488 ／ 搬回 0 条）
+> 〔上一次〕2026-09-21 收尾：本文件 425 ｜ 全档 498 ｜ 🎓 85.3%
 > 　2026-09-21 migrate：problems.md → 本文件 **23 条**（当天毕业）· 本文件 → problems.md **1 条**（#0452 回潮）
 > 〔上一次刷新留档〕2026-09-20 收尾：本文件 403 条 ｜ 全档 490 ＝ 本文件 403 ＋ problems.md 87 ｜ 🎓 82.2%
 > 　本日搬入 **16 条**（09-20 毕业的）：
@@ -477,6 +479,67 @@ P1 介词　R · P1
   写出 `will instead **point you in the right direction**`。接"做什么"走的是固定块，
   ⛔ 没写 point sb to do（那个结构不存在）。等了 15 个练习日仍在。rc 0 → 1。
   ⚠️ 本次题面已彻底换场景（08-16 那版与 #0056 是同一个句子的两个说法，同组必然互相提示）。
+
+## #0010 if they cannot cure → if they cannot treat the disease（cure 及物必带宾语）
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F01
+
+**问题是什么**
+P1 论元完整　R · P1
+
+★ **2026-09-19 补（第二个实例：finalise）—— 规则写成一句**
+```
+中文动词后面的宾语**能省**（"至今还没定稿""治不了"—— 定什么、治什么靠上文）；
+英文**及物动词**后面的宾语**不能省**，上文说过也要用 it ／ them 补回来：
+　⛔ both parties have yet to **finalise**;　　✔ have yet to **finalise it**
+　⛔ if they cannot **cure**　　　　　　　　 ✔ if they cannot **cure it** ／ **treat the disease**
+高危动词（中文常省宾语、英文必须带）：finalise · complete · cure · treat · implement · approve · discuss · solve
+```
+**找法**：句末是一个及物动词、后面直接跟分号／句号 ⇒ 回头问一句「动了**什么**？」—— 答得出就把它（或 it）补上。
+
+**怎么发现的**
+2026-08-15　D5 学习日
+
+**我错在哪**
+她的：if they cannot **cure**
+正确：if they cannot **treat the disease**（cure 及物必带宾语）
+
+**中文触发点**
+这套新流程早就写进文件了，可到现在各个部门也没真正落实。
+（★ 后半用 implement —— 形态与时态自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组1 第2题）
+（老触发点留档不删：方案上个月就交上去了，但领导到现在还没批。／（★ 后半用 approve —— 形态与时态自己定）／⚠️ **2026-09-19 换题面**：老题面把宾语「这个病」写在中文里了，逼不出"省宾语"那一步；新题面中文不说批什么，英文必须自己补 it／**如果医生治不了这个病**（08-16 题面加死；原「如果治不了」无主语无宾语。08-18 把当前题面搬到列首 —— 补出宾语位，cure/treat 的及物性才验得到））
+
+### 历史记录
+- 2026-08-15 ✅ D5 学习日
+- 2026-08-16 ✅ 复习日 C1·组8
+- 2026-08-18 ✅ D1 学习日 C2·组4
+
+<details><summary>原始行（旧表逐字，旧号 E-122）</summary>
+
+`**如果医生治不了这个病**（08-16 题面加死；原「如果治不了」无主语无宾语。08-18 把当前题面搬到列首 —— 补出宾语位，cure/treat 的及物性才验得到）|if they cannot **cure**|if they cannot **treat the disease**（cure 及物必带宾语）|P1 论元完整|R · **P1**|`
+
+</details>
+- 2026-09-19 ❌D2 学习日 C7·组3 第 3 题（顺带）　**🎓 吃到 ❌ ⇒ 当场回潮**
+  主考点 #0460（✅）。「双方至今还没定稿」她写 `both parties have yet to **finalise**;` —— finalise 及物，后面丢了宾语（→ finalise **it**）。
+  中文「定稿」不说定什么，英文及物动词必须把宾语补回来 ⇒ 正是本条「论元完整」的机制（与 08-15 `cannot cure` 同一步）。
+  ⚠️ 四问自审（§5）：① finalise 在书面语里只作及物，裸着收句读者会问"定什么" ⇒ 成立 ② 不是延续 #0460 的判断（那条 ✅）③ 论元层（GRA 桶）④ ❌。
+  ⇒ 正文补了规则句 ＋ 找法 ＋ 高危动词表；中文触发点换成"中文不写宾语"的题面（老题面把「这个病」写出来了，逼不出这一步）。
+  ⇒ 连对 3 → **连对 0 ／ 连错 1**，状态 🎓 → 在池。
+- 2026-09-21 ✅D4 复习日 C7·组1 第 2 题　**回潮后第一次测量**
+  题面「这套新流程早就写进文件了，可到现在各个部门也没真正落实。（★ 后半用 implement —— 形态与时态自己定）」
+  她写 `This new procedure has long been documented, yet the various departments have not genuinely **implemented it**`。
+  中文⛔没说"落实什么"，她把宾语 `it` 自己补回来了 —— 正是 09-19 `have yet to **finalise**` 塌掉的那一步（高危动词表里的 implement 这一格）。
+  ⚠️ 两处进更好版（不算错）：`has long been documented` → `was written into the rules long ago`（documented 的默认意思是"有据可查"，差一层）· `the various departments have not` → `none of the departments has`。
+  ⚠️ 句末缺句号 ⇒ 排版，手滑豁免。
+  ⇒ 连错 1 → **连对 1**、连错归 0。
+- 2026-09-23 ✅D1 学习日 C8·组1 第 4 题　**连对 2 ⇒ 🎓**
+  题面「这条隧道去年就该通车了，可施工队至今没完工。（★ 后半用 complete —— 形态与时态自己定）」
+  她写 `This tunnel should have been opened to traffic last year, while the construction team has yet to complete the work to date.`
+  中文⛔没说"完成什么"，她把宾语 `the work` 自己补回来了 —— 正是 09-19 `have yet to **finalise**`（裸着收句）塌掉的那一步。
+  ★ 这是**换了动词的第二次读数**：09-21 是 implement（她补 it），今天是 complete（她补 the work）⇒ 高危动词表里两格都守住了。
+  `should have been opened` 的完成 ＋ 被动也对。
+  ⚠️ 顺带 △：`has yet to … **to date**` 同一层说两遍 ⇒ 归 #0221（该条档位写死是 △）。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓（回潮后重新毕业，rc 归零，从 🎓rc0 重爬梯子）。
 
 ## #0011 医生会告诉病人有更好的药
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F01
@@ -2794,6 +2857,122 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   ⚠️ 本条今天另有一行 📋（组4 顺带用对）⇒ 按 §3.2 同日只结算一次，本行是**唯一的判定行**。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ ④ 账已补。
 
+## #0469 「谁付／向谁收」：charged to ／ payable by ／ levied on
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F01 ｜ 题型 整句
+
+**问题是什么**
+```
+**charge sb for sth**　向某人收某项费用（动词，人在前）　`**charge** residents **for** waste collection`
+**be charged to sb**　这笔费用记到谁头上　`The fee **is charged to** the tenant.`
+**be payable by sb**　这笔钱应由谁付　`the charges **payable by** each household`
+**be paid by sb**　　 实际由谁付掉了　`The bill **was paid by** the company.`
+**be levied on sb／sth**　（税费）向谁／对什么征收　`a tax **levied on** imports`
+**be borne by sb**　　（成本）由谁承担　`the cost **is borne by** the state`
+```
+**判据（一句话）**：**收谁的** ⇒ charge sb for；**记谁账上** ⇒ charged to；**该谁付** ⇒ payable by；
+**已经谁付了** ⇒ paid by；**税向谁征** ⇒ levied on；**成本谁扛** ⇒ borne by。
+⚠️⚠️ **最要紧的一条（她 2026-09-06 栽的就是这一格）**：
+　 **payable ／ charged to ／ levied on 前面那个中心词必须是「钱」**
+　（charges ／ fee ／ tax ／ cost ／ bill），⛔ 不能是服务本身：
+　 ⛔ ~~the waste disposal payable by each household~~　✔ `the waste disposal **charges** payable by …`
+⚠️ 与 **#0249**（费/价一族 bill／fee／charge）交叉引用：那条管**哪种费用叫什么**，本条管**谁付谁收**。
+⚠️ 与 **#0386**（废弃物处理一族）交叉引用：那条管 `waste disposal charges` 这个块本身。
+
+**成员出题账**
+```
+① payable by　 —— 2026-09-06 组3 第 8 题②　⇒ ❌ 中心词丢了（写成 `the waste disposal payable by…`）／ 2026-09-07 组2 第 2 题 ⇒ ✅（`the waste disposal fee is payable by`）
+② charged to　 —— 2026-09-12 组3 第 1 题题面「记到承包商名下」⇒ ✅（`charged to the contractor`）
+③ paid by　　　—— **2026-09-23 组2 第 3 题** ⇒ `is actually paid by the supplier` ✅（第一次出题即中）
+④ levied on　　—— 2026-09-12 组3 第 1 题题面「征收一项进口税」⇒ ✅（`levied on the imported equipment`）／
+　　　　　　　　　 2026-09-19 组3 第 8 题「政府开始征收拥堵费」⇒ 「征收忘了」＝ 调不出 ⇒ ❌　★ 回池后第一次出题就点它（主动式 levy a charge ／ introduce a charge）
+⑤ charge sb for ／ borne by —— borne by：2026-09-12 组3 第 1 题题面「由业主承担」⇒ ✅（`shall be borne by the owner`）；charge sb for 未出过
+```
+
+**怎么发现的**
+2026-09-06　D3 学习日 C5·组3 第 8 题②（词组题，主考点 #0386 判 ❌）。中文「每户要交的垃圾处理费」，
+她写 `the waste disposal payable by each household` —— payable 的用法对，但**中心词 charges 丢了**，
+并当场括注**「和 charged to xx, paid by xx 的区别要学习啊」** ⇒ §2① ＋ §2③。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "charged" "payable" "收费"  ⇒ **零命中**
+② 规则查  同上                               ⇒ **零命中**
+③ 眼过    ①②都零命中 ⇒ 跑 `list --fam F01` 与 `show #0249`，没有讲"谁付谁收"的条目
+逐条否掉：
+  #0249（费/价一族：bill／fee／charge，词表型）—— 三问第 1 问不成立：那条挑的是
+    **哪种费用叫什么名字**，本条是**这笔钱后面挂哪个介词短语、谁是付的那一方** ⇒ 否，交叉引用。
+⇒ 新建，归 F01（动词框架/论元），题型 整句（介词与被动只在句子里失守）。
+```
+
+**我错在哪**
+她的：`the waste disposal **payable by** each household`
+正确：`the waste disposal **charges** payable by each household`
+　 —— payable 修饰的必须是**钱**；`waste disposal` 是那项服务，不是钱。
+**找法**：写"这笔钱"之前先定两件事 —— **中心词是不是"钱"？谁是付的那一方？**
+
+**中文触发点**
+这笔培训费记在部门名下，超出的部分由员工自己承担；
+另外，中心每年还要向每个学员收一笔材料费。
+（★ 三处分别用 charged to ／ paid by ／ charge sb for —— 形态与介词自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组2 第4题）
+（老触发点留档不删：从明年起，市政府将对进入市中心的私家车征收拥堵费，而这笔钱由车主自己承担。／（★ 两处分别用 levy ／ borne by —— 形态与介词自己定）／⚠️ **2026-09-19 换题面**（回潮：「征收」调不出 ⇒ 点 ④ levy；⛔ 题面里不再出现本条以外的生僻动词）／这笔垃圾处理费由每户承担，账单直接记到房东名下，而针对企业另外征收一项排污税。／（★ 三处分别用 payable by／charged to／levied on —— 形态与介词自己定））
+
+### 历史记录
+- 2026-09-06 ❌ 建号（她犯的错 ＋ 她点名要学）D3 学习日 C5·组3 第 8 题②
+  写成 `the waste disposal payable by each household` —— `payable by sb` 这个块本身用对了，
+  丢的是它前面的中心词：payable 只能修饰**钱**（charges／fee／tax），⛔ 不能修饰服务。
+  当场括注「和 charged to xx, paid by xx 的区别要学习啊」。
+  ⚠️ 这一处同时是 #0386（waste disposal charges 那个块）判 ❌ 的直接原因，两条交叉引用：
+  　 #0386 管**块的字面**，本条管**这笔钱挂哪个介词短语**。
+- 2026-09-07 ✅D4 复习日 C5·组2 第 2 题
+  写出 `The waste disposal **fee** is **payable by** each household, with the charge billed directly
+  to the landlord, while a separate levy is imposed on businesses.`
+  ★★ **09-06 塌掉的那一格今天守住**：payable by 前面的中心词是**钱**（the waste disposal **fee**），
+  ⛔ 不是服务本身（她 09-06 写的是 `the waste disposal payable by each household`，charges 丢了）。
+  ⚠️ 另两个成员她走了别的合法路：`charged to` 写成 `the charge **billed to**`（billed to sb ✔）·
+  　 `levied on` 写成 `a **levy** is **imposed on**`（impose a levy on ✔）——
+  　 按 §3.2「题面的词语点名是引导不是判错的门」，句子正确、意思送到 ⇒ 算对；
+  　 但 **② charged to 与 ④ levied on 两个成员仍未测到**，成员账不改，下次优先点它们。
+  ⚠️ 同句顺带 ❌：「一项**排污**税」→ 她写 `a separate levy`，「排污」这一层没进英文 ⇒ 归 #0126。
+  ⚠️ `biiled` 非词、重复键 ⇒ 手滑豁免（§3.2）。
+- 2026-09-12 ✅D3 学习日 C6·组3 第 1 题　**连对 2 ⇒ 🎓**
+  题面「这笔检测费记到承包商名下，而针对进口设备另外征收一项进口税；至于安装费，则由业主承担。（★ 三处分别用 charged to ／ levied on ／ borne by —— 中心词与形态自己定）」
+  她写 `This inspection fee will be charger to the contractor, while a separate import tax will be **levied on** the imported equipment; as for the installation fee, it shall be **borne by** the owner.`
+  ② charged to（`charger` 是 charged 的相邻键手滑、只有一个词说得通 ⇒ 豁免，块在）· ④ levied on ✔ · ⑤ borne by ✔ —— 三个从未测到的成员今天全落地，
+  中心词 fee／tax／fee 全是钱（09-06 塌的那一格守住）。
+  ⇒ 连对 1 → **连对 2 ⇒ 🎓**。⚠️ 成员 ① payable by 09-07 已 ✅、③ paid by 仍未出过（复检时点它）。
+- 2026-09-19 ❌D2 学习日 C7·组3 第 8 题（顺带）　**🎓 吃到 ❌ ⇒ 当场回潮**
+  「政府开始**征收**拥堵费」她答「征收忘了」—— 征收（税费）＝ levy，正是本条成员④（09-12 她写过 `levied on the imported equipment` ✔）
+  ⇒ 学过、这次调不出（没写出来）⇒ ❌。
+  ⚠️ 同题主考点 #0468 因此一个块都没走到 ⇒ 那条记 ◎−（挡路词是本条的考点、却不是那条的考点）。
+  ⇒ 中文触发点换成点 ④ 主动式（levy a congestion charge）的题面。
+  ⇒ 连对 2 → **连对 0 ／ 连错 1**，状态 🎓 → 在池。
+- 2026-09-20 📝D3 学习日 C7·组1 第 7 题（⛔ 不算测过）
+  她写 `the government has started **levying** a congestion charge` —— 正是昨天她答「征收忘了」的那一格。
+  ⚠️ **⛔ 记 📝 不记 ✅**：昨天的反馈里这一句的最小修改版整句给过她，今天的题面又是同一句中文
+  　 ⇒ 这是那份纠正的回放，不是干净的调取读数（与 #0427 2026-09-07「教完当天用对」同一条处理）。
+  ⇒ 本条自己的新题面（levy 的主动式）等它按梯子回来时再测；连对连错不动。
+- 2026-09-21 ✅D4 复习日 C7·组2 第 4 题　**三个成员同题落地，三处介词一个没串**
+  题面「这笔培训费记在部门名下，超出的部分由员工自己承担；另外，中心每年还要向每个学员收一笔材料费。（★ 三处分别用 charged to ／ paid by ／ charge sb for —— 形态与介词自己定）」
+  她写 `This training fee **is charged to** the department, while any excess amount **must be paid by** the employee; in addition, the center **charges each trainee an annual fee for materials**.`
+  ① charged **to**（钱记在谁账上）· ③ paid **by**（谁掏钱）· ⑤ charge sb ＋ 钱 ＋ **for** sth（双宾 ＋ for 的形状一次到位）—— ③⑤ 都是从没出过的格。
+  ★ 本条最容易塌的是 charge sth **to** sb 与 charge sb **for** sth 这两个介词互换，她一处没串。
+  ⚠️ 同句 `trainee` 她当场括注「这个单词背下」⇒ §2③，按 §3.5 A 归入 **#0419**（⛔ 不新建）。
+  ⚠️ 两处进更好版（不算错）：`the employee` → `the employees themselves`（中文「员工**自己**承担」）· `center` → `centre`（英式拼写，本篇里 center 与 -ise／-ize 混用 ⇒ 挑一套用到底）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。成员 ① ③ ⑤ 账已补。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 3 题　**连对 2 ⇒ 🎓**
+  题面「这笔安装费记在项目账上，实际由供应商付；市政府从明年起还要对进口包装征收一项新税。（★ 三处分别用 charged to ／ paid by ／ levy）」
+  她写 `This installation fee is charged to the project account, but is actually paid by the supplier; the municipal government will levy a new tax on imported packaging starting next year.`
+  三格全中，两格是账上标着要优先测的：
+  ① `paid **by** the supplier` —— 成员账 ③ 标「未出过」，第一次出题即 ✅。
+  ② `levy a new tax **on** imported packaging` —— 成员账 ④ 标着「09-19『征收忘了』＝ 调不出 ⇒ ❌，
+  　 回池后第一次出题就点它（主动式 levy a charge）」，今天用主动式调出来了 ✅。
+  本条硬边「payable／charged to／levied on 前面的中心词必须是**钱**」两处都对（fee · tax）——
+  这正是 09-06 她栽的那一格（写成 `the waste disposal payable by…`）。
+  ⚠️ 顺带：她把 `municipal` 括注「这个需要背」⇒ 查重后归入 #0513（行政层级一族，🎓）。
+  ⚠️ 更好版一处（⛔ 不算错）：`starting next year` → `from next year`（starting ＋ 时间偏口语／美式新闻体）。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+
 ## #0470 the problem with X ／ the problem of X —— 两个介词两个意思
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F01 ｜ 题型 整句
 
@@ -5057,6 +5236,138 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   ⚠️ 同一天本条已在组1 第 5 题判过 ✅（overpass ／ underpass 两处各一个名词）⇒ 按 §3.2「当天只结算一次」：
   　 ✅ ＋ △ ⇒ 当天记 ✅，连对 2 ／ 🎓 不变。
 
+## #0488 中文的范畴词「规模／水平／情况／问题」，英文常常不翻出来
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F03 ｜ 题型 整句
+
+**问题是什么**
+中文爱在具体名词后面挂一个**范畴词**（规模／水平／情况／问题／工作／方面），
+英文多数时候**直接对那个具体名词动手**，把范畴词吃掉：
+```
+扩大**经营规模**　⇒ `expand its **operations**` ／ `expand its **business**`
+　　　　　　　　　 ⛔ ~~expand its operation scale~~（两个名词硬拼，母语者不这么说）
+提高**服务水平**　⇒ `improve its **service**`　⛔ ~~improve its service level~~
+改善**居住条件**　⇒ `improve **housing**`
+解决**污染问题**　⇒ `tackle **pollution**`　（`the problem of pollution` 也成立，只是多一层）
+减轻**工作负担**　⇒ `cut their **workload**`
+```
+★ 真要把"规模"说出来时，英文挂在**状语**上，⛔ 不挂进名词块：
+```
+`expand **on a larger scale**` · `operate **on a small scale**`（⇒ #0269 成员①）
+`**scale up** its operations`（动词短语，⇒ #0357 成员⑥）
+```
+★★ **2026-09-20 扩写（她写 `This **set of** alarm system`）—— 本条也收中文的【量词】**
+```
+中文说东西前面几乎都要带一个量词（那**套**设备 · 那**批**货 · 那**项**政策 · 那**条**规定），
+英文多数时候**不翻出来**，直接说那个名词：
+　那套报警器　⇒ `**this alarm system**`　　⛔ ~~this set of alarm system~~
+　那批新设备　⇒ `**the new equipment**`　　那项政策 ⇒ `**this policy**`　那条规定 ⇒ `**this rule**`
+⚠️ 真要说"一套／一批"时，英文的量词块后面必须跟**复数**：
+　`a **set of** alarm**s**` · `a **batch of** order**s**` · `a **series of** measure**s**` · `a **pair of** shoe**s**`
+　⇒ 所以 `a set of alarm system` 两头都不对：既多了一个中文量词，of 后面又是单数。
+```
+**判据（一句话）**：写完一个「X＋范畴词」或「量词＋X」的名词块，**先把那个词划掉念一遍** ——
+意思没变 ⇒ 就该划掉；意思塌了 ⇒ 才留着（真要留，of 后面记得用复数）。
+⚠️ 与 **#0269**（「在小范围／一定范围内」四条路，🎓）分工写死：那条挑的是**表达"范围"该走哪条路**，
+　本条说的是**范畴词该不该进名词块** ⇒ 两条，⛔ 不合并，交叉引用。
+⚠️ 与 **#0449**（「水平／表现」一族，在池）分工写死：那条是"水平"该挑 performance ／ standard ／
+　skill level ／ quality 里的哪一个，本条是"水平"这两个字**要不要出现** ⇒ 两条，⛔ 不合并。
+
+**怎么发现的**
+2026-09-10　D2 学习日 C6·组1 第 7 题（主考点 #0440，命中 ✅）。她写
+`The bookstore expanded **its operation scale** last year` —— 把中文「经营规模」逐字搬成了名词块。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "规模" "scale" "operations"   ⇒ 命中 #0169 #0269 #0357
+② 规则查  dedup "中式块" "硬编" "自己拼的"      ⇒ 命中 #0416 #0042 #0250
+③ 眼过    ①②都有命中 ⇒ 未跑（B0 只在①②都零命中时要求）
+逐条否掉：
+  #0269（「在小范围／一定范围内」四条路，🎓）—— 最像的一条，三问：问1 改正动作？
+    那条是**在四条路里挑对表达"范围"的那一条**（on a scale ／ in cases ／ limited to ／
+    within a range）；本条是**范畴词该不该进名词块** ⇒ 否，交叉引用。
+    ★ 反向验（§3.5 1.3）：`The method works well on a small scale` ✔（#0269）与
+    　`expand its operations` ✔（本条）—— 前者是把"规模"说出来当状语，后者是把它吃掉，
+    　可独立取值 ⇒ 两条。
+  #0357（pilot ／ trial ／ roll out，在池）—— 问1 不成立：那条是"试点再铺开"这一整套动作词，
+    本条是范畴词进不进名词块 ⇒ 否（它的成员⑥ scale up 与本条交叉引用）。
+  #0169（靠个案经验而非大规模试验，🎓）—— 命中的是「规模」二字 ⇒ §3.5 误判2，否。
+  #0416（作品集 ＝ a portfolio，在池）· #0042（have few chances to be effective，🎓）·
+  #0250（企业存续用 survive，🎓）—— 三条都是**某一个具体块该怎么说**，
+    本条是**一整类范畴词的处理办法** ⇒ 三问第 2 问不成立（要分两句话讲），逐条否。
+  #0449（「水平／表现」一族，在池）—— 人工过三问：那条是挑词，本条是删词 ⇒ 否，交叉引用。
+⇒ 新建，归 **F03**（中式块/硬编），题型 整句（§3.5 第 2.5 步 ①：块里有动词 expand／improve，
+　 而且这条的考点只在整句里才看得见 —— 孤立着翻"经营规模"永远会翻出一个名词块）。
+```
+
+**我错在哪**
+她的：`expanded its **operation scale**`
+正确：`expanded its **operations**` ／ `expanded its **business**`
+⚠️ 这一处**不是语法错**，是块生硬（§2②）—— 按 §5 四问④ 档位 ＝ **⚠️不地道**，
+　 所以建号行记 **△**（她的版本达意且成立），⛔ 不记 ❌。
+**找法**：名词块里出现"规模／水平／情况／问题"这类词时，**先划掉它念一遍**，意思没变就别写进去。
+
+**中文触发点**
+这项新技术大大降低了运输费用，也改善了产品的质量问题。
+（★ 两处分别用 cut ／ improve —— 宾语自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组5 第5题）
+（老触发点留档不删：这家县医院去年扩大了经营规模，也大幅提升了医疗水平。／（★ 两处分别用 expand ／ improve —— 宾语自己定）／这家连锁店去年扩大了经营规模，同时也提升了门店的管理水平。／（★ 两处分别用 expand／improve —— 宾语自己定）／这家连锁店去年扩大了经营规模，同时也把门店的服务水平提上来了。／（★ 两处的"规模""水平"都不要翻成名词块））
+
+### 历史记录
+- 2026-09-10 △ D2 学习日 C6·组1 第 7 题（顺带）　建号
+  她写 `The bookstore expanded **its operation scale** last year, expending nearly half of its
+  budget on new equipment for this purpose.` —— 同题主考点 #0440 两格全中 ✅
+  （expand 及物 · expend ＋ on），掉的是"经营规模"这个块。
+  ⚠️ 四问自审（§5）：① 真的错吗 —— `operation scale` 语法上成立、意思也送到了，
+  　 造不出"它错在哪"的判据 ⇒ **⛔ 不判 ❌**；但母语者写 `expand its operations`，
+  　 两个名词硬拼不是英语的块 ⇒ 落在 §2② 的「字面达意但生硬」⇒ 收。
+  　 ② 不是延续 #0440 的判断（那条判 expand／expend 的分工，本条判范畴词）。
+  　 ③ 判的是**块**层。④ 档位 **⚠️不地道 ⇒ △**，两边都不动。
+- 2026-09-12 ❌D3 学习日 C6·组1 第 2 题　**建号后的第一次测量**
+  题面「这家连锁店去年扩大了经营规模，同时也提升了门店的管理水平。（★ 两处分别用 expand ／ improve —— 宾语自己定）」
+  她写 `this chain store expanded **its operations** last year while also improving **the management level** of its stores.`
+  前半 ✔ "规模"吃掉了（09-10 写 operation scale 的那一格转过来了）；后半 ✘ "水平"硬搬进名词块 ——
+  `management level` 在英文里是现成的另一个块（管理层级，at management level），"提高管理层级"讲不通 ⇒ 意思歪了。
+  ⚠️ 四问自审：① 与 09-10 的 `operation scale`（△）不是一个档 —— 那个块英文里不存在、读者自己重构；
+  　 这个撞上了已存在的块、意思被顶走 ⇒ ❌（与 09-10 #0489 `custom service` 同一条口径）。
+  　 ② 不是延续 09-10 的 △。③ 块／词义层。④ ❌。
+  ⇒ 读数：**"规模"那一格已转、"水平"那一格没转** ⇒ 下次题面把"水平／情况／问题"这几个范畴词轮着测。
+  ⇒ 连错 0 → **连错 1**。
+- 2026-09-12 📝D3 学习日 C6·组3 第 6 题（顺带用对，⛔ 不推进）
+  她写 `lower than **the national average**` —— 「全国平均水平」的"水平"没翻进块（母语者就是 the national average）。
+  ⚠️ 本条今天上午在组1 记 ❌（`management level`），按同日口径净结果不变；留这一行是因为它是"水平"那一格的第一条正面证据。
+- 2026-09-19 △D2 学习日 C7·组2 第 1 题　**按 09-12 读数轮到「水平」：管理水平 → 医疗水平**
+  题面「这家县医院去年扩大了经营规模，也大幅提升了医疗水平。（★ 两处分别用 expand ／ improve —— 宾语自己定）」
+  她写 `This county hospital expanded **its scale of operation** and significantly improved **its level of medical care** last year.`
+  两个范畴词都留着，但落在**英文里本来就有的说法**上（scale of operation ／ level of care 都成立），意思送到 ——
+  ⛔ 不是 09-12 `management level` 那种撞上别的块、意思被顶走的错 ⇒ 四问④ 档位 ⚠️不地道 ⇒ △，两边不动。
+  更好版：`expanded **its operations** and significantly improved **its medical care**`（划掉 scale of ／ level of，意思不变 ⇒ 按本条判据就该划掉）。
+  ⇒ 读数：她现在会避开"撞块"，但还没有"先划掉范畴词"的反射 ⇒ 下次题面换「情况／问题」再测一次。
+  ⇒ 连对 0 ／ 连错 1 **不动**。
+- 2026-09-20 ❌D3 学习日 C7·组1 第 8 题（顺带）　**正文扩写：范畴词 → 也收量词**
+  主考点 #0126（✅）。她写 `**This set of** alarm system installed only last year …`
+  中文量词「那**套**」直接搬进了英文名词块；英文 `a set of` 后面必须跟复数（a set of alarm**s**），
+  而"报警器"这个东西本身就叫 an alarm system ⇒ 把量词划掉就对了：`This alarm system`。
+  ⚠️ 四问自审（§5）：① `a set of alarm system` 造不出母语者句（set of 后面必须复数）⇒ 成立 ② 不是延续 #0126 的判断（那条 ✅）
+  　 ③ 块／数层 ④ ❌。
+  ⚠️ 查重后归本条而非 #0251／#0409：本条的判据「把范畴词划掉念一遍，意思没变就别写进去」对量词一字不改地适用
+  　（§3.5 A 第二种：比老条目更宽 ⇒ 正文扩写）。
+  ⇒ 连错 1 → **连错 2**。
+- 2026-09-21 ✅D4 复习日 C7·组5 第 5 题　**连错 2 翻身**
+  题面「这项新技术大大降低了运输费用，也改善了产品的质量问题。（★ 两处分别用 cut ／ improve —— 宾语自己定）」
+  她写 `This new technology significantly **cut transportation costs** and also **improved product quality**.`
+  两个范畴词**一个都没翻出来**：⛔ 没写 cut the **level of** costs、⛔ 没写 improve the **problem of** product quality
+  —— 正是本条要的那个动作（中文的"费用／问题"在英文里直接落到实义名词上）。
+  ★ 出题时按 §6 **故意⛔ 不在题面里点"范畴词别翻出来"**（点了等于给答案），她零提示下自己做到了。
+  ⚠️ `transportation` 是美式（英式 transport）—— 两套都算对，⛔ 不判错，只在教练侧记一笔本篇美英混用。
+  ⇒ 连错 2 → **连对 1**、连错归 0。
+- 2026-09-23 ✅D1 学习日 C8·组3 第 2 题　**连对 2 ⇒ 🎓**
+  题面「这家企业明年要扩大经营规模，同时提高员工的培训水平；那套检测设备也要换掉。（★ 范畴词与量词该吃掉就吃掉）」
+  她写 `The company plans to expand its operations next year while improving employee training; that testing equipment will also be replaced.`
+  三处全中：「经营规模」⇒ `its operations`（⛔ 不是 operation scale）·「培训水平」⇒ `employee training`（⛔ 不是 training level）·
+  **「那套」⇒ `that`**（⛔ 不是 that set of testing equipment）—— 第三处正是 2026-09-20 `This **set of** alarm system`
+  塌掉、并因此扩写本条的那一格，今天守住了。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+
 ## #0508 「X 圈／X 界」＝ X circles（★ 复数）／ the X world —— circle 这个词没错，错在**数**
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F03 ｜ 题型 整句
 
@@ -5444,7 +5755,7 @@ P11 硬编＋P4 数 → P11 硬编（08-16 更正：合并组里 P4「find jobs�
   ⇒ 距上次判定 08-27 隔了 16 个练习日，一次就对。
 
 ## #0059 不可数名词一族：不加 -s、不加 a、配单数谓语（含 advice ↔ advise 的名词/动词分工）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F04
 🔗 2026-08-22 **#0325 已并入本条**（她定：「#0325 可以合并」）
 ⚠️ 2026-08-23 教练一度把组2 的 `works` 判进本条并翻转当天结果 ——
 　 **她指出那是 `workers` 的打错 ⇒ 与不可数性无关 ⇒ 该判定已撤销**，当天结果回到 ✅（见历史）。
@@ -5661,6 +5972,12 @@ streak 重算（合并后按 §3.2 同日口径逐日算）
   而且主语后面还挂了一个分词块没被带偏。
   ⚠️ 本日第二次（第一次是组1 第 3 题的 `pay compensation to…`）——
   　 按 §3.2「同一天同一编号出现几次就写几行」照记；streak 与 rc 当天仍只结算一次。
+- 2026-09-23 📋D1 学习日 C8·组3 第 1 题（顺带用对）
+  主考点 #0481（✅）。她写 `the regulators' **attention**` 与 `the auditor's **attention**` ——
+  attention 两处都没加 -s（本条管的正是"不加 -s、不加 a、配单数谓语"这一族）。
+  ★ #0481 的正文里专门写着「attention **不可数** ⇒ ⛔ ~~draw attentions~~（与 #0059 交叉引用）」，
+  今天这一句同时把两条都行使了。
+  ⇒ 🎓 状态不变，rc ＋1。
 
 ## #0060 the patient … larger hospitals → … a larger hospital（单数病人配单数医院；轻度——数的一致性）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F04
@@ -5782,7 +6099,7 @@ K（判据；表达侧记 ✅+ 她的）
   　 顺带避开与同组 #0079 原写「银行」及 #0070「正规治疗」的语境撞车。
 
 ## #0064 雇主和员工的利益并不总是一致
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-06 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F04
 
 **问题是什么**
 待排序　U（待定）
@@ -5832,6 +6149,11 @@ K（判据；表达侧记 ✅+ 她的）
   两处都对：「利益」用复数 interests ✔ · 回指词跟着变复数 `those of` ✔ ——
   这正是 08-27 一次性失守的那两个位置。`look after sb's interests` 也是固定搭配。
   ⇒ 连对 2，**毕业**。
+- 2026-09-23 📋D1 学习日 C8·组2 第 5 题（顺带用对）
+  主考点 #0126（本组 ✅）。她写 `the quota is slightly lower **than that of** last year` ——
+  回指代词随中心词的数变：中心词 quota 是单数 ⇒ `that of`（08-27 她在**复数**那一格失守过，
+  写成 the interests … 的回指时漏了 those of；09-06 复数那一格已 ✅ 毕业）。
+  ⇒ 单数这一边今天也对上了 ⇒ 🎓 状态不变，rc ＋1。
 
 ## #0065 「decline…我要学」
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F04
@@ -6869,7 +7191,7 @@ P5 拼写　R · P5
   等了 14 个练习日仍在。rc 0 → 1。
 
 ## #0087 droped → dropped（单音节+单元音+单辅音尾要双写；同 plan→planning）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F05
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F05
 
 > 🔴 **2026-08-27 降级：🎓 后复现，状态改回在池、连对归零（§3.3），毕业线仍是 2。**
 > ⚠️ 本条 08-27 降级时住在 `graduated.md`，按 §3.3 只在原地改了状态行；
@@ -7002,6 +7324,10 @@ P5 拼写规则（08-15 聊天另有 planing→planning 同规则一次，判真
   三格一次全中：transfer**red**（09-10 写 transfered 栽的那一格）· control**led** · visit**ed**（重音在前 ⇒ ⛔ 不双写，这是"不该双写"那一边第二次被测）。
   ⚠️ `just last month` ← 中文是「**还**参观过」（另外又做了一件事）⇒ 层次换了个意思，档位 ⚠️，只进更好版（also）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-09-23 📋D1 学习日 C8·组1 第 3 题（顺带用对）
+  主考点 #0522（✅）。她写 `most failures **occurred** at night` —— 重读闭音节、后缀前双写末辅音，双写正确。
+  同组另有 `enrolled` ✔（-ll- 英式双写）· `paid` ✔（不规则）⇒ 本条规则在三个不同词上都守住。
+  ⇒ 🎓 状态不变，rc ＋1。
 
 ## #0088 alomst → almost
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-06 ｜ 族 F05
@@ -10014,6 +10340,111 @@ P11 固定语序　R · P11
   　 只留顺序**给她。她排对了 ⇒ 读数干净。
   ⚠️ `a paper **about**` 与 `a paper **on**` 都成立（on 更学术）⇒ ⛔ 不判。
   ⇒ 等了 14 个练习日（上次 08-22），一次到位。
+
+## #0125 「再多 N 个 X」的形状：another week ／ another two days ／ two extra hours ／ an extra two hours
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F07
+
+**问题是什么**
+P12（"再多一个 X"＝another X / one more X）　R · P12
+
+★★ **2026-09-19 扩写（她写出 `work **extra two hours**`，考点从 another 一个词扩到「再多 N 个 X」的全部形状）**
+```
+① 数字在前 ＋ more ／ extra ＋ 复数　　　`two **more** days` · `two **extra** hours` ✅
+② another ／ an extra 在前 ＋ 数字 ＋ 复数　`**another** two days` · `**an extra** two hours` ✅
+　 ★ another ＝ an ＋ other，自带那个 an；extra 没有 ⇒ 放到数字前面就得自己补 **an**
+③ 单数：another ／ one more ／ an extra ＋ 单数　`another week` · `one more week` · `an extra hour` ✅
+⛔ ~~extra two hours~~（光杆 extra 放在数字前）　⛔ ~~a more week~~　⛔ ~~another days~~（光杆复数）
+```
+**判据（一句话）**：**more ／ extra 放在数字后面；要放在数字前面，只能是带 an 的 another ／ an extra。**
+⚠️ 与 **#0414**（次数状语 once more ／ twice more，🎓）分工：那条管**次数块**内部的词序，
+　 本条管**名词前面的数量**怎么说 ⇒ 两条，⛔ 不合并（09-01 同日一对一错的反向验照样成立）。
+
+**怎么发现的**
+2026-08-16　复习日 C1·组4
+
+**我错在哪**
+她的：rest for **a more week**
+正确：rest for **another week**
+★ 2026-08-22 扩写（她今天写出 `another **days** off`，把规则的第二半暴露出来）：
+```
+another ＋ **单数名词**            `another week` ✅ `another day` ✅
+another ＋ **数词 ＋ 复数**        `another two days` ✅ `another five years` ✅
+another ＋ **few ＋ 复数**         `another few days` ✅
+⛔ another ＋ 光杆复数             `~~another days~~` ❌
+最省事的一条路：**a few more days** ／ **two more days** —— 用 more 就不必记 another 的例外
+```
+**找法**：写完 another，看它后面那个名词 —— 是单数吗？不是的话，中间必须有数词或 few。
+★ 2026-09-19 补：写 extra／more 的时候看它和数字谁在前 —— **数字在前就对**（two extra hours）；
+　 extra 在前 ⇒ 前面必须有 **an**（an extra two hours），否则换成 another。
+
+**中文触发点**
+这场展览原定下周结束，主办方决定再延长两周；门票也比去年多收了五块钱。
+（★ 前半用 another，后半用 extra —— 位置自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组1 第9题）
+（老触发点留档不删：为了赶工期，工人们这个月每天多干两个小时，周末还要再加一天班。／（★ 前半用 extra —— 位置自己定；后半用 another）／⚠️ **2026-09-19 换题面**（考点扩到 extra 那一格 ⇒ 限定随之改写；原限定「两处"再"都用 another」只管 another 一格）／医生说他还得再休息一周，之后可能还要再多两天。（★ 两处"再"都用 another））
+
+### 历史记录
+- 2026-08-16 ✅ 复习日 C1·组4
+- 2026-08-22 ❌ D4 复习日 C2·组4 第 1 题（顺带）　~~归入待确认~~ → **已于当日 §8④a 结清，见本块末**
+  题面「医生建议他多休息几天」（主考点 #0018），她写 `to take **another days** off`。
+  正确：`another **few** days off` ／ `**a few more** days off`。
+  ⚠️ **归入待确认的理由**（§3.5 误判3）：本条原错是 `a more week`（该用 another 时用了 a more），
+  　 今天是 `another days`（用对了 another 但后面配错了数）。
+  　 问 1（改正动作＝把"再多 N 个 X"写成合法形状）与问 2（一句话能覆盖）成立，
+  　 **问 3 存疑** —— 知道 `another week` 未必知道 `another days` 不合法。
+  ★★ **2026-08-22 复习日 §8④a 结清：确认归入本条，「归入待确认」撤销。**
+  　 复查过程：问 3 重判为**成立** —— 本条的规则句是「another 后面只能是**单数**，
+  　 或者数词／few ＋ 复数」，真内化了这一句，看到 `days` 就知道中间必须补东西。
+  　 反向验（§3.5 1.3）：**举不出**"`another week` 对、`another days` 也对"的句子
+  　 （`another days` 在任何语境下都不合法）⇒ 两者不能独立取值 ⇒ 同一条，不拆。
+  ★ 反向证据：档案里记过她自发写对 `take another **week** off`（迁移时登记为她的资产）
+  　 ⇒ **单数那一半是稳的，复数那一半是空的**。
+
+<details><summary>原始行（旧表逐字，旧号 E-082）</summary>
+
+`再休息一周|rest for **a more week**|rest for **another week**|P12（"再多一个 X"＝another X / one more X）|R · **P12**|0/3|`
+
+</details>
+- 2026-08-27 ✅ D4 复习日 C3·组9 第 2 题　**连错 1 → 连对 1**
+  写出 `rest for **another week**, and maybe **another two days** after that.`
+  考点**两种形态都命中**：another ＋ 单数名词（another week）· another ＋ 数词 ＋ 复数
+  （another two days）。**08-22 她写过 `another days off`（光杆复数）** —— 那个坑今天没踩。
+  ★ 题面按 §6 给了 `another` 这个词本身，**后面接什么留给她** —— 那才是考点。
+  ⚠️ 一处 ⚠️（进更好版，不算错）：`The doctor said he **needs**` → `needed`。
+  　 间接引语通常回退一格时态；说话内容此刻仍成立时不回退也可以 ⇒ 判 ⚠️ 不判 ❌。
+- 2026-09-01 ✅D4 复习日 C4·组2 第 10 题　**连对 1 → 2 ⇒ 🎓**
+  写出 `the contract could be renewed for **another year**, and for **another two months** after that
+  if necessary.` **两种形态都命中**：another ＋ 单数名词 · another ＋ 数词 ＋ 复数 ——
+  08-22 塌的正是复数那一半（`another days`），08-27 与今天连续两次写对。
+  📋 顺带用对：`could **be renewed**` —— 被动＋情态把中文「还能再续」的"能"送到了。
+  📋 手滑豁免：`another  year` 双空格（排版）。
+- 2026-09-19 ❌D2 学习日 C7·组1 第 3 题（顺带）　**🎓 吃到 ❌ ⇒ 当场回潮 ＋ 正文扩写**
+  主考点 #0095（✅）。「这家小公司的工人每天要**多干两个小时**」，她写 `have to work **extra two hours** every day`。
+  正确：`two **extra** hours` ／ `an **extra** two hours` —— extra 与 more 一样放在数字后面（two extra hours · two more hours）；
+  放在数字前面就必须带 an 连成一整块（an extra two hours），与 another two days 同一个形状。
+  ⚠️ 四问自审（§5）：① 母语者写 two extra hours ／ an extra two hours，光杆 extra 放在数字前不出现 ⇒ 成立 ② 不是延续 #0095 的判断（那条 ✅）
+  　 ③ 名词前的数量修饰语位置（GRA 桶）④ ❌。
+  ⚠️ ⛔ 不按 R3（固定块掉零件）：她写对过的 `an extra hour`（08-25）· `an extra fee`（08-24）都是**单数**那一格，**数字 ＋ 复数**这一格档案里从没写对过。
+  ★ 按 §3.5 A 第二种「比老条目更宽」⇒ 正文扩写（another 一族 → 「再多 N 个 X」的全部合法形状，含 extra），标题同步改。
+  ⇒ 连对 2 → **连对 0 ／ 连错 1**，状态 🎓 → 在池。
+- 2026-09-21 ✅D4 复习日 C7·组1 第 9 题　**回潮后第一次测量，塌掉的那一格补上了**
+  题面「这场展览原定下周结束，主办方决定再延长两周；门票也比去年多收了五块钱。（★ 前半用 another，后半用 extra —— 位置自己定）」
+  她写 `… have decided to extend it by **another two weeks**; ticket prices have also been increased by **an extra five dollars** compared with last year`。
+  两格都对：`another ＋ 数词 ＋ 复数` 与 `an extra ＋ 数词 ＋ 复数` —— **09-19 塌掉的正是后面这一格**（她当时写 `extra two hours`，光杆 extra 放在数字前）。今天她自己把那个 an 带上了。
+  ⚠️ 同句 `scheduled to the end of next week` 是另一条规则 ⇒ 归 #0452（⛔ 不影响本条）。
+  ⚠️ 一处进更好版（不算错）：`increased **by an extra** five dollars` → `tickets also **cost** an extra five dollars`（increased by 已经说了"多出来的量"，再加 an extra 是同一层说两遍）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 4 题　**连对 2 ⇒ 🎓**
+  题面「这门课本来只有六周，学校又加了一周；下学期还要再多做两次实验，每次多给半小时。（★ 三处分别用 another ／ more ／ extra）」
+  她写 `Originally six weeks long, this course has been extended for another week; next semester, students will next to conduct two more experiments, with an extra half hour provided for each session.`
+  三格全中，含 09-19 塌掉的那一格：`an extra half hour` —— extra 放到量词前面时她**自己补了 an**
+  （⛔ 没写成 ~~extra half hour~~，那正是 09-19 `work extra two hours` 的形状）。
+  另两格：`another week`（another ＋ 单数）· `two more experiments`（数字在前 ＋ more ＋ 复数）。
+  ⚠️ 顺带（⛔ 不是本条考点）：`students will **next to** conduct` 多了一个 to ⇒ R1 第二次点名（谓语位置写坏），
+  与本日第 7 题 `has consistently ___ its stock` 同一个位置。⛔ 不建号、⛔ 不判本条的错。
+  ⚠️ 更好版两处（⛔ 都不算错）：`extended **for** another week` → `extended **by** another week`（extend by ＋ 幅度是固定搭配）·
+  删掉 `provided`（`with an extra half hour for each session` 已完整，provided 多出一个没有主体的动作）。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0128 只有保持耐心才更可能治好
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F07
@@ -13533,7 +13964,7 @@ P11　R · P11
 </details>
 
 ## #0221 一个词里已经含了的那一层，别再用另一个词说一遍（同义重复）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08
 🔀 2026-08-23 从 F11 迁入 F08（她定：「归属按照你裁定来」）。原标题「此后再没回到峰值」，
 　 是旧档案的题面式命名，一并改成规则式命名。
 
@@ -13681,6 +14112,12 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   　 但 `to this day … still` 是**完全地道的固定强调式**（`To this day I still don't understand.` ✔）。
   　 她这句没有任何冗余 ⇒ 那半个考点作废（详见当日 session 教练侧 ⑧）。
   📋 手滑豁免：分号后 `To` 大写（⚠️ 作文里计入 GRA，当场点名）。
+- 2026-09-23 △D1 学习日 C8·组1 第 4 题（顺带）
+  主考点 #0010（✅）。她写 `the construction team has yet to complete the work **to date**` ——
+  `have yet to` 本身已含"到现在还没"，再挂 to date 是同一层说两遍。
+  按本条判据：把 to date 删掉意思不变 ⇒ 它是重复的。
+  ⚠️ 本条档位写死是 **△ 不是 ❌**（这几个搭配在口语里都听得到）⇒ 两边不动，状态 🎓 不变。
+  ★ 同日第 10 题还有一处同机制的（whereas ＋ however 两个转折说两遍）⇒ 已写进第 10 题的更好版，不另记行。
 
 ## #0256 否决 / 驳回用 reject，不用 deny
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08
@@ -14315,7 +14752,7 @@ an obstacle to         阻碍                a gateway to         门户
   `stepping stone` 两个词、⛔ 没连字符。
 
 ## #0292 carry ＋ 抽象名词 ＝ "自带、附带"（不是"搬"）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08
 
 **问题是什么**
 `carry` 后面接抽象名词时，意思是**这件事本身自带某种性质**：
@@ -14388,6 +14825,12 @@ carries risk                     不可数、泛指风险这个性质 ✔
   ★ 换场景：老触发点「每一项**投资**本身都带着风险」与同组 #0293 的「这笔**投资**」撞车
   　 ⇒ 改成"这项技术／隐患"。
   ★ 本条是 08-25 走**练档**的三条之一（#0289 #0292 #0297），今天是练档之后的第一次复测，一次命中。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 10 题
+  题面「这个职位本身就带着很大的责任，而任何一次并购都自带风险。（★ 两处都用 carry —— 形态自己定）」
+  她写 `This position itself carries significant responsibility, and any merger carries inherent risks.`
+  两处 `carries ＋ 抽象名词` 全中（responsibility · risks），三单形态也对。
+  ★ `inherent risks` 把"自带"这一层又强调了一遍 ⇒ 与本条写死的分界（`carry a risk` 内在 ≠ `pose a risk` 对别人构成威胁）分得很清。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0293 payoff / return / reward / gain 四个"回报"怎么分
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F08
@@ -14719,6 +15162,128 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
   写出 `Experienced personnel **anticipate** potiential system failures and **make prior preparations**.` ——
   不只是"预料"，后半把"提前应对"也写出来了 ⇒ 正是 anticipate 与 expect 的分界。
   `potiential` 是非词 ⇒ 手滑豁免。
+
+## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08
+
+**问题是什么**
+```
+✅ `accepting the leftover **uncertainty**` · `**Uncertainty** is inevitable.`
+✅ `Risk is invariably accompanied by **uncertainty**.`
+```
+**冠词与数**（最容易错的一层）：
+```
+不可数（泛指"不确定性"这个概念）—— 零冠词  `**Uncertainty** discourages investment.`
+可数（具体的某一处不确定）—— 加冠词/复数    `There are still **a few uncertainties** about the timeline.`
+```
+常配的动词与形容词：
+```
+动词  **accept / live with / reduce / remove / cope with** uncertainty
+形容词 **considerable / genuine / residual / lingering** uncertainty
+      ⚠️ `leftover uncertainty` 能懂但偏口语，书面写 **residual / remaining**
+```
+★ 与 #0269（在小范围）里 `within a narrow range` 是同一个话题域（不确定与幅度），
+　 但那条管"范围"，本条管"不确定性"这个名词本身。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+关于这笔钱什么时候到账，目前还有很多说不准的地方。
+（★ 必须用 uncertainty —— 冠词与搭配自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组4 第4题）
+（老触发点留档不删：- 2026-09-20（回潮后用这一条）　关于这笔钱什么时候到账，目前还有很多说不准的地方。／（★ 必须用 uncertainty —— 冠词与搭配自己定）／★ 为什么这么写：09-20 那次题面里的「延期」是**考点之外**的词，她卡在那儿、整句没写出来（与 09-19 的「卫生规定」「征收」同一个坑）／⇒ 新题面只留 **uncertainty** 一个未知量，别的词全是她一定有的。／★ 本条的真考点是**可数性与冠词**：默认不可数（considerable ／ a degree of uncertainty · There is uncertainty about X）；／只有指"一个个具体未知项"时才可数（a few **uncertainties** in the timetable）⇒ 这一版中文说的是"很多说不准的地方"但不给个数 ⇒ 逼不可数那一版。／- 2026-08-25（**实际发出的题面**，本条即由它毕业）　时间表上还剩两三处说不准的地方，年底之前应该都能定下来。／（★ 必须出现 uncertainty 这个词）／★ 与下面 08-23 存的那版相比删掉了两条 ⛔ 负向限定（§6 明令提示只写正向的「必须出现 X」）；／「可数复数」这句限定也不再明写 —— 中文「两三处」本身就把它逼死了（数得出个数 ⇒ 可数）。／★ 反过来说：**没发出去的限定不许拿来判她**（§6），所以这次判定只认「uncertainty 是否出现、／数与冠词是否对」，不认那两条被删掉的 ⛔。／- 2026-08-23（存档原版，已被上面那版取代）　时间表上还剩两三处说不准的地方，年底应该能定下来。／（★ 必须用 uncertainty 的**可数复数**形式；⛔ 不许改写成 be subject to change ／ be uncertain）／★ 为什么改：08-23 组6 的题面后半写成「时间表上还有**一部分**说不准」——／「一部分」在中文里是**不可数的量**，最自然的英文就是 `part of the schedule is subject to change`，／可数的 uncertainties 那条路根本不占优。**她当场指出「第二个没必要强行用 uncertainty」，成立。**／改法：中文必须写成**能数出个数的"几处"**（两三处 / 剩下三处），可数复数才有落脚点。／- 2026-08-23（已作废，教练的账）　这个行业的不确定性太大，很多人不敢投钱；不过时间表上还有一部分说不准，年底应该能定下来。／- （建号时）　再周密的计划也留着一部分说不准的地方。（"说不准的地方"用 uncertainty，注意冠词））
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `uncertainty`，全档只命中今天作文的记录，零条目 ⇒ 新建。
+- 2026-08-22 ❌ D4 复习日 C2·组6 第 9 题（顺带）　**建号后第一次被测就塌**
+  她写 `it is always accompanied **with** uncertainty`。正确：`accompanied **by** uncertainty`。
+  ★★ **她自己写对过**：08-20 作文 S4 就是 `It is invariably accompanied **by** uncertainty` ——
+  　 本条正文里那一行例句就是从她那句抄下来的。今天在**低压的单句里反而退回去了**。
+  ⇒ 这说明作文里对的东西**不等于装上了**（那次可能是刚看过范文或当场查过）。
+  　 判词纪律：以后不要拿"作文里写对过"当"已掌握"的证据，只当"见过"。
+  📋 顺带：「总是」→ always 成立；作文里 `invariably` 更重（#0320 的刻度）。
+- 2026-08-23 ✅ D1 学习日 C3·组6 第 4 题　**建号后第一次答对，连对 1**
+  题面「这个行业的不确定性太大，很多人不敢投钱；不过时间表上还有一部分说不准，年底应该能定下来。
+  （★ 两处都用 uncertainty）」（连对 0 ⇒ 按 §6 给英文词），她写
+  `there is **too much uncertainty** in this industry, so many people hesitate to invest.
+  However, part of the schedule is still subject to change and should be finalized by the end
+  of the year.` 并附一句：**「第二个没必要强行用 uncertainty」**。
+  ★ **前半命中考点**：`too much uncertainty` —— **不可数、零冠词**，正是本条"冠词与数"那一层的
+  　 上半边；而且 much（不是 many）也证明她把它当不可数处理 ⇒ 连对 1、连错归 0。
+  ★★ **她的异议成立，是我的题面出坏了**（§0.8 先当她是对的，复核后确认）：
+  ```
+  我写的中文是「时间表上还有**一部分**说不准」——「一部分」在中文里是个**不可数的量**，
+  忠实直译的落点就是 `part of the schedule is subject to change`，
+  而 `a few uncertainties` 要求的是**能数出个数的几处**。
+  ⇒ 中文根本没给可数复数留位置，硬要她用就是"为了考点造语境"（§6 明令禁止的那件事）。
+  ⇒ 而且她给的 `be subject to change` 是这个中文最自然的英文，比我预设的答案好。
+  ```
+  ⇒ 题面已改死（见上方 2026-08-23 那行）：改成「还剩**两三处**说不准的地方」。
+  ⚠️ 所以本条真正被行使的只有**不可数那一半**；可数复数（a few uncertainties）仍未出场，
+  　 但这不是她的账，也不进 REVIEW 池（本条还在池里，下次用新题面正常测）。
+  📋 顺带用对：`hesitate to invest`（不定式，正确）· `be subject to change` 是商务/项目语域的地道块 ·
+  　 `finalized by the end of the year` 时间介词正确 · `However,` 句首带逗号（＝ #0317 的规矩，对）。
+  📋 更好：`Uncertainty in this industry is such that many are reluctant to invest;
+  　 two or three points on the timeline **remain uncertain**, though they should be settled
+  　 by the end of the year.`（`hesitate to` 偏"犹豫要不要"，中文「不敢」更接近 be reluctant to）
+- 2026-08-25 ✅ D3 学习日 C3·组1 第 3 题（**主考点**）　**连对 2 ⇒ 🎓**
+  题面「时间表上还剩两三处说不准的地方，年底之前应该都能定下来。（★ 必须出现 uncertainty 这个词）」
+  ★ 与条目里 08-23 存的题面相比**删掉了两条 ⛔ 负向限定**（「⛔ 不许改写成 be subject to change ／
+  　 be uncertain」）—— §6 明令提示只写正向的「必须出现 X」。删掉不会白测：目标词已直接给出，
+  　 而中文「两三处」把**可数复数**这一层逼死（数得出个数 ⇒ 不可数那条路不占优）。
+  　 同理「必须用可数复数形式」这句限定也不再明写 —— 它已经被中文本身逼出来了。
+  她写 `there are still two or three **remain uncertaintis** on the schedule, all of which are
+  expected to be finalized by the end of the year.`
+```
+uncertainty 走可数复数   two or three … uncertainties  ✔  ← 本条考点，命中
+零冠词 ＋ 数词           two or three uncertainties     ✔（⛔ ~~the two or three uncertainties~~）
+```
+  ⇒ 考点命中，连对 2 ⇒ 🎓。
+  ★ 手滑豁免（§3.2）：`uncertaintis` 拼成的是**非词**，复习组豁免，不记 #0095。
+  ❌ **同句另有一处不属于本条**：`two or three **remain** uncertainties` —— 名词前的修饰位站了一个
+  　 光杆动词。改正动作是「动词进修饰位要先变分词」，与本条（uncertainty 的冠词与数）不是一回事
+  　 ⇒ 三问全否 ⇒ **新建 #0348**。
+  ⚠️ `uncertainties **on** the schedule` —— 更常见的是 `**in** the schedule / in the timetable`。
+  　 但这一处**不判她**：我的中文写的是「时间表**上**」，「上」直接把她推向 on（§6「中文题面自译落点」
+  　 那条自己踩的坑）。教练的账，记在 session 教练侧。
+  📋 顺带用对：`all of which are expected to be finalized` —— 关系代词 which 前加 all of，
+  　 整个从句挂在 uncertainties 上，主谓一致（are）也对 ✔
+  **毕业时存下的（未行使的分支）**
+```
+① 不可数那一半（`Uncertainty discourages investment.` 零冠词泛指）—— 两次测的都是可数复数，未验过
+② 常配动词 accept / live with / reduce / remove —— 一个都没出过（08-20 作文里 accept 自发用过）
+③ 常配形容词 residual / lingering / considerable —— 未出过
+⇒ 走作文验或她自己 review，⛔ 不再出单点题（§3.3）
+```
+- 2026-09-20 ❌D3 学习日 C7·复检组1 第 8 题　**🎓 吃到 ❌ ⇒ 当场回潮**
+  题面「关于这项政策会不会延期，目前还有很多说不准的地方。（★ 必须用 uncertainty —— 冠词与搭配自己定）」
+  她答「忘了，延期感觉不是 delay，然后 **uncertainty 是不是可数也不确定**」—— 整句没写出来。
+  两处卡点分开判：
+  · 「uncertainty 可不可数」＝ **本条自己的考点**（标题就写着"加不加冠词"）⇒ 没拿住 ⇒ ❌
+  · 「延期」＝ 考点之外的词（be extended ／ be postponed）⇒ **我的账**：它挡在 uncertainty 前面，与 09-19 的「卫生规定」「征收」同一个坑
+  当场给回：`There is still **considerable uncertainty about** whether the policy **will be extended**.`
+  　 ＋ 可数性写死：默认不可数（considerable ／ a degree of uncertainty）；**只有指一个个具体未知项时才可数**（a few uncertainties in the timetable）。
+  ⇒ 中文触发点换成只留 uncertainty 一个未知量的题面；连对 2 → **连对 0 ／ 连错 1**，状态 🎓 → 在池。
+- 2026-09-21 ✅D4 复习日 C7·组4 第 4 题　**回潮后第一次测量，题面换掉挡路词之后一次就过**
+  题面「关于这笔钱什么时候到账，目前还有很多说不准的地方。（★ 必须用 uncertainty —— 冠词与搭配自己定）」
+  她写 `There is still **much uncertainty regarding** when the money will arrive.`
+  `much uncertainty` —— **不可数 ＋ much，⛔ 没写成 an uncertainty ／ uncertainties**（本条的死点）；
+  搭配走 `regarding`，与 about ／ over ／ as to 同一格，合法。
+  ★ 09-20 那次她整句没写出来，是我的题面里放了「延期」这个**考点之外的挡路词**（与 09-19 的「卫生规定」「征收」同一个坑）；
+  　 当天已把题面改成不含挡路词的这一条 ⇒ 今天一次就过。**证据：那次不是她不会，是题面挡住了。**
+  ⇒ 连错 1 → **连对 1**、连错归 0。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 1 题　**连对 2 ⇒ 🎓**
+  题面「合同里还有两三处说不准的地方需要澄清；不过在这个阶段，这种不确定性是躲不开的，只能接受。（★ 两处都必须出现 uncertainty —— 数与冠词自己定）」
+  她写 `There are still two or three uncertainties in the contract that require clarification; however, at this stage, such uncertainty is unavoidable and can only be accepted.`
+  ★ **一句话里把本条的两边同时做对**：`two or three uncertaint**ies**`（数得出个数 ⇒ 可数复数）·
+  `such uncertainty is unavoidable`（泛指那个概念 ⇒ 不可数、零冠词）—— 这正是本条 08-23 以来反复架的那一层。
+  搭配也在条目列的范围内：`require clarification` · `can only be **accepted**`。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0298 keep / reduce sth to a minimum ＝ 把…压到最低
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08
@@ -20248,6 +20813,85 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   中文块「评审组（为这次评选临时组成的一组人）」⇒ 她写 `a review panel` —— 对。
   ★ 题面里「临时组成」那半话是 panel／committee 的分界，没把她推到 committee 去。
 
+## #0412 T1 流程题的物料词 —— scraps ／ pellets ／ by-product ／ residue
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**scraps**　　　 边角料、下脚料（**常复数**）　metal scraps · food scraps · the remaining scraps
+**pellets**　　  颗粒（压出来的小圆柱，**常复数**）　fuel pellets · wood pellets · plastic pellets
+**by-product**　 副产品（做主产品时顺带出来的）**可数 ＋ 带连字符 ＋ 固定挂 of**　`a **by-product of** the process`
+　　　　　　　　⚠️ 2026-09-21 反向题里这一格**没走到**（她造的句子里没用上 of）⇒ **2026-09-23 组2 第 8 题正向测到**：
+　　　　　　　　　 中文块「副产品」⇒ 她写 `by-product` ✅（连字符对）；★ `by-product **of**` 的介词仍没被逼出来 ⇒ 下次反向题单点它
+**residue**　　  残渣、残留物（**不可数**）　the residue is filtered out
+**raw material** 原料（常复数 raw materials）　★ 与 #0402 mineral resources 交叉
+```
+⚠️ 三个易混：**scraps ＝ 切剩下的**（还能用）· **waste ＝ 废弃的**（要处理，见 #0386）·
+　 **residue ＝ 反应后剩的渣**。T1 流程图里"剩下的边角料"用 scraps 最贴。
+
+**怎么发现的**
+2026-09-01 D4 复习日 C4·组8 第 9 题：她自己写出 `the remaining scraps are turned into fuel pellets`，
+当场批注两处「**这个词需要背一下**」「**这个词组需要背一下**」⇒ §2③。
+```
+查重（§3.5 B0）
+  ① 词面查  dedup "pellets" "颗粒"   ⇒ **零命中**
+  ② 规则查  —— 固定块，非规则型
+  ③ 眼过    list --fam F08           ⇒ #0386（废弃物处理一族）语义相邻：那条是**处理这件事**，
+                                       本条是**物料本身**
+  逐条否掉：#0386 —— 三问第 1 问不成立（一个是处理／收费的块，一个是物料名）。两条交叉引用。
+```
+
+**我错在哪**
+她的：（建号时无错 —— 两个块都用对了，她点名要背）
+正确：整块背 `scraps`（常复数）／ `fuel pellets`（常复数）。
+
+**中文触发点**
+边角料
+（燃料）颗粒
+
+### 历史记录
+- 2026-09-01 ③ 建号（她点名要学）D4 复习日 C4·组8 第 9 题（顺带用对）
+  她写 `the remaining scraps are turned into fuel pellets`，两个块的复数都对。
+  建号时无对错，连对连错都是 0（§3.5 B5）。
+- 2026-09-03 📋D1 学习日 C5·组1 第 7 题（顺带用对，⛔ 不推进）
+  她在 #0377 那题写出 `another portion of **the scrap**` —— 块的字面对
+  （契约⑬：词组只判字面，⛔ 不判单复数、不判冠词）。
+  ★ 本条 2026-09-01 建号后**第一次在她的产出里出现**，且⛔ 不是被点名调出来的，是自发。
+- 2026-09-03 ✅D1 学习日 C5·组4 第 1 题（词组题）　**连对 1**
+  中文块「（燃料）颗粒」⇒ 她写 `fual pellet` —— 字面对：`fual` 是键位手滑（不是真词、
+  上下文只有 fuel 说得通 ⇒ §3.2 豁免）；`pellet` 的单复数按契约⑬ ⛔ 不判。
+  ⚠️ 只留一句信息（⛔ 不扣分）：这个词**常复数** fuel pellets。
+  ★ 今天本条出现两次：组3 她自发写出 `the scrap`（📋），本组被点名问「颗粒」也调得出 ⇒
+  　 按 §3.2 同日口径，只推进一次（本行）。
+- 2026-09-13 ❌D4 复习日 C6·组2 第 5 题④⑤（词组题）　**连对 1 → 连错 1**
+  中文块「边角料（切剩下还能用的）」⇒「忘了」· 「（木质）颗粒」⇒「忘了」—— **两块都调不出**。
+  ⚠️ 09-03 那次 ✅ 答的是⑤「（燃料）颗粒」（写成 `fual pellet`，按手滑豁免＋不判单复数记对）；
+  　 ④ scraps 从来没被点名问过，只在 09-03 组3 自发写过一次 `the scrap`（📋）。
+  ⇒ 读数：**自发用得出 ≠ 点名调得出**（与 #0289 #0292 #0297 #0446 同一形状，§6 末条）。
+  ⇒ 下次按 §6 末条的**反向出法**：先给英文块 `scraps` ／ `pellets`，只让她写用法（各造一个句子／写搭配）。
+- 2026-09-20 ❌D3 学习日 C7·组2 第 6 题①②（词组题）
+  ① 边角料（切下来还能用的那些）⇒ `scrap` ✔（块在；契约⑬ ⛔ 不判单复数）
+  ② 副产品 ⇒ **「忘了」＝ 调不出** `a by-product`（可数、带连字符；by-product **of** 什么）
+  ⚠️ 按 §3.2 同日口径（出现过 ❌ 就记 ❌）⇒ 本条今天净结果 ❌。
+  ★ 读数：09-13 两块（scraps ／ pellets）都调不出，今天 scraps 这一格翻身、掉的是**从没点名出过**的 by-product。
+  ⇒ 连错 1 → **连错 2**。按 09-04／09-06 的裁定，下一次这条改**反向出法**（先给英文块、只写用法）。
+- 2026-09-21 ✅D4 复习日 C7·组4 第 10 题（**反向题**：给块写用法，连错 2 ⇒ §6 末条）　**连错 2 → 连对 1**
+  出法：块直接给她（pellets ／ a by-product ／ residue），只让她造句并写清可数性 ＋ by-product 的介词。
+  她写 `These **fuel pellets**, derived from **agricultural residue**, serves as **a valuable by-product** that reduces industrial carbon emissions.`
+  三块的用法**全部正确**：pellets 常复数 ✔ · residue 不可数零冠词 ✔ · a by-product 可数、带连字符、带 a ✔。
+  ⚠️ 没回答到的两格：**by-product 固定挂 `of`**（a by-product **of** the process）· "写清可数性"那一问也没写
+  　 ⇒ 记在成员账上，下次反向题补这一格。
+  ⚠️ 同句 `pellets … **serves**` → `serve` ⇒ **R2**（谓语被插入分词块后面的单数 residue 拉走），⛔ 不建条目、当场点名；
+  　 这一处与本条的考点（物料词的用法）无关。
+  ★★★ **今天全天最干净的一个读数**：正向调取 09-13「忘了」· 09-20「忘了」**连塌两次**，
+  　 今天改反向出法（给块、写用法）⇒ **一次全对**。⇒ 这条的缺口确证在**调取**，⛔ 不在用法。
+  ⇒ 连错 2 → **连对 1**、连错归 0。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 8 题（词组题 A ①②）　**连对 2 ⇒ 🎓**
+  中文块「副产品」⇒ 她写 `by-product` ✅（可数 ＋ **连字符** ✔）——
+  这正是条目里标着「2026-09-21 反向题里这一格**没走到**」的那一格，今天正向测到并答对。
+  中文块「残渣」⇒ 她写 `residue` ✅（不可数）。
+  ⇒ 两格字面与拼写全对（契约⑬ 口径：只判块的字面与拼写）⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+
 ## #0413 under ＋ 零冠词名词 ＝ 正处于某个状态
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 词组
 
@@ -23114,6 +23758,118 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ⑦ 每件的单价 ⇒ `the unit price` ✔。09-09 是反向出法，今天正向调取也拿下。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
+## #0481 「引起／吸引注意」一族：draw ／ attract ／ bring to ／ come to sb's attention
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**draw ／ attract sb's attention（to X）**　引起某人注意（★ 最通用；配 **to** 指向那件事）
+　　`The report **drew the attention of** regulators.` · `**attract attention to** the problem`
+**bring X to sb's attention**　把某事**提请**某人注意（★ 方向相反：有人主动去报）
+　　`The issue was **brought to the committee's attention** last year.`
+**come to sb's attention**　某事**进入了**某人的视野（★ 主语是那件事，不及物）
+　　`The practice **came to our attention** in 2024.`
+**catch sb's eye**　（视觉上）一眼看到、被吸引（偏具体、偏口语）
+**attract scrutiny ／ come under scrutiny**　招来审视／被盯上（★ 带负面、带"被查"的味道）
+　　`The scheme has **come under scrutiny** from regulators.`
+**raise concerns**　引发担忧（★ 引起的不是"注意"而是"担心"）
+```
+**判据（一句话）**：**谁在动？**
+那件事把注意力拉过来 ⇒ draw／attract sb's attention　　有人把它报上去 ⇒ bring X to sb's attention
+它自己进了视野 ⇒ come to sb's attention　　被监管盯上 ⇒ come under scrutiny
+⚠️ **冠词与所有格写死**：`draw **the** attention **of** sb` ／ `draw **sb's** attention` —— 两种都行，
+　 ⛔ 但不能各取一半：~~draw attention of sb~~（少了 the）。
+⚠️ attention **不可数**：⛔ ~~draw attentions~~（与 **#0059** 不可数名词一族交叉引用）。
+⚠️ 与 **#0458**（政府部门与监管机构一族）配套：本条给**动作**，那条给**是谁在注意**
+　（regulator ／ authority ／ watchdog）—— 她 2026-09-07 那一句正好把两条一起用上了。
+
+**成员出题账**
+```
+① draw sb's attention (to X) —— 2026-09-07 自发用对（留痕）／ **2026-09-23 组3 第 1 题第一次被点名测到** ⇒ `drew the auditor's attention **to** costs` ✅（完整所有格，⛔ 没各取一半）
+② bring X to sb's attention —— 2026-09-20 组2 第 5 题（题面给了 bring）⇒ **调不出** ⇒ ❌　★ 回来第一件事就是它
+③ come to sb's attention　 —— 2026-09-20 组2 第 5 题（题面给了 come）⇒ **调不出** ⇒ ❌　★ 同上
+④ come under scrutiny　　　—— 未出过
+⑤ catch sb's eye ／ raise concerns —— 未出过
+```
+
+**怎么发现的**
+2026-09-07　D4 复习日 C5·复检组3 第 6 题（主考点 #0024，命中 ✅）。她自己写出
+`The rise in cyber fraud cases **has drawn the attention of** regulatory authorities`，
+并当场括注**「吸引注意，需要建个条目」** ⇒ §2③ 她点名要学。
+★ 按她 2026-09-06 的裁定：**自发用过的块⛔ 不再挂作文验，照常出题练习**。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "attention" "draw" "吸引" "注意"  ⇒ 只命中 #0069 #0249 #0059 #0291
+　　　　　（全是正文与历史记录里偶合的"注意"二字）
+② 规则查  同上                                     ⇒ 同上
+③ 眼过    ①② 实质零命中 ⇒ 跑 `list --fam F08`，全族没有讲"引起注意"这一族动词块的条目
+逐条否掉：
+  #0069 #0249 #0291 —— 命中的是正文里偶然出现的「注意」字样 ⇒ §3.5 误判2，否。
+  #0059（不可数名词一族，🎓）—— 三问第 1 问不成立：那条的改正动作是"这个名词别加 -s／别加 a"，
+    本条是"这一族动词块该挑哪一个、后面挂什么介词" ⇒ 否，两条交叉引用（attention 不可数）。
+⇒ 新建，归 F08，题型 整句（§3.5 第 2.5 步 ①：块里有动词，介词与冠词只在句子里失守）。
+```
+
+**我错在哪**
+她这次**没有错**（`drew the attention of` 用对了，the 与 of 两个零件都在）——
+建号理由是 §2③ 她点名要学。缺口是**这一族其余成员的方向分工**（谁在动）。
+**找法**：写"引起注意"之前问一句 ——
+**是那件事把注意力拉过来、有人主动报上去、还是它自己进了视野？**
+再看一眼冠词：`the attention **of** sb` ／ `**sb's** attention`，⛔ 两者不能各取一半。
+
+**中文触发点**
+这份报告里的几处数据引起了审计方的关注，而那家供应商从去年起就一直受到严格审查。
+（★ 前半用 raise，后半用 come under scrutiny —— 形态自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组5 第2题）
+（老触发点留档不删：这个问题最早是一名员工提请主管注意的；直到上个月才引起公司高层的注意。／（★ 两处分别用 bring ／ come 这两个动词做出来的固定块 —— 介词与冠词自己定）／这份报告引起了监管部门的注意；问题最早是由一名员工提请董事会注意的，／而整个行业直到去年才进入公众视野。／（★ 三处分别用 draw／bring／come 这三个动词做出来的固定块 —— 介词与冠词自己定））
+
+### 历史记录
+- 2026-09-07 ③ 建号（她点名要学）D4 复习日 C5·复检组3 第 6 题（顺带用对）
+  她写 `has **drawn the attention of** regulatory authorities` —— 块用对了，
+  `the` 与 `of` 两个零件都在。当场括注「吸引注意，需要建个条目」。
+  ⚠️ 同句 `regulatory authorities` 是 #0458 的成员，见该条 📝 留痕。
+  ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
+- 2026-09-09 ✅D1 学习日 C6·组1 第 8 题　**连对 1**
+  她写 `This repord had **drawn the attention of** regulatory authorities; the issue was first
+  **brought to the attention of** the board of directors by an employee, whereas the entire industry
+  did not **come into** public view until last year.`
+  三个块的方向全部选对：那件事把注意力拉过来（draw）／ 有人主动报上去（bring to，被动 ＋ by an employee）／
+  它自己进视野（come，不及物）。`the attention **of** sb` 的 the 与 of 两个零件都在，attention 也没加 -s。
+  ⚠️ 第三处她走的是 `come into public view`，**不是**本条的 `come to sb's attention`。
+  　 按 §3.2「判 ❌ 只有两个理由」：句子本身成立、意思也送到，题面点的又正是 come 这个动词 ⇒ **算对**。
+  　 但成员 ③ `come to sb's attention` **没被行使** ⇒ 成员账仍记未出过，
+  　 **下次题面必须把 attention 写进去**（§6：心里有特别想考的就得写进题面）。
+  ⚠️ `repord` 末字母打错、拼出来不是词、上下文只有 report 说得通 ⇒ §3.2 豁免
+  　 （⛔ 不归 #0095 —— 那条专管拼成另一个真词；⛔ 也不归 #0476）。
+  ⚠️ `had drawn` 的过去完成没有参照点、且与下半句更早的 `was first brought` 顺序颠倒 ⇒
+  　 判为 ⚠️不地道（§5 四问自审④），只进更好版，**⛔ 不判错、⛔ 不建条目**（时态是她 09-06 亲自划进扫描类的）。
+  ⚠️ 顺带她括注「董事会得背下」⇒ 已按 §2③ 新建 **#0484**。
+  成员账：① draw the attention of ② bring X to sb's attention 两格已落地。
+- 2026-09-20 ❌D3 学习日 C7·组2 第 5 题　**两个成员都调不出**
+  题面「这个问题最早是一名员工提请主管注意的；直到上个月才引起公司高层的注意。（★ 两处分别用 bring ／ come 这两个动词做出来的固定块 —— 介词与冠词自己定）」
+  她答「忘了，注意的 不会」—— ② bring sth to sb's attention ／ ③ come to sb's attention 两个块都**没写出来**（动词已经印在题面上，介词与冠词是她的活）。
+  当场给回：`The problem was first **brought to the supervisor's attention** by an employee; it did not **come to the attention of** senior management until last month.`
+  ★ 读数：账上 ②③④⑤ 一直写着"未出过" —— 09-09 那次只测了 ① draw sb's attention to，这一条其实只练过四分之一。
+  ⇒ 连对 1 → **连错 1**。
+- 2026-09-21 ✅D4 复习日 C7·组5 第 2 题　**两个从没出过的成员同题落地**
+  题面「这份报告里的几处数据引起了审计方的关注，而那家供应商从去年起就一直受到严格审查。（★ 前半用 raise，后半用 come under scrutiny —— 形态自己定）」
+  她写 `Several data points raises serious the concern of the auditors, while that supplier **has come under scrutiny** since last year.`
+  ⑤ raise ＋ concerns 与 ④ come under scrutiny 两个成员都是第一次出，块都调对了 ⇒ 命中。
+  ⚠️ 同句三处与本条无关：① `points **raises**` ⇒ **R2**（复数主语配三单）· ② `serious **the concern**` ⇒ 形容词站到了 the 前面，
+  　 看形状是写到一半换说法（"serious concerns" → "the concern of…"）留下的残片 ⇒ 按 §2④甲 只指出来、⛔ 不建条目
+  　 · ③ 丢了「严格」这一层（close scrutiny）⇒ 归 #0126。
+  ⇒ 连错 1 → **连对 1**、连错归 0。成员 ④ ⑤ 账已补。
+- 2026-09-23 ✅D1 学习日 C8·组3 第 1 题　**连对 2 ⇒ 🎓**
+  题面「这几笔可疑转账去年底才进入监管方的视野；而报告第二章里的那张图，一下就把审计员的注意力引到了成本上。（★ 前半用 come to … attention，后半用 draw … attention to —— 冠词与所有格自己定）」
+  她写 `These suspicious transfers only came to the regulators' attention at the end of last year; whereas the chart in Chapter 2 of the report immediately drew the auditor's attention to costs.`
+  两格全中，**本条的硬边守住了**：`the regulators' attention` ／ `the auditor's attention` 两处都是完整所有格，
+  ⛔ 没有出现 ~~attention of the auditor~~（各取一半、少了 the）；attention 也没加 -s（⇒ #0059 顺带 📋）。
+  ★ 成员覆盖：① draw sb's attention **to** X（08-09 起标着"自发用对、不算测过"）今天**第一次被点名测到** ⇒ ✅；
+  ③ come to sb's attention（主语是那件事、不及物）也测到 ⇒ ✅。
+  ⚠️ 顺带（⛔ 不是本条考点）：`; whereas` 的分号 ＋ whereas 的身份 ⇒ 归入 #0314。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+
 ## #0483 出院一族：be discharged ／ be admitted ／ be referred ／ be transferred
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
 
@@ -23388,6 +24144,118 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ★ 成员④ the day before（建号以来第一次出）落地，账已补。
   ⚠️ 一处进更好版（不算错）：`did not eat any breakfast` → `skipped breakfast altogether`（一个动词说完"一口都没吃"）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+
+## #0486 「违规／不合规」一族：non-compliant ／ in breach of ／ breach ／ violate
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+⛔ 先把两个形近词分开（她这次串的就是这一对）：
+```
+**complaint**　（名词）投诉　　`file a **complaint**` · `a customer **complaint**`
+**compliant**　（形容词）合规的　⇒ 否定式 **non-compliant** ＝ 违规的、不合规的
+同根：**compliance**（名词，合规）· **comply with**（动词，遵守）`**comply with** the rules`
+```
+「违规的企业」这一格能走的路：
+```
+**non-compliant** firms ／ enterprises　（形容词，最省事）
+firms **in breach of** the rules　　　　（介词块，正式）
+firms that **breach ／ violate** the rules（动词；breach 英式常用，violate 更重）
+**offending** firms　　　　　　　　　　（更口语一点的"犯事的那几家"）
+```
+**判据（一句话）**：要一个**形容词**挂在名词前面 ⇒ non-compliant；
+要说**违反了什么** ⇒ in breach of ／ breach ／ violate ＋ 那个东西（rules／regulations／the agreement）。
+⚠️ 与 **#0458**（政府部门与监管机构，在池）分工写死：那条挑的是**是谁**在管
+　（department／authority／agency／regulator），本条是**被管的一方犯了什么** ⇒ 两条，⛔ 不合并。
+⚠️ 与 **#0456**（「出了问题之后」一族，在池）分工写死：那条挑的是**处置的名字**
+　（compensation／rectification／penalty），本条是**违规这个状态本身怎么说** ⇒ 两条，⛔ 不合并。
+
+**成员出题账**
+```
+① non-compliant　　　—— 2026-09-10 组1 第 2 题写成 `non-complaint` ⇒ ❌ 建号 ／ 2026-09-12 组1 第 7 题（零提示）⇒ ✅ 拼对了
+② in breach of　　　 —— 2026-09-19 组1 第 6 题：那半被题面里的「卫生规定」挡住、没走到 ⇒ 没测到（我的账）★ 仍待测
+③ breach ／ violate　—— 2026-09-12 组1 第 7 题题面「违反了排放标准」⇒ ✅（`for violating`）
+④ comply with ／ compliance（正面那一半）—— 2026-09-19 组1 第 6 题「一直严格遵守这些规定」⇒ 调不出（她说「遵守规定不会」）⇒ ❌　★ 优先测
+```
+
+**怎么发现的**
+2026-09-10　D2 学习日 C6·组1 第 2 题。她写 `**non-complaint** enterprises were separately imposed
+with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ ＋ §2① 同时成立
+（她自己知道没把握，而且写错了）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "compliant" "违规" "合规"      ⇒ **零命中**（#0393 #0109 #0274 都是词面偶合）
+② 规则查  dedup "不合规" "违反规定" "监管"      ⇒ **零命中**（#0458 #0456 #0481 命中的是「监管」二字）
+③ 眼过    ①②都零命中 ⇒ 跑 `list --fam F08`（165 条）⇒ 全族没有讲"违规"这一族的条目
+逐条否掉：
+  #0393（审计 ＝ audit，在池·词组）—— 命中的是正文里的「合规」二字；那条要背的块是 audit
+    ⇒ §3.5 误判2，否。
+  #0458（政府部门与监管机构，在池）—— 三问第 1 问不成立：那条是**是谁**在管 ⇒ 否，交叉引用。
+  #0456（「出了问题之后」一族，在池）—— 三问第 1 问不成立：那条是**处置的名字** ⇒ 否，交叉引用。
+    反向验（§3.5 1.3）：2026-09-07 她写 `with a penalty imposed`（#0456 那一格用对了），
+    今天照样调不出 non-compliant ⇒ 可独立取值 ⇒ 两条。
+  #0109 #0274 #0481 —— 命中的全是正文与历史记录里偶然出现的字样 ⇒ §3.5 误判2，逐条否。
+  #0095（拼成另一个真词，🎓）—— 人工过三问：那条是**一整类现象**（写出来的是另一个真词、
+    自己扫不出来），本条是**这一族块该怎么挑 ＋ complaint／compliant 这一对具体怎么分**
+    ⇒ 第 1 问不成立，否。★ ⛔ 也⛔ 不按手滑豁免处理：她自己声明"这个词需要背下"
+    ⇒ 是词汇缺口，不是键位（§3.2 判据「那个词是不是她自己选的」⇒ 是）。
+⇒ 新建，归 F08，题型 整句（§3.5 第 2.5 步 ①：块里有动词 breach／violate／comply with，
+　 而且要在形容词与动词两条路之间挑 ⇒ 词表型 ⇒ 一律整句）。
+```
+
+**我错在哪**
+她的：`**non-complaint** enterprises`
+正确：`**non-compliant** enterprises` ／ `enterprises **in breach of** the rules`
+**找法**：写"违规"之前先问 —— **我要的是形容词（挂在名词前）还是动词（后面跟"违反了什么"）？**
+再回头看一眼拼的是 compli**a**nt（合规）还是 compl**ai**nt（投诉）。
+
+**中文触发点**
+这家工厂因为违反规定被停了产，而同一条街上那两家一直严格遵守这些规定；
+到现在全区还有十来家没达标的小作坊。
+（★ 前两处分别用 in breach of ／ comply —— 形态与介词自己定；
+"没达标的"⛔ 不给词，那个词的拼写本身就是考点）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组2 第1题）
+（老触发点留档不删：这家餐馆因为违反规定被罚了款，隔壁那家却一直严格遵守这些规定；而全市不合规的餐馆还有二十多家。／（★ 前两处分别用 in breach of ／ comply —— 形态与介词自己定；"不合规的"⛔ 不给词，那个词的拼写本身就是考点）／⚠️ **2026-09-19 当场改题面**：原题面「违反**卫生**规定」—— 「卫生规定」是考点之外的挡路词（她答「卫生规定，遵守规定不会」，／in breach of 那半因此没走到；卫生规定已另建 #0520）⇒ 去掉「卫生」，只写「违反规定」。下次先点 ④ comply with（今天调不出的那一格）／这家餐馆因为违反卫生规定被罚了款，隔壁那家却一直严格遵守这些规定；而全市不合规的餐馆还有二十多家。／两家不合规的工厂被停产了，而第三家因为违反了排放标准正在接受调查。／（★ 后半用 violate 或 breach —— 形态自己定；前半"不合规的"⛔ 不给词，那个词的拼写本身就是考点）／两家不合规的工厂被停产了，而第三家因为违反了排放标准正在接受调查。／（★ 前半用 non-compliant，后半用 violate 或 breach —— 形态自己定））
+
+### 历史记录
+- 2026-09-10 ❌ D2 学习日 C6·组1 第 2 题（顺带）　建号（她当场点名要背）
+  写成 `**non-complaint** enterprises` —— 把 compliant（合规的）串成了 complaint（投诉）。
+  ⚠️ 四问自审（§5）：① 真的错吗 —— `non-complaint enterprises` 读出来是"非投诉企业"，
+  　 造不出母语者句 ⇒ 成立。② 不是延续 #0482 的判断（那条判 impose 的论元框架）。
+  　 ③ 判的是**形近词／词形**层（LR 桶）。④ 档位 ❌。
+  ⚠️ 按 §3.5 B5：本条同时是 §2③（她括注「这个词需要背下」），但**她写错了**
+  　 ⇒ 建号行记 **❌**，连错 1（⛔ 不是 ③）—— 与 #0434 的处理同一条口径。
+- 2026-09-12 ✅D3 学习日 C6·组1 第 7 题
+  题面「两家不合规的工厂被停产了，而第三家因为违反了排放标准正在接受调查。（★ 后半用 violate 或 breach —— 形态自己定；前半"不合规的"⛔ 不给词，那个词的拼写本身就是考点）」
+  她写 `Two **non-compliant** factories were shut down, while a third is under investigation **for violating** emission standards.`
+  ① 零提示下拼对了 non-compliant（09-10 串成 complaint 的那一格翻身）；③ for violating 形态对 ⇒ 命中。成员① ③ 落地（账已补）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。
+- 2026-09-19 ❌D2 学习日 C7·组1 第 6 题　**成员④ comply with 调不出（没写出来）**
+  题面「这家餐馆因为违反卫生规定被罚了款，隔壁那家却一直严格遵守这些规定；而全市不合规的餐馆还有二十多家。（★ 前两处分别用 in breach of ／ comply —— 形态与介词自己定；"不合规的"⛔ 不给词，那个词的拼写本身就是考点）」
+  她答「不太会」。按 §3.2 当场问她卡在哪 ⇒ 她答「卫生规定，遵守规定不会」。分开判：
+  · 「遵守规定」＝ 本条成员④ comply with **本身** ⇒ 考点之内调不出 ⇒ **❌（没写出来）**
+  · 「卫生规定」＝ 考点之外的词汇障碍，把 in breach of（成员②）那半挡住了 ⇒ **题面问题（我的账）**；她说不会 ⇒ §2③ 另建 #0520
+  · non-compliant（成员①）整句没写出来 ⇒ 没测到
+  当场给回：`This restaurant was fined for being **in breach of** hygiene regulations, while the one next door has always strictly **complied with** them; there are still more than twenty **non-compliant** restaurants in the city.`
+  ⚠️ 下次题面把「卫生」去掉，只写「违反规定」，⛔ 别再让考点之外的词挡路。
+  ⇒ 连对 1 → **连错 1**。
+- 2026-09-21 ✅D4 复习日 C7·组2 第 1 题　**09-19 调不出的成员④ 今天调出来了**
+  题面「这家工厂因为违反规定被停了产，而同一条街上那两家一直严格遵守这些规定；到现在全区还有十来家没达标的小作坊。（★ 前两处分别用 in breach of ／ comply —— 形态与介词自己定；"没达标的"⛔ 不给词，那个词的拼写本身就是考点）」
+  她写 `This factory was forced to cease its production **for being in breach of** regulations, whereas the two located in the same street had continuously **complied with** them; to date, there are still a dozen **non-compliant** small workshops across the entire district.`
+  三格同时命中：② in breach of（09-19 被题面里的「卫生规定」挡住、整半没走到，今天终于测到）· ④ comply **with**（09-19「遵守规定不会」＝ 调不出的那一格，今天调出来了，不及物动词的 with 也在）· ① non-compliant（**零提示**下第二次拼对，09-10 串成 non-complaint 的那一格）。
+  ★ 09-19 定的题面修正（⛔ 题面里不放考点之外的生僻词）今天兑现：去掉「卫生」之后，被挡住的那半立刻测到了。
+  ⚠️ 同句丢了「严格」这一层（continuously 接住了「一直」，strictly 没写）⇒ 归 #0126，⛔ 不影响本条。
+  ⚠️ 三处进更好版（不算错）：`cease its production` → `halt production`（production 在这个块里不挂 its）· `had continuously complied` → `have always complied`（中文「一直」延续到现在，过去完成会读成"被停产之前"）· `non-compliant small workshops` → `small non-compliant workshops`（分类形容词贴名词、尺寸站外面）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。成员 ① ② ④ 账已补。
+- 2026-09-23 ✅D1 学习日 C8·组3 第 3 题　**连对 2 ⇒ 🎓**
+  题面「有两家运营商被查出违反了安全规定，而其余几家一直严格遵守；到目前为止，全区只有三家小厂还不合规。（★ 三处分别用 in breach of ／ comply ／ non-compliant）」
+  她写 `Two operators were found to be in breach of safety regulations, while the remaining ones have consistently complied with them; so far, only three small factories in the entire region remain non-compliant.`
+  三格全中，而且两格是成员账上标着要优先测的：
+  ② `in breach of` —— 账上写着「2026-09-19 那半被题面里的『卫生规定』挡住、没走到 ⇒ 没测到（我的账）★ 仍待测」⇒ 今天第一次真正测到 ✅。
+  ④ `comply with` —— 账上写着「2026-09-19『一直严格遵守这些规定』⇒ 调不出（她说『遵守规定不会』）⇒ ❌　★ 优先测」⇒ 今天调出来了 ✅。
+  ① `non-compliant` 的拼写也对（⛔ 不是 non-complaint —— 本条 09-10 的建号原因）。
+  ⚠️ 顺带 ❌（⛔ 不是本条考点）：中文「一直**严格**遵守」她写成 `consistently complied`，程度层被频率层顶替 ⇒ 归 #0126。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0490 上任 ＝ take office 一族
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
@@ -24034,7 +24902,7 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0513 行政层级一族：village ／ township ／ county ／ district ／ municipality
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -24042,6 +24910,9 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
 **a county**　　 县（英美也用，是它们自己的一级行政区）　`county council`（英）
 **a district**　 区（城市里的一块，也指学区 school district）
 **a municipality**　市（作为一级政府时）　　**a prefecture**　地区／州（日本也用）
+**municipal**（形）市政的 —— ★ 2026-09-23 她点名要背的就是这个形容词形式
+　　`the **municipal** government` · `the **municipal** council` · `**municipal** authorities` · `**municipal** waste`
+　　⚠️ 名词是 municipality、形容词是 municipal（⛔ 没有 ~~municipalal~~ ~~municipality government~~）
 **a province**　 省　　　**an autonomous region**　自治区
 **central ／ local government**　中央／地方政府　　**the authorities**　当局（复数，最省事）
 ```
@@ -24095,6 +24966,21 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   ③「自治区」⇒ `autonomous region` ✔　④「当局（最省事的那个说法）」⇒ `the authorities` ✔（**固定复数 ＋ 带 the**，这一格最容易写成单数）
   ★ 两块都是从没出过的，一次全对。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-09-23 📝D1 学习日 C8·组2 第 3 题（归入 · 适用范围补充）
+  主考点 #0469（✅）。她写 `the **municipal** government` 并当场括注「这个需要背」⇒ §2③。
+  查重（§3.5 B0）：
+  　① 词面查 dedup "municipal" "市政" "地方政府" ⇒ 命中 #0513 #0491 #0503 #0329
+  　② 规则查 dedup "council" "市长" "行政区"      ⇒ 命中 #0491 #0513 #0329 #0392
+  　逐条过三问：
+  　· **#0513（行政层级一族，🎓）** —— 正文里已经有 `a municipality`（市，作为一级政府时）。
+  　　问1 改正动作同一个（在行政层级这一族里把词挑对／写对）· 问2 规则同一句 ·
+  　　问3 掌握了 municipality，`municipal government` 会跟着对 ⇒ **三问全"是" ⇒ 同一条**
+  　　⇒ 按 §3.5 A 第三种（只把适用范围说清）：老条目补一行**形容词 municipal 与它的搭配**，
+  　　　**连对连错不动、🎓 状态不变**。
+  　· #0491（地方行政首长 mayor ／ governor，在池）—— 那条是**人**（谁当首长），本条是**机构／形容词**
+  　　⇒ 问1 不成立，否（⚠️ #0491 今天在组3，出题时⛔ 不与本条的 municipal 撞）。
+  　· #0503（汇率）· #0329（do sth about sth）· #0392（职责 ＝ duty）—— 词面偶合 ⇒ §3.5 误判2，逐条否。
+  ⇒ ⛔ 不占新编号；本行是 📝 留痕（⛔ 不推进 streak、⛔ 不计 rc —— 形容词这一格不是被测的成员）。
 
 ## #0514 「一共／合计」＝ a total of ／ in total ／ altogether
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 词组
@@ -25105,7 +25991,7 @@ P12 主谓搭配　R · P12
   走 **By the end of**，⛔ 没让数字做主语去"带人" —— 本条当年的错 `the absolute value finished the period with only 19% of people`。
 
 ## #0206 上升趋势达到 647 万的峰值
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F11
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F11
 
 **问题是什么**
 P12 主谓搭配　R · P12
@@ -25138,9 +26024,15 @@ P12 主谓搭配　R · P12
   ⚠️ 与 #0208（合并了 #0212）措辞层共享「峰值」⇒ #0208 本日顺延到组 9。
   📋 手滑豁免：`tread` → `trend`（tread 虽是真词，但上下文只有 trend 说得通 ⇒ 键位不是选词，
   　 §3.2 她 2026-08-25 定的判据：哪怕撞成另一个真词也豁免）· 句首小写。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 1 题　**毕业后第一次复检（等了 17 个练习日）**
+  题面「这条上升趋势一直延续到 2008 年，达到 4,300 万的峰值。（★ 必须出现 peak）」
+  她写 `This upward trend continued until 2008, reaching a peak of 43 million.`
+  趋势作主语 ＋ `reaching a peak of` ✔ —— 08-16 的原错是 `the upward trend **marked the peak of**`（趋势不能 mark a peak），今天守住。
+  ★ 4,300 万 → `43 million` 的换算也对（R6 那一层）。
+  ⇒ 🎓 不变，rc 0 → **1**（🎓rc0 应等 3 ⇒ 🎓rc1 应等 7 个练习日）。
 
 ## #0208 in 与 by 不能互换（含并入的 #0212：「by 和 in 啥区别」）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F11
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F11
 
 ⚠️ **2026-08-27 并入 #0212（「by 和 in 啥区别，我感觉 T1 基本可以互换」）**，那条的判据收在这里：
 ```
@@ -25183,6 +26075,14 @@ P1 介词　R · P1
   ★ 这是 #0212 并入本条后的第一次出题：中文写成两个半句，让 in 与 by 在同一题里同时落地。
   ★ 她把中文的分号处理成"句号 ＋ however"，比硬并成一句更清楚，也对。
   📋 手滑豁免：两处句首小写。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 2 题
+  题面「这个数字在 1998 年见顶，达到 230 万；而到 2010 年为止，它已经跌回了 90 万。」（零提示）
+  她写 `This figure peaked in 1998 at 2.3 million; whereas by 2010, it had fallen back to 900,000.`
+  两格全中：`peaked **in** 1998`（见顶是那一年发生的一件事）· `**By** 2010 … **had fallen** back`（累积到那年为止 ⇒ by ＋ 过去完成）。
+  ★ 这正是并入的 #0212（「by 和 in 啥区别，我感觉 T1 基本可以互换」）那个疑问的正面读数 —— 同一句里两个都用对、而且分工清楚。
+  ★ 230 万 → `2.3 million`、90 万 → `900,000` 换算也对。
+  ⚠️ 顺带：`; whereas` ⇒ 归入 #0314（**当天改判为 ⚠️ 不地道、⛔ 不算错**，见 #0314 今天那一行）。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0209 住在曼哈顿的人口占比
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F11
@@ -25258,7 +26158,7 @@ P5 拼写　R · P5
   ⚠️ 本条同样是 09-15「作文验取消」后第一次进队列。
 
 ## #0211 from 1900 and 2000 → from 1900 to 2000 ／ between 1900 and 2000
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F11
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F11
 
 **问题是什么**
 P1 搭配　R · P1
@@ -25290,6 +26190,11 @@ P1 搭配　R · P1
   　 正是 R3 扫描清单的第三条（a five-year plan ↔ five years of planning）。
   　 ★ 这是 R3 建立以来第一次记到**正面**实例。
   📋 手滑豁免：句首小写。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 3 题
+  题面「从 1995 年到 2015 年，这项支出持续上升。」（零提示；沿用 08-16 的加死限定 —— **刻意不出倍数**）
+  她写 `From 1995 to 2015, this expenditure rose continuously.`
+  `from … **to** …` ✔ —— 08-16 的原错是 `from 1900 **and** 2000`，今天守住。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0213 这个数字随后涨了近百倍，1900 年达到 158 万
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F11 ｜ 题型 整句
@@ -25989,7 +26894,7 @@ level off、fluctuate between —— 而 T1 的折线图几乎每张都要用到
 > 连接词选择与位置、转折的搭法
 
 ## #0223 At the same time → On the other hand
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F14
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F14
 
 **问题是什么**
 🟡 留痕（08-11 排序：配对意识问题，不是词汇缺口，不占装备位）　留痕
@@ -26025,9 +26930,15 @@ level off、fluctuate between —— 而 T1 的折线图几乎每张都要用到
   　 ⇒ 归 **#0231**（「本来想用 don't know，但是感觉太不正式了」）那条线，⛔ 不新建。
   　 ⚠️ 但这条的**作文表现仍未验证**：同一句写进作文，这两个词都会扣 LR。已写进 session 自查。
   ★ 她当场点名 `be rich in` 要学 ⇒ 新建 **#0356**。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 4 题
+  题面「一方面，网上课程便宜得多；另一方面，学生很难坚持下来。（★ 两个半句要用一对配套的连接词，成对出现）」
+  她写 `On the one hand, online courses are much cheaper; on the other hand, students find it difficult to stick with them.`
+  配套连接词成对出现 ✔ —— 08-11 的原错是 `At the same time`（＝同时，不是另一面）。
+  ★ 两个固定块里的 the 都在（`on **the** one hand` ／ `on **the** other hand`）⇒ R3 那一层也守住。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0227 医生反而会指给你更好的
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F14
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F14
 
 **问题是什么**
 待排序　U（待定）
@@ -26061,6 +26972,13 @@ level off、fluctuate between —— 而 T1 的折线图几乎每张都要用到
   ★ 换场景：老触发点是光杆「医生反而会指给你更好的」（"反而"需要前半句才成立）⇒ 补完整；
   　 同时把"偏方/疗法"换成"网上那些说法"，避开同组 #0231 的「这些疗法」。
   📋 顺带用对 R2 正面：`Information … **tends**`（information 不可数 ⇒ 单数谓语）。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 5 题
+  题面「广告只会告诉你买什么；老师反而会指给你更值得读的东西。（★ 必须出现 point —— 介词自己定；「反而」那一层也要出现）」
+  她写 `Advertisements only tell you what to buy; teachers, instead, will point you to things that are far more worth reading.`
+  `point sb **to** sth` 的介词 ✔（题面只给了 point，介词是她自己定的）；「反而」那一层用 `instead` 送到 ✔。
+  ⚠️ `teachers, **instead**, will…` 的插入位置略生硬 —— instead 更常放分句首或句末，插在主语后那个位置通常是 `by contrast`／`on the other hand`
+  ⇒ ⚠️ 不地道、⛔ 不判错（§4③e：✅ 只记一行，不给对照块）。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0261 even if（假设）／ even though（已成事实）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F14
@@ -26192,7 +27110,7 @@ Given that…            "考虑到…"，常配数据或事实
   precisely 在（「正」没丢）、逗号在、主句无 so／therefore ⇒ 守住。
 
 ## #0314 While ＋ 从句 前置：它有让步和对比两个身份
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F14
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F14
 
 **问题是什么**
 ```
@@ -26208,6 +27126,23 @@ Given that…            "考虑到…"，常配数据或事实
 ① 前置的 While 从句后面**必须有逗号**；后置时不加
 ② ⛔ 主句里不能再有 but：`~~While A, but B~~`（中文"虽然…但是"的直译，最常见的中式错）
 ③ While 还有第三个意思"当…的时候"（时间）—— 一句里同时能读成时间和让步就要换词
+```
+★★ **2026-09-23 补 · whereas 这一格（§3.5 A 第三种：只把适用范围说清 ⇒ 连对连错不动）**
+```
+**whereas 只有一个身份：两个对象对着比**（A 是 X，**而** B 是 Y）——
+　✔ `Two operators were in breach of the rules, **whereas** the rest complied.`（两组对象）
+　⛔ 同一个对象的**两件事**别用 whereas：
+　　 ~~The transfers came to light late**; whereas** the chart drew attention to costs.~~
+　　 ⇒ 这里用 **and**（并列）／ **while**（要那点反差）
+**标点**（⚠️ **2026-09-23 当天改判、判据收紧**）：
+　短句 ⇒ **逗号是标准写法**：`A, whereas B` ✔
+　`A; whereas B` ⇒ **⚠️ 非首选、⛔ 不算错** —— 分句较长、内部还有标点时母语者也这么写
+　　（反例：`Some countries tax fuel heavily; whereas others subsidise it.` ✔）
+　⇒ 原判「分号只连独立分句 ⇒ 这是标点错」**套宽了，已撤销**；⛔ 以后不许再按错判。
+⚠️ 它和 While 的分工：While 有让步与对比**两个**身份、可前置可后置；
+　 whereas **只有对比**、而且几乎只后置。
+⚠️ 频次提醒（篇章层，§2④乙 只指出⛔不建号）：2026-09-23 一天里她用了 5 次 whereas，
+　 其中 2 次属上面那个⛔形状 ⇒ 它正在变成固定槽位（CC 清单第 3 项）。
 ```
 同族（按强度）：`While` ＜ `Although` ＜ `Even though`（最强，事实已成立，见 #0261）
 ＜ `Despite / In spite of` ＋ **名词**（不能接从句）。
@@ -26263,6 +27198,42 @@ Given that…            "考虑到…"，常配数据或事实
   题面「虽然这套方案的成本还没算清楚，董事会已经决定先启动了。（★ 必须以 While 起句、后面加逗号；⛔ 主句里不许出现 but；⛔ 不许用 Although／Though）」
   她写 `**While** the costs of this plan have not yet been fully calculated, the board has decided to launch it first.`
   让步身份的前置 While、逗号、主句无 but ⇒ 守住。
+- 2026-09-23 📝D1 学习日 C8·组3 第 1 题（归入 · 适用范围补充）
+  主考点 #0481（✅）。她写 `… at the end of last year**; whereas** the chart … drew the auditor's attention to costs.`
+  两层问题，都不是 #0481 的考点：
+  　① **标点**：whereas 是**从属连词**，它引出的是从句 ⇒ 前面用**逗号**；分号只连两个各自独立的分句（⇒ #0272）。
+  　② **身份**：whereas 只有"两个对象对着比"这一个身份（A 是 X，而 B 是 Y）；这一句前后是**两件事**
+  　　（一件迟迟才被发现、一件一眼看出来）⇒ 更贴的是 and ／ while。
+  查重（§3.5 B0）：
+  　① 词面查 dedup "whereas" "while" "对比"     ⇒ 命中 #0314 #0512 #0305 #0406 #0363 #0490 #0155
+  　② 规则查 dedup "分号" "逗号粘连" "从属连词"   ⇒ 命中 #0272 #0317 #0049 #0498
+  　逐条过三问：
+  　· **#0314（While ＋ 从句前置：让步与对比两个身份，🎓 连对 3）** —— 正文里白纸黑字写着
+  　　「对比（＝ whereas）」，硬边① 管的又正是这一族**前置从句的逗号**。
+  　　问1 改正动作同一个（把这个对比连接词的身份与标点用对）· 问2 规则同一句 ·
+  　　问3 掌握了 While 的两个身份，whereas 只有对比身份这件事跟着就对 ⇒ **三问全"是" ⇒ 同一条**
+  　　⇒ 按 §3.5 A 第三种（只把适用范围说清）：补一段 whereas 的用法，**连对连错不动、🎓 不变**。
+  　· #0272（两个独立分句之间用哪个符号，🎓）—— 标点那一半确实是它管的，但本处的核心是
+  　　**whereas 这个词的身份**（换成 and 之后分号照样不合适）⇒ 问1 不成立，⛔ 不归它，只在 #0314 的补充里交叉引用。
+  　· #0317（转折四兄弟 But ＜ Yet ＜ However ＜ Nevertheless，🎓）—— 那条管的是**转折副词**的强度与标点，
+  　　whereas 是**从属连词**、而且表对比不表转折 ⇒ 问1 不成立，否。
+  　· #0512 #0305 #0406 #0363 #0490 #0155 #0049 #0498 —— 词面偶合（正文与历史记录里出现的 while ／ 对比 ／ 分号字样）
+  　　⇒ §3.5 误判2，逐条否。
+  ⇒ ⛔ 不占新编号；本行是 📝 留痕（⛔ 不推进 streak、⛔ 不计 rc）。
+  ⚠️ 另有一层**⛔ 不建号**：她今天 whereas 用了 5 次（组1 ×3 · 组2 ×1 · 组3 ×1），
+  　 其中 2 次是"同一对象的两件事"⇒ 这属**篇章层**（CC 清单第 3 项，别重复用同一个连接词）
+  　 ⇒ 按 §2④乙 只当场指出、⛔ 不建号、⛔ 不占召回位。
+- 2026-09-23 📝D1 学习日 C8·复检组1 第 2 题　**教练当场改判（§4.7）⇒ 判据收紧**
+  她写 `This figure peaked in 1998 at 2.3 million**; whereas** by 2010, it had fallen back to 900,000.`
+  —— 这是今天第 6 次用 whereas，也是 `; whereas` 的第 2 次（第 1 次在组3 第 1 题）。
+  ⚠️⚠️ **原判（今天组3）：「whereas 是从属连词 ⇒ 前面用逗号；分号只连独立分句」并当成要改的一处 —— 判据套宽了。**
+  四问自审（§5 ①）：造母语者反例 —— `Some countries tax fuel heavily; whereas others subsidise it.`
+  分句较长、内部还有标点时，`; whereas` 在正式书面里是常见写法 ⇒ **⛔ 不能判成错**。
+  **收紧后的判据（已写进本条正文）**：
+  　· 短句 ⇒ **逗号是标准写法**；`; whereas` **⚠️ 非首选、⛔ 不算错**
+  　· 真正站得住的那一半不变：**whereas 只有"两个对象对着比"这一个身份**，同一对象的两件事用 and ／ while
+  ⇒ 组3 第 1 题那一处的定性同步改为「逗号更标准」，⛔ 不再算标点错（那一处本来就只影响措辞、不影响 #0481 的 ✅）。
+  ⇒ 本行是 📝 留痕（⛔ 不推进 streak、⛔ 不计 rc）；🎓 状态不变。
 
 ## #0315 让步开场一族：It must be acknowledged that ／ Admittedly
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F14
@@ -26692,6 +27663,99 @@ It is precisely for this reason that   this ✔  that ✔  ← 强调句两个�
   📋 顺带用对 **#0333**：`in-house staff` 连字符也在 —— 今天组 10 刚毕业的块，隔两组自发复现。
   ⚠️ 一处 ⚠️（进更好版）：`simply **stop**` → `have simply stopped`。
   　 中文「不再…**了**」是一个变化，完成时才把这层送到。
+
+## #0319 条件连接词四档：if ＜ as long as ＜ provided that ＜ on condition that
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F14
+
+**成员出题账**
+```
+① if                 未单独出过（最中性，不必测）
+② as long as         2026-08-23 组3 题面「只要大家按时交材料，进度就不会拖」⇒ ✅ ／ 2026-09-19 复检组1 第 5 题 ⇒ ✅（as long as it is submitted）
+③ provided (that)    2026-08-23 组3 ⇒ ✅ ／ **2026-09-23 组2 第 6 题** ⇒ `Provided that it **passes** the inspection` ✅（硬边② 现在时表将来）
+④ on condition that  2026-09-19 复检组1 第 5 题（括号给了词）⇒ 「on condition that 忘了」＝ 调不出 ⇒ ❌ ／ 2026-09-21 组1 第 7 题题面「条件是每季度…提交一次财务报表」⇒ ✅（`on condition that it submits …`，后面挂完整从句、硬边② 的现在时也守住）
+⑤ unless             2026-08-22 组3 ⇒ ✅ ／ **2026-09-23 组2 第 6 题** ⇒ `unless the parliament changes its mind` ✅（硬边③ 没有再加否定；the parliament 的冠词是⚠️不地道、⛔不判错）
+```
+
+**问题是什么**
+```
+if                最中性，什么场合都行
+as long as        口语，强调"只要…就"          `**as long as** you plan ahead`
+provided (that)   ★ 正式，强调这是**必要条件**   `**provided that** such risks rest on judgement`
+on condition that 最硬，常用于协议、规定        `released **on condition that** he reports weekly`
+unless            ＝ if not（反向）             `**unless** the policy changes`
+```
+**三条硬边**
+```
+① provided 后面的 that **可以省**：`provided such risks rest on judgement` ✅
+② 这一族引导的条件从句里**用现在时表将来**：`provided that prices **rise**` ✅ `~~will rise~~` ❌
+③ ⛔ unless 后面**不能再加否定**：`~~unless you don't go~~`（意思会反）
+```
+★★ **作文里最值钱的用法**：把一个洞见退成条件状语挂在立场后面 ——
+　 `…the rewards outweigh the costs, **provided that** such risks rest on experience.`
+　 主句仍然回答题目，洞见退到从句里。这正是 #0271 那条规则要的动作，**你已经做对了一次**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这家公司拿到了贷款，条件是每季度向银行提交一次财务报表。
+（★「条件是」用 on condition that —— 后面接完整从句，时态自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组1 第7题）
+（老触发点留档不删：房东同意降租，条件是我们一次付清一年的房租。／（★ 用 on condition that —— 后面接完整从句，时态自己定）／⚠️ **2026-09-19 换题面**（回潮：成员④ 调不出 ⇒ 单点它；老括号「用最正式的那个条件词」是 §6 禁止的写法 ⇒ 改成直接给词）／我认为这个办法可行，前提是预算足够。（"前提是"用最正式的那个条件词））
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `provided` `as long as` `unless`，7 处 `provided` 全是动词 provide（#0014 的内容），零条目讲条件连接词 ⇒ 新建，与 #0271 交叉引用。
+- 2026-08-22 ✅ D4 复习日 C2·组3 第 3 题　**建号后第一次被测**
+  题面「除非明年拿到新的资金，这个项目就得停」，她写
+  `**unless** there is new funding next year, the project will stop`。
+  unless 挑对；硬边③（unless 后面不许再加否定）也守住了，没有写成 `unless there isn't…` ⇒ 命中，连对 1。
+  📋 顺带用对 **#0324**（今天刚建）：从句 `there **is**` 用现在时、主句 `**will** stop` 带 will ——
+  　 建号后 40 分钟就用对了。
+  📋 更好：`Unless new funding **is secured** next year, the project **will have to be shelved**.`
+  　（"拿到"是个动作 ⇒ secure；"就**得**停"的强制层用 have to 补回来）
+  📋 「得」译弱不判 —— 沿用 08-20 #0249 的先例。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 9 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「我认为这条路走得通，前提是预算足够；只要大家按时交材料，进度就不会拖。」她写
+  `I believe this approach is viable, **provided that** the budget is sufficient; **as long as**
+  everyone submits their materials on time, the schedule will not be delayed`。
+  ★ **一题两个成员，选词、语域、时态全对**：
+  ```
+  选词  「前提是」＝ 必要条件、书面 ⇒ **provided that** ✅（没有退回最中性的 if）
+        「只要…就」⇒ **as long as** ✅
+  语域  正式那一档给了 provided that，口语那一档给了 as long as，两个各就各位
+  硬边② 条件从句用现在时表将来：`the budget **is** sufficient` ✅ `everyone **submits**` ✅
+        主句带 will：`will not be delayed` ✅　⛔ 没有写成 `~~will be sufficient~~`
+  ```
+  ⇒ 命中，连对 2。
+  📋 顺带用对：`viable`（"走得通"用一个词收掉，比 workable 更书面）· `submit their materials
+  　 **on time**`（#0301 一族的时间块，📋 留痕不推进）。
+- 2026-09-19 ❌D2 学习日 C7·复检组1 第 5 题　**🎓 吃到 ❌ ⇒ 当场回潮**
+  题面「银行同意放款，条件是公司每季度提交一次财报；只要按时提交，利率就不会上调。（★ 两处分别用 on condition that ／ as long as —— 从句的时态自己定）」
+  她写 `on condition that 忘了. The interest rate will not be increased **as long as** it **is submitted** on time.`
+  ② as long as ＋ 现在时 ✔；④ on condition that —— 词印在括号里，前半整句没写出来 ⇒ 调不出（没写出来）⇒ ❌。
+  当场给回：`The bank agreed to lend the money **on condition that** the company **submits** a financial report every quarter`。
+  ★ 读数：④ 是账上唯一"未出过"的成员 —— 08-23 毕业时它一次都没被行使过。
+  ⇒ 连对 2 → **连对 0 ／ 连错 1**，状态 🎓 → 在池；中文触发点换成单点 ④ 的题面。
+- 2026-09-21 ✅D4 复习日 C7·组1 第 7 题　**回潮后第二次单点成员④，这次调出来了**
+  题面「这家公司拿到了贷款，条件是每季度向银行提交一次财务报表。（★「条件是」用 on condition that —— 后面接完整从句，时态自己定）」
+  她写 `The company secured the load **on condition that it submits** financial statements to the bank on a quarterly basis.`
+  ④ on condition that 调出来了（09-19 那次「忘了」＝ 调不出）；后面挂的是完整从句 ✔；硬边②（这一族的条件从句用现在时表将来）也守住 —— 她写 `submits`，⛔ 没写成 will submit。
+  ⚠️ 同句 `the load` → `the loan` 是另一条规则 ⇒ 归 #0095（⛔ 不影响本条）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。成员账 ④ 已补。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 6 题　**连对 2 ⇒ 🎓**
+  题面「只要年底的检查过关，这家厂就能继续生产；除非议会改主意，这项补贴明年就到期。（★ 前半用 provided that，后半用 unless）」
+  她写 `Provided that it passes the inspection at the end of this year, the plant will be able to continue production; unless the parliament changes its mind, this subsidy will expire next year.`
+  **两条硬边都守住**：硬边②「这一族的条件从句用现在时表将来」⇒ `it passes`（⛔ 不是 will pass）·
+  硬边③「unless 后面不能再加否定」⇒ `unless the parliament changes its mind` ✔。
+  ⚠️ 顺带 ⚠️（⛔ 不建号）：`the parliament` —— 英式书面里 Parliament 作机构名零冠词 ＋ 大写；
+  带 the 在泛指某国议会时也读得通 ⇒ 不地道、不判错。
+  ⚠️ 更好版一处：`will be able to continue production` → `will be allowed to keep producing`
+  （中文「就能」是**获得许可**，be able to 说的是有能力）。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0338 「相应地／同步地」一族：accordingly ／ correspondingly ／ in line with
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F14
@@ -27428,7 +28492,7 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
 > 口语词进书面、缩写、对冲词
 
 ## #0230 is a bit expensive → is no longer worth it
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F15
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F15
 
 **问题是什么**
 P11 词义＋对冲词 a bit（今天第 2 次）　R · P11
@@ -27459,9 +28523,15 @@ P11 词义＋对冲词 a bit（今天第 2 次）　R · P11
   ⚠️ 一处更好版（不算错）：中文是「就不划算**了**」——「了」是一个**变化**
   　（本来划算、现在不划算了），`no longer` 把这一层送到，`not` 只说了当下状态。
   📋 手滑豁免：句首小写。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 6 题
+  题面「油价再涨下去，这条线路就不划算了。（★ ⛔ 全句不许出现 a bit ／ a little 这类口语对冲词）」
+  她写 `If oil prices rise further, this route will no longer be cost-effective.`
+  语域守住：全句零口语对冲词 —— 08-16 的原错正是 `is **a bit** expensive`。
+  ★ 她给的 `cost-effective` 与条目里的 `worth it` 同档、甚至更书面 ⇒ 判 ✅（§3.2：句子成立、意思送到）。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0231 「本来想用 don't know，但是感觉太不正式了」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F15
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F15
 
 **问题是什么**
 K　0/3
@@ -27498,6 +28568,12 @@ K　0/3
   　 occasionally 属于**可以放句末**的那一类频率副词（I see him occasionally ✅），
   　 与 always／never 不同（那两个必须放中间，＝ #0108 的判词）。中位在书面语里更常见，仅此而已。
   📋 手滑豁免：句首小写。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 7 题
+  题面「这些老机器为什么到现在还能转，谁也解释不清。（★「解释不清」锁一个正式动词）」
+  她写 `No one can explain why these old machines remain operational to this day.`
+  正式动词 `explain` 调出来了 ✔ —— 08-16 她的原话是「本来想用 don't know，但是感觉太不正式了」。
+  ★ `remain operational to this day` 也干净（语域一致）。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0233 政府保障权利 ↔ 争取权利
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F15
@@ -28068,6 +29144,107 @@ fairly        配"好的一面"（硬边①：fairly good ✅ ／ fairly difficu
   她写 `This course is **rather** difficult, and several classmates dropped it in the second week`（句末缺句号 ⇒ 手滑豁免）
   rather 配负面的 difficult ⇒ 08-23 零提示时走 quite、一直没被行使的 rather 这次落地 ⇒ 守住。
 
+## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F15
+
+**成员出题账**
+```
+① always        未单独出过（最通用，不必测）
+② invariably    2026-08-22 组8 题面「这类项目几乎总是超预算」⇒ ✅ ／
+　　　　　　　　 2026-09-19 复检组1 第 6 题（括号给了词）⇒ 「invariably 忘了」＝ 调不出 ⇒ ❌ ／
+　　　　　　　　 2026-09-21 组1 第 8 题题面「几乎无一例外地会出现」⇒ ✅（`invariably emerges`，实义动词前）
+③ consistently  2026-08-23 组3 题面「他这两年的表现一贯很好」⇒ ✅ ／ 2026-09-21 组1 第 8 题题面「数据一贯很准」⇒ ✅（`are consistently accurate`，be 动词后）
+④ rarely        2026-08-23 组3 题面「出错的时候很少」⇒ ✅
+⑤ seldom        2026-09-21 组1 第 8 题 ⇒ ✅（`are seldom made clear`）／ **2026-09-23 组2 第 7 题倒装形状第一次测** ⇒ `**Seldom do** delays of this kind occur` ✅（do ＋ 主语 ＋ 动词原形）
+```
+
+**问题是什么**
+```
+按频率从高到低（配形容词/动词，讲"多久发生一次"）：
+always        总是                  最通用
+invariably    ★ 无一例外地           **书面版的 always**，比 always 正式且更绝对
+                                     `Risk is **invariably** accompanied by uncertainty.`
+consistently  一贯地、稳定地         强调"每次都这样"，常配数据
+                                     `Their results have **consistently** improved.`
+frequently    经常                  正式版的 often
+occasionally  偶尔                  （见 #0091）
+rarely / seldom  很少               seldom 更正式；⚠️ 置句首要**倒装**：`**Seldom does** a policy…`
+hardly ever   几乎从不              偏口语
+```
+**★ 位置规则（这一族和程度副词不一样）**
+```
+be 动词后      `Risk **is invariably** accompanied by…` ✅
+实义动词前     `They **consistently** underestimate the cost.` ✅
+助动词后       `has **always** been` ✅
+⛔ 不能放句末：`~~accompanied by uncertainty invariably~~`
+```
+⚠️ 与 #0267（slightly / fairly / rather 那一族）分清：**那条管"多强"，本条管"多常"。**
+　 反向验：fairly 用对 ≠ invariably 用对，两条可独立取值。
+⚠️ 与 #0108（副词能不能放 is 后面）分清：那条管位置的**合法性**，本条管**选哪个词**。
+
+**怎么发现的**
+2026-08-20　作文 T2-17。她把这一处标了（新），并当场定「标记的都新建条目学习」（§2③）。
+
+**我错在哪**
+她这次**没有错**。建号理由是 §2③。缺口在于**这一族的其余成员和挑选判据**。
+
+**中文触发点**
+这家事务所给的数据一贯很准，可结论却很少说清楚；这种毛病在小团队里几乎无一例外地会出现。
+（★ 三处分别用 consistently ／ seldom ／ invariably —— 位置自己定）
+⚠️ **2026-09-21 换题面**（`drill.py trigger` 自动搬运，源：sessions/2026-09-21.md 组1 第8题）
+（老触发点留档不删：这种老式锅炉无一例外地在冬天出故障，而维修工却很少准时上门。／（★ 两处分别用 invariably ／ seldom —— 位置自己定）／⚠️ **2026-09-19 换题面**（回潮：invariably 调不出 ⇒ 点 ②；老括号「用一个比 always 更书面的词」是 §6 禁止的写法 ⇒ 改成直接给词；老题面也是她 T2-17 原句 ⇒ 换场景）／风险总是伴随着不确定性。（"总是"用一个比 always 更书面的词））
+
+### 历史记录
+- 2026-08-20 ③ 建号（她点名要学）作文 T2-17
+  查重（§3.5 B0）：grep 了 `invariably` `频率副词`，命中 #0108 的正文（讲频率副词必须放中间，是**位置**）与 #0267（**程度**副词刻度），两条问 2 都不成立 ⇒ 新建，双向交叉引用。
+- 2026-08-22 ✅ D4 复习日 C2·组8 第 10 题　**建号后第一次被测**
+  题面（**改写过** —— 存档那条「风险总是伴随着不确定性」正是 #0297 今天写错的那一句，会撞车）
+  「这类项目几乎总是超预算。（★「总是」用一个比 always 更书面的词）」，她写
+  `projects of this nature **invariably** exceed their budget`。
+  挑对了刻度顶端那个书面词 ⇒ 命中，连对 1。
+  ⚠️ 同句一处不属于本条：中文是「**几乎**总是」，invariably ＝ 无一例外，
+  　「几乎」删掉之后从"允许例外"变成"绝对" ⇒ 记 #0126。正确：`**almost invariably**`。
+  📋 顺带用对：`projects **of this nature**`（#0251 今天第四次）· `**exceed** their budget`（#0299）。
+  ★ 与同组第 10 题的对照放在一起看：她**能挑到刻度顶端的词，但挑完之后不再回头看中文有没有留余地**。
+  　 这与组 6 的 `remarkably solid`（往上冲）是同一个方向。
+- 2026-08-23 ✅ D1 学习日 C3·组3 第 4 题　**连对 2 ⇒ 🎓**
+  题面（**零提示**）「他这两年的表现一贯很好，出错的时候很少。」她写
+  `his performance has been **consistently** good over the past two years, and he **rarely** makes mistakes`。
+  ★ **一题两个成员，选词与位置全对**：
+  ```
+  选词  「一贯」＝ 每次都这样、稳定地 ⇒ **consistently**（不是 always，也没往 invariably 上冲）
+        「很少」⇒ **rarely** ✅
+  位置  `has been **consistently** good` —— be 动词后 ✅（本条位置规则第一行）
+        `he **rarely** makes mistakes` —— 实义动词前 ✅（第二行）
+        ⛔ 两处都没有掉到句末
+  ```
+  ⇒ 命中，连对 2。
+  ★★ 与 08-22 那次对照：那次她挑对了刻度顶端的 invariably，却**没回头看中文的"几乎"**（记 #0126）；
+  　 这次「一贯」和「很少」两个刻度都挑准了，而且中文里没有留余地的字要接 —— **刻度这一项现在是稳的**。
+- 2026-09-19 ❌D2 学习日 C7·复检组1 第 6 题　**🎓 吃到 ❌ ⇒ 当场回潮**
+  题面「这类大型工程几乎无一例外地会超出预算，而按时完工的却很少见。（★ 两处分别用 invariably ／ seldom —— 位置自己定）」
+  她写「invariably 忘了」—— 词印在括号里，整句没写出来；⑤ seldom 那半也没走到 ⇒ 调不出（没写出来）⇒ ❌。
+  当场给回：`Large projects like this **invariably** go over budget, and they are **seldom** completed on time.`（实义动词前 ／ be 后）
+  ★ 读数：invariably 毕业前只被测过一次（08-22），seldom 从没出过。
+  ⇒ 连对 2 → **连对 0 ／ 连错 1**，状态 🎓 → 在池；中文触发点换成点 ② ⑤ 的新题面。
+- 2026-09-21 ✅D4 复习日 C7·组1 第 8 题　**回潮后第一次测量，三个成员同题落地**
+  题面「这家事务所给的数据一贯很准，可结论却很少说清楚；这种毛病在小团队里几乎无一例外地会出现。（★ 三处分别用 consistently ／ seldom ／ invariably —— 位置自己定）」
+  她写 `The data provided by this firm **are consistently accurate**, yet its conclusions **are seldom made clear**; this shortcoming **invariably emerges** in small teams.`
+  三个成员的**选词与位置全对**：③ consistently 落在 be 动词后 · ⑤ seldom（从没走到过的那一格）夹在 be 与过去分词之间 · ② invariably（09-19 调不出的那一格）落在实义动词前。⛔ 一个都没放到句末。
+  ⚠️ 同句丢了「几乎」这一层（invariably 而非 almost invariably）⇒ 归 #0126，⛔ 不影响本条（本条判的是刻度与位置）。
+  ⇒ 连错 1 → **连对 1**、连错归 0。成员账 ②③⑤ 全部补上。
+- 2026-09-21 📋D4 复习日 C7·组4 第 5 题（顺带用对）
+  她写 `the one next door remains **consistently** reactive` —— 成员③ consistently，位置（实义/系动词后的表语前）也对。
+  ★ 组1 第 8 题被点名用对，本组**不被点名自己用出来**。
+  ⚠️ 本条今天已在组1 结算（✅）⇒ 按 §3.2 同日只结算一次，本行只留痕、⛔ 不推进。
+- 2026-09-23 ✅D1 学习日 C8·组2 第 7 题　**倒装形状第一次测就对 ⇒ 连对 2 ⇒ 🎓**
+  题面「这类延误很少出现在旺季以外的时候；这家供应商的交货一贯准时。（★ 前半用 seldom 并把它放在句首，后半用 consistently）」
+  她写 `Seldom do delays of this kind occur outside the peak season; this supplier consistently delivers on time.`
+  ★★ 成员账 ⑤ 标着「倒装形状 `Seldom does…` 仍没测过 ⇒ 优先测」——**第一次测就对**：
+  seldom 置句首 ⇒ `do ＋ 主语 ＋ 动词原形`（`Seldom **do** delays … **occur**`），助动词与原形都对。
+  `consistently delivers` 放实义动词前也对（本条位置规则的第 2 条）。
+  ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+
 ## #0321 very / really / extremely —— 学术写作里 very 通常删掉更有力
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F15 ｜ 题型 整句
 
@@ -28407,7 +29584,7 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
 > 整句级改写
 
 ## #0245 传统医学在某些情况下确实有点用
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F18
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F18
 
 **问题是什么**
 待排序　U（待定）
@@ -28421,6 +29598,10 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
 
 **中文触发点**
 传统医学在某些情况下确实有点用
+⚠️ **2026-09-23 复检备注**：当天题面已换成「课外辅导，就是很多国家都有的那种，在个别情况下确实管用」
+　（★ 必须出现 of the kind ／ genuinely）。她写成 `of **this** kind found in many countries` ——
+　固定块 `of **the** kind found in X` 里的 the ⛔ 不能换成 this（`of this kind` 要有前文指着"这一类"才立得住）。
+　判 ✅（句子成立、意思送到），但 **★ 下次复检必须重测这一格**。
 
 ### 历史记录
 - 2026-08-16 ✅ 复习日 C1·组6
@@ -28438,9 +29619,19 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
   📋 `to some extent` 也准，"有点用"没写成 a little。
   ⚠️ 同族的 #0246 #0247 与本条同属"替代疗法"这一个话题（措辞层重度重叠）⇒ 本日顺延，
   　 三条 F18 留到一起做。#0246 另与已挂作文验的 #0153 中文近同 ⇒ 挂 §8④a 合并候选。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 8 题　⚠️ **块散了一处，⛔ 不判错**
+  题面「课外辅导，就是很多国家都有的那种，在个别情况下确实管用。（★ 必须出现 of the kind ／ genuinely）」
+  她写 `After-school tutoring, of this kind found in many countries, does genuinely prove effective in some cases.`
+  意思送到、句子成立 ⇒ 按 §3.2「判 ❌ 只有两个理由（句子本身有错／意思没送到）」判 **✅**。
+  ⚠️ 但**固定块散了**：`of **the** kind found in X`（＝ 就是…那种）里的 the ⛔ 不能换成 this ——
+  `of this kind` 是另一个结构，必须有前文指着"这一类"才立得住（本句前面没有）。
+  ⚠️ 四问自审（§5）：① 能不能造出母语者反例 —— `Schemes of this kind, found in many countries, …`（加逗号、分成两层）是成立的
+  　⇒ 她那一处不是硬性不合语法，只是块被拆散 ⇒ ② 不是延续上一条判断 ③ 判的是**搭配层** ④ 档位 **⚠️ 不地道**，⛔ 不是 ❌。
+  ★ 题面里我已经把 `of the kind` 原样印出来了，她换了冠词 ⇒ **下次这一格要重测**（写进本条中文触发点的备注）。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0246 这些疗法不仅没用，还有实际危害
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-27 ｜ 族 F18
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F18
 
 **问题是什么**
 待排序　U（待定）
@@ -28477,6 +29668,14 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
   　 　 并列同形在单句里判不出 ❌，但它确实在她的产出里活着，必须在作文里抓。
   ⚠️ 另两处 ⚠️：`countless individuals`（中文是"不少人"，countless ＝ 无数，强度略超）·
   　 分号宜作冒号（中文用的是冒号，后半在**解释**前半）。
+- 2026-09-23 ✅D1 学习日 C8·复检组1 第 9 题
+  题面「这股风气害的是学生：这些速成班不仅没用，还实实在在地拖后腿。（★ 必须出现 not only … but）」
+  她写 `It is the students that suffer from this trend; not only are these crash courses useless, but they also actively hold them back.`
+  `not only … but` ✔，而且**倒装**也做对了：not only 置于分句首 ⇒ `**are** these crash courses useless`（助动词提前）。
+  `actively hold them back` 把「实实在在地拖后腿」送到 ✔（条目里的目标是 `actively damaging`，同一个力度层）。
+  前半她换成强调句 `It is the students that suffer from this trend`，与条目里的 `This trend harms students` 同义、句子也成立 ⇒ ✅。
+  ⚠️ 顺带：她把 `crash courses` 括注「这个词组背一下」⇒ §2③，查重零命中 ⇒ 新建 **#0532**。
+  ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0247 尽管走投无路和别的压力把病人推向替代疗法
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-01 ｜ 族 F18
