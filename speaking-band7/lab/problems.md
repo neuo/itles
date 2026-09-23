@@ -635,6 +635,48 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-15 ⚪ 新题 bank:1059 · `These day` → These days —— 形态类只记录（§3.4②）
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 
+### 258 · at will（书面）→ whenever they feel like it
+类型 词组 ｜ 新建 2026-08-19（她指定要学）
+状态 连对0 连错1 上次2026-09-22 未毕业 ｜ **回潮 2026-09-22**（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ 题型 词组
+
+**问题是什么**
+**at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
+同一格里的邻居（别串 —— 同一条「书面 → 口语」降级规则下的别的词对，本条只管 at will 这一对）：
+in order to → to · utilize → use · numerous → a lot of · purchase → buy · commence → start
+判据一句话：这个词我是在书上见的还是在嘴上说的？书面 ⇒ 换成 whenever sb feel(s) like it。
+★ 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+　本条是**一个具体的词对**（可以出中译英题）⇒ 两条各走各的。
+
+**怎么发现的**
+2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+—— 语法没错，是**她指定要学**的降级（§2③），教练给的口语版是 whenever they feel like it。
+判重：与 🎓#206（书面词降级总规则）比对 —— #206 只在自由产出里判、管的是整条规则，
+本条是一个具体词对、可以出中译英题 ⇒ 不重复，**判重通过**（见下方备注）。
+
+**我错在哪**
+她的：`if everyone ran red lights **at will**`　　正确：`if everyone ran red lights **whenever they felt like it**`
+找法：一个词要出口之前先问 —— 这是我在书上见的，还是嘴上说的？书上见的 ⇒ 换口语版。
+
+**题面**
+**点名**："想什么时候来就什么时候来"（用 feel like 说一遍）
+
+- 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+  ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
+- 2026-08-20 ✅ 复习（新建后首测）· `He comes here whenever he feels like it.`——目标块一字不差
+  ｜附带 feels 的第三人称 -s 也带上了
+- 2026-08-21 ✅ 复习 · `he comes here whenever he feels like it.`——一字不差，feels 的 -s 也对
+  → **连对2，毕业**
+- 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `You can come whenever you feel like it`
+- 2026-09-22 ❌ 复检第 3 组 [5b] · 答"忘了"，whenever sb feels like it 整块没出来 ⇒ **回潮**（08-21 毕业 · 09-11 复检还稳 · 本次掉）
+  ⇒ 状态行改回未毕业、连对清零、rc 归零，转回在池队列；正确版 `He comes here whenever he feels like it.`
+- 备注 整句范例（她指定要背的那句）：
+  **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
+  —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
+- 备注 同族降级（口语版在右边）：at will → whenever they feel like it ｜ in order to → to ｜
+  utilize → use ｜ numerous → a lot of ｜ purchase → buy ｜ commence → start
+- 备注 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+  本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
+
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
 状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句
@@ -682,159 +724,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
     ⇒ 同一个形态（裸代词要带 -s）她会 ⇒ 不是缺口，是产出时检查没跑 ⇒ 只记 ⚪、⛔ 不进召回队列。
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
-
-### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
-类型 结构 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句
-
-**问题是什么**
-中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
-英语一个句子只要一个主语 ⇒ **X 直接当主语**：Office workers usually have no choice but to eat out.
-同一格里的邻居（别串）：For X 后面换了**另一个**主语是对的 —— For office workers, eating out is the only option. ／
-For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135 管的是"社会／大家"这种中文主语用 there is／被动吃掉，
-本条管的是主语说了两遍 ⇒ 两条并存。
-判据一句话：For X 后面的主语是不是又指回 X（they／he／it）？是 ⇒ 删掉 For，让 X 直接当主语。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
-`For office workers, they usually have no choice but to eat out or order takeout`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 X 直接当主语 ⇒ dedup "For office"／"对于"／"主语重复"／"双主语" ⇒ 零命中；"当主语" ⇒ 🎓#135（"社会／大家"用 there is／被动吃掉）、
-　　 🎓#216（东西不会自己 leave）⇒ 都是"主语选谁"，本条是"主语说了两遍" ⇒ 否
-　② 中文 "对于…他们" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`For office workers, they usually have no choice but to eat out`　　更地道：`Office workers usually have no choice but to eat out`
-找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
-
-**题面**
-"对上班族来说，他们一般没得选，只能在外面随便吃点。"（⛔ 不许用 option／choice 当主语）
-
-- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
-  ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
-
-### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
-类型 搭配 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 整句
-
-**问题是什么**
-delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
-英语要把"好吃"挂到饭上：Home-cooked food tastes way better. ／ …, and the food tastes way better.
-同一格里的邻居（别串）：cooking at home is cheaper／healthier／cleaner —— 这些形容词能说动作，照用。
-⛔ **tastes more delicious**：delicious 本身已经是"很好吃"，英语不给它再加 more ——
-　"更好吃"的口语比较级就是 **tastes better**（加强用 way better／so much better）。
-判据一句话：谓语是"好吃"吗？主语就得是吃的东西（the food／home-cooked food），⛔ 不是 cooking／eating out。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
-`If you have the time, cooking at home is cleaner and way more delicious.`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 the food tastes better ⇒ dedup "delicious"／"taste"／"好吃" ⇒ 零命中
-　② 中文 "好吃" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`cooking at home is cleaner and way more delicious`　　更地道：`cooking at home is cleaner, and the food tastes way better`
-找法：说到"好吃"先看主语是不是吃的东西；是动作（cooking／eating out）就把"好吃"挂到 the food 上。
-
-**题面**
-"在家做饭更干净，也更好吃。"（"好吃"用 **taste** 说 · ⛔ 不许用 delicious／tasty）
-
-- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `cooking at home is cleaner and way more delicious`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `Cooking at is cleaner and the food tastes more delicious.` —— "好吃"挂在 the food 上，没说成 cooking is delicious；首测一次中
-  ★ `Cooking at` 掉了 home ＝ 打字掉字（§2.1 同理，不记档位）
-  ⚠️ diff-2：tastes more delicious → tastes way better（delicious 已是"很好吃"，不再加 more；"更好吃"的口语比较级就是 better）
-  ⇒ §3.3 硬顺序③ 答得合法但不是条目预期 ⇒ 记 ✅ ＋ 当场改题面（补 ⛔ 不许用 delicious／tasty）
-
-### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
-类型 词组 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
-
-**问题是什么**
-"网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
-You can do pretty much anything online. ／ I booked it online.
-同一格里的邻居（别串）：on the internet 也对（介词短语，稍长）· 🎓#8 管的是 in an online group／on a forum 的介词，⛔ 不是这一格 ·
-⛔ through the internet 是"通过"直译，能懂但不地道。
-判据一句话：中文"网上／通过网络" ⇒ online；想用介词短语就 on the internet，⛔ through。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R12（P3 · Why do some people not like using apps?）· 原话
-`Through the internet, you can do pretty much anything—order takeout, hail a ride, pay utility bills, you name it.`（diff-2 ⚠️，她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 online ⇒ dedup "online" ⇒ 🎓#8（in an online group）、🎓#209（an online pet group 的形容词顺序）、🎓#50、🎓#81 都是正文里带 online 字样的别的考点 ⇒ 否；
-　　 dedup "through the internet" ⇒ 零命中
-　② 中文 "网上" ⇒ 🎓#8／🎓#262／🎓#312 都是别的考点 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`Through the internet, you can do pretty much anything`　　更地道：`Online, you can do pretty much anything`／`You can do pretty much anything online`
-找法：说到"通过网络／在网上"，先落 online。
-
-**题面**
-"网上什么都能办"（"网上"用一个词说 · ⛔ 不许用 internet）
-
-- 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `you can do pretty much anything online.` —— 一个副词 online 挂句末；首测一次中
-
-### 350 · let your imagination run wild（让想象力放开跑）
-类型 词组 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-09-20 未毕业 ｜ 题型 词组
-
-**问题是什么**
-"让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
-也可以把 imagination 当主人：Reading gives your imagination room to run wild.
-同一格里的邻居（别串）：run with sth ＝ 接过一个想法往下做（run with the idea），⛔ 不配 imagination。
-判据一句话：说想象力放开 ⇒ imagination ＋ run wild／run free。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R13（P3 · What are the differences between reading a book and visiting a museum?）· 原话
-`Reading gives you room to run with your imagination, while museums speak to more of your senses.`（diff-2 ⚠️，她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 let your imagination run wild ⇒ dedup "run wild" ⇒ 零命中；"imagination" ⇒ 🎓#299、🎓#206 正文里带这个词，别的考点 ⇒ 否
-　② 中文 "想象力" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`Reading gives you room to run with your imagination`　　更地道：`Reading gives your imagination room to run wild`
-找法：imagination 后面想接"放开／自由发挥" ⇒ run wild。
-
-**题面**
-"让想象力自由发挥"（用 **run** 说）
-
-- 2026-09-19 新建 · 付息日 d 段重答 R13（P3）· 原话 `Reading gives you room to run with your imagination`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `let your imagination run wild.` —— imagination ＋ run wild 整块；首测一次中
-
-### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
-类型 语法 ｜ 新建 2026-09-20
-状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
-同一格里的邻居（别串）：feel ＋ **形容词** ⛔ 不加 like（It feels weird. ／ I feel tired.）；
-feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）—— 那条管"想不想"，本条管"像不像"。
-同族的动词一样处理：look／sound／smell／taste ＋ 名词也要 like（It looks **like** a museum. ／ It sounds **like** fun.）。
-判据一句话：feel／look／sound 后面跟的是**名词**吗？是 ⇒ 补 like；是形容词 ⇒ 不补。
-
-**怎么发现的**
-2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
-`Going to a historical site feels a mini-escape.`
-判重三步：
-　① 目标形式 feel like ⇒ dedup "feel like" ⇒ 命中 🎓#258（at will → whenever they feel like it ＝ feel like ＋ -ing，"想做某事"）⇒ 否，两条规则；
-　　　🎓#264（a sense of）· 🎓#206（书面降级）只是正文里出现过这两个词 ⇒ 否
-　② 中文题面 dedup "感觉像" ⇒ 零命中
-　③ 保留新建
-
-**我错在哪**
-她的：`Going to a historical site feels a mini-escape.`　　正确：`Going to a historical site feels **like** a mini-escape.`
-找法：说完 feel／look／sound，看后面第一个词 —— 是个名词就补 like。
-
-**题面**
-"去趟古迹就像短暂逃离一下。"（"像"那个词不许省 · ⛔ 不许用 is／seems）
-
-- 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
-- 2026-09-21 ✅ 学习日 在池第 1 组 [4] · `going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems（09-20 首犯正在这里）。连错 1 清零、连对 0 → 1
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
@@ -902,7 +791,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对0 连错1 上次2026-09-21 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
@@ -935,10 +824,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 "至于现在流行什么"（**两个词**的块 · 第一个词是 **as** · ⛔ 不许用 about／regarding／speaking of）
 
 - 2026-09-21 ❌ 首犯 · 新题 bank:1005（P3）· 原话 `As far what's trending right now, I'm actually not too sure`
+- 2026-09-22 ✅ 学习日 在池第 1 组 [2] · `As for what's trending now.` —— as for ＋ 名词性从句，两个词一组，没写成 as far（09-21 首犯正在这里）。连错 1 清零、连对 0 → 1
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **ballad** ＝ 节奏慢、以唱情绪为主的歌（情歌、抒情曲）：`a power ballad` · `all sorts of ballads` · `a slow ballad`。
@@ -963,6 +853,129 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 "各种各样的抒情慢歌"（"抒情慢歌"用**一个名词**说，**b** 开头 · ⛔ 不许用 slow songs／love songs）
 
 - 2026-09-21 新建 · 新题 bank:1005（P3）· 触发原话 `all sorts of ballads(这个单词要背）`（⭐ 她点名要背，词本身用对了）
+- 2026-09-22 ✅ 学习日 在池第 1 组 [7] · `various ballads` —— 一个 b 开头的名词 ballads 调出来了，没退回 slow songs／love songs（建号后首测）。连对 0 → 1
+  ⚠️ diff-2：various → all sorts of（书面词降级，走 §7 书面登记记在 🎓#206；她 09-21 自己写的就是 all sorts of ⇒ ⛔ 不另建号）
+
+### 356 · "另一些人" ＝ others（⛔ some ones）
+类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
+状态 连对0 连错1 上次2026-09-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"有些人…，另一些人…" 的第二个"人"，英语用 **others** 一个词顶（others ＝ other people）：
+`Some people learn by reading, while others learn by doing.` ／ `Some like it hot, others don't.`
+同一格里的邻居（别串）：**ones** 必须先有一个**可指的名词**才站得住（`the cheap ones` ＝ the cheap shoes）——
+凭空一个 `some ones` 没有可指的名词 ⇒ 英语里不存在这个说法；`other people` 合法但长，口语默认 others。
+判据一句话：说第二拨人时，句子里有没有一个刚提过的名词给 ones 指？没有 ⇒ 用 others。
+★ 与 ⚪#324（other 是限定词、others 才是代词）分工：那条的检查触发是"**写完 other**，看后面有没有名词"——
+　本句里压根没有 other 可查（她写的是 some ones）⇒ 那条的检查跑不起来、产不出 others ⇒ 两条不同考点。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
+`while some ones speak with so much emotion that they quickly connect at an emotional level`。
+判重三步：
+　① 目标形式 others ⇒ dedup "others" ⇒ 命中 ⚪#324（other／others 的限定词与代词之分，形态类·不召回）·
+　　　🎓#236 · 🎓#313 · 🎓#81（三条只是正文/历史里出现过 others 这个字串，考点分别是不定式目的、message sb、get to know sb）
+　　　⇒ #324 逐条读完后否掉：它管"写出来的 other 少了 -s"，本条管"第二拨人该调 others 这个词"——
+　　　按 #324 的检查触发扫这一句 ⇒ 句里没有 other ⇒ 检查不触发（与 #324 当初否掉 #150 是同一条判据）
+　② 目标形式 dedup "some ones" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`while some ones speak with so much emotion`　　正确：`while others speak with so much emotion`
+找法：写完 some people 之后要说第二拨人 —— 先落 others，⛔ 不要把 some 再用一次。
+
+**题面**
+"有些人靠讲道理说服你，另一些人靠情绪带动你。"（"另一些人"用**一个词**说 · ⛔ 不许用 some／other people）
+
+- 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `while some ones speak with so much emotion`
+
+### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
+类型 词汇 ｜ 新建 2026-09-22
+状态 连对0 连错1 上次2026-09-22 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
+`a strong logical thinker` ／ `a logical explanation` ／ `logical thinking`。
+同一格里的邻居（别串 —— 同一条 -ic → -ical 派生规则下的别的词，本条只管 logic 这一对）：
+magic→magical · music→musical · practice→practical · politics→political。
+判据一句话：这个词后面还挂着一个名词吗？挂着 ⇒ 它得是形容词形（logical），⛔ 不是光秃秃的 logic。
+★ 不是拼写（§2.1）：logic 与 logical 是**两个词**（名词 vs 形容词），不是同一个词写歪。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
+`Some people are strong logic thinkers who can persuade others through reason`。
+判重三步：
+　① 目标形式 logical ⇒ dedup "logical" ⇒ 零命中
+　② 中文题面 dedup "逻辑" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`strong logic thinkers`　　正确：`strong logical thinkers`
+找法：写完 logic，看后面还有没有名词。有 ⇒ 补 -al。
+
+**题面**
+"一个逻辑很强的人"（用 **logic** 那个词的家族说 · ⛔ 不许用 rational／reasonable／smart）
+
+- 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `Some people are strong logic thinkers`
+
+### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
+类型 搭配 ｜ 新建 2026-09-22
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+"在…层面／在…这个层次上" ＝ **on ＋ a(n) ＋ 形容词 ＋ level**：
+`connect with people on an emotional level` ／ `on a personal level` ／ `on a deeper level` ／ `on some level`。
+同一格里的邻居（别串）：**at** ＋ level 只用在**刻度/高度**上（`at eye level` ／ `at sea level` ／ `at street level`）——
+那是物理位置，不是"层面"；`emotionally` 也说得通，但它是副词，说不了"在某个层面上"这个比喻。
+另外 connect 要把人带上：connect **with sb** on a … level（论元完整，同族 🎓#18）。
+判据一句话：说的是"比喻性的层面"吗？是 ⇒ on；说的是"实际高度" ⇒ at。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
+`they quickly connect at an emotional level`（diff-2 ⚠️，不是 ❌ —— 意思能懂、也偶有人这么说，但地道说法是 on）。
+判重三步：
+　① 目标形式 on an emotional level ⇒ dedup "on an emotional level"／"level" ⇒ 两次都零命中
+　② 中文题面 dedup "层面" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`they quickly connect at an emotional level`　　更地道：`they quickly connect with people on an emotional level`
+找法：说到"在…层面"，先落 on；只有说高度（eye level／sea level）才用 at。
+
+**题面**
+"在情感层面上跟人连起来"（"在…层面上"用 **level** 那个名词说 · ⛔ 不许用 emotionally）
+
+- 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `they quickly connect at an emotional level`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+
+### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
+类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
+`it took a lot of persuasion`。
+同一格里的邻居（别串 —— 同一个词根的三个形）：**persuade sb to do sth** ＝ 动词（`she persuaded me to go`）·
+**persuasive** ＝ 形容词（`a persuasive argument` ＝ 有说服力的）· **convince sb of sth** ＝ 近义动词（偏"让人信"，
+persuade 偏"让人做"）。
+判据一句话：句子里这一格要的是**一件事／一个名词**吗？是 ⇒ persuasion；要的是动作 ⇒ persuade；形容一个论点 ⇒ persuasive。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）·
+她在自己的产出里主动标注 `successful persuasion(这个单词背一下)`
+—— 词**用对了**，是她点名要收进复习（§2③ 她主动提出的）。
+判重三步：
+　① 目标形式 persuasion ⇒ dedup "persuas" ⇒ 零命中（全档没有这个词根的条目）
+　② 中文题面 dedup "说服" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+本条不是她犯的错：她这次写的 `successful persuasion` 完全正确，缺的是"下次还调不调得出来"。
+找法：要说"说服"这件事本身（当名词用），先问一句 —— persuade 的名词形是什么？
+
+**题面**
+"成功的说服" ／ "说服的艺术"（"说服"两处都用**一个名词**说，**p** 开头 · ⛔ 不许用 persuading）
+
+- 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `successful persuasion(这个单词背一下)`（⭐ 她点名要背，词本身用对了）
 
 ## 迁移说明（2026-08-18）
 
