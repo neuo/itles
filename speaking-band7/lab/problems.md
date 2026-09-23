@@ -923,12 +923,17 @@ magic→magical · music→musical · practice→practical · politics→politic
 状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
 
 **问题是什么**
-"在…层面／在…这个层次上" ＝ **on ＋ a(n) ＋ 形容词 ＋ level**：
-`connect with people on an emotional level` ／ `on a personal level` ／ `on a deeper level` ／ `on some level`。
-同一格里的邻居（别串）：**at** ＋ level 只用在**刻度/高度**上（`at eye level` ／ `at sea level` ／ `at street level`）——
-那是物理位置，不是"层面"；`emotionally` 也说得通，但它是副词，说不了"在某个层面上"这个比喻。
+"在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
+· **on ＋ a(n) ＋ 形容词 ＋ level** ＝ 从某个**角度**／在某种程度上（不定冠词）：
+　`connect with people on an emotional level` ／ `on a personal level` ／ `on a deeper level` ／ `on some level` ／ `on a practical level`
+· **at ＋ the ＋ 形容词 ＋ level** ＝ 一套**层级**里的某一层（定冠词，行政／组织／分析的层级，永远能跟另一层并排）：
+　`at the national level` ／ `at the local level` ／ `at the individual level` ／ `at the social level` ／ `at the policy level`（也说 `at the level of the individual`）
+· **at ＋ 物理高度**（永远 at）：`at eye level` ／ `at sea level` ／ `at street level`
+同一格里的邻居（别串）：`emotionally` 说得通，但它是副词，说不了"在某个层面上"这个比喻。
 另外 connect 要把人带上：connect **with sb** on a … level（论元完整，同族 🎓#18）。
-判据一句话：说的是"比喻性的层面"吗？是 ⇒ on；说的是"实际高度" ⇒ at。
+判据一句话：冠词是 **a/an**、说的是"从某个角度" ⇒ **on**；冠词是 **the**、而且那一层能跟别的层并排（个人层 vs 国家层）⇒ **at**。
+★ 她的那句 `connect ___ an emotional level`：冠词是 an、说的是"从情感这个角度跟人连上"（不跟别的层并排）⇒ 走 on，
+　且 connect 与 on 本身就是固定搭配（connect with sb **on** a … level）。
 
 **怎么发现的**
 2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
@@ -940,12 +945,16 @@ magic→magical · music→musical · practice→practical · politics→politic
 
 **我错在哪**
 她的：`they quickly connect at an emotional level`　　更地道：`they quickly connect with people on an emotional level`
-找法：说到"在…层面"，先落 on；只有说高度（eye level／sea level）才用 at。
+找法：说到"在…层面"，**先看冠词** —— a/an（从某个角度）⇒ on；the ＋ 能跟别的层并排（国家层／个人层／社会层）⇒ at。
 
 **题面**
 "在情感层面上跟人连起来"（"在…层面上"用 **level** 那个名词说 · ⛔ 不许用 emotionally）
 
 - 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `they quickly connect at an emotional level`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+- 2026-09-22 📝 **正文订正（她当场推翻我写窄的判据）**：她问「at the social level 是 at 还是 on」——
+  `at the social level` 完全成立（社会这一层 vs 个人那一层 ＝ 层级用法）⇒ 建号时写的"at ＋ level 只用于物理高度"**是错的**，
+  当天改成按**冠词**分的两个块（on a/an ＋ 角度 ／ at the ＋ 层级 ／ at ＋ 物理高度）。
+  ⛔ 判定口径同步放宽：她若答 `at the … level` 且说的是层级 ⇒ **判 ✅**；本条真正要卡的只有"从某个角度"那一格该用 on。
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
