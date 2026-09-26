@@ -3357,6 +3357,7 @@ no 一路盖到 and 后面那半。两条解法：
   ★ 同句 `is spelled out` 主谓一致 ⇒ ⚪#10（形态类只记录，不影响本条判定）；`After working` ⇒ ⚠️ 不建号（她 09-07／09-20 都产出过 After work）
 - 2026-09-22 📝 留痕（⛔ 不判回潮、状态行不动）· 新题 bank:1102（P3）· `understanding people, good reasoning ability, and being good at expressing yourself` 三项不同形（动名词／名词短语／动名词）
   ⇒ 判 ⚠️ 不判 ❌：母语句反证 `It comes down to three things: understanding people, good timing, and a bit of luck.` 混着摆在口语里成立；更好版把中间一项改成 reasoning well
+- 2026-09-26 📝 重答 bank:778（R16）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· `other things like hobbies, or spending time with your kid` —— 名词与动名词短语同为 like 的宾语，功能同形
 - 备注 自测法：把两边分别接回前面那个词念一遍
 - 备注 合并 2026-08-19：#151（并列两边可数性/单复数要齐）并入本条 —— 同一条规则的两个面，
   题面保留两句，一句测"功能相同"、一句测"数要齐"
@@ -5110,7 +5111,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
 类型 语法 ｜ 旧号 B245
-状态 连对2 连错0 上次2026-08-30 ｜ **🎓 已毕业 2026-08-23**（连对2 · 08-20 回潮后走完两次）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-23**（连对2 · 08-20 回潮后走完两次）｜ 题型 整句
 　　★★ **2026-08-30 撤销 08-28 的"第二次回潮"**（她当天裁定 `makes a huge different` ＝ 手滑）：
 　　　 §2.1 拼写一律不算错 ⇒ 那一次不成立 ⇒ **本条从 08-23 起一直是 🎓，中间没断过**。
 　　　 08-29／08-30 的两次 ✅ 相应降为**毕业后留痕**，只作自发命中证据，不推进数字。
@@ -5207,6 +5208,7 @@ something to look forward **to** ／ a pen to write **with**。
     本次把旧题面移出题面字段（沿革保留在元信息尾部与 08-29 的日志行里），题面只留复测那两句。
   ★ ⛔ 这不是新裁决，是**执行本条已有的裁定**。
 - 2026-09-12 📝 元信息行整理：撤出的旧题面与沿革移到 ★ 行，题面字段只留两句（§3.1② 解析口径：★ 行不算题面本体）· 全档题面 review
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [10] · `The difference between these two versions is actually pretty obvious. They handle problems in a totally different way.`
 - 备注 08-16 实证：原答案写对，重说时反而退成 different
 
 ### 158 · 场所介词 on（面）／in（有边界的空间）；on the balcony／on the bus
@@ -6945,6 +6947,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-09-18 📝 书面登记 · 新题 bank:353（P3）· `whereas` → while（⛔ 不判回潮、状态行不动）
 - 2026-09-19 📝 书面登记 · 付息日 d 段重答 R12（P3）· `digital payments` → using their phones（⛔ 不判回潮、状态行不动）
 - 2026-09-22 📝 书面登记 · 学习日 在池第 1 组 [7]（#355 题）· `various ballads` → all sorts of ballads（⛔ 不判回潮、状态行不动）
+- 2026-09-26 📝 书面登记 · 重答 bank:778（R16）S4 · `in recent years` → over the past few years（不判回潮、状态行不动）
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -7134,7 +7137,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 212 · 压缩出来的形容词两个出口（表语最省）
 类型 结构 ｜ 旧号 B149
-状态 连对2 连错0 上次2026-09-20 ｜ 题型 整句 ｜ **回潮 2026-09-18**（08-15 毕业 → 09-05 复检 ✅ → 09-18 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-09-26 ｜ 题型 整句 ｜ **回潮 2026-09-18**（08-15 毕业 → 09-05 复检 ✅ → 09-18 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 **压缩出来的形容词两个出口，表语最省**：把中文"…得…不…"这种程度补语压成**一个形容词**放表语位 ——
@@ -7179,6 +7182,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 c 段 review · 与 🎓#163 的"说不出话"互斥核对（09-18 收尾待办）
   #163 走动作（stood there／froze）、题面排除 speechless；本条走表语形容词、speechless 是合法答案 ⇒ 题面不同句、考点不同，互斥成立；分工写进「问题是什么」
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `He is speechless with anger.` —— 主语 ＋ be ＋ 一个形容词表语，整串补语压成 speechless；连对2 ⇒ 毕业
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [1] · `he was speechless with anger.`
 - 备注 原题面还有"地铁里人挤人"，与 #108（packed）撞车 ⇒ 本条只留"路上堵得一动不动"
 
 ### 213 · 功能上线 ＝ go live／be released
@@ -11421,7 +11425,7 @@ enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主�
 
 ### 302 · something breaks（东西坏了／出故障，break 当不及物动词，不用 be broken）
 类型 搭配 ｜ 新建 2026-08-26（**她当场指定**）
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **something breaks**（东西坏了／出故障，break 当**不及物**动词，⛔ 不用 be broken）。
@@ -11480,6 +11484,7 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（她原话："10. 直接过"）
 - 2026-09-15 📝 新题 bank:1059 · `the network connected with my office broken` 教练原判 ❌（something breaks）⇒ **她当场判定手滑、撤销**
   原话："这两个条目都不用建（手滑）" ⇒ §2 当场撤、不记档位、⛔ 不回潮；状态行一个字不动
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [3] · `If something breaks, just give me a call.`
 
 
 ### 303 · sb is the kind of person ＋ 关系从句（形容一个人是"那种人"）
@@ -11709,7 +11714,7 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
 
 ### 306 · not just A — it's more B（"不只是A，更多的是B"：中间不能用 and）
 类型 结构 ｜ 新建 2026-08-27
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
 
 **问题是什么**
 **not just A — it's more B**（"不只是A，更多的是B"：**中间不能用 and**）。
@@ -11776,10 +11781,11 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
      ⇒ 属"产出时检查没跑"，不是缺口
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `Traveling is not just about the scenery; it's more about a change of environment to relax.` —— not just … it's more … 完整，中间没塞 and
   ⚠️ 顺带：a change of environment to relax → a change of scene to help you relax（to relax 悬着）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [4] · `Traveling is not just about seeing the sights; it's more about getting to chill in a new environment.`
 
 ### 307 · That's how ＋ 主谓（"这样一来他们才会…／就是这么来的"）
 类型 结构 ｜ 新建 2026-08-28（**她当场指定**）
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-30**（连对2 · **毕业那次已换句**）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-30**（连对2 · **毕业那次已换句**）｜ 题型 整句
 
 **问题是什么**
 **That's how ＋ 主谓**（"这样一来他们才会…／就是这么来的"）。
@@ -11851,6 +11857,7 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
     the first place." 中性叙述完全自然）⇒ 属 §7「⛔ 教练不必要的改动」，未发。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 6 组 · `That's how I got start.` —— That's how ＋ 主谓，考点命中
   ⚪ got start → got **started**（get started 固定块的 -ed，形态类只记号 §3.4；同日 got stuck／got fined 都带对了 ⇒ 会，产出时检查没跑）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [5] · `That's how I got started in the first place.`
 
 ### 308 · empty into ＋ 海／湖（河流"注入"某处的介词）
 类型 搭配 ｜ 新建 2026-08-29
@@ -11916,7 +11923,7 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
 
 ### 309 · 推测过去 ＝ must have ＋ 过去分词
 类型 语法 ｜ 新建 2026-08-29
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-31**（连对2 ＝ 08-30 ＋ 08-31）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-31**（连对2 ＝ 08-30 ＋ 08-31）｜ 题型 整句
 
 **问题是什么**
 推测过去 ＝ **must have ＋ 过去分词**。
@@ -11985,6 +11992,7 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
   考点 must ＋ have ＋ 过去分词 一字不差命中。中文"那时候"未落地 ⇒ 走更好版（At the time, …），不判错。
   ⇒ 连对2 · 达毕业线
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `He must have been exhausted back then` —— must **have been**，一字不差
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [6] · `At that time, he must have been tired.`
 
 ### 310 · all the way ＋ 方向／终点（"一路…"／"大老远…"）
 类型 词组 ｜ 新建 2026-08-30（**她当场指定**）
@@ -12089,7 +12097,7 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
 
 ### 311 · 动词 ＋ its／his／my way ＋ 方向（"一路…着过去"）
 类型 结构 ｜ 新建 2026-08-30（**她当场指定**）
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01）｜ 题型 整句
 
 **问题是什么**
 **动词 ＋ its／his／my way ＋ 方向**（"一路…着过去"）。
@@ -12165,6 +12173,7 @@ all the way ＝ **把"整段距离／整个过程"标出来**，位置永远在�
     **不是教练教过的，是她自己换上去的**。
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · `that river winds its way through the city center.` —— winds its way ＋ 方向，结构一字不差
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [7] · `That river winds its way through the city center.`
 
 ### 312 · search for sth（search 找"东西"必须带 for）
 类型 搭配 ｜ 新建 2026-08-30
@@ -12325,7 +12334,7 @@ message／text／call／email 一律**直接跟人**，⛔ 别被中文的"跟"�
 
 ### 314 · economic（经济的）≠ economical（省钱的）
 类型 词汇 ｜ 新建 2026-08-31
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 新建、当天首犯，两次点名直测连翻）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 新建、当天首犯，两次点名直测连翻）｜ 题型 词组
 
 **问题是什么**
 **economic**（经济的）≠ **economical**（省钱的）。
@@ -12398,6 +12407,7 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
       两次同裁 ⚠️ 不建号，记进纵向发现，等第三例看形状能不能收敛。
   ⇒ 连对1 → **连对2，毕业**（状态行手写，见上）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 3 题整串，她原话："1-4 直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `economic growth`
 - 备注 **出题口径（单句，不做合并条）**：本次的缺口是**单向**的 ——
   想说"经济的"调出了 economical；**没有**"想说省钱的却调出 economic"的证据。
   ⇒ 照 🎓#255（vital ≠ virtual）的先例出**单句**，⛔ 不凭空造第二个方向（那是加戏）。
@@ -12406,7 +12416,7 @@ economical ＝ 省钱的、省油的 → an economical car ／ an economical way
 
 ### 315 · support FROM sb（谁给的）≠ support FOR sb（给谁的）
 类型 搭配 ｜ 新建 2026-09-01
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；09-01 新建当天首犯，两次复测 from／for 两个方向各一句全中）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；09-01 新建当天首犯，两次复测 from／for 两个方向各一句全中）｜ 题型 词组
 
 **问题是什么**
 **support FROM sb**（谁给的）≠ **support FOR sb**（给谁的）。
@@ -12504,6 +12514,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
   ★ 判前自审留痕：`support of the government` 会反向读成"对政府的支持"，
     `give support to sb` 里的 to 是动词 give 带的、不是名词 support 带的 ⇒ from／for 才是本条的两个出口。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包（漏答后当场补答）· `Financial support from the government. Government support for small businesses.`
 - 备注 **本条的诊断价值（反向证据，与她平时的形状相反）**：
 ```
 她 08-31 在 R9 **cold 自由产出**里自己写的是 `financial support **from** governments` ✅
@@ -12518,7 +12529,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
 
 ### 316 · log in（动词，两个词）≠ login（名词，一个词）
 类型 词汇 ｜ 新建 2026-09-01
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；题面 09-03 整改过——只钉词根 log 不钉词形，两次测的都是真考点）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-03 ＋ 09-04；题面 09-03 整改过——只钉词根 log 不钉词形，两次测的都是真考点）｜ 题型 词组
 
 **问题是什么**
 **log in**（动词，两个词）≠ **login**（名词，一个词）。
@@ -12617,6 +12628,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
   ★ 不判的一处（留痕）：09-03 她用 `and`、今天用 `so` 连接前后两句 —— 两个都合法，
     且中文本就是因果 ⇒ 不判、不提。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `can't log in / login page`
 - 备注 **出题口径（两句，一句测动词一句测名词，⛔ 不许只出一句）**：
   只出动词那一句，她永远测不到"什么时候该连着写"；只出名词那一句，考位根本没碰到。
   ★ 这不是 §3.2c 的"合并条"（成员只有 log in 这一个词），是**一个词的两种词类**。
@@ -12624,7 +12636,7 @@ support ＋ 介词，这个介词管的是"**谁给**"还是"**给谁**"：
 
 ### 317 · when it comes TO sth（说到／在……这件事上）
 类型 词组 ｜ 新建 2026-09-03
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-04 同日两次独立产出：第 1 组点名中译英 ＋ 新题第 2 道自由产出；§3.3 她 08-23 定"同一天多次产出各记一次"）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-04**（连对2 ＝ 09-04 同日两次独立产出：第 1 组点名中译英 ＋ 新题第 2 道自由产出；§3.3 她 08-23 定"同一天多次产出各记一次"）｜ 题型 词组
 
 **问题是什么**
 **when it comes TO sth**（说到／在……这件事上）。
@@ -12726,13 +12738,14 @@ fashion choices or entertainment - older people might ask for recommendations…
        掉的那一格没被测到"；本次命中的**正是掉的那一格**（down 在不在）⇒ 不适用。
   ⇒ 连对 1 → **2**，达线（毕业状态行手工改，见状态行）。
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `when it comes to online shopping and outfit styling`
 - 备注 **出题口径**：只出"说到"那一句，⛔ 不在同一题里混进"说到底"——
   "说到底"归 🎓#58／🎓#284，中文触发词已经分掉了，混着出会让她分不清在测哪一条。
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 318 · one time WHEN ＋ 背景，主句装事件（讲往事的挂接顺序）
 类型 结构 ｜ 新建 2026-09-04
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 整句
 
 **问题是什么**
 **one time WHEN ＋ 背景，主句装事件**（讲往事的挂接顺序）。
@@ -12806,6 +12819,8 @@ one time 的内容，真正的事件反而被 when 挂成了从句 ⇒ 主句里
   —— one time when ＋ 背景、主句装事件，挂接顺序全对 ⇒ 连对 2，**毕业**
   （shown 是形态类，只记 ⚪ 到 #93，不影响本条）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（她原话："5-9 直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [8] · `One time, when he was two year old, he brought a drawing over to show me.` —— one time, when ＋ 背景，主句装事件
+  ★ two year old 的 -s ⇒ ⚪#150，不属本条
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
 
 ### 319 · present sth TO sb ／ present sb WITH sth（present 不进双宾语那一族）
@@ -12890,7 +12905,7 @@ present 的两个框（记框，不记单词）：
 
 ### 320 · point AT sth（指着某样东西）
 类型 搭配 ｜ 新建 2026-09-04
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07）｜ 题型 词组
 
 **问题是什么**
 **point AT sth**（指着某样东西）。
@@ -12953,6 +12968,7 @@ present 的两个框（记框，不记单词）：
 - 2026-09-07 ✅ 复习 · 在池第 2 组 · `point at the picture on the wall`
   —— 表"指"时介词没省，⛔ 没有落回 09-04 的裸 `pointed three circle` ⇒ 连对 2，**毕业**
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（打包串，她原话："除了 3）忘了，其他直接过"）
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [9] · `Pointing at that photo on the wall.`
 - 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
   `point sth **out**` ＝ 指出来／点明（She pointed out two mistakes.）——**另一个块**，
   意思是"把没人注意到的东西说出来"，不是用手指。若日后她掉这个，另开号。
@@ -13839,7 +13855,7 @@ worth -ing（worth praising 可以）。
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-20 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-09-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 "到我这边来"这一层，挂在动词后面的小词是 **over**：drive over ／ come over ／ head over ／ pop over。
@@ -13869,10 +13885,11 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
   `he drove up`（开到跟前停下）／`he drove round`（英式 ＝ came over）都是"动词 ＋ 一个小词"、都合法，绕开 over ⇒ 补排除项
 - 2026-09-18 ✅ 学习日 在池第 2 组 · 首测 · `he drove over.`——drive **over**，没带 here
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `he drove over.` —— "过来"＝ 动词后面挂 over；连对2 ⇒ 毕业
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he drove over`
 
 ### 345 · 在哪台机器上干活 ＝ ON ＋ 机器（on his own laptop／device；⛔ using his device）
 类型 搭配 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-20 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-09-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 在某台机器上做事，介词用 **on** ＋ 那台机器：on his own laptop ／ on his own device ／ on my phone ／ on the office computer。
@@ -13906,6 +13923,7 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 - 2026-09-18 📝 规则收回：「⛔ device 这种统称」半条删掉 · 她异议（"computer 就是 device"）
   device 是合法说法，不是错；本条考点只剩介词 on（⛔ using 起头）⇒ 标题／问题是什么／我错在哪同步改，题面排除项去掉 device
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `he debugs on his own laptop.` —— 在哪台机器上干活 ＝ on ＋ 机器；连对2 ⇒ 毕业
+- 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he debugged on his own laptop`
 
 ### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
 类型 词组 ｜ 新建 2026-09-19
@@ -14100,3 +14118,108 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
 - 2026-09-21 ✅ 学习日 在池第 1 组 [4] · `going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems（09-20 首犯正在这里）。连错 1 清零、连对 0 → 1
 - 2026-09-22 ✅ 学习日 在池第 1 组 [1] · `Going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems ⇒ **连对 2，毕业**
+
+### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
+类型 词组 ｜ 新建 2026-09-20
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 词组
+
+**问题是什么**
+中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
+**seeing the real thing** ／ **seeing it in real life** ／ **seeing it in person**（🎓 R13 里她自己用过 in person）。
+同一格里的邻居（别串）：the real-life **feel** of it 勉强能说，但口语几乎都走 seeing 那条；
+⛔ the real-life feeling 是把中文的"感"直译成 feeling。
+判据一句话：想说"真实感" ⇒ 换成"亲眼看到真东西"这个动作来说。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`It mainly comes down to two simple things: the real-life feeling and a change of pace.`
+判重三步：
+　① 目标形式 the real thing ⇒ dedup "the real thing" ⇒ 命中 🎓#306（not just A — it's more B，只是正文里出现过）⇒ 否；
+　　　dedup "real life" ／ "in person" ⇒ 零命中
+　② 中文题面 dedup "真实" ⇒ 命中 🎓#60 #84 #59 #275 全是"真实条件句／嵌入疑问"⇒ 否，不同考点
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`the real-life feeling`　　正确：`seeing the real thing`（或 `seeing it in real life`）
+找法：中文里出现"…感"，先别找名词，先问一句 —— 这个"感"是从哪个**动作**来的？
+
+**题面**
+"亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
+
+- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `the real-life feeling`（⚠️ 更地道的表达，§3.2b）
+- 2026-09-21 ✅ 学习日 在池第 1 组 [5] · `see the real things.` —— 考点命中：把"真实感"换成**动作**来说、用了 real、没用 feeling ⇒ 符合题面（§3.3 硬顺序①②）。连对 0 → 1
+  ★ `the real things` 的 -s ⇒ ⚠️ 不判 ❌：the real thing 恒单数，但题面没点名单数 ⇒ 判定只认题面（§6 ⛔ 不让她猜教练想要什么）⇒ 当场改题面，见同日 📝 行
+- 2026-09-21 📝 题面整改（§3.3 硬顺序③）· 原题面 "亲眼看到真东西"（用 **real** 说 · ⛔ 不许用 feeling／feel）
+  → 现题面 "亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
+  —— 提示不受粒度限制（§6②），补一句"单数"把 the real thing 变成唯一答案；考点（别把"真实感"名词化，改说动作）一个字没动
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [5] · `See the real thing in person.` —— the real thing 单数固定块，没用 feeling ⇒ **连对 2，毕业**
+
+### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
+类型 搭配 ｜ 新建 2026-09-20
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+
+**问题是什么**
+**vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
+`somewhere with a completely different vibe` ／ `the place has a really chill vibe` ／ `soak up a different vibe`。
+⛔ chill **in** a different vibe —— in 把 vibe 当成了房间。
+同一格里的邻居（别串）：真要说"待在里面"就换个有空间义的名词：in a totally different setting／atmosphere。
+判据一句话：vibe 前面想加 in ⇒ 停：改成 with a … vibe 挂在地方上，或者把 vibe 换成 setting。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`you just get to chill in a totally different vibe.`
+判重三步：
+　① 目标形式 vibe ⇒ dedup "vibe" ⇒ 零命中；dedup "atmosphere" ⇒ 零命中
+　② 中文题面 dedup "气氛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`you just get to chill in a totally different vibe`　　正确：`you get to chill somewhere with a totally different vibe`
+找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
+
+**题面**
+"你能待在一个气氛完全不一样的地方。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
+
+- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
+- 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
+- 2026-09-21 ✅ 学习日 在池第 1 组 [6] · `you can stay somewhere with a completely different vibe.` —— vibe 挂回了地方上（somewhere with a … vibe），前面不是 in。连对 0 → 1
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [6] · `You get to somewhere with a totally different vibe.` —— vibe 挂在地方上（somewhere with a … vibe），前面不是 in ⇒ **连对 2，毕业**
+  ★ 同句 get to 后漏动词 ⇒ 不属本条，新建 #360
+
+### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
+类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
+状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 词组
+
+**问题是什么**
+**as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
+`as for the price` · `as for what's trending right now` · `as for me`。
+同一格里的邻居（别串）：**as far as … goes ／ as far as … is concerned** ＝ "就…而言"，它是**四段式**，
+后半截（goes／is concerned）⛔ 不能省；**when it comes to ＋ 名词** ＝ "一说到…"，三个词，同义但更长。
+⛔ `as far ＋ 名词` ＝ 把上面两个块的前半截拼在一起，英语里不存在这个说法。
+判据一句话：写完 as far，回头看后面有没有 `as … goes`？没有 ⇒ 把 far 换成 for。
+★ 与 🎓#317（when it comes **TO** sth）分工：那条考 come 那一族的介词，本条考 as for 这个块 ——
+　本条出题点名"两个词的块 · 第一个词是 as"，🎓#317 出题点名"用 come 说" ⇒ 两边各自唯一，⛔ 不撞车。
+
+**怎么发现的**
+2026-09-21 学习日 新题 bank:1005（P3 · What are the differences between old and young people's music preferences?）· 触发原话
+`As far what's trending right now, I'm actually not too sure`。
+判重三步：
+　① 目标形式 as for ⇒ dedup "as for"／"as far as" ⇒ 命中 🎓#59（直接疑问 vs 嵌入疑问，考的是从句语序）·
+　　　🎓#298（have the final say，考的是 say 当名词）—— 两条都只是正文/历史里出现过这个字母串 ⇒ 否，考点不同
+　② 中文题面 dedup "至于" ⇒ 命中 🎓#250（that far vs too far，考的是 far 有没有"刚才那句话"可指）⇒ 否，那条管指代、本条管块
+　③ 保留新建（⛔ 建号当天不测）
+收尾复核（§4⑤1b，同日）：补查 dedup "when it comes to" ⇒ 命中 🎓#317（when it comes **TO** sth）· 🎓#58（it mainly comes down to）
+　⇒ 两条的目标形式都是 come 那一族，本条是 as for ⇒ **两条，不并**；按判重三步③ 当场落实**题面互斥**：
+　　本条题面点名"两个词的块 · 第一个词是 **as**" ⇒ 排掉 when it comes to；
+　　🎓#317 题面点名"用 **come** 说" ⇒ 排掉 as for。两边各自唯一，⛔ 不会撞车。
+
+**我错在哪**
+她的：`As far what's trending right now`　　正确：`As for what's trending right now`
+找法：写完 as far，回头问一句 —— 后面有没有 as … goes？没有就把 far 换成 for。
+
+**题面**
+"至于现在流行什么"（**两个词**的块 · 第一个词是 **as** · ⛔ 不许用 about／regarding／speaking of）
+
+- 2026-09-21 ❌ 首犯 · 新题 bank:1005（P3）· 原话 `As far what's trending right now, I'm actually not too sure`
+- 2026-09-22 ✅ 学习日 在池第 1 组 [2] · `As for what's trending now.` —— as for ＋ 名词性从句，两个词一组，没写成 as far（09-21 首犯正在这里）。连错 1 清零、连对 0 → 1
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [2] · `As for what's trending right now` —— as for ＋ 名词性从句，没写成 as far ⇒ **连对 2，毕业**

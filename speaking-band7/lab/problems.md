@@ -634,10 +634,11 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
     #56 管的是"单数可数名词裸奔、一个限定词都没有" ⇒ 不适用。
 - 2026-09-15 ⚪ 新题 bank:1059 · `These day` → These days —— 形态类只记录（§3.4②）
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-09-26 ⚪ 复检第 2 组 [8]（#318 题里）· `when he was two year old` —— 数词 two 后面 year 没变复数；她 #318 历史里写对过 two years old ⇒ 检查没跑，只记录
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对0 连错1 上次2026-09-22 未毕业 ｜ **回潮 2026-09-22**（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ 题型 词组
+状态 连对1 连错0 上次2026-09-26 未毕业 ｜ **回潮 2026-09-22**（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ 题型 词组
 
 **问题是什么**
 **at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
@@ -669,6 +670,7 @@ in order to → to · utilize → use · numerous → a lot of · purchase → b
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `You can come whenever you feel like it`
 - 2026-09-22 ❌ 复检第 3 组 [5b] · 答"忘了"，whenever sb feels like it 整块没出来 ⇒ **回潮**（08-21 毕业 · 09-11 复检还稳 · 本次掉）
   ⇒ 状态行改回未毕业、连对清零、rc 归零，转回在池队列；正确版 `He comes here whenever he feels like it.`
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [1] · `You can come whenever you feel like it.` —— whenever you feel like it 整块回来了（09-22 复检掉的那块）。连错 1 清零、连对 0 → 1
 - 备注 整句范例（她指定要背的那句）：
   **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
   —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
@@ -725,107 +727,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
-类型 词组 ｜ 新建 2026-09-20
-状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 词组
-
-**问题是什么**
-中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
-**seeing the real thing** ／ **seeing it in real life** ／ **seeing it in person**（🎓 R13 里她自己用过 in person）。
-同一格里的邻居（别串）：the real-life **feel** of it 勉强能说，但口语几乎都走 seeing 那条；
-⛔ the real-life feeling 是把中文的"感"直译成 feeling。
-判据一句话：想说"真实感" ⇒ 换成"亲眼看到真东西"这个动作来说。
-
-**怎么发现的**
-2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
-`It mainly comes down to two simple things: the real-life feeling and a change of pace.`
-判重三步：
-　① 目标形式 the real thing ⇒ dedup "the real thing" ⇒ 命中 🎓#306（not just A — it's more B，只是正文里出现过）⇒ 否；
-　　　dedup "real life" ／ "in person" ⇒ 零命中
-　② 中文题面 dedup "真实" ⇒ 命中 🎓#60 #84 #59 #275 全是"真实条件句／嵌入疑问"⇒ 否，不同考点
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`the real-life feeling`　　正确：`seeing the real thing`（或 `seeing it in real life`）
-找法：中文里出现"…感"，先别找名词，先问一句 —— 这个"感"是从哪个**动作**来的？
-
-**题面**
-"亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
-
-- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `the real-life feeling`（⚠️ 更地道的表达，§3.2b）
-- 2026-09-21 ✅ 学习日 在池第 1 组 [5] · `see the real things.` —— 考点命中：把"真实感"换成**动作**来说、用了 real、没用 feeling ⇒ 符合题面（§3.3 硬顺序①②）。连对 0 → 1
-  ★ `the real things` 的 -s ⇒ ⚠️ 不判 ❌：the real thing 恒单数，但题面没点名单数 ⇒ 判定只认题面（§6 ⛔ 不让她猜教练想要什么）⇒ 当场改题面，见同日 📝 行
-- 2026-09-21 📝 题面整改（§3.3 硬顺序③）· 原题面 "亲眼看到真东西"（用 **real** 说 · ⛔ 不许用 feeling／feel）
-  → 现题面 "亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
-  —— 提示不受粒度限制（§6②），补一句"单数"把 the real thing 变成唯一答案；考点（别把"真实感"名词化，改说动作）一个字没动
-
-### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
-类型 搭配 ｜ 新建 2026-09-20
-状态 连对1 连错0 上次2026-09-21 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
-`somewhere with a completely different vibe` ／ `the place has a really chill vibe` ／ `soak up a different vibe`。
-⛔ chill **in** a different vibe —— in 把 vibe 当成了房间。
-同一格里的邻居（别串）：真要说"待在里面"就换个有空间义的名词：in a totally different setting／atmosphere。
-判据一句话：vibe 前面想加 in ⇒ 停：改成 with a … vibe 挂在地方上，或者把 vibe 换成 setting。
-
-**怎么发现的**
-2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
-`you just get to chill in a totally different vibe.`
-判重三步：
-　① 目标形式 vibe ⇒ dedup "vibe" ⇒ 零命中；dedup "atmosphere" ⇒ 零命中
-　② 中文题面 dedup "气氛" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`you just get to chill in a totally different vibe`　　正确：`you get to chill somewhere with a totally different vibe`
-找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
-
-**题面**
-"你能待在一个气氛完全不一样的地方。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
-
-- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
-- 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
-- 2026-09-21 ✅ 学习日 在池第 1 组 [6] · `you can stay somewhere with a completely different vibe.` —— vibe 挂回了地方上（somewhere with a … vibe），前面不是 in。连对 0 → 1
-
-### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
-类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对1 连错0 上次2026-09-22 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
-`as for the price` · `as for what's trending right now` · `as for me`。
-同一格里的邻居（别串）：**as far as … goes ／ as far as … is concerned** ＝ "就…而言"，它是**四段式**，
-后半截（goes／is concerned）⛔ 不能省；**when it comes to ＋ 名词** ＝ "一说到…"，三个词，同义但更长。
-⛔ `as far ＋ 名词` ＝ 把上面两个块的前半截拼在一起，英语里不存在这个说法。
-判据一句话：写完 as far，回头看后面有没有 `as … goes`？没有 ⇒ 把 far 换成 for。
-★ 与 🎓#317（when it comes **TO** sth）分工：那条考 come 那一族的介词，本条考 as for 这个块 ——
-　本条出题点名"两个词的块 · 第一个词是 as"，🎓#317 出题点名"用 come 说" ⇒ 两边各自唯一，⛔ 不撞车。
-
-**怎么发现的**
-2026-09-21 学习日 新题 bank:1005（P3 · What are the differences between old and young people's music preferences?）· 触发原话
-`As far what's trending right now, I'm actually not too sure`。
-判重三步：
-　① 目标形式 as for ⇒ dedup "as for"／"as far as" ⇒ 命中 🎓#59（直接疑问 vs 嵌入疑问，考的是从句语序）·
-　　　🎓#298（have the final say，考的是 say 当名词）—— 两条都只是正文/历史里出现过这个字母串 ⇒ 否，考点不同
-　② 中文题面 dedup "至于" ⇒ 命中 🎓#250（that far vs too far，考的是 far 有没有"刚才那句话"可指）⇒ 否，那条管指代、本条管块
-　③ 保留新建（⛔ 建号当天不测）
-收尾复核（§4⑤1b，同日）：补查 dedup "when it comes to" ⇒ 命中 🎓#317（when it comes **TO** sth）· 🎓#58（it mainly comes down to）
-　⇒ 两条的目标形式都是 come 那一族，本条是 as for ⇒ **两条，不并**；按判重三步③ 当场落实**题面互斥**：
-　　本条题面点名"两个词的块 · 第一个词是 **as**" ⇒ 排掉 when it comes to；
-　　🎓#317 题面点名"用 **come** 说" ⇒ 排掉 as for。两边各自唯一，⛔ 不会撞车。
-
-**我错在哪**
-她的：`As far what's trending right now`　　正确：`As for what's trending right now`
-找法：写完 as far，回头问一句 —— 后面有没有 as … goes？没有就把 far 换成 for。
-
-**题面**
-"至于现在流行什么"（**两个词**的块 · 第一个词是 **as** · ⛔ 不许用 about／regarding／speaking of）
-
-- 2026-09-21 ❌ 首犯 · 新题 bank:1005（P3）· 原话 `As far what's trending right now, I'm actually not too sure`
-- 2026-09-22 ✅ 学习日 在池第 1 组 [2] · `As for what's trending now.` —— as for ＋ 名词性从句，两个词一组，没写成 as far（09-21 首犯正在这里）。连错 1 清零、连对 0 → 1
-
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
 状态 连对1 连错0 上次2026-09-22 未毕业 ｜ 题型 词组
@@ -858,7 +759,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 356 · "另一些人" ＝ others（⛔ some ones）
 类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
-状态 连对0 连错1 上次2026-09-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "有些人…，另一些人…" 的第二个"人"，英语用 **others** 一个词顶（others ＝ other people）：
@@ -888,10 +789,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "有些人靠讲道理说服你，另一些人靠情绪带动你。"（"另一些人"用**一个词**说 · ⛔ 不许用 some／other people）
 
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `while some ones speak with so much emotion`
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [3] · `some people persuade you with reason, while others win you over through emotion.` —— 第二拨人用 others 一个词顶。连错 1 清零、连对 0 → 1
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
-状态 连对0 连错1 上次2026-09-22 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
@@ -917,10 +819,12 @@ magic→magical · music→musical · practice→practical · politics→politic
 "一个逻辑很强的人"（用 **logic** 那个词的家族说 · ⛔ 不许用 rational／reasonable／smart）
 
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `Some people are strong logic thinkers`
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [4] · `A logical thinker.` —— logic 后面挂名词 ⇒ logical。连错 1 清零、连对 0 → 1
+  ★ 漏了"很强"（strong）⇒ diff-2 ⚠️，不建号
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 词组
 
 **问题是什么**
 "在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
@@ -955,10 +859,11 @@ magic→magical · music→musical · practice→practical · politics→politic
   `at the social level` 完全成立（社会这一层 vs 个人那一层 ＝ 层级用法）⇒ 建号时写的"at ＋ level 只用于物理高度"**是错的**，
   当天改成按**冠词**分的两个块（on a/an ＋ 角度 ／ at the ＋ 层级 ／ at ＋ 物理高度）。
   ⛔ 判定口径同步放宽：她若答 `at the … level` 且说的是层级 ⇒ **判 ✅**；本条真正要卡的只有"从某个角度"那一格该用 on。
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [7] · `Connect with people on an emotional level.` —— on ＋ an ＋ 形容词 ＋ level，connect 带上 with people。首测，连对 0 → 1
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
@@ -985,6 +890,97 @@ persuade 偏"让人做"）。
 "成功的说服" ／ "说服的艺术"（"说服"两处都用**一个名词**说，**p** 开头 · ⛔ 不许用 persuading）
 
 - 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `successful persuasion(这个单词背一下)`（⭐ 她点名要背，词本身用对了）
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [8] · `successful persuasion. The art of persuasion.` —— 两处都调出名词 persuasion。首测，连对 0 → 1
+
+### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
+类型 语法 ｜ 新建 2026-09-26
+状态 连对0 连错1 上次2026-09-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
+`you get to chill somewhere` ／ `you get to see the real thing` ／ `you get to meet new people`。
+同一格里的邻居（别串）：
+· **get to ＋ 地点名词** ＝ 到达（`get to the station`），这里的 to 是介词（🎓#336）
+· **get ＋ somewhere／there／home** ＝ 到达，这几个是副词，⛔ 不带 to
+· **get to know sb** ＝ "认识"那个固定块（🎓#81）
+判据一句话：get to 表示"能／有机会"时，to 后面是不是一个动词？不是 ⇒ 补一个（be／stay／chill／go）。
+★ 与 🎓#336 分工：那条的 to 是介词、后面挂地点名词；本条的 to 是不定式、后面挂动词 ⇒ 两条规则。
+★ 与 🎓#81 分工：那条考"to 别漏"（get to know），本条考"to 后面要有动词"。
+
+**怎么发现的**
+2026-09-26 付息日 a 在池第 1 组 [6]（#353 题面"你能待在一个气氛完全不一样的地方。"）· 她的原话
+`You get to somewhere with a totally different vibe.`
+（#353 的考点 vibe 挂在地方上是对的，判 ✅；本条是同句另一处）
+判重三步：
+　① 目标形式 get to ＋ 动词原形 ⇒ dedup "get to" ⇒ 命中 🎓#81（get to know sb：考 to 不能省，⇒ 否，本条考 to 后要有动词）·
+　　　🎓#336（get to ＋ 地点名词：to 是介词，⇒ 否，本条的 to 是不定式）· #353（只是历史里出现 get to chill，考 vibe ⇒ 否）·
+　　　🎓#50 #86 #98 #206 ⚪#324 #356（只是正文/历史里出现 get to 字串，考点分别是 easier／go on a trip／并列同形／书面降级／others ⇒ 否）
+　② dedup "somewhere" ⇒ 命中 #353 🎓#206 🎓#347，都只是历史里出现过这个词 ⇒ 否；中文 dedup "待在" ⇒ 只命中 #353 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`You get to somewhere with a totally different vibe.`　　正确：`You get to be somewhere with a totally different vibe.`
+找法：写完 get to，看后面是不是一个动词；不是 ⇒ 补一个（be／stay／chill／go）。
+
+**题面**
+"度假的时候，你能在海边待上一整天。"（"能"用 **get** 说 · ⛔ 不许用 can／be able to）
+
+- 2026-09-26 ❌ 首犯 · 付息日 a 在池第 1 组 [6]（#353 同句）· 原话 `You get to somewhere with a totally different vibe.`
+
+### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
+类型 词组 ｜ 新建 2026-09-26
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+"准点下班／到点就走" ＝ **get off work on time**（也说 leave work on time）。
+同一格里的邻居（别串）：**leave work early** ＝ 早退（下班时间还没到就走）· **work overtime** ＝ 加班 · **get off work** ＝ 下班（不带时间点）。
+判据一句话：想说"不加班、到点走"，先问 —— 是"到点"还是"提前"？到点 ⇒ on time。
+
+**怎么发现的**
+2026-09-26 付息日 d 段重答 bank:778（R16 · P3 · What kind of job can be called a 'dream job'?）· 触发原话
+`If you can leave work early, you have enough time for other things like hobbies, or speeding time with your kid.`
+（diff-2 ⚠️：上下文是"不加班的工作"，要说的是到点走，不是早退）
+判重三步：
+　① 目标形式 get off work on time ⇒ dedup "get off work" ⇒ 零命中；dedup "on time" ⇒ 命中 🎓#92（否定别丢）· 🎓#98（并列同形）·
+　　　🎓#206（书面降级）· 🎓#340（a step up）· 🎓#341（deserve praise）· ⚪#63（泛指特指）—— 全是正文/历史里出现过这个字串，考点都不是"准点下班" ⇒ 否
+　② 中文题面 dedup "准点" ⇒ 零命中；"下班" ⇒ 命中 🎓#98（题面"下班后有时间做点别的"，考并列同形）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`If you can leave work early`　　更地道：`If you can get off work on time`
+找法：说"下班"时先问一句 —— 是到点走还是提前走？到点 ⇒ on time；提前才是 early。
+
+**题面**
+"每天都能准点下班"（"准点下班"用 **get** 起头说 · ⛔ 不许用 early）
+
+- 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `If you can leave work early`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+
+### 362 · turn down ＋ 机会（没人会拒绝…；⛔ no one can refuse）
+类型 词组 ｜ 新建 2026-09-26
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"拒绝一份工作／一个邀请／一个机会"口语用 **turn down**：`turn down a job offer` ／ `turn it down`。
+"没人会拒绝"的情态动词用 **would**：`no one would turn that down`（can 是"能不能"，no one can refuse 听着像"谁都没能力拒绝"）。
+同一格里的邻居（别串）：**refuse to do sth** ＝ 拒绝做某事（后面接动作）· **say no to sth** ＝ 同义口语说法。
+判据一句话：拒绝的是一个机会／邀请 ⇒ turn down；说"会不会拒绝" ⇒ would。
+
+**怎么发现的**
+2026-09-26 付息日 d 段重答 bank:778（R16 · P3 · What kind of job can be called a 'dream job'?）· 触发原话
+`Overall, no one can refuse a job with reasonable hours and job security.`
+判重三步：
+　① 目标形式 turn down ⇒ dedup "turn down" ⇒ 零命中
+　② 中文题面 dedup "拒绝" ⇒ 命中 🎓#332（名词化的"提议"拆回动词 ＋ when 从句，考结构不考拒绝这个词）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`no one can refuse a job with reasonable hours`　　更地道：`no one would turn down a job with reasonable hours`
+找法：说"没人会拒绝"时，情态动词先落 would；拒绝的是机会 ⇒ turn down。
+
+**题面**
+"这么好的工作，没人会拒绝。"（"拒绝"用 **turn** 说 · ⛔ 不许用 refuse／say no）
+
+- 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `no one can refuse a job with reasonable hours and job security`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 
 ## 迁移说明（2026-08-18）
 
