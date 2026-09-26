@@ -92,7 +92,7 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
       · 类型的全套 slug 由 `count` 不带参数时打印，**⛔ 不许临时发明类型名**。
 
 0.1.6 ★ **改过 `lab.py` ⇒ 先跑回归测试，全绿才许拿去动真档案**
-        python3 speaking-band7/lab/tests/run_all.py     ← 618 条断言，正向＋负向
+        python3 speaking-band7/lab/tests/run_all.py     ← 683 条断言，正向＋负向
       测试只在临时目录的副本上跑，⛔ 一次都不碰真档案；⛔ 它们不算"第三个工作脚本"。
       ★★ **测试 ⛔ 不许依赖真档案/真 session 的内容**
         判据：**测试红了要么是脚本坏了、要么是测试坏了，⛔ 不许是"今天的练习内容变了"。**
@@ -106,6 +106,7 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
   append   --file rows.md --date D [--dry-run]                  判定行落盘（§7 之后）
   deliver  --session F [--section 复习组|新题|重答|加练|回看]     交付物硬闸（§7/§9.1）
   lookback [--date D] [--print ID… ｜ --pending ｜ --cycle]     回看目标 ／ 打出四件套原文（§4② §5⓪，只读）
+  redo                                                          重答队列全表，实时算，最久没重答的在第 1 行（§5d，只读）
   migrate  [--dry-run]                                          🎓 双向搬迁（§3.3/§11）
   count    [--type slug] [--detail]  ／  stats [--brief]
   check    [--changed|--all] [--quiet]
@@ -524,7 +525,8 @@ python3 speaking-band7/lab/lab.py lookback          ← 只读，⛔ 不写任�
 ```
 口径 ＝ **全部【没被回看过】的自由产出**（新题／重答／加练）—— ⛔ 不是"最近那一篇"、⛔ 不是"D-1 那一篇"。
 　　　 一天里攒下几篇就发几篇（付息日重答 3 道 ⇒ 次日三篇全发），**一篇都不许省**。
-认法 ＝ session 里 `## ③ 新题 …（bank:NNN）` ／ `## d 段 重答 · RN` 的**标题行题号**；
+认法 ＝ session 里 `## ③ 新题 …（bank:NNN）` ／ `## d 段 重答 · bank:NNN`（无 bank 行号的旧题 `RN`）的**标题行题号**；
+　　　 旧 R 号与它的 `bank:NNN` 是同一道题；同一道题重答过 ⇒ 新的那篇重新算"没回看过"；
 　　　 已回看 ＝ 任意 session 的 `## ② 回看 · bank:NNN` **标题行**上的题号（§9.1）。
 ⇒ 本场的回看节标题把这几篇的题号**全部列进去**：`## ② 回看 · bank:A · RN · RM`；
 　 真没得回看写 `## ② 回看 · 无（理由）`。
@@ -631,7 +633,9 @@ a  在池组  ≤5 组（10 题一组，她喊停为止）
         ★ `deliver` 硬查（§9.1⑦）：标题里列的每一篇都要逐字齐全
 a2 复检组  3 组（＋ 在池没排满时下溢过来的）
 c  问题文件 review   重复项合并（见下）
-d  整题重答 0–X 道   从 redo_queue.md 取（最久没重答的优先），她说停就停
+d  整题重答 0–X 道   跑 `python3 speaking-band7/lab/lab.py redo`，从第 1 行往下取（最久没重答的优先），她说停就停
+     队列 ⛔ 不存表：脚本每次从 session 标题 ＋ coach/asked.log 实时算 ⇒ 答过的题自动进队列、重答过自动沉底
+     节标题写 `## d 段 重答 · bank:NNN`（`redo` 那一行给的编号；无 bank 行号的旧题才写 `RN`）
      重答 ＝ 自由产出：走三件套 ＋ 落号 ＋ 落盘，与新题同规格
      ★★★ **重答没有顺延**：⛔ 不记欠账、不排进下一场
         ✅ 教练唯一能做的：报一句队列还剩多少道（总数 ／ 未重答过多少）
@@ -1007,13 +1011,12 @@ speaking-band7/lab/
 ├── graduated.md     ★ 已毕业档：🎓 条目的去处。**搬家 ＝ 每天收尾跑 `lab.py migrate`**（§3.3 §11）
 │                    脚本把它与 problems.md 当**一个档案**读，搬不搬都不影响任何一个数
 ├── lab.py           ★ 机械工具：pick 抽题 · used 定稿 · list/show/dedup 判重 · prompts 题面核对
-│                    　　　　　　 stats/count 统计 · check 格式校验 · deliver 交付闸 · lookback 回看
+│                    　　　　　　 stats/count 统计 · check 格式校验 · deliver 交付闸 · lookback 回看 · redo 重答队列
 │                    　　　　　　 append 记账 · migrate 双向搬迁（⚠️ 后两个是仅有的会写内容文件的）
-├── tests/           回归测试台（618 条断言，正向＋负向，全部自带 fixture）。⛔ 只跑临时副本、不碰真档案，
+├── tests/           回归测试台（683 条断言，正向＋负向，全部自带 fixture）。⛔ 只跑临时副本、不碰真档案，
 │                    ⛔ 不算工作脚本。改过 lab.py ⇒ `python3 …/tests/run_all.py` 全绿才许动真档案
 ├── drawn.log        复习出题流水，lab.py 自动 append。⛔ 禁手工编辑
 ├── methods.md       方法类（操作/方法论，**不进复习召回**）
-├── redo_queue.md    重答队列
 ├── cycles.md        每个付息日的合并记录 ＋ 周期小结
 └── sessions/        一天一文件 YYYY-MM-DD.md
 ```
@@ -1051,7 +1054,7 @@ speaking-band7/lab/
 ## ② 回看 · bank:A · RN · RM        ← ⚠️ **未回看的每一篇都列进标题**（`lookback --pending` 首行给出）；真没得回看写 `## ② 回看 · 无（理由）`
 ## ⓪ 回看 · bank:A · bank:B · RN     ← 付息日：本周期每一篇的题号都列进标题（`lookback --cycle` 首行给出）
 ## ③ 新题 · 第 N 道（bank:NNN …）    ← ⚠️ 必须带 `bank:NNN`，否则 lookback 永远追不到它
-## d 段 重答 · RN                    ← 重答带 `RN`
+## d 段 重答 · bank:NNN              ← 重答带题号（`lab.py redo` 给的那个；无 bank 行号的旧题写 `RN`）
 ## ④ 收尾核对
 ★ 前缀（`①` `①b` `a` `a2` `⓪` `③b` …）**所有节一个口径**，脚本一律认。
 ★ 「复习组」是旧名字，脚本照样认；存量 session ⛔ 不改名。
@@ -1122,7 +1125,7 @@ diff-1 / diff-2 …
 
 **⑦ 回看节四件套逐字**（分界线 **2026-09-19**，这天起写的回看节硬查）：
 　 回看节标题里列了哪几篇，`deliver` 就去更早的 session 里找每一篇的原篇
-　 （`## ③ 新题 …（bank:NNN）`／`## d 段 重答 · RN`，同一题号取最近那次），
+　 （`## ③ 新题 …（bank:NNN）`／`## d 段 重答 · bank:NNN`（旧题 `RN`），同一道题取最近那次；旧 R 号与它的 bank:NNN 算同一道），
 　 原篇 `### 题目原文`／`### 她的原话`／`### ① 最小修改版`／`### ② 更好版`／`### ③ 逐句 diff`
 　 里的**每一个内容行**（含 diff 的理由行）都必须在回看节里逐字出现 —— 少一行 ⇒ ERROR。
 　 ★ 只查少、不查多：旁注／更正另起 ★ 行随便加。⛔ 五层诊断不在四件套里，不查。

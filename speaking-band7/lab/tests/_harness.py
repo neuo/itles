@@ -80,7 +80,7 @@ class Args:
             setattr(self, k, v)
 
 
-COPY = ("problems.md", "graduated.md", "methods.md", "redo_queue.md", "drawn.log")
+COPY = ("problems.md", "graduated.md", "methods.md", "drawn.log")
 
 
 @contextlib.contextmanager
@@ -103,12 +103,14 @@ def sandbox(p_text=None, g_text=None, sessions=True):
     if p_text is not None or g_text is not None:
         open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write("")
     old = {k: getattr(lab, k) for k in
-           ("ROOT", "PROBLEMS", "GRADUATED", "METHODS", "REDO", "SESSIONS", "DRAWN")}
+           ("ROOT", "PROBLEMS", "GRADUATED", "METHODS", "SESSIONS", "DRAWN", "QBANK", "ASKED")}
     lab.ROOT = d
     lab.PROBLEMS = os.path.join(d, "problems.md")
     lab.GRADUATED = os.path.join(d, "graduated.md")
     lab.METHODS = os.path.join(d, "methods.md")
-    lab.REDO = os.path.join(d, "redo_queue.md")
+    # 重答队列要读的两份题库文件 ⇒ 指到沙箱里（默认不存在；需要的用例自己写）
+    lab.QBANK = os.path.join(d, "question_bank.md")
+    lab.ASKED = os.path.join(d, "asked.log")
     lab.SESSIONS = os.path.join(d, "sessions")
     lab.DRAWN = os.path.join(d, "drawn.log")
     try:

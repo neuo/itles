@@ -3,7 +3,8 @@
 """lab.py —— 口语 fluency-lab 线的机械工具。
 
 ⛔ 本脚本【一个字的内容都不产生】。行文全部由教练手写，脚本只碰位置和算术：
-     · 读  problems.md / graduated.md / methods.md / redo_queue.md / sessions/
+     · 读  problems.md / graduated.md / methods.md / sessions/
+           ../question_bank.md / ../coach/asked.log（只读，重答队列实时算用）
      · 写  drawn.log（append-only 出题流水）
      · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
             ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
@@ -20,6 +21,7 @@
   记账（SKILL §7 顺序写死 —— 落盘之后）
     python3 speaking-band7/lab/lab.py append --file rows.md --date YYYY-MM-DD [--dry-run]
   统计与校验（SKILL §0.1 §8 §11）
+    python3 speaking-band7/lab/lab.py redo            重答队列（§5d，实时算，最久没重答的在最上面）
     python3 speaking-band7/lab/lab.py stats [--brief]
     python3 speaking-band7/lab/lab.py check [--changed | --all] [--quiet]
 
@@ -40,7 +42,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 PROBLEMS = os.path.join(ROOT, "problems.md")
 GRADUATED = os.path.join(ROOT, "graduated.md")
 METHODS = os.path.join(ROOT, "methods.md")
-REDO = os.path.join(ROOT, "redo_queue.md")
+QBANK = os.path.join(os.path.dirname(ROOT), "question_bank.md")
+ASKED = os.path.join(os.path.dirname(ROOT), "coach", "asked.log")
 SESSIONS = os.path.join(ROOT, "sessions")
 DRAWN = os.path.join(ROOT, "drawn.log")
 
@@ -1224,21 +1227,213 @@ def fmt_ids(ids, per=16, indent="        "):
     return "\n".join(out)
 
 
-def redo_queue():
-    """redo_queue.md 的表 `| R1 | 题目 | 类型 | 首答 | 上次重答 |`
-    → [(编号, 题目, 类型, 上次重答 or None)]，**最久没重答的在前**（§5d）。"""
-    if not os.path.exists(REDO):
-        return []
+# ── 重答队列（SKILL §5d）—— ⛔ 不存表，每次从 session 实时算 ──────────────────
+#   R1–R36 是 session 文件出现之前（或 R 编号时期）就答过的题：它们的首答日、以及
+#   session 标题上看不到的重答日，只在这里有记录 ⇒ 冻结成常量，⛔ 永不追加。
+#   新题一律以 `bank:NNN` 进队列（session 标题 ／ coach/asked.log），不再发 R 号。
+#   字段：(R 号, bank 行号, 类型, 首答日, 首答备注, session 标题外的重答日, 题目)
+LEGACY_REDO = (
+    ("R1", 1371, "P3", "2026-08-05", "08-05 前", (), "How can parents help children to be organized?"),
+    ("R2", 1024, "P3", "2026-08-05", "", ("2026-08-17",), "Why do people prefer to watch movies in the cinema?"),
+    ("R3", 1390, "P3", "2026-08-05", "", (), "What are good ways to manage traffic?"),
+    ("R4", 220, "P3", "2026-08-05", "", (), "Do many people grow vegetables or flowers at home in your country?"),
+    ("R5", 365, "P3", "2026-08-06", "", (), "What are the differences between everyday food and festival food?"),
+    ("R6", 894, "P3", "2026-08-06", "", ("2026-08-17",), "Should parents limit their children's use of computer programs and computer games? Why and how?"),
+    ("R7", 1086, "P3", "2026-08-06", "", (), "Do people buy things they don't need?"),
+    ("R8", 254, "P3", "2026-08-07", "", (), "What do you think of communicating via social media?"),
+    ("R9", 285, "P3", "2026-08-07", "", ("2026-08-10",), "Should governments provide financial support to start-ups?"),
+    ("R10", 303, "P3", "2026-08-07", "", (), "How does technology help people make plans?"),
+    ("R11", 367, "P3", "2026-08-08", "", (), "Do people today prefer eating at home or in a restaurant?"),
+    ("R12", 892, "P3", "2026-08-08", "", (), "Why do some people not like using apps?"),
+    ("R13", 879, "P3", "2026-08-08", "", (), "What are the differences between reading a book and visiting a museum?"),
+    ("R14", 989, "P3", "2026-08-08", "", (), "Do you think there are too many subjects for students to learn?"),
+    ("R15", 1186, "P3", "2026-08-09", "", (), "Why do old people prefer to live in quiet places?"),
+    ("R16", 778, "P3", "2026-08-09", "", (), "What kind of job can be called a 'dream job'?"),
+    ("R17", 911, "P3", "2026-08-09", "", (), "Is smiling important in your culture?"),
+    ("R18", 1326, "P3", "2026-08-10", "", (), "What's the best way to learn a language?"),
+    ("R19", 521, "P3", "2026-08-10", "", (), "Is it good for a person to be ambitious?"),
+    ("R20", 364, "P3", "2026-08-11", "", (), "Why are there special foods on special occasions or events?"),
+    ("R21", 450, "P2", "2026-08-11", "", (), "Describe a story/book with animals in it"),
+    ("R22", 1011, "P2", "2026-08-11", "", (), "Describe a movie you watched and enjoyed recently"),
+    ("R23", 834, "P2", "2026-08-12", "", (), "Describe a piece of technology (not a phone) that you would like to own"),
+    ("R24", 991, "P3", "2026-08-12", "", (), "Do you think enterprises should provide training for their employees?"),
+    ("R25", 308, "P2", "2026-08-12", "", (), "Describe a time when you worked in a group"),
+    ("R26", 211, "P2", "2026-08-13", "", (), "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden"),
+    ("R27", 349, "P3", "2026-08-13", "", (), "Where do people normally watch sports events?"),
+    ("R28", 1286, "P2", "2026-08-15", "", (), "Describe a special cake you received from others"),
+    ("R29", 478, "P2", "2026-08-15", "", (), "Describe a law on environmental protection"),
+    ("R30", 340, "P2", "2026-08-16", "", (), "Describe a live sports event you watched and liked"),
+    ("R31", 427, "P3", "2026-08-16", "", (), "What is the ideal length for a holiday?"),
+    ("R32", 489, "P3", "2026-08-19", "", (), "How can parents and teachers help children understand and follow rules?"),
+    ("R33", 187, "P3", "2026-08-20", "", (), "Why do most children think education is boring?"),
+    ("R34", 927, "P3", "2026-08-20", "", (), "Do rewards help a child become better?"),
+    ("R35", 434, "P2", "2026-08-21", "", (), "Describe a home that you like to visit but do not want to live in"),
+    ("R36", 414, "P3", "2026-08-21", "", (), "Is advertising important for a company? Why?"),
+)
+RE_ASKED_BANK = re.compile(r"question_bank\.md:(\d+)$")
+
+
+def redo_key(pid):
+    """题号 → 队列键：有 bank 行号的 R 号与 `bank:NNN` 是同一道题 ⇒ 统一成 `bank:NNN`。"""
+    m = re.fullmatch(r"R(\d+)", pid or "")
+    if m:
+        for rid, bank, *_ in LEGACY_REDO:
+            if rid == pid and bank:
+                return f"bank:{bank}"
+    return pid
+
+
+def redo_alias(key):
+    """队列键 → 旧 R 号（没有 ⇒ ""）。"""
+    for rid, bank, *_ in LEGACY_REDO:
+        if key in (rid, f"bank:{bank}" if bank else None):
+            return rid
+    return ""
+
+
+def _asked_rows():
+    """coach/asked.log → [(bank 行号, 类型, 题目)]（按抽题顺序）。"""
     out = []
-    for l in open(REDO, encoding="utf-8"):
-        m = re.match(r"^\|\s*(R\d+)\s*\|([^|]*)\|([^|]*)\|([^|]*)\|(.*)\|\s*$", l)
+    if not os.path.exists(ASKED):
+        return out
+    for l in open(ASKED, encoding="utf-8"):
+        f = l.rstrip("\n").split("\t")
+        if len(f) < 4:
+            continue
+        m = RE_ASKED_BANK.search(f[1].strip())
+        if m:
+            out.append((int(m.group(1)), f[0].strip().upper(), f[3].strip()))
+    return out
+
+
+def _qbank_line(n):
+    """question_bank.md 第 n 行 → (类型, 题目)；读不到 ⇒ ("?", "")。"""
+    if not os.path.exists(QBANK):
+        return "?", ""
+    with open(QBANK, encoding="utf-8") as fh:
+        for i, l in enumerate(fh, 1):
+            if i == n:
+                l = l.strip()
+                if l.startswith("**Cue card**"):
+                    return "P2", l.split(":", 1)[-1].strip()
+                return "P3", l.lstrip("-").strip()
+    return "?", ""
+
+
+def _mention_date(bank):
+    """asked.log 里有、session 标题里没有的题 ⇒ 到 session 正文里找它**最早**出现的日期。
+    先认 `#` 标题行里的提及（回看标题不算），再认任意行。→ 日期 or None"""
+    if not os.path.isdir(SESSIONS):
+        return None
+    rx = re.compile(r"(?:bank|question_bank\.md)\s*[:：]\s*%d(?!\d)" % bank)
+    head = anyl = None
+    for f in sorted(os.listdir(SESSIONS)):
+        m = RE_SESS_NAME.match(f)
         if not m:
             continue
-        last = re.search(r"(20\d\d-)?(\d\d)-(\d\d)\s*已重答", m.group(5))
-        d = f"2026-{last.group(2)}-{last.group(3)}" if last else None
-        out.append((m.group(1), m.group(2).strip(), m.group(3).strip(), d))
-    out.sort(key=lambda x: (x[3] or "0000-00-00", int(x[0][1:])))
-    return out
+        for l in open(os.path.join(SESSIONS, f), encoding="utf-8"):
+            if not rx.search(l):
+                continue
+            anyl = anyl or m.group(1)
+            if l.startswith("#") and "回看" not in l:
+                head = m.group(1)
+                break
+        if head:
+            break
+    return head or anyl
+
+
+def redo_queue():
+    """重答队列（§5d），**实时算** —— 最久没重答的在最前。
+    题目集合 ＝ LEGACY_REDO ∪ session 里新题／加练／重答节标题上的题号 ∪ coach/asked.log。
+    上次动它 ＝ max(首答日, 每一个引用它的新题／重答／加练节的日期)。
+    排序 ＝ 上次动它（旧→新；日期不明的最前）→ 首答日 → 编号。
+    → [dict(id, alias, type, first, first_note, redos, last, text, src)]"""
+    items = {}
+
+    def get(key):
+        return items.setdefault(key, dict(id=key, alias=redo_alias(key), type="?", first=None,
+                                          first_note="", redos=set(), touch=set(),
+                                          text="", src=""))
+    for rid, bank, typ, first, note, redos, text in LEGACY_REDO:
+        it = get(f"bank:{bank}" if bank else rid)
+        it.update(type=typ, first=first, first_note=note, text=text, src="legacy")
+        it["redos"].update(redos)
+    news, _ = scan_all_sessions()
+    for x in news:
+        if not x["id"]:
+            continue
+        it = get(redo_key(x["id"]))
+        it["touch"].add(x["date"])
+        if x["kind"] == "redo":
+            it["redos"].add(x["date"])
+        if not it["src"]:
+            it["src"] = "session"
+    for bank, typ, text in _asked_rows():
+        it = get(f"bank:{bank}")
+        if it["type"] == "?":
+            it["type"] = typ
+        if not it["text"]:
+            it["text"] = text
+        if not it["src"]:
+            it["src"] = "asked.log"
+    for key, it in items.items():
+        if it["first"] is None:
+            if it["touch"]:
+                it["first"] = min(it["touch"])
+            elif key.startswith("bank:"):
+                it["first"] = _mention_date(int(key[5:]))
+        # 首答当天之后的每一次再出现都算重答
+        if it["first"]:
+            it["redos"].update(d for d in it["touch"] if d > it["first"])
+        if key.startswith("bank:") and (it["type"] == "?" or not it["text"]):
+            t, q = _qbank_line(int(key[5:]))
+            it["type"] = it["type"] if it["type"] != "?" else t
+            it["text"] = it["text"] or q
+        it["redos"] = sorted(it["redos"])
+        it["last"] = max([it["first"] or ""] + it["redos"]) or None
+        del it["touch"]
+
+    def order(it):
+        m = re.search(r"\d+", it["id"])
+        return (it["last"] or "", it["first"] or "", 0 if it["alias"] else 1,
+                int(it["alias"][1:]) if it["alias"] else int(m.group(0)) if m else 0)
+    return sorted(items.values(), key=order)
+
+
+def redo_totals(rq):
+    never = [r for r in rq if not r["redos"]]
+    return (f"重答队列   共 {len(rq)} 道 ／ 未重答过 {len(never)} 道"
+            f"（§5d：⛔ 没有顺延这回事）")
+
+
+def _redo_label(r):
+    return r["id"] + (f"({r['alias']})" if r["alias"] and r["alias"] != r["id"] else "")
+
+
+def cmd_redo(args):
+    rq = redo_queue()
+    W = "═" * 78
+    print(W)
+    print("lab.py redo · 重答队列（§5d）· 实时算：legacy R1–R36 ∪ session 新题／加练／重答 ∪ asked.log")
+    print("  排序 ＝ 最久没重答的优先（上次动它 旧→新 → 首答日 → 编号）｜ 付息日 d 段从第 1 行往下取")
+    print("  d 段节标题写 `## d 段 重答 · bank:NNN`（没有 bank 行号的旧题才写 RN）")
+    print(W)
+    for i, r in enumerate(rq, 1):
+        first = r["first"] or "日期不明"
+        if r["first_note"]:
+            first += f"（{r['first_note']}）"
+        last = r["redos"][-1] if r["redos"] else "从未"
+        print(f"{i:>3}. {r['id']:<10} {r['alias']:<4} {r['type']:<3} 首答 {first:<12} "
+              f"上次重答 {last:<10} {r['text']}")
+    unk = [r for r in rq if not r["first"]]
+    print("─" * 78)
+    print(redo_totals(rq))
+    if unk:
+        print(f"⚠️ 首答日期不明 {len(unk)} 道（asked.log 里有、session 里找不到）：" +
+              " ".join(r["id"] for r in unk))
+    print(W)
+    return 0
 
 
 def cmd_stats(args):
@@ -1294,11 +1489,11 @@ def cmd_stats(args):
         if not args.brief:
             print(fmt_ids([e.num for e in noprompt]))
     rq = redo_queue()
-    never = [r for r in rq if r[3] is None]
-    print(f"重答队列   共 {len(rq)} 道 ／ 未重答过 {len(never)} 道（§5d：⛔ 没有顺延这回事）")
+    print(redo_totals(rq))
     if rq and not args.brief:
         print("   最久没重答的 5 道：" +
-              " · ".join(f"{r[0]}({r[3] or '从未'})" for r in rq[:5]))
+              " · ".join(f"{_redo_label(r)}({r['redos'][-1] if r['redos'] else '从未'})"
+                         for r in rq[:5]) + "　（全表：`lab.py redo`）")
     # ── 召回队列（§3.5 梯子，2026-09-05 上线）──────────────────────────
     today = date.today().isoformat()
     days = practice_days()
@@ -1818,8 +2013,9 @@ def check_session(sc, only=None):
         elif sec["kind"] in ("new", "redo", "extra"):
             if sec["kind"] == "new" and not RE_BANK.search(t):
                 P.append((LV, loc, f"新题节标题没带题号：`{t[:40]}` —— §9.1 要求写 `bank:NNN`"))
-            if sec["kind"] == "redo" and not RE_REDO_ID.search(t):
-                P.append((LV, loc, f"重答节标题没带 `RN`：`{t[:40]}`"))
+            if sec["kind"] == "redo" and not (RE_BANK.search(t) or RE_REDO_ID.search(t)):
+                P.append((LV, loc, f"重答节标题没带题号：`{t[:40]}` —— §9.1 要求写 `bank:NNN`"
+                                   f"（没有 bank 行号的旧题写 `RN`）"))
             h3 = {RE_H3.match(sc["lines"][i]).group(1): i + 1
                   for i in range(sec["start"], sec["end"])
                   if i not in sc["infence"] and RE_H3.match(sc["lines"][i])}
@@ -2104,7 +2300,9 @@ def find_free_source(pid, before):
         sc = scan_session(os.path.join(SESSIONS, f))
         parts, line = {}, None
         for s in sc["sections"]:
-            if s["kind"] not in ("new", "redo", "extra") or pid not in _ids_of(s["title"]):
+            # ★ 旧 R 号与它的 bank:NNN 是同一道题（redo_key）
+            if s["kind"] not in ("new", "redo", "extra") or \
+                    redo_key(pid) not in {redo_key(x) for x in _ids_of(s["title"])}:
                 continue
             line = line or s["line"]
             for k, v in _quad_parts(sc, s).items():
@@ -2137,9 +2335,16 @@ def pending_free_ids(today):
     news, looked = scan_all_sessions()
     ids = []
     for x in news:
-        if x["id"] and x["id"] not in looked and x["date"] < today and x["id"] not in ids:
+        if x["id"] and not looks_of(x, looked) and x["date"] < today \
+                and redo_key(x["id"]) not in {redo_key(y) for y in ids}:
             ids.append(x["id"])
     return ids
+
+
+def looks_of(x, looked):
+    """这一篇自由产出【之后】的回看记录 → [(日期, 文件, 行)]。
+    ★ 按 redo_key 认（旧 R 号 ＝ 它的 bank:NNN）；同一道题重答过 ⇒ 更早的回看不算这一篇的。"""
+    return [t for t in looked.get(redo_key(x["id"]), []) if t[0] > x["date"]]
 
 
 def print_quads(ids, today):
@@ -2177,19 +2382,19 @@ def scan_all_sessions():
         sc = scan_session(os.path.join(SESSIONS, f))
         for s in sc["sections"]:
             if s["kind"] in ("new", "redo", "extra"):
-                ids = ["bank:" + m.group(1) for m in RE_BANK.finditer(s["title"])]
-                ids += ["R" + m.group(1) for m in RE_REDO_ID.finditer(s["title"])]
+                ids = _ids_of(s["title"])
                 for pid in (ids or [None]):
                     # 同一文件同一题号只算一篇：抽题记录节与逐题记录节是同一篇产出
-                    if pid and any(x["file"] == f and x["id"] == pid for x in news):
+                    #   （旧 R 号与它的 bank:NNN 算同一个题号）
+                    if pid and any(x["file"] == f and x["id"] and
+                                   redo_key(x["id"]) == redo_key(pid) for x in news):
                         continue
                     news.append(dict(id=pid, kind=s["kind"], date=sc["date"],
                                      title=s["title"], line=s["line"], file=f))
             elif s["kind"] == "look":
-                for m in RE_BANK.finditer(s["title"]):
-                    looked.setdefault("bank:" + m.group(1), []).append((sc["date"], f, s["line"]))
-                for m in RE_REDO_ID.finditer(s["title"]):
-                    looked.setdefault("R" + m.group(1), []).append((sc["date"], f, s["line"]))
+                # ★ 键 ＝ redo_key：回看 R10 与回看 bank:303 是同一道题
+                for pid in _ids_of(s["title"]):
+                    looked.setdefault(redo_key(pid), []).append((sc["date"], f, s["line"]))
     return news, looked
 
 
@@ -2216,7 +2421,7 @@ def cmd_lookback(args):
     print(f"lab.py lookback · {today} · §4② 回看目标　【只读：⛔ 不写任何文件】")
     print(W)
     print("  口径　回看目标 ＝ **全部【没被回看过】的自由产出**（新题／重答／加练）—— ⛔ 不是只发最近一篇")
-    print("  认法　自由产出 ＝ session 里 `## ③ 新题 …（bank:NNN）` / `## d 段 重答 · RN` 的标题行")
+    print("  认法　自由产出 ＝ session 里 `## ③ 新题 …（bank:NNN）` / `## d 段 重答 · bank:NNN`（旧题 RN）的标题行")
     print("  　　　已回看 ＝ 任意 session 的 `## ② 回看 · bank:NNN` **标题行**上的题号")
     print(f"  扫的　{SESSIONS}/*.md")
     print()
@@ -2224,8 +2429,8 @@ def cmd_lookback(args):
     noid = [x for x in news if not x["id"]]
     for x in news:
         tag = x["id"] or "⛔无题号"
-        if x["id"] and x["id"] in looked:
-            mark = "✅ 已回看　← " + "／".join(f"{d}:{f}:{l}" for d, f, l in looked[x["id"]])
+        if x["id"] and looks_of(x, looked):
+            mark = "✅ 已回看　← " + "／".join(f"{d}:{f}:{l}" for d, f, l in looks_of(x, looked))
         elif not x["id"]:
             mark = "⛔ 标题没带题号 ⇒ 追不了（§9.1 要求写 bank:NNN／RN）"
         elif x["date"] >= today:
@@ -2235,7 +2440,7 @@ def cmd_lookback(args):
         print(f"   {tag:<10} {x['date']}  {x['file']}:{x['line']}  {mark}")
     print(f"   ── 共 {len(news)} 篇（其中 {len(noid)} 篇标题没带题号）")
     print()
-    cand = [x for x in news if x["id"] and x["id"] not in looked and x["date"] < today]
+    cand = [x for x in news if x["id"] and not looks_of(x, looked) and x["date"] < today]
     print("② 本次回看目标 ＝ **全部没被回看过的**（⛔ 一篇都不许省，⛔ 不挑最近那一篇）")
     if not cand:
         print("   （没有未回看的自由产出 ⇒ 回看节写 `## ② 回看 · 无（理由）`）")
@@ -3358,6 +3563,9 @@ def main():
     p.add_argument("--type", help="类型 slug（见不带参数时打印的那张表），或 kind:搭配")
     p.add_argument("--detail", action="store_true", help="逐条打 编号·状态·上次·类型·标题")
     p.set_defaults(func=cmd_count)
+
+    p = sub.add_parser("redo", help="重答队列（§5d）：实时算，最久没重答的在最上面（只读）")
+    p.set_defaults(func=cmd_redo)
 
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")
