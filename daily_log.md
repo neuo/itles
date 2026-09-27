@@ -6641,3 +6641,19 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 ③ #0329 判据写得太死 ⇒ 她写 on this matter 母语成立 ⇒ 判 △、补适用范围
 
 **下一场 ＝ C8·D3 学习日**：必出层 ＝ #0533；#0515 segment 改反向出法；#0318 按新题面重测；新题仍按她 09-06 的指示跳过
+
+## 2026-09-27（周日）· 口语 L1（周期 8 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 341 ＝ problems.md 18 ＋ graduated.md 323 ｜ 🎓 323（94.7%）｜ 未毕业 18 ｜ 可出题 8 ｜ 队列到期剩 0 ｜ ⚡ 累计 263 条目、掉过 3（校准 1%）｜ 重答队列 57 / 未重答 41
+
+**四段**
+- ① 在池 1 组 7 题 / 7 条：**✅6 ❌1**（#357 `A strong logic thinker`）⇒ **毕业 3**（#258 · #355 · #356）；[2] drive you with emotion ⚠️ ⇒ 新建 #363 appeal to sb's emotions
+- ①b 复检 1 组 9 题 / 19 条：她「2.d 忘了，其他直接过」⇒ ⚡ 18 · #88 ❌ ⇒ 回潮
+- ② 回看 3 篇：R14 · bank:1186 · bank:778（`lookback --pending` 原样贴）
+- ③ 新题 bank:1339（P3 · Are rivers and lakes important to a country?）：真错 0 · ⚪ 3（#63 ×2 · #56）· 🎓#206 书面登记 1（offer space for recreation）
+
+**教练犯规 2 条**：归号块用 `[S2]` 起头被 deliver 当 diff 块（发前改）· 同批 append 两行 #63 被拒（拆批）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄1
+
+**下一场 ＝ 周期 8 · L2**：#88（回潮）#357（连错1）#363（首测）必出；回看 bank:1339；新题 1 道

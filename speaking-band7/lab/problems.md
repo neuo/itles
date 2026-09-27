@@ -353,6 +353,7 @@
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - 2026-09-20 ⚪ 学习日 在池第 1 组（#98 句2）· `The letters on top of cake are …` ⇒ on top of **the** cake —— 形态类只记录·不判档
   检查触发：说完一个单数可数名词，回头看它前面有没有限定词
+- 2026-09-27 ⚪ 新题 bank:1339（P3）[S3] · `Without river network watering` → a river network —— 单数可数名词左边没有限定词；同句 a country 写对 ⇒ 只记录
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -446,9 +447,76 @@
   ★ 形态类（本条状态行带形态类·不召回）⇒ 只记 ⚪，⛔ 不判档位
   检查触发：写完 the ＋ 复数名词，问一句"是前面提过的那几个吗？"不是就把 the 去掉
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-09-27 ⚪ 新题 bank:1339（P3）[S2] · `rivers provide the essential irrigation for crops` → essential irrigation —— 泛指带了 the；同篇 for crops／food shortages 泛指都没带 the ⇒ 检查没跑，只记录
+- 2026-09-27 ⚪ 新题 bank:1339（P3）[S3] · `watering the field` → the fields —— 所有农田是一类 ⇒ 复数；同篇 crops／lakes／weekends 复数都对 ⇒ 只记录
 - 备注 合并 2026-08-19：#160（泛指一类东西用复数不带冠词）＋ #112（traffic 带不带 the）并入本条 ——
   三条问的是同一个问题；#112 那句"眼前这一份 vs 泛指这件事"正是本条的判据
 - 备注 国家形容词 Chinese/Japanese（不是 China's）（原 #160）
+
+### 88 · get on with it（不废话，埋头干下去）
+类型 词组 ｜ 旧号 B141
+状态 连对0 连错1 上次2026-09-27 未毕业 ｜ 回潮已断（08-11 曾毕业）｜ 回潮 2026-09-05（08-21 毕业 → 09-05 复检写成 `go on with it`）｜ **回潮 2026-09-27**（09-10 第二次毕业 → 09-27 复检答"忘了"，撤销毕业、连对清零）｜ 题型 词组
+
+**问题是什么**
+**get on with it** ＝ 不废话、埋头干下去（催促）。
+同一格里的邻居（别串 —— 都合法，全靠题面排除）：
+· **go** on with it ＝ 接着往下讲／往下做（让他继续）—— 09-05 就是被它顶掉的
+· get moving／get cracking／get going／**get a move on** —— 同样 get 起头、同样"赶紧"
+⇒ 题面靠「get 起头 ＋ 一共四个词 ＋ ⛔ 不是 go ＋ ⛔ 不是 get a move on」三层把它框死。
+判据一句话：催他**动手干** ⇒ get on with it；让他**接着往下** ⇒ go on with it。块尾那个 **it** 是块的一部分。
+
+**怎么发现的**
+旧 B 表迁移（B141，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ❌。
+2026-08-19 ◎ 她答 `stop talking, be quick` 完全合法（"赶紧干吧"至少三种译法）⇒ 教练没做第二译法自查，题面当场加点名。
+2026-08-20 ✅ ／ 2026-08-21 ✅ `stop talking and just get on with it.` ⇒ 连对 2，毕业。
+2026-09-05 ❌ 复检第 4 组 · `go on with it.` —— get 被 go 顶掉 ⇒ **回潮**。
+2026-09-07 ❌ 在池第 1 组 · `get on with.` —— 块尾的 it 丢了（掉的位置和上次不一样）。
+2026-09-09 ⚡ 自评免测 ／ 2026-09-10 ✅ `get on with it.` ⇒ 第二次毕业。
+
+**我错在哪**
+她的：`go on with it.`（09-05）／ `get on with.`（09-07）　　正确：`Get on with it.`（四个词一个不少）
+找法：说"赶紧干"时先把动词定成 get，再把 on with **it** 三个词一个不落地跟上。
+
+**题面**
+**点名**："赶紧干吧"（用 **get** 起头的那个词组说，⛔ 不是 go · ⛔ 不是 get a move on · **一共四个词**）
+
+- 2026-08-09 ❌
+- 2026-08-10 ✅
+- 2026-08-11 ✅ → 毕业
+- 2026-08-15 ✅
+- 2026-08-17 ❌ 回潮，重新入池
+- 2026-08-19 📝 题面整改：原题面"与其抱怨，他直接就干了。"与 #75 逐字相同（那条测 rather than），
+  且句里的"与其"会先触发 rather than ⇒ 换成只逼 get on with it 的句子
+- 2026-08-19 ◎ 她答 `stop talking, be quick` 完全合法 ——「赶紧干吧」至少三种译法，
+  **教练出题前没做第二译法自查、没点名** ⇒ 题面当场加点名，次日再测
+- 2026-08-20 ✅ 复习（点名题面首测）· `Stop talking and just get on with it.`——目标块一字不差
+- 2026-08-21 ✅ 复习 · `stop talking and just get on with it.`——一字不差，just 加得很自然
+  → **连对2，毕业**（08-11 毕业 → 08-17 回潮，这一轮才真正走完）
+- 2026-09-05 ❌ 复检组 · 第 4 组 · **回潮**
+  `go on with it.` → **Get** on with it.
+  ❌ 两个块形状几乎一样、意思差一整层：
+    get on with it ＝ 别磨蹭了动手干（催促）／ go on with it ＝ 接着往下讲、往下做（让他继续）。
+  ★ 教练侧留痕：本条**旧题面把答案 `get on with it` 整个写在括号里** ⇒ 这一测退化成"抄一遍"，
+    她却抄成了 go —— 反而说明这个块在她脑子里被 go on with it 顶掉了。题面当天已改（见下条 📝）。
+- 2026-09-05 📝 题面整改 · 复检第 4 组当场（⛔ 不许把考点本身写进题面）
+  旧："赶紧干吧"（用 get on with it 说一遍）—— 答案整块写在括号里，测不出检索
+  新："赶紧干吧"（用 **get** 起头的那个词组说，⛔ 不是 go）
+  ★ 这与 09-05 粒度整改时 agent 标出的 #262／#266 是同一个病（点名把目标块整个给出）；
+    #262 #266 是"工具箱"型（考摆放不考检索）⇒ 维持不改，本条是检索型 ⇒ 必须改。
+- 2026-09-07 📝 题面加提示「**一共四个词**」：原题面只限「用 get 起头」，get moving／get cracking／
+  get going 同样合法且同样符合题面 ⇒ 补词数把 get on with it 框死，一个实词都没泄露。
+- 2026-09-07 ❌ 复习 · 在池第 1 组 · `get on with.` —— get 对了、块尾的 it 丢了
+  （09-05 是 get 被 go 顶掉，这次掉的位置不一样）
+- 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
+- 2026-09-10 📝 题面加排除项「⛔ 不是 get a move on」· 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
+  09-07 补的「一共四个词」框不死：**get a move on** 同样是 get 起头、同样四个词、同样是"赶紧"，
+  完全合法且完全符合题面 ⇒ 她答对了却会被判"没到考点"（＝ 白测一次）。
+  ⇒ 补排除项 `⛔ 不是 get a move on`；⛔ 未泄露 on with it 任何一个实词。
+- 2026-09-10 ✅ 复习 · 在池第 1 组 · `get on with it.` —— 四个词一字不差
+  ★ 09-05 是 get 被 go 顶掉、09-07 是块尾的 it 丢了，这次两处都没掉 ⇒ **连对2，毕业**
+- 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
+- 2026-09-27 ❌ 复检组 · 第 2 组 · **回潮** · 她答"忘了"
+  最小改 `Get on with it.`
 
 ### 89 · 加形容词说"哪一种"时回到 a（a diverse economy）
 类型 语法 ｜ 旧号 B144
@@ -636,49 +704,6 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - 2026-09-26 ⚪ 复检第 2 组 [8]（#318 题里）· `when he was two year old` —— 数词 two 后面 year 没变复数；她 #318 历史里写对过 two years old ⇒ 检查没跑，只记录
 
-### 258 · at will（书面）→ whenever they feel like it
-类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对1 连错0 上次2026-09-26 未毕业 ｜ **回潮 2026-09-22**（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ 题型 词组
-
-**问题是什么**
-**at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
-同一格里的邻居（别串 —— 同一条「书面 → 口语」降级规则下的别的词对，本条只管 at will 这一对）：
-in order to → to · utilize → use · numerous → a lot of · purchase → buy · commence → start
-判据一句话：这个词我是在书上见的还是在嘴上说的？书面 ⇒ 换成 whenever sb feel(s) like it。
-★ 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
-　本条是**一个具体的词对**（可以出中译英题）⇒ 两条各走各的。
-
-**怎么发现的**
-2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
-—— 语法没错，是**她指定要学**的降级（§2③），教练给的口语版是 whenever they feel like it。
-判重：与 🎓#206（书面词降级总规则）比对 —— #206 只在自由产出里判、管的是整条规则，
-本条是一个具体词对、可以出中译英题 ⇒ 不重复，**判重通过**（见下方备注）。
-
-**我错在哪**
-她的：`if everyone ran red lights **at will**`　　正确：`if everyone ran red lights **whenever they felt like it**`
-找法：一个词要出口之前先问 —— 这是我在书上见的，还是嘴上说的？书上见的 ⇒ 换口语版。
-
-**题面**
-**点名**："想什么时候来就什么时候来"（用 feel like 说一遍）
-
-- 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
-  ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
-- 2026-08-20 ✅ 复习（新建后首测）· `He comes here whenever he feels like it.`——目标块一字不差
-  ｜附带 feels 的第三人称 -s 也带上了
-- 2026-08-21 ✅ 复习 · `he comes here whenever he feels like it.`——一字不差，feels 的 -s 也对
-  → **连对2，毕业**
-- 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `You can come whenever you feel like it`
-- 2026-09-22 ❌ 复检第 3 组 [5b] · 答"忘了"，whenever sb feels like it 整块没出来 ⇒ **回潮**（08-21 毕业 · 09-11 复检还稳 · 本次掉）
-  ⇒ 状态行改回未毕业、连对清零、rc 归零，转回在池队列；正确版 `He comes here whenever he feels like it.`
-- 2026-09-26 ✅ 付息日 a 在池第 1 组 [1] · `You can come whenever you feel like it.` —— whenever you feel like it 整块回来了（09-22 复检掉的那块）。连错 1 清零、连对 0 → 1
-- 备注 整句范例（她指定要背的那句）：
-  **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
-  —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
-- 备注 同族降级（口语版在右边）：at will → whenever they feel like it ｜ in order to → to ｜
-  utilize → use ｜ numerous → a lot of ｜ purchase → buy ｜ commence → start
-- 备注 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
-  本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
-
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
 状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句
@@ -727,73 +752,9 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
-类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-09-22 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**ballad** ＝ 节奏慢、以唱情绪为主的歌（情歌、抒情曲）：`a power ballad` · `all sorts of ballads` · `a slow ballad`。
-可数，说"这一类歌"时常用复数 ballads。
-同一格里的邻居（别串）：**folk music** ＝ 民谣／民间音乐（一个**流派**，不可数）· **pop music** ＝ 流行乐（流派，不可数）·
-**a tune** ＝ 一首曲子（中性，指任何一首）。
-判据一句话：说的是"慢歌／情歌"这一类**歌曲** ⇒ ballad（可数）；说的是"哪个**流派**" ⇒ pop／folk ＋ music（不可数）。
-
-**怎么发现的**
-2026-09-21 学习日 新题 bank:1005（P3）· 她在自己的产出里主动标注 `all sorts of ballads(这个单词要背）`
-—— 词**用对了**，是她点名要收进复习（§2③ 她主动提出的）。
-判重三步：
-　① 目标形式 ballad ⇒ dedup "ballad" ⇒ 零命中
-　② 中文题面 dedup "慢歌" ⇒ 零命中（同批查的 "至于" 命中 🎓#250，与本条无关）
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-本条不是她犯的错：她这次写的 `all sorts of ballads` 完全正确，缺的是"下次还调不调得出来"。
-找法：想说"抒情慢歌／情歌"，先别拼 slow songs，先问一句 —— 有没有一个 **b** 开头的名词？
-
-**题面**
-"各种各样的抒情慢歌"（"抒情慢歌"用**一个名词**说，**b** 开头 · ⛔ 不许用 slow songs／love songs）
-
-- 2026-09-21 新建 · 新题 bank:1005（P3）· 触发原话 `all sorts of ballads(这个单词要背）`（⭐ 她点名要背，词本身用对了）
-- 2026-09-22 ✅ 学习日 在池第 1 组 [7] · `various ballads` —— 一个 b 开头的名词 ballads 调出来了，没退回 slow songs／love songs（建号后首测）。连对 0 → 1
-  ⚠️ diff-2：various → all sorts of（书面词降级，走 §7 书面登记记在 🎓#206；她 09-21 自己写的就是 all sorts of ⇒ ⛔ 不另建号）
-
-### 356 · "另一些人" ＝ others（⛔ some ones）
-类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
-状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 整句
-
-**问题是什么**
-"有些人…，另一些人…" 的第二个"人"，英语用 **others** 一个词顶（others ＝ other people）：
-`Some people learn by reading, while others learn by doing.` ／ `Some like it hot, others don't.`
-同一格里的邻居（别串）：**ones** 必须先有一个**可指的名词**才站得住（`the cheap ones` ＝ the cheap shoes）——
-凭空一个 `some ones` 没有可指的名词 ⇒ 英语里不存在这个说法；`other people` 合法但长，口语默认 others。
-判据一句话：说第二拨人时，句子里有没有一个刚提过的名词给 ones 指？没有 ⇒ 用 others。
-★ 与 ⚪#324（other 是限定词、others 才是代词）分工：那条的检查触发是"**写完 other**，看后面有没有名词"——
-　本句里压根没有 other 可查（她写的是 some ones）⇒ 那条的检查跑不起来、产不出 others ⇒ 两条不同考点。
-
-**怎么发现的**
-2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
-`while some ones speak with so much emotion that they quickly connect at an emotional level`。
-判重三步：
-　① 目标形式 others ⇒ dedup "others" ⇒ 命中 ⚪#324（other／others 的限定词与代词之分，形态类·不召回）·
-　　　🎓#236 · 🎓#313 · 🎓#81（三条只是正文/历史里出现过 others 这个字串，考点分别是不定式目的、message sb、get to know sb）
-　　　⇒ #324 逐条读完后否掉：它管"写出来的 other 少了 -s"，本条管"第二拨人该调 others 这个词"——
-　　　按 #324 的检查触发扫这一句 ⇒ 句里没有 other ⇒ 检查不触发（与 #324 当初否掉 #150 是同一条判据）
-　② 目标形式 dedup "some ones" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`while some ones speak with so much emotion`　　正确：`while others speak with so much emotion`
-找法：写完 some people 之后要说第二拨人 —— 先落 others，⛔ 不要把 some 再用一次。
-
-**题面**
-"有些人靠讲道理说服你，另一些人靠情绪带动你。"（"另一些人"用**一个词**说 · ⛔ 不许用 some／other people）
-
-- 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `while some ones speak with so much emotion`
-- 2026-09-26 ✅ 付息日 a 在池第 1 组 [3] · `some people persuade you with reason, while others win you over through emotion.` —— 第二拨人用 others 一个词顶。连错 1 清零、连对 0 → 1
-
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
-状态 连对1 连错0 上次2026-09-26 未毕业 ｜ 题型 词组
+状态 连对0 连错1 上次2026-09-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
@@ -821,6 +782,8 @@ magic→magical · music→musical · practice→practical · politics→politic
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `Some people are strong logic thinkers`
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [4] · `A logical thinker.` —— logic 后面挂名词 ⇒ logical。连错 1 清零、连对 0 → 1
   ★ 漏了"很强"（strong）⇒ diff-2 ⚠️，不建号
+- 2026-09-27 ❌ 在池第 1 组 · `A strong logic thinker` —— logic 仍当形容词放在 thinker 前
+  最小改 `A strong logical thinker`
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
@@ -894,7 +857,7 @@ persuade 偏"让人做"）。
 
 ### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
 类型 语法 ｜ 新建 2026-09-26
-状态 连对0 连错1 上次2026-09-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
@@ -926,10 +889,12 @@ persuade 偏"让人做"）。
 "度假的时候，你能在海边待上一整天。"（"能"用 **get** 说 · ⛔ 不许用 can／be able to）
 
 - 2026-09-26 ❌ 首犯 · 付息日 a 在池第 1 组 [6]（#353 同句）· 原话 `You get to somewhere with a totally different vibe.`
+- 2026-09-27 ✅ 在池第 1 组 · `When you're on vacation, you get to speed the whole day at the beach.` —— get to ＋ 原形到位
+  ｜speed ＝ spend 打漏 n，§2.1 拼写不算
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 "准点下班／到点就走" ＝ **get off work on time**（也说 leave work on time）。
@@ -954,10 +919,11 @@ persuade 偏"让人做"）。
 "每天都能准点下班"（"准点下班"用 **get** 起头说 · ⛔ 不许用 early）
 
 - 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `If you can leave work early`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+- 2026-09-27 ✅ 在池第 1 组 · `You can get off work on time every day.` —— 首测，块一字不差
 
 ### 362 · turn down ＋ 机会（没人会拒绝…；⛔ no one can refuse）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "拒绝一份工作／一个邀请／一个机会"口语用 **turn down**：`turn down a job offer` ／ `turn it down`。
@@ -981,6 +947,35 @@ persuade 偏"让人做"）。
 "这么好的工作，没人会拒绝。"（"拒绝"用 **turn** 说 · ⛔ 不许用 refuse／say no）
 
 - 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `no one can refuse a job with reasonable hours and job security`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+- 2026-09-27 ✅ 在池第 1 组 · `No one would turn down a job this good.` —— 首测，turn down 到位
+
+### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
+类型 搭配 ｜ 新建 2026-09-27
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
+`Some people persuade you with logic, while others appeal to your emotions.`
+同一格里的邻居（别串）：drive sb ＝ 驱使、逼着（drive me crazy）· move sb ＝ 让人感动（没有"说服"那层）
+判据一句话：要说"用情绪去说服／打动别人"⇒ appeal to their emotions。
+
+**怎么发现的**
+2026-09-27 学习日 在池第 1 组 [2]（#356 题面"…另一些人靠情绪带动你。"）· 触发原话
+`Some people persuade you with logic, while others drive you with emotion.`
+判重三步：
+　① 目标形式 appeal to ⇒ dedup "appeal to" ⇒ 零命中
+　② dedup "emotion" ⇒ 只命中 #356（考 others 一个词，与本条无关）；dedup "情绪" ⇒ 命中 #356 · #355 · 🎓#328 · 🎓#334，
+　　　后三条只是历史／正文里出现过这个字串（ballad／small 比较级／the cause of），考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`others drive you with emotion`　　更地道：`others appeal to your emotions`
+找法：想说"打情感牌／靠情绪打动"时，先落 appeal to。
+
+**题面**
+"拿情绪去打动你"（用 **appeal** 说 · ⛔ 不许用 drive／move）
+
+- 2026-09-27 新建 · 学习日在池第 1 组 [2] · 触发原话 `while others drive you with emotion.`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 
 ## 迁移说明（2026-08-18）
 
