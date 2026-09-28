@@ -8,6 +8,14 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-28 · 口语 L2（周期 8 第 2 个学习日）· 已收尾**
+  —— 在池 1 组 **6 题 / 6 条 ✅6 ❌0**；复检 1 组 **9 题 / 11 条 ✅9 ❌2**（#186 leave a mess → mess up the floor · #322 play with 两次漏 with ⇒ 双双回潮）
+  —— 🎓 **毕业 3 条**（#358 on an emotional level · #359 persuasion · #360 get to ＋ 原形）⇒ 全档 **341** ＝ problems 17 ＋ graduated **324**（95.0%）
+  —— 新建 0 条
+  —— 回看 1 篇（bank:1339）；新题 bank:915（P2 为家人骄傲，复用 bank:1091 素材）**真错 0**，⚠️ 1（开头扣卡 ＋ 补时间）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄2
+  —— **下一场 ＝ 周期 8 · L3**：#186 #322 回潮必出；回看 bank:915；新题 1 道
+
 🆕🆕🆕 **2026-09-27 · 口语 L1（周期 8 第 1 个学习日）· 已收尾**
   —— 在池 1 组 **7 题 / 7 条 ✅6 ❌1**（#357 logic → logical 又掉）；复检 1 组 **9 题 / 19 条**：⚡ 免测 18 · ❌1（#88 get on with it 忘了 ⇒ 回潮）
   —— 🎓 **毕业 3 条**（#258 whenever you feel like it · #355 ballads · #356 others）⇒ 全档 **341** ＝ problems 18 ＋ graduated **323**（94.7%）

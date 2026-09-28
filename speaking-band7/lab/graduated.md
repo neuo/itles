@@ -2183,7 +2183,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 67 · 可分离动词短语的位置（代词必须放中间：put it away）
 类型 结构 ｜ 旧号 B95
-状态 连对1 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-21 · 她指定**（"这个也是"）｜ 题型 整句
+状态 连对1 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-08-21 · 她指定**（"这个也是"）｜ 题型 整句
 
 **问题是什么**
 **可分离动词短语的位置**：唯一硬规则是**代词只能放中间** —— put **them** away ✅ ／ put away **them** ✗。
@@ -2224,6 +2224,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 ```
 - 2026-09-15 📝 产出验机制取消 ⇒ 恢复出题：题型格回默认「整句」、删掉 ⛔ 复习组停出 标记、题面换回留档的那条真题面（点名「它们」，逼出代词必须放中间）
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-28 ✅ 复检第 2 组 · `After playing toys, you should put them away.`
 - 备注 唯一硬规则：**代词只能放中间** —— put **them** away ✅ ／ put away **them** ✗
   同族：turn it off ／ pick her up ／ throw it away ／ work it out ／ give it back
   名词则两边都行：put the toys away ＝ put away the toys
@@ -4408,7 +4409,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 135 · 中文的"社会/大家/人们"→ 英语常用 there is 或被动吃掉
 类型 结构 ｜ 旧号 B222
-状态 连对2 连错0 上次2026-09-18 ｜ 题型 整句 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-09-28 ｜ 题型 整句 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
 **问题是什么**
 中文的"社会／大家／人们"→ 英语常用 **there is** 或**被动**吃掉：
 `There are really high expectations on young people.` ／ `**there is** widespread agreement that this is wrong.` ／
@@ -4456,6 +4457,7 @@ something to look forward **to** ／ a pen to write **with**。
   `We all think this is wrong.`／`They expect too much of young people.` 用代词把"大家／社会"原样翻成主语，同样合法，绕开 there is／被动 ⇒ 补排除项
 - 2026-09-18 ✅ 复检 · 学习日 复检第 3 组 · `Young people face high expectations now. / The general feeling is that is wrong.`——两句都没让"社会／大家"当主语（受事提上来 ／ 名词化 the general feeling）
   ｜⚠️ that is wrong → that this is wrong（that 从句自己要有主语，只进这一行）
+- 2026-09-28 ✅ 复检第 2 组 · `Expectations for young people run way too high. There's a widespread feeling that it's just wrong.`
 
 ### 136 · tell ＋ 有内容的东西（a joke／a story／the truth）
 类型 搭配 ｜ 旧号 B223
@@ -6129,64 +6131,6 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   新："他每次来都带点吃的。"（"每次"用 **every time** 说 · ⛔ 不许用 whenever）
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
 
-### 186 · leave a mess（⭐ 她自产）
-类型 词组 ｜ 旧号 B97
-状态 连对2 连错0 上次2026-09-18 ｜ **回潮 2026-09-09**（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）｜ 题型 词组
-
-**问题是什么**
-**leave a mess**（⭐ 她自产的块，三个词）＝ 东西乱丢一地。
-同一格里的邻居（别串 —— 都合法、全靠题面排除）：
-`He **makes** a mess.` · `He **throws** stuff around.` · `leave stuff lying around` · everywhere／all over
-⇒ 题面靠「三个词的块 ＋ ⛔ everywhere／all over／make／throw」把 leave a mess 框死
-　（⛔ 未点名 leave、⛔ 未点名 mess —— 那是考点本身）。
-判据一句话：这一层用 **leave ＋ a mess** 三个词说完。
-
-**怎么发现的**
-旧 B 表迁移（B97，2026-08-18）；⭐ 本条是她自产的块，2026-08-09 首次出现即 ✅。
-2026-08-13 ◎ 题面没逼出；2026-08-17 ✅ ⇒ 毕业。
-2026-09-09 ❌ 复检第 3 组 · 答"忘了" ⇒ **回潮**（08-17 毕业后三周没再碰）。
-2026-09-10 ✅ `he left a mess` ／ 2026-09-11 ✅ `he left a mess` ⇒ 连对 2，第二次毕业。
-★ 09-11 发出时题面括号里还带着「**人**当主语说」，与词组题主体打架（**她当场点出**，原话：
-"词组只需要单次或者词组，整句（翻译）需要完全的句子"）⇒ 同日删掉该提示；
-毛病是形式不是映射、考点 100% 被测到 ⇒ 按 §3.3 硬顺序记 ✅、⛔ 不记 ◎。
-
-**我错在哪**
-她的：答"忘了"（2026-09-09 复检）　　正确：`He leaves a mess.`
-找法：说"乱丢一地"时直接调 leave a mess 这三个词，⛔ 别滑到 make／throw。
-
-**题面**
-"东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw／around）
-
-- 2026-08-09 ✅
-- 2026-08-13 ◎ 题面没逼出
-- 2026-08-15 ✅
-- 2026-08-17 ✅
-- 2026-09-09 ❌ 复检 · 第 3 组 · 答"忘了" —— **回潮**
-  最小改 `He leaves a mess.`
-  ★ 本条是 ⭐ 她自产的块（08-09 首次出现），08-17 毕业后三周没再碰 ⇒ 掉了
-- 2026-09-10 📝 题面整改：补词数与排除项 · 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
-  原题面「"东西乱丢一地"（**人**当主语说，⛔ 不许用 everywhere／all over）」——
-  `He makes a mess.` 完全合法、完全符合题面，却把本条考点（**leave** a mess 这个搭配）整个绕开；
-  `leave stuff lying around` 同理（四个词，绕开 mess 这个名词）。
-  ⇒ 补「"乱丢一地"用**三个词**的块说」＋ 排除项 `／make`，把 leave a mess 框死；
-    ⛔ 未点名 leave、⛔ 未点名 mess（那是考点本身，§6② 红线）。
-- 2026-09-10 ✅ 复习 · 在池第 1 组 · `he left a mess`（另给了 `he left his stuff scattered around`）
-  ★ 09-09 答"忘了"回潮，本场题面补了「三个词的块」＋ 排除 make 之后，块整个调出来了
-- 2026-09-11 📝 题面整改：排除项补 `／throw` · 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
-  `He throws stuff around.` ＝ 三个词的块、人当主语、不含已排除的词 ⇒ **完全合法且符合题面**，
-  却把 leave a mess 整个绕开（§6 第二译法白测）⇒ 补进排除项。
-  ⛔ 仍未点名 leave、⛔ 仍未点名 mess（那是考点本身，§6② 红线）
-- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `he left a mess` —— 块整个调出来（不是 make／throw）⇒ 连对2 **毕业**
-  ★ 发出时题面括号里带「**人**当主语说」，与词组题主体打架（她当场点出）⇒ 同日 📝 整改；
-    毛病是形式不是映射，考点 100% 被测到 ⇒ 按 §3.3 硬顺序记 ✅、⛔ 不记 ◎
-- 2026-09-11 📝 题面整改：删「**人**当主语说」，恢复成纯词组题 · 她当场点出（原话："词组只需要单次或者词组，整句（翻译）需要完全的句子"）
-  旧 "东西乱丢一地"（**人**当主语说 · "乱丢一地"用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
-  新 "东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
-  ⇒ 考点 leave a mess 一个块就覆盖得了 ⇒ 词组题；「人当主语说」这个提示把要她产出的形式改成了整句 ⇒ 越界，删
-- 2026-09-18 📝 题面整改：排除项补 `／around` · 复检组发题前审核（§6.5 第 7 项）
-  `leave stuff around`／`scatter things around` 同样三个词、合法，绕开 leave a mess ⇒ 补排除项
-- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
-
 ### 189 · take sb out ≠ bring sb along；outdoors 是副词
 类型 词汇 ｜ 旧号 B101
 状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
@@ -6947,7 +6891,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 207 · I'd say ＋ "主要就是…"四条路径
 类型 词组 ｜ 旧号 B137 ｜ ⛔ **条目内容待补**
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
 
 **问题是什么**
 **I'd say ＋ "主要就是…"** —— 用 I'd say 起头，把观点软化着抛出来。
@@ -6980,6 +6924,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
     内容补回来之前不再出题。
 - 2026-09-15 📝 产出验机制取消 ⇒ 恢复出题：题型格回默认「整句」、删掉 ⛔ 复习组停出 标记、题面换回留档的「我觉得主要就是……」（⛔ 条目内容待补保留成一行 ★ 注释）
 - 2026-09-18 ✅ 复检 · 学习日 复检第 3 组 · `I'd say it mainly boils down to not having enough time.`——I'd say 起头
+- 2026-09-28 ✅ 复检第 2 组 · `I'd say it mainly comes down to a lack of time.`
 
 ### 208 · some people ≠ somebody
 类型 词汇 ｜ 旧号 B142
@@ -13048,72 +12993,9 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
   她掉的是"校长"这个名词义 ⇒ 出题只出名词义。若日后形容词义单独掉，另开号。
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
-### 322 · play WITH sth（玩"东西"一律带 with）
-类型 搭配 ｜ 新建 2026-09-07
-状态 连对2 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ⚡ 自评免测；§4③ ⚡ 够 2 ＝ 她行使直接指定毕业）｜ 题型 整句
-
-**问题是什么**
-**play WITH sth**（玩"东西"一律带 with）。
-判据：
-```
-玩"东西"     play **with** sth      play with toys ／ play with the dog ／ play with your phone
-玩"项目"     play ＋ 名词（不带 with）play football ／ play the piano ／ play a game ／ play a role
-★ 判据一句话：后面是**一个东西** ⇒ 必须有 with；后面是**一项活动** ⇒ 直接接。
-★ 检查触发：写完 play，问一句 —— 我后面接的是东西还是活动？
-```
-★ 与 🎓**#51**（put sth away ＝ 收起来）／🎓**#67**（可分离动词短语的位置）的**互斥关系（当场写死）**：
-　那两条的题面都以"收起来"为落点（put away），本条题面以"在玩"为落点（play with）⇒ 不撞车；
-　按它们的规则去改她这两句都**产不出 with** ⇒ 不同考点。
-
-**怎么发现的**
-2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）· 她写
-`kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
-（→ playing **with** them ／ played **with** the toys）
-★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
-（「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
-⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
-判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `play **with** sth`
-② 全档 grep（**范围含已毕业**）：`grep -n "play with\|玩具\|play toys" problems.md graduated.md methods.md`
-   ⇒ 4 处命中，逐条读：
-   · 🎓#51（put sth away ＝ 收起来）题面"把玩具收回去" —— 只是同一个名词出现，考点是 put away
-   · 🎓#67（可分离动词短语的位置）题面里也有玩具 —— 考点是代词必须摆中间
-   · 🎓#67 的**备注行**「玩具搭配是 play with」—— ★ 决定性事实：只是备注，**全档无条目**
-   · #215（-ing 短语的逻辑主语）题面里有玩具 —— 考点是逻辑主语＝主句主语
-③ 最接近的两条逐条排除：
-   · 🎓#67 —— 按它的规则去改她这两句 ⇒ 只会检查 them 有没有摆在 put 和 away 中间，
-     **产不出 with** ⇒ 不同考点（§3.1③ 第三档）
-   · 🎓#51 —— 按它的规则改 ⇒ 只会把 clean up 换成 put away ⇒ 产不出 with ⇒ 不同考点
-   **互斥关系（当场写死）**：#51／#67 的题面都以"收起来"为落点（put away），
-   本条题面以"在玩"为落点（play with），⛔ 两边题面不撞车。
-④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `play with`，成员数得出来。
-```
-
-**我错在哪**
-她的：`kids put toys away after **playing them**.` ／ `After kids **played toys**, …`
-正确：`after playing **with** them` ／ `After kids played **with** the toys, …`
-找法：写完 play，问一句 —— **后面接的是"东西"还是"一项活动"？**
-东西 ⇒ 必须有 **with**。
-
-**题面**
-"孩子在玩他们的玩具。"（"玩"用 **play** 说）
-
-- 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
-  `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
-  → playing **with** them ／ played **with** the toys
-  ★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
-    （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
-    ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
-- 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
-- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："6. 直接过"）⇒ 连对1 → 连对2 **毕业**（§4③：⚡ 够 2 ＝ 她行使直接指定毕业）
-- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
-- ⇒ **新建当天不测**（§3.1），下一个练习日起进池
-
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
 类型 结构 ｜ 新建 2026-09-07
-状态 连对2 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）｜ 题型 整句
 
 **问题是什么**
 嵌入疑问的 **wh 词不能吞**（know **what** they want）。
@@ -13180,6 +13062,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
   新 "他聪明到知道自己到底要什么、也知道怎么去够到。"（用 **know** 起头的一个不定式说）
   ⇒ 考点靠句子现形 ⇒ 整句题 ⇒ §6.5⑥ 要求有主语、能独立成句；旧题面正是那条的反例形状
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-28 ✅ 复检第 2 组 · `he's smart enough to know what he really wants and how to reach it.`
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 325 · obstacle course（闯关设施／障碍训练场）
@@ -13209,6 +13092,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-10 ✅ 复习 · 在池第 1 组（首测）· `an obstacle course` —— 两个词一字不差
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `an obstacle course.`——**连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-28 📝 学习日 新题 bank:915（P2）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· `I went on an obstacle course with my 5-year-old son`
 
 ### 326 · stamina（耐力）
 类型 词汇 ｜ 新建 2026-09-09
@@ -13470,6 +13354,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
     这正是她 09-09 憋了很久才憋出来的那一句（原话："我好像很难想到这种 when I suggest it"）⇒ 现在能主动调出来
 - 2026-09-13 ✅ 学习日 在池第 3 组 · `he refused to turn back when I suggested it.`——"提议"拆成动词 suggested ＋ when 从句，没用 proposal／suggestion ⇒ **连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-28 📝 学习日 新题 bank:915（P2）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· `he refused to turn back when I suggested it`
 
 ### 333 · 间接引语里人称一路跟到底（I told him to … **his**）
 类型 结构 ｜ 新建 2026-09-09
@@ -13961,7 +13846,7 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -13992,10 +13877,11 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
   ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
 - 2026-09-22 ✅ 学习日 在池第 1 组 [3] · `Office workers have no choice but to grab a quick bite out.` —— Office workers 直接当主语，没有 For office workers, they… 那一层 ⇒ **连对 2，毕业**
   ⚠️ diff-2：漏了"一般"（→ usually，🎓#22 她会，检索滑手）· a quick bite out → a quick bite somewhere（grab a quick bite 自带"在外面"，out 多余）
+- 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
@@ -14027,10 +13913,11 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
   ⇒ §3.3 硬顺序③ 答得合法但不是条目预期 ⇒ 记 ✅ ＋ 当场改题面（补 ⛔ 不许用 delicious／tasty）
 - 2026-09-22 ✅ 学习日 在池第 1 组 [4] · `Cooking at home is much cleaner, and the food tastes far better.` —— "好吃"挂在 the food 上、用 taste，没用 delicious／tasty ⇒ **连对 2，毕业**
   ★ 09-20 那次写的是 tastes more delicious，本次比较级自己走到了 better ⇒ 条目里"delicious 不加 more"那一条当场兑现；far better ⛔ 不改（与 way better 同级）
+- 2026-09-28 ✅ 复检第 2 组 · `Cooking at home is much cleaner, and the food tastes better.`
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
 
 **问题是什么**
 "网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
@@ -14058,10 +13945,11 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `you can do pretty much anything online.` —— 一个副词 online 挂句末；首测一次中
 - 2026-09-22 ✅ 学习日 在池第 1 组 [5] · `You can do pretty much everything online.` —— 一个副词 online 挂句末，没用 internet／through the internet ⇒ **连对 2，毕业**
+- 2026-09-28 ✅ 复检第 2 组 · `You can do petty much everything online.`
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
 
 **问题是什么**
 "让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
@@ -14087,10 +13975,11 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-19 新建 · 付息日 d 段重答 R13（P3）· 原话 `Reading gives you room to run with your imagination`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `let your imagination run wild.` —— imagination ＋ run wild 整块；首测一次中
 - 2026-09-22 ✅ 学习日 在池第 1 组 [6] · `Let your imagination run wild.` —— imagination ＋ run wild 整块，没写成 run with your imagination ⇒ **连对 2，毕业**
+- 2026-09-28 ✅ 复检第 2 组 · `let your imagination run wild.`
 
 ### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
 类型 语法 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 **feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
@@ -14118,6 +14007,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
 - 2026-09-21 ✅ 学习日 在池第 1 组 [4] · `going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems（09-20 首犯正在这里）。连错 1 清零、连对 0 → 1
 - 2026-09-22 ✅ 学习日 在池第 1 组 [1] · `Going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems ⇒ **连对 2，毕业**
+- 2026-09-28 ✅ 复检第 2 组 · `Going to ancient sites feels like a mini-escape.`
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
@@ -14290,3 +14180,113 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [3] · `some people persuade you with reason, while others win you over through emotion.` —— 第二拨人用 others 一个词顶。连错 1 清零、连对 0 → 1
 - 2026-09-27 ✅ 在池第 1 组 · `Some people persuade you with logic, while others drive you with emotion.` —— others 到位
   ｜drive you with emotion ⚠️ ⇒ 建号 #363（appeal to sb's emotions）
+
+### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
+类型 搭配 ｜ 新建 2026-09-22
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+
+**问题是什么**
+"在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
+· **on ＋ a(n) ＋ 形容词 ＋ level** ＝ 从某个**角度**／在某种程度上（不定冠词）：
+　`connect with people on an emotional level` ／ `on a personal level` ／ `on a deeper level` ／ `on some level` ／ `on a practical level`
+· **at ＋ the ＋ 形容词 ＋ level** ＝ 一套**层级**里的某一层（定冠词，行政／组织／分析的层级，永远能跟另一层并排）：
+　`at the national level` ／ `at the local level` ／ `at the individual level` ／ `at the social level` ／ `at the policy level`（也说 `at the level of the individual`）
+· **at ＋ 物理高度**（永远 at）：`at eye level` ／ `at sea level` ／ `at street level`
+同一格里的邻居（别串）：`emotionally` 说得通，但它是副词，说不了"在某个层面上"这个比喻。
+另外 connect 要把人带上：connect **with sb** on a … level（论元完整，同族 🎓#18）。
+判据一句话：冠词是 **a/an**、说的是"从某个角度" ⇒ **on**；冠词是 **the**、而且那一层能跟别的层并排（个人层 vs 国家层）⇒ **at**。
+★ 她的那句 `connect ___ an emotional level`：冠词是 an、说的是"从情感这个角度跟人连上"（不跟别的层并排）⇒ 走 on，
+　且 connect 与 on 本身就是固定搭配（connect with sb **on** a … level）。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）· 触发原话
+`they quickly connect at an emotional level`（diff-2 ⚠️，不是 ❌ —— 意思能懂、也偶有人这么说，但地道说法是 on）。
+判重三步：
+　① 目标形式 on an emotional level ⇒ dedup "on an emotional level"／"level" ⇒ 两次都零命中
+　② 中文题面 dedup "层面" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`they quickly connect at an emotional level`　　更地道：`they quickly connect with people on an emotional level`
+找法：说到"在…层面"，**先看冠词** —— a/an（从某个角度）⇒ on；the ＋ 能跟别的层并排（国家层／个人层／社会层）⇒ at。
+
+**题面**
+"在情感层面上跟人连起来"（"在…层面上"用 **level** 那个名词说 · ⛔ 不许用 emotionally）
+
+- 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `they quickly connect at an emotional level`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+- 2026-09-22 📝 **正文订正（她当场推翻我写窄的判据）**：她问「at the social level 是 at 还是 on」——
+  `at the social level` 完全成立（社会这一层 vs 个人那一层 ＝ 层级用法）⇒ 建号时写的"at ＋ level 只用于物理高度"**是错的**，
+  当天改成按**冠词**分的两个块（on a/an ＋ 角度 ／ at the ＋ 层级 ／ at ＋ 物理高度）。
+  ⛔ 判定口径同步放宽：她若答 `at the … level` 且说的是层级 ⇒ **判 ✅**；本条真正要卡的只有"从某个角度"那一格该用 on。
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [7] · `Connect with people on an emotional level.` —— on ＋ an ＋ 形容词 ＋ level，connect 带上 with people。首测，连对 0 → 1
+- 2026-09-28 ✅ 在池第 1 组 · `You connect with others on an emotional level.`
+
+### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
+类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+
+**问题是什么**
+**persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
+`it took a lot of persuasion`。
+同一格里的邻居（别串 —— 同一个词根的三个形）：**persuade sb to do sth** ＝ 动词（`she persuaded me to go`）·
+**persuasive** ＝ 形容词（`a persuasive argument` ＝ 有说服力的）· **convince sb of sth** ＝ 近义动词（偏"让人信"，
+persuade 偏"让人做"）。
+判据一句话：句子里这一格要的是**一件事／一个名词**吗？是 ⇒ persuasion；要的是动作 ⇒ persuade；形容一个论点 ⇒ persuasive。
+
+**怎么发现的**
+2026-09-22 学习日 新题 bank:1102（P3 · Do you think some people are better than others at persuading?）·
+她在自己的产出里主动标注 `successful persuasion(这个单词背一下)`
+—— 词**用对了**，是她点名要收进复习（§2③ 她主动提出的）。
+判重三步：
+　① 目标形式 persuasion ⇒ dedup "persuas" ⇒ 零命中（全档没有这个词根的条目）
+　② 中文题面 dedup "说服" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+本条不是她犯的错：她这次写的 `successful persuasion` 完全正确，缺的是"下次还调不调得出来"。
+找法：要说"说服"这件事本身（当名词用），先问一句 —— persuade 的名词形是什么？
+
+**题面**
+"成功的说服" ／ "说服的艺术"（"说服"两处都用**一个名词**说，**p** 开头 · ⛔ 不许用 persuading）
+
+- 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `successful persuasion(这个单词背一下)`（⭐ 她点名要背，词本身用对了）
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [8] · `successful persuasion. The art of persuasion.` —— 两处都调出名词 persuasion。首测，连对 0 → 1
+- 2026-09-28 ✅ 在池第 1 组 · `successful persuasion. the art of persuasion.`
+
+### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
+类型 语法 ｜ 新建 2026-09-26
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+
+**问题是什么**
+"能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
+`you get to chill somewhere` ／ `you get to see the real thing` ／ `you get to meet new people`。
+同一格里的邻居（别串）：
+· **get to ＋ 地点名词** ＝ 到达（`get to the station`），这里的 to 是介词（🎓#336）
+· **get ＋ somewhere／there／home** ＝ 到达，这几个是副词，⛔ 不带 to
+· **get to know sb** ＝ "认识"那个固定块（🎓#81）
+判据一句话：get to 表示"能／有机会"时，to 后面是不是一个动词？不是 ⇒ 补一个（be／stay／chill／go）。
+★ 与 🎓#336 分工：那条的 to 是介词、后面挂地点名词；本条的 to 是不定式、后面挂动词 ⇒ 两条规则。
+★ 与 🎓#81 分工：那条考"to 别漏"（get to know），本条考"to 后面要有动词"。
+
+**怎么发现的**
+2026-09-26 付息日 a 在池第 1 组 [6]（#353 题面"你能待在一个气氛完全不一样的地方。"）· 她的原话
+`You get to somewhere with a totally different vibe.`
+（#353 的考点 vibe 挂在地方上是对的，判 ✅；本条是同句另一处）
+判重三步：
+　① 目标形式 get to ＋ 动词原形 ⇒ dedup "get to" ⇒ 命中 🎓#81（get to know sb：考 to 不能省，⇒ 否，本条考 to 后要有动词）·
+　　　🎓#336（get to ＋ 地点名词：to 是介词，⇒ 否，本条的 to 是不定式）· #353（只是历史里出现 get to chill，考 vibe ⇒ 否）·
+　　　🎓#50 #86 #98 #206 ⚪#324 #356（只是正文/历史里出现 get to 字串，考点分别是 easier／go on a trip／并列同形／书面降级／others ⇒ 否）
+　② dedup "somewhere" ⇒ 命中 #353 🎓#206 🎓#347，都只是历史里出现过这个词 ⇒ 否；中文 dedup "待在" ⇒ 只命中 #353 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`You get to somewhere with a totally different vibe.`　　正确：`You get to be somewhere with a totally different vibe.`
+找法：写完 get to，看后面是不是一个动词；不是 ⇒ 补一个（be／stay／chill／go）。
+
+**题面**
+"度假的时候，你能在海边待上一整天。"（"能"用 **get** 说 · ⛔ 不许用 can／be able to）
+
+- 2026-09-26 ❌ 首犯 · 付息日 a 在池第 1 组 [6]（#353 同句）· 原话 `You get to somewhere with a totally different vibe.`
+- 2026-09-27 ✅ 在池第 1 组 · `When you're on vacation, you get to speed the whole day at the beach.` —— get to ＋ 原形到位
+  ｜speed ＝ spend 打漏 n，§2.1 拼写不算
+- 2026-09-28 ✅ 在池第 1 组 · `When you are on vacation, you get to spend the whole day at the beach.`

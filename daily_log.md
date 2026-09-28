@@ -6698,3 +6698,19 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 
 **下一场 ＝ C8·D4 复习日**：必出层 ＝ #0534–#0541；在池 ≤5 组 ＋ 复检 3 组；§8④ 全档 review；收尾周期号 +1
 
+
+## 2026-09-28（周一）· 口语 L2（周期 8 第 2 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 341 ＝ problems.md 17 ＋ graduated.md 324 ｜ 🎓 324（95.0%）｜ 未毕业 17 ｜ 可出题 7 ｜ 队列到期剩 0 ｜ ⚡ 累计 263 条目、掉过 5（校准 2%）｜ 重答队列 58 / 未重答 42
+
+**四段**
+- ① 在池 1 组 6 题 / 6 条：**✅6 ❌0** ⇒ **毕业 3**（#358 · #359 · #360）；#88 #357 #363 连对1
+- ①b 复检 1 组 9 题 / 11 条：**✅9 ❌2** ⇒ #186（`mess up the floor`）· #322（`playing toys` ／ `playing their toys`，同日两次）回潮
+- ② 回看 1 篇：bank:1339（`lookback --pending` 原样贴）
+- ③ 新题 bank:915（P2 · Describe a time when you felt proud of a family member）：复用 bank:1091 素材，真错 0 · ⚠️ 1（开头扣卡 proud ＋ When it happened 没答）· 🎓#325 🎓#332 自发命中留痕
+
+**教练犯规 1 条**：`pick_question.py --help` 直接抽了题（照抽到的做，未重抽）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄2
+
+**下一场 ＝ 周期 8 · L3**：#186 #322（回潮）必出；回看 bank:915；新题 1 道
