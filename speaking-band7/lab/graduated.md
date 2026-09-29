@@ -13445,7 +13445,7 @@ present 的两个框（记框，不记单词）：
 
 ### 321 · principal ＝ 校长（≠ principle ＝ 原则）
 类型 词汇 ｜ 新建 2026-09-05
-状态 连对2 连错0 上次2026-09-27 ｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-07 ✅ ＋ 09-10 ✅；09-05 建号后第一次毕业，中途零回潮）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-27 ｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-07 ✅ ＋ 09-10 ✅；09-05 建号后第一次毕业，中途零回潮）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **principal ＝ 校长**（≠ **principle** ＝ 原则）。
@@ -13516,6 +13516,8 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 - 2026-09-10 ✅ 复习 · 在池第 1 组 · `principal` —— 一字不差 ⇒ **连对2，毕业**
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 退池 · ③ 口语里测不出
+  principal／principle 读音完全一样，两者只差拼写（§2.1 拼写层，口语线不算）；"校长"说 head teacher 也地道 ⇒ 口语里测不出缺口
 - 备注 **不当考点的邻居**（写在这里防混，⛔ 不并进本条、不出题）：
   形容词 `principal` ＝ 主要的（the principal reason／the principal cause）——同一个词的另一个词性，
   她掉的是"校长"这个名词义 ⇒ 出题只出名词义。若日后形容词义单独掉，另开号。
@@ -13612,7 +13614,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：中文想到"设施"先停一下 —— 是一整套闯关路线吗？是就用 obstacle course，⛔ 别去够 facility。
 
 **题面**
-"闯关设施／障碍训练场"（两个词 · **o** 开头 · ⛔ 不许用 facility）
+"儿童乐园里那条障碍闯关路线"（爬网、过独木桥的一整套关卡）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词我查字典，一开始想写有了设施，但是也不会写"
   条目内容：整套闯关设施 ＝ **an obstacle course**（course 本身就含"一条路线"）；单个项目 ＝ **an obstacle**。
@@ -13622,6 +13624,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-28 📝 学习日 新题 bank:915（P2）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· `I went on an obstacle course with my 5-year-old son`
 - 2026-09-29 ✅ 复检第 2 组 · `an obstacle course.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉首字母／词数／排除项，改成中文释义（一整套关卡）；换成儿童乐园场景
 
 ### 326 · stamina（耐力）
 类型 词汇 ｜ 新建 2026-09-09
@@ -13642,7 +13646,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：中文说到"耐力／撑得住"先问一句 —— 是"能撑多久"吗？是就用 stamina，⛔ 别拿 energy／strength 顶。
 
 **题面**
-"耐力"（一个词 · **s** 开头 · ⛔ 不许用 energy／strength）
+"跑长跑最要紧的那股耐力"（能撑多久的劲儿，不是力气大小）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词需要背下"
   条目内容：**stamina** ＝ 长时间撑下来的耐力（**不可数**，⛔ 无复数）。
@@ -13651,6 +13655,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `stamina`——**连对 2，毕业**
 - 2026-09-19 ✅ 复检 · 付息日 a2 复检第 2 组（打包 [2]）· `stamina`
 - 2026-09-29 ✅ 复检第 2 组 · `stamina.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉首字母／词数／排除项，改成中文释义（能撑多久，不是力气大小）；endurance 同样算对
 
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
 类型 词汇 ｜ 新建 2026-09-09
@@ -13693,14 +13699,14 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 329 · terrified ＝ 吓坏了（scared 的顶格版，⛔ 不加 very）
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
 
 **问题是什么**
 **terrified ＝ 吓坏了**（scared 的顶格版）：它本身已经是顶格 ⇒ ⛔ 不说 very terrified，
 要加程度只能用 **absolutely／completely** terrified。
 同一格里的邻居（别串）：scared ＝ 害怕（可加 a bit／very）；
 同族顶格词都不加 very —— tired→exhausted · good→brilliant · bad→awful · big→huge。
-⛔ 题面排除 scared／afraid，并用首字母 **t** 框死（petrified／horrified 也合法，但不是本条要的那个词）。
+⇒ 题面直接点名 terrified（她点名要学的词），考的是它前面还加不加 very。
 判据一句话：这个形容词本身是不是顶格？是 ⇒ 不加 very，只能加 absolutely／completely。
 
 **怎么发现的**
@@ -13714,7 +13720,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：说"特别害怕"时先挑顶格词 terrified，挑完就**不许**再往前加 very。
 
 **题面**
-"吓坏了"（用一个形容词说 · **t** 开头 · ⛔ 不许用 scared／afraid）
+"草丛里突然窜出一条蛇，我整个人都吓坏了。"（"吓坏了"用 **terrified** 说）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"和 scared 的区别，需要学习下"
   条目内容：scared ＝ 害怕（可加 a bit／very）；**terrified ＝ 吓坏了**，本身已经是顶格 ⇒
@@ -13732,16 +13738,18 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `terrified.`——**连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 ✅ 复检第 2 组 · `be terrified.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  她点名要学的词 ⇒ 直接点名 terrified，考的是前面还加不加 very（本条锁的边界）；换成遇到蛇场景
 
 ### 330 · set one's mind to sth（下定决心要做的事）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
 常见形 `do what he set his mind to`（介词 to 留在句尾，后面不再挂东西）。
-同一格里的邻居（别串）：⛔ 不是 make up one's mind（那是"拿定主意"＝ 一次性的选择，做完就结束）；
-题面另外排除 decide／determined。
+同一格里的邻居（别串）：make up one's mind（那是"拿定主意"＝ 一次性的选择，做完就结束）；
+题面正向点名 mind，set … to 的搭法留给她。
 判据一句话：说的是"铁了心一直干下去"⇒ set one's mind to；只是"当场拿定主意"⇒ make up one's mind。
 
 **怎么发现的**
@@ -13754,7 +13762,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：中文"下定决心要做"先分一刀 —— 是"一直往下干"（set one's mind to），还是"当场拿定主意"（make up one's mind）？
 
 **题面**
-"他下定决心要做的那件事"（"下定决心要做"用 **mind** 说 · ⛔ 不许用 decide／determined／make up／put）
+"她只要认准了一件事，就一定会干成。"（"认准了"用 **mind** 说）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个短语也是查字典的"
   条目内容：**set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
@@ -13776,6 +13784,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-15 ✅ 学习日 在池第 2 组 · `The thing he set his mind to do.` —— set one's mind to 块出来了；连错1 → 连对1
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `the thing he set his mind to`——to 留在块尾 ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉四个排除项，只点名 mind，set … to 与句尾 to 留给她（09-13 掉过）；换成认准了就干成场景
 
 ### 332 · 名词化的"提议/请求"拆回【动词 ＋ when 从句】
 类型 结构 ｜ 新建 2026-09-09
@@ -13803,7 +13813,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：中文里"提议／请求／邀请"蹲在宾语位上时，先把它还原成一个动词，挂进 when 从句里去。
 
 **题面**
-"我提议往回走，他不肯。"（⛔ 不许用 proposal／suggestion 这类名词；"我提议"用一个 **when** 从句说）
+"我请他来帮忙搬家，他一口就答应了。"（"我请他"用 **when** 从句说）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这句话很简单，但是我憋了很久，
   第一想法是 He refused my proposal to go back，我好像很难想到这种 when I suggested it"
@@ -13820,6 +13830,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-28 📝 学习日 新题 bank:915（P2）· 自发命中留痕（🎓 冻结，只留痕、不推进数字）· `he refused to turn back when I suggested it`
 - 2026-09-29 ✅ 复检第 2 组 · `he refused to turn back when I suggested it.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 去负向排除）
+  去掉"⛔ proposal／suggestion"，只留正向"用 when 从句说"；换成请人帮忙搬家场景
 
 ### 333 · 间接引语里人称一路跟到底（I told him to … **his**）
 类型 结构 ｜ 新建 2026-09-09
@@ -13864,14 +13876,14 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 334 · the cause OF sth（⛔ cause for）
 类型 搭配 ｜ 新建 2026-09-10
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **the cause OF sth** ＝ 某事的**起因**（the main cause **of** air pollution ／ the cause **of** the fire）。
 `cause for` 是另一个意思 ＝ "…的**理由**"，只配情绪／反应类名词：cause for concern／cause for alarm／cause for celebration。
 ⇒ 说"某个现象的原因"永远是 **of**。
 ⚠️ 同族**反向**：reason 配 **for**（the reason **for** the delay）—— cause 与 reason 的介词是反的，
-这是最容易互相串的一格；题面另外排除 reason／source。
+这是最容易互相串的一格；题面正向点名 cause。
 判据一句话：后面挂的是"一个现象"⇒ cause **of**；挂的是"担心／庆祝"这类情绪 ⇒ cause **for**。
 
 **怎么发现的**
@@ -13886,7 +13898,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：写完 cause 先问一句 —— 后面跟的是"一个现象"还是"一种情绪"？现象 ⇒ of。
 
 **题面**
-"空气污染的主因"（用 **cause** 说 · ⛔ 不许用 reason／source）
+"警方还在调查这场火灾的起因。"（"起因"用 **cause** 说）
 
 - 2026-09-10 📝 新建 · 新题 bank:956 自由产出（P3）· 触发原话
   `But generally speaking, they'not the main **cause for** air pollution.`
@@ -13900,6 +13912,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
   ｜同句 primary ⇒ 🎓#206 书面登记一行 📝
 - 2026-09-15 ✅ 新题 bank:1059 自发命中 · `failed to find the cause of the problem` —— the cause OF，介词对
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"⛔ reason／source"，只点名 cause，of 留给她（她掉过的是 cause for）；换成火灾起因场景
 
 ### 335 · take action（action 在这个块里不可数，⛔ take actions）
 类型 语法 ｜ 新建 2026-09-11（从 #261 拆出）
@@ -13908,7 +13922,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 **问题是什么**
 **take action** 是固定块，action 在这里**不可数** ⇒ ⛔ 不加 -s、⛔ 不加 an。
 同一格里的邻居（别串）：同族的 take **steps**／take **measures** 才有复数（steps／measures 本身可数）
-⇒ 题面已排除，免得白测；中文"更愿意干"口语更常走 **more willing to give it a go／to go for it**，take action 偏"采取行动"。
+⇒ 题面直接用"采取行动"点名 action，-s 挂不挂留给她。
 判据一句话：take 后面挂的是 action 吗？是 ⇒ 尾巴上不许有 s。
 ★ 与 #261 的分工：本条 2026-09-11 从 #261 拆出（§3.2c③ 顽固成员单独摘出），#261 剩六个成员照常走连击；
 　拆出来的子条从 0 起算、⛔ 不继承 #261 的连击。
@@ -13925,7 +13939,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：写完 take action，回头看 action 尾巴上有没有多出一个 s。
 
 **题面**
-"风险小了，大家就更愿意干。"（"更愿意干"用 **take ＋ 一个 a 开头的名词** 说 · ⛔ 不许用 steps／measures／plunge／chance）
+"污染这么严重，政府得马上采取行动。"（"采取行动"用 **action** 说）
 
 - 2026-09-11 📝 新建 · 付息日 c 段 · **从 #261 拆出**（§3.2c③：顽固成员单独摘出，老条目剩六个成员照常走连击）
   拆号依据（一条一条数的）：#261 七个成员里 **只有 action 掉过两次** ——
@@ -13945,6 +13959,8 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `if risks are lower, people are willing to take action.`——take action 无 -s ⇒ **连对 2，毕业**
   ｜同句 willing（更愿意）⇒ ⚪ #7，不归本条
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"take ＋ a 开头的名词"猜谜与四个排除项，直接用"采取行动"点名 action，-s 挂不挂留给她；换成治污场景
 
 ### 336 · get TO ＋ 地点（到达；⛔ get the destination）
 类型 搭配 ｜ 新建 2026-09-11
