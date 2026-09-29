@@ -14551,7 +14551,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：中文里出现"…感"，先别找名词，先问一句 —— 这个"感"是从哪个**动作**来的？
 
 **题面**
-"亲眼看到真东西"（用 **real** 说 · 是一个**单数**的固定块 · ⛔ 不许用 feeling／feel）
+"照片拍得再好，也比不上亲眼看到真东西。"（"真东西"用 **real** 说）
 
 - 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `the real-life feeling`（⚠️ 更地道的表达，§3.2b）
 - 2026-09-21 ✅ 学习日 在池第 1 组 [5] · `see the real things.` —— 考点命中：把"真实感"换成**动作**来说、用了 real、没用 feeling ⇒ 符合题面（§3.3 硬顺序①②）。连对 0 → 1
@@ -14563,10 +14563,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 ✅ 复检第 2 组 · `see the real thing.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"单数固定块 ＋ ⛔ feeling／feel"，只点名 real；换成照片比不上亲眼看场景
+- 2026-09-29 📝 补题面（上一批 🎓#352 状态行改了整句、题面节替换没落上，本行补记新场景：照片比不上亲眼看）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 **as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
@@ -14576,7 +14577,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 ⛔ `as far ＋ 名词` ＝ 把上面两个块的前半截拼在一起，英语里不存在这个说法。
 判据一句话：写完 as far，回头看后面有没有 `as … goes`？没有 ⇒ 把 far 换成 for。
 ★ 与 🎓#317（when it comes **TO** sth）分工：那条考 come 那一族的介词，本条考 as for 这个块 ——
-　本条出题点名"两个词的块 · 第一个词是 as"，🎓#317 出题点名"用 come 说" ⇒ 两边各自唯一，⛔ 不撞车。
+　本条零提示（as for／when it comes to 都算对，测的是会不会拼出 as far ＋ 名词），🎓#317 点名 come ⇒ 两边各测各的。
 
 **怎么发现的**
 2026-09-21 学习日 新题 bank:1005（P3 · What are the differences between old and young people's music preferences?）· 触发原话
@@ -14596,12 +14597,15 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：写完 as far，回头问一句 —— 后面有没有 as … goes？没有就把 far 换成 for。
 
 **题面**
-"至于现在流行什么"（**两个词**的块 · 第一个词是 **as** · ⛔ 不许用 about／regarding／speaking of）
+"工资还行，至于加班多不多，我还不太清楚。"
+　　★ 零提示：as for／when it comes to／regarding 都算对；她掉过的是拼出来的 as far ＋ 名词
 
 - 2026-09-21 ❌ 首犯 · 新题 bank:1005（P3）· 原话 `As far what's trending right now, I'm actually not too sure`
 - 2026-09-22 ✅ 学习日 在池第 1 组 [2] · `As for what's trending now.` —— as for ＋ 名词性从句，两个词一组，没写成 as far（09-21 首犯正在这里）。连错 1 清零、连对 0 → 1
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [2] · `As for what's trending right now` —— as for ＋ 名词性从句，没写成 as far ⇒ **连对 2，毕业**
 - 2026-09-29 ✅ 复检第 2 组 · `as for what's trending now.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"两个词／第一个词是 as ＋ 三个排除项"，改零提示整句（as for／when it comes to／regarding 都算对），逼的是她掉过的 as far ＋ 名词；换成工资加班场景
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
@@ -14627,12 +14631,14 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：想说"抒情慢歌／情歌"，先别拼 slow songs，先问一句 —— 有没有一个 **b** 开头的名词？
 
 **题面**
-"各种各样的抒情慢歌"（"抒情慢歌"用**一个名词**说，**b** 开头 · ⛔ 不许用 slow songs／love songs）
+"我爸最爱听的那种抒情慢歌"（节奏慢、以唱感情为主的歌）
 
 - 2026-09-21 新建 · 新题 bank:1005（P3）· 触发原话 `all sorts of ballads(这个单词要背）`（⭐ 她点名要背，词本身用对了）
 - 2026-09-22 ✅ 学习日 在池第 1 组 [7] · `various ballads` —— 一个 b 开头的名词 ballads 调出来了，没退回 slow songs／love songs（建号后首测）。连对 0 → 1
   ⚠️ diff-2：various → all sorts of（书面词降级，走 §7 书面登记记在 🎓#206；她 09-21 自己写的就是 all sorts of ⇒ ⛔ 不另建号）
 - 2026-09-27 ✅ 在池第 1 组 · `all sorts of ballads.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"一个名词、b 开头 ＋ 排除项"猜谜写法，改中文释义；换成"我爸爱听的"场景
 
 ### 356 · "另一些人" ＝ others（⛔ some ones）
 类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
@@ -14663,16 +14669,19 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：写完 some people 之后要说第二拨人 —— 先落 others，⛔ 不要把 some 再用一次。
 
 **题面**
-"有些人靠讲道理说服你，另一些人靠情绪带动你。"（"另一些人"用**一个词**说 · ⛔ 不许用 some／other people）
+"有的孩子喜欢画画，另一些更喜欢踢球。"
+　　★ 零提示：others／other kids 都算对；她掉过的是 some ones
 
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `while some ones speak with so much emotion`
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [3] · `some people persuade you with reason, while others win you over through emotion.` —— 第二拨人用 others 一个词顶。连错 1 清零、连对 0 → 1
 - 2026-09-27 ✅ 在池第 1 组 · `Some people persuade you with logic, while others drive you with emotion.` —— others 到位
   ｜drive you with emotion ⚠️ ⇒ 建号 #363（appeal to sb's emotions）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"一个词 ＋ ⛔ some／other people"，改零提示（others／other kids 都算对），逼的是 some ones；换成画画踢球场景
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 **logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
@@ -14695,7 +14704,8 @@ magic→magical · music→musical · practice→practical · politics→politic
 找法：写完 logic，看后面还有没有名词。有 ⇒ 补 -al。
 
 **题面**
-"一个逻辑很强的人"（用 **logic** 那个词的家族说 · ⛔ 不许用 rational／reasonable／smart）
+"她是个逻辑特别强的人，跟她吵架从来没赢过。"
+　　★ 零提示：a very logical person／she has really strong logic 都算对；她掉过两次的是 logic 直接修饰名词（a strong logic thinker）
 
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `Some people are strong logic thinkers`
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [4] · `A logical thinker.` —— logic 后面挂名词 ⇒ logical。连错 1 清零、连对 0 → 1
@@ -14704,10 +14714,12 @@ magic→magical · music→musical · practice→practical · politics→politic
   最小改 `A strong logical thinker`
 - 2026-09-28 ✅ 在池第 1 组 · `a strong logical thinker.`
 - 2026-09-29 ✅ 在池第 1 组 · `A strong logical thinker.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"logic 的家族 ＋ 排除项"，改零提示整句，logic 直接修饰名词这条她掉过两次的路照旧开着；换成吵架场景
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
@@ -14735,7 +14747,7 @@ magic→magical · music→musical · practice→practical · politics→politic
 找法：说到"在…层面"，**先看冠词** —— a/an（从某个角度）⇒ on；the ＋ 能跟别的层并排（国家层／个人层／社会层）⇒ at。
 
 **题面**
-"在情感层面上跟人连起来"（"在…层面上"用 **level** 那个名词说 · ⛔ 不许用 emotionally）
+"好的广告往往是在情感层面上打动人。"（"在…层面上"用 **level** 说）
 
 - 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `they quickly connect at an emotional level`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 - 2026-09-22 📝 **正文订正（她当场推翻我写窄的判据）**：她问「at the social level 是 at 还是 on」——
@@ -14744,6 +14756,8 @@ magic→magical · music→musical · practice→practical · politics→politic
   ⛔ 判定口径同步放宽：她若答 `at the … level` 且说的是层级 ⇒ **判 ✅**；本条真正要卡的只有"从某个角度"那一格该用 on。
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [7] · `Connect with people on an emotional level.` —— on ＋ an ＋ 形容词 ＋ level，connect 带上 with people。首测，连对 0 → 1
 - 2026-09-28 ✅ 在池第 1 组 · `You connect with others on an emotional level.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"⛔ emotionally"，只点名 level，on／at 与冠词留给她；换成广告打动人场景
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
@@ -14771,11 +14785,13 @@ persuade 偏"让人做"）。
 找法：要说"说服"这件事本身（当名词用），先问一句 —— persuade 的名词形是什么？
 
 **题面**
-"成功的说服" ／ "说服的艺术"（"说服"两处都用**一个名词**说，**p** 开头 · ⛔ 不许用 persuading）
+"做销售最要紧的说服能力"（让人被你说动的那种本事）
 
 - 2026-09-22 新建 · 新题 bank:1102（P3）· 触发原话 `successful persuasion(这个单词背一下)`（⭐ 她点名要背，词本身用对了）
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [8] · `successful persuasion. The art of persuasion.` —— 两处都调出名词 persuasion。首测，连对 0 → 1
 - 2026-09-28 ✅ 在池第 1 组 · `successful persuasion. the art of persuasion.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"一个名词、p 开头 ＋ 排除项"，改中文释义；换成销售说服能力场景（09-26 发过的两个块⛔不复用）
 
 ### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
 类型 语法 ｜ 新建 2026-09-26
@@ -14808,16 +14824,18 @@ persuade 偏"让人做"）。
 找法：写完 get to，看后面是不是一个动词；不是 ⇒ 补一个（be／stay／chill／go）。
 
 **题面**
-"度假的时候，你能在海边待上一整天。"（"能"用 **get** 说 · ⛔ 不许用 can／be able to）
+"当老师最开心的，就是能看着孩子们一点点长大。"（"能"用 **get to** 说）
 
 - 2026-09-26 ❌ 首犯 · 付息日 a 在池第 1 组 [6]（#353 同句）· 原话 `You get to somewhere with a totally different vibe.`
 - 2026-09-27 ✅ 在池第 1 组 · `When you're on vacation, you get to speed the whole day at the beach.` —— get to ＋ 原形到位
   ｜speed ＝ spend 打漏 n，§2.1 拼写不算
 - 2026-09-28 ✅ 在池第 1 组 · `When you are on vacation, you get to spend the whole day at the beach.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ can／be able to"，正向点名 get to，后面接动词原形留给她；换成当老师场景
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 "准点下班／到点就走" ＝ **get off work on time**（也说 leave work on time）。
@@ -14839,11 +14857,13 @@ persuade 偏"让人做"）。
 找法：说"下班"时先问一句 —— 是到点走还是提前走？到点 ⇒ on time；提前才是 early。
 
 **题面**
-"每天都能准点下班"（"准点下班"用 **get** 起头说 · ⛔ 不许用 early）
+"自从换了工作，我终于能准点下班了。"（"下班"用 **get off** 说）
 
 - 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `If you can leave work early`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 - 2026-09-27 ✅ 在池第 1 组 · `You can get off work on time every day.` —— 首测，块一字不差
 - 2026-09-29 ✅ 在池第 1 组 · `get off work on time every day.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"get 起头 ＋ ⛔ early"，只点名 get off，on time 留给她；换成换工作场景
 
 ### 362 · turn down ＋ 机会（没人会拒绝…；⛔ no one can refuse）
 类型 词组 ｜ 新建 2026-09-26
@@ -14868,8 +14888,10 @@ persuade 偏"让人做"）。
 找法：说"没人会拒绝"时，情态动词先落 would；拒绝的是机会 ⇒ turn down。
 
 **题面**
-"这么好的工作，没人会拒绝。"（"拒绝"用 **turn** 说 · ⛔ 不许用 refuse／say no）
+"那家公司给我开了很高的工资，我最后还是拒绝了。"（"拒绝"用 **turn** 说）
 
 - 2026-09-26 新建 · 付息日 d 段重答 bank:778（R16）· 触发原话 `no one can refuse a job with reasonable hours and job security`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 - 2026-09-27 ✅ 在池第 1 组 · `No one would turn down a job this good.` —— 首测，turn down 到位
 - 2026-09-29 ✅ 在池第 1 组 · `Nobody would turn down a job this good.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ refuse／say no"，只点名 turn；换成拒绝高薪场景
