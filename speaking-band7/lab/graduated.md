@@ -4619,7 +4619,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 134 · 不是所有动词都要宾语（decide/choose/help/manage/win 能单独站住）
 类型 语法 ｜ 旧号 B221
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **不是所有动词都要宾语**：decide／choose／help／manage／win 这几个能单独站住 —— `I can't **help**.`
@@ -4643,13 +4643,15 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-16 ✅
 - 2026-09-09 ✅ 复检 · 第 3 组 · `I can't help` —— 动词单独站住，⛔ 没补宾语
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；I can't help 这类不及物用法她一直对（过度泛化只是风险提示，没有一次实例）
 - 备注 过度泛化警报：修一处，隔壁被带偏（教练纠了两次"缺宾语"，她给不及物动词也硬加）
 - ⚠️ **必须和 #18 一起读**（08-19 判重发现）：#18 是"英文动词必须带宾语"，本条是它的白名单。
   两条不冲突但会互相带偏 ⇒ 判之前先查白名单
 
 ### 135 · 中文的"社会/大家/人们"→ 英语常用 there is 或被动吃掉
 类型 结构 ｜ 旧号 B222
-状态 连对2 连错0 上次2026-09-28 ｜ 题型 整句 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-09-28 ｜ 题型 整句 ｜ 退池 ｜ **回潮 2026-09-09**（08-20 毕业 → 09-09 复检答"忘了"：题面当天补上排除项、考位才露出来，there is ／ 被动两条路都没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-10 ✅ ＋ 09-11 ✅；09-09 回潮后第二次毕业）
 **问题是什么**
 中文的"社会／大家／人们"→ 英语常用 **there is** 或**被动**吃掉：
 `There are really high expectations on young people.` ／ `**there is** widespread agreement that this is wrong.` ／
@@ -4698,13 +4700,15 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-18 ✅ 复检 · 学习日 复检第 3 组 · `Young people face high expectations now. / The general feeling is that is wrong.`——两句都没让"社会／大家"当主语（受事提上来 ／ 名词化 the general feeling）
   ｜⚠️ that is wrong → that this is wrong（that 从句自己要有主语，只进这一行）
 - 2026-09-28 ✅ 复检第 2 组 · `Expectations for young people run way too high. There's a widespread feeling that it's just wrong.`
+- 2026-09-29 📝 退池 · ① 同级说法
+  `Society expects too much of young people.`／`Everyone thinks this is wrong.` 都是地道英语（条目自己写着），there is／被动只是另一种说法；09-09 那次"忘了"是没调出偏好走法，⛔ 不是说错 ⇒ 中译英里产不出 ❌
 
 ### 136 · tell ＋ 有内容的东西（a joke／a story／the truth）
 类型 搭配 ｜ 旧号 B223
 状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-07**（08-20 毕业 → 09-07 复检答 `to be honest`，题面已是完整句、主语与"终于"都在，插入语挂不上去 ⇒ 真掉，撤销毕业、连对清零。★ 09-05 那次答的也是 to be honest，但当时题面被粒度整改截断成裸块「说了实话」与 🎓#232 撞车 ⇒ 判 ◎ 作废，⛔ 不计连击）｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-09 ⚡ 自评免测 ＋ 09-10 ✅；09-07 回潮后第二次毕业）
 **问题是什么**
 **tell ＋ 有内容的东西**：a joke ／ a story ／ **the truth** —— `He finally **told the truth**.`
-同一格里的邻居（别串）：confess／admit／**come clean** 都合法、都绕开这个搭配 ⇒ 题面把三个都排除；
+同一格里的邻居（别串）：confess／admit／**come clean** 都合法、都绕开这个搭配 ⇒ 题面正向点名 tell；
 ⚠️ `to be honest` 是**插入语**，在主语与"终于"都在的完整句里挂不上去（09-07 那次就是这么掉的）；
 　🎓#232（"说实话"）与本条只差一个"了"，缩短题面时会撞车（09-05 判 ◎ 的原因）。
 判据一句话："说了实话"这件事是句子的**谓语** ⇒ tell ＋ the truth；`to be honest` 只能当插入语。
@@ -4721,7 +4725,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：中文"说了实话"是谓语，先落 told the truth；`to be honest` 只放在句首当插入语。
 
 **题面**
-"他终于说了实话。"（⛔ 不许用 confess／admit／come clean）
+"他憋了好几天，最后还是跟他妈妈说了实话。"（"说了实话"用 **tell** 说）
 
 - 2026-08-13 ✅
 - 2026-08-16 ❌
@@ -4740,10 +4744,12 @@ something to look forward **to** ／ a pen to write **with**。
   ★ 09-05 那次是缩短题面撞了 🎓#232，整句题面下直接命中 ⇒ **连对2，毕业**
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉三个排除项，正向点名 tell，the truth 留给她（她掉过的是用插入语 to be honest 去顶谓语）；换成跟妈妈坦白场景
 
 ### 137 · know（掌握信息）／tell（分辨得出）／get（听懂，只说 I get it）
 类型 词汇 ｜ 旧号 B224
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **know（掌握信息）／tell（分辨得出）／get（听懂，只说 I get it）**：
@@ -4769,6 +4775,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `I can't tell the difference between the two` ＋ `no one can tell he was the one who did it`
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I can't tell the difference（tell 调出来了）
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-09-29 📝 退池 · ③ 题面收不拢
+  "分不出区别"说 can't see the difference 同样地道，不点名逼不出 tell、点了就是给答案；08-16 那次 ❌ 原话未存，此后全对
 
 ### 138 · a / an 看【读音】不看拼写（an hour／a university）
 类型 语法 ｜ 旧号 B225
@@ -4815,7 +4823,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 139 · every / each / another / any(单指) 后面永远跟单数
 类型 语法 ｜ 旧号 B226＋B115
-状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-15**（合并后重算）｜ 题型 词组
+状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-15**（合并后重算）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **every / each / another / any（单指）后面永远跟单数**：every student ／ almost any question。
@@ -4842,12 +4850,14 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-16 ✅
 - 2026-08-19 📝 题面整改：原题面"每个人都要签到。"与 🎓#143 的第一句完全相同 ⇒ 换一句只测"every ＋ 单数"
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 4 题整串，她原话："1-4 直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-09 是 ◎）；every／each ＋ 单数她一直对（形态类、从没掉过）
 - 备注 合并 2026-08-19：#199（any ＋ 单数 ＝ 任何一个）并入本条 —— 本条是全集
   （every/each/another/any 后面永远跟单数），#199 只是其中的 any 那一格
 
 ### 140 · I'd love（现在的意愿）≠ I love（长期喜好）
 类型 语法 ｜ 旧号 B227
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **I'd love（当下这件事的意愿）≠ I love（长期喜好）**：`I'd love to try it.`
@@ -4873,10 +4883,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ 点名 · `I'd love to try it if I have a chance`（同句 have a chance 归新号 #172）
 - 2026-09-10 ✅ 复检 · 第 4 组 · `I'd love to try it.` —— **I'd** love ＝ 当下的意愿，⛔ 不是 I love
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "很想试试"说 I really want to try it 完全成立（08-16 她答的就是它），I'd love to 只是更客气的说法 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 141 · 过去完成时必须有另一个更晚的过去事件当参照
 类型 语法 ｜ 旧号 B228
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **过去完成时必须有另一个更晚的过去事件当参照**：
@@ -4903,12 +4915,14 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-10 ✅ 复检 · 第 4 组 · `I waited for an hour before he showed up.` ／ `the store had already closed by the time we got there.`
   第二句的过去完成有参照事件（by the time we got there）⇒ 本条考点正面命中
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-13 是教练误判、被她推翻）；过去完成时她一直用对（时态类、从没掉过）
 - 备注 参照词 ✅ before/by the time/when/until/after ｜ ❌ and（并列，同一时间平面）
 - 备注 08-13 教练用这条判错一次，她当场推翻（until 本身就是参照点），成立
 
 ### 142 · 中文"连…都没/都不" → 否定放助动词上，even 跟在后面
 类型 结构 ｜ 旧号 B231
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 中文"连…都没／都不" → **否定放助动词上，even 跟在后面**：
@@ -4941,6 +4955,8 @@ something to look forward **to** ／ a pen to write **with**。
   两句都是「否定挂在助动词上、even 跟在后面」⇒ 位置对
   ★ 本场发题前刚补的点名「两句都用 even 说」把这一格真正测到了：旧题面下 `He didn't say a word.` 就能过关
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；"连…都不"里 even 的位置她每次都放对，`He didn't say a word.` 这类绕法也完全地道
 
 ### 143 · 哪些动词后面要带 to（need to/want to/manage to；情态和 make/let/watch 不带）
 类型 语法 ｜ 旧号 B232
@@ -5049,7 +5065,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 145 · bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）
 类型 词汇 ｜ 旧号 B234
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）**：
@@ -5073,6 +5089,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `bring your computer when you come tomorrow.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `bring the computer` —— "到我这儿"用 bring，⛔ 没用 take／fetch
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；bring／take 的方向她一直用对
 
 ### 146 · know 是状态，不能表"得知"这个动作（find out／hear about）
 类型 词汇 ｜ 旧号 B235
@@ -5094,7 +5112,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：中文"知道了／发现"如果指的是那一瞬间，就别用 know —— 换 find out／realise。
 
 **题面**
-**点名**："我是从新闻上知道这事的。" ／ "我后来才发现他早就走了。"（两句里"知道/发现"这个**动作**都不许用 know 说）
+"我是刷手机的时候才知道他们俩分手了。"（"知道"指得知消息的那一下）
 
 - 2026-08-16 ❌
 - 2026-08-17 ❌
@@ -5105,11 +5123,13 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· found out about this ／ realized later
   —— 两句都避开了 know 表"得知"
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
+  去掉"不许用 know"负向写法，改成中文释义把"知道"限定成得知的那一下（find out／hear／realise 都算对，knew 就是她掉过两次的那条路）；换成刷手机得知分手场景
 - 备注 the news 要带 the（on/from/in the news）—— 08-19 她自发带了 the；08-20 仍带对
 
 ### 148 · 状态用简单时，变化用完成时（He isn't familiar with it yet.）
 类型 语法 ｜ 旧号 B237
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **状态用简单时，变化用完成时**：`He **isn't** familiar with it yet.`（状态）／ `I'**ve known** him for five years.`（for ＋ 时长）。
@@ -5147,12 +5167,14 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `he's not familiar with the process yet. / I've known him for five years.`
   —— 状态用简单时（⛔ 没写成 hasn't been familiar）＋ 持续到现在用完成时
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；状态用简单时／for ＋ 时长用完成时她一直对（时态类、从没掉过）
 
 - 备注 08-16 她质疑并修正了教练的过度概括（always 不强制完成时），成立；真正强制的只有 for＋时长／since＋时点
 
 ### 149 · 动词后面别多加词（celebrate sth／discuss sth／marry sb／bring sb up）
 类型 搭配 ｜ 旧号 B238
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **动词后面别多加词**：celebrate sth ／ discuss sth ／ marry sb ／ bring sb up ——
@@ -5177,16 +5199,18 @@ something to look forward **to** ／ a pen to write **with**。
   ★ `rather than ＋ -ing` 跟在完整分句后面成立（We stayed in rather than going out.），不判错
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `celebrate the holidays` ／ `bring me up` —— 两个动词后面都没多加词
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；celebrate／bring up 后面直接跟宾语她一直对（旧题面点名即答案）
 
 ### 152 · the first / last TIME ＋ 完整从句（time 不能省）
 类型 结构 ｜ 旧号 B241
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）
 
 **问题是什么**
 **the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
 中间必须有一个名词把从句接住，那个名词就是 **time**；⛔ 序数词 first 自己带不了从句。
 同族：the last time I saw him ／ every time she calls me。
-同一格里的邻居（别串）：⛔ 不许用 when 起头（题面已排除）。
+同一格里的邻居（别串）：when I first … 也合法 ⇒ 题面正向点名 the first 起头，time 留给她。
 判据一句话：first／last 后面跟的是一整句话吗？是 ⇒ 中间必须补 time。
 
 **怎么发现的**
@@ -5199,7 +5223,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：中文"我第一次看见它**的时候**"里，"的时候"就是那个 time —— 中译英最容易把它当虚词丢掉。
 
 **题面**
-"我第一次看见它的时候"（⛔ 不许用 when 起头）
+"我第一次一个人去北京的时候，连地铁都不会坐。"（"第一次…的时候"用 **the first** 起头）
 
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `the first time I saw it I just stood there`（time 没省 ＋ 顺带自发用出 #163 的块）
@@ -5211,10 +5235,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-13 ✅ 学习日 在池第 1 组 · `The first time I saw it.`——time 没省、没用 when
 - 2026-09-15 ✅ 学习日 在池第 1 组 · `The first time I saw it.` → **连对2，毕业**
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 结构 ⛔ 不许标词组）
+  去掉"⛔ 不许用 when"，正向点名 the first 起头，time 留给她（她掉过的就是 The first I saw it）；换成第一次去北京场景
 
 ### 153 · work AT（下功夫）／work ON（做某项目）／work IN（领域）；"干这行"＝ I've been doing this
 类型 搭配 ｜ 旧号 B242
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **work AT（下功夫）／work ON（做某个项目）／work IN（领域）**；
@@ -5240,10 +5266,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `I've been in this field for fourteen years.`
   ★ 她换了一条路（be in this field）绕开了 work 的介词坑 —— 合法且符合题面 ⇒ 判 ✅（§6「判定依据是题面」）
 - 2026-09-21 ⚡ 自评免测 · 复检第 4 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "干这行十四年了"说 I've been in this field for fourteen years 完全成立（09-10 她答的就是它），I've been doing this 只是另一种落点 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 154 · 法律/政策配的动词不是 happen（came in／was introduced）
 类型 搭配 ｜ 旧号 B243
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **法律／政策配的动词不是 happen**：`the law **came in**` ／ was introduced。
@@ -5266,6 +5294,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `the law came in when I was a kid.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `The law came in` —— ⛔ 不是 happen
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；"法律出台"她答 came in，was introduced／was passed 也都对，happen 这条错路从没走过
 
 ### 155 · as … as 中间只能放原级；few（可数）／little（不可数）
 类型 语法 ｜ 旧号 B244
