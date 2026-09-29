@@ -14450,7 +14450,7 @@ You can do pretty much anything online. ／ I booked it online.
 找法：说到"通过网络／在网上"，先落 online。
 
 **题面**
-"在网上预约挂号"（不用去窗口排队，手机上就能办）
+"在网上预约挂号"（手机上直接就能办）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `you can do pretty much anything online.` —— 一个副词 online 挂句末；首测一次中
