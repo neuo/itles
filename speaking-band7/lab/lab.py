@@ -88,6 +88,7 @@ ALL_SYMBOLS = sorted(list(JUDGE) + list(NEUTRAL) + list(LEGACY) + list(TRACE),
 M_MORPH = "形态类·不召回"          # §3.4  永不出题
 M_ONLYLOG = "只记录·不出题"        # §3.4④ 同上，08-27 起的新写法
 M_SPELL = "拼写类·不召回"          # §2.1② 永不出题
+M_RETIRED = "退池"                 # §3.6 测不出缺口 ⇒ 永不出题（条目与日志留档，自由产出里再掉 ⇒ 撤销退池）
 M_MERGED = "合并条·出题多句覆盖"    # §3.2c 出题必须多句覆盖全部成员
 M_STUBBORN = "顽固"
 
@@ -269,7 +270,7 @@ class Entry:
         """**不出中译英题**的全部口径 —— 题面节写说明即可，⛔ 不要求引号句：
         `形态类·不召回` ／ `⚪ 只记录·不出题` ／ `拼写类·不召回`。
         ⛔ 别拿题型格当这个判据：形态类靠标记挡，题型格是默认档也照样不出题。"""
-        return bool(self.marks & {M_MORPH, M_ONLYLOG, M_SPELL})
+        return bool(self.marks & {M_MORPH, M_ONLYLOG, M_SPELL, M_RETIRED})
 
     @property
     def active(self):
@@ -285,7 +286,7 @@ class Entry:
 
     @property
     def block_reason(self):
-        for m in (M_MORPH, M_ONLYLOG, M_SPELL):
+        for m in (M_MORPH, M_ONLYLOG, M_SPELL, M_RETIRED):
             if m in self.marks:
                 return m
         return None
@@ -421,7 +422,7 @@ class Entry:
         （她 2026-09-05 定：毕业不是冻结，只是在梯子上往上一格）。"""
         if self.tomb or self.no_ask_any:
             return False
-        return not (self.marks & {M_MORPH, M_ONLYLOG, M_SPELL})
+        return not (self.marks & {M_MORPH, M_ONLYLOG, M_SPELL, M_RETIRED})
 
     def seen_on(self, d):
         return any(h.date == d for h in self.history)
@@ -605,7 +606,7 @@ def parse_file(path, src):
             mo = re.search(r"🎓\s*已毕业\s*(20\d\d-\d\d-\d\d)?", body)
             if mo:
                 cur.grad = mo.group(1) or "—"
-            for mk in (M_MORPH, M_ONLYLOG, M_SPELL, M_MERGED, M_STUBBORN):
+            for mk in (M_MORPH, M_ONLYLOG, M_SPELL, M_RETIRED, M_MERGED, M_STUBBORN):
                 if mk in body:
                     cur.marks.add(mk)
             mo = RE_ASK.search(body)
@@ -917,6 +918,12 @@ def check_entry(e, touched_lines=None, all_nums=None):
         P.append(("ERROR", "在 graduated.md 里却不是 🎓 —— 回潮的条目必须搬回 problems.md"))
     if e.marks & {M_MORPH, M_ONLYLOG} and M_SPELL in e.marks:
         P.append(("WARN", "同时挂了两类「不召回」标记，口径重叠 —— 留一个就够"))
+    if M_RETIRED in e.marks:
+        if e.marks & {M_MORPH, M_ONLYLOG, M_SPELL}:
+            P.append(("WARN", "退池又挂了形态类／只记录／拼写类标记 —— 口径重叠，留一个就够"))
+        if not any(h.symbol == "📝" and M_RETIRED in (h.occasion or "") for h in e.history):
+            P.append(("ERROR", "状态行标了退池，历史里却没有一行 `- YYYY-MM-DD 📝 退池 · <理由>` —— "
+                               "退池是判断，理由必须留档（§3.6）"))
     return P
 
 
@@ -1519,7 +1526,7 @@ def cmd_stats(args):
     print(f"可出题     {len(drawable)} 条　←【复习组只从这里抽】")
     if not args.brief:
         print(fmt_ids([e.num for e in drawable]))
-    for r in (M_MORPH, M_ONLYLOG, M_SPELL):
+    for r in (M_MORPH, M_ONLYLOG, M_SPELL, M_RETIRED):
         if blocked.get(r):
             print(f"   ⛔ 剔除 · {r:<14s} {len(blocked[r])} 条")
             if not args.brief:
@@ -3005,6 +3012,7 @@ TYPES = [
     ("morph",     "形态类·不召回", f"状态行标记 `{M_MORPH}`（§3.4）",           lambda e: M_MORPH in e.marks),
     ("onlylog",   "只记录·不出题", f"状态行标记 `{M_ONLYLOG}`（§3.4④）",        lambda e: M_ONLYLOG in e.marks),
     ("spell",     "拼写类·不召回", f"状态行标记 `{M_SPELL}`（§2.1②）",          lambda e: M_SPELL in e.marks),
+    ("retired",   "退池",         f"状态行标记 `{M_RETIRED}`（§3.6 测不出缺口，永不出题）", lambda e: M_RETIRED in e.marks),
     ("multi",     "合并条·多句覆盖", f"状态行标记 `{M_MERGED}`（§3.2c）"
                                     " ⇒ 出题必须多句覆盖全部成员",              lambda e: M_MERGED in e.marks),
     ("stubborn",  "顽固",         f"状态行标记 `{M_STUBBORN}`",                lambda e: M_STUBBORN in e.marks),
@@ -3476,6 +3484,9 @@ def cmd_append(args):
             errs.append(f"{tag} 找不到状态行")
         else:
             b["pre_err"] = {m for lv, m in check_entry(e, set(), None) if lv == "ERROR"}
+            if M_RETIRED in e.marks and b["symbol"] in ("✅", "❌", "⚡"):
+                errs.append(f"{tag} 这条已**退池** —— 自由产出里又掉了 ⇒ 先撤销退池（删状态行的退池标记、"
+                            f"补一行 📝 撤销退池），再记 {b['symbol']}（§3.6）")
             if e.marks & {M_MORPH, M_ONLYLOG} and b["symbol"] in ("✅", "❌", "⚡"):
                 errs.append(f"{tag} 这是**形态类**条目 —— §3.4② 在哪儿掉都只记 ⚪，"
                             f"⛔ 不许记 {b['symbol']}")

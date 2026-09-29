@@ -6,7 +6,7 @@ import os, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 SUITES = ["test_migrate.py", "test_count.py", "test_prompts.py", "test_deliver.py",
           "test_check.py", "test_queue.py", "test_recheck.py", "test_gates.py",
-          "test_body.py", "test_lookback.py", "test_redo.py"]
+          "test_body.py", "test_lookback.py", "test_redo.py", "test_retire.py"]
 tot = {"pass": 0, "fail": 0}
 bad = []
 for s in SUITES:
