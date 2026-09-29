@@ -14272,7 +14272,7 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 
 ### 345 · 在哪台机器上干活 ＝ ON ＋ 机器（on his own laptop／device；⛔ using his device）
 类型 搭配 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-09-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 在某台机器上做事，介词用 **on** ＋ 那台机器：on his own laptop ／ on his own device ／ on my phone ／ on the office computer。
@@ -14294,7 +14294,8 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 找法：说"用某台机器干活"之前，先把 using 换成 on —— 机器是干活的地方，不是工具。
 
 **题面**
-"他用自己那台笔记本调试"（"用…那台机器"用一个介词说 · ⛔ 不许用 using／with／from）
+"我一般在自己的平板上看电子书。"
+　　★ 零提示：中文"在…上"自然落 on；她要学的就是 on my tablet 这条（⛔ using my tablet 是她原来的路）
 
 - 2026-09-15 新建 · 新题 bank:1059（P2 · cold）· 触发原话 `started debugging using his own device` · ⭐ 她点名要学
 - 2026-09-18 📝 题面整改：排除项补 `／from` · 发题前审核（§6.5 第 7 项）
@@ -14307,10 +14308,12 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
   device 是合法说法，不是错；本条考点只剩介词 on（⛔ using 起头）⇒ 标题／问题是什么／我错在哪同步改，题面排除项去掉 device
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `he debugs on his own laptop.` —— 在哪台机器上干活 ＝ on ＋ 机器；连对2 ⇒ 毕业
 - 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he debugged on his own laptop`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"用一个介词 ＋ 三个排除项"，改零提示整句：中文"在…上"自然落 on；换成平板看电子书场景
 
 ### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-21**
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-21**
 
 **问题是什么**
 中文"…的魅力所在／问题所在／关键所在"，英语落成 **where X lies**（或 where X is／where X comes from）：
@@ -14334,7 +14337,8 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 找法：说完 where ＋ 一个名词，回头看后面有没有动词；中文是"所在"就补 lies。
 
 **题面**
-"读书的魅力所在"（"所在"用一个动词说，放在最后）
+"我觉得这就是旅行的意义所在。"
+　　★ 零提示：where the meaning of travel lies／is 与 what travel is all about 都算对；她掉过的是 where ＋ 名词后面没动词
 
 - 2026-09-19 ❌ 首犯 · 付息日 d 段重答 R13（P3）· `that's exactly where the magic of reading books.`
   最小改 `that's exactly where the magic of reading books lies.`
@@ -14342,6 +14346,8 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `that is where the magic of reading lies` —— where 后面那句有动词，"所在"落成句末的 lies；首测一次中
 - 2026-09-21 ✅ 学习日 在池第 1 组 [3] · `It's where the magic of reading lies.` —— where 引出的句子挂上了动词 lies，且放在最后。连对 1 → 2 ⇒ 🎓
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"一个动词、放在最后"形态描述，改零提示整句（where … lies／is 与 what … is all about 都算对），逼的是她掉过的 where ＋ 名词不带动词
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
@@ -14369,7 +14375,8 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
 
 **题面**
-"对上班族来说，他们一般没得选，只能在外面随便吃点。"（⛔ 不许用 option／choice 当主语）
+"对老年人来说，他们还是更喜欢去实体店买东西。"
+　　★ 零提示：Older people … ／ For older people, shopping in person … 都算对；她要改掉的是 For X, they … 主语说两遍
 
 - 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
@@ -14377,6 +14384,8 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 - 2026-09-22 ✅ 学习日 在池第 1 组 [3] · `Office workers have no choice but to grab a quick bite out.` —— Office workers 直接当主语，没有 For office workers, they… 那一层 ⇒ **连对 2，毕业**
   ⚠️ diff-2：漏了"一般"（→ usually，🎓#22 她会，检索滑手）· a quick bite out → a quick bite somewhere（grab a quick bite 自带"在外面"，out 多余）
 - 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"⛔ option／choice 当主语"，改零提示；换成老年人去实体店场景 —— For X, they … 主语说两遍这条路照旧开着
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
@@ -14403,7 +14412,7 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
 找法：说到"好吃"先看主语是不是吃的东西；是动作（cooking／eating out）就把"好吃"挂到 the food 上。
 
 **题面**
-"在家做饭更干净，也更好吃。"（"好吃"用 **taste** 说 · ⛔ 不许用 delicious／tasty）
+"自己在家烤的蛋糕，比外面买的好吃多了。"（"好吃"用 **taste** 说）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `cooking at home is cleaner and way more delicious`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `Cooking at is cleaner and the food tastes more delicious.` —— "好吃"挂在 the food 上，没说成 cooking is delicious；首测一次中
@@ -14413,6 +14422,8 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
 - 2026-09-22 ✅ 学习日 在池第 1 组 [4] · `Cooking at home is much cleaner, and the food tastes far better.` —— "好吃"挂在 the food 上、用 taste，没用 delicious／tasty ⇒ **连对 2，毕业**
   ★ 09-20 那次写的是 tastes more delicious，本次比较级自己走到了 better ⇒ 条目里"delicious 不加 more"那一条当场兑现；far better ⛔ 不改（与 way better 同级）
 - 2026-09-28 ✅ 复检第 2 组 · `Cooking at home is much cleaner, and the food tastes better.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ delicious／tasty"，只点名 taste，主语挂哪、比较级怎么说留给她；换成烤蛋糕场景
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
@@ -14439,16 +14450,18 @@ You can do pretty much anything online. ／ I booked it online.
 找法：说到"通过网络／在网上"，先落 online。
 
 **题面**
-"网上什么都能办"（"网上"用一个词说 · ⛔ 不许用 internet）
+"在网上预约挂号"（不用去窗口排队，手机上就能办）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R12（P3）· 原话 `Through the internet, you can do pretty much anything`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `you can do pretty much anything online.` —— 一个副词 online 挂句末；首测一次中
 - 2026-09-22 ✅ 学习日 在池第 1 组 [5] · `You can do pretty much everything online.` —— 一个副词 online 挂句末，没用 internet／through the internet ⇒ **连对 2，毕业**
 - 2026-09-28 ✅ 复检第 2 组 · `You can do petty much everything online.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"一个词 ＋ ⛔ internet"，改中文释义；换成网上挂号场景
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 "让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
@@ -14469,12 +14482,14 @@ You can do pretty much anything online. ／ I booked it online.
 找法：imagination 后面想接"放开／自由发挥" ⇒ run wild。
 
 **题面**
-"让想象力自由发挥"（用 **run** 说）
+"放假了，就让孩子们的想象力放开了跑吧。"（"放开了跑"用 **run** 说）
 
 - 2026-09-19 新建 · 付息日 d 段重答 R13（P3）· 原话 `Reading gives you room to run with your imagination`（⚠️ 更地道的表达，她确认建号）
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `let your imagination run wild.` —— imagination ＋ run wild 整块；首测一次中
 - 2026-09-22 ✅ 学习日 在池第 1 组 [6] · `Let your imagination run wild.` —— imagination ＋ run wild 整块，没写成 run with your imagination ⇒ **连对 2，毕业**
 - 2026-09-28 ✅ 复检第 2 组 · `let your imagination run wild.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 run，let … imagination … wild 怎么搭留给她；换成孩子放假场景
 
 ### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
 类型 语法 ｜ 新建 2026-09-20
@@ -14501,16 +14516,19 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 找法：说完 feel／look／sound，看后面第一个词 —— 是个名词就补 like。
 
 **题面**
-"去趟古迹就像短暂逃离一下。"（"像"那个词不许省 · ⛔ 不许用 is／seems）
+"这家小咖啡馆让人感觉就像在自己家里一样。"
+　　★ 零提示：feels like home／feels like being at home 都算对；她掉过的是 feel 直接挂名词、漏了 like
 
 - 2026-09-20 ❌ 首犯 · 新题 bank:1038（P3）· 原话 `Going to a historical site feels a mini-escape.`
 - 2026-09-21 ✅ 学习日 在池第 1 组 [4] · `going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems（09-20 首犯正在这里）。连错 1 清零、连对 0 → 1
 - 2026-09-22 ✅ 学习日 在池第 1 组 [1] · `Going to ancient sites feels like a mini-escape.` —— feel ＋ 名词把 like 补上了，没用 is／seems ⇒ **连对 2，毕业**
 - 2026-09-28 ✅ 复检第 2 组 · `Going to ancient sites feels like a mini-escape.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"像那个词不许省 ＋ ⛔ is／seems"，改零提示；换成咖啡馆像家场景 —— feel 直接挂名词这条路照旧开着
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
@@ -14543,6 +14561,8 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   —— 提示不受粒度限制（§6②），补一句"单数"把 the real thing 变成唯一答案；考点（别把"真实感"名词化，改说动作）一个字没动
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [5] · `See the real thing in person.` —— the real thing 单数固定块，没用 feeling ⇒ **连对 2，毕业**
 - 2026-09-29 ✅ 复检第 2 组 · `see the real thing.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"单数固定块 ＋ ⛔ feeling／feel"，只点名 real；换成照片比不上亲眼看场景
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
