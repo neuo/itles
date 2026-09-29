@@ -7520,7 +7520,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
@@ -7555,10 +7555,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   ｜ ⚠️ play toys → play **with** toys（同题两次）⇒ 新建 #322
   ｜ ⚪ After kids → After **the** kids ⇒ 归 #63（形态类只记录）
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；-ing 短语的逻辑主语她每次都判对（09-07 两句分别处理正是这一判断）
 
 ### 216 · 东西不会自己 leave（His things ARE all over the floor）
 类型 结构 ｜ 旧号 B154
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **东西不会自己 leave** —— 东西当主语时用 be：`His stuff **is** all over the floor.`
@@ -7582,10 +7584,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 4 组 · `His stuff is all over the floor.` —— 东西当主语配 be，⛔ 没让东西自己 leave
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；东西当主语用 be ＋ 位置她一直对
 
 ### 217 · and 接第二个谓语时，否定必须带助动词
 类型 语法 ｜ 旧号 B155
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **and 接第二个谓语时，否定必须带助动词**：
@@ -7618,10 +7622,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 题面整改：补（⛔ 不许用 get away with）· 复检组发题前审核（§6.5 第 7 项）
   `Some people run red lights and get away with it.` 合法，第二个谓语不带否定，绕开"and 后否定要带助动词" ⇒ 补排除项
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-09 是 ◎）；and 后第二个谓语带助动词否定她一直对
 
 ### 218 · working people；traffic management 不带 the
 类型 语法 ｜ 旧号 B156
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **working people**（上班族）；**traffic management 不带 the**（抽象领域泛指裸用）：
@@ -7651,10 +7657,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 题面整改：补（第二句"交通管理"用 management 说）· 复检组发题前审核（§6.5 第 7 项）
   `Managing traffic comes down to two things.` 用动名词绕开 traffic management 这个名词块，冠词位不出现 ⇒ 点名 management
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；泛指裸用（冠词类、从没掉过）她一直对
 
 ### 219 · 口语选词 complicated／takeaway
 类型 词汇 ｜ 旧号 B158
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 口语选词：**complicated**（⛔ 不用 complex）／ **takeaway**（点外卖）。
@@ -7681,10 +7689,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
 - 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R11（P3 · 自由产出）· `eat out or order takeout`——外卖走口语默认款（takeout 与 takeaway 同一个块）
 - 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R12（P3 · 自由产出）· `order takeout, hail a ride, pay utility bills`
+- 2026-09-29 📝 退池 · ① 同级说法
+  "太复杂了"说 too complex 同样成立（旧题面"⛔ complex"是偏好不是错），takeaway 她一直对 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 220 · actually 的位置
 类型 结构 ｜ 旧号 B159
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **actually 的位置**：落在**主语与动词之间**（be 动词则放它后面）——
@@ -7709,10 +7719,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-09 ✅ 复检 · 第 4 组 · `He can finally see how tall a T-rex actually was.` —— actually 落在主语与动词之间，位置对
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
 - 2026-09-20 📝 学习日 新题 bank:1038（P3）· 自发命中留痕 · `people actually built this hundreds of years ago`（actually 的位置）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；actually 的位置她一直放对
 
 ### 221 · 肯定句里的 much → a lot of
 类型 语法 ｜ 旧号 B161a
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **肯定句里的 much → a lot of**：`I spent **lots of** time on chemistry.`
@@ -7737,10 +7749,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 4 组 · `I spent lots of time on chemistry.` —— 肯定句用 lots of，⛔ 没用 much
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；肯定句用 a lot of 她一直对（much 这条错路从没走过）
 
 ### 222 · 肯定句里的 for long → a long time
 类型 语法 ｜ 旧号 B161b
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **肯定句里的 for long → a long time**：目标形式是 `I waited **a long time**.`
@@ -7778,10 +7792,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   她答 `I wait for hours.`（合法、符合题面）⇒ 判 ✅；目标形式 `a long time` 仍未测到
   ⇒ 排除项由「⛔ ages」扩成「⛔ ages／hours —— 说的是"久"，不是"几个小时"」，次日起按新题面测
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；肯定句说"很久"她从没用过 for long（旧题面还堆了排除项）
 
 ### 223 · 肯定句里的 far → a long way
 类型 语法 ｜ 旧号 B161c
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **肯定句里的 far → a long way**：`I walked **a long way**.`
@@ -7806,10 +7822,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 4 组 · `I walked a long way.` —— 肯定句用 a long way，⛔ 没用 far
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；肯定句说"很远"她一直用 a long way
 
 ### 224 · discrimination AGAINST sb；age discrimination 不可数
 类型 搭配 ｜ 旧号 B165
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **discrimination AGAINST sb**（介词写死是 against）；**age discrimination 不可数**：
@@ -7835,10 +7853,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 3 组 · `age discrimination against people over 35`
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；discrimination against 她一直对
 
 ### 225 · 限定 ≠ 定指（她自己抓到的区别）
 类型 语法 ｜ 旧号 B166
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **限定 ≠ 定指**（⭐ 她自己抓到的区别）：
@@ -7866,10 +7886,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-09 ✅ 复检 · 第 4 组 · `I want a job with no overtime, and one that is stable.`
   —— a job（限定不定指）＋ one that is stable（用 one 顶替、⛔ 没写 the job）两处都对位
 - 2026-09-20 ⚡ 自评免测 · 复检第 4 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-10 是 ◎）；这是她自己抓到的区别，a job … and one that … 她一直对（冠词类、从没掉过）
 
 ### 226 · 关系代词做宾语可省、做主语不可省
 类型 结构 ｜ 旧号 B169
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **关系代词做宾语可省、做主语不可省**：
@@ -7905,10 +7927,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
     旧 "以后真用得上的、或者到处都会碰到的科目" → 新 "以后真用得上的、或者能让你少走弯路的科目"
     （第二个定语的中文主语变成"科目"本身 ⇒ 关系词只能做主语 ⇒ 不可省，考点这才有落点）
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；关系词省不省她一直判对（类型 结构却标词组的旧题面一并作废）
 
 ### 227 · clear ≠ clean（形容词层面）
 类型 词汇 ｜ 旧号 B170
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **clear ≠ clean（形容词层面）**：`air is **clean**`（干净、没脏东西）／ `it's **clear**`（晴、通透）。
@@ -7934,10 +7958,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 题面整改：补（两句都用一个 c 开头的形容词说）· 复检组发题前审核（§6.5 第 7 项）
   `The air is fresh.`／`It's sunny.` 都合法，两句都绕开 clean／clear 的分工 ⇒ 首字母 c 同时框住两个词，分不分得开正是考点
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；clean air／clear sky 她一直对（旧题面还靠首字母 c 硬框）
 
 ### 228 · look after sb（照顾）
 类型 词组 ｜ 旧号 B171d
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **look after sb** ＝ 照顾。
@@ -7962,10 +7988,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 3 组 · `look after kids`
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "照顾孩子"说 take care of 完全成立（旧题面靠"⛔ take care of"硬框），look after 只是另一个说法 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 229 · complain 不及物（complaining about it）
 类型 搭配 ｜ 旧号 B172
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **complain 不及物** —— 要接对象就得带 **about**：`complaining **about** it`。
@@ -7988,10 +8016,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-15 ✅
 - 2026-09-05 ✅ 复检组 · 第 5 组（打包）· `complain **about**`（不及物 ＋ about）
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；complain about 她一直对（旧题面点名即答案）
 
 ### 230 · "什么样的" ＝ what kind of；"适合住" ＝ good to live in
 类型 结构 ｜ 旧号 B174
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **"什么样的" ＝ what kind of**；**"适合住" ＝ good to live in**（句尾那个 in 不能丢）：
@@ -8022,6 +8052,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 题面整改：补（⛔ 不许用 Which 起头 · ⛔ 不许用 livable）· 复检组发题前审核（§6.5 第 7 项）
   `Which cities are good to live in?`／`What kind of city is livable?` 各绕开一半考点 ⇒ 补排除项
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  "什么样的城市适合住"说 What makes a city a good place to live? 完全合法（条目自己写着，旧题面堆了三个排除项）；live in 的句尾介词归 🎓#103 管
 
 ### 231 · 说"两类/三类"时每类要用复数（the fun ONES）
 类型 语法 ｜ 旧号 B176
