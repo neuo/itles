@@ -6113,7 +6113,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 175 · grow vs grow up（grow up 只用于人长大成人）
 类型 词汇 ｜ 旧号 B31a
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **grow vs grow up** —— **grow up 只用于人长大成人**；植物／数量变大一律 **grow**：`grow day by day`。
@@ -6140,16 +6140,18 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   grow / grow up 的分工（本条考点）测不到。
 - 2026-09-07 ✅ 复检 · 第 5 组（打包）· `grow day by day`（植物用 grow，⛔ 没落进 grow up）
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；grow／grow up 的分工她一直对
 
 ### 176 · efficient（省时间人力）vs effective（达到效果）
 类型 词汇 ｜ 旧号 B46
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **efficient（省时间人力）vs effective（达到效果）**：
 判据：effective ＝ 达到效果（有没有用）／ efficient ＝ 省时间省人力（快不快、省不省）。
 `The drug is pretty **effective**.`
 同一格里的邻居（别串）：`works well` 完全合法，但它**绕开形容词槽位** —— 09-05 掉的正是这一点
-（不是分不清这一对，是压力下用 works well 躲开了）；题面另排除 useful／helpful。
+（不是分不清这一对，是压力下用 works well 躲开了）；works well／useful 本身都合法。
 判据一句话：问的是"有没有用" ⇒ effective；"省不省事" ⇒ efficient。
 
 **怎么发现的**
@@ -6164,7 +6166,8 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 找法：先问这句说的是"有没有用"还是"省不省事"，再把那个**形容词**说出来 —— ⛔ 别用 works well 躲过去。
 
 **题面**
-"管用"（形容词，⛔ 不许用 useful／helpful）
+"这种背单词的方法对我特别有效，就是挺花时间的。"
+　　★ 零提示：effective／works well 都算对；"花时间"那半句正好把 efficient 放进对照 —— 她掉过的是把 efficient 当成"有效"
 
 - 2026-08-11 ❌ `the most efficient ways to keep up` → 该 effective/best
 - 2026-08-12 ✅
@@ -6185,10 +6188,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"⛔ useful／helpful"，改成零提示整句：effective／works well 都算对，"花时间"半句把 efficient 放进对照 —— 她 08-11 掉的正是拿 efficient 当"有效"
 
 ### 177 · 名词表语（a waste of time／a must／a plus）
 类型 结构 ｜ 旧号 B51
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **名词表语**：a waste of time ／ a must ／ **a plus** —— `Japanese is **a plus**.`
@@ -6216,10 +6221,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   ⇒ 加结构限定「表语用**名词**说」；⛔ 未给 a plus／a must／a waste of time 里的任何一个
 - 2026-09-09 ✅ 复检 · 第 3 组 · `Japanese is a plus` —— 名词表语到位
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ① 同级说法
+  `It helps if you know Japanese.` 完全合法（条目自己写着），名词表语 a plus 只是另一种说法 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 178 · only／all／最高级后面用 that 不用 which
 类型 语法 ｜ 旧号 B64
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **only／all／最高级后面用 that 不用 which**：`That's the **only** part **that** truly belongs to you.`
@@ -6245,10 +6252,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-18 📝 题面整改：补（"属于"用 belong 说 · 用一个关系从句说，关系词不许省）· 复检组发题前审核（§6.5 第 7 项）
   `That's the only part you really own.` 省掉关系词，合法且完全绕开 that／which ⇒ 用 belong 逼出主语关系从句，并写明关系词不许省
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法（原规则过严）
+  "the only part which …"在现代英语里并不算错（only 后用 that 只是偏好），口语里更常直接省掉关系词 ⇒ 中译英里产不出真错；08-12 那次 ❌ 原话未存
 
 ### 179 · that ＋ 形容词 ＝ "那么…"
 类型 语法 ｜ 旧号 B65
-状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **that ＋ 形容词 ＝ "那么…"**：`It's not **that** simple.` ／ `It's actually not **that** hard.`
@@ -6274,10 +6283,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-13 📝 题面整改：补（⛔ 不许用 so／such）· 复检组发题前审核（§6.5 第 7 项）
   `not so simple`／`not that simple` 都合法，so 绕开 that＋形容词 ⇒ 补排除项
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `it's not that simple. it's not that hard.`
+- 2026-09-29 📝 退池 · ① 同级说法
+  "没那么简单"说 not so simple 同样成立（旧题面靠"⛔ so／such"硬框），that ＋ 形容词只是更口语 ⇒ 中译英里产不出 ❌；08-12 那次 ❌ 原话未存
 
 ### 180 · eat out ＝ 出去下馆子
 类型 词组 ｜ 旧号 B72
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **eat out ＝ 出去下馆子**（两个词，⛔ 不绕 go to a restaurant）。
@@ -6316,10 +6327,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   ⛔ 不判回潮：本题题面没要求产出它，grab a quick bite 本身合法（§3.3 回潮限于复检 ❌ 或自由产出里掉）
   ⇒ 本日复检组里 #180 当场弃（刚被教练给过答案，再测就是白测）
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "出去下馆子"说 go out for dinner／go to a restaurant 都完全成立，eat out 只是其中一个（09-05 前三次还是题面测不到的白测）⇒ 中译英里产不出 ❌
 
 ### 181 · every time／whenever 引导的从句 → 主句用现在时
 类型 语法 ｜ 旧号 B90
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **every time／whenever 引导的从句 → 主句用现在时**：
@@ -6344,10 +6357,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-08-17 ✅
 - 2026-09-09 ✅ 复检 · 第 3 组 · `I have to wait for an hour every time I order takeaway` —— 主句与从句同在现在时平面
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；every time 从句配现在时她一直对（时态类、从没掉过）
 
 ### 182 · by ＋ -ing ＝ 通过做某事达成结果
 类型 结构 ｜ 旧号 B91
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **by ＋ -ing ＝ 通过做某事达成结果**：`passed the exam **by studying** …` ／ `save money **by walking**`。
@@ -6372,10 +6387,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-05 ✅ 复检组 · 第 5 组 · `passed the exam **by studying** … save money **by walking**` 两句 by ＋ -ing 都在
   ｜ ⚠️ `It can save…` 主语挂空（by walking 的逻辑主语是人）⇒ 该 You can save…；不落号
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；by ＋ -ing 她一直对
 
 ### 183 · save sb money／sth（带间接宾语）
 类型 搭配 ｜ 旧号 B92
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-11** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-11** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **save sb money／sth（带间接宾语）**：`this app can save **you** a lot of time.`
@@ -6404,10 +6421,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   `This app saves a lot of your time.` 完全合法，但**间接宾语那一格不出现** ⇒ 考位被绕开
   ⇒ 补点名（用 **save** ＋ 人在前说）。
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `This app saves a lot of your time.` 完全合法（条目自己写着），双宾语只是另一种说法 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 184 · every time／each time 是连词，后面跟完整从句
 类型 结构 ｜ 旧号 B94
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **every time／each time 是连词，后面跟完整从句**：`he brings something to eat **every time he comes**.`
@@ -6435,10 +6454,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   旧："他每次来都带点吃的。"
   新："他每次来都带点吃的。"（"每次"用 **every time** 说 · ⛔ 不许用 whenever）
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存；08-12 那次 ❌ 无从确认，此后四次全对；every time ＋ 完整从句她一直对（whenever 也同样成立）
 
 ### 189 · take sb out ≠ bring sb along；outdoors 是副词
 类型 词汇 ｜ 旧号 B101
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **take sb out ≠ bring sb along**；**outdoors 是副词**。
@@ -6463,6 +6484,8 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-05 ✅ 复检组 · 第 5 组（打包）· `take my son to play outside` —— 考点 take（⛔ 没落进 bring）命中
   ｜ ⚠️ 更自然 take my son **out**（out 是块的一部分），不落号
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；take sb out 的方向她一直对（旧题面还是形态描述）
 
 ### 190 · clear the table ≠ clean the table
 类型 词汇 ｜ 旧号 B103
@@ -6483,7 +6506,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 找法：说"收拾桌子"先问一句 —— 是把东西拿走（clear）还是把桌面擦干净（clean）？
 
 **题面**
-"把桌上收拾了"（⛔ 不许用 tidy／wipe）
+"吃完饭帮忙把桌子收拾了"（把碗盘撤下去，不是擦桌面）
 
 - 2026-08-09 ❌
 - 2026-08-10 ✅
@@ -6493,10 +6516,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-13 📝 题面整改：补（⛔ 不许用 tidy／wipe）· 复检组发题前审核（§6.5 第 7 项）
   `tidy the table`／`wipe the table` 都合法、都绕开 clear／clean 那一格 ⇒ 补排除项；⛔ 不排除 clean —— 它正是本条要测的错路
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `clear the table`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
+  去掉"⛔ tidy／wipe"，改成中文释义（把碗盘撤下去、不是擦桌面）—— clear／clean 的分工靠释义逼出来
 
 ### 191 · 集合名词单复数都合法（family／audience／team）
 类型 语法 ｜ 旧号 B104＋B93
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-11** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-11** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **集合名词单复数都合法**（family／audience／team）：`My family **spend** a whole day cooking a big meal.`
@@ -6528,13 +6553,15 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-18 📝 题面整改：补（用 family 当主语说）· 复检组发题前审核（§6.5 第 7 项）
   `We cook all day during Spring Festival.` 用 we 当主语完全绕开集合名词 ⇒ 点名 family；单数复数动词都判 ✅（本条规则）
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  集合名词配单数配复数都成立（条目自己写着"⛔ 不许拿这一条判她错"）⇒ 没有可测的缺口
 - 备注 合并 2026-08-19：#66（audience 作整体时配单数动词）并入本条 ——
   #66 是一条**写错了的绝对化规则**，与本条直接矛盾，已撤销
 - 备注 与 #129（staff 没有复数形式 staffs）不冲突：那条管**词形**，本条管**动词一致**
 
 ### 192 · make sb ＋ 形容词（cause 不能这么用）
 类型 搭配 ｜ 旧号 B106
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **make sb ＋ 形容词**（cause 不能这么用）：`too much screen time **makes kids overweight**`。
@@ -6558,10 +6585,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-08-15 ✅
 - 2026-09-05 ✅ 复检组 · 第 5 组 · `too much screen time **makes kids overweight**`（⛔ 没用 cause）
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；make sb ＋ 形容词她一直对（cause 这条错路从没走过）
 
 ### 193 · lose interest IN sth（介词是 in）
 类型 搭配 ｜ 旧号 B107a
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **lose interest IN sth**（介词写死是 **in**）。
 判据：interest 后面要接"对什么"一律 **in** —— be interested **in** ／ have an interest **in** ／ lose interest **in**，
@@ -6582,7 +6611,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 找法：写完 interest 直接跟 in —— 三个说法（be interested／have an interest／lose interest）共用它。
 
 **题面**
-"对学业失去兴趣"（用 **interest** 说）
+"他学了两个月吉他，就慢慢没兴趣了。"（"没兴趣"用 **interest** 说）
 
 - 2026-08-11 ❌
 - 2026-08-12 ✅
@@ -6606,10 +6635,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 interest，介词 in 留给她（她 09-05 写成 lose interest to）；换成学吉他场景
 
 ### 194 · screen time（⭐ 她自产）；balance A and／with B
 类型 搭配 ｜ 旧号 B108
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 两个块：**screen time**（⭐ 她自产）＝ 屏幕时间；**balance A and／with B** ＝ 在两者之间找平衡。
@@ -6633,6 +6664,8 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-08-15 ✅
 - 2026-09-05 ✅ 复检组 · 第 5 组（打包）· `balance kids' screen time and outdoor activities`
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；screen time 是她自产的块、balance A and B 一直对
 
 ### 195 · An hour a day is completely fine.（给具体量当让步）
 类型 结构 ｜ 旧号 B109b
