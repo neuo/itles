@@ -8057,7 +8057,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 231 · 说"两类/三类"时每类要用复数（the fun ONES）
 类型 语法 ｜ 旧号 B176
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **说"两类／三类"时每类要用复数**：`Just two kinds: fun **ones** and useful **ones**.`
@@ -8085,11 +8085,13 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 📝 题面整改：补（⛔ 不许用 stuff／things）· 复检组发题前审核（§6.5 第 7 项）
   `fun stuff and useful stuff` 是不可数泛称，每类用复数（ones）那一格不出现 ⇒ 补排除项；与 #198 同句题面同步
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；"分两类"每类配复数 ones 她一直对
 - 备注 与 #198（the 的唯一功能）共用这句中文，回潮时先改成互斥题面
 
 ### 232 · to be HONEST（不是 honesty）
 类型 词组 ｜ 旧号 B177
-状态 连对3 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **to be HONEST**（形容词，⛔ 不是 honesty）。
@@ -8120,16 +8122,18 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   ⇒ 点名到 "to be ＋ 一个形容词"，⛔ 未说是哪个形容词（honest／frank 都算命中词性考位）。
 - 2026-09-05 ✅ 复检组 · 第 1 组（打包）· to be honest（形容词，⛔ 不是 honesty）
 - 2026-09-15 ✅ 新题 bank:1059 自发命中 · `To be honest, that's something I'd love to learn from him.`
+- 2026-09-29 📝 退池 · ① 同级说法
+  "说实话"说 Honestly 完全合法（条目自己写着），to be honest 她 08-10 起一直对（08-09 那次 📖 原话未存）⇒ 中译英里产不出 ❌
 
 ### 233 · either way ＋ you might as well
 类型 词组 ｜ 旧号 B178
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检把 might as well 拆成 might … as well，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检把 might as well 拆成 might … as well，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 两个块：**either way**（横竖都一样）＋ **you might as well**（那还不如）。
 · 本条真正的考位是 **might as well 的内部词序** —— **as well 必须在动词前**
 　（09-05 她写成 `might smile as well`，as well 退回本义"也"，"那还不如"整层丢失）
 同一格里的邻居（别串）：整句意译 `Either way it's a day, so just smile.` 完全合法，
-但两个目标块一个都不出现 ⇒ 题面点名（2026-09-12 起只给首字母与词数，⛔ 不再把块整个交出去）。
+但两个目标块一个都不出现 ⇒ 题面正向点名 either way ／ might，as well 放在哪留给她。
 判据一句话：写完 might，as well 必须紧跟着放在动词**前面**。
 
 **怎么发现的**
@@ -8144,7 +8148,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 检查触发：写完 might，问一句 —— as well 在动词前面还是后面？必须在前面。
 
 **题面**
-**点名**："横竖都一样"（两个词 · **e** 开头） ／ "那还不如笑笑"（"还不如"用 **might** 起头的三词块说 · ⛔ 不许用 better／rather）
+"早去晚去都一样要排队，那还不如先去吃点东西。"（"都一样"用 **either way** 说，"那还不如"用 **might** 说）
 
 - 2026-08-09 📖 给了才会
 - 2026-08-10 ✅
@@ -8167,10 +8171,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-12 📝 题面整改：点名「用 either way 说」「用 might as well 说」→ 首字母＋词数提示 —— 原点名把两个目标块整个交出去（§6② 红线一）；09-05 那次拆成 might … as well 正说明给了块也白给 · 全档题面 review
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉首字母／词数／排除项，改整句、点名 either way 与 might —— as well 放在动词前还是后留给她（她掉过的正是 might smile as well）；换成排队场景
 
 ### 234 · older people／the elderly
 类型 词汇 ｜ 旧号 B179
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检答"忘了"，撤销毕业、连对清零；★ 09-03 自由产出里刚有过自发命中留痕 ⇒ 认得出 ≠ 产得出） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ 退池 ｜ **回潮 2026-09-05**（08-15 毕业 → 09-05 复检答"忘了"，撤销毕业、连对清零；★ 09-03 自由产出里刚有过自发命中留痕 ⇒ 认得出 ≠ 产得出） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **older people ／ the elderly** ＝ 长辈们、上了年纪的人 —— 两个说法各占一个结构。
 同一格里的邻居（别串）：seniors ／ elders ／ the old 也都说得通（09-03 她自由产出里就用过 seniors，⛔ 不判错）
@@ -8217,10 +8223,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "上了年纪的人"说 seniors／elderly people／older people 都成立（条目自己写着 seniors ⛔ 不判错），旧题面只能靠结构骨架硬框 ⇒ 任何一个对的说法都测不出缺口
 
 ### 235 · All you need to do is ＋ 原形
 类型 结构 ｜ 旧号 B180
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **All you need to do is ＋ 原形**：`**All** you need to do **is speak** more and listen more.`
@@ -8250,6 +8258,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   —— All … is 的框 ＋ is 后面接原形，两个考位都中。`All you need do is …` 是标准说法
   （need 在这里当情态动词，英式常见）⇒ ⛔ 不算错；⚠️ 口语默认走 All you need **to** do is …
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `You just need to speak more and listen more.` 完全合法（条目自己写着），All … is 只是另一种框 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 236 · 说人的目的用不定式 to do；for ＋ -ing 是物品用途
 类型 结构 ｜ 旧号 B182
@@ -8292,10 +8302,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 检查触发：写完"一个……的理由／办法／机会"，回头看后面那个动词 —— **是 to do 吗？**
 
 **题面**
-"学语言就是为了表达自己、听懂别人。"（"为了"那一格 ⛔ 不许用 about／so that） ／ **点名**："过年给了大家一个聚在一起的**理由**。"（"理由"后面那个动词用**不定式**挂上去）
-　　★ 题面 2026-08-27 加第二句（回潮当天补）：原题面只测**状语位**的"为了做某事"，
-　　★ 测不到她今天掉的那一格 —— **名词后面挂目的**（a reason ___ bring…）。补一句专测它
-　　★ 题面 2026-08-29 换句（旧稿"过年**更多的是**给全家一个聚一聚的理由"与 #306 的题面共用"更多的是"这个触发短语 ＝ §6.5 ⑧撞车；且与 08-28 一字不差重出 ＝ 测的是昨天的记忆不是规则。新句仍打在同一格上：**名词 ＋ to do**（a reason to get together））
+"这次同学聚会给了大家一个重新联系起来的理由。"
+　　★ 零提示：a reason to reconnect／a reason for getting back in touch 都算对；她掉过的是"理由"后面挂光秃秃的 -ing（a reason bringing …）
 
 - 2026-08-10 ✅
 - 2026-08-13 ✅
@@ -8338,10 +8346,12 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
     正路：`You learn a language to express yourself…`／`The whole point of learning a language is to express…`
   ⚠️ 第二句「过年给了大家一个聚在一起的理由。」**未答**（漏了，不是"忘了"）⇒ 只留痕、⛔ 不计 ❌
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉负向排除与"用不定式挂上去"形态描述；只留她掉过的那一格（名词后挂目的），改成零提示一句（a reason to … ／ a reason for -ing 都算对）；换成同学聚会场景
 
 ### 237 · a mixed bag（⭐ 她自产）
 类型 词组 ｜ 旧号 B183
-状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **a mixed bag**（⭐ 她自产）＝ 好坏参半（【a ＋ 形容词 ＋ 名词】）。
@@ -8367,6 +8377,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-08-15 ✅
 - 2026-08-20 ✅ **自发命中**（加练新题开场第一句 `It's a bit of a mixed bag.`）——毕业后 5 天仍在线
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（第 3 题整串，她原话："1-4 直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；a mixed bag 是她自产的块、08-20 自发用出
 
 ### 238 · move on ≠ move forward
 类型 词汇 ｜ **合并条·出题多句覆盖**（§3.2c，2026-09-07 定：只出一句测不到这一对的分工）｜ 旧号 B184
@@ -8375,8 +8387,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 **move on ≠ move forward** —— 一道题面两个成员，本条考的就是这两个块的分工：
 · **move on** ＝ 翻篇、别老想着了（`It's in the past, just **move on**.`）
 · **move forward** ＝ 继续往前推进（`the company has to keep **moving forward**.`）
-同一格里的邻居（别串）：`move ahead` 同样是 move 起头、同样地道，但成员 ② 的目标形式必须是 move forward
-⇒ 2026-09-10 题面 ② 补了 ⛔ ahead。
+同一格里的邻居（别串）：`move ahead` 同样是 move 起头、同样地道（答它算对）—— 真正要分的是 on 与 forward／ahead。
 判据一句话：放下过去 ⇒ move **on**；事情继续推进 ⇒ move **forward**。
 ★ 08-10／08-13／08-15 那三次 ✅ 是在旧题面（"一直往前走"）下拿到的，**两个块都套得上** ⇒ 证明不了她分得清。
 
@@ -8393,11 +8404,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 **题面**
 ★ 2 句，两个成员各一句 —— 本条考的就是这两个块的分工，只出一个等于没测
-　① "都过去了，别老想着了。"（用 **move** 说 · ⛔ 不许用 past）
-　② "不管出什么事，公司还是得往前推进。"（用 **move** 说，"推进"是往前取得进展 · ⛔ 不许用 ahead）
-　　★ 2026-09-07 题面整改（§6「题面必须唯一可判」）：原题面只有一句
-　　★ "一直往前走"（用 move 说）—— move on 和 move forward **两个都套得上**，
-　　★ 而本条的考点恰恰是这两个的分工 ⇒ 原题面结构上测不到自己的考点。
+　① "分手都半年了，你也该放下了。"（"放下"用 **move** 说）
+　② "项目遇到了点麻烦，但我们还是得接着往前推进。"（"往前推进"用 **move** 说）
 
 **成员出题账**
 ① move on ｜ 09-07 ❌ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅ · 09-19 ✅
@@ -8439,6 +8447,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
   ｜⚠️ what happened → what happens（泛指以后）只进 diff-2
 - 2026-09-19 ✅ 付息日 a 段在池第 1 组 · ① `It's in the past, just move on.` ② `No matter what happens, the company still needs to move forward.`——两个成员都对 ⇒ **连对 2，毕业**
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ past／⛔ ahead"，两个成员各一句、只点名 move（on／forward 的分工留给她）；换成分手、项目推进两个新场景；move ahead 同样算对
 
 ### 239 · miss out on sth
 类型 词组 ｜ 旧号 B185
