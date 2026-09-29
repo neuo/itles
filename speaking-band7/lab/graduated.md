@@ -5299,7 +5299,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 155 · as … as 中间只能放原级；few（可数）／little（不可数）
 类型 语法 ｜ 旧号 B244
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **as … as 中间只能放原级**；**few（可数）／little（不可数）**：
@@ -5324,6 +5324,8 @@ something to look forward **to** ／ a pen to write **with**。
   ——few（可数）选对、中间是原级、taught sb to do 也对 → **连对2，毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `use as few plastic bags as possible` ／ `speak as little as possible` —— 可数用 few、不可数用 little，两侧原级
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；as few／as little as possible 她一直对（as less as 这条错路从没走过）
 - 备注 `as less as possible` ❌ —— as…as 本身就是比较结构，里面再放比较级 ＝ 标两遍
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
@@ -5430,7 +5432,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 158 · 场所介词 on（面）／in（有边界的空间）；on the balcony／on the bus
 类型 搭配 ｜ 旧号 B247
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **场所介词 on（面）／in（有边界的空间）**：on the balcony ／ on the bus ／ on the table，但 **in** the drawer。
@@ -5452,10 +5454,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `on his balcony` ＋ `on the table, not in the drawer`（三个场所介词全中）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `on the balcony. on the desk, not in the drawer.` —— 面用 on、有边界的空间用 in
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；on the balcony／in the drawer 她一直对
 
 ### 159 · "…的时刻/地方/原因 是…" → 表语用 when／where／that 引导
 类型 结构 ｜ 旧号 B248
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **"…的时刻／地方／原因 是…" → 表语用 when／where／that 引导**：
@@ -5488,11 +5492,13 @@ something to look forward **to** ／ a pen to write **with**。
   却把「表语用 when／where／that 引导」这一格整个绕开 ⇒ 补排除项。
   ⛔ 未点名 when／that（考点本身，§6② 红线一）
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `What impressed me most was the time …` 完全合法（条目自己写着），was when 只是另一种表语落点 ⇒ 中译英里产不出 ❌；历史零 ❌
 - 备注 连带：讲过去的事，主句系动词也要过去时（is → was）
 
 ### 161 · (the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分
 类型 语法 ｜ 旧号 B250
-状态 连对2 连错0 上次2026-09-22 ｜ 题型 词组 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-04 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-09-22 ｜ 题型 整句 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-04 回潮后第二次毕业）
 
 **问题是什么**
 **(the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分**：
@@ -5514,7 +5520,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：说"我们（家）几口／几个"时，of 后面永远先填 us，⛔ 别把中文的"我家"直译进去。
 
 **题面**
-"我们仨" ／ "我们当中有两个" ／ **"我们一家三口"（也用 the ＋ 数字 ＋ of 说）**
+"上个周末我们一家三口去海边玩了两天，结果我们当中有两个都晒伤了。"（"一家三口"用 **the three of** 说）
 
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `The three of us went together. two of us didn't come.`（带 the ＝ 全体／不带 ＝ 一部分）
@@ -5549,6 +5555,8 @@ something to look forward **to** ／ a pen to write **with**。
   ⇒ 连对 2，**毕业**
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（打包串，她原话："除了 3）忘了，其他直接过"）
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 语法 ⛔ 不许标词组）
+  一句里放"一家三口"（全体 the）和"我们当中有两个"（部分，不加 the），点名 the three of，of 后面填 us 留给她（她掉过的是 the three of my family）；换成海边晒伤场景
 - 备注 person 的复数口语一律 people
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
@@ -5574,7 +5582,9 @@ something to look forward **to** ／ a pen to write **with**。
 找法：先分一刀 —— 这是"写／画上去的"还是"拿材料做的"？写画用 in，材料用 of／out of。
 
 **题面**
-"用铅笔写的" ／ "木头做的"（第一句 ⛔ 不许用 with）
+题面（2 句，两个成员各一句）
+　① "蛋糕上那行字是用巧克力酱写的"（字是拿什么写上去的）
+　② "这个玩具屋是纸板做的"（拿什么材料做的）
 
 **成员出题账**
 ① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅
@@ -5590,10 +5600,12 @@ something to look forward **to** ／ a pen to write **with**。
   `written with a pencil` 合法，绕开 written in pencil ⇒ 补排除项；made from wood 仍在"made ＋ 材料介词"规则内，判 ✅
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
 - 2026-09-20 📝 学习日 在池第 1 组（#98 句2）· 自发命中留痕 · `spelled out with sweets and biscuits`（🎓 冻结，只留痕、不推进数字）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"⛔ 不许用 with"，题面改成合并条的编号句，各配中文释义；换成巧克力酱写字／纸板玩具屋
 
 ### 163 · "愣住了／说不出话"（I just stood there.／I froze.）
 类型 词组 ｜ 旧号 B252
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 "愣住了／说不出话" ＝ **I just stood there.** ／ **I froze.**
@@ -5624,11 +5636,13 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-11 📝 题面整改：补（⛔ 不许用 speechless／didn't know what to say）· 发题前审核（§6.5 第 7 项）
   两条都完全合法，却绕开 stood there／froze ⇒ 补排除项
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  "愣住了说不出话"说 I was speechless／I didn't know what to say 都完全成立（条目自己写着），froze／stood there 只是另一种说法 ⇒ 中译英里产不出 ❌；历史零 ❌
 - 备注 08-15 给过、当天重说对了，08-16 再问已经不会 ⇒ "当场重说对 ≠ 装上了"
 
 ### 164 · 一句话里时态只能有一个平面
 类型 语法 ｜ 旧号 B253
-状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-21** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **一句话里时态只能有一个平面**：`i found the door locked, so i just went home.`（found／went 全在过去平面）。
@@ -5672,11 +5686,13 @@ something to look forward **to** ／ a pen to write **with**。
   ⚠️ 唯一串了的是 S10 `That is not just that one time.`（前段是过去，这句跳到现在）——
     但那处判的是**层3 衔接/指代**（两个 that 撞在一起），⚠️ 不记 ❌、不落本条
 - 2026-09-19 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；一句里时态不串她一直对、自由产出里也自发命中（时态类、从没掉过）
 - 备注 与 #12 分工：#12 管"该用哪个时态"，本条管"一句里别换档"
 
 ### 165 · even（修饰一个词）／even though（已经发生的事实）
 类型 语法 ｜ 旧号 B254
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 她指定** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 她指定** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **even（修饰一个词）／even though（已经发生的事实）**：`**Even though** the home team lost, I was very happy.`
@@ -5717,6 +5733,8 @@ something to look forward **to** ／ a pen to write **with**。
   ★ 执行修补（写进 SKILL §6.5 第 7 项）：第二译法自查要**分两类想** ——
     ① 同义词替换　② 换结构（but／分裂句／被动／if／名词化）
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  "虽然输了还是开心"说 although／but 都完全成立（09-11 她答 but 被判 ✅），even though 只是其中一个 ⇒ 中译英里产不出 ❌；历史零 ❌
 - 备注 08-16 当天纠、隔一道题她在全新语境里自发用对 ⇒ 迁移窗口很短但很实
 
 ### 166 · see sb（见面）／meet（初次认识）／meet up（约着碰头）—— 选哪个动词
@@ -5744,7 +5762,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：先分一刀 —— 见老熟人 see、第一次认识 meet、约着碰头 meet up。
 
 **题面**
-**点名**："上周跟他见了一面" ／ "大学认识的"（两句用**不同的动词**说 · ⛔ 不许用 catch up）
+"上周跟老同学见了一面"（见的是早就认识的人） ／ "我们俩是大学时认识的"（第一次认识）
 
 - 2026-08-17 ❌
 - 2026-08-19 ❌ **同一个错第二次**：`I haven't seen him for long`（该 for ages／in ages）
@@ -5781,6 +5799,8 @@ something to look forward **to** ／ a pen to write **with**。
   ｜⚠️ `I met at college` 少了宾语 ⇒ `we met at college`／`I met him at college`，只进 diff，不建号
 - 2026-09-13 📝 题面整改：补（⛔ 不许用 catch up）· 复检判定后（§3.3「答得合法但不是条目预期 ⇒ ✅ ＋ 当场改题面」）
   她答 `caught up with him` 合法且符合题面，但本条要分的是 see sb／meet／meet up 三个动词 ⇒ 补排除项，下次逼出 saw him
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"用不同的动词／⛔ catch up"，两个中文块各配中文释义（老熟人 ／ 第一次认识）—— see／meet 的分工靠释义逼出来
 - 备注 `hadn't MET FOR LONG` 意思反了；说"很久"这个量一律 for ages／for a long time，
   for long 只在"没持续多久"里出现（I didn't stay for long.）
 - 备注 **捆绑条目**（see／meet／meet up ＋ for ages）：08-19 出现"块的一半对一半错" ⇒
@@ -5794,7 +5814,7 @@ something to look forward **to** ／ a pen to write **with**。
 **be in a hurry 的主语只能是人**（I'm in a hurry ／ he's in a hurry）—— 事情和时间不会"赶"，
 ⛔ 不能说 It isn't in a hurry；"这件事不急"要换一个框：**There's no rush.**（＝ There's no hurry.）
 一条规则两个落点：主语是人 ⇒ in a hurry ｜ 主语是"这件事" ⇒ There's no rush。
-同一格里的邻居（别串）：`Take your time.` 完全合法，但它绕开了 There's no rush ⇒ 题面已把它排除。
+同一格里的邻居（别串）：`Take your time.` 完全合法，但它绕开了 There's no rush ⇒ 题面正向点名 There's 起头。
 判据一句话：这句的主语是人还是事？人 ⇒ in a hurry；事 ⇒ There's no rush。
 
 **怎么发现的**
@@ -5808,7 +5828,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：说"赶时间"之前先看主语 —— 是人就 in a hurry，是"这件事不急"就换成 There's no rush。
 
 **题面**
-"不用赶时间。" ／ "我赶时间，先走了。"（第一句用 **There's** 起头 · ⛔ 不许用 take your time／need）
+"你慢慢挑，一点都不着急。" ／ "我还要赶火车，得先走了。"（第一句用 **There's** 起头）
 
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `there's no rush. I'm in a rush, so I have to head out now.`（两半都对）
@@ -5832,11 +5852,13 @@ something to look forward **to** ／ a pen to write **with**。
   `There's no need to rush.` 同样 There's 起头、同样合法，绕开 There's no rush 这个框 ⇒ 补排除项
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `there is no rush. I'm in a hurry, I've gotta go.`——There's no rush（事）＋ I'm in a hurry（人）两个落点都到 ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉负向排除，第一句正向点名 There's 起头；换成挑东西／赶火车两个新场景
 - 备注 同族"块记了一半"：`stood on their feet`（该 be on your feet）
 
 ### 168 · tick things off a list（打卡式旅游）
 类型 词组 ｜ 旧号 B257 ｜ ⭐ 她想说卡住、📖 给的
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **tick things off a list** ＝ 打卡式旅游（完整块是 tick things off **a list**，清单单数）。
@@ -5868,11 +5890,13 @@ something to look forward **to** ／ a pen to write **with**。
   但本条目标形式是 **tick** things off a list（英式/雅思默认）⇒ 补排除项，下次才逼得出 tick。
   ★ check off 与 tick off **都地道**，这不是纠她的错，是把条目的目标形式钉死
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  check things off a list 同样地道（09-11 她答的就是它、判 ✅），tick 只是英式偏好 ⇒ 中译英里产不出 ❌；块本身她已会、历史零 ❌
 - 备注 完整块是 tick things off **a list**（清单单数）；并列时 taking a photo and moving on 更齐
 
 ### 169 · 不带 if 的条件句：[量/程度短语] ＋ and ＋ [结果]
 类型 结构 ｜ 旧号 B258
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **不带 if 的条件句：[量/程度短语] ＋ and ＋ [结果]**：
@@ -5910,6 +5934,8 @@ something to look forward **to** ／ a pen to write **with**。
   `If I stayed one more week, I'd get homesick.` 完全合法，绕开「不带 if 的条件句」⇒ 补排除项。
   ⛔ 未点名 and 那个结构（考点本身）
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `If I stayed one more week, I'd get homesick.` 完全合法（条目自己写着），[量] ＋ and 只是另一种句式 ⇒ 中译英里产不出 ❌；历史零 ❌
 - 备注 and 前面只能放比较级或量（ten minutes EARLIER）；would（假设）vs will（真打算）；and 是关节，不能用逗号代替
 
 ### 170 · 并列人称在介词后/宾语位置一律用宾格 me
@@ -5947,7 +5973,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 171 · 要把"跟谁说"说出来就得用 tell sb（say 后面不接人）
 类型 搭配 ｜ 新建 2026-08-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 **要把"跟谁说"说出来就得用 tell sb**（say 后面不接人）：`he didn't **tell me** before he left.`
@@ -5964,7 +5990,8 @@ something to look forward **to** ／ a pen to write **with**。
 找法：中文里出现"跟我／跟他"这个人时，动词先定成 tell。
 
 **题面**
-**点名**："没跟我说一声"（用 tell 说）
+"他辞职之前都没跟我们说一声。"
+　　★ 零提示：tell us／say anything to us／give us a heads-up 都算对；她掉过的是把"跟我们"整个丢掉（didn't say …）
 
 - 2026-08-19 新建 · 复习#147 句里 · "也没跟我说他要走" → `didn't say he was going to leave`（漏掉"我"）
 - 2026-08-21 ✅ 复习（点名题面首测）· `he didn't tell me before he left.`——tell ＋ 人、语序对、两分句时态平面一致
@@ -5972,11 +5999,13 @@ something to look forward **to** ／ a pen to write **with**。
   `before leaving` 的分词逻辑主语 ＝ 主句主语 he，挂对了 → **连对2，毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `didn't tell me` —— 要把"跟谁说"说出来就得用 tell sb
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  考点是"跟我们"这个人有没有说出来 ＝ 靠句子现形；零提示（tell us／say anything to us 都对），换成辞职场景
 - 备注 say 后面直接接人不成立（say me ✗）；要出现人就换 tell sb sth／say sth TO sb
 
 ### 172 · 机会用 get：get the chance to do（不用 have a chance）
 类型 搭配 ｜ 新建 2026-08-19
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **机会用 get：get the chance to do**（⛔ 不用 have a chance）：`if I **get the chance**, I'd love to see it`。
@@ -6004,11 +6033,13 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
     本条的对比对象是 have a chance，冠词不是考点 ⇒ 不判
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `check it out if you get the chance` —— "有机会"走 get the chance，⛔ 没写 have a chance
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `If I have the chance, I'd love to …` 本身完全地道，get the chance 只是更常用 ⇒ 中译英里产不出 ❌（08-19 那次 have a chance 也不是错）
 - 备注 have a chance 更多用在"有可能性"（There's a chance it'll rain）；"有机会做某事"默认 get
 
 ### 173 · X makes me …（实义动词盖住整个评价槽，不用 is）
 类型 结构 ｜ 旧号 B12
-状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **X makes me …** —— 用**实义动词**盖住整个评价槽，⛔ 不用 be 动词：
@@ -6039,10 +6070,12 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   ★ 点名的是动词，⛔ 不是结构：made ＋ 宾语 ＋ 补语这一整块仍要她自己搭（与 #104「用 bury 说」同规格）
 - 2026-09-09 ✅ 复检 · 第 3 组 · `the two hours made the whole day worth it`
 - 2026-09-20 ⚡ 自评免测 · 复检第 3 组（她答"直接过"）
+- 2026-09-29 📝 退池 · ① 同级说法
+  `the whole day was worth it` 完全合法（条目自己写着），用 make 扛评价槽只是风格升级 ⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 174 · as … as it gets（用原级避开比较级形态）
 类型 词组 ｜ 旧号 B25
-状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
 
 **问题是什么**
 **as … as it gets** ＝ 用原级避开比较级形态（"已经是最…的了"）：`running is **as simple as it gets**`。
@@ -6062,7 +6095,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 找法：这个块整块调、时态不跟着句子走 —— 永远是 gets。
 
 **题面**
-**点名**："简单到不能再简单"（用 **as … as** 那个块说，⛔ 不用比较级）
+"那次露营的装备简单到不能再简单了，就一顶帐篷一个睡袋。"（用 **as simple as it** 说）
 
 - 2026-08-12 ❌ 回潮：写成 `as simple as it got`（这个块不随句子变过去式）
 - 2026-08-13 ✅
@@ -6074,6 +6107,8 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   ⇒ 点名到 as … as 那个块 ＋ 明写 ⛔ 不用比较级，⛔ 未给出 as simple as it gets。
 - 2026-09-05 ✅ 复检组 · 第 1 组（打包）· `running is as simple as it gets` 原级，⛔ 没落进比较级
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `as simple as it gets`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"⛔ 不用比较级"，点名 as simple as it，句尾 gets 留给她；故意用过去的场景 —— 她掉过的正是跟着句子写成 got
 - 备注 边界：as…as it gets ＝"已经是最…的了"，不等于"尽量…"（那是 as…as possible）
 
 ### 175 · grow vs grow up（grow up 只用于人长大成人）
