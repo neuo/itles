@@ -13964,7 +13964,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 336 · get TO ＋ 地点（到达；⛔ get the destination）
 类型 搭配 ｜ 新建 2026-09-11
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **get to** ＋ 地点 ＝ 到达（get 后面挂地点必须有 to）：get to the station ／ get to work ／ get to the destination。
@@ -13986,7 +13986,7 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 找法：写完 get ＋ 名词，回头问一句 —— 这个名词是地点吗？是就补 to。
 
 **题面**
-"到目的地怎么走"（"到"用 **get** 说）
+"请问去火车站怎么走？"（"去"用 **get** 说）
 
 - 2026-09-11 📝 新建 · 付息日 d 段重答 R10（P3 · How does technology help people make plans?）· 触发原话
   `like how to get the destination, where to live, and which restaurants are good.`
@@ -13998,10 +13998,12 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-13 ✅ 学习日 在池第 3 组 · 首测 · `how to get to your destination`——get **to** ＋ 地点（09-11 掉的那个 to 回来了）
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `how to get to the destination` ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 get，to 留给她（她掉过的是 get the destination）；换成问路去火车站场景
 
 ### 337 · look up sth（查；⛔ look up for）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#100 互斥（look for）
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **look up** ＋ 查的东西 ＝ 查（查地址／查营业时间／查一个词）：look up where to stay ／ look up the opening hours ／ look it up。
@@ -14027,7 +14029,7 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 找法：写完 look up，回头看后面紧跟的是不是那个被查的东西；夹了个 for 就删掉。
 
 **题面**
-"查一下这个词"（"查"用 **look** 起头的两个词说）
+"这个词我不认识，得查一下。"（"查"用 **look** 说）
 
 - 2026-09-13 ❌ 首犯 · 学习日 在池第 1 组 [4]（#86 那题）· `you need to first look up for where to stay`
   最小改 `look up where to stay`
@@ -14039,10 +14041,12 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-19 📝 c 段 review · 题面整改：「查一下营业时间」→「查一下这个词」
   旧题面把 🎓#343（opening hours）的考点夹带进来：答 look up the open time 时，掉的其实是 #343 ⇒ 换成不带别的考点的宾语；look up the word／look it up／look the word up 都在本条规则内
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"look 起头的两个词"词数提示，只点名 look，up 后面夹不夹 for 留给她；换成查生词场景
 
 ### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
@@ -14064,7 +14068,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：写完 end up，看后面紧跟的是不是 -ing；冒出一个 to 就删掉。
 
 **题面**
-"最后还是自己干了"（"最后…"用 **end up** 说）
+"本来想点外卖，结果最后还是自己做了饭。"（"结果最后"用 **end up** 说）
 
 - 2026-09-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#113 那题）· `I always end up to queuing for half an hour every time I go.`
   最小改 `I always end up queuing for half an hour every time I go.`
@@ -14074,10 +14078,12 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-09-15 ✅ 新题 bank:1059（P2 · cold）自发命中 · `We ended up being classmate for years right until we finished high school.`
   end up ＋ -ing 一字不差（今日第二次 ✅，§3.3 同日多次各记一行各算一次）→ **连对2，毕业**
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 end up，后面接 -ing 还是 to 留给她（她掉过的是 end up to queuing）；换成点外卖场景
 
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **reach sb** ＝ 联系上某人（电话／消息打得通）：I couldn't reach him ／ You can reach me at this number。
@@ -14100,7 +14106,7 @@ reach **直接带宾语**，⛔ 前面不套 get。
 找法：写完 reach，回头看前面有没有多出一个 get；有就二选一 —— 删 get，或把 reach 换成 hold of。
 
 **题面**
-"白天电话联系不上她"（"联系上"用 **reach** 说）
+"我打了一下午电话，都没联系上他。"（"联系上"用 **reach** 说）
 
 - 2026-09-13 ❌ 首犯 · 学习日 复检第 4 组 [9]（#130 那题）· `I'v not been able to get reach hime.`
   最小改 `I haven't been able to reach him.`
@@ -14109,10 +14115,12 @@ reach **直接带宾语**，⛔ 前面不套 get。
 - 2026-09-15 ✅ 学习日 在池第 2 组 · `We couldn't reach him during the day.` —— reach 直接带宾语；连错1 → 连对1
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `we can't reach her by phone during the day.`——reach her 不套 get ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 reach，前面套不套 get 留给她；换成打一下午电话场景
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-21**
+状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-21**
 
 **问题是什么**
 **a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
@@ -14138,7 +14146,7 @@ reach **直接带宾语**，⛔ 前面不套 get。
 找法：写"更进一步"之前先问 —— 是升档还是平级加一条？升档 ⇒ a step up from that；⛔ 别让分词悬着。
 
 **题面**
-"再往上一档"（用 **step** 说，step 当名词用 · ⛔ 不许用 on top of／plus／above）
+"准时上班是最基本的；再往上一档，是主动帮同事分担活儿。"（"再往上一档"用 **a step up** 说）
 
 - 2026-09-13 新建 · 新题 bank:238（P3）· 她点名要学 · `But stepping it up a bit, things like showing up on time …`
 - 2026-09-15 ✅ 学习日 在池第 2 组 · `a step up from that.` —— 首测一字不差；连对1
@@ -14152,10 +14160,12 @@ reach **直接带宾语**，⛔ 前面不套 get。
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `a step up from that.` —— 块内固定介词 from（09-19 掉的正是它，写成 for）；本场发题前已把 above 排除
 - 2026-09-21 ✅ 学习日 在池第 1 组 [2] · `a step up from that.` —— 逐字命中目标块，step 当名词，没走 on top of／plus／above。连对 1 → 2 ⇒ 🎓
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"step 当名词／⛔ on top of／plus／above"，她点名要学的块 ⇒ 直接点名 a step up，from that 怎么接留给她（09-19 掉过）；换成职场表现场景
 
 ### 341 · deserve praise／credit（⛔ worth praise）
 类型 搭配 ｜ 新建 2026-09-13
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 "值得表扬／值得认可" ＝ **deserve praise／credit**（或 be worthy of praise ／ be praiseworthy）。
@@ -14177,7 +14187,8 @@ worth -ing（worth praising 可以）。
 找法：写完 worth，看后面：是 praise／credit／respect 这种"该得到的" ⇒ 换成 deserve。
 
 **题面**
-"这种做法值得表扬"（"值得"用一个动词说 · ⛔ 不许用 worth／should）
+"那个捡到钱包又送回来的小伙子，真值得表扬。"
+　　★ 零提示：deserves praise／is worth praising／should be praised 都算对；她掉过的是 worth praise
 
 - 2026-09-13 ❌ 首犯 · 新题 bank:238（P3）· `are totally worth praise`
   最小改 `totally deserve praise`
@@ -14187,6 +14198,8 @@ worth -ing（worth praising 可以）。
   `This approach is praiseworthy／commendable.` 合法，但绕开 deserve ⇒ 限定成动词；merit praise 同在规则内，判 ✅
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `deserve praise.` ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
+  去掉"一个动词／⛔ worth／should"，改零提示整句（deserve／worth praising／be praised 都算对），逼的是她掉过的 worth praise
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
@@ -14210,7 +14223,7 @@ worth -ing（worth praising 可以）。
 找法：写完"营业时间"回头看 —— 是不是 hours 结尾？不是就换成 opening hours。
 
 **题面**
-"营业时间"（两个词的块 · ⛔ 不许用 time）
+"这家超市的营业时间"（几点开门、几点关门）
 
 - 2026-09-15 ❌ 首犯 · 学习日 在池第 2 组 [4]（#337 题）· `look up the open time`
   最小改 `look up the opening hours`
@@ -14218,10 +14231,12 @@ worth -ing（worth praising 可以）。
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `opening hours`（09-15 首犯后首测）
 - 2026-09-19 ✅ 付息日 a 段在池第 1 组 · `opening hours` ⇒ **连对 2，毕业**
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉词数与"⛔ time"，改成中文释义（几点开门几点关门）；换成超市场景
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-09-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 "到我这边来"这一层，挂在动词后面的小词是 **over**：drive over ／ come over ／ head over ／ pop over。
@@ -14244,7 +14259,7 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 找法：写完"来我这儿"这层意思，看句子里有没有 here —— 有就换成 over。
 
 **题面**
-"他开车过来了"（"过来"用一个小词挂在动词后面 · ⛔ 不许用 here／to my place／up／round）
+"你周末有空就过来坐坐吧。"（"过来"用 **over** 说）
 
 - 2026-09-15 新建 · 新题 bank:1059（P2 · cold）· 触发原话 `He drove here and started debugging using his own device` · ⭐ 她点名要学
 - 2026-09-18 📝 题面整改：排除项补 `／up／round` · 发题前审核（§6.5 第 7 项）
@@ -14252,6 +14267,8 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 - 2026-09-18 ✅ 学习日 在池第 2 组 · 首测 · `he drove over.`——drive **over**，没带 here
 - 2026-09-20 ✅ 学习日 在池第 1 组 · `he drove over.` —— "过来"＝ 动词后面挂 over；连对2 ⇒ 毕业
 - 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he drove over`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"一个小词挂动词后面 ＋ 四个排除项"猜谜写法，她点名要学的块 ⇒ 直接点名 over，动词挑哪个留给她；换成邀请周末过来场景
 
 ### 345 · 在哪台机器上干活 ＝ ON ＋ 机器（on his own laptop／device；⛔ using his device）
 类型 搭配 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
