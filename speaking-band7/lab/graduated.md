@@ -10933,7 +10933,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 287 · flow smoothly ／ keep sth flowing（车流顺畅／让它一路走得顺）
 类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 整句
 
 **问题是什么**
 **flow smoothly ／ keep sth flowing**（车流顺畅／让它一路走得顺）。
@@ -10984,6 +10984,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 flow，flows smoothly／keep … flowing 怎么搭留给她；换成新修高架场景
+- 2026-09-29 📝 补题型格 · 题型 词组 → 整句（09-29 题面整改时状态行漏改，本行补记）
 
 ### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -11085,7 +11086,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 289 · be obsessed with sth（特别迷／上头）
 类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **be obsessed with sth**（特别迷／上头）。
@@ -11111,7 +11112,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 找法：写出 obsessed 就立刻挂 **with**（⛔ 不是 about／in／by）。
 
 **题面**
-**点名**："特别迷这个"（用 **obsessed** 说）
+"我儿子最近特别迷恐龙，天天让我给他讲。"（"特别迷"用 **obsessed** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `I mean, older folks are obsessed with it.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -11127,6 +11128,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
     `Older folks are especially into this kind of thing.` 成立，且中文本身含"相对别人更"这层 ⇒ **不判**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `be obsessed with this`
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 obsessed，with 留给她；换成儿子迷恐龙场景
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -11238,9 +11241,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 现在这就做 ⇒ Let me ／ I'll，⛔ 不许用一般现在时。
 
 **题面**
-**点名**："我先给你看个东西。"（**不用 want／going to** 说）
-★ 不点目标形式：`Let me show you something first.` 与 `I'll show you something first.` **两个都命中考点**；要逼掉的错路是 `I show you something first.`
-★ 题面 2026-08-25 加点名（§6.5 审核项 7）：不点名时 `I want to show you something first.`／`I'm going to show you something first.` 两条都合法、都不是一般现在时 ⇒ **合法绕开考点**；点掉这两条路不泄答案 —— 错路 `I show you something first.` 照样开着，两个目标形式（Let me／I'll）也一个都没说出来
+"你等一下，我帮你问问前台还有没有空房。"
+★ 零提示：Let me ask／I'll ask／I'm going to ask 都算对；她掉过的错路是一般现在时 `I ask …`
 
 - 2026-08-24 新建 · 复习第1组 #270 句里 · `I give you a piece of advice.`
   → **Let me give you** a piece of advice.
@@ -11257,12 +11259,14 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
     `I give you a piece of advice.`（08-24）之后再未复现 ⇒ 目标形式已上手
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `Let me show you something first.` —— 说话当下就要做的事走 Let me…，句尾 first 也落对
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"不用 want／going to"，改零提示（Let me／I'll／I'm going to 都算对），逼的是她掉过的一般现在时；换成前台问空房场景
 - 备注 题面互斥（§3.1 第三档）：**#270** 的题面是"我就给你一条建议。"（考点 ＝ a piece of advice），
   本条题面另起一句"我先给你看个东西。" ⇒ 两条永不撞车
 
 ### 293 · "其中的一侧／一头／一角" ＝ one side of it ／ one of its sides（不说 its one side）
 类型 结构 ｜ 新建 2026-08-24
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 整句
 
 **问题是什么**
 "其中的一侧／一头／一角" ＝ **one side of it** ／ **one of its sides**（⛔ 不说 its one side）。
@@ -11295,7 +11299,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 找法：想说"它的某一个 X"时，**把 one 挪到 of 前面去** —— its 后面⛔不许再跟数词。
 
 **题面**
-"楼的一侧"（用 **of** 说）
+"那栋老楼的一面墙上画满了涂鸦。"（"一面墙"用 **one** 说）
 
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:1027 P2）· `a giant panda sculpture climbing up **its one side**`
   → climbing up **one side of it**
@@ -11311,10 +11315,12 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   ★ `growing out of` 连续第二天自发用准
 - 2026-09-10 ✅ 复检 · 第 3 组 · `on one side of the building` —— one side **of** the building，⛔ 没说 its one side
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 结构 ⛔ 不许标词组）
+  点名 one，one … of it／one of its … 怎么摆留给她（她掉过的是 its one side）；换成老楼涂鸦场景
 
 ### 294 · "留心／注意着点" ＝ be mindful of sth（mind 没有形容词用法）
 类型 搭配 ｜ 新建 2026-08-24（**她当场指定**）
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 词组 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
 
 **问题是什么**
 "留心／注意着点" ＝ **be mindful of sth**；**mind 没有形容词用法**。
@@ -11356,11 +11362,8 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 找法：往 be ___ of 这个槽里填词之前，先问一句它是不是形容词 —— mind 是名词／动词，形容词是 **mindful**。
 
 **题面**
-**点名**："留心给多勤、给多少"（用 **mind** 那个词的**形容词**形式说）
-　　★ 题面 2026-08-25 改点名（§6.5 审核项 7）：原点名直接写 **mindful** ＝ 把考点（mind 没有形容词用法 → mindful）
-　　★ 整个交出去，测了信息量为零；改成"点 mind 的形容词形式"后 ——
-　　★ 挡掉 `be careful about`／`keep an eye on`／`watch` 三条合法绕路（它们都不测本条），
-　　★ 同时留着她掉过的那条错路 `be mind of` ⇒ 考点存活
+"零食可以吃，但要留心吃了多少。"（"留心"用 **mindful** 说）
+　　★ 她点名要学的块 ⇒ 直接点名 mindful（练），be … of ＋ how much 怎么挂留给她
 
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `they need be **mind** of how often and how much`
   → need to be **mindful** of…
@@ -11389,10 +11392,12 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `be mindful of how often and how much you give.`——mindful 形容词形出来了
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 ✅ 复检第 2 组 · `be mindful of how often and how much you give.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"mind 的形容词形式"形态描述；她点名要学的块 ⇒ 直接点名 mindful（练），be … of 怎么挂留给她；换成吃零食场景
 
 ### 295 · "做某事的目的" ＝ the purpose OF doing sth（口语直接说 why they do it）
 类型 搭配 ｜ 新建 2026-08-24
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-26**（连对2）｜ 题型 整句
 
 **问题是什么**
 "做某事的目的" ＝ **the purpose OF doing sth**（口语直接说 **why they do it**）。
@@ -11434,7 +11439,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 能不能干脆说成 `why they do it`？能就别用这个名词。
 
 **题面**
-**点名**："做事的目的"（用 **purpose** 说）
+"报班之前，你得先想清楚学这个的目的是什么。"（"目的"用 **purpose** 说）
 
 - 2026-08-24 ❌ 首犯 · 自由产出（新题 bank:924 P3）· `Rewards change the purpose **for** doing things`
   → the purpose **of** doing things
@@ -11452,10 +11457,12 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
     那时才按 🎓#206 给 ⚠️
 - 2026-09-10 ✅ 复检 · 第 3 组（打包）· `the purpose of doing things` —— 介词 **of** 用对
 - 2026-09-21 ⚡ 自评免测 · 复检第 4 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 purpose，of／for 留给她（她掉过的是 the purpose for doing）；换成报班场景
 
 ### 296 · cut corners（偷工减料／图省事把该做的步骤跳掉）
 类型 词组 ｜ 新建 2026-08-24（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **cut corners**（偷工减料／图省事把该做的步骤跳掉）。
@@ -11485,7 +11492,7 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
 抄近路 ⇒ take a shortcut；说话不算数 ⇒ go back on sth。
 
 **题面**
-**点名**："在材料上偷工减料"（"偷工减料"用 **cut** ＋ 一个名词说）
+"这家餐厅换了老板以后就开始偷工减料，菜的分量越来越少。"（"偷工减料"用 **cut** 说）
 
 - 2026-08-24 新建 · **她主动提出**（§2③）· 自由产出（新题 bank:924 P3）·
   `parents need to keep their promises and not cut corners`——用得准，不是错
@@ -11501,11 +11508,13 @@ cut corners ＝ 为了省事／省钱／省时间，**把该做的步骤跳掉**
   ——词组和介词都对（cut corners **on** sth）⇒ 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `cut corners on materials`
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"cut ＋ 一个名词"形态描述，只点名 cut；换成餐厅换老板场景
 
 
 ### 297 · keep your mind active（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，不用 make sth stay adj）
 类型 搭配 ｜ 新建 2026-08-25
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-27**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-27**（连对2）｜ **keep 族·一组最多 2 条**（c 段 2026-08-27 加）｜ 题型 整句
 
 **问题是什么**
 **keep your mind active**（"保持…活跃"用 keep ＋ 宾语 ＋ 形容词，⛔ 不用 make sth stay adj）。
@@ -11552,7 +11561,7 @@ graduating from school?）· 她写 `studying something makes your mind **stay**
 （⛔ 不许再往里塞一个 stay）。
 
 **题面**
-**点名**："让脑子保持活跃"（用 **keep** 说）
+"退休以后多出去走走，能让身体一直保持灵活。"（"保持"用 **keep** 说）
 
 - 2026-08-25 ❌ 首犯 · 自由产出（新题 bank:987 P3 Is it necessary to keep learning after
   graduating from school?）· `studying something makes your mind **stay** active`
@@ -11574,6 +11583,8 @@ graduating from school?）· 她写 `studying something makes your mind **stay**
   ★ 两次通过用的是两个不同的宾语壳（08-26 `your mind` ／ 今天 `mind`），框架本身没动 ⇒ 稳
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `keep your brain sharp / active` —— keep ＋ 宾语 ＋ 形容词 这个框（⛔ 没走 make sth stay adj）
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 keep，宾语 ＋ 形容词怎么接留给她（她掉过的是 make … stay active）；换成退休保持身体灵活场景
 
 - 备注 ★ **这不是句型缺口，是一个具体搭配没调出来**：她已经会 keep ＋ 宾语 ＋ 补语 ——
   08-23 R3 `keeps cars moving`、08-23 R1 `keeps things simple` 两处都自发用对。
@@ -11613,8 +11624,7 @@ have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
 找法：说"最后拍板"时，中心词是**名词 say**（the final say），挂宾语用 **on**（⛔ 不是 about／for）。
 
 **题面**
-**点名**："最后拍板"（"拍板"用 **say** 那个词说 —— 它在这儿是名词）
-★ 题面 2026-08-27 改点名（§6.5 审核项 7）：原点名写 **final**，但 `my mum made the **final** decision` 既合法又含 final ⇒ **合法绕开考点**（考点是 the final **say** 这个块，不是 final 这个词）。改成点 **say**：封掉 final decision／it was her call，而 the final say 这个搭配她仍要自己凑出来
+"家里装修的事，最后都是我爸拍板。"（"拍板"用 **say** 说）
 
 - 2026-08-25 新建 · **她主动提出**（§2③）· 加练新题 bank:1043 P2 ·
   `As for what counted as 'good', Mom had the final say.`——块本身用得准（`find` 是打字，§2.1 不算错）
@@ -11630,6 +11640,8 @@ have ／ get the final say (**on** sth) ＝ 最后拍板的那个人
   ★ "这事儿"那一格仍然没译（08-27 就提示过要补 on this），但句子完整合法 ⇒ 按 §3.3 记 ✅，不判档位
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `have the final say` —— say 当名词
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 say，the final say 怎么凑留给她；换成家里装修拍板场景
 
 
 ### 299 · not much of a/an ＋ 名词（"算不上一个…／没多少…"）
