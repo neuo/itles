@@ -19,7 +19,7 @@ def v3(num=9501, title="get TO ＋ 地点", kind="搭配", created="2026-09-12",
        what="**get to** ＋ 地点 ＝ 到达。邻居（别串）：arrive **at**／reach ＋ 地点（不带介词）。\n判据一句话：get 后面挂地点必须有 to。",
        how="2026-09-11 重答 R10 · 她写 `how to get the destination`。\n查重：dedup \"get to\" ⇒ 命中 #81（get to know，不定式的 to）⇒ 否，两条规则。",
        wrong="她的：get the destination　正确：get **to** the destination\n找法：get 后面是地点吗？是 ⇒ 补 to。",
-       prompt='"到目的地怎么走"（"到"用 **get** 说）',
+       prompt='"到目的地怎么走"（问路时那个"到"）',
        members=None, rows=(), notes=(), extra_meta=""):
     s = (f"### {num} · {title}\n"
          f"类型 {kind} ｜ 新建 {created}{extra_meta}\n"
@@ -56,10 +56,10 @@ with sandbox(p_text=P, g_text=GHDR) as d:
     e = ent(9501)
     ck("四节都解析到", set(e.sections) == set(lab.SECTIONS), sorted(e.sections))
     ck("body_v3 为真", e.body_v3)
-    ck("题面 ＝ 题面节的正文", e.prompt == '"到目的地怎么走"（"到"用 **get** 说）', e.prompt)
+    ck("题面 ＝ 题面节的正文", e.prompt == '"到目的地怎么走"（问路时那个"到"）', e.prompt)
     ck("元信息行里没有题面 ⇒ prompt_inline 为空", e.prompt_inline is None, e.prompt_inline)
     ck("引号句切得出来", lab.prompt_quotes(e) == ["到目的地怎么走"], lab.prompt_quotes(e))
-    ck("括号限定切得出来", lab.prompt_parens(e) == ['"到"用 **get** 说'], lab.prompt_parens(e))
+    ck("括号限定切得出来", lab.prompt_parens(e) == ['问路时那个"到"'], lab.prompt_parens(e))
     ck("历史行照常解析", len(e.history) == 1 and e.history[0].date == "2026-09-12", e.history)
     ck("body_end 指向题面那一行", e.body_end is not None and
        read(d, "problems.md").split("\n")[e.body_end - 1].startswith('"到目的地'), e.body_end)
@@ -69,14 +69,14 @@ with sandbox(p_text=P, g_text=GHDR) as d:
     ck("check --all ERROR 0", "ERROR 0" in out, out[-300:])
 
 head("【B0b 正】题面节里的 ★ 行是注释，⛔ 不进题面本体；合并条编号句只取 ①②…")
-M = v3(num=9502, title="不可数名词一族", kind="语法",
+M = v3(num=9502, title="不可数名词一族", kind="词汇",
        status="状态 连对0 连错0 上次— 未毕业 ｜ **合并条·出题多句覆盖** ｜ 题型 词组",
-       prompt='　① "一些建议"（用 advice 说）\n　② "更多信息"（用 information 说）\n　　★ 目标形式（教练看）：① some advice ② more information',
+       prompt='　① "一些建议"（给人出主意那种）\n　② "更多信息"（资料、消息那种）\n　　★ 目标形式（教练看）：① some advice ② more information',
        members="① advice ｜ 未出过\n② information ｜ 未出过",
        rows=["- 2026-09-12 新建"])
 with sandbox(p_text=HDR + M, g_text=GHDR) as d:
     e = ent(9502)
-    ck("题面 ＝ 两个编号句", e.prompt == '① "一些建议"（用 advice 说）　② "更多信息"（用 information 说）', e.prompt)
+    ck("题面 ＝ 两个编号句", e.prompt == '① "一些建议"（给人出主意那种）　② "更多信息"（资料、消息那种）', e.prompt)
     ck("★ 行不进引号句", lab.prompt_quotes(e) == ["一些建议", "更多信息"], lab.prompt_quotes(e))
     ck("prompt_lines 含 ★ 行（prompts 整段打印用）", len(e.prompt_lines) == 3, e.prompt_lines)
     ck("成员出题账解析到两行", e.members and len([l for l in e.members if l.strip()]) == 2, e.members)
@@ -84,11 +84,11 @@ with sandbox(p_text=HDR + M, g_text=GHDR) as d:
     ck("count members 命中", 9502 in [x.num for x in lab.load_all() if x.members is not None])
 
 head("【B0c 正】题面节里的 ★ 注释写成多行 ⇒ 缩进续行一并算注释，⛔ 不漏进题面本体")
-ML = v3(prompt='"到目的地怎么走"（"到"用 **get** 说）\n　　★ 题面 2026-09-05 改：旧题面"怎么去那个地方。"\n　　　里 "怎么去" 被译成 how to go ⇒ 换成"到"',
+ML = v3(prompt='"到目的地怎么走"（问路时那个"到"）\n　　★ 题面 2026-09-05 改：旧题面"怎么去那个地方。"\n　　　里 "怎么去" 被译成 how to go ⇒ 换成"到"',
         rows=["- 2026-09-12 新建"])
 with sandbox(p_text=HDR + ML, g_text=GHDR) as d:
     e = ent(9501)
-    ck("题面本体只剩第一行", e.prompt == '"到目的地怎么走"（"到"用 **get** 说）', e.prompt)
+    ck("题面本体只剩第一行", e.prompt == '"到目的地怎么走"（问路时那个"到"）', e.prompt)
     ck("续行里的引号句不进 prompt_quotes", lab.prompt_quotes(e) == ["到目的地怎么走"], lab.prompt_quotes(e))
     ck("check ERROR 0", errs(9501) == [], errs(9501))
 
@@ -98,7 +98,7 @@ TAIL = v3(rows=[], notes=["- 旧账 事件流无记录；08-09 前已毕业", "-
 with sandbox(p_text=HDR + TAIL, g_text=GHDR) as d:
     e = ent(9501)
     ck("尾块行不算正文里的 `- `", e.dash_in_body == [], e.dash_in_body)
-    ck("题面节没被尾块行污染", e.prompt == '"到目的地怎么走"（"到"用 **get** 说）', e.prompt)
+    ck("题面节没被尾块行污染", e.prompt == '"到目的地怎么走"（问路时那个"到"）', e.prompt)
     ck("check ERROR 0", errs(9501) == [], errs(9501))
 TAIL_FIRST = HDR + ("### 9501 · 尾块行写在四节之前\n类型 搭配 ｜ 新建 2026-09-12\n"
                     "状态 连对2 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-09-10** ｜ 题型 词组\n\n"
@@ -123,7 +123,7 @@ TWO = HDR + v3(extra_meta=' ｜ 题面 "到目的地怎么走"')
 with sandbox(p_text=TWO, g_text=GHDR) as d:
     E = errs(9501)
     ck("报题面写了两处", any("两处" in m for m in E), E)
-    ck("题面仍以题面节为准", ent(9501).prompt == '"到目的地怎么走"（"到"用 **get** 说）')
+    ck("题面仍以题面节为准", ent(9501).prompt == '"到目的地怎么走"（问路时那个"到"）')
 
 head("【B4 负】正文里顶格 `- ` ⇒ ERROR（`- ` 只给历史行/备注）")
 DASH = HDR + v3(what="**get to** ＋ 地点\n- 邻居：arrive at\n- 邻居：reach")
@@ -200,16 +200,17 @@ with sandbox(p_text=OLD + "\n" + NEW, g_text=GHDR) as d:
     st, rc, out = run(lab.cmd_count, Args(type="body-v3", detail=False))
     ck("count body-v3 为零", "⇒ 0 条" in out or "0 条" in out, out[-200:])
 
-head("【B11 正】prompts 读题面节（含 ★ 行）；--verify 逐字比对题面节的引号句与括号限定")
+head("【B11 正】prompts 读题面节（含 ★ 行）；--verify 查合并条多句覆盖")
 with sandbox(p_text=HDR + M, g_text=GHDR) as d:
     st, rc, out = run(lab.cmd_prompts, Args(nums=["9502"], verify=None))
-    ck("打出「题面 节」标签", "**题面** 节" in out, out[-500:])
+    ck("打出「档案题面节」标签", "档案题面节" in out, out[-500:])
     ck("三行都打出来（含 ★）", '"一些建议"' in out and '"更多信息"' in out and "★ 目标形式" in out, out[-500:])
     draft = os.path.join(d, "draft.md")
-    open(draft, "w", encoding="utf-8").write('[1] "一些建议"（用 advice 说）／"更多信息"（用 information 说）\n')
+    open(draft, "w", encoding="utf-8").write('出题 1 · #9502（合并条，两句全出）\n'
+                                             '  ① "一些建议"（给人出主意那种）\n  ② "更多信息"（资料、消息那种）\n')
     st, rc, out = run(lab.cmd_prompts, Args(nums=["9502"], verify=draft))
-    ck("发题稿逐字一致 ⇒ 通过", rc == 0 and "逐字一致" in out, out[-300:])
-    open(draft, "w", encoding="utf-8").write('[1] "一些建议"（用 advice 说）\n')
+    ck("合并条两句都在 ⇒ 通过", rc == 0 and "可以发" in out, out[-300:])
+    open(draft, "w", encoding="utf-8").write('出题 1 · #9502（合并条）\n  ① "一些建议"（给人出主意那种）\n')
     st, rc, out = run(lab.cmd_prompts, Args(nums=["9502"], verify=draft))
     ck("少一句 ⇒ 拦", rc == 1 and "更多信息" in out, out[-300:])
 
@@ -227,7 +228,7 @@ with sandbox(p_text=FRESH, g_text=GHDR) as d:
     ck("判定行在题面之后、备注之前", i_prompt < i_row < i_note, (i_prompt, i_row, i_note))
     ck("状态行三个数重算", "连对1 连错0 上次2026-09-13" in read(d, "problems.md"))
     e = ent(9501)
-    ck("重读后仍是 v3、题面没丢", e.body_v3 and e.prompt == '"到目的地怎么走"（"到"用 **get** 说）')
+    ck("重读后仍是 v3、题面没丢", e.body_v3 and e.prompt == '"到目的地怎么走"（问路时那个"到"）')
     ck("append 后 check ERROR 0", errs(9501) == [], errs(9501))
 
 head("【B12b 正】append：v3 条目已有历史行 ⇒ 仍按日期插在历史行区")

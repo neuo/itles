@@ -22,11 +22,11 @@ P0 = ("# 问题总表\n\n---\n\n"
 G0 = "# 已毕业档\n"
 
 
-def errs_of(num):
+def errs_of(num, level="ERROR"):
     ents = lab.load_all()
     nums = {e.num for e in ents}
     e = [x for x in ents if x.num == num][0]
-    return [m for lv, m in lab.check_entry(e, set(), nums) if lv == "ERROR"]
+    return [m for lv, m in lab.check_entry(e, set(), nums) if lv == level]
 
 
 def span(text, num):
@@ -182,7 +182,7 @@ def _errs(text, num):
 
 
 head("【K6 正】题型 词组 ＋ 块状题面（无句号、提示不改形式）⇒ 零 ERROR")
-e = _errs(_ent(9601, "词组", "\"把桌上收拾了\"（用 **clear** 说 · ⛔ 不许用 clean）", " ｜ 题型 词组"), 9601)
+e = _errs(_ent(9601, "词组", "\"把桌上收拾了\"（饭后收拾餐桌）", " ｜ 题型 词组"), 9601)
 ck("词组题面合规 ⇒ ERROR 0", not e, e)
 
 head("【K6 正】题型 整句 ＋ 完整句题面 ⇒ 零 ERROR")
@@ -247,7 +247,7 @@ with sandbox(p_text="# 问题总表\n\n---\n\n"
 head("【K6 正】题型格能活过 append —— rewrite_status 只动三个数，`｜ 题型 X` 原样保留")
 _P97 = ("# 问题总表\n\n---\n\n"
         "### 9701 · append 回环夹具\n"
-        "类型 词组 ｜ 题面 \"把桌上收拾了\"（用 clear 说） ｜ 新建 2026-09-01\n"
+        "类型 词组 ｜ 题面 \"把桌上收拾了\"（饭后收拾餐桌） ｜ 新建 2026-09-01\n"
         "状态 连对0 连错1 上次2026-09-03 未毕业 ｜ 题型 词组\n"
         "- 2026-09-01 ❌ 首犯\n- 2026-09-03 ❌ 复习\n")
 with sandbox(p_text=_P97, g_text=G0, sessions=False) as d:
@@ -274,16 +274,60 @@ head("【K6 负→正】形式检查⛔不看括号提示里的引号（2026-09-
 e = _errs(_ent(9801, "词组", "**点名**：\"比方说你解决了一个全组都卡住的问题。\"（\"比方说\"用 Say 起头）",
                " ｜ 题型 整句"), 9801)
 ck("整句题 · 提示里的引号短语 ⇒ ⛔ 不报「不是完整句」", not e, e)
-e = _errs(_ent(9802, "减法型", "**点名**：\"最重要的一点是家长得有条理。\"（别用\"最重要的是…\"起手，直接说家长该做什么）",
+e = _errs(_ent(9802, "减法型", "**点名**：\"最重要的一点是家长得有条理。\"（\"最重要的一点是…\"这层用 **the key thing** 说）",
                " ｜ 题型 整句"), 9802)
 ck("整句题 · 提示里带省略号的引号 ⇒ ⛔ 不报", not e, e)
 # 词组题的提示里带**句号**的引号短语，也不该被当成"题面带句号"
-e = _errs(_ent(9803, "词组", "\"约会\"（⛔ 不许用 \"We had a date.\" 那种说法）", " ｜ 题型 词组"), 9803)
+e = _errs(_ent(9803, "词组", "\"约会\"（\"我们去约会了。\"里的那件事）", " ｜ 题型 词组"), 9803)
 ck("词组题 · 提示里的引号句带句号 ⇒ ⛔ 不报「带句号」", not e, e)
 # ★ 但题面**主体**自己违规，照样要抓 —— 别把闸修没了
 e = _errs(_ent(9804, "词组", "\"他把桌上收拾了。\"（用 clear 说）", " ｜ 题型 词组"), 9804)
 ck("★ 主体带句号 ⇒ 仍然 ERROR（闸没被修没）", any("带句号" in m for m in e), e)
 e = _errs(_ent(9805, "结构", "\"聪明到知道自己要什么\"（用 know 起头说）", " ｜ 题型 整句"), 9805)
 ck("★ 主体不是完整句 ⇒ 仍然 ERROR", any("不是完整句" in m for m in e), e)
+
+head("【K7 负】§6② 提示禁写法（她 2026-09-29 定：比照写作线 §6）—— 负向排除／首字母／词数／形态描述 ⇒ 未毕业 ERROR")
+for hint, tag in (("用 **clear** 说 · ⛔ 不许用 clean", "负向排除"),
+                  ("别用 tidy", "负向排除"),
+                  ("用 **c** 开头的动词说", "首字母"),
+                  ("两个词", "词数"),
+                  ("用三个词的块说", "词数"),
+                  ("用一个动词说", "形态"),
+                  ("用【动词＋宾语】说", "形态"),
+                  ("用最自然的说法", "空泛")):
+    e = _errs(_ent(9901, "搭配", f"\"他把桌上收拾了。\"（{hint}）", " ｜ 题型 整句"), 9901)
+    ck(f"整句 ·（{hint}）⇒ ERROR「{tag}」", any(tag in m for m in e), e)
+e = _errs(_ent(9902, "搭配", "\"他把桌上收拾了。\"（\"收拾\"用 **clear** 说）", " ｜ 题型 整句"), 9902)
+ck("★ 正向点名「X 用 Y 说」⇒ 放行", not e, e)
+e = _errs(_ent(9903, "词组", "\"赚翻了\"（用 **bank** 说）", " ｜ 题型 词组"), 9903)
+ck("词组题括号里有英文 ⇒ ERROR「零英文提示」", any("零英文提示" in m for m in e), e)
+e = _errs(_ent(9904, "词组", "\"赚翻了\"（口语俚语，赚了一大笔）", " ｜ 题型 词组"), 9904)
+ck("★ 词组题中文释义 ⇒ 放行", not e, e)
+
+head("【K7 负】类型是语法／结构却标题型 词组 ⇒ ERROR（词组题只收 词组／搭配／词汇）")
+for kind in ("语法", "结构", "句型", "减法型"):
+    e = _errs(_ent(9905, kind, "\"容易多了\"", " ｜ 题型 词组"), 9905)
+    ck(f"类型 {kind} × 题型 词组 ⇒ ERROR", any("却标了题型 词组" in m for m in e), e)
+with sandbox(p_text="# 问题总表\n", g_text=("# 已毕业档\n\n---\n\n### 9908 · 毕业夹具\n"
+      "类型 语法 ｜ 题面 \"容易多了\" ｜ 新建 2026-09-01\n"
+      "状态 连对2 连错0 上次2026-09-03 ｜ **🎓 已毕业 2026-09-03** ｜ 题型 词组\n"
+      "- 2026-09-01 ✅ a\n- 2026-09-03 ✅ b\n"), sessions=False) as d:
+    ck("🎓 · 语法×词组 ⇒ 存量提示、⛔ 不报 ERROR", not errs_of(9908)
+       and any("却标了题型 词组" in m for m in errs_of(9908, "INFO")), (errs_of(9908), errs_of(9908, "INFO")))
+    open(os.path.join(d, "dr.md"), "w", encoding="utf-8").write('出题 1 · #9908 · "现在网上买票容易多了"\n')
+    st, rc, out = run(lab.cmd_prompts, Args(nums=["9908"], verify=os.path.join(d, "dr.md"), date="2026-09-29"))
+    ck("★ 但抽到它发题 ⇒ prompts --verify 硬拦（先回标题型）", rc == 1 and "先回标" in out, out[-300:])
+for kind in lab.PHRASE_KINDS:
+    e = _errs(_ent(9906, kind, "\"容易多了\"", " ｜ 题型 词组"), 9906)
+    ck(f"★ 类型 {kind} × 题型 词组 ⇒ 放行", not e, e)
+
+head("【K7 正】🎓 条目的旧提示不合规 ⇒ 只列存量提示（出题时发的是新写的题面，由 prompts --verify 硬查）")
+_G = ("# 已毕业档\n\n---\n\n### 9907 · 毕业夹具\n"
+      "类型 搭配 ｜ 题面 \"他把桌上收拾了。\"（⛔ 不许用 clean） ｜ 新建 2026-09-01\n"
+      "状态 连对2 连错0 上次2026-09-03 ｜ **🎓 已毕业 2026-09-03** ｜ 题型 整句\n"
+      "- 2026-09-01 ✅ a\n- 2026-09-03 ✅ b\n")
+with sandbox(p_text="# 问题总表\n", g_text=_G, sessions=False):
+    ck("🎓 · 负向排除 ⇒ ⛔ 不报 ERROR", not errs_of(9907), errs_of(9907))
+    ck("🎓 · 负向排除 ⇒ 列存量提示", any("禁写法" in m for m in errs_of(9907, "INFO")), errs_of(9907, "INFO"))
 
 sys.exit(report("lab.py check 契约⑤ 正/负向测试"))

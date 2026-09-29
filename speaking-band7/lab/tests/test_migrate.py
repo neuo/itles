@@ -193,7 +193,10 @@ with sandbox(p_text=PT, g_text=GT) as d:
                          ("count", lab.cmd_count, dict(type=None)),
                          ("list", lab.cmd_list, {})):
         st, rc, out = run(fn, Args(**kw))
-        ck(f"{name} 跑得动", st == "OK" and rc in (0, None) and len(out) > 50, (st, rc, out[:120]))
+        # ★ check 的 rc 反映的是**档案内容**（夹具拿真 🎓 条目造回潮，回潮后它们的旧题面按 §6② 就该报 ERROR），
+        #   ⛔ 不是 migrate 的对错 ⇒ 这里只验"正常跑完、打出汇总行"；migrate 自己的自校由 M1–M5 验
+        ok_rc = rc in (0, 1) and "ERROR " in out if name == "check --all" else rc in (0, None)
+        ck(f"{name} 跑得动", st == "OK" and ok_rc and len(out) > 50, (st, rc, out[:120]))
     st, rc, out = run(lab.cmd_stats, Args())
     ck("stats 不再报「待她手动搬」", "待她手动搬" not in out, out[:400])
 

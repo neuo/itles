@@ -104,6 +104,23 @@ RE_ASK = re.compile(r"｜\s*\**题型\s*([^\s｜*]+)")
 # 词组题的提示里 ⛔ 不许出现的字眼 —— 它们把要她产出的形式从【块】改成了【句】（§6② 红线）
 ASK_PHRASE_BAN = ("当主语", "说一句", "一句话", "整句", "完整句", "说完")
 SENT_END = ("。", "！", "？", "!", "?")
+# 词组题只收【一个固定块】的考点（§6.0，比照写作线契约⑬）：类型必须是这三个之一。
+#   语法／结构／句型／减法型的考点靠句子才现形，孤立着翻永远是对的 ⇒ ⛔ 不许标词组
+PHRASE_KINDS = ("词组", "搭配", "词汇")
+# 题面提示的禁写法（§6②，比照写作线 §6「以下整类不许再出现在任何题面里」）。
+#   提示只许写成正向的「X 用 Y 说」—— 负向排除、首字母、词数、形态描述都是猜谜，不是中译英。
+HINT_BANS = [
+    (re.compile(r"不许|别用|不用|不要用|⛔|不是\s*\**[A-Za-z]"),
+     "负向排除（「不许用／别用 Y」）—— 提示只许写成正向的「X 用 Y 说」"),
+    (re.compile(r"(?<![A-Za-z])\**[A-Za-z]\**\s*(?:开头|打头)"), "首字母提示 —— 猜谜，不是中译英"),
+    (re.compile(r"[一二两三四五六七八九十0-9]+\s*个(?:词|单词|字母)"), "词数提示 —— 猜谜，不是中译英"),
+    (re.compile(r"一个(?:形容词|动词|名词|副词|介词|词)|词性|的家族|形容词形式|名词形式|动词形式|【[^】]*】"),
+     "形态／词性描述 —— 要么点名英文词，要么不给"),
+    (re.compile(r"最自然|最地道|最简单|准确的词"), "空泛要求 —— 要么点名英文词，要么不给"),
+]
+RE_ASCII = re.compile(r"[A-Za-z]")
+# 换场景（§6①）：新题面与任何一次已发过的题面「只改了几个字」也算复读
+SCENE_SIM = 0.75
 
 # ── 条目正文四节（§3.1 契约⑪–⑭，她 2026-09-12 定：比照写作线契约④）────────────
 #   条目 ＝ 头 → 元信息 → 状态行 → **问题是什么／怎么发现的／我错在哪／题面**（合并条再挂
@@ -1001,6 +1018,33 @@ def prompt_parens(e):
     return _uniq(ps)
 
 
+def hint_faults(ask, parens):
+    """→ [说明]　一组括号提示违反了哪几条题面禁写法（§6②）。
+    ★ 发题稿（prompts --verify）与档案题面节（check）共用这一份定义。"""
+    out = []
+    for p in parens:
+        for rx, why in HINT_BANS:
+            if rx.search(p):
+                out.append(f"（{p}）—— {why}")
+                break
+        else:
+            if ask == ASK_PHRASE and RE_ASCII.search(p):
+                out.append(f"（{p}）—— 词组题零英文提示：给英文词 ＝ 给答案（§6.1）；"
+                           f"括号里只许写中文释义／语境")
+    return out
+
+
+def form_faults(ask, quotes):
+    """→ [说明]　引号句的形式与题型对不上（§6.0 机器闸）。"""
+    out = []
+    for q in quotes:
+        if ask == ASK_PHRASE and any(ch in q for ch in SENT_END):
+            out.append(f"「{q}」—— 题型是词组，题面却带句号：词组题的题面是【块】不是句（§6.1）")
+        elif ask == ASK_SENTENCE and not q.rstrip().endswith(SENT_END):
+            out.append(f"「{q}」—— 题型是整句，题面却不是完整句：必须有主语、能独立成句、句末标点收尾（§6.0）")
+    return out
+
+
 def check_ask(e):
     """→ [(level, msg)]　题型格（§6.0）与题面形式的一致性 —— 2026-09-11 她点名补的闸。
 
@@ -1032,24 +1076,30 @@ def check_ask(e):
             P.append(("ERROR", f"状态行缺「题型」格 —— {ASK_FROM} 起新建的条目必须自己写出"
                                f"`｜ 题型 整句／词组`（§6.0）"))
         return P
+    # 永不出题的（形态类／只记录／拼写类）：题面节写的是说明，
+    # 拿里面的引号去查「是不是完整句」「带不带句号」全是假阳性 ⇒ 全部跳过。
+    if e.no_ask_any:
+        return P
+    if e.ask == ASK_PHRASE and e.kind not in PHRASE_KINDS:
+        # 🎓 的存量 ⇒ 存量提示（`count --type phrase-kind-bad`，逐条手写整改）；抽到时 prompts --verify 硬拦
+        P.append(("INFO" if e.graduated else "ERROR", f"类型「{e.kind}」却标了题型 词组 —— 词组题只收 {'／'.join(PHRASE_KINDS)}"
+                           f"（一个固定块）；语法／结构的考点靠句子才现形，孤立着翻永远是对的 ⇒ 改标整句、"
+                           f"题面写成完整句（§6.0）"))
     qs, ps = prompt_quotes(e), prompt_parens(e)
-    # 永不出题的（形态类／只记录／拼写类／停出／产出验）：题面节写的是说明，
-    # 拿里面的引号去查「是不是完整句」「带不带句号」全是假阳性 ⇒ 这两支跳过。
-    if e.ask == ASK_PHRASE and not e.no_ask_any:
-        for q in qs:
-            if any(ch in q for ch in SENT_END):
-                P.append(("ERROR", f"题型是词组，题面引号句却带句号：「{q}」—— "
-                                   f"词组题的题面是【块】不是句（§6.1）"))
+    for m in form_faults(e.ask, qs):
+        P.append(("ERROR", "题面引号句" + m))
+    if e.ask == ASK_PHRASE:
         for p in ps:
             hit = [b for b in ASK_PHRASE_BAN if b in p]
             if hit:
                 P.append(("ERROR", f"题型是词组，提示里却写着「{hit[0]}」：（{p}）—— "
                                    f"提示把要她产出的形式从块改成了句（§6② 红线：提示⛔不许改变产出形式）"))
-    elif e.ask == ASK_SENTENCE and not e.no_ask_any:
-        for q in qs:
-            if not q.rstrip().endswith(SENT_END):
-                P.append(("ERROR", f"题型是整句，题面引号句却不是完整句：「{q}」—— "
-                                   f"整句题面必须有主语、能独立成句、句末标点收尾（§6.5⑥）"))
+    # 提示禁写法（§6②）：未毕业 ⇒ ERROR；🎓 ⇒ 存量提示（`count --type prompt-legacy`，逐条手写整改）。
+    #   ★ 出题时发的是**当天新写的题面**（§6① 换场景），它由 prompts --verify 硬查 ——
+    #     档案里的旧提示不合规，不会漏进发题稿
+    lv = "INFO" if e.graduated else "ERROR"
+    for m in hint_faults(e.ask, ps):
+        P.append((lv, "题面提示禁写法 " + m))
     return P
 
 
@@ -1206,7 +1256,7 @@ def cmd_check(args):
                 info_kind[re.sub(r"[#L]?\d+", "N", msg)[:38]] += 1
     print("─" * 74)
     print(f"ERROR {nerr} · WARN {nwarn} · 存量提示 {ninfo}"
-          f"（{STRICT_FROM} 之前写下的，不报错）")
+          f"（存量，不报错：{STRICT_FROM} 之前的写法 ／ 🎓 条目的题面待整改 `count --type prompt-legacy`）")
     if ninfo and not args.quiet:
         for k, v in info_kind.most_common(8):
             print(f"   存量 · {k} … {v} 处")
@@ -2456,21 +2506,29 @@ def cmd_lookback(args):
     return 0
 
 # ══════════════════════════════════════════════════════════════════════════
-#  prompts —— 题面逐字核对（SKILL §6「执行动作写死」的机器版）
+#  prompts —— 题面核对（SKILL §6「执行动作写死」的机器版）
 #
-#  §6 原来写的是三步手工仪式：① 先 grep/awk 打出整行 ② 从打出来的那行复制
-#  ③ 发送前逐句对一遍。第 ③ 步是纯散文钩子，挡不住。
-#  本命令把 ① 和 ③ 都变成机器动作：
-#      lab.py prompts 315 316 317              打出这几条的【元信息整行】，供逐字复制
-#      lab.py prompts --verify draft.md 315 …  拿发题稿与档案逐字比，不一致 ⇒ ERROR
+#  她 2026-09-29 定（比照写作线 §6）：**同一编号每次出题都换一个新场景**，
+#  档案题面节只是种子 ＋ 固定点名，⛔ 不再逐字复读 —— 复读测的是"记不记得上次那句"。
+#      lab.py prompts 315 316 317              打档案题面节 ＋ 这几条【已发过的全部题面】
+#      lab.py prompts --verify draft.md 315 …  拿发题稿逐条查，ERROR ⇒ ⛔ 不许发
 #
-#  核对口径（⛔ 不做兜底、不做模糊匹配）：
-#     题面字段里的每一个【引号句】与每一个【括号限定】都必须**逐字**出现在发题稿里。
-#     · 引号句 ＝ 要她翻译的中文本体　　· 括号限定 ＝ 点名（§6 出题前自查的落点）
-#     ⇒ 少一句 ＝ 改了题面；丢一个括号 ＝ 把点名吞了（她会答对却被判没到考点）
+#  --verify 查的四件（⛔ 不做兜底、不做模糊放行）：
+#     ① 每一条都在发题稿里有自己的一段（认法见 split_segments），段里有引号句
+#        · 合并条：引号句数 ≥ 题面节的编号句数（多句覆盖全部成员，§3.2c②）
+#     ② 换场景：段里每个引号句都不许等于／近似（相似度 ≥ SCENE_SIM）任何一次已发过的题面
+#        · 已发过 ＝ 更早 session 的出题表／逐题记录里这一条的引号句
+#        · 从来没发过的条目，档案题面节的种子可以原样用一次
+#     ③ 形式跟题型走（form_faults）：词组 ⇒ 块、不带句号；整句 ⇒ 完整句、句末标点
+#     ④ 提示禁写法（hint_faults）：负向排除／首字母／词数／形态描述 ⇒ ERROR；词组题括号里有英文 ⇒ ERROR
+#  ⚠️ 档案括号里点名的英文词没出现在新段里 ⇒ WARN（换场景时点名通常要带过去，去掉要有理由）
 # ══════════════════════════════════════════════════════════════════════════
 RE_Q = re.compile(r"[\"“]([^\"”]{2,})[\"”]")
 RE_PAREN = re.compile(r"（([^（）]{2,})）")
+# 出题段的开头：`出题 N · #A · …` ／ `[n] #A · …` ／ 打包成员 `  a #A "…"`
+RE_SEG_OPEN = re.compile(r"^\s*(?:出题\s*\d+\s*·|\[\d+\]|[a-z]\s+#\d)")
+RE_SEG_CONT = re.compile(r"^\s+[①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳\"“]")
+RE_BOLD_EN = re.compile(r"\*\*([A-Za-z][A-Za-z' \-]*?)\*\*")
 
 
 def prompt_pieces(prompt):
@@ -2478,6 +2536,73 @@ def prompt_pieces(prompt):
     if not prompt:
         return [], []
     return RE_Q.findall(prompt), RE_PAREN.findall(prompt)
+
+
+def split_segments(text):
+    """→ {编号: [段文本, …]}　发题稿／session 里每一条题的那一段。
+
+    认法（写死，⛔ 不猜）：
+      · 开段行 ＝ `出题 N · …` ／ `[n] …` ／ 打包成员 `  a #A …`，且**第一个引号之前只有一个 #编号**
+        （打包题的头一行列了好几个编号 ⇒ 不开段，成员各自一行开段）
+      · 续行 ＝ 缩进 ＋ 编号句 ①② 或引号开头（合并条的成员句）
+      · 其余任何行 ⇒ 段结束"""
+    segs, cur = defaultdict(list), None
+    for raw in text.split("\n"):
+        if RE_SEG_OPEN.match(raw):
+            lead = re.split(r"[\"“]", raw, 1)[0]
+            ids = re.findall(r"#(\d+)", lead)
+            if len(ids) == 1:
+                n = int(ids[0])
+                segs[n].append(raw)
+                cur = (n, len(segs[n]) - 1)
+            else:
+                cur = None
+            continue
+        if cur is not None and RE_SEG_CONT.match(raw):
+            n, i = cur
+            segs[n][i] += "\n" + raw
+            continue
+        cur = None
+    return segs
+
+
+def seg_pieces(seg):
+    """段文本 → (引号句, 括号提示)。引号句只取括号**外**的（提示里的引号不是题面本体）。"""
+    return RE_Q.findall(_strip_parens(seg)), RE_PAREN.findall(seg)
+
+
+def _scene_key(s):
+    return re.sub(r"[^\w]", "", s.replace("*", ""))
+
+
+def sent_history(before):
+    """→ {编号: [(日期, 引号句), …]}　`before` 之前的 session 里每一条已发过的题面（去重、按日期）。"""
+    out = defaultdict(list)
+    if not os.path.isdir(SESSIONS):
+        return out
+    for fn in sorted(os.listdir(SESSIONS)):
+        m = re.match(r"(20\d\d-\d\d-\d\d)\.md$", fn)
+        if not m or m.group(1) >= before:
+            continue
+        text = open(os.path.join(SESSIONS, fn), encoding="utf-8").read()
+        for n, segs in split_segments(text).items():
+            for seg in segs:
+                for q in seg_pieces(seg)[0]:
+                    if all(_scene_key(q) != _scene_key(x) for _, x in out[n]):
+                        out[n].append((m.group(1), q))
+    return out
+
+
+def _repeat_of(q, hist):
+    """→ (日期, 旧句, 相似度) ｜ None　新引号句是不是复读了某次已发过的题面。"""
+    import difflib
+    k = _scene_key(q)
+    best = None
+    for d, old in hist:
+        r = difflib.SequenceMatcher(None, k, _scene_key(old)).ratio()
+        if r >= SCENE_SIM and (best is None or r > best[2]):
+            best = (d, old, r)
+    return best
 
 
 def cmd_prompts(args):
@@ -2493,33 +2618,29 @@ def cmd_prompts(args):
     miss = [n for n in nums if n not in ents]
     if miss:
         sys.exit(f"⛔ 全档没有这些编号：{miss}")
+    today = getattr(args, "date", None) or date.today().isoformat()
+    hist = sent_history(today)
 
     W = "═" * 78
     print(W)
-    print("lab.py prompts · 题面逐字核对（§6）")
+    print("lab.py prompts · 题面核对（§6）—— 每次出题换一个新场景，⛔ 不许复读已发过的")
     print(W)
-    print("① 档案原文（发题稿**只许从这里复制**，⛔ 不许照着标题现想句子）")
+    print("① 档案题面节（种子 ＋ 点名）与已发过的题面")
     for n in nums:
         e = ents[n]
-        meta = next((l for l in e.raw if RE_META.match(l)), None)
-        loc = f"{e.src}:{e.start}"
-        if meta is None:
-            print(f"   #{n:<5} ⛔ 这一条没有【类型 … ｜ 题面 …】元信息行（{loc}）")
-            continue
-        off = e.raw.index(meta) + 1
-        print(f"   #{n:<5} {e.src}:{e.start + off}　｜　题型 {e.ask_kind}"
+        print(f"   #{n:<5} {e.src}:{e.start}　｜　类型 {e.kind or '—'} ｜ 题型 {e.ask_kind}"
               + ("" if e.ask else "（⚠️ 未标 · 按整句读 —— 发题前先回标状态行，§6.0）"))
-        if e.body_v3:
-            print(f"          ↓ **题面** 节（§3.1 契约⑫）⇒ 引号句与括号限定逐字复制；★ 行是教练注释，⛔ 不进发题稿")
-            for l in e.prompt_lines:
-                print(f"          {l}")
-            continue
-        print(f"          {meta}")
-        print(f"          ⚠️ 存量一行式条目（正文未升级，§3.1 契约⑭）")
-        if e.prompt_lines:
-            print(f"          ↓ 题面自成一段（合并条 §3.2c）⇒ **整段逐字复制，一句都不许少**")
-            for l in e.prompt_lines:
-                print(f"          {l}")
+        if not e.body_v3:
+            print("          ⚠️ 存量一行式条目（正文未升级，§3.1 契约⑭）")
+        for l in e.prompt_lines or ([e.prompt] if e.prompt else []):
+            print(f"          {l}")
+        h = hist.get(n, [])
+        if h:
+            print(f"          ⛔ 已发过 {len(h)} 次（新题面必须换场景，与下面每一句都不同）：")
+            for d, q in h:
+                print(f"             · {d}　{q}")
+        else:
+            print("          ○ 从没发过 ⇒ 种子题面可以原样用这一次")
     if not args.verify:
         print("─" * 78)
         todo = [n for n in nums if not ents[n].prompt]
@@ -2534,36 +2655,53 @@ def cmd_prompts(args):
     if not os.path.exists(args.verify):
         sys.exit(f"⛔ 发题稿文件不存在：{args.verify}")
     draft = open(args.verify, encoding="utf-8").read()
+    segs = split_segments(draft)
     print("─" * 78)
-    print(f"② 逐字核对：{os.path.basename(args.verify)}（{len(draft)} 字）")
-    errs = []
+    print(f"② 逐条核对：{os.path.basename(args.verify)}（{len(draft)} 字）")
+    errs, warns = [], []
     for n in nums:
         e = ents[n]
-        qs, ps = prompt_pieces(e.prompt)
+        mine = []
         if not e.prompt:
-            errs.append((n, "题面待补 —— §6 出不了题"))
-            continue
-        if not qs:
-            errs.append((n, f"题面里没有引号句，脚本核不了：{e.prompt[:40]}"))
-            continue
+            mine.append("题面待补 —— §6 出不了题")
+        seg = "\n".join(segs.get(n, []))
+        qs, ps = seg_pieces(seg)
+        if not seg:
+            mine.append("发题稿里没有这一条的段（开段行写 `出题 N · #编号 · \"…\"`，打包成员写 `  a #编号 \"…\"`）")
+        elif not qs:
+            mine.append("这一段里没有引号句 —— 要她翻的中文写在 \"…\" 里")
+        need = len([l for l in e.prompt_lines if RE_ITEM.match(l.strip())])
+        if M_MERGED in e.marks and need and len(qs) < need:
+            mine.append(f"合并条要多句覆盖全部成员：题面节 {need} 个成员，发题稿只有 {len(qs)} 句（§3.2c②）")
         for q in qs:
-            if q not in draft:
-                errs.append((n, f"发题稿里找不到这一句（逐字）：「{q}」"))
-        for p in ps:
-            if p not in draft:
-                errs.append((n, f"发题稿里丢了这个括号限定（＝点名被吞）：「（{p}）」"))
-        ok_q = sum(1 for q in qs if q in draft)
-        ok_p = sum(1 for p in ps if p in draft)
-        flag = "✅" if (ok_q == len(qs) and ok_p == len(ps)) else "⛔"
-        print(f"   {flag} #{n:<5} 引号句 {ok_q}/{len(qs)} ｜ 括号限定 {ok_p}/{len(ps)}")
+            rep = _repeat_of(q, hist.get(n, []))
+            if rep:
+                d, old, r = rep
+                how = "一字不差" if r >= 0.999 else f"相似度 {r:.2f}，只改了几个字"
+                mine.append(f"复读：「{q}」≈ {d} 发过的「{old}」（{how}）—— 换一个新场景重写（§6①）")
+        if e.ask == ASK_PHRASE and e.kind not in PHRASE_KINDS:
+            mine.append(f"类型「{e.kind}」却标了题型 词组 —— 先回标状态行 `｜ 题型 整句`、种子题面改成完整句，再出（§6.0）")
+        mine += form_faults(e.ask_kind, qs)
+        mine += ["提示禁写法 " + m for m in hint_faults(e.ask_kind, ps)]
+        if e.ask_kind == ASK_SENTENCE:
+            named = {w.strip().lower() for p in prompt_parens(e) for w in RE_BOLD_EN.findall(p)}
+            lost = sorted(w for w in named if w not in seg.lower())
+            if lost:
+                warns.append((n, f"档案点名的 {'／'.join(lost)} 没出现在新段里 —— 换场景时点名要带过去，去掉要有理由"))
+        errs += [(n, m) for m in mine]
+        print(f"   {'⛔' if mine else '✅'} #{n:<5} 引号句 {len(qs)} ｜ 提示 {len(ps)}"
+              f" ｜ 已发过 {len(hist.get(n, []))} 次" + (f" ｜ {len(mine)} 处不合格" if mine else ""))
     print("─" * 78)
+    for n, m in warns:
+        print(f"   ⚠️ #{n}  {m}")
     if errs:
-        print(f"⛔ **{len(errs)} 处不一致 —— 不许发题**（§6 题面逐字）")
+        print(f"⛔ **{len(errs)} 处不合格 —— 不许发题**（§6）")
         for n, m in errs:
             print(f"   #{n}  {m}")
         print(W)
         return 1
-    print(f"✅ {len(nums)} 条题面逐字一致 —— 可以发（§6.5 审核表第 5 项的证据就是这一段）")
+    print(f"✅ {len(nums)} 条题面全部合格（换了场景 · 形式对 · 提示合规）—— 可以发"
+          f"（§6.5 审核表第 5 项的证据就是这一段）")
     print(W)
     return 0
 
@@ -2899,6 +3037,13 @@ TYPES = [
                                                                 lambda e: e.ask is None and not e.tomb),
     # ── 题面类 ───────────────────────────────────────────────────
     ("prompt-todo", "题面待补",   "题面节／题面字段为空 ⇒ ⛔ 出不了题",          lambda e: not e.prompt),
+    ("prompt-legacy", "题面提示不合规", "题面节提示违反 §6② 禁写法（负向排除／首字母／词数／形态描述／词组题带英文）"
+                                        " ⇒ 逐条手写整改（🎓 列存量提示，未毕业 ERROR）",
+                                                                lambda e: not e.no_ask_any
+                                                                and bool(hint_faults(e.ask_kind, prompt_parens(e)))),
+    ("phrase-kind-bad", "词组题·类型不符", f"题型 词组 但类型不在 {'／'.join(PHRASE_KINDS)} ⇒ ⛔ 改整句（🎓 列存量提示，未毕业 ERROR）",
+                                                                lambda e: not e.no_ask_any and e.ask == ASK_PHRASE
+                                                                and e.kind not in PHRASE_KINDS),
     # ── 正文类（§3.1 契约⑪–⑭，2026-09-12 起）────────────────────────
     ("body-v3",     "正文四节",   "正文有 **问题是什么／怎么发现的／我错在哪／题面** 节（§3.1 契约⑪）",
                                                                 lambda e: e.body_v3),
@@ -3074,7 +3219,7 @@ def card(e, why, full=False):
     out = [f"  #{e.num:<4d} [{e.kind or '—'}] {e.title[:60]}",
            f"        {st} ｜ 有效上次 {e.eff_last() or '—'} ｜ {why}"
            + (f" ｜ {mk}" if mk else ""),
-           f"        {ask} ｜ 题面 {(e.prompt or '⚠️ 待补 —— 抽到就当场补成完整中文句')[:70]}"]
+           f"        {ask} ｜ 种子题面 {(e.prompt or '⚠️ 待补 —— 抽到就当场补成完整中文句')[:66]}"]
     if M_MERGED in e.marks:
         out.append("        ⚠️ 合并条：本次出题**必须多句覆盖全部成员**（§3.2c②），只出一句 ＝ 违规")
     if full:
@@ -3186,8 +3331,10 @@ def cmd_pick(args):
                      ",".join(str(e.num) for q in bk for e in q)]))
 
     print("\n" + "─" * 78)
-    print("⛔ 脚本做不到、必须教练手工的两件（§6）：① 题面逐字核对 `lab.py prompts N N N`"
-          " ② 第二译法自查（逐题写有/无，有就点名）")
+    print("⛔ 每一题都要**换场景新写**题面（§6①）：先跑 `lab.py prompts N N N` 看种子与已发过的，"
+          "写好发题稿再 `prompts --verify <稿> N N N`，ERROR 0 才许发")
+    print("⛔ 脚本做不到、必须教练手工的两件（§6.5）：① 中文题面自译落点（直译一遍，落点是自然英文）"
+          " ② 绕开测试（故意不用目标词翻一遍，翻得出就用正向「X 用 Y 说」点名）")
     print('每组定稿后跑：lab.py used --group N --used "12,45" '
           '[--exempt "232,233"] [--dropped "88=理由"]')
     print(W)
@@ -3550,9 +3697,10 @@ def main():
                    help="打出本周期全部自由产出的四件套（付息日 ⓪ 用）")
     p.set_defaults(func=cmd_lookback)
 
-    p = sub.add_parser("prompts", help="题面逐字核对（§6）：打档案原文 ／ --verify 比发题稿")
+    p = sub.add_parser("prompts", help="题面核对（§6）：打种子题面与已发过的 ／ --verify 查发题稿（换场景·形式·提示）")
     p.add_argument("nums", nargs="*", help="条目编号，空格或逗号分隔")
-    p.add_argument("--verify", help="发题稿文件 —— 拿它与档案逐字比，不一致 ⇒ ⛔ 不许发")
+    p.add_argument("--verify", help="发题稿文件 —— 逐条查换场景／形式／提示，不合格 ⇒ ⛔ 不许发")
+    p.add_argument("--date", help="本场日期（默认今天）：只拿这天之前的 session 当「已发过」")
     p.set_defaults(func=cmd_prompts)
 
     p = sub.add_parser("migrate", help="problems.md ⇄ graduated.md 双向搬迁（§3.3/§11）")

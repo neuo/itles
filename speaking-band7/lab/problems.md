@@ -643,14 +643,13 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 186 · leave a mess（⭐ 她自产）
 类型 词组 ｜ 旧号 B97
-状态 连对1 连错0 上次2026-09-29 未毕业 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ 题型 词组
+状态 连对1 连错0 上次2026-09-29 未毕业 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
-**leave a mess**（⭐ 她自产的块，三个词）＝ 东西乱丢一地。
-同一格里的邻居（别串 —— 都合法、全靠题面排除）：
-`He **makes** a mess.` · `He **throws** stuff around.` · `leave stuff lying around` · everywhere／all over
-⇒ 题面靠「三个词的块 ＋ ⛔ everywhere／all over／make／throw」把 leave a mess 框死
-　（⛔ 未点名 leave、⛔ 未点名 mess —— 那是考点本身）。
+**leave a mess**（⭐ 她自产的块，三个词）＝ 弄乱了就走、留给别人收拾。
+同一格里的邻居（别串 —— 都合法）：
+`He **makes** a mess.`（只说弄乱，没有"留下"那层）· `He **throws** stuff around.` · `leave stuff lying around`
+⇒ 几种说法都合法 ⇒ 出整句题、正向点名 **leave**，块里的 **a mess**（冠词 ＋ 名词）留给她自己搭。
 判据一句话：这一层用 **leave ＋ a mess** 三个词说完。
 
 **怎么发现的**
@@ -667,7 +666,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 找法：说"乱丢一地"时直接调 leave a mess 这三个词，⛔ 别滑到 make／throw。
 
 **题面**
-"东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw／around）
+"我儿子每次吃完零食，都把客厅弄得乱七八糟就跑了。"（"弄得乱七八糟就跑了"用 **leave** 说）
 
 - 2026-08-09 ✅
 - 2026-08-13 ◎ 题面没逼出
@@ -700,6 +699,9 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
 - 2026-09-28 ❌ 复检第 2 组 · 答成 `mess up the floor`（没调出 leave a mess）—— **回潮**
 - 2026-09-29 ✅ 在池第 1 组 · `leave a mess.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  make a mess／throw stuff around 都合法，中文块单独映射不回 leave a mess ⇒ 改整句、正向点名 leave，a mess 留给她搭；
+  旧的「三个词 ＋ ⛔ 排除五个词」写法作废（负向排除永远排不完）
 
 ### 322 · play WITH sth（玩"东西"一律带 with）
 类型 搭配 ｜ 新建 2026-09-07
@@ -834,7 +836,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 找法：想说"能踩脚的地方"时⛔别去绕 a place to step，先找那个名词 —— foothold；具体那根小木桩就是 peg。
 
 **题面**
-"脚能踩的那个点"（一个名词 · **f** 开头 · ⛔ 不许用 footing） ／ "钉在柱子上的小木桩"（一个名词 · **p** 开头）
+"攀岩墙上的落脚点"（凸出来、能把脚踩稳的那一小块） ／ "木栈道栏杆上钉的小木桩"（短短一截、可以挂东西或踩一只脚）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词也是查字典的"
   条目内容：脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
@@ -845,6 +847,8 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `foodhold. peg.`——foothold（foodhold 是拼写，§2.1 不算）／peg 两个都对 ——**连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组（打包 [2] 里 foothold 当场答对；另一半 peg 请她补答时她说"直接过"）
 - 2026-09-29 ❌ 复检第 2 组 · 答成 `footsteps. peg.`（foothold 没调出来，peg 对）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉首字母／词数／排除项，括号只留中文释义；换成攀岩墙、木栈道两个新场景
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
 类型 词组 ｜ 新建 2026-09-09
@@ -856,7 +860,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 同一格里的邻居（别串）：⛔ forward 在"往前看"这个意思上不能替 ahead。
 判据一句话：说的是**视线方向** ⇒ ahead；说的是**心里盼着** ⇒ look forward to。
 ★ 与 graduated.md:1455 那条的分工：那条考的是"不定式后面挂介词"（something to look forward **to**）＝ 结构考点；
-　本条考的是**选词**（ahead vs forward）⇒ 目标形式不同，题面互斥（本条题面已排除 forward）。
+　本条考的是**选词**（ahead vs forward）⇒ 目标形式不同，题面互斥（本条题面只讲视线方向，释义里点明不是"盼着"）。
 
 **怎么发现的**
 2026-09-09 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"。
@@ -871,7 +875,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：要说"往前看"先问一句 —— 是眼睛的方向吗？是就用 ahead，⛔ 别让 look forward 抢跑。
 
 **题面**
-"眼睛看正前方"（三个词 · ⛔ 不许用 forward）
+"骑车时眼睛直视前方"（视线朝正前面，不是"盼着"的那个"往前看"）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"
   条目内容：眼睛往正前方看 ＝ **look straight ahead**；
@@ -883,6 +887,8 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `look straight ahead.`——**连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 ❌ 复检第 2 组 · 答成 `look forward ahead.`（题面 ⛔ forward）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉词数与「⛔ forward」，括号改写中文释义（视线方向，不是"盼着"）；换成骑车场景
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
@@ -908,7 +914,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
 
 **题面**
-"你能待在一个气氛完全不一样的地方。"（"气氛"用 **vibe** 说 · ⛔ vibe 前面不许用 in）
+"周末去一个氛围完全不一样的小镇待两天，整个人都放松了。"（"氛围"用 **vibe** 说）
 
 - 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
 - 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
@@ -916,10 +922,12 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [6] · `You get to somewhere with a totally different vibe.` —— vibe 挂在地方上（somewhere with a … vibe），前面不是 in ⇒ **连对 2，毕业**
   ★ 同句 get to 后漏动词 ⇒ 不属本条，新建 #360
 - 2026-09-29 ❌ 复检第 2 组 · `you get to chill somewhere in a totally different vibe.`（vibe 前用了 in）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉「⛔ vibe 前面不许用 in」（那是考点本身），只点名 vibe；换成周末小镇场景
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对1 连错0 上次2026-09-28 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-28 未毕业 ｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -941,14 +949,16 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：想说"打情感牌／靠情绪打动"时，先落 appeal to。
 
 **题面**
-"拿情绪去打动你"（用 **appeal** 说 · ⛔ 不许用 drive／move）
+"很多广告不讲产品好在哪，只会打感情牌来打动你。"（"打感情牌来打动你"用 **appeal** 说）
 
 - 2026-09-27 新建 · 学习日在池第 1 组 [2] · 触发原话 `while others drive you with emotion.`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 - 2026-09-28 ✅ 在池第 1 组 · `Appeal to your emotions.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  move／play on 都合法，中文块单独映射不回 appeal to ⇒ 改整句、正向点名 appeal，to your emotions 留给她搭；换成广告场景
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **without a doubt** ＝ 毫无疑问，P3 开口亮立场用；放句首、句尾都行（`The tech sector, without a doubt.`）。
@@ -968,9 +978,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：P3 要亮立场时，名词短语 ＋ without a doubt 一句就够。
 
 **题面**
-"毫无疑问"（三个词 · 用 **doubt** 说 · ⛔ 不许用 definitely／certainly／no doubt）
+"要说在我们这儿哪个行业最好找工作，毫无疑问是医疗。"（"毫无疑问"用 **without a doubt** 说）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `The tech and software sectors, without a doubt(背一下).`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  no doubt／definitely 都合法 ⇒ 改整句；她点名要学（§2③）⇒ 首测把整个块写进题面；换成求职行业场景
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
@@ -994,13 +1006,15 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：说"XX 巨头"时，除了 giant 还有 powerhouse，前面放行业名。
 
 **题面**
-"外卖巨头"（"巨头"用一个名词说 · **p** 开头 · ⛔ 不许用 giant／leader）
+"新能源汽车里的实力派"（字面是"发电站"的那个词，比喻一个行业里最能打的那家）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `an instant-delivery powerhouse(背一下) like MeiTuan`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉首字母与排除项，括号改中文释义（"发电站"的比喻）；换成新能源汽车场景
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -1019,9 +1033,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：想说"赚翻了"，落 making absolute bank（bank 前面不加 a／the）。
 
 **题面**
-"赚翻了"（用 **bank** 说）
+"今年做直播带货的那几个主播都赚翻了。"（"赚翻了"用 **bank** 说）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `people working on large-language-model are making absolute bank(背一下)`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
 
 ### 367 · social media giant（社交巨头；⛔ social giant）
 类型 搭配 ｜ 新建 2026-09-29
@@ -1045,13 +1061,15 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：说"XX 巨头"先问 giant 前面是不是行业名 —— social 不是行业名，social media 才是。
 
 **题面**
-"社交巨头"（"社交"用两个词说 · ⛔ 不许只用 social）
+"微博这种社交巨头"（做社交平台的大公司）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `at a social giant like Tencent`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉「两个词 ＋ ⛔ 只用 social」，括号改中文释义；换成微博
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **land a job (at 公司)** ＝ 找到／谋到一份（好）工作，口语里"进了腾讯"就说 land a job at Tencent。
@@ -1071,9 +1089,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：想说"进了／谋到一份工作"，口语落 land a job，⛔ 别去够 secure a position。
 
 **题面**
-"在腾讯谋到一份工作"（"谋到"用一个 **l** 开头的动词说 · ⛔ 不许用 get／find／secure）
+"她毕业没多久就在一家大银行谋到了一份工作。"（"谋到"用 **land** 说）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `secure a position at a social giant like Tencent`（⚠️ 更地道的表达；教练初判走书面登记漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  get／find 都合法 ⇒ 改整句、点名 land；换成银行场景
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
@@ -1102,13 +1122,15 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 找法：中文头衔贴在名字前面时，先说名字，再逗号 ＋ the ＋ 头衔 —— ⛔ 不找介词。
 
 **题面**
-"我在短视频巨头字节跳动上班。"（⛔ 不许用 like／such as · ⛔ 不许用介词把"短视频巨头"和"字节跳动"连起来）
+"我表哥在短视频巨头字节跳动上班。"（先说"字节跳动"，"短视频巨头"用 **, the …** 补在后面）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她自注"这个 like 其实我不会翻译…我一直在想用什么介词" · 原话 `a social giant like Tencent`（教练初判只留 📝、漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉两条负向排除，改成正向点名同位语结构「, the …」；换成表哥在字节跳动
 
 ### 370 · create ＋ 结果（造就一批富豪／创造就业：create billionaires；⛔ build billionaires）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "造就／催生出一批（人或结果）"＝ **create**：create billionaires ／ create jobs ／ create wealth。
@@ -1129,13 +1151,15 @@ build 只能搭"建起来的东西"（build a company／a house／a brand），�
 找法：说"造就了一批 XX"，先看宾语是不是人／结果 —— 是就用 create。
 
 **题面**
-"造就了一大批亿万富翁"（"造就"用一个 **c** 开头的动词说 · ⛔ 不许用 build／make）
+"这波电商热潮造就了一大批亿万富翁。"（"造就"用 **create** 说）
 
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `building a bunch of tech giants and billionaires`（教练初判"同级近义词"漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  produce／give rise to 都合法 ⇒ 改整句、点名 create；换成电商热潮场景
 
 ### 371 · bring your other foot over（把另一只脚挪过来；⛔ pull your foot over）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 把身体某部位"挪／带"到某个位置 ＝ **bring … over**：bring your other foot over ／ bring your arm up。
@@ -1156,13 +1180,15 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 找法：说"把脚挪过去"，动词落 bring，⛔ 别用 pull（那是拽）。
 
 **题面**
-"把另一只脚挪过来"（"挪"用 **b** 开头的动词说 · ⛔ 不许用 pull／move／put）
+"瑜伽老师让我们先站稳一条腿，再把另一只脚慢慢挪过来。"（"挪过来"用 **bring** 说）
 
 - 2026-09-29 新建 · 学习日复检第 2 组 [6] · 触发原话 `I told him to hug the log, and pull his other foot over.`（教练初判"同级近义词"漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  move 合法 ⇒ 改整句、点名 bring，over 留给她；换成瑜伽课场景（⛔ 与 🎓#333 不同句）
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -1183,9 +1209,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 找法：说"弄到手／得到它"，先看宾语是不是"想要的东西"—— 是就用 get。
 
 **题面**
-"想要什么就想办法弄到手"（"弄到手"用 **g** 开头的动词说 · ⛔ 不许用 reach／achieve／obtain）
+"那双限量球鞋一上架就被抢光了，我到现在也没弄到手。"（"弄到手"用 **get** 说）
 
 - 2026-09-29 新建 · 学习日复检第 2 组 [9] · 触发原话 `how to reach it`（教练初判"同级近义词"漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  obtain／grab 都合法 ⇒ 改整句、点名 get；换成限量球鞋场景（⛔ 与 🎓#323 不同句）
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
@@ -1213,9 +1241,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 找法：P2 第一句说完"有一次我…"，第二句用 It was when … 交代是哪一次。
 
 **题面**
-"我想说说有一次我特别为我儿子骄傲。那是我们一起去闯关的时候。"（第二句用 **It** 起头 · ⛔ 不许用 That time／Once）
+"我想说说我第一次对自己的英语有信心的那一次。那是我在机场帮一个外国人指路的时候。"（第二句用 **It was when** 起头）
 
 - 2026-09-29 新建 · 追补 09-28 新题 bank:915 · 原话 `I'd like to talk about a time I went on an obstacle course with my 5-year-old son.`（教练 09-28 判"做法不建号"漏建，她 09-29 追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉负向排除；她不会的句型（§2③）⇒ 首测把 It was when 整个写进题面；换成机场指路场景
 
 ## 迁移说明（2026-08-18）
 
