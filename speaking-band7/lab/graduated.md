@@ -3815,7 +3815,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 108 · packed（人多：a packed train）
 类型 词汇 ｜ 旧号 B191b
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **packed** ＝ 人多、挤（a packed train ／ `The subway is packed`）。
@@ -3839,6 +3839,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `the subway is packed.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `The subway is packed`
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "人挤人"说 crowded／jam-packed 都完全地道，packed 只是其中一个（旧题面靠首字母 p 硬框）⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 109 · enough X to go round（够分）
 类型 词组 ｜ 旧号 B192
@@ -3876,7 +3878,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 110 · "没有 X" 的三种说法（口语默认走 I didn't have any…, so…）
 类型 结构 ｜ 旧号 B193
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **"没有 X" 的三种说法，口语默认走 `I didn't have any…, so…`**：
@@ -3903,6 +3905,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I didn't have a charger, so I used my colleague's
   —— 与本条写死的口语默认走法逐字一致
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  `Without a charger, I used my colleague's.` 本身完全成立，"I didn't have …, so …"只是口语默认走法的偏好 ⇒ 中译英里产不出 ❌（08-16 那次 ❌ 原话未存、无从确认是真错）
 
 ### 113 · "都要/总是"那一层（always end up -ing／have to／it always takes）
 类型 结构 ｜ 旧号 B197
@@ -3948,7 +3952,7 @@ something to look forward **to** ／ a pen to write **with**。
 **问题是什么**
 **It's less about X AND more about Y** —— 配对词是 **and**，⛔ 不是 but：
 `it is less about the machine itself **and** more about the time spent with kids`。
-同一格里的邻居（别串）：not … but … 完全合法（08-17 她答的就是它），但绕开这个块 ⇒ 当天改点名。
+同一格里的邻居（别串）：not … but … 完全合法（08-17 她答的就是它），但绕开这个块 ⇒ 题面正向点名 less about。
 判据一句话：less about … 后面接的是 **and** more about …，两半靠 and 连。
 
 **怎么发现的**
@@ -3963,7 +3967,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：说完 less about X，下一个词直接给 **and**，再接 more about Y。
 
 **题面**
-**点名**："这事儿重点不是机器本身，是陪孩子的时间。"（用 less about … more about … 说一遍）
+"学乐器重点不在天赋，而在每天练多久。"（用 **It's less about** 起头）
 
 - 2026-08-12 ✅
 - 2026-08-15 ✅
@@ -3972,11 +3976,13 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `It's less about the machine itself **and** more about the time you spend with your kids.`
   配对词是 and，⛔ 不是 but（⭐ 本条是她自产的块）
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  点名 It's less about，后半 and more about 的配对词留给她（考点就是 and ⛔ but）；换成学乐器场景
 - 备注 这个块她在自由产出里已自发用对四次（08-11/13/15/16 四篇 P2 结尾）
 
 ### 115 · a couple of ＝ 两个（精确）；"几个"用 a few
 类型 词汇 ｜ 旧号 B199
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19**（08-20 的回潮已撤销，见下）｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19**（08-20 的回潮已撤销，见下）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **a couple of ＝ 两个（精确）**；"几个"要用 **a few**：`there were **a few** reasons I didn't go.`
@@ -4010,10 +4016,12 @@ something to look forward **to** ／ a pen to write **with**。
   ⇒ 本次不计档位，恢复 🎓。仅保留 ⚠️：口语里 very few／hardly anyone 更常听到，only few 偏书面
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `a few reasons`
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-20 那次是教练误判、已撤销）；a few／a couple of 她一直用对
 
 ### 116 · colourful X（不是 color X）
 类型 词汇 ｜ 旧号 B200
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **colourful X**（形容词是 **-ful** 形式）—— ⛔ 不是 color X、⛔ 不是 -ed 形式：
@@ -4038,10 +4046,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `he bought his son a colorful dinosaur.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `colorful` —— -ful 形式对；color／colour 只是美英拼写变体（§2.1 不算错）
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；colorful 她一直用对
 
 ### 117 · watch（盯着看一个过程）vs see（看到结果/一瞬间）
 类型 词汇 ｜ 旧号 B201
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **watch（盯着看一个过程）vs see（看到结果／一瞬间）**；watch ＋ 宾语 ＋ **动词原形**：
@@ -4066,6 +4076,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `he can watch pictures on the screen turn into real objects.`（watch ＋ 宾语 ＋ 原形）
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `watch the pictures on the screen turn into real objects.` —— watch ＋ 宾语 ＋ 动词原形
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；watch ＋ 宾语 ＋ 原形这一格已由 🎓#16 的新题面（"看着他收完"用 watch）去测
 
 ### 118 · 只有…才（ONLY ＋ 动词／It's only … that/when）
 类型 结构 ｜ 旧号 B203
@@ -4118,7 +4130,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 119 · when（一定会发生/每次都这样）vs if（不确定）
 类型 语法 ｜ 旧号 B204
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **when（一定会发生／每次都这样）vs if（不确定）**：
@@ -4145,6 +4157,8 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-10 ✅ 复检 · 第 4 组 · `everyone laughs every time he tells that joke; if he comes tomorrow, I'll take him.`
   前半 every time（＝ 一定会发生，与 when 同族）· 后半 if（不确定）⇒ 两侧分工对
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；when／every time ／ if 的分工她一直对
 
 ### 120 · 治"句子太单薄"：加一个具体的东西（时间/距离/数字/结果），不是换大词
 类型 结构 ｜ 旧号 B205
@@ -4179,7 +4193,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 121 · queue 是可数名词（in A queue／queue for half an hour）
 类型 语法 ｜ 旧号 B206
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **queue 是可数名词**（in **a** queue）；当动词用时后面直接接时长：`I queued **for half an hour**.`
@@ -4202,10 +4216,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `I queued for half an hour.`
 - 2026-09-10 ✅ 复检 · 第 4 组 · `queue for half an hour` —— queue 当动词、后面直接接时长
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；旧题面"排了半小时队（用 queue 说）"她答 queued for half an hour，根本碰不到 a queue 这个考点
 
 ### 122 · 肯定·随便哪个 → any-（Anything's fine.）
 类型 语法 ｜ 旧号 B207a
-状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **肯定句里的"随便哪个"用 any-**：`Anything's fine.` ／ `anything is fine. it's up to you.`
@@ -4235,10 +4251,12 @@ something to look forward **to** ／ a pen to write **with**。
   是「什么都行」在口语里同样地道的译法、且完全绕开 any- ⇒ 考点测不到（§6.5 第 7 项）。
   排除它之后 any- 这个真考点一个字都没泄露。
 - 2026-09-07 ✅ 复检 · 第 3 组 · `anything is fine`（肯定句里用 any-，⛔ 没落进 whatever／I don't mind）
+- 2026-09-29 📝 退池 · ③ 题面收不拢
+  "什么都行"说 whatever／I don't mind 同样地道（条目自己写着），不点名逼不出 anything、点了就是给答案；08-12／08-13 两次 ❌ 原话未存，此后五次全对
 
 ### 123 · 肯定·全部 → every-（Everything's gone up.）
 类型 语法 ｜ 旧号 B207b
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **肯定句里的"全部"用 every-**：`Everything's gone up.` ／ `everyone knows`。
@@ -4260,10 +4278,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-16 ✅
 - 2026-09-09 ✅ 复检 · 第 3 组 · `everyone knows`
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；everyone／everything 当主语她一直对
 
 ### 125 · employer（给工作的）／employee（拿工作的）
 类型 词汇 ｜ 旧号 B210
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **employer（给工作的）／employee（拿工作的）**—— 两个词只差词尾：
@@ -4288,10 +4308,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `companies should provide training to employees.`
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `employee`
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；employee 她一直用对，staff／worker 也都地道
 
 ### 126 · get used to ／ settle into（适应新环境）
 类型 词组 ｜ 旧号 B211
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **get used to ／ settle into（settle in）** ＝ 适应新环境：
@@ -4316,10 +4338,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `new staff need time to settle in.`（settle in 用对；句中的 staff 因教练刚给过，不计 #129）
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `get used to the new environment`
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  "适应新环境"说 adapt to／adjust to 同样成立，get used to／settle in 只是口语偏好（旧题面靠排除项硬框）⇒ 中译英里产不出 ❌；历史零 ❌
 
 ### 127 · especially 不带来介词：句子本来要什么介词就用什么
 类型 结构 ｜ 旧号 B213
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **especially 不带来介词**：句子本来要什么介词就用什么 ——
@@ -4349,6 +4373,8 @@ something to look forward **to** ／ a pen to write **with**。
   ⚠️ 选词（⛔ 未建条目）：中文"上班族"更贴 office workers／working people，commuters 侧重"通勤的人"；
      在 app 语境里说得通 ⇒ ⛔ 不判错（§3.2b：说不出"她不会哪个词组"就不建条目）
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌（08-12 是 ◎）；especially 后面的介词她一直跟对
 - 备注 她真正的错是"挂空"：介词短语后面另起完整句 ⇒ 悬空。万能式 `This is especially true for…`
 - 备注 08-19 她问"省一个 for 可以么" → 可以：前面已有 for everyone，后面省略式母语者常用；
   写成 especially for working people 也对
@@ -4388,7 +4414,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 129 · staff 是集合名词，没有复数 staffs（the staff ARE friendly）
 类型 语法 ｜ 旧号 B216
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21**（08-23 撤销 08-21 的误判后按日志重放补记；她 08-23 也当场指定）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21**（08-23 撤销 08-21 的误判后按日志重放补记；她 08-23 也当场指定）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **staff 是集合名词，没有复数 staffs** —— 唯一的硬错就是写出 staff**s**。
@@ -4445,6 +4471,8 @@ something to look forward **to** ／ a pen to write **with**。
   ★ 本条 08-20／08-21／08-23 连测三次（中间还有一次教练误判撤销）才稳住，今天在**自由产出**里一次到位。
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `our company staff` —— staff 单数，⛔ 没写成 staffs（考点命中）
   ⚠️ 顺带：our company staff → the staff at our company（三个名词叠着读着生硬）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存；staffs 这个硬错她一次都没犯过（08-21 的 ❌ 是教练误判、已撤销）
 
 ### 130 · can 才是默认，be able to 是备用（只在完成时/不定式/情态后才必须换）
 类型 语法 ｜ 旧号 B217
@@ -4532,7 +4560,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 132 · 环路 ＝ ring road（❌ round road）
 类型 词汇 ｜ 旧号 B219
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **环路 ＝ ring road**（❌ round road）：`I live just off the second **ring road**.`
@@ -4556,10 +4584,12 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-19 ✅ `I live just off the second ring road.`（ring road ＋ ⭐ just off 把"边上"译准了）
 - 2026-09-10 ✅ 复检 · 第 4 组（打包）· `the second ring road`
 - 2026-09-21 ⚡ 自评免测 · 复检第 3 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；ring road 她一直对（round road 这条错路从没走过）
 
 ### 133 · this morning / last night（❌ today morning／yesterday night）
 类型 搭配 ｜ 旧号 B220
-状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **this morning ／ last night**（❌ today morning ／ yesterday night）。
@@ -4584,6 +4614,8 @@ something to look forward **to** ／ a pen to write **with**。
   且完全正确 ⇒ 绕开了 last night 这个考位（§6.5 第 7 项）。
 - 2026-09-07 ✅ 复检 · 第 5 组（打包）· `last night`（⛔ 没写成 yesterday night，也没退到 evening）
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；last night／this morning 她一直对（yesterday night 这条错路从没走过）
 
 ### 134 · 不是所有动词都要宾语（decide/choose/help/manage/win 能单独站住）
 类型 语法 ｜ 旧号 B221
