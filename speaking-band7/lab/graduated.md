@@ -24,7 +24,7 @@
 
 ### 1 · 同位语（一个逗号，不用 who/which）
 类型 结构 ｜ 旧号 B2
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **同位语**：一个逗号就能把解释性名词块挂在名词后面，⛔ 不用 who／which 从句 ——
@@ -57,6 +57,8 @@
     本场发题前刚补了排除项「⛔ 不许用 who／which 从句」，考位这才真正露出来。
   ★ `a small out` ⛔ 不判错：明显是打字漏字（想写 town）⇒ §2.1 拼写／滑手不算错、不建条目
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ①④ 同级说法 ＋ 底子不明
+  `Yibin, which is a small city…` 本身完全成立（换不换都行），中译英里产不出 ❌；旧 B 表迁移、原话未存、历史零 ❌ ⇒ 测不出缺口
 - 备注 ⚠️ **收尾 1b 复核追加（2026-08-21）**：复查时发现 🎓#255 的 08-20 日志里有 `sleep is vital **to** health`，
   当时判 ✅ —— **那次判 ✅ 是对的，不追改**。两处不是同一件事：
 
@@ -109,7 +111,7 @@
 
 **问题是什么**
 **That's where …** ＝ 高复用块，用来点"就是在这儿／这就是…的地方"：`That's where the Yangtze River starts.`
-同一格里的邻居（别串）：⛔ It starts here ／ This is the place —— 两个都合法，但都绕开这个块 ⇒ 题面已排除。
+同一格里的邻居（别串）：It starts here ／ This is the place —— 两个都合法，但都绕开这个块 ⇒ 题面正向点名 That's where。
 判据一句话：中文说"就从这里／就是在那儿"⇒ 先落 **That's where**，再把句子接下去。
 
 **怎么发现的**
@@ -122,7 +124,7 @@
 找法：中文出现"就是从这儿／这就是…的地方"⇒ 张口先给 **That's where**，别现造句子。
 
 **题面**
-**点名**："长江就从这里开始。"（用 **That's** 起头说一遍，⛔ 不许用 It starts here／This is the place）
+"这家咖啡馆，我就是在这儿第一次见到我老公的。"（"就是在这儿"用 **That's where** 说）
 
 - 2026-08-11 ✅
 - 2026-08-15 ◎ 题面没逼出
@@ -130,6 +132,8 @@
 - 2026-08-19 ✅ 点名 · `That's where the Yangtze river starts.`
 - 2026-09-09 ✅ 复检 · 第 4 组 · `That's where the Yangtze River begins.`
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉负向排除，正向点名 That's where；换成咖啡馆场景
 
 ### 5 · -ing 描述东西 / -ed 描述人（一句里两侧都要）
 类型 语法 ｜ 旧号 B10＋B157
@@ -178,7 +182,7 @@
 
 **问题是什么**
 **预制块里的情态／副词是功能核心**（could／never／really 这一层不能省）：`I **could** eat hotpot every day.`
-同一格里的邻居（别串）：⛔ can —— could 那层是"我天天吃都愿意"（表达喜欢），can 是"有能力"，两者不是一回事；题面已排除 can。
+同一格里的邻居（别串）：⛔ can —— could 那层是"我天天吃都愿意"（表达喜欢），can 是"有能力"，两者不是一回事；题面用中文释义把"能"限定成夸张说法。
 判据一句话：把这个情态词／副词拿掉，意思还是原来那个吗？不是 ⇒ 它就是核心，⛔ 不许省。
 
 **怎么发现的**
@@ -192,7 +196,7 @@
 找法：中文里那个"能／从来／真的"先别丢 —— 去掉它意思变不变？变就必须说出来。
 
 **题面**
-**点名**："我能天天吃火锅。"（"能"那一层不许省 · ⛔ 不许用 can）
+"这家的小笼包，我能天天吃都不腻。"（"能"是夸张地说自己特别爱吃，不是说有这个能力）
 
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ◎ 她答 `I can eat hotpot every day` 完全合法（"我有能力天天吃"）
@@ -202,6 +206,8 @@
 - 2026-09-12 📝 题面整改：点名「用 could 说一遍」→「"能"那一层不许省 · ⛔ 不许用 can」—— 原点名把考点（could 不能省）直接交出去（§6② 红线一），排除 can 之后 could 要她自己调 · 全档题面 review
 - 2026-09-22 ✅ 复检第 2 组 [3] · `I'd be able to eat hotpot every single day.` —— 预制块里的情态层没省（'d be able to），也没用 can ⇒ 稳
   ★ ⛔ 不收窄回 could：题面 09-12 已整改，考点是"情态层不许丢"不是"背出 could"（§3.3 硬顺序①②）⇒ 题面不改
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
+  去掉「⛔ 不许用 can」，改用中文释义把"能"限定成夸张说法（could 那层）；换成小笼包场景
 - 备注 could 那层是"我天天吃都愿意"（表达喜欢），can 是"有能力"，两者不是一回事
 
 ### 8 · 群组用 in，论坛用 on（in an online group／on a forum）
@@ -273,7 +279,7 @@
 
 ### 9 · 换谓语升级：is+形容词 → 实义动词（只在说"对人的作用"时换）
 类型 结构 ｜ 旧号 B22
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业"）｜ 题型 整句
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业"）｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **换谓语升级：is ＋ 形容词 → 实义动词**，**只在说"对人的作用"时换**。
@@ -303,6 +309,8 @@
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 2 组 · `this job bores me. This room is really quite.`
   —— 第一句换成实义动词 bores me ✔ 第二句照题面不换 ✔ ｜ ✏️ 拼写 quite→quiet（§2.1 不算错）
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `this job is very boring` 本身完全成立，换成 bores me 只是风格升级 ⇒ 中译英里产不出 ❌；另一半（客观状态不换）是她一直会的
 
 ### 11 · no questions asked ＋ for any reason（单数）
 类型 词组 ｜ 旧号 B32＋B100
@@ -311,7 +319,7 @@
 "无理由退货"的两个固定块 —— 一条规则下的两个成员：
 · **no questions asked**（questions 是被问的一方 ⇒ 过去分词 **asked**；整块背，⛔ 不拆开想时态）
 · **for any reason**（reason 用**单数**）
-同一格里的邻居（别串）：⛔ without a reason（题面已排除）。
+同一格里的邻居（别串）：without a reason（合法，但不是这两个固定块）。
 判据一句话：这两个块是整块背的 —— questions 后面永远是 asked，reason 永远单数。
 ★ 本条 ＝ 原 #188（for any reason ＋ no questions asked）2026-08-19 并入，**同题面同块**。
 
@@ -327,7 +335,9 @@
 找法：这两个块一起想 —— 一个带 questions（后面必须是 ask**ed**），一个带 reason（**单数**）。
 
 **题面**
-**点名**："无理由退货"（"无理由"用一个固定块说，不要 without a reason；**两个说法都要**——一个带 questions，一个带 reason）
+题面（2 句，两个成员各一句）
+　① "不问原因、直接给退"（商家承诺的那种，不追问你为什么）
+　② "出于任何原因"（不管什么理由都行）
 
 **成员出题账**
 ① no questions asked ｜ 08-19 ❌ · 08-20 ✅ · 09-05 ✅ · 09-07 ✅
@@ -350,12 +360,14 @@
 - 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉英文点名与"不要 without a reason"，题面改成两个成员各一个中文块（合并条多句覆盖）
 - 备注 整块背：questions 是被问的一方 ⇒ 过去分词 asked（＝ with no questions being asked），不拆开想时态
 - 备注 合并 2026-08-19：#188（for any reason ＋ no questions asked）并入本条，**同题面同块**
 
 ### 13 · 共享主语减 I（一个 I 带两个动词）
 类型 结构 ｜ 旧号 B35
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **共享主语减 I**：并列两个动作用的是同一个主语时，第二个 I 不用再说 —— `I get up **and** go straight to work.`
@@ -377,10 +389,12 @@
 - 2026-08-19 ✅ `I get up and go straight to work.`（一个 I 带两个动词）
 - 2026-09-10 ✅ 复检 · 第 3 组 · `I get up and head straight to work` —— 一个 I 带两个动词，第二个 I 没冒出来
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；共享主语只说一次 I 是她稳定会的基础结构，不是一个能学的表达
 
 ### 14 · well away（程度旋钮：不换词只加精度）
 类型 词组 ｜ 旧号 B36
-状态 连对1 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20 · 她指定** ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20 · 她指定** ｜ 题型 整句
 　　（原话："我觉得这道题不好，我不喜欢用 well，用 far 没啥问题，这道题毕业"）
 　　⇒ 判定：**这是可选升级块，不是缺口** —— `far away from the road` 本身完全正确，
 　　　 well away 只是另一个说法。她已有正确产出且明确不想用这个块 ⇒ 停止召回
@@ -388,7 +402,7 @@
 **问题是什么**
 **well away**（程度旋钮：不换词，只加精度）—— "离马路远远的" ＝ well **away** from the road。
 同一格里的邻居（别串）：`far away from the road` 本身完全正确，well away 只是另一个说法；
-⛔ 标准英语 well 不叠 far（`well far` 只在英式口语俚语里出现 ＝ very far，考场语域不搭）⇒ 题面已排除 far。
+⛔ 标准英语 well 不叠 far（`well far` 只在英式口语俚语里出现 ＝ very far，考场语域不搭）⇒ 题面正向点名 well，后面那个词留给她。
 判据一句话：well 后面能挂的是一个**闭集**，far 不在里面 —— 要调的那个词是 away。
 
 **怎么发现的**
@@ -403,8 +417,7 @@
 找法：要用 well 加精度时先想一句 —— 它后面挂的是不是那几个固定词之一？不是就别硬挂。
 
 **题面**
-**点名**："离马路远远的"（"远远的"用 well ＋ 一个词，**那个词不是 far**）
-　　★ 题面 2026-08-20 改：原点名只说"well ＋ 一个词"，`well far` 就是合法执行 ⇒ 排除法补一句
+"我们家的狗，我都拴得离马路远远的。"（"远远的"用 **well** 说）
 
 - 2026-08-17 ◎ 题面没逼出（far away 也合法）→ 08-17 改点名
 - 2026-08-19 ❌ `well far from the traffic`——点名生效（她确实产出 well ＋ 一个词），但词选错
@@ -415,21 +428,21 @@
      `well far` 只在英式口语俚语里出现＝ very far，考场语域不搭）
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· well away from（well ＋ away，⛔ 不是 far）
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  far away 合法 ⇒ 中文块单独映射不回 well away；改整句、正向点名 well，away 留给她（她掉过的就是 well far）；换成拴狗场景
 - 备注 更高一档的说法（房子离马路退得远）：`His house is set well back from the road.`
 - 备注 well 当程度旋钮只配固定那几个：well away／well worth／well past／well over／well aware／well ahead
 - 备注 08-19 她问"the road 哪个好" → the road 对（马路这条路）；the traffic 是路上的车流
 
-### 15 · deep down ／ It's not that A, it's just B ／ can't be bothered
+### 15 · deep down（内心深处：副词块）
 类型 词组 ｜ 旧号 B37
 状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
 
 **问题是什么**
-同一条目下的三个块：
-· **deep down** ＝ 内心深处（**副词块**，⛔ 不用 heart／inside）
-· **It's not that A, it's just B** ＝ 不是…，只是…
-· **can't be bothered** ＝ 懒得动（比 lazy 更口语；题面把 lazy 排除，逼的就是它）
-同一格里的邻居（别串）：lazy 是**说人**的 —— `I'm just lazy` 对、`It's just lazy` 不对（08-19 她当场自己纠过）。
-判据一句话："内心深处"想到名词（心／里面）就走错了，它是个副词块；"懒得动"别停在 lazy。
+**deep down** ＝ 内心深处（**副词块**，放句首：`Deep down, I know I should go to bed early.`）。
+同一格里的邻居（别串）：in my heart ／ inside（能懂，但 deep down 才是口语里说"心底里其实知道"的那个块）
+判据一句话："内心深处"想到名词（心／里面）就走错了，它是个副词块。
+★ 拆号：原条目捆着三个块 —— It's not that A, it's just B 与 🎓#71 同一个框 ⇒ 归 #71；can't be bothered 拆成 #374。
 
 **怎么发现的**
 旧 B 表迁移（B37，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅ 首次进流。
@@ -438,12 +451,12 @@
 2026-09-09 复检第 4 组 ✅ 两个考点块都在位（deep down ⛔ 没用 heart／inside ＋ It's not that A, it's just B）。
 
 **我错在哪**
-她的：`It's just lazy`（08-19 当场自纠）／ `It's not that I don't go`（09-09 复检，"想"那层漏译，⛔ 不判档位、不建条目）
-正确：`I'm just lazy` ／ `It's not that I don't want to go, I'm just lazy.`
-找法：说"内心深处"直接找副词块 deep down，⛔ 别去够 heart／inside；说"懒得动"往 can't be bothered 上引。
+她的：deep down 这一块历史里没有掉过（触发原话未存）；另两块的记录见历史行（08-19 `It's just lazy` 自纠 ／ 09-09 want to 漏译）
+正确：`Deep down, I know …`
+找法：说"内心深处"直接找副词块 deep down，⛔ 别去够 heart／inside。
 
 **题面**
-"内心深处"（副词块 · ⛔ 不许用 heart／inside） ／ "不是不想去，只是懒得动"（⛔ 不许用 lazy）
+"心底里其实明白"（嘴上不承认、心里最真实的那一层）
 
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `deep down, I know I should go to bed early. It's not that I don't want to go. I'm just lazy.`
@@ -457,11 +470,14 @@
   最小改 `It's not that I don't want to go, I'm just lazy.`
 - 2026-09-12 📝 题面整改：第二句「不是不想去，只是懒。」→「不是不想去，只是懒得动」（⛔ 不许用 lazy）—— 去句号、与第一块统一成词组题（§6.0 一条一种形式）；"懒得动"逼的正是下面备注里那个 can't be bothered · 全档题面 review
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 拆号（§3.1 一条 ＝ 一个考点）
+  原条目捆着三块：deep down 留本条；It's not that A, it's just B 与 🎓#71 同一个框 ⇒ 归 #71；can't be bothered 拆成 #374（她从没自己说出过）
+  题面改成 deep down 一个中文块（零英文提示）
 - 备注 第三个块 can't be bothered（懒得动）比 lazy 更口语，下次可以往这上引
 
 ### 16 · 让某人做某事四件套（get sb TO do 只有它带 to；have/make/let/watch/see sb DO）
 类型 搭配 ｜ 旧号 B39
-状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
 
 **问题是什么**
 **让某人做某事四件套**：`get sb **TO** do` —— 这一族里**只有 get 带 to**；
@@ -479,7 +495,7 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 找法：写完 have／make／let／watch／see ＋ 人（物），后面那个动词一律光杆；只有 get 要补 to。
 
 **题面**
-"让学生自己试"（"让"用 **get** 说）
+"我让孩子自己把房间收拾好，还在门口看着他收完。"（"让"用 **get** 说，"看着他收"用 **watch** 说）
 
 - 2026-08-11 ❌ 同族 `watch the machine BUILDS it`
 - 2026-08-12 ✅
@@ -488,11 +504,13 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 - 2026-08-19 ✅ `teachers should get students to try it themselve`（get sb TO do 选对）
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· `let students ... try`（原形，⛔ 没多加 to）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `get students to try it themselves`（get sb TO do，四件套里只有 get 带 to）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  考点是 to／光杆原形挂在哪 ＝ 靠句子现形；一句覆盖两半（get sb to do ＋ watch sb do，她掉过的是 watch 那半）
 - ⚠️ 与已毕业的 #143（哪些动词后面要带 to）是同一条规则的两个角度 —— 付息日 c 段处理
 
 ### 17 · talk AT sb（单向灌输）vs talk TO sb
 类型 搭配 ｜ 旧号 B40
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
 
 **问题是什么**
 **talk AT sb** ＝ 单向灌输（对着你说教，不听你说）／ **talk TO sb** ＝ 跟你说话（双向）。
@@ -511,7 +529,7 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 找法：说"对着某人讲"之前先问一句 —— 对方有没有机会回话？没有就用 **at**。
 
 **题面**
-"对着你讲一小时"（单向灌输那种"讲" · 用 **talk** ＋ 一个介词说）
+"有些家长只会对着孩子说教，从来不听孩子怎么想。"（"对着孩子说教"用 **talk** 说）
 
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `some teachers just talk at you for an hour.`
@@ -524,6 +542,8 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 - 2026-09-09 ✅ 复检 · 第 4 组 · `talk at you for an hour` —— talk **at**（单向灌输）
 - 2026-09-12 📝 题面整改：补（单向灌输那种"讲" · 用 **talk** ＋ 一个介词说）—— 原题面裸给"对着你讲一小时"，talk to you 同样合法 ⇒ at／to 的分辨逼不出来（§6.5 第 7 项）· 全档题面 review
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 talk，介词 at 留给她；"说教、不听孩子怎么想"把单向那层写进中文
 
 ### 18 · 论元完整（中文可单说的动词，英文必须带宾语/补语）
 类型 结构 ｜ 旧号 B41
@@ -641,7 +661,7 @@ look for **it** · find **it** · regret **it** · supply **water** for … · s
 
 ### 19 · 分数说法（a half / a third / a quarter / two thirds）
 类型 词组 ｜ 旧号 B42
-状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **分数说法**：a half ／ a third ／ a quarter ／ two thirds；"十分之一" ＝ **a tenth ／ one tenth**。
@@ -665,6 +685,8 @@ look for **it** · find **it** · regret **it** · supply **water** for … · s
 - 2026-08-19 ✅ `only half, even a tenth, of the original price`（一个 of 管住两个数量）
 - 2026-09-09 ✅ 复检 · 第 4 组 · `half of the original price` ／ `one tenth`
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；分数说法是她稳定会的基础知识，不是一个能学的表达
 - 备注 她问"half 可以加 of" → 可以：half the price／half of the price 都对
 
 ### 20 · 泛指的不对称（the countryside 带 the／city life 不带）
@@ -698,12 +720,13 @@ look for **it** · find **it** · regret **it** · supply **water** for … · s
 
 ### 21 · often ＝ 经常（频次高）
 类型 词汇 ｜ 旧号 B44
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
 
 **问题是什么**
 **often ＝ 经常**（频次高）。位置：主语后、实义动词前 —— `my friend **often** goes to that shop.`
 同一格里的邻居（别串）：usually ＝ 通常情况下（＝ #22，两条**题面互斥**）；
-frequently／a lot 也是"频次高"、也合法 ⇒ 2026-09-10 题面补了首字母提示「**o** 开头」才把 often 框死。
+frequently／a lot 也是"频次高"、也合法（都算对）；**真缺口是反方向**：她早期把"经常"说成 usually（#22 备注记了三次）
+⇒ 题面用"最近老是…"这种明摆着讲次数的场景，usually 放进去就不对。
 判据一句话：说的是**次数多** ⇒ often；说的是**一般情况下** ⇒ usually。
 
 **怎么发现的**
@@ -716,8 +739,7 @@ frequently／a lot 也是"频次高"、也合法 ⇒ 2026-09-10 题面补了首�
 找法：中文"经常"先分一刀 —— 讲的是次数（often）还是常态（usually）？
 
 **题面**
-"经常"（副词，频次高 · **o** 开头 · ⛔ 不许用 usually）
-★ 与 #22 题面互斥（原写在元信息行；元信息行留"题面"二字会被 check 当成第二处题面 ⇒ 移到本节）
+"他最近经常迟到，老板已经说过他两回了。"
 
 - 2026-08-17 ✅ 首次进流
 - 2026-08-19 ✅ `my friend often goes to that shop.`（often 位置对 ＋ goes 的 -s 没掉）
@@ -726,10 +748,12 @@ frequently／a lot 也是"频次高"、也合法 ⇒ 2026-09-10 题面补了首�
   ⇒ 题面不唯一可判。补 `**o** 开头` 把 often 框死。
 - 2026-09-10 ✅ 复检 · 第 3 组（打包）· `often` —— 新题面（补了「**o** 开头」）下首测即命中
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 去首字母）· 题型 词组 → 整句
+  often／frequently／a lot 都算对；题面改成"最近老是迟到"这种讲次数的场景，逼的是 usually 这条错路（#22 备注里她误用过三次）
 
 ### 22 · usually ＝ 通常情况下
 类型 词汇 ｜ 旧号 B188
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **usually ＝ 通常情况下**。位置：主语后、实义动词前 —— `I **usually** get up at 7.`
@@ -755,6 +779,8 @@ always ＋ 习惯动词是常见夸张，⛔ 不算错 ⇒ 题面把 often／alw
 - 2026-08-21 ✅ 复习（点名题面首测）· `i usually get up at 7.`——usually 位置也对（主语后、实义动词前）→ **连对2，毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `usually`
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  "通常"→ usually／normally／generally 都成立，中译英里产不出 ❌；她误用 usually 的那一侧（把"经常"说成 usually）由 #21 的新题面去测
 - 备注 她误用 usually 三次；always ＋ 习惯动词是常见夸张，不算错
 
 ### 23 · 固定词序整块背（back and forth · now and then · sooner or later · more or less）
@@ -764,7 +790,7 @@ always ＋ 习惯动词是常见夸张，⛔ 不算错 ⇒ 题面把 often／alw
 **固定词序整块背**：back and forth · now and then · sooner or later · more or less ·
 give or take · sick and tired · safe and sound —— 词序焊死（back and forth ✅ ／ forth and back ❌）。
 同一格里的邻居（别串）：forth 今天几乎只活在 back and forth ／ and so forth 里 ⇒ **只按块记、⛔ 不当单词记**；
-`to and fro` 也满足"三个词 ＋ and ＋ 词序不许倒"⇒ 2026-09-07 补首字母提示「**b 开头**」才把它排掉。
+`to and fro` 同样是焊死词序的块、同样合法（答它算对）。
 判据一句话：这类块是整串背下来的 —— 拆开去想哪个词在前，一定错。
 
 **怎么发现的**
@@ -778,7 +804,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：这一串整块调，⛔ 别现场推哪个词在前 —— 推得出来就说明块还没背熟。
 
 **题面**
-"来回"（副词块 · 三个词、中间用 and 连 · **b 开头** · ⛔ 词序不许倒）
+"为了一份合同在两个城市之间来来回回跑"（反复往返，两头来回）
 
 - 2026-08-11 ❌
 - 2026-08-12 ✅
@@ -799,10 +825,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉词数／首字母／排除项；to and fro 同样算对
 
 ### 24 · 搭配三件（work FROM home · handle orders · sales 恒复数不带 the）
 类型 搭配 ｜ 旧号 B47
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 三件搭配焊在一条里（旧 B 表迁来的捆绑条，未拆）：
@@ -834,6 +862,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ⚪ 同句时态：中文"涨了"是已完成，英文给的是现在时 rise ⇒ rose by 20%（记在 #12，形态类不判档位）
 - 2026-09-12 📝 题面整改：第二句去句号「销量涨了 20%」—— 与第一块统一成词组题（§6.0 一条一种形式）· 全档题面 review
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移的捆绑条（work from home／handle orders／sales），原话未存、历史零 ❌；work from home 她自发用过多次，三块都是稳定会的
 
 ### 25 · It's no use doing sth（做某事没用）
 类型 搭配 ｜ 旧号 B48
@@ -842,7 +872,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 **问题是什么**
 **It's no use doing sth** ＝ 做某事没用（固定框，后面挂 **-ing**）：`it's no use fining people for littering`。
 同一格里的邻居（别串）：#32 记的是"There's no point 比 It's no use 更常用"——两条**不矛盾**（都成立，只是常用度不同）
-⇒ **她用 It's no use ⛔ 不许判错**；只有她问"哪个更常听"时才提 There's no point。题面已把 There's no point 排除。
+⇒ **她用 It's no use ⛔ 不许判错**；只有她问"哪个更常听"时才提 There's no point。题面正向点名 It's no use。
 判据一句话：It's no use 后面挂的必须是 **-ing**。
 ★ 本条原是捆绑条（litter 不可数 ／ fine sb FOR doing ／ It's no use doing）——
 　2026-08-23 c 段拆出 **#272（litter 不可数）· #273（fine sb FOR doing）**，本条只留第三块。
@@ -858,7 +888,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：中文说"…没什么用"⇒ 先落 It's no use，再把那个动词改成 -ing 挂上去。
 
 **题面**
-"罚款对乱扔垃圾没什么用。"（"没什么用"用 **use** 那个词的固定框说，⛔ 不许用 There's no point）
+"跟他讲道理没用，他根本听不进去。"（"没用"用 **It's no use** 说）
 
 - 2026-08-17 ❌ 首次进流
 - 2026-08-19 ✅ `it is no use fining people for littering`（三个点一次全中）
@@ -873,6 +903,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· it's no use fining people for littering
   （It's no use doing sth 整块）
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉负向排除，正向点名 It's no use，-ing 留给她；换成讲道理场景
 - ⚠️ **捆绑条目**：本次只验了 It's no use doing 一块；litter 不可数／fine sb FOR doing 两块未再验
   ⇒ 付息日按"一条＝一个考点"拆号时，那两块各自从 0 起算重建
 - ⚠️ 与 #32 的关系（付息日 c 段要写进两条备注）：#32 记的是"There's no point 比 It's no use 更常用"，
@@ -880,7 +912,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 27 · the credit gets shared（团队里功劳被分摊）
 类型 词组 ｜ 旧号 B50
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **the credit gets shared** ＝ 团队里功劳被分摊（口语默认走 **get-passive**，不必补 by everyone）。
@@ -916,15 +948,17 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   但本条目标形式是 the credit **gets** shared（get 被动更口语、更"被动落到某人头上"）⇒ 补排除项，下次逼出 gets。
   ★ `is shared` 与 `gets shared` **都合法**，这不是纠她的错，是把目标形式钉死
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  `the credit is shared`／`Credit is shared.` 都完全成立（条目自己也写着"都合法、⛔ 不许判错"），gets 与 is 只是被动式的风格选择 ⇒ 中译英里产不出 ❌
 - 备注 口语默认走 get-passive：`the credit just gets shared`（不必补 by everyone）
 
 ### 28 · You just get more done at home.（用画面替掉 more efficient）
 类型 词组 ｜ 旧号 B52①
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 整句
 
 **问题是什么**
 **get more done** ＝ 干得更多（用画面替掉 more efficient）：`I get more done when I work from home.`
-同一格里的邻居（别串）：⛔ do more／finish more（题面已排除）；
+同一格里的邻居（别串）：do more／finish more（合法，但不是这个块 ⇒ 题面正向点名 get … done）；
 比较式走法 `you just won't get as much done as your coworkers`（08-25 那次她在自由产出里没调出来的正是它）。
 判据一句话：结构是 **get ＋ more ＋ 过去分词**（done），⛔ 不是 do ＋ 名词。
 
@@ -942,7 +976,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：想说"效率高／干得多"时先去够 **get … done** 这个块，⛔ 别停在 do more things／more efficient。
 
 **题面**
-**点名**："干得更多"（用 **get** 那个动词说，⛔ 不许用 do／finish more）
+"在家办公没人打扰，我反而干得更多。"（"干得更多"用 **get … done** 说）
 
 - 2026-08-19 ◎ 首次进池 · 她答 `you can do more things working from home` 完全合法
   ⇒ 教练没做第二译法自查、没点名 ⇒ 题面当场加点名
@@ -956,6 +990,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
     （actually 放实义动词前，复用 🎓#220）—— 不是错，不落号
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `get more down` —— get ＋ more ＋ 过去分词这个块调对了；down 是 done 打歪（§2.1 拼写不算错）
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉负向排除，点名 get … done，more 放哪留给她（08-25 自由产出里没调出来的正是这个块）
 - （B52 六句补录，迁移时按 Q4 拆成 #28–#33 六条）
 - 备注 2026-08-25 · **反向留痕（不改状态、不回潮）**：自由产出（新题 bank:987 P3）里她写的是
   `your output at work will be less than your coworkers'` —— 语法全对、比较也对齐，
@@ -966,7 +1002,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 29 · You don't have to sit in meetings all day.
 类型 词组 ｜ 旧号 B52②
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24 · 她指定** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24 · 她指定** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **sit in meetings (all day)** ＝ 泡在会里：`You don't have to sit in meetings all day.`
@@ -1000,6 +1036,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
     ⇒ 档位不成立，写「无更好版本」，不标
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `sit in meetings` —— "泡"用 sit，⛔ 没用 stuck／trapped
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  她答的 `get stuck in meetings all day` 完全合法、还更生动（条目自己写着），sit 只是另一个说法 ⇒ 中译英里产不出 ❌
 - 备注 **#28–#33 这六条全部是"用块替掉平铺说法"型 ⇒ 天生第②类，出题一律点名**
 
 ### 30 · Say you fix something …（Say you… ＝ 举例起手，替 For example）
@@ -1009,7 +1047,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 **问题是什么**
 **Say you …** ＝ 举例起手（一个词替掉 For example），后面直接接完整从句：
 `Say you fix a problem that the entire team got stuck on`。
-同一格里的邻居（别串）：⛔ for example／for instance／suppose／imagine／let's —— 都合法，但都绕开这个词 ⇒ 题面已排除。
+同一格里的邻居（别串）：for example／for instance／suppose／imagine／let's —— 都合法，但都绕开这个词 ⇒ 题面正向点名 Say。
 判据一句话："比方说"只用**一个词** Say 起头，后面跟一整句。
 
 **怎么发现的**
@@ -1024,7 +1062,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：要举例时先落一个 **Say**，再把整句接上去，⛔ 别起 For example。
 
 **题面**
-**点名**："比方说你解决了一个全组都卡住的问题。"（"比方说"用**一个词**起头 · ⛔ 不许用 for example／for instance／suppose／imagine／let's）
+"比方说你周末加了一天班，公司就该给你补一天假。"（"比方说"用 **Say** 起头）
 
 - 2026-08-19 ✅ 首次进池 · 点名 · `Say you solve a problem the whole team was stuck on`
   ⭐ 同句还自发用对三个已毕业点：关系代词省略 ＋ 介词留末尾 ＋ stuck ON
@@ -1034,10 +1072,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ⚠️ 顺带（不计档位）：entire → whole（口语默认）· got stuck → is stuck（现在还卡着 ⇒ 现在时）
 - 2026-09-12 📝 题面整改：点名「用 Say 起头」→「用一个词起头 · ⛔ 不许用 for example／for instance／suppose／imagine／let's」—— 原点名把考点 Say 本身交出去（§6② 红线一）· 全档题面 review
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉五个排除项，正向点名 Say；换成加班补假场景
 
 ### 31 · explain YOURSELF to anyone（解释自己的行为）
 类型 搭配 ｜ 旧号 B52④
-状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）｜ 题型 整句
 
 **问题是什么**
 **explain YOURSELF to anyone** ＝ 解释自己的行为 —— **反身代词是块的一部分**，丢了 yourself 这个块就没出来。
@@ -1056,7 +1096,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：写 explain 之前先问一句 —— 解释的是"自己"吗？是就把 yourself 带上。
 
 **题面**
-**点名**："跟任何人解释自己"（用 explain 说）
+"我辞职是我自己的事，不用跟谁解释。"（"解释"用 **explain** 说）
 
 - 2026-08-19 ❌ 首次进池 · `you don't need to explain to anyone`——丢了 yourself
 - 2026-08-20 ✅ 复习（点名题面首测）· `you don't need to explain youself to anyone`
@@ -1075,6 +1115,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ★ 记一笔判据：**回潮是重动作，形状像 ≠ 同一个错。**
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· explain yourself（反身代词是块的一部分）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（打包串，她原话："除了 3）忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  考点是 yourself 挂不挂 ＝ 靠句子现形；点名 explain，yourself 留给她；换成辞职场景
 - 备注 同族块：explain yourself／behave yourself／enjoy yourself／help yourself —— 反身代词是块的一部分
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
@@ -1084,7 +1126,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 **问题是什么**
 **There's no point ＋ -ing** ＝ 做这件事没意义（比 It's no use 更常用）。
 同一格里的邻居（别串）：加 in 也对（There's no point **in** regretting it now.）·
-⛔ 不是 There's no point **to do** · ⛔ 不是 It's no use（题面已把它排除掉）。
+⛔ 不是 There's no point **to do** · It's no use 也合法（＝ #25，题面正向点名 There's no point 区分两条）。
 同族：There's no point arguing with him. ／ There's no point worrying about it now.
 判据一句话：There's no point 后面挂的那个动词，必须是 **-ing** 形。
 ★ 2026-09-12 类型由 词组 改 结构：考点是 There's no point ＋ -ing 这个**句框**，不是一个词（§6① 类型标签必须跟考点一致）。
@@ -1099,7 +1141,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：中文说到"…也没用／没意义"，先落 There's no point，再把那个动词改成 -ing 挂上去。
 
 **题面**
-**点名**："现在后悔也没用。"（用 **There's** 起头的那个框说，⛔ 不许用 It's no use · ⛔ 不许用 use）
+"事情都已经这样了，现在生气也没用。"（"也没用"用 **There's no point** 说）
 
 - 2026-08-19 ✅ 首次进池 · 点名 · `There's no point regretting now`（块用对）
   ⚠️ 同句 regret 少了宾语 it ⇒ 记进 #18 当天日志，不计本条档位
@@ -1116,10 +1158,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-13 ✅ 学习日 在池第 1 组 · `there is no point (in) regretting it now.`——框对、-ing 对、宾语 it 在（09-11 回潮后首测）
 - 2026-09-15 ✅ 学习日 在池第 1 组 · `There is no point regretting it.` —— There's no point ＋ -ing 框对；"现在"省了 ＝ 信息略省，不记档位 → **连对2，毕业**
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉负向排除，正向点名 There's no point，-ing 留给她；换成生气场景
 
 ### 33 · on a clear day（替 if it's clear）
 类型 词组 ｜ 旧号 B52⑥
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **on a clear day** ＝ 天晴的时候（用【介词 ＋ 名词】替掉从句 if it's clear／when it's clear）。
@@ -1147,6 +1191,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ——介词块放句首也对；"还能"＝ can **even** see 也落到了 ⇒ **连对 1 → 2 ⇒ 🎓 毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `on a clear day` —— 介词 ＋ 名词，⛔ 没用从句、没碰本场新排除的 weather／sunny
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 退池 · ① 同级说法
+  她答的 `when it's clear` 完全合法，on a clear day 只是把从句换成介词块的风格选择 ⇒ 中译英里产不出 ❌
 
 ### 34 · in groups（小组）≠ in pairs（两人一组）
 类型 词组 ｜ 旧号 B53
@@ -1156,7 +1202,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 **in groups**（以小组为单位）≠ **in pairs**（两人一组）——
 **pair ＝ 两个人配成一对**，**group ＝ 三个人以上的小组**，这一组区分就是本条考点。
 同一格里的邻居（别串）：in groups ／ in pairs 都是【介词 ＋ 名词复数】的裸块；
-要带动词说 ⇒ get put into groups ／ split into groups；⛔ 题面排除 form groups ／ get into groups。
+要带动词说 ⇒ get put into groups ／ split into groups ／ form groups（都合法）。
 判据一句话：几个人？两个 ⇒ in pairs；三个以上 ⇒ in groups。
 
 **怎么发现的**
@@ -1169,7 +1215,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：说"分组"之前先数人数 —— 两个人才是 paired／in pairs，三个人以上一律 in groups。
 
 **题面**
-**点名**："以小组为单位"（用【介词＋名词复数】说，⛔ 不许用 form groups／get into groups · ⛔ 不许用 teams）
+"两人一组"（两个人配成一对） ／ "按小组来"（三个人以上一组）
 
 - 2026-08-17 ◎ 题面没逼出（form groups／get into groups 都合法）→ 08-17 改点名
 - 2026-08-19 ✅ `working in groups is better than working alone`
@@ -1188,6 +1234,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-13 ✅ 学习日 在池第 1 组 · `get put in groups.`——in groups 一字不差（09-11 回潮后首测）
 - 2026-09-15 ✅ 学习日 在池第 1 组 · `in groups` → **连对2，毕业**
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉【介词＋名词复数】形态描述与三个排除项；题面改成两个中文块（两人一组 ／ 按小组），逼的就是她焊在一起的 pair／group 那一刀
 
 ### 35 · 禁双重否定：否定 → no- 词，动词一律肯定（Nobody knows.）
 类型 语法 ｜ 旧号 B54＋B207c
@@ -1226,7 +1274,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 36 · all morning / all day / all night 不带 the
 类型 搭配 ｜ 旧号 B55
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **all morning ／ all day ／ all night 不带 the**：`he played games **all night**`。
@@ -1245,7 +1293,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：写完 all ＋ 时段，回头看中间有没有混进一个 the。
 
 **题面**
-"一上午"（用 all ＋ 一个名词说）
+"他昨天打游戏打了一整晚，今天上课一直犯困。"（"一整晚"用 **all** 说）
 
 - 2026-08-11 ✅
 - 2026-08-15 ❌
@@ -1256,10 +1304,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
     零 ❌ 线不适用；已撤销，仍需连对 3
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· all morning（⛔ 不带 the）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `all morning`（⛔ 没落进 the whole morning）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  the whole night 合法 ⇒ 中文块单独逼不出 all ＋ 时段；改整句、点名 all，中间插不插 the 留给她（她掉过两次的就是这个）
 
 ### 37 · everyday（形容词）≠ every day（副词短语）
 类型 语法 ｜ 旧号 B56
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **everyday（形容词，连写）≠ every day（副词短语，分写）**：
@@ -1288,10 +1338,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-10 ✅ 复检 · 第 3 组 · `everyday commute` —— 形容词 everyday 连写
   ★ 本场发题前刚补了排除项「⛔ 不许用 daily」，考位才露出来（daily commute 是最常见说法）
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ③ 口语里测不出
+  everyday／every day 连写分写**读音完全一样**，只是书写差别（§2.1 拼写层）⇒ 口语线测不出；旧 B 表迁移、历史零 ❌
 
 ### 38 · feel the energy in the room
 类型 词组 ｜ 旧号 B57b
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-20**（08-20 全库回扫漏网，08-21 按日志重放补记）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-20**（08-20 全库回扫漏网，08-21 按日志重放补记）｜ 题型 整句
 
 **问题是什么**
 **feel the energy in the room** ＝ 感觉到现场那种气氛 —— "气氛／那种劲儿"这个名词用 **energy**。
@@ -1312,7 +1364,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：说"现场那种气氛／那种劲儿"时，名词直接落 **energy**，动词用 feel。
 
 **题面**
-**点名**："感觉不到现场那种气氛"（"那种气氛"用 energy 那个词说）
+"那场演唱会我是在网上看的，完全感觉不到现场那种气氛。"（"那种气氛"用 **energy** 说）
 
 - 2026-08-11 ✅（继承毕业，08-17 复查）
 - 2026-08-17 ◎ 题面没逼出；同日删掉 live 那一半（她两次指出与 there 语义重复）
@@ -1330,6 +1382,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ⇒ 同类扫查：全库"日志含 ◎ 且未毕业"共 6 条（#28 #29 #33 #38 #88 #129），除本条外五条状态行与日志一致 ⇒ 孤例。
 - 2026-09-10 ⚡ 自评免测 · 复检第 3 组（她原话："直接过"）
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 energy，动词 feel 与冠词留给她；换成网上看演唱会场景（⛔ 不带"只有…才"，与 🎓#118 互斥照旧）
 
 ### 39 · 惯用定冠词：the TV / the radio / the cinema / on the screen
 类型 语法 ｜ 旧号 B58
@@ -1366,7 +1420,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 40 · 删掉自我对冲的 a bit（对比句要给足）
 类型 结构 ｜ 旧号 B59
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **删掉自我对冲的 a bit**：做对比就要把程度给足 ——
@@ -1393,6 +1447,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
   ⚠️ 同句 lonelier→duller／doesn't feel the same（"冷清"≠"孤单"），词义层，不影响本条考点
 - 2026-09-10 ✅ 复检 · 第 3 组 · `It's a lot lonelier watching at home.` —— 程度给足（⛔ 没拿 a bit 自我对冲）
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ① 同级说法
+  a bit lonelier 本身完全成立，删掉对冲词是表达风格建议 ⇒ 中译英里产不出 ❌；旧 B 表迁移、历史零 ❌
 
 ### 41 · time and energy（并列词序：短的在前长的在后）
 类型 搭配 ｜ 旧号 B60
@@ -1436,7 +1492,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 42 · which（确定范围里选）vs what（范围开放）
 类型 语法 ｜ 旧号 B61
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **which（在确定范围里选）vs what（范围开放）**：`no one knows **which** part is yours.`
@@ -1460,6 +1516,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-08-19 ✅ `no one knows which part is yours.`（范围确定用 which）
 - 2026-09-10 ✅ 复检 · 第 3 组 · `no one knows which part is yours.` —— which（确定范围里选）用对
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；which／what 在"哪部分"这种句子里她一直用对，口语里 what part 也有人说 ⇒ 测不出缺口
 
 ### 43 · come to your city / come to town（乐队巡演到某地）
 类型 词组 ｜ 旧号 B62
@@ -1498,7 +1556,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 44 · good AT doing ／ 升级版 He cooks well.
 类型 搭配 ｜ 旧号 B66
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 整句
 
 **问题是什么**
 **good AT doing**（介词写死是 **at** ＋ -ing）／ 升级版直接换实义动词：**He cooks well.**
@@ -1523,10 +1581,12 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-08-19 ✅ `he cooks really well.`（直接上升级版，没绕 good at cooking）
 - 2026-09-10 ✅ 复检 · 第 3 组（打包）· `he's really good at cooking` —— good **AT** doing
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；good at -ing 与 cooks well 她一直用对，是稳定会的基础搭配
 
 ### 45 · walk to work（by 后面只接交通工具）
 类型 搭配 ｜ 旧号 B67
-状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 词组
+状态 连对3 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-08-19** ｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 **walk to work** ＝ 走路上班 —— **by 后面只接交通工具**（by bus／by car），⛔ 没有 by walk 这个说法。
@@ -1550,6 +1610,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-08-19 ✅ `I walk to work every day.`（不是 by walk）
 - 2026-09-10 ⚡ 自评免测 · 复检第 3 组（她原话："9. 10 都直接过"）
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
+  旧 B 表迁移、原话未存、历史零 ❌；by walk 这条错路她从没走过，walk to work 是稳定会的基础说法
 
 ### 46 · 主语复数，表语也要复数（hobbies are things you choose）
 类型 语法 ｜ 旧号 B68
@@ -1558,7 +1620,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 **问题是什么**
 **主语复数，表语也要复数**：hobbies **are things** you choose —— 表语用**名词**说。
 同一格里的邻居（别串）：`hobbies are what you choose` 完全合法，但它把表语换成了 what 从句、绕开考点
-⇒ 题面点名"表语用名词说，不用 what 从句"。
+⇒ 题面正向点名表语那个名词的原形 thing，复数留给她自己变。
 判据一句话：主语是复数 ⇒ 表语那个名词也得是复数（things，不是 thing）。
 
 **怎么发现的**
@@ -1574,7 +1636,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 找法：主语一复数，表语那个名词就跟着复数；⛔ 别拿 what 从句把名词位躲掉。
 
 **题面**
-**点名**："业余爱好是自己挑的事，工作不是。"（表语用名词说，不用 what 从句）
+"我这些爱好都是我自己选的事，上班可不是。"（"事"用 **thing** 说）
 
 - 2026-08-11 ❌
 - 2026-08-12 ✅
@@ -1590,6 +1652,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-09 ⚡ 自评免测 · 在池第 1 组（她原话："这 10 个题直接过吧，算对"）
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"不用 what 从句"负向写法，改成点名表语名词的原形 thing，复数留给她；换成"我这些爱好"场景
 
 ### 47 · 反差句两边都要说完（连接词用 but/whereas，不用 and）
 类型 结构 ｜ 旧号 B69
@@ -2356,6 +2420,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-05 ✅ 复检组 · 第 1 组（打包）· `it's not that the game itself is bad - it's about how long to play.` 框整块调出
   ｜ ⚠️ 顺带：how long to play → how long you play（不落号，考位已命中）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 7 组（她原话："5-9 直接过"）
+- 2026-09-29 📝 归并 · 🎓#15 的 It's not that A, it's just B 块归本条（同一个 It's not that … 框，后半 just／about 各随语境）
 
 ### 72 · in moderation（适度）
 类型 词组 ｜ 旧号 B109d

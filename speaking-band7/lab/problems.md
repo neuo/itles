@@ -1244,6 +1244,34 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "我想说说我第一次对自己的英语有信心的那一次。那是我在机场帮一个外国人指路的时候。"（第二句用 **It was when** 起头）
 
 - 2026-09-29 新建 · 追补 09-28 新题 bank:915 · 原话 `I'd like to talk about a time I went on an obstacle course with my 5-year-old son.`（教练 09-28 判"做法不建号"漏建，她 09-29 追问后补建）
+
+### 374 · can't be bothered (to do)（懒得…：比 lazy 更口语）
+类型 词组 ｜ 新建 2026-09-29 ｜ 从 🎓#15 拆出
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**can't be bothered (to do sth)** ＝ 懒得（做某事）—— 说的是"这件事不值得我费劲"，比 lazy 更口语。
+过去的事用 **couldn't be bothered**：`I couldn't be bothered to cook, so I ordered takeout.`
+同一格里的邻居（别串）：I'm too lazy to …（合法，偏"说自己人懒"）· I don't feel like -ing（不太想）
+判据一句话：中文"懒得 ＋ 动作"⇒ can't／couldn't be bothered to ＋ 动作。
+
+**怎么发现的**
+2026-09-29 从 🎓#15（旧 B37，deep down／It's not that…／can't be bothered 三块捆在一条）拆出（§3.1 一条 ＝ 一个考点）。
+来源：08-19 她答 `It's not that I don't want to go. I'm just lazy.`，教练在备注里给了更口语的 can't be bothered，
+之后一直挂在捆绑条目里、从没单独出过题，她也从没自己说出过它 ⇒ 对她是新表达（§3.2b）。
+判重三步：
+　① 目标形式 dedup "bothered" ⇒ 只命中 🎓#15（拆出来的来源）⇒ 否
+　② 中文 dedup "懒得" ⇒ 只命中 🎓#15 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`I'm just lazy`（08-19，合法但不是这个块）　　更地道：`I just can't be bothered.`
+找法：想说"懒得…"先落 can't be bothered，过去的事换成 couldn't。
+
+**题面**
+"周末我懒得做饭，直接点了外卖。"（"懒得"用 **can't be bothered** 说）
+
+- 2026-09-29 新建 · 从 🎓#15 拆出 · 原话 `It's not that I don't want to go. I'm just lazy.`（08-19）· 教练给的更口语版
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除；她不会的句型（§2③）⇒ 首测把 It was when 整个写进题面；换成机场指路场景
 
