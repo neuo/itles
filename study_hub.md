@@ -8,6 +8,15 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-29 · 口语 L3（周期 8 第 3 个学习日）· 已收尾**
+  —— 在池 1 组 **6 题 / 6 条 ✅6 ❌0**；复检 1 组 **6 题 / 12 条 ✅9 ❌3**（#327 foothold · #331 look straight ahead · #353 with a vibe ⇒ 回潮）
+  —— 🎓 **毕业 4 条**（#88 get on with it · #357 logical · #361 get off work on time · #362 turn down）⇒ 全档 **351** ＝ problems 26 ＋ graduated **325**（92.6%）
+  —— 🆕 **新建 10 条** #364–#373（3 条她点名要背 · 1 条 social media giant · 6 条她追问后补建）
+  —— ⚙️ SKILL §3.2b 收紧：书面登记／同级近义词／做法不建号 三个口子不再能挡掉建号；她说"不会"的地方必建
+  —— 回看 1 篇（bank:915）；新题 bank:534（P3 easier to succeed）**真错 0**，⚪ 2 · 书面登记 1
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 4⇄3
+  —— **下一场 ＝ 周期 8 · R（付息日）**：#364–#373 首测；回看本周期全部；d 段重答；不出新题
+
 🆕🆕🆕 **2026-09-28 · 口语 L2（周期 8 第 2 个学习日）· 已收尾**
   —— 在池 1 组 **6 题 / 6 条 ✅6 ❌0**；复检 1 组 **9 题 / 11 条 ✅9 ❌2**（#186 leave a mess → mess up the floor · #322 play with 两次漏 with ⇒ 双双回潮）
   —— 🎓 **毕业 3 条**（#358 on an emotional level · #359 persuasion · #360 get to ＋ 原形）⇒ 全档 **341** ＝ problems 17 ＋ graduated **324**（95.0%）
