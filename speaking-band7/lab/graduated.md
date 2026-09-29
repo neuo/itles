@@ -10374,7 +10374,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 278 · give sb room to do sth（给某人自己来的空间）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **give sb room to do sth**（给某人自己来的空间）。
@@ -10475,7 +10475,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 280 · make a huge difference（差别很大／很管用）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-29**（连对2 ＝ 08-27 ＋ 08-29）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-29**（连对2 ＝ 08-27 ＋ 08-29）｜ 题型 整句
 　　★★ **2026-08-30 撤销 08-28 的 ❌**（她当天裁定 `makes a huge different` ＝ 手滑，§2.1 拼写不算错）
 　　　 ⇒ 08-27 的连对1 没被清零，08-29 那次就已经是连对2 ⇒ **毕业日回填到 2026-08-29**。
 　　　 08-30 那次 ✅ 相应降为**毕业后留痕**（自发命中证据，不推进数字）。
@@ -10509,7 +10509,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 找法：说出 make 之后，回头点三样东西 —— **make ＋ a ＋ 形容词 ＋ difference**（名词形，不是 different）。
 
 **题面**
-**点名**："差别很大"（用 **make** 说 · ⛔ 不许用 different）
+"每天多睡一个小时，对我白天的状态影响特别大。"（"影响特别大"用 **make** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第二版 · `creating an organized environment makes a huge difference`
 - 2026-08-23 ⚪ 同日再现 · d 段重答 R3 · `upgrading to smart traffic systems makes a massive difference`
@@ -10569,11 +10569,13 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
     · **#10**（主谓一致：whether 从句当主语 ⇒ 谓语单数 makes）—— 形态类 ⚪ 正面记号，一次到位
 - 2026-09-12 📝 题面整改：点名「用 make ＋ difference 说」→「用 make 说 · ⛔ 不许用 different」—— 原点名把块的两头都给了，中间只剩 a huge（§6② 红线一）· 全档题面 review
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"⛔ different"，点名 make，a ＋ 形容词 ＋ difference 留给她；换成多睡一小时场景
 
 
 ### 281 · step back（往后退一步，不插手）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **step back**（往后退一步，不插手）。
@@ -10598,7 +10600,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 找法：说"别插手／放手"时先问 —— 是中性地"退开"吗？是 ⇒ **step back**（⛔ 不是 step aside／step away／back off）。
 
 **题面**
-**点名**："往后退一步"（用 step 说）
+"孩子开始学做饭了，我就在旁边退一步，让他自己来。"（"退一步"用 **step** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `Lastly, it's about stepping back.`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10612,10 +10614,12 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-08-28 ✅ 复习第1组 · `parents sometimes need to **step back**.`—— 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `step back`
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 step，back 留给她；换成孩子学做饭场景
 
 ### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **take ownership (of sth)** ＝ 把它当成自己的事、自己扛起来。
@@ -10645,7 +10649,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 找法：中文出现"当成自己的事／自己扛"就先落 take ownership，⛔ 别滑到 take responsibility（那是"该我负责"）。
 
 **题面**
-**点名**："把这事当成自己的事扛起来"（用 **take** ＋ 一个 **o-** 开头的名词说）
+"新员工得学会把手上的项目当成自己的事来扛。"（"当成自己的事来扛"用 **ownership** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R1 第三版 · `so they learn to take ownership`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10673,6 +10677,8 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-15 ✅ 学习日 在池第 1 组 · `take ownership of it.` —— 连错2 → 连对1
 - 2026-09-18 ✅ 学习日 在池第 1 组 · `take ownership of it.` ⇒ **连对 2，毕业**
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"take ＋ o- 开头的名词"猜谜写法，点名 ownership，take … of 怎么搭留给她（09-11／09-13 掉过）；换成新员工场景
 
 ### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -10734,7 +10740,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 
 ### 284 · boil down to sth（说到底就是……）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **boil down to sth**（说到底就是……）。
@@ -10766,7 +10772,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 找法：中文冒出"说到底／归根到底"时，先问主语是**事**还是**人** —— 是事 ⇒ `It boils down to …`（⛔ 别接人当主语）。
 
 **题面**
-**点名**："说到底就是几样东西凑一块儿"（"说到底就是"用 **boil** 那个说法）
+"学好一门语言，说到底就是每天坚持开口。"（"说到底就是"用 **boil** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `managing traffic boils down to a combination of smart technology, better public transport, and clever incentives`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10782,11 +10788,13 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ★ 自审留痕：ultimately ＋ boils down to 语义略重，但母语者确实这么说 ⇒ 不判
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `It boils down to a few things coming together.` —— boil down to 一字不差（题面本场缩成块，她照样给了整句，⛔ 不扣）
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 boil，down to 留给她；换成学语言场景（与 🎓#58 点名 come 互斥照旧）
 
 
 ### 285 · give sb (real) alternatives to sth／doing sth（给人别的选择，而不是只能……）
 类型 搭配 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 词组
+状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **give sb (real) alternatives to sth／doing sth**（给人别的选择，而不是只能……）。
@@ -10816,7 +10824,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 想说"选择"先分清：在几个里挑 ＝ choice，另有一条路 ＝ alternative。
 
 **题面**
-**点名**："真正能替代开车的选择"（用 **alternative** 说，别用 choice）
+"想让大家少吃肉，就得给他们真正好吃的替代品。"（"替代品"用 **alternative** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `cities need to give people real alternatives to driving`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10832,6 +10840,8 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
   ⚠️ 更好版给了口语降级：must provide → need to give people ／ a real alternative → real alternatives
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `a real alternative to driving` —— alternative **to**，⛔ 没用 choice
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"别用 choice"，点名 alternative，to 留给她；换成少吃肉场景
 
 ### 286 · 整句句型：If A, B and C, a lot of X will happily do Y（条件够好 → 人自愿去做）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `will be happy to` 这条绕路）
@@ -10844,7 +10854,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 · 主句是**预测** ⇒ **will 不能掉**；掉了 will 就成了零条件句（句子合法，但不是本条要她产出的那句）
 · "乐意做某事"在论证句里走【副词】，⛔ 不走【be ＋ 形容词 ＋ to】：will happily leave ／ will gladly pay ／ would happily do it again
 · 收尾动作要**具体可画面**：leave their cars at home ＞ use public transport more
-同一格里的邻居（别串）：⛔ be happy to ／ be willing to ／ want to —— 它们正是 will happily 要替掉的那一族，题面已封。
+同一格里的邻居（别串）：be happy to ／ be willing to ／ want to —— 它们正是 will happily 要替掉的那一族 ⇒ 题面正向点名 will happily。
 判据一句话：主句里 **will ＋ 一个 -ly 副词 ＋ 一个具体动作**三样齐不齐？缺一样就不是这个框。
 ★ 位置分工：#277 管 P3 开头立两面 · 本条管中间"条件 → 反应" · #283 管收尾排先后。
 
@@ -10863,7 +10873,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 找法：条件那半句说完，主句先落 **will**，再挂一个 -ly 副词，最后才是那个具体动作。
 
 **题面**
-**点名**："只要公交又便宜、班次又密、又靠得住，很多通勤的人乐意把车留在家里。"（**一句话**说完：if ＋ **三个并列形容词**，主句用 **will** ＋ 一个 **-ly 副词** ＋ 一个具体动作；⛔ 不许用 be happy to／be willing to）
+"只要上班时间灵活、离家近、工资也还行，很多年轻妈妈会很乐意回去工作。"（用 **if** 起头，"很乐意"用 **will happily** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `If buses and trains are cheap, frequent, and reliable, a lot of commuters will happily leave their cars at home.`
 - 2026-08-27 ❌ **首犯** · 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10905,6 +10915,8 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 - 2026-09-13 ✅ 学习日 在池第 2 组 · `If public transport is cheap, frequent, and reliable, many commuters will happily leave their cars at home.`——if＋三形容词、will＋happily＋leave their cars at home，整句一字不差（09-11 回潮后首测）
 - 2026-09-15 ✅ 学习日 在池第 1 组 · `If public transport is cheap, frequent, and reliable, many commuters will happily leave their cars at home.` —— 整句框一字不差 → **连对2，毕业**
 - 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ be happy to"与形态描述，点名 if ／ will happily —— 三个并列条件同形、will 不能掉留给她（她掉过的就是丢了 will）；换成年轻妈妈回去工作场景
 - 备注 骨架与用法：
 ```
 If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ will happily ＋【一个具体动作】.
@@ -10953,7 +10965,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 是 ⇒ flow；挂在 keep 后面时宾语后面跟 **-ing**（flowing），⛔ 不是形容词。
 
 **题面**
-**点名**："让剩下那些车一路走得顺"（用 **flow** 说）
+"新修的高架通车以后，早高峰的车流顺畅多了。"（"顺畅"用 **flow** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 · `using tech to keep the remaining cars flowing smoothly`
 - 2026-08-27 ✅ 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -10970,6 +10982,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   ——`keep … flowing smoothly` 一字不差（keep ＋ 宾语 ＋ -ing 那一格）⇒ 连对2，**毕业**
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 5 组 · `keep the remaining cars flowing smoothly` —— keep sth flowing
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 flow，flows smoothly／keep … flowing 怎么搭留给她；换成新修高架场景
 
 ### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -11011,8 +11025,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 （ask／wonder／decide 才能直接接 whether。）
 
 **题面**
-**点名**："一旦每次出门都要花点钱，你自然会掂量这趟是不是真有必要。"（用 **once** 起头，后半句用 **start asking whether** 说；⛔ 动词就用 asking，不许换成 think／wonder）
-★ 点名 2026-08-28 加结构限定（08-27 她走了 `start thinking whether` 这条绕路）
+"一旦外卖要多收五块配送费，你就会开始琢磨是不是自己做饭更划算。"（用 **once** 起头，"开始琢磨是不是"用 **start asking whether** 说）
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R3 的 [S6] 更好版 · `…work really well, because once a trip costs you something, you start asking whether you actually need to make it.`
 - 2026-08-27 ❌ **首犯** · 付息日 b 段（**本条从建立起第一次被测到**）·
@@ -11051,6 +11064,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
      只进 diff-2，**不建条目**（她别处代词用得好，说不出"她不会的是哪个词组／句型" ⇒ §3.2b 禁伞形）
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `Once every trip costs a little money, you naturally start asking whether it's really necessary.` —— once ＋ start asking whether，一字不差
 - 2026-09-22 ⚡ 自评免测 · 复检第 4 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉"⛔ think／wonder"，正向点名 once ／ start asking whether；换成外卖配送费场景
 - 备注 骨架与用法：
 ```
 (because) once ＋【代价发生的从句】, ＋ you ＋ start ＋ -ing ＋ whether ＋【主谓】.
