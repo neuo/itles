@@ -8,6 +8,14 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-09-30 · 口语 R（周期 8 付息日）· 已收尾**
+  —— a 在池 2 组 **17 题 / 17 条 ✅16 ❌1**（#363 appeal 漏 to）；a2 复检 2 组 **14 题 / 15 条 ✅13 ❌2**（#258 feel like 漏 it · #152 the last 漏 time ⇒ 回潮）
+  —— 🎓 **毕业 2 条**（#186 leave a mess · #322 play with）⇒ 全档 **358** ＝ problems 33 ＋ graduated **325**（90.8%）
+  —— 🆕 **新建 6 条** #375 a cardboard box · #376 livestream shopping · #377 not long after · #378 trophy · #379 As X puts it · #380 countenance
+  —— ⓪ 回看 3 篇（bank:1339 · 915 · 534）；d 重答 bank:911（smiling）；c 合并 0
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 2⇄2
+  —— **下一场 ＝ 周期 9 · L1**：#375–#380 首测 ＋ 回潮 2；回看 bank:911；新题 1 道
+
 🆕🆕🆕 **2026-09-29 · 口语 L3（周期 8 第 3 个学习日）· 已收尾**
   —— 在池 1 组 **6 题 / 6 条 ✅6 ❌0**；复检 1 组 **6 题 / 12 条 ✅9 ❌3**（#327 foothold · #331 look straight ahead · #353 with a vibe ⇒ 回潮）
   —— 🎓 **毕业 4 条**（#88 get on with it · #357 logical · #361 get off work on time · #362 turn down）⇒ 全档 **351** ＝ problems 26 ＋ graduated **325**（92.6%）

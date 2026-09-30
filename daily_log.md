@@ -6732,3 +6732,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 4⇄3
 
 **下一场 ＝ 周期 8 · R（付息日）**：#364–#373 首测 ＋ 回潮 3 条；`lookback --cycle`；d 段重答；不出新题
+
+## 2026-09-30（周三）· 口语 R（周期 8 付息日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 358 ＝ problems.md 33 ＋ graduated.md 325 ｜ 🎓 325（90.8%）｜ 未毕业 33 ｜ 可出题 23 ｜ 队列到期剩 0 ｜ ⚡ 累计 263 条、掉过 8（校准 3%）｜ 重答队列 59 / 未重答 42
+
+**五段**
+- a 在池 2 组 17 题 / 17 条：**✅16 ❌1**（#363）⇒ **毕业 2**（#186 · #322）；#364–#374 首测全 ✅
+- ⓪ 回看 3 篇：bank:1339 · bank:915 · bank:534（`lookback --cycle` 原样贴）
+- a2 复检 2 组 14 题 / 15 条：**✅13 ❌2** ⇒ #258（as long as I feel like 漏 it）· #152（The last I saw 漏 time）回潮
+- c review：合并 0 · 未标题型 0
+- d 重答 bank:911（R17 · Is smiling important in your culture?）：❌ 2（a passes 漏词 · #379 As X puts it 结构）· ⚪ 1 · 书面登记 1 · 🎓#233 自发命中
+- 新建 6：#375 a cardboard box · #376 livestream shopping · #377 not long after · #378 trophy（她标背）· #379 As X puts it · #380 countenance（她标背）
+
+**她提异议**：#258「可以不用加，省略 sleeping in」⇒ 复核：feel like 不能空着，维持 ❌
+
+**教练犯规 2 条**：重答队列报数误说 58（实 59）· 复检节排版错位（deliver 抓到当场改）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 2⇄2
+
+**下一场 ＝ 周期 9 · L1**：#375–#380 首测 ＋ 回潮 #258 #152；回看 bank:911；新题 1 道

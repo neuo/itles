@@ -190,6 +190,7 @@
   —— 主语 The letters 复数，中间隔了 on the cake，动词被就近的 cake 带跑。§3.4 执行自查：同一篇里 `you have`／`going to ancient sites feels`／`the magic of reading lies` 三处都对 ⇒ 是产出时检查没跑，不是不会 ⇒ 只记 ⚪
 - 2026-09-21 ⚪ 留痕 · 新题 bank:1005（P3）[S1] · `what are popular` → `what was popular`
   —— what 引出的主语从句动词用单数，且后半句 `when each generation was young` 已把时间钉在过去 ⇒ was。§3.4 执行自查：同一篇里 `the 1990s was`／`teenagers were`／`it was`／`preferences get` 四处都对 ⇒ 产出时检查没跑，不是不会 ⇒ 只记 ⚪（时态那一面同族 #12，同一处 ⛔ 不双记）
+- 2026-09-30 ⚪ 付息日 a2 第 4 组 [4] · `The doctor haven't` → hasn't（同组 rent is／neighborhood is 都对 ⇒ 形态类，只记录）
 - 备注 孤立测 100% 会 ⇒ 检索失败，不 drill，只加产出时检查触发
 - 备注 ⚠️ **c 段待办（2026-08-27 提出，等她裁，不擅自改）**：本条日志里那次
   `it help me clear my head` 记的是 **❌**（当时的口径是"自由产出照常记 ❌"），
@@ -354,6 +355,7 @@
 - 2026-09-20 ⚪ 学习日 在池第 1 组（#98 句2）· `The letters on top of cake are …` ⇒ on top of **the** cake —— 形态类只记录·不判档
   检查触发：说完一个单数可数名词，回头看它前面有没有限定词
 - 2026-09-27 ⚪ 新题 bank:1339（P3）[S3] · `Without river network watering` → a river network —— 单数可数名词左边没有限定词；同句 a country 写对 ⇒ 只记录
+- 2026-09-30 ⚪ 付息日 a 段在池第 2 组 [5] · `The limited-edition sneaker sold out the second they dropped` → sneakers（同句 they／them 复数 ⇒ 形态类，只记录）
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -584,6 +586,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
   考点全中：did**n't** see（原形）· nor **did he tell**（倒装后仍是原形）。
   ★ nor ＋ 倒装属 Band 7 上限结构，与本条考点同时做对。⇒ 状态行一个字不动
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-09-30 ⚪ 付息日 d 段重答 bank:911 [S4] · `which helps reduces conflicts` → helps reduce（同篇 makes you smile 原形对 ⇒ 形态类，只记录）
 - 备注 自我分诊：单独问她"情态动词后面接什么"秒答"原形" ⇒ 不 drill，只加产出时检查触发
 - 备注 与 #10 主谓一致／#54 比较级只标一次／#92 否定别丢合成一条元规则：**每个语法标记在一个谓语上只能出现一次，而且必须出现一次**
 
@@ -640,134 +643,94 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-15 ⚪ 新题 bank:1059 · `These day` → These days —— 形态类只记录（§3.4②）
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - 2026-09-26 ⚪ 复检第 2 组 [8]（#318 题里）· `when he was two year old` —— 数词 two 后面 year 没变复数；她 #318 历史里写对过 two years old ⇒ 检查没跑，只记录
+- 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [6] · `That films constantly tries …` → That film（同句 tries 单数 ⇒ 形态类，只记录）
+- 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts …` → These（同组 [8]／[10] 限定词全对 ⇒ 形态类，只记录）
 
-### 186 · leave a mess（⭐ 她自产）
-类型 词组 ｜ 旧号 B97
-状态 连对1 连错0 上次2026-09-29 未毕业 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ 题型 整句
+### 152 · the first / last TIME ＋ 完整从句（time 不能省）
+类型 结构 ｜ 旧号 B241
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）
 
 **问题是什么**
-**leave a mess**（⭐ 她自产的块，三个词）＝ 弄乱了就走、留给别人收拾。
-同一格里的邻居（别串 —— 都合法）：
-`He **makes** a mess.`（只说弄乱，没有"留下"那层）· `He **throws** stuff around.` · `leave stuff lying around`
-⇒ 几种说法都合法 ⇒ 出整句题、正向点名 **leave**，块里的 **a mess**（冠词 ＋ 名词）留给她自己搭。
-判据一句话：这一层用 **leave ＋ a mess** 三个词说完。
+**the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
+中间必须有一个名词把从句接住，那个名词就是 **time**；⛔ 序数词 first 自己带不了从句。
+同族：the last time I saw him ／ every time she calls me。
+同一格里的邻居（别串）：when I first … 也合法 ⇒ 题面正向点名 the first 起头，time 留给她。
+判据一句话：first／last 后面跟的是一整句话吗？是 ⇒ 中间必须补 time。
 
 **怎么发现的**
-旧 B 表迁移（B97，2026-08-18）；⭐ 本条是她自产的块，2026-08-09 首次出现即 ✅。
-2026-08-13 ◎ 题面没逼出；2026-08-17 ✅ ⇒ 毕业。
-2026-09-09 ❌ 复检第 3 组 · 答"忘了" ⇒ **回潮**（08-17 毕业后三周没再碰）。
-2026-09-10 ✅ `he left a mess` ／ 2026-09-11 ✅ `he left a mess` ⇒ 连对 2，第二次毕业。
-★ 09-11 发出时题面括号里还带着「**人**当主语说」，与词组题主体打架（**她当场点出**，原话：
-"词组只需要单次或者词组，整句（翻译）需要完全的句子"）⇒ 同日删掉该提示；
-毛病是形式不是映射、考点 100% 被测到 ⇒ 按 §3.3 硬顺序记 ✅、⛔ 不记 ◎。
+旧 B 表迁移（B241，2026-08-18），原始触发原话未存；最早记录 2026-08-17 ✅。
+2026-08-19 ✅ `the first time I saw it I just stood there`（time 没省，顺带自发用出 #163 的块）⇒ 毕业。
+2026-09-11 付息日 a2 第 2 组复检：她写 `The first I saw it.` —— **time 被吞**，而本条考点就是它 ⇒ **回潮**。
 
 **我错在哪**
-她的：答"忘了"（2026-09-09 复检）　　正确：`He leaves a mess.`
-找法：说"乱丢一地"时直接调 leave a mess 这三个词，⛔ 别滑到 make／throw。
+她的：`The first I saw it.`　　正确：`The first time I saw it.`
+找法：中文"我第一次看见它**的时候**"里，"的时候"就是那个 time —— 中译英最容易把它当虚词丢掉。
 
 **题面**
-"我儿子每次吃完零食，都把客厅弄得乱七八糟就跑了。"（"弄得乱七八糟就跑了"用 **leave** 说）
+"我第一次一个人去北京的时候，连地铁都不会坐。"（"第一次…的时候"用 **the first** 起头）
 
-- 2026-08-09 ✅
-- 2026-08-13 ◎ 题面没逼出
-- 2026-08-15 ✅
 - 2026-08-17 ✅
-- 2026-09-09 ❌ 复检 · 第 3 组 · 答"忘了" —— **回潮**
-  最小改 `He leaves a mess.`
-  ★ 本条是 ⭐ 她自产的块（08-09 首次出现），08-17 毕业后三周没再碰 ⇒ 掉了
-- 2026-09-10 📝 题面整改：补词数与排除项 · 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
-  原题面「"东西乱丢一地"（**人**当主语说，⛔ 不许用 everywhere／all over）」——
-  `He makes a mess.` 完全合法、完全符合题面，却把本条考点（**leave** a mess 这个搭配）整个绕开；
-  `leave stuff lying around` 同理（四个词，绕开 mess 这个名词）。
-  ⇒ 补「"乱丢一地"用**三个词**的块说」＋ 排除项 `／make`，把 leave a mess 框死；
-    ⛔ 未点名 leave、⛔ 未点名 mess（那是考点本身，§6② 红线）。
-- 2026-09-10 ✅ 复习 · 在池第 1 组 · `he left a mess`（另给了 `he left his stuff scattered around`）
-  ★ 09-09 答"忘了"回潮，本场题面补了「三个词的块」＋ 排除 make 之后，块整个调出来了
-- 2026-09-11 📝 题面整改：排除项补 `／throw` · 在池第 1 组发题前审核（§6.5 第 7 项 · 硬阻断）
-  `He throws stuff around.` ＝ 三个词的块、人当主语、不含已排除的词 ⇒ **完全合法且符合题面**，
-  却把 leave a mess 整个绕开（§6 第二译法白测）⇒ 补进排除项。
-  ⛔ 仍未点名 leave、⛔ 仍未点名 mess（那是考点本身，§6② 红线）
-- 2026-09-11 ✅ 付息日 a 段 · 第 1 组 · `he left a mess` —— 块整个调出来（不是 make／throw）⇒ 连对2 **毕业**
-  ★ 发出时题面括号里带「**人**当主语说」，与词组题主体打架（她当场点出）⇒ 同日 📝 整改；
-    毛病是形式不是映射，考点 100% 被测到 ⇒ 按 §3.3 硬顺序记 ✅、⛔ 不记 ◎
-- 2026-09-11 📝 题面整改：删「**人**当主语说」，恢复成纯词组题 · 她当场点出（原话："词组只需要单次或者词组，整句（翻译）需要完全的句子"）
-  旧 "东西乱丢一地"（**人**当主语说 · "乱丢一地"用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
-  新 "东西乱丢一地"（用**三个词**的块说 · ⛔ 不许用 everywhere／all over／make／throw）
-  ⇒ 考点 leave a mess 一个块就覆盖得了 ⇒ 词组题；「人当主语说」这个提示把要她产出的形式改成了整句 ⇒ 越界，删
-- 2026-09-18 📝 题面整改：排除项补 `／around` · 复检组发题前审核（§6.5 第 7 项）
-  `leave stuff around`／`scatter things around` 同样三个词、合法，绕开 leave a mess ⇒ 补排除项
-- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
-- 2026-09-28 ❌ 复检第 2 组 · 答成 `mess up the floor`（没调出 leave a mess）—— **回潮**
-- 2026-09-29 ✅ 在池第 1 组 · `leave a mess.`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
-  make a mess／throw stuff around 都合法，中文块单独映射不回 leave a mess ⇒ 改整句、正向点名 leave，a mess 留给她搭；
-  旧的「三个词 ＋ ⛔ 排除五个词」写法作废（负向排除永远排不完）
+- 2026-08-19 ✅ `the first time I saw it I just stood there`（time 没省 ＋ 顺带自发用出 #163 的块）
+- 2026-09-11 ❌ 复检 · 付息日 a2 第 2 组 · `The first I saw it.` —— **time 被吞**，而本条考点就是它 ⇒ **回潮**
+  最小改 `The first time I saw it.`
+  ❌ first／last 后面挂整个从句时，中间必须有一个名词把从句接住，那个名词就是 time；
+    ⛔ 序数词 first 自己带不了从句。同族 the last time I saw him／every time she calls me。
+  ★ 找法：中文"我第一次看见它**的时候**"里，"的时候"就是那个 time —— 中译英最容易把它当虚词丢掉
+- 2026-09-13 ✅ 学习日 在池第 1 组 · `The first time I saw it.`——time 没省、没用 when
+- 2026-09-15 ✅ 学习日 在池第 1 组 · `The first time I saw it.` → **连对2，毕业**
+- 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 结构 ⛔ 不许标词组）
+  去掉"⛔ 不许用 when"，正向点名 the first 起头，time 留给她（她掉过的就是 The first I saw it）；换成第一次去北京场景
+- 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [7] · `The last I saw my grandmother, …` —— time 被吞 ⇒ **回潮**
+  最小改 `The last time I saw my grandmother, she was still able to …`
 
-### 322 · play WITH sth（玩"东西"一律带 with）
-类型 搭配 ｜ 新建 2026-09-07
-状态 连对1 连错0 上次2026-09-29 未毕业 ｜ **回潮 2026-09-28**（09-11 毕业 → 09-28 复检 [5]／[8] 两次漏 with，撤销毕业、连对清零）｜ 题型 整句
+### 258 · at will（书面）→ whenever they feel like it
+类型 词组 ｜ 新建 2026-08-19（她指定要学）
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
-**play WITH sth**（玩"东西"一律带 with）。
-判据：
-```
-玩"东西"     play **with** sth      play with toys ／ play with the dog ／ play with your phone
-玩"项目"     play ＋ 名词（不带 with）play football ／ play the piano ／ play a game ／ play a role
-★ 判据一句话：后面是**一个东西** ⇒ 必须有 with；后面是**一项活动** ⇒ 直接接。
-★ 检查触发：写完 play，问一句 —— 我后面接的是东西还是活动？
-```
-★ 与 🎓**#51**（put sth away ＝ 收起来）／🎓**#67**（可分离动词短语的位置）的**互斥关系（当场写死）**：
-　那两条的题面都以"收起来"为落点（put away），本条题面以"在玩"为落点（play with）⇒ 不撞车；
-　按它们的规则去改她这两句都**产不出 with** ⇒ 不同考点。
+**at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
+同一格里的邻居（别串 —— 同一条「书面 → 口语」降级规则下的别的词对，本条只管 at will 这一对）：
+in order to → to · utilize → use · numerous → a lot of · purchase → buy · commence → start
+判据一句话：这个词我是在书上见的还是在嘴上说的？书面 ⇒ 换成 whenever sb feel(s) like it。
+★ 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+　本条是**一个具体的词对**（可以出中译英题）⇒ 两条各走各的。
 
 **怎么发现的**
-2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）· 她写
-`kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
-（→ playing **with** them ／ played **with** the toys）
-★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
-（「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
-⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
-判重结论（§3.1 判重三步，2026-09-07 当天做，⛔ 严禁脚本批量判，逐条人读）：**保留新建**
-```
-① 目标英文形式 ＝ `play **with** sth`
-② 全档 grep（**范围含已毕业**）：`grep -n "play with\|玩具\|play toys" problems.md graduated.md methods.md`
-   ⇒ 4 处命中，逐条读：
-   · 🎓#51（put sth away ＝ 收起来）题面"把玩具收回去" —— 只是同一个名词出现，考点是 put away
-   · 🎓#67（可分离动词短语的位置）题面里也有玩具 —— 考点是代词必须摆中间
-   · 🎓#67 的**备注行**「玩具搭配是 play with」—— ★ 决定性事实：只是备注，**全档无条目**
-   · #215（-ing 短语的逻辑主语）题面里有玩具 —— 考点是逻辑主语＝主句主语
-③ 最接近的两条逐条排除：
-   · 🎓#67 —— 按它的规则去改她这两句 ⇒ 只会检查 them 有没有摆在 put 和 away 中间，
-     **产不出 with** ⇒ 不同考点（§3.1③ 第三档）
-   · 🎓#51 —— 按它的规则改 ⇒ 只会把 clean up 换成 put away ⇒ 产不出 with ⇒ 不同考点
-   **互斥关系（当场写死）**：#51／#67 的题面都以"收起来"为落点（put away），
-   本条题面以"在玩"为落点（play with），⛔ 两边题面不撞车。
-④ 是不是拼写（§2.1）？**不是**，是缺一个介词。
-⑤ 是不是伞形条目（§3.2b）？**不是** —— 目标形式就一个 `play with`，成员数得出来。
-```
+2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+—— 语法没错，是**她指定要学**的降级（§2③），教练给的口语版是 whenever they feel like it。
+判重：与 🎓#206（书面词降级总规则）比对 —— #206 只在自由产出里判、管的是整条规则，
+本条是一个具体词对、可以出中译英题 ⇒ 不重复，**判重通过**（见下方备注）。
 
 **我错在哪**
-她的：`kids put toys away after **playing them**.` ／ `After kids **played toys**, …`
-正确：`after playing **with** them` ／ `After kids played **with** the toys, …`
-找法：写完 play，问一句 —— **后面接的是"东西"还是"一项活动"？**
-东西 ⇒ 必须有 **with**。
+她的：`if everyone ran red lights **at will**`　　正确：`if everyone ran red lights **whenever they felt like it**`
+找法：一个词要出口之前先问 —— 这是我在书上见的，还是嘴上说的？书上见的 ⇒ 换口语版。
 
 **题面**
-"孩子在玩他们的玩具。"（"玩"用 **play** 说）
+"周末孩子们想几点起床就几点起。"（用 **feel like** 说）
 
-- 2026-09-07 📝 首犯 · 复检第 5 组 [6]（#215 的作答里，**同一题犯了两次**）·
-  `kids put toys away after **playing them**.` ／ `After kids **played toys**, I put them away.`
-  → playing **with** them ／ played **with** the toys
-  ★ 建号理由：这条搭配 2026-08-21 只作为 🎓#67 的一行**备注**被提过一次
-    （「另：away 不变形；玩具搭配是 play with」），**从来没有自己的编号** ⇒ 从来没进过召回队列
-    ⇒ 今天同一题里连犯两次，正是"讲过但没测过"的典型。
-- 2026-09-09 ⚡ 自评免测 · 在池第 2 组（她原话："前 7 题直接过"）
-- 2026-09-11 ⚡ 自评免测 · 付息日 a 段第 1 组（她原话："6. 直接过"）⇒ 连对1 → 连对2 **毕业**（§4③：⚡ 够 2 ＝ 她行使直接指定毕业）
-- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
-- 2026-09-28 ❌ 复检第 2 组 [5]（#67 那题顺带）· `After playing toys` 漏 with
-- 2026-09-28 ❌ 复检第 2 组 [8] · `Children are playing their toys.` 漏 with —— **回潮**
-- 2026-09-29 ✅ 在池第 1 组 · `Kids are playing with their toys.`
-- ⇒ **新建当天不测**（§3.1），下一个练习日起进池
+- 2026-08-19 新建 · 自由产出（新题 bank:489）· 她写 `if everyone ran red lights **at will**`
+  ⇒ 语法没错，但 at will 是书面词，口语版是 **whenever they feel like it**
+- 2026-08-20 ✅ 复习（新建后首测）· `He comes here whenever he feels like it.`——目标块一字不差
+  ｜附带 feels 的第三人称 -s 也带上了
+- 2026-08-21 ✅ 复习 · `he comes here whenever he feels like it.`——一字不差，feels 的 -s 也对
+  → **连对2，毕业**
+- 2026-09-11 ✅ 复检 · 付息日 a2 第 3 组 · `You can come whenever you feel like it`
+- 2026-09-22 ❌ 复检第 3 组 [5b] · 答"忘了"，whenever sb feels like it 整块没出来 ⇒ **回潮**（08-21 毕业 · 09-11 复检还稳 · 本次掉）
+  ⇒ 状态行改回未毕业、连对清零、rc 归零，转回在池队列；正确版 `He comes here whenever he feels like it.`
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [1] · `You can come whenever you feel like it.` —— whenever you feel like it 整块回来了（09-22 复检掉的那块）。连错 1 清零、连对 0 → 1
+- 2026-09-27 ✅ 在池第 1 组 · `You can come over whenever you feel like it.` —— whenever you feel like it 一字不差
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 feel like，whenever … it 怎么搭留给她（09-22 复检掉过）；换成周末起床场景
+- 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [1] · `I can sleep in for as long as I feel like.` —— feel like 后漏 it ⇒ **回潮**
+  正确版 `I can sleep in for as long as I feel like it.`
+- 备注 整句范例（她指定要背的那句）：
+  **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
+  —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
+- 备注 同族降级（口语版在右边）：at will → whenever they feel like it ｜ in order to → to ｜
+  utilize → use ｜ numerous → a lot of ｜ purchase → buy ｜ commence → start
+- 备注 与 🎓#206（书面词降级·减法型，挂自由产出抓）的分工：#206 是**总规则**（只在自由产出里判），
+  本条是**一个具体的词对**（可以出中译英题）⇒ 不重复，判重通过
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -819,7 +782,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 327 · 踏脚点 ＝ foothold ／ peg
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对0 连错1 上次2026-09-29 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ 题型 词组
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ 题型 词组
 
 **问题是什么**
 脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
@@ -849,10 +812,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 ❌ 复检第 2 组 · 答成 `footsteps. peg.`（foothold 没调出来，peg 对）—— **回潮**
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉首字母／词数／排除项，括号只留中文释义；换成攀岩墙、木栈道两个新场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [3] · `A foodhold / A peg.`（foodhold 拼写，§2.1 不算）
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对0 连错1 上次2026-09-29 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ 题型 词组
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ 题型 词组
 
 **问题是什么**
 眼睛往正前方看 ＝ **look straight ahead**；
@@ -889,10 +853,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 ❌ 复检第 2 组 · 答成 `look forward ahead.`（题面 ⛔ forward）—— **回潮**
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉词数与「⛔ forward」，括号改写中文释义（视线方向，不是"盼着"）；换成骑车场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [4] · `For the ID photo, look straight ahead.`
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
-状态 连对0 连错1 上次2026-09-29 未毕业 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
 **vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
@@ -924,10 +889,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 ❌ 复检第 2 组 · `you get to chill somewhere in a totally different vibe.`（vibe 前用了 in）—— **回潮**
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉「⛔ vibe 前面不许用 in」（那是考点本身），只点名 vibe；换成周末小镇场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [5] · `The cafe has such a great vibe, I go there all the time to read.`
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对1 连错0 上次2026-09-28 未毕业 ｜ 题型 整句
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -955,10 +921,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-28 ✅ 在池第 1 组 · `Appeal to your emotions.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   move／play on 都合法，中文块单独映射不回 appeal to ⇒ 改整句、正向点名 appeal，to your emotions 留给她搭；换成广告场景
+- 2026-09-30 ❌ 付息日 a 段在池第 1 组 [6] · `That films constantly tries to appeal emotion just to milk tears from the audience.` —— appeal 后漏 to
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **without a doubt** ＝ 毫无疑问，P3 开口亮立场用；放句首、句尾都行（`The tech sector, without a doubt.`）。
@@ -983,10 +950,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `The tech and software sectors, without a doubt(背一下).`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   no doubt／definitely 都合法 ⇒ 改整句；她点名要学（§2③）⇒ 首测把整个块写进题面；换成求职行业场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [7] · `…, it's healthcare, without a doubt.`
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **powerhouse** ＝ 在某个领域实力强、能打的那家公司／那个国家／那个人：a delivery powerhouse ／ an economic powerhouse。
@@ -1011,10 +979,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `an instant-delivery powerhouse(背一下) like MeiTuan`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉首字母与排除项，括号改中文释义（"发电站"的比喻）；换成新能源汽车场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [8] · `An EV powerhouse.`
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -1038,10 +1007,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `people working on large-language-model are making absolute bank(背一下)`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts are making absolute bank this year.`（living 另建 #376）
 
 ### 367 · social media giant（社交巨头；⛔ social giant）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 词组
 
 **问题是什么**
 "XX 巨头" ＝ **行业名 ＋ giant**：a social media giant ／ a tech giant ／ a retail giant。
@@ -1066,10 +1036,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `at a social giant like Tencent`（⚠️ 更地道的表达 ⇒ §3.2b 建号）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉「两个词 ＋ ⛔ 只用 social」，括号改中文释义；换成微博
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [10] · `A social media giant like WeiBo`
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **land a job (at 公司)** ＝ 找到／谋到一份（好）工作，口语里"进了腾讯"就说 land a job at Tencent。
@@ -1094,10 +1065,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `secure a position at a social giant like Tencent`（⚠️ 更地道的表达；教练初判走书面登记漏建，她追问后补建）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   get／find 都合法 ⇒ 改整句、点名 land；换成银行场景
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [1] · `No long after graduation, she landed a job at a major bank.`（No long after 另建 #377）
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文把头衔放在名字**前面**直接连（社交巨头腾讯、短视频巨头字节跳动），中间没有任何连接词；
@@ -1127,10 +1099,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 她自注"这个 like 其实我不会翻译…我一直在想用什么介词" · 原话 `a social giant like Tencent`（教练初判只留 📝、漏建，她追问后补建）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉两条负向排除，改成正向点名同位语结构「, the …」；换成表哥在字节跳动
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [2] · `My cousin works at ByteDance, the short-video giant.`
 
 ### 370 · create ＋ 结果（造就一批富豪／创造就业：create billionaires；⛔ build billionaires）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "造就／催生出一批（人或结果）"＝ **create**：create billionaires ／ create jobs ／ create wealth。
@@ -1156,10 +1129,11 @@ build 只能搭"建起来的东西"（build a company／a house／a brand），�
 - 2026-09-29 新建 · 学习日新题 bank:534 · 触发原话 `building a bunch of tech giants and billionaires`（教练初判"同级近义词"漏建，她追问后补建）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   produce／give rise to 都合法 ⇒ 改整句、点名 create；换成电商热潮场景
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [3] · `This e-commence boom has created a whole wave of billionaires.`
 
 ### 371 · bring your other foot over（把另一只脚挪过来；⛔ pull your foot over）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 把身体某部位"挪／带"到某个位置 ＝ **bring … over**：bring your other foot over ／ bring your arm up。
@@ -1185,10 +1159,11 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 - 2026-09-29 新建 · 学习日复检第 2 组 [6] · 触发原话 `I told him to hug the log, and pull his other foot over.`（教练初判"同级近义词"漏建，她追问后补建）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   move 合法 ⇒ 改整句、点名 bring，over 留给她；换成瑜伽课场景（⛔ 与 🎓#333 不同句）
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [4] · `…, then slowly bring the other leg over.`
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -1214,10 +1189,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 - 2026-09-29 新建 · 学习日复检第 2 组 [9] · 触发原话 `how to reach it`（教练初判"同级近义词"漏建，她追问后补建）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   obtain／grab 都合法 ⇒ 改整句、点名 get；换成限量球鞋场景（⛔ 与 🎓#323 不同句）
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [5] · `… and I still have yet to get my hands on them.`
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 先用一句话点题，再用 **It was when ＋ 从句** 把具体那件事接上：
@@ -1244,10 +1220,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "我想说说我第一次对自己的英语有信心的那一次。那是我在机场帮一个外国人指路的时候。"（第二句用 **It was when** 起头）
 
 - 2026-09-29 新建 · 追补 09-28 新题 bank:915 · 原话 `I'd like to talk about a time I went on an obstacle course with my 5-year-old son.`（教练 09-28 判"做法不建号"漏建，她 09-29 追问后补建）
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [6] · `It was When I helped a foreigner find his way at the airport.`
 
 ### 374 · can't be bothered (to do)（懒得…：比 lazy 更口语）
 类型 词组 ｜ 新建 2026-09-29 ｜ 从 🎓#15 拆出
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **can't be bothered (to do sth)** ＝ 懒得（做某事）—— 说的是"这件事不值得我费劲"，比 lazy 更口语。
@@ -1274,6 +1251,169 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-29 新建 · 从 🎓#15 拆出 · 原话 `It's not that I don't want to go. I'm just lazy.`（08-19）· 教练给的更口语版
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除；她不会的句型（§2③）⇒ 首测把 It was when 整个写进题面；换成机场指路场景
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [7] · `I couldn't be bothered cooking this weekend, so I just got food delivered.`
+
+### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
+类型 词汇 ｜ 新建 2026-09-30
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**cardboard** ＝ 硬纸板（**材料**），不可数，⛔ 不能说 a cardboard；**纸箱** ＝ **a cardboard box**。
+同一格里的邻居（别串）：a plastic bag（塑料袋）· a glass bottle（玻璃瓶）· a paper cup（纸杯）—— 材料词当修饰，后面必须跟上那个东西。
+判据一句话：中文"纸X／塑料X／玻璃X"里的那个"X"说出来了吗？没说 ⇒ 补上。
+
+**怎么发现的**
+2026-09-30 付息日 a 段在池第 1 组 [2]（#322 题面"我家猫能拿一个纸箱玩一下午。"）· 触发原话
+`My cat can play with a cardboard for an entire afternoon.`
+判重三步：
+　① 目标形式 dedup "cardboard" ⇒ 零命中
+　② 中文 dedup "纸箱" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a cardboard`　　正确：`a cardboard box`
+找法：说出材料词（cardboard／plastic／glass）之后，问自己一句"后面那个东西呢？"
+
+**题面**
+"快递寄来的那种棕色大纸箱"（装东西用的箱子，不是一张纸板）
+
+- 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#322 题里）· 原话 `My cat can play with a cardboard for an entire afternoon.`
+
+### 376 · livestream shopping（直播带货；"直播" ＝ live／livestream，⛔ living）
+类型 词组 ｜ 新建 2026-09-30
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**直播** ＝ **live**（形容词，读 /laɪv/）／**livestream**；**living** ＝ 活着的／生活的，跟"直播"无关。
+直播带货 ＝ **livestream shopping** · 带货主播 ＝ **livestream shopping hosts** · 看直播 ＝ watch a livestream。
+同一格里的邻居（别串）：🎓#213 go live（功能上线，live 同一个词，另一个意思）· live in（住，读 /lɪv/ 的动词）
+判据一句话：中文是"直播" ⇒ live／livestream，永远不是 living。
+
+**怎么发现的**
+2026-09-30 付息日 a 段在池第 1 组 [9]（#366 题面"今年做直播带货的那几个主播都赚翻了。"）· 触发原话
+`This living shopping hosts are making absolute bank this year.`
+判重三步：
+　① 目标形式 dedup "livestream" ⇒ 零命中
+　② dedup "直播" ⇒ 只命中 #366（make bank，题面里恰好有"直播"二字，考点是 bank）⇒ 否；
+　　 dedup "live" ⇒ 命中 11 条（🎓#213 go live · 🎓#230 good to live in · 其余只是历史行里出现 live 字串）⇒ 考点都不是"直播"⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`living shopping hosts`　　正确：`livestream shopping hosts`
+找法：说到"直播"时，出口的是 live，不是 living。
+
+**题面**
+"直播带货的主播"（在网上边播边卖东西的那种人）
+
+- 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [9]（#366 题里）· 原话 `This living shopping hosts are making absolute bank this year.`
+
+### 377 · not long after（没多久之后；⛔ no long after）
+类型 词组 ｜ 新建 2026-09-30
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
+
+**问题是什么**
+「没多久（之后）」＝ **not long after** ＋ 名词／从句：Not long after graduation · not long after I moved here。
+同一格里的邻居（别串）：soon after（同义）· **no** ＋ 名词（no time／no money —— no 只修饰名词）
+判据一句话：否定的是 long（一个副词）⇒ 用 not；后面直接是名词才用 no。
+
+**怎么发现的**
+2026-09-30 付息日 a 段在池第 2 组 [1]（#368 题面"她毕业没多久就在一家大银行谋到了一份工作。"）· 触发原话
+`No long after graduation, she landed a job at a major bank.`
+判重三步：
+　① 目标形式 dedup "not long" ⇒ 零命中
+　② 中文 dedup "没多久" ⇒ 只命中 #368（land a job，题面里恰好有"没多久"，考点是 land）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`No long after graduation`　　正确：`Not long after graduation`
+找法：开口说"没多久"时，先落 Not long after。
+
+**题面**
+"我搬到这个城市没多久，就交到了第一个朋友。"（"没多久"用 **long** 说）
+
+- 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 2 组 [1]（#368 题里）· 原话 `No long after graduation, she landed a job at a major bank.`
+
+### 378 · trophy（奖杯）
+类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**trophy** ＝ 奖杯（比赛发给冠军的杯子）。
+搭配：win a trophy · lift the trophy（冠军举杯）· present the trophy to sb。
+同一格里的邻居（别串）：medal（奖牌）· certificate（证书）· award／prize（奖，泛指，不管是什么形状）
+判据一句话：比赛给的"杯子" ⇒ trophy；"牌子" ⇒ medal。
+
+**怎么发现的**
+2026-09-30 付息日 a2 复检第 4 组 [1]（🎓#319 题面"比赛结束后，市长亲自给冠军颁了奖杯。"）· 原话
+`After the match, the mayor personally presented the trophy(背一下) to the campion.`
+她写对了 trophy，但自己标「背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "trophy" ⇒ 零命中
+　② 中文 dedup "奖杯" ⇒ 零命中（🎓#319 本次题面里有"奖杯"，考点是 present ⇒ 否）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（词不在手边）　　目标：`trophy`
+找法：说到"奖杯"先落 trophy；是"牌子"才换 medal。
+
+**题面**
+"冠军在台上高高举起的奖杯"（比赛最后发的那个金属大杯子）
+
+- 2026-09-30 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（🎓#319 题里）· 她标「背一下」· 原话 `presented the trophy(背一下) to the campion`
+
+### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
+类型 句型 ｜ 新建 2026-09-30
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**As X puts it,** ＝ "正如 X 所说"，逗号后面**直接说 X 的内容**：`As my mom puts it, life's too short to be grumpy.`
+同一格里的邻居（别串）：As the saying goes, …（固定块，后面同样直接接那句话）· X says that …（让 X 当主语，就不用 As）
+判据一句话：用了 As X puts it 开头，后半句的主语就不能再是 X —— 二选一。
+
+**怎么发现的**
+2026-09-30 付息日 d 段重答 bank:911（R17 · Is smiling important in your culture?）[S5] · 触发原话
+`Just as an ancient Chinese idiom puts it, a warn and gentle countenance speaks to this exact concept.`
+判重三步：
+　① 目标形式 dedup "puts it" ⇒ 零命中；dedup "saying goes" ⇒ 零命中
+　② 中文 dedup "正如" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Just as an ancient Chinese idiom puts it, a warm and gentle countenance speaks to this exact concept.`（成语既当"说话人"又当 speaks to 的主语）
+正确：`An ancient Chinese idiom, a warm and gentle countenance, speaks to this exact concept.`（或 As an old Chinese idiom puts it, ＋ 成语内容）
+找法：说完 As … puts it, 下一个词就是那句话的内容。
+
+**题面**
+"正如我爸常说的，钱是赚不完的。"（"正如…常说的"用 **puts it** 说）
+
+- 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 原话 `Just as an ancient Chinese idiom puts it, a warn and gentle countenance speaks to this exact concept.`
+
+### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
+类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**countenance** ＝ 脸上的神情／面容（书面词，多用在成语、引语的翻译里）。
+和颜悦色 ＝ **a warm and gentle countenance**。
+同一格里的邻居（别串）：日常聊天说"脸色温和"用 a warm, friendly face · expression（表情）
+判据一句话：翻成语／引古话时用 countenance；平时描述人用 face。
+
+**怎么发现的**
+2026-09-30 付息日 d 段重答 bank:911（R17）[S5] · 原话 `a warn and gentle countenance(背一下)` —— 她自己标「背一下」
+⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "countenance" ⇒ 零命中
+　② 中文 dedup "和颜悦色" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（词不在手边）　　目标：`a warm and gentle countenance`
+找法：想说"和颜悦色"这个成语时，先落 countenance。
+
+**题面**
+"和颜悦色"（成语，说一个人脸上的神情温和）
+
+- 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
 
 ## 迁移说明（2026-08-18）
 
