@@ -8,6 +8,14 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-01 · 口语 L1（周期 9 第 1 个学习日）· 已收尾**
+  —— 在池 2 组 **12 题 / 12 条 ✅12 ❌0**；复检 2 组 **20 题 / 22 条 ✅22 ❌0**（在池空出 1 组下溢给复检）
+  —— 🎓 **毕业 3 条**（#327 foothold／peg · #331 look straight ahead · #353 with a vibe，三条都是回潮后第二次毕业）⇒ 全档 **366** ＝ problems 38 ＋ graduated **328**（89.6%）
+  —— 🆕 **新建 8 条** #381 at this number · #382 leash · #383 reason with · #384 nod off（以上她点名要学）· #385 last time … was · #386 four or five days · #387 meander（她标学）· #388 as the sun was going down（书面降级）
+  —— 回看 1 篇（bank:911）；新题 bank:1156（P2 去过且喜欢的城市 · 京都）❌ 2 · ⚠️ 书面 1 · ⚪ 1
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄0
+  —— **下一场 ＝ 周期 9 · L2**：#381–#388 首测 ＋ 复检剩 6 条；回看 bank:1156；新题 1 道
+
 🆕🆕🆕 **2026-09-30 · 口语 R（周期 8 付息日）· 已收尾**
   —— a 在池 2 组 **17 题 / 17 条 ✅16 ❌1**（#363 appeal 漏 to）；a2 复检 2 组 **14 题 / 15 条 ✅13 ❌2**（#258 feel like 漏 it · #152 the last 漏 time ⇒ 回潮）
   —— 🎓 **毕业 2 条**（#186 leave a mess · #322 play with）⇒ 全档 **358** ＝ problems 33 ＋ graduated **325**（90.8%）

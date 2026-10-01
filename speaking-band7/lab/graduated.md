@@ -394,7 +394,7 @@
 
 ### 14 · well away（程度旋钮：不换词只加精度）
 类型 词组 ｜ 旧号 B36
-状态 连对1 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20 · 她指定** ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20 · 她指定** ｜ 题型 整句
 　　（原话："我觉得这道题不好，我不喜欢用 well，用 far 没啥问题，这道题毕业"）
 　　⇒ 判定：**这是可选升级块，不是缺口** —— `far away from the road` 本身完全正确，
 　　　 well away 只是另一个说法。她已有正确产出且明确不想用这个块 ⇒ 停止召回
@@ -430,6 +430,8 @@
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   far away 合法 ⇒ 中文块单独映射不回 well away；改整句、正向点名 well，away 留给她（她掉过的就是 well far）；换成拴狗场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [2] · `I keep my dog leashed well aways from the road.` —— well away from（aways 拼写，§2.1 不算）
+  ｜leashed 她标「这个单词背一下」⇒ 新建 #382
 - 备注 更高一档的说法（房子离马路退得远）：`His house is set well back from the road.`
 - 备注 well 当程度旋钮只配固定那几个：well away／well worth／well past／well over／well aware／well ahead
 - 备注 08-19 她问"the road 哪个好" → the road 对（马路这条路）；the traffic 是路上的车流
@@ -477,7 +479,7 @@
 
 ### 16 · 让某人做某事四件套（get sb TO do 只有它带 to；have/make/let/watch/see sb DO）
 类型 搭配 ｜ 旧号 B39
-状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
 
 **问题是什么**
 **让某人做某事四件套**：`get sb **TO** do` —— 这一族里**只有 get 带 to**；
@@ -506,6 +508,7 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `get students to try it themselves`（get sb TO do，四件套里只有 get 带 to）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   考点是 to／光杆原形挂在哪 ＝ 靠句子现形；一句覆盖两半（get sb to do ＋ watch sb do，她掉过的是 watch 那半）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [3] · `I got my kid to clean up his room and stood at the door to watch him finish.` —— get sb to do ＋ watch sb do 两处都对
 - ⚠️ 与已毕业的 #143（哪些动词后面要带 to）是同一条规则的两个角度 —— 付息日 c 段处理
 
 ### 17 · talk AT sb（单向灌输）vs talk TO sb
@@ -867,7 +870,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 25 · It's no use doing sth（做某事没用）
 类型 搭配 ｜ 旧号 B48
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **It's no use doing sth** ＝ 做某事没用（固定框，后面挂 **-ing**）：`it's no use fining people for littering`。
@@ -905,6 +908,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除，正向点名 It's no use，-ing 留给她；换成讲道理场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [4] · `It's no use reasoning with him; he won't listen to a word of it.` —— It's no use ＋ -ing
+  ｜reasoning with him 她标「这个词组需要背一下」⇒ 新建 #383
 - ⚠️ **捆绑条目**：本次只验了 It's no use doing 一块；litter 不可数／fine sb FOR doing 两块未再验
   ⇒ 付息日按"一条＝一个考点"拆号时，那两块各自从 0 起算重建
 - ⚠️ 与 #32 的关系（付息日 c 段要写进两条备注）：#32 记的是"There's no point 比 It's no use 更常用"，
@@ -1241,7 +1246,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 35 · 禁双重否定：否定 → no- 词，动词一律肯定（Nobody knows.）
 类型 语法 ｜ 旧号 B54＋B207c
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（她 08-20 定：连对 2 即毕业，不论历史有无 ❌）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（她 08-20 定：连对 2 即毕业，不论历史有无 ❌）｜ 题型 整句
 
 **问题是什么**
 **禁双重否定**：否定落在 **no- 词**上，动词一律肯定 ——
@@ -1270,13 +1275,15 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· 两句都走 no- 词 ＋ 动词肯定
   （no one else **can** do it ／ no one **is** willing）⛔ 无双重否定
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [5] · `Nobody tell me a thing about it. There's nothing left in the fridge.` —— 否定都只标一次（Nobody 配 a thing · There's nothing left）
+  ｜⚪ tell → told 归 #12（形态类·时态），不影响本条
 - 备注 合并 2026-08-19：#124（否定 → no- 词，且动词不再否定）并入本条 —— 同一条规则
   ⚠️ **本条 08-19 曾按"零 ❌ 线"判毕业，合并后撤销**：并入 #124 的日志后 08-16 有一个 ❌，
      零 ❌ 线不适用，连对只有 2 ⇒ 回到未毕业，还差一次
 
 ### 36 · all morning / all day / all night 不带 the
 类型 搭配 ｜ 旧号 B55
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **all morning ／ all day ／ all night 不带 the**：`he played games **all night**`。
@@ -1308,6 +1315,8 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `all morning`（⛔ 没落进 the whole morning）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   the whole night 合法 ⇒ 中文块单独逼不出 all ＋ 时段；改整句、点名 all，中间插不插 the 留给她（她掉过两次的就是这个）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [6] · `He played games all night last night and kept nodding off in class today.` —— all night 不带 the
+  ｜nodding off 她标「这个词组背一下」⇒ 新建 #384
 
 ### 37 · everyday（形容词）≠ every day（副词短语）
 类型 语法 ｜ 旧号 B56
@@ -1389,7 +1398,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 39 · 惯用定冠词：the TV / the radio / the cinema / on the screen
 类型 语法 ｜ 旧号 B58
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **惯用定冠词**：the TV ／ the radio ／ the cinema ／ on the screen —— 这一族名词习惯带 **the**。
@@ -1419,6 +1428,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· in front of **the** TV（惯用定冠词）
   ｜ ⚠️ 顺带自发命中 #36：all night ⛔ 不带 the
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [8] · `My grandma listens to the radio every single morning.` —— the radio
 
 ### 40 · 删掉自我对冲的 a bit（对比句要给足）
 类型 结构 ｜ 旧号 B59
@@ -1523,7 +1533,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 43 · come to your city / come to town（乐队巡演到某地）
 类型 词组 ｜ 旧号 B62
-状态 连对1 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个题毕业了，不要再考了"）｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个题毕业了，不要再考了"）｜ 题型 整句
 
 **问题是什么**
 **come to your city ／ come to town** ＝ 乐队巡演到某地。
@@ -1555,6 +1565,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· comes **here** once or twice —— 落点在
   （这正是 08-19 掉、08-20 修回的那一格）
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [7] · `My favorite band only comes through here once or twice a year.` —— come 后面挂了落点（through here；come through ＝ 巡演路过某地，合法）
 
 ### 44 · good AT doing ／ 升级版 He cooks well.
 类型 搭配 ｜ 旧号 B66
@@ -1767,7 +1778,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 50 · "好找/好用/好记"用 easier，不用 more convenient（convenient ＝ 方式省事）
 类型 搭配 ｜ 旧号 B73
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
 
 **问题是什么**
 **"好找／好用／好记"用 easier，⛔ 不用 more convenient**：
@@ -1812,6 +1823,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 ```
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· easy to find（easier 一族，⛔ 没落进 more convenient）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `it's easier to find next time`（easier，⛔ 没落进 more convenient）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [2b] · `Easy to find next time.` —— easy，没落成 convenient
 - 备注 ★ 本条就是她 08-21「直译要 case by case 建」那条规则的**正面样本**：
   `more convenient to find` 这个具体 case 早在 08-11 就有自己的号（本条），
   却又被 08-16 复制进伞形条目 #157 的日志里 ⇒ **同一个 case 占两个号、走两条 streak**，
@@ -2386,7 +2398,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 70 · I wouldn't go THAT far, though.（软化自己刚说的话）
 类型 词组 ｜ 旧号 B109a
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **I wouldn't go THAT far, though.** ＝ 软化自己刚说的话（整块背，重心在 **that far**）。
@@ -2414,6 +2426,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-08-19 ✅ `I wouldn't go that far, tough`（tough 是打字滑，块本身对）
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I wouldn't go that far（整块调出，that far 一字不差）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `but I wouldn't go that far`（go that far 整块；wouldn't 拼写不算错 §2.1）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [9] · `Calling him a genius? I wouldn't go that far.` —— I wouldn't go that far
 - 备注 08-11 教练自纠：块本身写错过（go too far → go that far）
 
 ### 71 · It's not that A — it's about B.（把矛头从对象转到程度）
@@ -2489,7 +2502,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 73 · stuck WITH ＝ 被迫接受甩不掉
 类型 词组 ｜ 旧号 B117c
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19 · 她指定** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-19 · 她指定** ｜ 题型 整句
 
 **问题是什么**
 **stuck WITH sb／sth** ＝ 被迫接受、甩不掉（介词写死是 **with**）：`I got stuck with him`。
@@ -2520,6 +2533,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `get stuck with`（介词 with 对）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 stuck，介词 with 留给她（她掉过两次）；换成买错沙发场景（⛔ 不再用"跟他一组"原句）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [10] · `I bought the wrong sofa and can't return it, so I'm just stuck with it.` —— stuck with it
 
 ### 74 · make do with（将就）／整块 I'll have to make do with …
 类型 词组 ｜ 旧号 B121＋B171a
@@ -4385,7 +4399,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 128 · 坐飞机 ＝ fly／be on a plane／take a plane（❌ take the airplane）
 类型 搭配 ｜ 旧号 B215
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 词组
 
 **问题是什么**
 **坐飞机 ＝ fly ／ be on a plane ／ take a plane**（❌ take the airplane）。
@@ -4415,6 +4429,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· by air（合法但非预期 ⇒ §3.3 记 ✅ ＋ 当场改题面）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `by plane`（§3.3 合法但非条目字面预期 ⇒ 记 ✅；
   条目只排除 take the airplane，go by plane 与 fly／take a plane 同属正确形 ⇒ ⛔ 不改题面）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [2c] · `Take a flight.` —— 与 fly／take a plane 同属正确形，没落成 take the airplane
 
 ### 129 · staff 是集合名词，没有复数 staffs（the staff ARE friendly）
 类型 语法 ｜ 旧号 B216
@@ -5776,7 +5791,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 167 · be in a hurry 的主语必须是人；There's no rush.
 类型 搭配 ｜ 旧号 B256
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 今天回标成「题型 整句」才从词组串里单独拎出来 —— 旧口径按「类型 搭配」打包，主语根本不出现、考点永远测不到）
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 今天回标成「题型 整句」才从词组串里单独拎出来 —— 旧口径按「类型 搭配」打包，主语根本不出现、考点永远测不到）
 
 **问题是什么**
 **be in a hurry 的主语只能是人**（I'm in a hurry ／ he's in a hurry）—— 事情和时间不会"赶"，
@@ -5796,7 +5811,7 @@ something to look forward **to** ／ a pen to write **with**。
 找法：说"赶时间"之前先看主语 —— 是人就 in a hurry，是"这件事不急"就换成 There's no rush。
 
 **题面**
-"你慢慢挑，一点都不着急。" ／ "我还要赶火车，得先走了。"（第一句用 **There's** 起头）
+"你慢慢挑，一点都不着急。" ／ "我还要赶火车，得先走了。"（第一句用 **There's** 起头，第二句"赶"用 **hurry** 说）
 
 - 2026-08-17 ✅
 - 2026-08-19 ✅ `there's no rush. I'm in a rush, so I have to head out now.`（两半都对）
@@ -5822,6 +5837,10 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除，第一句正向点名 There's 起头；换成挑东西／赶火车两个新场景
+- 2026-10-01 📝 题面补点名「第二句"赶"用 **hurry** 说」· 复检第 3 组发题前审核（§6.5 第 7 项 · 硬阻断）
+  第二句只给中文时 `I've got a train to catch` 同样合法，绕开"主语是人 ⇒ in a hurry"这个落点 ⇒ 补正向点名；
+  第一句答 There's no hurry 与 There's no rush 同属本条正确形
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [4] · `There's no rush — take your time. I need to hurry to catch my train, so I gotta get going.` —— There's no rush（事）＋ I need to hurry（人当主语）两个落点都到
 - 备注 同族"块记了一半"：`stood on their feet`（该 be on your feet）
 
 ### 168 · tick things off a list（打卡式旅游）
@@ -10608,7 +10627,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **take ownership (of sth)** ＝ 把它当成自己的事、自己扛起来。
@@ -10668,6 +10687,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"take ＋ o- 开头的名词"猜谜写法，点名 ownership，take … of 怎么搭留给她（09-11／09-13 掉过）；换成新员工场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [5] · `Once you hit college, you need to take ownership of your learning.` —— take ownership of ＋ 具体的东西，ownership 不带 a
 
 ### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -11777,7 +11797,7 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
 
 ### 301 · enjoy ＋ 物主代词 ＋ time／stay（不说 enjoy the time）
 类型 搭配 ｜ 新建 2026-08-26（**补建**）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `enjoy the time with him`，与 08-26 建号触发句一模一样，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `enjoy the time with him`，与 08-26 建号触发句一模一样，撤销毕业、连对清零）
 
 **问题是什么**
 **enjoy ＋ 物主代词 ＋ time／stay**：enjoy 后面接"时光"类名词时，那个名词前面要**物主代词**，⛔ 不是 the。
@@ -11825,7 +11845,7 @@ enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主�
 找法：enjoy 后面要接"时光"了 —— 先想 my／your／our，除非后面还要挂一个从句。
 
 **题面**
-"这次在海边住的几天，我过得特别开心。"（用 **enjoy** 说）
+"这次在海边住的几天，我过得特别开心。"（用 **enjoy** 说，"住的几天"用 **stay** 说）
 
 - 2026-08-25 ⚠️ 首犯 · 自由产出（加练新题 bank:1043 P2）· `I really enjoyed **the time** with him`
   → enjoyed **my time** with him
@@ -11855,6 +11875,9 @@ enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主�
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ spending"，点名 enjoy，my／the 留给她（她掉过两次的就是 enjoy the time）；换成海边度假场景
+- 2026-10-01 📝 题面补点名「"住的几天"用 **stay** 说」· 复检第 3 组发题前审核（§6.5 第 7 项 · 硬阻断）
+  只点 enjoy 时 `I really enjoyed staying by the sea` 同样合法，绕开"物主代词 ＋ 时光名词"这一格 ⇒ 点名名词 stay，my／the 仍留给她
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [6] · `I really enjoyed my stay at the beach this time.` —— enjoyed my stay（物主代词，没落成 the stay）
 
 
 ### 302 · something breaks（东西坏了／出故障，break 当不及物动词，不用 be broken）
@@ -13716,6 +13739,41 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉首字母／词数／排除项，改成中文释义（能撑多久，不是力气大小）；endurance 同样算对
 
+### 327 · 踏脚点 ＝ foothold ／ peg
+类型 词汇 ｜ 新建 2026-09-09
+状态 连对2 连错0 上次2026-10-01 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+
+**问题是什么**
+脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
+同一格里的邻居（别串）：⛔ 不说 a place to step（能懂，但要绕一个从句）。
+判据一句话：说的是"能踩脚的那个位置"这个概念 ⇒ foothold；说的是"钉上去的那根小木桩"这个实物 ⇒ peg。
+
+**怎么发现的**
+2026-09-09 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词也是查字典的"。
+判重结论 全档 grep `foothold\|peg` 零命中 ⇒ 保留（⛔ 建号当天不测）
+2026-09-10 ✅ 复习 · 在池第 2 组首测 · `foothold / peg` —— 两个名词都一字不差。
+
+**我错在哪**
+她的：当场查字典才写出来（2026-09-09 自标；⛔ 不是产出错）　　正确：`a foothold` ／ `a peg`
+找法：想说"能踩脚的地方"时⛔别去绕 a place to step，先找那个名词 —— foothold；具体那根小木桩就是 peg。
+
+**题面**
+"攀岩墙上的落脚点"（凸出来、能把脚踩稳的那一小块） ／ "木栈道栏杆上钉的小木桩"（短短一截、可以挂东西或踩一只脚）
+
+- 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词也是查字典的"
+  条目内容：脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
+  ⛔ 不说 a place to step（能懂，但要绕一个从句）。
+- 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `foothold / peg` —— 两个名词都一字不差
+- 2026-09-13 📝 题面整改：第一句补（⛔ 不许用 footing）· 发题前审核（§6.5 第 7 项）
+  `footing` 同样 f 开头、同样一个名词、同样合法（get a footing），但它是"站稳的状态"不是"那个点" ⇒ 补排除项
+- 2026-09-13 ✅ 学习日 在池第 2 组 · `foodhold. peg.`——foothold（foodhold 是拼写，§2.1 不算）／peg 两个都对 ——**连对 2，毕业**
+- 2026-09-19 ⚡ 自评免测 · 复检第 2 组（打包 [2] 里 foothold 当场答对；另一半 peg 请她补答时她说"直接过"）
+- 2026-09-29 ❌ 复检第 2 组 · 答成 `footsteps. peg.`（foothold 没调出来，peg 对）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉首字母／词数／排除项，括号只留中文释义；换成攀岩墙、木栈道两个新场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [3] · `A foodhold / A peg.`（foodhold 拼写，§2.1 不算）
+- 2026-10-01 ✅ 学习日 在池第 1 组 [3] · `foothold. peg.` —— 两个名词都对 ⇒ **连对 2，毕业**
+
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
 类型 词汇 ｜ 新建 2026-09-09
 状态 连对1 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-10 · 她指定**（§3.3「她可直接指定」；原话："这个直接毕业吧"。首测 ✅ ＋ 她指定 ⇒ 连对停在 1，⛔ 未凑连对2）
@@ -13801,7 +13859,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 330 · set one's mind to sth（下定决心要做的事）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
@@ -13820,7 +13878,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 找法：中文"下定决心要做"先分一刀 —— 是"一直往下干"（set one's mind to），还是"当场拿定主意"（make up one's mind）？
 
 **题面**
-"她只要认准了一件事，就一定会干成。"（"认准了"用 **mind** 说）
+"她只要认准了一件事，就一定会干成。"（"认准了"用 **set** 和 **mind** 说）
 
 - 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个短语也是查字典的"
   条目内容：**set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
@@ -13844,6 +13902,52 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉四个排除项，只点名 mind，set … to 与句尾 to 留给她（09-13 掉过）；换成认准了就干成场景
+- 2026-10-01 📝 题面补点名「"认准了"用 **set** 和 **mind** 说」· 复检第 3 组发题前审核（§6.5 第 7 项 · 硬阻断）
+  只点 mind 时 make up her mind／put her mind to 同样合法，绕开 set one's mind to ⇒ 点名 set；
+  to 和它后面挂什么（09-13 掉的是 to do）仍留给她
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [7] · `Once she sets her mind on something, she always makes it happen.` —— set one's mind on／to 同属本条（09-13 已定），后面挂名词，没落成 to do
+
+### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
+类型 词组 ｜ 新建 2026-09-09
+状态 连对2 连错0 上次2026-10-01 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+
+**问题是什么**
+眼睛往正前方看 ＝ **look straight ahead**；
+look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视线方向"无关）。
+同一格里的邻居（别串）：⛔ forward 在"往前看"这个意思上不能替 ahead。
+判据一句话：说的是**视线方向** ⇒ ahead；说的是**心里盼着** ⇒ look forward to。
+★ 与 graduated.md:1455 那条的分工：那条考的是"不定式后面挂介词"（something to look forward **to**）＝ 结构考点；
+　本条考的是**选词**（ahead vs forward）⇒ 目标形式不同，题面互斥（本条题面只讲视线方向，释义里点明不是"盼着"）。
+
+**怎么发现的**
+2026-09-09 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"。
+★ 她这次最终写对了（look straight ahead），但第一冲动是 look forward ⇒ 建号锁住。
+判重结论 grep `look forward` 命中 graduated.md:1455 —— 那条考的是"不定式后面挂介词"
+（something to look forward **to**）＝ 结构考点；本条考的是**选词**（ahead vs forward）
+⇒ 目标形式不同 ⇒ 两条并存，题面互斥（本条题面已排除 forward）⇒ 保留
+2026-09-10 ✅ 复习 · 在池第 2 组首测 · `look straight ahead` —— 三个词一字不差。
+
+**我错在哪**
+她的：第一冲动是 `look forward`（2026-09-09 自述，最终写对了 look straight ahead）　　正确：`look straight ahead`
+找法：要说"往前看"先问一句 —— 是眼睛的方向吗？是就用 ahead，⛔ 别让 look forward 抢跑。
+
+**题面**
+"骑车时眼睛直视前方"（视线朝正前面，不是"盼着"的那个"往前看"）
+
+- 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"
+  条目内容：眼睛往正前方看 ＝ **look straight ahead**；
+  look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视线方向"无关）。
+  ⛔ forward 在"往前看"这个意思上不能替 ahead。
+  ★ 她这次最终写对了（look straight ahead），但第一冲动是 look forward ⇒ 建号锁住。
+- 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `look straight ahead` —— 三个词一字不差
+  ★ 09-09 她自述原始冲动是 look forward（＝ 期待），这次没再冒出来
+- 2026-09-13 ✅ 学习日 在池第 2 组 · `look straight ahead.`——**连对 2，毕业**
+- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 ❌ 复检第 2 组 · 答成 `look forward ahead.`（题面 ⛔ forward）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉词数与「⛔ forward」，括号改写中文释义（视线方向，不是"盼着"）；换成骑车场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [4] · `For the ID photo, look straight ahead.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [4] · `look straight ahead.` —— ahead 到位，forward 没抢跑 ⇒ **连对 2，毕业**
 
 ### 332 · 名词化的"提议/请求"拆回【动词 ＋ when 从句】
 类型 结构 ｜ 新建 2026-09-09
@@ -13976,7 +14080,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 335 · take action（action 在这个块里不可数，⛔ take actions）
 类型 语法 ｜ 新建 2026-09-11（从 #261 拆出）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **take action** 是固定块，action 在这里**不可数** ⇒ ⛔ 不加 -s、⛔ 不加 an。
@@ -14020,10 +14124,11 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"take ＋ a 开头的名词"猜谜与四个排除项，直接用"采取行动"点名 action，-s 挂不挂留给她；换成治污场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [8] · `With pollution this severe, the government needs to take swift action.` —— take swift action，action 不带 s
 
 ### 336 · get TO ＋ 地点（到达；⛔ get the destination）
 类型 搭配 ｜ 新建 2026-09-11
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **get to** ＋ 地点 ＝ 到达（get 后面挂地点必须有 to）：get to the station ／ get to work ／ get to the destination。
@@ -14059,6 +14164,7 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 get，to 留给她（她掉过的是 get the destination）；换成问路去火车站场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [1] · `During peak hour, it takes me a full hour to get to work.` —— get to work（get 后面挂地点，to 在）
 
 ### 337 · look up sth（查；⛔ look up for）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#100 互斥（look for）
@@ -14144,7 +14250,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **reach sb** ＝ 联系上某人（电话／消息打得通）：I couldn't reach him ／ You can reach me at this number。
@@ -14178,6 +14284,8 @@ reach **直接带宾语**，⛔ 前面不套 get。
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 reach，前面套不套 get 留给她；换成打一下午电话场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [10] · `If anything comes up, you can reach me at this number.` —— reach me 直接带宾语，没套 get
+  ｜at this number 她自注「需要学一下，本来想写 through」⇒ 新建 #381（号码前的介词，与本条规则不同）
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
@@ -14226,7 +14334,7 @@ reach **直接带宾语**，⛔ 前面不套 get。
 
 ### 341 · deserve praise／credit（⛔ worth praise）
 类型 搭配 ｜ 新建 2026-09-13
-状态 连对2 连错0 上次2026-09-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 "值得表扬／值得认可" ＝ **deserve praise／credit**（或 be worthy of praise ／ be praiseworthy）。
@@ -14261,6 +14369,7 @@ worth -ing（worth praising 可以）。
 - 2026-09-21 ⚡ 自评免测 · 复检第 2 组（她看完整组回「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"一个动词／⛔ worth／should"，改零提示整句（deserve／worth praising／be praised 都算对），逼的是她掉过的 worth praise
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [9] · `That young guy who found the wallet and brought it back really deserves a lot of credit.` —— deserves credit，没落成 worth praise
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
@@ -14626,6 +14735,43 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   去掉"单数固定块 ＋ ⛔ feeling／feel"，只点名 real；换成照片比不上亲眼看场景
 - 2026-09-29 📝 补题面（上一批 🎓#352 状态行改了整句、题面节替换没落上，本行补记新场景：照片比不上亲眼看）
 
+### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
+类型 搭配 ｜ 新建 2026-09-20
+状态 连对2 连错0 上次2026-10-01 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 整句
+
+**问题是什么**
+**vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
+`somewhere with a completely different vibe` ／ `the place has a really chill vibe` ／ `soak up a different vibe`。
+⛔ chill **in** a different vibe —— in 把 vibe 当成了房间。
+同一格里的邻居（别串）：真要说"待在里面"就换个有空间义的名词：in a totally different setting／atmosphere。
+判据一句话：vibe 前面想加 in ⇒ 停：改成 with a … vibe 挂在地方上，或者把 vibe 换成 setting。
+
+**怎么发现的**
+2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
+`you just get to chill in a totally different vibe.`
+判重三步：
+　① 目标形式 vibe ⇒ dedup "vibe" ⇒ 零命中；dedup "atmosphere" ⇒ 零命中
+　② 中文题面 dedup "气氛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`you just get to chill in a totally different vibe`　　正确：`you get to chill somewhere with a totally different vibe`
+找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
+
+**题面**
+"周末去一个氛围完全不一样的小镇待两天，整个人都放松了。"（"氛围"用 **vibe** 说）
+
+- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
+- 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
+- 2026-09-21 ✅ 学习日 在池第 1 组 [6] · `you can stay somewhere with a completely different vibe.` —— vibe 挂回了地方上（somewhere with a … vibe），前面不是 in。连对 0 → 1
+- 2026-09-26 ✅ 付息日 a 在池第 1 组 [6] · `You get to somewhere with a totally different vibe.` —— vibe 挂在地方上（somewhere with a … vibe），前面不是 in ⇒ **连对 2，毕业**
+  ★ 同句 get to 后漏动词 ⇒ 不属本条，新建 #360
+- 2026-09-29 ❌ 复检第 2 组 · `you get to chill somewhere in a totally different vibe.`（vibe 前用了 in）—— **回潮**
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
+  去掉「⛔ vibe 前面不许用 in」（那是考点本身），只点名 vibe；换成周末小镇场景
+- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [5] · `The cafe has such a great vibe, I go there all the time to read.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [5] · `I prefer working at a small company with a relaxed vibe.` —— vibe 挂在地方上（a small company with a relaxed vibe），前面不是 in ⇒ **连对 2，毕业**
+
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
 状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
@@ -14782,7 +14928,7 @@ magic→magical · music→musical · practice→practical · politics→politic
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
@@ -14821,10 +14967,11 @@ magic→magical · music→musical · practice→practical · politics→politic
 - 2026-09-28 ✅ 在池第 1 组 · `You connect with others on an emotional level.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ emotionally"，只点名 level，on／at 与冠词留给她；换成广告打动人场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [1] · `This song means a lot to me on a personal level.` —— on a personal level
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
 
 **问题是什么**
 **persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
@@ -14855,10 +15002,11 @@ persuade 偏"让人做"）。
 - 2026-09-28 ✅ 在池第 1 组 · `successful persuasion. the art of persuasion.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"一个名词、p 开头 ＋ 排除项"，改中文释义；换成销售说服能力场景（09-26 发过的两个块⛔不复用）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [2a] · `The power of persuasion in a speech.` —— the power of persuasion
 
 ### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
 类型 语法 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
@@ -14895,6 +15043,7 @@ persuade 偏"让人做"）。
 - 2026-09-28 ✅ 在池第 1 组 · `When you are on vacation, you get to spend the whole day at the beach.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ can／be able to"，正向点名 get to，后面接动词原形留给她；换成当老师场景
+- 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [3] · `The best part about being a teaching is getting to watch kids grow up step by step.` —— get to 后面接了动词（getting to watch）｜teaching → teacher 打字，§2.1 不算
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26

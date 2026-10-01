@@ -6752,3 +6752,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 2⇄2
 
 **下一场 ＝ 周期 9 · L1**：#375–#380 首测 ＋ 回潮 #258 #152；回看 bank:911；新题 1 道
+
+## 2026-10-01（周四）· 口语 L1（周期 9 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 366 ＝ problems.md 38 ＋ graduated.md 328 ｜ 🎓 328（89.6%）｜ 未毕业 38 ｜ 可出题 28 ｜ 队列到期剩 6（复检）｜ ⚡ 累计 263 条、掉过 8（校准 3%）｜ 重答队列 60 / 未重答 43
+
+**五段**
+- ① 在池 2 组 12 题 / 12 条：**✅12 ❌0** ⇒ **毕业 3**（#327 · #331 · #353）；#375–#380 首测全 ✅；#377 答成强调句 It wasn't long after … that（合法 ✅，题面补点名「long after 放句首」）
+- ①b 复检 2 组 20 题 / 22 条：**✅22 ❌0**（#336 与 #341 组间对调，避开 #360 的 get to 提示泄题）；发题前补点名 3 条（#167 hurry · #301 stay · #330 set）
+- ② 回看 1 篇：bank:911（`lookback --pending` 原样贴）
+- ④ 新题 bank:1156（P2 · Describe a city you enjoyed visiting · 京都）：❌ 2（#385 漏 was · #386 four days or five）· 她标学 1（#387 meander）· ⚠️ 书面 1（#388）· ⚪ 1（meanders 时态 → #12）
+- 新建 8：#381 at this number · #382 leash · #383 reason with · #384 nod off · #385 last time … was · #386 four or five days · #387 meander · #388 as the sun was going down
+
+**教练犯规 1 条**：#381–#384 发给她时漏了种子题面（新题反馈时补发）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
+
+**下一场 ＝ 周期 9 · L2**：#381–#388 首测 ＋ 复检剩 6 条；回看 bank:1156；新题 1 道

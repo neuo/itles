@@ -293,6 +293,8 @@
   ★ 形态类（本条状态行带形态类·不召回）⇒ 只记 ⚪，⛔ 不判档位、⛔ 不动状态行
   检查触发：中文里出现"了／过／上个月／去年"这类完成或过去标记，回头看英文动词有没有跟着变过去式
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
+- 2026-10-01 ⚪ 学习日 复检第 4 组 [5]（🎓#35 题里）· `Nobody tell me a thing about it.` → told（"谁也没告诉我"＝过去；同组 got／stood／played／bought 都标了过去 ⇒ 形态类，只记录）
+- 2026-10-01 ⚪ 学习日 新题 bank:1156（P2）[S7] · `The river lazily meanders along` → meandered（前面 I was completely immersed 已在过去，同一场景的景物描写跳回现在；同篇 couldn't get／was／stayed／took 都标了过去 ⇒ 形态类，只记录）
 
 ### 56 · visual effects 恒复数；可数名词单数必须带限定词
 类型 语法 ｜ 旧号 B79
@@ -648,7 +650,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 152 · the first / last TIME ＋ 完整从句（time 不能省）
 类型 结构 ｜ 旧号 B241
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）
 
 **问题是什么**
 **the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
@@ -683,10 +685,11 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
   去掉"⛔ 不许用 when"，正向点名 the first 起头，time 留给她（她掉过的就是 The first I saw it）；换成第一次去北京场景
 - 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [7] · `The last I saw my grandmother, …` —— time 被吞 ⇒ **回潮**
   最小改 `The last time I saw my grandmother, she was still able to …`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [1] · `The first time I cooked by myself, I almost burned the kitchen down.` —— The first time ＋ 完整从句，time 没吞。连错 1 → 连对 1
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
 **at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
@@ -724,6 +727,7 @@ in order to → to · utilize → use · numerous → a lot of · purchase → b
   点名 feel like，whenever … it 怎么搭留给她（09-22 复检掉过）；换成周末起床场景
 - 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [1] · `I can sleep in for as long as I feel like.` —— feel like 后漏 it ⇒ **回潮**
   正确版 `I can sleep in for as long as I feel like it.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [2] · `This gym is open 24 hours, so you can go whenever you feel like it.` —— whenever you feel like it 整块到位，it 没漏（09-30 掉的就是它）。连错 1 → 连对 1
 - 备注 整句范例（她指定要背的那句）：
   **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
   —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
@@ -780,120 +784,9 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 327 · 踏脚点 ＝ foothold ／ peg
-类型 词汇 ｜ 新建 2026-09-09
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ 题型 词组
-
-**问题是什么**
-脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
-同一格里的邻居（别串）：⛔ 不说 a place to step（能懂，但要绕一个从句）。
-判据一句话：说的是"能踩脚的那个位置"这个概念 ⇒ foothold；说的是"钉上去的那根小木桩"这个实物 ⇒ peg。
-
-**怎么发现的**
-2026-09-09 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词也是查字典的"。
-判重结论 全档 grep `foothold\|peg` 零命中 ⇒ 保留（⛔ 建号当天不测）
-2026-09-10 ✅ 复习 · 在池第 2 组首测 · `foothold / peg` —— 两个名词都一字不差。
-
-**我错在哪**
-她的：当场查字典才写出来（2026-09-09 自标；⛔ 不是产出错）　　正确：`a foothold` ／ `a peg`
-找法：想说"能踩脚的地方"时⛔别去绕 a place to step，先找那个名词 —— foothold；具体那根小木桩就是 peg。
-
-**题面**
-"攀岩墙上的落脚点"（凸出来、能把脚踩稳的那一小块） ／ "木栈道栏杆上钉的小木桩"（短短一截、可以挂东西或踩一只脚）
-
-- 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"这个词也是查字典的"
-  条目内容：脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
-  ⛔ 不说 a place to step（能懂，但要绕一个从句）。
-- 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `foothold / peg` —— 两个名词都一字不差
-- 2026-09-13 📝 题面整改：第一句补（⛔ 不许用 footing）· 发题前审核（§6.5 第 7 项）
-  `footing` 同样 f 开头、同样一个名词、同样合法（get a footing），但它是"站稳的状态"不是"那个点" ⇒ 补排除项
-- 2026-09-13 ✅ 学习日 在池第 2 组 · `foodhold. peg.`——foothold（foodhold 是拼写，§2.1 不算）／peg 两个都对 ——**连对 2，毕业**
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组（打包 [2] 里 foothold 当场答对；另一半 peg 请她补答时她说"直接过"）
-- 2026-09-29 ❌ 复检第 2 组 · 答成 `footsteps. peg.`（foothold 没调出来，peg 对）—— **回潮**
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
-  去掉首字母／词数／排除项，括号只留中文释义；换成攀岩墙、木栈道两个新场景
-- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [3] · `A foodhold / A peg.`（foodhold 拼写，§2.1 不算）
-
-### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
-类型 词组 ｜ 新建 2026-09-09
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ 题型 词组
-
-**问题是什么**
-眼睛往正前方看 ＝ **look straight ahead**；
-look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视线方向"无关）。
-同一格里的邻居（别串）：⛔ forward 在"往前看"这个意思上不能替 ahead。
-判据一句话：说的是**视线方向** ⇒ ahead；说的是**心里盼着** ⇒ look forward to。
-★ 与 graduated.md:1455 那条的分工：那条考的是"不定式后面挂介词"（something to look forward **to**）＝ 结构考点；
-　本条考的是**选词**（ahead vs forward）⇒ 目标形式不同，题面互斥（本条题面只讲视线方向，释义里点明不是"盼着"）。
-
-**怎么发现的**
-2026-09-09 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"。
-★ 她这次最终写对了（look straight ahead），但第一冲动是 look forward ⇒ 建号锁住。
-判重结论 grep `look forward` 命中 graduated.md:1455 —— 那条考的是"不定式后面挂介词"
-（something to look forward **to**）＝ 结构考点；本条考的是**选词**（ahead vs forward）
-⇒ 目标形式不同 ⇒ 两条并存，题面互斥（本条题面已排除 forward）⇒ 保留
-2026-09-10 ✅ 复习 · 在池第 2 组首测 · `look straight ahead` —— 三个词一字不差。
-
-**我错在哪**
-她的：第一冲动是 `look forward`（2026-09-09 自述，最终写对了 look straight ahead）　　正确：`look straight ahead`
-找法：要说"往前看"先问一句 —— 是眼睛的方向吗？是就用 ahead，⛔ 别让 look forward 抢跑。
-
-**题面**
-"骑车时眼睛直视前方"（视线朝正前面，不是"盼着"的那个"往前看"）
-
-- 2026-09-09 📝 新建 · 新题 bank:1091 自由产出（P2）· 她自标"本来想写 look forward"
-  条目内容：眼睛往正前方看 ＝ **look straight ahead**；
-  look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视线方向"无关）。
-  ⛔ forward 在"往前看"这个意思上不能替 ahead。
-  ★ 她这次最终写对了（look straight ahead），但第一冲动是 look forward ⇒ 建号锁住。
-- 2026-09-10 ✅ 复习 · 在池第 2 组（首测）· `look straight ahead` —— 三个词一字不差
-  ★ 09-09 她自述原始冲动是 look forward（＝ 期待），这次没再冒出来
-- 2026-09-13 ✅ 学习日 在池第 2 组 · `look straight ahead.`——**连对 2，毕业**
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
-- 2026-09-29 ❌ 复检第 2 组 · 答成 `look forward ahead.`（题面 ⛔ forward）—— **回潮**
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
-  去掉词数与「⛔ forward」，括号改写中文释义（视线方向，不是"盼着"）；换成骑车场景
-- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [4] · `For the ID photo, look straight ahead.`
-
-### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
-类型 搭配 ｜ 新建 2026-09-20
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ 题型 整句
-
-**问题是什么**
-**vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
-`somewhere with a completely different vibe` ／ `the place has a really chill vibe` ／ `soak up a different vibe`。
-⛔ chill **in** a different vibe —— in 把 vibe 当成了房间。
-同一格里的邻居（别串）：真要说"待在里面"就换个有空间义的名词：in a totally different setting／atmosphere。
-判据一句话：vibe 前面想加 in ⇒ 停：改成 with a … vibe 挂在地方上，或者把 vibe 换成 setting。
-
-**怎么发现的**
-2026-09-20 学习日 新题 bank:1038（P3 · Why do people like to visit historical sites?）· 触发原话
-`you just get to chill in a totally different vibe.`
-判重三步：
-　① 目标形式 vibe ⇒ dedup "vibe" ⇒ 零命中；dedup "atmosphere" ⇒ 零命中
-　② 中文题面 dedup "气氛" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`you just get to chill in a totally different vibe`　　正确：`you get to chill somewhere with a totally different vibe`
-找法：写完 vibe，回头看它前面是不是 in —— 是就把它挂回地方上（with a … vibe）。
-
-**题面**
-"周末去一个氛围完全不一样的小镇待两天，整个人都放松了。"（"氛围"用 **vibe** 说）
-
-- 2026-09-20 新建 · 新题 bank:1038（P3）· 触发原话 `chill in a totally different vibe`（⚠️ 更地道的表达，§3.2b）
-- 2026-09-21 📝 题面整改（发题前，§6.5 第 6 项）· 原题面"能在一个气氛完全不一样的地方待着。"中文省了主语 ⇒ 整句题却可能被答成一个裸词组 ⇒ 补出主语"你"，考点（vibe 挂在地方上）一个字没动
-- 2026-09-21 ✅ 学习日 在池第 1 组 [6] · `you can stay somewhere with a completely different vibe.` —— vibe 挂回了地方上（somewhere with a … vibe），前面不是 in。连对 0 → 1
-- 2026-09-26 ✅ 付息日 a 在池第 1 组 [6] · `You get to somewhere with a totally different vibe.` —— vibe 挂在地方上（somewhere with a … vibe），前面不是 in ⇒ **连对 2，毕业**
-  ★ 同句 get to 后漏动词 ⇒ 不属本条，新建 #360
-- 2026-09-29 ❌ 复检第 2 组 · `you get to chill somewhere in a totally different vibe.`（vibe 前用了 in）—— **回潮**
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
-  去掉「⛔ vibe 前面不许用 in」（那是考点本身），只点名 vibe；换成周末小镇场景
-- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [5] · `The cafe has such a great vibe, I go there all the time to read.`
-
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -922,6 +815,8 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   move／play on 都合法，中文块单独映射不回 appeal to ⇒ 改整句、正向点名 appeal，to your emotions 留给她搭；换成广告场景
 - 2026-09-30 ❌ 付息日 a 段在池第 1 组 [6] · `That films constantly tries to appeal emotion just to milk tears from the audience.` —— appeal 后漏 to
+- 2026-10-01 ✅ 学习日 在池第 1 组 [6] · `Politicians often play the emotional card in their speeches to appeal to voters' emotions.` —— appeal to voters' emotions（to 到位 · emotions 复数）。连错 1 → 连对 1
+  ｜⚠️ play the emotional card 与 appeal to voters' emotions 同义重复 ⇒ 更好版只留 appeal 那半句（删多余成分，§3.2b 只进 diff-2，不建号）
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
@@ -1255,7 +1150,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **cardboard** ＝ 硬纸板（**材料**），不可数，⛔ 不能说 a cardboard；**纸箱** ＝ **a cardboard box**。
@@ -1278,10 +1173,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "快递寄来的那种棕色大纸箱"（装东西用的箱子，不是一张纸板）
 
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#322 题里）· 原话 `My cat can play with a cardboard for an entire afternoon.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [7] · `cardboard box` —— cardboard 后面跟上了 box。连错 1 → 连对 1
 
 ### 376 · livestream shopping（直播带货；"直播" ＝ live／livestream，⛔ living）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **直播** ＝ **live**（形容词，读 /laɪv/）／**livestream**；**living** ＝ 活着的／生活的，跟"直播"无关。
@@ -1306,10 +1202,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "直播带货的主播"（在网上边播边卖东西的那种人）
 
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [9]（#366 题里）· 原话 `This living shopping hosts are making absolute bank this year.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [8] · `watch livestream shopping before bed.` —— livestream，不是 living。连错 1 → 连对 1
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 「没多久（之后）」＝ **not long after** ＋ 名词／从句：Not long after graduation · not long after I moved here。
@@ -1329,13 +1226,20 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 找法：开口说"没多久"时，先落 Not long after。
 
 **题面**
-"我搬到这个城市没多久，就交到了第一个朋友。"（"没多久"用 **long** 说）
+"我搬到这个城市没多久，就交到了第一个朋友。"（"没多久"用 **long after** 说，放在句首）
 
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 2 组 [1]（#368 题里）· 原话 `No long after graduation, she landed a job at a major bank.`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [9] · `It wasn't long after I moved to this city that I found a part-time job.` —— 否定落在 not 上（wasn't long after），没写成 no。连错 1 → 连对 1
+  ★ 合法但不是条目预期（§3.3 硬顺序）：她走了强调句 It wasn't long after X that Y；09-30 掉的位置是句首 No long after，这次没被测到
+  ⇒ 记 ✅ ＋ 当场给种子题面补正向点名（见下一行 📝）
+- 2026-10-01 📝 题面补点名（§3.3 硬顺序③）：「"没多久"用 **long** 说」→「"没多久"用 **long after** 说，放在句首」
+  她答的：It wasn't long after I moved to this city that I found a part-time job.（强调句，否定挂在 was 上）
+  目标形式：句首 Not long after ＋ 从句／名词（09-30 掉的就是句首这个位置的 not／no）
+  点名只给 long after 与位置，not／no 的选择仍留在她手里
 
 ### 378 · trophy（奖杯）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **trophy** ＝ 奖杯（比赛发给冠军的杯子）。
@@ -1360,10 +1264,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "冠军在台上高高举起的奖杯"（比赛最后发的那个金属大杯子）
 
 - 2026-09-30 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（🎓#319 题里）· 她标「背一下」· 原话 `presented the trophy(背一下) to the campion`
+- 2026-10-01 ✅ 学习日 在池第 1 组 [10] · `trophies.` —— trophy 到位。连错 1 → 连对 1
 
 ### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
 类型 句型 ｜ 新建 2026-09-30
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **As X puts it,** ＝ "正如 X 所说"，逗号后面**直接说 X 的内容**：`As my mom puts it, life's too short to be grumpy.`
@@ -1387,10 +1292,14 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "正如我爸常说的，钱是赚不完的。"（"正如…常说的"用 **puts it** 说）
 
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 原话 `Just as an ancient Chinese idiom puts it, a warn and gentle countenance speaks to this exact concept.`
+- 2026-10-01 ✅ 学习日 在池第 2 组 [1] · `Just as my dad always puts in, you can never make all the money in the world.` —— As X puts it, 后面直接接爸爸说的那句话本身，爸爸没有再当主语。连错 1 → 连对 1
+  ｜puts in → puts it 打字拼写，§2.1 不算（题面点名即 puts it，09-30 原篇她也写对）
+  ｜⚠️ Just as → As（As X puts it 本身就是"正如"，删词只进 diff-2，不建号）
+  ★ 她先发一版（结尾 in the money）当场打断、改 in the world 重发 ⇒ 以重发版为准，只算一次
 
 ### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **countenance** ＝ 脸上的神情／面容（书面词，多用在成语、引语的翻译里）。
@@ -1414,6 +1323,239 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "和颜悦色"（成语，说一个人脸上的神情温和）
 
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
+- 2026-10-01 ✅ 学习日 在池第 2 组 [2] · `A gentle and kindly coutenance.` —— countenance 调出来了（coutenance 拼写，§2.1 不算）。连错 1 → 连对 1
+
+### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
+类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
+`You can reach me at this number.` ／ `Contact us at 400-123-4567.` ／ `Email me at my work address.`
+英式也常说 **on** ＋ 电话号码（`ring me on 07…`），两个都对；⛔ **through** this number 不这么说。
+同一格里的邻居（别串）：**by** phone／by email（说"用什么方式"，后面是方式不是号码）·
+**call this number**（号码直接当 call 的宾语，不加介词）。
+判据一句话：号码／邮箱跟在"联系某人"后面当补充 ⇒ at；号码本身当 call／dial 的宾语 ⇒ 不加介词。
+★ 与 🎓#339（reach sb）分工：那条考 reach 后面直接带人（⛔ get reach）；本条考号码前面的介词 ⇒ 两条规则，题面互斥
+　（#339 的题面不给号码；本条的题面不点名 reach）。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 3 组 [10]（🎓#339 题面"出了什么事，打这个号码就能找到我。"）· 原话
+`If anything comes up, you can reach me at this number.`
+＋ 她自注「这个 at 需要学一下，本来想写 through，感觉不太对就查了下」
+⇒ §2③ 她主动提出要学 ＋ §3.2b 她不会、查到才写对 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "this number" ⇒ 只命中 🎓#339（正文例句里有 at this number，考点是 reach 直接带宾语）⇒ 否：那条管动词前面套不套 get，本条管号码前的介词
+　② 中文 dedup "号码" ⇒ 零命中；dedup "电话" ⇒ 🎓#339（同上，否）· 🎓#304 turn to sb（只是历史行出现"电话"二字，考点无关）⇒ 否
+　③ dedup "through" ⇒ 9 条，最近的是 🎓#349（"网上"整块换 online，⛔ through the internet：考的是整块替换，不是号码前的介词）· 🎓#62（drive past，through 是路线介词）⇒ 都否；其余只是历史行里出现 through 字串
+　⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：第一冲动是 `reach me through this number`（她自述；最终查字典写对了 at）　　正确：`reach me at this number`
+找法：号码／邮箱前面要放介词时，先落 at（英式 on 也行）；⛔ 别把中文"通过"直译成 through。
+
+**题面**
+"这是我的名片，你可以通过上面这个号码联系我。"（"联系我"用 **contact** 说）
+★ 中文故意留"通过"——那正是她想写 through 的诱因；点名 contact 不点 reach，与 🎓#339 题面互斥
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 3 组 [10]（🎓#339 题里）· 她自注「这个 at 需要学一下，本来想写 through」· 原话 `you can reach me at this number.`
+
+### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
+类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
+同一格里的邻居（别串）：英式也说 **lead**（on a lead）· **tie the dog up**（把狗拴在柱子之类的固定物上）·
+**collar**（项圈，绳子扣在它上面）。
+判据一句话：牵在手里、扣在项圈上的那根绳 ⇒ leash；拴在固定的东西上 ⇒ tie up。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [2]（🎓#14 题面"我们家的狗，我都拴得离马路远远的。"）· 原话
+`I keep my dog leashed(这个单词背一下) well aways from the road.`
+她写对了 leashed，但自己标「这个单词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "leash" ⇒ 零命中
+　② 中文 dedup "拴" ⇒ 只命中 🎓#14（考 well away，题面里恰好有"拴"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个单词背一下」（词不在手边）　　目标：`leash`／`keep my dog leashed`
+找法：说到"狗绳／拴着狗"先落 leash。
+
+**题面**
+"公园里遛狗用的牵引绳"（一头扣在项圈上、一头握在主人手里）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [2]（🎓#14 题里）· 她标「这个单词背一下」· 原话 `I keep my dog leashed(这个单词背一下) well aways from the road.`
+
+### 383 · reason with sb（跟某人讲道理）
+类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
+`It's no use reasoning with him.` ／ `I tried to reason with her, but she wouldn't budge.`
+同一格里的邻居（别串）：argue with sb（跟人争／吵）· persuade sb（说服，🎓#359 persuasion）· talk sense into sb（把人劝明白）。
+判据一句话："跟人讲道理"（过程，未必讲得通）⇒ reason with；"讲通了／说服了"（结果）⇒ persuade。
+★ 题型判整句：中文"讲道理"单独映射不回唯一的英文块（talk sense into／explain things to 都能落），非点名 reason 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（reason with），连对 ≥1 之后降回 lemma（reason），with 留给她。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [4]（🎓#25 题面"跟他讲道理没用，他根本听不进去。"）· 原话
+`It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
+她写对了 reasoning with him，但自己标「这个词组需要背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "reason with" ⇒ 零命中
+　② 中文 dedup "讲道理" ⇒ 只命中 🎓#25（考 It's no use ＋ -ing，题面里恰好有"讲道理"）⇒ 否；
+　　 dedup "道理" ⇒ 另中 🎓#321（principal／principle）· 🎓#357（logic／logical），只是正文出现这两个字，考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组需要背一下」（块不在手边）　　目标：`reason with him`
+找法：说"跟某人讲道理"先落 reason with ＋ 人。
+
+**题面**
+"我跟我妈讲了半天道理，她还是不肯换新手机。"（"讲道理"用 **reason with** 说）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [4]（🎓#25 题里）· 她标「这个词组需要背一下」· 原话 `It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
+
+### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
+类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
+`He kept nodding off in class.` ／ `I nodded off halfway through the movie.`
+同一格里的邻居（别串）：fall asleep（真睡着，中性）· sleepy／drowsy（犯困的状态，形容词）。
+判据一句话：说"打瞌睡／坐着睡过去"这个动作 ⇒ nod off（doze off 也对）；说"困"这个状态 ⇒ sleepy。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [6]（🎓#36 题面"他昨天打游戏打了一整晚，今天上课一直犯困。"）· 原话
+`He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
+她写对了 nodding off，但自己标「这个词组背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "nod off"／"doze"／"asleep"／"sleepy" ⇒ 零命中
+　② 中文 dedup "瞌睡"／"睡着" ⇒ 零命中；"犯困" ⇒ 只命中 🎓#36（考 all night，题面里恰好有"犯困"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组背一下」（块不在手边）　　目标：`nod off`
+找法：说"打瞌睡"先落 nod off。
+
+**题面**
+"看电影看到一半打起了瞌睡"（坐着坐着，头一点一点地睡过去）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#36 题里）· 她标「这个词组背一下」· 原话 `He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
+
+### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
+类型 句型 ｜ 新建 2026-10-01
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
+`The last time I went there was last year.` ／ `Last time I saw him was at the wedding.`
+同一格里的邻居（别串）：🎓#152 the first／last TIME ＋ 完整从句（那条管 time 别吞；本条 time 在，管后面的 was）·
+`I last went there last year.`（last 当副词放动词前，也对，这时不用 was）。
+判据一句话：要说的是"上次…是＋时间"吗？是 ⇒ last time 那一整块后面补 was。
+★ 与 🎓#152 分工：#152 的题面是"第一次／最后一次…的时候，＋ 主句"（状语从句）；本条的题面是"上次…是＋时间"（主语 ＋ was）⇒ 两条规则，题面互斥。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2 · Describe a city you enjoyed visiting）[S3] · 原话
+`Last time I went there last year on a family trip, with my wife and son.`
+判重三步：
+　① 目标形式 dedup "last time" ⇒ 只命中 🎓#152（the first／last TIME ＋ 完整从句：管 time 别吞，本句 time 在）⇒ 否：差在规则，那条管从句里的 time，本条管整块当主语后的 was
+　② 中文 dedup "上次去" ⇒ 零命中；dedup "was last" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Last time I went there last year on a family trip`　　正确：`Last time I went there was last year, on a family trip`
+找法：说完 last time I did X，问一句"是什么时候？"——中间那个"是"就是 was。
+
+**题面**
+"我上次回老家是三年前。"（"上次回老家"用 **the last time** 起头）
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S3] · 原话 `Last time I went there last year on a family trip, with my wife and son.`
+
+### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
+类型 结构 ｜ 新建 2026-10-01
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
+同一格里的邻居（别串）：`a day or two` ／ `a week or two` —— 只有 **a** 开头时名词才夹在中间。
+判据一句话：第一个是 a ⇒ a day or two；是数字 ⇒ 数字 or 数字 ＋ 名词。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
+判重三步：
+　① 目标形式 dedup "or five"／"or two" ⇒ 零命中
+　② 中文 dedup "四五"／"三四" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`for about four days or five`　　正确：`for about four or five days`
+找法：说约数时先把两个数字说完，再说名词。
+
+**题面**
+"这本书我大概三四天就能看完。"
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
+
+### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
+类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
+也能说人慢悠悠地闲逛：`We meandered around the old town.`
+同一格里的邻居（别串）：wind／wind its way（🎓#311，弯弯曲曲，不强调慢）· wander（人闲逛，不说河）· flow（只说流，不带弯和慢）。
+判据一句话：又弯又慢 ⇒ meander；只说弯 ⇒ wind；人随便逛 ⇒ wander（meander 也行）。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S7] · 原话 `The river lazily meanders along(这个词组学一下), with a few scattered ducks drifting across the water, …`
+她写对了 meanders along，但自己标「这个词组学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "meander" ⇒ 零命中
+　② 中文 dedup "蜿蜒" ⇒ 只命中 🎓#311（V ＋ its way ＋ 方向，是结构，不是 meander 这个词）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（词不在手边）　　目标：`meander (along)`
+找法：描写小河慢悠悠拐来拐去，先落 meander。
+
+**题面**
+"一条小河弯弯曲曲、慢悠悠地流过村子"（河道拐来拐去、水流得很慢）
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S7] · 她标「这个词组学一下」· 原话 `The river lazily meanders along(这个词组学一下)`
+
+### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
+类型 词组 ｜ 新建 2026-10-01
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
+`the lingering glow of dusk` 这一类是书面／诗歌里的写法，嘴上说出来像在背稿。
+同一格里的邻居（别串）：as the sun was coming up（日出的时候）。
+判据一句话：讲到黄昏 ⇒ 用"太阳在下山"这个大白话，不用"暮色余晖"。
+★ 词组题判法：when the sun was setting／at sunset 等大白话都算 ✅；只有书面诗化的说法算 ❌。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S7] · 原话 `…, with a few scattered ducks drifting across the water, melting into the lingering glow of dusk.`
+⚠️ 不是错，是书面诗化 ⇒ 更好版换成 as the sun was going down（§3.2b 能学的表达 ⇒ 建号）。
+书面登记前提核查（§3.2b）：lab/sessions 全部她的产出里没出现过 sunset／the sun went down ⇒ 口语版对她算新表达 ⇒ ⛔ 不走 🎓#206，照常建号。
+判重三步：
+　① 目标形式 dedup "go down"／"sunset"／"dusk"／"glow" ⇒ 零命中
+　② 中文 dedup "落山"／"黄昏"／"夕阳" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`melting into the lingering glow of dusk`（书面诗化）　　更地道：`as the sun was going down`
+找法：想写"余晖／暮色"时，换成 as the sun was going down。
+
+**题面**
+"太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
+
+- 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
 
 ## 迁移说明（2026-08-18）
 
