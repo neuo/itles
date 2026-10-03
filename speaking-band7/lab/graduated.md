@@ -2537,7 +2537,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 74 · make do with（将就）／整块 I'll have to make do with …
 类型 词组 ｜ 旧号 B121＋B171a
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **make do with sth** ＝ 将就用（整块：`I'll just have to make do with this old computer`）。
@@ -2571,6 +2571,7 @@ make do 后面**直接**接 with，中间不插宾语。
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I'll just have to make do with this old computer
   （整块 ＋ 语气词 just have to 全中）
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `make do with`
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [7] · `My dorm room didn't have a desk, so I had to make do with my suitcase.` —— make do with，with 没漏
 
 - 备注 合并 2026-08-19：#99（make do with）并入本条 —— 同一个词组，#74 只是多带一个 have to
 - 备注 备用题面（原 #99）："没有筷子，我就拿勺子凑合了一下。"
@@ -3100,7 +3101,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 88 · get on with it（不废话，埋头干下去）
 类型 词组 ｜ 旧号 B141
-状态 连对2 连错0 上次2026-09-29 ｜ 回潮已断（08-11 曾毕业）｜ 回潮 2026-09-05（08-21 毕业 → 09-05 复检写成 `go on with it`）｜ 回潮 2026-09-27（09-10 第二次毕业 → 09-27 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-29**（连对2 ＝ 09-28 ✅ ＋ 09-29 ✅；09-27 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ 回潮已断（08-11 曾毕业）｜ 回潮 2026-09-05（08-21 毕业 → 09-05 复检写成 `go on with it`）｜ 回潮 2026-09-27（09-10 第二次毕业 → 09-27 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-29**（连对2 ＝ 09-28 ✅ ＋ 09-29 ✅；09-27 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **get on with it** ＝ 不废话、埋头干下去（催促）。
@@ -3166,6 +3167,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 - 2026-09-29 ✅ 在池第 1 组 · `get on with it.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"get 起头／一共四个词／⛔ go／⛔ get a move on"猜谜式框法；改整句、点名 get on，with it 留给她（她掉过的正是 go on with it／get on with）；换成催写作业场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [1] · `Stop complaining and get on with the work.` —— get on with ＋ 宾语合法；题面写了"把活儿"，宾语说出来正贴题面（下次换场景别在中文里给宾语，留给 it）
 
 ### 90 · 完成时的三个触发（for/since · ever/never/before · just/already/yet）
 类型 语法 ｜ 旧号 B147a
@@ -3327,7 +3329,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 95 · be after ＝ 图个（追求想要的东西）
 类型 词组 ｜ 旧号 B162
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **be after sth** ＝ 图个、追求想要的东西：`older people are just **after** peace and quiet`。
@@ -3362,6 +3364,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 - 2026-09-07 ✅ 复检 · 第 3 组（打包）· `be after`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 after，be 与宾语怎么挂留给她；换成退休搬乡下场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [8] · `She's working overtime every single day—she's only after that year-end bonus.` —— be after ＋ 想要的东西
 
 ### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
 类型 结构 ｜ 旧号 B163
@@ -3409,7 +3412,7 @@ no 一路盖到 and 后面那半。两条解法：
 
 ### 97 · 关系词 where（先行词是 job/situation/case/kind 这类抽象"场所"）
 类型 结构 ｜ 旧号 B164
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-08-19 · 零 ❌ 线** ｜ 题型 整句
 
 **问题是什么**
 **关系词 where**：先行词是 job／situation／case／kind 这类抽象"场所"时，关系词用 **where** ——
@@ -3437,6 +3440,7 @@ no 一路盖到 and 后面那半。两条解法：
   🎓 零 ❌ 线（全程没有过 ❌，连对 2 提前出池；依她 08-19"没错的都赶紧毕业"）
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· that kind of job **where** …（抽象"场所"先行词配 where）
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [9] · `I want to find a job where I can work remotely.` —— a job where …
 
 ### 98 · 并列两边必须同形（语法功能相同 ＋ 可数性/单复数要齐）
 类型 结构 ｜ 旧号 B168＋B240
@@ -3734,7 +3738,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 105 · "兼顾未来和现在"三说法（keep one eye on the future…）
 类型 词组 ｜ 旧号 B186
-状态 连对2 连错0 上次2026-09-07 ｜ 旧账 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ 旧账 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 "兼顾未来和现在"的整句块：**keep one eye on the future and one on the present**。
@@ -3766,6 +3770,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-12 📝 题面整改：「得同时看着未来和当下。」→「同时看着未来和当下」—— 原句无主语却带句号（§6.5 第 6 项 ✗ 例），缩成块、回标词组 · 全档题面 review
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"用一个带 eye 的说法"，正向点名 one eye，整块怎么接留给她；换成存钱场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [10] · `When saving money, you've got to have one eye on the future and one eye on the present.` —— 整句块一口气调出来（have／keep 都是这个块的合法动词）
 
 ### 106 · kind of / sort of / type of ＋ 单数名词，不带冠词
 类型 语法 ｜ 旧号 B187
@@ -8434,7 +8439,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 238 · move on ≠ move forward
 类型 词汇 ｜ **合并条·出题多句覆盖**（§3.2c，2026-09-07 定：只出一句测不到这一对的分工）｜ 旧号 B184
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-19** ｜ 题型 整句 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-15**（09-10 第二次毕业 → 09-15 复检答"忘了"，两个成员都没出来，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-09-19** ｜ 题型 整句 ｜ **合并条·出题多句覆盖** ｜ **回潮 2026-09-15**（09-10 第二次毕业 → 09-15 复检答"忘了"，两个成员都没出来，撤销毕业、连对清零）
 **问题是什么**
 **move on ≠ move forward** —— 一道题面两个成员，本条考的就是这两个块的分工：
 · **move on** ＝ 翻篇、别老想着了（`It's in the past, just **move on**.`）
@@ -8460,8 +8465,8 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 　② "项目遇到了点麻烦，但我们还是得接着往前推进。"（"往前推进"用 **move** 说）
 
 **成员出题账**
-① move on ｜ 09-07 ❌ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅ · 09-19 ✅
-② move forward ｜ 09-07 ✅ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅ · 09-19 ✅
+① move on ｜ 09-07 ❌ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅ · 09-19 ✅ · 10-02 ✅
+② move forward ｜ 09-07 ✅ · 09-10 ✅ · 09-15 ❌ · 09-18 ✅ · 09-19 ✅ · 10-02 ✅
 ★ 08-10／08-13／08-15 三次在旧题面下（两个块都套得上）⇒ 无法按成员记录；09-09 ⚡ 自评免测也未按成员记录。
 
 - 2026-08-10 ✅
@@ -8501,6 +8506,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ past／⛔ ahead"，两个成员各一句、只点名 move（on／forward 的分工留给她）；换成分手、项目推进两个新场景；move ahead 同样算对
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [5] · ① `You lost the game, but stop dwelling on it and just move on.` ② `With the funding secured, construction of the new subway line can finally move forward.` —— ① move on ② move forward，两个成员都分对
 
 ### 239 · miss out on sth
 类型 词组 ｜ 旧号 B185
@@ -14373,7 +14379,7 @@ worth -ing（worth praising 可以）。
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-09-19** ｜ 题型 词组
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ 题型 词组
 
 **问题是什么**
 "营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
@@ -14403,6 +14409,9 @@ worth -ing（worth praising 可以）。
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉词数与"⛔ time"，改成中文释义（几点开门几点关门）；换成超市场景
+- 2026-10-02 ❌ 复检 · 学习日 复检第 4 组 [6] · `The museum's operating time.` —— "开放时间"落在 time 上（与掉过的 open time 同一处）⇒ **回潮**
+  最小改 `The museum's operating hours.`　更好版 `The museum's opening hours.`
+  ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
@@ -14890,7 +14899,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 **logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
@@ -14925,6 +14934,7 @@ magic→magical · music→musical · practice→practical · politics→politic
 - 2026-09-29 ✅ 在池第 1 组 · `A strong logical thinker.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"logic 的家族 ＋ 排除项"，改零提示整句，logic 直接修饰名词这条她掉过两次的路照旧开着；换成吵架场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [2] · `We need to hire a developer with a solid logical mindset.` —— logical 当形容词修饰名词
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
@@ -15047,7 +15057,7 @@ persuade 偏"让人做"）。
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 "准点下班／到点就走" ＝ **get off work on time**（也说 leave work on time）。
@@ -15076,10 +15086,11 @@ persuade 偏"让人做"）。
 - 2026-09-29 ✅ 在池第 1 组 · `get off work on time every day.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"get 起头 ＋ ⛔ early"，只点名 get off，on time 留给她；换成换工作场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [3] · `I finally managed to get off work on time today, only to end up stuck in traffic for an hour.` —— get off work on time
 
 ### 362 · turn down ＋ 机会（没人会拒绝…；⛔ no one can refuse）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 "拒绝一份工作／一个邀请／一个机会"口语用 **turn down**：`turn down a job offer` ／ `turn it down`。
@@ -15107,3 +15118,4 @@ persuade 偏"让人做"）。
 - 2026-09-29 ✅ 在池第 1 组 · `Nobody would turn down a job this good.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ refuse／say no"，只点名 turn；换成拒绝高薪场景
+- 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [4] · `The university offered him a position as a professor, but he turned it down.` —— turned it down
