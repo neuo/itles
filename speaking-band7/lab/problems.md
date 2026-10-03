@@ -650,7 +650,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 152 · the first / last TIME ＋ 完整从句（time 不能省）
 类型 结构 ｜ 旧号 B241
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-02 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）
 
 **问题是什么**
 **the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
@@ -686,10 +686,11 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [7] · `The last I saw my grandmother, …` —— time 被吞 ⇒ **回潮**
   最小改 `The last time I saw my grandmother, she was still able to …`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [1] · `The first time I cooked by myself, I almost burned the kitchen down.` —— The first time ＋ 完整从句，time 没吞。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [1] · `The first time I gave a speech on stage, I was so nervous my legs were shaking.` —— The first time ＋ 完整从句，time 没吞。连对 1 → 2 ⇒ **毕业**（09-30 回潮后第三次毕业）
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
@@ -728,6 +729,7 @@ in order to → to · utilize → use · numerous → a lot of · purchase → b
 - 2026-09-30 ❌ 复检 · 付息日 a2 第 3 组 [1] · `I can sleep in for as long as I feel like.` —— feel like 后漏 it ⇒ **回潮**
   正确版 `I can sleep in for as long as I feel like it.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [2] · `This gym is open 24 hours, so you can go whenever you feel like it.` —— whenever you feel like it 整块到位，it 没漏（09-30 掉的就是它）。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [2] · `The best part about freelancing is that you can take a break whenever you feel like it.` —— whenever you feel like it，it 没漏。连对 1 → 2 ⇒ **毕业**
 - 备注 整句范例（她指定要背的那句）：
   **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
   —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
@@ -786,7 +788,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -817,6 +819,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-30 ❌ 付息日 a 段在池第 1 组 [6] · `That films constantly tries to appeal emotion just to milk tears from the audience.` —— appeal 后漏 to
 - 2026-10-01 ✅ 学习日 在池第 1 组 [6] · `Politicians often play the emotional card in their speeches to appeal to voters' emotions.` —— appeal to voters' emotions（to 到位 · emotions 复数）。连错 1 → 连对 1
   ｜⚠️ play the emotional card 与 appeal to voters' emotions 同义重复 ⇒ 更好版只留 appeal 那半句（删多余成分，§3.2b 只进 diff-2，不建号）
+- 2026-10-02 ✅ 学习日 在池第 1 组 [3] · `The lawyer kept appealing to the jury's emotions in court to win them over.` —— appeal to ＋ emotions 复数。连对 1 → 2 ⇒ **毕业**
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
@@ -1150,7 +1153,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **cardboard** ＝ 硬纸板（**材料**），不可数，⛔ 不能说 a cardboard；**纸箱** ＝ **a cardboard box**。
@@ -1174,10 +1177,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#322 题里）· 原话 `My cat can play with a cardboard for an entire afternoon.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [7] · `cardboard box` —— cardboard 后面跟上了 box。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [4] · `Cardboard box.` —— cardboard 后面跟上了 box。连对 1 → 2 ⇒ **毕业**
 
 ### 376 · livestream shopping（直播带货；"直播" ＝ live／livestream，⛔ living）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **直播** ＝ **live**（形容词，读 /laɪv/）／**livestream**；**living** ＝ 活着的／生活的，跟"直播"无关。
@@ -1203,10 +1207,12 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [9]（#366 题里）· 原话 `This living shopping hosts are making absolute bank this year.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [8] · `watch livestream shopping before bed.` —— livestream，不是 living。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [5] · `Double eleven live shopping streams.` —— "直播"＝ live，没写成 living。连对 1 → 2 ⇒ **毕业**
+  ｜⚠️ Double eleven → Singles' Day ⇒ 另建 #389（§3.2b）
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 「没多久（之后）」＝ **not long after** ＋ 名词／从句：Not long after graduation · not long after I moved here。
@@ -1236,10 +1242,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   她答的：It wasn't long after I moved to this city that I found a part-time job.（强调句，否定挂在 was 上）
   目标形式：句首 Not long after ＋ 从句／名词（09-30 掉的就是句首这个位置的 not／no）
   点名只给 long after 与位置，not／no 的选择仍留在她手里
+- 2026-10-02 ✅ 学习日 在池第 1 组 [6] · `Not long after I started working out, I lost five pounds.` —— 句首 Not long after，否定是 not 不是 no（点名"放在句首"后测到了 09-30 掉的那个位置）。连对 1 → 2 ⇒ **毕业**
 
 ### 378 · trophy（奖杯）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **trophy** ＝ 奖杯（比赛发给冠军的杯子）。
@@ -1265,10 +1272,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 - 2026-09-30 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（🎓#319 题里）· 她标「背一下」· 原话 `presented the trophy(背一下) to the campion`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [10] · `trophies.` —— trophy 到位。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [7] · `A small trophy.` —— trophy。连对 1 → 2 ⇒ **毕业**
 
 ### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
 类型 句型 ｜ 新建 2026-09-30
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **As X puts it,** ＝ "正如 X 所说"，逗号后面**直接说 X 的内容**：`As my mom puts it, life's too short to be grumpy.`
@@ -1296,10 +1304,12 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   ｜puts in → puts it 打字拼写，§2.1 不算（题面点名即 puts it，09-30 原篇她也写对）
   ｜⚠️ Just as → As（As X puts it 本身就是"正如"，删词只进 diff-2，不建号）
   ★ 她先发一版（结尾 in the money）当场打断、改 in the world 重发 ⇒ 以重发版为准，只算一次
+- 2026-10-02 ✅ 学习日 在池第 1 组 [8] · `Just as our teacher always puts it, practice makes perfect.` —— As X puts it, 后面直接接那句话本身，老师没有再当主语。连对 1 → 2 ⇒ **毕业**
+  ｜⚠️ Just as → As（删词只进 diff-2，不建号；10-01 同一处）
 
 ### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **countenance** ＝ 脸上的神情／面容（书面词，多用在成语、引语的翻译里）。
@@ -1324,10 +1334,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
 - 2026-10-01 ✅ 学习日 在池第 2 组 [2] · `A gentle and kindly coutenance.` —— countenance 调出来了（coutenance 拼写，§2.1 不算）。连错 1 → 连对 1
+- 2026-10-02 ✅ 学习日 在池第 1 组 [9] · `A compassionate countenance.` —— countenance 调出来了。连对 1 → 2 ⇒ **毕业**
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
@@ -1359,6 +1370,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 ★ 中文故意留"通过"——那正是她想写 through 的诱因；点名 contact 不点 reach，与 🎓#339 题面互斥
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 3 组 [10]（🎓#339 题里）· 她自注「这个 at 需要学一下，本来想写 through」· 原话 `you can reach me at this number.`
+- 2026-10-02 ✅ 学习日 在池第 1 组 [10] · `Here's my business card—feel free to contact me at the number listed here.` —— contact me at the number，号码前面是 at，没被"通过"带成 through。连错 1 → 连对 1
 
 ### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
@@ -1556,6 +1568,35 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
+
+### 389 · Singles' Day（双十一；⛔ Double Eleven 直译）
+类型 词组 ｜ 新建 2026-10-02
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**Singles' Day** ＝ 双十一（每年 11 月 11 日的网购节，四个 1 像四个单身的人，原本就是"光棍节"）。
+英文媒体和考官熟悉的就是这个名字；Double Eleven／Double 11 是按中文字面拼的，国内英文媒体偶尔用，考官多半没听过、得停下来解释。
+同一格里的邻居（别串）：Black Friday · Cyber Monday（西方对应的购物节，同样是专名、首字母大写）·
+618 没有通行英文名 ⇒ the 618 shopping festival（数字 ＋ shopping festival）
+判据一句话：说"双十一" ⇒ Singles' Day；只有没有通行英文名的节（618）才用数字 ＋ shopping festival。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 1 组 [5]（#376 题面"双十一的直播带货"）· 原话 `Double eleven live shopping streams.`
+（#376 的考点 live 对了，判 ✅；Double eleven 是 diff-2 的 ⚠️，更地道的 Singles' Day 是能学的表达 ⇒ §3.2b 建号）
+判重三步：
+　① 目标形式 dedup "Singles" ⇒ 零命中；dedup "Double" ⇒ 零命中
+　② 中文 dedup "双十一" ⇒ 零命中；dedup "购物节" ⇒ 零命中
+　③ 最接近的是 🎓#376 livestream shopping（同一题里出现）⇒ 否：那条考"直播"＝ live，本条考"双十一"的英文名，两个词各管各的
+　⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Double eleven`　　更地道：`Singles' Day`
+找法：中文专名（节日／购物节）先问一句 —— 英文里有没有现成的名字？有就用现成的，别按字面拼。
+
+**题面**
+"今年的双十一"（就是"光棍节"，每年 11 月 11 号那个网购节）
+
+- 2026-10-02 📝 新建 · 学习日 在池第 1 组 [5]（#376 题里）· 触发原话 `Double eleven live shopping streams.`（⚠️ 直译专名 ⇒ 更地道的表达，§3.2b 建号）
 
 ## 迁移说明（2026-08-18）
 
