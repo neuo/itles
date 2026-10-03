@@ -1208,7 +1208,6 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [9]（#366 题里）· 原话 `This living shopping hosts are making absolute bank this year.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [8] · `watch livestream shopping before bed.` —— livestream，不是 living。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [5] · `Double eleven live shopping streams.` —— "直播"＝ live，没写成 living。连对 1 → 2 ⇒ **毕业**
-  ｜⚠️ Double eleven → Singles' Day ⇒ 另建 #389（§3.2b）
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
@@ -1568,35 +1567,6 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
-
-### 389 · Singles' Day（双十一；⛔ Double Eleven 直译）
-类型 词组 ｜ 新建 2026-10-02
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**Singles' Day** ＝ 双十一（每年 11 月 11 日的网购节，四个 1 像四个单身的人，原本就是"光棍节"）。
-英文媒体和考官熟悉的就是这个名字；Double Eleven／Double 11 是按中文字面拼的，国内英文媒体偶尔用，考官多半没听过、得停下来解释。
-同一格里的邻居（别串）：Black Friday · Cyber Monday（西方对应的购物节，同样是专名、首字母大写）·
-618 没有通行英文名 ⇒ the 618 shopping festival（数字 ＋ shopping festival）
-判据一句话：说"双十一" ⇒ Singles' Day；只有没有通行英文名的节（618）才用数字 ＋ shopping festival。
-
-**怎么发现的**
-2026-10-02 学习日 在池第 1 组 [5]（#376 题面"双十一的直播带货"）· 原话 `Double eleven live shopping streams.`
-（#376 的考点 live 对了，判 ✅；Double eleven 是 diff-2 的 ⚠️，更地道的 Singles' Day 是能学的表达 ⇒ §3.2b 建号）
-判重三步：
-　① 目标形式 dedup "Singles" ⇒ 零命中；dedup "Double" ⇒ 零命中
-　② 中文 dedup "双十一" ⇒ 零命中；dedup "购物节" ⇒ 零命中
-　③ 最接近的是 🎓#376 livestream shopping（同一题里出现）⇒ 否：那条考"直播"＝ live，本条考"双十一"的英文名，两个词各管各的
-　⇒ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`Double eleven`　　更地道：`Singles' Day`
-找法：中文专名（节日／购物节）先问一句 —— 英文里有没有现成的名字？有就用现成的，别按字面拼。
-
-**题面**
-"今年的双十一"（就是"光棍节"，每年 11 月 11 号那个网购节）
-
-- 2026-10-02 📝 新建 · 学习日 在池第 1 组 [5]（#376 题里）· 触发原话 `Double eleven live shopping streams.`（⚠️ 直译专名 ⇒ 更地道的表达，§3.2b 建号）
 
 ## 迁移说明（2026-08-18）
 
