@@ -943,7 +943,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **land a job (at 公司)** ＝ 找到／谋到一份（好）工作，口语里"进了腾讯"就说 land a job at Tencent。
@@ -969,10 +969,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   get／find 都合法 ⇒ 改整句、点名 land；换成银行场景
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [1] · `No long after graduation, she landed a job at a major bank.`（No long after 另建 #377）
+- 2026-10-02 ✅ 学习日 在池第 3 组 [1] · `He switched to coding, and six months later he landed a job at a gaming company.` —— landed a job at …。连对 1 → 2 ⇒ **毕业**
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 中文把头衔放在名字**前面**直接连（社交巨头腾讯、短视频巨头字节跳动），中间没有任何连接词；
@@ -1003,10 +1004,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉两条负向排除，改成正向点名同位语结构「, the …」；换成表哥在字节跳动
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [2] · `My cousin works at ByteDance, the short-video giant.`
+- 2026-10-02 ✅ 学习日 在池第 3 组 [2] · `My friend just jumped ship to BYD, the electric vehicle giant.` —— 名字 ＋ 逗号 ＋ the 头衔，没去找介词。连对 1 → 2 ⇒ **毕业**
 
 ### 370 · create ＋ 结果（造就一批富豪／创造就业：create billionaires；⛔ build billionaires）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 "造就／催生出一批（人或结果）"＝ **create**：create billionaires ／ create jobs ／ create wealth。
@@ -1033,10 +1035,12 @@ build 只能搭"建起来的东西"（build a company／a house／a brand），�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   produce／give rise to 都合法 ⇒ 改整句、点名 create；换成电商热潮场景
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [3] · `This e-commence boom has created a whole wave of billionaires.`
+- 2026-10-02 ✅ 学习日 在池第 3 组 [3] · `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)` —— create ＋ 结果，没用 build。连对 1 → 2 ⇒ **毕业**
+  ｜她自注「网红这个词背一下」⇒ influencer 另建 #392
 
 ### 371 · bring your other foot over（把另一只脚挪过来；⛔ pull your foot over）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 把身体某部位"挪／带"到某个位置 ＝ **bring … over**：bring your other foot over ／ bring your arm up。
@@ -1063,10 +1067,12 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   move 合法 ⇒ 改整句、点名 bring，over 留给她；换成瑜伽课场景（⛔ 与 🎓#333 不同句）
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [4] · `…, then slowly bring the other leg over.`
+- 2026-10-02 ✅ 学习日 在池第 3 组 [4] · `For this dance step, you take a step to the left first, then bring your right foot over.` —— bring your right foot over，没用 pull。连对 1 → 2 ⇒ **毕业**
+  ｜⚠️ For this dance step → For this dance（step 一句里出现两次，删词只进 diff-2，不建号）
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -1093,10 +1099,14 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   obtain／grab 都合法 ⇒ 改整句、点名 get；换成限量球鞋场景（⛔ 与 🎓#323 不同句）
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [5] · `… and I still have yet to get my hands on them.`
+- 2026-10-02 ❌ 学习日 在池第 3 组 [5] · 「忘了，而且绝版也不会」—— 弄到手 ＝ get it 没调出来（§3.3 "忘了"也是 ❌）。连对 1 → 清零，连错 1
+  最小改 `I'd been looking for that out-of-print book for years, and last month I finally got it at a second-hand bookstore.`
+  ❌ 宾语是"想要的东西" ⇒ get it（get hold of it 也对）；⛔ reach it（reach 接目标／地点）
+  ｜「绝版也不会」⇒ out of print 另建 #393
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 先用一句话点题，再用 **It was when ＋ 从句** 把具体那件事接上：
@@ -1124,10 +1134,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 - 2026-09-29 新建 · 追补 09-28 新题 bank:915 · 原话 `I'd like to talk about a time I went on an obstacle course with my 5-year-old son.`（教练 09-28 判"做法不建号"漏建，她 09-29 追问后补建）
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [6] · `It was When I helped a foreigner find his way at the airport.`
+- 2026-10-02 ✅ 学习日 在池第 3 组 [6] · `I want to share my most embarrassing moment ever. It was when I mixed up the bride's name at a wedding.` —— 先点题，第二句 It was when ＋ 从句接上是哪一次。连对 1 → 2 ⇒ **毕业**
 
 ### 374 · can't be bothered (to do)（懒得…：比 lazy 更口语）
 类型 词组 ｜ 新建 2026-09-29 ｜ 从 🎓#15 拆出
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **can't be bothered (to do sth)** ＝ 懒得（做某事）—— 说的是"这件事不值得我费劲"，比 lazy 更口语。
@@ -1155,6 +1166,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除；她不会的句型（§2③）⇒ 首测把 It was when 整个写进题面；换成机场指路场景
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [7] · `I couldn't be bothered cooking this weekend, so I just got food delivered.`
+- 2026-10-02 ✅ 学习日 在池第 3 组 [7] · `It was pouring outside that day, and I couldn't be bothered to leave the house, so I just binged a show at home all day.` —— couldn't be bothered to（过去时跟着变 couldn't）。连对 1 → 2 ⇒ **毕业**
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
@@ -1555,7 +1567,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
 
 **问题是什么**
 口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
@@ -1581,6 +1593,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
+- 2026-10-02 ✅ 学习日 在池第 3 组 [8] · `As the sun was setting` —— 大白话交代时间，没用书面诗化的暮色余晖（as the sun was setting 是条目列明的合法说法）。首测 ⇒ 连对 1
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
@@ -1645,6 +1658,61 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
 - 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
+
+### 392 · influencer（网红）
+类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
+网红店／网红景点 ⇒ 换说法：an Instagrammable spot ／ a trendy place that's all over social media（⛔ 不说 influencer place）。
+同一格里的邻居（别串）：celebrity（传统意义上的明星）· content creator（做内容的博主，中性）· go viral（一条内容爆火）。
+判据一句话：说"网红（这个人）" ⇒ influencer；说"网红店／网红景点" ⇒ 换说法，不硬套 influencer。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 3 组 [3]（#370 题面"短视频平台造就了一大批网红。"）· 原话
+`Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
+她写对了 influencers，但自己标「网红这个词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "influencer" ⇒ 零命中
+　② 中文 dedup "网红" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「网红这个词背一下」（词不在手边）　　目标：`influencers`
+找法：说到"网红"这个人，先落 influencer。
+
+**题面**
+"一个有几百万粉丝的美妆网红"（在社交平台上推荐化妆品、带货的那种人）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
+
+### 393 · out of print（绝版；an out-of-print book）
+类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 词组
+
+**问题是什么**
+书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
+同一格里的邻居（别串）：discontinued（商品停产）· sold out（卖光了，以后还会补货）· limited edition（限量版）。
+判据一句话：书／唱片不再印 ⇒ out of print；商品不再生产 ⇒ discontinued。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 3 组 [5]（#372 题面"那本绝版书我找了好几年，上个月终于在一家旧书店弄到手了。"）· 原话
+`忘了，而且绝版也不会`
+⇒ §3.2b 她说不会的地方照常建号 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "out of print"／"out-of-print"／"discontinued" ⇒ 零命中
+　② 中文 dedup "绝版"／"停产" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：「绝版也不会」（词不在手边）　　目标：`that out-of-print book`
+找法：说"绝版的书／唱片"，先落 out of print。
+
+**题面**
+"一张早就绝版的老唱片"（唱片公司不再压制、市面上买不到新的那种）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
 
 ## 迁移说明（2026-08-18）
 
