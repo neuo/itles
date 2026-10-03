@@ -823,7 +823,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **without a doubt** ＝ 毫无疑问，P3 开口亮立场用；放句首、句尾都行（`The tech sector, without a doubt.`）。
@@ -849,10 +849,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   no doubt／definitely 都合法 ⇒ 改整句；她点名要学（§2③）⇒ 首测把整个块写进题面；换成求职行业场景
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [7] · `…, it's healthcare, without a doubt.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [7] · `The best hot pot I've ever had was, without a doubt, the one in Chongqing.` —— without a doubt，a 没漏。连对 1 → 2 ⇒ **毕业**
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **powerhouse** ＝ 在某个领域实力强、能打的那家公司／那个国家／那个人：a delivery powerhouse ／ an economic powerhouse。
@@ -878,10 +879,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉首字母与排除项，括号改中文释义（"发电站"的比喻）；换成新能源汽车场景
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [8] · `An EV powerhouse.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [8] · `A traditional powerhouse in European football / A football powerhouse` —— powerhouse，两种说法都对。连对 1 → 2 ⇒ **毕业**
+  ｜她问「新贵怎么说」⇒ up-and-coming 另建 #391
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -906,10 +909,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts are making absolute bank this year.`（living 另建 #376）
+- 2026-10-02 ✅ 学习日 在池第 2 组 [9] · `That boba shop right outside the school gate makes absolute bank every summer.` —— makes absolute bank，bank 前不加冠词。连对 1 → 2 ⇒ **毕业**
 
 ### 367 · social media giant（社交巨头；⛔ social giant）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-09-30 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 "XX 巨头" ＝ **行业名 ＋ giant**：a social media giant ／ a tech giant ／ a retail giant。
@@ -935,6 +939,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉「两个词 ＋ ⛔ 只用 social」，括号改中文释义；换成微博
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [10] · `A social media giant like WeiBo`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [10] · `An overseas social media giant` —— social media giant，media 没漏。连对 1 → 2 ⇒ **毕业**
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
@@ -1373,7 +1378,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
@@ -1398,10 +1403,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "公园里遛狗用的牵引绳"（一头扣在项圈上、一头握在主人手里）
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [2]（🎓#14 题里）· 她标「这个单词背一下」· 原话 `I keep my dog leashed(这个单词背一下) well aways from the road.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [1] · `a leash.` —— leash 调出来了。连错 1 → 连对 1
 
 ### 383 · reason with sb（跟某人讲道理）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
@@ -1429,10 +1435,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "我跟我妈讲了半天道理，她还是不肯换新手机。"（"讲道理"用 **reason with** 说）
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [4]（🎓#25 题里）· 她标「这个词组需要背一下」· 原话 `It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [2] · `I spent forever trying to reason with my mom, but she still wouldn't upgrade her phone.` —— reason with ＋ 人。连错 1 → 连对 1
 
 ### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
@@ -1457,10 +1464,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "看电影看到一半打起了瞌睡"（坐着坐着，头一点一点地睡过去）
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#36 题里）· 她标「这个词组背一下」· 原话 `He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [3] · `I kept nodding off halfway through the movie.` —— nod off。连错 1 → 连对 1
 
 ### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
 类型 句型 ｜ 新建 2026-10-01
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
@@ -1486,10 +1494,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "我上次回老家是三年前。"（"上次回老家"用 **the last time** 起头）
 
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S3] · 原话 `Last time I went there last year on a family trip, with my wife and son.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [4] · `The last time I visited my hometown was three years ago.` —— The last time 整块当主语，后面补了 was。连错 1 → 连对 1
 
 ### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
 类型 结构 ｜ 新建 2026-10-01
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
@@ -1511,10 +1520,12 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "这本书我大概三四天就能看完。"
 
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [5] · `I can get through(读完学习下) this book in about three or four days.` —— three or four days，两个数字说完再接名词。连错 1 → 连对 1
+  ｜她自注「读完学习下」⇒ get through 另建 #390
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-01 未毕业 ｜ 题型 词组
+状态 连对0 连错2 上次2026-10-02 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
@@ -1538,6 +1549,9 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "一条小河弯弯曲曲、慢悠悠地流过村子"（河道拐来拐去、水流得很慢）
 
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S7] · 她标「这个词组学一下」· 原话 `The river lazily meanders along(这个词组学一下)`
+- 2026-10-02 ❌ 学习日 在池第 2 组 [6] · 「忘了」—— meander 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
+  最小改 `a little river meandering through the village`
+  ❌ 河又弯又慢地往前流 ＝ meander（一个词自带"拐来拐去＋慢悠悠"）；别串 wind（只弯）· wander（人闲逛）· flow（只说流）
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
@@ -1567,6 +1581,70 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 "太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
+
+### 390 · get through ＋ 书／一堆活儿（读完、啃完）
+类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
+`I got through the whole book in a weekend.` ／ `I still have 200 emails to get through.`
+同一格里的邻居（别串）：finish（中性的"读完"）· read through（从头到尾过一遍，偏仔细看）·
+get through to sb（打通电话／让对方听进去，另一个意思，🎓#339 正文里列过）。
+判据一句话：要说"把一本书／一堆活儿啃完" ⇒ get through ＋ 那个东西；只说中性的"读完了" ⇒ finish 也行。
+★ 题型判整句：中文"看完／读完"映射得回 finish，非点名 get through 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（get through），连对 ≥1 之后降回 lemma（through）。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 2 组 [5]（#386 题面"这本书我大概三四天就能看完。"）· 原话
+`I can get through(读完学习下) this book in about three or four days.`
+她写对了 get through，但自己标「读完学习下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "get through" ⇒ 只命中 🎓#339 reach sb（正文邻居列了 get through to sb ＝ 打通电话）⇒ 否：那是另一个意思，考点是 reach 不套 get
+　② 中文 dedup "读完" ⇒ 🎓#311 #206 #288 #356，都只是历史行里出现这两个字，考点无关 ⇒ 否；
+　　 dedup "finish" ⇒ 🎓#28（get more done）· 🎓#16（get sb to do 四件套），历史行字串，考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「读完学习下」（块不在手边）　　目标：`get through this book`
+找法：说"啃完／看完一本书""把一堆活儿干完"时，先想到 get through。
+
+**题面**
+"假期我一口气啃完了三本小说。"（"啃完"用 **get through** 说）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
+
+### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
+类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
+`an up-and-coming team` ／ `an up-and-coming actor` ／ `an up-and-coming neighborhood`
+跟 🎓#365 powerhouse 正好一对：a traditional powerhouse vs. an up-and-coming side。
+同一格里的邻居（别串）：a rising star（后起之秀，说人）· new money（刚发财的"新贵"，说人）·
+upstart（带贬义：不知天高地厚的新贵）。
+判据一句话：说一支队／一个人／一个地方"正在冒头" ⇒ up-and-coming；说"刚发财的新贵（人）" ⇒ new money。
+★ 题型判整句：中文"新贵"映射得回 rising star／emerging 等一串，非点名 up-and-coming 不可 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 2 组 [8]（#365 题面"足球界的老牌豪强"）· 她答完 `A traditional powerhouse in European football / A football powerhouse`
+后问「一个问题，新贵怎么说」⇒ §2③ 她主动提出 ＋ §3.2b 她不会 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "up-and-coming"／"rising"／"upstart"／"new money" ⇒ 零命中
+　② 中文 dedup "新贵"／"冒头" ⇒ 零命中
+　③ 最接近的是 🎓#365 powerhouse（老牌强队）⇒ 否：那条考"强"，本条考"新冒头"，两个词
+　⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：问「新贵怎么说」（词不在手边）　　目标：`an up-and-coming team`
+找法：想说"新贵／后起之秀／正在冒头的" ⇒ up-and-coming 放在名词前。
+
+**题面**
+"他是乒乓球界的新贵，今年连赢了好几场大赛。"（"新贵"用 **up-and-coming** 说）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
+- 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
 
 ## 迁移说明（2026-08-18）
 
