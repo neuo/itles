@@ -137,7 +137,7 @@
 
 ### 5 · -ing 描述东西 / -ed 描述人（一句里两侧都要）
 类型 语法 ｜ 旧号 B10＋B157
-状态 连对3 连错0 上次2026-09-10 ｜ **🎓 已毕业 2026-08-17**（合并后按并入日志重算：连对 3 落在 08-17）｜ 题型 整句
+状态 连对3 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-08-17**（合并后按并入日志重算：连对 3 落在 08-17）｜ 题型 整句
 
 **问题是什么**
 **-ing 描述东西 ／ -ed 描述人**，一句里两侧都要：
@@ -171,6 +171,7 @@
   ★ -ed 描述人，一次到位，介词 on 也对。
   ★ 对照本条 08-11 的日志行：`I was hook` → hooked（当时是 ❌）。
 - 2026-09-10 ⚡ 自评免测 · 复检第 3 组（她原话："直接过"）
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [7] · `It was a super exciting game, and it had me completely thrilled.` —— exciting（东西）＋ thrilled（人）两侧都分对；第二处没用点名的 excite，合法且命中考点 ⇒ ✅
 - 备注 合并 2026-08-19：#94（-ed 说人的感受／-ing 说东西的性质）并入本条 —— **完全同一条规则**
   ⚠️ 合并前本条按"零 ❌ 线"判 08-19 毕业；并入 #94 的日志后发现历史有两个 ❌，
      零 ❌ 线不适用 —— 但连对已达 4，**仍然毕业，只是毕业日回正到 08-17**
@@ -4185,7 +4186,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 120 · 治"句子太单薄"：加一个具体的东西（时间/距离/数字/结果），不是换大词
 类型 结构 ｜ 旧号 B205
-状态 连对3 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
 
 **问题是什么**
 治"句子太单薄"的动作 ＝ **加一个具体的东西**（时间／距离／数字／结果），⛔ 不是换大词：
@@ -4213,6 +4214,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· 带上了具体的（只要 20 分钟）
   —— 本条的考位就是"给一个能抓的量"
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [5] · `I rarely drive to work; it's only a 15-minute bike ride, so I usually just cycle.` —— 补了能抓的量 a 15-minute bike ride
 
 ### 121 · queue 是可数名词（in A queue／queue for half an hour）
 类型 语法 ｜ 旧号 B206
@@ -5118,7 +5120,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 146 · know 是状态，不能表"得知"这个动作（find out／hear about）
 类型 词汇 ｜ 旧号 B235
-状态 连对2 连错0 上次2026-09-07 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **know 是状态，不能表"得知"这个动作** —— 那个动作要用 **find out ／ hear about ／ realise**：
@@ -5149,6 +5151,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-07 ⚡ 自评免测 · 复检第 3 组（她逐题写「直接过」）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
   去掉"不许用 know"负向写法，改成中文释义把"知道"限定成得知的那一下（find out／hear／realise 都算对，knew 就是她掉过两次的那条路）；换成刷手机得知分手场景
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [6] · `I only found out they broke up when I was scrolling on my phone.` —— "得知"那一下用 found out，没用 knew
 - 备注 the news 要带 the（on/from/in the news）—— 08-19 她自发带了 the；08-20 仍带对
 
 ### 148 · 状态用简单时，变化用完成时（He isn't familiar with it yet.）
@@ -6491,7 +6494,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 186 · leave a mess（⭐ 她自产）
 类型 词组 ｜ 旧号 B97
-状态 连对2 连错0 上次2026-09-30 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **leave a mess**（⭐ 她自产的块，三个词）＝ 弄乱了就走、留给别人收拾。
@@ -6551,6 +6554,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
   make a mess／throw stuff around 都合法，中文块单独映射不回 leave a mess ⇒ 改整句、正向点名 leave，a mess 留给她搭；
   旧的「三个词 ＋ ⛔ 排除五个词」写法作废（负向排除永远排不完）
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [1] · `friends leave the kitchen a total mess and just walk away` ⇒ 连对2 **毕业**
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [1] · `My roommate never cleans up after cooking; he always leaves the stove a total mess.` —— leave ＋ 宾语 ＋ a mess，冠词在（leave sth a mess 合法变体）
 
 ### 189 · take sb out ≠ bring sb along；outdoors 是副词
 类型 词汇 ｜ 旧号 B101
@@ -13635,7 +13639,7 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 
 ### 322 · play WITH sth（玩"东西"一律带 with）
 类型 搭配 ｜ 新建 2026-09-07
-状态 连对2 连错0 上次2026-09-30 ｜ **回潮 2026-09-28**（09-11 毕业 → 09-28 复检 [5]／[8] 两次漏 with，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **回潮 2026-09-28**（09-11 毕业 → 09-28 复检 [5]／[8] 两次漏 with，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **play WITH sth**（玩"东西"一律带 with）。
@@ -13698,6 +13702,7 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 - 2026-09-28 ❌ 复检第 2 组 [8] · `Children are playing their toys.` 漏 with —— **回潮**
 - 2026-09-29 ✅ 在池第 1 组 · `Kids are playing with their toys.`
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [2] · `My cat can play with a cardboard for an entire afternoon.`（with 到位；a cardboard 另建 #375）⇒ 连对2 **毕业**
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [2] · `My dog loves playing with that old tennis ball.` —— 玩"东西"带 with
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
@@ -14469,7 +14474,7 @@ worth -ing（worth praising 可以）。
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-10-03 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 "到我这边来"这一层，挂在动词后面的小词是 **over**：drive over ／ come over ／ head over ／ pop over。
@@ -14502,10 +14507,11 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 - 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he drove over`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"一个小词挂动词后面 ＋ 四个排除项"猜谜写法，她点名要学的块 ⇒ 直接点名 over，动词挑哪个留给她；换成邀请周末过来场景
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [3] · `I just moved into a new place, so I'm having some friends over for dinner next weekend.` —— having some friends over，没加 here
 
 ### 345 · 在哪台机器上干活 ＝ ON ＋ 机器（on his own laptop／device；⛔ using his device）
 类型 搭配 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-09-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
+状态 连对2 连错0 上次2026-10-03 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
 
 **问题是什么**
 在某台机器上做事，介词用 **on** ＋ 那台机器：on his own laptop ／ on his own device ／ on my phone ／ on the office computer。
@@ -14543,6 +14549,7 @@ over 自己就带着"从他那边挪到我这边"，句子里 ⛔ 不用再说 h
 - 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [2] 打包 · `he debugged on his own laptop`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"用一个介词 ＋ 三个排除项"，改零提示整句：中文"在…上"自然落 on；换成平板看电子书场景
+- 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [4] · `I usually edit videos on my computer.` —— on my computer，没走 using
 
 ### 346 · "…所在" ＝ where X **lies**／is（where 后面那句要有动词）
 类型 词组 ｜ 新建 2026-09-19
