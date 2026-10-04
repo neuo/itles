@@ -1055,7 +1055,7 @@ get through to sb（打通电话／让对方听进去，另一个意思，🎓#3
 
 ### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
@@ -1083,11 +1083,13 @@ upstart（带贬义：不知天高地厚的新贵）。
 "他是乒乓球界的新贵，今年连赢了好几场大赛。"（"新贵"用 **up-and-coming** 说）
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
+- 2026-10-03 ✅ 学习日 在池第 2 组 [1] · `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.` —— up-and-coming 放在名词前。连错 1 → 连对 1
+  ｜她自注「这个背一下」⇒ tournament 另建 #395
 - 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
 
 ### 392 · influencer（网红）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
@@ -1112,10 +1114,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 "一个有几百万粉丝的美妆网红"（在社交平台上推荐化妆品、带货的那种人）
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
+- 2026-10-03 ✅ 学习日 在池第 2 组 [2] · `A beauty influencer with millions of followers.` —— influencer。连错 1 → 连对 1
 
 ### 393 · out of print（绝版；an out-of-print book）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
 
 **问题是什么**
 书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
@@ -1139,6 +1142,7 @@ upstart（带贬义：不知天高地厚的新贵）。
 "一张早就绝版的老唱片"（唱片公司不再压制、市面上买不到新的那种）
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
+- 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
@@ -1170,6 +1174,35 @@ upstart（带贬义：不知天高地厚的新贵）。
 "我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **throw a tantrum** 说）
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+
+### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
+类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
+`win a tournament` ／ `a major tournament` ／ `enter a tournament`
+同一格里的邻居（别串）：match（其中一场，两方对打）· game（一局／一场，球类常说）· competition（比赛的总称）·
+contest（评比类：a singing contest）· championship（冠军赛，常做赛事名字）。
+判据一句话：一整个赛事、打好几轮决出冠军 ⇒ tournament；其中一场 ⇒ match。
+
+**怎么发现的**
+2026-10-03 学习日 在池第 2 组 [1]（#391 题面"他是乒乓球界的新贵，今年连赢了好几场大赛。"）· 原话
+`He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
+她写对了 tournaments，但自己标「这个背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "tournament"／"championship"／"competition" ⇒ 零命中
+　② 中文 dedup "锦标赛" ⇒ 零命中；"大赛" ⇒ 只命中 #391（今天的题面字串）⇒ 否；"比赛" ⇒ 🎓#378 trophy · 🎓#256 even if（题面字串，考点无关）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个背一下」（词不在手边）　　目标：`several major tournaments`
+找法：说"大赛／锦标赛"这种整个赛事，先落 tournament。
+
+**题面**
+"今年夏天的电竞大赛"（好几支队伍打好几轮、最后决出冠军的那种赛事）
+
+- 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
 
 ## 迁移说明（2026-08-18）
 
