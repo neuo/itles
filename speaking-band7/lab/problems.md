@@ -699,7 +699,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ 题型 词组
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ 题型 词组
 
 **问题是什么**
 "营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
@@ -732,10 +732,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-02 ❌ 复检 · 学习日 复检第 4 组 [6] · `The museum's operating time.` —— "开放时间"落在 time 上（与掉过的 open time 同一处）⇒ **回潮**
   最小改 `The museum's operating hours.`　更好版 `The museum's opening hours.`
   ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
+- 2026-10-03 ✅ 学习日 在池第 1 组 [1] · `The bank's weekend opening hours.` —— opening hours，hours 不是 time。连错 1 → 连对 1
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -766,10 +767,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
   最小改 `I'd been looking for that out-of-print book for years, and last month I finally got it at a second-hand bookstore.`
   ❌ 宾语是"想要的东西" ⇒ get it（get hold of it 也对）；⛔ reach it（reach 接目标／地点）
   ｜「绝版也不会」⇒ out of print 另建 #393
+- 2026-10-03 ✅ 学习日 在池第 1 组 [2] · `I waited six months for this new phone and finally got my hands on it yesterday.` —— got my hands on it（get one's hands on ＝ 弄到手），get 带出来了、没用 reach。连错 1 → 连对 1
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
@@ -802,10 +804,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 3 组 [10]（🎓#339 题里）· 她自注「这个 at 需要学一下，本来想写 through」· 原话 `you can reach me at this number.`
 - 2026-10-02 ✅ 学习日 在池第 1 组 [10] · `Here's my business card—feel free to contact me at the number listed here.` —— contact me at the number，号码前面是 at，没被"通过"带成 through。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [3] · `If you have any questions, you can contact us at this email address.` —— contact us at this email address，"通过"没带出 through。连对 1 → 2 ⇒ **毕业**
 
 ### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
@@ -831,10 +834,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [2]（🎓#14 题里）· 她标「这个单词背一下」· 原话 `I keep my dog leashed(这个单词背一下) well aways from the road.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [1] · `a leash.` —— leash 调出来了。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [4] · `Community rules require dogs to be kept on a leash.` —— kept on a leash。连对 1 → 2 ⇒ **毕业**
 
 ### 383 · reason with sb（跟某人讲道理）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 **reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
@@ -863,10 +867,12 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [4]（🎓#25 题里）· 她标「这个词组需要背一下」· 原话 `It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [2] · `I spent forever trying to reason with my mom, but she still wouldn't upgrade her phone.` —— reason with ＋ 人。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [5] · `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.` —— 点名降到 reason，with 自己补上了。连对 1 → 2 ⇒ **毕业**
+  ｜她自注「这个词背一下」⇒ throw a tantrum 另建 #394
 
 ### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
@@ -892,10 +898,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#36 题里）· 她标「这个词组背一下」· 原话 `He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [3] · `I kept nodding off halfway through the movie.` —— nod off。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [6] · `Nodding off against the subway window.` —— nod off。连对 1 → 2 ⇒ **毕业**
 
 ### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
 类型 句型 ｜ 新建 2026-10-01
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
@@ -922,10 +929,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S3] · 原话 `Last time I went there last year on a family trip, with my wife and son.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [4] · `The last time I visited my hometown was three years ago.` —— The last time 整块当主语，后面补了 was。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [7] · `The last time I went to the cinema was last summer.` —— 整块当主语，后面补了 was。连对 1 → 2 ⇒ **毕业**
 
 ### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
 类型 结构 ｜ 新建 2026-10-01
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
@@ -949,10 +957,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [5] · `I can get through(读完学习下) this book in about three or four days.` —— three or four days，两个数字说完再接名词。连错 1 → 连对 1
   ｜她自注「读完学习下」⇒ get through 另建 #390
+- 2026-10-03 ✅ 学习日 在池第 1 组 [8] · `I go to the gym about two or three times a week.` —— two or three times，两个数字说完再接名词。连对 1 → 2 ⇒ **毕业**
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对0 连错2 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
@@ -979,6 +988,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 - 2026-10-02 ❌ 学习日 在池第 2 组 [6] · 「忘了」—— meander 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
   最小改 `a little river meandering through the village`
   ❌ 河又弯又慢地往前流 ＝ meander（一个词自带"拐来拐去＋慢悠悠"）；别串 wind（只弯）· wander（人闲逛）· flow（只说流）
+- 2026-10-03 ✅ 学习日 在池第 1 组 [9] · `A small stream lazily meanders through the valley.` —— meanders through（10-02 忘了，今天调出来了）。连错 2 → 连对 1
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
@@ -1012,7 +1022,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
@@ -1041,6 +1051,7 @@ get through to sb（打通电话／让对方听进去，另一个意思，🎓#3
 "假期我一口气啃完了三本小说。"（"啃完"用 **get through** 说）
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
+- 2026-10-03 ✅ 学习日 在池第 1 组 [10] · `I got through three novels over the break.` —— got through three novels。连错 1 → 连对 1
 
 ### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
@@ -1128,6 +1139,37 @@ upstart（带贬义：不知天高地厚的新贵）。
 "一张早就绝版的老唱片"（唱片公司不再压制、市面上买不到新的那种）
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
+
+### 394 · throw a tantrum（哭闹撒泼、大发脾气）
+类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
+`My son threw a tantrum in the supermarket.` ／ `She's throwing a tantrum because she can't have ice cream.`
+动词用 **throw**（have a tantrum 也对）。
+同一格里的邻居（别串）：have a meltdown（情绪彻底崩溃、大哭大闹）· throw a fit（同义，更随意）· lose one's temper（发火，多说大人）。
+判据一句话：小孩又哭又闹、撒泼打滚 ⇒ throw a tantrum；大人发火 ⇒ lose one's temper。
+★ 题型判整句：中文"哭闹／撒泼"映射得回 cry and scream／have a meltdown 一串，非点名 tantrum 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（throw a tantrum），连对 ≥1 之后降回 lemma（tantrum），throw 留给她。
+
+**怎么发现的**
+2026-10-03 学习日 在池第 1 组 [5]（#383 题面"孩子哭闹的时候，你根本没法跟他讲道理。"）· 原话
+`When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+她写对了 throwing a tantrum，但自己标「这个词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "tantrum" ⇒ 零命中
+　② 中文 dedup "哭闹"／"发脾气" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背一下」（块不在手边）　　目标：`throwing a tantrum`
+找法：说"孩子哭闹／撒泼"，先落 throw a tantrum。
+
+**题面**
+"我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **throw a tantrum** 说）
+
+- 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
 
 ## 迁移说明（2026-08-18）
 
