@@ -15712,3 +15712,193 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
 - 2026-10-01 ✅ 学习日 在池第 2 组 [2] · `A gentle and kindly coutenance.` —— countenance 调出来了（coutenance 拼写，§2.1 不算）。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [9] · `A compassionate countenance.` —— countenance 调出来了。连对 1 → 2 ⇒ **毕业**
+
+### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
+类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+
+**问题是什么**
+联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
+`You can reach me at this number.` ／ `Contact us at 400-123-4567.` ／ `Email me at my work address.`
+英式也常说 **on** ＋ 电话号码（`ring me on 07…`），两个都对；⛔ **through** this number 不这么说。
+同一格里的邻居（别串）：**by** phone／by email（说"用什么方式"，后面是方式不是号码）·
+**call this number**（号码直接当 call 的宾语，不加介词）。
+判据一句话：号码／邮箱跟在"联系某人"后面当补充 ⇒ at；号码本身当 call／dial 的宾语 ⇒ 不加介词。
+★ 与 🎓#339（reach sb）分工：那条考 reach 后面直接带人（⛔ get reach）；本条考号码前面的介词 ⇒ 两条规则，题面互斥
+　（#339 的题面不给号码；本条的题面不点名 reach）。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 3 组 [10]（🎓#339 题面"出了什么事，打这个号码就能找到我。"）· 原话
+`If anything comes up, you can reach me at this number.`
+＋ 她自注「这个 at 需要学一下，本来想写 through，感觉不太对就查了下」
+⇒ §2③ 她主动提出要学 ＋ §3.2b 她不会、查到才写对 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "this number" ⇒ 只命中 🎓#339（正文例句里有 at this number，考点是 reach 直接带宾语）⇒ 否：那条管动词前面套不套 get，本条管号码前的介词
+　② 中文 dedup "号码" ⇒ 零命中；dedup "电话" ⇒ 🎓#339（同上，否）· 🎓#304 turn to sb（只是历史行出现"电话"二字，考点无关）⇒ 否
+　③ dedup "through" ⇒ 9 条，最近的是 🎓#349（"网上"整块换 online，⛔ through the internet：考的是整块替换，不是号码前的介词）· 🎓#62（drive past，through 是路线介词）⇒ 都否；其余只是历史行里出现 through 字串
+　⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：第一冲动是 `reach me through this number`（她自述；最终查字典写对了 at）　　正确：`reach me at this number`
+找法：号码／邮箱前面要放介词时，先落 at（英式 on 也行）；⛔ 别把中文"通过"直译成 through。
+
+**题面**
+"这是我的名片，你可以通过上面这个号码联系我。"（"联系我"用 **contact** 说）
+★ 中文故意留"通过"——那正是她想写 through 的诱因；点名 contact 不点 reach，与 🎓#339 题面互斥
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 3 组 [10]（🎓#339 题里）· 她自注「这个 at 需要学一下，本来想写 through」· 原话 `you can reach me at this number.`
+- 2026-10-02 ✅ 学习日 在池第 1 组 [10] · `Here's my business card—feel free to contact me at the number listed here.` —— contact me at the number，号码前面是 at，没被"通过"带成 through。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [3] · `If you have any questions, you can contact us at this email address.` —— contact us at this email address，"通过"没带出 through。连对 1 → 2 ⇒ **毕业**
+
+### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
+类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+
+**问题是什么**
+**leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
+同一格里的邻居（别串）：英式也说 **lead**（on a lead）· **tie the dog up**（把狗拴在柱子之类的固定物上）·
+**collar**（项圈，绳子扣在它上面）。
+判据一句话：牵在手里、扣在项圈上的那根绳 ⇒ leash；拴在固定的东西上 ⇒ tie up。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [2]（🎓#14 题面"我们家的狗，我都拴得离马路远远的。"）· 原话
+`I keep my dog leashed(这个单词背一下) well aways from the road.`
+她写对了 leashed，但自己标「这个单词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "leash" ⇒ 零命中
+　② 中文 dedup "拴" ⇒ 只命中 🎓#14（考 well away，题面里恰好有"拴"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个单词背一下」（词不在手边）　　目标：`leash`／`keep my dog leashed`
+找法：说到"狗绳／拴着狗"先落 leash。
+
+**题面**
+"公园里遛狗用的牵引绳"（一头扣在项圈上、一头握在主人手里）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [2]（🎓#14 题里）· 她标「这个单词背一下」· 原话 `I keep my dog leashed(这个单词背一下) well aways from the road.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [1] · `a leash.` —— leash 调出来了。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [4] · `Community rules require dogs to be kept on a leash.` —— kept on a leash。连对 1 → 2 ⇒ **毕业**
+
+### 383 · reason with sb（跟某人讲道理）
+类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+
+**问题是什么**
+**reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
+`It's no use reasoning with him.` ／ `I tried to reason with her, but she wouldn't budge.`
+同一格里的邻居（别串）：argue with sb（跟人争／吵）· persuade sb（说服，🎓#359 persuasion）· talk sense into sb（把人劝明白）。
+判据一句话："跟人讲道理"（过程，未必讲得通）⇒ reason with；"讲通了／说服了"（结果）⇒ persuade。
+★ 题型判整句：中文"讲道理"单独映射不回唯一的英文块（talk sense into／explain things to 都能落），非点名 reason 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（reason with），连对 ≥1 之后降回 lemma（reason），with 留给她。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [4]（🎓#25 题面"跟他讲道理没用，他根本听不进去。"）· 原话
+`It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
+她写对了 reasoning with him，但自己标「这个词组需要背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "reason with" ⇒ 零命中
+　② 中文 dedup "讲道理" ⇒ 只命中 🎓#25（考 It's no use ＋ -ing，题面里恰好有"讲道理"）⇒ 否；
+　　 dedup "道理" ⇒ 另中 🎓#321（principal／principle）· 🎓#357（logic／logical），只是正文出现这两个字，考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组需要背一下」（块不在手边）　　目标：`reason with him`
+找法：说"跟某人讲道理"先落 reason with ＋ 人。
+
+**题面**
+"我跟我妈讲了半天道理，她还是不肯换新手机。"（"讲道理"用 **reason with** 说）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [4]（🎓#25 题里）· 她标「这个词组需要背一下」· 原话 `It's no use reasoning with him(这个词组需要背一下); he won't listen to a word of it.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [2] · `I spent forever trying to reason with my mom, but she still wouldn't upgrade her phone.` —— reason with ＋ 人。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [5] · `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.` —— 点名降到 reason，with 自己补上了。连对 1 → 2 ⇒ **毕业**
+  ｜她自注「这个词背一下」⇒ throw a tantrum 另建 #394
+
+### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
+类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+
+**问题是什么**
+**nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
+`He kept nodding off in class.` ／ `I nodded off halfway through the movie.`
+同一格里的邻居（别串）：fall asleep（真睡着，中性）· sleepy／drowsy（犯困的状态，形容词）。
+判据一句话：说"打瞌睡／坐着睡过去"这个动作 ⇒ nod off（doze off 也对）；说"困"这个状态 ⇒ sleepy。
+
+**怎么发现的**
+2026-10-01 学习日 复检第 4 组 [6]（🎓#36 题面"他昨天打游戏打了一整晚，今天上课一直犯困。"）· 原话
+`He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
+她写对了 nodding off，但自己标「这个词组背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "nod off"／"doze"／"asleep"／"sleepy" ⇒ 零命中
+　② 中文 dedup "瞌睡"／"睡着" ⇒ 零命中；"犯困" ⇒ 只命中 🎓#36（考 all night，题面里恰好有"犯困"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组背一下」（块不在手边）　　目标：`nod off`
+找法：说"打瞌睡"先落 nod off。
+
+**题面**
+"看电影看到一半打起了瞌睡"（坐着坐着，头一点一点地睡过去）
+
+- 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#36 题里）· 她标「这个词组背一下」· 原话 `He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [3] · `I kept nodding off halfway through the movie.` —— nod off。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [6] · `Nodding off against the subway window.` —— nod off。连对 1 → 2 ⇒ **毕业**
+
+### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
+类型 句型 ｜ 新建 2026-10-01
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+
+**问题是什么**
+说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
+`The last time I went there was last year.` ／ `Last time I saw him was at the wedding.`
+同一格里的邻居（别串）：🎓#152 the first／last TIME ＋ 完整从句（那条管 time 别吞；本条 time 在，管后面的 was）·
+`I last went there last year.`（last 当副词放动词前，也对，这时不用 was）。
+判据一句话：要说的是"上次…是＋时间"吗？是 ⇒ last time 那一整块后面补 was。
+★ 与 🎓#152 分工：#152 的题面是"第一次／最后一次…的时候，＋ 主句"（状语从句）；本条的题面是"上次…是＋时间"（主语 ＋ was）⇒ 两条规则，题面互斥。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2 · Describe a city you enjoyed visiting）[S3] · 原话
+`Last time I went there last year on a family trip, with my wife and son.`
+判重三步：
+　① 目标形式 dedup "last time" ⇒ 只命中 🎓#152（the first／last TIME ＋ 完整从句：管 time 别吞，本句 time 在）⇒ 否：差在规则，那条管从句里的 time，本条管整块当主语后的 was
+　② 中文 dedup "上次去" ⇒ 零命中；dedup "was last" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Last time I went there last year on a family trip`　　正确：`Last time I went there was last year, on a family trip`
+找法：说完 last time I did X，问一句"是什么时候？"——中间那个"是"就是 was。
+
+**题面**
+"我上次回老家是三年前。"（"上次回老家"用 **the last time** 起头）
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S3] · 原话 `Last time I went there last year on a family trip, with my wife and son.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [4] · `The last time I visited my hometown was three years ago.` —— The last time 整块当主语，后面补了 was。连错 1 → 连对 1
+- 2026-10-03 ✅ 学习日 在池第 1 组 [7] · `The last time I went to the cinema was last summer.` —— 整块当主语，后面补了 was。连对 1 → 2 ⇒ **毕业**
+
+### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
+类型 结构 ｜ 新建 2026-10-01
+状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+
+**问题是什么**
+说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
+同一格里的邻居（别串）：`a day or two` ／ `a week or two` —— 只有 **a** 开头时名词才夹在中间。
+判据一句话：第一个是 a ⇒ a day or two；是数字 ⇒ 数字 or 数字 ＋ 名词。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
+判重三步：
+　① 目标形式 dedup "or five"／"or two" ⇒ 零命中
+　② 中文 dedup "四五"／"三四" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`for about four days or five`　　正确：`for about four or five days`
+找法：说约数时先把两个数字说完，再说名词。
+
+**题面**
+"这本书我大概三四天就能看完。"
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S4] · 原话 `We stayed there for about four days or five.`
+- 2026-10-02 ✅ 学习日 在池第 2 组 [5] · `I can get through(读完学习下) this book in about three or four days.` —— three or four days，两个数字说完再接名词。连错 1 → 连对 1
+  ｜她自注「读完学习下」⇒ get through 另建 #390
+- 2026-10-03 ✅ 学习日 在池第 1 组 [8] · `I go to the gym about two or three times a week.` —— two or three times，两个数字说完再接名词。连对 1 → 2 ⇒ **毕业**
