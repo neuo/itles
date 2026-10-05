@@ -1322,6 +1322,36 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
 
+### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**lose sight of sth** ＝ 忙着别的，把本来重要的东西（目标、初心、身边的人）丢在脑后：`lose sight of what really matters` ／ `lose sight of why you started`。
+字面也能说"看不见了"：`We lost sight of the boat in the fog.`
+同一格里的邻居（别串）：forget（大白话"忘了"，没有"被别的事挡住"这层）· overlook（没注意到、忽略）。
+判据一句话：因为忙着追别的、把本来看重的东西丢到脑后 ⇒ lose sight of。
+★ 题型判整句：forget 也合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3 · Is it good for a person to be ambitious?）[S3] · 原话
+`But being overly ambitious can make you lose sight of things that are just as precious, if not more …`
+她用对了；反馈发出后她点名「lose sight of 也新建一个条目吧」⇒ §2③ 她要学 ⇒ 建号（📝 新建：用对了、不是不会，不判 ❌）。
+判重三步：
+　① 目标形式 dedup "lose sight"／"sight"／"bigger picture" ⇒ 只命中今天新建的 #404 #405（触发原话里带这几个词，考点是 overly／if not more so）⇒ 否
+　② 中文 dedup "初心"／"丢在脑后" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了（`lose sight of things that are just as precious`），事后点名要记　　目标：`lose sight of ＋ 东西`
+找法：说"忙着…就忘了真正重要的…"，先落 lose sight of。
+
+**题面**
+"很多人工作一忙，就忘了自己当初为什么出发。"（"忘了"用 **lose sight of** 说）
+★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 sight（lose／of 留给她）
+
+- 2026-10-04 📝 新建 · 付息日 d 段重答 bank:521 [S3] · 她事后点名「lose sight of 也新建一个条目吧」· 原话 `can make you lose sight of things that are just as precious`
+
 ## 迁移说明（2026-08-18）
 
 ```
