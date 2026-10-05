@@ -358,6 +358,8 @@
   检查触发：说完一个单数可数名词，回头看它前面有没有限定词
 - 2026-09-27 ⚪ 新题 bank:1339（P3）[S3] · `Without river network watering` → a river network —— 单数可数名词左边没有限定词；同句 a country 写对 ⇒ 只记录
 - 2026-09-30 ⚪ 付息日 a 段在池第 2 组 [5] · `The limited-edition sneaker sold out the second they dropped` → sneakers（同句 they／them 复数 ⇒ 形态类，只记录）
+- 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `my friends pulled three all-nighter before he …` → my friend（题面"我朋友"一个人，后面也用了 he；同句 Concert tickets 复数标对 ⇒ 形态类，只记录）
+- 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `got his hand on a pair` → his hands（get one's hands on 固定两只手；10-03 她写对过 got my hands on it ⇒ 形态类，只记录）
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -648,6 +650,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-26 ⚪ 复检第 2 组 [8]（#318 题里）· `when he was two year old` —— 数词 two 后面 year 没变复数；她 #318 历史里写对过 two years old ⇒ 检查没跑，只记录
 - 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [6] · `That films constantly tries …` → That film（同句 tries 单数 ⇒ 形态类，只记录）
 - 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts …` → These（同组 [8]／[10] 限定词全对 ⇒ 形态类，只记录）
+- 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `pulled three all-nighter` → three all-nighters（同句 tickets 复数标对 ⇒ 形态类，只记录）
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -699,7 +702,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04；10-02 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 "营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
@@ -733,10 +736,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   最小改 `The museum's operating hours.`　更好版 `The museum's opening hours.`
   ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
 - 2026-10-03 ✅ 学习日 在池第 1 组 [1] · `The bank's weekend opening hours.` —— opening hours，hours 不是 time。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [1] · `The pharmacy 's opening hours posted on the front wall.` —— opening hours，hours 不是 time。连对 1 → 2 ⇒ **毕业**
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -768,10 +772,12 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
   ❌ 宾语是"想要的东西" ⇒ get it（get hold of it 也对）；⛔ reach it（reach 接目标／地点）
   ｜「绝版也不会」⇒ out of print 另建 #393
 - 2026-10-03 ✅ 学习日 在池第 1 组 [2] · `I waited six months for this new phone and finally got my hands on it yesterday.` —— got my hands on it（get one's hands on ＝ 弄到手），get 带出来了、没用 reach。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [2] · `… before he finally got his hand on a pair.` —— "弄到手"用 get（get one's hands on），没用 reach。连对 1 → 2 ⇒ **毕业**
+  ★ hand → hands（固定块两只手；10-03 她写对过 got my hands on it）⇒ ⚪#56 只记录，不算本条
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 **meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
@@ -799,6 +805,8 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
   最小改 `a little river meandering through the village`
   ❌ 河又弯又慢地往前流 ＝ meander（一个词自带"拐来拐去＋慢悠悠"）；别串 wind（只弯）· wander（人闲逛）· flow（只说流）
 - 2026-10-03 ✅ 学习日 在池第 1 组 [9] · `A small stream lazily meanders through the valley.` —— meanders through（10-02 忘了，今天调出来了）。连错 2 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [3] · `A massive river lazily meanders across the plains, drifting slowly to the east.` —— meanders across。连对 1 → 2 ⇒ **毕业**
+  ⚠️ 更好版 `A massive river lazily meanders east across the plains.`（meander 自带慢，drifting 一般说漂在水上的东西 ⇒ 只进 diff-2）
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
@@ -832,7 +840,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 **get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
@@ -862,10 +870,11 @@ get through to sb（打通电话／让对方听进去，另一个意思，🎓#3
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
 - 2026-10-03 ✅ 学习日 在池第 1 组 [10] · `I got through three novels over the break.` —— got through three novels。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [4] · `I've got to get through this massive stack of emails this week.` —— get through ＋ 一堆活儿。连对 1 → 2 ⇒ **毕业**
 
 ### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 **up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
@@ -895,11 +904,13 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [1] · `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.` —— up-and-coming 放在名词前。连错 1 → 连对 1
   ｜她自注「这个背一下」⇒ tournament 另建 #395
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [5] · `The head chef here is an up-and-coming young talent, …` —— up-and-coming。连对 1 → 2 ⇒ **毕业**
+  ★ 同句后半 `people here just to try his food` 漏 come ⇒ 新建 #400，不算本条
 - 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
 
 ### 392 · influencer（网红）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 **influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
@@ -925,10 +936,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
 - 2026-10-03 ✅ 学习日 在池第 2 组 [2] · `A beauty influencer with millions of followers.` —— influencer。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [6] · `travel influencer` —— influencer。连对 1 → 2 ⇒ **毕业**
 
 ### 393 · out of print（绝版；an out-of-print book）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
@@ -953,10 +965,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [7] · `That manga series I used to read as a kid that's now completely out of print.` —— out of print。连对 1 → 2 ⇒ **毕业**
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
@@ -984,10 +997,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 "我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **throw a tantrum** 说）
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [8] · `… so he threw a huge tantrum on the mall floor.` —— threw a tantrum（首次出题整块点名）。连错 1 → 连对 1；下次点名降回 tantrum
 
 ### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
 类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
@@ -1013,10 +1027,11 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 "今年夏天的电竞大赛"（好几支队伍打好几轮、最后决出冠军的那种赛事）
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [9] · `This summer's esports tournament.` —— tournament。连错 1 → 连对 1
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
-类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 整句
+类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
+状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -1043,6 +1058,126 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "这次谈判关系重大，公司的未来都押在上面了。"（"押在上面"用 **at stake** 说）
 
 - 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
+  ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
+
+### 397 · pull an all-nighter（熬通宵）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pull an all-nighter** ＝ 熬一整个通宵（复习、赶活、玩到天亮）；几次就 `pull three all-nighters`。
+同一格里的邻居（别串）：stay up late（熬夜，睡得晚，不一定到天亮）· stay up all night（同义大白话）。
+判据一句话：一整夜没睡 ⇒ pull an all-nighter；只是睡得晚 ⇒ stay up late。
+★ 题型判整句：stay up all night 也合法，中文块映射不回唯一的英文块 ⇒ 不能出词组题，整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [2]（#372 题"演唱会的票太难抢了，我朋友熬夜抢了三次才弄到手"）· 原话
+`my friends pulled three all-nighter(这个词组学一下) before he finally got his hand on a pair.`
+她自己标「这个词组学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "all-nighter" ⇒ 零命中
+　② 中文 dedup "通宵" ⇒ 零命中；"熬夜" ⇒ 只命中 🎓#265（考点 good for／bad for，题面碰巧有"熬夜"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`pull an all-nighter`
+找法：想说"熬了个通宵"，先落 pull an all-nighter。
+
+**题面**
+"考试前一晚我熬了个通宵复习。"（"熬了个通宵"用 **pull an all-nighter** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 all-nighter（pull／an 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#372 题里）· 她标「这个词组学一下」· 原话 `my friends pulled three all-nighter(这个词组学一下)`
+
+### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**X is on the line** ＝ X 押在这儿了，结果不好 X 就没了（工作、名声、钱、公司的未来）：`My job is on the line.`
+同一格里的邻居（别串）：at stake（#396，There's a lot at stake：利害攸关）· at risk（有风险）。
+判据一句话：让被押的东西当主语 ＋ is on the line。
+★ 与 #396（at stake）分工：两个块意思相近、都对 ⇒ 题面各自正向点名自己的词，互不串（互斥）。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [10]（#396 题"这次谈判关系重大，公司的未来都押在上面了"）· 原话
+`There's so much at stack in this negotiate; the entire future of the company is on the line（这个词组学一下） .`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "on the line" ⇒ 零命中
+　② 中文 dedup "押"／"风险" ⇒ 命中 #396（at stake，另一个块 ⇒ 两条，题面互斥）· 🎓#85（take on risk，冒风险，另一个块）· 🎓#134 #261（只是正文里带"风险"字样）⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`X is on the line`
+找法：想说"…押上了／饭碗保不住"，让被押的东西当主语 ＋ is on the line。
+
+**题面**
+"这场比赛要是输了，教练的饭碗就保不住了。"（"饭碗保不住"用 **on the line** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 她标「这个词组学一下」· 原话 `the entire future of the company is on the line（这个词组学一下）`
+
+### 399 · negotiation（谈判，名词）／negotiate（动词）
+类型 词汇 ｜ 新建 2026-10-04
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**negotiate** 是动词（`We negotiated for hours.`）；**negotiation** 是名词（`this negotiation` · `rounds of negotiations` · `salary negotiations`）。
+同一格里的邻居（别串）：talks（口语常说 trade talks／peace talks，也是名词）。
+判据一句话：前面有 this／the／a、或者要当主语／宾语 ⇒ 名词 negotiation。
+★ 题型判整句：考点是词性落在哪个位置，孤立翻"谈判"永远是名词 ⇒ 整句，让名词位置在句子里现形。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [10]（#396 题"这次谈判关系重大，公司的未来都押在上面了"）· 原话
+`There's so much at stack in this negotiate; …`
+this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清单里，按 🎓#357 logic／logical 先例建号）。
+判重三步：
+　① 目标形式 dedup "negotiat" ⇒ 零命中
+　② 中文 dedup "谈判" ⇒ 只命中 #396（题面场景，考点 at stake）⇒ 否
+　③ 词性同类 🎓#357（logic／logical）· 🎓#232（honest／honesty）—— 都是别的词 ⇒ 否 ⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`in this negotiate`　　正确：`in this negotiation`
+找法："谈判"前面挂了 this／the，就落名词 negotiation。
+
+**题面**
+"经过好几轮谈判，双方终于在价格上达成了一致。"（"谈判"用 **negotiate** 这个词说）
+★ 点名给 lemma negotiate，名词形式留给她（"好几轮谈判"逼出 rounds of negotiations）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 原话 `There's so much at stack in this negotiate`
+  最小改 `There's so much at stake in this negotiation`
+  ❌ negotiate 是动词；this 后面要名词 negotiation
+
+### 400 · come here just to ＋ 动词（专门来做某事；⛔ people here just to …漏了 come）
+类型 结构 ｜ 新建 2026-10-04
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"很多人专门为他来（吃饭）" ＝ `People come here just to try his food.`（大老远专门来：`come all the way here just to …`）
+中文的"来／去"很轻、容易被吞；英语这半句必须有动词 come／go，just to ＋ 动词挂在后面说目的。
+同一格里的邻居（别串）：🎓#43 come to your city（巡演到某地的块）。
+判据一句话：说"专门来…"，句子里有没有 come？没有 ⇒ 这半句没谓语。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [5]（#391 题"这家店的主厨是个正在冒头的年轻厨师，很多人专门为他来吃饭"）· 原话
+`The head chef here is an up-and-coming young talent, and people here just to try his food.`
+后半句漏了 come，整句没有谓语 ⇒ ❌（按 #385「漏 was 整句没谓语」先例，落到具体句型建号）。
+判重三步：
+　① 目标形式 dedup "just to"／"come here"／"come all the way" ⇒ 命中 🎓#43（come to your city：巡演到某地，另一个块）· 🎓#363（只是历史里出现 just to 字串，考点 appeal to）⇒ 否
+　② 中文 dedup "专门" ⇒ 命中 🎓#57（date night，题面里有"专门"二字）· #12（形态类·时态，正文带"专门"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`people here just to try his food`　　正确：`people come here just to try his food`
+找法：说"专门来…"，先落 come，再接 just to ＋ 动词。
+
+**题面**
+"很多游客专门来这条老街拍照。"（"专门来"用 **just to** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#391 题里）· 原话 `people here just to try his food`
+  最小改 `people come here just to try his food`
+  ❌ "专门为他来"的"来"被吞了 ⇒ 这半句没有动词
 
 ## 迁移说明（2026-08-18）
 
