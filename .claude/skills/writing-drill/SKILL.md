@@ -8,6 +8,12 @@ description: IELTS 写作反复练。学习日/复习日流程 + T1/T2 判分。
 ## 0. 硬约束
 
 ```
+0.0 ★★ **开场先同步 remote main，再碰任何数据**（stats／pick 都在它之后）
+        git pull --ff-only origin main
+    · 拉不下来（本地有未提交改动／分叉／冲突）⇒ ⛔ 停下报给她：不 stash、不 rebase、不 force、不自行合并
+    · 收尾 commit 之后直接推 remote main（§4⑥）：⛔ 不开分支、不开 PR
+    · compact 恢复不是开场 ⇒ 不重拉（中途工作区里有当天还没提交的记录）
+
 0.1 /clear 或 compact 后第一个动作 = 完整重读本文件，读完才许出题/判分/记录。
     第二个动作 = 跑 `python3 writing-band7/drill2/drill.py stats` 恢复档案状态。
     ⛔ **不许整档重读 problems.md** —— 状态从脚本拿，条目正文只在抽中时按行号打开。
@@ -1181,6 +1187,10 @@ python3 writing-band7/drill2/drill.py pick --type review     ← 复习日
         ★ 搬迁之后 problems.md／graduated.md 的条数都变了，**两个文件头部的数一起改**
      C2 本篇分数在全库所有出现处字面相同（grep 题号）
      C3 本场所有说"已做过"的动作，都能在源文件里 grep 到
+
+   校验全过 ⇒ git commit → **直接推 remote main**
+     git push origin main
+   · 推不上去（远端有新提交）⇒ ⛔ 不 force：先 `git pull --ff-only origin main`，拉不下来就停下报给她
 ```
 
 ### 4.7 改判

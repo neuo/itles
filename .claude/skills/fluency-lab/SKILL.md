@@ -51,6 +51,12 @@ description: IELTS 口语产出训练（v2）— suzy 的产出能力训练线�
 ## 0.1 脚本 —— 机械部分交给 `lab/lab.py`
 
 ```
+0.1.0 ★★ **开场先同步 remote main，再碰任何数据**（stats／pick／ls sessions 都在它之后）
+        git pull --ff-only origin main
+      · 拉不下来（本地有未提交改动／分叉／冲突）⇒ ⛔ 停下报给她：不 stash、不 rebase、不 force、不自行合并
+      · 收尾 commit 之后直接推 remote main（§11⑤）：⛔ 不开分支、不开 PR
+      · compact 恢复不是开场 ⇒ 不重拉（中途工作区里有当天还没提交的记录）
+
 0.1.1 /clear 或 compact 后第一个动作 ＝ 完整重读本文件；第二个动作 ＝ 跑
         python3 speaking-band7/lab/lab.py stats
       ⛔ **不许整档重读 problems.md** —— 状态从脚本拿，条目正文只在抽中时 `show` 打开。
@@ -1211,5 +1217,7 @@ python3 speaking-band7/lab/lab.py deliver --session sessions/YYYY-MM-DD.md [--se
         ★ 有复检组的那天，复检节单独再跑一次：`--section 复检组`
           （它硬查的是**打包题的逐条对账** —— 块头列了几条就得有几行判定，§6.1④）
 ④ 更新 study_hub.md 顶部当前进度块 ＋ daily_log.md
-⑤ 结构性变更或练习收尾 → git commit
+⑤ 结构性变更或练习收尾 → git commit → **直接推 remote main**
+     git push origin main
+   · 推不上去（远端有新提交）⇒ ⛔ 不 force：先 `git pull --ff-only origin main`，拉不下来就停下报给她
 ```
