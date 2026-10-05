@@ -810,7 +810,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-02 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
@@ -837,6 +837,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
 - 2026-10-02 ✅ 学习日 在池第 3 组 [8] · `As the sun was setting` —— 大白话交代时间，没用书面诗化的暮色余晖（as the sun was setting 是条目列明的合法说法）。首测 ⇒ 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 2 组 [1] · `It was right around dusk, when we were standing by the beach watching the sun slowly dip below the horizon.` —— 大白话交代黄昏（around dusk ／ watching the sun dip below the horizon），没用书面诗化的暮色余晖；as the sun was going down 没出，条目判法大白话都算对。连对 1 → 2 ⇒ **毕业**
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
@@ -1178,6 +1179,91 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#391 题里）· 原话 `people here just to try his food`
   最小改 `people come here just to try his food`
   ❌ "专门为他来"的"来"被吞了 ⇒ 这半句没有动词
+
+### 401 · fruit platter（果盘／水果拼盘）
+类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**fruit platter** ＝ 切好摆在大浅盘里的水果拼盘（派对、饭后端上来的那种）；platter ＝ 拼盘用的大浅盘：a cheese platter ／ a seafood platter。
+同一格里的邻居（别串）：a plate of fruit（一盘水果，大白话也对）· tray（托盘）。
+判据一句话：一大盘拼好摆好的 ⇒ platter；就是一盘 ⇒ a plate of。
+★ 词组题判法：a plate of fruit 合法且贴题 ⇒ 照判 ✅；中文写"拼盘"把语境压向 platter。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [3]（#98 题"这个果盘是用苹果和葡萄摆出来的"）· 原话
+`This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
+她自己标「这个词组背一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "platter" ⇒ 零命中
+　② 中文 dedup "果盘" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组背一下」（词不在手边）　　目标：`a fruit platter`
+找法：说"果盘／拼盘"，先落 platter。
+
+**题面**
+"生日派对上端出来的一大盘水果拼盘"（切好摆在大浅盘里、五颜六色的那种）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [3]（#98 题里）· 她标「这个词组背一下」· 原话 `This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
+
+### 402 · pull off ＋ 难事（办成、搞定）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pull sth off** ＝ 把一件难办的事办成了（婚礼、演出、惊喜派对、一桌大菜）：`They pulled it off.` ／ `pull off a surprise party`。
+同一格里的邻居（别串）：manage to do（大白话"设法做成"）· carry out（执行计划，偏正式）。
+判据一句话：强调"这事挺难、居然办成了" ⇒ pull off；宾语是代词放中间 pull it off。
+★ 题型判整句：manage to 也合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [4]（#340 题"会做饭是一回事；再往上一档，是能张罗出一桌像样的年夜饭"）· 原话
+`Knowing how to cook is one thing; a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "pull off" ⇒ 零命中
+　② 中文 dedup "搞定" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`pull off ＋ 难事`
+找法：说"居然办成了／搞定了"，先落 pull off。
+
+**题面**
+"只有一周时间准备，他们居然把这场婚礼办成了。"（"办成"用 **pull off** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 pull（off 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [4]（#340 题里）· 她标「这个词组学一下」· 原话 `a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast`
+
+### 403 · squeeze on(to) ＋ 车（挤上车）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**squeeze on** ／ **squeeze onto the train** ＝ 人多、硬挤上车；挤进去 ＝ squeeze in ／ squeeze into a car。
+同一格里的邻居（别串）：🎓#108 packed（车厢人多的状态）· get on（上车，不带"挤"）。
+判据一句话：说"挤上去"这个动作 ⇒ squeeze on(to)；说"车厢很挤"的状态 ⇒ packed。
+★ 词组题判法：cram onto 合法且贴题 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [9]（#60 题"早高峰坐地铁的话，基本都挤不上去"）· 原话
+`If you take the subway during peak morning hours, you can barely squeeze on.(这个词组学一下)`
+她把「这个词组学一下」标在句末 squeeze on 后面 ⇒ 按 squeeze on 建号，§2③ 判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "squeeze" ⇒ 零命中
+　② 中文 dedup "挤" ⇒ 命中 🎓#108 packed（状态，不是动作）· 🎓#107 jammed（车堵）· 🎓#311（V one's way ＋ 方向的结构）· 🎓#212（压缩形容词出口）⇒ 都不是"挤上车"这个块 ⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`squeeze on(to) ＋ 车`
+找法："挤上／挤进"先落 squeeze。
+
+**题面**
+"晚高峰好不容易才挤上公交"（人太多，侧着身子硬塞进车厢）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [9]（#60 题里）· 她标「这个词组学一下」· 原话 `you can barely squeeze on.(这个词组学一下)`
 
 ## 迁移说明（2026-08-18）
 
