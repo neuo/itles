@@ -1265,6 +1265,63 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [9]（#60 题里）· 她标「这个词组学一下」· 原话 `you can barely squeeze on.(这个词组学一下)`
 
+### 404 · overly ＋ 形容词（过度…、过于…）
+类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**overly** ＋ 形容词 ＝ 过度、过于（说"超出合适的那个度"）：overly ambitious ／ overly cautious ／ overly protective。
+同一格里的邻居（别串）：too ＋ 形容词（太…，口语最常用）· over- 前缀拼成一个词的（overprotective ／ overworked）。
+判据一句话：说"过度／过于 X" ⇒ overly X（或 too X）；已经拼成一个词的那几个用 over-。
+★ 题型判整句：too X ／ overprotective 都合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3 · Is it good for a person to be ambitious?）[S3] · 原话
+`But being overly（过度学一下) ambitious can make you lose sight of things …`
+她自己标「过度学一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "overly"／"too ambitious"／"ambitious" ⇒ 零命中
+　② 中文 dedup "过于" ⇒ 零命中；"过度" ⇒ 命中 🎓#50 #134 #148 #263 #319 #9 #265（都只是正文里写着"过度泛化"，考点不是这个词）⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「过度学一下」（词不在手边）　　目标：`overly ＋ 形容词`
+找法：想说"过度／过于…"，先落 overly ＋ 形容词。
+
+**题面**
+"有些家长对孩子保护过度，什么都不让他们自己做。"（"保护过度"用 **overly** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「过度学一下」· 原话 `But being overly（过度学一下) ambitious`
+
+### 405 · just as X, if not more so（同样 X，甚至更 X）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+
+**问题是什么**
+比较时先说"一样…"，再补"甚至更…"：`Family is just as important as work, if not more so.` —— so 指回前面的形容词。
+同一格里的邻居（别串）：as good as, if not better than（"不比…差，甚至更好"）· even more ＋ 形容词（直接说"更…"）。
+判据一句话：前面是 as ＋ 形容词 ⇒ 补 if not more so；口语里光说 if not more 也能听到（不算错）。
+★ 题型判整句：块要挂在 just as X 后面才现形 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3）[S3] · 原话
+`… lose sight of things that are just as precious, if not more（这个词组学一下)—like everyday interactions …`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）；更好版补成 if not more so（⚠️，不算错）。
+判重三步：
+　① 目标形式 dedup "if not"／"more so" ⇒ 零命中
+　② 中文 dedup "甚至更" ⇒ 只命中 🎓#290（收尾块 for totally different reasons，正文里带"甚至更"字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`just as precious, if not more`（自己标学）　　目标：`just as precious, if not more so`
+找法："一样…甚至更…"，先说 just as X，再补 if not more so。
+
+**题面**
+"陪孩子的时间跟赚钱一样重要，甚至更重要。"（"甚至更重要"用 **if not more so** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 if not（more so 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
+
 ## 迁移说明（2026-08-18）
 
 ```
