@@ -6852,3 +6852,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **⚠️ 推送**：GitHub 仍 403（需回电脑二次确认）⇒ 10-02 ＋ 10-03 提交只在本地 ⇒ 最新 git bundle 备份已发给她
 
 **下一场 ＝ 周期 9 · R（付息日）**：在池 ≤5 组 → ⓪ 回看本周期 3 篇（bank:1156 · bank:1203 · bank:504）→ 复检 3 组 → c review → d 重答；⛔ 无新题
+
+## 2026-10-04（周日）· 口语 R（付息日 · 周期 9 收尾）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 383 ＝ problems.md 24 ＋ graduated.md 359 ｜ 🎓 359（93.7%）｜ 未毕业 24 ｜ 可出题 14 ｜ 今天到期全部出完 ｜ ⚡ 累计 263 条、掉过 10（校准 4%）｜ 重答队列 62 / 未重答 43
+
+**五段**
+- a 在池 2 组 11 题 / 11 条：**✅11 ❌0** ⇒ **毕业 8**（#343 #372 #387 #388 #390 #391 #392 #393）
+- ⓪ 回看本周期 3 篇：bank:1156 · bank:1203 · bank:504（`lookback --cycle` 原样贴）
+- a2 复检 2 组 13 题 / 15 条：**✅15 ❌0**；#98 题里顺带掉了 🎓#162（果盘 spelt out in）⇒ **回潮**
+- c 段：合并 0 · 拆号 0 · 未标题型 0 · 正文待升级 0
+- d 重答 2 道：bank:1326（学语言最好的方法）真错 0 · bank:521（有野心好不好）真错 0；第 3 道 bank:364 已发未答 ⇒ 不记账
+- 新建 10：#397 all-nighter · #398 on the line · #399 negotiation · #400 come here just to · #401 fruit platter · #402 pull off · #403 squeeze on · #404 overly · #405 if not more so · #406 lose sight of
+
+**教练犯规**：① 开场先跑 stats／pick --dry 才同步 remote（她提醒后补 pull，按 R 重开）② 在池第 2 组题面先发、审核表后补 ③ 元信息「题面互斥」被 check 当题面字段 ④ 归号块顶格 [S2] 被 deliver 当 diff 块
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 8⇄1
+
+**推送**：收尾直接推 origin/main（两条线 SKILL 已写入：开场 `git pull --ff-only origin main`、收尾 `git push origin main`）
+
+**下一场 ＝ 周期 10 · L1**：#397–#406 首测 ＋ #162 回潮 ＋ #394–#396 连对1；回看 bank:1326 · bank:521；新题 1 道

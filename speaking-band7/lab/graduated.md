@@ -5599,53 +5599,6 @@ something to look forward **to** ／ a pen to write **with**。
   一句里放"一家三口"（全体 the）和"我们当中有两个"（部分，不加 the），点名 the three of，of 后面填 us 留给她（她掉过的是 the three of my family）；换成海边晒伤场景
 - 备注 person 的复数口语一律 people
 
-### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
-类型 搭配 ｜ 旧号 B251
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ 题型 词组
-
-**问题是什么**
-一道题面覆盖两个成员：
-· **写／画出来的 ＋ IN**：written **in** pencil ／ spelt out **in** sweets
-· **材料 ＋ made OF ／ OUT OF**：made **of** wood
-同一格里的邻居（别串）：08-17 她把 spell out 和 made out of **串台**了（`spelt out OF sweets`）——
-两个块各有各的介词，⛔ 不能互相借。
-判据一句话：说"用什么写／画的" ⇒ in；说"用什么材料做的" ⇒ of／out of。
-
-**怎么发现的**
-旧 B 表迁移（B251，2026-08-18）；最早记录 2026-08-17 ❌ · 触发原话 `spelt out OF sweets`。
-2026-08-19 ✅ 两个介词都中；2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`
-⇒ 她当场指定毕业（"这题毕业了"）。
-2026-09-05 复检 ✅ in pencil ／ made of wood，两个成员都对。
-
-**我错在哪**
-她的：`spelt out OF sweets`（2026-08-17）　　正确：`spelt out **in** sweets`
-找法：先分一刀 —— 这是"写／画上去的"还是"拿材料做的"？写画用 in，材料用 of／out of。
-
-**题面**
-题面（2 句，两个成员各一句）
-　① "蛋糕上那行字是用巧克力酱写的"（字是拿什么写上去的）
-　② "这个玩具屋是纸板做的"（拿什么材料做的）
-
-**成员出题账**
-① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅
-② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）
-★ 08-17 那一次只测到成员 ①。
-
-- 2026-08-17 ❌ `spelt out OF sweets`（把 spell out 和 made out of 串台）
-- 2026-08-19 ✅ `written in pen（该 pencil，但介词对）` ＋ `made of wood`——两个介词都中
-- 2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`——两个介词都对，pencil 也对了
-- 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· in pencil（写画出来的用 in）／made of wood（材料用 of）
-  —— 两个成员都对
-- 2026-09-18 📝 题面整改：补（第一句 ⛔ 不许用 with）· 复检组发题前审核（§6.5 第 7 项）
-  `written with a pencil` 合法，绕开 written in pencil ⇒ 补排除项；made from wood 仍在"made ＋ 材料介词"规则内，判 ✅
-- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
-- 2026-09-20 📝 学习日 在池第 1 组（#98 句2）· 自发命中留痕 · `spelled out with sweets and biscuits`（🎓 冻结，只留痕、不推进数字）
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
-  去掉"⛔ 不许用 with"，题面改成合并条的编号句，各配中文释义；换成巧克力酱写字／纸板玩具屋
-- 2026-10-04 ❌ 付息日 a2 复检第 3 组 [3]（#98 题里，题面"这个果盘是用苹果和葡萄摆出来的"）· `This fruit platter is spelt out in apples and grapes.` —— 果盘是材料／组成那一边，借了"写字 spelt out in"的块 ⇒ **回潮**
-  最小改 `This fruit platter is made up of apples and grapes.`
-  ❌ spell out 只说拼出字／字母；拿东西摆成、组成 ⇒ made up of ／ made of ／ made with。先分一刀：拼出来的是字吗？
-
 ### 163 · "愣住了／说不出话"（I just stood there.／I froze.）
 类型 词组 ｜ 旧号 B252
 状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 退池 ｜ 题型 词组
@@ -14493,6 +14446,44 @@ worth -ing（worth praising 可以）。
   去掉"一个动词／⛔ worth／should"，改零提示整句（deserve／worth praising／be praised 都算对），逼的是她掉过的 worth praise
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [9] · `That young guy who found the wallet and brought it back really deserves a lot of credit.` —— deserves credit，没落成 worth praise
 
+### 343 · **opening hours**／business hours（营业时间；⛔ open time）
+类型 词组 ｜ 新建 2026-09-15
+状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04；10-02 回潮后第二次毕业）｜ 题型 词组
+
+**问题是什么**
+"营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
+同一格里的邻居（别串）：working hours（工作时间，说人）· office hours（办公时间／答疑时间）· be open（"开着门"：Are they open on Sundays?）。
+判据一句话：说"几点开几点关"这件事 ⇒ 用 **hours**（复数）挂在 opening／business 后面；说"开没开门"才用 open。
+
+**怎么发现的**
+2026-09-15 学习日 在池第 2 组 [4]（#337 题面"查一下营业时间"）：她写 `look up the open time`。
+查重（§3.1 判重三步）：
+　① 目标形式 dedup "opening" ⇒ 只命中 #337（look up sth，考"查"不考"营业时间"，题面里带这个词而已）⇒ 否；dedup "business hours"／"open time" ⇒ 零命中
+　② 中文 "营业" ⇒ 同样只命中 #337 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+★ 编号跳过 342：本场教练建过 #342（gotta）又当场撤销，号作废不复用。
+
+**我错在哪**
+她的：`the open time`　　正确：`the opening hours`（／ business hours）
+找法：写完"营业时间"回头看 —— 是不是 hours 结尾？不是就换成 opening hours。
+
+**题面**
+"这家超市的营业时间"（几点开门、几点关门）
+
+- 2026-09-15 ❌ 首犯 · 学习日 在池第 2 组 [4]（#337 题）· `look up the open time`
+  最小改 `look up the opening hours`
+  ❌ "营业时间"是固定块 opening hours／business hours；open time 不是一个块
+- 2026-09-18 ✅ 学习日 在池第 1 组 · `opening hours`（09-15 首犯后首测）
+- 2026-09-19 ✅ 付息日 a 段在池第 1 组 · `opening hours` ⇒ **连对 2，毕业**
+- 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉词数与"⛔ time"，改成中文释义（几点开门几点关门）；换成超市场景
+- 2026-10-02 ❌ 复检 · 学习日 复检第 4 组 [6] · `The museum's operating time.` —— "开放时间"落在 time 上（与掉过的 open time 同一处）⇒ **回潮**
+  最小改 `The museum's operating hours.`　更好版 `The museum's opening hours.`
+  ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
+- 2026-10-03 ✅ 学习日 在池第 1 组 [1] · `The bank's weekend opening hours.` —— opening hours，hours 不是 time。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [1] · `The pharmacy 's opening hours posted on the front wall.` —— opening hours，hours 不是 time。连对 1 → 2 ⇒ **毕业**
+
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
 状态 连对2 连错0 上次2026-10-03 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-20**
@@ -15488,6 +15479,43 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 - 2026-10-02 ✅ 学习日 在池第 3 组 [4] · `For this dance step, you take a step to the left first, then bring your right foot over.` —— bring your right foot over，没用 pull。连对 1 → 2 ⇒ **毕业**
   ｜⚠️ For this dance step → For this dance（step 一句里出现两次，删词只进 diff-2，不建号）
 
+### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
+类型 搭配 ｜ 新建 2026-09-29
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+
+**问题是什么**
+"把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
+reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不接"想要的东西"。
+判据一句话：宾语是"想要的东西"⇒ get；宾语是目标／终点 ⇒ reach。
+
+**怎么发现的**
+2026-09-29 学习日 复检第 2 组 [9]（🎓#323 题面"他聪明到知道自己到底要什么、也知道怎么去够到。"）：
+她写 `he's smart enough to know what he really wants and how to reach it.`（#323 考点 wh 词判 ✅）。
+当场被教练记成"同级近义词、不建号"—— 她追问后改判：reach 搭不上 what he wants ＝ 搭配问题 ⇒ 补建。
+判重三步：
+　① dedup "get it" ⇒ 命中 🎓#137（I get it ＝ 听懂）· 🎓#323（同一句）⇒ 否，考点不同
+　② dedup "弄到手" ⇒ 零命中
+　③ 保留新建；★ 题面⛔ 不许与 #323 用同一句
+
+**我错在哪**
+她的：how to reach it　　更地道：how to get it
+找法：说"弄到手／得到它"，先看宾语是不是"想要的东西"—— 是就用 get。
+
+**题面**
+"那双限量球鞋一上架就被抢光了，我到现在也没弄到手。"（"弄到手"用 **get** 说）
+
+- 2026-09-29 新建 · 学习日复检第 2 组 [9] · 触发原话 `how to reach it`（教练初判"同级近义词"漏建，她追问后补建）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  obtain／grab 都合法 ⇒ 改整句、点名 get；换成限量球鞋场景（⛔ 与 🎓#323 不同句）
+- 2026-09-30 ✅ 付息日 a 段在池第 2 组 [5] · `… and I still have yet to get my hands on them.`
+- 2026-10-02 ❌ 学习日 在池第 3 组 [5] · 「忘了，而且绝版也不会」—— 弄到手 ＝ get it 没调出来（§3.3 "忘了"也是 ❌）。连对 1 → 清零，连错 1
+  最小改 `I'd been looking for that out-of-print book for years, and last month I finally got it at a second-hand bookstore.`
+  ❌ 宾语是"想要的东西" ⇒ get it（get hold of it 也对）；⛔ reach it（reach 接目标／地点）
+  ｜「绝版也不会」⇒ out of print 另建 #393
+- 2026-10-03 ✅ 学习日 在池第 1 组 [2] · `I waited six months for this new phone and finally got my hands on it yesterday.` —— got my hands on it（get one's hands on ＝ 弄到手），get 带出来了、没用 reach。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [2] · `… before he finally got his hand on a pair.` —— "弄到手"用 get（get one's hands on），没用 reach。连对 1 → 2 ⇒ **毕业**
+  ★ hand → hands（固定块两只手；10-03 她写对过 got my hands on it）⇒ ⚪#56 只记录，不算本条
+
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
 状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
@@ -15925,3 +15953,196 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [5] · `I can get through(读完学习下) this book in about three or four days.` —— three or four days，两个数字说完再接名词。连错 1 → 连对 1
   ｜她自注「读完学习下」⇒ get through 另建 #390
 - 2026-10-03 ✅ 学习日 在池第 1 组 [8] · `I go to the gym about two or three times a week.` —— two or three times，两个数字说完再接名词。连对 1 → 2 ⇒ **毕业**
+
+### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
+类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+
+**问题是什么**
+**meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
+也能说人慢悠悠地闲逛：`We meandered around the old town.`
+同一格里的邻居（别串）：wind／wind its way（🎓#311，弯弯曲曲，不强调慢）· wander（人闲逛，不说河）· flow（只说流，不带弯和慢）。
+判据一句话：又弯又慢 ⇒ meander；只说弯 ⇒ wind；人随便逛 ⇒ wander（meander 也行）。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S7] · 原话 `The river lazily meanders along(这个词组学一下), with a few scattered ducks drifting across the water, …`
+她写对了 meanders along，但自己标「这个词组学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "meander" ⇒ 零命中
+　② 中文 dedup "蜿蜒" ⇒ 只命中 🎓#311（V ＋ its way ＋ 方向，是结构，不是 meander 这个词）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（词不在手边）　　目标：`meander (along)`
+找法：描写小河慢悠悠拐来拐去，先落 meander。
+
+**题面**
+"一条小河弯弯曲曲、慢悠悠地流过村子"（河道拐来拐去、水流得很慢）
+
+- 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S7] · 她标「这个词组学一下」· 原话 `The river lazily meanders along(这个词组学一下)`
+- 2026-10-02 ❌ 学习日 在池第 2 组 [6] · 「忘了」—— meander 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
+  最小改 `a little river meandering through the village`
+  ❌ 河又弯又慢地往前流 ＝ meander（一个词自带"拐来拐去＋慢悠悠"）；别串 wind（只弯）· wander（人闲逛）· flow（只说流）
+- 2026-10-03 ✅ 学习日 在池第 1 组 [9] · `A small stream lazily meanders through the valley.` —— meanders through（10-02 忘了，今天调出来了）。连错 2 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [3] · `A massive river lazily meanders across the plains, drifting slowly to the east.` —— meanders across。连对 1 → 2 ⇒ **毕业**
+  ⚠️ 更好版 `A massive river lazily meanders east across the plains.`（meander 自带慢，drifting 一般说漂在水上的东西 ⇒ 只进 diff-2）
+
+### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
+类型 词组 ｜ 新建 2026-10-01
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-02 ＋ 10-04）｜ 题型 词组
+
+**问题是什么**
+口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
+`the lingering glow of dusk` 这一类是书面／诗歌里的写法，嘴上说出来像在背稿。
+同一格里的邻居（别串）：as the sun was coming up（日出的时候）。
+判据一句话：讲到黄昏 ⇒ 用"太阳在下山"这个大白话，不用"暮色余晖"。
+★ 词组题判法：when the sun was setting／at sunset 等大白话都算 ✅；只有书面诗化的说法算 ❌。
+
+**怎么发现的**
+2026-10-01 学习日 新题 bank:1156（P2）[S7] · 原话 `…, with a few scattered ducks drifting across the water, melting into the lingering glow of dusk.`
+⚠️ 不是错，是书面诗化 ⇒ 更好版换成 as the sun was going down（§3.2b 能学的表达 ⇒ 建号）。
+书面登记前提核查（§3.2b）：lab/sessions 全部她的产出里没出现过 sunset／the sun went down ⇒ 口语版对她算新表达 ⇒ ⛔ 不走 🎓#206，照常建号。
+判重三步：
+　① 目标形式 dedup "go down"／"sunset"／"dusk"／"glow" ⇒ 零命中
+　② 中文 dedup "落山"／"黄昏"／"夕阳" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`melting into the lingering glow of dusk`（书面诗化）　　更地道：`as the sun was going down`
+找法：想写"余晖／暮色"时，换成 as the sun was going down。
+
+**题面**
+"太阳快落山的时候"（讲故事时交代时间：天快黑、太阳在往下沉）
+
+- 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
+- 2026-10-02 ✅ 学习日 在池第 3 组 [8] · `As the sun was setting` —— 大白话交代时间，没用书面诗化的暮色余晖（as the sun was setting 是条目列明的合法说法）。首测 ⇒ 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 2 组 [1] · `It was right around dusk, when we were standing by the beach watching the sun slowly dip below the horizon.` —— 大白话交代黄昏（around dusk ／ watching the sun dip below the horizon），没用书面诗化的暮色余晖；as the sun was going down 没出，条目判法大白话都算对。连对 1 → 2 ⇒ **毕业**
+
+### 390 · get through ＋ 书／一堆活儿（读完、啃完）
+类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+
+**问题是什么**
+**get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
+`I got through the whole book in a weekend.` ／ `I still have 200 emails to get through.`
+同一格里的邻居（别串）：finish（中性的"读完"）· read through（从头到尾过一遍，偏仔细看）·
+get through to sb（打通电话／让对方听进去，另一个意思，🎓#339 正文里列过）。
+判据一句话：要说"把一本书／一堆活儿啃完" ⇒ get through ＋ 那个东西；只说中性的"读完了" ⇒ finish 也行。
+★ 题型判整句：中文"看完／读完"映射得回 finish，非点名 get through 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（get through），连对 ≥1 之后降回 lemma（through）。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 2 组 [5]（#386 题面"这本书我大概三四天就能看完。"）· 原话
+`I can get through(读完学习下) this book in about three or four days.`
+她写对了 get through，但自己标「读完学习下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "get through" ⇒ 只命中 🎓#339 reach sb（正文邻居列了 get through to sb ＝ 打通电话）⇒ 否：那是另一个意思，考点是 reach 不套 get
+　② 中文 dedup "读完" ⇒ 🎓#311 #206 #288 #356，都只是历史行里出现这两个字，考点无关 ⇒ 否；
+　　 dedup "finish" ⇒ 🎓#28（get more done）· 🎓#16（get sb to do 四件套），历史行字串，考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「读完学习下」（块不在手边）　　目标：`get through this book`
+找法：说"啃完／看完一本书""把一堆活儿干完"时，先想到 get through。
+
+**题面**
+"假期我一口气啃完了三本小说。"（"啃完"用 **get through** 说）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
+- 2026-10-03 ✅ 学习日 在池第 1 组 [10] · `I got through three novels over the break.` —— got through three novels。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [4] · `I've got to get through this massive stack of emails this week.` —— get through ＋ 一堆活儿。连对 1 → 2 ⇒ **毕业**
+
+### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
+类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+
+**问题是什么**
+**up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
+`an up-and-coming team` ／ `an up-and-coming actor` ／ `an up-and-coming neighborhood`
+跟 🎓#365 powerhouse 正好一对：a traditional powerhouse vs. an up-and-coming side。
+同一格里的邻居（别串）：a rising star（后起之秀，说人）· new money（刚发财的"新贵"，说人）·
+upstart（带贬义：不知天高地厚的新贵）。
+判据一句话：说一支队／一个人／一个地方"正在冒头" ⇒ up-and-coming；说"刚发财的新贵（人）" ⇒ new money。
+★ 题型判整句：中文"新贵"映射得回 rising star／emerging 等一串，非点名 up-and-coming 不可 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 2 组 [8]（#365 题面"足球界的老牌豪强"）· 她答完 `A traditional powerhouse in European football / A football powerhouse`
+后问「一个问题，新贵怎么说」⇒ §2③ 她主动提出 ＋ §3.2b 她不会 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "up-and-coming"／"rising"／"upstart"／"new money" ⇒ 零命中
+　② 中文 dedup "新贵"／"冒头" ⇒ 零命中
+　③ 最接近的是 🎓#365 powerhouse（老牌强队）⇒ 否：那条考"强"，本条考"新冒头"，两个词
+　⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：问「新贵怎么说」（词不在手边）　　目标：`an up-and-coming team`
+找法：想说"新贵／后起之秀／正在冒头的" ⇒ up-and-coming 放在名词前。
+
+**题面**
+"他是乒乓球界的新贵，今年连赢了好几场大赛。"（"新贵"用 **up-and-coming** 说）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
+- 2026-10-03 ✅ 学习日 在池第 2 组 [1] · `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.` —— up-and-coming 放在名词前。连错 1 → 连对 1
+  ｜她自注「这个背一下」⇒ tournament 另建 #395
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [5] · `The head chef here is an up-and-coming young talent, …` —— up-and-coming。连对 1 → 2 ⇒ **毕业**
+  ★ 同句后半 `people here just to try his food` 漏 come ⇒ 新建 #400，不算本条
+- 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
+
+### 392 · influencer（网红）
+类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+
+**问题是什么**
+**influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
+网红店／网红景点 ⇒ 换说法：an Instagrammable spot ／ a trendy place that's all over social media（⛔ 不说 influencer place）。
+同一格里的邻居（别串）：celebrity（传统意义上的明星）· content creator（做内容的博主，中性）· go viral（一条内容爆火）。
+判据一句话：说"网红（这个人）" ⇒ influencer；说"网红店／网红景点" ⇒ 换说法，不硬套 influencer。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 3 组 [3]（#370 题面"短视频平台造就了一大批网红。"）· 原话
+`Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
+她写对了 influencers，但自己标「网红这个词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "influencer" ⇒ 零命中
+　② 中文 dedup "网红" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「网红这个词背一下」（词不在手边）　　目标：`influencers`
+找法：说到"网红"这个人，先落 influencer。
+
+**题面**
+"一个有几百万粉丝的美妆网红"（在社交平台上推荐化妆品、带货的那种人）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
+- 2026-10-03 ✅ 学习日 在池第 2 组 [2] · `A beauty influencer with millions of followers.` —— influencer。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [6] · `travel influencer` —— influencer。连对 1 → 2 ⇒ **毕业**
+
+### 393 · out of print（绝版；an out-of-print book）
+类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+
+**问题是什么**
+书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
+同一格里的邻居（别串）：discontinued（商品停产）· sold out（卖光了，以后还会补货）· limited edition（限量版）。
+判据一句话：书／唱片不再印 ⇒ out of print；商品不再生产 ⇒ discontinued。
+
+**怎么发现的**
+2026-10-02 学习日 在池第 3 组 [5]（#372 题面"那本绝版书我找了好几年，上个月终于在一家旧书店弄到手了。"）· 原话
+`忘了，而且绝版也不会`
+⇒ §3.2b 她说不会的地方照常建号 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "out of print"／"out-of-print"／"discontinued" ⇒ 零命中
+　② 中文 dedup "绝版"／"停产" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：「绝版也不会」（词不在手边）　　目标：`that out-of-print book`
+找法：说"绝版的书／唱片"，先落 out of print。
+
+**题面**
+"一张早就绝版的老唱片"（唱片公司不再压制、市面上买不到新的那种）
+
+- 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
+- 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [7] · `That manga series I used to read as a kid that's now completely out of print.` —— out of print。连对 1 → 2 ⇒ **毕业**

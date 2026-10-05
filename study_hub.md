@@ -8,6 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-04 · 口语 R（付息日 · 周期 9 收尾）· 已收尾**
+  —— 开场先 `git pull --ff-only origin main` 把 10-02／10-03 两场同步下来；两条线 SKILL 已写入「开场先同步、收尾直接推 main」
+  —— 在池 2 组 **11 题 / 11 条 ✅11 ❌0**；复检 2 组 **13 题 / 15 条 ✅15 ❌0**（在池空出 3 组下溢给复检，到期只有 15 条）
+  —— 🎓 **毕业 8 条**（#343 opening hours · #372 get it · #387 meander · #388 as the sun was going down · #390 get through · #391 up-and-coming · #392 influencer · #393 out of print）
+  —— 🟠 **回潮 1 条** 🎓#162（果盘说成 spelt out in apples and grapes：材料那一边借了写字的块）
+  　　 ⇒ 全档 **383** ＝ problems 24 ＋ graduated **359**（93.7%）
+  —— 🆕 **新建 10 条** #397 pull an all-nighter · #398 be on the line · #401 fruit platter · #402 pull off · #403 squeeze on · #404 overly · #405 if not more so（以上她标学）· #406 lose sight of（反馈后她点名）· #399 negotiation（词性）· #400 come here just to（漏 come）
+  —— ⓪ 回看本周期 3 篇（bank:1156 · bank:1203 · bank:504）｜ c 段合并 0 ｜ d 重答 2 道（bank:1326 · bank:521）真错 0／0；第 3 道 bank:364 已发未答 ⇒ 不记账
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄1 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · L1**：#397–#406 首测 ＋ #162 回潮 ＋ #394–#396 连对1；回看 bank:1326 · bank:521；新题 1 道
+
 🆕🆕🆕 **2026-10-03 · 口语 L3（周期 9 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 1 组 **7 题 / 7 条 ✅7 ❌0**（在池空出 1 组下溢给复检，到期只有 7 条）
   —— 🎓 **毕业 6 条**（#381 at this number · #382 leash · #383 reason with · #384 nod off · #385 last time … was · #386 four or five）⇒ 全档 **373** ＝ problems 21 ＋ graduated **352**（94.4%）
