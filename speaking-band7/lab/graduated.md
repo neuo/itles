@@ -3178,7 +3178,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 90 · 完成时的三个触发（for/since · ever/never/before · just/already/yet）
 类型 语法 ｜ 旧号 B147a
-状态 连对3 连错0 上次2026-09-11 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
 
 **问题是什么**
 **完成时的三个触发**：① for／since ② ever／never／before ③ just／already／yet。
@@ -3215,6 +3215,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 - 2026-08-25 ✅ **自发命中**（本条未被出题，不改已毕业状态）· 加练新题 bank:1043 P2 ·
   `I can only copy things **I've seen before**`——before ⇒ 完成时，本条第二组成员，自发用对
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `I've never been on a plane.` —— never 拉出完成时，⛔ 没写成 I never took a plane
+- 2026-10-04 ✅ 复检 · 付息日 a2 复检第 4 组 [1] · `I've been living in this city for five years now.` —— for 触发完成（进行）时
 
 ### 91 · 边界：句中有具体时间点 → 必须过去式，不许用完成时
 类型 语法 ｜ 旧号 B147b
@@ -7309,6 +7310,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-09-27 📝 书面登记 · 新题 bank:1339（P3）[S4] · `offer space for recreation` → give us somewhere to hang out（⛔ 不判回潮、状态行不动）
 - 2026-09-29 📝 书面登记 · 学习日新题 bank:534 · `far outstrip those of other industries` → are way better than in other industries（⛔ 不判回潮）
 - 2026-09-30 📝 书面登记 · 付息日 d 段重答 bank:911 [S4] · `makes you appear more friendly` → look（状态行不动）
+- 2026-10-04 📝 书面登记 · 付息日 d 段重答 bank:1326 [S2] · `It’s through real-world application that you truly learn …` → actually using it（同篇 S1 她自己说了 actually use it in real life；状态行不动）
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -9513,7 +9515,7 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 
 ### 263 · 双宾语语序：promise／give／tell／show／send 一律【人在前，东西在后】
 类型 搭配 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
-状态 连对2 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-04 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 双宾语语序：**promise／give／tell／show／send** 一律【**人在前，东西在后**】。
@@ -9543,18 +9545,19 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 不是 ⇒ 要么把人提到前面，要么给人加 TO／FOR 挂到后面。
 
 **题面**
-★ 4 句，覆盖这一族的不同动词（只点动词；人和东西谁在前留给她 —— 加 to 把人挂后面也算对）
+★ 5 句，覆盖这一族的全部动词（只点动词；人和东西谁在前留给她 —— 加 to 把人挂后面也算对）
 　① "我答应过女儿一只小狗。"（"答应"用 **promise** 说）
 　② "过年奶奶给了每个孙子一个红包。"（用 **give** 说）
 　③ "他把新房子的照片给我们看了。"（用 **show** 说）
 　④ "我每年都给老同学寄一张贺卡。"（用 **send** 说）
+　⑤ "她把实话告诉了她妈妈。"（用 **tell** 说）
 
 **成员出题账**
-① promise ｜ 08-20 ❌（首犯）· 08-21 ✅ · 08-23 ✅ · 08-24 ✅（自由产出自发命中）· 09-11 ✅
-② give ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）
-③ show ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）
-④ send ｜ 08-23 ✅ · 09-11 ✅
-⑤ tell ｜ 未出过（题面 4 句未覆盖，只在判据表里出现过 tell her the truth）
+① promise ｜ 08-20 ❌（首犯）· 08-21 ✅ · 08-23 ✅ · 08-24 ✅（自由产出自发命中）· 09-11 ✅ · 10-04 ✅
+② give ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）· 10-04 ✅
+③ show ｜ 08-23 ✅ · 09-11 ⚡（她当场免测："2) - 3) 直接过"）· 10-04 ✅
+④ send ｜ 08-23 ✅ · 09-11 ✅ · 10-04 ✅
+⑤ tell ｜ 10-04 ✅（首次出题）
 
 - 2026-08-20 新建 · 加练新题（bank:927）· `You promise a lastest iPhone your kid` → promise **your kid** the latest iPhone
 - 2026-08-21 ✅ 复习（新建后首测）· `He promised his son the lastest phone.`——语序一字不差：
@@ -9580,6 +9583,9 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · 合并条 4 句：① `he promised his son the latest phone.` ✔ ④ `I sent her a postcard.` ✔（人在前、没用 to）；②③ 她当场免测（"2) - 3) 直接过"）⇒ 整组覆盖记 ✅
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"两个宾语／不用 to"写法，只点动词，人和东西谁在前留给她（加 to 挂后面也算对）；四句全换新场景
+- 2026-10-04 ✅ 复检 · 付息日 a2 复检第 4 组 [2]（5 句全覆盖）· `promised my niece a bike` ／ `gave every employee a bonus` ／ `showed us the map`（③ 首轮漏贴，补答）／ `sends me a box of home-grown veggies` ／ `told my dad the good news` —— 五个动词全是人在前、东西在后；⑤ tell 首次出题
+- 2026-10-04 📝 题面整改 · 付息日 a2 复检第 4 组 · 种子补第 ⑤ 句（tell）
+  成员出题账里 ⑤ tell 一直「未出过」（种子只有 4 句）⇒ 补一句让 5 个成员全覆盖；今天出题已按 5 句发
 
 
 ### 264 · a sense of ＋ 表示"一种感受／意识"的名词（⛔ a sense of payoff／reward／result）
@@ -10065,7 +10071,7 @@ besides him       ← 否定句里成立（No one besides me knows.），
 
 ### 271 · recently／lately／so far 这一族默认拉完成时（要用一般现在时就换成 these days）
 类型 语法 ｜ **合并条·出题多句覆盖**（§3.2c）｜ 新建 2026-08-23
-状态 连对3 连错0 上次2026-09-11 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-25** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-04 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-25** ｜ 题型 整句
 
 **问题是什么**
 **recently ／ lately ／ so far** 这一族默认**拉完成时**（要用一般现在时就换成 **these days**）。
@@ -10115,8 +10121,8 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① I haven't had much time recently. ② Things have got a lot pricier lately.
 
 **成员出题账**
-① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅
-② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅
+① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅
+② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅
 ★ 题面外的两次**自发命中**（不出题、只留痕）：08-25 `over the past year`（拉完成时）·
 　08-26 `These days he's doing really well.`（判据的另一半，走现在时）⇒ 她调的是判据不是那几个词。
 
@@ -10151,6 +10157,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
     今天 these days 走现在时）⇒ 判据本身已经在手，不是背词
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · 合并条 2 句：① `I haven't had much time recently.` ② `Things have got to a lot more expensive lately.` —— 两句都拉出完成时，考点 2/2
   ⚠️ ② `have got **to** a lot more expensive` 多了 to（get ＋ 形容词中间⛔不加 to），一次性滑手，⛔ 不落本条、不建号
+- 2026-10-04 ✅ 复检 · 付息日 a2 复检第 4 组 [3] · `I haven't been sleeping too well recently.` ／ `We've been working way more overtime lately at our company.` —— recently ／ lately 两个成员都拉完成（进行）时
 - 备注 与 🎓#90 的分工写死：**#90 ＝ for/since · ever/never/before · just/already/yet**
   ｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击
 
