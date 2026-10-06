@@ -1869,7 +1869,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 52 · 去掉 "X is important" 的壳（把动作提上来当谓语）
 类型 减法型 ｜ 旧号 B75
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 **去掉 "X is important" 的壳**：把动作提上来当谓语 —— `parents should **explain** why to kids.` ／ `You also need to explain…`
@@ -1888,7 +1888,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 找法：写完一句回头看重心 —— 谓语要是 is important，就把主语里的那个动作提上来。
 
 **题面**
-**点名**："跟孩子讲清为什么也很重要。"（把 it's important 的壳拆掉说）
+"跟孩子讲清为什么也很重要。"（"很重要"用 **need to** 说）
 
 - 2026-08-17 ✅（教练当天误判 ❌ 已撤销：她那句是完全正确的英语）
 - 2026-08-19 ❌ **自由产出**（新题 bank:489）· `explaining what rules are for … is also important`
@@ -1901,6 +1901,9 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
     收件人也别被插入语推远：`explain **to their kids** the why, not just the what` 更顺 —— 不建条目（§3.2b 第三档）
 - 2026-09-05 ✅ 复检组 · 第 4 组 · `Parents should **explain** why to kids.` —— it's important 的壳拆掉，动作提上来当谓语
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `Explaining why to your kids matters.`——壳拆掉了，"讲清为什么"直接当主语
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [10] · `Before taking kids to a museum, you also need to brief them on what they'll be seeing.` —— need to ＋ 动作当谓语，没有 it's important 的壳
+- 2026-10-05 📝 题面整改 · 学习日 复检第 4 组 · 种子提示改成正向点名
+  旧提示「把 it's important 的壳拆掉说」不是「X 用 Y 说」（§6②）⇒ 改成「"很重要"用 **need to** 说」，动作提上来当谓语的考点不变；今天出题已按新提示发
 
 ### 53 · organized（说人）＝ 有条理会安排，不是守规矩
 类型 词汇 ｜ 旧号 B76
@@ -2477,7 +2480,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 72 · in moderation（适度）
 类型 词组 ｜ 旧号 B109d
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
 
 **问题是什么**
 **in moderation** ＝ 适度（【in ＋ 一个名词】的固定块）。
@@ -2506,6 +2509,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `in moderation`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉【in ＋ 一个名词】形态描述，改成中文释义；换成吃甜食场景
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [8]（打包）· `eating sweets is fine, just in moderation` —— in moderation
 
 ### 73 · stuck WITH ＝ 被迫接受甩不掉
 类型 词组 ｜ 旧号 B117c
@@ -5736,7 +5740,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 166 · see sb（见面）／meet（初次认识）／meet up（约着碰头）—— 选哪个动词
 类型 词汇 ｜ 旧号 B255
-状态 连对2 连错0 上次2026-09-13 ｜ 顽固已断 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ 顽固已断 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
 
 **问题是什么**
 **see sb（见面）／meet（初次认识）／meet up（约着碰头）—— 选哪个动词**：
@@ -5798,6 +5802,7 @@ something to look forward **to** ／ a pen to write **with**。
   她答 `caught up with him` 合法且符合题面，但本条要分的是 see sb／meet／meet up 三个动词 ⇒ 补排除项，下次逼出 saw him
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"用不同的动词／⛔ catch up"，两个中文块各配中文释义（老熟人 ／ 第一次认识）—— see／meet 的分工靠释义逼出来
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [8]（打包，两个块）· `I met up with an old classmate last week` ／ `We first met in college` —— 约着碰头 meet up ／ 初次认识 meet，两个场景动词都分对
 - 备注 `hadn't MET FOR LONG` 意思反了；说"很久"这个量一律 for ages／for a long time，
   for long 只在"没持续多久"里出现（I didn't stay for long.）
 - 备注 **捆绑条目**（see／meet／meet up ＋ for ages）：08-19 出现"块的一半对一半错" ⇒
@@ -6554,7 +6559,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 190 · clear the table ≠ clean the table
 类型 词汇 ｜ 旧号 B103
-状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
+状态 连对3 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-08-15** ｜ 题型 词组
 
 **问题是什么**
 **clear the table ≠ clean the table**：clear ＝ 把上面的东西拿走；clean ＝ 擦干净。
@@ -6583,6 +6588,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `clear the table`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
   去掉"⛔ tidy／wipe"，改成中文释义（把碗盘撤下去、不是擦桌面）—— clear／clean 的分工靠释义逼出来
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [8]（打包）· `help clear the table after dinner` —— clear the table
 
 ### 191 · 集合名词单复数都合法（family／audience／team）
 类型 语法 ｜ 旧号 B104＋B93
@@ -14606,7 +14612,7 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -14641,10 +14647,11 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 - 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
   去掉"⛔ option／choice 当主语"，改零提示；换成老年人去实体店场景 —— For X, they … 主语说两遍这条路照旧开着
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [5] · `What young people lack the most is real-world experience.` —— 没有 For X, they 主语说两遍
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
@@ -14679,10 +14686,12 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
 - 2026-09-28 ✅ 复检第 2 组 · `Cooking at home is much cleaner, and the food tastes better.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ delicious／tasty"，只点名 taste，主语挂哪、比较级怎么说留给她；换成烤蛋糕场景
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [6] · `My grandma's braised pork tastes so much better than what they serve at restaurants.` —— "好吃"挂在吃的东西上（tastes better）
+  ★ 同句她标背 braised ⇒ 新建 #412，不算本条
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
 
 **问题是什么**
 "网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
@@ -14713,10 +14722,11 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-28 ✅ 复检第 2 组 · `You can do petty much everything online.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"一个词 ＋ ⛔ internet"，改中文释义；换成网上挂号场景
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [8]（打包）· `book a flight online` —— online
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 "让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
@@ -14745,10 +14755,11 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-28 ✅ 复检第 2 组 · `let your imagination run wild.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 run，let … imagination … wild 怎么搭留给她；换成孩子放假场景
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [7] · `… just let your imagination run wild.` —— let your imagination run wild
 
 ### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
 类型 语法 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 **feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
@@ -14780,6 +14791,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-28 ✅ 复检第 2 组 · `Going to ancient sites feels like a mini-escape.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
   去掉"像那个词不许省 ＋ ⛔ is／seems"，改零提示；换成咖啡馆像家场景 —— feel 直接挂名词这条路照旧开着
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [9] · `Living in this small town almost feels like you're on vacation.` —— feels like ＋ 从句，like 没漏
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
@@ -15539,7 +15551,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 先用一句话点题，再用 **It was when ＋ 从句** 把具体那件事接上：
@@ -15568,10 +15580,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-29 新建 · 追补 09-28 新题 bank:915 · 原话 `I'd like to talk about a time I went on an obstacle course with my 5-year-old son.`（教练 09-28 判"做法不建号"漏建，她 09-29 追问后补建）
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [6] · `It was When I helped a foreigner find his way at the airport.`
 - 2026-10-02 ✅ 学习日 在池第 3 组 [6] · `I want to share my most embarrassing moment ever. It was when I mixed up the bride's name at a wedding.` —— 先点题，第二句 It was when ＋ 从句接上是哪一次。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [1] · `… It was when I was in hospital, and my coworkers took turns coming to visit me.` —— 点题后用 It was when 接故事
 
 ### 374 · can't be bothered (to do)（懒得…：比 lazy 更口语）
 类型 词组 ｜ 新建 2026-09-29 ｜ 从 🎓#15 拆出
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **can't be bothered (to do sth)** ＝ 懒得（做某事）—— 说的是"这件事不值得我费劲"，比 lazy 更口语。
@@ -15600,6 +15613,8 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   去掉负向排除；她不会的句型（§2③）⇒ 首测把 It was when 整个写进题面；换成机场指路场景
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [7] · `I couldn't be bothered cooking this weekend, so I just got food delivered.`
 - 2026-10-02 ✅ 学习日 在池第 3 组 [7] · `It was pouring outside that day, and I couldn't be bothered to leave the house, so I just binged a show at home all day.` —— couldn't be bothered to（过去时跟着变 couldn't）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [2] · `I couldn't be bothered to even change out of my clothes.` —— couldn't be bothered to
+  ★ 同句她标学 change out of ⇒ 新建 #411，不算本条
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
@@ -15663,7 +15678,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 「没多久（之后）」＝ **not long after** ＋ 名词／从句：Not long after graduation · not long after I moved here。
@@ -15694,6 +15709,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   目标形式：句首 Not long after ＋ 从句／名词（09-30 掉的就是句首这个位置的 not／no）
   点名只给 long after 与位置，not／no 的选择仍留在她手里
 - 2026-10-02 ✅ 学习日 在池第 1 组 [6] · `Not long after I started working out, I lost five pounds.` —— 句首 Not long after，否定是 not 不是 no（点名"放在句首"后测到了 09-30 掉的那个位置）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [3] · `Not long after I switched to a new phone, the screen cracked.` —— Not long after 放句首
 
 ### 378 · trophy（奖杯）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
@@ -15728,7 +15744,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
 类型 句型 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **As X puts it,** ＝ "正如 X 所说"，逗号后面**直接说 X 的内容**：`As my mom puts it, life's too short to be grumpy.`
@@ -15758,6 +15774,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   ★ 她先发一版（结尾 in the money）当场打断、改 in the world 重发 ⇒ 以重发版为准，只算一次
 - 2026-10-02 ✅ 学习日 在池第 1 组 [8] · `Just as our teacher always puts it, practice makes perfect.` —— As X puts it, 后面直接接那句话本身，老师没有再当主语。连对 1 → 2 ⇒ **毕业**
   ｜⚠️ Just as → As（删词只进 diff-2，不建号；10-01 同一处）
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [4] · `As my mom always puts it, early to bed and early to rise keeps you healthy.` —— As X puts it ＋ 那句话本身
 
 ### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学

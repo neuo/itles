@@ -1256,6 +1256,62 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 3 组 [3]（#363 题里）· 她说「慈善这个词又忘了」· 原话 `Some charity ads appeal directly to your emotions …(慈善这个词又忘了)`
 
+### 411 · change out of ＋ 衣服（把…换下来）
+类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**change out of sth** ＝ 把身上这套换下来：change out of my work clothes ／ change out of these wet clothes。
+反方向：**change into sth** ＝ 换上：change into my pajamas；只说"换衣服"不说哪套 ⇒ get changed。
+判据一句话：脱下来的那套 ⇒ out of；穿上去的那套 ⇒ into；不说是哪套 ⇒ get changed。
+★ 题型判整句：get changed／take off 也能达意，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 4 组 [2]（#374 题"下班回到家，我累得连衣服都懒得换"）· 原话
+`After getting home from work, I couldn't be bothered to even change out of（这个词组可以学下） my clothes.`
+她自己标「这个词组可以学下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "change out of"／"change into" ⇒ 零命中
+　② 中文 dedup "换衣服"／"换下" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组可以学下」（块不在手边）　　目标：`change out of ＋ 衣服`
+找法：说"换下／换上"，先分方向：脱的用 out of，穿的用 into。
+
+**题面**
+"一进家门，我就先把湿透的衣服换了下来。"（"换下来"用 **change out of** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 change（out of 留给她）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [2]（#374 题里）· 她标「这个词组可以学下」· 原话 `I couldn't be bothered to even change out of（这个词组可以学下） my clothes`
+
+### 412 · braised（红烧的／焖炖的）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**braised** ＝ 先煎再加汤汁小火焖到入味的做法：braised pork（红烧肉）／ braised beef（红烧牛肉）。
+同一格里的邻居（别串）：stewed（炖的，汤更多）· stir-fried（炒的）· steamed（蒸的）。
+判据一句话：中餐菜名里"红烧／焖" ⇒ braised；汤汤水水的"炖" ⇒ stewed。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 4 组 [6]（#348 题"外婆做的红烧肉，比饭店里的好吃多了"）· 原话
+`My grandma's braised（这个词背下） pork tastes so much better than what they serve at restaurants.`
+她自己标「这个词背下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "braised"／"braise"／"stew" ⇒ 零命中
+　② 中文 dedup "红烧"／"炖" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背下」（词不在手边）　　目标：`braised`
+找法：说"红烧…"，先落 braised。
+
+**题面**
+"我最拿手的一道菜是红烧牛肉"（酱油汤汁里小火焖到入味的那种做法）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [6]（#348 题里）· 她标「这个词背下」· 原话 `My grandma's braised（这个词背下） pork`
+
 ## 迁移说明（2026-08-18）
 
 ```
