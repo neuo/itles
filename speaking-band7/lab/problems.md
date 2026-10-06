@@ -654,7 +654,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
 类型 搭配 ｜ 旧号 B251
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ 题型 词组
 
 **问题是什么**
 一道题面覆盖两个成员：
@@ -680,8 +680,8 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 　② "这个玩具屋是纸板做的"（拿什么材料做的）
 
 **成员出题账**
-① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅
-② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）
+① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-05 ✅
+② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）· 10-05 ✅
 ★ 08-17 那一次只测到成员 ①。
 
 - 2026-08-17 ❌ `spelt out OF sweets`（把 spell out 和 made out of 串台）
@@ -698,6 +698,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-10-04 ❌ 付息日 a2 复检第 3 组 [3]（#98 题里，题面"这个果盘是用苹果和葡萄摆出来的"）· `This fruit platter is spelt out in apples and grapes.` —— 果盘是材料／组成那一边，借了"写字 spelt out in"的块 ⇒ **回潮**
   最小改 `This fruit platter is made up of apples and grapes.`
   ❌ spell out 只说拼出字／字母；拿东西摆成、组成 ⇒ made up of ／ made of ／ made with。先分一刀：拼出来的是字吗？
+- 2026-10-05 ✅ 学习日 在池第 1 组 [1]（两句覆盖）· `the big words written on the blackboard in red chalk` ／ `a planter made out of an old tire` —— 写出来的 ＋ in ／ 材料 ＋ out of，两个成员都对。连错 1 → 连对 1
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -749,7 +750,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
 
 **问题是什么**
 **throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
@@ -778,10 +779,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [8] · `… so he threw a huge tantrum on the mall floor.` —— threw a tantrum（首次出题整块点名）。连错 1 → 连对 1；下次点名降回 tantrum
+- 2026-10-05 ✅ 学习日 在池第 1 组 [2] · `A little boy at the supermarket threw a big tantrum on the floor …` —— 点名降到 tantrum，throw 自己补上。连对 1 → 2 ⇒ **毕业**
 
 ### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
 类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 词组
 
 **问题是什么**
 **tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
@@ -808,10 +810,11 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [9] · `This summer's esports tournament.` —— tournament。连错 1 → 连对 1
+- 2026-10-05 ✅ 学习日 在池第 1 组 [3] · `the national university debate tournament` —— tournament。连对 1 → 2 ⇒ **毕业**
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对1 连错0 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -840,10 +843,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
   ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
+- 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pull an all-nighter** ＝ 熬一整个通宵（复习、赶活、玩到天亮）；几次就 `pull three all-nighters`。
@@ -869,10 +873,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 all-nighter（pull／an 留给她）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#372 题里）· 她标「这个词组学一下」· 原话 `my friends pulled three all-nighter(这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [5] · `I pulled an all-nighter cramming for the exam the night before it.` —— pulled an all-nighter（整块点名首测）。连错 1 → 连对 1；下次点名降回 all-nighter
 
 ### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **X is on the line** ＝ X 押在这儿了，结果不好 X 就没了（工作、名声、钱、公司的未来）：`My job is on the line.`
@@ -897,10 +902,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "这场比赛要是输了，教练的饭碗就保不住了。"（"饭碗保不住"用 **on the line** 说）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 她标「这个词组学一下」· 原话 `the entire future of the company is on the line（这个词组学一下）`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [6] · `Nothing else can go wrong with this project, or his job is on the line.` —— his job is on the line。连错 1 → 连对 1
 
 ### 399 · negotiation（谈判，名词）／negotiate（动词）
 类型 词汇 ｜ 新建 2026-10-04
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **negotiate** 是动词（`We negotiated for hours.`）；**negotiation** 是名词（`this negotiation` · `rounds of negotiations` · `salary negotiations`）。
@@ -922,16 +928,17 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 找法："谈判"前面挂了 this／the，就落名词 negotiation。
 
 **题面**
-"经过好几轮谈判，双方终于在价格上达成了一致。"（"谈判"用 **negotiate** 这个词说）
-★ 点名给 lemma negotiate，名词形式留给她（"好几轮谈判"逼出 rounds of negotiations）
+"这次谈判拖了整整三个月。"（"谈判"用 **negotiate** 这个词说）
+★ 点名给 lemma negotiate，名词形式留给她；"这次谈判"当主语 ⇒ this 后面只能接名词 negotiation（10-05"好几轮谈判"被 rounds of negotiating 合法绕开）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 原话 `There's so much at stack in this negotiate`
   最小改 `There's so much at stake in this negotiation`
   ❌ negotiate 是动词；this 后面要名词 negotiation
+- 2026-10-05 ✅ 学习日 在池第 1 组 [7] · `After several rounds of negotiating, …` —— "谈判"落在 of 后面当名词用，动名词 negotiating 合法（§3.3：合法即 ✅）；名词 negotiation 没逼出来 ⇒ 种子换成"这次谈判拖了整整三个月。"（this 后面只能接名词）。连错 1 → 连对 1
 
 ### 400 · come here just to ＋ 动词（专门来做某事；⛔ people here just to …漏了 come）
 类型 结构 ｜ 新建 2026-10-04
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "很多人专门为他来（吃饭）" ＝ `People come here just to try his food.`（大老远专门来：`come all the way here just to …`）
@@ -958,10 +965,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#391 题里）· 原话 `people here just to try his food`
   最小改 `people come here just to try his food`
   ❌ "专门为他来"的"来"被吞了 ⇒ 这半句没有动词
+- 2026-10-05 ✅ 学习日 在池第 1 组 [8] · `A lot of tourists visit this historic street just to snap some photos.` —— 有动词 visit 再接 just to，没漏谓语。连错 1 → 连对 1
 
 ### 401 · fruit platter（果盘／水果拼盘）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **fruit platter** ＝ 切好摆在大浅盘里的水果拼盘（派对、饭后端上来的那种）；platter ＝ 拼盘用的大浅盘：a cheese platter ／ a seafood platter。
@@ -986,10 +994,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "生日派对上端出来的一大盘水果拼盘"（切好摆在大浅盘里、五颜六色的那种）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [3]（#98 题里）· 她标「这个词组背一下」· 原话 `This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [9] · `a giant fruit platter served at the birthday party` —— fruit platter。连错 1 → 连对 1
 
 ### 402 · pull off ＋ 难事（办成、搞定）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pull sth off** ＝ 把一件难办的事办成了（婚礼、演出、惊喜派对、一桌大菜）：`They pulled it off.` ／ `pull off a surprise party`。
@@ -1015,6 +1024,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 pull（off 留给她）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [4]（#340 题里）· 她标「这个词组学一下」· 原话 `a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [10] · `With only one week to prepare, they actually pulled off the wedding.` —— pulled off（整块点名首测）。连错 1 → 连对 1；下次点名降回 pull
 
 ### 403 · squeeze on(to) ＋ 车（挤上车）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -1130,6 +1140,90 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 sight（lose／of 留给她）
 
 - 2026-10-04 📝 新建 · 付息日 d 段重答 bank:521 [S3] · 她事后点名「lose sight of 也新建一个条目吧」· 原话 `can make you lose sight of things that are just as precious`
+
+### 407 · chalk（粉笔）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**chalk** ＝ 粉笔（不可数，说材料）：write in chalk ／ red chalk；数根数用 a piece of chalk ／ two sticks of chalk。
+同一格里的邻居（别串）：blackboard（黑板）· whiteboard ＋ marker（白板 ＋ 白板笔）。
+判据一句话：说"用粉笔写" ⇒ in chalk（跟 🎓#162 的 in pencil 一个格）；数根数 ⇒ a piece of chalk。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [1]（#162 题"黑板上用红粉笔写的那几个大字"）· 原话
+`the big words written on the blackboard in red chalk（这个单词背一下).`
+她自己标「这个单词背一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "chalk" ⇒ 零命中
+　② 中文 dedup "粉笔" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个单词背一下」（词不在手边）　　目标：`chalk`
+找法：说"粉笔"，先落 chalk；要数根数就加 a piece of。
+
+**题面**
+"老师随手拿起一根粉笔在黑板上画了个圈"（教室里写黑板用的那种白色小棍）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [1]（#162 题里）· 她标「这个单词背一下」· 原话 `written on the blackboard in red chalk（这个单词背一下)`
+
+### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**round** ＝ 一轮（谈判、面试、比赛、投票、一圈酒）：several rounds of talks ／ the second round of interviews ／ a round of drinks。
+同一格里的邻居（别串）：turn（轮到某人：It's my turn. ／ take turns 轮流）。
+判据一句话："第几轮／好几轮"这种一轮一轮的过程 ⇒ round；"轮到我／轮流" ⇒ turn。
+★ 题型判整句：要在句子里分得清 round 和 turn，孤立翻"一轮"测不出她想用 turn 的那个岔口。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [7]（#399 题"经过好几轮谈判，双方终于在价格上达成了一致"）· 原话
+`After several rounds（学下，老是想用 turn） of negotiating, …`
+她自己标「学下，老是想用 turn」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "round" ⇒ 命中 🎓#109（enough to go round：够分）· 🎓#132（ring road）· 🎓#344（come over）—— 都不是"一轮" ⇒ 否；dedup "turn" ⇒ 命中的都是 turn down／turn to 等动词短语 ⇒ 否
+　② 中文 dedup "一轮"／"轮" ⇒ 命中的都是正文带"轮"字的别的考点（#395 tournament · #399 negotiation 等）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「老是想用 turn」　　目标：`several rounds of ＋ 名词`
+找法："轮"先分一刀：是一轮一轮的过程（round），还是轮到谁（turn）？
+
+**题面**
+"我进了第二轮面试，下周还要再面一次。"（"第二轮"用 **round** 说）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「学下，老是想用 turn」· 原话 `After several rounds（学下，老是想用 turn） of negotiating`
+
+### 409 · come to an agreement (on sth)（达成一致）
+类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**come to an agreement** ＝ 双方谈下来、达成一致；谈的事用 on 挂后面：come to an agreement on the price。
+同义：reach an agreement（更正式一点）· agree on sth（大白话：We agreed on the price.）。
+判据一句话：说"达成一致／谈拢了" ⇒ come to／reach an agreement；只说"同意某件事" ⇒ agree on。
+★ 题型判整句：reach an agreement／agree on 都合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [7]（#399 题"经过好几轮谈判，双方终于在价格上达成了一致"）· 原话
+`both sides finally came to an agreement(这个词组学一下) on the price.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "agreement"／"agree on" ⇒ 只命中 🎓#135 · #10（正文带这个词，考点不是这个块）⇒ 否
+　② 中文 dedup "达成"／"一致" ⇒ 命中的都是正文带这两个字的别的考点（#182 by -ing · #10 主谓一致 等）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`come to an agreement on sth`
+找法："谈拢了／达成一致"，先落 come to an agreement，谈的事用 on 挂后面。
+
+**题面**
+"我们跟房东谈了半天，最后在房租上达成了一致。"（"达成了一致"用 **come to an agreement** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 agreement（come to／on 留给她）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「这个词组学一下」· 原话 `both sides finally came to an agreement(这个词组学一下) on the price`
 
 ## 迁移说明（2026-08-18）
 
