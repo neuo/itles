@@ -1229,6 +1229,33 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「这个词组学一下」· 原话 `both sides finally came to an agreement(这个词组学一下) on the price`
 
+### 410 · charity（慈善／慈善机构）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**charity** ＝ 慈善；也指一家慈善机构（可数）：a charity ／ charity work（做慈善）／ a charity event（慈善活动）／ give money to charity（捐给慈善）。
+同一格里的邻居（别串）：donate（捐）· volunteer（当志愿者）· philanthropy（慈善事业，书面）。
+判据一句话：说"慈善／慈善机构" ⇒ charity；放名词前当定语 ⇒ charity ads ／ a charity concert。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 3 组 [3]（#363 题"有些慈善广告专门打感情牌，让你忍不住想捐钱"）· 原话
+`Some charity ads appeal directly to your emotions to make you want to donate.(慈善这个词又忘了)`
+她说「慈善这个词又忘了」⇒ §2③ 建号，判 ❌（"忘了"也是 ❌；§3.2b：哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "charity" ⇒ 零命中
+　② 中文 dedup "慈善" ⇒ 零命中（"又"指的是以前也忘过，但档案里从没建过号）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：「慈善这个词又忘了」（词不在手边）　　目标：`charity`
+找法：说"慈善…"，先落 charity。
+
+**题面**
+"公司年底办的慈善晚会"（为了给困难的人筹钱办的那种活动）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 3 组 [3]（#363 题里）· 她说「慈善这个词又忘了」· 原话 `Some charity ads appeal directly to your emotions …(慈善这个词又忘了)`
+
 ## 迁移说明（2026-08-18）
 
 ```

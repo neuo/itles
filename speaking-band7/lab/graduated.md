@@ -5240,7 +5240,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 152 · the first / last TIME ＋ 完整从句（time 不能省）
 类型 结构 ｜ 旧号 B241
-状态 连对2 连错0 上次2026-10-02 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）
+状态 连对2 连错0 上次2026-10-05 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）
 
 **问题是什么**
 **the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
@@ -5277,6 +5277,7 @@ something to look forward **to** ／ a pen to write **with**。
   最小改 `The last time I saw my grandmother, she was still able to …`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [1] · `The first time I cooked by myself, I almost burned the kitchen down.` —— The first time ＋ 完整从句，time 没吞。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [1] · `The first time I gave a speech on stage, I was so nervous my legs were shaking.` —— The first time ＋ 完整从句，time 没吞。连对 1 → 2 ⇒ **毕业**（09-30 回潮后第三次毕业）
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [1] · `The first time I took a flight, I was glued to the window the whole time.` —— the first time ＋ 完整从句
 
 ### 153 · work AT（下功夫）／work ON（做某项目）／work IN（领域）；"干这行"＝ I've been doing this
 类型 搭配 ｜ 旧号 B242
@@ -9115,7 +9116,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对2 连错0 上次2026-10-02 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
@@ -9155,6 +9156,7 @@ in order to → to · utilize → use · numerous → a lot of · purchase → b
   正确版 `I can sleep in for as long as I feel like it.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [2] · `This gym is open 24 hours, so you can go whenever you feel like it.` —— whenever you feel like it 整块到位，it 没漏（09-30 掉的就是它）。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [2] · `The best part about freelancing is that you can take a break whenever you feel like it.` —— whenever you feel like it，it 没漏。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [2] · `My cat comes and goes whenever she feels like it.` —— whenever she feels like it
 - 备注 整句范例（她指定要背的那句）：
   **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
   —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
@@ -15197,7 +15199,7 @@ persuade 偏"让人做"）。
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -15229,10 +15231,12 @@ persuade 偏"让人做"）。
 - 2026-10-01 ✅ 学习日 在池第 1 组 [6] · `Politicians often play the emotional card in their speeches to appeal to voters' emotions.` —— appeal to voters' emotions（to 到位 · emotions 复数）。连错 1 → 连对 1
   ｜⚠️ play the emotional card 与 appeal to voters' emotions 同义重复 ⇒ 更好版只留 appeal 那半句（删多余成分，§3.2b 只进 diff-2，不建号）
 - 2026-10-02 ✅ 学习日 在池第 1 组 [3] · `The lawyer kept appealing to the jury's emotions in court to win them over.` —— appeal to ＋ emotions 复数。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [3] · `Some charity ads appeal directly to your emotions to make you want to donate.` —— appeal to your emotions
+  ★ 同句她说「慈善这个词又忘了」⇒ 新建 #410，不算本条
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **without a doubt** ＝ 毫无疑问，P3 开口亮立场用；放句首、句尾都行（`The tech sector, without a doubt.`）。
@@ -15259,10 +15263,11 @@ persuade 偏"让人做"）。
   no doubt／definitely 都合法 ⇒ 改整句；她点名要学（§2③）⇒ 首测把整个块写进题面；换成求职行业场景
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [7] · `…, it's healthcare, without a doubt.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [7] · `The best hot pot I've ever had was, without a doubt, the one in Chongqing.` —— without a doubt，a 没漏。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [4] · `Out of all the cities I've visited, Dali is without a doubt the best place to retire.` —— without a doubt
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **powerhouse** ＝ 在某个领域实力强、能打的那家公司／那个国家／那个人：a delivery powerhouse ／ an economic powerhouse。
@@ -15290,10 +15295,11 @@ persuade 偏"让人做"）。
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [8] · `An EV powerhouse.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [8] · `A traditional powerhouse in European football / A football powerhouse` —— powerhouse，两种说法都对。连对 1 → 2 ⇒ **毕业**
   ｜她问「新贵怎么说」⇒ up-and-coming 另建 #391
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `a powerhouse in Chinese basketball` —— powerhouse
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -15319,10 +15325,13 @@ persuade 偏"让人做"）。
   make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts are making absolute bank this year.`（living 另建 #376）
 - 2026-10-02 ✅ 学习日 在池第 2 组 [9] · `That boba shop right outside the school gate makes absolute bank every summer.` —— makes absolute bank，bank 前不加冠词。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ❌ 学习日 复检第 3 组 [6]（题面"那家网红餐厅开业第一个月就赚翻了"）· `That viral restaurant made a bank in its very first month.` —— make bank 的 bank 前面加了 a ⇒ **回潮**
+  最小改 `That viral restaurant made bank in its very first month.`　更好版 `… made absolute bank …`
+  ❌ make bank 里的 bank 是俚语"一大笔钱"，不加冠词；加了 a 像"开了一家银行"
 
 ### 367 · social media giant（社交巨头；⛔ social giant）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
+状态 连对0 连错1 上次2026-10-05 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `a social giant like Facebook`，media 又漏了，撤销毕业、连对清零）｜ 题型 词组
 
 **问题是什么**
 "XX 巨头" ＝ **行业名 ＋ giant**：a social media giant ／ a tech giant ／ a retail giant。
@@ -15349,10 +15358,13 @@ persuade 偏"让人做"）。
   去掉「两个词 ＋ ⛔ 只用 social」，括号改中文释义；换成微博
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [10] · `A social media giant like WeiBo`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [10] · `An overseas social media giant` —— social media giant，media 没漏。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ❌ 学习日 复检第 3 组 [5]（打包，题面"脸书这样的社交巨头"）· `a social giant like Facebook` —— "社交巨头"又落成 social giant，media 漏了 ⇒ **回潮**
+  最小改 `a social media giant like Facebook`
+  ❌ "XX 巨头" ＝ 行业名 ＋ giant；"社交"这个行业叫 social media，social 单独放名词前是"爱社交的"
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **land a job (at 公司)** ＝ 找到／谋到一份（好）工作，口语里"进了腾讯"就说 land a job at Tencent。
@@ -15379,10 +15391,11 @@ persuade 偏"让人做"）。
   get／find 都合法 ⇒ 改整句、点名 land；换成银行场景
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [1] · `No long after graduation, she landed a job at a major bank.`（No long after 另建 #377）
 - 2026-10-02 ✅ 学习日 在池第 3 组 [1] · `He switched to coding, and six months later he landed a job at a gaming company.` —— landed a job at …。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [7] · `She sent out over a hundred resumes before finally landing a job at a law firm.` —— landing a job
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 中文把头衔放在名字**前面**直接连（社交巨头腾讯、短视频巨头字节跳动），中间没有任何连接词；
@@ -15414,10 +15427,11 @@ persuade 偏"让人做"）。
   去掉两条负向排除，改成正向点名同位语结构「, the …」；换成表哥在字节跳动
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [2] · `My cousin works at ByteDance, the short-video giant.`
 - 2026-10-02 ✅ 学习日 在池第 3 组 [2] · `My friend just jumped ship to BYD, the electric vehicle giant.` —— 名字 ＋ 逗号 ＋ the 头衔，没去找介词。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [8] · `I visited Starbucks, the coffee chain, last week.` —— 名字在前，头衔用 , the … 补后面（"总部"没译出，不是本条考点）
 
 ### 370 · create ＋ 结果（造就一批富豪／创造就业：create billionaires；⛔ build billionaires）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 "造就／催生出一批（人或结果）"＝ **create**：create billionaires ／ create jobs ／ create wealth。
@@ -15446,10 +15460,11 @@ build 只能搭"建起来的东西"（build a company／a house／a brand），�
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [3] · `This e-commence boom has created a whole wave of billionaires.`
 - 2026-10-02 ✅ 学习日 在池第 3 组 [3] · `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)` —— create ＋ 结果，没用 build。连对 1 → 2 ⇒ **毕业**
   ｜她自注「网红这个词背一下」⇒ influencer 另建 #392
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [9] · `This new plant created two thousand local jobs.` —— created jobs
 
 ### 371 · bring your other foot over（把另一只脚挪过来；⛔ pull your foot over）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 把身体某部位"挪／带"到某个位置 ＝ **bring … over**：bring your other foot over ／ bring your arm up。
@@ -15478,6 +15493,7 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 - 2026-09-30 ✅ 付息日 a 段在池第 2 组 [4] · `…, then slowly bring the other leg over.`
 - 2026-10-02 ✅ 学习日 在池第 3 组 [4] · `For this dance step, you take a step to the left first, then bring your right foot over.` —— bring your right foot over，没用 pull。连对 1 → 2 ⇒ **毕业**
   ｜⚠️ For this dance step → For this dance（step 一句里出现两次，删词只进 diff-2，不建号）
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [10] · `When going upstairs, step with your left foot, then slowly bring your right foot over.` —— bring your right foot over
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
@@ -15582,7 +15598,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **cardboard** ＝ 硬纸板（**材料**），不可数，⛔ 不能说 a cardboard；**纸箱** ＝ **a cardboard box**。
@@ -15607,10 +15623,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#322 题里）· 原话 `My cat can play with a cardboard for an entire afternoon.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [7] · `cardboard box` —— cardboard 后面跟上了 box。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [4] · `Cardboard box.` —— cardboard 后面跟上了 box。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `a cardboard box for moving books` —— a cardboard box
 
 ### 376 · livestream shopping（直播带货；"直播" ＝ live／livestream，⛔ living）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **直播** ＝ **live**（形容词，读 /laɪv/）／**livestream**；**living** ＝ 活着的／生活的，跟"直播"无关。
@@ -15637,6 +15654,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 a 段在池第 1 组 [9]（#366 题里）· 原话 `This living shopping hosts are making absolute bank this year.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [8] · `watch livestream shopping before bed.` —— livestream，不是 living。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [5] · `Double eleven live shopping streams.` —— "直播"＝ live，没写成 living。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `live-stream shopping my mom recently got into` —— live-stream shopping
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
@@ -15674,7 +15692,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 378 · trophy（奖杯）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **trophy** ＝ 奖杯（比赛发给冠军的杯子）。
@@ -15701,6 +15719,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（🎓#319 题里）· 她标「背一下」· 原话 `presented the trophy(背一下) to the campion`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [10] · `trophies.` —— trophy 到位。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [7] · `A small trophy.` —— trophy。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `the golden trophy lifted after the World Cup final` —— trophy
 
 ### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
 类型 句型 ｜ 新建 2026-09-30
@@ -15737,7 +15756,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-02 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **countenance** ＝ 脸上的神情／面容（书面词，多用在成语、引语的翻译里）。
@@ -15763,6 +15782,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
 - 2026-10-01 ✅ 学习日 在池第 2 组 [2] · `A gentle and kindly coutenance.` —— countenance 调出来了（coutenance 拼写，§2.1 不算）。连错 1 → 连对 1
 - 2026-10-02 ✅ 学习日 在池第 1 组 [9] · `A compassionate countenance.` —— countenance 调出来了。连对 1 → 2 ⇒ **毕业**
+- 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `the nurse's gentle and kindly countenance / expression` —— countenance
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
