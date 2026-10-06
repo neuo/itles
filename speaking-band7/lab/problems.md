@@ -1028,7 +1028,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 403 · squeeze on(to) ＋ 车（挤上车）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **squeeze on** ／ **squeeze onto the train** ＝ 人多、硬挤上车；挤进去 ＝ squeeze in ／ squeeze into a car。
@@ -1053,10 +1053,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "晚高峰好不容易才挤上公交"（人太多，侧着身子硬塞进车厢）
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [9]（#60 题里）· 她标「这个词组学一下」· 原话 `you can barely squeeze on.(这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [1] · `I barely managed to squeeze onto the bus during evening rush hours.` —— squeeze onto the bus。连错 1 → 连对 1
 
 ### 404 · overly ＋ 形容词（过度…、过于…）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **overly** ＋ 形容词 ＝ 过度、过于（说"超出合适的那个度"）：overly ambitious ／ overly cautious ／ overly protective。
@@ -1081,10 +1082,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "有些家长对孩子保护过度，什么都不让他们自己做。"（"保护过度"用 **overly** 说）
 
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「过度学一下」· 原话 `But being overly（过度学一下) ambitious`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [2] · `Some parents are overly protective of their kids, never letting them do anything on their own.` —— overly protective of。连错 1 → 连对 1
 
 ### 405 · just as X, if not more so（同样 X，甚至更 X）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-04 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 比较时先说"一样…"，再补"甚至更…"：`Family is just as important as work, if not more so.` —— so 指回前面的形容词。
@@ -1110,10 +1112,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 if not（more so 留给她）
 
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [3] · `Sleep is just as important as diet, if not more so.` —— if not more so（整块点名首测）。连错 1 → 连对 1；下次点名降回 if not
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **lose sight of sth** ＝ 忙着别的，把本来重要的东西（目标、初心、身边的人）丢在脑后：`lose sight of what really matters` ／ `lose sight of why you started`。
@@ -1140,6 +1143,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 sight（lose／of 留给她）
 
 - 2026-10-04 📝 新建 · 付息日 d 段重答 bank:521 [S3] · 她事后点名「lose sight of 也新建一个条目吧」· 原话 `can make you lose sight of things that are just as precious`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [4] · `Once work gets busy, many people lose sight of why they started in the first place.` —— lose sight of（整块点名首测）。首测 ⇒ 连对 1；下次点名降回 sight
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
