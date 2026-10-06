@@ -15329,15 +15329,17 @@ persuade 偏"让人做"）。
   最小改 `That viral restaurant made bank in its very first month.`　更好版 `… made absolute bank …`
   ❌ make bank 里的 bank 是俚语"一大笔钱"，不加冠词；加了 a 像"开了一家银行"
 
-### 367 · social media giant（社交巨头；⛔ social giant）
+### 367 · social media giant（社交巨头；social giant 带着公司名也成立）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `a social giant like Facebook`，media 又漏了，撤销毕业、连对清零）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 退池 ｜ 题型 词组
 
 **问题是什么**
 "XX 巨头" ＝ **行业名 ＋ giant**：a social media giant ／ a tech giant ／ a retail giant。
 社交这个行业叫 **social media**；social 单独放在名词前是"爱社交的／社会的"（a social person ＝ 爱社交的人）。
 ★ 与 #365（powerhouse）分工：本条考 giant 前面的行业名，那条考 powerhouse 这个词。
 判据一句话：giant 前面放的是行业名吗？"社交"这个行业 ⇒ social media。
+★ 10-05 她提异议「social giant 是可以的」成立：新闻里 the social giant 本来就是 Facebook／Tencent 这类公司的常见简称，
+　有公司名托着（a social giant like Facebook）不会被读成"爱社交的巨人" ⇒ 与 social media giant 是同级说法 ⇒ 退池①。
 
 **怎么发现的**
 2026-09-29 学习日 新题 bank:534：她写 `Whether you secure a position at a social giant like Tencent`。
@@ -15358,9 +15360,12 @@ persuade 偏"让人做"）。
   去掉「两个词 ＋ ⛔ 只用 social」，括号改中文释义；换成微博
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [10] · `A social media giant like WeiBo`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [10] · `An overseas social media giant` —— social media giant，media 没漏。连对 1 → 2 ⇒ **毕业**
-- 2026-10-05 ❌ 学习日 复检第 3 组 [5]（打包，题面"脸书这样的社交巨头"）· `a social giant like Facebook` —— "社交巨头"又落成 social giant，media 漏了 ⇒ **回潮**
+- 2026-10-05 ✅ 学习日 复检第 3 组 [5]（打包，题面"脸书这样的社交巨头"）· `a social giant like Facebook` —— "社交巨头"又落成 social giant，media 漏了 ⇒ **回潮** ⚠️ **本条已于 2026-10-05 改判为 ✅**
   最小改 `a social media giant like Facebook`
   ❌ "XX 巨头" ＝ 行业名 ＋ giant；"社交"这个行业叫 social media，social 单独放名词前是"爱社交的"
+- 2026-10-05 📝 改判 ＋ 退池 · 她提异议「social giant 是可以的」成立（§7 四问①：the social giant 在新闻里就是这类公司的常见简称，有公司名托着不歧义）
+  ⇒ 上一行 ❌ 改判 ✅、当天的回潮撤销（状态行回到 🎓，连对仍冻结在 10-02）
+  ⇒ 退池 · ① 同级说法：social giant 与 social media giant 换不换都行，中译英里测不出 ❌
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
