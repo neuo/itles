@@ -15309,38 +15309,6 @@ persuade 偏"让人做"）。
   ｜她问「新贵怎么说」⇒ up-and-coming 另建 #391
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `a powerhouse in Chinese basketball` —— powerhouse
 
-### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
-类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
-
-**问题是什么**
-**make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
-同一格里的邻居（别串）：make a fortune（发大财，偏正式）· make good money（挣得不错）
-判据一句话：口语里说"赚翻了"⇒ making (absolute) bank。
-
-**怎么发现的**
-2026-09-29 学习日 新题 bank:534：她写 `people working on large-language-model are making absolute bank(背一下)` —— 她点名要背。
-判重三步：
-　① dedup "make bank" ⇒ 零命中
-　② dedup "赚大钱" ⇒ 零命中
-　③ 保留新建
-
-**我错在哪**
-她的：用对了，点名要背（⭐ 不是纠错）
-找法：想说"赚翻了"，落 making absolute bank（bank 前面不加 a／the）。
-
-**题面**
-"今年做直播带货的那几个主播都赚翻了。"（"赚翻了"用 **bank** 说）
-
-- 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `people working on large-language-model are making absolute bank(背一下)`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
-  make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
-- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts are making absolute bank this year.`（living 另建 #376）
-- 2026-10-02 ✅ 学习日 在池第 2 组 [9] · `That boba shop right outside the school gate makes absolute bank every summer.` —— makes absolute bank，bank 前不加冠词。连对 1 → 2 ⇒ **毕业**
-- 2026-10-05 ❌ 学习日 复检第 3 组 [6]（题面"那家网红餐厅开业第一个月就赚翻了"）· `That viral restaurant made a bank in its very first month.` —— make bank 的 bank 前面加了 a ⇒ **回潮**
-  最小改 `That viral restaurant made bank in its very first month.`　更好版 `… made absolute bank …`
-  ❌ make bank 里的 bank 是俚语"一大笔钱"，不加冠词；加了 a 像"开了一家银行"
-
 ### 367 · social media giant（社交巨头；social giant 带着公司名也成立）
 类型 搭配 ｜ 新建 2026-09-29
 状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 退池 ｜ 题型 词组
@@ -16188,3 +16156,100 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [7] · `That manga series I used to read as a kid that's now completely out of print.` —— out of print。连对 1 → 2 ⇒ **毕业**
+
+### 394 · throw a tantrum（哭闹撒泼、大发脾气）
+类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
+
+**问题是什么**
+**throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
+`My son threw a tantrum in the supermarket.` ／ `She's throwing a tantrum because she can't have ice cream.`
+动词用 **throw**（have a tantrum 也对）。
+同一格里的邻居（别串）：have a meltdown（情绪彻底崩溃、大哭大闹）· throw a fit（同义，更随意）· lose one's temper（发火，多说大人）。
+判据一句话：小孩又哭又闹、撒泼打滚 ⇒ throw a tantrum；大人发火 ⇒ lose one's temper。
+★ 题型判整句：中文"哭闹／撒泼"映射得回 cry and scream／have a meltdown 一串，非点名 tantrum 不可 ⇒ 整句 ＋ 正向点名；
+　§6② 她说要学的块第一次出题整块点名（throw a tantrum），连对 ≥1 之后降回 lemma（tantrum），throw 留给她。
+
+**怎么发现的**
+2026-10-03 学习日 在池第 1 组 [5]（#383 题面"孩子哭闹的时候，你根本没法跟他讲道理。"）· 原话
+`When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+她写对了 throwing a tantrum，但自己标「这个词背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "tantrum" ⇒ 零命中
+　② 中文 dedup "哭闹"／"发脾气" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背一下」（块不在手边）　　目标：`throwing a tantrum`
+找法：说"孩子哭闹／撒泼"，先落 throw a tantrum。
+
+**题面**
+"我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **throw a tantrum** 说）
+
+- 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [8] · `… so he threw a huge tantrum on the mall floor.` —— threw a tantrum（首次出题整块点名）。连错 1 → 连对 1；下次点名降回 tantrum
+- 2026-10-05 ✅ 学习日 在池第 1 组 [2] · `A little boy at the supermarket threw a big tantrum on the floor …` —— 点名降到 tantrum，throw 自己补上。连对 1 → 2 ⇒ **毕业**
+
+### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
+类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 词组
+
+**问题是什么**
+**tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
+`win a tournament` ／ `a major tournament` ／ `enter a tournament`
+同一格里的邻居（别串）：match（其中一场，两方对打）· game（一局／一场，球类常说）· competition（比赛的总称）·
+contest（评比类：a singing contest）· championship（冠军赛，常做赛事名字）。
+判据一句话：一整个赛事、打好几轮决出冠军 ⇒ tournament；其中一场 ⇒ match。
+
+**怎么发现的**
+2026-10-03 学习日 在池第 2 组 [1]（#391 题面"他是乒乓球界的新贵，今年连赢了好几场大赛。"）· 原话
+`He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
+她写对了 tournaments，但自己标「这个背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "tournament"／"championship"／"competition" ⇒ 零命中
+　② 中文 dedup "锦标赛" ⇒ 零命中；"大赛" ⇒ 只命中 #391（今天的题面字串）⇒ 否；"比赛" ⇒ 🎓#378 trophy · 🎓#256 even if（题面字串，考点无关）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个背一下」（词不在手边）　　目标：`several major tournaments`
+找法：说"大赛／锦标赛"这种整个赛事，先落 tournament。
+
+**题面**
+"今年夏天的电竞大赛"（好几支队伍打好几轮、最后决出冠军的那种赛事）
+
+- 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [9] · `This summer's esports tournament.` —— tournament。连错 1 → 连对 1
+- 2026-10-05 ✅ 学习日 在池第 1 组 [3] · `the national university debate tournament` —— tournament。连对 1 → 2 ⇒ **毕业**
+
+### 396 · at stake（押在那儿、利害攸关：how much is at stake）
+类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
+状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
+
+**问题是什么**
+**at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
+`There's a lot at stake.` ／ `How much is at stake?` ／ `Our reputation is at stake.`
+⛔ 不能直接放名词前，也不能接在 how much 后面再另挂别的谓语（how much at stake it feels ✗）。
+同一格里的邻居（别串）：the stakes are high（stakes 当名词，"赌注很大"）· high-stakes（放名词前当形容词：a high-stakes exam）。
+判据一句话：用 at stake ⇒ 前面补 is／are；要放名词前 ⇒ 改用 high-stakes。
+★ 题型判整句：考点是 at stake 在句子里的位置（be 后面），孤立翻一个块永远对 ⇒ 整句 ＋ 正向点名 at stake。
+
+**怎么发现的**
+2026-10-03 学习日 新题 bank:504（P3 · What would you do if you did not receive a reply after sending out a message?）[S3] · 原话
+`It all comes down to how much at stake it feels.(at stake 要学下)`
+at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at stake 要学下」⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "at stake"／"stakes" ⇒ 零命中
+　② 中文 dedup "利害"／"关系重大" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`how much at stake it feels`　　正确：`how much is at stake`（想留"感觉上" ⇒ how high the stakes feel）
+找法：说出 at stake 之前，先确认前面有 is／are。
+
+**题面**
+"这次谈判关系重大，公司的未来都押在上面了。"（"押在上面"用 **at stake** 说）
+
+- 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
+  ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
+- 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**

@@ -6872,3 +6872,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **推送**：收尾直接推 origin/main（两条线 SKILL 已写入：开场 `git pull --ff-only origin main`、收尾 `git push origin main`）
 
 **下一场 ＝ 周期 10 · L1**：#397–#406 首测 ＋ #162 回潮 ＋ #394–#396 连对1；回看 bank:1326 · bank:521；新题 1 道
+
+## 2026-10-05（周一）· 口语 L1（周期 10 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 389 ＝ problems.md 28 ＋ graduated.md 361 ｜ 🎓 361（92.8%）｜ 未毕业 28 ｜ 可出题 18 ｜ 复检到期剩 9 ｜ ⚡ 累计 263 条、掉过 10（校准 4%）｜ 重答队列 63 / 未重答 44
+
+**五段**
+- ① 在池 2 组 14 题 / 14 条：**✅14 ❌0** ⇒ **毕业 3**（#394 #395 #396）；#397–#406 首测全中
+- ①b 复检 2 组 20 题 / 28 条：**✅27 ❌1** ⇒ #366 **回潮**（made a bank）；#367 原判 ❌，她提异议「social giant 是可以的」成立 ⇒ 改判 ✅ ＋ 退池
+- ② 回看 2 篇：bank:1326 · bank:521（`lookback --pending` 原样贴）
+- ④ 新题 bank:510（P2 · Describe a long-term goal/ambition）已发未答 ⇒ 她说累了收尾，不记账；下一场先做
+- 新建 6：#407 chalk · #408 a round of · #409 come to an agreement · #410 charity · #411 change out of · #412 braised
+
+**教练犯规**：#367 判 ❌ 回潮是假错（没先造母语句推翻自己），她提异议后改判
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄1
+
+**下一场 ＝ 周期 10 · L2**：新题先做 bank:510（不重抽）；在池 #407–#412 首测 ＋ #366 回潮 ＋ 连对1 一批；复检剩 9 条
