@@ -3664,7 +3664,7 @@ no 一路盖到 and 后面那半。两条解法：
 
 ### 103 · 不定式后置修饰，介词默认留在末尾（a box to put these things IN）
 类型 结构 ｜ 旧号 B175
-状态 连对1 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-23 · 她指定**（"这条毕业"）｜ 旧账 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-23 · 她指定**（"这条毕业"）｜ 旧账 ｜ 题型 整句
 
 **问题是什么**
 **不定式后置修饰名词时，介词默认留在末尾**：`a box to put these things **in**`。
@@ -3712,6 +3712,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `a box to put these things in`——介词留在末尾
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 结构 ⛔ 不许标词组）
   点名 a box to，句尾那个 in 留给她；换成充电线场景
+- 2026-10-06 ✅ 学习日 复检第 4 组 [1]（题面"我得找个箱子，把这些旧玩具都装进去"）· `I need to find a box to pack all these old toys into.` —— 介词 into 留在末尾
 
 ### 104 · bury yourself in sth（比喻义只配 in，不配 into）
 类型 搭配 ｜ 旧号 B181 ｜ ⭐ 她自产
@@ -3884,7 +3885,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 109 · enough X to go round（够分）
 类型 词组 ｜ 旧号 B192
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **enough X to go round** ＝ 够分：`There aren't enough jobs **to go around**.`（go round／go around 两拼都对）
@@ -3915,6 +3916,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检组 · 第 1 组（打包）· `jobs are not enough to go around` 块在（go round／go around 两拼都对）
   ｜ ⚠️ 顺带：默认句型是 There aren't enough jobs to go around.（不落号）
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `there aren't enough jobs to go around`
+- 2026-10-06 ✅ 学习日 复检第 4 组 [2]（题面"披萨只点了两个，十个人根本不够分"）· `We only got two pizzas, which definitely isn't enough to go around for ten people.` —— go around（go round 的美式说法）
 
 ### 110 · "没有 X" 的三种说法（口语默认走 I didn't have any…, so…）
 类型 结构 ｜ 旧号 B193
@@ -3950,7 +3952,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 113 · "都要/总是"那一层（always end up -ing／have to／it always takes）
 类型 结构 ｜ 旧号 B197
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **"都要／总是"那一层必须显式说出来**：always end up -ing ／ have to ／ it always takes ——
@@ -3984,6 +3986,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· I always end up queuing —— "都要"那一层显式说出来了
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `I always end up to queuing for half an hour every time I go.`——"都要"那层（always end up）落地了
   ｜同句 `end up to queuing` ❌ 不归本条 ⇒ 新建 #338（end up ＋ -ing）
+- 2026-10-06 ✅ 学习日 复检第 4 组 [3]（题面"我每次去超市，都会多买一堆根本用不上的东西"）· `Every time I go grocery shopping, I always end up buying a ton of stuff I don't even need.`
 
 ### 114 · It's less about X AND more about Y（配对词是 and，不是 but）
 类型 词组 ｜ 旧号 B198 ｜ ⭐ 她自产
@@ -4518,7 +4521,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 130 · can 才是默认，be able to 是备用（只在完成时/不定式/情态后才必须换）
 类型 语法 ｜ 旧号 B217
-状态 连对2 连错0 上次2026-09-13 ｜ **累错 4** ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **累错 4** ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
 
 **问题是什么**
 **can 才是默认，be able to 是备用**。
@@ -4564,10 +4567,11 @@ something to look forward **to** ／ a pen to write **with**。
   ★ 互斥写死：**"从来没能早起过" ⇒ #259（分词形式）／ 别的完成时句 ⇒ 本条（can vs be able to）。**
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `I can't drive. I'v not been able to get reach hime.`——第一句 can't、第二句 haven't been able to，两格都对（I'v／hime 拼写不算）
   ｜同句 `get reach him` ❌ 不归本条 ⇒ 新建 #339（reach sb 直接带宾语）
+- 2026-10-06 ✅ 学习日 复检第 4 组 [4]（题面"我不会游泳；这几个月我一直没能抽出时间去健身房"）· `I can't swim; over the past few months, I haven't been able to carve out(这个词组学下) time for the gym.` —— can't ／ haven't been able to（她标学 carve out ⇒ 另建 #417）
 
 ### 131 · go ＝ 在程度轴上移动（go too far／How far are you willing to go?）
 类型 词组 ｜ 旧号 B218
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 **go ＝ 在程度轴上移动**：far 的搭档永远是 **go** —— `How **far** are you willing to **go**?`
@@ -4598,6 +4602,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-08-23 ✅ 付息日 a 段 · `how far are you willing to go.`——一字不差，连续第二次 → **连对2，毕业**
 - 2026-09-05 ✅ 复检组 · 第 5 组（打包）· `how far are you willing to go`
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `how far are you willing to go`
+- 2026-10-06 ✅ 学习日 复检第 4 组 [5]（题面"为了减肥，你能做到哪一步？"）· `How far are you willing to go just to lose weight?`
 - 备注 同族整块背：go too far ／ go all the way ／ How far would you go? —— far 的搭档永远是 go
 
 ### 132 · 环路 ＝ ring road（❌ round road）
@@ -6084,7 +6089,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 174 · as … as it gets（用原级避开比较级形态）
 类型 词组 ｜ 旧号 B25
-状态 连对3 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-17** ｜ 题型 整句
 
 **问题是什么**
 **as … as it gets** ＝ 用原级避开比较级形态（"已经是最…的了"）：`running is **as simple as it gets**`。
@@ -6118,6 +6123,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组（打包）· `as simple as it gets`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ 不用比较级"，点名 as simple as it，句尾 gets 留给她；故意用过去的场景 —— 她掉过的正是跟着句子写成 got
+- 2026-10-06 ✅ 学习日 复检第 4 组 [6]（题面"那次露营的装备简单到不能再简单了…"）· `Our camping gear that time was as simple as it gets: just a tent and a sleeping bag.`
 - 备注 边界：as…as it gets ＝"已经是最…的了"，不等于"尽量…"（那是 as…as possible）
 
 ### 175 · grow vs grow up（grow up 只用于人长大成人）
@@ -10565,7 +10571,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 280 · make a huge difference（差别很大／很管用）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-29**（连对2 ＝ 08-27 ＋ 08-29）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-29**（连对2 ＝ 08-27 ＋ 08-29）｜ 题型 整句
 　　★★ **2026-08-30 撤销 08-28 的 ❌**（她当天裁定 `makes a huge different` ＝ 手滑，§2.1 拼写不算错）
 　　　 ⇒ 08-27 的连对1 没被清零，08-29 那次就已经是连对2 ⇒ **毕业日回填到 2026-08-29**。
 　　　 08-30 那次 ✅ 相应降为**毕业后留痕**（自发命中证据，不推进数字）。
@@ -10661,6 +10667,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ different"，点名 make，a ＋ 形容词 ＋ difference 留给她；换成多睡一小时场景
+- 2026-10-06 ✅ 学习日 复检第 4 组 [7]（题面"每天多睡一个小时，对我白天的状态影响特别大"）· `Getting an extra hour of sleep every night makes a world of difference to my daytime energy.` —— make a world of difference，同型口语块，合法且贴题面
 
 
 ### 281 · step back（往后退一步，不插手）
@@ -12030,7 +12037,7 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
 
 ### 303 · sb is the kind of person ＋ 关系从句（形容一个人是"那种人"）
 类型 结构 ｜ 新建 2026-08-26（**她当场指定**）
-状态 连对2 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-28**（连对2 · **主语位和宾语位两半都验过**）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-28**（连对2 · **主语位和宾语位两半都验过**）｜ 题型 整句
 
 **问题是什么**
 **sb is the kind of person ＋ 关系从句**（形容一个人是"那种人"）。
@@ -12098,11 +12105,12 @@ break 当**不及物**动词 ＝ 那个东西自己坏掉／出故障，主语�
   （同场 priming 下的复用，不算独立命中）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（她原话："1-4 直接过"）
 - 2026-09-15 ✅ 新题 bank:1059 自发命中 · `he's the kind of person everyone turns to`（the kind of person ＋ 关系从句）
+- 2026-10-06 ✅ 学习日 复检第 4 组 [8]（题面"他就是那种谁都信得过的人"）· `He's just the kind of person who everyone feels they can trust.` —— 框架 ＋ 宾语位从句
 
 
 ### 304 · turn to sb (for sth)（有事去找某人／求助）
 类型 词组 ｜ 新建 2026-08-26（**她当场指定**）
-状态 连对2 连错0 上次2026-09-15 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-28**（连对2）｜ 题型 整句
 
 **问题是什么**
 **turn to sb (for sth)**（有事去找某人／求助）。
@@ -12173,6 +12181,7 @@ turn to sb ＝ 遇到麻烦时**去找某人**（求助、要主意、要支持�
 - 2026-09-15 ✅ 新题 bank:1059 自发命中 · `he's the kind of person everyone turns to`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 turn，to 留给她；换成心情不好找姐姐场景（不带"东西坏了"，与 #302 互斥）
+- 2026-10-06 ✅ 学习日 复检第 4 组 [9]（题面"我心情不好的时候，第一个想去找的就是我姐"）· `When I'm feeling down, the very first person I turn to is my sister.`
 
 
 ### 305 · stay patient（keep ＋ 形容词只跟一小撮词，patient 不在里面）

@@ -1382,6 +1382,34 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
 
+### 417 · carve out time (for sth)（挤出／抽出时间）
+类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
+同一格里的邻居（别串）：find time（找时间，大白话）· make time for（专门为某事留时间）· squeeze in（把一件事硬塞进日程：squeeze in a workout）。
+判据一句话：说"挤出／抽出时间做某事" ⇒ carve out time for ＋ 名词 ／ to ＋ 动词。
+★ 题型判整句："挤出时间"翻成 find time／make time 都合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-06 学习日 复检第 4 组 [4]（#130 题"我不会游泳；这几个月我一直没能抽出时间去健身房"）· 原话
+`I can't swim; over the past few months, I haven't been able to carve out(这个词组学下) time for the gym.`
+她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "carve"／"make time"／"find time" ⇒ 零命中
+　② 中文 dedup "抽出时间"／"挤出时间"／"抽时间" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」　　目标：`carve out time for the gym`
+找法："抽出时间／挤出时间"，先落 carve out time，后面接 for ＋ 名词或 to ＋ 动词。
+
+**题面**
+"工作再忙，我每周也会挤出一个晚上陪我爸妈吃饭。"（"挤出"用 **carve out** 说）
+
+- 2026-10-06 ❌ 首犯 · 学习日 复检第 4 组 [4]（#130 题里）· 她标「这个词组学下」· 原话 `I haven't been able to carve out(这个词组学下) time for the gym.`
+
 ## 迁移说明（2026-08-18）
 
 ```
