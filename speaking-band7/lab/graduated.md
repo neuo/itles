@@ -5612,6 +5612,55 @@ something to look forward **to** ／ a pen to write **with**。
   一句里放"一家三口"（全体 the）和"我们当中有两个"（部分，不加 the），点名 the three of，of 后面填 us 留给她（她掉过的是 the three of my family）；换成海边晒伤场景
 - 备注 person 的复数口语一律 people
 
+### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
+类型 搭配 ｜ 旧号 B251
+状态 连对2 连错0 上次2026-10-06 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06；10-04 回潮后第二次毕业）｜ 题型 词组
+
+**问题是什么**
+一道题面覆盖两个成员：
+· **写／画出来的 ＋ IN**：written **in** pencil ／ spelt out **in** sweets
+· **材料 ＋ made OF ／ OUT OF**：made **of** wood
+同一格里的邻居（别串）：08-17 她把 spell out 和 made out of **串台**了（`spelt out OF sweets`）——
+两个块各有各的介词，⛔ 不能互相借。
+判据一句话：说"用什么写／画的" ⇒ in；说"用什么材料做的" ⇒ of／out of。
+
+**怎么发现的**
+旧 B 表迁移（B251，2026-08-18）；最早记录 2026-08-17 ❌ · 触发原话 `spelt out OF sweets`。
+2026-08-19 ✅ 两个介词都中；2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`
+⇒ 她当场指定毕业（"这题毕业了"）。
+2026-09-05 复检 ✅ in pencil ／ made of wood，两个成员都对。
+
+**我错在哪**
+她的：`spelt out OF sweets`（2026-08-17）　　正确：`spelt out **in** sweets`
+找法：先分一刀 —— 这是"写／画上去的"还是"拿材料做的"？写画用 in，材料用 of／out of。
+
+**题面**
+题面（2 句，两个成员各一句）
+　① "蛋糕上那行字是用巧克力酱写的"（字是拿什么写上去的）
+　② "这个玩具屋是纸板做的"（拿什么材料做的）
+
+**成员出题账**
+① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-05 ✅ · 10-06 ✅
+② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）· 10-05 ✅ · 10-06 ✅
+★ 08-17 那一次只测到成员 ①。
+
+- 2026-08-17 ❌ `spelt out OF sweets`（把 spell out 和 made out of 串台）
+- 2026-08-19 ✅ `written in pen（该 pencil，但介词对）` ＋ `made of wood`——两个介词都中
+- 2026-08-20 ✅ `the letter was written in pencil. the box is made of wood.`——两个介词都对，pencil 也对了
+- 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· in pencil（写画出来的用 in）／made of wood（材料用 of）
+  —— 两个成员都对
+- 2026-09-18 📝 题面整改：补（第一句 ⛔ 不许用 with）· 复检组发题前审核（§6.5 第 7 项）
+  `written with a pencil` 合法，绕开 written in pencil ⇒ 补排除项；made from wood 仍在"made ＋ 材料介词"规则内，判 ✅
+- 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-09-20 📝 学习日 在池第 1 组（#98 句2）· 自发命中留痕 · `spelled out with sweets and biscuits`（🎓 冻结，只留痕、不推进数字）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
+  去掉"⛔ 不许用 with"，题面改成合并条的编号句，各配中文释义；换成巧克力酱写字／纸板玩具屋
+- 2026-10-04 ❌ 付息日 a2 复检第 3 组 [3]（#98 题里，题面"这个果盘是用苹果和葡萄摆出来的"）· `This fruit platter is spelt out in apples and grapes.` —— 果盘是材料／组成那一边，借了"写字 spelt out in"的块 ⇒ **回潮**
+  最小改 `This fruit platter is made up of apples and grapes.`
+  ❌ spell out 只说拼出字／字母；拿东西摆成、组成 ⇒ made up of ／ made of ／ made with。先分一刀：拼出来的是字吗？
+- 2026-10-05 ✅ 学习日 在池第 1 组 [1]（两句覆盖）· `the big words written on the blackboard in red chalk` ／ `a planter made out of an old tire` —— 写出来的 ＋ in ／ 材料 ＋ out of，两个成员都对。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [1]（合并条两句）· ① `the message written on the mirror in lipstick` ② `a lantern made out of plastic bottles` —— written … in lipstick ／ made out of 两个成员都对。连对 1 → 2 ⇒ **毕业**
+
 ### 163 · "愣住了／说不出话"（I just stood there.／I froze.）
 类型 词组 ｜ 旧号 B252
 状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 退池 ｜ 题型 词组
@@ -16273,3 +16322,281 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
   ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
 - 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**
+
+### 397 · pull an all-nighter（熬通宵）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+**pull an all-nighter** ＝ 熬一整个通宵（复习、赶活、玩到天亮）；几次就 `pull three all-nighters`。
+同一格里的邻居（别串）：stay up late（熬夜，睡得晚，不一定到天亮）· stay up all night（同义大白话）。
+判据一句话：一整夜没睡 ⇒ pull an all-nighter；只是睡得晚 ⇒ stay up late。
+★ 题型判整句：stay up all night 也合法，中文块映射不回唯一的英文块 ⇒ 不能出词组题，整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [2]（#372 题"演唱会的票太难抢了，我朋友熬夜抢了三次才弄到手"）· 原话
+`my friends pulled three all-nighter(这个词组学一下) before he finally got his hand on a pair.`
+她自己标「这个词组学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "all-nighter" ⇒ 零命中
+　② 中文 dedup "通宵" ⇒ 零命中；"熬夜" ⇒ 只命中 🎓#265（考点 good for／bad for，题面碰巧有"熬夜"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`pull an all-nighter`
+找法：想说"熬了个通宵"，先落 pull an all-nighter。
+
+**题面**
+"考试前一晚我熬了个通宵复习。"（"熬了个通宵"用 **pull an all-nighter** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 all-nighter（pull／an 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#372 题里）· 她标「这个词组学一下」· 原话 `my friends pulled three all-nighter(这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [5] · `I pulled an all-nighter cramming for the exam the night before it.` —— pulled an all-nighter（整块点名首测）。连错 1 → 连对 1；下次点名降回 all-nighter
+- 2026-10-06 ✅ 学习日 在池第 1 组 [3]（点名降到 all-nighter）· `I pulled an all-nighter last week to rush my paper out.` —— pull／an 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+**X is on the line** ＝ X 押在这儿了，结果不好 X 就没了（工作、名声、钱、公司的未来）：`My job is on the line.`
+同一格里的邻居（别串）：at stake（#396，There's a lot at stake：利害攸关）· at risk（有风险）。
+判据一句话：让被押的东西当主语 ＋ is on the line。
+★ 与 #396（at stake）分工：两个块意思相近、都对 ⇒ 题面各自正向点名自己的词，互不串（互斥）。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [10]（#396 题"这次谈判关系重大，公司的未来都押在上面了"）· 原话
+`There's so much at stack in this negotiate; the entire future of the company is on the line（这个词组学一下） .`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "on the line" ⇒ 零命中
+　② 中文 dedup "押"／"风险" ⇒ 命中 #396（at stake，另一个块 ⇒ 两条，题面互斥）· 🎓#85（take on risk，冒风险，另一个块）· 🎓#134 #261（只是正文里带"风险"字样）⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`X is on the line`
+找法：想说"…押上了／饭碗保不住"，让被押的东西当主语 ＋ is on the line。
+
+**题面**
+"这场比赛要是输了，教练的饭碗就保不住了。"（"饭碗保不住"用 **on the line** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 她标「这个词组学一下」· 原话 `the entire future of the company is on the line（这个词组学一下）`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [6] · `Nothing else can go wrong with this project, or his job is on the line.` —— his job is on the line。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [4] · `If he loses this lawsuit, his entire company is on the line.` —— 被押的东西当主语。连对 1 → 2 ⇒ **毕业**
+
+### 399 · negotiation（谈判，名词）／negotiate（动词）
+类型 词汇 ｜ 新建 2026-10-04
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+**negotiate** 是动词（`We negotiated for hours.`）；**negotiation** 是名词（`this negotiation` · `rounds of negotiations` · `salary negotiations`）。
+同一格里的邻居（别串）：talks（口语常说 trade talks／peace talks，也是名词）。
+判据一句话：前面有 this／the／a、或者要当主语／宾语 ⇒ 名词 negotiation。
+★ 题型判整句：考点是词性落在哪个位置，孤立翻"谈判"永远是名词 ⇒ 整句，让名词位置在句子里现形。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [10]（#396 题"这次谈判关系重大，公司的未来都押在上面了"）· 原话
+`There's so much at stack in this negotiate; …`
+this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清单里，按 🎓#357 logic／logical 先例建号）。
+判重三步：
+　① 目标形式 dedup "negotiat" ⇒ 零命中
+　② 中文 dedup "谈判" ⇒ 只命中 #396（题面场景，考点 at stake）⇒ 否
+　③ 词性同类 🎓#357（logic／logical）· 🎓#232（honest／honesty）—— 都是别的词 ⇒ 否 ⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`in this negotiate`　　正确：`in this negotiation`
+找法："谈判"前面挂了 this／the，就落名词 negotiation。
+
+**题面**
+"这次谈判拖了整整三个月。"（"谈判"用 **negotiate** 这个词说）
+★ 点名给 lemma negotiate，名词形式留给她；"这次谈判"当主语 ⇒ this 后面只能接名词 negotiation（10-05"好几轮谈判"被 rounds of negotiating 合法绕开）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 原话 `There's so much at stack in this negotiate`
+  最小改 `There's so much at stake in this negotiation`
+  ❌ negotiate 是动词；this 后面要名词 negotiation
+- 2026-10-05 ✅ 学习日 在池第 1 组 [7] · `After several rounds of negotiating, …` —— "谈判"落在 of 后面当名词用，动名词 negotiating 合法（§3.3：合法即 ✅）；名词 negotiation 没逼出来 ⇒ 种子换成"这次谈判拖了整整三个月。"（this 后面只能接名词）。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [5]（新种子"这次谈判拖了整整三个月"）· `This negotiation dragged on for three full months.` —— this 后面落名词 negotiation。连对 1 → 2 ⇒ **毕业**
+
+### 400 · come here just to ＋ 动词（专门来做某事；⛔ people here just to …漏了 come）
+类型 结构 ｜ 新建 2026-10-04
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+"很多人专门为他来（吃饭）" ＝ `People come here just to try his food.`（大老远专门来：`come all the way here just to …`）
+中文的"来／去"很轻、容易被吞；英语这半句必须有动词 come／go，just to ＋ 动词挂在后面说目的。
+同一格里的邻居（别串）：🎓#43 come to your city（巡演到某地的块）。
+判据一句话：说"专门来…"，句子里有没有 come？没有 ⇒ 这半句没谓语。
+
+**怎么发现的**
+2026-10-04 付息日 a 段在池第 1 组 [5]（#391 题"这家店的主厨是个正在冒头的年轻厨师，很多人专门为他来吃饭"）· 原话
+`The head chef here is an up-and-coming young talent, and people here just to try his food.`
+后半句漏了 come，整句没有谓语 ⇒ ❌（按 #385「漏 was 整句没谓语」先例，落到具体句型建号）。
+判重三步：
+　① 目标形式 dedup "just to"／"come here"／"come all the way" ⇒ 命中 🎓#43（come to your city：巡演到某地，另一个块）· 🎓#363（只是历史里出现 just to 字串，考点 appeal to）⇒ 否
+　② 中文 dedup "专门" ⇒ 命中 🎓#57（date night，题面里有"专门"二字）· #12（形态类·时态，正文带"专门"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`people here just to try his food`　　正确：`people come here just to try his food`
+找法：说"专门来…"，先落 come，再接 just to ＋ 动词。
+
+**题面**
+"很多游客专门来这条老街拍照。"（"专门来"用 **just to** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#391 题里）· 原话 `people here just to try his food`
+  最小改 `people come here just to try his food`
+  ❌ "专门为他来"的"来"被吞了 ⇒ 这半句没有动词
+- 2026-10-05 ✅ 学习日 在池第 1 组 [8] · `A lot of tourists visit this historic street just to snap some photos.` —— 有动词 visit 再接 just to，没漏谓语。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [6] · `My friend flew in from Shanghai just to catch this concert.` —— 有动词 flew in 再接 just to。连对 1 → 2 ⇒ **毕业**
+
+### 401 · fruit platter（果盘／水果拼盘）
+类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
+
+**问题是什么**
+**fruit platter** ＝ 切好摆在大浅盘里的水果拼盘（派对、饭后端上来的那种）；platter ＝ 拼盘用的大浅盘：a cheese platter ／ a seafood platter。
+同一格里的邻居（别串）：a plate of fruit（一盘水果，大白话也对）· tray（托盘）。
+判据一句话：一大盘拼好摆好的 ⇒ platter；就是一盘 ⇒ a plate of。
+★ 词组题判法：a plate of fruit 合法且贴题 ⇒ 照判 ✅；中文写"拼盘"把语境压向 platter。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [3]（#98 题"这个果盘是用苹果和葡萄摆出来的"）· 原话
+`This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
+她自己标「这个词组背一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "platter" ⇒ 零命中
+　② 中文 dedup "果盘" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组背一下」（词不在手边）　　目标：`a fruit platter`
+找法：说"果盘／拼盘"，先落 platter。
+
+**题面**
+"生日派对上端出来的一大盘水果拼盘"（切好摆在大浅盘里、五颜六色的那种）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [3]（#98 题里）· 她标「这个词组背一下」· 原话 `This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [9] · `a giant fruit platter served at the birthday party` —— fruit platter。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [7] · `a free fruit platter on the house（这个词组学一下) after dinner.` —— fruit platter。连对 1 → 2 ⇒ **毕业**（她标学 on the house ⇒ 另建 #413；free 与 on the house 叠用进 diff-2）
+
+### 402 · pull off ＋ 难事（办成、搞定）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+**pull sth off** ＝ 把一件难办的事办成了（婚礼、演出、惊喜派对、一桌大菜）：`They pulled it off.` ／ `pull off a surprise party`。
+同一格里的邻居（别串）：manage to do（大白话"设法做成"）· carry out（执行计划，偏正式）。
+判据一句话：强调"这事挺难、居然办成了" ⇒ pull off；宾语是代词放中间 pull it off。
+★ 题型判整句：manage to 也合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [4]（#340 题"会做饭是一回事；再往上一档，是能张罗出一桌像样的年夜饭"）· 原话
+`Knowing how to cook is one thing; a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "pull off" ⇒ 零命中
+　② 中文 dedup "搞定" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`pull off ＋ 难事`
+找法：说"居然办成了／搞定了"，先落 pull off。
+
+**题面**
+"只有一周时间准备，他们居然把这场婚礼办成了。"（"办成"用 **pull off** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 pull（off 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [4]（#340 题里）· 她标「这个词组学一下」· 原话 `a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast`
+- 2026-10-05 ✅ 学习日 在池第 1 组 [10] · `With only one week to prepare, they actually pulled off the wedding.` —— pulled off（整块点名首测）。连错 1 → 连对 1；下次点名降回 pull
+- 2026-10-06 ✅ 学习日 在池第 1 组 [8]（点名降到 pull）· `He actually managed to pull off such a tough magic trick on his first time on stage.` —— off 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 403 · squeeze on(to) ＋ 车（挤上车）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
+
+**问题是什么**
+**squeeze on** ／ **squeeze onto the train** ＝ 人多、硬挤上车；挤进去 ＝ squeeze in ／ squeeze into a car。
+同一格里的邻居（别串）：🎓#108 packed（车厢人多的状态）· get on（上车，不带"挤"）。
+判据一句话：说"挤上去"这个动作 ⇒ squeeze on(to)；说"车厢很挤"的状态 ⇒ packed。
+★ 词组题判法：cram onto 合法且贴题 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-04 付息日 a2 复检第 3 组 [9]（#60 题"早高峰坐地铁的话，基本都挤不上去"）· 原话
+`If you take the subway during peak morning hours, you can barely squeeze on.(这个词组学一下)`
+她把「这个词组学一下」标在句末 squeeze on 后面 ⇒ 按 squeeze on 建号，§2③ 判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "squeeze" ⇒ 零命中
+　② 中文 dedup "挤" ⇒ 命中 🎓#108 packed（状态，不是动作）· 🎓#107 jammed（车堵）· 🎓#311（V one's way ＋ 方向的结构）· 🎓#212（压缩形容词出口）⇒ 都不是"挤上车"这个块 ⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`squeeze on(to) ＋ 车`
+找法："挤上／挤进"先落 squeeze。
+
+**题面**
+"晚高峰好不容易才挤上公交"（人太多，侧着身子硬塞进车厢）
+
+- 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [9]（#60 题里）· 她标「这个词组学一下」· 原话 `you can barely squeeze on.(这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [1] · `I barely managed to squeeze onto the bus during evening rush hours.` —— squeeze onto the bus。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [9]（题面"早高峰硬挤上一节塞满人的地铁"）· `squeezing into a crowded subway car during the morning rush hour` —— 题面是"一节"车厢 ⇒ squeeze into a car（正文本来就收）。连对 1 → 2 ⇒ **毕业**
+
+### 404 · overly ＋ 形容词（过度…、过于…）
+类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+**overly** ＋ 形容词 ＝ 过度、过于（说"超出合适的那个度"）：overly ambitious ／ overly cautious ／ overly protective。
+同一格里的邻居（别串）：too ＋ 形容词（太…，口语最常用）· over- 前缀拼成一个词的（overprotective ／ overworked）。
+判据一句话：说"过度／过于 X" ⇒ overly X（或 too X）；已经拼成一个词的那几个用 over-。
+★ 题型判整句：too X ／ overprotective 都合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3 · Is it good for a person to be ambitious?）[S3] · 原话
+`But being overly（过度学一下) ambitious can make you lose sight of things …`
+她自己标「过度学一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "overly"／"too ambitious"／"ambitious" ⇒ 零命中
+　② 中文 dedup "过于" ⇒ 零命中；"过度" ⇒ 命中 🎓#50 #134 #148 #263 #319 #9 #265（都只是正文里写着"过度泛化"，考点不是这个词）⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「过度学一下」（词不在手边）　　目标：`overly ＋ 形容词`
+找法：想说"过度／过于…"，先落 overly ＋ 形容词。
+
+**题面**
+"有些家长对孩子保护过度，什么都不让他们自己做。"（"保护过度"用 **overly** 说）
+
+- 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「过度学一下」· 原话 `But being overly（过度学一下) ambitious`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [2] · `Some parents are overly protective of their kids, never letting them do anything on their own.` —— overly protective of。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [10] · `He is overly critical of his own work and never satisfied no matter how much he tweaks(这个词学下） it.` —— overly critical。连对 1 → 2 ⇒ **毕业**（她标学 tweak ⇒ 另建 #414）
+
+### 405 · just as X, if not more so（同样 X，甚至更 X）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+
+**问题是什么**
+比较时先说"一样…"，再补"甚至更…"：`Family is just as important as work, if not more so.` —— so 指回前面的形容词。
+同一格里的邻居（别串）：as good as, if not better than（"不比…差，甚至更好"）· even more ＋ 形容词（直接说"更…"）。
+判据一句话：前面是 as ＋ 形容词 ⇒ 补 if not more so；口语里光说 if not more 也能听到（不算错）。
+★ 题型判整句：块要挂在 just as X 后面才现形 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3）[S3] · 原话
+`… lose sight of things that are just as precious, if not more（这个词组学一下)—like everyday interactions …`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）；更好版补成 if not more so（⚠️，不算错）。
+判重三步：
+　① 目标形式 dedup "if not"／"more so" ⇒ 零命中
+　② 中文 dedup "甚至更" ⇒ 只命中 🎓#290（收尾块 for totally different reasons，正文里带"甚至更"字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`just as precious, if not more`（自己标学）　　目标：`just as precious, if not more so`
+找法："一样…甚至更…"，先说 just as X，再补 if not more so。
+
+**题面**
+"陪孩子的时间跟赚钱一样重要，甚至更重要。"（"甚至更重要"用 **if not more so** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 if not（more so 留给她）
+
+- 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [3] · `Sleep is just as important as diet, if not more so.` —— if not more so（整块点名首测）。连错 1 → 连对 1；下次点名降回 if not
+- 2026-10-06 ✅ 学习日 在池第 2 组 [1]（点名降到 if not）· `Shopping for clothes online is just as convenient as buying in-store, if not more so.` —— more so 自己补上了。连对 1 → 2 ⇒ **毕业**

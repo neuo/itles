@@ -8,7 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-10-05 · 口语 L1（周期 10 第 1 个学习日）· 已收尾**
+🆕🆕🆕 **2026-10-06 · 口语 L2（周期 10 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **17 题 / 17 条 ✅16 ❌1**；复检 2 组 **19 题 / 20 条 ✅20 ❌0**（在池空出 1 组下溢给复检；今天到期全部出完）
+  —— 🎓 **毕业 10 条**（#162 made of／written in · #397 pull an all-nighter · #398 on the line · #399 negotiation · #400 come here just to · #401 fruit platter · #402 pull off · #403 squeeze onto · #404 overly · #405 if not more so）
+  —— 🟠 #366 make bank 连错 2（又写成 made a bank：带 absolute 时不加 a，光秃秃 bank 才加）
+  　　 ⇒ 全档 **400** ＝ problems 29 ＋ graduated **371**（92.8%）
+  —— 🆕 **新建 11 条** #413 on the house · #414 tweak · #415 make it through to · #416 gala · #417 carve out time · #418 sit on · #419 grind away · #420 burnt out · #421 support yourself · #422 day in, day out · #423 job insecurity
+  —— 回看 无；新题 bank:510（P2 长久目标）：0 处真错 · 2 处 ⚠️（job insecurity · support myself）· 她标学 5 处
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 10⇄0 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · L3**：#413–#423 首测 ＋ #366 ＋ 连对1 一批 7 条；回看 bank:510；新题 1 道
+
+🆕🆕 **2026-10-05 · 口语 L1（周期 10 第 1 个学习日）· 已收尾**
   —— 在池 2 组 **14 题 / 14 条 ✅14 ❌0**；复检 2 组 **20 题 / 28 条 ✅27 ❌1**（在池空出 1 组下溢给复检；复检到期 37 条出了 28 条，剩 9 条）
   —— 🎓 **毕业 3 条**（#394 throw a tantrum · #395 tournament · #396 at stake）｜ 🟠 **回潮 1 条** #366（made a bank：bank 前加了冠词）
   —— ↩️ **改判 1 条** #367：她提异议「social giant 是可以的」成立 ⇒ ✅、撤销回潮、退池①

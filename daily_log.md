@@ -6889,3 +6889,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄1
 
 **下一场 ＝ 周期 10 · L2**：新题先做 bank:510（不重抽）；在池 #407–#412 首测 ＋ #366 回潮 ＋ 连对1 一批；复检剩 9 条
+
+## 2026-10-06（周二）· 口语 L2（周期 10 第 2 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 400 ＝ problems.md 29 ＋ graduated.md 371 ｜ 🎓 371（92.8%）｜ 未毕业 29 ｜ 可出题 19 ｜ 今天到期剩 0 ｜ ⚡ 累计 263 条、掉过 10（校准 4%）｜ 重答队列 63 / 未重答 44
+
+**五段**
+- ① 在池 2 组 17 题 / 17 条：**✅16 ❌1** ⇒ **毕业 10**（#162 #397–#405）；#366 make bank 又写成 made a bank ⇒ 连错 2
+- ①b 复检 2 组 19 题 / 20 条：**✅20 ❌0**
+- ② 回看：无（51 篇全部已回看）
+- ③ 新题 bank:510（P2 · Describe a long-term goal/ambition）：0 处真错 · ⚠️ company instability → job insecurity · sustain myself → support myself · 她标学 5 处
+- 新建 11：#413 on the house · #414 tweak · #415 make it through to · #416 gala · #417 carve out time · #418 sit on · #419 grind away · #420 burnt out · #421 support yourself · #422 day in, day out · #423 job insecurity
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 10⇄0
+
+**下一场 ＝ 周期 10 · L3**：在池 #413–#423 首测 ＋ #366 ＋ 连对1 7 条；回看 bank:510；新题 1 道（跑 pick_question.py）
