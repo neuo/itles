@@ -1035,7 +1035,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 405 · just as X, if not more so（同样 X，甚至更 X）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 比较时先说"一样…"，再补"甚至更…"：`Family is just as important as work, if not more so.` —— so 指回前面的形容词。
@@ -1062,6 +1062,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
 - 2026-10-05 ✅ 学习日 在池第 2 组 [3] · `Sleep is just as important as diet, if not more so.` —— if not more so（整块点名首测）。连错 1 → 连对 1；下次点名降回 if not
+- 2026-10-06 ✅ 学习日 在池第 2 组 [1]（点名降到 if not）· `Shopping for clothes online is just as convenient as buying in-store, if not more so.` —— more so 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -1096,7 +1097,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **chalk** ＝ 粉笔（不可数，说材料）：write in chalk ／ red chalk；数根数用 a piece of chalk ／ two sticks of chalk。
@@ -1120,10 +1121,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "老师随手拿起一根粉笔在黑板上画了个圈"（教室里写黑板用的那种白色小棍）
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [1]（#162 题里）· 她标「这个单词背一下」· 原话 `written on the blackboard in red chalk（这个单词背一下)`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [2] · `The teacher picked up a piece of chalk and casually drew a circle on the board.` —— a piece of chalk。连错 1 → 连对 1
 
 ### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **round** ＝ 一轮（谈判、面试、比赛、投票、一圈酒）：several rounds of talks ／ the second round of interviews ／ a round of drinks。
@@ -1148,10 +1150,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "我进了第二轮面试，下周还要再面一次。"（"第二轮"用 **round** 说）
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「学下，老是想用 turn」· 原话 `After several rounds（学下，老是想用 turn） of negotiating`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [3] · `I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.` —— the second round of interviews。连错 1 → 连对 1（她标学 made it through to ⇒ 另建 #415）
 
 ### 409 · come to an agreement (on sth)（达成一致）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **come to an agreement** ＝ 双方谈下来、达成一致；谈的事用 on 挂后面：come to an agreement on the price。
@@ -1177,10 +1180,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 agreement（come to／on 留给她）
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「这个词组学一下」· 原话 `both sides finally came to an agreement(这个词组学一下) on the price`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [4] · `After negotiating with the landlord for a while, we finally came to an agreement on the rent.` —— came to an agreement on the rent。连错 1 → 连对 1（下次点名降回 agreement）
 
 ### 410 · charity（慈善／慈善机构）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **charity** ＝ 慈善；也指一家慈善机构（可数）：a charity ／ charity work（做慈善）／ a charity event（慈善活动）／ give money to charity（捐给慈善）。
@@ -1204,10 +1208,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "公司年底办的慈善晚会"（为了给困难的人筹钱办的那种活动）
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 3 组 [3]（#363 题里）· 她说「慈善这个词又忘了」· 原话 `Some charity ads appeal directly to your emotions …(慈善这个词又忘了)`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [5] · `The company's year-end charity gala(这个词学一下).` —— charity。连错 1 → 连对 1（她标学 gala ⇒ 另建 #416）
 
 ### 411 · change out of ＋ 衣服（把…换下来）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **change out of sth** ＝ 把身上这套换下来：change out of my work clothes ／ change out of these wet clothes。
@@ -1233,10 +1238,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 change（out of 留给她）
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [2]（#374 题里）· 她标「这个词组可以学下」· 原话 `I couldn't be bothered to even change out of（这个词组可以学下） my clothes`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [6] · `The moment I got home, I immediately changed out of my soaked clothes.` —— changed out of。连错 1 → 连对 1（下次点名降回 change；immediately 与 The moment 叠用进 diff-2）
 
 ### 412 · braised（红烧的／焖炖的）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **braised** ＝ 先煎再加汤汁小火焖到入味的做法：braised pork（红烧肉）／ braised beef（红烧牛肉）。
@@ -1260,6 +1266,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "我最拿手的一道菜是红烧牛肉"（酱油汤汁里小火焖到入味的那种做法）
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [6]（#348 题里）· 她标「这个词背下」· 原话 `My grandma's braised（这个词背下） pork`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [7] · `My signature dish is braised beef.` —— braised beef。连错 1 → 连对 1
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
@@ -1317,6 +1324,63 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "方案大体不错，开会前再稍微改改就行。"（"稍微改改"用 **tweak** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
+
+### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
+类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
+同一格里的邻居（别串）：make it to（到了、赶上：make it to the final 也能说，不强调"一关关过"）· get through（过了某一轮：I got through the first round）· go through to（英式体育报道：go through to the semi-finals）。
+判据一句话：说"闯进／晋级到哪一轮" ⇒ make it through to ＋ 那一轮；只说"过了这一关" ⇒ get through ＋ 这一轮。
+★ 题型判整句："闯进决赛"翻成 reached／got into the final 都合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-06 学习日 在池第 2 组 [3]（#408 题"我进了第二轮面试，下周还要再面一次"）· 原话
+`I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "make it"／"made it" ⇒ 命中 🎓#80（than ever）· 🎓#288（once 句型）· 🎓#299（not much of）—— 只是历史句里带这两个词 ⇒ 否；dedup "through to" ⇒ 命中 🎓#339（reach sb，正文邻居 get through to sb ＝ 打通电话）· 🎓#390（get through ＋ 书 ＝ 啃完）—— 都不是"晋级" ⇒ 否
+　② 中文 dedup "晋级" ⇒ 零命中；"进了" ⇒ 命中 🎓#368 land a job 等，正文带"进了"二字的别的考点 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」　　目标：`make it through to the second round`
+找法："进了下一轮／闯进决赛"，先落 make it through to。
+
+**题面**
+"我们队一路闯进了决赛。"（"闯进"用 **make it through to** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 make it（through to 留给她）
+
+- 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [3]（#408 题里）· 她标「这个词组学一下」· 原话 `I made it through to（这个词组学一下) the second round of interviews`
+
+### 416 · gala（盛大的晚会／晚宴）
+类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
+同一格里的邻居（别串）：party（泛泛的聚会）· banquet（宴会，重点在吃）· ceremony（仪式、典礼）· fundraiser（筹款活动，不一定是晚会）。
+判据一句话：隆重、穿礼服、常带筹款的晚会 ⇒ gala；朋友聚一聚 ⇒ party。
+★ 题型判整句："盛大的晚会"翻成 a big party／banquet 也合法，孤立翻块映射不回唯一的 gala ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-06 学习日 在池第 2 组 [5]（#410 题"公司年底办的慈善晚会"）· 原话
+`The company's year-end charity gala(这个词学一下).`
+她自己标「这个词学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "gala" ⇒ 零命中
+　② 中文 dedup "晚会" ⇒ 只命中 #410（charity 的题面带"晚会"二字，考点是 charity 不是 gala）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学一下」（词不在手边）　　目标：`gala`
+找法："盛大的晚会／慈善晚宴"，先落 gala。
+
+**题面**
+"博物馆每年都办一场盛大的晚会，来的人都穿着礼服。"（"盛大的晚会"用 **gala** 说）
+
+- 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
 
 ## 迁移说明（2026-08-18）
 
