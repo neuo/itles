@@ -654,7 +654,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
 类型 搭配 ｜ 旧号 B251
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06；10-04 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 一道题面覆盖两个成员：
@@ -680,8 +680,8 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 　② "这个玩具屋是纸板做的"（拿什么材料做的）
 
 **成员出题账**
-① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-05 ✅
-② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）· 10-05 ✅
+① 写／画出来的 ＋ in（written／spelt in） ｜ 08-17 ❌ · 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-05 ✅ · 10-06 ✅
+② 材料 ＋ made of／out of ｜ 08-19 ✅ · 08-20 ✅ · 09-05 ✅ · 10-04 ❌（#98 题里"果盘是用苹果和葡萄摆出来的"借了①的 spelt out in）· 10-05 ✅ · 10-06 ✅
 ★ 08-17 那一次只测到成员 ①。
 
 - 2026-08-17 ❌ `spelt out OF sweets`（把 spell out 和 made out of 串台）
@@ -699,6 +699,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
   最小改 `This fruit platter is made up of apples and grapes.`
   ❌ spell out 只说拼出字／字母；拿东西摆成、组成 ⇒ made up of ／ made of ／ made with。先分一刀：拼出来的是字吗？
 - 2026-10-05 ✅ 学习日 在池第 1 组 [1]（两句覆盖）· `the big words written on the blackboard in red chalk` ／ `a planter made out of an old tire` —— 写出来的 ＋ in ／ 材料 ＋ out of，两个成员都对。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [1]（合并条两句）· ① `the message written on the mirror in lipstick` ② `a lantern made out of plastic bottles` —— written … in lipstick ／ made out of 两个成员都对。连对 1 → 2 ⇒ **毕业**
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -750,7 +751,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-05 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
+状态 连对0 连错2 上次2026-10-06 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -767,6 +768,8 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 **我错在哪**
 她的：用对了，点名要背（⭐ 不是纠错）
 找法：想说"赚翻了"，落 making absolute bank（bank 前面不加 a／the）。
+★ 10-05、10-06 两次都写成 `made a bank`：带 absolute 的两次从没加过 a，光秃秃一个 bank 时才冒出 a。
+　找法补一句：这里的 bank ＝ money，made money 不说 made a money ⇒ bank 前面也不放 a。
 
 **题面**
 "今年做直播带货的那几个主播都赚翻了。"（"赚翻了"用 **bank** 说）
@@ -779,10 +782,13 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-05 ❌ 学习日 复检第 3 组 [6]（题面"那家网红餐厅开业第一个月就赚翻了"）· `That viral restaurant made a bank in its very first month.` —— make bank 的 bank 前面加了 a ⇒ **回潮**
   最小改 `That viral restaurant made bank in its very first month.`　更好版 `… made absolute bank …`
   ❌ make bank 里的 bank 是俚语"一大笔钱"，不加冠词；加了 a 像"开了一家银行"
+- 2026-10-06 ❌ 学习日 在池第 1 组 [2]（题面"他靠倒卖二手球鞋赚翻了"）· `He made a bank reselling second-hand sneakers.` —— bank 前面又加了 a（10-05 同一个错）。连错 1 → 2
+  最小改 `He made bank reselling second-hand sneakers.`　更好版 `He made absolute bank reselling second-hand sneakers.`
+  ❌ 这里的 bank ＝ 钱，跟 money 一样不可数（made money 不说 made a money）；带 absolute 的两次都没加 a，光秃秃一个 bank 时才冒出 a
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **pull an all-nighter** ＝ 熬一整个通宵（复习、赶活、玩到天亮）；几次就 `pull three all-nighters`。
@@ -809,10 +815,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [2]（#372 题里）· 她标「这个词组学一下」· 原话 `my friends pulled three all-nighter(这个词组学一下)`
 - 2026-10-05 ✅ 学习日 在池第 1 组 [5] · `I pulled an all-nighter cramming for the exam the night before it.` —— pulled an all-nighter（整块点名首测）。连错 1 → 连对 1；下次点名降回 all-nighter
+- 2026-10-06 ✅ 学习日 在池第 1 组 [3]（点名降到 all-nighter）· `I pulled an all-nighter last week to rush my paper out.` —— pull／an 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **X is on the line** ＝ X 押在这儿了，结果不好 X 就没了（工作、名声、钱、公司的未来）：`My job is on the line.`
@@ -838,10 +845,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 她标「这个词组学一下」· 原话 `the entire future of the company is on the line（这个词组学一下）`
 - 2026-10-05 ✅ 学习日 在池第 1 组 [6] · `Nothing else can go wrong with this project, or his job is on the line.` —— his job is on the line。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [4] · `If he loses this lawsuit, his entire company is on the line.` —— 被押的东西当主语。连对 1 → 2 ⇒ **毕业**
 
 ### 399 · negotiation（谈判，名词）／negotiate（动词）
 类型 词汇 ｜ 新建 2026-10-04
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **negotiate** 是动词（`We negotiated for hours.`）；**negotiation** 是名词（`this negotiation` · `rounds of negotiations` · `salary negotiations`）。
@@ -870,10 +878,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
   最小改 `There's so much at stake in this negotiation`
   ❌ negotiate 是动词；this 后面要名词 negotiation
 - 2026-10-05 ✅ 学习日 在池第 1 组 [7] · `After several rounds of negotiating, …` —— "谈判"落在 of 后面当名词用，动名词 negotiating 合法（§3.3：合法即 ✅）；名词 negotiation 没逼出来 ⇒ 种子换成"这次谈判拖了整整三个月。"（this 后面只能接名词）。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [5]（新种子"这次谈判拖了整整三个月"）· `This negotiation dragged on for three full months.` —— this 后面落名词 negotiation。连对 1 → 2 ⇒ **毕业**
 
 ### 400 · come here just to ＋ 动词（专门来做某事；⛔ people here just to …漏了 come）
 类型 结构 ｜ 新建 2026-10-04
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 "很多人专门为他来（吃饭）" ＝ `People come here just to try his food.`（大老远专门来：`come all the way here just to …`）
@@ -901,10 +910,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
   最小改 `people come here just to try his food`
   ❌ "专门为他来"的"来"被吞了 ⇒ 这半句没有动词
 - 2026-10-05 ✅ 学习日 在池第 1 组 [8] · `A lot of tourists visit this historic street just to snap some photos.` —— 有动词 visit 再接 just to，没漏谓语。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [6] · `My friend flew in from Shanghai just to catch this concert.` —— 有动词 flew in 再接 just to。连对 1 → 2 ⇒ **毕业**
 
 ### 401 · fruit platter（果盘／水果拼盘）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
 
 **问题是什么**
 **fruit platter** ＝ 切好摆在大浅盘里的水果拼盘（派对、饭后端上来的那种）；platter ＝ 拼盘用的大浅盘：a cheese platter ／ a seafood platter。
@@ -930,10 +940,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [3]（#98 题里）· 她标「这个词组背一下」· 原话 `This fruit platter(这个词组背一下) is spelt out in apples and grapes.`
 - 2026-10-05 ✅ 学习日 在池第 1 组 [9] · `a giant fruit platter served at the birthday party` —— fruit platter。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [7] · `a free fruit platter on the house（这个词组学一下) after dinner.` —— fruit platter。连对 1 → 2 ⇒ **毕业**（她标学 on the house ⇒ 另建 #413；free 与 on the house 叠用进 diff-2）
 
 ### 402 · pull off ＋ 难事（办成、搞定）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **pull sth off** ＝ 把一件难办的事办成了（婚礼、演出、惊喜派对、一桌大菜）：`They pulled it off.` ／ `pull off a surprise party`。
@@ -960,10 +971,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [4]（#340 题里）· 她标「这个词组学一下」· 原话 `a step up from that is pulling off(这个词组学一下) a proper New Year's Eve feast`
 - 2026-10-05 ✅ 学习日 在池第 1 组 [10] · `With only one week to prepare, they actually pulled off the wedding.` —— pulled off（整块点名首测）。连错 1 → 连对 1；下次点名降回 pull
+- 2026-10-06 ✅ 学习日 在池第 1 组 [8]（点名降到 pull）· `He actually managed to pull off such a tough magic trick on his first time on stage.` —— off 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 403 · squeeze on(to) ＋ 车（挤上车）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
 
 **问题是什么**
 **squeeze on** ／ **squeeze onto the train** ＝ 人多、硬挤上车；挤进去 ＝ squeeze in ／ squeeze into a car。
@@ -989,10 +1001,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 a2 复检第 3 组 [9]（#60 题里）· 她标「这个词组学一下」· 原话 `you can barely squeeze on.(这个词组学一下)`
 - 2026-10-05 ✅ 学习日 在池第 2 组 [1] · `I barely managed to squeeze onto the bus during evening rush hours.` —— squeeze onto the bus。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [9]（题面"早高峰硬挤上一节塞满人的地铁"）· `squeezing into a crowded subway car during the morning rush hour` —— 题面是"一节"车厢 ⇒ squeeze into a car（正文本来就收）。连对 1 → 2 ⇒ **毕业**
 
 ### 404 · overly ＋ 形容词（过度…、过于…）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **overly** ＋ 形容词 ＝ 过度、过于（说"超出合适的那个度"）：overly ambitious ／ overly cautious ／ overly protective。
@@ -1018,6 +1031,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「过度学一下」· 原话 `But being overly（过度学一下) ambitious`
 - 2026-10-05 ✅ 学习日 在池第 2 组 [2] · `Some parents are overly protective of their kids, never letting them do anything on their own.` —— overly protective of。连错 1 → 连对 1
+- 2026-10-06 ✅ 学习日 在池第 1 组 [10] · `He is overly critical of his own work and never satisfied no matter how much he tweaks(这个词学下） it.` —— overly critical。连对 1 → 2 ⇒ **毕业**（她标学 tweak ⇒ 另建 #414）
 
 ### 405 · just as X, if not more so（同样 X，甚至更 X）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -1246,6 +1260,63 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 "我最拿手的一道菜是红烧牛肉"（酱油汤汁里小火焖到入味的那种做法）
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [6]（#348 题里）· 她标「这个词背下」· 原话 `My grandma's braised（这个词背下） pork`
+
+### 413 · on the house（店家请客、不收钱）
+类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
+同一格里的邻居（别串）：free（大白话"免费"）· complimentary（酒店、航空那种正式的"赠送"）· It's on me.（我请客 —— 个人请客用 on me，店家请客才用 on the house）。
+判据一句话：说"店家送的、不收钱" ⇒ on the house；它自己就是"免费"，⛔ 前面不再加 free。
+★ 题型判整句：中文"店家送的"翻成 free／complimentary 都合法，孤立翻块映射不回唯一的 on the house ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-06 学习日 在池第 1 组 [7]（#401 题"吃完饭饭店免费送的一份果盘"）· 原话
+`a free fruit platter on the house（这个词组学一下) after dinner.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "on the house"／"on me"／"complimentary" ⇒ 零命中
+　② 中文 dedup "请客"／"免费" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」；同一块里 free 和 on the house 叠用（意思说了两遍）　　目标：`a fruit platter on the house`
+找法：说"店家请的"，落 on the house，回头看前面有没有多出一个 free。
+
+**题面**
+"这杯咖啡是老板请的，不用给钱。"（"老板请的"用 **on the house** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 house（on the 留给她）
+
+- 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [7]（#401 题里）· 她标「这个词组学一下」· 原话 `a free fruit platter on the house（这个词组学一下) after dinner.`
+
+### 414 · tweak（小改、微调）
+类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
+同一格里的邻居（别串）：change（泛泛地改）· revise（改文稿，偏书面）· adjust（调数值、位置）· fine-tune（精调）· redo（推倒重来）。
+判据一句话：大体已经可以、只动一点点 ⇒ tweak；整个推翻重来 ⇒ redo。
+★ 题型判整句："稍微改改"翻成 change a little／adjust 都合法，孤立翻块映射不回唯一的 tweak ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-06 学习日 在池第 1 组 [10]（#404 题"他对自己的作品太苛刻了，怎么改都不满意"）· 原话
+`He is overly critical of his own work and never satisfied no matter how much he tweaks(这个词学下） it.`
+她自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "tweak"／"fine-tune"／"revise" ⇒ 零命中；dedup "adjust" ⇒ 命中 🎓#126（get used to／settle into 适应新环境，adjust 只出现在它的排除项里）⇒ 不是同一个词，否
+　② 中文 dedup "微调" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学下」（词不在手边）　　目标：`tweak`
+找法："稍微改改／再调一调"，先落 tweak。
+
+**题面**
+"方案大体不错，开会前再稍微改改就行。"（"稍微改改"用 **tweak** 说）
+
+- 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
 
 ## 迁移说明（2026-08-18）
 
