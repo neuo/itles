@@ -2761,7 +2761,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 
 ### 80 · than ever 必须紧跟比较级
 类型 结构 ｜ 旧号 B128
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-21** ｜ ⚠️ 状态行 08-21 按日志重算（08-20 的 ✅ 当天漏回写）｜ 题型 整句
 
 **问题是什么**
 **than ever 必须紧跟比较级**：`much easier **than ever**` ／ `more convenient **than ever**` ／ `far easier than ever`。
@@ -2804,6 +2804,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
   than ever 紧跟比较级，位置一字不差。
 - 2026-09-12 📝 题面整改：删掉点名里的「考点是它摆在哪儿」（§10 禁令 5 禁预告测试点，同 #300 08-27 那次）· 全档题面 review
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `Social media makes it much easier than ever for people to stay in touch.`——than ever 紧跟比较级
+- 2026-10-06 ✅ 学习日 复检第 3 组 [8]（题面"有了网约车，现在打车比以前容易多了"）· `With ride-hailing services, getting a ride is much easier now than ever.` —— than ever 跟着比较级出来；中间插 now 合法（同 more important now than ever）
 - 备注 中文"比以前…多了"里的"比以前" ＝ **than ever**，且必须**紧跟比较级**：
   more convenient than ever／easier than ever；口语里 easier 比 convenient 常用得多
 
@@ -2961,7 +2962,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 
 ### 85 · start / set up a business（不用 create）＋ take on risk
 类型 搭配 ｜ 旧号 B135
-状态 连对2 连错0 上次2026-09-13 ｜ **🎓 已毕业 2026-08-20**（连对2） ｜ **合并条·出题多句覆盖** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-08-20**（连对2） ｜ **合并条·出题多句覆盖** ｜ 题型 词组
 
 **问题是什么**
 一道题面覆盖两个成员：
@@ -2988,8 +2989,8 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 　② "敢承担风险"（愿意冒这个险、担后果）
 
 **成员出题账**
-① start／set up a business ｜ 08-19 ✅ · 08-20 ✅（走 entrepreneurs 那条合法路）· 08-31 ✅ 自发 · 09-05 ✅
-② take on risk ｜ 08-19 ✅ · 08-20 ✅（同上）· 08-31 ✅ 自发 · 09-05 ✅
+① start／set up a business ｜ 08-19 ✅ · 08-20 ✅（走 entrepreneurs 那条合法路）· 08-31 ✅ 自发 · 09-05 ✅ · 10-06 ✅
+② take on risk ｜ 08-19 ✅ · 08-20 ✅（同上）· 08-31 ✅ 自发 · 09-05 ✅ · 10-06 ✅
 ★ 08-17 首次进流那一次 ❌ 未按成员记录。
 
 - 2026-08-17 ❌ 首次进流
@@ -3008,6 +3009,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · 两个成员都出都对 · ① `start a business` ② `take on risks`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉英文点名，题面改成合并条的编号句（两个成员各一个中文块，§3.2c 多句覆盖）
+- 2026-10-06 ✅ 学习日 复检第 3 组 [9]（合并条两句："大学一毕业就自己开公司"／"愿意承担更大的风险"）· ① `starting one's own business right out of college` ② `willing to take on bigger risks` —— 两个成员都对
 
 ### 86 · go ON a trip / take a trip（不是 go to a trip）＋ where to STAY
 类型 搭配 ｜ 旧号 B138
@@ -3629,7 +3631,7 @@ no 一路盖到 and 后面那半。两条解法：
 
 ### 102 · without ＝ with no，不能叠（without no ❌）
 类型 语法 ｜ 旧号 B173
-状态 连对2 连错0 上次2026-09-13 ｜ 旧账 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ 旧账 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
 
 **问题是什么**
 **without ＝ with no，不能叠**（⛔ without no）：`I can't go a day **without** looking at my phone.`
@@ -3658,6 +3660,7 @@ no 一路盖到 and 后面那半。两条解法：
 - 2026-09-13 📝 题面整改：补（"不看"那层用 **without** 说）· 复检组发题前审核（§6.5 第 7 项）
   `I can't spend a day not looking at my phone` 合法但整个绕开 without，测不到"without 不叠否定"这一格 ⇒ 点名 without（考点是叠不叠 no，不是 without 本身）
 - 2026-09-13 ✅ 复检 · 学习日 复检第 4 组 · `I can't go a day without my phone.`——without 后面没叠 no
+- 2026-10-06 ✅ 学习日 复检第 3 组 [10]（题面"他经常不吃早饭就去上班"）· `He often goes to work without breakfast.` —— 没叠第二个否定
 
 ### 103 · 不定式后置修饰，介词默认留在末尾（a box to put these things IN）
 类型 结构 ｜ 旧号 B175
@@ -14795,7 +14798,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
@@ -14831,6 +14834,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"单数固定块 ＋ ⛔ feeling／feel"，只点名 real；换成照片比不上亲眼看场景
 - 2026-09-29 📝 补题面（上一批 🎓#352 状态行改了整句、题面节替换没落上，本行补记新场景：照片比不上亲眼看）
+- 2026-10-06 ✅ 学习日 复检第 3 组 [6]（题面"在博物馆看到真迹，跟在书上看图片完全不是一回事"）· `Seeing the real deal in a museum is a completely different story from looking at pictures in a book.` —— the real deal 与 the real thing 同义，合法且贴题面
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
@@ -14872,7 +14876,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 **as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
@@ -14911,6 +14915,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 ✅ 复检第 2 组 · `as for what's trending now.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"两个词／第一个词是 as ＋ 三个排除项"，改零提示整句（as for／when it comes to／regarding 都算对），逼的是她掉过的 as far ＋ 名词；换成工资加班场景
+- 2026-10-06 ✅ 学习日 复检第 3 组 [7]（题面"房子本身我挺满意的，至于周边配套怎么样…"）· `I really like the house itself—as for the neighborhood amenities, we'll see after living here for a bit.`
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
@@ -15776,7 +15781,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
@@ -15810,10 +15815,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 3 组 [10]（🎓#339 题里）· 她自注「这个 at 需要学一下，本来想写 through」· 原话 `you can reach me at this number.`
 - 2026-10-02 ✅ 学习日 在池第 1 组 [10] · `Here's my business card—feel free to contact me at the number listed here.` —— contact me at the number，号码前面是 at，没被"通过"带成 through。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [3] · `If you have any questions, you can contact us at this email address.` —— contact us at this email address，"通过"没带出 through。连对 1 → 2 ⇒ **毕业**
+- 2026-10-06 ✅ 学习日 复检第 3 组 [1]（题面"预约有变的话，可以通过下面这个电话号码联系我们诊所"）· `If you need to change your appointment, feel free to contact our clinic at the number below.` —— 号码前用 at
 
 ### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
@@ -15840,10 +15846,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [2]（🎓#14 题里）· 她标「这个单词背一下」· 原话 `I keep my dog leashed(这个单词背一下) well aways from the road.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [1] · `a leash.` —— leash 调出来了。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [4] · `Community rules require dogs to be kept on a leash.` —— kept on a leash。连对 1 → 2 ⇒ **毕业**
+- 2026-10-06 ✅ 学习日 复检第 3 组 [2]a（题面"宠物店里卖的那种可以伸缩的狗绳"）· `a retractable leash`
 
 ### 383 · reason with sb（跟某人讲道理）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 **reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
@@ -15874,10 +15881,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [2] · `I spent forever trying to reason with my mom, but she still wouldn't upgrade her phone.` —— reason with ＋ 人。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [5] · `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.` —— 点名降到 reason，with 自己补上了。连对 1 → 2 ⇒ **毕业**
   ｜她自注「这个词背一下」⇒ throw a tantrum 另建 #394
+- 2026-10-06 ✅ 学习日 复检第 3 组 [3]（题面"他喝醉了，你现在跟他讲道理也没用"）· `He's wasted, so it's useless trying to reason with him right now.`
 
 ### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
@@ -15904,10 +15912,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-01 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#36 题里）· 她标「这个词组背一下」· 原话 `He played games all night last night and kept nodding off( 这个词组背一下) in class today.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [3] · `I kept nodding off halfway through the movie.` —— nod off。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [6] · `Nodding off against the subway window.` —— nod off。连对 1 → 2 ⇒ **毕业**
+- 2026-10-06 ✅ 学习日 复检第 3 组 [2]b（题面"上网课上到一半打起了瞌睡"）· `nodding off halfway through an online class`
 
 ### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
 类型 句型 ｜ 新建 2026-10-01
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
@@ -15935,10 +15944,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-01 ❌ 首犯 · 学习日 新题 bank:1156（P2）[S3] · 原话 `Last time I went there last year on a family trip, with my wife and son.`
 - 2026-10-02 ✅ 学习日 在池第 2 组 [4] · `The last time I visited my hometown was three years ago.` —— The last time 整块当主语，后面补了 was。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [7] · `The last time I went to the cinema was last summer.` —— 整块当主语，后面补了 was。连对 1 → 2 ⇒ **毕业**
+- 2026-10-06 ✅ 学习日 复检第 3 组 [4]（题面"我上次坐飞机还是疫情之前"）· `The last time I was on a plane was back before the pandemic.` —— was 没漏
 
 ### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
 类型 结构 ｜ 新建 2026-10-01
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
@@ -15963,6 +15973,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [5] · `I can get through(读完学习下) this book in about three or four days.` —— three or four days，两个数字说完再接名词。连错 1 → 连对 1
   ｜她自注「读完学习下」⇒ get through 另建 #390
 - 2026-10-03 ✅ 学习日 在池第 1 组 [8] · `I go to the gym about two or three times a week.` —— two or three times，两个数字说完再接名词。连对 1 → 2 ⇒ **毕业**
+- 2026-10-06 ✅ 学习日 复检第 3 组 [5]（题面"我们这次旅行大概要花五六千块钱"）· `We're looking at around five to six thousand yuan for this trip.` —— 两个数连着说完再接单位
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
