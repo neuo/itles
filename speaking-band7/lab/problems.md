@@ -702,7 +702,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对0 连错2 上次2026-10-06 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -736,6 +736,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-06 ❌ 学习日 在池第 1 组 [2]（题面"他靠倒卖二手球鞋赚翻了"）· `He made a bank reselling second-hand sneakers.` —— bank 前面又加了 a（10-05 同一个错）。连错 1 → 2
   最小改 `He made bank reselling second-hand sneakers.`　更好版 `He made absolute bank reselling second-hand sneakers.`
   ❌ 这里的 bank ＝ 钱，跟 money 一样不可数（made money 不说 made a money）；带 absolute 的两次都没加 a，光秃秃一个 bank 时才冒出 a
+- 2026-10-07 ✅ 学习日 在池第 1 组 [1]（题面"我表姐开宠物美容店，这两年赚了大钱"）· `My cousin runs a pet grooming shop, and she's made bank over the last two years.` —— 光秃秃的 bank，前面没加 a。连错 2 → 连对 1
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -770,7 +771,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **chalk** ＝ 粉笔（不可数，说材料）：write in chalk ／ red chalk；数根数用 a piece of chalk ／ two sticks of chalk。
@@ -795,10 +796,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [1]（#162 题里）· 她标「这个单词背一下」· 原话 `written on the blackboard in red chalk（这个单词背一下)`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [2] · `The teacher picked up a piece of chalk and casually drew a circle on the board.` —— a piece of chalk。连错 1 → 连对 1
+- 2026-10-07 ✅ 学习日 在池第 1 组 [2] · `The hopscotch grid kids drew on the sidewalk in colored chalk.` —— in colored chalk。连对 1 → 2 ⇒ **毕业**
 
 ### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **round** ＝ 一轮（谈判、面试、比赛、投票、一圈酒）：several rounds of talks ／ the second round of interviews ／ a round of drinks。
@@ -824,10 +826,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「学下，老是想用 turn」· 原话 `After several rounds（学下，老是想用 turn） of negotiating`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [3] · `I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.` —— the second round of interviews。连错 1 → 连对 1（她标学 made it through to ⇒ 另建 #415）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [3]（题面"这个月公司已经裁了两轮人了"）· `The company has already gone through two rounds of layoffs this month.` —— two rounds of layoffs。连对 1 → 2 ⇒ **毕业**
 
 ### 409 · come to an agreement (on sth)（达成一致）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **come to an agreement** ＝ 双方谈下来、达成一致；谈的事用 on 挂后面：come to an agreement on the price。
@@ -854,10 +857,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「这个词组学一下」· 原话 `both sides finally came to an agreement(这个词组学一下) on the price`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [4] · `After negotiating with the landlord for a while, we finally came to an agreement on the rent.` —— came to an agreement on the rent。连错 1 → 连对 1（下次点名降回 agreement）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [4]（点名降到 agreement）· `My roommate and I finally came to an agreement on who cleans the place.` —— come to／on 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 410 · charity（慈善／慈善机构）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **charity** ＝ 慈善；也指一家慈善机构（可数）：a charity ／ charity work（做慈善）／ a charity event（慈善活动）／ give money to charity（捐给慈善）。
@@ -882,10 +886,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 3 组 [3]（#363 题里）· 她说「慈善这个词又忘了」· 原话 `Some charity ads appeal directly to your emotions …(慈善这个词又忘了)`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [5] · `The company's year-end charity gala(这个词学一下).` —— charity。连错 1 → 连对 1（她标学 gala ⇒ 另建 #416）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [5] · `setting aside（这个词组学下) part of my paycheck every month to donate to charity` —— donate to charity。连对 1 → 2 ⇒ **毕业**（她标学 setting aside ⇒ 另建 #424）
 
 ### 411 · change out of ＋ 衣服（把…换下来）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **change out of sth** ＝ 把身上这套换下来：change out of my work clothes ／ change out of these wet clothes。
@@ -912,10 +917,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [2]（#374 题里）· 她标「这个词组可以学下」· 原话 `I couldn't be bothered to even change out of（这个词组可以学下） my clothes`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [6] · `The moment I got home, I immediately changed out of my soaked clothes.` —— changed out of。连错 1 → 连对 1（下次点名降回 change；immediately 与 The moment 叠用进 diff-2）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [6]（点名降到 change）· `After my workout, I changed out of my gym clothes in the locker room.` —— out of 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 412 · braised（红烧的／焖炖的）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-06 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **braised** ＝ 先煎再加汤汁小火焖到入味的做法：braised pork（红烧肉）／ braised beef（红烧牛肉）。
@@ -940,10 +946,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [6]（#348 题里）· 她标「这个词背下」· 原话 `My grandma's braised（这个词背下） pork`
 - 2026-10-06 ✅ 学习日 在池第 2 组 [7] · `My signature dish is braised beef.` —— braised beef。连错 1 → 连对 1
+- 2026-10-07 ✅ 学习日 在池第 1 组 [7] · `the braised chicken served for lunch at the cafeteria today` —— braised chicken。连对 1 → 2 ⇒ **毕业**
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
@@ -969,10 +976,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 house（on the 留给她）
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [7]（#401 题里）· 她标「这个词组学一下」· 原话 `a free fruit platter on the house（这个词组学一下) after dinner.`
+- 2026-10-07 ✅ 学习日 在池第 1 组 [8] · `This coffee is on the house, so don't worry about paying.` —— 前面没再叠 free。连错 1 → 连对 1（下次点名降回 house）
 
 ### 414 · tweak（小改、微调）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
@@ -997,10 +1005,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "方案大体不错，开会前再稍微改改就行。"（"稍微改改"用 **tweak** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
+- 2026-10-07 ✅ 学习日 在池第 1 组 [9] · `The plan is solid for the most part; we just need to tweak it a bit before the meeting.` —— tweak it a bit。连错 1 → 连对 1
 
 ### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
@@ -1026,6 +1035,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 make it（through to 留给她）
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [3]（#408 题里）· 她标「这个词组学一下」· 原话 `I made it through to（这个词组学一下) the second round of interviews`
+- 2026-10-07 ✅ 学习日 在池第 1 组 [10] · `Our team made it through to the finals.` —— made it through to the finals。连错 1 → 连对 1（下次点名降回 make it）
 
 ### 416 · gala（盛大的晚会／晚宴）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
@@ -1251,6 +1261,34 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "对很多年轻人来说，工作不稳定是最大的压力来源。"（"工作不稳定"用 **job insecurity** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · diff-2 ⚠️ · 原话 `burnt out on constant overtime and company instability.` ⇒ 更好版 job insecurity
+
+### 424 · set aside ＋ 钱／时间（专门留出一部分）
+类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**set aside** ＝ 从总量里专门划出一部分、留着做某件事：set aside part of my paycheck ／ set aside some money for a trip ／ set aside an hour every evening。
+同一格里的邻居（别串）：save（存钱，泛泛地攒）· put aside（同义，更口语）· #417 carve out time（从满满的日程里硬挤出时间 —— 强调"挤"；set aside 强调"划出来留着"）。
+判据一句话：把一部分钱／时间划出来、专门留给某件事 ⇒ set aside ＋ 那一部分 ＋ for ／ to do。
+★ 题型判整句："留出一笔钱"翻成 save some money 也合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-07 学习日 在池第 1 组 [5]（#410 题"每个月拿出一部分工资捐给慈善机构"）· 原话
+`setting aside（这个词组学下) part of my paycheck every month to donate to charity`
+她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "set aside"／"setting aside"／"put aside" ⇒ 零命中；"aside" ⇒ 命中 🎓#281（step back，正文邻居 step aside ＝ 让开）⇒ 不是同一个词组，否
+　② 中文 dedup "留出" ⇒ 命中 🎓#57（date night，题面带"专门留出来的那一晚"，考点是 date night）⇒ 否；"存下"／"攒" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（用法本身对）　　目标：`set aside part of my paycheck`
+找法："拿出一部分／专门留出"，先落 set aside。
+
+**题面**
+"我每个月都留出一笔钱，专门用来旅行。"（"留出"用 **set aside** 说）
+
+- 2026-10-07 ❌ 首犯 · 学习日 在池第 1 组 [5]（#410 题里）· 她标「这个词组学下」· 原话 `setting aside（这个词组学下) part of my paycheck every month to donate to charity`
 
 ## 迁移说明（2026-08-18）
 
