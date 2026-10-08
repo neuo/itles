@@ -1384,6 +1384,62 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个词组学一下」· 原话 `soaking up(这个词组学一下) the sun, day in, day out.`
 
+### 428 · be featured in ＋ 杂志／节目（被刊登、上了…）
+类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**be featured in** ＝ 作为重点内容出现在杂志／报纸／节目／展览里（"上了杂志、上了节目"）：Her work has been featured in several magazines. ／ The café was featured in a travel show.
+同一格里的邻居（别串）：appear in（出现在…里，泛泛）· be published in（发表在…上，偏文章、论文）· be on TV（上电视，大白话）。
+判据一句话：说"上了杂志／上了节目／被重点介绍" ⇒ be featured in；说"发表论文" ⇒ be published in。
+★ 题型判整句："上过节目"翻成 was on a show／appeared on 都合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-07 学习日 复检第 3 组 [3]（#391 题"她是设计圈里正在冒头的新人，作品已经上了好几本杂志"）· 原话
+`She's an up-and-coming talent in design circles, with her work featured in(这个词组学下) multiple magazines.`
+她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "featured" ⇒ 零命中；"feature" ⇒ 只命中 🎓#213（go live，历史句里的 feature ＝ 功能）⇒ 不是同一个词义，否
+　② 中文 dedup "刊登" ⇒ 零命中；"上了" ⇒ 命中 34 条，都是正文带"上了"二字的别的考点（🎓#398 on the line · 🎓#234 the elderly 等）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（用法本身对）　　目标：`with her work featured in multiple magazines`
+找法："上了好几本杂志／上了节目"，先落 be featured in。
+
+**题面**
+"我们小区门口那家面馆上过一档美食节目。"（"上过"用 **featured** 说）
+
+- 2026-10-07 ❌ 首犯 · 学习日 复检第 3 组 [3]（#391 题里）· 她标「这个词组学下」· 原话 `with her work featured in(这个词组学下) multiple magazines.`
+
+### 429 · hold a grudge (against sb)（记仇）
+类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**hold a grudge** ＝ 心里一直记着别人的不好、不肯放下：He never holds a grudge. ／ hold a grudge against sb（记某人的仇）。
+同一格里的邻居（别串）：let it go（放下、算了）· forgive and forget（原谅了也不再提）· get over it（过去了、缓过来了）。
+判据一句话：说"记仇／一直耿耿于怀" ⇒ hold a grudge (against sb)；说"不记仇／放下了" ⇒ never holds a grudge ／ let it go。
+★ 题型判整句："记仇"翻成 never forgets／holds it against me 都合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-07 学习日 复检第 3 组 [10]⑤（#262 题"他脾气是不太好——不过他从来不记仇"）· 原话
+`He's got a bad temper—mind you, he never holds a grudge(这个词组学一下).`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "grudge" ⇒ 零命中
+　② 中文 dedup "记仇" ⇒ 只命中 🎓#262 的题面⑤（那条考的是 mind you 这个转折标记）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（用法本身对）　　目标：`he never holds a grudge`
+找法："记仇"，先落 hold a grudge，记谁的仇用 against 接。
+
+**题面**
+"我妹妹特别记仇，小时候我抢了她一块糖，她到现在还提。"（"记仇"用 **grudge** 说）
+
+- 2026-10-07 ❌ 首犯 · 学习日 复检第 3 组 [10]⑤（#262 题里）· 她标「这个词组学一下」· 原话 `mind you, he never holds a grudge(这个词组学一下).`
+
 ## 迁移说明（2026-08-18）
 
 ```

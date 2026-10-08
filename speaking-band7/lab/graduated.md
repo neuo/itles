@@ -5050,7 +5050,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 144 · so … that ／ too … to ／ very 的分工（too…that 不存在）
 类型 语法 ｜ 旧号 B233
-状态 连对1 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这句话不要考了，直接毕业"）｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这句话不要考了，直接毕业"）｜ 题型 整句
 
 **问题是什么**
 **so … that ／ too … to ／ very 的分工**（**too…that 不存在**）。
@@ -5109,6 +5109,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· so good that …（跟句子）／too expensive to buy（跟动作）
   —— 分工两边都对
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-10-07 ✅ 学习日 复检第 3 组 [6]（两句："这部电影太无聊了…"／"这箱子太重了…"）· ① `The movie was so boring that I fell asleep halfway through.` ② `This box is way too heavy for me to carry on my own.`
 
 ### 145 · bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）
 类型 词汇 ｜ 旧号 B234
@@ -6003,7 +6004,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 170 · 并列人称在介词后/宾语位置一律用宾格 me
 类型 语法 ｜ 旧号 B259
-状态 连对2 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业了"）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也毕业了"）｜ 题型 整句
 
 **问题是什么**
 **并列人称在介词后／宾语位置一律用宾格 me**：
@@ -6032,6 +6033,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-05 ✅ 复检 · a2 第 3 组（09-05 判定 · 09-07 补记入档）· 两个位置都对：介词后 for my wife and **me**（宾格）
   ／主语位 My wife and **I**（主格）
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-10-07 ✅ 学习日 复检第 3 组 [7]（两句："老板请我同事和我吃了顿饭"／"我同事和我第二天都迟到了"）· ① `The boss took my coworker and me out for a meal.` ② `My coworker and I were both late the next day.`
 - 备注 建号后隔一题她就用对了（迁移窗口）
 
 ### 171 · 要把"跟谁说"说出来就得用 tell sb（say 后面不接人）
@@ -6860,7 +6862,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 197 · addictive ≠ interesting
 类型 词汇 ｜ 旧号 B112
-状态 连对3 连错0 上次2026-09-18 ｜ **🎓 已毕业 2026-08-15**（08-20 的回潮已撤销，见下）｜ 题型 词组
+状态 连对3 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-08-15**（08-20 的回潮已撤销，见下）｜ 题型 词组
 
 **问题是什么**
 **addictive ≠ interesting**：addictive ＝ 上瘾的、让人放不下的。
@@ -6895,6 +6897,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-18 📝 题面整改：补（说的是游戏本身让人上瘾）· 复检组发题前审核（§6.5 第 7 项）
   "上瘾"光秃秃给出，addicted（人上瘾）同样是形容词、同样合法 ⇒ 点明主语是游戏，逼出 addictive
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
+- 2026-10-07 ✅ 学习日 复检第 3 组 [8]（题面"这款手机游戏特别容易让人上瘾"）· `This phone game is ridiculously addictive.`
 
 ### 198 · the 的唯一功能 ＝ 双方都知道是哪一个
 类型 语法 ｜ 旧号 B113
@@ -8855,7 +8858,7 @@ stuck **WITH** ＝ 被迫接受甩不掉（🎓#73）—— 三个 stuck 各配�
 
 ### 248 · stuck ON ＝ 卡在具体的点上
 类型 搭配 ｜ 旧号 B117b
-状态 连对2 连错0 上次2026-09-18 ｜ 回潮已断（08-20 回潮）｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ 回潮已断（08-20 回潮）｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 **stuck ON ＝ 卡在具体的点上**：`get **stuck on** the third question` ／ `the whole team was **stuck on** a problem`。
@@ -8893,6 +8896,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-18 ⚡ 自评免测 · 复检第 4 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 stuck，介词 on 留给她（她掉过的是 on／with 选反）；换成数学作业场景
+- 2026-10-07 ✅ 学习日 复检第 3 组 [9]（题面"做数学作业的时候，他在最后一道题上卡了半天"）· `He got stuck on the last math problem for quite a while.`
 - 备注 三条一族，判据放在一起记：stuck **ON** ＝ 卡在具体的点上（a problem／question 3）｜
   stuck **WITH** ＝ 被迫接受甩不掉（🎓#73）｜ stuck **IN** ＝ 被困在环境/容器里（🎓#247）
 
@@ -9443,7 +9447,7 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 
 ### 262 · 口语转折工具箱（Then again／That said／Having said that／On the flip side／Mind you）
 类型 词组 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20（**她当场指定**）
-状态 连对2 连错0 上次2026-09-18 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
 
 **问题是什么**
 **口语转折工具箱**：Then again ／ That said ／ Having said that ／ On the flip side ／ Mind you
@@ -9479,11 +9483,11 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 　⑤ "他脾气是不太好——不过他从来不记仇。"（"不过"用 **Mind you** 插在中间说）
 
 **成员出题账**
-① Then again ｜ 08-20 新建（她自产）· 08-21 ✅（自由产出自发命中）· 08-23 ✅ · 08-31 📝（自发留痕）· 09-11 ✅
-② That said ｜ 08-23 ✅ · 09-11 ✅
-③ Having said that ｜ 08-23 ✅ · 08-31 📝（自发留痕，与 ① 并排备选）· 09-11 ✅
-④ On the flip side ｜ 08-23 ✅ · 09-04 📝（自发留痕）· 09-11 ✅
-⑤ Mind you ｜ 08-23 ✅ · 09-11 ✅
+① Then again ｜ 08-20 新建（她自产）· 08-21 ✅（自由产出自发命中）· 08-23 ✅ · 08-31 📝（自发留痕）· 09-11 ✅ · 10-07 ✅
+② That said ｜ 08-23 ✅ · 09-11 ✅ · 10-07 ✅
+③ Having said that ｜ 08-23 ✅ · 08-31 📝（自发留痕，与 ① 并排备选）· 09-11 ✅ · 10-07 ✅
+④ On the flip side ｜ 08-23 ✅ · 09-04 📝（自发留痕）· 09-11 ✅ · 10-07 ✅（漏答后当场补）
+⑤ Mind you ｜ 08-23 ✅ · 09-11 ✅ · 10-07 ✅
 
 - 2026-08-20 新建 · 加练新题（bank:927）· `Then again, rewards can slightly change what you intend.`
   —— **她自己用对了**，并当场要求把这一族收进一条
@@ -9517,6 +9521,7 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 - 2026-09-18 ✅ 自发命中 · 学习日 新题 bank:353（P3 · 自由产出）· `Then again, people who play team sports are generally more passionate about working out.`——话锋一转的位置用对
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉首字母／词数／排除项的猜谜写法；她点名要学的工具箱 ⇒ 五句各直接点名一个转折标记，练的是放哪一段、后面怎么接
+- 2026-10-07 ✅ 学习日 复检第 3 组 [10]（合并条五句）· ① `Then again, returns can be a hassle.` ② `That said, the quality is definitely there.` ③ `Having said that, the bonus this month is pretty great.` ④（③ 贴了两遍，当场补答）`on the flip side, it's so easy to get distracted.` ⑤ `mind you, he never holds a grudge(这个词组学一下).` —— 五个成员都对（她标学 holds a grudge ⇒ 另建 #429）
 - 备注 六个标记，按【放句子的哪一段】分三档：
 ```
 ① 开一个反面段落（放句首）
@@ -14517,7 +14522,7 @@ worth -ing（worth praising 可以）。
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
-状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04；10-02 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04；10-02 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 "营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
@@ -14552,6 +14557,7 @@ worth -ing（worth praising 可以）。
   ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
 - 2026-10-03 ✅ 学习日 在池第 1 组 [1] · `The bank's weekend opening hours.` —— opening hours，hours 不是 time。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [1] · `The pharmacy 's opening hours posted on the front wall.` —— opening hours，hours 不是 time。连对 1 → 2 ⇒ **毕业**
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]a（题面"社区图书馆的开放时间"）· `opening hours`
 
 ### 344 · drive over／come over（到我这边来；⛔ drive here）
 类型 词组 ｜ 新建 2026-09-15 ｜ ⭐ 她点名要学
@@ -14977,7 +14983,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-09-30 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-27**
+状态 连对2 连错0 上次2026-10-07 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-27**
 
 **问题是什么**
 **ballad** ＝ 节奏慢、以唱情绪为主的歌（情歌、抒情曲）：`a power ballad` · `all sorts of ballads` · `a slow ballad`。
@@ -15008,10 +15014,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"一个名词、b 开头 ＋ 排除项"猜谜写法，改中文释义；换成"我爸爱听的"场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [2] · `A slow, romantic ballad.`
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]f（题面"KTV 里大家最爱点的那种伤感抒情慢歌"）· `a sad ballad`
 
 ### 356 · "另一些人" ＝ others（⛔ some ones）
 类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-09-30 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-27**
+状态 连对2 连错0 上次2026-10-07 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-27**
 
 **问题是什么**
 "有些人…，另一些人…" 的第二个"人"，英语用 **others** 一个词顶（others ＝ other people）：
@@ -15048,6 +15055,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
   去掉"一个词 ＋ ⛔ some／other people"，改零提示（others／other kids 都算对），逼的是 some ones；换成画画踢球场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [3] · `…, while others prefer to do it at night.`
+- 2026-10-07 ✅ 学习日 复检第 3 组 [5]（题面"有的邻居喜欢养猫，另一些更喜欢养狗"）· `Some of the neighbors like cats, while others prefer dogs.`
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
@@ -15545,7 +15553,7 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -15579,6 +15587,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 - 2026-10-03 ✅ 学习日 在池第 1 组 [2] · `I waited six months for this new phone and finally got my hands on it yesterday.` —— got my hands on it（get one's hands on ＝ 弄到手），get 带出来了、没用 reach。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [2] · `… before he finally got his hand on a pair.` —— "弄到手"用 get（get one's hands on），没用 reach。连对 1 → 2 ⇒ **毕业**
   ★ hand → hands（固定块两只手；10-03 她写对过 got my hands on it）⇒ ⚪#56 只记录，不算本条
+- 2026-10-07 ✅ 学习日 复检第 3 组 [2]（题面"那家很火的餐厅特别难订，我试了三次才订到位子"）· `That trendy restaurant is super hard to book; it took me three tries to get a table.`
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
@@ -16035,7 +16044,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 **meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
@@ -16065,10 +16074,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-03 ✅ 学习日 在池第 1 组 [9] · `A small stream lazily meanders through the valley.` —— meanders through（10-02 忘了，今天调出来了）。连错 2 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [3] · `A massive river lazily meanders across the plains, drifting slowly to the east.` —— meanders across。连对 1 → 2 ⇒ **毕业**
   ⚠️ 更好版 `A massive river lazily meanders east across the plains.`（meander 自带慢，drifting 一般说漂在水上的东西 ⇒ 只进 diff-2）
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]b（题面"一条沿着湖边弯弯曲曲、不紧不慢延伸出去的小路"）· `a winding path` —— 说路弯弯曲曲 winding 合法且贴题面；下次换场景回到"河慢悠悠地流"，让 meander 成唯一
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-02 ＋ 10-04）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-02 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
@@ -16096,10 +16106,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
 - 2026-10-02 ✅ 学习日 在池第 3 组 [8] · `As the sun was setting` —— 大白话交代时间，没用书面诗化的暮色余晖（as the sun was setting 是条目列明的合法说法）。首测 ⇒ 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 2 组 [1] · `It was right around dusk, when we were standing by the beach watching the sun slowly dip below the horizon.` —— 大白话交代黄昏（around dusk ／ watching the sun dip below the horizon），没用书面诗化的暮色余晖；as the sun was going down 没出，条目判法大白话都算对。连对 1 → 2 ⇒ **毕业**
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]c（题面"我们爬到山顶、太阳正往下落的那会儿"）· `right as the sun was setting` —— 大白话交代时间，没走书面诗化
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 **get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
@@ -16130,10 +16141,11 @@ get through to sb（打通电话／让对方听进去，另一个意思，🎓#3
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
 - 2026-10-03 ✅ 学习日 在池第 1 组 [10] · `I got through three novels over the break.` —— got through three novels。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [4] · `I've got to get through this massive stack of emails this week.` —— get through ＋ 一堆活儿。连对 1 → 2 ⇒ **毕业**
+- 2026-10-07 ✅ 学习日 复检第 3 组 [4]（题面"考试前我得把这一摞复习资料全看完"）· `I have to get through this whole pile of study notes before the test.`
 
 ### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 整句
 
 **问题是什么**
 **up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
@@ -16165,11 +16177,12 @@ upstart（带贬义：不知天高地厚的新贵）。
   ｜她自注「这个背一下」⇒ tournament 另建 #395
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [5] · `The head chef here is an up-and-coming young talent, …` —— up-and-coming。连对 1 → 2 ⇒ **毕业**
   ★ 同句后半 `people here just to try his food` 漏 come ⇒ 新建 #400，不算本条
+- 2026-10-07 ✅ 学习日 复检第 3 组 [3]（题面"她是设计圈里正在冒头的新人…"）· `She's an up-and-coming talent in design circles, with her work featured in(这个词组学下) multiple magazines.`（她标学 featured in ⇒ 另建 #428）
 - 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
 
 ### 392 · influencer（网红）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 **influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
@@ -16196,10 +16209,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
 - 2026-10-03 ✅ 学习日 在池第 2 组 [2] · `A beauty influencer with millions of followers.` —— influencer。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [6] · `travel influencer` —— influencer。连对 1 → 2 ⇒ **毕业**
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]d（题面"一个专门测评零食的网红"）· `a snack influencer`
 
 ### 393 · out of print（绝版；an out-of-print book）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-04**（连对2 ＝ 10-03 ＋ 10-04）｜ 题型 词组
 
 **问题是什么**
 书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
@@ -16225,6 +16239,7 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [7] · `That manga series I used to read as a kid that's now completely out of print.` —— out of print。连对 1 → 2 ⇒ **毕业**
+- 2026-10-07 ✅ 学习日 复检第 3 组 [1]e（题面"一本早就绝版、只能在二手网站上淘到的菜谱"）· `an out-of-print cookbook`
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
