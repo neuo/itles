@@ -740,7 +740,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-05 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-05 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **lose sight of sth** ＝ 忙着别的，把本来重要的东西（目标、初心、身边的人）丢在脑后：`lose sight of what really matters` ／ `lose sight of why you started`。
@@ -768,6 +768,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-04 📝 新建 · 付息日 d 段重答 bank:521 [S3] · 她事后点名「lose sight of 也新建一个条目吧」· 原话 `can make you lose sight of things that are just as precious`
 - 2026-10-05 ✅ 学习日 在池第 2 组 [4] · `Once work gets busy, many people lose sight of why they started in the first place.` —— lose sight of（整块点名首测）。首测 ⇒ 连对 1；下次点名降回 sight
+- 2026-10-07 ✅ 学习日 在池第 2 组 [9]（点名降到 sight）· `A lot of people lose sight of their health when trying to lose weight.` —— lose／of 自己补上了。连对 1 → 2 ⇒ **毕业**
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
@@ -1039,7 +1040,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 416 · gala（盛大的晚会／晚宴）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
@@ -1064,10 +1065,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "博物馆每年都办一场盛大的晚会，来的人都穿着礼服。"（"盛大的晚会"用 **gala** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [1] · `The museum hosts a grand gala every year, with everyone dressed in formal wear.` —— a grand gala。连错 1 → 连对 1
 
 ### 417 · carve out time (for sth)（挤出／抽出时间）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
@@ -1092,10 +1094,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "工作再忙，我每周也会挤出一个晚上陪我爸妈吃饭。"（"挤出"用 **carve out** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 复检第 4 组 [4]（#130 题里）· 她标「这个词组学下」· 原话 `I haven't been able to carve out(这个词组学下) time for the gym.`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [2] · `No matter how busy I get, I still carve out one evening a week to have dinner with my parents.` —— carve out ＋ 时间 ＋ to do。连错 1 → 连对 1
 
 ### 418 · sit on ＋ 想法／计划（攥着迟迟没动手）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **sit on sth** ＝ 手里攥着一个想法／计划／消息，一直没动手或没公开：I've been sitting on this idea for years. ／ They sat on the news for a week.
@@ -1120,10 +1123,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "开咖啡店这个想法他憋了好几年，一直没敢真干。"（"憋着没动手"用 **sit on** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S2] · 她标「这个词组学下」· 原话 `I've been sitting on（这个词组学下) this idea for a few years now.`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [3] · `He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).` —— sitting on the idea of ＋ -ing。连错 1 → 连对 1（她标学 making the move ⇒ 另建 #425）
 
 ### 419 · grind away (at sth)（埋头苦熬、机械地干）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **grind away** ＝ 长时间、枯燥地埋头干，带"熬"的味道：grind away at the same job ／ grinding away for a company ／ grind away at a thesis。
@@ -1148,10 +1152,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "他在工厂流水线上埋头苦干了十年。"（"埋头苦干"用 **grind away** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S3] · 她标「这个词组学下」· 原话 `rather than just grinding away（这个词组学下) for a company.`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [4] · `He spent ten years grinding away on the assembly line in a factory.` —— grinding away on the assembly line。连错 1 → 连对 1
 
 ### 420 · be burnt out (on sth)（被耗干、倦怠）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **burnt out** ＝ 长期透支、身心被掏空、提不起劲：I'm burnt out on overtime. ／ completely burnt out ／ burnout（名词：职业倦怠）。
@@ -1176,10 +1181,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "连着上了三个月夜班，那几个护士都被耗干了。"（"被耗干了"用 **burnt out** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · 她标「这个词组学下」· 原话 `I'm pretty burnt out on（这个词组学下)  constant overtime`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [6] · `Working night shifts for three consecutive months left those nurses totally burnt out.` —— left … totally burnt out。连错 1 → 连对 1
 
 ### 421 · support yourself（养活自己；sustain yourself 偏正式）
 类型 搭配 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **support yourself** ＝ 自己挣钱养活自己：support myself ／ support yourself financially ／ support a family（养家）。
@@ -1204,10 +1210,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 "她上大学的时候靠做家教养活自己。"（"养活自己"用 **support** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S6] · 她标「这个词组学下」· 原话 `If I could sustain myself（这个词组学下)  without a traditional 9-to-5` ⇒ 更好版 support myself
+- 2026-10-07 ✅ 学习日 在池第 2 组 [5] · `She supported herself as a tutor back in college.` —— supported herself。连错 1 → 连对 1
 
 ### 422 · day in, day out（日复一日、天天如此）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **day in, day out**（也说 day in and day out）＝ 每天都一个样、没完没了，常带"单调"的味道，放句尾：do the same thing day in, day out。
@@ -1233,10 +1240,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 day in（day out 留给她）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S7] · 她标「这个搭配学下」· 原话 `repeating company busywork day in and day out（这个搭配学下) .`
+- 2026-10-07 ✅ 学习日 在池第 2 组 [8] · `My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.` —— day in, day out 放句尾。连错 1 → 连对 1（下次点名降回 day in；她标背 windowsill ⇒ 另建 #426，标学 soaking up ⇒ 另建 #427）
 
 ### 423 · job insecurity（工作没保障、不稳定；⛔ company instability）
 类型 搭配 ｜ 新建 2026-10-06
-状态 连对0 连错1 上次2026-10-06 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **job insecurity** ＝ 工作没保障、随时可能被裁的那种不稳定（job security 的反面）。
@@ -1261,6 +1269,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "对很多年轻人来说，工作不稳定是最大的压力来源。"（"工作不稳定"用 **job insecurity** 说）
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · diff-2 ⚠️ · 原话 `burnt out on constant overtime and company instability.` ⇒ 更好版 job insecurity
+- 2026-10-07 ✅ 学习日 在池第 2 组 [7] · `For a lot of young people, job insecurity is their biggest source of stress.` —— job insecurity。连错 1 → 连对 1
 
 ### 424 · set aside ＋ 钱／时间（专门留出一部分）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
@@ -1289,6 +1298,91 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "我每个月都留出一笔钱，专门用来旅行。"（"留出"用 **set aside** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 1 组 [5]（#410 题里）· 她标「这个词组学下」· 原话 `setting aside（这个词组学下) part of my paycheck every month to donate to charity`
+
+### 425 · make the move（真的迈出那一步、付诸行动）
+类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**make the move** ＝ 下决心真的去做、迈出那一步（常指换工作、搬家、转行这种大决定）：finally make the move ／ make the move to freelancing ／ make the move to London。
+同一格里的邻居（别串）：#418 sit on（攥着想法没动手 —— 正好是 make the move 的前一个阶段）· take the plunge（豁出去下决心，更带"跳下去"的冒险味）· make a move（动身、该走了；也指采取行动）。
+判据一句话：说"终于真干了／迈出了那一步" ⇒ make the move；还憋着没动 ⇒ sit on。
+★ 题型判整句："迈出那一步"翻成 finally did it／went for it 都合法 ⇒ 整句 ＋ 正向点名。
+★ 与 #418 分工：#418 考"攥着没动手"（sit on），本条考"真的动手了"（make the move）—— 一前一后两个块，各走各的。
+
+**怎么发现的**
+2026-10-07 学习日 在池第 2 组 [3]（#418 题"开咖啡店这个想法他憋了好几年，一直没敢真干"）· 原话
+`He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "make the move"／"make a move" ⇒ 零命中；"plunge" ⇒ 只命中 🎓#335 历史句（take action），不是这个块 ⇒ 否
+　② 中文 dedup "迈出" ⇒ 命中 #418（sit on 正文"还没真的迈出那一步"，是本条的前一个阶段，目标形式不同）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（用法本身对）　　目标：`never quite making the move`
+找法："终于下决心真干了"，先落 make the move（要说转去做什么就接 to ＋ 名词）。
+
+**题面**
+"她考虑辞职去考研考虑了两年，今年终于真的迈出了那一步。"（"迈出那一步"用 **make the move** 说）
+
+- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [3]（#418 题里）· 她标「这个词组学一下」· 原话 `never quite making the move(这个词组学一下).`
+
+### 426 · windowsill（窗台）
+类型 词汇 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**windowsill** ＝ 窗台（窗户下沿那条可以放东西、猫能趴的平台）：on the windowsill ／ a plant on the windowsill。
+同一格里的邻居（别串）：window（窗户本身）· ledge（凸出来的窄台子，泛指）· balcony（阳台）。
+判据一句话：窗户下面那条平台 ⇒ windowsill，介词用 on。
+★ 题型判词组："窗台"只映射回 windowsill（window ledge 合法照判），一个块就覆盖考点 ⇒ 词组题、零英文提示。
+
+**怎么发现的**
+2026-10-07 学习日 在池第 2 组 [8]（#422 题"我家的猫日复一日地趴在同一个窗台上晒太阳"）· 原话
+`My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.`
+她自己标「这个单词背一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "windowsill"／"sill" ⇒ 零命中
+　② 中文 dedup "窗台" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个单词背一下」（词不在手边）　　目标：`windowsill`
+找法：说"窗台"，先落 windowsill。
+
+**题面**
+"窗台上摆着的几盆小多肉"（窗户下沿那条能放东西的平台）
+
+- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个单词背一下」· 原话 `My cat sits on the exact same windowsill(这个单词背一下)`
+
+### 427 · soak up ＋ the sun／the atmosphere（尽情享受、吸收）
+类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**soak up** ＝ 像海绵吸水一样，把阳光／氛围／景色尽情吸收进来：soak up the sun ／ soak up the atmosphere ／ soak up the view。
+同一格里的邻居（别串）：🎓#353（vibe 挂在地方上 —— 正文例句 soak up a different vibe，考点在 vibe 不在 soak up）· enjoy（泛泛地享受）· bask in the sun（晒太阳，偏书面）。
+判据一句话：说"晒太阳／尽情感受那个氛围" ⇒ soak up ＋ the sun／the atmosphere。
+★ 题型判整句："晒太阳"翻成 sunbathe／lie in the sun 都合法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-07 学习日 在池第 2 组 [8]（#422 题"我家的猫日复一日地趴在同一个窗台上晒太阳"）· 原话
+`My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "soak" ⇒ 命中 🎓#353（正文例句 soak up a different vibe；那条考的是 vibe 挂在地方上、人不待在 vibe 里）⇒ 不是同一个考点，否
+　② 中文 dedup "晒太阳" ⇒ 零命中；"sunbath" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（用法本身对）　　目标：`soaking up the sun`
+找法："晒太阳／感受一下气氛"，先落 soak up。
+
+**题面**
+"周末我们就躺在沙滩上晒了一下午太阳。"（"晒太阳"用 **soak up** 说）
+
+- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个词组学一下」· 原话 `soaking up(这个词组学一下) the sun, day in, day out.`
 
 ## 迁移说明（2026-08-18）
 
