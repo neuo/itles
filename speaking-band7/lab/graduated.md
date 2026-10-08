@@ -16615,3 +16615,214 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-04 ❌ 首犯 · 付息日 d 段重答 bank:521 [S3] · 她标「这个词组学一下」· 原话 `just as precious, if not more（这个词组学一下)`
 - 2026-10-05 ✅ 学习日 在池第 2 组 [3] · `Sleep is just as important as diet, if not more so.` —— if not more so（整块点名首测）。连错 1 → 连对 1；下次点名降回 if not
 - 2026-10-06 ✅ 学习日 在池第 2 组 [1]（点名降到 if not）· `Shopping for clothes online is just as convenient as buying in-store, if not more so.` —— more so 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
+类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-05 ＋ 10-07）｜ 题型 整句
+
+**问题是什么**
+**lose sight of sth** ＝ 忙着别的，把本来重要的东西（目标、初心、身边的人）丢在脑后：`lose sight of what really matters` ／ `lose sight of why you started`。
+字面也能说"看不见了"：`We lost sight of the boat in the fog.`
+同一格里的邻居（别串）：forget（大白话"忘了"，没有"被别的事挡住"这层）· overlook（没注意到、忽略）。
+判据一句话：因为忙着追别的、把本来看重的东西丢到脑后 ⇒ lose sight of。
+★ 题型判整句：forget 也合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-04 付息日 d 段重答 bank:521（R19 · P3 · Is it good for a person to be ambitious?）[S3] · 原话
+`But being overly ambitious can make you lose sight of things that are just as precious, if not more …`
+她用对了；反馈发出后她点名「lose sight of 也新建一个条目吧」⇒ §2③ 她要学 ⇒ 建号（📝 新建：用对了、不是不会，不判 ❌）。
+判重三步：
+　① 目标形式 dedup "lose sight"／"sight"／"bigger picture" ⇒ 只命中今天新建的 #404 #405（触发原话里带这几个词，考点是 overly／if not more so）⇒ 否
+　② 中文 dedup "初心"／"丢在脑后" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了（`lose sight of things that are just as precious`），事后点名要记　　目标：`lose sight of ＋ 东西`
+找法：说"忙着…就忘了真正重要的…"，先落 lose sight of。
+
+**题面**
+"很多人工作一忙，就忘了自己当初为什么出发。"（"忘了"用 **lose sight of** 说）
+★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 sight（lose／of 留给她）
+
+- 2026-10-04 📝 新建 · 付息日 d 段重答 bank:521 [S3] · 她事后点名「lose sight of 也新建一个条目吧」· 原话 `can make you lose sight of things that are just as precious`
+- 2026-10-05 ✅ 学习日 在池第 2 组 [4] · `Once work gets busy, many people lose sight of why they started in the first place.` —— lose sight of（整块点名首测）。首测 ⇒ 连对 1；下次点名降回 sight
+- 2026-10-07 ✅ 学习日 在池第 2 组 [9]（点名降到 sight）· `A lot of people lose sight of their health when trying to lose weight.` —— lose／of 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 407 · chalk（粉笔）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+
+**问题是什么**
+**chalk** ＝ 粉笔（不可数，说材料）：write in chalk ／ red chalk；数根数用 a piece of chalk ／ two sticks of chalk。
+同一格里的邻居（别串）：blackboard（黑板）· whiteboard ＋ marker（白板 ＋ 白板笔）。
+判据一句话：说"用粉笔写" ⇒ in chalk（跟 🎓#162 的 in pencil 一个格）；数根数 ⇒ a piece of chalk。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [1]（#162 题"黑板上用红粉笔写的那几个大字"）· 原话
+`the big words written on the blackboard in red chalk（这个单词背一下).`
+她自己标「这个单词背一下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "chalk" ⇒ 零命中
+　② 中文 dedup "粉笔" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个单词背一下」（词不在手边）　　目标：`chalk`
+找法：说"粉笔"，先落 chalk；要数根数就加 a piece of。
+
+**题面**
+"老师随手拿起一根粉笔在黑板上画了个圈"（教室里写黑板用的那种白色小棍）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [1]（#162 题里）· 她标「这个单词背一下」· 原话 `written on the blackboard in red chalk（这个单词背一下)`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [2] · `The teacher picked up a piece of chalk and casually drew a circle on the board.` —— a piece of chalk。连错 1 → 连对 1
+- 2026-10-07 ✅ 学习日 在池第 1 组 [2] · `The hopscotch grid kids drew on the sidewalk in colored chalk.` —— in colored chalk。连对 1 → 2 ⇒ **毕业**
+
+### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+
+**问题是什么**
+**round** ＝ 一轮（谈判、面试、比赛、投票、一圈酒）：several rounds of talks ／ the second round of interviews ／ a round of drinks。
+同一格里的邻居（别串）：turn（轮到某人：It's my turn. ／ take turns 轮流）。
+判据一句话："第几轮／好几轮"这种一轮一轮的过程 ⇒ round；"轮到我／轮流" ⇒ turn。
+★ 题型判整句：要在句子里分得清 round 和 turn，孤立翻"一轮"测不出她想用 turn 的那个岔口。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [7]（#399 题"经过好几轮谈判，双方终于在价格上达成了一致"）· 原话
+`After several rounds（学下，老是想用 turn） of negotiating, …`
+她自己标「学下，老是想用 turn」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "round" ⇒ 命中 🎓#109（enough to go round：够分）· 🎓#132（ring road）· 🎓#344（come over）—— 都不是"一轮" ⇒ 否；dedup "turn" ⇒ 命中的都是 turn down／turn to 等动词短语 ⇒ 否
+　② 中文 dedup "一轮"／"轮" ⇒ 命中的都是正文带"轮"字的别的考点（#395 tournament · #399 negotiation 等）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「老是想用 turn」　　目标：`several rounds of ＋ 名词`
+找法："轮"先分一刀：是一轮一轮的过程（round），还是轮到谁（turn）？
+
+**题面**
+"我进了第二轮面试，下周还要再面一次。"（"第二轮"用 **round** 说）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「学下，老是想用 turn」· 原话 `After several rounds（学下，老是想用 turn） of negotiating`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [3] · `I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.` —— the second round of interviews。连错 1 → 连对 1（她标学 made it through to ⇒ 另建 #415）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [3]（题面"这个月公司已经裁了两轮人了"）· `The company has already gone through two rounds of layoffs this month.` —— two rounds of layoffs。连对 1 → 2 ⇒ **毕业**
+
+### 409 · come to an agreement (on sth)（达成一致）
+类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+
+**问题是什么**
+**come to an agreement** ＝ 双方谈下来、达成一致；谈的事用 on 挂后面：come to an agreement on the price。
+同义：reach an agreement（更正式一点）· agree on sth（大白话：We agreed on the price.）。
+判据一句话：说"达成一致／谈拢了" ⇒ come to／reach an agreement；只说"同意某件事" ⇒ agree on。
+★ 题型判整句：reach an agreement／agree on 都合法，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-05 学习日 在池第 1 组 [7]（#399 题"经过好几轮谈判，双方终于在价格上达成了一致"）· 原话
+`both sides finally came to an agreement(这个词组学一下) on the price.`
+她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "agreement"／"agree on" ⇒ 只命中 🎓#135 · #10（正文带这个词，考点不是这个块）⇒ 否
+　② 中文 dedup "达成"／"一致" ⇒ 命中的都是正文带这两个字的别的考点（#182 by -ing · #10 主谓一致 等）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（块不在手边）　　目标：`come to an agreement on sth`
+找法："谈拢了／达成一致"，先落 come to an agreement，谈的事用 on 挂后面。
+
+**题面**
+"我们跟房东谈了半天，最后在房租上达成了一致。"（"达成了一致"用 **come to an agreement** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 agreement（come to／on 留给她）
+
+- 2026-10-05 ❌ 首犯 · 学习日 在池第 1 组 [7]（#399 题里）· 她标「这个词组学一下」· 原话 `both sides finally came to an agreement(这个词组学一下) on the price`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [4] · `After negotiating with the landlord for a while, we finally came to an agreement on the rent.` —— came to an agreement on the rent。连错 1 → 连对 1（下次点名降回 agreement）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [4]（点名降到 agreement）· `My roommate and I finally came to an agreement on who cleans the place.` —— come to／on 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 410 · charity（慈善／慈善机构）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+
+**问题是什么**
+**charity** ＝ 慈善；也指一家慈善机构（可数）：a charity ／ charity work（做慈善）／ a charity event（慈善活动）／ give money to charity（捐给慈善）。
+同一格里的邻居（别串）：donate（捐）· volunteer（当志愿者）· philanthropy（慈善事业，书面）。
+判据一句话：说"慈善／慈善机构" ⇒ charity；放名词前当定语 ⇒ charity ads ／ a charity concert。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 3 组 [3]（#363 题"有些慈善广告专门打感情牌，让你忍不住想捐钱"）· 原话
+`Some charity ads appeal directly to your emotions to make you want to donate.(慈善这个词又忘了)`
+她说「慈善这个词又忘了」⇒ §2③ 建号，判 ❌（"忘了"也是 ❌；§3.2b：哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "charity" ⇒ 零命中
+　② 中文 dedup "慈善" ⇒ 零命中（"又"指的是以前也忘过，但档案里从没建过号）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：「慈善这个词又忘了」（词不在手边）　　目标：`charity`
+找法：说"慈善…"，先落 charity。
+
+**题面**
+"公司年底办的慈善晚会"（为了给困难的人筹钱办的那种活动）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 3 组 [3]（#363 题里）· 她说「慈善这个词又忘了」· 原话 `Some charity ads appeal directly to your emotions …(慈善这个词又忘了)`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [5] · `The company's year-end charity gala(这个词学一下).` —— charity。连错 1 → 连对 1（她标学 gala ⇒ 另建 #416）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [5] · `setting aside（这个词组学下) part of my paycheck every month to donate to charity` —— donate to charity。连对 1 → 2 ⇒ **毕业**（她标学 setting aside ⇒ 另建 #424）
+
+### 411 · change out of ＋ 衣服（把…换下来）
+类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+
+**问题是什么**
+**change out of sth** ＝ 把身上这套换下来：change out of my work clothes ／ change out of these wet clothes。
+反方向：**change into sth** ＝ 换上：change into my pajamas；只说"换衣服"不说哪套 ⇒ get changed。
+判据一句话：脱下来的那套 ⇒ out of；穿上去的那套 ⇒ into；不说是哪套 ⇒ get changed。
+★ 题型判整句：get changed／take off 也能达意，中文块映射不回唯一的英文块 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 4 组 [2]（#374 题"下班回到家，我累得连衣服都懒得换"）· 原话
+`After getting home from work, I couldn't be bothered to even change out of（这个词组可以学下） my clothes.`
+她自己标「这个词组可以学下」⇒ §2③ 建号，判 ❌（§3.2b：说要学的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "change out of"／"change into" ⇒ 零命中
+　② 中文 dedup "换衣服"／"换下" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组可以学下」（块不在手边）　　目标：`change out of ＋ 衣服`
+找法：说"换下／换上"，先分方向：脱的用 out of，穿的用 into。
+
+**题面**
+"一进家门，我就先把湿透的衣服换了下来。"（"换下来"用 **change out of** 说）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 change（out of 留给她）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [2]（#374 题里）· 她标「这个词组可以学下」· 原话 `I couldn't be bothered to even change out of（这个词组可以学下） my clothes`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [6] · `The moment I got home, I immediately changed out of my soaked clothes.` —— changed out of。连错 1 → 连对 1（下次点名降回 change；immediately 与 The moment 叠用进 diff-2）
+- 2026-10-07 ✅ 学习日 在池第 1 组 [6]（点名降到 change）· `After my workout, I changed out of my gym clothes in the locker room.` —— out of 自己补上了。连对 1 → 2 ⇒ **毕业**
+
+### 412 · braised（红烧的／焖炖的）
+类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-07 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+
+**问题是什么**
+**braised** ＝ 先煎再加汤汁小火焖到入味的做法：braised pork（红烧肉）／ braised beef（红烧牛肉）。
+同一格里的邻居（别串）：stewed（炖的，汤更多）· stir-fried（炒的）· steamed（蒸的）。
+判据一句话：中餐菜名里"红烧／焖" ⇒ braised；汤汤水水的"炖" ⇒ stewed。
+
+**怎么发现的**
+2026-10-05 学习日 复检第 4 组 [6]（#348 题"外婆做的红烧肉，比饭店里的好吃多了"）· 原话
+`My grandma's braised（这个词背下） pork tastes so much better than what they serve at restaurants.`
+她自己标「这个词背下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "braised"／"braise"／"stew" ⇒ 零命中
+　② 中文 dedup "红烧"／"炖" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背下」（词不在手边）　　目标：`braised`
+找法：说"红烧…"，先落 braised。
+
+**题面**
+"我最拿手的一道菜是红烧牛肉"（酱油汤汁里小火焖到入味的那种做法）
+
+- 2026-10-05 ❌ 首犯 · 学习日 复检第 4 组 [6]（#348 题里）· 她标「这个词背下」· 原话 `My grandma's braised（这个词背下） pork`
+- 2026-10-06 ✅ 学习日 在池第 2 组 [7] · `My signature dish is braised beef.` —— braised beef。连错 1 → 连对 1
+- 2026-10-07 ✅ 学习日 在池第 1 组 [7] · `the braised chicken served for lunch at the cafeteria today` —— braised chicken。连对 1 → 2 ⇒ **毕业**

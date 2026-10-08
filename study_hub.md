@@ -8,7 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-10-07 · 写作 D1 学习日（周期 C9）· 已收尾**
+🆕🆕🆕 **2026-10-07 · 口语 L3（周期 10 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **19 题 / 19 条 ✅19 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**（在池空出 1 组下溢给复检，到期 15 条一组装下；今天到期全部出完）
+  —— 🎓 **毕业 7 条**（#406 lose sight of · #407 chalk · #408 a round of · #409 come to an agreement · #410 charity · #411 change out of · #412 braised）
+  —— #366 make bank 这次光秃秃的 bank 没加 a ⇒ 连错 2 → 连对 1
+  　　 ⇒ 全档 **408** ＝ problems 30 ＋ graduated **378**（92.6%）
+  —— 🆕 **新建 8 条** #424 set aside · #425 make the move · #426 windowsill · #427 soak up · #428 be featured in · #429 hold a grudge · #430 street market ≠ shopping street · #431 well planned out
+  —— 回看 1 篇（bank:510）；新题 bank:1151（P3 集市 vs 商场）：0 处真错 · ⚠️ 切题（street markets 答成 shopping streets）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄0 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · R（付息日）**：在池 #424–#431 首测 ＋ 连对1 12 条；回看本周期 bank:510 · bank:1151；复检 3 组；c 段 review；d 段重答；⛔ 不出新题
+
+🆕🆕 **2026-10-07 · 写作 D1 学习日（周期 C9）· 已收尾**
   —— 复习 **在池 3 组 22 条 ＋ 复检 1 组 10 条 ＝ 32 条主判定**，命中 **28/32 ＝ 87.5%**
   　　 组1 90% · 组2 80% · 组3 100% ｜ 复检组1 9/10 ｜ 一字未改率（在池句子题）13/14 ＝ 92.9%
   —— 🎓 **毕业 5 条**（#0049 #0126 #0345 #0507 #0533）⇒ 全档 **529**（problems 67 ＋ graduated 462，🎓 87.3%）

@@ -6944,3 +6944,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 ④ 题面围栏首行带了组头、对应编号没写成 `k #NNNN` ⇒ trigger 拦下，收尾改 session
 
 **下一场 ＝ C9·D2 学习日**：必出层 ＝ #0555–#0559；#0106 #0494 回潮首测；#0550 #0553 #0554 再测
+
+## 2026-10-07（周三）· 口语 L3（周期 10 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 408 ＝ problems.md 30 ＋ graduated.md 378 ｜ 🎓 378（92.6%）｜ 未毕业 30 ｜ 可出题 20 ｜ 今天到期剩 0 ｜ ⚡ 累计 263 条、掉过 10（校准 4%）｜ 重答队列 64 / 未重答 45
+
+**五段**
+- ① 在池 2 组 19 题 / 19 条：**✅19 ❌0** ⇒ **毕业 7**（#406–#412）；#366 make bank 这次没加 a ⇒ 连对 1
+- ①b 复检 1 组 10 题 / 15 条：**✅15 ❌0**（#262 ③ 贴两遍、④ 漏答，当场补答 ✅）
+- ② 回看 1 篇：bank:510（`lookback --print` 原样贴）
+- ③ 新题 bank:1151（P3 · 集市 vs 商场）：0 处真错 · ⚠️ 切题（street markets 答成 shopping streets）· 她标学 1 处
+- 新建 8：#424 set aside · #425 make the move · #426 windowsill · #427 soak up · #428 be featured in · #429 hold a grudge · #430 street market · #431 well planned out
+
+**教练犯规**：回看节先写标题再跑 `lookback --pending` ⇒ 脚本认成已回看、打出"无"，deliver 拦下后改 `--print bank:510` 重贴（发出前已修好）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 7⇄0
+
+**下一场 ＝ 周期 10 · R（付息日）**：在池 #424–#431 首测 ＋ 连对1 12 条；`lookback --cycle`（bank:510 · bank:1151）；复检 3 组；c 段 review；d 段重答；⛔ 不出新题
