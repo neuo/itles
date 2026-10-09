@@ -3382,7 +3382,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
 类型 结构 ｜ 旧号 B163
-状态 连对1 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-20 · 她指定**（"这个也问了很多很多次了，毕业了"）｜ 旧账 ｜ 题型 整句
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 旧账 ｜ 题型 整句 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）
 
 **问题是什么**
 **否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
@@ -3419,6 +3419,9 @@ no 一路盖到 and 后面那半。两条解法：
 - 2026-09-07 ✅ 复检 · 第 5 组（加练）· `I want a job with no overtime, and one that is stable.`
   —— 把 stable 挪出了 no 的辖域（另起 one that is stable），⛔ 没写成 with no overtime and stability
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [6] · `I want to find a place with no line and reasonable prices.` —— no 盖到 and 后面，能读成"也没有公道的价格" ⇒ **回潮**
+  最小改 `I want to find a place with no line, and with reasonable prices.`　更好版 `I want to find a place where you don't have to wait in line and the prices are reasonable.`
+  ❌ no／not … and … ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就拆
 - 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
   单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
   ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
@@ -9102,7 +9105,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 256 · even if ＝ 还没发生的假设（"就算…"）
 类型 语法 ｜ 新建 2026-08-19（从 #165 拆出）
-状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 整句
 
 **问题是什么**
 **even if ＝ 还没发生的假设（"就算…"）**：`Even **if** it rains, I'll go`（even if ＋ 一般现在时 ＋ 主句 will）。
@@ -9132,6 +9135,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"even ＋ 一个词"形态描述，只点名 even —— if／though 的选择留给她（她掉过的就是把假设写成 even though）；换成比赛照常进行场景
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [7] · `Even if he apologizes, I'm still not gonna forgive him.` —— even if ＋ 还没发生的假设
 - 备注 她当天问"要用虚拟语气么" → **不用**：even if ＋ 一般现在时（Even if it rains, I'll go）；
   虚拟只在"跟事实相反"时上（Even if it were sunny, I'd still stay in ＝ 其实是阴天）。
   同日第 4 题她的 `if it were a bit more expensive` 正是正确的虚拟用法 ⇒ **两种都会，只是选错场合**
@@ -10344,7 +10348,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 275 · whether 后面要跟【主谓】，不能只跟名词或形容词
 类型 结构 ｜ **从 #64 拆出 2026-08-23**
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-27**（同日两次产出各算一次，§3.3）｜ 题型 整句
+状态 连对3 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-08-27**（同日两次产出各算一次，§3.3）｜ 题型 整句
 
 **问题是什么**
 **whether 后面要跟【主谓】，不能只跟名词或形容词**。
@@ -10399,6 +10403,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
   ⇒ 属**重复不属自发**，按 §4① 加速通道的边界（她 08-27 认可的那条）只记 ⚪，不当第 4 次命中
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（她原话："3. 直接过" —— 答卷上第二个"3."，按位置 ＝ 第 4 题）
 - 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R11（P3 · 自由产出）· `whether you have time`——whether ＋ 完整主谓
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [8] · `I haven't really decided whether I should take the job yet.` —— whether 后面跟主谓
 
 
 ### 276 · for ages ／ in ages ＝ "很久"（for long 只用在"没持续多久"里）
@@ -15098,7 +15103,7 @@ magic→magical · music→musical · practice→practical · politics→politic
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
@@ -15138,10 +15143,11 @@ magic→magical · music→musical · practice→practical · politics→politic
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ emotionally"，只点名 level，on／at 与冠词留给她；换成广告打动人场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [1] · `This song means a lot to me on a personal level.` —— on a personal level
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [4] · `On a psychological level, this failure hit him pretty hard.` —— on a … level，介词 on
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
 
 **问题是什么**
 **persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
@@ -15173,10 +15179,11 @@ persuade 偏"让人做"）。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"一个名词、p 开头 ＋ 排除项"，改中文释义；换成销售说服能力场景（09-26 发过的两个块⛔不复用）
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [2a] · `The power of persuasion in a speech.` —— the power of persuasion
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [2b] · `a lawyer's power of persuasion in court` —— persuasion 名词，没写成 persuade
 
 ### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
 类型 语法 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
@@ -15214,6 +15221,7 @@ persuade 偏"让人做"）。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ can／be able to"，正向点名 get to，后面接动词原形留给她；换成当老师场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [3] · `The best part about being a teaching is getting to watch kids grow up step by step.` —— get to 后面接了动词（getting to watch）｜teaching → teacher 打字，§2.1 不算
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [5] · `The best thing about being a tour guide is that you get to visit a lot of places for free.` —— get to ＋ 动词原形
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
@@ -16243,7 +16251,7 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
 
 **问题是什么**
 **throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
@@ -16273,10 +16281,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [8] · `… so he threw a huge tantrum on the mall floor.` —— threw a tantrum（首次出题整块点名）。连错 1 → 连对 1；下次点名降回 tantrum
 - 2026-10-05 ✅ 学习日 在池第 1 组 [2] · `A little boy at the supermarket threw a big tantrum on the floor …` —— 点名降到 tantrum，throw 自己补上。连对 1 → 2 ⇒ **毕业**
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [1] · `Whenever I don't let my daughter watch cartoons, she throws a tantrum on the floor.` —— 点名降到 tantrum，throw 自己补上
 
 ### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
 类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 词组
 
 **问题是什么**
 **tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
@@ -16304,10 +16313,11 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [9] · `This summer's esports tournament.` —— tournament。连错 1 → 连对 1
 - 2026-10-05 ✅ 学习日 在池第 1 组 [3] · `the national university debate tournament` —— tournament。连对 1 → 2 ⇒ **毕业**
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [2a] · `a school chess tournament` —— chess tournament
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-10-05**（连对2 ＝ 10-04 ＋ 10-05）｜ 题型 整句
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -16337,6 +16347,9 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
   ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
 - 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**
+- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [3] · `This investment is huge for us—our life savings are on the line.` —— 题面点名 at stake，换成了同义的 on the line，at stake 没出来 ⇒ **回潮**
+  最小改 `This investment is huge for us—our life savings are at stake.`
+  ❌ at stake 放在 be 后面；on the line 同义可留，但本条要练的 at stake 没调出来
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -16371,7 +16384,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 
 ### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **X is on the line** ＝ X 押在这儿了，结果不好 X 就没了（工作、名声、钱、公司的未来）：`My job is on the line.`
@@ -16398,6 +16411,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-04 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#396 题里）· 她标「这个词组学一下」· 原话 `the entire future of the company is on the line（这个词组学一下）`
 - 2026-10-05 ✅ 学习日 在池第 1 组 [6] · `Nothing else can go wrong with this project, or his job is on the line.` —— his job is on the line。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [4] · `If he loses this lawsuit, his entire company is on the line.` —— 被押的东西当主语。连对 1 → 2 ⇒ **毕业**
+- 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [3]（#396 题里，自发命中）· `our life savings are on the line.` —— 被押的东西当主语 ＋ are on the line（题面点名的是 #396 at stake，这一处记为 #398 的自发命中证据）
 
 ### 399 · negotiation（谈判，名词）／negotiate（动词）
 类型 词汇 ｜ 新建 2026-10-04
