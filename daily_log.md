@@ -6998,3 +6998,21 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 ② 对应编号把词组题写成一行多编号 ⇒ trigger 拦下，收尾改 session（10-07 同一教训）
 
 **下一场 ＝ C9·D3 学习日**：必出层 ＝ #0560 #0561 #0562；#0555 #0557 再测
+
+## 2026-10-08（周四）· 口语 R（周期 10 付息日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 414 ＝ problems.md 26 ＋ graduated.md 388 ｜ 🎓 388（93.7%）｜ 未毕业 26 ｜ 可出题 16 ｜ 今天到期全部出完 ｜ ⚡ 累计 263 条、掉过 11（校准 4%）｜ 重答队列 64 / 未重答 44
+
+**五段**
+- a 在池 2 组 20 题 / 20 条：**✅19 ❌1**（#429 忘了）⇒ **毕业 12**（#366 #413 #414 #415 #416 #417 #418 #419 #420 #421 #422 #423）
+- ⓪ 回看 2 篇：bank:510 · bank:1151（`lookback --cycle` 原样贴）
+- a2 复检 1 组 8 题 / 9 条：**✅7 ❌2** ⇒ 回潮 #396（题面点名 at stake，答成 on the line ⇒ 记 #398 自发命中）· #96（with no line and reasonable prices，否定辖域）
+- c 段：合并 0；拆号 0；未标题型 0；正文待升级 0
+- d 段重答 bank:364（R20 · Why are there special foods on special occasions?）：真错 0 ｜ 她标学 1（#437）
+- 新建 6：#432 cross-border ≠ transnational（合并条）· #433 semi-final · #434 a month straight · #435 succulent · #436 downstairs from · #437 , which they don't
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 12⇄2
+
+**下一场 ＝ 周期 11 · L1**：#432–#437 首测 ＋ #96 #396 回潮 ＋ 在池其余；复检；回看 bank:364；新题 1 道

@@ -546,6 +546,53 @@
   —— shown 只活在助动词后面；同一组里 `he was two`／`I haven't seen` 都做对了 ⇒ §3.4 判形态类
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 
+### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
+类型 结构 ｜ 旧号 B163
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 旧账 ｜ 题型 整句 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）
+
+**问题是什么**
+**否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
+no 一路盖到 and 后面那半。两条解法：
+· 解法 A 换正面名词：reasonable hours and job security
+· 解法 B 拆成两个并列项：`a job **with no overtime**, and **one that is stable**`
+同一格里的邻居（别串）：`I don't usually order takeaway and cook` 是同一个病（not 盖到 and 后面，听起来成了"也不做饭"）。
+判据一句话：句子里出现 `not／no … and …` ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就得拆。
+
+**怎么发现的**
+旧 B 表迁移（B163，2026-08-18，旧账），原始触发原话未存；最早记录 2026-08-09 ❌。
+2026-08-19 ✅ `i want a job with no overtime, and one that is stable`（自己选到了解法 B）→ 当时判毕业；
+**同日** ❌ `I don't usually order takeaway and cook` ⇒ 两次都是 cold、以最后一次为准 ⇒ 撤销毕业。
+2026-08-20 ✅ 复习辖域正确（no 只管 overtime，stable 被拆进另一个并列项）⇒ 她当场指定毕业。
+2026-09-07 复检（加练）✅ ⛔ 没写成 with no overtime and stability。
+
+**我错在哪**
+她的：`I don't usually order takeaway and cook`（2026-08-19 同日第二次）
+正确：把 and 后面那半拆出去别让 not 盖过去 —— 标准解法 ＝ `a job with no overtime, and one that is stable`
+找法：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍。
+
+**题面**
+"我想要一份不加班又稳定的工作。"
+
+- 2026-08-09 ❌
+- 2026-08-10 ✅
+- 2026-08-17 ✅
+- 2026-08-19 ✅ `i want a job with no overtime, and one that is stable`——自己选到了解法 B → 当时判毕业
+- 2026-08-19 ❌ 同日 · `I don't usually order takeaway and cook`——not 一路盖到 and 后面，
+  听起来是"也不做饭" ⇒ 两次都是 cold，以最后一次为准 ⇒ **撤销毕业**
+- 2026-08-20 ✅ 复习 · `I want a job with no overtime, and one that is stable`——辖域正确
+  （no 只管 overtime，stable 被拆进另一个并列项）⇒ 她当场指定毕业
+  ★ 检查触发保留有效：`not … and …` 出现时，把 and 后面那半单独接回否定念一遍
+- 2026-09-07 ✅ 复检 · 第 5 组（加练）· `I want a job with no overtime, and one that is stable.`
+  —— 把 stable 挪出了 no 的辖域（另起 one that is stable），⛔ 没写成 with no overtime and stability
+- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [6] · `I want to find a place with no line and reasonable prices.` —— no 盖到 and 后面，能读成"也没有公道的价格" ⇒ **回潮**
+  最小改 `I want to find a place with no line, and with reasonable prices.`　更好版 `I want to find a place where you don't have to wait in line and the prices are reasonable.`
+  ❌ no／not … and … ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就拆
+- 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
+  单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
+  ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
+- 备注 解法A 换正面名词（reasonable hours and job security）／解法B 拆两句
+
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
 类型 语法 ｜ 旧号 B236
@@ -701,382 +748,41 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
-类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-08 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
+### 396 · at stake（押在那儿、利害攸关：how much is at stake）
+类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）
 
 **问题是什么**
-**make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
-同一格里的邻居（别串）：make a fortune（发大财，偏正式）· make good money（挣得不错）
-判据一句话：口语里说"赚翻了"⇒ making (absolute) bank。
+**at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
+`There's a lot at stake.` ／ `How much is at stake?` ／ `Our reputation is at stake.`
+⛔ 不能直接放名词前，也不能接在 how much 后面再另挂别的谓语（how much at stake it feels ✗）。
+同一格里的邻居（别串）：the stakes are high（stakes 当名词，"赌注很大"）· high-stakes（放名词前当形容词：a high-stakes exam）。
+判据一句话：用 at stake ⇒ 前面补 is／are；要放名词前 ⇒ 改用 high-stakes。
+★ 题型判整句：考点是 at stake 在句子里的位置（be 后面），孤立翻一个块永远对 ⇒ 整句 ＋ 正向点名 at stake。
 
 **怎么发现的**
-2026-09-29 学习日 新题 bank:534：她写 `people working on large-language-model are making absolute bank(背一下)` —— 她点名要背。
+2026-10-03 学习日 新题 bank:504（P3 · What would you do if you did not receive a reply after sending out a message?）[S3] · 原话
+`It all comes down to how much at stake it feels.(at stake 要学下)`
+at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at stake 要学下」⇒ 建号，判 ❌。
 判重三步：
-　① dedup "make bank" ⇒ 零命中
-　② dedup "赚大钱" ⇒ 零命中
-　③ 保留新建
-
-**我错在哪**
-她的：用对了，点名要背（⭐ 不是纠错）
-找法：想说"赚翻了"，落 making absolute bank（bank 前面不加 a／the）。
-★ 10-05、10-06 两次都写成 `made a bank`：带 absolute 的两次从没加过 a，光秃秃一个 bank 时才冒出 a。
-　找法补一句：这里的 bank ＝ money，made money 不说 made a money ⇒ bank 前面也不放 a。
-
-**题面**
-"今年做直播带货的那几个主播都赚翻了。"（"赚翻了"用 **bank** 说）
-
-- 2026-09-29 新建 · 学习日新题 bank:534 · 她点名要背 · 原话 `people working on large-language-model are making absolute bank(背一下)`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
-  make a killing／make a fortune 都合法 ⇒ 改整句、点名 bank，make 与不加冠词留给她；换成直播带货场景
-- 2026-09-30 ✅ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts are making absolute bank this year.`（living 另建 #376）
-- 2026-10-02 ✅ 学习日 在池第 2 组 [9] · `That boba shop right outside the school gate makes absolute bank every summer.` —— makes absolute bank，bank 前不加冠词。连对 1 → 2 ⇒ **毕业**
-- 2026-10-05 ❌ 学习日 复检第 3 组 [6]（题面"那家网红餐厅开业第一个月就赚翻了"）· `That viral restaurant made a bank in its very first month.` —— make bank 的 bank 前面加了 a ⇒ **回潮**
-  最小改 `That viral restaurant made bank in its very first month.`　更好版 `… made absolute bank …`
-  ❌ make bank 里的 bank 是俚语"一大笔钱"，不加冠词；加了 a 像"开了一家银行"
-- 2026-10-06 ❌ 学习日 在池第 1 组 [2]（题面"他靠倒卖二手球鞋赚翻了"）· `He made a bank reselling second-hand sneakers.` —— bank 前面又加了 a（10-05 同一个错）。连错 1 → 2
-  最小改 `He made bank reselling second-hand sneakers.`　更好版 `He made absolute bank reselling second-hand sneakers.`
-  ❌ 这里的 bank ＝ 钱，跟 money 一样不可数（made money 不说 made a money）；带 absolute 的两次都没加 a，光秃秃一个 bank 时才冒出 a
-- 2026-10-07 ✅ 学习日 在池第 1 组 [1]（题面"我表姐开宠物美容店，这两年赚了大钱"）· `My cousin runs a pet grooming shop, and she's made bank over the last two years.` —— 光秃秃的 bank，前面没加 a。连错 2 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [1] · `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.` —— made bank，bank 前面没加 a。连对 1 → 2 ⇒ **毕业**（10-05 回潮后第二次毕业）
-  ｜她要求「加入 transnational 的条目做对比」⇒ 新建 #432
-
-### 413 · on the house（店家请客、不收钱）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
-同一格里的邻居（别串）：free（大白话"免费"）· complimentary（酒店、航空那种正式的"赠送"）· It's on me.（我请客 —— 个人请客用 on me，店家请客才用 on the house）。
-判据一句话：说"店家送的、不收钱" ⇒ on the house；它自己就是"免费"，⛔ 前面不再加 free。
-★ 题型判整句：中文"店家送的"翻成 free／complimentary 都合法，孤立翻块映射不回唯一的 on the house ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 在池第 1 组 [7]（#401 题"吃完饭饭店免费送的一份果盘"）· 原话
-`a free fruit platter on the house（这个词组学一下) after dinner.`
-她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "on the house"／"on me"／"complimentary" ⇒ 零命中
-　② 中文 dedup "请客"／"免费" ⇒ 零命中
+　① 目标形式 dedup "at stake"／"stakes" ⇒ 零命中
+　② 中文 dedup "利害"／"关系重大" ⇒ 零命中
 　③ 保留新建（⛔ 建号当天不测）
 
 **我错在哪**
-她的：自己标「这个词组学一下」；同一块里 free 和 on the house 叠用（意思说了两遍）　　目标：`a fruit platter on the house`
-找法：说"店家请的"，落 on the house，回头看前面有没有多出一个 free。
+她的：`how much at stake it feels`　　正确：`how much is at stake`（想留"感觉上" ⇒ how high the stakes feel）
+找法：说出 at stake 之前，先确认前面有 is／are。
 
 **题面**
-"这杯咖啡是老板请的，不用给钱。"（"老板请的"用 **on the house** 说）
-★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 house（on the 留给她）
+"这次谈判关系重大，公司的未来都押在上面了。"（"押在上面"用 **at stake** 说）
 
-- 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [7]（#401 题里）· 她标「这个词组学一下」· 原话 `a free fruit platter on the house（这个词组学一下) after dinner.`
-- 2026-10-07 ✅ 学习日 在池第 1 组 [8] · `This coffee is on the house, so don't worry about paying.` —— 前面没再叠 free。连错 1 → 连对 1（下次点名降回 house）
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [2] · `We waited for an hour at that restaurant, so the manager gave us a dessert on the house.` —— 点名降到 house，on the 自己补上、前面没加 free。连对 1 → 2 ⇒ **毕业**
-
-### 414 · tweak（小改、微调）
-类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
-同一格里的邻居（别串）：change（泛泛地改）· revise（改文稿，偏书面）· adjust（调数值、位置）· fine-tune（精调）· redo（推倒重来）。
-判据一句话：大体已经可以、只动一点点 ⇒ tweak；整个推翻重来 ⇒ redo。
-★ 题型判整句："稍微改改"翻成 change a little／adjust 都合法，孤立翻块映射不回唯一的 tweak ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 在池第 1 组 [10]（#404 题"他对自己的作品太苛刻了，怎么改都不满意"）· 原话
-`He is overly critical of his own work and never satisfied no matter how much he tweaks(这个词学下） it.`
-她自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "tweak"／"fine-tune"／"revise" ⇒ 零命中；dedup "adjust" ⇒ 命中 🎓#126（get used to／settle into 适应新环境，adjust 只出现在它的排除项里）⇒ 不是同一个词，否
-　② 中文 dedup "微调" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词学下」（词不在手边）　　目标：`tweak`
-找法："稍微改改／再调一调"，先落 tweak。
-
-**题面**
-"方案大体不错，开会前再稍微改改就行。"（"稍微改改"用 **tweak** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
-- 2026-10-07 ✅ 学习日 在池第 1 组 [9] · `The plan is solid for the most part; we just need to tweak it a bit before the meeting.` —— tweak it a bit。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [3] · `This photo turned out great—I just tweaked the colors a little bit.` —— tweaked the colors。连对 1 → 2 ⇒ **毕业**
-
-### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
-同一格里的邻居（别串）：make it to（到了、赶上：make it to the final 也能说，不强调"一关关过"）· get through（过了某一轮：I got through the first round）· go through to（英式体育报道：go through to the semi-finals）。
-判据一句话：说"闯进／晋级到哪一轮" ⇒ make it through to ＋ 那一轮；只说"过了这一关" ⇒ get through ＋ 这一轮。
-★ 题型判整句："闯进决赛"翻成 reached／got into the final 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 在池第 2 组 [3]（#408 题"我进了第二轮面试，下周还要再面一次"）· 原话
-`I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.`
-她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "make it"／"made it" ⇒ 命中 🎓#80（than ever）· 🎓#288（once 句型）· 🎓#299（not much of）—— 只是历史句里带这两个词 ⇒ 否；dedup "through to" ⇒ 命中 🎓#339（reach sb，正文邻居 get through to sb ＝ 打通电话）· 🎓#390（get through ＋ 书 ＝ 啃完）—— 都不是"晋级" ⇒ 否
-　② 中文 dedup "晋级" ⇒ 零命中；"进了" ⇒ 命中 🎓#368 land a job 等，正文带"进了"二字的别的考点 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学一下」　　目标：`make it through to the second round`
-找法："进了下一轮／闯进决赛"，先落 make it through to。
-
-**题面**
-"我们队一路闯进了决赛。"（"闯进"用 **make it through to** 说）
-★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 make it through（to 留给她）
-　10-08 只点 make it 时她答 made it to（合法，判 ✅），through 没逼出来 ⇒ 降级只降到 make it through，⛔ 不再只点 make it
-
-- 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [3]（#408 题里）· 她标「这个词组学一下」· 原话 `I made it through to（这个词组学一下) the second round of interviews`
-- 2026-10-07 ✅ 学习日 在池第 1 组 [10] · `Our team made it through to the finals.` —— made it through to the finals。连错 1 → 连对 1（下次点名降回 make it）
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [4] · `She made it to the semifinals(这个词背下) the first time she entered a singing competition.` —— 题面只点 make it，make it to 是条目列明的合法说法 ⇒ ✅；through 没逼出来 ⇒ 种子题面★改为连对后降回 make it through。连对 1 → 2 ⇒ **毕业**
-  ｜她自注「这个词背下」⇒ semi-final 另建 #433
-
-### 416 · gala（盛大的晚会／晚宴）
-类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
-同一格里的邻居（别串）：party（泛泛的聚会）· banquet（宴会，重点在吃）· ceremony（仪式、典礼）· fundraiser（筹款活动，不一定是晚会）。
-判据一句话：隆重、穿礼服、常带筹款的晚会 ⇒ gala；朋友聚一聚 ⇒ party。
-★ 题型判整句："盛大的晚会"翻成 a big party／banquet 也合法，孤立翻块映射不回唯一的 gala ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 在池第 2 组 [5]（#410 题"公司年底办的慈善晚会"）· 原话
-`The company's year-end charity gala(这个词学一下).`
-她自己标「这个词学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "gala" ⇒ 零命中
-　② 中文 dedup "晚会" ⇒ 只命中 #410（charity 的题面带"晚会"二字，考点是 charity 不是 gala）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词学一下」（词不在手边）　　目标：`gala`
-找法："盛大的晚会／慈善晚宴"，先落 gala。
-
-**题面**
-"博物馆每年都办一场盛大的晚会，来的人都穿着礼服。"（"盛大的晚会"用 **gala** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [1] · `The museum hosts a grand gala every year, with everyone dressed in formal wear.` —— a grand gala。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [5] · `The company threw a grand gala at the end of the year and invited a few celebrities to perform.` —— threw a grand gala。连对 1 → 2 ⇒ **毕业**
-
-### 417 · carve out time (for sth)（挤出／抽出时间）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
-同一格里的邻居（别串）：find time（找时间，大白话）· make time for（专门为某事留时间）· squeeze in（把一件事硬塞进日程：squeeze in a workout）。
-判据一句话：说"挤出／抽出时间做某事" ⇒ carve out time for ＋ 名词 ／ to ＋ 动词。
-★ 题型判整句："挤出时间"翻成 find time／make time 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 复检第 4 组 [4]（#130 题"我不会游泳；这几个月我一直没能抽出时间去健身房"）· 原话
-`I can't swim; over the past few months, I haven't been able to carve out(这个词组学下) time for the gym.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "carve"／"make time"／"find time" ⇒ 零命中
-　② 中文 dedup "抽出时间"／"挤出时间"／"抽时间" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」　　目标：`carve out time for the gym`
-找法："抽出时间／挤出时间"，先落 carve out time，后面接 for ＋ 名词或 to ＋ 动词。
-
-**题面**
-"工作再忙，我每周也会挤出一个晚上陪我爸妈吃饭。"（"挤出"用 **carve out** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 复检第 4 组 [4]（#130 题里）· 她标「这个词组学下」· 原话 `I haven't been able to carve out(这个词组学下) time for the gym.`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [2] · `No matter how busy I get, I still carve out one evening a week to have dinner with my parents.` —— carve out ＋ 时间 ＋ to do。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [6] · `After the baby came along, I could only carve out half an hour a day for working out.` —— carve out half an hour。连对 1 → 2 ⇒ **毕业**
-
-### 418 · sit on ＋ 想法／计划（攥着迟迟没动手）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**sit on sth** ＝ 手里攥着一个想法／计划／消息，一直没动手或没公开：I've been sitting on this idea for years. ／ They sat on the news for a week.
-同一格里的邻居（别串）：toy with an idea（脑子里琢磨着玩，没当真）· have sth in mind（心里有个打算）· act on sth（付诸行动，sit on 的反面）。
-判据一句话：有想法但还没真的迈出那一步 ⇒ sit on；已经在朝它走 ⇒ work toward。
-★ 题型判整句："憋着没动手"翻成 haven't acted on／kept putting off 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510（P2 · Describe a long-term goal/ambition you would like to achieve）[S2] · 原话
-`I'm a software engineer, and I've been sitting on（这个词组学下) this idea for a few years now.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "sit on"／"sitting on" ⇒ 零命中
-　② 中文 dedup "憋" ⇒ 命中 🎓#136（tell the truth，题面"他憋了好几天"只是场景，考点是 tell）⇒ 否；"没动手" ⇒ 零命中（只命中本条）
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对：她还没辞职单干，想法攥在手里）　　目标：`sit on this idea`
-找法："这个想法憋了好几年／一直没动手"，先落 sit on。
-
-**题面**
-"开咖啡店这个想法他憋了好几年，一直没敢真干。"（"憋着没动手"用 **sit on** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S2] · 她标「这个词组学下」· 原话 `I've been sitting on（这个词组学下) this idea for a few years now.`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [3] · `He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).` —— sitting on the idea of ＋ -ing。连错 1 → 连对 1（她标学 making the move ⇒ 另建 #425）
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [7] · `She was sitting on the idea for this novel for ten years, never actually writing it down.` —— sitting on the idea。连对 1 → 2 ⇒ **毕业**（was sitting … for ten years 的时态 ⇒ ⚪#12 另记）
-
-### 419 · grind away (at sth)（埋头苦熬、机械地干）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**grind away** ＝ 长时间、枯燥地埋头干，带"熬"的味道：grind away at the same job ／ grinding away for a company ／ grind away at a thesis。
-同一格里的邻居（别串）：work hard（中性，不带"熬"）· slog away（同义，英式）· the daily grind（名词：每天上班那套磨人的日常）。
-判据一句话：辛苦 ＋ 重复 ＋ 没意思 ⇒ grind away；只是努力 ⇒ work hard。
-★ 题型判整句："埋头苦干"翻成 work hard 也合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510 [S3] · 原话
-`Basically, it's about building things of my own, rather than just grinding away（这个词组学下) for a company.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "grind" ⇒ 零命中
-　② 中文 dedup "埋头" ⇒ 命中 🎓#88（get on with it：别磨蹭、接着干下去 —— 说的是"开始／继续干"，不带"熬"）⇒ 不是同一个词组，否；"苦熬" ⇒ 零命中（只命中本条）
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`grinding away for a company`
-找法："埋头苦熬／给公司当牛马"，先落 grind away。
-
-**题面**
-"他在工厂流水线上埋头苦干了十年。"（"埋头苦干"用 **grind away** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S3] · 她标「这个词组学下」· 原话 `rather than just grinding away（这个词组学下) for a company.`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [4] · `He spent ten years grinding away on the assembly line in a factory.` —— grinding away on the assembly line。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [8] · `He spent an entire year grinding away in the library for grad school exams.` —— grinding away。连对 1 → 2 ⇒ **毕业**
-
-### 420 · be burnt out (on sth)（被耗干、倦怠）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**burnt out** ＝ 长期透支、身心被掏空、提不起劲：I'm burnt out on overtime. ／ completely burnt out ／ burnout（名词：职业倦怠）。
-同一格里的邻居（别串）：exhausted（就是累，睡一觉能缓过来）· fed up with ／ sick of（烦透了，偏情绪）。
-判据一句话：长期透支、累到不想干 ⇒ burnt out (on ＋ 让你耗干的东西)；累了一天 ⇒ exhausted。
-★ 题型判整句："被耗干了"翻成 exhausted／worn out 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510 [S5] · 原话
-`After 14 years in the industry, I'm pretty burnt out on（这个词组学下)  constant overtime and company instability.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "burn"／"burnt out" ⇒ 零命中
-　② 中文 dedup "耗干"／"倦怠"／"累垮" ⇒ 零命中（只命中本条）
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`burnt out on constant overtime`
-找法："被耗干了／彻底倦怠"，先落 burnt out。
-
-**题面**
-"连着上了三个月夜班，那几个护士都被耗干了。"（"被耗干了"用 **burnt out** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · 她标「这个词组学下」· 原话 `I'm pretty burnt out on（这个词组学下)  constant overtime`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [6] · `Working night shifts for three consecutive months left those nurses totally burnt out.` —— left … totally burnt out。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [10] · `Working overtime for a consecutive month left me totally burnt out.` —— left me totally burnt out。连对 1 → 2 ⇒ **毕业**
-  ｜for a consecutive month ❌ ⇒ 另建 #434
-
-### 421 · support yourself（养活自己；sustain yourself 偏正式）
-类型 搭配 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**support yourself** ＝ 自己挣钱养活自己：support myself ／ support yourself financially ／ support a family（养家）。
-同一格里的邻居（别串）：sustain yourself（也能说，偏正式，更常说维持体力、生命）· make a living（谋生，说"靠什么吃饭"）· 🎓#101 get by（勉强够用）。
-判据一句话：说"养活自己／养家" ⇒ support；说"靠什么谋生" ⇒ make a living as／from。
-★ 题型判整句："养活自己"翻成 make a living／pay my own way 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510 [S6] · 原话
-`If I could sustain myself（这个词组学下)  without a traditional 9-to-5, I’d feel so much freer.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）；同一处更好版 sustain myself → support myself（⚠️ 偏正式 → 口语默认）也装进本条（同一个格）。
-判重三步：
-　① 目标形式 dedup "sustain"／"support myself"／"support yourself" ⇒ 零命中
-　② 中文 dedup "养活" ⇒ 零命中
-　③ 书面登记前提核查：lab/sessions 全部产出里没出现过 support myself／herself ⇒ 口语版对她是新表达 ⇒ ⛔ 不走 🎓#206，保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`sustain myself`（她标学；能说，但偏正式）　　更好：`support myself`
-找法："养活自己"，先落 support myself。
-
-**题面**
-"她上大学的时候靠做家教养活自己。"（"养活自己"用 **support** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S6] · 她标「这个词组学下」· 原话 `If I could sustain myself（这个词组学下)  without a traditional 9-to-5` ⇒ 更好版 support myself
-- 2026-10-07 ✅ 学习日 在池第 2 组 [5] · `She supported herself as a tutor back in college.` —— supported herself。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [9] · `He started working to support himself when he was just eighteen.` —— support himself。连对 1 → 2 ⇒ **毕业**
-
-### 422 · day in, day out（日复一日、天天如此）
-类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**day in, day out**（也说 day in and day out）＝ 每天都一个样、没完没了，常带"单调"的味道，放句尾：do the same thing day in, day out。
-同一格里的邻居（别串）：day after day（中性）· every single day · on a daily basis（偏书面）。
-判据一句话：强调"天天一个样、没完没了" ⇒ day in, day out。
-★ 题型判整句："日复一日"翻成 day after day 也合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510 [S7] · 原话
-`On top of that, this whole thing keeps me learning instead of just repeating company busywork day in and day out（这个搭配学下) .`
-她自己标「这个搭配学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "day in" ⇒ 零命中
-　② 中文 dedup "日复一日" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个搭配学下」（用法本身对）　　目标：`day in and day out`
-找法："日复一日／天天都是这样"，先落 day in, day out，放在句尾。
-
-**题面**
-"他日复一日地守着那家小面馆，一干就是二十年。"（"日复一日"用 **day in, day out** 说）
-★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 day in（day out 留给她）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S7] · 她标「这个搭配学下」· 原话 `repeating company busywork day in and day out（这个搭配学下) .`
-- 2026-10-07 ✅ 学习日 在池第 2 组 [8] · `My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.` —— day in, day out 放句尾。连错 1 → 连对 1（下次点名降回 day in；她标背 windowsill ⇒ 另建 #426，标学 soaking up ⇒ 另建 #427）
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [1] · `My dad gets up at five day in, day out to do Tai Chi in the park.` —— 点名只给 day in，day out 自己补上。连对 1 → 2 ⇒ **毕业**
-  ｜⚠️ day in, day out 挪到句首（调语序只进 diff-2，不建号）
-
-### 423 · job insecurity（工作没保障、不稳定；⛔ company instability）
-类型 搭配 ｜ 新建 2026-10-06
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
-
-**问题是什么**
-**job insecurity** ＝ 工作没保障、随时可能被裁的那种不稳定（job security 的反面）。
-同一格里的邻居（别串）：job security（工作有保障，她 09-26 自己用过）· an unstable job（一份不稳定的工作，挂在某一份工作上）· layoffs（裁员）。
-判据一句话：说"工作不稳定"这种状态或担忧 ⇒ job insecurity；company instability 听起来是"公司本身经营不稳"。
-★ 题型判整句："工作不稳定"翻成 unstable jobs 也合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-06 学习日 新题 bank:510 [S5] · 原话
-`After 14 years in the industry, I'm pretty burnt out on（这个词组学下)  constant overtime and company instability.`
-diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说 job insecurity ⇒ 能学的表达 ⇒ §3.2b 建号。
-判重三步：
-　① 目标形式 dedup "insecurity" ⇒ 零命中
-　② 中文 dedup "不稳定" ⇒ 命中 🎓#96（否定辖域陷阱，解法里带 job security，考点是 no … and … 的辖域）· 🎓#314（economic ≠ economical，只是历史句带"不稳定"）⇒ 都不是这个块，否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`company instability`（中文"公司不稳定"直译）　　更好：`job insecurity`
-找法："工作不稳定"，从 job security 翻一面 ⇒ job insecurity。
-
-**题面**
-"对很多年轻人来说，工作不稳定是最大的压力来源。"（"工作不稳定"用 **job insecurity** 说）
-
-- 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · diff-2 ⚠️ · 原话 `burnt out on constant overtime and company instability.` ⇒ 更好版 job insecurity
-- 2026-10-07 ✅ 学习日 在池第 2 组 [7] · `For a lot of young people, job insecurity is their biggest source of stress.` —— job insecurity。连错 1 → 连对 1
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [2] · `During those pandemic years, job insecurity kept a lot of people up at night.` —— job insecurity 当主语。连对 1 → 2 ⇒ **毕业**
+- 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
+- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
+  ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
+- 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**
+- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [3] · `This investment is huge for us—our life savings are on the line.` —— 题面点名 at stake，换成了同义的 on the line，at stake 没出来 ⇒ **回潮**
+  最小改 `This investment is huge for us—our life savings are at stake.`
+  ❌ at stake 放在 be 后面；on the line 同义可留，但本条要练的 at stake 没调出来
 
 ### 424 · set aside ＋ 钱／时间（专门留出一部分）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
@@ -1463,6 +1169,34 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+
+### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
+类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+
+**问题是什么**
+逗号后面的 **which** 可以指前面**一整件事**（不只是前面那个名词），后面常用"主语 ＋ 助动词"把前面的动作省掉：
+`You'd see people eating them all the time, which they don't.`（＝ 可他们并没有天天吃）／ `He said he'd call, which he never did.` ／ `She passed the exam, which surprised everyone.`
+同一格里的邻居（别串）：that ⛔ 不能这样用（不说 , that they don't）· which means …（指前面整句，接一个结果）· and they don't（拆成并列句，大白话版本）。
+判据一句话：逗号 ＋ which，指的是前面那件事 ⇒ 成立；想说"可事实并非如此" ⇒ , which ＋ 主语 ＋ 否定助动词。
+
+**怎么发现的**
+2026-10-08 付息日 d 段重答 bank:364（R20 · P3 · Why are there special foods on special occasions or events?）[S5] · 原话
+`To be honest, these foods might not even taste that great—otherwise, you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
+她写对了 which they don't，但自己标「这个 which 的用法可以学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "which they"／"which he" ⇒ 零命中；dedup "which" ⇒ 🎓#1（同位语不用 who／which）· 🎓#42（which vs what 选择范围）· 🎓#178（only／最高级后用 that）· 其余只是正文字串 ⇒ 都是别的规则，否
+　② 中文 dedup "非限定"／"指前面整句" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个 which 的用法可以学一下」（结构不在手边）　　目标：`…, which they don't.`
+找法：说完一个假设或别人的说法，想补一句"可事实不是这样"，就用 , which ＋ 主语 ＋ don't／didn't／isn't。
+
+**题面**
+"他说会准时到，结果并没有。"（"结果并没有"用 **which** 说）
+
+- 2026-10-08 ❌ 首犯 · 付息日 d 段重答 bank:364 [S5] · 她标「这个 which 的用法可以学一下」· 原话 `you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
 
 ## 迁移说明（2026-08-18）
 
