@@ -295,6 +295,7 @@
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - 2026-10-01 ⚪ 学习日 复检第 4 组 [5]（🎓#35 题里）· `Nobody tell me a thing about it.` → told（"谁也没告诉我"＝过去；同组 got／stood／played／bought 都标了过去 ⇒ 形态类，只记录）
 - 2026-10-01 ⚪ 学习日 新题 bank:1156（P2）[S7] · `The river lazily meanders along` → meandered（前面 I was completely immersed 已在过去，同一场景的景物描写跳回现在；同篇 couldn't get／was／stayed／took 都标了过去 ⇒ 形态类，只记录）
+- 2026-10-08 ⚪ 付息日 a 段在池第 1 组 [7]（#418 题里）· `She was sitting on the idea for this novel for ten years` —— 后面挂着 for ten years ⇒ had been sitting；形态类只记录
 
 ### 56 · visual effects 恒复数；可数名词单数必须带限定词
 类型 语法 ｜ 旧号 B79
@@ -702,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -737,10 +738,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   最小改 `He made bank reselling second-hand sneakers.`　更好版 `He made absolute bank reselling second-hand sneakers.`
   ❌ 这里的 bank ＝ 钱，跟 money 一样不可数（made money 不说 made a money）；带 absolute 的两次都没加 a，光秃秃一个 bank 时才冒出 a
 - 2026-10-07 ✅ 学习日 在池第 1 组 [1]（题面"我表姐开宠物美容店，这两年赚了大钱"）· `My cousin runs a pet grooming shop, and she's made bank over the last two years.` —— 光秃秃的 bank，前面没加 a。连错 2 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [1] · `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.` —— made bank，bank 前面没加 a。连对 1 → 2 ⇒ **毕业**（10-05 回潮后第二次毕业）
+  ｜她要求「加入 transnational 的条目做对比」⇒ 新建 #432
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
@@ -767,10 +770,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [7]（#401 题里）· 她标「这个词组学一下」· 原话 `a free fruit platter on the house（这个词组学一下) after dinner.`
 - 2026-10-07 ✅ 学习日 在池第 1 组 [8] · `This coffee is on the house, so don't worry about paying.` —— 前面没再叠 free。连错 1 → 连对 1（下次点名降回 house）
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [2] · `We waited for an hour at that restaurant, so the manager gave us a dessert on the house.` —— 点名降到 house，on the 自己补上、前面没加 free。连对 1 → 2 ⇒ **毕业**
 
 ### 414 · tweak（小改、微调）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
@@ -796,10 +800,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
 - 2026-10-07 ✅ 学习日 在池第 1 组 [9] · `The plan is solid for the most part; we just need to tweak it a bit before the meeting.` —— tweak it a bit。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [3] · `This photo turned out great—I just tweaked the colors a little bit.` —— tweaked the colors。连对 1 → 2 ⇒ **毕业**
 
 ### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
@@ -822,14 +827,17 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 **题面**
 "我们队一路闯进了决赛。"（"闯进"用 **make it through to** 说）
-★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 make it（through to 留给她）
+★ 她说要学的块：第一次出题整块点名；连对 ≥1 之后降回 make it through（to 留给她）
+　10-08 只点 make it 时她答 made it to（合法，判 ✅），through 没逼出来 ⇒ 降级只降到 make it through，⛔ 不再只点 make it
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [3]（#408 题里）· 她标「这个词组学一下」· 原话 `I made it through to（这个词组学一下) the second round of interviews`
 - 2026-10-07 ✅ 学习日 在池第 1 组 [10] · `Our team made it through to the finals.` —— made it through to the finals。连错 1 → 连对 1（下次点名降回 make it）
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [4] · `She made it to the semifinals(这个词背下) the first time she entered a singing competition.` —— 题面只点 make it，make it to 是条目列明的合法说法 ⇒ ✅；through 没逼出来 ⇒ 种子题面★改为连对后降回 make it through。连对 1 → 2 ⇒ **毕业**
+  ｜她自注「这个词背下」⇒ semi-final 另建 #433
 
 ### 416 · gala（盛大的晚会／晚宴）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
@@ -855,10 +863,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [1] · `The museum hosts a grand gala every year, with everyone dressed in formal wear.` —— a grand gala。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [5] · `The company threw a grand gala at the end of the year and invited a few celebrities to perform.` —— threw a grand gala。连对 1 → 2 ⇒ **毕业**
 
 ### 417 · carve out time (for sth)（挤出／抽出时间）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
@@ -884,10 +893,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 复检第 4 组 [4]（#130 题里）· 她标「这个词组学下」· 原话 `I haven't been able to carve out(这个词组学下) time for the gym.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [2] · `No matter how busy I get, I still carve out one evening a week to have dinner with my parents.` —— carve out ＋ 时间 ＋ to do。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [6] · `After the baby came along, I could only carve out half an hour a day for working out.` —— carve out half an hour。连对 1 → 2 ⇒ **毕业**
 
 ### 418 · sit on ＋ 想法／计划（攥着迟迟没动手）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **sit on sth** ＝ 手里攥着一个想法／计划／消息，一直没动手或没公开：I've been sitting on this idea for years. ／ They sat on the news for a week.
@@ -913,10 +923,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S2] · 她标「这个词组学下」· 原话 `I've been sitting on（这个词组学下) this idea for a few years now.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [3] · `He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).` —— sitting on the idea of ＋ -ing。连错 1 → 连对 1（她标学 making the move ⇒ 另建 #425）
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [7] · `She was sitting on the idea for this novel for ten years, never actually writing it down.` —— sitting on the idea。连对 1 → 2 ⇒ **毕业**（was sitting … for ten years 的时态 ⇒ ⚪#12 另记）
 
 ### 419 · grind away (at sth)（埋头苦熬、机械地干）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **grind away** ＝ 长时间、枯燥地埋头干，带"熬"的味道：grind away at the same job ／ grinding away for a company ／ grind away at a thesis。
@@ -942,10 +953,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S3] · 她标「这个词组学下」· 原话 `rather than just grinding away（这个词组学下) for a company.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [4] · `He spent ten years grinding away on the assembly line in a factory.` —— grinding away on the assembly line。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [8] · `He spent an entire year grinding away in the library for grad school exams.` —— grinding away。连对 1 → 2 ⇒ **毕业**
 
 ### 420 · be burnt out (on sth)（被耗干、倦怠）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **burnt out** ＝ 长期透支、身心被掏空、提不起劲：I'm burnt out on overtime. ／ completely burnt out ／ burnout（名词：职业倦怠）。
@@ -971,10 +983,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · 她标「这个词组学下」· 原话 `I'm pretty burnt out on（这个词组学下)  constant overtime`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [6] · `Working night shifts for three consecutive months left those nurses totally burnt out.` —— left … totally burnt out。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [10] · `Working overtime for a consecutive month left me totally burnt out.` —— left me totally burnt out。连对 1 → 2 ⇒ **毕业**
+  ｜for a consecutive month ❌ ⇒ 另建 #434
 
 ### 421 · support yourself（养活自己；sustain yourself 偏正式）
 类型 搭配 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **support yourself** ＝ 自己挣钱养活自己：support myself ／ support yourself financially ／ support a family（养家）。
@@ -1000,6 +1014,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S6] · 她标「这个词组学下」· 原话 `If I could sustain myself（这个词组学下)  without a traditional 9-to-5` ⇒ 更好版 support myself
 - 2026-10-07 ✅ 学习日 在池第 2 组 [5] · `She supported herself as a tutor back in college.` —— supported herself。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 1 组 [9] · `He started working to support himself when he was just eighteen.` —— support himself。连对 1 → 2 ⇒ **毕业**
 
 ### 422 · day in, day out（日复一日、天天如此）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
@@ -1284,6 +1299,98 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "这个新小区规划得特别好，学校、超市走路十分钟都能到。"（"规划得好"用 **planned out** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 新题 bank:1151 [S2] · 她标「这个词组学下」· 原话 `Malls are usually way better planned out（这个词组学下)`
+
+### 432 · cross-border ≠ transnational（跨境 vs 跨国）
+类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组 ｜ 合并条·出题多句覆盖
+
+**问题是什么**
+两个"跨"分工不同：
+· **cross-border** ＝ 跨越边境的 —— 东西／钱／人从一个国家过到另一个国家：cross-border e-commerce ／ cross-border payments ／ cross-border travel
+· **transnational** ＝ 横跨好几个国家同时运作的 —— 说组织、网络（偏书面、新闻）：transnational crime ／ transnational organizations
+同一格里的邻居（别串）：multinational（日常说"跨国公司"就是 a multinational company，比 transnational 常用得多）· international（国际的，最宽泛）· overseas（海外的）。
+判据一句话：东西／钱"过境" ⇒ cross-border；一个组织"横跨多国运作" ⇒ transnational（公司日常说 multinational）。
+★ 题型判词组：两个成员的中文块都能唯一映射回去（跨境支付 ⇒ cross-border payments；跨国犯罪 ⇒ transnational crime，⛔ 不落"跨国公司"——那个 multinational 也合法、收不拢）。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 1 组 [1]（#366 题面"我朋友去年做跨境电商，赚翻了。"）· 原话
+`My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
+她写对了 cross-border，并要求「加入 transnational 的条目做对比」⇒ §2③ 她主动提出 ⇒ 建号（合并条：一对词的分工，成员数有限 ＝ 2，§3.2c⑤）。
+判重三步：
+　① 目标形式 dedup "cross-border"／"transnational"／"multinational" ⇒ 零命中
+　② 中文 dedup "跨境"／"跨国" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 cross-border，要求把 transnational 放进来对比（两个"跨"分不清用哪个）　　目标：cross-border payments ／ transnational crime
+找法：先问"是东西在过境，还是一个组织在好几个国家同时干？"
+
+**题面**
+★ 2 句，两个成员各一句 —— 本条考的就是这两个词的分工，只出一个等于没测
+　① "跨境支付"（钱从一个国家转到另一个国家）
+　② "跨国犯罪集团"（在好几个国家同时作案的犯罪组织）
+
+**成员出题账**
+① cross-border ｜ 未出过
+② transnational ｜ 未出过
+
+- 2026-10-08 📝 新建 · 付息日 a 段在池第 1 组 [1]（#366 题里）· 她要求「加入 transnational 的条目做对比」· 原话 `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
+
+### 433 · semi-final（半决赛）
+类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**semi-final** ＝ 半决赛（也写 semifinal）；the semi-finals ＝ 半决赛那一轮（有两场，所以常用复数）。
+同一格里的邻居（别串）：quarter-final（四分之一决赛）· the final（决赛，一场，单数）· the knockout stage（淘汰赛阶段）。
+判据一句话：决赛前一轮 ⇒ semi-final；再前一轮 ⇒ quarter-final。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 1 组 [4]（#415 题面"她第一次参加歌唱比赛，就闯进了半决赛。"）· 原话
+`She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
+她写对了 semifinals，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "semi" ⇒ 只命中 #415（正文举例 semi-finals，考点是 make it through to）⇒ 否
+　② 中文 dedup "半决赛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背下」（词不在手边）　　目标：`the semifinals`
+找法：说"半决赛"，先落 semi-final。
+
+**题面**
+"世界杯半决赛"（决赛前一轮，四支队伍打两场）
+
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#415 题里）· 她标「这个词背下」· 原话 `She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
+
+### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
+类型 搭配 ｜ 新建 2026-10-08
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**consecutive** ＝"一个接一个"，至少两个单位才连得起来：three consecutive days ／ for the third consecutive year。
+只有**一个**单位时：**for a whole month**（整整一个月）／ **for a month straight**（straight 放在时间后面 ＝ 连续不断）。
+同一格里的邻居（别串）：in a row（three days in a row，同 consecutive，也要两个以上）· on end（for hours on end，一连好几个小时）。
+判据一句话：数字 ≥ 2 ⇒ X consecutive days／X days in a row；只有"一个月" ⇒ a whole month／a month straight。
+★ 题型判整句：考点是 consecutive 配不配单数，孤立翻"连续一个月"会直接落 for a month ⇒ 整句 ＋ 正向点名 straight。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 1 组 [10]（#420 题面"连续加了一个月的班，我整个人都被耗干了。"）· 原话
+`Working overtime for a consecutive month left me totally burnt out.`
+判重三步：
+　① 目标形式 dedup "consecutive" ⇒ 只命中 #420（10-07 历史行里她写对的 three consecutive months）⇒ 否：那条考 burnt out；
+　　 dedup "straight" ⇒ 🎓#331 look straight ahead（另一个意思）· 🎓#13 #333（历史行字串）⇒ 否
+　② 中文 dedup "连续" ⇒ 命中的都只是历史行字串，考点无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`for a consecutive month`　　正确：`for a whole month`／`for a month straight`
+找法：说"连续"之前先数一下有几个单位 —— 只有一个就别用 consecutive。
+
+**题面**
+"他连续一个星期每天只睡四个小时。"（"连续一个星期"用 **straight** 说）
+
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#420 题里）· 原话 `Working overtime for a consecutive month left me totally burnt out.`
 
 ## 迁移说明（2026-08-18）
 
