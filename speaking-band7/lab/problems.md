@@ -1018,7 +1018,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 422 · day in, day out（日复一日、天天如此）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **day in, day out**（也说 day in and day out）＝ 每天都一个样、没完没了，常带"单调"的味道，放句尾：do the same thing day in, day out。
@@ -1045,10 +1045,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S7] · 她标「这个搭配学下」· 原话 `repeating company busywork day in and day out（这个搭配学下) .`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [8] · `My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.` —— day in, day out 放句尾。连错 1 → 连对 1（下次点名降回 day in；她标背 windowsill ⇒ 另建 #426，标学 soaking up ⇒ 另建 #427）
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [1] · `My dad gets up at five day in, day out to do Tai Chi in the park.` —— 点名只给 day in，day out 自己补上。连对 1 → 2 ⇒ **毕业**
+  ｜⚠️ day in, day out 挪到句首（调语序只进 diff-2，不建号）
 
 ### 423 · job insecurity（工作没保障、不稳定；⛔ company instability）
 类型 搭配 ｜ 新建 2026-10-06
-状态 连对1 连错0 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **job insecurity** ＝ 工作没保障、随时可能被裁的那种不稳定（job security 的反面）。
@@ -1074,10 +1076,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · diff-2 ⚠️ · 原话 `burnt out on constant overtime and company instability.` ⇒ 更好版 job insecurity
 - 2026-10-07 ✅ 学习日 在池第 2 组 [7] · `For a lot of young people, job insecurity is their biggest source of stress.` —— job insecurity。连错 1 → 连对 1
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [2] · `During those pandemic years, job insecurity kept a lot of people up at night.` —— job insecurity 当主语。连对 1 → 2 ⇒ **毕业**
 
 ### 424 · set aside ＋ 钱／时间（专门留出一部分）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **set aside** ＝ 从总量里专门划出一部分、留着做某件事：set aside part of my paycheck ／ set aside some money for a trip ／ set aside an hour every evening。
@@ -1102,10 +1105,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "我每个月都留出一笔钱，专门用来旅行。"（"留出"用 **set aside** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 1 组 [5]（#410 题里）· 她标「这个词组学下」· 原话 `setting aside（这个词组学下) part of my paycheck every month to donate to charity`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [3] · `I set aside half an hour every night to read with my kid.` —— set aside half an hour。连错 1 → 连对 1
 
 ### 425 · make the move（真的迈出那一步、付诸行动）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **make the move** ＝ 下决心真的去做、迈出那一步（常指换工作、搬家、转行这种大决定）：finally make the move ／ make the move to freelancing ／ make the move to London。
@@ -1131,10 +1135,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "她考虑辞职去考研考虑了两年，今年终于真的迈出了那一步。"（"迈出那一步"用 **make the move** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [3]（#418 题里）· 她标「这个词组学一下」· 原话 `never quite making the move(这个词组学一下).`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [4] · `She had been thinking about quitting her job for grad school for two years before she finally made the move this year.` —— finally made the move。连错 1 → 连对 1
 
 ### 426 · windowsill（窗台）
 类型 词汇 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **windowsill** ＝ 窗台（窗户下沿那条可以放东西、猫能趴的平台）：on the windowsill ／ a plant on the windowsill。
@@ -1159,10 +1164,12 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "窗台上摆着的几盆小多肉"（窗户下沿那条能放东西的平台）
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个单词背一下」· 原话 `My cat sits on the exact same windowsill(这个单词背一下)`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [5] · `A few small succulent(这个词背下) pots placed on the windowsill.` —— windowsill。连错 1 → 连对 1
+  ｜她自注「这个词背下」⇒ succulent 另建 #435
 
 ### 427 · soak up ＋ the sun／the atmosphere（尽情享受、吸收）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **soak up** ＝ 像海绵吸水一样，把阳光／氛围／景色尽情吸收进来：soak up the sun ／ soak up the atmosphere ／ soak up the view。
@@ -1187,10 +1194,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "周末我们就躺在沙滩上晒了一下午太阳。"（"晒太阳"用 **soak up** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个词组学一下」· 原话 `soaking up(这个词组学一下) the sun, day in, day out.`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [6] · `When I first visited Chengdu, I just wanted to stroll through the old streets and soak up the atmosphere.` —— soak up the atmosphere。连错 1 → 连对 1
 
 ### 428 · be featured in ＋ 杂志／节目（被刊登、上了…）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be featured in** ＝ 作为重点内容出现在杂志／报纸／节目／展览里（"上了杂志、上了节目"）：Her work has been featured in several magazines. ／ The café was featured in a travel show.
@@ -1215,10 +1223,12 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "我们小区门口那家面馆上过一档美食节目。"（"上过"用 **featured** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 复检第 3 组 [3]（#391 题里）· 她标「这个词组学下」· 原话 `with her work featured in(这个词组学下) multiple magazines.`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [7] · `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.` —— was once featured on a food show。连错 1 → 连对 1
+  ｜她自注「这个 downstairs from 学下」⇒ downstairs from 另建 #436
 
 ### 429 · hold a grudge (against sb)（记仇）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对0 连错2 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hold a grudge** ＝ 心里一直记着别人的不好、不肯放下：He never holds a grudge. ／ hold a grudge against sb（记某人的仇）。
@@ -1243,10 +1253,13 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "我妹妹特别记仇，小时候我抢了她一块糖，她到现在还提。"（"记仇"用 **grudge** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 复检第 3 组 [10]⑤（#262 题里）· 她标「这个词组学一下」· 原话 `mind you, he never holds a grudge(这个词组学一下).`
+- 2026-10-08 ❌ 付息日 a 段在池第 2 组 [8] · 「忘了」—— hold a grudge 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
+  最小改 `My sister really holds a grudge — I took a piece of candy from her when we were kids, and she still brings it up.`
+  ❌ "记仇" ＝ hold a grudge（动词 hold，grudge 前有 a；记谁 ⇒ against sb）
 
 ### 430 · street market（街头集市、露天摊位市场）≠ shopping street（商业街）
 类型 词汇 ｜ 新建 2026-10-07
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **street market** ＝ 街头集市、露天市场：一排排摊位，卖菜、小吃、旧货；介词用 at（at a street market）。
@@ -1271,10 +1284,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "周末在停车场里临时摆起来的露天集市"（一排排摊位，卖菜、卖小吃、卖旧货的那种）
 
 - 2026-10-07 ❌ 首犯 · 学习日 新题 bank:1151 [S3] · 层4 切题 ⚠️ · 原话 `Shopping streets, on the other hand, are pretty messy …` ⇒ 更好版 Street markets
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [9] · `A pop-up street market in the parking lot over the weekend.` —— street market，没跟 shopping street 混。连错 1 → 连对 1
 
 ### 431 · well planned out（规划得好、布局合理）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-07 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be (well) planned out** ＝ 事先规划、布局安排得好：The mall is well planned out. ／ way better planned out ／ a poorly planned-out city。
@@ -1299,6 +1313,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "这个新小区规划得特别好，学校、超市走路十分钟都能到。"（"规划得好"用 **planned out** 说）
 
 - 2026-10-07 ❌ 首犯 · 学习日 新题 bank:1151 [S2] · 她标「这个词组学下」· 原话 `Malls are usually way better planned out（这个词组学下)`
+- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [10] · `This new residential area is really well planned out; schools and supermarkets are all within a ten-minute walk.` —— well planned out。连错 1 → 连对 1
 
 ### 432 · cross-border ≠ transnational（跨境 vs 跨国）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -1391,6 +1406,63 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 "他连续一个星期每天只睡四个小时。"（"连续一个星期"用 **straight** 说）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#420 题里）· 原话 `Working overtime for a consecutive month left me totally burnt out.`
+
+### 435 · succulent（多肉植物）
+类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**succulent** ＝ 多肉植物（名词，可数：a succulent ／ succulents）；当形容词是"多汁的"（succulent steak）。
+几盆多肉 ＝ a few pots of succulents ／ a few potted succulents。
+同一格里的邻居（别串）：cactus（仙人掌，复数 cacti／cactuses —— 仙人掌是多肉的一种）· houseplant（室内盆栽，统称）。
+判据一句话：说"多肉"这种植物 ⇒ succulent(s)；说"几盆" ⇒ pots of succulents。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 2 组 [5]（#426 题面"窗台上摆着的几盆小多肉"）· 原话
+`A few small succulent(这个词背下) pots placed on the windowsill.`
+她写对了 succulent，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "succulent" ⇒ 零命中
+　② 中文 dedup "多肉" ⇒ 只命中 #426（今天的题面字串，考点是 windowsill）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背下」（词不在手边）　　目标：`succulent`
+找法：说"多肉"，先落 succulent。
+
+**题面**
+"办公桌上那盆小多肉"（叶子肥厚、不怎么用浇水的那种植物）
+
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [5]（#426 题里）· 她标「这个词背下」· 原话 `A few small succulent(这个词背下) pots placed on the windowsill.`
+
+### 436 · downstairs from ＋ 地方（在…楼下）
+类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
+反过来：upstairs from ＋ 某处（在…楼上）；只说"楼下"、不带参照 ⇒ downstairs（副词：go downstairs ／ the neighbors downstairs）。
+同一格里的邻居（别串）：below（正下方，偏书面）· on the ground floor（在一楼）。
+判据一句话：要说"在 X 的楼下" ⇒ downstairs from X；只说"在楼下" ⇒ downstairs。
+★ 题型判整句：考点是 from 挂参照物，孤立翻"楼下"永远落 downstairs ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 2 组 [7]（#428 题面"我们公司楼下那家面馆上过一档美食节目。"）· 原话
+`The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+她写对了 downstairs from，但自己标「这个 downstairs from 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "downstairs" ⇒ 零命中；dedup "upstairs" ⇒ 只命中 🎓#371（历史行字串，考点是 bring … over）⇒ 否
+　② 中文 dedup "楼下" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个 downstairs from 学下」（块不在手边）　　目标：`downstairs from our office`
+找法：说"某某楼下的那家店／那户人家"，先落 downstairs from。
+
+**题面**
+"我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
+
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
 
 ## 迁移说明（2026-08-18）
 
