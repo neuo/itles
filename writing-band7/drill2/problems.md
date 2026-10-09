@@ -1069,7 +1069,7 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 > 形容词副词互换、比较级构形、修饰语位置
 
 ## #0106 更安全也更快
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F06
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F06
 
 **问题是什么**
 待排序　U（待定）
@@ -1178,6 +1178,10 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
   题面「这两家店里，靠近地铁站的那家租金最贵，可客人也最多。」（零提示）
   她写 `Between the two shops, the one closer to the subway station commands a **higher** rent, yet attracts a **larger** number of customers.`
   只有两家在比 ⇒ 两处都是比较级 ✔；中文两个「最」没把她带去最高级（10-07 两处都塌在这里）⇒ 连错 1 → 连对 1。
+- 2026-10-09 ✅ C9 D3 组1 第 1 题
+  题面「这两条路线里，走高速的那条最快，可过路费也最贵。」（零提示）
+  她写 `Between the two routes, the one via the highway is **faster**, yet entails a **higher** toll.`
+  两条在比 ⇒ faster ／ higher 两处都是比较级 ✔；中文两个「最」没把她带去最高级 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ---
 
@@ -1355,7 +1359,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0494 「顺手／顺便」一族
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文的「顺手／顺便」有三层意思，英文分得很开：
@@ -1449,6 +1453,10 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `We are going to the supermarket to buy groceries and will pick up the parcels **while we are at it**. **By the way**, next week's gathering has been rescheduled to Saturday.`
   做事的顺便 ⇒ while we are at it ✔、说话的顺便 ⇒ By the way ✔（10-07 的 incidentally 串台没再犯）。她把前句读成计划（中文「把…取了」可以是打算）⇒ are going ／ will pick up ／ while we are at it 时间平面一致 ✔。
   成员 ④ by the way 第一次出题即命中，账已补。⇒ 连错 1 → 连对 1。
+- 2026-10-09 ✅ C9 D3 组1 第 3 题
+  题面「我去银行办卡，顺便把水电费也交了。顺便提一句，明天的会提前到九点。（★ 两个「顺便」从 by the way ／ while sb is at it 里各用一个 —— 哪个管做事、哪个管说话自己分；形态自己定）」
+  她写 `I am going to the bank to apply for a card and will pay the utility bills **while I am at it**. **By the way**, tomorrow's meeting has been moved forward to nine o'clock.`
+  做事的顺便 ⇒ while I am at it ✔；说话的顺便 ⇒ By the way ✔；读成计划，三处时间平面一致 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0542 「举（例子／数据／理由）」＝ cite
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
@@ -1779,7 +1787,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `The practice of keeping animals on display in zoos has long been controversial; … have altered their practices` —— the practice of doing ✔；第二处各家的做法用复数 ✔。
 
 ## #0550 「创业氛围／创业精神」＝ entrepreneurial ＋ 名词
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1834,6 +1842,9 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-08 ✅ C9 D2 组2 第 3 题 b ＋ 第 4 题 b（词组题，本条占 2 个块）
   3b「（这座城市）浓厚的创业氛围」⇒ `strong entrepreneurial atmosphere` ✔ · 4b「一个很有创业头脑的人」⇒ `a highly entrepreneurial person` ✔
   10-07 两块都「忘了」，今天换块后两块都调出、拼写对 ⇒ 连错 1 → 连对 1。
+- 2026-10-09 ✅ C9 D3 组1 第 4 题 c ＋ 第 5 题 c（词组题，本条占 2 个块）
+  4c「（硅谷那种）创业文化」⇒ `an entrepreneurial culture` ✔ · 5c「（大学生的）创业精神」⇒ `the entrepreneurial spirit among university students` ✔
+  ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0551 「难民」＝ refugee
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 词组
@@ -1931,7 +1942,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 同句 incidentally 送错了「顺便」⇒ 记在 #0494，与本条无关。
 
 ## #0553 「（饭菜）丰盛」＝ hearty ／ generous
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1977,9 +1988,14 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-08 ✅ C9 D2 组2 第 3 题 c ＋ 第 4 题 c（词组题，本条占 2 个块）
   3c「一顿丰盛的晚餐」⇒ `a hearty dinner` ✔ · 4c「分量十足的一份（饭）」⇒ `a hearty / generous portion` ✔（两个都成立）
   10-07 两块都「忘了」，今天两块都调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-09 △ C9 D3 组1 第 4 题 d（词组题）
+  4d「（农家乐的）一顿丰盛的午餐」⇒ `a sumptuous lunch` —— 英语成立，但 sumptuous ＝ 豪华讲排场（宴会那种），农家乐那顿量足吃得饱的饭用 `a hearty lunch` 更贴 ⇒ △。
+- 2026-10-09 ❌ C9 D3 组1 第 5 题 d（词组题）
+  5d「（那家面馆）分量给得很足」她答「忘了」—— 没写出来。当场给回：`serves generous portions`。
+  当天口径：出现过 ❌ ⇒ 记 ❌ ⇒ 连对 1 → 0 · 连错 1。
 
 ## #0554 「理念」＝ philosophy（经营理念／办学理念）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2023,9 +2039,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-08 ✅ C9 D2 组2 第 3 题 d ＋ 第 4 题 d（词组题，本条占 2 个块）
   3d「（这个品牌的）设计理念」⇒ `design philosophy` ✔ · 4d「（这位老校长的）教育理念」⇒ `educational philosophy` ✔
   10-07 两块都「忘了」，今天两块都调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-09 ✅ C9 D3 组1 第 4 题 e ＋ 第 5 题 e（词组题，本条占 2 个块）
+  4e「（这家餐厅的）经营理念」⇒ `the operational philosophy of this restaurant` ✔（business philosophy 更常见，operational 也成立；本条判据是 philosophy）· 5e「（这位教练的）训练理念」⇒ `the training philosophy of this coach` ✔
+  ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0555 「车队」＝ convoy
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2068,6 +2087,9 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   b「一队卡车」⇒ **「忘了」＝ 调不出** `a convoy of trucks` ✘
   ⚠️ 10-07 她自己写出 `the rescue convoy` 并点名「背下」；今天零提示两块都调不出 ⇒ 「自发用得出、被点名反而调不出」又一例（同 #0289 #0292 #0297 #0446）。
   当场给回：a relief convoy ／ a convoy of trucks（con-voy，⛔ 不是动词 convey）。⇒ 首测 ⇒ 连错 1。
+- 2026-10-09 ✅ C9 D3 组1 第 4 题 f ＋ 第 5 题 f（词组题，本条占 2 个块）
+  4f「（运送补给的）军用车队」⇒ `a military supply convoy` ✔ · 5f「一队油罐车」⇒ `a convoy of fuel tankers` ✔
+  10-08 两块都「忘了」，今天两块都调出 ⇒ 连错 1 → 连对 1。
 
 ## #0556 「一段（路／河／海岸）」＝ a stretch of
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
@@ -2114,7 +2136,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   d「很长一段海岸线」⇒ `a long stretch of coastline` ✔ ⇒ 首测 ⇒ 连对 1。
 
 ## #0557 「（坏事／某个时期）一来、刚开始」＝ the onset of
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2160,6 +2182,9 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   （存档块「发病初期」换成「（雨季）来临」：「初期」会把她引到 the early stage，本身正确 ⇒ 只能判 ◎✅ 白测）
   ⚠️ 10-07 她自己写出 `Upon the onset of the blizzard` 并点名「学下」；今天两块都调不出 ⇒ 与 #0555 同一个形状。
   当场给回：the onset of winter ／ the onset of the rainy season。⇒ 首测 ⇒ 连错 1。
+- 2026-10-09 ✅ C9 D3 组1 第 4 题 g ＋ 第 5 题 g（词组题，本条占 2 个块）
+  4g「（流感季）一来」⇒ `upon the onset of the flu season` ✔ · 5g「（经济危机）刚一爆发」⇒ `upon the onset of the economic crisis` ✔
+  10-08 两块都「忘了」，今天两块都调出 ⇒ 连错 1 → 连对 1。
 
 ## #0558 「守时／准点」＝ punctual
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
@@ -2256,7 +2281,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   deliver ＋ 复数 remarks ✔（⛔ 没写成单数 a remark）；brief 同时送到「简单」「几句」⇒ 首测 ⇒ 连对 1。
 
 ## #0560 「快递（那个包裹）」＝ a parcel ／ a package
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2297,9 +2322,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-08 ③ 建号（她点名要背）C9 D2 组1 第 5 题（顺带用对）
   她写 `We are going to the supermarket to buy groceries and will pick up the **parcels**（需要背下) while we are at it.` —— 词义、复数都对。
   ⚠️ 同题主考点 #0494 ✅（while we are at it ／ By the way 各就各位）。
+- 2026-10-09 ✅ C9 D3 组1 第 4 题 a ＋ 第 5 题 a（词组题，本条占 2 个块）
+  4a「（去楼下）取快递」⇒ `collect a parcel` ✔（英式标准说法，与 pick up 同义）· 5a「给家里寄一个快递」⇒ `send a package home` ✔
+  首测两块都调出 ⇒ 连对 1。
 
 ## #0561 「（一群人）意见一致／全票」＝ unanimous（⛔ 不是 consistent）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2340,9 +2368,14 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-08 ③ 建号（她点名要学）C9 D2 复检组1 第 2 题（顺带用对）
   她写 `The three judges’ individual judgements varied widely, but their final verdict was **unanimous**(这个词学下，不然老想用 consistent)` —— 词义、位置都对。
   ⚠️ 同题主考点 #0419 ✅（judges ／ judgements 人与事两边都对）。
+- 2026-10-09 ✅ C9 D3 组1 第 2 题（首测）
+  题面「董事会全票通过了这项提议；而他这几年在这个问题上的立场也一直很一致。（★ 两处从 consistent ／ unanimous 这一族里各挑一个 —— 哪个配哪处自己分）」
+  她写 `The board of directors passed this proposal with **unanimous** approval; meanwhile, his stance on this issue has been **consistent** over the years.`
+  一群人彼此没分歧 ⇒ unanimous ✔；同一个人前后没变 ⇒ consistent ✔；没串台 ⇒ 首测 ⇒ 连对 1。
+  ⚠️ 同句 stance 她点名要学 ⇒ 另建 #0564。
 
 ## #0562 「全天候／一天 24 小时不停」＝ around the clock
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2385,6 +2418,97 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `… the factory has been using sensors to monitor the workshop temperature **around the clock**.(这个词组学下)` —— 块对。
   ⚠️ 同题主考点 #0388 ✅（trace 起因 ／ monitor 温度）。
   ⚠️ 本句与教练出题时写在 session 题面上方的自译逐字相同（教练侧泄题，见 sessions/2026-10-08.md 教练侧）。
+- 2026-10-09 ❌ C9 D3 组1 第 4 题 b ＋ 第 5 题 b（词组题，首测）
+  4b「全天候（一天 24 小时不停）」5b「（医生们）连轴转、日夜不停（地工作）」她两块都答「忘了」—— 没写出来。当场给回：`around the clock` · `worked around the clock`。
+
+## #0563 「（一件事）必然带来／意味着要」＝ entail
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**entail**　（一件事／一个选择）必然带来、免不了要（某种代价、后果、要求）—— 及物动词
+　`The job **entails** a lot of travel.`（这份工作免不了经常出差）
+　`Taking the highway **entails** paying a toll.`（走高速就得交过路费）
+　`What does the role **entail**?`（这个职位具体要做什么）
+⚠️ 后面直接跟名词或 -ing：entail **doing**（⛔ ~~entail to do~~）
+⚠️ 主语是事情／选择，不是人（⛔ ~~I entail…~~）
+⚠️ 书面语；口语里同一个意思常说 involve ／ mean
+```
+**找法**：中文「意味着要／免不了要／得付出」，主语是一件事或一个选择 ⇒ entail ＋ 名词／-ing。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 组1 第 1 题（主考点 #0106，命中 ✅）。中文「走高速的那条最快，可过路费也最贵」，
+她自己写出 `the one via the highway is faster, yet **entails** a higher toll`，并当场括注 **「toll 和 entail 都学下」** ⇒ §2③ 她点名要学。
+（同一个括注里的 toll ⇒ 归入 #0249「费」按场合挑，补成员，⛔ 不另建号）
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "entail" "involve" "意味着"   ⇒ 命中 #0089 #0283 #0326 #0361
+② 规则查  dedup "必然" "牵涉" "代价"          ⇒ 命中 #0286 #0288 #0300 #0302 #0303 #0314 #0391 #0427 #0442 #0059 #0002 #0009
+逐条否掉：
+  #0089（这意味着…：原句缺谓语 which meat → which meant）—— 那条考的是句子闭合，「意味着」只是题面词 ⇒ 问1 不成立 ⇒ 否
+  #0283（动名词作主语）—— 「意味着」只出现在触发点 ⇒ 问1 不成立 ⇒ 否
+  #0326（四个"影响"）#0361（跨国一族）—— 「意味着」／ involve 只出现在历史行 ⇒ 偶合 ⇒ 否
+  ② 全部命中 —— 「必然／代价」是正文里讲别的块时的字样（by its very nature · shortfall · priority · play it safe…），
+    没有一条讲"一件事必然带来某个代价／要求"的动词 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— entail doing ／ ⛔ entail to do 只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`entails a higher toll`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+当护士就意味着经常要上夜班。
+（★ 用 entail；后面接什么形态自己定）
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 组1 第 1 题（顺带用对）
+  她写 `Between the two routes, the one via the highway is faster, yet **entails** a higher toll.（toll 和 entail 都学下）` —— 主语是"那条路线"、直接跟名词，用法对。
+  ⚠️ 同题主考点 #0106 ✅（faster ／ higher 两处比较级）。同括注的 toll 归入 #0249。
+
+## #0564 「（对某个问题的）立场」＝ stance（on）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**stance**　（对某个问题公开表明的）立场、态度（可数）—— 后面接 **on**
+　`his **stance on** this issue` · `the government's **stance on** immigration` · `a tough **stance**`（强硬立场）
+同一格的邻居：**position**（同义、更中性 `his position on the issue`）· **standpoint**（看问题的角度 `from a legal standpoint`）
+判据（词组题）：stance 调得出来就算对；写 position 判 △（英语成立，但不是本条要调的块）
+```
+**找法**：中文「（某人／某机构）在……问题上的立场」⇒ sb's stance on sth。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 组1 第 2 题（主考点 #0561，命中 ✅）。中文「他这几年在这个问题上的立场也一直很一致」，
+她自己写出 `his **stance** on this issue has been consistent`，并当场括注 **「这给词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "stance" "position" "立场"   ⇒ 命中 #0529 #0561 #0374 #0255 #0267 #0303 #0311 #0313 #0315 #0319 #0368 #0428
+② 规则查  dedup "观点" "态度" "看法"          ⇒ 命中 #0327 #0374 #0506 #0277 #0303 #0304 #0315 #0529 #0124 #0126 #0308
+逐条否掉：
+  #0561（unanimous ／ consistent）—— 「立场」只是触发点里的场景词，那条考的是"一致"挑哪个 ⇒ 问1 不成立 ⇒ 否
+  #0529（站不住脚：untenable…）—— position 是那条例句里被评价的对象，考的是 untenable 一族 ⇒ 问1 不成立 ⇒ 否
+  #0255（反对时直接跟那件事）—— 讲 oppose ／ object to 的框架，不是「立场」这个名词 ⇒ 问1 不成立 ⇒ 否
+  #0368（换个角度：in terms of…）#0506（出发点）—— 讲"从哪个角度看／起点"，不是"对某问题的立场" ⇒ 问2 要分两句话讲 ⇒ 否
+  其余命中（#0374 #0267 #0303 #0311 #0313 #0315 #0319 #0428 #0327 #0277 #0304 #0124 #0126 #0308）—— position／观点／态度 只是正文或历史行里的字样 ⇒ 偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词、答案唯一；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`his stance on this issue`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（政府在移民问题上的）立场
+（在谈判中的）强硬立场
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 组1 第 2 题（顺带用对）
+  她写 `… meanwhile, his **stance**（这给词学下) **on** this issue has been consistent over the years.` —— 词义、介词 on 都对。
+  ⚠️ 同题主考点 #0561 ✅（unanimous ／ consistent 各就各位）。
 
 ---
 
