@@ -2795,6 +2795,95 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `… long-term stacking of heavy objects can also deform the **shelves**(这个词背下).` —— 词与复数拼写都对。
   ⚠️ 同题主考点 #0390 ✅（deform 不及物 ＋ 及物）。
 
+## #0571 「（一项）行动／举措／倡议」＝ initiative
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**initiative**　① 一项（为解决某个问题而发起的）行动、举措、倡议（可数）
+　`a community **initiative**`（社区自发的活动）· `a new government **initiative** to cut waste` · `launch an **initiative**`
+　② 主动性（不可数）：`take the **initiative**`（主动去做）· `show **initiative**`
+★ 用法①很好用：中文「这件事／这个活动／这项举措」指**一件有组织的行动**时，一个 initiative 就收住
+　`the retired teacher who organised this **initiative**`
+⚠️ 拼写：i-ni-ti-a-tive（⛔ ~~initative~~）
+判据（词组题）：initiative 调得出来就算对；写 measure ／ campaign 判 △（成立，但不是本条要调的块）
+```
+**找法**：中文「（某人／某机构）发起的这件事／这项行动／这个举措」⇒ initiative；「主动」⇒ take the initiative。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 复检组2 第 1 题（主考点 #0404，命中 ✅）。中文「组织这件事的退休老师」，
+她自己写出 `the retired teacher who organized this **initiative**`，并当场括注 **「这个词这个用法学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "initiative" "倡议"   ⇒ **零命中**
+② 规则查  dedup "举措" "这件事"       ⇒ 命中 #0329 #0504 #0524 #0258 #0261 #0266 #0283 #0292 #0302 #0305 #0309 #0333
+逐条否掉：
+  #0329（do sth about sth）—— 「这件事」是那条题面里的字样，考的是介词 about ⇒ 问1 不成立 ⇒ 否
+  #0258（company／firm／business… 的分工）—— 讲"公司"这个名词，不是"行动／举措" ⇒ 问1 不成立 ⇒ 否
+  其余命中 —— 「举措／这件事」只是例句或历史行里的字样 ⇒ 偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词、答案唯一；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`organized this initiative`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（社区居民自发的）一项垃圾分类行动
+（政府推出的）一项减塑新举措
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 复检组2 第 1 题（顺带用对）
+  她写 `… while the retired teacher who organized this **initiative**(这个词这个用法学下) is regarded as a community leader.` —— 用法①（一件有组织的行动）用得准。
+  ⚠️ 同题主考点 #0404 ✅（serve as ／ be regarded as）。
+
+## #0572 「显眼／扎眼」＝ conspicuous
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**conspicuous**　显眼的、一眼就能看到的（因为跟周围不一样而突出）
+　`a **conspicuous** sign` · `be **conspicuous** in a crowd` · `a **conspicuous** error`（扎眼的错误）
+副词 conspicuously；反义 **inconspicuous**（不起眼的）
+同一格的邻居：obvious（明显，最通用）· noticeable（看得出来的）· eye-catching（吸引眼球的，偏褒）
+⚠️ 拼写：con-spic-u-ous（⛔ ~~conspicous~~ ⛔ ~~conspicious~~）
+判据（词组题）：conspicuous 调得出来就算对；写 obvious ／ noticeable ／ eye-catching 判 △
+```
+**找法**：中文「显眼／扎眼／一眼就看得到」⇒ conspicuous；「不起眼」⇒ inconspicuous。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 复检组2 第 6 题（主考点 #0321，命中 ✅）。中文「这次的失误非常明显」，
+她自己写出 `This error was highly **conspicuous**`，并当场括注 **「这个词背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "conspicuous" "明显" "显眼"   ⇒ 命中 #0087 #0043 #0148 #0316 #0326 #0331 #0371 #0059 #0095 #0137 #0236 #0239
+② 规则查  dedup "eye-catching" "noticeable"     ⇒ 命中 #0095 #0236
+逐条否掉：
+  #0043（长期治疗没有明显效果，P3 硬编）#0148（无生命名词作主语）—— 「明显」只是题面词，考的不是这个形容词 ⇒ 问1 不成立 ⇒ 否
+  #0087（双写）#0095（拼成另一个真词）—— 拼写规则条目，「明显」是历史行字样 ⇒ 问1 不成立 ⇒ 否
+  其余命中 —— 偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：形容词 ＋ 名词的块、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`highly conspicuous`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（穿着荧光背心，在人群里）格外显眼
+（门口）一块显眼的指示牌
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组2 第 6 题（顺带用对）
+  她写 `This error was highly **conspicuous**(这个词背下), whereas the cost of rectifying it was remarkably low.` —— 词义、拼写都对。
+  ⚠️ 同题主考点 #0321 ✅（两处「非常」都没用 very）。
+
 ---
 
 # F09 时态/体
