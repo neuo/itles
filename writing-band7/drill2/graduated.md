@@ -25156,7 +25156,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0481 「引起／吸引注意」一族：draw ／ attract ／ bring to ／ come to sb's attention
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25170,6 +25170,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **attract scrutiny ／ come under scrutiny**　招来审视／被盯上（★ 带负面、带"被查"的味道）
 　　`The scheme has **come under scrutiny** from regulators.`
 **raise concerns**　引发担忧（★ 引起的不是"注意"而是"担心"）
+**draw ／ attract criticism**　招来批评（★ 引起的是别人的负面反应）`The practice has **drawn considerable criticism**.`（2026-10-09 补，她点名要学）
+　　⛔ ~~entail criticism~~ —— entail 是「必然包含」，批评是别人的反应，不是这件事的组成部分（⇒ **#0563**）
 ```
 **判据（一句话）**：**谁在动？**
 那件事把注意力拉过来 ⇒ draw／attract sb's attention　　有人把它报上去 ⇒ bring X to sb's attention
@@ -25187,6 +25189,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 ③ come to sb's attention　 —— 2026-09-20 组2 第 5 题（题面给了 come）⇒ **调不出** ⇒ ❌　★ 同上
 ④ come under scrutiny　　　—— 未出过
 ⑤ catch sb's eye ／ raise concerns —— 未出过
+⑥ draw ／ attract criticism —— 2026-10-09 组2 第 6 题自发用对（`has drawn considerable criticism`）⇒ 留痕　★ 她点名要学
 ```
 
 **怎么发现的**
@@ -25266,6 +25269,10 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ③ come to sb's attention（主语是那件事、不及物）也测到 ⇒ ✅。
   ⚠️ 顺带（⛔ 不是本条考点）：`; whereas` 的分号 ＋ whereas 的身份 ⇒ 归入 #0314。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-09 📋 C9 D3 组2 第 6 题（顺带用对；🎓 状态不变）
+  题面「给员工电脑装监控软件的做法招来了不少批评……」，她自己写出 `has **drawn** considerable **criticism**`，并括注「学一下，另外可以改成 entail 么」。
+  招来批评 ⇒ draw ／ attract criticism —— 本条「引起／招来」一族的又一个成员 ⇒ 补进正文与成员出题账（⑥），⛔ 不另建号；
+  §3.5 A「只是把老条目适用范围说清」⇒ 连对连错不动。她问的 entail：⛔ 不行（entail ＝ 必然包含；批评是别人的反应）⇒ #0563 正文同步补一行。
 
 ## #0483 出院一族：be discharged ／ be admitted ／ be referred ／ be transferred
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句

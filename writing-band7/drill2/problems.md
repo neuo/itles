@@ -1459,7 +1459,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   做事的顺便 ⇒ while I am at it ✔；说话的顺便 ⇒ By the way ✔；读成计划，三处时间平面一致 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0542 「举（例子／数据／理由）」＝ cite
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1504,9 +1504,13 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 1 题（首测）
   她写 `the expert cited three recent studies and also cited understaffing as the primary cause of the accident` —— cite ＋ 宾语 ✔、cite A as B 的 as 在 ✔。
+- 2026-10-09 ✅ C9 D3 组2 第 1 题
+  题面「这篇文章援引了大量政府数据，作者还把房价上涨列为年轻人推迟结婚的主要原因。（★ 两处都用 cite）」
+  她写 `This article **cited** extensive government data, and the author also **cited** rising house prices **as** the primary reason young people delay marriage.`
+  cite ＋ 数据 ✔；cite A as B 的 as 在 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。同句 extensive 她点名要学 ⇒ 另建 #0565。
 
 ## #0543 「被困」trapped ／「卡住」stuck —— 按"出不出得来、有没有危险"挑
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1522,7 +1526,9 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 **成员出题账**
 ```
 ① trapped　—— 2026-10-01 复检组2 第 2 题自发用对（`rescued the trapped child`）⇒ 留痕，⛔ 不算测过　★ 她点名要学
-② stuck　　—— 未出过
+　　　　　　　 2026-10-07 组1 第 3 题「五名工人被困在井下」⇒ ✅ ／ 2026-10-09 组2 第 3 题「两名住户被困在了顶楼」⇒ ✅
+② stuck　　—— 2026-10-07 组1 第 3 题「救援车队在车流里堵了一个小时」（人卡住）⇒ ✅
+　　　　　　　 2026-10-09 组2 第 3 题「楼下大门的锁卡住了」（东西卡住）⇒ ✅
 ```
 
 **怎么发现的**
@@ -1553,9 +1559,13 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 3 题（首测）
   她写 `five workers were trapped underground, but the rescue convoy was stuck in traffic halfway for an hour` —— trapped（出不来＋有危险）／ stuck（卡住没危险）分对；成员 ② stuck 首次出题即命中。更好版只把 halfway 换成 on the way（非考点）。
+- 2026-10-09 ✅ C9 D3 组2 第 3 题
+  题面「一场大火中，有两名住户被困在了顶楼；消防员赶到时，楼下大门的锁却卡住了，怎么也打不开。（★ 两处分别用 trapped ／ stuck）」
+  她写 `two residents were **trapped** on the top floor; … the lock on the ground-floor door was **stuck** and could not be opened.`
+  出不来、有危险 ⇒ trapped ✔；东西卡住 ⇒ stuck ✔（stuck 第一次落在"东西卡住"这一格）⇒ 连对 1 → 2 ⇒ 🎓。成员出题账已补。
 
 ## #0544 「小心行事」＝ exercise caution
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1599,9 +1609,13 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 4 题（首测）
   她写 `pedestrians must exercise extra caution when passing through this stretch of road` —— caution 不可数、没加 a ✔。
+- 2026-10-09 ✅ C9 D3 组2 第 4 题
+  题面「这种药可能伤肾，医生给老年患者开这种药时要格外谨慎。（★ 用 exercise 那个块）」
+  她写 `physicians must **exercise extreme caution** when prescribing it to elderly patients.`
+  exercise ＋ caution ✔，不可数没加 a ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0546 「停下来」＝ come to a halt
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1643,9 +1657,13 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 5 题（首测）
   她写 `the municipal public transport system almost came to a complete halt` —— a 在 ✔，complete 送到「全都」。
+- 2026-10-09 ✅ C9 D3 组2 第 5 题
+  题面「原材料一断供，这家工厂的整条生产线就停了下来。（★ 用 come to a halt 这个块）」
+  她写 `Upon the disruption of raw material supplies, the entire production line of this factory **came to a halt**.`
+  a 没丢 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。同句 disruption 她点名要学 ⇒ 另建 #0566。
 
 ## #0547 「香水」＝ perfume
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1685,9 +1703,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 7 题 词组题 a b（首测）
   她写 `a bottle of perfume` · `the scent of her perfume` —— 两块字面对。
+- 2026-10-09 ✅ C9 D3 组2 第 8 题 a ＋ 第 9 题 a（词组题，本条占 2 个块）
+  8a「（免税店里的）香水专柜」⇒ `the perfume counter in the duty-free shop` ✔ · 9a「（电梯里）一股浓烈的香水味」⇒ `a strong scent of perfume in the elevator` ✔
+  ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0548 「淡淡的／细微的」＝ subtle
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1731,9 +1752,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 7 题 词组题 c d（首测）
   她写 `a subtle scent` · `a subtle difference between the two` —— 两块字面对。
+- 2026-10-09 ✅ C9 D3 组2 第 8 题 b ＋ 第 9 题 b（词组题，本条占 2 个块）
+  8b「（这款香水）淡淡的花香」⇒ `a subtle floral scent of this perfume` ✔ · 9b「（她说话时）语气上细微的变化」⇒ `a subtle shift in her tone` ✔
+  ⇒ 连对 1 → 2 ⇒ 🎓。同块 in her tone 她点名要学 ⇒ 另建 #0567。
 
 ## #0549 「（某个机构／行业的）做法」＝ practice（可数：the practices of X ／ the practice of doing）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1785,6 +1809,10 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 6 题（首测）
   她写 `The practice of keeping animals on display in zoos has long been controversial; … have altered their practices` —— the practice of doing ✔；第二处各家的做法用复数 ✔。
+- 2026-10-09 ✅ C9 D3 组2 第 6 题
+  题面「给员工电脑装监控软件的做法招来了不少批评；有几家科技公司已经公开调整了自己的做法。（★ 两处「做法」用同一个名词 practice —— 单复数与冠词自己定）」
+  她写 `**The practice of installing** monitoring software on employee computers has drawn considerable criticism; several technology companies have publicly adjusted **their practices**`
+  单数 the practice of ＋ -ing ✔；各家的做法 ⇒ 复数 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。同句 drawn 她点名要学 ⇒ 归入 #0481。
 
 ## #0550 「创业氛围／创业精神」＝ entrepreneurial ＋ 名词
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -1847,7 +1875,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0551 「难民」＝ refugee
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1890,9 +1918,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 按 §3.5 B5 ／ §2③：她说不会 ⇒ 记 ③，**⛔ 不推进 streak**（建号时无对错）。
 - 2026-10-07 ✅ C9 D1 组1 第 7 题 词组题 g h（首测）
   她写 `refugee families` · `refugee camps` —— 两块字面对（camps 复数按契约⑬ 不判）。
+- 2026-10-09 ✅ C9 D3 组2 第 8 题 c ＋ 第 9 题 c（词组题，本条占 2 个块）
+  8c「（欧洲的）难民危机」⇒ `the refugee crisis in Europe` ✔ · 9c「一名年轻的难民」⇒ `a young refugee` ✔
+  ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0552 「试住／试吃（一家店）」＝ try ＋ 那家店 —— 「试」后面那个动词不用译
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1940,6 +1971,10 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-07 ✅ C9 D1 组2 第 1 题（首测）
   她写 `We tried the newly opened hotel by the sea and incidentally tried the restaurant downstairs` —— try ＋ 那家店两处都对，「住／吃」没译、没写成 try to。
   ⚠️ 同句 incidentally 送错了「顺便」⇒ 记在 #0494，与本条无关。
+- 2026-10-09 ✅ C9 D3 组2 第 7 题
+  题面「出差那几天，我试住了公司附近的一家小旅馆，还试吃了街角那家新开的川菜馆。（★ 两处都直接写 try ＋ 那家店 —— 「住」「吃」不用译）」
+  她写 `I **tried** a small inn near the company and **tried** the newly opened Sichuan restaurant on the corner.`
+  try ＋ 那家店两处都对，没写成 try to ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0553 「（饭菜）丰盛」＝ hearty ／ generous
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -2433,6 +2468,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 ⚠️ 后面直接跟名词或 -ing：entail **doing**（⛔ ~~entail to do~~）
 ⚠️ 主语是事情／选择，不是人（⛔ ~~I entail…~~）
 ⚠️ 书面语；口语里同一个意思常说 involve ／ mean
+⚠️ ⛔ ~~entail criticism~~：批评是别人对这件事的**反应**，不是这件事本身必然包含的部分 ⇒ draw ／ attract criticism（⇒ **#0481**）（2026-10-09 她问「drawn 能不能换成 entail」时补）
 ```
 **找法**：中文「意味着要／免不了要／得付出」，主语是一件事或一个选择 ⇒ entail ＋ 名词／-ing。
 
@@ -2509,6 +2545,135 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组1 第 2 题（顺带用对）
   她写 `… meanwhile, his **stance**（这给词学下) **on** this issue has been consistent over the years.` —— 词义、介词 on 都对。
   ⚠️ 同题主考点 #0561 ✅（unanimous ／ consistent 各就各位）。
+
+## #0565 「大量／大面积（数据、研究、破坏）」＝ extensive
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**extensive**　大量的、范围广的（数量多 ＋ 覆盖面大）—— 放在名词前
+　`**extensive** data` · `**extensive** research` · `**extensive** damage`（大面积破坏）· `**extensive** experience`（丰富的经验）
+同一格的邻居：**a wealth of**（丰富的 ⇒ **#0356**）· **considerable**（相当多的，偏"程度"）· **a large amount of**（中性）
+⚠️ 拼写：ex-ten-sive（⛔ ~~extensiv~~ ⛔ ~~extencive~~）；副词 extensively（`has been extensively studied`）
+判据（词组题）：extensive 调得出来就算对；写成别的合法说法（a large amount of ／ a wealth of）判 △
+```
+**找法**：中文「大量的（数据／研究）」「大面积的（破坏）」「范围很广的」⇒ extensive。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 组2 第 1 题（主考点 #0542，命中 ✅）。中文「这篇文章援引了大量政府数据」，
+她自己写出 `This article cited **extensive** government data`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "extensive" "a wealth of" "considerable"   ⇒ 命中 #0356 #0297 #0303 #0326 #0440 #0055 #0074 #0095 #0234 #0295 #0307 #0508
+② 规则查  dedup "大量" "广泛"                              ⇒ 命中 #0295 #0465 #0124 #0303 #0315 #0360 #0375 #0440
+   补查    dedup "substantial" "a great deal of" "large amount" ⇒ 命中 #0059 #0321 #0234 #0021 #0035 #0055 #0236 #0270
+   补查    dedup "damage" "research" "大面积"                ⇒ 命中 #0183 #0391 #0059 #0295 #0308 #0334 #0343 #0354
+逐条否掉：
+  #0356（「…丰富」＝ be rich in ／ a wealth of）—— 问2：那条讲「丰富」这个块的介词与搭配对象（rich **in** ＋ 不可数），
+    本条讲「大量／大面积」这个形容词，要分两句话讲 ⇒ 否；问3：会 rich in 不会自动调出 extensive ⇒ 否；交叉引用
+  #0059（不可数名词一族）—— 管的是 data／research 加不加 -s，不是挑哪个形容词 ⇒ 问1 不成立 ⇒ 否
+  其余命中 —— extensive／considerable／大量 只是例句或历史行里的字样（#0234 #0236 #0295 #0303 …）⇒ 偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：形容词 ＋ 名词的固定搭配、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`extensive government data`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（这项结论基于）大量的研究
+（台风造成的）大面积破坏
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 1 题（顺带用对）
+  她写 `This article cited **extensive**(这个词学下) government data, …` —— 词义、位置都对（data 前零冠词也对）。
+  ⚠️ 同题主考点 #0542 ✅（cite ／ cite A as B）。
+
+## #0566 「（供应／交通的）中断、打乱」＝ disruption
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**disruption**　（正常运转被）打断、打乱 —— 名词；动词 **disrupt**
+　`supply **disruptions**`（供应中断）· `(severe) **disruption to** traffic`（交通严重受阻）· `cause **disruption**`
+　动词：`The strike **disrupted** rail services.`（罢工打乱了铁路运行）
+⚠️ 后面接被打乱的东西：disruption **to** ／ **in** ／ **of** sth 都常见
+⚠️ 拼写：dis-rup-tion（⛔ ~~distruption~~ ⛔ ~~disruptsion~~）
+判据（词组题）：disruption 调得出来就算对
+```
+**找法**：中文「（供应、交通、服务）中断／受阻／被打乱」⇒ disruption（名词）／ disrupt（动词）。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 组2 第 5 题（主考点 #0546，命中 ✅）。中文「原材料一断供」，
+她自己写出 `Upon the **disruption** of raw material supplies`，并当场括注 **「这个词学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "disruption" "disrupt"   ⇒ **零命中**
+② 规则查  dedup "中断" "断供"             ⇒ **零命中**
+③ 眼过    list --fam F08（230 条）里查「打乱／扰乱／中断／干扰／供应／停」⇒ 只有 #0546（停下来 ＝ come to a halt）#0562（around the clock）
+逐条否掉：#0546 —— 那条讲「停下来」这个动作块，本条讲「被打断／打乱」这个名词 ⇒ 问1 不成立 ⇒ 否；交叉引用（同一句里两条一起用上了）
+　　　　　#0562 —— 字样偶合（「不停」）⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块 supply disruption、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`the disruption of raw material supplies`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+供应链中断
+（罢工给铁路交通带来的）严重干扰
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 5 题（顺带用对）
+  她写 `Upon the **disruption**(这个词学一下) of raw material supplies, the entire production line of this factory came to a halt.` —— 词义、介词都对。
+  ⚠️ 同题主考点 #0546 ✅（came to a halt）。
+
+## #0567 「用…的语气（说）」＝ in a … tone
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**in a ＋ 形容词 ＋ tone**　用…的语气（说话）—— 介词 **in**、冠词 **a** 都不能少（tone 可数）
+　`She told us **in a calm tone** that …` · `He spoke **in a gentle tone**.` · `"Sit down," she said **in a firm tone**.`
+⚠️ ⛔ ~~in calm tone~~（丢了 a）；介词用 in（with a … tone 不是常规说法）
+语气本身变了：`a (subtle) shift／change **in** her **tone**` · 文章的基调：`the **tone of** the article`
+```
+**找法**：中文「用…的语气／口气（说）」⇒ in a ＋ 形容词 ＋ tone；「语气变了」⇒ a change in sb's tone。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 组2 第 9 题 b（主考点 #0548，命中 ✅）。中文块「（她说话时）语气上细微的变化」，
+她自己写出 `a subtle shift **in her tone**`，并当场括注 **「in xx tone 学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "tone" "语气"                 ⇒ 命中 #0016 #0433 #0497 #0255 #0268 #0272 #0336 #0339 #0345 #0347 #0377 #0413
+② 规则查  dedup "manner" "in a way" "voice"   ⇒ 命中 #0433
+　 补查    dedup "口吻" "说话的方式"            ⇒ 命中 #0347
+逐条否掉：
+  #0016（虚拟语气）#0497（shall／should／must）#0255 #0268 #0272 #0339 #0345 #0347 #0377 —— 「语气」是语法术语"语气（mood）"或正文字样，不是说话的口气 ⇒ 问1 不成立 ⇒ 否
+  #0413（under ＋ 零冠词名词）#0495 类「介词 ＋ 零冠词」—— 方向相反：本条 in a … tone **要** a ⇒ 问2 要分两句话讲 ⇒ 否
+  #0433 #0336 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ③：考点含冠词 a 与介词 in，只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`a subtle shift in her tone`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+她用很平静的语气告诉我们，公司下个月要裁掉三分之一的员工。
+（★ 用 tone；介词和冠词自己定）
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 9 题 b（顺带用对）
+  她写 `a subtle shift in her tone(in xx tone 学一下)` —— in ＋ 所有格 her 都对。
+  ⚠️ 同题主考点 #0548 ✅（subtle）。
 
 ---
 
@@ -2813,7 +2978,7 @@ K（口径）
 </details>
 
 ## #0545 具体年份当定语：its 1970 level ／ the 2008 crisis —— ⛔ 不加 's
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F11 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F11 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2859,6 +3024,10 @@ K（口径）
   ⚠️ 按 §3.5 B5：她没有写错 ⇒ 记 ③，**⛔ 不推进 streak**。
 - 2026-10-07 ✅ C9 D1 组1 第 2 题（首测）
   她写 `the 2015 unemployment rate was only half the 2010 level, whereas this year's figure has rebounded` —— 两个年份当定语都没加 's ✔，this year 当定语加了 's ✔，两边都分对。
+- 2026-10-09 ✅ C9 D3 组2 第 2 题
+  题面「这张图显示，2019 年的游客人数比 2018 年的水平高出三成，而去年的数字因为疫情跌了一大半。（★ 两个年份和"去年"都放在名词前面当定语 —— 加不加 's 自己定）」
+  她写 `the **2019** tourist count was 30% higher than the **2018** level, whereas **last year's** figure fell by more than half`
+  数字年份直接当定语、没加 's ✔；相对时间词加 's ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ---
 
