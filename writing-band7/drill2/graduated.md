@@ -13558,7 +13558,7 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0498 「一…就」一族：as soon as ／ the moment ／ once ／ no sooner … than（倒装）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -13567,6 +13567,8 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
 　**the moment／the minute** ＋ 从句（略口语）　`**The moment** it was put forward, …`
 　**once** ＋ 从句（一旦…就）　`**Once** the rules are published, complaints will drop.`
 　**on／upon ＋ 名词／-ing**（正式、无主语）　`**On** publication, the report drew criticism.` · `**Upon arriving**, …`
+　　固定块 **on／upon contact with** X（一碰到 X 就）：`The cup deforms **upon contact with** boiling water.`
+　　⚠️ upon 是介词 ⇒ 后面接**名词**：contact 在这里是名词，所以是原形（⛔ ~~upon contacting with~~ —— 动词 contact 不带 with）（2026-10-09 补，她问「为啥 contact 是原形」）
 倒装（书面强调；否定词提前 ⇒ 主谓倒装）
 　**No sooner had** X … **than** Y　`**No sooner had** the proposal **been** put forward **than** it met with opposition.`
 　**Hardly／Scarcely had** X … **when** Y　`**Hardly had** the meeting begun **when** the power went out.`
@@ -13623,6 +13625,9 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   ⚠️ `and **the** hardly` 多出来的 the ⇒ "the hardly" 在英语里不存在、不是知识缺口 ⇒ §3.2 手滑豁免。
   ⚠️ 两处进更好版（不算错）：`the door was closed` → `the door closed`（中文没说是谁关的，被动会加进一个施事）· 去掉分号后的 `and`（分号已经接上了，再加 and 是双重连接 —— ⚠️ 2026-09-13 本条更好版里说过一次，**今天第二次**）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 📋 C9 D3 复检组1 第 2 题（顺带用对；🎓 状态不变）
+  她写 `deforms **upon contact with** boiling water`，并括注「upon 和 contact with 都学下，另外为啥 contact 是原型」。
+  upon ＋ 名词 正是本条 on／upon ＋ 名词 那一格 ⇒ 补固定块 upon contact with 进正文，⛔ 不另建号。答她：upon 是介词，这里的 contact 是名词 ⇒ 原形。
 
 ## #0500 动作做主语的另一条路：名词块（a single application）而不是动名词
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07 ｜ 题型 整句
@@ -17889,7 +17894,7 @@ not … until ＋ 时点   until the autumn of next year（动词是变化点 op
   not … until ＋ 时点 ✔ ⇒ 复检通过。building（要 bridge）当场问过，她答「发错了，用手机答题很麻烦」⇒ 手滑豁免。
 
 ## #0336 「所谓 X，说白了就是 Y」怎么说 —— ⚠️ so-called 在英语里几乎总带贬义
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08
 
 **问题是什么**
 中文的「所谓」是**中性的**（＝"人们说的那个 X"）；英文的 `so-called` **几乎总是带贬义**，
@@ -17986,6 +17991,8 @@ not … until ＋ 时点   until the autumn of next year（动词是变化点 op
   题面「所谓的免费体验课，说白了就是为了拉你办卡。」
   她写 `The **so-called** free trial class is, in essence, simply a tactic to lure customers into buying memberships.`
   so-called 用在贬义语境 ✔ ⇒ 复检通过。
+- 2026-10-09 📋 C9 D3 复检组1 第 3 题（顺带用对；🎓 状态不变）
+  她写 `so-called "zero-risk investments" do not exist by definition` —— 她正是在质疑这个说法，so-called 的贬义用得正好。
 
 ## #0337 `at all times` ＝ 任何时候都（规定语域）—— ⚠️ 和 `at times` 只差一个 all，意思正相反
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08
@@ -20833,7 +20840,7 @@ monitor　 **盯住一个指标看它有没有越界** —— 对象不动，你
   ⚠️ 本句与教练出题时写在 session 题面上方的自译逐字相同（教练侧泄题，见 sessions/2026-10-08.md 教练侧）⇒ 读数按纸面记，信息量存疑。
 
 ## #0389 one after another ／ one by one ／ one at a time —— 三个"一个一个"
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -20877,6 +20884,7 @@ one at a time　　　**一次只来一个** —— 限制并发，常带"别一
 　　　　　　　　　　　 照常进复检队列）；**复检抽到它时必须用下面改好的新题面**，
 　　　　　　　　　　　 ⛔ 不许再用任何一版旧题面。
 ⇒ 下次出题必须让 ≥2 个成员落地，**必须点名测 ③**。
+★ **2026-10-09 复检组1 第 1 题 ③ 第一次真正行使并命中**：`can process only one sample **at a time**` ✅（同题 ① one after another ✅）⇒ 软毕业的那个缺口补上了
 ```
 
 **中文触发点**
@@ -20920,9 +20928,13 @@ one at a time　　　**一次只来一个** —— 限制并发，常带"别一
   　 成员③ `one at a time` **从建号到毕业一次都没被行使**。按 §3.3 照常毕业、照常进复检队列，
   　 ⛔ 不打别的标记；但复检抽到它时**必须用上面改好的新题面**，⛔ 不许再用旧题面。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 1 题
+  题面「这台仪器一次只能处理一份样本，排队送样的人只好一个接一个地上前。（★ 两处分别用 one at a time ／ one after another）」（09-10 改好的新题面，后半「等」改成「上前」）
+  她写 `This instrument can process only one sample **at a time**; people waiting in line to submit samples had to step forward **one after another**.`
+  ③ one at a time 第一次真正行使并命中 ✔（软毕业的缺口补上）；① one after another ✔ ⇒ 复检通过。
 
 ## #0390 变形 ＝ deform（及物不及物两用）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -20986,9 +20998,13 @@ distort　形状或**信息**被扭曲：a distorted image · distort the facts
   ⚠️ 今天的题面**绕开了** 09-03 那个已核过的争议点（`under high temperature` 在工程写作里成立），
   　 换成阳光与挤压 ⇒ 不用再花一次判据。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 2 题
+  题面「这种便宜的塑料杯一倒进开水就会变形，而长期堆放重物也会让货架变形。（★ 两处都用 deform，一处不及物一处及物）」
+  她写 `This cheap plastic cup **deforms** upon contact with boiling water, whereas long-term stacking of heavy objects can also **deform** the shelves.`
+  不及物 ＋ 及物两处都对 ⇒ 复检通过。📋 留痕：「这种」写成 This … cup，This type of ／ These cups 更贴（△，不记号）。
 
 ## #0391 「就其本质而言」一族 —— by its very nature ／ inherently ／ in itself ／ by definition
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -21040,6 +21056,7 @@ by definition　　　　 「按定义就」—— 逻辑上必然，不是经�
 ③ in itself          —— 2026-09-03 组2 第 4 题 ✅（the proposal in itself is not bad，位置在主语后）
 ④ by definition      —— **2026-09-10 组3 第 1 题 ✅ 首次行使并命中**（is, by definition, unpaid）
 ⇒ **四个成员到 2026-09-10 全部行使过且全对**，本条当日 🎓。
+2026-10-09 复检组1 第 3 题 ② inherently ✅（are inherently dangerous）· ④ by definition ✅（do not exist by definition —— 句末、挂在动词后，不会被读成修饰名词）
 ```
 
 **中文触发点**
@@ -21068,9 +21085,13 @@ by definition　　　　 「按定义就」—— 逻辑上必然，不是经�
   ⚠️ 一处顺带用对：`this kind of collaborative project **is**` —— #0251 的形状，三个位置全对
   　（见 #0251 当日的 📋 行）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员账里还剩 ② ③ 已行使、①④ 今日行使 ⇒ 四个成员全部走过一遍。
+- 2026-10-09 ✅ C9 D3 复检组1 第 3 题
+  题面「极限运动本身就很危险；而所谓"零风险投资"，从定义上讲就不存在。（★ 两处分别用 inherently 和 by definition）」
+  她写 `Extreme sports are **inherently** dangerous; meanwhile, so-called "zero-risk investments" do not exist **by definition**.`
+  inherently ✔；by definition 放句末、挂在动词后 ✔（不会被读成修饰名词）⇒ 复检通过。
 
 ## #0392 职责 ＝ duty（the duty of X ／ It is the duty of X to do）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21083,6 +21104,7 @@ by definition　　　　 「按定义就」—— 逻辑上必然，不是经�
 ```
 duty　　　　　 职责／本分（含道义与职务两层）：it is our duty to …
 responsibility 责任（含"要为后果负责"）：take responsibility for the delay
+　　　　　　　 ★ 2026-10-09 补：说机构的「首要职责」，`the primary responsibility of the government` 与 duty **同样标准** ⇒ 题面别用「职责」二字
 obligation　　 义务（法律或约定强加的）：a legal obligation to disclose
 remit　　　　  职权范围（英式，机构语境）：this falls outside our remit
 ```
@@ -21108,7 +21130,12 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
 　 说明确实已经稳了，再按 §3.3 照常毕业。
 
 **中文触发点**
-（某机构的）职责
+```
+（军人的）天职
+（作为子女）应尽的本分
+```
+⚠️ **2026-10-09 换题面（◎ 那条路，§3.2）**：「（政府的）首要职责」她写 `the primary responsibility of the government` —— 完全成立，duty 不是必经之路 ⇒ 判 ◎✅，当场改成只有 duty 才贴的「天职／本分」
+（老触发点留档不删：（某机构的）职责 ／ （监管机构的）职责 ／ （政府的）首要职责）
 
 ### 历史记录
 - 2026-09-01 ③ 建号（她点名要学）D4 复习日 C4·组4 第 4 题（顺带用对）
@@ -21123,6 +21150,9 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   ★ 按契约⑬ 词组题**⛔ 不判冠词** ⇒ 光杆 `duty` 算对；更好版给的是带搭配的 `the duty of the regulator`
   　（块在真句子里是带着 of 一起出现的），但那是**风格不是对错**，⛔ 不进判定。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ◎✅ C9 D3 复检组1 第 7 题 a（词组题）
+  「（政府的）首要职责」她写 `the primary responsibility of the government` —— 完全成立（机构的首要职责 primary responsibility 是标准说法），duty 没被逼出来 ⇒ 我的题面，算对。
+  当天改题面：「（军人的）天职」「（作为子女）应尽的本分」（只有 duty 才贴）。
 
 ## #0393 审计 ＝ audit
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
@@ -21184,7 +21214,7 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0394 营业额 ＝ turnover（英式）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21234,6 +21264,8 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   ★★ **本条的考点就是"同一个 turnover 的两个意思"，今天两个意思她都调出来了**，
   　 而且没有把两个搞混（前面挂 employee 就是流动率，不挂就是营业额）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 7 题 b ＋ c（词组题，本条占 2 个块）
+  7b「（这家超市的）年营业额」⇒ `the annual turnover of this supermarket` ✔ · 7c「（护理行业的）高人员流动率」⇒ `high staff turnover in the nursing industry` ✔ ⇒ 复检通过。
 
 ## #0395 全年 ＝ all year round
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 词组
@@ -21292,7 +21324,7 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   ⇒ 09-04 留的话（把作定语的 year-round 一起测）今天兑现，两个形态都在。⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0396 保密协议 ＝ a non-disclosure agreement（NDA）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21331,6 +21363,8 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   中文块「保密协议（入职时要签的那份）」⇒ 她写 `non-disclosure agreement` ✔ 字面与拼写都对。
   ★ 更好版补了缩写 `NDA`（正式文件里第一次写全称、后面用缩写）—— 只是补充，⛔ 不影响判定。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 7 题 d（词组题）
+  「（和合作方签的）保密协议」⇒ `a non-disclosure agreement` ✔ ⇒ 复检通过。
 
 ## #0397 处于下风 ＝ be at a disadvantage
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08 ｜ 题型 词组
@@ -21506,7 +21540,7 @@ retailer　 零售商　　wholesaler　批发商
   ⚠️ 病根在教练的题面：一道词组题塞了 7 块，而 §6.1 默认是「6 个上下」⇒ 见教练侧。
 
 ## #0401 「写进法律」与「按…规定」—— 法律条文类的固定块
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -21565,9 +21599,13 @@ retailer　 零售商　　wholesaler　批发商
   ⚠️ 一处 ⚠️只进更好版：`advance applications for overtime are required` →
   　 `overtime must be declared in advance`（她把动作压成了一个名词块，读者要多拆一层）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 5 题
+  题面「男女同工同酬已经写进了法律，而按照学校的规定，学生每天都必须穿校服。（★ 两处分别用 written into law ／ under）」
+  她写 `Equal pay for equal work between men and women **has been written into law**, and **under school regulations**, students are required to wear uniforms every day.`
+  written into law ✔；介词 under ✔（⛔ 没写成 by）⇒ 复检通过。
 
 ## #0402 矿产资源 ＝ mineral resources
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21609,9 +21647,11 @@ retailer　 零售商　　wholesaler　批发商
   ★ 本条是 2026-09-01 她在 #0356 那题里当场点名 `mineral` 要背而建的号；
   　 09-03 第一次出题命中，今天第二次命中 ⇒ 两次都是干净读数。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 7 题 e（词组题）
+  「（非洲大陆的）矿产资源」⇒ `mineral resources in Africa` ✔ ⇒ 复检通过。
 
 ## #0403 「打击／整治」一族 —— combat ／ tackle ／ crack down on ／ curb
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 **按"用多大力气、针对什么"分。四个都及物（crack down 要带 on）。**
@@ -21653,6 +21693,7 @@ curb　　　　　 **压住、抑制**（不求根除，只求少）　curb inf
 ★★ 2026-09-10 那次的题面**故意不给映射**（只写"两个词各用一次，哪个配哪个自己判断"）——
 　 因为本条的考点就是**分工**，给了映射等于把考点公布。她两处都判对
 　（tackle 配"要着手解决的问题"、combat 配"长期存在的坏东西"）⇒ 这个读数比 09-03 那次更硬。
+2026-10-09 复检组1 第 6 题 ② tackle ✅（tackle the issue of campus bullying）· ③ crack down on ✅（cracking down on exam cheating）
 ```
 
 **中文触发点**
@@ -21681,6 +21722,10 @@ curb　　　　　 **压住、抑制**（不求根除，只求少）　curb inf
   ⚠️ 同题三处她当场点名（§2③）：`take office` ⇒ 已建 **#0490** · `mayor` ⇒ 已建 **#0491** ·
   　 `over the long term` ⇒ 归入 **#0424**（见那条的 📋 行）。三处⛔ 都不归本条。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 6 题
+  题面「学校打算着手解决校园霸凌问题，同时严查考试作弊。（★ 两处分别用 tackle ／ crack down on）」
+  她写 `The school intends to **tackle** the issue of campus bullying while **cracking down on** exam cheating.`
+  tackle 直接带宾语 ✔；crack down on 的 on 在 ✔ ⇒ 复检通过。同句 bullying 她点名要背 ⇒ 另建 #0569。
 
 ## #0405 官方声明 ＝ an official statement
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
@@ -29037,7 +29082,7 @@ when · before · after · until · once · as soon as`
   ⛔ 状态不变、⛔ 不推进 streak（📋 留痕）。
 
 ## #0400 被动进行时 ＝ be being ＋ 过去分词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-10 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -29094,6 +29139,10 @@ have already been borne　后果**已经**被承担了（完成）
   ⚠️ `refurbish` 是她自己调的词，与她 2026-09-07 写的 `the refurbishing of the adjacent underpass`
   　 同源 ⇒ 这个词在她手里是活的。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-09 ✅ C9 D3 复检组1 第 4 题
+  题面「这座老桥在加固，所以这个月周末都不通车。（★ 前半用被动进行时）」
+  她写 `The old bridge **is being reinforced**, so it is closed to traffic on weekends this month.`
+  be being ＋ 过去分词 ✔ ⇒ 复检通过。同句 reinforce 她点名要学 ⇒ 另建 #0568。
 
 ## #0473 相对时间一族：the year before last ／ the previous year ／ the year after next
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F09 ｜ 题型 整句

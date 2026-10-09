@@ -2675,6 +2675,126 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `a subtle shift in her tone(in xx tone 学一下)` —— in ＋ 所有格 her 都对。
   ⚠️ 同题主考点 #0548 ✅（subtle）。
 
+## #0568 「加固／强化」＝ reinforce
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**reinforce**　① 加固（桥、墙、堤坝等实物）② 强化、巩固（印象、观念、理解、信息）—— 及物动词
+　① `The old bridge **is being reinforced**.` · `**reinforce** the walls with steel`
+　② `**reinforce** students' understanding` · `**reinforce** stereotypes`（强化刻板印象）· `**reinforce** the message`
+名词 **reinforcement**（加固；强化）
+⚠️ 拼写：re-in-force（⛔ ~~reinforse~~ ⛔ ~~renforce~~）
+⚠️ 与 strengthen 的分工：strengthen 是"变强"的通用词；reinforce 带"在原有基础上再加一层、让它更牢"的意思 —— 加固、强化印象都用它
+```
+**找法**：中文「加固（实物）」「强化／巩固（印象、理解、观念）」⇒ reinforce。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 复检组1 第 4 题（主考点 #0400，命中 ✅）。中文「这座老桥在加固」，
+她自己写出 `The old bridge is being **reinforced**`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "reinforce" "reinforced"   ⇒ **零命中**
+② 规则查  dedup "加固" "强化"               ⇒ 命中 #0185 #0349（全是历史行里的字样）
+③ 眼过    list --fam F08（230 条）里查「加固／加强／强化／巩固／strengthen」⇒ 没有同块条目
+逐条否掉：#0185（走投无路）#0349（out of ＋ 抽象名词）—— 「强化」只是历史行里的字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 及物、被动进行时这类形态只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`is being reinforced`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+老师反复举例子，是为了强化学生对这个概念的理解。
+（★ 用 reinforce）
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要学）C9 D3 复检组1 第 4 题（顺带用对）
+  她写 `The old bridge is being **reinforced**(这个词学下), so it is closed to traffic on weekends this month.` —— 词义、被动进行时都对。
+  ⚠️ 同题主考点 #0400 ✅（被动进行时）。
+
+## #0569 「霸凌」＝ bullying
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**bullying**　霸凌、欺凌（不可数）　`school／campus **bullying**` · `**cyberbullying**`（网络霸凌，一个词）· `workplace **bullying**`
+动词 **bully** sb（欺负某人）· 名词 **a bully**（霸凌别人的人）· `be **bullied**`（被霸凌）
+⚠️ 拼写：两个 l（bu-lly-ing）（⛔ ~~buling~~ ⛔ ~~bullyng~~）
+判据（词组题）：bullying 调得出来就算对（cyberbullying 连写、分写都算）
+```
+**找法**：中文「霸凌／欺凌」⇒ bullying；「被欺负」⇒ be bullied。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 复检组1 第 6 题（主考点 #0403，命中 ✅）。中文「着手解决校园霸凌问题」，
+她自己写出 `tackle the issue of campus **bullying**`，并当场括注 **「这一个词背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "bullying" "bully"   ⇒ **零命中**
+② 规则查  dedup "霸凌" "欺负"         ⇒ **零命中**
+③ 眼过    list --fam F08（230 条）里查「霸／欺」⇒ 没有同块条目
+逐条否掉：无候选可否 —— 三步全部零命中
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词、答案唯一；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`campus bullying`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+网络霸凌
+（职场上的）霸凌
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组1 第 6 题（顺带用对）
+  她写 `The school intends to tackle the issue of campus **bullying**（这一个词背下) while cracking down on exam cheating.` —— 词与拼写都对。
+  ⚠️ 同题主考点 #0403 ✅（tackle ／ crack down on）。
+
+## #0570 「货架／书架」＝ shelf（复数 shelves）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**shelf**　架子、货架（可数）—— 复数 **shelves**（f → ves，同 knife → knives · leaf → leaves）
+　`supermarket **shelves**`（超市货架）· `a row of **bookshelves**`（一排书架）· `on the top **shelf**`（最上面一层）
+⚠️ 复数拼写：⛔ ~~shelfs~~
+判据（词组题）：shelf／shelves 调得出来就算对（单复数不判）；写成 ~~shelfs~~ ⇒ 拼错 ❌
+```
+**找法**：中文「货架／书架／架子（的一层）」⇒ shelf；说好几个架子 ⇒ shelves。
+
+**怎么发现的**
+2026-10-09　C9 D3 学习日 复检组1 第 2 题（主考点 #0390，命中 ✅）。中文「长期堆放重物也会让货架变形」，
+她自己写出 `can also deform the **shelves**`，并当场括注 **「这个词背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "shelf" "shelves"   ⇒ 命中 #0510
+② 规则查  dedup "货架" "书架"         ⇒ 命中 #0480
+逐条否掉：
+  #0510（装得下 ＝ hold ／ take ／ accommodate）—— shelf 只是那条例句里的主语，考的是 hold 一族 ⇒ 问1 不成立 ⇒ 否
+  #0480（单价 ＝ the unit price）—— 「货架」只是那条例句的场景词 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词、答案唯一；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`the shelves`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（超市的）货架
+（书房里）一排书架
+```
+
+### 历史记录
+- 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组1 第 2 题（顺带用对）
+  她写 `… long-term stacking of heavy objects can also deform the **shelves**(这个词背下).` —— 词与复数拼写都对。
+  ⚠️ 同题主考点 #0390 ✅（deform 不及物 ＋ 及物）。
+
 ---
 
 # F09 时态/体
