@@ -1223,6 +1223,61 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 
 </details>
 
+## #0588 「其中最…的」接关系从句 ⇒ 先行词得是一组东西：…, the ＋ 最高级 ＋ of which ／ among which
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
+
+**问题是什么**
+```
+**, the ＋ 最高级 ＋ of which ＋ 谓语**
+　`The city built four new stations, **the largest of which** is near the airport.`
+**, among which ＋ 名词 ＋ 谓语**
+　`He has written many novels, **among which** *Silence* is the best known.`
+⚠️ which 指的那个名词必须是**一组东西**（复数或集合名词），"最…的那个"必须是**这组里的一员**
+　⛔ ~~a massive controversy, among which the most controversial part was the ending~~
+　　—— controversy 是一件事、没有"成员"；"最有争议的部分"是**电影**的部分，不是"争议"的部分
+⇒ 前面不是一组东西 ⇒ ⛔ 不用 among／of which，改成：
+　并列一句：`…, and the most controversial part was the adapted ending`
+　独立主格：`…, the most controversial part being the adapted ending`
+```
+**找法**：写 among which ／ of which 之前，回头看 which 指的那个名词 —— 是不是一组东西？
+"最…的那个"是不是它里面的一员？**两个都是**才用。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组6 第 7 题（主考点 #0461，命中 ✅）。中文「这部电影上映后引发了巨大争议，其中最有争议的是结尾那段改编」，
+她写 `this film triggered a massive controversy, **among which** the most controversial part was the adaptation at the end` ⇒ §2① 她犯的错。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "among which" "of which" "in which"   ⇒ among which 零命中；of which 命中 #0461 #0509 #0378 #0441 #0297 #0433；in which 命中 #0282
+② 规则查  dedup "关系代词" "先行词" "其中"            ⇒ 命中 #0441 #0277 #0297 #0306 · #0282 #0281 #0055 #0111 #0113 #0121 · #0307 #0221
+逐条否掉：
+  #0441（句尾有关系从句时目的状语挪到句首）—— 那条管**目的状语放哪**，本条管 **which 能不能挂在这个名词上** ⇒ 问2 不成立 ⇒ 否
+    （反向验 §3.5 1.3：她在 #0441 写对过 `a range of measures, the most effective of which …` —— 先行词是复数，挂得上；
+    　今天先行词是单数的一件事，挂不上 ⇒ 两条可独立取值）
+  #0378（each／one of ＋ 复数做主语谓语用单数）—— 管主谓一致 ⇒ 否
+  #0509（the busiest of which）—— 管选词（人流量最大 ＝ busiest）⇒ 否
+  #0282（省略关系词）#0281（what 从句）—— 别的从句规则 ⇒ 否
+  #0461 #0297 #0433 #0277 #0306 #0055 #0111 #0113 #0121 #0307 #0221 —— 「of which」「先行词」「其中」只是正文或历史里的字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F07（句法：从句与指代），题型 **整句**（§3.5 第 2.5 步 ③：考点是句法 ⇒ 整句）。
+```
+
+**我错在哪**
+她的：`triggered a massive controversy, **among which** the most controversial part was the adaptation at the end`
+正确：`triggered a massive controversy, **and** the most controversial part was the adapted ending`
+　　　（或 `…, the most controversial part **being** the adapted ending`）
+判据：which 前面那个名词（controversy）是一件事，不是一组东西 ⇒ 挂不上 among which。
+
+**中文触发点**
+这家博物馆收藏了两百多件青铜器，其中最古老的一件有三千年历史；而这次搬迁计划引起了很大的争议，最受争议的一点是搬迁费用。
+（★ 前一处必须用 of which 接关系从句；后一处自己判断还能不能也用 which）
+
+### 历史记录
+- 2026-10-10 ❌ C9 D4 复习日 复检组6 第 7 题（顺带）首犯
+  她写 `Upon its release, this film triggered a massive controversy, **among which** the most controversial part was the adaptation at the end.`
+  among which 挂在单数的 controversy 上 —— 先行词不是一组东西，"最有争议的部分"也不是"争议"的成员 ⇒ which 挂错了名词。
+  当场给回：`…, and the most controversial part was the adapted ending.`
+  ⚠️ 同题主考点 #0461 ✅（controversy ／ controversial 两处都对）。
+
 ---
 
 # F08 词义/近义辨析
@@ -1755,6 +1810,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 ⚠️ 主语是事情／选择，不是人（⛔ ~~I entail…~~）
 ⚠️ 书面语；口语里同一个意思常说 involve ／ mean
 ⚠️ ⛔ ~~entail criticism~~：批评是别人对这件事的**反应**，不是这件事本身必然包含的部分 ⇒ draw ／ attract criticism（⇒ **#0481**）（2026-10-09 她问「drawn 能不能换成 entail」时补）
+⚠️ ⛔ ~~entail controversy~~：同一个理由 —— 争议也是别人的反应 ⇒ trigger ／ spark controversy（⇒ **#0303**）（2026-10-10 她问「triggered 能不能换成 entail」时补）
 ```
 **找法**：中文「意味着要／免不了要／得付出」，主语是一件事或一个选择 ⇒ entail ＋ 名词／-ing。
 
@@ -1789,6 +1845,9 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 同题主考点 #0106 ✅（faster ／ higher 两处比较级）。同括注的 toll 归入 #0249。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 1 题（首测）
   她写 `Being a nurse entails frequently working night shifts.` —— entail ＋ -ing ✔（没写成 entail to work），主语是"当护士"这件事 ✔。
+- 2026-10-10 📝 C9 D4 复习日 复检组6 第 7 题（她问的，§3.5 A 只把适用范围说清 ⇒ 连对连错不动）
+  她问 triggered 能不能换成 entail —— 与 10-09 问 entail criticism 是同一条边界：争议也是别人的反应，⛔ entail controversy。
+  正文「问题是什么」补 ⛔ entail controversy 一行。
 
 ## #0564 「（对某个问题的）立场」＝ stance（on）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -2693,6 +2752,90 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 10 题（顺带用对）
   她写 `negotiations between management and the labor union have **reached a stalemate**(这个词组学一下) amid widespread rumors of layoffs` —— 搭配对。
   ⚠️ 同题主考点 #0459 ✅（among ／ between ／ amid）。
+
+## #0586 「涉事的、所说的那个」＝ the ＋ 名词 ＋ in question
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**the ＋ 名词 ＋ in question**　（上文提到的／正在说的）那个……；涉事的
+　`the travel agency **in question**`（涉事旅行社）· `the person **in question**`（当事人）· `the period **in question**`（所说的那段时间）
+⚠️ 位置：放在名词**后面**，前面要有 the（⛔ ~~the in-question agency~~）
+⚠️ 别和 **out of the question**（不可能、免谈）弄混
+同一格的邻居：`the people **concerned**`（有关的人，concerned 后置）· `the parties **involved**`（涉及的各方）
+判据（词组题）：in question 调得出来、放在名词后面就算对
+```
+**找法**：中文「涉事的／当事的／所说的那个」⇒ the ＋ 名词 ＋ in question。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组6 第 4 题（主考点 #0456，命中 ✅）。中文「涉事旅行社」，
+她自己写出 `The travel agency **in question**`，并当场括注 **「这个词组学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "in question"                    ⇒ **零命中**
+② 规则查  dedup "涉事" "当事" "concerned" "involved" ⇒ 涉事、concerned 零命中；当事命中 #0078；involved 命中 #0432
+逐条否掉：
+  #0078（复数泛指）—— 「当事」只是正文字样 ⇒ 问1 不成立 ⇒ 否
+  #0432（投身／从事一族）—— 那条的 be involved in ＝ 参与某事（动词块），本条是后置在名词后面的"涉事的" ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定的后置介词块、不变形；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`The travel agency in question`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+涉事商家（被投诉的那家）
+当事司机（警方正在询问的那位）
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组6 第 4 题（顺带用对）
+  她写 `The travel agency **in question**（这个词组学下) was required to complete rectification …` —— 位置（名词后面）与 the 都对。
+  ⚠️ 同题主考点 #0456 ✅（rectification ／ remedial）。
+
+## #0587 「（让步、给好处）平息不满、安抚」＝ appease（⚠️ 与 reassure ／ comfort 分工）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**appease**　（靠让步或给点好处）平息某人的不满 —— 及物，宾语是人或情绪
+　`The airline offered vouchers to **appease** the angry passengers.` · `**appease** critics`
+　⚠️ 常带"为了息事宁人而让步"的味道（政治上 appeasement ＝ 绥靖，贬义）
+同一格的邻居（"安抚"在英文里分三种）：
+　**placate ／ pacify**　平息怒气（和 appease 接近）
+　**reassure**　让人放心（打消顾虑，不涉及让步）　`**reassure** the public that the water is safe`
+　**comfort**　安慰（对方难过、受伤时）
+```
+**判据（一句话）**：对方在**生气**、要给点什么才消气 ⇒ appease；对方在**担心**、要让他放心 ⇒ reassure；对方在**难过** ⇒ comfort。
+**找法**：中文「安抚」先问一句 —— 对方是在生气、在担心，还是在难过？
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组6 第 4 题（主考点 #0456，命中 ✅）。中文「采取了补救措施来安抚受影响的游客」，
+她自己写出 `taken remedial measures to **appease** the affected tourists`，并当场括注 **「这个单词学习」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "appease" "placate" "reassure"   ⇒ **零命中**
+② 规则查  dedup "安抚" "comfort"                  ⇒ 安抚零命中；comfort 命中 #0300
+逐条否掉：
+  #0300（play it safe 一族）—— 命中的是 comfort zone 这个习语里的字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①②：块里有动词，而且要在 appease ／ reassure ／ comfort 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她这次写对了（游客是"受影响、不满"的一方，旅行社拿补救措施去平息 ⇒ appease 贴切），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+航班取消后，航空公司发了代金券来平息乘客的怒气，同时向公众保证飞机本身没有安全问题。
+（★ 两处分别用 appease ／ reassure）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组6 第 4 题（顺带用对）
+  她写 `it has already taken remedial measures to **appease**(这个单词学习) the affected tourists` —— 词义对。
+  ⚠️ 同题主考点 #0456 ✅（rectification ／ remedial）。
 
 ---
 

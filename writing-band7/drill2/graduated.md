@@ -15077,7 +15077,7 @@ K
   　 ⇒ **本次已当场写成完整中文句**，§3.1 B4 结清。
 
 ## #0189 这个城市的人口在快速增长
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ⚠️ 不地道　U · 待排序
@@ -15115,6 +15115,8 @@ K
   她写 `The population **of** this island has dropped by half compared to twenty years ago`（句末缺句号 ⇒ 手滑豁免）
   of 是她自己选的（⛔ 没写 in／on）；has dropped by half 把「少了一半」送到了。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 1 题
+  她写 `The population of this port city surged from five hundred thousand to two million in a mere twenty years.` —— 所属关系用 of。
 
 ## #0193 all the world → the whole world ／ all over the world
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F08
@@ -16794,7 +16796,7 @@ real（最中性）＜ genuine（真心的、非伪造的）＜ serious（严重
   `is **very real**` —— 抽象名词配 real（＝不是空谈、真会发生）⇒ 稳 ⇒ 🎓 复检通过；rc 0 → 1。
 
 ## #0303 引言里"一直有争论"的一族块
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08
 
 **成员出题账**
 ```
@@ -16827,6 +16829,10 @@ There is no consensus on X       —— 2026-08-24 ⇒ ✅（同题第二个半�
 ```
 **判据**：想说"这事一直在争" ⇒ has long been a subject of debate；
 想说"这事**引发了**争论" ⇒ has sparked debate；想说"**两派对立**" ⇒ opinion is divided on。
+⚠️ "引发争论／争议"的动词：**spark ／ trigger ／ cause ／ provoke** debate ／ controversy ✔
+　 ⛔ **command**（＝ 博得、配得上：command respect ／ attention ／ a high price）不当"引发"
+　 ⛔ **entail**（＝ 必然包含：⇒ #0563）不当"引发" —— 争议是别人的**反应**，不是这件事本身的组成部分
+　 （2026-10-10 她问「triggered 可以用 command 或者 entail 么」时补）
 ⚠️ 长度是有代价的：`has long been a subject of debate` 是 8 个词，
 　 引言只有两三句，用了它就没预算再铺垫 ⇒ **要么用它，要么直接写 `is debated`，别两个都上**。
 ★ 与 #0271 配套：引言这一句只负责"这事有争议"，**立场必须另起一句**（见 #0312）。
@@ -16928,6 +16934,10 @@ There is no consensus on X       —— 2026-08-24 ⇒ ✅（同题第二个半�
   题面「人工智能会不会取代大量岗位，一直存在争论。（★「一直存在争论」用一个固定块 —— ⛔ 不许写成 people argue about it）」
   她写 `Whether artificial intelligence will replace a large number of jobs remains **a subject of ongoing debate**.`
   块在、主语从句配单数谓语也对 ⇒ 守住。成员账已补（a subject of ongoing debate 这一格）。
+- 2026-10-10 📝 C9 D4 复习日 复检组6 第 7 题（她问的，§3.5 A 只把适用范围说清 ⇒ 连对连错不动）
+  她写 `triggered(可以用 command 或者 entail 么) a massive controversy` —— 问"引发争议"能不能换成 command ／ entail。
+  答：都不行。command ＝ 博得（command respect ／ attention）；entail ＝ 必然包含（争议是别人的反应）。
+  能用的：trigger ／ spark ／ cause ／ provoke controversy。正文「问题是什么」补一句。
 
 ## #0304 than expected / than anticipated —— than 后面省掉主谓
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08
@@ -22906,7 +22916,7 @@ portfolio` —— 词与冠词都正确，并当场括注**「这要背」**（�
   circulation 本来就在本条正文里（readership ≠ circulation 那一行）⇒ ⛔ 不另建号；她点名「背下」⇒ 中文触发点补第二块「（这份报纸的）发行量」。
 
 ## #0423 材料与构件词一族 —— alloy ／ plate ／ sheet ／ panel ／ beam
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22981,6 +22991,8 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ② 一整张玻璃 ⇒ `a pane of glass` —— **本身成立**（pane ＝ 装在窗框／门上的一块玻璃），只是题面逼不出 sheet ⇒ 这一格 ◎✅（我的题面）
   ⇒ 本条当天净结果 ✅（① ✅ ＋ ② ◎✅）。⚠️ sheet 这一格仍没被行使过 ⇒ 下次题面换成「一张薄铁皮（金属薄板）」⇒ a sheet of metal（pane 进不来）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 8 题 a·b（词组题，本条占 2 个块）
+  a「（屋顶上的）太阳能板」⇒ `solar panels` ✅ · b「（承重的）钢梁」⇒ `load-bearing steel beams` ✅ —— panel ／ beam 两个成员第一次出。
 
 ## #0424 长远来看 ＝ in the long term ／ in the long run
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
@@ -23087,7 +23099,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0425 检方／辩方 ＝ the prosecution ／ the defence
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23150,6 +23162,8 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ③ 检方（起诉的那一方）⇒ `the prosecution` ✔　④ 辩方（替被告辩护的那一方）⇒ `the defense` ✔（美拼，与 defence 同级）
   09-04 两块都调不出、09-07 辩方调不出、09-12 反向出法用对 —— 今天改回正向调取，两块全对。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 8 题 c·d（词组题，本条占 2 个块）
+  c「辩方（律师团）」⇒ `the defense counsel` ✅（美式拼法；counsel 是辩护律师）· d「（出庭作证的）控方证人」⇒ `a prosecution witness` ✅
 
 ## #0426 逐年／同比 ＝ year-on-year（数据描述里的固定修饰块）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -23213,7 +23227,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   中文块「（今年一季度销售额）同比（下降了 5%）」⇒ 她写 `year-on-year` —— 两个连字符都在 ✔。
 
 ## #0427 缺口／差额 ＝ a shortfall
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23286,6 +23300,8 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   经费缺口（到手的钱比需要的少了的那一块）⇒ `funding shortfall` ✔（契约⑬ ⛔ 不判冠词）
   中文块按 §6 换了写法（09-04 资金缺口 · 09-07 预算上的差额 · 今天 经费缺口）；09-04／09-07 两次「忘了」、09-12 反向出法用对 —— 今天正向调出来。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 8 题 e·f（词组题，本条占 2 个块）
+  e「（这所学校今年的）预算缺口」⇒ `the budget shortfall` ✅ · f「（本季度的）营收缺口」⇒ `the revenue shortfall` ✅
 
 ## #0428 「目标」一族：aim ／ goal ／ objective ／ purpose（＋ 形容它的那三个词）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -24330,7 +24346,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `The gameplay of this game is novel, yet its graphics lack all originality; what players desire is more innovative level design.` —— originality 零提示拼对；成员 ⑤ innovative 第一次出、命中。
 
 ## #0455 「上市／融资」一族：go public ／ be listed ／ raise capital
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24349,9 +24365,10 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① go public　　　　—— 2026-09-06 组1 第 9 题自发用对 ⇒ 建号行留痕，⛔ 不算测过　★ 她点名要背
+　　　　　　　　　　 ／ 2026-10-10 复检组6 第 2 题 ⇒ `plans to go public` ✅（第一次被出题）
 ② be listed on　　 —— 2026-09-07 组1 第 1 题（题面印出整块，练档）⇒ `was listed on` ✅（账 09-19 补记）
 ③ launch an IPO　  —— 2026-09-19 组2 第 5 题（lemma 档：只给 IPO）⇒ `execute an IPO` ✅（成立；launch 更常见，进更好版）
-④ raise capital／funds —— 2026-09-07 组1 第 1 题 ⇒ `raised three billion` ✅（账 09-19 补记）
+④ raise capital／funds —— 2026-09-07 组1 第 1 题 ⇒ `raised three billion` ✅（账 09-19 补记）／ 2026-10-10 复检组6 第 2 题 ⇒ `raise five hundred million dollars in capital` ✅
 ⑤ a listed company —— 2026-09-19 组2 第 5 题（lemma 档：只给 listed）⇒ `a listed entity` ✅
 ```
 
@@ -24398,9 +24415,11 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   成员③：IPO 的动词与冠词是她自己定的 —— execute an IPO 成立（多是投行侧的说法，公司侧更常说 launch ⇒ 只进更好版，⛔ 不算错）；
   成员⑤：a listed entity ＝ listed company 的同级正式说法 ✔。成员账已补（09-07 的 ②④ 也一并补上）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 2 题
+  她写 `This start-up company plans to go public next year, hoping thereby to raise five hundred million dollars in capital …` —— 成员 ① go public 第一次被出题就对，④ raise … capital 也对。
 
 ## #0456 「出了问题之后」一族：compensation ／ remedial action ／ rectification ／ penalty
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24420,8 +24439,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① compensation　　—— 2026-09-06 自发用对（留痕）／ 2026-09-07 组1 第 3 题 ✅ ／ 2026-09-19 组2 第 7 题 ✅（两次都没加 -s）
-② remedial action —— 2026-09-06 自发用对（留痕）／ 2026-09-19 组2 第 7 题 ⇒ `took remedial measures` ✅（第一次被出题）
-③ rectification　 —— 2026-09-07 组1 第 3 题 ⇒ `complete rectification` ✅（账 09-19 补记）
+② remedial action —— 2026-09-06 自发用对（留痕）／ 2026-09-19 组2 第 7 题 ⇒ `took remedial measures` ✅（第一次被出题）／ 2026-10-10 复检组6 第 4 题 ⇒ `taken remedial measures` ✅
+③ rectification　 —— 2026-09-07 组1 第 3 题 ⇒ `complete rectification` ✅（账 09-19 补记）／ 2026-10-10 复检组6 第 4 题 ⇒ `complete rectification within a specified period` ✅
 ④ penalty ／ fine —— 2026-09-07 组1 第 3 题 penalty ✅ ／ 2026-09-19 组2 第 7 题 `imposed a fine of two million` ✅
 ⑤ redress　　　　 —— 未出过
 ```
@@ -24467,6 +24486,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   成员② remedial 第一次被出题 ✔；compensation 不可数、没加 -s（条目点名"最容易出事"的一格，两次测都守住）✔；fine 那一半 ✔。
   ⚠️ 成员⑤ redress 本次不出：不是她点名要的词，属教练补进去的高阶词 ⇒ 按「别硬塞生词」暂缓。成员账已补（09-07 的 ③④ 也一并补上）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 4 题
+  她写 `… was required to complete rectification within a specified period, and it has already taken remedial measures …` —— ③ rectification 与 ② remedial ＋ 名词都对。
 
 ## #0457 「看好／有戏」一族：promising ／ encouraging ／ favourable ／ robust
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
@@ -24555,7 +24576,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `Passenger traffic remained **robust**`，并括注「robust 和 slacken 两个词都学下」—— robust 本来就是本条成员 ⇒ 正文补例句，⛔ 不另建号。
 
 ## #0458 政府部门与监管机构：department ／ authority ／ agency ／ regulator ／ watchdog
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24576,8 +24597,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 ```
 ① department　—— 2026-09-06 自发用对（留痕）／ 2026-09-19 组3 第 1 题 ⇒ `The education department` ✅
 ② authority　 —— 2026-09-07 自发用对（📝）／ 2026-09-19 组3 第 1 题 ⇒ `local authorities` ✅（第一次被出题）
-③ agency　　　—— 未出过　★ 优先测
-④ regulator　 —— 未出过　★ 优先测
+③ agency　　　—— 2026-10-10 复检组6 第 5 题 ⇒ `the government agency responsible for issuing visas` ✅（第一次被出题）
+④ regulator　 —— 2026-10-10 复检组6 第 5 题 ⇒ `Financial regulators` ✅（第一次被出题）
 ⑤ watchdog　　—— 未出过
 ```
 
@@ -24628,9 +24649,11 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `The education **department** issued new guidelines last year, but local **authorities** have been slow to implement them.`
   ① department ＋ ② authority 两个成员落位；authority 09-07 只有自发（📝），今天第一次被出题。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 5 题
+  她写 `Financial regulators have intervened to investigate that bank, and the government agency responsible for issuing visas …` —— ④ regulator 与 ③ agency 两个成员第一次被出题都对。
 
 ## #0460 「编／写」一族：compile ／ edit ／ draft ／ compose
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24652,8 +24675,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 ③ draft　　—— 2026-09-07 组1 第 7 题「初稿」⇒ ✅（the first draft，名词那一格）
 　　　　　　　⚠️ **动词那一格还没测到**（她写的是 was prepared）★ 下次点动词 draft
 　　　　　　　⇒ 2026-09-19 组3 第 3 题「律师前几天起草了这份合同」⇒ ✅（`drafted the contract`，动词那一格拿下）
-④ compose　—— 未出过
-⑤ produce ／ publish —— 未出过
+④ compose　—— 2026-10-10 复检组6 第 6 题 ⇒ `was composed` ✅（第一次被出题）
+⑤ produce ／ publish —— 2026-10-10 复检组6 第 6 题 ⇒ `was not officially published until after his death` ✅（publish 第一次被出题；produce 未出过）
 ⑥ **finalise ／ finalize**（2026-09-07 扩写：她第 7 题当场括注「这个词需要学下怎么用」）—— 2026-09-19 组3 第 3 题 ⇒ 词选对 ✅
 　　　（`have yet to finalise` 后面丢了宾语 ⇒ 归 #0010 论元完整，⛔ 不记在本条）· complete 边界（完工）同题 ✅
 　　　定稿、敲定 ＝ 把还在改的东西定下来。**及物**，宾语只能是**东西**，⛔ 不接人：
@@ -24714,9 +24737,11 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ③ draft 动词 ✔（09-07 用 was prepared 绕开的那一格）· ⑥ finalise 选对（拍板定稿）· 完工用 complete ✔（09-07 补进来的边界，⛔ 没写 finalised）。
   ⚠️ `finalise` 后面丢了宾语（→ finalise it）⇒ 那是**中文省宾语**的通病，归 #0010（论元完整），⛔ 不算本条考点。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 6 题
+  她写 `This musical piece was composed by him at the age of seventeen, and it was not officially published until after his death.` —— ④ compose 与 ⑤ publish 第一次被出题都对。
 
 ## #0461 「有争议」一族：controversial ／ contentious ／ divisive ／ disputed
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24734,10 +24759,11 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① controversial —— 2026-09-06 组2 第 10 题自发用对 ⇒ 建号行留痕，⛔ 不算测过　★ 她点名要背
+　　　　　　　　　 ／ 2026-10-10 复检组6 第 7 题 ⇒ `the most controversial part` ✅（第一次被出题）
 ② contentious　 —— 2026-09-19 组3 第 5 题 ⇒ `a contentious topic` ✅
 ③ divisive　　　—— 2026-09-07 被名词 a clear divide 绕开 ／ 2026-09-19 组3 第 5 题 ⇒ `deeply divisive` ✅
 ④ disputed　　　—— 2026-09-07 组1 第 8 题 ⇒ `is itself disputed` ✅（账 09-19 补记）
-⑤ controversy ／ dispute（名词那一排）—— 未出过
+⑤ controversy ／ dispute（名词那一排）—— 2026-10-10 复检组6 第 7 题 ⇒ `triggered a massive controversy` ✅（controversy 第一次被出题；dispute 未出过）
 ```
 
 **怎么发现的**
@@ -24783,6 +24809,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `Immigration has always been a **contentious** topic, and this legislation is proving to be deeply **divisive** across society.`
   ② contentious ✔ · ③ divisive ✔ —— 09-07 被名词 a clear divide 绕开的 divisive 今天用形容词落地。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 7 题
+  她写 `this film triggered a massive controversy, among which the most controversial part was …` —— ⑤ 名词 controversy 与 ① controversial 都对；
+  同句 among which 挂错名词 ⇒ 另建 #0588，⛔ 不记在本条。
 
 ## #0462 校园与学生群体的固定块：hearing-impaired ／ lower grades ／ dormitory curfew
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
@@ -34242,7 +34271,7 @@ K　0/3
   三个口语词一个都没出现，书面版的 not … until 也对 ⇒ 守住。
 
 ## #0236 there isn't any significant improvement → there is not any…（更好是整句换成 E-277 的实义主语版）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F15 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F15 ｜ 题型 整句
 
 **问题是什么**
 ⚠️ 语域，不是语法错（她那句语法完全正确）　第③类 · 挂作文当场抓，不出中译英
@@ -34303,6 +34332,8 @@ K　0/3
   ⚠️ 她用 no 代替了 not any（#0279 那条路，成立）⇒ 否定助动词这一格又被绕开 ⇒ 下一次复检题面要把 not 逼出来
   　（例：用「并没有」对一个动词，而不是对一个名词：「这项政策并没有减少排放」⇒ did not reduce）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组6 第 3 题
+  她写 `The questionnaire results indicate that there has been no substantial improvement in employee satisfaction.` —— there 存在句，全句没有缩写。
 
 ## #0237 有些病人好几年没有好转了
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F15
