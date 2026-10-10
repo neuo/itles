@@ -7999,7 +7999,7 @@ P5 拼写　R · P5
   ⚠️ `the first choice` 判在 ⚠️不地道（「选项」是 option）⇒ ⛔ 不判错、⛔ 不建号，只进更好版。
 
 ## #0091 偶尔
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F05
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F05
 
 **问题是什么**
 P5 拼写（真错，不是手滑：双写字母的规则没定）　R · P5
@@ -8068,6 +8068,8 @@ P5 拼写（真错，不是手滑：双写字母的规则没定）　R · P5
   　（负面清单这种写法本条目已有先例：#0294 的括号就是这么写的）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**（§3.3：靠 ◎✅ 到线的照常毕业，⛔ 没有第二种待遇；考点没被行使 ⇒ 交给复检队列）。
   ★ 记在案：本条今天的读数是**"没测到"不是"测过了"** ⇒ 下次复检必须逼出 occasionally。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 4 题
+  她写 `The small shop on the corner occasionally launches limited-edition cakes on weekends.` —— 副词形、拼写都对。
 
 ## #0092 随后 / 此后
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F05
@@ -8492,7 +8494,7 @@ quiet/quite —— 她写成 `quiter`，**拼成非词** ⇒ 不属于本条（�
   ⚠️ 同组第 2 题 `Phrase 1`：这个位置只有 Phase 读得通 ⇒ 按本条正文判据（两个词都读得通才记）⇒ 豁免，反馈里点出 phase／phrase 是形近高危对。
 
 ## #0096 老龄化推高了医疗开支
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F05
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F05
 
 **问题是什么**
 P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R · P5
@@ -8585,6 +8587,9 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   ⚠️ 两处不归本条：① 「修一次」她走了 repairs（合法）⇒ 我本想逼的 `fixes`（-x，09-10 写 fixs 的那一格）没被逼出来 —— **我的题面**，下次换只能用 fix 的说法
   　② `pushed` 是**时态**错（习惯动作切到过去）⇒ 归 #0512，⛔ 不是 -es 错。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 6 题
+  她写 `Every morning, this programmer fixes bugs …, prepares meals for himself at noon, and relaxes by taking a hot bath in the evening.` ——
+  -x 结尾的 fixes ／ relaxes 两处 -es 都对（09-10 写成 fixs 的那一格拿下）。
 
 ## #0440 expand ／ expend ／ expense —— 一个字母之差，意思完全不同
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F05 ｜ 题型 整句
@@ -8740,7 +8745,7 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   她写 `… must be placed in separate bins, and recycling fees will also be calculated separately; the views of the two experts are actually quite distinct.` —— separate 拼对，形容词／副词分工对。
 
 ## #0492 minimum ／ minimal ——「最低的那条线」与「小到可以忽略」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F05 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F05 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -8819,6 +8824,8 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   她写 `This job actually has **minimal** physical demands, but the **minimum** age requirement is eighteen.`
   题面换了顺序（"很小"在前、"下限"在后），映射没给，她自己配对：极少 ⇒ minimal、下限 ⇒ minimum ⇒ 两格都对。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 2 题
+  她写 `The minimum age requirement for this position is eighteen, and the training required prior to taking up the post is minimal.` —— minimum ／ minimal 各归各位。
 
 ---
 
@@ -15146,7 +15153,7 @@ P11　R · P11
 </details>
 
 ## #0221 一个词里已经含了的那一层，别再用另一个词说一遍（同义重复）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08
 🔀 2026-08-23 从 F11 迁入 F08（她定：「归属按照你裁定来」）。原标题「此后再没回到峰值」，
 　 是旧档案的题面式命名，一并改成规则式命名。
 
@@ -15300,6 +15307,11 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   按本条判据：把 to date 删掉意思不变 ⇒ 它是重复的。
   ⚠️ 本条档位写死是 **△ 不是 ❌**（这几个搭配在口语里都听得到）⇒ 两边不动，状态 🎓 不变。
   ★ 同日第 10 题还有一处同机制的（whereas ＋ however 两个转折说两遍）⇒ 已写进第 10 题的更好版，不另记行。
+- 2026-10-10 △ C9 D4 复习日 复检组7 第 5 题（顺带）
+  主考点 #0473（✅）。她写 `the previous year prior to its opening, the owner was still studying abroad` ——
+  previous 已经说了"在那之前的一年"，prior to its opening 又说一遍"开业之前"⇒ 同一层说了两遍。
+  与 09-23 `has yet to … to date` 同一档：句子站得住、只是重复 ⇒ △，streak 两边不动。
+  更好：`the previous year, the owner …` ／ `the year before it opened, the owner …`。
 
 ## #0256 否决 / 驳回用 reject，不用 deny
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08
@@ -18885,7 +18897,7 @@ underrepresented groups  代表性不足的群体（正式，多用于教育／�
   她写 `Women remain a minority among executives in this industry, and other underrepresented groups are barely visible.` —— a minority ＝ 占少数 ✔（成员 ⑥）· underrepresented groups 的 groups 没丢 ✔（成员 ⑤）。
 
 ## #0354 「缓解／减轻」一族 —— 五个都及物，直接带宾语
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -18902,6 +18914,8 @@ curb        遏制（★ 不是缓解，是把增长压住）
 ```
 ★ 五个**全都及物**，后面必须直接带宾语 —— 这与 **#0002**（worsen 及物）是同一条轴的两端：
 　「恶化」和「缓解」这一对，英文都用**及物动词 ＋ 宾语**，⛔ 别退回 make it better／make it worse。
+⚠️ 说的是「**缓解 X**」（有人去缓解）这一格。反过来「**X 缓解了**」（X 自己作主语）⇒ ease 还能**不及物**：
+　 `Congestion has eased.` ✔ ⛔ ~~congestion has shown no relief~~（⇒ **#0589**）（2026-10-10 补）
 ⚠️ ⛔ mitigate 不接"人"：`mitigate the poor` ✘ → `alleviate poverty` ✔
 ⚠️ curb 不是这一族的同义词：它说的是"把上升势头压住"，不是"把已有的痛苦减轻"。
 
@@ -18970,6 +18984,9 @@ curb        遏制（★ 不是缓解，是把增长压住）
   ★ **curb 是本条的反面成员（遏制 ≠ 缓解），首测即中**。连对 2，**毕业**。
 - 2026-10-07 ✅ C9 D1 复检组1 第 6 题
   她写 `This new medication can quickly relieve headaches, and the newly built bridge has also greatly eased traffic congestion in this area.` —— relieve（成员 ④ 首次出题）／ ease 都直接带宾语。
+- 2026-10-10 📝 C9 D4 复习日 复检组7 第 3 题（§3.5 A 只把适用范围说清 ⇒ 连对连错不动）
+  她写 `congestion … has shown no noticeable relief` —— 本条管「缓解 X」（及物带宾语）；「X 缓解了」那一格（不及物 ease）另建 #0589。
+  正文「五个全都及物」后补一句：ease 还能不及物（Congestion has eased）。
 
 ## #0355 statutory ／ mandatory ／ compulsory ／ obligatory —— 四个「法定·强制」
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08
@@ -21375,7 +21392,7 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   当天改题面：「（军人的）天职」「（作为子女）应尽的本分」（只有 duty 才贴）。
 
 ## #0393 审计 ＝ audit
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21432,6 +21449,8 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   ③ 一次内部审计 ⇒ `audit` ✔（块在；完整块是 an internal audit，契约⑬ ⛔ 不判冠词与修饰词）
   ④ 审计员（做这项工作的人）⇒ `auditor` ✔ —— **人那一格第一次出**（09-03 09-10 09-13 三次都只测了 audit 这个块）
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 8 题 c·d（词组题，本条占 2 个块）
+  c「（每年一次的）财务审计」⇒ `an annual financial audit` ✅ · d「（外聘的）审计师」⇒ `an external auditor` ✅
 
 ## #0394 营业额 ＝ turnover（英式）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -22995,7 +23014,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   a「（屋顶上的）太阳能板」⇒ `solar panels` ✅ · b「（承重的）钢梁」⇒ `load-bearing steel beams` ✅ —— panel ／ beam 两个成员第一次出。
 
 ## #0424 长远来看 ＝ in the long term ／ in the long run
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23097,6 +23116,8 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ③ 就长期而言 ⇒ `in the long term` ✔（the 在）。
   ★ 09-13 走的是**反向出法**（给块、只写用法）⇒ 今天改回**正向调取**也拿下 ⇒ 两种出法各测过一次，这一条是实的。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 8 题 e·f（词组题，本条占 2 个块）
+  e「（这项政策）长远来看」⇒ `in the long run` ✅ · f「（这些措施）短期内」⇒ `in the short run` ✅（与 in the short term 同一个固定块的两种说法）
 
 ## #0425 检方／辩方 ＝ the prosecution ／ the defence
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -24597,8 +24618,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 ```
 ① department　—— 2026-09-06 自发用对（留痕）／ 2026-09-19 组3 第 1 题 ⇒ `The education department` ✅
 ② authority　 —— 2026-09-07 自发用对（📝）／ 2026-09-19 组3 第 1 题 ⇒ `local authorities` ✅（第一次被出题）
-③ agency　　　—— 2026-10-10 复检组6 第 5 题 ⇒ `the government agency responsible for issuing visas` ✅（第一次被出题）
-④ regulator　 —— 2026-10-10 复检组6 第 5 题 ⇒ `Financial regulators` ✅（第一次被出题）
+③ agency　　　—— 2026-09-07 组1 第 6 题 ⇒ `the agency responsible for issuing permits` ✅ ／ 2026-10-10 复检组6 第 5 题 ⇒ `the government agency responsible for issuing visas` ✅
+④ regulator　 —— 2026-09-07 组1 第 6 题 ⇒ `The environment protection regulator` ✅ ／ 2026-10-10 复检组6 第 5 题 ⇒ `Financial regulators` ✅
+⚠️ **2026-10-10 补账**：③④ 在 09-07 已经测过，当天没补进账（账上一直写着「未出过」），本次按历史记录追平。
 ⑤ watchdog　　—— 未出过
 ```
 
@@ -24650,7 +24672,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ① department ＋ ② authority 两个成员落位；authority 09-07 只有自发（📝），今天第一次被出题。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 - 2026-10-10 ✅ C9 D4 复习日 复检组6 第 5 题
-  她写 `Financial regulators have intervened to investigate that bank, and the government agency responsible for issuing visas …` —— ④ regulator 与 ③ agency 两个成员第一次被出题都对。
+  她写 `Financial regulators have intervened to investigate that bank, and the government agency responsible for issuing visas …` —— ④ regulator 与 ③ agency 都对（两格 09-07 已测过一次；出题时成员账漏补、写着「未出过」，本次追平）。
 
 ## #0460 「编／写」一族：compile ／ edit ／ draft ／ compose
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -24759,7 +24781,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① controversial —— 2026-09-06 组2 第 10 题自发用对 ⇒ 建号行留痕，⛔ 不算测过　★ 她点名要背
-　　　　　　　　　 ／ 2026-10-10 复检组6 第 7 题 ⇒ `the most controversial part` ✅（第一次被出题）
+　　　　　　　　　 ／ 2026-09-07 组1 第 8 题 ⇒ `The most controversial clause` ✅（账 10-10 补记）／ 2026-10-10 复检组6 第 7 题 ⇒ `the most controversial part` ✅
 ② contentious　 —— 2026-09-19 组3 第 5 题 ⇒ `a contentious topic` ✅
 ③ divisive　　　—— 2026-09-07 被名词 a clear divide 绕开 ／ 2026-09-19 组3 第 5 题 ⇒ `deeply divisive` ✅
 ④ disputed　　　—— 2026-09-07 组1 第 8 题 ⇒ `is itself disputed` ✅（账 09-19 补记）
@@ -24814,7 +24836,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   同句 among which 挂错名词 ⇒ 另建 #0588，⛔ 不记在本条。
 
 ## #0462 校园与学生群体的固定块：hearing-impaired ／ lower grades ／ dormitory curfew
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -24874,9 +24896,13 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `To support **hearing-impaired** students in **the lower grades**, the boarding school decided not to **impose** a strict **curfew** on their dormitories.`（她括注「合并一句了」）
   三块全对，而且 09-07 进更好版的两处（the lower grades 带 the · curfew 配 impose）今天自己用上了；合并成一句不扣。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ❌ C9 D4 复习日 复检组7 第 8 题 a·b（词组题，本条占 2 个块）
+  a「（手语老师班上的）听障孩子」⇒ `hearing-impaired children` ✅
+  b「（夜里十一点的）宿舍门禁」⇒ 她答「忘了」—— **调不出** ⇒ ❌。当场给回：a dormitory curfew（cur-few）。
+  当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0464 「配套的／相应的」一族：matching ／ accompanying ／ corresponding ／ supporting
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24893,8 +24919,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① matching　　　—— 2026-09-06 组3 第 1 题自发用对 ⇒ 建号行留痕，⛔ 不算测过　★ 她点名要学
+　　　　　　　　　 ／ 2026-10-10 复检组7 第 1 题 ⇒ `matching funds` ✅（第一次被出题）
 ② accompanying　—— 2026-09-07 组1 第 9 题 ✅（账 09-19 补记）
-③ corresponding —— 2026-09-07 组1 第 9 题 ✅（账 09-19 补记）
+③ corresponding —— 2026-09-07 组1 第 9 题 ✅（账 09-19 补记）／ 2026-10-10 复检组7 第 1 题 ⇒ `supplemented correspondingly` ✅（副词形）
 ④ supporting　　—— 2026-09-07 写成 support（绕开）／ 2026-09-19 组3 第 7 题 ⇒ `supporting transportation facilities` ✅
 ⑤ complementary（含 complimentary 的形近坑）—— 2026-09-19 组3 第 7 题 ⇒ `are complementary` ✅（拼写对）
 ```
@@ -24943,6 +24970,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ④ supporting ✔（09-07 写成 support 的那一格）· ⑤ complementary ✔（⛔ 没拼成 complimentary）。成员账已补。
   ⚠️ `ye`（非词）· `routers`（→ routes，多按了相邻键 r、上下文只有 routes 说得通）⇒ §3.2 键位手滑豁免。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 1 题
+  她写 `… local governments must also provide matching funds; following the budget increase, staffing needs to be supplemented correspondingly.` —— ① matching 第一次被出题就对；③ corresponding 用成副词也对。
 
 ## #0465 人力指标一族：staff turnover ／ staff shortage ／ vacancy rate ／ headcount
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25025,7 +25054,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `The employee turnover at this restaurant chain is high, and the vacancy rate for kitchen positions is also rising; … is to reduce headcount.` —— turnover ／ vacancy rate ／ headcount 三格各就各位。
 
 ## #0468 交通治理词块：traffic restriction ／ congestion on ／ car ownership
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25044,7 +25073,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 **成员出题账**
 ```
 ① traffic restriction(s) —— 2026-09-06 组3 第 5 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要背
+　　　　　　　　　　　　　 ／ 2026-09-07 组2 第 1 题 ✅（账 10-10 补记）／ 2026-10-10 复检组7 第 3 题 ⇒ `odd-even traffic restrictions` ✅
 ② congestion **on** —— 2026-09-06 组3 第 5 题自发用对 ⇒ 留痕　★ 她点名要背那个介词
+　　　　　　　　　　　 ／ 2026-09-07 组2 第 1 题 ✅ · 2026-09-20 组1 第 7 题 ✅（账 10-10 补记）／ 2026-10-10 复检组7 第 3 题 ⇒ `congestion on the ring expressway` ✅
 ③ car ownership　 —— 2026-09-06 组3 第 5 题自发用对 ⇒ 留痕
 ④ public transport —— 2026-09-07 组2 第 1 题 ⇒ ✅（`public transport during rush hours`，不可数零冠词）（账 09-20 补记）
 ⑤ congestion charge ／ road pricing —— 2026-09-20 组1 第 7 题 ⇒ ✅（`has started levying a congestion charge`）；road pricing 仍未出过
@@ -25106,6 +25137,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⚠️ `levying` 这一格⛔ 不记本条成绩：那是 #0469 的成员，而且昨天的反馈里整句给过（见 #0469 的 📝 行）。
   ⚠️ 成员账补记：④ public transport 其实 09-07 已测 ✅（账一直写着"未出过"）⇒ 今天一并补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 3 题
+  她写 `Since the implementation of odd-even traffic restrictions, congestion on the ring expressway …` —— ① traffic restrictions（复数）与 ② congestion on 都对。
+  同句 `has shown no noticeable relief` 生硬 ⇒ 另建 #0589，⛔ 不记在本条。
 
 ## #0472 「普遍／常见」一族：widespread ／ prevalent ／ commonplace ／ pervasive
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25298,7 +25332,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0478 「当场／亲自／到场」一族：on the spot ／ in person ／ on site
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25326,10 +25360,11 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **成员出题账**
 ```
 ① on the spot　—— 2026-09-07 组5 第 4 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要学
+　　　　　　　　 ／ 2026-09-09 组1 第 4 题 ✅（账 10-10 补记）／ 2026-10-10 复检组7 第 7 题 ⇒ `decided to hire her on the spot` ✅
 ② in person　　—— 2026-09-20 组2 第 3 题 ⇒ `must be signed in person` ✅（第一次被点名就落地）
 ③ on site　　　—— 2026-09-20 组2 第 3 题 ⇒ `will be conducted on site` ✅（作状语、⛔ 没加连字符）
 ④ there and then —— 未出过
-⑤ face to face —— 未出过
+⑤ face to face —— 2026-10-10 复检组7 第 7 题 ⇒ `discuss the salary with her face to face` ✅（第一次被出题，作状语）
 ```
 
 **怎么发现的**
@@ -25379,6 +25414,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `This document must be signed **in person**; the maintenance, however, will be conducted **on site**.`
   ② in person ＋ ③ on site 两个"未出过"的成员第一次被点名就落地；on site 作状语没加连字符 ✔。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 7 题
+  她写 `The interviewer decided to hire her on the spot and arranged to discuss the salary with her face to face the next day.` —— ① on the spot 带 the，⑤ face to face 第一次被出题、作状语对。
 
 ## #0479 康复一族：rehabilitation ／ recovery ／ physiotherapy ／ convalescence
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
@@ -30143,7 +30180,7 @@ have already been borne　后果**已经**被承担了（完成）
   be being ＋ 过去分词 ✔ ⇒ 复检通过。同句 reinforce 她点名要学 ⇒ 另建 #0568。
 
 ## #0473 相对时间一族：the year before last ／ the previous year ／ the year after next
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 中文的「去年／前年／第二年／前一年」是**两套坐标**，英语分得很死，⛔ 不能混用：
@@ -30165,8 +30202,9 @@ have already been borne　后果**已经**被承担了（完成）
 
 **成员出题账**
 ```
-① the year before last　—— 2026-09-07 组1 第 6 题**没调出来**（写成 the year last year）　★ 优先测
-② the previous year　　 —— 2026-09-09 组1 第 4 题（题面点名）⇒ ✅（账 09-20 补记）
+① the year before last　—— 2026-09-07 组1 第 6 题**没调出来**（写成 the year last year）
+　　　　　　　　　　　　　 ／ 2026-09-09 组1 第 7 题 ✅（账 10-10 补记）／ 2026-10-10 复检组7 第 5 题 ⇒ `opened the year before last` ✅
+② the previous year　　 —— 2026-09-09 组1 第 4 题（题面点名）⇒ ✅（账 09-20 补记）／ 2026-10-10 复检组7 第 5 题 ⇒ `the previous year` ✅（同句多挂了 prior to its opening ⇒ #0221 △）
 ③ the following year　　—— 2026-09-09 组1 第 4 题（题面点名）⇒ ✅（账 09-20 补记）
 ④ the year after next　 —— 2026-09-20 组2 第 2 题 ⇒ `will open the year after next` ✅
 ⑤ two years earlier ／ two years later —— 2026-09-20 组2 第 2 题 ⇒ `not close until two years later` ✅（以前文那个时间点为基准）
@@ -30227,6 +30265,9 @@ have already been borne　后果**已经**被承担了（完成）
   她写 `The new campus will open **the year after next**, and the old buildings will not close **until two years later**.`
   ④ the year after next ＋ ⑤ two years later（以前面那个时间点为基准）两个"未出过"的成员一次落地；`not … until` 把「才」也送到了。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组7 第 5 题
+  她写 `This restaurant opened the year before last; the previous year prior to its opening, …` —— ① the year before last 与 ② the previous year 都对。
+  同句 previous ＋ prior to 同义重复 ⇒ #0221 △，⛔ 不记在本条。
 
 ## #0512 一句话里的【时间平面】要一致 —— 中文没有过去标记就别切到过去
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F09 ｜ 题型 整句

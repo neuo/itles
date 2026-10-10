@@ -2837,6 +2837,54 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `it has already taken remedial measures to **appease**(这个单词学习) the affected tourists` —— 词义对。
   ⚠️ 同题主考点 #0456 ✅（rectification ／ remedial）。
 
+## #0589 「（拥堵、紧张、压力）缓解了」—— 那个东西作主语 ⇒ X eases ／ X has eased（ease 不及物）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+中文「X 缓解了」里 X 自己是主语 ⇒ 英文用**不及物的 ease**：X eases ／ X has eased
+　`Congestion on the ring road **has eased**.` · `Tensions between the two sides **have eased**.` · `The pain **eased** after an hour.`
+⛔ ~~X shows relief~~：relief 是"人从 X 里得到的解脱"，X 自己不会 show relief
+　⇒ 想用 relief 就换主语：`there has been no **relief from** congestion` ／ `drivers have had no **relief from** congestion`
+与 **#0354** 分工：那条是「**缓解 X**」（谁去缓解）⇒ 及物 ease ／ alleviate ／ relieve ＋ 宾语；
+　本条是「**X 缓解了**」⇒ 不及物 X eases
+```
+**找法**：中文「X 缓解了／X 有所缓解」先看 X 是不是主语 —— 是 ⇒ X eases；想说"人松了口气" ⇒ relief from X。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组7 第 3 题（主考点 #0468，命中 ✅）。中文「环城高速上的拥堵并没有明显缓解」，
+她写 `congestion on the ring expressway **has shown no noticeable relief**` ⇒ §2② 字面达意但生硬（relief 的主语错位）。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "relief" "eased" "has eased"   ⇒ relief 命中 #0439 #0555；eased 命中 #0467 #0354 #0468；has eased 命中 #0468
+② 规则查  dedup "缓解"                          ⇒ 命中 #0354
+逐条否掉：
+  #0354（缓解一族，五个都及物）—— 那条管「缓解 X」带宾语；本条管「X 缓解了」X 作主语、ease 不及物。
+    掌握 ease congestion 不会让 congestion eases 自动对（她这题就是有 #0354 却走了 relief）⇒ 问3 不成立 ⇒ 否；
+    #0354 正文补一句交叉引用
+  #0467（T1 曲线动词：slacken ／ ease ＝ 势头放缓）—— 那条是图表里"增长放缓"，本条是"拥堵／紧张局面缓解" ⇒ 问1 不成立 ⇒ 否
+  #0468（交通治理词块）—— eased 只是例句字样（has eased congestion on major roads，及物）⇒ 否
+  #0439 #0555 —— relief 只是字样（relief fund · relief convoy）⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 不及物用法只在句子里失守）。
+```
+
+**我错在哪**
+她的：`congestion on the ring expressway has shown no noticeable relief`
+更好：`congestion on the ring expressway **has not eased** noticeably`（或 `there has been no noticeable **relief from** congestion`）
+判据：relief 属于"人"，拥堵自己作主语时用不及物的 ease。
+
+**中文触发点**
+新地铁线开通以后，这一带早高峰的拥堵明显缓解了。
+（★ 必须出现 ease —— 形态与时态自己定）
+
+### 历史记录
+- 2026-10-10 📝 C9 D4 复习日 复检组7 第 3 题（顺带 ⚠️ 生硬，§2② 建号）
+  她写 `Since the implementation of odd-even traffic restrictions, congestion on the ring expressway **has shown no noticeable relief**.` ——
+  句子能懂，但 relief 是人从拥堵里得到的解脱，拥堵自己不会 show relief ⇒ 生硬。
+  当场给回：`congestion on the ring expressway has not eased noticeably`。
+  ⚠️ 同题主考点 #0468 ✅（traffic restrictions ／ congestion on）。
+
 ---
 
 # F09 时态/体
