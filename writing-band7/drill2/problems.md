@@ -453,6 +453,45 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 
 > 动词后面接什么、及物性、论元完整
 
+## #0581 「（去）找某人（求助、商量）」＝ approach sb
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
+
+**问题是什么**
+```
+**approach sb**　走过去找某人（开口求助、提要求、商量事）—— 及物，直接带人，⛔ 不加 to
+　`Students can **approach** their tutors with any questions.` · `He **approached** his manager about a pay rise.`
+⚠️ 带事情时用 with／about：approach sb **with** a question ／ **about** sth
+⛔ ~~approach to sb~~（动词 approach 不带 to；名词 an approach to sth ＝ 处理某事的方法，是另一回事）
+同一格的邻居：**turn to sb**（向某人求助，带 to）· **consult sb**（请教专业人士）· **go to sb**（口语）
+```
+**找法**：中文「（有问题）去找某人／向某人开口」⇒ approach sb (with／about sth)。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组4 第 9 题（主考点 #0121，命中 ✅）。中文「他们遇到问题时该找谁」，
+她自己写出 `whom they should **approach**`，并当场括注 **「这个词这个用法学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "approach" "approach sb" "approach someone"   ⇒ 命中 #0269 #0278 #0289 #0327 #0370（approach sb 零命中）
+② 规则查  dedup "找谁" "求助"                                  ⇒ 命中 #0121
+逐条否掉：
+  #0327（established practice／accepted approach）#0370（the limitations of this approach）#0269 #0278 #0289 —— 都是名词 approach（方法、路子），本条是动词 approach ＋ 人 ⇒ 问1 不成立 ⇒ 否（误判2：同一个词的两个不同问题）
+  #0121（全篇第三人称）—— 「找谁」是那条题面字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F01，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 及物、不加 to 只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`whom they should approach`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+遇到不懂的地方，新员工可以直接去找自己的导师。
+（★ 用 approach —— 后面要不要介词自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组4 第 9 题（顺带用对）
+  她写 `explains to them scholars whom they should **approach**(这个词这个用法学一下) when encountering problems` —— approach 直接带人、没加 to ✔（scholars 是多出来的词，删掉）。
+  ⚠️ 同题主考点 #0121 ✅（全篇第三人称）。
+
 ---
 
 # F02 冠词/限定
@@ -2361,6 +2400,128 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组3 第 2 题（顺带用对）
   她写 `the primary driver of this price **hike**（这个词学一下) was actually a surge in demand` —— 词义对。
   ⚠️ 同题主考点 #0433 ✅（reason ／ motive ／ driver）。
+
+## #0578 「装修／翻新（旧房子、旧建筑）」＝ renovate
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**renovate**　把旧的房子／建筑重新装修、翻新（及物动词）　名词 **renovation**（常复数 renovations）
+　`The old hotel **was renovated** last year.` · `**renovate** the kitchen` · `be closed for **renovation**`（因装修暂停营业）
+同一格的邻居：**decorate**（刷墙、布置，偏"装饰"）· **refurbish**（翻新，偏商业场所）· **restore**（修复古建筑，恢复原样）
+⚠️ 拼写：ren-o-vate（⛔ ~~renervate~~）
+```
+**找法**：中文「重新装修／翻新（旧的）」⇒ renovate；「装修期间停业」⇒ closed for renovation。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组4 第 2 题（主考点 #0471，命中 ✅）。中文「旁边的地下通道也重新装修了」，
+她自己写出 `the adjacent underpass has also been **renovated**`，并当场括注 **「这个词背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "renovate" "renovation"   ⇒ 命中 #0538 #0526 #0299
+② 规则查  dedup "装修" "翻新"             ⇒ 命中 #0526 #0538
+逐条否掉：
+  #0526（回本一族）#0538（within N of ＋ 事件）—— renovation／装修 只是那两条例句里的字样（recouped its renovation costs）⇒ 问1 不成立 ⇒ 否
+  #0299（四个超过）—— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 及物、被动这些形态只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`has also been renovated`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+这家老酒店花了半年重新装修，下个月重新开业。
+（★ 用 renovate；形态自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组4 第 2 题（顺带用对）
+  她写 `the adjacent underpass has also been **renovated**(这个词背下)` —— 词义、被动完成时都对。
+  ⚠️ 同题主考点 #0471 ✅（footbridge ／ underpass）。
+
+## #0579 「（质量、状况）变差、恶化」＝ deterioration
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**deterioration**　（逐渐）变坏、恶化 —— 名词，后面接 of ／ in
+　`the **deterioration of** urban air quality` · `a **deterioration in** relations`
+动词 **deteriorate**（不及物）：`Air quality has deteriorated.`（⛔ ~~has been deteriorated~~）
+同一格的邻居：**decline**（下滑，偏数量）· **worsening**（变糟）· **worsen**（动词，-en 族 ⇒ **#0101**）
+⚠️ 拼写：de-te-ri-o-ra-tion（⛔ ~~deteroration~~）
+判据（词组题）：deterioration 调得出来就算对；写 decline ／ worsening 判 △
+```
+**找法**：中文「（空气、健康、关系、状况）变差／恶化」作名词 ⇒ the deterioration of／in ＋ 那个东西。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组4 第 7 题（主考点 #0061，命中 ✅）。中文「城市空气变差」，
+她自己写出 `the **deterioration** of urban air quality`，并当场括注 **「这个词背一下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "deteriorat"          ⇒ **零命中**
+② 规则查  dedup "恶化" "变差"          ⇒ 命中 #0101 #0354 #0002
+逐条否掉：
+  #0101（worses → worsens，-en 后缀族）—— 那条管动词 worsen 的构形，本条管名词 deterioration ⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0354（缓解一族）#0002 —— 「恶化」只是例句字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`the deterioration of urban air quality`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（城市空气质量的）恶化
+（两国关系的）进一步恶化
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组4 第 7 题（顺带用对）
+  她写 `a major cause of the **deterioration**(这个词背一下) of urban air quality` —— 词与介词 of 都对。
+  ⚠️ 同题主考点 #0061 ✅（the number of）。
+
+## #0580 「（新生／新员工）入学指导、入职培训」＝ orientation
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**orientation**　（给新来的人的）情况介绍、入学／入职指导（不可数，也常作定语）
+　`**orientation** week`（迎新周）· `an **orientation** session`（新生说明会）· `a new staff **orientation**`（新员工入职培训）· `an **orientation** handbook`
+⚠️ 拼写：or-i-en-ta-tion（⛔ ~~orientaion~~ ⛔ ~~orientatian~~）
+⚠️ orientation 的另一个意思是"方向、倾向"（political orientation）—— 那是别的语境
+判据（词组题）：orientation 调得出来就算对；写 induction（英式，入职培训）判 △
+```
+**找法**：中文「迎新／新生说明会／入职培训（介绍情况那种）」⇒ orientation ＋ week／session／programme。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组4 第 9 题（主考点 #0121，命中 ✅）。中文「这份新生手册」，
+她自己写出 `This **orientation** handbook`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "orientation"     ⇒ **零命中**
+② 规则查  dedup "新生" "迎新"      ⇒ 命中 #0014 #0328
+逐条否掉：
+  #0014 #0328（报名一族）—— 「新生」只是例句字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词（作定语）、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`This orientation handbook`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（大学开学前的）迎新周
+（公司给新员工办的）入职说明会
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组4 第 9 题（顺带用对）
+  她写 `This **orientation**(这个词学下) handbook informs international students …` —— 词义对。
+  ⚠️ 同题主考点 #0121 ✅（全篇第三人称）。
 
 ---
 

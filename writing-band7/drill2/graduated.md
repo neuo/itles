@@ -3235,7 +3235,7 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   她写 `The problem with this new residential area is its distance from the subway station, and the problem of parking difficulty remains unaddressed by the developer.` —— 没给映射，with ／ of 自己配对 ✔。
 
 ## #0477 take sth into account 一族：into ／ of ／ in 三个介词各归各家
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3321,6 +3321,10 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   ⇒ **当场改题面**（写进「中文触发点」）：只给动词 take ／ allow ／ factor，介词留给她，另加一处必须出现 mind。
   ⚠️ 09-09 那次 ✅ 用的是存档触发点，同样把三个介词印全了 ⇒ 本条两次"对"都没真正逼出考点（记教练侧）。
   ⚠️ 她当场括注「汇率背一下」⇒ 另建 **#0503**（③，题型 词组）。
+- 2026-10-10 ❌ C9 D4 复习日 复检组4 第 5 题
+  题面「做旅行预算时，我们忽略了汇率变化，也忘了给航班延误留余地、把签证费算进去；下次这些都得记在心里。（★ 前三处分别用 take ／ allow ／ factor …；最后一处必须出现 mind）」
+  她答「忘了」—— **整句没写出来**。当场给回：`we failed to take exchange rate changes into account, and forgot to allow for flight delays and factor in visa fees; next time we need to bear all this in mind.`
+  🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0482 issue（动词）能带哪些宾语：a fine ／ a permit ／ a statement ／ a refund
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F01 ｜ 题型 整句
@@ -5760,7 +5764,7 @@ fee   为某项服务／资格付的一笔钱　an extra fee for materials　✅
   「上世纪八十年代」⇒ `the 1980s` ✔（没加撇号）·「上个世纪的最后几年」⇒ `the final years of the last century` ✔。
 
 ## #0471 同义堆叠的中式复合块：overpass bridge ／ footbridge
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F03 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F03 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -5832,6 +5836,8 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   ⚠️ 句子本身成立、意思也送到 ⇒ 按 §3.2 判 **△**，⛔ 不是 ❌ ⇒ ⛔ 不回潮；只进更好版。
   ⚠️ 同一天本条已在组1 第 5 题判过 ✅（overpass ／ underpass 两处各一个名词）⇒ 按 §3.2「当天只结算一次」：
   　 ✅ ＋ △ ⇒ 当天记 ✅，连对 2 ／ 🎓 不变。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 2 题
+  她写 `A footbridge has been newly constructed …, and the adjacent underpass has also been renovated.` —— 每处一个名词，没有同义堆叠。
 
 ## #0488 中文的范畴词「规模／水平／情况／问题」，英文常常不翻出来
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F03 ｜ 题型 整句
@@ -6071,7 +6077,7 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
 > 含长主语后谓语被拉走、不可数名词
 
 ## #0053 「no 后面可以接复数么」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F04 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F04 ｜ 题型 整句
 
 **问题是什么**
 K　0/3 抽查
@@ -6124,6 +6130,8 @@ K　0/3 抽查
   三处 no 的数形各走各的路：`no specialized music room`（预期只有一个 ⇒ 单数）· `no parents`（预期多个 ⇒ 复数）· `no choice but to`（固定块永远单数）
   ⇒ 本条的三种数形**一次全中** ⇒ 连对 1 → 2 ⇒ 🎓。
   ⚠️ 第三分句切到过去（had no choice）**成立** —— 中文「到那一步」本身给了时间差 ⇒ ⛔ 不算 #0512 复发。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 6 题
+  她写 `This new residential area has no schools, and there are no decent supermarkets nearby; residents have no choice but to drive into town for shopping.` —— 三处 no 都对。
 
 ## #0055 主语与谓语的数不一致（主语紧挨谓语）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F04
@@ -6615,7 +6623,7 @@ P4 数　R · P4
   ⚠️ 同句两处顺带用对：`breakdown` ⇒ 📋 #0340 · `on duty` ⇒ 📋 #0495。
 
 ## #0061 「其实我觉得用 the growing number of 更安全」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F04 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F04 ｜ 题型 整句
 
 **问题是什么**
 K（判据；表达侧记 ✅+ 她的）
@@ -6654,6 +6662,8 @@ K（判据；表达侧记 ✅+ 她的）
   题面「共享单车数量的增加是这条街道拥堵的主要原因。（★ 必须出现 number 这个词）」（**换场景** —— 09-07 用的是老年人口／医疗支出）
   她写 `The growing number of shared bicycles is the primary reason for traffic congestion on this street.`
   `The growing number of ＋ 复数 ＋ **is**` —— 增加的是"量"不是"人"（本条考点），而且长主语没被紧挨着的 bicycles 拉走（#0048 的陷阱顺带也守住了）⇒ 连对 1 → 2 ⇒ 🎓。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 7 题
+  她写 `An increase in the number of private cars is a major cause of the deterioration of urban air quality.` —— increase in 后面接的是数量。
 
 ## #0062 学校要求学生穿校服
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F04
@@ -7181,7 +7191,7 @@ U · 待排序　0/2
   她写 `**The prices of these** mobile phones vary greatly; overall, however, **phone prices** have been rising continuously in recent years.` —— 定指侧 the ＋ 复数 ✔ · 泛指侧零冠词 ✔ ⇒ 复检通过。
 
 ## #0078 如果医生治不了这个病，就会把病人转给专科医生
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F04 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F04 ｜ 题型 整句
 
 **问题是什么**
 ⚠️ 不地道（她那句语法成立）　U · 待排序
@@ -7219,6 +7229,8 @@ U · 待排序　0/2
   她写 `If layers cannot take on a case, they refer clients to colleagues who specialize in this field.`
   律师与当事人两处都是**复数泛指**（layers／clients），⛔ 没有 the ＋ 单数、⛔ 没有 he or she —— 本条当年栽的正是这两样 ⇒ 连对 1 → 2 ⇒ 🎓。
   ⚠️ `layers` → lawyers：漏一个 w、英文⛔ 没印在题面上、上下文只有一个词说得通 ⇒ §3.2 **手滑豁免**，⛔ 不记。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 8 题
+  她写 `If customer service representatives cannot resolve the problems of customers, they will transfer the customers to the technical support department.` —— 两处复数泛指，没有 he or she。
 
 ## #0079 ⭐⭐ 名词+名词主动产出
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F04
@@ -8647,7 +8659,7 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   expand 及物 ✔；expend … on ✔ ⇒ 复检通过。
 
 ## #0476 separate 的拼写：sep-a-rate（中间是 a 不是 e）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F05 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F05 ｜ 题型 整句
 
 **问题是什么**
 `separate` 中间那个元音是 **a**，不是 e：sep-**a**-rate（⛔ ~~seperate~~ ~~seperately~~）
@@ -8720,6 +8732,8 @@ P5 构形规则（≠ P4 主谓：她知道要加 s，缺的是加什么）　R 
   ★ 全组唯一**零提示**出的（纯拼写类，把词印进题面 ＝ 给答案，§6）—— 题面只有中文「这两个单元有各自独立的入口，电费也分开计算。」
   两处 sep-**a**-rate 中间那个元音都写对了 ⇒ 连对 1 → 2 ⇒ 毕业（09-07 建号那次写的是 seperately）。
   ⚠️ 顺带：`separate, independent` 是同义堆叠（两个形容词说同一件事）⇒ 记在 #0471 的 △ 行，⛔ 不算本条的错。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 4 题
+  她写 `… must be placed in separate bins, and recycling fees will also be calculated separately; the views of the two experts are actually quite distinct.` —— separate 拼对，形容词／副词分工对。
 
 ## #0492 minimum ／ minimal ——「最低的那条线」与「小到可以忽略」
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F05 ｜ 题型 整句
@@ -10816,7 +10830,7 @@ high-risk**` —— **完全正确**，并当场括注「**这个需要背下，
   她写 `… operate continuously; the telephones in the ward ring constantly, yet the nurse on duty remains consistently patient.` —— 成员 ④ constantly 第一次出、命中。
 
 ## #0475 有现成形容词就别拿光杆名词作定语（environment→environmental ／ detail→detailed）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F06 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F06 ｜ 题型 整句
 
 **问题是什么**
 英语里名词确实能作定语（`traffic restrictions` · `car ownership` · `staff turnover` ✔），
@@ -10890,6 +10904,8 @@ economy　　 → **economic** growth　　　　 society　→ **social** chang
   四处定语全部换成派生形容词（economy→economic · finance→financial · detail→detailed · culture→cultural）——
   09-07 建号那天她在同一组里连犯两次（environment protection ／ detail rules），今天四处全守住 ⇒ 毕业。
   ⚠️ 她当场括注 `Following`「学一下，不然老想用 after」⇒ 另建 **#0504**（③，F14 整句）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 3 题
+  她写 `A detailed environmental assessment indicates that the industrial pollution of this river …` —— 三处定语都是形容词形。
 
 ---
 
@@ -11257,7 +11273,7 @@ P12 连词缺失　R · P12
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0121 what you should do next → what patients should do next
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 P12 人称一致（全篇第三人称里跳出 you）　R · P12
@@ -11298,6 +11314,8 @@ P12 人称一致（全篇第三人称里跳出 you）　R · P12
   她写 `This handbook instructs them on what to do next and clarifies whom they should contact.`
   两处都是第三人称（them ／ they），⛔ 一个 you 都没有 ⇒ 本条考点（全篇第三人称里不跳出 you）命中 ⇒ 连对 1 → 2 ⇒ 🎓。
   ⚠️ them 前面没有先行词 ⇒ 那是**指代**那一层的账，归入 #0129（该条因此回潮），⛔ 不算本条的错。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 9 题
+  她写 `This orientation handbook informs international students which procedures to complete …, and also explains to them scholars whom they should approach …` —— 全篇第三人称；多出的 scholars 删词、不记号。
 
 ## #0122 保持耐心、不去赌，就更可能治好
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07
@@ -11736,7 +11754,7 @@ P12 数字写法　R · P12
   ⚠️ 同句 `**By** 2020 … **had reached**` ⇒ 📋 #0519（今天第三次）。
 
 ## #0135 到 1900 年为止，这个数字已经增长到 158 万
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 待排序　U（待定）
@@ -11775,6 +11793,8 @@ P12 数字写法　R · P12
   ⚠️ `has risen` 该是 had risen —— 但那一层**题面没点**，而且 09-07 的历史行明写着「by ＋ 过去年份配过去完成这一层题面没点、是她自己带出来的」
   ⇒ 按 §6「没发出去的限定不许拿来判她」，⛔ 不算本条的错 ⇒ 另建 #0519。
   ⚠️ `470,000` 的千分位逗号写对了 —— 与同日组2 第6题的 `1,58 million` 正相反（R6 本组零命中）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 10 题
+  她写 `By 2010, the population of this city had grown to 8.6 million.` —— 时间状语句首 ＋ 过去完成时。
 
 ## #0136 雇主和员工的利益并不总是一致
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F07
@@ -33793,7 +33813,7 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   她写 `and **for this purpose**, it has expended …`，并括注「这个插入语学下」—— for this purpose 本来就是本条成员，用得对 ⇒ ⛔ 不另建号。
 
 ## #0451 in practice ／ in theory ／ on paper ／ in principle
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F14 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F14 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -33867,6 +33887,8 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   两处零冠词都对，成员 ② in theory ／ ⑤ in reality 两个空格同时落地 ⇒ 毕业
   （09-06 走的是 on paper ／ in principle 那一对）。
   ⚠️ 同句 `crashed` 切了时间平面 ⇒ 另建 **#0512**，⛔ 不影响本条。
+- 2026-10-10 ✅ C9 D4 复习日 复检组4 第 1 题
+  她写 `This proposal appears perfect on paper, and everyone agrees with it in principle; however, it encounters obstacles everywhere in practice.` —— 三处各就各位。
 
 ## #0504 「继…之后」一族：following ／ in the wake of ／ in the aftermath of ／ after
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F14 ｜ 题型 整句
