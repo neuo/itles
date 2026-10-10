@@ -2924,7 +2924,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   三个成员形态全对 ⇒ 连对 1 → 连对 2 ⇒ 到线。⚠️ Phrase（要 Phase）按 #0095 判据手滑豁免。
 
 ## #0466 「告知」一族：notify sb of sth ／ inform ／ remind ／ advise
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3044,6 +3044,8 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   ⚠️ 同句 `any address **modification**` → `a **change of address**`：中文偏正块直译成 N＋N ⇒ 按 **#0051（2026-09-01 退池）**的裁定，这一类"自己拼的名词块"⛔ 不建条目、只当场指出。
   ⚠️ 本条今天另有一行 📋（组4 顺带用对）⇒ 按 §3.2 同日只结算一次，本行是**唯一的判定行**。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ ④ 账已补。
+- 2026-10-10 📋 C9 D4 复习日 组1 第 2 题（顺带用对）
+  她写 `she informed us that the company would lay off …` —— inform ＋ 人 ＋ that 从句 ✔（🎓 状态不变）。
 
 ## #0469 「谁付／向谁收」：charged to ／ payable by ／ levied on
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F01 ｜ 题型 整句
@@ -28937,7 +28939,7 @@ of 在这里标的是「从哪件事算起」—— 它**要配 within**
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0542 「举（例子／数据／理由）」＝ cite
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -28986,6 +28988,8 @@ of 在这里标的是「从哪件事算起」—— 它**要配 within**
   题面「这篇文章援引了大量政府数据，作者还把房价上涨列为年轻人推迟结婚的主要原因。（★ 两处都用 cite）」
   她写 `This article **cited** extensive government data, and the author also **cited** rising house prices **as** the primary reason young people delay marriage.`
   cite ＋ 数据 ✔；cite A as B 的 as 在 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。同句 extensive 她点名要学 ⇒ 另建 #0565。
+- 2026-10-10 📋 C9 D4 复习日 组1 第 3 题（顺带用对）
+  她写 `The teacher cited examples repeatedly …` —— cite ＋ 例子 ✔（🎓 状态不变）。
 
 ## #0543 「被困」trapped ／「卡住」stuck —— 按"出不出得来、有没有危险"挑
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句

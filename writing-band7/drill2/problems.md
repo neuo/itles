@@ -1688,7 +1688,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   4b「全天候（一天 24 小时不停）」5b「（医生们）连轴转、日夜不停（地工作）」她两块都答「忘了」—— 没写出来。当场给回：`around the clock` · `worked around the clock`。
 
 ## #0563 「（一件事）必然带来／意味着要」＝ entail
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1732,9 +1732,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组1 第 1 题（顺带用对）
   她写 `Between the two routes, the one via the highway is faster, yet **entails** a higher toll.（toll 和 entail 都学下）` —— 主语是"那条路线"、直接跟名词，用法对。
   ⚠️ 同题主考点 #0106 ✅（faster ／ higher 两处比较级）。同括注的 toll 归入 #0249。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 1 题（首测）
+  她写 `Being a nurse entails frequently working night shifts.` —— entail ＋ -ing ✔（没写成 entail to work），主语是"当护士"这件事 ✔。
 
 ## #0564 「（对某个问题的）立场」＝ stance（on）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1776,9 +1778,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组1 第 2 题（顺带用对）
   她写 `… meanwhile, his **stance**（这给词学下) **on** this issue has been consistent over the years.` —— 词义、介词 on 都对。
   ⚠️ 同题主考点 #0561 ✅（unanimous ／ consistent 各就各位）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 a ＋ 第 5 题 a（词组题，本条占 2 个块 · 首测）
+  4a「（政府在移民问题上的）立场」⇒ `the stance of the government on immigration` ✔ · 5a「（在谈判中的）强硬立场」⇒ `a firm stance in negotiations` ✔
+  更好版 4a `the government's stance on immigration`（两个介词短语叠在 stance 后面，所有格更顺）—— 不影响本块判定。
 
 ## #0565 「大量／大面积（数据、研究、破坏）」＝ extensive
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1822,9 +1827,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 1 题（顺带用对）
   她写 `This article cited **extensive**(这个词学下) government data, …` —— 词义、位置都对（data 前零冠词也对）。
   ⚠️ 同题主考点 #0542 ✅（cite ／ cite A as B）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 b ＋ 第 5 题 b（词组题，本条占 2 个块 · 首测）
+  4b「（这项结论基于）大量的研究」⇒ `extensive research` ✔ · 5b「（台风造成的）大面积破坏」⇒ `extensive damage caused by the typhoon` ✔
 
 ## #0566 「（供应／交通的）中断、打乱」＝ disruption
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1865,9 +1872,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 5 题（顺带用对）
   她写 `Upon the **disruption**(这个词学一下) of raw material supplies, the entire production line of this factory came to a halt.` —— 词义、介词都对。
   ⚠️ 同题主考点 #0546 ✅（came to a halt）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 c ＋ 第 5 题 c（词组题，本条占 2 个块 · 首测）
+  4c「供应链中断」⇒ `supply chain disruption` ✔ · 5c「（罢工给铁路交通带来的）严重干扰」⇒ `severe disruption to rail traffic` ✔
 
 ## #0567 「用…的语气（说）」＝ in a … tone
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1905,9 +1914,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 组2 第 9 题 b（顺带用对）
   她写 `a subtle shift in her tone(in xx tone 学一下)` —— in ＋ 所有格 her 都对。
   ⚠️ 同题主考点 #0548 ✅（subtle）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 2 题（首测）
+  她写 `In a calm tone, she informed us that the company would lay off one-third of its workforce next month.` —— in ＋ a ＋ calm ＋ tone，介词冠词都在 ✔；状语前置成立。
 
 ## #0568 「加固／强化」＝ reinforce
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1944,9 +1955,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 复检组1 第 4 题（顺带用对）
   她写 `The old bridge is being **reinforced**(这个词学下), so it is closed to traffic on weekends this month.` —— 词义、被动进行时都对。
   ⚠️ 同题主考点 #0400 ✅（被动进行时）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 3 题（首测）
+  她写 `The teacher cited examples repeatedly to reinforce students' understanding of this concept.` —— reinforce 直接跟 understanding ✔。
 
 ## #0569 「霸凌」＝ bullying
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1984,9 +1997,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组1 第 6 题（顺带用对）
   她写 `The school intends to tackle the issue of campus **bullying**（这一个词背下) while cracking down on exam cheating.` —— 词与拼写都对。
   ⚠️ 同题主考点 #0403 ✅（tackle ／ crack down on）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 d ＋ 第 5 题 d（词组题，本条占 2 个块 · 首测）
+  4d「网络霸凌」⇒ `cyberbullying` ✔ · 5d「（职场上的）霸凌」⇒ `workplace bullying` ✔
 
 ## #0570 「货架／书架」＝ shelf（复数 shelves）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2025,9 +2040,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组1 第 2 题（顺带用对）
   她写 `… long-term stacking of heavy objects can also deform the **shelves**(这个词背下).` —— 词与复数拼写都对。
   ⚠️ 同题主考点 #0390 ✅（deform 不及物 ＋ 及物）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 e ＋ 第 5 题 e（词组题，本条占 2 个块 · 首测）
+  4e「（超市的）货架」⇒ `supermarket shelves` ✔（没写 shelfs）· 5e「（书房里）一排书架」⇒ `a row of bookshelves` ✔
 
 ## #0571 「（一项）行动／举措／倡议」＝ initiative
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2070,9 +2087,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要学）C9 D3 复检组2 第 1 题（顺带用对）
   她写 `… while the retired teacher who organized this **initiative**(这个词这个用法学下) is regarded as a community leader.` —— 用法①（一件有组织的行动）用得准。
   ⚠️ 同题主考点 #0404 ✅（serve as ／ be regarded as）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 f ＋ 第 5 题 f（词组题，本条占 2 个块 · 首测）
+  4f「（社区居民自发的）一项垃圾分类行动」⇒ `a community-led waste sorting initiative` ✔ · 5f「（政府推出的）一项减塑新举措」⇒ `a new plastic reduction initiative launched by the government` ✔
 
 ## #0572 「显眼／扎眼」＝ conspicuous
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2114,6 +2133,8 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-09 ③ 建号（她点名要背）C9 D3 复检组2 第 6 题（顺带用对）
   她写 `This error was highly **conspicuous**(这个词背下), whereas the cost of rectifying it was remarkably low.` —— 词义、拼写都对。
   ⚠️ 同题主考点 #0321 ✅（两处「非常」都没用 very）。
+- 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 g ＋ 第 5 题 g（词组题，本条占 2 个块 · 首测）
+  4g「（穿着荧光背心，在人群里）格外显眼」⇒ `highly conspicuous in the crowd` ✔ · 5g「（门口）一块显眼的指示牌」⇒ `a conspicuous sign at the entrance` ✔
 
 ---
 
