@@ -2586,7 +2586,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   她写 `The impact of this rainstorm extends far beyond agriculture, and the work of the rescue team is not limited to evacuating residents.` —— extend beyond ＋ 名词、limited to ＋ -ing 都对。
 
 ## #0432 投身／从事一族：engage in ／ pursue ／ devote oneself to ／ take up
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2656,6 +2656,8 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   ★ 今天题面**三个介词一个都没给**（只给 take up ／ pursue ／ be involved 三个动词），她三处全对：
   take up ＋ 活动 · pursue **及物、⛔ 没加介词**（本条最易错的那一格）· be involved **in**。
   成员账 ④ take up ／ ⑤ be involved in **两个空格同时落地**，② pursue 第二次命中 ⇒ 毕业。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 1 题
+  她写 `he began to engage in community volunteer work, whereas his daughter is pursuing a doctoral degree abroad, intending to devote her life to cancer research.` —— engage in ／ pursue（及物）／ devote … to 三格都对。
 
 ## #0434 「依据什么来判断」＝ be judged by ／ be assessed against ／ measure X by Y
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F01 ｜ 题型 整句
@@ -2741,7 +2743,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   主语选对（被判断的学校）✔；judged by ✔ ⇒ 复检通过。同句 advancement rate 生硬 ⇒ 记在 #0328（补成员「升学率」）。
 
 ## #0447 「申领／申请」一族：apply for ／ claim ／ be eligible for ／ be entitled to
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2807,6 +2809,8 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   三处介词与及物性全对：be entitled **to** ＋ 原形 · apply **for**（介词没掉）· claim **及物**（⛔ 没写 claim for）。
   09-06 那次点的成员是 eligible，今天换成 entitled 照样调得出 ⇒ 毕业。
   ⚠️ 只进更好版：`the secondary review` → `the second round`（secondary ＝ 次要的／中学的）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 6 题
+  她写 `All affected farmers are eligible to apply for this compensation, but they must claim the funds before the end of the year.` —— eligible to apply for（for 没丢）／ claim ＋ 钱。
 
 ## #0452 「打算做某事」一族：intend ／ plan ／ aim ／ set out to ／ be due to
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F01 ｜ 题型 整句
@@ -10729,7 +10733,7 @@ high-risk**` —— **完全正确**，并当场括注「**这个需要背下，
   三处全是前置复合形容词 ✔ ⇒ 复检通过。📋 留痕：recruiting 的逻辑主语落到 job 上（△，不记号）。
 
 ## #0436 三个"持续"：continually ／ continuously ／ consistently
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F06 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F06 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -10770,7 +10774,7 @@ high-risk**` —— **完全正确**，并当场括注「**这个需要背下，
 ① continually　—— 2026-09-04 组2 第 3 题 ✅（`failures have occurred continually`，反复发生那一格）⚠️ 补记：09-04 漏补，2026-09-13 补
 ② continuously —— 2026-09-04 组2 第 3 题 ✅（`run continuously for 48 hours`，不间断那一格）⚠️ 补记：09-04 漏补，2026-09-13 补
 ③ consistently —— 2026-09-04 组2 第 3 题 ✅（分工对；但 `has remained consistently` 少了形容词 —— 那处是题面诱发，⛔ 不记她的错）
-④ constantly　 —— 未出过　★ 优先测（唯一的空格）
+④ constantly　 —— 2026-10-10 复检组3 第 4 题 ✅（`the telephones in the ward ring constantly`）
 ```
 
 **我错在哪**
@@ -10808,6 +10812,8 @@ high-risk**` —— **完全正确**，并当场括注「**这个需要背下，
   （continuous／continual／consistent），她自己选对了形态 ⇒ **考点第一次真正被逼出来，而且守住了** ⇒ 毕业。
   三个词的分工也全对：不间断 ＝ continuously · 一再发生 ＝ continually · 一直很稳 ＝ consistent。
   ⚠️ 成员账仅剩的空格是 ④ constantly（今天没点）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 4 题
+  她写 `… operate continuously; the telephones in the ward ring constantly, yet the nurse on duty remains consistently patient.` —— 成员 ④ constantly 第一次出、命中。
 
 ## #0475 有现成形容词就别拿光杆名词作定语（environment→environmental ／ detail→detailed）
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F06 ｜ 题型 整句
@@ -13570,7 +13576,7 @@ far from ＝ 远远不…、根本谈不上（本身就是否定，⛔ 不再加
   ⚠️ 本句与教练自译只差 only 的位置（教练侧泄题，见 sessions/2026-10-08.md 教练侧）⇒ 读数按纸面记，信息量存疑。
 
 ## #0435 「with ／ without ＋ 名词 ＋ as ＋ 名词」＝ 把 A 当作 B 的独立结构
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 这是一个**不带谓语的独立状语块**，挂在句首或句尾，一句话里就把一个条件说完：
@@ -13636,6 +13642,8 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   ⚠️ 中文「功能**反而**应该做减法」的"反而"没送到（features should be simplified）⇒ 只进更好版补 `in fact`，
   　 ⛔ 不判成 #0126 的错（命题本身送到了，丢的是语气层）。
   ⚠️ 她当场括注 `the starting point`「出发点，背一下」⇒ 另建 **#0506**（③，题型 词组）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 3 题
+  她写 `Without student needs as the core focus, …; with test scores as the sole indicator, …` —— 两处独立块中间都没加 be。
 
 ## #0463 `only ＋ 状语` 提到句首 ⇒ 主谓倒装，而且那个状语必须自带介词
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
@@ -23404,7 +23412,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   她在 `lifted(这个动词的用法学下) out of poverty` 处括注要学 lift 的用法 —— 就是本条成员 ⑤；正文成员表 ⑤ 补「主动 lift sb out of poverty ／ 被动 be lifted out of poverty，宾语是人或家庭」。
 
 ## #0433 动机与"多种多样"一族：motives ／ reasons ／ a variety of ／ a multitude of
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -23441,7 +23449,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
 ```
 ① motive　　　　—— 2026-09-13 组3 第 7 题 ✅（`another motive behind it`，冷暖对）
 ② reason　　　　—— 她一直会
-③ driver　　　　—— 2026-09-03 作文里写过 `the superficial direct drivers`（✔）⇒ 📋
+③ driver　　　　—— 2026-09-03 作文里写过 `the superficial direct drivers`（✔）⇒ 📋 ／ 2026-10-10 复检组3 第 2 题点名 ⇒ ✅（`the primary driver of this price hike`）
 ④ incentive　　 —— 2026-09-04 组1 第 4 题 ✅（`tax incentives`）⚠️ 补记：09-04 漏补，2026-09-13 补　　⑤ rationale —— 2026-09-13 组3 第 7 题 ✅（`the true rational for this reform` —— 漏一个 e、词印在题面上 ⇒ 手滑豁免）
 ⇒ 仍未单独逼过的：③ driver（只有 📋）· ⑥ a variety of ／ ⑦ a multitude of 的语气差（⑦ 已 2026-09-13 命中）
 ⑥ a variety of　—— 2026-09-03 自发用对 ⇒ 📋　　⑦ a multitude of —— 2026-09-03 自发用对 ⇒ 📋
@@ -23478,9 +23486,11 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   成员账 ① motive 第一次被点名测到（此前只有 📋）· ⑤ rationale **唯一的空格落地** ⇒ 毕业。
   ⚠️ 顺带 `cut expense` → expenses（R2，⛔ 不建条目）。
   ⚠️ 她当场括注 `opponents`「背一下」⇒ 另建 **#0507**（③，题型 词组）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 2 题
+  她写 `The official reason for the price increase …, yet consumers suspected an underlying motive; … the primary driver of this price hike was actually a surge in demand.` —— 成员 ③ driver 第一次被点名逼出、命中。
 
 ## #0437 议论文的抽象名词块一族（本篇实产）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23541,9 +23551,13 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ② 政治上的考量 ⇒ `political considerations` ✔（这个意思常复数）
   ③ 失去存在的理由 ⇒ `lose its reason for existence` ✔（介词 for 也对）
   三块换了写法照样字面全对 ⇒ 毕业。
+- 2026-10-10 ❌ C9 D4 复习日 复检组3 第 9 题 a b（词组题，本条占 2 个块）
+  9a「（这项决定是）出于政治上的考虑」⇒ `out of political considerations` ✔
+  9b「（这家老书店）早已失去了存在的意义」⇒ 她答「忘了」—— **调不出** `had long lost its reason for existence`。
+  当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。当场给回：lose its reason for existence（⛔ existing reason）。
 
 ## #0438 商业与产业块一族：pharmaceutical ／ market share ／ excess profits
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23598,6 +23612,10 @@ progress **不可数**（⛔ a progress）。
   ④ 制药企业 ⇒ `pharmaceutical company` ✔（⛔ 不是 medicine company）
   ⑤ 市场占有率 ⇒ `market share` ✔　⑥ 超额利润 ⇒ `excess profits` ✔（⛔ 不是 extra profits）
   三块字面全对 ⇒ 毕业。⚠️ 只留信息（契约⑬ ⛔ 不判数）：说某一家用 a pharmaceutical company，说行业用复数。
+- 2026-10-10 ❌ C9 D4 复习日 复检组3 第 9 题 c d（词组题，本条占 2 个块）
+  9c「（全球几家最大的）制药企业」⇒ 她答「忘了」—— **调不出** `pharmaceutical companies`
+  9d「（抢占）市场份额」⇒ `market share` ✔（零冠词）
+  当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。当场给回：pharmaceutical（phar-ma-ceu-ti-cal）companies。
 
 ## #0439 历史与时间的专名一族：the Space Race ／ the First Industrial Revolution ／ the dawn of humanity
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -23784,7 +23802,7 @@ progress **不可数**（⛔ a progress）。
   ⇒ 连对 1 → **2 ⇒ 🎓**（状态行手改，见 session 收尾）。
 
 ## #0444 「没有意义／白做」一族：make no sense ／ be pointless ／ serve no purpose ／ defeat the purpose
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -23823,7 +23841,7 @@ progress **不可数**（⛔ a progress）。
 ② be pointless　　　 —— 2026-09-06 组1 第 2 题 ⇒ ✅
 ③ serve no purpose　 —— 2026-09-06 组1 第 2 题 ⇒ ✅
 ④ defeat the purpose —— 2026-09-13 组4 第 3 题 ✅（`completely defeats the purpose of installing them`，the 没掉）
-⑤ be of little value —— **仍未落地**：2026-09-13 组4 第 3 题她走的是 `adds little value to`（同义、正确）⇒ 算对但这个块没被逼出来　★ 复检抽到时点名测它
+⑤ be of little value —— **仍未落地**：2026-09-13 组4 第 3 题她走的是 `adds little value to`（同义、正确）⇒ 算对但这个块没被逼出来 ／ 2026-10-10 复检组3 第 5 题点名 ⇒ ✅（`is of little value to new employees`）
 ```
 
 **我错在哪**
@@ -23849,6 +23867,8 @@ progress **不可数**（⛔ a progress）。
   成员 ④ defeat the purpose **整块命中**（the 没掉、of ＋ 动名词也对）；后半她走的 `adds little value` 是同义的
   另一条合法路（本条存档的成员 ⑤ 是 `be of little value`）⇒ 按 §3.2「题面点名是引导不是判错的门」算对 ⇒ 毕业。
   ⚠️ 成员 ⑤ 的那个块只进更好版，⛔ 不记她的错；下次复检抽到本条时点名测 ⑤。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 5 题
+  她写 `This superficial training is of little value to new employees, and holding ten more meetings of this kind would be entirely pointless.` —— 成员 ⑤ be of little value 第一次落地。
 
 ## #0446 smallholder ／ 农户与农业词一族
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F08 ｜ 题型 词组
@@ -23962,7 +23982,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   主考点 #0346（✅）。她写 `its **arable land** has been cut in half` —— 正是本条成员（可耕地），并括注「背一下」⇒ 已在本条，⛔ 不另建号。
 
 ## #0449 「水平／表现」一族：performance ／ standard ／ skill level ／ quality
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24035,9 +24055,11 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   两处数与限定词全对：performance 说整体表现 ⇒ 不可数、⛔ 没加 a；quality 说质量高低 ⇒ 不可数、⛔ 不是 qualities。
   今天换的两个成员（09-06 测的是 standard ／ level）照样调得出 ⇒ 毕业。
   ⚠️ 同句「上赛季」这一层没送到 ⇒ 记在 #0126 头上，⛔ 不算本条。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 7 题
+  她写 `the service standards of this airline have declined noticeably, and the English language level of its ground staff also varies.` —— standards 复数；level 带了限定。
 
 ## #0450 legacy 一族：还在用、但属于上一代的东西
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24101,6 +24123,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⑤ a legacy **of**（介词是 of，⛔ 不是 from）⇒ 毕业。
   ⚠️ 只进更好版：`can remain capable of operation for` → `can last`（翻译腔，一个动词铺成五个词）·
   　 `the former administration` → `the previous management`（中文是"上一任管理层"，administration 默认指政府）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组3 第 8 题
+  她写 `This batch of cash registers has long been outdated, with some models even becoming completely obsolete; … this legacy payment system.` —— outdated ／ obsolete ／ legacy 三格都对。
 
 ## #0453 「奖」不是「酬」：award ／ prize ／ reward 的分界
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F08 ｜ 题型 整句
@@ -24196,7 +24220,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
 ② novelty　　　—— 2026-09-07 组2 第 5 题 ⇒ ✅
 ③ creativity　 —— 2026-09-07 组2 第 5 题 ⇒ ✅（拼成 creativy，非词手滑豁免）
 ④ innovation　 —— 2026-09-12 组3 第 5 题题面「技术上有没有创新」⇒ ✅（`technical innovation`）
-⑤ original ／ novel ／ innovative（形容词那一排）—— 2026-09-12 组3 第 5 题 ⇒ ✅（`novel` · `original`）；innovative 未出过
+⑤ original ／ novel ／ innovative（形容词那一排）—— 2026-09-12 组3 第 5 题 ⇒ ✅（`novel` · `original`）／ 2026-10-10 复检组1 第 1 题 ⇒ ✅（`novel` · `more innovative level design`）
 ```
 
 **怎么发现的**

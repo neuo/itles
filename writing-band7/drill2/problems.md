@@ -2277,6 +2277,91 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `the county government regards it as a **flagship**(这个词背下) project to improve public welfare` —— 词义、位置都对。
   ⚠️ 同题主考点 #0429 ✅（living standards ／ poverty ／ welfare）。
 
+## #0576 「博士（学位）」＝ doctoral ／ doctorate ／ PhD
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**doctoral**　形容词，只放在名词前：`a **doctoral** degree`（博士学位）· `**doctoral** students`（博士生）· `**doctoral** research`
+**doctorate**　名词：`do／earn a **doctorate**`（读／拿博士）
+**PhD**　最常用的名词：`a **PhD** in economics` · `do a **PhD**` · `**PhD** students`
+⚠️ 拼写：doc-tor-al（⛔ ~~doctorial~~）
+⚠️ 本科／硕士的对应：a bachelor's degree · a master's degree（带 's）· a doctoral degree（不带 's）
+判据（词组题）：doctoral degree ／ doctorate ／ PhD 调得出来都算对
+```
+**找法**：中文「博士学位／读博／博士生」⇒ a doctoral degree ／ do a PhD ／ doctoral students。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组3 第 1 题（主考点 #0432，命中 ✅）。中文「他的女儿则在国外攻读博士学位」，
+她自己写出 `is pursuing a **doctoral** degree abroad`，并当场括注 **「这个词练一下」** ⇒ §2③ 她点名要练。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "doctoral" "doctorate" "PhD"   ⇒ **零命中**
+② 规则查  dedup "博士"                         ⇒ **零命中**
+③ 眼过    list --fam F08（248 行）里查「博士／学位／degree」⇒ 没有同块条目
+逐条否掉：无候选可否 —— 三步全部零命中
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要练 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`a doctoral degree`），点名要练 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（她正在读）博士
+（实验室里的几名）博士生
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要练）C9 D4 复检组3 第 1 题（顺带用对）
+  她写 `his daughter is pursuing a **doctoral**(这个词练一下) degree abroad` —— 词与位置都对。
+  ⚠️ 同题主考点 #0432 ✅（engage in ／ pursue ／ devote to）。
+
+## #0577 「涨价」＝ a price hike ／ a price increase
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**a price hike**　（突然、幅度大的）涨价 —— 名词块，常见于新闻与议论文
+　`a fare **hike**`（票价上涨）· `a tax **hike**`（加税）· `a rate **hike**`（加息）
+同一格的邻居：**a price increase**（中性，最通用）· **a price rise**（英式常用）
+动词说法：`prices rose／went up` · `raise prices`（⛔ ~~rise prices~~ —— rise 不及物）
+判据（词组题）：price hike 调得出来就算对；写 price increase ／ price rise 判 △（成立，但不是本条要调的块）
+```
+**找法**：中文「涨价／提价」作名词 ⇒ a price hike；说"加票价／加税／加息"⇒ fare／tax／rate hike。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组3 第 2 题（主考点 #0433，命中 ✅）。中文「推动这次涨价的主要因素」，
+她自己写出 `the primary driver of this price **hike**`，并当场括注 **「这个词学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "hike" "price increase"   ⇒ 命中 #0383
+② 规则查  dedup "涨价" "上调"             ⇒ 命中 #0077 #0144 #0179 #0536 #0047 #0319
+逐条否掉：
+  #0383（subscribe to）—— hike 只是正文里的偶然字样 ⇒ 问1 不成立 ⇒ 否
+  #0536（东西作主语时价格放进 in 后面：rise in price）—— 那条讲"东西涨价"的句子结构，本条讲"涨价"这个名词块 ⇒ 问2 要分两句话讲 ⇒ 否；交叉引用
+  #0077 #0179 #0047（旧档案迁移，材料涨价的整句题）#0144（as）#0319（条件连接词）—— 「涨价」是题面字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`this price hike`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（地铁明年的）票价上涨
+（这次）大幅涨价（引发了不满）
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组3 第 2 题（顺带用对）
+  她写 `the primary driver of this price **hike**（这个词学一下) was actually a surge in demand` —— 词义对。
+  ⚠️ 同题主考点 #0433 ✅（reason ／ motive ／ driver）。
+
 ---
 
 # F09 时态/体
