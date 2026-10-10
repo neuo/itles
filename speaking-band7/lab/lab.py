@@ -727,6 +727,18 @@ def queue_key(e, today, days=None):
 RE_DROPPED = re.compile(r"(?:^|[,;；、\s])\s*#?(\d+)\s*=")
 
 
+def _drawn_ids(kind, field):
+    """流水一行第 4 格 → 编号集合。「弃」只认紧跟 `=` 的号（见 RE_DROPPED）。"""
+    if kind == "弃":
+        return {int(m.group(1)) for m in RE_DROPPED.finditer(field)}
+    got = set()
+    for x in re.split(r"[,\s]+", field):
+        x = x.split("=")[0].strip().lstrip("#")
+        if x.isdigit():
+            got.add(int(x))
+    return got
+
+
 def drawn_rows(day):
     """→ {"抽": set, "用": set, "免": set, "弃": set}　某一天的出题流水，按动作分开。
 
@@ -749,14 +761,7 @@ def drawn_rows(day):
         p = line.rstrip("\n").rstrip("\r").split("\t")
         if len(p) < 4 or p[0] != day or p[2] not in out:
             continue
-        if p[2] == "弃":
-            got = {int(m.group(1)) for m in RE_DROPPED.finditer(p[3])}
-        else:
-            got = set()
-            for x in re.split(r"[,\s]+", p[3]):
-                x = x.split("=")[0].strip().lstrip("#")
-                if x.isdigit():
-                    got.add(int(x))
+        got = _drawn_ids(p[2], p[3])
         if p[2] == "用":
             last_used[p[1]] = got       # ★ 后写覆盖先写（⛔ 不是 |=）
         else:
@@ -784,6 +789,57 @@ def read_drawn(today):
     # 「用」＝ 定稿出过　「免」＝ 她 ⚡ 免测（§4③）　「弃」＝ 题面搞坏了作废（◎）
     #  —— 三者都不该在同一天再被抽第二次
     return dr["用"] | dr["免"] | dr["弃"], groups
+
+
+# 「抽」行第 5 格：这一组属于哪条队列（pick 写，used_groups 读）
+QUEUE_TAG = {"pool": "在池", "grad": "复检"}
+RE_GROUP_TAG = re.compile(r"^第\s*(\d+)\s*组$")
+
+
+def used_groups(day, ents=None):
+    """→ (groups, guessed, top)　今天已经出过的组，按队列分开（§3.5 配额按当天算）。
+
+    groups  ＝ {'pool': {组号…}, 'grad': {组号…}} —— 这几组照样占当天的配额
+    guessed ＝ 队列是**推断**出来的组号（这一组没有带队列格的「抽」行，比如 `pick --dry` 抽的）
+    top     ＝ 今天出现过「用／免」的最大组号 ⇒ 重跑 pick 的组号从 top＋1 往下编
+              ⛔ 不从 1 重编：撞上已经 used 的组名，后一次 `used` 会把前一组的「用」整行覆盖掉
+    「出过」＝ 这一组最后一行「用」非空，或者有「免」（整组 ⚡ 免测也是出过）；
+      `used --used ""` 又没有「免」＝ 整组撤下来 ⇒ 不占配额。
+    队列取自这一组**最后一行「抽」**的第 5 格；没有 ⇒ 按**当天开场时**的状态多数推断：
+      毕业日早于当天的过半 ⇒ 复检（⛔ 不看现状：当天才毕业的条目抽的时候还在在池队列）。"""
+    last_used, exempt, queue = {}, defaultdict(set), {}
+    of_tag = {v: k for k, v in QUEUE_TAG.items()}
+    if os.path.exists(DRAWN):
+        for line in open(DRAWN, encoding="utf-8"):
+            p = line.rstrip("\n").rstrip("\r").split("\t")
+            if len(p) < 4 or p[0] != day:
+                continue
+            m = RE_GROUP_TAG.match(p[1].strip())
+            if not m:
+                continue
+            g = int(m.group(1))
+            if p[2] == "用":
+                last_used[g] = _drawn_ids("用", p[3])       # ★ 与 drawn_rows 同口径：后写覆盖先写
+            elif p[2] == "免":
+                exempt[g] |= _drawn_ids("免", p[3])
+            elif p[2] == "抽" and len(p) >= 5 and p[4].strip() in of_tag:
+                queue[g] = of_tag[p[4].strip()]
+    groups, guessed = {"pool": set(), "grad": set()}, set()
+    grad_now = None
+    touched = set(last_used) | set(exempt)
+    for g in sorted(touched):
+        ids = last_used.get(g, set()) | exempt.get(g, set())
+        if not ids:
+            continue
+        q = queue.get(g)
+        if q is None:
+            if grad_now is None:
+                grad_now = {e.num for e in (ents if ents is not None else load_all())
+                            if e.grad and e.grad < day}
+            q = "grad" if 2 * sum(1 for n in ids if n in grad_now) > len(ids) else "pool"
+            guessed.add(g)
+        groups[q].add(g)
+    return groups, guessed, max(touched, default=0)
 
 
 def append_drawn(line):
@@ -3240,7 +3296,10 @@ def cmd_pick(args):
     """§3.5 召回队列 —— 一条梯子、两条队列（在池／复检），逾期分排序。
 
     ⛔ 教练不许自己挑题、不许自己排序：候选、顺序、分组全在这里定死，
-       同一天重跑这条命令结果完全一样（`used`／`免测` 过的自动不再出现）。"""
+       同一天重跑这条命令结果完全一样（`used`／`免测` 过的自动不再出现）。
+    ★★ 配额按【当天】算：今天已经出过的组**照样占配额**（used_groups）⇒ 中途重跑只排剩下的几组，
+       组号接着已出过的往下编；开场那份计划出完 ⇒ 报「今天的配额已经出完」、不再给新组。
+       ⛔ 不扣的后果：开场的组用完之后在池到期 0 ⇒ 下溢 ＝ 整个上限 ⇒ 每重跑一次白给一整份复检配额。"""
     today = args.date or date.today().isoformat()
     if args.type not in QUOTA:
         sys.exit(f"⛔ --type 只认 {' / '.join(QUOTA)}（learn ＝ 学习日，review ＝ 付息日）")
@@ -3249,11 +3308,14 @@ def cmd_pick(args):
                  f"（0 会直接抛 ValueError，负数会静默出 0 组还谎报「没有到期的」）")
     days = practice_days()
     npool, ngrad = QUOTA[args.type]
-    used, done = read_drawn(today)
+    used, _ = read_drawn(today)
+    ents = load_all()
+    ug, guessed, top = used_groups(today, ents)
+    pool_used, grad_used = len(ug["pool"]), len(ug["grad"])
 
     drop = defaultdict(list)
     cand = []
-    for e in load_all():
+    for e in ents:
         if e.tomb:
             continue
         if not e.recallable:
@@ -3296,28 +3358,52 @@ def cmd_pick(args):
 
     # ── 分组：在池是**上限**，空出来的组数下溢给复检（⛔ 反向不成立）────────
     want_pool = args.scope in ("pool", "both")
-    pool_g = partition([[e] for e in pool], args.size)[:npool] if want_pool else []
+    cap_left = max(npool - pool_used, 0)              # ★ 今天已出的在池组照样占上限
+    pool_g = partition([[e] for e in pool], args.size)[:cap_left] if want_pool else []
     # ⚠️ 下溢只在【真的排了在池队列却没排满】时成立。
     #    --scope grad 时 pool_g 天然是空的，那不是"排不满"，是"根本没排" ——
     #    无条件 spill = npool 会把复检配额悄悄翻几倍。
-    spill = max(npool - len(pool_g), 0) if want_pool else 0
-    ngrad_eff = (ngrad + spill) if args.scope in ("grad", "both") else 0
+    # ★ 下溢按**全天**的在池组数算（已出 ＋ 还要出），⛔ 不按「剩下还要出几组」算
+    spill = max(npool - (pool_used + len(pool_g)), 0) if want_pool else 0
+    grad_quota = ngrad + spill
+    grad_left = max(grad_quota - grad_used, 0)        # ★ 今天已出的复检组照样占配额
+    ngrad_eff = grad_left if args.scope in ("grad", "both") else 0
     grad_g = partition(bundle(grd), args.size)[:ngrad_eff]
+    if pool_used or grad_used:
+        print(f"★ 今天已出 在池 {pool_used} 组 ／ 复检 {grad_used} 组"
+              f"（{'、'.join(f'第 {g} 组' for g in sorted(ug['pool'] | ug['grad']))}）"
+              f" ⇒ 在池还能出 {cap_left} 组 ／ 复检还能出 {grad_left} 组"
+              f"（复检全天配额 {ngrad} ＋ 下溢 {spill} ＝ {grad_quota} 组）")
+        if guessed:
+            print(f"   ⚠️ {'、'.join(f'第 {g} 组' for g in sorted(guessed))} 没有带队列的「抽」行"
+                  f"（`pick --dry` 抽的？）⇒ 队列按当天开场时的状态推断")
     if spill:
-        print(f"★ 在池只排得出 {len(pool_g)} 组（上限 {npool}）⇒ 空出的 {spill} 组"
-              f"**下溢给复检队列** ⇒ 复检 {ngrad} ＋ {spill} ＝ {ngrad_eff} 组")
+        print(f"★ 在池全天 {pool_used + len(pool_g)} 组（上限 {npool}）⇒ 空出的 {spill} 组"
+              f"**下溢给复检队列** ⇒ 复检 {ngrad} ＋ {spill} ＝ {grad_quota} 组")
+    if args.scope == "both" and grad_used > grad_quota:
+        print(f"⚠️ 今天已出的复检组（{grad_used}）超出了全天配额（{grad_quota}）"
+              f"—— 超出的补不回来，如实记进 session")
+    if args.scope == "both" and not pool_g and not grad_g and (pool_used or grad_used):
+        if (pool and not cap_left) or (grd and not grad_left):
+            print("★★ **今天的配额已经出完** ⇒ ⛔ 没有新组可出（§3.5 配额按当天算）")
+        else:
+            print("★★ 今天到期的都已经出完 ⇒ 没有新组可出")
 
-    gno = 0
-    for name, gs in (("在池组", pool_g), ("复检组", grad_g)):
+    gno = top                                         # ★ 接着今天已出过的组号往下编
+    for name, q_key, gs in (("在池组", "pool", pool_g), ("复检组", "grad", grad_g)):
         if not gs:
-            print(f"\n── {name} ── 空（队列里没有到期的）")
+            left = cap_left if q_key == "pool" else grad_left
+            due_q = pool if q_key == "pool" else grd
+            why = ("今天的配额已经出完" if due_q and not left and (pool_used or grad_used)
+                   else "队列里没有到期的")
+            print(f"\n── {name} ── 空（{why}）")
             continue
         for bk in gs:
             gno += 1
             tag = f"第 {gno} 组"
             ncond = sum(len(q) for q in bk)
             print(f"\n── {name} · {tag}（**{len(bk)} 题 / 覆盖 {ncond} 条**）"
-                  + ("　✅ 已 used" if tag in done else "") + " " + "─" * 20)
+                  + " " + "─" * 20)
             for qi, q in enumerate(bk, 1):
                 if len(q) > 1:
                     print(f"  [{qi}] 打包 · " + " ".join(f"#{e.num}" for e in q)
@@ -3336,7 +3422,7 @@ def cmd_pick(args):
             if not args.dry:
                 append_drawn("\t".join(
                     [today, tag, "抽",
-                     ",".join(str(e.num) for q in bk for e in q)]))
+                     ",".join(str(e.num) for q in bk for e in q), QUEUE_TAG[q_key]]))
 
     print("\n" + "─" * 78)
     print("⛔ 每一题都要**换场景新写**题面（§6①）：先跑 `lab.py prompts N N N` 看种子与已发过的，"
