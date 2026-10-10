@@ -2451,7 +2451,7 @@ for pricing`（✔ 用得准），并当场点名「**建一个条目，我老�
   客观作用 ⇒ serve as ✔；主观评价 ⇒ be regarded as ✔ ⇒ 复检通过。同句 initiative 她点名要学 ⇒ 另建 #0571。
 
 ## #0430 系动词不总是 be —— remain ／ serve as ／ prove ／ stay
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 "A 是 B"不必永远写成 `A is B`。这几个动词都能坐在系动词的位子上，**各带一层额外的意思**：
@@ -2518,9 +2518,11 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
 - 2026-09-13 📋D4 复习日 C6·组4 第 6 题（顺带用对，🎓 不变）
   她写 `the response time of customer support **has stayed consistent**` —— 系动词位子上用了 stay
   （本条成员之一），后面接形容词、形态与论元都对。本条今天组3 刚 🎓，这是毕业当天的自发复用留痕。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 3 题
+  她写 `the subway remains the preferred mode of commuting …; the old station currently serves as a temporary exhibition hall, and the newly opened line has proven consistently punctual …` —— 三处都没用 is/are。
 
 ## #0431 extend beyond ＋ 名词 ＝ 不止于、超出…的范围
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2580,6 +2582,8 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   两处框架全对：extend **beyond**（不及物，far 加在 beyond 前面加强，⛔ 没多一个 to）· be not limited **to** ＋ 动名词。
   换了场景（09-04 是规定的影响／学校的责任）⇒ 毕业。
   ⚠️ 顺带 `the art circle` 是中文「艺术圈」的直译硬编块 ⇒ 判 △、另建 **#0508**，⛔ 不影响本条的 ✅。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 4 题
+  她写 `The impact of this rainstorm extends far beyond agriculture, and the work of the rescue team is not limited to evacuating residents.` —— extend beyond ＋ 名词、limited to ＋ -ing 都对。
 
 ## #0432 投身／从事一族：engage in ／ pursue ／ devote oneself to ／ take up
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
@@ -22059,7 +22063,7 @@ workable　　 **这套方案能不能跑起来**（偏方案／安排，口语�
   中文块「（这个国家的）移民人口」⇒ 她写 `the immigrant population` —— 方向对 ✔。
 
 ## #0408 范围 ＝ scope
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22113,6 +22117,8 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   ★ 09-01 建号后第一次被测就中。⇒ 与 #0030（beyond the scope of）交叉引用仍然成立。
 - 2026-09-13 ✅D4 复习日 C6·组2 第 5 题②（词组题）　**连对 2 ⇒ 🎓**
   中文块「（这份报告的）范围」⇒ 她写 `the scope of this report` —— 块与 of 都对（⛔ 不是 range／extent／coverage）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 5 题 a（词组题）
+  中文块「（这次调查的）范围（只覆盖三个城市）」⇒ 她写 `the scope of this survey` ✔。
 
 ## #0410 日均负荷 ＝ average daily load
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
@@ -22175,7 +22181,7 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   「（这台服务器的）日均负荷」⇒ `the average daily load (of this server)` ✔（average 在、load 不是 workload）⇒ 🎓 rc0 → rc1。
 
 ## #0411 评审组 ＝ a review panel
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22215,6 +22221,8 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
 - 2026-09-13 ✅D4 复习日 C6·组2 第 5 题③（词组题）　**连对 2 ⇒ 🎓**
   中文块「评审组（为这次评选临时组成的一组人）」⇒ 她写 `a review panel` —— 对。
   ★ 题面里「临时组成」那半话是 panel／committee 的分界，没把她推到 committee 去。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 5 题 b（词组题）
+  中文块「（基金申请的）评审组」⇒ 她写 `the review panel for fund applications` ✔。
 
 ## #0412 T1 流程题的物料词 —— scraps ／ pellets ／ by-product ／ residue
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 词组
@@ -22366,7 +22374,7 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   under 这一格仍归本条，两条交叉引用。
 
 ## #0415 运营主管 ＝ operations manager
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22420,9 +22428,12 @@ training duties` —— 块完全正确，并当场括注**「这个需要背一
 - 2026-09-13 ✅D4 复习日 C6·组2 第 5 题⑦（词组题）　**连对 2 ⇒ 🎓**
   中文块「运营主管（新来的那位）」⇒ 她写 `operations manager` —— 块对，定语位的 operations 保持复数
   （⛔ 不是 operation manager ＝ 手术主管）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 5 题 c（词组题）
+  中文块「（这家酒店的）运营主管」⇒ 她写 `the operations director for this hotel` —— operations 定语位复数 ✔（本条考点）。
+  △ 不记号：主管 ⇒ manager 更贴，director 是总监一级。
 
 ## #0416 作品集 ＝ a portfolio
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22468,9 +22479,11 @@ portfolio` —— 词与冠词都正确，并当场括注**「这要背」**（�
   加的形容词，搭配也成立（a strong／impressive portfolio 同档）⇒ **连对 1**。
 - 2026-09-13 ✅D4 复习日 C6·组3 第 8 题①（词组题）　**连对 2 ⇒ 🎓**
   中文块「作品集（要看成品的那种求职材料）」⇒ 她写 `portfolio` —— 字面对（⛔ 不是 works collection／CV）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 5 题 d（词组题）
+  中文块「（申请艺术学院要交的）作品集」⇒ 她写 `an application portfolio` ✔。
 
 ## #0417 凭着（一个好凭据）＝ on the strength of
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22538,6 +22551,9 @@ portfolio` —— 词与冠词都正确，并当场括注**「这要背」**（�
 - 2026-09-13 ✅D4 复习日 C6·组1 第 6 题⑧（词组题）　**连对 2 ⇒ 🎓**
   中文块「凭着一份漂亮的成绩单」⇒ 她写 `on the strength of an impressive academic record` —— 三个零件 on／the／strength 齐、整块翻了（09-12 只答 portfolio 的那一格翻身；题头加了「整块翻，块里有几个词就翻几个词」）。
   后面接的名词块⛔ 不在判定范围（契约⑬）。⇒ 连对 1 → 2 ⇒ 🎓（09-12 的 ◎− 不算读数，有效的两次 ✅ 是 09-07 与今天）。
+- 2026-10-10 ❌ C9 D4 复习日 复检组2 第 5 题 e（词组题）
+  中文块「凭着多年的一线经验（整个块都要翻）」⇒ 她答「忘了」—— **调不出** `on the strength of years of frontline experience`。
+  当场给回：on ／ the ／ strength（单数）三个零件，后面接对你有利的凭据。🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0418 实地走访 ＝ a site visit ／ a field visit
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -22731,7 +22747,7 @@ portfolio` —— 词与冠词都正确，并当场括注**「这要背」**（�
   ⚠️ 同题她点名 unanimous 要学（老想用 consistent）⇒ 另建 #0561。
 
 ## #0421 开创者／先驱 ＝ a pioneer（of ＋ 领域）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22783,6 +22799,8 @@ portfolio` —— 词与冠词都正确，并当场括注**「这要背」**（�
   ⚠️ a／the 不判（契约⑬）；只在三版对照块里提醒了一句：第一次提到某人时通常是 `a pioneer of…`。
 - 2026-09-13 ✅D4 复习日 C6·组3 第 8 题②（词组题）　**连对 2 ⇒ 🎓**
   中文块「现代建筑的开创者」⇒ 她写 `the pioneer of modern architecture` —— 块与介词 of 都对（⛔ 不是 founder／creator）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 5 题 f（词组题）
+  中文块「（人工智能领域的）先驱」⇒ 她写 `a pioneer in the field of artificial intelligence` —— pioneer ＋ in 成立 ✔。
 
 ## #0422 读者群／读者数 ＝ readership（不可数集合名词）
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08 ｜ 题型 词组
@@ -23224,7 +23242,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0428 「目标」一族：aim ／ goal ／ objective ／ purpose（＋ 形容它的那三个词）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -23305,9 +23323,11 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   第三处 `three specific objectives`（可逐条核对那一档 ＋ 复数）也对 ⇒ 毕业。
   ⚠️ 只进更好版、⛔ 不记错：① 同句里 objective 用了两次（第一处换 aim 更分得开）· ② `the essential requirement
   　 without which the mission fails` 把题面括号里的解释又翻了一遍（翻译腔），`what is truly essential is …` 更贴中文。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 1 题
+  她写 `The primary aim of this reform is …, while its fundamental purpose is …; additionally, the hospital has set three quantifiable objectives.` —— aim ／ purpose ／ objectives 三处没串。
 
 ## #0429 「让人们生活得更好」一族 —— 别再写成 people living
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文的「提升生活质量／让人们生活得更好／改善民生」，英文有一排现成的说法，
@@ -23317,7 +23337,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
 **improve／raise living standards**　生活水平（★ 固定复数 standards）
 **enhance people's well-being**　　福祉（well-being 不可数，带连字符）★ 她这次自发用对
 **make people's lives easier ／ better**　最口语、也最省
-**lift people out of poverty**　　　脱贫（固定块）
+**lift people out of poverty**　　　脱贫（固定块）—— 主动 lift sb out of poverty ／ 被动 be lifted out of poverty；宾语是人或家庭，⛔ ~~lift poverty~~（2026-10-10 补）
 **improve public welfare**　　　　 民生／公共福利（welfare 不可数）
 ```
 ⚠️ 动词的档位：**improve** 最中性 · **enhance** 偏正式（配抽象名词）· **raise** 只配"水平／标准"
@@ -23378,6 +23398,10 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   **life** significantly **easier** for commuters; the next priority will be enhancing overall public **welfare**.`
   三个空格成员同时落地：① improve the quality of life · ④ make sb's lives easier · ⑥ improve／enhance public welfare
   （welfare 不可数、零冠词 ✔）⇒ 毕业。★ 建号时她自述的毛病（一整篇 `people living`）今天一次都没出现。
+- 2026-10-10 ✅ C9 D4 复习日 复检组2 第 2 题
+  她写 `the living standards of villagers … have improved markedly, with over a thousand households lifted out of poverty; … a flagship project to improve public welfare.` —— 三个固定块都对，⛔ 没出现 people living。
+- 2026-10-10 📝 C9 D4 复习日 复检组2 第 2 题（她点名 lift 的用法 ⇒ 归入，⛔ 不推进）
+  她在 `lifted(这个动词的用法学下) out of poverty` 处括注要学 lift 的用法 —— 就是本条成员 ⑤；正文成员表 ⑤ 补「主动 lift sb out of poverty ／ 被动 be lifted out of poverty，宾语是人或家庭」。
 
 ## #0433 动机与"多种多样"一族：motives ／ reasons ／ a variety of ／ a multitude of
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句

@@ -2235,6 +2235,48 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   ⚠️ 同题主考点 #0465 ✅（turnover ／ vacancy rate ／ headcount）。
   △ 不记号：「总部的对策」⇒ `headquarters' response` 更顺。
 
+## #0575 「头号／重点（工程、产品、门店）」＝ flagship
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**flagship**　（一个机构里）最重要、最拿得出手的那一个 —— 放在名词前当定语
+　`a **flagship** project`（头号工程）· `the company's **flagship** store`（旗舰店）· `its **flagship** product`（主打产品）
+同一格的邻居：**signature**（招牌：signature dish ⇒ **#0535**，偏"代表性特色"）· **key**（重点，最通用）· **landmark**（标志性的）
+⚠️ 拼写：flag-ship（一个词，⛔ ~~flag ship~~）
+判据（词组题）：flagship 调得出来就算对；写 key ／ major 判 △（成立，但不是本条要调的块）
+```
+**找法**：中文「头号／重点／旗舰（工程、店、产品）」⇒ flagship ＋ 名词。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组2 第 2 题（主考点 #0429，命中 ✅）。中文「县政府把它当作改善民生的头号工程」，
+她自己写出 `regards it as a **flagship** project to improve public welfare`，并当场括注 **「这个词背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "flagship" "showcase"   ⇒ **零命中**
+② 规则查  dedup "旗舰" "头号" "标志性"   ⇒ 命中 #0474 #0535
+逐条否掉：
+  #0474（受益者 ＝ a beneficiary）—— 「头号」只是那条例句里的字样 ⇒ 问1 不成立 ⇒ 否
+  #0535（招牌 ＝ signature）—— 问2 要分两句话讲：signature 是"代表性特色"（招牌菜），flagship 是"一个机构里最重要的那一个"（头号工程／旗舰店）⇒ 否；问3：会 signature 不会自动调出 flagship ⇒ 否；交叉引用
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：放在名词前的固定定语、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`a flagship project`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（这家品牌在上海的）旗舰店
+（这所大学的）王牌专业
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组2 第 2 题（顺带用对）
+  她写 `the county government regards it as a **flagship**(这个词背下) project to improve public welfare` —— 词义、位置都对。
+  ⚠️ 同题主考点 #0429 ✅（living standards ／ poverty ／ welfare）。
+
 ---
 
 # F09 时态/体
