@@ -2885,6 +2885,218 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   当场给回：`congestion on the ring expressway has not eased noticeably`。
   ⚠️ 同题主考点 #0468 ✅（traffic restrictions ／ congestion on）。
 
+## #0590 「（主动）争取机会、寻找机会」＝ seek opportunities（⚠️ 与 secure 分工）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**seek ＋ 名词**　（主动）去找、去争取（还没到手，动作在进行）—— 正式，及物、直接带宾语
+　`actively **seek** new opportunities` · `**seek** advice／help／employment／compensation`
+　过去式 **sought**（⛔ ~~seeked~~）
+⚠️ seek 直接带宾语：⛔ ~~seek for opportunities~~（书面里多余）
+同一格的邻居：
+　**secure**　争取**到手**（结果）：`secure a place／funding／the right to vote`（⇒ **#0233**）
+　**look for**　找（口语，最中性）· **pursue**　追求（目标、事业：pursue a career）
+```
+**判据（一句话）**：还在找、在努力 ⇒ seek；已经拿到手 ⇒ secure。
+**找法**：中文「争取／寻找（机会、帮助、工作）」先问一句 —— 是还在找，还是已经拿到？前者 ⇒ seek。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组9 第 2 题（主考点 #0278，命中 ✅）。中文「她只是积极争取机会」，
+她自己写出 `she was merely actively **seeking opportunities**`，并当场括注 **「这个词组学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "seek" "opportunit"   ⇒ seek 命中 #0278 #0456 #0144；opportunit 命中 #0079
+② 规则查  dedup "争取"                ⇒ 命中 #0233 #0278
+逐条否掉：
+  #0233（保障权利 ↔ 争取权利：secure ＝ 争取到手）—— 那条管"争取**到**"（结果），本条管"去争取"（过程）；
+    掌握 secure 不会让 seek 自动出来 ⇒ 问3 不成立 ⇒ 否；交叉引用
+  #0278（proactive／reactive ＋ 四个"主动地"）—— 正文例句 `actively seek new opportunities` 里的字样；那条考的是副词 actively ⇒ 问1 不成立 ⇒ 否
+  #0456（seek redress）#0144 #0079（job opportunities）—— 字样 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①②：块里有动词，且要在 seek ／ secure 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她这次写对了（`actively seeking opportunities`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+毕业后她一直在积极寻找出国工作的机会，去年终于拿到了一份海外的录用通知。
+（★ 两处分别用 seek ／ secure —— 形态与时态自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 2 题（顺带用对）
+  她写 `whereas she was merely actively **seeking opportunities**(这个词组学下)` —— seek 直接带宾语，对。
+  ⚠️ 同题主考点 #0278 ✅（deliberately ／ actively）。
+
+## #0591 「公司章程」＝ the company's articles of association
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**the articles of association**　公司章程（英式；常复数、前面带 the）
+　`under the company's **articles of association**`（按照公司章程）· `amend the **articles of association**`（修改章程）
+美式对应：**the bylaws**（公司内部章程）
+⚠️ 别的组织的"章程"：**the constitution**（of a club／an association）· **the charter**
+⚠️ 两处让它更顺：
+　① 所有格前置：`the company's articles of association`（⛔ 不必写成 the articles of association of the company）
+　② 法律文书里"按照章程"常用 **Under**（比 According to 更像条文）
+判据（词组题）：articles of association 调得出来就算对
+```
+**找法**：中文「公司章程」⇒ the company's articles of association；「按照章程」⇒ under the articles。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组9 第 7 题（主考点 #0497，命中 ✅）。中文「根据公司章程」，
+她写 `According to **the articles of association of the company**`，并当场括注 **「我觉得这个翻译的不好，学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "articles of association" "bylaw"   ⇒ **零命中**
+② 规则查  dedup "章程"                              ⇒ 命中 #0497
+逐条否掉：
+  #0497（shall ／ should ／ must）—— 「章程」只是那条题面字样（合同规章里的应当）⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她的：`According to the articles of association of the company` —— 选词对、成立；她自己觉得不顺。
+更顺：`**Under the company's** articles of association` —— 所有格前置 ＋ 法律文书用 under。
+
+**中文触发点**
+```
+修改公司章程
+（新股东必须遵守的）公司章程
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 7 题（顺带）
+  她写 `According to the articles of association of the company(我觉得这个翻译的不好，学下), the board of directors shall convene …` ——
+  articles of association 选词对；更顺的是 `Under the company's articles of association`（所有格前置 ＋ under）。
+  ⚠️ 同题主考点 #0497 ✅（shall ／ should）。
+
+## #0592 「召开（会议）／开会」＝ convene
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**convene**　（正式）召开、召集；也可以**不及物** ＝（委员会、董事会）开会
+　及物：`**convene** a meeting／a panel／an inquiry` · `The chairman **convened** an emergency meeting.`
+　不及物：`The board **shall convene** at least twice a year.`（主语是开会的那群人）
+同一格的邻居：**hold** a meeting（最中性：召开、举行）· **call** a meeting（发起、通知开会）· **meet**（不及物：The committee meets monthly.）
+⚠️ 拼写：con-vene（⛔ ~~convine~~）
+```
+**判据（一句话）**：正式文书里"召开／开会" ⇒ convene；一般叙述 ⇒ hold ／ meet。
+**找法**：中文「召开（会议）」在正式文书里 ⇒ convene ＋ 会议；「（某机构）开会」⇒ 机构 ＋ convene。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组9 第 7 题（主考点 #0497，命中 ✅）。中文「董事会每年须至少召开两次会议」，
+她自己写出 `the board of directors shall **convene** at least twice a year`，并当场括注 **「这个单词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "convene"   ⇒ **零命中**
+② 规则查  dedup "召开"      ⇒ **零命中**
+③ 眼过    list --fam F08    ⇒ 本族没有讲"开会／召开"的条目
+逐条否掉：无候选可否 —— 三条全部零命中。
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 及物／不及物两种用法只在句子里分得出）。
+```
+
+**我错在哪**
+她这次写对了（`shall convene`，不及物、主语是董事会），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+董事长昨晚紧急召开了一次会议；按照规定，委员会每个季度要开一次会。
+（★ 两处都用 convene —— 一处带宾语、一处不带，形态自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 7 题（顺带用对）
+  她写 `the board of directors shall **convene**(这个单词学下) at least twice a year` —— 不及物用法对。
+  ⚠️ 同题主考点 #0497 ✅（shall ／ should）。
+
+## #0593 「打消（疑虑、误解、担心）」＝ dispel
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**dispel**　打消、消除（疑虑、担心、误解、谣言）—— 及物，宾语是**那个疑虑本身**
+　`**dispel** her doubts／concerns／fears` · `**dispel** the myth that …` · `**dispel** rumours`
+　过去式 dispelled（双写 l）
+⚠️ 宾语是"想法"，⛔ 不是人：⛔ ~~dispel her~~ —— 想让"人"放心 ⇒ **reassure** her（⇒ **#0587**）
+同一格的邻居：**allay** fears／concerns（缓解担心，更正式）· **ease** her worries · **clear up** a misunderstanding
+```
+**判据（一句话）**：消除的是想法（疑虑、误解、谣言）⇒ dispel；安抚的是人 ⇒ reassure。
+**找法**：中文「打消／消除（顾虑、误会、谣言）」⇒ dispel ＋ 那个顾虑。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组9 第 8 题（主考点 #0500，命中 ✅）。中文「打消了她的顾虑」，
+她自己写出 `A single brief conversation **dispelled** her concerns`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "dispel"          ⇒ **零命中**
+② 规则查  dedup "打消" "顾虑"      ⇒ 命中 #0587 #0163
+逐条否掉：
+  #0587（appease ／ reassure ／ comfort ＝ 安抚"人"）—— 那条的宾语是人，本条的宾语是疑虑本身；
+    reassure her ≠ dispel her doubts，掌握一个不会让另一个自动对 ⇒ 问3 不成立 ⇒ 否；交叉引用
+  #0163（语义反转）—— 「顾虑」只是字样 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— 宾语挂什么只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`dispelled her concerns`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+医生耐心的解释打消了家长们对这种疫苗的顾虑。
+（★ 必须出现 dispel —— 形态自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 8 题（顺带用对）
+  她写 `A single brief conversation **dispelled**（这个词学下) her concerns` —— 宾语是顾虑本身，对。
+  ⚠️ 同题主考点 #0500 ✅（a single ／ a second ＋ 名词）。
+
+## #0594 「走过场、只是个形式」＝ a (mere) formality
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**a formality**　走个形式、例行手续（结果早定了，只差这一步）
+　`The interview was **just a formality**.` · `**a mere formality**`
+　复数 **formalities** ＝ 手续：`complete the customs **formalities**`（办完海关手续）
+同一格的邻居：**go through the motions**（敷衍着做，动词块）· **a box-ticking exercise**（为了打勾而做的形式主义）
+判据（词组题）：a formality 调得出来就算对；写 box-ticking 判 △
+```
+**找法**：中文「走过场／只是个形式」⇒ (just) a formality；「（各种）手续」⇒ formalities。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组9 第 8 题（主考点 #0500，命中 ✅）。中文「第二次面试则完全是走过场」，
+她自己写出 `a second interview, however, was entirely **a formality**`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "formality"          ⇒ **零命中**
+② 规则查  dedup "走过场" "形式"        ⇒ 走过场命中 #0355；形式命中 #0043 #0079 #0107 #0140 #0248 #0400 …
+逐条否掉：
+  #0355（四个"法定·强制"）—— 「走过场」是 obligatory 那一行的释义字样 ⇒ 问1 不成立 ⇒ 否
+  「形式」命中的一批 —— 都是"词形／句式形式"里的字样 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`was entirely a formality`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（结果早就内定了，这轮面试）只是走个过场
+（入境时要办的）各种手续
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 8 题（顺带用对）
+  她写 `a second interview, however, was entirely **a formality**(这个词学下)` —— 块对。
+  ⚠️ 同题主考点 #0500 ✅（a single ／ a second ＋ 名词）。
+
 ---
 
 # F09 时态/体

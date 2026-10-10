@@ -9955,7 +9955,7 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
   　 ⇒ 两者可独立取值 ⇒ #0348 不并入本条。
 
 ## #0278 proactive / reactive 这一对，以及"主动地"的四个词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F06
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F06
 
 **成员出题账**
 ```
@@ -9965,7 +9965,7 @@ a **guaranteed** path      ＝ a path that is guaranteed to work
                 ★ 两次都被关系从句绕开 —— 这一对的"负面那半边"是真正没练到的
                 **2026-09-20 组1 第 6 题 ⇒ ✅ 第一次真正落地**（`regulatory authorities are often reactive`）——
                 　 题面加死「两处都必须填一个形容词，⛔ 不许改写成 who／that 从句」之后，绕不过去了
-③ proactively / actively / deliberately / consciously　四个副词一个都没出过
+③ proactively / actively / deliberately / consciously　—— 2026-10-10 复检组9 第 2 题（备用题面）⇒ `deliberately avoided` · `actively seeking opportunities` ✅（deliberately ／ actively 第一次被出题；proactively ／ consciously 仍未出过）
 ```
 
 **问题是什么**
@@ -10049,6 +10049,8 @@ consciously   自觉地、清醒地（意识维度）      `**consciously** limi
   ★ **本次题面按 §6 修正**：档案里存的「两处都必须填一个形容词」是**形态描述**（§6 禁）⇒ 改成直接给 proactive ／ reactive 两个词，位置与形态仍留给她。
   ⚠️ 同句 `remains **consistently** reactive` 是 #0320 的成员③ —— 组1 被点名用对，本组**不被点名自己用出来** ⇒ 📋。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 2 题（备用题面）
+  她写 `He was not forced but deliberately avoided this topic, whereas she was merely actively seeking opportunities` —— ③ deliberately ／ actively 两个副词第一次被出题，分工对。
 
 ## #0333 in-house 一族：自己做 vs 外包，形容词与副词同形
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F06
@@ -13838,7 +13840,7 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   upon ＋ 名词 正是本条 on／upon ＋ 名词 那一格 ⇒ 补固定块 upon contact with 进正文，⛔ 不另建号。答她：upon 是介词，这里的 contact 是名词 ⇒ 原形。
 
 ## #0500 动作做主语的另一条路：名词块（a single application）而不是动名词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 一个动作要当主语，英文有两条路：
@@ -13906,6 +13908,8 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   她写 `**A single downtime incident** can result in a loss of …` —— `a single ＋ 名词块` 做主语，正是本条那条路。
   ★ 组2 第 5 题刚被点名测过（当天毕业），本组**不被点名自己用出来** —— 与 #0495 同形。
   ⚠️ 本条今天已结算 ⇒ 只留痕、⛔ 不推进 streak。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 8 题
+  她写 `A single brief conversation dispelled her concerns; a second interview, however, was entirely a formality.` —— 两句主语都是 a single ／ a second ＋ 名词。
 
 ---
 
@@ -16141,7 +16145,7 @@ benefit  最中性最通用，说"好处"用它最安全
   return **on** ＋ 那笔投资 ✔（08-22 塌的是 profit of）⇒ 复检通过。failling 手滑豁免。
 
 ## #0294 be reserved for ＝ 只留给（不是"预订"）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -16225,6 +16229,8 @@ be open to        对…开放（相反方向）        be available to     对�
   　 ⇒ 改成直接给 lemma `reserve`，形态（被动）与介词（for）仍留给她，考点⛔ 没泄漏。
   ⚠️ 一处进更好版（不算错）：`on Monday morning` → `on Monday **mornings**`（中文说的是一条长期安排 ⇒ 英文"每逢周几"用复数）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 3 题
+  她写 `The parking spaces near the entrance of the parking lot are reserved exclusively for pregnant women …` —— 被动 ＋ for，没退回 only for。
 
 ## #0295 shaped by / grounded in / based on / rooted in ＝ "建立在…之上"
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-31 ｜ 族 F08
@@ -20081,7 +20087,7 @@ fashion **aesthetic**`，并当场括注**「本来想用 styles，强迫用 aes
   两个 to 都是自己补的、后面都接 名词 ＋ -ing ✔ ⇒ 复检通过。
 
 ## #0371 「各自的／不同的」一族：respective ／ respectively ／ distinct ／ separate ／ their own
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08
 
 **问题是什么**
 中文一个「各自的／分别／不同的」，英文是**四个词类不同的东西**，⛔ 位置完全不能换：
@@ -20196,6 +20202,8 @@ various ／ diverse   "各种各样的"（说**多样性**，不是"各自的"�
   题面「这两个国家各有各的铁路系统，人口分别是 800 万和 1200 万。（★ 两处分别用 their own ／ respectively）」
   她写 `These two countries have **their own** railway systems, with populations of eight million and twelve million, **respectively**.` ⇒ 复检通过。
   同句 populations of … 顺带用对 #0372（📋，见那条）。
+- 2026-10-10 📋 C9 D4 复习日 复检组9 第 2 题（顺带用对 · 她点名要学 distinct ⇒ 归入本条成员 ③）
+  她写 `two distinct(这个学下) matters altogether` —— 截然不同 ⇒ distinct，对。她点名要学的就是本条的成员 ③，⛔ 不另建号。
 
 ## #0374 「接受／吸收／采纳」一族：embrace ／ adopt ／ absorb ／ take on
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08
@@ -25897,9 +25905,11 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ⚠️ 她这次**写对了** ⇒ 按 §3.5 B5 记 📝 留痕，**⛔ 不推进 streak**（§3.5 A 第三种：只是把老条目适用范围说清 ⇒ 连对连错不动）。
 - 2026-10-10 ✅ C9 D4 复习日 复检组8 第 8 题 c·d（词组题，本条占 2 个块）
   c「董事会主席」⇒ `Chairman of the Board` ✅ · d「（他被选进了）董事会」⇒ `the board` ✅
+- 2026-10-10 📋 C9 D4 复习日 复检组9 第 7 题（顺带用对）
+  她写 `the board of directors shall convene …` —— 董事会 ⇒ the board of directors，对。
 
 ## #0485 「…的那天」＝ the day of ＋ 名词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文「出院那天／面试那天／截止那天」，英文有两条路，**看后面挂的是名词还是句子**：
@@ -25922,8 +25932,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **成员出题账**
 ```
 ① the day of ＋ 动作名词（discharge ／ arrival）—— 2026-09-10 组1 第 1 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要学
-② the day (that/when) ＋ 一整句　—— 2026-09-12 组1 第 1 题题面「通知寄到的那天」⇒ ✅（`on the day the notice arrived`）
-③ on the day of ＋ 名词　　　　　—— 2026-09-12 组1 第 1 题题面「面试那天」⇒ ✅（`on the day of her interview`）／ 2026-09-21 组1 第 1 题题面「体检那天」⇒ ✅（`on the day of his physical examination`）
+② the day (that/when) ＋ 一整句　—— 2026-09-12 组1 第 1 题题面「通知寄到的那天」⇒ ✅（`on the day the notice arrived`）／ 2026-10-10 复检组9 第 4 题「合同签好的那天」⇒ ✅（`on the day the contract was signed`）
+③ on the day of ＋ 名词　　　　　—— 2026-09-12 组1 第 1 题题面「面试那天」⇒ ✅（`on the day of her interview`）／ 2026-09-21 组1 第 1 题题面「体检那天」⇒ ✅（`on the day of his physical examination`）／ 2026-10-10 复检组9 第 4 题「搬家那天」⇒ ✅（`on the day of the relocation`）
 ④ the day before ／ after　　　　—— 2026-09-21 组1 第 1 题题面「结果出来的前一天」⇒ ✅（`the day before the results came out` —— 后面挂的是一整句，⛔ 没带 of）
 ```
 
@@ -25981,6 +25991,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ★ 成员④ the day before（建号以来第一次出）落地，账已补。
   ⚠️ 一处进更好版（不算错）：`did not eat any breakfast` → `skipped breakfast altogether`（一个动词说完"一口都没吃"）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 4 题
+  她写 `Heavy rain began on the day of the relocation, whereas on the day the contract was signed, the landlord handed over the keys to us.` —— the day of ＋ 名词 ／ the day ＋ 一整句（没带 of）都对。
 
 ## #0486 「违规／不合规」一族：non-compliant ／ in breach of ／ breach ／ violate
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 整句
@@ -26172,7 +26184,7 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   「客服人员」⇒ `customer service staff` ✔（-er 在）⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0490 上任 ＝ take office 一族
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -26193,10 +26205,10 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
 
 **成员出题账**
 ```
-① take office　—— 2026-09-10 组3 第 6 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要学 ／ 2026-09-12 组1 第 3 题题面「上任才三个月」⇒ ✅（`after taking office`）
+① take office　—— 2026-09-10 组3 第 6 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要学 ／ 2026-09-12 组1 第 3 题题面「上任才三个月」⇒ ✅（`after taking office`）／ 2026-10-10 复检组9 第 5 题 ⇒ ✅（`after taking office`）
 ② in office ／ hold office　—— 2026-09-12 组1 第 3 题题面「在任期间」⇒ ✅（`while in office`）
 ③ step down ／ leave office —— 2026-09-21 组1 第 3 题题面「因为健康原因辞职了」⇒ ✅（`stepped down last year`，不及物、⛔ 没接宾语）
-④ be sworn in　—— 未出过　★ 优先测
+④ be sworn in　—— 2026-10-10 复检组9 第 5 题 ⇒ `was sworn in in January` ✅（第一次被出题）
 ⑤ be appointed (as) ／ be elected —— 2026-09-21 组1 第 3 题题面「今年三月才被任命的」⇒ ✅（`was appointed only in March`）
 ```
 
@@ -26246,6 +26258,8 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   ③ step down（不及物、⛔ 没写成 step down the job）与 ⑤ be appointed（被动形态对）两个从没出过的成员同题落地 ⇒ 命中，账已补。
   ⚠️ 两处进更好版（不算错）：`due to health reasons` → `for health reasons`（due to 后面本来就该挂原因本身，再接 reasons 是同一层说两遍）· `in March of this year` → `in March this year`。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 5 题
+  她写 `The new president was sworn in in January and signed five executive orders during his first week after taking office.` —— ④ be sworn in 第一次被出题、被动对；① take office 对。
 
 ## #0491 地方行政首长：mayor ／ governor 一族
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -26490,7 +26504,7 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   做事的顺便 ⇒ while I am at it ✔；说话的顺便 ⇒ By the way ✔；读成计划，三处时间平面一致 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0495 「be ＋ 介词 ＋ 零冠词名词」表状态／处境／方式 —— in trouble ／ out of town ／ in groups 一族
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文用**动词**说的状态／处境／方式（遇到麻烦 · 出差在外 · 分组 · 在休假 · 负责），
@@ -26530,10 +26544,12 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
 ④ in charge (of)　　　—— 2026-09-13 组1 第 1 题 题面「负责采购的经理」⇒ ✅（`in charge of procurement`）
 ⑤ on leave ／ at work　—— 2026-09-13 组1 第 1 题 题面「正在休假」⇒ ✅（`was on leave`）
 ⑥ in use ／ in place　 —— 2026-09-13 组1 第 1 题 题面「还在使用」⇒ ✅（`is still in use`）／
-　　　　　　　　　　　　 2026-09-19 组3 第 7 题自发用对 `not yet fully in place`，她括注「背一下」（📝，⛔ 不算测过）★ in place 待点名测
+　　　　　　　　　　　　 2026-09-19 组3 第 7 题自发用对 `not yet fully in place`，她括注「背一下」（📝，⛔ 不算测过）
+　　　　　　　　　　　　 ／ 2026-10-10 复检组9 第 6 题 ⇒ `are all in place` ✅（in place 第一次被出题）
 ⑧ put ／ come into operation · come into force（进入状态那一排，2026-09-19 补）—— 2026-09-19 组3 第 7 题自发用对
-　　　　　　　　　　　　 `has been put into operation`，她括注「背一下」（📝）★ 优先测
-⑦ on the rise ／ at risk ／ in demand —— 未出过
+　　　　　　　　　　　　 `has been put into operation`，她括注「背一下」（📝）
+　　　　　　　　　　　　 ／ 2026-10-10 复检组9 第 6 题 ⇒ `will come into force` ✅（come into force 第一次被出题）
+⑦ on the rise ／ at risk ／ in demand —— 2026-09-21 组2 第 8 题 ⇒ `in demand` · `at risk` ✅（账 10-10 补记；on the rise 仍未出过）
 ⑧ in cash ／ by hand ／ on foot —— 未出过
 ```
 
@@ -26614,6 +26630,8 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   她写 `the operator **on duty**` —— 零冠词固定块。
   ★ **今天第四次自发用出这一族**：组2 被点名（四块全对、当天毕业）→ 组4 `in pairs` → 复检组1 `at will` → 本组 `on duty`。
   ⚠️ 本条今天已结算 ⇒ 只留痕、⛔ 不推进 streak。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 6 题
+  她写 `The new security measures are all in place, and the relevant regulations will come into force on the first of next month.` —— ⑥ in place 与 ⑧ come into force 第一次被出题，零冠词都对。
 
 ## #0496 合同语境的固定块一族：contractor ／ the terms ／ vague
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -26863,7 +26881,7 @@ a settlement　（争端的）和解、了结　`reach a settlement out of court
   ②「一个折中方案（双方各让一步的那种）」⇒ `a compromise solution` ✔ · ③「在价格上妥协」⇒ `compromise on price` ✔（动词 ＋ on）⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0503 汇率 ＝ the exchange rate
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26925,6 +26943,9 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   ★★ **两块都是从没出过的**，而且这正是本条正文里那条规律的检验：**中文的「X 率」⇒ 英文是 the X rate**
   　 —— 她用已经背过的 exchange rate 这一个样本，把没背过的两个推了出来。**今天全档唯一一条在词组题上通过的条目。**
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 10 题 a·b（词组题，本条占 2 个块）
+  a「（人民币兑美元的）汇率」⇒ `the exchange rate between RMB and USD` ✅ · b「（出口企业面临的）汇率风险」⇒ `exchange rate risk` ✅
+  ⚠️ exchange rate 今天复检组 4 第 5 题的订正里见过（当天见过，读数照记）。
 
 ## #0505 流程／程序一族：procedure ／ process ／ protocol ／ step
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
@@ -31698,7 +31719,7 @@ P1 搭配　R · P1
   ⇒ 🎓 不变，rc 0 → **1**。
 
 ## #0213 这个数字随后涨了近百倍，1900 年达到 158 万
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F11 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F11 ｜ 题型 整句
 
 **问题是什么**
 第②类 · 数学未定　不出中译英
@@ -31749,6 +31770,8 @@ P1 搭配　R · P1
   `approximately` ／ `nearly` 把"左右／接近"两个刻度也分开了。
   ⚠️ 同句 `**by** 2000, it **had risen**` 正是 #0519 的规则（by ＋ 过去年份配过去完成）—— 那条今天排在组5，她先自己用对了 ⇒ 📋。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 1 题
+  她写 `By 1975, the number of university students in this country had increased to four hundred and sixty-eight thousand.` —— 46 万 8 千 ＝ 468,000，用英文单词写出也对。
 
 ## #0215 这一时期结束时，只剩五分之一的人住在那里
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F11
@@ -34028,7 +34051,7 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   她写 `This proposal appears perfect on paper, and everyone agrees with it in principle; however, it encounters obstacles everywhere in practice.` —— 三处各就各位。
 
 ## #0504 「继…之后」一族：following ／ in the wake of ／ in the aftermath of ／ after
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F14 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F14 ｜ 题型 整句
 
 **问题是什么**
 中文一个「在…之后」，英文按**要不要暗示因果、事件有多大**分开。四个都是**介词**，后面接名词（块），⛔ 不接从句：
@@ -34058,11 +34081,11 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
 
 **成员出题账**
 ```
-① following ＋ 名词块　　　—— 2026-09-16 组1 第 1 题「这项规定修改之后…」⇒ ✅（`Following the revision of this regulation`）
-② in the wake of　　　　—— 2026-09-16 组1 第 1 题「那场罢工过后…」⇒ ✅（`in the wake of the strike`）
-③ in the aftermath of　 —— 未出过
+① following ＋ 名词块　　　—— 2026-09-16 组1 第 1 题「这项规定修改之后…」⇒ ✅（`Following the revision of this regulation`）／ 2026-10-10 复检组9 第 9 题 ⇒ `Following the introduction of the new regulation` ✅
+② in the wake of　　　　—— 2026-09-16 组1 第 1 题「那场罢工过后…」⇒ ✅（`in the wake of the strike`）／ 2026-10-10 复检组9 第 9 题 ⇒ `in the wake of that earthquake` ✅
+③ in the aftermath of　 —— 2026-09-21 组3 第 2 题 ⇒ `In the aftermath of the accident` ✅（账 10-10 补记）
 ④ after ＋ 名词（对照项）—— 未出过（考"该用中性的那个时不要硬上 following"）
-⑤ subsequent to　　　　 —— 未出过（正式度过高，⛔ 低优先）
+⑤ subsequent to　　　　 —— 2026-09-21 组3 第 2 题 ⇒ `subsequent to the release of the report` ✅（账 10-10 补记；正式度过高，⛔ 低优先）
 ```
 
 **怎么发现的**
@@ -34127,6 +34150,8 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   ⚠️ `resigned **one after another**` 把中文「相继」那一层也送到了。
   ⚠️ `executives` 她当场括注「背一下」⇒ §2③，按 §3.5 A 归入 #0484（⛔ 不新建）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ ⑤ 账已补。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 9 题
+  她写 `Following the introduction of the new regulation, …; in the wake of that earthquake, …` —— 两处后面都只挂名词块。
 
 ---
 
@@ -34975,7 +35000,7 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
   一个 very 都没写，两处各换了一个更有力的说法（同 09-07 的判法）⇒ 复检通过。同句 conspicuous 她点名要背 ⇒ 另建 #0572。
 
 ## #0497 shall ／ should ／ must —— 合同规章里的「应当」不是建议的「应该」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F15 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F15 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -35039,6 +35064,8 @@ really（⛔ 作文不用，见 #0234）＜ very（可用但最弱）＜ extreme
   ⚠️ `should be **notified to** everyone` ⇒ 📋 #0466（`notify sth to sb` 在正式／法律英语里**是合法形状**，⛔ 不判错）。
   ⚠️ 四处进更好版（不算错）：`before starting operations` → `before work begins`（start operations ＝ 开始运营，不是"动工"）· `nevertheless` → `that said`（她并没有推翻前半）· `I consider that` → `I think`（语域）· 改成 `everyone should be notified of this requirement`（notify sb of sth 是主流形状）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组9 第 7 题
+  她写 `… the board of directors shall convene at least twice a year; however, I believe that quarterly meetings should also be open to employee representatives.` —— 规定 shall ／ 建议 should 分对。
 
 ---
 
