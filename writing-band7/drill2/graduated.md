@@ -3164,7 +3164,7 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0470 the problem with X ／ the problem of X —— 两个介词两个意思
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3223,6 +3223,8 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   她写 `The problem **with** this contract is that the terms are too vague, while the problem **of** overdue wage is not mentioned at all.`
   with ＝ 合同有毛病、of ＝ 拖欠工资本身是问题 ⇒ 她自己配对，两处都对（09-07 给了映射她对，今天不给也对）。
   ⚠️ `overdue wage` → wages ⇒ R2（与本条无关）。⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 4 题
+  她写 `The problem with this new residential area is its distance from the subway station, and the problem of parking difficulty remains unaddressed by the developer.` —— 没给映射，with ／ of 自己配对 ✔。
 
 ## #0477 take sth into account 一族：into ／ of ／ in 三个介词各归各家
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F01 ｜ 题型 整句
@@ -13632,7 +13634,7 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   ⚠️ 她当场括注 `the starting point`「出发点，背一下」⇒ 另建 **#0506**（③，题型 词组）。
 
 ## #0463 `only ＋ 状语` 提到句首 ⇒ 主谓倒装，而且那个状语必须自带介词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -13698,6 +13700,8 @@ for existence.` —— 三个零件齐、主句自带主语、还配了虚拟语
   她写 `**Only in** remote ares **is** this subsidy fully distributed; only two school have this equipment.`
   前半介词 in 在、倒装在；后半 only ＋ 主语没有多余倒装 ⇒ 两条分界全对（`ares` 非词手滑豁免；`two school` 少 -s ⇒ R2，与 09-07 `three department` 同一格）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 2 题
+  她写 `Only on weekends is this museum open to the public free of charge; meanwhile, only two tour guides speak English.` —— only ＋ 介词短语 ⇒ 倒装 ✔；only ＋ 主语 ⇒ 不倒装 ✔。
 
 ## #0498 「一…就」一族：as soon as ／ the moment ／ once ／ no sooner … than（倒装）
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F07 ｜ 题型 整句
@@ -20835,7 +20839,7 @@ specially　　 「**为某个特殊场合／目的特地做的**」—— 强�
   她写 `These seats were specially designed for elderly passengers and are especially needed during the morning peak hours.` —— 专门 specially ／ 尤其 especially 分对。
 
 ## #0386 废弃物处理一族 —— waste disposal ／ waste disposal charges
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -20918,6 +20922,8 @@ specially　　 「**为某个特殊场合／目的特地做的**」—— 强�
   「她 2026-09-13 点名要背 ⇒ 下次复检抽到本条时**点名测这一格**」，**连对连错不动**（仍是 🎓 连对 2）。
   ⚠️ ⛔ 不按 #0415 那个先例新建：那次 `review panel` **不在** #0307 正文里；这次块**已经在**条目里。
   ⚠️ 本条今天已在组5 第 8 题判过 ✅（waste disposal ／ household waste disposal fee）⇒ 同日只结算一次，本行只留痕。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 6 题 b c（词组题，本条占 2 个块）
+  6b「（这座城市的）垃圾处理（系统）」⇒ `waste disposal` ✔ · 6c「（按月收的）垃圾处理费」⇒ `a waste disposal fee` ✔（fee 与 charge 同义）。
 
 ## #0388 「查／追」一族 —— track ／ trace ／ monitor
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 整句
@@ -21648,7 +21654,7 @@ remit　　　　  职权范围（英式，机构语境）：this falls outside 
   「（这款芯片的）量产」⇒ `mass production (of this chip)` ✔（⛔ 没写成 massive）⇒ 🎓 rc0 → rc1。
 
 ## #0399 制造商 ＝ manufacturer
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21701,6 +21707,8 @@ retailer　 零售商　　wholesaler　批发商
   ⛔ 教练全程没给提示、没给答案、没说这块是哪个词 ⇒ 调取是无援的 ⇒ 按 ✅ 记。
   ⚠️ 弱在哪：她多了一轮时间 ⇒ **这是今天最弱的一个读数**。复检队列 3 个练习日后会再问一次（§3.6）。
   ⚠️ 病根在教练的题面：一道词组题塞了 7 块，而 §6.1 默认是「6 个上下」⇒ 见教练侧。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 6 题 d（词组题）
+  中文块「（智能手机）制造商」⇒ 她写 `a smartphone manufacturer` ✔。
 
 ## #0401 「写进法律」与「按…规定」—— 法律条文类的固定块
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
@@ -21891,7 +21899,7 @@ curb　　　　　 **压住、抑制**（不求根除，只求少）　curb inf
   tackle 直接带宾语 ✔；crack down on 的 on 在 ✔ ⇒ 复检通过。同句 bullying 她点名要背 ⇒ 另建 #0569。
 
 ## #0405 官方声明 ＝ an official statement
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -21928,9 +21936,11 @@ curb　　　　　 **压住、抑制**（不求根除，只求少）　curb inf
   中文块「官方声明」⇒ 她写 `official statement` —— 字面对（契约⑬ ⛔ 不判冠词）。
 - 2026-09-13 ✅D4 复习日 C6·组1 第 6 题⑨（词组题）　**连对 2 ⇒ 🎓**
   中文块「官方声明（校方发布的那一份）」⇒ 她写 `official statement` —— 字面对（契约⑬ ⛔ 不判冠词）。换了搭配语境照样调出 ⇒ 毕业。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 6 题 e（词组题）
+  中文块「（航空公司就航班延误发布的）官方声明」⇒ 她写 `an official statement` ✔。
 
 ## #0406 「可行」一族 —— feasible ／ viable ／ practical ／ workable
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 **四个都译"可行"，但问的问题不一样。**
@@ -22003,9 +22013,11 @@ workable　　 **这套方案能不能跑起来**（偏方案／安排，口语�
   三处各就各位：viable ＝ 撑不撑得住（她还自己带了 in the long term，正是它的经济含义）· practical ＝ 方不方便 ·
   workable ＝ 这套安排跑不跑得通。★ 成员 ④ workable **第一次落地** ⇒ 四个成员全部出过 ⇒ 毕业。
   ⚠️ 她当场括注 `compromise`「这个单词背一下」⇒ 另建 **#0502**（③，题型 词组）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 5 题
+  她写 `Building a base on the moon is engineeringly feasible, yet whether it is commercially viable in the long term remains uncertain; enabling ordinary people to travel there is even less practical.` —— feasible ／ viable ／ practical 三处没串 ✔（engineeringly 归 #0368）。
 
 ## #0407 移民 ＝ an immigrant
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22043,6 +22055,8 @@ workable　　 **这套方案能不能跑起来**（偏方案／安排，口语�
   （im- 迁入 ／ e- 迁出），字面对。
 - 2026-09-13 ✅D4 复习日 C6·组2 第 5 题①（词组题）　**连对 2 ⇒ 🎓**
   中文块「新移民（迁进来的那种）」⇒ 她写 `new immigrants` —— 方向没弄反（im- 迁入 ／ e- 迁出），字面对。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 6 题 f（词组题）
+  中文块「（这个国家的）移民人口」⇒ 她写 `the immigrant population` —— 方向对 ✔。
 
 ## #0408 范围 ＝ scope
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08 ｜ 题型 词组
@@ -23074,7 +23088,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0426 逐年／同比 ＝ year-on-year（数据描述里的固定修饰块）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23131,6 +23145,8 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
 - 2026-09-12 ✅D3 学习日 C6·组3 第 7 题①②（词组题，本条占 2 个块）　**连对 2 ⇒ 🎓**
   ①「同比增长 5%（作定语）」⇒ `a 5% year-on-year increase` ✔ 带连字符 · ②「销量同比下降了 5%（作状语）」⇒ `sales fell by 5 percent year on year` ✔ 不带连字符
   ⇒ 条目正文留的暗桩（作状语不带连字符）她自己做对了；`yeaer` 非词手滑豁免。⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 6 题 a（词组题）
+  中文块「（今年一季度销售额）同比（下降了 5%）」⇒ 她写 `year-on-year` —— 两个连字符都在 ✔。
 
 ## #0427 缺口／差额 ＝ a shortfall
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 词组
@@ -24132,7 +24148,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   主考点 #0343（✅）。她写 `her year-end **bonus**` —— 工资以外多发的钱 ⇒ bonus ✔（⛔ 没写成 reward／award）。year-end 另建 #0539。
 
 ## #0454 「原创／新颖」一族：originality ／ novelty ／ creativity ／ innovation
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24209,6 +24225,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `What the judges value is whether the idea is **novel**, rather than whether there is technical **innovation**; her proposal won precisely because of its **original** perspective.`
   novel（形容词）· innovation（名词）· original（形容词）词类与位置全对 ⇒ ④ innovation ＋ ⑤ 形容词那一排落地（拼写那一层 09-07 已零提示 ✅）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 1 题
+  题面「这款游戏的玩法很新颖，可惜画面毫无原创性；玩家想要的是更有创新的关卡设计。（★ 第一处、第三处分别用 novel ／ innovative；中间那处⛔ 不给词）」
+  她写 `The gameplay of this game is novel, yet its graphics lack all originality; what players desire is more innovative level design.` —— originality 零提示拼对；成员 ⑤ innovative 第一次出、命中。
 
 ## #0455 「上市／融资」一族：go public ／ be listed ／ raise capital
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
@@ -24797,7 +24816,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0465 人力指标一族：staff turnover ／ staff shortage ／ vacancy rate ／ headcount
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -24873,6 +24892,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `The hospital saw a drop in staff **turnover** last year, while its nurse **retention** rate remains lower than the national average, and the staffing **shortage** persists.`
   三个中心词全调出（09-06 调不出的 turnover 第二次稳住；⑤ retention 首测落地；② shortage 首次正式测到）。
   📋 顺带：`the national average` 没把"水平"翻进块（#0488 那条的正面证据）。⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组1 第 3 题
+  她写 `The employee turnover at this restaurant chain is high, and the vacancy rate for kitchen positions is also rising; … is to reduce headcount.` —— turnover ／ vacancy rate ／ headcount 三格各就各位。
 
 ## #0468 交通治理词块：traffic restriction ／ congestion on ／ car ownership
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
@@ -33417,7 +33438,7 @@ including ＋ 名词             列举其中几项（不穷尽）　`several co
   to illustrate（未测过的成员）✔ · A case in point is ＋ 名词块、第二个分句用 that 接住 ✔ ⇒ 复检通过。同句 practices 她点名要学 ⇒ 另建 #0549。
 
 ## #0368 「换个角度／限定范围」一族：economically ／ in terms of ／ when it comes to ／ at the … level
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F14
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F14
 
 **问题是什么**
 中文的「在…方面／就…而言／从…角度看」，英文有五条路，**长短与位置都不一样**：
@@ -33425,6 +33446,8 @@ including ＋ 名词             列举其中几项（不穷尽）　`several co
 ① 直接用副词（最省，最不容易机械）★ 首选
    `**Economically**, the trend is positive.` · `**Culturally**, it works the same way.`
    可用的一排：economically · culturally · socially · politically · environmentally · financially
+   ⚠️ 只限**真实存在**的副词（再加 technically · commercially …）；没有现成副词的领域⛔ 别硬造
+   　 （~~engineeringly~~ ⇒ 改走 ④ `from an engineering standpoint`，或换 `technically`）—— 2026-10-10 补
 ② in ＋ 形容词 ＋ terms
    `**In economic terms**, the trend is positive.`　⚠️ terms 永远复数
 ③ in terms of ＋ 名词
@@ -33519,6 +33542,9 @@ including ＋ 名词             列举其中几项（不穷尽）　`several co
 - 2026-10-01 ✅D4 复习日 C8·复检组4 第 5 题
   题面「从环境角度看，这个项目问题不大；至于成本，目前还没有人算得清。（★ 两处分别用 in … terms ／ as for）」
   她写 `**In environmental terms**, this project presents few issues; **as for** the cost, no one can calculate it precisely at present.` ⇒ 复检通过。
+- 2026-10-10 ❌ C9 D4 复习日 复检组1 第 5 题（顺带用错）
+  她写 `Building a base on the moon is **engineeringly** feasible` —— engineeringly 不是现成的词；① 直接用副词只限真实存在的副词，engineering 没有 -ly 形式 ⇒ `feasible from an engineering standpoint`／`technically feasible`。
+  🎓 吃 ❌ ⇒ 当场回潮；正文 ① 补一句「只限真实存在的副词」。
 
 ## #0373 因果链的连接词：thereby ／ in turn ／ consequently ／ as a result
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F14
