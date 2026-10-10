@@ -2523,6 +2523,177 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   她写 `This **orientation**(这个词学下) handbook informs international students …` —— 词义对。
   ⚠️ 同题主考点 #0121 ✅（全篇第三人称）。
 
+## #0582 「低调地、不声张地」＝ discreetly（⚠️ 与「偷偷地」secretly 分工）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**discreetly**　低调地、不声张地、得体地 —— 不想引人注意（常带"体贴、不打扰人"的好意）
+　`The waiter **discreetly** left the bill on the corner of the table.` · `She **discreetly** reminded him of the time.`
+　形容词 **discreet**：`a **discreet** inquiry`（低调地打听）· `be **discreet** about sth`（对某事守口如瓶）
+**secretly ／ covertly**　偷偷地、背着人 —— 瞒着别人做（往往是不该做的事）
+　`The app **secretly** collects users' location data.` · `without users' knowledge`（在用户不知情的情况下）
+⚠️ 形近词：**discreet**（低调的）≠ **discrete**（分立的、离散的：discrete categories）⇒ 副词 discreetly ／ discretely 也各归各
+```
+**判据（一句话）**：是"不想打扰、不想声张"（好意）⇒ discreetly；是"瞒着人干"（多半不光彩）⇒ secretly。
+**找法**：中文「悄悄地／偷偷地」先问一句 —— 是体贴地不打扰人，还是瞒着人干？
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组5 第 3 题（主考点 #0153，命中 ✅）。中文「这款应用不仅耗电，还会偷偷收集用户的数据」，
+她写 `but also **discreetly** collects user data`，并当场括注 **「这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "discreet" "secretly"     ⇒ **零命中**
+② 规则查  dedup "偷偷" "悄悄"              ⇒ 偷偷零命中；悄悄命中 #0126 #0536
+逐条否掉：
+  #0126（中文修饰层丢掉）#0536（rise in price）—— 「悄悄」只是那两条题面里的字样（悄悄涨了两块钱、悄悄关了门）⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ②：要在 discreetly ／ secretly 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她的：`discreetly collects user data` —— 成立（词义说得通、拼写也对），但 discreetly 偏"低调、不打扰"，
+中文「偷偷收集」是瞒着用户 ⇒ `**secretly** collects users' data` 更贴。建号理由是 §2③（她点名要学）。
+
+**中文触发点**
+服务员悄悄地把账单放在桌角，没有打断客人的谈话；后来才发现，那款点餐软件一直在偷偷记录顾客的位置。
+（★ 两处分别用 discreetly ／ secretly）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 3 题（顺带）
+  她写 `This application not only consumes battery power but also **discreetly**(这个词学下) collects user data.` ——
+  成立，但「偷偷收集」更贴的是 secretly（discreetly 带"低调、不打扰人"的好意）。
+  ⚠️ 同题主考点 #0153 ✅（not only … but also 两边都是动词短语）。
+
+## #0583 「（场地、土地）积水的、泡了水的」＝ waterlogged
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**waterlogged**　（场地、土地）积水的、被水泡透的 —— 形容词
+　`The pitch was **waterlogged**.`（球场积水，没法比赛）· `**waterlogged** fields／soil`
+同一格的邻居：**flooded**（被淹，水漫上来）· **soaked／drenched**（人、衣服湿透）
+⚠️ 拼写：waterlogged 连写成一个词（⛔ ~~water logged~~）
+判据（词组题）：waterlogged 调得出来就算对；写 flooded 判 △
+```
+**找法**：中文「（场地、地面、田）积水／泡了水」⇒ waterlogged。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组5 第 6 题（主考点 #0120，命中 ✅）。中文「场地还是积水太深，没法比赛」，
+她自己写出 `the field remained heavily **waterlogged**`，并当场括注 **「这个词学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "waterlog"           ⇒ **零命中**
+② 规则查  dedup "积水" "淹" "flooded" ⇒ 积水零命中；淹命中 #0055；flooded 命中 #0375 #0055 #0498
+逐条否掉：
+  #0055（主谓一致）#0375（投机泡沫一族）#0498（一…就一族）—— 「淹」「flooded」只是那几条例句里的字样
+  （大雨淹了农田 · credit flooded in · complaints flooded in）⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定的单个形容词、无动词、答案唯一；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`remained heavily waterlogged`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（暴雨过后球场）积水严重
+被雨水泡透的（农田）
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 6 题（顺带用对）
+  她写 `the field remained heavily **waterlogged**(这个词学一下), making a match impossible` —— 词义对。
+  ⚠️ 同题主考点 #0120 ✅（even if ／ even though）。
+
+## #0584 「临时（通知得晚、准备时间很短）」＝ at short notice
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**at short notice**（英式）／ **on short notice**（美式）　临时（通知得很晚、留的准备时间很短）
+　`The meeting was cancelled **at short notice**.` · `change a flight **at short notice**` · `**at very short notice**`（非常临时）
+⚠️ 介词：英式 at、美式 on，两个都对，全篇统一（⛔ ~~in short notice~~ ⛔ ~~with short notice~~）
+⚠️ 中文「临时」有两个意思：
+　① 临到时候才（通知晚）⇒ **at short notice** ／ at the last minute
+　② 暂时的、非长期的 ⇒ **temporary ／ temporarily**（a temporary measure）—— 那是另一个词
+判据（词组题）：at／on short notice 调得出来就算对
+```
+**找法**：中文「临时（改、取消、加班）」先问一句 —— 是"通知得晚"还是"暂时的"？前者 ⇒ at short notice。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组5 第 7 题（主考点 #0170，命中 ✅）。中文「临时改签机票」，
+她自己写出 `Rescheduling a flight ticket **at short notice**`，并当场括注 **「这个短语学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "short notice"     ⇒ **零命中**
+② 规则查  dedup "临时"             ⇒ 命中 #0420 #0327 #0342 #0404 #0126
+逐条否掉：
+  #0420（high-risk 复合形容词）#0327（公认的做法）#0342（shift … onto）#0404（serve as 一族）——
+  「临时」只是正文里的字样（临时想 · 临时拼的 · 临时工 · 临时停车场）⇒ 问1 不成立 ⇒ 否
+  #0126（中文修饰层丢掉）—— 题面里的「临时措施」是 ② 暂时义（temporary），本条是 ① 通知晚 ⇒ 否；
+  两个意思的分工写进本条「问题是什么」
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定介副词块、不变形；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`at short notice`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（航班）临时改期
+（老板提前一小时才说的）临时加班
+```
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 7 题（顺带用对）
+  她写 `Rescheduling a flight ticket **at short notice**(这个短语学一下) costs both money and time.` —— 块与介词都对。
+  ⚠️ 同题主考点 #0170 ✅（cost 作动词）。
+
+## #0585 「陷入僵局」＝ reach a stalemate
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**stalemate**　僵局（双方谁也不让、谈不下去）—— 名词
+　`The negotiations have **reached a stalemate**.` · `The talks **ended in stalemate**.` · `The two sides remain **locked in a stalemate**.`
+　打破僵局：`**break the stalemate**／**break the deadlock**`
+动词配 reach ／ end in ／ be locked in ／ break；⚠️ 中文「陷入」直译成 fall into 不常见 ⇒ 用 reach ／ end in
+同一格的邻居：**deadlock**（同义：reach a deadlock）· **impasse**（更正式：reach an impasse）
+⚠️ 与 **#0546**「停下来」分工：standstill ／ halt 是"停住不动"（交通、经济），stalemate 是"双方相持不下"（谈判、争端）
+```
+**找法**：中文「（谈判、争端）陷入僵局／谈不下去」⇒ reach a stalemate ／ end in stalemate。
+
+**怎么发现的**
+2026-10-10　C9 D4 复习日 复检组5 第 10 题（主考点 #0459，命中 ✅）。中文「谈判则……陷入了僵局」，
+她自己写出 `negotiations … have **reached a stalemate**`，并当场括注 **「这个词组学一下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "stalemate" "deadlock"   ⇒ **零命中**
+② 规则查  dedup "僵局" "陷入" "谈判"      ⇒ 僵局零命中；陷入命中 #0546；谈判命中 #0382 #0523 #0530 #0564
+逐条否掉：
+  #0546（come to a halt ／ come to a standstill）—— 那条管"停住不动"，本条管"双方相持不下"；
+    掌握一个不会让另一个自动对 ⇒ 问3 不成立 ⇒ 否；交叉引用
+  #0382（工会）#0523（资深一族）#0530（无懈可击一族）#0564（stance）—— 「谈判」只是例句字样 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 —— reach ／ end in 这些搭配只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`have reached a stalemate`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+两家公司围绕专利费的谈判拖了半年，最后还是陷入了僵局。
+（★ 用 stalemate —— 前面配哪个动词自己定）
+
+### 历史记录
+- 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 10 题（顺带用对）
+  她写 `negotiations between management and the labor union have **reached a stalemate**(这个词组学一下) amid widespread rumors of layoffs` —— 搭配对。
+  ⚠️ 同题主考点 #0459 ✅（among ／ between ／ amid）。
+
 ---
 
 # F09 时态/体

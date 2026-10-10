@@ -4882,7 +4882,7 @@ at the start of the project ✔　at 3 p.m. ✔　—— 只要后面那个东�
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0459 among ／ between ／ amid ——「在…之中」的三个介词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F02 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F02 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -4946,6 +4946,8 @@ at the start of the project ✔　at 3 p.m. ✔　—— 只要后面那个东�
   她写 `**Amid** an ongoing economic slowdown, conflicts **between** management and employees are deepening, and anxiety is spreading **among** young workers.`
   题面顺序（amid → between → among）与括号顺序相反，三个全按宾语性质配对（09-07 是按顺序印出来的练档）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 10 题
+  她写 `This notion is prevalent among young employees, whereas negotiations between management and the labor union have reached a stalemate amid widespread rumors of layoffs.` —— 三个介词各就各位。
 
 ---
 
@@ -4981,7 +4983,7 @@ P3 中式块　R · 挂代号 P3
 </details>
 
 ## #0040 让政府别无选择，只能损害公众利益
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-06 ｜ 族 F03
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F03
 
 **问题是什么**
 P3 中式块＋破碎习语　R · 挂代号 P3
@@ -5009,6 +5011,8 @@ P3 中式块＋破碎习语　R · 挂代号 P3
   写出 `have **left** many small companies **with no choice but to** lay off staff`。
   整个框架一字不差（08-18 写的是 makes governments have few choices but hurt）。
   等了 14 个练习日仍在。rc 0 → 1。
+- 2026-10-10 📋 C9 D4 复习日 复检组5 第 2 题（顺带用对）
+  她写 `the majority of migrant workers have no choice but to rent housing` —— no choice but to 整块对。
 
 ## #0041 with the increase of older population → as the older population grows
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F03
@@ -11192,7 +11196,7 @@ P12 句法小结构　R · 挂代号 P12
   📋 手滑豁免：`Combinded`（词是选对的，多打了一个 d）。
 
 ## #0120 even these methods are… → even if these methods are…
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F07
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07
 
 ★★ **2026-09-07 扩写（复检掉了才发现这条只测到半格）—— even 一族的三个成员写死**
 ```
@@ -11271,6 +11275,8 @@ P12 连词缺失　R · P12
   题面两个半句的顺序与括号里 even if／even though 的顺序**故意相反**（09-12 那次是同序）⇒ 她没被顺序带走：事实那半 even though、假设那半 even if；事实那半后面没接 would。
   ⚠️ `still resigned` → 更好 `are still resigning`（中文说的是现状，与前半 have improved 的时间平面对齐）⇒ 只进更好版，⛔ 不算错。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 6 题
+  她写 `Even if the rain stops tomorrow, …; meanwhile, even though the rain did stop yesterday, …` —— 假设配 even if（从句没写 will），事实配 even though。
 
 ## #0121 what you should do next → what patients should do next
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
@@ -11839,7 +11845,7 @@ P12 语序（GRA 桶）　R · P12
   她写 `Expensive items are **not always** more effective to use.` —— 次序 ✔ ⇒ 复检通过（「好用」那一格记 #0109 📝）。
 
 ## #0137 加上运输成本，这个项目的总花费就上去了
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F07
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07
 
 **问题是什么**
 待排序　U（待定）
@@ -11902,6 +11908,8 @@ P12 语序（GRA 桶）　R · P12
   走 with … added；09-07 回潮时原样复发的 `Combined with` 连续两次没出现；比较两边都是动名词，对等。
   ⚠️ `fuel and parking fees` → 更好 `fuel and parking costs`（油钱不是 fee，#0249 的分工）⇒ 只进更好版，⛔ 不算错（也能读成 fuel ＋ parking fees）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 9 题
+  她写 `Once shipping fees are included, purchasing online is actually more expensive …` —— 句首结构对；运费写成复数 fees 就跟着用 are，没照搬括号里的 is。
 
 ## #0138 保持耐心、不去赌的病人更可能康复
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-06 ｜ 族 F07
@@ -12117,7 +12125,7 @@ K（她点名，高价值）
   她批注「turn 和 seek 我很少用，老是喜欢用系动词」—— 两个都用得准。
 
 ## #0147 ① 随着老年人口增长 ② 几个月正规治疗仍没好转
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 待排序　U（待定）
@@ -12164,6 +12172,8 @@ K（她点名，高价值）
   两个点名的词都调出来了：`the **population** of …` · `these students **show** no improvement`（show 配 improvement 也对）⇒ 本条考点命中 ⇒ 连对 1 → 2 ⇒ 🎓。
   ⚠️ 三个谓语的时间平面不一致（grew／became 过去 ＋ show 现在，而中文没有过去标记）⇒ 那是 #0512 的账，⛔ 不算本条的错。
   ⚠️ §3.2：streak 只看本编号自己的判定 ⇒ 同题把 #0512 打成 ❌ **不影响本条毕业**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 1 题
+  她写 `As the aging population continues to grow, … the queue has shown no improvement.` —— population 名词块与 show no improvement（现在完成时）都对。
 
 ## #0148 长期治疗没有带来明显的改善
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F07
@@ -12364,7 +12374,7 @@ P12 句法（否定只放一处）　R · P12
   两个进行体 ⇒ 体一致 ⇒ 复检通过。
 
 ## #0153 这些疗法不仅浪费时间，还有实际的危害
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ⚠️ 不地道　U · 待排序
@@ -12409,6 +12419,8 @@ P12 句法（否定只放一处）　R · P12
   她写 `This kind of training not only wastes time but also poses actual harm.`
   `not only **wastes time** but also **poses actual harm**` —— 两边都是「动词 ＋ 宾语」，**同形**（本条当年栽的是"名词短语 vs 形容词短语"）⇒ 连对 1 → 2 ⇒ 🎓。
   ⚠️ `poses actual harm` 的搭配不地道（pose 的宾语是风险类抽象名词；"造成危害"默认 do／cause harm）⇒ 只进更好版，⛔ 不判错。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 3 题
+  她写 `This application not only consumes battery power but also discreetly collects user data.` —— 两边都是动词短语，同形。
 
 ## #0155 星期五之前把报告交上来
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F07
@@ -14078,7 +14090,7 @@ P11 搭配　R · 挂代号 P11
 </details>
 
 ## #0161 choose to rent houses → choose to rent / rent a place（不必点明 houses）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ⚪ 劝退（floor 完全够用）　留痕
@@ -14121,6 +14133,8 @@ P11 搭配　R · 挂代号 P11
   她写 `An increasing number of graduates choose to rent a home first, rather than taking on a thirty-year mortgage right after graduation.`
   `choose to rent a home` —— rent 出现了，而且⛔ 没有硬塞 houses（本条考点正是"不必点明 houses"）⇒ 连对 1 → 2 ⇒ 🎓。
   ★ 顺带：`An increasing number of ＋ **复数谓语** choose` 与同组第4题的 `The growing number of … **is**` 正好相反，**她同一组里两边都站对了**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 2 题
+  她写 `the majority of migrant workers have no choice but to rent housing.` —— housing 是泛指不可数，"租房住"送到，没写成 rent houses。
 
 ## #0162 is increasingly growing → is growing rapidly
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F08
@@ -14441,7 +14455,7 @@ P11 词义（epidemic＝局部流行）　R · P11
 ## #0170 can lead to a loss of money and time → costs money and time
 ⚠️ **2026-09-07 §8④b：与 #0028 一起读** —— 那条判「a loss **of**」是对的（管**块内部怎么拼**），
 　 本条管**整句该不该用这个块**（默认落点是 `costs money and time`）。两条不矛盾，分层不同。
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 她已会 · 撤出装备池（08-13：无提示复现，且她当场指出"costs 那个我给了呀"——教练把她自己的产出当升级递回去，撤销）　留痕
@@ -14478,6 +14492,8 @@ P11 词义（epidemic＝局部流行）　R · P11
   她写 `Rework costs both money and time.`
   cost 直接带双宾，⛔ 没绕成本条当年那个 `can lead to a loss of money and time`；`Rework` 作不可数名词、零冠词也对
   ⇒ 连对 1 → 2 ⇒ 🎓。本组最紧的一句，三个词把一整句中文说完。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 7 题
+  她写 `Rescheduling a flight ticket at short notice costs both money and time.` —— cost 作动词。
 
 ## #0171 他们更有可能康复
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F08
@@ -20658,7 +20674,7 @@ become                最轻，不带施动者　`the mixture **becomes** ethano
   「（所有员工）无一例外」⇒ `(all employees) without exception` ✔ ⇒ 🎓 rc0 → rc1。
 
 ## #0382 工会 ＝ trade union（英式）／ labor union（美式）
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 两个都对，看写哪一套英语：
@@ -20707,6 +20723,8 @@ become                最轻，不带施动者　`the mixture **becomes** ethano
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 - 2026-10-08 ✅ C9 D2 复检组1 第 6 题 f（词组题）
   「（加入）工会」⇒ `join a (trade) union` ✔（trade union ／ union 都在正文合法列）⇒ 🎓 rc0 → rc1。
+- 2026-10-10 📋 C9 D4 复习日 复检组5 第 10 题（顺带用对）
+  她写 `negotiations between management and the labor union` —— 工会 ⇒ labor union（美式）对。
 
 ## #0384 稿件 ＝ manuscript
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -23742,13 +23760,16 @@ progress **不可数**（⛔ a progress）。
   ⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0442 「优先级」一族：the top priority ／ a priority ／ take precedence over ／ come first
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
 **the top priority**　　最高优先级（名词，前面带 the）　`Safety is **the top priority**.`
 **a priority**　　　　　一件优先的事（可数，前面带 a）　`Cutting costs is **a priority** for the board.`
 **take precedence over**　（正式，动词）优先于　`Safety **takes precedence over** speed.`
+　　　　　　　　　　　⚠️ **方向**：A takes precedence over B ＝ **A 优先**、B 让路 —— 主语永远是**更重要**的那个
+　　　　　　　　　　　（中文主语是让路的一方，如「其他项目都得为它让路」⇒ 要么把主语换成更重要的那个，
+　　　　　　　　　　　 要么换成方向相反的 **give way to**：all other projects must give way to it）
 **come first**　　　　　（最直白，动词）排在第一　`Safety always **comes first**.`
 **at the expense of**　 以牺牲…为代价（反面那一层）　`growth **at the expense of** safety`
 **prioritise A over B**　把 A 排在 B 前面（动词，英式 -ise／美式 -ize）
@@ -23776,11 +23797,15 @@ progress **不可数**（⛔ a progress）。
 **成员出题账**
 ```
 ① the top priority　　　—— 2026-09-04 组1 第 5 题自发用对 ⇒ 📋 不算测过　★ 她点名要背
+　　　　　　　　　　　　　 ／ 2026-10-10 复检组5 第 5 题 ⇒ `is the top priority` ✅（第一次被出题）
 ② a priority　　　　　　—— 2026-09-06 组1 第 1 题「是一件优先的事」⇒ ❌ 写成 priority thing　★ 仍优先测
+　　　　　　　　　　　　　 ／ 2026-09-10 组1 第 9 题 ⇒ `one of the priorities` ✅
 ③ take precedence over　—— 2026-09-06 组1 第 1 题 ⇒ ✅
-④ come first　　　　　　—— 未出过
-⑤ at the expense of　　 —— 未出过
-⑥ prioritise A over B　 —— 未出过
+　　　　　　　　　　　　　 ／ 2026-10-10 复检组5 第 5 题 ⇒ ❌ **方向反了**：`all other projects must take precedence over it`　★ 下次优先测
+④ come first　　　　　　—— 2026-09-10 组1 第 9 题 ⇒ `comes first` ✅
+⑤ at the expense of　　 —— 2026-09-16 组2 第 5 题 ⇒ ✅
+⑥ prioritise A over B　 —— 2026-09-16 组2 第 5 题 ⇒ `prioritised maintenance over expansion` ✅
+⚠️ **2026-10-10 补账**：④⑤⑥ 在 09-10 ／ 09-16 已经行使过，当天没补进账，本次按历史记录追平。
 ```
 
 **我错在哪**
@@ -23820,6 +23845,13 @@ progress **不可数**（⛔ a progress）。
   成员 ⑤ **at the expense of** 与 ⑥ **prioritise A over B**（介词 over 也对）**一次全中** —— 两个都是从未出过的成员。
   ★ 本条四个成员到今天全部被独立测过：① 09-04 自发 · ② 09-06 ❌ → 09-10 翻身 · ③ 09-06 ✅ · ④ 09-10 ✅ · ⑤⑥ 今天 ✅。
   ⇒ 连对 1 → **2 ⇒ 🎓**（状态行手改，见 session 收尾）。
+- 2026-10-10 ❌ C9 D4 复习日 复检组5 第 5 题
+  题面「对这位新上任的市长来说，治理交通拥堵是头号要务，其他项目都得为它让路。（★ 两处分别用 top priority ／ take precedence over —— 形态与冠词自己定）」
+  她写 `tackling traffic congestion is the top priority, and all other projects must take precedence over it.`
+  成员 ① the top priority ✔（第一次被出题）；成员 ③ **方向反了** —— A takes precedence over B ＝ A 优先，
+  她这句成了"其他项目都比治堵优先"，意思说反 ⇒ 没送到。正确：`it takes precedence over all other projects`
+  （想保留"其他项目"做主语 ⇒ `all other projects must give way to it`）。
+  🎓 吃 ❌ ⇒ 当场回潮；方向判据写进正文「问题是什么」。
 
 ## #0444 「没有意义／白做」一族：make no sense ／ be pointless ／ serve no purpose ／ defeat the purpose
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25047,7 +25079,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0472 「普遍／常见」一族：widespread ／ prevalent ／ commonplace ／ pervasive
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25137,6 +25169,8 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ⚠️ 本题**故意没把人群放在 widespread 后面**：本条正文写的「widespread ⛔ 不配 among」母语里有反例（widespread among teachers），
   　 这一格判据有争议，⛔ 不拿它设陷阱（收尾时把正文这一句改软）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 📋 C9 D4 复习日 复检组5 第 10 题（顺带用对）
+  她写 `This notion is prevalent among young employees` —— 在某群人里盛行 ⇒ prevalent among 对。
 
 ## #0474 受益者 ＝ a beneficiary
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -29837,7 +29871,7 @@ K　0/3
   等了 14 个练习日仍在。rc 0 → 1。
 
 ## #0198 「这个 will 要不要」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-19 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 K（判据）
@@ -29885,6 +29919,8 @@ K（判据）
   她写 `At this school, teachers **are responsible for** communicating with parents; if a student is absent for two consecutive days, the teacher **will** personally call the parents`
   职责 ⇒ 一般现在时、具体情境 ⇒ will，⛔ 没有 would（E-079 原错）；09-07 那次的主语写反（patients are responsible）今天没出现。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 8 题
+  她写 `department managers are responsible for approving …; if the amount exceeds fifty thousand yuan, the manager will forward …` —— 职责用一般现在时，具体情境用 will，没写 would。
 
 ## #0252 join / arrive / start 这类瞬间动词配不了时间段
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F09
@@ -31482,7 +31518,7 @@ P3 硬编名词块　R · P3
   ⚠️ 一处只进更好版：`The **suburb's**` → `The **suburbs'**`（中文「郊区」在这里是集合概念）。
 
 ## #0210 proportation → proportion
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F11 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F11 ｜ 题型 整句
 
 **问题是什么**
 P5 拼写　R · P5
@@ -31520,6 +31556,8 @@ P5 拼写　R · P5
   `proportion` 拼写一次到位（⛔ 不是 proportation），而且**没有退回她的默认词 share** ⇒ 本条考点命中 ⇒ 连对 1 → 2。
   ⚠️ 同句 `has exceeds` → has exceeded 落在 **R1** 上（has 后面必须是过去分词），⛔ 不是本条的考点、⛔ 不建条目。
   ⚠️ 本条同样是 09-15「作文验取消」后第一次进队列。
+- 2026-10-10 ✅ C9 D4 复习日 复检组5 第 4 题
+  她写 `the proportion of international students is under one-tenth.` —— proportion 拼写一次到位，没退回 share。
 
 ## #0211 from 1900 and 2000 → from 1900 to 2000 ／ between 1900 and 2000
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F11
