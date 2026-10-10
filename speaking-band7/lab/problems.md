@@ -463,6 +463,42 @@
   三条问的是同一个问题；#112 那句"眼前这一份 vs 泛指这件事"正是本条的判据
 - 备注 国家形容词 Chinese/Japanese（不是 China's）（原 #160）
 
+### 70 · I wouldn't go THAT far, though.（软化自己刚说的话）
+类型 词组 ｜ 旧号 B109a
+状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）
+
+**问题是什么**
+**I wouldn't go THAT far, though.** ＝ 软化自己刚说的话（整块背，重心在 **that far**）。
+同一格里的邻居（别串）：块本身是 go **that** far —— ⛔ 不是 go too far（08-11 教练自己写错过一次，见尾部备注）。
+判据一句话：要往回收一步时整块调 `I wouldn't go that far, though.`，⛔ 别现造。
+
+**怎么发现的**
+旧 B 表迁移（B109a，2026-08-18），原始触发原话未存；最早记录 2026-08-11 📖 给了答案才会，
+08-12／08-13／08-15 连三次 ❌。
+2026-08-16 ✅ ／ 2026-08-19 ✅ `I wouldn't go that far, tough`（tough 是打字滑，块本身对）⇒ 2026-08-20 毕业。
+2026-09-05 ✅ ／ 2026-09-07 复检（打包）✅ `but I wouldn't go that far`。
+
+**我错在哪**
+她的：08-12／08-13／08-15 连三次 ❌（触发原话未存，旧 B 表迁移）；08-11 是"给了答案才会"。
+找法：要把刚说过的话收一收时，整块调 `I wouldn't go that far, though.`
+
+**题面**
+"不过我也不会说得那么绝。"（用 **go** 那个词说）
+
+- 2026-08-11 📖 给了答案才会
+- 2026-08-12 ❌
+- 2026-08-13 ❌
+- 2026-08-15 ❌
+- 2026-08-16 ✅
+- 2026-08-19 ✅ `I wouldn't go that far, tough`（tough 是打字滑，块本身对）
+- 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I wouldn't go that far（整块调出，that far 一字不差）
+- 2026-09-07 ✅ 复检 · 第 3 组（打包）· `but I wouldn't go that far`（go that far 整块；wouldn't 拼写不算错 §2.1）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [9] · `Calling him a genius? I wouldn't go that far.` —— I wouldn't go that far
+- 2026-10-09 ❌ 学习日 复检第 4 组 [7]（#250 题里 · 自由产出掉）· `The worst in town? Come on, it doesn't go that far.` —— 整块 I wouldn't go that far 没调出来，主语塌成 it ⇒ **回潮**
+  最小改 `The worst in town? Come on, I wouldn't go that far.`
+  ❌ "我倒不至于这么说"＝ 整块 I wouldn't go that far（主语是我，wouldn't ＝ 要是让我说）；⛔ 别现造 it doesn't go that far
+- 备注 08-11 教练自纠：块本身写错过（go too far → go that far）
+
 ### 89 · 加形容词说"哪一种"时回到 a（a diverse economy）
 类型 语法 ｜ 旧号 B144
 状态 连对0 连错1 上次2026-08-20 未毕业 ｜ **形态类·不召回**（冠词族，同 #63）｜ **回潮 2026-08-20**（08-20 当天毕业当天回潮）｜ ⚪ **只记录·不出题**（她 2026-08-27 定："标记下就行了，不出题，只记录"）｜ 题型 整句
@@ -548,7 +584,7 @@
 
 ### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
 类型 结构 ｜ 旧号 B163
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 旧账 ｜ 题型 整句 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 旧账 ｜ 题型 整句 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）
 
 **问题是什么**
 **否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
@@ -588,6 +624,7 @@ no 一路盖到 and 后面那半。两条解法：
 - 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [6] · `I want to find a place with no line and reasonable prices.` —— no 盖到 and 后面，能读成"也没有公道的价格" ⇒ **回潮**
   最小改 `I want to find a place with no line, and with reasonable prices.`　更好版 `I want to find a place where you don't have to wait in line and the prices are reasonable.`
   ❌ no／not … and … ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就拆
+- 2026-10-09 ✅ 学习日 在池第 1 组 [1] · `I want to get a car that doesn't burn much gas and has plenty of room.` —— doesn't 只盖 burn much gas，has 带 -s 是独立谓语，没被否定盖住。连错 1 → 连对 1
 - 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
   单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
   ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
@@ -750,7 +787,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -783,163 +820,17 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [3] · `This investment is huge for us—our life savings are on the line.` —— 题面点名 at stake，换成了同义的 on the line，at stake 没出来 ⇒ **回潮**
   最小改 `This investment is huge for us—our life savings are at stake.`
   ❌ at stake 放在 be 后面；on the line 同义可留，但本条要练的 at stake 没调出来
-
-### 424 · set aside ＋ 钱／时间（专门留出一部分）
-类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**set aside** ＝ 从总量里专门划出一部分、留着做某件事：set aside part of my paycheck ／ set aside some money for a trip ／ set aside an hour every evening。
-同一格里的邻居（别串）：save（存钱，泛泛地攒）· put aside（同义，更口语）· #417 carve out time（从满满的日程里硬挤出时间 —— 强调"挤"；set aside 强调"划出来留着"）。
-判据一句话：把一部分钱／时间划出来、专门留给某件事 ⇒ set aside ＋ 那一部分 ＋ for ／ to do。
-★ 题型判整句："留出一笔钱"翻成 save some money 也合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-07 学习日 在池第 1 组 [5]（#410 题"每个月拿出一部分工资捐给慈善机构"）· 原话
-`setting aside（这个词组学下) part of my paycheck every month to donate to charity`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "set aside"／"setting aside"／"put aside" ⇒ 零命中；"aside" ⇒ 命中 🎓#281（step back，正文邻居 step aside ＝ 让开）⇒ 不是同一个词组，否
-　② 中文 dedup "留出" ⇒ 命中 🎓#57（date night，题面带"专门留出来的那一晚"，考点是 date night）⇒ 否；"存下"／"攒" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`set aside part of my paycheck`
-找法："拿出一部分／专门留出"，先落 set aside。
-
-**题面**
-"我每个月都留出一笔钱，专门用来旅行。"（"留出"用 **set aside** 说）
-
-- 2026-10-07 ❌ 首犯 · 学习日 在池第 1 组 [5]（#410 题里）· 她标「这个词组学下」· 原话 `setting aside（这个词组学下) part of my paycheck every month to donate to charity`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [3] · `I set aside half an hour every night to read with my kid.` —— set aside half an hour。连错 1 → 连对 1
-
-### 425 · make the move（真的迈出那一步、付诸行动）
-类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**make the move** ＝ 下决心真的去做、迈出那一步（常指换工作、搬家、转行这种大决定）：finally make the move ／ make the move to freelancing ／ make the move to London。
-同一格里的邻居（别串）：#418 sit on（攥着想法没动手 —— 正好是 make the move 的前一个阶段）· take the plunge（豁出去下决心，更带"跳下去"的冒险味）· make a move（动身、该走了；也指采取行动）。
-判据一句话：说"终于真干了／迈出了那一步" ⇒ make the move；还憋着没动 ⇒ sit on。
-★ 题型判整句："迈出那一步"翻成 finally did it／went for it 都合法 ⇒ 整句 ＋ 正向点名。
-★ 与 #418 分工：#418 考"攥着没动手"（sit on），本条考"真的动手了"（make the move）—— 一前一后两个块，各走各的。
-
-**怎么发现的**
-2026-10-07 学习日 在池第 2 组 [3]（#418 题"开咖啡店这个想法他憋了好几年，一直没敢真干"）· 原话
-`He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).`
-她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "make the move"／"make a move" ⇒ 零命中；"plunge" ⇒ 只命中 🎓#335 历史句（take action），不是这个块 ⇒ 否
-　② 中文 dedup "迈出" ⇒ 命中 #418（sit on 正文"还没真的迈出那一步"，是本条的前一个阶段，目标形式不同）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学一下」（用法本身对）　　目标：`never quite making the move`
-找法："终于下决心真干了"，先落 make the move（要说转去做什么就接 to ＋ 名词）。
-
-**题面**
-"她考虑辞职去考研考虑了两年，今年终于真的迈出了那一步。"（"迈出那一步"用 **make the move** 说）
-
-- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [3]（#418 题里）· 她标「这个词组学一下」· 原话 `never quite making the move(这个词组学一下).`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [4] · `She had been thinking about quitting her job for grad school for two years before she finally made the move this year.` —— finally made the move。连错 1 → 连对 1
-
-### 426 · windowsill（窗台）
-类型 词汇 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**windowsill** ＝ 窗台（窗户下沿那条可以放东西、猫能趴的平台）：on the windowsill ／ a plant on the windowsill。
-同一格里的邻居（别串）：window（窗户本身）· ledge（凸出来的窄台子，泛指）· balcony（阳台）。
-判据一句话：窗户下面那条平台 ⇒ windowsill，介词用 on。
-★ 题型判词组："窗台"只映射回 windowsill（window ledge 合法照判），一个块就覆盖考点 ⇒ 词组题、零英文提示。
-
-**怎么发现的**
-2026-10-07 学习日 在池第 2 组 [8]（#422 题"我家的猫日复一日地趴在同一个窗台上晒太阳"）· 原话
-`My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.`
-她自己标「这个单词背一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "windowsill"／"sill" ⇒ 零命中
-　② 中文 dedup "窗台" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个单词背一下」（词不在手边）　　目标：`windowsill`
-找法：说"窗台"，先落 windowsill。
-
-**题面**
-"窗台上摆着的几盆小多肉"（窗户下沿那条能放东西的平台）
-
-- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个单词背一下」· 原话 `My cat sits on the exact same windowsill(这个单词背一下)`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [5] · `A few small succulent(这个词背下) pots placed on the windowsill.` —— windowsill。连错 1 → 连对 1
-  ｜她自注「这个词背下」⇒ succulent 另建 #435
-
-### 427 · soak up ＋ the sun／the atmosphere（尽情享受、吸收）
-类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**soak up** ＝ 像海绵吸水一样，把阳光／氛围／景色尽情吸收进来：soak up the sun ／ soak up the atmosphere ／ soak up the view。
-同一格里的邻居（别串）：🎓#353（vibe 挂在地方上 —— 正文例句 soak up a different vibe，考点在 vibe 不在 soak up）· enjoy（泛泛地享受）· bask in the sun（晒太阳，偏书面）。
-判据一句话：说"晒太阳／尽情感受那个氛围" ⇒ soak up ＋ the sun／the atmosphere。
-★ 题型判整句："晒太阳"翻成 sunbathe／lie in the sun 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-07 学习日 在池第 2 组 [8]（#422 题"我家的猫日复一日地趴在同一个窗台上晒太阳"）· 原话
-`My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.`
-她自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "soak" ⇒ 命中 🎓#353（正文例句 soak up a different vibe；那条考的是 vibe 挂在地方上、人不待在 vibe 里）⇒ 不是同一个考点，否
-　② 中文 dedup "晒太阳" ⇒ 零命中；"sunbath" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学一下」（用法本身对）　　目标：`soaking up the sun`
-找法："晒太阳／感受一下气氛"，先落 soak up。
-
-**题面**
-"周末我们就躺在沙滩上晒了一下午太阳。"（"晒太阳"用 **soak up** 说）
-
-- 2026-10-07 ❌ 首犯 · 学习日 在池第 2 组 [8]（#422 题里）· 她标「这个词组学一下」· 原话 `soaking up(这个词组学一下) the sun, day in, day out.`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [6] · `When I first visited Chengdu, I just wanted to stroll through the old streets and soak up the atmosphere.` —— soak up the atmosphere。连错 1 → 连对 1
-
-### 428 · be featured in ＋ 杂志／节目（被刊登、上了…）
-类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**be featured in** ＝ 作为重点内容出现在杂志／报纸／节目／展览里（"上了杂志、上了节目"）：Her work has been featured in several magazines. ／ The café was featured in a travel show.
-同一格里的邻居（别串）：appear in（出现在…里，泛泛）· be published in（发表在…上，偏文章、论文）· be on TV（上电视，大白话）。
-判据一句话：说"上了杂志／上了节目／被重点介绍" ⇒ be featured in；说"发表论文" ⇒ be published in。
-★ 题型判整句："上过节目"翻成 was on a show／appeared on 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-07 学习日 复检第 3 组 [3]（#391 题"她是设计圈里正在冒头的新人，作品已经上了好几本杂志"）· 原话
-`She's an up-and-coming talent in design circles, with her work featured in(这个词组学下) multiple magazines.`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "featured" ⇒ 零命中；"feature" ⇒ 只命中 🎓#213（go live，历史句里的 feature ＝ 功能）⇒ 不是同一个词义，否
-　② 中文 dedup "刊登" ⇒ 零命中；"上了" ⇒ 命中 34 条，都是正文带"上了"二字的别的考点（🎓#398 on the line · 🎓#234 the elderly 等）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`with her work featured in multiple magazines`
-找法："上了好几本杂志／上了节目"，先落 be featured in。
-
-**题面**
-"我们小区门口那家面馆上过一档美食节目。"（"上过"用 **featured** 说）
-
-- 2026-10-07 ❌ 首犯 · 学习日 复检第 3 组 [3]（#391 题里）· 她标「这个词组学下」· 原话 `with her work featured in(这个词组学下) multiple magazines.`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [7] · `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.` —— was once featured on a food show。连错 1 → 连对 1
-  ｜她自注「这个 downstairs from 学下」⇒ downstairs from 另建 #436
+- 2026-10-09 ✅ 学习日 在池第 1 组 [2] · `This exam is crucial—my graduation is completely at stake.` —— is … at stake，at stake 放在 be 后面。连错 1 → 连对 1
 
 ### 429 · hold a grudge (against sb)（记仇）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对0 连错2 上次2026-10-08 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hold a grudge** ＝ 心里一直记着别人的不好、不肯放下：He never holds a grudge. ／ hold a grudge against sb（记某人的仇）。
 同一格里的邻居（别串）：let it go（放下、算了）· forgive and forget（原谅了也不再提）· get over it（过去了、缓过来了）。
 判据一句话：说"记仇／一直耿耿于怀" ⇒ hold a grudge (against sb)；说"不记仇／放下了" ⇒ never holds a grudge ／ let it go。
+★ 性子 vs 一次：说一个人"特别记仇"（性子）⇒ really holds grudges（复数 ＝ 老这样）；说"对某人记着一笔仇"（一次具体的）⇒ hold a (huge) grudge against sb。
 ★ 题型判整句："记仇"翻成 never forgets／holds it against me 都合法 ⇒ 整句 ＋ 正向点名。
 
 **怎么发现的**
@@ -962,68 +853,13 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-08 ❌ 付息日 a 段在池第 2 组 [8] · 「忘了」—— hold a grudge 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
   最小改 `My sister really holds a grudge — I took a piece of candy from her when we were kids, and she still brings it up.`
   ❌ "记仇" ＝ hold a grudge（动词 hold，grudge 前有 a；记谁 ⇒ against sb）
-
-### 430 · street market（街头集市、露天摊位市场）≠ shopping street（商业街）
-类型 词汇 ｜ 新建 2026-10-07
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**street market** ＝ 街头集市、露天市场：一排排摊位，卖菜、小吃、旧货；介词用 at（at a street market）。
-同一格里的邻居（别串）：shopping street（商业街，两边是正经店面，介词 on）· open-air market（露天市场）· night market（夜市）· flea market（跳蚤市场）。
-判据一句话：一排排摊位 ⇒ market（at）；两边是店面 ⇒ shopping street（on）。
-★ 题型判词组："露天摆摊的集市"只映射回 street market／open-air market（两个都算对），一个块就覆盖考点 ⇒ 词组题、零英文提示。
-
-**怎么发现的**
-2026-10-07 学习日 新题 bank:1151（P3 · What are the differences between shopping in street markets and big shopping malls?）[S3] · 原话
-`Shopping streets, on the other hand, are pretty messy or don't really have any layout at all.`
-题目问的是 street markets（集市），她通篇答成 shopping streets（商业街）⇒ 层4 切题 ⚠️；street market 是能学的表达 ⇒ §3.2b 建号。
-判重三步：
-　① 目标形式 dedup "street market"／"stall" ⇒ 零命中；"market" ⇒ 命中 🎓#205（the market／the economy 这类系统性名词带 the）· 🎓#279（get a feel for，历史句带 market）⇒ 都不是这个词，否
-　② 中文 dedup "集市" ⇒ 零命中；"摊" ⇒ 命中 🎓#27（功劳分摊）· 🎓#295 · 🎓#206，都是正文带"摊"字的别的考点 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：把题目里的 street markets 当成了 shopping streets（商业街）　　正确：street market ＝ 摆摊的集市
-找法：听到 street market，脑子里先出"摆摊的集市"，不是步行街。
-
-**题面**
-"周末在停车场里临时摆起来的露天集市"（一排排摊位，卖菜、卖小吃、卖旧货的那种）
-
-- 2026-10-07 ❌ 首犯 · 学习日 新题 bank:1151 [S3] · 层4 切题 ⚠️ · 原话 `Shopping streets, on the other hand, are pretty messy …` ⇒ 更好版 Street markets
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [9] · `A pop-up street market in the parking lot over the weekend.` —— street market，没跟 shopping street 混。连错 1 → 连对 1
-
-### 431 · well planned out（规划得好、布局合理）
-类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-08 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**be (well) planned out** ＝ 事先规划、布局安排得好：The mall is well planned out. ／ way better planned out ／ a poorly planned-out city。
-同一格里的邻居（别串）：well laid out（布局好，偏空间）· well organized（安排得有条理）· layout（名词：布局）。
-判据一句话：说一个地方／一件事"规划得好／安排得周到" ⇒ well planned out。
-★ 题型判整句："规划得好"翻成 well designed／well organized 都合法 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-07 学习日 新题 bank:1151 [S2] · 原话
-`Malls are usually way better planned out（这个词组学下)—different kinds of shops are organized into different areas, …`
-她自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "planned out"／"plan out"／"layout" ⇒ 零命中
-　② 中文 dedup "规划" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`way better planned out`
-找法："规划得好／布局合理"，先落 well planned out。
-
-**题面**
-"这个新小区规划得特别好，学校、超市走路十分钟都能到。"（"规划得好"用 **planned out** 说）
-
-- 2026-10-07 ❌ 首犯 · 学习日 新题 bank:1151 [S2] · 她标「这个词组学下」· 原话 `Malls are usually way better planned out（这个词组学下)`
-- 2026-10-08 ✅ 付息日 a 段在池第 2 组 [10] · `This new residential area is really well planned out; schools and supermarkets are all within a ten-minute walk.` —— well planned out。连错 1 → 连对 1
+- 2026-10-09 ✅ 学习日 在池第 1 组 [8] · `My roommate holds a huge grudge—I forgot to pay her back ten bucks, and she nagged(这个词学一下) me about it for a whole month.` —— hold ＋ a ＋ grudge 齐了。连错 2 → 连对 1
+  ⚠️ 更好版 `My roommate really holds grudges` —— "特别记仇"是性子 ⇒ 复数 grudges；a huge grudge 是一笔具体的仇（要接 against me）⇒ 问题是什么补了一行
+  ｜她标「这个词学一下」⇒ nag 另建 #438
 
 ### 432 · cross-border ≠ transnational（跨境 vs 跨国）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 词组 ｜ 合并条·出题多句覆盖
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 词组 ｜ 合并条·出题多句覆盖
 
 **问题是什么**
 两个"跨"分工不同：
@@ -1052,14 +888,16 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 　② "跨国犯罪集团"（在好几个国家同时作案的犯罪组织）
 
 **成员出题账**
-① cross-border ｜ 未出过
-② transnational ｜ 未出过
+① cross-border ｜ 10-09 ✅
+② transnational ｜ 10-09 ✅
 
 - 2026-10-08 📝 新建 · 付息日 a 段在池第 1 组 [1]（#366 题里）· 她要求「加入 transnational 的条目做对比」· 原话 `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [6] · ① `cross-border payments` ② `transnational organized crime` —— 两个成员都对、没串。首测 ⇒ 连对 1
+  ⚠️ ② 更好版 `transnational organized crime groups`（题面"集团"是那一伙人，补 groups）
 
 ### 433 · semi-final（半决赛）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **semi-final** ＝ 半决赛（也写 semifinal）；the semi-finals ＝ 半决赛那一轮（有两场，所以常用复数）。
@@ -1083,10 +921,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "世界杯半决赛"（决赛前一轮，四支队伍打两场）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#415 题里）· 她标「这个词背下」· 原话 `She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [1] · `the World Cup semifinals` —— semifinal（复数指半决赛那一轮，贴题面）。连错 1 → 连对 1
 
 ### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
 类型 搭配 ｜ 新建 2026-10-08
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **consecutive** ＝"一个接一个"，至少两个单位才连得起来：three consecutive days ／ for the third consecutive year。
@@ -1112,10 +951,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "他连续一个星期每天只睡四个小时。"（"连续一个星期"用 **straight** 说）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#420 题里）· 原话 `Working overtime for a consecutive month left me totally burnt out.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [2] · `He slept only four hours a night for a week straight.` —— for a week straight，没用 consecutive。连错 1 → 连对 1
 
 ### 435 · succulent（多肉植物）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **succulent** ＝ 多肉植物（名词，可数：a succulent ／ succulents）；当形容词是"多汁的"（succulent steak）。
@@ -1140,10 +980,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "办公桌上那盆小多肉"（叶子肥厚、不怎么用浇水的那种植物）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [5]（#426 题里）· 她标「这个词背下」· 原话 `A few small succulent(这个词背下) pots placed on the windowsill.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [3] · `that small succulent sitting on my desk` —— succulent。连错 1 → 连对 1
 
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
@@ -1169,10 +1010,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
 
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [4] · `A new convenience store just opened downstairs from my place, which makes grabbing stuff way easier.` —— downstairs from my place。连错 1 → 连对 1
 
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-08 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
 
 **问题是什么**
 逗号后面的 **which** 可以指前面**一整件事**（不只是前面那个名词），后面常用"主语 ＋ 助动词"把前面的动作省掉：
@@ -1197,6 +1039,93 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "他说会准时到，结果并没有。"（"结果并没有"用 **which** 说）
 
 - 2026-10-08 ❌ 首犯 · 付息日 d 段重答 bank:364 [S5] · 她标「这个 which 的用法可以学一下」· 原话 `you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [5] · `He promised he'd be here on time, which he wasn't.` —— , which he wasn't（which 指前面整件事 ＋ 主语 ＋ 否定助动词）。连错 1 → 连对 1
+
+### 438 · nag sb (about sth)（念叨、反复催／数落某人）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**nag** ＝ 冲着某人一遍遍地念叨／催／数落（让人烦的那种）：`She nagged me about it for a whole month.` ／ `My mom keeps nagging me to get married.`
+结构：nag sb **about** sth（为某事念叨）· nag sb **to do** sth（催某人去做）· 名词 a nag（爱唠叨的人）。
+同一格里的邻居（别串）：go on about sth（自己说个没完，不一定冲着某人）· keep bringing it up（老提这事）· remind（提醒，中性、不烦人）。
+判据一句话：冲着某人、一遍遍地催或数落、让人烦 ⇒ nag sb about sth／nag sb to do。
+★ 题型判整句："念叨"翻成 go on about／keep bringing it up 都合法 ⇒ 整句 ＋ 正向点名 nag。
+
+**怎么发现的**
+2026-10-09 学习日 在池第 1 组 [8]（#429 题面"我室友特别记仇，我忘了还她十块钱，她念叨了一个月。"）· 原话
+`she nagged(这个词学一下) me about it for a whole month.`
+她写对了 nagged me about it，但自己标「这个词学一下」⇒ §2③ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "nag"／"pester"／"go on about" ⇒ 零命中；dedup "brings it up" ⇒ 只命中 #429 历史行（那条考 hold a grudge）⇒ 否
+　② 中文 dedup "念叨"／"唠叨" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学一下」（用法本身对）　　目标：`she nagged me about it for a whole month`
+找法：想说"念叨／催个没完"，先落 nag，宾语直接挂人；为什么事用 about，催做什么用 to do。
+
+**题面**
+"我妈天天念叨我早点睡，说熬夜伤身体。"（"念叨"用 **nag** 说）
+
+- 2026-10-09 ❌ 首犯 · 学习日 在池第 1 组 [8]（#429 题里）· 她标「这个词学一下」· 原话 `she nagged(这个词学一下) me about it for a whole month.`
+
+### 439 · comeback（逆转、反超：pull off a comeback）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**comeback** ＝ 落后的一方反超、翻盘：`they pulled off a huge comeback` ／ `a last-minute comeback`。
+同一格里的邻居（别串）：make a comeback（过气的人／东西重新火起来、复出）· come from behind（从落后追上来，动词说法）· turn things around（扭转局面）。
+判据一句话：比赛／竞争里落后的一方最后赢了 ⇒ a comeback（动词 pull off）；明星／潮流重新流行 ⇒ make a comeback。
+★ 题型判词组：只要她调出 comeback 这个块就覆盖考点；"大逆转"中文块能映射回 comeback（turnaround 合法照判）。
+
+**怎么发现的**
+2026-10-09 学习日 复检第 3 组 [6]（#402 题面"比赛只剩最后十秒，他们居然完成了大逆转。"）· 原话
+`With just ten seconds left, they actually pulled off a huge comeback(这个词背一下).`
+她写对了 a huge comeback，但自己标「这个词背一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "comeback" ⇒ 零命中
+　② 中文 dedup "逆转" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背一下」（用法本身对）　　目标：`they pulled off a huge comeback`
+找法：想说"逆转／翻盘"，先落 comeback，动词用 pull off。
+
+**题面**
+"篮球赛最后两分钟落后十分还赢下来的大逆转"（落后的一方在最后反超）
+
+- 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [6]（#402 题里）· 她标「这个词背一下」· 原话 `they actually pulled off a huge comeback(这个词背一下).`
+
+### 440 · sentimental（煽情、催泪）≠ dramatic（夸张、戏剧化）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**sentimental** ＝ 煽情、感情渲染过头、就想让人哭：`an overly sentimental ending`。
+**dramatic** ＝ 戏剧化、起伏大、反应夸张：a dramatic ending（结局反转大、很有冲击力）· overly dramatic（演得太过、大惊小怪）。
+同一格里的邻居（别串）：sappy（口语，酸、肉麻）· melodramatic（狗血、苦情那种夸张）。
+判据一句话：重点在"催泪、感情泛滥" ⇒ sentimental；重点在"情节起伏、反应夸张" ⇒ dramatic。
+★ 题型判词组：中文块"煽情的…"能映射回 sentimental（sappy／tear-jerking 合法照判）；再落到 dramatic ⇒ ❌。
+
+**怎么发现的**
+2026-10-09 学习日 复检第 3 组 [7]（#404 题面"我觉得这部电影的结局太煽情了。"）· 原话
+`I felt like then ending of the movie was overly dramatic(这个词学下).`
+她自己标「这个词学下」⇒ §2③ 建号，判 ❌；"煽情"落到 dramatic 只沾边（dramatic 是夸张、戏剧化，煽情是催泪、感情泛滥）⇒ 目标 sentimental。
+判重三步：
+　① 目标形式 dedup "sentimental"／"dramatic"／"melodramatic"／"sappy" ⇒ 零命中
+　② 中文 dedup "煽情"／"催泪" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`overly dramatic`（她标「这个词学下」）　　更准：`overly sentimental`
+找法：说"煽情"之前问一句 —— 是想让人哭（sentimental），还是演得夸张（dramatic）？
+
+**题面**
+"电视剧结尾那段特别煽情的告别戏"（故意把感情往上推、就为了让人哭的那种）
+
+- 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [7]（#404 题里）· 她标「这个词学下」· 原话 `I felt like then ending of the movie was overly dramatic(这个词学下).`
 
 ## 迁移说明（2026-08-18）
 
