@@ -3327,7 +3327,7 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0482 issue（动词）能带哪些宾语：a fine ／ a permit ／ a statement ／ a refund
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3354,10 +3354,13 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
 **成员出题账**
 ```
 ① issue a fine ／ a penalty notice　—— 2026-09-09 组1 第 4 题自发用对（被动 was issued）⇒ 留痕，⛔ 不算测过　★ 她点名要学
-② issue a permit ／ a licence　　　 —— 未出过　★ 优先测
+　　　　　　　　　　　　　　　　　　 ／ 2026-10-10 复检组8 第 2 题 ⇒ `issued him a ticket` ✅（第一次被出题）
+② issue a permit ／ a licence　　　 —— 2026-09-10 组1 第 2 题 ⇒ `The licenses were issued` ✅ ／ 2026-09-16 组3 第 7 题 ⇒ `The license was issued` ✅（账 10-10 补记）
 ③ issue a statement ／ a warning　 —— 2026-09-20 组3 第 2 题 ⇒ `issued a statement` ✅（⇒ #0405 已有这个块）
-④ impose（反面成员：罚你用它）　　 —— 未出过　★ 优先测
-⑤ grant ／ award　　　　　　　　　 —— 2026-09-20 组3 第 2 题 ⇒ `was granted three days of leave` ✅（grant 那一半；award 仍未出过）
+④ impose（反面成员：罚你用它）　　 —— 2026-09-10 组1 第 2 题 ⇒ ❌ `were imposed with heavy fines` ／ 2026-09-16 组3 第 7 题 ⇒ `bans were imposed on the violators` ✅（账 10-10 补记）
+　　　　　　　　　　　　　　　　　　 ／ 2026-10-10 复检组8 第 2 题 ⇒ `impose heavier fines on illegally parked e-bikes` ✅
+⑤ grant ／ award　　　　　　　　　 —— 2026-09-16 组3 第 7 题 ⇒ `will be awarded` ✅（award，账 10-10 补记）／ 2026-09-20 组3 第 2 题 ⇒ `was granted three days of leave` ✅（grant）
+⚠️ **2026-10-10 补账**：②④⑤ 在 09-10 ／ 09-16 已经行使过，当天没补进账（账上一直写着「未出过」），本次按历史记录追平。
 ```
 
 **怎么发现的**
@@ -3439,6 +3442,8 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   成员③ issue a statement ＋ ⑤ grant（评定之后判给）两个"未出过"的成员一次落地；被动、时态、each ＋ 单数全对。成员账已补。
   ⚠️ `three days of leave` 与 `three days' leave` 同级 ⇒ ⛔ 不算问题（R3 的所有格那一版只是更紧）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 2 题
+  她写 `The traffic police issued him a ticket; the city also plans to impose heavier fines on illegally parked e-bikes.` —— ① issue 第一次被出题就对；④ impose … on 对（09-10 的 imposed with 没再出现）。
 
 ## #0516 「忍住不做／避免」一族：refrain from ／ abstain from ／ resist ／ avoid
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F01 ｜ 题型 整句
@@ -4807,7 +4812,7 @@ at the start of the project ✔　at 3 p.m. ✔　—— 只要后面那个东�
   时段 during ✔、月份 in ✔、两处不同、没用 at ⇒ 复检通过。
 
 ## #0448 each ／ every 的分工（做主语时）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F02 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F02 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -4880,6 +4885,8 @@ at the start of the project ✔　at 3 p.m. ✔　—— 只要后面那个东�
   两格分得干干净净：every ＋ 单数（3 个以上的整体里"每一个"）· each of the two（两个里的"各自"），
   而且后半的谓语 `carries` 与物主代词 `its` **都跟着单数走** —— 那是这条最容易塌的地方。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 7 题
+  她写 `Each of these three options has its own problems; the shuttle bus runs every twenty minutes.` —— each of ＋ 复数 ＋ 单数谓语；每隔…用 every。
 
 ## #0459 among ／ between ／ amid ——「在…之中」的三个介词
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F02 ｜ 题型 整句
@@ -9299,7 +9306,7 @@ P11 词形　R · P11
   她写 `Maintenance **expenses** have been increasing over recent years, and recent **inspections** have all identified the same issue.` —— 两个名词位都用名词形式 ⇒ 复检通过。
 
 ## #0108 「这个副词可以放 is 后面么」
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F06 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F06 ｜ 题型 整句
 
 **问题是什么**
 （旧档案未单列，见下方「我错在哪」与原始行）
@@ -9419,6 +9426,8 @@ will **probably** be delayed    ✔      ⛔ ~~will be probably delayed~~
   ⚠️ 同句 `in pairs` 是 #0495 的成员②（组2 刚被点名测过）⇒ 📋 自发用对。
   ⚠️ `hand over` 与 `inventory` 她都当场括注「背一下」⇒ §2③，另建 #0524 #0525。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 5 题
+  她写 `He is always the last to leave the lab, while his advisor usually goes home very early.` —— always 放 be 后，usually 放实义动词前。
 
 ## #0109 这些疗法只是偶尔管用
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F06
@@ -11612,7 +11621,7 @@ P12 倒装　R · P12
   　 **两处都对**（#0463 在组2）。
 
 ## #0129 医生把病人转给专科
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 P12 指代（08-12 作文 S15 同款，第 2 次）　R · P12
@@ -11661,6 +11670,8 @@ P12 指代（08-12 作文 S15 同款，第 2 次）　R · P12
   ⚠️ 同句 `have never **inform**` → `informed` ⇒ **R1**（have 后面必须是过去分词），⛔ 不建条目、当场点名 —— **R1 今天第一次命中**。
   ⚠️ 同句 `inform the car owner **of** the results` ⇒ 📋 #0466（组2 刚说过这一族，本组自发用对）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 6 题
+  她写 `The manager told the two interns that the client had canceled the meeting, but didn't say when the client would reach out again.` —— 第二处写实名 the client，指代唯一。
 
 ## #0131 tell patients what they should do next → tell sb what to do next（省一个从句）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-08-18 ｜ 族 F07
@@ -25418,7 +25429,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `The interviewer decided to hire her on the spot and arranged to discuss the salary with her face to face the next day.` —— ① on the spot 带 the，⑤ face to face 第一次被出题、作状语对。
 
 ## #0479 康复一族：rehabilitation ／ recovery ／ physiotherapy ／ convalescence
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25445,7 +25456,9 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **成员出题账**
 ```
 ① rehabilitation —— 2026-09-07 组5 第 6 题自发用对 ⇒ 留痕，⛔ 不算测过　★ 她点名要背
+　　　　　　　　　 ／ 2026-09-09 组1 第 6 题 ✅（账 10-10 补记）／ 2026-10-10 复检组8 第 1 题 ⇒ `a rehabilitation center` ✅
 ② recovery　　　 —— 2026-09-07 组5 第 6 题自发用对 ⇒ 留痕（同上）
+　　　　　　　　　 ／ 2026-09-09 组1 第 6 题 ✅（账 10-10 补记）／ 2026-10-10 复检组8 第 1 题 ⇒ `make a full recovery` ✅
 ③ physiotherapy —— 2026-09-20 组2 第 4 题 ⇒ `three months of physiotherapy` ✅（不可数、零冠词）
 ④ recover（动词那一格）—— 2026-09-20 组2 第 4 题 ⇒ `he recovered faster than …` ✅
 ⑤ convalescence ／ treatment —— 未出过
@@ -25496,9 +25509,11 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `After three months of **physiotherapy**, he **recovered** faster than the physician anticipated.`
   ③ physiotherapy（不可数、零冠词）✔ · ④ recover 的**动词**那一格 ✔（账上标着"未出过"）。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 1 题
+  她写 `After the car accident, he spent four months in a rehabilitation center; the doctor said it would take at least another year to make a full recovery.` —— rehabilitation（那一套治疗）与 recovery（身上的好转）分工对。
 
 ## #0480 单价 ＝ the unit price
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25563,6 +25578,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 - 2026-09-20 ✅D3 学习日 C7·组2 第 6 题⑦（词组题，正向调取）
   ⑦ 每件的单价 ⇒ `the unit price` ✔。09-09 是反向出法，今天正向调取也拿下。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 8 题 a·b（词组题，本条占 2 个块）
+  a「（批发时的）单价」⇒ `wholesale unit price` ✅ · b「（规模化生产以后的）单位成本」⇒ `unit cost` ✅
 
 ## #0481 「引起／吸引注意」一族：draw ／ attract ／ bring to ／ come to sb's attention
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
@@ -25684,7 +25701,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   §3.5 A「只是把老条目适用范围说清」⇒ 连对连错不动。她问的 entail：⛔ 不行（entail ＝ 必然包含；批评是别人的反应）⇒ #0563 正文同步补一行。
 
 ## #0483 出院一族：be discharged ／ be admitted ／ be referred ／ be transferred
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25714,12 +25731,15 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **成员出题账**
 ```
 ① be discharged ／ discharge（名词）—— 2026-09-09 组1 第 6 题自发用对（`until discharge`）⇒ 留痕，⛔ 不算测过　★ 她点名要学
+　　　　　　　　　　　　　　　　　　 ／ 2026-09-10 组1 第 1 题 ⇒ 名词 `the day of discharge` ✅（账 10-10 补记）／ 2026-10-10 复检组8 第 3 题 ⇒ 动词被动 `she was finally discharged` ✅
 ② be admitted to hospital　—— 2026-09-20 组3 第 1 题 ⇒ `was admitted to hospital` ✅（英式零冠词那一格拿下）
 ③ be referred to a specialist —— ⛔ **本条不单独测它**：refer 这一格已由 **#0165**
 　（recommend patients to specialists → refer patients to specialists，🎓）承担
 　⇒ 本条只在题面里顺带带过，⛔ 不拿它当主考点（2026-09-09 收尾复查 §3.5 C3 订正）
-④ be transferred to　　　　 —— 未出过　★ 优先测
-⑤ leave hospital ／ in hospital（英式零冠词）—— 2026-09-20 组3 第 1 题题面点了，但她走 `throughout her hospital stay`（成立）⇒ **没被逼出来**　★ 复检时单点它
+④ be transferred to　　　　 —— 2026-09-10 组1 第 1 题 ⇒ `(was) transfered to another hospital` ✅（双写拼写归 #0087；账 10-10 补记）
+⑤ leave hospital ／ in hospital（英式零冠词）—— 2026-09-20 组3 第 1 题题面点了，但她走 `throughout her hospital stay`（成立）⇒ **没被逼出来**
+　　　　　　　　　　　　　　　　　　 ／ 2026-10-10 复检组8 第 3 题 ⇒ `during her stay in hospital` ✅（零冠词那一格落地）
+⚠️ **2026-10-10 补账**：①④ 在 09-10 已经行使过，当天没补进账，本次按历史记录追平。
 ```
 
 **怎么发现的**
@@ -25788,9 +25808,11 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ⚠️ 第二处她写 `throughout her hospital stay`（完全成立）⇒ 成员⑤ `in hospital` 那一格**没被逼出来** —— 我的题面只要求"用 hospital 做出来"
   　 ⇒ 下次单点 `while in hospital` ／ `leave hospital`（同样零冠词那一格）。成员账已补。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 3 题
+  她写 `Colleagues visited her every day during her stay in hospital, and she was finally discharged last Friday.` —— ⑤ in hospital 英式零冠词落地；① discharge 动词被动对。
 
 ## #0484 董事会 ＝ the board（of directors）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25873,6 +25895,8 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   ⇒ 正文改动：把 `the executives` 从「同格里的邻居」**升格为本条的出题成员**，并写死它的形状
   　 （the executives ／ senior executives ／ a chief executive (CEO)，⛔ 别写成 ~~high managers~~）。
   ⚠️ 她这次**写对了** ⇒ 按 §3.5 B5 记 📝 留痕，**⛔ 不推进 streak**（§3.5 A 第三种：只是把老条目适用范围说清 ⇒ 连对连错不动）。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 8 题 c·d（词组题，本条占 2 个块）
+  c「董事会主席」⇒ `Chairman of the Board` ✅ · d「（他被选进了）董事会」⇒ `the board` ✅
 
 ## #0485 「…的那天」＝ the day of ＋ 名词
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
@@ -26656,7 +26680,7 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   ⑨「承包商」⇒ `contractor` ✔ · ⑩「（合同里）措辞含糊」⇒ `vague phrasing` ✔（phrasing ＝ wording）⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0499 数字化／数字时代 ＝ digitalisation ／ the digital age（⛔ 不是 the digit）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26701,6 +26725,8 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
 - 2026-09-20 ✅D3 学习日 C7·组2 第 6 题④⑤（词组题）
   ④ 数字化（整个行业经历的这个过程）⇒ `digitalization`（美拼）✔　⑤ 数字时代 ⇒ `digital age` ✔（契约⑬ ⛔ 不判冠词）
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 8 题 e·f（词组题，本条占 2 个块）
+  e「（政府服务的）数字化」⇒ `digitization` ✅（-ize 拼法，与 digitalisation 同级）· f「（在）数字时代（长大的孩子）」⇒ `the digital age` ✅
 
 ## #0501 喷（洒）＝ spray
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -27231,7 +27257,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ② ⑤ 账已补。
 
 ## #0510 「装得下／容纳」＝ hold ／ take ／ accommodate —— ⛔ host 是"主办"不是"装"
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-20 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -27300,6 +27326,9 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   她写 `This light truck **holds** up to two tons, while the newly built stadium **accommodates** twelve thousand people.`
   两处各一个动词 ✔（⛔ 没用 host、⛔ 没拆成动词短语）；`up to` 把"最多"送到了。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-10 ✅ C9 D4 复习日 复检组8 第 4 题
+  她写 `This van seats up nine people, while the trunk fits only two suitcases.` —— 每处一个动词（seats ／ fits），⛔ 没有 host。
+  同句 `seats up nine` 丢了 to（up to）⇒ R3，⛔ 不记在本条。
 
 ## #0511 「一集（剧）」＝ an episode
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F08 ｜ 题型 词组
