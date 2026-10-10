@@ -17,6 +17,9 @@
   F  必出层：D-1 新建的全出 · 不受上限 · 不到期也出 · 今天已测过的不算
   G  配额与下溢：learn 3/1 · review 5/3 · 在池排不满 ⇒ 下溢 · 必出层超上限 ⇒ 下溢 0
      · --scope 只影响**打印**，⛔ 不改配额
+  G2 配额按【当天】算：今天已 used 的组照样占配额 · 下溢按全天在池组数算 ·
+     开场的组全用完 ⇒ 重跑不给新组（学习日／复习日都测）· 用了一部分 ⇒ 只给剩下的 ·
+     组号接着往下编 · 超出配额不出负数 · 必出层压在上限之上
   H  分组：组间按队列顺序切（组 1 ＝ 最该测的）· 组内错开同族 · --size 边界
   I  append 写 graduated.md：能写 · 自查不过时**两个文件一起回滚**
   J  流水：used --queue grad 写「复检组N」· read_drawn 两条队列分开数 · 组号取 max+1
@@ -439,6 +442,139 @@ p, g, lg = archive(pool_many, [], DAYS)                 # 复检空
 with sandbox(p, g, lg):
     L = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn")
     ck("复检空⛔不回补在池（在池仍是 3 组）", len(L["pool_groups"]) == 3, len(L["pool_groups"]))
+
+# ══════════════════════════════════════════════════════════════════════
+print("\n【G2】配额按【当天】算：今天已经 used 的组照样占配额")
+
+
+def use_groups(groups, queue, start=1):
+    """把这几组当成「已收尾」记进流水（＝ 她做完、教练跑了 used）。"""
+    for gi, bucket in enumerate(groups, start=start):
+        run(drill.cmd_used, Args(queue=queue, group=gi,
+                                 used=",".join(e.num for e in bucket), date=TODAY))
+
+
+def replan(day_type):
+    """中途重跑 pick 的那份计算 —— 与 cmd_pick 同一套接线（read_drawn → plan_queues）。"""
+    used, groups = drill.read_drawn(TODAY)
+    return drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), day_type,
+                             used_ids=used, used_groups={q: len(groups[q]) for q in groups})
+
+
+def drawn_kind(kind):
+    if not os.path.exists(drill.DRAWN):
+        return []
+    return [l for l in io.open(drill.DRAWN, encoding="utf-8")
+            if not l.startswith("#") and l.split("\t")[1:2] == [kind]]
+
+
+def shown_groups(out, label):
+    return [int(n) for n in re.findall(r"━━━ " + label + r" (\d+)（", out)]
+
+
+#  复检条目给足 15 组 ⇒ 复检队列永远排得满，「没新组」只能是配额管的、⛔ 不是到期条目用光了
+grads_many = [entry(f"#8{i:03d}", state="🎓", ok=2, last="2026-09-01",
+                    rows=(("2026-08-01", "✅", ""), ("2026-09-01", "✅", "")))
+              for i in range(150)]
+
+#  ── 学习日 ──
+p, g, lg = archive(pool_many, grads_many, DAYS)
+with sandbox(p, g, lg):
+    L0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn")
+    use_groups(L0["pool_groups"], "pool")
+    use_groups(L0["grad_groups"], "grad")
+    L1 = replan("learn")
+    ck("学习日 开场的组全用完 ⇒ 重跑一组都不给（在池 0 ＋ 复检 0）",
+       not L1["pool_groups"] and not L1["grad_groups"],
+       (len(L1["pool_groups"]), len(L1["grad_groups"])))
+    ck("…… 而且两条队列都还有到期的 ⇒ 是配额管住的、⛔ 不是到期条目用光了",
+       L1["pool_due"] and L1["grad_due"], (len(L1["pool_due"]), len(L1["grad_due"])))
+    rc, out, _ = run(drill.cmd_pick, Args(type="learn", date=TODAY, dry=False))
+    ck("学习日 cmd_pick 报「今天的配额已经出完」、⛔ 不打任何组",
+       rc == 0 and "今天的配额已经出完" in out and "━━━ " not in out, out[-600:])
+    ck("配额出完 ⇒ ⛔ 不写「抽」流水", not drawn_kind("抽"), drawn_kind("抽"))
+p, g, lg = archive(pool_many, grads_many, DAYS)
+with sandbox(p, g, lg):
+    L0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn")
+    use_groups(L0["pool_groups"][:1], "pool")
+    L1 = replan("learn")
+    ck("学习日 在池只用了 1 组 ⇒ 重跑只给剩下的 2 组 ＋ 复检 1 组",
+       len(L1["pool_groups"]) == 2 and len(L1["grad_groups"]) == 1,
+       (len(L1["pool_groups"]), len(L1["grad_groups"])))
+    ck("…… 在池全天仍是 3 组 ⇒ 下溢 0", L1["spill"] == 0, L1["spill"])
+    ck("…… 用过的编号⛔不再出",
+       not ({e.num for e in L0["pool_groups"][0]} & {e.num for e in L1["pool_take"]}))
+    rc, out, _ = run(drill.cmd_pick, Args(type="learn", date=TODAY))
+    ck("组号接着已收尾的往下编：在池 2、3 ／ 复检 1",
+       shown_groups(out, "在池组") == [2, 3] and shown_groups(out, "复检组") == [1],
+       (shown_groups(out, "在池组"), shown_groups(out, "复检组")))
+p, g, lg = archive(pool_many[:5], grads_many, DAYS)     # 在池只够 1 组 ⇒ 开场下溢 2
+with sandbox(p, g, lg):
+    L0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn")
+    use_groups(L0["pool_groups"], "pool")
+    L1 = replan("learn")
+    ck("学习日 在池那 1 组用完 ⇒ 下溢仍按全天 1 组算 ＝ 2（⛔ 不涨成 3）",
+       L0["spill"] == 2 and L1["spill"] == 2 and L1["grad_quota"] == 3,
+       (L0["spill"], L1["spill"], L1["grad_quota"]))
+
+#  ── 复习日（2026-10-10 的原样：在池 2 组 ⇒ 下溢 3 ⇒ 复检全天 6 组）──
+p, g, lg = archive(pool_many[:20], grads_many, DAYS)
+with sandbox(p, g, lg):
+    R0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "review")
+    ck("复习日 开场：在池 2 组 ⇒ 下溢 3 ⇒ 复检 6 组",
+       len(R0["pool_groups"]) == 2 and R0["spill"] == 3 and len(R0["grad_groups"]) == 6,
+       (len(R0["pool_groups"]), R0["spill"], len(R0["grad_groups"])))
+    use_groups(R0["pool_groups"], "pool")
+    use_groups(R0["grad_groups"][:3], "grad")
+    R1 = replan("review")
+    ck("复习日 在池用完、复检用了 3 组 ⇒ 下溢仍是 3（⛔ 不按「在池剩 0 组」涨成 5）",
+       R1["spill"] == 3 and R1["grad_quota"] == 6, (R1["spill"], R1["grad_quota"]))
+    ck("…… 只给复检剩下的 3 组", not R1["pool_groups"] and len(R1["grad_groups"]) == 3,
+       (len(R1["pool_groups"]), len(R1["grad_groups"])))
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=TODAY))
+    ck("组号接着往下编：复检 4、5、6", shown_groups(out, "复检组") == [4, 5, 6],
+       shown_groups(out, "复检组"))
+    use_groups(R1["grad_groups"], "grad", start=4)
+    R2 = replan("review")
+    ck("复习日 开场的组全用完 ⇒ 重跑一组都不给（复检队列还有到期的也不给）",
+       not R2["pool_groups"] and not R2["grad_groups"] and R2["grad_due"],
+       (len(R2["pool_groups"]), len(R2["grad_groups"]), len(R2["grad_due"])))
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=TODAY, dry=False))
+    ck("复习日 cmd_pick 报「今天的配额已经出完」、⛔ 不写「抽」流水",
+       "今天的配额已经出完" in out and "━━━ " not in out and not drawn_kind("抽"), out[-600:])
+p, g, lg = archive(pool_many[:20], grads_many, DAYS)
+with sandbox(p, g, lg):
+    R0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "review")
+    use_groups(R0["pool_groups"][:1], "pool")
+    R1 = replan("review")
+    ck("复习日 在池只用了 1 组 ⇒ 在池给剩下 1 组、复检照旧 6 组（下溢按全天 2 组算）",
+       len(R1["pool_groups"]) == 1 and R1["spill"] == 3 and len(R1["grad_groups"]) == 6,
+       (len(R1["pool_groups"]), R1["spill"], len(R1["grad_groups"])))
+p, g, lg = archive(pool_many[:20], grads_many, DAYS)
+with sandbox(p, g, lg):
+    R0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "review")
+    use_groups(R0["pool_groups"], "pool")
+    over = [R0["grad_due"][i:i + 10] for i in range(0, 80, 10)]     # 复检出了 8 组 ＞ 配额 6
+    use_groups(over, "grad")
+    R1 = replan("review")
+    ck("复检已经超出配额 ⇒ 还能出 0 组（⛔ 不出负数、⛔ 不再给）",
+       R1["grad_left"] == 0 and not R1["grad_groups"], (R1["grad_left"], len(R1["grad_groups"])))
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=TODAY))
+    ck("超出配额 ⇒ 打出提示", "超出了全天配额" in out, out[-600:])
+
+#  ── 必出层压在上限之上：上限用完了它也照出 ──
+p, g, lg = archive(old + fresh, [], DAYS)
+with sandbox(p, g, lg):
+    L0 = drill.plan_queues(drill.load_all(), TODAY, drill.day_types(), "learn")
+    must_ids = {e.num for e in L0["must"]}
+    not_must = [e for e in L0["pool_due"] if e.num not in must_ids]
+    use_groups([not_must[i:i + 10] for i in range(0, 30, 10)], "pool")   # 3 组全是老条目
+    L1 = replan("learn")
+    ck("在池上限已用完、必出层还没出 ⇒ 必出层照出（只出它）",
+       L1["cap_left"] == 0 and {e.num for e in L1["pool_take"]} == must_ids and must_ids,
+       (L1["cap_left"], [e.num for e in L1["pool_take"]]))
+    rc, out, _ = run(drill.cmd_pick, Args(type="learn", date=TODAY))
+    ck("…… 组号接着编成在池组 4", shown_groups(out, "在池组") == [4], shown_groups(out, "在池组"))
 
 # ══════════════════════════════════════════════════════════════════════
 print("\n【H】分组")

@@ -95,7 +95,11 @@ G = io.open(os.path.join(WT, "graduated.md"), encoding="utf-8").read()
 #    那些条目的「有效上次」就落在 DAY **之后**，队列行为无法预期 ⇒ 测试台假红
 #    （09-06 那天就是这么红的：#0441 #0450 的有效上次 ＝ 09-06 ＞ DAY）。
 #    ⇒ 改成**取 log.md 里最后一个练习日**，跟着档案走（§0.6 夹具规矩：⛔ 不许写死）。
-DAY = sorted(drill.day_types().keys())[-1]
+# ⚠️ **2026-10-10 再改**：练习日**进行中**（还没收尾、log.md 还没有今天那一行），
+#    档案里已经有今天的判定行 ⇒ 又是「有效上次落在 DAY 之后」那个假红（10-10 中途改脚本时撞上）。
+#    ⇒ DAY ＝ log.md 最后一个练习日 与 全档最晚一条历史行 **取较晚的那个**。
+DAY = max(sorted(drill.day_types().keys())[-1],
+          max(h.date for e in drill.load_all() for h in e.history))
 
 
 def set_grid(text, num, grid):
@@ -196,44 +200,57 @@ print("\n【A】召回队列（§3.6）：今天判过的当天不再到期")
 with sandbox() as d:
     ents0 = drill.load_all()
     PLAN0 = drill.plan_queues(ents0, DAY, drill.day_types(), "review")
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
-    order0 = card_order(out)
+    # ⚠️ **2026-10-10 改**：原来只跑 `--scope pool`。在池队列可能一张卡都没有
+    #    （10-10：当天判过的、当天新建的都不到期）⇒「组 1 的集合」空集等于空集白绿、
+    #    「卡片打出了档位」直接红。⇒ 两条队列一起跑、**各自**比组 1，且至少一条队列非空。
+    rc, out_both, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    order_both = card_order(out_both)
+    _np = len(PLAN0["pool_take"])
     # ★ 组间按逾期分切、**组内**按族错开 ⇒ 比的是【组 1 的集合】，⛔ 不是组内次序
-    ck("组 1 的集合 ＝ 队列最前面的 10 条",
-       set(order0[:10]) == {e.num for e in PLAN0["pool_take"][:10]},
-       (order0[:10], [e.num for e in PLAN0["pool_take"][:10]]))
-    ck("卡片打出了档位与逾期分", "逾期分" in out and "档位" in out)
-    HEAD3 = order0[:3]
-    BASE_ORDER = order0
+    ck("前提：两条队列至少有一条排出了卡片", PLAN0["pool_take"] or PLAN0["grad_take"])
+    ck("在池组 1 的集合 ＝ 在池队列最前面的 10 条",
+       set(order_both[:min(10, _np)]) == {e.num for e in PLAN0["pool_take"][:10]},
+       (order_both[:10], [e.num for e in PLAN0["pool_take"][:10]]))
+    ck("复检组 1 的集合 ＝ 复检队列最前面的 10 条",
+       set(order_both[_np:_np + 10]) == {e.num for e in PLAN0["grad_take"][:10]},
+       (order_both[_np:_np + 10], [e.num for e in PLAN0["grad_take"][:10]]))
+    ck("卡片打出了档位与逾期分", "逾期分" in out_both and "档位" in out_both)
+    # ⚠️ **2026-10-10 改**：样本原来只取**在池队列**的前 3 张卡。在池常常排不满 3 条
+    #    已有判定行的（88% 已毕业；当天判过／当天新建的又都不到期）⇒ 下面 assert 崩。
+    #    本段守的「今天判过的当天不再到期／📝 不进有效上次」对两条队列是同一条规则
+    #    ⇒ 样本改从**两条队列合起来**的计划里挑（复检队列永远有已判过的条目）。
+    BASE_ORDER = order_both
 
-with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
-             g_text=inject_today(G, set(HEAD3), DAY)) as d:
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
-    order1 = card_order(out)
-    ck("退出码 0", rc == 0, out[-300:])
-    ck("今天判过的 3 条**今天不再出**（有效上次＝今天 ⇒ 逾期分 0）",
-       all(n not in order1 for n in HEAD3), (HEAD3, order1[:5]))
-    ck("⛔ 不是被删掉：它们仍在档案里、状态没动",
-       all(any(e.num == n and e.in_pool for e in drill.load_all()) for n in HEAD3))
-    ck("其余条目仍在队列里（只少掉那 3 条，⛔ 不多不少）",
-       set(BASE_ORDER) - set(order1) == set(HEAD3),
-       sorted(set(BASE_ORDER) - set(order1)))
-    ck("同一天重跑，分组完全一样",
-       run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))[1] == out)
-
-# ⚠️ **2026-09-06 改**：这一段原来直接拿 HEAD3（队列最前面 3 条）去注入 📝。
+# ⚠️ **2026-09-06 改**：这一段原来直接拿 HEAD3（队列最前面 3 条）去注入。
 #    可队首现在常常是**从未被判定过**的条目（09-06 那天有 16 条作文验改回出题、`上次 —`，
-#    逾期分 ∞ ⇒ 全部排在队首）。给一条没有历史的条目追加一行今天的 📝，
+#    逾期分 ∞ ⇒ 全部排在队首）。给一条没有历史的条目追加一行今天的行，
 #    那一行就成了它的**第一条历史行 ＝ 建号行** ⇒ 被「建号当天不回考」正确地挡下 ⇒ 假红。
-#    ⇒ 改成**按条件挑**：队列里前 3 条**已经有真判定行**的（📝 才不会变成建号行）。
+#    ⇒ 改成**按条件挑**：队列里前 3 条**已经有真判定行**的（注入的行才不会变成建号行）。
 _JUDGED = {"✅", "◎✅", "❌", "📖", "△", "◎−", "📋"}
 _hist_ok = {e.num for e in drill.load_all()
             if any(h.symbol in _JUDGED for h in e.history)}
 HEAD3 = [n for n in BASE_ORDER if n in _hist_ok][:3]
 assert len(HEAD3) == 3, "⛔ 队列里挑不出 3 条已有判定行的条目"
+_STATE0 = {e.num: e.state for e in drill.load_all() if e.num in HEAD3}
+
+with sandbox(p_text=inject_today(P, set(HEAD3), DAY),
+             g_text=inject_today(G, set(HEAD3), DAY)) as d:
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
+    order1 = card_order(out)
+    ck("退出码 0", rc == 0, out[-300:])
+    ck("今天判过的 3 条**今天不再出**（有效上次＝今天 ⇒ 逾期分 0）",
+       all(n not in order1 for n in HEAD3), (HEAD3, order1[:5]))
+    ck("⛔ 不是被删掉：它们仍在档案里、状态没动",
+       all(any(e.num == n and e.state == _STATE0[n] for e in drill.load_all()) for n in HEAD3))
+    ck("其余条目仍在队列里（只少掉那 3 条，⛔ 不多不少）",
+       set(BASE_ORDER) - set(order1) == set(HEAD3),
+       sorted(set(BASE_ORDER) - set(order1)))
+    ck("同一天重跑，分组完全一样",
+       run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))[1] == out)
+
 with sandbox(p_text=inject_trace(P, set(HEAD3), DAY),
              g_text=inject_trace(G, set(HEAD3), DAY)) as d:
-    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True, scope="pool"))
+    rc, out, _ = run(drill.cmd_pick, Args(type="review", date=DAY, dry=True))
     # ⚠️ **2026-09-06 改**：原来断言「这 3 条仍然在**组 1** 里」—— 那假定 HEAD3 就是队首 3 条。
     #    现在 HEAD3 是"前 3 条**已有判定行**的"，它们本来就排在一批 ∞ 逾期分（从未测过）的后面。
     #    本条真正要守的是：**📝 ⛔ 不进「有效上次」⇒ 注入前后整个队列的顺序一模一样**。
@@ -329,7 +346,11 @@ with sandbox(p_text=BOTH_OLD) as d:
     #    DAY 现在跟着最后一个练习日走，而练习日当天本来就会新建一批号（09-06 建了 19 条）
     #    ⇒ 这一段合法地出现了 ⇒ 假红。断言改成本条真正要守的东西：
     #    **基线里 TGT 与 CTL 都没有被当成「建号当天」挡下**。
-    _seg = base_l.split("建号当天不回考")[1][:800] if "建号当天不回考" in base_l else ""
+    # ⚠️ **2026-10-10 改**：原来切「建号当天不回考」之后的 800 个字 —— 当天新建的少时，
+    #    800 字会一路切进下面的队列卡片，TGT／CTL 的**卡片**被当成「被挡下」⇒ 假红。
+    #    ⇒ 只切那一段本身：到它的收尾句「半小时前的记忆」为止。
+    _seg = (base_l.split("建号当天不回考")[1].split("半小时前的记忆")[0]
+            if "建号当天不回考" in base_l else "")
     ck("前提：基线里 TGT／CTL 都没被「建号当天」挡下",
        TGT not in _seg and CTL not in _seg, _seg[:200])
 
