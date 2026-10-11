@@ -465,7 +465,7 @@
 
 ### 70 · I wouldn't go THAT far, though.（软化自己刚说的话）
 类型 词组 ｜ 旧号 B109a
-状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-10 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）
 
 **问题是什么**
 **I wouldn't go THAT far, though.** ＝ 软化自己刚说的话（整块背，重心在 **that far**）。
@@ -497,6 +497,7 @@
 - 2026-10-09 ❌ 学习日 复检第 4 组 [7]（#250 题里 · 自由产出掉）· `The worst in town? Come on, it doesn't go that far.` —— 整块 I wouldn't go that far 没调出来，主语塌成 it ⇒ **回潮**
   最小改 `The worst in town? Come on, I wouldn't go that far.`
   ❌ "我倒不至于这么说"＝ 整块 I wouldn't go that far（主语是我，wouldn't ＝ 要是让我说）；⛔ 别现造 it doesn't go that far
+- 2026-10-10 ✅ 学习日 在池第 1 组 [1] · `Some people say smartphones have ruined this generation, but I wouldn't go that far.` —— I wouldn't go that far 整块调出（主语 I、wouldn't、that far 一字不差）。连错 1 → 连对 1
 - 备注 08-11 教练自纠：块本身写错过（go too far → go that far）
 
 ### 89 · 加形容词说"哪一种"时回到 a（a diverse economy）
@@ -581,54 +582,6 @@
 - 2026-09-07 ⚪ 留痕 · 在池第 1 组 [10] · `he shown me` → `he showed me`
   —— shown 只活在助动词后面；同一组里 `he was two`／`I haven't seen` 都做对了 ⇒ §3.4 判形态类
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
-
-### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
-类型 结构 ｜ 旧号 B163
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 旧账 ｜ 题型 整句 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）
-
-**问题是什么**
-**否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
-no 一路盖到 and 后面那半。两条解法：
-· 解法 A 换正面名词：reasonable hours and job security
-· 解法 B 拆成两个并列项：`a job **with no overtime**, and **one that is stable**`
-同一格里的邻居（别串）：`I don't usually order takeaway and cook` 是同一个病（not 盖到 and 后面，听起来成了"也不做饭"）。
-判据一句话：句子里出现 `not／no … and …` ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就得拆。
-
-**怎么发现的**
-旧 B 表迁移（B163，2026-08-18，旧账），原始触发原话未存；最早记录 2026-08-09 ❌。
-2026-08-19 ✅ `i want a job with no overtime, and one that is stable`（自己选到了解法 B）→ 当时判毕业；
-**同日** ❌ `I don't usually order takeaway and cook` ⇒ 两次都是 cold、以最后一次为准 ⇒ 撤销毕业。
-2026-08-20 ✅ 复习辖域正确（no 只管 overtime，stable 被拆进另一个并列项）⇒ 她当场指定毕业。
-2026-09-07 复检（加练）✅ ⛔ 没写成 with no overtime and stability。
-
-**我错在哪**
-她的：`I don't usually order takeaway and cook`（2026-08-19 同日第二次）
-正确：把 and 后面那半拆出去别让 not 盖过去 —— 标准解法 ＝ `a job with no overtime, and one that is stable`
-找法：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍。
-
-**题面**
-"我想要一份不加班又稳定的工作。"
-
-- 2026-08-09 ❌
-- 2026-08-10 ✅
-- 2026-08-17 ✅
-- 2026-08-19 ✅ `i want a job with no overtime, and one that is stable`——自己选到了解法 B → 当时判毕业
-- 2026-08-19 ❌ 同日 · `I don't usually order takeaway and cook`——not 一路盖到 and 后面，
-  听起来是"也不做饭" ⇒ 两次都是 cold，以最后一次为准 ⇒ **撤销毕业**
-- 2026-08-20 ✅ 复习 · `I want a job with no overtime, and one that is stable`——辖域正确
-  （no 只管 overtime，stable 被拆进另一个并列项）⇒ 她当场指定毕业
-  ★ 检查触发保留有效：`not … and …` 出现时，把 and 后面那半单独接回否定念一遍
-- 2026-09-07 ✅ 复检 · 第 5 组（加练）· `I want a job with no overtime, and one that is stable.`
-  —— 把 stable 挪出了 no 的辖域（另起 one that is stable），⛔ 没写成 with no overtime and stability
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
-- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [6] · `I want to find a place with no line and reasonable prices.` —— no 盖到 and 后面，能读成"也没有公道的价格" ⇒ **回潮**
-  最小改 `I want to find a place with no line, and with reasonable prices.`　更好版 `I want to find a place where you don't have to wait in line and the prices are reasonable.`
-  ❌ no／not … and … ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就拆
-- 2026-10-09 ✅ 学习日 在池第 1 组 [1] · `I want to get a car that doesn't burn much gas and has plenty of room.` —— doesn't 只盖 burn much gas，has 带 -s 是独立谓语，没被否定盖住。连错 1 → 连对 1
-- 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
-  单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
-  ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
-- 备注 解法A 换正面名词（reasonable hours and job security）／解法B 拆两句
 
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
@@ -737,6 +690,101 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts …` → These（同组 [8]／[10] 限定词全对 ⇒ 形态类，只记录）
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `pulled three all-nighter` → three all-nighters（同句 tickets 复数标对 ⇒ 形态类，只记录）
 
+### 271 · recently／lately／so far 这一族默认拉完成时（要用一般现在时就换成 these days）
+类型 语法 ｜ **合并条·出题多句覆盖**（§3.2c）｜ 新建 2026-08-23
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-10-10**（08-25 毕业 → 10-10 复检 #21 题里写成 `keeps forgetting his keys recently`，recently 配了一般现在时，撤销毕业、连对清零）
+
+**问题是什么**
+**recently ／ lately ／ so far** 这一族默认**拉完成时**（要用一般现在时就换成 **these days**）。
+判据：
+```
+recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" ⇒ **拉完成时**
+   ✅ I haven't had much time recently.      ✅ Things have got busier lately.
+   ✅ We've done three so far.                ✅ It hasn't rained up to now.
+想用一般现在时 ⇒ 换成**指现在这个阶段**的副词：
+   these days ／ at the moment ／ right now ／ nowadays
+   ✅ I don't have much time these days.
+★ 判据一句话：**这个副词说的是"一段"还是"此刻"？** 一段 → 完成时；此刻 → 现在时
+★ 例外（不用改）：recently ＋ **过去时**说一个具体的点也成立 —— I saw him recently.（那次见面是个点）
+```
+★ 与 🎓**#90** 的分工写死（见下方备注）：**#90 ＝ for/since · ever/never/before · just/already/yet**
+　｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击。
+★ 与 **#259**（have 后面用过去分词）的分工：#259 管 have 后面动词**变什么形**（形态），
+　本条管"**要不要用完成时**" ⇒ 不同层。
+★ 与 **#269** 的分工（互斥写死，2026-09-05 定）：**带"最近/这阵子" ⇒ 本条（时态）；
+　不带时间副词 ⇒ #269（否定 ＋ much）**。
+
+**怎么发现的**
+2026-08-23 新建 · 付息日 a 段 · 复习 #269 句里 · 她写 `I don't have much time **recently**.`
+（→ I **haven't had** much time recently.）—— 副词是"一段"，动词却停在一般现在时。
+★ **从 🎓#90 摘出**（§3.2c ③：合并条里冒出没覆盖到的成员就单独摘出来，老的不动）
+判重（当天新建复核，§4④1b）：
+　① 目标英文形式 ＝ `haven't had much time recently`（recently ⇒ 完成时）
+　② grep "完成时"／"recently"／"lately"／"these days" 全库（含已毕业）→
+　　 命中 **🎓#90**（完成时的三个触发：for/since · ever/never/before · just/already/yet）
+　　 · #259（have 后面用过去分词）· 🎓#130（can vs be able to）
+　③ 逐条读：**#90** 列的是"**哪些词触发完成时**"—— recently 是同一条规则的**第四组成员，
+　　 但它从来没被写进 #90**。按 §3.2c ③ 摘出成新条；**#90 已毕业、连对3，不动、不回潮**
+　　（她不能为一条从没写进条目里的成员被判退步）。
+　　 **#259** 管 have 后面动词**变什么形**（形态），不是"要不要用完成时" ⇒ 不同层。
+　　 **🎓#130** 管 can／be able to 的选择 ⇒ 无关
+　⇒ 保留新建。
+
+**我错在哪**
+她的：`I don't have much time **recently**.`　　正确：`I **haven't had** much time recently.`
+找法：句子里蹦出 recently／lately／so far 时，回头看动词 —— **have/has ＋ 过去分词 在不在？**
+不在 ⇒ 要么把动词拉成完成时，要么把副词换成 these days。
+
+**题面**
+★ 2 句，一句测"副词拉完成时"、一句测"换副词保现在时"
+　① **点名**："我最近没什么时间。"（用 **recently** 说）
+　② **点名**："这阵子东西贵了不少。"（用 **lately** 说）
+　　★ 目标形式（教练看，⛔ 不进发题稿）：① I haven't had much time recently. ② Things have got a lot pricier lately.
+
+**成员出题账**
+① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅
+② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅
+★ 题面外的两次**自发命中**（不出题、只留痕）：08-25 `over the past year`（拉完成时）·
+　08-26 `These days he's doing really well.`（判据的另一半，走现在时）⇒ 她调的是判据不是那几个词。
+
+- 2026-08-23 新建 · 付息日 a 段 · 复习#269 句里 · `I don't have much time **recently**.`
+  → I **haven't had** much time recently.
+- 2026-08-24 ✅ 复习第1组 · **合并条 2 句整组首测，2/2 全对**（§3.2c）：
+  ① `I haven't had much time recently.`（与目标形式一字不差）
+  ② `Things have become a lot more expensive lately.`
+  ⇒ **连错 1 → 0（清零），连对 0 → 1（差一次毕业）**
+  ★ ② 条目预期是 `have got a lot pricier`，她答的 `have become a lot more expensive`
+    **完全合法且正中考点**（现在完成时 ＋ lately）⇒ 按 §3.3 记 ✅，不记 ◎
+  ★ 教练自审：想把 `have become` 标 ⚠️ 降级成 have got／have gone up。试造母语句推翻自己 ——
+    `Things have become a lot more expensive lately.` 母语者说得毫无问题、不书面 ⇒ 档位不成立，
+    写「无更好版本」，不标
+- 2026-08-25 ✅ 复习第1组 · **合并条 2 句整组，2/2 全对**（§3.2c）：
+  ① `I haven't had much time recently.`　② `Things have become a lot more expensive lately.`
+  ⇒ **连对 1 → 2 ⇒ 毕业**
+  ★ 教练自审留痕（§7 四问②）：② 的条目预期是 `have got a lot pricier`；08-24 已就
+    `have become a lot more expensive` 自审过一次并判**档位不成立**（母语者照说）。
+    今天无任何新证据 ⇒ **不翻案**，照记 ✅ ＋ 无更好版本
+- 2026-08-25 ✅ **自发命中**（毕业当天下午，本条未被出题，不改状态）· 加练新题 bank:1043 P2 ·
+  `**Over the past year**, I've bought him a lot of Lego sets.`
+  ——`over the past year` ＝ "到现在为止的一段" ⇒ 拉现在完成时，她自己拉对了
+  ★★ **一次真迁移**：本条今天上午刚毕业（中译英两句全对），下午在**没有中文题面**的自由产出里
+     换了一个从没测过的成员（over the past year，不在本条的四个成员里）照样拉对
+     ⇒ 说明她调的是**判据**（一段 vs 此刻），不是背下来的那四个词
+- 2026-08-26 ✅ **自发命中·第二次真迁移**（本条未被出题，不改已毕业状态）· 自由产出（新题 bank:244 P2）·
+  `**These days** he's doing really well.`
+  ——本条判据的**另一半**（"要用一般现在时就换成 these days，别用 recently 拉完成时"）
+  这次是正向用：想说"现在这阵子"⇒ 直接上 these days ＋ 现在进行，没去写 recently he is…
+  ★ 两天两次、两个不同成员、两个方向（08-25 over the past year 拉完成时 ／
+    今天 these days 走现在时）⇒ 判据本身已经在手，不是背词
+- 2026-09-11 ✅ 复检 · 付息日 a2 第 7 组 · 合并条 2 句：① `I haven't had much time recently.` ② `Things have got to a lot more expensive lately.` —— 两句都拉出完成时，考点 2/2
+  ⚠️ ② `have got **to** a lot more expensive` 多了 to（get ＋ 形容词中间⛔不加 to），一次性滑手，⛔ 不落本条、不建号
+- 2026-10-04 ✅ 复检 · 付息日 a2 复检第 4 组 [3] · `I haven't been sleeping too well recently.` ／ `We've been working way more overtime lately at our company.` —— recently ／ lately 两个成员都拉完成（进行）时
+- 2026-10-10 ❌ 学习日 复检第 3 组 [8]（#21 题里 · 自由产出掉）· `My dad keeps forgetting his keys recently, …` —— recently 配了一般现在时 keeps forgetting ⇒ **回潮**
+  最小改 `My dad keeps forgetting his keys these days, and he had to call a locksmith twice just last week.`
+  ❌ recently ＝ 到现在为止的一段 ⇒ 拉完成时（he's been forgetting his keys a lot recently）；想用一般现在时 ⇒ 换 these days
+- 备注 与 🎓#90 的分工写死：**#90 ＝ for/since · ever/never/before · just/already/yet**
+  ｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击
+
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
 状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句
@@ -785,46 +833,9 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 396 · at stake（押在那儿、利害攸关：how much is at stake）
-类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）
-
-**问题是什么**
-**at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
-`There's a lot at stake.` ／ `How much is at stake?` ／ `Our reputation is at stake.`
-⛔ 不能直接放名词前，也不能接在 how much 后面再另挂别的谓语（how much at stake it feels ✗）。
-同一格里的邻居（别串）：the stakes are high（stakes 当名词，"赌注很大"）· high-stakes（放名词前当形容词：a high-stakes exam）。
-判据一句话：用 at stake ⇒ 前面补 is／are；要放名词前 ⇒ 改用 high-stakes。
-★ 题型判整句：考点是 at stake 在句子里的位置（be 后面），孤立翻一个块永远对 ⇒ 整句 ＋ 正向点名 at stake。
-
-**怎么发现的**
-2026-10-03 学习日 新题 bank:504（P3 · What would you do if you did not receive a reply after sending out a message?）[S3] · 原话
-`It all comes down to how much at stake it feels.(at stake 要学下)`
-at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at stake 要学下」⇒ 建号，判 ❌。
-判重三步：
-　① 目标形式 dedup "at stake"／"stakes" ⇒ 零命中
-　② 中文 dedup "利害"／"关系重大" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`how much at stake it feels`　　正确：`how much is at stake`（想留"感觉上" ⇒ how high the stakes feel）
-找法：说出 at stake 之前，先确认前面有 is／are。
-
-**题面**
-"这次谈判关系重大，公司的未来都押在上面了。"（"押在上面"用 **at stake** 说）
-
-- 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
-- 2026-10-04 ✅ 付息日 a 段在池第 1 组 [10] · `There's so much at stack in this negotiate; …` —— so much at stake，前面有 there's（stack 是拼写，§2.1 不算）。连错 1 → 连对 1
-  ★ 同句 negotiate 当名词 ⇒ 新建 #399；她标学 on the line ⇒ 新建 #398；均不算本条
-- 2026-10-05 ✅ 学习日 在池第 1 组 [4] · `There's a lot at stake for his career in this interview.` —— 点名降到 stake，at 和前面的 is 自己补上。连对 1 → 2 ⇒ **毕业**
-- 2026-10-08 ❌ 复检 · 付息日 a2 复检第 3 组 [3] · `This investment is huge for us—our life savings are on the line.` —— 题面点名 at stake，换成了同义的 on the line，at stake 没出来 ⇒ **回潮**
-  最小改 `This investment is huge for us—our life savings are at stake.`
-  ❌ at stake 放在 be 后面；on the line 同义可留，但本条要练的 at stake 没调出来
-- 2026-10-09 ✅ 学习日 在池第 1 组 [2] · `This exam is crucial—my graduation is completely at stake.` —— is … at stake，at stake 放在 be 后面。连错 1 → 连对 1
-
 ### 429 · hold a grudge (against sb)（记仇）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hold a grudge** ＝ 心里一直记着别人的不好、不肯放下：He never holds a grudge. ／ hold a grudge against sb（记某人的仇）。
@@ -856,6 +867,9 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-09 ✅ 学习日 在池第 1 组 [8] · `My roommate holds a huge grudge—I forgot to pay her back ten bucks, and she nagged(这个词学一下) me about it for a whole month.` —— hold ＋ a ＋ grudge 齐了。连错 2 → 连对 1
   ⚠️ 更好版 `My roommate really holds grudges` —— "特别记仇"是性子 ⇒ 复数 grudges；a huge grudge 是一笔具体的仇（要接 against me）⇒ 问题是什么补了一行
   ｜她标「这个词学一下」⇒ nag 另建 #438
+- 2026-10-10 ❌ 学习日 在池第 1 组 [4] · `My coworker holds really grudge—I disagreed with him once in a meeting, and he hasn't spoken to me since.` —— really 插进动词和宾语中间，grudge 没带 a 也没变复数，块没成形。连对 1 → 连错 1
+  最小改 `My coworker really holds grudges—I disagreed with him once in a meeting, and he hasn't spoken to me since.`
+  ❌ really 修饰动作 ⇒ 放动词前（really holds）；副词不插进动词和宾语中间；grudge 可数，单数带 a，"性子记仇"用复数 grudges
 
 ### 432 · cross-border ≠ transnational（跨境 vs 跨国）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -895,155 +909,9 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-09 ✅ 学习日 在池第 2 组 [6] · ① `cross-border payments` ② `transnational organized crime` —— 两个成员都对、没串。首测 ⇒ 连对 1
   ⚠️ ② 更好版 `transnational organized crime groups`（题面"集团"是那一伙人，补 groups）
 
-### 433 · semi-final（半决赛）
-类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**semi-final** ＝ 半决赛（也写 semifinal）；the semi-finals ＝ 半决赛那一轮（有两场，所以常用复数）。
-同一格里的邻居（别串）：quarter-final（四分之一决赛）· the final（决赛，一场，单数）· the knockout stage（淘汰赛阶段）。
-判据一句话：决赛前一轮 ⇒ semi-final；再前一轮 ⇒ quarter-final。
-
-**怎么发现的**
-2026-10-08 付息日 a 段在池第 1 组 [4]（#415 题面"她第一次参加歌唱比赛，就闯进了半决赛。"）· 原话
-`She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
-她写对了 semifinals，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
-判重三步：
-　① 目标形式 dedup "semi" ⇒ 只命中 #415（正文举例 semi-finals，考点是 make it through to）⇒ 否
-　② 中文 dedup "半决赛" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词背下」（词不在手边）　　目标：`the semifinals`
-找法：说"半决赛"，先落 semi-final。
-
-**题面**
-"世界杯半决赛"（决赛前一轮，四支队伍打两场）
-
-- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#415 题里）· 她标「这个词背下」· 原话 `She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
-- 2026-10-09 ✅ 学习日 在池第 2 组 [1] · `the World Cup semifinals` —— semifinal（复数指半决赛那一轮，贴题面）。连错 1 → 连对 1
-
-### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
-类型 搭配 ｜ 新建 2026-10-08
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**consecutive** ＝"一个接一个"，至少两个单位才连得起来：three consecutive days ／ for the third consecutive year。
-只有**一个**单位时：**for a whole month**（整整一个月）／ **for a month straight**（straight 放在时间后面 ＝ 连续不断）。
-同一格里的邻居（别串）：in a row（three days in a row，同 consecutive，也要两个以上）· on end（for hours on end，一连好几个小时）。
-判据一句话：数字 ≥ 2 ⇒ X consecutive days／X days in a row；只有"一个月" ⇒ a whole month／a month straight。
-★ 题型判整句：考点是 consecutive 配不配单数，孤立翻"连续一个月"会直接落 for a month ⇒ 整句 ＋ 正向点名 straight。
-
-**怎么发现的**
-2026-10-08 付息日 a 段在池第 1 组 [10]（#420 题面"连续加了一个月的班，我整个人都被耗干了。"）· 原话
-`Working overtime for a consecutive month left me totally burnt out.`
-判重三步：
-　① 目标形式 dedup "consecutive" ⇒ 只命中 #420（10-07 历史行里她写对的 three consecutive months）⇒ 否：那条考 burnt out；
-　　 dedup "straight" ⇒ 🎓#331 look straight ahead（另一个意思）· 🎓#13 #333（历史行字串）⇒ 否
-　② 中文 dedup "连续" ⇒ 命中的都只是历史行字串，考点无关 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`for a consecutive month`　　正确：`for a whole month`／`for a month straight`
-找法：说"连续"之前先数一下有几个单位 —— 只有一个就别用 consecutive。
-
-**题面**
-"他连续一个星期每天只睡四个小时。"（"连续一个星期"用 **straight** 说）
-
-- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#420 题里）· 原话 `Working overtime for a consecutive month left me totally burnt out.`
-- 2026-10-09 ✅ 学习日 在池第 2 组 [2] · `He slept only four hours a night for a week straight.` —— for a week straight，没用 consecutive。连错 1 → 连对 1
-
-### 435 · succulent（多肉植物）
-类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**succulent** ＝ 多肉植物（名词，可数：a succulent ／ succulents）；当形容词是"多汁的"（succulent steak）。
-几盆多肉 ＝ a few pots of succulents ／ a few potted succulents。
-同一格里的邻居（别串）：cactus（仙人掌，复数 cacti／cactuses —— 仙人掌是多肉的一种）· houseplant（室内盆栽，统称）。
-判据一句话：说"多肉"这种植物 ⇒ succulent(s)；说"几盆" ⇒ pots of succulents。
-
-**怎么发现的**
-2026-10-08 付息日 a 段在池第 2 组 [5]（#426 题面"窗台上摆着的几盆小多肉"）· 原话
-`A few small succulent(这个词背下) pots placed on the windowsill.`
-她写对了 succulent，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌）。
-判重三步：
-　① 目标形式 dedup "succulent" ⇒ 零命中
-　② 中文 dedup "多肉" ⇒ 只命中 #426（今天的题面字串，考点是 windowsill）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词背下」（词不在手边）　　目标：`succulent`
-找法：说"多肉"，先落 succulent。
-
-**题面**
-"办公桌上那盆小多肉"（叶子肥厚、不怎么用浇水的那种植物）
-
-- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [5]（#426 题里）· 她标「这个词背下」· 原话 `A few small succulent(这个词背下) pots placed on the windowsill.`
-- 2026-10-09 ✅ 学习日 在池第 2 组 [3] · `that small succulent sitting on my desk` —— succulent。连错 1 → 连对 1
-
-### 436 · downstairs from ＋ 地方（在…楼下）
-类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
-反过来：upstairs from ＋ 某处（在…楼上）；只说"楼下"、不带参照 ⇒ downstairs（副词：go downstairs ／ the neighbors downstairs）。
-同一格里的邻居（别串）：below（正下方，偏书面）· on the ground floor（在一楼）。
-判据一句话：要说"在 X 的楼下" ⇒ downstairs from X；只说"在楼下" ⇒ downstairs。
-★ 题型判整句：考点是 from 挂参照物，孤立翻"楼下"永远落 downstairs ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-08 付息日 a 段在池第 2 组 [7]（#428 题面"我们公司楼下那家面馆上过一档美食节目。"）· 原话
-`The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
-她写对了 downstairs from，但自己标「这个 downstairs from 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "downstairs" ⇒ 零命中；dedup "upstairs" ⇒ 只命中 🎓#371（历史行字串，考点是 bring … over）⇒ 否
-　② 中文 dedup "楼下" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个 downstairs from 学下」（块不在手边）　　目标：`downstairs from our office`
-找法：说"某某楼下的那家店／那户人家"，先落 downstairs from。
-
-**题面**
-"我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
-
-- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
-- 2026-10-09 ✅ 学习日 在池第 2 组 [4] · `A new convenience store just opened downstairs from my place, which makes grabbing stuff way easier.` —— downstairs from my place。连错 1 → 连对 1
-
-### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
-类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-09 未毕业 ｜ 题型 整句
-
-**问题是什么**
-逗号后面的 **which** 可以指前面**一整件事**（不只是前面那个名词），后面常用"主语 ＋ 助动词"把前面的动作省掉：
-`You'd see people eating them all the time, which they don't.`（＝ 可他们并没有天天吃）／ `He said he'd call, which he never did.` ／ `She passed the exam, which surprised everyone.`
-同一格里的邻居（别串）：that ⛔ 不能这样用（不说 , that they don't）· which means …（指前面整句，接一个结果）· and they don't（拆成并列句，大白话版本）。
-判据一句话：逗号 ＋ which，指的是前面那件事 ⇒ 成立；想说"可事实并非如此" ⇒ , which ＋ 主语 ＋ 否定助动词。
-
-**怎么发现的**
-2026-10-08 付息日 d 段重答 bank:364（R20 · P3 · Why are there special foods on special occasions or events?）[S5] · 原话
-`To be honest, these foods might not even taste that great—otherwise, you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
-她写对了 which they don't，但自己标「这个 which 的用法可以学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
-判重三步：
-　① 目标形式 dedup "which they"／"which he" ⇒ 零命中；dedup "which" ⇒ 🎓#1（同位语不用 who／which）· 🎓#42（which vs what 选择范围）· 🎓#178（only／最高级后用 that）· 其余只是正文字串 ⇒ 都是别的规则，否
-　② 中文 dedup "非限定"／"指前面整句" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个 which 的用法可以学一下」（结构不在手边）　　目标：`…, which they don't.`
-找法：说完一个假设或别人的说法，想补一句"可事实不是这样"，就用 , which ＋ 主语 ＋ don't／didn't／isn't。
-
-**题面**
-"他说会准时到，结果并没有。"（"结果并没有"用 **which** 说）
-
-- 2026-10-08 ❌ 首犯 · 付息日 d 段重答 bank:364 [S5] · 她标「这个 which 的用法可以学一下」· 原话 `you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
-- 2026-10-09 ✅ 学习日 在池第 2 组 [5] · `He promised he'd be here on time, which he wasn't.` —— , which he wasn't（which 指前面整件事 ＋ 主语 ＋ 否定助动词）。连错 1 → 连对 1
-
 ### 438 · nag sb (about sth)（念叨、反复催／数落某人）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-10 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **nag** ＝ 冲着某人一遍遍地念叨／催／数落（让人烦的那种）：`She nagged me about it for a whole month.` ／ `My mom keeps nagging me to get married.`
@@ -1069,10 +937,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "我妈天天念叨我早点睡，说熬夜伤身体。"（"念叨"用 **nag** 说）
 
 - 2026-10-09 ❌ 首犯 · 学习日 在池第 1 组 [8]（#429 题里）· 她标「这个词学一下」· 原话 `she nagged(这个词学一下) me about it for a whole month.`
+- 2026-10-10 ✅ 学习日 在池第 1 组 [10] · `My mom nags me every day about going to bed early, saying staying up late ruins your health.` —— nags me about ＋ doing（宾语直接挂人，为什么事用 about）。连错 1 → 连对 1
 
 ### 439 · comeback（逆转、反超：pull off a comeback）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-10 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **comeback** ＝ 落后的一方反超、翻盘：`they pulled off a huge comeback` ／ `a last-minute comeback`。
@@ -1097,10 +966,11 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "篮球赛最后两分钟落后十分还赢下来的大逆转"（落后的一方在最后反超）
 
 - 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [6]（#402 题里）· 她标「这个词背一下」· 原话 `they actually pulled off a huge comeback(这个词背一下).`
+- 2026-10-10 ✅ 学习日 在池第 2 组 [1] · `a crazy basketball comeback where they were down ten with only two minutes left and still pulled off the win` —— comeback（动词 pull off 也带上了）。连错 1 → 连对 1
 
 ### 440 · sentimental（煽情、催泪）≠ dramatic（夸张、戏剧化）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-09 未毕业 ｜ 题型 词组
+状态 连对0 连错2 上次2026-10-10 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **sentimental** ＝ 煽情、感情渲染过头、就想让人哭：`an overly sentimental ending`。
@@ -1126,6 +996,353 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "电视剧结尾那段特别煽情的告别戏"（故意把感情往上推、就为了让人哭的那种）
 
 - 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [7]（#404 题里）· 她标「这个词学下」· 原话 `I felt like then ending of the movie was overly dramatic(这个词学下).`
+- 2026-10-10 ❌ 学习日 在池第 2 组 [2] · 「忘了」—— sentimental 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
+  最小改 `the really sentimental farewell scene at the end of the TV series`
+  ❌ "煽情" ＝ sentimental（催泪、感情泛滥）；⛔ 别落到 dramatic（情节起伏大、反应夸张）
+
+### 441 · shed（猫狗掉毛：a dog that doesn't shed）
+类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**shed** ＝ 猫狗掉毛（不及物，主语是动物）：`a dog that doesn't shed` ／ `Our cat sheds like crazy in spring.`
+同一格里的邻居（别串）：shed hair／fur（带宾语也行）· lose hair（人掉头发、或病了一块块掉；猫狗正常换毛不说它）· molt（鸟换羽、蛇蜕皮）。
+判据一句话：猫狗身上掉毛 ⇒ shed；人掉头发 ⇒ lose hair。
+★ 题型判整句："掉毛"也能绕成 lose fur ⇒ 整句 ＋ 正向点名 shed。
+
+**怎么发现的**
+2026-10-10 学习日 在池第 1 组 [2]（#96 题面"我想养一只不掉毛、又特别亲人的狗。"）· 原话
+`I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.`
+她写对了 doesn't shed，但自己标「学一下」⇒ §2③ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "shed" ⇒ 零命中
+　② 中文 dedup "掉毛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学一下」（用法本身对）　　目标：`a dog that doesn't shed`
+找法：说猫狗"掉毛"，先落 shed，不用带宾语。
+
+**题面**
+"我们家哈士奇一换季就疯狂掉毛，地板上到处都是狗毛。"（"掉毛"用 **shed** 说）
+
+- 2026-10-10 ❌ 首犯 · 学习日 在池第 1 组 [2]（#96 题里）· 她标「学一下」· 原话 `I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.`
+
+### 442 · affectionate（宠物／人亲人、爱亲近）
+类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**affectionate** ＝ 爱亲近、爱撒娇、主动表达亲热：`a super affectionate dog` ／ `She's very affectionate with her kids.`
+同一格里的邻居（别串）：friendly（友好、不怕生，程度弱）· clingy（黏人，常带"烦"的意思）· cuddly（抱起来软乎乎、爱被抱）。
+判据一句话：宠物"亲人"、爱蹭爱黏、主动凑过来 ⇒ affectionate；只是不怕生 ⇒ friendly。
+★ 题型判整句："亲人"翻成 friendly／clingy 都沾边 ⇒ 整句 ＋ 正向点名 affectionate。
+★ 与 #441（shed）同一句里建号：两条是两个词，各走各的。
+
+**怎么发现的**
+2026-10-10 学习日 在池第 1 组 [2]（#96 题面"我想养一只不掉毛、又特别亲人的狗。"）· 原话
+`I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.`
+她写对了 super affectionate，但自己标「学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "affectionate" ⇒ 零命中
+　② 中文 dedup "亲人" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学一下」（用法本身对）　　目标：`a super affectionate dog`
+找法：说"亲人／爱黏人"，先落 affectionate，对谁亲用 with。
+
+**题面**
+"我养的那只猫特别亲人，我一进门它就跑过来蹭我的腿。"（"亲人"用 **affectionate** 说）
+
+- 2026-10-10 ❌ 首犯 · 学习日 在池第 1 组 [2]（#96 题里）· 她标「学一下」· 原话 `I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.`
+
+### 443 · office ＝ 上班的地方（"公司"指地点 ⇒ office；company 是机构）
+类型 词汇 ｜ 新建 2026-10-10
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**office** ＝ 上班的那个地方：`downstairs from our office` ／ `I stayed at the office till ten.`
+**company** ＝ 公司这个机构：`I work for a tech company.` ／ `The company laid off 200 people.`
+同一格里的邻居（别串）：at work（在上班，不点出地方）· go to work（去上班，⛔ go to the company）· office building（写字楼）。
+判据一句话：中文"公司"说的是**一个地方**（楼下、门口、在公司加班）⇒ office；说的是**一个机构**（进了一家公司、公司裁员）⇒ company。
+★ 题型判整句：要靠"地方"的语境才现形；零提示（office／at work 都对，只有 company 当地点算掉）。
+
+**怎么发现的**
+2026-10-10 学习日 在池第 1 组 [8]（#436 题面"我们公司楼下有一家咖啡店，每天早上都排长队。"）· 原话
+`There's a coffee shop downstairs from our company, with a huge line every morning.`
+downstairs from 本身对（#436 ✅），diff-2 ⚠️："公司"在这里指地方，company 是机构 ⇒ 更地道是 our office ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "office" ⇒ 🎓#347（For office workers 话题句）· 🎓#343（opening hours）· 🎓#345（on ＋ 机器）· #436（downstairs from）· 🎓#127（especially）· 🎓#302（something breaks）· 🎓#428（be featured in）—— office 只出现在例句／历史里，考点都不是它 ⇒ 否
+　　 dedup "company" ⇒ 🎓#423（job insecurity，⛔ company instability：那条考的是"工作不稳定"的说法）· 🎓#214 #238 #328 #370 #419 #129 #271 #353 #368 · #432 · ⛔#10 —— 没有一条考"公司指地点" ⇒ 否
+　② 中文 dedup "公司" ⇒ 28 条，全是题面／正文里出现"公司"（social media giant／start a business／land a job／at stake 等），没有一条以"公司 ＝ office"为考点 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`downstairs from our company`　　更地道：`downstairs from our office`
+找法：说到"公司"先问一句 —— 我说的是地方，还是机构？地方 ⇒ office。
+
+**题面**
+"我今天在公司待到晚上十点才走。"
+★ 零提示：office／at work 都算对，只有把 company 当地点说才算掉
+
+- 2026-10-10 ❌ 首犯 · 学习日 在池第 1 组 [8]（#436 题里）· diff-2 ⚠️ · 原话 `There's a coffee shop downstairs from our company, with a huge line every morning.` ⇒ 更好版 downstairs from our office
+
+### 444 · get caught up in ＋ 事（一门心思扑在…上、陷进去顾不上别的）
+类型 词组 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**get (so) caught up in** sth／doing sth ＝ 被一件事卷进去、扑在上面，顾不上别的：`People get so caught up in making money that …` ／ `I got caught up in work and forgot to call her.`
+同一格里的邻居（别串）：be busy with（只说忙，没有"卷进去顾不上别的"那层）· 🎓#289 be obsessed with（着迷，程度更重）· get carried away（一时兴奋过了头）。
+判据一句话：陷在某件事里、结果把别的忽略了 ⇒ get (so) caught up in ＋ 事。
+★ 题型判整句："一忙起来"翻成 be busy with／focus on 都合法 ⇒ 整句 ＋ 正向点名 caught up。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [1]（#406 题面"很多人一心只顾着赚钱，慢慢就忘了什么才是真正重要的。"）· 原话
+`A lot of people get so caught up in(这个词组学一下) making money that they lose sight of what actually matters.`
+她写对了 get so caught up in，但自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "caught up" ⇒ 只命中 🎓#166（see／meet／meet up 选动词，正文里有 catch up）⇒ 否；dedup "obsessed" ⇒ 🎓#289（be obsessed with，邻居、不同块）⇒ 否
+　② 中文 dedup "一心"／"顾不上" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（用法本身对）　　目标：`get so caught up in making money that …`
+找法：想说"一忙起来就…／光顾着…"，先落 get caught up in，后面接事或 doing。
+
+**题面**
+"我一忙起工作来，就把我妈的生日给忘了。"（"一忙起来"用 **caught up** 说）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [1]（#406 题里）· 她标「这个词组学一下」· 原话 `A lot of people get so caught up in(这个词组学一下) making money that they lose sight of what actually matters.`
+
+### 445 · dust（灰：chalk dust／a layer of dust）
+类型 词汇 ｜ 新建 2026-10-10 ｜ 她说不会
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**dust** ＝ 落下来、积起来的灰、细粉末（不可数）：`chalk dust`（粉笔灰）· `a layer of dust on the shelf`（一层灰）。
+同一格里的邻居（别串）：ash（烧剩的灰：烟灰、骨灰）· powder（磨成的粉）。
+判据一句话：落下来、积起来的灰 ⇒ dust；烧剩的 ⇒ ash。
+★ 题型判词组：中文"积的灰／粉笔灰"能映射回 dust，只要调出这个词就覆盖考点。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [2]a（#407 题面"老师袖子上蹭的一片粉笔灰"）· 原话
+`不会（灰和袖口)`
+她说"灰"不会 ⇒ §2③ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "dust" ⇒ 零命中
+　② 中文 dedup "灰" ⇒ 零命中；"一层" ⇒ 只命中正文里的"那一层"（🎓#113 #118 等，别的考点）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`不会（灰和袖口)`　　目标：`the chalk dust on the teacher's sleeve`
+找法：说"灰"先问一句 —— 是积的还是烧的？积的 ⇒ dust。
+
+**题面**
+"书架顶上积的一层厚厚的灰"（很久没擦、手指一抹就是一道印子的那种）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [2]a（#407 题里）· 她说不会 · 原话 `不会（灰和袖口)`
+
+### 446 · sleeve（袖子）／cuff（袖口）
+类型 词汇 ｜ 新建 2026-10-10 ｜ 她说不会
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**sleeve** ＝ 袖子：`on his sleeve` · `roll up your sleeves` · long-sleeved／short-sleeved（长袖／短袖）。
+**cuff** ＝ 袖口（袖子最末那一圈）。
+同一格里的邻居（别串）：collar（领子）· hem（下摆）。
+判据一句话：整条袖子 ⇒ sleeve；末端那一圈 ⇒ cuff。
+★ 题型判词组：中文"袖子"只映射回 sleeve。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [2]a（#407 题面"老师袖子上蹭的一片粉笔灰"）· 原话
+`不会（灰和袖口)`
+她说"袖口"不会 ⇒ §2③ 建号，判 ❌；题面写的是"袖子" ⇒ 目标 sleeve，袖口 cuff 一起写进本条。
+判重三步：
+　① 目标形式 dedup "sleeve"／"cuff" ⇒ 零命中
+　② 中文 dedup "袖" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`不会（灰和袖口)`　　目标：`on the teacher's sleeve`
+找法：说"袖子"先落 sleeve；只说最末那一圈才用 cuff。
+
+**题面**
+"这件外套的袖子"（胳膊伸进去的那两截）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [2]a（#407 题里）· 她说不会 · 原话 `不会（灰和袖口)`
+
+### 447 · stray（流浪的：a stray cat／stray animals）
+类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**stray** ＝ 没主人、在外面流浪的（动物）：`a stray cat` · `stray dogs` · `feed the strays`（名词，流浪猫狗）。
+同一格里的邻居（别串）：homeless（说人）· abandoned（被主人遗弃的）· wild（野生的，本来就不是宠物）。
+判据一句话：没主人在外面晃的猫狗 ⇒ stray；人 ⇒ homeless。
+★ 题型判词组：中文"流浪猫"映射回 stray cat，只要调出 stray 就覆盖考点。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [2]b（#410 题面"为流浪动物筹款的慈善长跑"）· 原话
+`a charity run for stray(学一下) animals`
+她写对了 stray animals，但自己标「学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "stray" ⇒ 零命中
+　② 中文 dedup "流浪" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学一下」（用法本身对）　　目标：`stray animals`
+找法：说"流浪猫／流浪狗"，先落 stray。
+
+**题面**
+"小区楼下那几只流浪猫"（没主人、在外面晃、靠邻居喂的那种）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [2]b（#410 题里）· 她标「学一下」· 原话 `a charity run for stray(学一下) animals`
+
+### 448 · elevated highway／expressway（高架路）≠ overpass（跨线桥）
+类型 词汇 ｜ 新建 2026-10-10
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 词组
+
+**问题是什么**
+中文"高架"（一整条架在半空中的快速路）⇒ **the elevated highway**（或直接 **the expressway**）。
+**overpass**（英式 flyover）＝ 一座跨过另一条路的桥，只有一小段。
+同一格里的邻居（别串）：ring road（环线）· interchange（立交桥）· footbridge（人行天桥）。
+判据一句话：一整条在空中跑很远的路 ⇒ elevated highway／expressway；一座跨过去的桥 ⇒ overpass。
+★ 题型判词组：中文块"那段高架"映射回 elevated highway（expressway 合法照判），落到 overpass ⇒ ❌。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [2]d（#61 题面"早高峰在高架上堵了四十分钟"）· 原话
+`being stuck in traffic for forty minutes on the overpass during the morning peak`
+diff-2 ⚠️：overpass 是一座桥，"高架"是一整条路 ⇒ 更准是 the elevated highway ⇒ §3.2b 选词偏了 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "overpass" ⇒ 零命中
+　② 中文 dedup "高架" ⇒ 只命中 🎓#287（flow smoothly，题面里有高架）⇒ 否；"立交" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`on the overpass`　　更准：`on the elevated highway`
+找法：说"高架"先问一句 —— 是一整条路还是一座桥？
+
+**题面**
+"每天上班要走的那段高架"（一整条架在半空中、能跑很远的快速路）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [2]d（#61 题里）· diff-2 ⚠️ · 原话 `being stuck in traffic for forty minutes on the overpass during the morning peak` ⇒ 更好版 on the elevated highway
+
+### 449 · get／be knocked out (of 比赛)（被淘汰）
+类型 词组 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**get／be knocked out** ＝ 比赛里被淘汰：`He got knocked out in the first round.` ／ `They were knocked out of the World Cup.`（被淘汰出某个比赛用 of）。
+同一格里的邻居（别串）：be eliminated（更正式）· be voted off（选秀被投票刷掉）· lose in the first round（大白话）。
+判据一句话：淘汰赛里出局 ⇒ get knocked out (of 比赛)；靠投票刷掉 ⇒ be voted off。
+★ 题型判整句："被淘汰"翻成 be eliminated 也合法 ⇒ 整句 ＋ 正向点名 knocked。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [3]（#408 题面"选秀节目第一轮他就被淘汰了。"）· 原话
+`He was knocked out(这个词组学一下) in the first round of the talent show.`
+她写对了 was knocked out，但自己标「这个词组学一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "knocked out"／"eliminated"／"voted off" ⇒ 零命中
+　② 中文 dedup "淘汰" ⇒ 只命中 🎓#433（semi-final，题面里有淘汰）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学一下」（用法本身对）　　目标：`He was knocked out in the first round`
+找法：说"被淘汰"，先落 get knocked out，出哪个比赛用 of。
+
+**题面**
+"中国队小组赛就被淘汰了。"（"被淘汰"用 **knocked** 说）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [3]（#408 题里）· 她标「这个词组学一下」· 原话 `He was knocked out(这个词组学一下) in the first round of the talent show.`
+
+### 450 · all over ＋ 地方（满…都是、弄得到处都是）
+类型 词组 ｜ 新建 2026-10-10 ｜ 她问怎么说
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**all over ＋ 地方** ＝ 满…都是：`left a mess all over the table`（弄得满桌都是）· `There's water all over the floor.` · `paint all over his shirt`。
+同一格里的邻居（别串）：everywhere（到处，不点出在哪）· on the table（只说在桌上，没有"满"那层）。
+判据一句话：想说"弄得满 X 都是" ⇒ all over the X 挂在后面。
+★ 与 🎓#216 分工：那条考"东西当主语用 be（His stuff is all over the floor）"，本条考 all over ＋ 地方这个块本身。
+★ 与 🎓#186 分工：那条考 leave a mess，本条考 mess 后面怎么挂地方。
+★ 题型判整句：on the floor／everywhere 也能达意 ⇒ 整句 ＋ 正向点名 all over。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [6]（#186 题面"同事们在会议室开完会，把桌上弄得一团糟就走了。"）· 原话
+`My coworkers wrapped up their meeting in the conference room and just left a huge mess.(在桌子上怎么翻译)`
+她问"桌上"怎么挂 ⇒ §2③ 她问的地方照常建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "all over" ⇒ 🎓#216（东西当主语用 be，见上分工）· 🎓#186（leave a mess，见上分工）· 🎓#392 #100 #344（all over 只在例句里）⇒ 否
+　② 中文 dedup "满地"／"到处都是" ⇒ 只命中 🎓#272 #314、#441 正文里的字串 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`just left a huge mess.(在桌子上怎么翻译)`　　目标：`just left a huge mess all over the table`
+找法：说完 a mess／东西，想补"满桌／满地"，接 all over the …。
+
+**题面**
+"孩子吃完饭，饭粒掉得满地都是。"（"满地都是"用 **all over** 说）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [6]（#186 题里）· 她问「在桌子上怎么翻译」· 原话 `My coworkers wrapped up their meeting in the conference room and just left a huge mess.(在桌子上怎么翻译)`
+
+### 451 · locksmith（开锁师傅）
+类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**locksmith** ＝ 开锁／换锁／配钥匙的师傅：`call a locksmith` · `get a spare key cut at the locksmith's`。
+同一格里的邻居（别串）：lock yourself out（把自己锁在门外）· spare key（备用钥匙）。
+判据一句话：开锁、换锁、配钥匙的人 ⇒ locksmith。
+★ 题型判词组：中文"开锁师傅"只映射回 locksmith。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [8]（#21 题面"我爸最近经常忘带钥匙，上周已经找了两次开锁师傅。"）· 原话
+`My dad keeps forgetting his keys recently, and he's had to call a locksmith（背一下) twice just last week.`
+她写对了 locksmith，但自己标「背一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "locksmith" ⇒ 零命中
+　② 中文 dedup "开锁" ⇒ 零命中；"钥匙" ⇒ 只命中 🎓#100（look for，题面里找钥匙）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（用法本身对）　　目标：`call a locksmith`
+找法：说"开锁师傅"，先落 locksmith，动词用 call。
+
+**题面**
+"半夜打电话叫来的开锁师傅"（钥匙丢了、进不了家门时找的那种人）
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [8]（#21 题里）· 她标「背一下」· 原话 `he's had to call a locksmith（背一下) twice just last week.`
+
+### 452 · 钉死的过去时间（last week／yesterday／two days ago）⇒ 一般过去时（⛔ have done … last week）
+类型 语法 ｜ 新建 2026-10-10
+状态 连对0 连错1 上次2026-10-10 未毕业 ｜ 题型 整句
+
+**问题是什么**
+句子里有**已经结束、钉死的过去时间**（last week／yesterday／in 2019／two days ago／when I was a kid）⇒ **一般过去时**：`He had to call a locksmith twice last week.`
+完成时说的是"到现在为止"，⛔ 不跟钉死的过去时间；还没过完的时间（this week／today／so far）才配完成时。
+同一格里的邻居（别串）：🎓#271（recently／lately／so far ⇒ 拉完成时）· 🎓#90（for／since／ever／just／already／yet ⇒ 完成时）—— 那两条是"该用完成时"的触发词，本条是"不能用完成时"的触发词。
+判据一句话：句子里有 last …／… ago／yesterday／具体年份 ⇒ 一般过去时。
+
+**怎么发现的**
+2026-10-10 学习日 复检第 3 组 [8]（#21 题面"我爸最近经常忘带钥匙，上周已经找了两次开锁师傅。"）· 原话
+`My dad keeps forgetting his keys recently, and he's had to call a locksmith（背一下) twice just last week.`
+he's had to … last week：完成时撞上钉死的过去时间 ⇒ 时态选择错（不是形态标记漏掉）⇒ 建号。
+判重三步：
+　① 目标形式 dedup "last week" ⇒ 🎓#302 #166 #369 #397（只在例句里）⇒ 否；dedup "完成时" ⇒ 🎓#259（have 后面用过去分词，形态）· 🎓#141（过去完成时要有更晚参照）· 🎓#148（状态 vs 变化）· 🎓#271（recently 族拉完成时）· 🎓#214（完成进行时的形式）· 🎓#130 #269 #309 #291（别的规则）⇒ 否；dedup "yesterday" ⇒ 🎓#133（this morning 说法）· ⛔#147（时态只标一次）· 🎓#372 ⇒ 否；dedup "ago" ⇒ 🎓#220 #385 ⇒ 否
+　② 中文 dedup "过去时间"／"具体时间" ⇒ 零命中／只命中 🎓#148（状态 vs 变化）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`he's had to call a locksmith twice just last week`　　正确：`he had to call a locksmith twice just last week`
+找法：写完 have／has done，扫一眼句子里有没有 last／ago／yesterday —— 有就退回过去式。
+
+**题面**
+"我前天才把这本书看完。"
+
+- 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [8]（#21 题里）· 原话 `he's had to call a locksmith（背一下) twice just last week.`
 
 ## 迁移说明（2026-08-18）
 

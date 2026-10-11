@@ -7113,3 +7113,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 ④ deliver 判定表列序写错 1 次（硬闸拦下）
 
 **下一场 ＝ C10·D1 学习日**：必出层 ＝ #0573–#0594（22 条，自己占满 3 组）＋ 复检 1 组；回潮 7 条到期但被必出层挤后
+
+## 2026-10-10（周六）· 口语 L2（周期 11 第 2 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 429 ＝ problems.md 29 ＋ graduated.md 400 ｜ 🎓 400（93.2%）｜ 未毕业 29 ｜ 可出题 19 ｜ 今天到期全部出完 ｜ ⚡ 累计 263 条、掉过 11（校准 4%）｜ 重答队列 66 / 未重答 46
+
+**五段**
+- ① 在池 2 组 12 题 / 12 条：**✅10 ❌2**（#429 holds really grudge · #440 忘了 sentimental）⇒ **毕业 7**（#96 #396 #433 #434 #435 #436 #437）；#70 回潮后首测 ✅
+- ①b 复检 2 组 12 题 / 15 条：**✅15 ❌0**（#407 题面塞了非考点词、chalk 没测成 ⇒ 记 ✅）；另 #21 题里 `keeps forgetting his keys recently` ⇒ 🎓#271 **回潮**
+- ② 回看 bank:882（`lookback --pending` 原样贴）
+- ③ 新题 bank:826（P3 · Should people prepare before giving advice?）：真错 0 ｜ ⚠️ 2 处（S2 and → because 衔接 · S4 删 consisting of）
+- 新建 12：#441 shed · #442 affectionate · #443 office（公司指地点）· #444 get caught up in · #445 dust · #446 sleeve／cuff · #447 stray · #448 elevated highway ≠ overpass · #449 get knocked out · #450 all over ＋ 地方 · #451 locksmith · #452 钉死的过去时间 ⇒ 一般过去时
+
+**教练犯规**：复检 #407 题面塞了"袖子""灰"两个非考点词 ⇒ 记 ✅，种子补 ★
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 7⇄1
+
+**下一场 ＝ 周期 11 · L3**：#441–#452 首测 ＋ #271 回潮 ＋ #429 #440 再测；复检；回看 bank:826；新题 1 道
