@@ -1379,7 +1379,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0588 「其中最…的」接关系从句 ⇒ 先行词得是一组东西：…, the ＋ 最高级 ＋ of which ／ among which
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F07 ｜ 题型 整句
+状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1393,6 +1393,10 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 ⇒ 前面不是一组东西 ⇒ ⛔ 不用 among／of which，改成：
 　并列一句：`…, and the most controversial part was the adapted ending`
 　独立主格：`…, the most controversial part being the adapted ending`
+⚠️ of which 也可以是"整体的一部分"：`the house, the oldest part of which dates from 1600` ✔ ——
+　前提同样是 which **紧挨着**的那个名词真有这一部分（2026-10-11 补：适用范围说清，连对连错不动）
+　⛔ ~~the plan has led to considerable controversy, the most controversial part of which is the cost~~ —— which 挨着 controversy
+　✔ 要说计划的一部分 ⇒ 把从句挪到 plan 后面：`the plan, the most controversial part of which is the cost, has led to considerable controversy`
 ```
 **找法**：写 among which ／ of which 之前，回头看 which 指的那个名词 —— 是不是一组东西？
 "最…的那个"是不是它里面的一员？**两个都是**才用。
@@ -1432,6 +1436,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   among which 挂在单数的 controversy 上 —— 先行词不是一组东西，"最有争议的部分"也不是"争议"的成员 ⇒ which 挂错了名词。
   当场给回：`…, and the most controversial part was the adapted ending.`
   ⚠️ 同题主考点 #0461 ✅（controversy ／ controversial 两处都对）。
+- 2026-10-11 ❌ C10 D1 学习日 组3 第 1 题　复发
+  题面「这家博物馆收藏了两百多件青铜器，其中最古老的一件有三千年历史；而这次搬迁计划引起了很大的争议，最受争议的一点是搬迁费用。（★ 前一处必须用 of which 接关系从句；后一处自己判断还能不能也用 which）」
+  她写 `This museum houses over two hundred bronze artifacts, **the oldest of which** dates back three thousand years; meanwhile, this relocation plan has led to considerable controversy, **the most controversial part of which** is the relocation cost.`
+  前半 the oldest of which 挂在 bronze artifacts（一组东西）上 ✔；后半 which 紧挨着单数 controversy ——「争议里最有争议的部分」说不通 ⇒ 同 10-10 首犯那个坑（among which 换成了 part of which，还是挂在 controversy 上）。
+  当场给回：`…, and the most controversial part is the relocation cost.`；想保留 part of which ⇒ 挪到 plan 后面：`this relocation plan, the most controversial part of which is the relocation cost, has led to considerable controversy.`
+  正文补一句「of which 也可以是整体的一部分，前提是 which 紧挨着的名词真有这一部分」（适用范围说清，连对连错不动）。
 
 ---
 
@@ -3400,7 +3410,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同句 about 还是 regarding 她没把握 ⇒ 建号 #0598。
 
 ## #0594 「走过场、只是个形式」＝ a (mere) formality
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3441,6 +3451,10 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 8 题（顺带用对）
   她写 `a second interview, however, was entirely **a formality**(这个词学下)` —— 块对。
   ⚠️ 同题主考点 #0500 ✅（a single ／ a second ＋ 名词）。
+- 2026-10-11 ✅ C10 D1 学习日 组3 第 2a·2b 题（词组）
+  题面「（选举结果早定了，这次投票）只是走个过场」「（入境时要办的）各种手续」（换场景：种子「这轮面试」＝ 建号场景）
+  她写 `merely a formality` · `immigration procedures` —— a 走过场 ⇒ a formality ✔（本条考点）；b procedures 成立，没调出复数 formalities（△，不拖本条）。首测 ⇒ 连对 1。
+  下次 b 再测：immigration formalities。
 
 ## #0597 「幅度」≠ margin ⇒ the size of ／ how much（margin ＝ 两个数之间的差额）
 状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句

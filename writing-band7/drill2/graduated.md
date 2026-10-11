@@ -33396,6 +33396,8 @@ alongside       ＝ 介词，"与…并存／一道"　`**alongside** the conven
 - 2026-10-11 📋 C10 D1 学习日 组2 第 2 题（顺带用对 · 记账时补列）
   她写 `…; **meanwhile**, the head coach reassured fans that …` —— 中文「同时」切到另一条线（俱乐部 → 主教练）⇒ Meanwhile 句首 ✔。
   ⚠️ 组2 发出的顺带判定表漏列这一处，记账时补（session 组2 表内已补一行并注明）。
+- 2026-10-11 📋 C10 D1 学习日 组3 第 1 题（顺带用对）
+  她写 `…; **meanwhile**, this relocation plan has led to considerable controversy` —— 「而」切到另一条线（藏品 → 搬迁计划）⇒ Meanwhile 句首 ✔。
 
 ## #0364 「举例」一族：for example ／ take X as an example ／ a case in point ／ such as
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F14
