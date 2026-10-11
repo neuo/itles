@@ -30,7 +30,20 @@
 ```
 ★ 下面这一块 **2026-08-29 迁移完成后由 `drill.py stats` 产出**，⛔ 不许口算、不许沿用旧值（SKILL §0.4）
 
-★ 最近一次刷新：**2026-10-10 收尾**（`drill.py stats` 逐条实数，migrate 之后）
+★ 最近一次刷新：**2026-10-11 收尾**（`drill.py stats` 逐条实数，migrate 之后 —— 本日 migrate 无可搬）
+总数   **574 条**　＝ 本文件 **89** ＋ `graduated.md` **485**
+在池   **52 条**　｜ **退池 31** ｜ 并入 6 ｜ 题面待补 0
+　　　 连对 1 的 **29** 条（#0553 #0560–#0572 ｜ #0574 #0576 #0578 #0579 #0581 #0582 #0585 #0586 #0587 #0589 #0590 #0591 #0592 #0593 #0594）
+　　　 连对 0 的 **23** 条（#0368 #0417 #0437 #0438 #0442 #0462 #0477 ｜ #0573 #0575 #0577 #0580 #0583 #0584 #0588 ｜ #0595–#0602 #0604）
+🎓     **485 条（占 84.5%）**
+题型   整句 全档 474 ｜ 词组 全档 100 ｜ 作文验 0
+　　　 ★ 2026-10-11（C10·D1 学习日，全天 **32 条主判定**：在池 3 组 22 条 ＋ 复检 1 组 10 条）：
+　　　 　 判定 **25/32 ＝ 78.1%**（组1 6/10 · 组2 8/10 · 组3 1/2 ｜ 复检 10/10；△ 1 #0577 · ◎✅ 0 · ◎− 0）
+　　　 　 一字未改率（在池句子题）：组1 3/3 · 组2 5/6 · 组3 0/1 ⇒ **8/10 ＝ 80.0%**
+　　　 　 · 毕业 **0 条** · **回潮 0 条**（在池 22 条全是首测）
+　　　 　 · 新建 **10 条**（#0595–#0604：③ 9 · ❌ 1 #0597）· 复查合并 **1**（#0603 ⇒ 并入 #0353）⇒ 净新增 9
+
+〔上一次刷新留档〕2026-10-10 收尾（`drill.py stats` 逐条实数，migrate 之后）
 总数   **564 条**　＝ 本文件 **79** ＋ `graduated.md` **485**
 在池   **43 条**　｜ **退池 31** ｜ 并入 5 ｜ 题面待补 0
 　　　 连对 1 的 **14** 条（#0553 #0560 #0561 #0562 #0563 #0564 #0565 #0566 #0567 #0568 #0569 #0570 #0571 #0572）
@@ -590,8 +603,10 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 她这次写对了（`whom they should approach`），点名要学 —— 建号理由是 §2③。
 
 **中文触发点**
-遇到不懂的地方，新员工可以直接去找自己的导师。
+为了贷款扩大生意，老板先后去找了三家银行，结果都被拒了。
 （★ 用 approach —— 后面要不要介词自己定）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 3 对 ≠ 题面 5 题而整批拒绝；源：sessions/2026-10-11.md 组1 第1题）
+（老触发点留档不删：遇到不懂的地方，新员工可以直接去找自己的导师。／（★ 用 approach —— 后面要不要介词自己定））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组4 第 9 题（顺带用对）
@@ -1268,6 +1283,49 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 `📋 **本组备案 ＋ 她的资产**：`some advice` 不可数用对 ⇒ **E-128 悬空还清、连击重启**；`challenges` 复数 · `allows parents to` · `China, where` · `much earlier` 四条 → **连对 2**；`more or less help` 语序修复（原错 help more or less youth parents）；`help sb do sth` 框架用对；`before 4pm` 简洁。<br>★ 第 4 题她走 `young people` 而非档案的 `the young`——**两个都对**，原错 the younger 未复现 ⇒ 考点已行使记 ✅<br>★ `then`(＝the) 按规则 C 手滑归一化不计|留痕（备案＋资产）|`
 
 </details>
+
+## #0601 「文学的」＝ literary（⚠️ 形近：literal ／ literate）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F05 ｜ 题型 词组
+
+**问题是什么**
+```
+**literary**　文学的：`literary circles` · `literary works` · `a literary prize`
+形近三兄弟：
+　**literal**　 字面的：`a literal translation`（直译）· `literally`
+　**literate**　识字的、会读写的：`computer-literate`（会用电脑的）· 名词 `literacy`（读写能力）
+⚠️ 拼写：lit-er-ar-y（⛔ ~~litterary~~）
+判据（词组题）：literary 调得出来、拼对就算对；写成 literal ／ literate ⇒ ❌
+```
+**找法**：中文「文学（的）」⇒ literary；「字面上的」⇒ literal；「识字的」⇒ literate。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 2 题（主考点 #0508，命中 ✅）。中文「在文学圈里评价很高」，
+她自己写出 `in **literary** circles`，并当场括注 **「背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "literary" "literal" "literate" "文学"   ⇒ 命中 #0508 #0429 #0433 #0460 #0479
+② 规则查  同上（「文学」就是规则关键词）
+逐条否掉：
+  #0508（「X 圈／X 界」＝ X circles，🎓）—— literary circles 是那条的例句，那条考的是 circles 的数 ⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0429 #0433 #0460 #0479 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F05（形近词：literary ／ literal ／ literate），题型 **词组**（§3.5 第 2.5 步 ⑤：固定形容词块、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F05 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`literary circles`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（他获过好几个）文学奖
+（这家出版社只出）纯文学作品
+```
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要背）C10 D1 学习日 复检组1 第 2 题（顺带用对）
+  她写 `This novel is highly acclaimed in **literary**(背下) circles` —— 词与拼写都对。
+  ⚠️ 同题主考点 #0508 ✅。
 
 ---
 
@@ -2924,7 +2982,9 @@ progress **不可数**（⛔ a progress）。
 
 **中文触发点**
 服务员悄悄地把账单放在桌角，没有打断客人的谈话；后来才发现，那款点餐软件一直在偷偷记录顾客的位置。
-（★ 两处分别用 discreetly ／ secretly）
+（★ 两处从 secretly ／ discreetly 里各用一个 —— 哪个配哪处自己分）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 3 对 ≠ 题面 5 题而整批拒绝；源：sessions/2026-10-11.md 组1 第3题；中文没动，只把括号里按顺序对应的写法改成不给对应）
+（老触发点留档不删：服务员悄悄地把账单放在桌角，没有打断客人的谈话；后来才发现，那款点餐软件一直在偷偷记录顾客的位置。／（★ 两处分别用 discreetly ／ secretly））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 3 题（顺带）
@@ -3065,8 +3125,10 @@ progress **不可数**（⛔ a progress）。
 她这次写对了（`have reached a stalemate`），点名要学 —— 建号理由是 §2③。
 
 **中文触发点**
-两家公司围绕专利费的谈判拖了半年，最后还是陷入了僵局。
+工会和资方在加薪幅度上谁也不肯让步，谈了三轮之后还是陷入了僵局。
 （★ 用 stalemate —— 前面配哪个动词自己定）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 6 对 ≠ 题面 8 题而整批拒绝；源：sessions/2026-10-11.md 组2 第1题）
+（老触发点留档不删：两家公司围绕专利费的谈判拖了半年，最后还是陷入了僵局。／（★ 用 stalemate —— 前面配哪个动词自己定））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 10 题（顺带用对）
@@ -3157,8 +3219,10 @@ progress **不可数**（⛔ a progress）。
 她这次写对了（游客是"受影响、不满"的一方，旅行社拿补救措施去平息 ⇒ appease 贴切），点名要学 —— 建号理由是 §2③。
 
 **中文触发点**
-航班取消后，航空公司发了代金券来平息乘客的怒气，同时向公众保证飞机本身没有安全问题。
-（★ 两处分别用 appease ／ reassure）
+为了平息球迷的不满，俱乐部宣布下赛季季票打八折；同时，主教练出面向球迷保证，球队不会卖掉队长。
+（★ 两处从 reassure ／ appease 里各用一个 —— 哪个配哪处自己分）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 6 对 ≠ 题面 8 题而整批拒绝；源：sessions/2026-10-11.md 组2 第2题）
+（老触发点留档不删：航班取消后，航空公司发了代金券来平息乘客的怒气，同时向公众保证飞机本身没有安全问题。／（★ 两处分别用 appease ／ reassure））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组6 第 4 题（顺带用对）
@@ -3208,8 +3272,10 @@ progress **不可数**（⛔ a progress）。
 判据：relief 属于"人"，拥堵自己作主语时用不及物的 ease。
 
 **中文触发点**
-新地铁线开通以后，这一带早高峰的拥堵明显缓解了。
+央行降息以后，中小企业的资金压力有所缓解。
 （★ 必须出现 ease —— 形态与时态自己定）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 6 对 ≠ 题面 8 题而整批拒绝；源：sessions/2026-10-11.md 组2 第3题）
+（老触发点留档不删：新地铁线开通以后，这一带早高峰的拥堵明显缓解了。／（★ 必须出现 ease —— 形态与时态自己定））
 
 ### 历史记录
 - 2026-10-10 📝 C9 D4 复习日 复检组7 第 3 题（顺带 ⚠️ 生硬，§2② 建号）
@@ -3258,8 +3324,10 @@ progress **不可数**（⛔ a progress）。
 她这次写对了（`actively seeking opportunities`），点名要学 —— 建号理由是 §2③。
 
 **中文触发点**
-毕业后她一直在积极寻找出国工作的机会，去年终于拿到了一份海外的录用通知。
-（★ 两处分别用 seek ／ secure —— 形态与时态自己定）
+他退休后一直在寻找做志愿者的机会，今年终于在社区图书馆争取到了一个名额。
+（★ 两处从 secure ／ seek 里各用一个 —— 哪个配哪处自己分；形态与时态自己定）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 6 对 ≠ 题面 8 题而整批拒绝；源：sessions/2026-10-11.md 组2 第4题）
+（老触发点留档不删：毕业后她一直在积极寻找出国工作的机会，去年终于拿到了一份海外的录用通知。／（★ 两处分别用 seek ／ secure —— 形态与时态自己定））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 2 题（顺带用对）
@@ -3351,8 +3419,10 @@ progress **不可数**（⛔ a progress）。
 她这次写对了（`shall convene`，不及物、主语是董事会），点名要学 —— 建号理由是 §2③。
 
 **中文触发点**
-董事长昨晚紧急召开了一次会议；按照规定，委员会每个季度要开一次会。
+化工厂爆炸后，市长当晚就召集了一次紧急会议；按照规定，安全委员会每个月要开一次会。
 （★ 两处都用 convene —— 一处带宾语、一处不带，形态自己定）
+⚠️ **2026-10-11 换题面**（手工搬运 —— `drill.py trigger` 因本组词组题打包、映射 6 对 ≠ 题面 8 题而整批拒绝；源：sessions/2026-10-11.md 组2 第5题）
+（老触发点留档不删：董事长昨晚紧急召开了一次会议；按照规定，委员会每个季度要开一次会。／（★ 两处都用 convene —— 一处带宾语、一处不带，形态自己定））
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 7 题（顺带用对）
@@ -3547,6 +3617,233 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她说没把握）C10 D1 学习日 组2 第 6 题（顺带用对）
   她写 `dispelled the parents' **concerns about**(不确定是不是这个介词，还是 regarding) this vaccine` —— about ✔。
   ⚠️ 同题主考点 #0593 ✅（dispel ＋ 疑虑本身）。
+
+## #0599 「消毒（这件事）／消毒液」＝ disinfection ／ disinfectant
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**disinfect**　　（动词）消毒：`disinfect the instruments`
+**disinfection** （名词）消毒这件事，常作定语：`a **disinfection** protocol` · `**disinfection** procedures`
+**disinfectant** （名词）消毒液、消毒剂：`soak the instruments in **disinfectant**` · `a bottle of **disinfectant**`
+邻居：**sterilise ／ sterilisation**（灭菌，比消毒更彻底，多用于医疗器械）
+⚠️ 两个名词只差词尾：-tion ＝ 这件事；-ant ＝ 那瓶东西
+判据（词组题）：「消毒（规程、程序）」⇒ disinfection；「消毒液」⇒ disinfectant；写 sterilisation 判 △
+```
+**找法**：中文「消毒」先问 —— 说的是这件事，还是那瓶液体？前者 ⇒ disinfection，后者 ⇒ disinfectant。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 1 题（主考点 #0505，命中 ✅）。中文「一套严格的消毒规程……泡进消毒液里」，
+她自己写出 `a strict **disinfection** protocol` · `in **disinfectant** solution`，并当场括注 **「消毒和消毒液都背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "disinfect" "steril" "消毒"   ⇒ 命中 #0505
+② 规则查  同上（「消毒」就是规则关键词）
+逐条否掉：
+  #0505（流程／程序一族 protocol ／ step，🎓）—— 「消毒」只是那条题面里的字样（消毒规程）⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：两个固定名词、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`disinfection protocol` · `disinfectant`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（每天早晚各一次的）消毒程序
+（一瓶）消毒液
+```
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要背）C10 D1 学习日 复检组1 第 1 题（顺带用对）
+  她写 `This laboratory has a strict **disinfection** protocol; the first step is to immerse all instruments in **disinfectant** solution（消毒和消毒液都背下).` —— 两个名词都对。
+  ⚠️ 同题主考点 #0505 ✅（protocol ／ step）。
+
+## #0600 「评价很高」＝ highly acclaimed ／ highly regarded（⚠️ appraise ＝ 评估、估价的动作）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**highly acclaimed**　 广受赞誉（多指作品、演出、作者）：`a highly acclaimed novel` · `The film was highly acclaimed by critics.`
+**highly regarded**　　口碑好、被看重：`highly regarded in literary circles`
+**well received**　　　反响好：`The book was well received.`
+**appraise**　　　　　 评估、估价 —— 给它的价值或表现打分（动作）：`appraise a property`（房产估价）· `appraise staff performance`（考核员工表现）· 名词 `an appraisal`
+邻居：**evaluate ／ assess**（评估效果、能力 ⇒ **#0308**）· be regarded **as**（被看作 ⇒ **#0404**，与 highly regarded 不是一回事）
+```
+**判据（一句话）**：「评价很高」说的是别人的看法（口碑）⇒ highly acclaimed ／ highly regarded；「做评价、估价」说的是打分的动作 ⇒ appraise ／ evaluate ／ assess。
+**找法**：中文「评价」先问 —— 是"口碑"，还是"打分"这个动作？
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 2 题（主考点 #0508，命中 ✅）。中文「这本小说在文学圈里评价很高」，
+她自己写出 `This novel is **highly acclaimed** in literary circles`，并当场括注 **「评价和 appraise 对比下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "appraise" "acclaim" "评价"          ⇒ 命中 #0308 #0404 #0420 #0457 #0472 #0365 #0508
+          dedup "regarded" "evaluate" "assess"       ⇒ 命中 #0308 #0404 #0326 #0434 #0528 #0286 #0363
+② 规则查  同上（「评价」就是规则关键词）
+逐条否掉：
+  #0308（四个"衡量" quantify ／ measure ／ assess ／ gauge，🎓）—— 最像的一条：appraise 是 assess 的近邻。问2：那条在"衡量"的几个动作里挑；
+    本条要分的是"口碑"（acclaimed ／ regarded，结果）与"打分"（appraise，动作）⇒ 要分两句话讲 ⇒ 否。交叉引用。
+  #0404（serve as ／ be regarded as「被视为」，🎓）—— be regarded as ＝ 被看作；highly regarded ＝ 口碑好 ⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0434（be judged by ／ assessed against）#0528 #0363（指标、标杆）#0457（看好）—— 别的名词／动词选择 ⇒ 问1 不成立 ⇒ 否
+  #0420 #0472 #0365 #0326 #0286 #0508 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ②：要在 acclaimed ／ appraise 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她这次写对了（`highly acclaimed`），点名要和 appraise 对比 —— 建号理由是 §2③。
+
+**中文触发点**
+这位导演的新片在影评人中评价很高；公司每年年底都会对员工的表现做一次考核。
+（★ 两处从 appraise ／ acclaimed 里各用一个 —— 哪个配哪处自己分；形态自己定）
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 复检组1 第 2 题（顺带用对）
+  她写 `This novel is **highly acclaimed**(评价和 appraise 对比下) in literary circles` —— 口碑 ⇒ acclaimed ✔。
+  ⚠️ 同题主考点 #0508 ✅（circles 复数 ／ the publishing world ／ his small circle）。
+
+## #0602 「（销量、效果）一般」＝ modest（⚠️ 不是"差"，是"不大、不怎么样"）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**modest**（数量、程度）不大、一般：
+　`**modest** sales`（销量一般）· `only **modest** success` · `a **modest** increase`（小幅增长）· `sold only **modestly**`
+邻居：**moderate**（适度、中等）· **average**（平均水平）· **mediocre**（平庸 —— 偏质量，带贬义）
+⚠️ modest 修饰人 ⇒ 谦虚（a modest person）；修饰数量、结果 ⇒ 一般、不大
+判据（词组题）：modest 调得出来就算对；写 average ／ mediocre 判 △
+```
+**找法**：中文「（卖得、效果、增长）一般／不怎么样」⇒ modest ＋ 名词 ／ 动词 ＋ modestly。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 2 题（主考点 #0508，命中 ✅）。中文「在出版界却卖得一般」，
+她写 `yet achieves only **modest** sales`，并当场括注 **「这个一般的形容词想了很久没想到，查了下」** ⇒ §2③ 她说调不出来。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "modest"                            ⇒ 命中 #0597 #0270
+          dedup "mediocre" "moderate" "不怎么样"     ⇒ **零命中**
+② 规则查  dedup "modest" "一般"                     ⇒ 「一般」命中 #0147 #0151 #0197 #0198 #0220 #0344 #0351（全是字样）
+逐条否掉：
+  #0597（「幅度」≠ margin，今天新建）—— modest 只是那条里"小幅 ⇒ a modest rise"的例子 ⇒ 问1 不成立 ⇒ 否
+  #0270（工资／收入一族，🎓）—— 历史行里有一次更好版 `Her base salary is modest`（not high → modest）⇒ 那条考的是工资名词 ⇒ 问1 不成立 ⇒ 否
+  #0147 #0151 #0197 #0198 #0220 #0344 #0351 —— 「一般」字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：形容词＋名词的固定块（modest sales ／ modest results）；
+　 契约⑬ 来源：她说调不出来、查的 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写出来了（`only modest sales`），但是查的、自己调不出来 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（这部电影的）票房一般
+（新政策的）效果一般
+```
+
+### 历史记录
+- 2026-10-11 ③ 建号（她说调不出来）C10 D1 学习日 复检组1 第 2 题（顺带，查了才写出）
+  她写 `yet achieves only **modest** (这个一般的形容词想了很久没想到，查了下) sales in the publishing world` —— 块对，是查的。
+  ⚠️ 同题主考点 #0508 ✅。
+
+## #0603 「绝不／一点也不」＝ by no means　　⇒ **并入 #0353**
+状态：并入 #0353 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+
+> 🔀 **2026-10-11 收尾 C4 并入 #0353**（不用 not 也能否定 —— 词表型，🎓）。
+> 三问：① 改正动作同 ＝ 用一个**自带否定的现成块**代替 not（`is by no means secure` ＝ `is not secure at all`），
+> 　　　与 #0353 成员 ⑤ far from 同一种手段 ② 一句话规则同 ＝ #0353 正文那句「not 是把整个谓语否掉；这一族是把否定塞进某一个词里」
+> 　　　③ 词表型条目的缺口是**成员覆盖**（§3.5 第 3.5 步）⇒ by no means 是 #0353 的新成员，⛔ 不另立一条（同 10-09 toll ⇒ #0249 先例）。
+> 建号时 dedup 没打到 #0353（它正文里没有 by no means 这串字），是按规则查（far from）才浮出来的 ⇒ 当时标了「归入待确认」，收尾结清。
+> #0353 已补成员 ⑦ by no means ／ in no way，并记一行 📋（复检组1 第 4 题）。编号不复用、不删除，本处只留指向。
+
+**问题是什么**
+```
+**by no means** ＝ 绝不、一点也不（比 not 语气重，书面）
+　`The lock is **by no means** secure.` · `This is **by no means** the first time.` · `It **by no means** guarantees success.`
+　位置：be 动词后（is by no means）／ 实义动词前（by no means guarantees）
+邻居：**not … at all**（口语）· **far from**（远不是：far from perfect）· **in no way**
+⚠️ 别和 **by all means**（当然可以、请便）弄反
+判据（词组题）：by no means 调得出来就算对；写 not at all ／ far from 判 △
+```
+**找法**：中文「绝不是／一点也不」想加重语气 ⇒ by no means。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 4 题（主考点 #0518，命中 ✅）。中文「大门的锁一点也不牢靠」，
+她自己写出 `the lock on the main entrance is **by no means** secure`，并当场括注 **「这个词组学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "by no means" "not at all" "一点也不" "绝不"   ⇒ 命中 #0029 #0518
+          dedup "far from" "in no way" "by all means"         ⇒ 命中 #0323 #0353 #0457 #0279
+② 规则查  同上
+逐条否掉：
+  #0518（safe ／ secure）#0029 —— 字样偶合 ⇒ 否
+  #0353（不用 not 也能否定，🎓 词表型）—— ⚠️ **归入待确认**：far from 是那条的成员 ⑤，by no means 同样是"把否定塞进一个现成块里"⇒ 收尾 C3 复查
+  #0279（把否定放到宾语上）#0323 #0457 —— 问1 不成立 ⇒ 否
+⇒ 先按发出的编号新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定介副词块、不变形）；收尾 C3 对 #0353 复查。
+```
+
+**我错在哪**
+她这次写对了（`is by no means secure`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（这次事故）绝不是偶然
+（这份工作）一点也不轻松
+```
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 复检组1 第 4 题（顺带用对）—— 收尾 C4 已并入 #0353
+  她写 `the lock on the main entrance is **by no means**(这个词组学下) secure and can be easily pried open` —— 块对、位置在 be 后 ✔。
+  ⚠️ 同题主考点 #0518 ✅（safe ／ secure）。
+
+## #0604 「关于（是不是／怎么）」＝ as to ＋ whether／how（⚠️ as for ＝ 至于，切话题）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**as to** ＝ 关于（某个问题）—— 多挂在名词后面，接 whether ／ how ／ what：
+　`uncertainty **as to** whether …` · `There is no agreement **as to** how the money should be spent.` · `advice **as to** what to do next`
+　＝ about，但更正式
+**as for** ＝ 至于 —— 放句首，切到另一个话题（⇒ **#0368** ⑥）：`**As for** the cost, no one knows yet.`
+⚠️ as to 放句首也成立（≈ regarding），但"切到另一个话题"用 as for 更自然
+⚠️ 与 **#0598**（concerns about ／ over ／ regarding）交叉引用：concern 后面也能挂 as to whether
+```
+**判据（一句话）**：名词（uncertainty ／ doubt ／ question ／ agreement）后面要接"关于是不是／怎么／什么" ⇒ as to；句首换话题 ⇒ as for。
+**找法**：中文「对于（是不是／怎么）…还有疑问」⇒ 名词 ＋ as to whether ／ how；「至于 X」⇒ As for X。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 复检组1 第 8 题（主考点 #0297，命中 ✅）。中文「明年能不能拿到下一轮融资，目前还有很大的不确定性」，
+她自己写出 `There remains substantial uncertainty **as to** whether …`，并当场括注 **「as to 可以学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "as to" "至于" "关于"     ⇒ 命中 #0198 #0287 #0373 #0598 #0297 #0056 #0112
+          dedup "as for" "regarding"      ⇒ 命中 #0368 #0021 #0598 #0449 #0297 #0303 #0308
+② 规则查  同上
+逐条否掉：
+  #0368（「换个角度／限定范围」一族，在池；成员 ⑥ as for）—— 最像的一条。问1：那条的 as for 是"切到另一个话题"；
+    本条的 as to 是挂在名词后面"关于某个问题"⇒ 改正动作不同 ⇒ 否。交叉引用（as to ／ as for 的分工写进本条）。
+  #0297（uncertainty 的可数性与冠词，🎓）—— 历史行里提过 as to 与 about ／ over ／ regarding 同一格 ⇒ 那条考的是冠词与数 ⇒ 问1 不成立 ⇒ 否
+  #0598（concerns about，今天新建）—— 那条管 concern 后面配哪个介词；as to 是一个通用的"关于" ⇒ 问3：会 concerns about 不会自动调出 as to whether ⇒ 否；交叉引用
+  #0021（As for family level → At the family level）—— 那条是 as for 误用成"在…层面"⇒ 问1 不成立 ⇒ 否
+  #0198 #0287 #0373 #0056 #0112 #0449 #0303 #0308 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ②：要在 as to ／ as for 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她这次写对了（`uncertainty as to whether`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+专家们对这座桥能不能按期完工还有不少疑问；至于资金从哪儿来，市政府到现在都没表态。
+（★ 两处从 as for ／ as to 里各用一个 —— 哪个配哪处自己分）
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 复检组1 第 8 题（顺带用对）
+  她写 `There remains substantial uncertainty **as to**（as to 可以学下) whether this start-up company can secure its next round of financing next year.` —— as to ＋ whether ✔。
+  ⚠️ 同题主考点 #0297 ✅（不可数、零冠词）。
 
 ---
 

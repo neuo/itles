@@ -13,7 +13,10 @@
 > 　教练在练习中仍然**只在条目原地改状态行**，⛔ 不手工搬文件、⛔ 不在本文件里新建条目。
 > 　脚本只挪**已有的整块字节**：problems.md 里的 🎓 搬进来、本文件里已不是 🎓 的搬回去；
 > 　⛔ 不改状态、不改正文、不改任何一个数、不碰本头部说明块；搬完自校，不过就两个文件整批回滚。
-> **★ 最近一次刷新：2026-10-10 收尾**（`drill.py stats` 逐条实数，migrate 之后）
+> **★ 最近一次刷新：2026-10-11 收尾**（`drill.py stats` 逐条实数，migrate 之后）
+> 　本文件 **485 条**（全部 🎓）｜ 全档 **574 条** ＝ 本文件 485 ＋ `problems.md` 89 ｜ 🎓 占比 **84.5%**
+> 　（当天 migrate 无可搬：毕业 0 ／ 回潮 0）
+> 〔上一次〕2026-10-10 收尾（`drill.py stats` 逐条实数，migrate 之后）
 > 　本文件 **485 条**（全部 🎓）｜ 全档 **564 条** ＝ 本文件 485 ＋ `problems.md` 79 ｜ 🎓 占比 **86.0%**
 > 　（当天 migrate 搬入 5 条：#0555 #0556 #0557 #0558 #0559 ／ 搬回 7 条：#0477 #0417 #0437 #0438 #0442 #0462 #0368 回潮）
 > 〔上一次〕2026-10-09 收尾（`drill.py stats` 逐条实数，migrate 之后）
@@ -504,7 +507,7 @@ P1 介词　R · P1
   ⚠️ 本次题面已彻底换场景（08-16 那版与 #0056 是同一个句子的两个说法，同组必然互相提示）。
 
 ## #0010 if they cannot cure → if they cannot treat the disease（cure 及物必带宾语）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F01
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01
 
 **问题是什么**
 P1 论元完整　R · P1
@@ -563,6 +566,10 @@ P1 论元完整　R · P1
   `should have been opened` 的完成 ＋ 被动也对。
   ⚠️ 顺带 △：`has yet to … **to date**` 同一层说两遍 ⇒ 归 #0221（该条档位写死是 △）。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓（回潮后重新毕业，rc 归零，从 🎓rc0 重爬梯子）。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 6 题
+  题面「这项规定去年就公布了，可很多医院至今也没真正执行。（★ 后半用 implement —— 形态与时态自己定）」
+  她写 `This regulation was announced last year, yet many hospitals have not truly **implemented it** to date.`
+  implement 及物、中文没说执行什么，宾语 it 自己补上了。复检通过。
 
 ## #0011 医生会告诉病人有更好的药
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F01
@@ -5895,7 +5902,7 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
 
 ## #0508 「X 圈／X 界」＝ X circles（★ 复数）／ the X world —— circle 这个词没错，错在**数**
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F03 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F03 ｜ 题型 整句
 
 **问题是什么**
 ⚠️⚠️ **本条 2026-09-13 当天经她质疑后改写**（原话「**the art circle 为什么我觉得有这种用法呀**」）——
@@ -5992,6 +5999,11 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   ⚠️ 同句顺带用对：`a small circle of veteran journalists **is**` ⇒ 📋 #0048（谓语没被后面的复数拉走）。
   ⚠️ `veteran` 她当场括注「这个词背一下」⇒ §2③，另建 #0523。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 2 题
+  题面「这本小说在文学圈里评价很高，在出版界却卖得一般；不过他身边那个小圈子里几乎人手一本。（★ 三处的「界／圈子」都用 circle 或 world 做出来 —— 单复数自己定）」
+  她写 `This novel is highly acclaimed in literary **circles**, yet achieves only modest sales in **the publishing world**; nevertheless, nearly everyone in his small **circle** owns a copy.`
+  「界」⇒ circles 复数 ／ the … world；他那一个小圈子 ⇒ 单数 circle。复检通过。
+  ⚠️ 同句她点名 acclaimed ／ literary ／ modest ⇒ 建号 #0600 #0601 #0602。
 
 ---
 
@@ -11385,7 +11397,7 @@ P11 固定语序　R · P11
   ⇒ 等了 14 个练习日（上次 08-22），一次到位。
 
 ## #0125 「再多 N 个 X」的形状：another week ／ another two days ／ two extra hours ／ an extra two hours
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F07
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F07
 
 **问题是什么**
 P12（"再多一个 X"＝another X / one more X）　R · P12
@@ -11488,6 +11500,10 @@ another ＋ **few ＋ 复数**         `another few days` ✅
   ⚠️ 更好版两处（⛔ 都不算错）：`extended **for** another week` → `extended **by** another week`（extend by ＋ 幅度是固定搭配）·
   删掉 `provided`（`with an extra half hour for each session` 已完整，provided 多出一个没有主体的动作）。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 7 题
+  题面「这个项目延期了一个月，客户同意再给我们三周；为此团队每天得多加两个小时班。（★ 前半用 another，后半用 extra —— 位置自己定）」
+  她写 `… the client agreed to grant us **another three weeks**; for this reason, the team has to work **two extra hours** every day.`
+  another ＋ 数字 ＋ 复数；extra 放在名词前。复检通过。
 
 ## #0128 只有保持耐心才更可能治好
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-07 ｜ 族 F07
@@ -13262,7 +13278,7 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
   　 默认词是 the easiest ／ the simplest；但句子成立、意思送到 ⇒ 判 △、只进更好版，⛔ 不影响本条的 ✅。
 
 ## #0353 不用 not 也能否定 —— 满篇 not 的解药
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F07
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F07
 
 **问题是什么**
 她的原话：「**如何代替 not，写作中出现太多也不好**」。
@@ -13278,6 +13294,7 @@ easy · hard · difficult · impossible · simple · tough · convenient · dang
 ③ 换副词       hardly · barely · scarcely · rarely · seldom
                ★ 它们本身就是否定词，⛔ 不能再加 not（`does not hardly` ✘）
 ④ 换介词/形容词 far from ＝ 远非　short of ＝ 不足　free of ＝ 没有　devoid of ＝ 全无
+               by no means ／ in no way ＝ 绝不、一点也不（be 后／实义动词前：is by no means secure）—— 2026-10-11 补（#0603 并入）
                lack ＝ 缺乏（动词；⛔ `lack of` 是名词块，别当动词用）
 ```
 ★ **判据**：not 是把**整个谓语**否掉；这一族是把否定**塞进某一个词里** ——
@@ -13338,13 +13355,17 @@ far from ＝ 远远不…、根本谈不上（本身就是否定，⛔ 不再加
 ⑤ far from / short of / free of —— 已测过 far from（＋ 形容词：far from profitable · far from sufficient，见历史记录）／
 　　　　　　　　　　　　　　　　　 2026-09-19 组2 第 8 题 `far from adequate` 写对、她说「不太会」（📝）★ 下次测 ＋ 名词 ／ ＋ doing 两种接法
 ⑥ lack（动词）    —— 未出过
+⑦ by no means ／ in no way（＝ 绝不、一点也不；be 后／实义动词前）—— 未出过（2026-10-11 复检组1 第 4 题顺带用对 `is by no means secure` 📋，她点名「这个词组学下」；原建号 #0603 已并入本条）
 ⇒ 出题按 §3.5 第 3.5 步：一题至少让 2 个成员落地；far from 两种接法测完之后优先 ⑥ lack
+⚠️ **2026-10-11 补账**：⑤ far from ＋ 名词 ／ ＋ doing 已于 2026-10-07 复检组1 第 5 题测过 ✅（`far from a success` · `far from resolving the issue`），当天没补进账 ⇒ 下一次优先 ⑥ lack ＋ ⑦ by no means
 ⚠️ **2026-10-01 补账**：09-01 ／ 09-06 的行使当天没补进账，本次按历史记录一并追平。
 ```
 
 **中文触发点**
-这场演出根本算不上成功，而剧院的新安排也远远没有解决排队太久的问题。
-（★ 两处都用 far from —— 后面各接什么自己定；⛔ 全句一个 not 都不许出现）
+这家小公司缺乏经验，它的报价也绝不是最低的。
+（★ 两处分别用 lack ／ by no means —— ⛔ 全句一个 not 都不许出现）
+⚠️ **2026-10-11 换题面**（收尾手工：⑤ far from 两种接法 10-07 已测完 ⇒ 下一次测账上没出过的 ⑥ lack ＋ ⑦ by no means）
+（老触发点留档不删：这场演出根本算不上成功，而剧院的新安排也远远没有解决排队太久的问题。／（★ 两处都用 far from —— 后面各接什么自己定；⛔ 全句一个 not 都不许出现））
 ⚠️ **2026-10-01 换题面**：复检组6 已发出、她当场喊停收尾、未作答 ⇒ 这句就是下一次复检的题面（far from ＋ 名词 ／ ＋ doing），原括号两条限定逐字带过。
 （老触发点留档不删：这次发布会根本算不上成功，而公司的新政策也远远没有解决员工流失的问题。）
 ⚠️ **2026-09-19 换题面**（她点名 far from ⇒ 下一次复检专测它的"＋ 名词"与"＋ doing"两种接法）
@@ -13378,6 +13399,9 @@ far from ＝ 远远不…、根本谈不上（本身就是否定，⛔ 不再加
   ⇒ 中文触发点换成点名 far from 的题面 ⇒ 下一次复检就测它。
 - 2026-10-07 ✅ C9 D1 复检组1 第 5 题
   她写 `This performance was far from a success, and the new arrangement of the theater was far from resolving the issue of excessive queuing.` —— far from ＋ 名词 ／ ＋ -ing 都对，全句零 not。
+- 2026-10-11 📋 C10 D1 学习日 复检组1 第 4 题（顺带用对 · 原建号 #0603 收尾并入本条）
+  她写 `the lock on the main entrance is **by no means** secure and can be easily pried open`，当场括注「这个词组学下」—— by no means 放在 be 后 ✔，全句零 not。
+  收尾 C4：#0603 by no means 并入本条，补成员 ⑦ by no means ／ in no way；⑤ far from 的 10-07 行使补进成员账；中文触发点换成测 ⑥ lack ＋ ⑦ by no means。
 
 ## #0379 「Unable to …, 主句」—— 状语从句压成一个无主语短语挂在句首
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-08 ｜ 族 F07 ｜ 题型 整句
@@ -16291,7 +16315,7 @@ predict     做出预测（常有依据/模型）  `The model predicts a 3% rise
   `potiential` 是非词 ⇒ 手滑豁免。
 
 ## #0297 uncertainty 这个词怎么用：搭什么动词、加不加冠词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08
 
 **问题是什么**
 ```
@@ -16411,6 +16435,11 @@ uncertainty 走可数复数   two or three … uncertainties  ✔  ← 本条考
   `such uncertainty is unavoidable`（泛指那个概念 ⇒ 不可数、零冠词）—— 这正是本条 08-23 以来反复架的那一层。
   搭配也在条目列的范围内：`require clarification` · `can only be **accepted**`。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 8 题
+  题面「这家初创公司明年能不能拿到下一轮融资，目前还有很大的不确定性。（★ 必须用 uncertainty —— 冠词与搭配自己定）」
+  她写 `There remains **substantial uncertainty** as to whether this start-up company can secure its next round of financing next year.`
+  一大片说不准 ⇒ 不可数、零冠词。复检通过。
+  ⚠️ 同句 as to 她点名要学 ⇒ 建号 #0604。
 
 ## #0298 keep / reduce sth to a minimum ＝ 把…压到最低
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-16 ｜ 族 F08
@@ -26504,7 +26533,7 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   ⚠️ exchange rate 今天复检组 4 第 5 题的订正里见过（当天见过，读数照记）。
 
 ## #0505 流程／程序一族：procedure ／ process ／ protocol ／ step
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文一个「流程／程序／步骤」，英文按**是规定好的做法、还是事情本身在走**分开：
@@ -26528,8 +26557,8 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
 ```
 ① procedure —— 2026-09-16 组1 第 2 题「一套新的安全操作规程」⇒ ✅（`operating procedures`；⚠️ 前面的修饰词写成 security ⇒ 另建 #0518）
 ② process　 —— 2026-09-16 组1 第 2 题「这座城市的老龄化过程」⇒ ✅（`the aging process`）
-③ protocol　—— 未出过
-④ step　　　—— 未出过
+③ protocol　—— 2026-10-11 复检组1 第 1 题「一套严格的消毒规程」⇒ ✅（`a strict disinfection protocol`）
+④ step　　　—— 2026-10-11 复检组1 第 1 题「第一步是…」⇒ ✅（`the first step is to immerse …`）
 ⑤ practice　—— 已有独立条目 #0327（🎓）⇒ 本条只做交叉引用，⛔ 不重复出题
 ```
 
@@ -26581,6 +26610,10 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   ③ protocol 与 ④ step 两个从没出过的成员落地；三个词的分工全对 —— protocol ＝ 一套该怎么做的硬规定 · procedure ＝ 一步步怎么办 · step ＝ 流程里的一步，⛔ 没把"七步"写成 seven procedures。
   ⚠️ 一处进更好版（不算错）：`consists of seven steps **in total**` → 去掉 in total（consist of 本身就是穷举，"一共"已经在里面了）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ ④ 账已补。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 1 题
+  题面「这家实验室有一套严格的消毒规程；第一步是把所有器械泡进消毒液里。（★ 两处分别用 protocol ／ step —— 单复数与冠词自己定）」（＝ 10-10 复检组10 存下的题面）
+  她写 `This laboratory has a strict disinfection **protocol**; **the first step** is to immerse all instruments in disinfectant solution.`
+  规程 ⇒ protocol、第一步 ⇒ the first step（⛔ 没写成 the first procedure）。成员 ③ ④ 第一次出题，全部落地 ⇒ 账已补。复检通过。
 
 ## #0506 出发点 ＝ the starting point
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -26737,7 +26770,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⑥「（这项法案的）支持者」⇒ `proponents of this bill` ✔ —— 09-21 调不出的 proponent 今天零提示自己写出（supporters／advocates 同样算对）。
 
 ## #0509 「人流量／客流量最大」＝ the busiest —— 中文的名词块，英文往往是一个形容词
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 她 2026-09-13 的原话：「**人流量大没有直接的形容词，或者我没想到**」——
@@ -26769,11 +26802,11 @@ the point of view　观点、角度（⛔ 不是"出发点"）
 
 **成员出题账**
 ```
-① the busiest（人流量最大）　—— 2026-09-16 组1 第 3 题「人气最旺的那层」⇒ ✅（`The busiest floor`；09-13 那次没调出来）
+① the busiest（人流量最大）　—— 2026-09-16 组1 第 3 题「人气最旺的那层」⇒ ✅（`The busiest floor`；09-13 那次没调出来）／ 2026-10-11 复检组1 第 3 题「最繁忙的一站」⇒ ✅（`The busiest station`）
 ② the most popular ／ crowded —— 未出过
 ③ footfall（零售业进店人次）　—— 2026-09-16 组1 第 3 题「进店人次」⇒ ✅（`its footfall has dropped`）
 ④ passenger numbers ／ flow　 —— 2026-09-13 组4 第 8 题她自己查字典查到的 ⇒ 留痕，⛔ 不算测过
-⑤ traffic（人流／车流／访问量）—— 未出过
+⑤ traffic（人流／车流／访问量）—— 2026-10-11 复检组1 第 3 题「网站的访问量」⇒ ✅（`website traffic`）
 ```
 
 **怎么发现的**
@@ -26832,6 +26865,10 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ② popular 与 ⑤ traffic 两个从没出过的成员落地；`busiest` ⛔ 没写成 most busy、表语最高级也没多加 the；`traffic` 的不可数也守住（⛔ traffics）；题面那条「⛔ 不许把"最热闹"翻成名词」守住了。
   ⚠️ `on weekends` ／ `subway station` ／ `bookstore` ／ `percent` 都是**美式**说法 —— 本身⛔ 不是错（雅思两套都算对），只是本篇里与英式混着用 ⇒ 写进当日 session 的「教练侧」，⛔ 不建条目、⛔ 不判错。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ② ⑤ 账已补。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 3 题
+  题面「这条地铁线上最繁忙的一站是火车站那一站；网站的访问量这个月涨了三成。（★ 两处分别用 busy ／ traffic —— 形态自己定，⛔ 前半不许把"人气／人流"翻成名词）」
+  她写 `**The busiest** station on this subway line is the one at the railway station; website **traffic** has increased by thirty percent this month.`
+  前半形容词最高级、没把人流翻成名词；访问量 ⇒ traffic（成员 ⑤ 第一次出题，账已补）。复检通过。
 
 ## #0510 「装得下／容纳」＝ hold ／ take ／ accommodate —— ⛔ host 是"主办"不是"装"
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -26980,7 +27017,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
 
 ## #0513 行政层级一族：village ／ township ／ county ／ district ／ municipality
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -27061,9 +27098,12 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   　　⇒ 问1 不成立，否（⚠️ #0491 今天在组3，出题时⛔ 不与本条的 municipal 撞）。
   　· #0503（汇率）· #0329（do sth about sth）· #0392（职责 ＝ duty）—— 词面偶合 ⇒ §3.5 误判2，逐条否。
   ⇒ ⛔ 不占新编号；本行是 📝 留痕（⛔ 不推进 streak、⛔ 不计 rc —— 形容词这一格不是被测的成员）。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 9a·9b 题（词组）
+  题面「（市一级的）市政府」「（偏远山区的）县」
+  她写 `the municipal government` · `a county in a remote mountainous region` —— 两块都对。复检通过。
 
 ## #0514 「一共／合计」＝ a total of ／ in total ／ altogether
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -27131,6 +27171,9 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⑥「合起来（偏正式的那个副词）」⇒ `collectively` ✔
   ★ 两块都是从没出过的，一次全对。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 9c·9d 题（词组）
+  题面「（这次活动）一共（吸引了八百人）」「（两个地区）加起来（占四成）」
+  她写 `in total` · `combined` —— 两块都对。复检通过。
 
 ## #0515 「这一行／这块业务」＝ this line of business ／ this sector
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08 ｜ 题型 词组
@@ -27309,7 +27352,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   两个块的场合都配对：post-mortem 挂在发布失败之后、找根因 ✔ · review 是全面复核、面向以后 ✔ ⇒ 连对 1 → 连对 2 ⇒ 到线。
 
 ## #0518 「安全」＝ safety（事故层面）⛔ 不是 security（威胁／防盗层面）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 中文一个「安全」，英文按**防的是什么**分成两个词，两边的搭配都成立、意思完全不同：
@@ -27334,8 +27377,8 @@ the point of view　观点、角度（⛔ 不是"出发点"）
 ```
 ① safety（事故／伤害那一层）　　　—— 2026-09-16 组1 第 2 题写成 security ⇒ ❌ ／ 2026-09-19 组1 第 1 题「消防安全演练」⇒ fire safety drills ✅
 ② security（威胁／防盗／信息那一层）—— 2026-09-19 组1 第 1 题「顾客数据安全」⇒ customer data security ✅（与 ① 配着出、顺序与括号相反）
-③ safe（形容词）　　　　　　　　　—— 未出过
-④ secure（形容词／动词 secure funding）—— 未出过
+③ safe（形容词）　　　　　　　　　—— 2026-10-11 复检组1 第 4 题「结构是安全的」⇒ ✅（`is safe`）
+④ secure（形容词／动词 secure funding）—— 2026-10-11 复检组1 第 4 题「锁一点也不牢靠」⇒ ✅（`is by no means secure`）
 ⑤ job security　　　　　　　　　　—— 已有独立条目 #0307 成员③ ⇒ 本条只做交叉引用，⛔ 不重复出题
 ```
 
@@ -27403,6 +27446,11 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⚠️ 同句两处顺带用对：`parking … is`（动名词主语 ⇒ 📋 #0283）· `the person **in charge**`（零冠词固定块 ⇒ #0495 成员③，见本组第 8 题）。
   ⚠️ 四处进更好版（不算错）：`The fire safety **of** this building` → `Fire safety **in** this building`（领域名零冠词、用 in）· `**the** security inside` → `security inside` · `stated` → `said`（语域）· `parking **vehicles**` → `parking`（park 这个意思本来不带宾语，vehicles 是中文"车"的直译）。
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ 账已补。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 4 题
+  题面「这栋楼本身结构是安全的，但大门的锁一点也不牢靠，随便就能撬开。（★ 两处的「安全／牢靠」一处用 safe、一处用 secure —— 哪个配哪个、词形与位置自己定）」
+  她写 `The structure of this building itself is **safe**, but the lock on the main entrance is by no means **secure** and can be easily pried open.`
+  不塌、不出事故 ⇒ safe；防不住撬 ⇒ secure；没对调。成员 ③ ④ 第一次出题，账已补。复检通过。
+  ⚠️ 同句 by no means 她点名要学 ⇒ 建号 #0603。
 
 ## #0520 「卫生规定」＝ hygiene regulations
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -30262,7 +30310,7 @@ have already been borne　后果**已经**被承担了（完成）
   两个分句都在一般现在 ⇒ 时间平面一致 ⇒ 连对 1 → 2。⚠️ 本题被点名（读数口径同 09-21）。
 
 ## #0519 `by ＋ 过去年份` 要配过去完成，⛔ 不能配现在完成
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -30354,6 +30402,10 @@ have already been borne　后果**已经**被承担了（完成）
   她写 `**By** 2020, the population of this city **had reached** 2.65 million` —— by ＋ 过去年份配过去完成。
   ★ **今天第三次**：组4 第 8 题自发（📋）· 组5 第 6 题被点名（✅ 毕业）· 本题自发。
   ⚠️ 本条今天已结算 ⇒ 只留痕、⛔ 不推进 streak。
+- 2026-10-11 ✅ C10 D1 学习日 复检组1 第 5 题
+  题面「到 2015 年为止，这所学校已经培养了五千名毕业生；而到现在为止，这个数字已经翻了一番。（★ 两处的「到…为止」都必须出现 by —— 时态自己定）」
+  她写 `**By 2015**, this school **had produced** five thousand graduates; **by now**, this figure **has doubled**.`
+  过去年份 ⇒ 过去完成；到现在 ⇒ 现在完成。复检通过。
 
 ---
 
