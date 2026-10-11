@@ -560,7 +560,7 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0581 「（去）找某人（求助、商量）」＝ approach sb
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -597,6 +597,10 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组4 第 9 题（顺带用对）
   她写 `explains to them scholars whom they should **approach**(这个词这个用法学一下) when encountering problems` —— approach 直接带人、没加 to ✔（scholars 是多出来的词，删掉）。
   ⚠️ 同题主考点 #0121 ✅（全篇第三人称）。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 1 题
+  题面「为了贷款扩大生意，老板先后去找了三家银行，结果都被拒了。（★ 用 approach —— 后面要不要介词自己定）」（换场景：种子「新员工找导师」与正文例句同场景）
+  她写 `To secure a loan to expand the business, the owner **approached** three banks in succession, only to be rejected by all of them.`
+  approach 直接带三家银行、没加 to ✔。首测 ⇒ 连对 1。
 
 ---
 
@@ -2471,7 +2475,7 @@ progress **不可数**（⛔ a progress）。
   4g「（穿着荧光背心，在人群里）格外显眼」⇒ `highly conspicuous in the crowd` ✔ · 5g「（门口）一块显眼的指示牌」⇒ `a conspicuous sign at the entrance` ✔
 
 ## #0573 「青春期」＝ puberty
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2510,9 +2514,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要背）C9 D4 组2 第 3 题 c（顺带用对）
   她写 `upon the onset of **puberty**(这个词背一下)` —— 词与拼写都对。
   ⚠️ 同题主考点 #0557 ✅（the onset of）。
+- 2026-10-11 ❌ C10 D1 学习日 组1 第 4a·5a 题（词组）
+  题面「（孩子）进入青春期」「青春期（带来的身体变化）」
+  她两块都写「忘了」⇒ 调不出 puberty。给了 reach puberty ／ the physical changes of puberty。首测 ⇒ 连错 1。
 
 ## #0574 「总部」＝ headquarters
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2552,9 +2559,12 @@ progress **不可数**（⛔ a progress）。
   她写 `the countermeasure of the **headquarters**（这个词背一下）` —— 词与词尾 -s 都对。
   ⚠️ 同题主考点 #0465 ✅（turnover ／ vacancy rate ／ headcount）。
   △ 不记号：「总部的对策」⇒ `headquarters' response` 更顺。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 4b·5b 题（词组）
+  题面「（这家公司的）总部（设在上海）」「（联合国）总部」
+  她写 `the headquarters of this company` · `the United Nations Headquarters` —— 两块都调出、-s 都在。首测 ⇒ 连对 1。
 
 ## #0575 「头号／重点（工程、产品、门店）」＝ flagship
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2594,9 +2604,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组2 第 2 题（顺带用对）
   她写 `the county government regards it as a **flagship**(这个词背下) project to improve public welfare` —— 词义、位置都对。
   ⚠️ 同题主考点 #0429 ✅（living standards ／ poverty ／ welfare）。
+- 2026-10-11 ❌ C10 D1 学习日 组1 第 4c·5c 题（词组）
+  题面「（那个运动品牌在市中心的）旗舰店」「（这家电视台的）王牌节目」
+  她两块都写「忘了」⇒ 调不出 flagship。给了 the brand's flagship store downtown ／ the TV station's flagship programme。首测 ⇒ 连错 1。
 
 ## #0576 「博士（学位）」＝ doctoral ／ doctorate ／ PhD
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2636,9 +2649,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要练）C9 D4 复检组3 第 1 题（顺带用对）
   她写 `his daughter is pursuing a **doctoral**(这个词练一下) degree abroad` —— 词与位置都对。
   ⚠️ 同题主考点 #0432 ✅（engage in ／ pursue ／ devote to）。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 4d·5d 题（词组）
+  题面「博士论文」「（实验室里的几名）博士生」
+  她写 `a doctoral dissertation` · `doctoral students in the laboratory` —— doctoral 形容词放名词前，两块都对。首测 ⇒ 连对 1。
 
 ## #0577 「涨价」＝ a price hike ／ a price increase
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2679,9 +2695,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组3 第 2 题（顺带用对）
   她写 `the primary driver of this price **hike**（这个词学一下) was actually a surge in demand` —— 词义对。
   ⚠️ 同题主考点 #0433 ✅（reason ／ motive ／ driver）。
+- 2026-10-11 △ C10 D1 学习日 组1 第 4e·5e 题（词组）
+  题面「（地铁明年的）票价上涨」「（这次）大幅涨价（引发了不满）」
+  她写 `a subway fare increase for next year` · `a substantial price increase` —— 英语成立、意思送到，但两块都没调出本条的 hike（本条判据：price increase 判 △）⇒ 两边不动。
+  下次给的块：a subway fare hike ／ a sharp price hike。
 
 ## #0578 「装修／翻新（旧房子、旧建筑）」＝ renovate
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2717,9 +2737,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组4 第 2 题（顺带用对）
   她写 `the adjacent underpass has also been **renovated**(这个词背下)` —— 词义、被动完成时都对。
   ⚠️ 同题主考点 #0471 ✅（footbridge ／ underpass）。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 2 题
+  题面「这家老酒店花了半年重新装修，下个月重新开业。（★ 用 renovate；形态自己定）」
+  她写 `Having spent six months **being renovated**, this historic hotel will reopen next month.`
+  被装修的是酒店 ⇒ 被动 being renovated ✔；Having spent … 的逻辑主语就是 hotel。首测 ⇒ 连对 1。
 
 ## #0579 「（质量、状况）变差、恶化」＝ deterioration
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2762,9 +2786,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要背）C9 D4 复检组4 第 7 题（顺带用对）
   她写 `a major cause of the **deterioration**(这个词背一下) of urban air quality` —— 词与介词 of 都对。
   ⚠️ 同题主考点 #0061 ✅（the number of）。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 4f·5f 题（词组）
+  题面「（他健康状况的）恶化」「（两国关系的）进一步恶化」
+  她写 `the deterioration of his health condition` · `a further deterioration in bilateral relations` —— deterioration 两块都调出，of／in 都对。首测 ⇒ 连对 1。
+  ⚠️ 不判错：health condition 是「健康状况」直译，更好版删掉 condition（his health）。
 
 ## #0580 「（新生／新员工）入学指导、入职培训」＝ orientation
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2803,9 +2831,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组4 第 9 题（顺带用对）
   她写 `This **orientation**(这个词学下) handbook informs international students …` —— 词义对。
   ⚠️ 同题主考点 #0121 ✅（全篇第三人称）。
+- 2026-10-11 ❌ C10 D1 学习日 组1 第 4g·5g 题（词组）
+  题面「（大学开学前的）迎新周」「（新员工第一天的）入职培训」
+  她两块都写「忘了」⇒ 调不出 orientation。给了 orientation week ／ new staff orientation。首测 ⇒ 连错 1。
 
 ## #0582 「低调地、不声张地」＝ discreetly（⚠️ 与「偷偷地」secretly 分工）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2845,6 +2876,12 @@ progress **不可数**（⛔ a progress）。
   她写 `This application not only consumes battery power but also **discreetly**(这个词学下) collects user data.` ——
   成立，但「偷偷收集」更贴的是 secretly（discreetly 带"低调、不打扰人"的好意）。
   ⚠️ 同题主考点 #0153 ✅（not only … but also 两边都是动词短语）。
+- 2026-10-11 ✅ C10 D1 学习日 组1 第 3 题
+  题面「服务员悄悄地把账单放在桌角，没有打断客人的谈话；后来才发现，那款点餐软件一直在偷偷记录顾客的位置。（★ 两处从 secretly ／ discreetly 里各用一个 —— 哪个配哪处自己分）」
+  （种子括号「两处分别用 discreetly ／ secretly」按顺序对应 ＝ 泄分工 ⇒ 顺序倒过来、不给对应）
+  她写 `The waiter **discreetly** placed the bill … ; it was later discovered that the ordering application had been **secretly** recording customers' locations.`
+  不打扰人 ⇒ discreetly、瞒着用户 ⇒ secretly，两处各就各位、没串台。首测 ⇒ 连对 1。
+  ⚠️ 同句「后来才发现」她点名要学 ⇒ §2③ 建号 #0595。
 
 ## #0583 「（场地、土地）积水的、泡了水的」＝ waterlogged
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -4007,6 +4044,63 @@ K（策略，需在下一篇作文里验）　0/3
 - 2026-10-10 ❌ C9 D4 复习日 复检组1 第 5 题（顺带用错）
   她写 `Building a base on the moon is **engineeringly** feasible` —— engineeringly 不是现成的词；① 直接用副词只限真实存在的副词，engineering 没有 -ly 形式 ⇒ `feasible from an engineering standpoint`／`technically feasible`。
   🎓 吃 ❌ ⇒ 当场回潮；正文 ① 补一句「只限真实存在的副词」。
+
+## #0595 「后来（才发现）」没说是哪件事之后 ⇒ later ／ it later turned out that（⛔ after／following 要挂一件事）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F14 ｜ 题型 整句
+
+**问题是什么**
+```
+中文「后来」只说时间往后挪了，**没说是哪件事之后** ⇒ 英文用**副词**或**现成句型**：
+　**later**　　　　　　　　　　 最通用　`It was **later** discovered that …` · `She **later** admitted that …`
+　**afterwards**　　　　　　　 （那件事做完）之后　`We had dinner and went for a walk **afterwards**.`
+　**it later turned out that ＋ 从句**　后来才发现／结果原来是　`**It later turned out that** the app had been recording users' locations.`
+　**it later emerged that ＋ 从句**　 （新闻腔）后来才曝出　`**It later emerged that** the data had been sold.`
+**after／following 是介词**（after 也能当连词）⇒ 后面**必须挂一件事**：
+　✔ `**After** the investigation, it was found that …`（after ＋ 名词）
+　✔ `**After** the app was launched, …`（after ＋ 从句）
+　✔ `**Following** a complaint, it emerged that …`（following ＋ 名词 ⇒ **#0504**）
+　⛔ ~~After, it was found that …~~（after 单独当「后来」⇒ 书面里不成立）
+与 **#0504**（「继…之后」一族，🎓）分工：那条是**有那件事**时在 after／following／in the wake of／in the aftermath of 里挑；
+　本条是**没有那件事**（光杆「后来」）⇒ 根本不走介词。
+与 **#0092**（subsequently 的拼写，🎓）交叉引用：subsequently 也是光杆「随后」的一个选项（正式一档）。
+```
+**判据（一句话）**：中文「之后」前面有那件事 ⇒ after／following ＋ 那件事；只有光杆「后来」⇒ later ／ it later turned out that。
+**找法**：想用 after／following 时先问一句 —— 它后面挂的是哪件事？说不出来 ⇒ 换 later ／ it later turned out that。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 组1 第 3 题（主考点 #0582，命中 ✅）。中文「后来才发现，那款点餐软件一直在偷偷记录顾客的位置」，
+她写 `it was later discovered that the ordering application had been secretly recording customers' locations` —— 写对了，
+并当场括注 **「这里我一直在想怎么用 after, following 表达，这么简单的句子都不能主动输出，学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "later" "afterwards" "subsequently"  ⇒ 命中 #0092 #0203 #0242 #0335 #0293 #0351 #0424 #0473 #0483 #0087 #0090 #0107
+          dedup "turned out" "turn out"               ⇒ **零命中**
+          dedup "following" "after"                   ⇒ 命中 #0473 #0504 #0512 #0517 #0140 #0148 #0175 #0177 #0203 #0389 #0426 #0490
+② 规则查  dedup "后来" "事后"                        ⇒ 命中 #0111 #0517 #0340 #0095 #0106 #0279 #0375 #0582
+逐条否掉：
+  #0504（「继…之后」一族，🎓）—— 最像的一条。问1：那条是**有那件事**时在四个介词里挑；本条是**没有那件事**时不走介词、换副词或句型 ⇒ 否。
+    问3：#0504 🎓、10-10 复检组9 刚 ✅（Following the introduction of …），今天她仍卡在「怎么用 after／following 表达光杆后来」
+    ⇒ 掌握那条没有告诉她"光杆后来不走介词" ⇒ 否。交叉引用。
+  #0092（随后 subsequently，🎓）—— 那条管 subsequently 的拼写（漏音节）⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0351（T1「此后／余下的时间里」一族，🎓）—— 那条管 T1 里时间边界怎么锁（for the remainder of the period ／ thereafter）⇒ 问1 不成立 ⇒ 否
+  #0473（相对时间一族 the following year，🎓）—— following 是形容词 ⇒ 问1 不成立 ⇒ 否
+  #0335（not … until）#0512（时间平面）#0517（复盘）#0389（one after another）及其余 —— 字样偶合 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F14（衔接／连接词：把前后两段时间接起来的标记，与 #0504 同族），
+　 题型 **整句**（§3.5 第 2.5 步 ①②：it later turned out 块里有动词；且要在 later ／ turned out 与 after ／ following 之间分路 ⇒ 整句）。
+```
+
+**我错在哪**
+她这次写对了（`it was later discovered that`），卡在「想用 after／following 却用不上」，点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+签完合同之后，他们才发现房子漏水；后来才知道，房东其实早就知道这件事。
+（★ 前一处用 after，后一处用 it later turned out that —— 形态与时态自己定）
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 组1 第 3 题（顺带用对）
+  她写 `it was later discovered(这里我一直在想怎么用 after, following 表达，这么简单的句子都不能主动输出，学下) that the ordering application had been secretly recording customers' locations` —— later 用对了。
+  ⚠️ 同题主考点 #0582 ✅（discreetly ／ secretly 各就各位）。
 
 ---
 
