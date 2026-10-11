@@ -602,6 +602,51 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   她写 `To secure a loan to expand the business, the owner **approached** three banks in succession, only to be rejected by all of them.`
   approach 直接带三家银行、没加 to ✔。首测 ⇒ 连对 1。
 
+## #0596 「（在某个问题上）让步」＝ yield on ／ give ground on（⚠️ yield to ＝ 向…屈服）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01 ｜ 题型 整句
+
+**问题是什么**
+```
+**yield on sth**　在某个问题上让步、松口 —— on 后面是争的那件事
+　`Neither side was willing to **yield on** the size of the pay rise.` · `The government refused to **yield on** this point.`
+**yield to sth／sb**　向（压力、要求）低头、屈服 —— to 后面是施压的那一方
+　`The company finally **yielded to** public pressure.`
+同一格的邻居：**give ground on**（让步）· **back down (on)**（退让、服软）· **compromise on**（各让一步；名词 a compromise ⇒ **#0502**）
+⚠️ yield 还有"产出"的意思：`yield results`（后面直接接名词、不带介词 ⇒ **#0289**）
+```
+**判据（一句话）**：让的是哪件事 ⇒ yield on；向谁／什么压力低头 ⇒ yield to；产出 ⇒ yield ＋ 名词。
+**找法**：中文「（在…上）让步／松口」⇒ yield on ＋ 那件事；「向…让步／顶不住…」⇒ yield to ＋ 压力。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 组2 第 1 题（主考点 #0585，命中 ✅）。中文「工会和资方在加薪幅度上谁也不肯让步」，
+她自己写出 `Neither the labor union nor the management was willing to **yield on** …`，并当场括注 **「这个词组学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "yield" "让步"                         ⇒ 命中 #0289 #0314 #0315 #0377 #0446 #0587 #0279 #0317
+          dedup "give ground" "back down" "compromise"  ⇒ 命中 #0502 #0406 #0374 #0518
+② 规则查  同上（「让步」就是规则关键词）
+逐条否掉：
+  #0289（yield ＝ 产出、带来，🎓）—— 最像的一条：同一个词。问1：那条管 yield 作"产出"（yield results），只在附注里提了一句 yield to ＝ 屈服；
+    本条管"在某个问题上让步"该配哪个介词（yield on 争的事 ／ yield to 压力）⇒ 改正动作不同 ⇒ 否（§3.5 误判2：同一个词的两个不同问题）。交叉引用。
+  #0502（折中方案 a compromise，🎓）—— 那条是名词「折中方案」，本条是动词「让步」⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0314 #0315 #0317（让步状语／让步开场／转折）—— 那是语篇里的"让步"（although／admittedly），不是谈判里的让步 ⇒ 字样偶合 ⇒ 否
+  #0587（appease）#0377 #0446 #0279 #0406 #0374 #0518 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F01（动词框架：yield 后面配 on 还是 to），题型 **整句**（§3.5 第 2.5 步 ①：块里有动词）。
+```
+
+**我错在哪**
+她这次写对了（`yield on`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+房东在房租上一步也不肯让；可租客们联名投诉之后，他最终还是顶不住压力，把暖气修好了。
+（★ 两处都用 yield —— 后面各配哪个介词自己定）
+
+### 历史记录
+- 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 组2 第 1 题（顺带用对）
+  她写 `Neither the labor union nor the management was willing to **yield on** (这个词组学下) the margin of pay increases` —— yield on ＋ 争的那件事 ✔。
+  ⚠️ 同题主考点 #0585 ✅（reach a stalemate）；同句 margin 用错 ⇒ 建号 #0597。
+
 ---
 
 # F02 冠词/限定
@@ -2884,7 +2929,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同句「后来才发现」她点名要学 ⇒ §2③ 建号 #0595。
 
 ## #0583 「（场地、土地）积水的、泡了水的」＝ waterlogged
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2924,9 +2969,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 6 题（顺带用对）
   她写 `the field remained heavily **waterlogged**(这个词学一下), making a match impossible` —— 词义对。
   ⚠️ 同题主考点 #0120 ✅（even if ／ even though）。
+- 2026-10-11 ❌ C10 D1 学习日 组2 第 7a·8a 题（词组）
+  题面「（连下了三天雨，学校操场）积水严重」「被雨水泡透的（农田）」
+  她两块都写「忘了」⇒ 调不出 waterlogged。给了 badly waterlogged ／ waterlogged farmland。首测 ⇒ 连错 1。
 
 ## #0584 「临时（通知得晚、准备时间很短）」＝ at short notice
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2970,9 +3018,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 7 题（顺带用对）
   她写 `Rescheduling a flight ticket **at short notice**(这个短语学一下) costs both money and time.` —— 块与介词都对。
   ⚠️ 同题主考点 #0170 ✅（cost 作动词）。
+- 2026-10-11 ❌ C10 D1 学习日 组2 第 7b·8b 题（词组）
+  题面「（演唱会）临时取消」「（老板提前一小时才说的）临时加班」
+  她两块都写「忘了」⇒ 调不出 at short notice。给了 cancelled at short notice ／ working overtime at short notice。首测 ⇒ 连错 1。
 
 ## #0585 「陷入僵局」＝ reach a stalemate
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3011,9 +3062,14 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组5 第 10 题（顺带用对）
   她写 `negotiations between management and the labor union have **reached a stalemate**(这个词组学一下) amid widespread rumors of layoffs` —— 搭配对。
   ⚠️ 同题主考点 #0459 ✅（among ／ between ／ amid）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 1 题
+  题面「工会和资方在加薪幅度上谁也不肯让步，谈了三轮之后还是陷入了僵局。（★ 用 stalemate —— 前面配哪个动词自己定）」（换场景：种子「两家公司专利费谈判」与建号场景同类、且与 #0591 撞「公司」）
+  她写 `… and after three rounds of negotiations, the talks still **reached a stalemate**.`
+  reach a stalemate ✔。首测 ⇒ 连对 1。
+  ⚠️ 同句 margin 用错 ⇒ 建号 #0597；yield on 她点名要学 ⇒ 建号 #0596。
 
 ## #0586 「涉事的、所说的那个」＝ the ＋ 名词 ＋ in question
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3054,9 +3110,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组6 第 4 题（顺带用对）
   她写 `The travel agency **in question**（这个词组学下) was required to complete rectification …` —— 位置（名词后面）与 the 都对。
   ⚠️ 同题主考点 #0456 ✅（rectification ／ remedial）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 7c·8c 题（词组）
+  题面「涉事商家（被投诉的那家）」「当事司机（警方正在询问的那位）」
+  她写 `the merchant in question` · `the driver in question` —— in question 放名词后、前面有 the。首测 ⇒ 连对 1。
 
 ## #0587 「（让步、给好处）平息不满、安抚」＝ appease（⚠️ 与 reassure ／ comfort 分工）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3095,9 +3154,14 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组6 第 4 题（顺带用对）
   她写 `it has already taken remedial measures to **appease**(这个单词学习) the affected tourists` —— 词义对。
   ⚠️ 同题主考点 #0456 ✅（rectification ／ remedial）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 2 题
+  题面「为了平息球迷的不满，俱乐部宣布下赛季季票打八折；同时，主教练出面向球迷保证，球队不会卖掉队长。（★ 两处从 reassure ／ appease 里各用一个 —— 哪个配哪处自己分）」
+  （换场景：种子「航空公司发代金券」＝ 正文例句；种子括号按顺序对应 ＝ 泄分工 ⇒ 顺序倒过来、不给对应）
+  她写 `To **appease** fan dissatisfaction, the club announced a 20% discount …; meanwhile, the head coach **reassured** fans that the team would not sell its captain.`
+  打折是给好处消气 ⇒ appease、保证是让人放心 ⇒ reassure sb that，两处各就各位。appease ＋ 情绪名词 dissatisfaction ✔。首测 ⇒ 连对 1。
 
 ## #0589 「（拥堵、紧张、压力）缓解了」—— 那个东西作主语 ⇒ X eases ／ X has eased（ease 不及物）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3143,9 +3207,13 @@ progress **不可数**（⛔ a progress）。
   句子能懂，但 relief 是人从拥堵里得到的解脱，拥堵自己不会 show relief ⇒ 生硬。
   当场给回：`congestion on the ring expressway has not eased noticeably`。
   ⚠️ 同题主考点 #0468 ✅（traffic restrictions ／ congestion on）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 3 题
+  题面「央行降息以后，中小企业的资金压力有所缓解。（★ 必须出现 ease —— 形态与时态自己定）」（换场景：种子「地铁开通、拥堵缓解」与建号场景同类）
+  她写 `…, the financial pressure on small and medium-sized enterprises **has eased**.`
+  压力自己作主语 ⇒ 不及物 has eased ✔（没再用 show relief）。首测 ⇒ 连对 1。
 
 ## #0590 「（主动）争取机会、寻找机会」＝ seek opportunities（⚠️ 与 secure 分工）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3187,9 +3255,14 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 2 题（顺带用对）
   她写 `whereas she was merely actively **seeking opportunities**(这个词组学下)` —— seek 直接带宾语，对。
   ⚠️ 同题主考点 #0278 ✅（deliberately ／ actively）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 4 题
+  题面「他退休后一直在寻找做志愿者的机会，今年终于在社区图书馆争取到了一个名额。（★ 两处从 secure ／ seek 里各用一个 —— 哪个配哪处自己分；形态与时态自己定）」
+  （换场景：种子「积极寻找出国工作机会」与建号场景太近；种子括号泄分工 ⇒ 顺序倒过来）
+  她写 `Since his retirement, he had been **seeking** volunteer opportunities, and this year he finally **secured** a position at the community library.`
+  还在找 ⇒ seek 直接带宾语、没加 for；到手 ⇒ secure。首测 ⇒ 连对 1。
 
 ## #0591 「公司章程」＝ the company's articles of association
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3233,9 +3306,12 @@ progress **不可数**（⛔ a progress）。
   她写 `According to the articles of association of the company(我觉得这个翻译的不好，学下), the board of directors shall convene …` ——
   articles of association 选词对；更顺的是 `Under the company's articles of association`（所有格前置 ＋ under）。
   ⚠️ 同题主考点 #0497 ✅（shall ／ should）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 7d·8d 题（词组）
+  题面「修改公司章程」「（新股东必须遵守的）公司章程」
+  她写 `amend the articles of association` · `the articles of association` —— 两块都调出。首测 ⇒ 连对 1。
 
 ## #0592 「召开（会议）／开会」＝ convene
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3272,9 +3348,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 7 题（顺带用对）
   她写 `the board of directors shall **convene**(这个单词学下) at least twice a year` —— 不及物用法对。
   ⚠️ 同题主考点 #0497 ✅（shall ／ should）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 5 题
+  题面「化工厂爆炸后，市长当晚就召集了一次紧急会议；按照规定，安全委员会每个月要开一次会。（★ 两处都用 convene —— 一处带宾语、一处不带，形态自己定）」（换场景：种子后半与建号场景几乎同句）
+  她写 `the mayor **convened** an emergency meeting that very evening; under regulations, the safety committee **convenes** once a month.`
+  一处及物带会议、一处不及物主语是委员会 ✔。首测 ⇒ 连对 1。
 
 ## #0593 「打消（疑虑、误解、担心）」＝ dispel
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3313,6 +3393,11 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 8 题（顺带用对）
   她写 `A single brief conversation **dispelled**（这个词学下) her concerns` —— 宾语是顾虑本身，对。
   ⚠️ 同题主考点 #0500 ✅（a single ／ a second ＋ 名词）。
+- 2026-10-11 ✅ C10 D1 学习日 组2 第 6 题
+  题面「医生耐心的解释打消了家长们对这种疫苗的顾虑。（★ 必须出现 dispel —— 形态自己定）」
+  她写 `The physician's patient explanation **dispelled** the parents' concerns about this vaccine.`
+  宾语是顾虑本身、不是人 ✔；dispelled 双写 l ✔。首测 ⇒ 连对 1。
+  ⚠️ 同句 about 还是 regarding 她没把握 ⇒ 建号 #0598。
 
 ## #0594 「走过场、只是个形式」＝ a (mere) formality
 状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -3356,6 +3441,98 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复习日 复检组9 第 8 题（顺带用对）
   她写 `a second interview, however, was entirely **a formality**(这个词学下)` —— 块对。
   ⚠️ 同题主考点 #0500 ✅（a single ／ a second ＋ 名词）。
+
+## #0597 「幅度」≠ margin ⇒ the size of ／ how much（margin ＝ 两个数之间的差额）
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+**margin**　两个数之间的差额、差距 —— 一定是在比两样东西
+　`a profit **margin**`（利润率：售价比成本高多少）· `win by a narrow／wide **margin**`（以微弱／很大优势胜出）· `a **margin** of error`（误差范围）
+「幅度」＝ 一个东西变了多少 ⇒ ⛔ 不用 margin：
+　`the size of the pay rise` · `how much wages should rise` · `a 5% rise` ／ `a rise of 5%`
+　大幅 ⇒ `a sharp／substantial rise`　小幅 ⇒ `a slight／modest rise`
+⚠️ 与 **#0269**（「在一定范围内」四条路，🎓）分工：那条的 within a 5% margin 是"上下浮动的范围"，本条管「幅度」别用 margin
+⚠️ 与 **#0346**（「减半／翻倍／几倍」一族，🎓）交叉引用：那条管幅度变化的固定块（halve ／ double ／ N times）
+```
+**判据（一句话）**：在比两个数差多少（赢多少票、赚多少、误差多少）⇒ margin；说一个东西涨／降了多少 ⇒ the size of ／ 把数直接挂在 rise 上。
+**找法**：写 margin 之前问一句 —— 我在比哪两个数？说不出来 ⇒ 换 the size of。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 组2 第 1 题（主考点 #0585，命中 ✅）。中文「在加薪幅度上谁也不肯让步」，
+她写 `yield on the **margin** of pay increases`，并当场括注 **「这个词的用法学下」** ⇒ §2① 用错 ＋ 她点名学用法。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "margin"                          ⇒ 命中 #0269
+          dedup "extent" "magnitude" "size of"    ⇒ 命中 #0280 #0298 #0408 #0023 #0113 #0245
+② 规则查  dedup "margin" "幅度"                   ⇒ 命中 #0269 #0338 #0346 #0110 #0267 #0297 #0305 #0367
+逐条否掉：
+  #0269（「在小范围／在一定范围内」四条路，🎓）—— margin 只是那条里的例句 within a 5% margin（浮动范围）⇒ 问1 不成立 ⇒ 否；交叉引用
+  #0346（「减半／翻倍／几倍」一族，🎓）—— 那条管幅度变化的固定块（halve／double），本条管「幅度」这个名词别用 margin ⇒ 问2 要分两句话讲 ⇒ 否；交叉引用
+  #0408（范围 ＝ scope）#0280（the cost of 做主语）#0298 —— 那几条是别的名词选择 ⇒ 问1 不成立 ⇒ 否
+  #0338 #0110 #0267 #0297 #0305 #0367 #0023 #0113 #0245 —— 「幅度」／size 字样偶合 ⇒ 否
+⇒ 新建，归 F08（词义：margin 的意思用错），题型 **整句**（§3.5 第 2.5 步 ②：要在 margin ／ the size of 之间挑 ⇒ 整句）。
+```
+
+**我错在哪**
+她的：`yield on the **margin** of pay increases`
+正确：`yield on the **size** of pay increases`
+判据：margin 是两个数之间的差额；「加薪幅度」说的是加多少，不是在比两个数 ⇒ the size of。
+
+**中文触发点**
+家长们争的不是学费涨不涨，而是涨的幅度；最后这项提议只以微弱优势通过了。
+（★ 两处的「幅度／优势」只有一处能用 margin —— 哪处用、另一处怎么说自己定）
+
+### 历史记录
+- 2026-10-11 ❌ C10 D1 学习日 组2 第 1 题（顺带用错）首犯
+  她写 `Neither the labor union nor the management was willing to yield on the **margin**（这个词的用法学下) of pay increases` —— margin 是差额，「幅度」⇒ the size of。
+  当场给回：`yield on the size of pay increases`。
+  ⚠️ 同题主考点 #0585 ✅；同句 yield on 她点名要学 ⇒ 建号 #0596。
+
+## #0598 「（对某事的）担心、顾虑」＝ concerns about ／ over sth
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**concern**（担心、顾虑；常用复数 concerns）后面接 **about ／ over** ＋ 担心的那件事：
+　`the parents' **concerns about** the vaccine` · `growing **concern over** air pollution` · `raise **concerns about**`（提出担忧）
+**regarding ／ concerning** ＝「关于」，更正式：`concerns **regarding** safety` ✔ —— 也对，about 是默认
+⛔ ~~concerns on the vaccine~~ ⛔ ~~concerns to the vaccine~~
+⚠️ `the concerns **of** parents` ＝「家长的担心」—— of 后面是"谁在担心"，不是"担心什么"
+判据（词组题）：concerns about ／ over ／ regarding 调得出来都算对；写成 on ／ to ⇒ ❌
+```
+**找法**：中文「对…的担心／顾虑」⇒ concerns about ＋ 那件事；「谁的担心」⇒ sb's concerns ／ the concerns of sb。
+
+**怎么发现的**
+2026-10-11　C10 D1 学习日 组2 第 6 题（主考点 #0593，命中 ✅）。中文「打消了家长们对这种疫苗的顾虑」，
+她写 `dispelled the parents' **concerns about** this vaccine` —— 写对了，并当场括注 **「不确定是不是这个介词，还是 regarding」** ⇒ §2③ 她说没把握。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "concerns about" "regarding" "顾虑"        ⇒ 命中 #0587 #0593 #0163 #0297 #0368
+          dedup "concern over" "concerned about" "担忧"    ⇒ 命中 #0481 #0302
+② 规则查  同上（「顾虑／担忧」就是规则关键词）
+逐条否掉：
+  #0593（dispel，在池）—— 那条管动词 dispel 带"疑虑本身"作宾语；本条管名词 concern 后面配哪个介词 ⇒ 问1 不成立 ⇒ 否；交叉引用（同一个块 dispel … concerns about）
+  #0587（appease）#0163 #0297 #0368 #0481 #0302 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：名词＋介词的固定块、无动词；
+　 契约⑬ 来源：她说没把握 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`concerns about`），拿不准 about 还是 regarding —— 建号理由是 §2③。about 是默认，regarding 也对（更正式）。
+
+**中文触发点**
+```
+（居民对垃圾焚烧厂的）担忧
+（公众对个人数据安全）越来越多的担心
+```
+
+### 历史记录
+- 2026-10-11 ③ 建号（她说没把握）C10 D1 学习日 组2 第 6 题（顺带用对）
+  她写 `dispelled the parents' **concerns about**(不确定是不是这个介词，还是 regarding) this vaccine` —— about ✔。
+  ⚠️ 同题主考点 #0593 ✅（dispel ＋ 疑虑本身）。
 
 ---
 

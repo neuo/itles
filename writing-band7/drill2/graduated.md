@@ -21723,7 +21723,7 @@ retailer　 零售商　　wholesaler　批发商
   中文块「（智能手机）制造商」⇒ 她写 `a smartphone manufacturer` ✔。
 
 ## #0401 「写进法律」与「按…规定」—— 法律条文类的固定块
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -21786,6 +21786,9 @@ retailer　 零售商　　wholesaler　批发商
   题面「男女同工同酬已经写进了法律，而按照学校的规定，学生每天都必须穿校服。（★ 两处分别用 written into law ／ under）」
   她写 `Equal pay for equal work between men and women **has been written into law**, and **under school regulations**, students are required to wear uniforms every day.`
   written into law ✔；介词 under ✔（⛔ 没写成 by）⇒ 复检通过。
+- 2026-10-11 △ C10 D1 学习日 组2 第 5 题（顺带）
+  她写 `under regulations, the safety committee convenes once a month` —— 介词 under 对（规章一律 under）；
+  但「按照规定」指这个委员会自己那套规定 ⇒ 特指 ⇒ under the regulations ／ under the rules（本条写死 under the rules 带 the）⇒ △，两边不动。
 
 ## #0402 矿产资源 ＝ mineral resources
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
@@ -30034,7 +30037,7 @@ have already been borne　后果**已经**被承担了（完成）
   be being ＋ 过去分词 ✔ ⇒ 复检通过。同句 reinforce 她点名要学 ⇒ 另建 #0568。
 
 ## #0473 相对时间一族：the year before last ／ the previous year ／ the year after next
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 中文的「去年／前年／第二年／前一年」是**两套坐标**，英语分得很死，⛔ 不能混用：
@@ -30049,6 +30052,10 @@ have already been borne　后果**已经**被承担了（完成）
   **the previous year** ／ the year before　（那一年的）前一年
   **the following year** ／ the next year　 （那一年的）第二年
   two years earlier ／ two years later　　　（相对那一年）早两年 ／ 晚两年
+同一套坐标也管**天和晚上**（2026-10-11 补，适用范围说清 ⇒ 连对连错不动）：
+  以现在为基准　　 tonight ／ this evening ／ today ／ tomorrow
+  以文中时点为基准 **that night** ／ that evening ／ **that very evening**（当晚**就**）· **that day** ／ the same day（当天）· the next day ／ the following day（第二天）
+  ⛔ 叙述过去的事写 tonight ／ today ⇒ 基准错了
 ```
 **判据（一句话）**：基准是**今天** ⇒ last／next 那一排；基准是**文中的某一年** ⇒ previous／following 那一排。
 ⚠️ T1 描述图表时基准永远是**图上那个年份**，⛔ 一律不用 last／next
@@ -30062,6 +30069,7 @@ have already been borne　后果**已经**被承担了（完成）
 ③ the following year　　—— 2026-09-09 组1 第 4 题（题面点名）⇒ ✅（账 09-20 补记）
 ④ the year after next　 —— 2026-09-20 组2 第 2 题 ⇒ `will open the year after next` ✅
 ⑤ two years earlier ／ two years later —— 2026-09-20 组2 第 2 题 ⇒ `not close until two years later` ✅（以前文那个时间点为基准）
+⑥ that night ／ that (very) evening ／ the same day（当晚／当天）—— 未出过（2026-10-11 组2 第 5 题顺带用对 `that very evening` 📋，她点名「当晚的表达学下」）
 ```
 
 **怎么发现的**
@@ -30122,6 +30130,9 @@ have already been borne　后果**已经**被承担了（完成）
 - 2026-10-10 ✅ C9 D4 复习日 复检组7 第 5 题
   她写 `This restaurant opened the year before last; the previous year prior to its opening, …` —— ① the year before last 与 ② the previous year 都对。
   同句 previous ＋ prior to 同义重复 ⇒ #0221 △，⛔ 不记在本条。
+- 2026-10-11 📋 C10 D1 学习日 组2 第 5 题（顺带用对 ＋ 她点名要学）
+  她写 `the mayor convened an emergency meeting **that very evening**(当晚的表达学下)` —— 以文中那场爆炸为基准 ⇒ that 那一排 ✔；very 送到了「当晚**就**」。
+  她点名要学 ⇒ 归入本条（适用范围从「年」说清到「天／晚上」，连对连错不动），补成员 ⑥ 当晚／当天。
 
 ## #0512 一句话里的【时间平面】要一致 —— 中文没有过去标记就别切到过去
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F09 ｜ 题型 整句
@@ -33297,7 +33308,7 @@ in line with  ＋ 名词 inflation ✔，前面配 have been ✔
   ⛔ 状态不变、⛔ 不推进 streak（📋 留痕）。
 
 ## #0362 「同时」一族：simultaneously ／ at the same time ／ meanwhile ／ concurrently
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F14
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F14
 
 **问题是什么**
 中文一个「同时」，英文按**这两件事的关系**分成三类，⛔ 位置也不一样：
@@ -33382,6 +33393,9 @@ alongside       ＝ 介词，"与…并存／一道"　`**alongside** the conven
 - 2026-10-01 ✅D4 复习日 C8·复检组3 第 9 题
   题面「这两条地铁线是同时并行修建的；与此同时，市中心的老线路还在照常运营。（★ 两处分别用 in parallel ／ meanwhile…）」
   她写 `These two subway lines were constructed **in parallel**; **meanwhile**, the old lines in the city center continued operating as normal.` ⇒ 复检通过。
+- 2026-10-11 📋 C10 D1 学习日 组2 第 2 题（顺带用对 · 记账时补列）
+  她写 `…; **meanwhile**, the head coach reassured fans that …` —— 中文「同时」切到另一条线（俱乐部 → 主教练）⇒ Meanwhile 句首 ✔。
+  ⚠️ 组2 发出的顺带判定表漏列这一处，记账时补（session 组2 表内已补一行并注明）。
 
 ## #0364 「举例」一族：for example ／ take X as an example ／ a case in point ／ such as
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F14
@@ -33746,7 +33760,7 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   她写 `This proposal appears perfect on paper, and everyone agrees with it in principle; however, it encounters obstacles everywhere in practice.` —— 三处各就各位。
 
 ## #0504 「继…之后」一族：following ／ in the wake of ／ in the aftermath of ／ after
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F14 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F14 ｜ 题型 整句
 
 **问题是什么**
 中文一个「在…之后」，英文按**要不要暗示因果、事件有多大**分开。四个都是**介词**，后面接名词（块），⛔ 不接从句：
@@ -33847,6 +33861,10 @@ tax incentives.`，并当场括注**「这个要背，本来在后面加 for thi
   ⇒ 连对 1 → **连对 2 ⇒ 🎓**。成员 ③ ⑤ 账已补。
 - 2026-10-10 ✅ C9 D4 复习日 复检组9 第 9 题
   她写 `Following the introduction of the new regulation, …; in the wake of that earthquake, …` —— 两处后面都只挂名词块。
+- 2026-10-11 📋 C10 D1 学习日 组2 第 3 题（顺带用对）
+  她写 `**Following** the interest rate reduction by the central bank, the financial pressure … has eased` —— following ＋ 名词块，降息与压力缓解有因果 ✔。
+- 2026-10-11 📋 C10 D1 学习日 组2 第 5 题（顺带用对）
+  她写 `**Following** the chemical plant explosion, the mayor convened an emergency meeting` —— following ＋ 名词块，爆炸引出紧急会议 ✔。
 
 ---
 
