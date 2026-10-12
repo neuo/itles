@@ -481,7 +481,7 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 > 动词后面接什么、及物性、论元完整
 
 ## #0477 take sth into account 一族：into ／ of ／ in 三个介词各归各家
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -503,9 +503,10 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 **成员出题账**
 ```
 ① take sth into account　—— 2026-09-07 组2 第 4 题 ⇒ ❌ 写成 `take in account`；2026-09-09 组1 第 2 题 ⇒ ✅　★ 仍优先测（介词要她自己挂）
-② take account of sth　　—— 2026-09-09 组1 第 2 题 ⇒ ✅（题面印了 of）　★ 仍优先测
+　　　　　　　　　　　　　 ／ 2026-10-10 复检组4 第 5 题 ⇒ ❌（整句没写出来，①⑤④ 一起塌）／ 2026-10-12 组2 第 1 题 ⇒ ✅（介词自己挂）
+② take account of sth　　—— 2026-09-09 组1 第 2 题 ⇒ ✅（题面印了 of）／ 2026-10-12 组2 第 1 题 ⇒ ✅（of 自己挂）
 ③ take sth into consideration —— 2026-09-13 组2 第 2 题 ⇒ ◎✅（题面把 into consideration 整块印出来了 ⇒ 没测成）
-④ bear ／ keep sth in mind —— 2026-09-09 组1 第 2 题 ⇒ ✅（`borne in mind`，题面印了 in）　★ 优先测（反面成员：这个才用 in）
+④ bear ／ keep sth in mind —— 2026-09-09 组1 第 2 题 ⇒ ✅（`borne in mind`，题面印了 in）／ 2026-10-12 组2 第 1 题 ⇒ ✅（`keep … in mind`，in 自己挂）
 ⑤ factor in ／ allow for　—— 2026-09-13 组2 第 2 题 ⇒ ◎✅（两个块连介词一起印在题面上 ⇒ 没测成）
 ```
 
@@ -571,6 +572,11 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   题面「做旅行预算时，我们忽略了汇率变化，也忘了给航班延误留余地、把签证费算进去；下次这些都得记在心里。（★ 前三处分别用 take ／ allow ／ factor …；最后一处必须出现 mind）」
   她答「忘了」—— **整句没写出来**。当场给回：`we failed to take exchange rate changes into account, and forgot to allow for flight delays and factor in visa fees; next time we need to bear all this in mind.`
   🎓 吃 ❌ ⇒ 当场回潮。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 1 题（回潮后首测）
+  题面「这份城市规划没有把老年人的出行需求考虑进去，也没有顾及雨季的排水问题；下一版的设计者必须把这两点记在心里。（★ 前两处分别用 take … account ／ take account …，第三处用 mind —— 每处该挂哪个介词自己定）」（换场景；负荷降到三处；介词全部留给她）
+  她写 `This urban plan did not **take** the mobility needs of the elderly **into account**, nor did it **take account of** drainage issues during the rainy season; designers of the next version must **keep** these two points **in mind**.`
+  into ／ of ／ in 三个介词各归各家 ✔，全是她自己挂的（10-10 整句没写出来）⇒ 连错 1 → 连对 1。
+  ⚠️ 同句 mobility ／ drainage 她点名要背 ⇒ 建号 #0606 #0607。
 
 ## #0581 「（去）找某人（求助、商量）」＝ approach sb
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01 ｜ 题型 整句
@@ -665,6 +671,52 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   题面「房东在房租上一步也不肯让，可面对租客们的联名投诉，他最终还是顶不住压力，把暖气修好了。（★ 两处都用 yield —— 后面各配哪个介词自己定）」（种子「投诉之后」与 #0595 撞「之后」⇒ 改「面对…联名投诉」）
   她写 `The landlord refused to **yield on** rent, yet facing joint complaints from tenants, he eventually **yielded to** pressure and repaired the heating system.`
   让的是房租 ⇒ yield on ✔；顶不住的是压力 ⇒ yield to ✔；两个介词没串台 ⇒ 首测 ⇒ 连对 1。
+
+## #0608 「（一群人）在…上意见一致」＝ be unanimous in ＋ -ing／名词（⛔ to do）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
+
+**问题是什么**
+```
+**be unanimous in ＋ -ing ／ 名词**　在（做某事／某个决定）上意见一致：
+　`The judges were **unanimous in awarding** her the prize.` · `The board was **unanimous in its decision**.` · `**unanimous in their support** for the plan`
+**be unanimous that ＋ 从句**：`The committee was **unanimous that** the plan should go ahead.`
+**be unanimous on ／ about ＋ 话题**：`They were **unanimous on** this point.`
+只想放动词 ⇒ 换副词：`The board **unanimously approved** the plan.`
+⛔ ~~be unanimous to do~~（⛔ ~~were unanimous to award~~）
+与 **#0561**（unanimous ↔ consistent 怎么挑，🎓）分工：那条是选词；本条是 unanimous 后面接什么
+```
+**判据（一句话）**：后面接"做了什么" ⇒ in ＋ -ing；接一句话 ⇒ that ＋ 从句；只想放动词 ⇒ unanimously。
+**找法**：写完 be unanimous 停一下 —— 后面是动作 ⇒ in doing，⛔ to do。
+
+**怎么发现的**
+2026-10-12　C10 D2 学习日 组2 第 3 题（主考点 #0561，命中 ✅）。中文「五位评委一致把冠军判给了这位年轻选手」，
+她写 `The five judges were **unanimous in**(这个 in 的用法可以学下) awarding the championship to this young contestant` —— 写对了，并当场括注 ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "unanimous in" "united in" "一致"            ⇒ 命中 #0055 #0060 #0064 #0069 #0095 #0136 #0143 #0144 #0338 #0350 #0512 #0519（全是"主谓一致／时态一致"一类字样）
+          dedup "successful in" "justified in" "rich in"   ⇒ 命中 #0356 #0402 #0223 #0565
+② 规则查  dedup "在…上" "意见一致"                         ⇒ 命中 #0561 #0295 #0329 #0342 #0596 #0266
+逐条否掉：
+  #0561（unanimous ↔ consistent，今天 🎓）—— 最像的一条：同一个词。问1：那条是"一致"挑哪个词；本条是 unanimous 后面接什么 ⇒ 改正动作不同 ⇒ 否。
+    反向验（§3.5 1.3）：词挑对（unanimous）、框架写错（were unanimous to award）可以同时出现 ⇒ 两条可独立取值。交叉引用。
+  #0356（be rich in，🎓）—— 也是「形容词 ＋ in」，但那条考的是「丰富」选 rich in ⇒ 问2 要分两句话讲 ⇒ 否
+  #0295（based on ／ rooted in）#0329（do sth about）#0342（shift to／onto）#0596（yield on）#0266（take／spend）—— 别的框架 ⇒ 问1 不成立 ⇒ 否
+  #0402 #0223 #0565 及 ① 的「一致」字样命中 —— 偶合 ⇒ 否
+⇒ 新建，归 F01（框架：形容词后面接什么），题型 **整句**（§3.5 第 2.5 步 ①：in doing ／ ⛔ to do 只在句子里失守）。
+```
+
+**我错在哪**
+她这次写对了（`were unanimous in awarding`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+三位考官一致认为这篇论文该拿最高分；全体员工也一致支持新的排班制度。
+（★ 两处都写成 be unanimous … —— 后面接什么自己定）
+
+### 历史记录
+- 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 组2 第 3 题（顺带用对）
+  她写 `The five judges were **unanimous in**(这个 in 的用法可以学下) awarding the championship to this young contestant` —— in ＋ -ing ✔。
+  ⚠️ 同题主考点 #0561 ✅（unanimous ／ consistent 各就各位）。
 
 ---
 
@@ -1581,7 +1633,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0417 凭着（一个好凭据）＝ on the strength of
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1652,9 +1704,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-10 ❌ C9 D4 复习日 复检组2 第 5 题 e（词组题）
   中文块「凭着多年的一线经验（整个块都要翻）」⇒ 她答「忘了」—— **调不出** `on the strength of years of frontline experience`。
   当场给回：on ／ the ／ strength（单数）三个零件，后面接对你有利的凭据。🎓 吃 ❌ ⇒ 当场回潮。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4a·5a 题（词组 · 回潮后首测）
+  题面「凭着两项专利（整个块都要翻）」「凭着一份详尽的商业计划书（整个块都要翻）」
+  她写 `on the strength of two patents` · `on the strength of a detailed business plan` —— on ／ the ／ strength 三个零件齐 ⇒ 连错 1 → 连对 1。
 
 ## #0437 议论文的抽象名词块一族（本篇实产）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1719,9 +1774,13 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   9a「（这项决定是）出于政治上的考虑」⇒ `out of political considerations` ✔
   9b「（这家老书店）早已失去了存在的意义」⇒ 她答「忘了」—— **调不出** `had long lost its reason for existence`。
   当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。当场给回：lose its reason for existence（⛔ existing reason）。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4b·5b 题（词组 · 回潮后首测）
+  题面「（没人来参观的博物馆就）失去了存在的意义」「（这位科学家一生追求的）服务人类的宏大理想」
+  她写 `lose reasons for existence` · `the grand ideal of serving humanity` —— reason for existence ✔（⛔ 没写成 existing reason，10-10 塌的那一块）；grand ideal of serving humanity ✔ ⇒ 连错 1 → 连对 1。
+  ⚠️ reasons 复数、少了 its ⇒ 契约⑬ 不判单复数与限定词；对照块提醒：进句子是 lose its reason for existence。
 
 ## #0438 商业与产业块一族：pharmaceutical ／ market share ／ excess profits
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1780,9 +1839,13 @@ progress **不可数**（⛔ a progress）。
   9c「（全球几家最大的）制药企业」⇒ 她答「忘了」—— **调不出** `pharmaceutical companies`
   9d「（抢占）市场份额」⇒ `market share` ✔（零冠词）
   当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。当场给回：pharmaceutical（phar-ma-ceu-ti-cal）companies。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4c·5c 题（词组 · 回潮后首测）
+  题面「（几家跨国）制药企业」「（靠垄断赚取的）超额利润」
+  她写 `multinational pharmaceutical enterprises` · `excess profits` —— pharmaceutical 调出、拼对（10-10 塌的那一块）；excess ✔ ⇒ 连错 1 → 连对 1。
+  ⚠️ enterprises ⇒ #0258 △（「企业」直译；跨国大药企默认 companies）。
 
 ## #0442 「优先级」一族：the top priority ／ a priority ／ take precedence over ／ come first
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1821,9 +1884,10 @@ progress **不可数**（⛔ a progress）。
 ① the top priority　　　—— 2026-09-04 组1 第 5 题自发用对 ⇒ 📋 不算测过　★ 她点名要背
 　　　　　　　　　　　　　 ／ 2026-10-10 复检组5 第 5 题 ⇒ `is the top priority` ✅（第一次被出题）
 ② a priority　　　　　　—— 2026-09-06 组1 第 1 题「是一件优先的事」⇒ ❌ 写成 priority thing　★ 仍优先测
-　　　　　　　　　　　　　 ／ 2026-09-10 组1 第 9 题 ⇒ `one of the priorities` ✅
+　　　　　　　　　　　　　 ／ 2026-09-10 组1 第 9 题 ⇒ `one of the priorities` ✅ ／ 2026-10-12 组2 第 2 题 ⇒ `has also become a priority` ✅
 ③ take precedence over　—— 2026-09-06 组1 第 1 题 ⇒ ✅
-　　　　　　　　　　　　　 ／ 2026-10-10 复检组5 第 5 题 ⇒ ❌ **方向反了**：`all other projects must take precedence over it`　★ 下次优先测
+　　　　　　　　　　　　　 ／ 2026-10-10 复检组5 第 5 题 ⇒ ❌ **方向反了**：`all other projects must take precedence over it`
+　　　　　　　　　　　　　 ／ 2026-10-12 组2 第 2 题（中文主语是让路的一方）⇒ `safety always takes precedence over punctuality` ✅ 方向对
 ④ come first　　　　　　—— 2026-09-10 组1 第 9 题 ⇒ `comes first` ✅
 ⑤ at the expense of　　 —— 2026-09-16 组2 第 5 题 ⇒ ✅
 ⑥ prioritise A over B　 —— 2026-09-16 组2 第 5 题 ⇒ `prioritised maintenance over expansion` ✅
@@ -1874,9 +1938,13 @@ progress **不可数**（⛔ a progress）。
   她这句成了"其他项目都比治堵优先"，意思说反 ⇒ 没送到。正确：`it takes precedence over all other projects`
   （想保留"其他项目"做主语 ⇒ `all other projects must give way to it`）。
   🎓 吃 ❌ ⇒ 当场回潮；方向判据写进正文「问题是什么」。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 2 题（回潮后首测）
+  题面「在这家航空公司，准点永远要给安全让路；不过今年，削减成本也成了其中一件优先的事。（★ 两处分别用 take precedence over ／ priority —— 形态与冠词自己定）」（中文主语故意是让路的一方）
+  她写 `At this airline, safety always **takes precedence over** punctuality; this year, however, cost reduction has also become **a priority**.`
+  把主语换成更重要的 safety ⇒ 方向对 ✔（10-10 塌的正是方向）；a priority 冠词 ✔ ⇒ 连错 1 → 连对 1。
 
 ## #0462 校园与学生群体的固定块：hearing-impaired ／ lower grades ／ dormitory curfew
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1940,9 +2008,12 @@ progress **不可数**（⛔ a progress）。
   a「（手语老师班上的）听障孩子」⇒ `hearing-impaired children` ✅
   b「（夜里十一点的）宿舍门禁」⇒ 她答「忘了」—— **调不出** ⇒ ❌。当场给回：a dormitory curfew（cur-few）。
   当天出现 ❌ ⇒ 记 ❌；🎓 吃 ❌ ⇒ 当场回潮。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4d·5d 题（词组 · 回潮后首测）
+  题面「（新学期取消了）宿舍门禁」「（小学）低年级（的孩子）」
+  她写 `dormitory curfews` · `children in lower grades` —— curfew 调出（10-10 塌的那一块）；lower grades ✔ ⇒ 连错 1 → 连对 1。
 
 ## #0553 「（饭菜）丰盛」＝ hearty ／ generous
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1996,9 +2067,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ✅ C9 D4 复习日 组2 第 2 题 a ＋ 第 3 题 a（词组题，本条占 2 个块）
   2a「（干了一上午农活后的）一顿丰盛的饭」⇒ `a hearty meal` ✔ · 3a「（大学食堂的）饭菜分量给得很足」⇒ `generous portions` ✔
   10-09 5d「忘了」的就是 generous portions，今天调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4e·5e 题（词组）
+  题面「（登山前的）一顿丰盛的早餐」「（这家路边小店的面）分量给得很足」
+  她写 `a hearty breakfast` · `generous portions` —— 两块都调出 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0560 「快递（那个包裹）」＝ a parcel ／ a package
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2042,9 +2116,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-09 ✅ C9 D3 组1 第 4 题 a ＋ 第 5 题 a（词组题，本条占 2 个块）
   4a「（去楼下）取快递」⇒ `collect a parcel` ✔（英式标准说法，与 pick up 同义）· 5a「给家里寄一个快递」⇒ `send a package home` ✔
   首测两块都调出 ⇒ 连对 1。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4g·5g 题（词组）
+  题面「（快递员把）快递（放在了门口）」「（她每周都要往老家）寄好几个快递」
+  她写 `parcels` · `send several parcels` —— 两块都调出 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0561 「（一群人）意见一致／全票」＝ unanimous（⛔ 不是 consistent）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2090,9 +2167,14 @@ progress **不可数**（⛔ a progress）。
   她写 `The board of directors passed this proposal with **unanimous** approval; meanwhile, his stance on this issue has been **consistent** over the years.`
   一群人彼此没分歧 ⇒ unanimous ✔；同一个人前后没变 ⇒ consistent ✔；没串台 ⇒ 首测 ⇒ 连对 1。
   ⚠️ 同句 stance 她点名要学 ⇒ 另建 #0564。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 3 题
+  题面「五位评委一致把冠军判给了这位年轻选手，尽管她这个赛季的发挥一直时好时坏。（★ 两处从 consistent ／ unanimous 这一族里各挑一个 —— 哪个配哪处自己分；形态自己定）」（换场景：种子 10-09 测过）
+  她写 `The five judges were **unanimous** in awarding the championship to this young contestant, even though her performance throughout this season had not been **consistent**.`
+  一群人彼此没分歧 ⇒ unanimous ✔；同一个人前后不稳 ⇒ not consistent ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
+  ⚠️ 同句 be unanimous in 她点名要学 ⇒ 建号 #0608。
 
 ## #0562 「全天候／一天 24 小时不停」＝ around the clock
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2140,6 +2222,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 ✅ C9 D4 复习日 组2 第 2 题 d ＋ 第 3 题 d（词组题，本条占 2 个块）
   2d「（这家便利店）24 小时营业」⇒ `operating around the clock` ✔ · 3d「（工人们）日夜不停地抢修（大桥）」⇒ `work around the clock to repair` ✔
   10-09 两块都「忘了」，今天两块都调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-12 ✅ C10 D2 学习日 组2 第 4f·5f 题（词组）
+  题面「（这家工厂的生产线）24 小时不停（运转）」「（重症病人需要的）全天候护理」
+  她写 `operating around the clock` · `around-the-clock care` —— 块对，作定语加了连字符 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0563 「（一件事）必然带来／意味着要」＝ entail
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -3927,6 +4012,89 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 组1 第 6 题（顺带用对）
   她写 `as for where the funding will come from, the municipal government **has taken no stance**(这个词组学下) to date.` —— take no stance ✔。
   ⚠️ 同题主考点 #0604 ✅（as to whether ／ as for 各就各位）。
+
+## #0606 「（老人、残障人士的）出行／行动能力」＝ mobility
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**mobility**（不可数）＝ 人能不能自己走动、出门的能力 —— 老人、残障人士语境里的「出行」：
+　`the **mobility** needs of the elderly`（老年人的出行需求）· `people with reduced／limited **mobility**`（行动不便的人）· `**mobility** aids`（助行器、轮椅这一类）
+⚠️ 普通人的「出行」（上班、旅行）⇒ travel ／ commuting：`the travel needs of commuters`
+⚠️ 另一个意思：流动性 —— `social mobility`（社会阶层流动）· `job mobility`（换工作的流动性）
+判据（词组题）：mobility 调得出来就算对；写 travel needs 判 △（成立，不是本条要调的块）
+```
+**找法**：「出行」说的是"走不走得动"（老人、坐轮椅的人）⇒ mobility；说的是"去哪儿、怎么去" ⇒ travel。
+
+**怎么发现的**
+2026-10-12　C10 D2 学习日 组2 第 1 题（主考点 #0477，命中 ✅）。中文「没有把老年人的出行需求考虑进去」，
+她写 `did not take the **mobility**（背一下） needs of the elderly into account` —— 写对了，并当场括注 **「背一下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "mobility" "出行"     ⇒ 命中 #0294
+② 规则查  同上（「出行」就是规则关键词）
+逐条否掉：
+  #0294（be reserved for，🎓）—— 历史行里出现过 passengers with reduced mobility（📋 留痕），那条考的是 be reserved for ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词块、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`the mobility needs of the elderly`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（坐轮椅的乘客的）出行需求
+行动不便的（老人）
+```
+
+### 历史记录
+- 2026-10-12 ③ 建号（她点名要背）C10 D2 学习日 组2 第 1 题（顺带用对）
+  她写 `This urban plan did not take the **mobility**（背一下） needs of the elderly into account` —— 老人的「出行」⇒ mobility ✔。
+  ⚠️ 同题主考点 #0477 ✅（into ／ of ／ in 各归各家）。
+
+## #0607 「排水（系统／问题）」＝ drainage
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**drainage**（不可数）＝ 把水排走这件事、排水系统：
+　`a **drainage** system`（排水系统）· `poor **drainage**`（排水不畅）· `**drainage** problems／issues`（排水问题）
+**drain**：名词 ＝ 排水管、下水道口（`The drains are blocked.` 下水道堵了）；动词 ＝ （水）排走（`The water drains away.`）
+邻居：sewage（污水）· sewer（下水道、污水管）
+⚠️ 拼写：drain-age
+判据（词组题）：drainage 调得出来、拼对就算对
+```
+**找法**：「排水」说的是这件事／这套系统 ⇒ drainage；说的是那根管子、那个口 ⇒ drain。
+
+**怎么发现的**
+2026-10-12　C10 D2 学习日 组2 第 1 题（主考点 #0477，命中 ✅）。中文「也没有顾及雨季的排水问题」，
+她写 `nor did it take account of **drainage**（背一下） issues during the rainy season` —— 写对了，并当场括注 **「背一下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "drainage" "排水"     ⇒ 命中 #0493
+② 规则查  同上（「排水」就是规则关键词）
+逐条否掉：
+  #0493（水龙头 a tap ／ a faucet，🎓）—— 「给排水」只是那条查重说明里的字样，那条考的是水龙头这个零件 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`drainage issues`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（老城区的）排水系统
+（这块地）排水不畅
+```
+
+### 历史记录
+- 2026-10-12 ③ 建号（她点名要背）C10 D2 学习日 组2 第 1 题（顺带用对）
+  她写 `nor did it take account of **drainage**（背一下） issues during the rainy season` —— 词与拼写都对。
+  ⚠️ 同题主考点 #0477 ✅。
 
 ---
 

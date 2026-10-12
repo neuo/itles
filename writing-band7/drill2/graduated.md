@@ -15322,7 +15322,7 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   用的是正式书面的单词动词（⛔ 不是 deny ＝ 否认；⛔ 不是 turn down／refuse）。
 
 ## #0258 company / firm / business / corporation / enterprise 的分工
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08
 
 **问题是什么**
 中文的"公司/企业"不看字面，看**规模**和**语域**：
@@ -15369,6 +15369,9 @@ combine **together** ⛔ · **future** plans ⛔ · **past** history ⛔
   写出 `**Small business** in this industry find it difficult to compete with **large corporations**.` ——
   ★ **正好是建号那次的反面**：她当年写 `most small corporations`（corporation 配"小"冲突），今天小的用 business、
   大的用 corporation，两档各归各家。⚠️ `Small business … find` 少一个 -s 落在 **R2**，⛔ 不是本条的考点。
+- 2026-10-12 △ C10 D2 学习日 组2 第 4c 题（顺带）
+  她写 `multinational pharmaceutical **enterprises**` —— 成立，但「企业」逐字落成 enterprise；本条写死 enterprise 是政策、经济文体里的企业（state-owned enterprises），跨国大药企默认 companies ／ corporations ⇒ △（两边不动）。
+  ⚠️ 题面用「企业」是为了避开同组第 2 题的「公司」。
 
 ## #0259 competition 配 fierce 一族，market 才配 competitive
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-13 ｜ 族 F08
@@ -19446,7 +19449,7 @@ eliminate ／ remove ／ get rid of ＋ 气味   `eliminate the odour`
   同句 perfume ／ subtle 她点名要背／要学 ⇒ 另建 #0547 #0548。
 
 ## #0361 「跨国／全球化」一族的名词块 —— multinational ／ transnational ／ cross-border ／ overseas
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08
 
 **问题是什么**
 中文一个「跨国／全球／海外」，英文按**跨的是什么**分开，⛔ 不能混用：
@@ -19488,7 +19491,7 @@ worldwide       ＝ 遍及全世界（形容词与副词同形，常放动词后
 
 **成员出题账**
 ```
-① multinational   —— 2026-08-29 作文 T2-22 S5 她**查字典后用对**（📋 不推进）· 2026-08-30 组1 第 3 题 ✅
+① multinational   —— 2026-08-29 作文 T2-22 S5 她**查字典后用对**（📋 不推进）· 2026-08-30 组1 第 3 题 ✅ · 2026-10-12 组2 第 4c 题顺带用对（📋）
 ② transnational   —— 2026-09-01 组6 第 9 题 ✅ · 2026-10-01 复检组3 第 8 题 ✅
 ③ cross-border    —— 2026-08-30 组1 第 3 题 ✅ · 2026-09-01 组6 第 9 题 ✅
 ④ overseas        —— 2026-08-30 组1 第 3 题 ✅（作定语）· 2026-10-01 复检组3 第 8 题 ✅（from overseas）
@@ -19526,6 +19529,8 @@ worldwide       ＝ 遍及全世界（形容词与副词同形，常放动词后
 - 2026-10-01 ✅D4 复习日 C8·复检组3 第 8 题
   题面「气候变化是一个跨国问题；而这家公司一半以上的收入来自海外。（★ 两处分别用 transnational ／ overseas）」
   她写 `Climate change is a **transnational** issue, whereas more than half of this company's revenue comes from **overseas**.` ⇒ 复检通过。
+- 2026-10-12 📋 C10 D2 学习日 组2 第 4c 题（顺带用对）
+  中文块「（几家跨国）制药企业」⇒ 她写 `**multinational** pharmaceutical enterprises` —— 跨国公司那一格 ⇒ multinational ✔（成员 ①）。
 
 ## #0363 「共同参照／标杆」一族的抽象名词块：reference point ／ benchmark ／ yardstick
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-01 ｜ 族 F08
