@@ -25180,7 +25180,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   a「（批发时的）单价」⇒ `wholesale unit price` ✅ · b「（规模化生产以后的）单位成本」⇒ `unit cost` ✅
 
 ## #0481 「引起／吸引注意」一族：draw ／ attract ／ bring to ／ come to sb's attention
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -25196,6 +25196,9 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 **raise concerns**　引发担忧（★ 引起的不是"注意"而是"担心"）
 **draw ／ attract criticism**　招来批评（★ 引起的是别人的负面反应）`The practice has **drawn considerable criticism**.`（2026-10-09 补，她点名要学）
 　　⛔ ~~entail criticism~~ —— entail 是「必然包含」，批评是别人的反应，不是这件事的组成部分（⇒ **#0563**）
+**arouse ／ provoke ＋ 情绪名词**　引起某种情绪（2026-10-12 补，她点名要学）
+　　`arouse resentment`（怨气：觉得被亏待、不公平 —— `The pay freeze aroused resentment among staff.`）· `arouse suspicion` · `provoke anger／outrage`
+　　「引起反感」（看了不舒服、被冒犯）⇒ `provoke a backlash` ／ `cause offence` —— ⚠️「反感」⛔ 默认落成 resentment：先问是"被亏待"还是"被冒犯"
 ```
 **判据（一句话）**：**谁在动？**
 那件事把注意力拉过来 ⇒ draw／attract sb's attention　　有人把它报上去 ⇒ bring X to sb's attention
@@ -25214,6 +25217,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
 ④ come under scrutiny　　　—— 未出过
 ⑤ catch sb's eye ／ raise concerns —— 未出过
 ⑥ draw ／ attract criticism —— 2026-10-09 组2 第 6 题自发用对（`has drawn considerable criticism`）⇒ 留痕　★ 她点名要学
+⑦ arouse ／ provoke ＋ 情绪（resentment ／ suspicion ／ a backlash）—— 2026-10-12 组3 第 1 题自发用（`aroused intense resentment`，搭配对、resentment 词义偏）⇒ 留痕　★ 她点名要学
 ```
 
 **怎么发现的**
@@ -25297,6 +25301,10 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   题面「给员工电脑装监控软件的做法招来了不少批评……」，她自己写出 `has **drawn** considerable **criticism**`，并括注「学一下，另外可以改成 entail 么」。
   招来批评 ⇒ draw ／ attract criticism —— 本条「引起／招来」一族的又一个成员 ⇒ 补进正文与成员出题账（⑥），⛔ 不另建号；
   §3.5 A「只是把老条目适用范围说清」⇒ 连对连错不动。她问的 entail：⛔ 不行（entail ＝ 必然包含；批评是别人的反应）⇒ #0563 正文同步补一行。
+- 2026-10-12 📝 C10 D2 学习日 组3 第 1 题（她点名要学 ⇒ 归入补成员 ⑦，连对连错不动）
+  她写 `its new advertisement **aroused**(学下) intense **resentment**(学下) among the audience` —— arouse ＋ 情绪名词的搭配对；
+  但 resentment 是"觉得被亏待"的怨气，一句台词冒犯了观众 ⇒ provoke a backlash ／ cause offence 更贴 ⇒ 只进更好版（⛔ 不判错）。
+  归入本条（「引起…」一族，适用范围从「注意／担忧／批评」说清到「情绪」），补成员 ⑦。⚠️ 同题主考点 #0588 ❌。
 
 ## #0483 出院一族：be discharged ／ be admitted ／ be referred ／ be transferred
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句

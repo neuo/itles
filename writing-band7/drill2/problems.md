@@ -1496,7 +1496,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0588 「其中最…的」接关系从句 ⇒ 先行词得是一组东西：…, the ＋ 最高级 ＋ of which ／ among which
-状态：在池 ｜ 连对 0 ｜ 连错 2 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F07 ｜ 题型 整句
+状态：在池 ｜ 连对 0 ｜ 连错 3 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1517,6 +1517,8 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 ```
 **找法**：写 among which ／ of which 之前，回头看 which 指的那个名词 —— 是不是一组东西？
 "最…的那个"是不是它里面的一员？**两个都是**才用。
+★ 最快的检验（2026-10-12 补）：**把 which 换成它紧挨着的那个名词念一遍** ——
+`the most offensive aspect of the audience`？`of the resentment`？念不通 ⇒ ⛔ which，改 `, and the most … was …` ／ `, the most … being …`。
 
 **怎么发现的**
 2026-10-10　C9 D4 复习日 复检组6 第 7 题（主考点 #0461，命中 ✅）。中文「这部电影上映后引发了巨大争议，其中最有争议的是结尾那段改编」，
@@ -1559,6 +1561,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   前半 the oldest of which 挂在 bronze artifacts（一组东西）上 ✔；后半 which 紧挨着单数 controversy ——「争议里最有争议的部分」说不通 ⇒ 同 10-10 首犯那个坑（among which 换成了 part of which，还是挂在 controversy 上）。
   当场给回：`…, and the most controversial part is the relocation cost.`；想保留 part of which ⇒ 挪到 plan 后面：`this relocation plan, the most controversial part of which is the relocation cost, has led to considerable controversy.`
   正文补一句「of which 也可以是整体的一部分，前提是 which 紧挨着的名词真有这一部分」（适用范围说清，连对连错不动）。
+- 2026-10-12 ❌ C10 D2 学习日 组3 第 1 题　复发（第三次）
+  题面「这家公司去年推出了五款新手机，其中卖得最好的一款也是最便宜的；不过它的新广告引起了观众强烈的反感，最让人反感的是广告里的一句台词。（★ 前一处必须用 of which 接关系从句；后一处自己判断还能不能也用 which）」（换场景：种子 10-11 测过）
+  她写 `This company launched five new smartphones last year, **the best-selling of which** was also the cheapest; however, its new advertisement aroused intense resentment among the audience, **the most offensive aspect of which** was a line of dialogue in the advertisement.`
+  前半 the best-selling of which 挂在 smartphones（一组东西）上 ✔；后半 which 紧挨的是 the audience（往前是 resentment）——「观众／反感里最让人反感的方面」说不通，最让人反感的是广告的一部分 ⇒ 同 10-10／10-11 的坑。
+  当场给回：`…, and the most offensive aspect was a line of dialogue in the advertisement.`（或 …, the most offensive aspect being …）；检验办法：把 which 换成它紧挨着的名词念一遍。
+  ⇒ 连错 2 → 3。找法补「换名词念一遍」（适用范围说清，连对连错不动）。
 
 ---
 
@@ -2227,7 +2235,7 @@ progress **不可数**（⛔ a progress）。
   她写 `operating around the clock` · `around-the-clock care` —— 块对，作定语加了连字符 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0563 「（一件事）必然带来／意味着要」＝ entail
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2277,6 +2285,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-10 📝 C9 D4 复习日 复检组6 第 7 题（她问的，§3.5 A 只把适用范围说清 ⇒ 连对连错不动）
   她问 triggered 能不能换成 entail —— 与 10-09 问 entail criticism 是同一条边界：争议也是别人的反应，⛔ entail controversy。
   正文「问题是什么」补 ⛔ entail controversy 一行。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 2 题
+  题面「接手这个项目就意味着每周都得飞两趟上海。（★ 用 entail；后面接什么形态自己定）」（换场景：种子 10-10 测过）
+  她写 `Taking over this project **entails flying** to Shanghai twice a week.` —— entail ＋ -ing ✔，主语是事 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0564 「（对某个问题的）立场」＝ stance（on）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -2326,7 +2337,7 @@ progress **不可数**（⛔ a progress）。
   更好版 4a `the government's stance on immigration`（两个介词短语叠在 stance 后面，所有格更顺）—— 不影响本块判定。
 
 ## #0565 「大量／大面积（数据、研究、破坏）」＝ extensive
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2372,9 +2383,12 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0542 ✅（cite ／ cite A as B）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 b ＋ 第 5 题 b（词组题，本条占 2 个块 · 首测）
   4b「（这项结论基于）大量的研究」⇒ `extensive research` ✔ · 5b「（台风造成的）大面积破坏」⇒ `extensive damage caused by the typhoon` ✔
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3f 题（词组）
+  题面「（这家图书馆）大量的藏书」
+  她写 `an **extensive** collection of books` —— 调出 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0566 「（供应／交通的）中断、打乱」＝ disruption
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2417,6 +2431,9 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0546 ✅（came to a halt）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 c ＋ 第 5 题 c（词组题，本条占 2 个块 · 首测）
   4c「供应链中断」⇒ `supply chain disruption` ✔ · 5c「（罢工给铁路交通带来的）严重干扰」⇒ `severe disruption to rail traffic` ✔
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3g 题（词组）
+  题面「（大雪造成的）交通中断」
+  她写 `traffic **disruption** caused by heavy snow` —— 调出、拼对 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0567 「用…的语气（说）」＝ in a … tone
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -2680,7 +2697,7 @@ progress **不可数**（⛔ a progress）。
   4g「（穿着荧光背心，在人群里）格外显眼」⇒ `highly conspicuous in the crowd` ✔ · 5g「（门口）一块显眼的指示牌」⇒ `a conspicuous sign at the entrance` ✔
 
 ## #0573 「青春期」＝ puberty
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2722,6 +2739,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ❌ C10 D1 学习日 组1 第 4a·5a 题（词组）
   题面「（孩子）进入青春期」「青春期（带来的身体变化）」
   她两块都写「忘了」⇒ 调不出 puberty。给了 reach puberty ／ the physical changes of puberty。首测 ⇒ 连错 1。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3a 题（词组）
+  题面「（很多孩子）青春期（时个子长得特别快）」
+  她写 `during **puberty**` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
 
 ## #0574 「总部」＝ headquarters
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
@@ -2769,7 +2789,7 @@ progress **不可数**（⛔ a progress）。
   她写 `the headquarters of this company` · `the United Nations Headquarters` —— 两块都调出、-s 都在。首测 ⇒ 连对 1。
 
 ## #0575 「头号／重点（工程、产品、门店）」＝ flagship
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2812,6 +2832,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ❌ C10 D1 学习日 组1 第 4c·5c 题（词组）
   题面「（那个运动品牌在市中心的）旗舰店」「（这家电视台的）王牌节目」
   她两块都写「忘了」⇒ 调不出 flagship。给了 the brand's flagship store downtown ／ the TV station's flagship programme。首测 ⇒ 连错 1。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3b 题（词组）
+  题面「（这家车企的）旗舰车型」
+  她写 `the **flagship** model of this automaker` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
 
 ## #0576 「博士（学位）」＝ doctoral ／ doctorate ／ PhD
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
@@ -2997,7 +3020,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 不判错：health condition 是「健康状况」直译，更好版删掉 condition（his health）。
 
 ## #0580 「（新生／新员工）入学指导、入职培训」＝ orientation
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3039,6 +3062,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ❌ C10 D1 学习日 组1 第 4g·5g 题（词组）
   题面「（大学开学前的）迎新周」「（新员工第一天的）入职培训」
   她两块都写「忘了」⇒ 调不出 orientation。给了 orientation week ／ new staff orientation。首测 ⇒ 连错 1。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3c 题（词组）
+  题面「（国际学生到校后参加的）新生指导课」
+  她写 `**orientation** sessions for new students` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
 
 ## #0582 「低调地、不声张地」＝ discreetly（⚠️ 与「偷偷地」secretly 分工）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
@@ -3091,7 +3117,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同句「后来才发现」她点名要学 ⇒ §2③ 建号 #0595。
 
 ## #0583 「（场地、土地）积水的、泡了水的」＝ waterlogged
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3134,9 +3160,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ❌ C10 D1 学习日 组2 第 7a·8a 题（词组）
   题面「（连下了三天雨，学校操场）积水严重」「被雨水泡透的（农田）」
   她两块都写「忘了」⇒ 调不出 waterlogged。给了 badly waterlogged ／ waterlogged farmland。首测 ⇒ 连错 1。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3d 题（词组）
+  题面「（暴雨过后）泡在水里的草坪」
+  她写 `a **waterlogged** lawn` —— 10-11 两块都「忘了」，今天调出、拼对 ⇒ 连错 1 → 连对 1。
 
 ## #0584 「临时（通知得晚、准备时间很短）」＝ at short notice
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3183,6 +3212,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ❌ C10 D1 学习日 组2 第 7b·8b 题（词组）
   题面「（演唱会）临时取消」「（老板提前一小时才说的）临时加班」
   她两块都写「忘了」⇒ 调不出 at short notice。给了 cancelled at short notice ／ working overtime at short notice。首测 ⇒ 连错 1。
+- 2026-10-12 ✅ C10 D2 学习日 组3 第 3e 题（词组）
+  题面「（老师）临时调课」
+  她写 `reschedule a class **at short notice**` —— 10-11 两块都「忘了」，今天调出（⛔ 没写 temporarily ／ at a short notice）⇒ 连错 1 → 连对 1。
 
 ## #0585 「陷入僵局」＝ reach a stalemate
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
