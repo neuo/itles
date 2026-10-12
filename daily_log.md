@@ -7169,3 +7169,20 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 ④ `deliver --emit` 不吐「新建条目的正文」子件 ⇒ 三次都从 session 另行原样粘贴（脚本侧待修）
 
 **下一场 ＝ C10·D2 学习日**：必出层 ＝ #0595–#0602 #0604（9 条）＋ 回潮 7 条与今天 ❌／△ 的几条按逾期分补满 3 组；复检 1 组
+
+## 2026-10-11（周日）· 口语 L3（周期 11 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 434 ＝ problems.md 30 ＋ graduated.md 404 ｜ 🎓 404（93.1%）｜ 未毕业 30 ｜ 可出题 20 ｜ 今天配额出完、复检到期剩 35 ｜ ⚡ 累计 263 条、掉过 11（校准 4%）｜ 重答队列 67 / 未重答 47
+
+**五段**
+- ① 在池 2 组 19 题 / 19 条：**✅19 ❌0** ⇒ **毕业 4**（#70 回潮后第二次 · #438 · #439 · #432 合并条）；⚠️ 3 处（#429 补 against us · twice a day · so … that 归 🎓#144 📝）
+- ①b 复检 2 组 20 题 / 23 条：**✅23 ❌0**
+- ② 回看 bank:826（`lookback --pending` 原样贴）
+- ③ 新题 bank:963（P2 · Describe a person who solved a problem in a smart way）：真错 0 ｜ ⚠️ 1 处（S9 causing the connection failure ⇒ which is why，书面登记 🎓#206）｜ S14 over the years 自己拉完成时（#271 留痕）
+- 新建 5：#453 apartment complex（小区）· #454 cut back on · #455 underprivileged · #456 crafted · #457 build up
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 4⇄0
+
+**下一场 ＝ 周期 11 · R 付息日**：#453–#457 首测 ＋ 在池其余；⓪ 回看本周期全部自由产出；复检 3 组；c 段 review；d 段重答；⛔ 不出新题

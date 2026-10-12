@@ -181,7 +181,7 @@
 
 ### 6 · 预制块的情态/副词是功能核心（could/never/really 不能省）
 类型 结构 ｜ 旧号 B11
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **预制块里的情态／副词是功能核心**（could／never／really 这一层不能省）：`I **could** eat hotpot every day.`
@@ -211,11 +211,12 @@
   ★ ⛔ 不收窄回 could：题面 09-12 已整改，考点是"情态层不许丢"不是"背出 could"（§3.3 硬顺序①②）⇒ 题面不改
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
   去掉「⛔ 不许用 can」，改用中文释义把"能"限定成夸张说法（could 那层）；换成小笼包场景
+- 2026-10-11 ✅ 学习日 复检第 4 组 [5] · `I could eat my mom's dumplings every day and never get sick of them.` —— could 没省、没落到 can
 - 备注 could 那层是"我天天吃都愿意"（表达喜欢），can 是"有能力"，两者不是一回事
 
 ### 8 · 群组用 in，论坛用 on（in an online group／on a forum）
 类型 搭配 ｜ 旧号 B20＋B130
-状态 连对2 连错0 上次2026-09-22 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-08-31**（08-20 毕业 → 08-31 在 R8 重答里再犯 `on an online pet group`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）｜ 题型 词组
 　　★ 复测题面**不改**：现有题面第二句「我在一个养宠物的群里加了个好友。」与她 08-31 掉的那句逐字同场景（§4① 配套动作已满足）
 　　★ 本条备注里"不走零 ❌ 线、仍需连对 3"是 08-19 旧口径；现行 ＝ **连对 2 即毕业**（她 08-20 定）
 
@@ -276,6 +277,7 @@
   ⇒ 连对1 → **连对2，毕业**（状态行手写，见上）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 5 组（第 11 题整串，她事后补的原话："11直接过"）
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-10-11 ✅ 学习日 复检第 4 组 [3]c（打包）· `in a group chat for runners / on a travel forum` —— 群 in、论坛 on
 - 备注 合并 2026-08-19：#82（群组用 in，论坛用 on）并入本条 —— 同一条介词规则
   ★ 不走零 ❌ 线：备注里明写它"改过又犯"过，只是那次发生在事件流之前 ⇒ 按有 ❌ 处理，仍需连对 3
 - 备注 曾"改过又犯"（轮94 改、轮95 又犯）
@@ -555,7 +557,7 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 
 ### 18 · 论元完整（中文可单说的动词，英文必须带宾语/补语）
 类型 结构 ｜ 旧号 B41
-状态 连对2 连错0 上次2026-09-22 ｜ **累错 7** ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01；08-29 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **累错 7** ｜ **🎓 已毕业 2026-09-01**（连对2 ＝ 08-31 ＋ 09-01；08-29 回潮后第二次毕业）｜ 题型 整句
 　　★ 08-30 同日两记：[3] 点名直测 ✅ → [4] 顺带产出 ❌，连对1 当日清零（§3.3 每次各算一次）
 
 **问题是什么**
@@ -662,6 +664,7 @@ look for **it** · find **it** · regret **it** · supply **water** for … · s
   ⇒ 连对1 → **连对2 ⇒ 毕业**（状态行手写）
 - 2026-09-11 ⚡ 自评免测 · 付息日 a2 第 6 组（她原话："1-4 直接过"）
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
+- 2026-10-11 ✅ 学习日 复检第 4 组 [6] · `I lent him that book a while ago, and he still hasn't given it back.` —— given it back（"还"带上了宾语 it）
 - 备注 primed 8/8 但 20 分钟后 cold 即掉 ⇒ 产出时掉，修法只有块化
 - ⚠️ **必须和 #134 一起读**（08-19 判重发现两条会互相带偏）：本条说"英文动词必须带宾语"，
   #134 说"decide/choose/help/manage/win 这些能单独站住"。**先查这个动词在不在 #134 的白名单里**，
@@ -966,7 +969,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 28 · You just get more done at home.（用画面替掉 more efficient）
 类型 词组 ｜ 旧号 B52①
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-08-24** ｜ 题型 整句
 
 **问题是什么**
 **get more done** ＝ 干得更多（用画面替掉 more efficient）：`I get more done when I work from home.`
@@ -1004,6 +1007,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉负向排除，点名 get … done，more 放哪留给她（08-25 自由产出里没调出来的正是这个块）
+- 2026-10-11 ✅ 学习日 复检第 4 组 [7] · `Working from home with nobody bothering me actually lets me get so much more done.` —— get so much more done
 - （B52 六句补录，迁移时按 Q4 拆成 #28–#33 六条）
 - 备注 2026-08-25 · **反向留痕（不改状态、不回潮）**：自由产出（新题 bank:987 P3）里她写的是
   `your output at work will be less than your coworkers'` —— 语法全对、比较也对齐，
@@ -1054,7 +1058,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 30 · Say you fix something …（Say you… ＝ 举例起手，替 For example）
 类型 词组 ｜ 旧号 B52③
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **Say you …** ＝ 举例起手（一个词替掉 For example），后面直接接完整从句：
@@ -1086,6 +1090,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉五个排除项，正向点名 Say；换成加班补假场景
+- 2026-10-11 ✅ 学习日 复检第 4 组 [10] · `Say you visit a city for the first time; it's always better to get a local to show you around.` —— Say you visit …
 
 ### 31 · explain YOURSELF to anyone（解释自己的行为）
 类型 搭配 ｜ 旧号 B52④
@@ -1972,7 +1977,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 57 · date night（约会之夜）
 类型 词组 ｜ 旧号 B80
-状态 连对2 连错0 上次2026-09-22 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-08-21** ｜ 题型 词组
 
 **问题是什么**
 **date night** ＝ 约会之夜（【date ＋ 一个名词】的固定块）。
@@ -2003,6 +2008,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉【date ＋ 一个名词】形态描述，改成中文释义
+- 2026-10-11 ✅ 学习日 复检第 4 组 [3]d（打包）· `a couples' date night / date night for the two of us` —— date night
 
 ### 58 · it mainly comes down to …（说到底就是……）
 类型 词组 ｜ 旧号 B81 ｜ ⭐ 她自产
@@ -2412,6 +2418,44 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
   旧 B 表迁移、原话未存、历史零 ❌（08-17 是 ◎）；pay attention to 是她稳定会的基础搭配
 
+### 70 · I wouldn't go THAT far, though.（软化自己刚说的话）
+类型 词组 ｜ 旧号 B109a
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-11**（连对2 ＝ 10-10 ＋ 10-11；10-09 回潮后第二次毕业）｜ 题型 整句
+
+**问题是什么**
+**I wouldn't go THAT far, though.** ＝ 软化自己刚说的话（整块背，重心在 **that far**）。
+同一格里的邻居（别串）：块本身是 go **that** far —— ⛔ 不是 go too far（08-11 教练自己写错过一次，见尾部备注）。
+判据一句话：要往回收一步时整块调 `I wouldn't go that far, though.`，⛔ 别现造。
+
+**怎么发现的**
+旧 B 表迁移（B109a，2026-08-18），原始触发原话未存；最早记录 2026-08-11 📖 给了答案才会，
+08-12／08-13／08-15 连三次 ❌。
+2026-08-16 ✅ ／ 2026-08-19 ✅ `I wouldn't go that far, tough`（tough 是打字滑，块本身对）⇒ 2026-08-20 毕业。
+2026-09-05 ✅ ／ 2026-09-07 复检（打包）✅ `but I wouldn't go that far`。
+
+**我错在哪**
+她的：08-12／08-13／08-15 连三次 ❌（触发原话未存，旧 B 表迁移）；08-11 是"给了答案才会"。
+找法：要把刚说过的话收一收时，整块调 `I wouldn't go that far, though.`
+
+**题面**
+"不过我也不会说得那么绝。"（用 **go** 那个词说）
+
+- 2026-08-11 📖 给了答案才会
+- 2026-08-12 ❌
+- 2026-08-13 ❌
+- 2026-08-15 ❌
+- 2026-08-16 ✅
+- 2026-08-19 ✅ `I wouldn't go that far, tough`（tough 是打字滑，块本身对）
+- 2026-09-05 ✅ 复检 · a2 第 2 组（09-05 判定 · 09-07 补记入档）· I wouldn't go that far（整块调出，that far 一字不差）
+- 2026-09-07 ✅ 复检 · 第 3 组（打包）· `but I wouldn't go that far`（go that far 整块；wouldn't 拼写不算错 §2.1）
+- 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [9] · `Calling him a genius? I wouldn't go that far.` —— I wouldn't go that far
+- 2026-10-09 ❌ 学习日 复检第 4 组 [7]（#250 题里 · 自由产出掉）· `The worst in town? Come on, it doesn't go that far.` —— 整块 I wouldn't go that far 没调出来，主语塌成 it ⇒ **回潮**
+  最小改 `The worst in town? Come on, I wouldn't go that far.`
+  ❌ "我倒不至于这么说"＝ 整块 I wouldn't go that far（主语是我，wouldn't ＝ 要是让我说）；⛔ 别现造 it doesn't go that far
+- 2026-10-10 ✅ 学习日 在池第 1 组 [1] · `Some people say smartphones have ruined this generation, but I wouldn't go that far.` —— I wouldn't go that far 整块调出（主语 I、wouldn't、that far 一字不差）。连错 1 → 连对 1
+- 2026-10-11 ✅ 学习日 在池第 1 组 [1] · `My friend said this city is terrible for young people, but I wouldn't go that far.` —— I wouldn't go that far 整块调出（主语 I、wouldn't、that far 一字不差）。连对 1 → 2 ⇒ 🎓 毕业
+- 备注 08-11 教练自纠：块本身写错过（go too far → go that far）
+
 ### 71 · It's not that A — it's about B.（把矛头从对象转到程度）
 类型 词组 ｜ 旧号 B109c
 状态 连对2 连错0 上次2026-10-04 ｜ **🎓 已毕业 2026-08-20**（新规则：连对2 即毕业）｜ 题型 整句
@@ -2784,7 +2828,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 
 ### 81 · get TO know sb（to 不能省）
 类型 搭配 ｜ 旧号 B129
-状态 连对2 连错0 上次2026-09-22 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-08-31**（08-21 毕业 → 08-31 在 R8 重答里再犯 `know new friends`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-03**（连对2 ＝ 09-01 ＋ 09-03；08-31 回潮后第二次毕业）｜ 题型 整句
 　　★ 复测题面**不改**：现有题面 **点名**「现在更容易认识陌生人。」（"认识"用 get ＋ know 说）测的正是掉的那一格（§4① 配套动作已满足）
 
 **问题是什么**
@@ -2864,6 +2908,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 - 2026-09-22 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   考点是 know 前面补不补 get to ＝ 靠句子现形；点名 know（给 lemma，get to 留给她 —— 她掉过两次的正是漏 get to）；换成打羽毛球场景
+- 2026-10-11 ✅ 学习日 复检第 4 组 [9] · `When I first moved here, I got to know a lot of new people by playing badminton.` —— got to know
 
 ### 83 · 形容词不加复数（crucial 不是 crucials）；crucial TO
 类型 语法 ｜ 旧号 B131
@@ -5093,6 +5138,9 @@ something to look forward **to** ／ a pen to write **with**。
   —— 分工两边都对
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
 - 2026-10-07 ✅ 学习日 复检第 3 组 [6]（两句："这部电影太无聊了…"／"这箱子太重了…"）· ① `The movie was so boring that I fell asleep halfway through.` ② `This box is way too heavy for me to carry on my own.`
+- 2026-10-11 📝 学习日 在池第 1 组 [10]（#444 题里）· **记备注，不判回潮**（状态行不动）· `Whenever my brother gets so caught up in video games, he even forgets to eat.` → `My brother gets so caught up in video games that he even forgets to eat.`
+  ★ so 后面挂着一个结果（忘了吃饭），却拼进了 whenever 句、没接 that ⇒ 按本条判据（挂整句 ⇒ so … that）给更好版
+  ★ 档位 ⚠️ 不是 ❌：口语里 so 当 really 用、whenever 句也听得懂 ⇒ 沿用 08-30 先例（成立的英语 ⇒ 记备注、不回潮）
 
 ### 145 · bring（到我这儿）／take（从这儿到别处）／fetch（去拿了再回来）
 类型 词汇 ｜ 旧号 B234
@@ -5535,7 +5583,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 161 · (the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分
 类型 语法 ｜ 旧号 B250
-状态 连对2 连错0 上次2026-09-22 ｜ 题型 整句 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-04 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-10-11 ｜ 题型 整句 ｜ **回潮 2026-09-04**（08-19 毕业·零 ❌ 线 → 09-04 新题里写成 `the three of my family`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-07**（连对2 ＝ 09-05 ＋ 09-07；09-04 回潮后第二次毕业）
 
 **问题是什么**
 **(the) N of us —— 加 the ＝ 全体，不加 ＝ 一部分**：
@@ -5594,6 +5642,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-22 ⚡ 自评免测 · 复检第 3 组
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 语法 ⛔ 不许标词组）
   一句里放"一家三口"（全体 the）和"我们当中有两个"（部分，不加 the），点名 the three of，of 后面填 us 留给她（她掉过的是 the three of my family）；换成海边晒伤场景
+- 2026-10-11 ✅ 学习日 复检第 4 组 [8] · `Last week the four of us in my dorm went hiking, and three of us couldn't even walk the next day because our legs hurt so bad.` —— the four of us（全体带 the）／ three of us（一部分不带 the）
 - 备注 person 的复数口语一律 people
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
@@ -7317,6 +7366,8 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-09-29 📝 书面登记 · 学习日新题 bank:534 · `far outstrip those of other industries` → are way better than in other industries（⛔ 不判回潮）
 - 2026-09-30 📝 书面登记 · 付息日 d 段重答 bank:911 [S4] · `makes you appear more friendly` → look（状态行不动）
 - 2026-10-04 📝 书面登记 · 付息日 d 段重答 bank:1326 [S2] · `It’s through real-world application that you truly learn …` → actually using it（同篇 S1 她自己说了 actually use it in real life；状态行不动）
+- 2026-10-11 📝 学习日 ③ 新题 bank:963（P2 · 机智解决问题的人）S9 · **书面登记，不判回潮**（状态行不动）· `the routing table configuration had been changed, causing the connection failure.` → `…, which is why our app couldn't connect.`
+  ★ 分词 ＋ 抽象名词（connection failure）收尾 ＝ 事故报告体；口语版 that's why ＋ 小句她 05-28 自己说过（`that's why he loves drawing`）⇒ 归本条，不另建号
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -13785,7 +13836,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 327 · 踏脚点 ＝ foothold ／ peg
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
@@ -13818,6 +13869,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [3] · `A foodhold / A peg.`（foodhold 拼写，§2.1 不算）
 - 2026-10-01 ✅ 学习日 在池第 1 组 [3] · `foothold. peg.` —— 两个名词都对 ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [1]（打包）· `a foothold on the rockery / a row of pegs on the kitchen wall for aprons` —— foothold ／ peg 两个块都对
+- 2026-10-11 ✅ 学习日 复检第 4 组 [3]a（打包）· `a foothold on the wall / tent pegs` —— foothold ／ pegs
 
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
 类型 词汇 ｜ 新建 2026-09-09
@@ -13954,7 +14006,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 眼睛往正前方看 ＝ **look straight ahead**；
@@ -13994,6 +14046,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [4] · `For the ID photo, look straight ahead.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [4] · `look straight ahead.` —— ahead 到位，forward 没抢跑 ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [1]（打包）· `keep your eyes straight ahead when crossing a footbridge` —— straight ahead，没串成 look forward（keep your eyes 合法贴题）
+- 2026-10-11 ✅ 学习日 复检第 4 组 [3]b（打包）· `keep your eyes straight ahead` —— straight ahead（没落到 look forward）
 
 ### 332 · 名词化的"提议/请求"拆回【动词 ＋ when 从句】
 类型 结构 ｜ 新建 2026-09-09
@@ -14800,7 +14853,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-10-04 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
@@ -14835,6 +14888,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [5] · `The cafe has such a great vibe, I go there all the time to read.`
 - 2026-10-01 ✅ 学习日 在池第 1 组 [5] · `I prefer working at a small company with a relaxed vibe.` —— vibe 挂在地方上（a small company with a relaxed vibe），前面不是 in ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [2] · `This B&B has such a cozy vibe that once you're here, you never want to leave.` —— vibe 挂在地方上
+- 2026-10-11 ✅ 学习日 复检第 4 组 [4] · `I love the vibe of this old neighborhood; walking around here makes you feel like time is slowing down.` —— the vibe of this old neighborhood（vibe 挂在地方上）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
@@ -15286,7 +15340,7 @@ persuade 偏"让人做"）。
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-08 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -15323,6 +15377,7 @@ persuade 偏"让人做"）。
 - 2026-10-07 ✅ 学习日 在池第 1 组 [1]（题面"我表姐开宠物美容店，这两年赚了大钱"）· `My cousin runs a pet grooming shop, and she's made bank over the last two years.` —— 光秃秃的 bank，前面没加 a。连错 2 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [1] · `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.` —— made bank，bank 前面没加 a。连对 1 → 2 ⇒ **毕业**（10-05 回潮后第二次毕业）
   ｜她要求「加入 transnational 的条目做对比」⇒ 新建 #432
+- 2026-10-11 ✅ 学习日 复检第 3 组 [1] · `My friend does wedding photography and makes bank during the peak season.` —— makes bank
 
 ### 367 · social media giant（社交巨头；social giant 带着公司名也成立）
 类型 搭配 ｜ 新建 2026-09-29
@@ -16797,7 +16852,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
@@ -16825,10 +16880,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [7]（#401 题里）· 她标「这个词组学一下」· 原话 `a free fruit platter on the house（这个词组学一下) after dinner.`
 - 2026-10-07 ✅ 学习日 在池第 1 组 [8] · `This coffee is on the house, so don't worry about paying.` —— 前面没再叠 free。连错 1 → 连对 1（下次点名降回 house）
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [2] · `We waited for an hour at that restaurant, so the manager gave us a dessert on the house.` —— 点名降到 house，on the 自己补上、前面没加 free。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [2] · `I go to that bar quite a bit, and the owner gives me a drink now and then, on the house.` —— on the house（点名降到 house，on the 自己补上）
 
 ### 414 · tweak（小改、微调）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
@@ -16855,10 +16911,12 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 1 组 [10]（#404 题里）· 她标「这个词学下」· 原话 `no matter how much he tweaks(这个词学下） it.`
 - 2026-10-07 ✅ 学习日 在池第 1 组 [9] · `The plan is solid for the most part; we just need to tweak it a bit before the meeting.` —— tweak it a bit。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [3] · `This photo turned out great—I just tweaked the colors a little bit.` —— tweaked the colors。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [3] · `I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.` —— tweaked it a little
+  ｜她标「这个短语学下」⇒ cut back on 另建 #454
 
 ### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
@@ -16888,10 +16946,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 1 组 [10] · `Our team made it through to the finals.` —— made it through to the finals。连错 1 → 连对 1（下次点名降回 make it）
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [4] · `She made it to the semifinals(这个词背下) the first time she entered a singing competition.` —— 题面只点 make it，make it to 是条目列明的合法说法 ⇒ ✅；through 没逼出来 ⇒ 种子题面★改为连对后降回 make it through。连对 1 → 2 ⇒ **毕业**
   ｜她自注「这个词背下」⇒ semi-final 另建 #433
+- 2026-10-11 ✅ 学习日 复检第 3 组 [4] · `Our school debate team made it all the way through to the finals this time.` —— made it all the way through to（点名降到 make it through，to 自己补上）
 
 ### 416 · gala（盛大的晚会／晚宴）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
@@ -16918,10 +16977,12 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 在池第 2 组 [5]（#410 题里）· 她标「这个词学一下」· 原话 `The company's year-end charity gala(这个词学一下).`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [1] · `The museum hosts a grand gala every year, with everyone dressed in formal wear.` —— a grand gala。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [5] · `The company threw a grand gala at the end of the year and invited a few celebrities to perform.` —— threw a grand gala。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [5] · `This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.` —— a grand charity gala
+  ｜她标「这个词学下」⇒ underprivileged 另建 #455
 
 ### 417 · carve out time (for sth)（挤出／抽出时间）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
@@ -16948,10 +17009,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 复检第 4 组 [4]（#130 题里）· 她标「这个词组学下」· 原话 `I haven't been able to carve out(这个词组学下) time for the gym.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [2] · `No matter how busy I get, I still carve out one evening a week to have dinner with my parents.` —— carve out ＋ 时间 ＋ to do。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [6] · `After the baby came along, I could only carve out half an hour a day for working out.` —— carve out half an hour。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [6] · `No matter how busy I get, I still carve out twenty minutes a day for a walk.` —— carve out twenty minutes a day for a walk
 
 ### 418 · sit on ＋ 想法／计划（攥着迟迟没动手）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **sit on sth** ＝ 手里攥着一个想法／计划／消息，一直没动手或没公开：I've been sitting on this idea for years. ／ They sat on the news for a week.
@@ -16978,10 +17040,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S2] · 她标「这个词组学下」· 原话 `I've been sitting on（这个词组学下) this idea for a few years now.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [3] · `He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).` —— sitting on the idea of ＋ -ing。连错 1 → 连对 1（她标学 making the move ⇒ 另建 #425）
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [7] · `She was sitting on the idea for this novel for ten years, never actually writing it down.` —— sitting on the idea。连对 1 → 2 ⇒ **毕业**（was sitting … for ten years 的时态 ⇒ ⚪#12 另记）
+- 2026-10-11 ✅ 学习日 复检第 3 组 [7] · `She sat on the idea of studying abroad for three years without telling her family.` —— sat on the idea of studying abroad
 
 ### 419 · grind away (at sth)（埋头苦熬、机械地干）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **grind away** ＝ 长时间、枯燥地埋头干，带"熬"的味道：grind away at the same job ／ grinding away for a company ／ grind away at a thesis。
@@ -17008,10 +17071,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S3] · 她标「这个词组学下」· 原话 `rather than just grinding away（这个词组学下) for a company.`
 - 2026-10-07 ✅ 学习日 在池第 2 组 [4] · `He spent ten years grinding away on the assembly line in a factory.` —— grinding away on the assembly line。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [8] · `He spent an entire year grinding away in the library for grad school exams.` —— grinding away。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [8] · `She spent five years grinding away at a small company before finally getting promoted.` —— grinding away at a small company
 
 ### 420 · be burnt out (on sth)（被耗干、倦怠）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **burnt out** ＝ 长期透支、身心被掏空、提不起劲：I'm burnt out on overtime. ／ completely burnt out ／ burnout（名词：职业倦怠）。
@@ -17039,10 +17103,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [6] · `Working night shifts for three consecutive months left those nurses totally burnt out.` —— left … totally burnt out。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [10] · `Working overtime for a consecutive month left me totally burnt out.` —— left me totally burnt out。连对 1 → 2 ⇒ **毕业**
   ｜for a consecutive month ❌ ⇒ 另建 #434
+- 2026-10-11 ✅ 学习日 复检第 3 组 [10] · `Taking care of her sick grandma for over half a year left her completely burnt out.` —— left her completely burnt out
 
 ### 421 · support yourself（养活自己；sustain yourself 偏正式）
 类型 搭配 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **support yourself** ＝ 自己挣钱养活自己：support myself ／ support yourself financially ／ support a family（养家）。
@@ -17069,10 +17134,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S6] · 她标「这个词组学下」· 原话 `If I could sustain myself（这个词组学下)  without a traditional 9-to-5` ⇒ 更好版 support myself
 - 2026-10-07 ✅ 学习日 在池第 2 组 [5] · `She supported herself as a tutor back in college.` —— supported herself。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [9] · `He started working to support himself when he was just eighteen.` —— support himself。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 3 组 [9] · `After quitting her job, she supported herself through freelance writing.` —— supported herself
 
 ### 422 · day in, day out（日复一日、天天如此）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **day in, day out**（也说 day in and day out）＝ 每天都一个样、没完没了，常带"单调"的味道，放句尾：do the same thing day in, day out。
@@ -17101,10 +17167,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [8] · `My cat sits on the exact same windowsill(这个单词背一下) soaking up(这个词组学一下) the sun, day in, day out.` —— day in, day out 放句尾。连错 1 → 连对 1（下次点名降回 day in；她标背 windowsill ⇒ 另建 #426，标学 soaking up ⇒ 另建 #427）
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [1] · `My dad gets up at five day in, day out to do Tai Chi in the park.` —— 点名只给 day in，day out 自己补上。连对 1 → 2 ⇒ **毕业**
   ｜⚠️ day in, day out 挪到句首（调语序只进 diff-2，不建号）
+- 2026-10-11 ✅ 学习日 复检第 4 组 [1] · `The security guard at the door stands in the same spot day in, day out—for eight hours straight.` —— day in, day out（点名降到 day in，day out 自己补上）
 
 ### 423 · job insecurity（工作没保障、不稳定；⛔ company instability）
 类型 搭配 ｜ 新建 2026-10-06
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **job insecurity** ＝ 工作没保障、随时可能被裁的那种不稳定（job security 的反面）。
@@ -17131,6 +17198,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-06 ❌ 首犯 · 学习日 新题 bank:510 [S5] · diff-2 ⚠️ · 原话 `burnt out on constant overtime and company instability.` ⇒ 更好版 job insecurity
 - 2026-10-07 ✅ 学习日 在池第 2 组 [7] · `For a lot of young people, job insecurity is their biggest source of stress.` —— job insecurity。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [2] · `During those pandemic years, job insecurity kept a lot of people up at night.` —— job insecurity 当主语。连对 1 → 2 ⇒ **毕业**
+- 2026-10-11 ✅ 学习日 复检第 4 组 [2] · `With so many companies laying people off right now, job insecurity is everyone's main concern.` —— job insecurity
 
 ### 424 · set aside ＋ 钱／时间（专门留出一部分）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
@@ -17345,6 +17413,45 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [10] · `This new residential area is really well planned out; schools and supermarkets are all within a ten-minute walk.` —— well planned out。连错 1 → 连对 1
 - 2026-10-09 ✅ 学习日 在池第 1 组 [10] · `This city's subway network is so well planned out that you never have to transfer more than once.` —— so well planned out that，well … out 自己补上。连对 1 → 2 ⇒ **毕业**
 
+### 432 · cross-border ≠ transnational（跨境 vs 跨国）
+类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组 ｜ 合并条·出题多句覆盖
+
+**问题是什么**
+两个"跨"分工不同：
+· **cross-border** ＝ 跨越边境的 —— 东西／钱／人从一个国家过到另一个国家：cross-border e-commerce ／ cross-border payments ／ cross-border travel
+· **transnational** ＝ 横跨好几个国家同时运作的 —— 说组织、网络（偏书面、新闻）：transnational crime ／ transnational organizations
+同一格里的邻居（别串）：multinational（日常说"跨国公司"就是 a multinational company，比 transnational 常用得多）· international（国际的，最宽泛）· overseas（海外的）。
+判据一句话：东西／钱"过境" ⇒ cross-border；一个组织"横跨多国运作" ⇒ transnational（公司日常说 multinational）。
+★ 题型判词组：两个成员的中文块都能唯一映射回去（跨境支付 ⇒ cross-border payments；跨国犯罪 ⇒ transnational crime，⛔ 不落"跨国公司"——那个 multinational 也合法、收不拢）。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 1 组 [1]（#366 题面"我朋友去年做跨境电商，赚翻了。"）· 原话
+`My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
+她写对了 cross-border，并要求「加入 transnational 的条目做对比」⇒ §2③ 她主动提出 ⇒ 建号（合并条：一对词的分工，成员数有限 ＝ 2，§3.2c⑤）。
+判重三步：
+　① 目标形式 dedup "cross-border"／"transnational"／"multinational" ⇒ 零命中
+　② 中文 dedup "跨境"／"跨国" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 cross-border，要求把 transnational 放进来对比（两个"跨"分不清用哪个）　　目标：cross-border payments ／ transnational crime
+找法：先问"是东西在过境，还是一个组织在好几个国家同时干？"
+
+**题面**
+★ 2 句，两个成员各一句 —— 本条考的就是这两个词的分工，只出一个等于没测
+　① "跨境支付"（钱从一个国家转到另一个国家）
+　② "跨国犯罪集团"（在好几个国家同时作案的犯罪组织）
+
+**成员出题账**
+① cross-border ｜ 10-09 ✅ · 10-11 ✅
+② transnational ｜ 10-09 ✅ · 10-11 ✅
+
+- 2026-10-08 📝 新建 · 付息日 a 段在池第 1 组 [1]（#366 题里）· 她要求「加入 transnational 的条目做对比」· 原话 `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [6] · ① `cross-border payments` ② `transnational organized crime` —— 两个成员都对、没串。首测 ⇒ 连对 1
+  ⚠️ ② 更好版 `transnational organized crime groups`（题面"集团"是那一伙人，补 groups）
+- 2026-10-11 ✅ 学习日 在池第 2 组 [9] · 合并条 2 块：① `cross-border online shopping` ② `a transnational fraud ring` —— 跨境 ⇒ cross-border、跨国团伙 ⇒ transnational，两个没串。连对 1 → 2 ⇒ 🎓 毕业
+
 ### 433 · semi-final（半决赛）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
 状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
@@ -17495,3 +17602,65 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 d 段重答 bank:364 [S5] · 她标「这个 which 的用法可以学一下」· 原话 `you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [5] · `He promised he'd be here on time, which he wasn't.` —— , which he wasn't（which 指前面整件事 ＋ 主语 ＋ 否定助动词）。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [9] · `The landlord said he'd come fix the AC this week, which he didn't.` —— , which he didn't。连对 1 → 2 ⇒ **毕业**
+
+### 438 · nag sb (about sth)（念叨、反复催／数落某人）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 整句
+
+**问题是什么**
+**nag** ＝ 冲着某人一遍遍地念叨／催／数落（让人烦的那种）：`She nagged me about it for a whole month.` ／ `My mom keeps nagging me to get married.`
+结构：nag sb **about** sth（为某事念叨）· nag sb **to do** sth（催某人去做）· 名词 a nag（爱唠叨的人）。
+同一格里的邻居（别串）：go on about sth（自己说个没完，不一定冲着某人）· keep bringing it up（老提这事）· remind（提醒，中性、不烦人）。
+判据一句话：冲着某人、一遍遍地催或数落、让人烦 ⇒ nag sb about sth／nag sb to do。
+★ 题型判整句："念叨"翻成 go on about／keep bringing it up 都合法 ⇒ 整句 ＋ 正向点名 nag。
+
+**怎么发现的**
+2026-10-09 学习日 在池第 1 组 [8]（#429 题面"我室友特别记仇，我忘了还她十块钱，她念叨了一个月。"）· 原话
+`she nagged(这个词学一下) me about it for a whole month.`
+她写对了 nagged me about it，但自己标「这个词学一下」⇒ §2③ 建号，判 ❌（§3.2b：不会的地方哪怕写对也照常判 ❌）。
+判重三步：
+　① 目标形式 dedup "nag"／"pester"／"go on about" ⇒ 零命中；dedup "brings it up" ⇒ 只命中 #429 历史行（那条考 hold a grudge）⇒ 否
+　② 中文 dedup "念叨"／"唠叨" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学一下」（用法本身对）　　目标：`she nagged me about it for a whole month`
+找法：想说"念叨／催个没完"，先落 nag，宾语直接挂人；为什么事用 about，催做什么用 to do。
+
+**题面**
+"我妈天天念叨我早点睡，说熬夜伤身体。"（"念叨"用 **nag** 说）
+
+- 2026-10-09 ❌ 首犯 · 学习日 在池第 1 组 [8]（#429 题里）· 她标「这个词学一下」· 原话 `she nagged(这个词学一下) me about it for a whole month.`
+- 2026-10-10 ✅ 学习日 在池第 1 组 [10] · `My mom nags me every day about going to bed early, saying staying up late ruins your health.` —— nags me about ＋ doing（宾语直接挂人，为什么事用 about）。连错 1 → 连对 1
+- 2026-10-11 ✅ 学习日 在池第 1 组 [4] · `Every time my grandma calls, she nags me about finding a partner.` —— nags me about ＋ doing。连对 1 → 2 ⇒ 🎓 毕业
+
+### 439 · comeback（逆转、反超：pull off a comeback）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组
+
+**问题是什么**
+**comeback** ＝ 落后的一方反超、翻盘：`they pulled off a huge comeback` ／ `a last-minute comeback`。
+同一格里的邻居（别串）：make a comeback（过气的人／东西重新火起来、复出）· come from behind（从落后追上来，动词说法）· turn things around（扭转局面）。
+判据一句话：比赛／竞争里落后的一方最后赢了 ⇒ a comeback（动词 pull off）；明星／潮流重新流行 ⇒ make a comeback。
+★ 题型判词组：只要她调出 comeback 这个块就覆盖考点；"大逆转"中文块能映射回 comeback（turnaround 合法照判）。
+
+**怎么发现的**
+2026-10-09 学习日 复检第 3 组 [6]（#402 题面"比赛只剩最后十秒，他们居然完成了大逆转。"）· 原话
+`With just ten seconds left, they actually pulled off a huge comeback(这个词背一下).`
+她写对了 a huge comeback，但自己标「这个词背一下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "comeback" ⇒ 零命中
+　② 中文 dedup "逆转" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词背一下」（用法本身对）　　目标：`they pulled off a huge comeback`
+找法：想说"逆转／翻盘"，先落 comeback，动词用 pull off。
+
+**题面**
+"篮球赛最后两分钟落后十分还赢下来的大逆转"（落后的一方在最后反超）
+
+- 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [6]（#402 题里）· 她标「这个词背一下」· 原话 `they actually pulled off a huge comeback(这个词背一下).`
+- 2026-10-10 ✅ 学习日 在池第 2 组 [1] · `a crazy basketball comeback where they were down ten with only two minutes left and still pulled off the win` —— comeback（动词 pull off 也带上了）。连错 1 → 连对 1
+- 2026-10-11 ✅ 学习日 在池第 1 组 [5] · `an incredible comeback where they were two goals down（老想着用 behind） in the second half and scored three in the final minutes to win it` —— comeback。连对 1 → 2 ⇒ 🎓 毕业
+  ★ 她说老想着用 behind：two goals behind 与 two goals down 一样对 ⇒ 不算问题、不建号
