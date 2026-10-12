@@ -1630,7 +1630,7 @@ carry out                  实施（carry out a policy / carry it out）
   两个方向（down ／ up）都对，长宾语放在小品词后面也对 ⇒ 守住。
 
 ## #0329 「在这件事上做／没做点什么」＝ do sth **about** sth，不是 on
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F01
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01
 
 **问题是什么**
 中文的「在…上」「对…」是同一个字，英文按**动词**分成两条线：
@@ -1716,6 +1716,10 @@ complain **about** sth      抱怨…
   四问自审 ①：`has done nothing on this issue／matter` 在母语里造得出（on ＋ 议题 作"在这件事上"的状语）⇒ ⛔ 不判错；
   但 do nothing ＋ 那件事 的默认介词是 about（`has done nothing about it`）⇒ △，两边不动、🎓 不变。
   ⇒ 条目判据「动词是 do ⇒ 介词一定是 about」写得太死 ⇒ 当场补适用范围（§3.5 A 第三种，连对连错不动）。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 7 题
+  题面「楼上的噪音已经持续了半年，可物业对这件事什么都没做。（★「对这件事什么都没做」里的介词；★「什么都没做」写成「主语 ＋ 动词 ＋ 一个宾语」）」
+  她写 `The noise upstairs has persisted for half a year, yet the property management **has done nothing about** this matter.`
+  do nothing **about** ✔（09-26 写的是 on this matter △）⇒ 复检通过。
 
 ## #0334 把 A 和 B 放在一起权衡：weigh / balance A **against** B
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F01
@@ -2824,7 +2828,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   她写 `All affected farmers are eligible to apply for this compensation, but they must claim the funds before the end of the year.` —— eligible to apply for（for 没丢）／ claim ＋ 钱。
 
 ## #0452 「打算做某事」一族：intend ／ plan ／ aim ／ set out to ／ be due to
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2880,6 +2884,7 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
 ⑥ be committed to doing —— 2026-09-13 组5 第 3 题 ✅（`is committed to **building**` —— to 是介词、接 -ing，本条唯一的陷阱一次避开）
 ⇒ **六个成员全部行使并命中**；本条 2026-09-13 🎓
 ⇒ 2026-09-26 组2 第 2 题 ⇒ ④ set out to ✅ · ③ aim to ✅ · ⑤ be due to ✅（换题面重测，全中）
+⇒ 2026-10-12 复检组1 第 8 题 ⇒ ⑥ `is committed to replacing` ✅ · ⑤ `is due to be delivered` ✅（被动不定式）
 ```
 
 **我错在哪**
@@ -2941,6 +2946,10 @@ fundamental objective`，并当场括注**「这个用来代替系动词，和 s
   题面「这个项目一开始就是要解决老城区的停车难题；团队的目标是年底前把车位翻一番，而第一期工程按计划下周开工。（★ 三处分别用 set out to ／ aim ／ be due to —— 形态自己定）」
   她写 `This project originally **set out to solve** …; the team **aims to double** the parking spaces …, and Phrase 1 **is due to start** next week.`
   三个成员形态全对 ⇒ 连对 1 → 连对 2 ⇒ 到线。⚠️ Phrase（要 Phase）按 #0095 判据手滑豁免。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 8 题
+  题面「公交公司承诺五年内把所有公交车换成电动车，第一批新车按计划下个月交付。（★ 两处分别用 be committed ／ be due to —— 形态自己定）」
+  她写 `The bus company **is committed to replacing** all buses with electric vehicles within five years, and the first batch of new vehicles **is due to be delivered** next month.`
+  committed to ＋ -ing ✔（to 是介词）；被动不定式 to be delivered ✔ ⇒ 复检通过。
 
 ## #0466 「告知」一族：notify sb of sth ／ inform ／ remind ／ advise
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
@@ -3067,7 +3076,7 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   她写 `she informed us that the company would lay off …` —— inform ＋ 人 ＋ that 从句 ✔（🎓 状态不变）。
 
 ## #0469 「谁付／向谁收」：charged to ／ payable by ／ levied on
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3089,12 +3098,13 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
 
 **成员出题账**
 ```
-① payable by　 —— 2026-09-06 组3 第 8 题②　⇒ ❌ 中心词丢了（写成 `the waste disposal payable by…`）／ 2026-09-07 组2 第 2 题 ⇒ ✅（`the waste disposal fee is payable by`）
+① payable by　 —— 2026-09-06 组3 第 8 题②　⇒ ❌ 中心词丢了（写成 `the waste disposal payable by…`）／ 2026-09-07 组2 第 2 题 ⇒ ✅（`the waste disposal fee is payable by`）／ 2026-10-12 复检组1 第 3 题 ⇒ `This fine is payable by the speeding driver` ✅
 ② charged to　 —— 2026-09-12 组3 第 1 题题面「记到承包商名下」⇒ ✅（`charged to the contractor`）
 ③ paid by　　　—— **2026-09-23 组2 第 3 题** ⇒ `is actually paid by the supplier` ✅（第一次出题即中）
 ④ levied on　　—— 2026-09-12 组3 第 1 题题面「征收一项进口税」⇒ ✅（`levied on the imported equipment`）／
 　　　　　　　　　 2026-09-19 组3 第 8 题「政府开始征收拥堵费」⇒ 「征收忘了」＝ 调不出 ⇒ ❌　★ 回池后第一次出题就点它（主动式 levy a charge ／ introduce a charge）
-⑤ charge sb for ／ borne by —— borne by：2026-09-12 组3 第 1 题题面「由业主承担」⇒ ✅（`shall be borne by the owner`）；charge sb for 未出过
+⑤ charge sb for ／ borne by —— borne by：2026-09-12 组3 第 1 题题面「由业主承担」⇒ ✅（`shall be borne by the owner`）；
+　　　　　　　　　 charge sb for：2026-09-21 组2 第 4 题 ⇒ ✅（账 2026-10-12 补）／ 2026-10-12 复检组1 第 3 题 ⇒ `charges students a laboratory fee` ✅
 ```
 
 **怎么发现的**
@@ -3181,6 +3191,11 @@ notice（名词）＝ 通知、告示　`a **notice** on the door` · `give sb (
   ⚠️ 顺带：她把 `municipal` 括注「这个需要背」⇒ 查重后归入 #0513（行政层级一族，🎓）。
   ⚠️ 更好版一处（⛔ 不算错）：`starting next year` → `from next year`（starting ＋ 时间偏口语／美式新闻体）。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 3 题
+  题面「这笔罚款由超速的司机支付；而学校每学期还要向学生收一笔实验费。（★ 两处分别用 payable by ／ charge sb for —— 形态与介词自己定）」
+  她写 `This fine is **payable by** the speeding driver, whereas the school **charges students a laboratory fee** each semester.`
+  payable by 前面的中心词是钱 ✔；charge sb ＋ 钱 ✔ ⇒ 复检通过。
+  ⚠️ whereas：「而…还要」是"另外还要"、不是对比 ⇒ and … also 更贴，⛔ 不判错。
 
 ## #0470 the problem with X ／ the problem of X —— 两个介词两个意思
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F01 ｜ 题型 整句
@@ -5770,7 +5785,7 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   她写 `A footbridge has been newly constructed …, and the adjacent underpass has also been renovated.` —— 每处一个名词，没有同义堆叠。
 
 ## #0488 中文的范畴词「规模／水平／情况／问题」，英文常常不翻出来
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F03 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F03 ｜ 题型 整句
 
 **问题是什么**
 中文爱在具体名词后面挂一个**范畴词**（规模／水平／情况／问题／工作／方面），
@@ -5900,6 +5915,11 @@ overpass 已经是"跨线桥"，后面再接 bridge 是堆叠。
   **「那套」⇒ `that`**（⛔ 不是 that set of testing equipment）—— 第三处正是 2026-09-20 `This **set of** alarm system`
   塌掉、并因此扩写本条的那一格，今天守住了。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 △ C10 D2 学习日 复检组1 第 5 题
+  题面「这家连锁书店今年扩大了规模，也提高了店员的工资水平。（★ 两处分别用 expand ／ raise —— 宾语自己定）」
+  她写 `This bookstore chain **has expanded its operations** and **raised the wage level of its staff** this year.`
+  「规模」吃掉了 ⇒ expanded its operations ✔；「水平」翻成了 wage level —— 划掉念一遍（raised its staff's wages）意思不变 ⇒ 该划掉。
+  wage level 本身是成立的说法、句子不错 ⇒ △（两边不动，🎓 不变）。
 
 ## #0508 「X 圈／X 界」＝ X circles（★ 复数）／ the X world —— circle 这个词没错，错在**数**
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F03 ｜ 题型 整句
@@ -8044,7 +8064,7 @@ P5 拼写　R · P5
   　 本次改成直接给词（§6：可绕开 ⇒ 把目标英文词原样写进括号）。
 
 ## #0095 拼成了另一个真词（形近或同音），自己扫不出来
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F05
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F05
 ⚠️ 2026-08-23 **当天净结果由 ✅ 翻转为 ❌**（组1 ✅ patients/parents ／ 组2 ❌ works/workers，
 　 §3.2「当天只要出现过 ❌ 就记 ❌」）。组1 那行 ✅ 留痕不删。
 
@@ -8423,6 +8443,11 @@ quiet/quite —— 她写成 `quiter`，**拼成非词** ⇒ 不属于本条（�
   她写 `This street is in fact remarkably **quiet** at night; … many local residents **have lost** their jobs, and banks are quite reluctant to grant them credit.`
   quiet ✔ · lost ✔；loan／load 被 grant them credit 绕开（正确、意思送到）⇒ 行使两对、两对都对 ⇒ 连对 1 → 连对 2 ⇒ 到线。
   ⚠️ 同组第 2 题 `Phrase 1`：这个位置只有 Phase 读得通 ⇒ 按本条正文判据（两个词都读得通才记）⇒ 豁免，反馈里点出 phase／phrase 是形近高危对。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 6 题（零提示埋雷句）
+  题面「这几个月他瘦了不少，原来那条皮带现在太松了；医生说，这种饮食对血压的影响比预想的小。」—— 埋 lose／loose · effect／affect · than／then
+  她写 `He **has lost** a considerable amount of weight in recent months, and his original belt is now too **loose**; the physician stated that the impact of this diet on blood pressure was smaller **than** anticipated.`
+  lost ✔ · loose ✔ · than ✔；effect 走了 impact（合法旁路）⇒ 本句零处拼成另一个真词 ⇒ 复检通过。
+  ⚠️ belt 她点名要背 ⇒ 建号 #0610；original belt ⇒ his old belt 更贴（⛔ 不判错）。
 
 ## #0096 老龄化推高了医疗开支
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F05
@@ -22270,7 +22295,7 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   中文块「（基金申请的）评审组」⇒ 她写 `the review panel for fund applications` ✔。
 
 ## #0412 T1 流程题的物料词 —— scraps ／ pellets ／ by-product ／ residue
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -22347,6 +22372,10 @@ coverage　**覆盖面**（保险、报道）：insurance coverage · media cove
   这正是条目里标着「2026-09-21 反向题里这一格**没走到**」的那一格，今天正向测到并答对。
   中文块「残渣」⇒ 她写 `residue` ✅（不可数）。
   ⇒ 两格字面与拼写全对（契约⑬ 口径：只判块的字面与拼写）⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 ❌ C10 D2 学习日 复检组1 第 9a·9b 题（词组）
+  题面「（车间回收的）金属边角料」「（用木屑压成的）燃料颗粒」
+  她两块都答「忘了」—— **调不出** scraps ／ pellets。当场给回：`metal scraps`（也说 scrap metal）· `fuel pellets`。
+  🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0413 under ＋ 零冠词名词 ＝ 正处于某个状态
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-12 ｜ 族 F08 ｜ 题型 词组
@@ -23462,7 +23491,7 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   她写 `The official reason for the price increase …, yet consumers suspected an underlying motive; … the primary driver of this price hike was actually a surge in demand.` —— 成员 ③ driver 第一次被点名逼出、命中。
 
 ## #0439 历史与时间的专名一族：the Space Race ／ the First Industrial Revolution ／ the dawn of humanity
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -23564,6 +23593,9 @@ plate ／ sheet ／ panel 三个的分厚薄与功能，她只用过 plate 一�
   ①「第二次世界大战」⇒ `The second World War` ✔（契约⑬ ⛔ 不判大小写；更好版给 the Second World War）
   ②「在上个世纪（泛指那一百年，不是世纪末）」⇒ `In the last century` ✔（⛔ 没写成 at the end of the last century）
   ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 9c·9d 题（词组）
+  题面「（上世纪六十年代美苏之间的）太空竞赛」「（这个问题）自人类诞生以来（就存在）」
+  她写 `The Space Race` · `since the dawn of humanity` —— 两块都调出 ⇒ 复检通过。
 
 ## #0444 「没有意义／白做」一族：make no sense ／ be pointless ／ serve no purpose ／ defeat the purpose
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25593,7 +25625,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `Heavy rain began on the day of the relocation, whereas on the day the contract was signed, the landlord handed over the keys to us.` —— the day of ＋ 名词 ／ the day ＋ 一整句（没带 of）都对。
 
 ## #0486 「违规／不合规」一族：non-compliant ／ in breach of ／ breach ／ violate
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ⛔ 先把两个形近词分开（她这次串的就是这一对）：
@@ -25619,9 +25651,11 @@ firms that **breach ／ violate** the rules（动词；breach 英式常用，vio
 **成员出题账**
 ```
 ① non-compliant　　　—— 2026-09-10 组1 第 2 题写成 `non-complaint` ⇒ ❌ 建号 ／ 2026-09-12 组1 第 7 题（零提示）⇒ ✅ 拼对了
-② in breach of　　　 —— 2026-09-19 组1 第 6 题：那半被题面里的「卫生规定」挡住、没走到 ⇒ 没测到（我的账）★ 仍待测
+② in breach of　　　 —— 2026-09-19 组1 第 6 题：那半被题面里的「卫生规定」挡住、没走到 ⇒ 没测到（我的账）
+　　　　　　　　　　 ／ 2026-09-21 组2 第 1 题 ✅ · 2026-09-23 组3 第 3 题 ✅（这两行账 2026-10-12 补）／ 2026-10-12 复检组1 第 4 题 ✅
 ③ breach ／ violate　—— 2026-09-12 组1 第 7 题题面「违反了排放标准」⇒ ✅（`for violating`）
-④ comply with ／ compliance（正面那一半）—— 2026-09-19 组1 第 6 题「一直严格遵守这些规定」⇒ 调不出（她说「遵守规定不会」）⇒ ❌　★ 优先测
+④ comply with ／ compliance（正面那一半）—— 2026-09-19 组1 第 6 题「一直严格遵守这些规定」⇒ 调不出（她说「遵守规定不会」）⇒ ❌
+　　　　　　　　　　 ／ 2026-09-21 组2 第 1 题 ✅ · 2026-09-23 组3 第 3 题 ✅（这两行账 2026-10-12 补）／ 2026-10-12 复检组1 第 4 题 ✅（`have strictly complied with`）
 ```
 
 **怎么发现的**
@@ -25703,6 +25737,10 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   ① `non-compliant` 的拼写也对（⛔ 不是 non-complaint —— 本条 09-10 的建号原因）。
   ⚠️ 顺带 ❌（⛔ 不是本条考点）：中文「一直**严格**遵守」她写成 `consistently complied`，程度层被频率层顶替 ⇒ 归 #0126。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 4 题
+  题面「这家外卖平台因为违反了数据保护法正在接受调查；其他几家平台则一直严格遵守这部法律。（★ 两处分别用 in breach of ／ comply —— 形态与介词自己定）」
+  她写 `This food delivery platform is currently under investigation for being **in breach of** the data protection law; several other platforms, by contrast, have strictly **complied with** this legislation.`
+  in breach of ✔；comply with ✔；「严格」这次在（09-21 ／ 09-23 两次丢的就是这一层）⇒ 复检通过。
 
 ## #0489 客服 ＝ customer service
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
@@ -30431,7 +30469,7 @@ have already been borne　后果**已经**被承担了（完成）
 > 语法全对但中文明写的一层没送到
 
 ## #0126 中文里明写的修饰层，写英文时丢掉
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F10
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F10
 
 **问题是什么**
 **这是全库出现次数最多的一条，累计 8 次以上。**
@@ -31199,6 +31237,10 @@ S13 **within just two days**                                              ← �
   她写 `Even Li, who is usually the most punctual person in the office, has been late twice this week.`
   七层全到：就连 · 办公室里 · 平时 · 最守时 · 这周 · 也（并入 even）· 两次。
   同组第 2 题「老板也得」没写 even ⇒ 按本条正文的边界判据 ⛔ 不算丢（come and help 已送到"添人手"），只进更好版 ⇒ 当天无 ❌。
+- 2026-10-12 ❌ C10 D2 学习日 复检组1 第 2 题（顺带）
+  主考点 #0320（✅）。中文「几乎无一例外都偏咸」，她写 `are **invariably** on the salty side` ——「几乎」这一层没送到（invariably ＝ 没有例外）。
+  对的是 `are **almost invariably** on the salty side`。与 09-21 复习组1 第 8 题同一个形状（invariably 而非 almost invariably）。
+  🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0331 时间名词也能带所有格：today's patients / this year's figures
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F10
@@ -33166,14 +33208,14 @@ It is precisely for this reason that   this ✔  that ✔  ← 强调句两个�
   this ✔ very ✔（09-26 回潮掉的正是指示词 this）；用分号接成一句也成立 ⇒ 连对 1 → 连对 2。
 
 ## #0319 条件连接词四档：if ＜ as long as ＜ provided that ＜ on condition that
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F14
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F14
 
 **成员出题账**
 ```
 ① if                 未单独出过（最中性，不必测）
-② as long as         2026-08-23 组3 题面「只要大家按时交材料，进度就不会拖」⇒ ✅ ／ 2026-09-19 复检组1 第 5 题 ⇒ ✅（as long as it is submitted）
+② as long as         2026-08-23 组3 题面「只要大家按时交材料，进度就不会拖」⇒ ✅ ／ 2026-09-19 复检组1 第 5 题 ⇒ ✅（as long as it is submitted）／ 2026-10-12 复检组1 第 1 题 ⇒ ✅（`As long as it does not rain`）
 ③ provided (that)    2026-08-23 组3 ⇒ ✅ ／ **2026-09-23 组2 第 6 题** ⇒ `Provided that it **passes** the inspection` ✅（硬边② 现在时表将来）
-④ on condition that  2026-09-19 复检组1 第 5 题（括号给了词）⇒ 「on condition that 忘了」＝ 调不出 ⇒ ❌ ／ 2026-09-21 组1 第 7 题题面「条件是每季度…提交一次财务报表」⇒ ✅（`on condition that it submits …`，后面挂完整从句、硬边② 的现在时也守住）
+④ on condition that  2026-09-19 复检组1 第 5 题（括号给了词）⇒ 「on condition that 忘了」＝ 调不出 ⇒ ❌ ／ 2026-09-21 组1 第 7 题题面「条件是每季度…提交一次财务报表」⇒ ✅（`on condition that it submits …`，后面挂完整从句、硬边② 的现在时也守住）／ 2026-10-12 复检组1 第 1 题 ⇒ ✅（`on condition that I repay it`）
 ⑤ unless             2026-08-22 组3 ⇒ ✅ ／ **2026-09-23 组2 第 6 题** ⇒ `unless the parliament changes its mind` ✅（硬边③ 没有再加否定；the parliament 的冠词是⚠️不地道、⛔不判错）
 ```
 
@@ -33257,6 +33299,10 @@ unless            ＝ if not（反向）             `**unless** the policy chan
   ⚠️ 更好版一处：`will be able to continue production` → `will be allowed to keep producing`
   （中文「就能」是**获得许可**，be able to 说的是有能力）。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 1 题
+  题面「只要不下雨，运动会就照常举行；他答应借钱给我，条件是我年底前还清。（★ 两处分别用 as long as ／ on condition that —— 时态自己定）」
+  她写 `**As long as** it does not rain, the sports meeting will proceed as scheduled; he agreed to lend me the money **on condition that** I repay it before the end of the year.`
+  两个条件从句都用现在时表将来 ✔（⛔ won't rain ／ will repay）⇒ 复检通过。
 
 ## #0338 「相应地／同步地」一族：accordingly ／ correspondingly ／ in line with
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F14
@@ -34605,16 +34651,17 @@ fairly        配"好的一面"（硬边①：fairly good ✅ ／ fairly difficu
   rather 配负面的 difficult ⇒ 08-23 零提示时走 quite、一直没被行使的 rather 这次落地 ⇒ 守住。
 
 ## #0320 频率副词的刻度：always ／ invariably ／ consistently ／ rarely ／ seldom
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F15
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F15
 
 **成员出题账**
 ```
 ① always        未单独出过（最通用，不必测）
 ② invariably    2026-08-22 组8 题面「这类项目几乎总是超预算」⇒ ✅ ／
 　　　　　　　　 2026-09-19 复检组1 第 6 题（括号给了词）⇒ 「invariably 忘了」＝ 调不出 ⇒ ❌ ／
-　　　　　　　　 2026-09-21 组1 第 8 题题面「几乎无一例外地会出现」⇒ ✅（`invariably emerges`，实义动词前）
+　　　　　　　　 2026-09-21 组1 第 8 题题面「几乎无一例外地会出现」⇒ ✅（`invariably emerges`，实义动词前）／
+　　　　　　　　 2026-10-12 复检组1 第 2 题 ⇒ ✅（`are invariably on the salty side`，be 后；「几乎」又丢了 ⇒ #0126）
 ③ consistently  2026-08-23 组3 题面「他这两年的表现一贯很好」⇒ ✅ ／ 2026-09-21 组1 第 8 题题面「数据一贯很准」⇒ ✅（`are consistently accurate`，be 动词后）
-④ rarely        2026-08-23 组3 题面「出错的时候很少」⇒ ✅
+④ rarely        2026-08-23 组3 题面「出错的时候很少」⇒ ✅ ／ 2026-10-12 复检组1 第 2 题 ⇒ ✅（`rarely receives complaints`）
 ⑤ seldom        2026-09-21 组1 第 8 题 ⇒ ✅（`are seldom made clear`）／ **2026-09-23 组2 第 7 题倒装形状第一次测** ⇒ `**Seldom do** delays of this kind occur` ✅（do ＋ 主语 ＋ 动词原形）
 ```
 
@@ -34704,6 +34751,11 @@ be 动词后      `Risk **is invariably** accompanied by…` ✅
   seldom 置句首 ⇒ `do ＋ 主语 ＋ 动词原形`（`Seldom **do** delays … **occur**`），助动词与原形都对。
   `consistently delivers` 放实义动词前也对（本条位置规则的第 2 条）。
   ⇒ 连对 1 → **2**，达毕业线 ⇒ 状态改 🎓。
+- 2026-10-12 ✅ C10 D2 学习日 复检组1 第 2 题
+  题面「这家餐厅的菜几乎无一例外都偏咸；不过老板很少收到投诉。（★ 两处分别用 invariably ／ rarely —— 位置自己定）」
+  她写 `The dishes at this restaurant are **invariably** on the salty side; the owner, however, **rarely** receives complaints.`
+  invariably 在 be 后 ✔；rarely 在实义动词前 ✔ ⇒ 复检通过。
+  ⚠️ 同句「几乎」丢了 ⇒ #0126 ❌（⛔ 不影响本条）；on the salty side 她点名要学 ⇒ 建号 #0609。
 
 ## #0321 very / really / extremely —— 学术写作里 very 通常删掉更有力
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F15 ｜ 题型 整句
