@@ -618,7 +618,7 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   approach 直接带三家银行、没加 to ✔。首测 ⇒ 连对 1。
 
 ## #0596 「（在某个问题上）让步」＝ yield on ／ give ground on（⚠️ yield to ＝ 向…屈服）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -661,6 +661,10 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 - 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 组2 第 1 题（顺带用对）
   她写 `Neither the labor union nor the management was willing to **yield on** (这个词组学下) the margin of pay increases` —— yield on ＋ 争的那件事 ✔。
   ⚠️ 同题主考点 #0585 ✅（reach a stalemate）；同句 margin 用错 ⇒ 建号 #0597。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 1 题（首测）
+  题面「房东在房租上一步也不肯让，可面对租客们的联名投诉，他最终还是顶不住压力，把暖气修好了。（★ 两处都用 yield —— 后面各配哪个介词自己定）」（种子「投诉之后」与 #0595 撞「之后」⇒ 改「面对…联名投诉」）
+  她写 `The landlord refused to **yield on** rent, yet facing joint complaints from tenants, he eventually **yielded to** pressure and repaired the heating system.`
+  让的是房租 ⇒ yield on ✔；顶不住的是压力 ⇒ yield to ✔；两个介词没串台 ⇒ 首测 ⇒ 连对 1。
 
 ---
 
@@ -1285,7 +1289,7 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 </details>
 
 ## #0601 「文学的」＝ literary（⚠️ 形近：literal ／ literate）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F05 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F05 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1326,6 +1330,9 @@ P5 拼写 08-16 改判：地名不进 P5，不出题（T1 图表上印着地名�
 - 2026-10-11 ③ 建号（她点名要背）C10 D1 学习日 复检组1 第 2 题（顺带用对）
   她写 `This novel is highly acclaimed in **literary**(背下) circles` —— 词与拼写都对。
   ⚠️ 同题主考点 #0508 ✅。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 7c·8c 题（词组 · 首测）
+  题面「（他获过好几个）文学奖」「（她大学时参加的）文学社」
+  她写 `**literary** awards` · `a **literary** club` —— 两块都调出、拼对。首测 ⇒ 连对 1。
 
 ---
 
@@ -3527,7 +3534,7 @@ progress **不可数**（⛔ a progress）。
   下次 b 再测：immigration formalities。
 
 ## #0597 「幅度」≠ margin ⇒ the size of ／ how much（margin ＝ 两个数之间的差额）
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3573,9 +3580,13 @@ progress **不可数**（⛔ a progress）。
   她写 `Neither the labor union nor the management was willing to yield on the **margin**（这个词的用法学下) of pay increases` —— margin 是差额，「幅度」⇒ the size of。
   当场给回：`yield on the size of pay increases`。
   ⚠️ 同题主考点 #0585 ✅；同句 yield on 她点名要学 ⇒ 建号 #0596。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 5 题（首测）
+  题面「家长们争的不是学费涨不涨，而是涨的幅度；最后这项提议只以微弱优势通过了。（★ 两处的「幅度／优势」只有一处能用 margin —— 哪处用、另一处怎么说自己定）」
+  她写 `What parents are disputing is not whether tuition fees will increase, but **the size of** the increase; in the end, this proposal passed **by only a narrow margin**.`
+  「涨的幅度」⇒ the size of ✔；「微弱优势」是比两边票数 ⇒ by a narrow margin ✔；margin 只用在该用的那一处 ⇒ 连错 1 → 连对 1。
 
 ## #0598 「（对某事的）担心、顾虑」＝ concerns about ／ over sth
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3617,9 +3628,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她说没把握）C10 D1 学习日 组2 第 6 题（顺带用对）
   她写 `dispelled the parents' **concerns about**(不确定是不是这个介词，还是 regarding) this vaccine` —— about ✔。
   ⚠️ 同题主考点 #0593 ✅（dispel ＋ 疑虑本身）。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 7a·8a 题（词组 · 首测）
+  题面「（村民对新建化工厂的）顾虑」「（公众对个人数据安全）越来越多的担忧」（种子「居民」与第 4 题「住户」同指 ⇒ 换）
+  她写 `villagers' **concerns about** the new chemical plant` · `growing **concerns over** personal data security` —— about ／ over 两块都调出。首测 ⇒ 连对 1。
 
 ## #0599 「消毒（这件事）／消毒液」＝ disinfection ／ disinfectant
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3659,9 +3673,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她点名要背）C10 D1 学习日 复检组1 第 1 题（顺带用对）
   她写 `This laboratory has a strict **disinfection** protocol; the first step is to immerse all instruments in **disinfectant** solution（消毒和消毒液都背下).` —— 两个名词都对。
   ⚠️ 同题主考点 #0505 ✅（protocol ／ step）。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 7b·8b 题（词组 · 首测）
+  题面「（每天早晚各一次的）消毒程序」「（一瓶）消毒液」
+  她写 `a **disinfection** procedure` · `a bottle of **disinfectant** solution` —— 这件事 -tion、那瓶东西 -ant ✔。首测 ⇒ 连对 1。
 
 ## #0600 「评价很高」＝ highly acclaimed ／ highly regarded（⚠️ appraise ＝ 评估、估价的动作）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3703,9 +3720,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 复检组1 第 2 题（顺带用对）
   她写 `This novel is **highly acclaimed**(评价和 appraise 对比下) in literary circles` —— 口碑 ⇒ acclaimed ✔。
   ⚠️ 同题主考点 #0508 ✅（circles 复数 ／ the publishing world ／ his small circle）。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 2 题（首测）
+  题面「这位导演的新片在影评人中评价很高；公司每年年底都会对员工的表现做一次考核。（★ 两处从 appraise ／ acclaimed 里各用一个 —— 哪个配哪处自己分；形态自己定）」
+  她写 `This director's new film is **highly acclaimed** among film critics; at the end of each year, the company **appraises** the performance of its employees.`
+  口碑 ⇒ highly acclaimed ✔；考核这个动作 ⇒ appraises ✔；两词倒着给的，各就各位 ⇒ 首测 ⇒ 连对 1。
 
 ## #0602 「（销量、效果）一般」＝ modest（⚠️ 不是"差"，是"不大、不怎么样"）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3747,6 +3768,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她说调不出来）C10 D1 学习日 复检组1 第 2 题（顺带，查了才写出）
   她写 `yet achieves only **modest** (这个一般的形容词想了很久没想到，查了下) sales in the publishing world` —— 块对，是查的。
   ⚠️ 同题主考点 #0508 ✅。
+- 2026-10-12 ❌ C10 D2 学习日 组1 第 7d·8d 题（词组 · 首测）
+  题面「（这家小店每个月的）收入一般」「（新政策的）效果一般」（种子「票房一般」与第 2 题「导演的新片」同场景 ⇒ 换）
+  她两块都答「忘了」—— **调不出** modest。当场给回：`a modest monthly income` · `only modest results`（modest 修饰数量、结果 ＝ 不大、一般）。
 
 ## #0603 「绝不／一点也不」＝ by no means　　⇒ **并入 #0353**
 状态：并入 #0353 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
@@ -3800,7 +3824,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0518 ✅（safe ／ secure）。
 
 ## #0604 「关于（是不是／怎么）」＝ as to ＋ whether／how（⚠️ as for ＝ 至于，切话题）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3844,6 +3868,65 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 复检组1 第 8 题（顺带用对）
   她写 `There remains substantial uncertainty **as to**（as to 可以学下) whether this start-up company can secure its next round of financing next year.` —— as to ＋ whether ✔。
   ⚠️ 同题主考点 #0297 ✅（不可数、零冠词）。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 6 题（首测）
+  题面「专家们对这座桥能不能按期完工还有不少疑问；至于资金从哪儿来，市政府到现在都没表态。（★ 两处从 as for ／ as to 里各用一个 —— 哪个配哪处自己分）」
+  她写 `Experts still harbor considerable doubts **as to** whether this bridge can be completed on schedule; **as for** where the funding will come from, the municipal government has taken no stance to date.`
+  名词 doubts 后面挂"能不能" ⇒ as to whether ✔；句首切话题 ⇒ as for ✔；没交换 ⇒ 首测 ⇒ 连对 1。
+  ⚠️ 同句 take no stance 她点名要学 ⇒ 建号 #0605。
+
+## #0605 「表态」＝ take a stance on ／ state one's position（动词配 take，⛔ make）
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
+
+**问题是什么**
+```
+中文「表态」＝ 就某个问题**表明立场这个动作** ⇒ 英文是一个**动词块**：
+　**take a stance (on sth)**　　　表态、表明立场　`The city government has yet to **take a stance on** the funding.`
+　　　　　　　　　　　　　　　　 **take no stance** ＝ 不表态　`The organisation **takes no stance on** this issue.`
+　　　　　　　　　　　　　　　　 take a clear／firm stance ＝ 明确表态
+　**state one's position (on sth)**　说明立场　`The ministry has not yet **stated its position**.`
+　**make one's position clear**　　 把态度说清楚　`The mayor **made his position clear**: no new taxes.`
+　**comment (on sth)**　　　　　　 （对外）回应、发表意见　`The company **declined to comment**.`（新闻里的「不予置评」）
+⛔ ~~make a stance~~（动词只配 take ／ adopt）
+⚠️ **take a stand** (against sth) ＝ 挺身反对、坚持立场 —— 差一个字母，语气更强
+与 **#0564**（名词「立场」＝ stance on，在池）分工：那条是名词块「（某人）在…问题上的立场」；本条是「表态」这个动作 ⇒ 动词配 take
+```
+**判据（一句话）**：中文「表态」⇒ take a stance on ／ state one's position；只说"那个立场" ⇒ #0564 的 sb's stance on。
+**找法**：写到 stance 前面要配动词 ⇒ take（⛔ make）；后面要挂问题 ⇒ on。
+
+**怎么发现的**
+2026-10-12　C10 D2 学习日 组1 第 6 题（主考点 #0604，命中 ✅）。中文「至于资金从哪儿来，市政府到现在都没表态」，
+她写 `the municipal government **has taken no stance**(这个词组学下) to date` —— 写对了，并当场括注 **「这个词组学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "stance" "take a stance" "position"            ⇒ 命中 #0564 #0561 #0438 #0529 #0292 #0307 #0376
+          dedup "take a stance" "take a stand" "state its position" ⇒ **零命中**
+          dedup "comment" "置评" "声明"                          ⇒ 命中 #0405 #0482 #0071 #0486 #0559
+② 规则查  dedup "表态" "立场"                                    ⇒ 命中 #0374 #0564 #0255 #0267 #0303 #0311 #0313 #0315 #0319 #0368 #0428 #0502
+          dedup "表明" "态度"                                    ⇒ 命中 #0374 #0055 #0126 #0237 #0308
+逐条否掉：
+  #0564（名词「立场」＝ stance on，在池·词组）—— 最像的一条。问1：那条是名词块「立场」⇒ stance on；本条是「表态」这个动作 ⇒ 动词配 take ⇒ 改正动作不同 ⇒ 否。
+    问3：会 sb's stance on 不会自动带出动词 take（⛔ make）与 state one's position ⇒ 否。
+    反向验（§3.5 1.3）：`his stance on the issue` 对、`the government has not made a stance` 错 —— 两者可独立取值 ⇒ 两条。交叉引用。
+  #0405（官方声明 an official statement，🎓）#0482（issue ＋ 宾语，🎓）—— 那两条是「声明」这个名词与 issue 的宾语 ⇒ 问1 不成立 ⇒ 否
+  #0516（refrain／resist，🎓）—— 历史行里「当场表态」译成 resisted commenting／stating their positions，那条考的是 resist 的论元 ⇒ 问1 不成立 ⇒ 否
+  #0374（embrace／adopt，🎓）—— 「立场」只是正文里的字样（立场写歪）⇒ 偶合 ⇒ 否
+  #0561（unanimous）—— 「立场」只是触发点场景 ⇒ 否
+  #0255 #0267 #0303 #0311 #0313 #0315 #0319 #0368 #0428 #0502 #0529 #0438 #0292 #0307 #0376 #0055 #0126 #0237 #0308 #0071 #0486 #0559 —— 字样偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **整句**（§3.5 第 2.5 步 ①：块里有动词 take）。
+```
+
+**我错在哪**
+她这次写对了（`has taken no stance`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+这家公司在气候问题上一直不肯表态，直到股东们在年会上公开发问。
+（★ 用 stance —— 前面配哪个动词、后面配哪个介词自己定）
+
+### 历史记录
+- 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 组1 第 6 题（顺带用对）
+  她写 `as for where the funding will come from, the municipal government **has taken no stance**(这个词组学下) to date.` —— take no stance ✔。
+  ⚠️ 同题主考点 #0604 ✅（as to whether ／ as for 各就各位）。
 
 ---
 
@@ -4425,7 +4508,7 @@ K（策略，需在下一篇作文里验）　0/3
   与这次机制取消无关。
 
 ## #0368 「换个角度／限定范围」一族：economically ／ in terms of ／ when it comes to ／ at the … level
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F14
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F14
 
 **问题是什么**
 中文的「在…方面／就…而言／从…角度看」，英文有五条路，**长短与位置都不一样**：
@@ -4486,12 +4569,13 @@ K（策略，需在下一篇作文里验）　0/3
 **成员出题账**
 ```
 ① 直接用副词（Economically, / Culturally,）—— 2026-08-30 组1 第 7 题 ✅ · 2026-09-01 组7 第 7 题 ✅（technically）
+　　　　　　　　　　　　　　　　　　　　　　 · 2026-10-10 复检组1 第 5 题 ❌（engineeringly 不是词）· 2026-10-12 组1 第 4 题 ✅（commercially；噪音那处没造副词）
 ② in economic terms   —— 2026-09-01 组7 第 7 题 ✅（In costs terms）· 2026-10-01 复检组4 第 5 题 ✅（In environmental terms）
-③ in terms of ＋ 名词 —— 2026-08-30 组1 第 7 题 ✅　（of 后接形容词是高频错法）
+③ in terms of ＋ 名词 —— 2026-08-30 组1 第 7 题 ✅　（of 后接形容词是高频错法）· 2026-10-12 组1 第 4 题 ✅（in terms of noise）
 ④ from a … perspective —— 2026-08-29 作文 S12／S14 自发用对（📋 不推进）
 ⑤ when it comes to    —— 2026-09-01 组7 第 7 题 ✅
 ⑥ as for ＋ 名词       —— 2026-08-29 作文 S7 自发用对（📋）· 2026-10-01 复检组4 第 5 题 ✅
-⑦ at the … level      —— 2026-08-30 组1 第 7 题 ✅（at the local level）
+⑦ at the … level      —— 2026-08-30 组1 第 7 题 ✅（at the local level）· 2026-10-12 组1 第 4 题 ✅（at the local level）
 ⚠️ **2026-10-01 补账**：08-30 ／ 09-01 ／ 10-01 的行使当天没补进账，本次按历史记录一并追平 ⇒ 全部成员都已行使过，之后轮换。
 ```
 
@@ -4532,9 +4616,13 @@ K（策略，需在下一篇作文里验）　0/3
 - 2026-10-10 ❌ C9 D4 复习日 复检组1 第 5 题（顺带用错）
   她写 `Building a base on the moon is **engineeringly** feasible` —— engineeringly 不是现成的词；① 直接用副词只限真实存在的副词，engineering 没有 -ly 形式 ⇒ `feasible from an engineering standpoint`／`technically feasible`。
   🎓 吃 ❌ ⇒ 当场回潮；正文 ① 补一句「只限真实存在的副词」。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 4 题（回潮后首测）
+  题面「这条新航线从商业上看很成功，但从噪音角度看，机场附近的住户吃了不少苦头；在地方层面，好几个镇还在抵制。（★ 前两处只有一处能直接用副词（像 economically 那样）—— 哪处用、另一处怎么说自己定；第三处用 at the … level）」（换题面：老题面 08-30 原样测过；新题面专测 10-10 的病 —— 副词只限真实存在的）
+  她写 `This new air route is **commercially** successful, yet **in terms of** noise, residents near the airport have suffered considerably; **at the local level**, several towns are still resisting.`
+  商业有现成副词 ⇒ commercially ✔；噪音没有 ⇒ in terms of noise ✔，⛔ 没造 noisily；at the local level ✔；三处三条路 ⇒ 连错 1 → 连对 1。
 
 ## #0595 「后来（才发现）」没说是哪件事之后 ⇒ later ／ it later turned out that（⛔ after／following 要挂一件事）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F14 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F14 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -4589,6 +4677,10 @@ K（策略，需在下一篇作文里验）　0/3
 - 2026-10-11 ③ 建号（她点名要学）C10 D1 学习日 组1 第 3 题（顺带用对）
   她写 `it was later discovered(这里我一直在想怎么用 after, following 表达，这么简单的句子都不能主动输出，学下) that the ordering application had been secretly recording customers' locations` —— later 用对了。
   ⚠️ 同题主考点 #0582 ✅（discreetly ／ secretly 各就各位）。
+- 2026-10-12 ✅ C10 D2 学习日 组1 第 3 题（首测）
+  题面「这场音乐会取消之后，主办方退还了全部票款；后来才知道，主唱其实一周前就病了。（★ 两处从 after ／ it later turned out that 里各用一个 —— 哪个配哪处自己分；形态与时态自己定）」（换场景：种子与 #0596 撞「房东」；括号去掉顺序泄题）
+  她写 `**After** the concert was cancelled, the organizers refunded all ticket payments; **it later turned out that** the lead singer had actually fallen ill a week earlier.`
+  有那件事 ⇒ After ＋ 从句 ✔；光杆「后来才知道」⇒ it later turned out that ✔；after 没挂到光杆后来上 ⇒ 首测 ⇒ 连对 1。
 
 ---
 

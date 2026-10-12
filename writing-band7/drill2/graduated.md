@@ -30085,7 +30085,7 @@ have already been borne　后果**已经**被承担了（完成）
   be being ＋ 过去分词 ✔ ⇒ 复检通过。同句 reinforce 她点名要学 ⇒ 另建 #0568。
 
 ## #0473 相对时间一族：the year before last ／ the previous year ／ the year after next
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F09 ｜ 题型 整句
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F09 ｜ 题型 整句
 
 **问题是什么**
 中文的「去年／前年／第二年／前一年」是**两套坐标**，英语分得很死，⛔ 不能混用：
@@ -30117,6 +30117,7 @@ have already been borne　后果**已经**被承担了（完成）
 ③ the following year　　—— 2026-09-09 组1 第 4 题（题面点名）⇒ ✅（账 09-20 补记）
 ④ the year after next　 —— 2026-09-20 组2 第 2 题 ⇒ `will open the year after next` ✅
 ⑤ two years earlier ／ two years later —— 2026-09-20 组2 第 2 题 ⇒ `not close until two years later` ✅（以前文那个时间点为基准）
+　　　　　　　　　　　　　　　　　　　　 ／ 2026-10-12 组1 第 3 题顺带用对 `had fallen ill a week earlier` 📋
 ⑥ that night ／ that (very) evening ／ the same day（当晚／当天）—— 未出过（2026-10-11 组2 第 5 题顺带用对 `that very evening` 📋，她点名「当晚的表达学下」）
 ```
 
@@ -30181,6 +30182,9 @@ have already been borne　后果**已经**被承担了（完成）
 - 2026-10-11 📋 C10 D1 学习日 组2 第 5 题（顺带用对 ＋ 她点名要学）
   她写 `the mayor convened an emergency meeting **that very evening**(当晚的表达学下)` —— 以文中那场爆炸为基准 ⇒ that 那一排 ✔；very 送到了「当晚**就**」。
   她点名要学 ⇒ 归入本条（适用范围从「年」说清到「天／晚上」，连对连错不动），补成员 ⑥ 当晚／当天。
+- 2026-10-12 📋 C10 D2 学习日 组1 第 3 题（顺带用对）
+  她写 `it later turned out that the lead singer had actually fallen ill **a week earlier**` —— 叙述过去的事，「一周前」以文中时点为基准 ⇒ earlier ✔（⛔ 没写 a week ago）＝ 成员 ⑤。
+  ⚠️ 同题主考点 #0595 ✅。
 
 ## #0512 一句话里的【时间平面】要一致 —— 中文没有过去标记就别切到过去
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F09 ｜ 题型 整句
