@@ -14,7 +14,7 @@
   —— 🆕 **新建 9 条** #471–#479（她点名 4：lounge · pay out · amateur · stubborn ｜ 真错 1：楼下 ≠ under my building ｜ ⚠️ 4：convenient for getting around · make it feel special · show how much you care · bring sb closer）
   —— ② 回看 无；③ 新题 bank:1296（P3 特殊日子花大钱吃饭）真错 0、整篇写作腔（书面块 4）、缺例子
   —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 5⇄0
-  —— **下一场 ＝ 周期 12 · L2**：#471–#479 首测 ＋ #467 ＋ 连对1 的 15 条；复检 1 组；回看 bank:1296；新题 1 道
+  —— **下一场 ＝ 周期 12 · L2**：#471–#479 首测 ＋ #467 ＋ 连对1 的 15 条；复检 1 组；回看 bank:1296；重答 1 道 ＋ 与旧答对比（10-14 起不出新题）
 
 🆕🆕🆕 **2026-10-12 · 口语 R 付息日（周期 11 收尾）· 已收尾（10-14 补）**
   —— 在池 2 组 **20 题 / 20 条 ✅20 ❌0**；复检 6 组 **60 题 / 65 条 ✅64 ❌1**（#290）；题里顺带 #347 ❌×2 · #126 ❌ ⇒ 回潮 3

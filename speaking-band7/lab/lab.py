@@ -5,6 +5,7 @@
 ⛔ 本脚本【一个字的内容都不产生】。行文全部由教练手写，脚本只碰位置和算术：
      · 读  problems.md / graduated.md / methods.md / sessions/
            ../question_bank.md / ../coach/asked.log（只读，重答队列实时算用）
+           ../coach/fluency_lab.md / ../coach/sessions/（只读，attempts 找 lab 之前的首答出处）
      · 写  drawn.log（append-only 出题流水）
      · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
             ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
@@ -21,7 +22,8 @@
   记账（SKILL §7 顺序写死 —— 落盘之后）
     python3 speaking-band7/lab/lab.py append --file rows.md --date YYYY-MM-DD [--dry-run]
   统计与校验（SKILL §0.1 §8 §11）
-    python3 speaking-band7/lab/lab.py redo            重答队列（§5d，实时算，最久没重答的在最上面）
+    python3 speaking-band7/lab/lab.py redo            重答队列（§4④ §5d，实时算，最久没重答的在最上面）
+    python3 speaking-band7/lab/lab.py attempts bank:NNN [--date D]   一道题的全部旧答原文（§7④）
     python3 speaking-band7/lab/lab.py stats [--brief]
     python3 speaking-band7/lab/lab.py check [--changed | --all] [--quiet]
 
@@ -44,6 +46,8 @@ GRADUATED = os.path.join(ROOT, "graduated.md")
 METHODS = os.path.join(ROOT, "methods.md")
 QBANK = os.path.join(os.path.dirname(ROOT), "question_bank.md")
 ASKED = os.path.join(os.path.dirname(ROOT), "coach", "asked.log")
+# lab 之前的旧档案（只读）：attempts 在这里找 lab/sessions 之外的首答出处
+COACH = os.path.join(os.path.dirname(ROOT), "coach")
 SESSIONS = os.path.join(ROOT, "sessions")
 DRAWN = os.path.join(ROOT, "drawn.log")
 
@@ -1529,8 +1533,9 @@ def cmd_redo(args):
     W = "═" * 78
     print(W)
     print("lab.py redo · 重答队列（§5d）· 实时算：legacy R1–R36 ∪ session 新题／加练／重答 ∪ asked.log")
-    print("  排序 ＝ 最久没重答的优先（上次动它 旧→新 → 首答日 → 编号）｜ 付息日 d 段从第 1 行往下取")
-    print("  d 段节标题写 `## d 段 重答 · bank:NNN`（没有 bank 行号的旧题才写 RN）")
+    print("  排序 ＝ 最久没重答的优先（上次动它 旧→新 → 首答日 → 编号）｜ 学习日 ③ 与付息日 d 段都从第 1 行往下取")
+    print("  节标题写 `## ③ 重答 · bank:NNN`（付息日 `## d 段 重答 · bank:NNN`；没有 bank 行号的旧题才写 RN）")
+    print("  答完跑 `lab.py attempts <题号>` 打出全部旧答，原样贴进 `### ④ 与旧答对比`（§7④）")
     print(W)
     for i, r in enumerate(rq, 1):
         first = r["first"] or "日期不明"
@@ -1547,6 +1552,80 @@ def cmd_redo(args):
               " ".join(r["id"] for r in unk))
     print(W)
     return 0
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  attempts —— 一道题的全部旧答（SKILL §7④ 旧答对比的原料）
+#     ⛔ 只读：不写任何文件；只打原文与出处，⛔ 不产生一个字的对比内容。
+# ══════════════════════════════════════════════════════════════════════════
+def legacy_mentions(key):
+    """lab 之前的旧档案（coach/fluency_lab.md ＋ coach/sessions/*.md）里提到这道题的行
+    → [(相对路径, 行号, 原文)]。只认 `question_bank.md:NNN` 这个写法。"""
+    m = re.fullmatch(r"bank:(\d+)", key or "")
+    if not m or not os.path.isdir(COACH):
+        return []
+    rx = re.compile(r"question_bank\.md\s*[:：]\s*%s(?!\d)" % m.group(1))
+    files = [os.path.join(COACH, "fluency_lab.md")]
+    sd = os.path.join(COACH, "sessions")
+    if os.path.isdir(sd):
+        files += [os.path.join(sd, f) for f in sorted(os.listdir(sd)) if f.endswith(".md")]
+    out = []
+    for p in files:
+        if not os.path.exists(p):
+            continue
+        for i, l in enumerate(open(p, encoding="utf-8"), 1):
+            if rx.search(l):
+                out.append((os.path.relpath(p, os.path.dirname(COACH)), i, l.strip()))
+    return out
+
+
+def cmd_attempts(args):
+    today = args.date or date.today().isoformat()
+    rq = {r["id"]: r for r in redo_queue()}
+    legacy = {f"bank:{b}" if b else rid: (rid, first, extra)
+              for rid, b, _t, first, _n, extra, _q in LEGACY_REDO}
+    rc = 0
+    for pid in args.ids:
+        k = redo_key(pid)
+        r = rq.get(k, {})
+        alias = redo_alias(k)
+        srcs = find_free_sources(k, today)
+        print(f"<!-- lab.py attempts · {today} · {k}{'（' + alias + '）' if alias else ''}"
+              f" · {r.get('type', '?')} · {r.get('text', '')} -->")
+        print(f"lab 里的旧答 {len(srcs)} 次（日期升序）—— 原样贴进 `### ④ 与旧答对比`，"
+              f"⛔ 不许压缩、不许省次")
+        print()
+        for n, s in enumerate(srcs, 1):
+            print(f"旧答 {n} · {s['date']} · {s['title']}（原篇 {s['file']}:L{s['line']}）")
+            raw = _quad_need(s["parts"].get("原话", []))
+            if not raw:
+                print("⛔ 原篇解析不出「她的原话」节 ⇒ 原篇写歪了，先修原篇")
+                rc = 1
+            for l in raw:
+                print(l)
+            better = _quad_need(s["parts"].get("更好版", []))
+            if better:
+                print(f"（参考 · 旧答 {n} 当时的更好版）")
+                for l in better:
+                    print(l)
+            print()
+        lg = legacy.get(k)
+        first_lab = srcs[0]["date"] if srcs else None
+        if lg and (first_lab is None or lg[1] < first_lab):
+            rid, first, extra = lg
+            more = f"；lab 之外的重答日 {'、'.join(extra)}" if extra else ""
+            print(f"★ 首答 {first}（{rid}）在 lab/sessions 之前{more} —— 原话不在上面，"
+                  f"去下面的出处逐字抄进 ④（写成「旧答 · {first} · 首答（出处）」；找不到写「旧答 · 首答原话未存」）")
+        elif not srcs:
+            print("★ lab 里一次旧答都没有 —— 去下面的出处逐字抄进 ④；找不到写「旧答 · 首答原话未存」")
+        if (lg and (first_lab is None or lg[1] < first_lab)) or not srcs:
+            ms = legacy_mentions(k)
+            if not ms:
+                print("   （旧档案里没有提到这道题的行）")
+            for p, i, l in ms:
+                print(f"   {p}:L{i}  {l[:90]}")
+            print()
+    return rc
 
 
 def cmd_stats(args):
@@ -1783,6 +1862,12 @@ RE_SBLOCK = re.compile(r"^\[S(\d+)\]")
 RE_LOOK_NONE = re.compile(r"无(（|$|\s)")
 # 回看节必须把原篇四件套逐字写进 session（§4② §5⓪ §9.1⑦）—— 这天起写的回看节硬查
 LOOK_FROM = "2026-09-19"
+# 自由产出一律从答过的题里重答、⛔ 不出新题；重答节必带 `### ④ 与旧答对比`（§4④ §7④ §9.1⑧）
+#   —— 这天起写的 session 硬查
+COMPARE_FROM = "2026-10-14"
+COMPARE_KEY = "旧答对比"
+# 对比分析的四栏（行首认）：没有内容也要写「无」
+COMPARE_LABELS = ("进步", "退步", "没变", "总评")
 # session 首行的日型标记：`# 2026-09-11 · **R**（付息日 …）`
 RE_R_HEAD = re.compile(r"·\s*\*\*R\*\*")
 # 四件套在原篇里的 `###` 小节：(显示名, 标题里认的关键词)。⛔ 五层诊断不在四件套里
@@ -1985,6 +2070,13 @@ def check_session(sc, only=None):
             if sec["kind"] == "new":
                 P.append((LV, f"L{sec['line']}",
                           f"付息日（首行写着 R）却有【新题】节 —— §5 ⛔ 付息日不出新题"))
+    # ── §4④：这天起 ⛔ 不出新题（学习日也一样），自由产出一律重答 ──────────
+    elif sc["date"] >= COMPARE_FROM:
+        for sec in sc["sections"]:
+            if sec["kind"] == "new":
+                P.append((LV, f"L{sec['line']}",
+                          f"出现了【新题】节 —— §4④ ⛔ 不出新题：自由产出一律从答过的题里重答"
+                          f"（`lab.py redo` 第 1 行，节标题写 `## ③ 重答 · bank:NNN`）"))
 
     for sec in sc["sections"]:
         if only and sec["kind"] != only:
@@ -2139,6 +2231,9 @@ def check_session(sc, only=None):
                 P.append((LV, f"L{ln}",
                           f"`### {which}` 的正文用省略号截断了：`{s[:56]}`　"
                           f"§9.1③：**全文（一句都不省）**，⛔ 不许用 … 拼接"))
+            if sec["kind"] == "redo" and sc["date"] >= COMPARE_FROM:
+                for f_ in _compare_faults(sc, sec):
+                    P.append(("ERROR", loc, f_))
             sb = _blocks_in(sc, sec, RE_SBLOCK)
             if not sb:
                 P.append((LV, loc, "逐句 diff 里一个 `[S1]` 块都没有（§7③ 多句逐句走两段）"))
@@ -2192,6 +2287,69 @@ def _look_faults(sc, sec):
                 out.append(f"回看 {pid} 的「{name}」少了 {len(miss)}／{len(need)} 行"
                            f"（原篇 {where}）：`{miss[0][:48]}` —— "
                            f"跑 `lab.py lookback --print {pid}` 原样贴进本节（§4②：⛔ 不许压缩、不许省篇）")
+    return out
+
+
+def _compare_block(sc, sec):
+    """重答节里 `### ④ 与旧答对比` 的正文 → (标题行号 1-based, [原文行])；没有这一节 → (None, [])。
+    区段 ＝ 标题之后、下一个 `###`（围栏外）或节尾之前。"""
+    lines, at = sc["lines"], None
+    for i in range(sec["start"], sec["end"]):
+        if i in sc["infence"]:
+            continue
+        m = RE_H3.match(lines[i])
+        if not m:
+            continue
+        if at is not None:
+            return at + 1, lines[at + 1:i]
+        if COMPARE_KEY in m.group(1):
+            at = i
+    return (None, []) if at is None else (at + 1, lines[at + 1:sec["end"]])
+
+
+def _compare_faults(sc, sec):
+    """重答节的旧答对比闸（§7④ §9.1⑧）→ [说明]。
+    ① 必须有 `### ④ 与旧答对比`
+    ② lab 里这道题**每一次**更早的作答（新题／重答／加练），原话的每一个内容行都要在本节逐字出现
+       —— ⛔ 不许压缩、不许省次；多写不管（参考的更好版、旁注照样允许）
+    ③ lab 里一次旧答都没有（首答在 lab/sessions 之前）⇒ 至少写一行「旧答 …」（抄自旧档案，或写明未存）
+    ④ 四栏 进步／退步／没变／总评 行首各出现一次（没有就写「无」）"""
+    ln, blk = _compare_block(sc, sec)
+    if ln is None:
+        return [f"重答节缺 `### ④ 与旧答对比` —— §7④：逐字摆出每一次旧答的原话，"
+                f"再写 进步／退步／没变／总评（跑 `lab.py attempts <题号>` 原样贴）"]
+    out = []
+    rows = [l.strip() for l in blk if l.strip()]
+    body = set(rows)
+    keys = []
+    for pid in _ids_of(sec["title"]):
+        k = redo_key(pid)
+        if k not in keys:
+            keys.append(k)
+    for k in keys:
+        srcs = find_free_sources(k, sc["date"])
+        if not srcs:
+            if not any("旧答" in s for s in rows if not s.startswith("#")):
+                out.append(f"「{COMPARE_KEY}」没摆任何旧答 —— lab 里没有 {k} 更早的作答 ⇒ "
+                           f"首答在 lab 之前：按 `lab.py attempts {k}` 列的出处逐字抄进来，"
+                           f"真没存写一行「旧答 · 首答原话未存」")
+            continue
+        for n, src in enumerate(srcs, 1):
+            where = f"{src['file']}:L{src['line']}"
+            if "原话" not in src["parts"]:
+                out.append(f"旧答 {n}（{src['date']} · 原篇 {where}）解析不出「她的原话」节 "
+                           f"⇒ 原篇写歪了（§9.1③），无从逐字转述")
+                continue
+            need = _quad_need(src["parts"]["原话"])
+            miss = [x for x in need if x not in body]
+            if miss:
+                out.append(f"「{COMPARE_KEY}」里旧答 {n}（{src['date']} · 原篇 {where}）的原话"
+                           f"少了 {len(miss)}／{len(need)} 行：`{miss[0][:48]}` —— "
+                           f"跑 `lab.py attempts {k}` 原样贴（⛔ 不许压缩、不许省次）")
+    for lab_ in COMPARE_LABELS:
+        if not any(s.startswith(lab_) for s in rows):
+            out.append(f"「{COMPARE_KEY}」缺「{lab_}」一栏（行首写 `{lab_}`）—— "
+                       f"§7④ 四栏 进步／退步／没变／总评，没有就写「无」")
     return out
 
 
@@ -2399,30 +2557,37 @@ def _quad_need(part):
     return [l.strip() for l in part if l.strip() and not l.startswith("```")]
 
 
-def find_free_source(pid, before):
-    """→ 题号为 pid、日期早于 before 的**最近一篇**自由产出原篇：
-    dict(file, date, line, parts)；找不到 → None。
-    同一份 session 里同一题号的几个节（抽题记录＋逐题记录）合并取四件套。"""
+def find_free_sources(pid, before):
+    """→ 题号为 pid、日期早于 before 的**全部**自由产出原篇（日期升序）：
+    [dict(file, date, line, title, parts)]；一篇都没有 → []。
+    同一份 session 里同一题号的几个节（抽题记录＋逐题记录）合并成一篇、合并取四件套。"""
     if not os.path.isdir(SESSIONS):
-        return None
-    best = None
+        return []
+    out = []
     for f in sorted(os.listdir(SESSIONS)):
         m = RE_SESS_NAME.match(f)
         if not m or m.group(1) >= before:
             continue
         sc = scan_session(os.path.join(SESSIONS, f))
-        parts, line = {}, None
+        parts, line, title = {}, None, ""
         for s in sc["sections"]:
             # ★ 旧 R 号与它的 bank:NNN 是同一道题（redo_key）
             if s["kind"] not in ("new", "redo", "extra") or \
                     redo_key(pid) not in {redo_key(x) for x in _ids_of(s["title"])}:
                 continue
-            line = line or s["line"]
+            if not line:
+                line, title = s["line"], s["title"]
             for k, v in _quad_parts(sc, s).items():
                 parts.setdefault(k, v)
         if line:
-            best = dict(file=f, date=sc["date"], line=line, parts=parts)
-    return best
+            out.append(dict(file=f, date=sc["date"], line=line, title=title, parts=parts))
+    return out
+
+
+def find_free_source(pid, before):
+    """→ 题号为 pid、日期早于 before 的**最近一篇**自由产出原篇；找不到 → None。"""
+    srcs = find_free_sources(pid, before)
+    return srcs[-1] if srcs else None
 
 
 def cycle_free_ids(today):
@@ -3811,6 +3976,11 @@ def main():
 
     p = sub.add_parser("redo", help="重答队列（§5d）：实时算，最久没重答的在最上面（只读）")
     p.set_defaults(func=cmd_redo)
+
+    p = sub.add_parser("attempts", help="一道题的全部旧答原文与出处（§7④ 旧答对比用，只读）")
+    p.add_argument("ids", nargs="+", metavar="ID", help="bank:NNN／RN")
+    p.add_argument("--date", help="把哪一天当「今天」：只打这天之前的旧答（默认今天）")
+    p.set_defaults(func=cmd_attempts)
 
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")
