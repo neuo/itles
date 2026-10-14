@@ -548,7 +548,7 @@
 
 ### 126 · get used to ／ settle into（适应新环境）
 类型 词组 ｜ 旧号 B211
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）
 
 **问题是什么**
 **get used to ／ settle into（settle in）** ＝ 适应新环境：
@@ -582,6 +582,7 @@
   "适应新环境"说 adapt to／adjust to 同样成立，get used to／settle in 只是口语偏好（旧题面靠排除项硬框）⇒ 中译英里产不出 ❌；历史零 ❌
 - 2026-10-12 📝 撤销退池 · 付息日 a2 段复检第 6 组 [7]（#283 题里）她写 `getting used to(学下)` —— 她点名要学 ⇒ §3.6 ⛔ 不退 ⇒ 删掉状态行的退池；题面改正向点名整句（旧题面靠排除项 ⛔ 不许用 adapt／adjust 硬框，§6② 禁），题型 词组 → 整句
 - 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [7]（#283 题里）· 她标「学下」· 原话 `When learning to drive, it's really about getting used to(学下) the basic controls first, and then slowly taking it out on the road.` —— get used to 用法本身对（to 是介词，后面接名词），她点名要学 ⇒ 判 ❌（同 🎓#433 先例）⇒ **回潮**
+- 2026-10-13 ✅ 学习日 在池第 1 组 [1] · `I've been living down South for two years now, and I still haven't gotten used to how hot and humid it gets here.` —— haven't gotten used to ＋ how 从句。连错 1 → 连对 1
 
 
 ### 147 · 时态只标一次：did/will/should/can/must 一出现，后面动词一律原形
@@ -692,7 +693,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）
 
 **问题是什么**
 收尾块：**… for totally different reasons depending on who you ask**（同一个现象，不同的人理由完全不一样）。
@@ -741,6 +742,8 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-10-12 ❌ 付息日 a2 段复检第 7 组 [3] · `A lot of young people are moving back to their hometowns for work these days, and everyone has a different reason, depending.` —— depending 后面断了，on who you ask 没出来，收尾块没成形 ⇒ **回潮**
   最小改 `…, and everyone has a different reason, depending on who you ask.`
   更好版 `…these days, just for totally different reasons depending on who you ask.`（everyone 与 who you ask 说了两遍）
+- 2026-10-13 ✅ 学习日 在池第 1 组 [2] · `The gym gets super packed on weekends, for totally different reasons depending who you ask.` —— 收尾块成形、who you ask 陈述语序；疑问词前省 on 口语成立，不算错。连错 1 → 连对 1
+  ⚠️ diff-2：depending who you ask → depending on who you ask（带上 on 哪儿都成立）· 补 people go（理由挂在人身上）
 
 - 备注 骨架与用法：
 ```
@@ -807,7 +810,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对0 连错2 上次2026-10-12 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -851,159 +854,12 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
   ★ 判据扩写：话题不止 For X —— 动名词短语／whether 从句摆在句首再用 it 回指，同属本条（问题是什么节补 ★ 行）
 - 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [8]（#284 题里）· `Whether a relationship can last long, it really boils down to whether both people are willing to talk things out.` —— whether 从句当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同一天第 2 行，§3.3 各记一次）
   最小改 `Whether a relationship can last long really boils down to whether both people are willing to talk things out.`
-
-### 453 · apartment complex（自己住的"小区"；⛔ our residential area）
-类型 词汇 ｜ 新建 2026-10-11
-状态 连对1 连错0 上次2026-10-12 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**apartment complex** ＝ 自己住的那片楼（几栋楼围在一起、有大门／物业）：`the stray cats in our apartment complex` ／ `There's a gym in our complex.`（熟了直接说 our complex）
-同一格里的邻居（别串）：neighborhood（住的这一带，范围更松，说"我们这片"也对）· residential area（城市里"一片住宅区"，跟商业区、工业区并列：`It's a quiet residential area.`）· building（一栋楼）。
-判据一句话：说"**我住的**小区" ⇒ apartment complex（或 neighborhood）；描述城市里一整片住宅区 ⇒ residential area。
-★ 题型判整句：要靠"我们小区门口／楼下"这种"自己住的地方"的语境，residential area 才会露馅；孤立的"小区"两个字两边都能落。
-★ 与 🎓#431（well planned out）分工：那条 10-08 的原话 `This new residential area is really well planned out` 是在描述一整片新开发的住宅区 ⇒ residential area 在那里成立，不回头改判。
-
-**怎么发现的**
-2026-10-11 学习日 在池第 2 组 [3]（#447 题面"小区楼下那几只流浪猫"）· 原话
-`those stray cats living downstairs in our residential area`
-stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 更地道是 our apartment complex ⇒ §3.2b 能学的表达 ⇒ 建号。
-判重三步：
-　① 目标形式 dedup "residential" ⇒ 🎓#18（历史行原话 residential and industrial use，考论元完整）· 🎓#431（10-08 原话 new residential area，考 well planned out）⇒ 否；dedup "complex" ⇒ 🎓#219（complicated vs complex，形容词）⇒ 否；dedup "apartment complex" ⇒ 零命中
-　② 中文 dedup "小区" ⇒ 🎓#428（be featured in）· 🎓#431（well planned out）· #447（stray）—— 只在题面里出现，没有一条考"小区怎么说" ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`in our residential area`　　更地道：`in our apartment complex`
-找法：说到"小区"先问一句 —— 是我住的那片楼，还是城市里的一个区？我住的 ⇒ apartment complex。
-
-**题面**
-"我们小区门口新开了一家水果店。"（"小区"用 **complex** 说）
-
-- 2026-10-11 ❌ 首犯 · 学习日 在池第 2 组 [3]（#447 题里）· diff-2 ⚠️ · 原话 `those stray cats living downstairs in our residential area` ⇒ 更好版 in our apartment complex
-- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [6] · `A new fruit store just opened up right outside our apartment complex.` —— our apartment complex（没落到 residential area）。连错 1 → 连对 1
-
-### 454 · cut back on ＋ 东西（少吃／少用／少花：cut back on sugar）
-类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-12 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**cut back on sth** ＝ 把某样东西的量减下来（少吃、少用、少花）：`cut back on the sugar` ／ `I'm trying to cut back on coffee.` ／ `We need to cut back on spending.`
-同一格里的邻居（别串）：cut down on（意思几乎一样，常说吃喝抽的量）· cut out（彻底戒掉、一点都不碰）· reduce（书面）。
-判据一句话：想说"少放点／少吃点／少花点"某样东西 ⇒ cut back on ＋ 那样东西（on 不能丢）。
-★ 题型判整句：中文"少吃点"单拎出来，eat less 也完全合法、收不拢 ⇒ 要靠句子 ＋ 正向点名才逼得出这个块；on 的挂接留给她。
-
-**怎么发现的**
-2026-10-11 学习日 复检第 3 组 [3]（#414 题面"这个菜谱我照着做了几次，自己稍微调了调，少放了点糖。"）· 原话
-`I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.`
-她写对了 cutting back on the sugar，但自己标「这个短语学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "cut back"／"cut down"／"cutting back" ⇒ 零命中
-　② 中文 dedup "少放"／"少吃"／"减少" ⇒ 🎓#265（good for you，题面里有"少吃"）· 🎓#285（give sb alternatives，题面里有"少吃"）—— 考点都不是"减量"这个块 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个短语学下」（用法本身对）　　目标：`cut back on the sugar`
-找法：说"少…点 X"，先落 cut back on X。
-
-**题面**
-"医生让我爸少吃点盐。"（"少吃点"用 **cut back on** 说）
-★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 cut back（on 留给她）
-
-- 2026-10-11 ❌ 首犯 · 学习日 复检第 3 组 [3]（#414 题里）· 她标「这个短语学下」· 原话 `I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.`
-- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [7] · `The doctor told my dad to cut back on salt.` —— cut back on salt。连错 1 → 连对 1
-
-### 455 · underprivileged（家境困难的、条件差的 —— 说"穷"的体面说法）
-类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-12 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**underprivileged** ＝ 家境困难、缺少基本条件的（说人，比 poor 体面，慈善、公益场合常用）：`underprivileged kids` ／ `underprivileged families` ／ `underprivileged communities`
-同一格里的邻居（别串）：poor（直白）· disadvantaged（几乎同义，略正式）· low-income（只说收入低）。
-判据一句话：慈善、公益、帮扶的语境里说"穷人家的／条件不好的" ⇒ underprivileged ＋ 人。
-★ 题型判词组：中文释义点明"说得体面一点、公益场合用的那个词"⇒ 收拢到 underprivileged；答 disadvantaged 也合法照判 ✅，答 poor ⇒ 没贴释义。
-
-**怎么发现的**
-2026-10-11 学习日 复检第 3 组 [5]（#416 题面"这家医院每年都办一场盛大的慈善晚会，给穷人家的孩子筹钱。"）· 原话
-`This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.`
-她写对了 underprivileged kids，但自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "underprivileged"／"poor families"／"disadvantaged" ⇒ 零命中
-　② 中文 dedup "贫困"／"穷人" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词学下」（用法本身对）　　目标：`underprivileged kids`
-找法：要说"贫困孩子／困难家庭"又不想直接说 poor，先落 underprivileged。
-
-**题面**
-"山区那些家境困难的孩子"（说得体面一点的"穷"，慈善、公益场合常用的那个词）
-
-- 2026-10-11 ❌ 首犯 · 学习日 复检第 3 组 [5]（#416 题里）· 她标「这个词学下」· 原话 `This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.`
-- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [8] · `underprivileged kids living in the mountain areas` —— underprivileged。连错 1 → 连对 1
-
-### 456 · crafted（手工／精心做出来的：a manually crafted request · a carefully crafted message）
-类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-12 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**craft** ＝ 花心思、一点点手工做出来；过去分词当形容词最常用：`a manually crafted network request`（手工构造的请求）· `a carefully crafted message`（精心写的一段话）· `hand-crafted furniture`（手工做的家具）。
-同一格里的邻居（别串）：make／write（普通的"做／写"，没有"花心思"那层）· handmade（说实物手工做的）· put together（拼凑出来）。
-判据一句话：想强调"不是现成的，是专门花心思一点点做出来的" ⇒ crafted（前面常挂 carefully／manually／hand-）。
-★ 题型判整句：中文"精心准备的"单拎出来 prepare／write 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名才逼得出这个词。
-
-**怎么发现的**
-2026-10-11 学习日 ③ 新题 bank:963（P2 · Describe a person who solved a problem in a smart way）S8 · 原话
-`he managed to inject a manually crafted(这个词学下) network request and started tracking it across the node logs.`
-她写对了 manually crafted，但自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "craft" ⇒ 零命中
-　② 中文 dedup "手工" ⇒ 🎓#161 #313 #317 —— 只在历史行"手工逐条记账"的字样里，考点都不是这个词 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词学下」（用法本身对）　　目标：`a manually crafted network request`
-找法：想说"专门手工做的／精心准备的"，先落 crafted，前面挂 carefully／manually。
-
-**题面**
-"他精心准备了一段生日祝福，吃饭时念给他妈妈听。"（"精心准备了"用 **carefully crafted** 说）
-★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 crafted（carefully 留给她）
-
-- 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S8 · 她标「这个词学下」· 原话 `he managed to inject a manually crafted(这个词学下) network request and started tracking it across the node logs.`
-- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [9] · `He carefully crafted a birthday message and read it to his mom during dinner.` —— carefully crafted a birthday message。连错 1 → 连对 1
-
-### 457 · build up ＋ 经验／积蓄（一点点攒起来：build up experience）
-类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-12 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**build up ＋ 东西** ＝ 在时间里一点点攒起来：`how much experience he'd built up` · `build up some savings` · `build up your stamina`（练出体力）· `build up trust`。
-同一格里的邻居（别串）：gain experience（获得经验，不强调慢慢攒）· accumulate（书面）· pile up（越堆越多，多说活儿、垃圾这类坏事：work piling up）· save up（专说攒钱：save up for a car）。
-判据一句话：时间里慢慢攒出来的好东西（经验、积蓄、体力、信任）⇒ build up ＋ 东西。
-★ 题型判整句：中文"攒了／积累了"单拎出来 gain／save／get 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-11 学习日 ③ 新题 bank:963（P2）S13 · 原话
-`Plus, his debugging setup was really handy, which showed how much experience he'd built up(这个词组学下).`
-她写对了 he'd built up，但自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
-判重三步：
-　① 目标形式 dedup "build up"／"built up" ⇒ 零命中
-　② 中文 dedup "积累" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：自己标「这个词组学下」（用法本身对）　　目标：`how much experience he'd built up`
-找法：想说"攒了／积累了"经验、积蓄、体力，先落 build up。
-
-**题面**
-"这几年我慢慢攒了一点积蓄。"（"攒了"用 **build up** 说）
-★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 build（up 留给她）
-
-- 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S13 · 她标「这个词组学下」· 原话 `Plus, his debugging setup was really handy, which showed how much experience he'd built up(这个词组学下).`
-- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [10] · `I've slowly built up a bit of savings over the past few years.` —— built up … savings。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [3] · `For college freshmen, their biggest headache is usually figuring out how to get along with their roommates.` —— For X 后面换了另一个主语（their biggest headache），不是回指的 they。连错 2 → 连对 1
+  ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **snuggle up** ＝ 舒舒服服地蜷着、贴着：`snuggle up to sb`（贴着某人）· `snuggle up on the couch`／`snuggle up in bed`（窝在沙发上／被窝里）· `snuggle up with a book`。
@@ -1031,10 +887,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 ★ 目标形式（教练看，⛔ 不进发题稿）：On rainy days, I just want to snuggle up on the couch with my daughter and watch a movie.
 
 - 2026-10-12 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#442 题里）· 她标「这个词组学下」· 原话 `My grandma's rabbit is super affectionate and loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).`
+- 2026-10-13 ✅ 学习日 在池第 1 组 [9] · `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.` —— snuggling up with ＋ 人。连错 1 → 连对 1 ｜ lounging 她标「背一下」⇒ 新建 #471
 
 ### 459 · in sb's arms（怀里）≠ in sb's lap（腿上）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **in sb's arms** ＝ 在某人怀里（被两条胳膊搂在胸前）：`a baby asleep in her arms` · `hold sb in your arms` · `snuggle into sb's arms`（钻进怀里）。
@@ -1060,10 +917,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 "睡在妈妈怀里的小婴儿"（被两条胳膊搂在胸前的那个位置，不是坐在腿上）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#442 题里）· 她说不会 · 原话 `… loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).` ⇒ 最小改 into people's arms
+- 2026-10-13 ✅ 学习日 在池第 1 组 [10] · `a baby sleeping peacefully in its mother's arms` —— in its mother's arms。连错 1 → 连对 1
 
 ### 460 · internship（实习）／intern（实习生）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **internship** ＝ 实习（那段经历）：`do an internship at a hospital` · `finish my internship` · `a summer internship`。
@@ -1089,10 +947,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 "大三暑假在一家广告公司做的那段实习"（边学边干、还没正式入职的那段经历）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 4 组 [1]（#368 题里）· 她标「这个背一下」· 原话 `After my cousin finished her internship（这个背一下), she landed a permanent job at that hospital.`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [1] · `that summer internship I did at an ad agency back in my junior year` —— internship。连错 1 → 连对 1
 
 ### 461 · a boom in sth／the X boom（热潮、一下子火起来；⛔ the boom of sth）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **boom** 说"某样东西一下子火起来"，两种挂法：`the bike-sharing boom`（东西放在 boom 前面）· `a boom in shared bikes`（后面接 **in**）。
@@ -1121,10 +980,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 目标形式（教练看，⛔ 不进发题稿）：There's been a real boom in camping over the past few years. ／ the camping boom
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 4 组 [3]（#370 题里）· diff-2 ⚠️ · 原话 `The boom of shared bikes created a completely new industry.` ⇒ 更好版 The boom in shared bikes
+- 2026-10-13 ✅ 学习日 在池第 2 组 [2] · `Camping has seen a real boom over the past few years.` —— X has seen a boom，没落到 the boom of X。连错 1 → 连对 1
 
 ### 462 · blackout（停电）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **blackout** ＝ 停电（一片区域整个断电）：`during the blackout` · `There was a blackout last night.`
@@ -1149,10 +1009,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 "昨晚小区突然停电的那两个小时"（整片楼一下子全黑了的那种）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 5 组 [1]（#236 题里）· 她标「这个单词背下」· 原话 `The blackout(这个单词背下) actually gave our family an excuse to put our phones down and just talk to each other.`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [3] · `those two hours during the blackout in our neighborhood last night` —— blackout。连错 1 → 连对 1
 
 ### 463 · talk sth through（一起把一件事一步一步聊透、商量清楚）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **talk through sth ／ talk sth through** ＝ 一起把一件事从头到尾过一遍、商量清楚：`talk through their tactics` · `Let's talk it through.`（宾语是代词 ⇒ 放中间）。
@@ -1178,10 +1039,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Before signing the contract, we sat down and talked through every clause.
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 6 组 [6]（#281 题里）· 她标「这个词组学下」· 原话 `During practice, the coach sometimes takes a step back and lets the team talk through(这个词组学下) their own tactics(背下).`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [4] · `Before starting the renovation, my parents and I sat down and talked through the design for every room.` —— talked through ＋ 宾语。连错 1 → 连对 1
 
 ### 464 · tactics（战术）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **tactics** ＝ 战术（比赛／打仗里具体怎么打）：`the team's tactics` · `change tactics at half-time`，常用复数。
@@ -1206,10 +1068,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 "教练中场休息时临时换的战术"（具体怎么打、怎么跑位的那种安排）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 6 组 [6]（#281 题里）· 她标「背下」· 原话 `During practice, the coach sometimes takes a step back and lets the team talk through(这个词组学下) their own tactics(背下).`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [5] · `the tactics the coach changed on the fly during halftime` —— tactics。连错 1 → 连对 1
 
 ### 465 · hydrated（水分够的、不缺水的：keep your skin hydrated · stay hydrated）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hydrated** ＝ 身体／皮肤里水分够、不缺水：`keep your skin hydrated` · `stay hydrated`（多喝水、别缺水）。
@@ -1235,10 +1098,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 目标形式（教练看，⛔ 不进发题稿）：When it's hot and you go out for a run, make sure you drink plenty of water and stay hydrated.
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [6]（#297 题里）· 她标「背一下」· 原话 `Drinking lots of water helps keep your skin hydrated（背一下).`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [6] · `When running outside in the heat, drink plenty of water to keep yourself hydrated.` —— keep yourself hydrated。连错 1 → 连对 1
 
 ### 466 · sign off (on sth)（签字确认、批准放行）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **sign off (on sth)** ＝ 签字确认、批准放行：`The manager has to sign off on the budget.` · `sign off at every stage`。
@@ -1264,10 +1128,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Your department manager has to sign off on the expense report before finance pays you back.
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [9]（#300 题里）· 她标「这个词组背一下」· 原话 `Someone needs to sign off(这个词组背一下) at every stage of this project.`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [7] · `The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).` —— 被动 be signed off by ＋ 人 成立。连错 1 → 连对 1 ｜ pays out 她标「学下」⇒ 新建 #472
 
 ### 467 · charge 的主语是收钱的一方（the lot charges you）；事情本身花多少钱 ⇒ cost（parking costs you）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对0 连错2 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **charge** ＝ 收钱，主语是**收钱的人／机构**：`The parking lot charges twenty bucks an hour.` · `They charge you for the bags.`
@@ -1295,10 +1160,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Parking lots downtown charge twenty yuan an hour.／They charge you twenty yuan an hour to park downtown.（⛔ Parking downtown charges …）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [1]（#288 题里）· diff-2 ⚠️ · 原话 `Once parking charges you twenty bucks an hour, you start asking whether taking the subway is a better deal.` ⇒ 更好版 parking costs you
+- 2026-10-13 ❌ 学习日 在池第 2 组 [8] · `Parking in the city center charges twenty bucks an hour.` —— "停车"这件事当了 charge 的主语 ⇒ 最小改 `Parking lots in the city center charge twenty bucks an hour.`（或 Parking … costs …）。连错 1 → 2
 
 ### 468 · reservoir（水库）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **reservoir** ＝ 水库（人工蓄水、供水用的那种）：`the reservoir east of the village` · `The reservoir supplies water to the whole city.`
@@ -1323,10 +1189,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 "给全城供水的那座水库"（山里修坝拦起来、专门蓄水的那种）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 8 组 [1]（#308 题里）· 她标「背下」· 原话 `This stream eventually empties into the reservoir(背下) east(to east 对不对) of the village.`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [9] · `that reservoir supplying water to the whole city` —— reservoir。连错 1 → 连对 1
 
 ### 469 · east of X ＝ to the east of X（在 X 的东边；⛔ to east of X）
 类型 搭配 ｜ 新建 2026-10-12 ｜ 她问
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 说"在 X 的东边"两种说法都对：**east of the village**（east 直接当方位词，不带 to、不带 the）· **to the east of the village**（要用 to 就得带 the）。
@@ -1354,10 +1221,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 ★ 零提示：forty kilometers north of the city ／ to the north of the city 都算对；只有 to north of 算掉
 
 - 2026-10-12 📝 新建 · 付息日 a2 段复检第 8 组 [1]（#308 题里）· 她问 · 原话 `… the reservoir(背下) east(to east 对不对) of the village.` —— 她写的 east of 本身对，不判档位
+- 2026-10-13 ✅ 学习日 在池第 3 组 [1] · `The new airport is forty kilometers north of the city.` —— north of the city，没落到 to north of。首测 ⇒ 连对 1
 
 ### 470 · with its siren blaring（鸣着笛；警笛 siren · 刺耳地响 blare）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对0 连错1 上次2026-10-12 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-13 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **with ＋ 名词 ＋ -ing** ＝ 伴随状态："鸣着笛" ⇒ `with its siren blaring`（好几辆 ⇒ `with sirens blaring`）。
@@ -1380,10 +1248,297 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 找法：说"鸣笛"先分车 —— 特种车 ⇒ siren，普通车 ⇒ honk。
 
 **题面**
-"半夜一辆消防车鸣着笛从我家楼下开过去。"（"鸣着笛"用 **siren** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：In the middle of the night, a fire truck drove past my building with its siren blaring.
+"一辆警车鸣着笛从我们旁边飞快地开了过去。"（"鸣着笛"用 **siren** 和 **blare** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：A police car sped past us with its siren blaring.
+★ 2026-10-13 补点名 blare：只点 siren 时她答 with its siren on（合法、判 ✅），blaring 没出来；场景同时避开"楼下"（那是 #473 的考点）。
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 8 组 [9]（#311 题里）· 她说不会 · 原话 `With its siren blaring（鸣笛怎么说，学下）, the ambulance wove its way through the heavy traffic.`
+- 2026-10-13 ✅ 学习日 在池第 2 组 [10] · `A fire truck passed right under my building in the middle of the night with its siren on.` —— with its siren on 合法、siren 用对（题面只点了 siren）；目标 with its siren blaring 没出来 ⇒ 种子补点名 blare、场景换掉"楼下"。连错 1 → 连对 1 ｜ under my building ⇒ 新建 #473
+
+### 471 · lounge（懒洋洋地躺着／窝着放松：lounge on the couch · lounge by the pool · lounge around）
+类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-13 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**lounge** ＝ 舒舒服服、懒洋洋地躺着／靠着，什么正事都不干 —— 后面接地点：`lounge on the couch` · `lounge by the pool` · `lounge in bed`；
+不接地点就说 `lounge around (the house) all day`。
+同一格里的邻居（别串）：snuggle up（#458：跟人贴着窝在一起）· curl up（身体蜷起来）· laze around（偏"游手好闲、混日子"）·
+veg out（很口语，"瘫着放空"）· 名词 lounge ＝ 休息室（airport lounge），另一个意思。
+判据一句话：一个人放松地瘫着、躺着 ⇒ lounge；跟人贴着窝在一起 ⇒ snuggle up。
+★ 与 #458 的分工：两条出自同一句，#458 考 snuggle up（贴着人），本条考 lounge（自己瘫着）⇒ 两个词，各走各的。
+★ 题型判整句："懒洋洋地躺着"能落到 lie around／laze around／chill 一串合法说法，中文块映射不回唯一的 lounge ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-13 学习日 在池第 1 组 [9]（#458 题面"下雨天我就想窝在沙发上，跟我女儿依偎在一起看电影。"）· 原话
+`On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.`
+她写对了 lounging，但自己标「背一下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 🎓#433 先例）。
+判重三步：
+　① 目标形式 dedup "lounge" ⇒ 零命中；"couch"／"sofa" ⇒ 只命中 #458（snuggle up，考点是另一个词）⇒ 否
+　② 中文 dedup "窝在" ⇒ 只命中 #458 的题面字样 ⇒ 否；"laze"／"veg out"／"lie around"／"curl up" ⇒ 只命中 🎓#73 stuck with 的字串，无关 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（词不在手边）　　目标：`lounging on the couch`
+找法：说"窝着／瘫着／懒洋洋地躺着"先落 lounge，再补地点介词（on the couch ／ by the pool）。
+
+**题面**
+"周日下午我哪儿都不想去，就想在泳池边懒洋洋地躺着晒太阳。"（"懒洋洋地躺着"用 **lounge** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I don't want to go anywhere on Sunday afternoon — I just want to lounge by the pool and soak up the sun.
+★ 互斥：本条题面 ⛔ 不出"依偎／贴着人"（那是 #458）。
+
+- 2026-10-13 ❌ 首犯 · 学习日 在池第 1 组 [9]（#458 题里）· 她标「背一下」· 原话 `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.`
+
+### 472 · pay out（机构按约定把一笔钱付出去、赔付：The insurance company paid out 20,000 yuan）
+类型 词组 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-13 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pay out** ＝ 把一笔（通常不小的）钱按约定／规定付出去 —— 保险赔付、奖金、赔偿：
+`The insurance company paid out 20,000 yuan.` · `The lottery pays out millions every week.`　名词 **payout**（一笔赔付／奖金）。
+同一格里的邻居（别串）：pay sb back（把欠的、垫的钱还给某人 —— 报销打钱给你就是这个）· reimburse sb（报销，偏正式）·
+pay off（还清债；也指"有回报"）。
+判据一句话：机构按约定付出去一笔钱 ⇒ pay out；把你垫的钱还给你 ⇒ pay you back。
+★ 题型判整句："赔了／发了一笔钱"能落到 pay／compensate 一串合法说法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-13 学习日 在池第 2 组 [7]（#466 题面"报销单得先让部门经理签字，财务才会打钱。"）· 原话
+`The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 🎓#433 先例）。
+pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她 2026-10-09 说过 `I forgot to pay her back ten bucks`）⇒ 写进邻居，不另建号。
+判重三步：
+　① 目标形式 dedup "pay out"／"pay back"／"reimburse" ⇒ 只命中 #466 sign off（今天这句的题面与历史行字样）⇒ 否，两个词组
+　② 中文 dedup "报销"／"打钱"／"赔" ⇒ 只命中 #466（同上）；"pay off"／"payout" ⇒ 只命中 🎓#264 a sense of（payoff 是它的反例字样）、🎓#363（字串）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（块不在手边）　　目标：`pay out`（报销这句更贴的是 `pays you back`）
+找法：说"赔了／发了／打了一笔钱"先想是谁付、为什么付 —— 机构按约定付 ⇒ pay out；还你垫的 ⇒ pay you back。
+
+**题面**
+"车被撞了以后，保险公司最后赔了我们两万块。"（"赔了"用 **pay out** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：After our car got hit, the insurance company ended up paying out twenty thousand yuan.
+
+- 2026-10-13 ❌ 首犯 · 学习日 在池第 2 组 [7]（#466 题里）· 她标「这个词组学下」· 原话 `The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).`
+
+### 473 · "从楼下（街上）经过" ⇒ past／by my building · under my window（⛔ under my building）
+类型 搭配 ｜ 新建 2026-10-13
+状态 连对0 连错1 上次2026-10-13 未毕业 ｜ 题型 整句
+
+**问题是什么**
+中文"楼下"有时指**楼外那条街**："一辆车从我家楼下开过去" ⇒ `drove past my building` ／ `went by under my window` ／ `outside my building`。
+⛔ **under my building** ＝ 楼的正底下（地下车库那一层），车过不去。
+同一格里的邻居（别串）：楼里的下一层 ⇒ downstairs (from X)（🎓#436）· 楼门口 ⇒ outside／in front of my building ·
+窗户底下 ⇒ under my window（under 挂 window 可以，挂 building 不行）。
+判据一句话：under 后面那个东西，车／人真能从它正下方过吗？building ⇒ 不能 ⇒ 换 past／by／outside。
+★ 与 🎓#436 分工：#436 考"楼里下一层"的静态位置（downstairs from X），本条考"楼外街上经过"⛔ 落到 under my building。
+★ 与 🎓#62 分工：#62 考 past 是介词、不是动词 pass；本条考 under 挂 building 的空间关系。
+
+**怎么发现的**
+2026-10-13 学习日 在池第 2 组 [10]（#470 题面"半夜一辆消防车鸣着笛从我家楼下开过去。"）· 原话
+`A fire truck passed right under my building in the middle of the night with its siren on.`
+判重三步：
+　① 目标形式 dedup "under my"／"past my" ⇒ 只命中 #470（今天的历史行／题面字样）⇒ 否；"drive past"／"开过" ⇒ 🎓#62（past vs pass）⇒ 否，考点不同（见上）
+　② 中文 dedup "楼下" ⇒ 🎓#436 downstairs from（楼里下一层，静态位置）⇒ 否，场景不同；🎓#447 #453（题面字样，考点 stray／apartment complex）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`passed right under my building`　　正确：`passed right by my building`（或 `drove past my building` ／ `went by under my window`）
+找法：说完 under ＋ 名词，回头问一句 —— 东西真在它正下方吗？
+
+**题面**
+"每天早上六点，都有一辆垃圾车从我家楼下开过去。"
+　　★ 零提示：past／by my building · under my window · on the street outside 都算对；她要改掉的是 under my building
+★ 目标形式（教练看，⛔ 不进发题稿）：Every morning at six, a garbage truck drives past my building.
+★ 互斥：与 #470 同组时，#470 题面 ⛔ 不出"楼下"。
+
+- 2026-10-13 ❌ 首犯 · 学习日 在池第 2 组 [10]（#470 题里）· 原话 `A fire truck passed right under my building in the middle of the night with its siren on.` ⇒ 最小改 passed right by my building
+
+### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
+类型 搭配 ｜ 新建 2026-10-13
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+说住的地方、酒店**交通方便**（从这儿出门去别处方便）：`The apartment is really convenient for getting around.` · `It's close to public transport.`
+⛔ **X is convenient／easy to get around** ＝ 在 X **里面**走动方便（`The city is easy to get around.`）——
+挂在一套房子上就成了"在屋里走来走去方便"。
+同一格里的邻居（别串）：🎓#50 easy vs convenient（convenient ＝ 方式省事；难度低 ⇒ easy）·
+The city is easy to get around（城市本身好逛，主语就是 get around 的地方）。
+判据一句话：get around 的是主语本身（城市、景区）⇒ X is easy to get around；从这儿出发去别处（房子、酒店）⇒ convenient for getting around ／ close to public transport。
+★ 与 🎓#50 分工：#50 判"难度低该用 easy、不用 convenient"；本条判 get around 的对象挂错了（换成 easy to get around 照样错）⇒ 两条。
+★ 题型判整句：考点是 get around 挂在谁身上，要靠句子才现形；零提示（合法说法很多，考的是别落到 the place is convenient to get around）。
+
+**怎么发现的**
+2026-10-13 学习日 复检第 4 组 [1]（🎓#96 题面"我想租一套不吵、交通又方便的房子。"）· 原话
+`I'm looking to rent a place that's quiet and convenient to get around.`
+diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient to get around 字面是"在这地方里面走动方便" ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "get around"／"public transport"／"交通" ⇒ 🎓#45 walk to work · 🎓#218 traffic management（题面字样）⇒ 否，无关
+　② dedup "convenient" ⇒ 🎓#50 easy vs convenient ⇒ 否：#50 管"难度低用 easy"，本条管 get around 的对象（换 easy 照样错）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a place that's quiet and convenient to get around`　　更地道：`a place that's quiet and convenient for getting around`（或 `close to public transport`）
+找法：说完 X is convenient／easy to get around，回头问一句 —— 是在 X 里面走，还是从 X 出发？从 X 出发 ⇒ 换 for getting around。
+
+**题面**
+"我们住的酒店就在地铁站旁边，出去玩交通特别方便。"
+　　★ 零提示：convenient for getting around ／ close to the subway ／ easy to get around from there 都算对；她要改掉的是 the hotel is convenient to get around
+★ 目标形式（教练看，⛔ 不进发题稿）：Our hotel is right next to the subway station, so it's really convenient for getting around.
+
+- 2026-10-13 新建 · 学习日 复检第 4 组 [1]（#96 题里）· diff-2 ⚠️ · 原话 `I'm looking to rent a place that's quiet and convenient to get around.` ⇒ 更好版 convenient for getting around
+
+### 475 · amateur（业余的：an amateur soccer tournament · an amateur photographer）
+类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-13 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**amateur** ＝ 业余的（不靠这个吃饭）：`amateur athletes` · `an amateur photographer`；也能当名词 `an amateur`（业余爱好者）。
+读音 AM-uh-ter，重音在第一个音节。
+同一格里的邻居（别串）：professional（职业的）· 口语里 amateur 还有"外行、水平不行"的意思（`That looks so amateur.`）。
+判据一句话：不靠它吃饭 ⇒ amateur；靠它吃饭 ⇒ professional。
+★ 题型判词组：中文块"业余足球队"映射回 an amateur soccer team。
+
+**怎么发现的**
+2026-10-13 学习日 复检第 4 组 [3a]（🎓#433 题面"市里业余足球赛的半决赛"）· 原话
+`the semifinals of the city's amateur（背一下） soccer tournament`
+她写对了 amateur，但自己标「背一下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 🎓#433 先例）。
+判重三步：
+　① 目标形式 dedup "amateur" ⇒ 零命中
+　② 中文 dedup "业余" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（词不在手边）　　目标：`amateur`
+找法：说"业余的 X"先落 amateur。
+
+**题面**
+"周末才凑在一起踢球的那支业余足球队"（不靠踢球吃饭、下了班一起玩的那种）
+
+- 2026-10-13 ❌ 首犯 · 学习日 复检第 4 组 [3a]（#433 题里）· 她标「背一下」· 原话 `the semifinals of the city's amateur（背一下） soccer tournament`
+
+### 476 · stubborn（倔、认死理：脾气倔 ⇒ He's so stubborn；⛔ has a stubborn temper）
+类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-13 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stubborn** ＝ 倔、认死理、劝不动：`My dad is so stubborn.` · `a stubborn kid`。
+说"脾气倔" ⇒ **人当主语 ＋ be stubborn**（或 `have a stubborn streak`：有一股倔劲）。
+同一格里的邻居（别串）：temper ＝ 爱发火的那种脾气（a bad／short temper · lose one's temper）⇒ "脾气倔" ⛔ 不挂 temper ·
+headstrong（任性、一意孤行）· set in one's ways（老习惯改不了，多说老人）。
+判据一句话：倔、劝不动 ⇒ sb is stubborn；爱发火 ⇒ sb has a temper。
+★ 题型判整句："脾气倔"挂人还是挂 temper 要靠句子才现形；她点名要背 ⇒ 第一次点 stubborn。
+
+**怎么发现的**
+2026-10-13 学习日 复检第 4 组 [8]（🎓#383 题面"我老板脾气特别倔，跟他讲道理根本没用。"）· 原话
+`My boss has such a stubborn(背一下) temper that it's impossible to reason with him.`
+她自己标「背一下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 🎓#433 先例）。
+同句 ⚠️ has such a stubborn temper → is so stubborn（temper 是爱发火的脾气）⇒ 写进本条判据，不另建号。
+判重三步：
+　① 目标形式 dedup "stubborn" ⇒ 零命中；"temper" ⇒ 🎓#394 throw a tantrum（撒泼）⇒ 否
+　② 中文 dedup "倔" ⇒ 零命中；"脾气" ⇒ 🎓#394 · 🎓#262（题面字样）· 🎓#429 hold a grudge（记仇）⇒ 都不是"倔" ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`My boss has such a stubborn temper`（stubborn 她标要背）　　更地道：`My boss is so stubborn that …`
+找法：说"脾气 X"先想 X 是哪种 —— 倔 ⇒ He's stubborn；暴 ⇒ He has a bad temper。
+
+**题面**
+"我爷爷脾气特别倔，医生让他戒烟，他就是不听。"（"脾气倔"用 **stubborn** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My grandpa is super stubborn — the doctor told him to quit smoking, but he just won't listen.
+
+- 2026-10-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#383 题里）· 她标「背一下」· 原话 `My boss has such a stubborn(背一下) temper that it's impossible to reason with him.` ⇒ 更好版 My boss is so stubborn that …
+
+### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**make ＋ 东西 ＋ feel special** ＝ 让某天／某件事显得特别、跟平常不一样：
+`A nice dinner makes the day feel special.` · `Little things like that make birthdays feel special.`
+同一格里的邻居（别串）：feel ＋ 形容词（feel special）vs feel like ＋ 名词（🎓#351 it feels like a mini-escape）·
+make sb feel special（让人觉得被重视，挂人）。
+判据一句话：想说"让 X 不同于平常、有仪式感" ⇒ make X feel special；⛔ 别去够 elevate … above ordinary routine 这类写作块（🎓#206 同族）。
+★ 题型判整句："让…变得特别"能落到 make it special／make it memorable 一串合法说法，make ＋ 宾语 ＋ feel 的挂法要靠句子现形 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296（P3 · Why are some people willing to spend a lot of money on meals on special days?）S1 · 原话
+`… they are purchasing an unforgettable experience and a sense of ritual that elevates the day above ordinary routine.`
+diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历年原话：feel special 零命中）⇒ §3.2b 不走书面登记，照常建号。
+判重三步：
+　① 目标形式 dedup "feel special" ⇒ 零命中
+　② 中文 dedup "特别" ⇒ 🎓#289 obsessed · 🎓#429 grudge 等，只是"特别"字样 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a sense of ritual that elevates the day above ordinary routine`　　更地道（口语）：`a sense of ritual that makes the day feel special`
+找法：想说"让…显得特别／不一样"，先落 make it feel special。
+
+**题面**
+"生日那天朋友们给我准备了一个小惊喜，让这一天变得特别不一样。"（"变得特别不一样"用 **feel special** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My friends planned a little surprise for my birthday, which made the day feel really special.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S1 · diff-2 ⚠️ 书面块 · 原话 `… a sense of ritual that elevates the day above ordinary routine.` ⇒ 更好版 makes the day feel special
+
+### 478 · show how much you care（用行动表心意：It's a way of showing how much you care；⛔ acts as a tangible signal of love）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**show (sb) how much you care ／ how much you love them** ＝ 用行动表达心意：
+`Cooking for someone is a way of showing how much you care.` · `It shows how much you love them.`
+how much 后面用陈述语序（🎓#59）。
+同一格里的邻居（别串）：a (tangible) sign of love（名词说法，tangible 搭 sign 不搭 signal）· mean a lot to sb（对某人意义重大）。
+判据一句话：说"表达心意／爱" ⇒ show how much you care；⛔ 别去够 acts as a tangible signal of …（🎓#206 同族）。
+★ 题型判整句：how much 后面的主语 ＋ 动词要靠句子现形；新表达第一次出题点 show how much。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296 S2 · 原话
+`Plus, Spending generously on a meal acts as a tangible signal of love and appreciation.`
+diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历年原话：show how much／a way of showing 零命中）⇒ §3.2b 照常建号。
+判重三步：
+　① 目标形式 dedup "how much you care" ⇒ 零命中；"how much" ⇒ 🎓#59 嵌入疑问陈述语序（规则，不是这个表达）· 🎓#396 等字样 ⇒ 否
+　② 中文 dedup "心意" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`acts as a tangible signal of love and appreciation`　　更地道（口语）：`is a way of showing how much you love and appreciate someone`
+找法：想说"表达心意"，先落 show how much ＋ 主语 ＋ care／love。
+
+**题面**
+"我妈每次都给我寄一大箱家乡特产，这是她表达心意的方式。"（"表达心意"用 **show how much** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom always sends me a huge box of local specialties from home — it's her way of showing how much she cares.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S2 · diff-2 ⚠️ 书面块 · 原话 `Plus, Spending generously on a meal acts as a tangible signal of love and appreciation.` ⇒ 更好版 is a way of showing how much you love and appreciate someone
+
+### 479 · bring sb closer (together)（拉近感情；⛔ provides a space to deepen their emotional connection）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**bring ＋ 人 ＋ closer (together)** ＝ 让人感情更近：`Cooking together brings us closer.` · `The trip really brought the two of them closer together.`
+不带宾语：grow closer ／ get closer。
+同一格里的邻居（别串）：get everyone together（把人聚齐 —— 她 2026-09-19 说过，是"人到齐"不是"感情近"）· bond (with sb)（培养感情）。
+判据一句话：人到齐 ⇒ get everyone together；感情变近 ⇒ bring sb closer。
+★ 题型判整句：bring ＋ 人 ＋ closer 的宾语位置要靠句子现形；新表达第一次出题点 closer。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296 S3 · 原话
+`It provides a unique space for family or partners to deepen their emotional connection.`
+diff-2 ⚠️（不是 ❌）：书面块（心理学文章腔），口语版她没产出过（扫她历年原话：closer／bond 零命中；getting everyone together 意思不同）⇒ §3.2b 照常建号。
+判重三步：
+　① 目标形式 dedup "closer"／"together" ⇒ 零命中
+　② 中文 dedup "感情" ⇒ 🎓#440 sentimental · 🎓#363 appeal to emotions（"情绪"字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`It provides a unique space for family or partners to deepen their emotional connection.`　　更地道（口语）：`A meal like that brings family or partners closer together.`
+找法：想说"拉近感情／关系更好了"，先落 bring … closer。
+
+**题面**
+"一起照顾那只小狗，让我们一家人感情近了不少。"（"感情近了"用 **closer** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Taking care of that puppy together really brought our family closer.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S3 · diff-2 ⚠️ 书面块 · 原话 `It provides a unique space for family or partners to deepen their emotional connection.` ⇒ 更好版 brings family or partners closer together
 
 ## 迁移说明（2026-08-18）
 

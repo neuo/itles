@@ -7206,3 +7206,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 15⇄3
 
 **下一场 ＝ 周期 12 · L1**：#458–#470 首测 ＋ 回潮 #126 #290 #347 ＋ #453–#457；复检 1 组；回看；新题 1 道
+
+## 2026-10-13（周二）· 口语 L1（周期 12 第 1 个学习日）
+
+> 日期：开场美东 10-13 21:00，按中午分界属 10-13。开场先补了 10-12 的收尾并推 main。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 456 ＝ problems.md 35 ＋ graduated.md 421 ｜ 🎓 421（92.3%）｜ 未毕业 35 ｜ 可出题 25 ｜ ⚡ 累计 263 条、掉过 13 ｜ 重答队列 68 / 未重答 48
+
+**五段**
+- ① 在池 3 组 21 题 / 21 条：**✅20 ❌1**（#467 `Parking in the city center charges …` ⇒ 停车这件事当了 charge 的主语）⇒ **毕业 5**（#453–#457）；#126 #290 #347 回潮后第一次全对
+- ①b 复检 1 组 10 题 / 14 条：**✅14 ❌0**
+- ② 回看：无（10-12 已回看本周期三篇）
+- ③ 新题 bank:1296（P3 · Why are some people willing to spend a lot of money on meals on special days?）：真错 0 ｜ 整篇写作腔：purchasing（🎓#206 📝）· elevates … · tangible signal · deepen emotional connection ⇒ 新建 3 ｜ S3 It 指代不清 ｜ 缺一个具体例子
+- 新建 9：#471 lounge · #472 pay out · #473 楼下 ≠ under my building · #474 convenient for getting around · #475 amateur · #476 stubborn · #477 make sth feel special · #478 show how much you care · #479 bring sb closer
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 5⇄0
+
+**下一场 ＝ 周期 12 · L2**：#471–#479 首测 ＋ #467 ＋ 连对1 的 15 条；复检 1 组；回看 bank:1296；新题 1 道

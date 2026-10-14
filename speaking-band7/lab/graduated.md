@@ -798,7 +798,7 @@ always ＋ 习惯动词是常见夸张，⛔ 不算错 ⇒ 题面把 often／alw
 
 ### 23 · 固定词序整块背（back and forth · now and then · sooner or later · more or less）
 类型 词组 ｜ 旧号 B45
-状态 连对2 连错0 上次2026-09-27 ｜ **回潮 2026-09-05**（08-19 毕业 → 09-05 复检答"忘了"、在 forward／forth 之间不确定，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-13 ｜ **回潮 2026-09-05**（08-19 毕业 → 09-05 复检答"忘了"、在 forward／forth 之间不确定，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）｜ 题型 词组
 **问题是什么**
 **固定词序整块背**：back and forth · now and then · sooner or later · more or less ·
 give or take · sick and tired · safe and sound —— 词序焊死（back and forth ✅ ／ forth and back ❌）。
@@ -840,6 +840,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉词数／首字母／排除项；to and fro 同样算对
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3e]（打包）· `running back and forth between home and the hospital every day` —— back and forth
 
 ### 24 · 搭配三件（work FROM home · handle orders · sales 恒复数不带 the）
 类型 搭配 ｜ 旧号 B47
@@ -3402,7 +3403,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
 类型 结构 ｜ 旧号 B163
-状态 连对2 连错0 上次2026-10-10 ｜ 旧账 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ 旧账 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
@@ -3444,6 +3445,8 @@ no 一路盖到 and 后面那半。两条解法：
   ❌ no／not … and … ⇒ 把 and 后面那半单独接回否定念一遍，意思变了就拆
 - 2026-10-09 ✅ 学习日 在池第 1 组 [1] · `I want to get a car that doesn't burn much gas and has plenty of room.` —— doesn't 只盖 burn much gas，has 带 -s 是独立谓语，没被否定盖住。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [2] · `I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.` —— doesn't 只盖 shed，is 是独立谓语，没被否定盖住。连对 1 → 2 ⇒ **毕业** ｜ 她标学 shed／affectionate ⇒ 另建 #441 #442
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [1] · `I'm looking to rent a place that's quiet and convenient to get around.` —— quiet and convenient 并列，没有否定辖域被读反
+  ⚠️ diff-2：convenient to get around → convenient for getting around ⇒ 新建 #474
 - 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
   单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
   ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
@@ -7341,6 +7344,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-10-04 📝 书面登记 · 付息日 d 段重答 bank:1326 [S2] · `It’s through real-world application that you truly learn …` → actually using it（同篇 S1 她自己说了 actually use it in real life；状态行不动）
 - 2026-10-11 📝 学习日 ③ 新题 bank:963（P2 · 机智解决问题的人）S9 · **书面登记，不判回潮**（状态行不动）· `the routing table configuration had been changed, causing the connection failure.` → `…, which is why our app couldn't connect.`
   ★ 分词 ＋ 抽象名词（connection failure）收尾 ＝ 事故报告体；口语版 that's why ＋ 小句她 05-28 自己说过（`that's why he loves drawing`）⇒ 归本条，不另建号
+- 2026-10-13 📝 书面登记 · 学习日 ③ 新题 bank:1296（P3 · 特殊日子花大钱吃饭）S1 · **不判回潮**（状态行不动）· `they are purchasing an unforgettable experience` → `they are paying for …`（同句前半她自己说了 paying for）；同篇另三块书面块口语版她没产出过 ⇒ §3.2b 新建 #477 #478 #479
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -15890,7 +15894,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 联系方式（电话号码／邮箱）挂在"联系某人"后面时，前面的介词是 **at**：
@@ -15925,10 +15929,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 1 组 [10] · `Here's my business card—feel free to contact me at the number listed here.` —— contact me at the number，号码前面是 at，没被"通过"带成 through。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [3] · `If you have any questions, you can contact us at this email address.` —— contact us at this email address，"通过"没带出 through。连对 1 → 2 ⇒ **毕业**
 - 2026-10-06 ✅ 学习日 复检第 3 组 [1]（题面"预约有变的话，可以通过下面这个电话号码联系我们诊所"）· `If you need to change your appointment, feel free to contact our clinic at the number below.` —— 号码前用 at
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [7] · `If anything comes up at school, the teacher can contact me at this number.` —— contact me at this number
 
 ### 382 · leash（狗绳）／keep a dog on a leash ＝ keep a dog leashed（拴着狗绳）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **leash** ＝ 遛狗用的牵引绳（名词）；拴着狗绳 ＝ **keep the dog on a leash** ／ **keep the dog leashed**。
@@ -15956,10 +15961,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [1] · `a leash.` —— leash 调出来了。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [4] · `Community rules require dogs to be kept on a leash.` —— kept on a leash。连对 1 → 2 ⇒ **毕业**
 - 2026-10-06 ✅ 学习日 复检第 3 组 [2]a（题面"宠物店里卖的那种可以伸缩的狗绳"）· `a retractable leash`
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3c]（打包）· `a big off-leash dog running around in the park` —— off-leash
 
 ### 383 · reason with sb（跟某人讲道理）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 **reason with sb** ＝ 跟某人讲道理、摆道理想让他想通；reason 在这里是动词，后面接 **with ＋ 人**：
@@ -15991,10 +15997,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-03 ✅ 学习日 在池第 1 组 [5] · `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.` —— 点名降到 reason，with 自己补上了。连对 1 → 2 ⇒ **毕业**
   ｜她自注「这个词背一下」⇒ throw a tantrum 另建 #394
 - 2026-10-06 ✅ 学习日 复检第 3 组 [3]（题面"他喝醉了，你现在跟他讲道理也没用"）· `He's wasted, so it's useless trying to reason with him right now.`
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [8] · `My boss has such a stubborn(背一下) temper that it's impossible to reason with him.` —— reason with him ｜ stubborn 她标「背一下」⇒ 新建 #476
 
 ### 384 · nod off（打瞌睡、坐着不知不觉睡过去）
 类型 词组 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 词组
 
 **问题是什么**
 **nod off** ＝ 坐着撑不住、头一点一点地睡过去（多半是不想睡却睡着了）；**doze off** 同义：
@@ -16022,10 +16029,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [3] · `I kept nodding off halfway through the movie.` —— nod off。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [6] · `Nodding off against the subway window.` —— nod off。连对 1 → 2 ⇒ **毕业**
 - 2026-10-06 ✅ 学习日 复检第 3 组 [2]b（题面"上网课上到一半打起了瞌睡"）· `nodding off halfway through an online class`
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3d]（打包）· `nodding off on a long-distance bus ride` —— nodding off
 
 ### 385 · （The）last time I ＋ 过去式 ＋ WAS ＋ 时间（上次…是…；⛔ 漏 was）
 类型 句型 ｜ 新建 2026-10-01
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"上次做某事是什么时候"，**(The) last time I went there** 整块当主语，后面用 **was** 接时间：
@@ -16054,10 +16062,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 2 组 [4] · `The last time I visited my hometown was three years ago.` —— The last time 整块当主语，后面补了 was。连错 1 → 连对 1
 - 2026-10-03 ✅ 学习日 在池第 1 组 [7] · `The last time I went to the cinema was last summer.` —— 整块当主语，后面补了 was。连对 1 → 2 ⇒ **毕业**
 - 2026-10-06 ✅ 学习日 复检第 3 组 [4]（题面"我上次坐飞机还是疫情之前"）· `The last time I was on a plane was back before the pandemic.` —— was 没漏
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [9] · `The last time I saw my college roommate was when she got married.` —— The last time I saw … was when …
 
 ### 386 · four or five days（约数：两个数字连着说完再接名词；⛔ four days or five）
 类型 结构 ｜ 新建 2026-10-01
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-03**（连对2 ＝ 10-02 ＋ 10-03）｜ 题型 整句
 
 **问题是什么**
 说"四五天／两三周"这类约数，**两个数字放在一起、名词放最后**：`four or five days` ／ `two or three weeks`（`four to five days` 也对）。
@@ -16083,6 +16092,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   ｜她自注「读完学习下」⇒ get through 另建 #390
 - 2026-10-03 ✅ 学习日 在池第 1 组 [8] · `I go to the gym about two or three times a week.` —— two or three times，两个数字说完再接名词。连对 1 → 2 ⇒ **毕业**
 - 2026-10-06 ✅ 学习日 复检第 3 组 [5]（题面"我们这次旅行大概要花五六千块钱"）· `We're looking at around five to six thousand yuan for this trip.` —— 两个数连着说完再接单位
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [10] · `This dish needs to be braised slowly for two or three hours to taste its best.` —— two or three hours
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
@@ -16351,7 +16361,7 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对2 连错0 上次2026-10-10 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -16386,6 +16396,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
   ❌ at stake 放在 be 后面；on the line 同义可留，但本条要练的 at stake 没调出来
 - 2026-10-09 ✅ 学习日 在池第 1 组 [2] · `This exam is crucial—my graduation is completely at stake.` —— is … at stake，at stake 放在 be 后面。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [3] · `This lawsuit is a huge deal—his entire fortune is at stake.` —— is at stake。连对 1 → 2 ⇒ **毕业**
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [2] · `There's a lot riding on this project; our team's funding for next year is at stake.` —— funding is at stake
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -17546,7 +17557,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 433 · semi-final（半决赛）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
 
 **问题是什么**
 **semi-final** ＝ 半决赛（也写 semifinal）；the semi-finals ＝ 半决赛那一轮（有两场，所以常用复数）。
@@ -17572,10 +17583,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#415 题里）· 她标「这个词背下」· 原话 `She made it to the semifinals(这个词背下) the first time she entered a singing competition.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [1] · `the World Cup semifinals` —— semifinal（复数指半决赛那一轮，贴题面）。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [5] · `the semifinals of the Tennis Open` —— semifinal。连对 1 → 2 ⇒ **毕业**
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3a]（打包）· `the semifinals of the city's amateur（背一下） soccer tournament` —— the semifinals ｜ amateur 她标「背一下」⇒ 新建 #475
 
 ### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
 类型 搭配 ｜ 新建 2026-10-08
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
 
 **问题是什么**
 **consecutive** ＝"一个接一个"，至少两个单位才连得起来：three consecutive days ／ for the third consecutive year。
@@ -17603,10 +17615,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 1 组 [10]（#420 题里）· 原话 `Working overtime for a consecutive month left me totally burnt out.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [2] · `He slept only four hours a night for a week straight.` —— for a week straight，没用 consecutive。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [6] · `It's rained for ten straight days in this city, so my clothes won't even dry.` —— ten straight days（＝ ten days straight），没用 consecutive。连对 1 → 2 ⇒ **毕业**
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [4] · `I've worked overtime three weekends straight.` —— three weekends straight
 
 ### 435 · succulent（多肉植物）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
 
 **问题是什么**
 **succulent** ＝ 多肉植物（名词，可数：a succulent ／ succulents）；当形容词是"多汁的"（succulent steak）。
@@ -17633,10 +17646,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [5]（#426 题里）· 她标「这个词背下」· 原话 `A few small succulent(这个词背下) pots placed on the windowsill.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [3] · `that small succulent sitting on my desk` —— succulent。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [7] · `a row of succulents on the windowsill` —— succulents。连对 1 → 2 ⇒ **毕业**
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3b]（打包）· `a small potted succulent bought at the flower market` —— succulent
 
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
 
 **问题是什么**
 **downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
@@ -17664,10 +17678,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [4] · `A new convenience store just opened downstairs from my place, which makes grabbing stuff way easier.` —— downstairs from my place。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [8] · `There's a coffee shop downstairs from our company, with a huge line every morning.` —— downstairs from ＋ 地方。连对 1 → 2 ⇒ **毕业** ｜ ⚠️ our company → our office ⇒ 另建 #443
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [5] · `The elderly couple downstairs from our place gets up at five every morning to do Tai Chi.` —— downstairs from our place
 
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
 
 **问题是什么**
 逗号后面的 **which** 可以指前面**一整件事**（不只是前面那个名词），后面常用"主语 ＋ 助动词"把前面的动作省掉：
@@ -17694,6 +17709,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ❌ 首犯 · 付息日 d 段重答 bank:364 [S5] · 她标「这个 which 的用法可以学一下」· 原话 `you'd see people eating them all the time, which they don't（这个 which 的用法可以学一下）.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [5] · `He promised he'd be here on time, which he wasn't.` —— , which he wasn't（which 指前面整件事 ＋ 主语 ＋ 否定助动词）。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [9] · `The landlord said he'd come fix the AC this week, which he didn't.` —— , which he didn't。连对 1 → 2 ⇒ **毕业**
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [6] · `Everyone expected him to accept the job, which he didn't.` —— , which he didn't
 
 ### 438 · nag sb (about sth)（念叨、反复催／数落某人）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
@@ -18163,3 +18179,158 @@ he's had to … last week：完成时撞上钉死的过去时间 ⇒ 时态选�
 - 2026-10-10 ❌ 首犯 · 学习日 复检第 3 组 [8]（#21 题里）· 原话 `he's had to call a locksmith（背一下) twice just last week.`
 - 2026-10-11 ✅ 学习日 在池第 2 组 [8] · `I only paid this month's rent the day before yesterday.` —— the day before yesterday ⇒ 一般过去时 paid。连错 1 → 连对 1
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [5] · `I just got my driver's license last week.` —— last week ⇒ 一般过去时 got。连对 1 → 2 ⇒ **毕业**
+
+### 453 · apartment complex（自己住的"小区"；⛔ our residential area）
+类型 词汇 ｜ 新建 2026-10-11
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+
+**问题是什么**
+**apartment complex** ＝ 自己住的那片楼（几栋楼围在一起、有大门／物业）：`the stray cats in our apartment complex` ／ `There's a gym in our complex.`（熟了直接说 our complex）
+同一格里的邻居（别串）：neighborhood（住的这一带，范围更松，说"我们这片"也对）· residential area（城市里"一片住宅区"，跟商业区、工业区并列：`It's a quiet residential area.`）· building（一栋楼）。
+判据一句话：说"**我住的**小区" ⇒ apartment complex（或 neighborhood）；描述城市里一整片住宅区 ⇒ residential area。
+★ 题型判整句：要靠"我们小区门口／楼下"这种"自己住的地方"的语境，residential area 才会露馅；孤立的"小区"两个字两边都能落。
+★ 与 🎓#431（well planned out）分工：那条 10-08 的原话 `This new residential area is really well planned out` 是在描述一整片新开发的住宅区 ⇒ residential area 在那里成立，不回头改判。
+
+**怎么发现的**
+2026-10-11 学习日 在池第 2 组 [3]（#447 题面"小区楼下那几只流浪猫"）· 原话
+`those stray cats living downstairs in our residential area`
+stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 更地道是 our apartment complex ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "residential" ⇒ 🎓#18（历史行原话 residential and industrial use，考论元完整）· 🎓#431（10-08 原话 new residential area，考 well planned out）⇒ 否；dedup "complex" ⇒ 🎓#219（complicated vs complex，形容词）⇒ 否；dedup "apartment complex" ⇒ 零命中
+　② 中文 dedup "小区" ⇒ 🎓#428（be featured in）· 🎓#431（well planned out）· #447（stray）—— 只在题面里出现，没有一条考"小区怎么说" ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`in our residential area`　　更地道：`in our apartment complex`
+找法：说到"小区"先问一句 —— 是我住的那片楼，还是城市里的一个区？我住的 ⇒ apartment complex。
+
+**题面**
+"我们小区门口新开了一家水果店。"（"小区"用 **complex** 说）
+
+- 2026-10-11 ❌ 首犯 · 学习日 在池第 2 组 [3]（#447 题里）· diff-2 ⚠️ · 原话 `those stray cats living downstairs in our residential area` ⇒ 更好版 in our apartment complex
+- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [6] · `A new fruit store just opened up right outside our apartment complex.` —— our apartment complex（没落到 residential area）。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [4] · `Our apartment complex has a pretty big pool, and it gets super busy in the summer.` —— apartment complex。连对 1 → 2 ⇒ 毕业
+
+### 454 · cut back on ＋ 东西（少吃／少用／少花：cut back on sugar）
+类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+
+**问题是什么**
+**cut back on sth** ＝ 把某样东西的量减下来（少吃、少用、少花）：`cut back on the sugar` ／ `I'm trying to cut back on coffee.` ／ `We need to cut back on spending.`
+同一格里的邻居（别串）：cut down on（意思几乎一样，常说吃喝抽的量）· cut out（彻底戒掉、一点都不碰）· reduce（书面）。
+判据一句话：想说"少放点／少吃点／少花点"某样东西 ⇒ cut back on ＋ 那样东西（on 不能丢）。
+★ 题型判整句：中文"少吃点"单拎出来，eat less 也完全合法、收不拢 ⇒ 要靠句子 ＋ 正向点名才逼得出这个块；on 的挂接留给她。
+
+**怎么发现的**
+2026-10-11 学习日 复检第 3 组 [3]（#414 题面"这个菜谱我照着做了几次，自己稍微调了调，少放了点糖。"）· 原话
+`I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.`
+她写对了 cutting back on the sugar，但自己标「这个短语学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "cut back"／"cut down"／"cutting back" ⇒ 零命中
+　② 中文 dedup "少放"／"少吃"／"减少" ⇒ 🎓#265（good for you，题面里有"少吃"）· 🎓#285（give sb alternatives，题面里有"少吃"）—— 考点都不是"减量"这个块 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个短语学下」（用法本身对）　　目标：`cut back on the sugar`
+找法：说"少…点 X"，先落 cut back on X。
+
+**题面**
+"医生让我爸少吃点盐。"（"少吃点"用 **cut back on** 说）
+★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 cut back（on 留给她）
+
+- 2026-10-11 ❌ 首犯 · 学习日 复检第 3 组 [3]（#414 题里）· 她标「这个短语学下」· 原话 `I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.`
+- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [7] · `The doctor told my dad to cut back on salt.` —— cut back on salt。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [5] · `I've been trying to shed some weight lately, so I've cut back on milk tea.` —— cut back on（on 自己补上）。连对 1 → 2 ⇒ 毕业
+  ⚠️ diff-2：补 a lot（"少多了"的程度）
+
+### 455 · underprivileged（家境困难的、条件差的 —— 说"穷"的体面说法）
+类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 词组
+
+**问题是什么**
+**underprivileged** ＝ 家境困难、缺少基本条件的（说人，比 poor 体面，慈善、公益场合常用）：`underprivileged kids` ／ `underprivileged families` ／ `underprivileged communities`
+同一格里的邻居（别串）：poor（直白）· disadvantaged（几乎同义，略正式）· low-income（只说收入低）。
+判据一句话：慈善、公益、帮扶的语境里说"穷人家的／条件不好的" ⇒ underprivileged ＋ 人。
+★ 题型判词组：中文释义点明"说得体面一点、公益场合用的那个词"⇒ 收拢到 underprivileged；答 disadvantaged 也合法照判 ✅，答 poor ⇒ 没贴释义。
+
+**怎么发现的**
+2026-10-11 学习日 复检第 3 组 [5]（#416 题面"这家医院每年都办一场盛大的慈善晚会，给穷人家的孩子筹钱。"）· 原话
+`This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.`
+她写对了 underprivileged kids，但自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "underprivileged"／"poor families"／"disadvantaged" ⇒ 零命中
+　② 中文 dedup "贫困"／"穷人" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学下」（用法本身对）　　目标：`underprivileged kids`
+找法：要说"贫困孩子／困难家庭"又不想直接说 poor，先落 underprivileged。
+
+**题面**
+"山区那些家境困难的孩子"（说得体面一点的"穷"，慈善、公益场合常用的那个词）
+
+- 2026-10-11 ❌ 首犯 · 学习日 复检第 3 组 [5]（#416 题里）· 她标「这个词学下」· 原话 `This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.`
+- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [8] · `underprivileged kids living in the mountain areas` —— underprivileged。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [6] · `a scholarship dedicated to supporting students from underprivileged backgrounds` —— underprivileged。连对 1 → 2 ⇒ 毕业
+
+### 456 · crafted（手工／精心做出来的：a manually crafted request · a carefully crafted message）
+类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+
+**问题是什么**
+**craft** ＝ 花心思、一点点手工做出来；过去分词当形容词最常用：`a manually crafted network request`（手工构造的请求）· `a carefully crafted message`（精心写的一段话）· `hand-crafted furniture`（手工做的家具）。
+同一格里的邻居（别串）：make／write（普通的"做／写"，没有"花心思"那层）· handmade（说实物手工做的）· put together（拼凑出来）。
+判据一句话：想强调"不是现成的，是专门花心思一点点做出来的" ⇒ crafted（前面常挂 carefully／manually／hand-）。
+★ 题型判整句：中文"精心准备的"单拎出来 prepare／write 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名才逼得出这个词。
+
+**怎么发现的**
+2026-10-11 学习日 ③ 新题 bank:963（P2 · Describe a person who solved a problem in a smart way）S8 · 原话
+`he managed to inject a manually crafted(这个词学下) network request and started tracking it across the node logs.`
+她写对了 manually crafted，但自己标「这个词学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "craft" ⇒ 零命中
+　② 中文 dedup "手工" ⇒ 🎓#161 #313 #317 —— 只在历史行"手工逐条记账"的字样里，考点都不是这个词 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词学下」（用法本身对）　　目标：`a manually crafted network request`
+找法：想说"专门手工做的／精心准备的"，先落 crafted，前面挂 carefully／manually。
+
+**题面**
+"他精心准备了一段生日祝福，吃饭时念给他妈妈听。"（"精心准备了"用 **carefully crafted** 说）
+★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 crafted（carefully 留给她）
+
+- 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S8 · 她标「这个词学下」· 原话 `he managed to inject a manually crafted(这个词学下) network request and started tracking it across the node logs.`
+- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [9] · `He carefully crafted a birthday message and read it to his mom during dinner.` —— carefully crafted a birthday message。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [7] · `Every piece of jewelry in this small shop is crafted by hand with great care.` —— is crafted ＋ by hand；with great care 与 carefully 同级。连对 1 → 2 ⇒ 毕业
+
+### 457 · build up ＋ 经验／积蓄（一点点攒起来：build up experience）
+类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+
+**问题是什么**
+**build up ＋ 东西** ＝ 在时间里一点点攒起来：`how much experience he'd built up` · `build up some savings` · `build up your stamina`（练出体力）· `build up trust`。
+同一格里的邻居（别串）：gain experience（获得经验，不强调慢慢攒）· accumulate（书面）· pile up（越堆越多，多说活儿、垃圾这类坏事：work piling up）· save up（专说攒钱：save up for a car）。
+判据一句话：时间里慢慢攒出来的好东西（经验、积蓄、体力、信任）⇒ build up ＋ 东西。
+★ 题型判整句：中文"攒了／积累了"单拎出来 gain／save／get 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-11 学习日 ③ 新题 bank:963（P2）S13 · 原话
+`Plus, his debugging setup was really handy, which showed how much experience he'd built up(这个词组学下).`
+她写对了 he'd built up，但自己标「这个词组学下」⇒ §2③ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "build up"／"built up" ⇒ 零命中
+　② 中文 dedup "积累" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（用法本身对）　　目标：`how much experience he'd built up`
+找法：想说"攒了／积累了"经验、积蓄、体力，先落 build up。
+
+**题面**
+"这几年我慢慢攒了一点积蓄。"（"攒了"用 **build up** 说）
+★ 她点名要学的块：第一次出题整块点名；连对 ≥1 之后降回 build（up 留给她）
+
+- 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S13 · 她标「这个词组学下」· 原话 `Plus, his debugging setup was really handy, which showed how much experience he'd built up(这个词组学下).`
+- 2026-10-12 ✅ 付息日 a 段在池第 2 组 [10] · `I've slowly built up a bit of savings over the past few years.` —— built up … savings。连错 1 → 连对 1
+- 2026-10-13 ✅ 学习日 在池第 1 组 [8] · `For the first few years after I graduated, I was mostly focused on building up my work experience.` —— building up（up 自己补上）。连对 1 → 2 ⇒ 毕业
