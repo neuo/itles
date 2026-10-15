@@ -7225,3 +7225,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 5⇄0
 
 **下一场 ＝ 周期 12 · L2**：#471–#479 首测 ＋ #467 ＋ 连对1 的 15 条；复检 1 组；回看 bank:1296；重答 1 道 ＋ 与旧答对比（10-14 起不出新题）
+
+## 2026-10-14（周三）· 口语 L2（周期 12 第 2 个学习日）
+
+> 日期：开场美东 10-14 20:53，按中午分界属 10-14。本场起执行改制：⛔ 不出新题，学习日 ④ ＝ 重答 1 道 ＋ 与旧答对比。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 465 ＝ problems.md 30 ＋ graduated.md 435 ｜ 🎓 435（93.5%）｜ 未毕业 30 ｜ 可出题 20 ｜ ⚡ 累计 263 条、掉过 13 ｜ 重答队列 68 / 未重答 47
+
+**五段**
+- ① 在池 3 组 24 题 / 24 条：**✅24 ❌0** ⇒ **毕业 14**（#126 #290 #347 #458 #459 #460 #461 #462 #463 #464 #465 #466 #468 #470）；#467 连错 2 → 连对 1；#471–#479 全部连对 1
+- ①b 复检 1 组 10 题 / 15 条：**✅15 ❌0**（#432 ② 题面出坏记 ✅；#387 两次被 winding 合法绕开 ⇒ 改整句）
+- ② 回看：bank:1296（`lookback --pending` 原样贴）
+- ④ 重答 bank:450（P2 · Describe a story/book with animals in it）：真错 0 ｜ ⚠️ S5 another 一路用到底 · S7 a pack of mice · S8 unity is strength ⇒ 新建 3 ｜ S4 that 从句挂错先行词 · S8 together 位置 ⇒ 只进 diff-2 ｜ 首答原话未存
+- 新建 9：#480 change jobs · #481 plan a surprise for sb · #482 far from enough · #483 on holidays · #484 shipping · #485 smear · #486 one/another/a third/the last one · #487 a bunch of · #488 there's strength in numbers
+
+**教练犯规**：① 复检 #432 ② 题面出坏（"跨国贩毒网络"让 cross-border 合法）② scratchpad 发题稿用了一次 python 替换
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 14⇄0
+
+**下一场 ＝ 周期 12 · L3**：#480–#488 首测 ＋ 连对1 的 11 条；复检 1 组；回看 bank:450；重答 1 道（bank:1011）＋ 与旧答对比
