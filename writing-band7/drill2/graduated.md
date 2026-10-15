@@ -24808,7 +24808,7 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   她写 `This notion is prevalent among young employees` —— 在某群人里盛行 ⇒ prevalent among 对。
 
 ## #0474 受益者 ＝ a beneficiary
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -24902,6 +24902,9 @@ a smallholding    那一小块**地**本身　　★ 是地不是人
   ③「这份保险的受益人」⇒ `the benrficiary of this insurance` ✔（e→r 相邻键手滑豁免；-ary 高危格写对）
   ④「奖学金的申请人（还没拿到的）」⇒ `the schoarship applicant` ✔（applicant，⛔ 没串成 claimant；schoarship 漏 l 手滑）
   ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 1a 题（词组）
+  题面「（这项免费午餐计划最大的）受益者」—— 换场景
+  她写 `beneficiaries` ✔（-ies 拼对）⇒ 复检通过。
 
 ## #0478 「当场／亲自／到场」一族：on the spot ／ in person ／ on site
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25677,7 +25680,7 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   in breach of ✔；comply with ✔；「严格」这次在（09-21 ／ 09-23 两次丢的就是这一层）⇒ 复检通过。
 
 ## #0489 客服 ＝ customer service
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25752,6 +25755,9 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组2 第 5 题⑤（词组题）
   「客服人员」⇒ `customer service staff` ✔（-er 在）⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 1b 题（词组）
+  题面「（这家网店的）客服（态度很差）」—— 换场景
+  她写 `customer service` ✔（customer 的 -er 在，⛔ custom service）⇒ 复检通过。
 
 ## #0490 上任 ＝ take office 一族
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
@@ -25832,7 +25838,7 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   她写 `The new president was sworn in in January and signed five executive orders during his first week after taking office.` —— ④ be sworn in 第一次被出题、被动对；① take office 对。
 
 ## #0491 地方行政首长：mayor ／ governor 一族
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25898,9 +25904,12 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组2 第 5 题⑥⑦（词组题，本条占 2 个块）
   ⑥「（美国的）州长」⇒ `the state governor` ✔ · ⑦「市议会」⇒ `the city Council` ✔（大小写不判）⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 1c·1d 题（词组）
+  题面「（区里的）议员」「（在英国负责收垃圾的）地方政府」—— councillor 照测（09-21 调不出后再没测过）＋ 换成员 the local authority
+  她写 `a local councillor` · `the local council` —— councillor 调出、拼对 ✔（09-21 调不出的那一格）；地方政府 ⇒ the local council ✔ ⇒ 复检通过。
 
 ## #0493 水龙头 ＝ a tap（英式）／ a faucet（美式）
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25972,6 +25981,9 @@ with heavy fines`，并当场括注**「这个词需要背下」** ⇒ §2③ �
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组2 第 5 题⑧（词组题）
   「一个漏水的水龙头」⇒ `a leaking tap` ✔ ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 1e 题（词组）
+  题面「（厨房里一直滴水的）水龙头」—— 换场景
+  她写 `a dripping tap` ✔ ⇒ 复检通过。
 
 ## #0494 「顺手／顺便」一族
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-09 ｜ 族 F08 ｜ 题型 整句
@@ -26204,7 +26216,7 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   她写 `The new security measures are all in place, and the relevant regulations will come into force on the first of next month.` —— ⑥ in place 与 ⑧ come into force 第一次被出题，零冠词都对。
 
 ## #0496 合同语境的固定块一族：contractor ／ the terms ／ vague
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26266,6 +26278,13 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组2 第 5 题⑨⑩（词组题，本条占 2 个块）
   ⑨「承包商」⇒ `contractor` ✔ · ⑩「（合同里）措辞含糊」⇒ `vague phrasing` ✔（phrasing ＝ wording）⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ❌ C10 D3 学习日 复检组1 第 1f 题（词组 · 成员 subcontractor）
+  题面「（这个工程的）分包商」
+  她答「忘了」—— **调不出** subcontractor。当场给回：`a subcontractor`（从总承包商 the main contractor 手里再分到一块活的那一方；sub- ＝ 下一级）。
+  🎓 吃 ❌ ⇒ 当场回潮。同日 1g 成员 vague ✅（另起一行）⇒ 当天结算 ❌。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 1g 题（词组 · 成员 vague）
+  题面「（合同里写得）含糊的（条款）」—— 换场景
+  她写 `vague clauses` ✔（⛔ ambiguous；clauses ＝ 一条条条款，成立）—— 同日 1f ❌ ⇒ 当天结算仍是 ❌。
 
 ## #0499 数字化／数字时代 ＝ digitalisation ／ the digital age（⛔ 不是 the digit）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -26317,7 +26336,7 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   e「（政府服务的）数字化」⇒ `digitization` ✅（-ize 拼法，与 digitalisation 同级）· f「（在）数字时代（长大的孩子）」⇒ `the digital age` ✅
 
 ## #0501 喷（洒）＝ spray
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26375,9 +26394,16 @@ get put in groups，而不是简单 in groups；他遇到麻烦 he ran into trou
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组3 第 2 题①（词组题）
   「给果树喷农药」⇒ `spraying pesticide on fruit tree` ✔（spray X on Y；数不判）⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 2a 题（词组 · 成员 spray）
+  题面「（往果树上）喷（农药）」
+  她写 `spray pesticides on fruit trees` ✔（spray ＋ 农药 ＋ on ＋ 对象）。同日 2b 成员 herbicide ❌（另起一行）⇒ 当天结算 ❌。
+- 2026-10-14 ❌ C10 D3 学习日 复检组1 第 2b 题（词组 · 成员 herbicide）
+  题面「（田里刚打过）除草剂」—— 换场景
+  她答「忘了」—— **调不出** herbicide ／ weedkiller。当场给回：`herbicide`（-cide ＝ 杀：herbicide 杀草 · insecticide 杀虫 · pesticide 农药统称）；口语也说 `weedkiller`。
+  同日 2a 成员 spray ✅ ＋ 本行 ❌ ⇒ 当天结算 ❌ ⇒ 🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0502 折中方案 ＝ a compromise
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26449,6 +26475,9 @@ a settlement　（争端的）和解、了结　`reach a settlement out of court
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组3 第 2 题②③（词组题，本条占 2 个块）
   ②「一个折中方案（双方各让一步的那种）」⇒ `a compromise solution` ✔ · ③「在价格上妥协」⇒ `compromise on price` ✔（动词 ＋ on）⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 2c 题（词组）
+  题面「（房东和租客谈了一周，最后各让一步定下的）折中方案」—— 换场景
+  她写 `a compromise solution` ✔（条目正文：这个搭配成立）⇒ 复检通过。
 
 ## #0503 汇率 ＝ the exchange rate
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -26601,7 +26630,7 @@ rate 单独用时看语境：`at a rate of 5% a year`（速率）· `rates`（�
   规程 ⇒ protocol、第一步 ⇒ the first step（⛔ 没写成 the first procedure）。成员 ③ ④ 第一次出题，全部落地 ⇒ 账已补。复检通过。
 
 ## #0506 出发点 ＝ the starting point
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -26668,6 +26697,9 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⇒ 连错 1 → **连对 1**、连错归 0。
 - 2026-09-26 ✅D2 学习日 C8·组3 第 2 题④（词组题）
   「这场讨论的出发点」⇒ `the starting point of the discussion` ✔ ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 2d 题（词组）
+  题面「（把孩子的需要作为一切设计的）出发点」—— 换场景
+  她写 `the starting point` ✔ ⇒ 复检通过。
 
 ## #0507 反对者 ＝ opponents
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F08 ｜ 题型 词组
@@ -27257,7 +27289,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⑥「服务业（经济里的这一块）」⇒ `the service sector` ✔ ⇒ 连对 1 → 连对 2。
 
 ## #0517 「复盘／事后总结」＝ a retrospective ／ a post-mortem ／ a review
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -27335,6 +27367,11 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   块给她 a post-mortem ／ a review，只让她造句写清各自场合。
   她写 `Following the product launch failure, the executive board ordered **a post-mortem** to identify the root causes and **a comprehensive review** to prevent future operational missteps.`
   两个块的场合都配对：post-mortem 挂在发布失败之后、找根因 ✔ · review 是全面复核、面向以后 ✔ ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ❌ C10 D3 学习日 复检组1 第 3 题（反向题：给块写用法）
+  块给她 a retrospective ／ a debrief，只让她各写一个短句写清场合（09-26 给的是 post-mortem ／ review）。
+  她答「这两个单词都忘了」—— 给了块也写不出场合 ⇒ ❌。当场给回：`After every sprint, the team holds a retrospective to look back on what worked; after the rescue mission, the pilots gave their commander a debrief.`
+  ⚠️ 这次塌的是**反向**（给了块认不出场合），不只是正向调取 —— 09-21 ／ 09-26 两次反向题给的都是同一族里别的块组合，retrospective 与 debrief 只在 09-21 那一次一起出现过。
+  🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0518 「安全」＝ safety（事故层面）⛔ 不是 security（威胁／防盗层面）
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
@@ -27438,7 +27475,7 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⚠️ 同句 by no means 她点名要学 ⇒ 建号 #0603。
 
 ## #0520 「卫生规定」＝ hygiene regulations
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-26 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -27495,6 +27532,9 @@ the point of view　观点、角度（⛔ 不是"出发点"）
   ⇒ 连对 0 → **连对 1**。
 - 2026-09-26 ✅D2 学习日 C8·组1 第 5 题⑦（词组题）
   中文块「食品卫生规定（后厨必须遵守的那些）」⇒ 她写 `food hygiene regulations` ⇒ ✅ ⇒ 连对 1 → 连对 2 ⇒ 到线。
+- 2026-10-14 ✅ C10 D3 学习日 复检组1 第 2e·2f 题（词组）
+  题面「（这家食堂因为违反）卫生规定（被罚款）」「公共卫生（体系）」—— 换场景 ＋ 成员 public health（建号后没单独测过）
+  她写 `hygiene regulations` · `public health` —— hygiene ＋ 复数 regulations ✔；public health（⛔ public hygiene）✔ ⇒ 复检通过。
 
 ## #0521 「缺点／短板」一族：a shortcoming ／ a drawback ／ a flaw ／ a weakness
 状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F08 ｜ 题型 整句
