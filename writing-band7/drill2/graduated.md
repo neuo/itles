@@ -6664,7 +6664,7 @@ K（判据；表达侧记 ✅+ 她的）
   　 顺带避开与同组 #0079 原写「银行」及 #0070「正规治疗」的语境撞车。
 
 ## #0064 雇主和员工的利益并不总是一致
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-23 ｜ 族 F04
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F04
 
 **问题是什么**
 待排序　U（待定）
@@ -6719,6 +6719,9 @@ K（判据；表达侧记 ✅+ 她的）
   回指代词随中心词的数变：中心词 quota 是单数 ⇒ `that of`（08-27 她在**复数**那一格失守过，
   写成 the interests … 的回指时漏了 those of；09-06 复数那一格已 ✅ 毕业）。
   ⇒ 单数这一边今天也对上了 ⇒ 🎓 状态不变，rc ＋1。
+- 2026-10-14 📋 C10 D3 学习日 组3 第 4 题（顺带用对）
+  她写 `smaller than **that of** last year` —— that 回指单数的 magnitude ✔（⛔ 没重复名词）（🎓 不变）。
+  ⚠️ 同题主考点 #0597 ✅。
 
 ## #0065 「decline…我要学」
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-27 ｜ 族 F04
@@ -10891,7 +10894,7 @@ economy　　 → **economic** growth　　　　 society　→ **social** chang
 > 逗号粘连、并列同形、语序倒装、从句、指代、大小写
 
 ## #0049 一个典型的例子就是中国，学生下午四点前就放学
-状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-07 ｜ 族 F07
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F07
 ⚠️ **2026-08-30 🎓 后复发 ⇒ 已按 §3.3 在原地改回「在池」。**
 　 搬回 `problems.md` 由收尾的 `drill.py migrate` 自动做（2026-09-01 起，§3.3）—— ⛔ 教练不手工搬。
 
@@ -10974,6 +10977,11 @@ P7 逗号粘连　R · 挂代号 P7
   题面换了场景：「这家小店平时只有两个店员，到了周末老板也得亲自来帮忙。（写成一句）」
   她写 `While this small shop usually has only two clerks, the owner has to come and help in person on weekends.`
   两个完整分句由 While 接住 ⇒ 没有逗号粘连；平时／周末的对比也由 While 送到。更好版补 even（送「也」），⛔ 不算丢层（come and help 已带出添人手）。
+- 2026-10-14 ❌ C10 D3 学习日 组3 第 3 题（顺带）　**🎓 回潮**
+  主考点 #0588（✅）。她写 `last year's flood caused severe damage,  a row of old houses by the river was the most badly affected.`
+  逗号两边各是一个完整句（主语 a row of old houses ＋ 谓语 was）⇒ 逗号粘连。中文「受损最严重的是…」前面没有连词，英文要补 ⇒ `…severe damage, **and** a row of old houses by the river was the most badly affected.`（或独立主格 `…, a row of old houses by the river **being** the most badly affected`）。
+  ★ 形状：绕开 which 之后（#0588 判对了），换出来的那一句没接连词 —— 同 09-27「而」没进英文、漏 and 那一次。
+  四问自审：① 母语书面造不出「完整句 ＋ 逗号 ＋ 完整句」成立的反例 ② 不是延续 #0588（那条判 which 能不能挂，本条判两句之间放什么）③ 句法／标点层 ④ ❌ ⇒ 🎓 吃 ❌ ⇒ 当场回潮。
 
 ## #0089 这意味着大多数人住在曼哈顿以外
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-09-21 ｜ 族 F07

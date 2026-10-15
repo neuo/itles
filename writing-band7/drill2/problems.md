@@ -495,7 +495,7 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 > 动词后面接什么、及物性、论元完整
 
 ## #0477 take sth into account 一族：into ／ of ／ in 三个介词各归各家
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -518,10 +518,13 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 ```
 ① take sth into account　—— 2026-09-07 组2 第 4 题 ⇒ ❌ 写成 `take in account`；2026-09-09 组1 第 2 题 ⇒ ✅　★ 仍优先测（介词要她自己挂）
 　　　　　　　　　　　　　 ／ 2026-10-10 复检组4 第 5 题 ⇒ ❌（整句没写出来，①⑤④ 一起塌）／ 2026-10-12 组2 第 1 题 ⇒ ✅（介词自己挂）
+　　　　　　　　　　　　　 ／ 2026-10-14 组3 第 2 题 ⇒ ✅（`take freight charges into account`，介词自己挂）
 ② take account of sth　　—— 2026-09-09 组1 第 2 题 ⇒ ✅（题面印了 of）／ 2026-10-12 组2 第 1 题 ⇒ ✅（of 自己挂）
 ③ take sth into consideration —— 2026-09-13 组2 第 2 题 ⇒ ◎✅（题面把 into consideration 整块印出来了 ⇒ 没测成）
+　　　　　　　　　　　　　 ／ 2026-10-14 组3 第 2 题 ⇒ ✅（`take both points into consideration`，into 自己挂 —— 第一次真正测到）
 ④ bear ／ keep sth in mind —— 2026-09-09 组1 第 2 题 ⇒ ✅（`borne in mind`，题面印了 in）／ 2026-10-12 组2 第 1 题 ⇒ ✅（`keep … in mind`，in 自己挂）
 ⑤ factor in ／ allow for　—— 2026-09-13 组2 第 2 题 ⇒ ◎✅（两个块连介词一起印在题面上 ⇒ 没测成）
+　　　　　　　　　　　　　 ／ 2026-10-14 组3 第 2 题 ⇒ allow for ✅（`allow for customs inspection`，for 自己挂 —— 第一次真正测到）；factor in 仍未真正测到
 ```
 
 **怎么发现的**
@@ -593,6 +596,10 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   她写 `This urban plan did not **take** the mobility needs of the elderly **into account**, nor did it **take account of** drainage issues during the rainy season; designers of the next version must **keep** these two points **in mind**.`
   into ／ of ／ in 三个介词各归各家 ✔，全是她自己挂的（10-10 整句没写出来）⇒ 连错 1 → 连对 1。
   ⚠️ 同句 mobility ／ drainage 她点名要背 ⇒ 建号 #0606 #0607。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 2 题
+  题面「这份报价没有把运费考虑进去，交货时间也没给海关检查留出余地；我们希望下一版能把这两点都考虑在内。」（★ 三处分别用 take … account ／ allow ／ take … consideration —— 每处该挂哪个介词自己定）—— 换场景；按成员账测 ① ⑤ ③
+  她写 `This quotation did not **take** freight charges **into account**, nor did the delivery time **allow for** customs inspection; we hope that the next version will **take** both points **into consideration**.`
+  into ／ for ／ into 三个介词全是她自己挂的 ✔；③ ⑤ 两格以前题面都连介词印出来了，今天第一次真正测到 ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0581 「（去）找某人（求助、商量）」＝ approach sb
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F01 ｜ 题型 整句
@@ -1517,7 +1524,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0588 「其中最…的」接关系从句 ⇒ 先行词得是一组东西：…, the ＋ 最高级 ＋ of which ／ among which
-状态：在池 ｜ 连对 0 ｜ 连错 3 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F07 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F07 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -1590,6 +1597,11 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   前半 the best-selling of which 挂在 smartphones（一组东西）上 ✔；后半 which 紧挨的是 the audience（往前是 resentment）——「观众／反感里最让人反感的方面」说不通，最让人反感的是广告的一部分 ⇒ 同 10-10／10-11 的坑。
   当场给回：`…, and the most offensive aspect was a line of dialogue in the advertisement.`（或 …, the most offensive aspect being …）；检验办法：把 which 换成它紧挨着的名词念一遍。
   ⇒ 连错 2 → 3。找法补「换名词念一遍」（适用范围说清，连对连错不动）。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 3 题
+  题面「这个小镇有三座古桥，其中最古老的一座建于明代；可去年的那场洪水造成了严重的破坏，受损最严重的是河边的一排老房子。」（★ 前一处必须用 of which 接关系从句；后一处自己判断还能不能也用 which）—— 换场景
+  她写 `This town features three ancient bridges, **the oldest of which** was built in the Ming Dynasty; however, last year's flood caused severe damage,  a row of old houses by the river was the most badly affected.`
+  前半 of which 挂在 bridges（一组东西）上 ✔；后半先行词是单数的 damage ⇒ **没用 which** ✔ —— 10-10／10-11／10-12 三次塌的正是这一格 ⇒ 连错 3 → 连对 1。
+  后半改走的那句漏了 and ⇒ 逗号粘连，记 #0049（顺带 ❌）—— 一个错只进一个桶：本条判的是 which 能不能挂，挂的判断是对的。
 
 ---
 
@@ -1977,7 +1989,7 @@ progress **不可数**（⛔ a progress）。
   她写 `an expanding market share` · `a leading position in the industry` —— 两个成员都调出 ✔（契约⑬ 不判冠词）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0442 「优先级」一族：the top priority ／ a priority ／ take precedence over ／ come first
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2076,9 +2088,13 @@ progress **不可数**（⛔ a progress）。
   题面「在这家航空公司，准点永远要给安全让路；不过今年，削减成本也成了其中一件优先的事。（★ 两处分别用 take precedence over ／ priority —— 形态与冠词自己定）」（中文主语故意是让路的一方）
   她写 `At this airline, safety always **takes precedence over** punctuality; this year, however, cost reduction has also become **a priority**.`
   把主语换成更重要的 safety ⇒ 方向对 ✔（10-10 塌的正是方向）；a priority 冠词 ✔ ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 1 题
+  题面「对这家实验室来说，数据安全是头等大事；在速度和准确之间，研究员们也一向把准确放在前面。」（★ 两处分别用 top priority ／ prioritise —— 形态与冠词自己定）—— 换场景、换成员（10-10／10-12 测的是 take precedence over ／ a priority）
+  她写 `For this laboratory, data security is **the top priority**; between speed and accuracy, researchers have also always **prioritised accuracy**.`
+  the top priority ✔（唯一那件 ⇒ the）；prioritise 方向对（准确放前面；between speed and accuracy 提前已交代另一边，不写 over speed 也成立）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0462 校园与学生群体的固定块：hearing-impaired ／ lower grades ／ dormitory curfew
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2115,10 +2131,11 @@ progress **不可数**（⛔ a progress）。
 
 **中文触发点**
 ```
-听障学生
-低年级
-宿舍门禁
+（这所中学的）高年级
+（为了照顾）视障（读者，图书馆添了有声书）
 ```
+（老触发点留档不删：听障学生 ／ 低年级 ／ 宿舍门禁）
+⚠️ 2026-10-14 换题面（手工 —— 词组条目 `trigger` 不搬）：当天 5b 成员 upper grades 没调出（写 higher grades △）、visually impaired 建号后没单独测过 ⇒ 存成复检题面（§3.5 第 3.5 步 ①）
 
 ### 历史记录
 - 2026-09-06 ③ 建号（她点名要学）D3 学习日 C5·组2 第 9、10 题（顺带用对）
@@ -2145,6 +2162,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组2 第 4d·5d 题（词组 · 回潮后首测）
   题面「（新学期取消了）宿舍门禁」「（小学）低年级（的孩子）」
   她写 `dormitory curfews` · `children in lower grades` —— curfew 调出（10-10 塌的那一块）；lower grades ✔ ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5a 题（词组 · 成员 hearing-impaired）
+  题面「（给）听障（乘客准备的字幕屏）」—— 换场景
+  她写 `hearing-impaired` ✔（连字符对）。
+- 2026-10-14 △ C10 D3 学习日 组3 第 5b 题（词组 · 成员 upper grades）
+  题面「（这所小学的）高年级」
+  她写 `higher grades` —— 读得懂，但没调出成员 upper grades（美式）／ older pupils（英式）；higher grades 在学校语境里易读成"更高的分数" ⇒ △。
+  同日 5a 成员 hearing-impaired ✅ ⇒ 当天结算 ✅（有 ✅、无 ❌）⇒ 连对 1 → 2 ⇒ 🎓；upper grades 写进中文触发点交给复检队列（§3.5 第 3.5 步 ①）。
 
 ## #0564 「（对某个问题的）立场」＝ stance（on）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -2473,7 +2497,7 @@ progress **不可数**（⛔ a progress）。
   她答「忘了」—— **调不出** conspicuous。当场给回：`a conspicuous place／position`（con-spic-u-ous）⇒ 连对 1 → 连错 1。
 
 ## #0573 「青春期」＝ puberty
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2518,6 +2542,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组3 第 3a 题（词组）
   题面「（很多孩子）青春期（时个子长得特别快）」
   她写 `during **puberty**` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5c 题（词组）
+  题面「（正处在）青春期（的少年）」—— 换场景
+  她写 `puberty` ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0574 「总部」＝ headquarters
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
@@ -2565,7 +2592,7 @@ progress **不可数**（⛔ a progress）。
   她写 `the headquarters of this company` · `the United Nations Headquarters` —— 两块都调出、-s 都在。首测 ⇒ 连对 1。
 
 ## #0575 「头号／重点（工程、产品、门店）」＝ flagship
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2611,6 +2638,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组3 第 3b 题（词组）
   题面「（这家车企的）旗舰车型」
   她写 `the **flagship** model of this automaker` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5d 题（词组）
+  题面「（这家酒店集团的）旗舰酒店」—— 换场景
+  她写 `the flagship hotel of this hotel group` ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0576 「博士（学位）」＝ doctoral ／ doctorate ／ PhD
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
@@ -2801,7 +2831,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 不判错：health condition 是「健康状况」直译，更好版删掉 condition（his health）。
 
 ## #0580 「（新生／新员工）入学指导、入职培训」＝ orientation
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2846,6 +2876,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组3 第 3c 题（词组）
   题面「（国际学生到校后参加的）新生指导课」
   她写 `**orientation** sessions for new students` —— 10-11 两块都「忘了」，今天调出 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5e 题（词组）
+  题面「（新志愿者第一天的）上岗说明会」—— 换场景
+  她写 `an orientation session` ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0582 「低调地、不声张地」＝ discreetly（⚠️ 与「偷偷地」secretly 分工）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
@@ -2898,7 +2931,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同句「后来才发现」她点名要学 ⇒ §2③ 建号 #0595。
 
 ## #0583 「（场地、土地）积水的、泡了水的」＝ waterlogged
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2944,9 +2977,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组3 第 3d 题（词组）
   题面「（暴雨过后）泡在水里的草坪」
   她写 `a **waterlogged** lawn` —— 10-11 两块都「忘了」，今天调出、拼对 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5f 题（词组）
+  题面「（浇水太多，花盆里的土）泡了水（根都烂了）」—— 换场景
+  她写 `waterlogged` ✔（连写）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0584 「临时（通知得晚、准备时间很短）」＝ at short notice
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2996,6 +3032,9 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ✅ C10 D2 学习日 组3 第 3e 题（词组）
   题面「（老师）临时调课」
   她写 `reschedule a class **at short notice**` —— 10-11 两块都「忘了」，今天调出（⛔ 没写 temporarily ／ at a short notice）⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 5g 题（词组）
+  题面「（被经理）临时（叫去出差）」—— 换场景
+  她写 `at short notice` ✔（⛔ 没加 a、⛔ 没走 temporarily）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0585 「陷入僵局」＝ reach a stalemate
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
@@ -3432,7 +3471,7 @@ progress **不可数**（⛔ a progress）。
   下次 b 再测：immigration formalities。
 
 ## #0597 「幅度」≠ margin ⇒ the size of ／ how much（margin ＝ 两个数之间的差额）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3482,6 +3521,10 @@ progress **不可数**（⛔ a progress）。
   题面「家长们争的不是学费涨不涨，而是涨的幅度；最后这项提议只以微弱优势通过了。（★ 两处的「幅度／优势」只有一处能用 margin —— 哪处用、另一处怎么说自己定）」
   她写 `What parents are disputing is not whether tuition fees will increase, but **the size of** the increase; in the end, this proposal passed **by only a narrow margin**.`
   「涨的幅度」⇒ the size of ✔；「微弱优势」是比两边票数 ⇒ by a narrow margin ✔；margin 只用在该用的那一处 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组3 第 4 题
+  题面「这次加薪的幅度比去年小；不过在员工投票中，这份协议还是以很大的优势通过了。」（★ 两处的「幅度／优势」只有一处能用 margin —— 哪处用、另一处怎么说自己定）—— 换场景
+  她写 `he **magnitude** of this pay rise was smaller than that of last year; nevertheless, in the employee vote, this agreement was passed **by a wide margin**.`（句首 he ＝ The 键位手滑，豁免）
+  「幅度」⇒ magnitude（⛔ 没用 margin）✔；「优势」是比两边票数 ⇒ by a wide margin ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0598 「（对某事的）担心、顾虑」＝ concerns about ／ over sth
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
