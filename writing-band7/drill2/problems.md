@@ -691,7 +691,7 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
   让的是房租 ⇒ yield on ✔；顶不住的是压力 ⇒ yield to ✔；两个介词没串台 ⇒ 首测 ⇒ 连对 1。
 
 ## #0608 「（一群人）在…上意见一致」＝ be unanimous in ＋ -ing／名词（⛔ to do）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F01 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F01 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -735,6 +735,9 @@ REVIEW 池 **16 条**：#0011 **#0021** #0256 #0259 #0267 #0268 #0270 #0273 #027
 - 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 组2 第 3 题（顺带用对）
   她写 `The five judges were **unanimous in**(这个 in 的用法可以学下) awarding the championship to this young contestant` —— in ＋ -ing ✔。
   ⚠️ 同题主考点 #0561 ✅（unanimous ／ consistent 各就各位）。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 2 题（首测）
+  题面「董事会一致决定关闭这家亏损的工厂。」（★ 写成 be unanimous … —— 后面接什么自己定）—— 换场景（种子读过）
+  她写 `The board of directors **was unanimous in deciding** to close this loss-making factory.` —— in ＋ -ing ✔（⛔ to close）；the board 单数配 was ✔ ⇒ 首测 ⇒ 连对 1。
 
 ---
 
@@ -2173,7 +2176,7 @@ progress **不可数**（⛔ a progress）。
   更好版 4a `the government's stance on immigration`（两个介词短语叠在 stance 后面，所有格更顺）—— 不影响本块判定。
 
 ## #0567 「用…的语气（说）」＝ in a … tone
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2213,9 +2216,12 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0548 ✅（subtle）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 2 题（首测）
   她写 `In a calm tone, she informed us that the company would lay off one-third of its workforce next month.` —— in ＋ a ＋ calm ＋ tone，介词冠词都在 ✔；状语前置成立。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 3 题
+  题面「医生用很温和的语气向孩子解释了手术的过程。」（★ 用 tone；介词和冠词自己定）—— 换场景（10-10 种子测过）
+  她写 `**In a gentle tone**, the physician explained the surgical procedure to the child.` —— in ＋ a ＋ tone 三件齐 ✔；explain sth to sb ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0568 「加固／强化」＝ reinforce
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -2254,6 +2260,9 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0400 ✅（被动进行时）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 3 题（首测）
   她写 `The teacher cited examples repeatedly to reinforce students' understanding of this concept.` —— reinforce 直接跟 understanding ✔。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 4 题
+  题面「这类广告只会强化人们对女性的刻板印象。」（★ 用 reinforce）—— 换场景、换搭配（10-10 是 reinforce understanding）
+  她写 `Advertisements of this kind only **reinforce** people's stereotypes of women.` —— reinforce 直接跟宾语、拼对 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0569 「霸凌」＝ bullying
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
@@ -2619,7 +2628,7 @@ progress **不可数**（⛔ a progress）。
   她写 `a doctoral dissertation` · `doctoral students in the laboratory` —— doctoral 形容词放名词前，两块都对。首测 ⇒ 连对 1。
 
 ## #0577 「涨价」＝ a price hike ／ a price increase
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2652,9 +2661,10 @@ progress **不可数**（⛔ a progress）。
 
 **中文触发点**
 ```
-（地铁明年的）票价上涨
-（这次）大幅涨价（引发了不满）
+（★ 先给英文块 hike）各写成一个英文块：加息 ／ 加税 ／ （地铁）票价上调
 ```
+（老触发点留档不删：（地铁明年的）票价上涨 ／（这次）大幅涨价（引发了不满）／ 2026-10-14 用过：（央行年内第三次）加息）
+⚠️ 2026-10-14 换出题方式（§6「自发用过的块」：10-10 自发写出 hike，被点名两次 10-11 ／ 10-14 都调成 increase ⇒ ⛔ 不再出「中文块 → ？」，先给英文块、只写它配什么名词）
 
 ### 历史记录
 - 2026-10-10 ③ 建号（她点名要学）C9 D4 复检组3 第 2 题（顺带用对）
@@ -2664,6 +2674,10 @@ progress **不可数**（⛔ a progress）。
   题面「（地铁明年的）票价上涨」「（这次）大幅涨价（引发了不满）」
   她写 `a subway fare increase for next year` · `a substantial price increase` —— 英语成立、意思送到，但两块都没调出本条的 hike（本条判据：price increase 判 △）⇒ 两边不动。
   下次给的块：a subway fare hike ／ a sharp price hike。
+- 2026-10-14 △ C10 D3 学习日 组1 第 5e 题（词组）
+  题面「（央行年内第三次）加息」—— 换块（10-11 两块测过）
+  她写 `an interest rate increase` —— 英语成立、意思送到，但没调出本条的 hike（本条判据：rate increase 判 △）⇒ 两边不动。
+  连续第二次 △（10-11 也是 increase）⇒ 按 §6「自发用过的块」换出题方式：下次先给英文块 hike，只让她写配什么名词（中文触发点已改）。
 
 ## #0578 「装修／翻新（旧房子、旧建筑）」＝ renovate
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-11 ｜ 族 F08 ｜ 题型 整句
@@ -3729,7 +3743,7 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同句 take no stance 她点名要学 ⇒ 建号 #0605。
 
 ## #0605 「表态」＝ take a stance on ／ state one's position（动词配 take，⛔ make）
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 整句
 
 **问题是什么**
 ```
@@ -3781,9 +3795,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 组1 第 6 题（顺带用对）
   她写 `as for where the funding will come from, the municipal government **has taken no stance**(这个词组学下) to date.` —— take no stance ✔。
   ⚠️ 同题主考点 #0604 ✅（as to whether ／ as for 各就各位）。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 1 题（首测）
+  题面「市长至今没有就这项拆迁计划表态。」（★ 用 stance —— 前面配哪个动词、后面配哪个介词自己定）—— 换场景（种子 10-12 在新建正文里读过）
+  她写 `The mayor **has taken no stance on** this demolition plan to date.` —— 动词 take ✔（⛔ make）、介词 on ✔；to date 配现在完成时 ✔ ⇒ 首测 ⇒ 连对 1。
 
 ## #0606 「（老人、残障人士的）出行／行动能力」＝ mobility
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3822,9 +3839,12 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要背）C10 D2 学习日 组2 第 1 题（顺带用对）
   她写 `This urban plan did not take the **mobility**（背一下） needs of the elderly into account` —— 老人的「出行」⇒ mobility ✔。
   ⚠️ 同题主考点 #0477 ✅（into ／ of ／ in 各归各家）。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 5a 题（词组 · 首测）
+  题面「（中风后慢慢恢复的）行动能力」—— 换场景（种子两块读过）
+  她写 `mobility` ✔ ⇒ 首测 ⇒ 连对 1。
 
 ## #0607 「排水（系统／问题）」＝ drainage
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3864,16 +3884,20 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要背）C10 D2 学习日 组2 第 1 题（顺带用对）
   她写 `nor did it take account of **drainage**（背一下） issues during the rainy season` —— 词与拼写都对。
   ⚠️ 同题主考点 #0477 ✅。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 5b 题（词组 · 首测）
+  题面「（这座城市的）排水能力」—— 换场景（种子两块读过）
+  她写 `drainage capacity` ✔（drainage 调出、拼对）⇒ 首测 ⇒ 连对 1。
 
 ## #0609 「偏（咸／贵／小…）」＝ on the salty／expensive／small side
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
 **on the ＋ 形容词原级 ＋ side**　有点偏…、…了点（口气比 too 软，常带一点抱怨）
 　`The dishes are **on the salty side**.` · `The rent is a bit **on the expensive side**.` · `This jacket is **on the small side** for me.`
 邻居：a bit ／ slightly ＋ 形容词（a bit salty）· rather ＋ 形容词（⇒ **#0267** 程度副词的刻度）
-⚠️ 形容词用原级、side 用单数（⛔ ~~on the saltier side~~ ／ ⛔ ~~on the salty sides~~）
+⚠️ side 用单数（⛔ ~~on the salty sides~~）；形容词原级最常见，比较级 `on the higher ／ pricier ／ cooler side` 口语里也常见、不算错
+　（2026-10-14 更正：原写「⛔ on the saltier side」判据过严）
 判据（词组题）：on the X side 调得出来就算对；写 a bit salty ／ rather salty 判 △（成立，不是本条要调的块）
 ```
 **找法**：中文「偏 X ／ X 了点」（偏咸、偏贵、偏小）⇒ on the X side。
@@ -3909,9 +3933,13 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要学）C10 D2 学习日 复检组1 第 2 题（顺带用对）
   她写 `The dishes at this restaurant are invariably **on the salty side**（这个词组学下)` —— 块对。
   ⚠️ 同题主考点 #0320 ✅；同句「几乎」丢了 ⇒ #0126 ❌。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 5c 题（词组 · 首测）
+  题面「（今年冬天）偏暖」—— 换场景（种子两块读过）
+  她写 `on the warm side` ✔ ⇒ 首测 ⇒ 连对 1。
+  ⚠️ 同日更正本条正文：原写「⛔ on the saltier side」判据过严 ⇒ 改为比较级口语里也常见、不算错（适用范围说清，连对连错不动）。
 
 ## #0610 「皮带、腰带」＝ a belt
-状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -3952,6 +3980,101 @@ progress **不可数**（⛔ a progress）。
 - 2026-10-12 ③ 建号（她点名要背）C10 D2 学习日 复检组1 第 6 题（顺带用对）
   她写 `his original **belt**(背一下) is now too loose` —— belt ✔。
   ⚠️ 同题主考点 #0095 ✅（lose ／ loose · than 守住）。
+- 2026-10-14 ✅ C10 D3 学习日 组1 第 5d 题（词组 · 首测）
+  题面「（裤子太松，得系条）腰带」—— 换场景（种子两块读过）
+  她写 `a belt` ✔ ⇒ 首测 ⇒ 连对 1。
+
+## #0611 「亏损的（公司、工厂、业务）」＝ loss-making
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**loss-making**（形容词，放名词前）＝ 在亏钱的：`a **loss-making** factory ／ business ／ airline ／ branch`
+同一格：**unprofitable**（不赚钱的，中性）· **money-losing**（美式口语）
+反义：**profitable**（赚钱的）· **profit-making**（营利的）· **non-profit**（非营利的：`a non-profit organisation`）
+「亏损」作谓语：`make a loss`（亏了）· `run at a loss`（亏本经营）· `The company **made a loss of** $2 million last year.`
+⚠️ 写法：loss-making 中间带连字符
+判据（词组题）：loss-making 调得出来就算对；写 unprofitable 判 △（成立，不是本条要调的块）
+```
+**找法**：中文「亏损的 ／ 亏钱的 ＋ 公司、工厂、门店」⇒ loss-making ＋ 名词；「在亏损」⇒ is making a loss ／ is running at a loss。
+
+**怎么发现的**
+2026-10-14　C10 D3 学习日 组1 第 2 题（主考点 #0608，命中 ✅）。中文「董事会一致决定关闭这家亏损的工厂」，
+她写 `close this **loss-making**（亏损这个词学下） factory` —— 写对了，并当场括注 **「亏损这个词学下」** ⇒ §2③ 她点名要学。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "loss-making" "unprofitable"           ⇒ **零命中**
+② 规则查  dedup "亏损" "赔钱"                           ⇒ 命中 #0456
+③ 眼过    list --fam F08（270 条）里查「利润／亏／盈／profit／loss」⇒ 命中 #0156 #0170 #0438
+逐条否掉：
+  #0438（商业与产业块一族：pharmaceutical ／ market share ／ excess profits，在池）—— 最像的一条：同是商业块。
+    那条是 T2 某一篇实产的块合集；问3：会 excess profits 不会自动带出 loss-making ⇒ 否
+  #0456（出了问题之后：compensation ／ remedial action…，🎓）—— 「赔钱」只是正文字样 ⇒ 问1 不成立 ⇒ 否
+  #0156（the profit of the general public → interests）#0170（a loss of money → costs money）—— 别的词义问题 ⇒ 问1 不成立 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定复合形容词 —— -making 是复合词的一部分、不变形，⛔ 不算第 ① 条的「块里有动词」；
+　 契约⑬ 来源：她点名要学 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`this loss-making factory`），点名要学 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（连续三年）亏损的（航空公司）
+（关掉几家）亏损的（门店）
+```
+
+### 历史记录
+- 2026-10-14 ③ 建号（她点名要学）C10 D3 学习日 组1 第 2 题（顺带用对）
+  她写 `The board of directors was unanimous in deciding to close this **loss-making**（亏损这个词学下） factory.` —— loss-making ✔。
+  ⚠️ 同题主考点 #0608 ✅（unanimous in ＋ -ing）。
+
+## #0612 「刻板印象」＝ a stereotype
+状态：在池 ｜ 连对 0 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
+
+**问题是什么**
+```
+**stereotype**（可数）＝ 对某一类人的固定看法、刻板印象：`stereotypes about ／ of women` · `gender stereotypes`（性别刻板印象）· `a common stereotype`
+动词搭配：`reinforce ／ perpetuate stereotypes`（强化、延续）· `challenge ／ break down stereotypes`（打破）· `fit the stereotype`（符合刻板印象）
+形容词 **stereotypical**（刻板的）：`a stereotypical image of scientists`
+邻居：**prejudice**（偏见，带敌意）· **bias**（偏向一边）
+⚠️ 拼写：ste-re-o-type（⛔ ~~steriotype~~）
+与 **#0568**（reinforce，2026-10-14 🎓）分工：那条是动词「强化」；本条是名词「刻板印象」
+判据（词组题）：stereotype 调得出来、拼对就算对
+```
+**找法**：中文「刻板印象 ／ 固有印象（对某一类人）」⇒ stereotypes about ＋ 那一类人。
+
+**怎么发现的**
+2026-10-14　C10 D3 学习日 组1 第 4 题（主考点 #0568，命中 ✅）。中文「这类广告只会强化人们对女性的刻板印象」，
+她写 `reinforce people's **stereotypes**(背下) of women` —— 写对了，并当场括注 **「背下」** ⇒ §2③ 她点名要背。
+
+查重（§3.5 B0）
+```
+① 词面查  dedup "stereotype" "stereotypes"              ⇒ 命中 #0568
+② 规则查  dedup "刻板印象" "偏见"                        ⇒ 命中 #0295 #0568
+③ 眼过    list --fam F08（270 条）里查「印象／偏见／成见／stereotyp」⇒ 零命中（①② 之外）
+逐条否掉：
+  #0568（reinforce，今天 🎓）—— 最像的一条：stereotypes 是那条搭配例句里的宾语。问1：那条是动词「强化」，本条是名词「刻板印象」⇒ 否；
+    问3：会 reinforce 不会自动带出 stereotype ⇒ 否。交叉引用。
+  #0295（based on ／ rooted in，🎓）—— 「偏见」只是成员出题账里的字样 ⇒ 偶合 ⇒ 否
+⇒ 新建，归 F08，题型 **词组**（§3.5 第 2.5 步 ⑤：固定名词、无动词；
+　 契约⑬ 来源：她点名要背 ✔；F08 不在八个禁族里 ✔；触发点⛔ 无句号 ✔）。
+```
+
+**我错在哪**
+她这次写对了（`people's stereotypes of women`），点名要背 —— 建号理由是 §2③。
+
+**中文触发点**
+```
+（打破）性别刻板印象
+（人们对程序员的）刻板印象
+```
+
+### 历史记录
+- 2026-10-14 ③ 建号（她点名要背）C10 D3 学习日 组1 第 4 题（顺带用对）
+  她写 `Advertisements of this kind only reinforce people's **stereotypes**(背下) of women.` —— stereotypes ✔。
+  ⚠️ 同题主考点 #0568 ✅（reinforce）。
 
 ---
 

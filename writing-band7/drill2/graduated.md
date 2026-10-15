@@ -25370,7 +25370,7 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   她写 `Colleagues visited her every day during her stay in hospital, and she was finally discharged last Friday.` —— ⑤ in hospital 英式零冠词落地；① discharge 动词被动对。
 
 ## #0484 董事会 ＝ the board（of directors）
-状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -25457,6 +25457,9 @@ The fine was issued **on site**.　　 在现场开的罚单（地点）
   c「董事会主席」⇒ `Chairman of the Board` ✅ · d「（他被选进了）董事会」⇒ `the board` ✅
 - 2026-10-10 📋 C9 D4 复习日 复检组9 第 7 题（顺带用对）
   她写 `the board of directors shall convene …` —— 董事会 ⇒ the board of directors，对。
+- 2026-10-14 📋 C10 D3 学习日 组1 第 2 题（顺带用对）
+  她写 `**The board of directors** was unanimous in deciding to close …` —— 块对，谓语单数也对（🎓 不变）。
+  ⚠️ 同题主考点 #0608 ✅。
 
 ## #0485 「…的那天」＝ the day of ＋ 名词
 状态：🎓 ｜ 连对 3 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 整句
