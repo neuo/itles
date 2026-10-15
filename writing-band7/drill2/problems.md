@@ -1664,7 +1664,7 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 </details>
 
 ## #0412 T1 流程题的物料词 —— scraps ／ pellets ／ by-product ／ residue
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1745,9 +1745,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   题面「（车间回收的）金属边角料」「（用木屑压成的）燃料颗粒」
   她两块都答「忘了」—— **调不出** scraps ／ pellets。当场给回：`metal scraps`（也说 scrap metal）· `fuel pellets`。
   🎓 吃 ❌ ⇒ 当场回潮。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 3e·3f 题（词组 · 回潮后首测）
+  题面「（做衣服剩下的）布料边角料」「（喂鱼用的）饲料颗粒」—— 换场景
+  她写 `fabric scraps` · `feed pellets` —— scraps ／ pellets 两个成员都调出（10-12 两块都忘了）⇒ 连错 1 → 连对 1。
 
 ## #0417 凭着（一个好凭据）＝ on the strength of
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1821,9 +1824,12 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 - 2026-10-12 ✅ C10 D2 学习日 组2 第 4a·5a 题（词组 · 回潮后首测）
   题面「凭着两项专利（整个块都要翻）」「凭着一份详尽的商业计划书（整个块都要翻）」
   她写 `on the strength of two patents` · `on the strength of a detailed business plan` —— on ／ the ／ strength 三个零件齐 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 4a 题（词组）
+  题面「凭着一封有分量的推荐信（整个块都要翻）」—— 换场景
+  她写 `on the strength of a compelling recommendation letter` —— on ／ the ／ strength 三零件齐，后面接的是有利凭据 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0437 议论文的抽象名词块一族（本篇实产）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1862,9 +1868,10 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
 `lose its reason for existence` ⛔ 不是 ~~existing reason~~。
 
 **中文触发点**
-服务人类这个宏大理想
-政治上的考虑
-失去存在的意义
+（用实验结果证明这种新材料的）优越性
+（对任何一项）追求（来说，坚持都是关键）
+（老触发点留档不删：服务人类这个宏大理想 ／ 政治上的考虑 ／ 失去存在的意义）
+⚠️ 2026-10-14 换题面（手工 —— 词组条目 `trigger` 不搬）：当天 4b 成员 superiority 没调出（写 advantages △）、any pursuit 建号后没单独测过 ⇒ 存成复检题面（§3.5 第 3.5 步 ①）
 
 ### 历史记录
 - 2026-09-03 ③ 建号（她点名要学）作文 T2-10（顺带用对，五处）
@@ -1892,9 +1899,17 @@ P12 大小写（08-16 归类：聊天答题里按规则 C 大小写不计 ⇒ �
   题面「（没人来参观的博物馆就）失去了存在的意义」「（这位科学家一生追求的）服务人类的宏大理想」
   她写 `lose reasons for existence` · `the grand ideal of serving humanity` —— reason for existence ✔（⛔ 没写成 existing reason，10-10 塌的那一块）；grand ideal of serving humanity ✔ ⇒ 连错 1 → 连对 1。
   ⚠️ reasons 复数、少了 its ⇒ 契约⑬ 不判单复数与限定词；对照块提醒：进句子是 lose its reason for existence。
+- 2026-10-14 △ C10 D3 学习日 组2 第 4b 题（词组 · 成员 superiority）
+  题面「（用数据证明这种疗法的）优越性」
+  她写 `the advantages` —— 成立（好处、长处），但没调出本条成员 superiority（比别的更强这一点）⇒ △。
+  同日 4c 成员 reason for existence ✅ ⇒ 当天结算 ✅（有 ✅、无 ❌）。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 4c 题（词组 · 成员 reason for existence）
+  题面「（这类节目一旦没人看就）失去了存在的意义」—— 换场景
+  她写 `lost its reason for existence` ✔（⛔ 没写成 existing reason —— 她点名的旧错）⇒ 当天结算 ✅ ⇒ 连对 1 → 2 ⇒ 🎓。
+  没调出的成员 superiority 写进中文触发点，交给复检队列（§3.5 第 3.5 步 ①）。
 
 ## #0438 商业与产业块一族：pharmaceutical ／ market share ／ excess profits
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -1957,6 +1972,9 @@ progress **不可数**（⛔ a progress）。
   题面「（几家跨国）制药企业」「（靠垄断赚取的）超额利润」
   她写 `multinational pharmaceutical enterprises` · `excess profits` —— pharmaceutical 调出、拼对（10-10 塌的那一块）；excess ✔ ⇒ 连错 1 → 连对 1。
   ⚠️ enterprises ⇒ #0258 △（「企业」直译；跨国大药企默认 companies）。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 4d·4e 题（词组）
+  题面「（国产品牌不断扩大的）市场份额」「（在行业里保持）领先地位」—— 换成员（10-12 测的是 pharmaceutical ／ excess profits）
+  她写 `an expanding market share` · `a leading position in the industry` —— 两个成员都调出 ✔（契约⑬ 不判冠词）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0442 「优先级」一族：the top priority ／ a priority ／ take precedence over ／ come first
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 整句
@@ -2265,7 +2283,7 @@ progress **不可数**（⛔ a progress）。
   她写 `Advertisements of this kind only **reinforce** people's stereotypes of women.` —— reinforce 直接跟宾语、拼对 ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0569 「霸凌」＝ bullying
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2305,9 +2323,12 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0403 ✅（tackle ／ crack down on）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 d ＋ 第 5 题 d（词组题，本条占 2 个块 · 首测）
   4d「网络霸凌」⇒ `cyberbullying` ✔ · 5d「（职场上的）霸凌」⇒ `workplace bullying` ✔
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 3a 题（词组）
+  题面「（学校新出台的）反霸凌（政策）」—— 换场景
+  她写 `anti-bullying` ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0570 「货架／书架」＝ shelf（复数 shelves）
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2348,9 +2369,12 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0390 ✅（deform 不及物 ＋ 及物）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 e ＋ 第 5 题 e（词组题，本条占 2 个块 · 首测）
   4e「（超市的）货架」⇒ `supermarket shelves` ✔（没写 shelfs）· 5e「（书房里）一排书架」⇒ `a row of bookshelves` ✔
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 3b 题（词组）
+  题面「（药店）货架（上摆满了感冒药）」—— 换场景
+  她写 `pharmacy shelves` ✔（复数 shelves 拼对，⛔ shelfs）⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0571 「（一项）行动／举措／倡议」＝ initiative
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2395,9 +2419,12 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0404 ✅（serve as ／ be regarded as）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 f ＋ 第 5 题 f（词组题，本条占 2 个块 · 首测）
   4f「（社区居民自发的）一项垃圾分类行动」⇒ `a community-led waste sorting initiative` ✔ · 5f「（政府推出的）一项减塑新举措」⇒ `a new plastic reduction initiative launched by the government` ✔
+- 2026-10-14 △ C10 D3 学习日 组2 第 3c 题（词组）
+  题面「（图书馆发起的）一项全民阅读活动」—— 换场景
+  她写 `a nationwide reading campaign` —— campaign 成立、意思送到，没调出本条的 initiative（本条判据：campaign 判 △）⇒ 两边不动。
 
 ## #0572 「显眼／扎眼」＝ conspicuous
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-10 ｜ 族 F08 ｜ 题型 词组
+状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F08 ｜ 题型 词组
 
 **问题是什么**
 ```
@@ -2441,6 +2468,9 @@ progress **不可数**（⛔ a progress）。
   ⚠️ 同题主考点 #0321 ✅（两处「非常」都没用 very）。
 - 2026-10-10 ✅ C9 D4 复习日 组1 第 4 题 g ＋ 第 5 题 g（词组题，本条占 2 个块 · 首测）
   4g「（穿着荧光背心，在人群里）格外显眼」⇒ `highly conspicuous in the crowd` ✔ · 5g「（门口）一块显眼的指示牌」⇒ `a conspicuous sign at the entrance` ✔
+- 2026-10-14 ❌ C10 D3 学习日 组2 第 3d 题（词组）
+  题面「（把警示标志放在）显眼的（位置）」—— 换场景
+  她答「忘了」—— **调不出** conspicuous。当场给回：`a conspicuous place／position`（con-spic-u-ous）⇒ 连对 1 → 连错 1。
 
 ## #0573 「青春期」＝ puberty
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F08 ｜ 题型 词组
@@ -4185,7 +4215,7 @@ progress **不可数**（⛔ a progress）。
 > 语法全对但中文明写的一层没送到
 
 ## #0126 中文里明写的修饰层，写英文时丢掉
-状态：在池 ｜ 连对 0 ｜ 连错 1 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F10
+状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F10
 
 **问题是什么**
 **这是全库出现次数最多的一条，累计 8 次以上。**
@@ -4957,6 +4987,11 @@ S13 **within just two days**                                              ← �
   主考点 #0320（✅）。中文「几乎无一例外都偏咸」，她写 `are **invariably** on the salty side` ——「几乎」这一层没送到（invariably ＝ 没有例外）。
   对的是 `are **almost invariably** on the salty side`。与 09-21 复习组1 第 8 题同一个形状（invariably 而非 almost invariably）。
   🎓 吃 ❌ ⇒ 当场回潮。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 1 题（主考点 · 回潮后首测）
+  题面换了场景：「这条老街上几乎所有的小店都已经换了主人，只有街角那家修鞋铺还是原来的老板。」（括号点名每一层都要出现）
+  她写 `**Almost all** small shops on this old street have changed hands, with **only** the shoe repair shop on the corner remaining under its **original** owner.`
+  必须送到的四层全在：几乎 almost · 所有 all · 只有 only · 原来的 original；已经 ← 现在完成时、还是 ← remaining 也扛住 ⇒ 连错 1 → 连对 1。
+  10-12 丢的正是「几乎」（invariably 而非 almost invariably）—— 这次被点名、送到了。
 
 ---
 
@@ -5430,7 +5465,7 @@ K（策略，需在下一篇作文里验）　0/3
   与这次机制取消无关。
 
 ## #0368 「换个角度／限定范围」一族：economically ／ in terms of ／ when it comes to ／ at the … level
-状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F14
+状态：🎓 ｜ 连对 2 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-14 ｜ 族 F14
 
 **问题是什么**
 中文的「在…方面／就…而言／从…角度看」，英文有五条路，**长短与位置都不一样**：
@@ -5544,6 +5579,10 @@ K（策略，需在下一篇作文里验）　0/3
   题面「这条新航线从商业上看很成功，但从噪音角度看，机场附近的住户吃了不少苦头；在地方层面，好几个镇还在抵制。（★ 前两处只有一处能直接用副词（像 economically 那样）—— 哪处用、另一处怎么说自己定；第三处用 at the … level）」（换题面：老题面 08-30 原样测过；新题面专测 10-10 的病 —— 副词只限真实存在的）
   她写 `This new air route is **commercially** successful, yet **in terms of** noise, residents near the airport have suffered considerably; **at the local level**, several towns are still resisting.`
   商业有现成副词 ⇒ commercially ✔；噪音没有 ⇒ in terms of noise ✔，⛔ 没造 noisily；at the local level ✔；三处三条路 ⇒ 连错 1 → 连对 1。
+- 2026-10-14 ✅ C10 D3 学习日 组2 第 2 题
+  题面「这个方案从技术上看完全可行，但从安全角度看还有不少隐患；在国家层面，也还没有相关的标准。」（★ 前两处只有一处能直接用副词（像 economically 那样）—— 哪处用、另一处怎么说自己定；第三处用 at the … level）—— 换场景
+  她写 `This proposal is **technically** completely feasible, yet **from a safety perspective**, there remain numerous potential hazards; **at the national level**, relevant standards have not yet been established.`
+  技术有现成副词 ⇒ technically ✔；安全没有 ⇒ from a safety perspective ✔（⛔ 没造 safely）；at the national level ✔ ⇒ 连对 1 → 2 ⇒ 🎓。
 
 ## #0595 「后来（才发现）」没说是哪件事之后 ⇒ later ／ it later turned out that（⛔ after／following 要挂一件事）
 状态：在池 ｜ 连对 1 ｜ 连错 0 ｜ 毕业线 2 ｜ 上次 2026-10-12 ｜ 族 F14 ｜ 题型 整句
