@@ -9034,7 +9034,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
 类型 搭配 ｜ 旧号 B230
-状态 连对2 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-17**（记录里明确判定毕业）｜ 题型 整句
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）
 
 **问题是什么**
 **cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
@@ -9053,8 +9053,9 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 找法：说"要花多少"先分一刀 —— 时间用 take、钱用 cost、人当主语用 spend。
 
 **题面**
-"从我家开车到机场要一个多小时。"
-　　★ 零提示：It takes …／The drive is … 都算对；她掉过的是时间配 cost
+"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"
+　　★ 零提示：钱 ⇒ cost me three thousand、时间 ⇒ took me a whole weekend（spend 以人做主语也对）；两个方向她都掉过（时间配 cost 的苗头 08-19、钱配 take 10-17 回潮）
+　　★ 2026-10-17 改：旧种子"从我家开车到机场要一个多小时"只测时间那一半
 
 - 2026-08-15 ❌
 - 2026-08-16 ✅
@@ -9067,6 +9068,8 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R12（P3 · 自由产出）· `People spend hours in front of screens every day now.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
   去掉"⛔ need"，改零提示（It takes …／The drive is … 都算对），逼的是时间配 cost 这条她掉过的路；换成开车去机场场景
+- 2026-10-17 ❌ 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S1 · `I'd like to tell you about my 3D printer, which took me about four thousand RMB.` ⇒ 钱配了 take ⇒ 最小改 which cost me about four thousand RMB ⇒ 🎓 回潮
+- 2026-10-17 📝 题面整改：种子改成钱＋时间同句（这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末）—— 今天回潮掉的是钱配 take，旧种子只测时间
 - 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
   首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
 
@@ -14561,6 +14564,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
   点名 end up，后面接 -ing 还是 to 留给她（她掉过的是 end up to queuing）；换成点外卖场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [2] · `we ended up staying at home watching TV all day.`
 - 2026-10-17 ✅ 付息日 复检第 6 组 [2] · `but I ended up cooking dinner on my own instead`
+- 2026-10-17 ✅ 自发命中 · 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S2 · `but I ended up going over budget after adding a multi-color printing accessory`
 
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
