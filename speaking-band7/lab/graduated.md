@@ -1141,7 +1141,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 32 · There's no point regretting it now.（比 It's no use 更常用）
 类型 结构 ｜ 旧号 B52⑤
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-21 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-21 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **There's no point ＋ -ing** ＝ 做这件事没意义（比 It's no use 更常用）。
@@ -1181,6 +1181,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉负向排除，正向点名 There's no point，-ing 留给她；换成生气场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [4] · `there is no point in chasing after it now.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [5] · `there's no point in getting angry now`（in 可省，她问过）
 
 ### 33 · on a clear day（替 if it's clear）
 类型 词组 ｜ 旧号 B52⑥
@@ -1745,7 +1746,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 49 · 人称一致：一句里、一段里都不能跳（统一 I 或统一 you）
 类型 结构 ｜ 旧号 B71＋B78
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-05 复检 ✅ → 09-11 复检答"忘了"，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-05 复检 ✅ → 09-11 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **人称一致**：一句之内、一段之内人称都不许跳 —— 统一 **I** 或统一 **you**，开头定了就不换。
@@ -1793,6 +1794,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 提示改正向）
   去掉"一句之内不许跳"负向写法，改成"定了就一路用到底"；换成跑步、在家办公两个新场景（两句都省主语，照旧逼她自己定人称）
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [5] · 两句人称一路 I／my／me
+- 2026-10-17 ✅ 付息日 复检第 5 组 [6] · 两句都一路用 I（biking to work ／ reading at the library）
 - 备注 08-05 一天内跳了 3 次（原 #55）
 - 备注 合并 2026-08-19：#55（人称一致·一段里）并入本条 —— 同一条规则，只是范围一句/一段
 
@@ -3038,7 +3040,7 @@ rather than 的两条**形态**规则在 🎓#245（两边同形）／🎓#246�
 
 ### 86 · go ON a trip / take a trip（不是 go to a trip）＋ where to STAY
 类型 搭配 ｜ 旧号 B138
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-21 毕业 → 09-05 复检 ✅ → 09-11 付息日重答 R10 自由产出里写成 `where to live`，后半格 where to STAY 掉了 —— 与 08-07 建号触发句一字不差，撤销毕业、连对清零。顽固已断的记号撤回：同一格五周后原样回来）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-21 毕业 → 09-05 复检 ✅ → 09-11 付息日重答 R10 自由产出里写成 `where to live`，后半格 where to STAY 掉了 —— 与 08-07 建号触发句一字不差，撤销毕业、连对清零。顽固已断的记号撤回：同一格五周后原样回来）
 
 **问题是什么**
 一道题面覆盖两个成员（同一场旅行语境里的两个块）：
@@ -3065,8 +3067,8 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 "下个月我们要出去玩几天，酒店还没定，得先查查住哪儿。"（"出去玩"用 **trip** 说，"住哪儿"用 **where to** 说）
 
 **成员出题账**
-① go on a trip／take a trip ｜ 08-19 ❌ · 08-20 ✅ · 08-21 ✅ · 09-05 ✅ · 09-11 未测到（本篇没出现）
-② where to stay ｜ 08-19 ❌ · 08-20 ✅ · 08-21 ✅ · 09-05 ✅ · 09-11 ❌
+① go on a trip／take a trip ｜ 08-19 ❌ · 08-20 ✅ · 08-21 ✅ · 09-05 ✅ · 09-11 未测到（本篇没出现） · 10-17 ✅（take a trip）
+② where to stay ｜ 08-19 ❌ · 08-20 ✅ · 08-21 ✅ · 09-05 ✅ · 09-11 ❌ · 10-17 ✅
 ★ 08-17 首次进流那一次 ❌ 未按成员记录。
 
 - 2026-08-17 ❌ 首次进流
@@ -3107,6 +3109,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"用 where to ＋ 一个动词"形态描述，正向点名 trip／where to；动词 stay 留给她（她掉过的就是 where to live）；换成订酒店场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [6] · `We're planing to take a trip for National Day, but we haven't figured out where to stay yet.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [7] · ① `My family is taking a two-day trip to the beach` ② `where to stay when we get there`
 
 ### 87 · consider sth（及物，不带 about）
 类型 搭配 ｜ 旧号 B139
@@ -10335,7 +10338,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 273 · fine sb FOR doing sth（罚款的介词是 for，不是 of／on）
 类型 搭配 ｜ **从 #25 拆出 2026-08-23**
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-27 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 本条 08-23 才从 #25 拆出来，拆出后只被测过两次 ⇒ 基础本来就薄）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-27 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 本条 08-23 才从 #25 拆出来，拆出后只被测过两次 ⇒ 基础本来就薄）
 
 **问题是什么**
 **fine sb FOR doing sth** —— 罚款的介词是 **for**（为了哪件事罚你）；
@@ -10386,6 +10389,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"fine ＋ 一个介词"形态描述，只点名 fine，for 留给她；换成超速场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [8] · `He got fined fifty bucks for eating on the subway.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [8] · `I got fined three hundred dollars for speeding last week.`
 
 ### 274 · prepare FOR class（备课／备考，介词是 for；prepare sth ＝ 把东西准备好）
 类型 搭配 ｜ **从 #41 拆出 2026-08-23**
@@ -10663,7 +10667,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 279 · get a feel for sth（慢慢摸出感觉／找到手感）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `get a feel of time`，介词滑到 of，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `get a feel of time`，介词滑到 of，撤销毕业、连对清零）
 
 **问题是什么**
 **get a feel for sth** ＝ 慢慢摸出感觉／摸出门道（对某个**领域**生出直觉）。
@@ -10720,6 +10724,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 feel，a／for 留给她（她掉过的是 a feel of）；宾语用抽象领域（客户心理）保证只有 a feel for 通
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [10] · `I'm slowly getting a feel for the rhythm.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [10] · `I slowly got a feel for customer psychology`
 
 ### 280 · make a huge difference（差别很大／很管用）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
@@ -11102,7 +11107,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 
 ### 286 · 整句句型：If A, B and C, a lot of X will happily do Y（条件够好 → 人自愿去做）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）｜ 点名 2026-08-28 加结构限定（08-27 她走了 `will be happy to` 这条绕路）
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-29 毕业 → 09-11 复检掉了 will：`many commuters happily leave…`，题面点名的 will happily 少了一半；08-27 绕 will be happy to、今天丢 will ⇒ 框没长稳，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-29 毕业 → 09-11 复检掉了 will：`many commuters happily leave…`，题面点名的 will happily 少了一半；08-27 绕 will be happy to、今天丢 will ⇒ 框没长稳，撤销毕业、连对清零）
 
 **问题是什么**
 整句句型：**If A, B and C, a lot of X will happily do Y**（条件够好 → 人就自愿去做）。
@@ -11175,6 +11180,7 @@ So it's really about ＋【动名词 A】first, and then ＋【动名词 B】.
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"⛔ be happy to"与形态描述，点名 if ／ will happily —— 三个并列条件同形、will 不能掉留给她（她掉过的就是丢了 will）；换成年轻妈妈回去工作场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [9] · `If the rent is cheap, transit is convenient, and the neighborhood is quiet, plenty of young people will happily move to the suburbs.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [9] · `If working hours are flexible, it's close to home, and the pay is decent, many young moms will happily return to the workforce.`
 - 备注 骨架与用法：
 ```
 If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ will happily ＋【一个具体动作】.
@@ -11591,7 +11597,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 294 · "留心／注意着点" ＝ be mindful of sth（mind 没有形容词用法）
 类型 搭配 ｜ 新建 2026-08-24（**她当场指定**）
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句 ｜ **回潮 2026-09-10**（08-26 毕业 → 09-10 复检写成 `be mind of`，名词 mind 被塞进 be ___ of 的槽，撤销毕业、连对清零）
 
 **问题是什么**
 "留心／注意着点" ＝ **be mindful of sth**；**mind 没有形容词用法**。
@@ -11665,6 +11671,7 @@ be mindful **of** ＋ 名词 ／ of how… ／ of what…      ★ 介词写死�
 - 2026-09-29 ✅ 复检第 2 组 · `be mindful of how often and how much you give.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"mind 的形容词形式"形态描述；她点名要学的块 ⇒ 直接点名 mindful（练），be … of 怎么挂留给她；换成吃零食场景
+- 2026-10-17 ✅ 付息日 复检第 5 组 [1] · `you just need to be mindful of how much you're eating`
 
 ### 295 · "做某事的目的" ＝ the purpose OF doing sth（口语直接说 why they do it）
 类型 搭配 ｜ 新建 2026-08-24
@@ -14113,7 +14120,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 329 · terrified ＝ 吓坏了（scared 的顶格版，⛔ 不加 very）
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
 
 **问题是什么**
 **terrified ＝ 吓坏了**（scared 的顶格版）：它本身已经是顶格 ⇒ ⛔ 不说 very terrified，
@@ -14154,6 +14161,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-09-29 ✅ 复检第 2 组 · `be terrified.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   她点名要学的词 ⇒ 直接点名 terrified，考的是前面还加不加 very（本条锁的边界）；换成遇到蛇场景
+- 2026-10-17 ✅ 付息日 复检第 5 组 [2] · `and I was absolutely terrified`
 
 ### 330 · set one's mind to sth（下定决心要做的事）
 类型 词组 ｜ 新建 2026-09-09
@@ -14251,7 +14259,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 
 ### 332 · 名词化的"提议/请求"拆回【动词 ＋ when 从句】
 类型 结构 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
 
 **问题是什么**
 中文的"他拒绝了我**回去的提议**"里，"提议"是个名词块；英语默认把它**拆开**：
@@ -14294,10 +14302,11 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 ✅ 复检第 2 组 · `he refused to turn back when I suggested it.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 去负向排除）
   去掉"⛔ proposal／suggestion"，只留正向"用 when 从句说"；换成请人帮忙搬家场景
+- 2026-10-17 ✅ 付息日 复检第 5 组 [3] · `When I asked him to help me move, he agreed without missing a beat.`
 
 ### 333 · 间接引语里人称一路跟到底（I told him to … **his**）
 类型 结构 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-13** ｜ 题型 整句
 
 **问题是什么**
 **间接引语里人称一路跟到底**：`I told him to A, B, C…` 底下并列多少个动作，人称就得跟到底 ——
@@ -14335,6 +14344,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-13 ✅ 学习日 在池第 3 组 · `I told him to hug the log and pull his other foot over.`——told him to 底下 **his** 跟到底（log 是她 09-09 原话里的那根，照用）⇒ **连对 2，毕业**
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 ✅ 复检第 2 组 · `I told him to hug the log, and pull his other foot over.`
+- 2026-10-17 ✅ 付息日 复检第 5 组 [4] · `I told her to put her phone down and get her homework done first.`
 
 ### 334 · the cause OF sth（⛔ cause for）
 类型 搭配 ｜ 新建 2026-09-10
