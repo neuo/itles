@@ -1217,7 +1217,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 
 ### 34 · in groups（小组）≠ in pairs（两人一组）
 类型 词组 ｜ 旧号 B53
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-11 复检写成 `get paired in groups`，把 paired 与 groups 焊在一起 ＝ 正中本条要分开的那两个词，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 词组 ｜ **回潮 2026-09-11**（08-20 毕业 → 09-11 复检写成 `get paired in groups`，把 paired 与 groups 焊在一起 ＝ 正中本条要分开的那两个词，撤销毕业、连对清零）
 
 **问题是什么**
 **in groups**（以小组为单位）≠ **in pairs**（两人一组）——
@@ -1258,6 +1258,7 @@ give or take · sick and tired · safe and sound —— 词序焊死（back and 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉【介词＋名词复数】形态描述与三个排除项；题面改成两个中文块（两人一组 ／ 按小组），逼的就是她焊在一起的 pair／group 那一刀
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [2] · `Pair up for a workout. split into small groups to discuss.`
+- 2026-10-17 ✅ 付息日 复检第 3 组 [3]d · `practicing dialogues in pairs in English class`
 
 ### 35 · 禁双重否定：否定 → no- 词，动词一律肯定（Nobody knows.）
 类型 语法 ｜ 旧号 B54＋B207c
@@ -5668,7 +5669,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 162 · made OF ／ OUT OF ＋ 材料；写画出来的 ＋ IN（written in pencil）
 类型 搭配 ｜ 旧号 B251
-状态 连对2 连错0 上次2026-10-09 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06；10-04 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-17 ｜ **回潮 2026-10-04**（08-20 她指定毕业 → 10-04 复检 #98 题里把果盘说成 `spelt out in apples and grapes`，材料那一边借了写字的块，撤销毕业、连对清零）｜ **合并条·出题多句覆盖** ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06；10-04 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 一道题面覆盖两个成员：
@@ -5715,6 +5716,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-10-05 ✅ 学习日 在池第 1 组 [1]（两句覆盖）· `the big words written on the blackboard in red chalk` ／ `a planter made out of an old tire` —— 写出来的 ＋ in ／ 材料 ＋ out of，两个成员都对。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [1]（合并条两句）· ① `the message written on the mirror in lipstick` ② `a lantern made out of plastic bottles` —— written … in lipstick ／ made out of 两个成员都对。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [1] · ① `the meeting schedule written on the whiteboard in marker` ② `a bag made out of old jeans` —— written … in marker ／ made out of，两个成员都对
+- 2026-10-17 ✅ 付息日 复检第 3 组 [6] · ① `a signature written in blue ballpoint pen` ② `a basket woven out of bamboo`
 
 ### 163 · "愣住了／说不出话"（I just stood there.／I froze.）
 类型 词组 ｜ 旧号 B252
@@ -16587,7 +16589,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **pull an all-nighter** ＝ 熬一整个通宵（复习、赶活、玩到天亮）；几次就 `pull three all-nighters`。
@@ -16616,6 +16618,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-05 ✅ 学习日 在池第 1 组 [5] · `I pulled an all-nighter cramming for the exam the night before it.` —— pulled an all-nighter（整块点名首测）。连错 1 → 连对 1；下次点名降回 all-nighter
 - 2026-10-06 ✅ 学习日 在池第 1 组 [3]（点名降到 all-nighter）· `I pulled an all-nighter last week to rush my paper out.` —— pull／an 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [2] · `To launch the project on time, the whole team pulled an all-nighter last night.` —— 点名降到 all-nighter，pull／an 自己补上
+- 2026-10-17 ✅ 付息日 复检第 3 组 [7] · `My roommate pulled another all-nighter last night`
 
 ### 398 · be on the line（押上了、搞砸就没了：My job is on the line.）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学 ｜ 与 #396 互斥（各自正向点名 on the line／at stake）
@@ -16651,7 +16654,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 
 ### 399 · negotiation（谈判，名词）／negotiate（动词）
 类型 词汇 ｜ 新建 2026-10-04
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **negotiate** 是动词（`We negotiated for hours.`）；**negotiation** 是名词（`this negotiation` · `rounds of negotiations` · `salary negotiations`）。
@@ -16682,10 +16685,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 1 组 [7] · `After several rounds of negotiating, …` —— "谈判"落在 of 后面当名词用，动名词 negotiating 合法（§3.3：合法即 ✅）；名词 negotiation 没逼出来 ⇒ 种子换成"这次谈判拖了整整三个月。"（this 后面只能接名词）。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [5]（新种子"这次谈判拖了整整三个月"）· `This negotiation dragged on for three full months.` —— this 后面落名词 negotiation。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [3] · `Negotiating with the supplier went way smoother than we thought it would.` —— 动名词当主语合法、贴题面，名词没被逼出来 ⇒ 题面可绕开，记 ✅，当天改种子（"最艰难的一场谈判"）
+- 2026-10-17 ✅ 付息日 复检第 3 组 [8] · `That was the longest negotiation he ever had to conduct …`
 
 ### 400 · come here just to ＋ 动词（专门来做某事；⛔ people here just to …漏了 come）
 类型 结构 ｜ 新建 2026-10-04
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 "很多人专门为他来（吃饭）" ＝ `People come here just to try his food.`（大老远专门来：`come all the way here just to …`）
@@ -16715,10 +16719,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 1 组 [8] · `A lot of tourists visit this historic street just to snap some photos.` —— 有动词 visit 再接 just to，没漏谓语。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [6] · `My friend flew in from Shanghai just to catch this concert.` —— 有动词 flew in 再接 just to。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [4] · `My coworker drove all the way to the suburbs over the weekend just to pick strawberries.` —— drove … just to，动词没漏
+- 2026-10-17 ✅ 付息日 复检第 3 组 [9] · `My cousin flew in from abroad just to make it to my birthday party.`
 
 ### 401 · fruit platter（果盘／水果拼盘）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
 
 **问题是什么**
 **fruit platter** ＝ 切好摆在大浅盘里的水果拼盘（派对、饭后端上来的那种）；platter ＝ 拼盘用的大浅盘：a cheese platter ／ a seafood platter。
@@ -16746,10 +16751,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 1 组 [9] · `a giant fruit platter served at the birthday party` —— fruit platter。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [7] · `a free fruit platter on the house（这个词组学一下) after dinner.` —— fruit platter。连对 1 → 2 ⇒ **毕业**（她标学 on the house ⇒ 另建 #413；free 与 on the house 叠用进 diff-2）
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [5]a · `a fruit platter ordered in a KTV room` —— fruit platter
+- 2026-10-17 ✅ 付息日 复检第 3 组 [3]b · `a fruit platter on every table at the company's annual party`
 
 ### 402 · pull off ＋ 难事（办成、搞定）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **pull sth off** ＝ 把一件难办的事办成了（婚礼、演出、惊喜派对、一桌大菜）：`They pulled it off.` ／ `pull off a surprise party`。
@@ -16778,10 +16784,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 1 组 [10] · `With only one week to prepare, they actually pulled off the wedding.` —— pulled off（整块点名首测）。连错 1 → 连对 1；下次点名降回 pull
 - 2026-10-06 ✅ 学习日 在池第 1 组 [8]（点名降到 pull）· `He actually managed to pull off such a tough magic trick on his first time on stage.` —— off 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [6] · `With just ten seconds left, they actually pulled off a huge comeback(这个词背一下).` —— 点名降到 pull，off 自己补上 ｜她标「这个词背一下」⇒ comeback 另建 #439
+- 2026-10-17 ✅ 付息日 复检第 3 组 [10] · `she actually managed to pull off the exhibition`
 
 ### 403 · squeeze on(to) ＋ 车（挤上车）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 词组
 
 **问题是什么**
 **squeeze on** ／ **squeeze onto the train** ＝ 人多、硬挤上车；挤进去 ＝ squeeze in ／ squeeze into a car。
@@ -16809,6 +16816,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 2 组 [1] · `I barely managed to squeeze onto the bus during evening rush hours.` —— squeeze onto the bus。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [9]（题面"早高峰硬挤上一节塞满人的地铁"）· `squeezing into a crowded subway car during the morning rush hour` —— 题面是"一节"车厢 ⇒ squeeze into a car（正文本来就收）。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [5]b · `squeezing onto a packed green train during the Spring Festival rush` —— squeezing onto
+- 2026-10-17 ✅ 付息日 复检第 3 组 [3]c · `squeezing onto a packed sightseeing bus`
 
 ### 404 · overly ＋ 形容词（过度…、过于…）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -18389,7 +18397,7 @@ he's had to … last week：完成时撞上钉死的过去时间 ⇒ 时态选�
 
 ### 453 · apartment complex（自己住的"小区"；⛔ our residential area）
 类型 词汇 ｜ 新建 2026-10-11
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **apartment complex** ＝ 自己住的那片楼（几栋楼围在一起、有大门／物业）：`the stray cats in our apartment complex` ／ `There's a gym in our complex.`（熟了直接说 our complex）
@@ -18417,10 +18425,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-11 ❌ 首犯 · 学习日 在池第 2 组 [3]（#447 题里）· diff-2 ⚠️ · 原话 `those stray cats living downstairs in our residential area` ⇒ 更好版 in our apartment complex
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [6] · `A new fruit store just opened up right outside our apartment complex.` —— our apartment complex（没落到 residential area）。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [4] · `Our apartment complex has a pretty big pool, and it gets super busy in the summer.` —— apartment complex。连对 1 → 2 ⇒ 毕业
+- 2026-10-17 ✅ 付息日 复检第 3 组 [1] · `Parking is so limited in our apartment complex …`
 
 ### 454 · cut back on ＋ 东西（少吃／少用／少花：cut back on sugar）
 类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **cut back on sth** ＝ 把某样东西的量减下来（少吃、少用、少花）：`cut back on the sugar` ／ `I'm trying to cut back on coffee.` ／ `We need to cut back on spending.`
@@ -18449,10 +18458,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [7] · `The doctor told my dad to cut back on salt.` —— cut back on salt。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [5] · `I've been trying to shed some weight lately, so I've cut back on milk tea.` —— cut back on（on 自己补上）。连对 1 → 2 ⇒ 毕业
   ⚠️ diff-2：补 a lot（"少多了"的程度）
+- 2026-10-17 ✅ 付息日 复检第 3 组 [2] · `we've cut back on eating out this month`
 
 ### 455 · underprivileged（家境困难的、条件差的 —— 说"穷"的体面说法）
 类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 词组
 
 **问题是什么**
 **underprivileged** ＝ 家境困难、缺少基本条件的（说人，比 poor 体面，慈善、公益场合常用）：`underprivileged kids` ／ `underprivileged families` ／ `underprivileged communities`
@@ -18479,10 +18489,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-11 ❌ 首犯 · 学习日 复检第 3 组 [5]（#416 题里）· 她标「这个词学下」· 原话 `This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.`
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [8] · `underprivileged kids living in the mountain areas` —— underprivileged。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [6] · `a scholarship dedicated to supporting students from underprivileged backgrounds` —— underprivileged。连对 1 → 2 ⇒ 毕业
+- 2026-10-17 ✅ 付息日 复检第 3 组 [3]a · `underprivileged families that this charity specifically supports`
 
 ### 456 · crafted（手工／精心做出来的：a manually crafted request · a carefully crafted message）
 类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **craft** ＝ 花心思、一点点手工做出来；过去分词当形容词最常用：`a manually crafted network request`（手工构造的请求）· `a carefully crafted message`（精心写的一段话）· `hand-crafted furniture`（手工做的家具）。
@@ -18510,10 +18521,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S8 · 她标「这个词学下」· 原话 `he managed to inject a manually crafted(这个词学下) network request and started tracking it across the node logs.`
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [9] · `He carefully crafted a birthday message and read it to his mom during dinner.` —— carefully crafted a birthday message。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [7] · `Every piece of jewelry in this small shop is crafted by hand with great care.` —— is crafted ＋ by hand；with great care 与 carefully 同级。连对 1 → 2 ⇒ 毕业
+- 2026-10-17 ✅ 付息日 复检第 3 组 [4] · `a thoughtfully crafted handwritten card`
 
 ### 457 · build up ＋ 经验／积蓄（一点点攒起来：build up experience）
 类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **build up ＋ 东西** ＝ 在时间里一点点攒起来：`how much experience he'd built up` · `build up some savings` · `build up your stamina`（练出体力）· `build up trust`。
@@ -18541,6 +18553,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-11 ❌ 首犯 · 学习日 ③ 新题 bank:963 S13 · 她标「这个词组学下」· 原话 `Plus, his debugging setup was really handy, which showed how much experience he'd built up(这个词组学下).`
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [10] · `I've slowly built up a bit of savings over the past few years.` —— built up … savings。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [8] · `For the first few years after I graduated, I was mostly focused on building up my work experience.` —— building up（up 自己补上）。连对 1 → 2 ⇒ 毕业
+- 2026-10-17 ✅ 付息日 复检第 3 组 [5] · `she built up a solid network of contacts`
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
