@@ -1603,10 +1603,14 @@ def cmd_attempts(args):
                 rc = 1
             for l in raw:
                 print(l)
-            better = _quad_need(s["parts"].get("更好版", []))
-            if better:
-                print(f"（参考 · 旧答 {n} 当时的更好版）")
-                for l in better:
+            # ★ 当时的更好版 ＋ 逐句 diff 一起打（她 2026-10-17 定：有多少次旧答给多少次）
+            #   围栏记号去掉 —— 整段要贴进 ④ 的同一个 ``` 块，内层围栏会把外层提前关掉
+            for key, name in (("更好版", "② 更好版"), ("逐句", "③ 逐句 diff")):
+                part = _quad_need(s["parts"].get(key, []))
+                print(f"（旧答 {n} · 当时的{name}）")
+                if not part:
+                    print(f"（原篇没有「{name}」这一节 —— 当时没写，⛔ 不补编）")
+                for l in part:
                     print(l)
             print()
         lg = legacy.get(k)
@@ -1615,7 +1619,8 @@ def cmd_attempts(args):
             rid, first, extra = lg
             more = f"；lab 之外的重答日 {'、'.join(extra)}" if extra else ""
             print(f"★ 首答 {first}（{rid}）在 lab/sessions 之前{more} —— 原话不在上面，"
-                  f"去下面的出处逐字抄进 ④（写成「旧答 · {first} · 首答（出处）」；找不到写「旧答 · 首答原话未存」）")
+                  f"去下面的出处逐字抄进 ④（写成「旧答 · {first} · 首答（出处）」；找不到写「旧答 · 首答原话未存」；"
+                  f"当时的更好版／逐句 diff 旧档案里有就一并逐字抄，没有写「当时更好版 · 未存」）")
         elif not srcs:
             print("★ lab 里一次旧答都没有 —— 去下面的出处逐字抄进 ④；找不到写「旧答 · 首答原话未存」")
         if (lg and (first_lab is None or lg[1] < first_lab)) or not srcs:
@@ -1866,6 +1871,8 @@ LOOK_FROM = "2026-09-19"
 #   —— 这天起写的 session 硬查
 COMPARE_FROM = "2026-10-14"
 COMPARE_KEY = "旧答对比"
+# ④ 里每次旧答除了原话，还要逐字摆出【当时的更好版 ＋ 逐句 diff】（她 2026-10-17 定）—— 这天起写的重答节硬查
+COMPARE_FULL_FROM = "2026-10-17"
 # 对比分析的四栏（行首认）：没有内容也要写「无」
 COMPARE_LABELS = ("进步", "退步", "没变", "总评")
 # session 首行的日型标记：`# 2026-09-11 · **R**（付息日 …）`
@@ -2346,6 +2353,15 @@ def _compare_faults(sc, sec):
                 out.append(f"「{COMPARE_KEY}」里旧答 {n}（{src['date']} · 原篇 {where}）的原话"
                            f"少了 {len(miss)}／{len(need)} 行：`{miss[0][:48]}` —— "
                            f"跑 `lab.py attempts {k}` 原样贴（⛔ 不许压缩、不许省次）")
+            # ★ 2026-10-17 起：当时的更好版 ＋ 逐句 diff 也要逐字在（原篇没写这一节就不查）
+            if sc["date"] >= COMPARE_FULL_FROM:
+                for key, name in (("更好版", "② 更好版"), ("逐句", "③ 逐句 diff")):
+                    need2 = _quad_need(src["parts"].get(key, []))
+                    miss2 = [x for x in need2 if x not in body]
+                    if miss2:
+                        out.append(f"「{COMPARE_KEY}」里旧答 {n}（{src['date']} · 原篇 {where}）当时的{name}"
+                                   f"少了 {len(miss2)}／{len(need2)} 行：`{miss2[0][:48]}` —— "
+                                   f"跑 `lab.py attempts {k}` 原样贴（每次旧答的原话 ＋ 更好版 ＋ 逐句 diff 都要在）")
     for lab_ in COMPARE_LABELS:
         if not any(s.startswith(lab_) for s in rows):
             out.append(f"「{COMPARE_KEY}」缺「{lab_}」一栏（行首写 `{lab_}`）—— "

@@ -142,7 +142,7 @@ def errs(d, text, name="2026-10-14.md", key="旧答"):
     return [l for l in out.split("\n") if l.startswith("ERROR") and key in l], out
 
 
-head("【A0 正】attempts 打出 lab 里全部旧答（日期升序）：原话逐字 ＋ 参考更好版 ＋ 出处；⛔ 今天及以后的不算")
+head("【A0 正】attempts 打出 lab 里全部旧答（日期升序）：原话 ＋ 当时的更好版 ＋ 逐句 diff 逐字 ＋ 出处；⛔ 今天及以后的不算")
 with sandbox(sessions=False) as d:
     world(d)
     rc, out = attempts(["bank:700"])
@@ -152,7 +152,18 @@ with sandbox(sessions=False) as d:
     ck("报了次数", "lab 里的旧答 2 次" in out, out[:300])
     for l in ("Rivers is nice.", "I walk there on weekend.", "Rivers are relaxing for me."):
         ck(f"原话逐字：{l}", l in out.split("\n"), out[:600])
-    ck("参考更好版也打了", "Rivers really help me unwind." in out)
+    ck("当时的更好版也打了（两次都有）", "Rivers really help me unwind." in out
+       and "Rivers are lovely. I go walking there on weekends." in out, out[:900])
+    for n in ("1", "2"):
+        ck(f"旧答 {n} 的更好版／逐句 diff 各有小标题", f"（旧答 {n} · 当时的② 更好版）" in out
+           and f"（旧答 {n} · 当时的③ 逐句 diff）" in out, out[:900])
+    ck("逐句 diff 逐字打出（旧答 1 的 [S1]）", "[S1] Rivers is nice." in out.split("\n"), out[:900])
+    ck("逐句 diff 逐字打出（旧答 2 的 [S1]）", "[S1] Rivers are relaxing for me." in out.split("\n"), out[:900])
+    ck("每次旧答内部顺序：原话 → 更好版 → 逐句 diff",
+       out.index("I walk there on weekend.") < out.index("（旧答 1 · 当时的② 更好版）")
+       < out.index("[S1] Rivers is nice.") < out.index("旧答 2 · "), out[:900])
+    ck("⛔ 输出里没有 ``` 行（整段要贴进 ④ 的同一个围栏）",
+       not any(l.startswith("```") for l in out.split("\n")), out[:900])
     ck("注明原篇出处", "2026-09-20.md:L" in out and "2026-10-01.md:L" in out)
     ck("⛔ 今天之后那篇不算旧答", "FUTURE ANSWER" not in out)
     ck("⛔ 别的题（bank:701）不混进来", "Lakes is calm." not in out)
@@ -303,5 +314,69 @@ with sandbox(sessions=False) as d:
     ck("三次：09-20 → 10-01 → 10-14", [x[1] for x in order] == ["2026-09-20", "2026-10-01", "2026-10-14"], order)
     ck("⛔ 10-14 那篇的 ④ 里贴的旧原话不被当成第三次的原话",
        out.split("\n旧答 3 · ")[1].count("Rivers is nice.") == 0, out)
+
+head("【A5 正】原篇没写「③ 逐句 diff」节 ⇒ attempts 明说没有，⛔ 不补编")
+with sandbox(sessions=False) as d:
+    world(d)
+    nodiff = free("2026-09-22", "L3", "③ 新题 · 第 1 道（bank:703 · P3 · cold）", "Seas is big.", "Seas are vast.")
+    nodiff = nodiff[:nodiff.index("### ③ 逐句 diff")] + "## ④ 收尾核对\n"
+    put(d, "2026-09-22.md", nodiff)
+    rc, out = attempts(["bank:703"])
+    ck("更好版照打", "Seas are vast." in out, out)
+    ck("明说原篇没有逐句 diff", "原篇没有「③ 逐句 diff」这一节" in out, out)
+
+head("【H0 正】10-17 起的重答节：④ 原样贴 attempts（原话 ＋ 更好版 ＋ 逐句 diff）⇒ ERROR 0")
+with sandbox(sessions=False) as d:
+    world(d)
+    rc, body = attempts(["bank:700"], today="2026-10-17")
+    e, out = errs(d, redo_session("```\n" + body + "\n```\n\n" + VERDICT, date="2026-10-17"),
+                  name="2026-10-17.md")
+    ck("没有任何「旧答」ERROR", not e, e[:3])
+
+head("【H1 负】10-17 起：旧答 1 的更好版没贴 ⇒ ERROR 点名旧答 1 当时的② 更好版")
+with sandbox(sessions=False) as d:
+    world(d)
+    rc, body = attempts(["bank:700"], today="2026-10-17")
+    cut = body.replace("Rivers are lovely. I go walking there on weekends.\n", "")
+    e, out = errs(d, redo_session("```\n" + cut + "\n```\n\n" + VERDICT, date="2026-10-17"),
+                  name="2026-10-17.md")
+    ck("点名旧答 1（09-20）当时的② 更好版少了 1／1 行",
+       any("旧答 1（2026-09-20" in x and "② 更好版" in x and "1／1" in x for x in e), e)
+    ck("⛔ 旧答 2 没被冤枉", not any("旧答 2" in x for x in e), e)
+
+head("【H2 负】10-17 起：旧答 2 的逐句 diff 没贴（只贴了原话 ＋ 更好版）⇒ ERROR 点名旧答 2 当时的③ 逐句 diff")
+with sandbox(sessions=False) as d:
+    world(d)
+    rc, body = attempts(["bank:700"], today="2026-10-17")
+    cut = body.replace("[S1] Rivers are relaxing for me.\n", "")
+    e, out = errs(d, redo_session("```\n" + cut + "\n```\n\n" + VERDICT, date="2026-10-17"),
+                  name="2026-10-17.md")
+    ck("点名旧答 2（10-01）当时的③ 逐句 diff", any("旧答 2（2026-10-01" in x and "③ 逐句 diff" in x for x in e), e)
+    ck("⛔ 旧答 1 没被冤枉", not any("旧答 1" in x for x in e), e)
+
+head("【H3 正】分界线之前（10-14）的重答节：只贴原话、没贴更好版／diff ⇒ ⛔ 不按新口径查")
+with sandbox(sessions=False) as d:
+    world(d)
+    only_raw = ("旧答 1 · 2026-09-20\nRivers is nice.\nI walk there on weekend.\n"
+                "旧答 2 · 2026-10-01\nRivers are relaxing for me.")
+    e, out = errs(d, redo_session("```\n" + only_raw + "\n```\n\n" + VERDICT))
+    ck("10-14 只有原话也不报", not e, e)
+with sandbox(sessions=False) as d:
+    world(d)
+    e2, out2 = errs(d, redo_session("```\n" + only_raw + "\n```\n\n" + VERDICT, date="2026-10-17"),
+                    name="2026-10-17.md")
+    ck("同样内容放到 10-17 ⇒ 报（更好版、逐句 diff 两次旧答各一条）",
+       len([x for x in e2 if "当时的" in x]) == 4, e2)
+
+head("【H4 正】原篇本来就没写逐句 diff ⇒ 10-17 起也只查原篇有的（⛔ 不冤枉）")
+with sandbox(sessions=False) as d:
+    world(d)
+    nodiff = free("2026-09-22", "L3", "③ 新题 · 第 1 道（bank:703 · P3 · cold）", "Seas is big.", "Seas are vast.")
+    nodiff = nodiff[:nodiff.index("### ③ 逐句 diff")] + "## ④ 收尾核对\n"
+    put(d, "2026-09-22.md", nodiff)
+    rc, body = attempts(["bank:703"], today="2026-10-17")
+    e, out = errs(d, redo_session("```\n" + body + "\n```\n\n" + VERDICT, date="2026-10-17", pid="bank:703"),
+                  name="2026-10-17.md")
+    ck("没有任何「旧答」ERROR", not e, e[:3])
 
 sys.exit(report("lab.py attempts／旧答对比闸 正/负向测试"))
