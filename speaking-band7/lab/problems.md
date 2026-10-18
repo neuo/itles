@@ -739,7 +739,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
 类型 搭配 ｜ 新建 2026-10-13
-状态 连对1 连错0 上次2026-10-14 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 说住的地方、酒店**交通方便**（从这儿出门去别处方便）：`The apartment is really convenient for getting around.` · `It's close to public transport.`
@@ -771,10 +771,11 @@ diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient 
 
 - 2026-10-13 新建 · 学习日 复检第 4 组 [1]（#96 题里）· diff-2 ⚠️ · 原话 `I'm looking to rent a place that's quiet and convenient to get around.` ⇒ 更好版 convenient for getting around
 - 2026-10-14 ✅ 学习日 在池第 3 组 [1] · `The hotel we stayed at was right next to the subway station, so it was super easy to get around.` —— "方便"挂在 get around 这件事上（it was super easy to get around），没说成 the hotel is convenient to get around。首测 ⇒ 连对 1
+- 2026-10-17 ✅ 付息日 在池第 2 组 [5] · `… so it's super easy to get around wherever I want to go.`（it's easy to …，没让公寓 be easy to get around）。连对 1 → 2 ⇒ 🎓
 
 ### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对1 连错0 上次2026-10-14 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **make ＋ 东西 ＋ feel special** ＝ 让某天／某件事显得特别、跟平常不一样：
@@ -804,10 +805,11 @@ diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历
 - 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S1 · diff-2 ⚠️ 书面块 · 原话 `… a sense of ritual that elevates the day above ordinary routine.` ⇒ 更好版 makes the day feel special
 - 2026-10-14 ✅ 学习日 在池第 3 组 [2] · `My friends threw me a little surprise on my birthday, and it really made the day feel special.` —— made the day feel special。首测 ⇒ 连对 1
   ⚠️ diff-2：threw me a little surprise → planned a little surprise for me ⇒ 新建 #481
+- 2026-10-17 ✅ 付息日 在池第 2 组 [6] · `… which really made the moment feel special.`。连对 1 → 2 ⇒ 🎓
 
 ### 478 · show how much you care（用行动表心意：It's a way of showing how much you care；⛔ acts as a tangible signal of love）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对1 连错0 上次2026-10-14 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **show (sb) how much you care ／ how much you love them** ＝ 用行动表达心意：
@@ -837,10 +839,11 @@ diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历
 - 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S2 · diff-2 ⚠️ 书面块 · 原话 `Plus, Spending generously on a meal acts as a tangible signal of love and appreciation.` ⇒ 更好版 is a way of showing how much you love and appreciate someone
 - 2026-10-14 ✅ 学习日 在池第 3 组 [3] · `My mom sends me a huge box of specialties from home every time—it's just her way of showing how much she cares.` —— her way of showing how much she cares。首测 ⇒ 连对 1
   ⚠️ diff-2：sends me … every time → always sends me …（偏好，不建号）
+- 2026-10-17 ✅ 付息日 在池第 2 组 [7] · `… that's just his way of showing how much he cares.`。连对 1 → 2 ⇒ 🎓（同句 drop off 她问和 send 的区别 ⇒ 新建 #501）
 
 ### 479 · bring sb closer (together)（拉近感情；⛔ provides a space to deepen their emotional connection）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对1 连错0 上次2026-10-14 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **bring ＋ 人 ＋ closer (together)** ＝ 让人感情更近：`Cooking together brings us closer.` · `The trip really brought the two of them closer together.`
@@ -868,6 +871,7 @@ diff-2 ⚠️（不是 ❌）：书面块（心理学文章腔），口语版她
 
 - 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S3 · diff-2 ⚠️ 书面块 · 原话 `It provides a unique space for family or partners to deepen their emotional connection.` ⇒ 更好版 brings family or partners closer together
 - 2026-10-14 ✅ 学习日 在池第 3 组 [4] · `Taking care of that little dog together really brought our family closer.` —— brought our family closer。首测 ⇒ 连对 1
+- 2026-10-17 ✅ 付息日 在池第 2 组 [8] · `Getting lost together during that hike actually brought us colleagues a lot closer.`。连对 1 → 2 ⇒ 🎓
 
 ### 480 · **change jobs**（换工作：jobs 复数、不带冠词；⛔ change the job／change job）
 类型 搭配 ｜ 新建 2026-10-14
@@ -1180,7 +1184,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **stay on** ＝ 本来可以走（毕业了／合同到了／实习完了），却留在原地接着待、接着干：
@@ -1207,6 +1211,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：After her internship ended, the company asked if she wanted to stay on, so she did.
 
 - 2026-10-16 新建 · 学习日 在池第 2 组 [4]（#486 题里）· diff-2 ⚠️ · 原话 `… and the last one stayed at school for grad school.` ⇒ 更好版 stayed on for grad school
+- 2026-10-17 ✅ 付息日 在池第 2 组 [9] · `… the company asked her if she wanted to stay on, and she said yes.`。首测 ⇒ 连对 1
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
@@ -1334,7 +1339,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 495 · **beat around the bush**（绕弯子、不直说正题：Stop beating around the bush）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **beat around the bush** ＝ 说话绕来绕去、就是不说正题（故意回避或不好意思直说）：
@@ -1361,10 +1366,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Stop beating around the bush and just tell me what you actually want.
 
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [10]（🎓#136 题里）· 她标「这个词组学下」· 原话 `I asked him where the money went, and he beat around the bush（这个词组学下) for a while before finally telling the truth.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [1] · `Stop beating around the bush and just tell me what you really want.`。连错 1 → 连对 1
 
 ### 496 · **be overrun with** ＋ 坏东西（到处都是、泛滥成灾：a city overrun with crime）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be overrun with X** ＝ 一个地方被 X 占满了、泛滥成灾（X 多是不想要的东西：老鼠、蟑螂、杂草、游客、犯罪）：
@@ -1394,10 +1400,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 互斥：与 🎓#450 同组时，#450 题面 ⛔ 不出"老鼠／害虫成灾"。
 
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S5 · 她标「学一下」· 原话 `The whole story takes place in Gotham, a fictional city overrun（学一下） with corruption and crime.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [2] · `… and now it's completely overrun with rats.`。连错 1 → 连对 1
 
 ### 497 · **have ＋ 东西 ＋ done** ＝ 遭遇（had my phone stolen）；人出事 ⇒ watched X get …
 类型 结构 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **have ＋ 东西 ＋ 过去分词**，除了"叫人做"（I had my hair cut），还能表示"遭遇了某事"（倒霉、不是自己安排的）：
@@ -1427,10 +1434,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：I had my wallet stolen on the subway last month.
 
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S6 · 她标「被动遭遇 have 的用法学下」· 原话 `Bruce Wayne, who becomes Batman, had(被动遭遇 have 的用法学下) his parents shot and killed when he was just a kid.` ⇒ 更好版 watched his parents get shot and killed
+- 2026-10-17 ✅ 付息日 在池第 2 组 [3] · `I had my wallet stolen on the subway last month.`。连错 1 → 连对 1
 
 ### 498 · **vigilante**（不靠警察、私自出手惩治坏人的人；义警）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **vigilante** ＝ 没有执法身份、自己动手抓坏人／惩罚坏人的人（Batman 就是最典型的 vigilante）：
@@ -1456,10 +1464,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 "电影里那种不靠警察、自己出手惩治坏人的蒙面义警"（没有执法身份、私自替天行道的那种人）
 
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S7 · 她标「背一下」· 原话 `… and his way of doing that is by becoming a vigilante(背一下), striking fear into the hearts of criminals.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [4] · `a masked vigilante in the movie who takes justice into his own hands …`（in the movie → in the movies 只进 diff-2）。连错 1 → 连对 1
 
 ### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
 类型 句型 ｜ 新建 2026-10-16
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 前面说完一个观点，要举一个具体的、真实的例子 ⇒ **Take X —**／**Take X, for example, …** 起手，后面接完整句：
@@ -1488,6 +1497,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 互斥：与 🎓#30 同组时，#30 题面 ⛔ 用真实的人举例（只出假设情况）。
 
 - 2026-10-16 新建 · 学习日 ③ 重答 bank:1011 S10 · diff-2 ⚠️ · 原话 `Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.` ⇒ 更好版 Take the Joker in the second movie—
+- 2026-10-17 ✅ 付息日 在池第 2 组 [10] · `Take my nephew, for instance—he has cram school every single night until nine.`。首测 ⇒ 连对 1（同句 cram school 她标要学 ⇒ 新建 #502）
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
@@ -1517,6 +1527,64 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 "买车时先交的那笔首付"（先付一大笔，剩下的再分期还的那种）
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 1 组 [3]（#482 题里）· 她标「首付这个词需要学下」· 原话 `What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
+
+### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
+类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**drop off sth ／ drop sth off** ＝ 自己（多半是顺路）把东西或人带到某处、放下就走：
+`drop off the kids at school` · `drop the keys off at my mom's` · `drop off a package at the front desk`。代词放中间：`drop it off`（⛔ drop off it）。
+同一格里的邻居（别串）：send ＝ 让邮局／快递／别人送过去，自己不到场（send a parcel · send her flowers）· bring ＝ 带过来（朝说话人这边）· deliver ＝ 送货（多是职业行为）。
+判据一句话：自己亲自跑一趟、放下就走 ⇒ drop off；东西过去了、人没去 ⇒ send。
+★ 题型判整句：要靠句子才看得出"人去没去"、代词摆在哪儿。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 2 组 [7]（🎓#478 题里）· 原话
+`Every day after work, he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital—that's just his way of showing how much he cares.`
+她问「和 send 的区别学下」⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "drop off" ⇒ 零命中；邻居 dedup "send" ⇒ 🎓#263（双宾语语序：人在前东西在后）· 🎓#319（present sth to sb）⇒ 都是介词／语序框架规则，不是"亲自去 vs 寄过去"⇒ 否
+　② 中文 dedup "送" ⇒ 命中的全是题面里的"送"字样（送礼、送货），没有一条讲"亲自送 vs 寄"⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 drop off，但不确定和 send 的分界　　目标：`drop off soup for his grandma`（他自己去）
+找法：中文「送过去」先问 —— 我自己去吗？去 ⇒ drop off；不去 ⇒ send。
+
+**题面**
+"我下班顺路把备用钥匙放到我妈那儿就走了。"（"顺路放下"用 **drop off** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [7]（#478 题里）· 她问「和 send 的区别学下」· 原话 `… he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital …`
+
+### 502 · **cram school**（补习班：为了考试突击补课的校外班）
+类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**cram school** ＝ 为了升学考试、放学后／周末去的补习班（亚洲语境最常用）：
+`go to cram school` · `have cram school until nine` · `spend weekends at cram school`。动词 **cram** ＝ 考前临时突击：`cram for an exam`。
+同一格里的邻居（别串）：tutoring ／ a tutor（一对一或小班辅导，中性）· extra classes（加课）· after-school classes（课后班，不一定是补习）。
+判据一句话：为了考试、校外、密集填鸭 ⇒ cram school；一对一请老师 ⇒ tutoring。
+★ 题型判词组：一个固定名词块，缺口只是调不调得出来；中文"为了考试突击的补习班"能映射回 cram school。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 2 组 [10]（#499 题里）· 原话
+`Kids are under so much pressure these days. Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "cram school" ⇒ 零命中；"cram" ⇒ 只命中 🎓#403 正文字样（挤上车）⇒ 否
+　② 中文 dedup "补课"／"tutoring" ⇒ 只命中本条触发题 #499 的题面 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学下」（词组不在手边）　　目标：`he has cram school every night until nine`
+找法：说"补习班／补课班"先落 cram school；说"请家教"是 a private tutor。
+
+**题面**
+"（为了中考突击的那种）周末补习班"（放学后、周末去的校外补课班）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [10]（#499 题里）· 她标「这个词组学下」· 原话 `… Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
 
 ## 迁移说明（2026-08-18）
 
