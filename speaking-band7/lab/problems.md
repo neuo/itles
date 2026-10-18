@@ -1586,6 +1586,93 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [10]（#499 题里）· 她标「这个词组学下」· 原话 `… Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
 
+### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
+类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**over ＋ 名词** ＝ 为了（某件事）而争、而气、而折腾，常带"就为了这么点事"的口气：
+`argue／fight over money` · `get upset over nothing` · `make a fuss over a small mistake` · `rewrite the whole thing over a missing comma`。
+同一格里的邻居（别串）：even if ＋ 整句（就算…也…）· because of ＋ 名词（中性的原因）· about（argue about 也行，over 更口语、更带"就为了这个"）。
+判据一句话：后面只是一个名词、说的是"为了这点事就…"⇒ over；后面是一整句假设 ⇒ even if。
+★ 题型判整句：over 挂在哪个动作后面（argue／get upset／make sb redo）要靠句子现形。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [1]（🎓#404 题里）· 原话
+`My boss is overly strict about details—he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
+她自己标「这个 over 的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "argue over"／"fight over"／"over a" ⇒ 只命中 🎓#368（land a job，正文字样）⇒ 否
+　② 中文 dedup "小事" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 over，但不确定这个用法（本来想写 even if）　　目标：`make me rewrite a whole document over a missing comma`
+找法：中文「为了／就因为（一件小事）」先试 over ＋ 名词；要说"就算…"才用 even if ＋ 整句。
+
+**题面**
+"他俩为了谁洗碗吵了一晚上。"（"为了"用 **over** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（#404 题里）· 她标「这个 over 的用法学下」· 原话 `… he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
+
+### 504 · **take up ＋ 时间／空间**（占掉）vs **It takes ＋ 时间**（需要多久）
+类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**It takes (sb) ＋ 时间 ＋ to do** ＝ 做这件事需要多久：`It took us two hours to get it in.`
+**take up ＋ 时间／空间** ＝ 占掉一块（偏"挤占"）：`It takes up a lot of my time.` · `The sofa takes up too much space.`
+同一格里的邻居（别串）：take up ＋ 爱好 ＝ 开始学（took up yoga，是"开始"那一下，不配一段时长）· spend ＋ 时间 ＋ doing（人当主语）。
+判据一句话：说"需要多久"⇒ take；说"占地方／占时间"⇒ take up。
+★ 题型判整句：take 与 take up 的分工要靠句子才看得出（主语是事、宾语是时间还是空间）。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [3]（🎓#176 题里）· 原话
+`This method of learning words works wonders for me, even though it takes up (take up和 take 的区别) a lot of time.`
+她问「take up 和 take 的区别」⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #501 先例）。
+判重三步：
+　① 目标形式 dedup "take up" ⇒ 只命中 🎓#206（书面词降级，正文字样）⇒ 否
+　② 中文 dedup "占地方"／"占时间" ⇒ 未命中可比条目（以英文形式为准）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 takes up，但分不清和 take 的区别　　目标：`it takes up a lot of time`（占掉）／ `it takes two hours`（需要）
+找法：中文「占（地方／时间）」⇒ take up；「花了／要（多久）」⇒ It takes。
+
+**题面**
+"这个大沙发太占地方了，光搬进门就花了我们两个小时。"（"占地方"用 **take up** 说，"花了…小时"用 **take** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [3]（#176 题里）· 她问「take up 和 take 的区别」· 原话 `… even though it takes up (take up和 take 的区别) a lot of time.`
+
+### 505 · **in a bit**（一会儿、马上）vs **in a while**（过一阵子／好久没）
+类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**in a bit** ＝ 一会儿、马上（几分钟内，口语）：`I'll call you back in a bit.` · `I'll be there in a bit.`
+**in a while** ＝ 过一阵子（时间更长、更含糊）；否定句里 ＝ 好久没：`I haven't seen him in a while.`
+同一格里的邻居（别串）：in a minute／in a sec（同 in a bit，更短）· for a while（持续了一阵子，说时长）· after a while（过了一会儿，讲过去的事）。
+判据一句话：马上就会发生 ⇒ in a bit；隔了挺久、或"好久没"⇒ in a while。
+★ 题型判整句：两个块的分工要靠句子里的时间关系（将来马上 vs 好久没）才现形。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [8]（🎓#67 题里）· 原话
+`I've finished washing all the winter clothes, so I'm going to put them away in a bit(in a bit / in a while 学下).`
+她自己标「in a bit / in a while 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "in a bit"／"in a while" ⇒ 零命中
+　② 中文 dedup "一会儿"／"好久没" ⇒ 未作判据（以英文形式为准）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 in a bit，但不确定和 in a while 的分界　　目标：`put them away in a bit`
+找法：中文「一会儿就」⇒ in a bit；「好久没」⇒ haven't … in a while。
+
+**题面**
+"我一会儿就到；说起来，我们好久没见了。"（"一会儿"用 **in a bit** 说，"好久没"用 **in a while** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [8]（#67 题里）· 她标「in a bit / in a while 学下」· 原话 `… so I'm going to put them away in a bit(in a bit / in a while 学下).`
+
 ## 迁移说明（2026-08-18）
 
 ```

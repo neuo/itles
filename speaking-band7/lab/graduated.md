@@ -2312,7 +2312,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 67 · 可分离动词短语的位置（代词必须放中间：put it away）
 类型 结构 ｜ 旧号 B95
-状态 连对1 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-08-21 · 她指定**（"这个也是"）｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-08-21 · 她指定**（"这个也是"）｜ 题型 整句
 
 **问题是什么**
 **可分离动词短语的位置**：唯一硬规则是**代词只能放中间** —— put **them** away ✅ ／ put away **them** ✗。
@@ -2354,6 +2354,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-09-15 📝 产出验机制取消 ⇒ 恢复出题：题型格回默认「整句」、删掉 ⛔ 复习组停出 标记、题面换回留档的那条真题面（点名「它们」，逼出代词必须放中间）
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
 - 2026-09-28 ✅ 复检第 2 组 · `After playing toys, you should put them away.`
+- 2026-10-17 ✅ 付息日 复检第 4 组 [8] · `… I'm going to put them away in a bit.`（同句 in a bit 她标学 ⇒ 新建 #505）
 - 备注 唯一硬规则：**代词只能放中间** —— put **them** away ✅ ／ put away **them** ✗
   同族：turn it off ／ pick her up ／ throw it away ／ work it out ／ give it back
   名词则两边都行：put the toys away ＝ put away the toys
@@ -6268,7 +6269,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 176 · efficient（省时间人力）vs effective（达到效果）
 类型 词汇 ｜ 旧号 B46
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-10-17 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检用 works well 绕开形容词槽位，形容词一次没出现，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **efficient（省时间人力）vs effective（达到效果）**：
 判据：effective ＝ 达到效果（有没有用）／ efficient ＝ 省时间省人力（快不快、省不省）。
@@ -6313,6 +6314,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"⛔ useful／helpful"，改成零提示整句：effective／works well 都算对，"花时间"半句把 efficient 放进对照 —— 她 08-11 掉的正是拿 efficient 当"有效"
+- 2026-10-17 ✅ 付息日 复检第 4 组 [3] · `This method of learning words works wonders for me …`（没落到 efficient；同句 take up 她问 ⇒ 新建 #504）
 
 ### 177 · 名词表语（a waste of time／a must／a plus）
 类型 结构 ｜ 旧号 B51
@@ -6779,7 +6781,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 193 · lose interest IN sth（介词是 in）
 类型 搭配 ｜ 旧号 B107a
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-10-17 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-17 毕业 → 09-05 复检写成 lose interest **to**，她自己标注"这个介词不确定"，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **lose interest IN sth**（介词写死是 **in**）。
 判据：interest 后面要接"对什么"一律 **in** —— be interested **in** ／ have an interest **in** ／ lose interest **in**，
@@ -6826,6 +6828,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 interest，介词 in 留给她（她 09-05 写成 lose interest to）；换成学吉他场景
+- 2026-10-17 ✅ 付息日 复检第 4 组 [4] · `… but then gradually lost interest in it.`
 
 ### 194 · screen time（⭐ 她自产）；balance A and／with B
 类型 搭配 ｜ 旧号 B108
@@ -8652,7 +8655,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 239 · miss out on sth
 类型 词组 ｜ 旧号 B185
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-07**（08-15 毕业 → 09-07 复检写成 `miss something like friendship`，**out on 整个丢了**，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-09 ⚡ 自评免测 ＋ 09-10 ✅；09-07 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-10-17 ｜ 题型 整句 ｜ **回潮 2026-09-07**（08-15 毕业 → 09-07 复检写成 `miss something like friendship`，**out on 整个丢了**，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-10**（连对2 ＝ 09-09 ⚡ 自评免测 ＋ 09-10 ✅；09-07 回潮后第二次毕业）
 **问题是什么**
 **miss out on sth** ＝ 本来能得到却没得到。
 同一格里的邻居（别串）：光一个 miss ＝ 想念／没赶上（miss the bus）；lose out on 同样地道，
@@ -8687,6 +8690,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 miss，out on 两个小词留给她（她掉过的正是 out on 整个丢了）；换成加班错过孩子成长场景
+- 2026-10-17 ✅ 付息日 复检第 4 组 [6] · `… he's missed out on a lot of his child's growing-up moments.`
 
 ### 240 · keep an eye ON sth
 类型 搭配 ｜ 旧号 B189
@@ -9204,7 +9208,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 257 · 以身作则 ＝ lead by example／practise what you preach
 类型 词组 ｜ 新建 2026-08-19
-状态 连对2 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `lead by yourself`，by 后面塞了人，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
+状态 连对2 连错0 上次2026-10-17 ｜ 题型 整句 ｜ **回潮 2026-09-05**（08-21 毕业 → 09-05 复检写成 `lead by yourself`，by 后面塞了人，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-09-09**（连对2 ＝ 09-07 ✅ ＋ 09-09 ⚡ 自评免测）
 **问题是什么**
 **以身作则 ＝ lead by example ／ practise what you preach**。整块记：lead by **example**（example 单数，⛔ 不带 the／your／a）。
 判据：这句话是**说给谁听的**？对小孩 → behave yourself ／ 对大人（要求他做榜样）→ lead by example。
@@ -9245,6 +9249,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 lead，by example 留给她（她掉过的是 lead by yourself）；换成经理场景
+- 2026-10-17 ✅ 付息日 复检第 4 组 [5] · `Managers need to lead by example …`
 - 备注 来源有意思：这个块是同日第 9 组讲 explain yourself 时顺带列的同族（behave/enjoy/help yourself），
   她当场抓来用了 ⇒ **迁移意识对，但块的使用对象没跟着记** —— 以后给同族清单时要连"对谁用"一起给
 
@@ -9386,7 +9391,7 @@ the thing 在英语里指"那个具体物件"，拿来指抽象的事会很怪�
 
 ### 261 · 这一小撮抽象名词不可数：feedback／advice／information／knowledge／research／progress（action 已于 09-11 拆出 → #335）
 类型 语法 ｜ **合并条·出题必须整组出**（§3.2c，她 2026-08-23 定：只出一句 ＝ 违规）｜ 新建 2026-08-20
-状态 连对2 连错0 上次2026-09-29 ｜ **🎓 已毕业 2026-09-13** ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-09-07**（08-23 她指定毕业 → 09-07 复检七个成员六个对、`take actions` 又加了 -s，与 08-20 首犯同一个成员，撤销毕业、连对清零。★ action 已于 2026-09-11 付息日 c 段按 §3.2c③ 单拆成 #335，本条剩六个成员照常走连击）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-13** ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-09-07**（08-23 她指定毕业 → 09-07 复检七个成员六个对、`take actions` 又加了 -s，与 08-20 首犯同一个成员，撤销毕业、连对清零。★ action 已于 2026-09-11 付息日 c 段按 §3.2c③ 单拆成 #335，本条剩六个成员照常走连击）
 
 **问题是什么**
 **这一小撮抽象名词不可数**：feedback ／ advice ／ information ／ knowledge ／ research ／ progress
@@ -9507,6 +9512,7 @@ action 这个成员已于 2026-09-11 按 §3.2c③ 单拆成 **#335**，不在�
 - 2026-09-29 ✅ 复检第 2 组 · 六成员全出 · `get positive feedback. some advice. more information. knowledge alone. not much research. make great progress.`
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句（类型 语法 ⛔ 不许标词组）
   考点是 -s／a 挂不挂 ＝ 靠句子现形；六个成员各写一句新场景（避开 09-07 发过的"光有知识是不够的／这方面的研究还不多"），只点名那个名词
+- 2026-10-17 ✅ 付息日 复检第 4 组 [10] · 六句 feedback · advice · information · knowledge · research · progress 都没加 -s
 - 备注 中文"更愿意干"口语不走"采取行动"：**more willing to give it a go／to go for it／to have a crack at it**
 - ★ **2026-08-31 c 段结案：本条下面那个"付息日待办"已被 08-23 裁掉，属陈账。**
   结论见本条上方 08-23 那行：**不并，改成交叉引用**（理由两条：往已毕业条目塞成员 ＝ 制造假 🎓；
@@ -13892,7 +13898,7 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）
 类型 结构 ｜ 新建 2026-09-07
-状态 连对2 连错0 上次2026-09-28 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-11**（连对2 ＝ 09-09 ✅ ＋ 09-11 ✅）｜ 题型 整句
 
 **问题是什么**
 嵌入疑问的 **wh 词不能吞**（know **what** they want）。
@@ -13960,6 +13966,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
   ⇒ 考点靠句子现形 ⇒ 整句题 ⇒ §6.5⑥ 要求有主语、能独立成句；旧题面正是那条的反例形状
 - 2026-09-18 ⚡ 自评免测 · 复检第 3 组
 - 2026-09-28 ✅ 复检第 2 组 · `he's smart enough to know what he really wants and how to reach it.`
+- 2026-10-17 ✅ 付息日 复检第 4 组 [9] · `She knows exactly what kind of life she wants for herself.`
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 325 · obstacle course（闯关设施／障碍训练场）
@@ -14066,7 +14073,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对1 连错0 上次2026-09-27 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-10 · 她指定**（§3.3「她可直接指定」；原话："这个直接毕业吧"。首测 ✅ ＋ 她指定 ⇒ 连对停在 1，⛔ 未凑连对2）
+状态 连对1 连错0 上次2026-10-17 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-10 · 她指定**（§3.3「她可直接指定」；原话："这个直接毕业吧"。首测 ✅ ＋ 她指定 ⇒ 连对停在 1，⛔ 未凑连对2）
 
 **问题是什么**
 中性尺寸与比较级一律 **small**（⛔ **littler** 不存在）。
@@ -14102,6 +14109,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
   ★ 她当场指定毕业（原话："这个直接毕业吧"）⇒ §3.3「她可直接指定」⇒ **🎓·她指定**，连对停在 1
 - 2026-09-15 ⚡ 自评免测 · 复检第 3 组（她原话："除了 7 全都直接过"）
 - 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-10-17 ✅ 付息日 复检第 4 组 [7] · `Our current apartment is a bit smaller than the one we used to have.`
 
 ### 329 · terrified ＝ 吓坏了（scared 的顶格版，⛔ 不加 very）
 类型 词汇 ｜ 新建 2026-09-09
@@ -16820,7 +16828,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 404 · overly ＋ 形容词（过度…、过于…）
 类型 词汇 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 **overly** ＋ 形容词 ＝ 过度、过于（说"超出合适的那个度"）：overly ambitious ／ overly cautious ／ overly protective。
@@ -16848,10 +16856,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 2 组 [2] · `Some parents are overly protective of their kids, never letting them do anything on their own.` —— overly protective of。连错 1 → 连对 1
 - 2026-10-06 ✅ 学习日 在池第 1 组 [10] · `He is overly critical of his own work and never satisfied no matter how much he tweaks(这个词学下） it.` —— overly critical。连对 1 → 2 ⇒ **毕业**（她标学 tweak ⇒ 另建 #414）
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [7] · `I felt like then ending of the movie was overly dramatic(这个词学下).` —— overly ＋ 形容词 ｜她标「这个词学下」⇒ sentimental ≠ dramatic 另建 #440
+- 2026-10-17 ✅ 付息日 复检第 4 组 [1] · `My boss is overly strict about details …`（同句 over 她标学 ⇒ 新建 #503）
 
 ### 405 · just as X, if not more so（同样 X，甚至更 X）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-06**（连对2 ＝ 10-05 ＋ 10-06）｜ 题型 整句
 
 **问题是什么**
 比较时先说"一样…"，再补"甚至更…"：`Family is just as important as work, if not more so.` —— so 指回前面的形容词。
@@ -16880,6 +16889,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 2 组 [3] · `Sleep is just as important as diet, if not more so.` —— if not more so（整块点名首测）。连错 1 → 连对 1；下次点名降回 if not
 - 2026-10-06 ✅ 学习日 在池第 2 组 [1]（点名降到 if not）· `Shopping for clothes online is just as convenient as buying in-store, if not more so.` —— more so 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [8] · `Taking care of kids at home is just as exhausting as going to work, if not more so.` —— 点名降到 if not，more so 自己补上
+- 2026-10-17 ✅ 付息日 复检第 4 组 [2] · `Cooking at home on weekends costs just as much as eating out, if not more so.`
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
