@@ -703,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 467 · charge 的主语是收钱的一方（the lot charges you）；事情本身花多少钱 ⇒ cost（parking costs you）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **charge** ＝ 收钱，主语是**收钱的人／机构**：`The parking lot charges twenty bucks an hour.` · `They charge you for the bags.`
@@ -735,6 +735,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-13 ❌ 学习日 在池第 2 组 [8] · `Parking in the city center charges twenty bucks an hour.` —— "停车"这件事当了 charge 的主语 ⇒ 最小改 `Parking lots in the city center charge twenty bucks an hour.`（或 Parking … costs …）。连错 1 → 2
 - 2026-10-14 ✅ 学习日 在池第 2 组 [3] · `This shop charges two hundred bucks to repair a phone.` —— 收钱的店当 charge 的主语。连错 2 → 连对 1
 - 2026-10-16 ❌ 学习日 在池第 1 组 [1] · 题面"从机场打车进市区，要一百五十块。"（点名 charge）· `Taking a cab from the airport to downtown costs a hundred and fifty bucks.`（她问"这不能用 charges 吧"）—— 那件事当主语换 costs 本身合法，但题面点名 charge、中文没给收钱的一方 ⇒ 没补出 they／cabs 当主语 ⇒ 最小改 `They charge you a hundred and fifty bucks to take a cab from the airport to downtown.`。连对 1 → 0，连错 0 → 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [1] · `This barbershop charges eighty bucks for a haircut.`（收钱的一方当主语）。连错 1 → 连对 1
 
 ### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
 类型 搭配 ｜ 新建 2026-10-13
@@ -870,7 +871,7 @@ diff-2 ⚠️（不是 ❌）：书面块（心理学文章腔），口语版她
 
 ### 480 · **change jobs**（换工作：jobs 复数、不带冠词；⛔ change the job／change job）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对1 连错0 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 "换工作"＝ **change jobs**：从一份工作换到另一份，涉及两份工作 ⇒ jobs 用复数、前面不带 the／my。
@@ -898,6 +899,7 @@ talk through 本身对（#463 ✅），changing the job ❌。lab 之前犯过�
 
 - 2026-10-14 ❌ 首犯 · 学习日 在池第 1 组 [9]（#463 题里）· 原话 `Before changing the job, my husband and I sat down and talked through the pros and cons.` ⇒ 最小改 Before changing jobs
 - 2026-10-16 ✅ 学习日 在池第 1 组 [7] · `My cousin changed jobs three times last year, and now she's finally landed one she actually likes.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [2] · `My uncle changed jobs quite a few times when he was younger …`。连对 1 → 2 ⇒ 🎓
 
 ### 481 · **plan a surprise for sb**（给人准备惊喜；throw 只配"办一场活动"：throw sb a surprise party）
 类型 搭配 ｜ 新建 2026-10-14
@@ -932,7 +934,7 @@ feel special 本身对（#477 ✅），diff-2 ⚠️（不是 ❌）：throw 不
 
 ### 482 · **far from** ＋ 形容词／enough（远远不够、远不是：far from enough · far from perfect；⛔ far away from enough）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对1 连错0 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **far from ＋ 形容词／enough** ＝ "远远不…／远不是…"：`It's far from enough.` · `The plan is far from perfect.` · `far from easy`。
@@ -959,10 +961,11 @@ support for 本身对（#315 ✅），far away from enough ❌（把说距离的
 
 - 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [8]（#315 题里）· 原话 `The school's support for international students is far away from enough.` ⇒ 最小改 is far from enough
 - 2026-10-16 ✅ 学习日 在池第 1 组 [8] · `This pay is far from enough to support a whole family.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [3] · `What we've saved so far is far from enough to cover a down payment.`。连对 1 → 2 ⇒ 🎓（同句「首付」她标要学 ⇒ 新建 #500）
 
 ### 483 · **on holidays／on public holidays**（节假日；⛔ on holiday ＝ 在度假）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对1 连错0 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 节假日（法定放假的那几天）⇒ **on holidays** ／ **on public holidays** ／ during the holidays。
@@ -989,6 +992,7 @@ opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）
 
 - 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [4]b（#343 题里）· 原话 `the opening hours of the gym on holiday` ⇒ 最小改 on holidays ／ 更好版 the gym's opening hours on public holidays
 - 2026-10-16 ✅ 学习日 在池第 1 组 [9] · `This bank is closed on public holidays.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [4] · `This supermarket is open as usual during the holidays.`（during the holidays 是正文列着的合法说法，没落到 on holiday）。连对 1 → 2 ⇒ 🎓
 
 ### 484 · **shipping**（物流、寄运：cross-border shipping · international shipping；⛔ express 单独当名词）
 类型 词汇 ｜ 新建 2026-10-14
@@ -1021,7 +1025,7 @@ cross-border 本身对（#432 ✅），diff-2 ⚠️（不是 ❌）：express �
 
 ### 485 · **smear**（抹、涂得一塌糊涂：smear lipstick all over her face · smear sth on sth）
 类型 词汇 ｜ 新建 2026-10-14 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **smear** ＝ 把又油又黏的东西胡乱抹开、抹得到处都是：`smear lipstick all over her face` · `smear butter on the bread` · `The kid smeared paint on the wall.`
@@ -1048,6 +1052,7 @@ cross-border 本身对（#432 ✅），diff-2 ⚠️（不是 ❌）：express �
 
 - 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [10]（#318 题里）· 她标「学下这个词」· 原话 `One time, when my daughter was five, she stole my lipstick and smeared(学下这个词) it all over her face.`
 - 2026-10-16 ✅ 学习日 在池第 1 组 [10] · `My little nephew smeared chocolate all over the wall.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [5] · `After eating skewers, my little brother smeared grease all over the couch.`。连对 1 → 2 ⇒ 🎓
 
 ### 486 · 一组里挨个说：**one … another … a third … the last one**（⛔ another 一路用到底）
 类型 句型 ｜ 新建 2026-10-14
@@ -1143,7 +1148,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 
 ### 489 · **in no time**（很快、没一会儿就…：the problem was fixed in no time；⛔ at no time ＝ 从来没有）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **in no time** ＝ 没一会儿就、很快就（强调快得出乎意料），挂在句尾修饰整个动作：
@@ -1171,6 +1176,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 ★ 目标形式（教练看，⛔ 不进发题稿）：I took my laptop in for repair, and the guy fixed it in no time.
 
 - 2026-10-16 ❌ 首犯 · 学习日 在池第 2 组 [6]（#488 题里）· 她标「这个词组学下」· 原话 `The homeowners went to property management as a group, and the problem was fixed in no time(这个词组学下)—there's strength in numbers.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [6] · `… and the guy fixed it in no time.`。连错 1 → 连对 1
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
@@ -1204,7 +1210,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **snap** ＝ 细长、硬的东西（钥匙、树枝、铅笔、筷子、尺子）突然"咔"一声断成两截：
@@ -1231,10 +1237,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：I pressed a bit too hard and the chopstick snapped.
 
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [3]f（🎓#451 题里）· 她标「背下」· 原话 `a locksmith called in after the key snapped(背下) inside the lock`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [7] · `The moment I pressed too hard, the chopstick snapped in two.`。连错 1 → 连对 1
 
 ### 492 · **perch**（鸟停、落在高处或边沿上：perch on people's shoulders）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **perch** ＝ 鸟停在（枝头、肩上、栏杆、电线）上；人坐在高处或边沿上也能说：
@@ -1261,10 +1268,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：There's a row of sparrows perched on the power line outside the window.
 
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#442 题里）· 她标「背下」· 原话 `My friend's parrot is really affectionate; it loves perching(背下) on people's shoulders.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [8] · `There was a row of sparrows perching on the power line outside the window.`。连错 1 → 连对 1
 
 ### 493 · **citywide**（全市的、全城范围的：a citywide tournament）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **citywide** ＝ 整座城市范围的（形容词，放名词前）：`a citywide tournament` · `a citywide blackout` · `a citywide ban on fireworks`。
@@ -1290,10 +1298,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 "全市范围的垃圾分类新规定"（整座城市都要照着执行的那种）
 
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [2]a（🎓#395 题里）· 她标「学下」· 原话 `the citywide（学下) high school basketball tournament`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [9] · `citywide waste sorting regulations`（漏了「新」只进 diff-1，不影响考点）。连错 1 → 连对 1
 
 ### 494 · **can't bring myself to do**（狠不下心、下不了手去做：I could never bring myself to throw them away）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **can't／couldn't bring yourself to ＋ 动词原形** ＝ 心里过不去、怎么也下不了决心去做（多用否定）：
@@ -1321,6 +1330,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My dad's old phone stopped working ages ago, but my mom just can't bring herself to throw it away.
 
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#46 题里）· 她标「这个词组学下」· 原话 `These old photos are things I could never bring myself to(这个词组学下) throw away.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [10] · `… but my mom just can't bring herself to throw it away.`。连错 1 → 连对 1
 
 ### 495 · **beat around the bush**（绕弯子、不直说正题：Stop beating around the bush）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
@@ -1478,6 +1488,35 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 互斥：与 🎓#30 同组时，#30 题面 ⛔ 用真实的人举例（只出假设情况）。
 
 - 2026-10-16 新建 · 学习日 ③ 重答 bank:1011 S10 · diff-2 ⚠️ · 原话 `Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.` ⇒ 更好版 Take the Joker in the second movie—
+
+### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
+类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**a down payment (on sth)** ＝ 首付，买房／买车时先一次付掉的那一部分，剩下的再贷款或分期：
+`save up for a down payment` · `put down a down payment on a flat` · `cover the down payment`。
+同一格里的邻居（别串）：deposit（英式也用来说买房首付 a deposit on a house；也是押金、定金）· mortgage（房贷，剩下借的那部分）· installment（分期付的每一期）。
+判据一句话：先付的那一大笔、后面还要接着还 ⇒ down payment（英式也可 deposit）。
+★ 题型判词组：一个固定名词块，缺口只是调不调得出来；中文"首付"能映射回 down payment。答 deposit 合法且贴题 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 1 组 [3]（#482 题里）· 原话
+`What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
+她自己标「首付这个词需要学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 先例）。
+判重三步：
+　① 目标形式 dedup "down payment" ⇒ 零命中；邻居 dedup "deposit"／"mortgage" ⇒ 零命中
+　② 中文 dedup "首付"／"按揭" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「需要学下」（词不在手边）　　目标：`cover a down payment`
+找法：说"首付"先落 down payment；说"房贷"是 mortgage，别串。
+
+**题面**
+"买车时先交的那笔首付"（先付一大笔，剩下的再分期还的那种）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 1 组 [3]（#482 题里）· 她标「首付这个词需要学下」· 原话 `What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
 
 ## 迁移说明（2026-08-18）
 
