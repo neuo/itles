@@ -13599,7 +13599,7 @@ one time 的内容，真正的事件反而被 when 挂成了从句 ⇒ 主句里
 
 ### 319 · present sth TO sb ／ present sb WITH sth（present 不进双宾语那一族）
 类型 搭配 ｜ 新建 2026-09-04
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（09-07 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零；09-05／09-07 两次 ✅ 之后隔 3 个练习日就忘 ⇒ 没长稳）
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句 ｜ **回潮 2026-09-11**（09-07 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零；09-05／09-07 两次 ✅ 之后隔 3 个练习日就忘 ⇒ 没长稳）
 
 **问题是什么**
 **present sth TO sb ／ present sb WITH sth** —— present 只有这两个框，⛔ 不进双宾语那一族。
@@ -13676,6 +13676,7 @@ present 的两个框（记框，不记单词）：
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"＋ 人在前"结构提示，只点名 present，with／to 怎么挂留给她；换成年会颁奖场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [1] · `the mayor personally presented the trophy to the campion.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [1] · `the principal personally presented her with the top graduate certificate`
 - 备注 **出题口径**：题面必须用 present **真正合适**的场合（颁奖／递交／正式呈上）。
   ⛔ 不出"孩子给妈妈看画"这种日常场景 —— 那种场景的正确答案是 show，出了会**教反**。
 - ⇒ **新建当天不测**（§3.1），下一个学习日起进池
@@ -14348,7 +14349,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 
 ### 334 · the cause OF sth（⛔ cause for）
 类型 搭配 ｜ 新建 2026-09-10
-状态 连对3 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **the cause OF sth** ＝ 某事的**起因**（the main cause **of** air pollution ／ the cause **of** the fire）。
@@ -14387,6 +14388,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"⛔ reason／source"，只点名 cause，of 留给她（她掉过的是 cause for）；换成火灾起因场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [4] · `The doctor haven't figured out the cause of his headache yet.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [4] · `The police are still investigating the cause of the fire.`
 
 ### 335 · take action（action 在这个块里不可数，⛔ take actions）
 类型 语法 ｜ 新建 2026-09-11（从 #261 拆出）
@@ -14478,7 +14480,7 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 
 ### 337 · look up sth（查；⛔ look up for）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#100 互斥（look for）
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **look up** ＋ 查的东西 ＝ 查（查地址／查营业时间／查一个词）：look up where to stay ／ look up the opening hours ／ look it up。
@@ -14519,10 +14521,11 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"look 起头的两个词"词数提示，只点名 look，up 后面夹不夹 for 留给她；换成查生词场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [3] · `I have to look it up on my phone.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [3] · `so I'll have to look it up`
 
 ### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
-状态 连对2 连错0 上次2026-09-30 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-09-15** ｜ 题型 整句
 
 **问题是什么**
 **end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
@@ -14557,6 +14560,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 end up，后面接 -ing 还是 to 留给她（她掉过的是 end up to queuing）；换成点外卖场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [2] · `we ended up staying at home watching TV all day.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [2] · `but I ended up cooking dinner on my own instead`
 
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
