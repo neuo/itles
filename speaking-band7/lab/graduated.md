@@ -9032,47 +9032,6 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
   两句都换新场景（开玩笑／朋友说"骗子"），照旧点名 far —— too／that 的分工留给她
 - 2026-10-09 ✅ 复检 · 学习日 复检第 4 组 [7] · `…is taking it too far.` ／ `The worst in town? Come on, it doesn't go that far.` —— too far ／ that far 分工对；② 的整块掉了归 #70
 
-### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
-类型 搭配 ｜ 旧号 B230
-状态 连对0 连错1 上次2026-10-17 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）
-
-**问题是什么**
-**cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
-`**it takes** two hours to cook a meal.`（时间 ⇒ take）｜ 钱 ⇒ cost ｜ 人当主语 ⇒ spend。
-同一格里的邻居（别串）：⚠️ **cost 只配钱**这条边界还没固化（08-19 她在自由句里 takes／costs 两个都列了出来，
-首选 takes 是对的 ⇒ 当时不记回潮，再出现一次按回潮处理）。
-判据一句话：先看花的是**钱**还是**时间**、主语是**人**还是 it —— 三条路各走各的。
-
-**怎么发现的**
-旧 B 表迁移（B230，2026-08-18）；最早记录 2026-08-15 ❌，触发原话未存。
-2026-08-16 ✅ ／ 2026-08-17 ✅ ⇒ 毕业。
-2026-09-05 复检第 1 组 ✅ `it takes two hours to cook a meal.`——take ＋ 时间。
-
-**我错在哪**
-她的：2026-08-15 记过一次 ❌（触发原话未存）；08-19 自由句里写过 `it just takes/costs ten minutes`（两个都列，⛔ 不记回潮）。
-找法：说"要花多少"先分一刀 —— 时间用 take、钱用 cost、人当主语用 spend。
-
-**题面**
-"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"
-　　★ 零提示：钱 ⇒ cost me three thousand、时间 ⇒ took me a whole weekend（spend 以人做主语也对）；两个方向她都掉过（时间配 cost 的苗头 08-19、钱配 take 10-17 回潮）
-　　★ 2026-10-17 改：旧种子"从我家开车到机场要一个多小时"只测时间那一半
-
-- 2026-08-15 ❌
-- 2026-08-16 ✅
-- 2026-08-17 ✅
-- 2026-09-05 ✅ 复检组 · 第 1 组 · `it takes two hours to cook a meal.` —— take ＋ 时间
-- 2026-09-19 📝 题面整改：补（⛔ 不许用 need）· 复检组发题前审核（§6.5 第 7 项）
-  `I need two hours to cook a meal.` 合法，绕开 take ＋ 时间 ⇒ 补排除项；spend 以人做主语在规则内
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
-- 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R11（P3 · 自由产出）· `my family spends the whole day cooking`——spend 以人做主语
-- 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R12（P3 · 自由产出）· `People spend hours in front of screens every day now.`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
-  去掉"⛔ need"，改零提示（It takes …／The drive is … 都算对），逼的是时间配 cost 这条她掉过的路；换成开车去机场场景
-- 2026-10-17 ❌ 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S1 · `I'd like to tell you about my 3D printer, which took me about four thousand RMB.` ⇒ 钱配了 take ⇒ 最小改 which cost me about four thousand RMB ⇒ 🎓 回潮
-- 2026-10-17 📝 题面整改：种子改成钱＋时间同句（这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末）—— 今天回潮掉的是钱配 take，旧种子只测时间
-- 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
-  首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
-
 ### 254 · 主语位置的动词必须变成 -ing（Putting things back makes…）
 类型 语法 ｜ 新建 2026-08-19
 状态 连对2 连错0 上次2026-08-23 ｜ **形态类·不召回**（2026-08-25 她定）｜ **🎓 已毕业 2026-08-23** ｜ 题型 整句
@@ -19069,6 +19028,42 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 - 2026-10-14 ✅ 学习日 在池第 2 组 [8] · `A garbage truck drives right past my building every morning at six.` —— drives past my building。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [4] · `Motorbikes roar right past my building every night in the middle of the night, keeping me wide awake.` —— past my building。连对 1 → 2 ⇒ 🎓 毕业
 
+### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
+类型 搭配 ｜ 新建 2026-10-13
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+说住的地方、酒店**交通方便**（从这儿出门去别处方便）：`The apartment is really convenient for getting around.` · `It's close to public transport.`
+⛔ **X is convenient／easy to get around** ＝ 在 X **里面**走动方便（`The city is easy to get around.`）——
+挂在一套房子上就成了"在屋里走来走去方便"。
+同一格里的邻居（别串）：🎓#50 easy vs convenient（convenient ＝ 方式省事；难度低 ⇒ easy）·
+The city is easy to get around（城市本身好逛，主语就是 get around 的地方）。
+判据一句话：get around 的是主语本身（城市、景区）⇒ X is easy to get around；从这儿出发去别处（房子、酒店）⇒ convenient for getting around ／ close to public transport。
+★ 与 🎓#50 分工：#50 判"难度低该用 easy、不用 convenient"；本条判 get around 的对象挂错了（换成 easy to get around 照样错）⇒ 两条。
+★ 题型判整句：考点是 get around 挂在谁身上，要靠句子才现形；零提示（合法说法很多，考的是别落到 the place is convenient to get around）。
+
+**怎么发现的**
+2026-10-13 学习日 复检第 4 组 [1]（🎓#96 题面"我想租一套不吵、交通又方便的房子。"）· 原话
+`I'm looking to rent a place that's quiet and convenient to get around.`
+diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient to get around 字面是"在这地方里面走动方便" ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "get around"／"public transport"／"交通" ⇒ 🎓#45 walk to work · 🎓#218 traffic management（题面字样）⇒ 否，无关
+　② dedup "convenient" ⇒ 🎓#50 easy vs convenient ⇒ 否：#50 管"难度低用 easy"，本条管 get around 的对象（换 easy 照样错）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a place that's quiet and convenient to get around`　　更地道：`a place that's quiet and convenient for getting around`（或 `close to public transport`）
+找法：说完 X is convenient／easy to get around，回头问一句 —— 是在 X 里面走，还是从 X 出发？从 X 出发 ⇒ 换 for getting around。
+
+**题面**
+"我们住的酒店就在地铁站旁边，出去玩交通特别方便。"
+　　★ 零提示：convenient for getting around ／ close to the subway ／ easy to get around from there 都算对；她要改掉的是 the hotel is convenient to get around
+★ 目标形式（教练看，⛔ 不进发题稿）：Our hotel is right next to the subway station, so it's really convenient for getting around.
+
+- 2026-10-13 新建 · 学习日 复检第 4 组 [1]（#96 题里）· diff-2 ⚠️ · 原话 `I'm looking to rent a place that's quiet and convenient to get around.` ⇒ 更好版 convenient for getting around
+- 2026-10-14 ✅ 学习日 在池第 3 组 [1] · `The hotel we stayed at was right next to the subway station, so it was super easy to get around.` —— "方便"挂在 get around 这件事上（it was super easy to get around），没说成 the hotel is convenient to get around。首测 ⇒ 连对 1
+- 2026-10-17 ✅ 付息日 在池第 2 组 [5] · `… so it's super easy to get around wherever I want to go.`（it's easy to …，没让公寓 be easy to get around）。连对 1 → 2 ⇒ 🎓
+
 ### 475 · amateur（业余的：an amateur soccer tournament · an amateur photographer）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
 状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 词组
@@ -19133,3 +19128,228 @@ headstrong（任性、一意孤行）· set in one's ways（老习惯改不了�
 - 2026-10-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#383 题里）· 她标「背一下」· 原话 `My boss has such a stubborn(背一下) temper that it's impossible to reason with him.` ⇒ 更好版 My boss is so stubborn that …
 - 2026-10-14 ✅ 学习日 在池第 2 组 [10] · `My granddad is so stubborn—the doctor told him to quit smoking, but he just refuses to listen.` —— 人当主语 ＋ so stubborn。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [6] · `Our boss is incredibly stubborn—everyone told him the plan wouldn't work, but he just insisted on it.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+**make ＋ 东西 ＋ feel special** ＝ 让某天／某件事显得特别、跟平常不一样：
+`A nice dinner makes the day feel special.` · `Little things like that make birthdays feel special.`
+同一格里的邻居（别串）：feel ＋ 形容词（feel special）vs feel like ＋ 名词（🎓#351 it feels like a mini-escape）·
+make sb feel special（让人觉得被重视，挂人）。
+判据一句话：想说"让 X 不同于平常、有仪式感" ⇒ make X feel special；⛔ 别去够 elevate … above ordinary routine 这类写作块（🎓#206 同族）。
+★ 题型判整句："让…变得特别"能落到 make it special／make it memorable 一串合法说法，make ＋ 宾语 ＋ feel 的挂法要靠句子现形 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296（P3 · Why are some people willing to spend a lot of money on meals on special days?）S1 · 原话
+`… they are purchasing an unforgettable experience and a sense of ritual that elevates the day above ordinary routine.`
+diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历年原话：feel special 零命中）⇒ §3.2b 不走书面登记，照常建号。
+判重三步：
+　① 目标形式 dedup "feel special" ⇒ 零命中
+　② 中文 dedup "特别" ⇒ 🎓#289 obsessed · 🎓#429 grudge 等，只是"特别"字样 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a sense of ritual that elevates the day above ordinary routine`　　更地道（口语）：`a sense of ritual that makes the day feel special`
+找法：想说"让…显得特别／不一样"，先落 make it feel special。
+
+**题面**
+"生日那天朋友们给我准备了一个小惊喜，让这一天变得特别不一样。"（"变得特别不一样"用 **feel special** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My friends planned a little surprise for my birthday, which made the day feel really special.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S1 · diff-2 ⚠️ 书面块 · 原话 `… a sense of ritual that elevates the day above ordinary routine.` ⇒ 更好版 makes the day feel special
+- 2026-10-14 ✅ 学习日 在池第 3 组 [2] · `My friends threw me a little surprise on my birthday, and it really made the day feel special.` —— made the day feel special。首测 ⇒ 连对 1
+  ⚠️ diff-2：threw me a little surprise → planned a little surprise for me ⇒ 新建 #481
+- 2026-10-17 ✅ 付息日 在池第 2 组 [6] · `… which really made the moment feel special.`。连对 1 → 2 ⇒ 🎓
+
+### 478 · show how much you care（用行动表心意：It's a way of showing how much you care；⛔ acts as a tangible signal of love）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+**show (sb) how much you care ／ how much you love them** ＝ 用行动表达心意：
+`Cooking for someone is a way of showing how much you care.` · `It shows how much you love them.`
+how much 后面用陈述语序（🎓#59）。
+同一格里的邻居（别串）：a (tangible) sign of love（名词说法，tangible 搭 sign 不搭 signal）· mean a lot to sb（对某人意义重大）。
+判据一句话：说"表达心意／爱" ⇒ show how much you care；⛔ 别去够 acts as a tangible signal of …（🎓#206 同族）。
+★ 题型判整句：how much 后面的主语 ＋ 动词要靠句子现形；新表达第一次出题点 show how much。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296 S2 · 原话
+`Plus, Spending generously on a meal acts as a tangible signal of love and appreciation.`
+diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历年原话：show how much／a way of showing 零命中）⇒ §3.2b 照常建号。
+判重三步：
+　① 目标形式 dedup "how much you care" ⇒ 零命中；"how much" ⇒ 🎓#59 嵌入疑问陈述语序（规则，不是这个表达）· 🎓#396 等字样 ⇒ 否
+　② 中文 dedup "心意" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`acts as a tangible signal of love and appreciation`　　更地道（口语）：`is a way of showing how much you love and appreciate someone`
+找法：想说"表达心意"，先落 show how much ＋ 主语 ＋ care／love。
+
+**题面**
+"我妈每次都给我寄一大箱家乡特产，这是她表达心意的方式。"（"表达心意"用 **show how much** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom always sends me a huge box of local specialties from home — it's her way of showing how much she cares.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S2 · diff-2 ⚠️ 书面块 · 原话 `Plus, Spending generously on a meal acts as a tangible signal of love and appreciation.` ⇒ 更好版 is a way of showing how much you love and appreciate someone
+- 2026-10-14 ✅ 学习日 在池第 3 组 [3] · `My mom sends me a huge box of specialties from home every time—it's just her way of showing how much she cares.` —— her way of showing how much she cares。首测 ⇒ 连对 1
+  ⚠️ diff-2：sends me … every time → always sends me …（偏好，不建号）
+- 2026-10-17 ✅ 付息日 在池第 2 组 [7] · `… that's just his way of showing how much he cares.`。连对 1 → 2 ⇒ 🎓（同句 drop off 她问和 send 的区别 ⇒ 新建 #501）
+
+### 479 · bring sb closer (together)（拉近感情；⛔ provides a space to deepen their emotional connection）
+类型 词组 ｜ 新建 2026-10-13
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+**bring ＋ 人 ＋ closer (together)** ＝ 让人感情更近：`Cooking together brings us closer.` · `The trip really brought the two of them closer together.`
+不带宾语：grow closer ／ get closer。
+同一格里的邻居（别串）：get everyone together（把人聚齐 —— 她 2026-09-19 说过，是"人到齐"不是"感情近"）· bond (with sb)（培养感情）。
+判据一句话：人到齐 ⇒ get everyone together；感情变近 ⇒ bring sb closer。
+★ 题型判整句：bring ＋ 人 ＋ closer 的宾语位置要靠句子现形；新表达第一次出题点 closer。
+
+**怎么发现的**
+2026-10-13 学习日 ③ 新题 bank:1296 S3 · 原话
+`It provides a unique space for family or partners to deepen their emotional connection.`
+diff-2 ⚠️（不是 ❌）：书面块（心理学文章腔），口语版她没产出过（扫她历年原话：closer／bond 零命中；getting everyone together 意思不同）⇒ §3.2b 照常建号。
+判重三步：
+　① 目标形式 dedup "closer"／"together" ⇒ 零命中
+　② 中文 dedup "感情" ⇒ 🎓#440 sentimental · 🎓#363 appeal to emotions（"情绪"字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`It provides a unique space for family or partners to deepen their emotional connection.`　　更地道（口语）：`A meal like that brings family or partners closer together.`
+找法：想说"拉近感情／关系更好了"，先落 bring … closer。
+
+**题面**
+"一起照顾那只小狗，让我们一家人感情近了不少。"（"感情近了"用 **closer** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Taking care of that puppy together really brought our family closer.
+
+- 2026-10-13 新建 · 学习日 ③ 新题 bank:1296 S3 · diff-2 ⚠️ 书面块 · 原话 `It provides a unique space for family or partners to deepen their emotional connection.` ⇒ 更好版 brings family or partners closer together
+- 2026-10-14 ✅ 学习日 在池第 3 组 [4] · `Taking care of that little dog together really brought our family closer.` —— brought our family closer。首测 ⇒ 连对 1
+- 2026-10-17 ✅ 付息日 在池第 2 组 [8] · `Getting lost together during that hike actually brought us colleagues a lot closer.`。连对 1 → 2 ⇒ 🎓
+
+### 480 · **change jobs**（换工作：jobs 复数、不带冠词；⛔ change the job／change job）
+类型 搭配 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+"换工作"＝ **change jobs**：从一份工作换到另一份，涉及两份工作 ⇒ jobs 用复数、前面不带 the／my。
+同一格里的邻居（别串）：switch jobs（同义，同样复数）· change trains（换乘）· switch schools（转学）· swap seats（换座位）——"从一个换到另一个"这一类都是复数、不带冠词；
+change the job／change my job ＝ 把这份工作本身改了（改内容），不是换一份。
+判据一句话：说"换 X"指从一个 X 换到另一个 ⇒ change／switch ＋ 复数 X，不带冠词。
+★ 题型判整句："换工作"能落到 find a new job／get a new job 一串合法说法 ⇒ 整句 ＋ 正向点名 change；jobs 的复数与有没有 the 要她自己出。
+
+**怎么发现的**
+2026-10-14 学习日 在池第 1 组 [9]（#463 题面"换工作之前，我跟我老公坐下来把利弊都好好聊了一遍。"）· 原话
+`Before changing the job, my husband and I sat down and talked through the pros and cons.`
+talk through 本身对（#463 ✅），changing the job ❌。lab 之前犯过一次：coach/sessions/2026-06-24.md:30 `change job`→change jobs ⇒ 不是手滑，是块没装上。
+判重三步：
+　① 目标形式 dedup "change jobs"／"changing jobs" ⇒ 零命中
+　② 中文 dedup "换工作" ⇒ 🎓#425 make the move（考"迈出那一步"）· 🎓#361 get off work（考"下班"）—— 只是题面／历史里有"换工作"字样，目标形式不同 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Before changing the job`　　正确：`Before changing jobs`
+找法：说"换工作／换学校／换车"先想"从一个换到另一个"⇒ 名词变复数、去掉 the。
+
+**题面**
+"我表姐去年换了三次工作，现在终于找到一份自己喜欢的了。"（"换工作"用 **change** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My cousin changed jobs three times last year, and she's finally found one she likes.
+
+- 2026-10-14 ❌ 首犯 · 学习日 在池第 1 组 [9]（#463 题里）· 原话 `Before changing the job, my husband and I sat down and talked through the pros and cons.` ⇒ 最小改 Before changing jobs
+- 2026-10-16 ✅ 学习日 在池第 1 组 [7] · `My cousin changed jobs three times last year, and now she's finally landed one she actually likes.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [2] · `My uncle changed jobs quite a few times when he was younger …`。连对 1 → 2 ⇒ 🎓
+
+### 482 · **far from** ＋ 形容词／enough（远远不够、远不是：far from enough · far from perfect；⛔ far away from enough）
+类型 搭配 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+**far from ＋ 形容词／enough** ＝ "远远不…／远不是…"：`It's far from enough.` · `The plan is far from perfect.` · `far from easy`。
+同一格里的邻居（别串）：far away from ＋ 地点 ＝ 离…很远（说距离：far away from the city）· nowhere near enough（更口语的"差得远"）· not nearly enough（同义）。
+判据一句话：说距离 ⇒ far away from ＋ 地方；说程度差得远 ⇒ far from ＋ 形容词（away 不能进来）。
+★ 题型判整句："远远不够"能落到 not enough at all／nowhere near enough 一串合法说法，far from 后面直接挂形容词要靠句子现形 ⇒ 整句 ＋ 正向点名 far from。
+
+**怎么发现的**
+2026-10-14 学习日 复检第 4 组 [8]（🎓#315 题面"学校对留学生的支持还远远不够。"）· 原话
+`The school's support for international students is far away from enough.`
+support for 本身对（#315 ✅），far away from enough ❌（把说距离的 far away from 用到了程度上）。
+判重三步：
+　① 目标形式 dedup "far from" ⇒ 🎓#14 well away（"离马路远远的"，说距离）⇒ 本条是程度、不是距离 ⇒ 否；dedup "far away" ⇒ 🎓#14 · 🎓#203（"离地铁远"题面字样）⇒ 否；"nowhere near" ⇒ 零命中
+　② 中文 dedup "远远不够" ⇒ 只命中今天的 #315 题面 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`is far away from enough`　　正确：`is far from enough`
+找法：说"远远不够／远不是"先落 far from，后面直接接形容词或 enough —— away 只在说距离时出现。
+
+**题面**
+"这点工资养一家人远远不够。"（"远远不够"用 **far from** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：This salary is far from enough to support a family.
+
+- 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [8]（#315 题里）· 原话 `The school's support for international students is far away from enough.` ⇒ 最小改 is far from enough
+- 2026-10-16 ✅ 学习日 在池第 1 组 [8] · `This pay is far from enough to support a whole family.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [3] · `What we've saved so far is far from enough to cover a down payment.`。连对 1 → 2 ⇒ 🎓（同句「首付」她标要学 ⇒ 新建 #500）
+
+### 483 · **on holidays／on public holidays**（节假日；⛔ on holiday ＝ 在度假）
+类型 搭配 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+节假日（法定放假的那几天）⇒ **on holidays** ／ **on public holidays** ／ during the holidays。
+同一格里的邻居（别串）：on holiday ＝ 在度假、休假中（She's on holiday in Spain.）· go on holiday ＝ 去度假 · on weekends（周末，同样复数）。
+判据一句话："在那些放假的日子里"⇒ on holidays ／ public holidays；"人在度假"⇒ on holiday。
+★ 题型判整句："节假日"挂在什么上（开门、营业）要靠句子现形；正向点名 holidays，带不带 s／加不加 public 留给她。
+
+**怎么发现的**
+2026-10-14 学习日 复检第 4 组 [4]b（🎓#343 题面"健身房节假日的营业时间"）· 原话
+`the opening hours of the gym on holiday`
+opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）。
+判重三步：
+　① 目标形式 dedup "holiday" ⇒ 🎓#301 enjoy your stay（历史字串）⇒ 否；"public holiday" ⇒ 零命中
+　② 中文 dedup "节假日" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`on holiday`（节假日）　　正确：`on holidays` ／ `on public holidays`
+找法：说"节假日"先想是不是在说"人去度假"—— 不是 ⇒ holidays 带 s，或说 public holidays。
+
+**题面**
+"这家银行节假日不开门。"（"节假日"用 **holidays** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：This bank is closed on public holidays.
+
+- 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [4]b（#343 题里）· 原话 `the opening hours of the gym on holiday` ⇒ 最小改 on holidays ／ 更好版 the gym's opening hours on public holidays
+- 2026-10-16 ✅ 学习日 在池第 1 组 [9] · `This bank is closed on public holidays.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [4] · `This supermarket is open as usual during the holidays.`（during the holidays 是正文列着的合法说法，没落到 on holiday）。连对 1 → 2 ⇒ 🎓
+
+### 485 · **smear**（抹、涂得一塌糊涂：smear lipstick all over her face · smear sth on sth）
+类型 词汇 ｜ 新建 2026-10-14 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+
+**问题是什么**
+**smear** ＝ 把又油又黏的东西胡乱抹开、抹得到处都是：`smear lipstick all over her face` · `smear butter on the bread` · `The kid smeared paint on the wall.`
+同一格里的邻居（别串）：spread（均匀地抹开，正常地涂：spread butter on toast）· put on（正常化妆：put on lipstick）· rub（揉、搓进去：rub in sunscreen）。
+判据一句话：抹得乱七八糟、到处都是 ⇒ smear；正常地涂一层 ⇒ spread ／ put on。
+★ 题型判整句："抹得满墙都是"能落到 get … all over／spread 一串说法，smear sth on／all over sth 的挂法要靠句子现形 ⇒ 整句 ＋ 正向点名 smear（她点名要学的新词，连对 ≥1 后照旧点 lemma）。
+
+**怎么发现的**
+2026-10-14 学习日 复检第 4 组 [10]（🎓#318 题面"我记得有一次，我女儿五岁的时候，偷偷拿我的口红涂了一脸。"）· 原话
+`One time, when my daughter was five, she stole my lipstick and smeared(学下这个词) it all over her face.`
+她写对了 smeared … all over，但自己标「学下这个词」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 🎓#433 先例）。
+判重三步：
+　① 目标形式 dedup "smear"／"spread" ⇒ 零命中
+　② 中文 dedup "抹" ⇒ 🎓#445 dust（题面"手指一抹"字样）· 🎓#465（字串）；"涂" ⇒ 🎓#293（"涂鸦"字样）⇒ 都不是"抹开"这个动作 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学下这个词」（词不在手边）　　目标：`smeared it all over her face`
+找法：说"抹了一脸／抹得到处都是"先落 smear … all over。
+
+**题面**
+"小侄子把巧克力抹得满墙都是。"（"抹得满墙都是"用 **smear** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My little nephew smeared chocolate all over the wall.
+
+- 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [10]（#318 题里）· 她标「学下这个词」· 原话 `One time, when my daughter was five, she stole my lipstick and smeared(学下这个词) it all over her face.`
+- 2026-10-16 ✅ 学习日 在池第 1 组 [10] · `My little nephew smeared chocolate all over the wall.`。连错 1 → 连对 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [5] · `After eating skewers, my little brother smeared grease all over the couch.`。连对 1 → 2 ⇒ 🎓
