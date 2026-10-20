@@ -4398,7 +4398,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 126 · get used to ／ settle into（适应新环境）
 类型 词组 ｜ 旧号 B211
-状态 连对2 连错0 上次2026-10-14 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **get used to ／ settle into（settle in）** ＝ 适应新环境：
@@ -4434,6 +4434,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [7]（#283 题里）· 她标「学下」· 原话 `When learning to drive, it's really about getting used to(学下) the basic controls first, and then slowly taking it out on the road.` —— get used to 用法本身对（to 是介词，后面接名词），她点名要学 ⇒ 判 ❌（同 🎓#433 先例）⇒ **回潮**
 - 2026-10-13 ✅ 学习日 在池第 1 组 [1] · `I've been living down South for two years now, and I still haven't gotten used to how hot and humid it gets here.` —— haven't gotten used to ＋ how 从句。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [1] · `When I first started working night shifts, it took me months to get used to sleeping during the day.` —— get used to ＋ sleeping（to 是介词，后接 -ing）。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [1] · `I spent three years abroad, but to this day, I still can't get used to the food over there.`
 
 ### 127 · especially 不带来介词：句子本来要什么介词就用什么
 类型 结构 ｜ 旧号 B213
@@ -11364,7 +11365,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-10-14 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 收尾块：**… for totally different reasons depending on who you ask**（同一个现象，不同的人理由完全不一样）。
@@ -11390,7 +11391,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 是 ⇒ 用 `for different reasons **depending on** who you ask`，⛔ 别收成一句 "So it depends."。
 
 **题面**
-**点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（用 **depending** 那个词收尾）
+**点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（"理由"用 **reasons** 说，用 **depending** 那个词收尾）
+★ 2026-10-19 补点名 reasons：只点 depending 时她把收尾块走成了独立分句 the reason … depends on who you ask（合法，判 ✅），for … reasons depending on 那个整块没逼出来
 ★ 点名 2026-08-27 收窄（§6.5 审核项 7 自查时记的待办，当天兑现）：原点名给的是**整块** `depending on who you ask` —— 属 §6 允许的"点块"，但它同时**把答案给了大半**（含 who you ask 那半里的 🎓#59 陈述语序考点）。收窄到只点 **depending** 之后，后半截要她自己凑 ⇒ 考点密度回来了
 
 - 2026-08-23 新建 · **她主动提出**（§2③）· d 段重答 R4 · `So yeah, it's pretty common, just for totally different reasons depending on who you ask!`
@@ -11416,6 +11418,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 - 2026-10-13 ✅ 学习日 在池第 1 组 [2] · `The gym gets super packed on weekends, for totally different reasons depending who you ask.` —— 收尾块成形、who you ask 陈述语序；疑问词前省 on 口语成立，不算错。连错 1 → 连对 1
   ⚠️ diff-2：depending who you ask → depending on who you ask（带上 on 哪儿都成立）· 补 people go（理由挂在人身上）
 - 2026-10-14 ✅ 学习日 在池第 1 组 [2] · `More and more young people are getting into photography nowadays, for totally different reasons depending on who you ask.` —— 收尾块整块成形，who you ask 陈述语序。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [2] · `A lot of people choose not to have kids nowadays—the reason really just depends on who you ask.` —— 收尾块走成了独立分句 the reason … depends on who you ask：合法、on who you ask 陈述语序、点名的 depend 也用上了 ⇒ ✅（§3.3 硬顺序）；种子补点名 reasons 逼整块
+- 2026-10-19 📝 题面整改（§3.3 硬顺序③）：种子点名补 **reasons**（"理由"用 reasons 说），让 for … reasons depending on who you ask 整块成形
 
 - 备注 骨架与用法：
 ```
@@ -14809,7 +14813,7 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-10-14 ｜ 题型 整句 ｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-19 ｜ 题型 整句 ｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -14856,6 +14860,7 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 - 2026-10-13 ✅ 学习日 在池第 1 组 [3] · `For college freshmen, their biggest headache is usually figuring out how to get along with their roommates.` —— For X 后面换了另一个主语（their biggest headache），不是回指的 they。连错 2 → 连对 1
   ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
 - 2026-10-14 ✅ 学习日 在池第 1 组 [3] · `For people living on their own, what scares them most is getting sick in the middle of the night with nobody around to take care of them.` —— For X 后面换了另一个主语（what scares them most），不是回指的 they。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [3] · `For many elementary school kids, summer break is the thing they look forward to the most` —— For X 之后换了主语 summer break，没有主语说两遍（她标 the most 要学 ⇒ 新建 #508）
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
@@ -16903,7 +16908,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **chalk** ＝ 粉笔（不可数，说材料）：write in chalk ／ red chalk；数根数用 a piece of chalk ／ two sticks of chalk。
@@ -16931,6 +16936,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [2] · `The teacher picked up a piece of chalk and casually drew a circle on the board.` —— a piece of chalk。连错 1 → 连对 1
 - 2026-10-07 ✅ 学习日 在池第 1 组 [2] · `The hopscotch grid kids drew on the sidewalk in colored chalk.` —— in colored chalk。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [2]a · 她答「不会（灰和袖口)」—— 题面出坏了：塞了"袖子""粉笔灰"两个非考点词，她卡在这两个词上整块没答 ⇒ chalk 这次没测成；复检没有 ◎ ⇒ §6.1③ 记 ✅，种子补 ★（只留 chalk 一个生词）｜灰／袖口另建 #445 #446
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]f（打包）· `a box of fresh chalk / brand-new chalk`
 
 ### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
@@ -18544,7 +18550,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **snuggle up** ＝ 舒舒服服地蜷着、贴着：`snuggle up to sb`（贴着某人）· `snuggle up on the couch`／`snuggle up in bed`（窝在沙发上／被窝里）· `snuggle up with a book`。
@@ -18574,10 +18580,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#442 题里）· 她标「这个词组学下」· 原话 `My grandma's rabbit is super affectionate and loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).`
 - 2026-10-13 ✅ 学习日 在池第 1 组 [9] · `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.` —— snuggling up with ＋ 人。连错 1 → 连对 1 ｜ lounging 她标「背一下」⇒ 新建 #471
 - 2026-10-14 ✅ 学习日 在池第 1 组 [4] · `On winter nights when we're watching TV, our cat loves to come over and snuggle up with me.` —— snuggle up with ＋ 人。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [4] · `It was a freezing night, and the two puppies snuggled up together to keep warm.`
 
 ### 459 · in sb's arms（怀里）≠ in sb's lap（腿上）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **in sb's arms** ＝ 在某人怀里（被两条胳膊搂在胸前）：`a baby asleep in her arms` · `hold sb in your arms` · `snuggle into sb's arms`（钻进怀里）。
@@ -18605,10 +18612,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#442 题里）· 她说不会 · 原话 `… loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).` ⇒ 最小改 into people's arms
 - 2026-10-13 ✅ 学习日 在池第 1 组 [10] · `a baby sleeping peacefully in its mother's arms` —— in its mother's arms。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [5] · `a little boy crying in his dad's arms` —— in his dad's arms。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]a（打包）· `the bride held in the groom's arms`
 
 ### 460 · internship（实习）／intern（实习生）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **internship** ＝ 实习（那段经历）：`do an internship at a hospital` · `finish my internship` · `a summer internship`。
@@ -18636,10 +18644,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 4 组 [1]（#368 题里）· 她标「这个背一下」· 原话 `After my cousin finished her internship（这个背一下), she landed a permanent job at that hospital.`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [1] · `that summer internship I did at an ad agency back in my junior year` —— internship。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [6] · `that three-month internship I did at a bank back before I graduated` —— internship。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]b（打包）· `that six-month internship at a hospital`
 
 ### 461 · a boom in sth／the X boom（热潮、一下子火起来；⛔ the boom of sth）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **boom** 说"某样东西一下子火起来"，两种挂法：`the bike-sharing boom`（东西放在 boom 前面）· `a boom in shared bikes`（后面接 **in**）。
@@ -18673,10 +18682,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-14 ✅ 学习日 在池第 1 组 [7] · `EVs have seen a huge boom in China over the past two years.` —— 又是 X has seen a boom（合法、没落到 the boom of X）。连对 1 → 2 ⇒ **🎓 毕业**
   ★ 两次都绕开了"boom 后面挂东西"那一半 ⇒ §3.3 硬顺序③ 当场改种子（见下一行 📝）
 - 2026-10-14 📝 题面整改 · 种子改成 boom 当主语："这几年的露营热，带火了一大批卖户外装备的小店。"（"露营热"用 **boom** 说）—— 逼出 the camping boom／the boom in camping（⛔ the boom of camping），X has seen a boom 那条路走不通了
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [6] · `The milk tea boom in recent years has made a whole bunch of boba shops pop up on every street.` —— boom 当主语
 
 ### 462 · blackout（停电）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **blackout** ＝ 停电（一片区域整个断电）：`during the blackout` · `There was a blackout last night.`
@@ -18703,10 +18713,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 5 组 [1]（#236 题里）· 她标「这个单词背下」· 原话 `The blackout(这个单词背下) actually gave our family an excuse to put our phones down and just talk to each other.`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [3] · `those two hours during the blackout in our neighborhood last night` —— blackout。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [8] · `that entire night of the blackout after the typhoon hit` —— blackout。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]c（打包）· `that ten-minute blackout during the concert`
 
 ### 463 · talk sth through（一起把一件事一步一步聊透、商量清楚）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **talk through sth ／ talk sth through** ＝ 一起把一件事从头到尾过一遍、商量清楚：`talk through their tactics` · `Let's talk it through.`（宾语是代词 ⇒ 放中间）。
@@ -18734,10 +18745,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 6 组 [6]（#281 题里）· 她标「这个词组学下」· 原话 `During practice, the coach sometimes takes a step back and lets the team talk through(这个词组学下) their own tactics(背下).`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [4] · `Before starting the renovation, my parents and I sat down and talked through the design for every room.` —— talked through ＋ 宾语。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [9] · `Before changing the job, my husband and I sat down and talked through the pros and cons.` —— talked through ＋ 宾语。连对 1 → 2 ⇒ **🎓 毕业**；同句 changing the job ⇒ 新建 #480
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [8] · `Before setting off on the trip, our family sat down and talked through the route stop by stop.`（她标 set off 要学 ⇒ 新建 #509）
 
 ### 464 · tactics（战术）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **tactics** ＝ 战术（比赛／打仗里具体怎么打）：`the team's tactics` · `change tactics at half-time`，常用复数。
@@ -18765,10 +18777,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [5] · `the tactics the coach changed on the fly during halftime` —— tactics。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [10] · `the new defensive tactic the team rolled out this season` —— tactic(s) 调出来了，单数指"其中一招"也合法。连对 1 → 2 ⇒ **🎓 毕业**
   ⚠️ diff-2：tactic → tactics（题面是"站位、盯人"一整套安排 ⇒ 复数）
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]d（打包）· `the full-court press tactic in a basketball game` —— 一套具体打法，单数 tactic 成立
 
 ### 465 · hydrated（水分够的、不缺水的：keep your skin hydrated · stay hydrated）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **hydrated** ＝ 身体／皮肤里水分够、不缺水：`keep your skin hydrated` · `stay hydrated`（多喝水、别缺水）。
@@ -18796,10 +18809,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [6]（#297 题里）· 她标「背一下」· 原话 `Drinking lots of water helps keep your skin hydrated（背一下).`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [6] · `When running outside in the heat, drink plenty of water to keep yourself hydrated.` —— keep yourself hydrated。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 2 组 [1] · `When you go hiking, remember to bring a bottle of water so you stay hydrated.` —— stay hydrated。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [7] · `…, so you have to keep yourself hydrated.`
 
 ### 466 · sign off (on sth)（签字确认、批准放行）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **sign off (on sth)** ＝ 签字确认、批准放行：`The manager has to sign off on the budget.` · `sign off at every stage`。
@@ -18827,10 +18841,48 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [9]（#300 题里）· 她标「这个词组背一下」· 原话 `Someone needs to sign off(这个词组背一下) at every stage of this project.`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [7] · `The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).` —— 被动 be signed off by ＋ 人 成立。连错 1 → 连对 1 ｜ pays out 她标「学下」⇒ 新建 #472
 - 2026-10-14 ✅ 学习日 在池第 2 组 [2] · `We can't start work on this design until the boss signs off on it.` —— signs off on it（on 自己补上）。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [10] · `We can't buy the equipment until the general manager signs off on the budget.`
+
+### 467 · charge 的主语是收钱的一方（the lot charges you）；事情本身花多少钱 ⇒ cost（parking costs you）
+类型 搭配 ｜ 新建 2026-10-12
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**charge** ＝ 收钱，主语是**收钱的人／机构**：`The parking lot charges twenty bucks an hour.` · `They charge you for the bags.`
+**cost** ＝ 花掉多少钱，主语是**那件事／那样东西**：`Parking costs twenty bucks an hour.` · `That trip cost me a fortune.`
+同一格里的邻居（别串）：fee（收的那笔钱）· pay（付钱的人当主语：I paid twenty bucks）。
+判据一句话：主语是"收钱的那一方" ⇒ charge；主语是"那件事／东西" ⇒ cost。
+★ 题型判整句：主语和动词的搭配要靠句子才现形。
+★ 与 🎓#288（once X costs you something 机制句型）分工：#288 考整句机制框架，本条考 charge／cost 跟主语怎么配 ⇒ 两条。
+
+**怎么发现的**
+2026-10-12 付息日 a2 段复检第 7 组 [1]（🎓#288 题面"一旦停车每小时要收二十块，你就会开始琢磨是不是坐地铁更划算。"）· 原话
+`Once parking charges you twenty bucks an hour, you start asking whether taking the subway is a better deal.`
+#288 机制框架本身对（✅），diff-2 ⚠️：parking（事情）当主语却配了 charge ⇒ costs ⇒ §3.2b 能学的搭配 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "charge" ⇒ 🎓#110 🎓#282 只是历史行字串（in charge 等），考点不是它 ⇒ 否；dedup "costs you" ⇒ 🎓#288（机制句型里的 costs you，考点是 once 框架）⇒ 否
+　② 中文 dedup "收" 太宽、未作为判据；以英文形式为准
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Once parking charges you twenty bucks an hour`　　更地道：`Once parking costs you twenty bucks an hour`
+找法：用 charge 之前看一眼主语 —— 它会伸手收钱吗？不会 ⇒ 换 cost。
+找法二（10-16 补）：题面要用 charge、中文里却没出现收钱的一方 ⇒ 自己补一个：泛指的 **They charge you X to do Y**，或让车／店／停车场当主语（Cabs from the airport charge X to get downtown）。
+
+**题面**
+"在市中心停车，一小时就要二十块。"（"要二十块"用 **charge** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Parking lots downtown charge twenty yuan an hour.／They charge you twenty yuan an hour to park downtown.（⛔ Parking downtown charges …）
+
+- 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 7 组 [1]（#288 题里）· diff-2 ⚠️ · 原话 `Once parking charges you twenty bucks an hour, you start asking whether taking the subway is a better deal.` ⇒ 更好版 parking costs you
+- 2026-10-13 ❌ 学习日 在池第 2 组 [8] · `Parking in the city center charges twenty bucks an hour.` —— "停车"这件事当了 charge 的主语 ⇒ 最小改 `Parking lots in the city center charge twenty bucks an hour.`（或 Parking … costs …）。连错 1 → 2
+- 2026-10-14 ✅ 学习日 在池第 2 组 [3] · `This shop charges two hundred bucks to repair a phone.` —— 收钱的店当 charge 的主语。连错 2 → 连对 1
+- 2026-10-16 ❌ 学习日 在池第 1 组 [1] · 题面"从机场打车进市区，要一百五十块。"（点名 charge）· `Taking a cab from the airport to downtown costs a hundred and fifty bucks.`（她问"这不能用 charges 吧"）—— 那件事当主语换 costs 本身合法，但题面点名 charge、中文没给收钱的一方 ⇒ 没补出 they／cabs 当主语 ⇒ 最小改 `They charge you a hundred and fifty bucks to take a cab from the airport to downtown.`。连对 1 → 0，连错 0 → 1
+- 2026-10-17 ✅ 付息日 在池第 1 组 [1] · `This barbershop charges eighty bucks for a haircut.`（收钱的一方当主语）。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [3] · `This gym charges three hundred bucks a session for a personal trainer.` —— 收钱的健身房当主语。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 468 · reservoir（水库）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **reservoir** ＝ 水库（人工蓄水、供水用的那种）：`the reservoir east of the village` · `The reservoir supplies water to the whole city.`
@@ -18857,6 +18909,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 8 组 [1]（#308 题里）· 她标「背下」· 原话 `This stream eventually empties into the reservoir(背下) east(to east 对不对) of the village.`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [9] · `that reservoir supplying water to the whole city` —— reservoir。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 2 组 [4] · `that reservoir upstream of the village used for irrigating the crops` —— reservoir。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]e（打包）· `the reservoir that almost ran dry during the drought year`
 
 ### 469 · east of X ＝ to the east of X（在 X 的东边；⛔ to east of X）
 类型 搭配 ｜ 新建 2026-10-12 ｜ 她问
@@ -18893,7 +18946,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 470 · with its siren blaring（鸣着笛；警笛 siren · 刺耳地响 blare）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **with ＋ 名词 ＋ -ing** ＝ 伴随状态："鸣着笛" ⇒ `with its siren blaring`（好几辆 ⇒ `with sirens blaring`）。
@@ -18923,6 +18976,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 8 组 [9]（#311 题里）· 她说不会 · 原话 `With its siren blaring（鸣笛怎么说，学下）, the ambulance wove its way through the heavy traffic.`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [10] · `A fire truck passed right under my building in the middle of the night with its siren on.` —— with its siren on 合法、siren 用对（题面只点了 siren）；目标 with its siren blaring 没出来 ⇒ 种子补点名 blare、场景换掉"楼下"。连错 1 → 连对 1 ｜ under my building ⇒ 新建 #473
 - 2026-10-14 ✅ 学习日 在池第 2 组 [5] · `An ambulance pulled up outside the hospital with its siren blaring.` —— with its siren blaring（blare 这次出来了）。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [9] · `A fire truck was speeding along the highway with its siren blaring.`
 
 ### 471 · lounge（懒洋洋地躺着／窝着放松：lounge on the couch · lounge by the pool · lounge around）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
@@ -19261,6 +19315,38 @@ talk through 本身对（#463 ✅），changing the job ❌。lab 之前犯过�
 - 2026-10-16 ✅ 学习日 在池第 1 组 [7] · `My cousin changed jobs three times last year, and now she's finally landed one she actually likes.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [2] · `My uncle changed jobs quite a few times when he was younger …`。连对 1 → 2 ⇒ 🎓
 
+### 481 · **plan a surprise for sb**（给人准备惊喜；throw 只配"办一场活动"：throw sb a surprise party）
+类型 搭配 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+"给某人准备一个惊喜"＝ **plan a surprise for sb** ／ put together a little surprise for sb。
+同一格里的邻居（别串）：throw ＋ 一场活动 ⇒ throw a party ／ throw sb a surprise party ／ throw a gala（🎓#416 她用对过）—— throw 后面要的是"派对／晚会"这种办出来的活动，不是"惊喜"本身 ·
+surprise sb（动词：给人一个惊喜）· give sb a surprise 也能说，但没有 plan 那层"花心思准备"。
+判据一句话：后面是派对／晚会 ⇒ throw；后面是惊喜本身 ⇒ plan／put together a surprise for sb。
+★ 题型判整句："准备惊喜"能落到 surprise sb／give sb a surprise 一串合法说法，for ＋ 人 的挂法要靠句子现形 ⇒ 整句 ＋ 正向点名 plan。
+
+**怎么发现的**
+2026-10-14 学习日 在池第 3 组 [2]（#477 题面"生日那天朋友们给我准备了一个小惊喜，让这一天变得特别不一样。"）· 原话
+`My friends threw me a little surprise on my birthday, and it really made the day feel special.`
+feel special 本身对（#477 ✅），diff-2 ⚠️（不是 ❌）：throw 不配 surprise；plan a surprise 她没产出过（session 里零命中）⇒ §3.2b 能学的搭配 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "surprise" ⇒ 🎓#402 pull off（历史字串）· #477 feel special（今天这句的题面）⇒ 目标形式不同 ⇒ 否；dedup "throw"／"threw" ⇒ 🎓#394 throw a tantrum · 🎓#416 gala（10-08 她写 threw a grand gala，用对的）⇒ 否
+　② 中文 dedup "惊喜" ⇒ 只命中 #477 题面 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`My friends threw me a little surprise`　　更地道：`My friends planned a little surprise for me`
+找法：说"给人准备了个惊喜"先落 plan a surprise for ＋ 人；想用 throw ⇒ 后面得补 party。
+
+**题面**
+"我们几个偷偷给班主任准备了一个惊喜，庆祝她退休。"（"准备了一个惊喜"用 **plan** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：A few of us secretly planned a surprise for our homeroom teacher to celebrate her retirement.
+
+- 2026-10-14 新建 · 学习日 在池第 3 组 [2]（#477 题里）· diff-2 ⚠️ · 原话 `My friends threw me a little surprise on my birthday, and it really made the day feel special.` ⇒ 更好版 planned a little surprise for me
+- 2026-10-16 ✅ 学习日 在池第 2 组 [2] · `A few of us secretly planned a surprise for our homeroom teacher to celebrate her retirement.`。首测 ⇒ 连对 1
+- 2026-10-19 ✅ 学习日 在池第 2 组 [8] · `My husband secretly planned a surprise for our wedding anniversary.`。连对 1 → 2 ⇒ 🎓 毕业
+
 ### 482 · **far from** ＋ 形容词／enough（远远不够、远不是：far from enough · far from perfect；⛔ far away from enough）
 类型 搭配 ｜ 新建 2026-10-14
 状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
@@ -19323,6 +19409,36 @@ opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）
 - 2026-10-16 ✅ 学习日 在池第 1 组 [9] · `This bank is closed on public holidays.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [4] · `This supermarket is open as usual during the holidays.`（during the holidays 是正文列着的合法说法，没落到 on holiday）。连对 1 → 2 ⇒ 🎓
 
+### 484 · **shipping**（物流、寄运：cross-border shipping · international shipping；⛔ express 单独当名词）
+类型 词汇 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+
+**问题是什么**
+物流／寄运 ⇒ **shipping**（cross-border shipping · free shipping · shipping costs），偏行业的说法 logistics；快递 ⇒ **delivery**（express delivery）／ a courier。
+同一格里的邻居（别串）：express 主要当形容词 —— express delivery（加急快递）· an express train · express lane；单独当名词说"快递／物流"是直译。
+判据一句话：说东西怎么寄过去 ⇒ shipping；说送件这件事 ⇒ delivery；想说"加急"⇒ express ＋ 名词。
+★ 题型判词组：中文块"国际物流的运费"映射回 shipping costs（logistics 合法照判）。
+
+**怎么发现的**
+2026-10-14 学习日 复检第 4 组 [2]（🎓#432 题面 ①"跨境物流"）· 原话
+`cross-border express`
+cross-border 本身对（#432 ✅），diff-2 ⚠️（不是 ❌）：express 单独当名词说"物流"是直译；shipping 她 lab 档案里没产出过 ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "express" ⇒ 🎓#236（字串）⇒ 否；"shipping"／"logistics" ⇒ 零命中
+　② 中文 dedup "快递" ⇒ 🎓#375 a cardboard box（题面"快递纸箱"字样）⇒ 否；"物流" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`cross-border express`　　更地道：`cross-border shipping`
+找法：想说"物流／快递"别落 express，先落 shipping 或 delivery。
+
+**题面**
+"国际物流的运费"（把包裹从国内寄到国外要付的那笔钱）
+
+- 2026-10-14 新建 · 学习日 复检第 4 组 [2]（#432 题里）· diff-2 ⚠️ · 原话 `cross-border express` ⇒ 更好版 cross-border shipping
+- 2026-10-16 ✅ 学习日 在池第 2 组 [3] · `international shipping fees`。首测 ⇒ 连对 1
+- 2026-10-19 ✅ 学习日 在池第 2 组 [9] · `free shipping on orders over a hundred bucks`。连对 1 → 2 ⇒ 🎓 毕业
+
 ### 485 · **smear**（抹、涂得一塌糊涂：smear lipstick all over her face · smear sth on sth）
 类型 词汇 ｜ 新建 2026-10-14 ｜ ⭐ 她点名要学
 状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
@@ -19353,3 +19469,395 @@ opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）
 - 2026-10-14 ❌ 首犯 · 学习日 复检第 4 组 [10]（#318 题里）· 她标「学下这个词」· 原话 `One time, when my daughter was five, she stole my lipstick and smeared(学下这个词) it all over her face.`
 - 2026-10-16 ✅ 学习日 在池第 1 组 [10] · `My little nephew smeared chocolate all over the wall.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [5] · `After eating skewers, my little brother smeared grease all over the couch.`。连对 1 → 2 ⇒ 🎓
+
+### 486 · 一组里挨个说：**one … another … a third … the last one**（⛔ another 一路用到底）
+类型 句型 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+一组几个（三个、四个）挨个说各自干了什么 ⇒ **one … another … a third … and the last one …**。
+another ＝"再一个"，第二个用它没问题；第三个起换序数 a third，最后一个用 the last one（或 the fourth），听的人才数得清还剩几个。
+同一格里的邻居（别串）：只有两个 ⇒ one … the other … · 剩下的一群 ⇒ the others／the rest · 不知道一共几个 ⇒ some … others …。
+判据一句话：知道一共几个 ⇒ 第三个起用序数、最后一个用 the last one；只有两个 ⇒ the other。
+★ 题型判整句：列举顺序要靠一串并列分句才现形；正向点名 third，the last one 留给她。
+
+**怎么发现的**
+2026-10-14 学习日 ③ 重答 bank:450（P2 · Describe a story/book with animals in it）S5 · 原话
+`one tries climbing up, but falls off halfway; another tries crashing into the tree, …; another tries to reach it with his trunk, but comes up short; and one even makes a kite to fly up there, only to drift further and further away.`
+diff-2 ⚠️（不是 ❌）：第三只还用 another、第四只又回到 one，听的人数不清 ⇒ §3.2b 能学的句型 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "another" ⇒ 🎓#139（every／each／another 后面跟单数，形态）· 🎓#169 #291 #152 #408 #415（字串）⇒ 否；"a third" ⇒ 🎓#19 分数说法（a third ＝ 三分之一）—— 本条的 a third 是"第三个"，不是分数 ⇒ 否；"the last one" ⇒ 零命中
+　② 中文 dedup "第三个"／"最后一个" ⇒ 未作判据，以英文形式为准
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`one … another … another … and one even …`　　更地道：`one … another … a third … and the last one even …`
+找法：列举到第三个时停一下 —— 还要说 another 吗？换 a third；最后一个用 the last one。
+
+**题面**
+"我们宿舍四个人毕业后各奔东西：一个去了北京，另一个出了国，第三个回了老家，最后一个留在学校读研。"（"第三个"用 **third** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：After graduation, the four of us went our separate ways: one moved to Beijing, another went abroad, a third went back to his hometown, and the last one stayed on for a master's.
+
+- 2026-10-14 新建 · 学习日 ③ 重答 bank:450 S5 · diff-2 ⚠️ · 原话 `one tries climbing up, …; another tries crashing into the tree, …; another tries to reach it with his trunk, …; and one even makes a kite to fly up there, …` ⇒ 更好版 a third … the last one
+- 2026-10-16 ✅ 学习日 在池第 2 组 [4] · `… one went to Beijing, another went abroad, the third moved back home, and the last one stayed at school for grad school.` —— 第三个换了序数、最后一个用 the last one ⇒ 考点到位；diff-2 ⚠️ the third → a third（四个人没先后，"又一个"用 a third）。首测 ⇒ 连对 1
+- 2026-10-19 ✅ 学习日 在池第 2 组 [10] · `We have four cats at home: one is super clingy, another sleeps all day, a third is always sneaking food, and the last one won't let anyone pet it.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 487 · 一群 X ＝ **a bunch of／a group of** X（⛔ a pack of mice —— pack 只配狼、狗）
+类型 搭配 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+
+**问题是什么**
+说"一群老鼠／一群孩子／一群朋友"⇒ **a bunch of**（口语）／ **a group of**；pack 只配成群打猎的动物：a pack of wolves ／ a pack of dogs。
+★ 边界（2026-10-19 补）：浣熊、土狼、鬣狗这类成群出没的野兽，口语也说 a pack of（a pack of raccoons／coyotes）；老鼠、鸟、虫这类小东西 ⇒ 不配 pack。
+同一格里的邻居（别串）：a herd of elephants／cows（大型食草动物）· a flock of birds／sheep · a swarm of bees · a school of fish ·
+pack 的另一个意思是"一包"：a pack of napkins（🎓#78）。
+判据一句话：拿不准用哪个量词 ⇒ a bunch of／a group of 永远安全；pack ⇒ 只说狼、狗。
+★ 题型判词组：中文块"一群小老鼠"映射回 a bunch／group of mice，考的就是量词那一格。
+
+**怎么发现的**
+2026-10-14 学习日 ③ 重答 bank:450（P2）S7 · 原话
+`Instead, a pack of mice team up and help each other climb the tree, and they actually manage to get the mango.`
+diff-2 ⚠️（不是 ❌）：pack 不配老鼠 ⇒ §3.2b 能学的搭配 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "pack" ⇒ 🎓#78 a pack of napkins（"一包"，量词块）—— 本条是"一群"，pack 不配老鼠 ⇒ 否；"bunch" ⇒ 🎓#370 #206（字串）⇒ 否
+　② 中文 dedup "一群" ⇒ 🎓#286 #288（题面字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a pack of mice`　　更地道：`a bunch of mice`／`a group of mice`
+找法：说"一群 X"先落 a bunch of／a group of；想用 pack 先问是不是狼或狗。
+
+**题面**
+"一群在厨房里偷吃东西的小老鼠"（好几只聚成一伙的那种）
+★ 换场景时动物只出老鼠／鸟／虫这类小东西（pack 在这里不成立）；⛔ 别出浣熊／土狼这类成群出没的野兽（a pack of raccoons 口语成立，测不到考点）
+
+- 2026-10-14 新建 · 学习日 ③ 重答 bank:450 S7 · diff-2 ⚠️ · 原话 `Instead, a pack of mice team up and help each other climb the tree, …` ⇒ 更好版 a bunch of mice
+- 2026-10-16 ✅ 学习日 在池第 2 组 [5] · `a group of tiny mice sneaking food in the kitchen`。首测 ⇒ 连对 1
+- 2026-10-19 ✅ 学习日 在池第 3 组 [1] · 题面"一群半夜在垃圾桶里翻吃的的浣熊"· `a pack of raccoons rummaging through trash cans for food in the middle of the night` —— 又用了 pack，但浣熊这类成群出没的野兽口语也配 pack（试造 There's a pack of raccoons that raids our trash every night. 成立）⇒ 合法算 ✅；题面动物选在了边界上（教练犯规）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-19 📝 题面整改 ＋ 正文补边界：浣熊／土狼这类成群出没的野兽口语也配 pack ⇒ 种子★写明动物只出老鼠／鸟／虫这类小东西；问题是什么补一行边界
+
+### 488 · **there's strength in numbers**（团结就是力量、人多力量大；⛔ 直译 unity is strength）
+类型 词组 ｜ 新建 2026-10-14
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+"团结就是力量／人多力量大"⇒ 口语 **there's strength in numbers**；说故事寓意也常说 teamwork pays off。
+unity is strength 是口号式直译，日常口语不这么说。
+同一格里的邻居（别串）：two heads are better than one（"三个臭皮匠"，一起想主意）· many hands make light work（人多干活轻松）· united we stand（口号，偏政治）。
+判据一句话：人多一起上就更有力量 ⇒ there's strength in numbers；一起想办法 ⇒ two heads are better than one。
+★ 题型判整句："人多力量大"能落到 teamwork／unity 一串说法 ⇒ 整句 ＋ 正向点名 numbers。
+
+**怎么发现的**
+2026-10-14 学习日 ③ 重答 bank:450（P2）S8 · 原话
+`I really love this book, not so much because of the moral—like showing that unity is strength—but because …`
+diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's strength in numbers 她 lab 档案里没产出过 ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "strength" ⇒ 🎓#326 stamina（字串）⇒ 否；"numbers" 未单独作判据（太宽）
+　② 中文 dedup "团结" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`like showing that unity is strength`　　更地道：`you know, that there's strength in numbers`
+找法：想说"团结就是力量"先落 there's strength in numbers。
+
+**题面**
+"小区业主一起去找物业，问题很快就解决了 —— 人多力量大嘛。"（"人多力量大"用 **numbers** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The residents all went to the property management office together, and the problem got sorted out fast — there's strength in numbers.
+
+- 2026-10-14 新建 · 学习日 ③ 重答 bank:450 S8 · diff-2 ⚠️ · 原话 `not so much because of the moral—like showing that unity is strength—but because …` ⇒ 更好版 you know, that there's strength in numbers
+- 2026-10-16 ✅ 学习日 在池第 2 组 [6] · `The homeowners went to property management as a group, and the problem was fixed in no time—there's strength in numbers.`（in no time 她标学下 ⇒ 新建 #489）。首测 ⇒ 连对 1
+- 2026-10-19 ✅ 学习日 在池第 3 组 [2] · `A bunch of us went to the boss together asking for a raise, and he finally agreed—there's strength in numbers, after all.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 489 · **in no time**（很快、没一会儿就…：the problem was fixed in no time；⛔ at no time ＝ 从来没有）
+类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**in no time** ＝ 没一会儿就、很快就（强调快得出乎意料），挂在句尾修饰整个动作：
+`The problem was fixed in no time.` · `You'll pick it up in no time.` · `We got there in no time.`
+同一格里的邻居（别串）：right away（马上、立刻 —— 强调"没耽搁、当下就开始"）· quickly（中性的"快"）·
+⛔ at no time ＝ 从来没有、任何时候都不（At no time did he apologize.）—— 意思完全不同。
+判据一句话：想说"一下子／没一会儿就搞定了" ⇒ 句尾挂 in no time；强调"马上开始" ⇒ right away。
+★ 题型判整句："很快就"能落到 quickly／soon／right away 一串合法说法 ⇒ 整句 ＋ 正向点名 no time（in 留给她）。
+
+**怎么发现的**
+2026-10-16 学习日 在池第 2 组 [6]（#488 题面"小区业主一起去找物业，问题很快就解决了 —— 人多力量大嘛。"）· 原话
+`The homeowners went to property management as a group, and the problem was fixed in no time(这个词组学下)—there's strength in numbers.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 #471 先例）。
+判重三步：
+　① 目标形式 dedup "in no time" ⇒ 零命中；"no time" ⇒ 🎓#377 not long after（"没多久之后"，说的是先后，不是快）—— 只是正文字串 ⇒ 否
+　② 中文 dedup "很快就" ⇒ 只命中 #488（题面字样，考点是 strength in numbers）⇒ 否；"一会儿就" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（块不在手边）　　目标：`the problem was fixed in no time`
+找法：说"很快就（办成了）"先问：强调的是"快得意外"⇒ 句尾挂 in no time；强调"马上开始"⇒ right away。
+
+**题面**
+"我把电脑送去修，师傅一会儿就弄好了。"（"一会儿就"用 **no time** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I took my laptop in for repair, and the guy fixed it in no time.
+
+- 2026-10-16 ❌ 首犯 · 学习日 在池第 2 组 [6]（#488 题里）· 她标「这个词组学下」· 原话 `The homeowners went to property management as a group, and the problem was fixed in no time(这个词组学下)—there's strength in numbers.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [6] · `… and the guy fixed it in no time.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [2] · `This app is really user-friendly; you'll master it in no time.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
+类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**snap** ＝ 细长、硬的东西（钥匙、树枝、铅笔、筷子、尺子）突然"咔"一声断成两截：
+`The key snapped in the lock.` · `The branch snapped under his weight.` · `My pencil snapped in half.`
+同一格里的邻居（别串）：break（中性、通用的"坏了／断了"）· crack（裂了一道缝、没断开）· tear／rip（布、纸撕破）。
+判据一句话：硬东西一下子断成两截、还带声响 ⇒ snap；只是"坏了" ⇒ break。
+★ 题型判整句："断了"能落到 break 一串合法说法 ⇒ 整句 ＋ 正向点名 snap。
+
+**怎么发现的**
+2026-10-16 学习日 复检第 3 组 [3]f（🎓#451 题面"钥匙断在锁里以后找来的开锁师傅"）· 原话
+`a locksmith called in after the key snapped(背下) inside the lock`
+她自己标「背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #471 先例）。
+判重三步：
+　① 目标形式 dedup "snap" ⇒ 🎓#400（历史行字串，考点是 come here just to）⇒ 否；"snapped" ⇒ 零命中
+　② 中文 dedup "断在" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背下」（词不在手边）　　目标：`the key snapped inside the lock`
+找法：说"啪地断了／断成两截"先落 snap；要说断在哪 ⇒ snap in ＋ 地方，断成两半 ⇒ snap in half。
+
+**题面**
+"我一使劲，筷子就啪地断了。"（"啪地断了"用 **snap** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I pressed a bit too hard and the chopstick snapped.
+
+- 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [3]f（🎓#451 题里）· 她标「背下」· 原话 `a locksmith called in after the key snapped(背下) inside the lock`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [7] · `The moment I pressed too hard, the chopstick snapped in two.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [4] · `It was so windy that a branch on that small tree in the yard snapped right off.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 492 · **perch**（鸟停、落在高处或边沿上：perch on people's shoulders）
+类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**perch** ＝ 鸟停在（枝头、肩上、栏杆、电线）上；人坐在高处或边沿上也能说：
+`It loves perching on people's shoulders.` · `A crow was perched on the fence.` · `She perched on the edge of the bed.`
+同一格里的邻居（别串）：land（飞下来落地那一下，动作）· sit（泛泛地坐／待着）· nest（做窝）。
+判据一句话：鸟停在某个高处／细的东西上 ⇒ perch on；说"停着"的状态 ⇒ be perched on。
+★ 题型判整句："停着"能落到 sit／stand 一串合法说法 ⇒ 整句 ＋ 正向点名 perch。
+
+**怎么发现的**
+2026-10-16 学习日 复检第 3 组 [5]（🎓#442 题面"我朋友家那只鹦鹉特别亲人，总爱站在人肩膀上。"）· 原话
+`My friend's parrot is really affectionate; it loves perching(背下) on people's shoulders.`
+她自己标「背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #471 先例）。
+判重三步：
+　① 目标形式 dedup "perch" ⇒ 零命中
+　② 中文 dedup "肩膀" ⇒ 零命中；"站在" ⇒ 🎓#156 #164 #170 #241 #270（正文里"站在…"之类的字样，考点全不相干）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背下」（词不在手边）　　目标：`it loves perching on people's shoulders`
+找法：说"鸟停在…上"先落 perch，再补 on ＋ 地方。
+
+**题面**
+"窗外的电线上停着一排麻雀。"（"停着"用 **perch** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：There's a row of sparrows perched on the power line outside the window.
+
+- 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#442 题里）· 她标「背下」· 原话 `My friend's parrot is really affectionate; it loves perching(背下) on people's shoulders.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [8] · `There was a row of sparrows perching on the power line outside the window.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [5] · `A pigeon perched on my balcony railing and just wouldn't leave for ages.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 493 · **citywide**（全市的、全城范围的：a citywide tournament）
+类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+
+**问题是什么**
+**citywide** ＝ 整座城市范围的（形容词，放名词前）：`a citywide tournament` · `a citywide blackout` · `a citywide ban on fireworks`。
+同一族：nationwide（全国的）· worldwide（全世界的）· statewide（全州的）—— 都是"范围 ＋ wide"一个词，放名词前；也能放句尾当副词（The rule applies citywide.）。
+同一格里的邻居（别串）：across the city（介词短语，放名词后或句尾）。
+判据一句话：想说"全市的／全城范围的 X" ⇒ a citywide X。
+★ 题型判词组：一个固定的词，缺口只是调不调得出来；"全市范围的…"中文块能映射回 citywide（across the city 合法照判）。
+
+**怎么发现的**
+2026-10-16 学习日 复检第 4 组 [2]a（🎓#395 题面"全市中学生篮球大赛"）· 原话
+`the citywide（学下) high school basketball tournament`
+她自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 先例）。
+判重三步：
+　① 目标形式 dedup "citywide"／"city-wide" ⇒ 零命中
+　② 中文 dedup "全市" ⇒ 🎓#18（历史行字样，考点是论元完整）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学下」（词不在手边）　　目标：`the citywide high school basketball tournament`
+找法：说"全市／全国／全世界范围的"先想"范围 ＋ wide"：citywide · nationwide · worldwide。
+
+**题面**
+"全市范围的垃圾分类新规定"（整座城市都要照着执行的那种）
+
+- 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [2]a（🎓#395 题里）· 她标「学下」· 原话 `the citywide（学下) high school basketball tournament`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [9] · `citywide waste sorting regulations`（漏了「新」只进 diff-1，不影响考点）。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [6] · `a citywide spring-cleaning event`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 494 · **can't bring myself to do**（狠不下心、下不了手去做：I could never bring myself to throw them away）
+类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**can't／couldn't bring yourself to ＋ 动词原形** ＝ 心里过不去、怎么也下不了决心去做（多用否定）：
+`I could never bring myself to throw them away.` · `She couldn't bring herself to tell him.` · `I can't bring myself to delete his number.`
+★ to 后面是动词原形（bring myself to throw）—— 这里的 to 是不定式，⛔ 不接 -ing；反身代词跟着主语变（myself／herself／himself）。
+同一格里的邻居（别串）：can't bear to（受不了去做）· have the heart to（忍心，也多用否定：I didn't have the heart to tell her）· be reluctant to（不太情愿，偏正式）。
+判据一句话：想说"舍不得／狠不下心／下不了手去做" ⇒ can't bring myself to ＋ 动词。
+★ 题型判整句：反身代词跟主语、to 后接原形，都要靠句子才现形 ⇒ 整句 ＋ 第一次把整块写进题面（她说要学 ⇒ 练）。
+
+**怎么发现的**
+2026-10-16 学习日 复检第 4 组 [6]（🎓#46 题面"这些旧照片都是我怎么也舍不得扔的东西。"）· 原话
+`These old photos are things I could never bring myself to(这个词组学下) throw away.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 先例）。
+判重三步：
+　① 目标形式 dedup "bring myself"／"bring oneself"／"bring herself" ⇒ 零命中
+　② 中文 dedup "狠不下心"／"舍不得" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（块不在手边）　　目标：`things I could never bring myself to throw away`
+找法：说"怎么也舍不得扔／狠不下心说"先落 can't bring myself to，反身代词跟着主语变。
+
+**题面**
+"我爸的旧手机早就不能用了，可我妈就是狠不下心把它扔掉。"（"狠不下心"用 **bring herself to** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My dad's old phone stopped working ages ago, but my mom just can't bring herself to throw it away.
+
+- 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#46 题里）· 她标「这个词组学下」· 原话 `These old photos are things I could never bring myself to(这个词组学下) throw away.`
+- 2026-10-17 ✅ 付息日 在池第 1 组 [10] · `… but my mom just can't bring herself to throw it away.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [7] · 题面点名 bring（降回 lemma）· `He knew the relationship was a dead end, but he still couldn't bring himself to call it quits.` —— himself 跟着 he。连对 1 → 2 ⇒ 🎓 毕业
+
+### 495 · **beat around the bush**（绕弯子、不直说正题：Stop beating around the bush）
+类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**beat around the bush** ＝ 说话绕来绕去、就是不说正题（故意回避或不好意思直说）：
+`Stop beating around the bush and tell me what happened.` · `He beat around the bush for a while before he told the truth.`
+同一格里的邻居（别串）：get to the point（说正题）· hem and haw（支支吾吾、吞吞吐吐，偏犹豫不决）· dodge the question（躲开问题）。
+判据一句话：想说"绕弯子／拐弯抹角／不直说" ⇒ beat around the bush；"别绕了" ⇒ Stop beating around the bush。
+★ 题型判整句："绕弯子"能落到 avoid the point 一串合法说法 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-16 学习日 复检第 4 组 [10]（🎓#136 题面"我问他钱花哪儿了，他支支吾吾半天，最后才说了实话。"）· 原话
+`I asked him where the money went, and he beat around the bush（这个词组学下) for a while before finally telling the truth.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 先例）。
+判重三步：
+　① 目标形式 dedup "beat around"／"bush"／"hem and haw" ⇒ 零命中
+　② 中文 dedup "绕弯子"／"拐弯抹角"／"支支吾吾" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（块不在手边）　　目标：`he beat around the bush for a while`
+找法：说"别绕弯子了"先落 Stop beating around the bush，后面接 and just …。
+
+**题面**
+"别绕弯子了，直接告诉我你到底想要什么。"（"绕弯子"用 **beat around the bush** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Stop beating around the bush and just tell me what you actually want.
+
+- 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [10]（🎓#136 题里）· 她标「这个词组学下」· 原话 `I asked him where the money went, and he beat around the bush（这个词组学下) for a while before finally telling the truth.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [1] · `Stop beating around the bush and just tell me what you really want.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [8] · 题面点名 bush（降回 lemma）· `He beat around the bush for a long time on the call, only to finally ask for a loan.`（diff-2 ⚠️ ask me for a loan，只加一个词不建号）。连对 1 → 2 ⇒ 🎓 毕业
+
+### 496 · **be overrun with** ＋ 坏东西（到处都是、泛滥成灾：a city overrun with crime）
+类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**be overrun with X** ＝ 一个地方被 X 占满了、泛滥成灾（X 多是不想要的东西：老鼠、蟑螂、杂草、游客、犯罪）：
+`a city overrun with crime` · `The old house is overrun with rats.` · `The beach gets overrun with tourists every summer.`
+介词是 with；放名词后面当修饰（a city overrun with …），或者 be／get overrun with。
+同一格里的邻居（别串）：be full of（中性的"满是"）· be packed with（挤满人，常是好事）· be infested with（虫、鼠成灾，更专指害虫）·
+🎓#450 all over ＋ 地方（东西撒得满地都是，主语是东西）。
+判据一句话：主语是被占满的地方、占满它的是坏东西 ⇒ overrun with；主语是撒出来的东西 ⇒ all over。
+★ 题型判整句："到处都是"能落到 all over the place／full of 一串合法说法 ⇒ 整句 ＋ 正向点名 overrun。
+
+**怎么发现的**
+2026-10-16 学习日 ③ 重答 bank:1011（P2 · Describe a movie you watched and enjoyed recently）S5 · 原话
+`The whole story takes place in Gotham, a fictional city overrun（学一下） with corruption and crime.`
+搭配本身用对；她自己标「学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 先例）。
+判重三步：
+　① 目标形式 dedup "overrun"／"overrun with"／"infested" ⇒ 零命中
+　② 中文 dedup "到处都是" ⇒ 🎓#450 all over ＋ 地方（东西撒得满 X 都是，主语是东西）—— 本条主语是被占满的地方、块是 overrun with ⇒ 两个块，题面互斥（#450 ⛔ 不出"老鼠／害虫成灾"）；🎓#272 #441 #485 #314 只是题面／正文字样 ⇒ 否；"泛滥" ⇒ 🎓#440（正文字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学一下」（块不在手边）　　目标：`a fictional city overrun with corruption and crime`
+找法：说"满地都是老鼠／到处都是游客／犯罪泛滥"先落 overrun with，主语放被占满的地方。
+
+**题面**
+"那栋老房子空了好几年，现在到处都是老鼠。"（"到处都是"用 **overrun** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：That old house has been empty for years, and now it's overrun with rats.
+★ 互斥：与 🎓#450 同组时，#450 题面 ⛔ 不出"老鼠／害虫成灾"。
+
+- 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S5 · 她标「学一下」· 原话 `The whole story takes place in Gotham, a fictional city overrun（学一下） with corruption and crime.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [2] · `… and now it's completely overrun with rats.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [9] · `We were away on vacation for a month, and came back to find our backyard overrun with weeds.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 497 · **have ＋ 东西 ＋ done** ＝ 遭遇（had my phone stolen）；人出事 ⇒ watched X get …
+类型 结构 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+
+**问题是什么**
+**have ＋ 东西 ＋ 过去分词**，除了"叫人做"（I had my hair cut），还能表示"遭遇了某事"（倒霉、不是自己安排的）：
+`I had my phone stolen on the subway.` · `We had our flight cancelled.` · `She had her bag snatched.`
+★ 边界：宾语是人、动作是 killed／shot 时，听的人会先想到使役（"他找人干的"）⇒ 人出事别用 had X killed，
+说 watched／saw X get killed（亲眼看着）或 lost X（失去）。
+同一格里的邻居（别串）：get ＋ 东西 ＋ done（I got my phone stolen，口语也说）· 被动句（My phone was stolen —— 不点出"我"倒霉）。
+判据一句话：想说"我被偷了／被取消了／被弄坏了 X" ⇒ I had my X stolen／cancelled／broken。
+★ 题型判整句：结构靠句子才现形（have ＋ 宾语 ＋ 过去分词的位置）⇒ 整句 ＋ 正向点名 have。
+
+**怎么发现的**
+2026-10-16 学习日 ③ 重答 bank:1011 S6 · 原话
+`Bruce Wayne, who becomes Batman, had(被动遭遇 have 的用法学下) his parents shot and killed when he was just a kid.`
+她自己标「被动遭遇 have 的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #472 先例）。
+同句 diff-2 ⚠️：had his parents shot and killed 能读成使役 ⇒ 更好版 watched his parents get shot and killed（边界写进正文）。
+判重三步：
+　① 目标形式 dedup "had my"／"have sth done"／"stolen" ⇒ 零命中
+　② 中文 dedup "被动遭遇" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「被动遭遇 have 的用法学下」；这次用在"父母被杀"上，能听成"他找人杀的"　　目标：`I had my phone stolen`（东西）／`watched his parents get shot`（人）
+找法：说"我被 V 了 X"先落 I had my X ＋ 过去分词；X 是人、事情是被杀被伤 ⇒ 换 watched X get …。
+
+**题面**
+"我上个月在地铁上被偷了钱包。"（"被偷了"用 **have** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I had my wallet stolen on the subway last month.
+
+- 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S6 · 她标「被动遭遇 have 的用法学下」· 原话 `Bruce Wayne, who becomes Batman, had(被动遭遇 have 的用法学下) his parents shot and killed when he was just a kid.` ⇒ 更好版 watched his parents get shot and killed
+- 2026-10-17 ✅ 付息日 在池第 2 组 [3] · `I had my wallet stolen on the subway last month.`。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 1 组 [10] · `We had our flight canceled on short notice, so we ended up staying overnight at the airport.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 498 · **vigilante**（不靠警察、私自出手惩治坏人的人；义警）
+类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+
+**问题是什么**
+**vigilante** ＝ 没有执法身份、自己动手抓坏人／惩罚坏人的人（Batman 就是最典型的 vigilante）：
+`become a vigilante` · `a masked vigilante` · `vigilante justice`（私刑式的"正义"）。
+同一格里的邻居（别串）：hero（英雄，泛）· detective（侦探，查案）· bounty hunter（赏金猎人，拿钱抓人）。
+判据一句话：不是警察、却自己出手惩治罪犯 ⇒ vigilante。
+★ 题型判词组：一个固定的词，缺口只是调不调得出来；中文"私自替天行道的蒙面义警"能映射回 vigilante。
+
+**怎么发现的**
+2026-10-16 学习日 ③ 重答 bank:1011 S7 · 原话
+`Later on, he decides to clean up the city, and his way of doing that is by becoming a vigilante(背一下), striking fear into the hearts of criminals.`
+她自己标「背一下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #471 先例）。
+判重三步：
+　① 目标形式 dedup "vigilante" ⇒ 零命中
+　② 中文 "义警" ⇒ 未作判据（档案里没有这个中文块），以英文形式为准
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「背一下」（词不在手边）　　目标：`by becoming a vigilante`
+找法：说"义警／私自替天行道的人"先落 vigilante。
+
+**题面**
+"电影里那种不靠警察、自己出手惩治坏人的蒙面义警"（没有执法身份、私自替天行道的那种人）
+
+- 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S7 · 她标「背一下」· 原话 `… and his way of doing that is by becoming a vigilante(背一下), striking fear into the hearts of criminals.`
+- 2026-10-17 ✅ 付息日 在池第 2 组 [4] · `a masked vigilante in the movie who takes justice into his own hands …`（in the movie → in the movies 只进 diff-2）。连错 1 → 连对 1
+- 2026-10-19 ✅ 学习日 在池第 2 组 [1] · `a comic book vigilante who works by day and fights crime by night`。连对 1 → 2 ⇒ 🎓 毕业
