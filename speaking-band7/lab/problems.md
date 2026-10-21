@@ -1311,6 +1311,68 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
 
+### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
+类型 词组 ｜ 新建 2026-10-20
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
+**distinctively** 是 distinctive（有特色的）的副词 ＝ 有特色地、一眼认得出地：`a distinctively shaped building` —— 另一个词。
+同一格里的邻居（别串）：clearly remember（同义，更平）· vividly remember（记得很鲜活、带画面）。
+判据一句话：说"记得很清楚" ⇒ distinctly（或 clearly／vividly）；说"与众不同" ⇒ distinctive(ly)。
+★ 题型判整句："记得很清楚"能落到 clearly／vividly remember 一串合法说法 ⇒ 整句 ＋ 正向点名 distinctly。
+
+**怎么发现的**
+2026-10-20 学习日 ③ 重答 bank:308（R25 · P2）S6 · 原话
+`I distinctively remember spending an entire month staying in my dorm room, tweaking code again and again, trying every trick in the book to compress memory.`
+§2.1 边界：distinctively 是另一个词（有特色地），不是同一个词拼歪 ⇒ 选词，照常判 ❌。她 10-12 写过 `distinctly mapped out`（🎓#431 那题）⇒ 词在，"记得很清楚"这个块调错了词。
+判重三步：
+　① 目标形式 dedup "distinctly" ⇒ 只命中 🎓#431（历史行字样，考点是 well planned out）⇒ 否；"distinctive"／"vividly"／"clearly remember" ⇒ 零命中
+　② 中文 dedup "记得很清楚"／"清清楚楚" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`I distinctively remember …`　　正确：`I distinctly remember …`
+找法：说"清清楚楚记得"先落 I distinctly remember，别加 -ive（-ive 是"有特色"那个词）。
+
+**题面**
+"我清清楚楚记得第一天上班就把咖啡洒在了老板身上。"（"清清楚楚记得"用 **distinctly** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I distinctly remember spilling coffee on my boss on my first day at work.
+
+- 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S6 · 原话 `I distinctively remember spending an entire month staying in my dorm room, …` ⇒ 最小改 I distinctly remember
+
+### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
+类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**not bother to do ／ not bother doing** ＝ 没费那个事去做（该做的没做，常带点批评或无所谓）：
+`He didn't even bother to say goodbye.` · `The organizers didn't bother to enforce the rule.` · `Don't bother calling — I'll be out.`（别费事打了）
+同一格里的邻居（别串）：🎓#374 can't be bothered to do（懒得：说自己主观上不想动）· take the trouble to do（特意费事去做，正面）· 🎓#142 中文"连…都没"⇒ 否定放助动词上、even 跟在后面（didn't even bother）。
+判据一句话：说别人"连…都没做、懒得管" ⇒ didn't (even) bother to；说自己"懒得…" ⇒ can't be bothered to。
+★ 与 🎓#374 分工：同一个 bother，#374 是 be bothered（形容词式"懒得"），本条是动词 bother to do（"没费事去做"）⇒ 两个结构；同组出题时两条题面互斥（本条只出"别人连…都没做"，#374 只出"我懒得…"）。
+★ 题型判整句："连…都没说"能落到 didn't even say 等合法说法 ⇒ 整句 ＋ 正向点名 bother。
+
+**怎么发现的**
+2026-10-20 学习日 ③ 重答 bank:308（R25 · P2）S8 · 原话
+`On the day of the contest, some people literally took out laptops—which was supposed to be banned, but the organizers didn't bother to(学一下) enforce it on the spot.`
+她自己标「学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "bother" ⇒ 只命中 🎓#374（can't be bothered）⇒ be bothered 与 bother to do 是两个结构 ⇒ 否；"take the trouble" ⇒ 零命中
+　② 中文 dedup "懒得" ⇒ 🎓#374 #15 #411（#374 见上；另两条是题面字样）⇒ 否；"didn't even" ⇒ 🎓#142（"连…都没"的否定位置，结构条）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 didn't bother to enforce it，但块不在手边（自己标学一下）　　目标：`the organizers didn't bother to enforce it on the spot`
+找法：中文"连…都没（费事）做／根本没管"先试 didn't (even) bother to ＋ 动作。
+
+**题面**
+"他走的时候连声再见都没说。"（"连…都没说"用 **bother** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He didn't even bother to say goodbye when he left.
+★ 互斥：与 🎓#374 同组时，本条只出"别人连…都没做"，#374 只出"我懒得…"。
+
+- 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S8 · 她标「学一下」· 原话 `… but the organizers didn't bother to(学一下) enforce it on the spot.`
+
 ## 迁移说明（2026-08-18）
 
 ```

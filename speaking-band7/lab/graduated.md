@@ -486,7 +486,7 @@
 
 ### 16 · 让某人做某事四件套（get sb TO do 只有它带 to；have/make/let/watch/see sb DO）
 类型 搭配 ｜ 旧号 B39
-状态 连对3 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
+状态 连对3 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-08-19** ｜ 题型 整句
 
 **问题是什么**
 **让某人做某事四件套**：`get sb **TO** do` —— 这一族里**只有 get 带 to**；
@@ -516,6 +516,7 @@ have／make／let／watch／see sb **DO**（光杆原形，⛔ 不加 to）。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   考点是 to／光杆原形挂在哪 ＝ 靠句子现形；一句覆盖两半（get sb to do ＋ watch sb do，她掉过的是 watch 那半）
 - 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [3] · `I got my kid to clean up his room and stood at the door to watch him finish.` —— get sb to do ＋ watch sb do 两处都对
+- 2026-10-20 ✅ 自发命中 · 学习日 ③ 重答 bank:308（R25 · P2 · 自由产出）S2 · `build a robot … and get it to solve a Rubik's Cube` —— get ＋ 宾语 ＋ to do
 - ⚠️ 与已毕业的 #143（哪些动词后面要带 to）是同一条规则的两个角度 —— 付息日 c 段处理
 
 ### 17 · talk AT sb（单向灌输）vs talk TO sb
@@ -17175,6 +17176,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-11 ✅ 学习日 复检第 3 组 [3] · `I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.` —— tweaked it a little
   ｜她标「这个短语学下」⇒ cut back on 另建 #454
 - 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [3] · `My resume is pretty much ready—I just need to tweak the formatting slightly before submitting it.`
+- 2026-10-20 ✅ 自发命中 · 学习日 ③ 重答 bank:308（R25 · P2 · 自由产出）S6 · `tweaking code again and again, trying every trick in the book to compress memory`
 
 ### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
