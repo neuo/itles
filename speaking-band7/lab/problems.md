@@ -748,7 +748,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
-状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **stay on** ＝ 本来可以走（毕业了／合同到了／实习完了），却留在原地接着待、接着干：
@@ -776,10 +776,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 - 2026-10-16 新建 · 学习日 在池第 2 组 [4]（#486 题里）· diff-2 ⚠️ · 原话 `… and the last one stayed at school for grad school.` ⇒ 更好版 stayed on for grad school
 - 2026-10-17 ✅ 付息日 在池第 2 组 [9] · `… the company asked her if she wanted to stay on, and she said yes.`。首测 ⇒ 连对 1
+- 2026-10-20 ✅ 学习日 在池第 2 组 [3] · `… his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— stay on ✓（同句 -ing 主语悬空归 🎓#215；后半句重复 stay on 只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
 类型 句型 ｜ 新建 2026-10-16
-状态 连对1 连错0 上次2026-10-17 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 前面说完一个观点，要举一个具体的、真实的例子 ⇒ **Take X —**／**Take X, for example, …** 起手，后面接完整句：
@@ -809,6 +810,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-16 新建 · 学习日 ③ 重答 bank:1011 S10 · diff-2 ⚠️ · 原话 `Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.` ⇒ 更好版 Take the Joker in the second movie—
 - 2026-10-17 ✅ 付息日 在池第 2 组 [10] · `Take my nephew, for instance—he has cram school every single night until nine.`。首测 ⇒ 连对 1（同句 cram school 她标要学 ⇒ 新建 #502）
+- 2026-10-20 ✅ 学习日 在池第 2 组 [4] · `Young people barely cook nowadays. Take my cousin, for example—she gets food delivery over twenty days a month.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
@@ -1096,7 +1098,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 509 · **set off**（出发、动身上路：set off on a trip · set off for ＋ 地点）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **set off** ＝ 出发、动身上路的那一下：
@@ -1124,10 +1126,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 目标形式（教练看，⛔ 不进发题稿）：We set off for the airport before it was even light out.
 
 - 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [8]（#463 题里）· 她标「这个短语学一下」· 原话 `Before setting off on(这个短语学一下) the trip, our family sat down and talked through the route stop by stop.`
+- 2026-10-20 ✅ 学习日 在池第 2 组 [1] · `We set off for the airport before dawn.`。连错 1 → 连对 1
 
 ### 510 · **know the ins and outs of sth**（一件事的里里外外、各种细节门道都清楚）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **the ins and outs of sth** ＝ 一件事的全部细节、里面的门道：
@@ -1155,6 +1158,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 目标形式（教练看，⛔ 不进发题稿）：Our team lead has been at the company for ten years — he knows the ins and outs of the reimbursement process.
 
 - 2026-10-19 ❌ 首犯 · 学习日 ③ 重答 bank:991 S3 · 她标「这个词组学下」· 原话 `As for the company, having highly skilled staff who know the ins and outs of(这个词组学下) their specific processes means they can create a lot more value.`
+- 2026-10-20 ✅ 学习日 在池第 2 组 [2] · `Our team leader has been at the company for a decade, so he knows all the ins and outs of the expense report process.`。连错 1 → 连对 1
 
 ## 迁移说明（2026-08-18）
 

@@ -7723,27 +7723,34 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对3 连错0 上次2026-09-19 ｜ **🎓 已毕业 2026-08-15** ｜ 退池 ｜ 题型 整句
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
 · 成立：`kids put toys away **after playing** them.`（playing 的人就是主句主语 kids）
 · **不成立**：玩的是孩子、收的是我 ⇒ 只能换成带自己主语的从句（`After kids played toys, I put them away.`）
-同一格里的邻居（别串）：两句都能用 after 从句整句译出、-ing 就一次不出现 ⇒ 2026-09-07 题面补了
-「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」（⛔ 不透露是哪一句不能用）。
+同一格里的邻居（别串）：🎓#182 by ＋ -ing（by 后面那个动作同样得是主句主语做的）。
+★ 最容易诱出悬空 -ing 的是中文话题句「X 以后，<另一个人>……」：前半句的人和后半句的主语不是同一个（10-20 就是这么掉的）。
+两种改法：① 写带自己主语的从句（After he finished grad school, his advisor …）② 想保留 -ing，就让做那个动作的人当主句主语（After finishing grad school, he was asked by his advisor …）。
 判据一句话：-ing 那个动作是谁做的？跟主句主语不是同一个人 ⇒ ⛔ 不许省主语。
 
 **怎么发现的**
 旧 B 表迁移（B153，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
 2026-08-13 ✅ ／ 2026-08-15 ✅ ⇒ 连对 3，毕业。
 2026-09-07 复检第 5 组 ✅ 两句分别处理 —— 句 1 用 -ing、句 2 换成带自己主语的 After 从句，正是本条要她做的判断。
+2026-10-20 学习日 在池第 2 组 [3]（#490 题面"他研究生毕业以后，导师问他要不要留在实验室接着干，他就留下来了。"）第一次真掉 · 原话
+`After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.`
+⇒ §3.6 退池条目又掉 ⇒ 撤销退池、判 ❌、回潮（判重：本条就是这条规则，⛔ 不另建）。
 
 **我错在哪**
-她的：本条历史里没有掉过（判定全是 ✅）；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。触发原话未存。
+她的：2026-10-20 `After finishing grad school, his advisor asked …`（finishing 的是他，主句主语却是 his advisor ⇒ 读成"导师毕业了"）　　正确：`After he finished grad school, his advisor asked …`
+（此前判定全是 ✅；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。）
 找法：要用 -ing 开头之前先问一句 —— 这个动作是主句主语做的吗？不是就老实写从句。
 
 **题面**
-"孩子玩完把玩具收起来。" ／ "孩子玩完之后我把玩具收了。"（两句都要求用 **-ing 短语**开头；哪一句这么说不通，就改成说得通的形式）
+"妈妈下班一回到家，孩子们已经把晚饭做好了。"（"一回到家"用 **after getting home** 说）
+　　★ 陷阱在后半句：中文主语换成了孩子们，-ing 又被点名保留 ⇒ 主句主语必须改成妈妈（After getting home from work, Mom found the kids had already made dinner.）；写成 After getting home …, the kids … ⇒ ❌
+　　★ 2026-10-20 改：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求（§6② 禁），换成正向点名 ＋ 主语错位的整句
 
 - 2026-08-09 ✅
 - 2026-08-13 ✅
@@ -7760,6 +7767,9 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-19 ⚡ 自评免测 · 复检第 2 组
 - 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
   旧 B 表迁移、原话未存、历史零 ❌；-ing 短语的逻辑主语她每次都判对（09-07 两句分别处理正是这一判断）
+- 2026-10-20 📝 撤销退池 · 学习日 在池第 2 组 [3]（#490 题里）她写 `After finishing grad school, his advisor asked …` —— 09-29 按 ④「历史零 ❌」退池，今天真掉 ⇒ §3.6 删掉状态行的退池
+- 2026-10-20 ❌ 学习日 在池第 2 组 [3]（#490 题里）· `After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— finishing 的是他，主句主语是 his advisor ⇒ 最小改 After he finished grad school, his advisor asked … ⇒ 🎓 回潮
+- 2026-10-20 📝 题面整改（§6②）：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求 ⇒ 换成正向点名 after getting home ＋ 中文主语错位的整句（妈妈下班一回到家，孩子们已经把晚饭做好了）
 
 ### 216 · 东西不会自己 leave（His things ARE all over the floor）
 类型 结构 ｜ 旧号 B154
