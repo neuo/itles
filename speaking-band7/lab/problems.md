@@ -655,7 +655,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
 类型 搭配 ｜ 旧号 B230
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）
+状态 连对2 连错0 上次2026-10-20 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）｜ **🎓 已毕业 2026-10-20**（连对2 ＝ 10-19 ＋ 10-20；10-17 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
@@ -694,6 +694,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-10-17 📝 题面整改：种子改成钱＋时间同句（这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末）—— 今天回潮掉的是钱配 take，旧种子只测时间
 - 2026-10-19 ✅ 学习日 在池第 1 组 [1] · 题面"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"（两个"花了我"都用 me 说）· `This second-hand camera set me back three thousand RMB, and just figuring out how to use it took me another whole weekend.` —— 钱用 set me back（＝ cost me，合法且贴题面）、时间 took me ✓。连错 1 → 连对 1
 - 2026-10-19 📝 题面整改（§3.3 硬顺序③）：她用 set me back 绕开了 cost ⇒ 种子点名改成 cost／take 两个都点、由她自己分配给钱和时间（二选一仍是考点，又不给答案）
+- 2026-10-20 ✅ 学习日 在池第 1 组 [1] · `The materials cost me eighty thousand RMB for this renovation, and overseeing the workers took me two whole months.` —— 钱 cost me、时间 took me，两处自己分配都对。连对 1 → 2 ⇒ 🎓 毕业（10-17 回潮后重新毕业）
 - 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
   首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
 
@@ -811,7 +812,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **a down payment (on sth)** ＝ 首付，买房／买车时先一次付掉的那一部分，剩下的再贷款或分期：
@@ -838,10 +839,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 1 组 [3]（#482 题里）· 她标「首付这个词需要学下」· 原话 `What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [2] · `a down payment on a car`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [2] · `the down payment on the new house`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **drop off sth ／ drop sth off** ＝ 自己（多半是顺路）把东西或人带到某处、放下就走：
@@ -868,10 +870,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [7]（#478 题里）· 她问「和 send 的区别学下」· 原话 `… he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital …`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [3] · `On my way home from work, I dropped off the spare key at my mom's and took off.`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [3] · `On my way to work, I dropped off a box of old toys at the local donation center and took off.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 502 · **cram school**（补习班：为了考试突击补课的校外班）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **cram school** ＝ 为了升学考试、放学后／周末去的补习班（亚洲语境最常用）：
@@ -898,10 +901,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [10]（#499 题里）· 她标「这个词组学下」· 原话 `… Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [4] · `weekend cram school for the high school entrance exams`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [4] · `the night cram school during my final year of high school`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **over ＋ 名词** ＝ 为了（某件事）而争、而气、而折腾，常带"就为了这么点事"的口气：
@@ -928,10 +932,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（#404 题里）· 她标「这个 over 的用法学下」· 原话 `… he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [5] · `They spent the whole night arguing over who was gonna do the dishes.`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [5] · `The couple next door spent weeks arguing over a parking spot.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 504 · **take up ＋ 时间／空间**（占掉）vs **It takes ＋ 时间**（需要多久）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **It takes (sb) ＋ 时间 ＋ to do** ＝ 做这件事需要多久：`It took us two hours to get it in.`
@@ -959,10 +964,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [3]（#176 题里）· 她问「take up 和 take 的区别」· 原话 `… even though it takes up (take up和 take 的区别) a lot of time.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [6] · `This big couch takes up way too much room—just moving it inside took us two hours.` —— take up 占地方／took us 需要多久，分工都对。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [6] · `This new bookshelf takes up way too much room, and putting it together takes an entire afternoon.` —— take up 占地方／takes 需要多久，分工都对。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 505 · **in a bit**（一会儿、马上）vs **in a while**（过一阵子／好久没）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **in a bit** ＝ 一会儿、马上（几分钟内，口语）：`I'll call you back in a bit.` · `I'll be there in a bit.`
@@ -990,10 +996,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [8]（#67 题里）· 她标「in a bit / in a while 学下」· 原话 `… so I'm going to put them away in a bit(in a bit / in a while 学下).`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [7] · `I'll be there in a bit—speaking of which, we haven't seen each other in a while.` —— in a bit 马上／in a while 好久没，分工都对。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [7] · `I'll be there in a bit right after this meeting. It's been a while since our family sat down for a meal together.` —— in a bit 马上 ✓；"好久没"走了 It's been a while since（合法且贴题面，§3.3 ⇒ ✅；10-19 已用对 haven't … in a while）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 506 · **call it quits**（决定到此为止、不干了：结束一段关系／一份工作／一件正在做的事）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **call it quits** ＝ 决定到此为止、不干了（口气是"拍板结束"）：
@@ -1021,10 +1028,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 目标形式（教练看，⛔ 不进发题稿）：The little restaurant lost money for three years, and the owner finally decided to call it quits.
 
 - 2026-10-19 ❌ 首犯 · 学习日 在池第 1 组 [7]（#494 题里）· 她标「这个短语词组学下」· 原话 `He knew the relationship was a dead end, but he still couldn't bring himself to call it quits（这个短语词组学下).`
+- 2026-10-20 ✅ 学习日 在池第 1 组 [8] · `This small restaurant was losing money for three years, so the owner finally decided to call it quits.` —— call it quits ✓（was losing → had been losing 只进 diff-2）。连错 1 → 连对 1
 
 ### 507 · **rummage through ＋ 地方**（扒拉着乱翻、翻找；要找的东西用 for）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **rummage through ＋ 地方** ＝ 在一堆东西里扒拉着找、乱翻：
@@ -1052,10 +1060,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 目标形式（教练看，⛔ 不进发题稿）：I rummaged through my bag for ages before I found my keys.
 
 - 2026-10-19 ❌ 首犯 · 学习日 在池第 3 组 [1]（#487 题里）· 她标「这个词背下」· 原话 `a pack of raccoons rummaging（这个词背下) through trash cans for food in the middle of the night`
+- 2026-10-20 ✅ 学习日 在池第 1 组 [9] · `I had to rummage through my bag to find my keys.` —— rummage through ✓（"半天"没说，补 for ages 只进 diff-2）。连错 1 → 连对 1
 
 ### 508 · X is **the thing sb looks forward to the most**（最期待的就是 X；⛔ what they expect most is）
 类型 句型 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-19 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
 
 **问题是什么**
 「最期待的就是 X」⇒ **X is the thing sb looks forward to the most**（或 What sb looks forward to the most is X）：
@@ -1083,6 +1092,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 ★ 目标形式（教练看，⛔ 不进发题稿）：Her birthday is the thing my daughter looks forward to the most all year.
 
 - 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [3]（#347 题里）· 她标「这里的 the most 可以学下」· 原话 `For many elementary school kids, summer break is the thing they look forward to the most(这里的 the most 可以学下，我本来想用 what they expect most is).`
+- 2026-10-20 ✅ 学习日 在池第 1 组 [10] · `The thing my daughter looks forward to the most all year is her birthday.`。连错 1 → 连对 1
 
 ### 509 · **set off**（出发、动身上路：set off on a trip · set off for ＋ 地点）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
