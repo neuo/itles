@@ -1251,6 +1251,66 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
 
+### 514 · **gown**（女士的长礼服：an evening gown · a ball gown；男士 ⇒ tuxedo）
+类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**gown** ＝ 女士穿的长款礼服：`an evening gown`（晚礼服）· `a ball gown`（大裙摆礼服）· `a wedding gown`（婚纱，也说 wedding dress）；毕业袍也叫 gown（`cap and gown`）。
+同一格里的邻居（别串）：tuxedo（男士礼服）· formal wear（礼服统称，男女都包）· dress（裙子，日常的也算）· 🎓#416 gala（盛大的晚会，礼服常在这种场合出现）。
+判据一句话：女士的正式长礼服 ⇒ gown；男士 ⇒ tuxedo；男女一起说"穿着礼服" ⇒ in formal wear。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"女士的拖地晚礼服"映射回 evening gown（答 evening dress 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 4 组 [5]（🎓#416 题面"电影节闭幕那天晚上有一场盛大的晚会，明星们都穿着礼服走红毯。"）· 原话
+`On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
+她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 先例）。题面"明星们"男女都有 ⇒ 男女一起说是 formal wear，写进邻居。
+判重三步：
+　① 目标形式 dedup "gown"／"tuxedo" ⇒ 零命中
+　② 中文 dedup "礼服" ⇒ 只命中 🎓#416（题面字样，考点是 gala）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 gowns，但词不在手边（自己标背下）　　目标：`walking the red carpet in gowns`（女明星）／ `in formal wear`（男女都算）
+找法：说"（女士的）礼服／晚礼服"先落 gown；男士的是 tuxedo。
+
+**题面**
+"颁奖典礼上她穿的那件拖地晚礼服"（女士出席正式场合穿的长裙）
+★ 目标形式（教练看，⛔ 不进发题稿）：the floor-length evening gown she wore at the awards ceremony
+
+- 2026-10-20 ❌ 首犯 · 学习日 复检第 4 组 [5]（#416 题里）· 她标「背下」· 原话 `On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
+
+### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
+类型 词组 ｜ 新建 2026-10-20
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**a day job** ＝ 白天那份（养家的）正职，常跟晚上／业余干的事对照：
+`He works a day job and drives for Uber at night.` · `She's a musician, but she still has a day job.`
+俗语 `Don't quit your day job.`（别指望靠这个吃饭，半开玩笑）。
+同一格里的邻居（别串）：full-time job（全职，只说工时）· side hustle（副业）· night shift（夜班）。
+判据一句话：说"白天那份正经工作"、跟副业／夜里干的对照 ⇒ a day job。
+★ 题型判整句："白天上班"能落到 work during the day／have a full-time job 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 day job。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 4 组 [8]（🎓#419 题面"为了还房贷，他白天上班、晚上开网约车，埋头苦干了好几年。"）· 原话
+`To cover his mortgage, he worked a daytime job and drove for a ride-hailing service at night, grinding away for years.`
+diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；day job 她 lab 档案里没产出过 ⇒ §3.2b 能学的表达 ⇒ 建号（同 #490 先例）。
+判重三步：
+　① 目标形式 dedup "day job"／"daytime job"／"side hustle" ⇒ 零命中
+　② 中文 dedup "白天上班" ⇒ 只命中今天 #419 的题面字样 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`he worked a daytime job`　　更地道：`he worked a day job`
+找法：中文"白天上班、晚上／业余…"先落 work a day job。
+
+**题面**
+"她白天在银行上班，晚上去酒吧唱歌。"（"白天上班"用 **day job** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：She works a day job at a bank and sings at a bar at night.
+
+- 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
+
 ## 迁移说明（2026-08-18）
 
 ```

@@ -15548,7 +15548,7 @@ persuade 偏"让人做"）。
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **回潮 2026-10-05**（10-02 毕业 → 10-05 复检写成 `made a bank`，bank 前面加了冠词，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08；10-05 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **make bank** ＝ 赚很多钱（口语俚语）；加强版 **make absolute bank** ＝ 赚翻了。bank 这里不加冠词。
@@ -15586,6 +15586,7 @@ persuade 偏"让人做"）。
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [1] · `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.` —— made bank，bank 前面没加 a。连对 1 → 2 ⇒ **毕业**（10-05 回潮后第二次毕业）
   ｜她要求「加入 transnational 的条目做对比」⇒ 新建 #432
 - 2026-10-11 ✅ 学习日 复检第 3 组 [1] · `My friend does wedding photography and makes bank during the peak season.` —— makes bank
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [1] · `That camping equipment brand made bank over the last two years as camping blew up.`
 
 ### 367 · social media giant（社交巨头；social giant 带着公司名也成立）
 类型 搭配 ｜ 新建 2026-09-29
@@ -17111,7 +17112,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **on the house** ＝ 店家请的、免费送的（饭店／酒吧／咖啡店）：The drinks are on the house. ／ a dessert on the house。
@@ -17140,10 +17141,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 1 组 [8] · `This coffee is on the house, so don't worry about paying.` —— 前面没再叠 free。连错 1 → 连对 1（下次点名降回 house）
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [2] · `We waited for an hour at that restaurant, so the manager gave us a dessert on the house.` —— 点名降到 house，on the 自己补上、前面没加 free。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [2] · `I go to that bar quite a bit, and the owner gives me a drink now and then, on the house.` —— on the house（点名降到 house，on the 自己补上）
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [2] · `… the owner said we were their 100th customer today, so this meal was on the house.`
 
 ### 414 · tweak（小改、微调）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **tweak** ＝ 在已经差不多的东西上动一点点：tweak the recipe ／ tweak it a bit ／ make a few tweaks（名词：几处小改动）。
@@ -17172,10 +17174,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [3] · `This photo turned out great—I just tweaked the colors a little bit.` —— tweaked the colors。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [3] · `I've cooked this recipe a few times, but I tweaked it a little by cutting back（这个短语学下) on the sugar.` —— tweaked it a little
   ｜她标「这个短语学下」⇒ cut back on 另建 #454
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [3] · `My resume is pretty much ready—I just need to tweak the formatting slightly before submitting it.`
 
 ### 415 · make it through to ＋ 下一轮／决赛（闯进、晋级）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **make it through to** ＋ 那一轮 ＝ 前面几关都过了、闯进下一轮：make it through to the final ／ the next round ／ the second round of interviews。
@@ -17206,10 +17209,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [4] · `She made it to the semifinals(这个词背下) the first time she entered a singing competition.` —— 题面只点 make it，make it to 是条目列明的合法说法 ⇒ ✅；through 没逼出来 ⇒ 种子题面★改为连对后降回 make it through。连对 1 → 2 ⇒ **毕业**
   ｜她自注「这个词背下」⇒ semi-final 另建 #433
 - 2026-10-11 ✅ 学习日 复检第 3 组 [4] · `Our school debate team made it all the way through to the finals this time.` —— made it all the way through to（点名降到 make it through，to 自己补上）
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [4] · `Our company's basketball team made it all the way through to the finals of the industry league.` —— 只点 make it through，to 自己补上了
 
 ### 416 · gala（盛大的晚会／晚宴）
 类型 词汇 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **gala** ＝ 正式、隆重、要穿礼服的那种晚会或晚宴，常常是为了筹款：a charity gala ／ a gala dinner ／ the annual gala。
@@ -17238,10 +17242,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [5] · `The company threw a grand gala at the end of the year and invited a few celebrities to perform.` —— threw a grand gala。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [5] · `This hospital holds a grand charity gala every year to raise money for underprivileged(这个词学下) kids.` —— a grand charity gala
   ｜她标「这个词学下」⇒ underprivileged 另建 #455
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [5] · `On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns.`（她标 gowns 背下 ⇒ 新建 #514）
 
 ### 417 · carve out time (for sth)（挤出／抽出时间）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **carve out time** ＝ 从满满的日程里硬挤出一段时间：carve out time for the gym ／ carve out some time to read ／ carve out an hour a day。
@@ -17269,10 +17274,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [2] · `No matter how busy I get, I still carve out one evening a week to have dinner with my parents.` —— carve out ＋ 时间 ＋ to do。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [6] · `After the baby came along, I could only carve out half an hour a day for working out.` —— carve out half an hour。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [6] · `No matter how busy I get, I still carve out twenty minutes a day for a walk.` —— carve out twenty minutes a day for a walk
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [6] · `Over these months of prepping for the exam, I carved out an hour each morning just to memorize vocabulary.`
 
 ### 418 · sit on ＋ 想法／计划（攥着迟迟没动手）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **sit on sth** ＝ 手里攥着一个想法／计划／消息，一直没动手或没公开：I've been sitting on this idea for years. ／ They sat on the news for a week.
@@ -17300,10 +17306,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [3] · `He's been sitting on the idea of opening a coffee shop for years, never quite making the move(这个词组学一下).` —— sitting on the idea of ＋ -ing。连错 1 → 连对 1（她标学 making the move ⇒ 另建 #425）
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [7] · `She was sitting on the idea for this novel for ten years, never actually writing it down.` —— sitting on the idea。连对 1 → 2 ⇒ **毕业**（was sitting … for ten years 的时态 ⇒ ⚪#12 另记）
 - 2026-10-11 ✅ 学习日 复检第 3 组 [7] · `She sat on the idea of studying abroad for three years without telling her family.` —— sat on the idea of studying abroad
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [7] · `She sat on the thought of switching jobs for over six months and never mentioned it to her boss.` —— sit on ✓（the idea of 更顺，只在 ★ 行提）
 
 ### 419 · grind away (at sth)（埋头苦熬、机械地干）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **grind away** ＝ 长时间、枯燥地埋头干，带"熬"的味道：grind away at the same job ／ grinding away for a company ／ grind away at a thesis。
@@ -17331,10 +17338,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [4] · `He spent ten years grinding away on the assembly line in a factory.` —— grinding away on the assembly line。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [8] · `He spent an entire year grinding away in the library for grad school exams.` —— grinding away。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [8] · `She spent five years grinding away at a small company before finally getting promoted.` —— grinding away at a small company
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [8] · `… he worked a daytime job and drove for a ride-hailing service at night, grinding away for years.`（daytime job ⇒ ⚠️ 新建 #515 a day job）
 
 ### 420 · be burnt out (on sth)（被耗干、倦怠）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **burnt out** ＝ 长期透支、身心被掏空、提不起劲：I'm burnt out on overtime. ／ completely burnt out ／ burnout（名词：职业倦怠）。
@@ -17363,10 +17371,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [10] · `Working overtime for a consecutive month left me totally burnt out.` —— left me totally burnt out。连对 1 → 2 ⇒ **毕业**
   ｜for a consecutive month ❌ ⇒ 另建 #434
 - 2026-10-11 ✅ 学习日 复检第 3 组 [10] · `Taking care of her sick grandma for over half a year left her completely burnt out.` —— left her completely burnt out
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [10] · `Having taught the graduating class for a whole term, several teachers ended up totally burnt out.`
 
 ### 421 · support yourself（养活自己；sustain yourself 偏正式）
 类型 搭配 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-11 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-08**（连对2 ＝ 10-07 ＋ 10-08）｜ 题型 整句
 
 **问题是什么**
 **support yourself** ＝ 自己挣钱养活自己：support myself ／ support yourself financially ／ support a family（养家）。
@@ -17394,6 +17403,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-07 ✅ 学习日 在池第 2 组 [5] · `She supported herself as a tutor back in college.` —— supported herself。连错 1 → 连对 1
 - 2026-10-08 ✅ 付息日 a 段在池第 1 组 [9] · `He started working to support himself when he was just eighteen.` —— support himself。连对 1 → 2 ⇒ **毕业**
 - 2026-10-11 ✅ 学习日 复检第 3 组 [9] · `After quitting her job, she supported herself through freelance writing.` —— supported herself
+- 2026-10-20 ✅ 复检 · 学习日 复检第 4 组 [9] · `He went freelance in his early twenties and supported himself by taking on design work.`
 
 ### 422 · day in, day out（日复一日、天天如此）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
