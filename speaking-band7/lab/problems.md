@@ -1160,6 +1160,97 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ❌ 首犯 · 学习日 ③ 重答 bank:991 S3 · 她标「这个词组学下」· 原话 `As for the company, having highly skilled staff who know the ins and outs of(这个词组学下) their specific processes means they can create a lot more value.`
 - 2026-10-20 ✅ 学习日 在池第 2 组 [2] · `Our team leader has been at the company for a decade, so he knows all the ins and outs of the expense report process.`。连错 1 → 连对 1
 
+### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
+类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**auction** ＝ 拍卖：东西摆出来，大家举牌出价，价高者得：
+`a charity auction`（慈善拍卖）· `sell sth at auction` · `put sth up for auction` · `bid at an auction`（出价）。
+同一格里的邻居（别串）：**charity sale**（义卖：标好价钱直接卖、钱捐出去；社区里常见的 bake sale／rummage sale）· 🎓#410 charity（慈善／慈善机构，管的是"慈善"这个词）· sale（促销，也泛指卖）。
+判据一句话：有人"出价、比谁出得高" ⇒ auction；标好价钱直接卖 ⇒ sale。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；中文"拍卖"映射回 auction，唯一可判。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 3 组 [5]b（🎓#410 题面"社区每年秋天办的慈善义卖"）· 原话
+`the annual autumn charity auction(背下) hosted by the neighborhood`
+她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #507 先例）。题面是"义卖"（标价卖），她落到了 auction（拍卖）⇒ 邻居 charity sale 一起写进正文。
+判重三步：
+　① 目标形式 dedup "auction"／"charity sale" ⇒ 零命中
+　② 中文 dedup "拍卖"／"义卖" ⇒ 零命中；🎓#410 charity 只管"慈善"这个词，不管拍卖还是义卖 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`charity auction`（词不在手边，自己标背下；题面的"义卖"其实更贴 charity sale）　　目标：拍卖 ⇒ auction ／ 义卖 ⇒ charity sale
+找法：先问有没有人举牌竞价 —— 有 ⇒ auction；标好价钱直接卖 ⇒ sale。
+
+**题面**
+"古董拍卖会"（大家举牌出价、价高的人把东西拿走的那种）
+★ 目标形式（教练看，⛔ 不进发题稿）：an antiques auction
+
+- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [5]b（#410 题里）· 她标「背下」· 原话 `the annual autumn charity auction(背下) hosted by the neighborhood`
+
+### 512 · **finish ＋ 东西**（"看完／吃完／读完" ⇒ finish the cartoon：中文的"V完"直接落在 finish 上）
+类型 搭配 ｜ 新建 2026-10-20 ｜ ⭐ 她问怎么说
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+
+**问题是什么**
+中文"V完"（看完／吃完／读完／写完）⇒ **finish ＋ 东西**（或 finish ＋ V-ing）：
+`finish his cartoon`（看完动画片）· `finish your dinner`（吃完饭）· `finish the book`（读完）· `finish watching the episode`。
+⇒ "看""吃""读"往往不用翻出来，宾语已经把它说清楚了。
+同一格里的邻居（别串）：watch sth to the end（一直看到结尾、不中途停）· 🎓#390 get through ＋ 书／一堆活儿（啃完一大堆）· be done with sth（弄完了、不想再碰）。
+判据一句话：只是说"把这个 V 完" ⇒ finish ＋ 东西；强调"看到最后一分钟" ⇒ watch it to the end；"啃完一大堆" ⇒ get through。
+★ 题型判整句：finish 后面挂名词还是 -ing、"看"要不要说出来，靠句子才现形；"看完"又能落到 watch to the end／get through 一串合法说法 ⇒ 整句 ＋ 第一次整块点名（她问怎么说 ⇒ 练）。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 3 组 [6]（🎓#476 题面"我儿子特别倔，说好了九点上床，他非要把动画片看完。"）· 原话
+`… he insists on watching his cartoon to the end.(看完我一直在想有没有个 一个动词词组来说，没想到就查了下，to the end 很简单，但是为啥想不到呢，感觉还是对语法的主动使用不够自然和熟练)`
+她说"看完"想不出来、查到的 to the end ⇒ §2③ 她说不会／问怎么说 ⇒ 建号，判 ❌（§3.2b：说不出、最后查到写对了也照常建号）。
+判重三步：
+　① 目标形式 dedup "finish" ⇒ 🎓#390（get through，啃完一大堆；finish 只是它正文里的邻居）· 🎓#28 #460 #16（正文／历史字样）⇒ 都否；"to the end" ⇒ 零命中
+　② 中文 dedup "看完" ⇒ 命中的都是题面字样（🎓#386 #452 等）；🎓#390 讲的是"啃完一大堆" ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：想找一个"看完"的动词词组，没想到，查到 `watching his cartoon to the end`（对，但不是最省的）　　目标：`he insists on finishing his cartoon`
+找法：中文出现"V完"，先试 finish ＋ 那个东西，"看／吃／读"多半不用翻。
+
+**题面**
+"等我把这本小说看完，就借给你。"（"看完"用 **finish** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Once I finish this novel, I'll lend it to you.
+
+- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [6]（#476 题里）· 她问"看完"怎么说（自己查到 to the end）· 原话 `… he insists on watching his cartoon to the end.`
+
+### 513 · **pajamas**（睡衣；永远带 s：in my pajamas · a pair of pajamas）
+类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**pajamas** ＝ 睡衣（上衣加裤子一套），永远复数：`in my pajamas`（穿着睡衣）· `change into my pajamas` · `a pair of pajamas`（一套）；英式拼 pyjamas。
+★ 自己那套一般说 my pajamas（some pajamas 听着像随便找了一套）。
+同一格里的邻居（别串）：nightgown（睡裙，一件式）· bathrobe（浴袍）· loungewear（家居服）· 🎓#411 change out of ＋ 衣服（换下来）。
+判据一句话：上下两件的睡衣 ⇒ pajamas（带 s、配 my）；一件式睡裙 ⇒ nightgown。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"睡衣"映射回 pajamas（答 sleepwear 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 3 组 [10]（🎓#411 题面"我下班回家第一件事，就是把西装换下来，换上睡衣。"）· 原话
+`The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
+她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 先例）。同句 some pajamas → my pajamas 写进正文。
+判重三步：
+　① 目标形式 dedup "pajamas"／"pyjamas" ⇒ 只命中 🎓#411（正文里 change into my pajamas 的例句，考点是 change out of）⇒ 否
+　② 中文 dedup "睡衣" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 pajamas，但词不在手边（自己标背下）；前面用了 some　　目标：`change out of my suit and into my pajamas`
+找法：说"睡衣"先落 pajamas，s 带上；自己那套就说 my pajamas。
+
+**题面**
+"一套印着小熊的睡衣"（晚上睡觉穿的上衣加裤子）
+★ 目标形式（教练看，⛔ 不进发题稿）：a pair of pajamas with little bears on them
+
+- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
+
 ## 迁移说明（2026-08-18）
 
 ```

@@ -16885,7 +16885,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 406 · lose sight of ＋ 东西（只顾着别的，把真正重要的丢在脑后）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-05 ＋ 10-07）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-05 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **lose sight of sth** ＝ 忙着别的，把本来重要的东西（目标、初心、身边的人）丢在脑后：`lose sight of what really matters` ／ `lose sight of why you started`。
@@ -16915,6 +16915,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-05 ✅ 学习日 在池第 2 组 [4] · `Once work gets busy, many people lose sight of why they started in the first place.` —— lose sight of（整块点名首测）。首测 ⇒ 连对 1；下次点名降回 sight
 - 2026-10-07 ✅ 学习日 在池第 2 组 [9]（点名降到 sight）· `A lot of people lose sight of their health when trying to lose weight.` —— lose／of 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [1] · `A lot of people get so caught up in(这个词组学一下) making money that they lose sight of what actually matters.` —— lose sight of（点名降到 sight，lose／of 自己补上）｜她标学 caught up in ⇒ 另建 #444
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [7] · `Many entrepreneurs lose sight of the original problem they wanted to solve as soon as their business scales up.`
 
 ### 407 · chalk（粉笔）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
@@ -16950,7 +16951,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 
 ### 408 · a round of ＋ 名词（一轮…：several rounds of talks；⛔ turn）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **round** ＝ 一轮（谈判、面试、比赛、投票、一圈酒）：several rounds of talks ／ the second round of interviews ／ a round of drinks。
@@ -16978,10 +16979,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [3] · `I made it through to（这个词组学一下) the second round of interviews, so I've got another one coming up next week.` —— the second round of interviews。连错 1 → 连对 1（她标学 made it through to ⇒ 另建 #415）
 - 2026-10-07 ✅ 学习日 在池第 1 组 [3]（题面"这个月公司已经裁了两轮人了"）· `The company has already gone through two rounds of layoffs this month.` —— two rounds of layoffs。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [3] · `He was knocked out(这个词组学一下) in the first round of the talent show.` —— in the first round of ｜她标学 knocked out ⇒ 另建 #449
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [8] · `We've gone through three rounds of revisions on this proposal, and the client is still not happy with it.`
 
 ### 409 · come to an agreement (on sth)（达成一致）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **come to an agreement** ＝ 双方谈下来、达成一致；谈的事用 on 挂后面：come to an agreement on the price。
@@ -17010,10 +17012,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [4] · `After negotiating with the landlord for a while, we finally came to an agreement on the rent.` —— came to an agreement on the rent。连错 1 → 连对 1（下次点名降回 agreement）
 - 2026-10-07 ✅ 学习日 在池第 1 组 [4]（点名降到 agreement）· `My roommate and I finally came to an agreement on who cleans the place.` —— come to／on 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [4] · `The two companies negotiated for three months and finally reached an agreement on the price.` —— reach an agreement on（判据里写明的同义块）
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [9] · `My friends and I debated for ages over where to travel, but we finally came to an agreement.`
 
 ### 410 · charity（慈善／慈善机构）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **charity** ＝ 慈善；也指一家慈善机构（可数）：a charity ／ charity work（做慈善）／ a charity event（慈善活动）／ give money to charity（捐给慈善）。
@@ -17040,10 +17043,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [5] · `The company's year-end charity gala(这个词学一下).` —— charity。连错 1 → 连对 1（她标学 gala ⇒ 另建 #416）
 - 2026-10-07 ✅ 学习日 在池第 1 组 [5] · `setting aside（这个词组学下) part of my paycheck every month to donate to charity` —— donate to charity。连对 1 → 2 ⇒ **毕业**（她标学 setting aside ⇒ 另建 #424）
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [2]b · `a charity run for stray(学一下) animals` —— a charity run ｜她标学 stray ⇒ 另建 #447
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [5]b · `the annual autumn charity auction hosted by the neighborhood` —— charity ✓（她标 auction 背下 ⇒ 新建 #511）
 
 ### 411 · change out of ＋ 衣服（把…换下来）
 类型 词组 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 整句
 
 **问题是什么**
 **change out of sth** ＝ 把身上这套换下来：change out of my work clothes ／ change out of these wet clothes。
@@ -17072,10 +17076,11 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [6] · `The moment I got home, I immediately changed out of my soaked clothes.` —— changed out of。连错 1 → 连对 1（下次点名降回 change；immediately 与 The moment 叠用进 diff-2）
 - 2026-10-07 ✅ 学习日 在池第 1 组 [6]（点名降到 change）· `After my workout, I changed out of my gym clothes in the locker room.` —— out of 自己补上了。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [5] · `Right after the wedding, I went back to the hotel and changed out of my formal dress and heels.` —— changed out of（点名降到 change）
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [10] · `The first thing I do when I get back from work is change out of my suit and into some pajamas.`（她标 pajamas 背下 ⇒ 新建 #513）
 
 ### 412 · braised（红烧的／焖炖的）
 类型 词汇 ｜ 新建 2026-10-05 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-10 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-07**（连对2 ＝ 10-06 ＋ 10-07）｜ 题型 词组
 
 **问题是什么**
 **braised** ＝ 先煎再加汤汁小火焖到入味的做法：braised pork（红烧肉）／ braised beef（红烧牛肉）。
@@ -17102,6 +17107,7 @@ this 后面放了动词 negotiate ⇒ ❌（词性，不在 §3.4 形态类清�
 - 2026-10-06 ✅ 学习日 在池第 2 组 [7] · `My signature dish is braised beef.` —— braised beef。连错 1 → 连对 1
 - 2026-10-07 ✅ 学习日 在池第 1 组 [7] · `the braised chicken served for lunch at the cafeteria today` —— braised chicken。连对 1 → 2 ⇒ **毕业**
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [2]c · `grandma's braised pork belly.` —— braised
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [5]c · `the braised pork ribs my mom makes every week`
 
 ### 413 · on the house（店家请客、不收钱）
 类型 词组 ｜ 新建 2026-10-06 ｜ ⭐ 她点名要学
@@ -18923,7 +18929,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 469 · east of X ＝ to the east of X（在 X 的东边；⛔ to east of X）
 类型 搭配 ｜ 新建 2026-10-12 ｜ 她问
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 说"在 X 的东边"两种说法都对：**east of the village**（east 直接当方位词，不带 to、不带 the）· **to the east of the village**（要用 to 就得带 the）。
@@ -18953,6 +18959,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-12 📝 新建 · 付息日 a2 段复检第 8 组 [1]（#308 题里）· 她问 · 原话 `… the reservoir(背下) east(to east 对不对) of the village.` —— 她写的 east of 本身对，不判档位
 - 2026-10-13 ✅ 学习日 在池第 3 组 [1] · `The new airport is forty kilometers north of the city.` —— north of the city，没落到 to north of。首测 ⇒ 连对 1
 - 2026-10-16 ✅ 学习日 在池第 2 组 [1] · `That ski resort is roughly a hundred kilometers west of the city.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [1] · `Our hometown is a small village about twenty kilometers east of the county town.`
 
 ### 470 · with its siren blaring（鸣着笛；警笛 siren · 刺耳地响 blare）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
@@ -18990,7 +18997,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 471 · lounge（懒洋洋地躺着／窝着放松：lounge on the couch · lounge by the pool · lounge around）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **lounge** ＝ 舒舒服服、懒洋洋地躺着／靠着，什么正事都不干 —— 后面接地点：`lounge on the couch` · `lounge by the pool` · `lounge in bed`；
@@ -19022,10 +19029,11 @@ veg out（很口语，"瘫着放空"）· 名词 lounge ＝ 休息室（airport 
 - 2026-10-13 ❌ 首犯 · 学习日 在池第 1 组 [9]（#458 题里）· 她标「背一下」· 原话 `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.`
 - 2026-10-14 ✅ 学习日 在池第 2 组 [6] · `On Sunday afternoons, I don't feel like going anywhere—I just want to lounge by the pool and soak up the sun.` —— lounge by the pool。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [2] · `On that rainy day, I spent the whole day lounging on the couch, scrolling through my phone.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [2] · `… I stayed put and spent the whole afternoon lounging on a deck chair on my balcony.`
 
 ### 472 · pay out（机构按约定把一笔钱付出去、赔付：The insurance company paid out 20,000 yuan）
 类型 词组 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **pay out** ＝ 把一笔（通常不小的）钱按约定／规定付出去 —— 保险赔付、奖金、赔偿：
@@ -19056,10 +19064,11 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 - 2026-10-13 ❌ 首犯 · 学习日 在池第 2 组 [7]（#466 题里）· 她标「这个词组学下」· 原话 `The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).`
 - 2026-10-14 ✅ 学习日 在池第 2 组 [7] · `After the car got hit, the insurance company eventually paid out twenty grand to us.` —— paid out ＋ 钱数。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [3] · `After the factory caught fire, the insurance company paid out five million dollars in total.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [3] · `My dad was hospitalized for surgery, and the insurance company eventually paid out over eighty thousand.`
 
 ### 473 · "从楼下（街上）经过" ⇒ past／by my building · under my window（⛔ under my building）
 类型 搭配 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 中文"楼下"有时指**楼外那条街**："一辆车从我家楼下开过去" ⇒ `drove past my building` ／ `went by under my window` ／ `outside my building`。
@@ -19091,6 +19100,7 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 - 2026-10-13 ❌ 首犯 · 学习日 在池第 2 组 [10]（#470 题里）· 原话 `A fire truck passed right under my building in the middle of the night with its siren on.` ⇒ 最小改 passed right by my building
 - 2026-10-14 ✅ 学习日 在池第 2 组 [8] · `A garbage truck drives right past my building every morning at six.` —— drives past my building。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [4] · `Motorbikes roar right past my building every night in the middle of the night, keeping me wide awake.` —— past my building。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [4] · `Every morning, a bunch of elementary school kids walk past my balcony, laughing and chatting.` —— 没落到 under my building（past my balcony 说得通，最贴"楼下"的是 past my building）
 
 ### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
 类型 搭配 ｜ 新建 2026-10-13
@@ -19130,7 +19140,7 @@ diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient 
 
 ### 475 · amateur（业余的：an amateur soccer tournament · an amateur photographer）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 词组
 
 **问题是什么**
 **amateur** ＝ 业余的（不靠这个吃饭）：`amateur athletes` · `an amateur photographer`；也能当名词 `an amateur`（业余爱好者）。
@@ -19158,10 +19168,11 @@ diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient 
 - 2026-10-13 ❌ 首犯 · 学习日 复检第 4 组 [3a]（#433 题里）· 她标「背一下」· 原话 `the semifinals of the city's amateur（背一下） soccer tournament`
 - 2026-10-14 ✅ 学习日 在池第 2 组 [9] · `that amateur soccer team that only gets together on weekends to play` —— amateur。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [5] · `those amateur photographers in the park taking pictures with their cameras on weekends`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [5]a · `an amateur choir started by a few retirees`
 
 ### 476 · stubborn（倔、认死理：脾气倔 ⇒ He's so stubborn；⛔ has a stubborn temper）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **stubborn** ＝ 倔、认死理、劝不动：`My dad is so stubborn.` · `a stubborn kid`。
@@ -19192,6 +19203,7 @@ headstrong（任性、一意孤行）· set in one's ways（老习惯改不了�
 - 2026-10-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#383 题里）· 她标「背一下」· 原话 `My boss has such a stubborn(背一下) temper that it's impossible to reason with him.` ⇒ 更好版 My boss is so stubborn that …
 - 2026-10-14 ✅ 学习日 在池第 2 组 [10] · `My granddad is so stubborn—the doctor told him to quit smoking, but he just refuses to listen.` —— 人当主语 ＋ so stubborn。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [6] · `Our boss is incredibly stubborn—everyone told him the plan wouldn't work, but he just insisted on it.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [6] · `My son is really stubborn; even though we agreed he'd be in bed by nine, he insists on watching his cartoon to the end.`（她问"看完"怎么说 ⇒ 新建 #512）
 
 ### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
 类型 词组 ｜ 新建 2026-10-13
