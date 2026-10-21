@@ -7381,3 +7381,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 15⇄0
 
 **下一场 ＝ 周期 13 · L2**：#506–#510 首测 ＋ 连对1 的 9 条；复检 1 组；② 回看 bank:991；④ 重答 bank:308（P2 · worked in a group）＋ 与旧答对比
+
+## 2026-10-20（周二）· 口语 L2（周期 13 第 2 个学习日）
+
+> 日期：开场美东 10-21 06:32，收尾美东 10-21 09:12（都未过 10-21 中午），按中午分界属 10-20。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 494 ＝ problems.md 23 ＋ graduated.md 471 ｜ 🎓 471（95.3%）｜ 未毕业 23 ｜ 可出题 13 ｜ ⚡ 累计 263 条、掉过 15 ｜ 重答队列 68 / 未重答 43
+
+**五步**
+- ① 在池 2 组 14 题 / 14 条：**✅14 ❌0** ⇒ **毕业 9**（#251 #500–#505 · #490 #499）；#506–#510 连错 1 → 连对 1；第 2 组 [3] `After finishing grad school, his advisor asked …` ⇒ 🎓#215（-ing 短语省主语）**撤销退池 ＋ 回潮**，种子题面改成正向点名 ＋ 主语错位的整句
+- ①b 复检 2 组 20 题 / 22 条：**✅22 ❌0**（在池只排出 2 组 ⇒ 下溢 1 组给复检）
+- ② 回看：bank:991（`lookback --pending` 原样贴）
+- ④ 重答 bank:308（P2 · Describe a time when you worked in a group · 机器人复原魔方）：首答 10 处零件错（every students · a groups · a external · an challenge · restore the cube …）这次 0 处；新冒 I distinctively remember（→ distinctly）；第 4 个 bullet（为什么是团队）首答有、这次没接；自发命中 tweak · get it to solve
+- 新建 7：#511 auction vs charity sale · #512 finish ＋ 东西（看完）· #513 pajamas · #514 gown · #515 a day job（⚠️）· #516 I distinctly remember（真错）· #517 didn't bother to do
+
+**教练犯规**：① #517 元信息行写了题面互斥被 check 拦下（挪进题面节）② 第 1 组 [7] 先写"种子补一行"、核对后改成"不改"（发出前改正）③ rows 文件末尾换行险些多插一行空行（dry-run 发现）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 9⇄1
+
+**下一场 ＝ 周期 13 · L3**：#511–#517 首测 ＋ 回潮 #215 ＋ 连对1 的 #506–#510；复检（今天剩 11 条排最前）；② 回看 bank:308；④ 重答 bank:211（P2 · 喜欢在家种菜种花的人）＋ 与旧答对比

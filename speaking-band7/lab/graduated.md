@@ -7722,56 +7722,6 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-09-29 📝 退池 · ① 同级说法
   `I've worked here for five years.` 完全合法（条目自己写着），完成进行时只是强调方式 ⇒ 中译英里产不出 ❌；历史零 ❌
 
-### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
-类型 结构 ｜ 旧号 B153
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）
-
-**问题是什么**
-**-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
-· 成立：`kids put toys away **after playing** them.`（playing 的人就是主句主语 kids）
-· **不成立**：玩的是孩子、收的是我 ⇒ 只能换成带自己主语的从句（`After kids played toys, I put them away.`）
-同一格里的邻居（别串）：🎓#182 by ＋ -ing（by 后面那个动作同样得是主句主语做的）。
-★ 最容易诱出悬空 -ing 的是中文话题句「X 以后，<另一个人>……」：前半句的人和后半句的主语不是同一个（10-20 就是这么掉的）。
-两种改法：① 写带自己主语的从句（After he finished grad school, his advisor …）② 想保留 -ing，就让做那个动作的人当主句主语（After finishing grad school, he was asked by his advisor …）。
-判据一句话：-ing 那个动作是谁做的？跟主句主语不是同一个人 ⇒ ⛔ 不许省主语。
-
-**怎么发现的**
-旧 B 表迁移（B153，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
-2026-08-13 ✅ ／ 2026-08-15 ✅ ⇒ 连对 3，毕业。
-2026-09-07 复检第 5 组 ✅ 两句分别处理 —— 句 1 用 -ing、句 2 换成带自己主语的 After 从句，正是本条要她做的判断。
-2026-10-20 学习日 在池第 2 组 [3]（#490 题面"他研究生毕业以后，导师问他要不要留在实验室接着干，他就留下来了。"）第一次真掉 · 原话
-`After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.`
-⇒ §3.6 退池条目又掉 ⇒ 撤销退池、判 ❌、回潮（判重：本条就是这条规则，⛔ 不另建）。
-
-**我错在哪**
-她的：2026-10-20 `After finishing grad school, his advisor asked …`（finishing 的是他，主句主语却是 his advisor ⇒ 读成"导师毕业了"）　　正确：`After he finished grad school, his advisor asked …`
-（此前判定全是 ✅；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。）
-找法：要用 -ing 开头之前先问一句 —— 这个动作是主句主语做的吗？不是就老实写从句。
-
-**题面**
-"妈妈下班一回到家，孩子们已经把晚饭做好了。"（"一回到家"用 **after getting home** 说）
-　　★ 陷阱在后半句：中文主语换成了孩子们，-ing 又被点名保留 ⇒ 主句主语必须改成妈妈（After getting home from work, Mom found the kids had already made dinner.）；写成 After getting home …, the kids … ⇒ ❌
-　　★ 2026-10-20 改：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求（§6② 禁），换成正向点名 ＋ 主语错位的整句
-
-- 2026-08-09 ✅
-- 2026-08-13 ✅
-- 2026-08-15 ✅
-- 2026-09-07 📝 题面补「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」：
-  原题面两句都可以整句用 after 从句译出，-ing 一次不出现 ⇒ 本条考点（逻辑主语＝主句主语）
-  结构上测不到。新写法⛔ 不透露是哪一句不能用。
-- 2026-09-07 ✅ 复检 · 第 5 组 · `kids put toys away after playing them.` ／
-  `After kids played toys, I put them away.`
-  —— 句 1 playing 的逻辑主语＝主句主语 kids ⇒ -ing 合法；句 2 玩的是孩子、收的是我 ⇒
-  她没有硬套 -ing、换成带自己主语的 After 从句 ⇒ 正是本条要她做的判断
-  ｜ ⚠️ play toys → play **with** toys（同题两次）⇒ 新建 #322
-  ｜ ⚪ After kids → After **the** kids ⇒ 归 #63（形态类只记录）
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
-- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
-  旧 B 表迁移、原话未存、历史零 ❌；-ing 短语的逻辑主语她每次都判对（09-07 两句分别处理正是这一判断）
-- 2026-10-20 📝 撤销退池 · 学习日 在池第 2 组 [3]（#490 题里）她写 `After finishing grad school, his advisor asked …` —— 09-29 按 ④「历史零 ❌」退池，今天真掉 ⇒ §3.6 删掉状态行的退池
-- 2026-10-20 ❌ 学习日 在池第 2 组 [3]（#490 题里）· `After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— finishing 的是他，主句主语是 his advisor ⇒ 最小改 After he finished grad school, his advisor asked … ⇒ 🎓 回潮
-- 2026-10-20 📝 题面整改（§6②）：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求 ⇒ 换成正向点名 after getting home ＋ 中文主语错位的整句（妈妈下班一回到家，孩子们已经把晚饭做好了）
-
 ### 216 · 东西不会自己 leave（His things ARE all over the floor）
 类型 结构 ｜ 旧号 B154
 状态 连对3 连错0 上次2026-09-20 ｜ **🎓 已毕业 2026-08-17** ｜ 退池 ｜ 题型 整句
@@ -9043,6 +8993,51 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-09-29 📝 题面整改（§6 换场景）
   两句都换新场景（开玩笑／朋友说"骗子"），照旧点名 far —— too／that 的分工留给她
 - 2026-10-09 ✅ 复检 · 学习日 复检第 4 组 [7] · `…is taking it too far.` ／ `The worst in town? Come on, it doesn't go that far.` —— too far ／ that far 分工对；② 的整块掉了归 #70
+
+### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
+类型 搭配 ｜ 旧号 B230
+状态 连对2 连错0 上次2026-10-20 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）｜ **🎓 已毕业 2026-10-20**（连对2 ＝ 10-19 ＋ 10-20；10-17 回潮后第二次毕业）｜ 题型 整句
+
+**问题是什么**
+**cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
+`**it takes** two hours to cook a meal.`（时间 ⇒ take）｜ 钱 ⇒ cost ｜ 人当主语 ⇒ spend。
+同一格里的邻居（别串）：⚠️ **cost 只配钱**这条边界还没固化（08-19 她在自由句里 takes／costs 两个都列了出来，
+首选 takes 是对的 ⇒ 当时不记回潮，再出现一次按回潮处理）。
+判据一句话：先看花的是**钱**还是**时间**、主语是**人**还是 it —— 三条路各走各的。
+
+**怎么发现的**
+旧 B 表迁移（B230，2026-08-18）；最早记录 2026-08-15 ❌，触发原话未存。
+2026-08-16 ✅ ／ 2026-08-17 ✅ ⇒ 毕业。
+2026-09-05 复检第 1 组 ✅ `it takes two hours to cook a meal.`——take ＋ 时间。
+
+**我错在哪**
+她的：2026-08-15 记过一次 ❌（触发原话未存）；08-19 自由句里写过 `it just takes/costs ten minutes`（两个都列，⛔ 不记回潮）。
+找法：说"要花多少"先分一刀 —— 时间用 take、钱用 cost、人当主语用 spend。
+
+**题面**
+"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"（两个"花了我"一个用 **cost** 说，一个用 **take** 说）
+　　★ 两个都点名、由她自己分配：钱 ⇒ cost me three thousand、时间 ⇒ took me a whole weekend；两个方向她都掉过（时间配 cost 的苗头 08-19、钱配 take 10-17 回潮）
+　　★ 2026-10-17 改：旧种子"从我家开车到机场要一个多小时"只测时间那一半
+　　★ 2026-10-19 改：零提示／只点 me 时，她用 set me back（paid 也行）就绕开了 cost ⇒ 改成 cost／take 双点名
+
+- 2026-08-15 ❌
+- 2026-08-16 ✅
+- 2026-08-17 ✅
+- 2026-09-05 ✅ 复检组 · 第 1 组 · `it takes two hours to cook a meal.` —— take ＋ 时间
+- 2026-09-19 📝 题面整改：补（⛔ 不许用 need）· 复检组发题前审核（§6.5 第 7 项）
+  `I need two hours to cook a meal.` 合法，绕开 take ＋ 时间 ⇒ 补排除项；spend 以人做主语在规则内
+- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
+- 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R11（P3 · 自由产出）· `my family spends the whole day cooking`——spend 以人做主语
+- 2026-09-19 ✅ 自发命中 · 付息日 d 段重答 R12（P3 · 自由产出）· `People spend hours in front of screens every day now.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"⛔ need"，改零提示（It takes …／The drive is … 都算对），逼的是时间配 cost 这条她掉过的路；换成开车去机场场景
+- 2026-10-17 ❌ 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S1 · `I'd like to tell you about my 3D printer, which took me about four thousand RMB.` ⇒ 钱配了 take ⇒ 最小改 which cost me about four thousand RMB ⇒ 🎓 回潮
+- 2026-10-17 📝 题面整改：种子改成钱＋时间同句（这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末）—— 今天回潮掉的是钱配 take，旧种子只测时间
+- 2026-10-19 ✅ 学习日 在池第 1 组 [1] · 题面"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"（两个"花了我"都用 me 说）· `This second-hand camera set me back three thousand RMB, and just figuring out how to use it took me another whole weekend.` —— 钱用 set me back（＝ cost me，合法且贴题面）、时间 took me ✓。连错 1 → 连对 1
+- 2026-10-19 📝 题面整改（§3.3 硬顺序③）：她用 set me back 绕开了 cost ⇒ 种子点名改成 cost／take 两个都点、由她自己分配给钱和时间（二选一仍是考点，又不给答案）
+- 2026-10-20 ✅ 学习日 在池第 1 组 [1] · `The materials cost me eighty thousand RMB for this renovation, and overseeing the workers took me two whole months.` —— 钱 cost me、时间 took me，两处自己分配都对。连对 1 → 2 ⇒ 🎓 毕业（10-17 回潮后重新毕业）
+- 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
+  首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
 
 ### 254 · 主语位置的动词必须变成 -ing（Putting things back makes…）
 类型 语法 ｜ 新建 2026-08-19
@@ -19635,6 +19630,38 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 - 2026-10-17 ✅ 付息日 在池第 1 组 [6] · `… and the guy fixed it in no time.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [2] · `This app is really user-friendly; you'll master it in no time.`。连对 1 → 2 ⇒ 🎓 毕业
 
+### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
+类型 词组 ｜ 新建 2026-10-16
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+**stay on** ＝ 本来可以走（毕业了／合同到了／实习完了），却留在原地接着待、接着干：
+`She stayed on for grad school.` · `He stayed on at the company after the internship.` · `I'm staying on for another year.`
+同一格里的邻居（别串）：stay at school（英式 ＝ 还在上学、没辍学）· stay in（待在家里不出门）· stay behind（别人走了你留下，偏一时）。
+判据一句话：说"留下来（在原来那个学校／单位）继续…" ⇒ stay on；地方要点出来 ⇒ stay on at ＋ 地方。
+★ 题型判整句："留下来"能落到 stay／remain 一串合法说法 ⇒ 整句 ＋ 正向点名 stay on。
+
+**怎么发现的**
+2026-10-16 学习日 在池第 2 组 [4]（#486 题面"…最后一个留在学校读研。"）· 原话
+`The four of us in our dorm went our separate ways after graduating: one went to Beijing, another went abroad, the third moved back home, and the last one stayed at school for grad school.`
+diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后面又撞一个 grad school ⇒ stayed on for grad school；stay on 她 lab 档案里没产出过 ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "stay on" ⇒ 零命中；"stayed on" ⇒ 只命中 #486（目标形式字样，考点是 one … another … a third）⇒ 否
+　② 中文 dedup "留在学校" ⇒ 只命中 #486（题面字样）⇒ 否；"留下来" ⇒ 零命中；"grad school" ⇒ 🎓#419 🎓#425（历史行字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`the last one stayed at school for grad school`　　更地道：`the last one stayed on for grad school`
+找法：说"留校／留在公司"先问：是不是"本来该走、却没走、接着待"？是 ⇒ stay on。
+
+**题面**
+"实习结束以后，公司问她愿不愿意留下来，她就留了。"（"留下来"用 **stay on** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：After her internship ended, the company asked if she wanted to stay on, so she did.
+
+- 2026-10-16 新建 · 学习日 在池第 2 组 [4]（#486 题里）· diff-2 ⚠️ · 原话 `… and the last one stayed at school for grad school.` ⇒ 更好版 stayed on for grad school
+- 2026-10-17 ✅ 付息日 在池第 2 组 [9] · `… the company asked her if she wanted to stay on, and she said yes.`。首测 ⇒ 连对 1
+- 2026-10-20 ✅ 学习日 在池第 2 组 [3] · `… his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— stay on ✓（同句 -ing 主语悬空归 🎓#215；后半句重复 stay on 只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
+
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
 状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
@@ -19895,3 +19922,225 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S7 · 她标「背一下」· 原话 `… and his way of doing that is by becoming a vigilante(背一下), striking fear into the hearts of criminals.`
 - 2026-10-17 ✅ 付息日 在池第 2 组 [4] · `a masked vigilante in the movie who takes justice into his own hands …`（in the movie → in the movies 只进 diff-2）。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 2 组 [1] · `a comic book vigilante who works by day and fights crime by night`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
+类型 句型 ｜ 新建 2026-10-16
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+前面说完一个观点，要举一个具体的、真实的例子 ⇒ **Take X —**／**Take X, for example, …** 起手，后面接完整句：
+`Take the Joker in the second movie—his performance was …` · `Take my nephew—he has tutoring until nine every night.`
+同一格里的邻居（别串）：🎓#30 Say you …（假设一个情况举例："比方说你…"）· for example／for instance（中性）·
+Even X …（"就连 X 都…"，后面直接接 X 的谓语：Even the Joker was more memorable than Batman.）。
+判据一句话：举一个真实存在的人／东西当例子 ⇒ Take X —；假设一个情况 ⇒ Say you …。
+★ 题型判整句：Take X 后面要接完整句才成立 ⇒ 整句 ＋ 正向点名 take。
+
+**怎么发现的**
+2026-10-16 学习日 ③ 重答 bank:1011 S10 · 原话
+`Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.`
+diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his performance，像中文"就连小丑，他的表演…"，前半句没搭上，和后面 even more 也撞了；这里是在举例 ⇒ Take the Joker —；Take X 她 lab 档案里没产出过 ⇒ §3.2b 能学的句型 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "Take my"／"Take X" ⇒ 🎓#189（take sb out）· 🎓#87（consider sth）只是字串 ⇒ 否；"for example" ⇒ 🎓#30 Say you …（假设举例，不是拿真实的人举例）⇒ 否，两条，题面互斥
+　② "even" 相关 ⇒ 🎓#165（even though）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`Even the Joker in the second movie—his performance was …`　　更地道：`Take the Joker in the second movie—his performance was …`
+找法：说"就拿…来说"先落 Take X，破折号后另起完整句；说"就连 X 都…"才用 Even X ＋ 谓语。
+
+**题面**
+"现在的孩子压力太大了。就拿我外甥来说，他每天补课补到晚上九点。"（"就拿…来说"用 **take** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Kids these days are under way too much pressure. Take my nephew—he has tutoring until nine every night.
+★ 互斥：与 🎓#30 同组时，#30 题面 ⛔ 用真实的人举例（只出假设情况）。
+
+- 2026-10-16 新建 · 学习日 ③ 重答 bank:1011 S10 · diff-2 ⚠️ · 原话 `Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.` ⇒ 更好版 Take the Joker in the second movie—
+- 2026-10-17 ✅ 付息日 在池第 2 组 [10] · `Take my nephew, for instance—he has cram school every single night until nine.`。首测 ⇒ 连对 1（同句 cram school 她标要学 ⇒ 新建 #502）
+- 2026-10-20 ✅ 学习日 在池第 2 组 [4] · `Young people barely cook nowadays. Take my cousin, for example—she gets food delivery over twenty days a month.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
+类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+
+**问题是什么**
+**a down payment (on sth)** ＝ 首付，买房／买车时先一次付掉的那一部分，剩下的再贷款或分期：
+`save up for a down payment` · `put down a down payment on a flat` · `cover the down payment`。
+同一格里的邻居（别串）：deposit（英式也用来说买房首付 a deposit on a house；也是押金、定金）· mortgage（房贷，剩下借的那部分）· installment（分期付的每一期）。
+判据一句话：先付的那一大笔、后面还要接着还 ⇒ down payment（英式也可 deposit）。
+★ 题型判词组：一个固定名词块，缺口只是调不调得出来；中文"首付"能映射回 down payment。答 deposit 合法且贴题 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 1 组 [3]（#482 题里）· 原话
+`What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
+她自己标「首付这个词需要学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 先例）。
+判重三步：
+　① 目标形式 dedup "down payment" ⇒ 零命中；邻居 dedup "deposit"／"mortgage" ⇒ 零命中
+　② 中文 dedup "首付"／"按揭" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「需要学下」（词不在手边）　　目标：`cover a down payment`
+找法：说"首付"先落 down payment；说"房贷"是 mortgage，别串。
+
+**题面**
+"买车时先交的那笔首付"（先付一大笔，剩下的再分期还的那种）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 1 组 [3]（#482 题里）· 她标「首付这个词需要学下」· 原话 `What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [2] · `a down payment on a car`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [2] · `the down payment on the new house`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
+类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+**drop off sth ／ drop sth off** ＝ 自己（多半是顺路）把东西或人带到某处、放下就走：
+`drop off the kids at school` · `drop the keys off at my mom's` · `drop off a package at the front desk`。代词放中间：`drop it off`（⛔ drop off it）。
+同一格里的邻居（别串）：send ＝ 让邮局／快递／别人送过去，自己不到场（send a parcel · send her flowers）· bring ＝ 带过来（朝说话人这边）· deliver ＝ 送货（多是职业行为）。
+判据一句话：自己亲自跑一趟、放下就走 ⇒ drop off；东西过去了、人没去 ⇒ send。
+★ 题型判整句：要靠句子才看得出"人去没去"、代词摆在哪儿。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 2 组 [7]（🎓#478 题里）· 原话
+`Every day after work, he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital—that's just his way of showing how much he cares.`
+她问「和 send 的区别学下」⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "drop off" ⇒ 零命中；邻居 dedup "send" ⇒ 🎓#263（双宾语语序：人在前东西在后）· 🎓#319（present sth to sb）⇒ 都是介词／语序框架规则，不是"亲自去 vs 寄过去"⇒ 否
+　② 中文 dedup "送" ⇒ 命中的全是题面里的"送"字样（送礼、送货），没有一条讲"亲自送 vs 寄"⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 drop off，但不确定和 send 的分界　　目标：`drop off soup for his grandma`（他自己去）
+找法：中文「送过去」先问 —— 我自己去吗？去 ⇒ drop off；不去 ⇒ send。
+
+**题面**
+"我下班顺路把备用钥匙放到我妈那儿就走了。"（"顺路放下"用 **drop off** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [7]（#478 题里）· 她问「和 send 的区别学下」· 原话 `… he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital …`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [3] · `On my way home from work, I dropped off the spare key at my mom's and took off.`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [3] · `On my way to work, I dropped off a box of old toys at the local donation center and took off.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 502 · **cram school**（补习班：为了考试突击补课的校外班）
+类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+
+**问题是什么**
+**cram school** ＝ 为了升学考试、放学后／周末去的补习班（亚洲语境最常用）：
+`go to cram school` · `have cram school until nine` · `spend weekends at cram school`。动词 **cram** ＝ 考前临时突击：`cram for an exam`。
+同一格里的邻居（别串）：tutoring ／ a tutor（一对一或小班辅导，中性）· extra classes（加课）· after-school classes（课后班，不一定是补习）。
+判据一句话：为了考试、校外、密集填鸭 ⇒ cram school；一对一请老师 ⇒ tutoring。
+★ 题型判词组：一个固定名词块，缺口只是调不调得出来；中文"为了考试突击的补习班"能映射回 cram school。
+
+**怎么发现的**
+2026-10-17 付息日 a 在池第 2 组 [10]（#499 题里）· 原话
+`Kids are under so much pressure these days. Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "cram school" ⇒ 零命中；"cram" ⇒ 只命中 🎓#403 正文字样（挤上车）⇒ 否
+　② 中文 dedup "补课"／"tutoring" ⇒ 只命中本条触发题 #499 的题面 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「学下」（词组不在手边）　　目标：`he has cram school every night until nine`
+找法：说"补习班／补课班"先落 cram school；说"请家教"是 a private tutor。
+
+**题面**
+"（为了中考突击的那种）周末补习班"（放学后、周末去的校外补课班）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [10]（#499 题里）· 她标「这个词组学下」· 原话 `… Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [4] · `weekend cram school for the high school entrance exams`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [4] · `the night cram school during my final year of high school`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
+类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+**over ＋ 名词** ＝ 为了（某件事）而争、而气、而折腾，常带"就为了这么点事"的口气：
+`argue／fight over money` · `get upset over nothing` · `make a fuss over a small mistake` · `rewrite the whole thing over a missing comma`。
+同一格里的邻居（别串）：even if ＋ 整句（就算…也…）· because of ＋ 名词（中性的原因）· about（argue about 也行，over 更口语、更带"就为了这个"）。
+判据一句话：后面只是一个名词、说的是"为了这点事就…"⇒ over；后面是一整句假设 ⇒ even if。
+★ 题型判整句：over 挂在哪个动作后面（argue／get upset／make sb redo）要靠句子现形。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [1]（🎓#404 题里）· 原话
+`My boss is overly strict about details—he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
+她自己标「这个 over 的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "argue over"／"fight over"／"over a" ⇒ 只命中 🎓#368（land a job，正文字样）⇒ 否
+　② 中文 dedup "小事" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 over，但不确定这个用法（本来想写 even if）　　目标：`make me rewrite a whole document over a missing comma`
+找法：中文「为了／就因为（一件小事）」先试 over ＋ 名词；要说"就算…"才用 even if ＋ 整句。
+
+**题面**
+"他俩为了谁洗碗吵了一晚上。"（"为了"用 **over** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（#404 题里）· 她标「这个 over 的用法学下」· 原话 `… he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [5] · `They spent the whole night arguing over who was gonna do the dishes.`。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [5] · `The couple next door spent weeks arguing over a parking spot.`。连对 1 → 2 ⇒ 🎓 毕业
+
+### 504 · **take up ＋ 时间／空间**（占掉）vs **It takes ＋ 时间**（需要多久）
+类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+**It takes (sb) ＋ 时间 ＋ to do** ＝ 做这件事需要多久：`It took us two hours to get it in.`
+**take up ＋ 时间／空间** ＝ 占掉一块（偏"挤占"）：`It takes up a lot of my time.` · `The sofa takes up too much space.`
+同一格里的邻居（别串）：take up ＋ 爱好 ＝ 开始学（took up yoga，是"开始"那一下，不配一段时长）· spend ＋ 时间 ＋ doing（人当主语）·
+🎓#251 cost ＋ 钱／take ＋ 时间／spend（管的是"钱还是时间"那一刀；本条管 take 还是 take up —— It takes ＋ 时间那一半两条共用，出题别同组撞）。
+判据一句话：说"需要多久"⇒ take；说"占地方／占时间"⇒ take up。
+★ 题型判整句：take 与 take up 的分工要靠句子才看得出（主语是事、宾语是时间还是空间）。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [3]（🎓#176 题里）· 原话
+`This method of learning words works wonders for me, even though it takes up (take up和 take 的区别) a lot of time.`
+她问「take up 和 take 的区别」⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #501 先例）。
+判重三步：
+　① 目标形式 dedup "take up" ⇒ 只命中 🎓#206（书面词降级，正文字样）⇒ 否
+　② 中文 dedup "占地方"／"占时间" ⇒ 未命中可比条目（以英文形式为准）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 takes up，但分不清和 take 的区别　　目标：`it takes up a lot of time`（占掉）／ `it takes two hours`（需要）
+找法：中文「占（地方／时间）」⇒ take up；「花了／要（多久）」⇒ It takes。
+
+**题面**
+"这个大沙发太占地方了，光搬进门就花了我们两个小时。"（"占地方"用 **take up** 说，"花了…小时"用 **take** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [3]（#176 题里）· 她问「take up 和 take 的区别」· 原话 `… even though it takes up (take up和 take 的区别) a lot of time.`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [6] · `This big couch takes up way too much room—just moving it inside took us two hours.` —— take up 占地方／took us 需要多久，分工都对。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [6] · `This new bookshelf takes up way too much room, and putting it together takes an entire afternoon.` —— take up 占地方／takes 需要多久，分工都对。连对 1 → 2 ⇒ 🎓 毕业
+
+### 505 · **in a bit**（一会儿、马上）vs **in a while**（过一阵子／好久没）
+类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+
+**问题是什么**
+**in a bit** ＝ 一会儿、马上（几分钟内，口语）：`I'll call you back in a bit.` · `I'll be there in a bit.`
+**in a while** ＝ 过一阵子（时间更长、更含糊）；否定句里 ＝ 好久没：`I haven't seen him in a while.`
+同一格里的邻居（别串）：in a minute／in a sec（同 in a bit，更短）· for a while（持续了一阵子，说时长）· after a while（过了一会儿，讲过去的事）·
+#489 in no time（没一会儿就搞定了 —— 强调快得意外、多挂在已完成的动作后；in a bit 是"过一会儿再做"，说的是将来）。
+判据一句话：马上就会发生 ⇒ in a bit；隔了挺久、或"好久没"⇒ in a while。
+★ 题型判整句：两个块的分工要靠句子里的时间关系（将来马上 vs 好久没）才现形。
+
+**怎么发现的**
+2026-10-17 付息日 a2 复检第 4 组 [8]（🎓#67 题里）· 原话
+`I've finished washing all the winter clothes, so I'm going to put them away in a bit(in a bit / in a while 学下).`
+她自己标「in a bit / in a while 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #471 #498 #500 先例）。
+判重三步：
+　① 目标形式 dedup "in a bit"／"in a while" ⇒ 零命中
+　② 中文 dedup "一会儿"／"好久没" ⇒ 未作判据（以英文形式为准）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 in a bit，但不确定和 in a while 的分界　　目标：`put them away in a bit`
+找法：中文「一会儿就」⇒ in a bit；「好久没」⇒ haven't … in a while。
+
+**题面**
+"我一会儿就到；说起来，我们好久没见了。"（"一会儿"用 **in a bit** 说，"好久没"用 **in a while** 说）
+
+- 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [8]（#67 题里）· 她标「in a bit / in a while 学下」· 原话 `… so I'm going to put them away in a bit(in a bit / in a while 学下).`
+- 2026-10-19 ✅ 学习日 在池第 2 组 [7] · `I'll be there in a bit—speaking of which, we haven't seen each other in a while.` —— in a bit 马上／in a while 好久没，分工都对。连错 1 → 连对 1
+- 2026-10-20 ✅ 学习日 在池第 1 组 [7] · `I'll be there in a bit right after this meeting. It's been a while since our family sat down for a meal together.` —— in a bit 马上 ✓；"好久没"走了 It's been a while since（合法且贴题面，§3.3 ⇒ ✅；10-19 已用对 haven't … in a while）。连对 1 → 2 ⇒ 🎓 毕业
