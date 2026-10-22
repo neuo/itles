@@ -753,170 +753,38 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 506 · **call it quits**（决定到此为止、不干了：结束一段关系／一份工作／一件正在做的事）
-类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
+### 436 · downstairs from ＋ 地方（在…楼下）
+类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）
 
 **问题是什么**
-**call it quits** ＝ 决定到此为止、不干了（口气是"拍板结束"）：
-`They called it quits after five years.`（两人分了）· `After three years of losing money, the owner decided to call it quits.`（关门不干了）
-★ quits 带 s、固定不变；主语是做决定的人（两人分手 ⇒ they called it quits）。
-同一格里的邻居（别串）：break up (with sb)（分手，只管感情）· quit ＋ 工作（辞职）· call it a day（今天先干到这儿、收工）· 🎓#238 move on（分手之后放下，说的是之后）。
-判据一句话：想说"不干了／到此为止／分了"、口气是"决定结束" ⇒ call it quits；只是"今天先收工" ⇒ call it a day。
-★ 题型判整句："不干了／结束"能落到 quit／stop／break up／give up 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 第一次整块点名（她说要学 ⇒ 练）。
+**downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
+反过来：upstairs from ＋ 某处（在…楼上）；只说"楼下"、不带参照 ⇒ downstairs（副词：go downstairs ／ the neighbors downstairs）。
+同一格里的邻居（别串）：below（正下方，偏书面）· on the ground floor（在一楼）。
+判据一句话：要说"在 X 的楼下" ⇒ downstairs from X；只说"在楼下" ⇒ downstairs。
+★ 题型判整句：考点是 from 挂参照物，孤立翻"楼下"永远落 downstairs ⇒ 整句 ＋ 正向点名。
 
 **怎么发现的**
-2026-10-19 学习日 在池第 1 组 [7]（#494 题面"他知道这段感情没希望了，可就是狠不下心跟她提分手。"）· 原话
-`He knew the relationship was a dead end, but he still couldn't bring himself to call it quits（这个短语词组学下).`
-她自己标「这个短语词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #503 先例）。
+2026-10-08 付息日 a 段在池第 2 组 [7]（#428 题面"我们公司楼下那家面馆上过一档美食节目。"）· 原话
+`The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+她写对了 downstairs from，但自己标「这个 downstairs from 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
 判重三步：
-　① 目标形式 dedup "call it quits"／"quits"／"break up"／"call it a day" ⇒ 全部零命中
-　② 中文 dedup "分手" ⇒ 🎓#146（know ≠ 得知 find out，只是题面字样）· 🎓#238（move on，说的是分手之后放下）⇒ 两条都否；"不干了" ⇒ 零命中
+　① 目标形式 dedup "downstairs" ⇒ 零命中；dedup "upstairs" ⇒ 只命中 🎓#371（历史行字串，考点是 bring … over）⇒ 否
+　② 中文 dedup "楼下" ⇒ 零命中
 　③ 保留新建（⛔ 建号当天不测）
 
 **我错在哪**
-她的：用对了 call it quits，但块不在手边（自己标学下）　　目标：`he couldn't bring himself to call it quits`
-找法：想说"到此为止／不干了／分了"先落 call it quits（quits 带 s）；只是"今天先到这儿"换 call it a day。
+她的：自己标「这个 downstairs from 学下」（块不在手边）　　目标：`downstairs from our office`
+找法：说"某某楼下的那家店／那户人家"，先落 downstairs from。
 
 **题面**
-"这家小饭馆开了三年一直亏本，老板终于决定关门不干了。"（"不干了"用 **call it quits** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：The little restaurant lost money for three years, and the owner finally decided to call it quits.
+"我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
 
-- 2026-10-19 ❌ 首犯 · 学习日 在池第 1 组 [7]（#494 题里）· 她标「这个短语词组学下」· 原话 `He knew the relationship was a dead end, but he still couldn't bring himself to call it quits（这个短语词组学下).`
-- 2026-10-20 ✅ 学习日 在池第 1 组 [8] · `This small restaurant was losing money for three years, so the owner finally decided to call it quits.` —— call it quits ✓（was losing → had been losing 只进 diff-2）。连错 1 → 连对 1
-- 2026-10-21 ✅ 学习日 在池第 1 组 [2] · `They were together for seven years before they finally decided to call it quits.`。连对 1 → 2 ⇒ 🎓 毕业
-
-### 507 · **rummage through ＋ 地方**（扒拉着乱翻、翻找；要找的东西用 for）
-类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
-
-**问题是什么**
-**rummage through ＋ 地方** ＝ 在一堆东西里扒拉着找、乱翻：
-`raccoons rummaging through the trash` · `She rummaged through her bag for her keys.` · `rummage around in the drawer`
-★ 要找的东西用 for：rummage through X for Y。
-同一格里的邻居（别串）：dig through（翻、刨，口语同义）· search（搜，中性、偏有目的）· go through（一样一样过一遍：go through his emails）· look for（找，不带"翻"这个动作）。
-判据一句话：想说"扒拉着翻找／乱翻" ⇒ rummage through ＋ 地方（＋ for ＋ 要找的东西）。
-★ 题型判整句："翻"能落到 search／dig through／go through 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 第一次整块点名（她说要背 ⇒ 练）。
-
-**怎么发现的**
-2026-10-19 学习日 在池第 3 组 [1]（#487 题面"一群半夜在垃圾桶里翻吃的的浣熊"）· 原话
-`a pack of raccoons rummaging（这个词背下) through trash cans for food in the middle of the night`
-她自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #506 先例）。
-判重三步：
-　① 目标形式 dedup "rummag"／"dig through" ⇒ 零命中；"go through" ⇒ 🎓#415（make it through to，晋级）只是字串 ⇒ 否
-　② 中文 dedup "翻找"／"翻东西"／"翻吃" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 rummaging through … for food，但词不在手边（自己标背下）　　目标：`rummaging through trash cans for food`
-找法：中文"翻（包／抽屉／垃圾桶）"先落 rummage through，再看要不要挂 for ＋ 要找的东西。
-
-**题面**
-"我在包里翻了半天才找到钥匙。"（"翻了半天"用 **rummage through** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I rummaged through my bag for ages before I found my keys.
-
-- 2026-10-19 ❌ 首犯 · 学习日 在池第 3 组 [1]（#487 题里）· 她标「这个词背下」· 原话 `a pack of raccoons rummaging（这个词背下) through trash cans for food in the middle of the night`
-- 2026-10-20 ✅ 学习日 在池第 1 组 [9] · `I had to rummage through my bag to find my keys.` —— rummage through ✓（"半天"没说，补 for ages 只进 diff-2）。连错 1 → 连对 1
-- 2026-10-21 ✅ 学习日 在池第 1 组 [3] · `I rummaged through every single drawer, but I couldn't spot the receipt anywhere.`。连对 1 → 2 ⇒ 🎓 毕业
-
-### 508 · X is **the thing sb looks forward to the most**（最期待的就是 X；⛔ what they expect most is）
-类型 句型 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
-
-**问题是什么**
-「最期待的就是 X」⇒ **X is the thing sb looks forward to the most**（或 What sb looks forward to the most is X）：
-`Summer break is the thing they look forward to the most.` · `Her birthday is what she looks forward to the most all year.`
-★ 期待（心里盼着一件好事）⇒ look forward to；"最" ⇒ the most，放在 look forward to 后面。
-同一格里的邻居（别串）：expect（预计、料到会发生：I expect it to rain —— 不是"盼"）· can't wait for（等不及，更口语）· 🎓#331 look straight ahead（往前看，说的是视线方向）。
-判据一句话：盼着一件好事 ⇒ look forward to；料到会发生 ⇒ expect；"最盼的" ⇒ … look forward to the most。
-★ 题型判整句："最"挂在哪儿、期待落到 look forward to 还是 expect，都要靠句子才现形 ⇒ 整句 ＋ 第一次整块点名（她说要学 ⇒ 练）。
-
-**怎么发现的**
-2026-10-19 学习日 复检第 4 组 [3]（🎓#347 题面"对很多小学生来说，他们最期待的就是放暑假。"）· 原话
-`For many elementary school kids, summer break is the thing they look forward to the most(这里的 the most 可以学下，我本来想用 what they expect most is).`
-她自己标「这里的 the most 可以学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #506 先例）；她原本想用的 what they expect most is 把"期待"落到了 expect。
-判重三步：
-　① 目标形式 dedup "look forward" ⇒ 🎓#331（look straight ahead vs look forward to，考的是视线方向）· 🎓#103（不定式后置介词，正文字样）⇒ 都否；"the most" ⇒ 🎓#176 #79 #159 #347 #364 #414 全是字串 ⇒ 否
-　② 中文 dedup "期待" ⇒ 🎓#331 · 🎓#135（there is 吃掉"人们"，题面字样）⇒ 都否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 the thing they look forward to the most，但原本想说 what they expect most is（期待 → expect）　　目标：`summer break is the thing they look forward to the most`
-找法：中文"期待"先问是"盼着"还是"预计"——盼着 ⇒ look forward to；"最"挂在后面说 the most。
-
-**题面**
-"我女儿一年到头最期待的就是过生日。"（"最期待的"用 **look forward to … the most** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Her birthday is the thing my daughter looks forward to the most all year.
-
-- 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [3]（#347 题里）· 她标「这里的 the most 可以学下」· 原话 `For many elementary school kids, summer break is the thing they look forward to the most(这里的 the most 可以学下，我本来想用 what they expect most is).`
-- 2026-10-20 ✅ 学习日 在池第 1 组 [10] · `The thing my daughter looks forward to the most all year is her birthday.`。连错 1 → 连对 1
-- 2026-10-21 ✅ 学习日 在池第 1 组 [4] · `The thing I look forward to the most every week is playing badminton with my friends over the weekend.`。连对 1 → 2 ⇒ 🎓 毕业
-
-### 509 · **set off**（出发、动身上路：set off on a trip · set off for ＋ 地点）
-类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
-
-**问题是什么**
-**set off** ＝ 出发、动身上路的那一下：
-`set off on a trip` · `We set off for the airport at six.` · `set off early to beat the traffic`
-★ 出发去旅行 ⇒ set off on ＋ a trip／journey；出发去某地 ⇒ set off for ＋ 地点。
-同一格里的邻居（别串）：leave（离开，中性）· head out（出门，口语）· take off（飞机起飞；人溜走）· 🎓#86 go on a trip（去旅行这件事，不是出发那一下）。
-判据一句话：说"出发、动身"那一下 ⇒ set off；去哪儿 ⇒ for ＋ 地点；出发去做一趟 ⇒ on ＋ a trip。
-★ 题型判整句："出发"能落到 leave／head out／go 一串合法说法，词组题又不许给英文提示；后面挂 for 还是 on 也要靠句子现形 ⇒ 整句 ＋ 第一次整块点名。
-
-**怎么发现的**
-2026-10-19 学习日 复检第 4 组 [8]（🎓#463 题面"出发旅行之前，我们一家人坐下来把路线一站一站商量了一遍。"）· 原话
-`Before setting off on(这个短语学一下) the trip, our family sat down and talked through the route stop by stop.`
-她自己标「这个短语学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #506 先例）。
-判重三步：
-　① 目标形式 dedup "set off"／"setting off"／"set out"／"head off" ⇒ 全部零命中
-　② 中文 dedup "出发" ⇒ 🎓#344（drive over）· 🎓#406（lose sight of）· 🎓#474（getting around）只是题面字样 ⇒ 都否
-　③ 与 🎓#86 分工：#86 考 go ON a trip 的介词，本条考"出发"这个动词块 ⇒ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 setting off on the trip，但块不在手边（自己标学一下）　　目标：`Before setting off on the trip, …`
-找法：中文"出发"先落 set off，再看后面挂的是地点（for）还是一趟旅行（on）。
-
-**题面**
-"我们天还没亮就出发去机场了。"（"出发"用 **set off** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：We set off for the airport before it was even light out.
-
-- 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [8]（#463 题里）· 她标「这个短语学一下」· 原话 `Before setting off on(这个短语学一下) the trip, our family sat down and talked through the route stop by stop.`
-- 2026-10-20 ✅ 学习日 在池第 2 组 [1] · `We set off for the airport before dawn.`。连错 1 → 连对 1
-- 2026-10-21 ✅ 学习日 在池第 1 组 [5] · `My family set off for the mountains early in the morning to go camping.`。连对 1 → 2 ⇒ 🎓 毕业
-
-### 510 · **know the ins and outs of sth**（一件事的里里外外、各种细节门道都清楚）
-类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
-
-**问题是什么**
-**the ins and outs of sth** ＝ 一件事的全部细节、里面的门道：
-`know the ins and outs of the business` · `learn the ins and outs of the job` · `She knows the ins and outs of the tax system.`
-★ 常跟 know／learn／explain 搭；ins 和 outs 都带 s，前面固定 the。
-同一格里的邻居（别串）：know sth inside out（同义，更口语：She knows the system inside out）· 🎓#279 get a feel for（慢慢摸出手感，说的是刚上手）· the details（细节，中性）。
-判据一句话：想说"门儿清、里里外外都懂" ⇒ know the ins and outs of ＋ 事；刚开始摸到门道 ⇒ get a feel for。
-★ 题型判整句："门儿清"能落到 know … really well／inside out 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 第一次整块点名。
-
-**怎么发现的**
-2026-10-19 学习日 ③ 重答 bank:991（R24 · P3）S3 · 原话
-`As for the company, having highly skilled staff who know the ins and outs of(这个词组学下) their specific processes means they can create a lot more value.`
-她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #506 先例）。
-判重三步：
-　① 目标形式 dedup "ins and outs"／"inside out" ⇒ 零命中
-　② 中文 dedup "来龙去脉" ⇒ 零命中；"门道" ⇒ 🎓#279（get a feel for，慢慢摸出门道 ＝ 刚上手）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 know the ins and outs of，但块不在手边（自己标学下）　　目标：`staff who know the ins and outs of their specific processes`
-找法：中文"门儿清／来龙去脉都清楚"先落 the ins and outs of，the 和两个 s 一起带上。
-
-**题面**
-"我们组长在这家公司干了十年，报销流程的门道他都门儿清。"（"门道都门儿清"用 **the ins and outs of** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Our team lead has been at the company for ten years — he knows the ins and outs of the reimbursement process.
-
-- 2026-10-19 ❌ 首犯 · 学习日 ③ 重答 bank:991 S3 · 她标「这个词组学下」· 原话 `As for the company, having highly skilled staff who know the ins and outs of(这个词组学下) their specific processes means they can create a lot more value.`
-- 2026-10-20 ✅ 学习日 在池第 2 组 [2] · `Our team leader has been at the company for a decade, so he knows all the ins and outs of the expense report process.`。连错 1 → 连对 1
-- 2026-10-21 ✅ 学习日 在池第 1 组 [6] · `My cousin has been a real estate agent for years, so she knows the ins and outs of buying property.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [4] · `A new convenience store just opened downstairs from my place, which makes grabbing stuff way easier.` —— downstairs from my place。连错 1 → 连对 1
+- 2026-10-10 ✅ 学习日 在池第 1 组 [8] · `There's a coffee shop downstairs from our company, with a huge line every morning.` —— downstairs from ＋ 地方。连对 1 → 2 ⇒ **毕业** ｜ ⚠️ our company → our office ⇒ 另建 #443
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [5] · `The elderly couple downstairs from our place gets up at five every morning to do Tai Chi.` —— downstairs from our place
+- 2026-10-21 ❌ 学习日 复检第 3 组 [1]（#474 题里）· `There's a subway entrance right downstairs their building, …` —— downstairs 后面挂参照物漏了 from ⇒ 最小改 right downstairs from their building（更好版 right outside their building，整栋楼的楼下 ＝ 楼门口外）⇒ 🎓 回潮
 
 ### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
@@ -1171,6 +1039,94 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：The snow went on for two days, and we spent the whole weekend stuck at home.
 
 - 2026-10-21 ❌ 首犯 · 学习日 在池第 2 组 [1]（#516 题里）· 她标「这种语法结构需要学下」· 原话 `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
+
+### 519 · **run errands**（出门办事、跑腿：run (some) errands · run an errand for sb）
+类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**run errands** ＝ 出门办些零碎的事（取快递、去银行、买东西、交费）：`I have to run some errands this afternoon.` · `Running errands is easy from here.`
+给别人跑腿 ⇒ `run an errand for sb`（run an errand for my mom）。动词固定用 run，泛说时 errands 带 s。
+同一格里的邻居（别串）：do the shopping（专指买东西）· take care of a few things（处理几件事，更泛）· get things done（把事办完）。
+判据一句话：说"出门办点事／跑腿"、一堆零碎的外出小事 ⇒ run errands。
+★ 题型判整句："出去办点事"能落到 take care of a few things／do some stuff 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 errands。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [1]（🎓#474 题面"我爸妈退休后搬到了市中心，楼下就是地铁口，出门办事特别方便。"）· 原话
+`My parents moved downtown after they retired. There's a subway entrance right downstairs their building, so running errands(这个学下) is super convenient.`
+她用对了、自己标「这个学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。同句 downstairs their building 归 🎓#436 回潮。
+判重三步：
+　① 目标形式 dedup "errand" ⇒ 零命中
+　② 中文 dedup "办事"／"跑腿" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `running errands`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"出去办点事／跑腿"先落 run errands（run ＋ 带 s 的 errands）。
+
+**题面**
+"我下午得出去办点事，你帮我看一下孩子。"（"出去办点事"用 **errands** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I need to go out and run some errands this afternoon — could you keep an eye on the kids?
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [1]（#474 题里）· 她标「这个学下」· 原话 `… so running errands(这个学下) is super convenient.`
+
+### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**outpatient** ＝ 门诊（看完病当天回家、不住院）：`the outpatient department` · `an outpatient clinic` · `outpatient surgery`（门诊小手术）。
+同一格里的邻居（别串）：inpatient（住院病人／住院部）· the ER／emergency room（急诊）· ward（病房）。
+判据一句话：看病不住院 ⇒ outpatient；住院 ⇒ inpatient；急诊 ⇒ the ER。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"门诊部（不住院、当天回家）"映射回 outpatient department，唯一可判。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [7]（🎓#483 题面"这家医院的门诊节假日也有医生值班。"）· 原话
+`The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
+她用对了、自己标「这个背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "outpatient"／"inpatient" ⇒ 零命中
+　② 中文 dedup "门诊" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `The outpatient clinic`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"门诊（部）"先落 outpatient；住院那边是 inpatient。
+
+**题面**
+"儿童医院的门诊部"（看完病当天就能回家的那块）
+★ 目标形式（教练看，⛔ 不进发题稿）：the outpatient department at the children's hospital
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [7]（#483 题里）· 她标「这个背下」· 原话 `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
+
+### 521 · **sanitation worker**（环卫工人）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**sanitation worker** ＝ 环卫工人（扫马路、清运垃圾的那些人）：`the sanitation workers who sweep the streets before dawn`。
+同一格里的邻居（别串）：street sweeper／street cleaner（专指扫街的）· garbage collector（收垃圾的）· janitor（楼里的保洁）。
+判据一句话：城市环卫工人统称 ⇒ sanitation worker；只说扫街 ⇒ street sweeper；楼里的保洁 ⇒ janitor。
+★ 题型判词组：一个名词块；"环卫工人"映射回 sanitation worker（答 street sweeper／street cleaner 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [9]（🎓#422 题面"那个清洁工日复一日地扫着同一条街，一扫就是十几年。"）· 原话
+`That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "sanitation" ⇒ 零命中
+　② 中文 dedup "环卫" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `That sanitation worker`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"环卫工人"先落 sanitation worker。
+
+**题面**
+"凌晨就出来扫街的环卫工人"（城市里负责扫马路、清运垃圾的工人）
+★ 目标形式（教练看，⛔ 不进发题稿）：the sanitation workers who are out sweeping the streets before dawn
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
 
 ## 迁移说明（2026-08-18）
 
