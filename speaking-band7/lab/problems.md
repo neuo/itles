@@ -1128,6 +1128,94 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
 
+### 522 · **be on the fence (about sth)**（犹豫不决、两头拿不定主意）
+类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**be on the fence (about sth／about doing)** ＝ 在两个选择之间犹豫、还没选边（像骑在篱笆上，哪边都没下去）：
+`I'm still on the fence about the job offer.` · `She was on the fence about moving back.`
+同一格里的邻居（别串）：can't make up one's mind（拿不定主意，更平）· be torn between A and B（两头都舍不得，带情绪）· go back and forth（来回反复）· hesitate（犹豫，偏指动作前那一下迟疑）。
+判据一句话：在两个选项之间"还没选边" ⇒ be on the fence about；两边都想要、心里撕扯 ⇒ be torn between。
+★ 题型判整句："犹豫／纠结"能落到 hesitate／can't decide／torn 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 on the fence。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [2]（🎓#425 题面"我表妹在国外读完书，一直犹豫要不要回国，去年终于迈出了那一步。"）· 原话
+`My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
+她用对了、自己标「学下这个词组」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #506 #517 #519 先例）。
+判重三步：
+　① 目标形式 dedup "fence" ⇒ 只命中 🎓#492（perch 正文例句 perch on a fence）⇒ 否；"torn between"／"make up one's mind" 不是本条目标形式
+　② 中文 dedup "犹豫" ⇒ 🎓#495（正文字样，考点是 beat around the bush）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `had been on the fence about moving back`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"一直犹豫要不要…／纠结"先试 be on the fence about ＋ 名词／doing。
+
+**题面**
+"买不买那台二手钢琴，我纠结了好几个星期。"（"纠结"用 **on the fence** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I was on the fence about buying that second-hand piano for weeks.
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [2]（#425 题里）· 她标「学下这个词组」· 原话 `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
+
+### 523 · **terraced fields**（梯田；也说 rice terraces）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**terraced fields** ＝ 梯田（顺着山坡开出来、一级一级像台阶）：`the terraced fields on the hillside`；种稻子的常说 `rice terraces`。
+terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台咖啡馆）· `a terraced house`（英式联排房）。
+判据一句话：山坡上一层层的田 ⇒ terraced fields／rice terraces（terraced 带 -ed）。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"梯田"映射回 terraced fields（答 rice terraces 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [5]（🎓#428 题面"我们村的梯田上过一次央视的纪录片。"）· 原话
+`The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "terrace" ⇒ 零命中
+　② 中文 dedup "梯田" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `The terraced fields`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"梯田"先落 terraced fields（terraced 带 -ed）。
+
+**题面**
+"云南山坡上一层一层的梯田"（顺着山坡开出来、一级一级像台阶的稻田）
+★ 目标形式（教练看，⛔ 不进发题稿）：the terraced fields on the hillsides in Yunnan
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [5]（#428 题里）· 她标「背下」· 原话 `The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
+
+### 524 · **itinerary**（行程安排、行程单）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**itinerary** ＝ 一趟旅行的行程安排（哪天去哪儿、几点、住哪儿）：`a five-day itinerary` · `plan an itinerary` · `stick to the itinerary`。
+同一格里的邻居（别串）：schedule（日程表，泛指时间安排）· route（路线，只管怎么走）· travel plans（旅行计划，更泛）。
+判据一句话：一趟旅行"每天去哪儿、几点做什么"那张单子 ⇒ itinerary；只说走哪条路 ⇒ route。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"旅行社发来的行程安排"映射回 itinerary（答 schedule 合法且贴题面 ⇒ 照判 ✅，下次把中文语境写得更具体）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [6]（🎓#431 题面"这次的旅行路线规划得特别好，每天节奏都很舒服，景点也一个没落下。"）· 原话
+`This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "itinerar" ⇒ 零命中
+　② 中文 dedup "行程" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `This itinerary`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"行程（安排／单）"先落 itinerary。
+
+**题面**
+"旅行社发来的五天行程安排"（每天几点去哪儿、住哪儿都列好的那张单子）
+★ 目标形式（教练看，⛔ 不进发题稿）：the five-day itinerary the travel agency sent over
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [6]（#431 题里）· 她标「背下」· 原话 `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+
 ## 迁移说明（2026-08-18）
 
 ```

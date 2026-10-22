@@ -5930,7 +5930,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 167 · be in a hurry 的主语必须是人；There's no rush.
 类型 搭配 ｜ 旧号 B256
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 今天回标成「题型 整句」才从词组串里单独拎出来 —— 旧口径按「类型 搭配」打包，主语根本不出现、考点永远测不到）
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-19 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零。★ 今天回标成「题型 整句」才从词组串里单独拎出来 —— 旧口径按「类型 搭配」打包，主语根本不出现、考点永远测不到）
 
 **问题是什么**
 **be in a hurry 的主语只能是人**（I'm in a hurry ／ he's in a hurry）—— 事情和时间不会"赶"，
@@ -5980,6 +5980,7 @@ something to look forward **to** ／ a pen to write **with**。
   第二句只给中文时 `I've got a train to catch` 同样合法，绕开"主语是人 ⇒ in a hurry"这个落点 ⇒ 补正向点名；
   第一句答 There's no hurry 与 There's no rush 同属本条正确形
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [4] · `There's no rush — take your time. I need to hurry to catch my train, so I gotta get going.` —— There's no rush（事）＋ I need to hurry（人当主语）两个落点都到
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [7] · `There's no rush, eat as slowly as you like—the restaurant doesn't close till ten. / He's in such a hurry every morning that he can't even get breakfast down.` —— 事 ⇒ There's no rush ／ 人 ⇒ in such a hurry，两个落点都对（★ get breakfast down 更像咽不下去，只点出）
 - 备注 同族"块记了一半"：`stood on their feet`（该 be on your feet）
 
 ### 168 · tick things off a list（打卡式旅游）
@@ -10844,7 +10845,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 
 ### 282 · take ownership (of sth)（把它当成自己的事，自己扛起来）
 类型 词组 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检答"忘了"，撤销毕业、连对清零）
 
 **问题是什么**
 **take ownership (of sth)** ＝ 把它当成自己的事、自己扛起来。
@@ -10905,6 +10906,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   去掉"take ＋ o- 开头的名词"猜谜写法，点名 ownership，take … of 怎么搭留给她（09-11／09-13 掉过）；换成新员工场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [5] · `Once you hit college, you need to take ownership of your learning.` —— take ownership of ＋ 具体的东西，ownership 不带 a
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [8] · `The toughest part of leading a team is getting everyone to take full ownership of their part.` —— take full ownership of
 
 ### 283 · 收尾句型：It's really about A first, and then B（把前面几点排成先后，收成一条线）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
@@ -12045,7 +12047,7 @@ not much of ＋ **a/an** ＋ 【单数可数名词】＝ "算不上一个…"
 
 ### 301 · enjoy ＋ 物主代词 ＋ time／stay（不说 enjoy the time）
 类型 搭配 ｜ 新建 2026-08-26（**补建**）
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `enjoy the time with him`，与 08-26 建号触发句一模一样，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句 ｜ **回潮 2026-09-11**（08-28 毕业 → 09-11 复检写成 `enjoy the time with him`，与 08-26 建号触发句一模一样，撤销毕业、连对清零）
 
 **问题是什么**
 **enjoy ＋ 物主代词 ＋ time／stay**：enjoy 后面接"时光"类名词时，那个名词前面要**物主代词**，⛔ 不是 the。
@@ -12126,6 +12128,7 @@ enjoy 后面跟"一段时光／一次经历"时，那个名词前面要**物主�
 - 2026-10-01 📝 题面补点名「"住的几天"用 **stay** 说」· 复检第 3 组发题前审核（§6.5 第 7 项 · 硬阻断）
   只点 enjoy 时 `I really enjoyed staying by the sea` 同样合法，绕开"物主代词 ＋ 时光名词"这一格 ⇒ 点名名词 stay，my／the 仍留给她
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [6] · `I really enjoyed my stay at the beach this time.` —— enjoyed my stay（物主代词，没落成 the stay）
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [9] · `I thoroughly enjoyed my stay at my grandma's for a week last time.` —— enjoyed my stay（物主代词 ✓；★ my week-long stay 更顺，只点出）
 
 
 ### 302 · something breaks（东西坏了／出故障，break 当不及物动词，不用 be broken）
@@ -14138,7 +14141,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 330 · set one's mind to sth（下定决心要做的事）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **set one's mind to sth** ＝ 铁了心要做成某事（强调持续用力）；
@@ -14185,6 +14188,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
   只点 mind 时 make up her mind／put her mind to 同样合法，绕开 set one's mind to ⇒ 点名 set；
   to 和它后面挂什么（09-13 掉的是 to do）仍留给她
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [7] · `Once she sets her mind on something, she always makes it happen.` —— set one's mind on／to 同属本条（09-13 已定），后面挂名词，没落成 to do
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [10] · `When my brother sets his mind on losing weight, he can drop twenty pounds in just three months.` —— sets his mind on（on／to 都在本条规则内，09-13 已定）
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
 类型 词组 ｜ 新建 2026-09-09
@@ -17470,7 +17474,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 424 · set aside ＋ 钱／时间（专门留出一部分）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
 
 **问题是什么**
 **set aside** ＝ 从总量里专门划出一部分、留着做某件事：set aside part of my paycheck ／ set aside some money for a trip ／ set aside an hour every evening。
@@ -17498,10 +17502,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [3] · `I set aside half an hour every night to read with my kid.` —— set aside half an hour。连错 1 → 连对 1
 - 2026-10-09 ✅ 学习日 在池第 1 组 [3] · `To pay for our wedding next year, we set aside a third of our paychecks every month.` —— 点名降到 set，aside 自己补上。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [1] · `I set aside one evening a week to catch up with my old friends over the phone.` —— set aside one evening a week。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [1] · `Our company sets aside part of the budget every year specifically for hosting the annual party.` —— sets aside part of the budget
 
 ### 425 · make the move（真的迈出那一步、付诸行动）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
 
 **问题是什么**
 **make the move** ＝ 下决心真的去做、迈出那一步（常指换工作、搬家、转行这种大决定）：finally make the move ／ make the move to freelancing ／ make the move to London。
@@ -17530,10 +17535,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [4] · `She had been thinking about quitting her job for grad school for two years before she finally made the move this year.` —— finally made the move。连错 1 → 连对 1
 - 2026-10-09 ✅ 学习日 在池第 1 组 [4] · `He had been talking about starting his own business forever, and last month he finally made the move.` —— 点名降到 move，make the 自己补上。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [2] · `He worked in banking for ten years and always wanted to switch to design, and this year he finally made the move.` —— finally made the move。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [2] · `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.` —— finally made the move（on the fence 她标学下 ⇒ 新建 #522）
 
 ### 426 · windowsill（窗台）
 类型 词汇 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 词组
 
 **问题是什么**
 **windowsill** ＝ 窗台（窗户下沿那条可以放东西、猫能趴的平台）：on the windowsill ／ a plant on the windowsill。
@@ -17562,10 +17568,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
   ｜她自注「这个词背下」⇒ succulent 另建 #435
 - 2026-10-09 ✅ 学习日 在池第 1 组 [5] · `that pile of unread books sitting on the windowsill` —— windowsill。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]a · `pots of scallions sitting on the kitchen windowsill` —— windowsill。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [3a]（打包）· `the bedroom windowsill the cat loves to perch on and look outside` —— windowsill
 
 ### 427 · soak up ＋ the sun／the atmosphere（尽情享受、吸收）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
 
 **问题是什么**
 **soak up** ＝ 像海绵吸水一样，把阳光／氛围／景色尽情吸收进来：soak up the sun ／ soak up the atmosphere ／ soak up the view。
@@ -17593,10 +17600,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [6] · `When I first visited Chengdu, I just wanted to stroll through the old streets and soak up the atmosphere.` —— soak up the atmosphere。连错 1 → 连对 1
 - 2026-10-09 ✅ 学习日 在池第 1 组 [6] · `Whenever the sun comes out in winter, older folks in the park sit on benches to soak up the sun.` —— 点名降到 soak，up 自己补上。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [4] · `When we traveled to Italy, we just sat at a cafe by the square and soaked up the local vibe.` —— soaked up the local vibe。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [4] · `We didn't go to the music festival to see any specific band; we just wanted to soak up the atmosphere.` —— soak up the atmosphere
 
 ### 428 · be featured in ＋ 杂志／节目（被刊登、上了…）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
 
 **问题是什么**
 **be featured in** ＝ 作为重点内容出现在杂志／报纸／节目／展览里（"上了杂志、上了节目"）：Her work has been featured in several magazines. ／ The café was featured in a travel show.
@@ -17625,6 +17633,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
   ｜她自注「这个 downstairs from 学下」⇒ downstairs from 另建 #436
 - 2026-10-09 ✅ 学习日 在池第 1 组 [7] · `A photo my friend took was featured in a travel magazine.` —— 被动 ＋ in 自己补上。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [5] · `A short essay I wrote back in college was featured in the school paper.` —— was featured in。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [5] · `The terraced（背下） fields in our village were actually featured in a CCTV documentary.` —— were featured in（terraced fields 她标背下 ⇒ 新建 #523）
 
 ### 429 · hold a grudge (against sb)（记仇）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
@@ -17670,7 +17679,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 430 · street market（街头集市、露天摊位市场）≠ shopping street（商业街）
 类型 词汇 ｜ 新建 2026-10-07
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 词组
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 词组
 
 **问题是什么**
 **street market** ＝ 街头集市、露天市场：一排排摊位，卖菜、小吃、旧货；介词用 at（at a street market）。
@@ -17699,10 +17708,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-09 ✅ 学习日 在池第 1 组 [9] · `the kind of street market you go to when you're visiting Bangkok` —— street market，没跟 shopping street 混。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]b · `an street market in the old town on Sunday mornings` —— street market（没落到 shopping street）。🎓 rc0 → rc1
   ★ an street ⇒ ⚪ #138（a／an 看读音），只记录
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [3b]（打包）· `the street market lined up along the streets on market days in town` —— street market（★ 排成一排的是摊位：with stalls lined up along the road，只点出）
 
 ### 431 · well planned out（规划得好、布局合理）
 类型 词组 ｜ 新建 2026-10-07 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-09**（连对2 ＝ 10-08 ＋ 10-09）｜ 题型 整句
 
 **问题是什么**
 **be (well) planned out** ＝ 事先规划、布局安排得好：The mall is well planned out. ／ way better planned out ／ a poorly planned-out city。
@@ -17730,6 +17740,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-08 ✅ 付息日 a 段在池第 2 组 [10] · `This new residential area is really well planned out; schools and supermarkets are all within a ten-minute walk.` —— well planned out。连错 1 → 连对 1
 - 2026-10-09 ✅ 学习日 在池第 1 组 [10] · `This city's subway network is so well planned out that you never have to transfer more than once.` —— so well planned out that，well … out 自己补上。连对 1 → 2 ⇒ **毕业**
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [6] · `This park is so well planned out—the running track, playground, and parking lot are distinctly mapped out.` —— so well planned out。🎓 rc0 → rc1
+- 2026-10-21 ✅ 复检 · 学习日 复检第 4 组 [6] · `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.` —— well planned out（itinerary 她标背下 ⇒ 新建 #524）
 
 ### 432 · cross-border ≠ transnational（跨境 vs 跨国）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
