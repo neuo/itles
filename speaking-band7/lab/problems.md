@@ -1046,7 +1046,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **a day job** ＝ 白天那份（养家的）正职，常跟晚上／业余干的事对照：
@@ -1074,10 +1074,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：She works a day job at a bank and sings at a bar at night.
 
 - 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
+- 2026-10-21 ✅ 学习日 在池第 2 组 [3] · `She has a day job at a bank, but she sings at a bar at night.`。首测 ⇒ 连对 1
 
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
@@ -1104,10 +1105,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：I distinctly remember spilling coffee on my boss on my first day at work.
 
 - 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S6 · 原话 `I distinctively remember spending an entire month staying in my dorm room, …` ⇒ 最小改 I distinctly remember
+- 2026-10-21 ✅ 学习日 在池第 2 组 [1] · `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（…需要学下） against the window looking outside.` —— I distinctly remember ✓。连错 1 → 连对 1 ｜ 同句她标学下的 spend ＋ 时间 ＋ 状态 ⇒ 新建 #518
 
 ### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
 类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **not bother to do ／ not bother doing** ＝ 没费那个事去做（该做的没做，常带点批评或无所谓）：
@@ -1136,6 +1138,39 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 互斥：与 🎓#374 同组时，本条只出"别人连…都没做"，#374 只出"我懒得…"。
 
 - 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S8 · 她标「学一下」· 原话 `… but the organizers didn't bother to(学一下) enforce it on the spot.`
+- 2026-10-21 ✅ 学习日 在池第 2 组 [2] · `He left without even bothering to say goodbye.` —— bother to do 的块在，否定落在 without 上。连错 1 → 连对 1
+
+### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
+类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**spend ＋ 一段时间 ＋ 状态** ＝ 那段时间里主语一直处在某种状态。时间后面直接挂一个描述**主语**的成分，不用 being、不用 and：
+· 过去分词：`I spent the whole journey pressed against the window.` · `We spent the weekend stuck at home.` · `He spent the afternoon glued to the TV.`
+· 形容词：`I spent the night wide awake.`
+· 介词短语：`She spent the whole party in a bad mood.`
+同一格里的邻居（别串）：spend ＋ 时间 ＋ V-ing（主语在**做**什么：spent the whole journey looking out the window）· 🎓#251 spend 的主语必须是人（钱／时间当主语用 cost／take）· 同样的"挂主语状态"也出现在不及物动词后：`He came home exhausted.` `She sat there stunned.`
+判据一句话：那段时间主语是在"做事" ⇒ V-ing；是"处在某种样子／被怎样了" ⇒ 直接挂 -ed／形容词／介词短语。
+★ 题型判整句：考点是"状态补语挂在时间后面、说的是主语"，靠句子才现形；类型 句型 ⛔ 不许标词组。
+
+**怎么发现的**
+2026-10-21 学习日 在池第 2 组 [1]（#516 题面"我清清楚楚记得小时候第一次坐火车，一路上都趴在车窗边往外看。"）· 原话
+`I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
+她用对了、自己标「这种语法结构需要学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #506 #517 先例）。
+判重三步：
+　① 目标形式 dedup "spent the whole" ⇒ 🎓#471 #503（历史行字样：lounge／over）⇒ 否；"glued to" ⇒ 🎓#152（历史行字样，考点是 the first time ＋ 从句）⇒ 否；"stuck at home" ⇒ 零命中；"spend" ⇒ 🎓#251（spend 的主语必须是人，管的是谁当主语，不管时间后面挂什么）⇒ 否，其余命中都是题面／历史字样
+　② 中文 dedup "主语补足语" ⇒ 零命中；标题里带 spend／分词的只有 🎓#251 #259（完成时后接过去分词）#309（must have ＋ 过去分词）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `spent the whole journey pressed against the window`，但不确定这个结构为什么成立（自己标学下）　　目标：同她原句
+找法：想说"那段时间一直……着／被……着"，先写 spend ＋ 时间，后面直接挂那个状态（-ed／形容词／介词短语），不加 being、不加 and。
+
+**题面**
+"那场大雪下了两天，我们一家整个周末都被困在家里。"（"整个周末都被困在家里"用 **spend** 和 **stuck** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The snow went on for two days, and we spent the whole weekend stuck at home.
+
+- 2026-10-21 ❌ 首犯 · 学习日 在池第 2 组 [1]（#516 题里）· 她标「这种语法结构需要学下」· 原话 `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
 
 ## 迁移说明（2026-08-18）
 
