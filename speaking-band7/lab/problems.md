@@ -655,7 +655,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
@@ -702,6 +702,8 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-10-20 📝 撤销退池 · 学习日 在池第 2 组 [3]（#490 题里）她写 `After finishing grad school, his advisor asked …` —— 09-29 按 ④「历史零 ❌」退池，今天真掉 ⇒ §3.6 删掉状态行的退池
 - 2026-10-20 ❌ 学习日 在池第 2 组 [3]（#490 题里）· `After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— finishing 的是他，主句主语是 his advisor ⇒ 最小改 After he finished grad school, his advisor asked … ⇒ 🎓 回潮
 - 2026-10-20 📝 题面整改（§6②）：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求 ⇒ 换成正向点名 after getting home ＋ 中文主语错位的整句（妈妈下班一回到家，孩子们已经把晚饭做好了）
+- 2026-10-21 ✅ 学习日 在池第 1 组 [1] · `When my dad got back from his business trip, the driver was already waiting at the exit right after he got off the plane.` —— 主句主语是司机 ⇒ 她没有把 -ing 挂到司机身上，换成带自己主语的 after he got off the plane（同 09-07 先例：不硬套 -ing ＝ 本条要的判断）。连错 1 → 连对 1
+  ｜ 题面点名 after getting off the plane 她改成了从句 —— 合法且贴题面 ⇒ ✅；种子不改（再加"保留 -ing"就是形式要求，§6② 禁）
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -753,7 +755,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 506 · **call it quits**（决定到此为止、不干了：结束一段关系／一份工作／一件正在做的事）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
 
 **问题是什么**
 **call it quits** ＝ 决定到此为止、不干了（口气是"拍板结束"）：
@@ -782,10 +784,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-19 ❌ 首犯 · 学习日 在池第 1 组 [7]（#494 题里）· 她标「这个短语词组学下」· 原话 `He knew the relationship was a dead end, but he still couldn't bring himself to call it quits（这个短语词组学下).`
 - 2026-10-20 ✅ 学习日 在池第 1 组 [8] · `This small restaurant was losing money for three years, so the owner finally decided to call it quits.` —— call it quits ✓（was losing → had been losing 只进 diff-2）。连错 1 → 连对 1
+- 2026-10-21 ✅ 学习日 在池第 1 组 [2] · `They were together for seven years before they finally decided to call it quits.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 507 · **rummage through ＋ 地方**（扒拉着乱翻、翻找；要找的东西用 for）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
 
 **问题是什么**
 **rummage through ＋ 地方** ＝ 在一堆东西里扒拉着找、乱翻：
@@ -814,10 +817,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-19 ❌ 首犯 · 学习日 在池第 3 组 [1]（#487 题里）· 她标「这个词背下」· 原话 `a pack of raccoons rummaging（这个词背下) through trash cans for food in the middle of the night`
 - 2026-10-20 ✅ 学习日 在池第 1 组 [9] · `I had to rummage through my bag to find my keys.` —— rummage through ✓（"半天"没说，补 for ages 只进 diff-2）。连错 1 → 连对 1
+- 2026-10-21 ✅ 学习日 在池第 1 组 [3] · `I rummaged through every single drawer, but I couldn't spot the receipt anywhere.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 508 · X is **the thing sb looks forward to the most**（最期待的就是 X；⛔ what they expect most is）
 类型 句型 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
 
 **问题是什么**
 「最期待的就是 X」⇒ **X is the thing sb looks forward to the most**（或 What sb looks forward to the most is X）：
@@ -846,10 +850,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [3]（#347 题里）· 她标「这里的 the most 可以学下」· 原话 `For many elementary school kids, summer break is the thing they look forward to the most(这里的 the most 可以学下，我本来想用 what they expect most is).`
 - 2026-10-20 ✅ 学习日 在池第 1 组 [10] · `The thing my daughter looks forward to the most all year is her birthday.`。连错 1 → 连对 1
+- 2026-10-21 ✅ 学习日 在池第 1 组 [4] · `The thing I look forward to the most every week is playing badminton with my friends over the weekend.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 509 · **set off**（出发、动身上路：set off on a trip · set off for ＋ 地点）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
 
 **问题是什么**
 **set off** ＝ 出发、动身上路的那一下：
@@ -878,10 +883,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-19 ❌ 首犯 · 学习日 复检第 4 组 [8]（#463 题里）· 她标「这个短语学一下」· 原话 `Before setting off on(这个短语学一下) the trip, our family sat down and talked through the route stop by stop.`
 - 2026-10-20 ✅ 学习日 在池第 2 组 [1] · `We set off for the airport before dawn.`。连错 1 → 连对 1
+- 2026-10-21 ✅ 学习日 在池第 1 组 [5] · `My family set off for the mountains early in the morning to go camping.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 510 · **know the ins and outs of sth**（一件事的里里外外、各种细节门道都清楚）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-21**（连对2 ＝ 10-20 ＋ 10-21）｜ 题型 整句
 
 **问题是什么**
 **the ins and outs of sth** ＝ 一件事的全部细节、里面的门道：
@@ -910,10 +916,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-19 ❌ 首犯 · 学习日 ③ 重答 bank:991 S3 · 她标「这个词组学下」· 原话 `As for the company, having highly skilled staff who know the ins and outs of(这个词组学下) their specific processes means they can create a lot more value.`
 - 2026-10-20 ✅ 学习日 在池第 2 组 [2] · `Our team leader has been at the company for a decade, so he knows all the ins and outs of the expense report process.`。连错 1 → 连对 1
+- 2026-10-21 ✅ 学习日 在池第 1 组 [6] · `My cousin has been a real estate agent for years, so she knows the ins and outs of buying property.`。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **auction** ＝ 拍卖：东西摆出来，大家举牌出价，价高者得：
@@ -940,10 +947,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：an antiques auction
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [5]b（#410 题里）· 她标「背下」· 原话 `the annual autumn charity auction(背下) hosted by the neighborhood`
+- 2026-10-21 ✅ 学习日 在池第 1 组 [7] · `an antique auction`。连错 1 → 连对 1
 
 ### 512 · **finish ＋ 东西**（"看完／吃完／读完" ⇒ finish the cartoon：中文的"V完"直接落在 finish 上）
 类型 搭配 ｜ 新建 2026-10-20 ｜ ⭐ 她问怎么说
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文"V完"（看完／吃完／读完／写完）⇒ **finish ＋ 东西**（或 finish ＋ V-ing）：
@@ -971,10 +979,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：Once I finish this novel, I'll lend it to you.
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [6]（#476 题里）· 她问"看完"怎么说（自己查到 to the end）· 原话 `… he insists on watching his cartoon to the end.`
+- 2026-10-21 ✅ 学习日 在池第 1 组 [8] · `As soon as I finish this novel, I'll pass it along to you.` —— finish this novel ✓。连错 1 → 连对 1
 
 ### 513 · **pajamas**（睡衣；永远带 s：in my pajamas · a pair of pajamas）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **pajamas** ＝ 睡衣（上衣加裤子一套），永远复数：`in my pajamas`（穿着睡衣）· `change into my pajamas` · `a pair of pajamas`（一套）；英式拼 pyjamas。
@@ -1001,10 +1010,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：a pair of pajamas with little bears on them
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
+- 2026-10-21 ✅ 学习日 在池第 1 组 [9] · `a set of bear-print pajamas`。连错 1 → 连对 1
 
 ### 514 · **gown**（女士的长礼服：an evening gown · a ball gown；男士 ⇒ tuxedo）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-20 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **gown** ＝ 女士穿的长款礼服：`an evening gown`（晚礼服）· `a ball gown`（大裙摆礼服）· `a wedding gown`（婚纱，也说 wedding dress）；毕业袍也叫 gown（`cap and gown`）。
@@ -1026,10 +1036,13 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 找法：说"（女士的）礼服／晚礼服"先落 gown；男士的是 tuxedo。
 
 **题面**
-"颁奖典礼上她穿的那件拖地晚礼服"（女士出席正式场合穿的长裙）
-★ 目标形式（教练看，⛔ 不进发题稿）：the floor-length evening gown she wore at the awards ceremony
+"灰姑娘去王子舞会穿的那条大裙摆礼服"（裙摆蓬起来、长到拖地的那种）
+★ 目标形式（教练看，⛔ 不进发题稿）：the ball gown Cinderella wore to the prince's ball
+★ 2026-10-21 改：旧种子"颁奖典礼上她穿的那件拖地晚礼服"她答 evening dress（合法且贴题面 ⇒ ✅）⇒ 中文语境写到"大裙摆舞会礼服"，落点只剩 ball gown
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 4 组 [5]（#416 题里）· 她标「背下」· 原话 `On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
+- 2026-10-21 ✅ 学习日 在池第 1 组 [10] · `that floor-length evening dress she wore to the awards ceremony` —— 答 evening dress 合法且贴题面（§3.3 合法但不是条目预期 ⇒ ✅）。连错 1 → 连对 1
+- 2026-10-21 📝 题面整改（§3.3 硬顺序③ ／ §6.0 词组题换场景时把中文语境写得更具体）：今天答 evening dress 合法 ⇒ 种子换成"灰姑娘去王子舞会穿的那条大裙摆礼服"（大裙摆舞会礼服 ⇒ ball gown，dress 落不上去），零英文提示照旧
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
