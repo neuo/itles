@@ -1084,7 +1084,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **outpatient** ＝ 门诊（看完病当天回家、不住院）：`the outpatient department` · `an outpatient clinic` · `outpatient surgery`（门诊小手术）。
@@ -1110,10 +1110,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：the outpatient department at the children's hospital
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [7]（#483 题里）· 她标「这个背下」· 原话 `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [1] · `the outpatient clinic at the children's hospital` —— outpatient。连错 1 → 连对 1
 
 ### 521 · **sanitation worker**（环卫工人）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **sanitation worker** ＝ 环卫工人（扫马路、清运垃圾的那些人）：`the sanitation workers who sweep the streets before dawn`。
@@ -1139,10 +1140,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：the sanitation workers who are out sweeping the streets before dawn
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [2] · `sanitation workers out sweeping the streets before dawn` —— sanitation workers。连错 1 → 连对 1
 
 ### 522 · **be on the fence (about sth)**（犹豫不决、两头拿不定主意）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be on the fence (about sth／about doing)** ＝ 在两个选择之间犹豫、还没选边（像骑在篱笆上，哪边都没下去）：
@@ -1169,10 +1171,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：I was on the fence about buying that second-hand piano for weeks.
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [2]（#425 题里）· 她标「学下这个词组」· 原话 `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [3] · `I was on the fence for weeks about buying that second-hand piano.` —— on the fence … about buying。连错 1 → 连对 1
 
 ### 523 · **terraced fields**（梯田；也说 rice terraces）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **terraced fields** ＝ 梯田（顺着山坡开出来、一级一级像台阶）：`the terraced fields on the hillside`；种稻子的常说 `rice terraces`。
@@ -1198,10 +1201,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the terraced fields on the hillsides in Yunnan
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [5]（#428 题里）· 她标「背下」· 原话 `The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [4] · `the terraced rice fields built into the hillsides of Yunnan` —— terraced（-ed）。连错 1 → 连对 1
 
 ### 524 · **itinerary**（行程安排、行程单）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **itinerary** ＝ 一趟旅行的行程安排（哪天去哪儿、几点、住哪儿）：`a five-day itinerary` · `plan an itinerary` · `stick to the itinerary`。
@@ -1227,6 +1231,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the five-day itinerary the travel agency sent over
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [6]（#431 题里）· 她标「背下」· 原话 `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [5] · `that five-day itinerary the travel agent sent over` —— itinerary。连错 1 → 连对 1
 
 ### 525 · **on the doorstep**（家门口：东西放在某户人家门外那一小块；⛔ at the entrance）
 类型 词组 ｜ 新建 2026-10-22
