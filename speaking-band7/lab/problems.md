@@ -1263,6 +1263,94 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 - 2026-10-22 ❌ 首犯 · 付息日 a 段在池第 1 组 [8]（#517 题里）· diff-2 ⚠️ · 原话 `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` ⇒ 更好版 on the doorstep
 
+### 526 · **down jacket**（羽绒服；也说 puffer jacket）
+类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**down jacket** ＝ 羽绒服（里面填鸭绒／鹅绒的冬衣）：`a long down jacket` · `a lightweight down jacket`；口语也常说 `puffer jacket`（鼓鼓的那种）。
+同一格里的邻居（别串）：down ＝ 羽绒（a down comforter 羽绒被）· padded jacket（棉服，填的是棉／化纤）· parka（带帽子的长款厚外套）。
+判据一句话：填羽绒的冬衣 ⇒ down jacket／puffer jacket；填棉的 ⇒ padded jacket。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"羽绒服"映射回 down jacket（答 puffer jacket 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 3 组 [1]（🎓#467 题面"这家洗衣店洗一件羽绒服要六十块。"）· 原话
+`This dry cleaner charges sixty bucks to clean a down jacket（背下）.`
+她用对了 down jacket，但自己标「背下」⇒ §2③ 她说要背 ⇒ 建号（同 #519–#524 先例：标背下建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "down jacket" ⇒ 零命中
+　② 中文 dedup "羽绒服" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `a down jacket`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"羽绒服"先落 down jacket（down 就是羽绒）。
+
+**题面**
+"冬天去哈尔滨要带的那件长款羽绒服"（里面填满鸭绒、鼓鼓囊囊的那种冬衣）
+★ 目标形式（教练看，⛔ 不进发题稿）：the long down jacket you need to bring to Harbin in winter
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [1]（#467 题里）· 她标「背下」· 原话 `This dry cleaner charges sixty bucks to clean a down jacket（背下）.`
+
+### 527 · **in public**（在公共场合、当着外人的面；反义 in private）
+类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**in public** ＝ 在公共场合、当着外人的面：`Don't argue in public.` · `She never cries in public.` · `beat up a thief in public`；反义 **in private**（私下）。块里⛔不带 the。
+同一格里的邻居（别串）：publicly（副词，偏正式：publicly apologize）· in front of everyone（当着所有人）· in broad daylight（光天化日之下）· in the street（在大街上）。
+判据一句话：有外人看得见的场合 ⇒ in public；关起门来 ⇒ in private。
+★ 题型判整句："当众／当着别人的面"能落到 in front of everyone／publicly 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 in public。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 3 组 [3]d（🎓#498 题面"新闻里那个当街暴打小偷、后来被警察带走的义警"）· 原话
+`that vigilante in the news who beat up a thief in public（背下) and was taken away by the police`
+她用对了 in public，但自己标「背下」⇒ §2③ 她说要背 ⇒ 建号（同 #519–#524 先例）。
+判重三步：
+　① 目标形式 dedup "in public" ⇒ 零命中
+　② 中文 dedup "当街" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `in public`，但块不在手边（自己标背下）　　目标：同她原句
+找法：说"当众／当着外人的面／在公共场合"先落 in public（⛔ 不带 the）。
+
+**题面**
+"我妈从来不在外面当着别人的面骂我，都是回家再说。"（"在外面当着别人的面"用 **in public** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom never scolded me in public — she always waited until we got home.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [3]d（#498 题里）· 她标「背下」· 原话 `that vigilante in the news who beat up a thief in public（背下) and was taken away by the police`
+
+### 528 · **get the hang of sth**（摸到窍门、上手了：got the hang of it）
+类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**get the hang of sth** ＝ 摸到窍门、上手（一件要动手的事，刚开始不会，慢慢会了）：`It took me a week to get the hang of the new software.` · `Once you get the hang of it, it's easy.` · `she got the hang of it in no time`。hang 前面固定是 the。
+同一格里的邻居（别串）：🎓#279 get a feel for sth（对一个领域摸出感觉，偏体感）· get used to sth（习惯，偏适应）· pick up（学会，偏学得快）。
+判据一句话：一件"手上的活"从不会到会 ⇒ get the hang of；对一个领域生出直觉 ⇒ get a feel for。
+★ 与 🎓#279 分工：那条考 a feel for／the feel of 的冠词＋介词，本条是 hang 这个块 ⇒ 两个块，各走各的。
+★ 题型判整句："上手／摸到窍门"能落到 figure it out／pick it up／get used to it 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 hang。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 3 组 [6]（🎓#489 题面"我妹妹学游泳特别快，没几天就会了。"）· 原话
+`My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.`
+她用对了 got the hang of it，但自己标「这个短语背下」⇒ §2③ 她说要背 ⇒ 建号（同 #519–#524 先例）。
+判重三步：
+　① 目标形式 dedup "hang of" ⇒ 🎓#279（正文把 get the hang of 列为同族邻居，考点是 a feel for／the feel of）· 🎓#206（历史行里教练给过的口语版 get the hang of managing their own time）⇒ 都否：hang ≠ feel，两个块；#206 是书面词降级的登记条，不考这个块
+　② 中文 dedup "上手" ⇒ 🎓#279 · 🎓#510（ins and outs）· 🎓#291（Let me …）—— 只是正文／历史带"上手"二字 ⇒ 全否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `got the hang of it`，但块不在手边（自己标背下）　　目标：同她原句
+找法：说"上手了／摸到窍门了"先落 get the hang of it（hang 前面有 the）。
+
+**题面**
+"这台新咖啡机按钮太多了，我用了一个星期才摸到窍门。"（"摸到窍门"用 **hang** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：This new coffee machine has way too many buttons — it took me a week to get the hang of it.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [6]（#489 题里）· 她标「这个短语背下」· 原话 `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.`
+
 ## 迁移说明（2026-08-18）
 
 ```

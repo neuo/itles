@@ -17786,7 +17786,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 433 · semi-final（半决赛）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
 
 **问题是什么**
 **semi-final** ＝ 半决赛（也写 semifinal）；the semi-finals ＝ 半决赛那一轮（有两场，所以常用复数）。
@@ -17813,6 +17813,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-09 ✅ 学习日 在池第 2 组 [1] · `the World Cup semifinals` —— semifinal（复数指半决赛那一轮，贴题面）。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [5] · `the semifinals of the Tennis Open` —— semifinal。连对 1 → 2 ⇒ **毕业**
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3a]（打包）· `the semifinals of the city's amateur（背一下） soccer tournament` —— the semifinals ｜ amateur 她标「背一下」⇒ 新建 #475
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]e · `the semifinals of the campus singing competition` —— semifinals。🎓 rc1 → rc2
 
 ### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
 类型 搭配 ｜ 新建 2026-10-08
@@ -17848,7 +17849,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 435 · succulent（多肉植物）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 词组
 
 **问题是什么**
 **succulent** ＝ 多肉植物（名词，可数：a succulent ／ succulents）；当形容词是"多汁的"（succulent steak）。
@@ -17876,6 +17877,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-09 ✅ 学习日 在池第 2 组 [3] · `that small succulent sitting on my desk` —— succulent。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [7] · `a row of succulents on the windowsill` —— succulents。连对 1 → 2 ⇒ **毕业**
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3b]（打包）· `a small potted succulent bought at the flower market` —— succulent
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]f · `those few pots of succulents on the dorm balcony that I'm barely keeping alive` —— succulents。🎓 rc1 → rc2
 
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -18849,7 +18851,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 467 · charge 的主语是收钱的一方（the lot charges you）；事情本身花多少钱 ⇒ cost（parking costs you）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **charge** ＝ 收钱，主语是**收钱的人／机构**：`The parking lot charges twenty bucks an hour.` · `They charge you for the bags.`
@@ -18883,6 +18885,8 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-16 ❌ 学习日 在池第 1 组 [1] · 题面"从机场打车进市区，要一百五十块。"（点名 charge）· `Taking a cab from the airport to downtown costs a hundred and fifty bucks.`（她问"这不能用 charges 吧"）—— 那件事当主语换 costs 本身合法，但题面点名 charge、中文没给收钱的一方 ⇒ 没补出 they／cabs 当主语 ⇒ 最小改 `They charge you a hundred and fifty bucks to take a cab from the airport to downtown.`。连对 1 → 0，连错 0 → 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [1] · `This barbershop charges eighty bucks for a haircut.`（收钱的一方当主语）。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [3] · `This gym charges three hundred bucks a session for a personal trainer.` —— 收钱的健身房当主语。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [1] · `This dry cleaner charges sixty bucks to clean a down jacket（背下）.` —— This dry cleaner charges（收钱的店当主语）。🎓 rc0 → rc1
+  ｜ 她标「背下」的 down jacket ⇒ 新建 #526
 
 ### 468 · reservoir（水库）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
@@ -19332,7 +19336,7 @@ talk through 本身对（#463 ✅），changing the job ❌。lab 之前犯过�
 
 ### 481 · **plan a surprise for sb**（给人准备惊喜；throw 只配"办一场活动"：throw sb a surprise party）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 "给某人准备一个惊喜"＝ **plan a surprise for sb** ／ put together a little surprise for sb。
@@ -19361,6 +19365,7 @@ feel special 本身对（#477 ✅），diff-2 ⚠️（不是 ❌）：throw 不
 - 2026-10-14 新建 · 学习日 在池第 3 组 [2]（#477 题里）· diff-2 ⚠️ · 原话 `My friends threw me a little surprise on my birthday, and it really made the day feel special.` ⇒ 更好版 planned a little surprise for me
 - 2026-10-16 ✅ 学习日 在池第 2 组 [2] · `A few of us secretly planned a surprise for our homeroom teacher to celebrate her retirement.`。首测 ⇒ 连对 1
 - 2026-10-19 ✅ 学习日 在池第 2 组 [8] · `My husband secretly planned a surprise for our wedding anniversary.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [2] · `My son secretly planned a Mother's Day surprise for me.` —— planned a … surprise for me。🎓 rc0 → rc1
 
 ### 482 · **far from** ＋ 形容词／enough（远远不够、远不是：far from enough · far from perfect；⛔ far away from enough）
 类型 搭配 ｜ 新建 2026-10-14
@@ -19428,7 +19433,7 @@ opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）
 
 ### 484 · **shipping**（物流、寄运：cross-border shipping · international shipping；⛔ express 单独当名词）
 类型 词汇 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
 
 **问题是什么**
 物流／寄运 ⇒ **shipping**（cross-border shipping · free shipping · shipping costs），偏行业的说法 logistics；快递 ⇒ **delivery**（express delivery）／ a courier。
@@ -19451,10 +19456,13 @@ cross-border 本身对（#432 ✅），diff-2 ⚠️（不是 ❌）：express �
 
 **题面**
 "国际物流的运费"（把包裹从国内寄到国外要付的那笔钱）
+★ 2026-10-22 补：换场景时落在"物流／寄到外地、国外"，⛔ 别写"送到家"—— 那是 delivery 的地盘（10-22 出成"网上买沙发商家另收的运费（送到你家）"，她答 the delivery fee，合法且贴题面 ⇒ ✅）
 
 - 2026-10-14 新建 · 学习日 复检第 4 组 [2]（#432 题里）· diff-2 ⚠️ · 原话 `cross-border express` ⇒ 更好版 cross-border shipping
 - 2026-10-16 ✅ 学习日 在池第 2 组 [3] · `international shipping fees`。首测 ⇒ 连对 1
 - 2026-10-19 ✅ 学习日 在池第 2 组 [9] · `free shipping on orders over a hundred bucks`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]a · `the delivery fee for bulky items like a sofa bought online` —— 题面写成"送到你家"的钱 ⇒ 按本条判据正是 delivery 的地盘，题面没逼到 shipping（§6.1③ 题面出坏了记 ✅）。🎓 rc0 → rc1
+  ｜ 当天在题面节补 ★ 换场景口径（落在"物流／寄到外地"，⛔ 写"送到家"）
 
 ### 485 · **smear**（抹、涂得一塌糊涂：smear lipstick all over her face · smear sth on sth）
 类型 词汇 ｜ 新建 2026-10-14 ｜ ⭐ 她点名要学
@@ -19490,7 +19498,7 @@ cross-border 本身对（#432 ✅），diff-2 ⚠️（不是 ❌）：express �
 
 ### 486 · 一组里挨个说：**one … another … a third … the last one**（⛔ another 一路用到底）
 类型 句型 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 一组几个（三个、四个）挨个说各自干了什么 ⇒ **one … another … a third … and the last one …**。
@@ -19519,10 +19527,11 @@ diff-2 ⚠️（不是 ❌）：第三只还用 another、第四只又回到 one
 - 2026-10-14 新建 · 学习日 ③ 重答 bank:450 S5 · diff-2 ⚠️ · 原话 `one tries climbing up, …; another tries crashing into the tree, …; another tries to reach it with his trunk, …; and one even makes a kite to fly up there, …` ⇒ 更好版 a third … the last one
 - 2026-10-16 ✅ 学习日 在池第 2 组 [4] · `… one went to Beijing, another went abroad, the third moved back home, and the last one stayed at school for grad school.` —— 第三个换了序数、最后一个用 the last one ⇒ 考点到位；diff-2 ⚠️ the third → a third（四个人没先后，"又一个"用 a third）。首测 ⇒ 连对 1
 - 2026-10-19 ✅ 学习日 在池第 2 组 [10] · `We have four cats at home: one is super clingy, another sleeps all day, a third is always sneaking food, and the last one won't let anyone pet it.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [4] · `Among the four interns in our team: one was kept on by the company, another went off to grad school, a third returned home to take the civil service exam, and the last one is still looking for a job.` —— one … another … a third … the last one。🎓 rc0 → rc1
 
 ### 487 · 一群 X ＝ **a bunch of／a group of** X（⛔ a pack of mice —— pack 只配狼、狗）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
 
 **问题是什么**
 说"一群老鼠／一群孩子／一群朋友"⇒ **a bunch of**（口语）／ **a group of**；pack 只配成群打猎的动物：a pack of wolves ／ a pack of dogs。
@@ -19553,10 +19562,11 @@ diff-2 ⚠️（不是 ❌）：pack 不配老鼠 ⇒ §3.2b 能学的搭配 ⇒
 - 2026-10-16 ✅ 学习日 在池第 2 组 [5] · `a group of tiny mice sneaking food in the kitchen`。首测 ⇒ 连对 1
 - 2026-10-19 ✅ 学习日 在池第 3 组 [1] · 题面"一群半夜在垃圾桶里翻吃的的浣熊"· `a pack of raccoons rummaging through trash cans for food in the middle of the night` —— 又用了 pack，但浣熊这类成群出没的野兽口语也配 pack（试造 There's a pack of raccoons that raids our trash every night. 成立）⇒ 合法算 ✅；题面动物选在了边界上（教练犯规）。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-19 📝 题面整改 ＋ 正文补边界：浣熊／土狼这类成群出没的野兽口语也配 pack ⇒ 种子★写明动物只出老鼠／鸟／虫这类小东西；问题是什么补一行边界
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]b · `a bunch of bugs munching on leaves in the vegetable garden` —— a bunch of bugs。🎓 rc0 → rc1
 
 ### 488 · **there's strength in numbers**（团结就是力量、人多力量大；⛔ 直译 unity is strength）
 类型 词组 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 "团结就是力量／人多力量大"⇒ 口语 **there's strength in numbers**；说故事寓意也常说 teamwork pays off。
@@ -19585,10 +19595,11 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 - 2026-10-14 新建 · 学习日 ③ 重答 bank:450 S8 · diff-2 ⚠️ · 原话 `not so much because of the moral—like showing that unity is strength—but because …` ⇒ 更好版 you know, that there's strength in numbers
 - 2026-10-16 ✅ 学习日 在池第 2 组 [6] · `The homeowners went to property management as a group, and the problem was fixed in no time—there's strength in numbers.`（in no time 她标学下 ⇒ 新建 #489）。首测 ⇒ 连对 1
 - 2026-10-19 ✅ 学习日 在池第 3 组 [2] · `A bunch of us went to the boss together asking for a raise, and he finally agreed—there's strength in numbers, after all.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [5] · `Several tenants sent a joint letter to the landlord, and he finally agreed to fix the water heater—there's strength in numbers, after all.` —— there's strength in numbers。🎓 rc0 → rc1
 
 ### 489 · **in no time**（很快、没一会儿就…：the problem was fixed in no time；⛔ at no time ＝ 从来没有）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **in no time** ＝ 没一会儿就、很快就（强调快得出乎意料），挂在句尾修饰整个动作：
@@ -19618,6 +19629,8 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 - 2026-10-16 ❌ 首犯 · 学习日 在池第 2 组 [6]（#488 题里）· 她标「这个词组学下」· 原话 `The homeowners went to property management as a group, and the problem was fixed in no time(这个词组学下)—there's strength in numbers.`
 - 2026-10-17 ✅ 付息日 在池第 1 组 [6] · `… and the guy fixed it in no time.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [2] · `This app is really user-friendly; you'll master it in no time.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [6] · `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.` —— in no time。🎓 rc0 → rc1
+  ｜ 她标「这个短语背下」的 got the hang of it ⇒ 新建 #528
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
@@ -19653,7 +19666,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **snap** ＝ 细长、硬的东西（钥匙、树枝、铅笔、筷子、尺子）突然"咔"一声断成两截：
@@ -19682,10 +19695,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [3]f（🎓#451 题里）· 她标「背下」· 原话 `a locksmith called in after the key snapped(背下) inside the lock`
 - 2026-10-17 ✅ 付息日 在池第 1 组 [7] · `The moment I pressed too hard, the chopstick snapped in two.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [4] · `It was so windy that a branch on that small tree in the yard snapped right off.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [7] · `I twisted it with too much force, and the key snapped right off inside the lock.` —— the key snapped。🎓 rc0 → rc1
 
 ### 492 · **perch**（鸟停、落在高处或边沿上：perch on people's shoulders）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **perch** ＝ 鸟停在（枝头、肩上、栏杆、电线）上；人坐在高处或边沿上也能说：
@@ -19714,10 +19728,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#442 题里）· 她标「背下」· 原话 `My friend's parrot is really affectionate; it loves perching(背下) on people's shoulders.`
 - 2026-10-17 ✅ 付息日 在池第 1 组 [8] · `There was a row of sparrows perching on the power line outside the window.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [5] · `A pigeon perched on my balcony railing and just wouldn't leave for ages.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [8] · `A crow perched on top of the street lamp, yelling continuously at us.` —— perched on top of（★ 乌鸦叫 ⇒ kept cawing，只点出）。🎓 rc0 → rc1
 
 ### 493 · **citywide**（全市的、全城范围的：a citywide tournament）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
 
 **问题是什么**
 **citywide** ＝ 整座城市范围的（形容词，放名词前）：`a citywide tournament` · `a citywide blackout` · `a citywide ban on fireworks`。
@@ -19745,10 +19760,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [2]a（🎓#395 题里）· 她标「学下」· 原话 `the citywide（学下) high school basketball tournament`
 - 2026-10-17 ✅ 付息日 在池第 1 组 [9] · `citywide waste sorting regulations`（漏了「新」只进 diff-1，不影响考点）。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [6] · `a citywide spring-cleaning event`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]c · `a citywide blackout` —— citywide。🎓 rc0 → rc1
 
 ### 494 · **can't bring myself to do**（狠不下心、下不了手去做：I could never bring myself to throw them away）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **can't／couldn't bring yourself to ＋ 动词原形** ＝ 心里过不去、怎么也下不了决心去做（多用否定）：
@@ -19778,10 +19794,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [6]（🎓#46 题里）· 她标「这个词组学下」· 原话 `These old photos are things I could never bring myself to(这个词组学下) throw away.`
 - 2026-10-17 ✅ 付息日 在池第 1 组 [10] · `… but my mom just can't bring herself to throw it away.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [7] · 题面点名 bring（降回 lemma）· `He knew the relationship was a dead end, but he still couldn't bring himself to call it quits.` —— himself 跟着 he。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [9] · `I outgrew the sweater my grandma knitted ages ago, but I can't bring myself to give it away.` —— can't bring myself to。🎓 rc0 → rc1
 
 ### 495 · **beat around the bush**（绕弯子、不直说正题：Stop beating around the bush）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **beat around the bush** ＝ 说话绕来绕去、就是不说正题（故意回避或不好意思直说）：
@@ -19810,6 +19827,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 复检第 4 组 [10]（🎓#136 题里）· 她标「这个词组学下」· 原话 `I asked him where the money went, and he beat around the bush（这个词组学下) for a while before finally telling the truth.`
 - 2026-10-17 ✅ 付息日 在池第 2 组 [1] · `Stop beating around the bush and just tell me what you really want.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [8] · 题面点名 bush（降回 lemma）· `He beat around the bush for a long time on the call, only to finally ask for a loan.`（diff-2 ⚠️ ask me for a loan，只加一个词不建号）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [10] · `The doctor didn't beat around the bush—he told me directly about the high risks of the surgery.` —— didn't beat around the bush。🎓 rc0 → rc1
 
 ### 496 · **be overrun with** ＋ 坏东西（到处都是、泛滥成灾：a city overrun with crime）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
@@ -19883,7 +19901,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 498 · **vigilante**（不靠警察、私自出手惩治坏人的人；义警）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 词组
 
 **问题是什么**
 **vigilante** ＝ 没有执法身份、自己动手抓坏人／惩罚坏人的人（Batman 就是最典型的 vigilante）：
@@ -19911,6 +19929,8 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S7 · 她标「背一下」· 原话 `… and his way of doing that is by becoming a vigilante(背一下), striking fear into the hearts of criminals.`
 - 2026-10-17 ✅ 付息日 在池第 2 组 [4] · `a masked vigilante in the movie who takes justice into his own hands …`（in the movie → in the movies 只进 diff-2）。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 2 组 [1] · `a comic book vigilante who works by day and fights crime by night`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]d · `that vigilante in the news who beat up a thief in public（背下) and was taken away by the police` —— vigilante。🎓 rc0 → rc1
+  ｜ 她标「背下」的 in public ⇒ 新建 #527
 
 ### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
 类型 句型 ｜ 新建 2026-10-16
