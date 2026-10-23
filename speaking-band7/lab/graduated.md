@@ -3412,7 +3412,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 96 · 否定辖域陷阱（with no overtime and stability 会被读反）
 类型 结构 ｜ 旧号 B163
-状态 连对2 连错0 上次2026-10-13 ｜ 旧账 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ 旧账 ｜ **回潮 2026-10-08**（08-20 她指定毕业 → 10-08 复检写成 `a place with no line and reasonable prices`，no 又盖到 and 后面，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **否定辖域陷阱**：`a job with no overtime and stability` 会被读成"既不加班也不稳定"——
@@ -3456,6 +3456,7 @@ no 一路盖到 and 后面那半。两条解法：
 - 2026-10-10 ✅ 学习日 在池第 1 组 [2] · `I want to get a dog that doesn't shed（学一下） and is super affectionate（学一下）.` —— doesn't 只盖 shed，is 是独立谓语，没被否定盖住。连对 1 → 2 ⇒ **毕业** ｜ 她标学 shed／affectionate ⇒ 另建 #441 #442
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [1] · `I'm looking to rent a place that's quiet and convenient to get around.` —— quiet and convenient 并列，没有否定辖域被读反
   ⚠️ diff-2：convenient to get around → convenient for getting around ⇒ 新建 #474
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [3] · `I'm looking to get a bookshelf that takes up very little space, but can still hold a lot of books.` —— takes up very little space, but can still hold …（没走 with no … and … 的否定辖域）。🎓 rc1 → rc2
 - 备注 分诊（与 #7 同型）：**上午单句测对、下午在长句里掉** ——
   单句时她会主动拆；句子一长、and 后面跟的是动词时，辖域检查就不跑了
   ⇒ **检查触发**：句子里出现 `not … and …`，把 and 后面那半单独接回否定念一遍
@@ -14368,7 +14369,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 
 ### 335 · take action（action 在这个块里不可数，⛔ take actions）
 类型 语法 ｜ 新建 2026-09-11（从 #261 拆出）
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **take action** 是固定块，action 在这里**不可数** ⇒ ⛔ 不加 -s、⛔ 不加 an。
@@ -14413,10 +14414,12 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）
   去掉"take ＋ a 开头的名词"猜谜与四个排除项，直接用"采取行动"点名 action，-s 挂不挂留给她；换成治污场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [8] · `With pollution this severe, the government needs to take swift action.` —— take swift action，action 不带 s
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [7] · `An old man passed out（这个词组学下） on the subway and people around just froze, but he was the only one who took action right away.` —— took action（不加 -s）。🎓 rc2 → rc3
+  ｜ 她标「这个词组学下」的 passed out ⇒ 新建 #531
 
 ### 336 · get TO ＋ 地点（到达；⛔ get the destination）
 类型 搭配 ｜ 新建 2026-09-11
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **get to** ＋ 地点 ＝ 到达（get 后面挂地点必须有 to）：get to the station ／ get to work ／ get to the destination。
@@ -14453,6 +14456,7 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 get，to 留给她（她掉过的是 get the destination）；换成问路去火车站场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 4 组 [1] · `During peak hour, it takes me a full hour to get to work.` —— get to work（get 后面挂地点，to 在）
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [8] · `We only got to the hotel at eight at night, and we were way too tired to even eat.` —— got to the hotel。🎓 rc2 → rc3
 
 ### 337 · look up sth（查；⛔ look up for）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#100 互斥（look for）
@@ -14541,7 +14545,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 **reach sb** ＝ 联系上某人（电话／消息打得通）：I couldn't reach him ／ You can reach me at this number。
@@ -14577,6 +14581,7 @@ reach **直接带宾语**，⛔ 前面不套 get。
   点名 reach，前面套不套 get 留给她；换成打一下午电话场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [10] · `If anything comes up, you can reach me at this number.` —— reach me 直接带宾语，没套 get
   ｜at this number 她自注「需要学一下，本来想写 through」⇒ 新建 #381（号码前的介词，与本条规则不同）
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [9] · `My phone had no signal when I was on a business trip, so my family couldn't reach me at all.` —— couldn't reach me。🎓 rc2 → rc3
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
@@ -14626,7 +14631,7 @@ reach **直接带宾语**，⛔ 前面不套 get。
 
 ### 341 · deserve praise／credit（⛔ worth praise）
 类型 搭配 ｜ 新建 2026-09-13
-状态 连对2 连错0 上次2026-10-01 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
 
 **问题是什么**
 "值得表扬／值得认可" ＝ **deserve praise／credit**（或 be worthy of praise ／ be praiseworthy）。
@@ -14662,6 +14667,8 @@ worth -ing（worth praising 可以）。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"一个动词／⛔ worth／should"，改零提示整句（deserve／worth praising／be praised 都算对），逼的是她掉过的 worth praise
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [9] · `That young guy who found the wallet and brought it back really deserves a lot of credit.` —— deserves credit，没落成 worth praise
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [10] · `Since the sports event went so smoothly, those volunteers truly deserve credits.` —— deserve（没落成 worth praise）。🎓 rc2 → rc3
+  ｜ 顺带 ❌ credits（credit 作功劳不可数）⇒ 新建 #532（本条管 deserve／worth，可数性另条）
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
@@ -16551,7 +16558,7 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学 ｜ 与 #398 互斥（各自正向点名 at stake／on the line）
-状态 连对2 连错0 上次2026-10-13 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **回潮 2026-10-08**（10-05 毕业 → 10-08 复检题面点名 at stake，她答成同义的 on the line（#398 的块），at stake 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-10**（连对2 ＝ 10-09 ＋ 10-10；10-08 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -16587,6 +16594,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 - 2026-10-09 ✅ 学习日 在池第 1 组 [2] · `This exam is crucial—my graduation is completely at stake.` —— is … at stake，at stake 放在 be 后面。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [3] · `This lawsuit is a huge deal—his entire fortune is at stake.` —— is at stake。连对 1 → 2 ⇒ **毕业**
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [2] · `There's a lot riding on this project; our team's funding for next year is at stake.` —— funding is at stake
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [4] · `This final is important—with the championship title and a one-million-dollar grand prize all at stake.` —— all at stake。🎓 rc1 → rc2
 
 ### 397 · pull an all-nighter（熬通宵）
 类型 词组 ｜ 新建 2026-10-04 ｜ ⭐ 她点名要学
@@ -17817,7 +17825,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 434 · for a whole month／a month straight（连续一个月；⛔ for a consecutive month）
 类型 搭配 ｜ 新建 2026-10-08
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
 
 **问题是什么**
 **consecutive** ＝"一个接一个"，至少两个单位才连得起来：three consecutive days ／ for the third consecutive year。
@@ -17846,6 +17854,8 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-09 ✅ 学习日 在池第 2 组 [2] · `He slept only four hours a night for a week straight.` —— for a week straight，没用 consecutive。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [6] · `It's rained for ten straight days in this city, so my clothes won't even dry.` —— ten straight days（＝ ten days straight），没用 consecutive。连对 1 → 2 ⇒ **毕业**
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [4] · `I've worked overtime three weekends straight.` —— three weekends straight
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [5] · `She came the top of the grade for two straight years.` —— for two straight years。🎓 rc1 → rc2
+  ｜ 顺带 ❌ came the top of the grade ⇒ 新建 #530
 
 ### 435 · succulent（多肉植物）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -17881,7 +17891,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-13 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
 
 **问题是什么**
 逗号后面的 **which** 可以指前面**一整件事**（不只是前面那个名词），后面常用"主语 ＋ 助动词"把前面的动作省掉：
@@ -17909,6 +17919,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-09 ✅ 学习日 在池第 2 组 [5] · `He promised he'd be here on time, which he wasn't.` —— , which he wasn't（which 指前面整件事 ＋ 主语 ＋ 否定助动词）。连错 1 → 连对 1
 - 2026-10-10 ✅ 学习日 在池第 1 组 [9] · `The landlord said he'd come fix the AC this week, which he didn't.` —— , which he didn't。连对 1 → 2 ⇒ **毕业**
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [6] · `Everyone expected him to accept the job, which he didn't.` —— , which he didn't
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [6] · `My mom claimed she would eat less sugar, which she didn't.` —— , which she didn't。🎓 rc1 → rc2
 
 ### 438 · nag sb (about sth)（念叨、反复催／数落某人）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
@@ -19831,7 +19842,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 496 · **be overrun with** ＋ 坏东西（到处都是、泛滥成灾：a city overrun with crime）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **be overrun with X** ＝ 一个地方被 X 占满了、泛滥成灾（X 多是不想要的东西：老鼠、蟑螂、杂草、游客、犯罪）：
@@ -19863,10 +19874,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S5 · 她标「学一下」· 原话 `The whole story takes place in Gotham, a fictional city overrun（学一下） with corruption and crime.`
 - 2026-10-17 ✅ 付息日 在池第 2 组 [2] · `… and now it's completely overrun with rats.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [9] · `We were away on vacation for a month, and came back to find our backyard overrun with weeds.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [1] · `This small town used to be really peaceful, but these days it gets overrun with tourists on weekends.` —— gets overrun with tourists。🎓 rc0 → rc1
 
 ### 497 · **have ＋ 东西 ＋ done** ＝ 遭遇（had my phone stolen）；人出事 ⇒ watched X get …
 类型 结构 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **have ＋ 东西 ＋ 过去分词**，除了"叫人做"（I had my hair cut），还能表示"遭遇了某事"（倒霉、不是自己安排的）：
@@ -19898,6 +19910,8 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 ❌ 首犯 · 学习日 ③ 重答 bank:1011 S6 · 她标「被动遭遇 have 的用法学下」· 原话 `Bruce Wayne, who becomes Batman, had(被动遭遇 have 的用法学下) his parents shot and killed when he was just a kid.` ⇒ 更好版 watched his parents get shot and killed
 - 2026-10-17 ✅ 付息日 在池第 2 组 [3] · `I had my wallet stolen on the subway last month.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [10] · `We had our flight canceled on short notice, so we ended up staying overnight at the airport.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [2] · `I had my car window smashed in（这个词组背下） while parked on the street.` —— I had my car window smashed in。🎓 rc0 → rc1
+  ｜ 她标「这个词组背下」的 smashed in ⇒ 新建 #529
 
 ### 498 · **vigilante**（不靠警察、私自出手惩治坏人的人；义警）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背

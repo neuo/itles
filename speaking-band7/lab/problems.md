@@ -1351,6 +1351,125 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [6]（#489 题里）· 她标「这个短语背下」· 原话 `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.`
 
+### 529 · **smash sth in**（把窗户／门砸破、砸进去：had my car window smashed in）
+类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**smash sth in** ＝ 用力把窗、门、玻璃砸破，砸得往里塌：`Someone smashed in my car window.` · `I had my car window smashed in.`；宾语是代词时放中间：`smash it in`。
+同一格里的邻居（别串）：smash ＝ 砸碎（smash a plate）· break into a car（撬车、闯进车里偷东西）· shatter（玻璃自己碎成渣）· 🎓#497 have ＋ 东西 ＋ done（遭遇：had my window smashed in 用的就是那个结构）。
+判据一句话：有人用力把窗／门砸破 ⇒ smash in；只说东西碎了 ⇒ smash／break；闯进去偷 ⇒ break into。
+★ 题型判整句："砸破／被砸了"能落到 broke／smashed 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 smash in。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 4 组 [2]（🎓#497 题面"我停在路边的车被人砸了车窗。"）· 原话
+`I had my car window smashed in（这个词组背下） while parked on the street.`
+她用对了 smashed in，但自己标「这个词组背下」⇒ §2③ 她说要背 ⇒ 建号（同 #519–#524 先例：标背下建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "smash" ⇒ 零命中
+　② 中文 dedup "砸" ⇒ 未单独跑（目标形式零命中已足够；🎓#497 是她这次答题的条目，考 have ＋ 东西 ＋ done 结构，不考 smash in ⇒ 否）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `smashed in`，但块不在手边（自己标背下）　　目标：同她原句
+找法：说"（窗户／门）被砸了"先落 smash in。
+
+**题面**
+"小偷砸破了店里的玻璃门，把收银机偷走了。"（"砸破"用 **smash in** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The thieves smashed in the shop's glass door and stole the cash register.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [2]（#497 题里）· 她标「这个词组背下」· 原话 `I had my car window smashed in（这个词组背下） while parked on the street.`
+
+### 530 · **come top (of sth)**（拿第一：came top of her grade；⛔ came the top of）
+类型 搭配 ｜ 新建 2026-10-22
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**come top (of the class／of her grade／in the exam)** ＝ 考第一、排第一，**top 前不加 the**。也说 **come first in** ＋ 范围（came first in her grade）。
+同一格里的邻居（别串）：be (at) the top of the class（在班里排第一的那个位置 —— 这里有 the）· rank first（排名第一，偏正式）· 🎓#434 two years straight（连续两年）。
+判据一句话：动词是 come ⇒ come top（无 the）／come first；动词是 be ⇒ be (at) the top of。
+★ 题型判整句：考点是 come 后面 top 带不带 the，靠句子才现形；类型 搭配、缺口不是"调不调得出来" ⇒ 整句 ＋ 正向点名 come top。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 4 组 [5]（🎓#434 题面"她连续两年拿了全年级第一。"）· 原话
+`She came the top of the grade for two straight years.`
+#434 的 straight 对（✅）；"拿第一"落成 came the top of —— 把 come top of 与 be the top of 两个块混了 ⇒ ❌ 真错（搭配：块内的冠词是块的一部分，⛔ 不是形态类：同一篇没有她做对过的同一形态）。
+判重三步：
+　① 目标形式 dedup "came top" ⇒ 零命中；dedup "top of" ⇒ 🎓#340（a step up from that，⛔ on top of that）· ⛔#56 · 🎓#81 #98 #206 #254 #317 #422 #445（历史行字样）⇒ 全否
+　② 中文 dedup "第一名" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`came the top of the grade`　　正确：`came top of her grade` ／ `came first in her grade`
+找法：说"拿了第一"先落 came top of ／ came first in —— 动词是 come，top 前面就不加 the。
+
+**题面**
+"我表弟这次期末考试考了全班第一。"（"考了第一"用 **come top** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My cousin came top of his class in the final exams this term.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [5]（#434 题里）· 原话 `She came the top of the grade for two straight years.` ⇒ 最小改 came top of the grade（更好版 came top of her grade）
+
+### 531 · **pass out**（晕倒、昏过去）
+类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pass out** ＝ 晕倒、失去知觉（口语最常用）：`He passed out from the heat.` · `I nearly passed out.` · `An old man passed out on the subway.`
+同一格里的邻居（别串）：faint（晕倒，偏书面一点）· black out（眼前一黑、断片）· collapse（突然倒下，不一定昏过去）· come to／come around（醒过来）。
+判据一句话：说"晕倒、昏过去"口语先 pass out；醒过来 ⇒ come to。
+★ 题型判整句："晕倒"能落到 faint／collapse 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 pass out。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 4 组 [7]（🎓#335 题面"有个老人在地铁上晕倒了，周围的人都愣住了，只有他马上采取了行动。"）· 原话
+`An old man passed out（这个词组学下） on the subway and people around just froze, but he was the only one who took action right away.`
+她用对了 passed out，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号（同 #519–#524 先例）。
+判重三步：
+　① 目标形式 dedup "pass out"／"passed out" ⇒ 零命中
+　② 中文 dedup "晕倒" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `passed out`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"晕倒了"先落 passed out。
+
+**题面**
+"天太热了，好几个军训的学生站着站着就晕倒了。"（"晕倒"用 **pass out** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：It was so hot that several students passed out while standing at military training.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [7]（#335 题里）· 她标「这个词组学下」· 原话 `An old man passed out（这个词组学下） on the subway and people around just froze, but he was the only one who took action right away.`
+
+### 532 · **credit**（功劳、认可）不可数：deserve credit · give sb credit（⛔ credits）
+类型 词汇 ｜ 新建 2026-10-22
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**credit** 当"功劳、认可"讲**不可数**：`deserve credit` · `give sb credit for sth` · `take (the) credit for sth` · `get all the credit`；要加量用 a lot of／most of the credit。
+加了 s 的 **credits** 是另一个意思：学分（earn 30 credits）、片尾字幕（the credits）。
+同一格里的邻居（别串）：🎓#341 deserve vs worth（那条管动词，本条管名词可数性）· praise 同样不可数（deserve praise）。
+判据一句话：说"功劳／认可" ⇒ credit 不加 s；说学分、字幕 ⇒ credits。
+★ 与 🎓#261 分工：#261 正文写明「具体某个词的可数性各留各条」⇒ 本条单列，⛔ 不往已毕业的合并条里塞成员。
+★ 题型判整句：可数性靠句子才现形；类型 词汇但考点是"加不加 s"，孤立翻"功劳"测不到 ⇒ 整句 ＋ 正向点名 credit。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 4 组 [10]（🎓#341 题面"这次运动会办得这么顺利，那些志愿者真值得表扬。"）· 原话
+`Since the sports event went so smoothly, those volunteers truly deserve credits.`
+#341 的 deserve 对（✅，没落成 worth praise）；credit 加了 s ⇒ ❌（credits ＝ 学分／字幕，换了词义 ⇒ 选词层面，⛔ 不是形态类）。
+★ 如实记：2026-10-01 复检 #341 她写过 `deserves a lot of credit`（对）—— 不在同一篇，§3.4 执行自查口径是"同一篇"⇒ 不按形态类 ⚪ 处理；若下次单独测稳，就照常两次毕业。
+判重三步：
+　① 目标形式 dedup "credit" ⇒ 🎓#341（deserve praise／credit：考 deserve vs worth）· 🎓#27（the credit gets shared：考 get-passive，已退池）⇒ 都否
+　② 规则层：🎓#261（这一小撮抽象名词不可数）⇒ 同类规则，但该条正文写明具体词的可数性各留各条 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`deserve credits`　　正确：`deserve credit`
+找法：写完 credit 回头看一眼：说的是功劳吗？是 ⇒ 去掉 s。
+
+**题面**
+"这个项目能做成，小王的功劳最大。"（"功劳"用 **credit** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Xiao Wang deserves most of the credit for getting this project done.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（#341 题里）· 原话 `Since the sports event went so smoothly, those volunteers truly deserve credits.` ⇒ 最小改 deserve credit
+
 ## 迁移说明（2026-08-18）
 
 ```
