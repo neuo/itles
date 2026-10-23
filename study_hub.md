@@ -8,6 +8,14 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-22 · 口语 R（付息日 · 周期 13 收尾）· 已收尾**
+  —— 在池 2 组 **15 题 / 15 条 ✅15 ❌0**；复检 3 组 **26 题 / 31 条 ✅30 ❌1**；🎓#340（a step up from that）❌ ⇒ 回潮 1
+  —— 🎓 **毕业 7 条**（#215 #511 #512 #513 #514 #516 #517）⇒ 全档 **512** ＝ problems 31 ＋ graduated **481**（93.9%）
+  —— 🆕 **新建 11 条** #525–#535（她标背下／学下 8：down jacket · in public · get the hang of · smash in · pass out · wreath · pinecone · ribbon ｜ 真错 2：come top（⛔ came the top of）· credit 不可数 ｜ ⚠️ 1：on the doorstep）
+  —— ⓪ 回看 bank:991 · bank:308；c 段 合并 0 · 拆号 0；d 段 bank:211 题面已发，她喊停收尾 ⇒ 0 道（仍是 redo 第 1 行）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄1（中途）· 收尾无可搬
+  —— **下一场 ＝ 周期 14 · L1**：#525–#535 首测 ＋ 回潮 #340 ＋ 连对1 的 9 条；复检 1 组；② 回看以 `lookback --pending` 为准；④ 重答 bank:211 ＋ 与旧答对比（首答在 coach/fluency_lab.md:L6136，完整版／diff 在 L6243–L6325）
+
 🆕🆕🆕 **2026-10-21 · 口语 L3（周期 13 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 2 组 **20 题 / 21 条 ✅21 ❌0**；题里顺带 🎓#436（downstairs from）❌ ⇒ 回潮 1
   —— 🎓 **毕业 5 条**（#506 #507 #508 #509 #510）⇒ 全档 **501** ＝ problems 26 ＋ graduated **475**（94.8%）
