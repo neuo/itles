@@ -655,7 +655,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）
+状态 连对2 连错0 上次2026-10-22 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **🎓 已毕业 2026-10-22**（连对2 ＝ 10-21 ＋ 10-22；10-20 回潮后第二次毕业）
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
@@ -704,6 +704,7 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-10-20 📝 题面整改（§6②）：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求 ⇒ 换成正向点名 after getting home ＋ 中文主语错位的整句（妈妈下班一回到家，孩子们已经把晚饭做好了）
 - 2026-10-21 ✅ 学习日 在池第 1 组 [1] · `When my dad got back from his business trip, the driver was already waiting at the exit right after he got off the plane.` —— 主句主语是司机 ⇒ 她没有把 -ing 挂到司机身上，换成带自己主语的 after he got off the plane（同 09-07 先例：不硬套 -ing ＝ 本条要的判断）。连错 1 → 连对 1
   ｜ 题面点名 after getting off the plane 她改成了从句 —— 合法且贴题面 ⇒ ✅；种子不改（再加"保留 -ing"就是形式要求，§6② 禁）
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [1] · `Right after walking out of the exam room, my sister was greeted by her boyfriend with a big bouquet of flowers.` —— 走出考场的是姐姐，她用被动 my sister was greeted by … 把姐姐放到主句主语上（中文后半句主语是男朋友，-ing 没挂过去）。连对 1 → 2 ⇒ **毕业**
 
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
@@ -755,7 +756,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）
 
 **问题是什么**
 **downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
@@ -785,10 +786,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-10 ✅ 学习日 在池第 1 组 [8] · `There's a coffee shop downstairs from our company, with a huge line every morning.` —— downstairs from ＋ 地方。连对 1 → 2 ⇒ **毕业** ｜ ⚠️ our company → our office ⇒ 另建 #443
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [5] · `The elderly couple downstairs from our place gets up at five every morning to do Tai Chi.` —— downstairs from our place
 - 2026-10-21 ❌ 学习日 复检第 3 组 [1]（#474 题里）· `There's a subway entrance right downstairs their building, …` —— downstairs 后面挂参照物漏了 from ⇒ 最小改 right downstairs from their building（更好版 right outside their building，整栋楼的楼下 ＝ 楼门口外）⇒ 🎓 回潮
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [2] · `My cousin opened a little bakery downstairs from the apartment building he lives in.` —— downstairs from ＋ 参照物，from 在。连错 1 → 连对 1
+  ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
 
 ### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **auction** ＝ 拍卖：东西摆出来，大家举牌出价，价高者得：
@@ -816,10 +819,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [5]b（#410 题里）· 她标「背下」· 原话 `the annual autumn charity auction(背下) hosted by the neighborhood`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [7] · `an antique auction`。连错 1 → 连对 1
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [3] · `a charity auction for celebrity-signed jerseys` —— 举牌竞价 ⇒ auction。连对 1 → 2 ⇒ **毕业**
 
 ### 512 · **finish ＋ 东西**（"看完／吃完／读完" ⇒ finish the cartoon：中文的"V完"直接落在 finish 上）
 类型 搭配 ｜ 新建 2026-10-20 ｜ ⭐ 她问怎么说
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 中文"V完"（看完／吃完／读完／写完）⇒ **finish ＋ 东西**（或 finish ＋ V-ing）：
@@ -848,10 +852,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [6]（#476 题里）· 她问"看完"怎么说（自己查到 to the end）· 原话 `… he insists on watching his cartoon to the end.`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [8] · `As soon as I finish this novel, I'll pass it along to you.` —— finish this novel ✓。连错 1 → 连对 1
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [4] · `Finish this bowl of noodles before you go and play your video games.` —— finish ＋ 东西。连对 1 → 2 ⇒ **毕业**
 
 ### 513 · **pajamas**（睡衣；永远带 s：in my pajamas · a pair of pajamas）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **pajamas** ＝ 睡衣（上衣加裤子一套），永远复数：`in my pajamas`（穿着睡衣）· `change into my pajamas` · `a pair of pajamas`（一套）；英式拼 pyjamas。
@@ -879,10 +884,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [9] · `a set of bear-print pajamas`。连错 1 → 连对 1
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [5] · `a set of pure cotton striped pajamas` —— pajamas（带 s）。连对 1 → 2 ⇒ **毕业**
 
 ### 514 · **gown**（女士的长礼服：an evening gown · a ball gown；男士 ⇒ tuxedo）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **gown** ＝ 女士穿的长款礼服：`an evening gown`（晚礼服）· `a ball gown`（大裙摆礼服）· `a wedding gown`（婚纱，也说 wedding dress）；毕业袍也叫 gown（`cap and gown`）。
@@ -911,6 +917,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 4 组 [5]（#416 题里）· 她标「背下」· 原话 `On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [10] · `that floor-length evening dress she wore to the awards ceremony` —— 答 evening dress 合法且贴题面（§3.3 合法但不是条目预期 ⇒ ✅）。连错 1 → 连对 1
 - 2026-10-21 📝 题面整改（§3.3 硬顺序③ ／ §6.0 词组题换场景时把中文语境写得更具体）：今天答 evening dress 合法 ⇒ 种子换成"灰姑娘去王子舞会穿的那条大裙摆礼服"（大裙摆舞会礼服 ⇒ ball gown，dress 落不上去），零英文提示照旧
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [6] · `that ball gown with a floor-length skirt that Cinderella wore to the prince's ball` —— ball gown。连对 1 → 2 ⇒ **毕业**
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
@@ -946,7 +953,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 **distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
@@ -974,10 +981,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S6 · 原话 `I distinctively remember spending an entire month staying in my dorm room, …` ⇒ 最小改 I distinctly remember
 - 2026-10-21 ✅ 学习日 在池第 2 组 [1] · `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（…需要学下） against the window looking outside.` —— I distinctly remember ✓。连错 1 → 连对 1 ｜ 同句她标学下的 spend ＋ 时间 ＋ 状态 ⇒ 新建 #518
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [7] · `I distinctly remember the day my Gaokao scores came out—my mom got so emotional she cried.` —— distinctly（-ly）。连对 1 → 2 ⇒ **毕业**
 
 ### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
 类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 **not bother to do ／ not bother doing** ＝ 没费那个事去做（该做的没做，常带点批评或无所谓）：
@@ -1007,10 +1015,12 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S8 · 她标「学一下」· 原话 `… but the organizers didn't bother to(学一下) enforce it on the spot.`
 - 2026-10-21 ✅ 学习日 在池第 2 组 [2] · `He left without even bothering to say goodbye.` —— bother to do 的块在，否定落在 without 上。连错 1 → 连对 1
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [8] · `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` —— didn't even bother knocking（bother doing ＝ bother to do 同一个块）。连对 1 → 2 ⇒ **毕业**
+  ｜ ⚠️ at the entrance → on the doorstep ⇒ 新建 #525
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **spend ＋ 一段时间 ＋ 状态** ＝ 那段时间里主语一直处在某种状态。时间后面直接挂一个描述**主语**的成分，不用 being、不用 and：
@@ -1039,10 +1049,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：The snow went on for two days, and we spent the whole weekend stuck at home.
 
 - 2026-10-21 ❌ 首犯 · 学习日 在池第 2 组 [1]（#516 题里）· 她标「这种语法结构需要学下」· 原话 `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [9] · `It snowed heavily for two days, so my whole family ended up spending the entire weekend stuck at home.` —— spending the entire weekend stuck at home（时间后面直接挂 stuck，没加 being／and）。连错 1 → 连对 1
 
 ### 519 · **run errands**（出门办事、跑腿：run (some) errands · run an errand for sb）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **run errands** ＝ 出门办些零碎的事（取快递、去银行、买东西、交费）：`I have to run some errands this afternoon.` · `Running errands is easy from here.`
@@ -1069,6 +1080,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 ★ 目标形式（教练看，⛔ 不进发题稿）：I need to go out and run some errands this afternoon — could you keep an eye on the kids?
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [1]（#474 题里）· 她标「这个学下」· 原话 `… so running errands(这个学下) is super convenient.`
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [10] · `I have to run some errands this afternoon—could you keep an eye on the kid for a bit?` —— run some errands。连错 1 → 连对 1
 
 ### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
@@ -1215,6 +1227,36 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the five-day itinerary the travel agency sent over
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [6]（#431 题里）· 她标「背下」· 原话 `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+
+### 525 · **on the doorstep**（家门口：东西放在某户人家门外那一小块；⛔ at the entrance）
+类型 词组 ｜ 新建 2026-10-22
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**on the doorstep** ＝ 家门口（门外紧挨着门的那一小块地方）：`left the package on my doorstep` · `found a bag of oranges on the doorstep`。
+同一格里的邻居（别串）：at the door／outside the door（门口，泛说）· on the porch（独栋房子的门廊）· **entrance**（入口，多指楼、商场、场馆的大门：the building entrance）· 比喻义 right on our doorstep ＝ 就在家门口、离得很近（范文里见过，考点不是它）。
+判据一句话：东西放在某户人家门外 ⇒ on the doorstep／at the door；楼、场馆的大门 ⇒ entrance。
+★ 题型判整句："门口"能落到 at the door／outside the door 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 doorstep。
+
+**怎么发现的**
+2026-10-22 付息日 a 段在池第 1 组 [8]（#517 题面"快递员连门都没敲，直接把包裹扔在了门口。"）· 原话
+`The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.`
+考点 bother 用对（#517 ✅）；diff-2 ⚠️："门口"落成 at the entrance —— entrance 多指楼或场馆的入口，敲门的那扇门外面 ⇒ on the doorstep ⇒ §3.2b 能学的表达 ⇒ 建号（同 🎓#443 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "doorstep" ⇒ 零命中（她自己没产出过；只在 examples 范文里出现过比喻义 on our doorstep）
+　　 dedup "entrance" ⇒ 🎓#375（cardboard box）· #436（downstairs from）· 🎓#502（cram school）· #519（run errands）—— 只是历史行里带 entrance 字样 ⇒ 否
+　② 中文 dedup "门口" ⇒ 🎓#453（apartment complex，考"小区"）· 🎓#16（get sb to do）· 🎓#428（be featured in）· 🎓#443（office）· 🎓#473（楼外街上经过 past／by my building）· #436（downstairs from）—— 都只是题面／正文里带"门口"二字，没有一条以"家门口 ＝ doorstep"为考点 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`dropped the package at the entrance`　　更地道：`dropped the package on the doorstep`
+找法：说"放在（谁家）门口"先落 on the doorstep；entrance 留给楼、商场、场馆的大门。
+
+**题面**
+"早上一开门，发现门口放着一袋邻居送来的橘子。"（"门口"用 **doorstep** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：When I opened the door this morning, I found a bag of oranges from my neighbor on the doorstep.
+
+- 2026-10-22 ❌ 首犯 · 付息日 a 段在池第 1 组 [8]（#517 题里）· diff-2 ⚠️ · 原话 `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` ⇒ 更好版 on the doorstep
 
 ## 迁移说明（2026-08-18）
 
