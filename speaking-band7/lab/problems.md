@@ -653,59 +653,6 @@ what did you **eat** yesterday · nor **did he tell**（倒装之后仍然是原
 - 2026-09-30 ⚪ 付息日 a 段在池第 1 组 [9] · `This living shopping hosts …` → These（同组 [8]／[10] 限定词全对 ⇒ 形态类，只记录）
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `pulled three all-nighter` → three all-nighters（同句 tickets 复数标对 ⇒ 形态类，只记录）
 
-### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
-类型 结构 ｜ 旧号 B153
-状态 连对2 连错0 上次2026-10-22 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **🎓 已毕业 2026-10-22**（连对2 ＝ 10-21 ＋ 10-22；10-20 回潮后第二次毕业）
-
-**问题是什么**
-**-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
-· 成立：`kids put toys away **after playing** them.`（playing 的人就是主句主语 kids）
-· **不成立**：玩的是孩子、收的是我 ⇒ 只能换成带自己主语的从句（`After kids played toys, I put them away.`）
-同一格里的邻居（别串）：🎓#182 by ＋ -ing（by 后面那个动作同样得是主句主语做的）。
-★ 最容易诱出悬空 -ing 的是中文话题句「X 以后，<另一个人>……」：前半句的人和后半句的主语不是同一个（10-20 就是这么掉的）。
-两种改法：① 写带自己主语的从句（After he finished grad school, his advisor …）② 想保留 -ing，就让做那个动作的人当主句主语（After finishing grad school, he was asked by his advisor …）。
-判据一句话：-ing 那个动作是谁做的？跟主句主语不是同一个人 ⇒ ⛔ 不许省主语。
-
-**怎么发现的**
-旧 B 表迁移（B153，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
-2026-08-13 ✅ ／ 2026-08-15 ✅ ⇒ 连对 3，毕业。
-2026-09-07 复检第 5 组 ✅ 两句分别处理 —— 句 1 用 -ing、句 2 换成带自己主语的 After 从句，正是本条要她做的判断。
-2026-10-20 学习日 在池第 2 组 [3]（#490 题面"他研究生毕业以后，导师问他要不要留在实验室接着干，他就留下来了。"）第一次真掉 · 原话
-`After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.`
-⇒ §3.6 退池条目又掉 ⇒ 撤销退池、判 ❌、回潮（判重：本条就是这条规则，⛔ 不另建）。
-
-**我错在哪**
-她的：2026-10-20 `After finishing grad school, his advisor asked …`（finishing 的是他，主句主语却是 his advisor ⇒ 读成"导师毕业了"）　　正确：`After he finished grad school, his advisor asked …`
-（此前判定全是 ✅；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。）
-找法：要用 -ing 开头之前先问一句 —— 这个动作是主句主语做的吗？不是就老实写从句。
-
-**题面**
-"妈妈下班一回到家，孩子们已经把晚饭做好了。"（"一回到家"用 **after getting home** 说）
-　　★ 陷阱在后半句：中文主语换成了孩子们，-ing 又被点名保留 ⇒ 主句主语必须改成妈妈（After getting home from work, Mom found the kids had already made dinner.）；写成 After getting home …, the kids … ⇒ ❌
-　　★ 2026-10-20 改：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求（§6② 禁），换成正向点名 ＋ 主语错位的整句
-
-- 2026-08-09 ✅
-- 2026-08-13 ✅
-- 2026-08-15 ✅
-- 2026-09-07 📝 题面补「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」：
-  原题面两句都可以整句用 after 从句译出，-ing 一次不出现 ⇒ 本条考点（逻辑主语＝主句主语）
-  结构上测不到。新写法⛔ 不透露是哪一句不能用。
-- 2026-09-07 ✅ 复检 · 第 5 组 · `kids put toys away after playing them.` ／
-  `After kids played toys, I put them away.`
-  —— 句 1 playing 的逻辑主语＝主句主语 kids ⇒ -ing 合法；句 2 玩的是孩子、收的是我 ⇒
-  她没有硬套 -ing、换成带自己主语的 After 从句 ⇒ 正是本条要她做的判断
-  ｜ ⚠️ play toys → play **with** toys（同题两次）⇒ 新建 #322
-  ｜ ⚪ After kids → After **the** kids ⇒ 归 #63（形态类只记录）
-- 2026-09-19 ⚡ 自评免测 · 复检第 2 组
-- 2026-09-29 📝 退池 · ④ 底子不明 ＋ 基础形式
-  旧 B 表迁移、原话未存、历史零 ❌；-ing 短语的逻辑主语她每次都判对（09-07 两句分别处理正是这一判断）
-- 2026-10-20 📝 撤销退池 · 学习日 在池第 2 组 [3]（#490 题里）她写 `After finishing grad school, his advisor asked …` —— 09-29 按 ④「历史零 ❌」退池，今天真掉 ⇒ §3.6 删掉状态行的退池
-- 2026-10-20 ❌ 学习日 在池第 2 组 [3]（#490 题里）· `After finishing grad school, his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— finishing 的是他，主句主语是 his advisor ⇒ 最小改 After he finished grad school, his advisor asked … ⇒ 🎓 回潮
-- 2026-10-20 📝 题面整改（§6②）：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求 ⇒ 换成正向点名 after getting home ＋ 中文主语错位的整句（妈妈下班一回到家，孩子们已经把晚饭做好了）
-- 2026-10-21 ✅ 学习日 在池第 1 组 [1] · `When my dad got back from his business trip, the driver was already waiting at the exit right after he got off the plane.` —— 主句主语是司机 ⇒ 她没有把 -ing 挂到司机身上，换成带自己主语的 after he got off the plane（同 09-07 先例：不硬套 -ing ＝ 本条要的判断）。连错 1 → 连对 1
-  ｜ 题面点名 after getting off the plane 她改成了从句 —— 合法且贴题面 ⇒ ✅；种子不改（再加"保留 -ing"就是形式要求，§6② 禁）
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [1] · `Right after walking out of the exam room, my sister was greeted by her boyfriend with a big bouquet of flowers.` —— 走出考场的是姐姐，她用被动 my sister was greeted by … 把姐姐放到主句主语上（中文后半句主语是男朋友，-ing 没挂过去）。连对 1 → 2 ⇒ **毕业**
-
 ### 324 · other 是限定词、others 才是代词（happier than **others**）
 类型 语法 ｜ 新建 2026-09-07
 状态 连对0 连错0 上次 — 未毕业 ｜ **形态类·不召回** ｜ ⚪ **只记录·不出题** ｜ 题型 整句
@@ -754,6 +701,53 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
+### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
+类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-22**（09-21 毕业 → 10-22 复检第 5 组 [5] `taking it a step up is being able to …`：没落到块 a step up from that、退回动词的路，撤销毕业、连对清零）
+
+**问题是什么**
+**a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
+同一格里的邻居（别串）：**on top of that ／ plus ／ also** ＝ 平级追加（再加一条，不分高低）——
+她自己点出这两个"体现不出来"，对：它们没有"高一档"那层。
+⛔ `stepping it up a bit, things like …` 悬空：分词没有逻辑主语（谁在 step up？句子主语是 things）。
+判据一句话：新一条比前一条**更高一档**吗？是 ⇒ a step up from that；只是再加一条 ⇒ on top of that。
+★ 与 🎓#262（口语转折工具箱 Then again／That said）分工：那条是话锋一转，本条是往上一档；
+　与 🎓#283（It's really about A first, and then B）分工：那条排先后收尾，本条升档。
+
+**怎么发现的**
+2026-09-13 学习日 新题 bank:238（P3 · What kinds of behavior are considered as good behavior?）· 触发原话
+`But stepping it up a bit, things like showing up on time and meeting your deadlines … are totally worth praise.`
+她自标："这句要学下，on top of that 或者 plus 体现不出来"（§2③ 她主动提出的）。
+判重三步：
+　① 目标形式 a step up from that ⇒ dedup "step" ⇒ 🎓#281 step back（另一个块）· 🎓#327 foothold（无关）· #49（历史行）⇒ 都否
+　　　🎓#262 转折工具箱 ＝ 转折不是递进 ⇒ 否；🎓#283 A first, and then B ＝ 排先后不是升档 ⇒ 否
+　② 中文 "台阶" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`But stepping it up a bit, things like … are …`　　正确：`A step up from that, things like … deserve …`（或 `Going a step further, …`）
+找法：写"更进一步"之前先问 —— 是升档还是平级加一条？升档 ⇒ a step up from that；⛔ 别让分词悬着。
+
+**题面**
+"准时上班是最基本的；再往上一档，是主动帮同事分担活儿。"（"再往上一档"用 **a step up** 说）
+
+- 2026-09-13 新建 · 新题 bank:238（P3）· 她点名要学 · `But stepping it up a bit, things like showing up on time …`
+- 2026-09-15 ✅ 学习日 在池第 2 组 · `a step up from that.` —— 首测一字不差；连对1
+- 2026-09-19 📝 题面整改：补「step 当名词用」· 发题前审核（§6.5 第 7 项）
+  `step it up` 同样用 step、单看"再往上一档"也说得通（加把劲），但它是动词用法，正是 09-13 触发句 stepping it up 那条路 ⇒ 限定成名词，逼出 a step up／a step further
+- 2026-09-19 ❌ 付息日 a 段在池第 1 组 · `a step up for that`
+  最小改 `a step up from that`
+  ❌ 块内固定的介词是 from（比"那个"再高一档 ＝ 从那一档往上）；for 不在这个块里。a step up 本身对
+- 2026-09-20 📝 题面整改：排除项补 `／above` · 发题前审核（§6.5 第 7 项）
+  `a step above that` 同样用 step 当名词、也是"高一档"，单看题面完全合法 ⇒ 她答它得判 ✅，而块内那个 from（09-19 掉的正是它）就白测一次 ⇒ 排掉 above，把答案收敛到 a step up from that／going a step further
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `a step up from that.` —— 块内固定介词 from（09-19 掉的正是它，写成 for）；本场发题前已把 above 排除
+- 2026-09-21 ✅ 学习日 在池第 1 组 [2] · `a step up from that.` —— 逐字命中目标块，step 当名词，没走 on top of／plus／above。连对 1 → 2 ⇒ 🎓
+- 2026-09-27 ⚡ 自评免测 · 复检第 2 组（她原话："2.d 忘了，其他直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  去掉"step 当名词／⛔ on top of／plus／above"，她点名要学的块 ⇒ 直接点名 a step up，from that 怎么接留给她（09-19 掉过）；换成职场表现场景
+- 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [4] · `Knowing how to cook is one thing; a step up from that is pulling off a proper New Year's Eve feast.` —— a step up from that
+- 2026-10-22 ❌ 复检 · 付息日 a2 段复检第 5 组 [5] · `Knowing how to drive is one thing; taking it a step up is being able to drive steadily in a blizzard.` —— "再往上一档"没落到块 a step up from that，退回动词的路（take it a step further 与 take it up a notch 混搭）⇒ 最小改 a step up from that is being able to … ⇒ 🎓 回潮
+
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
 状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）
@@ -789,136 +783,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [2] · `My cousin opened a little bakery downstairs from the apartment building he lives in.` —— downstairs from ＋ 参照物，from 在。连错 1 → 连对 1
   ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
 
-### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
-类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
-
-**问题是什么**
-**auction** ＝ 拍卖：东西摆出来，大家举牌出价，价高者得：
-`a charity auction`（慈善拍卖）· `sell sth at auction` · `put sth up for auction` · `bid at an auction`（出价）。
-同一格里的邻居（别串）：**charity sale**（义卖：标好价钱直接卖、钱捐出去；社区里常见的 bake sale／rummage sale）· 🎓#410 charity（慈善／慈善机构，管的是"慈善"这个词）· sale（促销，也泛指卖）。
-判据一句话：有人"出价、比谁出得高" ⇒ auction；标好价钱直接卖 ⇒ sale。
-★ 题型判词组：一个名词块，缺口只是调不调得出来；中文"拍卖"映射回 auction，唯一可判。
-
-**怎么发现的**
-2026-10-20 学习日 复检第 3 组 [5]b（🎓#410 题面"社区每年秋天办的慈善义卖"）· 原话
-`the annual autumn charity auction(背下) hosted by the neighborhood`
-她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #502 #507 先例）。题面是"义卖"（标价卖），她落到了 auction（拍卖）⇒ 邻居 charity sale 一起写进正文。
-判重三步：
-　① 目标形式 dedup "auction"／"charity sale" ⇒ 零命中
-　② 中文 dedup "拍卖"／"义卖" ⇒ 零命中；🎓#410 charity 只管"慈善"这个词，不管拍卖还是义卖 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`charity auction`（词不在手边，自己标背下；题面的"义卖"其实更贴 charity sale）　　目标：拍卖 ⇒ auction ／ 义卖 ⇒ charity sale
-找法：先问有没有人举牌竞价 —— 有 ⇒ auction；标好价钱直接卖 ⇒ sale。
-
-**题面**
-"古董拍卖会"（大家举牌出价、价高的人把东西拿走的那种）
-★ 目标形式（教练看，⛔ 不进发题稿）：an antiques auction
-
-- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [5]b（#410 题里）· 她标「背下」· 原话 `the annual autumn charity auction(背下) hosted by the neighborhood`
-- 2026-10-21 ✅ 学习日 在池第 1 组 [7] · `an antique auction`。连错 1 → 连对 1
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [3] · `a charity auction for celebrity-signed jerseys` —— 举牌竞价 ⇒ auction。连对 1 → 2 ⇒ **毕业**
-
-### 512 · **finish ＋ 东西**（"看完／吃完／读完" ⇒ finish the cartoon：中文的"V完"直接落在 finish 上）
-类型 搭配 ｜ 新建 2026-10-20 ｜ ⭐ 她问怎么说
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
-
-**问题是什么**
-中文"V完"（看完／吃完／读完／写完）⇒ **finish ＋ 东西**（或 finish ＋ V-ing）：
-`finish his cartoon`（看完动画片）· `finish your dinner`（吃完饭）· `finish the book`（读完）· `finish watching the episode`。
-⇒ "看""吃""读"往往不用翻出来，宾语已经把它说清楚了。
-同一格里的邻居（别串）：watch sth to the end（一直看到结尾、不中途停）· 🎓#390 get through ＋ 书／一堆活儿（啃完一大堆）· be done with sth（弄完了、不想再碰）。
-判据一句话：只是说"把这个 V 完" ⇒ finish ＋ 东西；强调"看到最后一分钟" ⇒ watch it to the end；"啃完一大堆" ⇒ get through。
-★ 题型判整句：finish 后面挂名词还是 -ing、"看"要不要说出来，靠句子才现形；"看完"又能落到 watch to the end／get through 一串合法说法 ⇒ 整句 ＋ 第一次整块点名（她问怎么说 ⇒ 练）。
-
-**怎么发现的**
-2026-10-20 学习日 复检第 3 组 [6]（🎓#476 题面"我儿子特别倔，说好了九点上床，他非要把动画片看完。"）· 原话
-`… he insists on watching his cartoon to the end.(看完我一直在想有没有个 一个动词词组来说，没想到就查了下，to the end 很简单，但是为啥想不到呢，感觉还是对语法的主动使用不够自然和熟练)`
-她说"看完"想不出来、查到的 to the end ⇒ §2③ 她说不会／问怎么说 ⇒ 建号，判 ❌（§3.2b：说不出、最后查到写对了也照常建号）。
-判重三步：
-　① 目标形式 dedup "finish" ⇒ 🎓#390（get through，啃完一大堆；finish 只是它正文里的邻居）· 🎓#28 #460 #16（正文／历史字样）⇒ 都否；"to the end" ⇒ 零命中
-　② 中文 dedup "看完" ⇒ 命中的都是题面字样（🎓#386 #452 等）；🎓#390 讲的是"啃完一大堆" ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：想找一个"看完"的动词词组，没想到，查到 `watching his cartoon to the end`（对，但不是最省的）　　目标：`he insists on finishing his cartoon`
-找法：中文出现"V完"，先试 finish ＋ 那个东西，"看／吃／读"多半不用翻。
-
-**题面**
-"等我把这本小说看完，就借给你。"（"看完"用 **finish** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Once I finish this novel, I'll lend it to you.
-
-- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [6]（#476 题里）· 她问"看完"怎么说（自己查到 to the end）· 原话 `… he insists on watching his cartoon to the end.`
-- 2026-10-21 ✅ 学习日 在池第 1 组 [8] · `As soon as I finish this novel, I'll pass it along to you.` —— finish this novel ✓。连错 1 → 连对 1
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [4] · `Finish this bowl of noodles before you go and play your video games.` —— finish ＋ 东西。连对 1 → 2 ⇒ **毕业**
-
-### 513 · **pajamas**（睡衣；永远带 s：in my pajamas · a pair of pajamas）
-类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
-
-**问题是什么**
-**pajamas** ＝ 睡衣（上衣加裤子一套），永远复数：`in my pajamas`（穿着睡衣）· `change into my pajamas` · `a pair of pajamas`（一套）；英式拼 pyjamas。
-★ 自己那套一般说 my pajamas（some pajamas 听着像随便找了一套）。
-同一格里的邻居（别串）：nightgown（睡裙，一件式）· bathrobe（浴袍）· loungewear（家居服）· 🎓#411 change out of ＋ 衣服（换下来）。
-判据一句话：上下两件的睡衣 ⇒ pajamas（带 s、配 my）；一件式睡裙 ⇒ nightgown。
-★ 题型判词组：一个名词，缺口只是调不调得出来；"睡衣"映射回 pajamas（答 sleepwear 合法且贴题面 ⇒ 照判 ✅）。
-
-**怎么发现的**
-2026-10-20 学习日 复检第 3 组 [10]（🎓#411 题面"我下班回家第一件事，就是把西装换下来，换上睡衣。"）· 原话
-`The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
-她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 先例）。同句 some pajamas → my pajamas 写进正文。
-判重三步：
-　① 目标形式 dedup "pajamas"／"pyjamas" ⇒ 只命中 🎓#411（正文里 change into my pajamas 的例句，考点是 change out of）⇒ 否
-　② 中文 dedup "睡衣" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 pajamas，但词不在手边（自己标背下）；前面用了 some　　目标：`change out of my suit and into my pajamas`
-找法：说"睡衣"先落 pajamas，s 带上；自己那套就说 my pajamas。
-
-**题面**
-"一套印着小熊的睡衣"（晚上睡觉穿的上衣加裤子）
-★ 目标形式（教练看，⛔ 不进发题稿）：a pair of pajamas with little bears on them
-
-- 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
-- 2026-10-21 ✅ 学习日 在池第 1 组 [9] · `a set of bear-print pajamas`。连错 1 → 连对 1
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [5] · `a set of pure cotton striped pajamas` —— pajamas（带 s）。连对 1 → 2 ⇒ **毕业**
-
-### 514 · **gown**（女士的长礼服：an evening gown · a ball gown；男士 ⇒ tuxedo）
-类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
-
-**问题是什么**
-**gown** ＝ 女士穿的长款礼服：`an evening gown`（晚礼服）· `a ball gown`（大裙摆礼服）· `a wedding gown`（婚纱，也说 wedding dress）；毕业袍也叫 gown（`cap and gown`）。
-同一格里的邻居（别串）：tuxedo（男士礼服）· formal wear（礼服统称，男女都包）· dress（裙子，日常的也算）· 🎓#416 gala（盛大的晚会，礼服常在这种场合出现）。
-判据一句话：女士的正式长礼服 ⇒ gown；男士 ⇒ tuxedo；男女一起说"穿着礼服" ⇒ in formal wear。
-★ 题型判词组：一个名词块，缺口只是调不调得出来；"女士的拖地晚礼服"映射回 evening gown（答 evening dress 合法且贴题面 ⇒ 照判 ✅）。
-
-**怎么发现的**
-2026-10-20 学习日 复检第 4 组 [5]（🎓#416 题面"电影节闭幕那天晚上有一场盛大的晚会，明星们都穿着礼服走红毯。"）· 原话
-`On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
-她自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 先例）。题面"明星们"男女都有 ⇒ 男女一起说是 formal wear，写进邻居。
-判重三步：
-　① 目标形式 dedup "gown"／"tuxedo" ⇒ 零命中
-　② 中文 dedup "礼服" ⇒ 只命中 🎓#416（题面字样，考点是 gala）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 gowns，但词不在手边（自己标背下）　　目标：`walking the red carpet in gowns`（女明星）／ `in formal wear`（男女都算）
-找法：说"（女士的）礼服／晚礼服"先落 gown；男士的是 tuxedo。
-
-**题面**
-"灰姑娘去王子舞会穿的那条大裙摆礼服"（裙摆蓬起来、长到拖地的那种）
-★ 目标形式（教练看，⛔ 不进发题稿）：the ball gown Cinderella wore to the prince's ball
-★ 2026-10-21 改：旧种子"颁奖典礼上她穿的那件拖地晚礼服"她答 evening dress（合法且贴题面 ⇒ ✅）⇒ 中文语境写到"大裙摆舞会礼服"，落点只剩 ball gown
-
-- 2026-10-20 ❌ 首犯 · 学习日 复检第 4 组 [5]（#416 题里）· 她标「背下」· 原话 `On the last night of the film festival, there was a grand gala, with celebrities walking the red carpet in gowns(背下).`
-- 2026-10-21 ✅ 学习日 在池第 1 组 [10] · `that floor-length evening dress she wore to the awards ceremony` —— 答 evening dress 合法且贴题面（§3.3 合法但不是条目预期 ⇒ ✅）。连错 1 → 连对 1
-- 2026-10-21 📝 题面整改（§3.3 硬顺序③ ／ §6.0 词组题换场景时把中文语境写得更具体）：今天答 evening dress 合法 ⇒ 种子换成"灰姑娘去王子舞会穿的那条大裙摆礼服"（大裙摆舞会礼服 ⇒ ball gown，dress 落不上去），零英文提示照旧
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [6] · `that ball gown with a floor-length skirt that Cinderella wore to the prince's ball` —— ball gown。连对 1 → 2 ⇒ **毕业**
-
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
 状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
@@ -950,73 +814,6 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
 - 2026-10-21 ✅ 学习日 在池第 2 组 [3] · `She has a day job at a bank, but she sings at a bar at night.`。首测 ⇒ 连对 1
-
-### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
-类型 词组 ｜ 新建 2026-10-20
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
-
-**问题是什么**
-**distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
-**distinctively** 是 distinctive（有特色的）的副词 ＝ 有特色地、一眼认得出地：`a distinctively shaped building` —— 另一个词。
-同一格里的邻居（别串）：clearly remember（同义，更平）· vividly remember（记得很鲜活、带画面）。
-判据一句话：说"记得很清楚" ⇒ distinctly（或 clearly／vividly）；说"与众不同" ⇒ distinctive(ly)。
-★ 题型判整句："记得很清楚"能落到 clearly／vividly remember 一串合法说法 ⇒ 整句 ＋ 正向点名 distinctly。
-
-**怎么发现的**
-2026-10-20 学习日 ③ 重答 bank:308（R25 · P2）S6 · 原话
-`I distinctively remember spending an entire month staying in my dorm room, tweaking code again and again, trying every trick in the book to compress memory.`
-§2.1 边界：distinctively 是另一个词（有特色地），不是同一个词拼歪 ⇒ 选词，照常判 ❌。她 10-12 写过 `distinctly mapped out`（🎓#431 那题）⇒ 词在，"记得很清楚"这个块调错了词。
-判重三步：
-　① 目标形式 dedup "distinctly" ⇒ 只命中 🎓#431（历史行字样，考点是 well planned out）⇒ 否；"distinctive"／"vividly"／"clearly remember" ⇒ 零命中
-　② 中文 dedup "记得很清楚"／"清清楚楚" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`I distinctively remember …`　　正确：`I distinctly remember …`
-找法：说"清清楚楚记得"先落 I distinctly remember，别加 -ive（-ive 是"有特色"那个词）。
-
-**题面**
-"我清清楚楚记得第一天上班就把咖啡洒在了老板身上。"（"清清楚楚记得"用 **distinctly** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I distinctly remember spilling coffee on my boss on my first day at work.
-
-- 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S6 · 原话 `I distinctively remember spending an entire month staying in my dorm room, …` ⇒ 最小改 I distinctly remember
-- 2026-10-21 ✅ 学习日 在池第 2 组 [1] · `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（…需要学下） against the window looking outside.` —— I distinctly remember ✓。连错 1 → 连对 1 ｜ 同句她标学下的 spend ＋ 时间 ＋ 状态 ⇒ 新建 #518
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [7] · `I distinctly remember the day my Gaokao scores came out—my mom got so emotional she cried.` —— distinctly（-ly）。连对 1 → 2 ⇒ **毕业**
-
-### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
-类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
-
-**问题是什么**
-**not bother to do ／ not bother doing** ＝ 没费那个事去做（该做的没做，常带点批评或无所谓）：
-`He didn't even bother to say goodbye.` · `The organizers didn't bother to enforce the rule.` · `Don't bother calling — I'll be out.`（别费事打了）
-同一格里的邻居（别串）：🎓#374 can't be bothered to do（懒得：说自己主观上不想动）· take the trouble to do（特意费事去做，正面）· 🎓#142 中文"连…都没"⇒ 否定放助动词上、even 跟在后面（didn't even bother）。
-判据一句话：说别人"连…都没做、懒得管" ⇒ didn't (even) bother to；说自己"懒得…" ⇒ can't be bothered to。
-★ 与 🎓#374 分工：同一个 bother，#374 是 be bothered（形容词式"懒得"），本条是动词 bother to do（"没费事去做"）⇒ 两个结构；同组出题时两条题面互斥（本条只出"别人连…都没做"，#374 只出"我懒得…"）。
-★ 题型判整句："连…都没说"能落到 didn't even say 等合法说法 ⇒ 整句 ＋ 正向点名 bother。
-
-**怎么发现的**
-2026-10-20 学习日 ③ 重答 bank:308（R25 · P2）S8 · 原话
-`On the day of the contest, some people literally took out laptops—which was supposed to be banned, but the organizers didn't bother to(学一下) enforce it on the spot.`
-她自己标「学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
-判重三步：
-　① 目标形式 dedup "bother" ⇒ 只命中 🎓#374（can't be bothered）⇒ be bothered 与 bother to do 是两个结构 ⇒ 否；"take the trouble" ⇒ 零命中
-　② 中文 dedup "懒得" ⇒ 🎓#374 #15 #411（#374 见上；另两条是题面字样）⇒ 否；"didn't even" ⇒ 🎓#142（"连…都没"的否定位置，结构条）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 didn't bother to enforce it，但块不在手边（自己标学一下）　　目标：`the organizers didn't bother to enforce it on the spot`
-找法：中文"连…都没（费事）做／根本没管"先试 didn't (even) bother to ＋ 动作。
-
-**题面**
-"他走的时候连声再见都没说。"（"连…都没说"用 **bother** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：He didn't even bother to say goodbye when he left.
-★ 互斥：与 🎓#374 同组时，本条只出"别人连…都没做"，#374 只出"我懒得…"。
-
-- 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S8 · 她标「学一下」· 原话 `… but the organizers didn't bother to(学一下) enforce it on the spot.`
-- 2026-10-21 ✅ 学习日 在池第 2 组 [2] · `He left without even bothering to say goodbye.` —— bother to do 的块在，否定落在 without 上。连错 1 → 连对 1
-- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [8] · `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` —— didn't even bother knocking（bother doing ＝ bother to do 同一个块）。连对 1 → 2 ⇒ **毕业**
-  ｜ ⚠️ at the entrance → on the doorstep ⇒ 新建 #525
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
@@ -1469,6 +1266,93 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Xiao Wang deserves most of the credit for getting this project done.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（#341 题里）· 原话 `Since the sports event went so smoothly, those volunteers truly deserve credits.` ⇒ 最小改 deserve credit
+
+### 533 · **wreath**（花环、花圈：a Christmas wreath）
+类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**wreath** ＝ 编成一圈的花环／花圈：`a Christmas wreath`（圣诞节挂在门上的那种）· `lay a wreath`（献花圈）。
+同一格里的邻居（别串）：garland（一长条的花环、彩带，挂着或戴着）· bouquet（一束花）· 🎓#98（她在那题里说 This wreath is made from …，考点是并列同形）。
+判据一句话：编成圆圈的 ⇒ wreath；一长串的 ⇒ garland；一把 ⇒ bouquet。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"花环／花圈"映射回 wreath，唯一可判。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 5 组 [4]②（🎓#98 题面"这个花环是用松果和丝带做的。"）· 原话
+`This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+她用对了 wreath，但自己标「背下」⇒ §2③ 她说要背 ⇒ 建号（一词一条，§3.2；同 #519–#524 先例）。
+判重三步：
+　① 目标形式 dedup "wreath" ⇒ 零命中
+　② 中文 dedup "花环" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `wreath`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"花环／花圈"先落 wreath。
+
+**题面**
+"圣诞节挂在大门上的那个花环"（用常青树枝编成一圈的那种装饰）
+★ 目标形式（教练看，⛔ 不进发题稿）：the Christmas wreath hanging on the front door
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+
+### 534 · **pinecone**（松果；也写 pine cone）
+类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**pinecone** ＝ 松果（松树结的、一片片鳞片的那种）：`collect pinecones` · `a squirrel nibbling on a pinecone`；也写 pine cone。
+同一格里的邻居（别串）：pine（松树）· pine needles（松针）· acorn（橡子）· pine nuts（松子，吃的那种）。
+判据一句话：松树结的那个"球" ⇒ pinecone；里面能吃的仁 ⇒ pine nuts。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"松果"映射回 pinecone，唯一可判。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 5 组 [4]②（🎓#98 题面"这个花环是用松果和丝带做的。"）· 原话
+`This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+她用对了 pinecones，但自己标「背下」⇒ §2③ 她说要背 ⇒ 建号（一词一条，§3.2）。
+判重三步：
+　① 目标形式 dedup "pinecone"／"pine cone" ⇒ 零命中
+　② 中文 dedup "松果" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `pinecones`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"松果"先落 pinecone（pine ＋ cone）。
+
+**题面**
+"松鼠抱着啃的那颗松果"（松树上结的、一片片鳞片的那种）
+★ 目标形式（教练看，⛔ 不进发题稿）：the pinecone the squirrel is gnawing on
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+
+### 535 · **ribbon**（丝带、缎带：tie a ribbon · cut the ribbon）
+类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**ribbon** ＝ 丝带、缎带：`tie a ribbon around the box` · `a red ribbon` · `cut the ribbon`（剪彩）。
+同一格里的邻居（别串）：bow（蝴蝶结，丝带打成的结）· string（细绳）· lace（蕾丝、鞋带）。
+判据一句话：扎礼物、扎头发的那种带子 ⇒ ribbon；打成的结 ⇒ bow。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"丝带"映射回 ribbon，唯一可判。
+
+**怎么发现的**
+2026-10-22 付息日 a2 段复检第 5 组 [4]②（🎓#98 题面"这个花环是用松果和丝带做的。"）· 原话
+`This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+她用对了 ribbons，但自己标「背下」⇒ §2③ 她说要背 ⇒ 建号（一词一条，§3.2）。
+判重三步：
+　① 目标形式 dedup "ribbon" ⇒ 零命中
+　② 中文 dedup "丝带" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `ribbons`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"丝带／彩带"先落 ribbon。
+
+**题面**
+"礼物盒上系的那条红丝带"（打成蝴蝶结的那种带子）
+★ 目标形式（教练看，⛔ 不进发题稿）：the red ribbon tied around the gift box
+
+- 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
 
 ## 迁移说明（2026-08-18）
 
