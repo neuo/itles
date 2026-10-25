@@ -7440,3 +7440,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 7⇄1（中途）· 收尾无可搬
 
 **下一场 ＝ 周期 14 · L1**：#525–#535 首测 ＋ 回潮 #340 ＋ 连对1 的 9 条；复检 1 组；② 回看以 `lookback --pending` 为准；④ 重答 bank:211 ＋ 与旧答对比
+
+## 2026-10-24（周六）· 口语 L1（周期 14 第 1 个学习日）
+
+> 日期：开场美东 10-24 22:21（已过 10-24 中午、未到 10-25 中午），按中午分界属 10-24；10-23 没练，不占位。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 516 ＝ problems.md 26 ＋ graduated.md 490 ｜ 🎓 490（95.0%）｜ 未毕业 26 ｜ 可出题 16 ｜ ⚡ 累计 263 条、掉过 16 ｜ 重答队列 68 道 / 未重答过 42 道
+
+**五段**
+- ① 在池 3 组 21 题 / 21 条：**✅21 ❌0** ⇒ **毕业 9**（#436 #515 #518–#524）；#340 #525–#535 连错 1 → 连对 1；#518 答 lying awake 合法 ⇒ 题面节补 ★
+- ①b 复检 1 组 10 题 / 13 条：**✅13 ❌0**；#502 test-prep class、#432② international 都合法 ⇒ 两条题面节补 ★
+- ② 回看：无（63 篇全部回看过）
+- ③ 重答 bank:211（P2 种菜种花的外公）：首答 08-13 有 11 处真错 → 这次 0 处；首答更好版里的 the first one up／a patch of land／The moment … was when 都自己用上；退步 ＝ 首答那句 these plants need him and he needs them 没出来，why 那段 he genuinely loves it 循环
+- 新建 4：#537 put together（她标学下）· #538 right where sb stood（⚠️）· #539 cash register（真错：cashier 是人）· #540 munch on（她标学下）；#536 There is 后多一个 is ⇒ 她说手滑 ⇒ 撤销、编号作废
+- 自发命中：🎓#516 I distinctly remember（重答 S3）｜ 书面登记 2：and as a result → so I ended up · aspired to → wanted to
+
+**教练犯规**：① 把手滑多打的 is 当结构真错并建了 #536（她当场撤）② 聊天里新建条目块、复检判定行写了条目编号 ③ ④ 旧答块用 sed -n 从旧档案原样截取（只读、未改字）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 9⇄0
+
+**下一场 ＝ 周期 14 · L2**：#537–#540 首测 ＋ 连对1 的 12 条（#340 #525–#535）；复检 1 组（今天剩 4 条排最前）；② 回看 bank:211；④ 重答 redo 第 1 行（bank:349 · P3 看体育比赛的地方）＋ 与旧答对比

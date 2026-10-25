@@ -17909,6 +17909,43 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [3b]（打包）· `a small potted succulent bought at the flower market` —— succulent
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [3]f · `those few pots of succulents on the dorm balcony that I'm barely keeping alive` —— succulents。🎓 rc1 → rc2
 
+### 436 · downstairs from ＋ 地方（在…楼下）
+类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-24 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）｜ **🎓 已毕业 2026-10-24**（连对2 ＝ 10-22 ＋ 10-24；10-21 回潮后第二次毕业）
+
+**问题是什么**
+**downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
+反过来：upstairs from ＋ 某处（在…楼上）；只说"楼下"、不带参照 ⇒ downstairs（副词：go downstairs ／ the neighbors downstairs）。
+同一格里的邻居（别串）：below（正下方，偏书面）· on the ground floor（在一楼）。
+判据一句话：要说"在 X 的楼下" ⇒ downstairs from X；只说"在楼下" ⇒ downstairs。
+★ 题型判整句：考点是 from 挂参照物，孤立翻"楼下"永远落 downstairs ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-08 付息日 a 段在池第 2 组 [7]（#428 题面"我们公司楼下那家面馆上过一档美食节目。"）· 原话
+`The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+她写对了 downstairs from，但自己标「这个 downstairs from 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b）。
+判重三步：
+　① 目标形式 dedup "downstairs" ⇒ 零命中；dedup "upstairs" ⇒ 只命中 🎓#371（历史行字串，考点是 bring … over）⇒ 否
+　② 中文 dedup "楼下" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个 downstairs from 学下」（块不在手边）　　目标：`downstairs from our office`
+找法：说"某某楼下的那家店／那户人家"，先落 downstairs from。
+
+**题面**
+"我家楼下新开了一家便利店，买东西方便多了。"（"我家楼下"用 **downstairs from** 说）
+
+- 2026-10-08 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#428 题里）· 她标「这个 downstairs from 学下」· 原话 `The noodle shop downstairs from(这个  downstairs from 学下) our office was once featured on a food show.`
+- 2026-10-09 ✅ 学习日 在池第 2 组 [4] · `A new convenience store just opened downstairs from my place, which makes grabbing stuff way easier.` —— downstairs from my place。连错 1 → 连对 1
+- 2026-10-10 ✅ 学习日 在池第 1 组 [8] · `There's a coffee shop downstairs from our company, with a huge line every morning.` —— downstairs from ＋ 地方。连对 1 → 2 ⇒ **毕业** ｜ ⚠️ our company → our office ⇒ 另建 #443
+- 2026-10-13 ✅ 复检 · 学习日 复检第 4 组 [5] · `The elderly couple downstairs from our place gets up at five every morning to do Tai Chi.` —— downstairs from our place
+- 2026-10-21 ❌ 学习日 复检第 3 组 [1]（#474 题里）· `There's a subway entrance right downstairs their building, …` —— downstairs 后面挂参照物漏了 from ⇒ 最小改 right downstairs from their building（更好版 right outside their building，整栋楼的楼下 ＝ 楼门口外）⇒ 🎓 回潮
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [2] · `My cousin opened a little bakery downstairs from the apartment building he lives in.` —— downstairs from ＋ 参照物，from 在。连错 1 → 连对 1
+  ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
+- 2026-10-24 ✅ 学习日 在池第 1 组 [3] · `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.` —— downstairs from ＋ 参照物，from 在。连对 1 → 2 ⇒ 🎓
+  ｜ 同句 There is a gym is …（多一个 is）她当场说明是手滑 ⇒ 不计错、不建号（当天建的 #536 已撤，编号作废不复用）
+
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
 状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-10** ｜ 题型 整句
@@ -20493,6 +20530,39 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-21 📝 题面整改（§3.3 硬顺序③ ／ §6.0 词组题换场景时把中文语境写得更具体）：今天答 evening dress 合法 ⇒ 种子换成"灰姑娘去王子舞会穿的那条大裙摆礼服"（大裙摆舞会礼服 ⇒ ball gown，dress 落不上去），零英文提示照旧
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [6] · `that ball gown with a floor-length skirt that Cinderella wore to the prince's ball` —— ball gown。连对 1 → 2 ⇒ **毕业**
 
+### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
+类型 词组 ｜ 新建 2026-10-20
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+
+**问题是什么**
+**a day job** ＝ 白天那份（养家的）正职，常跟晚上／业余干的事对照：
+`He works a day job and drives for Uber at night.` · `She's a musician, but she still has a day job.`
+俗语 `Don't quit your day job.`（别指望靠这个吃饭，半开玩笑）。
+同一格里的邻居（别串）：full-time job（全职，只说工时）· side hustle（副业）· night shift（夜班）。
+判据一句话：说"白天那份正经工作"、跟副业／夜里干的对照 ⇒ a day job。
+★ 题型判整句："白天上班"能落到 work during the day／have a full-time job 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 day job。
+
+**怎么发现的**
+2026-10-20 学习日 复检第 4 组 [8]（🎓#419 题面"为了还房贷，他白天上班、晚上开网约车，埋头苦干了好几年。"）· 原话
+`To cover his mortgage, he worked a daytime job and drove for a ride-hailing service at night, grinding away for years.`
+diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；day job 她 lab 档案里没产出过 ⇒ §3.2b 能学的表达 ⇒ 建号（同 #490 先例）。
+判重三步：
+　① 目标形式 dedup "day job"／"daytime job"／"side hustle" ⇒ 零命中
+　② 中文 dedup "白天上班" ⇒ 只命中今天 #419 的题面字样 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`he worked a daytime job`　　更地道：`he worked a day job`
+找法：中文"白天上班、晚上／业余…"先落 work a day job。
+
+**题面**
+"她白天在银行上班，晚上去酒吧唱歌。"（"白天上班"用 **day job** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：She works a day job at a bank and sings at a bar at night.
+
+- 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
+- 2026-10-21 ✅ 学习日 在池第 2 组 [3] · `She has a day job at a bank, but she sings at a bar at night.`。首测 ⇒ 连对 1
+- 2026-10-24 ✅ 学习日 在池第 3 组 [1] · `He works his day job at an insurance company and writes novels at home by night, as he's always aspired to be an author.` —— works his day job（day job 块到位）。连对 1 → 2 ⇒ 🎓
+
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
 状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
@@ -20560,3 +20630,228 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-21 ✅ 学习日 在池第 2 组 [2] · `He left without even bothering to say goodbye.` —— bother to do 的块在，否定落在 without 上。连错 1 → 连对 1
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [8] · `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` —— didn't even bother knocking（bother doing ＝ bother to do 同一个块）。连对 1 → 2 ⇒ **毕业**
   ｜ ⚠️ at the entrance → on the doorstep ⇒ 新建 #525
+
+### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
+类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+
+**问题是什么**
+**spend ＋ 一段时间 ＋ 状态** ＝ 那段时间里主语一直处在某种状态。时间后面直接挂一个描述**主语**的成分，不用 being、不用 and：
+· 过去分词：`I spent the whole journey pressed against the window.` · `We spent the weekend stuck at home.` · `He spent the afternoon glued to the TV.`
+· 形容词：`I spent the night wide awake.`
+· 介词短语：`She spent the whole party in a bad mood.`
+同一格里的邻居（别串）：spend ＋ 时间 ＋ V-ing（主语在**做**什么：spent the whole journey looking out the window）· 🎓#251 spend 的主语必须是人（钱／时间当主语用 cost／take）· 同样的"挂主语状态"也出现在不及物动词后：`He came home exhausted.` `She sat there stunned.`
+判据一句话：那段时间主语是在"做事" ⇒ V-ing；是"处在某种样子／被怎样了" ⇒ 直接挂 -ed／形容词／介词短语。
+★ 题型判整句：考点是"状态补语挂在时间后面、说的是主语"，靠句子才现形；类型 句型 ⛔ 不许标词组。
+
+**怎么发现的**
+2026-10-21 学习日 在池第 2 组 [1]（#516 题面"我清清楚楚记得小时候第一次坐火车，一路上都趴在车窗边往外看。"）· 原话
+`I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
+她用对了、自己标「这种语法结构需要学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #506 #517 先例）。
+判重三步：
+　① 目标形式 dedup "spent the whole" ⇒ 🎓#471 #503（历史行字样：lounge／over）⇒ 否；"glued to" ⇒ 🎓#152（历史行字样，考点是 the first time ＋ 从句）⇒ 否；"stuck at home" ⇒ 零命中；"spend" ⇒ 🎓#251（spend 的主语必须是人，管的是谁当主语，不管时间后面挂什么）⇒ 否，其余命中都是题面／历史字样
+　② 中文 dedup "主语补足语" ⇒ 零命中；标题里带 spend／分词的只有 🎓#251 #259（完成时后接过去分词）#309（must have ＋ 过去分词）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `spent the whole journey pressed against the window`，但不确定这个结构为什么成立（自己标学下）　　目标：同她原句
+找法：想说"那段时间一直……着／被……着"，先写 spend ＋ 时间，后面直接挂那个状态（-ed／形容词／介词短语），不加 being、不加 and。
+
+**题面**
+"那场大雪下了两天，我们一家整个周末都被困在家里。"（"整个周末都被困在家里"用 **spend** 和 **stuck** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The snow went on for two days, and we spent the whole weekend stuck at home.
+★ 换场景挑挂不上"躺／坐"的状态（stuck／glued to／in a bad mood）：10-24 换成 awake，被她合法地落成 lying awake（spend ＋ V-ing，awake 挂在 lie 后面），裸状态没被逼出来
+
+- 2026-10-21 ❌ 首犯 · 学习日 在池第 2 组 [1]（#516 题里）· 她标「这种语法结构需要学下」· 原话 `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [9] · `It snowed heavily for two days, so my whole family ended up spending the entire weekend stuck at home.` —— spending the entire weekend stuck at home（时间后面直接挂 stuck，没加 being／and）。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [2] · `I drank two cups of coffee in the afternoon, and as a result, I spent the entire night lying awake.` —— spent the entire night lying awake：lie awake 是地道搭配、时间后面没加 being／and；条目预期是裸状态 spent the entire night wide awake，她这个合法且贴题面 ⇒ §3.3 记 ✅（题面节补 ★ 注释，见下一行 📝）。连对 1 → 2 ⇒ 🎓
+- 2026-10-24 📝 题面节加 ★ 注释 · 10-24 换场景用 awake，被她合法地落成 lying awake（spend ＋ 时间 ＋ V-ing，awake 挂在 lie 后面），裸状态没被逼出来 ⇒ 以后换场景挑挂不上"躺／坐"的状态（stuck／glued to／in a bad mood），种子点名 spend ＋ stuck 不变
+
+### 519 · **run errands**（出门办事、跑腿：run (some) errands · run an errand for sb）
+类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+
+**问题是什么**
+**run errands** ＝ 出门办些零碎的事（取快递、去银行、买东西、交费）：`I have to run some errands this afternoon.` · `Running errands is easy from here.`
+给别人跑腿 ⇒ `run an errand for sb`（run an errand for my mom）。动词固定用 run，泛说时 errands 带 s。
+同一格里的邻居（别串）：do the shopping（专指买东西）· take care of a few things（处理几件事，更泛）· get things done（把事办完）。
+判据一句话：说"出门办点事／跑腿"、一堆零碎的外出小事 ⇒ run errands。
+★ 题型判整句："出去办点事"能落到 take care of a few things／do some stuff 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 errands。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [1]（🎓#474 题面"我爸妈退休后搬到了市中心，楼下就是地铁口，出门办事特别方便。"）· 原话
+`My parents moved downtown after they retired. There's a subway entrance right downstairs their building, so running errands(这个学下) is super convenient.`
+她用对了、自己标「这个学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。同句 downstairs their building 归 🎓#436 回潮。
+判重三步：
+　① 目标形式 dedup "errand" ⇒ 零命中
+　② 中文 dedup "办事"／"跑腿" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `running errands`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"出去办点事／跑腿"先落 run errands（run ＋ 带 s 的 errands）。
+
+**题面**
+"我下午得出去办点事，你帮我看一下孩子。"（"出去办点事"用 **errands** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I need to go out and run some errands this afternoon — could you keep an eye on the kids?
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [1]（#474 题里）· 她标「这个学下」· 原话 `… so running errands(这个学下) is super convenient.`
+- 2026-10-22 ✅ 付息日 a 段在池第 1 组 [10] · `I have to run some errands this afternoon—could you keep an eye on the kid for a bit?` —— run some errands。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [4] · `Saturday mornings I'm usually out running errands, so I'm only free in the afternoon.` —— out running errands。连对 1 → 2 ⇒ 🎓
+
+### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+
+**问题是什么**
+**outpatient** ＝ 门诊（看完病当天回家、不住院）：`the outpatient department` · `an outpatient clinic` · `outpatient surgery`（门诊小手术）。
+同一格里的邻居（别串）：inpatient（住院病人／住院部）· the ER／emergency room（急诊）· ward（病房）。
+判据一句话：看病不住院 ⇒ outpatient；住院 ⇒ inpatient；急诊 ⇒ the ER。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"门诊部（不住院、当天回家）"映射回 outpatient department，唯一可判。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [7]（🎓#483 题面"这家医院的门诊节假日也有医生值班。"）· 原话
+`The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
+她用对了、自己标「这个背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "outpatient"／"inpatient" ⇒ 零命中
+　② 中文 dedup "门诊" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `The outpatient clinic`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"门诊（部）"先落 outpatient；住院那边是 inpatient。
+
+**题面**
+"儿童医院的门诊部"（看完病当天就能回家的那块）
+★ 目标形式（教练看，⛔ 不进发题稿）：the outpatient department at the children's hospital
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [7]（#483 题里）· 她标「这个背下」· 原话 `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [1] · `the outpatient clinic at the children's hospital` —— outpatient。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [5] · `a minor outpatient surgery.` —— outpatient。连对 1 → 2 ⇒ 🎓
+
+### 521 · **sanitation worker**（环卫工人）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+
+**问题是什么**
+**sanitation worker** ＝ 环卫工人（扫马路、清运垃圾的那些人）：`the sanitation workers who sweep the streets before dawn`。
+同一格里的邻居（别串）：street sweeper／street cleaner（专指扫街的）· garbage collector（收垃圾的）· janitor（楼里的保洁）。
+判据一句话：城市环卫工人统称 ⇒ sanitation worker；只说扫街 ⇒ street sweeper；楼里的保洁 ⇒ janitor。
+★ 题型判词组：一个名词块；"环卫工人"映射回 sanitation worker（答 street sweeper／street cleaner 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 3 组 [9]（🎓#422 题面"那个清洁工日复一日地扫着同一条街，一扫就是十几年。"）· 原话
+`That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "sanitation" ⇒ 零命中
+　② 中文 dedup "环卫" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `That sanitation worker`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"环卫工人"先落 sanitation worker。
+
+**题面**
+"凌晨就出来扫街的环卫工人"（城市里负责扫马路、清运垃圾的工人）
+★ 目标形式（教练看，⛔ 不进发题稿）：the sanitation workers who are out sweeping the streets before dawn
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [2] · `sanitation workers out sweeping the streets before dawn` —— sanitation workers。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [6] · `sanitation workers wearing orange vests` —— sanitation workers。连对 1 → 2 ⇒ 🎓
+
+### 522 · **be on the fence (about sth)**（犹豫不决、两头拿不定主意）
+类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+
+**问题是什么**
+**be on the fence (about sth／about doing)** ＝ 在两个选择之间犹豫、还没选边（像骑在篱笆上，哪边都没下去）：
+`I'm still on the fence about the job offer.` · `She was on the fence about moving back.`
+同一格里的邻居（别串）：can't make up one's mind（拿不定主意，更平）· be torn between A and B（两头都舍不得，带情绪）· go back and forth（来回反复）· hesitate（犹豫，偏指动作前那一下迟疑）。
+判据一句话：在两个选项之间"还没选边" ⇒ be on the fence about；两边都想要、心里撕扯 ⇒ be torn between。
+★ 题型判整句："犹豫／纠结"能落到 hesitate／can't decide／torn 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 on the fence。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [2]（🎓#425 题面"我表妹在国外读完书，一直犹豫要不要回国，去年终于迈出了那一步。"）· 原话
+`My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
+她用对了、自己标「学下这个词组」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #506 #517 #519 先例）。
+判重三步：
+　① 目标形式 dedup "fence" ⇒ 只命中 🎓#492（perch 正文例句 perch on a fence）⇒ 否；"torn between"／"make up one's mind" 不是本条目标形式
+　② 中文 dedup "犹豫" ⇒ 🎓#495（正文字样，考点是 beat around the bush）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `had been on the fence about moving back`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"一直犹豫要不要…／纠结"先试 be on the fence about ＋ 名词／doing。
+
+**题面**
+"买不买那台二手钢琴，我纠结了好几个星期。"（"纠结"用 **on the fence** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I was on the fence about buying that second-hand piano for weeks.
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [2]（#425 题里）· 她标「学下这个词组」· 原话 `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [3] · `I was on the fence for weeks about buying that second-hand piano.` —— on the fence … about buying。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [7] · `I'm still on the fence about accepting that job offer in another city.` —— on the fence about accepting。连对 1 → 2 ⇒ 🎓
+
+### 523 · **terraced fields**（梯田；也说 rice terraces）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+
+**问题是什么**
+**terraced fields** ＝ 梯田（顺着山坡开出来、一级一级像台阶）：`the terraced fields on the hillside`；种稻子的常说 `rice terraces`。
+terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台咖啡馆）· `a terraced house`（英式联排房）。
+判据一句话：山坡上一层层的田 ⇒ terraced fields／rice terraces（terraced 带 -ed）。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"梯田"映射回 terraced fields（答 rice terraces 合法且贴题面 ⇒ 照判 ✅）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [5]（🎓#428 题面"我们村的梯田上过一次央视的纪录片。"）· 原话
+`The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "terrace" ⇒ 零命中
+　② 中文 dedup "梯田" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `The terraced fields`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"梯田"先落 terraced fields（terraced 带 -ed）。
+
+**题面**
+"云南山坡上一层一层的梯田"（顺着山坡开出来、一级一级像台阶的稻田）
+★ 目标形式（教练看，⛔ 不进发题稿）：the terraced fields on the hillsides in Yunnan
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [5]（#428 题里）· 她标「背下」· 原话 `The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [4] · `the terraced rice fields built into the hillsides of Yunnan` —— terraced（-ed）。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [8] · `terraced rice fields flooded with water in spring` —— terraced (rice) fields。连对 1 → 2 ⇒ 🎓
+
+### 524 · **itinerary**（行程安排、行程单）
+类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+
+**问题是什么**
+**itinerary** ＝ 一趟旅行的行程安排（哪天去哪儿、几点、住哪儿）：`a five-day itinerary` · `plan an itinerary` · `stick to the itinerary`。
+同一格里的邻居（别串）：schedule（日程表，泛指时间安排）· route（路线，只管怎么走）· travel plans（旅行计划，更泛）。
+判据一句话：一趟旅行"每天去哪儿、几点做什么"那张单子 ⇒ itinerary；只说走哪条路 ⇒ route。
+★ 题型判词组：一个名词，缺口只是调不调得出来；"旅行社发来的行程安排"映射回 itinerary（答 schedule 合法且贴题面 ⇒ 照判 ✅，下次把中文语境写得更具体）。
+
+**怎么发现的**
+2026-10-21 学习日 复检第 4 组 [6]（🎓#431 题面"这次的旅行路线规划得特别好，每天节奏都很舒服，景点也一个没落下。"）· 原话
+`This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+她用对了、自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #511 #513 #514 先例）。
+判重三步：
+　① 目标形式 dedup "itinerar" ⇒ 零命中
+　② 中文 dedup "行程" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `This itinerary`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"行程（安排／单）"先落 itinerary。
+
+**题面**
+"旅行社发来的五天行程安排"（每天几点去哪儿、住哪儿都列好的那张单子）
+★ 目标形式（教练看，⛔ 不进发题稿）：the five-day itinerary the travel agency sent over
+
+- 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [6]（#431 题里）· 她标「背下」· 原话 `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
+- 2026-10-22 ✅ 付息日 a 段在池第 2 组 [5] · `that five-day itinerary the travel agent sent over` —— itinerary。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [9] · `that three-day Tokyo itinerary I put together(这个词组学下) myself` —— itinerary。连对 1 → 2 ⇒ 🎓
+  ｜ 她标 put together「这个词组学下」⇒ §2③ 另建 #537
