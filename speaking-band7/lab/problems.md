@@ -703,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-22**（09-21 毕业 → 10-22 复检第 5 组 [5] `taking it a step up is being able to …`：没落到块 a step up from that、退回动词的路，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-22**（09-21 毕业 → 10-22 复检第 5 组 [5] `taking it a step up is being able to …`：没落到块 a step up from that、退回动词的路，撤销毕业、连对清零）
 
 **问题是什么**
 **a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
@@ -747,10 +747,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   去掉"step 当名词／⛔ on top of／plus／above"，她点名要学的块 ⇒ 直接点名 a step up，from that 怎么接留给她（09-19 掉过）；换成职场表现场景
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [4] · `Knowing how to cook is one thing; a step up from that is pulling off a proper New Year's Eve feast.` —— a step up from that
 - 2026-10-22 ❌ 复检 · 付息日 a2 段复检第 5 组 [5] · `Knowing how to drive is one thing; taking it a step up is being able to drive steadily in a blizzard.` —— "再往上一档"没落到块 a step up from that，退回动词的路（take it a step further 与 take it up a notch 混搭）⇒ 最小改 a step up from that is being able to … ⇒ 🎓 回潮
+- 2026-10-24 ✅ 学习日 在池第 1 组 [1] · `Being polite is just the baseline for hotel staff; a step up from that is actually remembering a regular guest's personal preferences.` —— a step up from that（step 当名词、from 在；没退回 10-22 taking it a step up 的动词路）。连错 1 → 连对 1
 
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）
+状态 连对2 连错0 上次2026-10-24 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）｜ **🎓 已毕业 2026-10-24**（连对2 ＝ 10-22 ＋ 10-24；10-21 回潮后第二次毕业）
 
 **问题是什么**
 **downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
@@ -782,6 +783,8 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-21 ❌ 学习日 复检第 3 组 [1]（#474 题里）· `There's a subway entrance right downstairs their building, …` —— downstairs 后面挂参照物漏了 from ⇒ 最小改 right downstairs from their building（更好版 right outside their building，整栋楼的楼下 ＝ 楼门口外）⇒ 🎓 回潮
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [2] · `My cousin opened a little bakery downstairs from the apartment building he lives in.` —— downstairs from ＋ 参照物，from 在。连错 1 → 连对 1
   ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
+- 2026-10-24 ✅ 学习日 在池第 1 组 [3] · `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.` —— downstairs from ＋ 参照物，from 在。连对 1 → 2 ⇒ 🎓
+  ｜ 同句 There is a gym is …（There is 后名词又多一个 is）⇒ 另建 #536
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
@@ -817,7 +820,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **spend ＋ 一段时间 ＋ 状态** ＝ 那段时间里主语一直处在某种状态。时间后面直接挂一个描述**主语**的成分，不用 being、不用 and：
@@ -844,13 +847,16 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 **题面**
 "那场大雪下了两天，我们一家整个周末都被困在家里。"（"整个周末都被困在家里"用 **spend** 和 **stuck** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：The snow went on for two days, and we spent the whole weekend stuck at home.
+★ 换场景挑挂不上"躺／坐"的状态（stuck／glued to／in a bad mood）：10-24 换成 awake，被她合法地落成 lying awake（spend ＋ V-ing，awake 挂在 lie 后面），裸状态没被逼出来
 
 - 2026-10-21 ❌ 首犯 · 学习日 在池第 2 组 [1]（#516 题里）· 她标「这种语法结构需要学下」· 原话 `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（这个是修饰 I 的但是可以放在这里，这种语法结构需要学下） against the window looking outside.`
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [9] · `It snowed heavily for two days, so my whole family ended up spending the entire weekend stuck at home.` —— spending the entire weekend stuck at home（时间后面直接挂 stuck，没加 being／and）。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [2] · `I drank two cups of coffee in the afternoon, and as a result, I spent the entire night lying awake.` —— spent the entire night lying awake：lie awake 是地道搭配、时间后面没加 being／and；条目预期是裸状态 spent the entire night wide awake，她这个合法且贴题面 ⇒ §3.3 记 ✅（题面节补 ★ 注释，见下一行 📝）。连对 1 → 2 ⇒ 🎓
+- 2026-10-24 📝 题面节加 ★ 注释 · 10-24 换场景用 awake，被她合法地落成 lying awake（spend ＋ 时间 ＋ V-ing，awake 挂在 lie 后面），裸状态没被逼出来 ⇒ 以后换场景挑挂不上"躺／坐"的状态（stuck／glued to／in a bad mood），种子点名 spend ＋ stuck 不变
 
 ### 519 · **run errands**（出门办事、跑腿：run (some) errands · run an errand for sb）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **run errands** ＝ 出门办些零碎的事（取快递、去银行、买东西、交费）：`I have to run some errands this afternoon.` · `Running errands is easy from here.`
@@ -878,10 +884,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [1]（#474 题里）· 她标「这个学下」· 原话 `… so running errands(这个学下) is super convenient.`
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [10] · `I have to run some errands this afternoon—could you keep an eye on the kid for a bit?` —— run some errands。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [4] · `Saturday mornings I'm usually out running errands, so I'm only free in the afternoon.` —— out running errands。连对 1 → 2 ⇒ 🎓
 
 ### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **outpatient** ＝ 门诊（看完病当天回家、不住院）：`the outpatient department` · `an outpatient clinic` · `outpatient surgery`（门诊小手术）。
@@ -908,10 +915,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [7]（#483 题里）· 她标「这个背下」· 原话 `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [1] · `the outpatient clinic at the children's hospital` —— outpatient。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [5] · `a minor outpatient surgery.` —— outpatient。连对 1 → 2 ⇒ 🎓
 
 ### 521 · **sanitation worker**（环卫工人）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **sanitation worker** ＝ 环卫工人（扫马路、清运垃圾的那些人）：`the sanitation workers who sweep the streets before dawn`。
@@ -938,10 +946,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [2] · `sanitation workers out sweeping the streets before dawn` —— sanitation workers。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [6] · `sanitation workers wearing orange vests` —— sanitation workers。连对 1 → 2 ⇒ 🎓
 
 ### 522 · **be on the fence (about sth)**（犹豫不决、两头拿不定主意）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **be on the fence (about sth／about doing)** ＝ 在两个选择之间犹豫、还没选边（像骑在篱笆上，哪边都没下去）：
@@ -969,10 +978,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [2]（#425 题里）· 她标「学下这个词组」· 原话 `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [3] · `I was on the fence for weeks about buying that second-hand piano.` —— on the fence … about buying。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [7] · `I'm still on the fence about accepting that job offer in another city.` —— on the fence about accepting。连对 1 → 2 ⇒ 🎓
 
 ### 523 · **terraced fields**（梯田；也说 rice terraces）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **terraced fields** ＝ 梯田（顺着山坡开出来、一级一级像台阶）：`the terraced fields on the hillside`；种稻子的常说 `rice terraces`。
@@ -999,10 +1009,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [5]（#428 题里）· 她标「背下」· 原话 `The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [4] · `the terraced rice fields built into the hillsides of Yunnan` —— terraced（-ed）。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [8] · `terraced rice fields flooded with water in spring` —— terraced (rice) fields。连对 1 → 2 ⇒ 🎓
 
 ### 524 · **itinerary**（行程安排、行程单）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **itinerary** ＝ 一趟旅行的行程安排（哪天去哪儿、几点、住哪儿）：`a five-day itinerary` · `plan an itinerary` · `stick to the itinerary`。
@@ -1029,10 +1040,12 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [6]（#431 题里）· 她标「背下」· 原话 `This itinerary（背下） was really well planned out—the daily pace felt super comfortable, and we didn't miss out on any of the sights.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [5] · `that five-day itinerary the travel agent sent over` —— itinerary。连错 1 → 连对 1
+- 2026-10-24 ✅ 学习日 在池第 1 组 [9] · `that three-day Tokyo itinerary I put together(这个词组学下) myself` —— itinerary。连对 1 → 2 ⇒ 🎓
+  ｜ 她标 put together「这个词组学下」⇒ §2③ 另建 #537
 
 ### 525 · **on the doorstep**（家门口：东西放在某户人家门外那一小块；⛔ at the entrance）
 类型 词组 ｜ 新建 2026-10-22
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **on the doorstep** ＝ 家门口（门外紧挨着门的那一小块地方）：`left the package on my doorstep` · `found a bag of oranges on the doorstep`。
@@ -1059,6 +1072,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：When I opened the door this morning, I found a bag of oranges from my neighbor on the doorstep.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a 段在池第 1 组 [8]（#517 题里）· diff-2 ⚠️ · 原话 `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` ⇒ 更好版 on the doorstep
+- 2026-10-24 ✅ 学习日 在池第 1 组 [10] · `I opened my door this morning to find a bag of oranges left on my doorstep by a neighbor.` —— on my doorstep。连错 1 → 连对 1
 
 ### 526 · **down jacket**（羽绒服；也说 puffer jacket）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
@@ -1353,6 +1367,70 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the red ribbon tied around the gift box
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+
+### 536 · There is ＋ 名词 ＋ 地点（**There is 已经是谓语，名词后面不再加 is**；⛔ There is a gym is …）
+类型 结构 ｜ 新建 2026-10-24
+状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**There is／There's ＋ 名词 ＋ 地点／修饰** ＝ "（某处）有／是一个 X"：`There's a gym right downstairs from our office.` —— There is 就是这句的谓语，名词后面直接挂地点。
+另一条路是让名词自己当主语：`A gym is right downstairs from our office.`（同一个意思，换一条路）。
+⛔ 两条路拼在一起就多出一个谓语：`There is a gym is right downstairs …`
+同一格里的邻居（别串）：There is X ＋ that 从句（`There's a gym that opens at six` —— 第二个动词装在从句里，合法）· 🎓#210 there is 后面要名词（管 There is 后面挂什么；本条管名词后面别再来一个谓语）。
+判据一句话：一句里用了 There is，名词后面就只接地点／修饰／that 从句，⛔ 不再接 is。
+★ 题型判整句：考点是"名词后面多不多一个谓语"，靠句子才现形；类型 结构 ⛔ 不许标词组。
+
+**怎么发现的**
+2026-10-24 学习日 在池第 1 组 [3]（#436 题面"我们租的那间办公室楼下是一家健身房，每天都能听到音乐声。"）· 原话
+`There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.`
+考点 downstairs from 用对（#436 ✅）；句首 There is a gym 之后又来一个 is ⇒ 结构真错 ⇒ 建号（§2①）。
+★ 她 10-10 `There's a coffee shop downstairs from our company`、10-21 `There's a subway entrance right downstairs their building` 都没多 is ⇒ 多半是中文"楼下是一家健身房"的"是"被直译成 is、又和 There is 叠在一起；不在 §3.4 形态类清单（不是词尾／形态标记）⇒ 照常建号、照常出题。
+判重三步：
+　① 目标形式 dedup "there is" ⇒ 🎓#135（社会／大家 → there is，管选不选 there is）· 🎓#210（there is 后面要名词，退池）· 🎓#32 There's no point · 🎓#167 There's no rush（固定块）· 其余只是历史行字样 ⇒ 都否：没有一条管"名词后面多一个谓语"
+　　 dedup "there are" ⇒ 🎓#346（where 后面那句要有动词 —— 缺动词，方向相反）⇒ 否
+　② 中文 dedup "两个谓语" ⇒ 🎓#217（and 接第二个谓语时否定带助动词）· #147（时态只标一次，形态类）⇒ 否；标题含 there 的只有 #32 #135 #167 #210 ⇒ 同上
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`There is a gym is right downstairs from the office space we rent`　　正确：`There is a gym right downstairs from the office space we rent`（或 `A gym is right downstairs from …`）
+找法：开口用了 There is／There's，说完那个名词回头扫一眼 —— 后面是不是又冒出一个 is？有就删掉。
+
+**题面**
+"学校对面就是一家文具店，一放学就挤满了学生。"（"对面就是一家文具店"用 **there's** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：There's a stationery shop right across from the school, and it's packed with students as soon as school lets out.
+
+- 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [3]（#436 题里）· 原话 `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.`
+
+### 537 · **put together ＋ 东西**（自己挑选、拼排出一整份：put together an itinerary／a menu／a playlist）
+类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**put together ＋ 东西** ＝ 把零散的几样挑出来、排好，组合成一整份（行程、菜单、歌单、PPT、一支队伍）：
+`I put together a three-day itinerary myself.` · `She put together the menu for the party.` · `put together a playlist／a presentation／a team`
+宾语是代词时夹在中间：`put it together`。
+同一格里的邻居（别串）：plan（只说"打算"，没有"一样样拼起来"那层）· 🎓#431 well planned out（规划得好、布局合理）· 🎓#456 carefully crafted（精心打磨，偏"做工"）· throw together（仓促凑出来，带"随便"）· 🎓#481 plan a surprise for sb（那条管 throw 只配活动，本条管 put together 这个块本身）。
+判据一句话：东西是一样样挑、一样样排出来的一整份 ⇒ put together；只是"打算" ⇒ plan。
+★ 题型判整句："排／搭／张罗出来"能落到 plan／make／arrange 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 put together。
+
+**怎么发现的**
+2026-10-24 学习日 在池第 1 组 [9]（#524 题面"我自己排的三天东京行程"）· 原话
+`that three-day Tokyo itinerary I put together(这个词组学下) myself`
+她用对了、自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #506 #518 #519 #522 先例）。
+判重三步：
+　① 目标形式 dedup "put together" ⇒ 🎓#456（crafted，正文邻居里提了一句 put together 拼凑）· 🎓#481（plan a surprise，正文里 put together a surprise 是备选说法）⇒ 两条的考点都不是 put together 这个块本身 ⇒ 否；"put it together"／"throw together"／"compile"／"map out" ⇒ 零命中
+　② 中文 dedup "安排" ⇒ #524 itinerary（名词"行程"，本条是动词块）· 🎓#431 well planned out（另一个块）· 🎓#53 organized · 🎓#464 tactics 等只是正文／题面字样 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `the itinerary I put together myself`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"排了一份／搭了一份／张罗出一份（计划、菜单、歌单）"，先试 put together ＋ 那份东西。
+
+**题面**
+"生日聚会的菜单是我朋友一个人张罗着搭出来的。"（"搭出来"用 **put together** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My friend put together the whole menu for the birthday party on her own.
+
+- 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [9]（#524 题里）· 她标「这个词组学下」· 原话 `that three-day Tokyo itinerary I put together(这个词组学下) myself`
 
 ## 迁移说明（2026-08-18）
 
