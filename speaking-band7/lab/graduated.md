@@ -7407,6 +7407,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-10-13 📝 书面登记 · 学习日 ③ 新题 bank:1296（P3 · 特殊日子花大钱吃饭）S1 · **不判回潮**（状态行不动）· `they are purchasing an unforgettable experience` → `they are paying for …`（同句前半她自己说了 paying for）；同篇另三块书面块口语版她没产出过 ⇒ §3.2b 新建 #477 #478 #479
 - 2026-10-16 📝 书面登记 · 学习日 ③ 重答 bank:1011（P2 · 近期看过且享受的电影）S11 · **不判回潮**（状态行不动）· `you can really feel those deeper societal conflicts` → `social conflicts`（她 09-13 自己说过 broad social norms）
 - 2026-10-24 📝 书面登记 · 学习日 在池第 1 组 [2]（#518 题）· `and as a result, I spent …` → `so I ended up spending …`（她 10-22 自己说过 ended up spending；⛔ 不判回潮、状态行不动）
+- 2026-10-24 📝 书面登记 · 学习日 在池第 3 组 [1]（#515 题）· `as he's always aspired to be an author` → `as he's always wanted to be an author`（她 10-12 自己说过 always wanted to；⛔ 不判回潮、状态行不动）
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 

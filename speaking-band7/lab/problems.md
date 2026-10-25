@@ -788,7 +788,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对1 连错0 上次2026-10-21 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **a day job** ＝ 白天那份（养家的）正职，常跟晚上／业余干的事对照：
@@ -817,6 +817,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 - 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
 - 2026-10-21 ✅ 学习日 在池第 2 组 [3] · `She has a day job at a bank, but she sings at a bar at night.`。首测 ⇒ 连对 1
+- 2026-10-24 ✅ 学习日 在池第 3 组 [1] · `He works his day job at an insurance company and writes novels at home by night, as he's always aspired to be an author.` —— works his day job（day job 块到位）。连对 1 → 2 ⇒ 🎓
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
