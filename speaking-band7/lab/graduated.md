@@ -2428,7 +2428,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 
 ### 70 · I wouldn't go THAT far, though.（软化自己刚说的话）
 类型 词组 ｜ 旧号 B109a
-状态 连对2 连错0 上次2026-10-14 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-11**（连对2 ＝ 10-10 ＋ 10-11；10-09 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **回潮 2026-10-09**（08-20 毕业 → 10-09 复检 #250 题里写成 `it doesn't go that far`，整块没调出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-11**（连对2 ＝ 10-10 ＋ 10-11；10-09 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **I wouldn't go THAT far, though.** ＝ 软化自己刚说的话（整块背，重心在 **that far**）。
@@ -2463,6 +2463,7 @@ easy / easier ＝ **难度低、不费劲**（跟【动作本身的难度】走�
 - 2026-10-10 ✅ 学习日 在池第 1 组 [1] · `Some people say smartphones have ruined this generation, but I wouldn't go that far.` —— I wouldn't go that far 整块调出（主语 I、wouldn't、that far 一字不差）。连错 1 → 连对 1
 - 2026-10-11 ✅ 学习日 在池第 1 组 [1] · `My friend said this city is terrible for young people, but I wouldn't go that far.` —— I wouldn't go that far 整块调出（主语 I、wouldn't、that far 一字不差）。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-14 ✅ 复检 · 学习日 复检第 4 组 [1] · `My coworker said coffee is purely bad for your health, but I wouldn't go that far.` —— I wouldn't go that far
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [9] · `The movie is solid, but I wouldn't go as far as saying it's the best one this year.` —— I wouldn't go as far as saying（go 那条路往回收一步）
 - 备注 08-11 教练自纠：块本身写错过（go too far → go that far）
 
 ### 71 · It's not that A — it's about B.（把矛头从对象转到程度）
@@ -9056,7 +9057,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
 类型 搭配 ｜ 旧号 B230
-状态 连对2 连错0 上次2026-10-20 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）｜ **🎓 已毕业 2026-10-20**（连对2 ＝ 10-19 ＋ 10-20；10-17 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **回潮 2026-10-17**（08-17 毕业 → 10-17 重答 bank:834 钱配了 take）｜ **🎓 已毕业 2026-10-20**（连对2 ＝ 10-19 ＋ 10-20；10-17 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
@@ -9096,6 +9097,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-10-19 ✅ 学习日 在池第 1 组 [1] · 题面"这台二手相机花了我三千块，光研究怎么用就又花了我一整个周末。"（两个"花了我"都用 me 说）· `This second-hand camera set me back three thousand RMB, and just figuring out how to use it took me another whole weekend.` —— 钱用 set me back（＝ cost me，合法且贴题面）、时间 took me ✓。连错 1 → 连对 1
 - 2026-10-19 📝 题面整改（§3.3 硬顺序③）：她用 set me back 绕开了 cost ⇒ 种子点名改成 cost／take 两个都点、由她自己分配给钱和时间（二选一仍是考点，又不给答案）
 - 2026-10-20 ✅ 学习日 在池第 1 组 [1] · `The materials cost me eighty thousand RMB for this renovation, and overseeing the workers took me two whole months.` —— 钱 cost me、时间 took me，两处自己分配都对。连对 1 → 2 ⇒ 🎓 毕业（10-17 回潮后重新毕业）
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [1] · `This trip to Japan cost me six grand just for the flights, and taking care of the visa took me another two weeks.` —— cost me（钱）／ took me（时间）分配都对
 - 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
   首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
 
@@ -14936,7 +14938,7 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 词组
 
 **问题是什么**
 "网上／通过网络／在网上就能…" 口语就是 **online**，一个副词，挂在句首或动词后面：
@@ -14968,6 +14970,7 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 词组题零英文提示）
   去掉"一个词 ＋ ⛔ internet"，改中文释义；换成网上挂号场景
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [8]（打包）· `book a flight online` —— online
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]d（打包）· `paying electricity and water bills online` —— online
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
@@ -17767,7 +17770,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 432 · cross-border ≠ transnational（跨境 vs 跨国）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组 ｜ 合并条·出题多句覆盖
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组 ｜ 合并条·出题多句覆盖
 
 **问题是什么**
 两个"跨"分工不同：
@@ -17795,10 +17798,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 　① "跨境支付"（钱从一个国家转到另一个国家）
 　② "跨国犯罪集团"（在好几个国家同时作案的犯罪组织）
 ★ 2026-10-14 ② 换场景 ⛔ 别出贩毒／走私／偷渡：这几样本身就是"过境"，cross-border drug trafficking／smuggling 是常见搭配 ⇒ cross-border 也合法、测不出 transnational；只出诈骗、洗钱这类"组织横跨多国运作"的场景
+★ 2026-10-24 ② 的判定口径 ＝ 没把"组织"说成 cross-border：international（最宽的"国际"）放在组织前面永远合法、中文也逼不掉它 ⇒ 答 international／transnational 都算 ✅
 
 **成员出题账**
-① cross-border ｜ 10-09 ✅ · 10-11 ✅ · 10-14 ✅
-② transnational ｜ 10-09 ✅ · 10-11 ✅ · 10-14 ✅（题面出坏：她答 cross-border drug trafficking 合法）
+① cross-border ｜ 10-09 ✅ · 10-11 ✅ · 10-14 ✅ · 10-24 ✅
+② transnational ｜ 10-09 ✅ · 10-11 ✅ · 10-14 ✅（题面出坏：她答 cross-border drug trafficking 合法）· 10-24 ✅（答 international hacker group，合法、没串）
 
 - 2026-10-08 📝 新建 · 付息日 a 段在池第 1 组 [1]（#366 题里）· 她要求「加入 transnational 的条目做对比」· 原话 `My friend got into cross-border（加入 transnational 的条目做对比） e-commerce last year and made bank.`
 - 2026-10-09 ✅ 学习日 在池第 2 组 [6] · ① `cross-border payments` ② `transnational organized crime` —— 两个成员都对、没串。首测 ⇒ 连对 1
@@ -17806,6 +17810,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-11 ✅ 学习日 在池第 2 组 [9] · 合并条 2 块：① `cross-border online shopping` ② `a transnational fraud ring` —— 跨境 ⇒ cross-border、跨国团伙 ⇒ transnational，两个没串。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-14 ✅ 复检 · 学习日 复检第 4 组 [2] · ① `cross-border express` ／ ② `a cross-border drug trafficking network` —— ① cross-border 用对；② 题面出坏（毒品本身过境运，cross-border drug trafficking 是常见搭配，"跨国贩毒网络"让 cross-border 也合法）⇒ 复检出坏记 ✅；题面节补 ★ 别出贩毒／走私
   ⚠️ ① express → shipping ⇒ 新建 #484
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [10] · ① `cross-border e-commerce` ／ ② `an international hacker group` —— ① cross-border ✓；② international 合法、没串成 cross-border（本条考的分工没掉）⇒ 题面节补 ★ 判定口径
 
 ### 433 · semi-final（半决赛）
 类型 词汇 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -17970,7 +17975,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 439 · comeback（逆转、反超：pull off a comeback）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-14 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-11** ｜ 题型 词组
 
 **问题是什么**
 **comeback** ＝ 落后的一方反超、翻盘：`they pulled off a huge comeback` ／ `a last-minute comeback`。
@@ -17999,6 +18004,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-11 ✅ 学习日 在池第 1 组 [5] · `an incredible comeback where they were two goals down（老想着用 behind） in the second half and scored three in the final minutes to win it` —— comeback。连对 1 → 2 ⇒ 🎓 毕业
   ★ 她说老想着用 behind：two goals behind 与 two goals down 一样对 ⇒ 不算问题、不建号
 - 2026-10-14 ✅ 复检 · 学习日 复检第 4 组 [4]a（打包）· `a huge comeback in the tennis finals, coming back from two sets down to win three straight` —— comeback
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]c（打包）· `a major comeback in a debate after getting pushed around in the first half` —— comeback
 
 ### 440 · sentimental（煽情、催泪）≠ dramatic（夸张、戏剧化）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
@@ -19660,7 +19666,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **stay on** ＝ 本来可以走（毕业了／合同到了／实习完了），却留在原地接着待、接着干：
@@ -19689,6 +19695,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-16 新建 · 学习日 在池第 2 组 [4]（#486 题里）· diff-2 ⚠️ · 原话 `… and the last one stayed at school for grad school.` ⇒ 更好版 stayed on for grad school
 - 2026-10-17 ✅ 付息日 在池第 2 组 [9] · `… the company asked her if she wanted to stay on, and she said yes.`。首测 ⇒ 连对 1
 - 2026-10-20 ✅ 学习日 在池第 2 组 [3] · `… his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— stay on ✓（同句 -ing 主语悬空归 🎓#215；后半句重复 stay on 只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [2] · `After his contract expired, the coach asked if he'd stay on for one more year, and he said yes.` —— stay on for one more year
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
@@ -19963,7 +19970,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
 类型 句型 ｜ 新建 2026-10-16
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 前面说完一个观点，要举一个具体的、真实的例子 ⇒ **Take X —**／**Take X, for example, …** 起手，后面接完整句：
@@ -19994,10 +20001,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-16 新建 · 学习日 ③ 重答 bank:1011 S10 · diff-2 ⚠️ · 原话 `Even the Joker in the second movie—his performance was honestly even more memorable and profound than Batman's.` ⇒ 更好版 Take the Joker in the second movie—
 - 2026-10-17 ✅ 付息日 在池第 2 组 [10] · `Take my nephew, for instance—he has cram school every single night until nine.`。首测 ⇒ 连对 1（同句 cram school 她标要学 ⇒ 新建 #502）
 - 2026-10-20 ✅ 学习日 在池第 2 组 [4] · `Young people barely cook nowadays. Take my cousin, for example—she gets food delivery over twenty days a month.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [3] · `Many seniors learn things super fast these days. Take my granddad—he actually taught himself how to edit videos in his seventies.` —— Take my granddad—
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **a down payment (on sth)** ＝ 首付，买房／买车时先一次付掉的那一部分，剩下的再贷款或分期：
@@ -20025,10 +20033,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 1 组 [3]（#482 题里）· 她标「首付这个词需要学下」· 原话 `What we've saved so far is far from enough to cover a down payment.(首付这个词需要学下)`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [2] · `a down payment on a car`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [2] · `the down payment on the new house`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]a（打包）· `the down payment for buying a piano in installments` —— down payment
 
 ### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **drop off sth ／ drop sth off** ＝ 自己（多半是顺路）把东西或人带到某处、放下就走：
@@ -20056,10 +20065,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [7]（#478 题里）· 她问「和 send 的区别学下」· 原话 `… he makes a detour to the hospital to drop off(和send的区别学下) soup for his grandma in hospital …`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [3] · `On my way home from work, I dropped off the spare key at my mom's and took off.`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [3] · `On my way to work, I dropped off a box of old toys at the local donation center and took off.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [5] · `On my way to the grocery store, I just dropped off my dry cleaning at the shop and left.` —— dropped off
 
 ### 502 · **cram school**（补习班：为了考试突击补课的校外班）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **cram school** ＝ 为了升学考试、放学后／周末去的补习班（亚洲语境最常用）：
@@ -20083,14 +20093,16 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 **题面**
 "（为了中考突击的那种）周末补习班"（放学后、周末去的校外补课班）
+★ 2026-10-24 换场景写成"专门为了考试拔高"，她答 test-prep class 合法 ⇒ 以后中文写到"天天去、密集填鸭的校外补习机构"，把答案收向 cram school
 
 - 2026-10-17 ❌ 首犯 · 付息日 a 在池第 2 组 [10]（#499 题里）· 她标「这个词组学下」· 原话 `… Take my nephew, for instance—he has cram school(这个词组学下) every single night until nine.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [4] · `weekend cram school for the high school entrance exams`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [4] · `the night cram school during my final year of high school`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]b（打包）· `an after-school math test-prep class for primary schoolers` —— 答 test-prep class：合法且贴题面（括号写"专门为了考试拔高"），§3.3 ⇒ ✅；cram school 没被逼出来 ⇒ 题面节补 ★（中文写到"天天去、密集填鸭的校外补习机构"）
 
 ### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **over ＋ 名词** ＝ 为了（某件事）而争、而气、而折腾，常带"就为了这么点事"的口气：
@@ -20118,10 +20130,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [1]（#404 题里）· 她标「这个 over 的用法学下」· 原话 `… he'll make me rewrite a whole document just over（这个 over 的用法学下，我本来想写 even if 的) a missing comma.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [5] · `They spent the whole night arguing over who was gonna do the dishes.`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [5] · `The couple next door spent weeks arguing over a parking spot.`。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [6] · `The two kids started fighting in the living room over the remote control.` —— over the remote control
 
 ### 504 · **take up ＋ 时间／空间**（占掉）vs **It takes ＋ 时间**（需要多久）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **It takes (sb) ＋ 时间 ＋ to do** ＝ 做这件事需要多久：`It took us two hours to get it in.`
@@ -20150,10 +20163,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [3]（#176 题里）· 她问「take up 和 take 的区别」· 原话 `… even though it takes up (take up和 take 的区别) a lot of time.`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [6] · `This big couch takes up way too much room—just moving it inside took us two hours.` —— take up 占地方／took us 需要多久，分工都对。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [6] · `This new bookshelf takes up way too much room, and putting it together takes an entire afternoon.` —— take up 占地方／takes 需要多久，分工都对。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [7] · `This treadmill takes up so much space—it took my husband three whole hours just to assemble it.` —— takes up so much space ／ it took my husband three whole hours
 
 ### 505 · **in a bit**（一会儿、马上）vs **in a while**（过一阵子／好久没）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **in a bit** ＝ 一会儿、马上（几分钟内，口语）：`I'll call you back in a bit.` · `I'll be there in a bit.`
@@ -20182,6 +20196,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ❌ 首犯 · 付息日 a2 复检第 4 组 [8]（#67 题里）· 她标「in a bit / in a while 学下」· 原话 `… so I'm going to put them away in a bit(in a bit / in a while 学下).`
 - 2026-10-19 ✅ 学习日 在池第 2 组 [7] · `I'll be there in a bit—speaking of which, we haven't seen each other in a while.` —— in a bit 马上／in a while 好久没，分工都对。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [7] · `I'll be there in a bit right after this meeting. It's been a while since our family sat down for a meal together.` —— in a bit 马上 ✓；"好久没"走了 It's been a while since（合法且贴题面，§3.3 ⇒ ✅；10-19 已用对 haven't … in a while）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [8] · `I'll finish sending this email first and call you back in a bit—it's really been a while since we had a good chat.` —— in a bit ✓；"好久没"走 it's been a while since（合法，同 10-20）
 
 ### 506 · **call it quits**（决定到此为止、不干了：结束一段关系／一份工作／一件正在做的事）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
