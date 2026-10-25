@@ -1076,7 +1076,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 ### 526 · **down jacket**（羽绒服；也说 puffer jacket）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **down jacket** ＝ 羽绒服（里面填鸭绒／鹅绒的冬衣）：`a long down jacket` · `a lightweight down jacket`；口语也常说 `puffer jacket`（鼓鼓的那种）。
@@ -1102,10 +1102,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the long down jacket you need to bring to Harbin in winter
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [1]（#467 题里）· 她标「背下」· 原话 `This dry cleaner charges sixty bucks to clean a down jacket（背下）.`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [1] · `that long down jacket you've gotta take for a winter trip to Harbin` —— down jacket。连错 1 → 连对 1
 
 ### 527 · **in public**（在公共场合、当着外人的面；反义 in private）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **in public** ＝ 在公共场合、当着外人的面：`Don't argue in public.` · `She never cries in public.` · `beat up a thief in public`；反义 **in private**（私下）。块里⛔不带 the。
@@ -1131,10 +1132,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My mom never scolded me in public — she always waited until we got home.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [3]d（#498 题里）· 她标「背下」· 原话 `that vigilante in the news who beat up a thief in public（背下) and was taken away by the police`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [2] · `My mom never scolds me in public—she always saves it for when we get back home.` —— in public。连错 1 → 连对 1
 
 ### 528 · **get the hang of sth**（摸到窍门、上手了：got the hang of it）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **get the hang of sth** ＝ 摸到窍门、上手（一件要动手的事，刚开始不会，慢慢会了）：`It took me a week to get the hang of the new software.` · `Once you get the hang of it, it's easy.` · `she got the hang of it in no time`。hang 前面固定是 the。
@@ -1161,10 +1163,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：This new coffee machine has way too many buttons — it took me a week to get the hang of it.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [6]（#489 题里）· 她标「这个短语背下」· 原话 `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [3] · `There are way too many buttons on this new coffee maker; it took me a week to finally get the hang of it.` —— get the hang of it。连错 1 → 连对 1
 
 ### 529 · **smash sth in**（把窗户／门砸破、砸进去：had my car window smashed in）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **smash sth in** ＝ 用力把窗、门、玻璃砸破，砸得往里塌：`Someone smashed in my car window.` · `I had my car window smashed in.`；宾语是代词时放中间：`smash it in`。
@@ -1190,10 +1193,12 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：The thieves smashed in the shop's glass door and stole the cash register.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [2]（#497 题里）· 她标「这个词组背下」· 原话 `I had my car window smashed in（这个词组背下） while parked on the street.`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [7] · `The thief smashed in the store's glass door and made off with the cashiet.` —— smashed in the store's glass door。连错 1 → 连对 1
+  ｜ 同句 cashier（收银员）≠ 收银机 ⇒ 另建 #539
 
 ### 530 · **come top (of sth)**（拿第一：came top of her grade；⛔ came the top of）
 类型 搭配 ｜ 新建 2026-10-22
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **come top (of the class／of her grade／in the exam)** ＝ 考第一、排第一，**top 前不加 the**。也说 **come first in** ＋ 范围（came first in her grade）。
@@ -1219,10 +1224,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My cousin came top of his class in the final exams this term.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [5]（#434 题里）· 原话 `She came the top of the grade for two straight years.` ⇒ 最小改 came top of the grade（更好版 came top of her grade）
+- 2026-10-24 ✅ 学习日 在池第 2 组 [5] · `My cousin came top of his class in this semester's finals.` —— came top of his class（不带 the）。连错 1 → 连对 1
 
 ### 531 · **pass out**（晕倒、昏过去）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pass out** ＝ 晕倒、失去知觉（口语最常用）：`He passed out from the heat.` · `I nearly passed out.` · `An old man passed out on the subway.`
@@ -1248,10 +1254,12 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：It was so hot that several students passed out while standing at military training.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [7]（#335 题里）· 她标「这个词组学下」· 原话 `An old man passed out（这个词组学下） on the subway and people around just froze, but he was the only one who took action right away.`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [4] · `It was so hot that a few students passed out right while standing during military training.` —— passed out。连错 1 → 连对 1
+  ｜ ⚠️ right while standing → right where they stood ⇒ 另建 #538
 
 ### 532 · **credit**（功劳、认可）不可数：deserve credit · give sb credit（⛔ credits）
 类型 词汇 ｜ 新建 2026-10-22
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **credit** 当"功劳、认可"讲**不可数**：`deserve credit` · `give sb credit for sth` · `take (the) credit for sth` · `get all the credit`；要加量用 a lot of／most of the credit。
@@ -1280,10 +1288,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Xiao Wang deserves most of the credit for getting this project done.
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（#341 题里）· 原话 `Since the sports event went so smoothly, those volunteers truly deserve credits.` ⇒ 最小改 deserve credit
+- 2026-10-24 ✅ 学习日 在池第 2 组 [6] · `Xiao Wang deserves the most credit for getting this project off the ground.` —— the most credit（不可数，没加 s）。连错 1 → 连对 1
 
 ### 533 · **wreath**（花环、花圈：a Christmas wreath）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **wreath** ＝ 编成一圈的花环／花圈：`a Christmas wreath`（圣诞节挂在门上的那种）· `lay a wreath`（献花圈）。
@@ -1309,10 +1318,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the Christmas wreath hanging on the front door
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [8] · `that christmas wreath hanging over the fireplace` —— wreath。连错 1 → 连对 1
 
 ### 534 · **pinecone**（松果；也写 pine cone）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **pinecone** ＝ 松果（松树结的、一片片鳞片的那种）：`collect pinecones` · `a squirrel nibbling on a pinecone`；也写 pine cone。
@@ -1338,10 +1348,12 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the pinecone the squirrel is gnawing on
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [9] · `that pinecone the squirrel was munching on(这个词组学下)` —— pinecone。连错 1 → 连对 1
+  ｜ 她标 munching on「这个词组学下」⇒ §2③ 另建 #540
 
 ### 535 · **ribbon**（丝带、缎带：tie a ribbon · cut the ribbon）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-22 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **ribbon** ＝ 丝带、缎带：`tie a ribbon around the box` · `a red ribbon` · `cut the ribbon`（剪彩）。
@@ -1367,6 +1379,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the red ribbon tied around the gift box
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
+- 2026-10-24 ✅ 学习日 在池第 2 组 [10] · `that red ribbon tied in a bow on the gift box` —— ribbon。连错 1 → 连对 1
 
 ### 537 · **put together ＋ 东西**（自己挑选、拼排出一整份：put together an itinerary／a menu／a playlist）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
@@ -1398,6 +1411,95 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My friend put together the whole menu for the birthday party on her own.
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [9]（#524 题里）· 她标「这个词组学下」· 原话 `that three-day Tokyo itinerary I put together(这个词组学下) myself`
+
+### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
+类型 词组 ｜ 新建 2026-10-24
+状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**right where ＋ 人 ＋ stood／was standing／was** ＝ 就在（他）原来站着／待着的那个地方：
+`passed out right where they stood` · `He collapsed right where he stood.` · `Stay right where you are.`
+同一格里的邻居（别串）：on the spot（当场，偏"时间上立刻"）· right there（就在那儿，泛指）· 🎓#163 I just stood there（愣住了，说的是反应，不是地点）。
+判据一句话：说"就倒在原地／就在原地没动" ⇒ right where ＋ 人 ＋ stood／was；说"当场立刻" ⇒ on the spot。
+★ right 后面通常接一个**时间点**（right as／right after／right before）；standing 是一段持续的状态，挂上 right while 读着别扭。
+★ 题型判整句："原地"能落到 on the spot／right there 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-24 学习日 在池第 2 组 [4]（#531 题面"天太热了，好几个军训的学生站着站着就晕倒了。"）· 原话
+`It was so hot that a few students passed out right while standing during military training.`
+考点 pass out 用对（#531 ✅）；diff-2 ⚠️："站着站着就倒下"落成 right while standing，生硬 ⇒ right where they stood ⇒ §3.2b 能学的表达 ⇒ 建号（同 #525 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "where they stood"／"where he"／"keel" ⇒ 零命中；"on the spot" ⇒ 🎓#517（历史行字样）⇒ 否；"stood" ⇒ 🎓#163（I just stood there ＝ 愣住，另一个块）· 🎓#212 #16 #152 #167 #12（历史／正文字样）⇒ 否
+　② 中文 dedup "原地" ⇒ 🎓#490（stay on 正文字样）⇒ 否；"站着" ⇒ 🎓#270 #324（正文字样）· #531（本题题面）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`passed out right while standing during military training`　　更地道：`passed out right where they stood during military training`
+找法：中文"站着站着就…／就在原地…"，先落 right where ＋ 人 ＋ stood。
+
+**题面**
+"他跑完马拉松，一过终点线就在原地瘫倒了。"（"就在原地"用 **right where** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He finished the marathon and collapsed right where he stood the moment he crossed the finish line.
+
+- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [4]（#531 题里）· diff-2 ⚠️ · 原话 `It was so hot that a few students passed out right while standing during military training.` ⇒ 更好版 right where they stood
+
+### 539 · **cash register**（收银机；⛔ cashier ＝ 收银员，是人）
+类型 词汇 ｜ 新建 2026-10-24
+状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**cash register** ＝ 收银机（口语常省成 the register；英式 the till）：`made off with the cash register` · `open the register`。
+同一格里的邻居（别串）：**cashier**（收银员，人）· checkout（结账台、收银台那个位置）· receipt（小票）。
+判据一句话：说的是机器 ⇒ cash register；说的是人 ⇒ cashier；说的是排队结账的那个位置 ⇒ checkout。
+★ 题型判词组：一个名词块，缺口只是调不调得出来；"收银机"＋括号"那台机器"映射回 cash register，唯一可判。
+
+**怎么发现的**
+2026-10-24 学习日 在池第 2 组 [7]（#529 题面"小偷砸破了店里的玻璃门，把收银机偷走了。"）· 原话
+`The thief smashed in the store's glass door and made off with the cashiet.`
+考点 smash in 用对（#529 ✅）；"收银机"调成了 cashier（收银员）⇒ 选词错（§2.1：她调的是另一个词，照常算；cashiet 的 t 属拼写不算）⇒ 建号。
+判重三步：
+　① 目标形式 dedup "cash register" ⇒ #529（历史行里的目标形式字样）⇒ 否；"cashier" ⇒ 零命中
+　② 中文 dedup "收银" ⇒ #529（题面字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`made off with the cashiet`（＝ cashier）　　正确：`made off with the cash register`
+找法：说"收银…"先问一句 —— 是那台机器、那个人，还是那个台子？
+
+**题面**
+"超市结账台上那台收银机"（收钱、打小票、抽屉里放现金的那台机器）
+★ 目标形式（教练看，⛔ 不进发题稿）：the cash register at the supermarket checkout
+
+- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [7]（#529 题里）· 原话 `The thief smashed in the store's glass door and made off with the cashiet.`
+
+### 540 · **munch on sth**（大口地嚼、咔嚓咔嚓地啃：munch on chips／an apple）
+类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**munch on ＋ 吃的** ＝ 一口一口地嚼（吃得香、有声音，多说零食、水果）：`munching on chips` · `munch on an apple` · `the squirrel was munching on a pinecone`。
+同一格里的邻居（别串）：chew（嚼，最泛）· gnaw on（啃硬东西：狗啃骨头）· nibble on（小口小口地啃）· snack on（吃零食，说的是吃什么）。
+判据一句话：吃得香、嘎吱嘎吱嚼 ⇒ munch on；啃硬的、费劲 ⇒ gnaw on；小口小口 ⇒ nibble on。
+★ 题型判整句："嚼／啃"能落到 chew／gnaw／nibble 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 munch on。
+
+**怎么发现的**
+2026-10-24 学习日 在池第 2 组 [9]（#534 题面"松鼠抱着啃的那颗松果"）· 原话
+`that pinecone the squirrel was munching on(这个词组学下)`
+她用对了、自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #518 #522 #537 先例）。
+判重三步：
+　① 目标形式 dedup "munch" ⇒ 零命中
+　② 中文 dedup "啃" ⇒ 🎓#390（get through，啃完书，比喻）· 🎓#512（finish，"吃完"）· 🎓#415（历史字样）· #534（本题题面）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `the squirrel was munching on`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"嘎吱嘎吱地嚼／抱着啃（零食、苹果）"先试 munch on。
+
+**题面**
+"我弟弟一边看电影，一边抱着一大袋薯片嘎吱嘎吱地嚼。"（"嘎吱嘎吱地嚼"用 **munch on** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My brother was munching on a big bag of chips while watching the movie.
+
+- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
 
 ## 迁移说明（2026-08-18）
 
