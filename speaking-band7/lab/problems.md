@@ -784,7 +784,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [2] · `My cousin opened a little bakery downstairs from the apartment building he lives in.` —— downstairs from ＋ 参照物，from 在。连错 1 → 连对 1
   ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
 - 2026-10-24 ✅ 学习日 在池第 1 组 [3] · `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.` —— downstairs from ＋ 参照物，from 在。连对 1 → 2 ⇒ 🎓
-  ｜ 同句 There is a gym is …（There is 后名词又多一个 is）⇒ 另建 #536
+  ｜ 同句 There is a gym is …（多一个 is）她当场说明是手滑 ⇒ 不计错、不建号（当天建的 #536 已撤，编号作废不复用）
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
@@ -1367,39 +1367,6 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 ★ 目标形式（教练看，⛔ 不进发题稿）：the red ribbon tied around the gift box
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
-
-### 536 · There is ＋ 名词 ＋ 地点（**There is 已经是谓语，名词后面不再加 is**；⛔ There is a gym is …）
-类型 结构 ｜ 新建 2026-10-24
-状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**There is／There's ＋ 名词 ＋ 地点／修饰** ＝ "（某处）有／是一个 X"：`There's a gym right downstairs from our office.` —— There is 就是这句的谓语，名词后面直接挂地点。
-另一条路是让名词自己当主语：`A gym is right downstairs from our office.`（同一个意思，换一条路）。
-⛔ 两条路拼在一起就多出一个谓语：`There is a gym is right downstairs …`
-同一格里的邻居（别串）：There is X ＋ that 从句（`There's a gym that opens at six` —— 第二个动词装在从句里，合法）· 🎓#210 there is 后面要名词（管 There is 后面挂什么；本条管名词后面别再来一个谓语）。
-判据一句话：一句里用了 There is，名词后面就只接地点／修饰／that 从句，⛔ 不再接 is。
-★ 题型判整句：考点是"名词后面多不多一个谓语"，靠句子才现形；类型 结构 ⛔ 不许标词组。
-
-**怎么发现的**
-2026-10-24 学习日 在池第 1 组 [3]（#436 题面"我们租的那间办公室楼下是一家健身房，每天都能听到音乐声。"）· 原话
-`There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.`
-考点 downstairs from 用对（#436 ✅）；句首 There is a gym 之后又来一个 is ⇒ 结构真错 ⇒ 建号（§2①）。
-★ 她 10-10 `There's a coffee shop downstairs from our company`、10-21 `There's a subway entrance right downstairs their building` 都没多 is ⇒ 多半是中文"楼下是一家健身房"的"是"被直译成 is、又和 There is 叠在一起；不在 §3.4 形态类清单（不是词尾／形态标记）⇒ 照常建号、照常出题。
-判重三步：
-　① 目标形式 dedup "there is" ⇒ 🎓#135（社会／大家 → there is，管选不选 there is）· 🎓#210（there is 后面要名词，退池）· 🎓#32 There's no point · 🎓#167 There's no rush（固定块）· 其余只是历史行字样 ⇒ 都否：没有一条管"名词后面多一个谓语"
-　　 dedup "there are" ⇒ 🎓#346（where 后面那句要有动词 —— 缺动词，方向相反）⇒ 否
-　② 中文 dedup "两个谓语" ⇒ 🎓#217（and 接第二个谓语时否定带助动词）· #147（时态只标一次，形态类）⇒ 否；标题含 there 的只有 #32 #135 #167 #210 ⇒ 同上
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`There is a gym is right downstairs from the office space we rent`　　正确：`There is a gym right downstairs from the office space we rent`（或 `A gym is right downstairs from …`）
-找法：开口用了 There is／There's，说完那个名词回头扫一眼 —— 后面是不是又冒出一个 is？有就删掉。
-
-**题面**
-"学校对面就是一家文具店，一放学就挤满了学生。"（"对面就是一家文具店"用 **there's** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：There's a stationery shop right across from the school, and it's packed with students as soon as school lets out.
-
-- 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [3]（#436 题里）· 原话 `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.`
 
 ### 537 · **put together ＋ 东西**（自己挑选、拼排出一整份：put together an itinerary／a menu／a playlist）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
