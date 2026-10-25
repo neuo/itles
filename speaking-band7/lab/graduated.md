@@ -20495,7 +20495,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 **distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
@@ -20524,6 +20524,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-20 ❌ 首犯 · 学习日 ③ 重答 bank:308 S6 · 原话 `I distinctively remember spending an entire month staying in my dorm room, …` ⇒ 最小改 I distinctly remember
 - 2026-10-21 ✅ 学习日 在池第 2 组 [1] · `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（…需要学下） against the window looking outside.` —— I distinctly remember ✓。连错 1 → 连对 1 ｜ 同句她标学下的 spend ＋ 时间 ＋ 状态 ⇒ 新建 #518
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [7] · `I distinctly remember the day my Gaokao scores came out—my mom got so emotional she cried.` —— distinctly（-ly）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-24 ✅ 自发命中 · 学习日 ③ 重答 bank:211（R26 · P2 · 自由产出）S3 · `I distinctly remember that back when I was little, he was always the first one up, just so he could go and water his plants.`
 
 ### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
 类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
