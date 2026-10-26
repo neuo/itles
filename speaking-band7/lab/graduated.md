@@ -20074,7 +20074,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **drop off sth ／ drop sth off** ＝ 自己（多半是顺路）把东西或人带到某处、放下就走：
@@ -20103,6 +20103,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [3] · `On my way home from work, I dropped off the spare key at my mom's and took off.`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [3] · `On my way to work, I dropped off a box of old toys at the local donation center and took off.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [5] · `On my way to the grocery store, I just dropped off my dry cleaning at the shop and left.` —— dropped off
+- 2026-10-25 ✅ 自发命中 · 学习日 在池第 1 组 [2]（#525 题里，本条没被出题）· `Someone dropped off a cardboard box right on my doorstep with three tiny kittens in it.` —— drop off ＝ 放下就走
 
 ### 502 · **cram school**（补习班：为了考试突击补课的校外班）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学

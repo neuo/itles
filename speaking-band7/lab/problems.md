@@ -703,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 340 · a step up from that（递进到更高一档；⛔ on top of that 是平级追加）
 类型 词组 ｜ 新建 2026-09-13 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-22**（09-21 毕业 → 10-22 复检第 5 组 [5] `taking it a step up is being able to …`：没落到块 a step up from that、退回动词的路，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-25 ｜ 题型 整句 ｜ **回潮 2026-10-22**（09-21 毕业 → 10-22 复检第 5 组 [5] `taking it a step up is being able to …`：没落到块 a step up from that、退回动词的路，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-25**（连对2 ＝ 10-24 ＋ 10-25；10-22 回潮后第二次毕业）
 
 **问题是什么**
 **a step up from that** ／ **going a step further** ＝ "再往上一档"：前一条是底线，这一条比它更高。
@@ -748,10 +748,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [4] · `Knowing how to cook is one thing; a step up from that is pulling off a proper New Year's Eve feast.` —— a step up from that
 - 2026-10-22 ❌ 复检 · 付息日 a2 段复检第 5 组 [5] · `Knowing how to drive is one thing; taking it a step up is being able to drive steadily in a blizzard.` —— "再往上一档"没落到块 a step up from that，退回动词的路（take it a step further 与 take it up a notch 混搭）⇒ 最小改 a step up from that is being able to … ⇒ 🎓 回潮
 - 2026-10-24 ✅ 学习日 在池第 1 组 [1] · `Being polite is just the baseline for hotel staff; a step up from that is actually remembering a regular guest's personal preferences.` —— a step up from that（step 当名词、from 在；没退回 10-22 taking it a step up 的动词路）。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [1] · `Learning how to swim isn't too tough; a step up from that is being able to swim a kilometer non-stop in the ocean.` —— a step up from that（step 当名词、from that 在）。连对 1 → 2 ⇒ 🎓
 
 ### 525 · **on the doorstep**（家门口：东西放在某户人家门外那一小块；⛔ at the entrance）
 类型 词组 ｜ 新建 2026-10-22
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **on the doorstep** ＝ 家门口（门外紧挨着门的那一小块地方）：`left the package on my doorstep` · `found a bag of oranges on the doorstep`。
@@ -779,10 +780,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a 段在池第 1 组 [8]（#517 题里）· diff-2 ⚠️ · 原话 `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` ⇒ 更好版 on the doorstep
 - 2026-10-24 ✅ 学习日 在池第 1 组 [10] · `I opened my door this morning to find a bag of oranges left on my doorstep by a neighbor.` —— on my doorstep。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [2] · `Someone dropped off a cardboard box right on my doorstep with three tiny kittens in it.` —— right on my doorstep（介词 on ✓）。连对 1 → 2 ⇒ 🎓
 
 ### 526 · **down jacket**（羽绒服；也说 puffer jacket）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 词组
 
 **问题是什么**
 **down jacket** ＝ 羽绒服（里面填鸭绒／鹅绒的冬衣）：`a long down jacket` · `a lightweight down jacket`；口语也常说 `puffer jacket`（鼓鼓的那种）。
@@ -806,13 +808,15 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 **题面**
 "冬天去哈尔滨要带的那件长款羽绒服"（里面填满鸭绒、鼓鼓囊囊的那种冬衣）
 ★ 目标形式（教练看，⛔ 不进发题稿）：the long down jacket you need to bring to Harbin in winter
+★ 10-25 括号写了"外套"⇒ 她答 down coat（合法，down 到位）；下次括号别写"外套"，写"短款、到腰的那种"往 jacket 收
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [1]（#467 题里）· 她标「背下」· 原话 `This dry cleaner charges sixty bucks to clean a down jacket（背下）.`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [1] · `that long down jacket you've gotta take for a winter trip to Harbin` —— down jacket。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [3] · `that short dawn coat you wear when skiing` —— down（羽绒）✓；dawn 属拼写不算（10-24 自己写对过 down jacket）；down coat 合法且贴题面（括号写了"外套"）⇒ §3.3 记 ✅、题面节补 ★。连对 1 → 2 ⇒ 🎓
 
 ### 527 · **in public**（在公共场合、当着外人的面；反义 in private）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **in public** ＝ 在公共场合、当着外人的面：`Don't argue in public.` · `She never cries in public.` · `beat up a thief in public`；反义 **in private**（私下）。块里⛔不带 the。
@@ -839,10 +843,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [3]d（#498 题里）· 她标「背下」· 原话 `that vigilante in the news who beat up a thief in public（背下) and was taken away by the police`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [2] · `My mom never scolds me in public—she always saves it for when we get back home.` —— in public。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [4] · `My boss never calls anyone out in public; if there's a problem, he always brings you into his office to talk privately.` —— in public ✓。连对 1 → 2 ⇒ 🎓
 
 ### 528 · **get the hang of sth**（摸到窍门、上手了：got the hang of it）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **get the hang of sth** ＝ 摸到窍门、上手（一件要动手的事，刚开始不会，慢慢会了）：`It took me a week to get the hang of the new software.` · `Once you get the hang of it, it's easy.` · `she got the hang of it in no time`。hang 前面固定是 the。
@@ -870,10 +875,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 3 组 [6]（#489 题里）· 她标「这个短语背下」· 原话 `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [3] · `There are way too many buttons on this new coffee maker; it took me a week to finally get the hang of it.` —— get the hang of it。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [5] · `My American roommate was trying to learn chopsticks for the first time, and it took a few days for him to get the hang of it.` —— get the hang of it（the ✓ of it ✓）。连对 1 → 2 ⇒ 🎓
 
 ### 529 · **smash sth in**（把窗户／门砸破、砸进去：had my car window smashed in）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **smash sth in** ＝ 用力把窗、门、玻璃砸破，砸得往里塌：`Someone smashed in my car window.` · `I had my car window smashed in.`；宾语是代词时放中间：`smash it in`。
@@ -901,10 +907,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [2]（#497 题里）· 她标「这个词组背下」· 原话 `I had my car window smashed in（这个词组背下） while parked on the street.`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [7] · `The thief smashed in the store's glass door and made off with the cashiet.` —— smashed in the store's glass door。连错 1 → 连对 1
   ｜ 同句 cashier（收银员）≠ 收银机 ⇒ 另建 #539
+- 2026-10-25 ✅ 学习日 在池第 1 组 [9] · `Firefighters smashed in the window to pull out the old person trapped inside.` —— smashed in the window ✓。连对 1 → 2 ⇒ 🎓
 
 ### 530 · **come top (of sth)**（拿第一：came top of her grade；⛔ came the top of）
 类型 搭配 ｜ 新建 2026-10-22
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **come top (of the class／of her grade／in the exam)** ＝ 考第一、排第一，**top 前不加 the**。也说 **come first in** ＋ 范围（came first in her grade）。
@@ -931,10 +938,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [5]（#434 题里）· 原话 `She came the top of the grade for two straight years.` ⇒ 最小改 came top of the grade（更好版 came top of her grade）
 - 2026-10-24 ✅ 学习日 在池第 2 组 [5] · `My cousin came top of his class in this semester's finals.` —— came top of his class（不带 the）。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [7] · `My colleague's son came top in the whole province for his Gaokao exams.` —— came top in the whole province（不带 the ✓）。连对 1 → 2 ⇒ 🎓
 
 ### 531 · **pass out**（晕倒、昏过去）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **pass out** ＝ 晕倒、失去知觉（口语最常用）：`He passed out from the heat.` · `I nearly passed out.` · `An old man passed out on the subway.`
@@ -962,10 +970,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [7]（#335 题里）· 她标「这个词组学下」· 原话 `An old man passed out（这个词组学下） on the subway and people around just froze, but he was the only one who took action right away.`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [4] · `It was so hot that a few students passed out right while standing during military training.` —— passed out。连错 1 → 连对 1
   ｜ ⚠️ right while standing → right where they stood ⇒ 另建 #538
+- 2026-10-25 ✅ 学习日 在池第 1 组 [6] · `My friend is terrified of needles, so she actually passed out when getting her blood drawn last time.` —— passed out ✓。连对 1 → 2 ⇒ 🎓
 
 ### 532 · **credit**（功劳、认可）不可数：deserve credit · give sb credit（⛔ credits）
 类型 词汇 ｜ 新建 2026-10-22
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **credit** 当"功劳、认可"讲**不可数**：`deserve credit` · `give sb credit for sth` · `take (the) credit for sth` · `get all the credit`；要加量用 a lot of／most of the credit。
@@ -995,10 +1004,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（#341 题里）· 原话 `Since the sports event went so smoothly, those volunteers truly deserve credits.` ⇒ 最小改 deserve credit
 - 2026-10-24 ✅ 学习日 在池第 2 组 [6] · `Xiao Wang deserves the most credit for getting this project off the ground.` —— the most credit（不可数，没加 s）。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [8] · `My dad did most of the cooking for Chinese New Year's Eve dinner, but my mom claimed all the credit for herself.` —— all the credit（不可数、没加 s ✓）。连对 1 → 2 ⇒ 🎓
 
 ### 533 · **wreath**（花环、花圈：a Christmas wreath）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 词组
 
 **问题是什么**
 **wreath** ＝ 编成一圈的花环／花圈：`a Christmas wreath`（圣诞节挂在门上的那种）· `lay a wreath`（献花圈）。
@@ -1025,6 +1035,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [8] · `that christmas wreath hanging over the fireplace` —— wreath。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 1 组 [10] · `the funeral wreaths set up on both sides of the memorial hall` —— wreath（花圈义）✓。连对 1 → 2 ⇒ 🎓
 
 ### 534 · **pinecone**（松果；也写 pine cone）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
