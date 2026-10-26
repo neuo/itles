@@ -1314,6 +1314,66 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]e（#448 题里）· 她标「背下」· 原话 `that elevated expressway bumper-to-bumper(背下) in the morning rush`
 
+### 544 · **pet**（动词：摸、撸小动物：pet the dog · get petted）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pet** 当动词 ＝ 用手一下一下地摸（猫狗等小动物，带亲昵）：`pet the dog` · `Can I pet your cat?` · `The dog loves getting petted.`
+**get petted** ＝ 被人摸（狗凑过来"让人摸摸"）。
+同一格里的邻居（别串）：stroke（顺着毛抚摸，偏书面）· pat（轻拍：pat the dog on the head）· cuddle（抱着搂着）· touch（碰，最泛、不带亲昵）。
+判据一句话：用手摸小动物、表示亲昵 ⇒ pet；轻轻拍两下 ⇒ pat；抱在怀里 ⇒ cuddle。
+★ 题型判整句："摸"能落到 stroke／pat／touch 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 pet。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 4 组 [1]（🎓#442 题面"我们楼下那只金毛特别亲人，谁路过都要凑上去让人摸摸。"）· 原话
+`The Golden Retriever downstairs is exceptionally affectionate; he runs up to anyone walking past just to get petted(这个词学下).`
+她用对了 get petted，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #537 #540 先例）。
+判重三步：
+　① 目标形式 dedup "petted"／"pet the" ⇒ 零命中
+　② 中文 dedup "摸" ⇒ 🎓#279（get a feel for，摸出手感）· 🎓#528（get the hang of，摸到窍门，比喻）· 🎓#45 #68 #133 #510（正文字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `just to get petted`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"摸摸（猫狗）／撸猫"先落 pet；"让人摸"⇒ get petted。
+
+**题面**
+"我侄女一见到小猫就蹲下来摸个不停。"（"摸"用 **pet** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Whenever my niece sees a kitten, she crouches down and keeps petting it.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [1]（#442 题里）· 她标「这个词学下」· 原话 `he runs up to anyone walking past just to get petted(这个词学下).`
+
+### 545 · **quarter-final**（四分之一决赛：八强赛；the quarter-finals）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**quarter-final** ＝ 四分之一决赛（还剩八个队／八个人的那一轮，中文常说八强赛）；那一轮有四场 ⇒ 常用复数 **the quarter-finals**（也写 quarterfinals）：`knocked out in the quarter-finals` · `make it to the quarter-finals`。
+同一格里的邻居（别串）：🎓#433 semi-final（半决赛，再往后一轮）· the final（决赛，一场，单数）· the knockout stage（淘汰赛阶段）。
+判据一句话：决赛往前数第一轮 ⇒ semi-final；第二轮 ⇒ quarter-final。
+★ 在哪一轮被淘汰，最常说 in：knocked out in the quarter-finals（during 也能懂，不算错）。
+★ 题型判词组：一个名词块，"八强赛"映射回 the quarter-finals；答 the last eight 合法且贴题面 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 4 组 [5]（🎓#449 题面"我们学校的辩论队在八强赛就被淘汰了。"）· 原话
+`Our school's debate team was knocked out during the quarter-finals(学下).`
+她写对了 quarter-finals，自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #433 先例）。
+判重三步：
+　① 目标形式 dedup "quarter" ⇒ 🎓#433（semi-final，另一个词；正文把 quarter-final 列为邻居 ⇒ 题面互斥：本条题面不带"半决赛"）· 🎓#19（分数 a quarter）⇒ 都否；"semifinal" ⇒ 🎓#433（同上）
+　② 中文 dedup "八强" ⇒ 零命中；"决赛"／"轮" ⇒ 🎓#415（make it through to）· 🎓#395（tournament）· 🎓#408（a round of）· 🎓#475 及其余正文字样 ⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the quarter-finals`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"八强（赛）"先落 the quarter-finals。
+
+**题面**
+"世界杯八强赛"（还剩八支队伍、再赢两轮就进决赛的那一轮）
+★ 目标形式（教练看，⛔ 不进发题稿）：the World Cup quarter-finals
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [5]（#449 题里）· 她标「学下」· 原话 `Our school's debate team was knocked out during the quarter-finals(学下).`
+
 ## 迁移说明（2026-08-18）
 
 ```

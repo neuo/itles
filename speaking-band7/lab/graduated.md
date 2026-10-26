@@ -14899,7 +14899,7 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭更好吃"把动作和做出来的饭说成一件事，
@@ -14936,6 +14936,7 @@ delicious／tasty／tastes good 说的是**吃的东西**。中文"在家做饭�
   去掉"⛔ delicious／tasty"，只点名 taste，主语挂哪、比较级怎么说留给她；换成烤蛋糕场景
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [6] · `My grandma's braised pork tastes so much better than what they serve at restaurants.` —— "好吃"挂在吃的东西上（tastes better）
   ★ 同句她标背 braised ⇒ 新建 #412，不算本条
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [7] · `The dumplings in this shop are handmade, tasting so much better than frozen ones you buy at the store.` —— "好吃"挂在 dumplings 上、用 taste ✓（-ing 连接偏书面，★ 给了 so they taste，不建号）
 
 ### 349 · "网上／通过网络" ＝ online（⛔ through the internet）
 类型 词组 ｜ 新建 2026-09-19
@@ -14975,7 +14976,7 @@ You can do pretty much anything online. ／ I booked it online.
 
 ### 350 · let your imagination run wild（让想象力放开跑）
 类型 词组 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 "让想象力自由发挥／放开想" ＝ **let your imagination run wild**（固定说法；run free 同样地道）。
@@ -15005,10 +15006,11 @@ You can do pretty much anything online. ／ I booked it online.
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
   点名 run，let … imagination … wild 怎么搭留给她；换成孩子放假场景
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [7] · `… just let your imagination run wild.` —— let your imagination run wild
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [8] · `This Lego set doesn't come with a manual, so the kids can just let their imagination run wild and build whatever comes to mind.` —— let their imagination run wild
 
 ### 351 · feel ＋ 名词必须加 like（it feels **like** a mini-escape）
 类型 语法 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-10-05 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
 
 **问题是什么**
 **feel 后面挂名词，中间必须有 like**：It feels **like** a mini-escape. ／ It feels **like** home. ／ That felt **like** a waste of time.
@@ -15041,10 +15043,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
   去掉"像那个词不许省 ＋ ⛔ is／seems"，改零提示；换成咖啡馆像家场景 —— feel 直接挂名词这条路照旧开着
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [9] · `Living in this small town almost feels like you're on vacation.` —— feels like ＋ 从句，like 没漏
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [9] · `The Monday morning meeting lasted for three solid hours, so it felt like running a marathon.` —— felt like running a marathon（like 在 ✓）
 
 ### 352 · "亲眼看到真东西" ＝ seeing the real thing（⛔ the real-life feeling）
 类型 词组 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 中文"真实感／实物感"别硬拼成一个名词（the real-life feeling）。英语把它说成**动作**：
@@ -15081,6 +15084,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   去掉"单数固定块 ＋ ⛔ feeling／feel"，只点名 real；换成照片比不上亲眼看场景
 - 2026-09-29 📝 补题面（上一批 🎓#352 状态行改了整句、题面节替换没落上，本行补记新场景：照片比不上亲眼看）
 - 2026-10-06 ✅ 学习日 复检第 3 组 [6]（题面"在博物馆看到真迹，跟在书上看图片完全不是一回事"）· `Seeing the real deal in a museum is a completely different story from looking at pictures in a book.` —— the real deal 与 the real thing 同义，合法且贴题面
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [10] · `I've watched giant pandas on video countless times, but nothing beats seeing the real thing in person in Chengdu.` —— seeing the real thing
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
@@ -18117,7 +18121,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 442 · affectionate（宠物／人亲人、爱亲近）
 类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 **affectionate** ＝ 爱亲近、爱撒娇、主动表达亲热：`a super affectionate dog` ／ `She's very affectionate with her kids.`
@@ -18147,10 +18151,11 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-12 ✅ 付息日 a 段在池第 1 组 [5] · `My grandma's rabbit is super affectionate and loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).` —— super affectionate。连对 1 → 2 ⇒ **毕业**
   ★ 同句另建 #458（snuggle up，她标「这个词组学下」）· #459（in sb's arms，她标「怀里怎么说，不会」）
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [5] · `My friend's parrot is really affectionate; it loves perching(背下) on people's shoulders.` —— affectionate（perching 她标背下 ⇒ 新建 #492）。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [1] · `The Golden Retriever downstairs is exceptionally affectionate; he runs up to anyone walking past just to get petted(这个词学下).` —— exceptionally affectionate（她标的 petted ⇒ 新建 #544）
 
 ### 443 · office ＝ 上班的地方（"公司"指地点 ⇒ office；company 是机构）
 类型 词汇 ｜ 新建 2026-10-10
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 **office** ＝ 上班的那个地方：`downstairs from our office` ／ `I stayed at the office till ten.`
@@ -18181,10 +18186,11 @@ downstairs from 本身对（#436 ✅），diff-2 ⚠️："公司"在这里指�
 - 2026-10-11 ✅ 学习日 在池第 1 组 [9] · `I stayed at the office until ten tonight.` —— at the office（"公司"指地方，没落到 company）。连错 1 → 连对 1
 - 2026-10-12 ✅ 付息日 a 段在池第 1 组 [6] · `I left my phone at the office, so I had to go all the way back to grab it.` —— at the office（"公司"指地方，没落到 company）。连对 1 → 2 ⇒ **毕业**
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [6] · `I make it to the office by seven every single morning.` —— to the office。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [2] · `I don't usually head into the office on weekends; I just work from home instead.` —— head into the office（"公司"当地点 ⇒ office）
 
 ### 444 · get caught up in ＋ 事（一门心思扑在…上、陷进去顾不上别的）
 类型 词组 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 **get (so) caught up in** sth／doing sth ＝ 被一件事卷进去、扑在上面，顾不上别的：`People get so caught up in making money that …` ／ `I got caught up in work and forgot to call her.`
@@ -18214,6 +18220,7 @@ downstairs from 本身对（#436 ✅），diff-2 ⚠️："公司"在这里指�
 - 2026-10-12 ✅ 付息日 a 段在池第 1 组 [7] · `Whenever she gets so caught up in binge-watching a show, she completely forgets about her homework.` —— gets caught up in。连对 1 → 2 ⇒ **毕业**
   ★ diff-2 ⚠️ so 悬空（whenever 已经是"一…就…"，so 要配 that）—— 只删一个词，不建号
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [7] · `Whenever I get caught up in a novel, I completely lose track of time and end up reading until two in the morning.` —— get caught up in。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [3] · `He got so caught up chatting about football that he almost forgot he had a flight to catch.` —— got so caught up chatting
 
 ### 445 · dust（灰：chalk dust／a layer of dust）
 类型 词汇 ｜ 新建 2026-10-10 ｜ 她说不会
@@ -18348,7 +18355,7 @@ diff-2 ⚠️：overpass 是一座桥，"高架"是一整条路 ⇒ 更准是 th
 
 ### 449 · get／be knocked out (of 比赛)（被淘汰）
 类型 词组 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 **get／be knocked out** ＝ 比赛里被淘汰：`He got knocked out in the first round.` ／ `They were knocked out of the World Cup.`（被淘汰出某个比赛用 of）。
@@ -18376,10 +18383,11 @@ diff-2 ⚠️：overpass 是一座桥，"高架"是一整条路 ⇒ 更准是 th
 - 2026-10-11 ✅ 学习日 在池第 2 组 [5] · `The team I root for got knocked out early this season.` —— got knocked out。连错 1 → 连对 1
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [2] · `My cousin entered a singing competition, but he got knocked out in the first round.` —— got knocked out in the first round。连对 1 → 2 ⇒ **毕业**
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [9] · `My daughter got knocked out in the semifinals of the math competition.` —— got knocked out。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [5] · `Our school's debate team was knocked out during the quarter-finals(学下).` —— was knocked out（她标的 quarter-finals ⇒ 新建 #545）
 
 ### 450 · all over ＋ 地方（满…都是、弄得到处都是）
 类型 词组 ｜ 新建 2026-10-10 ｜ 她问怎么说
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 **all over ＋ 地方** ＝ 满…都是：`left a mess all over the table`（弄得满桌都是）· `There's water all over the floor.` · `paint all over his shirt`。
@@ -18409,6 +18417,7 @@ diff-2 ⚠️：overpass 是一座桥，"高架"是一整条路 ⇒ 更准是 th
 - 2026-10-11 ✅ 学习日 在池第 2 组 [6] · `The kid finished eating and left rice grains all over the floor.` —— all over the floor（all over ＋ 地方挂在后面）。连错 1 → 连对 1
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [3] · `I accidentally spilled my coffee all over my keyboard.` —— spilled … all over my keyboard。连对 1 → 2 ⇒ **毕业**
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [8] · `My son came back from soccer practice with mud all over his clothes.` —— mud all over his clothes。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [4] · `It was super windy last night, so there are fallen leaves all over the yard today.` —— all over the yard
 
 ### 451 · locksmith（开锁师傅）
 类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要背
@@ -18444,7 +18453,7 @@ diff-2 ⚠️：overpass 是一座桥，"高架"是一整条路 ⇒ 更准是 th
 
 ### 452 · 钉死的过去时间（last week／yesterday／two days ago）⇒ 一般过去时（⛔ have done … last week）
 类型 语法 ｜ 新建 2026-10-10
-状态 连对2 连错0 上次2026-10-16 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
 
 **问题是什么**
 句子里有**已经结束、钉死的过去时间**（last week／yesterday／in 2019／two days ago／when I was a kid）⇒ **一般过去时**：`He had to call a locksmith twice last week.`
@@ -18472,6 +18481,7 @@ he's had to … last week：完成时撞上钉死的过去时间 ⇒ 时态选�
 - 2026-10-11 ✅ 学习日 在池第 2 组 [8] · `I only paid this month's rent the day before yesterday.` —— the day before yesterday ⇒ 一般过去时 paid。连错 1 → 连对 1
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [5] · `I just got my driver's license last week.` —— last week ⇒ 一般过去时 got。连对 1 → 2 ⇒ **毕业**
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [10] · `I only managed to get my passport issued yesterday.` —— yesterday ⇒ 一般过去时。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 4 组 [6] · `My sister just got back from overseas three days ago.` —— got back … three days ago（一般过去时 ✓）
 
 ### 453 · apartment complex（自己住的"小区"；⛔ our residential area）
 类型 词汇 ｜ 新建 2026-10-11
