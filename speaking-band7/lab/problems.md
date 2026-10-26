@@ -1039,7 +1039,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 534 · **pinecone**（松果；也写 pine cone）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 词组
 
 **问题是什么**
 **pinecone** ＝ 松果（松树结的、一片片鳞片的那种）：`collect pinecones` · `a squirrel nibbling on a pinecone`；也写 pine cone。
@@ -1067,10 +1067,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [9] · `that pinecone the squirrel was munching on(这个词组学下)` —— pinecone。连错 1 → 连对 1
   ｜ 她标 munching on「这个词组学下」⇒ §2③ 另建 #540
+- 2026-10-25 ✅ 学习日 在池第 2 组 [1] · `a little basket of pinecones gathered in the park during autumn` —— pinecones ✓。连对 1 → 2 ⇒ 🎓
 
 ### 535 · **ribbon**（丝带、缎带：tie a ribbon · cut the ribbon）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-24 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 词组
 
 **问题是什么**
 **ribbon** ＝ 丝带、缎带：`tie a ribbon around the box` · `a red ribbon` · `cut the ribbon`（剪彩）。
@@ -1097,10 +1098,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-22 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]②（#98 题里）· 她标「背下」· 原话 `This wreath（背下) is made from pinecones（背下) and ribbons（背下).`
 - 2026-10-24 ✅ 学习日 在池第 2 组 [10] · `that red ribbon tied in a bow on the gift box` —— ribbon。连错 1 → 连对 1
+- 2026-10-25 ✅ 学习日 在池第 2 组 [2] · `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)` —— ribbon ✓（她标的 ponytail／put her hair in a ponytail 另建 #541）。连对 1 → 2 ⇒ 🎓
 
 ### 537 · **put together ＋ 东西**（自己挑选、拼排出一整份：put together an itinerary／a menu／a playlist）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **put together ＋ 东西** ＝ 把零散的几样挑出来、排好，组合成一整份（行程、菜单、歌单、PPT、一支队伍）：
@@ -1128,10 +1130,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：My friend put together the whole menu for the birthday party on her own.
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [9]（#524 题里）· 她标「这个词组学下」· 原话 `that three-day Tokyo itinerary I put together(这个词组学下) myself`
+- 2026-10-25 ✅ 学习日 在池第 2 组 [3] · `The birthday party menu was put together entirely by my friend.` —— was put together（被动跟着"菜单"这个话题走 ✓）。连错 1 → 连对 1
 
 ### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
 类型 词组 ｜ 新建 2026-10-24
-状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **right where ＋ 人 ＋ stood／was standing／was** ＝ 就在（他）原来站着／待着的那个地方：
@@ -1159,10 +1162,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：He finished the marathon and collapsed right where he stood the moment he crossed the finish line.
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [4]（#531 题里）· diff-2 ⚠️ · 原话 `It was so hot that a few students passed out right while standing during military training.` ⇒ 更好版 right where they stood
+- 2026-10-25 ✅ 学习日 在池第 2 组 [4] · `Right after crossing the finish line of the marathon, he collapsed right where he stood.` —— right where he stood ✓。连错 1 → 连对 1
 
 ### 539 · **cash register**（收银机；⛔ cashier ＝ 收银员，是人）
 类型 词汇 ｜ 新建 2026-10-24
-状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **cash register** ＝ 收银机（口语常省成 the register；英式 the till）：`made off with the cash register` · `open the register`。
@@ -1188,10 +1192,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：the cash register at the supermarket checkout
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [7]（#529 题里）· 原话 `The thief smashed in the store's glass door and made off with the cashiet.`
+- 2026-10-25 ✅ 学习日 在池第 2 组 [5] · `that cash register at the checkout counter in the supermarket` —— cash register ✓。连错 1 → 连对 1
 
 ### 540 · **munch on sth**（大口地嚼、咔嚓咔嚓地啃：munch on chips／an apple）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-24 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **munch on ＋ 吃的** ＝ 一口一口地嚼（吃得香、有声音，多说零食、水果）：`munching on chips` · `munch on an apple` · `the squirrel was munching on a pinecone`。
@@ -1217,6 +1222,38 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：My brother was munching on a big bag of chips while watching the movie.
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
+- 2026-10-25 ✅ 学习日 在池第 2 组 [6] · `My younger brother sat munching on a giant bag of chips while watching the movie.` —— munching on ✓。连错 1 → 连对 1
+
+### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
+类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**ponytail** ＝ 马尾辫（脑后扎起来的那一束）；扎马尾 ＝ **put one's hair (up) in a ponytail**：`She put her hair in a ponytail.` · `put it up in a ponytail` · `wear her hair in a ponytail`（平时梳着马尾）。
+同一格里的邻居（别串）：tie one's hair back（把头发往后扎，不说扎成什么）· braid（辫子／编辫子）· bun（丸子头：put her hair up in a bun）· pigtails（两边各一束的双马尾）。
+判据一句话：说"扎成马尾"⇒ put … in a ponytail（介词 in，⛔ 不是 into）；说"平时梳着马尾"⇒ wear … in a ponytail。
+★ 词和块一个号：她要学的是词 ponytail 和块 put her hair in a ponytail；词嵌在块里，产出块就必须调出这个词 ⇒ 不另开号（另开会和本条题面互相泄题）。
+★ 题型判整句："扎马尾"能落到 tie it back／wear a ponytail 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。首测给整块（§6②：她说要学的 ⇒ 先练）；连对 1 之后只点名 put，ponytail 留给她自己调。
+
+**怎么发现的**
+2026-10-25 学习日 在池第 2 组 [2]（#535 题面"女儿扎马尾用的那根粉色丝带"）· 原话
+`that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
+她用对了、自己标「这个词和词组都学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #537 #540 先例）。
+判重三步：
+　① 目标形式 dedup "ponytail"／"put her hair"／"hair in" ⇒ 零命中
+　② 中文 dedup "马尾" ⇒ 零命中；"头发"／"扎" ⇒ #535（ribbon，另一个词 ⇒ 题面互斥：本条题面不带丝带）· 🎓#104（bury，"扎进"是比喻）· 🎓#441（shed，掉毛）· 🎓#51（put away，put 的另一个块）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `to put her hair in a ponytail`，但词和块都不在手边（自己标学下）　　目标：同她原句
+找法：中文"扎（个）马尾"先落 put ＋ 头发 ＋ in a ponytail。
+
+**题面**
+"她早上来不及洗头，就随手把头发扎了个马尾出门了。"（"扎了个马尾"用 **put … in a ponytail** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：She didn't have time to wash her hair this morning, so she just put it in a ponytail and headed out.
+★ 连对 1 之后点名降到只给 **put**（ponytail 留给她调）
+
+- 2026-10-25 ❌ 首犯 · 学习日 在池第 2 组 [2]（#535 题里）· 她标「这个词和词组都学下」· 原话 `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
 
 ## 迁移说明（2026-08-18）
 
