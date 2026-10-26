@@ -7460,3 +7460,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 9⇄0
 
 **下一场 ＝ 周期 14 · L2**：#537–#540 首测 ＋ 连对1 的 12 条（#340 #525–#535）；复检 1 组（今天剩 4 条排最前）；② 回看 bank:211；④ 重答 redo 第 1 行（bank:349 · P3 看体育比赛的地方）＋ 与旧答对比
+
+## 2026-10-25（周日）· 口语 L2（周期 14 第 2 个学习日）
+
+> 日期：开场美东 10-26 08:25（未到 10-26 中午），按中午分界属 10-25。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 523 ＝ problems.md 20 ＋ graduated.md 503 ｜ 🎓 503（96.2%）｜ 未毕业 20 ｜ 可出题 10 ｜ ⚡ 累计 263 条、掉过 16 ｜ 重答队列 68 道 / 未重答过 41 道
+
+**五段**
+- ① 在池 2 组 16 题 / 16 条：**✅16 ❌0** ⇒ **毕业 12**（#340 #525–#535）；#537–#540 连错 1 → 连对 1；#526 答 down coat 合法 ⇒ 题面节补 ★
+- ①b 复检 2 组（在池只排 2 组，下溢 1 组）20 题 / 25 条：**✅25 ❌0**；#271 成员出题账补上 10-16 漏记
+- ② 回看：bank:211（10-24 重答）
+- ③ 重答 bank:349（P3 Where do people normally watch sports events?）：首答 08-13 有 2 处真错（watch event · gets a score）→ 这次 0 处；首答自诊的"连接和转折差点意思"这次用"先立尺子 It really depends on what you're into ＋ 三个 If 分档"解决；退步 ＝ 家里那档的理由变薄（首答的 cheapest and most convenient 挪给了酒吧）
+- 新建 7：#541 put one's hair in a ponytail · #542 backstory（⚠️）· #543 bumper-to-bumper · #544 pet · #545 quarter-final · #546 find a middle ground（她标学下 ＋ ⚠️ strike → find）· #547 like-minded
+- 自发命中：🎓#501 drop off（在池第 1 组 [2]）· #537 put together（复检 #271 题里，今天第二次 ✅ ⇒ 毕业）
+
+**教练犯规**：#526 题面括号写了"外套"，引出 down coat（记 ✅、题面节补 ★）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 13⇄0
+
+**下一场 ＝ 周期 14 · L3**：#541–#547 首测 ＋ 连对1 的 3 条（#538–#540）；复检以 pick 为准（今天剩 1 条排最前）；② 回看 bank:349；④ 重答 redo 第 1 行（bank:1286 · P2 收到特殊蛋糕）＋ 与旧答对比
