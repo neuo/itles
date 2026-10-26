@@ -1374,6 +1374,65 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [5]（#449 题里）· 她标「学下」· 原话 `Our school's debate team was knocked out during the quarter-finals(学下).`
 
+### 546 · **find a middle ground**（找个折中、两头之间取中间；strike 常配 a balance／a happy medium）
+类型 搭配 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**middle ground** ＝ 两头之间的中间地带、折中：`find a middle ground` · `There's no middle ground.`（没有折中的余地）；口语里最简单的同义说法 `something in between`。
+同一格里的邻居（别串）：strike a balance (between A and B)（在两者之间取平衡）· strike a happy medium（找到两全的折中）· meet in the middle（双方各让一步）。
+判据一句话：middle ground 前面的动词用 **find**；想用 strike ⇒ 后面接 a balance 或 a happy medium。
+★ 题型判整句："折中"能落到 compromise／something in between／meet in the middle 一串合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后只点名 middle ground，动词留给她。
+
+**怎么发现的**
+2026-10-25 学习日 ③ 重答 bank:349（R27 · P3 · Where do people normally watch sports events?）S4 · 原话
+`If you want to strike a middle ground（这个词组学下), going to a bar works too.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌；strike a middle ground 也有人说，但 middle ground 最常配 find ⇒ diff-2 ⚠️ 给 find a middle ground。
+判重三步：
+　① 目标形式 dedup "middle ground"／"happy medium"／"strike a"／"in between" ⇒ 零命中；"balance" ⇒ 🎓#194（balance A and／with B，screen time 那条，另一个块）⇒ 否
+　② 中文 dedup "折中" ⇒ 零命中；"中间" ⇒ 🎓#67 #155 #306 #36 #74 #87（全是"放中间"的正文字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：strike a middle ground（自己标学下）　　更好：find a middle ground
+找法：中文"折中一下／取个中间"先落 find a middle ground（或 something in between）；说出 strike 就接 a balance。
+
+**题面**
+"我想要大城市的工作机会，我老公想要小镇的安静，最后我们找了个折中，搬到了郊区。"（"找了个折中"用 **find a middle ground** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I wanted the job opportunities of a big city and my husband wanted the quiet of a small town, so we found a middle ground and moved to the suburbs.
+★ 连对 1 之后点名降到只给 **middle ground**（动词 find 留给她）
+
+- 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S4 · 她标「这个词组学下」· diff-2 ⚠️ · 原话 `If you want to strike a middle ground（这个词组学下), going to a bar works too.` ⇒ 更好版 find a middle ground
+
+### 547 · **like-minded**（志同道合的、想法爱好一样的：like-minded people）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**like-minded** ＝ 兴趣、想法、立场一样的（放在人前面）：`like-minded people` · `meet like-minded friends` · `a group of like-minded fans`。
+同一格里的邻居（别串）：share the same interests（有共同爱好，动词说法）· have a lot in common（共同点多）· on the same page（对一件事看法一致）。
+判据一句话：说"一群志同道合的人"⇒ like-minded people；说"我们俩爱好一样"⇒ we share the same interests／have a lot in common。
+★ 题型判词组：一个形容词 ＋ 人，"志同道合的"映射回 like-minded，唯一可判。
+
+**怎么发现的**
+2026-10-25 学习日 ③ 重答 bank:349（R27 · P3）S5 · 原话
+`You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
+她用对了 like-minded，自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #526 #540 先例）。
+判重三步：
+　① 目标形式 dedup "like-minded"／"same interests"／"share the same" ⇒ 零命中
+　② 中文 dedup "志同道合" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `surrounded by like-minded people`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"志同道合的（人）／同好"先落 like-minded ＋ 人。
+
+**题面**
+"读书会里那群志同道合的书友"（都爱看同一类书、一聊就停不下来的那种人）
+★ 目标形式（教练看，⛔ 不进发题稿）：the like-minded people in my book club
+
+- 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S5 · 她标「学下」· 原话 `You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
+
 ## 迁移说明（2026-08-18）
 
 ```
