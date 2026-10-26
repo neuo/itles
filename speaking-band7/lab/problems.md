@@ -1102,7 +1102,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 537 · **put together ＋ 东西**（自己挑选、拼排出一整份：put together an itinerary／a menu／a playlist）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-10-25** ｜ 题型 整句
 
 **问题是什么**
 **put together ＋ 东西** ＝ 把零散的几样挑出来、排好，组合成一整份（行程、菜单、歌单、PPT、一支队伍）：
@@ -1131,6 +1131,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 1 组 [9]（#524 题里）· 她标「这个词组学下」· 原话 `that three-day Tokyo itinerary I put together(这个词组学下) myself`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [3] · `The birthday party menu was put together entirely by my friend.` —— was put together（被动跟着"菜单"这个话题走 ✓）。连错 1 → 连对 1
+- 2026-10-25 ✅ 自发命中 · 学习日 复检第 3 组 [6]①（#271 题里，本条没被出题）· `I've been helping my sister put together her wedding recently.` —— put together ＋ 一整份东西（婚礼一样样张罗、拼起来）。今天第二次 ✅（§3.3 同一天产出多次各算一次）· 连对 1 → 2 ⇒ 🎓
 
 ### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
 类型 词组 ｜ 新建 2026-10-24
@@ -1254,6 +1255,64 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 连对 1 之后点名降到只给 **put**（ponytail 留给她调）
 
 - 2026-10-25 ❌ 首犯 · 学习日 在池第 2 组 [2]（#535 题里）· 她标「这个词和词组都学下」· 原话 `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
+
+### 542 · **backstory**（背景故事：一个人／角色在眼下这件事之前的经历；⛔ background story）
+类型 词汇 ｜ 新建 2026-10-25
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**backstory** ＝ 一个人、一个角色"之前发生过什么"的那段经历（一个词）：`the villain's backstory` · `Every contestant has a sad backstory.` · `The show spends ages on their backstories.`
+同一格里的邻居（别串）：background（出身、学历、家庭条件：her family background）· history（过往记录：medical history）· sob story（博同情的苦情故事，带贬义）。
+判据一句话：讲的是"一段经历、一个故事"⇒ backstory；讲的是出身、学历、家庭条件 ⇒ background。
+★ 题型判整句：零提示时她会再落 background story（能懂、不算错）⇒ 词组题判不出缺口 ⇒ 整句 ＋ 正向点名 backstory。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 3 组 [9]a（🎓#440 题面"选秀节目里那段特别煽情的选手背景故事"）· 原话
+`a sentimental background story on a talent show`
+background story 能懂，但"背景故事"英语有现成的一个词 backstory ⇒ diff-2 ⚠️ ⇒ §3.2b 能学的表达 ⇒ 建号（同 #525 先例：⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "backstory"／"background" ⇒ 零命中
+　② 中文 dedup "背景" ⇒ 🎓#318（one time when ＋ 背景，讲往事的句子结构，正文字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：a sentimental background story　　更好：a sentimental backstory
+找法：中文"背景故事／他之前的经历"先落 backstory（一个词）；background 留给出身、学历、家庭条件。
+
+**题面**
+"这部电影花了整整半个小时交代反派的背景故事。"（"背景故事"用 **backstory** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The movie spends a whole half hour on the villain's backstory.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]a（#440 题里）· diff-2 ⚠️ · 原话 `a sentimental background story on a talent show` ⇒ 更好版 a sentimental backstory
+
+### 543 · **bumper-to-bumper**（车一辆挨一辆、堵成长龙：The traffic was bumper-to-bumper.）
+类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**bumper-to-bumper** ＝ 前车保险杠贴着后车保险杠，形容路上堵得一辆挨一辆：`The traffic was bumper-to-bumper.` · `The highway is bumper-to-bumper during rush hour.` · `bumper-to-bumper traffic`（放名词前）。
+同一格里的邻居（别串）：🎓#107 jammed／gridlocked（堵死、一动不动）· 🎓#61 get stuck in traffic（人被堵在路上）· backed up（车排成长队往后压）。
+判据一句话：说路／车流一辆挨一辆 ⇒ be bumper-to-bumper；说人被堵 ⇒ get stuck in traffic。
+★ 题型判整句："堵"能落到 jammed／gridlocked／backed up 一串合法说法 ⇒ 整句 ＋ 正向点名；挂在名词后面当修饰语要带 that's（the expressway that's bumper-to-bumper）。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 3 组 [9]e（🎓#448 题面"早高峰堵得一动不动的那段高架"）· 原话
+`that elevated expressway bumper-to-bumper(背下) in the morning rush`
+她自己标「背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #526 #540 先例）。
+判重三步：
+　① 目标形式 dedup "bumper" ⇒ 🎓#107（jammed／gridlocked，另一个词；已退池不出题）⇒ 否；"gridlock" ⇒ 零命中
+　② 中文 dedup "堵" ⇒ 🎓#107（同上）· 🎓#61（get stuck in traffic，另一个块）· 🎓#287（flow smoothly）· 🎓#108（packed，人多）及其余正文字样 ⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 bumper-to-bumper，但块不在手边（自己标背下）；挂在名词后面少了 that's　　目标：`that elevated expressway that's bumper-to-bumper during the morning rush`
+找法：中文"车一辆挨一辆／排成长龙"先落 bumper-to-bumper，前面要有 be（The road is bumper-to-bumper）。
+
+**题面**
+"国庆节出城的高速上，车一辆挨一辆，堵了整整五个小时。"（"车一辆挨一辆"用 **bumper-to-bumper** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On National Day, the highway out of the city was bumper-to-bumper for five whole hours.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]e（#448 题里）· 她标「背下」· 原话 `that elevated expressway bumper-to-bumper(背下) in the morning rush`
 
 ## 迁移说明（2026-08-18）
 
