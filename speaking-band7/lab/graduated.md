@@ -7731,7 +7731,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对2 连错0 上次2026-10-22 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **🎓 已毕业 2026-10-22**（连对2 ＝ 10-21 ＋ 10-22；10-20 回潮后第二次毕业）
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **回潮 2026-10-26**（10-22 第二次毕业 → 10-26 复检第 2 组 [1] -ing 短语主语悬空：打开行李箱的是我、主句主语是 a nasty stench）
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
@@ -7752,6 +7752,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 **我错在哪**
 她的：2026-10-20 `After finishing grad school, his advisor asked …`（finishing 的是他，主句主语却是 his advisor ⇒ 读成"导师毕业了"）　　正确：`After he finished grad school, his advisor asked …`
+她的：2026-10-26 `On opening my suitcase, a nasty stench of smelly shoes hit me right in the face.`（opening 的是我，主句主语却是 stench；On ＋ -ing 一样受这条管）　　正确：`On opening my suitcase, I got hit right in the face by a nasty stench …` ／ `When I opened my suitcase, a nasty stench … hit me …`
 （此前判定全是 ✅；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。）
 找法：要用 -ing 开头之前先问一句 —— 这个动作是主句主语做的吗？不是就老实写从句。
 
@@ -7781,6 +7782,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-10-21 ✅ 学习日 在池第 1 组 [1] · `When my dad got back from his business trip, the driver was already waiting at the exit right after he got off the plane.` —— 主句主语是司机 ⇒ 她没有把 -ing 挂到司机身上，换成带自己主语的 after he got off the plane（同 09-07 先例：不硬套 -ing ＝ 本条要的判断）。连错 1 → 连对 1
   ｜ 题面点名 after getting off the plane 她改成了从句 —— 合法且贴题面 ⇒ ✅；种子不改（再加"保留 -ing"就是形式要求，§6② 禁）
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [1] · `Right after walking out of the exam room, my sister was greeted by her boyfriend with a big bouquet of flowers.` —— 走出考场的是姐姐，她用被动 my sister was greeted by … 把姐姐放到主句主语上（中文后半句主语是男朋友，-ing 没挂过去）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-26 ❌ 学习日 复检第 2 组 [1]（题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.` —— 打开行李箱的是我，主句主语却是 a nasty stench（-ing 短语主语悬空）⇒ 最小改 On opening my suitcase, I got hit right in the face by a nasty stench of smelly shoes. ⇒ 🎓 回潮
 
 ### 216 · 东西不会自己 leave（His things ARE all over the floor）
 类型 结构 ｜ 旧号 B154
@@ -15176,7 +15178,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-10-06 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 **as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
@@ -15216,10 +15218,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）· 题型 词组 → 整句
   去掉"两个词／第一个词是 as ＋ 三个排除项"，改零提示整句（as for／when it comes to／regarding 都算对），逼的是她掉过的 as far ＋ 名词；换成工资加班场景
 - 2026-10-06 ✅ 学习日 复检第 3 组 [7]（题面"房子本身我挺满意的，至于周边配套怎么样…"）· `I really like the house itself—as for the neighborhood amenities, we'll see after living here for a bit.`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [9]（题面"这款手机拍照挺不错的，至于电池嘛，就一般般了。"，零提示）· `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).` —— as for the battery。🎓 rc2 → rc3 ｜ 她标学下 ⇒ 新建 #556 nothing to write home about
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-07 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-27**
+状态 连对2 连错0 上次2026-10-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-09-27**
 
 **问题是什么**
 **ballad** ＝ 节奏慢、以唱情绪为主的歌（情歌、抒情曲）：`a power ballad` · `all sorts of ballads` · `a slow ballad`。
@@ -15251,10 +15254,11 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   去掉"一个名词、b 开头 ＋ 排除项"猜谜写法，改中文释义；换成"我爸爱听的"场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [2] · `A slow, romantic ballad.`
 - 2026-10-07 ✅ 学习日 复检第 3 组 [1]f（题面"KTV 里大家最爱点的那种伤感抒情慢歌"）· `a sad ballad`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [2]e（题面"演唱会最后那首全场一起跟唱的抒情慢歌"）· `that emotional ballad at the end of the concert where everyone sang along` —— ballad。🎓 rc2 → rc3
 
 ### 356 · "另一些人" ＝ others（⛔ some ones）
 类型 词组 ｜ 新建 2026-09-22 ｜ 与 ⚪#324 分工（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-10-07 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-27**
+状态 连对2 连错0 上次2026-10-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-09-27**
 
 **问题是什么**
 "有些人…，另一些人…" 的第二个"人"，英语用 **others** 一个词顶（others ＝ other people）：
@@ -15292,6 +15296,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   去掉"一个词 ＋ ⛔ some／other people"，改零提示（others／other kids 都算对），逼的是 some ones；换成画画踢球场景
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 3 组 [3] · `…, while others prefer to do it at night.`
 - 2026-10-07 ✅ 学习日 复检第 3 组 [5]（题面"有的邻居喜欢养猫，另一些更喜欢养狗"）· `Some of the neighbors like cats, while others prefer dogs.`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [10]（题面"周末有的同事喜欢宅在家里，另一些一有空就往外跑。"，零提示）· `Over the weekend, some coworkers like to stay home and chill, whereas others are outdoors whenever they have free time.` —— others。🎓 rc2 → rc3
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
@@ -18534,7 +18539,7 @@ he's had to … last week：完成时撞上钉死的过去时间 ⇒ 时态选�
 
 ### 453 · apartment complex（自己住的"小区"；⛔ our residential area）
 类型 词汇 ｜ 新建 2026-10-11
-状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **apartment complex** ＝ 自己住的那片楼（几栋楼围在一起、有大门／物业）：`the stray cats in our apartment complex` ／ `There's a gym in our complex.`（熟了直接说 our complex）
@@ -18563,10 +18568,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [6] · `A new fruit store just opened up right outside our apartment complex.` —— our apartment complex（没落到 residential area）。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [4] · `Our apartment complex has a pretty big pool, and it gets super busy in the summer.` —— apartment complex。连对 1 → 2 ⇒ 毕业
 - 2026-10-17 ✅ 付息日 复检第 3 组 [1] · `Parking is so limited in our apartment complex …`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [5]（题面"我们小区的保安特别严，陌生人进门都要登记。"）· `Our apartment complex has really strict security—strangers have to sign in at the gate.` —— apartment complex。🎓 rc1 → rc2
 
 ### 454 · cut back on ＋ 东西（少吃／少用／少花：cut back on sugar）
 类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **cut back on sth** ＝ 把某样东西的量减下来（少吃、少用、少花）：`cut back on the sugar` ／ `I'm trying to cut back on coffee.` ／ `We need to cut back on spending.`
@@ -18596,10 +18602,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-13 ✅ 学习日 在池第 1 组 [5] · `I've been trying to shed some weight lately, so I've cut back on milk tea.` —— cut back on（on 自己补上）。连对 1 → 2 ⇒ 毕业
   ⚠️ diff-2：补 a lot（"少多了"的程度）
 - 2026-10-17 ✅ 付息日 复检第 3 组 [2] · `we've cut back on eating out this month`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [6]（题面"我老公自从有了孩子，烟抽得少多了。"，点名降到 cut back）· `My husband has cut back on smoking significantly since the baby was born.` —— cut back on（on 自己补上）。🎓 rc1 → rc2
 
 ### 455 · underprivileged（家境困难的、条件差的 —— 说"穷"的体面说法）
 类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 词组
 
 **问题是什么**
 **underprivileged** ＝ 家境困难、缺少基本条件的（说人，比 poor 体面，慈善、公益场合常用）：`underprivileged kids` ／ `underprivileged families` ／ `underprivileged communities`
@@ -18627,10 +18634,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [8] · `underprivileged kids living in the mountain areas` —— underprivileged。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [6] · `a scholarship dedicated to supporting students from underprivileged backgrounds` —— underprivileged。连对 1 → 2 ⇒ 毕业
 - 2026-10-17 ✅ 付息日 复检第 3 组 [3]a · `underprivileged families that this charity specifically supports`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [2]d（题面"城市里那些条件比较差的社区"）· `underprivileged communities in the city` —— underprivileged。🎓 rc1 → rc2
 
 ### 456 · crafted（手工／精心做出来的：a manually crafted request · a carefully crafted message）
 类型 词汇 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **craft** ＝ 花心思、一点点手工做出来；过去分词当形容词最常用：`a manually crafted network request`（手工构造的请求）· `a carefully crafted message`（精心写的一段话）· `hand-crafted furniture`（手工做的家具）。
@@ -18659,10 +18667,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [9] · `He carefully crafted a birthday message and read it to his mom during dinner.` —— carefully crafted a birthday message。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [7] · `Every piece of jewelry in this small shop is crafted by hand with great care.` —— is crafted ＋ by hand；with great care 与 carefully 同级。连对 1 → 2 ⇒ 毕业
 - 2026-10-17 ✅ 付息日 复检第 3 组 [4] · `a thoughtfully crafted handwritten card`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [7]（题面"这位厨师的每一道菜都是精心做出来的，连摆盘都很讲究。"，点名降到 crafted）· `Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.` —— beautifully crafted。🎓 rc1 → rc2 ｜ 她标学下 ⇒ 新建 #555 right down to
 
 ### 457 · build up ＋ 经验／积蓄（一点点攒起来：build up experience）
 类型 词组 ｜ 新建 2026-10-11 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-17 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-13** ｜ 题型 整句
 
 **问题是什么**
 **build up ＋ 东西** ＝ 在时间里一点点攒起来：`how much experience he'd built up` · `build up some savings` · `build up your stamina`（练出体力）· `build up trust`。
@@ -18691,6 +18700,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-12 ✅ 付息日 a 段在池第 2 组 [10] · `I've slowly built up a bit of savings over the past few years.` —— built up … savings。连错 1 → 连对 1
 - 2026-10-13 ✅ 学习日 在池第 1 组 [8] · `For the first few years after I graduated, I was mostly focused on building up my work experience.` —— building up（up 自己补上）。连对 1 → 2 ⇒ 毕业
 - 2026-10-17 ✅ 付息日 复检第 3 组 [5] · `she built up a solid network of contacts`
+- 2026-10-26 ✅ 学习日 复检第 2 组 [8]（题面"你每天跑一点，体力慢慢就能练上来。"，点名降到 build）· `Just run a little each day, and you'll gradually build up your endurance.` —— build up（up 自己补上）。🎓 rc1 → rc2
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
@@ -20477,7 +20487,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 511 · **auction**（拍卖：大家出价、价高者得）vs **charity sale**（义卖：标好价钱直接卖）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **auction** ＝ 拍卖：东西摆出来，大家举牌出价，价高者得：
@@ -20506,10 +20516,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [5]b（#410 题里）· 她标「背下」· 原话 `the annual autumn charity auction(背下) hosted by the neighborhood`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [7] · `an antique auction`。连错 1 → 连对 1
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [3] · `a charity auction for celebrity-signed jerseys` —— 举牌竞价 ⇒ auction。连对 1 → 2 ⇒ **毕业**
+- 2026-10-26 ✅ 学习日 复检第 2 组 [2]a（题面"网上的二手名表拍卖"）· `an online auction for second-hand luxury watches` —— auction。🎓 rc0 → rc1
 
 ### 512 · **finish ＋ 东西**（"看完／吃完／读完" ⇒ finish the cartoon：中文的"V完"直接落在 finish 上）
 类型 搭配 ｜ 新建 2026-10-20 ｜ ⭐ 她问怎么说
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 中文"V完"（看完／吃完／读完／写完）⇒ **finish ＋ 东西**（或 finish ＋ V-ing）：
@@ -20539,10 +20550,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [6]（#476 题里）· 她问"看完"怎么说（自己查到 to the end）· 原话 `… he insists on watching his cartoon to the end.`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [8] · `As soon as I finish this novel, I'll pass it along to you.` —— finish this novel ✓。连错 1 → 连对 1
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [4] · `Finish this bowl of noodles before you go and play your video games.` —— finish ＋ 东西。连对 1 → 2 ⇒ **毕业**
+- 2026-10-26 ✅ 学习日 复检第 2 组 [3]（题面"老板让我下班前把这份报告写完。"）· `My boss wants me to finish writing this report before I leave for the day.` —— finish writing this report。🎓 rc0 → rc1
 
 ### 513 · **pajamas**（睡衣；永远带 s：in my pajamas · a pair of pajamas）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **pajamas** ＝ 睡衣（上衣加裤子一套），永远复数：`in my pajamas`（穿着睡衣）· `change into my pajamas` · `a pair of pajamas`（一套）；英式拼 pyjamas。
@@ -20571,10 +20583,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-20 ❌ 首犯 · 学习日 复检第 3 组 [10]（#411 题里）· 她标「背下」· 原话 `The first thing I do when I get back from work is change out of my suit and into some pajamas(背下).`
 - 2026-10-21 ✅ 学习日 在池第 1 组 [9] · `a set of bear-print pajamas`。连错 1 → 连对 1
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [5] · `a set of pure cotton striped pajamas` —— pajamas（带 s）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-26 ✅ 学习日 复检第 2 组 [2]b（题面"我在家穿了一整天的那身睡衣"）· `that set of pajamas I wore at home all day` —— pajamas（带 s）。🎓 rc0 → rc1
 
 ### 514 · **gown**（女士的长礼服：an evening gown · a ball gown；男士 ⇒ tuxedo）
 类型 词汇 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 词组
 
 **问题是什么**
 **gown** ＝ 女士穿的长款礼服：`an evening gown`（晚礼服）· `a ball gown`（大裙摆礼服）· `a wedding gown`（婚纱，也说 wedding dress）；毕业袍也叫 gown（`cap and gown`）。
@@ -20604,6 +20617,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-21 ✅ 学习日 在池第 1 组 [10] · `that floor-length evening dress she wore to the awards ceremony` —— 答 evening dress 合法且贴题面（§3.3 合法但不是条目预期 ⇒ ✅）。连错 1 → 连对 1
 - 2026-10-21 📝 题面整改（§3.3 硬顺序③ ／ §6.0 词组题换场景时把中文语境写得更具体）：今天答 evening dress 合法 ⇒ 种子换成"灰姑娘去王子舞会穿的那条大裙摆礼服"（大裙摆舞会礼服 ⇒ ball gown，dress 落不上去），零英文提示照旧
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [6] · `that ball gown with a floor-length skirt that Cinderella wore to the prince's ball` —— ball gown。连对 1 → 2 ⇒ **毕业**
+- 2026-10-26 ✅ 学习日 复检第 2 组 [2]c（题面"维也纳新年舞会上女士们穿的那种大裙摆长礼服"）· `those floor-length ball gowns ladies wear at the Vienna New Year's Ball` —— ball gowns。🎓 rc0 → rc1
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
@@ -20673,7 +20687,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
 类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 **not bother to do ／ not bother doing** ＝ 没费那个事去做（该做的没做，常带点批评或无所谓）：
@@ -20705,6 +20719,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-21 ✅ 学习日 在池第 2 组 [2] · `He left without even bothering to say goodbye.` —— bother to do 的块在，否定落在 without 上。连错 1 → 连对 1
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [8] · `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` —— didn't even bother knocking（bother doing ＝ bother to do 同一个块）。连对 1 → 2 ⇒ **毕业**
   ｜ ⚠️ at the entrance → on the doorstep ⇒ 新建 #525
+- 2026-10-26 ✅ 学习日 复检第 2 组 [4]（题面"我借给他的书，他连翻都没翻就还回来了。"）· `He gave back the book I lent him without even bothering to open it.` —— without even bothering to open it。🎓 rc0 → rc1
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学

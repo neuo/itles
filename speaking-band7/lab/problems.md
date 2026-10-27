@@ -1156,6 +1156,122 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [7]（#544 题里）· 她标「这个词组学下」· 原话 `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
 
+### 553 · **stench**（一股恶臭、熏人的臭味：a nasty stench）
+类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stench** ＝ 一股恶臭、熏人的臭味（名词，比 smell 强烈得多）：`a nasty stench` · `the stench of rotting garbage` · `The stench hit me as soon as I opened the door.`
+同一格里的邻居（别串）：smell（味道，中性，加形容词才分好坏：a bad smell）· odor（气味，偏正式）· stink（臭味，口语，也能当动词：It stinks!）· #554 smelly（形容词：臭的）。
+判据一句话：说"一股熏人的臭味" ⇒ a stench；说"东西是臭的" ⇒ smelly。
+★ 题型判整句："恶臭"能落到 a bad smell／a horrible smell／a stink 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整词（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 复检第 2 组 [1]（🎓#215 题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· 原话
+`On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+她用对了 stench，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）；同句 -ing 主语悬空归 🎓#215（❌ 回潮），与本条无关。
+判重三步：
+　① 目标形式 dedup "stench"／"stink"／"odor" ⇒ 零命中；"smell" ⇒ 🎓#351（feels like，正文字样）⇒ 否
+　② 中文 dedup "臭" ⇒ 🎓#488（strength in numbers，正文字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）；与 #554 同一句建号 ⇒ 题面互斥：本条题面不带"臭袜子／臭鞋"
+
+**我错在哪**
+她的：用对了 `a nasty stench of smelly shoes`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"一股恶臭／臭味熏人"先落 a stench (of …)。
+
+**题面**
+"垃圾好几天没倒，一进厨房就是一股恶臭。"（"恶臭"用 **stench** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The trash hadn't been taken out for days, so there was a horrible stench as soon as you walked into the kitchen.
+
+- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+
+### 554 · **smelly**（臭的：smelly shoes · smelly socks）
+类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**smelly** ＝ 有臭味的、臭的（形容词，放东西前面）：`smelly shoes` · `smelly socks` · `smelly cheese`。
+同一格里的邻居（别串）：stinky（口语，更随意、带点孩子气）· #553 stench（名词：一股臭味）· smell（名词／动词：It smells bad.）。
+判据一句话：说"东西是臭的" ⇒ smelly／stinky；说"一股臭味" ⇒ a stench／a bad smell。
+★ 题型判词组：一个形容词 ＋ 东西，"臭袜子"映射回 smelly socks；答 stinky 合法也贴题面 ⇒ 记 ✅（§3.3）。
+
+**怎么发现的**
+2026-10-26 学习日 复检第 2 组 [1]（🎓#215 题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· 原话
+`On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+她用对了 smelly，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "smelly"／"stinky" ⇒ 零命中
+　② 中文 dedup "臭" ⇒ 🎓#488（正文字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）；与 #553 同一句建号 ⇒ 题面互斥：本条题面不带"一股恶臭"
+
+**我错在哪**
+她的：用对了 `smelly shoes`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"臭（袜子／鞋／垃圾）"先落 smelly。
+
+**题面**
+"儿子踢完球扔在门口的那双臭袜子"（脱下来一股味儿、谁都不想碰的那种）
+★ 目标形式（教练看，⛔ 不进发题稿）：the smelly socks my son tossed by the door after soccer
+
+- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+
+### 555 · **right down to ＋ 最细的那一处**（连…都一样、细到…：beautifully crafted, right down to the presentation）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**right down to ＋ 最小的细节** ＝ 一直细到（连最小的那一处也是这样），放在句末补一刀：`Every dish is beautifully crafted, right down to the presentation.` · `She planned everything right down to the last detail.` · `He copied her look right down to the shoes.`
+同一格里的邻居（别串）：🎓#58 it comes down to · 🎓#284 boil down to（都是"说到底／归结为"，不是"细到"）· even（"连…都"，最泛）。
+判据一句话：前面说了"全部／每一个都…"，句末补"连最细的 X 也是" ⇒ , right down to X。
+★ 题型判整句：考点是块在句末的挂接位置，单拎一个块测不出 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 复检第 2 组 [7]（🎓#456 题面"这位厨师的每一道菜都是精心做出来的，连摆盘都很讲究。"）· 原话
+`Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
+她用对了 right down to，自己标「这个词组的用法可以学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "right down to"／"last detail" ⇒ 零命中；"down to" ⇒ 🎓#58 comes down to · 🎓#284 boil down to（另一个块：归结）· #552 crouch down · ⛔#56 · 🎓#218 #277 #283 等（正文／历史字样）⇒ 都否
+　② 中文 dedup "细节" ⇒ 🎓#510 ins and outs · 🎓#463 talk sth through（正文字样）⇒ 否；"讲究" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `beautifully crafted, right down to the presentation`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"连…都很讲究／细到…"先试句末补 right down to。
+
+**题面**
+"我妹妹婚礼的每个细节都是她亲手安排的，连桌上的名牌都是她自己写的。"（"连…都"用 **right down to** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My sister planned every detail of her wedding herself, right down to the name cards on the tables.
+
+- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [7]（🎓#456 题里）· 她标「这个词组的用法可以学下」· 原话 `Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
+
+### 556 · **nothing to write home about**（一般般、不值一提：it's nothing to write home about）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**be nothing to write home about** ＝ 一般般、没什么值得说的（不算差，就是不出彩）：`The food was nothing to write home about.` · `The hotel was clean, but nothing to write home about.`
+同一格里的邻居（别串）：so-so（一般般，最短）· nothing special（没什么特别的）· not all it's cracked up to be（没传说的那么好）· mediocre（平庸，偏书面、偏贬）。
+判据一句话：说某样东西"一般般、不值一提"（不是差）⇒ nothing to write home about。
+★ 题型判整句："一般般"能落到 so-so／nothing special 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 复检第 2 组 [9]（🎓#354 题面"这款手机拍照挺不错的，至于电池嘛，就一般般了。"）· 原话
+`This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
+她用对了 nothing to write home about，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "write home"／"so-so"／"mediocre"／"nothing special"／"cracked up" ⇒ 零命中
+　② 中文 dedup "一般般" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `it's nothing to write home about`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"也就一般般／没什么好说的"先试 nothing to write home about。
+
+**题面**
+"那家网红餐厅排了一个小时队，结果菜也就一般般。"（"一般般"用 **nothing to write home about** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We waited in line for an hour at that trendy restaurant, and the food turned out to be nothing to write home about.
+
+- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#354 题里）· 她标「这个词组学下」· 原话 `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
+
 ## 迁移说明（2026-08-18）
 
 ```
