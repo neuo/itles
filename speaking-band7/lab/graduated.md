@@ -7731,7 +7731,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 ### 215 · -ing 短语省主语的硬条件（逻辑主语＝主句主语）
 类型 结构 ｜ 旧号 B153
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **回潮 2026-10-26**（10-22 第二次毕业 → 10-26 复检第 2 组 [1] -ing 短语主语悬空：打开行李箱的是我、主句主语是 a nasty stench）
+状态 连对2 连错0 上次2026-10-26 ｜ 题型 整句 ｜ **回潮 2026-10-20**（08-15 毕业 → 10-20 在池第 2 组 [3] -ing 短语主语悬空：毕业的是他、主句主语是 his advisor；停出与恢复见历史行）｜ **🎓 已毕业 2026-10-22**（连对2 ＝ 10-21 ＋ 10-22；10-20 回潮后第二次毕业）
 
 **问题是什么**
 **-ing 短语省主语的硬条件：逻辑主语 ＝ 主句主语**。
@@ -7741,6 +7741,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 ★ 最容易诱出悬空 -ing 的是中文话题句「X 以后，<另一个人>……」：前半句的人和后半句的主语不是同一个（10-20 就是这么掉的）。
 两种改法：① 写带自己主语的从句（After he finished grad school, his advisor …）② 想保留 -ing，就让做那个动作的人当主句主语（After finishing grad school, he was asked by his advisor …）。
 判据一句话：-ing 那个动作是谁做的？跟主句主语不是同一个人 ⇒ ⛔ 不许省主语。
+★ 边界（2026-10-26 她提异议后补）：
+　· 管的是短语里有**动词**的（after getting home · on opening · while walking）—— 动词就有"谁做的"；纯介词短语（Halfway up the mountain · At the top · In the morning）没有动词、没有做事的人 ⇒ 不受这条管。
+　· 口语里能放过的一种：主句主语**根本不可能**是做那个动作的（一股臭味不会开箱子），而做的人就在主句里当宾语（hit **me**）⇒ `On opening my suitcase, a nasty stench hit me.` 母语者照样这么说，不判错。
+　· 真错的是另一种：主句主语**也可能**做那个动作 ⇒ 读歪（After finishing grad school, his advisor … ＝ 读成"导师毕业了"）。
 
 **怎么发现的**
 旧 B 表迁移（B153，2026-08-18），原始触发原话未存；最早记录 2026-08-09 ✅。
@@ -7752,7 +7756,6 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 
 **我错在哪**
 她的：2026-10-20 `After finishing grad school, his advisor asked …`（finishing 的是他，主句主语却是 his advisor ⇒ 读成"导师毕业了"）　　正确：`After he finished grad school, his advisor asked …`
-她的：2026-10-26 `On opening my suitcase, a nasty stench of smelly shoes hit me right in the face.`（opening 的是我，主句主语却是 stench；On ＋ -ing 一样受这条管）　　正确：`On opening my suitcase, I got hit right in the face by a nasty stench …` ／ `When I opened my suitcase, a nasty stench … hit me …`
 （此前判定全是 ✅；09-07 同题的 `play toys`（该 play **with** toys）已另建 #322。）
 找法：要用 -ing 开头之前先问一句 —— 这个动作是主句主语做的吗？不是就老实写从句。
 
@@ -7760,6 +7763,7 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 "妈妈下班一回到家，孩子们已经把晚饭做好了。"（"一回到家"用 **after getting home** 说）
 　　★ 陷阱在后半句：中文主语换成了孩子们，-ing 又被点名保留 ⇒ 主句主语必须改成妈妈（After getting home from work, Mom found the kids had already made dinner.）；写成 After getting home …, the kids … ⇒ ❌
 　　★ 2026-10-20 改：旧题面「两句都要求用 -ing 短语开头；哪一句这么说不通，就改成说得通的形式」是形式要求（§6② 禁），换成正向点名 ＋ 主语错位的整句
+　　★ 2026-10-26 补：换场景时，中文后半句的主语必须是**也可能做那个动作的人**（孩子们也会回家、导师也毕过业）；后半句主语是东西／气味（一股臭味冲出来）⇒ 测不出本条，题面出坏了
 
 - 2026-08-09 ✅
 - 2026-08-13 ✅
@@ -7782,7 +7786,10 @@ Within several minutes    → within a few minutes ／ in a couple of minutes
 - 2026-10-21 ✅ 学习日 在池第 1 组 [1] · `When my dad got back from his business trip, the driver was already waiting at the exit right after he got off the plane.` —— 主句主语是司机 ⇒ 她没有把 -ing 挂到司机身上，换成带自己主语的 after he got off the plane（同 09-07 先例：不硬套 -ing ＝ 本条要的判断）。连错 1 → 连对 1
   ｜ 题面点名 after getting off the plane 她改成了从句 —— 合法且贴题面 ⇒ ✅；种子不改（再加"保留 -ing"就是形式要求，§6② 禁）
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [1] · `Right after walking out of the exam room, my sister was greeted by her boyfriend with a big bouquet of flowers.` —— 走出考场的是姐姐，她用被动 my sister was greeted by … 把姐姐放到主句主语上（中文后半句主语是男朋友，-ing 没挂过去）。连对 1 → 2 ⇒ **毕业**
-- 2026-10-26 ❌ 学习日 复检第 2 组 [1]（题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.` —— 打开行李箱的是我，主句主语却是 a nasty stench（-ing 短语主语悬空）⇒ 最小改 On opening my suitcase, I got hit right in the face by a nasty stench of smelly shoes. ⇒ 🎓 回潮
+- 2026-10-26 ✅ 学习日 复检第 2 组 [1]（题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.` —— 打开行李箱的是我，主句主语却是 a nasty stench（-ing 短语主语悬空）⇒ 最小改 On opening my suitcase, I got hit right in the face by a nasty stench of smelly shoes. ⇒ 🎓 回潮 ⚠️ **本条已于 2026-10-26 改判为 ✅**
+- 2026-10-26 📝 改判 ❌ → ✅（她提异议「介词短语对主语悬挂的要求没那么高吧，比如 halfway up the mountain, it started pouring rain」）
+  她举的 Halfway up the mountain 没有动词，确实不受本条管；On opening 有动词，本条照管 —— 但这一句主句主语是气味、根本不可能开箱子，开箱子的人就在主句里（hit me），口语里母语者照样这么说 ⇒ 教练判严了。
+  复检规则：题面出坏了记 ✅（后半句主语该是"也可能做那个动作的人"）⇒ 撤销回潮、rc 照常 ＋1；问题是什么补边界、题面节补 ★
 
 ### 216 · 东西不会自己 leave（His things ARE all over the floor）
 类型 结构 ｜ 旧号 B154
