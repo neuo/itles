@@ -8,6 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-26 · 口语 L3（周期 14 第 3 个学习日）· 已收尾**
+  —— 在池 1 组 **10 题 / 10 条 ✅10 ❌0**；复检 1 组（在池只排 1 组，下溢 2 组但到期只够 1 组）**10 题 / 14 条 ✅14 ❌0**；回潮 0
+  —— 🎓 **毕业 3 条**（#538 #539 #540）⇒ 全档 **534** ＝ problems 28 ＋ graduated **506**（94.8%）
+  —— 🆕 **新建 11 条** #548–#558（她标学下／背下 9：lay out · villain · crouch down · stench · smelly · right down to · nothing to write home about · frost · a trip down memory lane ｜ ⚠️ 2：old-fashioned（⛔ legacy）· at one's desk（⛔ station））
+  —— ⚠️ 复检 🎓#215 原判 ❌ 回潮（On opening my suitcase, a nasty stench … hit me）⇒ 她提异议，当场改判 ✅：主句主语不可能做那个动作、做的人在主句里当宾语 ⇒ 口语放过；正文补边界、题面节补 ★（后半句主语必须是"也可能做那个动作的人"）
+  —— 自发命中 2：🎓#251 spent the whole day baking · 🎓#215 Having been a programmer …, I
+  —— ② 回看 bank:349；③ 重答 bank:1286（P2 特别的蛋糕）首答 10 处真错 → 这次 0 处；首答更好版的"她花了心思"这层自己说出来了；还差 hello world／0 errors 对程序员意味着什么那一步
+  —— 数据修补：2026-08-15.md 补一节 bank:1286 四件套逐字回补（抄自 coach/fluency_lab.md），attempts 才解析得出首答
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄0
+  —— **下一场 ＝ 周期 14 · R（付息日）**：a 在池 #548–#558 首测 ＋ 连对1 的 7 条（#541–#547）；⓪ 回看 lookback --cycle（bank:211 · bank:349 · bank:1286）；a2 复检；c 合并去重；d 重答 bank:478 ＋ 与旧答对比（⚠️ 首答同在 08-15 那一节，先照 bank:1286 的做法逐字回补）
+
 🆕🆕🆕 **2026-10-25 · 口语 L2（周期 14 第 2 个学习日）· 已收尾**
   —— 在池 2 组 **16 题 / 16 条 ✅16 ❌0**；复检 2 组（含下溢 1 组）**20 题 / 25 条 ✅25 ❌0**；回潮 0
   —— 🎓 **毕业 13 条**（#340 #525–#535 #537）⇒ 全档 **523** ＝ problems 20 ＋ graduated **503**（96.2%）

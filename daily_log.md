@@ -7480,3 +7480,24 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 13⇄0
 
 **下一场 ＝ 周期 14 · L3**：#541–#547 首测 ＋ 连对1 的 3 条（#538–#540）；复检以 pick 为准（今天剩 1 条排最前）；② 回看 bank:349；④ 重答 redo 第 1 行（bank:1286 · P2 收到特殊蛋糕）＋ 与旧答对比
+
+## 2026-10-26（周一）· 口语 L3（周期 14 第 3 个学习日）
+
+> 日期：开场美东 10-27 02:58（未到 10-27 中午），按中午分界属 10-26。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 534 ＝ problems.md 28 ＋ graduated.md 506 ｜ 🎓 506（94.8%）｜ 未毕业 28 ｜ 可出题 18 ｜ ⚡ 累计 263 条、掉过 16 ｜ 重答队列 68 道 / 未重答过 40 道
+
+**五段**
+- ① 在池 1 组 10 题 / 10 条：**✅10 ❌0** ⇒ **毕业 3**（#538 #539 #540）；#541–#547 连错 1 → 连对 1
+- ①b 复检 1 组（在池只排 1 组，下溢 2 组，到期 14 条打包后只够 1 组）10 题 / 14 条：**✅14 ❌0**；#215 原判 ❌ 回潮，她提异议「介词短语对主语悬挂的要求没那么高吧」⇒ 当场改判 ✅（纯介词短语确实不管；On opening 有动词照管，但这句主语是气味、开箱子的人在主句里当宾语，口语放过）⇒ 正文补边界、题面节补 ★
+- ② 回看：bank:349（10-25 重答）
+- ③ 重答 bank:1286（P2 Describe a special cake you received from others）：首答 08-15 有 10 处真错 → 这次 0 处；首答更好版补的"她花了心思"这层这次自己说出来了（how much thought she'd put into the whole thing）；退步 ＝ "她每年都给我们做"那层没了；两次都没说出来的一步 ＝ hello world／0 errors 对程序员意味着什么
+- 新建 11：#548 old-fashioned（⚠️ legacy）· #549 at one's desk（⚠️ station）· #550 lay out · #551 villain · #552 crouch down · #553 stench · #554 smelly · #555 right down to · #556 nothing to write home about · #557 frost · #558 a trip down memory lane
+- 自发命中：🎓#251 spent the whole day baking · 🎓#215 Having been a programmer …, I
+- 数据修补：2026-08-15.md 只留了指向 coach/fluency_lab.md 的指针 ⇒ attempts 解析不出首答 ⇒ 补一节 bank:1286 四件套逐字回补
+
+**教练犯规**：复检 #215 题面后半句主语写成"一股臭鞋味"（不可能做开箱子这个动作）⇒ 测不出本条，还据此判了 ❌ 回潮；她提异议后当场改判
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
+
+**下一场 ＝ 周期 14 · R（付息日）**：a 在池 #548–#558 首测 ＋ 连对1 的 7 条（#541–#547）；⓪ 回看 lookback --cycle（bank:211 · bank:349 · bank:1286）；a2 复检；c 合并去重；d 重答 bank:478（P2 环保法律）＋ 与旧答对比（首答同在 08-15 那一节，先逐字回补）

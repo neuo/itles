@@ -701,101 +701,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
-类型 词组 ｜ 新建 2026-10-24
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
-
-**问题是什么**
-**right where ＋ 人 ＋ stood／was standing／was** ＝ 就在（他）原来站着／待着的那个地方：
-`passed out right where they stood` · `He collapsed right where he stood.` · `Stay right where you are.`
-同一格里的邻居（别串）：on the spot（当场，偏"时间上立刻"）· right there（就在那儿，泛指）· 🎓#163 I just stood there（愣住了，说的是反应，不是地点）。
-判据一句话：说"就倒在原地／就在原地没动" ⇒ right where ＋ 人 ＋ stood／was；说"当场立刻" ⇒ on the spot。
-★ right 后面通常接一个**时间点**（right as／right after／right before）；standing 是一段持续的状态，挂上 right while 读着别扭。
-★ 题型判整句："原地"能落到 on the spot／right there 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-10-24 学习日 在池第 2 组 [4]（#531 题面"天太热了，好几个军训的学生站着站着就晕倒了。"）· 原话
-`It was so hot that a few students passed out right while standing during military training.`
-考点 pass out 用对（#531 ✅）；diff-2 ⚠️："站着站着就倒下"落成 right while standing，生硬 ⇒ right where they stood ⇒ §3.2b 能学的表达 ⇒ 建号（同 #525 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
-判重三步：
-　① 目标形式 dedup "where they stood"／"where he"／"keel" ⇒ 零命中；"on the spot" ⇒ 🎓#517（历史行字样）⇒ 否；"stood" ⇒ 🎓#163（I just stood there ＝ 愣住，另一个块）· 🎓#212 #16 #152 #167 #12（历史／正文字样）⇒ 否
-　② 中文 dedup "原地" ⇒ 🎓#490（stay on 正文字样）⇒ 否；"站着" ⇒ 🎓#270 #324（正文字样）· #531（本题题面）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`passed out right while standing during military training`　　更地道：`passed out right where they stood during military training`
-找法：中文"站着站着就…／就在原地…"，先落 right where ＋ 人 ＋ stood。
-
-**题面**
-"他跑完马拉松，一过终点线就在原地瘫倒了。"（"就在原地"用 **right where** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：He finished the marathon and collapsed right where he stood the moment he crossed the finish line.
-
-- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [4]（#531 题里）· diff-2 ⚠️ · 原话 `It was so hot that a few students passed out right while standing during military training.` ⇒ 更好版 right where they stood
-- 2026-10-25 ✅ 学习日 在池第 2 组 [4] · `Right after crossing the finish line of the marathon, he collapsed right where he stood.` —— right where he stood ✓。连错 1 → 连对 1
-- 2026-10-26 ✅ 学习日 在池第 1 组 [1] · `The tour guide had us wait right where we were so she could go buy the tickets.` —— right where we were ✓。连对 1 → 2 ⇒ 🎓 毕业
-
-### 539 · **cash register**（收银机；⛔ cashier ＝ 收银员，是人）
-类型 词汇 ｜ 新建 2026-10-24
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 词组
-
-**问题是什么**
-**cash register** ＝ 收银机（口语常省成 the register；英式 the till）：`made off with the cash register` · `open the register`。
-同一格里的邻居（别串）：**cashier**（收银员，人）· checkout（结账台、收银台那个位置）· receipt（小票）。
-判据一句话：说的是机器 ⇒ cash register；说的是人 ⇒ cashier；说的是排队结账的那个位置 ⇒ checkout。
-★ 题型判词组：一个名词块，缺口只是调不调得出来；"收银机"＋括号"那台机器"映射回 cash register，唯一可判。
-
-**怎么发现的**
-2026-10-24 学习日 在池第 2 组 [7]（#529 题面"小偷砸破了店里的玻璃门，把收银机偷走了。"）· 原话
-`The thief smashed in the store's glass door and made off with the cashiet.`
-考点 smash in 用对（#529 ✅）；"收银机"调成了 cashier（收银员）⇒ 选词错（§2.1：她调的是另一个词，照常算；cashiet 的 t 属拼写不算）⇒ 建号。
-判重三步：
-　① 目标形式 dedup "cash register" ⇒ #529（历史行里的目标形式字样）⇒ 否；"cashier" ⇒ 零命中
-　② 中文 dedup "收银" ⇒ #529（题面字样）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`made off with the cashiet`（＝ cashier）　　正确：`made off with the cash register`
-找法：说"收银…"先问一句 —— 是那台机器、那个人，还是那个台子？
-
-**题面**
-"超市结账台上那台收银机"（收钱、打小票、抽屉里放现金的那台机器）
-★ 目标形式（教练看，⛔ 不进发题稿）：the cash register at the supermarket checkout
-
-- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [7]（#529 题里）· 原话 `The thief smashed in the store's glass door and made off with the cashiet.`
-- 2026-10-25 ✅ 学习日 在池第 2 组 [5] · `that cash register at the checkout counter in the supermarket` —— cash register ✓。连错 1 → 连对 1
-- 2026-10-26 ✅ 学习日 在池第 1 组 [2] · `that legacy cash register on the counter of the corner shop` —— cash register ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ legacy ⇒ 新建 #548
-
-### 540 · **munch on sth**（大口地嚼、咔嚓咔嚓地啃：munch on chips／an apple）
-类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
-
-**问题是什么**
-**munch on ＋ 吃的** ＝ 一口一口地嚼（吃得香、有声音，多说零食、水果）：`munching on chips` · `munch on an apple` · `the squirrel was munching on a pinecone`。
-同一格里的邻居（别串）：chew（嚼，最泛）· gnaw on（啃硬东西：狗啃骨头）· nibble on（小口小口地啃）· snack on（吃零食，说的是吃什么）。
-判据一句话：吃得香、嘎吱嘎吱嚼 ⇒ munch on；啃硬的、费劲 ⇒ gnaw on；小口小口 ⇒ nibble on。
-★ 题型判整句："嚼／啃"能落到 chew／gnaw／nibble 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 munch on。
-
-**怎么发现的**
-2026-10-24 学习日 在池第 2 组 [9]（#534 题面"松鼠抱着啃的那颗松果"）· 原话
-`that pinecone the squirrel was munching on(这个词组学下)`
-她用对了、自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #518 #522 #537 先例）。
-判重三步：
-　① 目标形式 dedup "munch" ⇒ 零命中
-　② 中文 dedup "啃" ⇒ 🎓#390（get through，啃完书，比喻）· 🎓#512（finish，"吃完"）· 🎓#415（历史字样）· #534（本题题面）⇒ 都否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `the squirrel was munching on`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"嘎吱嘎吱地嚼／抱着啃（零食、苹果）"先试 munch on。
-
-**题面**
-"我弟弟一边看电影，一边抱着一大袋薯片嘎吱嘎吱地嚼。"（"嘎吱嘎吱地嚼"用 **munch on** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My brother was munching on a big bag of chips while watching the movie.
-
-- 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
-- 2026-10-25 ✅ 学习日 在池第 2 组 [6] · `My younger brother sat munching on a giant bag of chips while watching the movie.` —— munching on ✓。连错 1 → 连对 1
-- 2026-10-26 ✅ 学习日 在池第 1 组 [3] · `During lunch break, my coworker sat at her station munching on a pack of biscuits.` —— munching on ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ station ⇒ 新建 #549
-
 ### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
 状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
@@ -1271,6 +1176,64 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：We waited in line for an hour at that trendy restaurant, and the food turned out to be nothing to write home about.
 
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#354 题里）· 她标「这个词组学下」· 原话 `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
+
+### 557 · **frost**（给蛋糕抹奶油／糖霜：frost the cake with cream）
+类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**frost** 当动词 ＝ 给蛋糕外面抹一层奶油／糖霜：`frost the cake with cream` · `She frosted it with chocolate.` · `frost the cupcakes`；名词 **frosting** ＝ 抹在外面的那一层（美式；英式多说 icing，动词 ice a cake）。
+同一格里的邻居（别串）：ice a cake（英式，同义）· spread（抹开：spread butter on toast）· 🎓#485 smear（抹得一塌糊涂，带贬义）· decorate（装饰，最泛）。
+判据一句话：给蛋糕外面抹一层奶油／糖霜 ⇒ frost (it) with …；抹黄油、果酱在面包上 ⇒ spread。
+★ 题型判整句："抹奶油"能落到 spread／cover／ice 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整词（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 ③ 重答 bank:1286（R28 · P2 · Describe a special cake you received from others）S2 · 原话
+`She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
+她用对了 frosting … with，自己标「这个词的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "frost"／"icing" ⇒ 零命中
+　② 中文 dedup "糖霜" ⇒ 零命中；"抹" ⇒ 🎓#485 smear（抹得一塌糊涂，另一个词）· 🎓#445 #465 #495（正文／题面字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `frosting it with cream and chocolate`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"给蛋糕抹奶油／抹一层霜"先落 frost。
+
+**题面**
+"烘焙课上，老师教我们怎么给杯子蛋糕抹奶油霜。"（"抹奶油霜"用 **frost** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：In the baking class, the teacher showed us how to frost cupcakes.
+
+- 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S2 · 她标「这个词的用法学下」· 原话 `She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
+
+### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**a trip down memory lane** ＝ 一样东西／一个场景把人带回过去一整段时光（带怀旧的暖意）：`It was a real trip down memory lane.` · `Looking at those old photos took me on a trip down memory lane.`
+同一格里的邻居（别串）：bring back memories（勾起回忆，最常用）· nostalgic（怀旧的，形容词）· remind me of（让我想起某一件事）。
+判据一句话：把你带回过去一整段时光 ⇒ a trip down memory lane；只是想起某一件事 ⇒ remind me of。
+★ 题型判整句："一下子回到那段日子"能落到 brought back memories 等合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 ③ 重答 bank:1286（R28 · P2）S8 · 原话
+`To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
+她用对了 a trip down memory lane，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "memory lane"／"nostalg" ⇒ 零命中
+　② 中文 dedup "回忆" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `it was a real trip down memory lane`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"一下子回到了那段日子／满满的回忆"先试 a trip down memory lane。
+
+**题面**
+"翻到大学时的旧照片，我一下子回到了那段日子。"（"一下子回到了那段日子"用 **a trip down memory lane** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Flipping through my old college photos was a real trip down memory lane.
+
+- 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S8 · 她标「这个词组学下」· 原话 `To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
 
 ## 迁移说明（2026-08-18）
 
