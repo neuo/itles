@@ -703,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
 类型 词组 ｜ 新建 2026-10-24
-状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
 
 **问题是什么**
 **right where ＋ 人 ＋ stood／was standing／was** ＝ 就在（他）原来站着／待着的那个地方：
@@ -732,10 +732,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [4]（#531 题里）· diff-2 ⚠️ · 原话 `It was so hot that a few students passed out right while standing during military training.` ⇒ 更好版 right where they stood
 - 2026-10-25 ✅ 学习日 在池第 2 组 [4] · `Right after crossing the finish line of the marathon, he collapsed right where he stood.` —— right where he stood ✓。连错 1 → 连对 1
+- 2026-10-26 ✅ 学习日 在池第 1 组 [1] · `The tour guide had us wait right where we were so she could go buy the tickets.` —— right where we were ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 539 · **cash register**（收银机；⛔ cashier ＝ 收银员，是人）
 类型 词汇 ｜ 新建 2026-10-24
-状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 词组
 
 **问题是什么**
 **cash register** ＝ 收银机（口语常省成 the register；英式 the till）：`made off with the cash register` · `open the register`。
@@ -762,10 +763,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [7]（#529 题里）· 原话 `The thief smashed in the store's glass door and made off with the cashiet.`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [5] · `that cash register at the checkout counter in the supermarket` —— cash register ✓。连错 1 → 连对 1
+- 2026-10-26 ✅ 学习日 在池第 1 组 [2] · `that legacy cash register on the counter of the corner shop` —— cash register ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ legacy ⇒ 新建 #548
 
 ### 540 · **munch on sth**（大口地嚼、咔嚓咔嚓地啃：munch on chips／an apple）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
 
 **问题是什么**
 **munch on ＋ 吃的** ＝ 一口一口地嚼（吃得香、有声音，多说零食、水果）：`munching on chips` · `munch on an apple` · `the squirrel was munching on a pinecone`。
@@ -792,10 +794,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [6] · `My younger brother sat munching on a giant bag of chips while watching the movie.` —— munching on ✓。连错 1 → 连对 1
+- 2026-10-26 ✅ 学习日 在池第 1 组 [3] · `During lunch break, my coworker sat at her station munching on a pack of biscuits.` —— munching on ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ station ⇒ 新建 #549
 
 ### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **ponytail** ＝ 马尾辫（脑后扎起来的那一束）；扎马尾 ＝ **put one's hair (up) in a ponytail**：`She put her hair in a ponytail.` · `put it up in a ponytail` · `wear her hair in a ponytail`（平时梳着马尾）。
@@ -823,10 +826,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 连对 1 之后点名降到只给 **put**（ponytail 留给她调）
 
 - 2026-10-25 ❌ 首犯 · 学习日 在池第 2 组 [2]（#535 题里）· 她标「这个词和词组都学下」· 原话 `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [4] · `She was running too late to wash her hair this morning, so she just put her hair in a ponytail and left.` —— put her hair in a ponytail ✓。连错 1 → 连对 1
 
 ### 542 · **backstory**（背景故事：一个人／角色在眼下这件事之前的经历；⛔ background story）
 类型 词汇 ｜ 新建 2026-10-25
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **backstory** ＝ 一个人、一个角色"之前发生过什么"的那段经历（一个词）：`the villain's backstory` · `Every contestant has a sad backstory.` · `The show spends ages on their backstories.`
@@ -852,10 +856,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：The movie spends a whole half hour on the villain's backstory.
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]a（#440 题里）· diff-2 ⚠️ · 原话 `a sentimental background story on a talent show` ⇒ 更好版 a sentimental backstory
+- 2026-10-26 ✅ 学习日 在池第 1 组 [5] · `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.` —— the villain's backstory ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #550 #551
 
 ### 543 · **bumper-to-bumper**（车一辆挨一辆、堵成长龙：The traffic was bumper-to-bumper.）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **bumper-to-bumper** ＝ 前车保险杠贴着后车保险杠，形容路上堵得一辆挨一辆：`The traffic was bumper-to-bumper.` · `The highway is bumper-to-bumper during rush hour.` · `bumper-to-bumper traffic`（放名词前）。
@@ -881,10 +886,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：On National Day, the highway out of the city was bumper-to-bumper for five whole hours.
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]e（#448 题里）· 她标「背下」· 原话 `that elevated expressway bumper-to-bumper(背下) in the morning rush`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [6] · `The expressway out of the city was bumper-to-bumper for five solid hours over the National Day holiday.` —— was bumper-to-bumper ✓。连错 1 → 连对 1
 
 ### 544 · **pet**（动词：摸、撸小动物：pet the dog · get petted）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pet** 当动词 ＝ 用手一下一下地摸（猫狗等小动物，带亲昵）：`pet the dog` · `Can I pet your cat?` · `The dog loves getting petted.`
@@ -911,10 +917,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：Whenever my niece sees a kitten, she crouches down and keeps petting it.
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [1]（#442 题里）· 她标「这个词学下」· 原话 `he runs up to anyone walking past just to get petted(这个词学下).`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [7] · `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.` —— petting it ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #552
 
 ### 545 · **quarter-final**（四分之一决赛：八强赛；the quarter-finals）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **quarter-final** ＝ 四分之一决赛（还剩八个队／八个人的那一轮，中文常说八强赛）；那一轮有四场 ⇒ 常用复数 **the quarter-finals**（也写 quarterfinals）：`knocked out in the quarter-finals` · `make it to the quarter-finals`。
@@ -941,10 +948,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：the World Cup quarter-finals
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [5]（#449 题里）· 她标「学下」· 原话 `Our school's debate team was knocked out during the quarter-finals(学下).`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [8] · `the World Cup quarter-finals` —— quarter-finals ✓。连错 1 → 连对 1
 
 ### 546 · **find a middle ground**（找个折中、两头之间取中间；strike 常配 a balance／a happy medium）
 类型 搭配 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **middle ground** ＝ 两头之间的中间地带、折中：`find a middle ground` · `There's no middle ground.`（没有折中的余地）；口语里最简单的同义说法 `something in between`。
@@ -971,10 +979,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 连对 1 之后点名降到只给 **middle ground**（动词 find 留给她）
 
 - 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S4 · 她标「这个词组学下」· diff-2 ⚠️ · 原话 `If you want to strike a middle ground（这个词组学下), going to a bar works too.` ⇒ 更好版 find a middle ground
+- 2026-10-26 ✅ 学习日 在池第 1 组 [9] · `I was after big-city career opportunities and my husband wanted small-town quiet, so we eventually found a middle ground and settled in the suburbs.` —— found a middle ground ✓。连错 1 → 连对 1
 
 ### 547 · **like-minded**（志同道合的、想法爱好一样的：like-minded people）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-25 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **like-minded** ＝ 兴趣、想法、立场一样的（放在人前面）：`like-minded people` · `meet like-minded friends` · `a group of like-minded fans`。
@@ -1000,6 +1009,152 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：the like-minded people in my book club
 
 - 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S5 · 她标「学下」· 原话 `You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [10] · `those like-minded bookworms in the book club` —— like-minded ✓。连错 1 → 连对 1
+
+### 548 · **old-fashioned**（老式的、旧款的：an old-fashioned cash register；⛔ legacy）
+类型 词汇 ｜ 新建 2026-10-26
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**old-fashioned** ＝ 老式的、旧款的（东西是早年那种样式／做法）：`an old-fashioned cash register` · `an old-fashioned sewing machine` · `old-fashioned values`；口语也常说 **old-school**（带点怀旧、复古的味道）。
+同一格里的邻居（别串）：legacy（IT／公司行话：legacy system ＝ 公司里还在跑的旧系统、旧软件，⛔ 不拿来说一台老机器）· outdated（过时了、跟不上了，带贬义）· vintage（有年代感、值得收藏）。
+判据一句话：说一样东西"老式的" ⇒ old-fashioned／old-school；legacy 只留给公司里还在跑的旧系统、旧软件。
+★ 题型判整句："老式的"能落到 old／old-school／vintage 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-10-26 学习日 在池第 1 组 [2]（#539 题面"街角小卖部柜台上那台老式收银机"）· 原话
+`that legacy cash register on the counter of the corner shop`
+考点 cash register 用对（#539 ✅）；diff-2 ⚠️："老式"落成 legacy —— IT／公司行话，说一台老机器偏了 ⇒ old-fashioned ⇒ §3.2b 能学的表达（session／档案里找不到她产出过 old-fashioned ⇒ 不走书面登记）⇒ 建号（同 #538 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "old-fashioned"／"legacy"／"outdated" ⇒ 零命中；"old" ⇒ 命中全是 old man／older 一类正文字样（🎓#234 older people ＝ 老人 · 🎓#74 make do with 旧电脑题面 · 🎓#531 等），无一以"老式"为考点 ⇒ 否
+　② 中文 dedup "老式"／"过时" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`that legacy cash register`　　更地道：`that old-fashioned cash register`
+找法：中文"老式的（机器、东西）"先落 old-fashioned；冒出 legacy 先问一句 —— 说的是公司里的旧系统吗？不是就换。
+
+**题面**
+"我奶奶到现在还在用那台老式缝纫机给我们改衣服。"（"老式"用 **old-fashioned** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My grandma still uses that old-fashioned sewing machine to alter our clothes.
+
+- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [2]（#539 题里）· diff-2 ⚠️ · 原话 `that legacy cash register on the counter of the corner shop` ⇒ 更好版 old-fashioned
+
+### 549 · **at one's desk**（办公室的"工位" ＝ desk：sat at her desk；⛔ station）
+类型 词汇 ｜ 新建 2026-10-26
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+
+**问题是什么**
+办公室里的"工位" ＝ **desk**（每人一张的那张办公桌）：`sit at my desk` · `eat lunch at my desk` · `She's not at her desk.`（她不在工位上）。
+同一格里的邻居（别串）：workstation（工位，偏正式、行政口吻）· cubicle（带隔板的格子间）· station（岗位：nurses' station 护士站、餐厅后厨、流水线上的一个位置 —— ⛔ 不说办公室工位）。
+判据一句话：办公室里说"在工位上" ⇒ at one's desk；有隔板的格子间才说 cubicle。
+★ 题型判词组：一个名词块，"工位"映射回 desk；答 workstation 合法也贴题面 ⇒ 记 ✅（§3.3），只盯她不再落 station。
+
+**怎么发现的**
+2026-10-26 学习日 在池第 1 组 [3]（#540 题面"午休的时候，我同事坐在工位上，抱着一包饼干咔嚓咔嚓地啃。"）· 原话
+`During lunch break, my coworker sat at her station munching on a pack of biscuits.`
+考点 munch on 用对（#540 ✅）；diff-2 ⚠️："工位"落成 station —— station 是护士站、后厨、流水线那种岗位，办公室工位说偏了 ⇒ at her desk ⇒ §3.2b（选词偏了，⛔ 不是同级近义词）⇒ 建号（同 #538 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "at her desk"／"desk" ⇒ 🎓#289（历史字样：她 10-12 说过 `she's right at her desk drawing`，孩子在家的书桌）· 🎓#435（题面"办公桌上"）· 🎓#501 #74 #158（历史／正文字样）⇒ 都否 —— 她会 desk 这个词，缺的是"工位 → desk"这一步；"workstation"／"cubicle" ⇒ 零命中；"station" ⇒ 🎓#336 #360 #287（火车站等字样）· #89（历史字样）⇒ 否
+　② 中文 dedup "工位" ⇒ 零命中；"办公桌" ⇒ 🎓#435（succulent 题面）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`sat at her station`　　更地道：`sat at her desk`
+找法：中文"工位"先落 desk；说出 station 先问一句 —— 这是护士站／后厨／流水线吗？不是就换 desk。
+
+**题面**
+"开放式办公室里我那个靠窗的工位"（每人一张桌子、一台电脑，上班就坐在那儿的位置）
+★ 目标形式（教练看，⛔ 不进发题稿）：my desk by the window in the open-plan office
+
+- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [3]（#540 题里）· diff-2 ⚠️ · 原话 `During lunch break, my coworker sat at her station munching on a pack of biscuits.` ⇒ 更好版 at her desk
+
+### 550 · **lay out ＋ 一套东西**（把计划／来龙去脉一条条摆出来讲清楚：lay out the backstory）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**lay out** ＝ 把一套东西（计划、理由、事实、来龙去脉）有条理地摆出来、讲清楚：`lay out the plan` · `lay out the facts` · `The film took half an hour to lay out the villain's backstory.`；本义是"摊开摆好"（lay out the clothes on the bed）。
+同一格里的邻居（别串）：spell out（一字一句说明白）· go through（一项一项过一遍）· explain（最泛）· 🎓#431 邻居栏里的 well laid out（布局好，说空间，另一个义项）。
+判据一句话：把一整套东西从头到尾摆出来讲 ⇒ lay out；怕对方没听懂、要说得一清二楚 ⇒ spell out。
+★ 题型判整句："讲清楚／交代"能落到 explain／go through 一串合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后点名降到只给 **lay**（out 留给她）。
+
+**怎么发现的**
+2026-10-26 学习日 在池第 1 组 [5]（#542 题面"这部电影花了半个多小时交代反派的背景故事。"）· 原话
+`The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+她用对了 lay out，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #540 #541 先例）。
+判重三步：
+　① 目标形式 dedup "lay out" ⇒ 零命中；"laid out" ⇒ 🎓#431（well planned out；邻居栏 well laid out ＝ 布局，说空间）⇒ 否，另一个义项；"spell out" ⇒ 🎓#162（历史字样）⇒ 否；"set out" ⇒ 🎓#509（set off，历史字样）⇒ 否
+　② 中文 dedup "交代" ⇒ 🎓#373 #388 #347（正文"交代背景／时间"字样）· #542（本题题面）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `just to lay out the villain's backstory`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"交代清楚／把…一条条讲出来"先试 lay out。
+
+**题面**
+"开会的时候，经理先花了十分钟把明年的计划一条条讲清楚。"（"一条条讲清楚"用 **lay out** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：At the meeting, the manager spent ten minutes laying out next year's plan.
+
+- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词组学下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+
+### 551 · **villain**（反派、坏人角色：play the villain）
+类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要背
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+
+**问题是什么**
+**villain** ＝ 故事里跟主角作对的坏人、反派：`the villain of the movie` · `He always plays the villain.` · `the villain's backstory`。
+同一格里的邻居（别串）：bad guy（口语，坏人）· antagonist（对手角色，偏影评、文学评论）· hero／protagonist（主角）。
+判据一句话：说电影／小说／剧里的"反派" ⇒ villain（口语也说 the bad guy）。
+★ 题型判词组：一个名词，"反派"映射回 villain；答 the bad guy 合法也贴题面 ⇒ 记 ✅（§3.3），下次把语境写具体。
+
+**怎么发现的**
+2026-10-26 学习日 在池第 1 组 [5]（#542 题面"这部电影花了半个多小时交代反派的背景故事。"）· 原话
+`The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+她用对了 villain，自己标「这个词背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #543 先例）。
+判重三步：
+　① 目标形式 dedup "villain" ⇒ #542（正文／历史字样：the villain's backstory）⇒ 否，那条考 backstory；"bad guy" ⇒ 零命中
+　② 中文 dedup "反派" ⇒ #542（题面）⇒ 否 ⇒ 题面互斥：本条题面不带"背景故事"
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `the villain's backstory`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"反派／大坏蛋（角色）"先落 villain。
+
+**题面**
+"这部剧里演反派的那个演员"（专门跟主角作对、观众恨得牙痒痒的那个坏角色）
+★ 目标形式（教练看，⛔ 不进发题稿）：the actor who plays the villain in this show
+
+- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词背下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+
+### 552 · **crouch down**（蹲下：crouch down to tie my shoelaces）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**crouch (down)** ＝ 弯腿把身子蹲低（多是一下子蹲下去，去够、去看、去摸）：`crouch down to tie my shoelaces` · `She crouched down and petted the kitten.` · `crouch behind the car`。
+同一格里的邻居（别串）：squat (down)（蹲，也指一直蹲着；健身里的深蹲）· kneel (down)（跪下，膝盖着地）· bend down（弯腰，腿不一定弯）。
+判据一句话：说"蹲下来（够／看／摸）" ⇒ crouch down；一直蹲着／深蹲 ⇒ squat；膝盖着地 ⇒ kneel。
+★ 题型判整句："蹲下"能落到 squat down 等合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 在池第 1 组 [7]（#544 题面"我侄女一见到小猫就蹲下来摸个不停。"）· 原话
+`As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
+她用对了 crouched down，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #540 #541 先例）。
+判重三步：
+　① 目标形式 dedup "crouch"／"squat"／"kneel"／"bend down" ⇒ 零命中
+　② 中文 dedup "蹲" ⇒ 🎓#332（正文字样）· #544（本题题面）⇒ 都否 ⇒ 题面互斥：本条题面不带"摸小动物"
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `she crouched down`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"蹲下来…"先落 crouch down。
+
+**题面**
+"我蹲下来帮女儿系鞋带。"（"蹲下来"用 **crouch down** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I crouched down to tie my daughter's shoelaces.
+
+- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [7]（#544 题里）· 她标「这个词组学下」· 原话 `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
 
 ## 迁移说明（2026-08-18）
 
