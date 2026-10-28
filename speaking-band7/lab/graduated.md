@@ -5206,7 +5206,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 146 · know 是状态，不能表"得知"这个动作（find out／hear about）
 类型 词汇 ｜ 旧号 B235
-状态 连对2 连错0 上次2026-10-03 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-08-20**（连对2）｜ 题型 整句
 
 **问题是什么**
 **know 是状态，不能表"得知"这个动作** —— 那个动作要用 **find out ／ hear about ／ realise**：
@@ -5238,6 +5238,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-09-29 📝 题面整改（§6 换场景 ＋ 中文释义收敛）
   去掉"不许用 know"负向写法，改成中文释义把"知道"限定成得知的那一下（find out／hear／realise 都算对，knew 就是她掉过两次的那条路）；换成刷手机得知分手场景
 - 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [6] · `I only found out they broke up when I was scrolling on my phone.` —— "得知"那一下用 found out，没用 knew
+- 2026-10-27 ✅ 自发命中 · 付息日 d 段重答 bank:478 S4 · `Later, we learned from TV news that the government had passed a new law …` —— 得知用动作动词 learned（首答同一题 `we knew about it through news` ❌）；news 没带 the 归 #63 ⚪
 - 备注 the news 要带 the（on/from/in the news）—— 08-19 她自发带了 the；08-20 仍带对
 
 ### 148 · 状态用简单时，变化用完成时（He isn't familiar with it yet.）
@@ -11301,7 +11302,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 288 · 机制句型：once X costs you something, you start asking whether …（把政策翻译成人的心理反应）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-08-29**（连对2）｜ 题型 整句
 
 **问题是什么**
 机制句型：**once X costs you something, you start asking whether …**（把政策翻译成人的心理反应）。
@@ -11382,6 +11383,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
   去掉"⛔ think／wonder"，正向点名 once ／ start asking whether；换成外卖配送费场景
 - 2026-10-12 ✅ 付息日 a2 段复检第 7 组 [1] · `Once parking charges you twenty bucks an hour, you start asking whether taking the subway is a better deal.` —— Once …, you start asking whether ＋ 主谓。🎓 rc2 → rc3
   ★ 同句 diff-2 ⚠️ parking charges you → parking costs you ⇒ 另建 #467
+- 2026-10-27 ✅ 自发命中 · 付息日 d 段重答 bank:478 S9 · `As long as a plastic bag costs something, people will always hesitate and think twice before getting one.` —— 代价 → 心理反应机制句（as long as 版本；首答同一题是 it makes people stop and think）
 - 备注 骨架与用法：
 ```
 (because) once ＋【代价发生的从句】, ＋ you ＋ start ＋ -ing ＋ whether ＋【主谓】.
@@ -15193,7 +15195,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-09-26** ｜ 题型 整句
 
 **问题是什么**
 **as for ＋ 名词／名词性从句** ＝ "至于…／说到…"，**两个词一组**，后面直接挂名词：
@@ -15234,6 +15236,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
   去掉"两个词／第一个词是 as ＋ 三个排除项"，改零提示整句（as for／when it comes to／regarding 都算对），逼的是她掉过的 as far ＋ 名词；换成工资加班场景
 - 2026-10-06 ✅ 学习日 复检第 3 组 [7]（题面"房子本身我挺满意的，至于周边配套怎么样…"）· `I really like the house itself—as for the neighborhood amenities, we'll see after living here for a bit.`
 - 2026-10-26 ✅ 学习日 复检第 2 组 [9]（题面"这款手机拍照挺不错的，至于电池嘛，就一般般了。"，零提示）· `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).` —— as for the battery。🎓 rc2 → rc3 ｜ 她标学下 ⇒ 新建 #556 nothing to write home about
+- 2026-10-27 ✅ 自发命中 · 付息日 d 段重答 bank:478 S5 · `As for who gets the benefits, I feel like everyone wins in the long run.` —— as for ＋ 名词性成分（没写成 as far）
 
 ### 355 · ballad ＝ 抒情慢歌（情歌／民谣那一类）
 类型 词汇 ｜ 新建 2026-09-21 ｜ ⭐ 她点名要背
@@ -21464,3 +21467,225 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [6] · `My younger brother sat munching on a giant bag of chips while watching the movie.` —— munching on ✓。连错 1 → 连对 1
 - 2026-10-26 ✅ 学习日 在池第 1 组 [3] · `During lunch break, my coworker sat at her station munching on a pack of biscuits.` —— munching on ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ station ⇒ 新建 #549
+
+### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
+类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
+
+**问题是什么**
+**ponytail** ＝ 马尾辫（脑后扎起来的那一束）；扎马尾 ＝ **put one's hair (up) in a ponytail**：`She put her hair in a ponytail.` · `put it up in a ponytail` · `wear her hair in a ponytail`（平时梳着马尾）。
+同一格里的邻居（别串）：tie one's hair back（把头发往后扎，不说扎成什么）· braid（辫子／编辫子）· bun（丸子头：put her hair up in a bun）· pigtails（两边各一束的双马尾）。
+判据一句话：说"扎成马尾"⇒ put … in a ponytail（介词 in，⛔ 不是 into）；说"平时梳着马尾"⇒ wear … in a ponytail。
+★ 词和块一个号：她要学的是词 ponytail 和块 put her hair in a ponytail；词嵌在块里，产出块就必须调出这个词 ⇒ 不另开号（另开会和本条题面互相泄题）。
+★ 题型判整句："扎马尾"能落到 tie it back／wear a ponytail 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。首测给整块（§6②：她说要学的 ⇒ 先练）；连对 1 之后只点名 put，ponytail 留给她自己调。
+
+**怎么发现的**
+2026-10-25 学习日 在池第 2 组 [2]（#535 题面"女儿扎马尾用的那根粉色丝带"）· 原话
+`that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
+她用对了、自己标「这个词和词组都学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #537 #540 先例）。
+判重三步：
+　① 目标形式 dedup "ponytail"／"put her hair"／"hair in" ⇒ 零命中
+　② 中文 dedup "马尾" ⇒ 零命中；"头发"／"扎" ⇒ #535（ribbon，另一个词 ⇒ 题面互斥：本条题面不带丝带）· 🎓#104（bury，"扎进"是比喻）· 🎓#441（shed，掉毛）· 🎓#51（put away，put 的另一个块）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `to put her hair in a ponytail`，但词和块都不在手边（自己标学下）　　目标：同她原句
+找法：中文"扎（个）马尾"先落 put ＋ 头发 ＋ in a ponytail。
+
+**题面**
+"她早上来不及洗头，就随手把头发扎了个马尾出门了。"（"扎了个马尾"用 **put … in a ponytail** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：She didn't have time to wash her hair this morning, so she just put it in a ponytail and headed out.
+★ 连对 1 之后点名降到只给 **put**（ponytail 留给她调）
+
+- 2026-10-25 ❌ 首犯 · 学习日 在池第 2 组 [2]（#535 题里）· 她标「这个词和词组都学下」· 原话 `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [4] · `She was running too late to wash her hair this morning, so she just put her hair in a ponytail and left.` —— put her hair in a ponytail ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [1] · `Our yoga instructor always puts her hair in a ponytail before starting every class.` —— 点名只给 put，puts her hair in a ponytail ✓（ponytail 与 in 自己调出）。连对 1 → 2 ⇒ 🎓 毕业
+
+### 542 · **backstory**（背景故事：一个人／角色在眼下这件事之前的经历；⛔ background story）
+类型 词汇 ｜ 新建 2026-10-25
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
+
+**问题是什么**
+**backstory** ＝ 一个人、一个角色"之前发生过什么"的那段经历（一个词）：`the villain's backstory` · `Every contestant has a sad backstory.` · `The show spends ages on their backstories.`
+同一格里的邻居（别串）：background（出身、学历、家庭条件：her family background）· history（过往记录：medical history）· sob story（博同情的苦情故事，带贬义）。
+判据一句话：讲的是"一段经历、一个故事"⇒ backstory；讲的是出身、学历、家庭条件 ⇒ background。
+★ 题型判整句：零提示时她会再落 background story（能懂、不算错）⇒ 词组题判不出缺口 ⇒ 整句 ＋ 正向点名 backstory。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 3 组 [9]a（🎓#440 题面"选秀节目里那段特别煽情的选手背景故事"）· 原话
+`a sentimental background story on a talent show`
+background story 能懂，但"背景故事"英语有现成的一个词 backstory ⇒ diff-2 ⚠️ ⇒ §3.2b 能学的表达 ⇒ 建号（同 #525 先例：⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "backstory"／"background" ⇒ 零命中
+　② 中文 dedup "背景" ⇒ 🎓#318（one time when ＋ 背景，讲往事的句子结构，正文字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：a sentimental background story　　更好：a sentimental backstory
+找法：中文"背景故事／他之前的经历"先落 backstory（一个词）；background 留给出身、学历、家庭条件。
+
+**题面**
+"这部电影花了整整半个小时交代反派的背景故事。"（"背景故事"用 **backstory** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The movie spends a whole half hour on the villain's backstory.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]a（#440 题里）· diff-2 ⚠️ · 原话 `a sentimental background story on a talent show` ⇒ 更好版 a sentimental backstory
+- 2026-10-26 ✅ 学习日 在池第 1 组 [5] · `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.` —— the villain's backstory ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #550 #551
+- 2026-10-27 ✅ 付息日 在池第 1 组 [2] · `Every character in this game has their own detailed backstory.` —— their own backstory ✓。连对 1 → 2 ⇒ 🎓 毕业
+
+### 543 · **bumper-to-bumper**（车一辆挨一辆、堵成长龙：The traffic was bumper-to-bumper.）
+类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要背
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
+
+**问题是什么**
+**bumper-to-bumper** ＝ 前车保险杠贴着后车保险杠，形容路上堵得一辆挨一辆：`The traffic was bumper-to-bumper.` · `The highway is bumper-to-bumper during rush hour.` · `bumper-to-bumper traffic`（放名词前）。
+同一格里的邻居（别串）：🎓#107 jammed／gridlocked（堵死、一动不动）· 🎓#61 get stuck in traffic（人被堵在路上）· backed up（车排成长队往后压）。
+判据一句话：说路／车流一辆挨一辆 ⇒ be bumper-to-bumper；说人被堵 ⇒ get stuck in traffic。
+★ 题型判整句："堵"能落到 jammed／gridlocked／backed up 一串合法说法 ⇒ 整句 ＋ 正向点名；挂在名词后面当修饰语要带 that's（the expressway that's bumper-to-bumper）。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 3 组 [9]e（🎓#448 题面"早高峰堵得一动不动的那段高架"）· 原话
+`that elevated expressway bumper-to-bumper(背下) in the morning rush`
+她自己标「背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #526 #540 先例）。
+判重三步：
+　① 目标形式 dedup "bumper" ⇒ 🎓#107（jammed／gridlocked，另一个词；已退池不出题）⇒ 否；"gridlock" ⇒ 零命中
+　② 中文 dedup "堵" ⇒ 🎓#107（同上）· 🎓#61（get stuck in traffic，另一个块）· 🎓#287（flow smoothly）· 🎓#108（packed，人多）及其余正文字样 ⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 bumper-to-bumper，但块不在手边（自己标背下）；挂在名词后面少了 that's　　目标：`that elevated expressway that's bumper-to-bumper during the morning rush`
+找法：中文"车一辆挨一辆／排成长龙"先落 bumper-to-bumper，前面要有 be（The road is bumper-to-bumper）。
+
+**题面**
+"国庆节出城的高速上，车一辆挨一辆，堵了整整五个小时。"（"车一辆挨一辆"用 **bumper-to-bumper** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On National Day, the highway out of the city was bumper-to-bumper for five whole hours.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]e（#448 题里）· 她标「背下」· 原话 `that elevated expressway bumper-to-bumper(背下) in the morning rush`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [6] · `The expressway out of the city was bumper-to-bumper for five solid hours over the National Day holiday.` —— was bumper-to-bumper ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [3] · `Right after the concert ended, cars outside the stadium were stuck bumper-to-bumper.` —— were stuck bumper-to-bumper ✓。连对 1 → 2 ⇒ 🎓 毕业
+
+### 544 · **pet**（动词：摸、撸小动物：pet the dog · get petted）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
+
+**问题是什么**
+**pet** 当动词 ＝ 用手一下一下地摸（猫狗等小动物，带亲昵）：`pet the dog` · `Can I pet your cat?` · `The dog loves getting petted.`
+**get petted** ＝ 被人摸（狗凑过来"让人摸摸"）。
+同一格里的邻居（别串）：stroke（顺着毛抚摸，偏书面）· pat（轻拍：pat the dog on the head）· cuddle（抱着搂着）· touch（碰，最泛、不带亲昵）。
+判据一句话：用手摸小动物、表示亲昵 ⇒ pet；轻轻拍两下 ⇒ pat；抱在怀里 ⇒ cuddle。
+★ 题型判整句："摸"能落到 stroke／pat／touch 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 pet。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 4 组 [1]（🎓#442 题面"我们楼下那只金毛特别亲人，谁路过都要凑上去让人摸摸。"）· 原话
+`The Golden Retriever downstairs is exceptionally affectionate; he runs up to anyone walking past just to get petted(这个词学下).`
+她用对了 get petted，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #537 #540 先例）。
+判重三步：
+　① 目标形式 dedup "petted"／"pet the" ⇒ 零命中
+　② 中文 dedup "摸" ⇒ 🎓#279（get a feel for，摸出手感）· 🎓#528（get the hang of，摸到窍门，比喻）· 🎓#45 #68 #133 #510（正文字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `just to get petted`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"摸摸（猫狗）／撸猫"先落 pet；"让人摸"⇒ get petted。
+
+**题面**
+"我侄女一见到小猫就蹲下来摸个不停。"（"摸"用 **pet** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Whenever my niece sees a kitten, she crouches down and keeps petting it.
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [1]（#442 题里）· 她标「这个词学下」· 原话 `he runs up to anyone walking past just to get petted(这个词学下).`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [7] · `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.` —— petting it ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #552
+- 2026-10-27 ✅ 付息日 在池第 1 组 [4] · `On the farm, children queued up to pet that little lamb.` —— pet that little lamb ✓。连对 1 → 2 ⇒ 🎓 毕业
+
+### 545 · **quarter-final**（四分之一决赛：八强赛；the quarter-finals）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 词组
+
+**问题是什么**
+**quarter-final** ＝ 四分之一决赛（还剩八个队／八个人的那一轮，中文常说八强赛）；那一轮有四场 ⇒ 常用复数 **the quarter-finals**（也写 quarterfinals）：`knocked out in the quarter-finals` · `make it to the quarter-finals`。
+同一格里的邻居（别串）：🎓#433 semi-final（半决赛，再往后一轮）· the final（决赛，一场，单数）· the knockout stage（淘汰赛阶段）。
+判据一句话：决赛往前数第一轮 ⇒ semi-final；第二轮 ⇒ quarter-final。
+★ 在哪一轮被淘汰，最常说 in：knocked out in the quarter-finals（during 也能懂，不算错）。
+★ 题型判词组：一个名词块，"八强赛"映射回 the quarter-finals；答 the last eight 合法且贴题面 ⇒ 照判 ✅。
+
+**怎么发现的**
+2026-10-25 学习日 复检第 4 组 [5]（🎓#449 题面"我们学校的辩论队在八强赛就被淘汰了。"）· 原话
+`Our school's debate team was knocked out during the quarter-finals(学下).`
+她写对了 quarter-finals，自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #433 先例）。
+判重三步：
+　① 目标形式 dedup "quarter" ⇒ 🎓#433（semi-final，另一个词；正文把 quarter-final 列为邻居 ⇒ 题面互斥：本条题面不带"半决赛"）· 🎓#19（分数 a quarter）⇒ 都否；"semifinal" ⇒ 🎓#433（同上）
+　② 中文 dedup "八强" ⇒ 零命中；"决赛"／"轮" ⇒ 🎓#415（make it through to）· 🎓#395（tournament）· 🎓#408（a round of）· 🎓#475 及其余正文字样 ⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the quarter-finals`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"八强（赛）"先落 the quarter-finals。
+
+**题面**
+"世界杯八强赛"（还剩八支队伍、再赢两轮就进决赛的那一轮）
+★ 目标形式（教练看，⛔ 不进发题稿）：the World Cup quarter-finals
+
+- 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [5]（#449 题里）· 她标「学下」· 原话 `Our school's debate team was knocked out during the quarter-finals(学下).`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [8] · `the World Cup quarter-finals` —— quarter-finals ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [5] · `the women's singles quarter-finals at the Tennis Open` —— quarter-finals ✓。连对 1 → 2 ⇒ 🎓 毕业
+
+### 546 · **find a middle ground**（找个折中、两头之间取中间；strike 常配 a balance／a happy medium）
+类型 搭配 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
+
+**问题是什么**
+**middle ground** ＝ 两头之间的中间地带、折中：`find a middle ground` · `There's no middle ground.`（没有折中的余地）；口语里最简单的同义说法 `something in between`。
+同一格里的邻居（别串）：strike a balance (between A and B)（在两者之间取平衡）· strike a happy medium（找到两全的折中）· meet in the middle（双方各让一步）。
+判据一句话：middle ground 前面的动词用 **find**；想用 strike ⇒ 后面接 a balance 或 a happy medium。
+★ 题型判整句："折中"能落到 compromise／something in between／meet in the middle 一串合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后只点名 middle ground，动词留给她。
+
+**怎么发现的**
+2026-10-25 学习日 ③ 重答 bank:349（R27 · P3 · Where do people normally watch sports events?）S4 · 原话
+`If you want to strike a middle ground（这个词组学下), going to a bar works too.`
+她自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌；strike a middle ground 也有人说，但 middle ground 最常配 find ⇒ diff-2 ⚠️ 给 find a middle ground。
+判重三步：
+　① 目标形式 dedup "middle ground"／"happy medium"／"strike a"／"in between" ⇒ 零命中；"balance" ⇒ 🎓#194（balance A and／with B，screen time 那条，另一个块）⇒ 否
+　② 中文 dedup "折中" ⇒ 零命中；"中间" ⇒ 🎓#67 #155 #306 #36 #74 #87（全是"放中间"的正文字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：strike a middle ground（自己标学下）　　更好：find a middle ground
+找法：中文"折中一下／取个中间"先落 find a middle ground（或 something in between）；说出 strike 就接 a balance。
+
+**题面**
+"我想要大城市的工作机会，我老公想要小镇的安静，最后我们找了个折中，搬到了郊区。"（"找了个折中"用 **find a middle ground** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I wanted the job opportunities of a big city and my husband wanted the quiet of a small town, so we found a middle ground and moved to the suburbs.
+★ 连对 1 之后点名降到只给 **middle ground**（动词 find 留给她）
+
+- 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S4 · 她标「这个词组学下」· diff-2 ⚠️ · 原话 `If you want to strike a middle ground（这个词组学下), going to a bar works too.` ⇒ 更好版 find a middle ground
+- 2026-10-26 ✅ 学习日 在池第 1 组 [9] · `I was after big-city career opportunities and my husband wanted small-town quiet, so we eventually found a middle ground and settled in the suburbs.` —— found a middle ground ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [6] · `I wanted to hit the beach and my friend wanted to go hiking, so we found a middle ground and went to Qingdao, which offers both mountains and the sea.` —— 点名只给 middle ground，found a middle ground ✓（find 自己补上）。连对 1 → 2 ⇒ 🎓 毕业
+
+### 547 · **like-minded**（志同道合的、想法爱好一样的：like-minded people）
+类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 词组
+
+**问题是什么**
+**like-minded** ＝ 兴趣、想法、立场一样的（放在人前面）：`like-minded people` · `meet like-minded friends` · `a group of like-minded fans`。
+同一格里的邻居（别串）：share the same interests（有共同爱好，动词说法）· have a lot in common（共同点多）· on the same page（对一件事看法一致）。
+判据一句话：说"一群志同道合的人"⇒ like-minded people；说"我们俩爱好一样"⇒ we share the same interests／have a lot in common。
+★ 题型判词组：一个形容词 ＋ 人，"志同道合的"映射回 like-minded，唯一可判。
+
+**怎么发现的**
+2026-10-25 学习日 ③ 重答 bank:349（R27 · P3）S5 · 原话
+`You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
+她用对了 like-minded，自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #526 #540 先例）。
+判重三步：
+　① 目标形式 dedup "like-minded"／"same interests"／"share the same" ⇒ 零命中
+　② 中文 dedup "志同道合" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `surrounded by like-minded people`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"志同道合的（人）／同好"先落 like-minded ＋ 人。
+
+**题面**
+"读书会里那群志同道合的书友"（都爱看同一类书、一聊就停不下来的那种人）
+★ 目标形式（教练看，⛔ 不进发题稿）：the like-minded people in my book club
+
+- 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S5 · 她标「学下」· 原话 `You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
+- 2026-10-26 ✅ 学习日 在池第 1 组 [10] · `those like-minded bookworms in the book club` —— like-minded ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [7] · `those like-minded running buddies in the running club` —— like-minded ✓。连对 1 → 2 ⇒ 🎓 毕业

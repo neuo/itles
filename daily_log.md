@@ -7501,3 +7501,25 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
 
 **下一场 ＝ 周期 14 · R（付息日）**：a 在池 #548–#558 首测 ＋ 连对1 的 7 条（#541–#547）；⓪ 回看 lookback --cycle（bank:211 · bank:349 · bank:1286）；a2 复检；c 合并去重；d 重答 bank:478（P2 环保法律）＋ 与旧答对比（首答同在 08-15 那一节，先逐字回补）
+
+## 2026-10-27（周二）· 口语 R（付息日 · 周期 14 收尾）
+
+> 日期：开场美东 10-28 06:17（未到 10-28 中午），按中午分界属 10-27。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 538 ＝ problems.md 25 ＋ graduated.md 513 ｜ 🎓 513（95.4%）｜ 未毕业 25 ｜ 可出题 15 ｜ ⚡ 累计 263 条、掉过 16 ｜ 重答队列 68 道 / 未重答过 39 道
+
+**五段**
+- a 在池 2 组 18 题 / 18 条：**✅18 ❌0** ⇒ **毕业 7**（#541–#547）；#548–#558 连错 1 → 连对 1
+- ⓪ 回看：bank:211 · bank:349 · bank:1286（本周期三篇，`lookback --cycle` 原样贴）
+- a2 复检 2 组（在池只排 2 组，下溢 3 组，到期 26 条打包后只够 2 组）18 题 / 26 条：**✅26 ❌0**；#519 took care of errands · #290 people have … reasons depending on · #464 game plan 都是合法的另一种说法 ⇒ 记 ✅、种子补点名／口径
+- c 段：合并 0 · 拆号 0 · 未标题型 0 · 正文待升级 0
+- d 重答 bank:478（P2 Describe a law on environmental protection）：首答 08-15 有 6 处真错 → 这次 0 处（⚪ 1：from TV news 没带 the）；进步 ＝ for free 挂尾、法律 happen、knew、as less as 全没回来，机制句升成 As long as … costs something, people will … think twice；退步 ＝ 首答"每件外套里塞一只折好的袋子"那个画面没了、WTO 那句丢了 China；两次都薄 ＝ who benefits 只说 everyone
+- 新建 4：#559 trendy（⚠️ famous）· #560 flip through（学下）· #561 tremble（学下）· #562 the next／past few days（⚠️ these days）
+- 自发命中：🎓#146 learned from · 🎓#354 As for who … · 🎓#288 机制句；书面登记 1（offers → has）；📝 留痕 🎓#525（by the doorstep）· 🎓#90（having … for a week，同场她自己用对过 ⇒ 漏标）
+- 数据修补：2026-08-15.md 补 bank:478 四件套逐字回补
+
+**教练犯规**：复检 #464 题面写成"专门针对队长设计的战术"⇒ 落进 game plan 的地盘；复检第 3 组审核表留了一行草稿就 commit（下一个 commit 清掉）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 7⇄0
+
+**下一场 ＝ 周期 15 · L1**：#559–#562 首测 ＋ 连对1 的 11 条（#548–#558）；复检以 pick 为准；② 回看 bank:478；④ 重答 bank:340（P2 现场看的体育赛事）＋ 与旧答对比（首答在 08-16 那一节，先逐字回补）
