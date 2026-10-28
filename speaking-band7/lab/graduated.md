@@ -3253,6 +3253,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
   `I can only copy things **I've seen before**`——before ⇒ 完成时，本条第二组成员，自发用对
 - 2026-09-11 ✅ 复检 · 付息日 a2 第 4 组 · `I've never been on a plane.` —— never 拉出完成时，⛔ 没写成 I never took a plane
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 4 组 [1] · `I've been living in this city for five years now.` —— for 触发完成（进行）时
+- 2026-10-27 📝 漏标留痕 · 付息日 复检第 3 组 [7]（🎓#126 题里）· `having my new phone for a week now, I just haven't gotten used to …` → `I've had my new phone for a week now, and I still haven't …` —— for ＋ 时段 ⇒ 完成时；按 §3.4 执行自查：同场在池第 2 组 [3] 她自己写出 `hadn't been taken out for a few days`（for ⇒ 完成时 ✓）⇒ 会、是漏标 ⇒ ⛔ 不记 ❌、不判回潮、状态行不动
 
 ### 91 · 边界：句中有具体时间点 → 必须过去式，不许用完成时
 类型 语法 ｜ 旧号 B147b
@@ -4403,7 +4404,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 126 · get used to ／ settle into（适应新环境）
 类型 词组 ｜ 旧号 B211
-状态 连对2 连错0 上次2026-10-19 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **回潮 2026-10-12**（08-19 毕业 → 10-12 她在 #283 题里标「getting used to(学下)」点名要学 ⇒ 判 ❌、连对清零；09-29 停出与 10-12 恢复见历史行）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **get used to ／ settle into（settle in）** ＝ 适应新环境：
@@ -4440,6 +4441,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-10-13 ✅ 学习日 在池第 1 组 [1] · `I've been living down South for two years now, and I still haven't gotten used to how hot and humid it gets here.` —— haven't gotten used to ＋ how 从句。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [1] · `When I first started working night shifts, it took me months to get used to sleeping during the day.` —— get used to ＋ sleeping（to 是介词，后接 -ing）。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [1] · `I spent three years abroad, but to this day, I still can't get used to the food over there.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [7] · `having my new phone for a week now, I just haven't gotten used to the layout of this keyboard.` —— haven't gotten used to（句首 having … for a week 漏完成，归 🎓#90 📝）
 
 ### 127 · especially 不带来介词：句子本来要什么介词就用什么
 类型 结构 ｜ 旧号 B213
@@ -11447,7 +11449,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 
 ### 290 · 收尾块：… for totally different reasons depending on who you ask（同一个现象，不同的人理由完全不一样）
 类型 结构 ｜ 新建 2026-08-23（**她当场指定**）
-状态 连对2 连错0 上次2026-10-19 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **回潮 2026-10-12**（08-28 毕业 → 10-12 复检第 7 组写成 `everyone has a different reason, depending.`，on who you ask 没出来，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 收尾块：**… for totally different reasons depending on who you ask**（同一个现象，不同的人理由完全不一样）。
@@ -11473,7 +11475,8 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 是 ⇒ 用 `for different reasons **depending on** who you ask`，⛔ 别收成一句 "So it depends."。
 
 **题面**
-**点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（"理由"用 **reasons** 说，用 **depending** 那个词收尾）
+**点名**："所以这种情况挺普遍的，只是问不同的人，理由完全不一样。"（"理由"用 **for … reasons** 说，用 **depending** 那个词收尾）
+★ 2026-10-27 点名补 for：只点 reasons ＋ depending 时她走成 people have all kinds of reasons depending on who you ask（合法，判 ✅），for … reasons depending on 那个整块还是没逼出来 ⇒ 把 for 一起点上
 ★ 2026-10-19 补点名 reasons：只点 depending 时她把收尾块走成了独立分句 the reason … depends on who you ask（合法，判 ✅），for … reasons depending on 那个整块没逼出来
 ★ 点名 2026-08-27 收窄（§6.5 审核项 7 自查时记的待办，当天兑现）：原点名给的是**整块** `depending on who you ask` —— 属 §6 允许的"点块"，但它同时**把答案给了大半**（含 who you ask 那半里的 🎓#59 陈述语序考点）。收窄到只点 **depending** 之后，后半截要她自己凑 ⇒ 考点密度回来了
 
@@ -11502,6 +11505,7 @@ If ＋【主语】＋ are ＋【形1, 形2, and 形3】, ＋【一群人】＋ w
 - 2026-10-14 ✅ 学习日 在池第 1 组 [2] · `More and more young people are getting into photography nowadays, for totally different reasons depending on who you ask.` —— 收尾块整块成形，who you ask 陈述语序。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [2] · `A lot of people choose not to have kids nowadays—the reason really just depends on who you ask.` —— 收尾块走成了独立分句 the reason … depends on who you ask：合法、on who you ask 陈述语序、点名的 depend 也用上了 ⇒ ✅（§3.3 硬顺序）；种子补点名 reasons 逼整块
 - 2026-10-19 📝 题面整改（§3.3 硬顺序③）：种子点名补 **reasons**（"理由"用 reasons 说），让 for … reasons depending on who you ask 整块成形
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [8] · `More and more people are keeping cats as pets lately; as for why, people have all kinds of reasons depending on who you ask.` —— reasons depending on who you ask（陈述语序 ✓；走 people have … reasons，合法 ⇒ §3.3 记 ✅；种子点名当天补 for）
 
 - 备注 骨架与用法：
 ```
@@ -14909,7 +14913,7 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 
 ### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
 类型 结构 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-10-19 ｜ 题型 整句 ｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-10-27 ｜ 题型 整句 ｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
 
 **问题是什么**
 中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
@@ -14957,6 +14961,7 @@ For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135
   ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
 - 2026-10-14 ✅ 学习日 在池第 1 组 [3] · `For people living on their own, what scares them most is getting sick in the middle of the night with nobody around to take care of them.` —— For X 后面换了另一个主语（what scares them most），不是回指的 they。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [3] · `For many elementary school kids, summer break is the thing they look forward to the most` —— For X 之后换了主语 summer break，没有主语说两遍（她标 the most 要学 ⇒ 新建 #508）
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [9] · `For a lot of new mothers, what they lack the most is sleep.` —— 主句主语 what they lack the most（they 在主语从句里，⛔ 不是 For X, they … 主语说两遍）
 
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
@@ -17981,7 +17986,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 
 ### 436 · downstairs from ＋ 地方（在…楼下）
 类型 词组 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）｜ **🎓 已毕业 2026-10-24**（连对2 ＝ 10-22 ＋ 10-24；10-21 回潮后第二次毕业）
+状态 连对2 连错0 上次2026-10-27 ｜ 题型 整句 ｜ **回潮 2026-10-21**（10-10 毕业 → 10-21 复检第 3 组 [1]（#474 题里）`right downstairs their building` 挂参照物漏了 from）｜ **🎓 已毕业 2026-10-24**（连对2 ＝ 10-22 ＋ 10-24；10-21 回潮后第二次毕业）
 
 **问题是什么**
 **downstairs from** ＋ 某处 ＝ 在某处的楼下：the café downstairs from our office ／ the people who live downstairs from us。
@@ -18015,6 +18020,7 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
   ｜ ⚠️ 参照物挂整栋楼 ⇒ 更好版 downstairs from his apartment（题面"他住的那套公寓楼下"易读成整栋楼，只进 diff-2，不建号）
 - 2026-10-24 ✅ 学习日 在池第 1 组 [3] · `There is a gym is right downstairs from the office space we rent, so we hear the music booming all day long.` —— downstairs from ＋ 参照物，from 在。连对 1 → 2 ⇒ 🎓
   ｜ 同句 There is a gym is …（多一个 is）她当场说明是手滑 ⇒ 不计错、不建号（当天建的 #536 已撤，编号作废不复用）
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [1] · `There's a hot pot restaurant right downstairs from my studio, so the whole floor is filled with the smell of hot pot.` —— right downstairs from my studio
 
 ### 437 · , which ＋ 主语 ＋ 助动词（which 指前面整件事：…, which they don't.）
 类型 句型 ｜ 新建 2026-10-08 ｜ ⭐ 她点名要学
@@ -18714,7 +18720,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **snuggle up** ＝ 舒舒服服地蜷着、贴着：`snuggle up to sb`（贴着某人）· `snuggle up on the couch`／`snuggle up in bed`（窝在沙发上／被窝里）· `snuggle up with a book`。
@@ -18745,10 +18751,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-13 ✅ 学习日 在池第 1 组 [9] · `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.` —— snuggling up with ＋ 人。连错 1 → 连对 1 ｜ lounging 她标「背一下」⇒ 新建 #471
 - 2026-10-14 ✅ 学习日 在池第 1 组 [4] · `On winter nights when we're watching TV, our cat loves to come over and snuggle up with me.` —— snuggle up with ＋ 人。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [4] · `It was a freezing night, and the two puppies snuggled up together to keep warm.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [10] · `My nephew needs to snuggle up with his huge teddy bear every night just to fall asleep.` —— snuggle up with
 
 ### 459 · in sb's arms（怀里）≠ in sb's lap（腿上）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **in sb's arms** ＝ 在某人怀里（被两条胳膊搂在胸前）：`a baby asleep in her arms` · `hold sb in your arms` · `snuggle into sb's arms`（钻进怀里）。
@@ -18777,10 +18784,11 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-13 ✅ 学习日 在池第 1 组 [10] · `a baby sleeping peacefully in its mother's arms` —— in its mother's arms。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [5] · `a little boy crying in his dad's arms` —— in his dad's arms。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]a（打包）· `the bride held in the groom's arms`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]e（打包）· `the puppy trembling(这个词学下) in the firefighter's arms` —— in the firefighter's arms（trembling 她标学下 ⇒ 新建 #561）
 
 ### 460 · internship（实习）／intern（实习生）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **internship** ＝ 实习（那段经历）：`do an internship at a hospital` · `finish my internship` · `a summer internship`。
@@ -18809,6 +18817,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-13 ✅ 学习日 在池第 2 组 [1] · `that summer internship I did at an ad agency back in my junior year` —— internship。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [6] · `that three-month internship I did at a bank back before I graduated` —— internship。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]b（打包）· `that six-month internship at a hospital`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]f（打包）· `a summer internship at a law firm` —— internship
 
 ### 461 · a boom in sth／the X boom（热潮、一下子火起来；⛔ the boom of sth）
 类型 搭配 ｜ 新建 2026-10-12
@@ -20631,7 +20640,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 515 · **a day job**（白天那份正职，跟晚上／业余干的对照：work a day job · keep your day job）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **a day job** ＝ 白天那份（养家的）正职，常跟晚上／业余干的事对照：
@@ -20661,6 +20670,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-20 新建 · 学习日 复检第 4 组 [8]（#419 题里）· diff ⚠️ · 原话 `… he worked a daytime job and drove for a ride-hailing service at night …` ⇒ 更地道 worked a day job
 - 2026-10-21 ✅ 学习日 在池第 2 组 [3] · `She has a day job at a bank, but she sings at a bar at night.`。首测 ⇒ 连对 1
 - 2026-10-24 ✅ 学习日 在池第 3 组 [1] · `He works his day job at an insurance company and writes novels at home by night, as he's always aspired to be an author.` —— works his day job（day job 块到位）。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [2] · `My cousin works her day job as a nurse, but she sells handmade earrings online on weekends.` —— works her day job
 
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
@@ -20733,7 +20743,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 518 · spend ＋ 时间 ＋ **状态**（-ed／形容词／介词短语描述主语那段时间的样子：I spent the whole journey pressed against the window）
 类型 句型 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **spend ＋ 一段时间 ＋ 状态** ＝ 那段时间里主语一直处在某种状态。时间后面直接挂一个描述**主语**的成分，不用 being、不用 and：
@@ -20766,17 +20776,18 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [9] · `It snowed heavily for two days, so my whole family ended up spending the entire weekend stuck at home.` —— spending the entire weekend stuck at home（时间后面直接挂 stuck，没加 being／and）。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [2] · `I drank two cups of coffee in the afternoon, and as a result, I spent the entire night lying awake.` —— spent the entire night lying awake：lie awake 是地道搭配、时间后面没加 being／and；条目预期是裸状态 spent the entire night wide awake，她这个合法且贴题面 ⇒ §3.3 记 ✅（题面节补 ★ 注释，见下一行 📝）。连对 1 → 2 ⇒ 🎓
 - 2026-10-24 📝 题面节加 ★ 注释 · 10-24 换场景用 awake，被她合法地落成 lying awake（spend ＋ 时间 ＋ V-ing，awake 挂在 lie 后面），裸状态没被逼出来 ⇒ 以后换场景挑挂不上"躺／坐"的状态（stuck／glued to／in a bad mood），种子点名 spend ＋ stuck 不变
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [3] · `Because her boyfriend didn't come, my sister spent the entire party in a bad mood.` —— spent the entire party in a bad mood（裸状态逼出来了）
 
 ### 519 · **run errands**（出门办事、跑腿：run (some) errands · run an errand for sb）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **run errands** ＝ 出门办些零碎的事（取快递、去银行、买东西、交费）：`I have to run some errands this afternoon.` · `Running errands is easy from here.`
-给别人跑腿 ⇒ `run an errand for sb`（run an errand for my mom）。动词固定用 run，泛说时 errands 带 s。
+给别人跑腿 ⇒ `run an errand for sb`（run an errand for my mom）。动词最常用 run（take care of／do a few errands 母语者也说，合法），泛说时 errands 带 s。
 同一格里的邻居（别串）：do the shopping（专指买东西）· take care of a few things（处理几件事，更泛）· get things done（把事办完）。
 判据一句话：说"出门办点事／跑腿"、一堆零碎的外出小事 ⇒ run errands。
-★ 题型判整句："出去办点事"能落到 take care of a few things／do some stuff 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 errands。
+★ 题型判整句："出去办点事"能落到 take care of a few things／do some stuff 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名（2026-10-27 起点 run，见题面节 ★）。
 
 **怎么发现的**
 2026-10-21 学习日 复检第 3 组 [1]（🎓#474 题面"我爸妈退休后搬到了市中心，楼下就是地铁口，出门办事特别方便。"）· 原话
@@ -20792,16 +20803,18 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 找法：中文"出去办点事／跑腿"先落 run errands（run ＋ 带 s 的 errands）。
 
 **题面**
-"我下午得出去办点事，你帮我看一下孩子。"（"出去办点事"用 **errands** 说）
+"我下午得出去办点事，你帮我看一下孩子。"（"出去办点事"用 **run** 说）
+★ 2026-10-27 点名 errands → run：只点 errands 时她答 took care of a few errands（合法，判 ✅），run errands 整块没逼出来 ⇒ 改点 run，errands 留给她调（本条当初就是"errands 这个词学下"）
 ★ 目标形式（教练看，⛔ 不进发题稿）：I need to go out and run some errands this afternoon — could you keep an eye on the kids?
 
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [1]（#474 题里）· 她标「这个学下」· 原话 `… so running errands(这个学下) is super convenient.`
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [10] · `I have to run some errands this afternoon—could you keep an eye on the kid for a bit?` —— run some errands。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [4] · `Saturday mornings I'm usually out running errands, so I'm only free in the afternoon.` —— out running errands。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [4] · `On my way back from work, I took care of a few errands: picking up a parcel and paying the electricity bill.` —— took care of a few errands（题面只点 errands；take care of errands 合法 ⇒ §3.3 记 ✅；种子点名当天改成 run）
 
 ### 520 · **outpatient**（门诊：the outpatient department／clinic；住院 ⇒ inpatient）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **outpatient** ＝ 门诊（看完病当天回家、不住院）：`the outpatient department` · `an outpatient clinic` · `outpatient surgery`（门诊小手术）。
@@ -20829,10 +20842,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [7]（#483 题里）· 她标「这个背下」· 原话 `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [1] · `the outpatient clinic at the children's hospital` —— outpatient。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [5] · `a minor outpatient surgery.` —— outpatient。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]a（打包）· `the new outpatient building of the hospital` —— outpatient
 
 ### 521 · **sanitation worker**（环卫工人）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **sanitation worker** ＝ 环卫工人（扫马路、清运垃圾的那些人）：`the sanitation workers who sweep the streets before dawn`。
@@ -20860,10 +20874,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 3 组 [9]（#422 题里）· 她标「背下」· 原话 `That sanitation(背下) worker has been sweeping the same street day in and day out for more than ten years.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [2] · `sanitation workers out sweeping the streets before dawn` —— sanitation workers。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [6] · `sanitation workers wearing orange vests` —— sanitation workers。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]b（打包）· `sanitation workers sweeping streets even over Chinese New Year` —— sanitation workers
 
 ### 522 · **be on the fence (about sth)**（犹豫不决、两头拿不定主意）
 类型 词组 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 整句
 
 **问题是什么**
 **be on the fence (about sth／about doing)** ＝ 在两个选择之间犹豫、还没选边（像骑在篱笆上，哪边都没下去）：
@@ -20892,10 +20907,11 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [2]（#425 题里）· 她标「学下这个词组」· 原话 `My cousin had been on the fence（学下这个词组） about moving back to China after graduating abroad, but last year she finally made the move.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [3] · `I was on the fence for weeks about buying that second-hand piano.` —— on the fence … about buying。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [7] · `I'm still on the fence about accepting that job offer in another city.` —— on the fence about accepting。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [6] · `We're still on the fence about sending our kid to that super expensive summer camp.` —— on the fence about sending
 
 ### 523 · **terraced fields**（梯田；也说 rice terraces）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **terraced fields** ＝ 梯田（顺着山坡开出来、一级一级像台阶）：`the terraced fields on the hillside`；种稻子的常说 `rice terraces`。
@@ -20923,10 +20939,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-21 ❌ 首犯 · 学习日 复检第 4 组 [5]（#428 题里）· 她标「背下」· 原话 `The terraced（背下） fields in our village were actually featured in a CCTV documentary.`
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [4] · `the terraced rice fields built into the hillsides of Yunnan` —— terraced（-ed）。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [8] · `terraced rice fields flooded with water in spring` —— terraced (rice) fields。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]c（打包）· `golden terraced rice fields in autumn` —— terraced rice fields
 
 ### 524 · **itinerary**（行程安排、行程单）
 类型 词汇 ｜ 新建 2026-10-21 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-24** ｜ 题型 词组
 
 **问题是什么**
 **itinerary** ＝ 一趟旅行的行程安排（哪天去哪儿、几点、住哪儿）：`a five-day itinerary` · `plan an itinerary` · `stick to the itinerary`。
@@ -20955,6 +20972,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-22 ✅ 付息日 a 段在池第 2 组 [5] · `that five-day itinerary the travel agent sent over` —— itinerary。连错 1 → 连对 1
 - 2026-10-24 ✅ 学习日 在池第 1 组 [9] · `that three-day Tokyo itinerary I put together(这个词组学下) myself` —— itinerary。连对 1 → 2 ⇒ 🎓
   ｜ 她标 put together「这个词组学下」⇒ §2③ 另建 #537
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [5]d（打包）· `that packed itinerary for the company trip` —— itinerary
 
 ### 525 · **on the doorstep**（家门口：东西放在某户人家门外那一小块；⛔ at the entrance）
 类型 词组 ｜ 新建 2026-10-22

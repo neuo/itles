@@ -1313,6 +1313,35 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [8]（#558 题里）· 她标「这个词组学下」· 原话 `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
 
+### 561 · **tremble**（发抖、哆嗦：the puppy was trembling；冷得发抖 ⇒ shiver）
+类型 词汇 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**tremble** ＝ 发抖、哆嗦（害怕、紧张、虚弱、激动时身体或手控制不住地抖）：`the puppy was trembling` · `My hands were trembling.` · `tremble with fear`。
+同一格里的邻居（别串）：shiver（冷得发抖、打寒战：shivering in the cold）· shake（最泛，怕、冷、激动都能说：shaking like a leaf）· quiver（轻轻颤动，多说嘴唇、声音）。
+判据一句话：怕／紧张／虚弱得发抖 ⇒ tremble；冷得发抖 ⇒ shiver；拿不准 ⇒ shake 都能兜住。
+★ 题型判整句："发抖"能落到 shake／shiver／tremble 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-27 付息日 a2 复检第 3 组 [5]e（🎓#459 题面"在消防员怀里发抖的小狗"）· 原话
+`the puppy trembling(这个词学下) in the firefighter's arms`
+她用对了 trembling，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #556 #560 先例）。
+判重三步：
+　① 目标形式 dedup "tremble"／"trembling"／"shiver" ⇒ 零命中
+　② 中文 dedup "发抖" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `the puppy trembling`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"发抖、手抖、哆嗦"先问一句 —— 是冷吗？是 ⇒ shiver；是怕、紧张 ⇒ tremble。
+
+**题面**
+"面试前我紧张得手一直在抖。"（"抖"用 **tremble** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My hands wouldn't stop trembling before the interview.
+
+- 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
+
 ## 迁移说明（2026-08-18）
 
 ```
