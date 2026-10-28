@@ -15355,7 +15355,7 @@ magic→magical · music→musical · practice→practical · politics→politic
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "在…层面"有**两个块**，⛔ 不是"on 对 at 错"，分界线是**冠词**：
@@ -15396,10 +15396,11 @@ magic→magical · music→musical · practice→practical · politics→politic
   去掉"⛔ emotionally"，只点名 level，on／at 与冠词留给她；换成广告打动人场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [1] · `This song means a lot to me on a personal level.` —— on a personal level
 - 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [4] · `On a psychological level, this failure hit him pretty hard.` —— on a … level，介词 on
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [7] · `On a technical level, the proposal is completely feasible; it's just super pricey.` —— On a technical level
 
 ### 359 · persuasion ＝ 说服（名词；动词 persuade · 形容词 persuasive）
 类型 词汇 ｜ 新建 2026-09-22 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 词组
 
 **问题是什么**
 **persuasion** ＝ "说服"这件事（名词，不可数）：`successful persuasion` ／ `the art of persuasion` ／
@@ -15432,10 +15433,11 @@ persuade 偏"让人做"）。
   去掉"一个名词、p 开头 ＋ 排除项"，改中文释义；换成销售说服能力场景（09-26 发过的两个块⛔不复用）
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [2a] · `The power of persuasion in a speech.` —— the power of persuasion
 - 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [2b] · `a lawyer's power of persuasion in court` —— persuasion 名词，没写成 persuade
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [2]d（打包）· `the power of persuasion needed to get kids to go to bed early` —— the power of persuasion
 
 ### 360 · get to ＋ 动词原形 ＝ 能／有机会做（⛔ get to ＋ somewhere）
 类型 语法 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-10-08 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-09-28** ｜ 题型 整句
 
 **问题是什么**
 "能／有机会做某事"用 **get to** 说时，to 是**不定式**，后面必须接一个**动词原形**：
@@ -15474,6 +15476,7 @@ persuade 偏"让人做"）。
   去掉"⛔ can／be able to"，正向点名 get to，后面接动词原形留给她；换成当老师场景
 - 2026-10-01 ✅ 复检 · 学习日 复检第 3 组 [3] · `The best part about being a teaching is getting to watch kids grow up step by step.` —— get to 后面接了动词（getting to watch）｜teaching → teacher 打字，§2.1 不算
 - 2026-10-08 ✅ 复检 · 付息日 a2 复检第 3 组 [5] · `The best thing about being a tour guide is that you get to visit a lot of places for free.` —— get to ＋ 动词原形
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [8] · `What I love most about working at the zoo is that I get to feed the giant pandas by hand every single day.` —— I get to feed
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
@@ -18821,7 +18824,7 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 
 ### 461 · a boom in sth／the X boom（热潮、一下子火起来；⛔ the boom of sth）
 类型 搭配 ｜ 新建 2026-10-12
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **boom** 说"某样东西一下子火起来"，两种挂法：`the bike-sharing boom`（东西放在 boom 前面）· `a boom in shared bikes`（后面接 **in**）。
@@ -18856,10 +18859,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
   ★ 两次都绕开了"boom 后面挂东西"那一半 ⇒ §3.3 硬顺序③ 当场改种子（见下一行 📝）
 - 2026-10-14 📝 题面整改 · 种子改成 boom 当主语："这几年的露营热，带火了一大批卖户外装备的小店。"（"露营热"用 **boom** 说）—— 逼出 the camping boom／the boom in camping（⛔ the boom of camping），X has seen a boom 那条路走不通了
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [6] · `The milk tea boom in recent years has made a whole bunch of boba shops pop up on every street.` —— boom 当主语
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [1] · `The skiing boom in recent years has made business boom for a lot of ski shops.` —— The skiing boom（boom 当主语、挂 skiing ✓；后半 made business boom 避重复只点出）
 
 ### 462 · blackout（停电）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **blackout** ＝ 停电（一片区域整个断电）：`during the blackout` · `There was a blackout last night.`
@@ -18887,10 +18891,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [3] · `those two hours during the blackout in our neighborhood last night` —— blackout。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [8] · `that entire night of the blackout after the typhoon hit` —— blackout。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]c（打包）· `that ten-minute blackout during the concert`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [2]a（打包）· `that one-hour blackout in the dorm the night before finals` —— blackout
 
 ### 463 · talk sth through（一起把一件事一步一步聊透、商量清楚）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **talk through sth ／ talk sth through** ＝ 一起把一件事从头到尾过一遍、商量清楚：`talk through their tactics` · `Let's talk it through.`（宾语是代词 ⇒ 放中间）。
@@ -18919,10 +18924,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [4] · `Before starting the renovation, my parents and I sat down and talked through the design for every room.` —— talked through ＋ 宾语。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [9] · `Before changing the job, my husband and I sat down and talked through the pros and cons.` —— talked through ＋ 宾语。连对 1 → 2 ⇒ **🎓 毕业**；同句 changing the job ⇒ 新建 #480
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [8] · `Before setting off on the trip, our family sat down and talked through the route stop by stop.`（她标 set off 要学 ⇒ 新建 #509）
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [3] · `My roommate and I really talked through how to split the chores for this month.` —— talked through
 
 ### 464 · tactics（战术）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **tactics** ＝ 战术（比赛／打仗里具体怎么打）：`the team's tactics` · `change tactics at half-time`，常用复数。
@@ -18945,16 +18951,18 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 **题面**
 "教练中场休息时临时换的战术"（具体怎么打、怎么跑位的那种安排）
+★ 2026-10-27 换场景写成"对手专门针对我们队长设计的战术"，她答 the game plan（这场比赛的整体打法，合法，判 ✅）⇒ 换场景时写"换战术／几套战术／一招一式"那种具体战术，别写"为这场比赛专门设计的一整套"（那是 game plan 的地盘）
 
 - 2026-10-12 ❌ 首犯 · 付息日 a2 段复检第 6 组 [6]（#281 题里）· 她标「背下」· 原话 `During practice, the coach sometimes takes a step back and lets the team talk through(这个词组学下) their own tactics(背下).`
 - 2026-10-13 ✅ 学习日 在池第 2 组 [5] · `the tactics the coach changed on the fly during halftime` —— tactics。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 1 组 [10] · `the new defensive tactic the team rolled out this season` —— tactic(s) 调出来了，单数指"其中一招"也合法。连对 1 → 2 ⇒ **🎓 毕业**
   ⚠️ diff-2：tactic → tactics（题面是"站位、盯人"一整套安排 ⇒ 复数）
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]d（打包）· `the full-court press tactic in a basketball game` —— 一套具体打法，单数 tactic 成立
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [2]b（打包）· `the game plan the opposing team designed specifically to target our captain` —— game plan（预期 tactics；game plan 是本条邻居栏里的口语说法，"专门针对队长设计的"整套打法说它合法且贴题面 ⇒ §3.3 记 ✅；种子 ★ 行当天补换场景口径）
 
 ### 465 · hydrated（水分够的、不缺水的：keep your skin hydrated · stay hydrated）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **hydrated** ＝ 身体／皮肤里水分够、不缺水：`keep your skin hydrated` · `stay hydrated`（多喝水、别缺水）。
@@ -18983,10 +18991,11 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [6] · `When running outside in the heat, drink plenty of water to keep yourself hydrated.` —— keep yourself hydrated。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 2 组 [1] · `When you go hiking, remember to bring a bottle of water so you stay hydrated.` —— stay hydrated。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [7] · `…, so you have to keep yourself hydrated.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [4] · `The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.` —— stay hydrated（these day ⇒ 新建 #562）
 
 ### 466 · sign off (on sth)（签字确认、批准放行）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **sign off (on sth)** ＝ 签字确认、批准放行：`The manager has to sign off on the budget.` · `sign off at every stage`。
@@ -19015,6 +19024,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [7] · `The expense report needs to be signed off by the department manager before finance pays out（这个词组学下).` —— 被动 be signed off by ＋ 人 成立。连错 1 → 连对 1 ｜ pays out 她标「学下」⇒ 新建 #472
 - 2026-10-14 ✅ 学习日 在池第 2 组 [2] · `We can't start work on this design until the boss signs off on it.` —— signs off on it（on 自己补上）。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [10] · `We can't buy the equipment until the general manager signs off on the budget.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [5] · `The restaurant can't officially switch to the new menu until the head chef signs off on it.` —— signs off on it
 
 ### 467 · charge 的主语是收钱的一方（the lot charges you）；事情本身花多少钱 ⇒ cost（parking costs you）
 类型 搭配 ｜ 新建 2026-10-12
@@ -19057,7 +19067,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 468 · reservoir（水库）
 类型 词汇 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 词组
 
 **问题是什么**
 **reservoir** ＝ 水库（人工蓄水、供水用的那种）：`the reservoir east of the village` · `The reservoir supplies water to the whole city.`
@@ -19085,6 +19095,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [9] · `that reservoir supplying water to the whole city` —— reservoir。连错 1 → 连对 1
 - 2026-10-14 ✅ 学习日 在池第 2 组 [4] · `that reservoir upstream of the village used for irrigating the crops` —— reservoir。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [5]e（打包）· `the reservoir that almost ran dry during the drought year`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [2]c（打包）· `that reservoir where we usually go fishing on weekends` —— reservoir
 
 ### 469 · east of X ＝ to the east of X（在 X 的东边；⛔ to east of X）
 类型 搭配 ｜ 新建 2026-10-12 ｜ 她问
@@ -19122,7 +19133,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 470 · with its siren blaring（鸣着笛；警笛 siren · 刺耳地响 blare）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
-状态 连对2 连错0 上次2026-10-19 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-14** ｜ 题型 整句
 
 **问题是什么**
 **with ＋ 名词 ＋ -ing** ＝ 伴随状态："鸣着笛" ⇒ `with its siren blaring`（好几辆 ⇒ `with sirens blaring`）。
@@ -19153,6 +19164,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 2 组 [10] · `A fire truck passed right under my building in the middle of the night with its siren on.` —— with its siren on 合法、siren 用对（题面只点了 siren）；目标 with its siren blaring 没出来 ⇒ 种子补点名 blare、场景换掉"楼下"。连错 1 → 连对 1 ｜ under my building ⇒ 新建 #473
 - 2026-10-14 ✅ 学习日 在池第 2 组 [5] · `An ambulance pulled up outside the hospital with its siren blaring.` —— with its siren blaring（blare 这次出来了）。连对 1 → 2 ⇒ **🎓 毕业**
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [9] · `A fire truck was speeding along the highway with its siren blaring.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 4 组 [6] · `A police car sped by with sirens blaring, right on the tail of a motorbike.` —— with sirens blaring
 
 ### 471 · lounge（懒洋洋地躺着／窝着放松：lounge on the couch · lounge by the pool · lounge around）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背

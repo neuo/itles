@@ -1342,6 +1342,35 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
 
+### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
+类型 词组 ｜ 新建 2026-10-27
+状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+中文"这几天"说的是**眼下短短几天**：往后几天 ⇒ **for the next few days**／over the next few days；过去几天 ⇒ **for the past few days**／the last few days（一般配完成时：`It's been raining for the past few days.`）。
+同一格里的邻居（别串）：**these days** ＝ 如今、最近这一阵子（长期常态、跟以前对比）：`Kids these days …` · `Everyone's on their phone these days.` · 🎓#271（recently 一族默认拉完成时，要用一般现在时就换成 these days —— 那是 these days 用对的一边）。
+判据一句话：一场病、一段天气、一阵忙这种几天就过去的事 ⇒ the next／past few days；现在这个时代、这几年的常态 ⇒ these days。
+★ 题型判整句：考点是"这几天"在句子里落成哪一个（短期 vs 长期），孤立翻"这几天"看不出语境 ⇒ 整句 ＋ 正向点名 few days（next／past 与介词留给她）。
+
+**怎么发现的**
+2026-10-27 付息日 a2 复检第 4 组 [4]（🎓#465 题面"医生说我发烧这几天得多喝水，别让身体缺水。"）· 原话
+`The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.`
+考点 stay hydrated 用对（#465 ✅）；不在考点上的一处：发烧"这几天"落成 these day(s) —— these days 是"如今、这一阵子"的长期说法，发烧那几天说偏了 ⇒ for the next few days ⇒ §3.2b 能学的表达（选词偏了，⛔ 不是同级近义词）⇒ 建号（同 #548 #549 #559 先例：⚠️ 建号记 ❌ 首犯）。these day 漏 s 是形态，只点出。
+判重三步：
+　① 目标形式 dedup "these days" ⇒ 🎓#271（recently／lately 一族要用一般现在时就换 these days —— 讲的是 these days 该用的地方，本条讲的是不该用的地方，目标形式是 the next／past few days）· 🎓#81 #91 #164（历史字样）⇒ 都否；"few days" ⇒ 🎓#90 #528（历史字样）⇒ 否
+　② 中文 dedup "这几天" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`while I have a fever these day`　　更地道：`for the next few days while I have a fever`
+找法：中文"这几天"先问一句 —— 是过几天就完的事吗？是 ⇒ the next few days（往后）／the past few days（过去），these days 留给"如今的常态"。
+
+**题面**
+"这几天一直下雨，阳台上的衣服都晾不干。"（"这几天"用 **few days** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：It's been raining for the past few days, so the clothes on the balcony just won't dry.
+
+- 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 4 组 [4]（🎓#465 题里）· 不在考点上的一处 · 原话 `The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.` ⇒ 更好版 for the next few days
+
 ## 迁移说明（2026-08-18）
 
 ```
