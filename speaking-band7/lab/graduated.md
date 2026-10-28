@@ -7409,6 +7409,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-10-16 📝 书面登记 · 学习日 ③ 重答 bank:1011（P2 · 近期看过且享受的电影）S11 · **不判回潮**（状态行不动）· `you can really feel those deeper societal conflicts` → `social conflicts`（她 09-13 自己说过 broad social norms）
 - 2026-10-24 📝 书面登记 · 学习日 在池第 1 组 [2]（#518 题）· `and as a result, I spent …` → `so I ended up spending …`（她 10-22 自己说过 ended up spending；⛔ 不判回潮、状态行不动）
 - 2026-10-24 📝 书面登记 · 学习日 在池第 3 组 [1]（#515 题）· `as he's always aspired to be an author` → `as he's always wanted to be an author`（她 10-12 自己说过 always wanted to；⛔ 不判回潮、状态行不动）
+- 2026-10-27 📝 书面登记 · 付息日 在池第 1 组 [6]（#546 题）· `which offers both mountains and the sea` → `which has both mountains and the sea`（has 她天天在用，如 10 月 `my husband has allergies`；⛔ 不判回潮、状态行不动）
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 

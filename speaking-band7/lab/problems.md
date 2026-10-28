@@ -703,7 +703,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
 
 **问题是什么**
 **ponytail** ＝ 马尾辫（脑后扎起来的那一束）；扎马尾 ＝ **put one's hair (up) in a ponytail**：`She put her hair in a ponytail.` · `put it up in a ponytail` · `wear her hair in a ponytail`（平时梳着马尾）。
@@ -732,10 +732,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-10-25 ❌ 首犯 · 学习日 在池第 2 组 [2]（#535 题里）· 她标「这个词和词组都学下」· 原话 `that pink ribbon my daughter uses to put her hair in a ponytail(这个词和词组都学下)`
 - 2026-10-26 ✅ 学习日 在池第 1 组 [4] · `She was running too late to wash her hair this morning, so she just put her hair in a ponytail and left.` —— put her hair in a ponytail ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [1] · `Our yoga instructor always puts her hair in a ponytail before starting every class.` —— 点名只给 put，puts her hair in a ponytail ✓（ponytail 与 in 自己调出）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 542 · **backstory**（背景故事：一个人／角色在眼下这件事之前的经历；⛔ background story）
 类型 词汇 ｜ 新建 2026-10-25
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
 
 **问题是什么**
 **backstory** ＝ 一个人、一个角色"之前发生过什么"的那段经历（一个词）：`the villain's backstory` · `Every contestant has a sad backstory.` · `The show spends ages on their backstories.`
@@ -762,10 +763,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]a（#440 题里）· diff-2 ⚠️ · 原话 `a sentimental background story on a talent show` ⇒ 更好版 a sentimental backstory
 - 2026-10-26 ✅ 学习日 在池第 1 组 [5] · `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.` —— the villain's backstory ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #550 #551
+- 2026-10-27 ✅ 付息日 在池第 1 组 [2] · `Every character in this game has their own detailed backstory.` —— their own backstory ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 543 · **bumper-to-bumper**（车一辆挨一辆、堵成长龙：The traffic was bumper-to-bumper.）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
 
 **问题是什么**
 **bumper-to-bumper** ＝ 前车保险杠贴着后车保险杠，形容路上堵得一辆挨一辆：`The traffic was bumper-to-bumper.` · `The highway is bumper-to-bumper during rush hour.` · `bumper-to-bumper traffic`（放名词前）。
@@ -792,10 +794,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 3 组 [9]e（#448 题里）· 她标「背下」· 原话 `that elevated expressway bumper-to-bumper(背下) in the morning rush`
 - 2026-10-26 ✅ 学习日 在池第 1 组 [6] · `The expressway out of the city was bumper-to-bumper for five solid hours over the National Day holiday.` —— was bumper-to-bumper ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [3] · `Right after the concert ended, cars outside the stadium were stuck bumper-to-bumper.` —— were stuck bumper-to-bumper ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 544 · **pet**（动词：摸、撸小动物：pet the dog · get petted）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
 
 **问题是什么**
 **pet** 当动词 ＝ 用手一下一下地摸（猫狗等小动物，带亲昵）：`pet the dog` · `Can I pet your cat?` · `The dog loves getting petted.`
@@ -823,10 +826,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [1]（#442 题里）· 她标「这个词学下」· 原话 `he runs up to anyone walking past just to get petted(这个词学下).`
 - 2026-10-26 ✅ 学习日 在池第 1 组 [7] · `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.` —— petting it ✓。连错 1 → 连对 1 ｜ 她标学下 ⇒ 新建 #552
+- 2026-10-27 ✅ 付息日 在池第 1 组 [4] · `On the farm, children queued up to pet that little lamb.` —— pet that little lamb ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 545 · **quarter-final**（四分之一决赛：八强赛；the quarter-finals）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 词组
 
 **问题是什么**
 **quarter-final** ＝ 四分之一决赛（还剩八个队／八个人的那一轮，中文常说八强赛）；那一轮有四场 ⇒ 常用复数 **the quarter-finals**（也写 quarterfinals）：`knocked out in the quarter-finals` · `make it to the quarter-finals`。
@@ -854,10 +858,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 复检第 4 组 [5]（#449 题里）· 她标「学下」· 原话 `Our school's debate team was knocked out during the quarter-finals(学下).`
 - 2026-10-26 ✅ 学习日 在池第 1 组 [8] · `the World Cup quarter-finals` —— quarter-finals ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [5] · `the women's singles quarter-finals at the Tennis Open` —— quarter-finals ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 546 · **find a middle ground**（找个折中、两头之间取中间；strike 常配 a balance／a happy medium）
 类型 搭配 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 整句
 
 **问题是什么**
 **middle ground** ＝ 两头之间的中间地带、折中：`find a middle ground` · `There's no middle ground.`（没有折中的余地）；口语里最简单的同义说法 `something in between`。
@@ -885,10 +890,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S4 · 她标「这个词组学下」· diff-2 ⚠️ · 原话 `If you want to strike a middle ground（这个词组学下), going to a bar works too.` ⇒ 更好版 find a middle ground
 - 2026-10-26 ✅ 学习日 在池第 1 组 [9] · `I was after big-city career opportunities and my husband wanted small-town quiet, so we eventually found a middle ground and settled in the suburbs.` —— found a middle ground ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [6] · `I wanted to hit the beach and my friend wanted to go hiking, so we found a middle ground and went to Qingdao, which offers both mountains and the sea.` —— 点名只给 middle ground，found a middle ground ✓（find 自己补上）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 547 · **like-minded**（志同道合的、想法爱好一样的：like-minded people）
 类型 词汇 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-26 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-10-27 ｜ **🎓 已毕业 2026-10-27** ｜ 题型 词组
 
 **问题是什么**
 **like-minded** ＝ 兴趣、想法、立场一样的（放在人前面）：`like-minded people` · `meet like-minded friends` · `a group of like-minded fans`。
@@ -915,10 +921,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 - 2026-10-25 ❌ 首犯 · 学习日 ③ 重答 bank:349 S5 · 她标「学下」· 原话 `You're surrounded by like-minded(学下) people, plus it's way cheaper and less time-consuming than actually going to the venue.`
 - 2026-10-26 ✅ 学习日 在池第 1 组 [10] · `those like-minded bookworms in the book club` —— like-minded ✓。连错 1 → 连对 1
+- 2026-10-27 ✅ 付息日 在池第 1 组 [7] · `those like-minded running buddies in the running club` —— like-minded ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 548 · **old-fashioned**（老式的、旧款的：an old-fashioned cash register；⛔ legacy）
 类型 词汇 ｜ 新建 2026-10-26
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **old-fashioned** ＝ 老式的、旧款的（东西是早年那种样式／做法）：`an old-fashioned cash register` · `an old-fashioned sewing machine` · `old-fashioned values`；口语也常说 **old-school**（带点怀旧、复古的味道）。
@@ -944,10 +951,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：My grandma still uses that old-fashioned sewing machine to alter our clothes.
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [2]（#539 题里）· diff-2 ⚠️ · 原话 `that legacy cash register on the counter of the corner shop` ⇒ 更好版 old-fashioned
+- 2026-10-27 ✅ 付息日 在池第 1 组 [8] · `My grandma still uses that old-fashioned sewing machine to tailor our clothes.` —— old-fashioned ✓（tailor → alter 只进 diff-2）。连错 1 → 连对 1
 
 ### 549 · **at one's desk**（办公室的"工位" ＝ desk：sat at her desk；⛔ station）
 类型 词汇 ｜ 新建 2026-10-26
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 办公室里的"工位" ＝ **desk**（每人一张的那张办公桌）：`sit at my desk` · `eat lunch at my desk` · `She's not at her desk.`（她不在工位上）。
@@ -973,10 +981,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：my desk by the window in the open-plan office
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [3]（#540 题里）· diff-2 ⚠️ · 原话 `During lunch break, my coworker sat at her station munching on a pack of biscuits.` ⇒ 更好版 at her desk
+- 2026-10-27 ✅ 付息日 在池第 1 组 [9] · `my desk by the window in the open-plan office` —— my desk ✓（没再落 station）。连错 1 → 连对 1
 
 ### 550 · **lay out ＋ 一套东西**（把计划／来龙去脉一条条摆出来讲清楚：lay out the backstory）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **lay out** ＝ 把一套东西（计划、理由、事实、来龙去脉）有条理地摆出来、讲清楚：`lay out the plan` · `lay out the facts` · `The film took half an hour to lay out the villain's backstory.`；本义是"摊开摆好"（lay out the clothes on the bed）。
@@ -1002,6 +1011,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：At the meeting, the manager spent ten minutes laying out next year's plan.
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词组学下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+- 2026-10-27 ✅ 付息日 在池第 1 组 [10] · `At the meeting, the manager took ten minutes to lay out next year's plan step by step.` —— to lay out next year's plan ✓。连错 1 → 连对 1
 
 ### 551 · **villain**（反派、坏人角色：play the villain）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要背
