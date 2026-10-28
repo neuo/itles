@@ -1015,7 +1015,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 ### 551 · **villain**（反派、坏人角色：play the villain）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要背
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **villain** ＝ 故事里跟主角作对的坏人、反派：`the villain of the movie` · `He always plays the villain.` · `the villain's backstory`。
@@ -1041,10 +1041,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：the actor who plays the villain in this show
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词背下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [1] · `that actor who plays the villain in this drama` —— plays the villain ✓。连错 1 → 连对 1
 
 ### 552 · **crouch down**（蹲下：crouch down to tie my shoelaces）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **crouch (down)** ＝ 弯腿把身子蹲低（多是一下子蹲下去，去够、去看、去摸）：`crouch down to tie my shoelaces` · `She crouched down and petted the kitten.` · `crouch behind the car`。
@@ -1070,10 +1071,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：I crouched down to tie my daughter's shoelaces.
 
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [7]（#544 题里）· 她标「这个词组学下」· 原话 `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [2] · `I crouched down to help my daughter tie her shoes.` —— crouched down ✓。连错 1 → 连对 1
 
 ### 553 · **stench**（一股恶臭、熏人的臭味：a nasty stench）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **stench** ＝ 一股恶臭、熏人的臭味（名词，比 smell 强烈得多）：`a nasty stench` · `the stench of rotting garbage` · `The stench hit me as soon as I opened the door.`
@@ -1099,10 +1101,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：The trash hadn't been taken out for days, so there was a horrible stench as soon as you walked into the kitchen.
 
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [3] · `The trash hadn't been taken out for a few days, so the second I stepped into the kitchen, I got hit with a horrible stench.` —— a horrible stench ✓。连错 1 → 连对 1
 
 ### 554 · **smelly**（臭的：smelly shoes · smelly socks）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **smelly** ＝ 有臭味的、臭的（形容词，放东西前面）：`smelly shoes` · `smelly socks` · `smelly cheese`。
@@ -1128,10 +1131,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：the smelly socks my son tossed by the door after soccer
 
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [4] · `those smelly socks my son dumped by the doorstep right after playing football` —— smelly socks ✓（by the doorstep → by the door 只进 diff-2）。连错 1 → 连对 1
 
 ### 555 · **right down to ＋ 最细的那一处**（连…都一样、细到…：beautifully crafted, right down to the presentation）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **right down to ＋ 最小的细节** ＝ 一直细到（连最小的那一处也是这样），放在句末补一刀：`Every dish is beautifully crafted, right down to the presentation.` · `She planned everything right down to the last detail.` · `He copied her look right down to the shoes.`
@@ -1157,10 +1161,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：My sister planned every detail of her wedding herself, right down to the name cards on the tables.
 
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [7]（🎓#456 题里）· 她标「这个词组的用法可以学下」· 原话 `Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [5] · `Every single detail of my sister's wedding was handled by her personally, right down to writing the place cards on the tables.` —— right down to writing the place cards ✓（被动换主动只进 diff-2）。连错 1 → 连对 1
 
 ### 556 · **nothing to write home about**（一般般、不值一提：it's nothing to write home about）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be nothing to write home about** ＝ 一般般、没什么值得说的（不算差，就是不出彩）：`The food was nothing to write home about.` · `The hotel was clean, but nothing to write home about.`
@@ -1186,10 +1191,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：We waited in line for an hour at that trendy restaurant, and the food turned out to be nothing to write home about.
 
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#354 题里）· 她标「这个词组学下」· 原话 `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [6] · `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` —— nothing to write home about ✓（famous ⇒ 新建 #559）。连错 1 → 连对 1
 
 ### 557 · **frost**（给蛋糕抹奶油／糖霜：frost the cake with cream）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **frost** 当动词 ＝ 给蛋糕外面抹一层奶油／糖霜：`frost the cake with cream` · `She frosted it with chocolate.` · `frost the cupcakes`；名词 **frosting** ＝ 抹在外面的那一层（美式；英式多说 icing，动词 ice a cake）。
@@ -1215,10 +1221,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：In the baking class, the teacher showed us how to frost cupcakes.
 
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S2 · 她标「这个词的用法学下」· 原话 `She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [7] · `During the baking class, the teacher showed us how to frost cupcakes.` —— how to frost cupcakes ✓。连错 1 → 连对 1
 
 ### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **a trip down memory lane** ＝ 一样东西／一个场景把人带回过去一整段时光（带怀旧的暖意）：`It was a real trip down memory lane.` · `Looking at those old photos took me on a trip down memory lane.`
@@ -1244,6 +1251,67 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 ★ 目标形式（教练看，⛔ 不进发题稿）：Flipping through my old college photos was a real trip down memory lane.
 
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S8 · 她标「这个词组学下」· 原话 `To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [8] · `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.` —— was such a trip down memory lane ✓（她标学下 ⇒ 新建 #560 flip through）。连错 1 → 连对 1
+
+### 559 · **trendy**（网红店／网红餐厅 ＝ a trendy restaurant；⛔ famous）
+类型 词汇 ｜ 新建 2026-10-27
+状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**trendy** ＝ 时髦、正火的（一阵子大家都去、都在发的那种）：`a trendy restaurant` · `a trendy café` · `that trendy spot everyone's posting about`。中文"网红店／网红餐厅／网红景点" ⇒ a trendy restaurant／spot；也说 Instagram-famous · hyped（被炒得很火的）。
+同一格里的邻居（别串）：famous（有名的，多指老牌、口碑积累起来的：a famous old restaurant —— 不带"社交媒体上一阵风火起来"的意思）· popular（受欢迎，最泛）· 🎓#392 influencer（网红"这个人"）。
+判据一句话：说"网红店／网红餐厅"（社交媒体上一阵风火起来的地方）⇒ trendy；famous 留给老字号、名气攒出来的。
+★ 与 🎓#392 分工：那条考"网红（人）＝ influencer"，正文只把"网红店 ⇒ 换说法"当邻居提了一句；本条考"网红（店）＝ trendy" ⇒ 两个词，题面互斥（#392 题面是人，本条题面是店）。
+★ 题型判整句："网红餐厅"能落到 trendy／Instagram-famous／hyped／popular 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 trendy。
+
+**怎么发现的**
+2026-10-27 付息日 a 段在池第 2 组 [6]（#556 题面"那家网红餐厅排了一个小时队，结果菜也就一般般。"）· 原话
+`We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.`
+考点 nothing to write home about 用对（#556 ✅）；diff-2 ⚠️："网红餐厅"落成 famous restaurant —— famous 是老牌有名，丢了"社交媒体上一阵风火起来"那层 ⇒ trendy ⇒ §3.2b 能学的表达（选词偏了，⛔ 不是同级近义词；session／档案里找不到她产出过 trendy ⇒ 不走书面登记）⇒ 建号（同 #548 #549 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "trendy" ⇒ 🎓#392（正文邻居 a trendy place that's all over social media）· 🎓#372（历史字样）· #556（题面目标形式字样）⇒ #392 否：那条考 influencer（人），本条考 trendy（店），两个词；#372 #556 只是字样 ⇒ 否；"Instagrammable" ⇒ 🎓#392 同上 ⇒ 否；"hyped"／"famous" ⇒ 零命中
+　② 中文 dedup "网红" ⇒ 🎓#392（网红＝influencer）· 🎓#366 #370（历史字样）· #556（题面）⇒ 都否；"网红店" ⇒ 🎓#392 正文邻居 ⇒ 否（同上）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`at that famous restaurant`　　更地道：`at that trendy restaurant`
+找法：中文"网红（店／餐厅／景点）"先落 trendy；冒出 famous 先问一句 —— 它是老字号、名气攒出来的吗？不是就换 trendy。
+
+**题面**
+"我们公司附近新开了一家网红咖啡店，周末总有人排长队拍照。"（"网红"用 **trendy** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：A trendy café just opened near my office, and on weekends there's always a long line of people waiting to take photos.
+
+- 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [6]（#556 题里）· diff-2 ⚠️ · 原话 `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` ⇒ 更好版 trendy
+
+### 560 · **flip through ＋ 相册／杂志／书**（翻看、一页页地翻：flip through old photo albums）
+类型 词组 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**flip through** ＝ 一页一页地翻看（相册、杂志、书、菜单，翻得快、随便看看）：`flip through old photo albums` · `flip through a magazine while waiting` · `flip through the menu`；英式也说 flick through。
+同一格里的邻居（别串）：🎓#507 rummage through（扒拉着乱翻、翻找东西）· look through（翻看、查看，最泛，也能说找东西）· go through（逐项过一遍、仔细看）· browse（浏览，多说网页、店里的货）。
+判据一句话：手里拿着一本东西一页页翻着看 ⇒ flip through；在一堆东西里扒拉着找 ⇒ rummage through。
+★ 与 🎓#507 分工：那条是翻找（找东西，乱翻），本条是翻看（看内容，一页页翻）⇒ 两个块，各走各的。
+★ 题型判整句："翻看"能落到 look through／go through／browse 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后点名降到只给 **flip**（through 留给她）。
+
+**怎么发现的**
+2026-10-27 付息日 a 段在池第 2 组 [8]（#558 题面"翻到大学时的旧照片，我一下子回到了那段日子。"）· 原话
+`Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
+她用对了 flip through，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #556 先例）。
+判重三步：
+　① 目标形式 dedup "flip through" ⇒ 零命中；"flipping through" ⇒ #558（题面目标形式字样）⇒ 否；"flick through"／"leaf through"／"look through"／"browse" ⇒ 零命中；"go through" ⇒ 🎓#415（make it through，历史／正文字样）· 🎓#507（rummage through 正文邻居字样）⇒ #507 否：翻找 ≠ 翻看，两个块
+　② 中文 dedup "翻看" ⇒ 零命中；"翻到" ⇒ #558（题面）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `Flipping through old photo albums`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"翻看（相册、杂志、书）"先试 flip through。
+
+**题面**
+"在牙医诊所等号的时候，我随手翻了翻桌上的杂志。"（"翻了翻"用 **flip through** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：While waiting at the dentist's, I flipped through a magazine on the table.
+
+- 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [8]（#558 题里）· 她标「这个词组学下」· 原话 `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
 
 ## 迁移说明（2026-08-18）
 

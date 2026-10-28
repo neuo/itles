@@ -20987,6 +20987,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-22 ❌ 首犯 · 付息日 a 段在池第 1 组 [8]（#517 题里）· diff-2 ⚠️ · 原话 `The delivery guy didn't even bother knocking on the door—he just dropped the package at the entrance.` ⇒ 更好版 on the doorstep
 - 2026-10-24 ✅ 学习日 在池第 1 组 [10] · `I opened my door this morning to find a bag of oranges left on my doorstep by a neighbor.` —— on my doorstep。连错 1 → 连对 1
 - 2026-10-25 ✅ 学习日 在池第 1 组 [2] · `Someone dropped off a cardboard box right on my doorstep with three tiny kittens in it.` —— right on my doorstep（介词 on ✓）。连对 1 → 2 ⇒ 🎓
+- 2026-10-27 📝 自发用到本条的 doorstep · 付息日 在池第 2 组 [4]（#554 题面"儿子踢完球扔在门口的那双臭袜子"）· `those smelly socks my son dumped by the doorstep` —— 题面"门口"内外两读都通、by ＝ 旁边也合法 ⇒ ⛔ 不判回潮、状态行不动；diff-2 ⚠️ 给 by the door（屋里进门那块）
 
 ### 526 · **down jacket**（羽绒服；也说 puffer jacket）
 类型 词汇 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要背
