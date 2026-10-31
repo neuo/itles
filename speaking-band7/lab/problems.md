@@ -461,6 +461,7 @@
 - 2026-09-29 ⚪ 学习日新题 bank:534（P3）· `large-language-model` → large language models（只记录）
 - 2026-10-02 ⚪ 学习日 新题 bank:1203（P3）[S2] · `Take BBC’s Wonders of the Solar System, for example` —— the BBC 是"这一个"机构，漏了 the（字母念的机构缩写都带 the：the BBC／the UN；拼读的 NASA 不带）；同篇 the habits／the wild／the information 都标对 ⇒ 形态类只记录
 - 2026-10-27 ⚪ 付息日 d 段重答 bank:478 S4 · `we learned from TV news that …` → `from the TV news` —— 特指那一条新闻 ⇒ 带 the；形态类只记录·不出题（检查触发：名词前停一下 —— 指的是"那一个"吗？是 ⇒ the）
+- 2026-10-30 ⚪ 学习日 复检第 4 组 [1]（🎓#469 题里）· `south of the downtown` → `south of downtown` —— downtown 当名词不带 the（多加了一个 the）；形态类只记录·不出题（检查触发：名词前停一下 —— 这个 the 是在指"那一个"吗？不是就删）
 - 备注 合并 2026-08-19：#160（泛指一类东西用复数不带冠词）＋ #112（traffic 带不带 the）并入本条 ——
   三条问的是同一个问题；#112 那句"眼前这一份 vs 泛指这件事"正是本条的判据
 - 备注 国家形容词 Chinese/Japanese（不是 China's）（原 #160）
@@ -926,6 +927,64 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：We were stuck on a hill in rush-hour traffic, and the car in front of us stalled as soon as it tried to pull away.
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#528 题里）· 她标「这个词学下」· 原话 `When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
+
+### 564 · **hail**（冰雹，不可数；一场冰雹 ＝ a hailstorm）
+类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**hail** ＝ 冰雹（不可数）：`There was hail the size of golf balls.`；一场冰雹 ＝ **a hailstorm**（一个词）；一颗颗冰雹 ＝ hailstones；动词 `It's hailing.` ＝ 正在下冰雹。
+同一格里的邻居（别串）：sleet（雨夹雪）· snow · hail a taxi（招手叫车，另一个义项）。
+判据一句话：说"冰雹"这东西 ⇒ hail（不加 a）；说"一场冰雹" ⇒ a hailstorm。
+★ 题型判整句：考点除了 hail 这个词，还有"一场"落 a hailstorm、不说 a hail ⇒ 要靠句子才现形 ⇒ 整句 ＋ 正向点名 hail（形留给她）。
+
+**怎么发现的**
+2026-10-30 学习日 复检第 4 组 [3]（🎓#472 题面"去年一场冰雹把屋顶砸坏了，保险公司赔了三万块。"）· 原话
+`A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+她用对了 hail，自己标「学下这个词」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #560 #561 #563 先例）。hail storm 连写 hailstorm 是拼写（§2.1 不算）。
+判重三步：
+　① 目标形式 dedup "hail" ⇒ 🎓#219 #349（历史字样）⇒ 否
+　② 中文 dedup "冰雹" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `A hail storm damaged our roof`，但词不在手边（自己标学下）　　目标：`A hailstorm damaged our roof`
+找法：中文"冰雹"先落 hail；要说"一场"就换 a hailstorm。
+
+**题面**
+"下午突然下了一场冰雹，停车场里好几辆车都被砸出了坑。"（"一场冰雹"用 **hail** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：There was a sudden hailstorm this afternoon, and quite a few cars in the parking lot got dented.
+
+- 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「学下这个词」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+
+### 565 · **grand**（口语：一千块；thirty grand ＝ 三万，⛔ grands）
+类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**grand** ＝ 口语里的"一千（块钱）"：`thirty grand` ＝ 三万 · `It cost me five grand.`；复数不加 s（⛔ thirty grands）。
+同一格里的邻居（别串）：K（写的时候：30K）· a thousand bucks（一千块，bucks ＝ 块钱）· grand 当形容词 ＝ 宏伟的（a grand hall），另一个义项。
+判据一句话：口语说多少"千"块钱 ⇒ 数字 ＋ grand（不加 s）。
+★ 题型判整句："八千块"能落到 eight thousand yuan／8,000 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-30 学习日 复检第 4 组 [3]（🎓#472 题面"去年一场冰雹把屋顶砸坏了，保险公司赔了三万块。"）· 原话
+`A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+她用对了 thirty grand，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #564 先例，同句建的）。
+判重三步：
+　① 目标形式 dedup "grand" ⇒ 🎓#251 #396 #416 #455 #472（历史字样：grandma 等）⇒ 否；"thousand" ⇒ 🎓#251 #346 #370 #386 #472（字样）⇒ 否
+　② 中文 dedup "万块" ⇒ 🎓#472（题面字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `thirty grand`，但词不在手边（自己标学下）　　目标：同她原句
+找法：口语说"几千块／几万块"先想 数字 ＋ grand（不加 s）。
+
+**题面**
+"我表哥那辆二手车才花了八千块，开了五年都没坏过。"（"八千块"用 **grand** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My cousin's used car only cost him eight grand, and it hasn't broken down once in five years.
+
+- 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「这个词学下」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
 
 ## 迁移说明（2026-08-18）
 

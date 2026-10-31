@@ -3144,7 +3144,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
 
 ### 88 · get on with it（不废话，埋头干下去）
 类型 词组 ｜ 旧号 B141
-状态 连对2 连错0 上次2026-10-09 ｜ 回潮已断（08-11 曾毕业）｜ 回潮 2026-09-05（08-21 毕业 → 09-05 复检写成 `go on with it`）｜ 回潮 2026-09-27（09-10 第二次毕业 → 09-27 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-29**（连对2 ＝ 09-28 ✅ ＋ 09-29 ✅；09-27 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ 回潮已断（08-11 曾毕业）｜ 回潮 2026-09-05（08-21 毕业 → 09-05 复检写成 `go on with it`）｜ 回潮 2026-09-27（09-10 第二次毕业 → 09-27 复检答"忘了"，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-29**（连对2 ＝ 09-28 ✅ ＋ 09-29 ✅；09-27 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **get on with it** ＝ 不废话、埋头干下去（催促）。
@@ -3212,6 +3212,7 @@ go out ＝ 出门一晚／**go on a trip ＝ 出去玩（旅行）**
   去掉"get 起头／一共四个词／⛔ go／⛔ get a move on"猜谜式框法；改整句、点名 get on，with it 留给她（她掉过的正是 go on with it／get on with）；换成催写作业场景
 - 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [1] · `Stop complaining and get on with the work.` —— get on with ＋ 宾语合法；题面写了"把活儿"，宾语说出来正贴题面（下次换场景别在中文里给宾语，留给 it）
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [9] · `There's only one page left—stop scrolling on your phone and get on with it.` —— get on with it
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [6] · `Don't overthink how to phrase that email—just get on with finishing it and send it.` —— get on with finishing it
 
 ### 90 · 完成时的三个触发（for/since · ever/never/before · just/already/yet）
 类型 语法 ｜ 旧号 B147a
@@ -7413,6 +7414,7 @@ current developments        → what's going on         （新闻/报告说法 �
 - 2026-10-24 📝 书面登记 · 学习日 在池第 1 组 [2]（#518 题）· `and as a result, I spent …` → `so I ended up spending …`（她 10-22 自己说过 ended up spending；⛔ 不判回潮、状态行不动）
 - 2026-10-24 📝 书面登记 · 学习日 在池第 3 组 [1]（#515 题）· `as he's always aspired to be an author` → `as he's always wanted to be an author`（她 10-12 自己说过 always wanted to；⛔ 不判回潮、状态行不动）
 - 2026-10-27 📝 书面登记 · 付息日 在池第 1 组 [6]（#546 题）· `which offers both mountains and the sea` → `which has both mountains and the sea`（has 她天天在用，如 10 月 `my husband has allergies`；⛔ 不判回潮、状态行不动）
+- 2026-10-30 📝 书面登记 · 学习日 复检第 4 组 [5]（🎓#476 题里）· `if you forbid it from jumping on the table` → `if you don't let it jump on the table`（她自己说过 `Whenever I don't let my daughter watch cartoons`；⛔ 不判回潮、状态行不动）
 - 备注 2026-08-19 新题里出现 `at will`（有现成口语版 whenever they feel like it）——
   单次、且 at will 母语者也说，**这次只记备注不判回潮**；再出现一次按回潮处理
 
@@ -15279,7 +15281,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 357 · logic 是名词、logical 才是形容词（a strong logical thinker）
 类型 词汇 ｜ 新建 2026-09-22
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 **logic ＝ 名词**（这门学问／这套道理：`the logic behind it`），修饰后面的名词要用形容词 **logical**：
@@ -15302,8 +15304,9 @@ magic→magical · music→musical · practice→practical · politics→politic
 找法：写完 logic，看后面还有没有名词。有 ⇒ 补 -al。
 
 **题面**
-"她是个逻辑特别强的人，跟她吵架从来没赢过。"
-　　★ 零提示：a very logical person／she has really strong logic 都算对；她掉过两次的是 logic 直接修饰名词（a strong logic thinker）
+"她是个逻辑特别强的人，跟她吵架从来没赢过。"（"逻辑"用 **logic** 说）
+　　★ a very logical person／she has really strong logic 都算对；她掉过两次的是 logic 直接修饰名词（a strong logic thinker）
+　　★ 2026-10-30 补点名 logic：零提示时换场景写成"这份工作要求有很强的逻辑分析能力"，她走 analytical and reasoning skills 把 logic 整个绕开了（合法，判 ✅）⇒ 点名 lemma logic，形（logic／logical）留给她
 
 - 2026-09-22 ❌ 首犯 · 新题 bank:1102（P3）· 原话 `Some people are strong logic thinkers`
 - 2026-09-26 ✅ 付息日 a 在池第 1 组 [4] · `A logical thinker.` —— logic 后面挂名词 ⇒ logical。连错 1 清零、连对 0 → 1
@@ -15316,6 +15319,7 @@ magic→magical · music→musical · practice→practical · politics→politic
   去掉"logic 的家族 ＋ 排除项"，改零提示整句，logic 直接修饰名词这条她掉过两次的路照旧开着；换成吵架场景
 - 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [2] · `We need to hire a developer with a solid logical mindset.` —— logical 当形容词修饰名词
 - 2026-10-09 ✅ 复检 · 学习日 复检第 3 组 [10] · `She's extremely logical, so I've never won an argument against her.` —— logical（形容词），没写成 a logic person
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [7] · `This position requires strong analytical and reasoning skills.` —— 绕开了 logic（reasoning skills 合法且贴题面）⇒ 题面零提示没逼出考点 ⇒ 复检题面出坏了记 ✅；种子当天补点名 logic
 
 ### 358 · on a(n) … level（在…层面；⛔ at an emotional level）
 类型 搭配 ｜ 新建 2026-09-22
@@ -15444,7 +15448,7 @@ persuade 偏"让人做"）。
 
 ### 361 · 准点下班 ＝ get off work on time（⛔ leave work early ＝ 早退）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 "准点下班／到点就走" ＝ **get off work on time**（也说 leave work on time）。
@@ -15475,10 +15479,11 @@ persuade 偏"让人做"）。
   去掉"get 起头 ＋ ⛔ early"，只点名 get off，on time 留给她；换成换工作场景
 - 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [3] · `I finally managed to get off work on time today, only to end up stuck in traffic for an hour.` —— get off work on time
 - 2026-10-09 ✅ 复检 · 学习日 复检第 4 组 [1] · `My husband works at a hospital and almost never gets off on time.` —— gets off on time（work 省掉口语成立）
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [8] · `We usually get off on time on Fridays, so I set up a dinner with friends tonight.` —— get off on time
 
 ### 362 · turn down ＋ 机会（没人会拒绝…；⛔ no one can refuse）
 类型 词组 ｜ 新建 2026-09-26
-状态 连对2 连错0 上次2026-10-09 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-09-29** ｜ 题型 整句
 
 **问题是什么**
 "拒绝一份工作／一个邀请／一个机会"口语用 **turn down**：`turn down a job offer` ／ `turn it down`。
@@ -15508,6 +15513,7 @@ persuade 偏"让人做"）。
   去掉"⛔ refuse／say no"，只点名 turn；换成拒绝高薪场景
 - 2026-10-02 ✅ 复检 · 学习日 复检第 4 组 [4] · `The university offered him a position as a professor, but he turned it down.` —— turned it down
 - 2026-10-09 ✅ 复检 · 学习日 复检第 4 组 [2] · `She invited me to her birthday party, but I had to work late, so I had to turn it down.` —— turn it down
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [9] · `The TV station tried to invite my dad on a program, but he turned it down right away.` —— turned it down
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
@@ -19063,7 +19069,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 469 · east of X ＝ to the east of X（在 X 的东边；⛔ to east of X）
 类型 搭配 ｜ 新建 2026-10-12 ｜ 她问
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 说"在 X 的东边"两种说法都对：**east of the village**（east 直接当方位词，不带 to、不带 the）· **to the east of the village**（要用 to 就得带 the）。
@@ -19094,6 +19100,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 - 2026-10-13 ✅ 学习日 在池第 3 组 [1] · `The new airport is forty kilometers north of the city.` —— north of the city，没落到 to north of。首测 ⇒ 连对 1
 - 2026-10-16 ✅ 学习日 在池第 2 组 [1] · `That ski resort is roughly a hundred kilometers west of the city.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [1] · `Our hometown is a small village about twenty kilometers east of the county town.`
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [1] · `That new amusement park is about thirty kilometers south of the downtown.` —— south of（没加 to；the downtown 多一个 the 归 #63 ⚪）
 
 ### 470 · with its siren blaring（鸣着笛；警笛 siren · 刺耳地响 blare）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
@@ -19132,7 +19139,7 @@ create 本身对（#370 ✅），diff-2 ⚠️：boom 后面挂东西用 in（�
 
 ### 471 · lounge（懒洋洋地躺着／窝着放松：lounge on the couch · lounge by the pool · lounge around）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **lounge** ＝ 舒舒服服、懒洋洋地躺着／靠着，什么正事都不干 —— 后面接地点：`lounge on the couch` · `lounge by the pool` · `lounge in bed`；
@@ -19165,10 +19172,11 @@ veg out（很口语，"瘫着放空"）· 名词 lounge ＝ 休息室（airport 
 - 2026-10-14 ✅ 学习日 在池第 2 组 [6] · `On Sunday afternoons, I don't feel like going anywhere—I just want to lounge by the pool and soak up the sun.` —— lounge by the pool。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [2] · `On that rainy day, I spent the whole day lounging on the couch, scrolling through my phone.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [2] · `… I stayed put and spent the whole afternoon lounging on a deck chair on my balcony.`
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [2] · `While on vacation, we spent every day just lounging on the beach, doing nothing at all.` —— lounging on the beach
 
 ### 472 · pay out（机构按约定把一笔钱付出去、赔付：The insurance company paid out 20,000 yuan）
 类型 词组 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **pay out** ＝ 把一笔（通常不小的）钱按约定／规定付出去 —— 保险赔付、奖金、赔偿：
@@ -19200,10 +19208,11 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 - 2026-10-14 ✅ 学习日 在池第 2 组 [7] · `After the car got hit, the insurance company eventually paid out twenty grand to us.` —— paid out ＋ 钱数。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [3] · `After the factory caught fire, the insurance company paid out five million dollars in total.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [3] · `My dad was hospitalized for surgery, and the insurance company eventually paid out over eighty thousand.`
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [3] · `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)` —— paid out thirty grand（hail／grand 她标学下 ⇒ 新建 #564 #565）
 
 ### 473 · "从楼下（街上）经过" ⇒ past／by my building · under my window（⛔ under my building）
 类型 搭配 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 中文"楼下"有时指**楼外那条街**："一辆车从我家楼下开过去" ⇒ `drove past my building` ／ `went by under my window` ／ `outside my building`。
@@ -19236,6 +19245,7 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 - 2026-10-14 ✅ 学习日 在池第 2 组 [8] · `A garbage truck drives right past my building every morning at six.` —— drives past my building。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [4] · `Motorbikes roar right past my building every night in the middle of the night, keeping me wide awake.` —— past my building。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [4] · `Every morning, a bunch of elementary school kids walk past my balcony, laughing and chatting.` —— 没落到 under my building（past my balcony 说得通，最贴"楼下"的是 past my building）
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [4] · `An elderly man walking his dog passes right by my place every morning at 7:00.` —— passes right by my place
 
 ### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
 类型 搭配 ｜ 新建 2026-10-13
@@ -19309,7 +19319,7 @@ diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient 
 
 ### 476 · stubborn（倔、认死理：脾气倔 ⇒ He's so stubborn；⛔ has a stubborn temper）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-20 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-16** ｜ 题型 整句
 
 **问题是什么**
 **stubborn** ＝ 倔、认死理、劝不动：`My dad is so stubborn.` · `a stubborn kid`。
@@ -19341,6 +19351,7 @@ headstrong（任性、一意孤行）· set in one's ways（老习惯改不了�
 - 2026-10-14 ✅ 学习日 在池第 2 组 [10] · `My granddad is so stubborn—the doctor told him to quit smoking, but he just refuses to listen.` —— 人当主语 ＋ so stubborn。连错 1 → 连对 1
 - 2026-10-16 ✅ 学习日 在池第 1 组 [6] · `Our boss is incredibly stubborn—everyone told him the plan wouldn't work, but he just insisted on it.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-20 ✅ 复检 · 学习日 复检第 3 组 [6] · `My son is really stubborn; even though we agreed he'd be in bed by nine, he insists on watching his cartoon to the end.`（她问"看完"怎么说 ⇒ 新建 #512）
+- 2026-10-30 ✅ 复检 · 学习日 复检第 4 组 [5] · `Our cat is stubborn; if you forbid it from jumping on the table, it insists on doing it anyway.` —— stubborn（forbid 归 🎓#206 书面登记）
 
 ### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
 类型 词组 ｜ 新建 2026-10-13
