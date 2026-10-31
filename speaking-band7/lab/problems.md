@@ -361,6 +361,7 @@
 - 2026-09-30 ⚪ 付息日 a 段在池第 2 组 [5] · `The limited-edition sneaker sold out the second they dropped` → sneakers（同句 they／them 复数 ⇒ 形态类，只记录）
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `my friends pulled three all-nighter before he …` → my friend（题面"我朋友"一个人，后面也用了 he；同句 Concert tickets 复数标对 ⇒ 形态类，只记录）
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `got his hand on a pair` → his hands（get one's hands on 固定两只手；10-03 她写对过 got my hands on it ⇒ 形态类，只记录）
+- 2026-10-30 ⚪ 学习日 在池第 2 组 [2]（#559 题里）· `long queues for photo` → `for photos` —— 可数名词单数光秃秃；同句 long queues 复数她自己做对 ⇒ 形态类只记录·不出题（检查触发：名词前停一下 —— 可数吗？单数就补 a／the，泛指就变复数）
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -745,7 +746,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 ### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **a trip down memory lane** ＝ 一样东西／一个场景把人带回过去一整段时光（带怀旧的暖意）：`It was a real trip down memory lane.` · `Looking at those old photos took me on a trip down memory lane.`
@@ -772,10 +773,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S8 · 她标「这个词组学下」· 原话 `To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [8] · `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.` —— was such a trip down memory lane ✓（她标学下 ⇒ 新建 #560 flip through）。连错 1 → 连对 1
+- 2026-10-30 ✅ 学习日 在池第 2 组 [1] · `Taking a stroll through the old alleyway I grew up in was such a trip down memory lane.` —— 点名只给 memory lane，such a trip down memory lane 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 559 · **trendy**（网红店／网红餐厅 ＝ a trendy restaurant；⛔ famous）
 类型 词汇 ｜ 新建 2026-10-27
-状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **trendy** ＝ 时髦、正火的（一阵子大家都去、都在发的那种）：`a trendy restaurant` · `a trendy café` · `that trendy spot everyone's posting about`。中文"网红店／网红餐厅／网红景点" ⇒ a trendy restaurant／spot；也说 Instagram-famous · hyped（被炒得很火的）。
@@ -802,10 +804,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：A trendy café just opened near my office, and on weekends there's always a long line of people waiting to take photos.
 
 - 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [6]（#556 题里）· diff-2 ⚠️ · 原话 `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` ⇒ 更好版 trendy
+- 2026-10-30 ✅ 学习日 在池第 2 组 [2] · `There's a trendy new cafe near my workplace that always has long queues for photo every weekend.` —— a trendy new cafe ✓（没再落 famous；for photo 归 #56 ⚪）。连错 1 → 连对 1
 
 ### 560 · **flip through ＋ 相册／杂志／书**（翻看、一页页地翻：flip through old photo albums）
 类型 词组 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **flip through** ＝ 一页一页地翻看（相册、杂志、书、菜单，翻得快、随便看看）：`flip through old photo albums` · `flip through a magazine while waiting` · `flip through the menu`；英式也说 flick through。
@@ -832,10 +835,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：While waiting at the dentist's, I flipped through a magazine on the table.
 
 - 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [8]（#558 题里）· 她标「这个词组学下」· 原话 `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
+- 2026-10-30 ✅ 学习日 在池第 2 组 [3] · `I was casually flipping through a magazine on the table while waiting to see the dentist.` —— flipping through a magazine ✓。连错 1 → 连对 1
 
 ### 561 · **tremble**（发抖、哆嗦：the puppy was trembling；冷得发抖 ⇒ shiver）
 类型 词汇 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **tremble** ＝ 发抖、哆嗦（害怕、紧张、虚弱、激动时身体或手控制不住地抖）：`the puppy was trembling` · `My hands were trembling.` · `tremble with fear`。
@@ -861,10 +865,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：My hands wouldn't stop trembling before the interview.
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
+- 2026-10-30 ✅ 学习日 在池第 2 组 [4] · `My hands were trembling so badly before the interview because I was so nervous.` —— My hands were trembling ✓。连错 1 → 连对 1
 
 ### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
 类型 词组 ｜ 新建 2026-10-27
-状态 连对0 连错1 上次2026-10-27 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文"这几天"说的是**眼下短短几天**：往后几天 ⇒ **for the next few days**／over the next few days；过去几天 ⇒ **for the past few days**／the last few days（一般配完成时：`It's been raining for the past few days.`）。
@@ -890,6 +895,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：It's been raining for the past few days, so the clothes on the balcony just won't dry.
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 4 组 [4]（🎓#465 题里）· 不在考点上的一处 · 原话 `The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.` ⇒ 更好版 for the next few days
+- 2026-10-30 ✅ 学习日 在池第 2 组 [5] · `It's rained for a few days straight, and none of the laundry on the balcony will dry.` —— for a few days straight ✓（短期"这几天"没落 these days，配完成时）。连错 1 → 连对 1
 
 ## 迁移说明（2026-08-18）
 
