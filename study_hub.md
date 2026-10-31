@@ -8,6 +8,18 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-30 · 口语 L1（周期 15 第 1 个学习日）· 已收尾**
+  —— 在池 2 组 **15 题 / 15 条 ✅15 ❌0**；复检 2 组（含下溢 1 组）**19 题 / 23 条 ✅23 ❌0**
+  —— 🎓 **毕业 11 条**（#548–#558）⇒ 全档 **541** ＝ problems 18 ＋ graduated **523**（96.7%）
+  —— ⚠️ **回潮 1**：🎓#338 end up ＋ -ing（`ending up with smearing cream …`：end up 和 -ing 中间夹了 with）；同一场后来 `ended up getting` 用对了，只留 📝
+  —— 🆕 **新建 3 条** #563–#565（她标学下 3：stall 熄火 · hail 冰雹 · grand 一千块）
+  —— 自发命中 3：🎓#494 can't bring himself to · 🎓#485 smear … all over his face · 🎓#501 dropped off ｜ 书面登记 1（forbid it from → don't let it）｜ ⚪ 2（#56 for photo · #63 the downtown）
+  —— 种子整改：🎓#357 点名补 logic（零提示被她用 reasoning skills 绕开）
+  —— ② 回看 bank:478；④ 重答 bank:340 题面已发、她没答就收尾 ⇒ 不记账
+  —— 数据修补：2026-08-16.md 补 bank:340 四件套逐字回补（attempts 现在解析得出）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 中途 10⇄1、收尾 1⇄0
+  —— **下一场 ＝ 周期 15 · L2**：回潮 #338 ＋ 连对1 的 4 条（#559–#562）＋ #563–#565 首测；复检以 pick 为准；② 回看 lookback --pending；④ 重答 bank:340（P2 现场看的体育赛事）＋ 与旧答对比
+
 🆕🆕🆕 **2026-10-27 · 口语 R（付息日 · 周期 14 收尾）· 已收尾**
   —— 在池 2 组 **18 题 / 18 条 ✅18 ❌0**；复检 2 组（在池只排 2 组，下溢 3 组但到期只够 2 组）**18 题 / 26 条 ✅26 ❌0**；回潮 0
   —— 🎓 **毕业 7 条**（#541–#547）⇒ 全档 **538** ＝ problems 25 ＋ graduated **513**（95.4%）

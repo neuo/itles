@@ -7523,3 +7523,25 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 7⇄0
 
 **下一场 ＝ 周期 15 · L1**：#559–#562 首测 ＋ 连对1 的 11 条（#548–#558）；复检以 pick 为准；② 回看 bank:478；④ 重答 bank:340（P2 现场看的体育赛事）＋ 与旧答对比（首答在 08-16 那一节，先逐字回补）
+
+## 2026-10-30（周五）· 口语 L1（周期 15 第 1 个学习日）
+
+> 日期：开场美东 10-31 03:18（未到 10-31 中午），按中午分界属 10-30；10-28／10-29 没练，不占位。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 541 ＝ problems.md 18 ＋ graduated.md 523 ｜ 🎓 523（96.7%）｜ 未毕业 18 ｜ 可出题 8 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 39 道
+
+**五段**
+- ① 在池 2 组 15 题 / 15 条：**✅15 ❌0** ⇒ **毕业 11**（#548–#558）；#559–#562 连错 1 → 连对 1；她说要学建的那几条这次点名降到关键词（lay／crouch／right down／write home／memory lane），后半截全自己补上了
+- ①b 复检 2 组（在池只排 2 组，下溢 1 组）19 题 / 23 条：**✅23 ❌0**；#357 被 reasoning skills 绕开 ⇒ 记 ✅、种子补点名 logic
+- 回潮 1：🎓#338 end up ＋ -ing —— 在池第 1 组 [10] `ending up with smearing cream all over his face`（中间夹了 with）；复检第 3 组又自发写出 `ended up getting completely wet`（刚讲过 ⇒ 只留 📝）
+- ② 回看：bank:478（10-27 d 段重答）
+- ④ 重答 bank:340：题面已发，她说「收尾吧」没答 ⇒ 不留节、不记账（仍是 redo 第 1 行）
+- 新建 3：#563 stall（学下）· #564 hail（学下）· #565 grand（学下）
+- 自发命中：🎓#494 can't bring himself to · 🎓#485 smear … all over his face · 🎓#501 dropped off；书面登记 1（forbid it from → don't let it）；⚪ #56 for photo · #63 the downtown
+- 数据修补：2026-08-16.md 补 bank:340 四件套逐字回补
+
+**教练犯规**：复检 #357 绕开测试判成"避不开"，零提示被绕开；第 1 组 #553 与 #554 撞"臭"字，审核表先说成不泄题就 commit（发题前改掉）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 中途 10⇄1、收尾 1⇄0
+
+**下一场 ＝ 周期 15 · L2**：回潮 #338 ＋ 连对1 的 4 条（#559–#562）＋ #563–#565 首测；复检以 pick 为准；② 回看 lookback --pending；④ 重答 bank:340（08-16 首答已回补）＋ 与旧答对比

@@ -21987,3 +21987,34 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S2 · 她标「这个词的用法学下」· 原话 `She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [7] · `During the baking class, the teacher showed us how to frost cupcakes.` —— how to frost cupcakes ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [10] · `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— frost his birthday cake ✓（ending up with smearing 归 🎓#338 ❌ 回潮）。连对 1 → 2 ⇒ 🎓 毕业
+
+### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
+类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+
+**问题是什么**
+**a trip down memory lane** ＝ 一样东西／一个场景把人带回过去一整段时光（带怀旧的暖意）：`It was a real trip down memory lane.` · `Looking at those old photos took me on a trip down memory lane.`
+同一格里的邻居（别串）：bring back memories（勾起回忆，最常用）· nostalgic（怀旧的，形容词）· remind me of（让我想起某一件事）。
+判据一句话：把你带回过去一整段时光 ⇒ a trip down memory lane；只是想起某一件事 ⇒ remind me of。
+★ 题型判整句："一下子回到那段日子"能落到 brought back memories 等合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-26 学习日 ③ 重答 bank:1286（R28 · P2）S8 · 原话
+`To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
+她用对了 a trip down memory lane，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
+判重三步：
+　① 目标形式 dedup "memory lane"／"nostalg" ⇒ 零命中
+　② 中文 dedup "回忆" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `it was a real trip down memory lane`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"一下子回到了那段日子／满满的回忆"先试 a trip down memory lane。
+
+**题面**
+"翻到大学时的旧照片，我一下子回到了那段日子。"（"一下子回到了那段日子"用 **a trip down memory lane** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Flipping through my old college photos was a real trip down memory lane.
+
+- 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S8 · 她标「这个词组学下」· 原话 `To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
+- 2026-10-27 ✅ 付息日 在池第 2 组 [8] · `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.` —— was such a trip down memory lane ✓（她标学下 ⇒ 新建 #560 flip through）。连错 1 → 连对 1
+- 2026-10-30 ✅ 学习日 在池第 2 组 [1] · `Taking a stroll through the old alleyway I grew up in was such a trip down memory lane.` —— 点名只给 memory lane，such a trip down memory lane 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
