@@ -743,6 +743,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-10-17 ✅ 付息日 复检第 6 组 [2] · `but I ended up cooking dinner on my own instead`
 - 2026-10-17 ✅ 自发命中 · 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S2 · `but I ended up going over budget after adding a multi-color printing accessory`
 - 2026-10-30 ❌ 学习日 在池第 1 组 [10]（#557 题里）· `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— end up 和 -ing 中间夹了 with（end up ＋ -ing 与 end up with ＋ 名词两条路混搭）⇒ 最小改 ending up smearing cream all over his face ⇒ 🎓 回潮
+- 2026-10-30 📝 当天回潮后自发用对 · 学习日 复检第 3 组 [2]（🎓#525 题里）· `so it ended up getting completely wet in the rain` —— end up ＋ -ing ✓；上午在池第 1 组刚回潮、刚讲过 ⇒ 按「当天教完当天测＝假 ✅」只留痕，⛔ 不记 ✅、不动连对
 
 ### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
@@ -896,6 +897,35 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 4 组 [4]（🎓#465 题里）· 不在考点上的一处 · 原话 `The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.` ⇒ 更好版 for the next few days
 - 2026-10-30 ✅ 学习日 在池第 2 组 [5] · `It's rained for a few days straight, and none of the laundry on the balcony will dry.` —— for a few days straight ✓（短期"这几天"没落 these days，配完成时）。连错 1 → 连对 1
+
+### 563 · **stall**（车熄火：the car stalled · stall the car；⛔ 与 market stall 摊位串）
+类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stall** ＝ （发动机）熄火、开着开着自己憋灭了：`The car stalled at the lights.` · `I kept stalling the car.`（人当主语也行：我把车弄熄火了）。
+同一格里的邻居（别串）：break down（车坏了、抛锚，是故障）· turn off the engine（自己把发动机关掉）· 🎓#430 正文里的 stall 是"摊位"（market stall），另一个义项。
+判据一句话：发动机不该熄的时候自己熄了 ⇒ stall；车出故障开不了 ⇒ break down；自己关的 ⇒ turn off。
+★ 题型判整句："熄火"能落到 the engine died／cut out 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-30 学习日 复检第 3 组 [5]（🎓#528 题面"我刚学开手动挡的车，熄了好几次火才摸到窍门。"）· 原话
+`When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
+她用对了 stalled，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #560 #561 先例）。
+判重三步：
+　① 目标形式 dedup "stall" ⇒ 🎓#430（street market 正文里的 stall ＝ 摊位，另一个义项）⇒ 否；"stick shift" ⇒ 零命中
+　② 中文 dedup "熄火"／"手动挡" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `I stalled a few times`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"熄火"先问一句 —— 是发动机自己憋灭的吗？是 ⇒ stall。
+
+**题面**
+"早高峰堵在坡上，前面那辆车一起步就熄火了。"（"熄火"用 **stall** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We were stuck on a hill in rush-hour traffic, and the car in front of us stalled as soon as it tried to pull away.
+
+- 2026-10-30 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#528 题里）· 她标「这个词学下」· 原话 `When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
 
 ## 迁移说明（2026-08-18）
 
