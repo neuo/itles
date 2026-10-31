@@ -702,305 +702,46 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 548 · **old-fashioned**（老式的、旧款的：an old-fashioned cash register；⛔ legacy）
-类型 词汇 ｜ 新建 2026-10-26
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
+### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing／end up with -ing）
+类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
+状态 连对0 连错1 上次2026-10-30 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零）
 
 **问题是什么**
-**old-fashioned** ＝ 老式的、旧款的（东西是早年那种样式／做法）：`an old-fashioned cash register` · `an old-fashioned sewing machine` · `old-fashioned values`；口语也常说 **old-school**（带点怀旧、复古的味道）。
-同一格里的邻居（别串）：legacy（IT／公司行话：legacy system ＝ 公司里还在跑的旧系统、旧软件，⛔ 不拿来说一台老机器）· outdated（过时了、跟不上了，带贬义）· vintage（有年代感、值得收藏）。
-判据一句话：说一样东西"老式的" ⇒ old-fashioned／old-school；legacy 只留给公司里还在跑的旧系统、旧软件。
-★ 题型判整句："老式的"能落到 old／old-school／vintage 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+**end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
+end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital ／ end up with nothing）；⛔ 中间不加 to。
+同一格里的邻居（别串）：🎓#113 考的是"都要／总是"那一层要不要显式说出来（always end up ／ have to），
+本条只管 end up 后面那个形 —— 层落地了、形写歪了，两条各判各的。
+判据一句话：end up 后面是动词吗？是 ⇒ 直接 -ing，中间什么都不夹（⛔ to，⛔ with —— with 后面只接名词：end up with cream all over his face）。
 
 **怎么发现的**
-2026-10-26 学习日 在池第 1 组 [2]（#539 题面"街角小卖部柜台上那台老式收银机"）· 原话
-`that legacy cash register on the counter of the corner shop`
-考点 cash register 用对（#539 ✅）；diff-2 ⚠️："老式"落成 legacy —— IT／公司行话，说一台老机器偏了 ⇒ old-fashioned ⇒ §3.2b 能学的表达（session／档案里找不到她产出过 old-fashioned ⇒ 不走书面登记）⇒ 建号（同 #538 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
+2026-09-13 学习日 复检第 4 组 [8]（#113 那题 · "我每次去都要排半小时队。"）· 触发原话
+`I always end up to queuing for half an hour every time I go.`（"都要"那层落地了，#113 ✅；end up to queuing 不归那条）
 判重三步：
-　① 目标形式 dedup "old-fashioned"／"legacy"／"outdated" ⇒ 零命中；"old" ⇒ 命中全是 old man／older 一类正文字样（🎓#234 older people ＝ 老人 · 🎓#74 make do with 旧电脑题面 · 🎓#531 等），无一以"老式"为考点 ⇒ 否
-　② 中文 dedup "老式"／"过时" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
+　① 目标形式 end up -ing ⇒ dedup "end up" ⇒ 命中 🎓#113（层，不是形）、#49（历史行里带过 end up，考人称）⇒ 都否
+　② 中文 "最后…" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）；08-20／09-05 她两次写对过 end up queuing ⇒ 是形没长稳，不是没见过
 
 **我错在哪**
-她的：`that legacy cash register`　　更地道：`that old-fashioned cash register`
-找法：中文"老式的（机器、东西）"先落 old-fashioned；冒出 legacy 先问一句 —— 说的是公司里的旧系统吗？不是就换。
+她的：`end up to queuing`　　正确：`end up queuing`
+找法：写完 end up，看后面紧跟的是不是 -ing；冒出一个 to 就删掉。
 
 **题面**
-"我奶奶到现在还在用那台老式缝纫机给我们改衣服。"（"老式"用 **old-fashioned** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My grandma still uses that old-fashioned sewing machine to alter our clothes.
+"本来想点外卖，结果最后还是自己做了饭。"（"结果最后"用 **end up** 说）
 
-- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [2]（#539 题里）· diff-2 ⚠️ · 原话 `that legacy cash register on the counter of the corner shop` ⇒ 更好版 old-fashioned
-- 2026-10-27 ✅ 付息日 在池第 1 组 [8] · `My grandma still uses that old-fashioned sewing machine to tailor our clothes.` —— old-fashioned ✓（tailor → alter 只进 diff-2）。连错 1 → 连对 1
-
-### 549 · **at one's desk**（办公室的"工位" ＝ desk：sat at her desk；⛔ station）
-类型 词汇 ｜ 新建 2026-10-26
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
-
-**问题是什么**
-办公室里的"工位" ＝ **desk**（每人一张的那张办公桌）：`sit at my desk` · `eat lunch at my desk` · `She's not at her desk.`（她不在工位上）。
-同一格里的邻居（别串）：workstation（工位，偏正式、行政口吻）· cubicle（带隔板的格子间）· station（岗位：nurses' station 护士站、餐厅后厨、流水线上的一个位置 —— ⛔ 不说办公室工位）。
-判据一句话：办公室里说"在工位上" ⇒ at one's desk；有隔板的格子间才说 cubicle。
-★ 题型判词组：一个名词块，"工位"映射回 desk；答 workstation 合法也贴题面 ⇒ 记 ✅（§3.3），只盯她不再落 station。
-
-**怎么发现的**
-2026-10-26 学习日 在池第 1 组 [3]（#540 题面"午休的时候，我同事坐在工位上，抱着一包饼干咔嚓咔嚓地啃。"）· 原话
-`During lunch break, my coworker sat at her station munching on a pack of biscuits.`
-考点 munch on 用对（#540 ✅）；diff-2 ⚠️："工位"落成 station —— station 是护士站、后厨、流水线那种岗位，办公室工位说偏了 ⇒ at her desk ⇒ §3.2b（选词偏了，⛔ 不是同级近义词）⇒ 建号（同 #538 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
-判重三步：
-　① 目标形式 dedup "at her desk"／"desk" ⇒ 🎓#289（历史字样：她 10-12 说过 `she's right at her desk drawing`，孩子在家的书桌）· 🎓#435（题面"办公桌上"）· 🎓#501 #74 #158（历史／正文字样）⇒ 都否 —— 她会 desk 这个词，缺的是"工位 → desk"这一步；"workstation"／"cubicle" ⇒ 零命中；"station" ⇒ 🎓#336 #360 #287（火车站等字样）· #89（历史字样）⇒ 否
-　② 中文 dedup "工位" ⇒ 零命中；"办公桌" ⇒ 🎓#435（succulent 题面）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`sat at her station`　　更地道：`sat at her desk`
-找法：中文"工位"先落 desk；说出 station 先问一句 —— 这是护士站／后厨／流水线吗？不是就换 desk。
-
-**题面**
-"开放式办公室里我那个靠窗的工位"（每人一张桌子、一台电脑，上班就坐在那儿的位置）
-★ 目标形式（教练看，⛔ 不进发题稿）：my desk by the window in the open-plan office
-
-- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [3]（#540 题里）· diff-2 ⚠️ · 原话 `During lunch break, my coworker sat at her station munching on a pack of biscuits.` ⇒ 更好版 at her desk
-- 2026-10-27 ✅ 付息日 在池第 1 组 [9] · `my desk by the window in the open-plan office` —— my desk ✓（没再落 station）。连错 1 → 连对 1
-
-### 550 · **lay out ＋ 一套东西**（把计划／来龙去脉一条条摆出来讲清楚：lay out the backstory）
-类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**lay out** ＝ 把一套东西（计划、理由、事实、来龙去脉）有条理地摆出来、讲清楚：`lay out the plan` · `lay out the facts` · `The film took half an hour to lay out the villain's backstory.`；本义是"摊开摆好"（lay out the clothes on the bed）。
-同一格里的邻居（别串）：spell out（一字一句说明白）· go through（一项一项过一遍）· explain（最泛）· 🎓#431 邻居栏里的 well laid out（布局好，说空间，另一个义项）。
-判据一句话：把一整套东西从头到尾摆出来讲 ⇒ lay out；怕对方没听懂、要说得一清二楚 ⇒ spell out。
-★ 题型判整句："讲清楚／交代"能落到 explain／go through 一串合法说法 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后点名降到只给 **lay**（out 留给她）。
-
-**怎么发现的**
-2026-10-26 学习日 在池第 1 组 [5]（#542 题面"这部电影花了半个多小时交代反派的背景故事。"）· 原话
-`The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
-她用对了 lay out，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #540 #541 先例）。
-判重三步：
-　① 目标形式 dedup "lay out" ⇒ 零命中；"laid out" ⇒ 🎓#431（well planned out；邻居栏 well laid out ＝ 布局，说空间）⇒ 否，另一个义项；"spell out" ⇒ 🎓#162（历史字样）⇒ 否；"set out" ⇒ 🎓#509（set off，历史字样）⇒ 否
-　② 中文 dedup "交代" ⇒ 🎓#373 #388 #347（正文"交代背景／时间"字样）· #542（本题题面）⇒ 都否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `just to lay out the villain's backstory`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"交代清楚／把…一条条讲出来"先试 lay out。
-
-**题面**
-"开会的时候，经理先花了十分钟把明年的计划一条条讲清楚。"（"一条条讲清楚"用 **lay out** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：At the meeting, the manager spent ten minutes laying out next year's plan.
-
-- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词组学下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
-- 2026-10-27 ✅ 付息日 在池第 1 组 [10] · `At the meeting, the manager took ten minutes to lay out next year's plan step by step.` —— to lay out next year's plan ✓。连错 1 → 连对 1
-
-### 551 · **villain**（反派、坏人角色：play the villain）
-类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要背
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**villain** ＝ 故事里跟主角作对的坏人、反派：`the villain of the movie` · `He always plays the villain.` · `the villain's backstory`。
-同一格里的邻居（别串）：bad guy（口语，坏人）· antagonist（对手角色，偏影评、文学评论）· hero／protagonist（主角）。
-判据一句话：说电影／小说／剧里的"反派" ⇒ villain（口语也说 the bad guy）。
-★ 题型判词组：一个名词，"反派"映射回 villain；答 the bad guy 合法也贴题面 ⇒ 记 ✅（§3.3），下次把语境写具体。
-
-**怎么发现的**
-2026-10-26 学习日 在池第 1 组 [5]（#542 题面"这部电影花了半个多小时交代反派的背景故事。"）· 原话
-`The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
-她用对了 villain，自己标「这个词背下」⇒ §2③ 她说要背 ⇒ 建号，判 ❌（同 #543 先例）。
-判重三步：
-　① 目标形式 dedup "villain" ⇒ #542（正文／历史字样：the villain's backstory）⇒ 否，那条考 backstory；"bad guy" ⇒ 零命中
-　② 中文 dedup "反派" ⇒ #542（题面）⇒ 否 ⇒ 题面互斥：本条题面不带"背景故事"
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `the villain's backstory`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"反派／大坏蛋（角色）"先落 villain。
-
-**题面**
-"这部剧里演反派的那个演员"（专门跟主角作对、观众恨得牙痒痒的那个坏角色）
-★ 目标形式（教练看，⛔ 不进发题稿）：the actor who plays the villain in this show
-
-- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词背下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [1] · `that actor who plays the villain in this drama` —— plays the villain ✓。连错 1 → 连对 1
-
-### 552 · **crouch down**（蹲下：crouch down to tie my shoelaces）
-类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**crouch (down)** ＝ 弯腿把身子蹲低（多是一下子蹲下去，去够、去看、去摸）：`crouch down to tie my shoelaces` · `She crouched down and petted the kitten.` · `crouch behind the car`。
-同一格里的邻居（别串）：squat (down)（蹲，也指一直蹲着；健身里的深蹲）· kneel (down)（跪下，膝盖着地）· bend down（弯腰，腿不一定弯）。
-判据一句话：说"蹲下来（够／看／摸）" ⇒ crouch down；一直蹲着／深蹲 ⇒ squat；膝盖着地 ⇒ kneel。
-★ 题型判整句："蹲下"能落到 squat down 等合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-26 学习日 在池第 1 组 [7]（#544 题面"我侄女一见到小猫就蹲下来摸个不停。"）· 原话
-`As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
-她用对了 crouched down，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #540 #541 先例）。
-判重三步：
-　① 目标形式 dedup "crouch"／"squat"／"kneel"／"bend down" ⇒ 零命中
-　② 中文 dedup "蹲" ⇒ 🎓#332（正文字样）· #544（本题题面）⇒ 都否 ⇒ 题面互斥：本条题面不带"摸小动物"
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `she crouched down`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"蹲下来…"先落 crouch down。
-
-**题面**
-"我蹲下来帮女儿系鞋带。"（"蹲下来"用 **crouch down** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I crouched down to tie my daughter's shoelaces.
-
-- 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [7]（#544 题里）· 她标「这个词组学下」· 原话 `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [2] · `I crouched down to help my daughter tie her shoes.` —— crouched down ✓。连错 1 → 连对 1
-
-### 553 · **stench**（一股恶臭、熏人的臭味：a nasty stench）
-类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**stench** ＝ 一股恶臭、熏人的臭味（名词，比 smell 强烈得多）：`a nasty stench` · `the stench of rotting garbage` · `The stench hit me as soon as I opened the door.`
-同一格里的邻居（别串）：smell（味道，中性，加形容词才分好坏：a bad smell）· odor（气味，偏正式）· stink（臭味，口语，也能当动词：It stinks!）· #554 smelly（形容词：臭的）。
-判据一句话：说"一股熏人的臭味" ⇒ a stench；说"东西是臭的" ⇒ smelly。
-★ 题型判整句："恶臭"能落到 a bad smell／a horrible smell／a stink 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整词（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-26 学习日 复检第 2 组 [1]（🎓#215 题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· 原话
-`On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
-她用对了 stench，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）；同句 -ing 主语悬空归 🎓#215（❌ 回潮），与本条无关。
-判重三步：
-　① 目标形式 dedup "stench"／"stink"／"odor" ⇒ 零命中；"smell" ⇒ 🎓#351（feels like，正文字样）⇒ 否
-　② 中文 dedup "臭" ⇒ 🎓#488（strength in numbers，正文字样）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）；与 #554 同一句建号 ⇒ 题面互斥：本条题面不带"臭袜子／臭鞋"
-
-**我错在哪**
-她的：用对了 `a nasty stench of smelly shoes`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"一股恶臭／臭味熏人"先落 a stench (of …)。
-
-**题面**
-"垃圾好几天没倒，一进厨房就是一股恶臭。"（"恶臭"用 **stench** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：The trash hadn't been taken out for days, so there was a horrible stench as soon as you walked into the kitchen.
-
-- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [3] · `The trash hadn't been taken out for a few days, so the second I stepped into the kitchen, I got hit with a horrible stench.` —— a horrible stench ✓。连错 1 → 连对 1
-
-### 554 · **smelly**（臭的：smelly shoes · smelly socks）
-类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 词组
-
-**问题是什么**
-**smelly** ＝ 有臭味的、臭的（形容词，放东西前面）：`smelly shoes` · `smelly socks` · `smelly cheese`。
-同一格里的邻居（别串）：stinky（口语，更随意、带点孩子气）· #553 stench（名词：一股臭味）· smell（名词／动词：It smells bad.）。
-判据一句话：说"东西是臭的" ⇒ smelly／stinky；说"一股臭味" ⇒ a stench／a bad smell。
-★ 题型判词组：一个形容词 ＋ 东西，"臭袜子"映射回 smelly socks；答 stinky 合法也贴题面 ⇒ 记 ✅（§3.3）。
-
-**怎么发现的**
-2026-10-26 学习日 复检第 2 组 [1]（🎓#215 题面"我一打开行李箱，一股臭鞋味就冲了出来。"）· 原话
-`On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
-她用对了 smelly，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
-判重三步：
-　① 目标形式 dedup "smelly"／"stinky" ⇒ 零命中
-　② 中文 dedup "臭" ⇒ 🎓#488（正文字样）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）；与 #553 同一句建号 ⇒ 题面互斥：本条题面不带"一股恶臭"
-
-**我错在哪**
-她的：用对了 `smelly shoes`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"臭（袜子／鞋／垃圾）"先落 smelly。
-
-**题面**
-"儿子踢完球扔在门口的那双臭袜子"（脱下来一股味儿、谁都不想碰的那种）
-★ 目标形式（教练看，⛔ 不进发题稿）：the smelly socks my son tossed by the door after soccer
-
-- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [4] · `those smelly socks my son dumped by the doorstep right after playing football` —— smelly socks ✓（by the doorstep → by the door 只进 diff-2）。连错 1 → 连对 1
-
-### 555 · **right down to ＋ 最细的那一处**（连…都一样、细到…：beautifully crafted, right down to the presentation）
-类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**right down to ＋ 最小的细节** ＝ 一直细到（连最小的那一处也是这样），放在句末补一刀：`Every dish is beautifully crafted, right down to the presentation.` · `She planned everything right down to the last detail.` · `He copied her look right down to the shoes.`
-同一格里的邻居（别串）：🎓#58 it comes down to · 🎓#284 boil down to（都是"说到底／归结为"，不是"细到"）· even（"连…都"，最泛）。
-判据一句话：前面说了"全部／每一个都…"，句末补"连最细的 X 也是" ⇒ , right down to X。
-★ 题型判整句：考点是块在句末的挂接位置，单拎一个块测不出 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-26 学习日 复检第 2 组 [7]（🎓#456 题面"这位厨师的每一道菜都是精心做出来的，连摆盘都很讲究。"）· 原话
-`Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
-她用对了 right down to，自己标「这个词组的用法可以学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
-判重三步：
-　① 目标形式 dedup "right down to"／"last detail" ⇒ 零命中；"down to" ⇒ 🎓#58 comes down to · 🎓#284 boil down to（另一个块：归结）· #552 crouch down · ⛔#56 · 🎓#218 #277 #283 等（正文／历史字样）⇒ 都否
-　② 中文 dedup "细节" ⇒ 🎓#510 ins and outs · 🎓#463 talk sth through（正文字样）⇒ 否；"讲究" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `beautifully crafted, right down to the presentation`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"连…都很讲究／细到…"先试句末补 right down to。
-
-**题面**
-"我妹妹婚礼的每个细节都是她亲手安排的，连桌上的名牌都是她自己写的。"（"连…都"用 **right down to** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My sister planned every detail of her wedding herself, right down to the name cards on the tables.
-
-- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [7]（🎓#456 题里）· 她标「这个词组的用法可以学下」· 原话 `Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [5] · `Every single detail of my sister's wedding was handled by her personally, right down to writing the place cards on the tables.` —— right down to writing the place cards ✓（被动换主动只进 diff-2）。连错 1 → 连对 1
-
-### 556 · **nothing to write home about**（一般般、不值一提：it's nothing to write home about）
-类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**be nothing to write home about** ＝ 一般般、没什么值得说的（不算差，就是不出彩）：`The food was nothing to write home about.` · `The hotel was clean, but nothing to write home about.`
-同一格里的邻居（别串）：so-so（一般般，最短）· nothing special（没什么特别的）· not all it's cracked up to be（没传说的那么好）· mediocre（平庸，偏书面、偏贬）。
-判据一句话：说某样东西"一般般、不值一提"（不是差）⇒ nothing to write home about。
-★ 题型判整句："一般般"能落到 so-so／nothing special 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-26 学习日 复检第 2 组 [9]（🎓#354 题面"这款手机拍照挺不错的，至于电池嘛，就一般般了。"）· 原话
-`This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
-她用对了 nothing to write home about，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
-判重三步：
-　① 目标形式 dedup "write home"／"so-so"／"mediocre"／"nothing special"／"cracked up" ⇒ 零命中
-　② 中文 dedup "一般般" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `it's nothing to write home about`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"也就一般般／没什么好说的"先试 nothing to write home about。
-
-**题面**
-"那家网红餐厅排了一个小时队，结果菜也就一般般。"（"一般般"用 **nothing to write home about** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：We waited in line for an hour at that trendy restaurant, and the food turned out to be nothing to write home about.
-
-- 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#354 题里）· 她标「这个词组学下」· 原话 `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [6] · `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` —— nothing to write home about ✓（famous ⇒ 新建 #559）。连错 1 → 连对 1
-
-### 557 · **frost**（给蛋糕抹奶油／糖霜：frost the cake with cream）
-类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-27 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**frost** 当动词 ＝ 给蛋糕外面抹一层奶油／糖霜：`frost the cake with cream` · `She frosted it with chocolate.` · `frost the cupcakes`；名词 **frosting** ＝ 抹在外面的那一层（美式；英式多说 icing，动词 ice a cake）。
-同一格里的邻居（别串）：ice a cake（英式，同义）· spread（抹开：spread butter on toast）· 🎓#485 smear（抹得一塌糊涂，带贬义）· decorate（装饰，最泛）。
-判据一句话：给蛋糕外面抹一层奶油／糖霜 ⇒ frost (it) with …；抹黄油、果酱在面包上 ⇒ spread。
-★ 题型判整句："抹奶油"能落到 spread／cover／ice 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整词（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-26 学习日 ③ 重答 bank:1286（R28 · P2 · Describe a special cake you received from others）S2 · 原话
-`She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
-她用对了 frosting … with，自己标「这个词的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #552 先例）。
-判重三步：
-　① 目标形式 dedup "frost"／"icing" ⇒ 零命中
-　② 中文 dedup "糖霜" ⇒ 零命中；"抹" ⇒ 🎓#485 smear（抹得一塌糊涂，另一个词）· 🎓#445 #465 #495（正文／题面字样）⇒ 都否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `frosting it with cream and chocolate`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"给蛋糕抹奶油／抹一层霜"先落 frost。
-
-**题面**
-"烘焙课上，老师教我们怎么给杯子蛋糕抹奶油霜。"（"抹奶油霜"用 **frost** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：In the baking class, the teacher showed us how to frost cupcakes.
-
-- 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S2 · 她标「这个词的用法学下」· 原话 `She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
-- 2026-10-27 ✅ 付息日 在池第 2 组 [7] · `During the baking class, the teacher showed us how to frost cupcakes.` —— how to frost cupcakes ✓。连错 1 → 连对 1
+- 2026-09-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#113 那题）· `I always end up to queuing for half an hour every time I go.`
+  最小改 `I always end up queuing for half an hour every time I go.`
+  ❌ end up 后面直接接 -ing，⛔ 不加 to；"都要"那层（always end up）落地了，归 #113 ✅
+  ★ 判重：dedup "end up" ⇒ 🎓#113（层不是形）／#49（历史行带过）⇒ 两条并存
+- 2026-09-15 ✅ 学习日 在池第 2 组 · `I ended up doing it myself.` —— end up ＋ -ing；连错1 → 连对1
+- 2026-09-15 ✅ 新题 bank:1059（P2 · cold）自发命中 · `We ended up being classmate for years right until we finished high school.`
+  end up ＋ -ing 一字不差（今日第二次 ✅，§3.3 同日多次各记一行各算一次）→ **连对2，毕业**
+- 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 end up，后面接 -ing 还是 to 留给她（她掉过的是 end up to queuing）；换成点外卖场景
+- 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [2] · `we ended up staying at home watching TV all day.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [2] · `but I ended up cooking dinner on my own instead`
+- 2026-10-17 ✅ 自发命中 · 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S2 · `but I ended up going over budget after adding a multi-color printing accessory`
+- 2026-10-30 ❌ 学习日 在池第 1 组 [10]（#557 题里）· `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— end up 和 -ing 中间夹了 with（end up ＋ -ing 与 end up with ＋ 名词两条路混搭）⇒ 最小改 ending up smearing cream all over his face ⇒ 🎓 回潮
 
 ### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
