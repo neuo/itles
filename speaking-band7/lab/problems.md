@@ -807,7 +807,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
-状态 连对1 连错0 上次2026-10-02 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 词组
 
 **问题是什么**
 口语讲故事讲到黄昏、夕阳西下 ＝ **as the sun was going down**（when the sun was setting／at sunset 也对）。
@@ -834,6 +834,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 - 2026-10-01 📝 新建 · 学习日 新题 bank:1156（P2）[S7] · 触发原话 `melting into the lingering glow of dusk`（⚠️ 书面诗化 ⇒ 更地道的表达，§3.2b 建号）
 - 2026-10-02 ✅ 学习日 在池第 3 组 [8] · `As the sun was setting` —— 大白话交代时间，没用书面诗化的暮色余晖（as the sun was setting 是条目列明的合法说法）。首测 ⇒ 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 2 组 [1] · `We were heading back along the beach just as the sun was setting` —— 大白话交代时间（just as the sun was setting 是条目列明的合法说法），没用书面诗化。连对 1 → 2 ⇒ **毕业**
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
