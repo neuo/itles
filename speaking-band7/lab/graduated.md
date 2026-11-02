@@ -6598,7 +6598,7 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 
 ### 186 · leave a mess（⭐ 她自产）
 类型 词组 ｜ 旧号 B97
-状态 连对2 连错0 上次2026-10-10 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ 回潮 2026-09-09（08-17 毕业 → 09-09 复检答"忘了"，撤销毕业、连对清零）｜ **回潮 2026-09-28**（09-11 第二次毕业 → 09-28 复检答成 `mess up the floor`，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **leave a mess**（⭐ 她自产的块，三个词）＝ 弄乱了就走、留给别人收拾。
@@ -6660,6 +6660,8 @@ have a chance 更多用在"有可能性"（There's a chance it'll rain）。
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [1] · `friends leave the kitchen a total mess and just walk away` ⇒ 连对2 **毕业**
 - 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [1] · `My roommate never cleans up after cooking; he always leaves the stove a total mess.` —— leave ＋ 宾语 ＋ a mess，冠词在（leave sth a mess 合法变体）
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [6] · `My coworkers wrapped up their meeting in the conference room and just left a huge mess.(在桌子上怎么翻译)` —— left a huge mess ｜她问"桌上"怎么说 ⇒ 另建 #450
+- 2026-11-01 ✅ 学习日 复检第 3 组 [1] · `… and left the floor in a total mess when they went to sleep.` —— leave sth in a mess（与 leave sth a mess 同样合法）
+  ｜她自注「这个动词学下」⇒ pitch a tent 另建 #568
 
 ### 189 · take sb out ≠ bring sb along；outdoors 是副词
 类型 词汇 ｜ 旧号 B101
@@ -13894,7 +13896,7 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 
 ### 322 · play WITH sth（玩"东西"一律带 with）
 类型 搭配 ｜ 新建 2026-09-07
-状态 连对2 连错0 上次2026-10-10 ｜ **回潮 2026-09-28**（09-11 毕业 → 09-28 复检 [5]／[8] 两次漏 with，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **回潮 2026-09-28**（09-11 毕业 → 09-28 复检 [5]／[8] 两次漏 with，撤销毕业、连对清零）｜ **🎓 已毕业 2026-09-30**（连对2 ＝ 09-29 ＋ 09-30；09-28 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **play WITH sth**（玩"东西"一律带 with）。
@@ -13959,6 +13961,7 @@ principle   名词 ＝ 原则、准则                  on principle ／ It's a 
 - 2026-09-30 ✅ 付息日 a 段在池第 1 组 [2] · `My cat can play with a cardboard for an entire afternoon.`（with 到位；a cardboard 另建 #375）⇒ 连对2 **毕业**
 - 2026-10-03 ✅ 复检 · 学习日 复检第 3 组 [2] · `My dog loves playing with that old tennis ball.` —— 玩"东西"带 with
 - 2026-10-10 ✅ 复检 · 学习日 复检第 3 组 [7] · `My niece has been really into playing with blocks lately; she can spend a whole hour on them.` —— playing with blocks
+- 2026-11-01 ✅ 学习日 复检第 3 组 [2] · `The children downstairs were playing with bubble blowers in the courtyard and having a blast.` —— playing with
 - ⇒ **新建当天不测**（§3.1），下一个练习日起进池
 
 ### 323 · 嵌入疑问的 wh 词不能吞（know **what** they want）

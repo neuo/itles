@@ -1029,6 +1029,35 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 2 组 [5]（🎓#477 题里）· 她标「这个词组学下」· 原话 `He made a point of(这个词组学下) reserving a table with a river view for our first date, so that night just felt so special.`
 
+### 568 · **pitch a tent**（搭帐篷；也说 put up／set up a tent；⛔ build a tent）
+类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pitch a tent** ＝ 搭帐篷（露营时最常用的那个动词）：`We pitched our tent by the lake.`
+同一格里的邻居（别串）：put up／set up a tent（同义，更中性；屋里给孩子搭的小帐篷常说 set up）· take down a tent（拆帐篷）· 🎓#327 tent pegs（帐篷钉）。
+判据一句话：说"搭帐篷" ⇒ pitch／put up／set up a tent；⛔ 不说 build a tent。
+★ 题型判整句："搭帐篷"映射得回 pitch／put up／set up 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 pitch a tent，连对 ≥1 后降回 pitch。
+
+**怎么发现的**
+2026-11-01 学习日 复检第 3 组 [1]（🎓#186 题面"孩子们在客厅搭帐篷玩了一下午，把地上弄得一团糟就去睡觉了。"）· 原话
+`The kids spent the whole afternoon pitching（这个动词学下) a play tent in the living room, and left the floor in a total mess when they went to sleep.`
+她写对了 pitching a play tent，但自己标「这个动词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌；同 #566 #567 先例）。
+判重三步：
+　① 目标形式 dedup "pitch" ⇒ 零命中；"put up" ⇒ 零命中；"tent" ⇒ 🎓#174（as … as it gets，题面字样）· 🎓#327（tent pegs，历史字样，考 peg 不考"搭"）⇒ 都否
+　② 中文 dedup "帐篷" ⇒ 🎓#174（同上）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `pitching a play tent`，但动词不在手边（自己标学下）　　目标：同她原句
+找法：说到"搭帐篷"先落 pitch a tent。
+
+**题面**
+"我们到营地的时候天已经黑了，只能打着手电筒搭帐篷。"（"搭帐篷"用 **pitch a tent** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：By the time we got to the campsite it was already dark, so we had to pitch our tent by flashlight.
+
+- 2026-11-01 ❌ 首犯 · 学习日 复检第 3 组 [1]（🎓#186 题里）· 她标「这个动词学下」· 原话 `The kids spent the whole afternoon pitching（这个动词学下) a play tent in the living room, and left the floor in a total mess when they went to sleep.`
+
 ## 迁移说明（2026-08-18）
 
 ```
