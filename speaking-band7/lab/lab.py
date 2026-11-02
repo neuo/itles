@@ -5,6 +5,7 @@
 ⛔ 本脚本【一个字的内容都不产生】。行文全部由教练手写，脚本只碰位置和算术：
      · 读  problems.md / graduated.md / methods.md / sessions/
            ../question_bank.md / ../coach/asked.log（只读，重答队列实时算用）
+           ../coach/fluency_lab.md / ../coach/sessions/（只读，attempts 找 lab 之前的首答出处）
      · 写  drawn.log（append-only 出题流水）
      · 写  problems.md —— 仅 `append` 子命令，且仅两件机器活：
             ① 把教练写好的历史行插到正确位置  ② 连对／连错／上次 三个数重算
@@ -21,7 +22,8 @@
   记账（SKILL §7 顺序写死 —— 落盘之后）
     python3 speaking-band7/lab/lab.py append --file rows.md --date YYYY-MM-DD [--dry-run]
   统计与校验（SKILL §0.1 §8 §11）
-    python3 speaking-band7/lab/lab.py redo            重答队列（§5d，实时算，最久没重答的在最上面）
+    python3 speaking-band7/lab/lab.py redo            重答队列（§4④ §5d，实时算，最久没重答的在最上面）
+    python3 speaking-band7/lab/lab.py attempts bank:NNN [--date D]   一道题的全部旧答原文（§7④）
     python3 speaking-band7/lab/lab.py stats [--brief]
     python3 speaking-band7/lab/lab.py check [--changed | --all] [--quiet]
 
@@ -44,6 +46,8 @@ GRADUATED = os.path.join(ROOT, "graduated.md")
 METHODS = os.path.join(ROOT, "methods.md")
 QBANK = os.path.join(os.path.dirname(ROOT), "question_bank.md")
 ASKED = os.path.join(os.path.dirname(ROOT), "coach", "asked.log")
+# lab 之前的旧档案（只读）：attempts 在这里找 lab/sessions 之外的首答出处
+COACH = os.path.join(os.path.dirname(ROOT), "coach")
 SESSIONS = os.path.join(ROOT, "sessions")
 DRAWN = os.path.join(ROOT, "drawn.log")
 
@@ -727,6 +731,18 @@ def queue_key(e, today, days=None):
 RE_DROPPED = re.compile(r"(?:^|[,;；、\s])\s*#?(\d+)\s*=")
 
 
+def _drawn_ids(kind, field):
+    """流水一行第 4 格 → 编号集合。「弃」只认紧跟 `=` 的号（见 RE_DROPPED）。"""
+    if kind == "弃":
+        return {int(m.group(1)) for m in RE_DROPPED.finditer(field)}
+    got = set()
+    for x in re.split(r"[,\s]+", field):
+        x = x.split("=")[0].strip().lstrip("#")
+        if x.isdigit():
+            got.add(int(x))
+    return got
+
+
 def drawn_rows(day):
     """→ {"抽": set, "用": set, "免": set, "弃": set}　某一天的出题流水，按动作分开。
 
@@ -749,14 +765,7 @@ def drawn_rows(day):
         p = line.rstrip("\n").rstrip("\r").split("\t")
         if len(p) < 4 or p[0] != day or p[2] not in out:
             continue
-        if p[2] == "弃":
-            got = {int(m.group(1)) for m in RE_DROPPED.finditer(p[3])}
-        else:
-            got = set()
-            for x in re.split(r"[,\s]+", p[3]):
-                x = x.split("=")[0].strip().lstrip("#")
-                if x.isdigit():
-                    got.add(int(x))
+        got = _drawn_ids(p[2], p[3])
         if p[2] == "用":
             last_used[p[1]] = got       # ★ 后写覆盖先写（⛔ 不是 |=）
         else:
@@ -784,6 +793,57 @@ def read_drawn(today):
     # 「用」＝ 定稿出过　「免」＝ 她 ⚡ 免测（§4③）　「弃」＝ 题面搞坏了作废（◎）
     #  —— 三者都不该在同一天再被抽第二次
     return dr["用"] | dr["免"] | dr["弃"], groups
+
+
+# 「抽」行第 5 格：这一组属于哪条队列（pick 写，used_groups 读）
+QUEUE_TAG = {"pool": "在池", "grad": "复检"}
+RE_GROUP_TAG = re.compile(r"^第\s*(\d+)\s*组$")
+
+
+def used_groups(day, ents=None):
+    """→ (groups, guessed, top)　今天已经出过的组，按队列分开（§3.5 配额按当天算）。
+
+    groups  ＝ {'pool': {组号…}, 'grad': {组号…}} —— 这几组照样占当天的配额
+    guessed ＝ 队列是**推断**出来的组号（这一组没有带队列格的「抽」行，比如 `pick --dry` 抽的）
+    top     ＝ 今天出现过「用／免」的最大组号 ⇒ 重跑 pick 的组号从 top＋1 往下编
+              ⛔ 不从 1 重编：撞上已经 used 的组名，后一次 `used` 会把前一组的「用」整行覆盖掉
+    「出过」＝ 这一组最后一行「用」非空，或者有「免」（整组 ⚡ 免测也是出过）；
+      `used --used ""` 又没有「免」＝ 整组撤下来 ⇒ 不占配额。
+    队列取自这一组**最后一行「抽」**的第 5 格；没有 ⇒ 按**当天开场时**的状态多数推断：
+      毕业日早于当天的过半 ⇒ 复检（⛔ 不看现状：当天才毕业的条目抽的时候还在在池队列）。"""
+    last_used, exempt, queue = {}, defaultdict(set), {}
+    of_tag = {v: k for k, v in QUEUE_TAG.items()}
+    if os.path.exists(DRAWN):
+        for line in open(DRAWN, encoding="utf-8"):
+            p = line.rstrip("\n").rstrip("\r").split("\t")
+            if len(p) < 4 or p[0] != day:
+                continue
+            m = RE_GROUP_TAG.match(p[1].strip())
+            if not m:
+                continue
+            g = int(m.group(1))
+            if p[2] == "用":
+                last_used[g] = _drawn_ids("用", p[3])       # ★ 与 drawn_rows 同口径：后写覆盖先写
+            elif p[2] == "免":
+                exempt[g] |= _drawn_ids("免", p[3])
+            elif p[2] == "抽" and len(p) >= 5 and p[4].strip() in of_tag:
+                queue[g] = of_tag[p[4].strip()]
+    groups, guessed = {"pool": set(), "grad": set()}, set()
+    grad_now = None
+    touched = set(last_used) | set(exempt)
+    for g in sorted(touched):
+        ids = last_used.get(g, set()) | exempt.get(g, set())
+        if not ids:
+            continue
+        q = queue.get(g)
+        if q is None:
+            if grad_now is None:
+                grad_now = {e.num for e in (ents if ents is not None else load_all())
+                            if e.grad and e.grad < day}
+            q = "grad" if 2 * sum(1 for n in ids if n in grad_now) > len(ids) else "pool"
+            guessed.add(g)
+        groups[q].add(g)
+    return groups, guessed, max(touched, default=0)
 
 
 def append_drawn(line):
@@ -1473,8 +1533,9 @@ def cmd_redo(args):
     W = "═" * 78
     print(W)
     print("lab.py redo · 重答队列（§5d）· 实时算：legacy R1–R36 ∪ session 新题／加练／重答 ∪ asked.log")
-    print("  排序 ＝ 最久没重答的优先（上次动它 旧→新 → 首答日 → 编号）｜ 付息日 d 段从第 1 行往下取")
-    print("  d 段节标题写 `## d 段 重答 · bank:NNN`（没有 bank 行号的旧题才写 RN）")
+    print("  排序 ＝ 最久没重答的优先（上次动它 旧→新 → 首答日 → 编号）｜ 学习日 ③ 与付息日 d 段都从第 1 行往下取")
+    print("  节标题写 `## ③ 重答 · bank:NNN`（付息日 `## d 段 重答 · bank:NNN`；没有 bank 行号的旧题才写 RN）")
+    print("  答完跑 `lab.py attempts <题号>` 打出全部旧答，原样贴进 `### ④ 与旧答对比`（§7④）")
     print(W)
     for i, r in enumerate(rq, 1):
         first = r["first"] or "日期不明"
@@ -1491,6 +1552,85 @@ def cmd_redo(args):
               " ".join(r["id"] for r in unk))
     print(W)
     return 0
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  attempts —— 一道题的全部旧答（SKILL §7④ 旧答对比的原料）
+#     ⛔ 只读：不写任何文件；只打原文与出处，⛔ 不产生一个字的对比内容。
+# ══════════════════════════════════════════════════════════════════════════
+def legacy_mentions(key):
+    """lab 之前的旧档案（coach/fluency_lab.md ＋ coach/sessions/*.md）里提到这道题的行
+    → [(相对路径, 行号, 原文)]。只认 `question_bank.md:NNN` 这个写法。"""
+    m = re.fullmatch(r"bank:(\d+)", key or "")
+    if not m or not os.path.isdir(COACH):
+        return []
+    rx = re.compile(r"question_bank\.md\s*[:：]\s*%s(?!\d)" % m.group(1))
+    files = [os.path.join(COACH, "fluency_lab.md")]
+    sd = os.path.join(COACH, "sessions")
+    if os.path.isdir(sd):
+        files += [os.path.join(sd, f) for f in sorted(os.listdir(sd)) if f.endswith(".md")]
+    out = []
+    for p in files:
+        if not os.path.exists(p):
+            continue
+        for i, l in enumerate(open(p, encoding="utf-8"), 1):
+            if rx.search(l):
+                out.append((os.path.relpath(p, os.path.dirname(COACH)), i, l.strip()))
+    return out
+
+
+def cmd_attempts(args):
+    today = args.date or date.today().isoformat()
+    rq = {r["id"]: r for r in redo_queue()}
+    legacy = {f"bank:{b}" if b else rid: (rid, first, extra)
+              for rid, b, _t, first, _n, extra, _q in LEGACY_REDO}
+    rc = 0
+    for pid in args.ids:
+        k = redo_key(pid)
+        r = rq.get(k, {})
+        alias = redo_alias(k)
+        srcs = find_free_sources(k, today)
+        print(f"<!-- lab.py attempts · {today} · {k}{'（' + alias + '）' if alias else ''}"
+              f" · {r.get('type', '?')} · {r.get('text', '')} -->")
+        print(f"lab 里的旧答 {len(srcs)} 次（日期升序）—— 原样贴进 `### ④ 与旧答对比`，"
+              f"⛔ 不许压缩、不许省次")
+        print()
+        for n, s in enumerate(srcs, 1):
+            print(f"旧答 {n} · {s['date']} · {s['title']}（原篇 {s['file']}:L{s['line']}）")
+            raw = _quad_need(s["parts"].get("原话", []))
+            if not raw:
+                print("⛔ 原篇解析不出「她的原话」节 ⇒ 原篇写歪了，先修原篇")
+                rc = 1
+            for l in raw:
+                print(l)
+            # ★ 当时的更好版 ＋ 逐句 diff 一起打（她 2026-10-17 定：有多少次旧答给多少次）
+            #   围栏记号去掉 —— 整段要贴进 ④ 的同一个 ``` 块，内层围栏会把外层提前关掉
+            for key, name in (("更好版", "② 更好版"), ("逐句", "③ 逐句 diff")):
+                part = _quad_need(s["parts"].get(key, []))
+                print(f"（旧答 {n} · 当时的{name}）")
+                if not part:
+                    print(f"（原篇没有「{name}」这一节 —— 当时没写，⛔ 不补编）")
+                for l in part:
+                    print(l)
+            print()
+        lg = legacy.get(k)
+        first_lab = srcs[0]["date"] if srcs else None
+        if lg and (first_lab is None or lg[1] < first_lab):
+            rid, first, extra = lg
+            more = f"；lab 之外的重答日 {'、'.join(extra)}" if extra else ""
+            print(f"★ 首答 {first}（{rid}）在 lab/sessions 之前{more} —— 原话不在上面，"
+                  f"去下面的出处逐字抄进 ④（写成「旧答 · {first} · 首答（出处）」；找不到写「旧答 · 首答原话未存」；"
+                  f"当时的更好版／逐句 diff 旧档案里有就一并逐字抄，没有写「当时更好版 · 未存」）")
+        elif not srcs:
+            print("★ lab 里一次旧答都没有 —— 去下面的出处逐字抄进 ④；找不到写「旧答 · 首答原话未存」")
+        if (lg and (first_lab is None or lg[1] < first_lab)) or not srcs:
+            ms = legacy_mentions(k)
+            if not ms:
+                print("   （旧档案里没有提到这道题的行）")
+            for p, i, l in ms:
+                print(f"   {p}:L{i}  {l[:90]}")
+            print()
+    return rc
 
 
 def cmd_stats(args):
@@ -1727,6 +1867,14 @@ RE_SBLOCK = re.compile(r"^\[S(\d+)\]")
 RE_LOOK_NONE = re.compile(r"无(（|$|\s)")
 # 回看节必须把原篇四件套逐字写进 session（§4② §5⓪ §9.1⑦）—— 这天起写的回看节硬查
 LOOK_FROM = "2026-09-19"
+# 自由产出一律从答过的题里重答、⛔ 不出新题；重答节必带 `### ④ 与旧答对比`（§4④ §7④ §9.1⑧）
+#   —— 这天起写的 session 硬查
+COMPARE_FROM = "2026-10-14"
+COMPARE_KEY = "旧答对比"
+# ④ 里每次旧答除了原话，还要逐字摆出【当时的更好版 ＋ 逐句 diff】（她 2026-10-17 定）—— 这天起写的重答节硬查
+COMPARE_FULL_FROM = "2026-10-17"
+# 对比分析的四栏（行首认）：没有内容也要写「无」
+COMPARE_LABELS = ("进步", "退步", "没变", "总评")
 # session 首行的日型标记：`# 2026-09-11 · **R**（付息日 …）`
 RE_R_HEAD = re.compile(r"·\s*\*\*R\*\*")
 # 四件套在原篇里的 `###` 小节：(显示名, 标题里认的关键词)。⛔ 五层诊断不在四件套里
@@ -1929,6 +2077,13 @@ def check_session(sc, only=None):
             if sec["kind"] == "new":
                 P.append((LV, f"L{sec['line']}",
                           f"付息日（首行写着 R）却有【新题】节 —— §5 ⛔ 付息日不出新题"))
+    # ── §4④：这天起 ⛔ 不出新题（学习日也一样），自由产出一律重答 ──────────
+    elif sc["date"] >= COMPARE_FROM:
+        for sec in sc["sections"]:
+            if sec["kind"] == "new":
+                P.append((LV, f"L{sec['line']}",
+                          f"出现了【新题】节 —— §4④ ⛔ 不出新题：自由产出一律从答过的题里重答"
+                          f"（`lab.py redo` 第 1 行，节标题写 `## ③ 重答 · bank:NNN`）"))
 
     for sec in sc["sections"]:
         if only and sec["kind"] != only:
@@ -2083,6 +2238,9 @@ def check_session(sc, only=None):
                 P.append((LV, f"L{ln}",
                           f"`### {which}` 的正文用省略号截断了：`{s[:56]}`　"
                           f"§9.1③：**全文（一句都不省）**，⛔ 不许用 … 拼接"))
+            if sec["kind"] == "redo" and sc["date"] >= COMPARE_FROM:
+                for f_ in _compare_faults(sc, sec):
+                    P.append(("ERROR", loc, f_))
             sb = _blocks_in(sc, sec, RE_SBLOCK)
             if not sb:
                 P.append((LV, loc, "逐句 diff 里一个 `[S1]` 块都没有（§7③ 多句逐句走两段）"))
@@ -2136,6 +2294,78 @@ def _look_faults(sc, sec):
                 out.append(f"回看 {pid} 的「{name}」少了 {len(miss)}／{len(need)} 行"
                            f"（原篇 {where}）：`{miss[0][:48]}` —— "
                            f"跑 `lab.py lookback --print {pid}` 原样贴进本节（§4②：⛔ 不许压缩、不许省篇）")
+    return out
+
+
+def _compare_block(sc, sec):
+    """重答节里 `### ④ 与旧答对比` 的正文 → (标题行号 1-based, [原文行])；没有这一节 → (None, [])。
+    区段 ＝ 标题之后、下一个 `###`（围栏外）或节尾之前。"""
+    lines, at = sc["lines"], None
+    for i in range(sec["start"], sec["end"]):
+        if i in sc["infence"]:
+            continue
+        m = RE_H3.match(lines[i])
+        if not m:
+            continue
+        if at is not None:
+            return at + 1, lines[at + 1:i]
+        if COMPARE_KEY in m.group(1):
+            at = i
+    return (None, []) if at is None else (at + 1, lines[at + 1:sec["end"]])
+
+
+def _compare_faults(sc, sec):
+    """重答节的旧答对比闸（§7④ §9.1⑧）→ [说明]。
+    ① 必须有 `### ④ 与旧答对比`
+    ② lab 里这道题**每一次**更早的作答（新题／重答／加练），原话的每一个内容行都要在本节逐字出现
+       —— ⛔ 不许压缩、不许省次；多写不管（参考的更好版、旁注照样允许）
+    ③ lab 里一次旧答都没有（首答在 lab/sessions 之前）⇒ 至少写一行「旧答 …」（抄自旧档案，或写明未存）
+    ④ 四栏 进步／退步／没变／总评 行首各出现一次（没有就写「无」）"""
+    ln, blk = _compare_block(sc, sec)
+    if ln is None:
+        return [f"重答节缺 `### ④ 与旧答对比` —— §7④：逐字摆出每一次旧答的原话，"
+                f"再写 进步／退步／没变／总评（跑 `lab.py attempts <题号>` 原样贴）"]
+    out = []
+    rows = [l.strip() for l in blk if l.strip()]
+    body = set(rows)
+    keys = []
+    for pid in _ids_of(sec["title"]):
+        k = redo_key(pid)
+        if k not in keys:
+            keys.append(k)
+    for k in keys:
+        srcs = find_free_sources(k, sc["date"])
+        if not srcs:
+            if not any("旧答" in s for s in rows if not s.startswith("#")):
+                out.append(f"「{COMPARE_KEY}」没摆任何旧答 —— lab 里没有 {k} 更早的作答 ⇒ "
+                           f"首答在 lab 之前：按 `lab.py attempts {k}` 列的出处逐字抄进来，"
+                           f"真没存写一行「旧答 · 首答原话未存」")
+            continue
+        for n, src in enumerate(srcs, 1):
+            where = f"{src['file']}:L{src['line']}"
+            if "原话" not in src["parts"]:
+                out.append(f"旧答 {n}（{src['date']} · 原篇 {where}）解析不出「她的原话」节 "
+                           f"⇒ 原篇写歪了（§9.1③），无从逐字转述")
+                continue
+            need = _quad_need(src["parts"]["原话"])
+            miss = [x for x in need if x not in body]
+            if miss:
+                out.append(f"「{COMPARE_KEY}」里旧答 {n}（{src['date']} · 原篇 {where}）的原话"
+                           f"少了 {len(miss)}／{len(need)} 行：`{miss[0][:48]}` —— "
+                           f"跑 `lab.py attempts {k}` 原样贴（⛔ 不许压缩、不许省次）")
+            # ★ 2026-10-17 起：当时的更好版 ＋ 逐句 diff 也要逐字在（原篇没写这一节就不查）
+            if sc["date"] >= COMPARE_FULL_FROM:
+                for key, name in (("更好版", "② 更好版"), ("逐句", "③ 逐句 diff")):
+                    need2 = _quad_need(src["parts"].get(key, []))
+                    miss2 = [x for x in need2 if x not in body]
+                    if miss2:
+                        out.append(f"「{COMPARE_KEY}」里旧答 {n}（{src['date']} · 原篇 {where}）当时的{name}"
+                                   f"少了 {len(miss2)}／{len(need2)} 行：`{miss2[0][:48]}` —— "
+                                   f"跑 `lab.py attempts {k}` 原样贴（每次旧答的原话 ＋ 更好版 ＋ 逐句 diff 都要在）")
+    for lab_ in COMPARE_LABELS:
+        if not any(s.startswith(lab_) for s in rows):
+            out.append(f"「{COMPARE_KEY}」缺「{lab_}」一栏（行首写 `{lab_}`）—— "
+                       f"§7④ 四栏 进步／退步／没变／总评，没有就写「无」")
     return out
 
 
@@ -2343,30 +2573,37 @@ def _quad_need(part):
     return [l.strip() for l in part if l.strip() and not l.startswith("```")]
 
 
-def find_free_source(pid, before):
-    """→ 题号为 pid、日期早于 before 的**最近一篇**自由产出原篇：
-    dict(file, date, line, parts)；找不到 → None。
-    同一份 session 里同一题号的几个节（抽题记录＋逐题记录）合并取四件套。"""
+def find_free_sources(pid, before):
+    """→ 题号为 pid、日期早于 before 的**全部**自由产出原篇（日期升序）：
+    [dict(file, date, line, title, parts)]；一篇都没有 → []。
+    同一份 session 里同一题号的几个节（抽题记录＋逐题记录）合并成一篇、合并取四件套。"""
     if not os.path.isdir(SESSIONS):
-        return None
-    best = None
+        return []
+    out = []
     for f in sorted(os.listdir(SESSIONS)):
         m = RE_SESS_NAME.match(f)
         if not m or m.group(1) >= before:
             continue
         sc = scan_session(os.path.join(SESSIONS, f))
-        parts, line = {}, None
+        parts, line, title = {}, None, ""
         for s in sc["sections"]:
             # ★ 旧 R 号与它的 bank:NNN 是同一道题（redo_key）
             if s["kind"] not in ("new", "redo", "extra") or \
                     redo_key(pid) not in {redo_key(x) for x in _ids_of(s["title"])}:
                 continue
-            line = line or s["line"]
+            if not line:
+                line, title = s["line"], s["title"]
             for k, v in _quad_parts(sc, s).items():
                 parts.setdefault(k, v)
         if line:
-            best = dict(file=f, date=sc["date"], line=line, parts=parts)
-    return best
+            out.append(dict(file=f, date=sc["date"], line=line, title=title, parts=parts))
+    return out
+
+
+def find_free_source(pid, before):
+    """→ 题号为 pid、日期早于 before 的**最近一篇**自由产出原篇；找不到 → None。"""
+    srcs = find_free_sources(pid, before)
+    return srcs[-1] if srcs else None
 
 
 def cycle_free_ids(today):
@@ -3240,7 +3477,10 @@ def cmd_pick(args):
     """§3.5 召回队列 —— 一条梯子、两条队列（在池／复检），逾期分排序。
 
     ⛔ 教练不许自己挑题、不许自己排序：候选、顺序、分组全在这里定死，
-       同一天重跑这条命令结果完全一样（`used`／`免测` 过的自动不再出现）。"""
+       同一天重跑这条命令结果完全一样（`used`／`免测` 过的自动不再出现）。
+    ★★ 配额按【当天】算：今天已经出过的组**照样占配额**（used_groups）⇒ 中途重跑只排剩下的几组，
+       组号接着已出过的往下编；开场那份计划出完 ⇒ 报「今天的配额已经出完」、不再给新组。
+       ⛔ 不扣的后果：开场的组用完之后在池到期 0 ⇒ 下溢 ＝ 整个上限 ⇒ 每重跑一次白给一整份复检配额。"""
     today = args.date or date.today().isoformat()
     if args.type not in QUOTA:
         sys.exit(f"⛔ --type 只认 {' / '.join(QUOTA)}（learn ＝ 学习日，review ＝ 付息日）")
@@ -3249,11 +3489,14 @@ def cmd_pick(args):
                  f"（0 会直接抛 ValueError，负数会静默出 0 组还谎报「没有到期的」）")
     days = practice_days()
     npool, ngrad = QUOTA[args.type]
-    used, done = read_drawn(today)
+    used, _ = read_drawn(today)
+    ents = load_all()
+    ug, guessed, top = used_groups(today, ents)
+    pool_used, grad_used = len(ug["pool"]), len(ug["grad"])
 
     drop = defaultdict(list)
     cand = []
-    for e in load_all():
+    for e in ents:
         if e.tomb:
             continue
         if not e.recallable:
@@ -3296,28 +3539,52 @@ def cmd_pick(args):
 
     # ── 分组：在池是**上限**，空出来的组数下溢给复检（⛔ 反向不成立）────────
     want_pool = args.scope in ("pool", "both")
-    pool_g = partition([[e] for e in pool], args.size)[:npool] if want_pool else []
+    cap_left = max(npool - pool_used, 0)              # ★ 今天已出的在池组照样占上限
+    pool_g = partition([[e] for e in pool], args.size)[:cap_left] if want_pool else []
     # ⚠️ 下溢只在【真的排了在池队列却没排满】时成立。
     #    --scope grad 时 pool_g 天然是空的，那不是"排不满"，是"根本没排" ——
     #    无条件 spill = npool 会把复检配额悄悄翻几倍。
-    spill = max(npool - len(pool_g), 0) if want_pool else 0
-    ngrad_eff = (ngrad + spill) if args.scope in ("grad", "both") else 0
+    # ★ 下溢按**全天**的在池组数算（已出 ＋ 还要出），⛔ 不按「剩下还要出几组」算
+    spill = max(npool - (pool_used + len(pool_g)), 0) if want_pool else 0
+    grad_quota = ngrad + spill
+    grad_left = max(grad_quota - grad_used, 0)        # ★ 今天已出的复检组照样占配额
+    ngrad_eff = grad_left if args.scope in ("grad", "both") else 0
     grad_g = partition(bundle(grd), args.size)[:ngrad_eff]
+    if pool_used or grad_used:
+        print(f"★ 今天已出 在池 {pool_used} 组 ／ 复检 {grad_used} 组"
+              f"（{'、'.join(f'第 {g} 组' for g in sorted(ug['pool'] | ug['grad']))}）"
+              f" ⇒ 在池还能出 {cap_left} 组 ／ 复检还能出 {grad_left} 组"
+              f"（复检全天配额 {ngrad} ＋ 下溢 {spill} ＝ {grad_quota} 组）")
+        if guessed:
+            print(f"   ⚠️ {'、'.join(f'第 {g} 组' for g in sorted(guessed))} 没有带队列的「抽」行"
+                  f"（`pick --dry` 抽的？）⇒ 队列按当天开场时的状态推断")
     if spill:
-        print(f"★ 在池只排得出 {len(pool_g)} 组（上限 {npool}）⇒ 空出的 {spill} 组"
-              f"**下溢给复检队列** ⇒ 复检 {ngrad} ＋ {spill} ＝ {ngrad_eff} 组")
+        print(f"★ 在池全天 {pool_used + len(pool_g)} 组（上限 {npool}）⇒ 空出的 {spill} 组"
+              f"**下溢给复检队列** ⇒ 复检 {ngrad} ＋ {spill} ＝ {grad_quota} 组")
+    if args.scope == "both" and grad_used > grad_quota:
+        print(f"⚠️ 今天已出的复检组（{grad_used}）超出了全天配额（{grad_quota}）"
+              f"—— 超出的补不回来，如实记进 session")
+    if args.scope == "both" and not pool_g and not grad_g and (pool_used or grad_used):
+        if (pool and not cap_left) or (grd and not grad_left):
+            print("★★ **今天的配额已经出完** ⇒ ⛔ 没有新组可出（§3.5 配额按当天算）")
+        else:
+            print("★★ 今天到期的都已经出完 ⇒ 没有新组可出")
 
-    gno = 0
-    for name, gs in (("在池组", pool_g), ("复检组", grad_g)):
+    gno = top                                         # ★ 接着今天已出过的组号往下编
+    for name, q_key, gs in (("在池组", "pool", pool_g), ("复检组", "grad", grad_g)):
         if not gs:
-            print(f"\n── {name} ── 空（队列里没有到期的）")
+            left = cap_left if q_key == "pool" else grad_left
+            due_q = pool if q_key == "pool" else grd
+            why = ("今天的配额已经出完" if due_q and not left and (pool_used or grad_used)
+                   else "队列里没有到期的")
+            print(f"\n── {name} ── 空（{why}）")
             continue
         for bk in gs:
             gno += 1
             tag = f"第 {gno} 组"
             ncond = sum(len(q) for q in bk)
             print(f"\n── {name} · {tag}（**{len(bk)} 题 / 覆盖 {ncond} 条**）"
-                  + ("　✅ 已 used" if tag in done else "") + " " + "─" * 20)
+                  + " " + "─" * 20)
             for qi, q in enumerate(bk, 1):
                 if len(q) > 1:
                     print(f"  [{qi}] 打包 · " + " ".join(f"#{e.num}" for e in q)
@@ -3336,7 +3603,7 @@ def cmd_pick(args):
             if not args.dry:
                 append_drawn("\t".join(
                     [today, tag, "抽",
-                     ",".join(str(e.num) for q in bk for e in q)]))
+                     ",".join(str(e.num) for q in bk for e in q), QUEUE_TAG[q_key]]))
 
     print("\n" + "─" * 78)
     print("⛔ 每一题都要**换场景新写**题面（§6①）：先跑 `lab.py prompts N N N` 看种子与已发过的，"
@@ -3725,6 +3992,11 @@ def main():
 
     p = sub.add_parser("redo", help="重答队列（§5d）：实时算，最久没重答的在最上面（只读）")
     p.set_defaults(func=cmd_redo)
+
+    p = sub.add_parser("attempts", help="一道题的全部旧答原文与出处（§7④ 旧答对比用，只读）")
+    p.add_argument("ids", nargs="+", metavar="ID", help="bank:NNN／RN")
+    p.add_argument("--date", help="把哪一天当「今天」：只打这天之前的旧答（默认今天）")
+    p.set_defaults(func=cmd_attempts)
 
     p = sub.add_parser("stats", help="全档统计（每个数带编号清单）")
     p.add_argument("--brief", action="store_true")

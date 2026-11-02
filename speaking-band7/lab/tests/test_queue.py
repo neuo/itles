@@ -370,6 +370,154 @@ with sandbox(p_text=P, g_text="# 已毕业档\n", sessions=False) as d:
     st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
     ck("到期却没题面的会在抬头点名", "没有题面" in out and "#85" in out)
 
+# ══════════════════════════════════════════════════════════════════════════
+head("⑦b pick —— 配额按【当天】算：今天已经出过的组照样占配额")
+import re
+
+
+def plan_rows(d):
+    """今天 drawn.log 里每个组号**最后一行**「抽」→ {组号: (队列格, [编号…])}"""
+    out = {}
+    if not os.path.exists(os.path.join(d, "drawn.log")):
+        return out
+    for l in read(d, "drawn.log").split("\n"):
+        p = l.split("\t")
+        if len(p) >= 4 and p[0] == TODAY and p[2] == "抽":
+            out[int(re.search(r"\d+", p[1]).group())] = (p[4] if len(p) > 4 else None,
+                                                         p[3].split(","))
+    return out
+
+
+def use(plan, gnos):
+    for g in gnos:
+        run(lab.cmd_used, Args(group=g, used=",".join(plan[g][1]), date=TODAY))
+
+
+def shown(out, name):
+    return [int(x) for x in re.findall(r"── " + name + r" · 第 (\d+) 组", out)]
+
+
+def n_draw(d):
+    return len([1 for l in read(d, "drawn.log").split("\n") if "\t抽\t" in l])
+
+
+def opening(d, typ):
+    lab._PDAYS = None
+    run(lab.cmd_pick, Args(type=typ, date=TODAY, dry=False))
+    return plan_rows(d)
+
+
+#  ── 学习日 ──
+P, G = big(60, 60)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "learn")
+    ck("「抽」行第 5 格写了队列：第 1–3 组 在池、第 4 组 复检",
+       {g: q for g, (q, _) in plan.items()} == {1: "在池", 2: "在池", 3: "在池", 4: "复检"},
+       {g: q for g, (q, _) in plan.items()})
+    use(plan, [1, 2, 3, 4])
+    n0 = n_draw(d)
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=False))
+    ck("学习日 开场的组全用完 ⇒ 重跑一组都不给",
+       not shown(out, "在池组") and not shown(out, "复检组"),
+       (shown(out, "在池组"), shown(out, "复检组")))
+    ck("…… 两条队列都还有到期的（是配额管住的、⛔ 不是到期条目用光了）",
+       re.search(r"在池 [1-9]\d* ／ 复检 [1-9]", out) is not None,
+       [l for l in out.split("\n") if "今天到期" in l])
+    ck("…… 报「今天的配额已经出完」", "今天的配额已经出完" in out, out[-500:])
+    ck("…… ⛔ 不写「抽」流水", n_draw(d) == n0, (n0, n_draw(d)))
+P, G = big(60, 60)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "learn")
+    use(plan, [1])
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("学习日 在池只出了 1 组 ⇒ 重跑只给剩下的：在池第 2、3 组 ＋ 复检第 4 组",
+       shown(out, "在池组") == [2, 3] and shown(out, "复检组") == [4],
+       (shown(out, "在池组"), shown(out, "复检组")))
+    grp = out.split("── 在池组", 1)[1]
+    ck("…… 第 1 组的编号⛔不再出",
+       not any(f"#{n} " in grp or f"#{n}\n" in grp for n in plan[1][1]))
+P, G = big(4, 60)                                     # 在池只够 1 组 ⇒ 开场下溢 2
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "learn")
+    ck("前提：开场 在池 1 组 ＋ 复检 3 组",
+       [q for _, (q, _) in sorted(plan.items())] == ["在池", "复检", "复检", "复检"], plan.keys())
+    use(plan, [1])
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("学习日 在池那 1 组出完 ⇒ 下溢仍按全天 1 组算 ＝ 2 ⇒ 复检仍是第 2–4 组（⛔ 不涨成 4 组）",
+       shown(out, "复检组") == [2, 3, 4], shown(out, "复检组"))
+P, G = big(60, 60)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "learn")
+    run(lab.cmd_used, Args(group=1, used="", date=TODAY))          # 整组撤下来
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("整组撤下来（`used --used \"\"`、没有「免」）⇒ ⛔ 不占配额：在池仍是 3 组",
+       len(shown(out, "在池组")) == 3, shown(out, "在池组"))
+    ck("…… 组号也⛔不复用撤下来的那个（从第 2 组往下编）",
+       shown(out, "在池组") == [2, 3, 4] and shown(out, "复检组") == [5],
+       (shown(out, "在池组"), shown(out, "复检组")))
+P, G = big(60, 60)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "learn")
+    run(lab.cmd_used, Args(group=1, used="", exempt=",".join(plan[1][1]), date=TODAY))
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("整组 ⚡ 免测 ＝ 出过 ⇒ 照样占配额（在池只剩第 2、3 组）",
+       shown(out, "在池组") == [2, 3], shown(out, "在池组"))
+P, G = big(60, 60)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    lab._PDAYS = None
+    st, rc, out0 = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))   # --dry ⇒ 没有「抽」行
+    sec1 = out0.split("── 在池组 · 第 1 组", 1)[1].split("── ", 1)[0]
+    ids1 = sorted(set(re.findall(r"\[\d+\] #(\d+)", sec1)))
+    run(lab.cmd_used, Args(group=1, used=",".join(ids1), date=TODAY))
+    st, rc, out = run(lab.cmd_pick, Args(type="learn", date=TODAY, dry=True))
+    ck("`pick --dry` 抽的组没有队列格 ⇒ 按当天开场时的状态推断成在池、照样占配额",
+       len(ids1) == 10 and shown(out, "在池组") == [2, 3] and shown(out, "复检组") == [4],
+       (len(ids1), shown(out, "在池组"), shown(out, "复检组")))
+    ck("…… 推断的组有明说", "没有带队列的「抽」行" in out, out[:600])
+
+#  ── 付息日（在池 2 组 ⇒ 下溢 3 ⇒ 复检全天 6 组）──
+P, G = big(20, 150)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "review")
+    ck("付息日 开场：在池第 1、2 组 ＋ 复检第 3–8 组",
+       [g for g, (q, _) in sorted(plan.items()) if q == "在池"] == [1, 2]
+       and [g for g, (q, _) in sorted(plan.items()) if q == "复检"] == [3, 4, 5, 6, 7, 8],
+       {g: q for g, (q, _) in plan.items()})
+    use(plan, [1, 2, 3, 4, 5])
+    st, rc, out = run(lab.cmd_pick, Args(type="review", date=TODAY, dry=False))
+    ck("付息日 在池出完、复检出了 3 组 ⇒ 下溢仍是 3（⛔ 不按「在池剩 0 组」涨成 5）⇒ 只给复检第 6–8 组",
+       not shown(out, "在池组") and shown(out, "复检组") == [6, 7, 8],
+       (shown(out, "在池组"), shown(out, "复检组")))
+    ck("…… 抬头写清已出／还能出／全天配额",
+       "今天已出 在池 2 组 ／ 复检 3 组" in out and "复检还能出 3 组" in out
+       and "复检全天配额 3 ＋ 下溢 3 ＝ 6 组" in out,
+       [l for l in out.split("\n") if "今天已出" in l])
+    use(plan_rows(d), [6, 7, 8])
+    st, rc, out = run(lab.cmd_pick, Args(type="review", date=TODAY, dry=True))
+    ck("付息日 开场的组全用完 ⇒ 重跑一组都不给、报「今天的配额已经出完」",
+       not shown(out, "在池组") and not shown(out, "复检组") and "今天的配额已经出完" in out,
+       (shown(out, "在池组"), shown(out, "复检组")))
+P, G = big(20, 150)
+with sandbox(p_text=P, g_text=G, sessions=False) as d:
+    mk_sessions(d)
+    plan = opening(d, "review")
+    use(plan, [1, 2, 3, 4, 5, 6, 7, 8])
+    planned = {int(n) for _, (_, ns) in plan.items() for n in ns}
+    extra = [n for n in range(500, 650) if n not in planned][:20]
+    run(lab.cmd_used, Args(group=9, used=",".join(map(str, extra[:10])), date=TODAY))
+    run(lab.cmd_used, Args(group=10, used=",".join(map(str, extra[10:])), date=TODAY))
+    st, rc, out = run(lab.cmd_pick, Args(type="review", date=TODAY, dry=True))
+    ck("复检已出 8 组 ＞ 配额 6 ⇒ 还能出 0 组（⛔ 不出负数、⛔ 不再给）",
+       not shown(out, "复检组") and "复检还能出 0 组" in out, shown(out, "复检组"))
+    ck("…… 超出配额有提示", "超出了全天配额" in out, out[:800])
+
 st, rc, out = None, None, None
 with sandbox(p_text=archive([entry(90)]), g_text="# 已毕业档\n", sessions=False) as d:
     mk_sessions(d)

@@ -8,6 +8,270 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-10-30 · 口语 L1（周期 15 第 1 个学习日）· 已收尾**
+  —— 在池 2 组 **15 题 / 15 条 ✅15 ❌0**；复检 2 组（含下溢 1 组）**19 题 / 23 条 ✅23 ❌0**
+  —— 🎓 **毕业 11 条**（#548–#558）⇒ 全档 **541** ＝ problems 18 ＋ graduated **523**（96.7%）
+  —— ⚠️ **回潮 1**：🎓#338 end up ＋ -ing（`ending up with smearing cream …`：end up 和 -ing 中间夹了 with）；同一场后来 `ended up getting` 用对了，只留 📝
+  —— 🆕 **新建 3 条** #563–#565（她标学下 3：stall 熄火 · hail 冰雹 · grand 一千块）
+  —— 自发命中 3：🎓#494 can't bring himself to · 🎓#485 smear … all over his face · 🎓#501 dropped off ｜ 书面登记 1（forbid it from → don't let it）｜ ⚪ 2（#56 for photo · #63 the downtown）
+  —— 种子整改：🎓#357 点名补 logic（零提示被她用 reasoning skills 绕开）
+  —— ② 回看 bank:478；④ 重答 bank:340 题面已发、她没答就收尾 ⇒ 不记账
+  —— 数据修补：2026-08-16.md 补 bank:340 四件套逐字回补（attempts 现在解析得出）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 中途 10⇄1、收尾 1⇄0
+  —— **下一场 ＝ 周期 15 · L2**：回潮 #338 ＋ 连对1 的 4 条（#559–#562）＋ #563–#565 首测；复检以 pick 为准；② 回看 lookback --pending；④ 重答 bank:340（P2 现场看的体育赛事）＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-27 · 口语 R（付息日 · 周期 14 收尾）· 已收尾**
+  —— 在池 2 组 **18 题 / 18 条 ✅18 ❌0**；复检 2 组（在池只排 2 组，下溢 3 组但到期只够 2 组）**18 题 / 26 条 ✅26 ❌0**；回潮 0
+  —— 🎓 **毕业 7 条**（#541–#547）⇒ 全档 **538** ＝ problems 25 ＋ graduated **513**（95.4%）
+  —— 🆕 **新建 4 条** #559–#562（她标学下 2：flip through · tremble ｜ ⚠️ 2：trendy（⛔ famous，网红店）· the next／past few days（⛔ these days，"这几天"））
+  —— 自发命中 3：🎓#146 learned from · 🎓#354 As for who … · 🎓#288 As long as … costs something, people will … think twice ｜ 书面登记 1（which offers both → has both）
+  —— 种子整改：🎓#519 点名改 run · 🎓#290 点名补 for · 🎓#464 补换场景口径（她三处都答了合法的另一种说法，记 ✅）
+  —— ⓪ 回看 3 篇（bank:211 · bank:349 · bank:1286）；d 重答 bank:478（P2 环保法律）首答 6 处真错 → 这次 0 处（⚪ 1：news 不带 the）；机制句升级成 think twice；丢了首答"每件外套里塞一只折好的袋子"那个画面；who benefits 两次都只说 everyone
+  —— 数据修补：2026-08-15.md 补 bank:478 四件套逐字回补（抄自 coach/fluency_lab.md）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄0 ｜ c 段合并 0
+  —— **下一场 ＝ 周期 15 · L1**：#559–#562 首测 ＋ 连对1 的 11 条（#548–#558）；复检以 pick 为准；② 回看 bank:478；④ 重答 redo 第 1 行（bank:340 · P2 现场看的体育赛事）＋ 与旧答对比（⚠️ 首答在 08-16 那一节，先逐字回补）
+
+🆕🆕🆕 **2026-10-26 · 口语 L3（周期 14 第 3 个学习日）· 已收尾**
+  —— 在池 1 组 **10 题 / 10 条 ✅10 ❌0**；复检 1 组（在池只排 1 组，下溢 2 组但到期只够 1 组）**10 题 / 14 条 ✅14 ❌0**；回潮 0
+  —— 🎓 **毕业 3 条**（#538 #539 #540）⇒ 全档 **534** ＝ problems 28 ＋ graduated **506**（94.8%）
+  —— 🆕 **新建 11 条** #548–#558（她标学下／背下 9：lay out · villain · crouch down · stench · smelly · right down to · nothing to write home about · frost · a trip down memory lane ｜ ⚠️ 2：old-fashioned（⛔ legacy）· at one's desk（⛔ station））
+  —— ⚠️ 复检 🎓#215 原判 ❌ 回潮（On opening my suitcase, a nasty stench … hit me）⇒ 她提异议，当场改判 ✅：主句主语不可能做那个动作、做的人在主句里当宾语 ⇒ 口语放过；正文补边界、题面节补 ★（后半句主语必须是"也可能做那个动作的人"）
+  —— 自发命中 2：🎓#251 spent the whole day baking · 🎓#215 Having been a programmer …, I
+  —— ② 回看 bank:349；③ 重答 bank:1286（P2 特别的蛋糕）首答 10 处真错 → 这次 0 处；首答更好版的"她花了心思"这层自己说出来了；还差 hello world／0 errors 对程序员意味着什么那一步
+  —— 数据修补：2026-08-15.md 补一节 bank:1286 四件套逐字回补（抄自 coach/fluency_lab.md），attempts 才解析得出首答
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄0
+  —— **下一场 ＝ 周期 14 · R（付息日）**：a 在池 #548–#558 首测 ＋ 连对1 的 7 条（#541–#547）；⓪ 回看 lookback --cycle（bank:211 · bank:349 · bank:1286）；a2 复检；c 合并去重；d 重答 bank:478 ＋ 与旧答对比（⚠️ 首答同在 08-15 那一节，先照 bank:1286 的做法逐字回补）
+
+🆕🆕🆕 **2026-10-25 · 口语 L2（周期 14 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **16 题 / 16 条 ✅16 ❌0**；复检 2 组（含下溢 1 组）**20 题 / 25 条 ✅25 ❌0**；回潮 0
+  —— 🎓 **毕业 13 条**（#340 #525–#535 #537）⇒ 全档 **523** ＝ problems 20 ＋ graduated **503**（96.2%）
+  —— 🆕 **新建 7 条** #541–#547（她标学下 6：ponytail · bumper-to-bumper · pet · quarter-final · middle ground · like-minded ｜ ⚠️ 1：backstory（⛔ background story））
+  —— 自发命中 2：🎓#501 drop off · #537 put together（今天第二次 ✅ ⇒ 毕业）
+  —— ② 回看 bank:211；③ 重答 bank:349（P3 在哪儿看比赛）首答 2 处真错 → 这次 0 处；先立尺子再按偏好分三档，衔接问题解决
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 13⇄0
+  —— **下一场 ＝ 周期 14 · L3**：#541–#547 首测 ＋ 连对1 的 3 条（#538–#540）；复检以 pick 为准；② 回看 bank:349；④ 重答 redo 第 1 行（bank:1286）＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-24 · 口语 L1（周期 14 第 1 个学习日）· 已收尾**
+  —— 在池 3 组 **21 题 / 21 条 ✅21 ❌0**；复检 1 组 **10 题 / 13 条 ✅13 ❌0**；回潮 0
+  —— 🎓 **毕业 9 条**（#436 #515 #518 #519 #520 #521 #522 #523 #524）⇒ 全档 **516** ＝ problems 26 ＋ graduated **490**（95.0%）
+  —— 🆕 **新建 4 条** #537–#540（她标学下 2：put together · munch on ｜ 真错 1：cash register（⛔ cashier）｜ ⚠️ 1：right where sb stood）；#536（There is 后多一个 is）她说手滑 ⇒ 撤销、编号作废
+  —— ② 回看 无；③ 重答 bank:211（P2 种菜种花的外公）首答 11 处真错 → 这次 0 处；首答那句 these plants need him and he needs them 没出来、why 那段循环
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 9⇄0
+  —— **下一场 ＝ 周期 14 · L2**：#537–#540 首测 ＋ 连对1 的 12 条；复检 1 组（今天剩 4 条排最前）；② 回看 bank:211；④ 重答 redo 第 1 行（bank:349）＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-22 · 口语 R（付息日 · 周期 13 收尾）· 已收尾**
+  —— 在池 2 组 **15 题 / 15 条 ✅15 ❌0**；复检 3 组 **26 题 / 31 条 ✅30 ❌1**；🎓#340（a step up from that）❌ ⇒ 回潮 1
+  —— 🎓 **毕业 7 条**（#215 #511 #512 #513 #514 #516 #517）⇒ 全档 **512** ＝ problems 31 ＋ graduated **481**（93.9%）
+  —— 🆕 **新建 11 条** #525–#535（她标背下／学下 8：down jacket · in public · get the hang of · smash in · pass out · wreath · pinecone · ribbon ｜ 真错 2：come top（⛔ came the top of）· credit 不可数 ｜ ⚠️ 1：on the doorstep）
+  —— ⓪ 回看 bank:991 · bank:308；c 段 合并 0 · 拆号 0；d 段 bank:211 题面已发，她喊停收尾 ⇒ 0 道（仍是 redo 第 1 行）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄1（中途）· 收尾无可搬
+  —— **下一场 ＝ 周期 14 · L1**：#525–#535 首测 ＋ 回潮 #340 ＋ 连对1 的 9 条；复检 1 组；② 回看以 `lookback --pending` 为准；④ 重答 bank:211 ＋ 与旧答对比（首答在 coach/fluency_lab.md:L6136，完整版／diff 在 L6243–L6325）
+
+🆕🆕🆕 **2026-10-21 · 口语 L3（周期 13 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 2 组 **20 题 / 21 条 ✅21 ❌0**；题里顺带 🎓#436（downstairs from）❌ ⇒ 回潮 1
+  —— 🎓 **毕业 5 条**（#506 #507 #508 #509 #510）⇒ 全档 **501** ＝ problems 26 ＋ graduated **475**（94.8%）
+  —— 🆕 **新建 7 条** #518–#524（全是她标学下／背下：spend ＋ 时间 ＋ 状态 · run errands · outpatient · sanitation worker · be on the fence about · terraced fields · itinerary）
+  —— ② 回看 bank:308；④ 重答 bank:211 题面已发，她喊停收尾 ⇒ 今天没做（仍是 redo 第 1 行）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 5⇄1（中途）· 收尾无可搬
+  —— **下一场 ＝ 周期 13 · R（付息日）**：#518–#524 首测 ＋ 回潮 #436 ＋ 连对1 的 8 条；⓪ 回看 bank:991 · bank:308；复检 3 组（今天剩 7 条排最前）；c 段 review；d 重答从 bank:211 起 ＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-20 · 口语 L2（周期 13 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **14 题 / 14 条 ✅14 ❌0**；复检 2 组 **20 题 / 22 条 ✅22 ❌0**；题里顺带 🎓#215（-ing 短语省主语）❌ ⇒ 撤销退池＋回潮 1
+  —— 🎓 **毕业 9 条**（#251 #490 #499 #500 #501 #502 #503 #504 #505）⇒ 全档 **494** ＝ problems 23 ＋ graduated **471**（95.3%）
+  —— 🆕 **新建 7 条** #511–#517（她标背下／问怎么说 5：auction vs charity sale · finish ＋ 东西（看完）· pajamas · gown · didn't bother to ｜ 真错 1：I distinctly remember ｜ ⚠️ 1：a day job）
+  —— ② 回看 bank:991；④ 重答 bank:308（P2 团队合作 · 机器人复原魔方）首答 10 处零件错 → 这次 0 处；新冒 distinctively；第 4 个 bullet（为什么是团队）没接
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 9⇄1
+  —— **下一场 ＝ 周期 13 · L3**：#511–#517 首测 ＋ 回潮 #215 ＋ 连对1 的 #506–#510；复检（今天剩 11 条排最前）；② 回看 bank:308；④ 重答 bank:211 ＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-19 · 口语 L1（周期 13 第 1 个学习日）· 已收尾**
+  —— 在池 3 组 **22 题 / 22 条 ✅22 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**；回潮 0
+  —— 🎓 **毕业 15 条**（#467 #481 #484 #486 #487 #488 #489 #491 #492 #493 #494 #495 #496 #497 #498）⇒ 全档 **487** ＝ problems 24 ＋ graduated **463**（95.1%）
+  —— 🆕 **新建 5 条** #506–#510（全是她标学下：call it quits · rummage through · the thing sb looks forward to the most · set off · know the ins and outs of）
+  —— ② 回看 bank:834；③ 重答 bank:991（P3 企业培训）首答 9 处 ❌ → 这次 0 处，老缺口＝公司那半没例子
+  —— 题面整改 3：#251 cost／take 双点名 · #487 动物限小东西 · 🎓#290 补点名 reasons
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 15⇄0
+  —— **下一场 ＝ 周期 13 · L2**：#506–#510 首测 ＋ 连对1 的 9 条；复检 1 组；② 回看 bank:991；④ 重答 bank:308 ＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-17 · 口语 R 付息日（周期 12 收尾）· 已收尾**
+  —— 在池 2 组 **20 题 / 20 条 ✅20 ❌0**；复检 4 组 **34 题 / 37 条 ✅37 ❌0**；d 段重答 bank:834 里 🎓#251 ❌ ⇒ 回潮 1
+  —— 🎓 **毕业 8 条**（#474 #477 #478 #479 #480 #482 #483 #485）⇒ 全档 **482** ＝ problems 34 ＋ graduated **448**（92.9%）
+  —— 🆕 **新建 6 条** #500–#505（全是她标学下／问区别：down payment · drop off vs send · cram school · over ＋ 名词 · take up vs take · in a bit vs in a while）
+  —— ⓪ 回看 bank:1296 · 450 · 1011；c 段 合并 0；d 段 bank:834（P2 3D 打印机）首答 4 处错全清、钱配 take 回潮；bank:991 已发未答
+  —— 🔧 SKILL：④ 旧答对比摆出每次旧答当时的更好版 ＋ 逐句 diff（她定，`deliver` 10-17 起硬查，测试 785 全绿）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄1
+  —— **下一场 ＝ 周期 13 · L1**：#500–#505 首测 ＋ 回潮 #251 ＋ 连对1 的 17 条；复检 1 组；回看 bank:834；重答 1 道（bank:991）＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-16 · 口语 L3（周期 12 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **16 题 / 16 条 ✅15 ❌1**（#467 charge 没补出收钱的主语）；复检 2 组 **20 题 / 27 条 ✅27 ❌0**；回潮 0
+  —— 🎓 **毕业 6 条**（#469 #471 #472 #473 #475 #476）⇒ 全档 **476** ＝ problems 35 ＋ graduated **441**（92.6%）
+  —— 🆕 **新建 11 条** #489–#499（她点名 9：in no time · snap · perch · citywide · can't bring myself to · beat around the bush · overrun with · have sth done 遭遇 · vigilante ｜ ⚠️ 2：stay on · Take X —）
+  —— ② 回看 bank:450；③ 重答 bank:1011（P2 蝙蝠侠三部曲）真错 0、⚠️ 4 处，首答原话未存 ⇒ 这一版是基线
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 6⇄0
+  —— **下一场 ＝ 周期 12 · R 付息日**：在池 ≤5 组（#467 · #489–#499 首测 · 连对1）；⓪ 回看 bank:1296 · 450 · 1011；复检 3 组；c 段 review；d 段重答从 bank:834 起
+
+🆕🆕🆕 **2026-10-14 · 写作 D3 学习日（周期 C10）· 已收尾**
+  —— 复习 **在池 3 组 29 条 ＋ 复检 1 组 10 条 ＝ 39 条主判定**，命中 **33/39 ＝ 84.6%**
+  　　 组1 8/9 · 组2 8/10 · 组3 10/10 ｜ 复检 7/10 ｜ 一字未改率（在池句子题）9/10 ＝ 90.0%
+  —— 🎓 **毕业 17 条** · 🟠 回潮 4（#0049 逗号粘连 · #0496 #0501 #0517 复检）⇒ 全档 **582**（problems 79 ＋ graduated 503，🎓 86.4%）
+  —— ❌ #0572 conspicuous · #0496 subcontractor · #0501 herbicide · #0517 retrospective／debrief ｜ △ #0577 · #0571 ｜ #0588 连错 3 → 连对 1
+  —— 🆕 **新建 2 条** #0611 loss-making · #0612 stereotype（全是 ③）· 复查合并 0 ｜ R1–R6 零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 四节全 ERROR 0 ｜ migrate 17⇄4 ｜ 已推 main
+  —— **下一场 ＝ C10·D4 复习日（周期 C10 收官）**：在池 ≤5 组 ＋ 复检 3 组；必出层 #0611 #0612；§8④ 问题档 review
+
+🆕🆕🆕 **2026-10-14 · 口语 L2（周期 12 第 2 个学习日）· 已收尾**
+  —— 在池 3 组 **24 题 / 24 条 ✅24 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**；回潮 0
+  —— 🎓 **毕业 14 条**（#126 #290 #347 #458 #459 #460 #461 #462 #463 #464 #465 #466 #468 #470）⇒ 全档 **465** ＝ problems 30 ＋ graduated **435**（93.5%）
+  —— 🆕 **新建 9 条** #480–#488（真错 3：change jobs · far from enough · on holidays ｜ 她点名 1：smear ｜ ⚠️ 5：plan a surprise · shipping · one/another/a third/the last one · a bunch of · there's strength in numbers）
+  —— ② 回看 bank:1296；③ 重答 bank:450（P2 动物故事书，改制后第一道重答）真错 0、⚠️ 7 处，首答原话未存 ⇒ 这一版是基线
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 14⇄0
+  —— **下一场 ＝ 周期 12 · L3**：#480–#488 首测 ＋ 连对1 的 11 条；复检 1 组；回看 bank:450；重答 1 道（bank:1011）＋ 与旧答对比
+
+🆕🆕🆕 **2026-10-13 · 口语 L1（周期 12 第 1 个学习日）· 已收尾**
+  —— 在池 3 组 **21 题 / 21 条 ✅20 ❌1**（#467 charge 主语）；复检 1 组 **10 题 / 14 条 ✅14 ❌0**；回潮 0
+  —— 🎓 **毕业 5 条**（#453–#457）⇒ 全档 **456** ＝ problems 35 ＋ graduated **421**（92.3%）
+  —— 🆕 **新建 9 条** #471–#479（她点名 4：lounge · pay out · amateur · stubborn ｜ 真错 1：楼下 ≠ under my building ｜ ⚠️ 4：convenient for getting around · make it feel special · show how much you care · bring sb closer）
+  —— ② 回看 无；③ 新题 bank:1296（P3 特殊日子花大钱吃饭）真错 0、整篇写作腔（书面块 4）、缺例子
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 5⇄0
+  —— **下一场 ＝ 周期 12 · L2**：#471–#479 首测 ＋ #467 ＋ 连对1 的 15 条；复检 1 组；回看 bank:1296；重答 1 道 ＋ 与旧答对比（10-14 起不出新题）
+
+🆕🆕🆕 **2026-10-12 · 口语 R 付息日（周期 11 收尾）· 已收尾（10-14 补）**
+  —— 在池 2 组 **20 题 / 20 条 ✅20 ❌0**；复检 6 组 **60 题 / 65 条 ✅64 ❌1**（#290）；题里顺带 #347 ❌×2 · #126 ❌ ⇒ 回潮 3
+  —— 🎓 **毕业 15 条**（#271 #429 #440–#452）⇒ 全档 **447** ＝ problems 31 ＋ graduated **416**（93.1%）
+  —— 🆕 **新建 13 条** #458–#470（她点名／不会／问）
+  —— ⓪ 回看 bank:882 · 826 · 963；c 段 合并 0 · 撤销退池 1（#126）；d 段 bank:450 已发未答
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 15⇄3 ｜ 收尾补修 #126 状态行（被误当退池）
+  —— **下一场 ＝ 周期 12 · L1**：#458–#470 首测 ＋ 回潮 #126 #290 #347 ＋ #453–#457；复检 1 组；回看；新题 1 道
+
+🆕🆕🆕 **2026-10-12 · 写作 D2 学习日（周期 C10）· 已收尾（10-14 补）**
+  —— 复习 **在池 3 组 29 条 ＋ 复检 1 组 10 条 ＝ 39 条主判定**，命中 **35/39 ＝ 89.7%**
+  　　 组1 9/10 · 组2 10/10 · 组3 8/9 ｜ 复检 8/10 ｜ 一字未改率（在池句子题）10/11 ＝ 90.9%
+  —— 🎓 **毕业 7 条**（#0561 #0553 #0562 #0560 #0563 #0565 #0566）· 🟠 回潮 2（#0412 #0126）⇒ 全档 **580**（problems 90 ＋ graduated 490，🎓 84.5%）
+  —— ❌ #0602 modest · #0588 复发（连错 3）· #0412 scraps／pellets · 顺带 #0126 ｜ △ #0488 · #0258
+  —— 🆕 **新建 6 条** #0605–#0610（全是 ③）· 复查合并 0 · aroused／resentment ⇒ #0481 补成员 ⑦ ｜ R1–R6 零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ migrate 7⇄2 ｜ 已推 main
+  —— **下一场 ＝ C10·D3 学习日**：必出层 6 条（#0605–#0610）＋ 到期的按逾期分补满 3 组；复检 1 组
+
+🆕🆕🆕 **2026-10-11 · 口语 L3（周期 11 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **19 题 / 19 条 ✅19 ❌0**；复检 2 组 **20 题 / 23 条 ✅23 ❌0**；回潮 0
+  —— 🎓 **毕业 4 条**（#70 #438 #439 #432）⇒ 全档 **434** ＝ problems 30 ＋ graduated **404**（93.1%）
+  —— 🆕 **新建 5 条** #453–#457（她标学 4 条 cut back on · underprivileged · crafted · build up ＋ ⚠️ 1 条 小区 ⇒ apartment complex）
+  —— ② 回看 bank:826；③ 新题 bank:963（P2 机智解决问题的人）真错 0、⚠️ 1 处（S9 causing … ⇒ which is why，书面登记 🎓#206）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 4⇄0 ｜ 已推 main
+  —— **下一场 ＝ 周期 11 · R 付息日**：#453–#457 首测 ＋ 在池其余；⓪ 回看本周期 3 篇（bank:882 · 826 · 963）；复检 3 组；c 段；d 段重答；⛔ 无新题
+
+🆕🆕🆕 **2026-10-11 · 写作 D1 学习日（周期 C10）· 已收尾**
+  —— 复习 **在池 3 组 22 条 ＋ 复检 1 组 10 条 ＝ 32 条主判定**，命中 **25/32 ＝ 78.1%**
+  　　 组1 6/10 · 组2 8/10 · 组3 1/2 ｜ 复检 10/10 ｜ 一字未改率（在池句子题）8/10 ＝ 80.0%
+  —— 🎓 毕业 0 · 🟠 回潮 0（在池 22 条全是首测）⇒ 全档 **574**（problems 89 ＋ graduated 485，🎓 84.5%）
+  —— ❌ 五条词组两块全「忘了」（#0573 puberty · #0575 flagship · #0580 orientation · #0583 waterlogged · #0584 at short notice）· #0588 复发（which 又挂在 controversy 上）· △ #0577
+  —— 🆕 **新建 10 条** #0595–#0604（③ 9 · ❌ #0597 margin）· 复查合并 1（#0603 by no means ⇒ 并入 #0353）· 当晚 ⇒ #0473 补成员 ｜ R1–R6 零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 四节全 ERROR 0 ｜ migrate 无可搬 ｜ 已推 main
+  —— **下一场 ＝ C10·D2 学习日**：必出层 9 条（#0595–#0602 #0604）＋ 回潮 7 条等按逾期分补满 3 组；复检 1 组
+
+🆕🆕🆕 **2026-10-10 · 口语 L2（周期 11 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **12 题 / 12 条 ✅10 ❌2**（#429 #440）；复检 2 组 **12 题 / 15 条 ✅15 ❌0**；🎓#271 recently 族在 #21 题里掉 ⇒ 回潮 1
+  —— 🎓 **毕业 7 条**（#96 #396 #433 #434 #435 #436 #437）⇒ 全档 **429** ＝ problems 29 ＋ graduated **400**（93.2%）
+  —— 🆕 **新建 12 条** #441–#452（她标学／不会／问 9 条 ＋ ⚠️ 2 条 office·高架 ＋ 真错 1 条 last week ⇒ 过去时）
+  —— ② 回看 bank:882；③ 新题 bank:826（P3 Should people prepare before giving advice?）真错 0、⚠️ 2 处（做法／删词）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄1 ｜ 已推 main
+  —— **下一场 ＝ 周期 11 · L3**：#441–#452 首测 ＋ #271 回潮 ＋ #429 #440 再测；复检；回看 bank:826；新题 1 道
+
+🆕🆕🆕 **2026-10-10 · 写作 D4 复习日（周期 C9 收官 ⇒ 下一场 C10）· 已收尾**
+  —— 复习 **在池 2 组 17 条 ＋ 复检 9 组 90 条 ＝ 107 条主判定**，命中 **101/107 ＝ 94.4%**
+  　　 组1 10/10 · 组2 7/7 ｜ 复检 10/10 · 9/10 · 8/10 · 9/10 · 9/10 · 10/10 · 9/10 · 10/10 · 10/10 ｜ 一字未改率（在池句子题）4/4 ＝ 100%
+  　　 ⚠️ 当日配额 ＝ 复检 6 组：复检组 7–9 超配额照常记账，复检组 10 已发未作答 ⇒ 不记（她指出 —— 成立；drill.py 已修 cde8e93，口语 lab.py 同修 0428cd2）
+  —— 🎓 **毕业 5 条**（#0559 #0555 #0557 #0556 #0558）⇒ 全档 **564**（problems 79 ＋ graduated 485，🎓 86.0%）
+  —— 🟠 **回潮 7 条**：#0368 engineeringly · #0417 on the strength of · #0437 lose its reason for existence · #0438 pharmaceutical · #0477 take … into account · #0442 take precedence over（说反）· #0462 dormitory curfew
+  —— 🆕 **新建 22 条** #0573–#0594（③ 20 · ❌ #0588 among which · 📝 #0589 ease 不及物）· 复查合并 0 ｜ R3 命中 1 处，其余零命中
+  —— 🔧 §8④：合并 0 · 交叉引用补 3 对 · #0354 标题订正 · 分数零不符
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 十一节全 ERROR 0 ｜ migrate 5⇄7 ｜ 已推 main
+  —— **下一场 ＝ C10·D1 学习日**：必出层 ＝ #0573–#0594（22 条，自己占满 3 组）＋ 复检 1 组；回潮 7 条被挤后、再下一场排前
+
+🆕🆕🆕 **2026-10-09 · 口语 L1（周期 11 第 1 个学习日）· 已收尾**
+  —— 在池 2 组 **16 题 / 16 条 ✅16 ❌0**；复检 2 组 **17 题 / 19 条 ✅19 ❌0**；🎓#70 I wouldn't go that far 在 #250 题里掉 ⇒ 回潮 1
+  —— 🎓 **毕业 7 条**（#424 #425 #426 #427 #428 #430 #431）⇒ 全档 **417** ＝ problems 23 ＋ graduated **394**（94.5%）
+  —— 🆕 **新建 3 条**（她标学）#438 nag sb about sth · #439 comeback · #440 sentimental ≠ dramatic
+  —— ② 回看 bank:364；③ 新题 bank:882（P2 App）真错 0、⚠️ 3 处（做法）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄1 ｜ 已推 main
+  —— **下一场 ＝ 周期 11 · L2**：#438–#440 首测 ＋ #70 回潮 ＋ 在池其余；复检；回看 bank:882；新题 1 道
+
+🆕🆕🆕 **2026-10-09 · 写作 D3 学习日（周期 C9）· 已收尾**
+  —— 复习 **在池 2 组 20 条 ＋ 复检 2 组 20 条 ＝ 40 条主判定**，命中 **38/40 ＝ 95.0%**
+  　　 组1 80% · 组2 100% ｜ 复检组1 10/10 · 复检组2 10/10 ｜ 一字未改率（在池句子题）10/10 ＝ 100%
+  —— 🎓 **毕业 14 条**（#0106 #0494 #0550 #0554 #0542 #0545 #0543 #0544 #0546 #0549 #0552 #0547 #0548 #0551）⇒ 全档 **542**（problems 55 ＋ graduated 487，🎓 89.9%）
+  —— 🟠 **回潮 0 条** ｜ 主判定 ❌ 2 条：#0562 around the clock（首测「忘了」）· #0553 generous portions（「忘了」）
+  —— 🆕 **新建 10 条** #0563 entail · #0564 stance · #0565 extensive · #0566 disruption · #0567 in a … tone · #0568 reinforce · #0569 bullying · #0570 shelves · #0571 initiative · #0572 conspicuous（全是她写对后点名要学）
+  —— 🔗 **归入 7 处**：toll ⇒ #0249 · draw criticism ⇒ #0481 · upon contact with ⇒ #0498 · for this purpose ⇒ #0441 · robust ⇒ #0457 · slacken ⇒ #0467 · 升学率（advancement rate ✘）⇒ #0328 ｜ R 项全天零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 四节全 ERROR 0 ｜ migrate 14⇄0 ｜ 已推 main
+  —— **下一场 ＝ C9·D4 复习日（周期收官）**：必出层 ＝ #0563–#0572；#0553 #0562 再测；连对1 7 条
+
+🆕🆕🆕 **2026-10-08 · 口语 R（周期 10 付息日）· 已收尾**
+  —— a 在池 2 组 **20 题 / 20 条 ✅19 ❌1**（#429 hold a grudge 忘了）；a2 复检 1 组 **8 题 / 9 条 ✅7 ❌2**（#396 at stake 换成了 on the line · #96 no … and … 辖域 ⇒ 回潮）
+  —— 🎓 **毕业 12 条**（#366 #413–#423）⇒ 全档 **414** ＝ problems 26 ＋ graduated **388**（93.7%）
+  —— 🆕 **新建 6 条** #432 cross-border ≠ transnational（合并条，她要对比）· #433 semi-final · #435 succulent · #436 downstairs from · #437 , which they don't（以上她标学）· #434 a month straight（答错 a consecutive month）
+  —— ⓪ 回看 2 篇（bank:510 · bank:1151）；d 段重答 bank:364（节日食物）真错 0；c 段合并 0
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 12⇄2 ｜ 已推 main
+  —— **下一场 ＝ 周期 11 · L1**：#432–#437 首测 ＋ #96 #396 回潮 ＋ 在池其余；复检；回看 bank:364；新题 1 道
+
+🆕🆕🆕 **2026-10-08 · 写作 D2 学习日（周期 C9）· 已收尾**
+  —— 复习 **在池 3 组 21 条 ＋ 复检 1 组 10 条 ＝ 31 条主判定**，命中 **29/31 ＝ 93.5%**
+  　　 组1 80% · 组2 100% · 组3 100% ｜ 复检组1 10/10 ｜ 一字未改率（在池句子题）7/7 ＝ 100%
+  —— 🎓 **毕业 11 条**（#0373 #0374 #0511 #0536 #0538 #0535 #0534 #0537 #0539 #0540 #0541）⇒ 全档 **532**（problems 59 ＋ graduated 473，🎓 88.9%）
+  —— 🟠 **回潮 0 条** ｜ 主判定 ❌ 2 条：#0555 convoy · #0557 the onset of（首测「忘了」）
+  —— 🆕 **新建 3 条** #0560 parcel · #0561 unanimous · #0562 around the clock（全是她写对后点名要学）｜ R 项全天零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 四节全 ERROR 0 ｜ migrate 11⇄0
+  —— **下一场 ＝ C9·D3 学习日**：必出层 ＝ #0560 #0561 #0562；#0555 #0557 再测
+
+🆕🆕 **2026-10-07 · 口语 L3（周期 10 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **19 题 / 19 条 ✅19 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**（在池空出 1 组下溢给复检，到期 15 条一组装下；今天到期全部出完）
+  —— 🎓 **毕业 7 条**（#406 lose sight of · #407 chalk · #408 a round of · #409 come to an agreement · #410 charity · #411 change out of · #412 braised）
+  —— #366 make bank 这次光秃秃的 bank 没加 a ⇒ 连错 2 → 连对 1
+  　　 ⇒ 全档 **408** ＝ problems 30 ＋ graduated **378**（92.6%）
+  —— 🆕 **新建 8 条** #424 set aside · #425 make the move · #426 windowsill · #427 soak up · #428 be featured in · #429 hold a grudge · #430 street market ≠ shopping street · #431 well planned out
+  —— 回看 1 篇（bank:510）；新题 bank:1151（P3 集市 vs 商场）：0 处真错 · ⚠️ 切题（street markets 答成 shopping streets）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄0 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · R（付息日）**：在池 #424–#431 首测 ＋ 连对1 12 条；回看本周期 bank:510 · bank:1151；复检 3 组；c 段 review；d 段重答；⛔ 不出新题
+
+🆕 **2026-10-07 · 写作 D1 学习日（周期 C9）· 已收尾**
+  —— 复习 **在池 3 组 22 条 ＋ 复检 1 组 10 条 ＝ 32 条主判定**，命中 **28/32 ＝ 87.5%**
+  　　 组1 90% · 组2 80% · 组3 100% ｜ 复检组1 9/10 ｜ 一字未改率（在池句子题）13/14 ＝ 92.9%
+  —— 🎓 **毕业 5 条**（#0049 #0126 #0345 #0507 #0533）⇒ 全档 **529**（problems 67 ＋ graduated 462，🎓 87.3%）
+  —— 🟠 **回潮 2 条** #0494（做事的「顺便」写成 incidentally）· #0106（两者比较写成最高级）
+  —— 🆕 **新建 5 条** #0555 convoy · #0556 a stretch of · #0557 the onset of · #0558 punctual · #0559 deliver remarks（全是她写对后点名要学）｜ R 项全天零命中
+  —— `check --all` ERROR 0 · WARN 0 ｜ `deliver` 四节全 ERROR 0 ｜ migrate 5⇄2
+  —— **下一场 ＝ C9·D2 学习日**：必出层 ＝ #0555–#0559；#0106 #0494 回潮首测；#0550 #0553 #0554 再测
+
+🆕🆕🆕 **2026-10-06 · 口语 L2（周期 10 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **17 题 / 17 条 ✅16 ❌1**；复检 2 组 **19 题 / 20 条 ✅20 ❌0**（在池空出 1 组下溢给复检；今天到期全部出完）
+  —— 🎓 **毕业 10 条**（#162 made of／written in · #397 pull an all-nighter · #398 on the line · #399 negotiation · #400 come here just to · #401 fruit platter · #402 pull off · #403 squeeze onto · #404 overly · #405 if not more so）
+  —— 🟠 #366 make bank 连错 2（又写成 made a bank：带 absolute 时不加 a，光秃秃 bank 才加）
+  　　 ⇒ 全档 **400** ＝ problems 29 ＋ graduated **371**（92.8%）
+  —— 🆕 **新建 11 条** #413 on the house · #414 tweak · #415 make it through to · #416 gala · #417 carve out time · #418 sit on · #419 grind away · #420 burnt out · #421 support yourself · #422 day in, day out · #423 job insecurity
+  —— 回看 无；新题 bank:510（P2 长久目标）：0 处真错 · 2 处 ⚠️（job insecurity · support myself）· 她标学 5 处
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 10⇄0 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · L3**：#413–#423 首测 ＋ #366 ＋ 连对1 一批 7 条；回看 bank:510；新题 1 道
+
+🆕🆕 **2026-10-05 · 口语 L1（周期 10 第 1 个学习日）· 已收尾**
+  —— 在池 2 组 **14 题 / 14 条 ✅14 ❌0**；复检 2 组 **20 题 / 28 条 ✅27 ❌1**（在池空出 1 组下溢给复检；复检到期 37 条出了 28 条，剩 9 条）
+  —— 🎓 **毕业 3 条**（#394 throw a tantrum · #395 tournament · #396 at stake）｜ 🟠 **回潮 1 条** #366（made a bank：bank 前加了冠词）
+  —— ↩️ **改判 1 条** #367：她提异议「social giant 是可以的」成立 ⇒ ✅、撤销回潮、退池①
+  　　 ⇒ 全档 **389** ＝ problems 28 ＋ graduated **361**（92.8%）
+  —— 🆕 **新建 6 条** #407 chalk · #408 a round of · #409 come to an agreement · #410 charity · #411 change out of · #412 braised（全是她标学／说又忘了）
+  —— 回看 2 篇（bank:1326 · bank:521）；新题 bank:510（P2 长久目标）已发未答 ⇒ 她喊收尾，不记账
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄1 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · L2**：新题先做 **bank:510**（不重抽）；#407–#412 首测 ＋ #366 回潮 ＋ 连对1 一批 11 条
+
+🆕🆕🆕 **2026-10-04 · 口语 R（付息日 · 周期 9 收尾）· 已收尾**
+  —— 开场先 `git pull --ff-only origin main` 把 10-02／10-03 两场同步下来；两条线 SKILL 已写入「开场先同步、收尾直接推 main」
+  —— 在池 2 组 **11 题 / 11 条 ✅11 ❌0**；复检 2 组 **13 题 / 15 条 ✅15 ❌0**（在池空出 3 组下溢给复检，到期只有 15 条）
+  —— 🎓 **毕业 8 条**（#343 opening hours · #372 get it · #387 meander · #388 as the sun was going down · #390 get through · #391 up-and-coming · #392 influencer · #393 out of print）
+  —— 🟠 **回潮 1 条** 🎓#162（果盘说成 spelt out in apples and grapes：材料那一边借了写字的块）
+  　　 ⇒ 全档 **383** ＝ problems 24 ＋ graduated **359**（93.7%）
+  —— 🆕 **新建 10 条** #397 pull an all-nighter · #398 be on the line · #401 fruit platter · #402 pull off · #403 squeeze on · #404 overly · #405 if not more so（以上她标学）· #406 lose sight of（反馈后她点名）· #399 negotiation（词性）· #400 come here just to（漏 come）
+  —— ⓪ 回看本周期 3 篇（bank:1156 · bank:1203 · bank:504）｜ c 段合并 0 ｜ d 重答 2 道（bank:1326 · bank:521）真错 0／0；第 3 道 bank:364 已发未答 ⇒ 不记账
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄1 ｜ 已推 origin/main
+  —— **下一场 ＝ 周期 10 · L1**：#397–#406 首测 ＋ #162 回潮 ＋ #394–#396 连对1；回看 bank:1326 · bank:521；新题 1 道
+
 🆕🆕🆕 **2026-10-03 · 口语 L3（周期 9 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 1 组 **7 题 / 7 条 ✅7 ❌0**（在池空出 1 组下溢给复检，到期只有 7 条）
   —— 🎓 **毕业 6 条**（#381 at this number · #382 leash · #383 reason with · #384 nod off · #385 last time … was · #386 four or five）⇒ 全档 **373** ＝ problems 21 ＋ graduated **352**（94.4%）

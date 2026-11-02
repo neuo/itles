@@ -90,8 +90,12 @@ def set_trigger_line(text, num, add):
 # ★ 夹具不许写死编号 —— 档案会动（2026-09-01 那次 migrate 把 #0005 搬进了 graduated.md，
 #   写死的夹具当场全崩）。改成**按条件从活档案里挑**，条件写在下面这一行里。
 def _pick_fixture():
-    """挑一条：住 problems.md · 在池 · 有历史行且建号早于 ASK_FROM ·
+    """挑一条：住 problems.md · 在池 · 有历史行 ·
     非词表型 · 族不在 NO_PHRASE_FAMS（这样 G 段把它标成词组也不该报错）。
+    ⚠️ **2026-10-10 再放宽：去掉了「建号早于 ASK_FROM」这一条**。
+    　 老条目在陆续毕业搬走，到 10-10 problems.md 里符合的**只剩 0 条** ⇒ 测试台又假红。
+    　 用到「ASK_FROM 之前建的」那条断言改成**自己造**：`set_created(…, OLD_CREATED)`
+    　 把第一条历史行的日期挪到 ASK_FROM 之前（与造「之后建的」是同一个办法）。
     ⚠️ **2026-09-06 放宽：去掉了原来的「状态行没写题型格」这一条**。
     　 原因：那一条把夹具钉在"存量缺格条目"上，而 09-02 起新建的都自带题型格、
     　 老的缺格条目又在陆续毕业搬走 —— 09-06 那天 migrate 搬走 16 条之后，
@@ -100,14 +104,19 @@ def _pick_fixture():
     　 （§0.6 夹具规矩：从活档案按条件挑，或自己造出要测的状态）。"""
     for e in drill.parse_file(os.path.join(WT, "problems.md"), "problems.md"):
         if (e.state == "在池" and e.history and not e.members
-                and e.fam not in drill.NO_PHRASE_FAMS
-                and e.created_on() and e.created_on() < drill.ASK_FROM):
+                and e.fam not in drill.NO_PHRASE_FAMS and e.created_on()):
             return e.num
     raise SystemExit("⛔ 档案里挑不出符合条件的夹具条目 —— 先看档案是不是变形了")
 
 
 _A = _pick_fixture()
 print(f"（夹具：_A = {_A}，从活档案按条件挑的，⛔ 不写死编号）")
+
+# 比全档每一条历史行都晚一天 —— 要「今天」的地方一律用它，⛔ 写死日期／⛔ 用系统当天
+#（档案每天都在长：写死的日子迟早落在某些历史行之前；系统当天取决于什么时候跑测试）
+from datetime import date as _date, timedelta as _td
+_AFTER_ALL = (_date.fromisoformat(max(h.date for e in drill.load_all() for h in e.history))
+              + _td(days=1)).isoformat()
 
 
 def probs(num):
@@ -137,20 +146,25 @@ print("\n【B】非法值与缺格")
 with sandbox(p_text=set_grid(P, _A, "句子")) as d:
     _, pr = probs(_A)
     ck("题型写成非法值 ⇒ ERROR", any("题型「句子」非法" in m for m in lv(pr, "ERROR")), pr)
-with sandbox() as d:
-    e, pr = probs(_A)
-    ck(f"{drill.ASK_FROM} 之前建的条目缺题型格 ⇒ 不报错",
-       not any("缺「题型」格" in m for m in lv(pr, "ERROR")), pr)
-# 造一条「ASK_FROM 之后建的」：把某条**第一条**历史行的日期改掉
-def make_late(text, num):
+# 造「建号日 ＝ X」：把某条**第一条**历史行的日期改掉（⛔ 不动状态行、⛔ 不动任何数）
+def set_created(text, num, day):
     lines = text.split("\n")
     at = None
     for i, l in enumerate(lines):
         if l.startswith("## " + num + " "): at = i; continue
         if at is not None and re.match(r"^-\s*20\d\d-\d\d-\d\d", l.strip()):
-            lines[i] = re.sub(r"20\d\d-\d\d-\d\d", "2026-09-30", l, count=1)
+            lines[i] = re.sub(r"20\d\d-\d\d-\d\d", day, l, count=1)
             return "\n".join(lines)
     raise SystemExit("没找到历史行 " + num)
+def make_late(text, num):
+    return set_created(text, num, "2026-09-30")
+OLD_CREATED = "2026-08-20"          # 任何早于 ASK_FROM 的日子都行
+with sandbox(p_text=set_created(set_grid(P, _A, None), _A, OLD_CREATED)) as d:
+    e, pr = probs(_A)
+    ck("构造出一条 ASK_FROM 之前建的、缺题型格的条目",
+       e.created_on() < drill.ASK_FROM and e.ask is None, (e.created_on(), e.ask))
+    ck(f"{drill.ASK_FROM} 之前建的条目缺题型格 ⇒ 不报错",
+       not any("缺「题型」格" in m for m in lv(pr, "ERROR")), pr)
 _LATE_NUM = _A
 _late = make_late(set_grid(P, _LATE_NUM, None), _LATE_NUM)   # ★ 先去掉题型格（2026-09-06 放宽夹具后要自己造）
 with sandbox(p_text=_late) as d:
@@ -195,10 +209,18 @@ def _bynum_fam(num):
         if e.num == num:
             return e.fam
     raise SystemExit("找不到 " + num)
-# C1 词表型（挂成员出题账）不许标词组 —— 挑一条住 problems.md 的在池词表型
-_wl = next(e.num for e in _ents_p if e.members and e.state == "在池"
-           and e.fam not in drill.NO_PHRASE_FAMS)
-with sandbox(p_text=set_grid(P, _wl, "词组")) as d:
+# C1 词表型（挂成员出题账）不许标词组 —— 先挑住 problems.md 的在池词表型
+# ⚠️ **2026-10-10 改**：在池词表型全毕业了 ⇒ `next()` 抛 StopIteration、整台崩。
+#    这一闸测的是**词表型的判据**、与条目死活无关 ⇒ 与上面族覆盖同一个办法：
+#    problems.md 里没有就从 graduated.md 借一条，它住哪个文件就改哪个文件。
+_wl_src = [(e.num, "P") for e in _ents_p if e.members and e.state == "在池"
+           and e.fam not in drill.NO_PHRASE_FAMS] + \
+          [(e.num, "G") for e in _ents_g if e.members and e.state in ("在池", "🎓")
+           and e.fam not in drill.NO_PHRASE_FAMS]
+assert _wl_src, "⛔ 两个文件里都挑不出词表型条目 —— 先看档案是不是变形了"
+_wl, _wl_f = _wl_src[0]
+with sandbox(**({"g_text": set_grid(G, _wl, "词组")} if _wl_f == "G"
+                else {"p_text": set_grid(P, _wl, "词组")})) as d:
     e, pr = probs(_wl)
     ck(f"前提：{_wl} 挂着成员出题账", bool(e.members))
     ck("词表型标词组 ⇒ ERROR",
@@ -270,11 +292,14 @@ print("\n【F】pick 卡片认得词组")
 #    可它有没有被今天的 pick 抽到，取决于逾期分排序与**当天已 used 的条目**
 #    （§3.6 剔除口径）—— 09-06 那天 #0445 上午已经出过，下午跑测试台就必然抽不到 ⇒ 假红。
 #    改成：**在允许的族里逐条试，第一条被抽到的就用它测**；一条都抽不到才算失败。
-_cands = [_byfam[f] for f in allowed_p if f in _byfam]
+# ⚠️ **2026-10-10 再放宽**：每族只试第一条仍会假红 —— 10-10 只剩 F08 一族在 problems.md，
+#    它的第一条当天刚判过 ⇒ 不到期；而且 pick 没传 --date ⇒ 用的是**跑测试那天**。
+#    ⇒ 候选改成允许族里**全部**在池非词表型条目，pick 一律跑在 `_AFTER_ALL`。
+_cands = [e.num for e in _ents_p if e.state == "在池" and not e.members and e.fam in allowed]
 _hit = None
 for _num in _cands:
-    with sandbox(**_fixture(_num)) as d:
-        rc, out = run(drill.cmd_pick, Args(type="review", full=False))
+    with sandbox(p_text=set_grid(P, _num, "词组")) as d:
+        rc, out = run(drill.cmd_pick, Args(type="review", full=False, date=_AFTER_ALL))
         # ★ 必须是**卡片头**（两个空格 ＋ 编号 ＋ 两个空格），⛔ 不能是别的条目正文里
         #   顺带提到的交叉引用 —— 否则 out.split(_num) 会切到别人的卡片上
         if ("\n  " + _num + "  ") in out:
@@ -290,17 +315,20 @@ else:
     ck("允许族里至少有一条进了本次计划", False, f"候选 {_cands} 一条都没被抽到")
 
 print("\n【G】append 不会被第 7 格弄坏")
+# ⚠️ **2026-10-10 改**：原来写死 `--date 2026-09-30`。夹具放宽后会挑到 09-30 之后才建的条目，
+#    判定行按日期插进历史中间 ⇒ 「上次」仍是更晚那一行、连对也不是 ＋1 ⇒ 假红。
+#    ⇒ 改成 `_AFTER_ALL`（**比全档每一条历史行都晚一天**，定义在文件头，⛔ 不写死日期）。
 with sandbox(p_text=set_grid(P, _A, "词组")) as d:
     e0, _ = probs(_A)
     before = e0.status_raw
     rows = os.path.join(d, "rows.md")
     open(rows, "w", encoding="utf-8").write(
         f"{_A} ✅ 测试组 第 1 题\n  测试用内容行。\n")
-    rc, out = run(drill.cmd_append, Args(file=rows, date="2026-09-30"))
+    rc, out = run(drill.cmd_append, Args(file=rows, date=_AFTER_ALL))
     ck("append 退出码 0", rc == 0, out[-400:])
     e1, pr = probs(_A)
     ck("题型格没被 append 改掉", e1.ask == "词组", e1.status_raw)
-    ck("连对/上次 照常重算", e1.last == "2026-09-30" and e1.ok == (e0.ok or 0) + 1,
+    ck("连对/上次 照常重算", e1.last == _AFTER_ALL and e1.ok == (e0.ok or 0) + 1,
        (e1.ok, e1.last))
     ck("状态行仍然是七格", e1.status_raw.count("｜") == 6, e1.status_raw)
 

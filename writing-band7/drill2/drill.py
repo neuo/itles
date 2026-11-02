@@ -938,16 +938,26 @@ def queue_key(e, pdays, tidx):
     return (-overdue(e, pdays, tidx), 0 if e.at_risk() else 1, e.num)
 
 
-def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozenset()):
+def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozenset(),
+                used_groups=None):
     """把两条队列一次排完 —— **不打印、不写盘**，pick 与测试共用同一份计算。
+
+    used_groups ＝ {'pool': 今天已收尾的在池组数, 'grad': 今天已收尾的复检组数}
+      ★★ 配额按【当天】算（她 2026-10-10 指出复习日出了 10 个复检组）：
+         今天已经 `used` 的组**照样占配额** ⇒ 中途重跑 pick 只排**剩下的**那几组。
+         ⛔ 不扣的后果：开场那几组用完之后，在池到期 0 ⇒ 下溢 ＝ 整个上限 ⇒
+         每重跑一次就再白给一整份复检配额（2026-10-10 实证：开场计划复检 6 组，
+         重跑之后又给 8 组，一路出到复检组 10）。
 
     返回 dict：
       pdays tidx d1                 练习日表 · 今天的序号 · 上一个练习日
       pool_due grad_due             两条队列**全部到期**的条目（已排序）
       must                          必出层 ＝ D-1 那天**新建的**（她 2026-09-05 定）
-      pool_take grad_take           今天实际要出的条目
+      pool_take grad_take           今天实际要出的条目（⛔ 不含已经 used 的）
       pool_groups grad_groups       切好的组
-      cap base spill                配额 · 基础组 · 下溢组
+      cap base spill                配额 · 基础组 · 下溢组（下溢按**全天**在池组数算）
+      pool_used grad_used           今天已经收尾的组数
+      cap_left grad_quota grad_left 在池还能出几组 · 复检全天配额 · 复检还能出几组
       excluded                      各类被剔除的编号（报告用）
     """
     # ★★ **今天并进练习日表**（她 2026-09-05 的口径：今天算一个练习日）。
@@ -995,16 +1005,23 @@ def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozense
     ordered = must + rest
 
     cap, base = QUOTA[day_type]
+    ug = used_groups or {}
+    pool_used, grad_used = ug.get("pool", 0), ug.get("grad", 0)
+    cap_left = max(0, cap - pool_used)           # ★ 今天已经出过的在池组照样占上限
     n_must = math.ceil(len(must) / size)
-    if n_must >= cap:
-        # 必出层自己就超过上限 ⇒ **只出必出层**，⛔ 不再补别的
+    if n_must >= cap_left:
+        # 必出层自己就占满剩下的上限 ⇒ **只出必出层**，⛔ 不再补别的
+        # （必出层压在上限之上：上限用完了它也照出，§3.6）
         pool_take = must
         n_pool = n_must
     else:
-        n_pool = min(cap, math.ceil(len(ordered) / size))
+        n_pool = min(cap_left, math.ceil(len(ordered) / size))
         pool_take = ordered[:n_pool * size]
-    spill = max(0, cap - n_pool)                 # ⛔ 反向不成立：复检排不满不回补在池
-    n_grad = min(base + spill, math.ceil(len(grad_due) / size))
+    # ★ 下溢按**全天**的在池组数算（已收尾 ＋ 还要出），⛔ 不按"剩下还要出几组"算
+    spill = max(0, cap - (pool_used + n_pool))   # ⛔ 反向不成立：复检排不满不回补在池
+    grad_quota = base + spill
+    grad_left = max(0, grad_quota - grad_used)   # ★ 今天已经出过的复检组照样占配额
+    n_grad = min(grad_left, math.ceil(len(grad_due) / size))
     grad_take = grad_due[:n_grad * size]
 
     return dict(
@@ -1014,6 +1031,8 @@ def plan_queues(ents, today, types, day_type, size=GROUP_SIZE, used_ids=frozense
         pool_groups=partition(pool_take, size, spread_by_family=True),
         grad_groups=partition(grad_take, size, spread_by_family=False),
         cap=cap, base=base, spill=spill,
+        pool_used=pool_used, grad_used=grad_used,
+        cap_left=cap_left, grad_quota=grad_quota, grad_left=grad_left,
         excluded=dict(fresh=ex_fresh, used=ex_used, dead=ex_dead),
     )
 
@@ -1064,7 +1083,8 @@ def cmd_pick(args):
     ents = load_all()
     types = day_types()
     used_ids, done = read_drawn(today)
-    P = plan_queues(ents, today, types, args.type, size=args.size, used_ids=used_ids)
+    P = plan_queues(ents, today, types, args.type, size=args.size, used_ids=used_ids,
+                    used_groups={q: len(done[q]) for q in done})
     scope = args.scope
     want_pool = scope in ("pool", "both")
     want_grad = scope in ("grad", "both")
@@ -1104,8 +1124,9 @@ def cmd_pick(args):
     print()
 
     n_pool_g, n_grad_g = len(P["pool_groups"]), len(P["grad_groups"])
-    print(f"  在池队列  到期 {len(P['pool_due'])} 条 ⇒ 今天出 {len(P['pool_take'])} 条 / "
-          f"{n_pool_g} 组（上限 {P['cap']} 组）")
+    print(f"  在池队列  到期 {len(P['pool_due'])} 条 ⇒ 还要出 {len(P['pool_take'])} 条 / "
+          f"{n_pool_g} 组（上限 {P['cap']} 组 · 今天已收尾 {P['pool_used']} 组 "
+          f"⇒ 还能出 {P['cap_left']} 组）")
     if P["must"]:
         due_set = {e.num for e in P["pool_due"]}
         extra = [e for e in P["must"] if e.num not in due_set]
@@ -1119,13 +1140,23 @@ def cmd_pick(args):
             print(f"        ⇒ 另有 {len(P['must_done'])} 条 D-1 新建的**今天已经测过**"
                   f"（有效上次 ＝ 今天）⇒ 义务已尽，⛔ 今天不再问："
                   + " ".join(e.num for e in P["must_done"]))
-        if math.ceil(len(P["must"]) / args.size) >= P["cap"]:
-            print(f"        ⇒ 必出层自己就占满／超过 {P['cap']} 组 ⇒ **今天只出必出层**，"
+        if math.ceil(len(P["must"]) / args.size) >= P["cap_left"]:
+            print(f"        ⇒ 必出层自己就占满／超过剩下的 {P['cap_left']} 组 ⇒ **只出必出层**，"
                   f"⛔ 不再补别的（下溢 0）")
-    print(f"  复检队列  到期 {len(P['grad_due'])} 条 ⇒ 今天出 {len(P['grad_take'])} 条 / "
-          f"{n_grad_g} 组（基础 {P['base']} 组 ＋ 在池下溢 {P['spill']} 组）")
+    print(f"  复检队列  到期 {len(P['grad_due'])} 条 ⇒ 还要出 {len(P['grad_take'])} 条 / "
+          f"{n_grad_g} 组（全天配额 {P['grad_quota']} 组 ＝ 基础 {P['base']} 组 ＋ 在池下溢 "
+          f"{P['spill']} 组 · 今天已收尾 {P['grad_used']} 组 ⇒ 还能出 {P['grad_left']} 组）")
     if P["grad_due"] and not P["grad_take"]:
-        print("     ⚠️ 复检到期却一组都没排上 —— 检查配额是不是被必出层吃光了")
+        print("     ★ 复检还有到期的，但**今天的复检配额已经出完** ⇒ 留到下一个练习日"
+              "（它们的逾期分只会更高，自动排更前）")
+    if P["grad_used"] > P["grad_quota"]:
+        print(f"     ⚠️ 今天已收尾的复检组（{P['grad_used']}）超出了全天配额"
+              f"（{P['grad_quota']}）—— 超出的部分不能再补回来，只能如实记在 session 教练侧")
+    quota_done = not P["pool_groups"] and not P["grad_groups"] and (
+        P["pool_used"] or P["grad_used"])
+    if quota_done:
+        print(f"  ★★ **今天的配额已经出完** —— 在池已收尾 {P['pool_used']} 组 · "
+              f"复检已收尾 {P['grad_used']} 组 ⇒ ⛔ 没有新组可出（§3.6 配额按当天算）")
     print(f"  ★ 组 1 就是今天最该测的 {args.size} 条（组间按队列顺序切）；"
           f"她中途喊停 ⇒ 停在最该测的之后，⛔ 不记欠账")
     n_phrase = sum(1 for e in P["pool_take"] + P["grad_take"] if e.is_phrase)
@@ -1244,6 +1275,9 @@ def cmd_pick(args):
     print("─" * 78)
     print("⛔ 脚本做不到、必须手工的两件：语言事实核查 · 中文题面自译落点（§6）")
     print("★ 冲突要挪题 ⇒ 在**组与组之间对调**，⛔ 不用重抽 —— 全天的池子已经在上面了")
+    if quota_done:
+        print("★★ 今天的配额已经出完 —— 本次没有新组，⛔ 不写流水")
+        return 0
     if args.dry:
         print("（--dry：没有写 drawn_review.log）")
     else:

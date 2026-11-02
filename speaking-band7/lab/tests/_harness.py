@@ -103,7 +103,8 @@ def sandbox(p_text=None, g_text=None, sessions=True):
     if p_text is not None or g_text is not None:
         open(os.path.join(d, "drawn.log"), "w", encoding="utf-8").write("")
     old = {k: getattr(lab, k) for k in
-           ("ROOT", "PROBLEMS", "GRADUATED", "METHODS", "SESSIONS", "DRAWN", "QBANK", "ASKED")}
+           ("ROOT", "PROBLEMS", "GRADUATED", "METHODS", "SESSIONS", "DRAWN", "QBANK", "ASKED",
+            "COACH")}
     lab.ROOT = d
     lab.PROBLEMS = os.path.join(d, "problems.md")
     lab.GRADUATED = os.path.join(d, "graduated.md")
@@ -111,6 +112,8 @@ def sandbox(p_text=None, g_text=None, sessions=True):
     # 重答队列要读的两份题库文件 ⇒ 指到沙箱里（默认不存在；需要的用例自己写）
     lab.QBANK = os.path.join(d, "question_bank.md")
     lab.ASKED = os.path.join(d, "asked.log")
+    # lab 之前的旧档案（attempts 找首答出处用）⇒ 指到沙箱里（默认不存在；需要的用例自己写）
+    lab.COACH = os.path.join(d, "coach")
     lab.SESSIONS = os.path.join(d, "sessions")
     lab.DRAWN = os.path.join(d, "drawn.log")
     try:
