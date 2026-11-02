@@ -706,7 +706,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing／end up with -ing）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
-状态 连对0 连错1 上次2026-10-30 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零）
+状态 连对1 连错0 上次2026-11-01 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零）
 
 **问题是什么**
 **end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
@@ -745,10 +745,12 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-10-17 ✅ 自发命中 · 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S2 · `but I ended up going over budget after adding a multi-color printing accessory`
 - 2026-10-30 ❌ 学习日 在池第 1 组 [10]（#557 题里）· `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— end up 和 -ing 中间夹了 with（end up ＋ -ing 与 end up with ＋ 名词两条路混搭）⇒ 最小改 ending up smearing cream all over his face ⇒ 🎓 回潮
 - 2026-10-30 📝 当天回潮后自发用对 · 学习日 复检第 3 组 [2]（🎓#525 题里）· `so it ended up getting completely wet in the rain` —— end up ＋ -ing ✓；上午在池第 1 组刚回潮、刚讲过 ⇒ 按「当天教完当天测＝假 ✅」只留痕，⛔ 不记 ✅、不动连对
+- 2026-11-01 ✅ 学习日 在池第 1 组 [1] · `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).` —— ended up getting（end up ＋ -ing）。连错 1 → 连对 1
+  ｜她自注「这个单词背下」⇒ street vendor 另建 #566
 
 ### 559 · **trendy**（网红店／网红餐厅 ＝ a trendy restaurant；⛔ famous）
 类型 词汇 ｜ 新建 2026-10-27
-状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 **trendy** ＝ 时髦、正火的（一阵子大家都去、都在发的那种）：`a trendy restaurant` · `a trendy café` · `that trendy spot everyone's posting about`。中文"网红店／网红餐厅／网红景点" ⇒ a trendy restaurant／spot；也说 Instagram-famous · hyped（被炒得很火的）。
@@ -776,10 +778,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [6]（#556 题里）· diff-2 ⚠️ · 原话 `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` ⇒ 更好版 trendy
 - 2026-10-30 ✅ 学习日 在池第 2 组 [2] · `There's a trendy new cafe near my workplace that always has long queues for photo every weekend.` —— a trendy new cafe ✓（没再落 famous；for photo 归 #56 ⚪）。连错 1 → 连对 1
+- 2026-11-01 ✅ 学习日 在池第 1 组 [2] · `This historic street is full of trendy food spots these days, so locals don't really go there anymore.` —— trendy food spots。连对 1 → 2 ⇒ **毕业**
 
 ### 560 · **flip through ＋ 相册／杂志／书**（翻看、一页页地翻：flip through old photo albums）
 类型 词组 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 **flip through** ＝ 一页一页地翻看（相册、杂志、书、菜单，翻得快、随便看看）：`flip through old photo albums` · `flip through a magazine while waiting` · `flip through the menu`；英式也说 flick through。
@@ -807,10 +810,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [8]（#558 题里）· 她标「这个词组学下」· 原话 `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
 - 2026-10-30 ✅ 学习日 在池第 2 组 [3] · `I was casually flipping through a magazine on the table while waiting to see the dentist.` —— flipping through a magazine ✓。连错 1 → 连对 1
+- 2026-11-01 ✅ 学习日 在池第 1 组 [3] · `… my sister and I spent time flipping through old photo albums from when we were kids.` —— flipping through。连对 1 → 2 ⇒ **毕业**
 
 ### 561 · **tremble**（发抖、哆嗦：the puppy was trembling；冷得发抖 ⇒ shiver）
 类型 词汇 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 **tremble** ＝ 发抖、哆嗦（害怕、紧张、虚弱、激动时身体或手控制不住地抖）：`the puppy was trembling` · `My hands were trembling.` · `tremble with fear`。
@@ -837,10 +841,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
 - 2026-10-30 ✅ 学习日 在池第 2 组 [4] · `My hands were trembling so badly before the interview because I was so nervous.` —— My hands were trembling ✓。连错 1 → 连对 1
+- 2026-11-01 ✅ 学习日 在池第 1 组 [4] · `The little cat was scared by the thunder and hid under the bed, trembling all over.` —— trembling all over。连对 1 → 2 ⇒ **毕业**
 
 ### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
 类型 词组 ｜ 新建 2026-10-27
-状态 连对1 连错0 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文"这几天"说的是**眼下短短几天**：往后几天 ⇒ **for the next few days**／over the next few days；过去几天 ⇒ **for the past few days**／the last few days（一般配完成时：`It's been raining for the past few days.`）。
@@ -867,10 +872,13 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 4 组 [4]（🎓#465 题里）· 不在考点上的一处 · 原话 `The doctor said I need to drink tons of water while I have a fever these day so I stay hydrated.` ⇒ 更好版 for the next few days
 - 2026-10-30 ✅ 学习日 在池第 2 组 [5] · `It's rained for a few days straight, and none of the laundry on the balcony will dry.` —— for a few days straight ✓（短期"这几天"没落 these days，配完成时）。连错 1 → 连对 1
+- 2026-11-01 ❌ 学习日 在池第 1 组 [5] · `I'm working from home these few days, so feel free to come to grab the keys whenever you feel like it.` —— 往后几天落成 these few days。连对 1 → 清零，连错 1
+  最小改 `I'm working from home for the next few days, …`
+  ❌ 往后几天 ⇒ for the next few days；these days 是长期常态，these few days 两头都不是
 
 ### 563 · **stall**（车熄火：the car stalled · stall the car；⛔ 与 market stall 摊位串）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **stall** ＝ （发动机）熄火、开着开着自己憋灭了：`The car stalled at the lights.` · `I kept stalling the car.`（人当主语也行：我把车弄熄火了）。
@@ -896,10 +904,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：We were stuck on a hill in rush-hour traffic, and the car in front of us stalled as soon as it tried to pull away.
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#528 题里）· 她标「这个词学下」· 原话 `When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
+- 2026-11-01 ✅ 学习日 在池第 1 组 [6] · `Stuck on an incline during the morning rush hour, the car in front stalled right when it pulled away.` —— stalled。连错 1 → 连对 1
 
 ### 564 · **hail**（冰雹，不可数；一场冰雹 ＝ a hailstorm）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对0 连错2 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hail** ＝ 冰雹（不可数）：`There was hail the size of golf balls.`；一场冰雹 ＝ **a hailstorm**（一个词）；一颗颗冰雹 ＝ hailstones；动词 `It's hailing.` ＝ 正在下冰雹。
@@ -921,14 +930,18 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：中文"冰雹"先落 hail；要说"一场"就换 a hailstorm。
 
 **题面**
-"下午突然下了一场冰雹，停车场里好几辆车都被砸出了坑。"（"一场冰雹"用 **hail** 说）
+"下午突然下了一场冰雹，停车场里好几辆车都被砸出了坑。"（"一场冰雹"用 **hailstorm** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：There was a sudden hailstorm this afternoon, and quite a few cars in the parking lot got dented.
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「学下这个词」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+- 2026-11-01 ❌ 学习日 在池第 1 组 [7] · `A sudden storm of(storm of 可以学下) hail hit this afternoon …` —— 一场冰雹没落到 a hailstorm，她自标「storm of 可以学下」（§3.2b 不在手边照判 ❌）。连错 1 → 2
+  最小改 `A sudden hailstorm hit this afternoon …`
+  ❌ 天气的"一场 X"是合成词 hailstorm／rainstorm／snowstorm；a storm of ＋ 名词多是比喻（a storm of criticism）
+- 2026-11-01 📝 题面整改 · 连错 2 且她自标「storm of 可以学下」⇒ §6② 她说要学的块先练：点名从 hail 改成整块 **hailstorm**；连对 ≥1 之后降回 hail（不可数、不说 a hail 留给她）
 
 ### 565 · **grand**（口语：一千块；thirty grand ＝ 三万，⛔ grands）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-30 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **grand** ＝ 口语里的"一千（块钱）"：`thirty grand` ＝ 三万 · `It cost me five grand.`；复数不加 s（⛔ thirty grands）。
@@ -954,6 +967,36 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：My cousin's used car only cost him eight grand, and it hasn't broken down once in five years.
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「这个词学下」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+- 2026-11-01 ✅ 学习日 在池第 1 组 [8] · `I only paid eight grand for my second-hand piano, and its tone is surprisingly great.` —— eight grand（不加 s）。连错 1 → 连对 1
+
+### 566 · **street vendor**（路边摊贩：buy／get sth FROM a street vendor；摊子本身 ＝ a street stall）
+类型 词汇 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**street vendor** ＝ 在路边摆摊卖东西的人（卖小吃、卖水果的那种）；东西是从人手里买的 ⇒ `buy／get sth from a street vendor`：`I grabbed some dumplings from a street vendor.`
+同一格里的邻居（别串）：a street stall／a food stall（摊子本身：`eat at a street stall`）· street food（路边小吃）· 🎓#430 street market（一整片集市）· #563 stall（车熄火，另一个义项）。
+判据一句话：说人 ⇒ vendor（前面用 from）；说摊子 ⇒ stall（前面用 at）。
+★ 题型判整句："路边摊"能落到 street stall／food stand／street vendor 一串，又要看介词 from 挂在句子里 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 street vendor，连对 ≥1 后降回 vendor。
+
+**怎么发现的**
+2026-11-01 学习日 在池第 1 组 [1]（#338 题面"我们找了半天餐厅，最后只好在路边摊随便吃了点。"）· 原话
+`We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).`
+她写出了 street vendor，但自己标「这个单词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌；同 #560 #561 #563 #564 #565 先例）。同句 at a street vendor ⇒ 更好版 from a street vendor（⚠️）。
+判重三步：
+　① 目标形式 dedup "vendor" ⇒ 零命中；"street food" ⇒ 零命中；"stall" ⇒ 只命中 #563（车熄火义项，正文提到 market stall 当邻居）⇒ 否，不同义项
+　② 中文 dedup "路边摊" ⇒ 零命中；"摊" ⇒ 🎓#430 street market（集市，块不同）· #563（同上）· 🎓#27 #295 #550 #206 #300（分摊／摊开，字面撞）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写出了 `a street vendor`，但词不在手边（自己标背下）；介词用了 at　　目标：`getting some food from a street vendor`
+找法：说到"路边摊"先问一句 —— 说的是摆摊的人还是那个摊子？人 ⇒ from a street vendor；摊子 ⇒ at a street stall。
+
+**题面**
+"下班路上我常在一个路边摊买煎饼当晚饭。"（"路边摊"用 **street vendor** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On my way home from work, I often buy a jianbing from a street vendor for dinner.
+
+- 2026-11-01 ❌ 首犯 · 学习日 在池第 1 组 [1]（#338 题里）· 她标「这个单词背下」· 原话 `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).`
 
 ## 迁移说明（2026-08-18）
 
