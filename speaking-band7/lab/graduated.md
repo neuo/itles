@@ -19249,7 +19249,7 @@ pays out 放在报销这里能懂、不算错；更贴的是 pays you back（她
 
 ### 474 · 交通方便（从这儿出门去别处方便）⇒ convenient for getting around（⛔ a place that's convenient to get around）
 类型 搭配 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 说住的地方、酒店**交通方便**（从这儿出门去别处方便）：`The apartment is really convenient for getting around.` · `It's close to public transport.`
@@ -19283,6 +19283,7 @@ diff-2 ⚠️（不是 ❌）：意思听得懂，但 a place that's convenient 
 - 2026-10-14 ✅ 学习日 在池第 3 组 [1] · `The hotel we stayed at was right next to the subway station, so it was super easy to get around.` —— "方便"挂在 get around 这件事上（it was super easy to get around），没说成 the hotel is convenient to get around。首测 ⇒ 连对 1
 - 2026-10-17 ✅ 付息日 在池第 2 组 [5] · `… so it's super easy to get around wherever I want to go.`（it's easy to …，没让公寓 be easy to get around）。连对 1 → 2 ⇒ 🎓
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [1] · `… so running errands(这个学下) is super convenient.` —— "办事"当主语，没写成 the place is convenient to get around（同句 downstairs their building 归 🎓#436 回潮；running errands 她标学下 ⇒ 新建 #519）
+- 2026-11-01 ✅ 学习日 复检第 2 组 [4] · `The homestay we stayed at was right at the entrance of the old town, making it super convenient to get to any spot.` —— it 作形式主语（⛔ 没写成 the homestay is convenient to get around）
 
 ### 475 · amateur（业余的：an amateur soccer tournament · an amateur photographer）
 类型 词汇 ｜ 新建 2026-10-13 ｜ ⭐ 她点名要背
@@ -19355,7 +19356,7 @@ headstrong（任性、一意孤行）· set in one's ways（老习惯改不了�
 
 ### 477 · make sth feel special（让这一天／这件事显得特别；⛔ elevates the day above ordinary routine）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **make ＋ 东西 ＋ feel special** ＝ 让某天／某件事显得特别、跟平常不一样：
@@ -19387,10 +19388,12 @@ diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历
   ⚠️ diff-2：threw me a little surprise → planned a little surprise for me ⇒ 新建 #481
 - 2026-10-17 ✅ 付息日 在池第 2 组 [6] · `… which really made the moment feel special.`。连对 1 → 2 ⇒ 🎓
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [2] · `At the graduation ceremony, the principal shook hands and shared a few words with every graduate, making the day feel extra special.` —— making the day feel extra special
+- 2026-11-01 ✅ 学习日 复检第 2 组 [5] · `… so that night just felt so special.` —— feel special 合法且贴题面
+  ｜她自注「这个词组学下」⇒ made a point of 另建 #567
 
 ### 478 · show how much you care（用行动表心意：It's a way of showing how much you care；⛔ acts as a tangible signal of love）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **show (sb) how much you care ／ how much you love them** ＝ 用行动表达心意：
@@ -19422,10 +19425,11 @@ diff-2 ⚠️（不是 ❌）：书面块，口语版她没产出过（扫她历
   ⚠️ diff-2：sends me … every time → always sends me …（偏好，不建号）
 - 2026-10-17 ✅ 付息日 在池第 2 组 [7] · `… that's just his way of showing how much he cares.`。连对 1 → 2 ⇒ 🎓（同句 drop off 她问和 send 的区别 ⇒ 新建 #501）
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [3] · `My husband writes me a card every year on our wedding anniversary—it's his way to show how much I mean to him.` —— show how much I mean to him（★ his way of showing 更现成，只点出）
+- 2026-11-01 ✅ 学习日 复检第 2 组 [6] · `… that's just how she shows how much we mean to her.` —— show how much ＋ 从句，合法且贴题面
 
 ### 479 · bring sb closer (together)（拉近感情；⛔ provides a space to deepen their emotional connection）
 类型 词组 ｜ 新建 2026-10-13
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **bring ＋ 人 ＋ closer (together)** ＝ 让人感情更近：`Cooking together brings us closer.` · `The trip really brought the two of them closer together.`
@@ -19455,10 +19459,11 @@ diff-2 ⚠️（不是 ❌）：书面块（心理学文章腔），口语版她
 - 2026-10-14 ✅ 学习日 在池第 3 组 [4] · `Taking care of that little dog together really brought our family closer.` —— brought our family closer。首测 ⇒ 连对 1
 - 2026-10-17 ✅ 付息日 在池第 2 组 [8] · `Getting lost together during that hike actually brought us colleagues a lot closer.`。连对 1 → 2 ⇒ 🎓
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [4] · `During the pandemic, cooking at home together every day actually brought me and my roommate much closer.` —— brought … much closer
+- 2026-11-01 ✅ 学习日 复检第 2 组 [7] · `My father and I used to hardly talk, but after going fishing together, we've become much closer.` —— much closer
 
 ### 480 · **change jobs**（换工作：jobs 复数、不带冠词；⛔ change the job／change job）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 "换工作"＝ **change jobs**：从一份工作换到另一份，涉及两份工作 ⇒ jobs 用复数、前面不带 the／my。
@@ -19488,6 +19493,7 @@ talk through 本身对（#463 ✅），changing the job ❌。lab 之前犯过�
 - 2026-10-16 ✅ 学习日 在池第 1 组 [7] · `My cousin changed jobs three times last year, and now she's finally landed one she actually likes.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [2] · `My uncle changed jobs quite a few times when he was younger …`。连对 1 → 2 ⇒ 🎓
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [5] · `My friend felt too burnt out at a big corporate, so he changed jobs last month and moved to a small startup.` —— changed jobs（★ a big corporate 只点出）
+- 2026-11-01 ✅ 学习日 复检第 2 组 [8] · `He changed jobs this summer because of the awful commute, …` —— changed jobs
 
 ### 481 · **plan a surprise for sb**（给人准备惊喜；throw 只配"办一场活动"：throw sb a surprise party）
 类型 搭配 ｜ 新建 2026-10-14
@@ -19524,7 +19530,7 @@ feel special 本身对（#477 ✅），diff-2 ⚠️（不是 ❌）：throw 不
 
 ### 482 · **far from** ＋ 形容词／enough（远远不够、远不是：far from enough · far from perfect；⛔ far away from enough）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 **far from ＋ 形容词／enough** ＝ "远远不…／远不是…"：`It's far from enough.` · `The plan is far from perfect.` · `far from easy`。
@@ -19553,10 +19559,11 @@ support for 本身对（#315 ✅），far away from enough ❌（把说距离的
 - 2026-10-16 ✅ 学习日 在池第 1 组 [8] · `This pay is far from enough to support a whole family.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [3] · `What we've saved so far is far from enough to cover a down payment.`。连对 1 → 2 ⇒ 🎓（同句「首付」她标要学 ⇒ 新建 #500）
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [6] · `Relying just on two hours of practice over the weekend is far from enough to pass the level 10 piano exam.` —— is far from enough to pass …（★ relying on just two hours 只点出）
+- 2026-11-01 ✅ 学习日 复检第 2 组 [9] · `Just memorizing ten vocabulary words a day is far from enough to score a 7 in three months.` —— far from enough
 
 ### 483 · **on holidays／on public holidays**（节假日；⛔ on holiday ＝ 在度假）
 类型 搭配 ｜ 新建 2026-10-14
-状态 连对2 连错0 上次2026-10-21 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-17** ｜ 题型 整句
 
 **问题是什么**
 节假日（法定放假的那几天）⇒ **on holidays** ／ **on public holidays** ／ during the holidays。
@@ -19585,6 +19592,7 @@ opening hours 本身对（#343 ✅），on holiday ❌（说成了"在度假"）
 - 2026-10-16 ✅ 学习日 在池第 1 组 [9] · `This bank is closed on public holidays.`。连错 1 → 连对 1
 - 2026-10-17 ✅ 付息日 在池第 1 组 [4] · `This supermarket is open as usual during the holidays.`（during the holidays 是正文列着的合法说法，没落到 on holiday）。连对 1 → 2 ⇒ 🎓
 - 2026-10-21 ✅ 复检 · 学习日 复检第 3 组 [7] · `The outpatient（这个背下) clinic at this hospital has doctors on duty even over the holidays.` —— over the holidays，没落到 on holiday（outpatient 她标背下 ⇒ 新建 #520）
+- 2026-11-01 ✅ 学习日 复检第 2 组 [10] · `The museum gets really crowded on public holidays, …` —— on public holidays
 
 ### 484 · **shipping**（物流、寄运：cross-border shipping · international shipping；⛔ express 单独当名词）
 类型 词汇 ｜ 新建 2026-10-14
@@ -21363,7 +21371,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 
 ### 538 · **right where sb stood／was**（就在原地：站着站着就倒下、原地不动；⛔ right while standing）
 类型 词组 ｜ 新建 2026-10-24
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
 
 **问题是什么**
 **right where ＋ 人 ＋ stood／was standing／was** ＝ 就在（他）原来站着／待着的那个地方：
@@ -21393,10 +21401,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [4]（#531 题里）· diff-2 ⚠️ · 原话 `It was so hot that a few students passed out right while standing during military training.` ⇒ 更好版 right where they stood
 - 2026-10-25 ✅ 学习日 在池第 2 组 [4] · `Right after crossing the finish line of the marathon, he collapsed right where he stood.` —— right where he stood ✓。连错 1 → 连对 1
 - 2026-10-26 ✅ 学习日 在池第 1 组 [1] · `The tour guide had us wait right where we were so she could go buy the tickets.` —— right where we were ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-01 ✅ 学习日 复检第 2 组 [1] · `… so I decided to stay right where I stood until the crowd cleared.` —— right where I stood
 
 ### 539 · **cash register**（收银机；⛔ cashier ＝ 收银员，是人）
 类型 词汇 ｜ 新建 2026-10-24
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 词组
 
 **问题是什么**
 **cash register** ＝ 收银机（口语常省成 the register；英式 the till）：`made off with the cash register` · `open the register`。
@@ -21424,10 +21433,11 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [7]（#529 题里）· 原话 `The thief smashed in the store's glass door and made off with the cashiet.`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [5] · `that cash register at the checkout counter in the supermarket` —— cash register ✓。连错 1 → 连对 1
 - 2026-10-26 ✅ 学习日 在池第 1 组 [2] · `that legacy cash register on the counter of the corner shop` —— cash register ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ legacy ⇒ 新建 #548
+- 2026-11-01 ✅ 学习日 复检第 2 组 [2] · `that cash register at the bakery counter where the drawer pops open with a button press` —— cash register
 
 ### 540 · **munch on sth**（大口地嚼、咔嚓咔嚓地啃：munch on chips／an apple）
 类型 词组 ｜ 新建 2026-10-24 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-26 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-10-26** ｜ 题型 整句
 
 **问题是什么**
 **munch on ＋ 吃的** ＝ 一口一口地嚼（吃得香、有声音，多说零食、水果）：`munching on chips` · `munch on an apple` · `the squirrel was munching on a pinecone`。
@@ -21455,6 +21465,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-24 ❌ 首犯 · 学习日 在池第 2 组 [9]（#534 题里）· 她标「这个词组学下」· 原话 `that pinecone the squirrel was munching on(这个词组学下)`
 - 2026-10-25 ✅ 学习日 在池第 2 组 [6] · `My younger brother sat munching on a giant bag of chips while watching the movie.` —— munching on ✓。连错 1 → 连对 1
 - 2026-10-26 ✅ 学习日 在池第 1 组 [3] · `During lunch break, my coworker sat at her station munching on a pack of biscuits.` —— munching on ✓。连对 1 → 2 ⇒ 🎓 毕业 ｜ ⚠️ station ⇒ 新建 #549
+- 2026-11-01 ✅ 学习日 复检第 2 组 [3] · `As soon as our bunny gets a carrot, it keeps munching on it without stopping.` —— munching on it
 
 ### 541 · **put one's hair in a ponytail**（把头发扎成马尾；ponytail ＝ 马尾辫）
 类型 词组 ｜ 新建 2026-10-25 ｜ ⭐ 她点名要学

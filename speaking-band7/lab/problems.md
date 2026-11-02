@@ -998,6 +998,37 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-11-01 ❌ 首犯 · 学习日 在池第 1 组 [1]（#338 题里）· 她标「这个单词背下」· 原话 `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).`
 
+### 567 · **make a point of ＋ -ing**（特意、专门去做某事：He made a point of booking a table with a view.）
+类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**make a point of doing sth** ＝ 特意／专门去做（当成一件要紧事去做，常带"有心、用心"的意思）：
+`He made a point of booking a table with a view.` ／ `She makes a point of calling her mom every Sunday.`
+结构：of 后面接 -ing（make a point to … 也有人说，但 of ＋ -ing 是最稳的那个）。
+同一格里的邻居（别串）：make a point（发言里"提出一个观点"：You make a good point.）· go out of one's way to do（特意费周折去做，更强调"多绕了路、多费了劲"）· 🎓#517 didn't bother to do（压根没费那个事，正好反过来）。
+判据一句话：中文"特意／专门（有心地）做…" ⇒ make a point of ＋ -ing。
+★ 题型判整句："特意"能落到 specially／deliberately／went out of his way 一串，块里的 of ＋ -ing 要靠句子才现形 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 make a point of，连对 ≥1 后降回 point。
+
+**怎么发现的**
+2026-11-01 学习日 复检第 2 组 [5]（🎓#477 题面"第一次约会他特意订了能看到江景的位子，那天晚上一下子就显得很特别。"）· 原话
+`He made a point of(这个词组学下) reserving a table with a river view for our first date, so that night just felt so special.`
+她写对了 made a point of reserving，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌；同 #566 先例）。
+判重三步：
+　① 目标形式 dedup "make a point" ⇒ 零命中；"point of" ⇒ 🎓#236（历史字样，说人的目的用 to do）⇒ 否；"out of his way"／"go out of" ⇒ 零命中
+　② 中文 dedup "特意" ⇒ 🎓#115（a couple of，历史字样）· 🎓#517（didn't bother to do，反义邻居，块不同）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `made a point of reserving`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"特意 X"时先落 made a point of，后面动词换 -ing。
+
+**题面**
+"我爸每次出差回来，都特意给我妈带一束花。"（"特意"用 **make a point of** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Every time my dad comes back from a business trip, he makes a point of bringing my mom a bunch of flowers.
+
+- 2026-11-01 ❌ 首犯 · 学习日 复检第 2 组 [5]（🎓#477 题里）· 她标「这个词组学下」· 原话 `He made a point of(这个词组学下) reserving a table with a river view for our first date, so that night just felt so special.`
+
 ## 迁移说明（2026-08-18）
 
 ```
