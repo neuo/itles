@@ -748,101 +748,6 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-11-01 ✅ 学习日 在池第 1 组 [1] · `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).` —— ended up getting（end up ＋ -ing）。连错 1 → 连对 1
   ｜她自注「这个单词背下」⇒ street vendor 另建 #566
 
-### 559 · **trendy**（网红店／网红餐厅 ＝ a trendy restaurant；⛔ famous）
-类型 词汇 ｜ 新建 2026-10-27
-状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
-
-**问题是什么**
-**trendy** ＝ 时髦、正火的（一阵子大家都去、都在发的那种）：`a trendy restaurant` · `a trendy café` · `that trendy spot everyone's posting about`。中文"网红店／网红餐厅／网红景点" ⇒ a trendy restaurant／spot；也说 Instagram-famous · hyped（被炒得很火的）。
-同一格里的邻居（别串）：famous（有名的，多指老牌、口碑积累起来的：a famous old restaurant —— 不带"社交媒体上一阵风火起来"的意思）· popular（受欢迎，最泛）· 🎓#392 influencer（网红"这个人"）。
-判据一句话：说"网红店／网红餐厅"（社交媒体上一阵风火起来的地方）⇒ trendy；famous 留给老字号、名气攒出来的。
-★ 与 🎓#392 分工：那条考"网红（人）＝ influencer"，正文只把"网红店 ⇒ 换说法"当邻居提了一句；本条考"网红（店）＝ trendy" ⇒ 两个词，题面互斥（#392 题面是人，本条题面是店）。
-★ 题型判整句："网红餐厅"能落到 trendy／Instagram-famous／hyped／popular 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 trendy。
-
-**怎么发现的**
-2026-10-27 付息日 a 段在池第 2 组 [6]（#556 题面"那家网红餐厅排了一个小时队，结果菜也就一般般。"）· 原话
-`We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.`
-考点 nothing to write home about 用对（#556 ✅）；diff-2 ⚠️："网红餐厅"落成 famous restaurant —— famous 是老牌有名，丢了"社交媒体上一阵风火起来"那层 ⇒ trendy ⇒ §3.2b 能学的表达（选词偏了，⛔ 不是同级近义词；session／档案里找不到她产出过 trendy ⇒ 不走书面登记）⇒ 建号（同 #548 #549 先例：diff-2 ⚠️ 建号记 ❌ 首犯）。
-判重三步：
-　① 目标形式 dedup "trendy" ⇒ 🎓#392（正文邻居 a trendy place that's all over social media）· 🎓#372（历史字样）· #556（题面目标形式字样）⇒ #392 否：那条考 influencer（人），本条考 trendy（店），两个词；#372 #556 只是字样 ⇒ 否；"Instagrammable" ⇒ 🎓#392 同上 ⇒ 否；"hyped"／"famous" ⇒ 零命中
-　② 中文 dedup "网红" ⇒ 🎓#392（网红＝influencer）· 🎓#366 #370（历史字样）· #556（题面）⇒ 都否；"网红店" ⇒ 🎓#392 正文邻居 ⇒ 否（同上）
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`at that famous restaurant`　　更地道：`at that trendy restaurant`
-找法：中文"网红（店／餐厅／景点）"先落 trendy；冒出 famous 先问一句 —— 它是老字号、名气攒出来的吗？不是就换 trendy。
-
-**题面**
-"我们公司附近新开了一家网红咖啡店，周末总有人排长队拍照。"（"网红"用 **trendy** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：A trendy café just opened near my office, and on weekends there's always a long line of people waiting to take photos.
-
-- 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [6]（#556 题里）· diff-2 ⚠️ · 原话 `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` ⇒ 更好版 trendy
-- 2026-10-30 ✅ 学习日 在池第 2 组 [2] · `There's a trendy new cafe near my workplace that always has long queues for photo every weekend.` —— a trendy new cafe ✓（没再落 famous；for photo 归 #56 ⚪）。连错 1 → 连对 1
-- 2026-11-01 ✅ 学习日 在池第 1 组 [2] · `This historic street is full of trendy food spots these days, so locals don't really go there anymore.` —— trendy food spots。连对 1 → 2 ⇒ **毕业**
-
-### 560 · **flip through ＋ 相册／杂志／书**（翻看、一页页地翻：flip through old photo albums）
-类型 词组 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
-
-**问题是什么**
-**flip through** ＝ 一页一页地翻看（相册、杂志、书、菜单，翻得快、随便看看）：`flip through old photo albums` · `flip through a magazine while waiting` · `flip through the menu`；英式也说 flick through。
-同一格里的邻居（别串）：🎓#507 rummage through（扒拉着乱翻、翻找东西）· look through（翻看、查看，最泛，也能说找东西）· go through（逐项过一遍、仔细看）· browse（浏览，多说网页、店里的货）。
-判据一句话：手里拿着一本东西一页页翻着看 ⇒ flip through；在一堆东西里扒拉着找 ⇒ rummage through。
-★ 与 🎓#507 分工：那条是翻找（找东西，乱翻），本条是翻看（看内容，一页页翻）⇒ 两个块，各走各的。
-★ 题型判整句："翻看"能落到 look through／go through／browse 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练），连对 1 之后点名降到只给 **flip**（through 留给她）。
-
-**怎么发现的**
-2026-10-27 付息日 a 段在池第 2 组 [8]（#558 题面"翻到大学时的旧照片，我一下子回到了那段日子。"）· 原话
-`Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
-她用对了 flip through，自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #556 先例）。
-判重三步：
-　① 目标形式 dedup "flip through" ⇒ 零命中；"flipping through" ⇒ #558（题面目标形式字样）⇒ 否；"flick through"／"leaf through"／"look through"／"browse" ⇒ 零命中；"go through" ⇒ 🎓#415（make it through，历史／正文字样）· 🎓#507（rummage through 正文邻居字样）⇒ #507 否：翻找 ≠ 翻看，两个块
-　② 中文 dedup "翻看" ⇒ 零命中；"翻到" ⇒ #558（题面）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `Flipping through old photo albums`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"翻看（相册、杂志、书）"先试 flip through。
-
-**题面**
-"在牙医诊所等号的时候，我随手翻了翻桌上的杂志。"（"翻了翻"用 **flip through** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：While waiting at the dentist's, I flipped through a magazine on the table.
-
-- 2026-10-27 ❌ 首犯 · 付息日 a 段在池第 2 组 [8]（#558 题里）· 她标「这个词组学下」· 原话 `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.`
-- 2026-10-30 ✅ 学习日 在池第 2 组 [3] · `I was casually flipping through a magazine on the table while waiting to see the dentist.` —— flipping through a magazine ✓。连错 1 → 连对 1
-- 2026-11-01 ✅ 学习日 在池第 1 组 [3] · `… my sister and I spent time flipping through old photo albums from when we were kids.` —— flipping through。连对 1 → 2 ⇒ **毕业**
-
-### 561 · **tremble**（发抖、哆嗦：the puppy was trembling；冷得发抖 ⇒ shiver）
-类型 词汇 ｜ 新建 2026-10-27 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
-
-**问题是什么**
-**tremble** ＝ 发抖、哆嗦（害怕、紧张、虚弱、激动时身体或手控制不住地抖）：`the puppy was trembling` · `My hands were trembling.` · `tremble with fear`。
-同一格里的邻居（别串）：shiver（冷得发抖、打寒战：shivering in the cold）· shake（最泛，怕、冷、激动都能说：shaking like a leaf）· quiver（轻轻颤动，多说嘴唇、声音）。
-判据一句话：怕／紧张／虚弱得发抖 ⇒ tremble；冷得发抖 ⇒ shiver；拿不准 ⇒ shake 都能兜住。
-★ 题型判整句："发抖"能落到 shake／shiver／tremble 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
-
-**怎么发现的**
-2026-10-27 付息日 a2 复检第 3 组 [5]e（🎓#459 题面"在消防员怀里发抖的小狗"）· 原话
-`the puppy trembling(这个词学下) in the firefighter's arms`
-她用对了 trembling，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #550 #556 #560 先例）。
-判重三步：
-　① 目标形式 dedup "tremble"／"trembling"／"shiver" ⇒ 零命中
-　② 中文 dedup "发抖" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `the puppy trembling`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"发抖、手抖、哆嗦"先问一句 —— 是冷吗？是 ⇒ shiver；是怕、紧张 ⇒ tremble。
-
-**题面**
-"面试前我紧张得手一直在抖。"（"抖"用 **tremble** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My hands wouldn't stop trembling before the interview.
-
-- 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
-- 2026-10-30 ✅ 学习日 在池第 2 组 [4] · `My hands were trembling so badly before the interview because I was so nervous.` —— My hands were trembling ✓。连错 1 → 连对 1
-- 2026-11-01 ✅ 学习日 在池第 1 组 [4] · `The little cat was scared by the thunder and hid under the bed, trembling all over.` —— trembling all over。连对 1 → 2 ⇒ **毕业**
-
 ### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
 类型 词组 ｜ 新建 2026-10-27
 状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
@@ -1057,6 +962,35 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 ★ 目标形式（教练看，⛔ 不进发题稿）：By the time we got to the campsite it was already dark, so we had to pitch our tent by flashlight.
 
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 3 组 [1]（🎓#186 题里）· 她标「这个动词学下」· 原话 `The kids spent the whole afternoon pitching（这个动词学下) a play tent in the living room, and left the floor in a total mess when they went to sleep.`
+
+### 569 · **here in ＋ 地名**（here in Chengdu；⛔ here, Chengdu）
+类型 搭配 ｜ 新建 2026-11-01
+状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+
+**问题是什么**
+说"就在这儿（某城市／某国）" ⇒ **here in ＋ 地名**：`a stadium here in Chengdu` · `here in China` · `back home in Sichuan`。
+同一格里的邻居（别串）：over there in ＋ 地名（那边在…：over there in Japan）· in Chengdu（不带 here，也对）。
+判据一句话：here 后面要补出具体是哪儿 ⇒ 用 in 挂上；⛔ 逗号直接接地名（here, Chengdu）。
+★ 题型判整句：考点是 here 和地名之间那个 in，要靠句子才现形；"我们这儿成都"不点 here 会落成 in Chengdu 绕开 ⇒ 整句 ＋ 正向点名 here。
+
+**怎么发现的**
+2026-11-01 学习日 ③ 重答 bank:340（R30 · P2 · Describe a live sports event you watched and liked）[S2] · 原话
+`We watched it at a stadium here, Chengdu.`
+here 后面丢了 in，逗号直接挂地名 ⇒ ❌（08-16 首答同一处写的是 here in chengdu，这次退步）。
+判重三步：
+　① 目标形式 dedup "here in" ⇒ 零命中
+　② 中文 dedup "成都" ⇒ 🎓#312（search for，题面字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`at a stadium here, Chengdu`　　正确：`at a stadium here in Chengdu`
+找法：说完 here 想补地名，先补 in。
+
+**题面**
+"我们这儿成都，冬天很少下雪。"（"我们这儿成都"用 **here** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Here in Chengdu, it hardly ever snows in winter.
+
+- 2026-11-01 ❌ 首犯 · 学习日 ③ 重答 bank:340（R30 · P2）[S2] · 原话 `We watched it at a stadium here, Chengdu.`
 
 ## 迁移说明（2026-08-18）
 

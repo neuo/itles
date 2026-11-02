@@ -7545,3 +7545,24 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 中途 10⇄1、收尾 1⇄0
 
 **下一场 ＝ 周期 15 · L2**：回潮 #338 ＋ 连对1 的 4 条（#559–#562）＋ #563–#565 首测；复检以 pick 为准；② 回看 lookback --pending；④ 重答 bank:340（08-16 首答已回补）＋ 与旧答对比
+
+## 2026-11-01（周日）· 口语 L2（周期 15 第 2 个学习日）
+
+> 日期：开场美东 11-02 03:25（未到 11-02 中午），按中午分界属 11-01；10-31 没练，不占位。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 545 ＝ problems.md 19 ＋ graduated.md 526 ｜ 🎓 526（96.5%）｜ 未毕业 19 ｜ 可出题 9 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 38 道
+
+**五段**
+- ① 在池 1 组 8 题 / 8 条：**✅6 ❌2** ⇒ **毕业 3**（#559 trendy · #560 flip through · #561 tremble）；#338 end up 回潮后连对 1；#563 stall · #565 grand 首测 ✅
+  · ❌ #562：`I'm working from home these few days` —— 往后几天 ⇒ for the next few days
+  · ❌ #564：`A sudden storm of(storm of 可以学下) hail` —— 一场冰雹 ⇒ a hailstorm；种子点名改成整块 hailstorm
+- ①b 复检 2 组（在池只排 1 组，下溢 2 组）12 题 / 12 条：**✅12 ❌0**；#477 #478 #479 都用了合法的另一种说法（felt so special · shows how much we mean to her · become much closer）⇒ ✅
+- ② 回看：无（10-30 没有新的自由产出）
+- ④ 重答 bank:340（P2 现场看的体育赛事）：首答 10 处 ❌ → 这次 1 处（here, Chengdu ⇒ #569）；新块 caught (a game) live · super big on · talked late into the night · I couldn't even tell you who won；these days 用在长期常态上用对了；丢了"现场 vs 电视"那一层和 17 年这个细节
+- 新建 4：#566 street vendor（背下）· #567 make a point of（学下）· #568 pitch a tent（学下）· #569 here in ＋ 地名（❌）
+
+**教练犯规**：开场没先 `git pull` main，在停在 10-03 的旧会话分支上按"周期 9 付息日"开了一场（她答了 11 题），她发现后作废；分支不强推，用一个合并提交对齐 main，从 main 重开
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
+
+**下一场 ＝ 周期 15 · L3**：#338 #563 #565 连对1 · #562 连错1 · #564 连错2 · #566–#569 首测；复检以 pick 为准；② 回看 bank:340；④ 重答 bank:427（P3 · What is the ideal length for a holiday?）＋ 与旧答对比
