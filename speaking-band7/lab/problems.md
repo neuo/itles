@@ -699,7 +699,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 343 · **opening hours**／business hours（营业时间；⛔ open time）
 类型 词组 ｜ 新建 2026-09-15
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **回潮 2026-10-02**（09-19 毕业 → 10-02 复检写成 `The museum's operating time.`，"开放时间"又落在 time 上，撤销毕业、连对清零）｜ **🎓 已毕业 2026-11-01**（连对2 ＝ 10-03 ＋ 11-01；10-02 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 "营业时间"是一个固定块：**opening hours**（英式也说 opening times）／ **business hours**；⛔ open time 不是一个块（open 是形容词，time 单数也不对）。
@@ -733,10 +733,12 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   最小改 `The museum's operating hours.`　更好版 `The museum's opening hours.`
   ❌ 营业／开放时间是几点到几点这一段 ⇒ hours（opening／business／operating hours），⛔ time
 - 2026-10-03 ✅ 学习日 在池第 1 组 [1] · `The bank's weekend opening hours.` —— opening hours，hours 不是 time。连错 1 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [1] · `the operating hours of the convenience store near the gate of our apartment complex` —— operating hours，hours 不是 time（operating hours 10-02 已列为合法）。连对 1 → 2 ⇒ **毕业**
+  更好版 opening hours ⚠️（operating hours 偏告示口吻，聊天时 opening hours 更顺口）
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 "把想要的东西弄到手"口语就是 **get it**：know what he wants and how to **get it**。
@@ -768,10 +770,11 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
   ❌ 宾语是"想要的东西" ⇒ get it（get hold of it 也对）；⛔ reach it（reach 接目标／地点）
   ｜「绝版也不会」⇒ out of print 另建 #393
 - 2026-10-03 ✅ 学习日 在池第 1 组 [2] · `I waited six months for this new phone and finally got my hands on it yesterday.` —— got my hands on it（get one's hands on ＝ 弄到手），get 带出来了、没用 reach。连错 1 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [2] · `… I had to try three times before I finally got  my hands on one.` —— got my hands on one（get 系，没用 reach）。连对 1 → 2 ⇒ **毕业**
 
 ### 387 · meander（河弯弯曲曲、慢悠悠地流；人慢悠悠地闲逛）
 类型 词汇 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 词组
 
 **问题是什么**
 **meander** ＝ 河／路弯弯曲曲、慢悠悠地往前：`The river meanders along／through the town.`
@@ -799,6 +802,8 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
   最小改 `a little river meandering through the village`
   ❌ 河又弯又慢地往前流 ＝ meander（一个词自带"拐来拐去＋慢悠悠"）；别串 wind（只弯）· wander（人闲逛）· flow（只说流）
 - 2026-10-03 ✅ 学习日 在池第 1 组 [9] · `A small stream lazily meanders through the valley.` —— meanders through（10-02 忘了，今天调出来了）。连错 2 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [3] · `A tiny river meanders through huge fields of rice paddies.` —— meanders through。连对 1 → 2 ⇒ **毕业**
+  ⚠️ fields of rice paddies → fields of rice（paddy 本身是稻田，删词，不建号）
 
 ### 388 · as the sun was going down（太阳落山的时候；⛔ 书面诗化 the lingering glow of dusk）
 类型 词组 ｜ 新建 2026-10-01
@@ -832,7 +837,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 390 · get through ＋ 书／一堆活儿（读完、啃完）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 **get through** ＋ 一本书／一堆东西 ＝ 从头到尾读完、啃完（口语，带一点"花了劲才弄完"的味道）：
@@ -862,10 +867,11 @@ get through to sb（打通电话／让对方听进去，另一个意思，🎓#3
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [5]（#386 题里）· 她标「读完学习下」· 原话 `I can get through(读完学习下) this book in about three or four days.`
 - 2026-10-03 ✅ 学习日 在池第 1 组 [10] · `I got through three novels over the break.` —— got through three novels。连错 1 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [4] · `This week, I have to get through that whole pile of reports sitting on my desk.` —— get through ＋ 一堆报告。连对 1 → 2 ⇒ **毕业**
 
 ### 391 · up-and-coming（新贵／正在冒头的：an up-and-coming team）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 整句
 
 **问题是什么**
 **up-and-coming** ＝ 正在冒头、越来越厉害的（新贵、后起之秀），放在名词前：
@@ -895,11 +901,13 @@ upstart（带贬义：不知天高地厚的新贵）。
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 2 组 [8]（#365 题里）· 她问「一个问题，新贵怎么说」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [1] · `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.` —— up-and-coming 放在名词前。连错 1 → 连对 1
   ｜她自注「这个背一下」⇒ tournament 另建 #395
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [5] · `This indie band is an up-and-coming powerhouse—they only formed last year …` —— up-and-coming 用对。连对 1 → 2 ⇒ **毕业**
+  ⚠️ up-and-coming powerhouse → up-and-coming（powerhouse ＝ 老牌实力派，与"正在冒头"方向相反；删词，不建号）
 - 备注 编号：#389 曾被当天撤销的 Singles' Day 条目占用，按 §3.1「作废的号也不复用」，本日新建从 #390 起
 
 ### 392 · influencer（网红）
 类型 词汇 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 词组
 
 **问题是什么**
 **influencer** ＝ 网红（在社交媒体上有影响力、能带货的那种人）。
@@ -925,10 +933,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [3]（#370 题里）· 她标「网红这个词背一下」· 原话 `Short-video platforms have created a whole wave of influencers.(网红这个词背一下)`
 - 2026-10-03 ✅ 学习日 在池第 2 组 [2] · `A beauty influencer with millions of followers.` —— influencer。连错 1 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [6] · `an influencer who makes videos visiting and reviewing food spots` —— influencer。连对 1 → 2 ⇒ **毕业**
 
 ### 393 · out of print（绝版；an out-of-print book）
 类型 词组 ｜ 新建 2026-10-02 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-01 ｜ **🎓 已毕业 2026-11-01** ｜ 题型 词组
 
 **问题是什么**
 书／唱片"绝版了" ＝ **out of print**：`The book is out of print.` ／ `an out-of-print book`（放名词前加连字符）。
@@ -953,10 +962,11 @@ upstart（带贬义：不知天高地厚的新贵）。
 
 - 2026-10-02 ❌ 首犯 · 学习日 在池第 3 组 [5]（#372 题里）· 她说「忘了，而且绝版也不会」
 - 2026-10-03 ✅ 学习日 在池第 2 组 [3] · `A classic record that's long been out of print.` —— out of print，"早就"也落成 long been。连错 1 → 连对 1
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [7] · `an old cookbook that's long been out of print` —— out of print。连对 1 → 2 ⇒ **毕业**
 
 ### 394 · throw a tantrum（哭闹撒泼、大发脾气）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **throw a tantrum** ＝ 又哭又闹、撒泼发脾气（多说小孩，也能说大人耍性子）：
@@ -981,13 +991,15 @@ upstart（带贬义：不知天高地厚的新贵）。
 找法：说"孩子哭闹／撒泼"，先落 throw a tantrum。
 
 **题面**
-"我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **throw a tantrum** 说）
+"我侄子没买到玩具，就在商场里躺地上撒泼打滚。"（"撒泼打滚"用 **tantrum** 说）
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 1 组 [5]（#383 题里）· 她标「这个词背一下」· 原话 `When a kid is throwing a tantrum(这个词背一下), you just can't reason with them.`
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [8] · `When my nephew didn't get his toy, he threw a tantrum right on the floor in the shopping mall.` —— threw a tantrum。连错 1 → 连对 1
+- 2026-11-01 📝 题面整改 · 连对 1 ⇒ 点名降回 lemma **tantrum**（§6②：她点名要学的块，连对 ≥1 后降回 lemma，throw 留给她）
 
 ### 395 · tournament（锦标赛／大赛：要打好几轮、最后决出冠军的那种赛事）
 类型 词汇 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **tournament** ＝ 一整个赛事，好几支队伍／好几个人打好几轮，最后决出冠军（网球、乒乓球、电竞、象棋常用）：
@@ -1013,10 +1025,11 @@ contest（评比类：a singing contest）· championship（冠军赛，常做�
 "今年夏天的电竞大赛"（好几支队伍打好几轮、最后决出冠军的那种赛事）
 
 - 2026-10-03 ❌ 首犯 · 学习日 在池第 2 组 [1]（#391 题里）· 她标「这个背一下」· 原话 `He's an up-and-coming table tennis player who has won several major tournaments(这个背一下) this year.`
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [9] · `this summer's major esports tournament` —— tournament。连错 1 → 连对 1
 
 ### 396 · at stake（押在那儿、利害攸关：how much is at stake）
 类型 词组 ｜ 新建 2026-10-03 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-10-03 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **at stake** ＝ 可能会输掉／受影响的东西"押在那儿"；它是**表语短语**，前面一定有 be：
@@ -1043,6 +1056,7 @@ at stake 位置用错（缺 be、后面又挂 it feels）＋ 她自己标「at s
 "这次谈判关系重大，公司的未来都押在上面了。"（"押在上面"用 **at stake** 说）
 
 - 2026-10-03 ❌ 首犯 · 学习日 新题 bank:504（P3）[S3] · 她标「at stake 要学下」· 原话 `It all comes down to how much at stake it feels.(at stake 要学下)`
+- 2026-11-01 ✅ 付息日 a 段在池第 1 组 [10] · `This negotiation is huge, and the future of our entire company is at stake.` —— is at stake（be 在前）。连错 1 → 连对 1
 
 ## 迁移说明（2026-08-18）
 
