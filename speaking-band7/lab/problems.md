@@ -1065,6 +1065,182 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 
 - 2026-11-02 ❌ 首犯 · 学习日 在池第 1 组 [8]（#568 题里）· 她标「这个短语可以学下」· 原话 `By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.`
 
+### 572 · **pull away**（往后一缩、躲开，不让人碰）
+类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**pull away** ＝ （人／动物）身子往后一缩、躲开，不让对方碰到：`The cat pulled away when I tried to pet it.` · `She pulled away from his hug.`
+同一格里的邻居（别串）：back away（往后退几步）· shy away from（因为害怕／不好意思而回避）· dodge（一下子闪开）· 车起步也叫 pull away（#563 11-01 原话 `stalled right when it pulled away`，另一个义项）。
+判据一句话：被人伸手碰时身体往回缩 ⇒ pull away（from sb）。
+★ 题型判整句："躲开"能落到 move away／back off／dodge 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 pull away，连对 ≥1 后降回 pull。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [4]（🎓#544 题面"宠物咖啡馆里那只柯基特别乖，谁去摸它都不躲。"）· 原话
+`That Corgi at the pet cafe is so well-behaved that it won't pull away（这个学下） no matter who pets it.`
+她写对了 pull away，但自己标「这个学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #563 #566 #567 #568 #571 先例）。
+判重三步：
+　① 目标形式 dedup "pull away" ⇒ #563（历史字样：车起步的 pulled away，另一个义项）⇒ 否
+　② 中文 dedup "躲" ⇒ 🎓#46 #176 #495（字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `it won't pull away`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说到"一躲／往后一缩"先落 pull away。
+
+**题面**
+"我想抱一下邻居家的小孩，他害羞地往后一缩躲开了。"（"往后一缩躲开"用 **pull away** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I tried to give the neighbor's kid a hug, but he shyly pulled away.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [4]（🎓#544 题里）· 她标「这个学下」· 原话 `That Corgi at the pet cafe is so well-behaved that it won't pull away（这个学下） no matter who pets it.`
+
+### 573 · **settle a score with sb**（找某人算账、报旧仇；对多个人 ⇒ settle scores with …）
+类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**settle a score (with sb)** ＝ 找某人算账、把旧仇报了：`He came back to settle a score with the man who betrayed him.` · settle old scores（清算旧账）。
+同一格里的邻居（别串）：get back at sb（报复某人，更口语）· get even with sb（扯平）· settle the bill（结账，真付钱）· 🎓#126 settle into（适应新环境，另一个块）。
+判据一句话：因为过去的仇去找人"算账" ⇒ settle a score with sb；真的付钱结账 ⇒ settle the bill。
+★ 题型判整句："找…算账"能落到 get back at／get revenge on 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 settle a score，连对 ≥1 后降回 score。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [5]f（🎓#498 题面"小说里那个专门私下找贪官算账的义警"）· 原话
+`a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+她写对了 settles scores with，但自己标「学下这个短语」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #572 先例；同句 on the sly 另建 #574）。
+判重三步：
+　① 目标形式 dedup "settle" ⇒ 🎓#126（settle into 适应新环境）· 🎓#308 #414（字样）⇒ 都否
+　② 中文 dedup "算账" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `settles scores with corrupt officials`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说到"找…算账"先落 settle a score with。
+
+**题面**
+"他出狱以后第一件事就是去找当年出卖他的人算账。"（"算账"用 **settle a score** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The first thing he did after getting out of prison was settle a score with the guy who'd sold him out.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [5]f（🎓#498 题里）· 她标「学下这个短语」· 原话 `a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+
+### 574 · **on the sly**（偷偷地、背着人）
+类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**on the sly** ＝ 偷偷地、背着别人（不想让人知道），口语，常放句末：`She's been eating sweets on the sly.` · `He took the job on the sly.`
+同一格里的邻居（别串）：secretly（中性）· behind sb's back（背着某人，常带"不地道"）· 🎓#527 in private（私下、关起门来，不一定是瞒着人）。
+判据一句话：做的事不想被人发现 ⇒ on the sly；只是不在公共场合 ⇒ in private。
+★ 题型判整句："偷偷"能落到 secretly／sneakily 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 on the sly，连对 ≥1 后降回 sly。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [5]f（🎓#498 题面"小说里那个专门私下找贪官算账的义警"）· 原话
+`a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+她写对了 on the sly，但自己标「学下这个短语」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同句 settle scores with 另建 #573）。
+判重三步：
+　① 目标形式 dedup "on the sly" ⇒ 零命中
+　② 中文 dedup "偷偷" ⇒ 🎓#313 #481 #485（字样）⇒ 都否；"私下" ⇒ 🎓#527 in private（私下≠偷偷，块不同）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `on the sly`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说到"偷偷（瞒着人）做…"，句末补 on the sly。
+
+**题面**
+"我妹妹趁我妈不注意，偷偷吃了好几块巧克力。"（"偷偷"用 **on the sly** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My sister ate several pieces of chocolate on the sly while my mom wasn't looking.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [5]f（🎓#498 题里）· 她标「学下这个短语」· 原话 `a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+
+### 575 · **prefer (that) sb do**（更希望某人做…：My mom preferred I stay home；也说 prefer sb to do）
+类型 结构 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**prefer (that) sb do sth** ＝ 更希望某人做…，人后面的动词用**原形**：`My mom preferred I rest at home.` · `I'd prefer you not tell anyone.`
+同义结构：prefer sb to do sth（`I'd prefer you to stay.`）。
+同一格里的邻居（别串）：would rather sb did（`My mom would rather I stayed home.` 口语更常见，后面用过去式）· want sb to do（最中性）。
+判据一句话：prefer 后面跟"人 ＋ 动作" ⇒ 人后面接动词原形（或 to do）。
+★ 题型判整句：考点是 prefer 后面挂人和动作的那个结构，要靠句子才现形 ⇒ 整句 ＋ 正向点名 prefer。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [6]（🎓#546 题面"我想周末出去玩，我妈想让我在家休息，最后我们找了个折中：周六出门，周日在家。"）· 原话
+`I wanted a weekend outing, but my mom preferred I(prefer sb. do sth. 学下) rest at home, so we eventually found a middle ground …`
+她写对了 preferred I rest，但自己标「prefer sb. do sth. 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #572 先例）。
+判重三步：
+　① 目标形式 dedup "prefer" ⇒ 🎓#20 #347 #348 #353 #356（字样）⇒ 都否；"would rather" ⇒ 零命中
+　② 中文 dedup "更希望"／"希望我" ⇒ 只命中本条自身 ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `my mom preferred I rest at home`，但结构不在手边（自己标学下）　　目标：同她原句
+找法：说"（谁）更希望我…"先落 prefer (that) I ＋ 动词原形。
+
+**题面**
+"我爸更希望我毕业后回老家工作。"（"更希望我…"用 **prefer** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My dad would prefer (that) I go back to my hometown to work after graduation.／My dad would prefer me to go back …
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [6]（🎓#546 题里）· 她标「prefer sb. do sth. 学下」· 原话 `I wanted a weekend outing, but my mom preferred I(prefer sb. do sth. 学下) rest at home, so we eventually found a middle ground where we went out on Saturday and chilled at home on Sunday.`
+
+### 576 · **savory crepe**（煎饼：a Chinese savory crepe／jianbing）
+类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**savory crepe** ＝ 咸口的薄饼；跟外国人说煎饼 ⇒ a Chinese savory crepe（或直接说 jianbing 再解释一句）。savory ＝ 咸口的（反义 sweet）。
+同一格里的邻居（别串）：pancake（厚的、多半甜的松饼）· crepe（薄饼，甜咸都有）· flatbread（饼、烙饼）· #577 fried dough sticks（油条，同一桌早饭）。
+判据一句话：薄薄一层、加鸡蛋酱料的咸口早饭 ⇒ savory crepe。
+★ 题型判整句："煎饼"能落到 jianbing／pancake 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 savory crepe，连对 ≥1 后降回 crepe。
+★ 与 #566 同组时注意：#566 种子题面里有"煎饼" ⇒ 两条同组出题时 #566 换别的小吃（防泄题）。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [9]（🎓#486 题面"我家楼下有四家早餐店：一家卖包子，另一家卖面条，第三家卖煎饼，最后一家只卖豆浆油条。"）· 原话
+`… a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+她写对了 savory crepes，但自己标「这两个单词分别背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（另一个单词 ⇒ #577）。
+判重三步：
+　① 目标形式 dedup "crepe" ⇒ 零命中
+　② 中文 dedup "煎饼" ⇒ #566（题面字样，那条考 street vendor）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `savory crepes`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"煎饼"先落 a savory crepe。
+
+**题面**
+"我最喜欢的早餐是加两个鸡蛋的煎饼。"（"煎饼"用 **savory crepe** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My favorite breakfast is a savory crepe with two eggs.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#486 题里）· 她标「这两个单词分别背下」· 原话 `Downstairs from my place, there are four breakfast shops: the first sells buns, another sells noodles, a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+
+### 577 · **fried dough sticks**（油条；⛔ 直接说 churros）
+类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+油条 ＝ **fried dough sticks**（或 youtiao 再解释一句）：`soy milk and fried dough sticks`（豆浆油条）。
+同一格里的邻居（别串）：churros（西班牙／墨西哥那种裹糖、蘸巧克力吃的甜点 —— 解释时可以说 "it's like a Chinese churro"，但直接说 soy milk and churros 对方想的是甜点）· doughnut（甜甜圈）· #576 savory crepe（煎饼）。
+判据一句话：说中国早餐里的油条 ⇒ fried dough sticks；churro 只拿来打比方。
+★ 题型判整句："油条"能落到 youtiao／churros 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 fried dough stick，连对 ≥1 后降回 dough。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 2 组 [9]（🎓#486 题面同 #576）· 原话
+`… a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+她标「这两个单词分别背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌；且 churros 本身选词偏了（调出来的是另一种食物，不是同级近义词，§3.2b）。
+判重三步：
+　① 目标形式 dedup "churro"／"dough" ⇒ 零命中
+　② 中文 dedup "油条" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`soy milk and churros`　　更准确：`soy milk and fried dough sticks`
+找法：说到"油条"先落 fried dough sticks；churro 只在打比方时用。
+
+**题面**
+"他把油条掰成小段泡在粥里吃。"（"油条"用 **fried dough stick** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He breaks the fried dough sticks into little pieces and soaks them in his congee.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#486 题里）· 她标「这两个单词分别背下」· 原话 `Downstairs from my place, there are four breakfast shops: the first sells buns, another sells noodles, a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+
 ## 迁移说明（2026-08-18）
 
 ```
