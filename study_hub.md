@@ -8,6 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-11-02 · 口语 L3（周期 15 第 3 个学习日）· 已收尾**
+  —— 在池 1 组 **9 题 / 9 条 ✅9 ❌0**；复检 2 组（在池只排 1 组，下溢 2 组但到期只够 2 组）**18 题 / 24 条 ✅24 ❌0**；回潮 0
+  —— 🎓 **毕业 3 条**（#338 end up 回潮后重新毕业 · #563 stall · #565 grand）⇒ 全档 **556** ＝ problems 27 ＋ graduated **529**（95.1%）
+  —— 🆕 **新建 11 条** #570–#580（❌ 1：in total（⛔ back and forth，前前后后）｜ 她标学下 10：night falls · pull away · settle a score with · on the sly · prefer (that) sb do · savory crepe · fried dough sticks（⛔ churros）· handlebars · unfazed · clothesline）
+  —— 种子整改：#564 #566 #567 #568 连对 1 ⇒ 点名降回 lemma（hail · vendor · point · pitch）｜ 🎓#496 正文更正：overrun with／by 都合法 ｜ ⚪ 1（#56 using flashlight）
+  —— ② 回看 bank:340；③ 重答 bank:427（P3 假期多长最理想）首答 3 处 ❌ ＋ 1 处卡住 → 这次零错；自己用出了不带 if 的条件句（Any shorter, and …）和"打卡"（check off places），更短／更长两头都给了理由
+  —— 数据修补：2026-08-16.md 补 bank:427 四件套逐字回补（attempts 现在解析得出）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 3⇄0
+  —— **下一场 ＝ 周期 15 · R（付息日）**：在池 17 条（6 条连对1 ＋ #570–#580 首测）；复检以 pick --type review 为准；⓪ 回看 lookback --cycle；c 段 review；d 段重答 redo 第 1 行（bank:1024 · P3 电影院）起
+
 🆕🆕🆕 **2026-11-01 · 口语 L2（周期 15 第 2 个学习日）· 已收尾**
   —— 在池 1 组 **8 题 / 8 条 ✅6 ❌2**（#562 these few days · #564 a storm of hail）；复检 2 组（在池只排 1 组，下溢 2 组但到期只够 2 组）**12 题 / 12 条 ✅12 ❌0**；回潮 0
   —— 🎓 **毕业 3 条**（#559 #560 #561）⇒ 全档 **545** ＝ problems 19 ＋ graduated **526**（96.5%）

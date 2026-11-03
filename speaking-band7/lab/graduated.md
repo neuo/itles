@@ -14589,6 +14589,51 @@ get 直接带宾语是"拿到／得到"（get a ticket／get the message）—�
 - 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [3] · `I have to look it up on my phone.`
 - 2026-10-17 ✅ 付息日 复检第 6 组 [3] · `so I'll have to look it up`
 
+### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing／end up with -ing）
+类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
+状态 连对2 连错0 上次2026-11-02 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-11-02**（回潮后重新毕业：11-01 ✅ ＋ 11-02 ✅）
+
+**问题是什么**
+**end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
+end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital ／ end up with nothing）；⛔ 中间不加 to。
+同一格里的邻居（别串）：🎓#113 考的是"都要／总是"那一层要不要显式说出来（always end up ／ have to），
+本条只管 end up 后面那个形 —— 层落地了、形写歪了，两条各判各的。
+判据一句话：end up 后面是动词吗？是 ⇒ 直接 -ing，中间什么都不夹（⛔ to，⛔ with —— with 后面只接名词：end up with cream all over his face）。
+
+**怎么发现的**
+2026-09-13 学习日 复检第 4 组 [8]（#113 那题 · "我每次去都要排半小时队。"）· 触发原话
+`I always end up to queuing for half an hour every time I go.`（"都要"那层落地了，#113 ✅；end up to queuing 不归那条）
+判重三步：
+　① 目标形式 end up -ing ⇒ dedup "end up" ⇒ 命中 🎓#113（层，不是形）、#49（历史行里带过 end up，考人称）⇒ 都否
+　② 中文 "最后…" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）；08-20／09-05 她两次写对过 end up queuing ⇒ 是形没长稳，不是没见过
+
+**我错在哪**
+她的：`end up to queuing`　　正确：`end up queuing`
+找法：写完 end up，看后面紧跟的是不是 -ing；冒出一个 to 就删掉。
+
+**题面**
+"本来想点外卖，结果最后还是自己做了饭。"（"结果最后"用 **end up** 说）
+
+- 2026-09-13 ❌ 首犯 · 学习日 复检第 4 组 [8]（#113 那题）· `I always end up to queuing for half an hour every time I go.`
+  最小改 `I always end up queuing for half an hour every time I go.`
+  ❌ end up 后面直接接 -ing，⛔ 不加 to；"都要"那层（always end up）落地了，归 #113 ✅
+  ★ 判重：dedup "end up" ⇒ 🎓#113（层不是形）／#49（历史行带过）⇒ 两条并存
+- 2026-09-15 ✅ 学习日 在池第 2 组 · `I ended up doing it myself.` —— end up ＋ -ing；连错1 → 连对1
+- 2026-09-15 ✅ 新题 bank:1059（P2 · cold）自发命中 · `We ended up being classmate for years right until we finished high school.`
+  end up ＋ -ing 一字不差（今日第二次 ✅，§3.3 同日多次各记一行各算一次）→ **连对2，毕业**
+- 2026-09-20 ⚡ 自评免测 · 复检第 2 组（她答"都直接过"）
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 正向点名）· 题型 词组 → 整句
+  点名 end up，后面接 -ing 还是 to 留给她（她掉过的是 end up to queuing）；换成点外卖场景
+- 2026-09-30 ✅ 复检 · 付息日 a2 第 4 组 [2] · `we ended up staying at home watching TV all day.`
+- 2026-10-17 ✅ 付息日 复检第 6 组 [2] · `but I ended up cooking dinner on my own instead`
+- 2026-10-17 ✅ 自发命中 · 付息日 d 段重答 bank:834（R23 · P2 · 自由产出）S2 · `but I ended up going over budget after adding a multi-color printing accessory`
+- 2026-10-30 ❌ 学习日 在池第 1 组 [10]（#557 题里）· `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— end up 和 -ing 中间夹了 with（end up ＋ -ing 与 end up with ＋ 名词两条路混搭）⇒ 最小改 ending up smearing cream all over his face ⇒ 🎓 回潮
+- 2026-10-30 📝 当天回潮后自发用对 · 学习日 复检第 3 组 [2]（🎓#525 题里）· `so it ended up getting completely wet in the rain` —— end up ＋ -ing ✓；上午在池第 1 组刚回潮、刚讲过 ⇒ 按「当天教完当天测＝假 ✅」只留痕，⛔ 不记 ✅、不动连对
+- 2026-11-01 ✅ 学习日 在池第 1 组 [1] · `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).` —— ended up getting（end up ＋ -ing）。连错 1 → 连对 1
+  ｜她自注「这个单词背下」⇒ street vendor 另建 #566
+- 2026-11-02 ✅ 学习日 在池第 1 组 [1] · `We originally just wanted to pop in and look around, but ended up buying a new refrigerator.` —— ended up buying（end up ＋ -ing）。连对 1 → 2 ⇒ 🎓 毕业
+
 ### 339 · reach sb（联系上；直接带宾语，⛔ get reach sb）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#130 互斥（那条考 can／be able to，本条考 reach 的形）
 状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-09-18** ｜ 题型 整句
@@ -22152,3 +22197,65 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-27 ❌ 首犯 · 付息日 a2 复检第 3 组 [5]e（🎓#459 题里）· 她标「这个词学下」· 原话 `the puppy trembling(这个词学下) in the firefighter's arms`
 - 2026-10-30 ✅ 学习日 在池第 2 组 [4] · `My hands were trembling so badly before the interview because I was so nervous.` —— My hands were trembling ✓。连错 1 → 连对 1
 - 2026-11-01 ✅ 学习日 在池第 1 组 [4] · `The little cat was scared by the thunder and hid under the bed, trembling all over.` —— trembling all over。连对 1 → 2 ⇒ **毕业**
+
+### 563 · **stall**（车熄火：the car stalled · stall the car；⛔ 与 market stall 摊位串）
+类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-11-02** ｜ 题型 整句
+
+**问题是什么**
+**stall** ＝ （发动机）熄火、开着开着自己憋灭了：`The car stalled at the lights.` · `I kept stalling the car.`（人当主语也行：我把车弄熄火了）。
+同一格里的邻居（别串）：break down（车坏了、抛锚，是故障）· turn off the engine（自己把发动机关掉）· 🎓#430 正文里的 stall 是"摊位"（market stall），另一个义项。
+判据一句话：发动机不该熄的时候自己熄了 ⇒ stall；车出故障开不了 ⇒ break down；自己关的 ⇒ turn off。
+★ 题型判整句："熄火"能落到 the engine died／cut out 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-30 学习日 复检第 3 组 [5]（🎓#528 题面"我刚学开手动挡的车，熄了好几次火才摸到窍门。"）· 原话
+`When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
+她用对了 stalled，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #560 #561 先例）。
+判重三步：
+　① 目标形式 dedup "stall" ⇒ 🎓#430（street market 正文里的 stall ＝ 摊位，另一个义项）⇒ 否；"stick shift" ⇒ 零命中
+　② 中文 dedup "熄火"／"手动挡" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `I stalled a few times`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"熄火"先问一句 —— 是发动机自己憋灭的吗？是 ⇒ stall。
+
+**题面**
+"早高峰堵在坡上，前面那辆车一起步就熄火了。"（"熄火"用 **stall** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We were stuck on a hill in rush-hour traffic, and the car in front of us stalled as soon as it tried to pull away.
+
+- 2026-10-30 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#528 题里）· 她标「这个词学下」· 原话 `When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
+- 2026-11-01 ✅ 学习日 在池第 1 组 [6] · `Stuck on an incline during the morning rush hour, the car in front stalled right when it pulled away.` —— stalled。连错 1 → 连对 1
+- 2026-11-02 ✅ 学习日 在池第 1 组 [3] · `Back when I was just learning to drive, I'd panic at intersections and stall the engine.` —— stall the engine（人当主语）。连对 1 → 2 ⇒ 🎓 毕业
+
+### 565 · **grand**（口语：一千块；thirty grand ＝ 三万，⛔ grands）
+类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-11-02** ｜ 题型 整句
+
+**问题是什么**
+**grand** ＝ 口语里的"一千（块钱）"：`thirty grand` ＝ 三万 · `It cost me five grand.`；复数不加 s（⛔ thirty grands）。
+同一格里的邻居（别串）：K（写的时候：30K）· a thousand bucks（一千块，bucks ＝ 块钱）· grand 当形容词 ＝ 宏伟的（a grand hall），另一个义项。
+判据一句话：口语说多少"千"块钱 ⇒ 数字 ＋ grand（不加 s）。
+★ 题型判整句："八千块"能落到 eight thousand yuan／8,000 一串合法说法，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；首测给整块（她说要学 ⇒ 先练）。
+
+**怎么发现的**
+2026-10-30 学习日 复检第 4 组 [3]（🎓#472 题面"去年一场冰雹把屋顶砸坏了，保险公司赔了三万块。"）· 原话
+`A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+她用对了 thirty grand，自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #564 先例，同句建的）。
+判重三步：
+　① 目标形式 dedup "grand" ⇒ 🎓#251 #396 #416 #455 #472（历史字样：grandma 等）⇒ 否；"thousand" ⇒ 🎓#251 #346 #370 #386 #472（字样）⇒ 否
+　② 中文 dedup "万块" ⇒ 🎓#472（题面字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `thirty grand`，但词不在手边（自己标学下）　　目标：同她原句
+找法：口语说"几千块／几万块"先想 数字 ＋ grand（不加 s）。
+
+**题面**
+"我表哥那辆二手车才花了八千块，开了五年都没坏过。"（"八千块"用 **grand** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My cousin's used car only cost him eight grand, and it hasn't broken down once in five years.
+
+- 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「这个词学下」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
+- 2026-11-01 ✅ 学习日 在池第 1 组 [8] · `I only paid eight grand for my second-hand piano, and its tone is surprisingly great.` —— eight grand（不加 s）。连错 1 → 连对 1
+- 2026-11-02 ✅ 学习日 在池第 1 组 [5] · `They spent nearly fifty grand back and forth just remodeling their kitchen.` —— fifty grand（不加 s）。连对 1 → 2 ⇒ 🎓 毕业；同句 back and forth ⇒ 新建 #570

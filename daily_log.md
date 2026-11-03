@@ -7566,3 +7566,26 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
 
 **下一场 ＝ 周期 15 · L3**：#338 #563 #565 连对1 · #562 连错1 · #564 连错2 · #566–#569 首测；复检以 pick 为准；② 回看 bank:340；④ 重答 bank:427（P3 · What is the ideal length for a holiday?）＋ 与旧答对比
+
+## 2026-11-02（周一）· 口语 L3（周期 15 第 3 个学习日）
+
+> 日期：开场美东 11-03 03:20（未到 11-03 中午），按中午分界属 11-02。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 556 ＝ problems.md 27 ＋ graduated.md 529 ｜ 🎓 529（95.1%）｜ 未毕业 27 ｜ 可出题 17 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 37 道
+
+**五段**
+- ① 在池 1 组 9 题 / 9 条：**✅9 ❌0** ⇒ **毕业 3**（#338 end up 回潮后重新毕业 · #563 stall · #565 grand）；#562 #564 #566 #567 #568 #569 连对 1
+  · 题外 ❌：`spent nearly fifty grand back and forth` —— 前前后后 ⇒ in total ⇒ 新建 #570
+  · 她标学下：`night had fallen` ⇒ 新建 #571 ｜ ⚪ #56 `using flashlight`
+  · 种子整改：#564 #566 #567 #568 点名降回 lemma（hail · vendor · point · pitch）
+- ①b 复检 2 组（在池只排 1 组，下溢 2 组）18 题 / 24 条：**✅24 ❌0**；🎓#496 她答 overrun by ⇒ 合法，正文"介词是 with"排他写过头 ⇒ 更正
+  · 她标学下 9：pull away · settle a score with · on the sly · prefer (that) sb do · savory crepe · fried dough sticks（churros 偏了）· handlebars · unfazed · clothesline ⇒ 新建 #572–#580
+- ② 回看 bank:340
+- ③ 重答 bank:427（P3 · What is the ideal length for a holiday?）：首答 3 处 ❌ ＋ 1 处卡住 → 这次零错；Any shorter, and …（不带 if 的条件句）· check off places（打卡）自发用出；更短／更长两头都有理由
+- 数据修补：2026-08-16.md 补 bank:427 四件套逐字回补
+
+**教练犯规**：第 1 组讲评在聊天里写了条目编号；#575 判重先写结论后跑 dedup（落盘前已改）；#578 条目内容先写了一句不相干的邻居（发前已删）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
+
+**下一场 ＝ 周期 15 · R（付息日）**：在池 17 条（#562 #564 #566–#569 连对1 ＋ #570–#580 首测）；复检以 pick --type review 为准；⓪ 回看 lookback --cycle；c 段 review；d 段重答 redo 第 1 行（bank:1024）起
