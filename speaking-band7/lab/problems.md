@@ -1241,6 +1241,94 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#486 题里）· 她标「这两个单词分别背下」· 原话 `Downstairs from my place, there are four breakfast shops: the first sells buns, another sells noodles, a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
 
+### 578 · **handlebars**（自行车／摩托车的车把，常用复数）
+类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**handlebars** ＝ 自行车、摩托车的车把（左右一根横杆，一般说复数）：`grip the handlebars` · `let go of the handlebars`。
+同一格里的邻居（别串）：handle（门把手、锅柄这类"把手"）· steering wheel（汽车方向盘）· 自行车别的零件：brakes（刹车）· pedals（脚蹬）。
+判据一句话：自行车上手握的那根横杆 ⇒ handlebars；门、杯子、锅上的把手 ⇒ handle。
+★ 题型判整句："车把"能落到 handle／the bar 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 handlebars（她说要背 ⇒ 首测给整词）。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 3 组 [3]（🎓#492 题面"一只小鸟落在我的自行车把手上，好像一点也不怕人。"）· 原话
+`A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+她写对了 handlebars，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #572–#577 先例；同句 unfazed 另建 #579）。
+判重三步：
+　① 目标形式 dedup "handlebar" ⇒ 零命中
+　② 中文 dedup "把手" ⇒ 🎓#282（字样：take ownership）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `my bike's handlebars`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"车把"先落 the handlebars（带 s）。
+
+**题面**
+"他骑车下坡的时候两只手都松开了车把，吓得我直叫。"（"车把"用 **handlebars** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He let go of the handlebars with both hands while riding downhill, and I screamed.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [3]（🎓#492 题里）· 她标「这个词背下」· 原话 `A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+
+### 579 · **unfazed**（淡定、一点不慌、不受影响：be unfazed by sth）
+类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**unfazed** ＝ 遇到本该让人慌、怕、乱的事，一点不受影响：`He was totally unfazed by the criticism.` · `The cat seemed unfazed by the noise.`
+搭配：be／seem／look unfazed (by sth)；fazed 本身多用在否定里：`It didn't faze him.`（没把他吓着）。
+同一格里的邻居（别串）：calm（平静，中性）· not bothered（不在乎）· chill（口语，淡定）· rattled（慌了，反义）。
+判据一句话：别人以为会慌、结果一点没受影响 ⇒ unfazed (by sth)。
+★ 题型判整句："一点不怕／很淡定"能落到 calm／not scared 一串，词组题又不许给英文提示；by 挂什么要靠句子 ⇒ 整句 ＋ 正向点名 unfazed。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 3 组 [3]（🎓#492 题面同 #578）· 原话
+`A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+她写对了 unfazed by，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同句 handlebars 另建 #578）。
+判重三步：
+　① 目标形式 dedup "unfazed"／"fazed" ⇒ 零命中
+　② 中文 dedup "不怕人"／"淡定" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `totally unfazed by people`，但词不在手边（自己标学下）　　目标：同她原句
+找法：说到"（面对某事）一点不怕、一点不慌"先落 unfazed by。
+
+**题面**
+"外面雷打得那么响，我家狗却一点都不怕，照样呼呼大睡。"（"一点都不怕"用 **unfazed** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The thunder was really loud, but my dog was totally unfazed and kept sleeping.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [3]（🎓#492 题里）· 她标「这个词学下」· 原话 `A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+
+### 580 · **clothesline**（晾衣绳）
+类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**clothesline** ＝ 晾衣服用的绳子（一个词）：`hang the laundry on the clothesline`。
+同一格里的邻居（别串）：clothespin（晾衣夹，英式 clothes peg）· drying rack（落地晾衣架）· hanger（衣架，挂衣服的）· 🎓#327 peg（墙上的小木钉）。
+判据一句话：两头拴住、把衣服搭上去晒的那根绳子 ⇒ clothesline。
+★ 题型判整句："晾衣绳"能落到 washing line／a rope for drying clothes 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 clothesline（她说要背 ⇒ 首测给整词）。
+
+**怎么发现的**
+2026-11-02 学习日 复检第 3 组 [7]a（🎓#327 题面"晾衣绳两头钉在墙上的小木钉"）· 原话
+`small wooden pegs fixed to the wall holding up the clothesline(背下)`
+她写对了 clothesline，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #578 先例）。
+判重三步：
+　① 目标形式 dedup "clothesline" ⇒ 零命中
+　② 中文 dedup "晾衣" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the clothesline`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"晾衣绳"先落 clothesline。
+
+**题面**
+"趁着太阳好，我妈把被子搭在院子里的晾衣绳上晒。"（"晾衣绳"用 **clothesline** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Since it was sunny, my mom hung the quilt over the clothesline in the yard to air it out.
+
+- 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [7]a（🎓#327 题里）· 她标「背下」· 原话 `small wooden pegs fixed to the wall holding up the clothesline(背下)`
+
 ## 迁移说明（2026-08-18）
 
 ```

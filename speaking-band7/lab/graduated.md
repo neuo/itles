@@ -14104,7 +14104,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 327 · 踏脚点 ＝ foothold ／ peg
 类型 词汇 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-02 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检 foothold 答成 footsteps，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 脚能踩的那个点 ＝ **a foothold**（通用）；钉在柱子上、只够踩一只脚的小桩 ＝ **a peg**。
@@ -14138,6 +14138,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 - 2026-10-01 ✅ 学习日 在池第 1 组 [3] · `foothold. peg.` —— 两个名词都对 ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [1]（打包）· `a foothold on the rockery / a row of pegs on the kitchen wall for aprons` —— foothold ／ peg 两个块都对
 - 2026-10-11 ✅ 学习日 复检第 4 组 [3]a（打包）· `a foothold on the wall / tent pegs` —— foothold ／ pegs
+- 2026-11-02 ✅ 学习日 复检第 3 组 [7]a · `a small foothold packed into the steep incline` ／ `small wooden pegs fixed to the wall holding up the clothesline` —— foothold ／ pegs；她标背下的 clothesline ⇒ 新建 #580
 
 ### 328 · 中性尺寸与比较级一律 small（⛔ littler 不存在）
 类型 词汇 ｜ 新建 2026-09-09
@@ -14277,7 +14278,7 @@ know／tell／wonder／figure out 后面接嵌入成分时，**每一个成分�
 
 ### 331 · look straight ahead（往正前方看）≠ look forward to（期待）
 类型 词组 ｜ 新建 2026-09-09
-状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-02 ｜ **回潮 2026-09-29**（09-13 毕业 → 09-29 复检答成 look forward ahead，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 词组
 
 **问题是什么**
 眼睛往正前方看 ＝ **look straight ahead**；
@@ -14318,6 +14319,7 @@ look forward **to** sth ＝ 期待（永远带 to ＋ 名词/-ing，⛔ 与"视�
 - 2026-10-01 ✅ 学习日 在池第 1 组 [4] · `look straight ahead.` —— ahead 到位，forward 没抢跑 ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [1]（打包）· `keep your eyes straight ahead when crossing a footbridge` —— straight ahead，没串成 look forward（keep your eyes 合法贴题）
 - 2026-10-11 ✅ 学习日 复检第 4 组 [3]b（打包）· `keep your eyes straight ahead` —— straight ahead（没落到 look forward）
+- 2026-11-02 ✅ 学习日 复检第 3 组 [7]b · `looking straight ahead on the catwalk` —— looking straight ahead
 
 ### 332 · 名词化的"提议/请求"拆回【动词 ＋ when 从句】
 类型 结构 ｜ 新建 2026-09-09
@@ -15122,7 +15124,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 
 ### 353 · vibe 是【地方带的】，人不待在 vibe 里（a place with a different vibe）
 类型 搭配 ｜ 新建 2026-09-20
-状态 连对2 连错0 上次2026-10-11 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **回潮 2026-09-29**（09-26 毕业 → 09-29 复检写成 in a totally different vibe，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-01**（连对2 ＝ 09-30 ＋ 10-01；09-29 回潮后第二次毕业）｜ 题型 整句
 
 **问题是什么**
 **vibe ＝ 一个地方/一件事给人的调子**，它挂在地方上，⛔ 不是人待进去的空间：
@@ -15158,6 +15160,7 @@ feel like ＋ **-ing** ＝ 想做某事（🎓#258 whenever they feel like it）
 - 2026-10-01 ✅ 学习日 在池第 1 组 [5] · `I prefer working at a small company with a relaxed vibe.` —— vibe 挂在地方上（a small company with a relaxed vibe），前面不是 in ⇒ **连对 2，毕业**
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [2] · `This B&B has such a cozy vibe that once you're here, you never want to leave.` —— vibe 挂在地方上
 - 2026-10-11 ✅ 学习日 复检第 4 组 [4] · `I love the vibe of this old neighborhood; walking around here makes you feel like time is slowing down.` —— the vibe of this old neighborhood（vibe 挂在地方上）
+- 2026-11-02 ✅ 学习日 复检第 3 组 [8] · `This city's night market is full of everyday life, and it has an amazing vibe.` —— it has an amazing vibe（vibe 挂在地方上）
 
 ### 354 · as for ＋ 名词（"至于…"；⛔ as far ＋ 名词 —— as far as … goes 才是完整块）
 类型 词组 ｜ 新建 2026-09-21 ｜ 与 🎓#317 互斥（见「问题是什么」末行）
@@ -19772,7 +19775,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 
 ### 489 · **in no time**（很快、没一会儿就…：the problem was fixed in no time；⛔ at no time ＝ 从来没有）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **in no time** ＝ 没一会儿就、很快就（强调快得出乎意料），挂在句尾修饰整个动作：
@@ -19804,6 +19807,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 - 2026-10-19 ✅ 学习日 在池第 1 组 [2] · `This app is really user-friendly; you'll master it in no time.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [6] · `My little sister learned to swim remarkably fast—she got the hang of it（这个短语背下) in no time.` —— in no time。🎓 rc0 → rc1
   ｜ 她标「这个短语背下」的 got the hang of it ⇒ 新建 #528
+- 2026-11-02 ✅ 学习日 复检第 3 组 [1] · `I just placed my takeout order, and it showed up in no time.` —— in no time
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
@@ -19840,7 +19844,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **snap** ＝ 细长、硬的东西（钥匙、树枝、铅笔、筷子、尺子）突然"咔"一声断成两截：
@@ -19870,10 +19874,11 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-17 ✅ 付息日 在池第 1 组 [7] · `The moment I pressed too hard, the chopstick snapped in two.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [4] · `It was so windy that a branch on that small tree in the yard snapped right off.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [7] · `I twisted it with too much force, and the key snapped right off inside the lock.` —— the key snapped。🎓 rc0 → rc1
+- 2026-11-02 ✅ 学习日 复检第 3 组 [2] · `Right while I was tuning my guitar, a string just snapped with a sharp pop.` —— snapped
 
 ### 492 · **perch**（鸟停、落在高处或边沿上：perch on people's shoulders）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **perch** ＝ 鸟停在（枝头、肩上、栏杆、电线）上；人坐在高处或边沿上也能说：
@@ -19903,6 +19908,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-17 ✅ 付息日 在池第 1 组 [8] · `There was a row of sparrows perching on the power line outside the window.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [5] · `A pigeon perched on my balcony railing and just wouldn't leave for ages.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [8] · `A crow perched on top of the street lamp, yelling continuously at us.` —— perched on top of（★ 乌鸦叫 ⇒ kept cawing，只点出）。🎓 rc0 → rc1
+- 2026-11-02 ✅ 学习日 复检第 3 组 [3] · `A small bird landed and perched on my bike's handlebars, appearing totally unfazed by people.` —— perched on；同句她标学下 ⇒ 新建 #578 #579
 
 ### 493 · **citywide**（全市的、全城范围的：a citywide tournament）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
@@ -19974,7 +19980,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 495 · **beat around the bush**（绕弯子、不直说正题：Stop beating around the bush）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **beat around the bush** ＝ 说话绕来绕去、就是不说正题（故意回避或不好意思直说）：
@@ -20004,15 +20010,16 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-17 ✅ 付息日 在池第 2 组 [1] · `Stop beating around the bush and just tell me what you really want.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [8] · 题面点名 bush（降回 lemma）· `He beat around the bush for a long time on the call, only to finally ask for a loan.`（diff-2 ⚠️ ask me for a loan，只加一个词不建号）。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 3 组 [10] · `The doctor didn't beat around the bush—he told me directly about the high risks of the surgery.` —— didn't beat around the bush。🎓 rc0 → rc1
+- 2026-11-02 ✅ 学习日 复检第 3 组 [4] · `When the interviewer directly asked for my expected salary, I didn't beat around the bush—I just gave a number.` —— didn't beat around the bush
 
 ### 496 · **be overrun with** ＋ 坏东西（到处都是、泛滥成灾：a city overrun with crime）
 类型 词组 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **be overrun with X** ＝ 一个地方被 X 占满了、泛滥成灾（X 多是不想要的东西：老鼠、蟑螂、杂草、游客、犯罪）：
 `a city overrun with crime` · `The old house is overrun with rats.` · `The beach gets overrun with tourists every summer.`
-介词是 with；放名词后面当修饰（a city overrun with …），或者 be／get overrun with。
+介词 with／by 都合法（with 偏"满是"的状态，by 偏"被…占领"：overrun by tourists）；放名词后面当修饰（a city overrun with …），或者 be／get overrun with／by。（2026-11-02 更正：原写"介词是 with"排他写过头了）
 同一格里的邻居（别串）：be full of（中性的"满是"）· be packed with（挤满人，常是好事）· be infested with（虫、鼠成灾，更专指害虫）·
 🎓#450 all over ＋ 地方（东西撒得满地都是，主语是东西）。
 判据一句话：主语是被占满的地方、占满它的是坏东西 ⇒ overrun with；主语是撒出来的东西 ⇒ all over。
@@ -20040,10 +20047,12 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-17 ✅ 付息日 在池第 2 组 [2] · `… and now it's completely overrun with rats.`。连错 1 → 连对 1
 - 2026-10-19 ✅ 学习日 在池第 1 组 [9] · `We were away on vacation for a month, and came back to find our backyard overrun with weeds.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [1] · `This small town used to be really peaceful, but these days it gets overrun with tourists on weekends.` —— gets overrun with tourists。🎓 rc0 → rc1
+- 2026-11-02 ✅ 学习日 复检第 3 组 [5] · `In summer, this whole beach is overrun by jellyfish.` —— overrun by（with／by 都合法；正文原写"介词是 with"排他写过头 ⇒ 当天更正正文）
+- 2026-11-02 📝 正文更正 · 复检第 3 组 [5] 她答 overrun by jellyfish ⇒ 合法且贴题面（overrun by tourists 常见）；「问题是什么」原写"介词是 with"排他写过头 ⇒ 改成 with／by 都合法（with 偏状态，by 偏被占领）
 
 ### 497 · **have ＋ 东西 ＋ done** ＝ 遭遇（had my phone stolen）；人出事 ⇒ watched X get …
 类型 结构 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-22 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-10-19** ｜ 题型 整句
 
 **问题是什么**
 **have ＋ 东西 ＋ 过去分词**，除了"叫人做"（I had my hair cut），还能表示"遭遇了某事"（倒霉、不是自己安排的）：
@@ -20077,6 +20086,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-19 ✅ 学习日 在池第 1 组 [10] · `We had our flight canceled on short notice, so we ended up staying overnight at the airport.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 4 组 [2] · `I had my car window smashed in（这个词组背下） while parked on the street.` —— I had my car window smashed in。🎓 rc0 → rc1
   ｜ 她标「这个词组背下」的 smashed in ⇒ 新建 #529
+- 2026-11-02 ✅ 学习日 复检第 3 组 [6] · `I had my glasses stepped on and broken in the middle of the crush at the concert.` —— had my glasses stepped on
 
 ### 498 · **vigilante**（不靠警察、私自出手惩治坏人的人；义警）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
