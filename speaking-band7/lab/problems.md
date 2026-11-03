@@ -362,6 +362,7 @@
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `my friends pulled three all-nighter before he …` → my friend（题面"我朋友"一个人，后面也用了 he；同句 Concert tickets 复数标对 ⇒ 形态类，只记录）
 - 2026-10-04 ⚪ 付息日 a 段在池第 1 组 [2]（#372 题里）· `got his hand on a pair` → his hands（get one's hands on 固定两只手；10-03 她写对过 got my hands on it ⇒ 形态类，只记录）
 - 2026-10-30 ⚪ 学习日 在池第 2 组 [2]（#559 题里）· `long queues for photo` → `for photos` —— 可数名词单数光秃秃；同句 long queues 复数她自己做对 ⇒ 形态类只记录·不出题（检查触发：名词前停一下 —— 可数吗？单数就补 a／the，泛指就变复数）
+- 2026-11-02 ⚪ 学习日 在池第 1 组 [8]（#568 题里）· `pitch our tent using flashlight` → using a flashlight —— 可数名词单数光秃秃；同组 a new refrigerator／a street vendor／a business trip 她都带对 ⇒ 形态类只记录·不出题（检查触发：名词前停一下 —— 可数吗？单数就补 a／the，泛指就变复数）
 
 
 ### 63 · 泛指 vs 特指：泛指不带 the（可数就用复数），特指才带 the
@@ -706,7 +707,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 338 · end up ＋ -ing（⛔ end up to do／end up to -ing／end up with -ing）
 类型 词组 ｜ 新建 2026-09-13 ｜ 与 🎓#113 互斥（那条考"都要"那一层，本条考 end up 后面的形）
-状态 连对1 连错0 上次2026-11-01 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零）
+状态 连对2 连错0 上次2026-11-02 ｜ 题型 整句 ｜ **回潮 2026-10-30**（09-15 毕业 → 10-30 学习日在池第 1 组 [10]（#557 题里）`ending up with smearing cream all over his face`：end up 和 -ing 中间夹了 with，撤销毕业、连对清零） ｜ **🎓 已毕业 2026-11-02**（回潮后重新毕业：11-01 ✅ ＋ 11-02 ✅）
 
 **问题是什么**
 **end up ＋ -ing** ＝ 最后落到（做）某事：end up queuing ／ end up doing it myself ／ end up making a mess。
@@ -747,10 +748,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-10-30 📝 当天回潮后自发用对 · 学习日 复检第 3 组 [2]（🎓#525 题里）· `so it ended up getting completely wet in the rain` —— end up ＋ -ing ✓；上午在池第 1 组刚回潮、刚讲过 ⇒ 按「当天教完当天测＝假 ✅」只留痕，⛔ 不记 ✅、不动连对
 - 2026-11-01 ✅ 学习日 在池第 1 组 [1] · `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).` —— ended up getting（end up ＋ -ing）。连错 1 → 连对 1
   ｜她自注「这个单词背下」⇒ street vendor 另建 #566
+- 2026-11-02 ✅ 学习日 在池第 1 组 [1] · `We originally just wanted to pop in and look around, but ended up buying a new refrigerator.` —— ended up buying（end up ＋ -ing）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
 类型 词组 ｜ 新建 2026-10-27
-状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文"这几天"说的是**眼下短短几天**：往后几天 ⇒ **for the next few days**／over the next few days；过去几天 ⇒ **for the past few days**／the last few days（一般配完成时：`It's been raining for the past few days.`）。
@@ -780,10 +782,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 - 2026-11-01 ❌ 学习日 在池第 1 组 [5] · `I'm working from home these few days, so feel free to come to grab the keys whenever you feel like it.` —— 往后几天落成 these few days。连对 1 → 清零，连错 1
   最小改 `I'm working from home for the next few days, …`
   ❌ 往后几天 ⇒ for the next few days；these days 是长期常态，these few days 两头都不是
+- 2026-11-02 ✅ 学习日 在池第 1 组 [2] · `I've been grinding on my thesis for the past few days, so I've barely gotten any sleep.` —— for the past few days（过去几天配完成进行时）。连错 1 → 连对 1
 
 ### 563 · **stall**（车熄火：the car stalled · stall the car；⛔ 与 market stall 摊位串）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-11-02** ｜ 题型 整句
 
 **问题是什么**
 **stall** ＝ （发动机）熄火、开着开着自己憋灭了：`The car stalled at the lights.` · `I kept stalling the car.`（人当主语也行：我把车弄熄火了）。
@@ -810,10 +813,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#528 题里）· 她标「这个词学下」· 原话 `When I first learned to drive a stick shift, I stalled(这个词学下) a few times before getting the hang of it.`
 - 2026-11-01 ✅ 学习日 在池第 1 组 [6] · `Stuck on an incline during the morning rush hour, the car in front stalled right when it pulled away.` —— stalled。连错 1 → 连对 1
+- 2026-11-02 ✅ 学习日 在池第 1 组 [3] · `Back when I was just learning to drive, I'd panic at intersections and stall the engine.` —— stall the engine（人当主语）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 564 · **hail**（冰雹，不可数；一场冰雹 ＝ a hailstorm）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对0 连错2 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **hail** ＝ 冰雹（不可数）：`There was hail the size of golf balls.`；一场冰雹 ＝ **a hailstorm**（一个词）；一颗颗冰雹 ＝ hailstones；动词 `It's hailing.` ＝ 正在下冰雹。
@@ -835,7 +839,7 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：中文"冰雹"先落 hail；要说"一场"就换 a hailstorm。
 
 **题面**
-"下午突然下了一场冰雹，停车场里好几辆车都被砸出了坑。"（"一场冰雹"用 **hailstorm** 说）
+"下午突然下了一场冰雹，停车场里好几辆车都被砸出了坑。"（"一场冰雹"用 **hail** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：There was a sudden hailstorm this afternoon, and quite a few cars in the parking lot got dented.
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「学下这个词」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
@@ -843,10 +847,12 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
   最小改 `A sudden hailstorm hit this afternoon …`
   ❌ 天气的"一场 X"是合成词 hailstorm／rainstorm／snowstorm；a storm of ＋ 名词多是比喻（a storm of criticism）
 - 2026-11-01 📝 题面整改 · 连错 2 且她自标「storm of 可以学下」⇒ §6② 她说要学的块先练：点名从 hail 改成整块 **hailstorm**；连对 ≥1 之后降回 hail（不可数、不说 a hail 留给她）
+- 2026-11-02 ✅ 学习日 在池第 1 组 [4] · `Last night's hailstorm smashed several windows in our apartment complex.` —— last night's hailstorm。连错 2 → 连对 1
+- 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 hailstorm 降回 hail（§6②：她说要学的块先练，连对 ≥1 后降回 lemma；"一场"落 a hailstorm、⛔ a hail 留给她）
 
 ### 565 · **grand**（口语：一千块；thirty grand ＝ 三万，⛔ grands）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-02 ｜ **🎓 已毕业 2026-11-02** ｜ 题型 整句
 
 **问题是什么**
 **grand** ＝ 口语里的"一千（块钱）"：`thirty grand` ＝ 三万 · `It cost me five grand.`；复数不加 s（⛔ thirty grands）。
@@ -873,10 +879,11 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 
 - 2026-10-30 ❌ 首犯 · 学习日 复检第 4 组 [3]（🎓#472 题里）· 她标「这个词学下」· 原话 `A hail(学下这个词) storm damaged our roof last year, and the insurance company paid out thirty grand.(这个词学下)`
 - 2026-11-01 ✅ 学习日 在池第 1 组 [8] · `I only paid eight grand for my second-hand piano, and its tone is surprisingly great.` —— eight grand（不加 s）。连错 1 → 连对 1
+- 2026-11-02 ✅ 学习日 在池第 1 组 [5] · `They spent nearly fifty grand back and forth just remodeling their kitchen.` —— fifty grand（不加 s）。连对 1 → 2 ⇒ 🎓 毕业；同句 back and forth ⇒ 新建 #570
 
 ### 566 · **street vendor**（路边摊贩：buy／get sth FROM a street vendor；摊子本身 ＝ a street stall）
 类型 词汇 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **street vendor** ＝ 在路边摆摊卖东西的人（卖小吃、卖水果的那种）；东西是从人手里买的 ⇒ `buy／get sth from a street vendor`：`I grabbed some dumplings from a street vendor.`
@@ -898,14 +905,16 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：说到"路边摊"先问一句 —— 说的是摆摊的人还是那个摊子？人 ⇒ from a street vendor；摊子 ⇒ at a street stall。
 
 **题面**
-"下班路上我常在一个路边摊买煎饼当晚饭。"（"路边摊"用 **street vendor** 说）
+"下班路上我常在一个路边摊买煎饼当晚饭。"（"路边摊"用 **vendor** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：On my way home from work, I often buy a jianbing from a street vendor for dinner.
 
 - 2026-11-01 ❌ 首犯 · 学习日 在池第 1 组 [1]（#338 题里）· 她标「这个单词背下」· 原话 `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).`
+- 2026-11-02 ✅ 学习日 在池第 1 组 [6] · `I frequently buy dinner from a street vendor on my commute back home.` —— buy dinner from a street vendor（from 挂人）。连错 1 → 连对 1
+- 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 street vendor 降回 vendor（§6②；介词 from 留给她）
 
 ### 567 · **make a point of ＋ -ing**（特意、专门去做某事：He made a point of booking a table with a view.）
 类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **make a point of doing sth** ＝ 特意／专门去做（当成一件要紧事去做，常带"有心、用心"的意思）：
@@ -929,14 +938,16 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：说"特意 X"时先落 made a point of，后面动词换 -ing。
 
 **题面**
-"我爸每次出差回来，都特意给我妈带一束花。"（"特意"用 **make a point of** 说）
+"我爸每次出差回来，都特意给我妈带一束花。"（"特意"用 **point** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：Every time my dad comes back from a business trip, he makes a point of bringing my mom a bunch of flowers.
 
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 2 组 [5]（🎓#477 题里）· 她标「这个词组学下」· 原话 `He made a point of(这个词组学下) reserving a table with a river view for our first date, so that night just felt so special.`
+- 2026-11-02 ✅ 学习日 在池第 1 组 [7] · `Whenever my dad returns from a business trip, he always makes a point of buying flowers for my mom.` —— makes a point of buying（of ＋ -ing）。连错 1 → 连对 1
+- 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 make a point of 降回 point（§6②；of ＋ -ing 留给她）
 
 ### 568 · **pitch a tent**（搭帐篷；也说 put up／set up a tent；⛔ build a tent）
 类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pitch a tent** ＝ 搭帐篷（露营时最常用的那个动词）：`We pitched our tent by the lake.`
@@ -958,14 +969,16 @@ end up 后面**直接接 -ing**（或名词／介词短语：end up in hospital 
 找法：说到"搭帐篷"先落 pitch a tent。
 
 **题面**
-"我们到营地的时候天已经黑了，只能打着手电筒搭帐篷。"（"搭帐篷"用 **pitch a tent** 说）
+"我们到营地的时候天已经黑了，只能打着手电筒搭帐篷。"（"搭帐篷"用 **pitch** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：By the time we got to the campsite it was already dark, so we had to pitch our tent by flashlight.
 
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 3 组 [1]（🎓#186 题里）· 她标「这个动词学下」· 原话 `The kids spent the whole afternoon pitching（这个动词学下) a play tent in the living room, and left the floor in a total mess when they went to sleep.`
+- 2026-11-02 ✅ 学习日 在池第 1 组 [8] · `By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.` —— pitch our tent。连错 1 → 连对 1；同句她标学下 ⇒ 新建 #571；using flashlight ⇒ ⚪ #56
+- 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 pitch a tent 降回 pitch（§6②）
 
 ### 569 · **here in ＋ 地名**（here in Chengdu；⛔ here, Chengdu）
 类型 搭配 ｜ 新建 2026-11-01
-状态 连对0 连错1 上次2026-11-01 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
 
 **问题是什么**
 说"就在这儿（某城市／某国）" ⇒ **here in ＋ 地名**：`a stadium here in Chengdu` · `here in China` · `back home in Sichuan`。
@@ -991,6 +1004,66 @@ here 后面丢了 in，逗号直接挂地名 ⇒ ❌（08-16 首答同一处写�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Here in Chengdu, it hardly ever snows in winter.
 
 - 2026-11-01 ❌ 首犯 · 学习日 ③ 重答 bank:340（R30 · P2）[S2] · 原话 `We watched it at a stadium here, Chengdu.`
+- 2026-11-02 ✅ 学习日 在池第 1 组 [9] · `It hardly ever snows in the winter here in Chengdu.` —— here in Chengdu。连错 1 → 连对 1
+
+### 570 · **in total**（前前后后／加起来一共；⛔ back and forth ＝ 来来回回）
+类型 词组 ｜ 新建 2026-11-02
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"前前后后花了／一共花了 X" 说的是**总数** ⇒ X **in total**：`It cost us fifty grand in total.`（也说 a total of fifty grand）。
+同一格里的邻居（别串）：altogether（同义，口语常用）· all told（同义，稍正式）· 🎓#23 back and forth（来来回回：走来走去、两边跑、反复讨论 `We went back and forth on it.` —— 那条考词序，意思不是"总共"）。
+判据一句话：中文"前前后后／加起来／一共"后面跟一个数 ⇒ in total；"来来回回、反复"才是 back and forth。
+★ 题型判整句："前前后后"孤立翻能落到 altogether／all told／in total 一串，词组题又不许给英文提示；考点是数字后面挂哪个块 ⇒ 整句 ＋ 正向点名 total（她犯错建的 ⇒ 给 lemma）。
+
+**怎么发现的**
+2026-11-02 学习日 在池第 1 组 [5]（#565 题面"他家这次重新装修厨房，前前后后花了差不多五万块。"）· 原话
+`They spent nearly fifty grand back and forth just remodeling their kitchen.`
+考点 fifty grand 用对（#565 ✅）；不在考点上的一处：前前后后 落成 back and forth —— 选词偏了（back and forth 是来回，不是总数），⛔ 不是同级近义词 ⇒ §3.2b 能学的表达 ⇒ 建号，判 ❌ 首犯。
+判重三步：
+　① 目标形式 dedup "back and forth" ⇒ 🎓#23（固定词序整块背，考的是 back and forth 的词序）· 🎓#64（forward or back ≠ back and forth，词序）· 🎓#522（字样）⇒ 都否，本条考"总数"怎么说；"in total" ⇒ 🎓#472（历史字样 paid out … in total，那条考 pay out）⇒ 否；"altogether"／"all told" ⇒ 零命中
+　② 中文 dedup "前前后后" ⇒ 零命中；"一共" ⇒ 🎓#486 #88（字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`spent nearly fifty grand back and forth`　　正确：`spent nearly fifty grand in total`
+找法：说到"前前后后"先问一句 —— 后面跟的是一个总数吗？是 ⇒ 数字 ＋ in total。
+
+**题面**
+"这趟旅行连机票带住宿，前前后后花了两万多。"（"前前后后"用 **total** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The whole trip, flights and hotels included, cost us over twenty thousand in total.
+
+- 2026-11-02 ❌ 首犯 · 学习日 在池第 1 组 [5]（#565 题里）· 不在考点上的一处 · 原话 `They spent nearly fifty grand back and forth just remodeling their kitchen.`
+
+### 571 · **night falls**（天黑了：night had fallen · as night fell；⛔ the night fell）
+类型 搭配 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**night falls** ＝ 天黑下来（讲经过、讲故事时最常用，比 it got dark 更有画面感）：`By the time we got there, night had fallen.` · `As night fell, the temperature dropped.`
+night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天黑时分）。
+同一格里的邻居（别串）：it got dark（中性同义，也对）· darkness falls（同一个画面）· dusk（黄昏，天快黑那一段）。
+判据一句话：叙述里"天黑了／天已经黑了" ⇒ night fell／night had fallen（或 it got dark）。
+★ 题型判整句："天黑了"能落到 it got dark 绕开，词组题又不许给英文提示；块里 night 不带 the、fall 的时态要靠句子才现形 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 night falls，连对 ≥1 后降回 fall。
+
+**怎么发现的**
+2026-11-02 学习日 在池第 1 组 [8]（#568 题面"我们到营地的时候天已经黑了，只能打着手电筒搭帐篷。"）· 原话
+`By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.`
+她写对了 night had fallen，但自己标「这个短语可以学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（§3.2b：不会的地方哪怕查到写对也照常判 ❌；同 #563 #566 #567 #568 先例）。同句 using flashlight ⇒ ⚪ #56。
+判重三步：
+　① 目标形式 dedup "night had fallen"／"night fell" ⇒ 零命中
+　② 中文 dedup "天黑" ⇒ 零命中；"天已经黑" ⇒ #568（题面字样，那条考 pitch a tent）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `night had fallen`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说到"天黑了"先落 night fell；"到…的时候天已经黑了" ⇒ by the time …, night had fallen。
+
+**题面**
+"一到冬天，五点多天就黑了。"（"天就黑了"用 **night falls** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：In winter, night falls at around five.
+
+- 2026-11-02 ❌ 首犯 · 学习日 在池第 1 组 [8]（#568 题里）· 她标「这个短语可以学下」· 原话 `By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.`
 
 ## 迁移说明（2026-08-18）
 
