@@ -707,7 +707,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 562 · **the next／past few days**（"这几天"（眼下短期）＝ for the next few days／the past few days；⛔ these days）
 类型 词组 ｜ 新建 2026-10-27
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 中文"这几天"说的是**眼下短短几天**：往后几天 ⇒ **for the next few days**／over the next few days；过去几天 ⇒ **for the past few days**／the last few days（一般配完成时：`It's been raining for the past few days.`）。
@@ -738,10 +738,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
   最小改 `I'm working from home for the next few days, …`
   ❌ 往后几天 ⇒ for the next few days；these days 是长期常态，these few days 两头都不是
 - 2026-11-02 ✅ 学习日 在池第 1 组 [2] · `I've been grinding on my thesis for the past few days, so I've barely gotten any sleep.` —— for the past few days（过去几天配完成进行时）。连错 1 → 连对 1
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [1] · `I'm out of town on business for the next few days, so just drop me a message on WeChat if you need anything.` —— for the next few days。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 564 · **hail**（冰雹，不可数；一场冰雹 ＝ a hailstorm）
 类型 词汇 ｜ 新建 2026-10-30 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 **hail** ＝ 冰雹（不可数）：`There was hail the size of golf balls.`；一场冰雹 ＝ **a hailstorm**（一个词）；一颗颗冰雹 ＝ hailstones；动词 `It's hailing.` ＝ 正在下冰雹。
@@ -773,10 +774,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-11-01 📝 题面整改 · 连错 2 且她自标「storm of 可以学下」⇒ §6② 她说要学的块先练：点名从 hail 改成整块 **hailstorm**；连对 ≥1 之后降回 hail（不可数、不说 a hail 留给她）
 - 2026-11-02 ✅ 学习日 在池第 1 组 [4] · `Last night's hailstorm smashed several windows in our apartment complex.` —— last night's hailstorm。连错 2 → 连对 1
 - 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 hailstorm 降回 hail（§6②：她说要学的块先练，连对 ≥1 后降回 lemma；"一场"落 a hailstorm、⛔ a hail 留给她）
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [2] · `Last summer, a sudden hailstorm knocked nearly all the apples off the trees in our orchard.` —— a sudden hailstorm（点名只给 hail）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 566 · **street vendor**（路边摊贩：buy／get sth FROM a street vendor；摊子本身 ＝ a street stall）
 类型 词汇 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 **street vendor** ＝ 在路边摆摊卖东西的人（卖小吃、卖水果的那种）；东西是从人手里买的 ⇒ `buy／get sth from a street vendor`：`I grabbed some dumplings from a street vendor.`
@@ -804,10 +806,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-11-01 ❌ 首犯 · 学习日 在池第 1 组 [1]（#338 题里）· 她标「这个单词背下」· 原话 `We searched for a restaurant forever, and ended up just getting some food at a street vendor（这个单词背下).`
 - 2026-11-02 ✅ 学习日 在池第 1 组 [6] · `I frequently buy dinner from a street vendor on my commute back home.` —— buy dinner from a street vendor（from 挂人）。连错 1 → 连对 1
 - 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 street vendor 降回 vendor（§6②；介词 from 留给她）
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [3] · `I grabbed a stick of grilled squid from a local vendor at the night market.` —— from a local vendor（点名只给 vendor）。连对 1 → 2 ⇒ 🎓 毕业；同句新建 #581 #582 #583
 
 ### 567 · **make a point of ＋ -ing**（特意、专门去做某事：He made a point of booking a table with a view.）
 类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 **make a point of doing sth** ＝ 特意／专门去做（当成一件要紧事去做，常带"有心、用心"的意思）：
@@ -837,10 +840,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 2 组 [5]（🎓#477 题里）· 她标「这个词组学下」· 原话 `He made a point of(这个词组学下) reserving a table with a river view for our first date, so that night just felt so special.`
 - 2026-11-02 ✅ 学习日 在池第 1 组 [7] · `Whenever my dad returns from a business trip, he always makes a point of buying flowers for my mom.` —— makes a point of buying（of ＋ -ing）。连错 1 → 连对 1
 - 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 make a point of 降回 point（§6②；of ＋ -ing 留给她）
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [4] · `Whenever my grandmother makes dumplings, she always makes a point of making a bigger batch for us to take back.` —— makes a point of making（点名只给 point）。连对 1 → 2 ⇒ 🎓 毕业；同句 take back ⇒ 新建 #584
 
 ### 568 · **pitch a tent**（搭帐篷；也说 put up／set up a tent；⛔ build a tent）
 类型 词组 ｜ 新建 2026-11-01 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 **pitch a tent** ＝ 搭帐篷（露营时最常用的那个动词）：`We pitched our tent by the lake.`
@@ -868,10 +872,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-11-01 ❌ 首犯 · 学习日 复检第 3 组 [1]（🎓#186 题里）· 她标「这个动词学下」· 原话 `The kids spent the whole afternoon pitching（这个动词学下) a play tent in the living room, and left the floor in a total mess when they went to sleep.`
 - 2026-11-02 ✅ 学习日 在池第 1 组 [8] · `By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.` —— pitch our tent。连错 1 → 连对 1；同句她标学下 ⇒ 新建 #571；using flashlight ⇒ ⚪ #56
 - 2026-11-02 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 pitch a tent 降回 pitch（§6②）
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [5] · `We picked a flat patch of ground by the lake and got the tent pitched in thirty minutes.` —— got the tent pitched（点名只给 pitch）。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 569 · **here in ＋ 地名**（here in Chengdu；⛔ here, Chengdu）
 类型 搭配 ｜ 新建 2026-11-01
-状态 连对1 连错0 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-11-03** ｜ 题型 整句
 
 **问题是什么**
 说"就在这儿（某城市／某国）" ⇒ **here in ＋ 地名**：`a stadium here in Chengdu` · `here in China` · `back home in Sichuan`。
@@ -898,10 +903,11 @@ here 后面丢了 in，逗号直接挂地名 ⇒ ❌（08-16 首答同一处写�
 
 - 2026-11-01 ❌ 首犯 · 学习日 ③ 重答 bank:340（R30 · P2）[S2] · 原话 `We watched it at a stadium here, Chengdu.`
 - 2026-11-02 ✅ 学习日 在池第 1 组 [9] · `It hardly ever snows in the winter here in Chengdu.` —— here in Chengdu。连错 1 → 连对 1
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [6] · `Subways come every three minutes or so here in Shanghai.` —— here in Shanghai。连对 1 → 2 ⇒ 🎓 毕业
 
 ### 570 · **in total**（前前后后／加起来一共；⛔ back and forth ＝ 来来回回）
 类型 词组 ｜ 新建 2026-11-02
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 "前前后后花了／一共花了 X" 说的是**总数** ⇒ X **in total**：`It cost us fifty grand in total.`（也说 a total of fifty grand）。
@@ -927,10 +933,11 @@ here 后面丢了 in，逗号直接挂地名 ⇒ ❌（08-16 首答同一处写�
 ★ 目标形式（教练看，⛔ 不进发题稿）：The whole trip, flights and hotels included, cost us over twenty thousand in total.
 
 - 2026-11-02 ❌ 首犯 · 学习日 在池第 1 组 [5]（#565 题里）· 不在考点上的一处 · 原话 `They spent nearly fifty grand back and forth just remodeling their kitchen.`
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [7] · `Including flights and accommodation, the whole trip added up to over twenty grand in total.` —— in total。连错 1 → 连对 1
 
 ### 571 · **night falls**（天黑了：night had fallen · as night fell；⛔ the night fell）
 类型 搭配 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **night falls** ＝ 天黑下来（讲经过、讲故事时最常用，比 it got dark 更有画面感）：`By the time we got there, night had fallen.` · `As night fell, the temperature dropped.`
@@ -953,14 +960,16 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"天黑了"先落 night fell；"到…的时候天已经黑了" ⇒ by the time …, night had fallen。
 
 **题面**
-"一到冬天，五点多天就黑了。"（"天就黑了"用 **night falls** 说）
+"一到冬天，五点多天就黑了。"（"天就黑了"用 **fall** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：In winter, night falls at around five.
 
 - 2026-11-02 ❌ 首犯 · 学习日 在池第 1 组 [8]（#568 题里）· 她标「这个短语可以学下」· 原话 `By the time we got to the camp, night had fallen（这个短语可以学下), and we had no choice but to pitch our tent using flashlight.`
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [8] · `In the winter time, night falls around five in the afternoon.` —— night falls。连错 1 → 连对 1
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 night falls 降回 fall（§6②；night 不带 the 与时态留给她）
 
 ### 572 · **pull away**（往后一缩、躲开，不让人碰）
 类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pull away** ＝ （人／动物）身子往后一缩、躲开，不让对方碰到：`The cat pulled away when I tried to pet it.` · `She pulled away from his hug.`
@@ -982,14 +991,16 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"一躲／往后一缩"先落 pull away。
 
 **题面**
-"我想抱一下邻居家的小孩，他害羞地往后一缩躲开了。"（"往后一缩躲开"用 **pull away** 说）
+"我想抱一下邻居家的小孩，他害羞地往后一缩躲开了。"（"往后一缩躲开"用 **pull** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：I tried to give the neighbor's kid a hug, but he shyly pulled away.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [4]（🎓#544 题里）· 她标「这个学下」· 原话 `That Corgi at the pet cafe is so well-behaved that it won't pull away（这个学下） no matter who pets it.`
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [9] · `When I tried to hug the kid next door, he got shy and pulled away from me.` —— pulled away from me。连错 1 → 连对 1
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 pull away 降回 pull（§6②；away 留给她）
 
 ### 573 · **settle a score with sb**（找某人算账、报旧仇；对多个人 ⇒ settle scores with …）
 类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **settle a score (with sb)** ＝ 找某人算账、把旧仇报了：`He came back to settle a score with the man who betrayed him.` · settle old scores（清算旧账）。
@@ -1011,10 +1022,12 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"找…算账"先落 settle a score with。
 
 **题面**
-"他出狱以后第一件事就是去找当年出卖他的人算账。"（"算账"用 **settle a score** 说）
+"他出狱以后第一件事就是去找当年出卖他的人算账。"（"算账"用 **score** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：The first thing he did after getting out of prison was settle a score with the guy who'd sold him out.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [5]f（🎓#498 题里）· 她标「学下这个短语」· 原话 `a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+- 2026-11-03 ✅ 付息日 a 段在池第 1 组 [10] · `Once he was released from prison, he went straight to find the person who betrayed him to settle a score.` —— to settle a score。连错 1 → 连对 1
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 settle a score 降回 score（§6②；settle 与 with 留给她）
 
 ### 574 · **on the sly**（偷偷地、背着人）
 类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
@@ -1221,6 +1234,125 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 ★ 目标形式（教练看，⛔ 不进发题稿）：Since it was sunny, my mom hung the quilt over the clothesline in the yard to air it out.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [7]a（🎓#327 题里）· 她标「背下」· 原话 `small wooden pegs fixed to the wall holding up the clothesline(背下)`
+
+### 581 · **grill**（烤：在烤架／炭火／铁板上直接烤 ⇒ grilled squid；⛔ 与 roast 串）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"烤"按做法分三个词：
+**grill** ＝ 放在烤架／炭火／铁板上直接对着火烤，多是串、片、块：`grilled squid` · `grilled chicken wings` · `grilled corn`。
+roast ＝ 整只或一大块放进烤箱（或架在火上转着）慢慢烤：`roast chicken`（整只烤鸡）· `roast beef` · `roasted sweet potatoes` · `roasted peanuts／coffee beans`。
+bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
+同一格里的邻居（别串）：barbecue ＝ 户外烧烤这件事（have a barbecue），烤出来的东西也常说 grilled。
+判据一句话：小块直接上火烤 ⇒ grill；整只大块进烤箱 ⇒ roast；面点 ⇒ bake。
+★ 题型判整句："烤"孤立着翻 grill／roast／bake 都可能，要靠句子里烤的是什么才定 ⇒ 整句 ＋ 正向点名 grill。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 1 组 [3]（#566 题面"我在夜市的一个路边摊上买了一串烤鱿鱼。"）· 原话
+`I grabbed a stick of grilled(和 roast 的区别是啥，可以学下) squid(背下) from a local vendor at the night market.`
+她写对了 grilled，但自己问「和 roast 的区别是啥，可以学下」⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #571–#580 先例；同句 squid 另建 #582、a stick of 另建 #583）。
+判重三步：
+　① 目标形式 dedup "grill"／"roast"／"barbecue" ⇒ 零命中
+　② 中文 dedup "烤" ⇒ 🎓#348（"好吃"挂在吃的东西上，字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `grilled squid`，但分不清 grill 和 roast（自己问）　　目标：同她原句
+找法：说到"烤 X"先问一句 —— 是串／片放在火上烤，还是整只进烤箱？前者 grilled，后者 roast(ed)。
+
+**题面**
+"海边那家店的烤生蚝特别出名，每天都排长队。"（"烤"用 **grill** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：That place by the beach is famous for its grilled oysters — there's a long line every day.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 1 组 [3]（#566 题里）· 她问「和 roast 的区别是啥，可以学下」· 原话 `I grabbed a stick of grilled(和 roast 的区别是啥，可以学下) squid(背下) from a local vendor at the night market.`
+
+### 582 · **squid**（鱿鱼；复数也是 squid）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**squid** ＝ 鱿鱼，单复数同形（some squid · two squid）；当食物吃时不可数：`grilled squid` · `dried squid`（鱿鱼干）。
+同一格里的邻居（别串）：calamari（菜单上的炸鱿鱼圈）· octopus（章鱼）· cuttlefish（墨鱼）。
+判据一句话：说鱿鱼 ⇒ squid，不加 s。
+★ 题型判整句："鱿鱼"孤立翻能落到 squid／calamari，词组题又不许给英文提示；不加 s 要靠句子才现形 ⇒ 整句 ＋ 正向点名 squid（她说要背 ⇒ 首测给整词）。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 1 组 [3]（#566 题面同 #581）· 原话
+`I grabbed a stick of grilled(和 roast 的区别是啥，可以学下) squid(背下) from a local vendor at the night market.`
+她写对了 squid，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "squid" ⇒ 零命中
+　② 中文 dedup "鱿鱼" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `grilled squid`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"鱿鱼"先落 squid（不加 s）。
+
+**题面**
+"海边的渔民把刚打上来的鱿鱼一排排挂起来晾干。"（"鱿鱼"用 **squid** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The fishermen by the sea hang the freshly caught squid up in rows to dry.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 1 组 [3]（#566 题里）· 她标「背下」· 原话 `I grabbed a stick of grilled(和 roast 的区别是啥，可以学下) squid(背下) from a local vendor at the night market.`
+
+### 583 · **skewer**（一串：a skewer of grilled squid · lamb skewers；⛔ a stick of）
+类型 词汇 ｜ 新建 2026-11-03
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**skewer** ＝ 穿食物的签子，也指"一串"烤的东西：`a skewer of grilled squid` · `lamb skewers`（羊肉串）· `chicken skewers`。
+同一格里的邻居（别串）：on a stick（插在一根签子上的：corn on a stick）· a stick of ＋ 一根一条的东西（a stick of gum／butter）· kebab（中东式烤肉串）。
+判据一句话：烤串的"一串" ⇒ a skewer of X ／ X skewers。
+★ 题型判整句："一串"孤立翻能落到 a string of／a bunch of 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 skewer。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 1 组 [3]（#566 题面"我在夜市的一个路边摊上买了一串烤鱿鱼。"）· 原话
+`I grabbed a stick of grilled squid from a local vendor at the night market.`
+考点 from a local vendor 用对（#566 ✅）；不在考点上的一处：一串 落成 a stick of —— a stick of 配一根一条的东西，烤串说 skewer ⇒ §3.2b 能学的表达（搭不上，⛔ 不是同级近义词）⇒ 建号（同 #562 #570 先例：⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "skewer"／"on a stick" ⇒ 零命中
+　② 中文 dedup "烤串" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a stick of grilled squid`　　更地道：`a skewer of grilled squid`
+找法：说到烤的"一串 X"先落 a skewer of X。
+
+**题面**
+"我们在烧烤摊上一口气点了二十串羊肉串。"（"串"用 **skewer** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We ordered twenty lamb skewers at the barbecue stall in one go.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 1 组 [3]（#566 题里）· 不在考点上的一处 · 原话 `I grabbed a stick of grilled squid from a local vendor at the night market.` ⇒ 更好版 a skewer of grilled squid
+
+### 584 · **take sth home**（带回家；⛔ take back ＝ 退回／收回）
+类型 词组 ｜ 新建 2026-11-03
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+"带回（家）去" ＝ **take sth home**：`Take some dumplings home with you.` · `I took the leftovers home.`
+同一格里的邻居（别串）：take sth back ＝ 把东西退回去／收回一句话（take it back to the store · I take that back）· bring sth home（从外面带回到说话人这边的家）。
+判据一句话：东西要跟着你回家 ⇒ take sth home；还回去、收回 ⇒ take back。
+★ 题型判整句："带回去"孤立翻 take back／take home 都像，要靠句子里"回哪儿"才定 ⇒ 整句 ＋ 正向点名 home。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 1 组 [4]（#567 题面"我奶奶每次包饺子都特意多包一些，让我们带回去吃。"）· 原话
+`Whenever my grandmother makes dumplings, she always makes a point of making a bigger batch for us to take back.`
+考点 makes a point of making 用对（#567 ✅）；不在考点上的一处：带回去 落成 take back —— take back 先读成"退回／收回"，意思偏了 ⇒ §3.2b 能学的表达（⛔ 不是同级近义词）⇒ 建号（⚠️ 建号记 ❌ 首犯）。
+判重三步：
+　① 目标形式 dedup "take home"／"take back" ⇒ 零命中
+　② 中文 dedup "带回" ⇒ 🎓#558（a trip down memory lane，字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a bigger batch for us to take back`　　更地道：`a bigger batch for us to take home`
+找法：说"让我带回去（吃／用）"先落 take … home。
+
+**题面**
+"朋友聚会剩下的蛋糕，我分了一半带回家。"（"带回家"用 **home** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I took half of the leftover cake from the party home.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#567 题里）· 不在考点上的一处 · 原话 `Whenever my grandmother makes dumplings, she always makes a point of making a bigger batch for us to take back.` ⇒ 更好版 for us to take home
 
 ## 迁移说明（2026-08-18）
 
