@@ -5452,7 +5452,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 156 · 同根词：位置决定名词形还是形容词形（the difference／different ways）
 类型 语法 ｜ 旧号 B245
-状态 连对2 连错0 上次2026-09-26 ｜ **🎓 已毕业 2026-08-23**（连对2 · 08-20 回潮后走完两次）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-08-23**（连对2 · 08-20 回潮后走完两次）｜ 题型 整句
 　　★★ **2026-08-30 撤销 08-28 的"第二次回潮"**（她当天裁定 `makes a huge different` ＝ 手滑）：
 　　　 §2.1 拼写一律不算错 ⇒ 那一次不成立 ⇒ **本条从 08-23 起一直是 🎓，中间没断过**。
 　　　 08-29／08-30 的两次 ✅ 相应降为**毕业后留痕**，只作自发命中证据，不推进数字。
@@ -5481,7 +5481,8 @@ something to look forward **to** ／ a pen to write **with**。
 找法：写这个词之前先看它前面有没有 the／a／of／with —— 有就必须用名词形。
 
 **题面**
-**点名**："这两个版本之间的差别其实挺明显的。"（用"差别"当**名词**说，主语就是那个差别） ／ "他们处理问题的方式完全不同。"
+"这两个版本之间的差别其实挺明显的。"（"差别"用 **difference** 说） ／ "他们处理问题的方式完全不同。"（"不同"用 **different** 说）
+　　★ 2026-11-03 付息日 c 段整改：原提示「用"差别"当名词说，主语就是那个差别」是词性描述（§6② 禁写法）⇒ 改成两句各自正向点名；两句必须一起出（一个测名词形、一个测形容词形）
 　　★ 旧题面（"他的耐心让我印象很深。"／"他一直很有耐心。"）2026-09-05 撤出题面字段 —— 沿革见 08-29 那条（§4① 配套动作："回潮后的复测必须用能测到掉的那一格的题面"；08-28 掉的那一格 ＝ **difference／different**，原题面的 patience／patient 测不到它）
 
 - 2026-08-16 ❌ `the different between the two`
@@ -5550,6 +5551,8 @@ something to look forward **to** ／ a pen to write **with**。
   ★ ⛔ 这不是新裁决，是**执行本条已有的裁定**。
 - 2026-09-12 📝 元信息行整理：撤出的旧题面与沿革移到 ★ 行，题面字段只留两句（§3.1② 解析口径：★ 行不算题面本体）· 全档题面 review
 - 2026-09-26 ✅ 复检 · 付息日 a2 第 2 组 [10] · `The difference between these two versions is actually pretty obvious. They handle problems in a totally different way.`
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [9] · `… there's a world of difference between them.` ／ `My sister and I are completely different when it comes to personality.` —— difference（名）／ different（形）
+- 2026-11-03 📝 题面整改（发题稿侧）· 种子里「用"差别"当名词说」是词性描述（§6② 禁写法）⇒ 今天发题稿改成正向点名 difference ／ different 各一句；种子节同日 c 段一并改（见题面节 ★ 行）
 - 备注 08-16 实证：原答案写对，重说时反而退成 different
 
 ### 158 · 场所介词 on（面）／in（有边界的空间）；on the balcony／on the bus
@@ -15790,7 +15793,7 @@ persuade 偏"让人做"）。
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 中文把头衔放在名字**前面**直接连（社交巨头腾讯、短视频巨头字节跳动），中间没有任何连接词；
@@ -15824,10 +15827,11 @@ persuade 偏"让人做"）。
 - 2026-10-02 ✅ 学习日 在池第 3 组 [2] · `My friend just jumped ship to BYD, the electric vehicle giant.` —— 名字 ＋ 逗号 ＋ the 头衔，没去找介词。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [8] · `I visited Starbucks, the coffee chain, last week.` —— 名字在前，头衔用 , the … 补后面（"总部"没译出，不是本条考点）
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [2] · `My sister does design work at IKEA, the furniture giant.` —— IKEA, the furniture giant。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [1] · `My dad's been with Huawei, the smartphone giant, for two decades.` —— Huawei, the smartphone giant,
 
 ### 370 · create ＋ 结果（造就一批富豪／创造就业：create billionaires；⛔ build billionaires）
 类型 搭配 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 "造就／催生出一批（人或结果）"＝ **create**：create billionaires ／ create jobs ／ create wealth。
@@ -15859,10 +15863,11 @@ build 只能搭"建起来的东西"（build a company／a house／a brand），�
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [9] · `This new plant created two thousand local jobs.` —— created jobs
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [3] · `The boom of shared bikes created a completely new industry.` —— created a completely new industry。🎓 rc1 → rc2
   ★ 同句 diff-2 ⚠️ The boom of → The boom in ⇒ 另建 #461
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [2] · `This hit drama created a new group of big-name influencers.` —— created
 
 ### 371 · bring your other foot over（把另一只脚挪过来；⛔ pull your foot over）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 把身体某部位"挪／带"到某个位置 ＝ **bring … over**：bring your other foot over ／ bring your arm up。
@@ -15893,6 +15898,7 @@ pull 是"用力拽"，说脚的话像用手去拽自己的脚。
   ｜⚠️ For this dance step → For this dance（step 一句里出现两次，删词只进 diff-2，不建号）
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [10] · `When going upstairs, step with your left foot, then slowly bring your right foot over.` —— bring your right foot over
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [4] · `The ski instructor told me to lock my left foot in first, and then bring my right foot over.` —— bring my right foot over。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [3] · `For this stretch, stretch your left leg out first, and then slowly bring it back.` —— bring it back
 
 ### 372 · get it（把想要的东西弄到手；⛔ reach it —— reach 接目标／地点）
 类型 搭配 ｜ 新建 2026-09-29
@@ -15935,7 +15941,7 @@ reach 接的是**目标／地点**（reach a goal ／ reach the top），⛔ 不
 
 ### 373 · It was when …（"那是在…的时候"：P2 第一句点题后接故事）
 类型 句型 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 先用一句话点题，再用 **It was when ＋ 从句** 把具体那件事接上：
@@ -15966,10 +15972,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 3 组 [6] · `I want to share my most embarrassing moment ever. It was when I mixed up the bride's name at a wedding.` —— 先点题，第二句 It was when ＋ 从句接上是哪一次。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [1] · `… It was when I was in hospital, and my coworkers took turns coming to visit me.` —— 点题后用 It was when 接故事
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [5] · `I'd like to talk about a moment I'm really proud of. It was when I ran my first full marathon.` —— It was when ＋ 完整从句。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [4] · `I want to talk about my most unforgettable trip. It was when I first road-tripped to Xizang with my college roommates.` —— It was when；同句她标学下 ⇒ 新建 #599
 
 ### 374 · can't be bothered (to do)（懒得…：比 lazy 更口语）
 类型 词组 ｜ 新建 2026-09-29 ｜ 从 🎓#15 拆出
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **can't be bothered (to do sth)** ＝ 懒得（做某事）—— 说的是"这件事不值得我费劲"，比 lazy 更口语。
@@ -16001,10 +16008,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [2] · `I couldn't be bothered to even change out of my clothes.` —— couldn't be bothered to
   ★ 同句她标学 change out of ⇒ 新建 #411，不算本条
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [6] · `I couldn't be bothered to do the dishes, so I left them soaking in the sink all night.` —— couldn't be bothered to。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [5] · `It's so close that I couldn't be bothered to drive, so I ended up just walking.` —— couldn't be bothered to
 
 ### 375 · a cardboard box（纸箱；⛔ a cardboard —— cardboard 是材料，不可数）
 类型 词汇 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **cardboard** ＝ 硬纸板（**材料**），不可数，⛔ 不能说 a cardboard；**纸箱** ＝ **a cardboard box**。
@@ -16031,10 +16039,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 1 组 [4] · `Cardboard box.` —— cardboard 后面跟上了 box。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `a cardboard box for moving books` —— a cardboard box
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]d · `free cardboard boxes at the supermarket entrance` —— cardboard boxes。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [6]a · `those old cardboard boxes kids use to build castles` —— cardboard boxes
 
 ### 376 · livestream shopping（直播带货；"直播" ＝ live／livestream，⛔ living）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **直播** ＝ **live**（形容词，读 /laɪv/）／**livestream**；**living** ＝ 活着的／生活的，跟"直播"无关。
@@ -16063,10 +16072,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 1 组 [5] · `Double eleven live shopping streams.` —— "直播"＝ live，没写成 living。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `live-stream shopping my mom recently got into` —— live-stream shopping
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]e · `livestream shopping sessions before Chinese New Year` —— livestream shopping。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [6]b · `livestream selling by farmers in the fields` —— livestream selling
 
 ### 377 · not long after（没多久之后；⛔ no long after）
 类型 词组 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 「没多久（之后）」＝ **not long after** ＋ 名词／从句：Not long after graduation · not long after I moved here。
@@ -16099,10 +16109,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 1 组 [6] · `Not long after I started working out, I lost five pounds.` —— 句首 Not long after，否定是 not 不是 no（点名"放在句首"后测到了 09-30 掉的那个位置）。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [3] · `Not long after I switched to a new phone, the screen cracked.` —— Not long after 放句首
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [7] · `Not long after we got married, we had our first baby.` —— Not long after。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [7] · `Not long after we hit the highway, our car got a flat tire.` —— Not long after
 
 ### 378 · trophy（奖杯）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **trophy** ＝ 奖杯（比赛发给冠军的杯子）。
@@ -16131,10 +16142,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-02 ✅ 学习日 在池第 1 组 [7] · `A small trophy.` —— trophy。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `the golden trophy lifted after the World Cup final` —— trophy
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]f · `the championship trophy lifted by the e-sports champions` —— trophy。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [6]c · `the Employee of the Year trophy in the office cabinet` —— trophy
 
 ### 379 · As X puts it, ＋ X 说的那句话本身（正如…所说；⛔ 后半句再让 X 当主语）
 类型 句型 ｜ 新建 2026-09-30
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **As X puts it,** ＝ "正如 X 所说"，逗号后面**直接说 X 的内容**：`As my mom puts it, life's too short to be grumpy.`
@@ -16166,10 +16178,11 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
   ｜⚠️ Just as → As（删词只进 diff-2，不建号；10-01 同一处）
 - 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [4] · `As my mom always puts it, early to bed and early to rise keeps you healthy.` —— As X puts it ＋ 那句话本身
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [8] · `As my boss always puts it, details make or break everything.` —— As X puts it, ＋ 那句话本身。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [8] · `Like my grandma always puts it, taking a loss is a blessing.` —— puts it, ＋ 直接接那句话（Like 代 As 口语可说）
 
 ### 380 · countenance（面容／神情，书面；成语"和颜悦色" ＝ a warm and gentle countenance）
 类型 词汇 ｜ 新建 2026-09-30 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **countenance** ＝ 脸上的神情／面容（书面词，多用在成语、引语的翻译里）。
@@ -16192,6 +16205,7 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 **题面**
 "和颜悦色"（成语，说一个人脸上的神情温和）
 ★ 换场景必须留在**成语／书面翻译**语境（翻一句古文、书里的人物描写、引一句成语）；⛔ 落到日常描述人（"幼儿园老师那副…的面容"）⇒ look on her face 才是对的说法，测不出 countenance
+★ 2026-11-03 补：连"书里的人物描写"也收不住（"小说里描写老国王威严面容的那一句"⇒ 她答 stern look，合法）⇒ **只出四字成语本身**（和颜悦色／面目慈祥／正襟危坐这一类），让她译成语
 
 - 2026-09-30 ❌ 首犯 · 付息日 d 段重答 bank:911 [S5] · 她标「背一下」· 原话 `a warn and gentle countenance(背一下)`
 - 2026-10-01 ✅ 学习日 在池第 2 组 [2] · `A gentle and kindly coutenance.` —— countenance 调出来了（coutenance 拼写，§2.1 不算）。连错 1 → 连对 1
@@ -16199,6 +16213,8 @@ It 指前一句的"那一次"，when 从句说是哪一次（时间／事件）�
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `the nurse's gentle and kindly countenance / expression` —— countenance
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [9] · `that gentle and welcoming look on the kindergarten teacher's face` —— look on her face。题面教练出偏了（日常描述人，判据本身说日常用 face）⇒ 复检题面出坏了记 ✅。🎓 rc1 → rc2
 - 2026-10-12 📝 题面整改 · 题面节补 ★ 行：换场景必须留在成语／书面翻译语境，⛔ 不落到日常描述人（起因：本日复检第 4 组 [9] 场景出偏）
+- 2026-11-03 ✅ 付息日 a2 段复检第 5 组 [6]d · `the sentence describing the old king's stern look` —— stern look 合法且贴题面（题面出得不够收，测不到 countenance）；同处她标背下 ⇒ 新建 #600
+- 2026-11-03 📝 题面整改 · 付息日复检第 5 组 [6]d 场景"小说里描写老国王威严面容的那一句"仍被 stern look 合法绕开 ⇒ 题面节 ★ 行补：只出四字成语本身让她译
 
 ### 381 · 电话号码／邮箱前面用 AT（reach／contact sb at this number；⛔ through this number）
 类型 搭配 ｜ 新建 2026-10-01 ｜ ⭐ 她点名要学

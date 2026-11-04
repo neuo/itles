@@ -1773,6 +1773,64 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 
 - 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（🎓#368 题里）· 不在考点上的一处 · 原话 `After deliverying a few resumes online on a whim, he unexpectedly landed a position at a multinational company.`
 
+### 599 · **road trip**（自驾游、开车一路玩；口语也当动词 road-trip）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**road trip** ＝ 开车出远门玩、一路开一路玩：`go on a road trip` · `a cross-country road trip`；口语也当动词：`We road-tripped down the coast.`
+同一格里的邻居（别串）：self-driving tour（中式直译，少说）· drive to ＋ 地方（只说开车去）· backpacking trip（背包游）。
+判据一句话：中文"自驾游" ⇒ a road trip。
+★ 题型判整句："自驾游"能落到 drive there／self-driving tour 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 road trip。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 5 组 [4]（🎓#373 题面"我想说说我最难忘的一次旅行。那是我和大学室友第一次自驾去西藏的时候。"）· 原话
+`I want to talk about my most unforgettable trip. It was when I first road-tripped（这个词学下) to Xizang with my college roommates.`
+她写对了 road-tripped，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "road trip" ⇒ 零命中
+　② 中文 dedup "自驾" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `I first road-tripped to Xizang`，但词不在手边（自己标学下）　　目标：同她原句
+找法：说"自驾去／开车一路玩"先落 go on a road trip。
+
+**题面**
+"毕业那年夏天，我们几个开车沿着海边玩了一个星期。"（"开车…玩"用 **road trip** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The summer we graduated, a few of us went on a week-long road trip along the coast.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 5 组 [4]（🎓#373 题里）· 她标「这个词学下」· 原话 `I want to talk about my most unforgettable trip. It was when I first road-tripped（这个词学下) to Xizang with my college roommates.`
+
+### 600 · **stern**（严厉的、板着脸的：a stern look · a stern teacher）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stern** ＝ 严厉、不苟言笑（脸色、语气、人）：`a stern look` · `a stern voice` · `Our teacher was really stern.`
+同一格里的邻居（别串）：strict（规矩严、要求高 —— 说管得严）· serious（严肃，最中性）· harsh（严厉到刻薄）。
+判据一句话：脸色、语气让人发怵 ⇒ stern；规矩多、管得严 ⇒ strict。
+★ 题型判整句："严肃／严厉"能落到 strict／serious 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 stern。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 5 组 [6]d（🎓#380 题面"小说里描写老国王威严面容的那一句"）· 原话
+`the sentence describing the old king's stern(背下) look`
+她写对了 stern，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "stern" ⇒ 零命中
+　② 中文 dedup "威严" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the old king's stern look`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说"板着脸／很严厉的样子"先落 stern。
+
+**题面**
+"我们班主任平时很严肃，一瞪眼全班都不敢说话。"（"严肃"用 **stern** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Our homeroom teacher is usually really stern — one look from her and the whole class goes quiet.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 5 组 [6]d（🎓#380 题里）· 她标「背下」· 原话 `the sentence describing the old king's stern(背下) look`
+
 ## 迁移说明（2026-08-18）
 
 ```
