@@ -5319,7 +5319,7 @@ something to look forward **to** ／ a pen to write **with**。
 
 ### 152 · the first / last TIME ＋ 完整从句（time 不能省）
 类型 结构 ｜ 旧号 B241
-状态 连对2 连错0 上次2026-10-12 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）
+状态 连对2 连错0 上次2026-11-03 ｜ 题型 整句 ｜ 回潮 2026-09-11（08-19 毕业 → 09-11 复检写成 `The first I saw it.`，把 time 整个吞掉 ＝ 正中本条考点，撤销毕业、连对清零）｜ **回潮 2026-09-30**（09-15 第二次毕业 → 09-30 复检写成 `The last I saw my grandmother`，time 又被吞，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）
 
 **问题是什么**
 **the first ／ last TIME ＋ 完整从句**（time 不能省）：first／last 后面挂整个从句时，
@@ -5358,6 +5358,7 @@ something to look forward **to** ／ a pen to write **with**。
 - 2026-10-02 ✅ 学习日 在池第 1 组 [1] · `The first time I gave a speech on stage, I was so nervous my legs were shaking.` —— The first time ＋ 完整从句，time 没吞。连对 1 → 2 ⇒ **毕业**（09-30 回潮后第三次毕业）
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [1] · `The first time I took a flight, I was glued to the window the whole time.` —— the first time ＋ 完整从句
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [7] · `The first time I ordered food in another country, I was so nervous I couldn't even make sense of the menu.` —— The first time ＋ 完整从句。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [6] · `The first time I learned how to swim, I choked on water a bunch of times.` —— The first time；同句她标学下 ⇒ 新建 #595
 
 ### 153 · work AT（下功夫）／work ON（做某项目）／work IN（领域）；"干这行"＝ I've been doing this
 类型 搭配 ｜ 旧号 B242
@@ -9308,7 +9309,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 258 · at will（书面）→ whenever they feel like it
 类型 词组 ｜ 新建 2026-08-19（她指定要学）
-状态 连对2 连错0 上次2026-10-12 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ 回潮 2026-09-22（2026-08-21 毕业 · 09-11 复检稳 · 09-22 复检掉）｜ **回潮 2026-09-30**（09-27 第二次毕业 → 09-30 复检写成 `as long as I feel like`，漏 it，撤销毕业、连对清零）｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02；09-30 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **at will** 是书面词，口语版是 **whenever they feel like it**（"想什么时候…就什么时候…"）。
@@ -9350,6 +9351,7 @@ in order to → to · utilize → use · numerous → a lot of · purchase → b
 - 2026-10-02 ✅ 学习日 在池第 1 组 [2] · `The best part about freelancing is that you can take a break whenever you feel like it.` —— whenever you feel like it，it 没漏。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [2] · `My cat comes and goes whenever she feels like it.` —— whenever she feels like it
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [8] · `Our company lets us work remotely, so you can work from home whenever you feel like it.` —— whenever you feel like it。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [7] · `In a buffet restaurant, you just take as much as you feel like having.` —— as much as you feel like having
 - 备注 整句范例（她指定要背的那句）：
   **Parents can show kids how jammed the roads would get if everyone ran red lights whenever they felt like it.**
   —— 注意 felt 跟着虚拟条件走（主句 would get ⇒ 从句 ran／felt 都是过去式形态）
@@ -15568,7 +15570,7 @@ persuade 偏"让人做"）。
 
 ### 363 · appeal to sb's emotions（拿情绪打动人；⛔ drive sb with emotion）
 类型 搭配 ｜ 新建 2026-09-27
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 10-01 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 靠情绪去打动／说服别人 ＝ **appeal to sb's emotions**（appeal 后面接 to；emotions 用复数）。
@@ -15603,10 +15605,11 @@ persuade 偏"让人做"）。
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [3] · `Some charity ads appeal directly to your emotions to make you want to donate.` —— appeal to your emotions
   ★ 同句她说「慈善这个词又忘了」⇒ 新建 #410，不算本条
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [9] · `Some insurance salespeople like to appeal to seniors' emotions to get them to buy.` —— appeal to seniors' emotions。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [8] · `That movie trailer constantly appeals to emotion, trying so hard to get people to cry.` —— appeals to emotion；同句她标背下 ⇒ 新建 #596
 
 ### 364 · without a doubt（毫无疑问）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **without a doubt** ＝ 毫无疑问，P3 开口亮立场用；放句首、句尾都行（`The tech sector, without a doubt.`）。
@@ -15635,6 +15638,7 @@ persuade 偏"让人做"）。
 - 2026-10-02 ✅ 学习日 在池第 2 组 [7] · `The best hot pot I've ever had was, without a doubt, the one in Chongqing.` —— without a doubt，a 没漏。连对 1 → 2 ⇒ **毕业**
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [4] · `Out of all the cities I've visited, Dali is without a doubt the best place to retire.` —— without a doubt
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [10] · `Of all the pets I've kept, the turtle is without a doubt the most low-maintenance.` —— without a doubt。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [9] · `The person who tells the funniest jokes in our class is my desk mate, without a doubt.` —— without a doubt
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
@@ -15752,7 +15756,7 @@ persuade 偏"让人做"）。
 
 ### 368 · land a job (at …)（谋到／进了一份工作）
 类型 词组 ｜ 新建 2026-09-29
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 整句
 
 **问题是什么**
 **land a job (at 公司)** ＝ 找到／谋到一份（好）工作，口语里"进了腾讯"就说 land a job at Tencent。
@@ -15782,6 +15786,7 @@ persuade 偏"让人做"）。
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [7] · `She sent out over a hundred resumes before finally landing a job at a law firm.` —— landing a job
 - 2026-10-12 ✅ 付息日 a2 段复检第 4 组 [1] · `After my cousin finished her internship（这个背一下), she landed a permanent job at that hospital.` —— landed a permanent job。🎓 rc1 → rc2
   ★ 同句另建 #460（internship，她标「这个背一下」）
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [10] · `After deliverying a few resumes online on a whim, he unexpectedly landed a position at a multinational company.` —— landed a position；同句 on a whim ⇒ 新建 #597，deliver ⇒ 新建 #598
 
 ### 369 · 中文"头衔＋名字"（社交巨头腾讯）⇒ 英文【名字, the 头衔】（Tencent, the social media giant）
 类型 结构 ｜ 新建 2026-09-29
@@ -20171,7 +20176,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 
 ### 499 · **Take X —**（拿 X 来说：举一个真实的具体例子起手）
 类型 句型 ｜ 新建 2026-10-16
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 前面说完一个观点，要举一个具体的、真实的例子 ⇒ **Take X —**／**Take X, for example, …** 起手，后面接完整句：
@@ -20203,6 +20208,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-17 ✅ 付息日 在池第 2 组 [10] · `Take my nephew, for instance—he has cram school every single night until nine.`。首测 ⇒ 连对 1（同句 cram school 她标要学 ⇒ 新建 #502）
 - 2026-10-20 ✅ 学习日 在池第 2 组 [4] · `Young people barely cook nowadays. Take my cousin, for example—she gets food delivery over twenty days a month.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [3] · `Many seniors learn things super fast these days. Take my granddad—he actually taught himself how to edit videos in his seventies.` —— Take my granddad—
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [1] · `People can't seem to live without their phones these days. Take my dad—he's scrolling through short videos even while eating.` —— Take my dad—
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
@@ -20307,7 +20313,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **over ＋ 名词** ＝ 为了（某件事）而争、而气、而折腾，常带"就为了这么点事"的口气：
@@ -20336,10 +20342,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [5] · `They spent the whole night arguing over who was gonna do the dishes.`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [5] · `The couple next door spent weeks arguing over a parking spot.`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [6] · `The two kids started fighting in the living room over the remote control.` —— over the remote control
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [2] · `My roommate and I argued for ages over the AC temperature.` —— argued over
 
 ### 504 · **take up ＋ 时间／空间**（占掉）vs **It takes ＋ 时间**（需要多久）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **It takes (sb) ＋ 时间 ＋ to do** ＝ 做这件事需要多久：`It took us two hours to get it in.`
@@ -20369,10 +20376,11 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [6] · `This big couch takes up way too much room—just moving it inside took us two hours.` —— take up 占地方／took us 需要多久，分工都对。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [6] · `This new bookshelf takes up way too much room, and putting it together takes an entire afternoon.` —— take up 占地方／takes 需要多久，分工都对。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [7] · `This treadmill takes up so much space—it took my husband three whole hours just to assemble it.` —— takes up so much space ／ it took my husband three whole hours
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [3] · `This solid wood table takes up so much room—it took four of us an entire hour just to carry it upstairs.` —— takes up ／ it took four of us
 
 ### 505 · **in a bit**（一会儿、马上）vs **in a while**（过一阵子／好久没）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **in a bit** ＝ 一会儿、马上（几分钟内，口语）：`I'll call you back in a bit.` · `I'll be there in a bit.`
@@ -20402,6 +20410,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [7] · `I'll be there in a bit—speaking of which, we haven't seen each other in a while.` —— in a bit 马上／in a while 好久没，分工都对。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [7] · `I'll be there in a bit right after this meeting. It's been a while since our family sat down for a meal together.` —— in a bit 马上 ✓；"好久没"走了 It's been a while since（合法且贴题面，§3.3 ⇒ ✅；10-19 已用对 haven't … in a while）。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [8] · `I'll finish sending this email first and call you back in a bit—it's really been a while since we had a good chat.` —— in a bit ✓；"好久没"走 it's been a while since（合法，同 10-20）
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [4] · `Hang on by the front door, I'll come down in a bit. It's been a while since we last went shopping together!` —— in a bit ／ It's been a while since（合法且贴题面，没串）
 
 ### 506 · **call it quits**（决定到此为止、不干了：结束一段关系／一份工作／一件正在做的事）
 类型 词组 ｜ 新建 2026-10-19 ｜ ⭐ 她点名要学
@@ -20743,7 +20752,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 
 ### 516 · **I distinctly remember …**（清清楚楚记得；⛔ distinctively ＝ 有特色地）
 类型 词组 ｜ 新建 2026-10-20
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-22** ｜ 题型 整句
 
 **问题是什么**
 **distinctly** ＝ 清清楚楚地（记得／听见／看见）：`I distinctly remember …` · `I distinctly heard someone knock.`
@@ -20773,6 +20782,7 @@ diff ⚠️（不是 ❌）：daytime job 能懂，现成说法是 a day job；d
 - 2026-10-21 ✅ 学习日 在池第 2 组 [1] · `I distinctly remember my first train ride when I was little; I spent the whole journey pressed（…需要学下） against the window looking outside.` —— I distinctly remember ✓。连错 1 → 连对 1 ｜ 同句她标学下的 spend ＋ 时间 ＋ 状态 ⇒ 新建 #518
 - 2026-10-22 ✅ 付息日 a 段在池第 1 组 [7] · `I distinctly remember the day my Gaokao scores came out—my mom got so emotional she cried.` —— distinctly（-ly）。连对 1 → 2 ⇒ **毕业**
 - 2026-10-24 ✅ 自发命中 · 学习日 ③ 重答 bank:211（R26 · P2 · 自由产出）S3 · `I distinctly remember that back when I was little, he was always the first one up, just so he could go and water his plants.`
+- 2026-11-03 ✅ 付息日 a2 段复检第 4 组 [5] · `I distinctly recall that blue shirt he had on when I first met my boyfriend.` —— distinctly recall
 
 ### 517 · **didn't bother to do**（没费那个事去做、干脆没做：the organizers didn't bother to enforce it）
 类型 词组 ｜ 新建 2026-10-20 ｜ ⭐ 她点名要学

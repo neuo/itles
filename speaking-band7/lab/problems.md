@@ -1657,6 +1657,122 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 
 - 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [9]（🎓#558 题里）· 她标「这个词组学下」· 原话 `Bringing up(这个词组学下) our old foolish moments at the class reunion was such a trip down memory lane.`
 
+### 595 · **choke on**（呛着、噎着、卡住喉咙：choke on water／a fish bone）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**choke on sth** ＝ 被某样东西呛着、噎着、卡住喉咙：`I choked on my coffee.` · `He choked on a fish bone.`
+同一格里的邻居（别串）：swallow water（游泳时喝进水）· cough（咳嗽）· choke up（哽咽，另一个义项）。
+判据一句话：东西进了气管、卡在喉咙 ⇒ choke on sth。
+★ 题型判整句："呛着／卡住"能落到 get stuck in my throat 一串，词组题又不许给英文提示；on 挂什么要靠句子 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 choke on，连对 ≥1 后降回 choke。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 4 组 [6]（🎓#152 题面"我第一次学游泳的时候，呛了好几口水。"）· 原话
+`The first time I learned how to swim, I choked on(学下这个词组） water a bunch of times.`
+她写对了 choked on，但自己标「学下这个词组」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "choke" ⇒ 零命中
+　② 中文 dedup "呛" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `I choked on water`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"呛着／噎着／卡住喉咙"先落 choke on。
+
+**题面**
+"他吃鱼的时候不小心被鱼刺卡住了喉咙。"（"被…卡住"用 **choke on** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He accidentally choked on a fish bone while eating fish.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 4 组 [6]（🎓#152 题里）· 她标「学下这个词组」· 原话 `The first time I learned how to swim, I choked on(学下这个词组） water a bunch of times.`
+
+### 596 · **trailer**（电影预告片）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**trailer** ＝ 电影、剧集的预告片：`the official trailer` · `watch the trailer`。
+同一格里的邻居（别串）：teaser（更短的先导预告）· preview（预告、试映）· trailer 另一个意思是拖车／房车（a trailer park）。
+判据一句话：上映前放出来的那段宣传短片 ⇒ trailer。
+★ 题型判整句："预告片"能落到 preview／teaser 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 trailer（她说要背 ⇒ 首测给整词）。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 4 组 [8]（🎓#363 题面"这部电影的预告片一直在打感情牌，就想让观众掉眼泪。"）· 原话
+`That movie trailer（背下） constantly appeals to emotion, trying so hard to get people to cry.`
+她写对了 trailer，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "trailer" ⇒ 零命中
+　② 中文 dedup "预告片" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `That movie trailer`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"预告片"先落 trailer。
+
+**题面**
+"这部新片的预告片一出来，网上就炸了。"（"预告片"用 **trailer** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：As soon as the trailer for the new movie dropped, the internet went crazy.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 4 组 [8]（🎓#363 题里）· 她标「背下」· 原话 `That movie trailer（背下） constantly appeals to emotion, trying so hard to get people to cry.`
+
+### 597 · **on a whim**（一时兴起、心血来潮）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**on a whim** ＝ 一时兴起、没怎么想就去做：`We booked the trip on a whim.` · `I bought it on a whim.`
+同一格里的邻居（别串）：on the spur of the moment（一时冲动，同义）· spontaneously（说走就走，偏正式）· impulse buy（冲动消费）。
+判据一句话：没计划、突然想做就做了 ⇒ on a whim。
+★ 题型判整句："一时兴起"能落到 suddenly／spontaneously 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 on a whim，连对 ≥1 后降回 whim。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 4 组 [10]（🎓#368 题面"他在网上随手投了几份简历，没想到很快就在一家外企谋到了一个职位。"）· 原话
+`After deliverying a few resumes online on a whim(这个词组学下), he unexpectedly landed a position at a multinational company.`
+她写对了 on a whim，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同句 deliver 另建 #598）。
+判重三步：
+　① 目标形式 dedup "on a whim"／"whim" ⇒ 零命中
+　② 中文 dedup "随手" ⇒ 🎓#407 #541 #560（题面字样）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `on a whim`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"一时兴起／随手就…"先落 on a whim。
+
+**题面**
+"我们一时兴起，周五下班直接买了去海边的车票。"（"一时兴起"用 **on a whim** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On a whim, we bought train tickets to the beach right after work on Friday.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（🎓#368 题里）· 她标「这个词组学下」· 原话 `After deliverying a few resumes online on a whim(这个词组学下), he unexpectedly landed a position at a multinational company.`
+
+### 598 · **send out résumés**（投简历；⛔ deliver）
+类型 搭配 ｜ 新建 2026-11-03
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+投简历 ＝ **send out résumés**（一次投好几家）／ send in a résumé ／ apply for a job：`I sent out dozens of résumés.`
+同一格里的邻居（别串）：deliver ＝ 把实物送到、递到（deliver a package）· 🎓#501 drop off（顺路送过去）· submit an application（提交申请，偏正式）。
+判据一句话：网上、邮件投简历 ⇒ send out；deliver 只说把实物送到。
+★ 题型判整句："投简历"能落到 apply／submit 一串，词组题又不许给英文提示；考点是动词选哪个 ⇒ 整句 ＋ 正向点名 send out。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 4 组 [10]（🎓#368 题面同 #597）· 原话
+`After deliverying a few resumes online on a whim(这个词组学下), he unexpectedly landed a position at a multinational company.`
+考点 landed a position 用对（#368 ✅）；不在考点上的一处：投简历 落成 deliver（deliverying 拼写不算，§2.1）—— 调出来的是另一个词（deliver 是送实物），⛔ 不是同级近义词 ⇒ §3.2b 选词 ⇒ 建号，判 ❌ 首犯。
+判重三步：
+　① 目标形式 dedup "send out" ⇒ 零命中；"resume" ⇒ 🎓#414（tweak，字样）⇒ 否；"deliver" ⇒ 🎓#501（drop off，送东西）⇒ 否
+　② 中文 dedup "简历" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`After delivering a few resumes online`　　更地道：`After sending out a few résumés online`
+找法：说"投简历"先落 send out résumés。
+
+**题面**
+"毕业前那个月，我每天都要投二三十份简历。"（"投简历"用 **send out** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The month before graduation, I was sending out twenty or thirty résumés a day.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 4 组 [10]（🎓#368 题里）· 不在考点上的一处 · 原话 `After deliverying a few resumes online on a whim, he unexpectedly landed a position at a multinational company.`
+
 ## 迁移说明（2026-08-18）
 
 ```
