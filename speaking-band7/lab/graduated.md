@@ -15638,7 +15638,7 @@ persuade 偏"让人做"）。
 
 ### 365 · powerhouse（某个领域实力最强的那家：a delivery powerhouse）
 类型 词汇 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-12 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-02**（连对2 ＝ 09-30 ＋ 10-02）｜ 题型 词组
 
 **问题是什么**
 **powerhouse** ＝ 在某个领域实力强、能打的那家公司／那个国家／那个人：a delivery powerhouse ／ an economic powerhouse。
@@ -15668,6 +15668,7 @@ persuade 偏"让人做"）。
   ｜她问「新贵怎么说」⇒ up-and-coming 另建 #391
 - 2026-10-05 ✅ 复检 · 学习日 复检第 3 组 [5]（打包）· `a powerhouse in Chinese basketball` —— powerhouse
 - 2026-10-12 ✅ 付息日 a2 段复检第 3 组 [3]c · `a powerhouse in the smartphone industry` —— powerhouse。🎓 rc1 → rc2
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]f · `the Asian table tennis powerhouse` —— powerhouse
 
 ### 366 · make bank（赚大钱，口语俚语；make absolute bank ＝ 赚翻了）
 类型 词组 ｜ 新建 2026-09-29 ｜ ⭐ 她点名要背
@@ -19856,7 +19857,7 @@ diff-2 ⚠️（不是 ❌）："团结就是力量"口号式直译；there's st
 
 ### 490 · **stay on**（留下来接着待：同一个学校／单位不走 —— stayed on for grad school）
 类型 词组 ｜ 新建 2026-10-16
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 整句
 
 **问题是什么**
 **stay on** ＝ 本来可以走（毕业了／合同到了／实习完了），却留在原地接着待、接着干：
@@ -19886,6 +19887,7 @@ diff-2 ⚠️（不是 ❌）：stayed at school 听着像"还在上学"，后�
 - 2026-10-17 ✅ 付息日 在池第 2 组 [9] · `… the company asked her if she wanted to stay on, and she said yes.`。首测 ⇒ 连对 1
 - 2026-10-20 ✅ 学习日 在池第 2 组 [3] · `… his advisor asked if he wanted to stay on in the lab, and he decided to stay on.` —— stay on ✓（同句 -ing 主语悬空归 🎓#215；后半句重复 stay on 只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [2] · `After his contract expired, the coach asked if he'd stay on for one more year, and he said yes.` —— stay on for one more year
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [10] · `Upon reaching retirement, the university asked him to stay on for two more years, and he agreed.` —— stay on
 
 ### 491 · **snap**（细长的硬东西"咔"一下断成两截：the key snapped in the lock）
 类型 词汇 ｜ 新建 2026-10-16 ｜ ⭐ 她点名要背
@@ -20204,7 +20206,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 500 · **a down payment**（首付：买房／买车时先付的那一笔）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **a down payment (on sth)** ＝ 首付，买房／买车时先一次付掉的那一部分，剩下的再贷款或分期：
@@ -20233,6 +20235,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [2] · `a down payment on a car`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [2] · `the down payment on the new house`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]a（打包）· `the down payment for buying a piano in installments` —— down payment
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]d · `the initial down payment to launch the store with a loan` —— down payment
 
 ### 501 · **drop off ＋ 东西**（自己顺路送过去、放下就走；⛔ 和 send 串）
 类型 词组 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
@@ -20270,7 +20273,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 
 ### 502 · **cram school**（补习班：为了考试突击补课的校外班）
 类型 词汇 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-24 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-20** ｜ 题型 词组
 
 **问题是什么**
 **cram school** ＝ 为了升学考试、放学后／周末去的补习班（亚洲语境最常用）：
@@ -20300,6 +20303,7 @@ diff-2 ⚠️（不是 ❌）：Even 起头、破折号后另起主语 his perfo
 - 2026-10-19 ✅ 学习日 在池第 2 组 [4] · `weekend cram school for the high school entrance exams`。连错 1 → 连对 1
 - 2026-10-20 ✅ 学习日 在池第 1 组 [4] · `the night cram school during my final year of high school`。连对 1 → 2 ⇒ 🎓 毕业
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]b（打包）· `an after-school math test-prep class for primary schoolers` —— 答 test-prep class：合法且贴题面（括号写"专门为了考试拔高"），§3.3 ⇒ ✅；cram school 没被逼出来 ⇒ 题面节补 ★（中文写到"天天去、密集填鸭的校外补习机构"）
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]e · `the cram school I spent all day in during winter break` —— cram school（题面按 ★ 行收向填鸭式，她落到 cram school）
 
 ### 503 · **over ＋ 名词**（为了／就因为一件事 —— 多是小事：argue over money）
 类型 搭配 ｜ 新建 2026-10-17 ｜ ⭐ 她点名要学
@@ -21764,7 +21768,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 ### 548 · **old-fashioned**（老式的、旧款的：an old-fashioned cash register；⛔ legacy）
 类型 词汇 ｜ 新建 2026-10-26
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **old-fashioned** ＝ 老式的、旧款的（东西是早年那种样式／做法）：`an old-fashioned cash register` · `an old-fashioned sewing machine` · `old-fashioned values`；口语也常说 **old-school**（带点怀旧、复古的味道）。
@@ -21792,10 +21796,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [2]（#539 题里）· diff-2 ⚠️ · 原话 `that legacy cash register on the counter of the corner shop` ⇒ 更好版 old-fashioned
 - 2026-10-27 ✅ 付息日 在池第 1 组 [8] · `My grandma still uses that old-fashioned sewing machine to tailor our clothes.` —— old-fashioned ✓（tailor → alter 只进 diff-2）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [1] · `There's still an old-fashioned typewriter sitting in my dad's study, and he just can't bring himself to throw it away.` —— an old-fashioned typewriter ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [1] · `There's still an old-fashioned pendulum clock hanging in my grandma's living room that chimes on the hour.` —— old-fashioned；同句她标学下 ⇒ 新建 #588 #589
 
 ### 549 · **at one's desk**（办公室的"工位" ＝ desk：sat at her desk；⛔ station）
 类型 词汇 ｜ 新建 2026-10-26
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
 
 **问题是什么**
 办公室里的"工位" ＝ **desk**（每人一张的那张办公桌）：`sit at my desk` · `eat lunch at my desk` · `She's not at her desk.`（她不在工位上）。
@@ -21823,10 +21828,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [3]（#540 题里）· diff-2 ⚠️ · 原话 `During lunch break, my coworker sat at her station munching on a pack of biscuits.` ⇒ 更好版 at her desk
 - 2026-10-27 ✅ 付息日 在池第 1 组 [9] · `my desk by the window in the open-plan office` —— my desk ✓（没再落 station）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [2] · `that desk of mine in the open office that I went back to when the boss passed by` —— that desk of mine ✓（"赶紧"漏译只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]a · `my new desk after the company moved into the new location` —— my new desk
 
 ### 550 · **lay out ＋ 一套东西**（把计划／来龙去脉一条条摆出来讲清楚：lay out the backstory）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **lay out** ＝ 把一套东西（计划、理由、事实、来龙去脉）有条理地摆出来、讲清楚：`lay out the plan` · `lay out the facts` · `The film took half an hour to lay out the villain's backstory.`；本义是"摊开摆好"（lay out the clothes on the bed）。
@@ -21854,10 +21860,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词组学下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
 - 2026-10-27 ✅ 付息日 在池第 1 组 [10] · `At the meeting, the manager took ten minutes to lay out next year's plan step by step.` —— to lay out next year's plan ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [3] · `The lawyer took half an hour to lay out the full story of the case for us.` —— 点名只给 lay，lay out 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [3] · `Before heading out, the tour guide laid out the whole three-day schedule for us clearly.` —— laid out
 
 ### 551 · **villain**（反派、坏人角色：play the villain）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要背
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
 
 **问题是什么**
 **villain** ＝ 故事里跟主角作对的坏人、反派：`the villain of the movie` · `He always plays the villain.` · `the villain's backstory`。
@@ -21885,10 +21892,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [5]（#542 题里）· 她标「这个词背下」· 原话 `The film took over half an hour just to lay out(这个词组学下) the villain's(这个词背下) backstory.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [1] · `that actor who plays the villain in this drama` —— plays the villain ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [4] · `that main villain in the animated show who keeps trying to capture the princess` —— villain ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]b · `the big villain who gets busted in the end of the action movie` —— villain；同一处 busted ⇒ 新建 #590，in the end of ⇒ 新建 #591
 
 ### 552 · **crouch down**（蹲下：crouch down to tie my shoelaces）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **crouch (down)** ＝ 弯腿把身子蹲低（多是一下子蹲下去，去够、去看、去摸）：`crouch down to tie my shoelaces` · `She crouched down and petted the kitten.` · `crouch behind the car`。
@@ -21916,10 +21924,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 在池第 1 组 [7]（#544 题里）· 她标「这个词组学下」· 原话 `As soon as my niece spotted the kitten, she crouched down(这个词组学下) and couldn't stop petting it.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [2] · `I crouched down to help my daughter tie her shoes.` —— crouched down ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [5] · `The photographer crouched down so he could snap photos of the children from a lower angle.` —— 点名只给 crouch，crouched down 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [4] · `He crouched down to see if the car tire was flat.` —— crouched down
 
 ### 553 · **stench**（一股恶臭、熏人的臭味：a nasty stench）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **stench** ＝ 一股恶臭、熏人的臭味（名词，比 smell 强烈得多）：`a nasty stench` · `the stench of rotting garbage` · `The stench hit me as soon as I opened the door.`
@@ -21947,10 +21956,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [3] · `The trash hadn't been taken out for a few days, so the second I stepped into the kitchen, I got hit with a horrible stench.` —— a horrible stench ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [6] · `The fridge was unplugged for three days, and the second you opened the door, you got hit with a horrible stench.` —— a horrible stench ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [5] · `The sewer had been backed up for days, so there was a foul stench all over the alley.` —— a foul stench；同句她标学下 ⇒ 新建 #592
 
 ### 554 · **smelly**（臭的：smelly shoes · smelly socks）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 词组
 
 **问题是什么**
 **smelly** ＝ 有臭味的、臭的（形容词，放东西前面）：`smelly shoes` · `smelly socks` · `smelly cheese`。
@@ -21978,10 +21988,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [1]（🎓#215 题里）· 她标「这个词学下」· 原话 `On opening my suitcase, a nasty stench（这个词学下) of smelly（这个词学下)  shoes hit me right in the face.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [4] · `those smelly socks my son dumped by the doorstep right after playing football` —— smelly socks ✓（by the doorstep → by the door 只进 diff-2）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [7] · `that smelly T-shirt left in the gym bag for a whole day` —— smelly T-shirt ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [2]c · `those smelly sneakers sitting in the shoe cabinet` —— smelly
 
 ### 555 · **right down to ＋ 最细的那一处**（连…都一样、细到…：beautifully crafted, right down to the presentation）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **right down to ＋ 最小的细节** ＝ 一直细到（连最小的那一处也是这样），放在句末补一刀：`Every dish is beautifully crafted, right down to the presentation.` · `She planned everything right down to the last detail.` · `He copied her look right down to the shoes.`
@@ -22009,10 +22020,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [7]（🎓#456 题里）· 她标「这个词组的用法可以学下」· 原话 `Every single dish from this chef is beautifully crafted, right down to(这个词组的用法可以学下) the presentation.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [5] · `Every single detail of my sister's wedding was handled by her personally, right down to writing the place cards on the tables.` —— right down to writing the place cards ✓（被动换主动只进 diff-2）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [8] · `This hotel pays attention to every little detail, right down to choosing how soft or firm you want your pillow to be.` —— 点名只给 right down，right down to 自己补全 ✓（choosing 的动作主体只进 diff-2）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [6] · `She customized everything for her house, right down to the color of the door handles.` —— right down to
 
 ### 556 · **nothing to write home about**（一般般、不值一提：it's nothing to write home about）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **be nothing to write home about** ＝ 一般般、没什么值得说的（不算差，就是不出彩）：`The food was nothing to write home about.` · `The hotel was clean, but nothing to write home about.`
@@ -22040,10 +22052,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#354 题里）· 她标「这个词组学下」· 原话 `This phone takes pretty decent photos; as for the battery, though, it's nothing to write home about(这个词组学下).`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [6] · `We waited in line for an hour at that famous restaurant, but the food was honestly nothing to write home about.` —— nothing to write home about ✓（famous ⇒ 新建 #559）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [9] · `Everyone said that movie was amazing, but I watched it and found it to be nothing to write home about.` —— 点名只给 write home，nothing to write home about 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [7] · `The place was hyped up to be amazing, but once I saw it in person, it was nothing to write home about.` —— nothing to write home about；同句她标学下 ⇒ 新建 #593
 
 ### 557 · **frost**（给蛋糕抹奶油／糖霜：frost the cake with cream）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **frost** 当动词 ＝ 给蛋糕外面抹一层奶油／糖霜：`frost the cake with cream` · `She frosted it with chocolate.` · `frost the cupcakes`；名词 **frosting** ＝ 抹在外面的那一层（美式；英式多说 icing，动词 ice a cake）。
@@ -22071,10 +22084,11 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S2 · 她标「这个词的用法学下」· 原话 `She spent the whole day baking the sponge and frosting（这个词的用法学下) it with cream and chocolate.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [7] · `During the baking class, the teacher showed us how to frost cupcakes.` —— how to frost cupcakes ✓。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 1 组 [10] · `My son just had to frost his birthday cake by himself, ending up with smearing cream all over his face.` —— frost his birthday cake ✓（ending up with smearing 归 🎓#338 ❌ 回潮）。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [8] · `My best friend and I baked cookies over the weekend and frosted each one.` —— frosted
 
 ### 558 · **a trip down memory lane**（一下子回到从前、勾起一串回忆：It was a real trip down memory lane.）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-10-30 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-03 ｜ **🎓 已毕业 2026-10-30** ｜ 题型 整句
 
 **问题是什么**
 **a trip down memory lane** ＝ 一样东西／一个场景把人带回过去一整段时光（带怀旧的暖意）：`It was a real trip down memory lane.` · `Looking at those old photos took me on a trip down memory lane.`
@@ -22102,6 +22116,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-10-26 ❌ 首犯 · 学习日 ③ 重答 bank:1286 S8 · 她标「这个词组学下」· 原话 `To me, it wasn't just a slice of dessert—it was a real trip down memory lane(这个词组学下), representing all those years of my youth.`
 - 2026-10-27 ✅ 付息日 在池第 2 组 [8] · `Flipping through(这个词组学下) old photo albums from my college days was such a trip down memory lane.` —— was such a trip down memory lane ✓（她标学下 ⇒ 新建 #560 flip through）。连错 1 → 连对 1
 - 2026-10-30 ✅ 学习日 在池第 2 组 [1] · `Taking a stroll through the old alleyway I grew up in was such a trip down memory lane.` —— 点名只给 memory lane，such a trip down memory lane 自己补全 ✓。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-03 ✅ 付息日 a2 段复检第 3 组 [9] · `Bringing up our old foolish moments at the class reunion was such a trip down memory lane.` —— a trip down memory lane；同句她标学下 ⇒ 新建 #594
 
 ### 559 · **trendy**（网红店／网红餐厅 ＝ a trendy restaurant；⛔ famous）
 类型 词汇 ｜ 新建 2026-10-27

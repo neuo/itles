@@ -1453,6 +1453,210 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 
 - 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#580 题里）· 她标「背下」· 原话 `My mom put the quilt(背下) out on the clothesline in the courtyard to get some sun while it was nice outside.`
 
+### 588 · **chime**（钟、门铃叮咚地响）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**chime** ＝ 钟、门铃发出悦耳的叮咚声：`the clock chimed midnight` · `the doorbell chimed`；名词 wind chimes（风铃）。
+同一格里的邻居（别串）：ring（铃响，最中性）· strike（钟敲几点：the clock struck twelve）· buzz（手机、蜂鸣器嗡嗡响）。
+判据一句话：好听的、叮咚一声的钟声铃声 ⇒ chime；一般的铃响 ⇒ ring。
+★ 题型判整句："叮咚响"能落到 ring／go off 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 chime。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [1]（🎓#548 题面"我外婆家客厅里还挂着一台老式摆钟，每到整点就当当响。"）· 原话
+`There's still an old-fashioned pendulum clock hanging in my grandma's living room that chimes（ 这个词学下）on the hour（整点的说法学下).`
+她写对了 chimes，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同句 on the hour 另建 #589）。
+判重三步：
+　① 目标形式 dedup "chime" ⇒ 零命中
+　② 中文 dedup "整点" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `chimes`，但词不在手边（自己标学下）　　目标：同她原句
+找法：说到"（钟／门铃）叮咚响"先落 chime。
+
+**题面**
+"门铃叮咚一响，我就知道外卖到了。"（"叮咚一响"用 **chime** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：As soon as the doorbell chimed, I knew my takeout was here.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [1]（🎓#548 题里）· 她标「这个词学下」· 原话 `There's still an old-fashioned pendulum clock hanging in my grandma's living room that chimes（ 这个词学下）on the hour（整点的说法学下).`
+
+### 589 · **on the hour**（每个整点）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**on the hour** ＝ 在每个整点：`The bus leaves every hour on the hour.` · `The clock chimes on the hour.`
+同一格里的邻居（别串）：on the dot／sharp（某一个点准时：at nine sharp）· every half hour（每半小时）。
+判据一句话：说"每到整点" ⇒ on the hour；说"某一个点准时" ⇒ on the dot／sharp。
+★ 题型判整句："每到整点"能落到 every hour／at the top of every hour 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 on the hour，连对 ≥1 后降回 hour。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [1]（🎓#548 题面同 #588）· 原话
+`… that chimes（ 这个词学下）on the hour（整点的说法学下).`
+她写对了 on the hour，但自己标「整点的说法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "on the hour" ⇒ 零命中
+　② 中文 dedup "整点" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `on the hour`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说到"每到整点"先落 on the hour。
+
+**题面**
+"这趟机场大巴每到整点发一班车。"（"每到整点"用 **on the hour** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The airport bus leaves every hour on the hour.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [1]（🎓#548 题里）· 她标「整点的说法学下」· 原话 `There's still an old-fashioned pendulum clock hanging in my grandma's living room that chimes（ 这个词学下）on the hour（整点的说法学下).`
+
+### 590 · **bust**（口语：被警察抓、被逮到 ⇒ get busted）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**bust** ＝ 口语里的"抓、逮住"（警察抓人，或干坏事被人逮到），常用被动 get busted：`He got busted for drunk driving.` · `I got busted sneaking out.`
+同一格里的邻居（别串）：get caught（被抓到，最中性）· get arrested（被正式逮捕）· catch sb red-handed（人赃并获）。
+判据一句话：口语说"被抓了／被逮到" ⇒ get busted。
+★ 题型判整句："被抓"能落到 get caught／arrested 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 bust。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [2]b（🎓#551 题面"警匪片里最后被抓住的那个大反派"）· 原话
+`the big villain who gets busted(学下) in the end of the action movie`
+她写对了 gets busted，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同一处 in the end of 另建 #591）。
+判重三步：
+　① 目标形式 dedup "bust" ⇒ 零命中
+　② 中文 dedup "被抓" ⇒ 只命中本条与 #591 自身 ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `gets busted`，但词不在手边（自己标学下）　　目标：同她原句
+找法：说"被抓了个正着／被逮到"先落 got busted。
+
+**题面**
+"那个卖假货的店主上周被警察抓了个正着。"（"被抓了个正着"用 **bust** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The shop owner selling knockoffs got busted by the police last week.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [2]b（🎓#551 题里）· 她标「学下」· 原话 `the big villain who gets busted(学下) in the end of the action movie`
+
+### 591 · **at the end of ＋ 名词**（在…的结尾／尽头；⛔ in the end of）
+类型 搭配 ｜ 新建 2026-11-03
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**at the end of ＋ 名词** ＝ 在某样东西的结尾、尽头：`at the end of the movie` · `at the end of the street` · `at the end of the day`。
+in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed home.`
+同一格里的邻居（别串）：by the end of（到…结束时为止）· at the beginning of（在…开头）。
+判据一句话：后面跟 of ＋ 名词 ⇒ at the end of；单独说"最后" ⇒ in the end。
+★ 题型判整句：考点是 end 前面那个介词（at／in），要靠句子才现形 ⇒ 整句 ＋ 正向点名 end（介词留给她）。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [2]b（🎓#551 题面"警匪片里最后被抓住的那个大反派"）· 原话
+`the big villain who gets busted(学下) in the end of the action movie`
+考点 villain 用对（#551 ✅）；不在考点上的一处：in the end of the action movie —— in the end 不接 of，"在…的结尾"是 at the end of ⇒ ❌ 首犯（介词搭配）。
+判重三步：
+　① 目标形式 dedup "at the end" ⇒ 🎓#355 #416 #440（历史字样）⇒ 都否；"in the end" ⇒ 零命中
+　② 中文 dedup "尽头" ⇒ 只命中本条自身；"最后" ⇒ 🎓#298 #395 #338 #439 #486 #58 #88 #136 #248 #283 #286 #308（都是"最后"字样，没有一条考 at／in the end）⇒ 都否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`in the end of the action movie`　　正确：`at the end of the action movie`
+找法：说"在…的最后／尽头"先落 at the end of；只有 of 不出现时才用 in the end。
+
+**题面**
+"这条街的尽头有一家很小的面馆。"（"尽头"用 **end** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：There's a tiny noodle shop at the end of this street.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [2]b（🎓#551 题里）· 不在考点上的一处 · 原话 `the big villain who gets busted in the end of the action movie`
+
+### 592 · **back up**（下水道、水槽堵住、往回冒：the sewer backed up · the sink is backed up）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**back up** ＝ 管道堵住、水往回冒：`The kitchen sink is backed up again.` · `The toilet backed up.`
+同一格里的邻居（别串）：clogged（堵住了，同义：a clogged drain）· traffic backed up（车流排起长队）· back up a file（备份文件，另一个义项）· 🎓#543 bumper-to-bumper（车堵成长龙）。
+判据一句话：管子、水槽、马桶堵了 ⇒ backed up／clogged。
+★ 题型判整句："堵了"能落到 blocked／clogged 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 back up，连对 ≥1 后降回 back。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [5]（🎓#553 题面"下水道堵了好几天，整条巷子都是一股熏人的味道。"）· 原话
+`The sewer had been backed up(这个词组学下) for days, so there was a foul stench all over the alley.`
+她写对了 had been backed up，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "backed up" ⇒ 🎓#543（bumper-to-bumper，历史字样）⇒ 否；"back up" ⇒ 🎓#316（log in，字样）⇒ 否
+　② 中文 dedup "堵" ⇒ 🎓#107 #543 #61（都是堵车）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `The sewer had been backed up`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"（水槽／下水道）堵了"先落 is backed up。
+
+**题面**
+"厨房水槽又堵了，水怎么都下不去。"（"堵了"用 **back up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The kitchen sink is backed up again, and the water just won't drain.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [5]（🎓#553 题里）· 她标「这个词组学下」· 原话 `The sewer had been backed up(这个词组学下) for days, so there was a foul stench all over the alley.`
+
+### 593 · **hype up**（大肆宣传、吹得很神：be hyped up to be amazing）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**hype (up)** ＝ 大肆宣传、吹得很神：`The movie was hyped up as the best of the year.` · `It's overhyped.`（被吹过头了）
+同一格里的邻居（别串）：overrated（名不副实，被高估了）· 🎓#556 nothing to write home about（也就一般般）· get hyped（口语：特别兴奋）。
+判据一句话：事先被宣传得很神 ⇒ hyped up／overhyped。
+★ 题型判整句："被吹得很神"能落到 overrated／praised 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 hype。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [7]（🎓#556 题面"那个景点被吹得神乎其神，去了一看也就一般般。"）· 原话
+`The place was hyped up(这个词组学下) to be amazing, but once I saw it in person, it was nothing to write home about.`
+她写对了 was hyped up，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "hype" ⇒ 零命中
+　② 中文 dedup "吹" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `was hyped up to be amazing`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"被吹得很神"先落 was hyped up。
+
+**题面**
+"这款新手机发布前被吹得特别厉害，结果用起来也就那样。"（"被吹得特别厉害"用 **hype** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The new phone was hyped up like crazy before the launch, but it's just okay to use.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [7]（🎓#556 题里）· 她标「这个词组学下」· 原话 `The place was hyped up(这个词组学下) to be amazing, but once I saw it in person, it was nothing to write home about.`
+
+### 594 · **bring up**（在聊天里提起某个话题）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**bring up** ＝ （在谈话里）提起、说起某事：`Don't bring up his ex.` · `She brought up an interesting point.`
+同一格里的邻居（别串）：mention（提到，中性）· bring up a child（把孩子带大，另一个义项）· 🎓#149（bring up 后面别多加 about）。
+判据一句话：在聊天里把某个话题抛出来 ⇒ bring up sth。
+★ 题型判整句："提"能落到 mention／talk about 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 bring up，连对 ≥1 后降回 bring。
+
+**怎么发现的**
+2026-11-03 付息日 a2 段复检第 3 组 [9]（🎓#558 题面"高中同学聚会上大家聊起当年的糗事，一下子都回到了那段日子。"）· 原话
+`Bringing up(这个词组学下) our old foolish moments at the class reunion was such a trip down memory lane.`
+她写对了 Bringing up，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "bring up" ⇒ 🎓#149（动词后面别多加词，bring up 是列举之一，考的是别加 about）⇒ 否
+　② 中文 dedup "提起" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `Bringing up our old foolish moments`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"提起／说起（某事）"先落 bring up。
+
+**题面**
+"吃饭的时候别提他前女友的事，他会不高兴的。"（"提"用 **bring up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Don't bring up his ex at dinner — he'll get upset.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a2 段复检第 3 组 [9]（🎓#558 题里）· 她标「这个词组学下」· 原话 `Bringing up(这个词组学下) our old foolish moments at the class reunion was such a trip down memory lane.`
+
 ## 迁移说明（2026-08-18）
 
 ```
