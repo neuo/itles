@@ -1031,7 +1031,7 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 
 ### 574 · **on the sly**（偷偷地、背着人）
 类型 词组 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **on the sly** ＝ 偷偷地、背着别人（不想让人知道），口语，常放句末：`She's been eating sweets on the sly.` · `He took the job on the sly.`
@@ -1053,14 +1053,16 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"偷偷（瞒着人）做…"，句末补 on the sly。
 
 **题面**
-"我妹妹趁我妈不注意，偷偷吃了好几块巧克力。"（"偷偷"用 **on the sly** 说）
+"我妹妹趁我妈不注意，偷偷吃了好几块巧克力。"（"偷偷"用 **sly** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：My sister ate several pieces of chocolate on the sly while my mom wasn't looking.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [5]f（🎓#498 题里）· 她标「学下这个短语」· 原话 `a vigilante in the book who settles scores with(学下这个短语） corrupt officials on the sly(学下这个短语）`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [1] · `My little sister ate several chocolates on the sly when my mom was looking the other way.` —— on the sly。连错 1 → 连对 1；同句她标学下 ⇒ 新建 #585
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 on the sly 降回 sly（§6②）
 
 ### 575 · **prefer (that) sb do**（更希望某人做…：My mom preferred I stay home；也说 prefer sb to do）
 类型 结构 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **prefer (that) sb do sth** ＝ 更希望某人做…，人后面的动词用**原形**：`My mom preferred I rest at home.` · `I'd prefer you not tell anyone.`
@@ -1087,10 +1089,11 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 ★ 目标形式（教练看，⛔ 不进发题稿）：My dad would prefer (that) I go back to my hometown to work after graduation.／My dad would prefer me to go back …
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [6]（🎓#546 题里）· 她标「prefer sb. do sth. 学下」· 原话 `I wanted a weekend outing, but my mom preferred I(prefer sb. do sth. 学下) rest at home, so we eventually found a middle ground where we went out on Saturday and chilled at home on Sunday.`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [2] · `My dad would prefer that I head back to my hometown to work after I graduate.` —— would prefer that I head back（that ＋ 人 ＋ 原形）。连错 1 → 连对 1
 
 ### 576 · **savory crepe**（煎饼：a Chinese savory crepe／jianbing）
 类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **savory crepe** ＝ 咸口的薄饼；跟外国人说煎饼 ⇒ a Chinese savory crepe（或直接说 jianbing 再解释一句）。savory ＝ 咸口的（反义 sweet）。
@@ -1113,14 +1116,16 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"煎饼"先落 a savory crepe。
 
 **题面**
-"我最喜欢的早餐是加两个鸡蛋的煎饼。"（"煎饼"用 **savory crepe** 说）
+"我最喜欢的早餐是加两个鸡蛋的煎饼。"（"煎饼"用 **crepe** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：My favorite breakfast is a savory crepe with two eggs.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#486 题里）· 她标「这两个单词分别背下」· 原话 `Downstairs from my place, there are four breakfast shops: the first sells buns, another sells noodles, a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [3] · `My favorite breakfast has to be a savory crepe with two eggs inside.` —— a savory crepe。连错 1 → 连对 1
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 savory crepe 降回 crepe（§6②；savory 留给她）
 
 ### 577 · **fried dough sticks**（油条；⛔ 直接说 churros）
 类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 油条 ＝ **fried dough sticks**（或 youtiao 再解释一句）：`soy milk and fried dough sticks`（豆浆油条）。
@@ -1142,14 +1147,16 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 找法：说到"油条"先落 fried dough sticks；churro 只在打比方时用。
 
 **题面**
-"他把油条掰成小段泡在粥里吃。"（"油条"用 **fried dough stick** 说）
+"他把油条掰成小段泡在粥里吃。"（"油条"用 **dough** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：He breaks the fried dough sticks into little pieces and soaks them in his congee.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 2 组 [9]（🎓#486 题里）· 她标「这两个单词分别背下」· 原话 `Downstairs from my place, there are four breakfast shops: the first sells buns, another sells noodles, a third serves savory crepes(这两个单词分别背下), and the last one exclusively sells soy milk and churros.`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [4] · `He broke the fried dough stick into bitesized chunks to dip in his congee.` —— the fried dough stick。连错 1 → 连对 1
+- 2026-11-03 📝 题面整改 · 连对 ≥1 ⇒ 点名从整块 fried dough stick 降回 dough（§6②）
 
 ### 578 · **handlebars**（自行车／摩托车的车把，常用复数）
 类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **handlebars** ＝ 自行车、摩托车的车把（左右一根横杆，一般说复数）：`grip the handlebars` · `let go of the handlebars`。
@@ -1175,10 +1182,11 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 ★ 目标形式（教练看，⛔ 不进发题稿）：He let go of the handlebars with both hands while riding downhill, and I screamed.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [3]（🎓#492 题里）· 她标「这个词背下」· 原话 `A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [5] · `When he was riding down the hill, he took both hands off the handlebars and terrified me.` —— the handlebars。连错 1 → 连对 1
 
 ### 579 · **unfazed**（淡定、一点不慌、不受影响：be unfazed by sth）
 类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **unfazed** ＝ 遇到本该让人慌、怕、乱的事，一点不受影响：`He was totally unfazed by the criticism.` · `The cat seemed unfazed by the noise.`
@@ -1205,10 +1213,11 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 ★ 目标形式（教练看，⛔ 不进发题稿）：The thunder was really loud, but my dog was totally unfazed and kept sleeping.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [3]（🎓#492 题里）· 她标「这个词学下」· 原话 `A small bird landed and perched on my bike's handlebars(这个词背下), appearing totally unfazed(这个词学下) by people.`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [6] · `The thunder outside was crashing so loudly, but our dog stayed totally unfazed and just kept sleeping.` —— stayed totally unfazed。连错 1 → 连对 1；同句她标学下 ⇒ 新建 #586
 
 ### 580 · **clothesline**（晾衣绳）
 类型 词汇 ｜ 新建 2026-11-02 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-02 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-03 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **clothesline** ＝ 晾衣服用的绳子（一个词）：`hang the laundry on the clothesline`。
@@ -1234,6 +1243,7 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 ★ 目标形式（教练看，⛔ 不进发题稿）：Since it was sunny, my mom hung the quilt over the clothesline in the yard to air it out.
 
 - 2026-11-02 ❌ 首犯 · 学习日 复检第 3 组 [7]a（🎓#327 题里）· 她标「背下」· 原话 `small wooden pegs fixed to the wall holding up the clothesline(背下)`
+- 2026-11-03 ✅ 付息日 a 段在池第 2 组 [7] · `My mom put the quilt out on the clothesline in the courtyard to get some sun while it was nice outside.` —— on the clothesline。连错 1 → 连对 1；同句她标背下 ⇒ 新建 #587
 
 ### 581 · **grill**（烤：在烤架／炭火／铁板上直接烤 ⇒ grilled squid；⛔ 与 roast 串）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
@@ -1353,6 +1363,95 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 ★ 目标形式（教练看，⛔ 不进发题稿）：I took half of the leftover cake from the party home.
 
 - 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 1 组 [4]（#567 题里）· 不在考点上的一处 · 原话 `Whenever my grandmother makes dumplings, she always makes a point of making a bigger batch for us to take back.` ⇒ 更好版 for us to take home
+
+### 585 · **look the other way**（看向别处；引申：睁一只眼闭一只眼、故意不管）
+类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**look the other way** 有两层：
+字面 ＝ 眼睛看着别处（没在看这边）：`She snuck a cookie while her mom was looking the other way.`
+引申 ＝ 明知有问题却故意装没看见、睁一只眼闭一只眼：`The police just looked the other way.`
+同一格里的邻居（别串）：when sb isn't looking（趁某人不注意，最常用、最中性）· turn a blind eye (to sth)（故意视而不见，只有引申义）· #574 on the sly（偷偷地）。
+判据一句话：趁人没看着 ⇒ when sb isn't looking／while sb is looking the other way；明知不管 ⇒ look the other way／turn a blind eye。
+★ 题型判整句："假装没看见"能落到 pretend not to see／ignore 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名；她说要学 ⇒ 首测给整块 look the other way，连对 ≥1 后降回 way。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 2 组 [1]（#574 题面"我妹妹趁我妈不注意，偷偷吃了好几块巧克力。"）· 原话
+`My little sister ate several chocolates on the sly when my mom was looking the other way.（不注意的这个说法可以学下)`
+她写对了 looking the other way（字面义），但自己标「不注意的这个说法可以学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #571–#582 先例）。
+判重三步：
+　① 目标形式 dedup "look the other way"／"other way" ⇒ 零命中；"not looking" ⇒ 🎓#102（字样）⇒ 否
+　② 中文 dedup "不注意" ⇒ #574（题面字样，那条考 on the sly）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `when my mom was looking the other way`，但块不在手边（自己标学下）　　目标：同她原句
+找法：说"趁…不注意"先落 when … wasn't looking；想说得更有画面 ⇒ while … was looking the other way。
+
+**题面**
+"保安明知道有人插队，却假装没看见。"（"假装没看见"用 **look the other way** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The security guard knew people were cutting in line, but he just looked the other way.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 2 组 [1]（#574 题里）· 她标「不注意的这个说法可以学下」· 原话 `My little sister ate several chocolates on the sly when my mom was looking the other way.（不注意的这个说法可以学下)`
+
+### 586 · **crash**（雷声轰隆：thunder crashed · a crash of thunder）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**crash** 说声音 ＝ 巨大的、轰的一声：`thunder crashed overhead`（头顶雷声轰隆）· `a crash of thunder`（一声炸雷）· `the waves crashed against the rocks` · `the plates came crashing down`。
+同一格里的邻居（别串）：rumble（雷在远处闷闷地滚：thunder rumbled in the distance）· boom（低沉的轰一声）· crash 的另一个意思：撞车、电脑死机（the car crashed · my laptop crashed）。
+判据一句话：近处、炸开的那种响 ⇒ crash；远处闷闷滚过来 ⇒ rumble。
+★ 题型判整句："炸雷／雷声轰隆"能落到 loud thunder／thunderclap 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 crash。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 2 组 [6]（#579 题面"外面雷打得那么响，我家狗却一点都不怕，照样呼呼大睡。"）· 原话
+`The thunder outside was crashing(这个词的用法学下) so loudly, but our dog stayed totally unfazed and just kept sleeping.`
+她写对了 thunder was crashing，但自己标「这个词的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "crash" ⇒ 零命中；"thunder" ⇒ 🎓#561（tremble，题面字样）· #579（unfazed，题面字样）⇒ 都否
+　② 中文 dedup "雷" ⇒ #579（同上）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `The thunder outside was crashing`，但用法不在手边（自己标学下）　　目标：同她原句
+找法：说"雷声轰隆／炸雷"先落 thunder crashed 或 a crash of thunder。
+
+**题面**
+"半夜一声炸雷，把全家人都惊醒了。"（"一声炸雷"用 **crash** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：A crash of thunder in the middle of the night woke up the whole family.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 2 组 [6]（#579 题里）· 她标「这个词的用法学下」· 原话 `The thunder outside was crashing(这个词的用法学下) so loudly, but our dog stayed totally unfazed and just kept sleeping.`
+
+### 587 · **quilt**（被子）
+类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-03 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**quilt** ＝ 被子（尤其是缝起来、有夹层的那种棉被）：`air out the quilt`（晒被子）。
+同一格里的邻居（别串）：comforter（美式：厚被子）· duvet（英式：羽绒被、被芯）· blanket（毯子，薄的一层）· bedsheet（床单）· pillowcase（枕套）· #580 clothesline（晒被子搭的那根绳）。
+判据一句话：家里盖的那床棉被 ⇒ quilt（美式也常说 comforter）；薄毯子 ⇒ blanket。
+★ 题型判整句："被子"能落到 comforter／duvet／blanket 一串，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 quilt（她说要背 ⇒ 首测给整词）。
+
+**怎么发现的**
+2026-11-03 付息日 a 段在池第 2 组 [7]（#580 题面"趁着太阳好，我妈把被子搭在院子里的晾衣绳上晒。"）· 原话
+`My mom put the quilt(背下) out on the clothesline in the courtyard to get some sun while it was nice outside.`
+她写对了 quilt，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "quilt"／"duvet" ⇒ 零命中；"comforter" ⇒ 🎓#526（down jacket 正文字样）⇒ 否
+　② 中文 dedup "被子" ⇒ #580（题面字样，那条考 clothesline）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the quilt`，但词不在手边（自己标背下）　　目标：同她原句
+找法：说到"被子"先落 quilt。
+
+**题面**
+"天一冷，我就把厚被子从柜子里拿出来了。"（"被子"用 **quilt** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：As soon as it got cold, I took the thick quilt out of the closet.
+
+- 2026-11-03 ❌ 首犯 · 付息日 a 段在池第 2 组 [7]（#580 题里）· 她标「背下」· 原话 `My mom put the quilt(背下) out on the clothesline in the courtyard to get some sun while it was nice outside.`
 
 ## 迁移说明（2026-08-18）
 
