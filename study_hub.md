@@ -8,6 +8,15 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-11-03 · 口语 R（付息日 · 周期 15 收尾）· 已收尾**
+  —— 在池 2 组 **17 题 / 17 条 ✅17 ❌0**；复检 3 组（在池只排 2 组，下溢 3 组但到期只够 3 组）**29 题 / 37 条 ✅37 ❌0**；回潮 0
+  —— 🎓 **毕业 6 条**（#562 the next few days · #564 hailstorm · #566 street vendor · #567 make a point of · #568 pitch a tent · #569 here in）⇒ 全档 **576** ＝ problems 41 ＋ graduated **535**（92.9%）
+  —— 🆕 **新建 20 条** #581–#600（她标学下／问 16 · ⚠️ 2：skewer（⛔ a stick of）· take home（⛔ take back）· ❌ 2：at the end of（⛔ in the end of）· send out résumés（⛔ deliver））
+  —— 种子整改：7 条连对 1 ⇒ 点名降回 lemma ｜ 🎓#156 去掉词性描述提示 ｜ 🎓#380 只出四字成语
+  —— ⓪ 回看 bank:340 · bank:427；c 段合并 0；d 段重答 bank:1024（P3 为什么去电影院）三次里最好的一版、零错；⚠️ 2：仪式感落 a sense of occasion · 说 better 要带上"在家看"那一边
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 6⇄0
+  —— **下一场 ＝ 周期 16 · L1**：在池 31 条（#570–#580 连对1 ＋ #581–#600 首测）；复检以 pick 为准；② 回看 lookback --pending（bank:1024）；④ 重答 redo 第 1 行（bank:894）
+
 🆕🆕🆕 **2026-11-02 · 口语 L3（周期 15 第 3 个学习日）· 已收尾**
   —— 在池 1 组 **9 题 / 9 条 ✅9 ❌0**；复检 2 组（在池只排 1 组，下溢 2 组但到期只够 2 组）**18 题 / 24 条 ✅24 ❌0**；回潮 0
   —— 🎓 **毕业 3 条**（#338 end up 回潮后重新毕业 · #563 stall · #565 grand）⇒ 全档 **556** ＝ problems 27 ＋ graduated **529**（95.1%）

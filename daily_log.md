@@ -7589,3 +7589,27 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 3⇄0
 
 **下一场 ＝ 周期 15 · R（付息日）**：在池 17 条（#562 #564 #566–#569 连对1 ＋ #570–#580 首测）；复检以 pick --type review 为准；⓪ 回看 lookback --cycle；c 段 review；d 段重答 redo 第 1 行（bank:1024）起
+
+## 2026-11-03（周二）· 口语 R（付息日 · 周期 15 收尾）
+
+> 日期：开场美东 11-04 04:12（未到 11-04 中午），按中午分界属 11-03。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 576 ＝ problems.md 41 ＋ graduated.md 535 ｜ 🎓 535（92.9%）｜ 未毕业 41 ｜ 可出题 31 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 37 道
+
+**五段**
+- a 在池 2 组 17 题 / 17 条：**✅17 ❌0** ⇒ **毕业 6**（#562 #564 #566 #567 #568 #569）；#570–#580 连对 1；7 条种子点名降回 lemma
+  · ⚠️ 建号：`a stick of grilled squid` ⇒ #583 skewer ｜ `for us to take back` ⇒ #584 take home
+  · 她标学下／问：grilled vs roast（#581）· squid · look the other way · crash · quilt
+- ⓪ 回看 bank:340 · bank:427
+- a2 复检 3 组（下溢 3 组）29 题 / 37 条：**✅37 ❌0**
+  · ❌ 建号：`in the end of the action movie` ⇒ #591 at the end of ｜ `deliverying a few resumes` ⇒ #598 send out résumés
+  · 她标学下：chime · on the hour · bust · back up · hype up · bring up · choke on · trailer · on a whim · road trip · stern
+  · 🎓#380 她答 stern look 合法 ⇒ 种子只出四字成语
+- c 段：合并 0；🎓#156 种子去掉词性描述提示
+- d 段重答 bank:1024（P3 · Why do people prefer to watch movies in the cinema?）：三次里最好的一版、零错；two main things ＋ First／Second、huge screen 都是旧答给过的块自己用上；⚠️ 2：sense of ceremony → occasion、better 要带上"在家看"那一边（两次重答都没说）
+
+**教练犯规**：#590 #591 判重先写结论后跑 dedup（落盘前已改，昨天同一类）；🎓#156 📝 先写"下次付息日改"而今天就是付息日（同日改）；🎓#380 题面不够收
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 6⇄0
+
+**下一场 ＝ 周期 16 · L1**：在池 31 条（#570–#580 连对1 ＋ #581–#600 首测）；复检以 pick 为准；② 回看 lookback --pending（bank:1024）；④ 重答 redo 第 1 行（bank:894）＋ 与旧答对比
