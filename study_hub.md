@@ -8,6 +8,15 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-11-04 · 口语 L1（周期 16 第 1 个学习日）· 已收尾**
+  —— 在池 3 组 **30 题 / 30 条 ✅30 ❌0**；复检 1 组 **10 题 / 11 条 ✅11 ❌0**；题外 ❌ 1 ⇒ 🎓#556 nothing to write home about 回潮（说成 write about home）
+  —— 🎓 **毕业 11 条**（#570–#580）⇒ 全档 **583** ＝ problems 38 ＋ graduated **545**（93.5%）
+  —— 🆕 **新建 7 条** #601–#607（她标学下 6：syringe · soy milk · bumpy · oysters · in one sitting · railing ｜ ⚠️ 1：with ＋ 身体部位 ＋ -ing（⛔ had legs that were trembling））
+  —— 种子整改：#571 点名补成 night ＋ fall（她答 darkness had fallen 合法记 ✅）
+  —— ② 回看 bank:1024；④ 重答 bank:894（P3 家长该不该限制孩子玩电脑）三次里最好、零错，How 第一次落到能照做的规则；退步：学业那个理由丢了
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 11⇄1
+  —— **下一场 ＝ 周期 16 · L2**：在池 #556 ＋ #581–#599 连对1 ＋ #600–#607 首测；复检以 pick 为准；② 回看 lookback --pending（bank:894）；④ 重答 redo 第 1 行（bank:489）
+
 🆕🆕🆕 **2026-11-03 · 口语 R（付息日 · 周期 15 收尾）· 已收尾**
   —— 在池 2 组 **17 题 / 17 条 ✅17 ❌0**；复检 3 组（在池只排 2 组，下溢 3 组但到期只够 3 组）**29 题 / 37 条 ✅37 ❌0**；回潮 0
   —— 🎓 **毕业 6 条**（#562 the next few days · #564 hailstorm · #566 street vendor · #567 make a point of · #568 pitch a tent · #569 here in）⇒ 全档 **576** ＝ problems 41 ＋ graduated **535**（92.9%）

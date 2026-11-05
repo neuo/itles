@@ -7613,3 +7613,27 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 6⇄0
 
 **下一场 ＝ 周期 16 · L1**：在池 31 条（#570–#580 连对1 ＋ #581–#600 首测）；复检以 pick 为准；② 回看 lookback --pending（bank:1024）；④ 重答 redo 第 1 行（bank:894）＋ 与旧答对比
+
+## 2026-11-04（周三）· 口语 L1（周期 16 第 1 个学习日）
+
+> 日期：开场美东 11-04 20:20（未到 11-05 中午），按中午分界属 11-04。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 583 ＝ problems.md 38 ＋ graduated.md 545 ｜ 🎓 545（93.5%）｜ 未毕业 38 ｜ 可出题 28 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 37 道
+
+**五段**
+- ① 在池 3 组 30 题 / 30 条：**✅30 ❌0** ⇒ **毕业 11**（#570–#580）；#581–#599 连错1 → 连对1
+  · 她标学下：syringe（#601）· soybean milk → soy milk（#602）· bumpy（#603）· oysters（#604）· in one sitting（#605）
+  · #571 她答 darkness had fallen 合法 ⇒ ✅，种子点名补成 night ＋ fall
+  · 题外 ❌：`nothing to write about home` ⇒ 🎓#556 回潮
+- ①b 复检 1 组 10 题 / 11 条：**✅11 ❌0**
+  · 她标学下：railing（#606）｜ ⚠️ 建号：`the elderly man had legs that were trembling` ⇒ #607 with ＋ 身体部位 ＋ -ing
+  · 🎓#381 via、🎓#384 doze off 合法 ⇒ ✅
+- ② 回看 bank:1024
+- ③ ⚡ 免测 0
+- ④ 重答 bank:894（P3 · Should parents limit their children's use of computer programs and computer games?）：零错；三段 Should／Why／How 齐，How 第一次给出能照做的规则（玩多久就动多久 ＋ daily cap）；退步：08-17 的学业理由（lose interest in their schoolwork）和 an hour a day 没出来；⚠️ 2：they → kids（指代）· cap 带个数
+
+**教练犯规**：开场 pick 用了系统日期 11-05（drawn.log 当场还原、改 11-04 重跑）；#571 判定行与 📝 行同批 append 被拒（📝 改手工补）；重答 ④ 首次贴旧档案带进内层围栏（deliver 前重贴）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 11⇄1
+
+**下一场 ＝ 周期 16 · L2**：在池 #556（回潮）＋ #581–#599 连对1 ＋ #600–#607 首测；复检以 pick 为准；② 回看 lookback --pending（bank:894）；④ 重答 redo 第 1 行（bank:489）＋ 与旧答对比
