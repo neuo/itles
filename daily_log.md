@@ -7637,3 +7637,25 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 11⇄1
 
 **下一场 ＝ 周期 16 · L2**：在池 #556（回潮）＋ #581–#599 连对1 ＋ #600–#607 首测；复检以 pick 为准；② 回看 lookback --pending（bank:894）；④ 重答 redo 第 1 行（bank:489）＋ 与旧答对比
+
+## 2026-11-06（周五）· 口语 L2（周期 16 第 2 个学习日）
+
+> 日期：开场美东 11-07 00:52（未到 11-07 中午），按中午分界属 11-06。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 590 ＝ problems.md 28 ＋ graduated.md 562 ｜ 🎓 562（95.3%）｜ 未毕业 28 ｜ 可出题 18 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 36 道
+
+**五段**
+- ① 在池 3 组 28 题 / 28 条：**✅28 ❌0** ⇒ **毕业 19**（#581–#599）；#556 #600 连错1 → 连对1；#601–#607 连错1 → 连对1
+  · 题外：head teacher（班主任 ⇒ #608）· raving 背下（#609）· drain／sewer／drainage 她要学区别（#610 合并条）· without any responses（⇒ #611 hear back）
+- ①b 复检 1 组 10 题 / 15 条：**✅15 ❌0**
+  · 题外：looks plain as day（#612）· thermos 背下（#613）· `is obsessed with recently` ⇒ 🎓#271 回潮 · `spent a week to finally get one` ⇒ 🎓#251 回潮
+  · evening dress／at sunset／four to five 条目正文写明合法 ⇒ ✅
+- ② 回看 bank:894
+- ③ ⚡ 免测 0
+- ④ 重答 bank:489（P3 · How can parents and teachers help children understand and follow rules?）：比 08-19 首答好 —— why／how 框架、动作当谓语、lead by example 和 whenever they feel like it 自己调出来了；没变：时态平面（could → can，⚪ #12）；退步：没收尾句、monkey see, monkey do 当动词用（#614）
+
+**教练犯规**：开场 pick 又用了系统日期 11-07（drawn.log 当场还原、改 11-06 重跑，与 11-04 同错）；#581 状态行第一次 Edit 没改上（check 报错后补）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 19⇄2 ｜ 08-19 session 6 个小节标题改 `###`（attempts 读不出早期格式，正文未动）
+
+**下一场 ＝ 周期 16 · L3**：在池 #251 #271（回潮）＋ #556 #600–#607 连对1 ＋ #608–#614 首测；复检以 pick 为准；② 回看 lookback --pending（bank:489）；④ 重答 redo 第 1 行（bank:187）＋ 与旧答对比

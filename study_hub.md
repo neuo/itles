@@ -8,6 +8,15 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-11-06 · 口语 L2（周期 16 第 2 个学习日）· 已收尾**
+  —— 在池 3 组 **28 题 / 28 条 ✅28 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**；题外 ❌ 回潮 2 ⇒ 🎓#271 recently 配了一般现在时 · 🎓#251 spent a week to（spend ＋ 时间 ＋ doing）
+  —— 🎓 **毕业 19 条**（#581–#599）⇒ 全档 **590** ＝ problems 28 ＋ graduated **562**（95.3%）
+  —— 🆕 **新建 7 条** #608–#614（homeroom teacher（⛔ head teacher）· rave about（背下）· drain／sewer／drainage 合并条（她要学区别）· hear back · plain as day（⛔ 当"普通"用）· thermos（背下）· monkey see, monkey do（独立成句））
+  —— ② 回看 bank:894；④ 重答 bank:489（P3 家长老师怎么帮孩子守规矩）比 08-19 首答好：why／how 框架、lead by example 和 whenever they feel like it 自己调出来了；没变：一句里时态平面（could → can，⚪）；退步：没收尾句
+  —— 08-19 session 小节标题改成 `###`（早期格式脚本读不出，正文未动）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 19⇄2
+  —— **下一场 ＝ 周期 16 · L3**：在池 #251 #271（回潮）＋ #556 #600–#607 连对1 ＋ #608–#614 首测；复检以 pick 为准；② 回看 lookback --pending（bank:489）；④ 重答 redo 第 1 行（bank:187）
+
 🆕🆕🆕 **2026-11-04 · 口语 L1（周期 16 第 1 个学习日）· 已收尾**
   —— 在池 3 组 **30 题 / 30 条 ✅30 ❌0**；复检 1 组 **10 题 / 11 条 ✅11 ❌0**；题外 ❌ 1 ⇒ 🎓#556 nothing to write home about 回潮（说成 write about home）
   —— 🎓 **毕业 11 条**（#570–#580）⇒ 全档 **583** ＝ problems 38 ＋ graduated **545**（93.5%）
