@@ -8,6 +8,14 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
+🆕🆕🆕 **2026-11-07 · 口语 L3（周期 16 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **18 题 / 18 条 ✅18 ❌0**；复检 2 组（含下溢 1 组）**17 题 / 22 条 ✅22 ❌0**；回潮 0
+  —— 🎓 **毕业 9 条**（#556 #600–#607）⇒ 全档 **595** ＝ problems 24 ＋ graduated **571**（96.0%）
+  —— 🆕 **新建 5 条** #615–#619（palm（背一下）· movers（题面"请搬家公司"漏译）· wrap one's head around（学下）· discouraging（⛔ negative reinforcement）· book-smart（⛔ school-smart））
+  —— ② 回看 bank:489；④ 重答 bank:187（P3 孩子为什么觉得读书无聊）比 08-20 首答好：零真错、pay off／down the road／wrap their heads around 一路都在、句内收尾；退步：少了具体科目例子、两处选词偏
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 9⇄0
+  —— **下一场 ＝ 周期 16 · R 付息日**：在池 #251 #271 #608–#614 #610 连对1 ＋ #615–#619 首测；复检 3 组以 pick 为准；⓪ lookback --cycle；c 段 review（顺手修 08-20.md:L27 让 attempts 抓错的节标题）；d 段 redo 从 bank:927
+
 🆕🆕🆕 **2026-11-06 · 口语 L2（周期 16 第 2 个学习日）· 已收尾**
   —— 在池 3 组 **28 题 / 28 条 ✅28 ❌0**；复检 1 组 **10 题 / 15 条 ✅15 ❌0**；题外 ❌ 回潮 2 ⇒ 🎓#271 recently 配了一般现在时 · 🎓#251 spent a week to（spend ＋ 时间 ＋ doing）
   —— 🎓 **毕业 19 条**（#581–#599）⇒ 全档 **590** ＝ problems 28 ＋ graduated **562**（95.3%）

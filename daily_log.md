@@ -7659,3 +7659,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 19⇄2 ｜ 08-19 session 6 个小节标题改 `###`（attempts 读不出早期格式，正文未动）
 
 **下一场 ＝ 周期 16 · L3**：在池 #251 #271（回潮）＋ #556 #600–#607 连对1 ＋ #608–#614 首测；复检以 pick 为准；② 回看 lookback --pending（bank:489）；④ 重答 redo 第 1 行（bank:187）＋ 与旧答对比
+
+## 2026-11-07（周六）· 口语 L3（周期 16 第 3 个学习日）
+
+> 日期：开场美东 11-07 21:26（已过 11-07 中午），按中午分界属 11-07。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 595 ＝ problems.md 24 ＋ graduated.md 571 ｜ 🎓 571（96.0%）｜ 未毕业 24 ｜ 可出题 14 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 35 道
+
+**五段**
+- ① 在池 2 组 18 题 / 18 条：**✅18 ❌0** ⇒ **毕业 9**（#556 #600–#607）；#251 #271 #608 #609 #611–#614 连错1 → 连对1；#610 首测 ✅
+  · 题外：palms 背一下（#615）· "请搬家公司"漏译（⇒ #616 movers）
+- ①b 复检 2 组（基础 1 ＋ 在池下溢 1）17 题 / 22 条：**✅22 ❌0**
+- ② 回看 bank:489
+- ③ ⚡ 免测 0
+- ④ 重答 bank:187（P3 · Why do most children think education is boring?）：比 08-20 首答好 —— 零真错（08-20 有 2 处）、pay off 的机制放到开头、can't wrap their heads around 替掉 can't get why、the more … the more 收尾；退步：少了 chemistry 那种具体科目例子；新建 #617 wrap one's head around（学下）· #618 discouraging（negative reinforcement 选词偏）· #619 book-smart（school-smart）
+
+**教练犯规**：开场 pick 又用了系统日期 11-08（drawn.log 当场还原、改 11-07 重跑，第三次同错）；#271 合并条块头格式被 deliver 拦下后改写；#520 括号负向排除被 prompts --verify 拦下后改写
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 9⇄0
+
+**下一场 ＝ 周期 16 · R 付息日**：在池 #251 #271 #608–#614 #610 连对1 ＋ #615–#619 首测；复检 3 组以 pick 为准；⓪ lookback --cycle；c 段 review（顺手修 08-20.md:L27 节标题，attempts bank:187 会抓错）；d 段 redo 从第 1 行（bank:927）＋ 与旧答对比
