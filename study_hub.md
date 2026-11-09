@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-07 · 口语 L3（周期 16 第 3 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-08 · 口语 R（付息日 · 周期 16 收尾）· 已收尾**
+  —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 3 组 **29 题 / 34 条 ✅34 ❌0**；回潮 0
+  —— 🎓 **毕业 8 条**（#251 #271 #608 #609 #611–#614）⇒ 全档 **608** ＝ problems 29 ＋ graduated **579**（95.2%）
+  —— 🆕 **新建 13 条** #620–#632（学下／背下 9：master · have sb do · mad at · dodge · a pop · misaligned · behind closed doors · take a tumble · backfire ｜ ⚠️／错 4：the basics · taste just right · two weeks（⛔ half a month）· an end in itself）
+  —— ⓪ 回看 bank:894 · bank:489 · bank:187；c 段合并 0；08-20.md 两道新题节标题修成 `###`、L27 只抽题节改名（attempts 不再抓错）
+  —— d 段重答 bank:927（P3 奖励能不能让孩子变好）比 08-20 首答好：真错 4 → 0、例子句搭配全对、收尾带机制；退步：少了 iPhone 递进画面、backfire 没展开
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄0
+  —— **下一场 ＝ 周期 17 · L1**：在池 #610 #615–#619 连对1 ＋ #620–#632 首测；复检 1 组以 pick 为准；② 回看 lookback --pending（bank:927）；④ 重答 redo 第 1 行（bank:434）
+
+🆕🆕 **2026-11-07 · 口语 L3（周期 16 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **18 题 / 18 条 ✅18 ❌0**；复检 2 组（含下溢 1 组）**17 题 / 22 条 ✅22 ❌0**；回潮 0
   —— 🎓 **毕业 9 条**（#556 #600–#607）⇒ 全档 **595** ＝ problems 24 ＋ graduated **571**（96.0%）
   —— 🆕 **新建 5 条** #615–#619（palm（背一下）· movers（题面"请搬家公司"漏译）· wrap one's head around（学下）· discouraging（⛔ negative reinforcement）· book-smart（⛔ school-smart））

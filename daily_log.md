@@ -7679,3 +7679,25 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 9⇄0
 
 **下一场 ＝ 周期 16 · R 付息日**：在池 #251 #271 #608–#614 #610 连对1 ＋ #615–#619 首测；复检 3 组以 pick 为准；⓪ lookback --cycle；c 段 review（顺手修 08-20.md:L27 节标题，attempts bank:187 会抓错）；d 段 redo 从第 1 行（bank:927）＋ 与旧答对比
+
+## 2026-11-08（周日）· 口语 R（付息日 · 周期 16 收尾）
+
+> 日期：开场美东 11-08 19:47（已过 11-08 中午），按中午分界属 11-08；d 段重答收在美东 11-09 09:13（未到 11-09 中午，仍属 11-08）。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 608 ＝ problems.md 29 ＋ graduated.md 579 ｜ 🎓 579（95.2%）｜ 未毕业 29 ｜ 可出题 19 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 34 道
+
+**五段**
+- a 在池 2 组 13 题 / 13 条：**✅13 ❌0** ⇒ **毕业 8**（#251 #271 #608 #609 #611–#614）
+  · 她标学下：master（#620）· have sb do（#621）· mad at（#622）
+- ⓪ 回看 bank:894 · bank:489 · bank:187（本周期全部）
+- a2 复检 3 组（基础 3）29 题 / 34 条：**✅34 ❌0** ｜ 回潮 0
+  · 她标学下／背下：dodge（#623）· a pop（#624）· misaligned（#625）· behind closed doors（#628）· take a tumble（#629）
+  · ⚠️／错建号：the basics（#626，⚪ #56 is basic skills）· taste just right（#627，⛔ taste fine）· two weeks（#630，⛔ half a month）
+- c 段：合并 0、拆号 0；🎓#162 成员出题账补齐；08-20.md 两道新题节小节标题统一成 `###`、L27 只抽题的节改名（attempts 不再抓错）
+- d 段重答 bank:927（P3 · Do rewards help a child become better?）：比 08-20 首答好 —— 真错 4 → 0（双宾语／the latest／问句倒装／with caution 都没再出现）、reward a kid with a gift for good grades 三个位置全对、incentive effect will weaken → they just stop working（口语化）、instead of 两边方向对；退步：少了 iPhone 递进那种画面、backfire 没说怎么反噬；新建 #631 backfire（学下）· #632 an end in itself（⛔ the end goal itself）
+
+**教练犯规**：开场 pick 又用了系统日期 11-09（drawn.log 当场还原、改 11-08 重跑，第四次同错）；#271 合并条块头格式被 deliver 拦下后改写
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 8⇄0
+
+**下一场 ＝ 周期 17 · L1**：在池 #610 #615–#619 连对1 ＋ #620–#632 首测；复检 1 组以 pick 为准；② 回看 lookback --pending（bank:927）；④ 重答 redo 第 1 行（bank:434）
