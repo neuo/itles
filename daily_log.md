@@ -7720,3 +7720,24 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` ERROR 0 ｜ `migrate` 6⇄0
 
 **下一场 ＝ 周期 17 · L2**：pick 带 --date；② lookback --pending；④ redo 第 1 行（bank:434）
+
+## 2026-11-11（周三）· 口语 L2（周期 17 第 2 个学习日）
+
+> 日期：开场美东 11-11 20:15，属 11-11。开场先补了 11-09 的收尾（commit 4389066）。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 627 ＝ problems.md 30 ＋ graduated.md 597 ｜ 🎓 597（95.2%）｜ 未毕业 30 ｜ 可出题 20 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 33 道
+
+- ① 在池 2 组 20 题 / 20 条：**✅19 ❌1**（#630 half a month，连错 3）⇒ **毕业 12**（#620–#629 #631 #632）
+  · 她标学下／背下：come ＋ -ing（#640）· grilled sausage（#641）· off（#642）· sugary（#643）· get over（#644）· shake off（#645）· play matchmaker（#646）· be sick of（#647）
+- ①b 复检 2 组 20 题 / 20 条：**✅20**；回潮 0
+  · 她标学下／背下：commit a foul（#648）· pirated（#649）
+  · 旁注不建号：🎓#589 every hour on the hour · 🎓#594 at the dinner table 的位置 · 🎓#596 the trailer for
+- ② 回看 bank:927（她要求整篇重发）
+- ③ 重答 bank:434（P2 喜欢去但不想住的家）：零真错；她标学下 tucked away（#650）· spotless（#651）；自发 🎓#427 soak up the sun · 🎓#353 vibe
+  · 比 08-21 首答：真错 2 → 0、not somewhere I'd … 用上了、频率和理由更具体；少了 that's the whole point 那一层；两次都没扣回 home
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 12⇄0
+
+**下一场 ＝ 周期 17 · L3**：pick 带 --date；② lookback --pending（bank:434）；④ redo 第 1 行（bank:414）

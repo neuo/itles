@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-09 · 口语 L1（周期 17 第 1 个学习日）· 已收尾（11-11 补收尾）**
+🆕🆕🆕 **2026-11-11 · 口语 L2（周期 17 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **20 题 / 20 条 ✅19 ❌1**（#630 two weeks，连错 3）；复检 2 组 **20 题 / 20 条 ✅20**；回潮 0
+  —— 🎓 **毕业 12 条**（#620–#629 #631 #632）⇒ 全档 **627** ＝ problems 30 ＋ graduated **597**（95.2%）
+  —— 🆕 **新建 12 条** #640–#651（全是她标学下／背下：come ＋ -ing · grilled sausage · off · sugary · get over · shake off · play matchmaker · be sick of · commit a foul · pirated · tucked away · spotless）
+  —— ② 回看 bank:927（她要求整篇重发）
+  —— ③ 重答 bank:434（P2 喜欢去但不想住的家）比 08-21 首答好：真错 2 → 0、用上了旧更好版的 not somewhere I'd …、去的频率对题、理由更具体；退步：少了 that's the whole point 那一层；两次都没扣回 home
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 12⇄0
+  —— **下一场 ＝ 周期 17 · L3**：pick 以 --date 为准；② lookback --pending（bank:434）；④ redo 第 1 行（bank:414）
+
+🆕🆕 **2026-11-09 · 口语 L1（周期 17 第 1 个学习日）· 已收尾（11-11 补收尾）**
   —— 在池 2 组 **19 题 / 19 条 ✅18 ❌1**（#630 two weeks）；复检第 3 组发出后她喊停、未作答 ⇒ 不记账；回潮 0
   —— 🎓 **毕业 6 条**（#610 #615–#619）⇒ 全档 **615** ＝ problems 30 ＋ graduated **585**（95.1%）
   —— 🆕 **新建 7 条** #633–#639（out of ＋ 一组 · veteran · duck · the real deal · bland · flatter · win sb over）
