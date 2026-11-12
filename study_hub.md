@@ -8,7 +8,15 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-08 · 口语 R（付息日 · 周期 16 收尾）· 已收尾**
+🆕🆕🆕 **2026-11-09 · 口语 L1（周期 17 第 1 个学习日）· 已收尾（11-11 补收尾）**
+  —— 在池 2 组 **19 题 / 19 条 ✅18 ❌1**（#630 two weeks）；复检第 3 组发出后她喊停、未作答 ⇒ 不记账；回潮 0
+  —— 🎓 **毕业 6 条**（#610 #615–#619）⇒ 全档 **615** ＝ problems 30 ＋ graduated **585**（95.1%）
+  —— 🆕 **新建 7 条** #633–#639（out of ＋ 一组 · veteran · duck · the real deal · bland · flatter · win sb over）
+  —— ② 回看 bank:927；④ 重答 bank:434 题目已发、未作答 ⇒ 不记账，redo 仍排第 1
+  —— `check --all` ERROR 0 ｜ `deliver` ERROR 0 ｜ migrate 6⇄0
+  —— **下一场 ＝ 周期 17 · L2**：pick 以 --date 为准；② lookback --pending；④ redo 第 1 行（bank:434）
+
+🆕🆕 **2026-11-08 · 口语 R（付息日 · 周期 16 收尾）· 已收尾**
   —— 在池 2 组 **13 题 / 13 条 ✅13 ❌0**；复检 3 组 **29 题 / 34 条 ✅34 ❌0**；回潮 0
   —— 🎓 **毕业 8 条**（#251 #271 #608 #609 #611–#614）⇒ 全档 **608** ＝ problems 29 ＋ graduated **579**（95.2%）
   —— 🆕 **新建 13 条** #620–#632（学下／背下 9：master · have sb do · mad at · dodge · a pop · misaligned · behind closed doors · take a tumble · backfire ｜ ⚠️／错 4：the basics · taste just right · two weeks（⛔ half a month）· an end in itself）

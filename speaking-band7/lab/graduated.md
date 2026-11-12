@@ -21332,6 +21332,7 @@ terrace 本身 ＝ 一级一级的台地／露台：`a terrace café`（露台�
 - 2026-10-25 ✅ 学习日 在池第 1 组 [7] · `My colleague's son came top in the whole province for his Gaokao exams.` —— came top in the whole province（不带 the ✓）。连对 1 → 2 ⇒ 🎓
 - 2026-10-30 ✅ 复检 · 学习日 复检第 3 组 [7] · `My daughter came top in her school's writing competition.` —— came top in
 - 2026-11-08 ✅ 复检 · 付息日 复检第 4 组 [8] · `My roommate came top in the whole school for this coding contest.` —— came top，top 前没加 the ✓
+- 2026-11-09 📝 学习日 在池第 1 组 [5]（#619 题里）· "全班第一"她说成 `She always gets the top grades`，没调出 come top of her class · 题面没点名，留痕不判、不回潮
 
 ### 531 · **pass out**（晕倒、昏过去）
 类型 词组 ｜ 新建 2026-10-22 ｜ ⭐ 她点名要学
@@ -23859,6 +23860,49 @@ stern 对了，但"班主任"译成 head teacher ⇒ 母语者听到的是"校�
 - 2026-11-07 ✅ 学习日 在池第 2 组 [3] · `My mom has been raving about the new bakery downstairs to everyone she meets lately.` —— 连错 1 → 连对 1
 - 2026-11-08 ✅ 付息日 在池第 1 组 [4] · `My coworker has spent the last few days raving to everyone about the new air fryer she bought.` —— 连对 1 → 2 ⇒ 🎓 毕业
 
+### 610 · **drain ≠ sewer ≠ drainage**（下水口／排水管 · 城市下水道 · 排水）
+类型 词汇 ｜ 新建 2026-11-06 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 词组 ｜ 合并条·出题多句覆盖
+
+**问题是什么**
+三个"下水"名词的分工：
+　① **drain** ＝ 排水口和连着它的管子（水槽、浴缸、地漏、路边雨水口）：the sink drain · a floor drain · a blocked drain；一栋房子里的排水管道统称 **the drains**
+　② **sewer** ＝ 街道底下的污水总管（城市下水道，大到人能钻进去）：the city sewers · the sewer system
+　③ **drainage** ＝ 排水（不可数：排得好不好、这套系统）：poor drainage · the drainage system
+同一格里的邻居（别串）：#592 back up（管道往回冒，动词块；主语可以是 the drains／the sewer／the sink）· clogged（堵住了）。
+判据一句话：一个口子／房子里的管子 ⇒ drain(s)；街道底下的大管道 ⇒ sewer；排水这件事、排水能力或系统 ⇒ drainage。
+
+**怎么发现的**
+2026-11-06 学习日 在池第 2 组 [4]（#592 题面"这栋楼的下水道一下大雨就往上返水。"）· 原话
+`The drains（和 sewer 的区别学下，还有 drainage) in this building back up whenever we get heavy rain.`
+the drains 在这里用对了；她点名要学三个词的区别 ⇒ §2③ 建号（📝 新建，不判档，同 🎓#432 cross-border／transnational 对比条先例）。
+三个成员是有限集合、同一个考点（分工）⇒ §3.2c 合并条。
+判重三步：
+　① 目标形式 dedup "drain" ⇒ 只命中 #592（back up，正文举例 a clogged drain）⇒ 否：那条考动词块 back up；dedup "sewer" ⇒ #592（触发句）· 🎓#553（stench，题面字样）⇒ 否
+　② 中文 dedup "下水" ⇒ 只命中 #592 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：the drains 用对了，但三个词的分工不清（自己点名要学）　　目标：drain／sewer／drainage 各就各位
+找法：先问自己说的是"一个口、一根管"，还是"整座城市的管网"，还是"排水这件事"。
+
+**题面**
+★ 3 句，三个成员各一句 —— 本条考的就是三个词的分工，只出一个等于没测
+　① "浴室的地漏"（地上那个出水口）
+　② "城市街道底下的下水道"（大管子，全城的污水都流进去）
+　③ "这个小区的排水"（下雨积不积水、水排得快不快）
+★ 目标形式（教练看，⛔ 不进发题稿）：① the floor drain in the bathroom ② the sewers under the city streets ③ the drainage in this neighborhood
+★ ② 答 sewer system 也判 ✅；③ 答 the drainage system 也判 ✅
+
+**成员出题账**
+① drain ｜ 11-07 ✅ · 11-09 ✅
+② sewer ｜ 11-07 ✅ · 11-09 ✅
+③ drainage ｜ 11-07 ✅ · 11-09 ✅
+
+- 2026-11-06 📝 新建 · 学习日 在池第 2 组 [4]（#592 题里）· 她要求学三个词的区别 · 原话 `The drains（和 sewer 的区别学下，还有 drainage) in this building back up whenever we get heavy rain.`
+- 2026-11-07 ✅ 学习日 在池第 2 组 [8] · `① the shower/bathroom floor drain ／ ② the city sewer system ／ ③ the neighborhood drainage` —— 三个成员各就各位 ⇒ 成员出题账三行补 11-07 ✅。首测 ⇒ 连对 1
+- 2026-11-09 ✅ 学习日 在池第 2 组 [9] · ① `the shower floor drain` ② `the underground sewer pipes in the old town` ③ `the drainage on this road` —— 三成员全对 · 连对 1 → 2 ⇒ 🎓
+
 ### 611 · **hear back (from sb)**（收到回音；⛔ without any responses）
 类型 词组 ｜ 新建 2026-11-06
 状态 连对2 连错0 上次2026-11-08 ｜ **🎓 已毕业 2026-11-08** ｜ 题型 整句
@@ -23983,3 +24027,161 @@ grand 对了；"看着普普通通"写成 looks plain as day ⇒ 习语意思用
 - 2026-11-06 ❌ 首犯 · 学习日 ③ 重答 bank:489 S6 · ⚠️ 不地道 · 原话 `I mean, if parents are constantly cutting the line, kids are obviously gonna monkey see, monkey do.`
 - 2026-11-07 ✅ 学习日 在池第 2 组 [7] · `You play on your phone in front of your kid every day, so of course he does the same—monkey see, monkey do!` —— 句尾独立评语 ✓。连错 1 → 连对 1
 - 2026-11-08 ✅ 付息日 在池第 1 组 [8] · `The older sister tried putting on mom's lipstick, and the younger one copied her immediately—monkey see, monkey do.` —— 独立成句当评语 ✓。连对 1 → 2 ⇒ 🎓 毕业
+
+### 615 · **palm**（手掌、手心：my palms were sweating · sweaty palms）
+类型 词汇 ｜ 新建 2026-11-07 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 整句
+
+**问题是什么**
+**palm** ＝ 手掌、手心（手里面那一面）。手心出汗：`My palms were sweating.` · `I had sweaty palms.` · `It made my palms sweat.`
+同一格里的邻居（别串）：the back of my hand（手背）· fist（拳头）· wrist（手腕）。
+判据一句话：中文说"手心／手掌"⇒ palm；紧张得手心冒汗 ⇒ sweaty palms／my palms were sweating。
+★ 题型判整句："手心出汗"能落到 my hands were sweating 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 palm。
+
+**怎么发现的**
+2026-11-07 学习日 在池第 1 组 [4]（#600 题面"面试我的那个经理从头到尾都很严肃，我紧张得手心全是汗。"）· 原话
+`The hiring manager who interviewed me stayed totally stern the whole time, making my palms(背一下) sweat like crazy.`
+她写对了 palms，但自己标「背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #601 #609 先例）。
+判重三步：
+　① 目标形式 dedup "palm" ⇒ 零命中
+　② 中文 dedup "手心" ⇒ 零命中；"sweat" ⇒ 🎓#238 move on（历史行字样）⇒ 否：那条考 move on／move forward
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `making my palms sweat`，但词不在手边（自己标背一下）　　目标：同她原句
+找法：说到"手心／手掌"先落 palm。
+
+**题面**
+"我第一次上台演讲，手心全是汗。"（"手心"用 **palm** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The first time I gave a speech on stage, my palms were sweating like crazy.
+
+- 2026-11-07 ❌ 首犯 · 学习日 在池第 1 组 [4]（#600 题里）· 她标「背一下」· 原话 `The hiring manager who interviewed me stayed totally stern the whole time, making my palms(背一下) sweat like crazy.`
+- 2026-11-08 ✅ 付息日 在池第 1 组 [9] · `When I gave a presentation on stage for the first time, my palms were completely soaked in sweat.` —— 连错 1 → 连对 1
+- 2026-11-09 ✅ 学习日 在池第 1 组 [1] · `When the exam papers were being handed out, my palms were sweating like crazy.` —— 连对 1 → 2 ⇒ 🎓
+
+### 616 · **movers**（搬家公司、搬家工人：hire movers）
+类型 词汇 ｜ 新建 2026-11-07
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 整句
+
+**问题是什么**
+**movers** ＝ 搬家公司／搬家工人，口语里一律复数：`We hired movers.`（请了搬家公司）· `The movers showed up at eight.`
+英式也说 a removal company；正式一点 a moving company。"请"用 **hire**。
+同一格里的邻居（别串）：🎓#425 make the move（下决心迈出那一步，不是搬家）· move（动词：搬家）· the move（名词：这次搬家）。
+判据一句话：中文是"搬家公司／搬家师傅"⇒ movers；动词配 hire。
+★ 题型判整句："搬家公司"能落到 a moving company 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 movers。
+
+**怎么发现的**
+2026-11-07 学习日 在池第 1 组 [1]（#251 题面"这次搬家，请搬家公司花了我两千块，光打包东西又花了我整整三天。"）· 原话
+`Moving this time cost me two thousand yuan, plus it took me three full days just to pack my stuff up.`
+题面花钱的主语是"请搬家公司"，她没译出来（落成 Moving this time）⇒ 更好版补 Hiring movers，是能学的表达 ⇒ §3.2b 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "movers" ⇒ 零命中；"hire" ⇒ 🎓#357 logic／logical（历史行字样）⇒ 否
+　② 中文 dedup "搬家公司" ⇒ 零命中；"搬家" ⇒ 🎓#332（名词化提议拆回 when 从句）· 🎓#425 make the move ⇒ 否：都不是"搬家公司"这个词
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：Moving this time cost me two thousand yuan　　更好：Hiring movers this time cost me two thousand yuan
+找法：中文里出现"搬家公司／搬家师傅"⇒ 落 movers，"请"用 hire。
+
+**题面**
+"我们请了搬家公司，一上午就把东西全搬完了。"（"搬家公司"用 **movers** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We hired movers, and they had everything moved in one morning.
+
+- 2026-11-07 ❌ 首犯 · 学习日 在池第 1 组 [1]（#251 题里）· ⚠️ 题面"请搬家公司"漏译 · 原话 `Moving this time cost me two thousand yuan, plus it took me three full days just to pack my stuff up.`
+- 2026-11-08 ✅ 付息日 在池第 1 组 [10] · `We called in some movers, and they finished moving all our stuff in a single morning.` —— 连错 1 → 连对 1
+- 2026-11-09 ✅ 学习日 在池第 1 组 [2] · `Out of those two movers（这里的 out of 学下用法), one guy carried the fridge all the way up to the fifth floor by himself.` —— 连对 1 → 2 ⇒ 🎓 ｜ 她标学 out of ⇒ 新建 #633
+
+### 617 · **wrap one's head around sth**（想明白、理解得了：can't wrap my head around it）
+类型 词组 ｜ 新建 2026-11-07 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 整句
+
+**问题是什么**
+**wrap your head around sth** ＝ 把一件难懂／难接受的事想明白：`I can't wrap my head around it.` · `It took me a while to wrap my head around the idea.`
+head 跟主语人称走：they can't wrap **their heads** around …；后面可接名词或 why／how 从句。
+同一格里的邻居（别串）：get it（听懂）· make sense of（理出头绪）· figure out（琢磨出来）。
+判据一句话：中文是"想不通／脑子转不过来"⇒ can't wrap my head around。
+★ 题型判整句："想不通"能落到 can't understand 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 wrap。
+
+**怎么发现的**
+2026-11-07 学习日 ③ 重答 bank:187 S2 · 原话
+`You tell kids that studying hard gives them more career options, but when it's something 10 or 20 years down the road, they just can't wrap their heads around（这句话学下) why it matters.`
+她写对了 wrap their heads around，但自己标「这句话学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #601 #609 #615 先例）。
+判重三步：
+　① 目标形式 dedup "wrap"／"head around" ⇒ 零命中
+　② 邻居 get it ⇒ 🎓#137（know／tell／get 的分工，已退池）⇒ 否：那条考 get ＝ 听懂，不是这个词组
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `can't wrap their heads around why it matters`，但词组不在手边（自己标学下）　　目标：同她原句
+找法：说到"想不通／理解不了"先落 wrap my head around，head 跟主语人称走。
+
+**题面**
+"我到现在还是想不通，他怎么会为了一只猫辞掉那么好的工作。"（"想不通"用 **wrap** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I still can't wrap my head around why he'd quit such a good job over a cat.
+
+- 2026-11-07 ❌ 首犯 · 学习日 ③ 重答 bank:187 S2 · 她标「这句话学下」· 原话 `…they just can't wrap their heads around（这句话学下) why it matters.`
+- 2026-11-08 ✅ 付息日 在池第 2 组 [1] · `Even now, I just can't wrap my head around how he could walk away from such a great job all because of a cat.` —— 连错 1 → 连对 1
+- 2026-11-09 ✅ 学习日 在池第 1 组 [3] · `Even after reading the answer key three times, I just can't wrap my head around this math question.` —— 连对 1 → 2 ⇒ 🎓
+
+### 618 · **discouraging**（让人泄气、打击人；⛔ negative reinforcement 是心理学术语"负强化"）
+类型 词汇 ｜ 新建 2026-11-07
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 整句
+
+**问题是什么**
+**discouraging** ＝ 让人泄气的、打击人的：`It's really discouraging.` · `a discouraging result`；人泄了气 ⇒ `I felt discouraged.`
+negative reinforcement（负强化）＝ 拿掉一个难受的东西来鼓励某个行为 —— 跟"一直受打击"不是一回事，⛔ 借来说"打击人"意思就偏了。
+同一格里的邻居（别串）：frustrating（让人抓狂、使不上劲）· demotivating（让人没动力）。
+判据一句话：事情让人泄气 ⇒ discouraging；人泄气 ⇒ discouraged。
+★ 题型判整句："打击人"能落到 frustrating 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 discouraging。
+
+**怎么发现的**
+2026-11-07 学习日 ③ 重答 bank:187 S3 · 原话
+`Especially for kids who just aren't school-smart, it's basically pure negative reinforcement—no matter how hard they try, they just don't get it, and the more they try, the more frustrated they get.`
+想说"一直受打击、让人泄气"，借了心理学术语 negative reinforcement，词义偏了 ⇒ 更好版 really discouraging 是能学的表达 ⇒ §3.2b 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "discouraging"／"reinforcement" ⇒ 零命中
+　② 中文 dedup "泄气"／"打击" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：it's basically pure negative reinforcement　　更好：it's basically really discouraging
+找法：想说"打击人／让人泄气"时落 discouraging，⛔ 不借术语。
+
+**题面**
+"我练了三个月口语，分数一点没涨，真的挺打击人的。"（"打击人"用 **discouraging** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I've been practicing speaking for three months and my score hasn't gone up at all—it's really discouraging.
+
+- 2026-11-07 ❌ 首犯 · 学习日 ③ 重答 bank:187 S3 · ⚠️ 选词偏 · 原话 `Especially for kids who just aren't school-smart, it's basically pure negative reinforcement—…`
+- 2026-11-08 ✅ 付息日 在池第 2 组 [2] · `After working on my speaking for three months with zero score improvement, it's pretty discouraging, to be honest.` —— 连错 1 → 连对 1（同句 ⚠️ After 分词挂不上主语／名词块压缩 ⇒ 只进 diff-2）
+- 2026-11-09 ✅ 学习日 在池第 1 组 [4] · `I spent ages making that cake, and my brother took one bite and called it terrible; it was so discouraging.` —— 连对 1 → 2 ⇒ 🎓
+
+### 619 · **book-smart**（会读书的；对照 street-smart 会混社会）
+类型 词汇 ｜ 新建 2026-11-07
+状态 连对2 连错0 上次2026-11-09 ｜ **🎓 已毕业 2026-11-09** ｜ 题型 整句
+
+**问题是什么**
+**book-smart** ＝ 读书这块灵光、学习好；**street-smart** ＝ 社会经验足、会来事：`He's book-smart but not very street-smart.`
+同一格里的邻居（别串）：academic（偏书面：academic kids）· good at school（大白话）。
+判据一句话：中文是"会读书／不是读书的料"⇒ (not) book-smart；⛔ 不自造 school-smart。
+★ 题型判整句："不是读书的料"能落到 not good at school 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名 book-smart。
+
+**怎么发现的**
+2026-11-07 学习日 ③ 重答 bank:187 S3 · 原话
+`Especially for kids who just aren't school-smart, it's basically pure negative reinforcement—…`
+school-smart 能懂，但"会读书"的现成说法是 book-smart ⇒ 更地道的说法是能学的表达 ⇒ §3.2b 建号，判 ❌。
+判重三步：
+　① 目标形式 dedup "book smart"／"book-smart"／"school-smart" ⇒ 零命中
+　② 中文"读书的料" ⇒ 无相关条目
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：kids who just aren't school-smart　　更地道：kids who just aren't book-smart
+找法：说到"会不会读书"先落 book-smart。
+
+**题面**
+"我表弟不是读书的料，但特别会跟人打交道。"（"不是读书的料"用 **book-smart** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My cousin isn't very book-smart, but he's really good with people.
+
+- 2026-11-07 ❌ 首犯 · 学习日 ③ 重答 bank:187 S3 · ⚠️ 不地道 · 原话 `Especially for kids who just aren't school-smart, …`
+- 2026-11-08 ✅ 付息日 在池第 2 组 [3] · `My cousin is hardly book-smart, but he sure knows how to deal with people.` —— 连错 1 → 连对 1
+- 2026-11-09 ✅ 学习日 在池第 1 组 [5] · `She always gets the top grades, but can't even figure out how to ride a bus; she's strictly book-smart.` —— 连对 1 → 2 ⇒ 🎓 ｜ "全班第一"没调出 come top ⇒ 🎓#530 留痕

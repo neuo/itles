@@ -7701,3 +7701,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` 全节 ＋ `--section 复检组` 各 ERROR 0 ｜ `migrate` 8⇄0
 
 **下一场 ＝ 周期 17 · L1**：在池 #610 #615–#619 连对1 ＋ #620–#632 首测；复检 1 组以 pick 为准；② 回看 lookback --pending（bank:927）；④ 重答 redo 第 1 行（bank:434）
+
+## 2026-11-09（周一）· 口语 L1（周期 17 第 1 个学习日）
+
+> 日期：开场美东 11-09 20:02，属 11-09。那场停在 ④ 重答出题后，没收尾、没 commit；收尾在美东 11-11 20:15 补做。
+
+**数字**（全部 `lab.py stats`／`count`）：全档 615 ＝ problems.md 30 ＋ graduated.md 585 ｜ 🎓 585（95.1%）｜ 未毕业 30 ｜ 可出题 20 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 34 道
+
+- ① 在池 2 组 19 题 / 19 条：**✅18 ❌1**（#630 half a month）⇒ **毕业 6**（#610 #615–#619）
+  · 她标学下／背下：out of（#633）· veteran（#634）· duck（#635）· the real deal（#636）· bland（#637）· flatter（#638）｜ ⚠️ 建号：win sb over（#639）
+  · 🎓#530 come top 📝 留痕（"全班第一"说成 gets the top grades，题面没点名，不回潮）
+- ①b 复检第 3 组发出 10 题后她说"今天先收尾吧"⇒ 没作答、不记账；第 4 组没发
+- ② 回看 bank:927
+- ④ 重答 bank:434 题目已发、未作答 ⇒ 不记账，session 里不留重答节
+
+**教练犯规**：上一场没补收尾、没 commit 就断了
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver` ERROR 0 ｜ `migrate` 6⇄0
+
+**下一场 ＝ 周期 17 · L2**：pick 带 --date；② lookback --pending；④ redo 第 1 行（bank:434）
