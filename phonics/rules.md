@@ -9,7 +9,7 @@
 | 编号 | 规则（一句话） | 例词 | 讲于 |
 |---|---|---|---|
 | S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 第 1 次 |
-| S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 未讲 |
+| S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 第 2 次 |
 | S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon | engiNEER · JapaNESE · techNIQUE | 未讲 |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 未讲 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 未讲 |
@@ -30,6 +30,36 @@
 ---
 
 ## 正文
+
+### 基础：音节怎么数（第 2 次，她问）
+
+- **一个元音的音 = 一个音节。** 数的是读出来的元音，不是元音字母。
+  - 不发音的 e 不算：late = 1。
+  - 两个元音字母读一个音，只算 1 个：team = 1，-tion = 1，-cial = 1。
+  - 两个元音字母分开读，就算 2 个：-ian = i-an（vas-to-ri-an），-ious = i-ous（har-mo-ni-ous）。
+- **单独的辅音不算音节**，它跟着旁边的元音走。
+- **例外**：`l` `n` 可以自己撑起一个音节，前面没有元音也算。
+  - ta-ble `ˈteɪbl`
+  - but-ton `ˈbʌtn`
+  - technologi-cal `ˌteknəˈlɑːdʒɪkl`
+
+### 基础：重音听起来是什么样（第 2 次，她问）
+
+重音不只是更大声。重读音节同时有这几样，按对听感的影响从大到小：
+
+1. **音高变化**：单独说一个词时，重读音节的音调通常抬高再落下。
+2. **更长**：重读音节明显拖长。
+3. **元音饱满**：重读音节的元音读足；不重读的元音缩成 `ə` / `ɪ`，又短又含糊。
+4. **更响**：有，但作用最小。
+
+这个排序来自 Fry 在 1950 年代做的经典听辨实验，用的是 OBject / obJECT 这种名动对。
+
+**对她的意思**：中文每个字差不多一样长，所以说英语时音节容易一样长、一样饱满，重音就听不出来。
+要练的主要是把**不重读的音节压短、压弱**，而不是把重读音节喊响。
+- PHOtograph：PHO 长，to、graph 短。
+- phoTOGraphy：pho 缩成 `fə`，TOG 拖长、抬高。
+
+**自查办法**：把词哼出来，不念辅音，只哼节奏。phoTOGraphy 哼成 da-DAA-da-da，听重的落在哪一拍。
 
 ### S1 · 后缀前一个音节重读（第 1 次讲）
 
@@ -65,3 +95,29 @@
 - 注意 POLitics 是例外，但 poLITical 守规则。
 
 **不考**：次重音（如 ˌecoˈnomic 里 e 上那个弱一点的重音）。只问主重音。
+
+### S2 · 倒数第三音节重读（第 2 次讲）
+
+**规则**：词尾是下面这些时，重音落在**倒数第三个音节**。
+
+| 词尾 | 例 |
+|---|---|
+| -ate（**3 个音节以上**的词） | HESitate · DELicate · inVEStigate · comMUnicate |
+| -graphy · -logy · -nomy · -cracy | phoTOGraphy · bi**OL**ogy · eCONomy · deMOCracy |
+
+**怎么用**：从词尾往回数三个音节。in-ves-ti-gate → 倒数 1 gate、2 ti、3 **VES**。
+
+**和 S1 成对**：同一个词族，换个后缀，重音就换一条规则：
+
+| S2（倒数第三） | S1（后缀前一个音节） |
+|---|---|
+| eCONomy | ecoNOMic |
+| phoTOGraphy | photoGRAPHic |
+| deMOCracy | democRATic |
+| bi**OL**ogy | bioLOGical |
+
+基线里错的 hesitate、delicate、investigate、photography 都是这条。
+
+**限制**：
+- -ate 只对 3 个音节以上的词有效；两个音节的不管（creATE · deBATE）。
+- -ate 在动词里读 `eɪt`，在形容词、名词里常弱读成 `ət`（delicate `ˈdelɪkət`），但重音位置一样。

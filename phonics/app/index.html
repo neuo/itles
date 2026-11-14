@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>拼读发音</title>
+<style>
+  :root {
+    --bg: #fafaf8; --fg: #1d1d1b; --muted: #6b6b66; --card: #ffffff;
+    --line: #e4e3de; --accent: #2f5d8a; --accent-fg: #ffffff; --warn: #9a5b00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161615; --fg: #ecebe6; --muted: #9b9a94; --card: #1f1f1d;
+      --line: #33332f; --accent: #7fa8d1; --accent-fg: #10151a; --warn: #e0a64a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 16px/1.55 -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 20px; margin: 0 0 16px; }
+  h2 { font-size: 15px; margin: 28px 0 8px; color: var(--muted); font-weight: 600; }
+  form { display: flex; gap: 8px; }
+  input { flex: 1; min-width: 0; font: inherit; padding: 10px 12px; border-radius: 8px;
+          border: 1px solid var(--line); background: var(--card); color: var(--fg); }
+  button { font: inherit; padding: 9px 14px; border-radius: 8px; border: 1px solid var(--line);
+           background: var(--card); color: var(--fg); cursor: pointer; }
+  button.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+  button:disabled { opacity: .45; cursor: default; }
+  .card { margin-top: 16px; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+  .word { font-size: 24px; font-weight: 600; margin-bottom: 10px; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0; }
+  .label { font-size: 13px; color: var(--muted); min-width: 6.5em; }
+  .note { font-size: 13px; color: var(--muted); margin-top: 6px; }
+  .warn { color: var(--warn); }
+  a { color: var(--accent); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chips button { padding: 5px 10px; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>拼读发音（美音）</h1>
+
+  <form id="f">
+    <input id="w" placeholder="输入一个英文单词" autocomplete="off" autocapitalize="off" spellcheck="false" autofocus>
+    <button class="primary" type="submit">听</button>
+  </form>
+
+  <div id="out"></div>
+
+  <h2 id="sessTitle">最近一次练习的词</h2>
+  <p class="note warn">作答前别点。批改完再来听，对照自己读的。</p>
+  <div class="chips" id="sess"></div>
+
+  <h2>听过的</h2>
+  <div class="chips" id="hist"></div>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const audio = new Audio();
+let history = [];
+try { history = JSON.parse(localStorage.getItem('phonics-hist') || '[]'); } catch {}
+
+function playUrl(url, rate) {
+  audio.src = url;
+  audio.preservesPitch = true;
+  audio.playbackRate = rate;
+  audio.play();
+}
+
+function usVoice() {
+  const vs = speechSynthesis.getVoices().filter((v) => v.lang === 'en-US');
+  return vs.find((v) => /Samantha/.test(v.name)) || vs[0] || null;
+}
+
+function speak(word, rate) {
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(word);
+  u.lang = 'en-US';
+  const v = usVoice();
+  if (v) u.voice = v;
+  u.rate = rate;
+  speechSynthesis.speak(u);
+}
+
+function el(tag, attrs = {}, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === 'onclick') e.onclick = v; else e.setAttribute(k, v);
+  }
+  for (const k of kids) e.append(k);
+  return e;
+}
+
+function remember(word) {
+  history = [word, ...history.filter((h) => h !== word)].slice(0, 30);
+  try { localStorage.setItem('phonics-hist', JSON.stringify(history)); } catch {}
+  renderChips($('hist'), history);
+}
+
+function renderChips(box, words) {
+  box.replaceChildren(...words.map((w) => el('button', { onclick: () => show(w) }, w)));
+}
+
+async function show(word) {
+  word = word.trim().toLowerCase();
+  if (!word) return;
+  $('w').value = word;
+  const out = $('out');
+  out.replaceChildren(el('div', { class: 'card' }, '查询中…'));
+  let d;
+  try {
+    d = await (await fetch('/api/word?w=' + encodeURIComponent(word))).json();
+  } catch (e) {
+    d = { word, error: String(e) };
+  }
+  const card = el('div', { class: 'card' }, el('div', { class: 'word' }, word));
+
+  if (d.us) {
+    card.append(el('div', { class: 'row' },
+      el('span', { class: 'label' }, '真人录音'),
+      el('button', { class: 'primary', onclick: () => playUrl(d.us, 1) }, '▶ 正常'),
+      el('button', { onclick: () => playUrl(d.us, 0.6) }, '▶ 慢速')));
+    playUrl(d.us, 1);
+  } else {
+    card.append(el('div', { class: 'row' },
+      el('span', { class: 'label' }, '真人录音'),
+      el('span', { class: 'note' }, d.error ? '查询失败' : '这个词没有美音真人录音')));
+  }
+
+  card.append(el('div', { class: 'row' },
+    el('span', { class: 'label' }, '合成音'),
+    el('button', { class: d.us ? '' : 'primary', onclick: () => speak(word, 1) }, '▶ 正常'),
+    el('button', { onclick: () => speak(word, 0.6) }, '▶ 慢速')));
+  if (!d.us) speak(word, 1);
+
+  card.append(el('div', { class: 'row' },
+    el('span', { class: 'label' }, '词典'),
+    el('a', { href: 'https://www.oxfordlearnersdictionaries.com/search/english/?q=' + encodeURIComponent(word), target: '_blank', rel: 'noopener' }, '在 Oxford 打开（点 US 喇叭）')));
+
+  const notes = ['合成音是电脑读的，重音一般对，偶尔会错；以真人录音和 Oxford 为准。'];
+  if (d.source) notes.push('真人录音来自 Wikimedia Commons（' + (d.license || '') + '）。');
+  card.append(el('div', { class: 'note' }, notes.join(' ')));
+
+  out.replaceChildren(card);
+  remember(word);
+}
+
+$('f').addEventListener('submit', (e) => { e.preventDefault(); show($('w').value); });
+renderChips($('hist'), history);
+
+fetch('/api/session').then((r) => r.json()).then((s) => {
+  if (s.session) $('sessTitle').textContent = '第 ' + Number(s.session) + ' 次练习的词';
+  renderChips($('sess'), s.words || []);
+}).catch(() => {});
+speechSynthesis.getVoices();
+</script>
+</body>
+</html>
