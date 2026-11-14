@@ -1,0 +1,71 @@
+{
+  "n": 1,
+  "chatRaw": {
+    "practice": "练习 1 ra 2 ma 3 tri 4 di 5 na 6 ta 7 fi  8 to 9 za 10 so"
+  },
+  "answers": {
+    "p1": {
+      "choice": 3,
+      "unsure": false,
+      "via": "chat",
+      "raw": "ra"
+    },
+    "p2": {
+      "choice": 2,
+      "unsure": false,
+      "via": "chat",
+      "raw": "ma"
+    },
+    "p3": {
+      "choice": 3,
+      "unsure": false,
+      "via": "chat",
+      "raw": "tri"
+    },
+    "p4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "chat",
+      "raw": "di"
+    },
+    "p5": {
+      "choice": 3,
+      "unsure": false,
+      "via": "chat",
+      "raw": "na"
+    },
+    "p6": {
+      "choice": 3,
+      "unsure": false,
+      "via": "chat",
+      "raw": "ta"
+    },
+    "p7": {
+      "choice": 3,
+      "unsure": false,
+      "via": "chat",
+      "raw": "fi"
+    },
+    "p8": {
+      "choice": 2,
+      "unsure": false,
+      "via": "chat",
+      "raw": "to"
+    },
+    "p9": {
+      "choice": 4,
+      "unsure": false,
+      "via": "chat",
+      "raw": "za"
+    },
+    "p10": {
+      "choice": 2,
+      "unsure": false,
+      "via": "chat",
+      "raw": "so"
+    }
+  },
+  "submitted": {
+    "practice": "2026-11-14"
+  }
+}

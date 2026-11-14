@@ -1,0 +1,53 @@
+{
+  "n": 1,
+  "date": "2026-11-14",
+  "stage": "S",
+  "newRule": "S1",
+  "note": "池是空的，没有复检。第 1 次没有旧规则可混，10 题全是 S1。",
+  "items": [
+    { "id": "p1", "part": "practice", "type": "stress", "word": "democratic", "pseudo": false,
+      "syllables": ["de", "mo", "cra", "tic"], "answer": 3, "ipa": "ˌde.mə.ˈkræ.tɪk", "rule": "S1",
+      "explain": "切掉 -ic，剩 democrat，最后一个元音是 cra 里的 a。" },
+    { "id": "p2", "part": "practice", "type": "stress", "word": "flomatic", "pseudo": true,
+      "syllables": ["flo", "ma", "tic"], "answer": 2, "ipa": "fləʊ.ˈmæ.tɪk", "rule": "S1",
+      "explain": "切掉 -ic，剩 flomat，最后一个元音是 ma 里的 a。" },
+    { "id": "p3", "part": "practice", "type": "stress", "word": "electricity", "pseudo": false,
+      "syllables": ["e", "lec", "tri", "ci", "ty"], "answer": 3, "ipa": "ɪ.ˌlek.ˈtrɪ.sə.ti", "rule": "S1",
+      "explain": "切掉 -ity，剩 electric，最后一个元音是 tri 里的 i。原词 eLECtric，加后缀后重音挪了。" },
+    { "id": "p4", "part": "practice", "type": "stress", "word": "zendility", "pseudo": true,
+      "syllables": ["zen", "di", "li", "ty"], "answer": 2, "ipa": "zen.ˈdɪ.lə.ti", "rule": "S1",
+      "explain": "切掉 -ity，剩 zendil，最后一个元音是 di 里的 i。" },
+    { "id": "p5", "part": "practice", "type": "stress", "word": "personality", "pseudo": false,
+      "syllables": ["per", "so", "na", "li", "ty"], "answer": 3, "ipa": "ˌpɜːr.sə.ˈnæ.lə.ti", "rule": "S1",
+      "explain": "切掉 -ity，剩 personal，最后一个元音是 na 里的 a。原词 PERsonal。" },
+    { "id": "p6", "part": "practice", "type": "stress", "word": "promitation", "pseudo": true,
+      "syllables": ["pro", "mi", "ta", "tion"], "answer": 3, "ipa": "ˌprɑː.mɪ.ˈteɪ.ʃn", "rule": "S1",
+      "explain": "-tion 前一个音节：ta。" },
+    { "id": "p7", "part": "practice", "type": "stress", "word": "beneficial", "pseudo": false,
+      "syllables": ["be", "ne", "fi", "cial"], "answer": 3, "ipa": "ˌbe.nɪ.ˈfɪ.ʃl", "rule": "S1",
+      "explain": "-ial 前一个音节：fi。原词 BENefit。" },
+    { "id": "p8", "part": "practice", "type": "stress", "word": "vastorian", "pseudo": true,
+      "syllables": ["vas", "to", "ri", "an"], "answer": 2, "ipa": "væ.ˈstɔː.ri.ən", "rule": "S1",
+      "explain": "切掉 -ian，剩 vastor，最后一个元音是 to 里的 o。" },
+    { "id": "p9", "part": "practice", "type": "stress", "word": "organization", "pseudo": false,
+      "syllables": ["or", "ga", "ni", "za", "tion"], "answer": 4, "ipa": "ˌɔːr.ɡə.nə.ˈzeɪ.ʃn", "rule": "S1",
+      "explain": "-tion 前一个音节：za。原词 ORganize。" },
+    { "id": "p10", "part": "practice", "type": "stress", "word": "plesonical", "pseudo": true,
+      "syllables": ["ple", "so", "ni", "cal"], "answer": 2, "ipa": "plə.ˈsɑː.nɪ.kl", "rule": "S1",
+      "explain": "切掉 -ical，剩 pleson，最后一个元音是 so 里的 o。" }
+  ],
+  "review": {
+    "done": true,
+    "items": {},
+    "summary": [
+      "复检：无。练习 10 题全对。",
+      "全对不代表 S1 已经掌握：这 10 题都只考 S1，不用判断该用哪条规则。第 2 次复检时和 S2 混着出，才见分晓。",
+      "她写的是重读音节的字母，比写数字更好，能看出元音找对了没有。以后两种写法都收。"
+    ],
+    "pool": ["S1 进池，第 1 格，下次最早第 2 次。"],
+    "qa": [
+      { "q": "scientific 的重音在 ti 吗？",
+        "a": "对。教练讲解时把例词写成了 sciENTific，是教练写错了，她按规则抓出来的。切掉 -ic → scientif → 最后一个元音是 tif 里的 i → sci-en-TIF-ic，Oxford 美音 /ˌsaɪənˈtɪfɪk/。" }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "phonics-audio",
+      "name": "phonics",
       "runtimeExecutable": "node",
       "runtimeArgs": ["phonics/app/server.js"],
       "port": 4310

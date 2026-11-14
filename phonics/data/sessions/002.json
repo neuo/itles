@@ -1,0 +1,74 @@
+{
+  "n": 2,
+  "date": "2026-11-14",
+  "stage": "S",
+  "newRule": "S2",
+  "note": "练习里 S1 的 4 题都是 S2 词的同族词，要自己判断用哪条规则。",
+  "items": [
+    { "id": "r1", "part": "recheck", "type": "stress", "word": "curiosity", "pseudo": false,
+      "syllables": ["cu", "ri", "o", "si", "ty"], "answer": 3, "ipa": "ˌkjʊr.i.ˈɑː.sə.ti", "rule": "S1",
+      "explain": "切掉 -ity，剩 curios，最后一个元音是 o。原词 CUrious。" },
+    { "id": "r2", "part": "recheck", "type": "stress", "word": "glemotic", "pseudo": true,
+      "syllables": ["gle", "mo", "tic"], "answer": 2, "ipa": "ɡlə.ˈmɑː.tɪk", "rule": "S1",
+      "explain": "切掉 -ic，剩 glemot，最后一个元音是 mo 里的 o。" },
+    { "id": "r3", "part": "recheck", "type": "stress", "word": "harmonious", "pseudo": false,
+      "syllables": ["har", "mo", "ni", "ous"], "answer": 2, "ipa": "hɑːr.ˈməʊ.ni.əs", "rule": "S1",
+      "explain": "切掉 -ious，剩 harmon，最后一个元音是 mo 里的 o。原词 HARmony。" },
+
+    { "id": "p1", "part": "practice", "type": "stress", "word": "technology", "pseudo": false,
+      "syllables": ["tech", "no", "lo", "gy"], "answer": 2, "ipa": "tek.ˈnɑː.lə.dʒi", "rule": "S2",
+      "explain": "词尾 -logy → 倒数第三音节：no。" },
+    { "id": "p2", "part": "practice", "type": "stress", "word": "geographic", "pseudo": false,
+      "syllables": ["ge", "o", "gra", "phic"], "answer": 3, "ipa": "ˌdʒiː.ə.ˈɡræ.fɪk", "rule": "S1",
+      "explain": "词尾 -ic → 后缀前一个音节：gra。" },
+    { "id": "p3", "part": "practice", "type": "stress", "word": "framinate", "pseudo": true,
+      "syllables": ["fra", "mi", "nate"], "answer": 1, "ipa": "ˈfræ.mɪ.neɪt", "rule": "S2",
+      "explain": "词尾 -ate，3 个音节 → 倒数第三音节：fra。" },
+    { "id": "p4", "part": "practice", "type": "stress", "word": "anticipation", "pseudo": false,
+      "syllables": ["an", "ti", "ci", "pa", "tion"], "answer": 4, "ipa": "æn.ˌtɪ.sɪ.ˈpeɪ.ʃn", "rule": "S1",
+      "explain": "词尾 -tion → 后缀前一个音节：pa。" },
+    { "id": "p5", "part": "practice", "type": "stress", "word": "accurate", "pseudo": false,
+      "syllables": ["ac", "cu", "rate"], "answer": 1, "ipa": "ˈæ.kjə.rət", "rule": "S2",
+      "explain": "词尾 -ate，3 个音节 → 倒数第三音节：ac。-ate 在形容词里弱读成 ət。" },
+    { "id": "p6", "part": "practice", "type": "stress", "word": "stelographic", "pseudo": true,
+      "syllables": ["ste", "lo", "gra", "phic"], "answer": 3, "ipa": "ˌste.lə.ˈɡræ.fɪk", "rule": "S1",
+      "explain": "词尾是 -ic，不是 -graphy → 用 S1：切掉 -ic，剩 stelograph，最后一个元音是 gra 里的 a。" },
+    { "id": "p7", "part": "practice", "type": "stress", "word": "geography", "pseudo": false,
+      "syllables": ["ge", "o", "gra", "phy"], "answer": 2, "ipa": "dʒi.ˈɑː.ɡrə.fi", "rule": "S2",
+      "explain": "词尾 -graphy → 倒数第三音节：o。" },
+    { "id": "p8", "part": "practice", "type": "stress", "word": "technological", "pseudo": false,
+      "syllables": ["tech", "no", "lo", "gi", "cal"], "answer": 3, "ipa": "ˌtek.nə.ˈlɑː.dʒɪ.kl", "rule": "S1",
+      "explain": "词尾 -ical → 后缀前一个音节：lo。" },
+    { "id": "p9", "part": "practice", "type": "stress", "word": "anticipate", "pseudo": false,
+      "syllables": ["an", "ti", "ci", "pate"], "answer": 2, "ipa": "æn.ˈtɪ.sɪ.peɪt", "rule": "S2",
+      "explain": "词尾 -ate，4 个音节 → 倒数第三音节：ti。" },
+    { "id": "p10", "part": "practice", "type": "stress", "word": "stelography", "pseudo": true,
+      "syllables": ["ste", "lo", "gra", "phy"], "answer": 2, "ipa": "stə.ˈlɑː.ɡrə.fi", "rule": "S2",
+      "explain": "词尾 -graphy → 倒数第三音节：lo。" }
+  ],
+  "review": {
+    "done": true,
+    "items": {
+      "p5": { "verdict": "ok", "note": "她写的「a」也可能指 rate 里的 a；按她的写法习惯（rate 会写 ra），判为第 1 音节。" },
+      "p6": { "verdict": "wrong", "note": "词尾是 -ic，该用 S1；她按 -graphy 用了 S2。结构一样的真词 geographic 她答对了，说明 -ic / -y 的区分还没成规则，真词可能是靠认识的词撑着。" }
+    },
+    "summary": [
+      "复检 S1 三题全对。练习 10 题对 9 题。",
+      "唯一的错：stelographic 按 -graphy 用了 S2。",
+      "判别办法：只看最后一截。-ic、-ical → S1；-y（-graphy、-logy）、-ate → S2。"
+    ],
+    "pool": [
+      "S1：复检对，第 1 格 → 第 2 格；但练习里错了，回第 1 格，下次最早第 3 次。",
+      "S2：进池，第 1 格，下次最早第 3 次。",
+      "新规矩：池里的规则在练习里错了，也回第 1 格。"
+    ],
+    "qa": [
+      { "q": "单独的辅音不算一个音节吧？",
+        "a": "对，基本不算。音节按元音的音来数，辅音跟着旁边的元音走。例外是 l、n 可以自己撑起一个音节（ta-ble、but-ton、technologi-cal）。见规则页「基础：音节怎么数」。" },
+      { "q": "重音怎么表现，是读得更大声吗？",
+        "a": "不只是。按对听感的影响从大到小：音高变化 > 更长 > 元音饱满（不重读的缩成 ə）> 更响。要练的主要是把不重读的音节压短、压弱。见规则页「基础：重音听起来是什么样」。" },
+      { "q": "能想办法发音吗？",
+        "a": "做了这个网页工具。真词放美音真人录音或合成音；假词用 espeak-ng 按音标读。" }
+    ]
+  }
+}

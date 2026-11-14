@@ -3,6 +3,7 @@
 > 「这次学什么」= 本表里**下一条「未讲」的规则**，按编号顺序。
 > 讲过的规则在「讲于」一栏填第几次；规则正文讲的时候再写到下面「正文」区，不预先写。
 > 课表会随练习调整；改了在提交说明里写原因。
+> 正文里每条规则的标题固定写成 `### 编号 · 标题（第 N 次讲）`，网页靠这个格式取规则名和跳转，别改格式。
 
 ## 阶段 1：重音（S）
 
@@ -10,7 +11,7 @@
 |---|---|---|---|
 | S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 第 1 次 |
 | S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 第 2 次 |
-| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon | engiNEER · JapaNESE · techNIQUE | 未讲 |
+| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · techNIQUE | 未讲（正文已写，第 3 次的题已出） |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 未讲 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 未讲 |
 | S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 未讲 |
@@ -121,3 +122,32 @@
 **限制**：
 - -ate 只对 3 个音节以上的词有效；两个音节的不管（creATE · deBATE）。
 - -ate 在动词里读 `eɪt`，在形容词、名词里常弱读成 `ət`（delicate `ˈdelɪkət`），但重音位置一样。
+
+### S3 · 后缀本身重读（第 3 次讲）
+
+**规则**：词尾是下面这些后缀时，重音落在**后缀自己**身上。
+
+| 后缀 | 例 |
+|---|---|
+| -ee | refuGEE · guaranTEE · traiNEE · interviewEE |
+| -eer | engiNEER · volunTEER · caREER |
+| -ese | JapaNESE · ChiNESE · VietnaMESE |
+| -ique | uNIQUE · techNIQUE · anTIQUE |
+| -oon | balLOON · carTOON |
+| -ette · -aire | casSETTE · questionNAIRE · millioNAIRE |
+
+**为什么**：这些后缀大多来自法语。法语的重音在最后一个音节，英语借过来时保留了。
+
+**和 S1、S2 的区别**：三条规则都是「看最后一截」，但重音离词尾的距离不一样：
+
+| 规则 | 重音位置 | 例 |
+|---|---|---|
+| S3 | 后缀本身（最后一个音节） | engiNEER |
+| S1 | 后缀前一个音节 | ecoNOMic |
+| S2 | 倒数第三个音节 | eCONomy |
+
+基线里错的 engineer（她标 2，应为 3）、Japanese（她标 1，应为 3）都是这条。
+
+**常见例外**：
+- comMITtee · COFfee：这里的 -ee 不是这个后缀。
+- emPLOYee：Oxford 美音标在 ploy 上（也有人读 employEE）。
