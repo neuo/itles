@@ -275,5 +275,93 @@ test('下一条新规则 = 课表里第一条没讲过的', () => {
   assert.equal(core.nextNewRule(store, store.sessionNumbers().map(store.loadSession)), 'S3');
 });
 
+// ---------- 加练 ----------
+
+// 一道加练题：每个错选项都带错因
+function bankItem(id, rule, answer, n = 3, extra = {}) {
+  const { part, ...it } = item('p0', rule, answer, n);
+  const traps = Object.fromEntries(it.syllables.map((_, i) => [i + 1, '错因']).filter(([k]) => k !== answer));
+  return { ...it, id, traps, ...extra };
+}
+function withBank(store, items, attempts) {
+  fs.writeFileSync(path.join(store.data, 'bank.json'), JSON.stringify({ items }, null, 2));
+  if (attempts) fs.writeFileSync(path.join(store.data, 'answers', 'drill.json'), JSON.stringify({ attempts }, null, 2));
+  return store;
+}
+const att = (id, choice, extra = {}) => ({ id, choice, unsure: false, via: 'web', at: 't', after: 2, ...extra });
+
+test('加练：干净的题库和作答没有错误', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2), bankItem('b002', 'S2', 1)], [att('b001', 2)]);
+  assert.deepEqual(errorsOf(store), []);
+});
+test('加练：下一题 = 题库里第一道没做的；统计按规则分', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2), bankItem('b002', 'S2', 1), bankItem('b003', 'S1', 2)],
+    [att('b001', 1), att('b002', 1)]);
+  const d = core.drillState(store);
+  assert.equal(d.next.id, 'b003');
+  assert.deepEqual([d.total, d.done, d.ok, d.wrong], [3, 2, 1, 1]);
+  assert.deepEqual(d.byRule.S1, { total: 2, done: 1, ok: 0, wrong: 1 });
+  assert.deepEqual(Object.keys(core.drillState(withBank(store, [bankItem('b001', 'S2', 1), bankItem('b002', 'S1', 2)])).byRule), ['S1', 'S2']); // 按课表顺序
+  assert.deepEqual(d.rows.map((r) => [r.item.id, r.ok]), [['b001', false], ['b002', true]]);
+});
+test('加练：全做完就没有下一题', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2)], [att('b001', null)]);
+  const d = core.drillState(store);
+  assert.equal(d.next, null);
+  assert.equal(d.wrong, 1); // 「不知道」算错
+});
+test('加练：追加作答不动已有的记录', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2), bankItem('b002', 'S2', 1)], [att('b001', 2)]);
+  store.appendDrill(att('b002', 3));
+  assert.deepEqual(store.loadDrill().map((a) => a.id), ['b001', 'b002']);
+  assert.deepEqual(errorsOf(store), []);
+});
+test('加练：不改规则池', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2)], [att('b001', 1)]);
+  assert.deepEqual(core.replayPool(store.sessionNumbers().map(store.loadSession)), store.readPool());
+  assert.deepEqual(errorsOf(store), []);
+});
+test('校验：加练题每个错选项都要有错因', () => {
+  const it = bankItem('b001', 'S1', 2);
+  delete it.traps[3];
+  hasError(withBank(mkRoot(base()), [it]), /traps 缺第 3 个选项的错因/);
+});
+test('校验：正确答案不该有错因', () => {
+  const it = bankItem('b001', 'S1', 2);
+  it.traps[2] = '错因';
+  hasError(withBank(mkRoot(base()), [it]), /是正确答案，不该有错因/);
+});
+test('校验：加练只出讲过的规则', () => {
+  hasError(withBank(mkRoot(base()), [bankItem('b001', 'S3', 2)]), /加练只出讲过的规则，S3 还没讲/);
+});
+test('校验：加练题不能和场次题用同一个词', () => {
+  const store = mkRoot(base());
+  const used = store.loadSession(1).items[0];
+  const it = bankItem('b001', 'S1', used.answer, used.syllables.length, { word: used.word, syllables: used.syllables, ipa: used.ipa });
+  it.traps = Object.fromEntries(used.syllables.map((_, i) => [i + 1, '错因']).filter(([k]) => k !== used.answer));
+  hasError(withBank(store, [it]), /场次题和加练题不能用同一个词/);
+});
+test('校验：没做过的加练题不能用规则正文里的例词，做过的不追', () => {
+  const store = withBank(mkRoot(base()), [bankItem('b001', 'S1', 2)]);
+  fs.appendFileSync(store.rulesFile, `\n例词：${store.loadBank()[0].word}\n`);
+  hasError(store, /bank\.json b001: .+她见过读法/);
+  withBank(store, store.loadBank(), [att('b001', 2)]);
+  assert.deepEqual(errorsOf(store), []);
+});
+test('校验：加练题的音标重音要和 answer 一致', () => {
+  hasError(withBank(mkRoot(base()), [bankItem('b001', 'S1', 2, 3, { ipa: 'ˈtæ.tæ.tæ' })]), /bank\.json b001: 音标的主重音在第 1 个音节/);
+});
+test('校验：加练作答要指向题库里的题、每题一条、字段齐全', () => {
+  const bank = [bankItem('b001', 'S1', 2)];
+  hasError(withBank(mkRoot(base()), bank, [att('b009', 1)]), /题库里没有 b009/);
+  hasError(withBank(mkRoot(base()), bank, [att('b001', 1), att('b001', 2)]), /加练每道题只做一次/);
+  hasError(withBank(mkRoot(base()), bank, [att('b001', 7)]), /drill\.json 第 1 条: choice 不在选项范围内/);
+  hasError(withBank(mkRoot(base()), bank, [att('b001', 1, { via: 'x' })]), /drill\.json 第 1 条: via 只能是/);
+  hasError(withBank(mkRoot(base()), bank, [att('b001', 1, { after: undefined })]), /after 要写/);
+});
+test('校验：加练题的 id 用 b 开头', () => {
+  hasError(withBank(mkRoot(base()), [bankItem('x1', 'S1', 2)]), /加练题的 id 用 b 开头加数字/);
+});
+
 console.log(`\n${failed.length ? '✗' : '✓'} ${passed} 过 · ${failed.length} 挂`);
 process.exit(failed.length ? 1 : 0);

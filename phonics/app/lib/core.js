@@ -69,10 +69,21 @@ function createStore(root) {
     }
     return out;
   }
+  // 加练：题库教练手写（data/bank.json）；她的作答网页一条一条追加（data/answers/drill.json）
+  const bankFile = path.join(data, 'bank.json');
+  const drillFile = path.join(data, 'answers', 'drill.json');
+  const loadBank = () => readJson(bankFile, { items: [] }).items || [];
+  const loadDrill = () => readJson(drillFile, { attempts: [] }).attempts || [];
+  function appendDrill(attempt) {
+    fs.mkdirSync(path.dirname(drillFile), { recursive: true });
+    const tmp = drillFile + '.tmp';
+    fs.writeFileSync(tmp, JSON.stringify({ attempts: [...loadDrill(), attempt] }, null, 2) + '\n');
+    fs.renameSync(tmp, drillFile);
+  }
   const readPool = () => readJson(poolFile, null);
   const writePool = (pool) => fs.writeFileSync(poolFile, JSON.stringify(pool, null, 2) + '\n');
 
-  return { root, data, rulesFile, poolFile, sessionNumbers, loadSession, saveAnswers, rulesText, ruleTitles, syllabus, reservedWords, readPool, writePool };
+  return { root, data, rulesFile, poolFile, sessionNumbers, loadSession, saveAnswers, rulesText, ruleTitles, syllabus, reservedWords, loadBank, loadDrill, appendDrill, readPool, writePool };
 }
 
 // ---------- 判定 ----------
@@ -238,6 +249,63 @@ function nextNewRule(store, sessions) {
 
 // ---------- 校验 ----------
 
+// 一道题本身写得对不对（场次题、加练题共用）
+function checkItemBody(it, I, E, titles) {
+  if (!['stress', 'read', 'spell'].includes(it.type)) { E(I, 'type 只能是 stress / read / spell'); return; }
+  const opts = optsOf(it);
+  if (it.type === 'stress') {
+    if (opts.length < 2) E(I, '重音题至少两个音节');
+    if (opts.join('').toLowerCase() !== String(it.word).toLowerCase().replace(/[^a-z]/g, '')) E(I, `syllables 拼起来不是 ${it.word}`);
+  } else if (opts.length < 2 || opts.length > 4) E(I, '选项要 2–4 个');
+  if (it.type === 'spell' && !it.prompt && !it.promptAudio) E(I, '拼写题要有 prompt（显示的音标）或 promptAudio');
+  if (!Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) E(I, 'answer 不在选项范围内');
+  if (typeof it.pseudo !== 'boolean') E(I, 'pseudo 要写 true / false');
+  if (!it.explain) E(I, '缺 explain');
+  if (!it.rule || !titles[it.rule]) E(I, `rule「${it.rule}」在 rules.md 正文里没有对应的 ### 标题`);
+  if (!it.ipa) E(I, '缺 ipa');
+  else {
+    try {
+      toEspeak(it.ipa);
+      if (it.type === 'stress') {
+        if (syllableCount(it.ipa) !== opts.length) E(I, `音标有 ${syllableCount(it.ipa)} 个音节，syllables 有 ${opts.length} 个`);
+        else if (stressIndex(it.ipa) !== it.answer) E(I, `音标的主重音在第 ${stressIndex(it.ipa)} 个音节，answer 写的是 ${it.answer}`);
+      }
+    } catch (e) { E(I, '音标转不了：' + e.message); }
+  }
+  // traps：选错某个选项时当场给她看的一句话（为什么这个不对）
+  for (const [k, v] of Object.entries(it.traps || {})) {
+    const i = Number(k);
+    if (!Number.isInteger(i) || i < 1 || i > opts.length) E(I, `traps 的「${k}」不是选项编号`);
+    else if (i === it.answer) E(I, `traps 的「${k}」是正确答案，不该有错因`);
+    if (typeof v !== 'string' || !v) E(I, `traps 的「${k}」要写一句话`);
+  }
+}
+
+// 加练：每道题只做一次。按题库顺序出，下一题 = 第一道还没做的。
+// 加练的对错不进规则池（池只认已复核的场次）；教练出下一次题时看这里的结果。
+function drillState(store) {
+  const bank = store.loadBank();
+  const done = new Map();
+  for (const a of store.loadDrill()) if (!done.has(a.id)) done.set(a.id, a);
+  const byRule = {};
+  const total = { total: bank.length, done: 0, ok: 0, wrong: 0 };
+  const rows = []; // 做过的题，按作答顺序
+  for (const it of bank) {
+    const r = (byRule[it.rule] ||= { total: 0, done: 0, ok: 0, wrong: 0 });
+    r.total += 1;
+    const a = done.get(it.id);
+    if (!a) continue;
+    const ok = a.choice === it.answer;
+    for (const t of [r, total]) { t.done += 1; t[ok ? 'ok' : 'wrong'] += 1; }
+    rows.push({ item: it, attempt: a, ok });
+  }
+  const order = [...done.keys()];
+  rows.sort((x, y) => order.indexOf(x.item.id) - order.indexOf(y.item.id));
+  const syl = store.syllabus().map((r) => r.id); // 按课表顺序列规则
+  const sorted = Object.fromEntries(Object.entries(byRule).sort(([x], [y]) => syl.indexOf(x) - syl.indexOf(y)));
+  return { ...total, byRule: sorted, rows, next: bank.find((it) => !done.has(it.id)) || null };
+}
+
 function checkAll(store) {
   const errors = [];
   const warns = [];
@@ -274,27 +342,7 @@ function checkAll(store) {
       if (!s.review?.done && reserved.has(w)) E(I, `「${it.word}」在 ${reserved.get(w)} 里出现过（规则例词或基线卷），她见过读法，换一个词`);
       if (!PARTS.includes(it.part)) { E(I, 'part 只能是 recheck / practice'); continue; }
       if (!String(it.id).startsWith(it.part === 'recheck' ? 'r' : 'p')) E(I, '复检题的 id 用 r 开头，练习题用 p 开头');
-      if (!['stress', 'read', 'spell'].includes(it.type)) { E(I, 'type 只能是 stress / read / spell'); continue; }
-      const opts = optsOf(it);
-      if (it.type === 'stress') {
-        if (opts.length < 2) E(I, '重音题至少两个音节');
-        if (opts.join('').toLowerCase() !== String(it.word).toLowerCase().replace(/[^a-z]/g, '')) E(I, `syllables 拼起来不是 ${it.word}`);
-      } else if (opts.length < 2 || opts.length > 4) E(I, '选项要 2–4 个');
-      if (it.type === 'spell' && !it.prompt && !it.promptAudio) E(I, '拼写题要有 prompt（显示的音标）或 promptAudio');
-      if (!Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) E(I, 'answer 不在选项范围内');
-      if (typeof it.pseudo !== 'boolean') E(I, 'pseudo 要写 true / false');
-      if (!it.explain) E(I, '缺 explain');
-      if (!it.rule || !titles[it.rule]) E(I, `rule「${it.rule}」在 rules.md 正文里没有对应的 ### 标题`);
-      if (!it.ipa) E(I, '缺 ipa');
-      else {
-        try {
-          toEspeak(it.ipa);
-          if (it.type === 'stress') {
-            if (syllableCount(it.ipa) !== opts.length) E(I, `音标有 ${syllableCount(it.ipa)} 个音节，syllables 有 ${opts.length} 个`);
-            else if (stressIndex(it.ipa) !== it.answer) E(I, `音标的主重音在第 ${stressIndex(it.ipa)} 个音节，answer 写的是 ${it.answer}`);
-          }
-        } catch (e) { E(I, '音标转不了：' + e.message); }
-      }
+      checkItemBody(it, I, E, titles);
     }
 
     // 复检：该检哪几条由规则池定，不由教练挑
@@ -373,6 +421,39 @@ function checkAll(store) {
     } else if (s.date) W(F, '还没复核就填了 date');
   });
 
+  // 加练题库
+  const bank = store.loadBank();
+  const drill = store.loadDrill();
+  const attempted = new Set(drill.map((a) => a.id));
+  const bankIds = new Map(bank.map((it) => [it.id, it]));
+  const seenBank = new Set();
+  for (const it of bank) {
+    const I = `bank.json ${it.id}`;
+    if (!/^b\d+$/.test(String(it.id))) E(I, '加练题的 id 用 b 开头加数字');
+    if (seenBank.has(it.id)) E(I, 'id 重复');
+    seenBank.add(it.id);
+    const w = String(it.word).toLowerCase();
+    if (usedWords.has(w)) E(I, `「${it.word}」在 ${usedWords.get(w)} 也出现了。场次题和加练题不能用同一个词：换掉她还没做过的那一道`);
+    else usedWords.set(w, I);
+    if (!attempted.has(it.id) && reserved.has(w)) E(I, `「${it.word}」在 ${reserved.get(w)} 里出现过（规则例词或基线卷），她见过读法，换一个词`);
+    if (it.rule && titles[it.rule] && !taughtAt.has(it.rule)) E(I, `加练只出讲过的规则，${it.rule} 还没讲`);
+    checkItemBody(it, I, E, titles);
+    // 加练是当场反馈：每个错选项都要有一句「为什么不对」
+    const lack = optsOf(it).map((_, i) => i + 1).filter((i) => i !== it.answer && !it.traps?.[i]);
+    if (lack.length) E(I, `traps 缺第 ${lack.join('、')} 个选项的错因。加练当场反馈，每个错选项都要写`);
+  }
+  const seenAttempt = new Set();
+  drill.forEach((a, i) => {
+    const A = `answers/drill.json 第 ${i + 1} 条`;
+    const it = bankIds.get(a.id);
+    if (!it) { E(A, `题库里没有 ${a.id}`); return; }
+    if (seenAttempt.has(a.id)) E(A, `${a.id} 已经做过了。加练每道题只做一次`);
+    seenAttempt.add(a.id);
+    if (!(a.choice === null || (Number.isInteger(a.choice) && a.choice >= 1 && a.choice <= optsOf(it).length))) E(A, 'choice 不在选项范围内');
+    if (!['web', 'chat'].includes(a.via)) E(A, 'via 只能是 web / chat');
+    if (!Number.isInteger(a.after) || a.after < 0) E(A, 'after 要写做这道题时最新出的一次练习是第几次');
+  });
+
   // 规则池 = 重放结果
   const replay = replayPool(sessions);
   const pool = store.readPool();
@@ -392,5 +473,5 @@ function checkAll(store) {
 module.exports = {
   PARTS, PART_LABEL, LADDER, RECHECK_CAP, pad, createStore,
   optsOf, partItems, verdictOf, gateOf, statusOf, countsOf, ruleResults,
-  replayPool, poolDelta, duePick, recheckCount, nextNewRule, checkAll,
+  replayPool, poolDelta, duePick, recheckCount, nextNewRule, drillState, checkAll,
 };

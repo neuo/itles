@@ -2,6 +2,7 @@
 // 自然拼读的机械工具。只读档、打印、做算术；不产生任何一个字的内容。
 //   node phonics/app/cli.js status            现在到哪了、下一步该做什么
 //   node phonics/app/cli.js answers N         第 N 次她的作答（复核用）
+//   node phonics/app/cli.js drill             加练的作答：逐题「她选 / 正确」＋ 按规则汇总
 //   node phonics/app/cli.js settle            按已复核的场次重算 data/pool.json（唯一会写文件的命令）
 //   node phonics/app/cli.js check             全面校验，ERROR 必须为 0
 // 都可以加 --root <目录>，指向另一份 phonics 目录（测试用）。
@@ -27,6 +28,30 @@ function poolTable(pool, titles) {
   return lines.join('\n');
 }
 
+const DRILL_LOW = 20; // 题库里没做的少于这个数就提醒补题
+const mineOf = (r) => (r.attempt.choice === null ? '不知道' : core.optsOf(r.item)[r.attempt.choice - 1]);
+const rightOf = (r) => core.optsOf(r.item)[r.item.answer - 1];
+// 按规则数错题：{ S2: [行, 行] }
+function wrongByRule(rows) {
+  const out = {};
+  for (const r of rows) if (!r.ok) (out[r.item.rule] ||= []).push(r);
+  return out;
+}
+function drillSummary(d, since) {
+  if (!d.total) return ['  （题库是空的）'];
+  const lines = [`  题库 ${d.total} 题 · 已做 ${d.done} · ✅${d.ok} ❌${d.wrong} · 没做的还有 ${d.total - d.done}`];
+  const per = Object.entries(d.byRule).filter(([, r]) => r.done).map(([id, r]) => `${id} ${r.ok}/${r.done}`);
+  if (per.length) lines.push(`  按规则（对 / 做过）：${per.join(' · ')}`);
+  const recent = d.rows.filter((r) => r.attempt.after === since);
+  if (recent.length) {
+    lines.push(`  第 ${since} 次出题之后做的：${recent.length} 题 · ❌${recent.filter((r) => !r.ok).length}`);
+    for (const r of recent.filter((x) => !x.ok)) lines.push(`    ❌ ${r.item.word}（${r.item.rule}）她选 ${mineOf(r)}，正确 ${rightOf(r)}`);
+    const shaky = recent.filter((r) => r.ok && r.attempt.unsure).map((r) => `${r.item.word}（${r.item.rule}）`);
+    if (shaky.length) lines.push(`    对但没把握：${shaky.join('、')}`);
+  } else lines.push(`  第 ${since} 次出题之后还没做过加练`);
+  return lines;
+}
+
 function status() {
   const sessions = loadAll();
   const titles = store.ruleTitles();
@@ -43,6 +68,11 @@ function status() {
   }
   console.log('\n规则池（按已复核的场次重放）');
   console.log(poolTable(pool, titles));
+
+  const d = core.drillState(store);
+  const lastN = Math.max(0, ...store.sessionNumbers());
+  console.log('\n加练（不进规则池）');
+  for (const l of drillSummary(d, lastN)) console.log(l);
 
   console.log('\n下一步');
   const last = sessions[sessions.length - 1];
@@ -69,6 +99,21 @@ function status() {
   const row = store.syllabus().find((r) => r.id === next);
   console.log(`    新规则  ${next ? `${next}（${titles[next] ? '正文已有' : 'rules.md 里还没有正文，先写'}）` : '课表讲完了'}`);
   if (row) console.log(`            课表原文：${row.text}`);
+  const weak = Object.entries(wrongByRule(d.rows.filter((r) => r.attempt.after === lastN))).filter(([, rows]) => rows.length >= 2);
+  if (weak.length) console.log(`    练习的旧规则题  加练里 ${weak.map(([id, rows]) => `${id} 错了 ${rows.length} 题`).join('、')} → 旧规则题优先出${weak.length > 1 ? '这几条' : '这条'}`);
+  if (d.total - d.done < DRILL_LOW) console.log(`    加练题库  没做的只剩 ${d.total - d.done} 题 → 这次顺手补题（data/bank.json）`);
+}
+
+function drill() {
+  const d = core.drillState(store);
+  for (const l of drillSummary(d, Math.max(0, ...store.sessionNumbers()))) console.log(l);
+  let after = null;
+  for (const r of d.rows) {
+    if (r.attempt.after !== after) { after = r.attempt.after; console.log(`\n第 ${after} 次出题之后`); }
+    console.log(`  ${r.ok ? ICON.ok : ICON.wrong} ${r.item.id.padEnd(5)} ${String(r.item.word).padEnd(15)} ${String(r.item.rule).padEnd(4)}` +
+      ` 她选 ${String(mineOf(r)).padEnd(6)} 正确 ${String(rightOf(r)).padEnd(6)}` +
+      `${r.attempt.unsure ? ' 没把握' : ''}${r.attempt.raw ? ` 原话「${r.attempt.raw}」` : ''} [${r.attempt.via}]`);
+  }
 }
 
 function answers(n) {
@@ -112,9 +157,9 @@ function check() {
   process.exit(errors.length ? 1 : 0);
 }
 
-const run = { status, answers: () => answers(arg), settle, check }[cmd];
+const run = { status, answers: () => answers(arg), drill, settle, check }[cmd];
 if (!run) {
-  console.log('用法：node phonics/app/cli.js status | answers N | settle | check  [--root 目录]');
+  console.log('用法：node phonics/app/cli.js status | answers N | drill | settle | check  [--root 目录]');
   process.exit(1);
 }
 run();

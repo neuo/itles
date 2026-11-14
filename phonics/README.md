@@ -11,8 +11,10 @@
 | `rules.md` | 课表 + 规则正文。教练手写 |
 | `data/sessions/NNN.json` | 每次练习一份：题目 + 教练复核。教练手写 |
 | `data/answers/NNN.json` | 她的作答。网页提交时写；对话里作答时教练写 |
+| `data/bank.json` | 加练题库。教练手写，每个错选项带一句错因 |
+| `data/answers/drill.json` | 加练的作答。网页一题一条往后追加 |
 | `data/pool.json` | 规则池。`cli.js settle` 算出来的，不手改 |
-| `app/` | 网页（练习 · 规则 · 错题 · 发音 · 记录）+ 工具（`cli.js` 状态/校验/结算 · `test.js` 回归测试）。本地 node，无依赖，需 espeak-ng。启动：`node phonics/app/server.js` → http://localhost:4310 |
+| `app/` | 网页（练习 · 加练 · 规则 · 错题 · 发音 · 记录）+ 工具（`cli.js` 状态/校验/结算 · `test.js` 回归测试）。本地 node，无依赖，需 espeak-ng。启动：`node phonics/app/server.js` → http://localhost:4310 |
 | `02_method.md` | 为什么这么学：原则的理由、规则覆盖率的背景数据 |
 | `01_my_situation.md` | 建线时的事实底稿：她的自述 + 旧测试的原始作答 |
 | `baseline_2026-11-14.md` | 美音基线测试：假词 42 + 重音 24 的逐题批改和按规则族统计。她的弱项在这里 |

@@ -151,6 +151,7 @@ function ruleSection(markdown, id) {
   for (let i = start + 1; i < lines.length; i++) if (/^#{1,3}\s/.test(lines[i])) { end = i; break; }
   return lines.slice(start, end).join('\n');
 }
+const whereTag = (it) => h('span', { class: 'tag' }, it.n ? `第 ${it.n} 次 · ${it.partLabel}` : it.partLabel);
 const ruleTag = (id) => id ? h('button', { class: 'tag rule', title: overview?.titles?.[id] || '', onclick: () => { location.hash = '#/rules/' + id; } }, id) : null;
 
 // ---------- 题目：作答 ----------
@@ -258,7 +259,8 @@ function itemResult(it, no, extraTags = []) {
       it.my?.raw ? `（对话里写的「${it.my.raw}」）` : '',
       ` · 正确：${opts[it.answer - 1]}`,
       it.ipa ? h('span', { class: 'ipa' }, '　' + showIpa(it.ipa)) : ''),
-    it.explain && h('div', { class: 'explain' }, it.explain),
+    it.trap && h('div', { class: 'trap' }, h('strong', {}, `你选的 ${opts[mine - 1]} 为什么不对：`), it.trap),
+    it.explain && h('div', { class: 'explain' }, it.trap ? h('strong', {}, `正确的是 ${opts[it.answer - 1]}：`) : null, it.explain),
     it.note && h('div', { class: 'coach' }, '教练：' + it.note),
     audio);
 }
@@ -350,7 +352,8 @@ async function viewPractice() {
   if (target === null) {
     out.push(h('div', { class: 'card' },
       h('h1', {}, '现在没有待做的练习'),
-      h('p', { class: 'muted' }, '回对话说「开始下一次」，教练出好题，这里就会出现。也可以直接在对话里作答，结果一样会记到这里。')));
+      h('p', { class: 'muted' }, '回对话说「开始下一次」，教练出好题，这里就会出现。也可以直接在对话里作答，结果一样会记到这里。'),
+      h('p', { class: 'muted' }, '想多练几道讲过的规则，去 ', h('a', { href: '#/drill' }, '加练'), '：一次一题，答完当场讲对错。')));
     out.push(poolPanel());
     return out;
   }
@@ -358,6 +361,105 @@ async function viewPractice() {
   out.push(h('h1', {}, `第 ${s.n} 次`), s.note && h('p', { class: 'muted' }, s.note));
   out.push(...await sessionBody(s, { live: true }));
   out.push(poolPanel());
+  return out;
+}
+
+// ---------- 页面：加练 ----------
+// 一次一题：选 → 确定 → 当场看对错和错因 → 下一题。键盘：数字键选，回车确定 / 下一题。
+
+let drillLast = null; // 刚答完、正在看结果的那道题
+
+function drillStatsLine(d) {
+  const per = Object.entries(d.byRule).filter(([, r]) => r.done)
+    .map(([id, r]) => h('span', { title: d.titles[id] || '' }, ruleTag(id), ` ${r.ok} / ${r.done}`));
+  return h('div', { class: 'card' },
+    h('div', { class: 'stats' },
+      h('strong', {}, `已做 ${d.done} / ${d.total}`),
+      d.done ? h('span', {}, `✅ ${d.ok}　❌ ${d.wrong}`) : null,
+      per.length ? [h('span', { class: 'muted small' }, '按规则（对 / 做过）'), per] : null),
+    h('div', { class: 'meter' }, h('i', { style: `width:${d.total ? Math.round(d.done / d.total * 100) : 0}%` })),
+    h('div', { class: 'muted small' }, '只出讲过的规则，混着出，不提示是哪一条。每道题只做一次，对错都记下来，教练出下一次题时会看。加练不改规则池。'));
+}
+
+function drillQuestion(it, no) {
+  const draft = { choice: undefined, unsure: false };
+  const opts = optsOf(it);
+  const choices = h('div', { class: 'choices' });
+  const dunno = h('button', { class: 'ghost mini' }, '不知道');
+  const cb = h('input', { type: 'checkbox' });
+  const go = h('button', { class: 'primary', disabled: true }, '确定');
+  const msg = h('span', { class: 'err small' });
+  const paint = () => {
+    [...choices.children].forEach((b, i) => b.classList.toggle('on', draft.choice === i + 1));
+    dunno.classList.toggle('on', draft.choice === null);
+    go.disabled = draft.choice === undefined;
+  };
+  const pick = (c) => { draft.choice = c; paint(); };
+  opts.forEach((txt, i) => choices.append(h('button', { class: 'chip' + (it.type === 'stress' ? ' syl' : ''), onclick: () => pick(i + 1) }, txt)));
+  dunno.onclick = () => pick(null);
+  let sending = false;
+  const submit = async () => {
+    if (draft.choice === undefined || sending) return;
+    sending = true;
+    go.disabled = true;
+    try {
+      const r = await api('/api/drill/answer', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ id: it.id, choice: draft.choice, unsure: cb.checked }),
+      });
+      drillLast = r.result;
+      render();
+    } catch (e) { msg.textContent = e.message; sending = false; paint(); }
+  };
+  go.onclick = submit;
+  document.onkeydown = (e) => {
+    if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
+    const k = Number(e.key);
+    if (Number.isInteger(k) && k >= 1 && k <= opts.length) pick(k);
+    else if (e.key === 'Enter') { e.preventDefault(); submit(); }
+  };
+  return h('div', { class: 'item' },
+    h('div', { class: 'item-head' },
+      h('span', { class: 'no' }, `第 ${no} 题`),
+      h('span', { class: 'word' }, it.prompt || it.word || '听音，选拼写'),
+      it.pseudo && h('span', { class: 'tag' }, '假词'),
+      it.promptAudio && h('button', { class: 'mini', onclick: () => playUrl(`/api/drill/audio/${it.id}`) }, '▶ 听'),
+      h('span', { class: 'muted small' }, TYPE_HINT[it.type] || '')),
+    h('p', { class: 'muted small' }, '先出声读一遍，再选。'),
+    choices,
+    h('div', { class: 'under' }, h('label', {}, cb, '没把握'), dunno),
+    h('div', { class: 'row', style: 'margin-top:12px' }, go, msg,
+      h('span', { class: 'muted small' }, '键盘：', h('kbd', {}, '1'), '–', h('kbd', {}, String(opts.length)), ' 选，', h('kbd', {}, '回车'), ' 确定')));
+}
+
+async function viewDrill() {
+  const d = await api('/api/drill');
+  const out = [h('h1', {}, '加练'), drillStatsLine(d)];
+  if (!d.total) {
+    out.push(h('p', { class: 'muted' }, '题库还是空的。回对话让教练出一批。'));
+    return out;
+  }
+  if (drillLast) {
+    const r = drillLast;
+    const next = () => { drillLast = null; render(); };
+    const btn = d.item ? h('button', { class: 'primary', onclick: next }, '下一题 →') : null;
+    out.push(
+      h('p', { class: 'verdict ' + r.verdict }, r.verdict === 'ok' ? (r.my.unsure ? '对了（你标了没把握）' : '对了') : (r.my.choice === null ? '这题你选了「不知道」' : '不对')),
+      itemResult(r, null),
+      btn && h('div', { class: 'row' }, btn, h('span', { class: 'muted small' }, h('kbd', {}, '回车'), ' 下一题')));
+    document.onkeydown = (e) => { if (e.key === 'Enter' && btn && !e.repeat && !e.metaKey && !e.ctrlKey) { e.preventDefault(); next(); } };
+  } else if (d.item) {
+    out.push(drillQuestion(d.item, d.done + 1));
+  }
+  if (!d.item) {
+    out.push(h('div', { class: 'banner good' }, '题库里的题都做完了。回对话说一句：', h('strong', {}, '「加练做完了，再出一批」'), '。'));
+  }
+  const past = d.history.filter((x) => x.id !== drillLast?.id);
+  if (past.length) {
+    out.push(h('details', {},
+      h('summary', {}, `做过的题（${past.length}）`),
+      past.map((x) => itemResult(x, null))));
+  }
   return out;
 }
 
@@ -384,11 +486,11 @@ async function viewMistakes() {
   for (const it of wrong) (byRule[it.rule || '其他'] ||= []).push(it);
   for (const [rule, list] of Object.entries(byRule)) {
     out.push(h('h2', {}, `${rule} ${titles[rule] || ''}（${list.length}）`));
-    out.push(...list.map((it) => itemResult(it, null, [h('span', { class: 'tag' }, `第 ${it.n} 次 · ${it.partLabel}`)])));
+    out.push(...list.map((it) => itemResult(it, null, [whereTag(it)])));
   }
   if (unsure.length) {
     out.push(h('h2', {}, `答对但没把握（${unsure.length}）`));
-    out.push(...unsure.map((it) => itemResult(it, null, [h('span', { class: 'tag' }, `第 ${it.n} 次 · ${it.partLabel}`)])));
+    out.push(...unsure.map((it) => itemResult(it, null, [whereTag(it)])));
   }
   return out;
 }
@@ -427,7 +529,7 @@ async function viewAudio() {
       card.append(failMsg);
       if (d.us) playUrl(d.us, 1, recFail); else if (!pseudo) speakText(w);
       if (d.seen.length) {
-        result.append(h('h3', {}, '练习里出现过'), ...d.seen.map((it) => itemResult(it, null, [h('span', { class: 'tag' }, `第 ${it.n} 次 · ${it.partLabel}`)])));
+        result.append(h('h3', {}, '练习里出现过'), ...d.seen.map((it) => itemResult(it, null, [whereTag(it)])));
       }
     } catch (e) { result.replaceChildren(h('p', { class: 'err' }, e.message)); }
   };
@@ -488,7 +590,7 @@ async function viewLog(arg) {
 
 // ---------- 路由 ----------
 
-const VIEWS = { practice: viewPractice, rules: viewRules, mistakes: viewMistakes, audio: viewAudio, log: viewLog };
+const VIEWS = { practice: viewPractice, drill: viewDrill, rules: viewRules, mistakes: viewMistakes, audio: viewAudio, log: viewLog };
 let renderSeq = 0;
 let scrollTarget = null; // 下一次渲染完要滚到的元素 id
 async function render() {
@@ -499,6 +601,7 @@ async function render() {
   const keepScroll = view.dataset.tab === name + (arg || '') ? window.scrollY : 0;
   try {
     overview = await api('/api/overview');
+    document.onkeydown = null; // 键盘快捷键只在加练页有，由 viewDrill 自己挂
     const nodes = await VIEWS[name](arg);
     if (seq !== renderSeq) return;
     view.replaceChildren(...nodes.flat(Infinity).filter(Boolean));

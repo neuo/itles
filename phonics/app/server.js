@@ -4,6 +4,8 @@
 // 网页只是界面。数据都在 phonics/data/ 和 phonics/rules.md：
 //   data/sessions/NNN.json  教练写：题目 + 复核（review）
 //   data/answers/NNN.json   她的作答。网页提交时写；她在对话里作答时由教练写（via: "chat"）
+//   data/bank.json          教练写：加练题库（每个错选项都带一句「为什么不对」）
+//   data/answers/drill.json 加练的作答，一题一条往后追加
 //   data/pool.json          cli.js settle 算出来的规则池（网页显示时自己重放，不读它）
 //   rules.md                教练写：规则正文
 // 网页**只写** data/answers/。程序给的对错是临时的，以教练的复核为准。
@@ -61,6 +63,31 @@ function sessionView(s) {
     } : null,
   };
 }
+
+// ---------- 加练 ----------
+// 一次一题，答完当场给结果。对错由程序按题库判；讲解和每个错选项的错因是教练事先写在题库里的。
+
+function drillView(it, a) {
+  const base = {
+    id: it.id, part: 'drill', type: it.type, word: it.type === 'spell' && !a ? null : it.word, pseudo: !!it.pseudo,
+    syllables: it.syllables, options: it.options, prompt: it.prompt, promptAudio: !!it.promptAudio,
+  };
+  if (!a) return base;
+  const ok = a.choice === it.answer;
+  return {
+    ...base, answer: it.answer, ipa: it.ipa, rule: it.rule, explain: it.explain, my: a,
+    verdict: ok ? 'ok' : 'wrong', final: true, trap: ok || a.choice === null ? null : it.traps?.[a.choice] || null,
+  };
+}
+function drillOverview() {
+  const st = core.drillState(store);
+  return {
+    total: st.total, done: st.done, ok: st.ok, wrong: st.wrong, byRule: st.byRule, titles: ruleTitles(),
+    item: st.next ? drillView(st.next, null) : null,
+    history: st.rows.map((r) => drillView(r.item, r.attempt)).reverse(),
+  };
+}
+const drillRows = () => core.drillState(store).rows.map((r) => ({ n: null, partLabel: '加练', ...drillView(r.item, r.attempt) }));
 
 // ---------- 发音 ----------
 
@@ -120,6 +147,7 @@ function seenWord(word) {
       seen.push({ n, partLabel: PART_LABEL[it.part], ...itemView(s, it, true) });
     }
   }
+  seen.push(...drillRows().filter((r) => r.word.toLowerCase() === word));
   return seen;
 }
 
@@ -174,7 +202,27 @@ async function handle(req, res) {
         if (v.verdict === 'wrong' || v.my?.unsure) out.push({ n, partLabel: PART_LABEL[it.part], ...v });
       }
     }
+    out.push(...drillRows().filter((r) => r.verdict === 'wrong' || r.my?.unsure));
     return send(res, 200, { items: out, titles: ruleTitles() });
+  }
+
+  if (p === '/api/drill' && req.method === 'GET') return send(res, 200, drillOverview());
+
+  if (p === '/api/drill/answer' && req.method === 'POST') {
+    const body = await readBody(req);
+    const it = store.loadBank().find((x) => x.id === body.id);
+    if (!it) return send(res, 404, { error: '题库里没有这道题' });
+    const prev = store.loadDrill().find((a) => a.id === it.id);
+    if (prev) return send(res, 200, { result: drillView(it, prev), ...drillOverview() }); // 每道题只记第一次
+    const max = (it.type === 'stress' ? it.syllables : it.options).length;
+    const c = body.choice;
+    if (!(c === null || (Number.isInteger(c) && c >= 1 && c <= max))) return send(res, 400, { error: '选项不对' });
+    const a = {
+      id: it.id, choice: c, unsure: c !== null && !!body.unsure, via: 'web', at: new Date().toISOString(),
+      after: Math.max(0, ...sessionNumbers()), // 逻辑时钟：做这道题时，最新出的一次练习是第几次
+    };
+    store.appendDrill(a);
+    return send(res, 200, { result: drillView(it, a), ...drillOverview() });
   }
 
   let m;
@@ -214,6 +262,13 @@ async function handle(req, res) {
     const it = s?.items.find((x) => x.id === m[2]);
     if (!it || !it.ipa) return send(res, 404, { error: '没有这道题的发音' });
     if (!it.promptAudio && !s.submitted[it.part]) return send(res, 403, { error: '作答前不能听这道题' });
+    return send(res, 200, await tts(it.ipa, null, url.searchParams.get('slow') === '1'), 'audio/wav');
+  }
+
+  if ((m = p.match(/^\/api\/drill\/audio\/([\w-]+)$/))) {
+    const it = store.loadBank().find((x) => x.id === m[1]);
+    if (!it || !it.ipa) return send(res, 404, { error: '没有这道题的发音' });
+    if (!it.promptAudio && !store.loadDrill().some((a) => a.id === it.id)) return send(res, 403, { error: '作答前不能听这道题' });
     return send(res, 200, await tts(it.ipa, null, url.searchParams.get('slow') === '1'), 'audio/wav');
   }
 
