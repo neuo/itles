@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-11 · 口语 L2（周期 17 第 2 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-13 · 口语 L3（周期 17 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **20 题 / 20 条 ✅20**（#630 two weeks 终于对了，连错 3 → 连对 1）；复检 2 组 **20 题 / 25 条 ✅25**；回潮 0
+  —— 🎓 **毕业 8 条**（#633–#640）⇒ 全档 **641** ＝ problems 36 ＋ graduated **605**（94.4%）
+  —— 🆕 **新建 14 条** #652–#665：她标学下／背下 10 条（spoonful · from ＋ 介词短语 · more than enough · us kids · mess around · ache · all over the place · take attendance · bestie · side character）＋ ⚠️ 不地道 4 条（the better part of a year · a match · take sb off · at the front of the classroom）
+  —— ② 回看 bank:434
+  —— ③ 重答 bank:414 题目已发，她说直接收尾 ⇒ 不记账，redo 仍排第 1；顺手把 08-21 原篇标题修成 ###，attempts 能打出旧答了
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄0
+  —— **下一场 ＝ 周期 17 · R（付息日）**：pick --type review 以 --date 为准；⓪ lookback --cycle；d 段 redo 第 1 行（bank:414）
+
+🆕🆕 **2026-11-11 · 口语 L2（周期 17 第 2 个学习日）· 已收尾**
   —— 在池 2 组 **20 题 / 20 条 ✅19 ❌1**（#630 two weeks，连错 3）；复检 2 组 **20 题 / 20 条 ✅20**；回潮 0
   —— 🎓 **毕业 12 条**（#620–#629 #631 #632）⇒ 全档 **627** ＝ problems 30 ＋ graduated **597**（95.2%）
   —— 🆕 **新建 12 条** #640–#651（全是她标学下／背下：come ＋ -ing · grilled sausage · off · sugary · get over · shake off · play matchmaker · be sick of · commit a foul · pirated · tucked away · spotless）

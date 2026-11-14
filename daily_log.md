@@ -7741,3 +7741,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 12⇄0
 
 **下一场 ＝ 周期 17 · L3**：pick 带 --date；② lookback --pending（bank:434）；④ redo 第 1 行（bank:414）
+
+## 2026-11-13（周五）· 口语 L3（周期 17 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 641 ＝ problems.md 36 ＋ graduated.md 605 ｜ 🎓 605（94.4%）｜ 未毕业 36 ｜ 可出题 26 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 33 道
+
+- ① 在池 2 组 20 题 / 20 条：**✅20** ⇒ **毕业 8**（#633–#640；#640 同日两次 ✅：[4] 自发 came flying ＋ [9] came running）
+  · #630 two weeks 这次对了（连错 3 → 连对 1）
+  · 她标学下／背下：spoonful（#652）· from across（#653）· more than enough（#654）
+  · ⚠️ 建号：the better part of a year（#655）· a match（#656）· take sb off（#657）；cleans → mops 同级，只进 diff-2
+- ①b 复检 2 组 20 题 / 25 条：**✅25**；回潮 0
+  · 她标学下／背下：us kids（#658）· mess around（#659）· ache（#660）· all over the place（#661）· take attendance（#662）· bestie（#664）· side character（#665）
+  · ⚠️ 建号：at the front of the classroom（#663，她说 standing at the stage）
+- ② 回看 bank:434
+- ③ 重答 bank:414 题目已发，她说"直接收尾，先不答了" ⇒ 不记账；08-21 原篇标题修成 ###（正文没动），attempts 能打出旧答
+
+**教练犯规**：无
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 8⇄0
+
+**下一场 ＝ 周期 17 · R（付息日）**：pick --type review 带 --date；⓪ lookback --cycle；d 段 redo 第 1 行（bank:414）
