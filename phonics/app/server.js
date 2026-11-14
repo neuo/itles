@@ -1,10 +1,10 @@
 // 自然拼读练习工具（本地用，无第三方依赖）
-//   node phonics/app/server.js [--port 4310] [--data <数据目录>]
+//   node phonics/app/server.js [--port 4310] [--root <另一份 phonics 目录，测试用>]
 //
 // 网页只是界面。数据都在 phonics/data/ 和 phonics/rules.md：
 //   data/sessions/NNN.json  教练写：题目 + 复核（review）
 //   data/answers/NNN.json   她的作答。网页提交时写；她在对话里作答时由教练写（via: "chat"）
-//   data/pool.json          教练写：规则池
+//   data/pool.json          cli.js settle 算出来的规则池（网页显示时自己重放，不读它）
 //   rules.md                教练写：规则正文
 // 网页**只写** data/answers/。程序给的对错是临时的，以教练的复核为准。
 
@@ -12,7 +12,8 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const { execFile } = require('node:child_process');
-const { toEspeak, syllableCount } = require('./lib/ipa.js');
+const { toEspeak } = require('./lib/ipa.js');
+const core = require('./lib/core.js');
 
 function arg(name, def) {
   const i = process.argv.indexOf('--' + name);
@@ -20,84 +21,11 @@ function arg(name, def) {
 }
 const PORT = Number(arg('port', process.env.PORT || 4310));
 const APP = __dirname;
-const ROOT = path.join(APP, '..');
-const DATA = path.resolve(arg('data', path.join(ROOT, 'data')));
-const RULES = path.join(ROOT, 'rules.md');
+const ROOT = path.resolve(arg('root', path.join(APP, '..')));
 const PUBLIC = path.join(APP, 'public');
-const PART_LABEL = { recheck: '复检', practice: '练习' };
-const PARTS = ['recheck', 'practice'];
-
-// ---------- 数据读写 ----------
-
-const pad = (n) => String(n).padStart(3, '0');
-const readJson = (p, def) => (fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : def);
-
-function sessionNumbers() {
-  const dir = path.join(DATA, 'sessions');
-  if (!fs.existsSync(dir)) return [];
-  return fs.readdirSync(dir).filter((f) => /^\d{3}\.json$/.test(f)).sort().map((f) => Number(f.slice(0, 3)));
-}
-function loadSession(n) {
-  const s = readJson(path.join(DATA, 'sessions', pad(n) + '.json'), null);
-  if (!s) return null;
-  const a = readJson(path.join(DATA, 'answers', pad(n) + '.json'), { n, answers: {}, submitted: {} });
-  return { ...s, answers: a.answers || {}, submitted: a.submitted || {} };
-}
-function saveAnswers(n, answers, submitted) {
-  const dir = path.join(DATA, 'answers');
-  fs.mkdirSync(dir, { recursive: true });
-  const file = path.join(dir, pad(n) + '.json');
-  const tmp = file + '.tmp';
-  // 保留文件里其他字段（如教练记下的对话原话 chatRaw）
-  fs.writeFileSync(tmp, JSON.stringify({ ...readJson(file, {}), n, answers, submitted }, null, 2) + '\n');
-  fs.renameSync(tmp, file);
-}
-function ruleTitles() {
-  const out = {};
-  if (!fs.existsSync(RULES)) return out;
-  for (const m of fs.readFileSync(RULES, 'utf8').matchAll(/^### ([SP]\d+) · (.+?)(?:（[^）]*）)?\s*$/gm)) out[m[1]] = m[2];
-  return out;
-}
-
-// ---------- 判定 ----------
-
-function verdictOf(item, ans, review) {
-  const r = review?.items?.[item.id];
-  if (r?.verdict) return { verdict: r.verdict, note: r.note || null, final: true };
-  if (!ans) return null;
-  return {
-    verdict: ans.choice === item.answer ? 'ok' : 'wrong',
-    note: r?.note || null,
-    final: !!review?.done,
-  };
-}
-const partItems = (s, part) => s.items.filter((it) => it.part === part);
-
-function gateOf(s) {
-  const items = partItems(s, 'recheck');
-  if (!items.length) return 'none';
-  if (!s.submitted.recheck) return 'pending';
-  const wrong = items.filter((it) => verdictOf(it, s.answers[it.id], s.review)?.verdict === 'wrong').length;
-  return wrong * 2 > items.length ? 'hold' : 'pass';
-}
-function statusOf(s) {
-  if (s.review?.done) return 'reviewed';
-  const gate = gateOf(s);
-  if (gate === 'hold') return 'answered';
-  const need = PARTS.filter((p) => partItems(s, p).length);
-  return need.every((p) => s.submitted[p]) ? 'answered' : 'open';
-}
-function countsOf(s) {
-  const c = { ok: 0, wrong: 0, warn: 0, total: 0 };
-  for (const it of s.items) {
-    if (!s.submitted[it.part]) continue;
-    const v = verdictOf(it, s.answers[it.id], s.review);
-    if (!v) continue;
-    c[v.verdict] += 1;
-    c.total += 1;
-  }
-  return c;
-}
+const store = core.createStore(ROOT);
+const { PARTS, PART_LABEL, verdictOf, gateOf, statusOf, countsOf, partItems } = core;
+const { sessionNumbers, loadSession, saveAnswers, ruleTitles } = store;
 
 function itemView(s, it, open) {
   const base = {
@@ -124,8 +52,12 @@ function sessionView(s) {
   }
   return {
     n: s.n, date: s.date, stage: s.stage, newRule: s.newRule || null, note: s.note || null,
+    reteach: gate === 'reteach' ? s.reteach : [],
     status: statusOf(s), gate, parts, counts: countsOf(s),
-    review: s.review?.done ? { summary: s.review.summary || [], pool: s.review.pool || [], qa: s.review.qa || [] } : null,
+    review: s.review?.done ? {
+      summary: s.review.summary || [], qa: s.review.qa || [],
+      pool: core.poolDelta(sessionNumbers().map((n) => loadSession(n)), s.n),
+    } : null,
   };
 }
 
@@ -219,14 +151,14 @@ async function handle(req, res) {
       const s = loadSession(n);
       return { n, date: s.date, newRule: s.newRule || null, status: statusOf(s), counts: countsOf(s) };
     });
-    const pool = readJson(path.join(DATA, 'pool.json'), { session: 0, ladder: [1, 2, 4, 8], rules: [], graduated: [] });
+    const pool = core.replayPool(sessionNumbers().map((n) => loadSession(n)));
     const open = sessions.find((s) => s.status === 'open');
     const waiting = sessions.filter((s) => s.status === 'answered').map((s) => s.n);
     return send(res, 200, { pool, titles, sessions, open: open ? open.n : null, waiting, tts: await checkEspeak() });
   }
 
   if (p === '/api/rules') {
-    return send(res, 200, { markdown: fs.existsSync(RULES) ? fs.readFileSync(RULES, 'utf8') : '', titles: ruleTitles() });
+    return send(res, 200, { markdown: store.rulesText(), titles: ruleTitles() });
   }
 
   if (p === '/api/mistakes') {
@@ -302,36 +234,16 @@ async function handle(req, res) {
   send(res, 404, { error: 'not found' });
 }
 
-// 启动时检查题目文件，写错了早点发现
+// 启动时跑一遍校验，题目写错了早点发现
 function lint() {
-  for (const n of sessionNumbers()) {
-    const s = loadSession(n);
-    const ids = new Set();
-    for (const it of s.items) {
-      const where = `sessions/${pad(n)}.json ${it.id}`;
-      if (ids.has(it.id)) console.warn(`[题目] ${where}: id 重复`);
-      ids.add(it.id);
-      const opts = it.type === 'stress' ? it.syllables : it.options;
-      if (!Array.isArray(opts) || !Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) {
-        console.warn(`[题目] ${where}: answer 不在选项范围内`);
-      }
-      if (it.ipa) {
-        try {
-          toEspeak(it.ipa);
-          if (it.type === 'stress' && syllableCount(it.ipa) !== it.syllables.length) {
-            console.warn(`[题目] ${where}: 音标的音节数和 syllables 对不上`);
-          }
-        } catch (e) {
-          console.warn(`[题目] ${where}: 音标转不了（${e.message}）`);
-        }
-      }
-    }
-  }
+  const { errors, warns } = core.checkAll(store);
+  for (const w of warns) console.warn('WARN  ' + w);
+  for (const e of errors) console.warn('ERROR ' + e);
 }
 
 http.createServer((req, res) => {
   handle(req, res).catch((e) => send(res, 500, { error: String(e.message || e) }));
 }).listen(PORT, '127.0.0.1', () => {
   lint();
-  console.log(`phonics: http://localhost:${PORT}  (data: ${DATA})`);
+  console.log(`phonics: http://localhost:${PORT}  (root: ${ROOT})`);
 });

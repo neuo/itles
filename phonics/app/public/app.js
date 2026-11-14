@@ -265,14 +265,14 @@ function poolPanel() {
     h('td', {}, ruleTag(r.id), ' ', overview.titles[r.id] || ''),
     h('td', {}, h('span', { class: 'boxes' }, ladder.map((b) => h('i', { class: b <= r.box ? 'on' : '' }))), ` 第 ${r.box} 格`),
     h('td', {}, `第 ${r.nextDue} 次`),
-    h('td', {}, (r.log || []).map((l) => `${l.kind === 'recheck' ? '复检' : '练习'}${l.ok ? '✅' : '❌'}`).join(' ') || '—')));
+    h('td', {}, (r.log || []).map((l) => `第${l.n}次${l.kind === 'recheck' ? '复检' : '练习'}${{ ok: '✅', hold: '➖', wrong: '❌' }[l.result]}`).join(' ') || '—')));
   return h('section', {},
     h('h2', {}, '规则池'),
-    h('p', { class: 'muted small' }, `已练 ${p.session} 次。格子 ${ladder.join(' → ')} 是距离下次复检的最少次数；最后一格再对一次就毕业。`),
+    h('p', { class: 'muted small' }, `已复核 ${p.session} 次。格子 ${ladder.join(' → ')} 是距离下次复检的最少次数；最后一格再对一次就毕业。✅ 升一格 · ➖ 全对但有没把握的，原地不动 · ❌ 回第 1 格。`),
     rows.length
       ? h('table', {}, h('thead', {}, h('tr', {}, ['规则', '在第几格', '下次最早', '记录'].map((t) => h('th', {}, t)))), h('tbody', {}, rows))
       : h('p', { class: 'muted' }, '池里还没有规则。'),
-    (p.graduated || []).length ? h('p', { class: 'small' }, '已毕业：' + p.graduated.map((g) => g.id).join('、')) : null);
+    (p.graduated || []).length ? h('p', { class: 'small' }, '已毕业：' + p.graduated.map((g) => `${g.id} ${overview.titles[g.id] || ''}`).join('、')) : null);
 }
 
 // ---------- 页面：练习 ----------
@@ -301,14 +301,18 @@ async function sessionBody(s, { live }) {
   }
 
   const canGoOn = !recheck || (recheck.submitted && s.gate !== 'hold');
-  if (canGoOn && s.newRule) {
+  const teach = s.gate === 'reteach' ? s.reteach : (s.newRule ? [s.newRule] : []);
+  if (canGoOn && teach.length) {
     const { markdown } = await loadRules();
-    const sec = ruleSection(markdown, s.newRule);
     const readKey = `phonics-read-${s.n}`;
     const seen = !live || practice?.submitted || store.get(readKey, false);
     out.push(h('section', {},
-      h('h2', {}, '新规则'),
-      h('div', { class: 'card md', html: sec ? md(sec) : `<p class="muted">rules.md 里还没有 ${s.newRule} 的正文。</p>` }),
+      h('h2', {}, s.gate === 'reteach' ? '重讲' : '新规则'),
+      s.gate === 'reteach' && h('p', { class: 'muted' }, '复检错了一半以上，这次不讲新规则。把下面的规则再看一遍，然后做针对它们的练习。'),
+      teach.map((id) => {
+        const sec = ruleSection(markdown, id);
+        return h('div', { class: 'card md', html: sec ? md(sec) : `<p class="muted">rules.md 里还没有 ${id} 的正文。</p>` });
+      }),
       !seen && h('div', { class: 'row' },
         h('button', { class: 'primary', onclick: () => { store.set(readKey, true); rerender(); } }, '看完了，开始练习'),
         h('span', { class: 'muted small' }, '有疑问可以先回对话问教练。'))));

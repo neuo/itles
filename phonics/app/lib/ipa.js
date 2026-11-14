@@ -76,4 +76,11 @@ function syllableCount(ipa) {
   return splitSyllables(ipa).length;
 }
 
-module.exports = { toEspeak, syllableCount, ALLOWED };
+// 主重音落在第几个音节（从 1 数）。没标重音：单音节算 1，多音节算 0。
+function stressIndex(ipa) {
+  const syls = splitSyllables(ipa);
+  const i = syls.findIndex((s) => s.mark === "'");
+  return i >= 0 ? i + 1 : (syls.length === 1 ? 1 : 0);
+}
+
+module.exports = { toEspeak, syllableCount, stressIndex, ALLOWED };

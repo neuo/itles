@@ -1,16 +1,42 @@
 {
   "session": 2,
-  "ladder": [1, 2, 4, 8],
+  "ladder": [
+    1,
+    2,
+    4,
+    8
+  ],
   "rules": [
     {
-      "id": "S1", "box": 1, "added": 1, "lastReview": 2, "nextDue": 3,
+      "id": "S1",
+      "box": 1,
+      "added": 1,
+      "lastReview": 2,
+      "nextDue": 3,
+      "rechecks": 1,
       "log": [
-        { "n": 2, "kind": "recheck", "ok": true },
-        { "n": 2, "kind": "practice", "ok": false, "note": "stelographic，回第 1 格" }
+        {
+          "n": 2,
+          "kind": "recheck",
+          "result": "ok"
+        },
+        {
+          "n": 2,
+          "kind": "practice",
+          "result": "wrong",
+          "words": [
+            "stelographic"
+          ]
+        }
       ]
     },
     {
-      "id": "S2", "box": 1, "added": 2, "lastReview": null, "nextDue": 3,
+      "id": "S2",
+      "box": 1,
+      "added": 2,
+      "lastReview": null,
+      "nextDue": 3,
+      "rechecks": 0,
       "log": []
     }
   ],
