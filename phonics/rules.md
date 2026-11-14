@@ -8,7 +8,7 @@
 
 | 编号 | 规则（一句话） | 例词 | 讲于 |
 |---|---|---|---|
-| S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 未讲 |
+| S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 第 1 次 |
 | S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 未讲 |
 | S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon | engiNEER · JapaNESE · techNIQUE | 未讲 |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 未讲 |
@@ -31,4 +31,37 @@
 
 ## 正文
 
-（讲一条写一条）
+### S1 · 后缀前一个音节重读（第 1 次讲）
+
+**规则**：词尾是下面这些后缀时，重音落在**后缀前面最近的那个元音**所在的音节。
+
+| 后缀 | 例 |
+|---|---|
+| -ic · -ics | ecoNOMic · scienTIFic · matheMATics |
+| -ical | poLITical · ecoNOMical |
+| -tion · -sion | eduCAtion · inforMAtion · deCIsion |
+| -ity | auTHORity · uniVERsity · hospiTALity |
+| -ial · -ian · -ious · -ient | inDUStrial · muSIcian · mysTERious · efFIcient |
+
+**怎么用**：
+1. 找后缀，把它切掉：author | ity。
+2. 在剩下的部分里找**最后一个元音**：auth**o**r。
+3. 它所在的音节重读：au-**THOR**-i-ty。
+
+**为什么有用**：这些后缀不管原词重音在哪，都把重音拉到自己跟前。所以同一个词族加了后缀，重音会挪位置：
+
+| 原词 | 加后缀 |
+|---|---|
+| PHOtograph | photoGRAPHic |
+| eLECtric | elecTRICity |
+| PERsonal | persoNALity |
+| HIStory | hisTORic |
+
+基线里错的 economic（她标 2，应为 3）、authority（她标 1，应为 2）都是这条。
+
+**常见例外**：
+- -ic：ARabic · CATholic · POLitics · LUnatic · RHEToric
+- -sion：TELevision
+- 注意 POLitics 是例外，但 poLITical 守规则。
+
+**不考**：次重音（如 ˌecoˈnomic 里 e 上那个弱一点的重音）。只问主重音。
