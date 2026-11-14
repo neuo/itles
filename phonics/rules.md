@@ -12,7 +12,7 @@
 |---|---|---|---|
 | S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 第 1 次 |
 | S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 第 2 次 |
-| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · uNIQUE | 未讲 |
+| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · uNIQUE | 第 3 次 |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 未讲 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 未讲 |
 | S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 未讲 |

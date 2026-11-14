@@ -1,5 +1,5 @@
 {
-  "session": 2,
+  "session": 3,
   "ladder": [
     1,
     2,
@@ -9,11 +9,11 @@
   "rules": [
     {
       "id": "S1",
-      "box": 1,
+      "box": 2,
       "added": 1,
-      "lastReview": 2,
-      "nextDue": 3,
-      "rechecks": 1,
+      "lastReview": 3,
+      "nextDue": 5,
+      "rechecks": 2,
       "log": [
         {
           "n": 2,
@@ -27,15 +27,35 @@
           "words": [
             "stelographic"
           ]
+        },
+        {
+          "n": 3,
+          "kind": "recheck",
+          "result": "ok"
         }
       ]
     },
     {
       "id": "S2",
-      "box": 1,
+      "box": 2,
       "added": 2,
+      "lastReview": 3,
+      "nextDue": 5,
+      "rechecks": 1,
+      "log": [
+        {
+          "n": 3,
+          "kind": "recheck",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "box": 1,
+      "added": 3,
       "lastReview": null,
-      "nextDue": 3,
+      "nextDue": 4,
       "rechecks": 0,
       "log": []
     }

@@ -1,6 +1,6 @@
 {
   "n": 3,
-  "date": null,
+  "date": "2026-11-14",
   "stage": "S",
   "newRule": "S3",
   "note": "复检和练习都不提示每题用哪条规则。先看词的最后一截，再决定。",
@@ -55,5 +55,23 @@
       "syllables": ["bi", "o", "gra", "phy"], "answer": 2, "ipa": "baɪ.ˈɑː.ɡrə.fi", "rule": "S2",
       "explain": "词尾 -graphy → 倒数第三音节：o。" }
   ],
-  "review": null
+  "review": {
+    "done": true,
+    "items": {
+      "r4": { "note": "上一次结构相同的 stelographic，她按 -graphy 数成了倒数第三。这次 vintography 和 vintographic 这一对选了不同的音节，-ic 和 -graphy 分开了。" },
+      "p4": { "note": "原词 VietNAM 的重音在 nam，加 -ese 后挪到后缀上。她没有跟着原词走。" },
+      "p6": { "note": "原词 INterview 的重音在第一个音节，加 -ee 后挪到最后。她没有跟着原词走。" }
+    },
+    "summary": [
+      "复检 6/6，练习 10/10，没有标「没把握」的。",
+      "上一次错的那类题这次对了：vintography 和 vintographic 选了不同的音节，说明她在看最后一截是 -y 还是 -ic。",
+      "新规则 S3 六题全对：假词 bramoneer、zolanese 对，原词重音在别处的 Vietnamese、interviewee 也对。"
+    ],
+    "qa": [
+      { "q": "练习后点提交，页面自动滚到顶部了。",
+        "a": "网页的问题，已改：提交后停在刚提交那一部分的结果上，不回顶部。" },
+      { "q": "点击 biography 的「听」没反应。",
+        "a": "网页的问题，是教练的错：真人录音用的那批地址全部打不开，之前只检查了地址有没有、没验证能不能播，所以凡是有录音的真词点「听」都没声音。已改成直接用 Wikimedia Commons 的录音，放不出来时自动改用合成音；按钮旁边会写明刚才放的是哪一种声音。" }
+    ]
+  }
 }

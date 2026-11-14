@@ -1,5 +1,105 @@
 {
   "n": 3,
-  "answers": {},
-  "submitted": {}
+  "answers": {
+    "r1": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "r2": {
+      "choice": 4,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "r3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "r4": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "r5": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "r6": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:48:22.952Z"
+    },
+    "p1": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p2": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p4": {
+      "choice": 4,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p5": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p6": {
+      "choice": 4,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p7": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p8": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p9": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    },
+    "p10": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-14T12:50:53.926Z"
+    }
+  },
+  "submitted": {
+    "recheck": "2026-11-14T12:48:22.952Z",
+    "practice": "2026-11-14T12:50:53.926Z"
+  }
 }

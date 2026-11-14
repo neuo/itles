@@ -87,23 +87,25 @@ async function tts(ipa, stress, slow) {
 }
 
 const wordCache = new Map();
+// 美音真人录音：直接问 Wikimedia Commons 有没有 En-us-<词> 这个文件。
+// （不再用 dictionaryapi.dev 给的 mp3 地址 —— 那批地址全部打不开。）
 async function lookupWord(word) {
   if (wordCache.has(word)) return wordCache.get(word);
-  const out = { word, us: null, source: null, license: null };
+  const out = { word, us: null, source: null };
   try {
-    const r = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+    const forms = [...new Set([word, word[0].toUpperCase() + word.slice(1)])];
+    const titles = forms.flatMap((w) => ['ogg', 'oga', 'wav'].map((ext) => `File:En-us-${w}.${ext}`)).join('|');
+    const r = await fetch('https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url&titles=' + encodeURIComponent(titles),
+      { headers: { 'User-Agent': 'phonics-practice-tool/1.0 (local study tool)' } });
     if (r.ok) {
-      for (const entry of await r.json()) {
-        for (const p of entry.phonetics || []) {
-          if (p.audio && /-us\.mp3$/.test(p.audio) && !out.us) {
-            out.us = p.audio;
-            out.source = p.sourceUrl || null;
-            out.license = p.license?.name || null;
-          }
-        }
+      const pages = Object.values((await r.json()).query?.pages || {});
+      const hit = pages.find((p) => p.imageinfo?.[0]?.url);
+      if (hit) {
+        out.us = hit.imageinfo[0].url.split('?')[0];
+        out.source = hit.imageinfo[0].descriptionurl || null;
       }
-    }
-    wordCache.set(word, out);
+      wordCache.set(word, out);
+    } else out.error = 'Wikimedia ' + r.status;
   } catch (e) {
     out.error = String(e.message || e);
   }

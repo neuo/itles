@@ -34,8 +34,10 @@ const showIpa = (ipa) => '/' + ipa.replace(/\./g, '') + '/';
 // ---------- 发音 ----------
 
 const player = new Audio();
-function playUrl(url, rate = 1) {
+// onFail：这个地址放不出来时改走的后路。没给就什么都不做。
+function playUrl(url, rate = 1, onFail) {
   speechSynthesis.cancel();
+  player.onerror = () => { player.onerror = null; if (onFail) onFail(); };
   player.src = url;
   player.preservesPitch = true;
   player.playbackRate = rate;
@@ -58,12 +60,21 @@ function speakText(word, rate = 1) {
   u.rate = rate;
   speechSynthesis.speak(u);
 }
-// 真词：优先真人录音，没有就用系统合成音。假词：按音标合成。
-async function playItem(it, slow) {
-  if (it.pseudo) return playUrl(ttsUrl(it.ipa, { slow }));
+// 真词：真人录音 → 放不出来就系统合成音 → 再不行按音标合成。假词：按音标合成。
+// label：一个小标签，写上刚才放的是哪一种声音。
+async function playItem(it, slow, label) {
+  const say = (t) => { if (label) label.textContent = t; };
+  const byIpa = () => { say('按音标合成'); playUrl(ttsUrl(it.ipa, { slow })); };
+  if (it.pseudo) return byIpa();
+  const synth = () => {
+    if (speechSynthesis.getVoices().some((v) => v.lang === 'en-US')) { say('系统合成音'); speakText(it.word, slow ? 0.6 : 1); }
+    else if (it.ipa) byIpa();
+    else say('放不出来');
+  };
+  say('…');
   const d = await api('/api/word?w=' + encodeURIComponent(it.word.toLowerCase())).catch(() => ({}));
-  if (d.us) playUrl(d.us, slow ? 0.6 : 1);
-  else speakText(it.word, slow ? 0.6 : 1);
+  if (d.us) { say('真人录音'); playUrl(d.us, slow ? 0.6 : 1, synth); }
+  else synth();
 }
 
 // ---------- 迷你 Markdown ----------
@@ -198,7 +209,7 @@ function partForm(s, part, onDone) {
         body: JSON.stringify({ part: part.key, answers }),
       });
       store.del(key);
-      view.dataset.tab = '';
+      scrollTarget = 'part-' + part.key;
       onDone();
     } catch (e) { msg.textContent = e.message; btn.disabled = false; }
   };
@@ -220,9 +231,11 @@ function itemResult(it, no, extraTags = []) {
     class: i + 1 === it.answer ? 'good' : (i + 1 === mine ? 'bad' : ''),
   }, txt));
   const mineText = !it.my ? '（没有作答）' : mine === null ? '不知道' : opts[mine - 1];
+  const src = h('span', { class: 'muted small' });
   const audio = h('div', { class: 'row audio' },
-    h('button', { class: 'mini', onclick: () => playItem(it) }, '▶ 听'),
-    h('button', { class: 'mini', onclick: () => playItem(it, true) }, '▶ 慢速'));
+    h('button', { class: 'mini', onclick: () => playItem(it, false, src) }, '▶ 听'),
+    h('button', { class: 'mini', onclick: () => playItem(it, true, src) }, '▶ 慢速'),
+    src);
   if (it.type === 'stress' && it.ipa && it.verdict === 'wrong' && mine) {
     audio.append(
       h('span', { class: 'muted small' }, '对比（合成音）：'),
@@ -251,7 +264,7 @@ function itemResult(it, no, extraTags = []) {
 }
 function partResult(part) {
   const ok = part.items.filter((it) => it.verdict !== 'wrong').length;
-  return h('section', {},
+  return h('section', { id: 'part-' + part.key },
     h('h2', {}, `${part.label}：${ok} / ${part.items.length}`),
     part.items.map((it, i) => itemResult(it, i + 1)));
 }
@@ -397,19 +410,22 @@ async function viewAudio() {
     try {
       const d = await api('/api/word?w=' + encodeURIComponent(w));
       const card = h('div', { class: 'card' }, h('div', { class: 'word' }, w));
+      const failMsg = h('p', { class: 'small err' });
+      const recFail = () => { failMsg.textContent = '真人录音放不出来，改用合成音。'; speakText(w); };
       card.append(h('div', { class: 'row audio' },
         d.us
-          ? [h('span', { class: 'small muted' }, '真人录音'), h('button', { class: 'mini primary', onclick: () => playUrl(d.us) }, '▶ 正常'), h('button', { class: 'mini', onclick: () => playUrl(d.us, 0.6) }, '▶ 慢速')]
+          ? [h('span', { class: 'small muted' }, '真人录音'), h('button', { class: 'mini primary', onclick: () => playUrl(d.us, 1, recFail) }, '▶ 正常'), h('button', { class: 'mini', onclick: () => playUrl(d.us, 0.6, recFail) }, '▶ 慢速')]
           : h('span', { class: 'small muted' }, '这个词没有美音真人录音'),
         h('span', { class: 'small muted' }, '合成音'),
         h('button', { class: 'mini' + (d.us ? '' : ' primary'), onclick: () => speakText(w) }, '▶ 正常'),
         h('button', { class: 'mini', onclick: () => speakText(w, 0.6) }, '▶ 慢速')));
       card.append(h('p', { class: 'small' }, h('a', { href: 'https://www.oxfordlearnersdictionaries.com/search/english/?q=' + encodeURIComponent(w), target: '_blank', rel: 'noopener' }, '在 Oxford 打开（看音标，点 US 喇叭）')));
-      card.append(h('p', { class: 'small muted' }, '合成音是电脑读的，重音一般对，偶尔会错；以真人录音和 Oxford 为准。'));
+      card.append(h('p', { class: 'small muted' }, '真人录音来自 Wikimedia Commons。合成音是电脑读的，重音一般对，偶尔会错；以真人录音和 Oxford 为准。'));
       const pseudo = d.seen.some((it) => it.pseudo);
       if (pseudo) card.append(h('div', { class: 'banner warn' }, '这是练习里的假词。上面的合成音是电脑乱猜的，别信；按下面练习记录里的「▶ 听」，那个是按音标读的。'));
       result.replaceChildren(card);
-      if (d.us) playUrl(d.us); else if (!pseudo) speakText(w);
+      card.append(failMsg);
+      if (d.us) playUrl(d.us, 1, recFail); else if (!pseudo) speakText(w);
       if (d.seen.length) {
         result.append(h('h3', {}, '练习里出现过'), ...d.seen.map((it) => itemResult(it, null, [h('span', { class: 'tag' }, `第 ${it.n} 次 · ${it.partLabel}`)])));
       }
@@ -474,6 +490,7 @@ async function viewLog(arg) {
 
 const VIEWS = { practice: viewPractice, rules: viewRules, mistakes: viewMistakes, audio: viewAudio, log: viewLog };
 let renderSeq = 0;
+let scrollTarget = null; // 下一次渲染完要滚到的元素 id
 async function render() {
   const [, tab = 'practice', arg] = location.hash.split('/');
   const name = VIEWS[tab] ? tab : 'practice';
@@ -486,7 +503,10 @@ async function render() {
     if (seq !== renderSeq) return;
     view.replaceChildren(...nodes.flat(Infinity).filter(Boolean));
     view.dataset.tab = name + (arg || '');
-    if (!(name === 'rules' && arg)) window.scrollTo(0, keepScroll);
+    const target = scrollTarget && document.getElementById(scrollTarget);
+    scrollTarget = null;
+    if (target) target.scrollIntoView({ block: 'start' });
+    else if (!(name === 'rules' && arg)) window.scrollTo(0, keepScroll);
   } catch (e) {
     if (seq === renderSeq) view.replaceChildren(h('p', { class: 'err' }, '出错了：' + e.message));
   }
