@@ -168,7 +168,7 @@ function itemForm(it, no, draft, onChange) {
   paint();
   const head = h('div', { class: 'item-head' },
     h('span', { class: 'no' }, no + '.'),
-    h('span', { class: 'word' }, it.prompt || it.word),
+    h('span', { class: 'word' }, it.prompt || it.word || '听音，选拼写'),
     it.pseudo && h('span', { class: 'tag' }, '假词'),
     it.promptAudio && h('button', { class: 'mini', onclick: () => playUrl(`/api/session/${it.session}/audio/${it.id}`) }, '▶ 听'),
     h('span', { class: 'muted small' }, TYPE_HINT[it.type] || ''));

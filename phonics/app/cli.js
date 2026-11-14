@@ -62,10 +62,13 @@ function status() {
   const n = pool.session + 1;
   const { picked, overflow } = core.duePick(pool, n, order);
   console.log(`  该出第 ${n} 次：`);
-  console.log(`    复检  ${picked.length ? picked.join(' ') + '（每条 2–3 个新词）' : '无（没有到期的规则）'}`);
+  const counts = picked.map((id) => `${id}×${core.recheckCount(pool, id)}`);
+  console.log(`    复检  ${picked.length ? counts.join(' ') + `（共 ${picked.reduce((k, id) => k + core.recheckCount(pool, id), 0)} 题，全用新词）` : '无（没有到期的规则）'}`);
   if (overflow.length) console.log(`    到期但这次排不下、顺延的：${overflow.join(' ')}`);
   const next = core.nextNewRule(store, sessions);
-  console.log(`    新规则  ${next ? next + (titles[next] ? '（正文已有）' : '（rules.md 里还没有正文，先写）') : '课表讲完了'}`);
+  const row = store.syllabus().find((r) => r.id === next);
+  console.log(`    新规则  ${next ? `${next}（${titles[next] ? '正文已有' : 'rules.md 里还没有正文，先写'}）` : '课表讲完了'}`);
+  if (row) console.log(`            课表原文：${row.text}`);
 }
 
 function answers(n) {

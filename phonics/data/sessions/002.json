@@ -49,8 +49,8 @@
   "review": {
     "done": true,
     "items": {
-      "p5": { "verdict": "ok", "note": "她写的「a」也可能指 rate 里的 a；按她的写法习惯（rate 会写 ra），判为第 1 音节。" },
-      "p6": { "verdict": "wrong", "note": "词尾是 -ic，该用 S1；她按 -graphy 用了 S2。结构一样的真词 geographic 她答对了，说明 -ic / -y 的区分还没成规则，真词可能是靠认识的词撑着。" }
+      "p5": { "note": "她写的「a」也可能指 rate 里的 a；按她的写法习惯（rate 会写 ra），判为第 1 音节。" },
+      "p6": { "note": "词尾是 -ic，该用 S1；她按 -graphy 用了 S2。结构一样的真词 geographic 她答对了，说明 -ic / -y 的区分还没成规则，真词可能是靠认识的词撑着。" }
     },
     "summary": [
       "复检 S1 三题全对。练习 10 题对 9 题。",

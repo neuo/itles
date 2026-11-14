@@ -3,7 +3,8 @@
 > 「这次学什么」= 本表里**下一条「未讲」的规则**，按编号顺序。
 > 讲过的规则在「讲于」一栏填第几次；规则正文讲的时候再写到下面「正文」区，不预先写。
 > 课表会随练习调整；改了在提交说明里写原因。
-> 正文里每条规则的标题固定写成 `### 编号 · 标题（第 N 次讲）`，网页靠这个格式取规则名和跳转，别改格式。
+> 正文里每条规则的标题固定以 `### 编号 · 标题` 开头，网页和校验靠这个格式取规则名和跳转，别改格式。
+> 课表「讲于」：复核完那一次才从「未讲」改成「第 N 次」，出题时不动。
 
 ## 阶段 1：重音（S）
 
@@ -11,7 +12,7 @@
 |---|---|---|---|
 | S1 | 这些后缀**前一个音节**重读：-ic · -ical · -tion / -sion · -ity · -ial / -ian / -ious / -ient | ecoNOMic · auTHORity · eduCAtion | 第 1 次 |
 | S2 | 这些后缀让重音落在**倒数第三音节**：-ate（3 音节以上）· -graphy / -logy / -nomy / -cracy | HESitate · phoTOGraphy · eCONomy | 第 2 次 |
-| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · techNIQUE | 未讲（正文已写，第 3 次的题已出） |
+| S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · uNIQUE | 未讲 |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 未讲 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 未讲 |
 | S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 未讲 |
@@ -129,10 +130,10 @@
 
 | 后缀 | 例 |
 |---|---|
-| -ee | refuGEE · guaranTEE · traiNEE · interviewEE |
-| -eer | engiNEER · volunTEER · caREER |
-| -ese | JapaNESE · ChiNESE · VietnaMESE |
-| -ique | uNIQUE · techNIQUE · anTIQUE |
+| -ee | refuGEE · guaranTEE · traiNEE · nomiNEE |
+| -eer | engiNEER · caREER · pioNEER |
+| -ese | JapaNESE · ChiNESE · PortuGUESE |
+| -ique | uNIQUE · anTIQUE · bouTIQUE |
 | -oon | balLOON · carTOON |
 | -ette · -aire | casSETTE · questionNAIRE · millioNAIRE |
 

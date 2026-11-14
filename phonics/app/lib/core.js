@@ -53,14 +53,26 @@ function createStore(root) {
       const m = line.match(/^\|\s*([SP]\d+)\s*\|/);
       if (!m) continue;
       const cells = line.replace(/^\||\|\s*$/g, '').split('|').map((c) => c.trim());
-      out.push({ id: m[1], taught: cells[cells.length - 1] });
+      out.push({ id: m[1], text: (cells[1] || '').replace(/\*\*/g, ''), taught: cells[cells.length - 1] });
+    }
+    return out;
+  }
+  // 规则正文和基线卷里出现过的英文词：她见过读法，不能再拿来当题
+  function reservedWords() {
+    const files = [rulesFile, ...fs.readdirSync(root).filter((f) => /^baseline.*\.md$/.test(f)).map((f) => path.join(root, f))];
+    const out = new Map();
+    for (const f of files) {
+      if (!fs.existsSync(f)) continue;
+      for (const m of fs.readFileSync(f, 'utf8').replace(/\*/g, '').matchAll(/[A-Za-z]{4,}/g)) {
+        if (!out.has(m[0].toLowerCase())) out.set(m[0].toLowerCase(), path.basename(f));
+      }
     }
     return out;
   }
   const readPool = () => readJson(poolFile, null);
   const writePool = (pool) => fs.writeFileSync(poolFile, JSON.stringify(pool, null, 2) + '\n');
 
-  return { root, data, rulesFile, poolFile, sessionNumbers, loadSession, saveAnswers, rulesText, ruleTitles, syllabus, readPool, writePool };
+  return { root, data, rulesFile, poolFile, sessionNumbers, loadSession, saveAnswers, rulesText, ruleTitles, syllabus, reservedWords, readPool, writePool };
 }
 
 // ---------- 判定 ----------
@@ -210,6 +222,13 @@ function duePick(pool, n, order = []) {
   return { picked: due.slice(0, RECHECK_CAP).map((r) => r.id), overflow: due.slice(RECHECK_CAP).map((r) => r.id) };
 }
 
+// 复检时一条规则出几题：默认 2；它最近一次是错的（池里最后一条记录是 wrong）就出 3
+function recheckCount(pool, id) {
+  const r = pool.rules.find((x) => x.id === id);
+  const last = r?.log[r.log.length - 1];
+  return last?.result === 'wrong' ? 3 : 2;
+}
+
 // 下一条该讲的新规则：课表里第一条还没讲过的
 function nextNewRule(store, sessions) {
   const taught = new Set(sessions.filter((s) => s.review?.done && s.newRule && s.submitted.practice).map((s) => s.newRule));
@@ -236,6 +255,7 @@ function checkAll(store) {
 
   const taughtAt = new Map(); // 规则 → 第几次讲的
   const usedWords = new Map(); // 词 → 第一次出现在哪
+  const reserved = store.reservedWords();
   sessions.forEach((s, idx) => {
     const F = `sessions/${pad(nums[idx])}.json`;
     const isLast = idx === sessions.length - 1;
@@ -251,6 +271,7 @@ function checkAll(store) {
       const w = String(it.word).toLowerCase();
       if (usedWords.has(w)) E(I, `「${it.word}」在 ${usedWords.get(w)} 用过了。进池的是规则不是词，每道题都要换新词`);
       else usedWords.set(w, `${F} ${it.id}`);
+      if (!s.review?.done && reserved.has(w)) E(I, `「${it.word}」在 ${reserved.get(w)} 里出现过（规则例词或基线卷），她见过读法，换一个词`);
       if (!PARTS.includes(it.part)) { E(I, 'part 只能是 recheck / practice'); continue; }
       if (!String(it.id).startsWith(it.part === 'recheck' ? 'r' : 'p')) E(I, '复检题的 id 用 r 开头，练习题用 p 开头');
       if (!['stress', 'read', 'spell'].includes(it.type)) { E(I, 'type 只能是 stress / read / spell'); continue; }
@@ -259,6 +280,7 @@ function checkAll(store) {
         if (opts.length < 2) E(I, '重音题至少两个音节');
         if (opts.join('').toLowerCase() !== String(it.word).toLowerCase().replace(/[^a-z]/g, '')) E(I, `syllables 拼起来不是 ${it.word}`);
       } else if (opts.length < 2 || opts.length > 4) E(I, '选项要 2–4 个');
+      if (it.type === 'spell' && !it.prompt && !it.promptAudio) E(I, '拼写题要有 prompt（显示的音标）或 promptAudio');
       if (!Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) E(I, 'answer 不在选项范围内');
       if (typeof it.pseudo !== 'boolean') E(I, 'pseudo 要写 true / false');
       if (!it.explain) E(I, '缺 explain');
@@ -328,9 +350,20 @@ function checkAll(store) {
       if (!/^\d{4}-\d{2}-\d{2}$/.test(s.date || '')) E(F, '已复核的场次要填 date（YYYY-MM-DD）');
       if (!(s.review.summary || []).length) E(F, 'review.summary 是空的');
       for (const p of PARTS) if (partItems(s, p).length && !s.submitted[p]) E(F, `已复核，但${PART_LABEL[p]}没有提交。没做的题从题目文件里删掉`);
+      const sum = s.review.summary;
+      if (!Array.isArray(sum) || sum.some((x) => typeof x !== 'string' || !x)) E(F, 'review.summary 要写成字符串数组，一句一项');
+      const qa = s.review.qa;
+      if (!Array.isArray(qa) || qa.some((x) => !x || !x.q || !x.a)) E(F, 'review.qa 要写成数组，每项 { "q": …, "a": … }；她没提问就写 []');
       for (const [id, r] of Object.entries(s.review.items || {})) {
-        if (!ids.has(id)) E(`${F} review.items.${id}`, '没有这道题');
-        if (r.verdict && !['ok', 'wrong', 'warn'].includes(r.verdict)) E(`${F} review.items.${id}`, 'verdict 只能是 ok / wrong / warn');
+        const it = s.items.find((x) => x.id === id);
+        if (!it) { E(`${F} review.items.${id}`, '没有这道题'); continue; }
+        if (!r.verdict) continue;
+        if (!['ok', 'wrong', 'warn'].includes(r.verdict)) E(`${F} review.items.${id}`, 'verdict 只能是 ok / wrong / warn');
+        else if (!r.note) E(`${F} review.items.${id}`, '改判要写 note 说明理由');
+        else {
+          const auto = s.answers[id] && s.answers[id].choice === it.answer ? 'ok' : 'wrong';
+          if (r.verdict === auto) E(`${F} review.items.${id}`, `verdict 和程序判的一样（${auto}），不是改判就不要写 verdict，只留 note`);
+        }
       }
       for (const it of s.items) {
         const v = verdictOf(it, s.answers[it.id], s.review);
@@ -359,5 +392,5 @@ function checkAll(store) {
 module.exports = {
   PARTS, PART_LABEL, LADDER, RECHECK_CAP, pad, createStore,
   optsOf, partItems, verdictOf, gateOf, statusOf, countsOf, ruleResults,
-  replayPool, poolDelta, duePick, nextNewRule, checkAll,
+  replayPool, poolDelta, duePick, recheckCount, nextNewRule, checkAll,
 };

@@ -48,7 +48,7 @@ function sess(n, { newRule = null, recheck = {}, practice = {}, reviewed = true,
   if (Object.keys(recheck).length) submitted.recheck = 't';
   if (Object.keys(practice).length) submitted.practice = 't';
   const notes = Object.fromEntries(items.filter((it) => answers[it.id].choice !== it.answer).map((it) => [it.id, { note: '备注' }]));
-  return { n, date: '2026-01-01', newRule, reteach, items, answers, submitted, review: reviewed ? { done: true, items: notes, summary: ['s'] } : null };
+  return { n, date: '2026-01-01', newRule, reteach, items, answers, submitted, review: reviewed ? { done: true, items: notes, summary: ['s'], qa: [] } : null };
 }
 const RULES = (taught) => ['# 规则表', '', '| 编号 | 规则 | 例词 | 讲于 |', '|---|---|---|---|',
   ...['S1', 'S2', 'S3', 'S4', 'S5', 'S6'].map((id) => `| ${id} | 规则 | 例 | ${taught[id] ? `第 ${taught[id]} 次` : '未讲'} |`),
@@ -240,6 +240,36 @@ test('规则池变化：新讲、升格、练习错', () => {
   assert.match(core.poolDelta(all, 3).join('|'), /S1：复检全对，第 1 格 → 第 2 格，下次最早第 5 次\|S2：复检全对但有没把握的（.+），第 1 格 → 第 1 格，下次最早第 4 次/);
 });
 test('规则池变化：毕业', () => assert.deepEqual(core.poolDelta(toGrad, 16), ['S1：复检全对，毕业']));
+test('校验：未复核的场次不能用规则正文里的例词', () => {
+  const s3 = sess(3, { recheck: { S2: 'oo' }, newRule: 'S3', practice: P10('S3'), reviewed: false });
+  s3.answers = {}; s3.submitted = {}; s3.date = null;
+  const store = mkRoot([...base(), s3]);
+  fs.appendFileSync(store.rulesFile, `\n例词：${s3.items[4].word.toUpperCase()}\n`);
+  hasError(store, /她见过读法/);
+});
+test('校验：已复核的场次不查例词（历史不追）', () => {
+  const store = mkRoot(base());
+  fs.appendFileSync(store.rulesFile, `\n例词：${store.loadSession(1).items[0].word}\n`);
+  assert.deepEqual(errorsOf(store), []);
+});
+test('校验：verdict 和程序判的一样就不该写', () => {
+  const s = [base()[0], sess(2, { recheck: { S1: 'ox' }, newRule: 'S2', practice: P10('S2') })];
+  s[1].review.items.r2 = { verdict: 'wrong', note: '备注' };
+  hasError(mkRoot(s), /不是改判就不要写 verdict/);
+});
+test('校验：改判必须写理由', () => {
+  const s = [base()[0], sess(2, { recheck: { S1: 'ox' }, newRule: 'S2', practice: P10('S2') })];
+  s[1].review.items.r2 = { verdict: 'warn' };
+  hasError(mkRoot(s), /改判要写 note/);
+});
+test('校验：summary 要数组、qa 要数组', () => {
+  const a = base(); a[1].review.summary = '一句话'; hasError(mkRoot(a), /summary 要写成字符串数组/);
+  const b = base(); delete b[1].review.qa; hasError(mkRoot(b), /qa 要写成数组/);
+});
+test('复检题数：默认 2，最近一次错了就 3', () => {
+  const pool = core.replayPool([sess(1, { newRule: 'S1', practice: P10('S1') }), sess(2, { recheck: { S1: 'ox' }, newRule: 'S2', practice: P10('S2') })]);
+  assert.deepEqual([core.recheckCount(pool, 'S1'), core.recheckCount(pool, 'S2')], [3, 2]);
+});
 test('下一条新规则 = 课表里第一条没讲过的', () => {
   const store = mkRoot(base());
   assert.equal(core.nextNewRule(store, store.sessionNumbers().map(store.loadSession)), 'S3');
