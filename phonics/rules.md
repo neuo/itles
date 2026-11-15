@@ -15,7 +15,7 @@
 | S3 | **后缀本身**重读：-ee · -eer · -ese · -ique · -oon · -ette · -aire | engiNEER · JapaNESE · uNIQUE | 第 3 次 |
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 第 4 次 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 第 5 次 |
-| S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 未讲 |
+| S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 第 6 次 |
 | S7 | 不重读的元音弱读成 /ə/ /ɪ/；弱读元音的拼写从同族重读形式找回 | phot**o**graph ← ph**o**tography | 未讲 |
 
 ## 阶段 2：拼读全部规则（P）

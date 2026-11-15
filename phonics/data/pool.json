@@ -1,5 +1,5 @@
 {
-  "session": 5,
+  "session": 6,
   "ladder": [
     1,
     2,
@@ -9,11 +9,11 @@
   "rules": [
     {
       "id": "S1",
-      "box": 1,
+      "box": 2,
       "added": 1,
-      "lastReview": 5,
-      "nextDue": 6,
-      "rechecks": 3,
+      "lastReview": 6,
+      "nextDue": 8,
+      "rechecks": 4,
       "log": [
         {
           "n": 2,
@@ -41,6 +41,11 @@
             "historian",
             "trampetic"
           ]
+        },
+        {
+          "n": 6,
+          "kind": "recheck",
+          "result": "ok"
         }
       ]
     },
@@ -66,14 +71,19 @@
     },
     {
       "id": "S3",
-      "box": 2,
+      "box": 4,
       "added": 3,
-      "lastReview": 4,
-      "nextDue": 6,
-      "rechecks": 1,
+      "lastReview": 6,
+      "nextDue": 10,
+      "rechecks": 2,
       "log": [
         {
           "n": 4,
+          "kind": "recheck",
+          "result": "ok"
+        },
+        {
+          "n": 6,
           "kind": "recheck",
           "result": "ok"
         }
@@ -96,10 +106,25 @@
     },
     {
       "id": "S5",
-      "box": 1,
+      "box": 2,
       "added": 5,
+      "lastReview": 6,
+      "nextDue": 8,
+      "rechecks": 1,
+      "log": [
+        {
+          "n": 6,
+          "kind": "recheck",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "id": "S6",
+      "box": 1,
+      "added": 6,
       "lastReview": null,
-      "nextDue": 6,
+      "nextDue": 7,
       "rechecks": 0,
       "log": []
     }

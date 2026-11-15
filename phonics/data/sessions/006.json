@@ -1,6 +1,6 @@
 {
   "n": 6,
-  "date": null,
+  "date": "2026-11-15",
   "stage": "S",
   "newRule": "S6",
   "note": "复检和练习都不提示每题用哪条规则。题面写成「原词 + 后缀」的，大写的是原词重读的音节；括号里写的是这个词在这里的词性。",
@@ -58,5 +58,14 @@
       "syllables": ["ca", "va", "lin", "dus"], "answer": 3, "ipa": "ˌkæ.və.ˈlɪn.dəs", "rule": "S6",
       "explain": "倒数第二块 lin 以辅音结尾，重 → 重读它。四个音节也只看最后两块。" }
   ],
-  "review": null
+  "review": {
+    "done": true,
+    "items": {},
+    "summary": [
+      "复检 7/7，练习 10/10，没有勾「没把握」的题。",
+      "S1 上次两道错都是原词的重音没挪；这次 3 道都挪对了，其中两道是「原词 + 后缀」的题面（GRAMmar + -ian、MARsel + -ity）。",
+      "新规则 S6 六题全对。三道照 S6 算会算错的旧规则题（velamic、compensate、statuette）她都先认出了后缀，没有套当天的新规则。"
+    ],
+    "qa": []
+  }
 }

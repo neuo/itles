@@ -1,0 +1,111 @@
+{
+  "n": 6,
+  "answers": {
+    "r1": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r2": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r5": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r6": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "r7": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:06:25.472Z"
+    },
+    "p1": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p2": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p4": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p5": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p6": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p7": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p8": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p9": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    },
+    "p10": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T15:11:07.577Z"
+    }
+  },
+  "submitted": {
+    "recheck": "2026-11-15T15:06:25.472Z",
+    "practice": "2026-11-15T15:11:07.577Z"
+  }
+}
