@@ -1,5 +1,5 @@
 {
-  "session": 3,
+  "session": 4,
   "ladder": [
     1,
     2,
@@ -52,10 +52,25 @@
     },
     {
       "id": "S3",
-      "box": 1,
+      "box": 2,
       "added": 3,
+      "lastReview": 4,
+      "nextDue": 6,
+      "rechecks": 1,
+      "log": [
+        {
+          "n": 4,
+          "kind": "recheck",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "id": "S4",
+      "box": 1,
+      "added": 4,
       "lastReview": null,
-      "nextDue": 4,
+      "nextDue": 5,
       "rechecks": 0,
       "log": []
     }
