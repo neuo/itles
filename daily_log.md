@@ -7761,3 +7761,23 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 8⇄0
 
 **下一场 ＝ 周期 17 · R（付息日）**：pick --type review 带 --date；⓪ lookback --cycle；d 段 redo 第 1 行（bank:414）
+
+## 2026-11-14（周六）· 口语 R（付息日 · 周期 17 收尾）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 652 ＝ problems.md 35 ＋ graduated.md 617 ｜ 🎓 617（94.6%）｜ 未毕业 35 ｜ 可出题 25 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 32 道
+
+- a 在池 3 组 26 题 / 26 条：**✅26** ⇒ **毕业 12**（#630 #641–#651）
+  · 她标学下／背下：set sb up with sb（#666）· whisper（#668）· 时间段 ＋ in（#669）· sometimes…other times（#670）
+  · ⚠️ 建号：foul out（#667，她写 budded out）
+- ⓪ 回看 bank:434
+- a2 复检 5 组 50 题 / 59 条：**✅59**；回潮 0（在池只排得出 3 组，2 组下溢给复检）
+  · 她标学下／背下：expense reimbursement（#671）· 形容词 ＋ around ＋ 人（#672）· stuff sth away（#673）· attic（#674）· alumni（#675）
+  · #396 她答 with the future of the entire town at stake（合法）⇒ 正文补 with 独立结构
+- c 段：合并 0 · 拆号 0 · 未标题型 0 · 正文待升级 0
+- d 段重答 bank:414：零真错；她标 hold its own ⇒ 新建 #676；🎓#267 🎓#58 自发命中
+
+**教练犯规**：① 第一次 pick 没带 --date（第五次同错，已还原重跑）② 第 1 组记录漏 [10] #649，deliver 报出后补 ③ 发题稿 5 处提示写歪，prompts --verify 报出后发题前改完 ④ d 段自发命中先记账后发反馈
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 12⇄0
+
+**下一场 ＝ 周期 18 · L1**：pick --type learn 带 --date；② lookback --pending（bank:414）；④ redo 第 1 行（bank:1371）

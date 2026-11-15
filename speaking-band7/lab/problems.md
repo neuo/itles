@@ -707,383 +707,9 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 630 · **two weeks**（"半个月"；⛔ half a month）
-类型 词组 ｜ 新建 2026-11-08
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-中文"半个月"英语说 **two weeks**（口语也说 a couple of weeks），不按月切半：`It took me two weeks.` · `I'll be away for two weeks.`
-同一格里的邻居（别串）：a fortnight（英式）· half a year（"半年"英语照说，没问题）。
-判据一句话："半个月"⇒ two weeks；"半年"⇒ half a year／six months。
-★ 题型判整句：零提示——"半个月"任何地道译法都得落到 two weeks／a couple of weeks，避不开（§6② 绕开测试翻不出）⇒ 整句、不点名。
-
-**怎么发现的**
-2026-11-08 付息日 复检第 4 组 [6]（🎓#528 题里）· 原话
-`… and only got the hang of it after half a month.`
-half a month 能懂，但英语说"半个月"用 two weeks ⇒ 更地道的说法是能学的表达 ⇒ §3.2b 建号，判 ❌。
-判重三步：
-　① 目标形式 dedup "half a month" ⇒ 零命中
-　② 中文 dedup "半个月" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`after half a month`　　更地道：`after two weeks`
-找法：说到"半个月"直接换成 two weeks。
-
-**题面**
-"我等了半个月，快递才到。"
-★ 目标形式（教练看，⛔ 不进发题稿）：I waited two weeks for my package to arrive.
-
-- 2026-11-08 ❌ 首犯 · 付息日 复检第 4 组 [6]（🎓#528 题里）· ⚠️ 不地道 · 原话 `… and only got the hang of it after half a month.`
-- 2026-11-09 ❌ 学习日 在池第 2 组 [6] · `It took half a month for my delivery to get here.` —— half a month 又出来了 ⇒ two weeks · 连错 1 → 2
-- 2026-11-11 ❌ 学习日 在池第 2 组 [1] · `It took me half a month to get over this cold.` —— 半个月又说成 half a month（第三次）⇒ two weeks
-- 2026-11-13 ✅ 学习日 在池第 1 组 [1] · `I spent two weeks traveling in Yunnan` —— 连错 3 → 连对 1
-
-### 641 · **grilled sausage**（烤肠）
-类型 词汇 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-烤肠 ＝ **a grilled sausage**（复数 grilled sausages）。
-街边小吃一族：`lamb skewers`（羊肉串）· `grilled squid`（烤鱿鱼）· `a savory crepe`（煎饼）。
-同一格里的邻居（别串）：hot dog（夹在面包里的才叫 hot dog）。
-判据一句话：烤肠单吃、不夹面包 ⇒ grilled sausage。
-★ 与 🎓#581 grill 分工：那条考"烤"这个词本身，本条考"烤肠"这个食物名 ⇒ #581 换场景时不再用烤肠。
-★ 题型判整句："烤肠"能落到 roast sausage／hot dog，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 1 组 [5]（#624 题面"楼下那家烤肠五块钱一根，学生放学都去买。"）· 原话
-`The grilled sausages（背下） downstairs cost five yuan a pop, and all the students buy them after school.`
-她写对了 grilled sausages，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "sausage" ⇒ 全档零命中
-　② 中文 dedup "烤肠" ⇒ 零命中；🎓#581 grill（烤）⇒ 考的是词 grill，不是"烤肠"这个名字 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `grilled sausages`，但词不在手边（自己标背下）　　目标：同她原句
-找法："烤"＋食物 ⇒ grilled ＋ 那个食物。
-
-**题面**
-"孩子们放学一出校门就围着小摊买烤肠。"（"烤肠"用 **grilled sausage** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：As soon as the kids get out of school, they crowd around the stall to buy grilled sausages.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 1 组 [5]（#624 题里）· 她标「背下」· 原话 `The grilled sausages（背下） downstairs cost five yuan a pop, and all the students buy them after school.`
-- 2026-11-13 ✅ 学习日 在池第 1 组 [10] · `they crowded around the food stall to buy grilled sausages` —— 连错 1 → 连对 1
-
-### 642 · **off ＝ 不对劲、怪怪的**（feel off · something's off · the milk smells off）
-类型 词汇 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**off** 当形容词 ＝ 不太对、不对劲，但说不清哪儿：
-　`feel off`（感觉别扭；也指身体有点不舒服：I've been feeling a bit off today）
-　`something's off`（有点不对劲）· `the milk smells off`（牛奶闻着坏了）· `his timing was off`（没卡准）
-同一格里的邻居（别串）：weird（怪，更泛）· not right（不对）。
-判据一句话：想说"不对劲／怪怪的／不在状态" ⇒ feel／seem／smell ＋ off。
-★ 题型判整句：off 要挂在 feel／smell／seem 后面才现形。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 1 组 [6]（#625 题面"我自行车的车把歪了，骑起来总觉得别扭。"）· 原话
-`My bike's handlebars are misaligned, which makes riding it feel totally off(这个 off 的用法学下）.`
-她写对了 feel totally off，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 grep "feel off／something's off／is off" ⇒ 全档零命中
-　② dedup "off" 命中 54 条，全是短语动词（get off · pull off · set off · drop off …）⇒ 不是形容词义 off ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `feel totally off`，但用法不在手边（自己标学下）　　目标：同她原句
-找法：中文"别扭／不对劲／怪怪的" ⇒ feel／seem／smell ＋ off。
-
-**题面**
-"这牛奶闻着有点不对劲，你别喝了。"（"不对劲"用 **off** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：This milk smells a bit off—don't drink it.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 1 组 [6]（#625 题里）· 她标「这个 off 的用法学下」· 原话 `My bike's handlebars are misaligned, which makes riding it feel totally off.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [1] · `This milk smells a bit off` —— 连错 1 → 连对 1
-
-### 643 · **sugary**（太甜、糖放多了：too sugary · sugary drinks）
-类型 词汇 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**sugary** ＝ 糖多、甜得过头（偏贬）：`This cake is way too sugary.` · `sugary drinks`（含糖饮料）。
-同一格里的邻居（别串）：sweet（甜，中性，夸也能用）· sickly sweet（甜得发腻）。
-判据一句话：嫌糖放多了／说含糖饮料 ⇒ sugary；只是说"甜" ⇒ sweet。
-★ 题型判整句："太甜"能落到 too sweet 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 1 组 [8]（#627 题面"这杯奶茶甜度刚刚好，喝着不腻。"）· 原话
-`This milk tea's sweetness is just right, so it doesn't feel heavy or too sugary（背下）.`
-她写对了 too sugary，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "sugary" ⇒ 全档零命中
-　② 中文 dedup "齁" ⇒ 零命中；#627 taste just right（sugary 只在原话里，考点不同）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `too sugary`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"太甜／齁甜" ⇒ too sugary。
-
-**题面**
-"这家店的蛋糕太甜了，吃一口就够了。"（"太甜"用 **sugary** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：The cakes at this place are way too sugary—one bite is enough.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 1 组 [8]（#627 题里）· 她标「背下」· 原话 `This milk tea's sweetness is just right, so it doesn't feel heavy or too sugary.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [2] · `The cakes at this place are way too sugary` —— 连错 1 → 连对 1
-
-### 644 · **get over ＋ 病／坏事**（缓过来、好了：get over a cold · get over a breakup）
-类型 词组 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**get over ＋ 病／打击** ＝ 从里面缓过来、彻底好了：`get over a cold` · `get over the flu` · `get over a breakup`。
-常和 It took me … 连用：`It took me two weeks to get over it.`
-同一格里的邻居（别串）：#645 shake off（把小病甩掉，常说"甩不掉"）· recover from（更正式）。
-判据一句话：说"病好了／从打击里走出来" ⇒ get over ＋ 那件事。
-★ 题型判整句：get over 后面要挂上病或那件事，单翻一个块测不出。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 2 组 [1]（#630 题面"我这次感冒拖了半个月才好。"）· 原话
-`It took me half a month to get over(和 hake off 一起学下) this cold.`
-她写对了 get over，但自己标「和 shake off 一起学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "get over"／"got over" ⇒ 只命中 🎓#429 hold a grudge（get over 只在它的邻居里）⇒ 否
-　② 中文 dedup "走出来"／"好了" 不是固定中文块，按英文形式判 ⇒ 无同考点
-　③ 保留新建（⛔ 建号当天不测）；与 #645 shake off 分工写在上面
-
-**我错在哪**
-她的：写对了 `get over this cold`，但想和 shake off 一起巩固（自己标学下）　　目标：同她原句
-找法：中文"好了／缓过来／走出来" ⇒ get over ＋ 那件事。
-
-**题面**
-"她跟男朋友分手以后，过了大半年才走出来。"（"走出来"用 **get over** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：It took her more than half a year to get over the breakup with her boyfriend.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 2 组 [1]（#630 题里）· 她标「和 shake off 一起学下」· 原话 `It took me half a month to get over this cold.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [3] · `it took her over half a year to finally get over him` —— 连错 1 → 连对 1
-
-### 645 · **shake off ＋ 小病**（甩掉：I can't shake off this cold）
-类型 词组 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**shake off ＋ 小病／坏状态** ＝ 把它甩掉，常用否定说"甩不掉"：
-　`I can't seem to shake off this cold.`（这感冒老是好不了）· `shake off the jet lag`（倒过时差来）
-同一格里的邻居（别串）：#644 get over（已经好了）。
-判据一句话：说"老是甩不掉／好不利索" ⇒ can't shake off ＋ 那个病。
-★ 题型判整句：常带 can't seem to 的否定框，靠句子才现形。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 2 组 [1]（#630 题里）· 她在 get over 后标「和 hake off 一起学下」（hake off ＝ shake off，拼写不算）。
-她没在句子里用它，点名要学 ⇒ §2③ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "shake off" ⇒ 全档零命中
-　② 与 #644 get over：get over ＝ 好了，shake off ＝ 甩掉／甩不掉 ⇒ 两个词组 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：没用到，点名要学　　目标：`I can't seem to shake off this cold.`
-找法：中文"甩不掉／好不利索" ⇒ can't shake off。
-
-**题面**
-"这次咳嗽拖了好久，怎么都好不利索。"（"好不利索"用 **shake off** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I've had this cough for ages and I just can't shake it off.
-★ 首次出题给整块（§6② 她点名要学 ⇒ 练）。
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 2 组 [1]（#630 题里）· 她标「和 hake off 一起学下」· 原话 `It took me half a month to get over this cold.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [4] · `I just can't seem to shake it off` —— 连错 1 → 连对 1
-
-### 646 · **play matchmaker**（当红娘、撮合别人）
-类型 词组 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**play matchmaker (for sb)** ＝ 当红娘、帮人牵线：`My aunt loves playing matchmaker.`
-同一格里的邻居（别串）：set sb up (with sb)（给人介绍对象：She set me up with her coworker.）。
-判据一句话：说"撮合／牵线／当红娘" ⇒ play matchmaker。
-★ 题型判整句："当红娘"能落到 set them up 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 2 组 [2]（#631 题面"她想撮合两个朋友，结果适得其反，现在俩人都不理她了。"）· 原话
-`She wanted to play matchmaker(学下这个词） for two friends, which backfired big time; neither of them speaks to her anymore.`
-她写对了 play matchmaker，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "matchmaker" ⇒ 全档零命中
-　② 中文 dedup "撮合" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `play matchmaker`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"撮合／当红娘" ⇒ play matchmaker。
-
-**题面**
-"我姑姑最爱给年轻人当红娘，可惜一对都没成。"（"当红娘"用 **matchmaker** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My aunt loves playing matchmaker for young people, but none of her matches has worked out.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 2 组 [2]（#631 题里）· 她标「学下这个词」· 原话 `She wanted to play matchmaker for two friends, which backfired big time; neither of them speaks to her anymore.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [5] · `My aunt loves playing matchmaker for young people` —— 连错 1 → 连对 1
-
-### 647 · **be sick of ＋ 事／人**（受够了、烦透了：I'm sick of waiting）
-类型 搭配 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**be sick of ＋ 东西／-ing** ＝ 受够了、烦透了：`I'm sick of his excuses.` · `I'm sick of waiting.`
-加强版：`sick and tired of`。
-同一格里的邻居（别串）：can't stand ＋ 东西（受不了，意思接近）· can't bear（偏书面，口语少用）。
-判据一句话：烦了很久、再也不想忍 ⇒ be sick of ＋ 那件事。
-★ 题型判整句：介词 of 和后面的 -ing 要靠句子才现形。
-
-**怎么发现的**
-2026-11-11 学习日 在池第 2 组 [9]（#638 题面"他每次开会都拼命夸领导，大家都看不下去了。"）· 原话
-`Every single meeting, he's constantly flattering the boss, and everyone is completely sick of（这个短语又忘了，召回下，本来我想用 bear) it.`
-她最后写对了 sick of，但说"又忘了、本来想用 bear" ⇒ §2③ 她说不会 ⇒ 建号，判 ❌。
-判重三步：
-　① 目标形式 dedup "sick of" ⇒ 🎓#420 burnt out · 🎓#6 情态副词 —— sick of 只在邻居／例句里，不是考点 ⇒ 否
-　② dedup "can't stand"／"受不了" ⇒ 只命中 🎓#494 can't bring myself to do（狠不下心，另一个意思）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：一开始调出 bear，查了才写出 `sick of`　　目标：`everyone is completely sick of it`
-找法：中文"受够了／烦透了／看不下去" ⇒ be sick of ＋ 那件事。
-
-**题面**
-"我真受够了每天挤地铁上班。"（"受够了"用 **sick of** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I'm so sick of cramming onto the subway to get to work every day.
-
-- 2026-11-11 ❌ 首犯 · 学习日 在池第 2 组 [9]（#638 题里）· 她标「这个短语又忘了，召回下，本来我想用 bear」· 原话 `everyone is completely sick of it.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [6] · `I'm so sick of squeezing onto the subway` —— 连错 1 → 连对 1
-
-### 648 · **commit a foul ／ foul sb**（体育比赛里犯规）
-类型 搭配 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**foul** ＝ 比赛里的犯规（名词），动词搭配 **commit a foul**：`He committed a foul in the last minute.`
-口语也直接当动词：`He fouled the other player.`（对那个球员犯规）；裁判吹犯规：`the referee called a foul`。
-同一格里的邻居（别串）：break the rules（违反规则，泛指）。
-判据一句话：体育比赛里的"犯规" ⇒ foul（commit a foul ／ foul sb）。
-★ 题型判整句："犯规"能落到 break the rules 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 复检第 3 组 [5]（#585 题面"裁判明明看到他犯规了，却故意不管。"）· 原话
-`The referee saw him commit the foul(这个词学下), but decided to just look the other way.`
-她写对了 commit the foul，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "foul" ⇒ 🎓#553 stench · 🎓#592 back up —— foul 在那里是"臭"，只出现在例句里 ⇒ 另一个意思，否
-　② 中文 dedup "犯规" ⇒ 命中的都是"教练犯规"留痕行，没有体育犯规的考点 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `commit the foul`，但词不在手边（自己标学下）　　目标：同她原句（泛指时 commit a foul）
-找法：中文"犯规" ⇒ commit a foul，或者 foul ＋ 人。
-
-**题面**
-"他上半场就犯了三次规，被教练换下去了。"（"犯规"用 **foul** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：He committed three fouls in the first half, so the coach took him out.
-
-- 2026-11-11 ❌ 首犯 · 学习日 复检第 3 组 [5]（#585 题里）· 她标「这个词学下」· 原话 `The referee saw him commit the foul, but decided to just look the other way.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [7] · `He committed three fouls in the first half alone` —— 连错 1 → 连对 1
-
-### 649 · **pirated**（盗版的：pirated books · a pirated copy）
-类型 词汇 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**pirated ＋ 东西** ＝ 盗版的：`pirated books` · `pirated DVDs` · `a pirated copy`（一份盗版）。
-动词 pirate ＝ 盗版；名词 piracy ＝ 盗版行为（online piracy）。
-同一格里的邻居（别串）：fake／knockoff（仿冒的商品，名牌包、鞋那种假货）。
-判据一句话：书、电影、软件的"盗版" ⇒ pirated；商品的"假货" ⇒ fake／knockoff。
-★ 题型判整句："盗版"能落到 fake 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 复检第 3 组 [10]（#590 题面"他在网上卖盗版书，最后被警察抓了。"）· 原话
-`He got busted by the cops in the end for selling pirated(背下) books online.`
-她写对了 pirated，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "pirate" ⇒ 全档零命中
-　② 中文 dedup "盗版" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `pirated books`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"盗版" ⇒ pirated ＋ 东西。
-
-**题面**
-"我小时候家里那些动画片光盘全是盗版的。"（"盗版"用 **pirated** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：All the cartoon DVDs we had at home when I was a kid were pirated.
-
-- 2026-11-11 ❌ 首犯 · 学习日 复检第 3 组 [10]（#590 题里）· 她标「背下」· 原话 `He got busted by the cops in the end for selling pirated books online.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [8] · `All the cartoon DVDs we had at home when I was a kid were pirated.` —— 连错 1 → 连对 1
-
-### 650 · **tucked away** ＋ 地点（藏在不起眼、不好找的地方：a café tucked away in an alley）
-类型 词组 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**be tucked away ＋ 地点** ＝ 藏在（偏僻、不显眼的地方），带一点"不好找、但找到了挺惊喜"的味道：
-`a little café tucked away in an alley` · `The village is tucked away in the mountains.`
-常直接挂在名词后面当修饰：`a guesthouse tucked away in …`
-同一格里的邻居（别串）：hidden（藏着，中性，只说看不见）· remote（偏远，只说离得远）。
-判据一句话：想说"藏在…里头、不好找的那种小地方" ⇒ tucked away in ＋ 地点。
-★ 题型判整句："藏着"能落到 hidden 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-11 学习日 ③ 重答 bank:434（P2 · Describe a home that you like to visit but do not want to live in）S1 · 原话
-`I'd like to talk about a guesthouse tucked away（这个词学下） in a super quiet plateau town out in western Sichuan.`
-她写对了 tucked away in，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "tucked"／"tuck" ⇒ 全档零命中；邻居 dedup "hidden" ⇒ 零命中
-　② 中文 dedup "藏在"／"偏僻" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `a guesthouse tucked away in …`，但词不在手边（自己标学下）　　目标：同她原句
-找法：说到"藏在"某处的店／房子／村子，先落 tucked away，后面接 in ＋ 地点。
-
-**题面**
-"我们学校后面的巷子里藏着一家特别好吃的面馆。"（"藏着"用 **tucked away** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：There's a really good noodle place tucked away in the alley behind our school.
-
-- 2026-11-11 ❌ 首犯 · 学习日 ③ 重答 bank:434 S1 · 她标「这个词学下」· 原话 `I'd like to talk about a guesthouse tucked away in a super quiet plateau town out in western Sichuan.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [9] · `an amazing little noodle shop tucked away in the alley` —— 连错 1 → 连对 1
-
-### 651 · **spotless**（一尘不染、干净得挑不出毛病：The kitchen is spotless.）
-类型 词汇 ｜ 新建 2026-11-11 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-13 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**spotless** ＝ 干净到一点污渍都没有，比 very clean 强一档：`The kitchen is spotless.` · `keep the place spotless`。
-同一格里的邻居（别串）：clean（中性的"干净"）· neat／tidy（整齐，说的是"乱不乱"，不是"脏不脏"）。
-判据一句话：夸"一尘不染、干净得发亮" ⇒ spotless；夸"收拾得整齐" ⇒ neat／tidy。
-★ 题型判整句："一尘不染"能落到 very clean 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
-★ 与 🎓#227（clear ≠ clean）分工：那条是形容词选词（清澈 vs 干净），本条是"干净"的程度词 ⇒ 两条，各走各的。
-
-**怎么发现的**
-2026-11-11 学习日 ③ 重答 bank:434 S4 · 原话
-`It definitely has a dated, old-school vibe to it, though everything is spotless（这个词学下） and neat.`
-她写对了 spotless，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "spotless" ⇒ 全档零命中；邻居 dedup "tidy" ⇒ 🎓#51 put away · 🎓#190 clear the table · 🎓#206（历史字样）⇒ 都否
-　② 中文 dedup "一尘不染"／"整洁" ⇒ 零命中；"干净" ⇒ 🎓#227 clear ≠ clean（选词，不是程度）等 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `everything is spotless`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文是"一尘不染／干净得发亮" ⇒ spotless。
-
-**题面**
-"我妈每天都要拖两遍地，家里总是一尘不染。"（"一尘不染"用 **spotless** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My mom mops the floor twice a day, so the house is always spotless.
-
-- 2026-11-11 ❌ 首犯 · 学习日 ③ 重答 bank:434 S4 · 她标「这个词学下」· 原话 `It definitely has a dated, old-school vibe to it, though everything is spotless and neat.`
-- 2026-11-13 ✅ 学习日 在池第 2 组 [10] · `our house is always spotless` —— 连错 1 → 连对 1
-
 ### 652 · **a spoonful of ＋ 东西**（一勺：two spoonfuls of salt）
 类型 词汇 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **spoonful** ＝ 一勺的量（spoon ＋ -ful）：`a spoonful of sugar` · `two spoonfuls of salt`。
@@ -1110,10 +736,11 @@ half a month 能懂，但英语说"半个月"用 two weeks ⇒ 更地道的说�
 ★ 目标形式（教练看，⛔ 不进发题稿）：I put a spoonful of sugar in my coffee every morning.
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 1 组 [6]（#637 题里）· 她标「背下」· 原话 `This bowl of soup was way too bland, so I added two more spoonfuls of salt.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [3] · `Every morning, I put a spoonful of sugar in my coffee.` —— 连错 1 → 连对 1
 
 ### 653 · **from ＋ 另一个介词短语**（from across the yard · from behind the door · from under the bed）
 类型 结构 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 中文"从 X 那头／后面／底下（过来）" ⇒ **from 后面直接再接一个介词短语**：
@@ -1143,10 +770,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），之后换 across／under／inside 等别的方位。
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 1 组 [9]（#640 题里）· 她标「这种 双重介词 的用法得学下」· 原话 `The second I called its name, the dog came running over from across the yard.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [4] · `I heard someone whisper my name from behind the door.` —— 连错 1 → 连对 1
 
 ### 654 · **more than enough**（够了还有富余、绰绰有余）
 类型 词组 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **more than enough** ＝ 不光够，还多出来：`one bite is more than enough` · `We have more than enough food.`
@@ -1173,10 +801,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：This is more than enough food for the four of us.
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 2 组 [2]（#643 题里）· 她标「这个 more than + enough 可以学下」· 原话 `The cakes at this place are way too sugary; one bite is more than enough.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [5] · `This food is more than enough for the four of us.` —— 连错 1 → 连对 1
 
 ### 655 · **the better part of ＋ 时间段**（大半年：the better part of a year）
 类型 词组 ｜ 新建 2026-11-13
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **the better part of a year** ＝ 一年里的大部分 ＝ 中文"大半年"；同理 the better part of a day（大半天）· the better part of an hour（大半个小时）。
@@ -1202,10 +831,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：I spent the better part of a year preparing for this certificate.
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 2 组 [3]（#644 题里）· ⚠️ 不地道 · 原话 `After she broke up with her boyfriend, it took her over half a year to finally get over him.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [6] · `I spent the better part of a year preparing for it` —— 连错 1 → 连对 1
 
 ### 656 · **a match**（红娘撮合成的一对：none of her matches worked out）
 类型 词汇 ｜ 新建 2026-11-13
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **match**（名词）＝ 撮合／配对成的一对：`none of her matches have worked out` · `They're a perfect match.`
@@ -1232,10 +862,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：I introduced them to each other—they were my first successful match.
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 2 组 [5]（#646 题里）· ⚠️ 不地道 · 原话 `My aunt loves playing matchmaker for young people, though sadly none of the pairs have worked out.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [7] · `they're pretty much my first successful match` —— 连错 1 → 连对 1
 
 ### 657 · **take sb off**（比赛里把人换下场；⛔ change sb out）
 类型 词组 ｜ 新建 2026-11-13
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **take sb off** ＝ 教练把球员换下场：`The coach took him off at half-time.`
@@ -1262,10 +893,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：He got injured in the twentieth minute, so the coach had to take him off.
 
 - 2026-11-13 ❌ 首犯 · 学习日 在池第 2 组 [7]（#648 题里）· ⚠️ 不地道 · 原话 `He committed three fouls in the first half alone, so the coach changed him out.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [8] · `so the coach had no choice but to take him off` —— 连错 1 → 连对 1
 
 ### 658 · **we／us ＋ 名词**（我们这些…：we students · all of us kids）
 类型 结构 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 英语可以把 **we／us 直接放在名词前面**，意思是"我们这些 X"：`we students` · `us kids` · `we office workers`。
@@ -1293,10 +925,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 换场景时轮换主语位（we）和宾语位（us）。
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 3 组 [1]（#600 题里）· 她标「us + noun. 的用法学下」· 原话 `My grandpa gave us one stern look, and all of us kids stopped messing around right away.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [9] · `We office workers just want to stay home and sleep on weekends.` —— 连错 1 → 连对 1
 
 ### 659 · **mess around**（瞎闹、胡闹、不干正事瞎玩）
 类型 词组 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **mess around** ＝ 不干正事、瞎闹瞎玩：`Stop messing around and do your homework.`
@@ -1322,10 +955,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：As soon as the teacher left the classroom, the boys in the back started messing around.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 3 组 [1]（#600 题里）· 她标「这个词组学下」· 原话 `My grandpa gave us one stern look, and all of us kids stopped messing around right away.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [10] · `a few guys in the back row started messing around` —— 连错 1 → 连对 1
 
 ### 660 · **ache**（隐隐地疼、酸疼：my back aches · left my back aching）
 类型 词汇 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **ache** ＝ 持续的、闷闷的疼（动词）：`My back aches.` · `My legs were aching.` · `it left my back aching`。
@@ -1352,10 +986,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：After a whole day of moving, I was aching all over the next day.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 3 组 [4]（#603 题里）· 她标「这个词也学下」· 原话 `That old bus was super bumpy the whole way—it left my lower back aching.`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [1] · `After moving all day, my whole body was aching the next day.` —— 连错 1 → 连对 1
 
 ### 661 · **all over the place**（没规律、乱、变来变去：The weather's been all over the place.）
 类型 词组 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **all over the place** 两个意思：① 到处都是（`toys all over the place`）② 没规律、乱、变来变去（`The weather's been all over the place.` · `My sleep schedule is all over the place.`）。
@@ -1382,10 +1017,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：His sleep schedule is all over the place—sometimes he goes to bed at 3 a.m., sometimes at 9 p.m.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 3 组 [10]（#271 题里）· 她标「这个短语学下」· 原话 `I've been learning how to cook recently. And the weather has been all over the place lately.`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [2] · `His sleep schedule is all over the place` —— 连错 1 → 连对 1
 
 ### 662 · **take attendance**（上课点名：看一遍谁来了）
 类型 词组 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **take attendance** ＝ 课上点名、看谁到了：`The teacher takes attendance at the start of every class.`
@@ -1412,10 +1048,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Our professor takes attendance at the start of every class, and anyone who's late gets marked absent.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 4 组 [1] 打包 a（#608 题里）· 她标「这个短语学下」· 原话 `the homeroom teacher standing at the stage taking attendance on the first day of school`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [3] · `Our professor takes attendance at the start of every class` —— 连错 1 → 连对 1
 
 ### 663 · **at the front of the classroom**（教室里的"讲台上／讲台前"；⛔ at the stage）
 类型 搭配 ｜ 新建 2026-11-13
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 教室里的"讲台" ⇒ **the front of the classroom**：`stand at the front of the classroom` · `come up to the front`。
@@ -1441,10 +1078,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：The teacher asked me to come up to the front and write the answer on the board.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 4 组 [1] 打包 a（#608 题里）· ⚠️ 不地道 · 原话 `the homeroom teacher standing at the stage taking attendance on the first day of school`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [4] · `The teacher asked me to come up to the front` —— 连错 1 → 连对 1
 
 ### 664 · **bestie**（闺蜜、最好的朋友，口语）
 类型 词汇 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **bestie** ＝ best friend 的口语说法，朋友之间常用：`my bestie and I`。
@@ -1470,10 +1108,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My bestie and I take a trip together every year.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 4 组 [2]（#609 题里）· 她标「背下」· 原话 `My bestie hasn't stopped raving about this new hair salon she found to everyone she meets.`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [5] · `My bestie and I go on a trip together once every year.` —— 连错 1 → 连对 1
 
 ### 665 · **side character**（配角；演员层面 ⇒ a supporting role）
 类型 词汇 ｜ 新建 2026-11-13 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-13 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-14 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **side character** ＝ 配角（故事里的次要角色）；主角 ⇒ main character／the lead。
@@ -1499,6 +1138,339 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 ★ 目标形式（教练看，⛔ 不进发题稿）：My favorite character in this cartoon isn't the main character—it's that chatty side character.
 
 - 2026-11-13 ❌ 首犯 · 学习日 复检第 4 组 [10]（#542 题里）· 她标「配角单词学下」· 原话 `That side character's backstory is even more touching than the main character's.`
+- 2026-11-14 ✅ 付息日 在池第 3 组 [6] · `it's that super talkative side character` —— 连错 1 → 连对 1
+
+### 666 · **set sb up with sb**（给人介绍对象、牵线）
+类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**set sb up with sb** ＝ 给某人介绍对象、牵线让两个人认识约会：`She set me up with her coworker.`
+代词夹在中间：set me up with ／ set them up；被介绍的一方：get set up with sb。
+同一格里的邻居（别串）：play matchmaker（当红娘这个角色，🎓#646）· introduce A to B（泛指介绍认识，不一定是对象）。
+判据一句话：介绍的是"对象"（想让俩人谈恋爱）⇒ set sb up with sb。
+★ 题型判整句："介绍"能落到 introduce 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 在池第 1 组 [7]（#646 题面"我同事总想给我当红娘，非要介绍她表哥给我认识。"）· 原话
+`My coworker is always trying to play matchmaker for me and keeps insisting on setting me up with her cousin.(set .. up with. 学下)`
+她写对了 setting me up with，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "set up" ⇒ 🎓#85 set up a business（开公司）· 🎓#568 set up a tent（搭帐篷）—— 同一个动词、不同的词组 ⇒ 否；其余命中只是历史行字样 ⇒ 否
+　② 中文 dedup "介绍" ⇒ #656 match · 🎓#646 play matchmaker（两条正文都把 set sb up 列成邻居，没有自己的号）· 🎓#428 featured（字样）⇒ 考点不同 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `setting me up with her cousin`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"给我介绍对象／撮合我和谁" ⇒ set me up with ＋ 人。
+
+**题面**
+"我妈总想给我介绍她朋友的儿子。"（"介绍"用 **set up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom keeps trying to set me up with her friend's son.
+
+- 2026-11-14 ❌ 首犯 · 付息日 在池第 1 组 [7]（#646 题里）· 她标「set .. up with. 学下」· 原话 `keeps insisting on setting me up with her cousin.`
+
+### 667 · **foul out**（篮球犯满离场；⛔ be booted out）
+类型 词组 ｜ 新建 2026-11-14
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**foul out (of the game)** ＝ 犯规次数满了、按规则必须离场：`He fouled out in the fourth quarter.`
+不及物、主语是球员，⛔ 不用被动（⛔ be fouled out）。
+同一格里的邻居（别串）：take sb off（教练主动换人下场，#657）· get ejected／get thrown out（犯大错被罚下场）。
+判据一句话：因为犯规次数满了离场 ⇒ foul out；教练换人 ⇒ take sb off。
+★ 题型判整句："犯满离场"能落到 leave the game 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 在池第 1 组 [9]（#648 题面"那个篮球运动员第三节就犯满了五次规，只能下场。"）· 原话
+`That basketball player committed five fouls in the third quarter after , so he had to be budded out.`
+budded ＝ booted 拼写（§2.1 不算）；⚠️ 不地道：booted out 是"被赶出去"，听着像犯大错被罚下场，犯满离场有专门说法 ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "foul" ⇒ #648 commit a foul（犯规这个动作）—— 不同的词组 ⇒ 否；其余命中是"臭"的意思 ⇒ 否
+　② 中文 grep "下场" ⇒ #657 take sb off（教练换人）—— 不同的事 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：so he had to be booted out　　更地道：so he fouled out
+找法：说到"犯满了…下场" ⇒ foul out，球员当主语、主动语态。
+
+**题面**
+"我们队最好的后卫第四节犯满离场了，最后输了三分。"（"犯满离场"用 **foul out** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Our best guard fouled out in the fourth quarter, and we ended up losing by three.
+
+- 2026-11-14 ❌ 首犯 · 付息日 在池第 1 组 [9]（#648 题里）· ⚠️ 不地道 · 原话 `so he had to be budded out.`
+
+### 668 · **whisper**（小声说、悄悄说）
+类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**whisper** ＝ 压低声音、用气声说（动词，也作名词）：`She whispered something in my ear.` · `in a whisper`
+hear sb whisper sth（听见某人小声说）· whisper to sb（跟某人说悄悄话）。
+同一格里的邻居（别串）：mutter（嘟囔，自言自语、听不清）· say quietly（泛指小声说）。
+判据一句话：故意压低声音、不想让别人听见 ⇒ whisper。
+★ 题型判整句："小声说"能落到 say quietly 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 在池第 2 组 [4]（#653 题面"我听见有人从门后面小声喊我的名字。"）· 原话
+`I heard someone whisper(背下) my name from behind the door.`
+她写对了 whisper，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "whisper" ⇒ 全档零命中
+　② 中文 dedup "小声" ⇒ 只命中 #653（题面字样，考点是 from behind）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `whisper my name`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"小声说／悄悄说／耳语" ⇒ whisper。
+
+**题面**
+"开会的时候，同事凑过来小声跟我说老板今天心情不好。"（"小声说"用 **whisper** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：During the meeting, my coworker leaned over and whispered that the boss was in a bad mood today.
+
+- 2026-11-14 ❌ 首犯 · 付息日 在池第 2 组 [4]（#653 题里）· 她标「背下」· 原话 `I heard someone whisper my name from behind the door.`
+
+### 669 · **时间段 ＋ in**（开始以后第几分钟／几年：twenty minutes in）
+类型 句型 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**时间段 ＋ in** ＝ 某件事开始以后过了这么久：`twenty minutes in`（比赛开了 20 分钟）· `two years in`（干了两年）。
+in 放在时间段后面，后面不带东西；要说出是什么事 ⇒ 换成 **into ＋ 那件事**：`ten minutes into the movie`。
+同一格里的邻居（别串）：in twenty minutes（再过 20 分钟，从现在往后数）· after twenty minutes（泛指过了 20 分钟）。
+判据一句话：从某件事开始往后数到"第几分钟／第几年" ⇒ 时间段 ＋ in／into。
+★ 题型判整句：考点是 in 挂在时间段后面的位置，单翻一个块测不出。
+
+**怎么发现的**
+2026-11-14 付息日 在池第 2 组 [8]（#657 题面"他第二十分钟就受了伤，教练只好把他换下场。"）· 原话
+`He got injured just twenty minutes in(in 放后面的语法学下), so the coach had no choice but to take him off.`
+她写对了 twenty minutes in，但自己标「in 放后面的语法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "minutes in" ⇒ 全档零命中；grep "years in／months in／weeks in" ⇒ 只有 14 years in the industry（"在这一行"的 in，不是本结构）⇒ 否
+　② dedup "into the" ⇒ 命中的都是方向／进入的 into（🎓#415 make it through to · 🎓#308 empty into 等）⇒ 不同结构 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `twenty minutes in`，但结构不在手边（自己标学下）　　目标：同她原句
+找法：中文"开场第几分钟／干了几年以后／看到第几分钟" ⇒ 时间段放前面 ＋ in（要说出是什么事 ⇒ into ＋ 事）。
+
+**题面**
+"电影才开始十分钟，我就猜到结局了。"（"才开始十分钟"用 **in** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Ten minutes in, I'd already guessed the ending.／Ten minutes into the movie, I'd already guessed the ending.
+
+- 2026-11-14 ❌ 首犯 · 付息日 在池第 2 组 [8]（#657 题里）· 她标「in 放后面的语法学下」· 原话 `He got injured just twenty minutes in, so the coach had no choice but to take him off.`
+
+### 670 · **sometimes …, other times …**（有时候…，有时候…）
+类型 句型 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**sometimes A, (and) other times B** ＝ 有时候 A、有时候 B（同一个人／事在不同时候不一样）：`Sometimes she walks to work, other times she takes the bus.`
+第二个"有时候"⛔ 不再说 sometimes，换成 **other times**（＝ 别的时候）；也可以说 at other times。
+同一格里的邻居（别串）：some … others …（有的人…有的人…，分的是人／东西，不是时候）。
+判据一句话：中文连着两个"有时候"对比 ⇒ 第一个 sometimes，第二个 other times。
+★ 题型判整句：考点是两个"有时候"在句子里的对比搭配，单翻一个块测不出。
+
+**怎么发现的**
+2026-11-14 付息日 在池第 3 组 [2]（#661 题面"他的作息完全没规律，有时候凌晨三点睡，有时候晚上九点就睡了。"）· 原话
+`sometimes he goes to bed at 3 a.m., and other times（这个other times 学下) he crashes at 9 p.m.`
+她写对了 other times，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "other times" ⇒ 全档零命中
+　② 中文 dedup "有时候" ⇒ #661（题面字样，考点是 all over the place）· 🎓#463 talk sth through · 🎓#464 tactics（例句字样）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `sometimes … and other times …`，但句型不在手边（自己标学下）　　目标：同她原句
+找法：说完 sometimes A，要接第二个"有时候" ⇒ other times。
+
+**题面**
+"我上班有时候骑车，有时候坐地铁，看天气。"（第二个"有时候"用 **other times** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Sometimes I bike to work, other times I take the subway—it depends on the weather.
+
+- 2026-11-14 ❌ 首犯 · 付息日 在池第 3 组 [2]（#661 题里）· 她标「这个other times 学下」· 原话 `sometimes he goes to bed at 3 a.m., and other times he crashes at 9 p.m.`
+
+### 671 · **expense reimbursement**（报销；动词 reimburse sb）
+类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**reimbursement** ＝ 报销（名词）：`the expense reimbursement process`（报销流程）· `submit a reimbursement request`（交报销单）。
+动词 **reimburse sb (for sth)**：`The company reimbursed me for the taxi.`；口语更常说 get reimbursed ／ pay sb back。
+同一格里的邻居（别串）：pay sb back（把垫的钱还给人，🎓#472 正文里的邻居）· refund（退款，商家把钱退回来）。
+判据一句话：公司把你垫付的钱还给你 ⇒ reimburse／reimbursement；商家退钱 ⇒ refund。
+★ 题型判整句："报销"中文块映射得回，但 reimburse 是动词还是名词、人放哪儿要靠句子才现形 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 复检第 4 组 [4]（#617 题面"这个新的报销流程太复杂了，我研究了一下午都没搞懂。"）· 原话
+`This new expense reimbursement(背下) process is way too complicated—I spent all afternoon trying to wrap my head around it and still couldn't figure it out.`
+她写对了 expense reimbursement，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "reimburse" ⇒ 只命中 🎓#472 pay out（正文把 reimburse sb 列成邻居，没有自己的号）⇒ 否
+　② 中文 dedup "报销" ⇒ 🎓#466 sign off（题面字样）· 🎓#472（同上）· 🎓#510 ins and outs（字样）⇒ 考点不同 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `expense reimbursement process`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"报销" ⇒ reimbursement（名词）／ get reimbursed、reimburse sb（动词）。
+
+**题面**
+"出差打车的钱公司全给报销，只要留好发票就行。"（"报销"用 **reimburse** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：The company reimburses all your taxi fares on business trips—you just have to keep the receipts.
+
+- 2026-11-14 ❌ 首犯 · 付息日 复检第 4 组 [4]（#617 题里）· 她标「背下」· 原话 `This new expense reimbursement process is way too complicated`
+
+### 672 · **形容词 ＋ around ＋ 人**（在谁面前／跟谁在一起时怎么样：shy around people）
+类型 结构 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**shy／nervous／comfortable／awkward ＋ around ＋ 人** ＝ 跟这些人在一起的时候是什么状态：
+`She's shy around strangers.` · `I feel nervous around big dogs.` · `I can be myself around her.`
+around 在这里不是"周围"，是"有这些人在场的时候"。
+同一格里的邻居（别串）：afraid of（怕某个东西，后面是怕的对象）· in front of（当着…的面，强调被看着）。
+判据一句话：说"在谁面前／跟谁在一起时"自己什么状态 ⇒ 形容词 ＋ around ＋ 人。
+★ 题型判整句：考点是 around 挂在形容词和人之间，单翻一个块测不出。
+
+**怎么发现的**
+2026-11-14 付息日 复检第 4 组 [8]（#544 题面"那只流浪狗一开始很怕人，现在已经肯让我摸它的头了。"）· 原话
+`That stray dog was super shy around(这个 around 的用法学下) people at first, but now it finally lets me pet its head.`
+她写对了 shy around people，但自己标「around 的用法学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "around" ⇒ 44 条全是别的词组（🎓#495 beat around the bush · #659 mess around · 🎓#617 wrap one's head around · 🎓#474 getting around …）⇒ 否
+　② grep "shy around／nervous around／comfortable around／around people／around strangers" ⇒ 全档零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `shy around people`，但用法不在手边（自己标学下）　　目标：同她原句
+找法："在…面前很拘谨／一见…就紧张" ⇒ 形容词 ＋ around ＋ 人。
+
+**题面**
+"我儿子在亲戚面前特别害羞，一句话都不肯说。"（"在亲戚面前"用 **around** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My son is really shy around our relatives—he won't say a word.
+
+- 2026-11-14 ❌ 首犯 · 付息日 复检第 4 组 [8]（#544 题里）· 她标「这个 around 的用法学下」· 原话 `That stray dog was super shy around people at first`
+
+### 673 · **stuff sth away**（随手塞起来收着；stuff sth into ＋ 地方）
+类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stuff sth away** ＝ 把东西胡乱一塞、收起来不管：`I stuffed the dirty clothes away in the closet.`
+**stuff sth into ＋ 地方**（往…里一塞）：`She stuffed the letter into her bag.`；代词放中间：stuff it away。
+同一格里的邻居（别串）：put sth away（规规矩矩放回原处）· tuck sth away（小心藏好、放在不起眼的地方）。
+判据一句话：随手、胡乱地塞起来 ⇒ stuff away／into；整整齐齐放好 ⇒ put away。
+★ 题型判整句："塞"能落到 put 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 复检第 5 组 [4] 打包 a（#554 题面"露营回来那个捂了三天的臭睡袋"）· 原话
+`that smelly sleeping bag from camping that had been stuffed away（这个词组学下) for three days`
+她写对了 stuffed away，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "stuff" ⇒ 命中的都是名词 stuff（东西）或字样（🎓#186 🎓#450 🎓#616 等）⇒ 否
+　② 中文 dedup "塞" ⇒ 🎓#67 可分离动词位置（put it away 的规则，不是这个词组）· 🎓#403 squeeze onto（挤上车）等，都不是"塞起来收着" ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `had been stuffed away`，但词组不在手边（自己标学下）　　目标：同她原句
+找法：中文"一塞／塞起来就不管了" ⇒ stuff (sth) away／into。
+
+**题面**
+"客人要来了，我赶紧把沙发上的衣服全塞进衣柜里。"（"塞进"用 **stuff** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Guests were coming, so I quickly stuffed all the clothes on the couch into the closet.
+
+- 2026-11-14 ❌ 首犯 · 付息日 复检第 5 组 [4] 打包 a（#554 题里）· 她标「这个词组学下」· 原话 `that smelly sleeping bag from camping that had been stuffed away for three days`
+
+### 674 · **attic**（阁楼）
+类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**attic** ＝ 房子最顶上、屋顶下面那一层（阁楼），常用来堆旧东西：`in the attic` · `clean out the attic`。
+同一格里的邻居（别串）：basement（地下室）· loft（也指阁楼，常是能住人、开放的那种）。
+判据一句话：屋顶底下堆杂物的那层 ⇒ attic。
+★ 题型判整句：同 🎓#641 等她点名背的单词先例，整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 复检第 5 组 [7]（#558 题面"收拾老家阁楼的时候翻出了我小学的作业本，一下子勾起了好多回忆。"）· 原话
+`While cleaning out the attic(背下) at my parents' place, I dug up my old elementary school workbooks`
+她写对了 attic，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "attic" ⇒ 全档零命中
+　② 中文 dedup "阁楼" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `the attic`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"阁楼" ⇒ attic。
+
+**题面**
+"我们家阁楼上堆满了我爸舍不得扔的旧报纸。"（"阁楼"用 **attic** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Our attic is packed with old newspapers my dad can't bring himself to throw away.
+
+- 2026-11-14 ❌ 首犯 · 付息日 复检第 5 组 [7]（#558 题里）· 她标「背下」· 原话 `While cleaning out the attic at my parents' place`
+
+### 675 · **alumni**（校友，复数；单数口语 an alum）
+类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**alumni** ＝ 校友（复数，最常用）：`Many alumni came back for the anniversary.`
+单数 alumnus（男／泛指）· alumna（女），口语里单数常说 an alum；"老校友"直接说 alumni，不用加 old。
+同一格里的邻居（别串）：classmate（同班同学）· schoolmate（同校同学，在校期间）。
+判据一句话：从这个学校毕业的人 ⇒ alumni。
+★ 题型判整句：同 🎓#641 等她点名背的单词先例，整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-14 付息日 复检第 6 组 [8]（#416 题面"大学校庆那天晚上办了一场盛大的晚会，好多老校友都回来了。"）· 原话
+`On the night of the university's anniversary, they threw a big gala, and tons of alumni（这个词背下） came back.`
+她写对了 alumni，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
+判重三步：
+　① 目标形式 dedup "alumn" ⇒ 全档零命中
+　② 中文 dedup "校友" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `tons of alumni`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"校友" ⇒ alumni（一个人 ⇒ an alum）。
+
+**题面**
+"我们公司有好几个同事都是我的大学校友。"（"校友"用 **alumni** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Several of my coworkers are alumni of my university.
+
+- 2026-11-14 ❌ 首犯 · 付息日 复检第 6 组 [8]（#416 题里）· 她标「这个词背下」· 原话 `they threw a big gala, and tons of alumni came back.`
+
+### 676 · **hold its own**（站得住、不被比下去：The product can hold its own.）
+类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-14 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**hold one's own** ＝ 跟别人、跟对手比，不落下风、不被比下去。
+`The product can hold its own against the big brands.` · `She's new, but she can hold her own in any debate.`
+· 物主代词跟着主语换：it → its ／ she → her ／ we → our ／ they → their own
+· 后面可接 against ＋ 对手、in ＋ 场合；单用也成立
+同一格里的邻居（别串）：stand out（比别人更出挑，比 hold one's own 高一档）· keep up (with)（跟得上、不掉队）。
+判据一句话：想说"能跟别人比、不被比下去" ⇒ hold one's own，own 前面的物主代词跟着主语换。
+★ 题型判整句：要逼出物主代词跟主语走（our／their own），孤立词组题测不到这一层 ⇒ 整句 ＋ 正向点名 hold one's own。
+
+**怎么发现的**
+2026-11-14 付息日 d 段重答 bank:414（P3 · Is advertising important for a company? Why?）S4 · 原话
+`whether its product can actually hold its own（hold its own 学一下）, not just how much it advertises.`
+她写对了 hold its own，但自己标「hold its own 学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #631 #634 先例）。
+判重三步：
+　① 目标形式 hold one's own；grep "hold its own／hold their own／hold your own" ⇒ 全档零命中
+　② dedup "hold" ⇒ 命中 10 条：#429 hold a grudge 是另一个词组 ⇒ 否；#339 #459 #606 #96 #206 #372 #438 #476 #644 只是正文或历史里出现 hold 这个词，考点无关 ⇒ 否
+　③ 中文 dedup "站得住" ⇒ #301 #356（正文碰巧用了这三个字，考点无关）⇒ 否；"不落下风" ⇒ 零命中 ⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `can actually hold its own`，但块不在手边（自己标学一下）　　目标：同她原句
+找法：说到"不落下风／站得住"先调 hold one's own，再看主语，把物主代词换对。
+
+**题面**
+"我们队全是新人，可跟那支老牌强队打，一点没落下风。"（"没落下风"用 **hold one's own** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Our team was all newbies, but we held our own against that veteran team.
+
+- 2026-11-14 ❌ 首犯 · 付息日 d 段重答 bank:414 S4 · 她标「hold its own 学一下」· 原话 `whether its product can actually hold its own（hold its own 学一下）, not just how much it advertises.`
 
 ## 迁移说明（2026-08-18）
 

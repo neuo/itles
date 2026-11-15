@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-13 · 口语 L3（周期 17 第 3 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-14 · 口语 R（付息日 · 周期 17 收尾）· 已收尾**
+  —— 在池 3 组 **26 题 / 26 条 ✅26**；复检 5 组 **50 题 / 59 条 ✅59**（在池只排得出 3 组，空出的 2 组下溢给复检）；回潮 0
+  —— 🎓 **毕业 12 条**（#630 #641–#651）⇒ 全档 **652** ＝ problems 35 ＋ graduated **617**（94.6%）
+  —— 🆕 **新建 11 条** #666–#676：她标学下／背下 10 条（set sb up with sb · whisper · 时间段 ＋ in · sometimes…other times · expense reimbursement · 形容词 ＋ around ＋ 人 · stuff sth away · attic · alumni · hold its own）＋ ⚠️ 不地道 1 条（foul out，她写 budded out）
+  —— ⓪ 回看 bank:434 ｜ c 段合并 0、拆号 0 ｜ 🎓#396 正文补 with ＋ 名词 ＋ at stake 也成立
+  —— d 段重答 bank:414 **零真错**（旧答 1 的 sells well 与 not sufficient 两处都没再犯，旧答更好版补的那层机制这次自己说出来了）；🎓#267 🎓#58 自发命中
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 12⇄0
+  —— **下一场 ＝ 周期 18 · L1**：pick --type learn 以 --date 为准；② lookback --pending（bank:414）；④ redo 第 1 行（bank:1371）
+
+🆕🆕 **2026-11-13 · 口语 L3（周期 17 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **20 题 / 20 条 ✅20**（#630 two weeks 终于对了，连错 3 → 连对 1）；复检 2 组 **20 题 / 25 条 ✅25**；回潮 0
   —— 🎓 **毕业 8 条**（#633–#640）⇒ 全档 **641** ＝ problems 36 ＋ graduated **605**（94.4%）
   —— 🆕 **新建 14 条** #652–#665：她标学下／背下 10 条（spoonful · from ＋ 介词短语 · more than enough · us kids · mess around · ache · all over the place · take attendance · bestie · side character）＋ ⚠️ 不地道 4 条（the better part of a year · a match · take sb off · at the front of the classroom）
