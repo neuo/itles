@@ -1,6 +1,6 @@
 {
   "n": 5,
-  "date": null,
+  "date": "2026-11-15",
   "stage": "S",
   "newRule": "S5",
   "note": "复检和练习都不提示每题用哪条规则。题面写成「原词 + 后缀」的，大写的是原词重读的音节；括号里写的是这个词在这里的词性。",
@@ -55,5 +55,19 @@
       "syllables": ["e", "lec", "tri", "cian"], "answer": 3, "ipa": "ɪ.ˌlek.ˈtrɪ.ʃn", "rule": "S1",
       "explain": "词尾 -ian（这里写成 -cian）→ 后缀前一个音节：tri。原词 eLECtric。" }
   ],
-  "review": null
+  "review": {
+    "done": true,
+    "items": {
+      "r1": { "note": "她选 his，正确 to。his 是原词 HIStory 重读的地方：她让重音留在原词上没挪，像 S4 那样。-ian 是 S1 的后缀，会把重音拉到它前面那个音节。r4 是同一个错法。上一次刚学了 S4「不挪」，多半是把它套到了 -ian、-ic 上。" },
+      "r4": { "note": "她选 tram，就是题面大写的原词重读音节，没挪。-ic 是 S1 的后缀，会挪到 pe。和 r1 一样，把 S4「不挪」用到了会挪的后缀上。上一次同样题面的 DRAvonate + -ion 她挪对了，这次复检两道 S1 都没挪；同一次练习里的 electrician 又挪对了。" },
+      "p6": { "note": "她选 flict，正确 con。题面写的是名词，按 S5 名词重读第 1。两种可能：多半是看到 con 像前缀，按「前缀弱读、重音在词根」选了后面 —— 那是动词的情况；也可能平时听到的是动词 conFLICT。同一批的 suspect（名词）她选对了。" }
+    },
+    "summary": [
+      "复检 4/6，练习 9/10。",
+      "复检错的两道都是 S1，错法一样：重音留在原词重读的地方没挪（historian 选了 HIStory 的 his，TRAMpet + -ic 选了 tram）。上一次刚学了 S4「不挪」，多半是套到了 -ian、-ic 上。",
+      "判别办法：先认后缀是哪一组。-ic、-ion、-ity、-ian（S1）和 -ee、-eer、-ese（S3）会挪；-ment、-ness、-ful、-less、-er、-ly、-able、-ing、-ed（S4）不挪。",
+      "新规则 S5 六题对五题，错的是 conflict（名词）选了第 2 音节。"
+    ],
+    "qa": []
+  }
 }
