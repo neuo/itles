@@ -1,5 +1,6 @@
 // 自然拼读练习工具（本地用，无第三方依赖）
 //   node phonics/app/server.js [--port 4310] [--root <另一份 phonics 目录，测试用>]
+//   平时不用手动起：phonics/app/service.sh install 让它在后台常驻。
 //
 // 网页只是界面。数据都在 phonics/data/ 和 phonics/rules.md：
 //   data/sessions/NNN.json  教练写：题目 + 复核（review）

@@ -3,8 +3,7 @@
   "configurations": [
     {
       "name": "phonics",
-      "runtimeExecutable": "node",
-      "runtimeArgs": ["phonics/app/server.js"],
+      "url": "http://localhost:4310",
       "port": 4310
     }
   ]

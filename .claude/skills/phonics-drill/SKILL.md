@@ -62,9 +62,16 @@ description: 自然拼读（美音）训练线 — 重音规则 + 拼读规则�
       测试只在临时目录造数据，⛔ 不碰真档案。
       要拿真数据的副本试东西：cp -R phonics <临时目录>，命令后加 `--root <临时目录>`。
 
-0.1.4 网页：desktop app 里 `preview_start` 名字 `phonics`（.claude/launch.json）；
-      否则后台跑 `node phonics/app/server.js` → http://localhost:4310 。需要本机有 espeak-ng。
-      网页只写 `data/answers/`，其余只读。它不能通知教练 —— 她做完要回对话说一声。
+0.1.4 网页：http://localhost:4310 。在她这台 Mac 上后台常驻（launchd）：登录后自动启动，挂了自动拉起。
+      管它用 `phonics/app/service.sh`：install · restart · status · log · uninstall
+      · 让她去网页之前 ⇒ `service.sh status`，看到「→ 200」才算通。
+        没装 ⇒ `service.sh install`。装了但不通 ⇒ `service.sh log` 看原因，修好后 `service.sh restart`。
+      · ★ 改过 `phonics/app/` 里的任何代码 ⇒ 测试全绿后 `service.sh restart`，再看到「→ 200」。
+        server.js 和 lib/ 一改它会自己重启；但改到一半报错时它会停住等下一次改动，所以收工前手动重启一次。
+        public/ 的页面文件、data/ 的数据、rules.md 每次请求现读，改了不用重启。
+      · 要在 app 里把页面开给她看：`preview_start` 名字 `phonics`（只连到已经在跑的服务，不另起进程）。
+      · 不在这台 Mac 上（云端 session）⇒ 没有网页，她在对话里作答。
+      网页需要本机有 espeak-ng。它只写 `data/answers/`，其余只读。它不能通知教练 —— 她做完要回对话说一声。
 ```
 
 ---
@@ -114,7 +121,7 @@ description: 自然拼读（美音）训练线 — 重音规则 + 拼读规则�
 
 1. §0.1.0 同步 → `cli.js status`。
 2. 按「下一步」走：
-   - **有一次已出题没做完** ⇒ ⛔ 不出新题。启动网页，提醒她去做（或问她要不要贴到对话里）。
+   - **有一次已出题没做完** ⇒ ⛔ 不出新题。确认网页通（§0.1.4），提醒她去做（或问她要不要贴到对话里）。
    - **有一次做完没复核** ⇒ 先复核（§3.3），再出下一次。
    - **都结清了** ⇒ 出题（§3.2）。
 
@@ -128,7 +135,7 @@ description: 自然拼读（美音）训练线 — 重音规则 + 拼读规则�
 4. 写新规则的正文进 `rules.md`（§2）；写 `phonics/data/sessions/NNN.json`（§4）。作答文件不用建，网页提交时会自己生成。
 5. `cli.js check` → ERROR 0。
 6. 提交并推送（题目文件 ＋ 规则正文），免得题丢了。
-7. 启动网页，告诉她。**通知只说这些**，例：
+7. 确认网页通（§0.1.4），告诉她。**通知只说这些**，例：
    ```
    第 4 次出好了：复检 9 题，新规则是「不改重音的后缀」（-ment、-ness、-ly 这类后缀加上去，重音留在原词的位置），练习 10 题。
    在网页里做，或者说「贴到对话里」。做完回来说一声「第 4 次做完了」。
@@ -337,7 +344,7 @@ phonics/
 │   ├── bank.json         ★ 加练题库（教练手写）
 │   ├── answers/drill.json  加练的作答：网页一题一条往后追加；对话里作答时教练追加
 │   └── pool.json           规则池 ＝ `settle` 的输出（⛔ 不手改）
-├── app/                    网页 ＋ 工具（server.js · cli.js · test.js · lib/ · public/）
+├── app/                    网页 ＋ 工具（server.js · cli.js · test.js · service.sh · lib/ · public/）
 ├── 02_method.md            为什么这么学：原则的理由、规则覆盖率的背景数据
 ├── 01_my_situation.md      建线时的事实底稿
 ├── baseline_2026-11-14.md  美音基线：假词 42 ＋ 重音 24 的逐题批改，她的弱项在这里
@@ -367,7 +374,7 @@ phonics/
 ③ 加练题库：这次讲了新规则 ⇒ 补这条规则的题；`status` 提示题库不足 ⇒ 补题（§3.6）
 ④ node phonics/app/cli.js settle
 ⑤ node phonics/app/cli.js check        —— ERROR 必须为 0，有就当场改完
-⑥ 改过脚本的那次：node phonics/app/test.js 全绿
+⑥ 改过脚本的那次：node phonics/app/test.js 全绿 → phonics/app/service.sh restart 看到「→ 200」
 ⑦ git commit → git push origin main    —— ⛔ 不开分支、不开 PR
    提交说明：自然拼读 第 N 次 · 复检结果 · 新讲哪条 · 规则池变化（抄 settle 那几行）
    推不上去 ⇒ ⛔ 不 force：先 git pull --ff-only origin main，拉不下来就停下报给她
