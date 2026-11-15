@@ -3,7 +3,7 @@
 const view = document.getElementById('view');
 const ICON = { ok: '✅', wrong: '❌', warn: '⚠️' };
 let overview = null;
-let rulesCache = null;
+let bootBuild = null; // 这个页面加载时的网页版本；版本变了就自己刷新
 
 // ---------- 小工具 ----------
 
@@ -139,10 +139,8 @@ function md(text) {
   closeLists();
   return html;
 }
-async function loadRules() {
-  if (!rulesCache) rulesCache = await api('/api/rules');
-  return rulesCache;
-}
+// 不缓存：教练随时会往 rules.md 里加新规则，缓存住就会显示旧的
+const loadRules = () => api('/api/rules');
 function ruleSection(markdown, id) {
   const lines = markdown.split('\n');
   const start = lines.findIndex((l) => l.startsWith(`### ${id} ·`));
@@ -319,16 +317,18 @@ async function sessionBody(s, { live }) {
   const teach = s.gate === 'reteach' ? s.reteach : (s.newRule ? [s.newRule] : []);
   if (canGoOn && teach.length) {
     const { markdown } = await loadRules();
+    const missing = teach.filter((id) => !ruleSection(markdown, id));
     const readKey = `phonics-read-${s.n}`;
-    const seen = !live || practice?.submitted || store.get(readKey, false);
+    const seen = !missing.length && (!live || practice?.submitted || store.get(readKey, false));
     out.push(h('section', {},
       h('h2', {}, s.gate === 'reteach' ? '重讲' : '新规则'),
       s.gate === 'reteach' && h('p', { class: 'muted' }, '复检错了一半以上，这次不讲新规则。把下面的规则再看一遍，然后做针对它们的练习。'),
       teach.map((id) => {
         const sec = ruleSection(markdown, id);
-        return h('div', { class: 'card md', html: sec ? md(sec) : `<p class="muted">rules.md 里还没有 ${id} 的正文。</p>` });
+        return sec ? h('div', { class: 'card md', html: md(sec) })
+          : h('div', { class: 'banner warn' }, `${id} 的规则正文没取到。先刷新页面；还是没有，回对话告诉教练。练习要等正文出来再做。`);
       }),
-      !seen && h('div', { class: 'row' },
+      !seen && !missing.length && h('div', { class: 'row' },
         h('button', { class: 'primary', onclick: () => { store.set(readKey, true); rerender(); } }, '看完了，开始练习'),
         h('span', { class: 'muted small' }, '有疑问可以先回对话问教练。'))));
     if (!seen) return out;
@@ -601,6 +601,8 @@ async function render() {
   const keepScroll = view.dataset.tab === name + (arg || '') ? window.scrollY : 0;
   try {
     overview = await api('/api/overview');
+    if (bootBuild && overview.build !== bootBuild) { location.reload(); return; }
+    bootBuild = overview.build;
     document.onkeydown = null; // 键盘快捷键只在加练页有，由 viewDrill 自己挂
     const nodes = await VIEWS[name](arg);
     if (seq !== renderSeq) return;

@@ -167,6 +167,8 @@ function readBody(req) {
   });
 }
 const STATIC = { '/': ['index.html', 'text/html'], '/app.js': ['app.js', 'text/javascript'], '/style.css': ['style.css', 'text/css'] };
+// 网页版本：页面文件最后一次修改的时间。打开着的页面发现它变了就自己刷新，免得一直跑旧代码。
+const build = () => String(Math.max(...Object.values(STATIC).map(([f]) => fs.statSync(path.join(PUBLIC, f)).mtimeMs)));
 
 async function handle(req, res) {
   const url = new URL(req.url, `http://${req.headers.host}`);
@@ -186,7 +188,7 @@ async function handle(req, res) {
     const pool = core.replayPool(sessionNumbers().map((n) => loadSession(n)));
     const open = sessions.find((s) => s.status === 'open');
     const waiting = sessions.filter((s) => s.status === 'answered').map((s) => s.n);
-    return send(res, 200, { pool, titles, sessions, open: open ? open.n : null, waiting, tts: await checkEspeak() });
+    return send(res, 200, { pool, titles, sessions, open: open ? open.n : null, waiting, tts: await checkEspeak(), build: build() });
   }
 
   if (p === '/api/rules') {
