@@ -226,3 +226,47 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 - 名词重读第 2：hoTEL · maCHINE · misTAKE · adVICE。
 - 形容词重读第 2：comPLETE · corRECT · aLIVE。
 - 动词重读第 1：词尾是 -en、-er、-ow、-ish，或读 /i/ 的 -y：HAPpen · ANswer · FOLlow · FINish · STUDy。但 preFER · alLOW 重读第 2。
+
+### S6 · 三音节以上看倒数第二音节（第 6 次讲）
+
+**规则**：三个音节以上的名词、形容词，词尾又没有 S1–S4 那些后缀时，看**倒数第二个音节**是「重」还是「轻」：
+- 重 → 重读它。
+- 轻 → 重读它前面那个（倒数第三）。
+
+这条的例外比 S1–S5 多，把它当成默认读法用。
+
+**轻重怎么看**：把词切成音节（题面上已经切好），看倒数第二块最后一个字母。
+
+| 倒数第二块 | 轻重 | 重读 | 例 |
+|---|---|---|---|
+| 以辅音字母结尾 | 重 | 它自己 | a-GEN-da · um-BREL-la · ap-PEN-dix · e-NOR-mous · im-POR-tant |
+| 以元音字母结尾 | 轻 | 它前面那块 | CI-ne-ma · A-ni-mal · PO-si-tive · E-le-gant |
+
+四个音节以上也一样，只看最后两块：ca-TAS-tro-phe，倒数第二块 tro 以元音结尾，轻 → 重读 tas。
+
+自己切的时候：两个元音之间只有一个辅音，它归后面，前一块就以元音结尾（ci-ne）；有两个以上，第一个留在前面，前一块就以辅音结尾（gen-da）。tr、br 这类「辅音 + r」和 ch、sh、th、ph 算一个辅音；双写的辅音从中间切（brel-la）。
+
+**怎么用**：
+1. 先看词尾有没有 S1–S4 的后缀。有，就按那条，不看轻重。
+2. 没有，数音节。两个音节 → S5（看词性）；三个以上 → 这条。
+3. 看倒数第二块：以辅音结尾 → 重读它；以元音结尾 → 重读它前面那块。
+
+-ous、-ive、-ant 这类后缀自己不定重音，也照这条走：e-NOR-mous · PO-si-tive · E-le-gant。
+-ous 和 S1 的 -ious 不一样：-ious 前面多一个 i，按 S1。
+
+**和 S1–S4 的区别**：有 S1–S4 的后缀时，照这条算会算错。
+
+| 词 | 有后缀，按那条 | 要是按这条算 |
+|---|---|---|
+| e-co-NO-mic | -ic（S1）→ no | 倒数第二块 no 轻 → co ✗ |
+| en-gi-NEER | -eer（S3）→ neer | 倒数第二块 gi 轻 → en ✗ |
+| de-VE-lop-ment | -ment（S4）→ 原词 de-VE-lop 的 ve | 倒数第二块 lop 重 → lop ✗ |
+
+**为什么**：英语里三音节以上的词很多从拉丁语来，拉丁语就是这样定重音的。S2 的 -graphy、-logy、-nomy、-cracy 也合这条：倒数第二块 gra、lo、no、cra 都以元音结尾，是轻的，所以重音落在倒数第三。
+
+**常见例外**：
+- 倒数第二块以元音结尾，却重读它：po-TA-to · to-MA-to · ba-NA-na · ho-RI-zon。
+- 倒数第二块以辅音结尾，却重读它前面那块：CA-len-dar · OR-ches-tra · AN-ces-tor · IN-ter-val。
+- 词尾是 -y、倒数第二块以辅音结尾时，常常还是重读倒数第三：E-ner-gy · IN-dus-try。
+- 动词不归这条管。三个音节的动词常常重读倒数第二块，它以元音结尾也一样：de-VE-lop · i-MA-gine。
+- 从动词变来的词常常跟着动词的重音走：arRIVE → ar-RI-val · deCIDE → de-CI-sive。
