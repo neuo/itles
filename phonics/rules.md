@@ -152,3 +152,42 @@
 **常见例外**：
 - comMITtee · COFfee：这里的 -ee 不是这个后缀。
 - emPLOYee：Oxford 美音标在 ploy 上（也有人读 employEE）。
+
+### S4 · 不改重音的后缀（第 4 次讲）
+
+**规则**：词尾是下面这些后缀时，重音**留在原词原来的位置**，后缀自己不重读。
+
+| 后缀 | 原词 → 加了后缀 |
+|---|---|
+| -ment | deVELop → deVELopment · aGREE → aGREEment |
+| -ness | aWARE → aWAREness |
+| -ful | sucCESS → sucCESSful |
+| -less | reGARD → reGARDless |
+| -er | emPLOY → emPLOYer · deSIGN → deSIGNer |
+| -ly | imMEdiate → imMEdiately |
+| -able | preDICT → preDICTable |
+| -ing · -ed | beGIN → beGINning · deVELop → deVELoped |
+
+**怎么用**：
+1. 看词尾是不是这几个后缀。可以叠好几个：CAREless → CARElessness。
+2. 把它们拿掉，找到原词。
+3. 原词重读哪个音节，整个词就重读那个音节。
+
+**原词重读哪里从哪知道**：真词靠你认识的原词。假词的题面会写成「原词 ＋ 后缀」，大写的是原词重读的音节，如 PLOmitate ＋ -ing。
+
+**和 S1–S3 的区别**：同一个原词，换个后缀，重音可能挪、也可能不挪。
+
+| 原词 | ＋ 不挪的后缀（S4） | ＋ 挪重音的后缀 |
+|---|---|---|
+| PERsonal | PERsonally | persoNALity（-ity，S1） |
+| EDucate | EDucated | eduCAtion（-tion，S1） |
+| INterview | INterviewer | interviewEE（-ee，S3） |
+
+**后缀叠在一起**：从外往里剥。剥掉 S4 的后缀，里面还剩 S1–S3 的后缀，就按那条规则。
+ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM。
+
+**常见例外**：
+- -able 有时会把重音往前挪：adMIRE → ADmirable · comPARE → COMparable · preFER → PREFerable。
+- -er 跟在 -graph、-nomy 这类词后面时，重音跟着 -graphy、-nomy 走：phoTOGrapher（不是 PHOtographer）· asTRONomer。
+- adverTISEment（美音）：原词 ADvertise，加了 -ment 重音挪了。
+- -ed 有时不多出一个音节：deVELoped 读 `dɪˈveləpt`，还是 3 个音节。这是读音的事，阶段 2 讲；重音位置照样不变。
