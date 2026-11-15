@@ -1,0 +1,81 @@
+{
+  "n": 4,
+  "answers": {
+    "r1": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:34:31.470Z"
+    },
+    "r2": {
+      "choice": 4,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:34:31.470Z"
+    },
+    "p1": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p2": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p5": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p6": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p7": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p8": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p9": {
+      "choice": 4,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    },
+    "p10": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-15T06:46:37.000Z"
+    }
+  },
+  "submitted": {
+    "recheck": "2026-11-15T06:34:31.470Z",
+    "practice": "2026-11-15T06:46:37.000Z"
+  }
+}
