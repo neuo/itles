@@ -359,6 +359,12 @@ test('校验：加练作答要指向题库里的题、每题一条、字段齐�
   hasError(withBank(mkRoot(base()), bank, [att('b001', 1, { via: 'x' })]), /drill\.json 第 1 条: via 只能是/);
   hasError(withBank(mkRoot(base()), bank, [att('b001', 1, { after: undefined })]), /after 要写/);
 });
+test('校验：ipaAudio 只能是 true / false', () => {
+  const s = base(); s[1].items[0].ipaAudio = 'yes';
+  hasError(mkRoot(s), /ipaAudio 要写 true \/ false/);
+  const t = base(); t[1].items[0].ipaAudio = true;
+  assert.deepEqual(errorsOf(mkRoot(t)), []);
+});
 test('校验：加练题的 id 用 b 开头', () => {
   hasError(withBank(mkRoot(base()), [bankItem('x1', 'S1', 2)]), /加练题的 id 用 b 开头加数字/);
 });

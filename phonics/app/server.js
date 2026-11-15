@@ -33,7 +33,7 @@ const { sessionNumbers, loadSession, saveAnswers, ruleTitles } = store;
 function itemView(s, it, open) {
   const base = {
     // 拼写题的 word 就是答案，作答前不发给页面
-    id: it.id, part: it.part, type: it.type, word: it.type === 'spell' && !open ? null : it.word, pseudo: !!it.pseudo,
+    id: it.id, part: it.part, type: it.type, word: it.type === 'spell' && !open ? null : it.word, pseudo: !!it.pseudo, ipaAudio: !!it.ipaAudio,
     syllables: it.syllables, options: it.options, prompt: it.prompt, promptAudio: !!it.promptAudio,
   };
   if (!open) return base;
@@ -70,7 +70,7 @@ function sessionView(s) {
 
 function drillView(it, a) {
   const base = {
-    id: it.id, part: 'drill', type: it.type, word: it.type === 'spell' && !a ? null : it.word, pseudo: !!it.pseudo,
+    id: it.id, part: 'drill', type: it.type, word: it.type === 'spell' && !a ? null : it.word, pseudo: !!it.pseudo, ipaAudio: !!it.ipaAudio,
     syllables: it.syllables, options: it.options, prompt: it.prompt, promptAudio: !!it.promptAudio,
   };
   if (!a) return base;

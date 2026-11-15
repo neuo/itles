@@ -192,3 +192,37 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 - -er 跟在 -graph、-nomy 这类词后面时，重音跟着 -graphy、-nomy 走：phoTOGrapher（不是 PHOtographer）· asTRONomer。
 - adverTISEment（美音）：原词 ADvertise，加了 -ment 重音挪了。
 - -ed 有时不多出一个音节：deVELoped 读 `dɪˈveləpt`，还是 3 个音节。这是读音的事，阶段 2 讲；重音位置照样不变。
+
+### S5 · 两音节词看词性（第 5 次讲）
+
+**规则**：两个音节、又没有 S1–S4 那些后缀的词，看词性：名词、形容词默认重读**第 1 个**音节；动词默认重读**第 2 个**音节。
+
+| 词性 | 默认重读 | 例 |
+|---|---|---|
+| 名词 | 第 1 音节 | GARden · PROBlem · ISland |
+| 形容词 | 第 1 音节 | HAPpy · MODern |
+| 动词 | 第 2 音节 | deCIDE · reLAX · proTECT |
+
+**同一个词既是名词又是动词**：名词（形容词）重读第 1，动词重读第 2。
+
+| 名词（形容词） | 动词 |
+|---|---|
+| REcord | reCORD |
+| PREsent | preSENT |
+| OBject | obJECT |
+| INcrease | inCREASE |
+| REBel | reBEL |
+
+**怎么用**：
+1. 先看词尾有没有 S1–S4 的后缀。有，按那条：carTOON 是名词，但 -oon 自己重读（S3）。
+2. 没有，再数音节。两个音节 → 看词性：名词、形容词重读前一个，动词重读后一个。
+3. 三个音节以上的词不归这条管：HESitate 是动词，但按 -ate（S2）。
+
+**为什么**：两音节动词很多是「前缀 ＋ 词根」：de-cide、re-lax、pro-tect。前缀弱读，重音落在后面的词根上。
+
+**词性从哪知道**：看这个词在句子里怎么用。题面会在括号里写明词性。
+
+**常见例外**：
+- 名词重读第 2：hoTEL · maCHINE · misTAKE · adVICE。
+- 形容词重读第 2：comPLETE · corRECT · aLIVE。
+- 动词重读第 1：词尾是 -en、-er、-ow、-ish，或读 /i/ 的 -y：HAPpen · ANswer · FOLlow · FINish · STUDy。但 preFER · alLOW 重读第 2。

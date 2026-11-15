@@ -60,12 +60,12 @@ function speakText(word, rate = 1) {
   u.rate = rate;
   speechSynthesis.speak(u);
 }
-// 真词：真人录音 → 放不出来就系统合成音 → 再不行按音标合成。假词：按音标合成。
+// 真词：真人录音 → 放不出来就系统合成音 → 再不行按音标合成。假词、同形不同读的词（ipaAudio）：按音标合成。
 // label：一个小标签，写上刚才放的是哪一种声音。
 async function playItem(it, slow, label) {
   const say = (t) => { if (label) label.textContent = t; };
   const byIpa = () => { say('按音标合成'); playUrl(ttsUrl(it.ipa, { slow })); };
-  if (it.pseudo) return byIpa();
+  if (it.pseudo || it.ipaAudio) return byIpa(); // record 名 / 动这类词，录音可能是另一个读法
   const synth = () => {
     if (speechSynthesis.getVoices().some((v) => v.lang === 'en-US')) { say('系统合成音'); speakText(it.word, slow ? 0.6 : 1); }
     else if (it.ipa) byIpa();

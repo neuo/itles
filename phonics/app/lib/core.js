@@ -260,6 +260,7 @@ function checkItemBody(it, I, E, titles) {
   if (it.type === 'spell' && !it.prompt && !it.promptAudio) E(I, '拼写题要有 prompt（显示的音标）或 promptAudio');
   if (!Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) E(I, 'answer 不在选项范围内');
   if (typeof it.pseudo !== 'boolean') E(I, 'pseudo 要写 true / false');
+  if ('ipaAudio' in it && typeof it.ipaAudio !== 'boolean') E(I, 'ipaAudio 要写 true / false');
   if (!it.explain) E(I, '缺 explain');
   if (!it.rule || !titles[it.rule]) E(I, `rule「${it.rule}」在 rules.md 正文里没有对应的 ### 标题`);
   if (!it.ipa) E(I, '缺 ipa');
