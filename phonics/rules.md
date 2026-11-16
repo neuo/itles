@@ -36,7 +36,7 @@
 ### 基础：音节怎么数（第 2 次，她问）
 
 - **一个元音的音 = 一个音节。** 数的是读出来的元音，不是元音字母。
-  - 不发音的 e 不算：late = 1。
+  - 不发音的 e 不算：late = 1，parade = 2（pa-rade）。
   - 两个元音字母读一个音，只算 1 个：team = 1，-tion = 1，-cial = 1。
   - 两个元音字母分开读，就算 2 个：-ian = i-an（vas-to-ri-an），-ious = i-ous（har-mo-ni-ous）。
 - **单独的辅音不算音节**，它跟着旁边的元音走。
@@ -223,7 +223,7 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 **词性从哪知道**：看这个词在句子里怎么用。题面会在括号里写明词性。
 
 **常见例外**：
-- 名词重读第 2：hoTEL · maCHINE · misTAKE · adVICE。
+- 名词重读第 2：hoTEL · maCHINE · misTAKE · adVICE · paRADE。
 - 形容词重读第 2：comPLETE · corRECT · aLIVE。
 - 动词重读第 1：词尾是 -en、-er、-ow、-ish，或读 /i/ 的 -y：HAPpen · ANswer · FOLlow · FINish · STUDy。但 preFER · alLOW 重读第 2。
 
