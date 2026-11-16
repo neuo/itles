@@ -365,6 +365,25 @@ test('校验：ipaAudio 只能是 true / false', () => {
   const t = base(); t[1].items[0].ipaAudio = true;
   assert.deepEqual(errorsOf(mkRoot(t)), []);
 });
+// 读音题：把第 2 场的第一道练习题（3 个音节，第 2 个重读）改成选音标
+const asRead = (s, options, answer = 2) => {
+  const it = s[1].items.find((x) => x.part === 'practice');
+  Object.assign(it, { type: 'read', options, answer });
+  delete it.syllables;
+  return s;
+};
+test('校验：读音题写对了 ERROR 0', () => {
+  assert.deepEqual(errorsOf(mkRoot(asRead(base(), ['ˈtæ.tæ.tæ', 'tæ.ˈtæ.tæ', 'tæ.tæ.ˈtæ']))), []);
+});
+test('校验：读音题的选项要能合成', () => {
+  hasError(mkRoot(asRead(base(), ['ˈfɛt', 'tæ.ˈtæ.tæ'])), /第 1 个选项的音标转不了/);
+});
+test('校验：读音题正确的选项要和 ipa 一样', () => {
+  hasError(mkRoot(asRead(base(), ['ˈtæ.tæ.tæ', 'tæ.ˈtæ.tə'])), /和 ipa 一字不差/);
+});
+test('校验：选项不能重复', () => {
+  hasError(mkRoot(asRead(base(), ['tæ.ˈtæ.tæ', 'tæ.ˈtæ.tæ'])), /选项有重复/);
+});
 test('校验：加练题的 id 用 b 开头', () => {
   hasError(withBank(mkRoot(base()), [bankItem('x1', 'S1', 2)]), /加练题的 id 用 b 开头加数字/);
 });

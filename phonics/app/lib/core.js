@@ -256,7 +256,15 @@ function checkItemBody(it, I, E, titles) {
   if (it.type === 'stress') {
     if (opts.length < 2) E(I, '重音题至少两个音节');
     if (opts.join('').toLowerCase() !== String(it.word).toLowerCase().replace(/[^a-z]/g, '')) E(I, `syllables 拼起来不是 ${it.word}`);
-  } else if (opts.length < 2 || opts.length > 4) E(I, '选项要 2–4 个');
+  } else {
+    if (opts.length < 2 || opts.length > 4) E(I, '选项要 2–4 个');
+    if (new Set(opts).size !== opts.length) E(I, '选项有重复');
+    if (it.type === 'read') {
+      // 读音题的选项就是音标：答错后网页拿它合成「你选的 / 正确的」对比音，所以每个都要能转写；正确的那个就是 ipa
+      opts.forEach((o, i) => { try { toEspeak(o); } catch (e) { E(I, `第 ${i + 1} 个选项的音标转不了：${e.message}`); } });
+      if (it.ipa && opts[it.answer - 1] !== it.ipa) E(I, '读音题正确的那个选项要和 ipa 一字不差');
+    }
+  }
   if (it.type === 'spell' && !it.prompt && !it.promptAudio) E(I, '拼写题要有 prompt（显示的音标）或 promptAudio');
   if (!Number.isInteger(it.answer) || it.answer < 1 || it.answer > opts.length) E(I, 'answer 不在选项范围内');
   if (typeof it.pseudo !== 'boolean') E(I, 'pseudo 要写 true / false');

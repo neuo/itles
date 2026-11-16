@@ -154,7 +154,8 @@ const ruleTag = (id) => id ? h('button', { class: 'tag rule', title: overview?.t
 
 // ---------- 题目：作答 ----------
 
-const optsOf = (it) => (it.type === 'stress' ? it.syllables : it.options);
+// 读音题的选项是音标：显示时和 ipa 一样，去掉音节之间的点、套上斜杠
+const optsOf = (it) => (it.type === 'stress' ? it.syllables : it.type === 'read' ? it.options.map(showIpa) : it.options);
 const TYPE_HINT = { stress: '点重读的那个音节', read: '选读音', spell: '选拼写' };
 
 function itemForm(it, no, draft, onChange) {
@@ -241,6 +242,12 @@ function itemResult(it, no, extraTags = []) {
       h('button', { class: 'mini', onclick: () => playUrl(ttsUrl(it.ipa, { stress: mine })) }, `▶ 你选的：重读 ${opts[mine - 1]}`),
       h('button', { class: 'mini', onclick: () => playUrl(ttsUrl(it.ipa)) }, `▶ 正确的：重读 ${opts[it.answer - 1]}`));
   }
+  if (it.type === 'read' && it.verdict === 'wrong' && mine) {
+    audio.append(
+      h('span', { class: 'muted small' }, '对比（合成音）：'),
+      h('button', { class: 'mini', onclick: () => playUrl(ttsUrl(it.options[mine - 1])) }, `▶ 你选的 ${opts[mine - 1]}`),
+      h('button', { class: 'mini', onclick: () => playUrl(ttsUrl(it.options[it.answer - 1])) }, `▶ 正确的 ${opts[it.answer - 1]}`));
+  }
   return h('div', { class: 'item ' + (it.verdict || '') },
     h('div', { class: 'item-head' },
       h('span', {}, ICON[it.verdict] || ''),
@@ -256,7 +263,7 @@ function itemResult(it, no, extraTags = []) {
       `你选：${mineText}`,
       it.my?.raw ? `（对话里写的「${it.my.raw}」）` : '',
       ` · 正确：${opts[it.answer - 1]}`,
-      it.ipa ? h('span', { class: 'ipa' }, '　' + showIpa(it.ipa)) : ''),
+      it.ipa && it.type !== 'read' ? h('span', { class: 'ipa' }, '　' + showIpa(it.ipa)) : ''), // 读音题的「正确」已经是音标
     it.trap && h('div', { class: 'trap' }, h('strong', {}, `你选的 ${opts[mine - 1]} 为什么不对：`), it.trap),
     it.explain && h('div', { class: 'explain' }, it.trap ? h('strong', {}, `正确的是 ${opts[it.answer - 1]}：`) : null, it.explain),
     it.note && h('div', { class: 'coach' }, '教练：' + it.note),
