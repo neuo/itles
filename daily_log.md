@@ -7781,3 +7781,24 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 12⇄0
 
 **下一场 ＝ 周期 18 · L1**：pick --type learn 带 --date；② lookback --pending（bank:414）；④ redo 第 1 行（bank:1371）
+
+## 2026-11-15（周日）· 口语 L1（周期 18 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 660 ＝ problems.md 29 ＋ graduated.md 631 ｜ 🎓 631（95.6%）｜ 未毕业 29 ｜ 可出题 19 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 32 道
+
+- ① 在池 3 组 25 题 / 25 条：**✅24 ❌1** ⇒ **毕业 14**（#652–#665）
+  · ❌ #675 alumni：`my alumni from my university` ⇒ alumni of my university（连错 2）
+  · 她标学下／背下：can't take it anymore（#677）· recite（#679）· bridesmaid（#680）
+  · ⚠️ 建号：ask sb what they think（#678，她写 asks us … for our advice）
+- ①b 复检 1 组 10 题 / 10 条：**✅10**；回潮 0
+  · 她标学下：time off（#681）· nail（#682）· beforehand（#683）
+  · ⚠️ 建号：N times in a row（#684，她写 five times in one sitting）
+- ② 回看 bank:414
+- ③ 重答 bank:1371（R1）：零真错；⚠️ 2 处只进 diff-2；🎓#257 #614 #275 #261 自发命中；对比 08-23：写作腔六处 → 0，put their toys away／pick up 用上了旧更好版
+  · 08-23 原篇 R1 节小标题修成 ###（照 08-21 先例），attempts 才打得出旧答
+
+**教练犯规**：① 第一次 pick 没带 --date（已还原重跑）② #678 种子提示先写成 what she thinks，发题前改成"用 think 说" ③ ④ 旧答对比先手抄 08-23，deliver 报错后才修原篇、改用 attempts 原样贴
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 14⇄0
+
+**下一场 ＝ 周期 18 · L2**：pick --type learn 带 --date；② lookback --pending（bank:1371）；④ redo 第 1 行（bank:1390 R3）

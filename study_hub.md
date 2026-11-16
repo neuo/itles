@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-14 · 口语 R（付息日 · 周期 17 收尾）· 已收尾**
+🆕🆕🆕 **2026-11-15 · 口语 L1（周期 18 第 1 个学习日）· 已收尾**
+  —— 在池 3 组 **25 题 / 25 条 ✅24 ❌1**（#675 alumni：my alumni ⇒ alumni of my university，连错 2）；复检 1 组 **10 题 / 10 条 ✅10**；回潮 0
+  —— 🎓 **毕业 14 条**（#652–#665）⇒ 全档 **660** ＝ problems 29 ＋ graduated **631**（95.6%）
+  —— 🆕 **新建 8 条** #677–#684：她标学下／背下 6 条（can't take it anymore · recite · bridesmaid · time off · nail · beforehand）＋ ⚠️ 不地道 2 条（ask sb what they think · N times in a row）
+  —— ② 回看 bank:414
+  —— ③ 重答 bank:1371（R1 父母怎么帮孩子有条理）**零真错**，比 08-23 那版的六处写作腔干净；put their toys away · pick up 用上了旧更好版的块；🎓#257 #614 #275 #261 自发命中；08-23 原篇标题修成 ###
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 14⇄0
+  —— **下一场 ＝ 周期 18 · L2**：pick --type learn 以 --date 为准；② lookback --pending（bank:1371）；④ redo 第 1 行（bank:1390 R3）
+
+🆕🆕 **2026-11-14 · 口语 R（付息日 · 周期 17 收尾）· 已收尾**
   —— 在池 3 组 **26 题 / 26 条 ✅26**；复检 5 组 **50 题 / 59 条 ✅59**（在池只排得出 3 组，空出的 2 组下溢给复检）；回潮 0
   —— 🎓 **毕业 12 条**（#630 #641–#651）⇒ 全档 **652** ＝ problems 35 ＋ graduated **617**（94.6%）
   —— 🆕 **新建 11 条** #666–#676：她标学下／背下 10 条（set sb up with sb · whisper · 时间段 ＋ in · sometimes…other times · expense reimbursement · 形容词 ＋ around ＋ 人 · stuff sth away · attic · alumni · hold its own）＋ ⚠️ 不地道 1 条（foul out，她写 budded out）
