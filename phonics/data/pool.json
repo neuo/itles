@@ -1,5 +1,5 @@
 {
-  "session": 6,
+  "session": 7,
   "ladder": [
     1,
     2,
@@ -91,14 +91,19 @@
     },
     {
       "id": "S4",
-      "box": 2,
+      "box": 4,
       "added": 4,
-      "lastReview": 5,
-      "nextDue": 7,
-      "rechecks": 1,
+      "lastReview": 7,
+      "nextDue": 11,
+      "rechecks": 2,
       "log": [
         {
           "n": 5,
+          "kind": "recheck",
+          "result": "ok"
+        },
+        {
+          "n": 7,
           "kind": "recheck",
           "result": "ok"
         }
@@ -121,10 +126,25 @@
     },
     {
       "id": "S6",
-      "box": 1,
+      "box": 2,
       "added": 6,
+      "lastReview": 7,
+      "nextDue": 9,
+      "rechecks": 1,
+      "log": [
+        {
+          "n": 7,
+          "kind": "recheck",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "id": "S7",
+      "box": 1,
+      "added": 7,
       "lastReview": null,
-      "nextDue": 7,
+      "nextDue": 8,
       "rechecks": 0,
       "log": []
     }

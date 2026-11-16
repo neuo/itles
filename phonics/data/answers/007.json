@@ -1,0 +1,93 @@
+{
+  "n": 7,
+  "answers": {
+    "r1": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T14:36:05.285Z"
+    },
+    "r2": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T14:36:05.285Z"
+    },
+    "r3": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T14:36:05.285Z"
+    },
+    "r4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T14:36:05.285Z"
+    },
+    "p1": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p2": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p3": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p5": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p6": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p7": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p8": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p9": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    },
+    "p10": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-16T15:00:57.081Z"
+    }
+  },
+  "submitted": {
+    "recheck": "2026-11-16T14:36:05.285Z",
+    "practice": "2026-11-16T15:00:57.081Z"
+  }
+}

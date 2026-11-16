@@ -16,7 +16,7 @@
 | S4 | **不改重音**的后缀：-ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | deVELopment · emPLOYer | 第 4 次 |
 | S5 | 两音节词：名词、形容词默认重读第 1 音节，动词默认第 2；同形名动随词性变 | REcord / reCORD · PREsent / preSENT | 第 5 次 |
 | S6 | 没有后缀可依时的默认规则（看倒数第二音节轻重）。命中率比 S1–S5 低，讲成「默认 + 常见例外」 | caTAStrophe · aGENda | 第 6 次 |
-| S7 | 不重读的元音弱读成 /ə/ /ɪ/；弱读元音的拼写从同族重读形式找回 | phot**o**graph ← ph**o**tography | 未讲 |
+| S7 | 不重读的元音弱读成 /ə/ /ɪ/；弱读元音的拼写从同族重读形式找回 | phot**o**graph ← ph**o**tography | 第 7 次 |
 
 ## 阶段 2：拼读全部规则（P）
 
@@ -310,6 +310,8 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 | -ate（名词、形容词） | ət | CLI-mate `ˈklaɪmət` · PRI-vate `ˈpraɪvət` |
 | -ice | ɪs | NO-tice `ˈnəʊtɪs` · JUS-tice `ˈdʒʌstɪs` |
 | -ose · -ise | əs · ɪs | PUR-pose `ˈpɜːrpəs` · PRO-mise `ˈprɑːmɪs` |
+
+前提是这个词尾**不重读**。重音落在词尾上，它就读足：pa-RADE `pəˈreɪd`，rade 读 eɪ，弱读的是不重读的 pa。所以永远先定重音，再弱读其余的。
 
 **为什么**：英语的节奏是重读音节拉长、其余压短。压短的元音来不及发足，嘴型就滑到最放松的位置，那就是 ə。「基础：重音听起来是什么样」第 3 条说的就是它。
 
