@@ -1,0 +1,105 @@
+{
+  "n": 8,
+  "answers": {
+    "r1": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "r2": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "r3": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "r4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "r5": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "r6": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:00:54.016Z"
+    },
+    "p1": {
+      "choice": 3,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p2": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p3": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p4": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p5": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p6": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p7": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p8": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p9": {
+      "choice": 2,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    },
+    "p10": {
+      "choice": 1,
+      "unsure": false,
+      "via": "web",
+      "at": "2026-11-17T15:11:03.127Z"
+    }
+  },
+  "submitted": {
+    "recheck": "2026-11-17T15:00:54.016Z",
+    "practice": "2026-11-17T15:11:03.127Z"
+  }
+}

@@ -24,7 +24,7 @@
 
 | 编号 | 规则（一句话） | 例词 | 讲于 |
 |---|---|---|---|
-| P1 | c、g 在 e、i、y 前读软音（s、dʒ），其余读硬音（k、ɡ） | city · gem · cat · go | 未讲 |
+| P1 | c、g 在 e、i、y 前读软音（s、dʒ），其余读硬音（k、ɡ） | city · gem · cat · go | 第 8 次 |
 | P2 | ch 默认读 tʃ，希腊来源读 k，法语来源读 ʃ | chair · school · chef | 未讲 |
 | P3 | ph 读 f；gh 在词首读 ɡ，在词尾读 f 或不发音 | phone · ghost · laugh · night | 未讲 |
 | P4 | 闭音节（元音后面有辅音收尾）读短音，y 和 i 一样读 ɪ（重点） | hot · cup · gym | 未讲 |

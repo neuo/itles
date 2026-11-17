@@ -1,5 +1,5 @@
 {
-  "session": 7,
+  "session": 8,
   "ladder": [
     1,
     2,
@@ -9,11 +9,11 @@
   "rules": [
     {
       "id": "S1",
-      "box": 2,
+      "box": 1,
       "added": 1,
-      "lastReview": 6,
-      "nextDue": 8,
-      "rechecks": 4,
+      "lastReview": 8,
+      "nextDue": 9,
+      "rechecks": 5,
       "log": [
         {
           "n": 2,
@@ -46,12 +46,20 @@
           "n": 6,
           "kind": "recheck",
           "result": "ok"
+        },
+        {
+          "n": 8,
+          "kind": "recheck",
+          "result": "wrong",
+          "words": [
+            "trovality"
+          ]
         }
       ]
     },
     {
       "id": "S2",
-      "box": 4,
+      "box": 1,
       "added": 2,
       "lastReview": 5,
       "nextDue": 9,
@@ -66,15 +74,23 @@
           "n": 5,
           "kind": "recheck",
           "result": "ok"
+        },
+        {
+          "n": 8,
+          "kind": "practice",
+          "result": "wrong",
+          "words": [
+            "terminology"
+          ]
         }
       ]
     },
     {
       "id": "S3",
-      "box": 4,
+      "box": 1,
       "added": 3,
       "lastReview": 6,
-      "nextDue": 10,
+      "nextDue": 9,
       "rechecks": 2,
       "log": [
         {
@@ -86,6 +102,14 @@
           "n": 6,
           "kind": "recheck",
           "result": "ok"
+        },
+        {
+          "n": 8,
+          "kind": "practice",
+          "result": "wrong",
+          "words": [
+            "pelique"
+          ]
         }
       ]
     },
@@ -111,14 +135,19 @@
     },
     {
       "id": "S5",
-      "box": 2,
+      "box": 4,
       "added": 5,
-      "lastReview": 6,
-      "nextDue": 8,
-      "rechecks": 1,
+      "lastReview": 8,
+      "nextDue": 12,
+      "rechecks": 2,
       "log": [
         {
           "n": 6,
+          "kind": "recheck",
+          "result": "ok"
+        },
+        {
+          "n": 8,
           "kind": "recheck",
           "result": "ok"
         }
@@ -141,10 +170,25 @@
     },
     {
       "id": "S7",
-      "box": 1,
+      "box": 2,
       "added": 7,
+      "lastReview": 8,
+      "nextDue": 10,
+      "rechecks": 1,
+      "log": [
+        {
+          "n": 8,
+          "kind": "recheck",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "box": 1,
+      "added": 8,
       "lastReview": null,
-      "nextDue": 8,
+      "nextDue": 9,
       "rechecks": 0,
       "log": []
     }
