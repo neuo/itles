@@ -2242,6 +2242,11 @@ def check_session(sc, only=None):
                 for f_ in _compare_faults(sc, sec):
                     P.append(("ERROR", loc, f_))
             sb = _blocks_in(sc, sec, RE_SBLOCK)
+            # ★ `### ④ 与旧答对比` 里原样贴的是旧答当时的逐句 diff（attempts 输出），
+            #   它的 [Sn] 是历史原文、不是本篇的逐句 diff ⇒ 不按本篇的 §7③ 格式查
+            c_ln, c_body = _compare_block(sc, sec)
+            if c_ln is not None:
+                sb = [b for b in sb if not (c_ln < b["line"] <= c_ln + len(c_body))]
             if not sb:
                 P.append((LV, loc, "逐句 diff 里一个 `[S1]` 块都没有（§7③ 多句逐句走两段）"))
             for b in sb:

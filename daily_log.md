@@ -7802,3 +7802,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 14⇄0
 
 **下一场 ＝ 周期 18 · L2**：pick --type learn 带 --date；② lookback --pending（bank:1371）；④ redo 第 1 行（bank:1390 R3）
+
+## 2026-11-16（周一）· 口语 L2（周期 18 第 2 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 666 ＝ problems.md 25 ＋ graduated.md 641 ｜ 🎓 641（96.2%）｜ 未毕业 25 ｜ 可出题 15 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 32 道
+
+- ① 在池 2 组 19 题 / 19 条：**✅19** ⇒ **毕业 10**（#666–#674 #676）
+  · 她标背下：on the sidelines（#685）
+- ①b 复检 2 组 20 题 / 20 条：**✅20**；回潮 0
+  · 她标学下／背下：drummer（#686）· compliment（#687）· I only meant to（#688）· halfway ＋ up／down（#689）· go so far as to（#690）
+  · 🎓#70 答成 go so far as to call it a rip-off（合法记 ✅）⇒ 种子点名改成 go that far
+- ② 回看 bank:1371
+- ③ 重答 bank:1390（R3）：零真错；⚠️ 2 处只进 diff-2（keep up with …／end up blocking）；🎓#58 #284 自发命中；对比 08-05 卡住的规则那半句这次说完，对比 08-23 少了一个点
+  · 08-23 原篇 R3 节小标题修成 ###，attempts 才打得出旧答；lab.py deliver 不再把 ④ 里原样贴的旧 [Sn] 块当本篇逐句 diff 查（785 条测试全绿）
+
+**教练犯规**：① ④ 旧答对比第一次 Edit 锚点没对上空行，重做 ② #690 元信息「题面互斥」被 check 当题面字段，改写法
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 10⇄0
+
+**下一场 ＝ 周期 18 · L3**：pick --type learn 带 --date；② lookback --pending（bank:1390）；④ redo 第 1 行（bank:220 R4）

@@ -8,7 +8,17 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-15 · 口语 L1（周期 18 第 1 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-16 · 口语 L2（周期 18 第 2 个学习日）· 已收尾**
+  —— 在池 2 组 **19 题 / 19 条 ✅19**；复检 2 组 **20 题 / 20 条 ✅20**（在池只排得出 2 组，空出的 1 组下溢给复检）；回潮 0
+  —— 🎓 **毕业 10 条**（#666–#674 #676）⇒ 全档 **666** ＝ problems 25 ＋ graduated **641**（96.2%）
+  —— 🆕 **新建 6 条** #685–#690，全是她标学下／背下：on the sidelines · drummer · compliment sb on sth · I only meant to · halfway ＋ up／down · go so far as to
+  —— 🎓#70 答成 go so far as to（合法记 ✅），种子点名改成 go that far，与 #690 互斥
+  —— ② 回看 bank:1371
+  —— ③ 重答 bank:1390（R3 怎么治堵）**零真错**；08-05 卡住的"规则→后果"这次说完并给了画面；比 08-23 少一个点；🎓#58 #284 自发命中；08-23 原篇 R3 标题修成 ###；lab.py deliver 不再把 ④ 里贴的旧逐句 diff 当本篇查（测试 785 全绿）
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 10⇄0
+  —— **下一场 ＝ 周期 18 · L3**：pick --type learn 以 --date 为准；② lookback --pending（bank:1390）；④ redo 第 1 行（bank:220 R4）
+
+🆕🆕 **2026-11-15 · 口语 L1（周期 18 第 1 个学习日）· 已收尾**
   —— 在池 3 组 **25 题 / 25 条 ✅24 ❌1**（#675 alumni：my alumni ⇒ alumni of my university，连错 2）；复检 1 组 **10 题 / 10 条 ✅10**；回潮 0
   —— 🎓 **毕业 14 条**（#652–#665）⇒ 全档 **660** ＝ problems 29 ＋ graduated **631**（95.6%）
   —— 🆕 **新建 8 条** #677–#684：她标学下／背下 6 条（can't take it anymore · recite · bridesmaid · time off · nail · beforehand）＋ ⚠️ 不地道 2 条（ask sb what they think · N times in a row）
