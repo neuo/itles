@@ -20,14 +20,28 @@
 
 ## 阶段 2：拼读全部规则（P）
 
-到阶段 2 前再细化成一条一条的规则。大块顺序：
+每条规则两个方向都练：看词选读音、听音选拼写。标「重点」的是基线里错过的，练习量加大。
 
-1. 辅音（含软 c / g、ch 三种读法、ph / gh 等）
-2. 单元音长短：音节类型（闭音节 · 开音节 · 辅音 + e · 双写辅音 · -dge / -ge），**i / y 是重点**
-3. 元音组合（**ou / ow、ew 是重点**）
-4. r 控制元音（**ir / ire 是重点**）
-5. 不发音字母（**wr- / gn- 是重点**）
-6. 词尾（**-ed 读 t / d / ɪd 是重点**）
+| 编号 | 规则（一句话） | 例词 | 讲于 |
+|---|---|---|---|
+| P1 | c、g 在 e、i、y 前读软音（s、dʒ），其余读硬音（k、ɡ） | city · gem · cat · go | 未讲 |
+| P2 | ch 默认读 tʃ，希腊来源读 k，法语来源读 ʃ | chair · school · chef | 未讲 |
+| P3 | ph 读 f；gh 在词首读 ɡ，在词尾读 f 或不发音 | phone · ghost · laugh · night | 未讲 |
+| P4 | 闭音节（元音后面有辅音收尾）读短音，y 和 i 一样读 ɪ（重点） | hot · cup · gym | 未讲 |
+| P5 | 元音 + 辅音 + 不发音的 e 读长音，y 和 i 一样读 aɪ（重点） | time · type · huge | 未讲 |
+| P6 | 开音节（元音在音节末尾）默认读长音（重点） | tiger · paper · music | 未讲 |
+| P7 | 成对的拼写定长短：双写辅音、-dge、-tch、-ck 前读短音；单写辅音、-ge、-ke 前读长音（重点） | dinner / diner · bridge / page | 未讲 |
+| P8 | 词尾的 y：单音节词读 aɪ，多音节词读 i（重点） | my · happy | 未讲 |
+| P9 | 常见元音组合：ai / ay → eɪ · ee / ea → iː · oa → əʊ · ie / igh → aɪ | rain · see · boat · pie | 未讲 |
+| P10 | ou、ow 默认读 aʊ；ow 也常读 əʊ，ou 还有 ʌ 等读法（重点） | out · now · snow · touch | 未讲 |
+| P11 | oo 读 uː 或 ʊ；ew、ue 读 uː（重点） | moon · book · new · blue | 未讲 |
+| P12 | au / aw 读 ɔː · oi / oy 读 ɔɪ | law · coin · boy | 未讲 |
+| P13 | ar → ɑːr · or → ɔːr · er / ir / ur → ɜːr（三种拼写一个音）；美音 r 都要读（重点） | car · born · bird · fur | 未讲 |
+| P14 | 元音 + r + e：are → er · ire → aɪər · ure → ʊr · ere → ɪr（重点） | care · fire · pure · here | 未讲 |
+| P15 | 不发音的字母：kn- 的 k、wr- 的 w、gn 的 g、-mb 的 b（重点） | know · write · sign · climb | 未讲 |
+| P16 | -ed 读 t（清辅音后）· d（浊音后）· ɪd（t、d 后）（重点） | wished · played · wanted | 未讲 |
+| P17 | -s / -es 读 s · z · ɪz，和 -ed 同一个道理 | walks · plays · watches | 未讲 |
+| P18 | 常见词尾整块读：-tion / -sion → ʃn / ʒn · -ture → tʃər · -cial → ʃl · -le → l | nation · vision · nature · special · table | 未讲 |
 
 ---
 
@@ -320,3 +334,28 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 - 词尾的 -y 读 i，不读 ə：HAP-py `ˈhæpi` · E-ner-gy `ˈenərdʒi`。
 - 弱读的元音说快了可以整个吞掉：CA-me-ra `ˈkæmrə`、HIS-to-ry `ˈhɪstri`，写出来三个音节，读出来两个。
 - 找不到同族词，或者同族词里这个元音也不重读，拼写就找不回来，只能记。
+
+### P1 · c 和 g 的软音、硬音（第 8 次讲）
+
+**规则**：c、g 后面紧跟 **e、i、y** 时读「软音」：c → `s`，g → `dʒ`。后面是别的字母（a、o、u、辅音），或者在词尾，读「硬音」：c → `k`，g → `ɡ`。
+
+| | 软音（e、i、y 前） | 硬音（其余） |
+|---|---|---|
+| c | cent `sent` · city `ˈsɪti` · cycle `ˈsaɪkl` | cat `kæt` · cold `kəʊld` · cup `kʌp` · music `ˈmjuːzɪk`（词尾） |
+| g | gem `dʒem` · giant `ˈdʒaɪənt` · gym `dʒɪm` | game `ɡeɪm` · go `ɡəʊ` · gun `ɡʌn` · big `bɪɡ`（词尾） |
+
+**不发音的 e 也算**：词尾的 -ce、-ge，c、g 后面跟着 e，照样读软音：rice `raɪs` · page `peɪdʒ`。
+
+**怎么用**：只看 c、g 后面紧挨着的那一个字母：e、i、y → 软；别的 → 硬。
+
+**反过来拼（听音写词）**：
+- 听到 `k`，后面接 e、i、y → 写 k（keep `kiːp` · kit `kɪt`），不能写 c，写 c 就读成 s 了。后面接 a、o、u → 默认写 c（cat · cold · cup）。
+- 听到 `dʒ`，后面接 a、o、u → 写 j（jam `dʒæm` · job `dʒɑːb` · just `dʒʌst`），不能写 g，写 g 就读成 ɡ 了。后面接 e、i → 多半写 g（gem · giant），也有写 j 的（jet `dʒet` · jelly `ˈdʒeli`），只能记。
+- 听到 `s`，后面接 e、i、y → s 和 c 都有可能（sent / cent），只能记。
+
+**为什么**：拉丁语的 c、g 在 e、i 前面到了法语里变软了。英语从法语借了大量的词，这条规律跟着一起来了。
+
+**常见例外**：
+- g 在 e、i 前读硬音的常用词不少，多是英语本土的老词：get `ɡet` · give `ɡɪv` · girl `ɡɜːrl` · gift `ɡɪft` · begin `bɪˈɡɪn` · together `təˈɡeðər`。c 几乎没有这种例外。
+- 想让 g 在 e、i 前保持硬音，常在中间加一个不发音的 u：guess `ɡes` · guide `ɡaɪd`。
+- cc 在 e、i 前读 `ks`：第一个 c 硬，第二个软：accept `əkˈsept` · success `səkˈses`。
