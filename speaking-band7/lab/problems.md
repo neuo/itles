@@ -707,72 +707,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 675 · **alumni**（校友，复数；单数口语 an alum）
-类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**alumni** ＝ 校友（复数，最常用）：`Many alumni came back for the anniversary.`
-单数 alumnus（男／泛指）· alumna（女），口语里单数常说 an alum；"老校友"直接说 alumni，不用加 old。
-同一格里的邻居（别串）：classmate（同班同学）· schoolmate（同校同学，在校期间）。
-判据一句话：从这个学校毕业的人 ⇒ alumni。
-★ alumni 挂的是**学校**，⛔ 不挂人：alumni **of** my university ／ my university's alumni ／ fellow alumni（同校校友）· ⛔ my alumni（"我的校友"不能这么说）
-　"他是我校友" ⇒ We went to the same university. ／ He's a fellow alum.（2026-11-15 第二次掉在这里补）
-★ 题型判整句：同 🎓#641 等她点名背的单词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-14 付息日 复检第 6 组 [8]（#416 题面"大学校庆那天晚上办了一场盛大的晚会，好多老校友都回来了。"）· 原话
-`On the night of the university's anniversary, they threw a big gala, and tons of alumni（这个词背下） came back.`
-她写对了 alumni，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #634 先例）。
-判重三步：
-　① 目标形式 dedup "alumn" ⇒ 全档零命中
-　② 中文 dedup "校友" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `tons of alumni`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"校友" ⇒ alumni（一个人 ⇒ an alum）；说出口前看一眼 alumni 前面挂的是不是学校（of 学校），⛔ 别挂 my。
-
-**题面**
-"我们公司有好几个同事都是我的大学校友。"（"校友"用 **alumni** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Several of my coworkers are alumni of my university.
-
-- 2026-11-14 ❌ 首犯 · 付息日 复检第 6 组 [8]（#416 题里）· 她标「这个词背下」· 原话 `they threw a big gala, and tons of alumni came back.`
-- 2026-11-15 ❌ 学习日 在池第 3 组 [4] · `Quite a few coworkers at my company are my alumni from my university.` —— alumni 挂在人身上（my alumni）；校友是"某学校的"⇒ alumni of my university —— 连错 1 → 2
-- 2026-11-16 ✅ 学习日 在池第 1 组 [10] · `Quite a few alumni from my school work in Silicon Valley now.` —— alumni from my school（挂学校，没挂人）。连错 2 → 连对 1
-
-### 677 · **can't take it anymore**（实在受不了了、忍不下去了）
-类型 词组 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**can't take it anymore** ＝ 实在忍不下去了、撑不住了。it 是固定的，⛔ 不换成具体的事；过去时说 **couldn't take it anymore**。
-`I couldn't take it anymore, so I quit.` · `The noise upstairs never stops—I can't take it anymore.`
-同一格里的邻居（别串）：be sick of ＋ 事（受够了某件事，要接宾语，🎓#647）· can't stand ＋ 人／事（受不了某个具体对象）。
-判据一句话：只说"我撑不住了"、不说受不了"什么" ⇒ can't take it anymore；要说出受不了的那件事 ⇒ sick of ／ can't stand ＋ 那件事。
-★ 题型判整句：中文"受不了了"单拎出来有好几种合法说法（can't stand it／have had enough），非点名不可 ⇒ 不是词组题。
-
-**怎么发现的**
-2026-11-15 学习日 在池第 1 组 [4]（#655 题面"我在那家公司干了大半年，后来实在受不了就辞职了。"）· 原话
-`I worked at that company for the better part of a year before I couldn't take it anymore（take it anymore 学下) and quit.`
-她写对了 couldn't take it anymore，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #653 #676 先例）。
-判重三步：
-　① 目标形式 can't take it anymore；dedup "take it" ⇒ #584 take sth home · #49 #206 #282 #340 只是正文或历史里碰巧有 take it，考点无关 ⇒ 否；dedup "anymore" ⇒ #559 #646 只是例句里有 anymore ⇒ 否
-　② 中文 dedup "受不了" ⇒ 🎓#647 be sick of（另一个词组，必须接宾语）· 🎓#494 can't bring myself to（狠不下心，意思不同）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `couldn't take it anymore`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"实在受不了了／忍不下去了"后面没有宾语 ⇒ 先调 can't take it anymore，过去的事换 couldn't。
-
-**题面**
-"这份工作天天加班到半夜，我实在受不了了。"（"实在受不了了"用 **can't take it anymore** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：This job has me working till midnight every day—I can't take it anymore.
-★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 take 点名。
-
-- 2026-11-15 ❌ 首犯 · 学习日 在池第 1 组 [4]（#655 题里）· 她标「take it anymore 学下」· 原话 `I worked at that company for the better part of a year before I couldn't take it anymore and quit.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [2] · `This job has me working overtime until midnight every single day—I just can't take it anymore.` —— can't take it anymore。连错 1 → 连对 1
-
 ### 678 · **ask sb what they think**（问…的意见／问…怎么看；⛔ ask for advice ＝ 请教该怎么办）
 类型 句型 ｜ 新建 2026-11-15
 状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
@@ -804,156 +738,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 - 2026-11-15 新建 · 学习日 在池第 1 组 [7]（#658 题里）· 原话 `The boss never asks us new employees for our advice.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [8] · `Before my dad bought the car, he didn't ask what my mom thought even once.` —— ask what my mom thought（省了被问的人，合法）；更好版 he never once asked my mom what she thought。首测 ⇒ 连对 1
-
-### 679 · **recite**（背诵、当众背出来：recite a poem · recite a text）
-类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**recite** ＋ 课文／诗 ＝ 把背熟的东西当众、一字一字背出来：`recite a poem` · `recite a text in front of the class`。
-同一格里的邻居（别串）：memorize ＝ 背下来（记进脑子的那个过程）· learn sth by heart ＝ 背熟。
-判据一句话：说"背给别人听／背出来" ⇒ recite；说"把它背下来、记住" ⇒ memorize。
-★ 题型判整句：同 🎓#641 等她点名背的单词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-15 学习日 在池第 2 组 [2]（#663 题面"小时候每次被老师叫到讲台上背课文，我都紧张得要命。"）· 原话
-`When I was a kid, every time the teacher called me up to the front to recite（这个词背下) a text, I got super nervous.`
-她写对了 recite，但自己标「这个词背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #675 先例）。
-判重三步：
-　① 目标形式 dedup "recite" ⇒ 全档零命中；dedup "memorize" 的邻居关系另记，不是本条目标形式
-　② 中文 dedup "背课文" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `to recite a text`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"背课文／背诗"是背给人听的那种 ⇒ recite。
-
-**题面**
-"我侄子才五岁，已经能把整首唐诗背出来了。"（"背出来"用 **recite** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My nephew is only five, and he can already recite a whole Tang poem.
-
-- 2026-11-15 ❌ 首犯 · 学习日 在池第 2 组 [2]（#663 题里）· 她标「这个词背下」· 原话 `every time the teacher called me up to the front to recite a text, I got super nervous.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [3] · `My nephew is only five, and he can already recite a whole Tang poem by heart.` —— recite a whole Tang poem。连错 1 → 连对 1
-
-### 680 · **bridesmaid**（伴娘；伴娘之一 ⇒ one of the bridesmaids）
-类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**bridesmaid** ＝ 伴娘（bride ＋ maid）；美式婚礼伴娘常有好几个 ⇒ `I was one of her bridesmaids.`；主伴娘 ＝ the maid of honor。
-同一格里的邻居（别串）：groomsman ＝ 伴郎 · best man ＝ 首席伴郎。
-判据一句话：婚礼上陪着新娘的女生 ⇒ bridesmaid。
-★ 题型判整句：同 🎓#641 等她点名背的单词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-15 学习日 在池第 2 组 [3]（#664 题面"我闺蜜结婚的时候，我给她当了伴娘。"）· 原话
-`When my bestie got married, I was one of her bridesmaids(背下).`
-她写对了 bridesmaids，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #675 先例）。
-判重三步：
-　① 目标形式 dedup "bridesmaid" ⇒ 全档零命中
-　② 中文 dedup "伴娘" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `one of her bridesmaids`，但词不在手边（自己标背下）　　目标：同她原句
-找法：中文"伴娘" ⇒ bride ＋ maid。
-
-**题面**
-"我表姐下个月结婚，叫我去给她当伴娘。"（"伴娘"用 **bridesmaid** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My cousin is getting married next month, and she asked me to be one of her bridesmaids.
-
-- 2026-11-15 ❌ 首犯 · 学习日 在池第 2 组 [3]（#664 题里）· 她标「背下」· 原话 `When my bestie got married, I was one of her bridesmaids.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [4] · `My cousin is getting married next month, and she asked me to be one of her bridesmaids.` —— one of her bridesmaids。连错 1 → 连对 1
-
-### 681 · **time off**（休假、请的假：take time off · approve sb's time off；不可数，不加 a）
-类型 词组 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**time off** ＝ 不上班的那段时间（不可数，前面不加 a）：`take some time off` · `I haven't had any time off in months.` · `The boss didn't approve his time off.`
-同一格里的邻居（别串）：a day off ＝ 一天假（可数，带数字：take two days off）· leave ＝ 正式的假（sick leave · maternity leave）· vacation ＝ 出去度假的长假。
-判据一句话：笼统说"休假／请假"、不带天数 ⇒ time off；带天数 ⇒ X days off。
-★ 题型判整句：同 🎓#641 等她点名学的词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-15 学习日 复检第 4 组 [3]（#622 题面"我同事到现在还在生老板的气，因为老板没批他的假。"）· 原话
-`My coworker is still mad at the boss because he didn't approve his time off（time off 学下).`
-她写对了 time off，但自己标「time off 学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #675 #679 先例）。
-判重三步：
-　① 目标形式 dedup "time off" ⇒ 全档零命中；邻居 "day off" ⇒ 零命中
-　② 中文 dedup "请假"／"批假" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `approve his time off`，但块不在手边（自己标学下）　　目标：同她原句
-找法：中文"请假／休假／批假" ⇒ 先落 time off。
-
-**题面**
-"我已经好几个月没休过假了，下个月一定要请几天出去玩。"（"休假"用 **time off** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：I haven't had any time off in months—I'm definitely taking a few days off next month to go somewhere.
-
-- 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [3]（#622 题里）· 她标「time off 学下」· 原话 `My coworker is still mad at the boss because he didn't approve his time off.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [5] · `I haven't taken any time off in months, so next month I'm definitely taking a few days off to go on a trip.` —— taken any time off · taking a few days off。连错 1 → 连对 1
-
-### 682 · **nail ＋ 事情**（口语：做得很到位、拿下：nail the interview · nailed it）
-类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**nail** ＋ 事情 ＝ 把一件事做得正好、做到位（口语）：`She nailed the interview.` · `You nailed it!` · `nail the basics`。
-同一格里的邻居（别串）：🎓#620 master ＝ 练很久、彻底掌握一门技能（master a magic trick）· 🎓#402 pull off ＝ 把难事办成。
-判据一句话：一次做得漂亮／做到位 ⇒ nail；花很长时间练成 ⇒ master；难事居然办成了 ⇒ pull off。
-★ 题型判整句：同 🎓#641 等她点名学的词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-15 学习日 复检第 4 组 [7]（#626 题面"学开车得先把基本功练扎实，再上高速。"）· 原话
-`When learning to drive, you've got to nail(学下) the basics first before getting on the highway.`
-她写对了 nail，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #675 #679 先例）。
-判重三步：
-　① 目标形式 dedup "nail" ⇒ 全档零命中；邻居 "ace" ⇒ 零命中
-　② 中文 dedup "练扎实" ⇒ 零命中；"搞定" ⇒ 🎓#402 pull off（办成难事，另一个词）· 🎓#489 in no time · 🎓#505 in a bit（都是时间块，无关）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）；与 🎓#620 master 的区别：master 是长期练成，nail 是一次做到位
-
-**我错在哪**
-她的：写对了 `nail the basics`，但词不在手边（自己标学下）　　目标：同她原句
-找法：中文"表现得特别好／一次就做对了／拿下了" ⇒ nail。
-
-**题面**
-"她面试前准备了整整一个星期，结果那场面试表现得特别好。"（"表现得特别好"用 **nail** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：She spent a whole week preparing, and she totally nailed the interview.
-
-- 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [7]（#626 题里）· 她标「学下」· 原话 `When learning to drive, you've got to nail the basics first before getting on the highway.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [6] · `She prepped for a whole week before the interview, and she ended up totally nailing it.` —— nailing it。连错 1 → 连对 1
-
-### 683 · **beforehand**（事先、提前；副词，放句尾，后面不接东西）
-类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-16 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**beforehand** ＝ 在那件事之前（副词，单独放在句尾）：`It's best to call beforehand.` · `I had no idea beforehand.`
-同一格里的邻居（别串）：in advance ＝ 提前（常配 book／pay／plan in advance）· before ＋ 事件 ＝ 后面必须接东西（before the meeting）。
-判据一句话："事先"后面不接事件、落在句尾 ⇒ beforehand；后面要接事件 ⇒ before ＋ 名词。
-★ 题型判整句：同 🎓#641 等她点名学的词先例，整句 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-15 学习日 复检第 4 组 [9]（#628 题面"这次涨价是几个股东关起门来商量的，员工事先一点都不知道。"）· 原话
-`This price hike was discussed behind closed doors by a few shareholders, and the staff had no idea beforehand(这个词学下).`
-她写对了 beforehand，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #675 #679 先例）。
-判重三步：
-　① 目标形式 dedup "beforehand" ⇒ 全档零命中；邻居 "in advance"／"ahead of time" ⇒ 零命中
-　② 中文 dedup "事先" ⇒ 🎓#431 planned out · 🎓#593 hype up（正文字样，别的块）⇒ 否；"提前" ⇒ 🎓#203 though · 🎓#361 get off work on time · 🎓#73 · 🎓#97（字样）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `had no idea beforehand`，但词不在手边（自己标学下）　　目标：同她原句
-找法：句尾想说"事先／提前"、后面又没东西可接 ⇒ beforehand。
-
-**题面**
-"去别人家做客，最好事先打个电话说一声。"（"事先"用 **beforehand** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：If you're visiting someone, it's best to give them a call beforehand.
-
-- 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [9]（#628 题里）· 她标「这个词学下」· 原话 `the staff had no idea beforehand.`
-- 2026-11-16 ✅ 学习日 在池第 2 组 [7] · `When you're visiting someone's place, it's best to call and let them know beforehand.` —— let them know beforehand。连错 1 → 连对 1
 
 ### 684 · **N times in a row**（连着 N 次；⛔ 数次数时不用 in one sitting）
 类型 词组 ｜ 新建 2026-11-15
@@ -987,7 +771,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 
 ### 685 · **on the sidelines**（在场边：sit on the sidelines and watch · watch from the sidelines）
 类型 词组 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **on the sidelines** ＝ 在场边（比赛场地边线外，不上场，只能看）；sidelines 用复数，前面用 on。
@@ -1014,10 +798,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：I sprained my ankle, so I had to sit on the sidelines for the whole game.
 
 - 2026-11-16 ❌ 首犯 · 学习日 在池第 1 组 [2]（#667 题里）· 她标「背下」· 原话 `so he just had to sit on the sidelines and watch.`
+- 2026-11-22 ✅ 学习日 在池第 1 组 [8] · `I sprained my ankle, so I had to sit on the sidelines and watch the whole game.` 连错 1 → 连对 1
 
 ### 686 · **drummer**（鼓手；打鼓 ＝ play the drums）
 类型 词汇 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **drummer** ＝ 鼓手（drum ＋ m ＋ er，m 双写）：`He's the drummer in a local band.`；打鼓 ＝ `play the drums`（drums 用复数）。
@@ -1043,10 +828,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：My son has been learning the drums for three years, and now he's the drummer in the school band.
 
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 3 组 [4]（#634 题里）· 她标「背下」· 原话 `Our band's drummer is a veteran who's been playing for over twenty years`
+- 2026-11-22 ✅ 学习日 在池第 1 组 [9] · `…and now he's the drummer in his school band.` 连错 1 → 连对 1
 
 ### 687 · **compliment sb on sth**（当面夸某人某方面：She complimented me on my haircut.）
 类型 词汇 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **compliment** ＝ 当面夸人（衣服、发型、做的菜）：`She complimented me on my haircut.`；夸的东西直接当宾语也行：`He complimented my cooking.`
@@ -1073,10 +859,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：My coworker complimented me on my new haircut today, and it made my whole day.
 
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 3 组 [8]（#638 题里）· 她标「这个词学下」· 原话 `she compliments the manager's outfits every single day.`
+- 2026-11-22 ✅ 学习日 在池第 1 组 [10] · `My coworker complimented me on my new haircut today, and it made my whole day.` 连错 1 → 连对 1
 
 ### 688 · **I only meant to ＋ 动词**（本来只打算…；mean to ≠ want to）
 类型 句型 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **mean to do** ＝ 当时的打算、本来的意思（说的是"打算"）：`I only meant to stay for a minute.`
@@ -1104,10 +891,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：I only meant to say a few words, but I ended up talking for an hour.
 
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 4 组 [1]（#338 题里）· 她标「和 want to 对比学下」· 原话 `I only meant to take a quick ten-minute nap, but I ended up sleeping straight through until dark.`
+- 2026-11-22 ✅ 学习日 在池第 2 组 [1] · `I only meant to say a couple of words, but I ended up talking for a whole hour.` 连错 1 → 连对 1
 
 ### 689 · **halfway ＋ up／down／through／there**（走到一半、做到一半：halfway up the mountain）
 类型 词组 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **halfway** 后面跟一个小词，说清楚是"往哪走到一半／做什么做到一半"：
@@ -1135,10 +923,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：We were only halfway up the mountain when my daughter said she couldn't walk any farther.
 
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 4 组 [5]（#564 题里）· 她标「halfway 后面接 up/down 学下」· 原话 `it suddenly started to hail halfway up`
+- 2026-11-22 ✅ 学习日 在池第 2 组 [2] · `We were only halfway up the mountain when my daughter complained she couldn't walk anymore.` 连错 1 → 连对 1
 
 ### 690 · **go so far as to ＋ 动词**（甚至到了…的地步：He went so far as to quit.）
 类型 句型 ｜ 新建 2026-11-16 ｜ ⭐ 她点名要学 ｜ 与 🎓#70 互斥（那条单独一句往回收，本条后面要说出那个说法）
-状态 连对0 连错1 上次2026-11-16 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-22 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **go so far as to ＋ 动词原形** ＝ 甚至做到／说到某个地步：`My boss went so far as to say he'd fire us all.`
@@ -1165,6 +954,65 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 ★ 目标形式（教练看，⛔ 不进发题稿）：My boss went so far as to say that if this project failed, he'd fire all of us.
 
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 4 组 [10]（#70 题里）· 她标「as to 学下」· 原话 `though I wouldn't go so far as to call it a rip-off.`
+- 2026-11-22 ✅ 学习日 在池第 2 组 [3] · `My boss even went so far as to say that if we messed up this project, he'd fire all of us.` 连错 1 → 连对 1
+
+### 691 · **stash away ＋ 钱／东西**（偷偷藏起来、一点点攒着：stash away money · a secret stash）
+类型 词组 ｜ 新建 2026-11-22 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-22 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**stash away** ＋ 钱／东西 ＝ 偷偷藏起来、背着人一点点攒着：`He's been stashing away money for years.`；away 可以放在宾语后面：`stash some cash away`；只说 stash 也行：`She stashed the candy in her drawer.`
+名词同形：**a stash** ＝ 藏起来的那一堆（a secret stash of cash · my snack stash）。
+同一格里的邻居（别串）：🎓#673 stuff sth away ＝ 随手塞起来收着（重点是"塞"，不是"藏"）· 🎓#650 tucked away ＝ 地方藏在不起眼处（主语是地点）· 🎓#457 build up 积蓄 ＝ 光明正大地攒钱，没有"藏"的意思 · save up ＝ 存钱（中性）。
+判据一句话：东西／钱被人**故意藏起来、不让别人知道** ⇒ stash (away)；只是随手塞进去 ⇒ stuff；正常存钱 ⇒ save up。
+
+**怎么发现的**
+2026-11-22 学习日 复检第 4 组 [7]（#574 题面"我老公一直背着我偷偷存私房钱。"）· 原话
+`My husband has been stashing away(这个词组学下)  secret money on the sly behind my back.`
+她写对了 stashing away，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #680 #687 先例）。
+判重三步：
+　① 目标形式 dedup "stash" ⇒ 全档零命中；"save up"／"hide" ⇒ 🎓#457 build up（积蓄）⇒ 词是 build up、没有"藏"的意思 ⇒ 否
+　② 中文 dedup "藏" ⇒ 🎓#650 tucked away（地点藏在不起眼处，主语是地方）⇒ 否；🎓#673 stuff sth away（随手塞起来，词是 stuff）⇒ 否；🎓#548 #275 #599 是正文碰巧有"藏"⇒ 否；"私房钱" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `stashing away … money`，但词组不在手边（自己标学下）　　目标：同她原句；私房钱 ⇒ stash away money（不用再加 secret，stash 本身就是"偷偷藏"）
+找法：中文"偷偷藏起来／偷偷攒着"、东西或钱不想让人知道 ⇒ stash (away)。
+
+**题面**
+"我儿子把过年收的红包钱全偷偷藏在床底下的鞋盒里。"（"偷偷藏"用 **stash away** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My son stashed away all his Chinese New Year money in a shoebox under his bed.
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 stash 点名。
+
+- 2026-11-22 ❌ 首犯 · 学习日 复检第 4 组 [7]（#574 题里）· 她标「这个词组学下」· 原话 `My husband has been stashing away  secret money on the sly behind my back.`
+
+### 692 · **brighten up ＋ 地方**（植物、花、装饰让屋子好看、有生气：Plants really brighten up a room.）
+类型 词组 ｜ 新建 2026-11-22
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**brighten up** ＋ 地方 ＝ 让一个地方看着更亮堂、更有生气（植物、花、颜色、装饰）：`A few plants can really brighten up your place.` · `Fresh flowers brighten up the kitchen.`；也能说心情：`Her call brightened up my day.`
+同一格里的邻居（别串）：light up ＝ 照亮（灯照亮屋子）· sb lights up the room ＝ 某人一来场面就热闹了（主语是人）· make sth look nice ＝ 让它好看（她 08-23 旧答用过，意思对、更平）。
+判据一句话：主语是植物／花／装饰，让屋子好看有生气 ⇒ brighten up；真的是光 ⇒ light up。
+
+**怎么发现的**
+2026-11-22 学习日 ③ 重答 bank:220（P3 · Do many people grow vegetables or flowers at home in your country?）· 原话
+`Young people grow plants too, mostly to light up their place, and they tend to go for potted plants since they're way less hassle.`
+diff-2 ⚠️：light up their place 读起来像"照亮"，植物让家里好看的固定说法是 brighten up ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "brighten" ⇒ 全档零命中；"light up"／"spruce" ⇒ 零命中
+　② 中文 dedup "装点"／"亮堂" ⇒ 零命中；"好看" ⇒ #687 compliment · 🎓#144 so…that · 🎓#605 in one sitting —— 正文碰巧有"好看"，词都不是 brighten ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`mostly to light up their place`　　更地道：`mostly to brighten up their place`
+找法：说"让家里好看、有生气"时，主语是植物／花／装饰 ⇒ brighten up；light up 留给灯和光。
+
+**题面**
+"我妈在客厅窗台上摆了几盆花，整个屋子一下子亮堂多了。"（"亮堂多了"用 **brighten up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom put a few pots of flowers on the living room windowsill, and they really brightened up the whole place.
+
+- 2026-11-22 新建 · 学习日 ③ 重答 bank:220 [S4]（⚠️ 更地道的表达，§3.2b）· 原话 `Young people grow plants too, mostly to light up their place, and they tend to go for potted plants since they're way less hassle.`
 
 ## 迁移说明（2026-08-18）
 

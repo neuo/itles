@@ -7821,3 +7821,21 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 10⇄0
 
 **下一场 ＝ 周期 18 · L3**：pick --type learn 带 --date；② lookback --pending（bank:1390）；④ redo 第 1 行（bank:220 R4）
+
+## 2026-11-22（周日）· 口语 L3（周期 18 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 668 ＝ problems.md 20 ＋ graduated.md 648 ｜ 🎓 648（97.0%）｜ 未毕业 20 ｜ 可出题 10 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 32 道
+
+- ① 在池 2 组 13 题 / 13 条：**✅13** ⇒ **毕业 7**（#675 #677 #679 #680 #681 #682 #683）
+- ①b 复检 2 组 20 题 / 20 条：**✅20**；回潮 0
+  · 她标学下：stash away（#691）
+  · ⚠️ 只进 diff-2：With the grudge …, they → These two families have held a grudge …, and now they · stashing away secret money → stashing away money
+- ② 回看 bank:1390
+- ③ 重答 bank:220（R4）：零真错；⚠️ light up their place → brighten up their place ⇒ 新建 #692；⚠️ 补 vegetables（只进 diff-2）；对比 08-23：少了开头的变量、vegetables 和收尾句，爷爷的实例更具体
+  · attempts 把 08-23 同一节的 R3 原话当成 R4 旧答 ⇒ 原样贴＋★更正，R4 真旧答手抄出处；08-23 原篇未改
+
+**教练犯规**：① #692 建号行先写成 ❌ 首犯（它是教练给的更好版，应写「新建」），当场改回
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 7⇄0
+
+**下一场 ＝ 周期 18 · R（付息日）**：pick --type review 带 --date；⓪ lookback --cycle；d 段 redo 第 1 行（bank:924）
