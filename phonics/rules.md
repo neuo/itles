@@ -77,6 +77,35 @@
 
 **自查办法**：把词哼出来，不念辅音，只哼节奏。phoTOGraphy 哼成 da-DAA-da-da，听重的落在哪一拍。
 
+### 基础：判重音的顺序（S1–S7 合起来）
+
+拿到一个词，按这个顺序走，走到哪一步定下来就停。
+
+**第 1 步：看词尾有没有下面这些后缀。** 有，就按它，后面几步都不用看。
+
+| 后缀 | 重音落在 | 规则 | 例 |
+|---|---|---|---|
+| -ic · -ical · -tion · -sion · -ity · -ial · -ian · -ious · -ient | 后缀前一个音节 | S1 | ecoNOMic · auTHORity · muSIcian |
+| -ate（3 个音节以上）· -graphy · -logy · -nomy · -cracy | 倒数第三个音节 | S2 | HESitate · phoTOGraphy · eCONomy |
+| -ee · -eer · -ese · -ique · -oon · -ette · -aire | 后缀自己 | S3 | engiNEER · uNIQUE · carTOON |
+| -ment · -ness · -ful · -less · -er · -ly · -able · -ing · -ed | 不挪，留在原词重读的地方 | S4 | deVELopment · emPLOYer |
+
+几个后缀叠在一起：从外往里剥，先剥掉 S4 的，看里面还剩什么（ecoNOMically → economical → -ical，S1）。
+
+**第 2 步：没有这些后缀，数音节。** 不发音的 e 不算（parade 是 pa-rade，2 个）。
+- 2 个音节 → S5：名词、形容词重读第 1，动词重读第 2。
+- 3 个以上 → S6：看倒数第二块，以辅音结尾就重读它，以元音结尾就重读它前面那块。
+
+**第 3 步：重音定了，再定元音（S7）。** 重读的音节读足，其余的元音弱读成 ə 或 ɪ。
+
+**数「倒数第几」**：最后一个音节算 1，往前数。pho-TO-gra-phy：phy 1 · gra 2 · to 3。
+
+**容易错的地方**（都是练习里出过的）：
+- 跳过第 1 步，凭感觉选第一个音节，或把原词的重音原样留下：historian、trovality（-ian、-ity 都要挪）。
+- 第 1 步的后缀认出来了，但记错了它归哪一行：-ique 是「后缀自己重读」，不是「后缀前一个」。
+- 数倒数第几时多数一位：terminology 是 gy 1 · lo 2 · no 3。
+- 把不发音的 e 数成一个音节，于是走错了第 2 步：parade。
+
 ### S1 · 后缀前一个音节重读（第 1 次讲）
 
 **规则**：词尾是下面这些后缀时，重音落在**后缀前面最近的那个元音**所在的音节。
