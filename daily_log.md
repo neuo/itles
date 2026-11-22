@@ -7832,7 +7832,7 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
   · ⚠️ 只进 diff-2：With the grudge …, they → These two families have held a grudge …, and now they · stashing away secret money → stashing away money
 - ② 回看 bank:1390
 - ③ 重答 bank:220（R4）：零真错；⚠️ light up their place → brighten up their place ⇒ 新建 #692；⚠️ 补 vegetables（只进 diff-2）；对比 08-23：少了开头的变量、vegetables 和收尾句，爷爷的实例更具体
-  · attempts 把 08-23 同一节的 R3 原话当成 R4 旧答 ⇒ 原样贴＋★更正，R4 真旧答手抄出处；08-23 原篇未改
+  · attempts 曾把 08-23 同一节的 R3 原话当成 R4 旧答 ⇒ 她定单独修：08-23 原篇 R4 拆成独立一节（只改 5 个标题行），④ 重贴；tests 785 全绿
 
 **教练犯规**：① #692 建号行先写成 ❌ 首犯（它是教练给的更好版，应写「新建」），当场改回
 

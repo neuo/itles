@@ -14,7 +14,7 @@
   —— 🆕 **新建 2 条**：#691 stash away（她标学下）· #692 brighten up ＋ 地方（重答里 light up their place 的更地道说法）
   —— ② 回看 bank:1390
   —— ③ 重答 bank:220（R4 家里种菜种花）**零真错**；比 08-23 旧答少了开头的变量、vegetables 和收尾句；爷爷的实例更具体
-  —— ⚠️ attempts bank:220 把 08-23 同一节的 R3 原话当成了 R4 旧答（那一节标题「R3 ＋ R4」、R4 小标题是粗体）⇒ 本场原样贴＋★更正，R4 真旧答手抄；08-23 原篇未改
+  —— 🔧 08-23 原篇 R4 拆成独立一节（只改 5 个标题行，正文不动）⇒ attempts bank:220 不再串入 R3 原话；④ 重贴；tests 785 全绿
   —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 7⇄0
   —— **下一场 ＝ 周期 18 · R（付息日）**：pick --type review 以 --date 为准；⓪ lookback --cycle；d 段 redo 第 1 行（bank:924）
 
