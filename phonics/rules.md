@@ -25,7 +25,7 @@
 | 编号 | 规则（一句话） | 例词 | 讲于 |
 |---|---|---|---|
 | P1 | c、g 在 e、i、y 前读软音（s、dʒ），其余读硬音（k、ɡ） | city · gem · cat · go | 第 8 次 |
-| P2 | ch 默认读 tʃ，希腊来源读 k，法语来源读 ʃ | chair · school · chef | 未讲 |
+| P2 | ch 默认读 tʃ，希腊来源读 k，法语来源读 ʃ | chair · school · chef | 第 9 次 |
 | P3 | ph 读 f；gh 在词首读 ɡ，在词尾读 f 或不发音 | phone · ghost · laugh · night | 未讲 |
 | P4 | 闭音节（元音后面有辅音收尾）读短音，y 和 i 一样读 ɪ（重点） | hot · cup · gym | 未讲 |
 | P5 | 元音 + 辅音 + 不发音的 e 读长音，y 和 i 一样读 aɪ（重点） | time · type · huge | 未讲 |
@@ -389,7 +389,7 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 - 想让 g 在 e、i 前保持硬音，常在中间加一个不发音的 u：guess `ɡes` · guide `ɡaɪd`。
 - cc 在 e、i 前读 `ks`：第一个 c 硬，第二个软：accept `əkˈsept` · success `səkˈses`。
 
-### P2 · ch 的三种读法
+### P2 · ch 的三种读法（第 9 次讲）
 
 **规则**：ch 默认读 `tʃ`。从希腊语来的词读 `k`，从法语来的词读 `ʃ`。
 
