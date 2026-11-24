@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-22 · 口语 L3（周期 18 第 3 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-23 · 口语 R（周期 18 付息日）· 已收尾**
+  —— a 在池 1 组 **10 题 / 10 条 ✅10**，🎓 **毕业 8 条**（#678 #684–#690）；在池只排得出 1 组，空出的 4 组下溢给复检
+  —— a2 复检 7 组 **70 题 / 83 条 ✅81 ❌2**；**回潮 3**（#656 a match · #440 sentimental 判 ❌；#458 snuggle up 她标学下）
+  —— 全档 **679** ＝ problems 26 ＋ graduated **653**（96.2%）｜ 未毕业 26 ｜ 可出题 16
+  —— 🆕 **新建 11 条** #693–#703：be short ＋ 人 · pop into · follow sb's tour · porridge · let in ＋ 球 · dread · like crazy · wag its tail · a base of · from the cold · sit around（前 10 条她标学下／背下或 ⚠️ 建号；sit around 是重答里 sit tight 用错）
+  —— ⓪ 回看 bank:1371 · bank:1390 · bank:220 ｜ d 段重答 bank:924：真错 3 → 1（首答 08-24），That said 自己用上了；新错 sit tight
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 8⇄3
+  —— **下一场 ＝ 周期 19 · L1**：pick --type learn 带 --date；② lookback --pending（bank:924）；④ redo 第 1 行（bank:1027）
+
+🆕🆕 **2026-11-22 · 口语 L3（周期 18 第 3 个学习日）· 已收尾**
   —— 在池 2 组 **13 题 / 13 条 ✅13**；复检 2 组 **20 题 / 20 条 ✅20**（在池只排得出 2 组，空出的 1 组下溢给复检）；回潮 0
   —— 🎓 **毕业 7 条**（#675 #677 #679 #680 #681 #682 #683）⇒ 全档 **668** ＝ problems 20 ＋ graduated **648**（97.0%）
   —— 🆕 **新建 2 条**：#691 stash away（她标学下）· #692 brighten up ＋ 地方（重答里 light up their place 的更地道说法）

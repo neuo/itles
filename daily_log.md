@@ -7839,3 +7839,22 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 7⇄0
 
 **下一场 ＝ 周期 18 · R（付息日）**：pick --type review 带 --date；⓪ lookback --cycle；d 段 redo 第 1 行（bank:924）
+
+## 2026-11-23（周一）· 口语 R（周期 18 付息日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 679 ＝ problems.md 26 ＋ graduated.md 653 ｜ 🎓 653（96.2%）｜ 未毕业 26 ｜ 可出题 16 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 31 道
+
+- a 在池 1 组 10 题 / 10 条：**✅10** ⇒ **毕业 8**（#678 #684 #685 #686 #687 #688 #689 #690）
+  · 她标学下：be short（#693）· pop into（#694）；⚠️ 建号：follow sb's tour（#695）
+- ⓪ 回看 bank:1371 · bank:1390 · bank:220
+- a2 复检 7 组 70 题 / 83 条：**✅81 ❌2**；回潮 3（#656 a match · #440 sentimental 判 ❌；#458 snuggle up 她标学下）
+  · 她标学下／背下：porridge（#696）· let in（#697）· dread（#698）· like crazy（#699）· wag（#700）· a base of（#701）· from the cold（#702）
+  · 种子补点名：#678 ask my mom ／ #5 bore ／ #130 can ／ #131 go
+- c 段：新建 11 条逐条判重全部保留；ask-unmarked 0、body-legacy 0
+- d 段重答 bank:924：❌1（sit tight → sit around ⇒ #703）⚠️1（dependent on them 指代）；对比 08-24 首答：真错 3 → 1，That said 自己用上；How 那一半变薄
+
+**教练犯规**：① 第一次 pick 按 11-24 跑（已还原重跑）② d 段旧答逐句 diff 先写成摘录，改成逐字抄 ③ 复检第 7 组 #85 题面偏离种子（承担 → 冒险）
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 8⇄3
+
+**下一场 ＝ 周期 19 · L1**：pick --type learn 带 --date；② lookback --pending（bank:924）；④ redo 第 1 行（bank:1027）
