@@ -388,3 +388,34 @@ ecoNOMically：剥掉 -ly 剩 economical，-ical 是 S1 的后缀 → 重读 NOM
 - g 在 e、i 前读硬音的常用词不少，多是英语本土的老词：get `ɡet` · give `ɡɪv` · girl `ɡɜːrl` · gift `ɡɪft` · begin `bɪˈɡɪn` · together `təˈɡeðər`。c 几乎没有这种例外。
 - 想让 g 在 e、i 前保持硬音，常在中间加一个不发音的 u：guess `ɡes` · guide `ɡaɪd`。
 - cc 在 e、i 前读 `ks`：第一个 c 硬，第二个软：accept `əkˈsept` · success `səkˈses`。
+
+### P2 · ch 的三种读法
+
+**规则**：ch 默认读 `tʃ`。从希腊语来的词读 `k`，从法语来的词读 `ʃ`。
+
+| 读法 | 什么样的词 | 例词 |
+|---|---|---|
+| `tʃ`（默认） | 日常用词，大多数都是 | chair `tʃer` · church `tʃɜːrtʃ` · much `mʌtʃ` · lunch `lʌntʃ` · teacher `ˈtiːtʃər` · kitchen `ˈkɪtʃɪn` |
+| `k`（希腊语） | ① ch 后面紧跟 r 或 l（chr-、chl-）<br>② 科学、学术、艺术类的词，常带 tech-、chem-、mech-、psych-、arch(i)-、orch- 这类希腊词根 | Christmas `ˈkrɪsməs` · chlorine `ˈklɔːriːn`<br>chemistry `ˈkemɪstri` · mechanic `məˈkænɪk` · architect `ˈɑːrkɪtekt` · orchestra `ˈɔːrkɪstrə` · technology · school `skuːl` · character `ˈkærəktər` · chaos `ˈkeɪɑːs` · chorus `ˈkɔːrəs` · echo `ˈekəʊ` · stomach `ˈstʌmək` |
+| `ʃ`（法语） | 法语借来的词，多是吃穿用、生活方式类的词 | chef `ʃef` · machine `məˈʃiːn` · brochure `brəʊˈʃʊr` · parachute `ˈpærəʃuːt` · chalet `ʃæˈleɪ` |
+
+**怎么用**：
+1. ch 后面是 r 或 l ⇒ 读 `k`，几乎没有例外。
+2. 这个词看着像科学或学术用语，或者带上面那几个希腊词根 ⇒ 读 `k`。
+3. 你知道这个词是从法语来的 ⇒ 读 `ʃ`。
+4. 都不是 ⇒ 读 `tʃ`。
+
+三种读法里 `tʃ` 最多，`ʃ` 最少。拿不准就读 `tʃ`。
+
+**反过来拼（听音写词）**：
+- 听到 `tʃ` ⇒ 写 ch。
+- 听到 `ʃ` ⇒ 默认写 sh（shop · fish）。只有法语借词才写 ch，这种词要单个记。
+- 听到 `k` ⇒ 默认写 c 或 k（P1 管用哪个）。写 ch 的都是希腊来的词，同样要单个记。
+
+**为什么**：英语本土的 ch 一直读 `tʃ`。希腊语里有个 `k` 音的字母，拉丁语转写成 ch，英语照搬了拼写，读音还是 `k`。法语的 ch 早年也读 `tʃ`，那时借进来的词（chair、chief）读 `tʃ`；后来法语变成读 `ʃ`，晚些借进来的词（chef、machine）就读 `ʃ`。
+
+**常见例外**：
+- 长得像但读法不同：chef `ʃef` 和 chief `tʃiːf` 都从法语来，chief 借得早，读 `tʃ`；arch `ɑːrtʃ` 单独读 `tʃ`，在 architect 里读 `k`。
+- choir `ˈkwaɪər`：ch 读 `kw`，只能记。
+- ache `eɪk` 读 `k`，可它不是学术词，只能记。
+- 看着像法语词、却读 `tʃ` 的也有：avalanche `ˈævəlæntʃ`。
