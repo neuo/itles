@@ -7858,3 +7858,18 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 8⇄3
 
 **下一场 ＝ 周期 19 · L1**：pick --type learn 带 --date；② lookback --pending（bank:924）；④ redo 第 1 行（bank:1027）
+
+## 2026-11-25（周三）· 口语 L1（周期 19 第 1 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 682 ＝ problems.md 29 ＋ graduated.md 653 ｜ 🎓 653 ｜ 未毕业 29 ｜ 可出题 19 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 30 道
+
+- 在池 2 组 15 题 / 15 条：**✅15** ⇒ **毕业 1**（#691）；⚠️ 建号 around ＋ 节日（#704）
+- 复检 2 组（1 ＋ 下溢 1）20 题 / 20 条：**✅20**；她标学下：to the point where（#705）· slack off（#706），各记 ❌ 首犯
+- ② 回看 bank:924
+- ③ 重答 bank:1027：❌1（Even for someone like me …, I still … ⇒ #347 回潮）；here → there 指称滑不落号；对比 08-24 首答：its one side 没再犯，首答更好版给的 its … over the edge ／ with it ／ glass building 都自己用上了
+
+**教练犯规**：② 回看节漏贴四件套（先写标题再跑 --pending 得到"无"），收尾前用 --print 补贴
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 1⇄1
+
+**下一场 ＝ 周期 19 · L2**：pick --type learn 带 --date；② lookback --pending（bank:1027）；④ redo 第 1 行（bank:987）

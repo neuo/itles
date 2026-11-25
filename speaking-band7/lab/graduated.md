@@ -15009,59 +15009,6 @@ where 引出的是一个句子，**X 后面必须有动词**；"所在"这个"�
 - 2026-10-04 ✅ 复检 · 付息日 a2 复检第 3 组 [5] · `I feel like that's exactly where the challenge of this job lies.` —— where 后面那句有动词 lies
 - 2026-10-22 ✅ 复检 · 付息日 a2 段复检第 5 组 [6] · `I feel like that's exact where the beauty of this film lies.` —— where … lies（★ exact → exactly，打字漏 -ly，只点出）。🎓 rc2 → rc3
 
-### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
-类型 结构 ｜ 新建 2026-09-19
-状态 连对2 连错0 上次2026-11-23 ｜ 题型 整句 ｜ **🎓 已毕业 2026-10-14**（连对2 ＝ 10-13 ＋ 10-14；10-12 回潮后第二次毕业）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
-
-**问题是什么**
-中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
-★ 话题不止 For X：**动名词短语**（Planning a family trip, it's …）、**whether 从句**（Whether it lasts, it …）摆在句首再用 it 回指，同属本条 ——
-　动名词短语／whether 从句本身就能当主语（Planning a family trip is mainly about …）；想保留"先摆话题"⇒ 用 When it comes to X, it's …（🎓#317）把话题包起来。
-英语一个句子只要一个主语 ⇒ **X 直接当主语**：Office workers usually have no choice but to eat out.
-同一格里的邻居（别串）：For X 后面换了**另一个**主语是对的 —— For office workers, eating out is the only option. ／
-For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135 管的是"社会／大家"这种中文主语用 there is／被动吃掉，
-本条管的是主语说了两遍 ⇒ 两条并存。
-判据一句话：For X 后面的主语是不是又指回 X（they／he／it）？是 ⇒ 删掉 For，让 X 直接当主语。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
-`For office workers, they usually have no choice but to eat out or order takeout`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 X 直接当主语 ⇒ dedup "For office"／"对于"／"主语重复"／"双主语" ⇒ 零命中；"当主语" ⇒ 🎓#135（"社会／大家"用 there is／被动吃掉）、
-　　 🎓#216（东西不会自己 leave）⇒ 都是"主语选谁"，本条是"主语说了两遍" ⇒ 否
-　② 中文 "对于…他们" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`For office workers, they usually have no choice but to eat out`　　更地道：`Office workers usually have no choice but to eat out`
-找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
-
-**题面**
-"对老年人来说，他们还是更喜欢去实体店买东西。"
-　　★ 零提示：Older people … ／ For older people, shopping in person … 都算对；她要改掉的是 For X, they … 主语说两遍
-
-- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
-  ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
-- 2026-09-22 ✅ 学习日 在池第 1 组 [3] · `Office workers have no choice but to grab a quick bite out.` —— Office workers 直接当主语，没有 For office workers, they… 那一层 ⇒ **连对 2，毕业**
-  ⚠️ diff-2：漏了"一般"（→ usually，🎓#22 她会，检索滑手）· a quick bite out → a quick bite somewhere（grab a quick bite 自带"在外面"，out 多余）
-- 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
-  去掉"⛔ option／choice 当主语"，改零提示；换成老年人去实体店场景 —— For X, they … 主语说两遍这条路照旧开着
-- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [5] · `What young people lack the most is real-world experience.` —— 没有 For X, they 主语说两遍
-- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [3]（#277 题里）· `Planning a family trip, it's mainly about setting a budget while giving everyone the freedom to pick their own spot.` —— 动名词短语当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同 For X, they … 一条规则）⇒ **回潮**
-  最小改 `Planning a family trip is mainly about setting a budget while giving everyone the freedom to pick their own spot.`
-  更好版 `When it comes to planning a family trip, it's mainly about …`（保留"先摆话题"就用 🎓#317 when it comes to 包起来）
-  ★ 判据扩写：话题不止 For X —— 动名词短语／whether 从句摆在句首再用 it 回指，同属本条（问题是什么节补 ★ 行）
-- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [8]（#284 题里）· `Whether a relationship can last long, it really boils down to whether both people are willing to talk things out.` —— whether 从句当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同一天第 2 行，§3.3 各记一次）
-  最小改 `Whether a relationship can last long really boils down to whether both people are willing to talk things out.`
-- 2026-10-13 ✅ 学习日 在池第 1 组 [3] · `For college freshmen, their biggest headache is usually figuring out how to get along with their roommates.` —— For X 后面换了另一个主语（their biggest headache），不是回指的 they。连错 2 → 连对 1
-  ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
-- 2026-10-14 ✅ 学习日 在池第 1 组 [3] · `For people living on their own, what scares them most is getting sick in the middle of the night with nobody around to take care of them.` —— For X 后面换了另一个主语（what scares them most），不是回指的 they。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
-- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [3] · `For many elementary school kids, summer break is the thing they look forward to the most` —— For X 之后换了主语 summer break，没有主语说两遍（她标 the most 要学 ⇒ 新建 #508）
-- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [9] · `For a lot of new mothers, what they lack the most is sleep.` —— 主句主语 what they lack the most（they 在主语从句里，⛔ 不是 For X, they … 主语说两遍）
-- 2026-11-23 ✅ 付息日 复检第 5 组 [7] · `For a lot of international students, the hardest part is not being able to go home for Chinese New Year.` —— For X 后面没再用 they
-
 ### 348 · "好吃"挂在吃的东西上：the food tastes better（⛔ cooking is delicious）
 类型 搭配 ｜ 新建 2026-09-19
 状态 连对2 连错0 上次2026-10-25 ｜ **🎓 已毕业 2026-09-22** ｜ 题型 整句
@@ -22195,7 +22142,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 
 ### 556 · **nothing to write home about**（一般般、不值一提：it's nothing to write home about）
 类型 词组 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
 
 **问题是什么**
 **be nothing to write home about** ＝ 一般般、没什么值得说的（不算差，就是不出彩）：`The food was nothing to write home about.` · `The hotel was clean, but nothing to write home about.`
@@ -22228,6 +22175,7 @@ background story 能懂，但"背景故事"英语有现成的一个词 backstory
 - 2026-11-06 ✅ 在池第 1 组 [2] · `…but I went there and found it was nothing to write home about.`（raving 背下 另建 #609）
 - 2026-11-07 ✅ 学习日 在池第 1 组 [3] · `The pictures on the hotel's site looked amazing, but once we checked in, it was nothing to write home about.` —— 连对 1 → 2 ⇒ 🎓 毕业
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [10] · `Honestly, this restaurant's signature dish is nothing to write home about.` —— 整块
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [1] · `honestly, it was nothing to write home about`
 
 ### 557 · **frost**（给蛋糕抹奶油／糖霜：frost the cake with cream）
 类型 词汇 ｜ 新建 2026-10-26 ｜ ⭐ 她点名要学
@@ -23050,7 +22998,7 @@ night 前面不带 the（⛔ the night fell）；名词说法 at nightfall（天
 
 ### 581 · **grill**（烤：在烤架／炭火／铁板上直接烤 ⇒ grilled squid；⛔ 与 roast 串）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 "烤"按做法分三个词：
@@ -23082,10 +23030,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [2] · `That place near the beach is super famous for grilled oysters(背下)—the queue is out the door every day.` —— grilled oysters。连错 1 → 连对 1；同句她标背下 ⇒ 新建 #604
 - 2026-11-06 ✅ 在池第 1 组 [3] · `We grilled up some steaks in the backyard over the weekend and washed them down with beer.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [1] · `We rented a barbecue grill at the beach and grilled shrimp by ourselves.` —— grilled shrimp
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [2] · `We grilled some sausages in the park at noon.`
 
 ### 582 · **squid**（鱿鱼；复数也是 squid）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **squid** ＝ 鱿鱼，单复数同形（some squid · two squid）；当食物吃时不可数：`grilled squid` · `dried squid`（鱿鱼干）。
@@ -23114,10 +23063,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [3] · `My daughter won't eat squid; she says it looks way too scary.` —— squid。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [4] · `Fishermen down by the coast were hanging the fresh squid up in rows to air dry.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [2] · `The first time I bought squid from the local market, I had no idea how to clean it.` —— squid
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [3] · `The squid slices at this hotpot spot are cut super thin.`
 
 ### 583 · **skewer**（一串：a skewer of grilled squid · lamb skewers；⛔ a stick of）
 类型 词汇 ｜ 新建 2026-11-03
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **skewer** ＝ 穿食物的签子，也指"一串"烤的东西：`a skewer of grilled squid` · `lamb skewers`（羊肉串）· `chicken skewers`。
@@ -23146,10 +23096,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [4] · `I ate ten lamb skewers at the night market in one sitting(这个短语学下).` —— ten lamb skewers。连错 1 → 连对 1；同句她标学下 ⇒ 新建 #605
 - 2026-11-06 ✅ 在池第 1 组 [5] · `This joint sells lamb skewers for five yuan a skewer, and they're both cheap and generous in size.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [3] · `We got a massive plate of mushroom and corn skewers for my friend's birthday.` —— skewers
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [4] · `a few skewers of candied hawthorns`
 
 ### 584 · **take sth home**（带回家；⛔ take back ＝ 退回／收回）
 类型 词组 ｜ 新建 2026-11-03
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 "带回（家）去" ＝ **take sth home**：`Take some dumplings home with you.` · `I took the leftovers home.`
@@ -23178,10 +23129,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [5] · `I took home half of the cake left over from our hangout.` —— took home。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [6] · `I brought my leftover office work home yesterday to finish it off.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [4] · `I carried the whole thing home after work` —— 东西 ＋ home
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [5] · `I brought home all the seashells I picked up on the beach.`（bring sth home，邻居里列过）
 
 ### 585 · **look the other way**（看向别处；引申：睁一只眼闭一只眼、故意不管）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **look the other way** 有两层：
@@ -23212,10 +23164,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [6] · `Even though the guard knew someone cut in line, he pretended not to notice and looked the other way.` —— looked the other way。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [7] · `Even though the parking attendant knew people were parking all over the place, he just chose to look the other way.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [5] · `The referee saw him commit the foul, but decided to just look the other way.` —— look the other way
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [6] · `yet he just looked the other way`
 
 ### 586 · **crash**（雷声轰隆：thunder crashed · a crash of thunder）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **crash** 说声音 ＝ 巨大的、轰的一声：`thunder crashed overhead`（头顶雷声轰隆）· `a crash of thunder`（一声炸雷）· `the waves crashed against the rocks` · `the plates came crashing down`。
@@ -23244,10 +23197,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [7] · `There was a loud crash of thunder at midnight that woke everyone up in the house.` —— a loud crash of thunder。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [8] · `There was a sudden crash of thunder outside the window, and my dog was so scared he scrambled under the bed.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [6] · `there was a sudden crash of thunder right above the mountain peak` —— a crash of thunder
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [7] · `there was a sudden crash of thunder`
 
 ### 587 · **quilt**（被子）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **quilt** ＝ 被子（尤其是缝起来、有夹层的那种棉被）：`air out the quilt`（晒被子）。
@@ -23276,10 +23230,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [8] · `Once the weather turned cold, I got the thick quilt out of the closet.` —— the thick quilt。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [9] · `My grandma made me a cotton quilt by hand, and I still sleep with it even now.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [7] · `The quilt at the hotel was super soft and lightweight` —— quilt
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [8] · `I crawled under the quilt to warm up`
 
 ### 588 · **chime**（钟、门铃叮咚地响）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **chime** ＝ 钟、门铃发出悦耳的叮咚声：`the clock chimed midnight` · `the doorbell chimed`；名词 wind chimes（风铃）。
@@ -23308,10 +23263,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [9] · `As soon as the doorbell chimed, I knew my takeout was here.` —— the doorbell chimed。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 1 组 [10] · `The moment the clock chimed on New Year's Eve, everyone in the plaza burst into cheers.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [8] · `As soon as the school bell chimed, the kids rushed straight out of the classroom.` —— chimed
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [9] · `the wind chimes on the balcony chime away`
 
 ### 589 · **on the hour**（每个整点）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **on the hour** ＝ 在每个整点：`The bus leaves every hour on the hour.` · `The clock chimes on the hour.`
@@ -23340,6 +23296,7 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 2 组 [10] · `The airport bus runs once an hour, right on the hour.` —— right on the hour。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [1] · `The news channel runs a weather forecast every hour on the hour.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [9] · `The musical fountain in the plaza performs every single time on the hour.` —— on the hour 在；旁注 every single time 拧，固定说法 every hour on the hour
+- 2026-11-25 ✅ 复检 · 学习日 复检第 4 组 [10] · `does a lucky draw right on the hour, every hour`
 
 ### 590 · **bust**（口语：被警察抓、被逮到 ⇒ get busted）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
@@ -25823,7 +25780,7 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 
 ### 666 · **set sb up with sb**（给人介绍对象、牵线）
 类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **set sb up with sb** ＝ 给某人介绍对象、牵线让两个人认识约会：`She set me up with her coworker.`
@@ -25852,10 +25809,11 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 - 2026-11-14 ❌ 首犯 · 付息日 在池第 1 组 [7]（#646 题里）· 她标「set .. up with. 学下」· 原话 `keeps insisting on setting me up with her cousin.`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [5] · `My mom is always trying to set me up with her friend's son.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [1] · `My coworker has been trying to set my cousin up with a boyfriend.` —— set my cousin up with。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [1] · `My bestie insisted on setting me up with a new coworker from her company.`
 
 ### 667 · **foul out**（篮球犯满离场；⛔ be booted out）
 类型 词组 ｜ 新建 2026-11-14
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **foul out (of the game)** ＝ 犯规次数满了、按规则必须离场：`He fouled out in the fourth quarter.`
@@ -25884,10 +25842,11 @@ budded ＝ booted 拼写（§2.1 不算）；⚠️ 不地道：booted out 是"�
 - 2026-11-14 ❌ 首犯 · 付息日 在池第 1 组 [9]（#648 题里）· ⚠️ 不地道 · 原话 `so he had to be budded out.`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [6] · `Our best guard fouled out in the fourth quarter, and we ended up losing by three points.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [2] · `He fouled out before the third quarter was even over, so he just had to sit on the sidelines and watch.` —— fouled out。连对 1 → 2 ⇒ 🎓 毕业（她标 sidelines 背下 ⇒ 新建 #685）
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [2] · `With five minutes left in the game, he fouled out.`
 
 ### 668 · **whisper**（小声说、悄悄说）
 类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **whisper** ＝ 压低声音、用气声说（动词，也作名词）：`She whispered something in my ear.` · `in a whisper`
@@ -25916,10 +25875,11 @@ hear sb whisper sth（听见某人小声说）· whisper to sb（跟某人说悄
 - 2026-11-14 ❌ 首犯 · 付息日 在池第 2 组 [4]（#653 题里）· 她标「背下」· 原话 `I heard someone whisper my name from behind the door.`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [7] · `my coworker leaned over and whispered to me that the boss was in a bad mood today.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [3] · `Halfway through the movie, my daughter whispered to me that she needed to use the bathroom.` —— whispered to me that。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [3] · `the person sitting next to me whispered to let me know my phone was going off`
 
 ### 669 · **时间段 ＋ in**（开始以后第几分钟／几年：twenty minutes in）
 类型 句型 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **时间段 ＋ in** ＝ 某件事开始以后过了这么久：`twenty minutes in`（比赛开了 20 分钟）· `two years in`（干了两年）。
@@ -25948,10 +25908,11 @@ in 放在时间段后面，后面不带东西；要说出是什么事 ⇒ 换成
 - 2026-11-14 ❌ 首犯 · 付息日 在池第 2 组 [8]（#657 题里）· 她标「in 放后面的语法学下」· 原话 `He got injured just twenty minutes in, so the coach had no choice but to take him off.`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [8] · `Just ten minutes in, I had already guessed the ending of the movie.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [4] · `Just twenty pages in, I couldn't get through the rest of the book.` —— twenty pages in。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [4] · `We were only an hour into our road trip when we got a flat tire.`
 
 ### 670 · **sometimes …, other times …**（有时候…，有时候…）
 类型 句型 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **sometimes A, (and) other times B** ＝ 有时候 A、有时候 B（同一个人／事在不同时候不一样）：`Sometimes she walks to work, other times she takes the bus.`
@@ -25980,10 +25941,11 @@ in 放在时间段后面，后面不带东西；要说出是什么事 ⇒ 换成
 - 2026-11-14 ❌ 首犯 · 付息日 在池第 3 组 [2]（#661 题里）· 她标「这个other times 学下」· 原话 `sometimes he goes to bed at 3 a.m., and other times he crashes at 9 p.m.`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [9] · `Sometimes I bike to work, and other times I take the subway—it just depends on the weather.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [5] · `On weekends, sometimes I stay home and read, and other times I go hiking—it just depends on my mood.` —— sometimes …, and other times …。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [5] · `sometimes I follow a recipe, and other times I just wing it`
 
 ### 671 · **expense reimbursement**（报销；动词 reimburse sb）
 类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **reimbursement** ＝ 报销（名词）：`the expense reimbursement process`（报销流程）· `submit a reimbursement request`（交报销单）。
@@ -26012,10 +25974,11 @@ in 放在时间段后面，后面不带东西；要说出是什么事 ⇒ 换成
 - 2026-11-14 ❌ 首犯 · 付息日 复检第 4 组 [4]（#617 题里）· 她标「背下」· 原话 `This new expense reimbursement process is way too complicated`
 - 2026-11-15 ✅ 学习日 在池第 2 组 [10] · `The company reimburses all our taxi rides on business trips, as long as we keep the receipts.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [6] · `the company said they can reimburse me for half of its tuition.` —— reimburse me for。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [6] · `The company will reimburse us for the meal costs from our team-building event.`
 
 ### 672 · **形容词 ＋ around ＋ 人**（在谁面前／跟谁在一起时怎么样：shy around people）
 类型 结构 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **shy／nervous／comfortable／awkward ＋ around ＋ 人** ＝ 跟这些人在一起的时候是什么状态：
@@ -26045,10 +26008,11 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-14 ❌ 首犯 · 付息日 复检第 4 组 [8]（#544 题里）· 她标「这个 around 的用法学下」· 原话 `That stray dog was super shy around people at first`
 - 2026-11-15 ✅ 学习日 在池第 3 组 [1] · `My son gets super shy around relatives and refuses to say a single word.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [7] · `My wife is super quiet around strangers, but once she's with friends, she can't stop talking.` —— quiet around strangers。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [7] · `I always get super nervous around my boss`
 
 ### 673 · **stuff sth away**（随手塞起来收着；stuff sth into ＋ 地方）
 类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **stuff sth away** ＝ 把东西胡乱一塞、收起来不管：`I stuffed the dirty clothes away in the closet.`
@@ -26077,10 +26041,11 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-14 ❌ 首犯 · 付息日 复检第 5 组 [4] 打包 a（#554 题里）· 她标「这个词组学下」· 原话 `that smelly sleeping bag from camping that had been stuffed away for three days`
 - 2026-11-15 ✅ 学习日 在池第 3 组 [2] · `Guests were about to arrive, so I quickly stuffed all the clothes on the couch into the closet.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [8] · `Before heading out, I casually stuffed my keys into my jacket pocket.` —— stuffed my keys into。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [8] · `She just stuffed all the unopened packages under the bed.`
 
 ### 674 · **attic**（阁楼）
 类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **attic** ＝ 房子最顶上、屋顶下面那一层（阁楼），常用来堆旧东西：`in the attic` · `clean out the attic`。
@@ -26108,6 +26073,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-14 ❌ 首犯 · 付息日 复检第 5 组 [7]（#558 题里）· 她标「背下」· 原话 `While cleaning out the attic at my parents' place`
 - 2026-11-15 ✅ 学习日 在池第 3 组 [3] · `Our attic is piled high with old newspapers that my dad just can't bear to throw away.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 1 组 [9] · `When I was a kid, my favorite thing to do was hide out in my grandma's attic and read comics.` —— my grandma's attic。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [9] · `We put away all our out-of-season clothes up in the attic.`
 
 ### 675 · **alumni**（校友，复数；单数口语 an alum）
 类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
@@ -26146,7 +26112,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 
 ### 676 · **hold its own**（站得住、不被比下去：The product can hold its own.）
 类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-16 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-25 ｜ **🎓 已毕业 2026-11-16** ｜ 题型 整句
 
 **问题是什么**
 **hold one's own** ＝ 跟别人、跟对手比，不落下风、不被比下去。
@@ -26177,6 +26143,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-14 ❌ 首犯 · 付息日 d 段重答 bank:414 S4 · 她标「hold its own 学一下」· 原话 `whether its product can actually hold its own（hold its own 学一下）, not just how much it advertises.`
 - 2026-11-15 ✅ 学习日 在池第 3 组 [5] · `Our team was made up entirely of newbies, yet playing against that powerhouse, we totally held our own.` —— 连错 1 → 连对 1
 - 2026-11-16 ✅ 学习日 在池第 2 组 [1] · `Our little coffee shop is right between two Starbucks, and surprisingly, it totally holds its own against them.` —— holds its own against them。连对 1 → 2 ⇒ 🎓 毕业
+- 2026-11-25 ✅ 复检 · 学习日 复检第 3 组 [10] · `this domestic phone can really hold its own`
 
 ### 677 · **can't take it anymore**（实在受不了了、忍不下去了）
 类型 词组 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
@@ -26623,3 +26590,35 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-16 ❌ 首犯 · 学习日 复检第 4 组 [10]（#70 题里）· 她标「as to 学下」· 原话 `though I wouldn't go so far as to call it a rip-off.`
 - 2026-11-22 ✅ 学习日 在池第 2 组 [3] · `My boss even went so far as to say that if we messed up this project, he'd fire all of us.` 连错 1 → 连对 1
 - 2026-11-23 ✅ 付息日 在池第 1 组 [6] · `my friend even went so far as to quit her job and travel all over the country with her tour` —— 连对 1 → 2 ⇒ 🎓 毕业（travel with her tour ⚠️ ⇒ 新建 #695）
+
+### 691 · **stash away ＋ 钱／东西**（偷偷藏起来、一点点攒着：stash away money · a secret stash）
+类型 词组 ｜ 新建 2026-11-22 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-25 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-25**
+
+**问题是什么**
+**stash away** ＋ 钱／东西 ＝ 偷偷藏起来、背着人一点点攒着：`He's been stashing away money for years.`；away 可以放在宾语后面：`stash some cash away`；只说 stash 也行：`She stashed the candy in her drawer.`
+名词同形：**a stash** ＝ 藏起来的那一堆（a secret stash of cash · my snack stash）。
+同一格里的邻居（别串）：🎓#673 stuff sth away ＝ 随手塞起来收着（重点是"塞"，不是"藏"）· 🎓#650 tucked away ＝ 地方藏在不起眼处（主语是地点）· 🎓#457 build up 积蓄 ＝ 光明正大地攒钱，没有"藏"的意思 · save up ＝ 存钱（中性）。
+判据一句话：东西／钱被人**故意藏起来、不让别人知道** ⇒ stash (away)；只是随手塞进去 ⇒ stuff；正常存钱 ⇒ save up。
+
+**怎么发现的**
+2026-11-22 学习日 复检第 4 组 [7]（#574 题面"我老公一直背着我偷偷存私房钱。"）· 原话
+`My husband has been stashing away(这个词组学下)  secret money on the sly behind my back.`
+她写对了 stashing away，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #680 #687 先例）。
+判重三步：
+　① 目标形式 dedup "stash" ⇒ 全档零命中；"save up"／"hide" ⇒ 🎓#457 build up（积蓄）⇒ 词是 build up、没有"藏"的意思 ⇒ 否
+　② 中文 dedup "藏" ⇒ 🎓#650 tucked away（地点藏在不起眼处，主语是地方）⇒ 否；🎓#673 stuff sth away（随手塞起来，词是 stuff）⇒ 否；🎓#548 #275 #599 是正文碰巧有"藏"⇒ 否；"私房钱" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `stashing away … money`，但词组不在手边（自己标学下）　　目标：同她原句；私房钱 ⇒ stash away money（不用再加 secret，stash 本身就是"偷偷藏"）
+找法：中文"偷偷藏起来／偷偷攒着"、东西或钱不想让人知道 ⇒ stash (away)。
+
+**题面**
+"我儿子把过年收的红包钱全偷偷藏在床底下的鞋盒里。"（"偷偷藏"用 **stash** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My son stashed away all his Chinese New Year money in a shoebox under his bed.
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 stash 点名。
+
+- 2026-11-22 ❌ 首犯 · 学习日 复检第 4 组 [7]（#574 题里）· 她标「这个词组学下」· 原话 `My husband has been stashing away  secret money on the sly behind my back.`
+- 2026-11-23 ✅ 付息日 在池第 1 组 [7] · `My son stashed away all his Chinese New Year red envelope money in a shoebox under his bed.` —— 连错 1 → 连对 1；下次点名降回 stash
+- 2026-11-25 ✅ 学习日 在池第 1 组 [4] · `My mom always stashes away her secret money inside old books.`

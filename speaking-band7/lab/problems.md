@@ -707,9 +707,65 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
+### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
+类型 结构 ｜ 新建 2026-09-19
+状态 连对0 连错1 上次2026-11-25 未毕业 ｜ 题型 整句 ｜ **回潮 2026-11-25**（10-14 第二次毕业 → 11-25 学习日重答 bank:1027 写成 `Even for someone like me who's …, I still can't help …`，For X 后再用 I 指回 X，撤销毕业、连对清零）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
+
+**问题是什么**
+中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
+★ 话题不止 For X：**动名词短语**（Planning a family trip, it's …）、**whether 从句**（Whether it lasts, it …）摆在句首再用 it 回指，同属本条 ——
+　动名词短语／whether 从句本身就能当主语（Planning a family trip is mainly about …）；想保留"先摆话题"⇒ 用 When it comes to X, it's …（🎓#317）把话题包起来。
+英语一个句子只要一个主语 ⇒ **X 直接当主语**：Office workers usually have no choice but to eat out.
+同一格里的邻居（别串）：For X 后面换了**另一个**主语是对的 —— For office workers, eating out is the only option. ／
+For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135 管的是"社会／大家"这种中文主语用 there is／被动吃掉，
+本条管的是主语说了两遍 ⇒ 两条并存。
+判据一句话：For X 后面的主语是不是又指回 X（they／he／it）？是 ⇒ 删掉 For，让 X 直接当主语。
+
+**怎么发现的**
+2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
+`For office workers, they usually have no choice but to eat out or order takeout`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
+判重三步：
+　① 目标形式 X 直接当主语 ⇒ dedup "For office"／"对于"／"主语重复"／"双主语" ⇒ 零命中；"当主语" ⇒ 🎓#135（"社会／大家"用 there is／被动吃掉）、
+　　 🎓#216（东西不会自己 leave）⇒ 都是"主语选谁"，本条是"主语说了两遍" ⇒ 否
+　② 中文 "对于…他们" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`For office workers, they usually have no choice but to eat out`　　更地道：`Office workers usually have no choice but to eat out`
+找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
+
+**题面**
+"对老年人来说，他们还是更喜欢去实体店买东西。"
+　　★ 零提示：Older people … ／ For older people, shopping in person … 都算对；她要改掉的是 For X, they … 主语说两遍
+
+- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
+- 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
+  ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
+- 2026-09-22 ✅ 学习日 在池第 1 组 [3] · `Office workers have no choice but to grab a quick bite out.` —— Office workers 直接当主语，没有 For office workers, they… 那一层 ⇒ **连对 2，毕业**
+  ⚠️ diff-2：漏了"一般"（→ usually，🎓#22 她会，检索滑手）· a quick bite out → a quick bite somewhere（grab a quick bite 自带"在外面"，out 多余）
+- 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
+- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
+  去掉"⛔ option／choice 当主语"，改零提示；换成老年人去实体店场景 —— For X, they … 主语说两遍这条路照旧开着
+- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [5] · `What young people lack the most is real-world experience.` —— 没有 For X, they 主语说两遍
+- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [3]（#277 题里）· `Planning a family trip, it's mainly about setting a budget while giving everyone the freedom to pick their own spot.` —— 动名词短语当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同 For X, they … 一条规则）⇒ **回潮**
+  最小改 `Planning a family trip is mainly about setting a budget while giving everyone the freedom to pick their own spot.`
+  更好版 `When it comes to planning a family trip, it's mainly about …`（保留"先摆话题"就用 🎓#317 when it comes to 包起来）
+  ★ 判据扩写：话题不止 For X —— 动名词短语／whether 从句摆在句首再用 it 回指，同属本条（问题是什么节补 ★ 行）
+- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [8]（#284 题里）· `Whether a relationship can last long, it really boils down to whether both people are willing to talk things out.` —— whether 从句当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同一天第 2 行，§3.3 各记一次）
+  最小改 `Whether a relationship can last long really boils down to whether both people are willing to talk things out.`
+- 2026-10-13 ✅ 学习日 在池第 1 组 [3] · `For college freshmen, their biggest headache is usually figuring out how to get along with their roommates.` —— For X 后面换了另一个主语（their biggest headache），不是回指的 they。连错 2 → 连对 1
+  ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
+- 2026-10-14 ✅ 学习日 在池第 1 组 [3] · `For people living on their own, what scares them most is getting sick in the middle of the night with nobody around to take care of them.` —— For X 后面换了另一个主语（what scares them most），不是回指的 they。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [3] · `For many elementary school kids, summer break is the thing they look forward to the most` —— For X 之后换了主语 summer break，没有主语说两遍（她标 the most 要学 ⇒ 新建 #508）
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [9] · `For a lot of new mothers, what they lack the most is sleep.` —— 主句主语 what they lack the most（they 在主语从句里，⛔ 不是 For X, they … 主语说两遍）
+- 2026-11-23 ✅ 付息日 复检第 5 组 [7] · `For a lot of international students, the hardest part is not being able to go home for Chinese New Year.` —— For X 后面没再用 they
+- 2026-11-25 ❌ 学习日 重答 bank:1027（P2 · Describe an interesting building）[S10] · `Even for someone like me who's completely used to seeing it, I still can't help taking a second look whenever I walk by, simply because it's just so cute.` —— For X（someone like me）后面主语又用 I 指回 X ⇒ 主语说两遍 ⇒ **回潮**
+  最小改 `Even someone like me who's completely used to seeing it still can't help taking a second look whenever I walk by, simply because it's just so cute.`
+  更好版 `Even though I'm completely used to seeing it, I still can't help taking a second look whenever I walk by, simply because it's so cute.`（说自己就用 Even though I'm …，一个 I 到底）
+
 ### 440 · sentimental（煽情、催泪）≠ dramatic（夸张、戏剧化）
 类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **sentimental** ＝ 煽情、感情渲染过头、就想让人哭：`an overly sentimental ending`。
@@ -743,10 +799,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [3]a · `the principal's sentimental speech at graduation` —— sentimental。🎓 rc0 → rc1
 - 2026-10-25 ✅ 复检 · 学习日 复检第 3 组 [9]a（打包）· `a sentimental background story on a talent show` —— sentimental（background story ⚠️ ⇒ 新建 #542 backstory）
 - 2026-11-23 ❌ 付息日 复检第 3 组 [9] 打包 b · 忘了（动画片结尾那首特别煽情的主题曲）—— 目标 the overly sentimental theme song ⇒ 回潮
+- 2026-11-25 ✅ 学习日 在池第 1 组 [1] · `that super sentimental background music in the wedding video`
 
 ### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
 类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **snuggle up** ＝ 舒舒服服地蜷着、贴着：`snuggle up to sb`（贴着某人）· `snuggle up on the couch`／`snuggle up in bed`（窝在沙发上／被窝里）· `snuggle up with a book`。
@@ -779,10 +836,11 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [4] · `It was a freezing night, and the two puppies snuggled up together to keep warm.`
 - 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [10] · `My nephew needs to snuggle up with his huge teddy bear every night just to fall asleep.` —— snuggle up with
 - 2026-11-23 ❌ 付息日 复检第 4 组 [8] 打包 c（#459 题里）· 她标「这个短语学下」· `the little granddaughter snuggled up in her grandma's arms watching TV` —— 写对了但她说要学（§3.2b 她说不会的地方照常判 ❌）⇒ 回潮
+- 2026-11-25 ✅ 学习日 在池第 1 组 [2] · `she always loves to snuggle up in my arms`
 
 ### 656 · **a match**（红娘撮合成的一对：none of her matches worked out）
 类型 词汇 ｜ 新建 2026-11-13
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **match**（名词）＝ 撮合／配对成的一对：`none of her matches have worked out` · `They're a perfect match.`
@@ -812,37 +870,7 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-11-14 ✅ 付息日 在池第 2 组 [7] · `they're pretty much my first successful match` —— 连错 1 → 连对 1
 - 2026-11-15 ✅ 学习日 在池第 1 组 [5] · `Out of all the matches my aunt tried to make, not a single one worked out in the end.` —— 连对 1 → 2 ⇒ 🎓
 - 2026-11-23 ❌ 付息日 复检第 2 组 [5] · `The couple our team leader made a match for is getting married next month.` —— make a match for ＋ 人 ＝ 给这人找对象，挂在 the couple 上意思偏了；最小改 matched up，更好版 One of our team leader's matches ⇒ 回潮
-
-### 691 · **stash away ＋ 钱／东西**（偷偷藏起来、一点点攒着：stash away money · a secret stash）
-类型 词组 ｜ 新建 2026-11-22 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-23 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**stash away** ＋ 钱／东西 ＝ 偷偷藏起来、背着人一点点攒着：`He's been stashing away money for years.`；away 可以放在宾语后面：`stash some cash away`；只说 stash 也行：`She stashed the candy in her drawer.`
-名词同形：**a stash** ＝ 藏起来的那一堆（a secret stash of cash · my snack stash）。
-同一格里的邻居（别串）：🎓#673 stuff sth away ＝ 随手塞起来收着（重点是"塞"，不是"藏"）· 🎓#650 tucked away ＝ 地方藏在不起眼处（主语是地点）· 🎓#457 build up 积蓄 ＝ 光明正大地攒钱，没有"藏"的意思 · save up ＝ 存钱（中性）。
-判据一句话：东西／钱被人**故意藏起来、不让别人知道** ⇒ stash (away)；只是随手塞进去 ⇒ stuff；正常存钱 ⇒ save up。
-
-**怎么发现的**
-2026-11-22 学习日 复检第 4 组 [7]（#574 题面"我老公一直背着我偷偷存私房钱。"）· 原话
-`My husband has been stashing away(这个词组学下)  secret money on the sly behind my back.`
-她写对了 stashing away，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #680 #687 先例）。
-判重三步：
-　① 目标形式 dedup "stash" ⇒ 全档零命中；"save up"／"hide" ⇒ 🎓#457 build up（积蓄）⇒ 词是 build up、没有"藏"的意思 ⇒ 否
-　② 中文 dedup "藏" ⇒ 🎓#650 tucked away（地点藏在不起眼处，主语是地方）⇒ 否；🎓#673 stuff sth away（随手塞起来，词是 stuff）⇒ 否；🎓#548 #275 #599 是正文碰巧有"藏"⇒ 否；"私房钱" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：写对了 `stashing away … money`，但词组不在手边（自己标学下）　　目标：同她原句；私房钱 ⇒ stash away money（不用再加 secret，stash 本身就是"偷偷藏"）
-找法：中文"偷偷藏起来／偷偷攒着"、东西或钱不想让人知道 ⇒ stash (away)。
-
-**题面**
-"我儿子把过年收的红包钱全偷偷藏在床底下的鞋盒里。"（"偷偷藏"用 **stash** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：My son stashed away all his Chinese New Year money in a shoebox under his bed.
-★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 stash 点名。
-
-- 2026-11-22 ❌ 首犯 · 学习日 复检第 4 组 [7]（#574 题里）· 她标「这个词组学下」· 原话 `My husband has been stashing away  secret money on the sly behind my back.`
-- 2026-11-23 ✅ 付息日 在池第 1 组 [7] · `My son stashed away all his Chinese New Year red envelope money in a shoebox under his bed.` —— 连错 1 → 连对 1；下次点名降回 stash
+- 2026-11-25 ✅ 学习日 在池第 1 组 [3] · `Out of the matches she made last year, two couples have already gotten married.`
 
 ### 692 · **brighten up ＋ 地方**（植物、花、装饰让屋子好看、有生气：Plants really brighten up a room.）
 类型 词组 ｜ 新建 2026-11-22
@@ -875,7 +903,7 @@ diff-2 ⚠️：light up their place 读起来像"照亮"，植物让家里好�
 
 ### 693 · **be short ＋ 人／东西**（还缺一个…：We're short a drummer.）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **be short ＋ 名词** ＝ 还缺一个／少几个（人手、东西没凑齐）：`We're short a player.` · `The kitchen is short two chefs tonight.`
@@ -903,10 +931,11 @@ diff-2 ⚠️：light up their place 读起来像"照亮"，植物让家里好�
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 short 点名。
 
 - 2026-11-23 ❌ 首犯 · 付息日 在池第 1 组 [2]（#686 题里）· 她标「这个短语学下」· 原话 `The band for our company's annual party was short a drummer, so my husband volunteered to step in.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [5] · `We're still short one person for mahjong—do you want in?`
 
 ### 694 · **pop into ＋ 地方**（顺路进去一下、进去待一小会儿：I popped into the supermarket.）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **pop into** ＋ 地方 ＝ 顺便／很快地进去一下，待不久就出来：`I popped into the supermarket on my way home.`
@@ -933,10 +962,11 @@ diff-2 ⚠️：light up their place 读起来像"照亮"，植物让家里好�
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 pop 点名。
 
 - 2026-11-23 ❌ 首犯 · 付息日 在池第 1 组 [4]（#688 题里）· 她标「这个短语学一下」· 原话 `I only meant to pop into the store for a quick look, but I ended up walking out with three pieces of clothing.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [6] · `I popped into the supermarket to grab a bottle of milk`
 
 ### 695 · **follow sb's tour ／ follow sb on tour**（追巡演、一站站跟着看）
 类型 搭配 ｜ 新建 2026-11-23
-状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **follow sb's tour** ／ **follow sb on tour** ＝ 粉丝跟着歌手、乐队的巡演一站站去看：`She followed the band's tour all over Europe.` · `He followed them on tour for a whole summer.`
@@ -961,10 +991,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：She followed that band's tour for three whole years and went to more than twenty cities.
 
 - 2026-11-23 新建 · 付息日 在池第 1 组 [6]（#690 题里，⚠️ 更地道的表达，§3.2b）· 原话 `To follow that singer, my friend even went so far as to quit her job and travel all over the country with her tour.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [5] · `She followed that band's tour for three years straight`
 
 ### 696 · **porridge**（粥：a bowl of porridge · make porridge）
 类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **porridge** ＝ 粥（米粥、燕麦粥都行，不可数）：`a bowl of porridge` · `My grandma makes porridge every morning.`
@@ -989,10 +1020,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：Whenever I'm sick, my mom always makes me a pot of plain rice porridge.
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [1]（#652 题里）· 她标「背一下」· 原话 `Whenever my grandma makes porridge, she always adds a spoonful of brown sugar.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [7] · `my mom always makes me a pot of plain porridge`（diff-2：plain rice porridge）
 
 ### 697 · **let in ＋ 球**（丢球、被对方进球：He let in three goals.）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **let in** ＋ 几个 goals ＝ （守门员／球队）让对方进了球、丢球：`The goalkeeper let in three goals.` · `They didn't let in a single goal all game.`
@@ -1018,10 +1050,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 let 点名。
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [6]（#657 题里）· 她标「这个短语学下」· 原话 `That goalkeeper let in three goals in the first half, so the coach took him off at halftime.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [8] · `our team let in three goals in the first half alone`
 
 ### 698 · **dread ＋ 名词／-ing**（一想到就发怵、很怕某件要来的事）
 类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **dread** ＋ 名词／-ing ＝ 很怕一件迟早要来的事，一想到就发怵：`I dread Monday mornings.` · `I'm dreading going back to work.`
@@ -1047,10 +1080,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：What I dread most is Monday morning meetings.
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [7]（#658 题里）· 她标「这个词学下」· 原话 `what we moms dread the most is our kids getting a fever in the middle of the night.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [9] · `What I dread the most is having meetings on Monday mornings.`
 
 ### 699 · **动词 ＋ like crazy**（疯狂地、特别厉害地：The cat sheds like crazy.）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 动词 ＋ **like crazy** ＝ 一个动作做得特别猛、"疯狂地…"（口语）：`The cat sheds like crazy.` · `It's been raining like crazy.` · `The phone got hyped up like crazy.`
@@ -1077,10 +1111,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 crazy 点名。
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 4 组 [2]（#441 题里）· 她标「like crazy 又忘了，再学下」· 原话 `My coworker's cat sheds like crazy, so she comes to work with cat hair all over her coat every day.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [10] · `orders at our warehouse shot up like crazy`
 
 ### 700 · **wag its tail**（狗摇尾巴：wag its tail at sb）
 类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **wag** ＝ 狗（猫）摇尾巴：`The dog wagged its tail.` · `wag its tail at sb` ＝ 冲某人摇尾巴；也能单用：`The dog's tail was wagging.`
@@ -1105,10 +1140,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：As soon as I take out a treat, my dog starts wagging its tail like mad.
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 4 组 [3]（#442 题里）· 她标「背下」· 原话 `That old dog at my grandma's place is super affectionate—he even wags his tail at strangers.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [1] · `my dog starts wagging his tail like crazy`
 
 ### 701 · **a base of ＋ 一群人**（一批稳定的…：a base of regular customers）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **a base of ＋ 人** ＝ 一批固定的、撑着你的人：`a base of regular customers` · `a loyal fan base` · `a customer base`。
@@ -1136,10 +1172,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：After two years as a food blogger, he's built up a base of loyal fans.
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 5 组 [4]（#457 题里）· 她标「学一下」· 原话 `After running an online store for three years, she has slowly built up a base of regular customers.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [2] · `he has built up a solid base of loyal fans`
 
 ### 702 · **from the cold**（冻得…：结果 ＋ from the cold）
 类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **结果 ＋ from the cold** ＝ 因为冷而…：`My hands turned purple from the cold.` · `She was shaking from the cold.`
@@ -1166,10 +1203,11 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 ★ 目标形式（教练看，⛔ 不进发题稿）：After waiting half an hour for the bus, I was shaking from the cold.
 
 - 2026-11-23 ❌ 首犯 · 付息日 复检第 7 组 [4]（#60 题里）· 她标「学下」· 原话 `If you ride a bike in the winter without gloves, your hands will turn purple from the cold.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [3] · `I was shaking from the cold`
 
 ### 703 · **sit around**（闲坐着、什么都不干；⛔ sit tight ＝ 原地等着）
 类型 词组 ｜ 新建 2026-11-23
-状态 连对0 连错1 上次2026-11-23 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **sit around** ＝ 闲坐着、啥也不干（常跟 and do nothing／doing nothing 连用）：`They'd rather sit around and do nothing.` · `He just sits around all day.`
@@ -1195,6 +1233,97 @@ sit tight 的意思是"原地等着"，她要说的是"闲着不干" ⇒ 选词�
 ★ 目标形式（教练看，⛔ 不进发题稿）：Now that it's summer break, my son just sits around at home all day doing nothing.
 
 - 2026-11-23 ❌ 首犯 · 付息日 d 段重答 bank:924 S5 · 原话 `they'd rather just sit tight and do nothing at all`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [4] · `my son just sits around at home all day doing nothing`
+
+### 704 · **around ＋ 节日／时间点**（那段时间前后：around Christmas · around Double Eleven）
+类型 搭配 ｜ 新建 2026-11-25
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**around ＋ 节日／时间点** ＝ 那个节日（时间点）前后那几天：`Around Christmas, the malls are packed.` · `Prices always go up around Chinese New Year.`
+同一格里的邻居（别串）：🎓#562 the next／past few days（"这几天"＝相对现在的短期，不挂节日）· during ＋ 节日（节日期间之内，也对，但说"前后那几天"用 around 更贴）。
+判据一句话：中文是"X 那几天／X 前后"、X 是节日或时间点 ⇒ around X，⛔ 不把"那几天"译成 those … days。
+★ 题型判整句：around 是个小介词，单拎出来没法判，要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-25 学习日 在池第 1 组 [10]（#699 题面"双十一那几天，我们仓库的订单疯狂地往上涨。"）· 原话
+`During those Double Eleven days, orders at our warehouse shot up like crazy.`
+能懂，但"那几天"被直译成 those … days；英语直接说 Around Double Eleven ⇒ §3.2b 能学的表达 ⇒ 建号（⚠️ 档）。
+判重三步：
+　① 目标形式 dedup "around Christmas" ⇒ 零命中；grep 条目头含 around 的 ⇒ #703 sit around · 🎓#471 lounge around · 🎓#474 get around · 🎓#495 beat around the bush · 🎓#617 wrap one's head around · 🎓#659 mess around · 🎓#672 形容词＋around＋人 ⇒ 全是 around 作副词／"在某人面前"，差在不是"时间前后" ⇒ 否
+　② 中文 dedup "那几天" ⇒ #699（本题自己的条目，考点 like crazy）⇒ 否；🎓#562 the next／past few days ⇒ 差在"相对现在的这几天"，不挂节日 ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+★ 🎓#385 的历史里她 11-06 说过 `back around Chinese New Year` ⇒ 她见过这个用法，缺口是这次没调出来。
+
+**我错在哪**
+她的：`During those Double Eleven days, …`　　更地道：`Around Double Eleven, …`
+找法：中文冒出"X 那几天／X 前后"、X 是节日 ⇒ 先落 around X。
+
+**题面**
+"每年中秋节前后，月饼的价格都会涨。"（"前后"用 **around** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Mooncake prices go up every year around the Mid-Autumn Festival.
+
+- 2026-11-25 新建 · 学习日 在池第 1 组 [10]（#699 题里）· 原话 `During those Double Eleven days, orders at our warehouse shot up like crazy.`
+
+### 705 · **to the point where ＋ 句子**（到了…的地步：nervous, to the point where I stutter）
+类型 句型 ｜ 新建 2026-11-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**…, to the point where ＋ 完整句** ＝ 程度深到出现了后面那个结果（"…到了…的地步"）：`I get so nervous around my boss, to the point where I stutter.` · `He was exhausted, to the point where he fell asleep at his desk.`
+where 后面接**完整句**（有主语有谓语）；也可以说 to the point of ＋ -ing（`to the point of stuttering`）。
+同一格里的邻居（别串）：🎓#690 go so far as to ＋ 动词（某人**主动做出**极端的事："甚至说／甚至去做"）· so … that …（"太…以至于"，更平）。
+判据一句话：前面说一个状态、后面说它严重到产生的结果 ⇒ , to the point where ＋ 句子；说某人居然去做了某件过分的事 ⇒ go so far as to。
+
+**怎么发现的**
+2026-11-25 学习日 复检第 3 组 [7]（#672 题面"我在领导面前总是很紧张，说话都结巴。"）· 原话
+`I always get super nervous around my boss, to the point where(这个短语学下) I even stutter when I talk.`
+她用对了，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 #694 #696 先例）。
+判重三步：
+　① 目标形式 dedup "to the point" ⇒ 🎓#495 beat around the bush（命中的是 get to the point ＝ 说正题，另一个词组）⇒ 否；#703 sit around（命中的是历史行里她 11-23 的原话）⇒ 否
+　② 中文 dedup "以至于"／"到了…的地步"／"甚至到" ⇒ 🎓#690 go so far as to（差在：那条是某人主动做出的极端行为，本条是状态严重到出现的结果）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+★ #703 历史里她 11-23 已经用过一次 `to the point where without a reward, they'd rather …` ⇒ 她会用，要的是把它固定下来。
+
+**我错在哪**
+她的：用对了 `to the point where I even stutter`，但块不在手边（自己标学下）　　目标：同她原句
+找法：想说"…到了…的地步／严重到…" ⇒ 先落 , to the point where ＋ 完整句。
+
+**题面**
+"他最近工作压力特别大，大到晚上都睡不着觉。"（"大到…"用 **to the point where** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：He's been under so much pressure at work lately, to the point where he can't sleep at night.
+
+- 2026-11-25 ❌ 首犯 · 学习日 复检第 3 组 [7]（#672 题里）· 她标「这个短语学下」· 原话 `I always get super nervous around my boss, to the point where I even stutter when I talk.`
+
+### 706 · **slack off**（偷懒、摸鱼：slack off on the job · slack off at work）
+类型 词组 ｜ 新建 2026-11-25 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-25 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**slack off** ＝ 该干活的时候不好好干、偷懒（"摸鱼"）：`Some employees slack off when the boss isn't around.` · `Don't slack off on your studies.`
+常跟 on the job／at work／on ＋ 事情 连用。
+同一格里的邻居（别串）：goof off（瞎玩不干正事，更口语）· 🎓#659 mess around（瞎闹、胡闹）· #703 sit around（闲坐着什么都不干，不一定是在该干活的时候）。
+判据一句话：该干活的场合里磨洋工 ⇒ slack off；纯粹闲着没事 ⇒ sit around。
+★ 题型判整句："偷懒"单拎出来 be lazy／goof off 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-25 学习日 复检第 4 组 [6]（#585 题面"店长明知道有员工上班摸鱼，却假装没看见。"）· 原话
+`The store manager knew full well some employees were slacking off（这个短语学下) on the job, yet he just looked the other way.`
+她用对了，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 #694 #696 #705 先例）。
+判重三步：
+　① 目标形式 dedup "slack"／"goof off" ⇒ 全档零命中
+　② 中文 dedup "摸鱼"／"偷懒" ⇒ 零命中；近邻 🎓#659 mess around（瞎闹，不限干活场合）、#703 sit around（闲坐着）⇒ 差在不是"该干活时偷懒" ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `were slacking off on the job`，但块不在手边（自己标学下）　　目标：同她原句
+找法：想说"上班摸鱼／偷懒／磨洋工" ⇒ slack off (on the job)。
+
+**题面**
+"期末考试快到了，你可别再偷懒了。"（"偷懒"用 **slack off** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Finals are coming up—you really can't slack off anymore.
+
+- 2026-11-25 ❌ 首犯 · 学习日 复检第 4 组 [6]（#585 题里）· 她标「这个短语学下」· 原话 `some employees were slacking off on the job`
 
 ## 迁移说明（2026-08-18）
 
