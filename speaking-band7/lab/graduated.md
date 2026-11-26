@@ -9128,7 +9128,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 
 ### 251 · cost ＋ 钱／take ＋ 时间／spend ＋ 人做主语
 类型 搭配 ｜ 旧号 B230
-状态 连对2 连错0 上次2026-11-13 ｜ **回潮 2026-11-06**（10-20 第二次毕业 → 11-06 复检 #372 题里写成 `I spent a week to finally get one`，spend ＋ 时间 ＋ to do，撤销毕业、连对清零；更早一次回潮 10-17 见历史行）｜ **🎓 已毕业 2026-11-08**（连对2 ＝ 11-07 ＋ 11-08；11-06 回潮后第三次毕业）｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **回潮 2026-11-06**（10-20 第二次毕业 → 11-06 复检 #372 题里写成 `I spent a week to finally get one`，spend ＋ 时间 ＋ to do，撤销毕业、连对清零；更早一次回潮 10-17 见历史行）｜ **🎓 已毕业 2026-11-08**（连对2 ＝ 11-07 ＋ 11-08；11-06 回潮后第三次毕业）｜ 题型 整句
 
 **问题是什么**
 **cost ＋ 钱 ／ take ＋ 时间 ／ spend ＋ 人做主语**：
@@ -9175,6 +9175,7 @@ stuck **IN** ＝ 被困在环境／容器里（🎓#247）。
 - 2026-11-07 ✅ 学习日 在池第 1 组 [1] · `Moving this time cost me two thousand yuan, plus it took me three full days just to pack my stuff up.` —— cost me（钱）／ took me（时间）分配对 ✓。连错 1 → 连对 1（"请搬家公司"漏译 ⇒ 另建 #616）
 - 2026-11-08 ✅ 付息日 在池第 1 组 [1] · `Enrolling in this guitar class cost me five grand, and it took me more than two months just to master the first piece.` —— cost me（钱）／ took me（时间）分配都对。连对 1 → 2 ⇒ 🎓 毕业（11-06 回潮后重新毕业）
 - 2026-11-13 ✅ 学习日 复检第 3 组 [9] · `cost me four grand in tuition, and practicing took me an entire summer` —— 钱配 cost、时间配 take
+- 2026-11-26 ✅ 学习日 复检第 4 组 [7] · `This dress cost me eight hundred yuan, and getting it altered took me another week.`
 - 备注 2026-08-19 她在自由句里写 `it just takes/costs ten minutes`（两个都列出来）——
   首选 takes 是对的，不记回潮；但 **cost 只配钱** 这条边界还没固化，再出现一次就按回潮处理
 
@@ -10296,7 +10297,7 @@ besides him       ← 否定句里成立（No one besides me knows.），
 
 ### 271 · recently／lately／so far 这一族默认拉完成时（要用一般现在时就换成 these days）
 类型 语法 ｜ **合并条·出题多句覆盖**（§3.2c）｜ 新建 2026-08-23
-状态 连对2 连错0 上次2026-11-13 ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-11-06**（10-12 第二次毕业 → 11-06 复检 #392 打包块里写成 `my daughter is obsessed with recently`，recently 配了一般现在时，撤销毕业、连对清零；更早一次回潮 10-10 见历史行）｜ **🎓 已毕业 2026-11-08**（连对2 ＝ 11-07 ＋ 11-08；11-06 回潮后第三次毕业）
+状态 连对2 连错0 上次2026-11-26 ｜ **合并条·出题多句覆盖** ｜ 题型 整句 ｜ **回潮 2026-11-06**（10-12 第二次毕业 → 11-06 复检 #392 打包块里写成 `my daughter is obsessed with recently`，recently 配了一般现在时，撤销毕业、连对清零；更早一次回潮 10-10 见历史行）｜ **🎓 已毕业 2026-11-08**（连对2 ＝ 11-07 ＋ 11-08；11-06 回潮后第三次毕业）
 
 **问题是什么**
 **recently ／ lately ／ so far** 这一族默认**拉完成时**（要用一般现在时就换成 **these days**）。
@@ -10346,8 +10347,8 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 　　★ 目标形式（教练看，⛔ 不进发题稿）：① I haven't had much time recently. ② Things have got a lot pricier lately.
 
 **成员出题账**
-① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅ · 10-11 ✅ · 10-12 ✅ · 10-16 ✅ · 10-25 ✅ · 11-06 ❌（🎓#392 块里自发）· 11-07 ✅ · 11-08 ✅
-② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅ · 10-11 ✅ · 10-12 ✅ · 10-16 ✅ · 10-25 ✅ · 11-07 ✅ · 11-08 ✅
+① recently ｜ 08-23 ❌（首犯）· 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅ · 10-11 ✅ · 10-12 ✅ · 10-16 ✅ · 10-25 ✅ · 11-06 ❌（🎓#392 块里自发）· 11-07 ✅ · 11-08 ✅ · 11-26 ✅
+② lately ｜ 08-24 ✅ · 08-25 ✅ · 09-11 ✅ · 10-04 ✅ · 10-11 ✅ · 10-12 ✅ · 10-16 ✅ · 10-25 ✅ · 11-07 ✅ · 11-08 ✅ · 11-26 ✅
 ★ 题面外的两次**自发命中**（不出题、只留痕）：08-25 `over the past year`（拉完成时）·
 　08-26 `These days he's doing really well.`（判据的另一半，走现在时）⇒ 她调的是判据不是那几个词。
 
@@ -10398,6 +10399,7 @@ recently ／ lately ／ so far ／ up to now ＝ "**到现在为止的一段**" 
 - 2026-11-07 ✅ 学习日 在池第 1 组 [2] · `① I haven't had time to call my parents recently. ／ ② We've had quite a few power outages in our neighborhood lately.` —— recently／lately 都拉了完成时 ⇒ 成员出题账两行补 11-07 ✅。连错 1 → 连对 1
 - 2026-11-08 ✅ 付息日 在池第 1 组 [2] · ① `I haven't been having a proper breakfast recently.` ② `We've had a bunch of new coworkers join our team lately.` —— 两个成员都拉对完成（进行）时。连对 1 → 2 ⇒ 🎓 毕业（11-06 回潮后重新毕业）
 - 2026-11-13 ✅ 学习日 复检第 3 组 [10] · ① `I've been learning how to cook recently.` ② `the weather has been all over the place lately` —— 两句都拉完成时
+- 2026-11-26 ✅ 学习日 复检第 4 组 [8] · ① `I've been binge-watching a Korean drama recently.` ② `We've had quite a few heavy rainstorms here lately.`
 - 备注 与 🎓#90 的分工写死：**#90 ＝ for/since · ever/never/before · just/already/yet**
   ｜ **本条 ＝ recently／lately／so far／up to now**。两条题面互斥，各走各的连击
 
@@ -18253,6 +18255,45 @@ diff-2 ⚠️：company instability 能懂，但"工作没保障"英语固定说
 - 2026-10-24 ✅ 复检 · 学习日 复检第 4 组 [4]c（打包）· `a major comeback in a debate after getting pushed around in the first half` —— comeback
 - 2026-11-23 ✅ 付息日 复检第 3 组 [9] 打包 a · `a comeback on election day`
 
+### 440 · sentimental（煽情、催泪）≠ dramatic（夸张、戏剧化）
+类型 词汇 ｜ 新建 2026-10-09 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 词组 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**sentimental** ＝ 煽情、感情渲染过头、就想让人哭：`an overly sentimental ending`。
+**dramatic** ＝ 戏剧化、起伏大、反应夸张：a dramatic ending（结局反转大、很有冲击力）· overly dramatic（演得太过、大惊小怪）。
+同一格里的邻居（别串）：sappy（口语，酸、肉麻）· melodramatic（狗血、苦情那种夸张）。
+判据一句话：重点在"催泪、感情泛滥" ⇒ sentimental；重点在"情节起伏、反应夸张" ⇒ dramatic。
+★ 题型判词组：中文块"煽情的…"能映射回 sentimental（sappy／tear-jerking 合法照判）；再落到 dramatic ⇒ ❌。
+
+**怎么发现的**
+2026-10-09 学习日 复检第 3 组 [7]（#404 题面"我觉得这部电影的结局太煽情了。"）· 原话
+`I felt like then ending of the movie was overly dramatic(这个词学下).`
+她自己标「这个词学下」⇒ §2③ 建号，判 ❌；"煽情"落到 dramatic 只沾边（dramatic 是夸张、戏剧化，煽情是催泪、感情泛滥）⇒ 目标 sentimental。
+判重三步：
+　① 目标形式 dedup "sentimental"／"dramatic"／"melodramatic"／"sappy" ⇒ 零命中
+　② 中文 dedup "煽情"／"催泪" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`overly dramatic`（她标「这个词学下」）　　更准：`overly sentimental`
+找法：说"煽情"之前问一句 —— 是想让人哭（sentimental），还是演得夸张（dramatic）？
+
+**题面**
+"电视剧结尾那段特别煽情的告别戏"（故意把感情往上推、就为了让人哭的那种）
+
+- 2026-10-09 ❌ 首犯 · 学习日 复检第 3 组 [7]（#404 题里）· 她标「这个词学下」· 原话 `I felt like then ending of the movie was overly dramatic(这个词学下).`
+- 2026-10-10 ❌ 学习日 在池第 2 组 [2] · 「忘了」—— sentimental 没调出来（§3.3 "忘了"也是 ❌）。连错 1 → 2
+  最小改 `the really sentimental farewell scene at the end of the TV series`
+  ❌ "煽情" ＝ sentimental（催泪、感情泛滥）；⛔ 别落到 dramatic（情节起伏大、反应夸张）
+- 2026-10-11 ✅ 学习日 在池第 1 组 [6] · `that super sentimental speech the groom gave at the wedding` —— sentimental。连错 2 → 连对 1
+- 2026-10-12 ✅ 付息日 a 段在池第 1 组 [3] · `those super sentimental scenes in Mother's Day commercials` —— sentimental（没落到 dramatic）。连对 1 → 2 ⇒ **毕业**
+- 2026-10-16 ✅ 复检 · 学习日 复检第 3 组 [3]a · `the principal's sentimental speech at graduation` —— sentimental。🎓 rc0 → rc1
+- 2026-10-25 ✅ 复检 · 学习日 复检第 3 组 [9]a（打包）· `a sentimental background story on a talent show` —— sentimental（background story ⚠️ ⇒ 新建 #542 backstory）
+- 2026-11-23 ❌ 付息日 复检第 3 组 [9] 打包 b · 忘了（动画片结尾那首特别煽情的主题曲）—— 目标 the overly sentimental theme song ⇒ 回潮
+- 2026-11-25 ✅ 学习日 在池第 1 组 [1] · `that super sentimental background music in the wedding video`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [2] · `that super sentimental reunion scene at the end of the Spring Festival Gala comedy skit` —— 连对 1 → 2 ⇒ 🎓
+
 ### 441 · shed（猫狗掉毛：a dog that doesn't shed）
 类型 词汇 ｜ 新建 2026-10-10 ｜ ⭐ 她点名要学
 状态 连对2 连错0 上次2026-11-23 ｜ **🎓 已毕业 2026-10-12** ｜ 题型 整句
@@ -18831,6 +18872,44 @@ stray 本身对（#447 ✅），diff-2 ⚠️：说的是自己住的小区 ⇒ 
 - 2026-10-17 ✅ 付息日 复检第 3 组 [5] · `she built up a solid network of contacts`
 - 2026-10-26 ✅ 学习日 复检第 2 组 [8]（题面"你每天跑一点，体力慢慢就能练上来。"，点名降到 build）· `Just run a little each day, and you'll gradually build up your endurance.` —— build up（up 自己补上）。🎓 rc1 → rc2
 - 2026-11-23 ✅ 付息日 复检第 5 组 [4] · `she has slowly built up a base of regular customers`（她标 a base of 学一下 ⇒ 新建 #701）
+
+### 458 · snuggle up（舒服地贴着／窝着：snuggle up to sb · on／in ＋ 地方）
+类型 词组 ｜ 新建 2026-10-12 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**snuggle up** ＝ 舒舒服服地蜷着、贴着：`snuggle up to sb`（贴着某人）· `snuggle up on the couch`／`snuggle up in bed`（窝在沙发上／被窝里）· `snuggle up with a book`。
+不带 up 时常跟 into：`snuggle into sb's arms`（钻进某人怀里）。
+同一格里的邻居（别串）：cuddle（搂着、抱抱，偏"互相抱"）· curl up（蜷成一团，不一定贴着人）· nestle（偎依，偏书面）。
+判据一句话：想说"贴着／窝着、很舒服" ⇒ snuggle up；后面是人 ⇒ to sb，是地方 ⇒ on／in ＋ 地方。
+★ 题型判整句："依偎""窝着"能映射到 cuddle／curl up／nestle 一串合法说法 ⇒ 词组题零英文提示收不拢 ⇒ 整句 ＋ 正向点名。
+★ 与 #459（in sb's arms）分工：本条考动词块 snuggle up，#459 考名词 arms／lap ⇒ 两个考点；本条题面 ⛔ 不出"怀里"（互斥）。
+
+**怎么发现的**
+2026-10-12 付息日 a 段在池第 1 组 [5]（#442 题面"我奶奶养的那只兔子特别亲人，总爱往人怀里钻。"）· 原话
+`My grandma's rabbit is super affectionate and loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).`
+她写出了 snuggling up，但自己标「这个词组学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 🎓#433 先例：她标要学的块写对了也照判 ❌）。
+判重三步：
+　① 目标形式 dedup "snuggle"／"cuddl"／"nestle"／"curl up" ⇒ 零命中；dedup "hug" ⇒ 🎓#333 🎓#371 #442 —— 都只是历史行字串，考点不是它 ⇒ 否
+　② 中文 dedup "依偎"／"钻" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：自己标「这个词组学下」（块不在手边）　　目标：`snuggling up into people's arms`／`snuggle up to sb`
+找法：想说"贴着／窝着、很舒服"⇒ 先落 snuggle up，再看后面挂的是人（to）还是地方（on／in）。
+
+**题面**
+"下雨天我就想窝在沙发上，跟我女儿依偎在一起看电影。"（"依偎在一起"用 **snuggle up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On rainy days, I just want to snuggle up on the couch with my daughter and watch a movie.
+
+- 2026-10-12 ❌ 首犯 · 付息日 a 段在池第 1 组 [5]（#442 题里）· 她标「这个词组学下」· 原话 `My grandma's rabbit is super affectionate and loves snuggling up（这个词组学下) into people's laps(怀里怎么说，不会).`
+- 2026-10-13 ✅ 学习日 在池第 1 组 [9] · `On rainy days, I just like lounging(背一下) on the couch and snuggling up with my daughter to watch a movie.` —— snuggling up with ＋ 人。连错 1 → 连对 1 ｜ lounging 她标「背一下」⇒ 新建 #471
+- 2026-10-14 ✅ 学习日 在池第 1 组 [4] · `On winter nights when we're watching TV, our cat loves to come over and snuggle up with me.` —— snuggle up with ＋ 人。连对 1 → 2 ⇒ **🎓 毕业**
+- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [4] · `It was a freezing night, and the two puppies snuggled up together to keep warm.`
+- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [10] · `My nephew needs to snuggle up with his huge teddy bear every night just to fall asleep.` —— snuggle up with
+- 2026-11-23 ❌ 付息日 复检第 4 组 [8] 打包 c（#459 题里）· 她标「这个短语学下」· `the little granddaughter snuggled up in her grandma's arms watching TV` —— 写对了但她说要学（§3.2b 她说不会的地方照常判 ❌）⇒ 回潮
+- 2026-11-25 ✅ 学习日 在池第 1 组 [2] · `she always loves to snuggle up in my arms`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [3] · `snuggle up with my boyfriend to binge-watch shows` —— 连对 1 → 2 ⇒ 🎓
 
 ### 459 · in sb's arms（怀里）≠ in sb's lap（腿上）
 类型 词组 ｜ 新建 2026-10-12 ｜ 她说不会
@@ -23300,7 +23379,7 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 
 ### 590 · **bust**（口语：被警察抓、被逮到 ⇒ get busted）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **bust** ＝ 口语里的"抓、逮住"（警察抓人，或干坏事被人逮到），常用被动 get busted：`He got busted for drunk driving.` · `I got busted sneaking out.`
@@ -23329,10 +23408,11 @@ bake ＝ 面包、蛋糕、饼干这类面点：`bake a cake`。
 - 2026-11-04 ✅ 学习日 在池第 3 组 [1] · `The vendor selling fake goods got busted by the police last week.` —— got busted。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [2] · `My roommate cheated on the test and got busted on the spot by the exam supervisor.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 3 组 [10] · `He got busted by the cops in the end for selling pirated books online.` —— got busted
+- 2026-11-26 ✅ 学习日 复检第 3 组 [8] · `my dad busted him right in the act`（她标 snuck out of 学下 ⇒ 新建 #713；要求 in the act 对比 on the spot／on site ⇒ 新建 #714，与本条题面互斥）
 
 ### 591 · **at the end of ＋ 名词**（在…的结尾／尽头；⛔ in the end of）
 类型 搭配 ｜ 新建 2026-11-03
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **at the end of ＋ 名词** ＝ 在某样东西的结尾、尽头：`at the end of the movie` · `at the end of the street` · `at the end of the day`。
@@ -23362,10 +23442,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [2] · `Right at the end of this street, there's a really small noodle place.` —— at the end of this street。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [3] · `I have to turn in a work report at the end of each month.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [1] · `Right at the end of the meeting, the boss suddenly announced there would be layoffs.` —— at the end of
+- 2026-11-26 ✅ 学习日 复检第 3 组 [9] · `The part at the end of the movie made me tear up.`
 
 ### 592 · **back up**（下水道、水槽堵住、往回冒：the sewer backed up · the sink is backed up）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **back up** ＝ 管道堵住、水往回冒：`The kitchen sink is backed up again.` · `The toilet backed up.`
@@ -23394,10 +23475,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [3] · `The kitchen sink got backed up again, so the water has nowhere to go.` —— got backed up。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [4] · `The drains in this building back up whenever we get heavy rain.`（她要学 drain／sewer／drainage 区别 ⇒ 另建 #610）
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [2] · `the floor drain in my bathroom backs up` —— backs up
+- 2026-11-26 ✅ 学习日 复检第 3 组 [10] · `The bathtub in the hotel room was backed up, and water kept backing up from the drain.`
 
 ### 593 · **hype up**（大肆宣传、吹得很神：be hyped up to be amazing）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **hype (up)** ＝ 大肆宣传、吹得很神：`The movie was hyped up as the best of the year.` · `It's overhyped.`（被吹过头了）
@@ -23426,10 +23508,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [4] · `That new phone got hyped up like crazy before it came out, but it turned out to be nothing to write about home.` —— got hyped up like crazy。连错 1 → 连对 1（同句 write about home 归 🎓#556 ❌ 回潮）
 - 2026-11-06 ✅ 在池第 2 组 [5] · `That new hot pot joint was hyped up so much on the internet, but I tried it and found it pretty average.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [3] · `my roommate hyped it up like crazy` —— hyped it up
+- 2026-11-26 ✅ 学习日 复检第 4 组 [1] · `This viral face cream was hyped up like crazy`
 
 ### 594 · **bring up**（在聊天里提起某个话题）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **bring up** ＝ （在谈话里）提起、说起某事：`Don't bring up his ex.` · `She brought up an interesting point.`
@@ -23458,10 +23541,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [5] · `Don't bring up overtime pay during the meeting, or the boss will get upset.` —— bring up。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [6] · `My dad always brings up his younger days in the army whenever he drinks too much.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [4] · `relatives bringing up when she's going to get married at the dinner table` —— bring up；旁注 at the dinner table 应贴近 relatives
+- 2026-11-26 ✅ 自发命中 · 学习日 在池第 1 组 [9]（#698 题里，本条没被出题）· `she starts crying the second we even bring it up.` —— bring up 提起话题
 
 ### 595 · **choke on**（呛着、噎着、卡住喉咙：choke on water／a fish bone）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **choke on sth** ＝ 被某样东西呛着、噎着、卡住喉咙：`I choked on my coffee.` · `He choked on a fish bone.`
@@ -23490,10 +23574,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [6] · `He wasn't careful eating the fish and ended up choking on a bone.` —— choking on a bone。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [7] · `My daughter took a drink too fast and suddenly started choking on the water.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [5] · `While eating peanuts, I choked on one and ended up coughing for ages.` —— choked on
+- 2026-11-26 ✅ 学习日 复检第 4 组 [2] · `I was laughing so hard that I choked on a bite of food.`
 
 ### 596 · **trailer**（电影预告片）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **trailer** ＝ 电影、剧集的预告片：`the official trailer` · `watch the trailer`。
@@ -23522,10 +23607,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [7] · `When the new movie trailer came out, the internet completely went wild.` —— the new movie trailer。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [8] · `I normally watch the trailer before making up my mind to go to the cinema.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [6] · `I've watched the trailer of this series several times already.` —— trailer；旁注介词口语默认 the trailer for
+- 2026-11-26 ✅ 学习日 复检第 4 组 [3] · `the theater plays twenty minutes of trailers first.`
 
 ### 597 · **on a whim**（一时兴起、心血来潮）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **on a whim** ＝ 一时兴起、没怎么想就去做：`We booked the trip on a whim.` · `I bought it on a whim.`
@@ -23554,10 +23640,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [8] · `We just bought tickets to the beach right after work on Friday on a whim.` —— on a whim。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [9] · `She cut her long hair short on a whim, and now she kind of regrets it.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [7] · `He enrolled in a pottery class after work purely on a whim.` —— on a whim
+- 2026-11-26 ✅ 学习日 复检第 4 组 [4] · `I bought a ukulele online totally on a whim.`
 
 ### 598 · **send out résumés**（投简历；⛔ deliver）
 类型 搭配 ｜ 新建 2026-11-03
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 投简历 ＝ **send out résumés**（一次投好几家）／ send in a résumé ／ apply for a job：`I sent out dozens of résumés.`
@@ -23586,10 +23673,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [9] · `The month before graduation, I had to send out twenty to thirty resumes every single day.` —— send out … resumes。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 2 组 [10] · `Ever since my cousin quit her job, she's sent out more than fifty resumes online without any responses.`（⚠️ 没回音 ⇒ 另建 #611）
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [8] · `Without sending out a single resume, my little brother landed two job offers.` —— sending out
+- 2026-11-26 ✅ 学习日 复检第 4 组 [5] · `she sent out over a hundred resumes in a single month.`
 
 ### 599 · **road trip**（自驾游、开车一路玩；口语也当动词 road-trip）
 类型 词组 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-11 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-06** ｜ 题型 整句
 
 **问题是什么**
 **road trip** ＝ 开车出远门玩、一路开一路玩：`go on a road trip` · `a cross-country road trip`；口语也当动词：`We road-tripped down the coast.`
@@ -23618,10 +23706,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-04 ✅ 学习日 在池第 3 组 [10] · `During the National Day holiday, my family took a road trip all the way from Chengdu to Yunnan.` —— took a road trip。连错 1 → 连对 1
 - 2026-11-06 ✅ 在池第 3 组 [1] · `During the summer after graduation, a few of us took a week-long road trip along the coast.`
 - 2026-11-11 ✅ 复检 · 学习日 复检第 4 组 [9] · `my parents took a road trip around the whole of Xinjiang` —— took a road trip
+- 2026-11-26 ✅ 学习日 复检第 4 组 [6] · `We're planning to take a road trip all the way around Hainan Island next spring.`
 
 ### 600 · **stern**（严厉的、板着脸的：a stern look · a stern teacher）
 类型 词汇 ｜ 新建 2026-11-03 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-13 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
 
 **问题是什么**
 **stern** ＝ 严厉、不苟言笑（脸色、语气、人）：`a stern look` · `a stern voice` · `Our teacher was really stern.`
@@ -23650,10 +23739,11 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-06 ✅ 在池第 1 组 [1] · `Our head teacher is normally really stern—the second he glares at us, nobody dares to utter a word.`（head teacher 另建 #608）
 - 2026-11-07 ✅ 学习日 在池第 1 组 [4] · `The hiring manager who interviewed me stayed totally stern the whole time, making my palms(背一下) sweat like crazy.` —— stayed totally stern ✓。连对 1 → 2 ⇒ 🎓 毕业（palms 背一下 另建 #615）
 - 2026-11-13 ✅ 学习日 复检第 3 组 [1] · `My grandpa gave us one stern look`
+- 2026-11-26 ✅ 学习日 复检第 4 组 [9] · `with a stern look on his face`
 
 ### 601 · **syringe**（注射器；针头 ⇒ needle）
 类型 词汇 ｜ 新建 2026-11-04 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-13 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-07** ｜ 题型 整句
 
 **问题是什么**
 **syringe** ＝ 注射器（整支针筒）：`The nurse filled the syringe.` · `a disposable syringe`（一次性注射器）
@@ -23682,6 +23772,7 @@ in the end ＝ 最后、终于（后面不跟 of）：`In the end, we stayed hom
 - 2026-11-06 ✅ 在池第 3 组 [2] · `When I was donating blood, the nurse made sure to open a fresh syringe right in front of me.`
 - 2026-11-07 ✅ 学习日 在池第 1 组 [5] · `The vet used a very thin syringe to give my cat a vaccine shot.` —— 连对 1 → 2 ⇒ 🎓 毕业
 - 2026-11-13 ✅ 学习日 复检第 3 组 [2] · `walked over with a syringe`
+- 2026-11-26 ✅ 学习日 复检第 4 组 [10] · `I used to cry the second I saw a syringe.`
 
 ### 602 · **soy milk**（豆浆；⛔ 优先于 soybean milk）
 类型 词汇 ｜ 新建 2026-11-04 ｜ ⭐ 她点名要学
@@ -25484,6 +25575,41 @@ from 管"起点"，后面那个介词管"起点在哪个方位"，两个各干�
 - 2026-11-15 ✅ 学习日 在池第 1 组 [4] · `I worked at that company for the better part of a year before I couldn't take it anymore and quit.` —— 连对 1 → 2 ⇒ 🎓
 - 2026-11-23 ✅ 付息日 复检第 2 组 [4] · `I spent the better part of this weekend helping my mom tidy up the attic.`
 
+### 656 · **a match**（红娘撮合成的一对：none of her matches worked out）
+类型 词汇 ｜ 新建 2026-11-13
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**match**（名词）＝ 撮合／配对成的一对：`none of her matches have worked out` · `They're a perfect match.`
+同一格里的邻居（别串）：pair ＝ 成对的东西（a pair of socks）· couple ＝ 已经在一起的一对 · set sb up（给人介绍对象）。
+判据一句话：说"撮合／配成的那一对" ⇒ match。
+★ 与 #646 play matchmaker 分工：那条考"当红娘"这个动作，本条考名词 match ⇒ 两条。
+★ 题型判整句："撮合成的一对"能落到 couple 绕开，词组题又不许给英文提示 ⇒ 整句 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-13 学习日 在池第 2 组 [5]（#646 题面"我姑姑最爱给年轻人当红娘，可惜一对都没成。"）· 原话
+`My aunt loves playing matchmaker for young people, though sadly none of the pairs have worked out.`
+⚠️ 不地道：pairs 用在撮合出来的人身上像在说成对的物件 ⇒ §3.2b 她的词搭不上 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "matches" ⇒ 只命中 #646（目标版里的字样）⇒ 考点不同（动作 vs 名词）⇒ 否
+　② 中文 dedup "撮合" ⇒ 只命中 #646 ⇒ 同上否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：none of the pairs have worked out　　更地道：none of her matches have worked out
+找法：说"配成的一对" ⇒ match，⛔ 不用 pair。
+
+**题面**
+"他们俩是我介绍认识的，算是我撮合成的第一对。"（"撮合成的一对"用 **match** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I introduced them to each other—they were my first successful match.
+
+- 2026-11-13 ❌ 首犯 · 学习日 在池第 2 组 [5]（#646 题里）· ⚠️ 不地道 · 原话 `My aunt loves playing matchmaker for young people, though sadly none of the pairs have worked out.`
+- 2026-11-14 ✅ 付息日 在池第 2 组 [7] · `they're pretty much my first successful match` —— 连错 1 → 连对 1
+- 2026-11-15 ✅ 学习日 在池第 1 组 [5] · `Out of all the matches my aunt tried to make, not a single one worked out in the end.` —— 连对 1 → 2 ⇒ 🎓
+- 2026-11-23 ❌ 付息日 复检第 2 组 [5] · `The couple our team leader made a match for is getting married next month.` —— make a match for ＋ 人 ＝ 给这人找对象，挂在 the couple 上意思偏了；最小改 matched up，更好版 One of our team leader's matches ⇒ 回潮
+- 2026-11-25 ✅ 学习日 在池第 1 组 [3] · `Out of the matches she made last year, two couples have already gotten married.`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [4] · `the proudest thing she's ever done is making the match between my uncle and aunt` —— 连对 1 → 2 ⇒ 🎓
+
 ### 657 · **take sb off**（比赛里把人换下场；⛔ change sb out）
 类型 词组 ｜ 新建 2026-11-13
 状态 连对2 连错0 上次2026-11-23 ｜ **🎓 已毕业 2026-11-15** ｜ 题型 整句
@@ -26077,7 +26203,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 
 ### 675 · **alumni**（校友，复数；单数口语 an alum）
 类型 词汇 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **alumni** ＝ 校友（复数，最常用）：`Many alumni came back for the anniversary.`
@@ -26109,6 +26235,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 学习日 在池第 3 组 [4] · `Quite a few coworkers at my company are my alumni from my university.` —— alumni 挂在人身上（my alumni）；校友是"某学校的"⇒ alumni of my university —— 连错 1 → 2
 - 2026-11-16 ✅ 学习日 在池第 1 组 [10] · `Quite a few alumni from my school work in Silicon Valley now.` —— alumni from my school（挂学校，没挂人）。连错 2 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [1] · `This scholarship was set up with money donated by a few former alumni.` —— a few alumni（没挂人）；⚠️ former alumni 重复，只进 diff-2。连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [1] · `Over fifty alumni showed up to the reunion this time.`
 
 ### 676 · **hold its own**（站得住、不被比下去：The product can hold its own.）
 类型 词组 ｜ 新建 2026-11-14 ｜ ⭐ 她点名要学
@@ -26147,7 +26274,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 
 ### 677 · **can't take it anymore**（实在受不了了、忍不下去了）
 类型 词组 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **can't take it anymore** ＝ 实在忍不下去了、撑不住了。it 是固定的，⛔ 不换成具体的事；过去时说 **couldn't take it anymore**。
@@ -26177,6 +26304,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 首犯 · 学习日 在池第 1 组 [4]（#655 题里）· 她标「take it anymore 学下」· 原话 `I worked at that company for the better part of a year before I couldn't take it anymore and quit.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [2] · `This job has me working overtime until midnight every single day—I just can't take it anymore.` —— can't take it anymore。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [2] · `…our whole family just can't take it anymore.`（点名降回 take，整块自己调出）。连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [2] · `I just can't take it anymore—I'm planning to move out.`（她标 snore 背下 ⇒ 新建 #710）
 
 ### 678 · **ask sb what they think**（问…的意见／问…怎么看；⛔ ask for advice ＝ 请教该怎么办）
 类型 句型 ｜ 新建 2026-11-15
@@ -26214,7 +26342,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 
 ### 679 · **recite**（背诵、当众背出来：recite a poem · recite a text）
 类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **recite** ＋ 课文／诗 ＝ 把背熟的东西当众、一字一字背出来：`recite a poem` · `recite a text in front of the class`。
@@ -26242,10 +26370,11 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 首犯 · 学习日 在池第 2 组 [2]（#663 题里）· 她标「这个词背下」· 原话 `every time the teacher called me up to the front to recite a text, I got super nervous.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [3] · `My nephew is only five, and he can already recite a whole Tang poem by heart.` —— recite a whole Tang poem。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [3] · `Back in elementary school, our teacher had us recite texts every morning.` 连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [3] · `all the students recited the school motto together.`
 
 ### 680 · **bridesmaid**（伴娘；伴娘之一 ⇒ one of the bridesmaids）
 类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **bridesmaid** ＝ 伴娘（bride ＋ maid）；美式婚礼伴娘常有好几个 ⇒ `I was one of her bridesmaids.`；主伴娘 ＝ the maid of honor。
@@ -26273,10 +26402,11 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 首犯 · 学习日 在池第 2 组 [3]（#664 题里）· 她标「背下」· 原话 `When my bestie got married, I was one of her bridesmaids.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [4] · `My cousin is getting married next month, and she asked me to be one of her bridesmaids.` —— one of her bridesmaids。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [4] · `…I was a bridesmaid alongside two of her college roommates.` 连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [4] · `she had six bridesmaids in total.`
 
 ### 681 · **time off**（休假、请的假：take time off · approve sb's time off；不可数，不加 a）
 类型 词组 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **time off** ＝ 不上班的那段时间（不可数，前面不加 a）：`take some time off` · `I haven't had any time off in months.` · `The boss didn't approve his time off.`
@@ -26300,14 +26430,16 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 **题面**
 "我已经好几个月没休过假了，下个月一定要请几天出去玩。"（"休假"用 **time off** 说）
 ★ 目标形式（教练看，⛔ 不进发题稿）：I haven't had any time off in months—I'm definitely taking a few days off next month to go somewhere.
+★ 换场景时 time off 点名 ⛔ 不挂在带天数的中文上（"请几天假"⇒ 只能落 a few days off，点名 time off 会逼出 a few days of time off，11-26 出坏过一次）
 
 - 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [3]（#622 题里）· 她标「time off 学下」· 原话 `My coworker is still mad at the boss because he didn't approve his time off.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [5] · `I haven't taken any time off in months, so next month I'm definitely taking a few days off to go on a trip.` —— taken any time off · taking a few days off。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [5] · `Our boss rarely approves time off, so nobody gets many days off all year round.` 连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [5] · `I want to take a few days of time off to go with my mom to the hospital for a checkup.` —— 题面出坏：中文带"几天"又点名 time off，逼出 a few days of time off；复检题面出坏记 ✅，题面节补 ★（带天数 ⇒ a few days off）。她标 checkup 学下 ⇒ 新建 #711
 
 ### 682 · **nail ＋ 事情**（口语：做得很到位、拿下：nail the interview · nailed it）
 类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **nail** ＋ 事情 ＝ 把一件事做得正好、做到位（口语）：`She nailed the interview.` · `You nailed it!` · `nail the basics`。
@@ -26335,10 +26467,11 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [7]（#626 题里）· 她标「学下」· 原话 `When learning to drive, you've got to nail the basics first before getting on the highway.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [6] · `She prepped for a whole week before the interview, and she ended up totally nailing it.` —— nailing it。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [6] · `…and surprisingly, she totally nailed it.` 连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [6] · `He totally nailed red-braised pork on his very first try`（她标 on..try 学下 ⇒ 新建 #712）
 
 ### 683 · **beforehand**（事先、提前；副词，放句尾，后面不接东西）
 类型 词汇 ｜ 新建 2026-11-15 ｜ ⭐ 她点名要学
-状态 连对2 连错0 上次2026-11-22 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
+状态 连对2 连错0 上次2026-11-26 ｜ **🎓 已毕业 2026-11-22** ｜ 题型 整句
 
 **问题是什么**
 **beforehand** ＝ 在那件事之前（副词，单独放在句尾）：`It's best to call beforehand.` · `I had no idea beforehand.`
@@ -26366,6 +26499,7 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-15 ❌ 首犯 · 学习日 复检第 4 组 [9]（#628 题里）· 她标「这个词学下」· 原话 `the staff had no idea beforehand.`
 - 2026-11-16 ✅ 学习日 在池第 2 组 [7] · `When you're visiting someone's place, it's best to call and let them know beforehand.` —— let them know beforehand。连错 1 → 连对 1
 - 2026-11-22 ✅ 学习日 在池第 1 组 [7] · `If you're taking clients to that restaurant, remember to book a table beforehand.` 连对 1 → 2
+- 2026-11-26 ✅ 学习日 复检第 3 组 [7] · `it's best to check the route beforehand.`
 
 ### 684 · **N times in a row**（连着 N 次；⛔ 数次数时不用 in one sitting）
 类型 词组 ｜ 新建 2026-11-15
@@ -26622,3 +26756,348 @@ around 在这里不是"周围"，是"有这些人在场的时候"。
 - 2026-11-22 ❌ 首犯 · 学习日 复检第 4 组 [7]（#574 题里）· 她标「这个词组学下」· 原话 `My husband has been stashing away  secret money on the sly behind my back.`
 - 2026-11-23 ✅ 付息日 在池第 1 组 [7] · `My son stashed away all his Chinese New Year red envelope money in a shoebox under his bed.` —— 连错 1 → 连对 1；下次点名降回 stash
 - 2026-11-25 ✅ 学习日 在池第 1 组 [4] · `My mom always stashes away her secret money inside old books.`
+
+### 692 · **brighten up ＋ 地方**（植物、花、装饰让屋子好看、有生气：Plants really brighten up a room.）
+类型 词组 ｜ 新建 2026-11-22
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**brighten up** ＋ 地方 ＝ 让一个地方看着更亮堂、更有生气（植物、花、颜色、装饰）：`A few plants can really brighten up your place.` · `Fresh flowers brighten up the kitchen.`；也能说心情：`Her call brightened up my day.`
+同一格里的邻居（别串）：light up ＝ 照亮（灯照亮屋子）· sb lights up the room ＝ 某人一来场面就热闹了（主语是人）· make sth look nice ＝ 让它好看（她 08-23 旧答用过，意思对、更平）。
+判据一句话：主语是植物／花／装饰，让屋子好看有生气 ⇒ brighten up；真的是光 ⇒ light up。
+
+**怎么发现的**
+2026-11-22 学习日 ③ 重答 bank:220（P3 · Do many people grow vegetables or flowers at home in your country?）· 原话
+`Young people grow plants too, mostly to light up their place, and they tend to go for potted plants since they're way less hassle.`
+diff-2 ⚠️：light up their place 读起来像"照亮"，植物让家里好看的固定说法是 brighten up ⇒ §3.2b 能学的表达 ⇒ 建号。
+判重三步：
+　① 目标形式 dedup "brighten" ⇒ 全档零命中；"light up"／"spruce" ⇒ 零命中
+　② 中文 dedup "装点"／"亮堂" ⇒ 零命中；"好看" ⇒ #687 compliment · 🎓#144 so…that · 🎓#605 in one sitting —— 正文碰巧有"好看"，词都不是 brighten ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`mostly to light up their place`　　更地道：`mostly to brighten up their place`
+找法：说"让家里好看、有生气"时，主语是植物／花／装饰 ⇒ brighten up；light up 留给灯和光。
+
+**题面**
+"我妈在客厅窗台上摆了几盆花，整个屋子一下子亮堂多了。"（"亮堂多了"用 **brighten up** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：My mom put a few pots of flowers on the living room windowsill, and they really brightened up the whole place.
+
+- 2026-11-22 新建 · 学习日 ③ 重答 bank:220 [S4]（⚠️ 更地道的表达，§3.2b）· 原话 `Young people grow plants too, mostly to light up their place, and they tend to go for potted plants since they're way less hassle.`
+- 2026-11-23 ✅ 付息日 在池第 1 组 [10] · `it instantly brightened up the whole room` —— 首测 ⇒ 连对 1
+- 2026-11-26 ✅ 学习日 在池第 2 组 [7] · `it instantly brightened up my whole cubicle.` —— 连对 1 → 2 ⇒ 🎓（她标 cubicle 背一下 ⇒ 新建 #709）
+
+### 693 · **be short ＋ 人／东西**（还缺一个…：We're short a drummer.）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**be short ＋ 名词** ＝ 还缺一个／少几个（人手、东西没凑齐）：`We're short a player.` · `The kitchen is short two chefs tonight.`
+数量提前的说法：`We're one person short.` · `We're two chairs short.`
+钱、时间不够：**be short of** ＋ 东西（short of cash · short of time）；口语也常说 be short on time。
+同一格里的邻居（别串）：lack ＝ 缺乏（书面、偏抽象）· be missing ＝ 少了（本来有、现在不见了）。
+判据一句话：一个队伍／一套东西没凑齐、还差几个 ⇒ be short ＋ 缺的那个。
+
+**怎么发现的**
+2026-11-23 付息日 在池第 1 组 [2]（#686 题面"我们公司年会的乐队缺一个鼓手，我老公自告奋勇上去了。"）· 原话
+`The band for our company's annual party was short(这个短语学下) a drummer, so my husband volunteered to step in.`
+她写对了 was short a drummer，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #666 #691 先例）。
+判重三步：
+　① 目标形式 dedup "short of"／"short a"／"be short" ⇒ 全档零命中
+　② 中文 dedup "缺一个" ⇒ 🎓#103 #272 #320 #322 #323 #465 #662 —— 正文碰巧有"缺一个"，词都不是 short ⇒ 否；"缺" ⇒ 🎓#286 #526 #21 #78 #134 #493 等，同样只是正文碰巧有字，词都不是 short ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `was short a drummer`，但词组不在手边（自己标学下）　　目标：同她原句
+找法：中文"还缺一个…／差一个人"、队伍或东西没凑齐 ⇒ 主语 ＋ be short ＋ 缺的那个。
+
+**题面**
+"我们周末踢球还缺一个守门员，你能来吗？"（"缺"用 **be short** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：We're short a goalkeeper for our game this weekend—can you come?
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 short 点名。
+
+- 2026-11-23 ❌ 首犯 · 付息日 在池第 1 组 [2]（#686 题里）· 她标「这个短语学下」· 原话 `The band for our company's annual party was short a drummer, so my husband volunteered to step in.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [5] · `We're still short one person for mahjong—do you want in?`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [5] · `We're still short two servers at the shop today` —— 降回 short 点名后仍产出整块。连对 1 → 2 ⇒ 🎓
+
+### 694 · **pop into ＋ 地方**（顺路进去一下、进去待一小会儿：I popped into the supermarket.）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**pop into** ＋ 地方 ＝ 顺便／很快地进去一下，待不久就出来：`I popped into the supermarket on my way home.`
+同族：pop in ＝ 进来坐一下（`Feel free to pop in anytime.`）· pop out ＝ 出去一下（`I'm just popping out for coffee.`）· pop over ＝ 顺道过来。
+同一格里的邻居（别串）：stop by／drop by ＝ 顺路去一趟（多指去别人那儿）· go into ＝ 中性的"进去"，没有"一下就走"的意思。
+判据一句话：进去很快、顺路、待一会儿就出来 ⇒ pop into。
+
+**怎么发现的**
+2026-11-23 付息日 在池第 1 组 [4]（#688 题面"我本来只想进店看一眼，结果拎着三件衣服出来了。"）· 原话
+`I only meant to pop into(这个短语学一下) the store for a quick look, but I ended up walking out with three pieces of clothing.`
+她写对了 pop into，但自己标「这个短语学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 先例）。
+判重三步：
+　① 目标形式 dedup "pop into"／"drop in" ⇒ 全档零命中；"pop in" ⇒ 🎓#338 end up（历史行里碰巧有 pop in，条目的词是 end up）⇒ 否
+　② "stop by" ⇒ 🎓#463 talk sth through · 🎓#509 set off（历史行里碰巧有）⇒ 词都不是 pop ⇒ 否；中文 dedup "进去看一眼" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `pop into the store`，但词组不在手边（自己标学下）　　目标：同她原句
+找法：中文"顺便进去一下／进去看一眼"、进去很快就出来 ⇒ pop into ＋ 地方。
+
+**题面**
+"下班路上我顺便进超市买了瓶牛奶。"（"顺便进"用 **pop into** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：On my way home from work, I popped into the supermarket to grab a bottle of milk.
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 pop 点名。
+
+- 2026-11-23 ❌ 首犯 · 付息日 在池第 1 组 [4]（#688 题里）· 她标「这个短语学一下」· 原话 `I only meant to pop into the store for a quick look, but I ended up walking out with three pieces of clothing.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [6] · `I popped into the supermarket to grab a bottle of milk`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [6] · `I popped into a bookstore and browsed around for ten minutes` —— 降回 pop 点名后仍产出整块。连对 1 → 2 ⇒ 🎓
+
+### 696 · **porridge**（粥：a bowl of porridge · make porridge）
+类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**porridge** ＝ 粥（米粥、燕麦粥都行，不可数）：`a bowl of porridge` · `My grandma makes porridge every morning.`
+同一格里的邻居（别串）：congee ＝ 中式米粥（尤其广式白粥）· oatmeal ＝ 燕麦粥（美式常用）· 🎓#577 fried dough sticks ＝ 油条（常跟粥一起说）。
+判据一句话：说"粥／稀饭" ⇒ porridge；特指中式白米粥也可以说 congee。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 2 组 [1]（#652 题面"我奶奶煮粥的时候总会放一勺红糖。"）· 原话
+`Whenever my grandma makes porridge（背一下）, she always adds a spoonful of brown sugar.`
+她写对了 porridge，但自己标「背一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 #694 先例）。
+判重三步：
+　① 目标形式 dedup "porridge" ⇒ 全档零命中
+　② dedup "粥"／"congee" ⇒ 🎓#577 fried dough sticks（正文提到粥，条目的词是油条）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `makes porridge`，但词不在手边（自己标背一下）　　目标：同她原句
+找法：中文"粥／稀饭" ⇒ porridge，一碗 ＝ a bowl of porridge。
+
+**题面**
+"我生病的时候，我妈总会给我煮一锅白粥。"（"粥"用 **porridge** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Whenever I'm sick, my mom always makes me a pot of plain rice porridge.
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [1]（#652 题里）· 她标「背一下」· 原话 `Whenever my grandma makes porridge, she always adds a spoonful of brown sugar.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [7] · `my mom always makes me a pot of plain porridge`（diff-2：plain rice porridge）
+- 2026-11-26 ✅ 学习日 在池第 1 组 [7] · `For breakfast, I usually just have a bowl of pumpkin porridge.` —— 连对 1 → 2 ⇒ 🎓
+
+### 697 · **let in ＋ 球**（丢球、被对方进球：He let in three goals.）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**let in** ＋ 几个 goals ＝ （守门员／球队）让对方进了球、丢球：`The goalkeeper let in three goals.` · `They didn't let in a single goal all game.`
+同一格里的邻居（别串）：concede a goal ＝ 丢球（解说、新闻常用）· keep a clean sheet ＝ 一个球没丢 · score ＝ 自己这边进球。
+判据一句话：说"丢了几个球"、主语是守门员或球队 ⇒ let in ＋ 数字 ＋ goals。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 2 组 [6]（#657 题面"那个守门员上半场连丢三个球，教练中场就把他换下去了。"）· 原话
+`That goalkeeper let in（这个短语学下) three goals in the first half, so the coach took him off at halftime.`
+她写对了 let in，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 先例）。
+判重三步：
+　① 目标形式 dedup "let in"／"concede" ⇒ 全档零命中
+　② 中文 dedup "丢球" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `let in three goals`，但词组不在手边（自己标学下）　　目标：同她原句
+找法：中文"丢球／被进了几个" ⇒ let in ＋ 数字 ＋ goals。
+
+**题面**
+"我们队守门员今天一个球都没丢。"（"丢球"用 **let in** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Our goalkeeper didn't let in a single goal today.
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 let 点名。
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [6]（#657 题里）· 她标「这个短语学下」· 原话 `That goalkeeper let in three goals in the first half, so the coach took him off at halftime.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [8] · `our team let in three goals in the first half alone`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [8] · `That new goalkeeper let in five goals in his very first game.` —— 降回 let 点名后仍产出整块。连对 1 → 2 ⇒ 🎓
+
+### 698 · **dread ＋ 名词／-ing**（一想到就发怵、很怕某件要来的事）
+类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**dread** ＋ 名词／-ing ＝ 很怕一件迟早要来的事，一想到就发怵：`I dread Monday mornings.` · `I'm dreading going back to work.`
+常用句型：`What I dread most is …` · `I dread to think …`
+同一格里的邻居（别串）：be afraid of ＝ 害怕（危险、东西）· hate ＝ 讨厌 · be nervous about ＝ 紧张。
+判据一句话：怕的是一件要来的事、一想到就难受 ⇒ dread。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 2 组 [7]（#658 题面"我们这些当妈的，最怕孩子半夜发烧。"）· 原话
+`what we moms dread(这个词学下) the most is our kids getting a fever in the middle of the night.`
+她写对了 dread，但自己标「这个词学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 先例）。
+判重三步：
+　① 目标形式 dedup "dread" ⇒ 全档零命中
+　② 中文 dedup "最怕" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `what we moms dread the most`，但词不在手边（自己标学下）　　目标：同她原句
+找法：中文"最怕…／一想到…就发怵" ⇒ dread ＋ 那件事。
+
+**题面**
+"我最怕的就是周一早上开会。"（"最怕"用 **dread** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：What I dread most is Monday morning meetings.
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 2 组 [7]（#658 题里）· 她标「这个词学下」· 原话 `what we moms dread the most is our kids getting a fever in the middle of the night.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [9] · `What I dread the most is having meetings on Monday mornings.`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [9] · `My daughter really dreads going to the dentist` —— dread ＋ -ing。连对 1 → 2 ⇒ 🎓
+
+### 699 · **动词 ＋ like crazy**（疯狂地、特别厉害地：The cat sheds like crazy.）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+动词 ＋ **like crazy** ＝ 一个动作做得特别猛、"疯狂地…"（口语）：`The cat sheds like crazy.` · `It's been raining like crazy.` · `The phone got hyped up like crazy.`
+位置：挂在动词／动词短语后面；⛔ 不放在形容词前（⛔ like crazy busy ⇒ crazy busy）。
+同一格里的邻居（别串）：a lot（中性）· crazy ＋ 形容词（crazy busy／crazy expensive）· like mad（同义，偏英式）。
+判据一句话：修饰的是一个动作、而且特别猛 ⇒ 动词后面挂 like crazy。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 4 组 [2]（#441 题面"我同事家的猫掉毛特别厉害，她每天来上班外套上都沾着猫毛。"）· 原话
+`My coworker's cat sheds like crazy(like crazy 又忘了，再学下), so she comes to work with cat hair all over her coat every day.`
+她写对了 like crazy，但自己标「又忘了，再学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 先例）。
+判重三步：
+　① 目标形式 dedup "like crazy" ⇒ 🎓#441 shed（例句与 10-11 历史行里用过）· 🎓#593 hype up（11-04 历史行她用过）· 🎓#556 #600 #615 #638（历史行碰巧有）—— 都是别的词组，like crazy 没有自己的号 ⇒ 否
+　② 中文 dedup "疯狂地" ⇒ 不单列（同 ① 的命中）
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `sheds like crazy`，但词组不在手边（自己标又忘了）　　目标：同她原句
+找法：中文"疯狂地…／…得特别厉害"、修饰的是动作 ⇒ 动词 ＋ like crazy。
+
+**题面**
+"双十一那几天，我们仓库的订单疯狂地往上涨。"（"疯狂地"用 **like crazy** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：During Singles' Day, orders at our warehouse were going up like crazy.
+★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 crazy 点名。
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 4 组 [2]（#441 题里）· 她标「like crazy 又忘了，再学下」· 原话 `My coworker's cat sheds like crazy, so she comes to work with cat hair all over her coat every day.`
+- 2026-11-25 ✅ 学习日 在池第 1 组 [10] · `orders at our warehouse shot up like crazy`
+- 2026-11-26 ✅ 学习日 在池第 1 组 [10] · `I did practice questions like crazy.` —— 降回 crazy 点名后仍产出整块。连对 1 → 2 ⇒ 🎓
+
+### 700 · **wag its tail**（狗摇尾巴：wag its tail at sb）
+类型 词汇 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**wag** ＝ 狗（猫）摇尾巴：`The dog wagged its tail.` · `wag its tail at sb` ＝ 冲某人摇尾巴；也能单用：`The dog's tail was wagging.`
+同一格里的邻居（别串）：shake ＝ 甩（甩头、抖身上的水）· wave ＝ 人挥手。
+判据一句话：尾巴左右摆 ⇒ wag。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 4 组 [3]（#442 题面"我外婆家那只老狗特别亲人，生人来了也冲人摇尾巴。"）· 原话
+`That old dog at my grandma's place is super affectionate—he even wags（背下) his tail at strangers.`
+她写对了 wags his tail，但自己标「背下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 先例）。
+判重三步：
+　① 目标形式 dedup "wag" ⇒ 全档零命中
+　② 中文 dedup "摇尾巴" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `wags his tail`，但词不在手边（自己标背下）　　目标：同她原句
+找法：中文"摇尾巴" ⇒ wag ＋ its／his tail。
+
+**题面**
+"我一拿出零食，我家狗就拼命摇尾巴。"（"摇尾巴"用 **wag** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：As soon as I take out a treat, my dog starts wagging its tail like mad.
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 4 组 [3]（#442 题里）· 她标「背下」· 原话 `That old dog at my grandma's place is super affectionate—he even wags his tail at strangers.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [1] · `my dog starts wagging his tail like crazy`
+- 2026-11-26 ✅ 学习日 在池第 2 组 [1] · `my neighbor's little dog wags his tail at me.` —— 连对 1 → 2 ⇒ 🎓
+
+### 701 · **a base of ＋ 一群人**（一批稳定的…：a base of regular customers）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**a base of ＋ 人** ＝ 一批固定的、撑着你的人：`a base of regular customers` · `a loyal fan base` · `a customer base`。
+常跟 build up／grow 连用：`build up a base of regular customers`。
+同一格里的邻居（别串）：a bunch of（随便一堆，不强调固定）· regulars（单说"老顾客"）。
+判据一句话：中文"一批老顾客／一批粉丝"，强调稳定、撑得住 ⇒ a base of ＋ 人（或 a 名词 base）。
+★ 与 🎓#457（build up）分工：那条是动词块"慢慢攒"，本条是名词块"一批固定的人" ⇒ 两个表达，各走各的。
+★ 题型判整句：中文"一批"单拎出来 a group of／a lot of 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 5 组 [4]（#457 题面"她开网店三年，慢慢积累了一批老顾客。"）· 原话
+`After running an online store for three years, she has slowly built up a base of( a base of 学一下) regular customers.`
+她写对了 a base of regular customers，但自己标「学一下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 #700 先例）。
+判重三步：
+　① 目标形式 dedup "a base of"／"customer base"／"regular customers"／"regulars" ⇒ 全档零命中
+　② 中文 dedup "老顾客" ⇒ 零命中
+　③ 最接近的是 🎓#457 build up ⇒ 否，那条是动词块、本条是名词块 ⇒ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `a base of regular customers`，但块不在手边（自己标学一下）　　目标：同她原句
+找法：中文"一批（固定的）顾客／粉丝／用户" ⇒ a base of ＋ 人。
+
+**题面**
+"他做美食博主两年，攒下了一批铁粉。"（"一批"用 **base** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：After two years as a food blogger, he's built up a base of loyal fans.
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 5 组 [4]（#457 题里）· 她标「学一下」· 原话 `After running an online store for three years, she has slowly built up a base of regular customers.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [2] · `he has built up a solid base of loyal fans`
+- 2026-11-26 ✅ 学习日 在池第 2 组 [2] · `has built up a solid base of regular customers through word of mouth` —— 连对 1 → 2 ⇒ 🎓（她标"口碑"学下 ⇒ 新建 #707）
+
+### 702 · **from the cold**（冻得…：结果 ＋ from the cold）
+类型 词组 ｜ 新建 2026-11-23 ｜ ⭐ 她点名要学
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**结果 ＋ from the cold** ＝ 因为冷而…：`My hands turned purple from the cold.` · `She was shaking from the cold.`
+同一套 from ＋ 原因：tired from the trip · sore from running · red from crying。
+同一格里的邻居（别串）：because of the cold（合法，但长）· with cold（偏书面：shivering with cold）。
+判据一句话：中文"冻得…" ⇒ 先说结果，后面挂 from the cold。
+★ 题型判整句：块挂在结果后面才现形，单拎"冻得"收不拢 ⇒ 要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-23 付息日 复检第 7 组 [4]（#60 题面"冬天不戴手套骑车的话，手会冻得发紫。"）· 原话
+`If you ride a bike in the winter without gloves, your hands will turn purple from the cold（from the cold 学下）.`
+她写对了 from the cold，但自己标「学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #696 #700 #701 先例）。
+判重三步：
+　① 目标形式 dedup "from the cold" ⇒ 全档零命中
+　② 中文 dedup "冻得" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：写对了 `turn purple from the cold`，但块不在手边（自己标学下）　　目标：同她原句
+找法：中文"冻得发抖／冻得发紫／冻得通红" ⇒ 结果 ＋ from the cold。
+
+**题面**
+"等公交等了半个小时，我冻得直发抖。"（"冻得"用 **from the cold** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：After waiting half an hour for the bus, I was shaking from the cold.
+
+- 2026-11-23 ❌ 首犯 · 付息日 复检第 7 组 [4]（#60 题里）· 她标「学下」· 原话 `If you ride a bike in the winter without gloves, your hands will turn purple from the cold.`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [3] · `I was shaking from the cold`
+- 2026-11-26 ✅ 学习日 在池第 2 组 [3] · `my hands were completely numb from the cold.` —— 连对 1 → 2 ⇒ 🎓（她标 numb 学下 ⇒ 新建 #708）
+
+### 703 · **sit around**（闲坐着、什么都不干；⛔ sit tight ＝ 原地等着）
+类型 词组 ｜ 新建 2026-11-23
+状态 连对2 连错0 上次2026-11-26 ｜ 题型 整句 ｜ **🎓 已毕业 2026-11-26**
+
+**问题是什么**
+**sit around** ＝ 闲坐着、啥也不干（常跟 and do nothing／doing nothing 连用）：`They'd rather sit around and do nothing.` · `He just sits around all day.`
+同一格里的邻居（别串）：sit tight ＝ 原地别动、耐心等着（`Sit tight, I'll be right back.`）· lie around（躺着不动）· hang around（在某处闲逛、待着）。
+判据一句话：说的是"懒得动、闲着" ⇒ sit around；说的是"先别动、等着" ⇒ sit tight。
+★ 题型判整句："闲着"单拎出来 do nothing／stay idle 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
+
+**怎么发现的**
+2026-11-23 付息日 d 段重答 bank:924（P3 · Should parents reward children? Why and how?）S5 · 原话
+`Too many rewards can shift their focus away from the real goal and make them dependent on them, to the point where without a reward, they'd rather just sit tight and do nothing at all.`
+sit tight 的意思是"原地等着"，她要说的是"闲着不干" ⇒ 选词错（§2.1④：调出来的是另一个词组）。
+判重三步：
+　① 目标形式 dedup "sit around"／"sit tight" ⇒ 全档零命中
+　② 中文 dedup "躺平"／"闲着"／"lie flat" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`they'd rather just sit tight and do nothing at all`　　正确：`they'd rather just sit around and do nothing at all`
+找法：想说"闲着／干坐着什么都不干"，先落 sit around；sit tight 只在"别动、等一下"时用。
+
+**题面**
+"放暑假了，我儿子整天在家闲着，什么都不干。"（"闲着"用 **sit** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：Now that it's summer break, my son just sits around at home all day doing nothing.
+
+- 2026-11-23 ❌ 首犯 · 付息日 d 段重答 bank:924 S5 · 原话 `they'd rather just sit tight and do nothing at all`
+- 2026-11-25 ✅ 学习日 在池第 2 组 [4] · `my son just sits around at home all day doing nothing`
+- 2026-11-26 ✅ 学习日 在池第 2 组 [4] · `my husband loves to just sit around on the couch scrolling through his phone.` —— 连对 1 → 2 ⇒ 🎓

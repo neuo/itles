@@ -7873,3 +7873,19 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 1⇄1
 
 **下一场 ＝ 周期 19 · L2**：pick --type learn 带 --date；② lookback --pending（bank:1027）；④ redo 第 1 行（bank:987）
+
+## 2026-11-26（周四）· 口语 L2（周期 19 第 2 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 690 ＝ problems.md 23 ＋ graduated.md 667 ｜ 🎓 667 ｜ 未毕业 23 ｜ 可出题 13 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 29 道
+
+- 在池 2 组 18 题 / 18 条：**✅18** ⇒ **毕业 14**（#440 #458 #656 #692 #693 #694 #696–#703）；#347 #705 #706 #704 连对 1
+- 复检 2 组（1 ＋ 下溢 1）20 题 / 20 条：**✅20**；🎓#594 bring up 自发命中
+- 新建 8：#707 word of mouth · #708 numb · #709 cubicle · #710 snore · #711 a checkup · #712 on the first try · #713 sneak out of · #714 catch sb in the act（她标学下／背下；#714 是她要求对比 on the spot／on site）
+- ② 回看 bank:1027
+- ③ 重答 bank:987：0 真错；⚠️ S5 like 举例挂接 ＋ how to 并列同形；对比 08-25 首答：书面档位三处全没了，内容扩到课本以外＋个人例子；工作那半少了具体例子
+
+**教练犯规**：复检 #681 题面中文带"几天"又点名 time off，逼出 a few days of time off ⇒ 记 ✅，题面节补 ★
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 14⇄0
+
+**下一场 ＝ 周期 19 · L3**：pick --type learn；② lookback --pending（bank:987）；④ redo 第 1 行（bank:1043）
