@@ -707,93 +707,6 @@ others ＝ **代词**（＝ other people／other ones），单独站着时用它
 - 2026-09-15 📝 产出验机制取消 ⇒ 题型格回默认「整句」；形态类标记与状态行其余各格一律不动，仍⛔不进召回队列（行为零变化）
 - ⇒ 形态类：⛔ 永不出题（§3.4①），以后在任何地方掉了只追加一行 ⚪
 
-### 347 · "对于 X，他们…" ⇒ X 直接当主语（⛔ For office workers, they …）
-类型 结构 ｜ 新建 2026-09-19
-状态 连对1 连错0 上次2026-11-26 未毕业 ｜ 题型 整句 ｜ **回潮 2026-11-25**（10-14 第二次毕业 → 11-25 学习日重答 bank:1027 写成 `Even for someone like me who's …, I still can't help …`，For X 后再用 I 指回 X，撤销毕业、连对清零）｜ **回潮 2026-10-12**（09-22 毕业 → 10-12 复检 #277／#284 题里两次写成 `Planning a family trip, it's …`／`Whether a relationship can last long, it …`，话题后再用 it 回指，撤销毕业、连对清零）
-
-**问题是什么**
-中文话题句"对于上班族，他们…／对老人来说，他们…"先摆一个话题，再用代词把它重说一遍当主语。
-★ 话题不止 For X：**动名词短语**（Planning a family trip, it's …）、**whether 从句**（Whether it lasts, it …）摆在句首再用 it 回指，同属本条 ——
-　动名词短语／whether 从句本身就能当主语（Planning a family trip is mainly about …）；想保留"先摆话题"⇒ 用 When it comes to X, it's …（🎓#317）把话题包起来。
-英语一个句子只要一个主语 ⇒ **X 直接当主语**：Office workers usually have no choice but to eat out.
-同一格里的邻居（别串）：For X 后面换了**另一个**主语是对的 —— For office workers, eating out is the only option. ／
-For me, reading is more relaxing.（主语不是回指 X 的代词）· 🎓#135 管的是"社会／大家"这种中文主语用 there is／被动吃掉，
-本条管的是主语说了两遍 ⇒ 两条并存。
-判据一句话：For X 后面的主语是不是又指回 X（they／he／it）？是 ⇒ 删掉 For，让 X 直接当主语。
-
-**怎么发现的**
-2026-09-19 付息日 d 段重答 R11（P3 · Do people today prefer eating at home or in a restaurant?）· 原话
-`For office workers, they usually have no choice but to eat out or order takeout`（diff-2 ⚠️，不是 ❌；她确认按 §3.2b 建号）
-判重三步：
-　① 目标形式 X 直接当主语 ⇒ dedup "For office"／"对于"／"主语重复"／"双主语" ⇒ 零命中；"当主语" ⇒ 🎓#135（"社会／大家"用 there is／被动吃掉）、
-　　 🎓#216（东西不会自己 leave）⇒ 都是"主语选谁"，本条是"主语说了两遍" ⇒ 否
-　② 中文 "对于…他们" ⇒ 零命中
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`For office workers, they usually have no choice but to eat out`　　更地道：`Office workers usually have no choice but to eat out`
-找法：说完 For X，看下一个主语是不是又是指 X 的代词；是就把 For 删掉，X 直接当主语。
-
-**题面**
-"对老年人来说，他们还是更喜欢去实体店买东西。"
-　　★ 零提示：Older people … ／ For older people, shopping in person … 都算对；她要改掉的是 For X, they … 主语说两遍
-
-- 2026-09-19 新建 · 付息日 d 段重答 R11（P3）· 原话 `For office workers, they usually have no choice but to eat out or order takeout`（⚠️ 更地道的表达，她确认建号）
-- 2026-09-20 ✅ 学习日 在池第 1 组 · `office workers have no choice but to grab a quick bite outside.` —— office workers 直接当主语，没有 For office workers, they… 那一层；首测一次中
-  ⚠️ diff-2：grab a quick bite outside → eat out or grab something quick（归 🎓#180）· 补 usually
-- 2026-09-22 ✅ 学习日 在池第 1 组 [3] · `Office workers have no choice but to grab a quick bite out.` —— Office workers 直接当主语，没有 For office workers, they… 那一层 ⇒ **连对 2，毕业**
-  ⚠️ diff-2：漏了"一般"（→ usually，🎓#22 她会，检索滑手）· a quick bite out → a quick bite somewhere（grab a quick bite 自带"在外面"，out 多余）
-- 2026-09-28 ✅ 复检第 2 组 · `Office workers usually have no choice but to grab a quick bit outside.`
-- 2026-09-29 📝 题面整改（§6 换场景 ＋ 零提示）
-  去掉"⛔ option／choice 当主语"，改零提示；换成老年人去实体店场景 —— For X, they … 主语说两遍这条路照旧开着
-- 2026-10-05 ✅ 复检 · 学习日 复检第 4 组 [5] · `What young people lack the most is real-world experience.` —— 没有 For X, they 主语说两遍
-- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [3]（#277 题里）· `Planning a family trip, it's mainly about setting a budget while giving everyone the freedom to pick their own spot.` —— 动名词短语当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同 For X, they … 一条规则）⇒ **回潮**
-  最小改 `Planning a family trip is mainly about setting a budget while giving everyone the freedom to pick their own spot.`
-  更好版 `When it comes to planning a family trip, it's mainly about …`（保留"先摆话题"就用 🎓#317 when it comes to 包起来）
-  ★ 判据扩写：话题不止 For X —— 动名词短语／whether 从句摆在句首再用 it 回指，同属本条（问题是什么节补 ★ 行）
-- 2026-10-12 ❌ 付息日 a2 段复检第 6 组 [8]（#284 题里）· `Whether a relationship can last long, it really boils down to whether both people are willing to talk things out.` —— whether 从句当话题摆在句首、再用 it 重说一遍当主语 ⇒ 主语说两遍（同一天第 2 行，§3.3 各记一次）
-  最小改 `Whether a relationship can last long really boils down to whether both people are willing to talk things out.`
-- 2026-10-13 ✅ 学习日 在池第 1 组 [3] · `For college freshmen, their biggest headache is usually figuring out how to get along with their roommates.` —— For X 后面换了另一个主语（their biggest headache），不是回指的 they。连错 2 → 连对 1
-  ⚠️ diff-2：their biggest headache → the biggest headache（For X 已交代"谁的"，删回指词）
-- 2026-10-14 ✅ 学习日 在池第 1 组 [3] · `For people living on their own, what scares them most is getting sick in the middle of the night with nobody around to take care of them.` —— For X 后面换了另一个主语（what scares them most），不是回指的 they。连对 1 → 2 ⇒ **🎓 毕业**（10-12 回潮后第二次毕业）
-- 2026-10-19 ✅ 复检 · 学习日 复检第 4 组 [3] · `For many elementary school kids, summer break is the thing they look forward to the most` —— For X 之后换了主语 summer break，没有主语说两遍（她标 the most 要学 ⇒ 新建 #508）
-- 2026-10-27 ✅ 复检 · 付息日 复检第 3 组 [9] · `For a lot of new mothers, what they lack the most is sleep.` —— 主句主语 what they lack the most（they 在主语从句里，⛔ 不是 For X, they … 主语说两遍）
-- 2026-11-23 ✅ 付息日 复检第 5 组 [7] · `For a lot of international students, the hardest part is not being able to go home for Chinese New Year.` —— For X 后面没再用 they
-- 2026-11-25 ❌ 学习日 重答 bank:1027（P2 · Describe an interesting building）[S10] · `Even for someone like me who's completely used to seeing it, I still can't help taking a second look whenever I walk by, simply because it's just so cute.` —— For X（someone like me）后面主语又用 I 指回 X ⇒ 主语说两遍 ⇒ **回潮**
-  最小改 `Even someone like me who's completely used to seeing it still can't help taking a second look whenever I walk by, simply because it's just so cute.`
-  更好版 `Even though I'm completely used to seeing it, I still can't help taking a second look whenever I walk by, simply because it's so cute.`（说自己就用 Even though I'm …，一个 I 到底）
-- 2026-11-26 ✅ 学习日 在池第 1 组 [1] · `For a lot of retirees, their biggest joy is going to the park every morning for square dancing.` —— For X 后面换了另一个主语（their biggest joy），不是回指的 they。连错 1 → 连对 1
-  ⚠️ diff-2：their biggest joy → the biggest joy（For X 已交代"谁的"，删回指词）
-
-### 695 · **follow sb's tour ／ follow sb on tour**（追巡演、一站站跟着看）
-类型 搭配 ｜ 新建 2026-11-23
-状态 连对1 连错0 上次2026-11-25 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**follow sb's tour** ／ **follow sb on tour** ＝ 粉丝跟着歌手、乐队的巡演一站站去看：`She followed the band's tour all over Europe.` · `He followed them on tour for a whole summer.`
-同一格里的邻居（别串）：🎓#43 come to town ＝ 乐队巡演到我们这儿（主语是乐队）· go on tour ＝ 歌手自己去巡演 · travel with sb's tour ＝ 跟着巡演队伍一起走（多是工作人员）。
-判据一句话：主语是粉丝、追着看 ⇒ follow；主语是歌手 ⇒ go on tour。
-
-**怎么发现的**
-2026-11-23 付息日 在池第 1 组 [6]（#690 题面"我朋友为了追那个歌手，甚至把工作辞了，跟着她全国跑。"）· 原话
-`To follow that singer, my friend even went so far as to quit her job and travel all over the country with her tour.`
-diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人；粉丝追着看的固定说法是 follow sb's tour ⇒ §3.2b 能学的表达 ⇒ 建号。
-判重三步：
-　① 目标形式 dedup "follow.*tour" ⇒ 全档零命中；"on tour" ⇒ 🎓#43 come to your city／come to town（巡演到某地，词是 come、主语是乐队）⇒ 否
-　② 中文 dedup "巡演" ⇒ 🎓#43 同上 · 🎓#400 come here just to（正文碰巧有）⇒ 否；"全国" ⇒ 🎓#49 #388 #415 #669 等，正文碰巧有字 ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：`travel all over the country with her tour`　　更地道：`follow her tour all over the country`
-找法：说"追巡演／跟着去看"、主语是粉丝 ⇒ follow ＋ 谁的 tour。
-
-**题面**
-"她追了那个乐队的巡演整整三年，去了二十多个城市。"（"追…的巡演"用 **follow** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：She followed that band's tour for three whole years and went to more than twenty cities.
-
-- 2026-11-23 新建 · 付息日 在池第 1 组 [6]（#690 题里，⚠️ 更地道的表达，§3.2b）· 原话 `To follow that singer, my friend even went so far as to quit her job and travel all over the country with her tour.`
-- 2026-11-25 ✅ 学习日 在池第 2 组 [5] · `She followed that band's tour for three years straight`
-
 ### 704 · **around ＋ 节日／时间点**（那段时间前后：around Christmas · around Double Eleven）
 类型 搭配 ｜ 新建 2026-11-25
 状态 连对1 连错0 上次2026-11-26 未毕业 ｜ 题型 整句
@@ -825,71 +738,9 @@ diff-2 ⚠️：travel … with her tour 读起来像她是巡演队伍里的人
 - 2026-11-25 新建 · 学习日 在池第 1 组 [10]（#699 题里）· 原话 `During those Double Eleven days, orders at our warehouse shot up like crazy.`
 - 2026-11-26 ✅ 学习日 在池第 2 组 [8] · `Every year around the Mid-Autumn Festival, the price of mooncakes goes up.` —— 首测一次中 ⇒ 连对 1
 
-### 705 · **to the point where ＋ 句子**（到了…的地步：nervous, to the point where I stutter）
-类型 句型 ｜ 新建 2026-11-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-26 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**…, to the point where ＋ 完整句** ＝ 程度深到出现了后面那个结果（"…到了…的地步"）：`I get so nervous around my boss, to the point where I stutter.` · `He was exhausted, to the point where he fell asleep at his desk.`
-where 后面接**完整句**（有主语有谓语）；也可以说 to the point of ＋ -ing（`to the point of stuttering`）。
-同一格里的邻居（别串）：🎓#690 go so far as to ＋ 动词（某人**主动做出**极端的事："甚至说／甚至去做"）· so … that …（"太…以至于"，更平）。
-判据一句话：前面说一个状态、后面说它严重到产生的结果 ⇒ , to the point where ＋ 句子；说某人居然去做了某件过分的事 ⇒ go so far as to。
-
-**怎么发现的**
-2026-11-25 学习日 复检第 3 组 [7]（#672 题面"我在领导面前总是很紧张，说话都结巴。"）· 原话
-`I always get super nervous around my boss, to the point where(这个短语学下) I even stutter when I talk.`
-她用对了，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 #694 #696 先例）。
-判重三步：
-　① 目标形式 dedup "to the point" ⇒ 🎓#495 beat around the bush（命中的是 get to the point ＝ 说正题，另一个词组）⇒ 否；#703 sit around（命中的是历史行里她 11-23 的原话）⇒ 否
-　② 中文 dedup "以至于"／"到了…的地步"／"甚至到" ⇒ 🎓#690 go so far as to（差在：那条是某人主动做出的极端行为，本条是状态严重到出现的结果）⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-★ #703 历史里她 11-23 已经用过一次 `to the point where without a reward, they'd rather …` ⇒ 她会用，要的是把它固定下来。
-
-**我错在哪**
-她的：用对了 `to the point where I even stutter`，但块不在手边（自己标学下）　　目标：同她原句
-找法：想说"…到了…的地步／严重到…" ⇒ 先落 , to the point where ＋ 完整句。
-
-**题面**
-"他最近工作压力特别大，大到晚上都睡不着觉。"（"大到…"用 **to the point where** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：He's been under so much pressure at work lately, to the point where he can't sleep at night.
-
-- 2026-11-25 ❌ 首犯 · 学习日 复检第 3 组 [7]（#672 题里）· 她标「这个短语学下」· 原话 `I always get super nervous around my boss, to the point where I even stutter when I talk.`
-- 2026-11-26 ✅ 学习日 在池第 2 组 [5] · `He's been under a ton of stress at work lately, to the point where he can't even sleep at night.` —— 连错 1 → 连对 1
-
-### 706 · **slack off**（偷懒、摸鱼：slack off on the job · slack off at work）
-类型 词组 ｜ 新建 2026-11-25 ｜ ⭐ 她点名要学
-状态 连对1 连错0 上次2026-11-26 未毕业 ｜ 题型 整句
-
-**问题是什么**
-**slack off** ＝ 该干活的时候不好好干、偷懒（"摸鱼"）：`Some employees slack off when the boss isn't around.` · `Don't slack off on your studies.`
-常跟 on the job／at work／on ＋ 事情 连用。
-同一格里的邻居（别串）：goof off（瞎玩不干正事，更口语）· 🎓#659 mess around（瞎闹、胡闹）· #703 sit around（闲坐着什么都不干，不一定是在该干活的时候）。
-判据一句话：该干活的场合里磨洋工 ⇒ slack off；纯粹闲着没事 ⇒ sit around。
-★ 题型判整句："偷懒"单拎出来 be lazy／goof off 都合法、收不拢 ⇒ 要靠句子 ＋ 正向点名。
-
-**怎么发现的**
-2026-11-25 学习日 复检第 4 组 [6]（#585 题面"店长明知道有员工上班摸鱼，却假装没看见。"）· 原话
-`The store manager knew full well some employees were slacking off（这个短语学下) on the job, yet he just looked the other way.`
-她用对了，但自己标「这个短语学下」⇒ §2③ 她说要学 ⇒ 建号，判 ❌（同 #693 #694 #696 #705 先例）。
-判重三步：
-　① 目标形式 dedup "slack"／"goof off" ⇒ 全档零命中
-　② 中文 dedup "摸鱼"／"偷懒" ⇒ 零命中；近邻 🎓#659 mess around（瞎闹，不限干活场合）、#703 sit around（闲坐着）⇒ 差在不是"该干活时偷懒" ⇒ 否
-　③ 保留新建（⛔ 建号当天不测）
-
-**我错在哪**
-她的：用对了 `were slacking off on the job`，但块不在手边（自己标学下）　　目标：同她原句
-找法：想说"上班摸鱼／偷懒／磨洋工" ⇒ slack off (on the job)。
-
-**题面**
-"期末考试快到了，你可别再偷懒了。"（"偷懒"用 **slack off** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Finals are coming up—you really can't slack off anymore.
-
-- 2026-11-25 ❌ 首犯 · 学习日 复检第 4 组 [6]（#585 题里）· 她标「这个短语学下」· 原话 `some employees were slacking off on the job`
-- 2026-11-26 ✅ 学习日 在池第 2 组 [6] · `so you really need to stop slacking off.` —— 连错 1 → 连对 1
-
 ### 707 · **word of mouth**（口碑、口口相传：through word of mouth）
 类型 词组 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **word of mouth** ＝ 靠熟人一个传一个的推荐（口碑）：`The shop grew through word of mouth.` · `Most of our customers come from word of mouth.`
@@ -916,10 +767,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：This gym never advertises—all its new members come through word of mouth.
 
 - 2026-11-26 ❌ 首犯 · 学习日 在池第 2 组 [2]（#701 题里）· 她标「口碑怎么说学下」· 原话 `has built up a solid base of regular customers through word of mouth`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [4] · `all their new members come purely through word of mouth` —— 连错 1 → 连对 1
 
 ### 708 · **numb**（麻木、没知觉：my hands went numb · numb from the cold）
 类型 词汇 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **numb** ＝ 身体某处没感觉了、发木（冷、压着、打麻药）：`My fingers went numb.` · `My leg went numb from sitting cross-legged.`
@@ -945,10 +797,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：I sat cross-legged for an hour, and my legs went completely numb.
 
 - 2026-11-26 ❌ 首犯 · 学习日 在池第 2 组 [3]（#702 题里）· 她标「学下」· 原话 `my hands were completely numb from the cold`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [5] · `my legs went completely numb` —— 连错 1 → 连对 1
 
 ### 709 · **cubicle**（带隔板的格子间工位：in my cubicle）
 类型 词汇 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 词组
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 词组
 
 **问题是什么**
 **cubicle** ＝ 开放式办公室里四周围着矮隔板的一小格：`I work in a tiny cubicle.` · `back in my cubicle`。被隔板围着 ⇒ 介词用 in。
@@ -975,10 +828,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：my little cubicle
 
 - 2026-11-26 ❌ 首犯 · 学习日 在池第 2 组 [7]（#692 题里）· 她标「背一下」· 原话 `it instantly brightened up my whole cubicle`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [6] · `my little office cubicle with low dividers around it` —— 连错 1 → 连对 1
 
 ### 710 · **snore**（打呼噜：He snores like a train. · his snoring）
 类型 词汇 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **snore** ＝ 睡觉打呼噜、打鼾（动词）：`He snores like a train.` · `My roommate snores every night.`
@@ -1005,10 +859,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：My dad snores so loudly you can hear him through the door.
 
 - 2026-11-26 ❌ 首犯 · 学习日 复检第 3 组 [2]（🎓#677 题里）· 她标「背下」· 原话 `My roommate snores every single night`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [7] · `My dad snores so loud in his sleep that you can hear him right through the door.` —— 连错 1 → 连对 1
 
 ### 711 · **a checkup**（体检：go for a checkup · an annual checkup）
 类型 词汇 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **a checkup** ＝ 体检（可数）：`go for a checkup` · `get a checkup` · `an annual checkup` · `a dental checkup`。
@@ -1031,13 +886,14 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 
 **题面**
 "我们公司每年都会安排员工去做一次体检。"（"体检"用 **checkup** 说）
-★ 目标形式（教练看，⛔ 不进发题稿）：Our company arranges an annual checkup for all employees every year.
+★ 目标形式（教练看，⛔ 不进发题稿）：Our company arranges an annual checkup for all employees.（⛔ annual 已含"每年"，别再加 every year）
 
 - 2026-11-26 ❌ 首犯 · 学习日 复检第 3 组 [5]（🎓#681 题里）· 她标「学下」· 原话 `to go with my mom to the hospital for a checkup`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [8] · `Our company sets up an annual checkup for all employees every year.` —— 连错 1 → 连对 1
 
 ### 712 · **on the first try**（第一次就…、一次就成：passed on the first try）
 类型 词组 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **on the first try** ＝ 第一次尝试就（成了）：`I passed my driving test on the first try.` · `She got it right on her first try.`
@@ -1064,10 +920,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 首次出题给整块（§6② 她点名要学 ⇒ 练），连对 ≥1 之后降回 try 点名。
 
 - 2026-11-26 ❌ 首犯 · 学习日 复检第 3 组 [6]（🎓#682 题里）· 她标「on..try 学下」· 原话 `He totally nailed red-braised pork on his very first try`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [9] · `I passed the road test on the first try` —— 连错 1 → 连对 1
 
 ### 713 · **sneak out of ＋ 地方**（偷偷溜出去：snuck out of class）
 类型 词组 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **sneak out (of ＋ 地方)** ＝ 偷偷溜出去：`He snuck out of class.` · `She used to sneak out of the house at night.`
@@ -1093,10 +950,11 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：Halfway through the meeting, he snuck out the back door to take a call.
 
 - 2026-11-26 ❌ 首犯 · 学习日 复检第 3 组 [8]（🎓#590 题里）· 她标「学下」· 原话 `My little brother snuck out of class to go to an internet cafe`
+- 2026-11-27 ✅ 学习日 在池第 1 组 [10] · `he snuck out the back door to take a phone call` —— 连错 1 → 连对 1
 
 ### 714 · **catch sb in the act**（正干着坏事被撞见、逮个正着；⛔ 别混 on the spot／on site）
 类型 词组 ｜ 新建 2026-11-26 ｜ ⭐ 她点名要学 ｜ 与 🎓#590 场景互斥
-状态 连对0 连错1 上次2026-11-26 未毕业 ｜ 题型 整句
+状态 连对1 连错0 上次2026-11-27 未毕业 ｜ 题型 整句
 
 **问题是什么**
 **in the act** ＝ 正在干（坏事）的那一刻：`catch sb in the act` · `get busted in the act` · ＝ `caught red-handed`。
@@ -1124,6 +982,132 @@ where 后面接**完整句**（有主语有谓语）；也可以说 to the point
 ★ 目标形式（教练看，⛔ 不进发题稿）：My mom caught me in the act of sneaking some cake.
 
 - 2026-11-26 ❌ 首犯 · 学习日 复检第 3 组 [8]（🎓#590 题里）· 她要求跟 on site／on the spot 对比 · 原话 `my dad busted him right in the act`
+- 2026-11-27 ✅ 学习日 在池第 2 组 [1] · `my mom caught me right in the act` —— 连错 1 → 连对 1
+
+### 715 · **furious**（气坏了、火冒三丈：be furious with sb · be furious about sth · look furious）
+类型 词汇 ｜ 新建 2026-11-27 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**furious** ＝ 气到极点、火冒三丈（比 angry／mad 重得多）：`He was furious.` · `She's furious with me.` · `furious about the delay` · `The coach looks furious.`
+同一格里的邻居（别串）：
+　· **mad**（🎓#622）／**angry** ＝ 一般的生气：`be mad at sb` · `angry with sb`
+　· **upset** ＝ 难过、心里不舒服（偏委屈，不一定发火）
+判据一句话：气到脸黑、要发火的那种 ⇒ furious；普通的不高兴、生气 ⇒ mad／angry；难过委屈 ⇒ upset。
+★ 与 🎓#622（be mad at sb）分工：那条是 mad 的介词搭配，本条是 furious 这个词本身。
+
+**怎么发现的**
+2026-11-27 学习日 复检第 3 组 [2]（🎓#684 题面"我们队已经连着输了五场，教练的脸都黑了。"）· 原话
+`Our team has already lost five games in a row, and the coach looks furious（这个词学下).`
+她用对了，但主动要求学 ⇒ §2③ 她主动提出 ⇒ 建号，判 ❌（同 #693 #706 #714 先例）。
+判重三步：
+　① 目标形式 dedup "furious" ⇒ 全档零命中；"mad"／"angry" ⇒ 🎓#622 be mad at sb（目标是 mad 的介词搭配，不是 furious 这个词）⇒ 否；🎓#32 #212（只在题面／正文提到生气，目标是 There's no point／形容词出口）⇒ 否
+　② 中文 dedup "生气"／"气坏" ⇒ 🎓#692 #32（目标分别是 brighten up、There's no point）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `the coach looks furious`，要把这个词收进来　　目标：同她原句
+找法：想说"气坏了／脸都黑了／火冒三丈" ⇒ 先想 furious，别停在 very angry。
+
+**题面**
+"我把我爸的新车刮了一道，他知道以后气坏了。"（"气坏了"用 **furious** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I scratched my dad's new car, and he was furious when he found out.
+
+- 2026-11-27 ❌ 首犯 · 学习日 复检第 3 组 [2]（🎓#684 题里）· 她点名要学 · 原话 `the coach looks furious（这个词学下)`
+
+### 716 · **swap (out) A for B**（把 A 换成 B：swap out regular milk for soy milk）
+类型 搭配 ｜ 新建 2026-11-27 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**swap A for B** ＝ 拿掉 A、换上 B（for 后面是**换上的新东西**）：`swap white rice for brown rice` · `swap out regular milk for soy milk` · `swap A out for B`（out 可加可不加，口语常加）。
+同一格里的邻居（别串）：
+　· **replace A with B** ＝ 同一个意思，但介词是 **with**，顺序一样（A 是旧的，B 是新的）
+　· **switch to B** ＝ 改用 B（不提旧的）
+　· **swap seats／swap places（with sb）** ＝ 互相交换（复数、不带 for；见 🎓#480 邻居行）
+判据一句话：说"把旧的换成新的" ⇒ swap 旧 for 新／replace 旧 with 新；两个人互换 ⇒ swap ＋ 复数名词。
+★ 与 🎓#480（change jobs）分工：那条是"换工作"复数不带冠词，swap 只在邻居行出现；本条是 swap A for B 这个框。
+
+**怎么发现的**
+2026-11-27 学习日 复检第 3 组 [9]（🎓#602 题面"这家咖啡店可以把牛奶换成豆浆，不用加钱。"）· 原话
+`At this coffee shop, you can swap out(学下) regular milk for soy milk at(这个 at 学下) no extra charge.`
+她用对了，但主动要求学 ⇒ §2③ ⇒ 建号，判 ❌（同 #714 先例）。
+判重三步：
+　① 目标形式 dedup "swap" ⇒ 🎓#480 change jobs（swap 只出现在邻居行 swap seats，目标是 change jobs）⇒ 否；"replace" ⇒ 🎓#451 locksmith（无关）⇒ 否
+　② 中文 dedup "换成" ⇒ 命中多条，逐条看都是历史／正文里的"把 X 换成 Y"说明文字（如 🎓#171 #206），目标形式都不是 swap A for B ⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `swap out regular milk for soy milk`，要把这个框收进来　　目标：同她原句
+找法：说"把 A 换成 B" ⇒ swap A for B，for 后面放换上的那个；用 replace 就换成 with。
+
+**题面**
+"我最近早饭把白面包换成了全麦面包。"（"换成"用 **swap** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：I've recently swapped (out) white bread for whole-wheat bread at breakfast.
+
+- 2026-11-27 ❌ 首犯 · 学习日 复检第 3 组 [9]（🎓#602 题里）· 她点名要学 · 原话 `you can swap out(学下) regular milk for soy milk`
+
+### 717 · **at no extra charge**（不另外收费；价格／费用前用 at）
+类型 词组 ｜ 新建 2026-11-27 ｜ ⭐ 她点名要学
+状态 连对0 连错1 上次2026-11-27 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**at no extra charge** ＝ 不额外收钱（本来就要付钱，这一项不加价）：`They'll deliver it at no extra charge.` · `at no additional cost`。
+介词 **at** 是块的一部分：说"以…的价格／费用" ⇒ at —— `at a discount` · `at full price` · `at a low cost` · `at no cost`。
+同一格里的邻居（别串）：
+　· **for free／free of charge** ＝ 完全免费（整样东西不收钱）；for free 用 for，free of charge 不带介词
+　· **on the house**（🎓#413）＝ 店家请客、这单不收
+判据一句话：加一项服务不加钱 ⇒ at no extra charge；整样东西都不要钱 ⇒ for free；店家请你 ⇒ on the house。
+
+**怎么发现的**
+2026-11-27 学习日 复检第 3 组 [9]（🎓#602 题面"这家咖啡店可以把牛奶换成豆浆，不用加钱。"）· 原话
+`you can swap out regular milk for soy milk at(这个 at 学下) no extra charge.`
+她用对了，但主动要求学这个 at ⇒ §2③ ⇒ 建号，判 ❌（同 #714 先例）。
+判重三步：
+　① 目标形式 dedup "no extra charge"／"free of charge" ⇒ 全档零命中；"charge" ⇒ 🎓#467（charge 当动词、主语是收钱的一方）⇒ 否，那条是动词 charge，本条是 at no … charge 这个块；🎓#110 #282（只在正文出现 charge）⇒ 否
+　② 中文 dedup "加钱" ⇒ 零命中；"免费" ⇒ 🎓#413 on the house（店家请客，不是"不额外收费"）⇒ 否
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：用对了 `at no extra charge`，要把 at 收进来　　目标：同她原句
+找法：说"不另外收钱／以…价格" ⇒ 前面放 at，别用 for／with。
+
+**题面**
+"这家蛋糕店可以在蛋糕上写字，不另外收钱。"（"不另外收钱"用 **charge** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：This bakery will write a message on your cake at no extra charge.
+
+- 2026-11-27 ❌ 首犯 · 学习日 复检第 3 组 [9]（🎓#602 题里）· 她点名要学 at · 原话 `at(这个 at 学下) no extra charge`
+
+### 718 · **build with blocks ／ play with building blocks**（搭积木；⛔ build blocks）
+类型 搭配 ｜ 新建 2026-11-27
+状态 连对0 连错0 上次— 未毕业 ｜ 题型 整句
+
+**问题是什么**
+**积木 ＝ (building) blocks**，它是**材料**；"搭积木" ＝ **build with blocks** ／ **play with (building) blocks**：`We spent the afternoon building with blocks.` · `My son loves playing with building blocks.`
+build 直接接的是**搭出来的东西**：`build a tower` · `build a house out of blocks`。
+同一格里的邻居（别串）：
+　· **build Lego** ＝ 成立（Lego 当材料名直接接，英式口语常说；美式也说 build with Lego）
+　· 🎓#322 **play WITH sth** ＝ 玩东西要带 with（play with building blocks 的 with 就是它）
+判据一句话：build 后面是积木本身 ⇒ 加 with；是搭出来的东西（tower／house／robot）⇒ 直接接。
+
+**怎么发现的**
+2026-11-27 学习日 ③ 重答 bank:1043（P2 · Describe a time you needed to use your imagination）S1 · 原话
+`I want to talk about a time I built blocks with my son.`
+diff-2 ⚠️：搭配挂不上（build 直接接 blocks 听着像"造积木"），更地道的说法是能学的表达 ⇒ §3.2b 建号。
+判重三步：
+　① 目标形式 dedup "blocks" ⇒ 🎓#322 play with sth（只在历史行出现 blocks；考点是 play 后面漏 with，不管 build 的宾语）⇒ 否；"Lego" ⇒ 🎓#164 #206 #271 #350 #372（都只在历史行出现 Lego，目标各是时态平面／书面登记／完成时／run wild／get it）⇒ 否；"build" ⇒ 🎓#457 build up、🎓#370 create、🎓#568 pitch a tent（build 的别的搭配，目标形式不同）⇒ 否
+　② 中文 dedup "积木" ⇒ 零命中
+　③ 保留新建（⛔ 建号当天不测）
+
+**我错在哪**
+她的：`a time I built blocks with my son`　　更地道：`a time I was building with blocks with my son`
+找法：build 后面要放积木本身 ⇒ 先补 with；或者换成 play with building blocks。
+
+**题面**
+"下雨天出不了门，我就陪我侄子在客厅搭了一下午积木。"（"搭积木"用 **build** 说）
+★ 目标形式（教练看，⛔ 不进发题稿）：It was raining so we couldn't go out, so I spent the whole afternoon building with blocks with my nephew in the living room.
+
+- 2026-11-27 新建 · 学习日 ③ 重答 bank:1043 S1 · 原话 `I want to talk about a time I built blocks with my son.`
 
 ## 迁移说明（2026-08-18）
 

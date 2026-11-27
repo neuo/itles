@@ -8,7 +8,16 @@
 ## 🚦 当前进度（教练每次 session 后更新）
 
 ```
-🆕🆕🆕 **2026-11-26 · 口语 L2（周期 19 第 2 个学习日）· 已收尾**
+🆕🆕🆕 **2026-11-27 · 口语 L3（周期 19 第 3 个学习日）· 已收尾**
+  —— 在池 2 组 **12 题 / 12 条 ✅12**，🎓 **毕业 4**（#347 #695 #705 #706）；#707–#714 首测全中 ⇒ 连对 1 ｜ 复检 2 组（1 ＋ 下溢 1）**20 题 / 21 条 ✅21**，回潮 0
+  —— 全档 **694** ＝ problems 23 ＋ graduated **671**（96.7%）｜ 未毕业 23 ｜ 可出题 13
+  —— 🆕 **新建 4 条**：#715 furious · #716 swap (out) A for B · #717 at no extra charge（三条她标学下）· #718 build with blocks（重答 ⚠️ 建号）
+  —— ② 回看 bank:987 ｜ ③ 重答 bank:1043（首答 08-25）：0 真错，One time 时间钩子落地、四个 bullet 全覆盖；⚠️ built blocks；旧答两个 cleft 这次没出现
+  —— 🔧 08-25 原篇 bank:1043 小节标题升到 ###（8 行，正文不动）⇒ attempts 能解析
+  —— `check --all` ERROR 0 ｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ migrate 4⇄0
+  —— **下一场 ＝ 周期 19 · R（付息日）**：pick --type review；⓪ lookback --cycle（a 之后 a2 之前）；c 段 review；d 段 redo 从第 1 行（bank:244）
+
+🆕🆕 **2026-11-26 · 口语 L2（周期 19 第 2 个学习日）· 已收尾**
   —— 在池 2 组 **18 题 / 18 条 ✅18**，🎓 **毕业 14**（#440 #458 #656 #692 #693 #694 #696–#703）｜ 复检 2 组（1 ＋ 下溢 1）**20 题 / 20 条 ✅20**，回潮 0
   —— 全档 **690** ＝ problems 23 ＋ graduated **667**（96.7%）｜ 未毕业 23 ｜ 可出题 13
   —— 🆕 **新建 8 条**（全是她标学下／背下／要对比）：#707 word of mouth · #708 numb · #709 cubicle · #710 snore · #711 a checkup · #712 on the first try · #713 sneak out of · #714 catch sb in the act（对比 on the spot／on site）

@@ -7889,3 +7889,19 @@ c 段两件已排好：**#261 按 §3.2c③ 单拆顽固成员 action** · 09-05
 **校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 14⇄0
 
 **下一场 ＝ 周期 19 · L3**：pick --type learn；② lookback --pending（bank:987）；④ redo 第 1 行（bank:1043）
+
+## 2026-11-27（周五）· 口语 L3（周期 19 第 3 个学习日）
+
+**数字**（全部 `lab.py stats`／`count`）：全档 694 ＝ problems.md 23 ＋ graduated.md 671 ｜ 🎓 671 ｜ 未毕业 23 ｜ 可出题 13 ｜ ⚡ 累计 263 条、掉过 17 ｜ 重答队列 68 道 / 未重答过 28 道
+
+- 在池 2 组 12 题 / 12 条：**✅12** ⇒ **毕业 4**（#347 #695 #705 #706）；#707–#714 首测全中 ⇒ 连对 1
+- 复检 2 组（1 ＋ 下溢 1）20 题 / 21 条：**✅21**；回潮 0
+- 新建 4：#715 furious · #716 swap (out) A for B · #717 at no extra charge（她标学下）· #718 build with blocks（重答 ⚠️）
+- ② 回看 bank:987
+- ③ 重答 bank:1043：0 真错；⚠️ S1 built blocks ⇒ #718；对比 08-25 首答：That time → One time ＋ 具体在干什么，四个 bullet 全覆盖，难在哪加了"我搭方盒子 vs 他搭恐龙开飞船"；首答的两个 cleft 这次没出现；🎓#299 much of an imagination 自发命中
+
+**教练犯规**：#711 种子目标形式自己写了 an annual checkup … every year，已修
+
+**校验**：`check --all` ERROR 0（存量提示 16）｜ `deliver`（全节 ＋ 复检节）ERROR 0 ｜ `migrate` 4⇄0
+
+**下一场 ＝ 周期 19 · R（付息日）**：pick --type review；⓪ lookback --cycle（a 之后 a2 之前）；c 段 review；d 段 redo 从第 1 行（bank:244）
